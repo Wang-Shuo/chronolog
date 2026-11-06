@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 39fe100ff53d0dfa58bb238b0f9466214767b28b759ceedf89d60c071def9bb8
+machine_hash: eb218e4271a7f39f5654c6878d4ad966cab9e61a7454b8a632934bb692e6b674
 product: cline
 product_name: Cline
 record:
@@ -42,10 +42,10 @@ record:
   title: 2 Developer Workflow changes in v3.39.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2025-11-20-shell-commands-are-no-longer-included-in-bash-and-powershell-history-files|Shell
-  commands are no longer included in Bash and PowerShell history files]]'
-- '[[Changes/Codex CLI/2025-11-21-app-server-feat-add-declined-status-for-command-exec-by-owenlin0-in-https-github|app-server
-  feat: add Declined status for command exec]]'
+- "[[Changes/Open WebUI/2025-11-25-a-user-list-modal-was-added-to-channels-displaying-all-users-with-access-and-fea|\U0001F4AC
+  A user list modal was added to channels, displaying all users with access…]]"
+- '[[Changes/Dify/2025-11-26-3-developer-workflow-changes-in-1-10-1|3 Developer Workflow
+  changes in 1.10.1]]'
 - '[[Changes/Gemini CLI/2025-11-26-feat-add-click-to-focus-support-for-interactive-shell-by-galz10-in-https-github|feat:
   add click-to-focus support for interactive shell]]'
 source_release: '[[Releases/Cline/cline-2025-12-02-v3-39-0-github-266733488-92b66311|cline-2025-12-02-v3-39-0-github-266733488-92b66311]]'

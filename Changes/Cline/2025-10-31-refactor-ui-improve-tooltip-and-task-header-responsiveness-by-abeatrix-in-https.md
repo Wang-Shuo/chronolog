@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c4f55c2baee012ecf052da9c39046927ad4f33c39c650b2b907bc8b35f9800be
+machine_hash: 8678d3c1372d96f32688ba83443593d415e83207d44d5920d74c229dea38ee87
 product: cline
 product_name: Cline
 record:
@@ -42,11 +42,12 @@ record:
   title: 'refactor(ui): improve tooltip and task header responsiveness'
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-10-29-2-reliability-and-performance-changes-in-2-0|2 Reliability
-  and Performance changes in 2.0]]'
-- '[[Changes/Cursor/2025-10-29-improved-performance|Improved Performance]]'
+- '[[Changes/v0/2025-10-29-large-chats-on-v0-now-load-up-to-12x-faster|12x Faster
+  Chat Loading]]'
 - '[[Changes/Codex CLI/2025-10-30-chore-speed-up-pipeline-in-https-github-com-openai-codex-pull-5812|chore:
   speed-up pipeline in (source link)]]'
+- '[[Changes/Ollama/2025-10-30-qwen3-vl-performance-improvements-including-flash-attention-support-by-default|qwen3-vl
+  performance improvements, including flash attention support by default]]'
 source_release: '[[Releases/Cline/cline-2025-10-31-v3-35-0-github-258670330-1bba90ed|cline-2025-10-31-v3-35-0-github-258670330-1bba90ed]]'
 source_type: github_releases
 theme: reliability-performance
@@ -79,8 +80,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-10-30 · Codex CLI · [[Changes/Codex CLI/2025-10-30-chore-speed-up-pipeline-in-https-github-com-openai-codex-pull-5812|chore: speed-up pipeline in (source link)]]
-- Later: 2025-11-04 · Windsurf · [[Changes/Windsurf/2025-11-04-performance-improvements|Performance Improvements]]
+- Earlier: 2025-10-30 · Ollama · [[Changes/Ollama/2025-10-30-qwen3-vl-performance-improvements-including-flash-attention-support-by-default|qwen3-vl performance improvements, including flash attention support by default]]
+- Later: 2025-10-31 · Replit · [[Changes/Replit/2025-10-31-custom-domain-verification-improvements|Custom domain verification improvements]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

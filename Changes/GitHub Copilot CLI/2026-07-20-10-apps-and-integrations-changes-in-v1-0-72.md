@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2ae8e7cfa3230a0b267062d097a98a00057e7a3f9aab5fccc8d5d545fdd0b52b
+machine_hash: eaee8f55be26b7afcc810e7757c665ce64abda8b1d67a8a91cecb385fdda2cd5
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -66,12 +66,11 @@ record:
   title: 10 Apps and Integrations changes in v1.0.72
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-07-17-multi-repo-environment-support-4b706e|Multi-repo environment
-  support]]'
 - '[[Changes/Claude Code/2026-07-18-changed-sessionstart-hooks-to-report-source-fork-when-a-session-begins-as-a-fork|Changed
   SessionStart hooks to report source "fork" when a session begins as a fork…]]'
 - '[[Changes/Claude Code/2026-07-20-background-sessions-mcp-and-install-github-app-now-park-a-needs-input-request-in|Background
   sessions: /mcp and /install-github-app now park…]]'
+- '[[Changes/ElevenLabs/2026-07-20-sdk-releases|SDK Releases]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-07-20-v1-0-72-github-356903706-84b07b91|github-copilot-cli-2026-07-20-v1-0-72-github-356903706-84b07b91]]'
 source_type: github_releases
 theme: apps-integrations
@@ -127,7 +126,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.72
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-07-20 · Claude Code · [[Changes/Claude Code/2026-07-20-background-sessions-mcp-and-install-github-app-now-park-a-needs-input-request-in|Background sessions: /mcp and /install-github-app now park…]]
+- Earlier: 2026-07-20 · ElevenLabs · [[Changes/ElevenLabs/2026-07-20-sdk-releases|SDK Releases]]
 - Later: 2026-07-21 · Claude Code · [[Changes/Claude Code/2026-07-21-capped-the-frontend-design-plugin-suggestion-tip-at-3-lifetime-impressions-inste|Capped the frontend-design plugin suggestion tip at 3 lifetime impressions instead…]]
 <!-- chronolog:end -->
 

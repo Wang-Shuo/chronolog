@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d1f32bfd866f32d9831d88b8e4301b17dc36ad427524fa1d958b27206e9dafa6
+machine_hash: c5f3e3b4ba60fef6bb58236377c706ce66083bdfec0586bccaa7e068cfd39c48
 product: cursor
 product_name: Cursor
 record:
@@ -73,7 +73,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2023-08-26 · Cursor · [[Changes/Cursor/2023-08-26-we-had-a-big-bug-for-people-on-language-packs-thank-you-to-all-who-helped-us-deb|Bug fix for people on language packs]]
-- Later: 2023-09-23 · Cursor · [[Changes/Cursor/2023-09-23-never-lets-your-root-directory-be-in-the-gitignore|gitignore and search hotfix]]
+- Later: 2023-09-09 · Dify · [[Changes/Dify/2023-09-09-feat-add-visual-studio-code-debug-config-by-garfielddai-in-https-github-com-lang|feat: add visual studio code debug config]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

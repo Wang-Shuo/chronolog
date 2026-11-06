@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 8c119f4806b976289827e6d91e1dce5f6ec3007ffc1968569d1736c59d874e7c
+machine_hash: 46445c9f60cb79575e92fee437351f6a9a4eede8863e12254ef9759c35897eb8
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -86,7 +86,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2025-10-16 · Cline · [[Changes/Cline/2025-10-16-8-developer-workflow-changes-in-v3-33-0|8 Developer Workflow changes in v3.33.0]]
-- Later: 2025-10-17 · Codex CLI · [[Changes/Codex CLI/2025-10-17-add-parsed-command-to-execapprovalrequestevent-5222|Add parsed command to ExecApprovalRequestEvent (♯5222)]]
+- Later: 2025-10-16 · Open WebUI · [[Changes/Open WebUI/2025-10-16-duplicate-html-content-in-artifacts-is-now-prevented-by-improving-code-block-det|🎨 Duplicate HTML content in artifacts is now prevented by improving code block…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

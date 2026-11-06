@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b38e42e0533d5eda7081f012ef37c641635ddb5d477d5b82bfc092b512666101
+machine_hash: 3c0b0389b02d182c4d5ac5d0e1c5e97cdbe2f658d6fc838efa7a817975399479
 product: aider
 product_name: Aider
 record:
@@ -48,12 +48,12 @@ record:
   title: 4 Model Support changes in v0.68.0
   type: change
 related_changes:
-- '[[Changes/Aider/2024-11-26-added-alias-config-to-define-custom-model-aliases-https-aider-chat-docs-config-m|Added
-  --alias config to define custom model…]]'
-- '[[Changes/Aider/2024-12-01-pdf-support-for-sonnet-and-gemini-models|PDF support
-  for Sonnet and Gemini models]]'
 - '[[Changes/Aider/2024-12-06-support-for-new-amazon-bedrock-nova-models|Support for
   new Amazon Bedrock Nova models]]'
+- "[[Changes/Open WebUI/2024-12-07-bypass-model-access-control-introduced-the-bypass-model-access-control-environme|\U0001F513
+  Bypass Model Access Control]]"
+- '[[Changes/Dify/2024-12-09-7-model-support-changes-in-0-13-2|7 Model Support changes
+  in 0.13.2]]'
 source_release: '[[Releases/Aider/aider-2024-12-10-v0-68-0-github-190004650-ac51bb4e|aider-2024-12-10-v0-68-0-github-190004650-ac51bb4e]]'
 source_type: github_releases
 theme: model-support
@@ -93,8 +93,8 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.68.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2024-12-06 · Aider · [[Changes/Aider/2024-12-06-support-for-new-amazon-bedrock-nova-models|Support for new Amazon Bedrock Nova models]]
-- Later: 2024-12-13 · Aider · [[Changes/Aider/2024-12-13-2-model-support-changes-in-v0-69-0|2 Model Support changes in v0.69.0]]
+- Earlier: 2024-12-09 · Dify · [[Changes/Dify/2024-12-09-7-model-support-changes-in-0-13-2|7 Model Support changes in 0.13.2]]
+- Later: 2024-12-10 · DeepSeek API · [[Changes/DeepSeek API/2024-12-10-deepseek-chat|deepseek-chat]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

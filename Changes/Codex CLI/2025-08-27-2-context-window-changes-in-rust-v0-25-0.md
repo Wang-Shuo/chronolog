@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0eeaf1236a249f3f1d772d7bbe0c54733020bca4a5d9de4870666c3ba935d7d6
+machine_hash: 76bd28c4736a21e3dd12db1515685814a5d37f2e6897b0f29f056d93722a8073
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -85,7 +85,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.25.0
 ## Nearby in Context Window
 
 - Earlier: 2025-08-21 · Cursor · [[Changes/Cursor/2025-08-21-context-usage-is-always-shown-in-the-chat-input|Context usage is always shown in the chat input]]
-- Later: 2025-08-29 · Cline · [[Changes/Cline/2025-08-29-add-200k-context-window-variant-for-claude-sonnet-4-to-openrouter-and-cline-prov|Add 200k context window variant for Claude Sonnet 4 to OpenRouter and Cline providers]]
+- Later: 2025-08-28 · Open WebUI · [[Changes/Open WebUI/2025-08-28-2-context-window-changes-in-v0-6-26|2 Context Window changes in v0.6.26]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

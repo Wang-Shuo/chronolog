@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 8ba318a8c4a61662dd00d1637115a27ea49a5573999695104e6648396fd321ce
+machine_hash: 8645ca4deccabac613cce3b3cc3226e609f3ece233fb2adc1dfcb11cb84c79c6
 product: cursor
 product_name: Cursor
 record:
@@ -45,10 +45,10 @@ record:
   title: Automatic code review with Bugbot
   type: change
 related_changes:
-- '[[Changes/Aider/2025-05-09-5-developer-workflow-changes-in-v0-83-0|5 Developer
-  Workflow changes in v0.83.0]]'
-- '[[Changes/Cline/2025-05-10-add-ability-to-generate-commit-message-via-cline-thanks-zapp88|Add
-  ability to generate commit message via cline (Thanks zapp88!)]]'
+- "[[Changes/Open WebUI/2025-05-19-preview-button-for-code-artifacts-instantly-jump-from-an-html-code-block-to-its|\U0001F4DD
+  Preview Button for Code Artifacts]]"
+- '[[Changes/Dify/2025-05-27-2-developer-workflow-changes-in-1-4-1|2 Developer Workflow
+  changes in 1.4.1]]'
 - '[[Changes/OpenHands/2025-06-01-added-a-dev-container-setup-for-development-by-kentyman23-in-https-github-com-al|Added
   a dev container setup for development]]'
 source_release: '[[Releases/Cursor/cursor-2025-06-04-1-0-https-cursor-com-changelog-1-0-237767ca|cursor-2025-06-04-1-0-https-cursor-com-changelog-1-0-237767ca]]'

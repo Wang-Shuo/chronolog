@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1ba1472c470840a60d1f129034ccdcb1d4caf2cd144c33eb7ad786559d161e1e
+machine_hash: ecf313aacc7f48b5fe7e2dc2de89a1f91b5dda2ba83d5d0f9f8a1eeb308b8ef7
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,12 +46,12 @@ record:
   title: 2 Developer Workflow changes in v2.1.160
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-29-4-developer-workflow-changes-in-v1-0-56|4
-  Developer Workflow changes in v1.0.56]]'
 - '[[Changes/Codex CLI/2026-06-01-11-developer-workflow-changes-in-rust-v0-136-0|11
   Developer Workflow changes in rust-v0.136.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-01-lsp-show-lsp-test-and-lsp-reload-correctly-discover-project-lsp-config-when-the|/lsp
   show, /lsp test, and /lsp reload correctly discover project LSP config…]]'
+- '[[Changes/Open WebUI/2026-06-01-27-developer-workflow-changes-in-v0-9-6|27 Developer
+  Workflow changes in v0.9.6]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-02-v2-1-160-github-332740156-03dd8b5a|claude-code-2026-06-02-v2-1-160-github-332740156-03dd8b5a]]'
 source_type: github_releases
 theme: developer-workflow
@@ -90,7 +90,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.160
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-06-01 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-01-lsp-show-lsp-test-and-lsp-reload-correctly-discover-project-lsp-config-when-the|/lsp show, /lsp test, and /lsp reload correctly discover project LSP config…]]
+- Earlier: 2026-06-01 · Open WebUI · [[Changes/Open WebUI/2026-06-01-27-developer-workflow-changes-in-v0-9-6|27 Developer Workflow changes in v0.9.6]]
 - Later: 2026-06-02 · Claude Code · [[Changes/Claude Code/2026-06-02-2-developer-workflow-changes-in-v2-1-161|2 Developer Workflow changes in v2.1.161]]
 <!-- chronolog:end -->
 

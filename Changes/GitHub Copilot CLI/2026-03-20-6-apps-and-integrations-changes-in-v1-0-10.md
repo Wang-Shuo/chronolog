@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 85076dd76a2a8e55e2b9c59ce3cdcae5bc6087b7135b8afa0bc34ad54347a578
+machine_hash: 3b846ac07d52ba6622cb90af747a8175fb6ca6b89bee2c03d28965ade476ad61
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -110,7 +110,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.10
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-03-20 · Cline · [[Changes/Cline/2026-03-20-2-apps-and-integrations-changes-in-v3-75-0|2 Apps and Integrations changes in v3.75.0]]
-- Later: 2026-03-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-23-6-apps-and-integrations-changes-in-v1-0-11|6 Apps and Integrations changes in v1.0.11]]
+- Later: 2026-03-23 · ElevenLabs · [[Changes/ElevenLabs/2026-03-23-workspaces|Workspaces]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

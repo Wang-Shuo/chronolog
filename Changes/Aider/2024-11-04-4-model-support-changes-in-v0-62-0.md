@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ef33607349440351e8067a4795c7e5dae095d4aac02d3aaf1f4eded1f01823a6
+machine_hash: 4ae04759d34dfffaa0294af09d8887f7550433eb5e2ec98c0e0d1f42856e3a05
 product: aider
 product_name: Aider
 record:
@@ -47,8 +47,8 @@ record:
   title: 4 Model Support changes in v0.62.0
   type: change
 related_changes:
-- '[[Changes/Cline/2024-10-28-cline-now-uses-anthropic-s-new-computer-use-https-www-anthropic-com-news-3-5-mod|Cline
-  now uses Anthropic''s new…]]'
+- '[[Changes/Gemini/2024-10-31-update-to-gemini-1-5-pro-in-gemini-advanced|Update
+  to Gemini 1.5 Pro in Gemini Advanced]]'
 - '[[Changes/OpenHands/2024-10-31-support-prompt-caching-on-the-latest-claude-3-5-sonnet-20241022-by-xingyaoww-in|Support
   prompt caching on the latest claude-3-5-sonnet-20241022]]'
 - '[[Changes/Aider/2024-11-01-2-model-support-changes-in-v0-61-0|2 Model Support changes
@@ -92,7 +92,7 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.62.0
 ## Nearby in Model Support
 
 - Earlier: 2024-11-01 · Aider · [[Changes/Aider/2024-11-01-2-model-support-changes-in-v0-61-0|2 Model Support changes in v0.61.0]]
-- Later: 2024-11-13 · Aider · [[Changes/Aider/2024-11-13-web-command-just-adds-the-page-to-the-chat-without-triggering-an-llm-response|/web command just adds the page to the chat, without triggering an LLM response]]
+- Later: 2024-11-05 · Dify · [[Changes/Dify/2024-11-05-17-model-support-changes-in-0-11-0|17 Model Support changes in 0.11.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

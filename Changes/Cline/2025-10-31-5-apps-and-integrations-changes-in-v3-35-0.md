@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 106e4b5b039b6bec55a6dc3eefee001a88a3cabf3f6fdd70249b733a768c314e
+machine_hash: a395bae4dce41a4517bef145841f08869848598639e0d79627319b7e44962893
 product: cline
 product_name: Cline
 record:
@@ -99,7 +99,7 @@ Source: https://github.com/cline/cline/releases/tag/v3.35.0
 ## Nearby in Apps and Integrations
 
 - Earlier: 2025-10-30 · Codex CLI · [[Changes/Codex CLI/2025-10-30-11-apps-and-integrations-changes-in-rust-v0-52-0|11 Apps and Integrations changes in rust-v0.52.0]]
-- Later: 2025-11-03 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-11-03-2-apps-and-integrations-changes-in-v0-0-354|2 Apps and Integrations changes in v0.0.354]]
+- Later: 2025-10-31 · Replit · [[Changes/Replit/2025-10-31-salesforce-and-clickup-connectors|Salesforce and ClickUp connectors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

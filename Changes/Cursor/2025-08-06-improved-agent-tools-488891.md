@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 07b4ba4eb04e281577582dd9746b585ac792f60b4cdbab5d19906f0cab0e427d
+machine_hash: 3527c58dd89a273f24438ec0f9f680f8094085cfb95b6d35e2b0312a267fedec
 product: cursor
 product_name: Cursor
 record:
@@ -60,10 +60,8 @@ record:
   title: Improved Agent tools
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-07-31-improved-the-resolver-summary-generation-by-instructing-the-agent-to-focus-only|Improved
-  the resolver summary generation by instructing the agent to focus only…]]'
-- '[[Changes/Gemini CLI/2025-08-02-6-agent-mode-changes-in-v0-1-16|6 Agent Mode changes
-  in v0.1.16]]'
+- '[[Changes/ElevenLabs/2025-08-04-operation-id-improvements|Operation ID Improvements]]'
+- '[[Changes/ElevenLabs/2025-08-04-agents-platform-df3387|Agents Platform]]'
 - '[[Changes/Gemini CLI/2025-08-05-6-agent-mode-changes-in-v0-1-17|6 Agent Mode changes
   in v0.1.17]]'
 source_release: '[[Releases/Cursor/cursor-2025-08-06-1-4-https-cursor-com-changelog-1-4-5a085889|cursor-2025-08-06-1-4-https-cursor-com-changelog-1-4-5a085889]]'

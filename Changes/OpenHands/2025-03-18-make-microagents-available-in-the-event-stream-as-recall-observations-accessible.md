@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4539ecd0fbfa51f4aa747399cf2ebe6f97b8e42ed995d3e2e554a4822fa9397a
+machine_hash: 01eb52f0c4e4256c7f16a78235c914731954aa2338f915ae59ca77ee51baf568
 product: openhands
 product_name: OpenHands
 record:
@@ -44,12 +44,11 @@ record:
   title: Make microagents available in the event stream as recall observations…
   type: change
 related_changes:
-- '[[Changes/Aider/2025-03-13-2-model-support-changes-in-v0-77-0|2 Model Support changes
-  in v0.77.0]]'
-- '[[Changes/Aider/2025-03-13-added-reasoning-effort-command-to-control-model-reasoning-level|Added
-  /reasoning-effort command to control model reasoning level]]'
+- '[[Changes/Replit/2025-03-14-assistant-model-selection|Assistant model selection]]'
 - '[[Changes/ChatGPT/2025-03-18-o1-and-o3-mini-now-offer-python-powered-data-analysis-in-chatgpt-you-can-now-ask-bfa530|o1
   and o3-mini now offer Python-powered data analysis in ChatGPT]]'
+- '[[Changes/Dify/2025-03-18-2-model-support-changes-in-1-1-0|2 Model Support changes
+  in 1.1.0]]'
 source_release: '[[Releases/OpenHands/openhands-2025-03-18-0-29-0-github-206601563-6461cd91|openhands-2025-03-18-0-29-0-github-206601563-6461cd91]]'
 source_type: github_releases
 theme: model-support
@@ -79,8 +78,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-03-18 · ChatGPT · [[Changes/ChatGPT/2025-03-18-o1-and-o3-mini-now-offer-python-powered-data-analysis-in-chatgpt-you-can-now-ask-bfa530|o1 and o3-mini now offer Python-powered data analysis in ChatGPT]]
-- Later: 2025-03-21 · Aider · [[Changes/Aider/2025-03-21-6-model-support-changes-in-v0-78-0|6 Model Support changes in v0.78.0]]
+- Earlier: 2025-03-18 · Dify · [[Changes/Dify/2025-03-18-2-model-support-changes-in-1-1-0|2 Model Support changes in 1.1.0]]
+- Later: 2025-03-20 · Dify · [[Changes/Dify/2025-03-20-2-model-support-changes-in-1-1-1|2 Model Support changes in 1.1.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

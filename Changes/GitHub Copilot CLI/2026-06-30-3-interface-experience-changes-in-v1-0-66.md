@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4b95c9c4ad4093943447517cb4feb08bd6580c53eed7c06c9f4a62f30ed6e11c
+machine_hash: e45000342d72fc0f481b721751cdb201498b54b10e10fb96ca6e54bb10121d38
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,12 +44,12 @@ record:
   title: 3 Interface Experience changes in v1.0.66
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-24-2-interface-experience-changes-in-v1-0-65|2
-  Interface Experience changes in v1.0.65]]'
-- '[[Changes/Claude Code/2026-06-26-added-claude-code-disable-mouse-clicks-to-disable-mouse-click-drag-hover-in-full|Added
-  CLAUDE_CODE_DISABLE_MOUSE_CLICKS to disable mouse click/drag/hover…]]'
+- '[[Changes/v0/2026-06-26-2-interface-experience-changes-in-platform-api-v2-mcp-chat-tools|2
+  Interface Experience changes in Platform API v2, MCP chat tools…]]'
 - '[[Changes/Cline/2026-06-29-fully-remove-the-clinepass-feature-flag-so-clinepass-is-available-everywhere-in|Fully
   remove the ClinePass feature flag so ClinePass is available everywhere in the UI]]'
+- '[[Changes/Open WebUI/2026-06-29-14-interface-experience-changes-in-v0-10-0|14 Interface
+  Experience changes in v0.10.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-06-30-v1-0-66-github-346845066-af776740|github-copilot-cli-2026-06-30-v1-0-66-github-346845066-af776740]]'
 source_type: github_releases
 theme: interface-experience
@@ -100,7 +100,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.66
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-06-29 · Cline · [[Changes/Cline/2026-06-29-fully-remove-the-clinepass-feature-flag-so-clinepass-is-available-everywhere-in|Fully remove the ClinePass feature flag so ClinePass is available everywhere in the UI]]
+- Earlier: 2026-06-29 · Open WebUI · [[Changes/Open WebUI/2026-06-29-14-interface-experience-changes-in-v0-10-0|14 Interface Experience changes in v0.10.0]]
 - Later: 2026-07-01 · Claude Code · [[Changes/Claude Code/2026-07-01-2-interface-experience-changes-in-v2-1-198|2 Interface Experience changes in v2.1.198]]
 <!-- chronolog:end -->
 

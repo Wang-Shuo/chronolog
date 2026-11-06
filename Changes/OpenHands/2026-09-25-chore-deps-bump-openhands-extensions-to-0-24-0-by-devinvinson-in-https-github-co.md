@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 264d5e025b66dea9976e8983164a8b49734dc091c70cd5c8bc3b7c524bacbb0c
+machine_hash: a0f2d13f5ee4e8cec2c0e38c6ce6d33c850478a8e941c2b9ada68cbfdc9a94fe
 product: openhands
 product_name: OpenHands
 record:
@@ -43,12 +43,12 @@ record:
   title: 'chore(deps): bump @openhands/extensions to 0.24.0'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-24-8-apps-and-integrations-changes-in-v2-1-282|8
-  Apps and Integrations changes in v2.1.282]]'
 - '[[Changes/Claude Code/2026-09-25-14-apps-and-integrations-changes-in-v2-1-283|14
   Apps and Integrations changes in v2.1.283]]'
 - '[[Changes/Codex CLI/2026-09-25-9-apps-and-integrations-changes-in-rust-v0-157-0|9
   Apps and Integrations changes in rust-v0.157.0]]'
+- '[[Changes/Lovable/2026-09-25-app-chat-connectors-discord-and-google-business-profile|App
+  + chat connectors: Discord and Google Business Profile]]'
 source_release: '[[Releases/OpenHands/openhands-2026-09-25-v1-24-0-github-396708686-384650c4|openhands-2026-09-25-v1-24-0-github-396708686-384650c4]]'
 source_type: github_releases
 theme: apps-integrations
@@ -82,8 +82,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-09-25 · Codex CLI · [[Changes/Codex CLI/2026-09-25-9-apps-and-integrations-changes-in-rust-v0-157-0|9 Apps and Integrations changes in rust-v0.157.0]]
-- Later: 2026-09-28 · Claude Code · [[Changes/Claude Code/2026-09-28-8-apps-and-integrations-changes-in-v2-1-284|8 Apps and Integrations changes in v2.1.284]]
+- Earlier: 2026-09-25 · Lovable · [[Changes/Lovable/2026-09-25-app-chat-connectors-discord-and-google-business-profile|App + chat connectors: Discord and Google Business Profile]]
+- Later: 2026-09-25 · Replit · [[Changes/Replit/2026-09-25-build-and-test-airwallex-integrations|Build and test Airwallex integrations]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

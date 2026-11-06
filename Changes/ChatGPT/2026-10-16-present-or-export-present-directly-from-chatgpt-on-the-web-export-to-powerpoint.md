@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b35e22e00403da5ee8ec7dbb9de2b66819d55633ad37d9b0ff78d839e33044ef
+machine_hash: cacc7eb7e3ce69a70cac17705a83c457f1049dc8f836b67011a4eceb372b78f2
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -99,7 +99,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-10-15 · Codex CLI · [[Changes/Codex CLI/2026-10-15-3-mobile-and-desktop-changes-in-rust-v0-163-0|3 Mobile and Desktop changes in rust-v0.163.0]]
-- Later: 2026-10-19 · Claude Code · [[Changes/Claude Code/2026-10-19-windows-improved-git-command-start-up-with-a-standard-git-for-windows-install-by|Windows: Improved git command start-up with a standard Git for Windows install…]]
+- Later: 2026-10-16 · Lovable · [[Changes/Lovable/2026-10-16-removed-tabs-in-the-desktop-app|Removed: tabs in the desktop app]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

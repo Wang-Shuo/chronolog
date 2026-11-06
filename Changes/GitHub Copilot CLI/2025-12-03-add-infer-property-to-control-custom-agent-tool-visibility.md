@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 1d5115c79d29ae5b1f3c481e97a30cddbeb1a82163fa4cbe393297956bb66d08
+machine_hash: 6fd51d6a9144e68706869a00d8616616548eec8aae02ee72fc29c555fdf6f68d
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,9 +43,8 @@ record:
   title: Add `infer` property to control custom agent tool visibility
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-11-21-instant-grep-beta|Instant Grep (Beta)]]'
-- '[[Changes/Cursor/2025-11-21-2-agent-mode-changes-in-2-1|2 Agent Mode changes in
-  2.1]]'
+- '[[Changes/ElevenLabs/2025-11-27-agents-platform-d37ef7|Agents Platform]]'
+- '[[Changes/ElevenLabs/2025-11-27-python-sdk|Python SDK]]'
 - '[[Changes/Codex CLI/2025-12-02-powershell-apply-patch-parsing-is-corrected-and-apply-patch-tests-now-cover-shel|PowerShell
   apply_patch parsing is corrected, and apply_patch tests now cover…]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2025-12-03-v0-0-366-github-267255475-d2d2ee8e|github-copilot-cli-2025-12-03-v0-0-366-github-267255475-d2d2ee8e]]'
@@ -78,7 +77,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2025-12-02 · Codex CLI · [[Changes/Codex CLI/2025-12-02-powershell-apply-patch-parsing-is-corrected-and-apply-patch-tests-now-cover-shel|PowerShell apply_patch parsing is corrected, and apply_patch tests now cover…]]
-- Later: 2025-12-09 · Codex CLI · [[Changes/Codex CLI/2025-12-09-7729-feat-add-is-mutating-detection-for-shell-command-handler-jif-oai|♯7729 feat: add is-mutating detection for shell command handler @jif-oai]]
+- Later: 2025-12-05 · Replit · [[Changes/Replit/2025-12-05-build-full-stack-mobile-apps-with-agent|Build full-stack mobile apps with Agent]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

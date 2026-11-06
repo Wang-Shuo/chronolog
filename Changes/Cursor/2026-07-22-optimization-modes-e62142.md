@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 1e0f0c250e2453d345cf28d44e93a60eded8ce9469844af5bd6a80ec881301c4
+machine_hash: 95c81f8ee865c0bc153d77576042e3e61382c6386d66c233134dad300ed88e52
 product: cursor
 product_name: Cursor
 record:
@@ -99,7 +99,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-07-22 · Claude Code · [[Changes/Claude Code/2026-07-22-added-an-announcement-when-fast-mode-changes-as-a-result-of-switching-models-via|Added an announcement when fast mode changes as a result of switching models…]]
-- Later: 2026-07-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-23-2-model-support-changes-in-v1-0-74|2 Model Support changes in v1.0.74]]
+- Later: 2026-07-22 · Lovable · [[Changes/Lovable/2026-07-22-gemini-3-6-flash-is-now-the-default-model-for-your-app-s-ai|Gemini 3.6 Flash is now the default model for your app's AI]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

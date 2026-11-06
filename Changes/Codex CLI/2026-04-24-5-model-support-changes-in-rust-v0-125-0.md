@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2caf301234aa12b298200b9d1ab27805428a46662b7063b0ae85d05facbbb59e
+machine_hash: 384ef4da221a99be9ae8dc4f458ac424081a41afb11190e0e065fa442b25a44a
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -52,10 +52,10 @@ record:
   title: 5 Model Support changes in rust-v0.125.0
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-04-23-2-model-support-changes-in-v0-39-0|2 Model Support
-  changes in v0.39.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-23-2-model-support-changes-in-v1-0-35|2 Model
   Support changes in v1.0.35]]'
+- '[[Changes/Ollama/2026-04-23-recommended-models-in-ollama-launch-now-appear-in-a-fixed-canonical-order|Recommended
+  models in ollama launch now appear in a fixed, canonical order]]'
 - '[[Changes/Cline/2026-04-24-add-gpt-5-5-model-support-for-openai-codex-subscription-users|Add
   GPT-5.5 model support for OpenAI Codex subscription users]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-04-24-rust-v0-125-0-github-313349252-d42d093c|codex-cli-2026-04-24-rust-v0-125-0-github-313349252-d42d093c]]'
@@ -104,7 +104,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.125.0
 ## Nearby in Model Support
 
 - Earlier: 2026-04-24 · Cline · [[Changes/Cline/2026-04-24-add-gpt-5-5-model-support-for-openai-codex-subscription-users|Add GPT-5.5 model support for OpenAI Codex subscription users]]
-- Later: 2026-04-24 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-24-claude-opus-4-6-now-uses-medium-reasoning-effort-by-default|Claude Opus 4.6 now uses medium reasoning effort by default]]
+- Later: 2026-04-24 · DeepSeek API · [[Changes/DeepSeek API/2026-04-24-deepseek-v4|DeepSeek-V4]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

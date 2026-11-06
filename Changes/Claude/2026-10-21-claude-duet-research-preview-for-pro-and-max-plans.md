@@ -1,0 +1,93 @@
+---
+card_id: claude-2026-10-21-b79244
+date: '2026-10-21'
+description: 'Claude · 2026-10-21 · Agent Mode: We just opened a research preview
+  for users on Pro and Max plans: Claude Duet, a new app where Claude works as a proactive…'
+diffusion:
+  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Agents,
+    new docs]]'
+  inference: No adoption, equivalence, or causation claim.
+  lag_days: 1203
+  relation: same-theme-chronology
+  role: later-observed
+  scope: tracked-products-only
+  theme: agent-mode
+  tracked_products_count: 20
+evolves_from: []
+extractor_version: fallback-v5
+impact: paradigm-shift
+kind: launch
+machine_hash: 2e6f0e780f442ca8b7d85675ae75fd63f80099fa268684b9bc28a7798d90d001
+product: claude
+product_name: Claude
+record:
+  ai_generated: true
+  card_id: claude-2026-10-21-b79244
+  comparison: ''
+  confidence: low
+  date: '2026-10-21'
+  description: 'Claude — Claude updates — 2026-10-21: We just opened a research preview
+    for users on Pro and Max plans: Claude Duet, a new app where Claude works as a
+    proactive agent. For more information, see our blog post: Introducing Claude Duet
+    .'
+  evidence:
+  - quote: 'We just opened a research preview for users on Pro and Max plans: Claude
+      Duet, a new app where Claude works as a proactive agent. For more information,
+      see our blog post: Introducing Claude Duet .'
+    source_release: https://support.claude.com/en/articles/12138966-release-notes#h_fdbb85f303
+  extractor_version: fallback-v5
+  impact: paradigm-shift
+  kind: launch
+  product: claude
+  product_name: Claude
+  slug: claude-duet-research-preview-for-pro-and-max-plans
+  source_release: claude-2026-10-21-2026-10-21-0cb42267
+  source_type: claude_changelog
+  theme: agent-mode
+  title: Claude Duet research preview for Pro and Max plans
+  type: change
+related_changes:
+- '[[Changes/Cursor/2026-10-20-agents-as-code|Agents as code]]'
+- '[[Changes/Cursor/2026-10-20-the-agent-sdk-is-available-today-it-allows-you-to-define-an-agent-as-a-folder-of|The
+  Agent SDK is available today]]'
+- '[[Changes/OpenHands/2026-10-20-5-agent-mode-changes-in-v1-29-0|5 Agent Mode changes
+  in v1.29.0]]'
+source_release: '[[Releases/Claude/claude-2026-10-21-2026-10-21-0cb42267|claude-2026-10-21-2026-10-21-0cb42267]]'
+source_type: claude_changelog
+theme: agent-mode
+title: Claude Duet research preview for Pro and Max plans
+type: change
+---
+
+<!-- chronolog:begin region="header" -->
+# Claude Duet research preview for Pro and Max plans
+
+**Claude** · 2026-10-21 · [[Themes/agent-mode|Agent Mode]] · Launch · [Official source](https://support.claude.com/en/articles/12138966-release-notes#h_fdbb85f303) · from [[Releases/Claude/claude-2026-10-21-2026-10-21-0cb42267|Claude updates — 2026-10-21]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="evidence" -->
+> We just opened a research preview for users on Pro and Max plans: Claude Duet, a new app where Claude works as a proactive agent. For more information, see our blog post: Introducing Claude Duet .
+>
+> Source: https://support.claude.com/en/articles/12138966-release-notes#h_fdbb85f303
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="context" -->
+
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Agent Mode
+
+- Earlier: 2026-10-20 · OpenHands · [[Changes/OpenHands/2026-10-20-5-agent-mode-changes-in-v1-29-0|5 Agent Mode changes in v1.29.0]]
+- Later: 2026-10-21 · Claude Code · [[Changes/Claude Code/2026-10-21-improved-fork-subagents-launched-together-each-is-now-told-which-launch-is-its-o|Improved fork subagents launched together]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-07-06 · Cursor · [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Agents, new docs]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20claude-2026-10-21-b79244&body=Card%3A%20Changes%2FClaude%2F2026-10-21-claude-duet-research-preview-for-pro-and-max-plans.md%0ACard%20ID%3A%20claude-2026-10-21-b79244%0ASource%3A%20https%3A%2F%2Fsupport.claude.com%2Fen%2Farticles%2F12138966-release-notes%23h_fdbb85f303%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

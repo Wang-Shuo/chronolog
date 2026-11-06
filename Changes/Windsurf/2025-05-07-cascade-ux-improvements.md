@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 919898863a60453062b50dddae68d02963b14fc10dabcbeaf2072baa3702be1d
+machine_hash: 71f6a47ac8efc03d3d9eab1eb59d043e7aa3af0f85ed93d72fd95656f720cd64
 product: windsurf
 product_name: Windsurf
 record:
@@ -53,11 +53,12 @@ record:
   title: Cascade UX Improvements
   type: change
 related_changes:
-- '[[Changes/Windsurf/2025-04-27-misc|Misc]]'
-- '[[Changes/ChatGPT/2025-04-29-we-ve-reverted-the-most-recent-update-to-gpt-4o-due-to-issues-with-overly-agreea-097503|Updates
-  to GPT-4o]]'
-- '[[Changes/Cline/2025-05-03-5-model-support-changes-in-v3-14-0|5 Model Support changes
-  in v3.14.0]]'
+- '[[Changes/Open WebUI/2025-05-05-2-model-support-changes-in-v0-6-6|2 Model Support
+  changes in v0.6.6]]'
+- '[[Changes/Gemini/2025-05-06-2-5-pro-experimental-got-a-major-upgrade-for-coding|2.5
+  Pro (experimental) got a major upgrade for coding]]'
+- "[[Changes/Open WebUI/2025-05-06-automatic1111-image-model-setting-applied-properly-fixed-an-issue-where-switchin|\U0001F3A8
+  Automatic1111 Image Model Setting Applied Properly]]"
 source_release: '[[Releases/Windsurf/windsurf-2025-05-07-v1-8-2-20e2205d|windsurf-2025-05-07-v1-8-2-20e2205d]]'
 source_type: windsurf_changelog
 theme: model-support
@@ -98,7 +99,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-05-03 · Cline · [[Changes/Cline/2025-05-03-5-model-support-changes-in-v3-14-0|5 Model Support changes in v3.14.0]]
+- Earlier: 2025-05-06 · Open WebUI · [[Changes/Open WebUI/2025-05-06-automatic1111-image-model-setting-applied-properly-fixed-an-issue-where-switchin|🎨 Automatic1111 Image Model Setting Applied Properly]]
 - Later: 2025-05-09 · Aider · [[Changes/Aider/2025-05-09-12-model-support-changes-in-v0-83-0|12 Model Support changes in v0.83.0]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f598e965cf772865fccf854fd960a97e49d078c73f92369c7b6eb24dea666c76
+machine_hash: 94444e5dae70131fa26b630a9875b95a2adc4e44503a1b7e5f767b75a4a17abd
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -68,12 +68,9 @@ record:
   title: 10 Agent Mode changes in v0.36.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-31-4-agent-mode-changes-in-rust-v0-118-0|4 Agent Mode
-  changes in rust-v0.118.0]]'
-- '[[Changes/Claude Code/2026-04-01-3-agent-mode-changes-in-v2-1-89|3 Agent Mode changes
-  in v2.1.89]]'
-- '[[Changes/Cline/2026-04-01-exclude-new-task-tool-from-system-prompt-in-yolo-headless-mode|Exclude
-  new_task tool from system prompt in yolo/headless mode]]'
+- '[[Changes/ElevenLabs/2026-04-01-elevenagents|ElevenAgents]]'
+- '[[Changes/ElevenLabs/2026-04-01-packages|Packages]]'
+- '[[Changes/ElevenLabs/2026-04-01-new-endpoints|New Endpoints]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-04-01-v0-36-0-github-304395807-bc719eb1|gemini-cli-2026-04-01-v0-36-0-github-304395807-bc719eb1]]'
 source_type: github_releases
 theme: agent-mode
@@ -134,7 +131,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.36.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-04-01 · Cline · [[Changes/Cline/2026-04-01-exclude-new-task-tool-from-system-prompt-in-yolo-headless-mode|Exclude new_task tool from system prompt in yolo/headless mode]]
+- Earlier: 2026-04-01 · ElevenLabs · [[Changes/ElevenLabs/2026-04-01-new-endpoints|New Endpoints]]
 - Later: 2026-04-02 · Cursor · [[Changes/Cursor/2026-04-02-4-agent-mode-changes-in-3-0|4 Agent Mode changes in 3.0]]
 <!-- chronolog:end -->
 

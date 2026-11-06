@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 5f60b5debb2a84f4d1f54369522126a1dfe021479fba3e87ed7fb1402013377d
+machine_hash: 04907dee473cf01599f0f1c86d6441da01941beeab158d910948b5035293672f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -47,11 +47,10 @@ record:
   title: ChatGPT launches ChatGPT Go, a new low-cost subscription plan
   type: change
 related_changes:
-- '[[Changes/Cline/2025-07-15-removing-reasoning-ux-for-grok-4-models-and-correct-pricing-by-arafatkatze-in-ht|Removing
-  reasoning UX for Grok 4 models and correct pricing]]'
-- '[[Changes/Cline/2025-07-31-adding-redirecturl-to-credits-purchasing-experience-by-pashpashpash-in-https-git|adding
-  redirectUrl to credits purchasing experience]]'
 - '[[Changes/Cursor/2025-08-06-usage-and-pricing-visibility|Usage and pricing visibility]]'
+- '[[Changes/Lovable/2025-08-11-unified-credits-bar|Unified credits bar]]'
+- '[[Changes/Claude/2025-08-15-ability-to-change-monthly-team-plan-billing-to-annual|Ability
+  to change monthly Team plan billing to annual]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-08-18-introducing-chatgpt-go-fbc1ef7a|chatgpt-2025-08-18-introducing-chatgpt-go-fbc1ef7a]]'
 source_type: chatgpt_changelog
 theme: pricing-model
@@ -81,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2025-08-06 · Cursor · [[Changes/Cursor/2025-08-06-usage-and-pricing-visibility|Usage and pricing visibility]]
+- Earlier: 2025-08-15 · Claude · [[Changes/Claude/2025-08-15-ability-to-change-monthly-team-plan-billing-to-annual|Ability to change monthly Team plan billing to annual]]
 - Later: 2025-08-18 · Gemini CLI · [[Changes/Gemini CLI/2025-08-18-update-quota-and-pricing-md-to-clarify-billing-by-blanca-delgado-parra-in-https|Update quota-and-pricing.md to clarify billing]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 603d28a075f26b6c8e4011064ebc585596bbc8793b5e1a7b350ceab550d4f88f
+machine_hash: a8ace43aae1e4d3edb70fb78235d3454f09e1d324848a5c4eb3fa8713920be16
 product: claude-code
 product_name: Claude Code
 record:
@@ -55,12 +55,12 @@ record:
     and resume…'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-03-added-pre-configured-oauth-client-credentials-for-mcp-servers-that-don-t-support|Added
-  pre-configured OAuth client credentials for MCP servers that don''t support…]]'
-- '[[Changes/GitHub Copilot CLI/2026-02-03-2-account-and-access-changes-in-v0-0-401|2
-  Account and Access changes in v0.0.401]]'
 - '[[Changes/Codex CLI/2026-02-05-2-account-and-access-changes-in-rust-v0-98-0|2 Account
   and Access changes in rust-v0.98.0]]'
+- '[[Changes/Lovable/2026-02-05-seamless-google-and-apple-authentication|Seamless
+  Google and Apple authentication]]'
+- '[[Changes/Lovable/2026-02-05-a-new-banner-encouraging-email-and-password-users-to-enable-two-factor-authentic|A
+  new banner encouraging email and password users to enable two-factor…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-06-v2-1-33-github-283581096-0f5b01a0|claude-code-2026-02-06-v2-1-33-github-283581096-0f5b01a0]]'
 source_type: github_releases
 theme: account-access
@@ -94,7 +94,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-02-05 · Codex CLI · [[Changes/Codex CLI/2026-02-05-2-account-and-access-changes-in-rust-v0-98-0|2 Account and Access changes in rust-v0.98.0]]
+- Earlier: 2026-02-05 · Lovable · [[Changes/Lovable/2026-02-05-a-new-banner-encouraging-email-and-password-users-to-enable-two-factor-authentic|A new banner encouraging email and password users to enable two-factor…]]
 - Later: 2026-02-10 · Gemini CLI · [[Changes/Gemini CLI/2026-02-10-test-core-mock-fetch-in-oauth-transport-fallback-tests-by-jw409-in-https-github|test(core): mock fetch in OAuth transport fallback tests]]
 <!-- chronolog:end -->
 

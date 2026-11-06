@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: a50a466ef05ee69af674ec19d3e65ff77815efe9ffcd3dfebab41d72f8077022
+machine_hash: 5ef2916fffe3090eabd7d79daf30c9cc130b644dfa23d770105d21fcccde2f85
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -54,12 +54,12 @@ record:
   title: '[SSR Agent] Issue Fix (24935)'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-21-2-developer-workflow-changes-in-v2-1-239|2 Developer
-  Workflow changes in v2.1.239]]'
 - '[[Changes/ChatGPT/2026-08-25-plus-and-pro-users-can-ask-work-on-web-ios-and-android-to-respond-when-a-new-gma|Create
   webhook-triggered tasks]]'
 - '[[Changes/Claude Code/2026-08-25-2-developer-workflow-changes-in-v2-1-246|2 Developer
   Workflow changes in v2.1.246]]'
+- '[[Changes/Dify/2026-08-25-4-developer-workflow-changes-in-1-17-0|4 Developer Workflow
+  changes in 1.17.0]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-08-25-v0-57-0-github-376624905-82c95bfa|gemini-cli-2026-08-25-v0-57-0-github-376624905-82c95bfa]]'
 source_type: github_releases
 theme: developer-workflow
@@ -93,8 +93,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-08-25 · Claude Code · [[Changes/Claude Code/2026-08-25-2-developer-workflow-changes-in-v2-1-246|2 Developer Workflow changes in v2.1.246]]
-- Later: 2026-08-26 · Claude Code · [[Changes/Claude Code/2026-08-26-changed-terminal-hyperlinks-in-rendered-markdown-link-targets-that-point-at-a-ne|Changed terminal hyperlinks in rendered markdown]]
+- Earlier: 2026-08-25 · Dify · [[Changes/Dify/2026-08-25-4-developer-workflow-changes-in-1-17-0|4 Developer Workflow changes in 1.17.0]]
+- Later: 2026-08-25 · Open WebUI · [[Changes/Open WebUI/2026-08-25-73-developer-workflow-changes-in-v0-11-1|73 Developer Workflow changes in v0.11.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d230d33e17de150f2c36ad707335718e480808f4ffb347d5b18920eb78948c69
+machine_hash: 9727d7e4f64af4c91b8cbdd44685a2e1a0b4b7f76d6ae3dff98e3c70f12355a0
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -48,10 +48,10 @@ record:
   title: 3 Apps and Integrations changes in rust-v0.87.0
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-01-14-9-apps-and-integrations-changes-in-v0-24-0|9 Apps
-  and Integrations changes in v0.24.0]]'
 - '[[Changes/Codex CLI/2026-01-15-9207-propagate-mcp-disabled-reason-gt-oai|♯9207
   Propagate MCP disabled reason @gt-oai]]'
+- '[[Changes/Dify/2026-01-15-4-apps-and-integrations-changes-in-1-11-4|4 Apps and
+  Integrations changes in 1.11.4]]'
 - '[[Changes/Codex CLI/2026-01-16-accepting-an-mcp-elicitation-now-sends-an-empty-json-payload-instead-of-null-to|Accepting
   an MCP elicitation now sends an empty JSON payload instead of null…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-01-16-rust-v0-87-0-github-277440557-08f55bf8|codex-cli-2026-01-16-rust-v0-87-0-github-277440557-08f55bf8]]'

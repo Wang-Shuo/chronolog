@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f53c452bffb421a395feef759806169044b030d6aeda1b66a89b0521e537652b
+machine_hash: 29820c6fae4cb1f39e1f5a074c0974c5ec819b154b13a79dc4d62e9a988f1ea1
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,10 +44,9 @@ record:
   title: 2 Memory and Personalization changes in rust-v0.132.0
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-05-12-feat-memory-add-auto-memory-inbox-flow-with-canonical-patch-contract-by-sandytao|feat(memory):
-  add Auto Memory inbox flow with canonical-patch contract]]'
-- '[[Changes/Codex CLI/2026-05-18-4-memory-and-personalization-changes-in-rust-v0-131-0|4
-  Memory and Personalization changes in rust-v0.131.0]]'
+- '[[Changes/Lovable/2026-05-18-security-memory|Security memory]]'
+- '[[Changes/Dify/2026-05-19-workflow-execution-reliability-restored-tracing-after-hitl-workflow-resume-impro|Workflow
+  execution reliability]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-19-2-memory-and-personalization-changes-in-v1-0-49|2
   Memory and Personalization changes in v1.0.49]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-05-20-rust-v0-132-0-github-325545332-3345c1c4|codex-cli-2026-05-20-rust-v0-132-0-github-325545332-3345c1c4]]'

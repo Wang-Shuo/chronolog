@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: b51cdb70dc729064c36c0a3a8909d348ee53f4369094492ec8a6956a7d1512f9
+machine_hash: 4b31fb7ae9da357ac95b6aaaf1e79b858515669f0d797d9bdc5da4452651aad9
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -59,12 +59,12 @@ record:
     deep…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-04-11-2-search-and-browsing-changes-in-rust-v0-120-0|2
-  Search and Browsing changes in rust-v0.120.0]]'
 - '[[Changes/Codex CLI/2026-04-15-17684-adjust-default-tool-search-result-caps-malone-oai|♯17684
   Adjust default tool search result caps @malone-oai]]'
 - '[[Changes/Codex CLI/2026-04-20-plugin-workflows-now-include-tabbed-browsing-inline-enable-disable-toggles-marke|Plugin
   workflows now include tabbed browsing, inline enable/disable toggles…]]'
+- '[[Changes/Open WebUI/2026-04-21-4-search-and-browsing-changes-in-v0-9-0|4 Search
+  and Browsing changes in v0.9.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-05-01-v1-0-40-github-316385532-9c4aec71|github-copilot-cli-2026-05-01-v1-0-40-github-316385532-9c4aec71]]'
 source_type: github_releases
 theme: search-browsing
@@ -104,8 +104,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Search and Browsing
 
-- Earlier: 2026-04-20 · Codex CLI · [[Changes/Codex CLI/2026-04-20-plugin-workflows-now-include-tabbed-browsing-inline-enable-disable-toggles-marke|Plugin workflows now include tabbed browsing, inline enable/disable toggles…]]
-- Later: 2026-05-07 · Codex CLI · [[Changes/Codex CLI/2026-05-07-21054-rollout-store-web-search-and-mcp-tool-calls-owenlin0|♯21054 rollout: store web search and mcp tool calls @owenlin0]]
+- Earlier: 2026-04-21 · Open WebUI · [[Changes/Open WebUI/2026-04-21-4-search-and-browsing-changes-in-v0-9-0|4 Search and Browsing changes in v0.9.0]]
+- Later: 2026-05-03 · Ollama · [[Changes/Ollama/2026-05-03-web-search-coming-soon|Web Search (coming soon)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

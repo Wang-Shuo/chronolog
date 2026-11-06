@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 581402e8379dc66d76f01cf9de189b9ae7405105248a344897ba3882d7db081c
+machine_hash: 1b54d6baa48544cfd4daa97a90aaf56131a896ab0af476f457bab43fe62f315a
 product: cursor
 product_name: Cursor
 record:
@@ -54,12 +54,12 @@ record:
   title: 'Copilot++: We''ve continued to improve the Copilot++ ghost text experience'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2023-11-06-you-can-now-create-custom-versions-of-chatgpt-that-combine-instructions-extra-kn-5c0997|Introducing
-  GPTs]]'
 - '[[Changes/Cursor/2023-11-15-now-based-on-vs-code-1-84-2-notably-this-fixes-a-few-notebook-bugs-and-ensures-t|New
   upstream]]'
 - '[[Changes/Cursor/2023-11-15-cursor-is-now-based-on-vs-code-1-84-2-notably-this-fixes-a-few-notebook-bugs-and|Cursor
   is now based on VS Code 1.84.2]]'
+- '[[Changes/Dify/2023-11-21-feat-remove-plugin-page-by-zxhlyh-in-https-github-com-langgenius-dify-pull-1544|feat:
+  remove plugin page]]'
 source_release: '[[Releases/Cursor/cursor-2023-12-16-0-20-0-https-cursor-com-changelog-0-20-0-fecb080e|cursor-2023-12-16-0-20-0-https-cursor-com-changelog-0-20-0-fecb080e]]'
 source_type: cursor_changelog
 theme: apps-integrations
@@ -90,7 +90,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2023-11-15 · Cursor · [[Changes/Cursor/2023-11-15-cursor-is-now-based-on-vs-code-1-84-2-notably-this-fixes-a-few-notebook-bugs-and|Cursor is now based on VS Code 1.84.2]]
+- Earlier: 2023-11-21 · Dify · [[Changes/Dify/2023-11-21-feat-remove-plugin-page-by-zxhlyh-in-https-github-com-langgenius-dify-pull-1544|feat: remove plugin page]]
 - Later: 2024-01-10 · ChatGPT · [[Changes/ChatGPT/2024-01-10-the-store-features-a-diverse-range-of-gpts-developed-by-our-partners-and-the-com-71db32|Discover what’s trending in the GPT Store]]
 <!-- chronolog:end -->
 

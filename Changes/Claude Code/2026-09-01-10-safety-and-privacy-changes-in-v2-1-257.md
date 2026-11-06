@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0fbc5065186fa8305d67d3123039737007c3f1eec78e471606a881382ba68bef
+machine_hash: 832d5259a92fc4c0ecff7b5ce40f6b099c16164f78f95837107252743a030792
 product: claude-code
 product_name: Claude Code
 record:
@@ -73,10 +73,10 @@ record:
   title: 10 Safety and Privacy changes in v2.1.257
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-28-6-safety-and-privacy-changes-in-v2-1-251|6 Safety
-  and Privacy changes in v2.1.251]]'
 - '[[Changes/Codex CLI/2026-08-29-5-safety-and-privacy-changes-in-rust-v0-151-0|5
   Safety and Privacy changes in rust-v0.151.0]]'
+- "[[Changes/Open WebUI/2026-08-31-security-advisory-this-release-includes-security-and-access-control-fixes-we-rec|\U0001F6E1️
+  Security Advisory: This release includes security and access-control fixes]]"
 - '[[Changes/Claude Code/2026-09-01-fixed-remote-and-scheduled-sessions-failing-with-user-messages-must-have-non-emp|Fixed
   remote and scheduled sessions failing…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-01-v2-1-257-github-380686035-b86855a6|claude-code-2026-09-01-v2-1-257-github-380686035-b86855a6]]'

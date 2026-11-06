@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e55ab9873a7629cf9d381c45459991bf1c0dda47df0e2c828dd60e662f6c1c5a
+machine_hash: daf4be82d37bdd52e64314db512328b0fa393df6c7858724e7c17455134d0f13
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -44,9 +44,10 @@ record:
   title: 2 Context Window changes in v0.1.14
   type: change
 related_changes:
-- '[[Changes/Windsurf/2025-07-17-mentioning-conversations|mentioning conversations]]'
 - '[[Changes/Gemini CLI/2025-07-19-2-context-window-changes-in-v0-1-13|2 Context Window
   changes in v0.1.13]]'
+- "[[Changes/Open WebUI/2025-07-19-chat-preview-in-search-when-searching-chats-instantly-preview-results-in-context|\U0001F50E
+  Chat Preview in Search]]"
 - '[[Changes/Cline/2025-07-22-change-available-cerebras-models-modify-context-window-by-arafatkatze-in-https-g|Change
   available Cerebras models + modify context window]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-07-25-v0-1-14-github-235287807-631ef7fa|gemini-cli-2025-07-25-v0-1-14-github-235287807-631ef7fa]]'

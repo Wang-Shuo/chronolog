@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b3f8f220d45b02dcbb110aa2f250ac8161cdcfe26ebd5d23dc81d476a9da28f5
+machine_hash: 7c46182b67219cf75c8d8742bfdf4af0d207f414b84a2f3240891aa9086649fb
 product: openhands
 product_name: OpenHands
 record:
@@ -53,12 +53,12 @@ record:
     images…
   type: change
 related_changes:
-- '[[Changes/Cline/2024-12-12-the-model-context-protocol-https-github-com-modelcontextprotocol-allows-agents-l|The
-  Model Context Protocol((source link) allows agents…]]'
-- '[[Changes/ChatGPT/2025-02-14-set-chatgpt-as-default-search-engine-in-safari|Set
-  ChatGPT as default search engine in Safari]]'
-- '[[Changes/Cursor/2025-02-19-web-search-agent-can-now-automatically-search-the-web-for-up-to-date-information|Web
-  search: Agent can now automatically search the web for up-to-date information…]]'
+- "[[Changes/Open WebUI/2025-02-20-web-search-retrieval-restored-resolved-a-critical-issue-that-broke-web-search-re|\U0001F50D
+  Web Search Retrieval Restored]]"
+- "[[Changes/Open WebUI/2025-02-27-full-context-mode-renamed-for-clarity-the-full-context-mode-toggle-in-web-search|\U0001F4DD
+  \"Full Context Mode\" Renamed for Clarity]]"
+- '[[Changes/Dify/2025-03-11-for-a-more-detailed-dive-into-each-update-feel-free-to-browse-through-the-prs-we|For
+  a more detailed dive into each update, feel free to browse through the PRs]]'
 source_release: '[[Releases/OpenHands/openhands-2025-04-02-0-31-0-github-209939505-1b9e3a2d|openhands-2025-04-02-0-31-0-github-209939505-1b9e3a2d]]'
 source_type: github_releases
 theme: search-browsing
@@ -89,8 +89,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Search and Browsing
 
-- Earlier: 2025-02-19 · Cursor · [[Changes/Cursor/2025-02-19-web-search-agent-can-now-automatically-search-the-web-for-up-to-date-information|Web search: Agent can now automatically search the web for up-to-date information…]]
-- Later: 2025-04-08 · Cline · [[Changes/Cline/2025-04-08-use-your-local-chrome-browser-for-session-based-browsing-enabling-debugging-and|Use your local Chrome browser for session-based browsing, enabling debugging…]]
+- Earlier: 2025-03-11 · Dify · [[Changes/Dify/2025-03-11-for-a-more-detailed-dive-into-each-update-feel-free-to-browse-through-the-prs-we|For a more detailed dive into each update, feel free to browse through the PRs]]
+- Later: 2025-04-07 · Open WebUI · [[Changes/Open WebUI/2025-04-07-2-search-and-browsing-changes-in-v0-6-2|2 Search and Browsing changes in v0.6.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

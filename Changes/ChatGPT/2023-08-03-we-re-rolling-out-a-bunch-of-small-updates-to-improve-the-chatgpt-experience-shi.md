@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 1909b4896b8dafca45115e4193af94d46cd9753547dc53363508e7cdf3869022
+machine_hash: ba747859c88461246b7071320cdca9ef7bcadd1df287ccd74f9224a1b1922804
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -77,11 +77,11 @@ record:
   title: Updates to ChatGPT
   type: change
 related_changes:
-- '[[Changes/Aider/2023-07-24-benchmarked-https-aider-chat-docs-benchmarks-html-at-64-7-for-gpt-4-diff-no-regr|Benchmarked((source
-  link) at 64.7% for gpt-4/diff…]]'
 - '[[Changes/Cursor/2023-07-28-long-ai-completions-8c21b2|Long AI completions]]'
 - '[[Changes/Aider/2023-08-02-defend-against-gpt-3-5-or-non-openai-models-suggesting-filenames-surrounded-by-a|Defend
   against GPT-3.5 or non-OpenAI models suggesting filenames surrounded by asterisks]]'
+- '[[Changes/Ollama/2023-08-02-when-running-ollama-run-the-show-command-can-be-used-to-inspect-the-current-mode|When
+  running ollama run, the /show command can be used to inspect the current model]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2023-08-03-updates-to-chatgpt-0d776ee3|chatgpt-2023-08-03-updates-to-chatgpt-0d776ee3]]'
 source_type: chatgpt_changelog
 theme: model-support
@@ -108,7 +108,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2023-08-02 · Aider · [[Changes/Aider/2023-08-02-defend-against-gpt-3-5-or-non-openai-models-suggesting-filenames-surrounded-by-a|Defend against GPT-3.5 or non-OpenAI models suggesting filenames surrounded by asterisks]]
+- Earlier: 2023-08-02 · Ollama · [[Changes/Ollama/2023-08-02-when-running-ollama-run-the-show-command-can-be-used-to-inspect-the-current-mode|When running ollama run, the /show command can be used to inspect the current model]]
 - Later: 2023-08-08 · Aider · [[Changes/Aider/2023-08-08-defend-against-gpt-3-5-or-non-openai-models-suggesting-filenames-surrounded-by-a|Defend against GPT-3.5 or non-OpenAI models suggesting filenames surrounded by asterisks]]
 <!-- chronolog:end -->
 

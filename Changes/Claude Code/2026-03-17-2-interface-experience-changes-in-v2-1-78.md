@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9516d0870686537268dd8b01246dc1aeb85f28f5ce116eb79e8e854e3a50af03
+machine_hash: f5377f82680b51c0476274016c2cd94e6e80a2192e81ec9a0b4c376594ddfdcb
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,10 +44,10 @@ record:
   title: 2 Interface Experience changes in v2.1.78
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-16-14410-make-collab-model-metadata-accurate-on-completion-aibrahim-oai|♯14410
-  Make collab model metadata accurate on completion @aibrahim-oai]]'
-- '[[Changes/GitHub Copilot CLI/2026-03-16-show-friendlier-error-messages-and-provide-keyboard-shortcut-to-open-event-links|Show
-  friendlier error messages and provide keyboard shortcut to open event links…]]'
+- '[[Changes/Lovable/2026-03-16-better-dashboard-organization-and-navigation|Better
+  dashboard organization and navigation]]'
+- '[[Changes/v0/2026-03-16-improved-sidebar-design-based-on-user-feedback|Improved
+  sidebar design based on user feedback]]'
 - '[[Changes/Claude Code/2026-03-17-copy-now-accepts-an-optional-index-copy-n-copies-the-nth-latest-assistant-respon|/copy
   now accepts an optional index: /copy N copies the Nth-latest assistant response]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-17-v2-1-78-github-298204446-1f2c1721|claude-code-2026-03-17-v2-1-78-github-298204446-1f2c1721]]'
@@ -86,7 +86,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.78
 ## Nearby in Interface Experience
 
 - Earlier: 2026-03-17 · Claude Code · [[Changes/Claude Code/2026-03-17-copy-now-accepts-an-optional-index-copy-n-copies-the-nth-latest-assistant-respon|/copy now accepts an optional index: /copy N copies the Nth-latest assistant response]]
-- Later: 2026-03-17 · Gemini CLI · [[Changes/Gemini CLI/2026-03-17-3-interface-experience-changes-in-v0-34-0|3 Interface Experience changes in v0.34.0]]
+- Later: 2026-03-17 · Dify · [[Changes/Dify/2026-03-17-7-interface-experience-changes-in-1-13-1|7 Interface Experience changes in 1.13.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

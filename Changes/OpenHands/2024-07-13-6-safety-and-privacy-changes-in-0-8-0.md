@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2f90a5c1c3e5ad796d4a4596b3b6a713ae2846ab09fa03f2be848bf7ceaeb999
+machine_hash: 722d4a7966d40eae9cb93d37519dab31ae28eb1181425149e6f81d526fae11d5
 product: openhands
 product_name: OpenHands
 record:
@@ -54,12 +54,12 @@ record:
   title: 6 Safety and Privacy changes in 0.8.0
   type: change
 related_changes:
-- '[[Changes/OpenHands/2024-06-04-2-safety-and-privacy-changes-in-0-6-1|2 Safety and
-  Privacy changes in 0.6.1]]'
-- '[[Changes/OpenHands/2024-06-29-12-safety-and-privacy-changes-in-0-7-0|12 Safety
-  and Privacy changes in 0.7.0]]'
+- "[[Changes/Open WebUI/2024-06-30-dependency-update-upgraded-authlib-from-version-1-3-0-to-1-3-1-to-ensure-better|\U0001F4E6
+  Dependency Update]]"
 - '[[Changes/OpenHands/2024-07-05-2-safety-and-privacy-changes-in-0-7-1|2 Safety and
   Privacy changes in 0.7.1]]'
+- '[[Changes/Dify/2024-07-08-2-safety-and-privacy-changes-in-0-6-13|2 Safety and Privacy
+  changes in 0.6.13]]'
 source_release: '[[Releases/OpenHands/openhands-2024-07-13-0-8-0-github-165308599-8532f458|openhands-2024-07-13-0-8-0-github-165308599-8532f458]]'
 source_type: github_releases
 theme: safety-privacy
@@ -105,7 +105,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/0.8.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2024-07-05 · OpenHands · [[Changes/OpenHands/2024-07-05-2-safety-and-privacy-changes-in-0-7-1|2 Safety and Privacy changes in 0.7.1]]
+- Earlier: 2024-07-08 · Dify · [[Changes/Dify/2024-07-08-2-safety-and-privacy-changes-in-0-6-13|2 Safety and Privacy changes in 0.6.13]]
 - Later: 2024-07-19 · OpenHands · [[Changes/OpenHands/2024-07-19-2-safety-and-privacy-changes-in-0-8-1|2 Safety and Privacy changes in 0.8.1]]
 <!-- chronolog:end -->
 

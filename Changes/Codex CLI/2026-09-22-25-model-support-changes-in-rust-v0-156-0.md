@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b4085a788925cc4f3f8c054ce928782173cb7fc80a1a1087c2bace9561eeffab
+machine_hash: d4bd693948f9e888f766ad25cfc7c36d6e50a2d8f2fb07194174b9ba620db375
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -97,8 +97,7 @@ record:
   title: 25 Model Support changes in rust-v0.156.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-09-21-enable-the-rubber-duck-agent-for-every-model-family-and-for-low-cost-tier-sessio|Enable
-  the rubber-duck agent for every model family and for low-cost-tier session models]]'
+- '[[Changes/Claude/2026-09-22-claude-opus-5-5-launch|Claude Opus 5.5 launch]]'
 - '[[Changes/Claude Code/2026-09-22-5-model-support-changes-in-v2-1-280|5 Model Support
   changes in v2.1.280]]'
 - '[[Changes/Cline/2026-09-22-3-model-support-changes-in-v4-1-20|3 Model Support changes

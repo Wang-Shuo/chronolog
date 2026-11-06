@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c1c020776916a9e14b6dc40ae23b0831e7278ff060940c481ef4b846d5b91ff5
+machine_hash: 646b080cba3c83bc26d7351e2beefd2ad626333beae3048980aa3c65593339f3
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -53,12 +53,9 @@ record:
   title: 6 Agent Mode changes in v0.1.17
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-07-30-6-agent-mode-changes-in-v0-1-15|6 Agent Mode changes
-  in v0.1.15]]'
-- '[[Changes/OpenHands/2025-07-31-improved-the-resolver-summary-generation-by-instructing-the-agent-to-focus-only|Improved
-  the resolver summary generation by instructing the agent to focus only…]]'
-- '[[Changes/Gemini CLI/2025-08-02-6-agent-mode-changes-in-v0-1-16|6 Agent Mode changes
-  in v0.1.16]]'
+- '[[Changes/ElevenLabs/2025-08-04-agents-platform-core|Agents Platform Core]]'
+- '[[Changes/ElevenLabs/2025-08-04-operation-id-improvements|Operation ID Improvements]]'
+- '[[Changes/ElevenLabs/2025-08-04-agents-platform-df3387|Agents Platform]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-08-05-v0-1-17-github-237516230-dacc1754|gemini-cli-2025-08-05-v0-1-17-github-237516230-dacc1754]]'
 source_type: github_releases
 theme: agent-mode
@@ -111,7 +108,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.1.17
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2025-08-02 · Gemini CLI · [[Changes/Gemini CLI/2025-08-02-6-agent-mode-changes-in-v0-1-16|6 Agent Mode changes in v0.1.16]]
+- Earlier: 2025-08-04 · ElevenLabs · [[Changes/ElevenLabs/2025-08-04-agents-platform-df3387|Agents Platform]]
 - Later: 2025-08-06 · Cursor · [[Changes/Cursor/2025-08-06-improved-agent-tools-488891|Improved Agent tools]]
 <!-- chronolog:end -->
 

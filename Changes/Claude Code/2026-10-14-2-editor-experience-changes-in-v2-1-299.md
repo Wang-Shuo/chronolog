@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b54abb76402a78fa11c00a8e31a78980641f685248f16e17fcb45286c51eb101
+machine_hash: dfaae0b744114cdd89ded5c0534317dcf31ac8346ce7861e6b92a5122b2833a5
 product: claude-code
 product_name: Claude Code
 record:
@@ -97,7 +97,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.299
 ## Nearby in Editor Experience
 
 - Earlier: 2026-10-14 · Claude Code · [[Changes/Claude Code/2026-10-14-3-editor-experience-changes-in-v2-1-300|3 Editor Experience changes in v2.1.300]]
-- Later: 2026-10-15 · Codex CLI · [[Changes/Codex CLI/2026-10-15-4-editor-experience-changes-in-rust-v0-163-0|4 Editor Experience changes in rust-v0.163.0]]
+- Later: 2026-10-14 · Open WebUI · [[Changes/Open WebUI/2026-10-14-open-attached-knowledge-from-its-preview-clicking-the-name-in-the-preview-of-an|📚 Open attached knowledge from its preview. Clicking the name in the preview…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

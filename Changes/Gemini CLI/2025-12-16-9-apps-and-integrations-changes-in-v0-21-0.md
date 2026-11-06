@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 04b0f8a338fa6acb6e65f228dbdb4c8a6114b6c3a658af10c9f772d654bfb215
+machine_hash: e5616acc02c4c491f73a1acbc3447f7b939dc0fa1ef44b58b002fa2fce6e4770
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -62,12 +62,10 @@ record:
   title: 9 Apps and Integrations changes in v0.21.0
   type: change
 related_changes:
-- '[[Changes/Cline/2025-12-11-7-apps-and-integrations-changes-in-v3-41-0|7 Apps and
-  Integrations changes in v3.41.0]]'
-- '[[Changes/Codex CLI/2025-12-13-2-apps-and-integrations-changes-in-rust-v0-72-0|2
-  Apps and Integrations changes in rust-v0.72.0]]'
-- '[[Changes/Codex CLI/2025-12-15-7962-docs-update-the-docs-for-openai-codex-shell-tool-mcp|♯7962
-  docs: update the docs for @openai/codex-shell-tool-mcp]]'
+- '[[Changes/ElevenLabs/2025-12-15-whatsapp-integration|WhatsApp Integration]]'
+- '[[Changes/ElevenLabs/2025-12-15-whatsapp-integration-fdcc9d|WhatsApp Integration]]'
+- '[[Changes/Gemini/2025-12-16-introducing-a-new-kind-of-gem|Introducing a new kind
+  of Gem]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-12-16-v0-21-0-github-270848833-3e3b19fe|gemini-cli-2025-12-16-v0-21-0-github-270848833-3e3b19fe]]'
 source_type: github_releases
 theme: apps-integrations
@@ -121,7 +119,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.21.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-12-15 · Codex CLI · [[Changes/Codex CLI/2025-12-15-7962-docs-update-the-docs-for-openai-codex-shell-tool-mcp|♯7962 docs: update the docs for @openai/codex-shell-tool-mcp]]
+- Earlier: 2025-12-16 · Gemini · [[Changes/Gemini/2025-12-16-introducing-a-new-kind-of-gem|Introducing a new kind of Gem]]
 - Later: 2025-12-16 · OpenHands · [[Changes/OpenHands/2025-12-16-added-azure-devops-integration-support-by-zerofltexx-in-https-github-com-openhan|Added Azure DevOps integration support]]
 <!-- chronolog:end -->
 

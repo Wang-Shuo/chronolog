@@ -4,20 +4,20 @@ date: '2026-07-31'
 description: 'ChatGPT · 2026-07-31 · Image Generation: On August 30, 2026, we’re retiring
   the official DALL·E GPT in ChatGPT. We encourage you to download any images you…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2024-08-08-we-re-rolling-out-the-ability-for-chatgpt-free-users-to-create-up-to-two-images-2c505c|DALL·E
-    3 for ChatGPT Free users]]'
+  first_in_tracked: "[[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|\U0001F3A8
+    DALL-E Integration]]"
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 722
+  lag_days: 873
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: policy
-machine_hash: 5f9180faa33316a171b5c3667eabb68e450a54ca4e6b54480d4637ed476d3d4a
+machine_hash: 06ab78b3e495a69fcc23c0ea6fcaedf1bda685426b7dc9cecb19df9d389cb824
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -47,10 +47,10 @@ record:
   title: Retiring the DALL·E GPT
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-07-09-31596-use-the-image-generation-extension-by-default-won-openai|♯31596
-  Use the image generation extension by default @won-openai]]'
 - '[[Changes/Codex CLI/2026-07-21-3-image-generation-changes-in-rust-v0-145-0|3 Image
   Generation changes in rust-v0.145.0]]'
+- "[[Changes/Open WebUI/2026-07-27-shared-image-checkpoint-changes-only-administrators-can-now-change-the-instance|\U0001F58C️
+  Shared image checkpoint changes. Only administrators can now change…]]"
 - '[[Changes/Codex CLI/2026-07-29-34850-disable-image-generation-for-free-plan-accounts-copyberry|♯34850
   Disable image generation for Free-plan accounts @copyberry]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-07-31-retiring-the-dall-e-gpt-582d3c79|chatgpt-2026-07-31-retiring-the-dall-e-gpt-582d3c79]]'
@@ -80,13 +80,13 @@ type: change
 ## Nearby in Image Generation
 
 - Earlier: 2026-07-29 · Codex CLI · [[Changes/Codex CLI/2026-07-29-34850-disable-image-generation-for-free-plan-accounts-copyberry|♯34850 Disable image generation for Free-plan accounts @copyberry]]
-- Later: 2026-08-18 · Codex CLI · [[Changes/Codex CLI/2026-08-18-38024-expose-image-generation-usage-limit-failures-copyberry|♯38024 Expose image generation usage-limit failures @copyberry]]
+- Later: 2026-08-04 · Ollama · [[Changes/Ollama/2026-08-04-experimental-image-generation-has-been-temporarily-removed-continue-using-0-32-5|Experimental image generation has been temporarily removed]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-08-08 · ChatGPT · [[Changes/ChatGPT/2024-08-08-we-re-rolling-out-the-ability-for-chatgpt-free-users-to-create-up-to-two-images-2c505c|DALL·E 3 for ChatGPT Free users]]
+- Earliest same-theme entry in the tracked set: 2024-03-10 · Open WebUI · [[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|🎨 DALL-E Integration]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

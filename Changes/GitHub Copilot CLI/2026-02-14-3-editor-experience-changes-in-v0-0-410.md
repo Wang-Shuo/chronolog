@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e077d2c61503fed26282df4448425cb93b80b941531192c36bc00488ea05abab
+machine_hash: b6f1639768cb29f2ce0ba8799ad85830f4b5b36fa9c0a239e6972ccabc3f4f79
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,12 +45,12 @@ record:
   title: 3 Editor Experience changes in v0.0.410
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-02-12-reduced-repeated-skill-parse-error-spam-during-active-edits-by-increasing-file-w|Reduced
-  repeated skill parse-error spam during active edits by increasing…]]'
-- '[[Changes/GitHub Copilot CLI/2026-02-12-add-substring-matching-to-slash-command-autocomplete|Add
-  substring matching to slash command autocomplete]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-12-cli-now-integrates-with-vs-code-use-ide-for-more-information|CLI
   now integrates with VS Code, use /ide for more information]]'
+- '[[Changes/Ollama/2026-02-12-ctrl-g-will-now-allow-for-editing-text-prompts-in-a-text-editor-when-running-a-m|Ctrl+G
+  will now allow for editing text prompts in a text editor when running a model]]'
+- '[[Changes/Open WebUI/2026-02-12-2-editor-experience-changes-in-v0-8-0|2 Editor
+  Experience changes in v0.8.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-02-14-v0-0-410-github-286297809-871b7096|github-copilot-cli-2026-02-14-v0-0-410-github-286297809-871b7096]]'
 source_type: github_releases
 theme: editor-experience
@@ -90,7 +90,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v0.0.410
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-02-12 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-12-cli-now-integrates-with-vs-code-use-ide-for-more-information|CLI now integrates with VS Code, use /ide for more information]]
+- Earlier: 2026-02-12 · Open WebUI · [[Changes/Open WebUI/2026-02-12-2-editor-experience-changes-in-v0-8-0|2 Editor Experience changes in v0.8.0]]
 - Later: 2026-02-16 · Cline · [[Changes/Cline/2026-02-16-restore-reasoning-trace-visibility-in-chat-and-improve-the-thinking-row-ux-so-re|Restore reasoning trace visibility in chat and improve the thinking row UX…]]
 <!-- chronolog:end -->
 

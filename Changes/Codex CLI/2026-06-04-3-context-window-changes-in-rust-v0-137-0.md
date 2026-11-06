@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3fb8cf00bfe64b6a8eefcb24db577f12e448390a337e88c0bc04cd9fef1d51ba
+machine_hash: 7f2613175d06a34ecfa1c2f5bb297425623d01bfa0595885d3ab6637c1218db4
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -46,12 +46,12 @@ record:
   title: 3 Context Window changes in rust-v0.137.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-29-2-context-window-changes-in-v1-0-56|2 Context
-  Window changes in v1.0.56]]'
-- '[[Changes/Codex CLI/2026-06-01-9-context-window-changes-in-rust-v0-136-0|9 Context
-  Window changes in rust-v0.136.0]]'
+- '[[Changes/Open WebUI/2026-06-01-4-context-window-changes-in-v0-9-6|4 Context Window
+  changes in v0.9.6]]'
 - '[[Changes/Gemini CLI/2026-06-03-feat-context-complete-simplification-work-by-joshualitt-in-https-github-com-goog|feat(context):
   Complete simplification work]]'
+- '[[Changes/Ollama/2026-06-03-the-llama-cpp-backend-now-includes-cached-prompt-tokens-in-token-accounting-impr|The
+  llama.cpp backend now includes cached prompt tokens in token accounting…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-06-04-rust-v0-137-0-github-334076532-fadfeece|codex-cli-2026-06-04-rust-v0-137-0-github-334076532-fadfeece]]'
 source_type: github_releases
 theme: context-window
@@ -99,7 +99,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.137.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-06-03 · Gemini CLI · [[Changes/Gemini CLI/2026-06-03-feat-context-complete-simplification-work-by-joshualitt-in-https-github-com-goog|feat(context): Complete simplification work]]
+- Earlier: 2026-06-03 · Ollama · [[Changes/Ollama/2026-06-03-the-llama-cpp-backend-now-includes-cached-prompt-tokens-in-token-accounting-impr|The llama.cpp backend now includes cached prompt tokens in token accounting…]]
 - Later: 2026-06-04 · Cursor · [[Changes/Cursor/2026-06-04-this-release-introduces-design-mode-for-faster-canvas-editing-new-ways-to-unders|Cursor introduces Design Mode for faster canvas editing, new ways to understand…]]
 <!-- chronolog:end -->
 

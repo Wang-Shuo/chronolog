@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d135c284ef533299f115530a63daaba4be44ba1122514e7d71f63727d2c836bb
+machine_hash: 8b1dfbc7c647dea34b1bd6cb9b67f251b1f537f7f8d66576fd56f4f5409ae5b4
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,8 +42,8 @@ record:
   title: Auto compact at ~90%
   type: change
 related_changes:
-- '[[Changes/Windsurf/2025-10-16-fast-context-introduced-fast-context-subagent-powered-by-swe-grep-enabling-agent|Fast
-  Context: Introduced Fast Context subagent powered by SWE-grep, enabling…]]'
+- '[[Changes/Dify/2025-10-22-3-context-window-changes-in-1-9-2|3 Context Window changes
+  in 1.9.2]]'
 - '[[Changes/Gemini CLI/2025-10-22-2-context-window-changes-in-v0-10-0|2 Context Window
   changes in v0.10.0]]'
 - '[[Changes/Cline/2025-10-23-auto-compact-updates-by-0xtoshii-in-https-github-com-cline-cline-pull-6909|auto

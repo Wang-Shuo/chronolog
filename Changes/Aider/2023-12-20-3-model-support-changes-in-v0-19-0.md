@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 330f1d858e831db410e004634e67433ba4f2387aa09273452afc0b8cbd32ddbf
+machine_hash: 07a73a66b4f349b2cde8851c6f60a7ef0d382ab39b0e9bb4633508f9a17ff236
 product: aider
 product_name: Aider
 record:
@@ -45,12 +45,12 @@ record:
   title: 3 Model Support changes in v0.19.0
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-11-10-new-models-you-can-plug-in-your-api-key-to-try-out-the-newest-gpt-4-and-gpt-3-tu|New
-  models: you can plug in your API key to try out the newest gpt-4 and gpt-3 turbo…]]'
-- '[[Changes/Aider/2023-11-17-3-model-support-changes-in-v0-18-0|3 Model Support changes
-  in v0.18.0]]'
 - '[[Changes/Cursor/2023-12-16-ai-review-beta-this-is-a-new-experimental-feature-that-let-s-gpt-4-scan-your-git|AI
   Review (beta)]]'
+- '[[Changes/Dify/2023-12-19-2-model-support-changes-in-0-3-34|2 Model Support changes
+  in 0.3.34]]'
+- '[[Changes/Ollama/2023-12-19-6-model-support-changes-in-v0-1-17|6 Model Support
+  changes in v0.1.17]]'
 source_release: '[[Releases/Aider/aider-2023-12-20-v0-19-0-github-134559372-e18e70b9|aider-2023-12-20-v0-19-0-github-134559372-e18e70b9]]'
 source_type: github_releases
 theme: model-support
@@ -85,8 +85,8 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.19.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2023-12-16 · Cursor · [[Changes/Cursor/2023-12-16-ai-review-beta-this-is-a-new-experimental-feature-that-let-s-gpt-4-scan-your-git|AI Review (beta)]]
-- Later: 2024-01-04 · Aider · [[Changes/Aider/2024-01-04-add-images-to-the-chat-to-automatically-use-gpt-4-vision-by-joshuavial|Add images to the chat to automatically use GPT-4 Vision, by @joshuavial]]
+- Earlier: 2023-12-19 · Ollama · [[Changes/Ollama/2023-12-19-6-model-support-changes-in-v0-1-17|6 Model Support changes in v0.1.17]]
+- Later: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-11-model-support-changes-in-0-4-0|11 Model Support changes in 0.4.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

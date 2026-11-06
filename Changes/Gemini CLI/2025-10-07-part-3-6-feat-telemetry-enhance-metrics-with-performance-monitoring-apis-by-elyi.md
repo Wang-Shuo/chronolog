@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 908ce38b6b7004a1ea5adc83db381aac0302e47a0be18cc724c54095fcd5bb85
+machine_hash: 7c07dc848ced12001e26a84e5fa80ff61a1dc2763c33f98c0929d1a018aa2824
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -43,12 +43,11 @@ record:
     APIs'
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-09-29-8-reliability-and-performance-changes-in-1-7|8 Reliability
-  and Performance changes in 1.7]]'
 - '[[Changes/Windsurf/2025-09-29-devin-features-in-windsurf-stability-improvements-and-a-brand-new-ui|Devin
   features in Windsurf, stability improvements, and a brand new UI]]'
 - '[[Changes/Gemini CLI/2025-10-01-2-reliability-and-performance-changes-in-v0-7-0|2
   Reliability and Performance changes in v0.7.0]]'
+- '[[Changes/Lovable/2025-10-06-updated-community-resources|Updated community resources]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-10-07-v0-8-0-github-252858757-2ecdc728|gemini-cli-2025-10-07-v0-8-0-github-252858757-2ecdc728]]'
 source_type: github_releases
 theme: reliability-performance
@@ -87,8 +86,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-10-01 · Gemini CLI · [[Changes/Gemini CLI/2025-10-01-2-reliability-and-performance-changes-in-v0-7-0|2 Reliability and Performance changes in v0.7.0]]
-- Later: 2025-10-10 · Windsurf · [[Changes/Windsurf/2025-10-10-various-other-bug-fixes-and-stability-improvements|Various other bug fixes and stability improvements]]
+- Earlier: 2025-10-06 · Lovable · [[Changes/Lovable/2025-10-06-updated-community-resources|Updated community resources]]
+- Later: 2025-10-07 · Open WebUI · [[Changes/Open WebUI/2025-10-07-6-reliability-and-performance-changes-in-v0-6-33|6 Reliability and Performance changes in v0.6.33]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

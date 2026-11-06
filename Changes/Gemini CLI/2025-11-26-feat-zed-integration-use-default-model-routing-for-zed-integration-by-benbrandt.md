@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 317abf51ddcecf701997f8f1096685063456d017c609301875e232932cc5a52a
+machine_hash: fbb727276248e5b1d6ef771aef270f2c97c4afc399276e12e5b250192a890f71
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -54,11 +54,11 @@ record:
   title: 'feat(zed-integration): Use default model routing for Zed integration'
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-11-21-project-level-hooks-are-now-supported|Project level
-  hooks are now supported]]'
-- '[[Changes/Windsurf/2025-11-21-mcp-servers|MCP Servers]]'
-- '[[Changes/GitHub Copilot CLI/2025-11-24-mcp-servers-work-in-prompt-mode|MCP servers
-  work in --prompt mode]]'
+- "[[Changes/Open WebUI/2025-11-25-tool-servers-and-mcp-connections-now-support-function-name-filtering-allowing-ad|\U0001F50C
+  Tool servers and MCP connections now support function name filtering, allowing…]]"
+- '[[Changes/v0/2025-11-25-build-apps-in-v0-with-your-snowflake-data|Snowflake Integration]]'
+- '[[Changes/Dify/2025-11-26-5-apps-and-integrations-changes-in-1-10-1|5 Apps and
+  Integrations changes in 1.10.1]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-11-26-v0-18-0-github-265323405-bd13d891|gemini-cli-2025-11-26-v0-18-0-github-265323405-bd13d891]]'
 source_type: github_releases
 theme: apps-integrations
@@ -92,8 +92,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-11-24 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-11-24-mcp-servers-work-in-prompt-mode|MCP servers work in --prompt mode]]
-- Later: 2025-11-27 · Cline · [[Changes/Cline/2025-11-27-feat-hooks-implement-taskcomplete-hook-by-candieduniverse-in-https-github-com-cl|feat(hooks): Implement TaskComplete hook]]
+- Earlier: 2025-11-26 · Dify · [[Changes/Dify/2025-11-26-5-apps-and-integrations-changes-in-1-10-1|5 Apps and Integrations changes in 1.10.1]]
+- Later: 2025-11-26 · Lovable · [[Changes/Lovable/2025-11-26-shopify-integration-improvements|Shopify integration improvements]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

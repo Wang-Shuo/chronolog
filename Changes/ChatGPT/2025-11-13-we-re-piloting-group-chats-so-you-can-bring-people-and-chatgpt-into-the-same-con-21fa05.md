@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: b0d78e14ff1bf2e37645ba33c01c8314ebb79c96b815d7780614b1da8d25a03b
+machine_hash: be6de17491e40119491e860b01a4488bee2e0d7da1113a3c4c4e9508941f45e9
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -56,10 +56,9 @@ record:
   title: Group chats in ChatGPT
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-11-04-6124-fix-archive-conversation-on-windows-6124|♯6124
-  Fix "archive conversation" on Windows (♯6124)]]'
-- '[[Changes/Gemini CLI/2025-11-04-2-mobile-and-desktop-changes-in-v0-12-0|2 Mobile
-  and Desktop changes in v0.12.0]]'
+- "[[Changes/Open WebUI/2025-11-06-chat-controls-button-is-now-properly-hidden-on-mobile-for-users-without-admin-or|\U0001F4F1
+  Chat controls button is now properly hidden on mobile for users without admin…]]"
+- '[[Changes/ElevenLabs/2025-11-12-android-sdk|Android SDK]]'
 - '[[Changes/GitHub Copilot CLI/2025-11-12-ensure-commands-on-windows-use-powershell-when-available-fixes-https-github-com|Ensure
   ! commands on Windows use PowerShell when available…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-11-13-group-chats-in-chatgpt-8a8193ad|chatgpt-2025-11-13-group-chats-in-chatgpt-8a8193ad]]'

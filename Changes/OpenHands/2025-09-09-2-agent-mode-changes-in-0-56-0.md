@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ebc34d995c215b5907e5e3b246df44ddd6ba3661f6af52062ee093d5c0c48cea
+machine_hash: 1c3231497866010342de230d42af20e8ba87f8a7836cfa24f9a95337d56ccf0e
 product: openhands
 product_name: OpenHands
 record:
@@ -44,12 +44,9 @@ record:
   title: 2 Agent Mode changes in 0.56.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-09-03-3089-docs-update-link-to-https-agents-md|♯3089 Docs:
-  update link to (source link)]]'
-- '[[Changes/Gemini CLI/2025-09-04-feat-subagent-enable-incremental-output-streaming-by-allenhutchison-in-https-git|feat(subagent):
-  Enable incremental output streaming]]'
-- '[[Changes/Codex CLI/2025-09-05-3-agent-mode-changes-in-rust-v0-30-0|3 Agent Mode
-  changes in rust-v0.30.0]]'
+- '[[Changes/Replit/2025-09-05-general-agent|General Agent]]'
+- '[[Changes/Replit/2025-09-05-plan-mode|Plan mode]]'
+- '[[Changes/ElevenLabs/2025-09-08-agents-platform|Agents Platform]]'
 source_release: '[[Releases/OpenHands/openhands-2025-09-09-0-56-0-github-245867616-0d832853|openhands-2025-09-09-0-56-0-github-245867616-0d832853]]'
 source_type: github_releases
 theme: agent-mode
@@ -82,7 +79,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/0.56.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2025-09-05 · Codex CLI · [[Changes/Codex CLI/2025-09-05-3-agent-mode-changes-in-rust-v0-30-0|3 Agent Mode changes in rust-v0.30.0]]
+- Earlier: 2025-09-08 · ElevenLabs · [[Changes/ElevenLabs/2025-09-08-agents-platform|Agents Platform]]
 - Later: 2025-09-10 · Codex CLI · [[Changes/Codex CLI/2025-09-10-3436-make-user-agent-optional-3436|♯3436 Make user_agent optional (♯3436)]]
 <!-- chronolog:end -->
 

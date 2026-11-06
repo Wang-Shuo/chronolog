@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2da764b3d9cffde2a020c26478148e8d957be516855964c9d1f22fab9f4aa792
+machine_hash: e661695cb3ab43609cbc7605a77722b587db1d776ccedd6a633515c11d3ffd6b
 product: aider
 product_name: Aider
 record:
@@ -43,12 +43,12 @@ record:
   title: 2 Model Support changes in v0.12.0
   type: change
 related_changes:
-- '[[Changes/Aider/2023-08-02-defend-against-gpt-3-5-or-non-openai-models-suggesting-filenames-surrounded-by-a|Defend
-  against GPT-3.5 or non-OpenAI models suggesting filenames surrounded by asterisks]]'
 - '[[Changes/ChatGPT/2023-08-03-we-re-rolling-out-a-bunch-of-small-updates-to-improve-the-chatgpt-experience-shi|Updates
   to ChatGPT]]'
 - '[[Changes/Aider/2023-08-08-defend-against-gpt-3-5-or-non-openai-models-suggesting-filenames-surrounded-by-a|Defend
   against GPT-3.5 or non-OpenAI models suggesting filenames surrounded by asterisks]]'
+- '[[Changes/Ollama/2023-08-10-3-model-support-changes-in-v0-0-14|3 Model Support
+  changes in v0.0.14]]'
 source_release: '[[Releases/Aider/aider-2023-08-11-v0-12-0-github-116058625-6861e6b4|aider-2023-08-11-v0-12-0-github-116058625-6861e6b4]]'
 source_type: github_releases
 theme: model-support
@@ -81,8 +81,8 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.12.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2023-08-08 · Aider · [[Changes/Aider/2023-08-08-defend-against-gpt-3-5-or-non-openai-models-suggesting-filenames-surrounded-by-a|Defend against GPT-3.5 or non-OpenAI models suggesting filenames surrounded by asterisks]]
-- Later: 2023-09-27 · ChatGPT · [[Changes/ChatGPT/2023-09-27-choose-browse-with-bing-in-the-selector-under-gpt-4|Choose Browse with Bing in the selector under GPT-4]]
+- Earlier: 2023-08-10 · Ollama · [[Changes/Ollama/2023-08-10-3-model-support-changes-in-v0-0-14|3 Model Support changes in v0.0.14]]
+- Later: 2023-08-14 · Dify · [[Changes/Dify/2023-08-14-5-model-support-changes-in-0-3-13|5 Model Support changes in 0.3.13]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

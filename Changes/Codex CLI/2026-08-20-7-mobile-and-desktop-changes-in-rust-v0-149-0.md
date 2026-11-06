@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e895753dc49e24db8c880f10b63cc92908f03bf46ac22bdb08848244527ea16a
+machine_hash: a0605eaa87615eae41f70fb96086b17594a47670ee8f1e1122166f7108366a2d
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -54,8 +54,8 @@ record:
   title: 7 Mobile and Desktop changes in rust-v0.149.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-19-added-notify-when-idle-to-cross-session-sendmessage-ask-another-claude-code-sess|Added
-  notify_when_idle to cross-session SendMessage]]'
+- '[[Changes/Ollama/2026-08-19-new-desktop-onboarding-flow-on-first-launch|New desktop
+  onboarding flow on first launch]]'
 - '[[Changes/ChatGPT/2026-08-20-keep-pinned-chats-in-sync-pinned-chats-now-stay-in-sync-between-the-chatgpt-desk|Keep
   pinned chats in sync]]'
 - '[[Changes/Claude Code/2026-08-20-improved-startup-bare-claude-starts-sooner-on-macos|Improved

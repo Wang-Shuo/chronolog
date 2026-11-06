@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 33d497f727fc6f715f912df9c433138c81807b58202e0eee174084b7ad025264
+machine_hash: 141abb7d6dbe01165aafc8bf25cd7682c949c9e6754e7893aba10a1f9107475e
 product: cursor
 product_name: Cursor
 record:
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2025-11-20 · Gemini CLI · [[Changes/Gemini CLI/2025-11-20-3-apps-and-integrations-changes-in-v0-17-0|3 Apps and Integrations changes in v0.17.0]]
-- Later: 2025-11-21 · Windsurf · [[Changes/Windsurf/2025-11-21-mcp-servers|MCP Servers]]
+- Later: 2025-11-21 · ElevenLabs · [[Changes/ElevenLabs/2025-11-21-packages|Packages]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

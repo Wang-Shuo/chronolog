@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0d2020fa496268f115fe50600be665fce04ef9c74afbc1dc01caa217c0adce99
+machine_hash: 03f1fe0b4abb71fbac5c3979005150c7920ed2a0a5fd610e2b7c7495a201828f
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,8 +42,8 @@ record:
   title: 2 Reliability and Performance changes in v2.1.73
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-06-3-reliability-and-performance-changes-in-v2-1-70|3
-  Reliability and Performance changes in v2.1.70]]'
+- '[[Changes/Open WebUI/2026-03-09-2-reliability-and-performance-changes-in-v0-8-10|2
+  Reliability and Performance changes in v0.8.10]]'
 - '[[Changes/Windsurf/2026-03-09-stability-performance|Stability & Performance]]'
 - '[[Changes/Claude Code/2026-03-10-improved-bash-command-parsing-by-switching-to-a-native-module-faster-initializat|Improved
   bash command parsing by switching to a native module]]'

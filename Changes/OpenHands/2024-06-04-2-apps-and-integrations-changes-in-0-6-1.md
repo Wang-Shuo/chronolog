@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6ff743f0a42993b116ac09723e4a62d726fcc52b62ccf1a31486c15ca32b80ba
+machine_hash: 67a78377a7a24b4ee8ce91fba0134a2b9ede5e85aa62e1a40dc4ea36044a9346
 product: openhands
 product_name: OpenHands
 record:
@@ -43,12 +43,12 @@ record:
   title: 2 Apps and Integrations changes in 0.6.1
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-01-15-supports-newer-version-of-python-extension|Supports
-  newer version of python extension]]'
-- '[[Changes/Cursor/2024-01-25-update-0-24-3-0-24-4-adds-ability-to-configure-openai-base-url-fixes-getcursor-c|UPDATE
-  (0.24.3-0.24.4): Adds ability to configure OpenAI base URL, fixes…]]'
 - '[[Changes/ChatGPT/2024-05-16-upload-the-latest-file-versions-directly-from-google-drive-microsoft-onedrive-pe-70f6a3|Upload
   the latest file versions directly from Google Drive, Microsoft OneDrive…]]'
+- '[[Changes/Dify/2024-05-27-you-can-now-publish-your-ai-workflow-in-dify-as-a-reusable-tool-this-allows-for|Publish
+  your AI workflow in Dify as a reusable tool]]'
+- "[[Changes/Open WebUI/2024-06-02-usage-monitoring-with-langfuse-track-and-analyze-usage-statistics-with-langfuse|\U0001F4CA
+  Usage Monitoring with Langfuse]]"
 source_release: '[[Releases/OpenHands/openhands-2024-06-04-0-6-1-github-158811079-9345253b|openhands-2024-06-04-0-6-1-github-158811079-9345253b]]'
 source_type: github_releases
 theme: apps-integrations
@@ -85,7 +85,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/0.6.1
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2024-05-16 · ChatGPT · [[Changes/ChatGPT/2024-05-16-upload-the-latest-file-versions-directly-from-google-drive-microsoft-onedrive-pe-70f6a3|Upload the latest file versions directly from Google Drive, Microsoft OneDrive…]]
+- Earlier: 2024-06-02 · Open WebUI · [[Changes/Open WebUI/2024-06-02-usage-monitoring-with-langfuse-track-and-analyze-usage-statistics-with-langfuse|📊 Usage Monitoring with Langfuse]]
 - Later: 2024-06-05 · OpenHands · [[Changes/OpenHands/2024-06-05-bump-typescript-eslint-eslint-plugin-from-7-11-0-to-7-12-0-in-frontend-by-depend|Bump @typescript-eslint/eslint-plugin from 7.11.0 to 7.12.0 in /frontend]]
 <!-- chronolog:end -->
 

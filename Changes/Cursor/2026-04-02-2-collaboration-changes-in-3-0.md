@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3296a38883caac702af867b3d832f95f25515c870447af794083fee422faccea
+machine_hash: 4e336b25e31c6739fa070169a54cc602a8c4fb55c4315c00ad449677f093a865
 product: cursor
 product_name: Cursor
 record:
@@ -42,10 +42,10 @@ record:
   title: 2 Collaboration changes in 3.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-20-2-collaboration-changes-in-v1-0-10|2 Collaboration
-  changes in v1.0.10]]'
-- '[[Changes/Claude Code/2026-03-25-added-managed-settings-d-drop-in-directory-alongside-managed-settings-json-letti|Added
-  managed-settings.d/ drop-in directory alongside managed-settings.json…]]'
+- "[[Changes/Open WebUI/2026-03-25-shared-chat-viewing-crash-shared-chats-can-now-be-viewed-by-unauthenticated-user|\U0001F41B
+  Shared chat viewing crash. Shared chats can now be viewed by unauthenticated…]]"
+- '[[Changes/Dify/2026-03-27-test-workflow-reorganize-specs-into-tests-and-align-with-shared-test-infrastruct|test(workflow):
+  reorganize specs into tests and align with shared test infrastructure]]'
 - '[[Changes/Codex CLI/2026-03-31-4-collaboration-changes-in-rust-v0-118-0|4 Collaboration
   changes in rust-v0.118.0]]'
 source_release: '[[Releases/Cursor/cursor-2026-04-02-3-0-https-cursor-com-changelog-3-0-c58cd2ad|cursor-2026-04-02-3-0-https-cursor-com-changelog-3-0-c58cd2ad]]'

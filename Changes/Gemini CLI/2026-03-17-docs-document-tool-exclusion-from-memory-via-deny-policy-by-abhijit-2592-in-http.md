@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: cb0be032167e8bca69f5869149431a528cec93b3547914903e264e270f2bf211
+machine_hash: 7eda586236f80f7c7ba64651395de401c0b9f898ffb340cdb077bd41d5e0eec9
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -42,12 +42,12 @@ record:
   title: 'docs: document tool exclusion from memory via deny policy'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-16-14493-memories-focus-write-prompts-on-user-preferences-andi-oai|♯14493
-  memories: focus write prompts on user preferences @andi-oai]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-16-custom-instruction-file-paths-load-correctly-when-using-copilot-custom-instructi|Custom
   instruction file paths load correctly when using COPILOT_CUSTOM_INSTRUCTIONS_DIRS]]'
 - '[[Changes/ChatGPT/2026-03-17-we-re-sunsetting-the-preset-nerdy-base-style-to-simplify-options-and-improve-res|Sunsetting
   the “Nerdy” base style]]'
+- '[[Changes/Dify/2026-03-17-4-memory-and-personalization-changes-in-1-13-1|4 Memory
+  and Personalization changes in 1.13.1]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-03-17-v0-34-0-github-298158994-68230a41|gemini-cli-2026-03-17-v0-34-0-github-298158994-68230a41]]'
 source_type: github_releases
 theme: memory
@@ -89,7 +89,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2026-03-17 · ChatGPT · [[Changes/ChatGPT/2026-03-17-we-re-sunsetting-the-preset-nerdy-base-style-to-simplify-options-and-improve-res|Sunsetting the “Nerdy” base style]]
+- Earlier: 2026-03-17 · Dify · [[Changes/Dify/2026-03-17-4-memory-and-personalization-changes-in-1-13-1|4 Memory and Personalization changes in 1.13.1]]
 - Later: 2026-03-19 · Codex CLI · [[Changes/Codex CLI/2026-03-19-4-memory-and-personalization-changes-in-rust-v0-116-0|4 Memory and Personalization changes in rust-v0.116.0]]
 <!-- chronolog:end -->
 

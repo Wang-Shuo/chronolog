@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6c7909ed2534cd6c7eabecffd514c5f091bd1696c49cddea4f629d1b610e7c78
+machine_hash: 1e588d1915ebc7528b1d6764da1cc793e82b2d937fed54f521034e00392b69b0
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -61,10 +61,10 @@ record:
   title: 9 Apps and Integrations changes in rust-v0.132.0
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-05-19-cursor-is-now-available-in-jira|Cursor is now available
-  in Jira]]'
-- '[[Changes/Cursor/2026-05-19-install-the-integration-from-cursor-integrations-you-need-cursor-admin-access-an|Install
-  the integration from Cursor integrations]]'
+- '[[Changes/Gemini/2026-05-19-daily-brief-is-your-personalized-overview-of-what-matters-today|Daily
+  Brief is your personalized overview of what matters today]]'
+- '[[Changes/Gemini/2026-05-19-gemini-can-connect-to-more-apps-starting-with-opentable-canva-and-instacart|Gemini
+  can connect to more apps, starting with OpenTable, Canva, and Instacart]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-19-9-apps-and-integrations-changes-in-v1-0-49|9
   Apps and Integrations changes in v1.0.49]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-05-20-rust-v0-132-0-github-325545332-3345c1c4|codex-cli-2026-05-20-rust-v0-132-0-github-325545332-3345c1c4]]'

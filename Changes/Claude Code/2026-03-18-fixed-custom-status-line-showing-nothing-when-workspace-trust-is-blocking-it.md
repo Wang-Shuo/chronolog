@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: fix
-machine_hash: 350fe2401f7cdaaa9041de9542d6738e9b052cf59dcaa9517cea84f1444d7e7e
+machine_hash: 59bc537a8ffa9f504b8b7c716e07a87c4398e06bac67d2e37bf3882c3a39254e
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
     it
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-17-2-safety-and-privacy-changes-in-v2-1-78|2 Safety
-  and Privacy changes in v2.1.78]]'
-- '[[Changes/Claude Code/2026-03-17-3-safety-and-privacy-changes-in-v2-1-77|3 Safety
-  and Privacy changes in v2.1.77]]'
+- '[[Changes/Dify/2026-03-17-3-safety-and-privacy-changes-in-1-13-1|3 Safety and Privacy
+  changes in 1.13.1]]'
 - '[[Changes/Gemini CLI/2026-03-17-3-safety-and-privacy-changes-in-v0-34-0|3 Safety
   and Privacy changes in v0.34.0]]'
+- '[[Changes/Ollama/2026-03-17-ci-cd-generate-code-reviews-security-checks-and-other-tasks-within-your-ci|CI/CD:
+  Generate code reviews, security checks, and other tasks within your CI]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-18-v2-1-79-github-298704791-2ebf4bbd|claude-code-2026-03-18-v2-1-79-github-298704791-2ebf4bbd]]'
 source_type: github_releases
 theme: safety-privacy
@@ -83,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-03-17 · Gemini CLI · [[Changes/Gemini CLI/2026-03-17-3-safety-and-privacy-changes-in-v0-34-0|3 Safety and Privacy changes in v0.34.0]]
+- Earlier: 2026-03-17 · Ollama · [[Changes/Ollama/2026-03-17-ci-cd-generate-code-reviews-security-checks-and-other-tasks-within-your-ci|CI/CD: Generate code reviews, security checks, and other tasks within your CI]]
 - Later: 2026-03-19 · Codex CLI · [[Changes/Codex CLI/2026-03-19-8-safety-and-privacy-changes-in-rust-v0-116-0|8 Safety and Privacy changes in rust-v0.116.0]]
 <!-- chronolog:end -->
 

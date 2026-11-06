@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 589e4b2c49d732d9f22fa09273f40b637ec57ae21a5eef671c092397da5a983f
+machine_hash: 04355c073f489be117a7e82e8b59e77dc875c48cc4241dc964d226ad011b50e2
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -43,12 +43,12 @@ record:
     to use
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-08-20-use-apple-messages-from-codex-and-chatgpt-work-on-apple-silicon-macs-the-apple-m|Use
-  Apple Messages from Codex and ChatGPT Work]]'
 - '[[Changes/Claude Code/2026-08-20-6-apps-and-integrations-changes-in-v2-1-238|6
   Apps and Integrations changes in v2.1.238]]'
 - '[[Changes/Codex CLI/2026-08-20-33-apps-and-integrations-changes-in-rust-v0-149-0|33
   Apps and Integrations changes in rust-v0.149.0]]'
+- '[[Changes/Lovable/2026-08-20-sort-connectors-and-add-an-mcp-server-from-the-catalog-header|Sort
+  connectors and add an MCP server from the catalog header]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-21-improved-plugin-discovery-on-web-and-mobile-4a2c9c9b|chatgpt-2026-08-21-improved-plugin-discovery-on-web-and-mobile-4a2c9c9b]]'
 source_type: chatgpt_changelog
 theme: apps-integrations
@@ -79,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-08-20 · Codex CLI · [[Changes/Codex CLI/2026-08-20-33-apps-and-integrations-changes-in-rust-v0-149-0|33 Apps and Integrations changes in rust-v0.149.0]]
+- Earlier: 2026-08-20 · Lovable · [[Changes/Lovable/2026-08-20-sort-connectors-and-add-an-mcp-server-from-the-catalog-header|Sort connectors and add an MCP server from the catalog header]]
 - Later: 2026-08-21 · Claude Code · [[Changes/Claude Code/2026-08-21-2-apps-and-integrations-changes-in-v2-1-239|2 Apps and Integrations changes in v2.1.239]]
 <!-- chronolog:end -->
 

@@ -4,20 +4,20 @@ date: '2026-06-18'
 description: 'ChatGPT · 2026-06-18 · Voice and Audio: Help with pronunciations: ChatGPT
   can now include text and audio pronunciation guidance for words in more than 60…'
 diffusion:
-  first_in_tracked: '[[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source
-    link) support, which allows you…]]'
+  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
+    Voice and Audio changes in 0.3.7]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1042
+  lag_days: 1074
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ca5fb38c5ba1ceebe024a29dae0d82659d4121a9720742c4f4716bd29148a16d
+machine_hash: 394f5e4c35c6c35a8ca66efd41c022150e0af647fbcf39892ca3dd0efa7d6dd5
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -46,12 +46,9 @@ record:
   title: Help with pronunciations
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-06-05-with-design-mode-in-the-cursor-browser-you-can-click-draw-or-describe-changes-by|With
-  Design Mode in the Cursor browser, you can click, draw, or describe changes…]]'
-- '[[Changes/GitHub Copilot CLI/2026-06-13-voice-runtime-download-dialog-no-longer-reopens-in-a-loop-after-an-install-failu|Voice
-  runtime download dialog no longer reopens in a loop after an install failure]]'
-- '[[Changes/Codex CLI/2026-06-15-2-voice-and-audio-changes-in-rust-v0-140-0|2 Voice
-  and Audio changes in rust-v0.140.0]]'
+- '[[Changes/ElevenLabs/2026-06-15-speech-to-text|Speech to Text]]'
+- '[[Changes/ElevenLabs/2026-06-15-speech-to-text-d2421e|Speech to Text]]'
+- '[[Changes/ElevenLabs/2026-06-15-elevencreative-studio-f3d23d|ElevenCreative Studio]]'
 scope: Web, iOS, and Android
 source_release: '[[Releases/ChatGPT/chatgpt-2026-06-18-chatgpt-app-experience-updates-d15f55c5|chatgpt-2026-06-18-chatgpt-app-experience-updates-d15f55c5]]'
 source_type: chatgpt_changelog
@@ -88,14 +85,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-06-15 · Codex CLI · [[Changes/Codex CLI/2026-06-15-2-voice-and-audio-changes-in-rust-v0-140-0|2 Voice and Audio changes in rust-v0.140.0]]
-- Later: 2026-06-26 · ChatGPT · [[Changes/ChatGPT/2026-06-26-we-re-rolling-out-a-new-speech-to-text-model-for-dictation-in-chatgpt-across-all|Improved dictation in ChatGPT]]
+- Earlier: 2026-06-15 · ElevenLabs · [[Changes/ElevenLabs/2026-06-15-elevencreative-studio-f3d23d|ElevenCreative Studio]]
+- Later: 2026-06-18 · Lovable · [[Changes/Lovable/2026-06-18-add-voice-to-your-app-with-text-to-speech-and-speech-to-text|Add voice to your app with text-to-speech and speech-to-text]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-08-11 · Aider · [[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source link) support, which allows you…]]
+- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -1,0 +1,98 @@
+---
+card_id: ollama-2025-07-02-1783f9
+date: '2025-07-02'
+description: 'Ollama · 2025-07-02 · Model Support: The directory in which models are
+  stored can now be modified! This allows models to be stored on external hard disks
+  or…'
+diffusion:
+  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|We
+    made more improvements to the ChatGPT model!]]'
+  inference: No adoption, equivalence, or causation claim.
+  lag_days: 905
+  relation: same-theme-chronology
+  role: later-observed
+  scope: tracked-products-only
+  theme: model-support
+  tracked_products_count: 20
+evolves_from: []
+extractor_version: fallback-v5
+impact: incremental
+kind: change
+machine_hash: 87aca47a6923fccb5c152f8f1fb3c4e07435354d31a8a44dcddb7e3a6c2d9bf0
+product: ollama
+product_name: Ollama
+record:
+  card_id: ollama-2025-07-02-1783f9
+  comparison: ''
+  date: '2025-07-02'
+  description: 'Ollama — v0.9.5: The directory in which models are stored can now
+    be modified! This allows models to be stored on external hard disks or alternative
+    directories than the default.'
+  evidence:
+  - quote: The directory in which models are stored can now be modified! This allows
+      models to be stored on external hard disks or alternative directories than the
+      default.
+    source_release: https://github.com/ollama/ollama/releases/tag/v0.9.5
+  extractor_version: fallback-v5
+  impact: incremental
+  kind: change
+  product: ollama
+  product_name: Ollama
+  slug: the-directory-in-which-models-are-stored-can-now-be-modified-this-allows-models
+  source_release: ollama-2025-07-02-v0-9-5-github-229485359-af2d8085
+  source_type: github_releases
+  theme: model-support
+  title: The directory in which models are stored can now be modified!
+  type: change
+related_changes:
+- '[[Changes/Gemini CLI/2025-07-01-5-model-support-changes-in-v0-1-8|5 Model Support
+  changes in v0.1.8]]'
+- '[[Changes/Dify/2025-07-02-4-model-support-changes-in-1-5-1|4 Model Support changes
+  in 1.5.1]]'
+- '[[Changes/Gemini CLI/2025-07-02-2-model-support-changes-in-v0-1-9|2 Model Support
+  changes in v0.1.9]]'
+source_release: '[[Releases/Ollama/ollama-2025-07-02-v0-9-5-github-229485359-af2d8085|ollama-2025-07-02-v0-9-5-github-229485359-af2d8085]]'
+source_type: github_releases
+theme: model-support
+title: The directory in which models are stored can now be modified!
+type: change
+---
+
+<!-- chronolog:begin region="header" -->
+# The directory in which models are stored can now be modified!
+
+**Ollama** · 2025-07-02 · [[Themes/model-support|Model Support]] · [Official source](https://github.com/ollama/ollama/releases/tag/v0.9.5) · from [[Releases/Ollama/ollama-2025-07-02-v0-9-5-github-229485359-af2d8085|v0.9.5]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="evidence" -->
+> The directory in which models are stored can now be modified! This allows models to be stored on external hard disks or alternative directories than the default.
+>
+> Source: https://github.com/ollama/ollama/releases/tag/v0.9.5
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Ollama/2025-07-02-a-new-version-of-ollama-s-macos-and-windows-applications-are-now-available-new-i|A new version of Ollama's macOS and Windows applications are now available]] · Mobile and Desktop
+- [[Changes/Ollama/2025-07-02-the-macos-app-is-now-a-native-application-and-starts-much-faster-while-requiring|The macOS app is now a native application and starts much faster while requiring…]] · Reliability and Performance
+- [[Changes/Ollama/2025-07-02-add-nativemind-to-community-integrations-by-xukecheng-in-https-github-com-ollama|Add NativeMind to Community Integrations]] · Apps and Integrations
+- [[Changes/Ollama/2025-07-02-3-mobile-and-desktop-changes-in-v0-9-5|3 Mobile and Desktop changes in v0.9.5]] · Mobile and Desktop
+- [[Changes/Ollama/2025-07-02-2-other-changes-in-v0-9-5|2 other changes in v0.9.5]] · Other changes
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Model Support
+
+- Earlier: 2025-07-02 · Gemini CLI · [[Changes/Gemini CLI/2025-07-02-2-model-support-changes-in-v0-1-9|2 Model Support changes in v0.1.9]]
+- Later: 2025-07-02 · OpenHands · [[Changes/OpenHands/2025-07-02-updating-llm-settings-are-now-applied-to-existing-conversations-after-stopping-a|Updating LLM settings are now applied to existing conversations after stopping…]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|We made more improvements to the ChatGPT model!]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20ollama-2025-07-02-1783f9&body=Card%3A%20Changes%2FOllama%2F2025-07-02-the-directory-in-which-models-are-stored-can-now-be-modified-this-allows-models.md%0ACard%20ID%3A%20ollama-2025-07-02-1783f9%0ASource%3A%20https%3A%2F%2Fgithub.com%2Follama%2Follama%2Freleases%2Ftag%2Fv0.9.5%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

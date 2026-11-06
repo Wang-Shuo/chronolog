@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6e76a45475e950580ba3c09e1c1e5e74c9f5b0f97ee173ecedceecfb6ca8e13b
+machine_hash: 9f7e198e1d09536f5315e7a298e7c911c6639c178825af6229dee4803a6cfe71
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,10 @@ record:
   title: 2 Interface Experience changes in v2.1.187
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-19-added-config-help-to-list-all-available-shorthand-keys-for-config-key-value|Added
-  /config --help to list all available shorthand keys for /config key=value]]'
 - '[[Changes/Claude Code/2026-06-19-changed-config-toggle-behavior-enter-and-space-both-change-the-selected-setting|Changed
   /config toggle behavior]]'
+- '[[Changes/v0/2026-06-19-view-only-members-can-download-a-chat-s-code-as-a-zip-from-the-project-menu|View-only
+  members can download a chat''s code as a ZIP from the project menu]]'
 - '[[Changes/Codex CLI/2026-06-22-4-interface-experience-changes-in-rust-v0-142-0|4
   Interface Experience changes in rust-v0.142.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-23-v2-1-187-github-343665388-744f9775|claude-code-2026-06-23-v2-1-187-github-343665388-744f9775]]'

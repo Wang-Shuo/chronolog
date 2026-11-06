@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 9c3283177a22bd785e4d0e1cd3beea7ef30acfb37fafc71dd115e8b967673645
+machine_hash: a363545ce9203cac0bbb6b1aef3c5be23d56817ce66c367bd2ed87e2563ff253
 product: windsurf
 product_name: Windsurf
 record:
@@ -42,11 +42,12 @@ record:
   title: mentioning conversations
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-06-20-2-context-window-changes-in-0-43-0|2 Context Window
-  changes in 0.43.0]]'
-- '[[Changes/Aider/2025-06-27-enhanced-thinking-tokens-support-can-now-be-disabled-by-setting-to-0-and-improve|Enhanced
-  thinking tokens support]]'
-- '[[Changes/Cursor/2025-07-03-pr-indexing-search|PR indexing & search]]'
+- '[[Changes/Dify/2025-07-10-style-config-var-update-styling-classes-to-use-design-system-tokens-by-minamiyam|style(config-var):
+  update styling classes to use design system tokens]]'
+- '[[Changes/Open WebUI/2025-07-14-4-context-window-changes-in-v0-6-16|4 Context Window
+  changes in v0.6.16]]'
+- '[[Changes/Gemini/2025-07-15-stay-on-top-of-your-work-with-productivity-planner-gem|Stay
+  on Top of Your Work with Productivity Planner Gem]]'
 source_release: '[[Releases/Windsurf/windsurf-2025-07-17-v1-11-0-705f6ab2|windsurf-2025-07-17-v1-11-0-705f6ab2]]'
 source_type: windsurf_changelog
 theme: context-window
@@ -80,8 +81,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2025-07-03 · Cursor · [[Changes/Cursor/2025-07-03-pr-indexing-search|PR indexing & search]]
-- Later: 2025-07-19 · Gemini CLI · [[Changes/Gemini CLI/2025-07-19-2-context-window-changes-in-v0-1-13|2 Context Window changes in v0.1.13]]
+- Earlier: 2025-07-15 · Gemini · [[Changes/Gemini/2025-07-15-stay-on-top-of-your-work-with-productivity-planner-gem|Stay on Top of Your Work with Productivity Planner Gem]]
+- Later: 2025-07-18 · Ollama · [[Changes/Ollama/2025-07-18-ollama-ps-will-now-show-the-context-length-of-loaded-models|ollama ps will now show the context length of loaded models]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

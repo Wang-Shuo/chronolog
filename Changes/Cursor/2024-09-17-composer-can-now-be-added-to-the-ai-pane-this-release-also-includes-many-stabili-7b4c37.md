@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: bd9bdec8183feb6c84ed39840d974004d5747c6f8697e34bff0c753428464538
+machine_hash: 32817715b49dd1cb6db858b72d2029dce1845762e4927dd26c9a4025f42768cc
 product: cursor
 product_name: Cursor
 record:
@@ -48,10 +48,9 @@ record:
   title: Composer can now be added to the AI pane
   type: change
 related_changes:
-- '[[Changes/Aider/2024-08-13-web-scraper-is-more-robust-if-page-never-idles|Web scraper
-  is more robust if page never idles]]'
-- '[[Changes/Aider/2024-08-20-improved-editing-performance-on-jupyter-notebook-ipynb-files|Improved
-  editing performance on Jupyter Notebook .ipynb files]]'
+- '[[Changes/Dify/2024-09-12-if-else-node-stability|IF-ELSE Node Stability]]'
+- '[[Changes/Dify/2024-09-13-score-threshold-fix-addressed-an-issue-where-the-score-threshold-was-set-to-none|Score
+  Threshold Fix]]'
 - '[[Changes/Cursor/2024-09-17-cursor-tab-now-auto-imports-symbols-in-python-files-we-ve-also-significantly-imp|Cursor
   Tab now auto-imports symbols in Python files!]]'
 source_release: '[[Releases/Cursor/cursor-2024-09-17-0-41-x-https-cursor-com-changelog-0-41-x-a8b13ea8|cursor-2024-09-17-0-41-x-https-cursor-com-changelog-0-41-x-a8b13ea8]]'
@@ -88,8 +87,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2024-08-20 · Aider · [[Changes/Aider/2024-08-20-improved-editing-performance-on-jupyter-notebook-ipynb-files|Improved editing performance on Jupyter Notebook .ipynb files]]
-- Later: 2024-09-19 · Cline · [[Changes/Cline/2024-09-19-folder-adds-folder-s-files-all-at-once-to-speed-up-your-workflow-even-more|@folder: Adds folder's files all at once to speed up your workflow even more]]
+- Earlier: 2024-09-13 · Dify · [[Changes/Dify/2024-09-13-score-threshold-fix-addressed-an-issue-where-the-score-threshold-was-set-to-none|Score Threshold Fix]]
+- Later: 2024-09-17 · Ollama · [[Changes/Ollama/2024-09-17-the-ollama-ollama-container-image-will-now-start-running-almost-immediately-lead|The ollama/ollama container image will now start running almost immediately…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

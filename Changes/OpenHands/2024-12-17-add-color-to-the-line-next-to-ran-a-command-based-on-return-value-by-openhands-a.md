@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 947735a8f61dfbcb6f0b2731691af989f805553e15f7849ca90c6b4530c022e2
+machine_hash: 30517029b60c696acd93dca27084c0139d9dd081beb3ecbc955accec3ca67113
 product: openhands
 product_name: OpenHands
 record:
@@ -45,10 +45,10 @@ record:
   title: Add color to the line next to `Ran a Command` based on return value
   type: change
 related_changes:
-- '[[Changes/OpenHands/2024-12-12-request-code-review-from-the-person-who-initiated-the-resolver-by-openhands-agen|Request
-  code review from the person who initiated the resolver]]'
 - '[[Changes/Aider/2024-12-13-new-multiline-flag-and-multiline-mode-command-https-aider-chat-docs-usage-comman|New
   --multiline flag and /multiline-mode…]]'
+- '[[Changes/Dify/2024-12-16-2-developer-workflow-changes-in-0-14-0|2 Developer Workflow
+  changes in 0.14.0]]'
 - '[[Changes/Cursor/2024-12-17-agent-sees-terminal-exit-codes-can-run-commands-in-the-background-and-commands-a-4f6044|Agent
   sees terminal exit codes, can run commands in the background, and commands…]]'
 source_release: '[[Releases/OpenHands/openhands-2024-12-17-0-15-3-github-191250077-384de52c|openhands-2024-12-17-0-15-3-github-191250077-384de52c]]'
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2024-12-17 · Cursor · [[Changes/Cursor/2024-12-17-agent-sees-terminal-exit-codes-can-run-commands-in-the-background-and-commands-a-4f6044|Agent sees terminal exit codes, can run commands in the background, and commands…]]
-- Later: 2024-12-26 · Aider · [[Changes/Aider/2024-12-26-2-developer-workflow-changes-in-v0-70-0|2 Developer Workflow changes in v0.70.0]]
+- Later: 2024-12-18 · Dify · [[Changes/Dify/2024-12-18-stop-the-service-command-please-execute-in-the-docker-directory|Stop the service，Command, please execute in the docker directory]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

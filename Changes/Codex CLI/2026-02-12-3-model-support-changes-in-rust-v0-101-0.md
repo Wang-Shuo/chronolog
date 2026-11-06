@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6e5aca8926b1e74797d80966971e6ac7be3ecbe5aaccb48996931b16de5eecc7
+machine_hash: 61fb9401d2c975f7df6990f33fe44c99b14c5169c8c4d918ca1947a88851cffe
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -46,8 +46,8 @@ record:
   title: 3 Model Support changes in rust-v0.101.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-02-11-15-model-support-changes-in-rust-v0-99-0|15 Model
-  Support changes in rust-v0.99.0]]'
+- '[[Changes/Dify/2026-02-11-2-model-support-changes-in-1-13-0|2 Model Support changes
+  in 1.13.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-11-2-model-support-changes-in-v0-0-407|2 Model
   Support changes in v0.0.407]]'
 - '[[Changes/Cline/2026-02-12-2-model-support-changes-in-v3-58-0|2 Model Support changes

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: fada8c99ccabcf9267dff2a0d4fc640fb5e0118f80b89a1a94a30b8900d7bb56
+machine_hash: aa471d6d17026812a7721475f14be74dadceb87a13f49c019626351b1c6d2c2e
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,12 +43,12 @@ record:
   title: Improved the cloud session error shown while a request refused for your claude.ai…
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-10-26-a-dropped-connection-during-sign-in-no-longer-signs-you-out-devin-desktop-retrie|A
-  dropped connection during sign-in no longer signs you out]]'
-- '[[Changes/Codex CLI/2026-10-27-3-account-and-access-changes-in-rust-v0-165-0|3
-  Account and Access changes in rust-v0.165.0]]'
+- '[[Changes/Lovable/2026-10-28-set-up-two-factor-authentication-from-the-dashboard-banner|Set
+  up two-factor authentication from the dashboard banner]]'
 - '[[Changes/Codex CLI/2026-10-29-8-account-and-access-changes-in-rust-v0-166-0|8
   Account and Access changes in rust-v0.166.0]]'
+- '[[Changes/Lovable/2026-10-29-log-in-with-one-click-using-google|Log in with one
+  click using Google]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-30-v2-1-314-github-428518421-b7ac83d7|claude-code-2026-10-30-v2-1-314-github-428518421-b7ac83d7]]'
 source_type: github_releases
 theme: account-access
@@ -86,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-10-29 · Codex CLI · [[Changes/Codex CLI/2026-10-29-8-account-and-access-changes-in-rust-v0-166-0|8 Account and Access changes in rust-v0.166.0]]
+- Earlier: 2026-10-29 · Lovable · [[Changes/Lovable/2026-10-29-log-in-with-one-click-using-google|Log in with one click using Google]]
 - Later: 2026-10-31 · Claude Code · [[Changes/Claude Code/2026-10-31-vscode-added-sign-in-to-a-claude-apps-gateway-from-the-chat-panel-with-no-termin|VSCode Added sign-in to a Claude apps gateway from the chat panel, with no…]]
 <!-- chronolog:end -->
 

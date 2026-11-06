@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 178eef02a763a3a51aac1919ac9ce530407cb0b726aee54c870772cd1ea191b4
+machine_hash: fb7f6f5f677977ebf34214314c861045b6cfc8989839ab34cd3b66926ce5d1e5
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -62,9 +62,8 @@ record:
   title: 12 Agent Mode changes in rust-v0.148.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-17-removed-the-redundant-allowed-by-auto-mode-classifier-line-that-auto-mode-showed|Removed
-  the redundant "Allowed by auto mode classifier" line that auto mode showed…]]'
-- '[[Changes/Cursor/2026-08-17-agents-in-every-repo|Agents in every repo]]'
+- '[[Changes/ElevenLabs/2026-08-17-elevenagents|ElevenAgents]]'
+- '[[Changes/ElevenLabs/2026-08-17-elevenagents-fdc84e|ElevenAgents]]'
 - '[[Changes/OpenHands/2026-08-17-docs-agents-add-a-repository-map-clarifying-what-belongs-where-by-smolpaws-in-ht|docs(agents):
   add a repository map clarifying what belongs where]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-08-18-rust-v0-148-0-github-372686337-4265c0ae|codex-cli-2026-08-18-rust-v0-148-0-github-372686337-4265c0ae]]'

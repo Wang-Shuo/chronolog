@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 18cbf9c3bec9cd79d876fbadf39ca7c150dd2d69217f67e814a23528f30492dd
+machine_hash: 590e99d0c921a03fd3bb79897625ab64166b850c6310774664b0736771acae0e
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,12 +45,12 @@ record:
   title: Automatically prune old process log files from ~/.copilot/logs/ at startup…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-20-2-editor-experience-changes-in-v1-0-51|2
-  Editor Experience changes in v1.0.51]]'
 - '[[Changes/Claude Code/2026-05-22-diff-detail-view-can-now-be-scrolled-with-the-keyboard-arrows-j-k-pgup-pgdn-spac|/diff
   detail view can now be scrolled with the keyboard…]]'
 - '[[Changes/Gemini CLI/2026-05-22-ci-implement-codebase-aware-effort-level-triage-by-cocosheng-g-in-https-github-c|ci:
   implement codebase-aware effort level triage]]'
+- '[[Changes/Replit/2026-05-22-layout-controls-in-the-visual-editor|Layout controls
+  in the Visual Editor]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-05-23-v1-0-52-github-328402909-801444d4|github-copilot-cli-2026-05-23-v1-0-52-github-328402909-801444d4]]'
 source_type: github_releases
 theme: editor-experience
@@ -88,7 +88,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-05-22 · Gemini CLI · [[Changes/Gemini CLI/2026-05-22-ci-implement-codebase-aware-effort-level-triage-by-cocosheng-g-in-https-github-c|ci: implement codebase-aware effort level triage]]
+- Earlier: 2026-05-22 · Replit · [[Changes/Replit/2026-05-22-layout-controls-in-the-visual-editor|Layout controls in the Visual Editor]]
 - Later: 2026-05-25 · Cline · [[Changes/Cline/2026-05-25-update-diff-and-protobufjs-dependencies|Update diff and protobufjs dependencies]]
 <!-- chronolog:end -->
 

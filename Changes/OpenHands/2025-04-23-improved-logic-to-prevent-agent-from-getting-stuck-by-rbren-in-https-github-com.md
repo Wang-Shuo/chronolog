@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 1cc332a29e1a4109800bf18afd0e7029d61aab594d0d0c50858d1cc3965c636a
+machine_hash: f5ce4e7aa081fc48911e66b72f4ace1695a2718d4a114a33529ee18f9c954953
 product: openhands
 product_name: OpenHands
 record:
@@ -43,12 +43,10 @@ record:
   title: Improved logic to prevent agent from getting stuck
   type: change
 related_changes:
-- '[[Changes/Cline/2025-04-09-add-new-create-new-task-tool-to-let-cline-start-a-new-task-autonomously|Add
-  new ''Create New Task'' tool to let Cline start a new task autonomously!]]'
-- '[[Changes/OpenHands/2025-04-10-prompt-agent-to-follow-existing-pr-template-when-create-new-pr-by-xingyaoww-in-h|Prompt
-  agent to follow existing PR template when create new PR]]'
-- '[[Changes/Cursor/2025-04-15-reviewing-agent-generated-code-is-now-easier-with-a-built-in-diff-view-at-the-en|Making
-  reviews easier]]'
+- '[[Changes/ElevenLabs/2025-04-21-agents-platform|Agents Platform]]'
+- '[[Changes/ElevenLabs/2025-04-21-agents-platform-acb364|Agents Platform]]'
+- '[[Changes/Dify/2025-04-23-3-agent-mode-changes-in-1-3-0|3 Agent Mode changes in
+  1.3.0]]'
 source_release: '[[Releases/OpenHands/openhands-2025-04-23-0-34-0-github-214259369-f2d174a1|openhands-2025-04-23-0-34-0-github-214259369-f2d174a1]]'
 source_type: github_releases
 theme: agent-mode
@@ -81,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2025-04-15 · Cursor · [[Changes/Cursor/2025-04-15-reviewing-agent-generated-code-is-now-easier-with-a-built-in-diff-view-at-the-en|Making reviews easier]]
+- Earlier: 2025-04-23 · Dify · [[Changes/Dify/2025-04-23-3-agent-mode-changes-in-1-3-0|3 Agent Mode changes in 1.3.0]]
 - Later: 2025-04-24 · Cline · [[Changes/Cline/2025-04-24-improve-prompting-for-new-task-tool|Improve prompting for new task tool]]
 <!-- chronolog:end -->
 

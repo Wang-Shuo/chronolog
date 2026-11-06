@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: b972070a02b3535ee16c2bc34bcd9ab407a7f9e157dc5ba43f2835ae5997a5e7
+machine_hash: 795e5cdc11af241f992ce4d62c600a1838779d3eeabdb87554d509c62623cff3
 product: cursor
 product_name: Cursor
 record:
@@ -44,8 +44,7 @@ record:
   title: Ask mode in CLI
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-01-14-4-editor-experience-changes-in-v0-24-0|4 Editor
-  Experience changes in v0.24.0]]'
+- '[[Changes/Ollama/2026-01-14-qwen-image-edit-2511|Qwen-Image-Edit-2511]]'
 - '[[Changes/Claude Code/2026-01-16-added-external-editor-support-ctrl-g-in-askuserquestion-other-input-field|Added
   external editor support (Ctrl+G) in AskUserQuestion "Other" input field]]'
 - '[[Changes/Cursor/2026-01-16-this-release-brings-many-of-the-editor-s-most-loved-features-to-the-cursor-cli-a|Cursor

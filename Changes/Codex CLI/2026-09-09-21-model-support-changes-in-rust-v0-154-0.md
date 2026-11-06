@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e539f2fb2c26a2642c935954640909dc4ddc0a95dac6746e1e0626e800f89f78
+machine_hash: 3a3d207a1a1d972685386deb43ba5357bce6048c813d3cd703981e2eb2a5d969
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -87,8 +87,8 @@ record:
   title: 21 Model Support changes in rust-v0.154.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-09-04-3-model-support-changes-in-v1-0-83|3 Model
-  Support changes in v1.0.83]]'
+- '[[Changes/Lovable/2026-09-08-gpt-6-astra-gemini-3-8-flash-and-gemini-3-5-transcribe-for-your-app-s-ai-feature|GPT-6
+  Astra, Gemini 3.8 Flash, and Gemini 3.5 Transcribe for your app''s AI features]]'
 - '[[Changes/ChatGPT/2026-09-09-chatgpt-voice-can-now-use-gpt-5-6-or-gpt-6-astra-when-it-needs-to-search-or-reas-848954|ChatGPT
   Voice can now use GPT-5.6 or GPT-6 Astra when it needs to search or reason…]]'
 - '[[Changes/Claude Code/2026-09-09-added-maxeffortlevel-setting-top-level-or-per-model-under-modelsettings-caps-the|Added

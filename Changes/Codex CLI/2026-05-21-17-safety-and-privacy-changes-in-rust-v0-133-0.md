@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6d322f3ac4c8470d1c1fb8199ac0c5bb83d3d0506a3cce286cc0df7933b73b7c
+machine_hash: 01546ded358a728d474a9ac88ac02617ee421d188389d087ef911ca6e015739c
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -76,12 +76,12 @@ record:
   title: 17 Safety and Privacy changes in rust-v0.133.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-19-memory-permission-prompts-now-name-who-can-see-a-stored-memory-user-scope-or-the|Memory
-  permission prompts now name who can see a stored memory]]'
 - '[[Changes/Codex CLI/2026-05-20-5-safety-and-privacy-changes-in-rust-v0-132-0|5
   Safety and Privacy changes in rust-v0.132.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-20-add-security-review-slash-command-to-review-code-changes-for-security-vulnerabil|Add
   /security-review slash command to review code changes for security…]]'
+- '[[Changes/Claude/2026-05-21-claude-now-works-with-more-security-and-compliance-tools|Claude
+  now works with more security and compliance tools]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-05-21-rust-v0-133-0-github-327109656-130a26bc|codex-cli-2026-05-21-rust-v0-133-0-github-327109656-130a26bc]]'
 source_type: github_releases
 theme: safety-privacy
@@ -151,7 +151,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.133.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-05-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-20-add-security-review-slash-command-to-review-code-changes-for-security-vulnerabil|Add /security-review slash command to review code changes for security…]]
+- Earlier: 2026-05-21 · Claude · [[Changes/Claude/2026-05-21-claude-now-works-with-more-security-and-compliance-tools|Claude now works with more security and compliance tools]]
 - Later: 2026-05-22 · Claude Code · [[Changes/Claude Code/2026-05-22-2-safety-and-privacy-changes-in-v2-1-149|2 Safety and Privacy changes in v2.1.149]]
 <!-- chronolog:end -->
 

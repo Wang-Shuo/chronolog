@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 37bfe078867b9b88ecb8bb77c034d24f2e0662f9188507568050c5d27cb02210
+machine_hash: 070d2a20611a4eb54f40d67ca734db8e606eccd6b282507c95775c56ae8dfdbf
 product: openhands
 product_name: OpenHands
 record:
@@ -44,12 +44,9 @@ record:
   title: Added support for agent pause and resume functionality in the CLI
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-04-15-reviewing-agent-generated-code-is-now-easier-with-a-built-in-diff-view-at-the-en|Making
-  reviews easier]]'
-- '[[Changes/OpenHands/2025-04-23-improved-logic-to-prevent-agent-from-getting-stuck-by-rbren-in-https-github-com|Improved
-  logic to prevent agent from getting stuck]]'
-- '[[Changes/Cline/2025-04-24-improve-prompting-for-new-task-tool|Improve prompting
-  for new task tool]]'
+- '[[Changes/ElevenLabs/2025-04-28-agents-platform|Agents Platform]]'
+- '[[Changes/ElevenLabs/2025-04-28-agents-platform-4b369f|Agents Platform]]'
+- '[[Changes/ElevenLabs/2025-04-28-agents-platform-6b1e4d|Agents Platform]]'
 source_release: '[[Releases/OpenHands/openhands-2025-05-01-0-36-0-github-216047018-ca3df2a5|openhands-2025-05-01-0-36-0-github-216047018-ca3df2a5]]'
 source_type: github_releases
 theme: agent-mode
@@ -78,8 +75,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2025-04-24 · Cline · [[Changes/Cline/2025-04-24-improve-prompting-for-new-task-tool|Improve prompting for new task tool]]
-- Later: 2025-05-12 · OpenHands · [[Changes/OpenHands/2025-05-12-added-the-ability-for-the-agent-to-save-browser-screenshots-as-image-files-by-xi|Added the ability for the agent to save browser screenshots as image files]]
+- Earlier: 2025-04-28 · ElevenLabs · [[Changes/ElevenLabs/2025-04-28-agents-platform-6b1e4d|Agents Platform]]
+- Later: 2025-05-12 · ElevenLabs · [[Changes/ElevenLabs/2025-05-12-agents-platform|Agents Platform]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

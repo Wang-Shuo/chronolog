@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: d851f05ce03cfc200da37cdfd3aa56891f8905cf6d7efe8c4d11b7ab23540a64
+machine_hash: ae2a5729c71cf3427e275768bd37ce1b125bc9b812195b088136a1f4a4eefd0f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -49,10 +49,10 @@ record:
   title: Multiple agents that can work on different parts of a task in parallel
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-14-5-agent-mode-changes-in-v2-1-299|5 Agent Mode
-  changes in v2.1.299]]'
 - '[[Changes/Claude Code/2026-10-14-3-agent-mode-changes-in-v2-1-300|3 Agent Mode
   changes in v2.1.300]]'
+- '[[Changes/Ollama/2026-10-14-a-compact-sibling-nemotron-3-5-bolt-https-ollama-com-library-nemotron-3-5-bolt-d|A
+  compact sibling, Nemotron 3.5…]]'
 - '[[Changes/Codex CLI/2026-10-15-14-agent-mode-changes-in-rust-v0-163-0|14 Agent
   Mode changes in rust-v0.163.0]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-10-16-updates-to-gpt-6-pro-model-in-chatgpt-6a44f64a|chatgpt-2026-10-16-updates-to-gpt-6-pro-model-in-chatgpt-6a44f64a]]'

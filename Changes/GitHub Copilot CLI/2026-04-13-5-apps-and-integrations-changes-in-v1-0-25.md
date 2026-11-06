@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 17915e81e81a62012d4617279356b70ae0abf5452dceec4801a5f9155f762946
+machine_hash: a5bafc4b49ff662acb1640ac513fb517272479ae732a0a1c8481f7b65711bd0d
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -53,12 +53,11 @@ record:
   title: 5 Apps and Integrations changes in v1.0.25
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-10-migration-notice-for-vscode-mcp-json-now-includes-a-jq-command-to-migrate-your-c|Migration
-  notice for .vscode/mcp.json now includes a jq command to migrate…]]'
-- '[[Changes/Codex CLI/2026-04-11-4-apps-and-integrations-changes-in-rust-v0-120-0|4
-  Apps and Integrations changes in rust-v0.120.0]]'
+- '[[Changes/Ollama/2026-04-12-hermes-agent-https-docs-ollama-com-integrations-hermes-ollama-integration-guide|Hermes
+  agent((source link) Ollama integration guide…]]'
 - '[[Changes/Claude Code/2026-04-13-3-apps-and-integrations-changes-in-v2-1-105|3
   Apps and Integrations changes in v2.1.105]]'
+- '[[Changes/ElevenLabs/2026-04-13-sdk-releases|SDK Releases]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-04-13-v1-0-25-github-308357690-3753e85b|github-copilot-cli-2026-04-13-v1-0-25-github-308357690-3753e85b]]'
 source_type: github_releases
 theme: apps-integrations
@@ -104,7 +103,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.25
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-04-13 · Claude Code · [[Changes/Claude Code/2026-04-13-3-apps-and-integrations-changes-in-v2-1-105|3 Apps and Integrations changes in v2.1.105]]
+- Earlier: 2026-04-13 · ElevenLabs · [[Changes/ElevenLabs/2026-04-13-sdk-releases|SDK Releases]]
 - Later: 2026-04-14 · Gemini CLI · [[Changes/Gemini CLI/2026-04-14-2-apps-and-integrations-changes-in-v0-38-0|2 Apps and Integrations changes in v0.38.0]]
 <!-- chronolog:end -->
 

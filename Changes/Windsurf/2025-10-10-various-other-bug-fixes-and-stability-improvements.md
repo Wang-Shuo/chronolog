@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3f9597e8614469731e2d15dc3049dd55593cacb99022440d5352fa33057085f5
+machine_hash: cb55e1bb0c5e5adee169629aa820b11e9a2348de9015edacb314421c9cf53572
 product: windsurf
 product_name: Windsurf
 record:
@@ -40,12 +40,10 @@ record:
   title: Various other bug fixes and stability improvements
   type: change
 related_changes:
-- '[[Changes/Windsurf/2025-09-29-devin-features-in-windsurf-stability-improvements-and-a-brand-new-ui|Devin
-  features in Windsurf, stability improvements, and a brand new UI]]'
-- '[[Changes/Gemini CLI/2025-10-01-2-reliability-and-performance-changes-in-v0-7-0|2
-  Reliability and Performance changes in v0.7.0]]'
-- '[[Changes/Gemini CLI/2025-10-07-part-3-6-feat-telemetry-enhance-metrics-with-performance-monitoring-apis-by-elyi|Part
-  3/6 feat(telemetry): enhance metrics with performance monitoring APIs]]'
+- '[[Changes/Open WebUI/2025-10-07-6-reliability-and-performance-changes-in-v0-6-33|6
+  Reliability and Performance changes in v0.6.33]]'
+- '[[Changes/Replit/2025-10-10-github-import-improvements|GitHub import improvements]]'
+- '[[Changes/Replit/2025-10-10-faster-agent-stopping|Faster agent stopping]]'
 source_release: '[[Releases/Windsurf/windsurf-2025-10-10-v1-12-16-06d06d57|windsurf-2025-10-10-v1-12-16-06d06d57]]'
 source_type: windsurf_changelog
 theme: reliability-performance
@@ -74,8 +72,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-10-07 · Gemini CLI · [[Changes/Gemini CLI/2025-10-07-part-3-6-feat-telemetry-enhance-metrics-with-performance-monitoring-apis-by-elyi|Part 3/6 feat(telemetry): enhance metrics with performance monitoring APIs]]
-- Later: 2025-10-16 · Windsurf · [[Changes/Windsurf/2025-10-16-various-stability-improvements-and-minor-bug-fixes|Various stability improvements and minor bug fixes]]
+- Earlier: 2025-10-10 · Replit · [[Changes/Replit/2025-10-10-faster-agent-stopping|Faster agent stopping]]
+- Later: 2025-10-15 · Ollama · [[Changes/Ollama/2025-10-15-flash-attention-is-now-enabled-by-default-for-gemma-3-improving-performance-and|Flash attention is now enabled by default for Gemma 3, improving performance…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 115f36de9262a788ddb533c390ee1f58ea94282cfe9e35b4374b354b22bebb48
+machine_hash: d8a60ede8baab2c58b8b3b95bd85cd7460164efbae51ef1548b1d63d670c4a3d
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,12 +49,12 @@ record:
   title: 3 Apps and Integrations changes in v2.1.218
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-20-10-apps-and-integrations-changes-in-v1-0-72|10
-  Apps and Integrations changes in v1.0.72]]'
-- '[[Changes/Claude Code/2026-07-21-capped-the-frontend-design-plugin-suggestion-tip-at-3-lifetime-impressions-inste|Capped
-  the frontend-design plugin suggestion tip at 3 lifetime impressions instead…]]'
 - '[[Changes/Codex CLI/2026-07-21-44-apps-and-integrations-changes-in-rust-v0-145-0|44
   Apps and Integrations changes in rust-v0.145.0]]'
+- '[[Changes/Lovable/2026-07-21-app-connectors-apify-and-tally|App connectors: Apify
+  and Tally]]'
+- '[[Changes/v0/2026-07-21-3-apps-and-integrations-changes-in-slash-commands-the-shopify|3
+  Apps and Integrations changes in Slash commands, the Shopify…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-22-v2-1-218-github-358276841-57d73db4|claude-code-2026-07-22-v2-1-218-github-358276841-57d73db4]]'
 source_type: github_releases
 theme: apps-integrations
@@ -97,8 +97,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.218
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-07-21 · Codex CLI · [[Changes/Codex CLI/2026-07-21-44-apps-and-integrations-changes-in-rust-v0-145-0|44 Apps and Integrations changes in rust-v0.145.0]]
-- Later: 2026-07-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-23-3-apps-and-integrations-changes-in-v1-0-74|3 Apps and Integrations changes in v1.0.74]]
+- Earlier: 2026-07-21 · v0 · [[Changes/v0/2026-07-21-3-apps-and-integrations-changes-in-slash-commands-the-shopify|3 Apps and Integrations changes in Slash commands, the Shopify…]]
+- Later: 2026-07-22 · Lovable · [[Changes/Lovable/2026-07-22-bulk-edit-your-shopify-catalog-in-one-approval|Bulk-edit your Shopify catalog in one approval]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 89804008c29b64b21c22065adec96b1897bdb94e7abc9b67a3f62432bc1fc49f
+machine_hash: 026a82bfadbc1505e8831985931abb3ef2cefaaedd595c75b1a8cd573bfbb741
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,12 +42,11 @@ record:
   title: '`/bg` and `←`-detach now preserve `--allow-dangerously-skip-permissions`…'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-11-vscode-press-cmd-ctrl-shift-t-to-reopen-the-most-recently-closed-session-tab-con|VSCode
-  Press Cmd/Ctrl+Shift+T to reopen the most recently closed session tab…]]'
-- '[[Changes/GitHub Copilot CLI/2026-05-12-read-only-gh-cli-commands-list-view-status-diff-etc-are-auto-approved-without-pr|Read-only
-  gh CLI commands (list, view, status, diff, etc.) are auto-approved without…]]'
+- '[[Changes/v0/2026-05-12-the-vs-code-editor-in-your-chats-autosaves-by-default-with-a-new-vercel-light-th|The
+  VS Code editor in your chats autosaves by default, with a new Vercel Light theme…]]'
 - '[[Changes/Cursor/2026-05-13-improved-pr-tabs-by-adding-clearer-review-states-better-reviewer-thread-visibili|Improved
   PR tabs by adding clearer review states, better reviewer/thread visibility…]]'
+- '[[Changes/ElevenLabs/2026-05-13-workspaces|Workspaces]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-15-v2-1-143-github-323423445-53eb447c|claude-code-2026-05-15-v2-1-143-github-323423445-53eb447c]]'
 source_type: github_releases
 theme: editor-experience
@@ -83,8 +82,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-05-13 · Cursor · [[Changes/Cursor/2026-05-13-improved-pr-tabs-by-adding-clearer-review-states-better-reviewer-thread-visibili|Improved PR tabs by adding clearer review states, better reviewer/thread visibility…]]
-- Later: 2026-05-18 · Codex CLI · [[Changes/Codex CLI/2026-05-18-21954-fix-goal-update-and-add-goal-edit-command-in-tui-etraut-openai|♯21954 Fix goal update and add /goal edit command in TUI @etraut-openai]]
+- Earlier: 2026-05-13 · ElevenLabs · [[Changes/ElevenLabs/2026-05-13-workspaces|Workspaces]]
+- Later: 2026-05-15 · v0 · [[Changes/v0/2026-05-15-reloading-the-preview-iframe-in-safari-shows-the-open-preview-in-new-tab-message|Reloading the preview iframe in Safari shows the "Open preview in new tab" message…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -4,20 +4,20 @@ date: '2026-01-20'
 description: 'GitHub Copilot CLI · 2026-01-20 · Enterprise and Administration: `/share
   gist` shows helpful error on GitHub Enterprise Cloud with data residency'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin
-    improvements: Team admins can now mark themselves as unpaid users and can see…]]'
+  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
+    for Google Workspace accounts]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 671
+  lag_days: 991
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0214977120100d7e14b6938473c8d48154ebaabb19c71a4ac64d8272975a2f75
+machine_hash: 56d20725cc65e5111057976828363cf082d45a3ce0f9264edaeb3758e50a076d
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -42,10 +42,10 @@ record:
   title: '`/share gist` shows helpful error on GitHub Enterprise Cloud with data residency'
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-12-18-many-of-the-largest-software-companies-in-the-world-have-adopted-cursor-for-ente|Many
-  of the largest software companies in the world have adopted Cursor for Enterprise]]'
-- '[[Changes/Codex CLI/2026-01-06-support-enterprise-managed-configuration-requirements-on-macos-via-an-mdm-provid|Support
-  enterprise-managed configuration requirements on macOS via an MDM-provided…]]'
+- '[[Changes/Open WebUI/2026-01-09-looking-for-an-enterprise-plan-https-docs-openwebui-com-enterprise-speak-with-ou|
+  Looking for an Enterprise Plan((source link)]]'
+- '[[Changes/Claude/2026-01-12-hipaa-ready-enterprise-plans|HIPAA-ready Enterprise
+  plans]]'
 - '[[Changes/Windsurf/2026-01-16-admins-can-now-manage-windsurf-restrictions-via-windows-group-policy|Admins
   can now manage Windsurf restrictions via Windows Group Policy]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-01-20-v0-0-388-github-278408057-d1caf6ed|github-copilot-cli-2026-01-20-v0-0-388-github-278408057-d1caf6ed]]'
@@ -85,7 +85,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-03-20 · Cursor · [[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin improvements: Team admins can now mark themselves as unpaid users and can see…]]
+- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

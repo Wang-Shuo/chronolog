@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ab43ed77b61610f8282c3553d7c31ea3f7f443609a9f8afe72df7430b3ab2e41
+machine_hash: 50274135610f238650a7bba6bc3f28944354d23179357ac30806734f4bb10c91
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -78,7 +78,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2025-11-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-11-20-shell-commands-are-no-longer-included-in-bash-and-powershell-history-files|Shell commands are no longer included in Bash and PowerShell history files]]
-- Later: 2025-11-26 · Gemini CLI · [[Changes/Gemini CLI/2025-11-26-feat-add-click-to-focus-support-for-interactive-shell-by-galz10-in-https-github|feat: add click-to-focus support for interactive shell]]
+- Later: 2025-11-24 · Open WebUI · [[Changes/Open WebUI/2025-11-24-websocket-and-redis-configuration-options-are-now-available-including-debug-logg|🔧 WebSocket and Redis configuration options are now available including debug…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

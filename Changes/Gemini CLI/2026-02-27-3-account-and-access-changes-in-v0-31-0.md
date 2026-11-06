@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e8d08d9e37ff925371fa73dcb2de4bc2be2df225e8dc6cdf90a02c606209f7c6
+machine_hash: a48efb555e4f8bfb0178ae7ea08d249b93facf005e7874ae7ba63889cf21ab7e
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -46,8 +46,8 @@ record:
   title: 3 Account and Access changes in v0.31.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-19-improved-performance-by-caching-authentication-failures-for-http-and-sse-mcp-ser|Improved
-  performance by caching authentication failures for HTTP and SSE MCP…]]'
+- '[[Changes/Open WebUI/2026-02-23-3-account-and-access-changes-in-v0-8-4|3 Account
+  and Access changes in v0.8.4]]'
 - '[[Changes/Codex CLI/2026-02-25-3-account-and-access-changes-in-rust-v0-105-0|3
   Account and Access changes in rust-v0.105.0]]'
 - '[[Changes/Codex CLI/2026-02-26-2-account-and-access-changes-in-rust-v0-106-0|2

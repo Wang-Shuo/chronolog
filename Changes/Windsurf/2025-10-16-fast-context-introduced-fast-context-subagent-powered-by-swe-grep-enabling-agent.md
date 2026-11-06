@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d89f461538d90c9742eda2f5c09e614df74df13cf5fddfbfdadbf7d8f134b25b
+machine_hash: 6ab2a4945777ee693c6d66a0c345a8d0d92ad9bd97e60ebed4efbd19022ae852
 product: windsurf
 product_name: Windsurf
 record:
@@ -62,12 +62,12 @@ record:
     enabling…'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2025-10-06-updated-the-context-truncation-message-s-color-from-an-error-color-to-a-warning|Updated
-  the context truncation message''s color from an error color to a warning color]]'
 - '[[Changes/Codex CLI/2025-10-09-make-context-line-permanent-by-dedrisian-oai-in-https-github-com-openai-codex-pu|Make
   context line permanent]]'
 - '[[Changes/Cline/2025-10-16-fixing-issue-where-checkpoint-restore-doesn-t-work-with-auto-compact-by-0xtoshii|fixing
   issue where checkpoint restore doesn''t work with auto-compact]]'
+- "[[Changes/Open WebUI/2025-10-16-focused-retrieval-mode-now-works-correctly-preventing-the-system-from-forcing-fu|\U0001F4DA
+  Focused retrieval mode now works correctly, preventing the system from forcing…]]"
 source_release: '[[Releases/Windsurf/windsurf-2025-10-16-v1-12-20-13ea1abb|windsurf-2025-10-16-v1-12-20-13ea1abb]]'
 source_type: windsurf_changelog
 theme: context-window
@@ -96,8 +96,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2025-10-16 · Cline · [[Changes/Cline/2025-10-16-fixing-issue-where-checkpoint-restore-doesn-t-work-with-auto-compact-by-0xtoshii|fixing issue where checkpoint restore doesn't work with auto-compact]]
-- Later: 2025-10-22 · Gemini CLI · [[Changes/Gemini CLI/2025-10-22-2-context-window-changes-in-v0-10-0|2 Context Window changes in v0.10.0]]
+- Earlier: 2025-10-16 · Open WebUI · [[Changes/Open WebUI/2025-10-16-focused-retrieval-mode-now-works-correctly-preventing-the-system-from-forcing-fu|📚 Focused retrieval mode now works correctly, preventing the system from forcing…]]
+- Later: 2025-10-22 · Dify · [[Changes/Dify/2025-10-22-3-context-window-changes-in-1-9-2|3 Context Window changes in 1.9.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

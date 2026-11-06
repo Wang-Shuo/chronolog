@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: b2da5e3b18e75092639ba17848837e01ac998ef03dee4bee562b9a0f6209e1f1
+machine_hash: d2950fd1f96061d4cd117ba52733e03a37189ccef3f8c572744ef3c99213a1f3
 product: cursor
 product_name: Cursor
 record:
@@ -46,12 +46,12 @@ record:
   title: '"cursor-fast": This is a new model available in command-k and chat'
   type: change
 related_changes:
-- '[[Changes/Aider/2023-12-20-3-model-support-changes-in-v0-19-0|3 Model Support changes
-  in v0.19.0]]'
-- '[[Changes/Aider/2024-01-04-add-images-to-the-chat-to-automatically-use-gpt-4-vision-by-joshuavial|Add
-  images to the chat to automatically use GPT-4 Vision, by @joshuavial]]'
 - '[[Changes/Cursor/2024-01-15-cursor-fast-is-a-newly-trained-model-between-gpt-3-5-and-gpt-4-coding-capabiliti-bb4c11|Cursor-Fast
   is a newly trained model between gpt-3.5 and gpt-4 coding capabilities…]]'
+- '[[Changes/Dify/2024-01-15-2-model-support-changes-in-0-4-7|2 Model Support changes
+  in 0.4.7]]'
+- '[[Changes/Dify/2024-01-17-5-model-support-changes-in-0-4-8|5 Model Support changes
+  in 0.4.8]]'
 source_release: '[[Releases/Cursor/cursor-2024-01-18-0-23-x-https-cursor-com-changelog-0-23-x-c0ec65fe|cursor-2024-01-18-0-23-x-https-cursor-com-changelog-0-23-x-c0ec65fe]]'
 source_type: cursor_changelog
 theme: model-support
@@ -82,8 +82,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2024-01-15 · Cursor · [[Changes/Cursor/2024-01-15-cursor-fast-is-a-newly-trained-model-between-gpt-3-5-and-gpt-4-coding-capabiliti-bb4c11|Cursor-Fast is a newly trained model between gpt-3.5 and gpt-4 coding capabilities…]]
-- Later: 2024-01-25 · Cursor · [[Changes/Cursor/2024-01-25-both-pro-and-api-key-users-can-also-try-out-gpt-4-0125-preview-by-configuring-th|Both pro and API key users can also try out gpt-4-0125-preview by configuring…]]
+- Earlier: 2024-01-17 · Dify · [[Changes/Dify/2024-01-17-5-model-support-changes-in-0-4-8|5 Model Support changes in 0.4.8]]
+- Later: 2024-01-19 · Dify · [[Changes/Dify/2024-01-19-add-jina-embeddings-v2-base-de-model-configuration-by-joshua20231026-in-https-gi|Add jina-embeddings-v2-base-de model configuration]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

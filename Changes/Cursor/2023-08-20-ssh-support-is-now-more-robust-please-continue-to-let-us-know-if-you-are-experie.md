@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: ec83dcb49c05ead6a7cc5d8e568754adfdf9a99ac7ca4bad263a25f42b12d63b
+machine_hash: 73389d28ac94325ca157d60eacad17ffc17a5130a4985a35b8cbab56265a217f
 product: cursor
 product_name: Cursor
 record:
@@ -46,12 +46,12 @@ record:
   title: More robust SSH support
   type: change
 related_changes:
-- '[[Changes/Aider/2023-07-08-more-robust-handling-of-filepaths-to-avoid-8-3-windows-filenames-db5eb1|More
-  robust handling of filepaths, to avoid 8.3 windows filenames]]'
-- '[[Changes/Aider/2023-07-12-more-robust-handling-of-filepaths-to-avoid-8-3-windows-filenames|More
-  robust handling of filepaths, to avoid 8.3 windows filenames]]'
-- '[[Changes/Cursor/2023-07-26-removes-a-check-in-the-chat-that-slows-the-chat-down-in-certain-cases|Removes
-  a check in the chat that slows the chat down in certain cases]]'
+- '[[Changes/Ollama/2023-08-02-2-reliability-and-performance-changes-in-v0-0-13|2
+  Reliability and Performance changes in v0.0.13]]'
+- '[[Changes/Ollama/2023-08-10-llama-2-70b-model-with-metal-support-recommend-at-least-64gb-of-memory-ollama-ru|Llama
+  2 70B model with Metal support (Recommend at least 64GB of memory)…]]'
+- '[[Changes/Ollama/2023-08-18-ollama-will-now-parse-data-from-ggml-format-models-and-use-them-to-make-sure-you|Ollama
+  will now parse data from ggml format models and use them to make sure…]]'
 source_release: '[[Releases/Cursor/cursor-2023-08-20-0-7-16-nightly-https-cursor-com-changelog-0-7-16-nightly-44582b7b|cursor-2023-08-20-0-7-16-nightly-https-cursor-com-changelog-0-7-16-nightly-44582b7b]]'
 source_type: cursor_changelog
 theme: reliability-performance
@@ -78,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2023-07-26 · Cursor · [[Changes/Cursor/2023-07-26-removes-a-check-in-the-chat-that-slows-the-chat-down-in-certain-cases|Removes a check in the chat that slows the chat down in certain cases]]
+- Earlier: 2023-08-18 · Ollama · [[Changes/Ollama/2023-08-18-ollama-will-now-parse-data-from-ggml-format-models-and-use-them-to-make-sure-you|Ollama will now parse data from ggml format models and use them to make sure…]]
 - Later: 2023-08-22 · Cursor · [[Changes/Cursor/2023-08-22-ssh-support-is-now-more-robust-please-continue-to-let-us-know-if-you-are-experie|SSH support is now more robust!]]
 <!-- chronolog:end -->
 

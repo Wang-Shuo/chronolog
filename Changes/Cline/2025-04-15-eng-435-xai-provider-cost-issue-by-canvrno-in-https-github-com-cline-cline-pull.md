@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 2473d4d620f01fdb583ea96f4e42e2d1ebe2127160085e69e99838d84d6ac190
+machine_hash: eb816aab2651228cdde58c6c924db0737286362992845c6b5f65dc0bd7c9c388
 product: cline
 product_name: Cline
 record:
@@ -42,12 +42,11 @@ record:
   title: ENG-435/xAI provider cost issue
   type: change
 related_changes:
-- '[[Changes/Cline/2025-03-28-add-cost-calculation-support-for-litellm-provider|Add
-  cost calculation support for LiteLLM provider]]'
 - '[[Changes/Aider/2025-03-31-warn-at-startup-if-stream-and-cache-prompts-are-used-together-as-cost-estimates|Warn
   at startup if --stream and --cache-prompts are used together, as cost…]]'
 - '[[Changes/Aider/2025-04-04-prevent-retrying-api-calls-when-the-provider-reports-insufficient-credits|Prevent
   retrying API calls when the provider reports insufficient credits]]'
+- '[[Changes/ElevenLabs/2025-04-07-user-subscription|User Subscription]]'
 source_release: '[[Releases/Cline/cline-2025-04-15-v3-12-3-github-212368217-38c03657|cline-2025-04-15-v3-12-3-github-212368217-38c03657]]'
 source_type: github_releases
 theme: pricing-model
@@ -77,7 +76,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2025-04-04 · Aider · [[Changes/Aider/2025-04-04-prevent-retrying-api-calls-when-the-provider-reports-insufficient-credits|Prevent retrying API calls when the provider reports insufficient credits]]
+- Earlier: 2025-04-07 · ElevenLabs · [[Changes/ElevenLabs/2025-04-07-user-subscription|User Subscription]]
 - Later: 2025-04-20 · Windsurf · [[Changes/Windsurf/2025-04-20-we-re-getting-rid-of-flow-action-credits|We're getting rid of Flow Action Credits]]
 <!-- chronolog:end -->
 

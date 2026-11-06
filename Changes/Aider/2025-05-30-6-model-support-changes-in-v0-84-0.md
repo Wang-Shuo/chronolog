@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f3e45cbfdc319638ac7b19ae5815ab094e31d4644796b31651944030081c725d
+machine_hash: 2b2750e55e3fa66eb2f69c79b5b6cc6910deb5edafcf8044183a18d3ba468153
 product: aider
 product_name: Aider
 record:
@@ -53,11 +53,12 @@ record:
   title: 6 Model Support changes in v0.84.0
   type: change
 related_changes:
-- '[[Changes/Cline/2025-05-22-2-model-support-changes-in-v3-17-1|2 Model Support changes
-  in v3.17.1]]'
-- '[[Changes/Windsurf/2025-05-22-byok-anthropic-key|BYOK (Anthropic Key)]]'
-- '[[Changes/Cline/2025-05-28-2-model-support-changes-in-v3-17-6|2 Model Support changes
-  in v3.17.6]]'
+- "[[Changes/Open WebUI/2025-05-28-custom-advanced-model-parameters-you-can-now-add-your-own-tailor-made-advanced-p|\U0001F9E9
+  Custom Advanced Model Parameters]]"
+- '[[Changes/Ollama/2025-05-29-7-model-support-changes-in-v0-9-0|7 Model Support changes
+  in v0.9.0]]'
+- '[[Changes/Open WebUI/2025-05-29-2-model-support-changes-in-v0-6-13|2 Model Support
+  changes in v0.6.13]]'
 source_release: '[[Releases/Aider/aider-2025-05-30-v0-84-0-github-222180237-d0574ad6|aider-2025-05-30-v0-84-0-github-222180237-d0574ad6]]'
 source_type: github_releases
 theme: model-support
@@ -101,7 +102,7 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.84.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-05-28 · Cline · [[Changes/Cline/2025-05-28-2-model-support-changes-in-v3-17-6|2 Model Support changes in v3.17.6]]
+- Earlier: 2025-05-29 · Open WebUI · [[Changes/Open WebUI/2025-05-29-2-model-support-changes-in-v0-6-13|2 Model Support changes in v0.6.13]]
 - Later: 2025-06-03 · Cline · [[Changes/Cline/2025-06-03-5-model-support-changes-in-v3-17-9|5 Model Support changes in v3.17.9]]
 <!-- chronolog:end -->
 

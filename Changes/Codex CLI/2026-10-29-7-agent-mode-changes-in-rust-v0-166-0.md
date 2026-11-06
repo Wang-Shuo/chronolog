@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b429f5b596f010ed5a003ddf0cc523e59c92ef6a132120f28f701dd3ff75cbe8
+machine_hash: 0a209f388df8d453ea044287e47a4ec47155f6a5a84bcf0601b9873cf9464eb7
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -117,7 +117,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.166.0
 ## Nearby in Agent Mode
 
 - Earlier: 2026-10-27 · OpenHands · [[Changes/OpenHands/2026-10-27-feat-verify-stand-in-for-digitalocean-so-managed-agents-can-be-verified-by-enyst|feat(verify): stand in for DigitalOcean so Managed Agents can be verified]]
-- Later: 2026-10-30 · Claude Code · [[Changes/Claude Code/2026-10-30-3-agent-mode-changes-in-v2-1-314|3 Agent Mode changes in v2.1.314]]
+- Later: 2026-10-29 · Open WebUI · [[Changes/Open WebUI/2026-10-29-photos-for-sub-agents-models-can-now-hand-a-photo-attached-in-the-chat-to-a-sub|🤖 Photos for sub-agents. Models can now hand a photo attached in the chat…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

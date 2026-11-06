@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2ebcaa9e8b247b1ae5fa431cc8bdc96edc83cbb1c629ec931648eb0f4c3e5769
+machine_hash: 32c9ecb0f6cf0e9fca84c330af9f86b24b852416c2609ecf9d26f9b4a4d6cdbe
 product: cursor
 product_name: Cursor
 record:
@@ -58,10 +58,10 @@ record:
   title: Faster Tab
   type: change
 related_changes:
-- '[[Changes/Cline/2025-06-26-optimized-cline-to-work-with-the-claude-4-family-of-models-resulting-in-improved|Optimized
-  Cline to work with the Claude 4 family of models, resulting in improved…]]'
-- '[[Changes/Aider/2025-06-27-3-reliability-and-performance-changes-in-v0-85-0|3 Reliability
-  and Performance changes in v0.85.0]]'
+- '[[Changes/Dify/2025-07-02-langfuse-trace-readability-enhanced-the-clarity-of-langfuse-traces-making-debugg|Langfuse
+  Trace Readability]]'
+- '[[Changes/Ollama/2025-07-02-the-macos-app-is-now-a-native-application-and-starts-much-faster-while-requiring|The
+  macOS app is now a native application and starts much faster while requiring…]]'
 - '[[Changes/Cline/2025-07-03-2-reliability-and-performance-changes-in-v3-18-3|2 Reliability
   and Performance changes in v3.18.3]]'
 source_release: '[[Releases/Cursor/cursor-2025-07-03-1-2-https-cursor-com-changelog-1-2-27872f5d|cursor-2025-07-03-1-2-https-cursor-com-changelog-1-2-27872f5d]]'
@@ -104,7 +104,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2025-07-03 · Cline · [[Changes/Cline/2025-07-03-2-reliability-and-performance-changes-in-v3-18-3|2 Reliability and Performance changes in v3.18.3]]
-- Later: 2025-07-08 · Cline · [[Changes/Cline/2025-07-08-optimize-provider-switching-performance-with-batched-storage-operations-by-arafa|Optimize provider switching performance with batched storage operations]]
+- Later: 2025-07-04 · Replit · [[Changes/Replit/2025-07-04-improved-icons|Improved icons]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

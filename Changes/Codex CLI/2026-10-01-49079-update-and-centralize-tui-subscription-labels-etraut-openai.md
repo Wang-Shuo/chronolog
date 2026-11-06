@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: f6074f27eb61895550029ea81cf1e24590a1eb2482373e35f875d1f11009dd48
+machine_hash: 82a237c1ce5761d22c72cb88bc8163dd051704a228f31a23041217ca63addd80
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -41,12 +41,12 @@ record:
   title: '#49079 Update and centralize TUI subscription labels @etraut-openai'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-09-29-pro-200-is-available-for-new-subscriptions-again-at-200-month-5ed430|Pro
-  200 subscriptions]]'
-- '[[Changes/ChatGPT/2026-09-29-we-re-introducing-pro-500-a-new-500-month-plan-with-the-highest-included-usage-o-e04989|A
-  new Pro plan with Astra Ultrafast]]'
 - '[[Changes/Claude Code/2026-09-29-claude-tag-added-direct-messages-with-claude-for-members-on-an-enterprise-plan-s|Claude
   Tag Added direct messages with Claude for members on an Enterprise plan…]]'
+- '[[Changes/v0/2026-09-29-chatgpt-plus-and-pro-subscribers-can-now-use-their-chatgpt-subscription-to-build|ChatGPT
+  Plus and Pro subscribers can now use their ChatGPT subscription to build in v0]]'
+- '[[Changes/v0/2026-09-29-what-happens-if-i-reach-my-chatgpt-usage-limit|What happens
+  if I reach my ChatGPT usage limit?]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-10-01-rust-v0-160-0-github-401312540-620e0269|codex-cli-2026-10-01-rust-v0-160-0-github-401312540-620e0269]]'
 source_type: github_releases
 theme: pricing-model
@@ -89,7 +89,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-09-29 · Claude Code · [[Changes/Claude Code/2026-09-29-claude-tag-added-direct-messages-with-claude-for-members-on-an-enterprise-plan-s|Claude Tag Added direct messages with Claude for members on an Enterprise plan…]]
+- Earlier: 2026-09-29 · v0 · [[Changes/v0/2026-09-29-what-happens-if-i-reach-my-chatgpt-usage-limit|What happens if I reach my ChatGPT usage limit?]]
 - Later: 2026-10-02 · Claude Code · [[Changes/Claude Code/2026-10-02-improved-the-usage-credits-message-shown-to-team-and-enterprise-members-whose-or|Improved the /usage-credits message shown to Team and Enterprise members whose…]]
 <!-- chronolog:end -->
 

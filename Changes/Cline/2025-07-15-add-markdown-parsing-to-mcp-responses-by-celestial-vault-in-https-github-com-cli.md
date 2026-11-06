@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 94727d5e3ed3ad320b04578d885960f4821f7c0aa0eed0eec7e7889af22586b9
+machine_hash: 08dd9500171e67d8fb5e2e449aaddb74af73b894cb83d93370917ade2bad78f9
 product: cline
 product_name: Cline
 record:
@@ -41,12 +41,11 @@ record:
   title: Add markdown parsing to MCP responses
   type: change
 related_changes:
-- '[[Changes/Cline/2025-07-08-update-the-no-vscode-postmessage-eslint-rule-to-check-for-any-of-the-vscode-sdk|Update
-  the no-vscode-postmessage eslint rule to check for any of the vscode SDK…]]'
-- '[[Changes/Cline/2025-07-08-migrate-download-mcp-response-to-proto-by-celestial-vault-in-https-github-com-cl|migrate
-  download MCP response to proto]]'
+- '[[Changes/Dify/2025-07-10-10-apps-and-integrations-changes-in-1-6-0|10 Apps and
+  Integrations changes in 1.6.0]]'
 - '[[Changes/Gemini CLI/2025-07-11-6-apps-and-integrations-changes-in-v0-1-10|6 Apps
   and Integrations changes in v0.1.10]]'
+- '[[Changes/ElevenLabs/2025-07-14-sdks|SDKs]]'
 source_release: '[[Releases/Cline/cline-2025-07-15-v3-18-15-github-232396752-aa5b28a8|cline-2025-07-15-v3-18-15-github-232396752-aa5b28a8]]'
 source_type: github_releases
 theme: apps-integrations
@@ -78,7 +77,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-07-11 · Gemini CLI · [[Changes/Gemini CLI/2025-07-11-6-apps-and-integrations-changes-in-v0-1-10|6 Apps and Integrations changes in v0.1.10]]
+- Earlier: 2025-07-14 · ElevenLabs · [[Changes/ElevenLabs/2025-07-14-sdks|SDKs]]
 - Later: 2025-07-16 · OpenHands · [[Changes/OpenHands/2025-07-16-added-cli-vscode-integration-by-enyst-in-https-github-com-all-hands-ai-openhands|Added CLI/VSCode integration]]
 <!-- chronolog:end -->
 

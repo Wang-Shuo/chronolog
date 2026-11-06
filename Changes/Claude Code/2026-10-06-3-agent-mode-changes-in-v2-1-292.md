@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d6c7b85c4b1ddcc399cebdf8868523c172aa892e564e173ee54b32974c3c9983
+machine_hash: 6fabb920d31cec6878569170d258c4c9ce1b99ed5c8629dc380ed26b82821bcc
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,10 +48,8 @@ record:
   title: 3 Agent Mode changes in v2.1.292
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-05-added-claude-api-managed-agents-onboard-quickstart-name-to-build-a-console-quick|Added
-  /claude-api managed-agents-onboard quickstart-name to build a Console…]]'
-- '[[Changes/Claude Code/2026-10-05-4-agent-mode-changes-in-v2-1-290|4 Agent Mode
-  changes in v2.1.290]]'
+- '[[Changes/ElevenLabs/2026-10-05-elevenagents-5bf5b0|ElevenAgents]]'
+- '[[Changes/ElevenLabs/2026-10-05-elevenagents-ceeb34|ElevenAgents]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-05-5-agent-mode-changes-in-v1-0-92|5 Agent
   Mode changes in v1.0.92]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-06-v2-1-292-github-404958910-b2fd21ab|claude-code-2026-10-06-v2-1-292-github-404958910-b2fd21ab]]'

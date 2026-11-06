@@ -4,20 +4,20 @@ date: '2025-06-07'
 description: 'ChatGPT · 2025-06-07 · Voice and Audio: We''re upgrading Advanced Voice
   in ChatGPT for paid users with significant enhancements in intonation and naturalness…'
 diffusion:
-  first_in_tracked: '[[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source
-    link) support, which allows you…]]'
+  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
+    Voice and Audio changes in 0.3.7]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 666
+  lag_days: 698
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b4b62088feec958cdfc04a63499265a91b8fb8aadf55660b4fe416a8afc79a1d
+machine_hash: 07c46486ec5ab06ef096f78e16fcd5d547e8a1dd2f54197cd136203f60bbf844
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -73,12 +73,11 @@ record:
   title: We're upgrading Advanced Voice in ChatGPT for paid users with significant…
   type: change
 related_changes:
-- '[[Changes/Aider/2025-01-10-2-voice-and-audio-changes-in-v0-71-0|2 Voice and Audio
-  changes in v0.71.0]]'
-- '[[Changes/ChatGPT/2025-02-14-whisper-chatgpt-s-voice-to-text-feature-now-shows-a-text-preview-of-dictated-tex|Whisper
-  (ChatGPT''s voice-to-text feature) now shows a text preview of dictated text…]]'
-- '[[Changes/ChatGPT/2025-05-01-launched-on-april-1-as-a-one-month-surprise-our-monday-personality-available-in|Sunsetting
-  Monday GPT]]'
+- '[[Changes/Dify/2025-05-27-2-voice-and-audio-changes-in-1-4-1|2 Voice and Audio
+  changes in 1.4.1]]'
+- "[[Changes/Open WebUI/2025-05-28-reliable-read-aloud-text-to-speech-read-aloud-now-works-seamlessly-across-messag|\U0001F50A
+  Reliable Read Aloud (Text-to-Speech)]]"
+- '[[Changes/ElevenLabs/2025-06-01-speech-to-text|Speech to Text]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-06-07-updates-to-advanced-voice-mode-for-paid-users-55969446|chatgpt-2025-06-07-updates-to-advanced-voice-mode-for-paid-users-55969446]]'
 source_type: chatgpt_changelog
 theme: voice
@@ -107,14 +106,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2025-05-01 · ChatGPT · [[Changes/ChatGPT/2025-05-01-launched-on-april-1-as-a-one-month-surprise-our-monday-personality-available-in|Sunsetting Monday GPT]]
-- Later: 2025-06-12 · ChatGPT · [[Changes/ChatGPT/2025-06-12-deep-research-and-voice-mode-support|Deep research and voice mode support]]
+- Earlier: 2025-06-01 · ElevenLabs · [[Changes/ElevenLabs/2025-06-01-speech-to-text|Speech to Text]]
+- Later: 2025-06-10 · Open WebUI · [[Changes/Open WebUI/2025-06-10-2-voice-and-audio-changes-in-v0-6-14|2 Voice and Audio changes in v0.6.14]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-08-11 · Aider · [[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source link) support, which allows you…]]
+- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1dfb9c1a1189d0149dd8a065d2724c0ce20f93d7e85bed47a15309b4006d4b2c
+machine_hash: 6a3baf5cba51ebb855ab44674b57271ef3318d65336b1ce9cf23000a4284f6b9
 product: claude-code
 product_name: Claude Code
 record:
@@ -59,12 +59,12 @@ record:
   title: 6 Model Support changes in v2.1.257
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-28-5-model-support-changes-in-v2-1-251|5 Model Support
-  changes in v2.1.251]]'
-- '[[Changes/Codex CLI/2026-08-29-3-model-support-changes-in-rust-v0-151-0|3 Model
-  Support changes in rust-v0.151.0]]'
-- '[[Changes/ChatGPT/2026-08-31-site-tools-use-webmcp-and-require-a-supported-account-model-and-webpage-they-are|Site
-  tools use WebMCP and require a supported account, model, and webpage]]'
+- '[[Changes/Lovable/2026-08-31-priority-processing-now-works-with-gemini-chat-models|Priority
+  processing now works with Gemini chat models]]'
+- '[[Changes/Open WebUI/2026-08-31-10-model-support-changes-in-v0-11-2|10 Model Support
+  changes in v0.11.2]]'
+- '[[Changes/Claude/2026-09-01-claude-fable-5-1-and-claude-mythos-5-1-launch|Claude
+  Fable 5.1 and Claude Mythos 5.1 launch]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-01-v2-1-257-github-380686035-b86855a6|claude-code-2026-09-01-v2-1-257-github-380686035-b86855a6]]'
 source_type: github_releases
 theme: model-support
@@ -115,7 +115,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.257
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-08-31 · ChatGPT · [[Changes/ChatGPT/2026-08-31-site-tools-use-webmcp-and-require-a-supported-account-model-and-webpage-they-are|Site tools use WebMCP and require a supported account, model, and webpage]]
+- Earlier: 2026-09-01 · Claude · [[Changes/Claude/2026-09-01-claude-fable-5-1-and-claude-mythos-5-1-launch|Claude Fable 5.1 and Claude Mythos 5.1 launch]]
 - Later: 2026-09-01 · Codex CLI · [[Changes/Codex CLI/2026-09-01-6-model-support-changes-in-rust-v0-152-0|6 Model Support changes in rust-v0.152.0]]
 <!-- chronolog:end -->
 

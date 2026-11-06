@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: bfabfff46a950f54571917c3831dc4957e82015fc9e169df6f654a5c2c19ac48
+machine_hash: 6fb0cad411cf3c75b7ba755b66bb8972da536a60dec4afc6e263483af9b6a512
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -44,12 +44,12 @@ record:
   title: ChatGPT makes further improvements to search, making results more accurate…
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-08-18-feat-core-migrate-web-search-write-file-and-discovered-tool-by-joshualitt-in-htt|feat(core):
-  Migrate web-search, write-file, and discovered-tool]]'
-- '[[Changes/Codex CLI/2025-08-26-2-search-and-browsing-changes-in-rust-v0-24-0|2
-  Search and Browsing changes in rust-v0.24.0]]'
+- '[[Changes/Open WebUI/2025-08-28-2-search-and-browsing-changes-in-v0-6-26|2 Search
+  and Browsing changes in v0.6.26]]'
 - '[[Changes/Codex CLI/2025-09-03-3061-show-loading-state-when-search-results-are-pending|♯3061
   Show loading state when @ search results are pending]]'
+- "[[Changes/Open WebUI/2025-09-09-web-search-result-display-was-enhanced-to-include-titles-and-favicons-providing|\U0001F4AC
+  Web search result display was enhanced to include titles and favicons, providing…]]"
 source_release: '[[Releases/ChatGPT/chatgpt-2025-09-16-improvements-to-search-in-chatgpt-2ec68690|chatgpt-2025-09-16-improvements-to-search-in-chatgpt-2ec68690]]'
 source_type: chatgpt_changelog
 theme: search-browsing
@@ -80,8 +80,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Search and Browsing
 
-- Earlier: 2025-09-03 · Codex CLI · [[Changes/Codex CLI/2025-09-03-3061-show-loading-state-when-search-results-are-pending|♯3061 Show loading state when @ search results are pending]]
-- Later: 2025-09-29 · Cursor · [[Changes/Cursor/2025-09-29-1-7-20-web-search-auto-accept-setting|1.7.20: Web search auto-accept setting]]
+- Earlier: 2025-09-09 · Open WebUI · [[Changes/Open WebUI/2025-09-09-web-search-result-display-was-enhanced-to-include-titles-and-favicons-providing|💬 Web search result display was enhanced to include titles and favicons, providing…]]
+- Later: 2025-09-24 · Ollama · [[Changes/Ollama/2025-09-24-2-search-and-browsing-changes-in-v0-12-2|2 Search and Browsing changes in v0.12.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: aca287190d43c533a127ea60c2c1b58d85aa70986a3e150f6aeebd9d8cee2e3b
+machine_hash: 424a787ae009b17efed8233868f430dfafbec034534b3b88f3c88c355df444fd
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,12 +42,12 @@ record:
   title: Changed Bash commands to show timeout duration alongside elapsed time
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-01-28-8-developer-workflow-changes-in-v0-26-0|8 Developer
-  Workflow changes in v0.26.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-28-skills-from-parent-directories-are-now-invocable-and-work-in-non-git-directories|Skills
   from parent directories are now invocable and work in non-git directories]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-28-header-layout-adapts-better-to-narrow-terminal-widths|Header
   layout adapts better to narrow terminal widths]]'
+- '[[Changes/v0/2026-01-28-added-toast-notification-when-pull-requests-are-merged|Added
+  toast notification when pull requests are merged]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-29-v2-1-23-github-280926274-b1e77a6a|claude-code-2026-01-29-v2-1-23-github-280926274-b1e77a6a]]'
 source_type: github_releases
 theme: developer-workflow
@@ -77,7 +77,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-01-28 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-28-header-layout-adapts-better-to-narrow-terminal-widths|Header layout adapts better to narrow terminal widths]]
+- Earlier: 2026-01-28 · v0 · [[Changes/v0/2026-01-28-added-toast-notification-when-pull-requests-are-merged|Added toast notification when pull requests are merged]]
 - Later: 2026-01-29 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-29-add-lsp-language-server-protocol-tool-for-code-intelligence-requires-staff-flag|Add LSP (Language Server Protocol) tool for code intelligence (requires staff flag)]]
 <!-- chronolog:end -->
 

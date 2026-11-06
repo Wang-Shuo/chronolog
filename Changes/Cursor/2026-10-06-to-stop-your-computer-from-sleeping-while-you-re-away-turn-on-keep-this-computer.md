@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: ae85759804704ea8a7345988e17ce5d3b10af6b9acb7a7faec1fb4b69df07b61
+machine_hash: 2527edb082a95f3c739b13dd449f26221f9c60b491d86f08b05c8d6842e23353
 product: cursor
 product_name: Cursor
 record:
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-10-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-05-sandboxed-commands-on-windows-write-temporary-files-to-the-granted-temp-director|Sandboxed commands on Windows write temporary files to the granted temp directory…]]
-- Later: 2026-10-08 · Claude Code · [[Changes/Claude Code/2026-10-08-changed-the-claude-apps-gateway-to-start-with-a-warning-and-serve-a-desktop-poli|Changed the Claude apps gateway to start with a warning and serve a desktop policy…]]
+- Later: 2026-10-07 · Ollama · [[Changes/Ollama/2026-10-07-manifest-avoid-symlinks-on-windows-by-dhiltgen-in-https-github-com-ollama-ollama|manifest: avoid symlinks on Windows]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

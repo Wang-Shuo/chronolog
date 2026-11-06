@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 10f2f783adb558230fb95a3ac370d78188be071683641863cc9e384df3bdeb6f
+machine_hash: 99c4ee49ef320c59671f1c51493d6980ec4ce0f9d0ce379abce4242751ebd169
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -108,7 +108,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.87
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-09-18 · Claude Code · [[Changes/Claude Code/2026-09-18-improved-ultrareview-when-there-s-nothing-to-review-messages-say-which-case-you|Improved /ultrareview when there's nothing to review]]
-- Later: 2026-09-22 · Claude Code · [[Changes/Claude Code/2026-09-22-3-developer-workflow-changes-in-v2-1-280|3 Developer Workflow changes in v2.1.280]]
+- Later: 2026-09-21 · Open WebUI · [[Changes/Open WebUI/2026-09-21-39-developer-workflow-changes-in-v0-11-4|39 Developer Workflow changes in v0.11.4]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

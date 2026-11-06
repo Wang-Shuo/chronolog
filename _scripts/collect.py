@@ -764,7 +764,10 @@ def collect_live(
                     snapshot_path=snapshots.get(product["name"].casefold()),
                 )
             else:
-                raise ValueError(f"unsupported feed_type: {product['feed_type']}")
+                from _scripts.product_feeds import FEED_TYPES, fetch_product_releases
+                if product["feed_type"] not in FEED_TYPES:
+                    raise ValueError(f"unsupported feed_type: {product['feed_type']}")
+                product_releases = fetch_product_releases(product, limit)
             release_ids = [release["release_id"] for release in product_releases]
             if len(release_ids) != len(set(release_ids)):
                 raise ValueError(f"duplicate release_id for {product['name']}")

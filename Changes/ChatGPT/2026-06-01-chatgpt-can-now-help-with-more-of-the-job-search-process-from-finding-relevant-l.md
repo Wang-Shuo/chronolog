@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 47a71ff4bffc596f1d52927618d6435998e22dcff0b70e0c89dd334eefbc66bc
+machine_hash: 98cf84992ac7a3500a48104c6cc24de17d1c7b885546926d99841cf1c379b03b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -58,8 +58,8 @@ record:
   title: Find live jobs and format your resume in ChatGPT
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-05-07-21054-rollout-store-web-search-and-mcp-tool-calls-owenlin0|♯21054
-  rollout: store web search and mcp tool calls @owenlin0]]'
+- '[[Changes/Open WebUI/2026-05-09-5-search-and-browsing-changes-in-v0-9-3|5 Search
+  and Browsing changes in v0.9.3]]'
 - '[[Changes/Claude Code/2026-05-19-the-plugin-browse-and-discover-panes-now-show-when-a-plugin-was-last-updated|The
   /plugin browse and discover panes now show when a plugin was last updated]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-20-github-mcp-web-search-tool-is-available-immediately-without-requiring-tool-searc|GitHub

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 348b9f10c53e692821ff4052ecad8eeb30e7f3ed41c753532630d6f62ef393b1
+machine_hash: 3dfc4cc6c4c3ba7ca852bddfdf64f67d90bf35a6ceaf346411ce52bc755acde7
 product: claude-code
 product_name: Claude Code
 record:
@@ -50,8 +50,8 @@ record:
   title: Claude automatically saves useful context to auto-memory
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-02-19-2-memory-and-personalization-changes-in-v0-0-412|2
-  Memory and Personalization changes in v0.0.412]]'
+- '[[Changes/Open WebUI/2026-02-23-2-memory-and-personalization-changes-in-v0-8-4|2
+  Memory and Personalization changes in v0.8.4]]'
 - '[[Changes/Codex CLI/2026-02-25-9-memory-and-personalization-changes-in-rust-v0-105-0|9
   Memory and Personalization changes in rust-v0.105.0]]'
 - '[[Changes/Gemini CLI/2026-02-25-test-evals-mark-all-save-memory-evals-as-usually-passes-due-to-unreliability-by|test(evals):

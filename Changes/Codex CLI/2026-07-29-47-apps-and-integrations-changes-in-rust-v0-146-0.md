@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: bfbfc46894ec2e41be148d380d1fde4f74cd46bee03428653250a2295c5dca43
+machine_hash: 15ec935bff6b66c6928abad415c17ac6e2b89826125436fad34e981e01777e9d
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -138,10 +138,10 @@ record:
   title: 47 Apps and Integrations changes in rust-v0.146.0
   type: change
 related_changes:
-- '[[Changes/Cline/2026-07-24-include-the-host-plugin-version-in-telemetry-events|Include
-  the host plugin version in telemetry events]]'
-- '[[Changes/Cursor/2026-07-28-plugins-mcp-servers-hooks-and-skills-to-extend-cursor-across-your-workflows|Plugins,
-  MCP servers, hooks, and skills to extend Cursor across your workflows]]'
+- '[[Changes/Lovable/2026-07-28-app-chat-connectors-google-analytics-and-xero|App
+  + chat connectors: Google Analytics and Xero]]'
+- '[[Changes/Lovable/2026-07-28-connect-pipedrive-in-one-click|Connect Pipedrive in
+  one click]]'
 - '[[Changes/ChatGPT/2026-07-29-we-re-beginning-to-roll-out-sign-in-with-chatgpt-across-select-plugins-and-partn|Sign
   in with ChatGPT]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-07-29-rust-v0-146-0-github-361463950-6d491983|codex-cli-2026-07-29-rust-v0-146-0-github-361463950-6d491983]]'
@@ -282,7 +282,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.146.0
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-07-29 · ChatGPT · [[Changes/ChatGPT/2026-07-29-we-re-beginning-to-roll-out-sign-in-with-chatgpt-across-select-plugins-and-partn|Sign in with ChatGPT]]
-- Later: 2026-07-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-30-2-apps-and-integrations-changes-in-v1-0-76|2 Apps and Integrations changes in v1.0.76]]
+- Later: 2026-07-29 · Lovable · [[Changes/Lovable/2026-07-29-app-chat-connectors-amazon-redshift-and-microsoft-fabric|App + chat connectors: Amazon Redshift and Microsoft Fabric]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

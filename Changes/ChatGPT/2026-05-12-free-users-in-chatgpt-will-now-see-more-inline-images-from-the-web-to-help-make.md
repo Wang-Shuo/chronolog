@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ae1ed9f9c1e9961ed0a648724fe321589ef8ef9d21db90c01b4fa318e10a82f8
+machine_hash: bdbce2e392290de44c96ba79b0489792d9cef0871fbc7fdeadd23a0e2a08f74e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -50,9 +50,10 @@ record:
   title: More images in answers for Free users
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-05-06-windows-updates|Windows updates]]'
 - '[[Changes/Codex CLI/2026-05-07-3-mobile-and-desktop-changes-in-rust-v0-129-0|3
   Mobile and Desktop changes in rust-v0.129.0]]'
+- '[[Changes/Ollama/2026-05-07-use-ollama-launch-claude-desktop-restore-to-restore-claude-desktop-to-its-normal|Use
+  ollama launch claude-desktop --restore to restore Claude Desktop to its normal state]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-11-fall-back-to-windows-powershell-powershell-exe-when-powershell-7-pwsh-is-not-ava|Fall
   back to Windows PowerShell (powershell.exe) when PowerShell 7+ (pwsh) is not…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-05-12-more-images-in-answers-for-free-users-34680cb9|chatgpt-2026-05-12-more-images-in-answers-for-free-users-34680cb9]]'
@@ -82,7 +83,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-05-11 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-11-fall-back-to-windows-powershell-powershell-exe-when-powershell-7-pwsh-is-not-ava|Fall back to Windows PowerShell (powershell.exe) when PowerShell 7+ (pwsh) is not…]]
-- Later: 2026-05-14 · ChatGPT · [[Changes/ChatGPT/2026-05-14-generated-images-will-continue-to-appear-in-the-images-tab-storage-management-is|Generated images will continue to appear in the Images tab]]
+- Later: 2026-05-13 · Ollama · [[Changes/Ollama/2026-05-13-laguna-xs-2-is-not-yet-supported-on-windows-linux|laguna-xs.2 is not yet supported on Windows/Linux]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

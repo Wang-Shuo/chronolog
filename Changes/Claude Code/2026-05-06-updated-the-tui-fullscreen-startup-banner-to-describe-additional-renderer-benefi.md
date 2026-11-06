@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: b550332b0acb0c9bf50d8c582042e54099703bf521903089232b209afac3f295
+machine_hash: bff8d0e170793cd6b7c78b0fc3924c9bd7933f777ca0c3ebdf33b4886879ecdf
 product: claude-code
 product_name: Claude Code
 record:
@@ -56,12 +56,12 @@ record:
   title: Updated the `/tui fullscreen` startup banner to describe additional renderer…
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-04-28-2-reliability-and-performance-changes-in-v0-40-0|2
-  Reliability and Performance changes in v0.40.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-01-improve-cli-startup-speed-by-loading-custom-ca-certificates-asynchronously|Improve
   CLI startup speed by loading custom CA certificates asynchronously]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-05-improve-stability-on-windows-by-working-around-a-v8-crash-in-node-24-x|Improve
   stability on Windows by working around a V8 crash in Node 24.x]]'
+- '[[Changes/Ollama/2026-05-05-gemma-4-mtp-speculative-decoding-is-now-supported-on-macs-this-can-give-over-a-2|Gemma
+  4 MTP speculative decoding is now supported on Macs]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-06-v2-1-132-github-318578987-ed60d664|claude-code-2026-05-06-v2-1-132-github-318578987-ed60d664]]'
 source_type: github_releases
 theme: reliability-performance
@@ -93,7 +93,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-05-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-05-improve-stability-on-windows-by-working-around-a-v8-crash-in-node-24-x|Improve stability on Windows by working around a V8 crash in Node 24.x]]
+- Earlier: 2026-05-05 · Ollama · [[Changes/Ollama/2026-05-05-gemma-4-mtp-speculative-decoding-is-now-supported-on-macs-this-can-give-over-a-2|Gemma 4 MTP speculative decoding is now supported on Macs]]
 - Later: 2026-05-07 · Claude Code · [[Changes/Claude Code/2026-05-07-improved-memory-usage-by-releasing-warm-spare-background-workers-under-memory-pr|Improved memory usage by releasing warm-spare background workers under memory pressure]]
 <!-- chronolog:end -->
 

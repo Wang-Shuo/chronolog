@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d6d5b5a686d6c81ac751ec2d8108bb78377af6b440fd48e0bbd2b136c4bae9ab
+machine_hash: 5ed5a330d3400c964b6f9e377ee1c731c81ff2718f95fea8154d5786b4866bc5
 product: cursor
 product_name: Cursor
 record:
@@ -44,8 +44,8 @@ record:
   title: 2 Interface Experience changes in 0.48.x
   type: change
 related_changes:
-- '[[Changes/Aider/2025-03-21-3-interface-experience-changes-in-v0-78-0|3 Interface
-  Experience changes in v0.78.0]]'
+- '[[Changes/Lovable/2025-03-21-the-monthly-credits-counter-is-now-in-the-settings-menu-for-quick-access|The
+  monthly credits counter is now in the settings menu for quick access]]'
 - '[[Changes/Cline/2025-03-23-add-documentation-menu-item-to-easily-access-cline-s-docs|Add
   ''Documentation'' menu item to easily access Cline''s docs]]'
 - '[[Changes/Cursor/2025-03-23-new-onboarding|New onboarding]]'
@@ -96,7 +96,7 @@ Source: https://cursor.com/changelog/0-48-x
 ## Nearby in Interface Experience
 
 - Earlier: 2025-03-23 · Cline · [[Changes/Cline/2025-03-23-add-documentation-menu-item-to-easily-access-cline-s-docs|Add 'Documentation' menu item to easily access Cline's docs]]
-- Later: 2025-03-31 · Aider · [[Changes/Aider/2025-03-31-2-interface-experience-changes-in-v0-80-0|2 Interface Experience changes in v0.80.0]]
+- Later: 2025-03-24 · Dify · [[Changes/Dify/2025-03-24-ui-ux-fixes-addressed-various-style-and-interaction-issues-like-sidebar-width-on|UI/UX Fixes: Addressed various style and interaction issues, like sidebar width…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: df0d123e23dd79ceef666dc14acad2e38cff8fd3cb7ba77c4498030666c25c29
+machine_hash: 19279cd3b90b42aa4f72432ac835fe1ec4ae9cd605d4d0ce74c3e1fbfc9d353e
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -41,12 +41,12 @@ record:
   title: Added list of supported models as part of `copilot help config` text
   type: change
 related_changes:
-- '[[Changes/Cline/2025-10-16-3-model-support-changes-in-v3-33-0|3 Model Support changes
-  in v3.33.0]]'
 - '[[Changes/GitHub Copilot CLI/2025-10-16-added-debug-logging-when-calls-to-model-result-in-copilot-api-errors-this-should|Added
   debug logging when calls to /model result in Copilot API errors]]'
 - '[[Changes/GitHub Copilot CLI/2025-10-16-2-model-support-changes-in-v0-0-343|2 Model
   Support changes in v0.0.343]]'
+- '[[Changes/Open WebUI/2025-10-16-2-model-support-changes-in-v0-6-34|2 Model Support
+  changes in v0.6.34]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2025-10-18-v0-0-344-github-255475797-67bfc644|github-copilot-cli-2025-10-18-v0-0-344-github-255475797-67bfc644]]'
 source_type: github_releases
 theme: model-support
@@ -77,7 +77,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-10-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-10-16-2-model-support-changes-in-v0-0-343|2 Model Support changes in v0.0.343]]
+- Earlier: 2025-10-16 · Open WebUI · [[Changes/Open WebUI/2025-10-16-2-model-support-changes-in-v0-6-34|2 Model Support changes in v0.6.34]]
 - Later: 2025-10-22 · ChatGPT · [[Changes/ChatGPT/2025-10-22-we-re-updating-the-model-for-signed-out-users-to-gpt-5-instant-giving-more-peopl|We’re updating the model for signed-out users to GPT-5 Instant, giving more people…]]
 <!-- chronolog:end -->
 

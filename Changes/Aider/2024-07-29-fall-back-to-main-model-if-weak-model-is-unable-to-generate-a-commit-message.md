@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 32d46a2fbf5b33d961c6c0432d10f7d56ea82dc9569b10537c377e785a726ce1
+machine_hash: 1d346a2623c74aefc603c63b15a37132b2099e93f38ae32d168ed3ca3cec3516
 product: aider
 product_name: Aider
 record:
@@ -43,12 +43,11 @@ record:
   title: Fall back to main model if weak model is unable to generate a commit message
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2024-07-18-we-re-introducing-gpt-4o-mini-the-most-capable-and-cost-efficient-small-model-av-af297b|Introducing
-  GPT-4o mini]]'
-- '[[Changes/OpenHands/2024-07-19-4-model-support-changes-in-0-8-1|4 Model Support
-  changes in 0.8.1]]'
-- '[[Changes/Cursor/2024-07-23-new-default-model-we-ve-made-claude-3-5-sonnet-the-default-model-for-users|New
-  Default Model: We''ve made Claude 3.5 Sonnet the default model for users]]'
+- '[[Changes/DeepSeek API/2024-07-24-deepseek-coder|deepseek-coder]]'
+- '[[Changes/Gemini/2024-07-25-introducing-gemini-1-5-flash-to-gemini|Introducing
+  Gemini 1.5 Flash to Gemini]]'
+- '[[Changes/Ollama/2024-07-25-4-model-support-changes-in-v0-3-0|4 Model Support changes
+  in v0.3.0]]'
 source_release: '[[Releases/Aider/aider-2024-07-29-v0-46-0-github-167657280-41bdfe9c|aider-2024-07-29-v0-46-0-github-167657280-41bdfe9c]]'
 source_type: github_releases
 theme: model-support
@@ -80,8 +79,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2024-07-23 · Cursor · [[Changes/Cursor/2024-07-23-new-default-model-we-ve-made-claude-3-5-sonnet-the-default-model-for-users|New Default Model: We've made Claude 3.5 Sonnet the default model for users]]
-- Later: 2024-07-31 · Aider · [[Changes/Aider/2024-07-31-added-strong-model-as-a-fallback-for-commit-messages-and-chat-summaries|Added strong model as a fallback for commit messages (and chat summaries)]]
+- Earlier: 2024-07-25 · Ollama · [[Changes/Ollama/2024-07-25-4-model-support-changes-in-v0-3-0|4 Model Support changes in v0.3.0]]
+- Later: 2024-07-30 · Ollama · [[Changes/Ollama/2024-07-30-3-model-support-changes-in-v0-3-1|3 Model Support changes in v0.3.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

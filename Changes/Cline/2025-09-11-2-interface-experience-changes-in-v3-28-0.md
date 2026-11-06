@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f73ff325f8bdeacdc2c7bc5c4b61a0243ce2a9c7db71c7cf63ee34dbde9b5913
+machine_hash: 878e74fef4884a26f4ae73400e02cf486dad1d37063f2cbf9d150d5d226c6668
 product: cline
 product_name: Cline
 record:
@@ -44,12 +44,12 @@ record:
   title: 2 Interface Experience changes in v3.28.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-08-29-major-readme-docs-refactor-and-navigation-2724|Major
-  README/docs refactor and navigation (♯2724)]]'
 - '[[Changes/Gemini CLI/2025-09-04-2-interface-experience-changes-in-v0-3-0|2 Interface
   Experience changes in v0.3.0]]'
 - '[[Changes/Codex CLI/2025-09-05-3135-tui-add-session-resume-picker-resume-and-quick-resume-continue|♯3135
   TUI: Add session resume picker (--resume) and quick resume (--continue)]]'
+- "[[Changes/Open WebUI/2025-09-09-follow-up-tooltip-duplication-is-removed-streamlining-the-user-interface-and-pre|\U0001F4AC
+  Follow-up tooltip duplication is removed, streamlining the user interface…]]"
 source_release: '[[Releases/Cline/cline-2025-09-11-v3-28-0-github-246638695-88c662f3|cline-2025-09-11-v3-28-0-github-246638695-88c662f3]]'
 source_type: github_releases
 theme: interface-experience
@@ -86,7 +86,7 @@ Source: https://github.com/cline/cline/releases/tag/v3.28.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2025-09-05 · Codex CLI · [[Changes/Codex CLI/2025-09-05-3135-tui-add-session-resume-picker-resume-and-quick-resume-continue|♯3135 TUI: Add session resume picker (--resume) and quick resume (--continue)]]
+- Earlier: 2025-09-09 · Open WebUI · [[Changes/Open WebUI/2025-09-09-follow-up-tooltip-duplication-is-removed-streamlining-the-user-interface-and-pre|💬 Follow-up tooltip duplication is removed, streamlining the user interface…]]
 - Later: 2025-09-12 · Cursor · [[Changes/Cursor/2025-09-12-1-6-27-native-menu-notification-badge|1.6.27: Native menu notification badge]]
 <!-- chronolog:end -->
 

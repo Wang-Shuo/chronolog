@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 939ca45ea438a34afa8ea3f2317db1b6f7ed40372a1eef5d954b152881cbe412
+machine_hash: ce3bb5ebacf4cc05444323d109890b7cbe4e7391623a9636912cfbda7437f8f4
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,12 +42,12 @@ record:
   title: '[VSCode] Added an Active quick filter and a status filter menu…'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-28-added-a-spend-limit-bar-to-usage-and-a-rate-limits-spend-limit-status-line-field|Added
-  a Spend limit bar to /usage and a rate_limits.spend_limit status line…]]'
-- '[[Changes/Claude Code/2026-09-01-2-interface-experience-changes-in-v2-1-257|2 Interface
-  Experience changes in v2.1.257]]'
 - '[[Changes/Codex CLI/2026-09-01-3-interface-experience-changes-in-rust-v0-152-0|3
   Interface Experience changes in rust-v0.152.0]]'
+- '[[Changes/Lovable/2026-09-01-empty-project-groups-no-longer-show-in-the-sidebar|Empty
+  project groups no longer show in the sidebar]]'
+- '[[Changes/v0/2026-09-01-if-you-prefer-the-typical-git-workflow-you-can-still-create-and-merge-pull-reque|If
+  you prefer the typical Git workflow, you can still create and merge pull requests…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-02-v2-1-259-github-381579834-0f335a0f|claude-code-2026-09-02-v2-1-259-github-381579834-0f335a0f]]'
 source_type: github_releases
 theme: interface-experience
@@ -80,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-09-01 · Codex CLI · [[Changes/Codex CLI/2026-09-01-3-interface-experience-changes-in-rust-v0-152-0|3 Interface Experience changes in rust-v0.152.0]]
+- Earlier: 2026-09-01 · v0 · [[Changes/v0/2026-09-01-if-you-prefer-the-typical-git-workflow-you-can-still-create-and-merge-pull-reque|If you prefer the typical Git workflow, you can still create and merge pull requests…]]
 - Later: 2026-09-03 · Claude Code · [[Changes/Claude Code/2026-09-03-4-interface-experience-changes-in-v2-1-260|4 Interface Experience changes in v2.1.260]]
 <!-- chronolog:end -->
 

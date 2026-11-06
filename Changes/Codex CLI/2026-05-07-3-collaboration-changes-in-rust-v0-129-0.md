@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c361ca7cf18f0cd52f6cb8e540f8f3113ce956629d2890eb313c7a7949510919
+machine_hash: b622d17425d8d278a4b2696320b688ab74536362737997ab55e0bc14620609f8
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,8 +43,8 @@ record:
   title: 3 Collaboration changes in rust-v0.129.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-04-24-windows-bazel-ci-now-uses-a-stable-path-and-shared-query-startup-path-for-better|Windows
-  Bazel CI now uses a stable PATH and shared query startup path for better…]]'
+- '[[Changes/Dify/2026-04-29-13-collaboration-changes-in-1-14-0|13 Collaboration changes
+  in 1.14.0]]'
 - '[[Changes/Codex CLI/2026-04-30-20149-reduce-the-surface-of-collaboration-modes-pakrym-oai|♯20149
   Reduce the surface of collaboration modes @pakrym-oai]]'
 - '[[Changes/Cursor/2026-05-01-admins-can-now-create-a-team-marketplace-without-connecting-a-repository-first-a-b1834a|Admins

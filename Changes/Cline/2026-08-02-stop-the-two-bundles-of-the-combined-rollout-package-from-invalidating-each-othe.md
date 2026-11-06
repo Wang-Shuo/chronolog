@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: abd4c2a70640078440be5cac7cd8da0d5ac0c2aeaa976ea47b8a1d9cc049685f
+machine_hash: 60f2a695d636f018f1fb75bc63f58fb50becc0b0e2695188ebd0021c88f580d8
 product: cline
 product_name: Cline
 record:
@@ -54,8 +54,8 @@ record:
     other's…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-07-22-admin-controls-per-team-and-per-group-enablement-mode-restrictions-default-mode|Admin
-  controls: per-team and per-group enablement, mode restrictions, default mode…]]'
+- '[[Changes/Dify/2026-07-28-3-collaboration-changes-in-1-16-1|3 Collaboration changes
+  in 1.16.1]]'
 - '[[Changes/Codex CLI/2026-07-29-3-collaboration-changes-in-rust-v0-146-0|3 Collaboration
   changes in rust-v0.146.0]]'
 - '[[Changes/Cursor/2026-07-29-switch-between-teams-that-you-belong-to-directly-in-the-app|Switch

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 7d4f51b35422e5545d708e05471945a6ea032e7af0a27609f0b3e6b8dc1ad99d
+machine_hash: 879047877c66ac3fa4094ff500dd412ac34607aed8c081e7ae7126532babd016
 product: cursor
 product_name: Cursor
 record:
@@ -49,10 +49,10 @@ record:
   title: Composer (beta)
   type: change
 related_changes:
-- '[[Changes/Aider/2024-06-04-properly-override-git-editor-env-for-commits-if-it-is-already-set|Properly
-  override GIT_EDITOR env for commits if it is already set]]'
-- '[[Changes/Cursor/2024-06-08-default-on-cursor-prediction-with-a-new-ui|Default-on
-  Cursor Prediction with a new UI]]'
+- "[[Changes/Open WebUI/2024-06-10-editable-search-query-prompt-you-can-now-edit-the-search-query-generation-prompt|\U0001F50D
+  Editable Search Query Prompt]]"
+- '[[Changes/Dify/2024-06-28-2-editor-experience-changes-in-0-6-12|2 Editor Experience
+  changes in 0.6.12]]'
 - '[[Changes/OpenHands/2024-06-29-3-editor-experience-changes-in-0-7-0|3 Editor Experience
   changes in 0.7.0]]'
 source_release: '[[Releases/Cursor/cursor-2024-07-13-0-37-x-https-cursor-com-changelog-0-37-x-eb934a21|cursor-2024-07-13-0-37-x-https-cursor-com-changelog-0-37-x-eb934a21]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1dc81f43c77119cab0ee4c24202e297b46b47404cbdfd58f8108f162f0ac141e
+machine_hash: 15956061692ca44352248a68b8b698c2990d8b8920ab273201f445ed5a5c13e0
 product: claude-code
 product_name: Claude Code
 record:
@@ -53,12 +53,12 @@ record:
     keeping…'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-05-07-7-context-window-changes-in-rust-v0-129-0|7 Context
-  Window changes in rust-v0.129.0]]'
-- '[[Changes/Codex CLI/2026-05-08-2-context-window-changes-in-rust-v0-130-0|2 Context
-  Window changes in rust-v0.130.0]]'
+- "[[Changes/Open WebUI/2026-05-10-file-ownership-in-folder-and-knowledge-attachments-attaching-files-to-folders-or|\U0001F510
+  File ownership in folder and knowledge attachments. Attaching files to folders…]]"
 - '[[Changes/Claude Code/2026-05-11-context-all-per-skill-token-estimates-now-account-for-the-model-s-tokenizer-and|/context
   all per-skill token estimates now account for the model''s tokenizer…]]'
+- '[[Changes/Dify/2026-05-12-refactor-web-migrate-workflow-panel-context-menu-primitive-by-lyzno1-in-https-gi|refactor(web):
+  migrate workflow panel context menu primitive]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-13-v2-1-141-github-322186176-9f8e2e22|claude-code-2026-05-13-v2-1-141-github-322186176-9f8e2e22]]'
 source_type: github_releases
 theme: context-window
@@ -97,7 +97,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-05-11 · Claude Code · [[Changes/Claude Code/2026-05-11-context-all-per-skill-token-estimates-now-account-for-the-model-s-tokenizer-and|/context all per-skill token estimates now account for the model's tokenizer…]]
+- Earlier: 2026-05-12 · Dify · [[Changes/Dify/2026-05-12-refactor-web-migrate-workflow-panel-context-menu-primitive-by-lyzno1-in-https-gi|refactor(web): migrate workflow panel context menu primitive]]
 - Later: 2026-05-13 · Cursor · [[Changes/Cursor/2026-05-13-compact-chat-responses|Compact chat responses]]
 <!-- chronolog:end -->
 

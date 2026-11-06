@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d4779597a87da5d6660cc7685f2eff5e0ede1d510d95decb8f2cbdd993925f33
+machine_hash: f4e13b80637bf6bf2995516b49046bb18c5a3f8a5bd5a3df11e9c4c292a04e63
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -47,12 +47,10 @@ record:
   title: 4 Mobile and Desktop changes in rust-v0.66.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-11-19-3-mobile-and-desktop-changes-in-rust-v0-59-0|3 Mobile
-  and Desktop changes in rust-v0.59.0]]'
-- '[[Changes/Gemini CLI/2025-11-26-improve-pty-resize-error-handling-for-windows-by-galz10-in-https-github-com-goog|Improve
-  pty resize error handling for Windows]]'
 - '[[Changes/Codex CLI/2025-12-02-execution-gains-an-experimental-exp-model-unified-exec-pruning-to-limit-session|Execution
   gains an experimental “exp” model, unified exec pruning to limit session…]]'
+- '[[Changes/ElevenLabs/2025-12-08-android-sdk|Android SDK]]'
+- '[[Changes/ElevenLabs/2025-12-08-ios-sdk|iOS SDK]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-12-09-rust-v0-66-0-github-268559734-698ec8f9|codex-cli-2025-12-09-rust-v0-66-0-github-268559734-698ec8f9]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -99,8 +97,8 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.66.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2025-12-02 · Codex CLI · [[Changes/Codex CLI/2025-12-02-execution-gains-an-experimental-exp-model-unified-exec-pruning-to-limit-session|Execution gains an experimental “exp” model, unified exec pruning to limit session…]]
-- Later: 2025-12-13 · Codex CLI · [[Changes/Codex CLI/2025-12-13-2-mobile-and-desktop-changes-in-rust-v0-72-0|2 Mobile and Desktop changes in rust-v0.72.0]]
+- Earlier: 2025-12-08 · ElevenLabs · [[Changes/ElevenLabs/2025-12-08-ios-sdk|iOS SDK]]
+- Later: 2025-12-10 · Lovable · [[Changes/Lovable/2025-12-10-chat-suggestions-on-mobile|Chat suggestions on mobile]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

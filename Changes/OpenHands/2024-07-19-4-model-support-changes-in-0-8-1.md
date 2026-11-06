@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e07de9906a54f88f824daa439607fac51343c720d439b70f580f418d0e31e5b4
+machine_hash: 9e12dcdfc07a9b4ad0c792ee19bae6853ccdc76b2b7f3d81259937184e09b26b
 product: openhands
 product_name: OpenHands
 record:
@@ -46,11 +46,12 @@ record:
   title: 4 Model Support changes in 0.8.1
   type: change
 related_changes:
-- '[[Changes/Aider/2024-07-16-simplified-output-of-models|Simplified output of --models]]'
 - '[[Changes/Aider/2024-07-18-gpt-4o-mini-scores-like-the-original-gpt-3-5-on-aider-s-code-editing-benchmark-u|GPT
   4o mini scores like the original GPT 3.5 on aider''s code editing benchmark…]]'
 - '[[Changes/ChatGPT/2024-07-18-we-re-introducing-gpt-4o-mini-the-most-capable-and-cost-efficient-small-model-av-af297b|Introducing
   GPT-4o mini]]'
+- '[[Changes/Ollama/2024-07-18-mathstral-https-ollama-com-library-mathstral-math-tral-is-a-7b-model-designed-fo|Mathstral((source
+  link) MathΣtral is a 7B model designed…]]'
 source_release: '[[Releases/OpenHands/openhands-2024-07-19-0-8-1-github-166290483-3fde9148|openhands-2024-07-19-0-8-1-github-166290483-3fde9148]]'
 source_type: github_releases
 theme: model-support
@@ -91,8 +92,8 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/0.8.1
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2024-07-18 · ChatGPT · [[Changes/ChatGPT/2024-07-18-we-re-introducing-gpt-4o-mini-the-most-capable-and-cost-efficient-small-model-av-af297b|Introducing GPT-4o mini]]
-- Later: 2024-07-23 · Cursor · [[Changes/Cursor/2024-07-23-new-default-model-we-ve-made-claude-3-5-sonnet-the-default-model-for-users|New Default Model: We've made Claude 3.5 Sonnet the default model for users]]
+- Earlier: 2024-07-18 · Ollama · [[Changes/Ollama/2024-07-18-mathstral-https-ollama-com-library-mathstral-math-tral-is-a-7b-model-designed-fo|Mathstral((source link) MathΣtral is a 7B model designed…]]
+- Later: 2024-07-21 · Ollama · [[Changes/Ollama/2024-07-21-nuextract-https-ollama-com-library-nuextract-a-3-8b-model-fine-tuned-on-a-privat|NuExtract((source link) A 3.8B model fine-tuned…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

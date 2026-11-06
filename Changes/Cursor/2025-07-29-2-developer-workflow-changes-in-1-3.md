@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 32434a16b02518ba5395a489d518163279bbd93a28e3cd592f517b893cd44635
+machine_hash: d78ab5cb28bc5c6800019f32840fea3497e630bf455ac39dbb75ecdc437463a0
 product: cursor
 product_name: Cursor
 record:
@@ -43,12 +43,12 @@ record:
   title: 2 Developer Workflow changes in 1.3
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-07-24-we-now-record-some-git-state-in-the-jsonl-log-due-to-vishnu-oai-https-github-com|We
-  now record some Git state in the .jsonl log due to @vishnu-oai…]]'
 - '[[Changes/Gemini CLI/2025-07-25-16-developer-workflow-changes-in-v0-1-14|16 Developer
   Workflow changes in v0.1.14]]'
 - '[[Changes/Cline/2025-07-26-adding-gitbash-terminal-support-and-docs-for-solving-windows-terminal-issues-by|Adding
   gitbash terminal support and docs for solving windows terminal issues]]'
+- '[[Changes/Dify/2025-07-28-postgresql-healthcheck-enhanced-the-healthcheck-command-to-avoid-fatal-log-error|PostgreSQL
+  Healthcheck: Enhanced the healthcheck command to avoid fatal log…]]'
 source_release: '[[Releases/Cursor/cursor-2025-07-29-1-3-https-cursor-com-changelog-1-3-d153efc3|cursor-2025-07-29-1-3-https-cursor-com-changelog-1-3-d153efc3]]'
 source_type: cursor_changelog
 theme: developer-workflow
@@ -90,7 +90,7 @@ Source: https://cursor.com/changelog/1-3
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2025-07-26 · Cline · [[Changes/Cline/2025-07-26-adding-gitbash-terminal-support-and-docs-for-solving-windows-terminal-issues-by|Adding gitbash terminal support and docs for solving windows terminal issues]]
+- Earlier: 2025-07-28 · Dify · [[Changes/Dify/2025-07-28-postgresql-healthcheck-enhanced-the-healthcheck-command-to-avoid-fatal-log-error|PostgreSQL Healthcheck: Enhanced the healthcheck command to avoid fatal log…]]
 - Later: 2025-07-30 · Gemini CLI · [[Changes/Gemini CLI/2025-07-30-18-developer-workflow-changes-in-v0-1-15|18 Developer Workflow changes in v0.1.15]]
 <!-- chronolog:end -->
 

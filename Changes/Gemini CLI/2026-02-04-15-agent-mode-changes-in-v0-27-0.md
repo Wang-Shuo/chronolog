@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 87f2b97ec03473f9bade9c132ddb960c006f6ee47afb258030c40527e0ea313e
+machine_hash: 760ca08704db7a41d2e421a2c3cb8871c20954c9480888f11222924a7b112d38
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -79,10 +79,10 @@ record:
   title: 15 Agent Mode changes in v0.27.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-02-03-4-agent-mode-changes-in-v0-0-402|4 Agent
-  Mode changes in v0.0.402]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-03-support-agents-skills-directory-for-auto-loading-skills|Support
   .agents/skills directory for auto-loading skills]]'
+- '[[Changes/Ollama/2026-02-03-ollama-launch-will-now-work-run-subagents-when-using-ollama-launch-claude|ollama
+  launch will now work run subagents when using ollama launch claude]]'
 - '[[Changes/Codex CLI/2026-02-04-4-agent-mode-changes-in-rust-v0-95-0|4 Agent Mode
   changes in rust-v0.95.0]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-02-04-v0-27-0-github-282779403-9d866835|gemini-cli-2026-02-04-v0-27-0-github-282779403-9d866835]]'

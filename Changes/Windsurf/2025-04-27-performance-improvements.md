@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: f010974d6c8c39cf312d9c41d75e2b8bf6989d608a21ac3fc175bddf208f106d
+machine_hash: caeddbfa047b81e54a632d66386bac7fa349041e1f1242df384bae1af0e0dfdb
 product: windsurf
 product_name: Windsurf
 record:
@@ -50,12 +50,11 @@ record:
   title: Performance Improvements
   type: change
 related_changes:
-- '[[Changes/Cline/2025-04-10-add-more-robust-error-tracking-for-users-opted-in-to-telemetry-thank-you-for-hel|Add
-  more robust error tracking for users opted in to telemetry…]]'
-- '[[Changes/OpenHands/2025-04-10-improve-the-performance-of-event-retrieval-in-openhands-particularly-for-convers|Improve
-  the performance of event retrieval in OpenHands, particularly…]]'
-- '[[Changes/Cline/2025-04-13-big-shoutout-to-samuel871211-for-numerous-code-quality-improvements-refactoring|Big
-  shoutout to @samuel871211 for numerous code quality improvements, refactoring…]]'
+- '[[Changes/Ollama/2025-04-17-2-reliability-and-performance-changes-in-v0-6-6|2 Reliability
+  and Performance changes in v0.6.6]]'
+- '[[Changes/Replit/2025-04-18-faster-ai-responses|Faster AI responses]]'
+- '[[Changes/Dify/2025-04-23-chore-speed-up-git-checkout-by-removing-fetch-depth-0-to-avoid-pulling-all-tags|chore:
+  speed up git checkout by removing fetch-depth 0 to avoid pulling all tags…]]'
 source_release: '[[Releases/Windsurf/windsurf-2025-04-27-v1-7-2-dbe56aee|windsurf-2025-04-27-v1-7-2-dbe56aee]]'
 source_type: windsurf_changelog
 theme: reliability-performance
@@ -92,8 +91,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-04-13 · Cline · [[Changes/Cline/2025-04-13-big-shoutout-to-samuel871211-for-numerous-code-quality-improvements-refactoring|Big shoutout to @samuel871211 for numerous code quality improvements, refactoring…]]
-- Later: 2025-05-08 · ChatGPT · [[Changes/ChatGPT/2025-05-08-outside-the-european-regions-listed-above-all-plus-and-pro-accounts-that-have-me-507581|Opt‑in reminders]]
+- Earlier: 2025-04-23 · Dify · [[Changes/Dify/2025-04-23-chore-speed-up-git-checkout-by-removing-fetch-depth-0-to-avoid-pulling-all-tags|chore: speed up git checkout by removing fetch-depth 0 to avoid pulling all tags…]]
+- Later: 2025-05-02 · Replit · [[Changes/Replit/2025-05-02-app-type-selector-fully-launched|App type selector fully launched]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

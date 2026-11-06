@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4b0fcaa298e8a3f0f2809785df0784b351c80a6a3e493c915e63a5f0faeffb75
+machine_hash: 0c3a151c3816166451ff04ea5b132507f000908d31a4978dfab61fce60284140
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -53,12 +53,12 @@ record:
   title: MCP servers using Microsoft Entra ID authentication no longer show the consent…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-26-2-safety-and-privacy-changes-in-v2-1-85|2 Safety
-  and Privacy changes in v2.1.85]]'
-- '[[Changes/Codex CLI/2026-03-26-5-safety-and-privacy-changes-in-rust-v0-117-0|5
-  Safety and Privacy changes in rust-v0.117.0]]'
 - '[[Changes/Claude Code/2026-03-27-fixed-official-marketplace-plugin-scripts-failing-with-permission-denied-on-maco|Fixed
   official marketplace plugin scripts failing…]]'
+- '[[Changes/Dify/2026-03-27-6-safety-and-privacy-changes-in-1-13-3|6 Safety and Privacy
+  changes in 1.13.3]]'
+- "[[Changes/Open WebUI/2026-03-27-terminal-server-connection-security-terminal-server-verification-and-policy-savi|\U0001F512
+  Terminal server connection security. Terminal server verification and policy…]]"
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-03-30-v1-0-13-github-303313822-db3397e2|github-copilot-cli-2026-03-30-v1-0-13-github-303313822-db3397e2]]'
 source_type: github_releases
 theme: safety-privacy
@@ -94,7 +94,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-03-27 · Claude Code · [[Changes/Claude Code/2026-03-27-fixed-official-marketplace-plugin-scripts-failing-with-permission-denied-on-maco|Fixed official marketplace plugin scripts failing…]]
+- Earlier: 2026-03-27 · Open WebUI · [[Changes/Open WebUI/2026-03-27-terminal-server-connection-security-terminal-server-verification-and-policy-savi|🔒 Terminal server connection security. Terminal server verification and policy…]]
 - Later: 2026-03-30 · OpenHands · [[Changes/OpenHands/2026-03-30-added-clear-command-for-v1-conversations-typing-clear-in-the-chat-creates-a-new|Added /clear command for V1 conversations]]
 <!-- chronolog:end -->
 

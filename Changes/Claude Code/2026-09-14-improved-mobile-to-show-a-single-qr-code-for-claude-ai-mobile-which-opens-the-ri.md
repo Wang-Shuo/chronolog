@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 26401d72cc6982eff948aff7122b89411d043616437ce7bb56ceda15c7efeffb
+machine_hash: 373944ba85e9a78670430694201b8235c5b0b3a3a0cbb973a5d03f245bc2f1f5
 product: claude-code
 product_name: Claude Code
 record:
@@ -88,7 +88,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-09-11 · Claude Code · [[Changes/Claude Code/2026-09-11-changed-skills-synced-from-claude-ai-in-cloud-sessions-to-be-named-anthropic-ski|Changed skills synced from claude.ai in cloud sessions to be named…]]
-- Later: 2026-09-15 · Claude Code · [[Changes/Claude Code/2026-09-15-claude-code-on-the-web-removed-the-full-page-desktop-app-download-screen-that-ne|Claude Code on the web Removed the full-page desktop-app download screen that new…]]
+- Later: 2026-09-14 · ElevenLabs · [[Changes/ElevenLabs/2026-09-14-ios-sdk|iOS SDK]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

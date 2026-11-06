@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 032f6528a78bffb4f105939e77484235faf507264df7f1c826c3dbcdd2bdb952
+machine_hash: c349a0f4b70d01a4dd0b006fd70b5bd8f3c598d0901bd6b0e784908258d3e328
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -48,8 +48,8 @@ record:
   title: 4 Safety and Privacy changes in v1.0.92
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-10-01-2-safety-and-privacy-changes-in-v1-0-91|2
-  Safety and Privacy changes in v1.0.91]]'
+- '[[Changes/Lovable/2026-10-01-keep-your-workspace-s-ai-processing-in-the-eu|Keep
+  your workspace''s AI processing in the EU]]'
 - '[[Changes/Claude Code/2026-10-02-6-safety-and-privacy-changes-in-v2-1-288|6 Safety
   and Privacy changes in v2.1.288]]'
 - '[[Changes/Claude Code/2026-10-05-19-safety-and-privacy-changes-in-v2-1-290|19 Safety

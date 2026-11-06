@@ -169,3 +169,145 @@ products:
     silence_periods: 2
     silence_baseline_factor: 0.5
     language: en
+  - name: claude
+    display_name: Claude
+    feed_type: claude_changelog
+    url: https://support.claude.com/en/articles/12138966-release-notes
+    backfill: full
+    max_staleness_days: 2
+    known_gaps: The dated entries currently available in the official Claude app release notes, including model and plan announcements listed there. This endpoint currently starts in August 2025; it is not Claude's launch date. Claude Code has a separate history.
+    themes: [model-support, agent-mode, memory, file-data, apps-integrations, safety-privacy, enterprise-admin, pricing-model]
+    track_silence: true
+    silence_window: month
+    silence_periods: 2
+    silence_baseline_factor: 0.5
+    language: en
+  - name: gemini
+    display_name: Gemini
+    feed_type: gemini_changelog
+    url: https://gemini.google/us/release-notes/?hl=en
+    backfill: full
+    max_staleness_days: 2
+    known_gaps: English US Gemini Apps release notes available from the official page, including its historical Bard entries. Regional availability can differ. Gemini CLI and the developer API have separate release histories.
+    themes: [model-support, multimodal, voice, image-generation, search-browsing, apps-integrations, memory, mobile-desktop]
+    track_silence: true
+    silence_window: month
+    silence_periods: 2
+    silence_baseline_factor: 0.5
+    language: en
+  - name: deepseek-api
+    display_name: DeepSeek API
+    feed_type: deepseek_changelog
+    url: https://api-docs.deepseek.com/updates/
+    backfill: full
+    max_staleness_days: 2
+    known_gaps: The official DeepSeek API change log, including model availability, API behavior and pricing. Web and mobile changes appear only when explicitly included in the API announcement; this is not a complete consumer-app history. Benchmark tables and code examples are excluded.
+    themes: [model-support, context-window, search-browsing, pricing-model, reliability-performance]
+    track_silence: true
+    silence_window: month
+    silence_periods: 2
+    silence_baseline_factor: 0.5
+    language: en
+  - name: elevenlabs
+    display_name: ElevenLabs
+    feed_type: elevenlabs_changelog
+    url: https://elevenlabs.io/docs/changelog
+    index_url: https://elevenlabs.io/docs/changelog/llms.txt
+    backfill: full
+    max_staleness_days: 2
+    known_gaps: Every dated entry listed in the official changelog index, including voice, audio, agent and API updates. The default Markdown page contains only a recent window, so collection traverses the complete index. Documentation widgets and code examples are excluded.
+    themes: [voice, model-support, agent-mode, apps-integrations, safety-privacy, pricing-model]
+    track_silence: true
+    silence_window: month
+    silence_periods: 2
+    silence_baseline_factor: 0.5
+    language: en
+  - name: lovable
+    display_name: Lovable
+    feed_type: lovable_changelog
+    url: https://docs.lovable.dev/changelog
+    markdown_url: https://docs.lovable.dev/changelog.md
+    backfill: full
+    max_staleness_days: 2
+    known_gaps: Dated entries available in Lovable's official product changelog. Undated help articles, hosting widgets and code examples are excluded; endpoint coverage is not proof of lifetime coverage.
+    themes: [artifact-creation, agent-mode, apps-integrations, projects-workspaces, collaboration, memory, safety-privacy]
+    track_silence: true
+    silence_window: month
+    silence_periods: 2
+    silence_baseline_factor: 0.5
+    language: en
+  - name: v0
+    display_name: v0
+    feed_type: v0_changelog
+    url: https://v0.app/changelog
+    backfill: full
+    max_staleness_days: 2
+    known_gaps: Dated v0 product announcements available on the official changelog. This does not include the wider Vercel platform's changelog or undated documentation updates.
+    themes: [artifact-creation, model-support, apps-integrations, editor-experience, collaboration, pricing-model]
+    track_silence: true
+    silence_window: month
+    silence_periods: 2
+    silence_baseline_factor: 0.5
+    language: en
+  - name: replit
+    display_name: Replit
+    feed_type: replit_changelog
+    url: https://docs.replit.com/updates
+    index_url: https://docs.replit.com/sitemap.xml
+    backfill: full
+    max_staleness_days: 2
+    known_gaps: Dated weekly Replit changelog pages listed in the official sitemap, covering Agent and related development-platform features. This includes non-AI platform changes announced alongside Agent. Unindexed historical announcements are outside this source's scope.
+    themes: [agent-mode, artifact-creation, developer-workflow, editor-experience, apps-integrations, collaboration]
+    track_silence: true
+    silence_window: month
+    silence_periods: 2
+    silence_baseline_factor: 0.5
+    language: en
+  - name: ollama
+    display_name: Ollama
+    feed_type: github_releases
+    repo: ollama/ollama
+    github_page_size: 30
+    backfill: full
+    max_staleness_days: 2
+    include_prereleases: false
+    tag_pattern: '^v\d+\.\d+\.\d+$'
+    known_gaps: Stable versioned releases of the Ollama application and runtime. Prereleases and model-library updates without a corresponding application release are excluded.
+    themes: [model-support, context-window, reliability-performance, developer-workflow, multimodal]
+    track_silence: true
+    silence_window: month
+    silence_periods: 2
+    silence_baseline_factor: 0.5
+    language: en
+  - name: dify
+    display_name: Dify
+    feed_type: github_releases
+    repo: langgenius/dify
+    github_page_size: 30
+    backfill: full
+    max_staleness_days: 2
+    include_prereleases: false
+    tag_pattern: '^v?\d+\.\d+\.\d+$'
+    known_gaps: Stable versioned releases of Dify's open-source platform. Cloud-only changes, separately versioned plugins and prereleases have separate histories.
+    themes: [agent-mode, model-support, apps-integrations, automation-scheduling, file-data, enterprise-admin]
+    track_silence: true
+    silence_window: month
+    silence_periods: 2
+    silence_baseline_factor: 0.5
+    language: en
+  - name: open-webui
+    display_name: Open WebUI
+    feed_type: github_releases
+    repo: open-webui/open-webui
+    github_page_size: 30
+    backfill: full
+    max_staleness_days: 2
+    include_prereleases: false
+    tag_pattern: '^v\d+\.\d+\.\d+$'
+    known_gaps: Stable versioned Open WebUI releases from the official repository. Development builds, prereleases and external model-provider updates are excluded.
+    themes: [model-support, interface-experience, voice, file-data, apps-integrations, search-browsing, enterprise-admin]
+    track_silence: true
+    silence_window: month
+    silence_periods: 2
+    silence_baseline_factor: 0.5
+    language: en

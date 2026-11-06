@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1feffa68d20d2ae185474fc3d4c11423132120e31965adf60979c954fb8ceb99
+machine_hash: a52e5d19ec626e032d05a98a9944c2250e1b9f419703c1d84fc74ef004369a65
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -89,7 +89,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.36
 ## Nearby in Editor Experience
 
 - Earlier: 2026-04-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-23-6-editor-experience-changes-in-v1-0-35|6 Editor Experience changes in v1.0.35]]
-- Later: 2026-04-27 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-27-add-copilot-completion-bash-zsh-fish-subcommand-to-generate-static-shell-complet|Add copilot completion bash / zsh / fish subcommand to generate static shell…]]
+- Later: 2026-04-24 · Lovable · [[Changes/Lovable/2026-04-24-labs-tab-the-labs-tab-has-been-removed-from-settings-github-branch-switching-is|Labs tab. The Labs tab has been removed from settings]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

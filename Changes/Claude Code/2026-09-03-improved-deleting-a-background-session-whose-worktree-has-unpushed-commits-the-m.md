@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a0befce8009397c933bcce37973eba793d257ca3321536f528a44284b54088f2
+machine_hash: 12cc83a3e4f3353572a7df534c496eac621d791da90ace76eca80baa0269162b
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,8 +43,8 @@ record:
   title: Improved deleting a background session whose worktree has unpushed commits
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-01-6-developer-workflow-changes-in-rust-v0-152-0|6
-  Developer Workflow changes in rust-v0.152.0]]'
+- '[[Changes/v0/2026-09-01-your-repository-remains-the-source-of-truth-required-checks-reviews-merge-restri|Your
+  repository remains the source of truth]]'
 - '[[Changes/Claude Code/2026-09-02-improved-terminal-resize-and-first-render-performance-for-long-responses-by-reus|Improved
   terminal resize and first-render performance for long responses by reusing…]]'
 - '[[Changes/Cline/2026-09-02-global-rules-are-now-also-read-from-cline-rules-which-is-where-the-rules-tab-wri|Global

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c4e7b4427ab26114ab145cf3bd5006151f395bef64f6362334b3ae251be50f43
+machine_hash: 15cf2f3769032fd740ff8a7705c0ba89f74912426927a6f7a4b71122beedd54f
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -96,7 +96,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.80.0
 ## Nearby in Interface Experience
 
 - Earlier: 2026-01-09 · Claude Code · [[Changes/Claude Code/2026-01-09-added-shift-tab-keyboard-shortcut-in-plan-mode-to-quickly-select-auto-accept-edi|Added Shift+Tab keyboard shortcut in plan mode to quickly select…]]
-- Later: 2026-01-13 · Claude Code · [[Changes/Claude Code/2026-01-13-added-updates-section-to-doctor-showing-auto-update-channel-and-available-npm-ve|Added Updates section to /doctor showing auto-update channel and available npm…]]
+- Later: 2026-01-09 · Open WebUI · [[Changes/Open WebUI/2026-01-09-5-interface-experience-changes-in-v0-7-0|5 Interface Experience changes in v0.7.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 80683de0b7c1d1e8d5111d149583f9692dec93a1a921e85e9282d2368d204959
+machine_hash: 778950d54fa28721c5cc29e19c68a85f2051286a733aad09ea4ea01f0de1329c
 product: cursor
 product_name: Cursor
 record:
@@ -42,8 +42,8 @@ record:
   title: 'Standard: $0.50/M input, $2.50/M output tokens'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-14-model-picker-displays-actual-token-prices-instead-of-dot-indicators-for-token-ba|Model
-  picker displays actual token prices instead of dot indicators for token-based…]]'
+- '[[Changes/Ollama/2026-05-14-for-local-use-without-an-ollama-cloud-subscription|For
+  local use without an Ollama Cloud subscription]]'
 - '[[Changes/Claude Code/2026-05-15-added-projected-context-cost-per-turn-and-per-invocation-token-estimates-to-the|Added
   projected context cost (per-turn and per-invocation token estimates)…]]'
 - '[[Changes/Cursor/2026-05-18-fast-default-3-00-m-input-15-00-m-output-tokens|Fast

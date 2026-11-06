@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3c1dc4550fd907fd3ff2c6d07ac25a31250e44e89e3c9db1b22caebd9069d576
+machine_hash: 0d81b685f6526468c7fa766b3e1d6303ed6db1a0701ca0382194a273f7edd5f7
 product: claude-code
 product_name: Claude Code
 record:
@@ -90,7 +90,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.70
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-03-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-05-reduce-memory-usage-in-alt-screen-mode-for-long-sessions|Reduce memory usage in alt-screen mode for long sessions]]
-- Later: 2026-03-09 · Windsurf · [[Changes/Windsurf/2026-03-09-stability-performance|Stability & Performance]]
+- Later: 2026-03-08 · Open WebUI · [[Changes/Open WebUI/2026-03-08-13-reliability-and-performance-changes-in-v0-8-9|13 Reliability and Performance changes in v0.8.9]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

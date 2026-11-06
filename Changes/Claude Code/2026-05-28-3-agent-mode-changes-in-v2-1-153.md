@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: fffabb53364ee67d33968bc20855e2a5330528d90cd7cdace466eb0004f31339
+machine_hash: 7179525e01af5749c2d7481a46e529d957b58df0e5a03610718e44ffe5be2027
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,8 +48,7 @@ record:
   title: 3 Agent Mode changes in v2.1.153
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-05-27-4-agent-mode-changes-in-v0-44-0|4 Agent Mode changes
-  in v0.44.0]]'
+- '[[Changes/Lovable/2026-05-27-subagents|Subagents]]'
 - '[[Changes/Windsurf/2026-05-27-devin-local|Devin Local]]'
 - '[[Changes/Claude Code/2026-05-28-4-agent-mode-changes-in-v2-1-154|4 Agent Mode
   changes in v2.1.154]]'

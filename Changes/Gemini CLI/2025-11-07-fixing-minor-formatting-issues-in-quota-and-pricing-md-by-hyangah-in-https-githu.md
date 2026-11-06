@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: policy
-machine_hash: 6fd57727689a1f60d1fb16a12a2596339212a5e78c6768b60a66ec09d55fe6b6
+machine_hash: e7b98d36d40f1f5f265970796e7eb2b7b2e58c895f4d200a118617984fb031dc
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -43,12 +43,12 @@ record:
   title: fixing minor formatting issues in quota-and-pricing.md
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-10-30-we-re-excited-to-announce-that-chatgpt-go-our-low-cost-subscription-plan-is-now-44be9d|ChatGPT
-  Go, our low cost subscription plan, is now available in 8 additional…]]'
-- '[[Changes/Codex CLI/2025-10-30-ability-to-buy-credits-for-more-usage-more-information-https-help-openai-com-en|Ability
-  to buy credits for more usage]]'
-- '[[Changes/ChatGPT/2025-11-03-eligible-customers-in-india-can-now-get-12-months-of-chatgpt-go-at-no-cost-new-u|ChatGPT
-  Go Promo - India]]'
+- '[[Changes/Lovable/2025-11-05-always-have-enough-cloud-ai-funds|Always have enough
+  Cloud & AI funds]]'
+- '[[Changes/v0/2025-11-05-all-paid-users-now-get-2-in-free-credits-every-day|Daily
+  Credits]]'
+- "[[Changes/Open WebUI/2025-11-06-external-document-loaders-can-now-optionally-forward-user-information-headers-wh|\U0001F4C4
+  External document loaders can now optionally forward user information headers…]]"
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-11-07-v0-13-0-github-260462305-15cfa0b7|gemini-cli-2025-11-07-v0-13-0-github-260462305-15cfa0b7]]'
 source_type: github_releases
 theme: pricing-model
@@ -90,8 +90,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2025-11-03 · ChatGPT · [[Changes/ChatGPT/2025-11-03-eligible-customers-in-india-can-now-get-12-months-of-chatgpt-go-at-no-cost-new-u|ChatGPT Go Promo - India]]
-- Later: 2025-11-19 · Codex CLI · [[Changes/Codex CLI/2025-11-19-credits-are-now-visible-in-status|Credits are now visible in /status]]
+- Earlier: 2025-11-06 · Open WebUI · [[Changes/Open WebUI/2025-11-06-external-document-loaders-can-now-optionally-forward-user-information-headers-wh|📄 External document loaders can now optionally forward user information headers…]]
+- Later: 2025-11-12 · ElevenLabs · [[Changes/ElevenLabs/2025-11-12-billing|Billing]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

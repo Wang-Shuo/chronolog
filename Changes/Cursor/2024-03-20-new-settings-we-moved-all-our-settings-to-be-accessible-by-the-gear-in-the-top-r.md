@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: c5497259e5db1f2659c69b38504921d6dff241aee2c905501092a3786cdc7542
+machine_hash: 3bc2975a648733933cb52484f6c5b87b799c896483b2108c964ca40839d2137e
 product: cursor
 product_name: Cursor
 record:
@@ -47,11 +47,11 @@ record:
     the top right'
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-02-09-smoother-onboarding-fix-windows-settings-import-option-to-import-folder-window-s|Smoother
-  onboarding (fix Windows settings import, option to import folder/window state)]]'
-- '[[Changes/Cursor/2024-02-09-fine-grained-chat-replies-start-by-hovering-over-the-area-of-the-response-you-wa|Fine-grained
-  chat replies…]]'
+- '[[Changes/Gemini/2024-02-20-exclusive-to-gemini-advanced-edit-and-run-python-code|Exclusive
+  to Gemini Advanced: Edit and run Python code]]'
 - '[[Changes/Cursor/2024-03-01-ai-notes-enabled-by-default-hold-shift-on-any-symbol-better-in-editor-chat-auto|Polish]]'
+- "[[Changes/Open WebUI/2024-03-18-sidebar-ui-update-updated-sidebar-ui-to-feature-a-chat-menu-dropdown-replacing-t|\U0001F504
+  Sidebar UI Update]]"
 source_release: '[[Releases/Cursor/cursor-2024-03-20-0-30-x-https-cursor-com-changelog-0-30-x-e7e3c53e|cursor-2024-03-20-0-30-x-https-cursor-com-changelog-0-30-x-e7e3c53e]]'
 source_type: cursor_changelog
 theme: interface-experience
@@ -84,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2024-03-01 · Cursor · [[Changes/Cursor/2024-03-01-ai-notes-enabled-by-default-hold-shift-on-any-symbol-better-in-editor-chat-auto|Polish]]
+- Earlier: 2024-03-18 · Open WebUI · [[Changes/Open WebUI/2024-03-18-sidebar-ui-update-updated-sidebar-ui-to-feature-a-chat-menu-dropdown-replacing-t|🔄 Sidebar UI Update]]
 - Later: 2024-04-01 · Cursor · [[Changes/Cursor/2024-04-01-update-0-31-1-0-31-3-adds-back-in-ai-review-alpha-fixes-the-cursor-settings-menu|UPDATE (0.31.1–0.31.3): Adds back in AI Review (alpha), fixes…]]
 <!-- chronolog:end -->
 

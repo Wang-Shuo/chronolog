@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 30803141ad1eb5313b919b2ef1903222fb7e4f8d3d44dbf5d84406d1afb27d1d
+machine_hash: a1216b03f15a3caf37ac25bebd6df3f5f79ed6ece037927765b2db8501ab041f
 product: openhands
 product_name: OpenHands
 record:
@@ -43,12 +43,12 @@ record:
   title: 'feat: Implement user confirmation mode, request confirmation when running…'
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-07-03-when-the-chat-suggests-a-code-block-click-apply-to-instantly-see-the-change-to-t|When
-  the chat suggests a code block, click "Apply" to instantly see the change…]]'
 - '[[Changes/OpenHands/2024-07-05-3-developer-workflow-changes-in-0-7-1|3 Developer
   Workflow changes in 0.7.1]]'
 - '[[Changes/Aider/2024-07-07-all-config-env-yml-json-files-now-load-from-home-git-root-cwd-and-named-command|All
   config/env/yml/json files now load from home, git root, cwd and named command…]]'
+- '[[Changes/Dify/2024-07-08-2-developer-workflow-changes-in-0-6-13|2 Developer Workflow
+  changes in 0.6.13]]'
 source_release: '[[Releases/OpenHands/openhands-2024-07-13-0-8-0-github-165308599-8532f458|openhands-2024-07-13-0-8-0-github-165308599-8532f458]]'
 source_type: github_releases
 theme: developer-workflow
@@ -82,8 +82,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2024-07-07 · Aider · [[Changes/Aider/2024-07-07-all-config-env-yml-json-files-now-load-from-home-git-root-cwd-and-named-command|All config/env/yml/json files now load from home, git root, cwd and named command…]]
-- Later: 2024-07-19 · OpenHands · [[Changes/OpenHands/2024-07-19-2-developer-workflow-changes-in-0-8-1|2 Developer Workflow changes in 0.8.1]]
+- Earlier: 2024-07-08 · Dify · [[Changes/Dify/2024-07-08-2-developer-workflow-changes-in-0-6-13|2 Developer Workflow changes in 0.6.13]]
+- Later: 2024-07-15 · Dify · [[Changes/Dify/2024-07-15-2-developer-workflow-changes-in-0-6-14|2 Developer Workflow changes in 0.6.14]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: db9ac9c7f518562f1c14453ce71882a89e3649a7deabf1fc4328da77b0ce1d12
+machine_hash: 384b86b40349cb68793390aa783224ef1d9212f8bf0aaf261f22e94f981f120c
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -48,8 +48,8 @@ record:
   title: 5 Editor Experience changes in rust-v0.149.0
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-08-17-origin-repos|Origin Repos]]'
 - '[[Changes/Cursor/2026-08-17-pull-requests|Pull requests]]'
+- '[[Changes/ElevenLabs/2026-08-17-elevencreative|ElevenCreative]]'
 - '[[Changes/Codex CLI/2026-08-18-37828-track-running-unified-exec-processes-at-turn-completion-copyberry|♯37828
   Track running unified exec processes at turn completion @copyberry]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-08-20-rust-v0-149-0-github-374028976-829da944|codex-cli-2026-08-20-rust-v0-149-0-github-374028976-829da944]]'

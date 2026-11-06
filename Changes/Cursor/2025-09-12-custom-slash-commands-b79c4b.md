@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 8552383aaf28d011e1f7803c20852febc3d4acca40f17e4947aa0a04782fac35
+machine_hash: 339c1c01dc256761c799ec9dd9965e656c595201f62b4ecbd48f6893f04eee78
 product: cursor
 product_name: Cursor
 record:
@@ -59,8 +59,8 @@ record:
   title: Custom slash commands
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-09-10-2-developer-workflow-changes-in-rust-v0-32-0|2 Developer
-  Workflow changes in rust-v0.32.0]]'
+- '[[Changes/Open WebUI/2025-09-10-4-developer-workflow-changes-in-v0-6-28|4 Developer
+  Workflow changes in v0.6.28]]'
 - '[[Changes/Cursor/2025-09-12-improved-terminal-for-agent|Improved terminal for Agent]]'
 - '[[Changes/Cursor/2025-09-12-5-developer-workflow-changes-in-1-6|5 Developer Workflow
   changes in 1.6]]'
@@ -103,7 +103,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2025-09-10 · Codex CLI · [[Changes/Codex CLI/2025-09-10-2-developer-workflow-changes-in-rust-v0-32-0|2 Developer Workflow changes in rust-v0.32.0]]
+- Earlier: 2025-09-10 · Open WebUI · [[Changes/Open WebUI/2025-09-10-4-developer-workflow-changes-in-v0-6-28|4 Developer Workflow changes in v0.6.28]]
 - Later: 2025-09-13 · Cline · [[Changes/Cline/2025-09-13-feature-to-generate-commit-message-for-staged-changes-with-unstaged-as-fallback|Feature to generate commit message for staged changes, with unstaged as fallback]]
 <!-- chronolog:end -->
 

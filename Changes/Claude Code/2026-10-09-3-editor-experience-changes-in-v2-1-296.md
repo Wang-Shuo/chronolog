@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d53ca05e9bef891608afb8bd4e47131dd34f40e4bb77774925f2cd27d7fe830b
+machine_hash: beafbd1b4702514dc276c5e06316e236716a2f8a7f11c1922f2c84af9cfc014b
 product: claude-code
 product_name: Claude Code
 record:
@@ -102,7 +102,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.296
 ## Nearby in Editor Experience
 
 - Earlier: 2026-10-08 · Codex CLI · [[Changes/Codex CLI/2026-10-08-50216-use-the-shared-text-editor-for-command-center-task-renaming-bc-openai|♯50216 Use the shared text editor for command-center task renaming @bc-openai]]
-- Later: 2026-10-13 · Cline · [[Changes/Cline/2026-10-13-the-editor-tool-no-longer-receives-null-in-place-of-the-text-to-replace-from-som|The editor tool no longer receives null in place of the text to replace from some models]]
+- Later: 2026-10-10 · Open WebUI · [[Changes/Open WebUI/2026-10-10-21-editor-experience-changes-in-v0-12-0|21 Editor Experience changes in v0.12.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

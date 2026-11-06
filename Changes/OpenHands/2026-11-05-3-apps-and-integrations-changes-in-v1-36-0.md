@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3d8ce563e86bd25b94fe0f990b07b2e8e46c89ea3f11364822e9655ef8750821
+machine_hash: 43a0dd779af28ed5e23afad1f50c8264eacd2d58add08e87ba346747209d6bba
 product: openhands
 product_name: OpenHands
 record:
@@ -47,12 +47,12 @@ record:
   title: 3 Apps and Integrations changes in v1.36.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-30-3-apps-and-integrations-changes-in-v2-1-314|3
-  Apps and Integrations changes in v2.1.314]]'
-- '[[Changes/Claude Code/2026-10-31-7-apps-and-integrations-changes-in-v2-1-316|7
-  Apps and Integrations changes in v2.1.316]]'
+- "[[Changes/Open WebUI/2026-11-03-mcp-apps-in-chat-tools-from-mcp-servers-that-come-with-an-interactive-app-now-sh|\U0001F9E9
+  MCP Apps in chat. Tools from MCP servers that come with an interactive app now…]]"
 - '[[Changes/OpenHands/2026-11-03-3-apps-and-integrations-changes-in-v1-35-0|3 Apps
   and Integrations changes in v1.35.0]]'
+- '[[Changes/Dify/2026-11-04-15-apps-and-integrations-changes-in-1-19-0|15 Apps and
+  Integrations changes in 1.19.0]]'
 source_release: '[[Releases/OpenHands/openhands-2026-11-05-v1-36-0-github-435773936-3d3cf53c|openhands-2026-11-05-v1-36-0-github-435773936-3d3cf53c]]'
 source_type: github_releases
 theme: apps-integrations
@@ -91,7 +91,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/v1.36.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-11-03 · OpenHands · [[Changes/OpenHands/2026-11-03-3-apps-and-integrations-changes-in-v1-35-0|3 Apps and Integrations changes in v1.35.0]]
+- Earlier: 2026-11-04 · Dify · [[Changes/Dify/2026-11-04-15-apps-and-integrations-changes-in-1-19-0|15 Apps and Integrations changes in 1.19.0]]
 - Later: 2026-11-06 · Codex CLI · [[Changes/Codex CLI/2026-11-06-12-apps-and-integrations-changes-in-rust-v0-167-0|12 Apps and Integrations changes in rust-v0.167.0]]
 <!-- chronolog:end -->
 

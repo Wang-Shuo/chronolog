@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 69580bb5e0db1963f737be636c48e833f129f3ee46c13a07194787e884a0be54
+machine_hash: 251b53d9b0477aa1bdbf0a841a1ef05f2347e96116fe4246b49ae7a3bf1c31bb
 product: aider
 product_name: Aider
 record:
@@ -51,12 +51,11 @@ record:
   title: 5 Model Support changes in v0.60.0
   type: change
 related_changes:
-- '[[Changes/Aider/2024-09-29-6-model-support-changes-in-v0-58-0|6 Model Support changes
-  in v0.58.0]]'
-- '[[Changes/Aider/2024-10-04-sanity-checks-the-editor-model-on-launch-now-same-as-main-and-weak-models|Sanity
-  checks the --editor-model on launch now, same as main and weak models]]'
-- '[[Changes/Cline/2024-10-09-4-model-support-changes-in-v2-0-0|4 Model Support changes
-  in v2.0.0]]'
+- '[[Changes/ElevenLabs/2024-10-20-api|API]]'
+- '[[Changes/Dify/2024-10-21-9-model-support-changes-in-0-10-0|9 Model Support changes
+  in 0.10.0]]'
+- '[[Changes/Ollama/2024-10-21-2-model-support-changes-in-v0-4-0|2 Model Support changes
+  in v0.4.0]]'
 source_release: '[[Releases/Aider/aider-2024-10-22-v0-60-0-github-181319954-34f01211|aider-2024-10-22-v0-60-0-github-181319954-34f01211]]'
 source_type: github_releases
 theme: model-support
@@ -96,8 +95,8 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.60.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2024-10-09 · Cline · [[Changes/Cline/2024-10-09-4-model-support-changes-in-v2-0-0|4 Model Support changes in v2.0.0]]
-- Later: 2024-10-28 · Cline · [[Changes/Cline/2024-10-28-cline-now-uses-anthropic-s-new-computer-use-https-www-anthropic-com-news-3-5-mod|Cline now uses Anthropic's new…]]
+- Earlier: 2024-10-21 · Ollama · [[Changes/Ollama/2024-10-21-2-model-support-changes-in-v0-4-0|2 Model Support changes in v0.4.0]]
+- Later: 2024-10-23 · Dify · [[Changes/Dify/2024-10-23-6-model-support-changes-in-0-10-1|6 Model Support changes in 0.10.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

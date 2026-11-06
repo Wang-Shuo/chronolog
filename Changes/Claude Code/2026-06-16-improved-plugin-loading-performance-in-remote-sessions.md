@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: cf9bf05e4937bdee7f6e53146ab0ee7ebe59c319687e8b0015d5263e35e905b7
+machine_hash: 26233ab2f984c541977aa6cbb802f38a0f7dd4eda8b1228600e6644375686a25
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,12 +51,10 @@ record:
   title: Improved plugin loading performance in remote sessions
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-13-8-apps-and-integrations-changes-in-v1-0-62|8
-  Apps and Integrations changes in v1.0.62]]'
-- '[[Changes/Claude Code/2026-06-15-2-apps-and-integrations-changes-in-v2-1-178|2
-  Apps and Integrations changes in v2.1.178]]'
-- '[[Changes/Codex CLI/2026-06-15-35-apps-and-integrations-changes-in-rust-v0-140-0|35
-  Apps and Integrations changes in rust-v0.140.0]]'
+- '[[Changes/ElevenLabs/2026-06-15-sdk-releases|SDK Releases]]'
+- '[[Changes/ElevenLabs/2026-06-15-packages|Packages]]'
+- '[[Changes/Lovable/2026-06-15-app-connectors-aws-athena-and-replicate|App connectors:
+  AWS Athena and Replicate]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-16-v2-1-179-github-340316177-39d47b3e|claude-code-2026-06-16-v2-1-179-github-340316177-39d47b3e]]'
 source_type: github_releases
 theme: apps-integrations
@@ -83,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-06-15 · Codex CLI · [[Changes/Codex CLI/2026-06-15-35-apps-and-integrations-changes-in-rust-v0-140-0|35 Apps and Integrations changes in rust-v0.140.0]]
+- Earlier: 2026-06-15 · Lovable · [[Changes/Lovable/2026-06-15-app-connectors-aws-athena-and-replicate|App connectors: AWS Athena and Replicate]]
 - Later: 2026-06-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-16-2-apps-and-integrations-changes-in-v1-0-63|2 Apps and Integrations changes in v1.0.63]]
 <!-- chronolog:end -->
 

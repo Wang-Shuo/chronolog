@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c25a6d58f8151c71a886576366f443b04ae0358632ceaa4faf512431b7fb6869
+machine_hash: da674204e7fead8b462b92eb7070aaa16455ebefcd8d5c04c41b2db1e1656e08
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,10 +43,9 @@ record:
   title: 2 Account and Access changes in rust-v0.69.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2025-11-24-add-support-for-github-askpass-environment-variable-for-authentication|Add
-  support for GITHUB_ASKPASS environment variable for authentication]]'
-- '[[Changes/Codex CLI/2025-12-02-feat-support-login-as-an-option-on-shell-tool-mcp-by-bolinfest-in-7120|feat:
-  support login as an option on shell-tool-mcp by @bolinfest in ♯7120]]'
+- '[[Changes/Open WebUI/2025-12-02-7-account-and-access-changes-in-v0-6-41|7 Account
+  and Access changes in v0.6.41]]'
+- '[[Changes/ElevenLabs/2025-12-08-webhook-tools|Webhook Tools]]'
 - '[[Changes/Codex CLI/2025-12-09-2-account-and-access-changes-in-rust-v0-66-0|2 Account
   and Access changes in rust-v0.66.0]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-12-10-rust-v0-69-0-github-269307708-4ae297da|codex-cli-2025-12-10-rust-v0-69-0-github-269307708-4ae297da]]'
@@ -87,7 +86,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.69.0
 ## Nearby in Account and Access
 
 - Earlier: 2025-12-09 · Codex CLI · [[Changes/Codex CLI/2025-12-09-2-account-and-access-changes-in-rust-v0-66-0|2 Account and Access changes in rust-v0.66.0]]
-- Later: 2025-12-11 · Cline · [[Changes/Cline/2025-12-11-add-loaders-to-login-buttons-by-barreirot-in-https-github-com-cline-cline-pull-7|Add loaders to login buttons]]
+- Later: 2025-12-10 · v0 · [[Changes/v0/2025-12-10-added-automatic-oauth-refresh-for-mcp-servers|Added automatic oauth refresh for MCP servers]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

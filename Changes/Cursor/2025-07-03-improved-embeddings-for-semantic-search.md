@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 4e71082ec9b6b5b78b830fe534b1c7767d084c2523e1cb11ef57ca69e4735082
+machine_hash: e2c74ad0102adaeed8257bf0de5a739202edb033c849ef6fa5c71be4883da8a8
 product: cursor
 product_name: Cursor
 record:
@@ -46,8 +46,8 @@ record:
   title: Improved embeddings for semantic search
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-07-02-2-model-support-changes-in-v0-1-9|2 Model Support
-  changes in v0.1.9]]'
+- '[[Changes/Ollama/2025-07-02-the-directory-in-which-models-are-stored-can-now-be-modified-this-allows-models|The
+  directory in which models are stored can now be modified!]]'
 - '[[Changes/OpenHands/2025-07-02-updating-llm-settings-are-now-applied-to-existing-conversations-after-stopping-a|Updating
   LLM settings are now applied to existing conversations after stopping…]]'
 - '[[Changes/Cline/2025-07-03-add-support-for-claude-sonnet-4-and-opus-4-model-in-sap-ai-core-provider-thanks|Add

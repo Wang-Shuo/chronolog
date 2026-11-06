@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: fix
-machine_hash: 5cd5eaa474fabaf3abea86ac434fbc2a393a2a5a6e0725310deeb09aca8f2c8c
+machine_hash: f40b96d0dbf71ac7859fbb1daced5aa5fd5271d850c5952c14f967a30a6060ed
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,12 +47,12 @@ record:
     tool…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-16-2-safety-and-privacy-changes-in-v2-1-111|2 Safety
-  and Privacy changes in v2.1.111]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-16-2-safety-and-privacy-changes-in-v1-0-28|2
   Safety and Privacy changes in v1.0.28]]'
 - '[[Changes/Claude Code/2026-04-17-6-safety-and-privacy-changes-in-v2-1-113|6 Safety
   and Privacy changes in v2.1.113]]'
+- '[[Changes/Replit/2026-04-17-custom-groups-for-scim-organizations|Custom groups
+  for SCIM organizations]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-18-v2-1-114-github-310615961-aa4049e4|claude-code-2026-04-18-v2-1-114-github-310615961-aa4049e4]]'
 source_type: github_releases
 theme: safety-privacy
@@ -80,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-04-17 · Claude Code · [[Changes/Claude Code/2026-04-17-6-safety-and-privacy-changes-in-v2-1-113|6 Safety and Privacy changes in v2.1.113]]
+- Earlier: 2026-04-17 · Replit · [[Changes/Replit/2026-04-17-custom-groups-for-scim-organizations|Custom groups for SCIM organizations]]
 - Later: 2026-04-20 · Claude Code · [[Changes/Claude Code/2026-04-20-security-sandbox-auto-allow-no-longer-bypasses-the-dangerous-path-safety-check-f|Security: sandbox auto-allow no longer bypasses the dangerous-path safety check…]]
 <!-- chronolog:end -->
 

@@ -4,20 +4,20 @@ date: '2026-04-23'
 description: 'Codex CLI · 2026-04-23 · Files and Data: #18423 chore: document intentional
   await-holding cases @bolinfest'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code
-    interpreter is now rolling out in beta on web]]'
+  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
+    Files and Data changes in 0.2.2]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1022
+  lag_days: 1064
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f3a990d50939be49fff7a111c3e8ba0809a4670ae38f59a26eddc2c1781ac7cc
+machine_hash: 6b64a4536bb609f279644786a69b1a5f613db036ba69a1389a87faa8714ff6d1
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,12 +43,11 @@ record:
   title: '#18423 chore: document intentional await-holding cases @bolinfest'
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-03-24-docs-document-npm-deprecation-warnings-as-safe-to-ignore-by-h30s-in-https-github|docs:
-  document npm deprecation warnings as safe to ignore]]'
-- '[[Changes/Cursor/2026-04-13-plan-tabs-now-get-the-same-document-behaviors-as-files-support-for-reliable-load|Plan
-  tabs now get the same document behaviors as files]]'
 - '[[Changes/Cursor/2026-04-15-cursor-can-now-respond-by-creating-interactive-canvases-c4a1d3|Cursor
   can now respond by creating interactive canvases]]'
+- '[[Changes/ElevenLabs/2026-04-20-text-to-dialogue|Text to Dialogue]]'
+- '[[Changes/Open WebUI/2026-04-21-3-files-and-data-changes-in-v0-9-0|3 Files and
+  Data changes in v0.9.0]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-04-23-rust-v0-123-0-github-312509536-cebe4f18|codex-cli-2026-04-23-rust-v0-123-0-github-312509536-cebe4f18]]'
 source_type: github_releases
 theme: file-data
@@ -88,14 +87,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2026-04-15 · Cursor · [[Changes/Cursor/2026-04-15-cursor-can-now-respond-by-creating-interactive-canvases-c4a1d3|Cursor can now respond by creating interactive canvases]]
-- Later: 2026-05-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-05-add-attachment-flag-in-non-interactive-p-prompt-mode-to-attach-files-images-or-n|Add --attachment flag in non-interactive (-p/--prompt) mode to attach files…]]
+- Earlier: 2026-04-21 · Open WebUI · [[Changes/Open WebUI/2026-04-21-3-files-and-data-changes-in-v0-9-0|3 Files and Data changes in v0.9.0]]
+- Later: 2026-04-24 · Open WebUI · [[Changes/Open WebUI/2026-04-24-paddleocr-vl-document-extraction-administrators-can-now-use-paddleocr-vl-as-a-co|🧠 PaddleOCR-vl document extraction. Administrators can now use PaddleOCR-vl…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-06 · ChatGPT · [[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code interpreter is now rolling out in beta on web]]
+- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ae0edb0ac90651f93b33d5270da111a8ff35edf44b80cabc1c859c2600d4f7cb
+machine_hash: a7407c13a68d40d255759b806d2d63b64d74baa863052625c2b0aae285214353
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -55,8 +55,8 @@ record:
   title: 7 Safety and Privacy changes in v0.1.21
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-08-07-new-onboarding-flow-that-uses-sandbox-workspace-write-and-ask-for-approval-on-re|new
-  onboarding flow that uses…]]'
+- '[[Changes/Dify/2025-08-11-3-safety-and-privacy-changes-in-1-7-2|3 Safety and Privacy
+  changes in 1.7.2]]'
 - '[[Changes/Gemini CLI/2025-08-12-2-safety-and-privacy-changes-in-v0-1-19|2 Safety
   and Privacy changes in v0.1.19]]'
 - '[[Changes/Gemini CLI/2025-08-13-ensure-sandbox-build-script-is-cross-platform-by-wldoooon-in-https-github-com-go|ensure

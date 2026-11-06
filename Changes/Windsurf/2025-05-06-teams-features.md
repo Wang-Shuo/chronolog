@@ -10,12 +10,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 2670f83d9e6ed85bd6d077c061755e322ddbfa10ae292c9585f8b7b7847346f9
+machine_hash: d8d1f79ee79f3fe7035ecb2a336397c6af544b34cbe107dd359de99714d48f29
 product: windsurf
 product_name: Windsurf
 record:
@@ -73,8 +73,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2025-03-23 · Cursor · [[Changes/Cursor/2025-03-23-improved-indexing-performance-for-teams-sharing-codebases|Improved indexing performance for teams sharing codebases]]
-- Later: 2025-05-16 · Cline · [[Changes/Cline/2025-05-16-add-collapsible-recent-task-list-allowing-users-to-hide-their-task-history-when|Add collapsible recent task list, allowing users to hide their task history…]]
+- Earlier: 2025-05-06 · Open WebUI · [[Changes/Open WebUI/2025-05-06-notes-feature-access-fixed-for-non-admins-fixed-an-issue-preventing-non-admin-us|📝 Notes Feature Access Fixed for Non-Admins]]
+- Later: 2025-05-09 · Lovable · [[Changes/Lovable/2025-05-09-project-visibility-settings-have-returned-to-team-workspaces-but-will-be-disable|Project visibility settings have returned to team workspaces, but will be disabled for now]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

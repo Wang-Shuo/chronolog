@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 15e04bbc3d494be4aa223c92dcc3163d5a35d13939cf935566570d9740f8afed
+machine_hash: 54404ca2238d29dae47f28a68b5cfc572841684e5ca7d8445af03e3f8098c8b4
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,8 +45,8 @@ record:
     has…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-09-6-collaboration-changes-in-rust-v0-154-0|6 Collaboration
-  changes in rust-v0.154.0]]'
+- '[[Changes/Lovable/2026-09-11-clearer-sharing-settings-for-connections|Clearer sharing
+  settings for connections]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-16-share-notes-md-now-writes-the-exported-session-to-your-home-directory-instead-of|--share=~/notes.md
   now writes the exported session to your home directory instead…]]'
 - '[[Changes/Codex CLI/2026-09-17-44354-extract-shared-footer-hint-wrapping-in-the-tui-copyberry|♯44354
@@ -91,7 +91,7 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2026-09-17 · Codex CLI · [[Changes/Codex CLI/2026-09-17-44354-extract-shared-footer-hint-wrapping-in-the-tui-copyberry|♯44354 Extract shared footer hint wrapping in the TUI @copyberry]]
-- Later: 2026-09-22 · Codex CLI · [[Changes/Codex CLI/2026-09-22-9-collaboration-changes-in-rust-v0-156-0|9 Collaboration changes in rust-v0.156.0]]
+- Later: 2026-09-21 · Open WebUI · [[Changes/Open WebUI/2026-09-21-4-collaboration-changes-in-v0-11-4|4 Collaboration changes in v0.11.4]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

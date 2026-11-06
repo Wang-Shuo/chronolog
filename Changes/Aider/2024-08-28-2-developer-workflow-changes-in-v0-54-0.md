@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3490d0e6ed96693e3acbd27860fa710e94af5890dd986d26c34af94390a0b49e
+machine_hash: 0d6ed9d4dc4b8c399fbd6f1856218d241db705bf959e2462934e0e7a189fc044
 product: aider
 product_name: Aider
 record:
@@ -43,8 +43,8 @@ record:
   title: 2 Developer Workflow changes in v0.54.0
   type: change
 related_changes:
-- '[[Changes/OpenHands/2024-08-23-allow-easier-copy-paste-into-the-terminal-by-tofarr-in-https-github-com-all-hand|Allow
-  easier copy paste into the terminal]]'
+- '[[Changes/Dify/2024-08-26-stop-the-service-command-please-execute-in-the-docker-directory|Stop
+  the service，Command, please execute in the docker directory]]'
 - '[[Changes/Aider/2024-08-27-you-can-now-bulk-accept-reject-a-series-of-add-url-and-run-shell-confirmations|Bulk
   accept/reject a series of add url and run shell confirmations]]'
 - '[[Changes/Aider/2024-08-27-improved-error-messages-on-attempt-to-add-not-git-subdir-to-chat|Improved

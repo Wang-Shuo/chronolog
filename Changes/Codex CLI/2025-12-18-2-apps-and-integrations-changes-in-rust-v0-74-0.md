@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0279e7831b7dd4b54c2ee8276c178682fa90b2849a03dd19aaca913b21f8899d
+machine_hash: d5f2ecc7c227c086ab188e803d6103b71e973d864e31513ed22f60dc3ab81fe3
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,10 +42,10 @@ record:
   title: 2 Apps and Integrations changes in rust-v0.74.0
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-12-16-9-apps-and-integrations-changes-in-v0-21-0|9 Apps
-  and Integrations changes in v0.21.0]]'
 - '[[Changes/OpenHands/2025-12-16-added-azure-devops-integration-support-by-zerofltexx-in-https-github-com-openhan|Added
   Azure DevOps integration support]]'
+- '[[Changes/v0/2025-12-16-you-can-now-connect-v0-to-your-linear-workspace-and-build-straight-from-your-bac|Connect
+  v0 to your Linear workspace and build straight from your backlog]]'
 - '[[Changes/ChatGPT/2025-12-18-you-can-now-browse-and-add-approved-apps-in-the-new-app-directory-apps-let-you-w|Introducing
   the app directory in ChatGPT]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-12-18-rust-v0-74-0-github-271533952-972d825a|codex-cli-2025-12-18-rust-v0-74-0-github-271533952-972d825a]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8eeb2d8d5ae4b1f8bb62812f85a428b757a4f5c7e7d4a083686ea68120b1959e
+machine_hash: bc4699650c60bc0e5f234fb0056eb347d316f1fe641bfb081aa3cf4f5885e44f
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -53,10 +53,10 @@ record:
   title: 7 Context Window changes in rust-v0.140.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-09-3-context-window-changes-in-rust-v0-139-0|3 Context
-  Window changes in rust-v0.139.0]]'
 - '[[Changes/Claude Code/2026-06-12-vscode-added-usage-attribution-to-the-account-usage-dialog-usage-showing-cache-m|VSCode
   Added usage attribution to the Account & usage dialog (/usage) showing…]]'
+- '[[Changes/Ollama/2026-06-12-improved-prompt-caching-by-decoupling-it-from-context-shift-for-better-kv-cache|Improved
+  prompt caching by decoupling it from context shift for better KV cache reuse]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-13-honor-max-output-tokens-for-byok-responses-providers|Honor
   max_output_tokens for BYOK Responses providers]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-06-15-rust-v0-140-0-github-339797498-eb64f8cb|codex-cli-2026-06-15-rust-v0-140-0-github-339797498-eb64f8cb]]'
@@ -119,7 +119,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.140.0
 ## Nearby in Context Window
 
 - Earlier: 2026-06-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-13-honor-max-output-tokens-for-byok-responses-providers|Honor max_output_tokens for BYOK Responses providers]]
-- Later: 2026-06-18 · Codex CLI · [[Changes/Codex CLI/2026-06-18-2-context-window-changes-in-rust-v0-141-0|2 Context Window changes in rust-v0.141.0]]
+- Later: 2026-06-15 · Ollama · [[Changes/Ollama/2026-06-15-ollama-will-now-return-an-error-if-a-single-message-is-larger-than-the-current-c|Ollama will now return an error if a single message is larger than the current…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

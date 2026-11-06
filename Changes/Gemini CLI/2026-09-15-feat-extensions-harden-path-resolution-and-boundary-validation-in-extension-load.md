@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: bb39a19b70cfc435f9c4a9a7caa48a330fd590239f4fd4d4660a42d5080661ea
+machine_hash: eb37e44f754359e0d2ca2a5e04150a8a276d425d997a0c2f346fdda24955cfb2
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -45,10 +45,9 @@ record:
     loader'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-09-14-you-can-change-your-health-permissions-anytime-in-settings-plugins-health-learn|You
-  can change your Health permissions anytime in Settings → Plugins → Health]]'
-- '[[Changes/Claude Code/2026-09-14-5-apps-and-integrations-changes-in-v2-1-271|5
-  Apps and Integrations changes in v2.1.271]]'
+- '[[Changes/ElevenLabs/2026-09-14-sdk-releases|SDK releases]]'
+- '[[Changes/Claude/2026-09-15-launching-salesforce-in-claude-beta|Launching Salesforce
+  in Claude (beta)]]'
 - '[[Changes/Claude Code/2026-09-15-3-apps-and-integrations-changes-in-v2-1-273|3
   Apps and Integrations changes in v2.1.273]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-09-15-v0-60-0-github-389459337-eff73549|gemini-cli-2026-09-15-v0-60-0-github-389459337-eff73549]]'
@@ -82,7 +81,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-09-15 · Claude Code · [[Changes/Claude Code/2026-09-15-3-apps-and-integrations-changes-in-v2-1-273|3 Apps and Integrations changes in v2.1.273]]
-- Later: 2026-09-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-16-20-apps-and-integrations-changes-in-v1-0-85|20 Apps and Integrations changes in v1.0.85]]
+- Later: 2026-09-15 · Lovable · [[Changes/Lovable/2026-09-15-connect-your-app-to-power-bi|Connect your app to Power BI]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

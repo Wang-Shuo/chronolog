@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ce8098e542ba52ae72ada32f705fd520d60dace032d7335f4885987da43ceb88
+machine_hash: 5aaecfdfb8f086a6e4d6d43acdf5c3ce9be5b2b027e5a09b589f9c4ab381a46a
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,12 +44,12 @@ record:
   title: 2 Context Window changes in rust-v0.104.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-02-14-shell-mode-pastes-raw-text-instead-of-paste-tokens|Shell
-  mode pastes raw text instead of paste tokens]]'
 - '[[Changes/Codex CLI/2026-02-17-4-context-window-changes-in-rust-v0-102-0|4 Context
   Window changes in rust-v0.102.0]]'
 - '[[Changes/Cursor/2026-02-17-agents-can-now-search-past-conversations-and-use-chat-history-as-context|Agents
   can now search past conversations and use chat history as context]]'
+- "[[Changes/Open WebUI/2026-02-17-image-and-file-attachment-handling-fixes-uploaded-images-are-now-correctly-sent|\U0001F5BC️
+  Image and file attachment handling fixes. Uploaded images are now correctly…]]"
 source_release: '[[Releases/Codex CLI/codex-cli-2026-02-18-rust-v0-104-0-github-287549221-f2e69b34|codex-cli-2026-02-18-rust-v0-104-0-github-287549221-f2e69b34]]'
 source_type: github_releases
 theme: context-window
@@ -85,7 +85,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.104.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-02-17 · Cursor · [[Changes/Cursor/2026-02-17-agents-can-now-search-past-conversations-and-use-chat-history-as-context|Agents can now search past conversations and use chat history as context]]
+- Earlier: 2026-02-17 · Open WebUI · [[Changes/Open WebUI/2026-02-17-image-and-file-attachment-handling-fixes-uploaded-images-are-now-correctly-sent|🖼️ Image and file attachment handling fixes. Uploaded images are now correctly…]]
 - Later: 2026-02-18 · Cursor · [[Changes/Cursor/2026-02-18-cli-now-stores-conversation-transcripts-that-the-agent-can-use-as-context|CLI now stores conversation transcripts that the agent can use as context]]
 <!-- chronolog:end -->
 

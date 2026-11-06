@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 575f27cfd8469009f87b77fd928cfd2a56006c76e9d10a34219ada13d00353c1
+machine_hash: 8a6c422c8a0e6458c2470110bdc1fbe9bcbd3ccf05e1ae8466442b3915f81a68
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,8 +45,8 @@ record:
   title: 2 Interface Experience changes in v1.0.39
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-24-subcommand-picker-shows-a-selection-indicator-next-to-the-highlighted-item|Subcommand
-  picker shows a selection indicator (❯) next to the highlighted item]]'
+- '[[Changes/Lovable/2026-04-24-dashboard-organization-and-navigation|Dashboard organization
+  and navigation]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-27-2-interface-experience-changes-in-v1-0-37|2
   Interface Experience changes in v1.0.37]]'
 - '[[Changes/Claude Code/2026-04-28-4-interface-experience-changes-in-v2-1-121|4 Interface
@@ -87,7 +87,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.39
 ## Nearby in Interface Experience
 
 - Earlier: 2026-04-28 · Claude Code · [[Changes/Claude Code/2026-04-28-4-interface-experience-changes-in-v2-1-121|4 Interface Experience changes in v2.1.121]]
-- Later: 2026-04-30 · Codex CLI · [[Changes/Codex CLI/2026-04-30-2-interface-experience-changes-in-rust-v0-128-0|2 Interface Experience changes in rust-v0.128.0]]
+- Later: 2026-04-29 · Dify · [[Changes/Dify/2026-04-29-10-interface-experience-changes-in-1-14-0|10 Interface Experience changes in 1.14.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4117afd21bf9b01deb5eea2c18b181df613a9c7073d829c5e68f7ca6cb47d241
+machine_hash: 4625b7824b9565fc721f28c642b144d9016e395fd5e9deb54c7b2989cde19837
 product: cursor
 product_name: Cursor
 record:
@@ -53,11 +53,12 @@ record:
   title: 'Linter: You can now turn on an AI linter in the "More" tab beside Chat'
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-01-15-working-wsl-codebase-search|Working WSL codebase search]]'
-- '[[Changes/Aider/2024-02-03-2-developer-workflow-changes-in-v0-23-0|2 Developer
-  Workflow changes in v0.23.0]]'
+- '[[Changes/Dify/2024-02-06-enhancement-introduce-ruff-for-python-linter-for-reordering-and-removing-unused|enhancement:
+  introduce Ruff for Python linter for reordering and removing unused…]]'
 - '[[Changes/Aider/2024-02-10-new-web-url-command-which-scrapes-the-url-turns-it-into-fairly-clean-markdown-an|New
   /web url command which scrapes the url, turns it into fairly clean markdown…]]'
+- '[[Changes/Dify/2024-02-13-3-developer-workflow-changes-in-0-5-5|3 Developer Workflow
+  changes in 0.5.5]]'
 source_release: '[[Releases/Cursor/cursor-2024-02-15-0-27-x-https-cursor-com-changelog-0-27-x-29975100|cursor-2024-02-15-0-27-x-https-cursor-com-changelog-0-27-x-29975100]]'
 source_type: cursor_changelog
 theme: developer-workflow
@@ -86,8 +87,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2024-02-10 · Aider · [[Changes/Aider/2024-02-10-new-web-url-command-which-scrapes-the-url-turns-it-into-fairly-clean-markdown-an|New /web url command which scrapes the url, turns it into fairly clean markdown…]]
-- Later: 2024-03-04 · Aider · [[Changes/Aider/2024-03-04-prevents-bug-where-subsequent-git-commit-of-those-files-will-fail|Prevents bug where subsequent git commit of those files will fail]]
+- Earlier: 2024-02-13 · Dify · [[Changes/Dify/2024-02-13-3-developer-workflow-changes-in-0-5-5|3 Developer Workflow changes in 0.5.5]]
+- Later: 2024-02-19 · Dify · [[Changes/Dify/2024-02-19-2-developer-workflow-changes-in-0-5-6|2 Developer Workflow changes in 0.5.6]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

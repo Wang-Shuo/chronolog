@@ -4,20 +4,20 @@ date: '2026-06-15'
 description: 'Codex CLI · 2026-06-15 · Image Generation: #27920 Handle standalone
   image generation failures as terminal items @won-openai'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2024-08-08-we-re-rolling-out-the-ability-for-chatgpt-free-users-to-create-up-to-two-images-2c505c|DALL·E
-    3 for ChatGPT Free users]]'
+  first_in_tracked: "[[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|\U0001F3A8
+    DALL-E Integration]]"
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 676
+  lag_days: 827
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ac399e420feecefefee291bb3ef5970ce9417f24fe54bb67e27d0c5f849ec61e
+machine_hash: 807aa968fd34e03f71745eb290091600ec45066c8da955c9b05b14abb46e9274
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -50,8 +50,8 @@ record:
   title: '#27920 Handle standalone image generation failures as terminal items @won-openai'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-01-3-image-generation-changes-in-rust-v0-136-0|3 Image
-  Generation changes in rust-v0.136.0]]'
+- "[[Changes/Open WebUI/2026-06-01-image-generation-with-non-standard-response-headers-image-generation-now-works-w|\U0001F58C️
+  Image generation with non-standard response headers. Image generation now…]]"
 - '[[Changes/Codex CLI/2026-06-04-3-image-generation-changes-in-rust-v0-137-0|3 Image
   Generation changes in rust-v0.137.0]]'
 - '[[Changes/Codex CLI/2026-06-08-2-image-generation-changes-in-rust-v0-138-0|2 Image
@@ -102,13 +102,13 @@ type: change
 ## Nearby in Image Generation
 
 - Earlier: 2026-06-08 · Codex CLI · [[Changes/Codex CLI/2026-06-08-2-image-generation-changes-in-rust-v0-138-0|2 Image Generation changes in rust-v0.138.0]]
-- Later: 2026-07-08 · Codex CLI · [[Changes/Codex CLI/2026-07-08-3-image-generation-changes-in-rust-v0-143-0|3 Image Generation changes in rust-v0.143.0]]
+- Later: 2026-06-22 · Lovable · [[Changes/Lovable/2026-06-22-better-standard-image-generation-while-building|Better standard image generation while building]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-08-08 · ChatGPT · [[Changes/ChatGPT/2024-08-08-we-re-rolling-out-the-ability-for-chatgpt-free-users-to-create-up-to-two-images-2c505c|DALL·E 3 for ChatGPT Free users]]
+- Earliest same-theme entry in the tracked set: 2024-03-10 · Open WebUI · [[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|🎨 DALL-E Integration]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

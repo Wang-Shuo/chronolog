@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2277c15ed2a94e3c029d7a9ab6e043c6d28c58f72b1808d2b670d7b375948a84
+machine_hash: 0be1350bf8c18f89289d2dba1292951dcad840e26558a26ebe2a7963937715dd
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -39,10 +39,10 @@ record:
   title: '#13617 Update models.json @aibrahim-oai'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-05-2-model-support-changes-in-rust-v0-110-0|2 Model
-  Support changes in rust-v0.110.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-05-add-support-for-gpt-5-4-model|Add support
   for GPT-5.4 model]]'
+- '[[Changes/Ollama/2026-03-05-allow-thinking-levels-such-as-medium-to-correctly-interpreted-in-ollama-s-api-fo|Allow
+  thinking levels such as "medium" to correctly interpreted in Ollama''s API…]]'
 - '[[Changes/Cline/2026-03-06-added-gpt-5-4-models-for-chatgpt-subscription-users|Added
   GPT-5.4 models for ChatGPT subscription users]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-03-08-rust-v0-112-0-github-294459110-d90013b5|codex-cli-2026-03-08-rust-v0-112-0-github-294459110-d90013b5]]'
@@ -78,7 +78,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-03-06 · Cline · [[Changes/Cline/2026-03-06-added-gpt-5-4-models-for-chatgpt-subscription-users|Added GPT-5.4 models for ChatGPT subscription users]]
-- Later: 2026-03-10 · Codex CLI · [[Changes/Codex CLI/2026-03-10-14123-pass-on-save-info-to-model-ui-tweaks-won-openai|♯14123 pass on save info to model + ui tweaks @won-openai]]
+- Later: 2026-03-08 · Open WebUI · [[Changes/Open WebUI/2026-03-08-9-model-support-changes-in-v0-8-9|9 Model Support changes in v0.8.9]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

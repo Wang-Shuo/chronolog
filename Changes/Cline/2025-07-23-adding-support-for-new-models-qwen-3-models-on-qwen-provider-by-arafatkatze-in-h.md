@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 99705e8931cb0ec6b6de8e36e78659d15ae37b2e688523245ac0933bde8ed09d
+machine_hash: c17ded39c40260d5bcb52c84e9b7f267ed4397aa2b93aad957db02ca096efd57
 product: cline
 product_name: Cline
 record:
@@ -44,10 +44,10 @@ record:
   title: Adding support for new models Qwen 3 models on Qwen provider
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-07-19-as-of-https-github-com-openai-codex-pull-1594-we-now-stream-the-response-from-th|As
-  of (source link) we now stream the response…]]'
 - '[[Changes/Gemini CLI/2025-07-19-4-model-support-changes-in-v0-1-13|4 Model Support
   changes in v0.1.13]]'
+- "[[Changes/Open WebUI/2025-07-19-chat-id-header-forwarding-ollama-and-openai-router-requests-now-include-the-chat|\U0001F4E1
+  Chat ID Header Forwarding]]"
 - '[[Changes/Cline/2025-07-22-separate-plan-act-model-settings-by-celestial-vault-in-https-github-com-cline-cl|Separate
   plan act model settings]]'
 source_release: '[[Releases/Cline/cline-2025-07-23-v3-20-0-github-234416918-c781a873|cline-2025-07-23-v3-20-0-github-234416918-c781a873]]'
@@ -79,7 +79,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2025-07-22 · Cline · [[Changes/Cline/2025-07-22-separate-plan-act-model-settings-by-celestial-vault-in-https-github-com-cline-cl|Separate plan act model settings]]
-- Later: 2025-07-24 · OpenHands · [[Changes/OpenHands/2025-07-24-2-model-support-changes-in-0-50-0|2 Model Support changes in 0.50.0]]
+- Later: 2025-07-23 · Dify · [[Changes/Dify/2025-07-23-2-model-support-changes-in-1-7-0|2 Model Support changes in 1.7.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

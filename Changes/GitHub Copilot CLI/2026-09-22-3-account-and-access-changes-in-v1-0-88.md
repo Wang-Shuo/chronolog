@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7d312db8e0078e08285edc84ccb8994c9368540cb242212fbf8bda82897cfe9b
+machine_hash: a6015904b3bbbe1257f676900c23eab72a8dd5bb900e82e8547e7da5a107a7fc
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -47,8 +47,8 @@ record:
   title: 3 Account and Access changes in v1.0.88
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-09-21-managed-plugin-commands-load-organization-marketplace-policy-with-environment-gi|Managed
-  plugin commands load organization marketplace policy with environment…]]'
+- '[[Changes/Open WebUI/2026-09-21-6-account-and-access-changes-in-v0-11-4|6 Account
+  and Access changes in v0.11.4]]'
 - '[[Changes/Claude Code/2026-09-22-claude-tag-improved-the-github-banner-in-claude-tag-admin-settings-to-say-why-gi|Claude
   Tag Improved the GitHub banner in Claude Tag admin settings to say why…]]'
 - '[[Changes/Codex CLI/2026-09-22-13-account-and-access-changes-in-rust-v0-156-0|13

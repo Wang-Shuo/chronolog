@@ -5,20 +5,20 @@ description: 'Gemini CLI · 2025-07-25 · Automation and Scheduling: 4 changes i
   v0.1.14 — Introduce loop detection service that breaks simple loop by @SandyTao520
   in…'
 diffusion:
-  first_in_tracked: '[[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better
-    syntax error loop detection]]'
+  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
+    data clean schedule]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 324
+  lag_days: 570
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 36fd8ca5b9bcab82cb0be7291d525c5acc7b1e3f6c057a5843b6d675822a8705
+machine_hash: 058f10c8538b426cb3075bf95113f2d7d1dc06b1bccc73960e19a60da80100c1
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -48,8 +48,8 @@ record:
   title: 4 Automation and Scheduling changes in v0.1.14
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-07-11-feat-handle-inline-content-modification-in-tool-scheduler-by-adamfweidman-in-htt|feat:
-  Handle inline content modification in tool scheduler]]'
+- '[[Changes/Open WebUI/2025-07-14-2-automation-and-scheduling-changes-in-v0-6-16|2
+  Automation and Scheduling changes in v0.6.16]]'
 - '[[Changes/Gemini CLI/2025-07-19-2-automation-and-scheduling-changes-in-v0-1-13|2
   Automation and Scheduling changes in v0.1.13]]'
 - '[[Changes/Cline/2025-07-22-automate-announcement-display-for-major-minor-releases-by-kvyb-in-https-github-c|automate
@@ -109,7 +109,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.1.14
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-09-04 · OpenHands · [[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better syntax error loop detection]]
+- Earliest same-theme entry in the tracked set: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

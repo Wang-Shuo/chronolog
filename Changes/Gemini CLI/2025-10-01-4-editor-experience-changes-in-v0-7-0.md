@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e8f41c3562646e9fa44700ee515163693d626fa0f5942fb13c845215f8f41333
+machine_hash: 33443639cd340daa3b6a3df831335b9f467a8f5f20c255dc30b477e40cb00901
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -49,11 +49,12 @@ record:
   title: 4 Editor Experience changes in v0.7.0
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-09-29-pr-summaries-from-bugbot|PR summaries from Bugbot]]'
 - '[[Changes/GitHub Copilot CLI/2025-09-29-4-editor-experience-changes-in-v0-0-329|4
   Editor Experience changes in v0.0.329]]'
 - '[[Changes/GitHub Copilot CLI/2025-09-29-this-is-our-second-release-today-be-sure-to-check-out-the-list-of-changes-in-0-0|This
   is our second release today -- be sure to check out the list of changes…]]'
+- '[[Changes/Open WebUI/2025-09-29-a-warning-is-now-displayed-in-the-user-edit-modal-if-conflicting-group-permissio|⚠️
+  A warning is now displayed in the user edit modal if conflicting group…]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-10-01-v0-7-0-github-251548156-78585420|gemini-cli-2025-10-01-v0-7-0-github-251548156-78585420]]'
 source_type: github_releases
 theme: editor-experience
@@ -97,7 +98,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.7.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2025-09-29 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-09-29-this-is-our-second-release-today-be-sure-to-check-out-the-list-of-changes-in-0-0|This is our second release today -- be sure to check out the list of changes…]]
+- Earlier: 2025-09-29 · Open WebUI · [[Changes/Open WebUI/2025-09-29-a-warning-is-now-displayed-in-the-user-edit-modal-if-conflicting-group-permissio|⚠️ A warning is now displayed in the user edit modal if conflicting group…]]
 - Later: 2025-10-01 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-10-01-2-editor-experience-changes-in-v0-0-331|2 Editor Experience changes in v0.0.331]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: d5c85f239a5af71cc8f6faefac53684bdc26bc4c58bc4a59e4d3725d2075d13c
+machine_hash: fe73caf1e8d5d44ed7396902625f0aa7281b6bc69a1d3f5d7438c3147add4f2b
 product: cline
 product_name: Cline
 record:
@@ -45,12 +45,9 @@ record:
   title: Add new 'Create New Task' tool to let Cline start a new task autonomously!
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-03-07-3-agent-mode-changes-in-0-28-0|3 Agent Mode changes
-  in 0.28.0]]'
-- '[[Changes/OpenHands/2025-03-10-improve-agent-loop-tracking-by-rbren-in-https-github-com-all-hands-ai-openhands|Improve
-  agent loop tracking]]'
-- '[[Changes/Cursor/2025-03-23-built-in-modes-custom-modes-beta|Built-in modes & custom
-  modes (beta)]]'
+- '[[Changes/Replit/2025-04-04-agent-reliability-improvements|Agent reliability improvements]]'
+- '[[Changes/ElevenLabs/2025-04-07-agents-platform|Agents Platform]]'
+- '[[Changes/ElevenLabs/2025-04-07-agents-platform-b2e925|Agents Platform]]'
 source_release: '[[Releases/Cline/cline-2025-04-09-v3-10-1-github-211238675-e7306060|cline-2025-04-09-v3-10-1-github-211238675-e7306060]]'
 source_type: github_releases
 theme: agent-mode
@@ -80,7 +77,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2025-03-23 · Cursor · [[Changes/Cursor/2025-03-23-built-in-modes-custom-modes-beta|Built-in modes & custom modes (beta)]]
+- Earlier: 2025-04-07 · ElevenLabs · [[Changes/ElevenLabs/2025-04-07-agents-platform-b2e925|Agents Platform]]
 - Later: 2025-04-10 · OpenHands · [[Changes/OpenHands/2025-04-10-prompt-agent-to-follow-existing-pr-template-when-create-new-pr-by-xingyaoww-in-h|Prompt agent to follow existing PR template when create new PR]]
 <!-- chronolog:end -->
 

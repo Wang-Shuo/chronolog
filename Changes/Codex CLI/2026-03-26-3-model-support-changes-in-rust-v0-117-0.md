@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 65397ad209c6a88edb99e48a9beaa2cc2f5e8c4881c25b9df0ddac7c934a474a
+machine_hash: e66cc2615050ff222593cb0e2ec89672f6c771471d9a1f6978d6d164473cf2d4
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -47,10 +47,10 @@ record:
   title: 3 Model Support changes in rust-v0.117.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-23-ensure-models-appear-in-picker-correctly-display-model-names-where-possible|Ensure
-  models appear in picker correctly, display model names where possible]]'
-- '[[Changes/Gemini CLI/2026-03-24-7-model-support-changes-in-v0-35-0|7 Model Support
-  changes in v0.35.0]]'
+- '[[Changes/Ollama/2026-03-25-if-you-have-ollama-installed-any-local-or-cloud-model-from-ollama-can-be-selecte|If
+  you have Ollama installed, any local or cloud model from Ollama can be selected…]]'
+- '[[Changes/Open WebUI/2026-03-25-23-model-support-changes-in-v0-8-11|23 Model Support
+  changes in v0.8.11]]'
 - '[[Changes/Claude Code/2026-03-26-added-anthropic-default-opus-sonnet-haiku-model-supports-env-vars-to-override-ef|Added
   ANTHROPIC_DEFAULT{OPUS,SONNET,HAIKU}MODEL_SUPPORTS env vars to override…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-03-26-rust-v0-117-0-github-302123790-7cb322b6|codex-cli-2026-03-26-rust-v0-117-0-github-302123790-7cb322b6]]'

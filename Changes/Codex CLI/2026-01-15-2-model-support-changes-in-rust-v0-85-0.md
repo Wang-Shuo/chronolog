@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 43b78f1a1eb74a8cae13fb54aa2aeb6f77e48f4331a07402d486f4f3f1b4f89f
+machine_hash: ae20ede3fcb6c8e2f6af305ad1dbdb35b17ac7f2082dc3ddae32e261062c1f3d
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -85,7 +85,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.85.0
 ## Nearby in Model Support
 
 - Earlier: 2026-01-15 · Cline · [[Changes/Cline/2026-01-15-adding-openai-gpt-5-2-codex-model-to-the-model-picker|Adding OpenAI gpt-5.2-codex model to the model picker]]
-- Later: 2026-01-16 · Claude Code · [[Changes/Claude Code/2026-01-16-added-support-for-pretooluse-hooks-to-return-additionalcontext-to-the-model|Added support for PreToolUse hooks to return additionalContext to the model]]
+- Later: 2026-01-15 · v0 · [[Changes/v0/2026-01-15-improved-model-selection-to-persist-per-user-per-team|Improved model selection to persist per user per team]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

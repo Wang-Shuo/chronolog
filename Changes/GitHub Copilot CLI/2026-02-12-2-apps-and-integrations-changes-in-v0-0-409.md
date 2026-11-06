@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3b62266ccf6291313174689dfd38bd5c6144a4d8c42a0ee2cb9d904380c1f1aa
+machine_hash: 2c4b6d3cdabdadf270c842165224919c3c8bfa301e214e7da1a04e85f6e70481
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -87,7 +87,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v0.0.409
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-02-12 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-12-mcp-servers-respect-the-cwd-working-directory-property|MCP servers respect the cwd working directory property]]
-- Later: 2026-02-14 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-14-3-apps-and-integrations-changes-in-v0-0-410|3 Apps and Integrations changes in v0.0.410]]
+- Later: 2026-02-12 · Open WebUI · [[Changes/Open WebUI/2026-02-12-6-apps-and-integrations-changes-in-v0-8-0|6 Apps and Integrations changes in v0.8.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

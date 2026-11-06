@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 73e118a34162fb95dcca47fb9bea0f238b8976be2cdf9ffb62cf27032e4ea5da
+machine_hash: 1def06c0718af39ac4c871bc54a788d995a1fef11b943cc148fb6e2c15e80610
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,10 +43,10 @@ record:
   title: '[#3857] Make ESC button work when auto-compaction (#3857)'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-09-15-3-context-window-changes-in-rust-v0-36-0|3 Context
-  Window changes in rust-v0.36.0]]'
 - '[[Changes/Gemini CLI/2025-09-17-2-context-window-changes-in-v0-5-3|2 Context Window
   changes in v0.5.3]]'
+- '[[Changes/Open WebUI/2025-09-17-2-context-window-changes-in-v0-6-29|2 Context Window
+  changes in v0.6.29]]'
 - '[[Changes/Cline/2025-09-18-pass-max-tokens-to-moonshot-provider-by-canvrno-in-https-github-com-cline-cline|Pass
   max_tokens to moonshot provider]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-09-18-rust-v0-39-0-github-248440234-e03f419b|codex-cli-2025-09-18-rust-v0-39-0-github-248440234-e03f419b]]'
@@ -80,7 +80,7 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2025-09-18 · Cline · [[Changes/Cline/2025-09-18-pass-max-tokens-to-moonshot-provider-by-canvrno-in-https-github-com-cline-cline|Pass max_tokens to moonshot provider]]
-- Later: 2025-09-23 · Codex CLI · [[Changes/Codex CLI/2025-09-23-4093-chore-enable-auto-compaction-for-gpt-5-codex-4093|♯4093 chore: enable auto-compaction for gpt-5-codex (♯4093)]]
+- Later: 2025-09-18 · Gemini · [[Changes/Gemini/2025-09-18-your-custom-gems-are-now-shareable|Your Custom Gems are Now Shareable]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

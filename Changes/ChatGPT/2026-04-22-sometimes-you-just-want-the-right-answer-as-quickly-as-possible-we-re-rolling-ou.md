@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1025a0e5cc8cbecf426665a87a96305421a95c429c8c80f451e0a635eab484c7
+machine_hash: 9a1862995628e8df7e445a10ce928046e99b878ce8c0b25dc17ed1b28669ae10
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -71,12 +71,11 @@ record:
   title: Fast answers in ChatGPT
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-04-15-9-memory-and-personalization-changes-in-rust-v0-121-0|9
-  Memory and Personalization changes in rust-v0.121.0]]'
-- '[[Changes/GitHub Copilot CLI/2026-04-16-custom-instructions-and-skills-refresh-from-disk-after-clear-or-new|Custom
-  instructions and skills refresh from disk after /clear or /new]]'
 - '[[Changes/Codex CLI/2026-04-20-4-memory-and-personalization-changes-in-rust-v0-122-0|4
   Memory and Personalization changes in rust-v0.122.0]]'
+- '[[Changes/ElevenLabs/2026-04-20-elevenagents-d2ebb2|ElevenAgents]]'
+- '[[Changes/Open WebUI/2026-04-21-7-memory-and-personalization-changes-in-v0-9-0|7
+  Memory and Personalization changes in v0.9.0]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-04-22-fast-answers-in-chatgpt-300ebea9|chatgpt-2026-04-22-fast-answers-in-chatgpt-300ebea9]]'
 source_type: chatgpt_changelog
 theme: memory
@@ -103,7 +102,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2026-04-20 · Codex CLI · [[Changes/Codex CLI/2026-04-20-4-memory-and-personalization-changes-in-rust-v0-122-0|4 Memory and Personalization changes in rust-v0.122.0]]
+- Earlier: 2026-04-21 · Open WebUI · [[Changes/Open WebUI/2026-04-21-7-memory-and-personalization-changes-in-v0-9-0|7 Memory and Personalization changes in v0.9.0]]
 - Later: 2026-04-23 · Codex CLI · [[Changes/Codex CLI/2026-04-23-18973-chore-prep-memories-for-ab-jif-oai|♯18973 chore: prep memories for AB @jif-oai]]
 <!-- chronolog:end -->
 

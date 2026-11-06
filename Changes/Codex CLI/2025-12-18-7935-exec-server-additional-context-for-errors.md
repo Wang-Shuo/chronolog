@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 22396fc7da54ee18440bd8cabbcfff3cf6b22b711ea24f8ab0313b2387a32d4e
+machine_hash: 6ab54c5ee9a0d6159e73667e71f76c0d43c1ab5506adde916e25397de5624e58
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -40,10 +40,10 @@ record:
   title: '#7935 exec-server: additional context for errors'
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-12-09-feat-core-implement-jit-context-manager-and-setting-by-sandytao520-in-https-gith|feat(core):
-  Implement JIT context manager and setting]]'
-- '[[Changes/Cline/2025-12-11-2-context-window-changes-in-v3-41-0|2 Context Window
-  changes in v3.41.0]]'
+- '[[Changes/Dify/2025-12-11-2-context-window-changes-in-1-11-0|2 Context Window changes
+  in 1.11.0]]'
+- '[[Changes/v0/2025-12-16-you-can-now-securely-connect-v0-to-your-notion-workspace-to-build-using-your-tea|Build
+  with Notion via MCP]]'
 - '[[Changes/Cline/2025-12-17-added-support-for-dynamic-tool-instructions-that-adapt-based-on-runtime-context|Added
   support for dynamic tool instructions that adapt based on runtime context…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-12-18-rust-v0-74-0-github-271533952-972d825a|codex-cli-2025-12-18-rust-v0-74-0-github-271533952-972d825a]]'

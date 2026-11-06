@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e9df32498c3d7a10fb1f68ffc8b865236e90a7f4820074cfed74ea9a7aa53f85
+machine_hash: df57560d61eb47a073704520f04e3609a168d469a7148ab07ff6423b1587db68
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -46,12 +46,12 @@ record:
     without…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-05-08-2-editor-experience-changes-in-rust-v0-130-0|2 Editor
-  Experience changes in rust-v0.130.0]]'
-- '[[Changes/GitHub Copilot CLI/2026-05-08-2-editor-experience-changes-in-v1-0-44|2
-  Editor Experience changes in v1.0.44]]'
+- "[[Changes/Open WebUI/2026-05-10-url-parser-ssrf-bypass-url-validation-now-rejects-backslash-tab-cr-and-lf-charac|\U0001F6E1️
+  URL parser SSRF bypass. URL validation now rejects backslash, tab, CR, and LF…]]"
 - '[[Changes/Claude Code/2026-05-11-vscode-press-cmd-ctrl-shift-t-to-reopen-the-most-recently-closed-session-tab-con|VSCode
   Press Cmd/Ctrl+Shift+T to reopen the most recently closed session tab…]]'
+- '[[Changes/Dify/2026-05-12-2-editor-experience-changes-in-1-14-1|2 Editor Experience
+  changes in 1.14.1]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-05-12-v1-0-46-github-321427031-1da5ecd0|github-copilot-cli-2026-05-12-v1-0-46-github-321427031-1da5ecd0]]'
 source_type: github_releases
 theme: editor-experience
@@ -83,8 +83,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-05-11 · Claude Code · [[Changes/Claude Code/2026-05-11-vscode-press-cmd-ctrl-shift-t-to-reopen-the-most-recently-closed-session-tab-con|VSCode Press Cmd/Ctrl+Shift+T to reopen the most recently closed session tab…]]
-- Later: 2026-05-13 · Cursor · [[Changes/Cursor/2026-05-13-improved-pr-tabs-by-adding-clearer-review-states-better-reviewer-thread-visibili|Improved PR tabs by adding clearer review states, better reviewer/thread visibility…]]
+- Earlier: 2026-05-12 · Dify · [[Changes/Dify/2026-05-12-2-editor-experience-changes-in-1-14-1|2 Editor Experience changes in 1.14.1]]
+- Later: 2026-05-12 · v0 · [[Changes/v0/2026-05-12-the-vs-code-editor-in-your-chats-autosaves-by-default-with-a-new-vercel-light-th|The VS Code editor in your chats autosaves by default, with a new Vercel Light theme…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

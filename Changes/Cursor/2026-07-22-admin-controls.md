@@ -5,20 +5,20 @@ description: 'Cursor · 2026-07-22 · Enterprise and Administration: Admins can 
   the router per team or group, restrict which optimization modes members can use,
   set the…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin
-    improvements: Team admins can now mark themselves as unpaid users and can see…]]'
+  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
+    for Google Workspace accounts]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 854
+  lag_days: 1174
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 8d62769776a52b2c5996b87421e4726ddb4410082771356f92b296b90e6f5d34
+machine_hash: feac0a2ebaf81b3c295c5d7d50d6411cb528f14b44df308888b0c91073fe47e6
 product: cursor
 product_name: Cursor
 record:
@@ -48,12 +48,12 @@ record:
   title: Admin controls
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-07-09-in-enterprise-workspaces-public-publishing-is-off-by-default-and-must-be-enabled|In
-  Enterprise workspaces, public publishing is off by default and must be enabled…]]'
-- '[[Changes/GitHub Copilot CLI/2026-07-10-long-running-sessions-refresh-enterprise-managed-settings-hourly|Long-running
-  sessions refresh enterprise managed settings hourly]]'
 - '[[Changes/Claude Code/2026-07-15-changed-usage-credits-to-ask-for-confirmation-before-sending-a-request-to-organi|Changed
   /usage-credits to ask for confirmation before sending a request…]]'
+- '[[Changes/Dify/2026-07-17-2-enterprise-and-administration-changes-in-1-16-0|2 Enterprise
+  and Administration changes in 1.16.0]]'
+- '[[Changes/v0/2026-07-21-enterprise-managed-users-are-surfaced-in-the-web-ui-and-their-profiles-are-alway|Enterprise
+  Managed Users are surfaced in the web UI, and their profiles are always private]]'
 source_release: '[[Releases/Cursor/cursor-2026-07-22-cursor-router-https-cursor-com-changelog-router-af8c2ac4|cursor-2026-07-22-cursor-router-https-cursor-com-changelog-router-af8c2ac4]]'
 source_type: cursor_changelog
 theme: enterprise-admin
@@ -90,14 +90,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-07-15 · Claude Code · [[Changes/Claude Code/2026-07-15-changed-usage-credits-to-ask-for-confirmation-before-sending-a-request-to-organi|Changed /usage-credits to ask for confirmation before sending a request…]]
-- Later: 2026-07-29 · Codex CLI · [[Changes/Codex CLI/2026-07-29-2-enterprise-and-administration-changes-in-rust-v0-146-0|2 Enterprise and Administration changes in rust-v0.146.0]]
+- Earlier: 2026-07-21 · v0 · [[Changes/v0/2026-07-21-enterprise-managed-users-are-surfaced-in-the-web-ui-and-their-profiles-are-alway|Enterprise Managed Users are surfaced in the web UI, and their profiles are always private]]
+- Later: 2026-07-24 · Lovable · [[Changes/Lovable/2026-07-24-editors-can-see-build-secret-names|Editors can see build secret names]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-03-20 · Cursor · [[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin improvements: Team admins can now mark themselves as unpaid users and can see…]]
+- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

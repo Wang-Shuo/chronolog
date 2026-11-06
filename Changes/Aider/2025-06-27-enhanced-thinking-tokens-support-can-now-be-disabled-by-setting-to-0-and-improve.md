@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: bdcc6d1ea75cce4c361f0181ed1ae767d8445ee210f7574235f1de4a5240bbcf
+machine_hash: 567a51da5779123b7a97ffbe61f8ef0073d2b8fe0eb99d008f1b12ab0851f9e9
 product: aider
 product_name: Aider
 record:
@@ -44,12 +44,12 @@ record:
   title: Enhanced thinking tokens support
   type: change
 related_changes:
-- '[[Changes/Aider/2025-05-30-2-context-window-changes-in-v0-84-0|2 Context Window
-  changes in v0.84.0]]'
-- '[[Changes/Cline/2025-06-10-prioritize-active-files-open-tabs-at-the-top-of-the-file-context-menu-when-using|Prioritize
-  active files (open tabs) at the top of the file context menu when using…]]'
 - '[[Changes/OpenHands/2025-06-20-2-context-window-changes-in-0-43-0|2 Context Window
   changes in 0.43.0]]'
+- '[[Changes/Dify/2025-06-25-feat-add-a-flask-context-manager-by-laipz8200-in-https-github-com-langgenius-dif|feat:
+  add a flask_context_manager]]'
+- '[[Changes/Ollama/2025-06-25-ollama-will-now-limit-context-length-to-what-the-model-was-trained-against-to-av|Ollama
+  will now limit context length to what the model was trained against to avoid…]]'
 source_release: '[[Releases/Aider/aider-2025-06-27-v0-85-0-github-228491827-20a4ecc7|aider-2025-06-27-v0-85-0-github-228491827-20a4ecc7]]'
 source_type: github_releases
 theme: context-window
@@ -84,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2025-06-20 · OpenHands · [[Changes/OpenHands/2025-06-20-2-context-window-changes-in-0-43-0|2 Context Window changes in 0.43.0]]
+- Earlier: 2025-06-25 · Ollama · [[Changes/Ollama/2025-06-25-ollama-will-now-limit-context-length-to-what-the-model-was-trained-against-to-av|Ollama will now limit context length to what the model was trained against to avoid…]]
 - Later: 2025-07-03 · Cursor · [[Changes/Cursor/2025-07-03-pr-indexing-search|PR indexing & search]]
 <!-- chronolog:end -->
 

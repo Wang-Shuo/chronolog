@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: policy
-machine_hash: f2cb5e4922e2f4c8439988d8c0f2ef1cb65d343fd181260c3920329ff471cd6a
+machine_hash: d4127d98ae4014aa5fef96537464a362a72c198710b53363088fb1883f446526
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -49,8 +49,8 @@ record:
   title: Retiring GPT-4o and other legacy models
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-01-27-2-model-support-changes-in-rust-v0-92-0|2 Model
-  Support changes in rust-v0.92.0]]'
+- '[[Changes/Ollama/2026-01-27-new-ollama-launch-clawdbot-command-for-launching-clawdbot-using-ollama-models|New
+  ollama launch clawdbot command for launching Clawdbot using Ollama models]]'
 - '[[Changes/Cline/2026-01-28-2-model-support-changes-in-v3-55-0|2 Model Support changes
   in v3.55.0]]'
 - '[[Changes/Gemini CLI/2026-01-28-4-model-support-changes-in-v0-26-0|4 Model Support
@@ -82,7 +82,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-01-28 · Gemini CLI · [[Changes/Gemini CLI/2026-01-28-4-model-support-changes-in-v0-26-0|4 Model Support changes in v0.26.0]]
-- Later: 2026-01-30 · Cline · [[Changes/Cline/2026-01-30-litellm-fixed-thinking-configuration-not-appearing-for-reasoning-capable-models|_LiteLLM: Fixed thinking configuration not appearing for reasoning-capable models]]
+- Later: 2026-01-30 · Cline · [[Changes/Cline/2026-01-30-litellm-fixed-thinking-configuration-not-appearing-for-reasoning-capable-models|LiteLLM: Fixed thinking configuration not appearing for reasoning-capable models]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

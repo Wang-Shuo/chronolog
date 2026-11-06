@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: efdd3190c07c64aa04c33bd8fdabffeeae3d1a8f919fe7a34b04736f34012ef2
+machine_hash: 7560e9653d1bd83752650202f980eb8df5b65becfe0d32e493a263243482e3d0
 product: cursor
 product_name: Cursor
 record:
@@ -42,8 +42,8 @@ record:
   title: Dev containers are now supported!
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-10-20-also-there-s-an-experimental-bash-mode-enable-it-in-the-settings-and-let-the-cha|Also,
-  there''s an experimental bash mode]]'
+- '[[Changes/Ollama/2024-01-03-added-shortcuts-help-command-to-ollama-run-to-list-keyboard-shortcuts|Added
+  /? shortcuts help command to ollama run to list keyboard shortcuts]]'
 - '[[Changes/Aider/2024-01-04-improved-unicode-encoding-for-run-command-output-by-ctoth|Improved
   unicode encoding for /run command output, by @ctoth]]'
 - '[[Changes/Cursor/2024-01-06-wsl-and-dev-containers-should-now-work-properly|Better
@@ -78,7 +78,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2024-01-06 · Cursor · [[Changes/Cursor/2024-01-06-wsl-and-dev-containers-should-now-work-properly|Better Remote Support]]
-- Later: 2024-01-15 · Cursor · [[Changes/Cursor/2024-01-15-working-wsl-codebase-search|Working WSL codebase search]]
+- Later: 2024-01-11 · Dify · [[Changes/Dify/2024-01-11-improvement-introduce-super-linter-actions-to-check-style-for-shell-script-docke|improvement: introduce Super-Linter actions to check style for shell script…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: d2b16378c46826c5b339892dcfbaac283131c498ced098d9c113af1ec5fba774
+machine_hash: 738609e1ce3b226264356c7fe8556aa869911eba1a7781581f9f98f8ac6c5405
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -51,10 +51,10 @@ record:
     ChatGPT…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-28-7-model-support-changes-in-rust-v0-158-0|7 Model
-  Support changes in rust-v0.158.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-28-5-model-support-changes-in-v1-0-89|5 Model
   Support changes in v1.0.89]]'
+- '[[Changes/Ollama/2026-09-28-3-model-support-changes-in-v0-35-0|3 Model Support
+  changes in v0.35.0]]'
 - '[[Changes/ChatGPT/2026-09-29-gpt-6-1-sol-improves-on-gpt-6-sol-in-agentic-coding-computer-use-and-professiona-815850|GPT-6.1
   Sol in ChatGPT Work and Codex]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-29-use-your-chatgpt-allowance-in-participating-apps-aecfcdb3|chatgpt-2026-09-29-use-your-chatgpt-allowance-in-participating-apps-aecfcdb3]]'

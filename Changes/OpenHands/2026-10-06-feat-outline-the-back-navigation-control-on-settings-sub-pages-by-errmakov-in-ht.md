@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b8c00076227dd5a5649b1296d571caa3cbb78c1c205be6f2edc69f4591b48ada
+machine_hash: 25238560395a9ef409784f6cf9ee99ea4cc8da6e7b24067126764d0a40823be8
 product: openhands
 product_name: OpenHands
 record:
@@ -42,8 +42,7 @@ record:
   title: 'feat: outline the back navigation control on settings sub-pages'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-02-added-ui-selection-for-mods-returns-the-text-you-last-selected-in-fullscreen-mod|Added
-  $.ui.selection() for mods]]'
+- '[[Changes/Replit/2026-10-02-new-settings-page|New Settings page]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-05-add-a-pre-conversation-ctrl-e-environment-picker-to-switch-between-local-and-clo|Add
   a pre-conversation Ctrl+E environment picker to switch between local and cloud runs]]'
 - '[[Changes/Claude Code/2026-10-06-improved-the-focus-tip-it-now-invites-you-to-try-focus-view-mid-turn-and-shows-h|Improved

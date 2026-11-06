@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a7f2e27336e66f8a38fab8a4552ad4f11fcf9efbb621d1026567e2079b244d75
+machine_hash: 34dbcd616a2bc15e61d2ea44b519673e1c07cc0383416ca19d7d91bd3cbb7c0b
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -47,12 +47,12 @@ record:
   title: 3 Account and Access changes in v1.0.100
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-14-improved-the-error-shown-when-a-cloud-session-is-refused-because-your-claude-ai|Improved
-  the error shown when a cloud session is refused because your claude.ai…]]'
-- '[[Changes/Codex CLI/2026-10-15-53389-use-cached-login-credentials-for-guardian-decisions-swastik-oai|♯53389
-  Use cached login credentials for Guardian decisions @swastik-oai]]'
 - '[[Changes/Claude Code/2026-10-16-added-a-notice-to-design-sync-and-design-login-that-standalone-claude-design-cla|Added
   a notice to /design-sync and /design-login that standalone Claude Design…]]'
+- '[[Changes/Lovable/2026-10-16-add-oidc-sign-in-to-your-app|Add OIDC sign-in to your
+  app]]'
+- '[[Changes/Open WebUI/2026-10-16-2-account-and-access-changes-in-v0-12-3|2 Account
+  and Access changes in v0.12.3]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-10-19-v1-0-100-github-417622960-9e2e7578|github-copilot-cli-2026-10-19-v1-0-100-github-417622960-9e2e7578]]'
 source_type: github_releases
 theme: account-access
@@ -100,7 +100,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.100
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-10-16 · Claude Code · [[Changes/Claude Code/2026-10-16-added-a-notice-to-design-sync-and-design-login-that-standalone-claude-design-cla|Added a notice to /design-sync and /design-login that standalone Claude Design…]]
+- Earlier: 2026-10-16 · Open WebUI · [[Changes/Open WebUI/2026-10-16-2-account-and-access-changes-in-v0-12-3|2 Account and Access changes in v0.12.3]]
 - Later: 2026-10-20 · ChatGPT · [[Changes/ChatGPT/2026-10-20-locked-chats-let-you-keep-selected-conversations-in-your-account-while-hiding-th|Introducing locked chats]]
 <!-- chronolog:end -->
 

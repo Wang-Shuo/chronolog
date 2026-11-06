@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ef4063b2fe16c1f1e01ed0630ef9f9a36926b63c4cf491d1aa81a35eabf07b13
+machine_hash: bda18b24f82c650de1e878ea28cb99df08ade2a0dcc39a7de6b42f7c945efbf8
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,10 +48,9 @@ record:
   title: 3 Developer Workflow changes in v2.1.267
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-04-3-developer-workflow-changes-in-v2-1-261|3 Developer
-  Workflow changes in v2.1.261]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-04-detect-the-herdr-terminal-multiplexer-instead-of-mistaking-it-for-tmux-so-the-ki|Detect
   the herdr terminal multiplexer instead of mistaking it for tmux, so the Kitty…]]'
+- '[[Changes/ElevenLabs/2026-09-07-elevenlabs-cli|ElevenLabs CLI]]'
 - '[[Changes/Claude Code/2026-09-08-2-developer-workflow-changes-in-v2-1-265|2 Developer
   Workflow changes in v2.1.265]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-09-v2-1-267-github-385748811-6409148e|claude-code-2026-09-09-v2-1-267-github-385748811-6409148e]]'

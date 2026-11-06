@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2989f2cb539fd498d9de7acd4e680e2770527c20a59ed8ce1d5c3cf26ffb688f
+machine_hash: 76cb9172ea7432b93642fcca7a49fcecb599402904e5e09f0b827e870d1989ee
 product: openhands
 product_name: OpenHands
 record:
@@ -43,10 +43,10 @@ record:
   title: 2 Model Support changes in 0.9.1
   type: change
 related_changes:
-- '[[Changes/OpenHands/2024-08-23-enhance-the-llm-class-with-async-support-by-tobitege-in-https-github-com-all-han|Enhance
-  the LLM class with async support]]'
 - '[[Changes/Aider/2024-08-27-4-model-support-changes-in-v0-53-0|4 Model Support changes
   in v0.53.0]]'
+- "[[Changes/Open WebUI/2024-08-27-show-knowledge-search-status-enhanced-model-usage-transparency-by-displaying-sta|\U0001F604
+  Show Knowledge Search Status]]"
 - '[[Changes/Aider/2024-08-28-4-model-support-changes-in-v0-54-0|4 Model Support changes
   in v0.54.0]]'
 source_release: '[[Releases/OpenHands/openhands-2024-08-29-0-9-1-github-172623217-f264bb36|openhands-2024-08-29-0-9-1-github-172623217-f264bb36]]'
@@ -83,7 +83,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/0.9.1
 ## Nearby in Model Support
 
 - Earlier: 2024-08-28 · Aider · [[Changes/Aider/2024-08-28-4-model-support-changes-in-v0-54-0|4 Model Support changes in v0.54.0]]
-- Later: 2024-09-04 · Aider · [[Changes/Aider/2024-09-04-3-model-support-changes-in-v0-55-0|3 Model Support changes in v0.55.0]]
+- Later: 2024-08-31 · Ollama · [[Changes/Ollama/2024-08-31-ollama-will-now-show-an-improved-error-message-when-attempting-to-run-unsupporte|Ollama will now show an improved error message when attempting to run unsupported models]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

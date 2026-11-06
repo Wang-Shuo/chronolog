@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 507ea56ec956c0318c1678e9a34a2a90d2cd99e040bb658aac7817d54cbfff4d
+machine_hash: 011491e30ef9dab369e398cbca45d1824be4d15438ada587abb6094314e36ab7
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -42,8 +42,8 @@ record:
   title: 2 Model Support changes in v0.0.343
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2025-10-15-added-each-model-s-premium-request-multiplier-to-the-model-list-currently-all-ou|Added
-  each model''s premium request multiplier to the /model list…]]'
+- '[[Changes/Ollama/2025-10-15-2-model-support-changes-in-v0-12-6|2 Model Support
+  changes in v0.12.6]]'
 - '[[Changes/Cline/2025-10-16-3-model-support-changes-in-v3-33-0|3 Model Support changes
   in v3.33.0]]'
 - '[[Changes/GitHub Copilot CLI/2025-10-16-added-debug-logging-when-calls-to-model-result-in-copilot-api-errors-this-should|Added
@@ -79,7 +79,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v0.0.343
 ## Nearby in Model Support
 
 - Earlier: 2025-10-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-10-16-added-debug-logging-when-calls-to-model-result-in-copilot-api-errors-this-should|Added debug logging when calls to /model result in Copilot API errors]]
-- Later: 2025-10-18 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-10-18-added-list-of-supported-models-as-part-of-copilot-help-config-text|Added list of supported models as part of copilot help config text]]
+- Later: 2025-10-16 · Open WebUI · [[Changes/Open WebUI/2025-10-16-2-model-support-changes-in-v0-6-34|2 Model Support changes in v0.6.34]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

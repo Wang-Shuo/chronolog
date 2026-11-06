@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c0a9bb40b19876b406d6d4e1312746359b8af53b0e0ea6f957bc1836c1a03912
+machine_hash: ba735e5f8e35482410883ebd82b83098df6855b29ea26557cbae403796fa35c1
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -52,10 +52,10 @@ record:
     CLI performance
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-17-7-memory-and-personalization-changes-in-rust-v0-155-0|7
-  Memory and Personalization changes in rust-v0.155.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-21-tear-down-the-processes-an-internal-git-command-started-when-it-times-out-so-a-s|Tear
   down the processes an internal git command started when it times out, so a slow…]]'
+- '[[Changes/Open WebUI/2026-09-21-6-memory-and-personalization-changes-in-v0-11-4|6
+  Memory and Personalization changes in v0.11.4]]'
 - '[[Changes/Codex CLI/2026-09-22-6-memory-and-personalization-changes-in-rust-v0-156-0|6
   Memory and Personalization changes in rust-v0.156.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-09-22-v1-0-88-github-394076851-2894d283|github-copilot-cli-2026-09-22-v1-0-88-github-394076851-2894d283]]'

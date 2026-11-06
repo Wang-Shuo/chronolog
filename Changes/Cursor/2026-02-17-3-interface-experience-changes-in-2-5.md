@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9c2b118c1dad6ea57577eab10f155d336a8509c750ca1ccaff2478f321a1e0a7
+machine_hash: 7ea657e0a7a4559d0d83cc93e368f32cd3cb71a46d7782154482b641b714e781
 product: cursor
 product_name: Cursor
 record:
@@ -48,8 +48,8 @@ record:
   title: 3 Interface Experience changes in 2.5
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-13-improved-narrow-terminal-layout-for-prompt-footer|Improved
-  narrow terminal layout for prompt footer]]'
+- '[[Changes/Open WebUI/2026-02-16-strikethrough-shortcut-conflict-fix-pressing-ctrl-shift-s-to-toggle-the-sidebar|⌨️
+  Strikethrough shortcut conflict fix. Pressing Ctrl+Shift+S to toggle…]]'
 - '[[Changes/Claude Code/2026-02-17-added-spinnertipsoverride-setting-to-customize-spinner-tips-configure-tips-with|Added
   spinnerTipsOverride setting to customize spinner tips]]'
 - '[[Changes/Codex CLI/2026-02-17-3-interface-experience-changes-in-rust-v0-102-0|3

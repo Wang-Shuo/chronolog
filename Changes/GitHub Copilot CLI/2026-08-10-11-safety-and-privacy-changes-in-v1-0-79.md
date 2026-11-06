@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f189277c5580875587f633fc28fa0f14cc871a198754bf2946cd6db5bd76bf82
+machine_hash: 1ed0cb220015970d8699df68daf1161cad379d4fe9d6b7e00fe9ab10c72c0a7a
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -80,8 +80,8 @@ record:
   title: 11 Safety and Privacy changes in v1.0.79
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-08-07-9-safety-and-privacy-changes-in-rust-v0-147-0|9
-  Safety and Privacy changes in rust-v0.147.0]]'
+- '[[Changes/Replit/2026-08-07-security-scan-while-you-build|Security scan while you
+  build]]'
 - '[[Changes/Claude Code/2026-08-08-2-safety-and-privacy-changes-in-v2-1-225|2 Safety
   and Privacy changes in v2.1.225]]'
 - '[[Changes/Cline/2026-08-09-never-run-a-foreign-compiled-plugin-sandbox-bootstrap-for-a-source-host|Never
@@ -148,7 +148,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.79
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-08-09 · Cline · [[Changes/Cline/2026-08-09-never-run-a-foreign-compiled-plugin-sandbox-bootstrap-for-a-source-host|Never run a foreign compiled plugin-sandbox bootstrap for a source host]]
-- Later: 2026-08-11 · Gemini CLI · [[Changes/Gemini CLI/2026-08-11-fix-a2a-server-enforce-workspace-trust-and-task-isolation-to-prevent-rce-by-luis|fix(a2a-server): enforce workspace trust and task isolation to prevent RCE]]
+- Later: 2026-08-10 · Lovable · [[Changes/Lovable/2026-08-10-security-scan-setting-removed-from-workspace-settings|Security scan setting removed from workspace settings]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

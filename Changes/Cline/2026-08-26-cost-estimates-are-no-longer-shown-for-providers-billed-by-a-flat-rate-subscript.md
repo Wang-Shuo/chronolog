@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: pricing
-machine_hash: de249c2b6257b6b25185d9dad72e4bf5b64fd2f78a9841d12c5211bb90c83fee
+machine_hash: 2f3971396f1748efe5101a8221824d0aa34c07f7a8347dc9f9f7ed19ad1b865d
 product: cline
 product_name: Cline
 record:
@@ -61,12 +61,11 @@ record:
   title: Cost estimates are no longer shown for providers billed by a flat-rate subscription…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-08-20-39006-emit-api-key-turn-cost-telemetry-from-app-server-copyberry|♯39006
-  Emit API-key turn cost telemetry from app-server @copyberry]]'
-- '[[Changes/Claude Code/2026-08-21-persistent-retry-mode-claude-code-retry-watchdog-now-fails-immediately-on-organi|Persistent
-  retry mode (CLAUDE_CODE_RETRY_WATCHDOG) now fails immediately…]]'
-- '[[Changes/Cline/2026-08-21-show-the-billed-cost-for-cline-gateway-usage|Show the
-  billed cost for Cline gateway usage]]'
+- '[[Changes/ElevenLabs/2026-08-24-swift-sdk|Swift SDK]]'
+- '[[Changes/Dify/2026-08-25-7-pricing-model-changes-in-1-17-0|7 Pricing Model changes
+  in 1.17.0]]'
+- '[[Changes/Open WebUI/2026-08-25-2-pricing-model-changes-in-v0-11-1|2 Pricing Model
+  changes in v0.11.1]]'
 source_release: '[[Releases/Cline/cline-2026-08-26-v4-1-16-github-376988707-45a7fae8|cline-2026-08-26-v4-1-16-github-376988707-45a7fae8]]'
 source_type: github_releases
 theme: pricing-model
@@ -97,7 +96,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-08-21 · Cline · [[Changes/Cline/2026-08-21-show-the-billed-cost-for-cline-gateway-usage|Show the billed cost for Cline gateway usage]]
+- Earlier: 2026-08-25 · Open WebUI · [[Changes/Open WebUI/2026-08-25-2-pricing-model-changes-in-v0-11-1|2 Pricing Model changes in v0.11.1]]
 - Later: 2026-08-26 · Codex CLI · [[Changes/Codex CLI/2026-08-26-40488-export-turn-cost-as-an-otel-metric-copyberry|♯40488 Export turn cost as an OTEL metric @copyberry]]
 <!-- chronolog:end -->
 

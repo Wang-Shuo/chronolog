@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 866fabe3eaddb4dbc1c99ad3c5e322ceea80d2ae2258068158c3fdf64428d374
+machine_hash: 31df416fb156726a4ec983e434d5b4db87b48fba282b8e3515b94babb1cf4798
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -44,10 +44,10 @@ record:
   title: Don't enforce leading slash since that's not true on Windows
   type: change
 related_changes:
-- '[[Changes/Windsurf/2025-04-29-reduced-errors-for-edit-tool-calls-for-windows|Reduced
-  errors for edit tool calls for Windows]]'
-- '[[Changes/OpenHands/2025-05-05-made-small-tweaks-for-mobile-styles-by-rbren-in-https-github-com-all-hands-ai-op|Made
-  small tweaks for mobile styles]]'
+- '[[Changes/Ollama/2025-07-02-a-new-version-of-ollama-s-macos-and-windows-applications-are-now-available-new-i|A
+  new version of Ollama''s macOS and Windows applications are now available]]'
+- '[[Changes/Ollama/2025-07-02-3-mobile-and-desktop-changes-in-v0-9-5|3 Mobile and
+  Desktop changes in v0.9.5]]'
 - '[[Changes/Codex CLI/2025-07-10-thanks-to-pchuri-so-that-when-running-codex-installed-via-npm-process-platform-a|Thanks
   to @pchuri so that when running Codex installed via npm…]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-07-11-v0-1-10-github-231320517-434b29eb|gemini-cli-2025-07-11-v0-1-10-github-231320517-434b29eb]]'
@@ -86,7 +86,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2025-07-10 · Codex CLI · [[Changes/Codex CLI/2025-07-10-thanks-to-pchuri-so-that-when-running-codex-installed-via-npm-process-platform-a|Thanks to @pchuri so that when running Codex installed via npm…]]
-- Later: 2025-07-16 · ChatGPT · [[Changes/ChatGPT/2025-07-16-record-mode-is-now-available-to-chatgpt-plus-users-globally-in-the-macos-desktop|Record mode is now available to ChatGPT Plus users globally in the macOS desktop app]]
+- Later: 2025-07-14 · Open WebUI · [[Changes/Open WebUI/2025-07-14-seamless-iphone-image-uploads-effortlessly-upload-photos-from-iphones-and-other|📷 Seamless iPhone Image Uploads]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

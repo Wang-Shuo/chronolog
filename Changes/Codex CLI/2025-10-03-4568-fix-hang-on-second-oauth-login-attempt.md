@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 52051f78c368e622111f0405eb21df4c59e66ae1bf37181dd3c2141d0e931e47
+machine_hash: 63a5daccebfab5e01574e3b026f5bee8fc5f41b47e3ce0696043f7d5efeb7758
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -40,10 +40,10 @@ record:
   title: '#4568 Fix hang on second oauth login attempt'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-09-15-6-account-and-access-changes-in-rust-v0-36-0|6 Account
-  and Access changes in rust-v0.36.0]]'
-- '[[Changes/Gemini CLI/2025-09-17-refactor-authentication-components-and-hooks-by-scidomino-in-https-github-com-go|Refactor
-  Authentication Components and Hooks]]'
+- '[[Changes/Open WebUI/2025-09-25-2-account-and-access-changes-in-v0-6-31|2 Account
+  and Access changes in v0.6.31]]'
+- '[[Changes/Ollama/2025-09-26-ollama-push-will-now-provide-a-url-to-follow-to-sign-in|ollama
+  push will now provide a URL to follow to sign in]]'
 - '[[Changes/Cursor/2025-09-29-1-7-41-token-sync-improvements-for-authentication|1.7.41:
   Token sync improvements for authentication]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-10-03-rust-v0-44-0-github-252055554-66c49f37|codex-cli-2025-10-03-rust-v0-44-0-github-252055554-66c49f37]]'

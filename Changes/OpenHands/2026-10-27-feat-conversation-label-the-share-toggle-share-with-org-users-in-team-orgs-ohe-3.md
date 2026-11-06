@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f038a3ed3e54b88a9e867cee4f479d04226a9fa61d915ab03e939c1db2fa751b
+machine_hash: 048ca60268c50df0d9b7304bf47966f177dfffdd1a3c62afe47208a0d66a1922
 product: openhands
 product_name: OpenHands
 record:
@@ -42,10 +42,9 @@ record:
     orgs (OHE-3765)'
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-10-19-feat-verify-openhands-adopt-the-shared-known-bug-contract-by-enyst-in-https-gith|feat(verify-openhands):
-  adopt the shared known-bug contract]]'
-- '[[Changes/Codex CLI/2026-10-23-8-collaboration-changes-in-rust-v0-164-0|8 Collaboration
-  changes in rust-v0.164.0]]'
+- '[[Changes/Dify/2026-10-23-5-collaboration-changes-in-1-18-0|5 Collaboration changes
+  in 1.18.0]]'
+- '[[Changes/Replit/2026-10-23-chat-and-asset-sharing|Chat and asset sharing]]'
 - '[[Changes/Windsurf/2026-10-26-ide-mode-now-offers-devin-cloud-whenever-your-account-has-cloud-access-the-same|IDE
   mode now offers Devin Cloud whenever your account has Cloud access, the same…]]'
 source_release: '[[Releases/OpenHands/openhands-2026-10-27-v1-34-0-github-425575573-3f638892|openhands-2026-10-27-v1-34-0-github-425575573-3f638892]]'

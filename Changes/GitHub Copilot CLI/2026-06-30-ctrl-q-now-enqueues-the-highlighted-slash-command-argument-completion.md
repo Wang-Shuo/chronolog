@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2b96cdf5075936ed3ae228510a6a2ebae747862ca32dd27d57761c20ea064139
+machine_hash: 15a290e56d653afcede0a78ad15be6187f5f71034a31332608b4b268109b5405
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -41,10 +41,10 @@ record:
   title: Ctrl+Q now enqueues the highlighted slash-command argument completion
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-25-added-live-file-path-autocomplete-to-bash-mode|Added
-  live file path autocomplete to bash mode (!)]]'
-- '[[Changes/Cline/2026-06-26-add-edit-and-regenerate-support-for-previous-user-messages-with-clearer-reset-ch|Add
-  edit-and-regenerate support for previous user messages, with clearer Reset Chat…]]'
+- '[[Changes/v0/2026-06-26-the-editor-no-longer-shows-a-false-start-error-when-a-preview-dev-server-or-inst|The
+  editor no longer shows a false start error when a preview, dev server…]]'
+- '[[Changes/Open WebUI/2026-06-29-10-editor-experience-changes-in-v0-10-0|10 Editor
+  Experience changes in v0.10.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-30-2-editor-experience-changes-in-v1-0-66|2
   Editor Experience changes in v1.0.66]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-06-30-v1-0-67-github-347129452-cdc0d10f|github-copilot-cli-2026-06-30-v1-0-67-github-347129452-cdc0d10f]]'

@@ -4,20 +4,20 @@ date: '2026-11-03'
 description: 'OpenHands · 2026-11-03 · Files and Data: feat(canvas): attribute local
   Cloud signup entries (ALL-5962) by @malhotra5 in…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code
-    interpreter is now rolling out in beta on web]]'
+  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
+    Files and Data changes in 0.2.2]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1216
+  lag_days: 1258
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 258535f717bd92b26af0c14d9231604f99196417ece1bb19242e87ba2193466a
+machine_hash: 5fccabec8964fac73cf1532db852a76f0253fc0e6c42e2fa3b617a48b8b47963
 product: openhands
 product_name: OpenHands
 record:
@@ -42,12 +42,12 @@ record:
   title: 'feat(canvas): attribute local Cloud signup entries (ALL-5962)'
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-10-23-feat-canvas-quiet-backend-logs-by-default-by-neubig-in-https-github-com-openhand|feat(canvas):
-  quiet backend logs by default]]'
-- '[[Changes/Claude Code/2026-10-26-improved-the-artifact-tool-s-choice-between-a-page-and-a-document-explainers-and|Improved
-  the Artifact tool''s choice between a page and a document]]'
 - '[[Changes/OpenHands/2026-10-27-feat-canvas-per-conversation-docker-runtime-and-settings-runtime-page-by-vascosc|feat(canvas):
   per-conversation Docker runtime and Settings → Runtime page]]'
+- '[[Changes/Open WebUI/2026-10-29-2-files-and-data-changes-in-v0-12-5|2 Files and
+  Data changes in v0.12.5]]'
+- '[[Changes/ElevenLabs/2026-11-02-2-files-and-data-changes-in-elevenlabs-updates-2026-11-02|2
+  Files and Data changes in ElevenLabs updates — 2026-11-02]]'
 source_release: '[[Releases/OpenHands/openhands-2026-11-03-v1-35-0-github-433088800-6c59b2b0|openhands-2026-11-03-v1-35-0-github-433088800-6c59b2b0]]'
 source_type: github_releases
 theme: file-data
@@ -84,14 +84,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2026-10-27 · OpenHands · [[Changes/OpenHands/2026-10-27-feat-canvas-per-conversation-docker-runtime-and-settings-runtime-page-by-vascosc|feat(canvas): per-conversation Docker runtime and Settings → Runtime page]]
-- Later: 2026-11-06 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-11-06-2-files-and-data-changes-in-v1-0-106|2 Files and Data changes in v1.0.106]]
+- Earlier: 2026-11-02 · ElevenLabs · [[Changes/ElevenLabs/2026-11-02-2-files-and-data-changes-in-elevenlabs-updates-2026-11-02|2 Files and Data changes in ElevenLabs updates — 2026-11-02]]
+- Later: 2026-11-04 · Dify · [[Changes/Dify/2026-11-04-6-files-and-data-changes-in-1-19-0|6 Files and Data changes in 1.19.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-06 · ChatGPT · [[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code interpreter is now rolling out in beta on web]]
+- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

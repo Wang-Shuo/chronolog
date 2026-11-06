@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 52264c7cf6132ec63411965a0a3c0a3f6a58e661fdd1bb2757dcef5335fee299
+machine_hash: 6447b47d91635dfedd784a4264058075f8458c451078514de788d9d58b62268f
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -42,12 +42,11 @@ record:
   title: 'refactor(core): migrate web search tool to tool-names'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-09-16-shopping-search-is-better-at-detecting-shopping-intent-showing-products-when-you|Shopping:
-  Search is better at detecting shopping intent, showing products when you…]]'
-- '[[Changes/Cursor/2025-09-29-1-7-20-web-search-auto-accept-setting|1.7.20: Web search
-  auto-accept setting]]'
 - '[[Changes/Codex CLI/2025-10-03-4511-wire-up-web-search-item|♯4511 Wire up web search
   item]]'
+- '[[Changes/Replit/2025-10-03-app-themes-font-improvements|App Themes font improvements]]'
+- '[[Changes/Open WebUI/2025-10-07-2-search-and-browsing-changes-in-v0-6-33|2 Search
+  and Browsing changes in v0.6.33]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-10-22-v0-10-0-github-256434073-b3dd91c0|gemini-cli-2025-10-22-v0-10-0-github-256434073-b3dd91c0]]'
 source_type: github_releases
 theme: search-browsing
@@ -87,8 +86,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Search and Browsing
 
-- Earlier: 2025-10-03 · Codex CLI · [[Changes/Codex CLI/2025-10-03-4511-wire-up-web-search-item|♯4511 Wire up web search item]]
-- Later: 2025-11-09 · Codex CLI · [[Changes/Codex CLI/2025-11-09-6367-sdk-add-network-access-and-web-search-options-to-typescript-sdk|♯6367 – SDK: add network_access and web_search options to TypeScript SDK]]
+- Earlier: 2025-10-07 · Open WebUI · [[Changes/Open WebUI/2025-10-07-2-search-and-browsing-changes-in-v0-6-33|2 Search and Browsing changes in v0.6.33]]
+- Later: 2025-11-06 · Open WebUI · [[Changes/Open WebUI/2025-11-06-4-search-and-browsing-changes-in-v0-6-35|4 Search and Browsing changes in v0.6.35]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

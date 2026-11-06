@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: dde506d0e07f8371e3920923c0c43ecfea4853a88d8afcfb81f68e9f9a25d319
+machine_hash: 5a2153e62f20d5a521459bd21a64ddfe0f55bba32161fa01591583eaafa8e586
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -46,10 +46,9 @@ record:
   title: 4 Mobile and Desktop changes in rust-v0.76.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-12-09-4-mobile-and-desktop-changes-in-rust-v0-66-0|4 Mobile
-  and Desktop changes in rust-v0.66.0]]'
 - '[[Changes/Codex CLI/2025-12-13-2-mobile-and-desktop-changes-in-rust-v0-72-0|2 Mobile
   and Desktop changes in rust-v0.72.0]]'
+- '[[Changes/ElevenLabs/2025-12-15-android-sdk|Android SDK]]'
 - '[[Changes/Codex CLI/2025-12-18-8084-chore-ci-drop-homebrew-origin-main-workaround-for-macos-runners|♯8084
   chore(ci): drop Homebrew origin/main workaround for macOS runners]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-12-19-rust-v0-76-0-github-271840565-59329797|codex-cli-2025-12-19-rust-v0-76-0-github-271840565-59329797]]'

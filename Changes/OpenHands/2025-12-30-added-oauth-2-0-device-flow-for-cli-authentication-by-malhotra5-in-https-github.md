@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 454bf186cfef77f4254f0bf7df2d04d57fa9d9e86bd2586e0889597f8efa6689
+machine_hash: a8209615a60de59ae872e2b1bd4b3bc476e4f622940c405299fcca384f976693
 product: openhands
 product_name: OpenHands
 record:
@@ -41,12 +41,12 @@ record:
   title: Added OAuth 2.0 Device Flow for CLI authentication
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-12-16-allow-telemetry-exporters-to-gcp-to-utilize-user-s-login-credentials-if-requeste|Allow
-  telemetry exporters to GCP to utilize user''s login credentials, if requested]]'
-- '[[Changes/Codex CLI/2025-12-21-2-account-and-access-changes-in-rust-v0-77-0|2 Account
-  and Access changes in rust-v0.77.0]]'
+- '[[Changes/Open WebUI/2025-12-21-4-account-and-access-changes-in-v0-6-42|4 Account
+  and Access changes in v0.6.42]]'
 - '[[Changes/Cursor/2025-12-22-2-account-and-access-changes-in-2-3|2 Account and Access
   changes in 2.3]]'
+- '[[Changes/Dify/2025-12-25-chore-remove-unused-login-call-from-activation-flow-by-hjlarry-in-https-github-c|chore:
+  remove unused login call from activation flow]]'
 source_release: '[[Releases/OpenHands/openhands-2025-12-30-1-1-0-github-273438720-22c53f63|openhands-2025-12-30-1-1-0-github-273438720-22c53f63]]'
 source_type: github_releases
 theme: account-access
@@ -77,7 +77,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2025-12-22 · Cursor · [[Changes/Cursor/2025-12-22-2-account-and-access-changes-in-2-3|2 Account and Access changes in 2.3]]
+- Earlier: 2025-12-25 · Dify · [[Changes/Dify/2025-12-25-chore-remove-unused-login-call-from-activation-flow-by-hjlarry-in-https-github-c|chore: remove unused login call from activation flow]]
 - Later: 2026-01-06 · Cline · [[Changes/Cline/2026-01-06-added-support-for-azure-based-identity-authentication-in-openai-compatible-provi|Added support for Azure based identity authentication in OpenAI Compatible provider…]]
 <!-- chronolog:end -->
 

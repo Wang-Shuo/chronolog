@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 60afe3a22476cd14abba8370272394c26a39c1c58993a185c1fea9964fb4cc8b
+machine_hash: 278ed96cb11b54249580bb4bd1d23901e22a36a9f67d85d9a9660c56904b4b37
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,8 +42,7 @@ record:
   title: Personalize responses based on your past chats if memory is on, using examples…
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-07-03-memories-is-now-ga-since-1-0-we-ve-improved-memory-generation-quality-added-in-e|Memories
-  (now GA)]]'
+- '[[Changes/ElevenLabs/2025-07-14-elevencreative-studio|ElevenCreative Studio]]'
 - '[[Changes/OpenHands/2025-07-16-introduced-new-memory-ui-feature-by-amanape-in-https-github-com-all-hands-ai-ope|Introduced
   new Memory UI feature]]'
 - '[[Changes/Gemini CLI/2025-07-25-feat-memory-make-directory-search-limit-on-memory-discovery-configurable-with-se|feat(memory):

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3f30db5d7b7ace50bc1e5076e486a19089c646a9946f68a0095b07fdd807231a
+machine_hash: f1e29de56923251d10fb3e40670a73c68c919d632d8498e9f5686a32de1436ea
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -84,8 +84,8 @@ record:
   title: 19 Apps and Integrations changes in rust-v0.137.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-03-remote-control-now-shows-as-a-persistent-footer-pill-with-a-link-to-the-session|Remote
-  Control now shows as a persistent footer pill (with a link to the session)…]]'
+- '[[Changes/Lovable/2026-06-03-lovable-mcp-server-now-available-on-all-plans|Lovable
+  MCP server now available on all plans]]'
 - '[[Changes/Claude Code/2026-06-04-2-apps-and-integrations-changes-in-v2-1-163|2
   Apps and Integrations changes in v2.1.163]]'
 - '[[Changes/Claude Code/2026-06-04-added-plugin-list-command-to-list-installed-plugins-with-enabled-disabled-filter|Added

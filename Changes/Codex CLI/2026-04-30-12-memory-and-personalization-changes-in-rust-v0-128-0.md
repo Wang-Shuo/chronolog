@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 75263f03b860699a2d95330abbb4b59006e80aa901435c32e268242e0a4b2f3b
+machine_hash: ac1854e654087264647c18a3468947a0abf437d624fa7034071e24106c0c037f
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -62,10 +62,10 @@ record:
   title: 12 Memory and Personalization changes in rust-v0.128.0
   type: change
 related_changes:
-- '[[Changes/Cline/2026-04-24-improve-cline-core-memory-diagnostics-used-by-the-extension-runtime|Improve
-  cline-core memory diagnostics used by the extension runtime]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-24-custom-instruction-files-in-gitignored-directories-e-g-github-instructions-now-l|Custom
   instruction files in .gitignored directories (e.g., .github/instructions/)…]]'
+- '[[Changes/Open WebUI/2026-04-24-2-memory-and-personalization-changes-in-v0-9-2|2
+  Memory and Personalization changes in v0.9.2]]'
 - '[[Changes/Gemini CLI/2026-04-28-refactor-memory-replace-memorymanageragent-with-prompt-driven-memory-editing-acr|refactor(memory):
   replace MemoryManagerAgent with prompt-driven memory editing…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-04-30-rust-v0-128-0-github-315916672-1708ab89|codex-cli-2026-04-30-rust-v0-128-0-github-315916672-1708ab89]]'

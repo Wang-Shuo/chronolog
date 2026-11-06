@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ab2f356dc0c69aa8308745f5c87d9aac22208f3b26aaa9e6bde3e3052b8d444c
+machine_hash: 61dcc66d368905a69b015dd4c1fc845b7026f3580d2b8ae19c8414658d7ee5d1
 product: cursor
 product_name: Cursor
 record:
@@ -72,12 +72,10 @@ record:
   title: Google Workspace Plugins
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-30-2-apps-and-integrations-changes-in-v1-0-76|2
-  Apps and Integrations changes in v1.0.76]]'
-- '[[Changes/OpenHands/2026-07-30-feat-enable-disable-an-installed-mcp-server-from-its-card-by-hieptl-in-https-git|feat:
-  enable/disable an installed MCP server from its card]]'
 - '[[Changes/Cline/2026-07-31-3-apps-and-integrations-changes-in-v4-1-0|3 Apps and
   Integrations changes in v4.1.0]]'
+- '[[Changes/Lovable/2026-07-31-lovable-mcp-updates|Lovable MCP updates]]'
+- '[[Changes/Replit/2026-07-31-connect-more-mcp-servers|Connect more MCP servers]]'
 source_release: '[[Releases/Cursor/cursor-2026-08-03-google-workspace-plugins-https-cursor-com-changelog-google-works-e8cf52f1|cursor-2026-08-03-google-workspace-plugins-https-cursor-com-changelog-google-works-e8cf52f1]]'
 source_type: cursor_changelog
 theme: apps-integrations
@@ -116,8 +114,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-07-31 · Cline · [[Changes/Cline/2026-07-31-3-apps-and-integrations-changes-in-v4-1-0|3 Apps and Integrations changes in v4.1.0]]
-- Later: 2026-08-03 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-08-03-4-apps-and-integrations-changes-in-v1-0-78|4 Apps and Integrations changes in v1.0.78]]
+- Earlier: 2026-07-31 · Replit · [[Changes/Replit/2026-07-31-connect-more-mcp-servers|Connect more MCP servers]]
+- Later: 2026-08-03 · ElevenLabs · [[Changes/ElevenLabs/2026-08-03-mcp-server|MCP Server]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

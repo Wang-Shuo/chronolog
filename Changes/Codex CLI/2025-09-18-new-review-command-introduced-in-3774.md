@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 4fbab21979fd83887ba1e827782a264b495f75b7ef7090d1fff7f82e82034a9b
+machine_hash: 8ee3af3dad59846fbf1ba91ee419b4d713f403b6e1f46c89476e59e38c10e026
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,11 +43,11 @@ record:
   title: 'new `/review` command introduced in #3774'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-09-15-2-developer-workflow-changes-in-rust-v0-36-0|2 Developer
-  Workflow changes in rust-v0.36.0]]'
 - '[[Changes/Codex CLI/2025-09-17-45bccd36-https-github-com-openai-codex-commit-45bccd36b038a28b23663189cc6f7557e4|45bccd36…]]'
 - '[[Changes/Gemini CLI/2025-09-17-feat-commands-add-new-commands-for-docs-git-and-pr-review-by-allenhutchison-in-h|feat(commands):
   Add new commands for docs, git, and PR review]]'
+- '[[Changes/Open WebUI/2025-09-17-12-developer-workflow-changes-in-v0-6-29|12 Developer
+  Workflow changes in v0.6.29]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-09-18-rust-v0-39-0-github-248440234-e03f419b|codex-cli-2025-09-18-rust-v0-39-0-github-248440234-e03f419b]]'
 source_type: github_releases
 theme: developer-workflow
@@ -78,8 +78,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2025-09-17 · Gemini CLI · [[Changes/Gemini CLI/2025-09-17-feat-commands-add-new-commands-for-docs-git-and-pr-review-by-allenhutchison-in-h|feat(commands): Add new commands for docs, git, and PR review]]
-- Later: 2025-09-23 · Codex CLI · [[Changes/Codex CLI/2025-09-23-2-developer-workflow-changes-in-rust-v0-40-0|2 Developer Workflow changes in rust-v0.40.0]]
+- Earlier: 2025-09-17 · Open WebUI · [[Changes/Open WebUI/2025-09-17-12-developer-workflow-changes-in-v0-6-29|12 Developer Workflow changes in v0.6.29]]
+- Later: 2025-09-22 · Dify · [[Changes/Dify/2025-09-22-12-developer-workflow-changes-in-1-9-0|12 Developer Workflow changes in 1.9.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

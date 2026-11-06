@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a60ee08ba28a1db76c90dfdf02da9221ed1e5f38632174f6d04dd4a3006fd6b6
+machine_hash: d33e77f465c4665c5c8100d895f7291dfae58990747e86af66b90a551e4cef49
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,12 +44,11 @@ record:
   title: 2 Collaboration changes in v1.0.71
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-07-08-5-collaboration-changes-in-rust-v0-143-0|5 Collaboration
-  changes in rust-v0.143.0]]'
 - '[[Changes/ChatGPT/2026-07-09-existing-group-chats-will-remain-available-and-can-continue-to-be-used-for-now-w|Existing
   group chats will remain available and can continue to be used for now]]'
 - '[[Changes/Codex CLI/2026-07-09-31587-stabilize-shared-rollout-budget-test-jif-oai|♯31587
   Stabilize shared rollout budget test @jif-oai]]'
+- '[[Changes/ElevenLabs/2026-07-13-workspaces|Workspaces]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-07-16-v1-0-71-github-354824472-a089f622|github-copilot-cli-2026-07-16-v1-0-71-github-354824472-a089f622]]'
 source_type: github_releases
 theme: collaboration
@@ -96,8 +95,8 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.71
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-07-09 · Codex CLI · [[Changes/Codex CLI/2026-07-09-31587-stabilize-shared-rollout-budget-test-jif-oai|♯31587 Stabilize shared rollout budget test @jif-oai]]
-- Later: 2026-07-21 · Codex CLI · [[Changes/Codex CLI/2026-07-21-4-collaboration-changes-in-rust-v0-145-0|4 Collaboration changes in rust-v0.145.0]]
+- Earlier: 2026-07-13 · ElevenLabs · [[Changes/ElevenLabs/2026-07-13-workspaces|Workspaces]]
+- Later: 2026-07-17 · Dify · [[Changes/Dify/2026-07-17-4-collaboration-changes-in-1-16-0|4 Collaboration changes in 1.16.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f75b48e2cb0a9a59216324699403106f039ac1bdc1431580b56230a1a4880a94
+machine_hash: c01857593157833d524548c8e11d85628aa1c7487ca191f2bdba7deb903a1651
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,11 +43,11 @@ record:
   title: Add auto-compaction at 95% token limit and `/compact` command
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2025-12-19-add-context-command-to-visualize-token-usage|Add
-  /context command to visualize token usage]]'
 - '[[Changes/Windsurf/2025-12-24-context-window-indicator|Context Window Indicator]]'
 - '[[Changes/Windsurf/2025-12-24-multiple-fixes-to-the-model-context-protocol-implementation|Multiple
   fixes to the Model Context Protocol implementation]]'
+- '[[Changes/Dify/2025-12-25-test-add-unit-tests-for-datasetconfig-component-with-comprehensive-coverage-of-r|test:
+  add unit tests for DatasetConfig component with comprehensive coverage…]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-01-02-v0-0-374-github-273878901-f6c465a2|github-copilot-cli-2026-01-02-v0-0-374-github-273878901-f6c465a2]]'
 source_type: github_releases
 theme: context-window
@@ -79,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2025-12-24 · Windsurf · [[Changes/Windsurf/2025-12-24-multiple-fixes-to-the-model-context-protocol-implementation|Multiple fixes to the Model Context Protocol implementation]]
+- Earlier: 2025-12-25 · Dify · [[Changes/Dify/2025-12-25-test-add-unit-tests-for-datasetconfig-component-with-comprehensive-coverage-of-r|test: add unit tests for DatasetConfig component with comprehensive coverage…]]
 - Later: 2026-01-06 · Codex CLI · [[Changes/Codex CLI/2026-01-06-2-context-window-changes-in-rust-v0-78-0|2 Context Window changes in rust-v0.78.0]]
 <!-- chronolog:end -->
 

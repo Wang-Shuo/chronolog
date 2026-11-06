@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c7f4b3972cffe3bc9417fbbfd626ad034ae235533366c77fbd03b57c8043b438
+machine_hash: 66bba2d78f1d9fd4f56ff537743a613f842b613cda076ffb60d39b90f8e7ad25
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -41,10 +41,10 @@ record:
   title: Ensured we preserve comments in VSCode config files when using `/terminal-setup`…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-10-17-add-parsed-command-to-execapprovalrequestevent-5222|Add
-  parsed command to ExecApprovalRequestEvent (♯5222)]]'
 - '[[Changes/GitHub Copilot CLI/2025-10-18-2-developer-workflow-changes-in-v0-0-344|2
   Developer Workflow changes in v0.0.344]]'
+- '[[Changes/Dify/2025-10-22-chore-remove-pnpm-build-from-dev-setup-command-by-laipz8200-in-https-github-com|chore:
+  remove pnpm build from dev-setup command]]'
 - '[[Changes/Gemini CLI/2025-10-22-6-developer-workflow-changes-in-v0-10-0|6 Developer
   Workflow changes in v0.10.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2025-10-22-v0-0-348-github-256199917-0456772f|github-copilot-cli-2025-10-22-v0-0-348-github-256199917-0456772f]]'

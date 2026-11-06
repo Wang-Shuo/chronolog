@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a217147d394ef3ec6e172187a93ac9c4b9303619dbd73fca00c9ca664fec493f
+machine_hash: 3dba7707ef26a617095725d909a827ce77eaa7db3a0b426f0d295cc115ff2484
 product: openhands
 product_name: OpenHands
 record:
@@ -52,10 +52,10 @@ record:
   title: 'test(e2e): bound and diagnose sidebar modified-click tab waits'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-15-2-interface-experience-changes-in-v2-1-301|2 Interface
-  Experience changes in v2.1.301]]'
-- '[[Changes/Codex CLI/2026-10-15-8-interface-experience-changes-in-rust-v0-163-0|8
-  Interface Experience changes in rust-v0.163.0]]'
+- '[[Changes/Open WebUI/2026-10-16-4-interface-experience-changes-in-v0-12-3|4 Interface
+  Experience changes in v0.12.3]]'
+- '[[Changes/v0/2026-10-16-2-interface-experience-changes-in-downloads-in-the-code-tab-new-ios|2
+  Interface Experience changes in Downloads in the Code tab, new iOS…]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-19-2-interface-experience-changes-in-v1-0-100|2
   Interface Experience changes in v1.0.100]]'
 source_release: '[[Releases/OpenHands/openhands-2026-10-19-v1-28-0-github-417391290-d3015a14|openhands-2026-10-19-v1-28-0-github-417391290-d3015a14]]'

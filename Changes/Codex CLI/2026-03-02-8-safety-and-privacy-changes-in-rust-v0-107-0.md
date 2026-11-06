@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c77eff570d1bbc70c0f68b22bcc4838508b2b8a60e0baa36b9b7f902f675eb96
+machine_hash: ef34e76fee4d65e403fdb796b490390c9d5b0892e8530ca8fe212036e54d9a2d
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -62,12 +62,12 @@ record:
   title: 8 Safety and Privacy changes in rust-v0.107.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-02-26-12800-fix-enforce-sandbox-envelope-for-zsh-fork-execution-bolinfest|♯12800
-  fix: enforce sandbox envelope for zsh fork execution @bolinfest]]'
 - '[[Changes/Gemini CLI/2026-02-27-6-safety-and-privacy-changes-in-v0-31-0|6 Safety
   and Privacy changes in v0.31.0]]'
 - '[[Changes/Claude Code/2026-02-28-fixed-listener-leak-in-interactive-permission-handler-during-auto-approvals|Fixed
   listener leak in interactive permission handler during auto-approvals]]'
+- '[[Changes/Open WebUI/2026-03-01-4-safety-and-privacy-changes-in-v0-8-6|4 Safety
+  and Privacy changes in v0.8.6]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-03-02-rust-v0-107-0-github-292187522-c29f3a8f|codex-cli-2026-03-02-rust-v0-107-0-github-292187522-c29f3a8f]]'
 source_type: github_releases
 theme: safety-privacy
@@ -123,8 +123,8 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.107.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-02-28 · Claude Code · [[Changes/Claude Code/2026-02-28-fixed-listener-leak-in-interactive-permission-handler-during-auto-approvals|Fixed listener leak in interactive permission handler during auto-approvals]]
-- Later: 2026-03-03 · Cursor · [[Changes/Cursor/2026-03-03-fixed-team-permission-and-access-control-inconsistencies-across-organization-set|Fixed team permission and access control inconsistencies across organization setups]]
+- Earlier: 2026-03-01 · Open WebUI · [[Changes/Open WebUI/2026-03-01-4-safety-and-privacy-changes-in-v0-8-6|4 Safety and Privacy changes in v0.8.6]]
+- Later: 2026-03-02 · Open WebUI · [[Changes/Open WebUI/2026-03-02-connection-access-control-privacy-tool-server-and-terminal-connections-without-e|🔒 Connection access control privacy. Tool server and terminal connections…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

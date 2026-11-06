@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2fe417128a02a19f43bbffdb34288797e561f8e394cc0f8fc0917ccd42ee2245
+machine_hash: 0d531fb9af3f11217dfef564c90aa7827319617f8ac56ac4a05d354b25db6bec
 product: cline
 product_name: Cline
 record:
@@ -40,11 +40,12 @@ record:
   title: Add download counts to MCP marketplace items
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-04-15-images-in-mcp|Images in MCP]]'
-- '[[Changes/OpenHands/2025-04-16-added-support-for-mcp-servers-natively-via-codeactagent-by-ducphamle2-in-https-g|Added
-  support for MCP servers natively via CodeActAgent]]'
+- '[[Changes/Replit/2025-04-18-smarter-integrations-matching|Smarter integrations
+  matching]]'
 - '[[Changes/Cline/2025-04-19-add-ability-for-models-that-support-it-to-receive-image-responses-from-mcp-serve|Add
   ability for models that support it to receive image responses from MCP servers…]]'
+- '[[Changes/Dify/2025-04-23-12-apps-and-integrations-changes-in-1-3-0|12 Apps and
+  Integrations changes in 1.3.0]]'
 source_release: '[[Releases/Cline/cline-2025-04-25-v3-13-3-github-214884660-e3a92d9b|cline-2025-04-25-v3-13-3-github-214884660-e3a92d9b]]'
 source_type: github_releases
 theme: apps-integrations
@@ -75,8 +76,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-04-19 · Cline · [[Changes/Cline/2025-04-19-add-ability-for-models-that-support-it-to-receive-image-responses-from-mcp-serve|Add ability for models that support it to receive image responses from MCP servers…]]
-- Later: 2025-05-03 · Cline · [[Changes/Cline/2025-05-03-refactor-message-handling-to-not-show-the-mcp-view-of-the-server-modal|Refactor message handling to not show the MCP View of the server modal]]
+- Earlier: 2025-04-23 · Dify · [[Changes/Dify/2025-04-23-12-apps-and-integrations-changes-in-1-3-0|12 Apps and Integrations changes in 1.3.0]]
+- Later: 2025-04-28 · Dify · [[Changes/Dify/2025-04-28-7-apps-and-integrations-changes-in-1-3-1|7 Apps and Integrations changes in 1.3.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

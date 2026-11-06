@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1526fb65bb69ef196843b66a938e1288d0d5b669816e7448f398ba250497da58
+machine_hash: 5acab126a7eec48a39b4288f816f107c85127dfeee5d8a1576e0590e469ccb77
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,10 +43,10 @@ record:
   title: Add experimental SDK session APIs to list and manage skills, MCP servers…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-17-3-apps-and-integrations-changes-in-v2-1-78|3 Apps
-  and Integrations changes in v2.1.78]]'
 - '[[Changes/Claude Code/2026-03-17-2-apps-and-integrations-changes-in-v2-1-77|2 Apps
   and Integrations changes in v2.1.77]]'
+- '[[Changes/Dify/2026-03-17-27-apps-and-integrations-changes-in-1-13-1|27 Apps and
+  Integrations changes in 1.13.1]]'
 - '[[Changes/Gemini CLI/2026-03-17-4-apps-and-integrations-changes-in-v0-34-0|4 Apps
   and Integrations changes in v0.34.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-03-17-v1-0-7-github-298086450-3846932e|github-copilot-cli-2026-03-17-v1-0-7-github-298086450-3846932e]]'
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-03-17 · Gemini CLI · [[Changes/Gemini CLI/2026-03-17-4-apps-and-integrations-changes-in-v0-34-0|4 Apps and Integrations changes in v0.34.0]]
-- Later: 2026-03-18 · Claude Code · [[Changes/Claude Code/2026-03-18-2-apps-and-integrations-changes-in-v2-1-79|2 Apps and Integrations changes in v2.1.79]]
+- Later: 2026-03-17 · Ollama · [[Changes/Ollama/2026-03-17-docker-containers-spin-up-an-integration-as-a-pipeline-step-to-run-evals-test-pr|Docker/containers: spin up an integration as a pipeline step to run evals, test…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

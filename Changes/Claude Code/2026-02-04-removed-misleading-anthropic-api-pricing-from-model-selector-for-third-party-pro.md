@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: pricing
-machine_hash: 06f45e98ad179a4caf88f2da514f21e6e61f1a9a3a37c63dc2a754357f3eb13c
+machine_hash: 18e7d6f33cebda4ba981794e9dd1c7ecf83c61b587c6f306ecaae20b8bbdfe79
 product: claude-code
 product_name: Claude Code
 record:
@@ -55,11 +55,10 @@ record:
   title: Removed misleading Anthropic API pricing from model selector for third-party…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-11-19-credits-are-now-visible-in-status|Credits are now
-  visible in /status]]'
-- '[[Changes/Codex CLI/2025-12-04-persisting-credits-if-new-snapshot-does-not-contain-credit-info-7490-zhao-oai|persisting
-  credits if new snapshot does not contain credit info ♯7490 @zhao-oai]]'
-- '[[Changes/Cursor/2025-12-18-billing-groups|Billing groups]]'
+- '[[Changes/v0/2026-01-19-improved-pricing-structure|Improved pricing structure]]'
+- '[[Changes/v0/2026-01-27-updated-token-pricing|Updated token pricing]]'
+- '[[Changes/Dify/2026-02-03-refactor-contract-restructure-console-contracts-with-nested-billing-module-by-ly|refactor(contract):
+  restructure console contracts with nested billing module]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-04-v2-1-31-github-282782741-04ea99e1|claude-code-2026-02-04-v2-1-31-github-282782741-04ea99e1]]'
 source_type: github_releases
 theme: pricing-model
@@ -92,7 +91,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2025-12-18 · Cursor · [[Changes/Cursor/2025-12-18-billing-groups|Billing groups]]
+- Earlier: 2026-02-03 · Dify · [[Changes/Dify/2026-02-03-refactor-contract-restructure-console-contracts-with-nested-billing-module-by-ly|refactor(contract): restructure console contracts with nested billing module]]
 - Later: 2026-02-04 · Codex CLI · [[Changes/Codex CLI/2026-02-04-10274-add-credits-tooltip-pakrym-oai|♯10274 Add credits tooltip @pakrym-oai]]
 <!-- chronolog:end -->
 

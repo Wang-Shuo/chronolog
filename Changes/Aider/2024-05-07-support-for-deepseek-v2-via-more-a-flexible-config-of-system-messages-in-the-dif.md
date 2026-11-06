@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 97196c0f80a054a98a17cee69e2aae4f81fc2fbb9895566895b41eac1a3f21ad
+machine_hash: a0297a4971334ab4b00e3651539a5aed3cf84c12d8f7f02ab8a1fd060847f43d
 product: aider
 product_name: Aider
 record:
@@ -47,12 +47,12 @@ record:
     the diff…
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-03-20-team-invites-we-made-it-a-bit-easier-for-you-to-invite-your-colleagues-to-your-c|Team
-  invites: We made it a bit easier for you to invite your colleagues…]]'
-- '[[Changes/Cursor/2024-04-12-copilot-ux-suggestion-previews-now-have-syntax-highlighting-which-we-find-makes|Copilot++
-  UX: Suggestion previews now have syntax highlighting, which we find makes…]]'
-- '[[Changes/Aider/2024-04-24-allow-repo-map-for-whole-edit-format|Allow repo map
-  for "whole" edit format]]'
+- '[[Changes/Dify/2024-04-25-feat-prompt-editor-support-auto-height-by-content-height-and-fix-some-bugs-by-ia|feat:
+  prompt editor support auto height by content height and fix some bugs]]'
+- '[[Changes/Dify/2024-05-02-3-editor-experience-changes-in-0-6-6|3 Editor Experience
+  changes in 0.6.6]]'
+- '[[Changes/Open WebUI/2024-05-02-edit-button-styling-fixed-styling-inconsistency-with-edit-buttons|✏️
+  Edit Button Styling: Fixed styling inconsistency with edit buttons]]'
 source_release: '[[Releases/Aider/aider-2024-05-07-v0-32-0-github-154679584-6315b9e7|aider-2024-05-07-v0-32-0-github-154679584-6315b9e7]]'
 source_type: github_releases
 theme: editor-experience
@@ -83,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2024-04-24 · Aider · [[Changes/Aider/2024-04-24-allow-repo-map-for-whole-edit-format|Allow repo map for "whole" edit format]]
+- Earlier: 2024-05-02 · Open WebUI · [[Changes/Open WebUI/2024-05-02-edit-button-styling-fixed-styling-inconsistency-with-edit-buttons|✏️ Edit Button Styling: Fixed styling inconsistency with edit buttons]]
 - Later: 2024-05-10 · Aider · [[Changes/Aider/2024-05-10-refactored-prompting-to-unify-some-phrasing-across-edit-formats|Refactored prompting to unify some phrasing across edit formats]]
 <!-- chronolog:end -->
 

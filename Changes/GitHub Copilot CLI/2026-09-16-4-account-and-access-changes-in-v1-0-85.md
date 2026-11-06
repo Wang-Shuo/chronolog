@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4a28f2d2127f6ed1324388e848da30c911ff899b13287f0404abb6d6335d25bc
+machine_hash: 320f050b222e337e0de1cfc86d83b9cd4c8c5bbf8d5fb6be68ad6518170065b0
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -49,12 +49,12 @@ record:
   title: 4 Account and Access changes in v1.0.85
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-10-2-account-and-access-changes-in-v2-1-268|2 Account
-  and Access changes in v2.1.268]]'
 - '[[Changes/Claude Code/2026-09-14-changed-claude-apps-gateway-bedrock-vertex-ai-and-foundry-sessions-so-that-they|Changed
   Claude apps gateway, Bedrock, Vertex AI, and Foundry sessions so that they…]]'
 - '[[Changes/Claude Code/2026-09-15-4-account-and-access-changes-in-v2-1-273|4 Account
   and Access changes in v2.1.273]]'
+- '[[Changes/Ollama/2026-09-15-added-first-run-setup-when-running-ollama-with-options-to-sign-in-or-continue-lo|Added
+  first-run setup when running ollama, with options to sign in or continue locally]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-09-16-v1-0-85-github-389603482-889a46d9|github-copilot-cli-2026-09-16-v1-0-85-github-389603482-889a46d9]]'
 source_type: github_releases
 theme: account-access
@@ -107,7 +107,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.85
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-09-15 · Claude Code · [[Changes/Claude Code/2026-09-15-4-account-and-access-changes-in-v2-1-273|4 Account and Access changes in v2.1.273]]
+- Earlier: 2026-09-15 · Ollama · [[Changes/Ollama/2026-09-15-added-first-run-setup-when-running-ollama-with-options-to-sign-in-or-continue-lo|Added first-run setup when running ollama, with options to sign in or continue locally]]
 - Later: 2026-09-16 · OpenHands · [[Changes/OpenHands/2026-09-16-2-account-and-access-changes-in-v1-19-0|2 Account and Access changes in v1.19.0]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: aed6bd0f010d65bbfde9be5e3bf124ecdd2b8d555142e04004b081e972ce3a02
+machine_hash: 9bdabf606e5253d334db6e68924e9fac8b80dea6c206a6fe8349869ae9e6c7d6
 product: windsurf
 product_name: Windsurf
 record:
@@ -40,10 +40,10 @@ record:
   title: Various bug fixes and stability improvements
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-09-09-improve-performance-of-shell-commands-with-lots-of-output-by-jakemac53-in-https|improve
-  performance of shell commands with lots of output]]'
-- '[[Changes/Codex CLI/2025-09-10-3323-chore-try-switching-to-cargo-nextest-to-speed-up-ci-builds|♯3323
-  chore: try switching to cargo nextest to speed up CI builds]]'
+- "[[Changes/Open WebUI/2025-09-10-various-improvements-were-implemented-across-the-frontend-and-backend-to-enhance|\U0001F504
+  Various improvements were implemented across the frontend and backend to enhance…]]"
+- '[[Changes/Ollama/2025-09-11-3-reliability-and-performance-changes-in-v0-11-11|3
+  Reliability and Performance changes in v0.11.11]]'
 - '[[Changes/Cursor/2025-09-12-5-reliability-and-performance-changes-in-1-6|5 Reliability
   and Performance changes in 1.6]]'
 source_release: '[[Releases/Windsurf/windsurf-2025-09-16-v1-12-6-bf864e8d|windsurf-2025-09-16-v1-12-6-bf864e8d]]'

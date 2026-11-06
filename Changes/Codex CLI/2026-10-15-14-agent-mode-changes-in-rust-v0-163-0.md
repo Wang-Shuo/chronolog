@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a01d2b0aae677ed272fd11d3466cb64bf8c9192c6564557df62ba40894a47d4e
+machine_hash: 3b86b584cf596b865b6e32078cd92fc576951472e09d10635db5eb21a075c495
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -70,12 +70,12 @@ record:
   title: 14 Agent Mode changes in rust-v0.163.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-10-13-3-agent-mode-changes-in-v1-0-97|3 Agent
-  Mode changes in v1.0.97]]'
 - '[[Changes/Claude Code/2026-10-14-5-agent-mode-changes-in-v2-1-299|5 Agent Mode
   changes in v2.1.299]]'
 - '[[Changes/Claude Code/2026-10-14-3-agent-mode-changes-in-v2-1-300|3 Agent Mode
   changes in v2.1.300]]'
+- '[[Changes/Ollama/2026-10-14-a-compact-sibling-nemotron-3-5-bolt-https-ollama-com-library-nemotron-3-5-bolt-d|A
+  compact sibling, Nemotron 3.5…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-10-15-rust-v0-163-0-github-414286110-97016fe6|codex-cli-2026-10-15-rust-v0-163-0-github-414286110-97016fe6]]'
 source_type: github_releases
 theme: agent-mode
@@ -144,7 +144,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.163.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-10-14 · Claude Code · [[Changes/Claude Code/2026-10-14-3-agent-mode-changes-in-v2-1-300|3 Agent Mode changes in v2.1.300]]
+- Earlier: 2026-10-14 · Ollama · [[Changes/Ollama/2026-10-14-a-compact-sibling-nemotron-3-5-bolt-https-ollama-com-library-nemotron-3-5-bolt-d|A compact sibling, Nemotron 3.5…]]
 - Later: 2026-10-16 · ChatGPT · [[Changes/ChatGPT/2026-10-16-multiple-agents-that-can-work-on-different-parts-of-a-task-in-parallel-you-can-f|Multiple agents that can work on different parts of a task in parallel]]
 <!-- chronolog:end -->
 

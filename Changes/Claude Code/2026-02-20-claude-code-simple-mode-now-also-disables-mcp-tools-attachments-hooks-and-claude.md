@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3ae363acb8b6350957cd6771362b06cb53bc4983d2a8447d4ed4fe77e602b518
+machine_hash: bd6787ab0c18adf1ab57a7ab3ec1ca577bc94386dd207da2a93b65ba776119e4
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,12 @@ record:
   title: '`CLAUDE_CODE_SIMPLE` mode now also disables MCP tools, attachments, hooks…'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-02-19-preview-diagrams-and-mini-apps-directly-in-chat|Preview
-  diagrams and mini apps directly in chat]]'
 - '[[Changes/Claude Code/2026-02-19-2-apps-and-integrations-changes-in-v2-1-49|2 Apps
   and Integrations changes in v2.1.49]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-19-3-apps-and-integrations-changes-in-v0-0-412|3
   Apps and Integrations changes in v0.0.412]]'
+- '[[Changes/Ollama/2026-02-19-ollama-launch-integration-will-now-always-show-the-model-picker|ollama
+  launch integration will now always show the model picker]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-20-v2-1-50-github-288920711-09694b82|claude-code-2026-02-20-v2-1-50-github-288920711-09694b82]]'
 source_type: github_releases
 theme: apps-integrations
@@ -81,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-02-19 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-19-3-apps-and-integrations-changes-in-v0-0-412|3 Apps and Integrations changes in v0.0.412]]
+- Earlier: 2026-02-19 · Ollama · [[Changes/Ollama/2026-02-19-ollama-launch-integration-will-now-always-show-the-model-picker|ollama launch integration will now always show the model picker]]
 - Later: 2026-02-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-20-support-remote-plugin-sources-github-repos-and-git-urls-in-marketplace-json-plug|Support remote plugin sources (GitHub repos and git URLs) in marketplace.json plugin…]]
 <!-- chronolog:end -->
 

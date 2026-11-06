@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 940414a6668a20ff89fac77969642266551b2d62bbc1b4f4f00e7d7d8a30cc24
+machine_hash: 6bc1ff397e315d3b650ec858658f7e9737395715b741abd66f33b851646bcc9e
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -44,11 +44,12 @@ record:
   title: 2 Interface Experience changes in v0.10.0
   type: change
 related_changes:
-- '[[Changes/Windsurf/2025-10-10-codemaps|Codemaps]]'
-- '[[Changes/Cline/2025-10-16-4-interface-experience-changes-in-v3-33-0|4 Interface
-  Experience changes in v3.33.0]]'
+- '[[Changes/Open WebUI/2025-10-16-3-interface-experience-changes-in-v0-6-34|3 Interface
+  Experience changes in v0.6.34]]'
 - '[[Changes/GitHub Copilot CLI/2025-10-21-improved-line-wrapping-and-alignment-when-rendering-file-diffs|Improved
   line wrapping and alignment when rendering file diffs]]'
+- '[[Changes/Dify/2025-10-22-3-interface-experience-changes-in-1-9-2|3 Interface Experience
+  changes in 1.9.2]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-10-22-v0-10-0-github-256434073-b3dd91c0|gemini-cli-2025-10-22-v0-10-0-github-256434073-b3dd91c0]]'
 source_type: github_releases
 theme: interface-experience
@@ -92,7 +93,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.10.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2025-10-21 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-10-21-improved-line-wrapping-and-alignment-when-rendering-file-diffs|Improved line wrapping and alignment when rendering file diffs]]
+- Earlier: 2025-10-22 · Dify · [[Changes/Dify/2025-10-22-3-interface-experience-changes-in-1-9-2|3 Interface Experience changes in 1.9.2]]
 - Later: 2025-10-23 · Codex CLI · [[Changes/Codex CLI/2025-10-23-tui-drop-citation-rendering-by-nornagon-openai-in-https-github-com-openai-codex|tui: drop citation rendering]]
 <!-- chronolog:end -->
 

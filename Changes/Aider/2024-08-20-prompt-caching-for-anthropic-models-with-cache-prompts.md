@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e7b2ce0028a3000087fa31479b790ad8225d5c7d5788624adc63d7962229f15b
+machine_hash: 1a35ffd27edc82936b9555f71669032a3497c9db62dcdf17ab179d5e2cd8e2b5
 product: aider
 product_name: Aider
 record:
@@ -40,12 +40,12 @@ record:
   title: Prompt caching for Anthropic models with `--cache-prompts`
   type: change
 related_changes:
-- '[[Changes/Cline/2024-08-11-adds-option-to-choose-other-claude-models-gpt-4o-deepseek-and-mistral-if-you-use|Adds
-  option to choose other Claude models…]]'
-- '[[Changes/Aider/2024-08-13-infinite-output-for-deepseek-coder-mistral-models-in-addition-to-anthropic-s-mod|Infinite
-  output for DeepSeek Coder, Mistral models in addition to Anthropic''s models]]'
 - '[[Changes/Cline/2024-08-15-adds-support-for-prompt-caching-https-www-anthropic-com-news-prompt-caching-to-r|Adds
   support for Prompt Caching((source link)]]'
+- '[[Changes/Gemini/2024-08-15-gemini-1-5-pro-in-gemini-advanced-just-became-more-capable|Gemini
+  1.5 Pro in Gemini Advanced just became more capable]]'
+- '[[Changes/Dify/2024-08-19-7-model-support-changes-in-0-7-1|7 Model Support changes
+  in 0.7.1]]'
 source_release: '[[Releases/Aider/aider-2024-08-20-v0-51-0-github-171109140-6ace7052|aider-2024-08-20-v0-51-0-github-171109140-6ace7052]]'
 source_type: github_releases
 theme: model-support
@@ -76,8 +76,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2024-08-15 · Cline · [[Changes/Cline/2024-08-15-adds-support-for-prompt-caching-https-www-anthropic-com-news-prompt-caching-to-r|Adds support for Prompt Caching((source link)]]
-- Later: 2024-08-23 · Aider · [[Changes/Aider/2024-08-23-default-openai-model-is-now-gpt-4o-2024-08-06|Default OpenAI model is now gpt-4o-2024-08-06]]
+- Earlier: 2024-08-19 · Dify · [[Changes/Dify/2024-08-19-7-model-support-changes-in-0-7-1|7 Model Support changes in 0.7.1]]
+- Later: 2024-08-20 · Ollama · [[Changes/Ollama/2024-08-20-2-model-support-changes-in-v0-3-7|2 Model Support changes in v0.3.7]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

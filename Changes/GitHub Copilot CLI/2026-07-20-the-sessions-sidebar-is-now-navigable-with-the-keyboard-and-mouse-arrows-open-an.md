@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 45f2b2584a811411181b8339575cfb6cc7c7e7a126d85679a97e8668705f29a2
+machine_hash: d9f7f9437b1a9e2563e74751ec0df7624a258acfbb9c74f6969b0b71e74e53e1
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -48,9 +48,8 @@ record:
   title: The Sessions sidebar is now navigable with the keyboard and mouse…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-17-typing-resume-in-the-agent-view-now-opens-a-picker-of-past-sessions-including-se|Typing
-  /resume in the agent view now opens a picker of past sessions]]'
-- '[[Changes/Cursor/2026-07-17-interaction-improvements-dee44a|Interaction improvements]]'
+- '[[Changes/Lovable/2026-07-17-redesigned-workspace-menu|Redesigned workspace menu]]'
+- '[[Changes/Replit/2026-07-17-a-faster-task-sidebar|A faster task sidebar]]'
 - '[[Changes/Windsurf/2026-07-17-devin-local|Devin Local]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-07-20-v1-0-72-github-356903706-84b07b91|github-copilot-cli-2026-07-20-v1-0-72-github-356903706-84b07b91]]'
 source_type: github_releases

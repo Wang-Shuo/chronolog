@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: cb8d4de4cb8af548904d44eb82a2ccb3a4d2bee0684e9646570f4624cb9ec416
+machine_hash: f7a9a2b6ff6a41595a7f34916edf0047174fcf51d31f7eead978ec6be9eac937
 product: windsurf
 product_name: Windsurf
 record:
@@ -45,8 +45,8 @@ record:
   title: Devin Desktop
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-15-claude-code-on-the-web-removed-the-full-page-desktop-app-download-screen-that-ne|Claude
-  Code on the web Removed the full-page desktop-app download screen that new…]]'
+- '[[Changes/Ollama/2026-09-15-added-ollama-apps-to-open-the-desktop-app-s-apps-page-directly-on-macos-and-wind|Added
+  ollama://apps to open the desktop app’s Apps page directly on macOS and Windows]]'
 - '[[Changes/Windsurf/2026-09-15-devin-desktop|Devin Desktop]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-16-4-mobile-and-desktop-changes-in-v1-0-85|4
   Mobile and Desktop changes in v1.0.85]]'

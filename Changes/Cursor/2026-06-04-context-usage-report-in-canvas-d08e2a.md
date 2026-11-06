@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 2488b3a936f0c11a2b397055c1ac24bab6062b6b46aea3bcc86c0d7b9f210a78
+machine_hash: 2dcf1053969b0057fbb0b8f70dd7cd0a1bd52d1d867d38d6ce74490b6a14ba4a
 product: cursor
 product_name: Cursor
 record:
@@ -66,8 +66,8 @@ record:
   title: Context usage report in canvas
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-06-03-feat-context-complete-simplification-work-by-joshualitt-in-https-github-com-goog|feat(context):
-  Complete simplification work]]'
+- '[[Changes/Ollama/2026-06-03-the-llama-cpp-backend-now-includes-cached-prompt-tokens-in-token-accounting-impr|The
+  llama.cpp backend now includes cached prompt tokens in token accounting…]]'
 - '[[Changes/Codex CLI/2026-06-04-3-context-window-changes-in-rust-v0-137-0|3 Context
   Window changes in rust-v0.137.0]]'
 - '[[Changes/Cursor/2026-06-04-this-release-introduces-design-mode-for-faster-canvas-editing-new-ways-to-unders|Cursor

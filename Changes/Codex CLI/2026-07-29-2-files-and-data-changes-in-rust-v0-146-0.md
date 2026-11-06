@@ -4,20 +4,20 @@ date: '2026-07-29'
 description: 'Codex CLI · 2026-07-29 · Files and Data: 2 changes in 0.146.0 — Document
   shared HTTP-client usage, proxy-aware connection pooling, and safe outbound request…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code
-    interpreter is now rolling out in beta on web]]'
+  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
+    Files and Data changes in 0.2.2]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1119
+  lag_days: 1161
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d93bd245574a1d9a4860f65948618fe752985048a3b21718161b5ac0f7b35cae
+machine_hash: 3b6f39928e88cb10904d5e44a5a9b90ac094d9b66568fb82f3051801f933d11d
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,10 +43,10 @@ record:
   title: 2 Files and Data changes in rust-v0.146.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-07-21-33167-document-the-windows-exec-yield-time-range-copyberry|♯33167
-  Document the Windows exec yield time range @copyberry]]'
-- '[[Changes/ChatGPT/2026-07-23-we-re-starting-to-roll-out-a-new-health-experience-in-chatgpt-logged-in-free-go-b62f3b|We’re
-  starting to roll out a new health experience in ChatGPT]]'
+- '[[Changes/Dify/2026-07-28-3-files-and-data-changes-in-1-16-1|3 Files and Data changes
+  in 1.16.1]]'
+- '[[Changes/Dify/2026-07-28-you-can-now-click-a-node-id-in-workflow-run-logs-or-error-messages-to-locate-and|Click
+  a node_id in workflow run logs or error messages to locate and highlight…]]'
 - '[[Changes/OpenHands/2026-07-28-migrated-from-https-github-com-openhands-agent-canvas-releases-tag-v1-6-1-to-see|Migrated
   from (source link) to seed…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-07-29-rust-v0-146-0-github-361463950-6d491983|codex-cli-2026-07-29-rust-v0-146-0-github-361463950-6d491983]]'
@@ -103,7 +103,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.146.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-06 · ChatGPT · [[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code interpreter is now rolling out in beta on web]]
+- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

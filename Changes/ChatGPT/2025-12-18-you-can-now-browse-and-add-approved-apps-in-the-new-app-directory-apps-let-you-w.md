@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: d24e0892a10e16430b2fbaf44fa73a2bdb7033d006c111f016792858abfac31a
+machine_hash: e28054488c346ca456a8a1671b4544b22c615d3848e057c17781249d84050aa8
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -75,12 +75,12 @@ record:
   title: Introducing the app directory in ChatGPT
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-12-15-7962-docs-update-the-docs-for-openai-codex-shell-tool-mcp|♯7962
-  docs: update the docs for @openai/codex-shell-tool-mcp]]'
 - '[[Changes/Gemini CLI/2025-12-16-9-apps-and-integrations-changes-in-v0-21-0|9 Apps
   and Integrations changes in v0.21.0]]'
 - '[[Changes/OpenHands/2025-12-16-added-azure-devops-integration-support-by-zerofltexx-in-https-github-com-openhan|Added
   Azure DevOps integration support]]'
+- '[[Changes/v0/2025-12-16-you-can-now-connect-v0-to-your-linear-workspace-and-build-straight-from-your-bac|Connect
+  v0 to your Linear workspace and build straight from your backlog]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-12-18-introducing-the-app-directory-in-chatgpt-c4ab90ba|chatgpt-2025-12-18-introducing-the-app-directory-in-chatgpt-c4ab90ba]]'
 source_type: chatgpt_changelog
 theme: apps-integrations
@@ -107,7 +107,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-12-16 · OpenHands · [[Changes/OpenHands/2025-12-16-added-azure-devops-integration-support-by-zerofltexx-in-https-github-com-openhan|Added Azure DevOps integration support]]
+- Earlier: 2025-12-16 · v0 · [[Changes/v0/2025-12-16-you-can-now-connect-v0-to-your-linear-workspace-and-build-straight-from-your-bac|Connect v0 to your Linear workspace and build straight from your backlog]]
 - Later: 2025-12-18 · Codex CLI · [[Changes/Codex CLI/2025-12-18-2-apps-and-integrations-changes-in-rust-v0-74-0|2 Apps and Integrations changes in rust-v0.74.0]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: be4ff72a86798c539c93e4b1e3367f9812f271ff3913cebcea6e414d17306a6e
+machine_hash: d0c6daa4a8346760dcbecbc9f5d8f0c9eba7e926754149e0fb7c26dbc0d6a919
 product: cursor
 product_name: Cursor
 record:
@@ -46,8 +46,7 @@ record:
   title: Bugbot MCP Support
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-07-5-apps-and-integrations-changes-in-v2-1-94|5 Apps
-  and Integrations changes in v2.1.94]]'
+- '[[Changes/ElevenLabs/2026-04-07-javascript-sdk|JavaScript SDK]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-07-2-apps-and-integrations-changes-in-v1-0-21|2
   Apps and Integrations changes in v1.0.21]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-07-azure-openai-byok-defaults-to-the-ga-versionless-v1-route-when-no-api-version-is|Azure

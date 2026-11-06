@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 34d677bf4628544a683e45be7682887fe3a3c313598fb7f8f71e3edf0f65e9d2
+machine_hash: 47fe9f59864aa4fc22f56d7e8cde5bc8d232ca82ee2d8c5ce57f1f5a13811f4b
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,10 +43,9 @@ record:
   title: Added `/model` slash command to easily change the model…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-09-29-opt-out-of-model-training-so-their-teen-s-conversations-won-t-be-used-to-improve|Opt
-  out of model training, so their teen’s conversations won’t be used to improve…]]'
 - '[[Changes/Cline/2025-09-29-add-claude-sonnet-4-5-by-saoudrizwan-in-https-github-com-cline-cline-pull-6544|Add
   Claude Sonnet 4.5]]'
+- '[[Changes/ElevenLabs/2025-09-29-v1-tts-model-deprecation|v1 TTS model deprecation]]'
 - '[[Changes/GitHub Copilot CLI/2025-09-29-3-model-support-changes-in-v0-0-329|3 Model
   Support changes in v0.0.329]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2025-09-29-v0-0-329-github-250905427-a727dae6|github-copilot-cli-2025-09-29-v0-0-329-github-250905427-a727dae6]]'
@@ -81,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-09-29 · Cline · [[Changes/Cline/2025-09-29-add-claude-sonnet-4-5-by-saoudrizwan-in-https-github-com-cline-cline-pull-6544|Add Claude Sonnet 4.5]]
+- Earlier: 2025-09-29 · ElevenLabs · [[Changes/ElevenLabs/2025-09-29-v1-tts-model-deprecation|v1 TTS model deprecation]]
 - Later: 2025-09-29 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-09-29-changed-the-default-model-back-to-sonnet-4-since-sonnet-4-5-hasn-t-rolled-out-to|Changed the default model back to Sonnet 4 since Sonnet 4.5 hasn't rolled out to all…]]
 <!-- chronolog:end -->
 

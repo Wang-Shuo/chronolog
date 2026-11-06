@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8ea7e4522caed319b2f893f6c99d7510afb063d481a9a4e81b9dffd3993f31bf
+machine_hash: c02d00bac990a3478dc109cd39616e77cb98bf6a0d4b5ca7876b478741992cb3
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -41,12 +41,12 @@ record:
   title: Login flow no longer hangs on Ubuntu when system keyring is unresponsive
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-05-display-request-id-in-authentication-and-authorization-error-messages-to-aid-tro|Display
-  request ID in authentication and authorization error messages to aid…]]'
-- '[[Changes/Claude Code/2026-03-06-vscode-added-native-mcp-server-management-dialog-use-mcp-in-the-chat-panel-to-en|VSCode
-  Added native MCP server management dialog]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-06-mcp-servers-can-now-request-users-to-visit-a-url-for-out-of-band-interactions-su|MCP
   servers can now request users to visit a URL for out-of-band interactions such…]]'
+- "[[Changes/Open WebUI/2026-03-08-microsoft-oauth-refresh-token-fix-fixed-a-bug-where-microsoft-oauth-refresh-toke|\U0001F510
+  Microsoft OAuth refresh token fix. Fixed a bug where Microsoft OAuth refresh…]]"
+- '[[Changes/ElevenLabs/2026-03-09-saml-sso-for-ios-and-android-enterprise-customers-using-saml-based-identity-prov|SAML
+  SSO for iOS and Android]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-03-09-v1-0-3-github-294937927-8c143137|github-copilot-cli-2026-03-09-v1-0-3-github-294937927-8c143137]]'
 source_type: github_releases
 theme: account-access
@@ -82,8 +82,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-03-06 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-06-mcp-servers-can-now-request-users-to-visit-a-url-for-out-of-band-interactions-su|MCP servers can now request users to visit a URL for out-of-band interactions such…]]
-- Later: 2026-03-10 · Codex CLI · [[Changes/Codex CLI/2026-03-10-2-account-and-access-changes-in-rust-v0-113-0|2 Account and Access changes in rust-v0.113.0]]
+- Earlier: 2026-03-09 · ElevenLabs · [[Changes/ElevenLabs/2026-03-09-saml-sso-for-ios-and-android-enterprise-customers-using-saml-based-identity-prov|SAML SSO for iOS and Android]]
+- Later: 2026-03-09 · Open WebUI · [[Changes/Open WebUI/2026-03-09-2-account-and-access-changes-in-v0-8-10|2 Account and Access changes in v0.8.10]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

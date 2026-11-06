@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0521d32ad9efe51e237326b10affb0141cc60f9ba426000eabba0526b618e018
+machine_hash: 164879abbf848441281fb285e90fb5ceb2d6876e89cc20576f4cf8b8f1116f99
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -63,10 +63,9 @@ record:
   title: 11 Model Support changes in rust-v0.102.0
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-02-13-as-previously-announced-we-have-retired-gpt-4o-gpt-4-1-gpt-4-1-mini-and-openai-o|Retiring
-  GPT-4o and other legacy models]]'
-- '[[Changes/Cline/2026-02-13-ui-ux-fixes-with-minimax-model-family|UI/UX fixes with
-  minimax model family]]'
+- '[[Changes/Open WebUI/2026-02-16-4-model-support-changes-in-v0-8-2|4 Model Support
+  changes in v0.8.2]]'
+- '[[Changes/Claude/2026-02-17-claude-sonnet-4-6-launch|Claude Sonnet 4.6 launch]]'
 - '[[Changes/Claude Code/2026-02-17-added-support-for-claude-sonnet-4-6|Added support
   for Claude Sonnet 4.6]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-02-17-rust-v0-102-0-github-287401154-1bf3dbd0|codex-cli-2026-02-17-rust-v0-102-0-github-287401154-1bf3dbd0]]'

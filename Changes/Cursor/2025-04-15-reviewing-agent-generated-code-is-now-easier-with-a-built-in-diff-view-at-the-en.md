@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 42af9d2a289235d147e6b2b1de28edeec38940d50d591895042bb305cda4f678
+machine_hash: 6fddb137d5471674e02d5e2824298b9ccf1f05550493033ab7e997044cb8702d
 product: cursor
 product_name: Cursor
 record:
@@ -48,12 +48,10 @@ record:
   title: Making reviews easier
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-03-23-built-in-modes-custom-modes-beta|Built-in modes & custom
-  modes (beta)]]'
-- '[[Changes/Cline/2025-04-09-add-new-create-new-task-tool-to-let-cline-start-a-new-task-autonomously|Add
-  new ''Create New Task'' tool to let Cline start a new task autonomously!]]'
 - '[[Changes/OpenHands/2025-04-10-prompt-agent-to-follow-existing-pr-template-when-create-new-pr-by-xingyaoww-in-h|Prompt
   agent to follow existing PR template when create new PR]]'
+- '[[Changes/ElevenLabs/2025-04-14-agents-platform|Agents Platform]]'
+- '[[Changes/ElevenLabs/2025-04-14-agents-platform-a7909d|Agents Platform]]'
 source_release: '[[Releases/Cursor/cursor-2025-04-15-0-49-https-cursor-com-changelog-0-49-3e16488f|cursor-2025-04-15-0-49-https-cursor-com-changelog-0-49-3e16488f]]'
 source_type: cursor_changelog
 theme: agent-mode
@@ -87,8 +85,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2025-04-10 · OpenHands · [[Changes/OpenHands/2025-04-10-prompt-agent-to-follow-existing-pr-template-when-create-new-pr-by-xingyaoww-in-h|Prompt agent to follow existing PR template when create new PR]]
-- Later: 2025-04-23 · OpenHands · [[Changes/OpenHands/2025-04-23-improved-logic-to-prevent-agent-from-getting-stuck-by-rbren-in-https-github-com|Improved logic to prevent agent from getting stuck]]
+- Earlier: 2025-04-14 · ElevenLabs · [[Changes/ElevenLabs/2025-04-14-agents-platform-a7909d|Agents Platform]]
+- Later: 2025-04-18 · Replit · [[Changes/Replit/2025-04-18-streamlined-agent-progress-ux|Streamlined Agent progress UX]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

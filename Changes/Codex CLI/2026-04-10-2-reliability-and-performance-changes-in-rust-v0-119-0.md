@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d4557d3a76fb97081d278e807487400251440158cc7c11e67a02f7dcbd2b5937
+machine_hash: a14dbee28db7034494ee81a77a9e4130358346e745f85b504ee80f3833e72e3e
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -97,7 +97,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.119.0
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-04-10 · Claude Code · [[Changes/Claude Code/2026-04-10-improved-brief-mode-to-retry-once-when-claude-responds-with-plain-text-instead-o|Improved brief mode to retry once when Claude responds with plain text instead…]]
-- Later: 2026-04-13 · Claude Code · [[Changes/Claude Code/2026-04-13-improved-stalled-api-stream-handling-streams-now-abort-after-5-minutes-of-no-dat|Improved stalled API stream handling]]
+- Later: 2026-04-10 · Replit · [[Changes/Replit/2026-04-10-choose-where-your-app-runs-with-publishing-geography|Choose where your app runs with publishing geography]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

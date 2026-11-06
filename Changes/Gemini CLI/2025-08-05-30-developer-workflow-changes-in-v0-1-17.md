@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c28dc07dd4588c1152de3f7f327e301f52af12002db108c18906006b5d77ee66
+machine_hash: 2a940d4aad3113197ce1ffb50875182eecef63570a2fd7e6e3e05c079a5470a3
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -213,7 +213,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.1.17
 ## Nearby in Developer Workflow
 
 - Earlier: 2025-08-02 · Gemini CLI · [[Changes/Gemini CLI/2025-08-02-26-developer-workflow-changes-in-v0-1-16|26 Developer Workflow changes in v0.1.16]]
-- Later: 2025-08-06 · Gemini CLI · [[Changes/Gemini CLI/2025-08-06-31-developer-workflow-changes-in-v0-1-18|31 Developer Workflow changes in v0.1.18]]
+- Later: 2025-08-05 · Ollama · [[Changes/Ollama/2025-08-05-the-model-can-be-downloaded-directly-in-ollama-s-new-app-or-via-the-terminal|The model can be downloaded directly in Ollama’s new app or via the terminal]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

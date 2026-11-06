@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 70186f05d6458033b1067b9ce9f45890d359c50355208444a0ac0d56c05d41d8
+machine_hash: 11fe8c8ec69833a625fae569f775375ee50fa0aa4a9fb042c758af538c32ba36
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,10 +43,10 @@ record:
   title: 2 Context Window changes in rust-v0.114.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-06-improve-explore-agent-precision-and-large-repository-support-with-better-context|Improve
-  explore agent precision and large repository support with better context sharing]]'
 - '[[Changes/Codex CLI/2026-03-10-4-context-window-changes-in-rust-v0-113-0|4 Context
   Window changes in rust-v0.113.0]]'
+- '[[Changes/Claude/2026-03-11-work-across-excel-and-powerpoint|Work across Excel
+  and PowerPoint]]'
 - '[[Changes/Claude Code/2026-03-11-improved-the-remote-control-spawn-mode-selection-prompt-with-better-context|Improved
   the Remote Control spawn mode selection prompt with better context]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-03-11-rust-v0-114-0-github-295424880-aad043c8|codex-cli-2026-03-11-rust-v0-114-0-github-295424880-aad043c8]]'

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b450f4aee03041d33a23118617899d469906cca99c0be6460fe21b08743580da
+machine_hash: 74c465b5ed4e2b5dc5c3d81b1432f9781cead0454f29b1a8c66899858a4eea3e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -44,10 +44,10 @@ record:
     draft…'
   type: change
 related_changes:
-- '[[Changes/Windsurf/2025-10-10-various-other-bug-fixes-and-stability-improvements|Various
-  other bug fixes and stability improvements]]'
 - '[[Changes/Windsurf/2025-10-16-various-stability-improvements-and-minor-bug-fixes|Various
   stability improvements and minor bug fixes]]'
+- '[[Changes/Dify/2025-10-22-5-reliability-and-performance-changes-in-1-9-2|5 Reliability
+  and Performance changes in 1.9.2]]'
 - '[[Changes/GitHub Copilot CLI/2025-10-22-made-improvements-to-the-memory-footprint-of-copilot-cli-especially-when-dealing|Made
   improvements to the memory footprint of Copilot CLI, especially when dealing…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-10-23-shared-projects-217fa07d|chatgpt-2025-10-23-shared-projects-217fa07d]]'

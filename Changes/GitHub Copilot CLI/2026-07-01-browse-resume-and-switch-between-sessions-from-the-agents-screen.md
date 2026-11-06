@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f9633013cc541ee834b2e722e77891ea04bce9d61cb525931e3ce1c4b97a0125
+machine_hash: 7cc559de09ff141efa29d80874ec5cf004c293116967a49c2cf5141c5f92e1a8
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -51,12 +51,12 @@ record:
   title: Browse, resume, and switch between sessions from the agents screen
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-15-27501-codex-expand-hosted-web-search-citation-guidance-yuning-oai|♯27501
-  codex Expand hosted web search citation guidance @yuning-oai]]'
 - '[[Changes/Codex CLI/2026-06-22-2-search-and-browsing-changes-in-rust-v0-142-0|2
   Search and Browsing changes in rust-v0.142.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-23-add-mcp-registry-installation-for-browsing-and-installing-mcp-servers|Add
   /mcp registry installation for browsing and installing MCP servers]]'
+- '[[Changes/Open WebUI/2026-06-29-8-search-and-browsing-changes-in-v0-10-0|8 Search
+  and Browsing changes in v0.10.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-07-01-v1-0-68-github-347721762-7219d583|github-copilot-cli-2026-07-01-v1-0-68-github-347721762-7219d583]]'
 source_type: github_releases
 theme: search-browsing
@@ -93,8 +93,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Search and Browsing
 
-- Earlier: 2026-06-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-23-add-mcp-registry-installation-for-browsing-and-installing-mcp-servers|Add /mcp registry installation for browsing and installing MCP servers]]
-- Later: 2026-07-09 · Codex CLI · [[Changes/Codex CLI/2026-07-09-31525-core-migrate-standalone-web-search-to-extension-owned-turn-items-owenlin0|♯31525 core: migrate standalone web search to extension-owned turn items @owenlin0]]
+- Earlier: 2026-06-29 · Open WebUI · [[Changes/Open WebUI/2026-06-29-8-search-and-browsing-changes-in-v0-10-0|8 Search and Browsing changes in v0.10.0]]
+- Later: 2026-07-01 · Open WebUI · [[Changes/Open WebUI/2026-07-01-web-search-domain-filtering-domain-allow-and-block-rules-for-web-search-results|🔒 Web search domain filtering. Domain allow and block rules for web search…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

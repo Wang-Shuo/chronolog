@@ -4,20 +4,20 @@ date: '2024-06-29'
 description: 'OpenHands · 2024-06-29 · Files and Data: 2 changes in 0.7.0 — Document,
   rename Agent* exceptions to LLM* by @enyst in…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code
-    interpreter is now rolling out in beta on web]]'
+  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
+    Files and Data changes in 0.2.2]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 359
+  lag_days: 401
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 671c31dc1379448b536737183b557fcf1033152a806a683f219df7c9f510400b
+machine_hash: 1b36f9b97d8e2b2cc049c742fb01e4acabb798446ad5ac19ffda41080ee437d2
 product: openhands
 product_name: OpenHands
 record:
@@ -43,10 +43,12 @@ record:
   title: 2 Files and Data changes in 0.7.0
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code
-  interpreter is now rolling out in beta on web]]'
-- '[[Changes/ChatGPT/2024-05-16-today-we-re-starting-to-roll-out-enhancements-to-data-analysis-6433a3|Today,
-  we’re starting to roll out enhancements to data analysis]]'
+- '[[Changes/Open WebUI/2024-06-04-quick-access-to-documentation-you-can-now-easily-access-open-webui-documents-via|❓
+  Quick Access to Documentation]]'
+- '[[Changes/Open WebUI/2024-06-10-unified-settings-consolidated-settings-including-document-settings-under-a-new-a|⚙️
+  Unified Settings]]'
+- '[[Changes/Dify/2024-06-28-chore-cleanup-test-delete-by-document-id-method-in-opensearch-vdb-test-by-bowenl|chore:
+  cleanup test_delete_by_document_id method in opensearch vdb test]]'
 source_release: '[[Releases/OpenHands/openhands-2024-06-29-0-7-0-github-163149742-cace6f1a|openhands-2024-06-29-0-7-0-github-163149742-cace6f1a]]'
 source_type: github_releases
 theme: file-data
@@ -88,14 +90,14 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/0.7.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2024-05-16 · ChatGPT · [[Changes/ChatGPT/2024-05-16-today-we-re-starting-to-roll-out-enhancements-to-data-analysis-6433a3|Today, we’re starting to roll out enhancements to data analysis]]
-- Later: 2024-11-22 · ChatGPT · [[Changes/ChatGPT/2024-11-22-the-sidebar-when-pinned-can-now-stay-open-with-an-active-canvas-if-enough-space|The sidebar when pinned can now stay open with an active Canvas if enough space…]]
+- Earlier: 2024-06-28 · Dify · [[Changes/Dify/2024-06-28-chore-cleanup-test-delete-by-document-id-method-in-opensearch-vdb-test-by-bowenl|chore: cleanup test_delete_by_document_id method in opensearch vdb test]]
+- Later: 2024-07-02 · Ollama · [[Changes/Ollama/2024-07-02-processing-different-parts-of-a-document-simultaneously|Processing different parts of a document simultaneously]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-06 · ChatGPT · [[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code interpreter is now rolling out in beta on web]]
+- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

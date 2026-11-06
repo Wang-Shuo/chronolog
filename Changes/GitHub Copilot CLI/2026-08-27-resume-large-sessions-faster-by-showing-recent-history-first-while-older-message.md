@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7fcef124b87c9e169c6618e4f9973fc64f572bd9fbd785e2dcbf7247320048e2
+machine_hash: d4d871b9a88c2bdad3579f62a15f529a9a4b956129680cbf2880395d4c27cd93
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,12 +43,11 @@ record:
     messages load
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-08-20-2-reliability-and-performance-changes-in-rust-v0-149-0|2
-  Reliability and Performance changes in rust-v0.149.0]]'
-- '[[Changes/ChatGPT/2026-08-21-attach-recent-photos-faster-press-and-hold-the-button-to-open-your-recent-photos|Attach
-  recent photos faster]]'
 - '[[Changes/Claude Code/2026-08-25-improved-bash-tool-latency-on-bash-shells-by-replaying-snapshot-functions-withou|Improved
   Bash tool latency on bash shells by replaying snapshot functions without…]]'
+- '[[Changes/Dify/2026-08-25-workflow-runtime-stability|Workflow & Runtime Stability]]'
+- '[[Changes/Open WebUI/2026-08-25-10-reliability-and-performance-changes-in-v0-11-1|10
+  Reliability and Performance changes in v0.11.1]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-08-27-v1-0-81-github-377993714-523d567a|github-copilot-cli-2026-08-27-v1-0-81-github-377993714-523d567a]]'
 source_type: github_releases
 theme: reliability-performance
@@ -93,8 +92,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-08-25 · Claude Code · [[Changes/Claude Code/2026-08-25-improved-bash-tool-latency-on-bash-shells-by-replaying-snapshot-functions-withou|Improved Bash tool latency on bash shells by replaying snapshot functions without…]]
-- Later: 2026-09-01 · Claude Code · [[Changes/Claude Code/2026-09-01-improved-prompt-input-responsiveness-by-reducing-per-keystroke-rendering-work|Improved prompt input responsiveness by reducing per-keystroke rendering work]]
+- Earlier: 2026-08-25 · Open WebUI · [[Changes/Open WebUI/2026-08-25-10-reliability-and-performance-changes-in-v0-11-1|10 Reliability and Performance changes in v0.11.1]]
+- Later: 2026-08-27 · Lovable · [[Changes/Lovable/2026-08-27-faster-command-palette|Faster command palette]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

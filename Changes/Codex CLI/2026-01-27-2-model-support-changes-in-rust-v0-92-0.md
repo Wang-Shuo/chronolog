@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5aedec31f9580ab9898ec7f4e426c5d18a5ade4bc7eceb88b1505d8fbbe6da56
+machine_hash: db660d276dde2d01c34959d8d0101019ee04282a834d11f10f187e9219a0b030
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,10 +42,9 @@ record:
   title: 2 Model Support changes in rust-v0.92.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-01-24-directory-path-uses-consistent-muted-text-color-with-git-branch-and-model-displa|Directory
-  path uses consistent muted text color with git branch and model display]]'
 - '[[Changes/Codex CLI/2026-01-25-5-model-support-changes-in-rust-v0-90-0|5 Model
   Support changes in rust-v0.90.0]]'
+- '[[Changes/ElevenLabs/2026-01-26-elevencreative-studio|ElevenCreative Studio]]'
 - '[[Changes/Cline/2026-01-27-3-model-support-changes-in-v3-54-0|3 Model Support changes
   in v3.54.0]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-01-27-rust-v0-92-0-github-280265755-5634ff7c|codex-cli-2026-01-27-rust-v0-92-0-github-280265755-5634ff7c]]'
@@ -90,7 +89,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.92.0
 ## Nearby in Model Support
 
 - Earlier: 2026-01-27 · Cline · [[Changes/Cline/2026-01-27-3-model-support-changes-in-v3-54-0|3 Model Support changes in v3.54.0]]
-- Later: 2026-01-28 · Cline · [[Changes/Cline/2026-01-28-2-model-support-changes-in-v3-55-0|2 Model Support changes in v3.55.0]]
+- Later: 2026-01-27 · Ollama · [[Changes/Ollama/2026-01-27-new-ollama-launch-clawdbot-command-for-launching-clawdbot-using-ollama-models|New ollama launch clawdbot command for launching Clawdbot using Ollama models]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

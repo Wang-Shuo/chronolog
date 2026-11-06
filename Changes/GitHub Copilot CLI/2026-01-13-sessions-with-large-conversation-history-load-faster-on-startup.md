@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: fb2201188bde1c876eaad9cc78d46a67909663497657f92e000bc80cde84a4f6
+machine_hash: 87d7055795da561dc043656180ffccb7449ab2c98b279a0801915b640105818c
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -41,12 +41,12 @@ record:
   title: Sessions with large conversation history load faster on startup
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-01-06-performance-tuning-for-tuis-cap-redraw-scheduling-and-reduce-unnecessary-rerende|Performance
-  tuning for TUIs]]'
-- '[[Changes/Cursor/2026-01-08-2-reliability-and-performance-changes-in-new-cli-features-and-improved-cli|2
-  Reliability and Performance changes in New CLI Features and Improved CLI…]]'
-- '[[Changes/Codex CLI/2026-01-09-codex-cli-subprocesses-again-inherit-env-vars-like-ld-library-path-dyld-library|Codex
-  CLI subprocesses again inherit env vars like…]]'
+- '[[Changes/Ollama/2026-01-10-for-older-models-ollama-will-avoid-an-integer-underflow-on-low-vram-systems-duri|For
+  older models, Ollama will avoid an integer underflow on low VRAM systems during…]]'
+- "[[Changes/Open WebUI/2026-01-10-the-evaluations-page-now-loads-faster-by-eliminating-duplicate-api-calls-to-the|\U0001F4CA
+  The Evaluations page now loads faster by eliminating duplicate API calls…]]"
+- '[[Changes/Dify/2026-01-13-4-reliability-and-performance-changes-in-1-11-3|4 Reliability
+  and Performance changes in 1.11.3]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-01-13-v0-0-380-github-276209240-1033f81a|github-copilot-cli-2026-01-13-v0-0-380-github-276209240-1033f81a]]'
 source_type: github_releases
 theme: reliability-performance
@@ -81,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-01-09 · Codex CLI · [[Changes/Codex CLI/2026-01-09-codex-cli-subprocesses-again-inherit-env-vars-like-ld-library-path-dyld-library|Codex CLI subprocesses again inherit env vars like…]]
+- Earlier: 2026-01-13 · Dify · [[Changes/Dify/2026-01-13-4-reliability-and-performance-changes-in-1-11-3|4 Reliability and Performance changes in 1.11.3]]
 - Later: 2026-01-13 · Windsurf · [[Changes/Windsurf/2026-01-13-2-reliability-and-performance-changes-in-v1-13-6|2 Reliability and Performance changes in v1.13.6]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 54c42b3a9093b45a1949f21778e4bc0f4bb954f93caf6b8c92b265096d1f3e9a
+machine_hash: 390489180a0964edf24f76dc73ace2f6d07299ee603dd3e462072e84f764ea48
 product: openhands
 product_name: OpenHands
 record:
@@ -42,10 +42,10 @@ record:
   title: 'feat(jira-dc): email-mode auto-link, targeted repo lookup, and picker mentions'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-01-2-interface-experience-changes-in-v2-1-198|2 Interface
-  Experience changes in v2.1.198]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-01-2-interface-experience-changes-in-v1-0-68|2
   Interface Experience changes in v1.0.68]]'
+- '[[Changes/Open WebUI/2026-07-01-2-interface-experience-changes-in-v0-10-2|2 Interface
+  Experience changes in v0.10.2]]'
 - '[[Changes/Claude Code/2026-07-03-changed-askuserquestion-dialogs-to-no-longer-auto-continue-by-default-opt-into-a|Changed
   AskUserQuestion dialogs to no longer auto-continue by default]]'
 source_release: '[[Releases/OpenHands/openhands-2026-07-06-1-9-0-github-349633843-8010776a|openhands-2026-07-06-1-9-0-github-349633843-8010776a]]'

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7d6c740239a3bb8f66800d2f6593381c2709d1ba981d4cf50dd4f7c16dd76267
+machine_hash: 43d9b296106e79097ebc4179280d49005988f3eb809b548b3db65d7cb42a873b
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -45,12 +45,12 @@ record:
   title: 2 Editor Experience changes in v0.2.0
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-08-21-tab-now-aware-of-full-notebook|Tab now aware of full
-  notebook]]'
 - '[[Changes/Codex CLI/2025-08-26-6-editor-experience-changes-in-rust-v0-24-0|6 Editor
   Experience changes in rust-v0.24.0]]'
 - '[[Changes/Codex CLI/2025-08-27-4-editor-experience-changes-in-rust-v0-25-0|4 Editor
   Experience changes in rust-v0.25.0]]'
+- '[[Changes/Dify/2025-08-27-2-editor-experience-changes-in-1-8-0|2 Editor Experience
+  changes in 1.8.0]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-08-27-v0-2-0-github-242746793-f18a717d|gemini-cli-2025-08-27-v0-2-0-github-242746793-f18a717d]]'
 source_type: github_releases
 theme: editor-experience
@@ -85,8 +85,8 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.2.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2025-08-27 · Codex CLI · [[Changes/Codex CLI/2025-08-27-4-editor-experience-changes-in-rust-v0-25-0|4 Editor Experience changes in rust-v0.25.0]]
-- Later: 2025-09-04 · Gemini CLI · [[Changes/Gemini CLI/2025-09-04-7-editor-experience-changes-in-v0-3-0|7 Editor Experience changes in v0.3.0]]
+- Earlier: 2025-08-27 · Dify · [[Changes/Dify/2025-08-27-2-editor-experience-changes-in-1-8-0|2 Editor Experience changes in 1.8.0]]
+- Later: 2025-09-01 · Lovable · [[Changes/Lovable/2025-09-01-track-your-edits-streaks|Track your edits + streaks]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

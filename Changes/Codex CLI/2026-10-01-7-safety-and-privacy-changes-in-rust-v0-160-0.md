@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ab122f0d3b57ea5a78c23c7b420ec5c2ba6b8a312730f51b4ddf090e98abff63
+machine_hash: e69ab1683fe892e516fdf353a13abcb5948aa71ae75e28fa6b82612c4ffb4f98
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -59,10 +59,10 @@ record:
   title: 7 Safety and Privacy changes in rust-v0.160.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-30-2-safety-and-privacy-changes-in-rust-v0-159-3|2
-  Safety and Privacy changes in rust-v0.159.3]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-30-permission-prompts-remain-answerable-after-resuming-interrupted-sessions|Permission
   prompts remain answerable after resuming interrupted sessions]]'
+- '[[Changes/Lovable/2026-09-30-rotate-your-cloud-database-password-from-chat|Rotate
+  your Cloud database password from chat]]'
 - '[[Changes/Claude Code/2026-10-01-6-safety-and-privacy-changes-in-v2-1-287|6 Safety
   and Privacy changes in v2.1.287]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-10-01-rust-v0-160-0-github-401312540-620e0269|codex-cli-2026-10-01-rust-v0-160-0-github-401312540-620e0269]]'

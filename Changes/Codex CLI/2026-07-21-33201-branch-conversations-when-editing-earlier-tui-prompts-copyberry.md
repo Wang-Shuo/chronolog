@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: projects-workspaces
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 48af05e3f0d569d9e1bff96632f5c6c4c7a571dab2abaf6a6ffa0c8def883d36
+machine_hash: 7bbaf7e884f6500f3239a8a3d7eb6af11f2f791f26fdeac2f44cdf3cc2e59bfc
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,12 +43,12 @@ record:
   title: '#33201 Branch conversations when editing earlier TUI prompts @copyberry'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-07-keep-session-resume-working-when-token-timing-includes-fractional-milliseconds|Keep
-  session resume working when token timing includes fractional milliseconds]]'
 - '[[Changes/ChatGPT/2026-07-16-unified-recents-chat-and-work-conversations-now-appear-together-in-recents-where|Unified
   Recents: Chat and Work conversations now appear together in Recents, where…]]'
 - '[[Changes/ChatGPT/2026-07-16-projects-in-the-desktop-app-your-existing-chatgpt-projects-now-appear-in-the-app|Projects
   in the desktop app: Your existing ChatGPT Projects now appear in the app]]'
+- '[[Changes/Ollama/2026-07-16-the-interactive-agent-now-receives-the-current-working-directory-for-better-proj|The
+  interactive agent now receives the current working directory for better project…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-07-21-rust-v0-145-0-github-357545274-7be4454f|codex-cli-2026-07-21-rust-v0-145-0-github-357545274-7be4454f]]'
 source_type: github_releases
 theme: projects-workspaces
@@ -94,8 +94,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Projects and Workspaces
 
-- Earlier: 2026-07-16 · ChatGPT · [[Changes/ChatGPT/2026-07-16-projects-in-the-desktop-app-your-existing-chatgpt-projects-now-appear-in-the-app|Projects in the desktop app: Your existing ChatGPT Projects now appear in the app]]
-- Later: 2026-08-10 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-08-10-a-failed-session-history-load-no-longer-leaves-the-timeline-permanently-empty-th|A failed session-history load no longer leaves the timeline permanently empty]]
+- Earlier: 2026-07-16 · Ollama · [[Changes/Ollama/2026-07-16-the-interactive-agent-now-receives-the-current-working-directory-for-better-proj|The interactive agent now receives the current working directory for better project…]]
+- Later: 2026-07-31 · Replit · [[Changes/Replit/2026-07-31-a-rebuilt-usage-page|A rebuilt usage page]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

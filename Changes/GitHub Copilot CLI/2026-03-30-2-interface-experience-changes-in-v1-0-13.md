@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d084bc4d72930d7bff11c6ac49018bbf7bf93a06af0a648e5506589a398be6f4
+machine_hash: c5d2f1682ec63ba408658b54fcfd6145a50076298f36545a3556ab6f8c3bb9c2
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,12 +45,12 @@ record:
   title: 2 Interface Experience changes in v1.0.13
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-26-3-interface-experience-changes-in-rust-v0-117-0|3
-  Interface Experience changes in rust-v0.117.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-26-3-interface-experience-changes-in-v1-0-12|3
   Interface Experience changes in v1.0.12]]'
 - '[[Changes/Claude Code/2026-03-27-changed-skills-menu-to-sort-alphabetically-for-easier-scanning|Changed
   /skills menu to sort alphabetically for easier scanning]]'
+- '[[Changes/Dify/2026-03-27-3-interface-experience-changes-in-1-13-3|3 Interface
+  Experience changes in 1.13.3]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-03-30-v1-0-13-github-303313822-db3397e2|github-copilot-cli-2026-03-30-v1-0-13-github-303313822-db3397e2]]'
 source_type: github_releases
 theme: interface-experience
@@ -90,7 +90,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.13
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-03-27 · Claude Code · [[Changes/Claude Code/2026-03-27-changed-skills-menu-to-sort-alphabetically-for-easier-scanning|Changed /skills menu to sort alphabetically for easier scanning]]
+- Earlier: 2026-03-27 · Dify · [[Changes/Dify/2026-03-27-3-interface-experience-changes-in-1-13-3|3 Interface Experience changes in 1.13.3]]
 - Later: 2026-03-30 · OpenHands · [[Changes/OpenHands/2026-03-30-added-the-new-slash-command-to-the-slash-command-menu-by-karanjaxyz-in-https-git|Added the /new slash command to the slash command menu]]
 <!-- chronolog:end -->
 

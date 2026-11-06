@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: bcfbd1f382bcf1ef39cf3ae75470de75a8f0295ce848bf52ea719b72c29c2d63
+machine_hash: 2a7da141a7575c2bc6f3006e66bb12742b39faab566867e42e968af035437378
 product: claude-code
 product_name: Claude Code
 record:
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-08-04 · Claude Code · [[Changes/Claude Code/2026-08-04-3-model-support-changes-in-v2-1-221|3 Model Support changes in v2.1.221]]
-- Later: 2026-08-05 · Cline · [[Changes/Cline/2026-08-05-5-model-support-changes-in-v4-1-4|5 Model Support changes in v4.1.4]]
+- Later: 2026-08-04 · Ollama · [[Changes/Ollama/2026-08-04-ollama-run-kimi-k3-now-offers-kimi-k3-cloud-for-cloud-only-models-that-publish-n|ollama run kimi-k3 now offers kimi-k3:cloud for cloud-only models that publish…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

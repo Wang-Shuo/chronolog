@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 46d673295f987a7b6948e0e116c19833a1d3d5c4fee6f1b49d39f4c7efa09be8
+machine_hash: 4999eb3a70336e4e1f6ebb065d603c66eade31ded9cb507ccf9daa51c0eb3ebc
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -53,12 +53,11 @@ record:
   title: 5 Agent Mode changes in v1.0.6
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-13-send-follow-up-messages-to-background-agents-with-the-write-agent-tool-for-multi|Send
-  follow-up messages to background agents with the write_agent tool…]]'
 - '[[Changes/Claude Code/2026-03-14-improved-background-agent-behavior-killing-a-background-agent-now-preserves-its|Improved
   background agent behavior]]'
 - '[[Changes/Codex CLI/2026-03-16-16-agent-mode-changes-in-rust-v0-115-0|16 Agent
   Mode changes in rust-v0.115.0]]'
+- '[[Changes/ElevenLabs/2026-03-16-elevenagents|ElevenAgents]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-03-16-v1-0-6-github-297705118-b80b4107|github-copilot-cli-2026-03-16-v1-0-6-github-297705118-b80b4107]]'
 source_type: github_releases
 theme: agent-mode
@@ -106,8 +105,8 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.6
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-03-16 · Codex CLI · [[Changes/Codex CLI/2026-03-16-16-agent-mode-changes-in-rust-v0-115-0|16 Agent Mode changes in rust-v0.115.0]]
-- Later: 2026-03-17 · Claude Code · [[Changes/Claude Code/2026-03-17-2-agent-mode-changes-in-v2-1-77|2 Agent Mode changes in v2.1.77]]
+- Earlier: 2026-03-16 · ElevenLabs · [[Changes/ElevenLabs/2026-03-16-elevenagents|ElevenAgents]]
+- Later: 2026-03-17 · Claude · [[Changes/Claude/2026-03-17-control-cowork-from-your-phone-with-a-persistent-thread-research-preview-for-pro|Control Cowork from your phone with a persistent thread (research preview for Pro/Max)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

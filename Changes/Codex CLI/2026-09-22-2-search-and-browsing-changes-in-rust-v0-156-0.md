@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8be1df38f524fa591370282c9fc20f59d09ea54e05e445a020654cc3859ea1f3
+machine_hash: d50032b24a1fbfc9bd31c5afd3d4db929ab4def5a2998262fcb8c64781723452
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,12 +43,12 @@ record:
   title: 2 Search and Browsing changes in rust-v0.156.0
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-09-16-2-search-and-browsing-changes-in-v1-19-0|2 Search
-  and Browsing changes in v1.19.0]]'
-- '[[Changes/Cline/2026-09-17-web-search-is-now-enabled-by-default-on-models-that-support-it-outside-yolo-mode|Web
-  search is now enabled by default on models that support it, outside YOLO mode]]'
+- '[[Changes/Lovable/2026-09-18-try-the-lovable-api-in-postman|Try the Lovable API
+  in Postman]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-21-consecutive-steering-prompts-in-the-same-mode-combine-into-one-pending-message-p|Consecutive
   steering prompts in the same mode combine into one pending message]]'
+- '[[Changes/Open WebUI/2026-09-21-6-search-and-browsing-changes-in-v0-11-4|6 Search
+  and Browsing changes in v0.11.4]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-09-22-rust-v0-156-0-github-394061815-b23dd5f4|codex-cli-2026-09-22-rust-v0-156-0-github-394061815-b23dd5f4]]'
 source_type: github_releases
 theme: search-browsing
@@ -99,7 +99,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.156.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Search and Browsing
 
-- Earlier: 2026-09-21 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-21-consecutive-steering-prompts-in-the-same-mode-combine-into-one-pending-message-p|Consecutive steering prompts in the same mode combine into one pending message]]
+- Earlier: 2026-09-21 · Open WebUI · [[Changes/Open WebUI/2026-09-21-6-search-and-browsing-changes-in-v0-11-4|6 Search and Browsing changes in v0.11.4]]
 - Later: 2026-09-23 · Claude Code · [[Changes/Claude Code/2026-09-23-improved-deep-research-reliability-on-long-research-briefs-by-removing-unused-re|Improved /deep-research reliability on long research briefs by removing unused…]]
 <!-- chronolog:end -->
 

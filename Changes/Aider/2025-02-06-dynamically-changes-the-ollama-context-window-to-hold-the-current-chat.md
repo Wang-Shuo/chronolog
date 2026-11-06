@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ddd8dc7838a174032b94a02d5459c8821ee0c5fb704636585b5583ddcbfd09d4
+machine_hash: 8ee912cceadfd7b2fe11c2abf0ed617398efe843785882640413301c9990258b
 product: aider
 product_name: Aider
 record:
@@ -80,7 +80,7 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2025-01-31 · Aider · [[Changes/Aider/2025-01-31-improved-handling-of-context-window-size-limits-with-better-messaging-and-ollama|Improved handling of context window size limits, with better messaging…]]
-- Later: 2025-02-19 · Cline · [[Changes/Cline/2025-02-19-new-advanced-setting-to-disable-the-browser-tool-improved-support-for-aws-bedroc|New advanced setting to disable the browser tool, improved support for AWS Bedrock…]]
+- Later: 2025-02-07 · Dify · [[Changes/Dify/2025-02-07-feat-add-completion-mode-and-context-size-options-for-llm-configuration-by-laipz|feat: add completion mode and context size options for LLM configuration]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

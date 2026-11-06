@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2bf0cdc4b29fabda8dfdc2729adb4a553c239425377395a8318dcf2e393ea80c
+machine_hash: 693c834a1f1000d664aebfb6f4e9878c79f83bf6aeb1f8217423a40e2fcc61a5
 product: cursor
 product_name: Cursor
 record:
@@ -70,7 +70,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2023-08-01 · Cursor · [[Changes/Cursor/2023-08-01-improved-linter-please-give-us-feedback-on-the-linter-suggestions-using-the-smil|Improved linter]]
-- Later: 2023-08-17 · Cursor · [[Changes/Cursor/2023-08-17-the-cursor-nightly-command-now-works-on-mac|The cursor-nightly command now works on Mac]]
+- Later: 2023-08-10 · Ollama · [[Changes/Ollama/2023-08-10-ollama-pull-can-now-be-run-in-different-terminal-windows-for-the-same-model-conc|ollama pull can now be run in different terminal windows for the same model concurrently]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

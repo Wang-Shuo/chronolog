@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 572690c38db7c232af59c0c54dfaae842b79a58b2f35764e039db58c30ab658a
+machine_hash: 3beffe79ca62120644c7a8c712ce0b42467c5311b37962f749567e397b6f1c26
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,8 +45,8 @@ record:
     sidebar…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-03-3-interface-experience-changes-in-rust-v0-153-0|3
-  Interface Experience changes in rust-v0.153.0]]'
+- '[[Changes/Lovable/2026-09-03-open-the-dashboard-sidebar-from-inside-the-editor|Open
+  the dashboard sidebar from inside the editor]]'
 - '[[Changes/Claude Code/2026-09-04-3-interface-experience-changes-in-v2-1-261|3 Interface
   Experience changes in v2.1.261]]'
 - '[[Changes/Codex CLI/2026-09-04-42874-0-153-hotfix-show-astra-in-bundled-model-picker-rhan-oai|♯42874
@@ -90,7 +90,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-09-04 · Codex CLI · [[Changes/Codex CLI/2026-09-04-42874-0-153-hotfix-show-astra-in-bundled-model-picker-rhan-oai|♯42874 0.153 hotfix Show Astra in bundled model picker @rhan-oai]]
-- Later: 2026-09-08 · ChatGPT · [[Changes/ChatGPT/2026-09-08-edit-and-comment-on-mobile-open-a-generated-image-full-screen-to-edit-it-or-add|Edit and comment]]
+- Later: 2026-09-04 · Lovable · [[Changes/Lovable/2026-09-04-new-ways-to-open-project-settings|New ways to open project settings]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

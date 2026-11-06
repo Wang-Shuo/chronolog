@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: cb8337021b61aff3c0e0f28d66efa907c2543e2fde3f3f8adb6761c74608f25f
+machine_hash: fca2354f687dc1ac7a333bbba97aac574b15df471b82365ad537cea7cc1f0a95
 product: aider
 product_name: Aider
 record:
@@ -42,8 +42,8 @@ record:
   title: Improved cost estimate logic for caching
   type: change
 related_changes:
-- '[[Changes/OpenHands/2024-06-04-add-cost-metrics-to-evaluation-outputs-for-all-benchmarks-by-ryanhoangt-in-https|Add
-  cost metrics to evaluation outputs for all benchmarks]]'
+- '[[Changes/Gemini/2024-07-15-workspace-extensions-now-available-in-beta-for-gemini-for-google-workspace-add-o|Workspace
+  Extensions now available in Beta for Gemini for Google Workspace add-on…]]'
 - '[[Changes/Aider/2024-07-29-enhanced-token-usage-and-cost-reporting-now-works-when-streaming-too|Enhanced
   token usage and cost reporting]]'
 - '[[Changes/Aider/2024-08-13-improved-token-and-cost-reporting-for-infinite-output|Improved
@@ -79,7 +79,7 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2024-08-13 · Aider · [[Changes/Aider/2024-08-13-improved-token-and-cost-reporting-for-infinite-output|Improved token and cost reporting for infinite output]]
-- Later: 2024-09-12 · Cline · [[Changes/Cline/2024-09-12-openrouter-now-supports-prompt-caching-they-re-still-working-on-reporting-cache|OpenRouter now supports prompt caching!]]
+- Later: 2024-09-03 · Dify · [[Changes/Dify/2024-09-03-4-pricing-model-changes-in-0-7-3|4 Pricing Model changes in 0.7.3]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

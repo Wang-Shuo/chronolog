@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a218da8e0c01ed795fdc2e17f578ee4ab60d62a7f237215bfdb0409b698b5e74
+machine_hash: 1146467fa6186e21f68e726b13a90a6f34ad8072e09563c5cd5be416a1c133a4
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,11 +42,12 @@ record:
   title: 2 Mobile and Desktop changes in rust-v0.146.0
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-07-16-continue-work-across-devices-cloud-work-conversations-now-sync-across-web-mobile|Continue
-  Work across devices]]'
-- '[[Changes/Windsurf/2026-07-17-devin-desktop|Devin Desktop]]'
 - '[[Changes/Codex CLI/2026-07-21-3-mobile-and-desktop-changes-in-rust-v0-145-0|3
   Mobile and Desktop changes in rust-v0.145.0]]'
+- '[[Changes/Lovable/2026-07-24-open-projects-in-background-tabs-on-desktop|Open projects
+  in background tabs on desktop]]'
+- '[[Changes/Open WebUI/2026-07-27-2-mobile-and-desktop-changes-in-v0-11-0|2 Mobile
+  and Desktop changes in v0.11.0]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-07-29-rust-v0-146-0-github-361463950-6d491983|codex-cli-2026-07-29-rust-v0-146-0-github-361463950-6d491983]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -94,7 +95,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.146.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-07-21 · Codex CLI · [[Changes/Codex CLI/2026-07-21-3-mobile-and-desktop-changes-in-rust-v0-145-0|3 Mobile and Desktop changes in rust-v0.145.0]]
+- Earlier: 2026-07-27 · Open WebUI · [[Changes/Open WebUI/2026-07-27-2-mobile-and-desktop-changes-in-v0-11-0|2 Mobile and Desktop changes in v0.11.0]]
 - Later: 2026-07-29 · Cursor · [[Changes/Cursor/2026-07-29-built-for-the-bigger-screen-98bf7a|Built for the bigger screen]]
 <!-- chronolog:end -->
 

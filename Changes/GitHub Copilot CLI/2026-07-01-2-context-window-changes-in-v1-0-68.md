@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: eac18d3a7e509a9a9e878a3d9c4dd3590530d2310920f28400d79ba46fe39196
+machine_hash: 201adf92fbc3c87fec186c42707cc9b2be8413273fa943d954a3e1a4b1558a19
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,8 +43,8 @@ record:
   title: 2 Context Window changes in v1.0.68
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-25-2-context-window-changes-in-rust-v0-142-2|2 Context
-  Window changes in rust-v0.142.2]]'
+- '[[Changes/Open WebUI/2026-06-29-3-context-window-changes-in-v0-10-0|3 Context Window
+  changes in v0.10.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-30-keep-session-store-searches-and-context-lookups-responsive|Keep
   session-store searches and context lookups responsive]]'
 - '[[Changes/Claude Code/2026-07-01-subagents-and-context-compaction-now-inherit-the-session-s-extended-thinking-con|Subagents

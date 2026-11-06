@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 46a3621a6fa9cd278fbb5cfcf6880f08a13b1c60126f6d604e56a430278c71e7
+machine_hash: 7cece94356e7ddceb837785d79951c6090c963d3bf5b19df731f2d68e7eb3b44
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -41,8 +41,8 @@ record:
   title: Update model configurations
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-08-11-2-model-support-changes-in-v0-55-1|2 Model Support
-  changes in v0.55.1]]'
+- '[[Changes/Lovable/2026-08-13-image-editing-with-openai-models-for-your-app-s-ai-features|Image
+  editing with OpenAI models for your app''s AI features]]'
 - '[[Changes/Claude Code/2026-08-14-2-model-support-changes-in-v2-1-233|2 Model Support
   changes in v2.1.233]]'
 - '[[Changes/Cline/2026-08-14-2-model-support-changes-in-v4-1-10|2 Model Support changes
@@ -74,7 +74,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-08-14 · Cline · [[Changes/Cline/2026-08-14-2-model-support-changes-in-v4-1-10|2 Model Support changes in v4.1.10]]
-- Later: 2026-08-17 · Claude Code · [[Changes/Claude Code/2026-08-17-2-model-support-changes-in-v2-1-234|2 Model Support changes in v2.1.234]]
+- Later: 2026-08-15 · Ollama · [[Changes/Ollama/2026-08-15-llm-transcode-webp-images-for-llama-server|llm: transcode WebP images for llama-server]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

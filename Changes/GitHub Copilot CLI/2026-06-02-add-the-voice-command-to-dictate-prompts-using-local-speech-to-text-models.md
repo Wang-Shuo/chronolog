@@ -4,20 +4,20 @@ date: '2026-06-02'
 description: 'GitHub Copilot CLI · 2026-06-02 · Voice and Audio: Add the /voice command
   to dictate prompts using local speech-to-text models'
 diffusion:
-  first_in_tracked: '[[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source
-    link) support, which allows you…]]'
+  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
+    Voice and Audio changes in 0.3.7]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1026
+  lag_days: 1058
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8e6c07c2092e17edacaa844778a3a198508ea43dc53671ec13593fdaf9fe5832
+machine_hash: 1cab58f9df11c9911dc86c3bd7c3ec0d29ce25e60f2930182169a85c6101a2a3
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -51,12 +51,10 @@ record:
   title: Add the /voice command to dictate prompts using local speech-to-text models
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-05-05-feat-voice-implement-real-time-voice-mode-with-cloud-and-local-backends-by-abhij|feat(voice):
-  implement real-time voice mode with cloud and local backends]]'
-- '[[Changes/Gemini CLI/2026-05-12-2-voice-and-audio-changes-in-v0-42-0|2 Voice and
-  Audio changes in v0.42.0]]'
-- '[[Changes/Claude Code/2026-05-13-vscode-voice-mode-the-wsl-error-now-suggests-installing-sox-libsox-fmt-pulse-for|VSCode
-  Voice mode]]'
+- '[[Changes/ElevenLabs/2026-06-01-speech-to-text-9a648b|Speech to Text]]'
+- '[[Changes/ElevenLabs/2026-06-01-dubbing-fad5c5|Dubbing]]'
+- '[[Changes/Open WebUI/2026-06-01-4-voice-and-audio-changes-in-v0-9-6|4 Voice and
+  Audio changes in v0.9.6]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-06-02-v1-0-59-github-333374487-d071e1d4|github-copilot-cli-2026-06-02-v1-0-59-github-333374487-d071e1d4]]'
 source_type: github_releases
 theme: voice
@@ -83,14 +81,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-05-13 · Claude Code · [[Changes/Claude Code/2026-05-13-vscode-voice-mode-the-wsl-error-now-suggests-installing-sox-libsox-fmt-pulse-for|VSCode Voice mode]]
+- Earlier: 2026-06-01 · Open WebUI · [[Changes/Open WebUI/2026-06-01-4-voice-and-audio-changes-in-v0-9-6|4 Voice and Audio changes in v0.9.6]]
 - Later: 2026-06-05 · Cursor · [[Changes/Cursor/2026-06-05-narrate-changes-through-the-design-mode-overlay-the-mic-stays-available-while-an|Voice input]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-08-11 · Aider · [[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source link) support, which allows you…]]
+- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

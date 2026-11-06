@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4f5106f4716ab5d678224c9d2e49770db785eab80314046f42437ae475401f2c
+machine_hash: 2328cd68dbd71fb74564e36fca7c22ceedcc1ca8c2480d59d205c6f9dd120cbf
 product: cursor
 product_name: Cursor
 record:
@@ -45,10 +45,10 @@ record:
     docs
   type: change
 related_changes:
-- '[[Changes/OpenHands/2024-06-04-2-apps-and-integrations-changes-in-0-6-1|2 Apps
-  and Integrations changes in 0.6.1]]'
-- '[[Changes/OpenHands/2024-06-05-bump-typescript-eslint-eslint-plugin-from-7-11-0-to-7-12-0-in-frontend-by-depend|Bump
-  @typescript-eslint/eslint-plugin from 7.11.0 to 7.12.0 in /frontend]]'
+- '[[Changes/Open WebUI/2024-06-27-functions-feature-you-can-now-utilize-functions-like-filters-middleware-and-pipe|✨
+  "Functions" Feature]]'
+- '[[Changes/Dify/2024-06-28-tracing-with-langsmith-and-langfuse-now-you-can-trace-your-apps-traffic-with-lan|Tracing
+  with LangSmith and Langfuse]]'
 - '[[Changes/OpenHands/2024-06-29-10-apps-and-integrations-changes-in-0-7-0|10 Apps
   and Integrations changes in 0.7.0]]'
 source_release: '[[Releases/Cursor/cursor-2024-07-03-0-36-x-https-cursor-com-changelog-0-36-x-526adbdf|cursor-2024-07-03-0-36-x-https-cursor-com-changelog-0-36-x-526adbdf]]'

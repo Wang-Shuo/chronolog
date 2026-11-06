@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3601203ec6ac1de9961a934f4e1a42175ebd61f54c54f953d156d5a2ffa79d83
+machine_hash: 894d4434ee14af766fbdf05c16826168467f9a963ab2a2dfd1c45198bfd96b07
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -48,8 +48,8 @@ record:
   title: 4 Interface Experience changes in rust-v0.154.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-09-04-add-recent-created-name-and-classic-none-sorting-to-the-split-sessions-sidebar-w|Add
-  Recent, Created, Name, and classic None sorting to the split Sessions sidebar…]]'
+- '[[Changes/Lovable/2026-09-04-new-ways-to-open-project-settings|New ways to open
+  project settings]]'
 - '[[Changes/ChatGPT/2026-09-08-edit-and-comment-on-mobile-open-a-generated-image-full-screen-to-edit-it-or-add|Edit
   and comment]]'
 - '[[Changes/Claude Code/2026-09-09-improved-the-diff-panel-it-no-longer-flashes-0-files-changed-and-a-spinner-befor|Improved
@@ -106,7 +106,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.154.0
 ## Nearby in Interface Experience
 
 - Earlier: 2026-09-09 · Claude Code · [[Changes/Claude Code/2026-09-09-improved-the-diff-panel-it-no-longer-flashes-0-files-changed-and-a-spinner-befor|Improved the /diff panel]]
-- Later: 2026-09-10 · Claude Code · [[Changes/Claude Code/2026-09-10-2-interface-experience-changes-in-v2-1-268|2 Interface Experience changes in v2.1.268]]
+- Later: 2026-09-09 · Lovable · [[Changes/Lovable/2026-09-09-redesigned-chat-actions-menu-in-projects|Redesigned Chat actions menu in projects]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

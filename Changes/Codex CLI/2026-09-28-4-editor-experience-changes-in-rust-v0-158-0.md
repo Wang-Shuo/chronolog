@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 00dcd2d849af0ca2a9e1d284a687306ae5fdca487f6876e2f16d0cdd0bea796c
+machine_hash: 162bbb00411cd4da921a638f4d89c22e3a99c6f8195de22d6be8fd8592385dcb
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -48,8 +48,8 @@ record:
   title: 4 Editor Experience changes in rust-v0.158.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-09-22-in-the-sessions-tab-rows-you-can-dismiss-now-take-x-then-x-again-to-confirm-a-lo|In
-  the Sessions tab, rows you can dismiss now take x then x again to confirm]]'
+- '[[Changes/Lovable/2026-09-25-open-cited-web-sources-from-an-answer|Open cited web
+  sources from an answer]]'
 - '[[Changes/ChatGPT/2026-09-28-you-can-now-select-a-chart-metric-or-record-in-the-health-tab-to-get-personalize|Explore
   your health data with personalized summaries]]'
 - '[[Changes/Claude Code/2026-09-28-changed-ultracode-into-its-own-toggle-in-effort-tab-or-effort-ultracode-on-off-i|Changed

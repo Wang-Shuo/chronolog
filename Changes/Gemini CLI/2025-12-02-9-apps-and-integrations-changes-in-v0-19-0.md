@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 18cce31a2a2ae771f198bf41f670ced74eac5c571e198c37e89d57eff1c25a5c
+machine_hash: 3e9a1c100d78f6290449bc7230b133dc7c100b08a4ab8edb83b6f2132345f6cd
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -58,8 +58,7 @@ record:
   title: 9 Apps and Integrations changes in v0.19.0
   type: change
 related_changes:
-- '[[Changes/Cline/2025-11-27-feat-hooks-implement-taskcomplete-hook-by-candieduniverse-in-https-github-com-cl|feat(hooks):
-  Implement TaskComplete hook]]'
+- '[[Changes/ElevenLabs/2025-11-27-javascript-sdk|JavaScript SDK]]'
 - '[[Changes/Cline/2025-12-02-feat-cerebras-add-x-cerebras-3rd-party-integration-header-by-sebastiand-cerebras|feat(cerebras):
   add X-Cerebras-3rd-Party-Integration header]]'
 - '[[Changes/Codex CLI/2025-12-02-3-apps-and-integrations-changes-in-rust-v0-64-0|3
@@ -115,7 +114,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.19.0
 ## Nearby in Apps and Integrations
 
 - Earlier: 2025-12-02 · Codex CLI · [[Changes/Codex CLI/2025-12-02-3-apps-and-integrations-changes-in-rust-v0-64-0|3 Apps and Integrations changes in rust-v0.64.0]]
-- Later: 2025-12-04 · Cline · [[Changes/Cline/2025-12-04-added-subpages-and-content-to-hooks-by-jl-codes-in-https-github-com-cline-cline|added subpages and content to hooks]]
+- Later: 2025-12-02 · Open WebUI · [[Changes/Open WebUI/2025-12-02-2-apps-and-integrations-changes-in-v0-6-41|2 Apps and Integrations changes in v0.6.41]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

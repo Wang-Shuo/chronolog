@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 455b18f2ffcff1cbe093a54d42c4a31a2148c85bb4ada770c6ea115de99c0183
+machine_hash: 689ccee6af4c20898df7526219e0477f47ad0c8edee250423b644bb2cfc7236c
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -81,7 +81,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.155.1
 ## Nearby in Model Support
 
 - Earlier: 2026-09-18 · Claude Code · [[Changes/Claude Code/2026-09-18-changed-fable-to-always-appear-in-model-on-the-anthropic-api-it-is-greyed-out-on|Changed Fable to always appear in /model on the Anthropic API]]
-- Later: 2026-09-21 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-21-enable-the-rubber-duck-agent-for-every-model-family-and-for-low-cost-tier-sessio|Enable the rubber-duck agent for every model family and for low-cost-tier session models]]
+- Later: 2026-09-19 · Ollama · [[Changes/Ollama/2026-09-19-2-model-support-changes-in-v0-34-3|2 Model Support changes in v0.34.3]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

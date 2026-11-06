@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: ac2307f1881364d59894b057ba31e47287c4d88d77de2d101d41f67d04484aac
+machine_hash: 19d4bf36ccebcc7745c7b897b79f7b12a0edaee5984ab7061747d6aa876928c1
 product: cursor
 product_name: Cursor
 record:
@@ -64,12 +64,12 @@ record:
   title: Agent sees terminal exit codes, can run commands in the background, and commands…
   type: change
 related_changes:
-- '[[Changes/Aider/2024-12-10-2-developer-workflow-changes-in-v0-68-0|2 Developer
-  Workflow changes in v0.68.0]]'
 - '[[Changes/OpenHands/2024-12-12-request-code-review-from-the-person-who-initiated-the-resolver-by-openhands-agen|Request
   code review from the person who initiated the resolver]]'
 - '[[Changes/Aider/2024-12-13-new-multiline-flag-and-multiline-mode-command-https-aider-chat-docs-usage-comman|New
   --multiline flag and /multiline-mode…]]'
+- '[[Changes/Dify/2024-12-16-2-developer-workflow-changes-in-0-14-0|2 Developer Workflow
+  changes in 0.14.0]]'
 source_release: '[[Releases/Cursor/cursor-2024-12-17-0-44-x-https-cursor-com-changelog-0-44-x-b137ff8e|cursor-2024-12-17-0-44-x-https-cursor-com-changelog-0-44-x-b137ff8e]]'
 source_type: cursor_changelog
 theme: developer-workflow
@@ -111,7 +111,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2024-12-13 · Aider · [[Changes/Aider/2024-12-13-new-multiline-flag-and-multiline-mode-command-https-aider-chat-docs-usage-comman|New --multiline flag and /multiline-mode…]]
+- Earlier: 2024-12-16 · Dify · [[Changes/Dify/2024-12-16-2-developer-workflow-changes-in-0-14-0|2 Developer Workflow changes in 0.14.0]]
 - Later: 2024-12-17 · OpenHands · [[Changes/OpenHands/2024-12-17-add-color-to-the-line-next-to-ran-a-command-based-on-return-value-by-openhands-a|Add color to the line next to Ran a Command based on return value]]
 <!-- chronolog:end -->
 

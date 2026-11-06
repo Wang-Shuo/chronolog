@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 287816c0d8ddc0aba40af9a40f13e5d6b6fcdeaf0cb2c0dfb24d8ef57aca977c
+machine_hash: 5c97718407616f9228666da2dc15f3ab261560091adfa7c74f6ae45e1e2ce4dc
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -93,7 +93,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.90.0
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-01-24 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-24-plugin-skills-work-in-agent-responses|Plugin skills work in agent responses]]
-- Later: 2026-01-26 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-26-3-apps-and-integrations-changes-in-v0-0-395|3 Apps and Integrations changes in v0.0.395]]
+- Later: 2026-01-26 · ElevenLabs · [[Changes/ElevenLabs/2026-01-26-sdk-releases|SDK Releases]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

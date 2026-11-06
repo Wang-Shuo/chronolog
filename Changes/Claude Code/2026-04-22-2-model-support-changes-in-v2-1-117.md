@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a9d114f7df6fc7155a58d6ec8852563e548dd10501c8a150b036a75182bf2993
+machine_hash: 96ab91ef7b4d43ec2d9d8f7fca66ee3d481842f9403702d4f95b9ffed414f281
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
   title: 2 Model Support changes in v2.1.117
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-16-add-support-for-claude-opus-4-7|Add support
-  for Claude Opus 4.7]]'
 - '[[Changes/Codex CLI/2026-04-20-6-model-support-changes-in-rust-v0-122-0|6 Model
   Support changes in rust-v0.122.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-20-ctrl-t-to-toggle-reasoning-display-is-now-listed-in-the-help-and-overlay|ctrl+t
   to toggle reasoning display is now listed in the /help and ? overlay]]'
+- '[[Changes/Open WebUI/2026-04-21-28-model-support-changes-in-v0-9-0|28 Model Support
+  changes in v0.9.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-22-v2-1-117-github-311984967-1d917373|claude-code-2026-04-22-v2-1-117-github-311984967-1d917373]]'
 source_type: github_releases
 theme: model-support
@@ -88,7 +88,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.117
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-04-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-20-ctrl-t-to-toggle-reasoning-display-is-now-listed-in-the-help-and-overlay|ctrl+t to toggle reasoning display is now listed in the /help and ? overlay]]
+- Earlier: 2026-04-21 · Open WebUI · [[Changes/Open WebUI/2026-04-21-28-model-support-changes-in-v0-9-0|28 Model Support changes in v0.9.0]]
 - Later: 2026-04-22 · Cline · [[Changes/Cline/2026-04-22-onboarding-flow-now-uses-dynamically-fetched-recommended-models-instead-of-a-har|Onboarding flow now uses dynamically fetched recommended models instead…]]
 <!-- chronolog:end -->
 

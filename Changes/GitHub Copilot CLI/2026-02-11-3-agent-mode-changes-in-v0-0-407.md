@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 18461520b43c40c85e2797b631d7302dfb726ed1aec8b640c899774ab1bde20e
+machine_hash: 242512e51c0ff7a4a06421b7062b6b347c1777e33706071228501fa9968092a1
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,12 +44,12 @@ record:
   title: 3 Agent Mode changes in v0.0.407
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-06-2-agent-mode-changes-in-v2-1-33|2 Agent Mode changes
-  in v2.1.33]]'
 - '[[Changes/Gemini CLI/2026-02-10-4-agent-mode-changes-in-v0-28-0|4 Agent Mode changes
   in v0.28.0]]'
 - '[[Changes/Codex CLI/2026-02-11-10-agent-mode-changes-in-rust-v0-99-0|10 Agent Mode
   changes in rust-v0.99.0]]'
+- '[[Changes/Dify/2026-02-11-flexible-delivery-methods-human-input-forms-can-be-delivered-via-webapp-or-email|Flexible
+  Delivery Methods: Human input forms can be delivered…]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-02-11-v0-0-407-github-285416009-ed3cb109|github-copilot-cli-2026-02-11-v0-0-407-github-285416009-ed3cb109]]'
 source_type: github_releases
 theme: agent-mode
@@ -93,7 +93,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v0.0.407
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-02-11 · Codex CLI · [[Changes/Codex CLI/2026-02-11-10-agent-mode-changes-in-rust-v0-99-0|10 Agent Mode changes in rust-v0.99.0]]
+- Earlier: 2026-02-11 · Dify · [[Changes/Dify/2026-02-11-flexible-delivery-methods-human-input-forms-can-be-delivered-via-webapp-or-email|Flexible Delivery Methods: Human input forms can be delivered…]]
 - Later: 2026-02-12 · Cline · [[Changes/Cline/2026-02-12-subagent-replace-legacy-subagents-with-the-native-use-subagents-tool|Subagent: replace legacy subagents with the native use_subagents tool]]
 <!-- chronolog:end -->
 

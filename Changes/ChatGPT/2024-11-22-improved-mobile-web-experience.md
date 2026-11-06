@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 125655fe88bc89502c2a4d1f0010dd26e027f82dd1e1c7f8d3ee991508031e4d
+machine_hash: e1ed0d9ed458830be143954d28b31bacff2471d3d5d4c5f97477c73d1903c173
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -50,10 +50,10 @@ record:
   title: Improved Mobile Web Experience
   type: change
 related_changes:
-- '[[Changes/Aider/2024-09-04-only-print-the-pip-command-when-self-updating-on-windows-without-running-it|Only
-  print the pip command when self updating on Windows, without running it]]'
-- '[[Changes/Aider/2024-09-21-on-windows-run-correctly-uses-powershell-or-cmd-exe|On
-  Windows, /run correctly uses PowerShell or cmd.exe]]'
+- "[[Changes/Open WebUI/2024-10-07-apple-touch-icon-support-optimizes-the-display-of-icons-for-web-bookmarks-on-app|\U0001F34F
+  Apple Touch Icon Support]]"
+- '[[Changes/Gemini/2024-11-14-try-the-new-gemini-app-on-your-iphone|Try the new Gemini
+  app on your iPhone]]'
 - '[[Changes/ChatGPT/2024-11-19-starting-today-we-re-beginning-to-roll-out-advanced-voice-mode-on-web-already-av-3d4db6|Advanced
   Voice for ChatGPT Web]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2024-11-22-updates-to-the-chatgpt-web-experience-bf046a2c|chatgpt-2024-11-22-updates-to-the-chatgpt-web-experience-bf046a2c]]'

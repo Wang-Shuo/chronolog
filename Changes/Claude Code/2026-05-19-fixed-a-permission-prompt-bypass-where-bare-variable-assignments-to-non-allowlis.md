@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: fix
-machine_hash: 6afe0cf5db8419449d92588a1df96c97875563a65a0a7ab2f26681f83ae8c8ce
+machine_hash: ec72949cded93ec42f36eebd26650e2da2bd671345a3528e5de70a253b3351e2
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,12 +46,10 @@ record:
   title: Fixed a permission-prompt bypass where bare variable assignments to non-allowlisted…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-14-added-new-claude-agents-flags-add-dir-settings-mcp-config-plugin-dir-permission|Added
-  new claude agents flags]]'
-- '[[Changes/Claude Code/2026-05-15-3-safety-and-privacy-changes-in-v2-1-143|3 Safety
-  and Privacy changes in v2.1.143]]'
 - '[[Changes/Codex CLI/2026-05-18-17-safety-and-privacy-changes-in-rust-v0-131-0|17
   Safety and Privacy changes in rust-v0.131.0]]'
+- '[[Changes/Lovable/2026-05-18-wiz-security-scanning|Wiz security scanning]]'
+- '[[Changes/Lovable/2026-05-18-admin-and-security-updates|Admin and security updates]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-19-v2-1-145-github-325388499-227a5ce4|claude-code-2026-05-19-v2-1-145-github-325388499-227a5ce4]]'
 source_type: github_releases
 theme: safety-privacy
@@ -84,7 +82,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-05-18 · Codex CLI · [[Changes/Codex CLI/2026-05-18-17-safety-and-privacy-changes-in-rust-v0-131-0|17 Safety and Privacy changes in rust-v0.131.0]]
+- Earlier: 2026-05-18 · Lovable · [[Changes/Lovable/2026-05-18-admin-and-security-updates|Admin and security updates]]
 - Later: 2026-05-19 · Claude Code · [[Changes/Claude Code/2026-05-19-fixed-skill-tool-failing-with-permission-error-in-headless-mode-regression-in-v2|Fixed Skill tool failing with permission error in headless mode (regression in v2.1.141)]]
 <!-- chronolog:end -->
 

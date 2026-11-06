@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 56d4ba874b95d7ce31be756d7fd30ca78c17c599a13eade8eec051799514cf08
+machine_hash: a223968bdb11d0a4d28e8f30d8f10db9af7c541f351957fd87ae1ccb2bd06e0e
 product: cline
 product_name: Cline
 record:
@@ -85,12 +85,12 @@ record:
   title: 4 Model Support changes in v2.0.0
   type: change
 related_changes:
-- '[[Changes/OpenHands/2024-09-26-display-full-model-name-in-settings-ui-3900-by-iaavas-in-https-github-com-all-ha|Display
-  full model name in Settings UI (♯3900)]]'
-- '[[Changes/Aider/2024-09-29-6-model-support-changes-in-v0-58-0|6 Model Support changes
-  in v0.58.0]]'
 - '[[Changes/Aider/2024-10-04-sanity-checks-the-editor-model-on-launch-now-same-as-main-and-weak-models|Sanity
   checks the --editor-model on launch now, same as main and weak models]]'
+- '[[Changes/Open WebUI/2024-10-07-3-model-support-changes-in-v0-3-31|3 Model Support
+  changes in v0.3.31]]'
+- "[[Changes/Open WebUI/2024-10-07-workspace-enhancements-added-a-display-count-for-models-prompts-tools-and-functi|\U0001F522
+  Workspace Enhancements]]"
 source_release: '[[Releases/Cline/cline-2024-10-09-v2-0-0-github-179063623-cccde13e|cline-2024-10-09-v2-0-0-github-179063623-cccde13e]]'
 source_type: github_releases
 theme: model-support
@@ -130,8 +130,8 @@ Source: https://github.com/cline/cline/releases/tag/v2.0.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2024-10-04 · Aider · [[Changes/Aider/2024-10-04-sanity-checks-the-editor-model-on-launch-now-same-as-main-and-weak-models|Sanity checks the --editor-model on launch now, same as main and weak models]]
-- Later: 2024-10-22 · Aider · [[Changes/Aider/2024-10-22-5-model-support-changes-in-v0-60-0|5 Model Support changes in v0.60.0]]
+- Earlier: 2024-10-07 · Open WebUI · [[Changes/Open WebUI/2024-10-07-workspace-enhancements-added-a-display-count-for-models-prompts-tools-and-functi|🔢 Workspace Enhancements]]
+- Later: 2024-10-09 · Gemini · [[Changes/Gemini/2024-10-09-introducing-imagen-3|Introducing Imagen 3]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

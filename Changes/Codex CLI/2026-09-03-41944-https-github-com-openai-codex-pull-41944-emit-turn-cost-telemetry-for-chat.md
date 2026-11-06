@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 0ff24283f9f93c5e071b3131c13055a55a84178ebfc7918136250aec35b550cb
+machine_hash: f893f48cdcabd08b36e70a9f0d7b0d66614c12ba1289ed573fc2ff594a260b53
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,8 +44,8 @@ record:
   title: '[#41944](https://github.com/openai/codex/pull/41944) Emit turn cost telemetry…'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-28-added-a-per-session-prompt-cache-line-to-cost-hit-ratio-misses-tokens-re-cached|Added
-  a per-session prompt-cache line to /cost…]]'
+- '[[Changes/v0/2026-08-28-4-pricing-model-changes-in-gpt-5-6-sol-sign-in-inside-previews|4
+  Pricing Model changes in GPT-5.6 Sol, sign-in inside previews…]]'
 - '[[Changes/Codex CLI/2026-09-01-rate-limit-banners-offer-actions-for-checking-usage-managing-credits-resetting-l|Rate-limit
   banners offer actions for checking usage, managing credits, resetting…]]'
 - '[[Changes/Cline/2026-09-02-cost-estimates-no-longer-appear-in-task-history-for-subscription-billed-tasks-cl|Cost
@@ -91,7 +91,7 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2026-09-02 · Cline · [[Changes/Cline/2026-09-02-cost-estimates-no-longer-appear-in-task-history-for-subscription-billed-tasks-cl|Cost estimates no longer appear in task history for subscription-billed tasks…]]
-- Later: 2026-09-09 · ChatGPT · [[Changes/ChatGPT/2026-09-09-pro-200-month-unlimited-gpt-live-1-usage|Pro ($200/month): Unlimited GPT-Live-1 usage]]
+- Later: 2026-09-07 · Lovable · [[Changes/Lovable/2026-09-07-transfer-primary-ownership-of-your-workspace|Transfer primary ownership of your workspace]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

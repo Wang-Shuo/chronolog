@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: bc8216881efa06de73d879a874c152c2cda5e0b1df85af1941408d0c8d2a12d4
+machine_hash: 7cd61fff9fa5afdb445f685a3da90ba23497812db308a3c834feeb2d567e5d59
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,10 +43,10 @@ record:
   title: Preserve pasted prompt content when changing models through Ctrl+X /model
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-16-3-model-support-changes-in-v1-0-71|3 Model
-  Support changes in v1.0.71]]'
 - '[[Changes/Claude Code/2026-07-17-3-model-support-changes-in-v2-1-212|3 Model Support
   changes in v2.1.212]]'
+- '[[Changes/Dify/2026-07-17-12-model-support-changes-in-1-16-0|12 Model Support changes
+  in 1.16.0]]'
 - '[[Changes/Codex CLI/2026-07-18-3-model-support-changes-in-rust-v0-144-6|3 Model
   Support changes in rust-v0.144.6]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-07-20-v1-0-72-github-356903706-84b07b91|github-copilot-cli-2026-07-20-v1-0-72-github-356903706-84b07b91]]'

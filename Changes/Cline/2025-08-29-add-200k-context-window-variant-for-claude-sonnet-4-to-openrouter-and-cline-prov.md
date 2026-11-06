@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: a5979c4296f3cfe044a0939f06e3aeb3fc8a943f1bbd6eff8adc8948e717a4b2
+machine_hash: 3503bc288c485e731e95eca0dee5746a359a76ff3ec198d6a62203ac0f99d59a
 product: cline
 product_name: Cline
 record:
@@ -57,12 +57,12 @@ record:
     providers
   type: change
 related_changes:
-- '[[Changes/Cline/2025-08-21-next-gen-context-management-method-switch-by-0xtoshii-in-https-github-com-cline|next
-  gen context management method switch]]'
 - '[[Changes/Cursor/2025-08-21-context-usage-is-always-shown-in-the-chat-input|Context
   usage is always shown in the chat input]]'
 - '[[Changes/Codex CLI/2025-08-27-2-context-window-changes-in-rust-v0-25-0|2 Context
   Window changes in rust-v0.25.0]]'
+- '[[Changes/Open WebUI/2025-08-28-2-context-window-changes-in-v0-6-26|2 Context Window
+  changes in v0.6.26]]'
 source_release: '[[Releases/Cline/cline-2025-08-29-v3-26-7-github-243606037-1d3100d2|cline-2025-08-29-v3-26-7-github-243606037-1d3100d2]]'
 source_type: github_releases
 theme: context-window
@@ -90,7 +90,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2025-08-27 · Codex CLI · [[Changes/Codex CLI/2025-08-27-2-context-window-changes-in-rust-v0-25-0|2 Context Window changes in rust-v0.25.0]]
+- Earlier: 2025-08-28 · Open WebUI · [[Changes/Open WebUI/2025-08-28-2-context-window-changes-in-v0-6-26|2 Context Window changes in v0.6.26]]
 - Later: 2025-09-04 · Gemini CLI · [[Changes/Gemini CLI/2025-09-04-update-colors-tokens-for-inputer-footer-by-miguelsolorio-in-https-github-com-goo|Update colors tokens for inputer/footer]]
 <!-- chronolog:end -->
 

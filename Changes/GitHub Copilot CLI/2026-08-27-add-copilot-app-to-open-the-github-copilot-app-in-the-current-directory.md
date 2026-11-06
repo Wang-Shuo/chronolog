@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3d732f8029147377cd5d1fc9c50d10b5ce8ce7b9a327268b683f7df385bbbc15
+machine_hash: 0733ca4e6410c8795db444aaaae9a192e7fc1ffb3dc7d5d1499c4dbf8b5d2ab0
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,10 +43,10 @@ record:
   title: Add `copilot app` to open the GitHub Copilot app in the current directory
   type: change
 related_changes:
-- '[[Changes/Cline/2026-08-23-restore-task-completion-telemetry-for-interactive-sessions-a-share-of-interactiv|Restore
-  task completion telemetry for interactive sessions]]'
-- '[[Changes/Claude Code/2026-08-25-added-the-turn-s-completion-time-to-the-end-of-turn-duration-line-e-g-saut-ed-fo|Added
-  the turn''s completion time to the end-of-turn duration line…]]'
+- '[[Changes/Dify/2026-08-25-4-editor-experience-changes-in-1-17-0|4 Editor Experience
+  changes in 1.17.0]]'
+- '[[Changes/Open WebUI/2026-08-25-12-editor-experience-changes-in-v0-11-1|12 Editor
+  Experience changes in v0.11.1]]'
 - '[[Changes/Cursor/2026-08-27-once-the-agent-s-build-is-to-your-liking-click-the-create-repo-button-to-save-yo|Turn
   it into a real repo, whenever you want]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-08-27-v1-0-81-github-377993714-523d567a|github-copilot-cli-2026-08-27-v1-0-81-github-377993714-523d567a]]'
@@ -93,7 +93,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-08-27 · Cursor · [[Changes/Cursor/2026-08-27-once-the-agent-s-build-is-to-your-liking-click-the-create-repo-button-to-save-yo|Turn it into a real repo, whenever you want]]
-- Later: 2026-09-01 · Claude Code · [[Changes/Claude Code/2026-09-01-2-editor-experience-changes-in-v2-1-257|2 Editor Experience changes in v2.1.257]]
+- Later: 2026-08-28 · Lovable · [[Changes/Lovable/2026-08-28-fewer-preview-reloads-while-you-edit|Fewer preview reloads while you edit]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

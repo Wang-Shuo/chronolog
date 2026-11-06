@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6c3704fa2c88a306573cfbb3e5576696a20b636a35dbba9a7bfa148b4de91e49
+machine_hash: 61d1e3115911a64d2d03c3dd1dc710a33b38b2d85482d76564a6ef5761c5270c
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -58,12 +58,10 @@ record:
   title: 9 Apps and Integrations changes in v1.0.66
   type: change
 related_changes:
-- '[[Changes/Cline/2026-06-26-13-apps-and-integrations-changes-in-v4-0-0|13 Apps and
-  Integrations changes in v4.0.0]]'
-- '[[Changes/Cline/2026-06-28-roll-the-stable-vs-code-extension-back-to-the-pre-sdk-migration-codebase-to-reso|Roll
-  the stable VS Code extension back to the pre-SDK-migration codebase to resolve…]]'
-- '[[Changes/Claude Code/2026-06-29-remote-control-is-now-disabled-when-anthropic-base-url-points-at-a-non-anthropic|Remote
-  Control is now disabled when ANTHROPIC_BASE_URL points at a non-Anthropic…]]'
+- '[[Changes/ElevenLabs/2026-06-29-sdk-releases|SDK Releases]]'
+- '[[Changes/Lovable/2026-06-29-app-connector-x|App connector: X]]'
+- '[[Changes/Open WebUI/2026-06-29-7-apps-and-integrations-changes-in-v0-10-0|7 Apps
+  and Integrations changes in v0.10.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-06-30-v1-0-66-github-346845066-af776740|github-copilot-cli-2026-06-30-v1-0-66-github-346845066-af776740]]'
 source_type: github_releases
 theme: apps-integrations
@@ -126,7 +124,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.66
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-06-29 · Claude Code · [[Changes/Claude Code/2026-06-29-remote-control-is-now-disabled-when-anthropic-base-url-points-at-a-non-anthropic|Remote Control is now disabled when ANTHROPIC_BASE_URL points at a non-Anthropic…]]
+- Earlier: 2026-06-29 · Open WebUI · [[Changes/Open WebUI/2026-06-29-7-apps-and-integrations-changes-in-v0-10-0|7 Apps and Integrations changes in v0.10.0]]
 - Later: 2026-06-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-30-allow-tool-calls-to-continue-when-hooks-time-out|Allow tool calls to continue when hooks time out]]
 <!-- chronolog:end -->
 

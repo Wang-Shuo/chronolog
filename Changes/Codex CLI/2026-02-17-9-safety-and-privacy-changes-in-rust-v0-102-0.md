@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9dc52a033b9097b9840da54dc3da88d598b4813c5ab3f73bfa5e03b3f6d7ca69
+machine_hash: dbc8195908932b177656ddd89173995289e215449fe775194287139f6ae806b9
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -61,10 +61,10 @@ record:
   title: 9 Safety and Privacy changes in rust-v0.102.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-02-12-permission-prompts-with-long-diffs-are-scrollable-in-alt-screen-mode|Permission
-  prompts with long diffs are scrollable in alt-screen mode]]'
 - '[[Changes/Claude Code/2026-02-13-2-safety-and-privacy-changes-in-v2-1-41|2 Safety
   and Privacy changes in v2.1.41]]'
+- "[[Changes/Open WebUI/2026-02-14-public-sharing-security-fix-fixed-a-security-issue-where-users-with-write-access|\U0001F6E1️
+  Public sharing security fix. Fixed a security issue where users with write…]]"
 - '[[Changes/Claude Code/2026-02-17-vscode-improved-permission-destination-choice-project-user-session-to-persist-ac|VSCode
   Improved permission destination choice (project/user/session) to persist…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-02-17-rust-v0-102-0-github-287401154-1bf3dbd0|codex-cli-2026-02-17-rust-v0-102-0-github-287401154-1bf3dbd0]]'

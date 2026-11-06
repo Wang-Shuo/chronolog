@@ -4,20 +4,20 @@ date: '2026-09-11'
 description: 'OpenHands · 2026-09-11 · Files and Data: 2 changes in v1.18.0 — feat:
   use DB-driven free/default model flags in Canvas by @juanmichelini in…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code
-    interpreter is now rolling out in beta on web]]'
+  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
+    Files and Data changes in 0.2.2]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1163
+  lag_days: 1205
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1fce84fec0d0526e815c260e2e5af23ac1a3022f87620f85f8a1d0231cf694f9
+machine_hash: 2348c06b103f318cc4ade02b4c115210a64c902ad789820e04b26dc99f3b6d88
 product: openhands
 product_name: OpenHands
 record:
@@ -43,10 +43,10 @@ record:
   title: 2 Files and Data changes in v1.18.0
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-08-27-2-files-and-data-changes-in-v1-16-0|2 Files and
-  Data changes in v1.16.0]]'
-- '[[Changes/OpenHands/2026-09-09-4-files-and-data-changes-in-v1-17-0|4 Files and
-  Data changes in v1.17.0]]'
+- '[[Changes/Dify/2026-09-10-13-files-and-data-changes-in-1-17-1|13 Files and Data
+  changes in 1.17.1]]'
+- '[[Changes/Gemini/2026-09-10-bring-google-gemini-to-your-pc-with-the-new-windows-app|Bring
+  Google Gemini to your PC with the new Windows app]]'
 - '[[Changes/Claude Code/2026-09-11-vscode-improved-documents-and-messages-written-for-someone-other-than-the-user-c|VSCode
   Improved documents and messages written for someone other than the user]]'
 source_release: '[[Releases/OpenHands/openhands-2026-09-11-v1-18-0-github-387253056-164e51d7|openhands-2026-09-11-v1-18-0-github-387253056-164e51d7]]'
@@ -89,7 +89,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/v1.18.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-06 · ChatGPT · [[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code interpreter is now rolling out in beta on web]]
+- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

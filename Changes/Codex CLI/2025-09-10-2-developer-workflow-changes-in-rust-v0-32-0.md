@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e81e47cb6381b025e9dab9cc3a6413a80513707a6a0d7e5d461b23828e55a8b5
+machine_hash: 324ac585fd64e758a0677fc9bb0fe93c2fcd94e16421c5074ef31febbb34044a
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -41,12 +41,12 @@ record:
   title: 2 Developer Workflow changes in rust-v0.32.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-09-05-3-developer-workflow-changes-in-rust-v0-30-0|3 Developer
-  Workflow changes in rust-v0.30.0]]'
 - '[[Changes/Codex CLI/2025-09-08-2-developer-workflow-changes-in-rust-v0-31-0|2 Developer
   Workflow changes in rust-v0.31.0]]'
 - '[[Changes/Gemini CLI/2025-09-09-3-developer-workflow-changes-in-v0-4-0|3 Developer
   Workflow changes in v0.4.0]]'
+- '[[Changes/Open WebUI/2025-09-09-14-developer-workflow-changes-in-v0-6-27|14 Developer
+  Workflow changes in v0.6.27]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-09-10-rust-v0-32-0-github-246248951-dfa94f54|codex-cli-2025-09-10-rust-v0-32-0-github-246248951-dfa94f54]]'
 source_type: github_releases
 theme: developer-workflow
@@ -83,8 +83,8 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.32.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2025-09-09 · Gemini CLI · [[Changes/Gemini CLI/2025-09-09-3-developer-workflow-changes-in-v0-4-0|3 Developer Workflow changes in v0.4.0]]
-- Later: 2025-09-12 · Cursor · [[Changes/Cursor/2025-09-12-improved-terminal-for-agent|Improved terminal for Agent]]
+- Earlier: 2025-09-09 · Open WebUI · [[Changes/Open WebUI/2025-09-09-14-developer-workflow-changes-in-v0-6-27|14 Developer Workflow changes in v0.6.27]]
+- Later: 2025-09-10 · Open WebUI · [[Changes/Open WebUI/2025-09-10-4-developer-workflow-changes-in-v0-6-28|4 Developer Workflow changes in v0.6.28]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

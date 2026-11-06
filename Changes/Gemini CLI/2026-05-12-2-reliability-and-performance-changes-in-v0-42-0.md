@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3e54689f16493b4d0d14b6b259ef4f8724173d62a6f58846015dac3aadef9c51
+machine_hash: 067729e3dc0b33a921f424b249874101b944b598361076459ad5a9eb56165501
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -45,12 +45,12 @@ record:
   title: 2 Reliability and Performance changes in v0.42.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-11-added-scroll-speed-command-to-tune-mouse-wheel-scroll-speed-with-a-live-preview|Added
-  /scroll-speed command to tune mouse wheel scroll speed with a live preview]]'
 - '[[Changes/Cursor/2026-05-11-default-bugbot-continues-to-use-the-same-effort-level-as-it-does-today-optimized|Default:
   Bugbot continues to use the same effort level as it does today]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-11-cli-starts-faster-on-terminals-with-limited-osc-color-query-support-shaving-up-t|CLI
   starts faster on terminals with limited OSC color query support, shaving up…]]'
+- '[[Changes/Dify/2026-05-12-workflow-stability-restored-workflow-version-loading-through-the-backend-api-fix|Workflow
+  stability — restored workflow-version loading through the backend API…]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-05-12-v0-42-0-github-321461714-faa5f8a3|gemini-cli-2026-05-12-v0-42-0-github-321461714-faa5f8a3]]'
 source_type: github_releases
 theme: reliability-performance
@@ -91,8 +91,8 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.42.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-05-11 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-11-cli-starts-faster-on-terminals-with-limited-osc-color-query-support-shaving-up-t|CLI starts faster on terminals with limited OSC color query support, shaving up…]]
-- Later: 2026-05-13 · Cline · [[Changes/Cline/2026-05-13-improve-mention-file-search-performance|Improve @-mention file search performance]]
+- Earlier: 2026-05-12 · Dify · [[Changes/Dify/2026-05-12-workflow-stability-restored-workflow-version-loading-through-the-backend-api-fix|Workflow stability — restored workflow-version loading through the backend API…]]
+- Later: 2026-05-12 · v0 · [[Changes/v0/2026-05-12-3-reliability-and-performance-changes-in-run-terminal-commands-with-v0-faster|3 Reliability and Performance changes in Run terminal commands with v0, faster…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

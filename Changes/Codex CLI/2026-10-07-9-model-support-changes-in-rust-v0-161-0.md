@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d8a51e124d59ec28dfc5e0b00e5a503036b6b1cb0844a4c6717654fe3829a7be
+machine_hash: 340615a9bcf68eeb43456be7ed64396ce0ab84dc7eab2f34c16b98fa971b03bf
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -59,8 +59,7 @@ record:
   title: 9 Model Support changes in rust-v0.161.0
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-10-07-we-re-introducing-gpt-6-with-intelligent-ui-in-chatgpt-chatgpt-can-now-combine-t|GPT-6
-  and Intelligent UI in ChatGPT]]'
+- '[[Changes/Claude/2026-10-07-claude-haiku-5-5-launch|Claude Haiku 5.5 launch]]'
 - '[[Changes/Claude Code/2026-10-07-added-claude-haiku-5-5-claude-haiku-5-5-now-the-default-haiku-model-on-the-anthr|Added
   Claude Haiku 5.5 (claude-haiku-5-5), now the default Haiku model…]]'
 - '[[Changes/Cline/2026-10-07-3-model-support-changes-in-v4-1-23|3 Model Support changes

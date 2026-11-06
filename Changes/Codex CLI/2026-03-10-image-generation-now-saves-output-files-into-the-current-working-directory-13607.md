@@ -4,20 +4,20 @@ date: '2026-03-10'
 description: 'Codex CLI · 2026-03-10 · Image Generation: Image generation now saves
   output files into the current working directory. (#13607)'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2024-08-08-we-re-rolling-out-the-ability-for-chatgpt-free-users-to-create-up-to-two-images-2c505c|DALL·E
-    3 for ChatGPT Free users]]'
+  first_in_tracked: "[[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|\U0001F3A8
+    DALL-E Integration]]"
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 579
+  lag_days: 730
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6f334935df3923019268b3959e9c023705109acba3554b0ba3746978294c112c
+machine_hash: 9953bde7caaf2bbc761bd4b740de4e76788598424f30d85bd1acca9d294ae237
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,11 +42,11 @@ record:
   title: Image generation now saves output files into the current working directory
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-12-16-we-ve-introduced-a-new-and-improved-version-of-chatgpt-images-powered-by-our-bes-a63d5c|ChatGPT
-  Images on Web and Mobile (iOS & Android)]]'
-- '[[Changes/Cursor/2026-01-22-image-generation|Image generation]]'
+- '[[Changes/Replit/2026-02-20-video-stack|Video Stack]]'
 - '[[Changes/Codex CLI/2026-03-05-expanded-image-workflow-support-for-clients-including-client-side-handling-of-im|Expanded
   image workflow support for clients, including client-side handling…]]'
+- "[[Changes/Open WebUI/2026-03-08-image-generation-in-temporary-chats-generated-images-now-display-correctly-in-te|\U0001F58C️
+  Image generation in temporary chats. Generated images now display correctly…]]"
 source_release: '[[Releases/Codex CLI/codex-cli-2026-03-10-rust-v0-113-0-github-294999501-e594ccb6|codex-cli-2026-03-10-rust-v0-113-0-github-294999501-e594ccb6]]'
 source_type: github_releases
 theme: image-generation
@@ -86,14 +86,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Image Generation
 
-- Earlier: 2026-03-05 · Codex CLI · [[Changes/Codex CLI/2026-03-05-expanded-image-workflow-support-for-clients-including-client-side-handling-of-im|Expanded image workflow support for clients, including client-side handling…]]
-- Later: 2026-03-26 · Codex CLI · [[Changes/Codex CLI/2026-03-26-2-image-generation-changes-in-rust-v0-117-0|2 Image Generation changes in rust-v0.117.0]]
+- Earlier: 2026-03-08 · Open WebUI · [[Changes/Open WebUI/2026-03-08-image-generation-in-temporary-chats-generated-images-now-display-correctly-in-te|🖌️ Image generation in temporary chats. Generated images now display correctly…]]
+- Later: 2026-03-16 · Lovable · [[Changes/Lovable/2026-03-16-image-generation-updates|Image generation updates]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-08-08 · ChatGPT · [[Changes/ChatGPT/2024-08-08-we-re-rolling-out-the-ability-for-chatgpt-free-users-to-create-up-to-two-images-2c505c|DALL·E 3 for ChatGPT Free users]]
+- Earliest same-theme entry in the tracked set: 2024-03-10 · Open WebUI · [[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|🎨 DALL-E Integration]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

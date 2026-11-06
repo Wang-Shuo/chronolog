@@ -4,20 +4,20 @@ date: '2026-06-02'
 description: 'GitHub Copilot CLI · 2026-06-02 · Automation and Scheduling: `/experimental`
   schedule prompts with `/every` and `/after`'
 diffusion:
-  first_in_tracked: '[[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better
-    syntax error loop detection]]'
+  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
+    data clean schedule]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 636
+  lag_days: 882
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 632bfbb73efdd1d2f7599da84909293a585cfbccf85370b08003708a5d4805c0
+machine_hash: 5ac970266788400430386d63a09ba9dae3c091d6a345435da72d408a6c60dd3e
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,12 +43,11 @@ record:
   title: '`/experimental` schedule prompts with `/every` and `/after`'
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-05-20-cursor-automations-are-now-available-in-the-agents-window-in-addition-to-cursor|Automations
-  in the Agents Window]]'
-- '[[Changes/Cursor/2026-05-20-this-release-brings-cursor-automations-to-the-agents-window-and-introduces-the-a-cd58e1|Cursor
-  brings Cursor Automations to the Agents Window and introduces the ability…]]'
+- '[[Changes/ElevenLabs/2026-05-25-music|Music]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-28-schedule-manager-hint-bar-text-no-longer-wraps-over-dialog-borders-when-entries|Schedule
   manager hint bar text no longer wraps over dialog borders when entries are added]]'
+- "[[Changes/Open WebUI/2026-06-01-bulk-enable-or-disable-automations-automations-can-now-be-enabled-or-disabled-in|\U0001F518
+  Bulk enable or disable automations. Automations can now be enabled or disabled…]]"
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-06-02-v1-0-58-github-333221338-cb1ede9b|github-copilot-cli-2026-06-02-v1-0-58-github-333221338-cb1ede9b]]'
 source_type: github_releases
 theme: automation-scheduling
@@ -80,14 +79,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2026-05-28 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-28-schedule-manager-hint-bar-text-no-longer-wraps-over-dialog-borders-when-entries|Schedule manager hint bar text no longer wraps over dialog borders when entries are added]]
+- Earlier: 2026-06-01 · Open WebUI · [[Changes/Open WebUI/2026-06-01-bulk-enable-or-disable-automations-automations-can-now-be-enabled-or-disabled-in|🔘 Bulk enable or disable automations. Automations can now be enabled or disabled…]]
 - Later: 2026-06-04 · Cursor · [[Changes/Cursor/2026-06-04-reliable-wait-on-local-runs-local-runs-no-longer-resolve-wait-before-the-termina|Reliable wait() on local runs]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-09-04 · OpenHands · [[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better syntax error loop detection]]
+- Earliest same-theme entry in the tracked set: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

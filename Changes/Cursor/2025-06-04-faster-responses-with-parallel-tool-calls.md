@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ceacccf8092854c1f32532e2c7c23b6c22b531b930cf8ac6c07a6a18044249b2
+machine_hash: 75507df26bf31d73f1bf2aa34abfb037d394eaadf47d40d1e60d6c39709a31ce
 product: cursor
 product_name: Cursor
 record:
@@ -41,11 +41,11 @@ record:
   title: Faster responses with parallel tool calls
   type: change
 related_changes:
-- '[[Changes/Windsurf/2025-05-15-misc|Misc]]'
-- '[[Changes/Cline/2025-05-28-add-cerebras-as-a-new-api-provider-with-5-high-performance-models-including-reas|Add
-  Cerebras as a new API provider with 5 high-performance models including…]]'
+- '[[Changes/Open WebUI/2025-05-29-general-backend-refactoring-significant-backend-improvements-deliver-a-cleaner-c|⚙️
+  General Backend Refactoring]]'
 - '[[Changes/Aider/2025-05-30-improved-openrouter-model-metadata-handling-by-introducing-a-local-cache-increas|Improved
   OpenRouter model metadata handling by introducing a local cache, increasing…]]'
+- '[[Changes/Replit/2025-05-30-ai-latency-improvements|AI latency improvements]]'
 source_release: '[[Releases/Cursor/cursor-2025-06-04-1-0-https-cursor-com-changelog-1-0-237767ca|cursor-2025-06-04-1-0-https-cursor-com-changelog-1-0-237767ca]]'
 source_type: cursor_changelog
 theme: reliability-performance
@@ -87,8 +87,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-05-30 · Aider · [[Changes/Aider/2025-05-30-improved-openrouter-model-metadata-handling-by-introducing-a-local-cache-increas|Improved OpenRouter model metadata handling by introducing a local cache, increasing…]]
-- Later: 2025-06-12 · Cursor · [[Changes/Cursor/2025-06-12-3-reliability-and-performance-changes-in-1-1|3 Reliability and Performance changes in 1.1]]
+- Earlier: 2025-05-30 · Replit · [[Changes/Replit/2025-05-30-ai-latency-improvements|AI latency improvements]]
+- Later: 2025-06-09 · Ollama · [[Changes/Ollama/2025-06-09-the-macos-app-is-now-a-native-application-and-starts-much-faster-while-requiring|The macOS app is now a native application and starts much faster while requiring…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

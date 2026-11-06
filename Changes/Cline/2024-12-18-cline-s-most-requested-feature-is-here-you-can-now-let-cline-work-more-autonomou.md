@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 814ebb19e8955cad0ed5f207dd5c91f541f863bac2c6828a672a934dfa62da4d
+machine_hash: 6a1416c1632614a855e5ddf496b8fb59415503b0e664b87b198b883a9dda70dc
 product: cline
 product_name: Cline
 record:
@@ -50,10 +50,10 @@ record:
     work more…"
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-10-09-update-0-42-1-0-42-5-fixes-the-following-upstream-security-issue-cve-2024-43601|UPDATE
-  (0.42.1 - 0.42.5): Fixes the following upstream security issue: CVE-2024-43601]]'
-- '[[Changes/OpenHands/2024-10-17-add-modal-sandbox-support-as-a-new-runtime-by-pawalt-in-https-github-com-all-han|Add
-  Modal sandbox support as a new runtime]]'
+- '[[Changes/Open WebUI/2024-11-19-2-safety-and-privacy-changes-in-v0-4-0|2 Safety
+  and Privacy changes in v0.4.0]]'
+- '[[Changes/Ollama/2024-11-26-strong-typing-throughout-the-library-for-improved-reliability-and-type-safety|Strong
+  typing throughout the library for improved reliability and type safety]]'
 - '[[Changes/OpenHands/2024-12-04-support-custom-sandbox-for-resolver-by-malhotra5-in-https-github-com-all-hands-a|Support
   custom sandbox for resolver]]'
 source_release: '[[Releases/Cline/cline-2024-12-18-v3-0-0-github-191549962-04b25c94|cline-2024-12-18-v3-0-0-github-191549962-04b25c94]]'
@@ -89,7 +89,7 @@ type: change
 ## Nearby in Safety and Privacy
 
 - Earlier: 2024-12-04 · OpenHands · [[Changes/OpenHands/2024-12-04-support-custom-sandbox-for-resolver-by-malhotra5-in-https-github-com-all-hands-a|Support custom sandbox for resolver]]
-- Later: 2025-03-13 · Aider · [[Changes/Aider/2025-03-13-added-ignore-permission-denied-option-to-file-watcher-to-prevent-errors-when-acc|Added ignore_permission_denied option to file watcher to prevent errors…]]
+- Later: 2024-12-25 · Open WebUI · [[Changes/Open WebUI/2024-12-25-api-key-authentication-restriction-narrowed-api-key-auth-permissions-to-api-mode|💡 API Key Authentication Restriction]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

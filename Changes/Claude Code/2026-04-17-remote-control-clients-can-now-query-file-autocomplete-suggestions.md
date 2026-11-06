@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 781a9085cdd6658aa8c06323fc606d026fbfe74e852ea30153f8940d74960eb1
+machine_hash: e39aa9aade94a596a4ef84ef9d996ca5b82531ded6c9d1ecb2b4acae5b916746
 product: claude-code
 product_name: Claude Code
 record:
@@ -41,12 +41,12 @@ record:
   title: Remote Control clients can now query `@`-file autocomplete suggestions
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-15-show-a-clear-message-when-copilot-pro-trial-is-paused-instead-of-a-generic-polic|Show
-  a clear message when Copilot Pro trial is paused instead of a generic policy error]]'
 - '[[Changes/Claude Code/2026-04-16-transcript-view-footer-now-shows-dump-to-scrollback-and-v-open-in-editor-shortcu|Transcript
   view footer now shows  (dump to scrollback) and v (open in editor)…]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-16-a-clear-error-message-is-displayed-when-the-configured-editor-cannot-be-launched|A
   clear error message is displayed when the configured editor cannot be launched]]'
+- '[[Changes/Ollama/2026-04-16-hermes-and-github-copilot-cli-in-ollama-launch-added-both-integrations-which-can|Hermes
+  and GitHub Copilot CLI in ollama launch. Added both integrations…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-17-v2-1-113-github-310525785-1b5293ba|claude-code-2026-04-17-v2-1-113-github-310525785-1b5293ba]]'
 source_type: github_releases
 theme: editor-experience
@@ -81,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-04-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-16-a-clear-error-message-is-displayed-when-the-configured-editor-cannot-be-launched|A clear error message is displayed when the configured editor cannot be launched]]
+- Earlier: 2026-04-16 · Ollama · [[Changes/Ollama/2026-04-16-hermes-and-github-copilot-cli-in-ollama-launch-added-both-integrations-which-can|Hermes and GitHub Copilot CLI in ollama launch. Added both integrations…]]
 - Later: 2026-04-20 · Claude Code · [[Changes/Claude Code/2026-04-20-2-editor-experience-changes-in-v2-1-116|2 Editor Experience changes in v2.1.116]]
 <!-- chronolog:end -->
 

@@ -4,20 +4,20 @@ date: '2026-10-15'
 description: 'Codex CLI · 2026-10-15 · Voice and Audio: 4 changes in 0.163.0 — Configure
   a leader key in `/keymap`. The default is `Ctrl+X`, shortcut hints stay open until…'
 diffusion:
-  first_in_tracked: '[[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source
-    link) support, which allows you…]]'
+  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
+    Voice and Audio changes in 0.3.7]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1161
+  lag_days: 1193
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 074684041de7a4c02056f0e96b67f5d765e8d6abe09d52aee1da12aef74e4264
+machine_hash: e2815c41c616aefe30915815f41df4f3b456e5b7699647255b7fdb9799d64490
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -47,8 +47,8 @@ record:
   title: 4 Voice and Audio changes in rust-v0.163.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-14-claude-tag-added-support-for-slack-voice-clips-in-claude-in-slack-claude-reads-s|Claude
-  Tag Added support for Slack voice clips in Claude in Slack]]'
+- '[[Changes/Open WebUI/2026-10-14-10-voice-and-audio-changes-in-v0-12-1|10 Voice
+  and Audio changes in v0.12.1]]'
 - '[[Changes/ChatGPT/2026-10-15-for-more-information-see-chatgpt-voice|For more information,
   see: ChatGPT Voice]]'
 - '[[Changes/ChatGPT/2026-10-15-we-re-rolling-out-gpt-live-1-1-and-gpt-live-1-1-quip-a-mini-version-of-the-model|ChatGPT
@@ -102,13 +102,13 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.163.0
 ## Nearby in Voice and Audio
 
 - Earlier: 2026-10-15 · ChatGPT · [[Changes/ChatGPT/2026-10-15-we-re-rolling-out-gpt-live-1-1-and-gpt-live-1-1-quip-a-mini-version-of-the-model|ChatGPT rolls out GPT-Live-1.1 and GPT-Live-1.1 Quip, a mini version of the model…]]
-- Later: 2026-10-19 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-19-voice-dictation-no-longer-inserts-language-markers-like-en-us-into-transcript-te|Voice dictation no longer inserts language markers like en-US into transcript text]]
+- Later: 2026-10-16 · Lovable · [[Changes/Lovable/2026-10-16-gpt-transcribe-for-your-app-s-speech-to-text-features|GPT Transcribe for your app's speech-to-text features]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-08-11 · Aider · [[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source link) support, which allows you…]]
+- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

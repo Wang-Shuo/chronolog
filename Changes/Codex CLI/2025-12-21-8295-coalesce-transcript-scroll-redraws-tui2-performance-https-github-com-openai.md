@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 61f78d7f1b5ca165dd169c032a6793653e623ac45dfd6eb21fb5ec3ffc84e5e3
+machine_hash: 668937fb783ab1a64267d6d350208b016f5f8eb3c88358117566d5e8f452d7a0
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -41,8 +41,8 @@ record:
   title: '#8295 Coalesce transcript scroll redraws (TUI2 performance)'
   type: change
 related_changes:
-- '[[Changes/Windsurf/2025-12-11-2-reliability-and-performance-changes-in-v1-12-43|2
-  Reliability and Performance changes in v1.12.43]]'
+- '[[Changes/v0/2025-12-12-v0-pro-superior-performance-for-most-tasks|v0 Pro : Superior
+  performance for most tasks]]'
 - '[[Changes/Cline/2025-12-17-improved-whatsnew-modal-responsiveness-and-cleaned-up-redundant-ui-elements|Improved
   WhatsNew modal responsiveness and cleaned up redundant UI elements]]'
 - '[[Changes/Codex CLI/2025-12-18-8216-speed-and-reliability-improvements-for-setting-reads-acls|♯8216
@@ -79,7 +79,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2025-12-18 · Codex CLI · [[Changes/Codex CLI/2025-12-18-8216-speed-and-reliability-improvements-for-setting-reads-acls|♯8216 speed and reliability improvements for setting reads ACLs]]
-- Later: 2025-12-22 · Cursor · [[Changes/Cursor/2025-12-22-for-this-holiday-release-we-ve-focused-entirely-on-fixing-bugs-and-improving-sta|For this holiday release, we've focused entirely on fixing bugs and improving stability]]
+- Later: 2025-12-21 · Open WebUI · [[Changes/Open WebUI/2025-12-21-7-reliability-and-performance-changes-in-v0-6-42|7 Reliability and Performance changes in v0.6.42]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

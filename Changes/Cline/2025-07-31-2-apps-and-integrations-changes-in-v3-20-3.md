@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 95d4e032bc06a8475b8059bebc8416a9b36ff2d71f660acbad586d237960a6cd
+machine_hash: 9090aad90ca84122c1d19e0fd943ddc2a611d10189aa2209a09dfe2ffa8f1319
 product: cline
 product_name: Cline
 record:
@@ -42,8 +42,7 @@ record:
   title: 2 Apps and Integrations changes in v3.20.3
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-07-25-18-apps-and-integrations-changes-in-v0-1-14|18
-  Apps and Integrations changes in v0.1.14]]'
+- '[[Changes/ElevenLabs/2025-07-28-sdks|SDKs]]'
 - '[[Changes/Cursor/2025-07-29-extension-marketplace-supports-custom-urls|Extension
   marketplace supports custom URLs]]'
 - '[[Changes/Gemini CLI/2025-07-30-19-apps-and-integrations-changes-in-v0-1-15|19

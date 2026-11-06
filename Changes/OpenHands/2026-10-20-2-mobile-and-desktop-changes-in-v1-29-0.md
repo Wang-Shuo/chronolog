@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2d2e577b66cc6d758a535f6b6eafa3ac8013c4b5cac3ea71a874904669d164b4
+machine_hash: ac5054e14028bf25b40f6a159ebbc0d5f94e1c49c773c5c17691c99687955599
 product: openhands
 product_name: OpenHands
 record:
@@ -45,8 +45,8 @@ record:
   title: 2 Mobile and Desktop changes in v1.29.0
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-10-16-present-or-export-present-directly-from-chatgpt-on-the-web-export-to-powerpoint|Present
-  or export. Present directly from ChatGPT]]'
+- '[[Changes/Lovable/2026-10-17-jump-to-your-last-chat-in-the-desktop-app|Jump to
+  your last chat in the desktop app]]'
 - '[[Changes/Claude Code/2026-10-19-windows-improved-git-command-start-up-with-a-standard-git-for-windows-install-by|Windows:
   Improved git command start-up with a standard Git for Windows install…]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-20-macos-sandboxed-commands-can-connect-directly-to-localhost-tcp-services-when-loc|macOS
@@ -87,7 +87,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/v1.29.0
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-10-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-20-macos-sandboxed-commands-can-connect-directly-to-localhost-tcp-services-when-loc|macOS sandboxed commands can connect directly to localhost TCP services when local…]]
-- Later: 2026-10-22 · Claude Code · [[Changes/Claude Code/2026-10-22-changed-the-dangerous-rm-and-rmdir-prompt-in-bypass-permissions-mode-in-the-desk|Changed the dangerous rm and rmdir prompt in bypass permissions mode…]]
+- Later: 2026-10-21 · Ollama · [[Changes/Ollama/2026-10-21-note-flint-is-supported-on-macos-other-gpu-support-will-be-enabled-in-a-subseque|Note: Flint is supported on MacOS]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

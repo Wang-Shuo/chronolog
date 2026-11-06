@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 2b8ad4cfd0598afe0334357ad9342de3b8a311dcd8828ead8b5a53b8f7f07132
+machine_hash: e24f57d54e5bff8669b7b809eda6e2b539e50326bac3c1620fd3b36c83c5c541
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -48,10 +48,9 @@ record:
     command
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-05-29-auto-review-is-a-new-run-mode-that-allows-cursor-to-work-for-longer-with-fewer-a-61df08|Auto-review
-  Run Mode]]'
-- '[[Changes/GitHub Copilot CLI/2026-05-29-add-builtinagents-rubberduck-setting-to-enable-or-disable-the-rubber-duck-agent|Add
-  builtInAgents.rubberDuck setting to enable or disable the rubber duck agent…]]'
+- '[[Changes/Replit/2026-05-29-agent|Agent]]'
+- '[[Changes/Replit/2026-05-29-agent-can-generate-music-sound-effects-and-speech|Agent
+  can generate music, sound effects, and speech]]'
 - '[[Changes/Codex CLI/2026-06-01-3-agent-mode-changes-in-rust-v0-136-0|3 Agent Mode
   changes in rust-v0.136.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-06-01-v1-0-57-github-332702409-1dd8346d|github-copilot-cli-2026-06-01-v1-0-57-github-332702409-1dd8346d]]'

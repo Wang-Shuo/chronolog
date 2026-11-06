@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: d44b7735cdd8780da71595a25baa8313b21a54447e95ac197eddee1bdb202cfb
+machine_hash: db74fb81b7d14c1842fd871e6af9b6a83f7d296e8d2c0f76b59eb3cc31590dca
 product: cursor
 product_name: Cursor
 record:
@@ -92,7 +92,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2025-08-21 · Cline · [[Changes/Cline/2025-08-21-feat-telemetry-add-mcp-tool-usage-tracking-by-nighttrek-in-https-github-com-clin|feat(telemetry): Add MCP tool usage tracking]]
-- Later: 2025-08-26 · Codex CLI · [[Changes/Codex CLI/2025-08-26-5-apps-and-integrations-changes-in-rust-v0-24-0|5 Apps and Integrations changes in rust-v0.24.0]]
+- Later: 2025-08-21 · Open WebUI · [[Changes/Open WebUI/2025-08-21-5-apps-and-integrations-changes-in-v0-6-23|5 Apps and Integrations changes in v0.6.23]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

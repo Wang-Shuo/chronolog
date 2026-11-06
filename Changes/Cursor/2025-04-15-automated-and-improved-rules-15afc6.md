@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 440ee24756b65b876c5b9be1fba91d447f4c773a2aa4a0c320e7e011270a2e66
+machine_hash: 20cc297eb741b0d5d11ac4defe8d6021cde35f2cd1eaa05f0472b5f5f0363d9e
 product: cursor
 product_name: Cursor
 record:
@@ -96,7 +96,7 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2025-04-14 · Cline · [[Changes/Cline/2025-04-14-2-context-window-changes-in-v3-12-2|2 Context Window changes in v3.12.2]]
-- Later: 2025-05-09 · Aider · [[Changes/Aider/2025-05-09-2-context-window-changes-in-v0-83-0|2 Context Window changes in v0.83.0]]
+- Later: 2025-04-17 · Ollama · [[Changes/Ollama/2025-04-17-ibm-granite-3-3-https-ollama-com-library-granite3-3-2b-and-8b-models-with-128k-c|IBM Granite 3.3((source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

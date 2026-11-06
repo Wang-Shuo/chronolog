@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 60d84cb0e39cbeb6db7873e6ac92849c1bf684574903a3a9b20c51eb04aa374f
+machine_hash: fe7c4717c8f940d1733177aedde115dc5e219e6ff515f6e992a5ce71dc2ea7cf
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -43,8 +43,8 @@ record:
   title: Turn a sketch into an image
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-01-changed-add-dir-add-dir-and-additionaldirectories-to-refuse-network-paths-unc-sh|Changed
-  --add-dir, /add-dir, and additionalDirectories to refuse network paths…]]'
+- '[[Changes/Lovable/2026-09-02-download-the-mobile-app-from-your-settings|Download
+  the mobile app from your settings]]'
 - '[[Changes/Claude Code/2026-09-03-3-mobile-and-desktop-changes-in-v2-1-260|3 Mobile
   and Desktop changes in v2.1.260]]'
 - '[[Changes/Codex CLI/2026-09-03-42068-https-github-com-openai-codex-pull-42068-detect-standalone-installs-from-t|♯42068((source

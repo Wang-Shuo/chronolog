@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: fc05dd91c28328752ce91efe9f9b6fe9b7f23466833c1ca14fcd0e451d695420
+machine_hash: 094b2a93c3ab242598ee337f7ef72242a3da499a6442791d57e9b821802efc44
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -45,10 +45,10 @@ record:
   title: 2 Interface Experience changes in v0.3.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-08-26-3-interface-experience-changes-in-rust-v0-24-0|3
-  Interface Experience changes in rust-v0.24.0]]'
-- '[[Changes/Codex CLI/2025-08-27-improve-emoji-rendering-proper-spacing-and-emoji-variant-2735-2728|Improve
-  emoji rendering: proper spacing and ⌨️ emoji variant (♯2735, ♯2728)]]'
+- '[[Changes/Dify/2025-08-27-5-interface-experience-changes-in-1-8-0|5 Interface Experience
+  changes in 1.8.0]]'
+- '[[Changes/Open WebUI/2025-08-28-2-interface-experience-changes-in-v0-6-26|2 Interface
+  Experience changes in v0.6.26]]'
 - '[[Changes/Codex CLI/2025-08-29-major-readme-docs-refactor-and-navigation-2724|Major
   README/docs refactor and navigation (♯2724)]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-09-04-v0-3-0-github-244870431-556b0abc|gemini-cli-2025-09-04-v0-3-0-github-244870431-556b0abc]]'

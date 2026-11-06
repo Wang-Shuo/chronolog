@@ -4,20 +4,20 @@ date: '2026-05-20'
 description: 'Cursor · 2026-05-20 · Automation and Scheduling: This release brings
   Cursor Automations to the Agents Window and introduces the ability to configure…'
 diffusion:
-  first_in_tracked: '[[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better
-    syntax error loop detection]]'
+  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
+    data clean schedule]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 623
+  lag_days: 869
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 612612b0967ee42ddc731836140e85789079b21be8d867441be6570264c2d45a
+machine_hash: fe4236c2c125e7ccd68874d30adebcffb2f60585ce942116a09740b223ccd28d
 product: cursor
 product_name: Cursor
 record:
@@ -96,13 +96,13 @@ type: change
 ## Nearby in Automation and Scheduling
 
 - Earlier: 2026-05-20 · Codex CLI · [[Changes/Codex CLI/2026-05-20-codex-exec-resume-now-accepts-output-schema-so-resumed-automations-can-keep-sess|codex exec resume now accepts --output-schema, so resumed automations can keep…]]
-- Later: 2026-05-28 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-28-schedule-manager-hint-bar-text-no-longer-wraps-over-dialog-borders-when-entries|Schedule manager hint bar text no longer wraps over dialog borders when entries are added]]
+- Later: 2026-05-22 · Replit · [[Changes/Replit/2026-05-22-cleaner-task-settings-dropdown|Cleaner task settings dropdown]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-09-04 · OpenHands · [[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better syntax error loop detection]]
+- Earliest same-theme entry in the tracked set: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

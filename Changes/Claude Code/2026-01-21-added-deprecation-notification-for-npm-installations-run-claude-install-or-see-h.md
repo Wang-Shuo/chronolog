@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: policy
-machine_hash: eefb2f93ade91bdcb4c2d0cfcadd188d5e9fb11117074e59b46b436a0749757a
+machine_hash: 755f896cae9a9a09a376a534e6b39993b1c7307abb2b5c0db173f0e764e81bb5
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,8 +46,8 @@ record:
     or see…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-01-19-add-resume-command-to-switch-sessions|Add
-  /resume command to switch sessions]]'
+- '[[Changes/v0/2026-01-19-improved-pull-request-creation-with-option-to-push-latest-changes|Improved
+  pull request creation with option to push latest changes]]'
 - '[[Changes/Claude Code/2026-01-20-vscode-added-usage-command-to-display-current-plan-usage|VSCode
   Added /usage command to display current plan usage]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-20-2-developer-workflow-changes-in-v0-0-388|2

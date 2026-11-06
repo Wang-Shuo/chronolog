@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7acda0bb863bf41fb94a933160d4a705c43be711bc4e4d0fcebd4eb62dd1c3c5
+machine_hash: 1aa8603d01bd8fd939b4b4fa237fa7f1d80608a6f67022d0d0963ed0f5fccf36
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,12 +43,12 @@ record:
   title: 2 Model Support changes in rust-v0.28.0
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-08-21-2-model-support-changes-in-1-5|2 Model Support changes
-  in 1.5]]'
-- '[[Changes/Codex CLI/2025-08-26-5-model-support-changes-in-rust-v0-24-0|5 Model
-  Support changes in rust-v0.24.0]]'
+- '[[Changes/Dify/2025-08-27-9-model-support-changes-in-1-8-0|9 Model Support changes
+  in 1.8.0]]'
 - '[[Changes/Cline/2025-08-28-2-model-support-changes-in-v3-26-6|2 Model Support changes
   in v3.26.6]]'
+- '[[Changes/Open WebUI/2025-08-28-2-model-support-changes-in-v0-6-26|2 Model Support
+  changes in v0.6.26]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-09-02-rust-v0-28-0-github-244268255-15ebe412|codex-cli-2025-09-02-rust-v0-28-0-github-244268255-15ebe412]]'
 source_type: github_releases
 theme: model-support
@@ -85,7 +85,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.28.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-08-28 · Cline · [[Changes/Cline/2025-08-28-2-model-support-changes-in-v3-26-6|2 Model Support changes in v3.26.6]]
+- Earlier: 2025-08-28 · Open WebUI · [[Changes/Open WebUI/2025-08-28-2-model-support-changes-in-v0-6-26|2 Model Support changes in v0.6.26]]
 - Later: 2025-09-02 · OpenHands · [[Changes/OpenHands/2025-09-02-added-llm-risk-analyzer-by-xingyaoww-in-https-github-com-all-hands-ai-openhands|Added LLM risk analyzer]]
 <!-- chronolog:end -->
 

@@ -4,20 +4,20 @@ date: '2026-02-25'
 description: 'Gemini CLI · 2026-02-25 · Enterprise and Administration: feat(admin):
   Add admin controls documentation by @skeshive in…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin
-    improvements: Team admins can now mark themselves as unpaid users and can see…]]'
+  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
+    for Google Workspace accounts]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 707
+  lag_days: 1027
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8331a93734a377eb4cb5b7e758cfca76c63d85b4d557fba82b5f3441c73063d6
+machine_hash: 78a6145718684df955872c7edf688b96cda9da0049f48f0558eee275231d82f8
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -41,12 +41,11 @@ record:
   title: 'feat(admin): Add admin controls documentation'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-01-24-add-support-for-github-enterprise-cloud-ghe-com-in-delegate-command|Add
-  support for GitHub Enterprise Cloud (\.ghe.com) in /delegate command]]'
-- '[[Changes/Gemini CLI/2026-01-28-feat-admin-implement-admin-controls-polling-and-restart-prompt-by-skeshive-in-ht|feat(admin):
-  implement admin controls polling and restart prompt]]'
-- '[[Changes/Codex CLI/2026-02-11-enterprise-admin-requirements-can-now-restrict-web-search-modes-and-define-netwo|Enterprise/admin
-  requirements can now restrict web search modes and define network…]]'
+- '[[Changes/Lovable/2026-02-23-admin-controls-for-app-connectors|Admin controls for
+  app connectors]]'
+- '[[Changes/Lovable/2026-02-23-scim-provisioning|SCIM provisioning]]'
+- "[[Changes/Open WebUI/2026-02-23-file-access-control-respect-the-files-list-and-search-endpoints-now-properly-res|\U0001F5C4️
+  File access control respect. The files list and search endpoints now properly…]]"
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-02-25-v0-30-0-github-290144121-620926b3|gemini-cli-2026-02-25-v0-30-0-github-290144121-620926b3]]'
 source_type: github_releases
 theme: enterprise-admin
@@ -88,14 +87,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-02-11 · Codex CLI · [[Changes/Codex CLI/2026-02-11-enterprise-admin-requirements-can-now-restrict-web-search-modes-and-define-netwo|Enterprise/admin requirements can now restrict web search modes and define network…]]
+- Earlier: 2026-02-23 · Open WebUI · [[Changes/Open WebUI/2026-02-23-file-access-control-respect-the-files-list-and-search-endpoints-now-properly-res|🗄️ File access control respect. The files list and search endpoints now properly…]]
 - Later: 2026-03-03 · Cursor · [[Changes/Cursor/2026-03-03-clearer-more-consistent-team-and-enterprise-policy-and-access-controls|Clearer, more consistent team and enterprise policy and access controls]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-03-20 · Cursor · [[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin improvements: Team admins can now mark themselves as unpaid users and can see…]]
+- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

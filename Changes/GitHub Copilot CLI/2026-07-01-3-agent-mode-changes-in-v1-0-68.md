@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: bd0b34584c38bc2de0681d6cbf576cbfcdf548d291169042f1d3c80e2459bacd
+machine_hash: 6779714af7a5fa03cf7dc895d3759e0dad9da33aff451569268193b40461775f
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -94,7 +94,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.68
 ## Nearby in Agent Mode
 
 - Earlier: 2026-07-01 · Claude Code · [[Changes/Claude Code/2026-07-01-5-agent-mode-changes-in-v2-1-198|5 Agent Mode changes in v2.1.198]]
-- Later: 2026-07-06 · Claude Code · [[Changes/Claude Code/2026-07-06-3-agent-mode-changes-in-v2-1-202|3 Agent Mode changes in v2.1.202]]
+- Later: 2026-07-03 · Replit · [[Changes/Replit/2026-07-03-sell-in-your-app-with-whop|Sell in your app with Whop]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

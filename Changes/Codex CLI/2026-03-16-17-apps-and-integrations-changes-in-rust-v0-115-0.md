@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0054695368f900a7d36b5600420dd41aaf5b9f13c0e3df4b26a06c314f61e51b
+machine_hash: 8c3e69c28a4bddf684ff6e44b5544d04419987f7be28c21334dd3c8385d41db8
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -156,7 +156,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.115.0
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-03-14 · Claude Code · [[Changes/Claude Code/2026-03-14-4-apps-and-integrations-changes-in-v2-1-76|4 Apps and Integrations changes in v2.1.76]]
-- Later: 2026-03-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-16-6-apps-and-integrations-changes-in-v1-0-6|6 Apps and Integrations changes in v1.0.6]]
+- Later: 2026-03-16 · ElevenLabs · [[Changes/ElevenLabs/2026-03-16-javascript-sdk|JavaScript SDK]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

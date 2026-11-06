@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e494c13448d0652e69d90197f2bdd1d6cef76279a3aae1f7b9608343a3f6fc24
+machine_hash: 85216d7bc29a36c8805f5d8d43e2faa4b6a4c852ab5ed284b95950c3336f5c3c
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -56,12 +56,12 @@ record:
   title: Plugins are now a first-class workflow
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-03-19-the-legacy-deep-research-mode-will-be-removed-on-thursday-march-26-2026-this-cha|Legacy
-  deep research mode deprecation notice]]'
 - '[[Changes/ChatGPT/2026-03-23-now-it-s-easier-to-find-reuse-and-build-on-your-files-over-time-when-you-upload|File
   Library in ChatGPT]]'
 - '[[Changes/ChatGPT/2026-03-24-we-ve-improved-shopping-in-chatgpt-to-make-it-easier-to-discover-compare-and-dec|Shopping
   updates in ChatGPT]]'
+- '[[Changes/Open WebUI/2026-03-25-2-search-and-browsing-changes-in-v0-8-11|2 Search
+  and Browsing changes in v0.8.11]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-03-26-rust-v0-117-0-github-302123790-7cb322b6|codex-cli-2026-03-26-rust-v0-117-0-github-302123790-7cb322b6]]'
 source_type: github_releases
 theme: search-browsing
@@ -107,8 +107,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Search and Browsing
 
-- Earlier: 2026-03-24 · ChatGPT · [[Changes/ChatGPT/2026-03-24-we-ve-improved-shopping-in-chatgpt-to-make-it-easier-to-discover-compare-and-dec|Shopping updates in ChatGPT]]
-- Later: 2026-03-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-30-grep-and-glob-search-results-return-promptly-when-a-timeout-is-reached|Grep and glob search results return promptly when a timeout is reached]]
+- Earlier: 2026-03-25 · Open WebUI · [[Changes/Open WebUI/2026-03-25-2-search-and-browsing-changes-in-v0-8-11|2 Search and Browsing changes in v0.8.11]]
+- Later: 2026-03-27 · Ollama · [[Changes/Ollama/2026-03-27-ollama-launch-pi-now-includes-web-search-plugin-that-uses-ollama-s-web-search|ollama launch pi now includes web search plugin that uses Ollama's web search]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

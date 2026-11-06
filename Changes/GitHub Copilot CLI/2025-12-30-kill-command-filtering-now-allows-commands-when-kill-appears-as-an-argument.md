@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 093124dc1316ab4e293de714b78ce07989fc3bd9c036d4b335d9b2b513df8934
+machine_hash: 67706fbe3b93b5e0816416f2b1d6c1bb42c2c7125bf766ae7e00c0c9ec111b48
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -42,11 +42,11 @@ record:
   title: Kill command filtering now allows commands when 'kill' appears as an argument
   type: change
 related_changes:
-- '[[Changes/Windsurf/2025-12-24-cascade-dedicated-terminal-beta|Cascade Dedicated
-  Terminal (Beta)]]'
 - '[[Changes/Windsurf/2025-12-24-2-developer-workflow-changes-in-v1-13-3|2 Developer
   Workflow changes in v1.13.3]]'
 - '[[Changes/Windsurf/2025-12-24-wave-13-merry-shipmas|Wave 13: Merry Shipmas]]'
+- '[[Changes/Dify/2025-12-25-2-developer-workflow-changes-in-1-11-2|2 Developer Workflow
+  changes in 1.11.2]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2025-12-30-v0-0-373-github-273424977-1bfbdae6|github-copilot-cli-2025-12-30-v0-0-373-github-273424977-1bfbdae6]]'
 source_type: github_releases
 theme: developer-workflow
@@ -77,7 +77,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2025-12-24 · Windsurf · [[Changes/Windsurf/2025-12-24-wave-13-merry-shipmas|Wave 13: Merry Shipmas]]
+- Earlier: 2025-12-25 · Dify · [[Changes/Dify/2025-12-25-2-developer-workflow-changes-in-1-11-2|2 Developer Workflow changes in 1.11.2]]
 - Later: 2026-01-06 · Codex CLI · [[Changes/Codex CLI/2026-01-06-6-developer-workflow-changes-in-rust-v0-78-0|6 Developer Workflow changes in rust-v0.78.0]]
 <!-- chronolog:end -->
 

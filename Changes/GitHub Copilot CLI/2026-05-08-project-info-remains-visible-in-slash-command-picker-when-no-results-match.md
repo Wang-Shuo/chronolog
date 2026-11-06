@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a6c27f6f63852291df9e15b0a050bc9eb290bd68ea572ef3a3dd19c6f80a9e6b
+machine_hash: dda3d411115e821514975783256d65cc88b336637cc2b9be4b2fcfb8040d07d3
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-05-08 · Codex CLI · [[Changes/Codex CLI/2026-05-08-20665-make-environment-providers-own-default-selection-starr-openai|♯20665 Make environment providers own default selection @starr-openai]]
-- Later: 2026-05-11 · Claude Code · [[Changes/Claude Code/2026-05-11-added-transcript-view-navigation-for-keyboard-shortcuts-to-jump-between-user-pro|Added transcript view navigation]]
+- Later: 2026-05-09 · Open WebUI · [[Changes/Open WebUI/2026-05-09-8-interface-experience-changes-in-v0-9-3|8 Interface Experience changes in v0.9.3]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

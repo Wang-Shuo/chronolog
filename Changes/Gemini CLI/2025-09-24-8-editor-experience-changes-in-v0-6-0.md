@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 46e843b3d648d424e2207d8ca09e30f84db2b3c66c9103130da2acbb37ec6088
+machine_hash: 5d65de9fbf2701e6a45b4778ff6d952e814bb644fc699dcd9a32592a7125c9e8
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -61,11 +61,10 @@ record:
   title: 8 Editor Experience changes in v0.6.0
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-09-09-4-editor-experience-changes-in-v0-4-0|4 Editor
-  Experience changes in v0.4.0]]'
-- '[[Changes/Cursor/2025-09-12-1-6-7-enhanced-git-diff-parsing|1.6.7: Enhanced git
-  diff parsing]]'
 - '[[Changes/Codex CLI/2025-09-15-add-readme-ide-3494|add(readme): IDE (♯3494)]]'
+- '[[Changes/Open WebUI/2025-09-17-2-editor-experience-changes-in-v0-6-29|2 Editor
+  Experience changes in v0.6.29]]'
+- '[[Changes/Replit/2025-09-19-soc-2-pentest-completion|SOC 2 pentest completion]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-09-24-v0-6-0-github-249519586-83671b5c|gemini-cli-2025-09-24-v0-6-0-github-249519586-83671b5c]]'
 source_type: github_releases
 theme: editor-experience
@@ -117,8 +116,8 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.6.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2025-09-15 · Codex CLI · [[Changes/Codex CLI/2025-09-15-add-readme-ide-3494|add(readme): IDE (♯3494)]]
-- Later: 2025-09-26 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-09-26-2-editor-experience-changes-in-v0-0-328|2 Editor Experience changes in v0.0.328]]
+- Earlier: 2025-09-19 · Replit · [[Changes/Replit/2025-09-19-soc-2-pentest-completion|SOC 2 pentest completion]]
+- Later: 2025-09-25 · Open WebUI · [[Changes/Open WebUI/2025-09-25-2-editor-experience-changes-in-v0-6-31|2 Editor Experience changes in v0.6.31]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

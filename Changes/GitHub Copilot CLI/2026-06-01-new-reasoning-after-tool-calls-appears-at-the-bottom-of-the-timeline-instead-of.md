@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: aefcb169e070540809ba4d9efdb4c50ce3e1b8bc2884998baadb4a4c7702da8b
+machine_hash: 4ecf05f14836d36d13a2ab43b38f576625251402ca99d78a4892ffbbe89e9358
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -46,12 +46,11 @@ record:
   title: New reasoning after tool calls appears at the bottom of the timeline instead…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-29-2-model-support-changes-in-v1-0-56|2 Model
-  Support changes in v1.0.56]]'
 - '[[Changes/Claude Code/2026-05-30-auto-mode-is-now-available-on-bedrock-vertex-and-foundry-for-opus-4-7-and-opus-4|Auto
   mode is now available on Bedrock, Vertex, and Foundry for Opus 4.7 and Opus 4.8]]'
 - '[[Changes/Codex CLI/2026-06-01-5-model-support-changes-in-rust-v0-136-0|5 Model
   Support changes in rust-v0.136.0]]'
+- '[[Changes/ElevenLabs/2026-06-01-workspaces|Workspaces]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-06-01-v1-0-57-github-332702409-1dd8346d|github-copilot-cli-2026-06-01-v1-0-57-github-332702409-1dd8346d]]'
 source_type: github_releases
 theme: model-support
@@ -88,8 +87,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-06-01 · Codex CLI · [[Changes/Codex CLI/2026-06-01-5-model-support-changes-in-rust-v0-136-0|5 Model Support changes in rust-v0.136.0]]
-- Later: 2026-06-02 · Claude Code · [[Changes/Claude Code/2026-06-02-removed-claude-code-opus-4-6-fast-mode-override-the-environment-variable-is-now|Removed CLAUDE_CODE_OPUS_4_6_FAST_MODE_OVERRIDE; the environment variable is now a no-op]]
+- Earlier: 2026-06-01 · ElevenLabs · [[Changes/ElevenLabs/2026-06-01-workspaces|Workspaces]]
+- Later: 2026-06-01 · Open WebUI · [[Changes/Open WebUI/2026-06-01-12-model-support-changes-in-v0-9-6|12 Model Support changes in v0.9.6]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

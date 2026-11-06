@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: cd213d583bec07e0dc167138b51c8c2cf40588c126ef9fcdaf1c51dd41be8236
+machine_hash: fa04175316e1ae3ed1ec439f99cc8b8bae69c81e1ad906c7dca81490b0595f11
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -46,12 +46,12 @@ record:
   title: 3 Pricing Model changes in v1.0.71
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-07-08-28593-codex-suppress-low-usage-remaining-warnings-when-credits-are-available-bro|♯28593
-  codex suppress low usage remaining warnings when credits are available…]]'
 - '[[Changes/Cline/2026-07-09-add-a-clinepass-limit-reached-error-with-a-one-click-option-to-switch-to-cline-u|Add
   a ClinePass limit-reached error with a one-click option to switch to Cline…]]'
 - '[[Changes/Codex CLI/2026-07-09-usage-limit-reset-credits-now-show-their-type-and-expiration-and-let-you-choose|Usage-limit
   reset credits now show their type and expiration, and let you choose…]]'
+- '[[Changes/Lovable/2026-07-13-functions-usage-is-now-labeled-compute|Functions usage
+  is now labeled Compute]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-07-16-v1-0-71-github-354824472-a089f622|github-copilot-cli-2026-07-16-v1-0-71-github-354824472-a089f622]]'
 source_type: github_releases
 theme: pricing-model
@@ -100,8 +100,8 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.71
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-07-09 · Codex CLI · [[Changes/Codex CLI/2026-07-09-usage-limit-reset-credits-now-show-their-type-and-expiration-and-let-you-choose|Usage-limit reset credits now show their type and expiration, and let you choose…]]
-- Later: 2026-07-22 · Claude Code · [[Changes/Claude Code/2026-07-22-changed-server-managed-settings-so-benign-feature-and-cost-toggles-no-longer-tri|Changed server-managed settings so benign feature and cost toggles no longer trigger…]]
+- Earlier: 2026-07-13 · Lovable · [[Changes/Lovable/2026-07-13-functions-usage-is-now-labeled-compute|Functions usage is now labeled Compute]]
+- Later: 2026-07-17 · Dify · [[Changes/Dify/2026-07-17-5-pricing-model-changes-in-1-16-0|5 Pricing Model changes in 1.16.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

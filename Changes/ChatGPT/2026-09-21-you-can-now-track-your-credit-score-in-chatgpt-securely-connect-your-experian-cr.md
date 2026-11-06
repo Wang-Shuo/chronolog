@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 84f6072321bcc3dca79ce3de5ec05860726233c5d18608c7b0eaf5d5303fde5b
+machine_hash: e15b34e7d455b8eae9a2b83ba8e6bf80ac0e0afe91758b78962d828ccdde05ee
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -54,12 +54,12 @@ record:
   title: Credit scores in Finances
   type: change
 related_changes:
-- '[[Changes/Cline/2026-09-17-on-windows-opening-a-repository-that-contains-a-file-named-rg-exe-git-exe-or-pow|On
-  Windows, opening a repository that contains a file named rg.exe, git.exe…]]'
 - '[[Changes/Codex CLI/2026-09-17-2-mobile-and-desktop-changes-in-rust-v0-155-0|2
   Mobile and Desktop changes in rust-v0.155.0]]'
 - '[[Changes/Claude Code/2026-09-18-claude-code-on-the-web-changed-the-admin-claude-code-setting-labeled-web-to-clou|Claude
   Code on the web Changed the admin Claude Code setting labeled…]]'
+- '[[Changes/Ollama/2026-09-19-ollama-s-macos-app-will-now-no-longer-reopen-windows-you-ve-closed-when-activati|Ollama''s
+  macOS app will now no longer reopen windows you''ve closed when activating it]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-21-credit-scores-in-finances-a66dbae8|chatgpt-2026-09-21-credit-scores-in-finances-a66dbae8]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
@@ -90,8 +90,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-09-18 · Claude Code · [[Changes/Claude Code/2026-09-18-claude-code-on-the-web-changed-the-admin-claude-code-setting-labeled-web-to-clou|Claude Code on the web Changed the admin Claude Code setting labeled…]]
-- Later: 2026-09-22 · Cline · [[Changes/Cline/2026-09-22-rules-are-found-and-shown-consistently-the-rules-panel-listed-only-clinerules-an|Rules are found and shown consistently]]
+- Earlier: 2026-09-19 · Ollama · [[Changes/Ollama/2026-09-19-ollama-s-macos-app-will-now-no-longer-reopen-windows-you-ve-closed-when-activati|Ollama's macOS app will now no longer reopen windows you've closed when activating it]]
+- Later: 2026-09-21 · Open WebUI · [[Changes/Open WebUI/2026-09-21-apple-device-replies-an-assistant-reply-no-longer-comes-up-blank-in-a-home-scree|📱 Apple device replies. An assistant reply no longer comes up blank in a home…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

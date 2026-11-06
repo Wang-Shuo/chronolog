@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3c63f1b84b2ff8a043a304f1c7a7a50b4210f27ca2a9259ae07941fb2fa10c54
+machine_hash: 9b3dc2c03deee8b08ae8e0e5e47f2f939e2c14584e85ab3643c07e92be031549
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,8 +43,8 @@ record:
   title: Add mouse text selection in --alt-screen mode
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-02-11-2-interface-experience-changes-in-v0-0-407|2
-  Interface Experience changes in v0.0.407]]'
+- '[[Changes/v0/2026-02-11-added-branch-picker-for-vercel-deployments|Added branch
+  picker for Vercel deployments]]'
 - '[[Changes/Cline/2026-02-12-2-interface-experience-changes-in-v3-58-0|2 Interface
   Experience changes in v3.58.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-12-diff-uses-full-screen-in-alt-screen-mode|/diff
@@ -82,7 +82,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-02-12 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-12-diff-uses-full-screen-in-alt-screen-mode|/diff uses full screen in alt-screen mode]]
-- Later: 2026-02-12 · Windsurf · [[Changes/Windsurf/2026-02-12-improved-rtl-language-rendering-in-todo-lists|Improved RTL language rendering in todo lists]]
+- Later: 2026-02-12 · Open WebUI · [[Changes/Open WebUI/2026-02-12-8-interface-experience-changes-in-v0-8-0|8 Interface Experience changes in v0.8.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

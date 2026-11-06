@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6eaa980ec3c44e2e7874222c719c8411905bbd8b5e6e5b42ccc5e90fb9eb9203
+machine_hash: 327c3ea0caca9656c018667c6d2cb762766404f9e3ee8b28b30a72425a537d09
 product: openhands
 product_name: OpenHands
 record:
@@ -46,12 +46,9 @@ record:
   title: 3 Agent Mode changes in 0.28.0
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-01-23-cursor-rules-users-can-write-several-repository-level-rules-to-disk-in-the-curso|.cursor/rules:
-  Users can write several repository-level rules to disk…]]'
-- '[[Changes/Cursor/2025-02-19-agent-is-ready-agent-is-now-the-default-mode-bringing-a-more-powerful-and-unifie|Agent
-  is ready: Agent is now the default mode, bringing a more powerful and unified…]]'
-- '[[Changes/Cursor/2025-02-19-agent-tool-limit-upon-reaching-the-25-tool-call-limit-you-can-press-continue-to|Agent
-  tool limit]]'
+- '[[Changes/Replit/2025-02-28-deployment-improvements|Deployment improvements]]'
+- '[[Changes/Replit/2025-02-28-agent-v2|Agent v2]]'
+- '[[Changes/ElevenLabs/2025-03-03-agents-platform|Agents Platform]]'
 source_release: '[[Releases/OpenHands/openhands-2025-03-07-0-28-0-github-204383834-ab2a02bd|openhands-2025-03-07-0-28-0-github-204383834-ab2a02bd]]'
 source_type: github_releases
 theme: agent-mode
@@ -88,8 +85,8 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/0.28.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2025-02-19 · Cursor · [[Changes/Cursor/2025-02-19-agent-tool-limit-upon-reaching-the-25-tool-call-limit-you-can-press-continue-to|Agent tool limit]]
-- Later: 2025-03-10 · OpenHands · [[Changes/OpenHands/2025-03-10-improve-agent-loop-tracking-by-rbren-in-https-github-com-all-hands-ai-openhands|Improve agent loop tracking]]
+- Earlier: 2025-03-03 · ElevenLabs · [[Changes/ElevenLabs/2025-03-03-agents-platform|Agents Platform]]
+- Later: 2025-03-10 · ElevenLabs · [[Changes/ElevenLabs/2025-03-10-agents-platform|Agents Platform]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9822fbb1965be5401247173970ae1980b3029a47b2359ba867510027a3d63293
+machine_hash: 360e6de113f288906ab4c01a7e024cac8d1a22a66f8268f25daaaaedf25c9f3a
 product: cursor
 product_name: Cursor
 record:
@@ -48,8 +48,8 @@ record:
   title: 'VS Code 1.93.1: Cursor is now based on VS Code 1.93.1'
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-09-17-update-0-41-1-0-41-3-improves-onboarding-ux-fixes-a-bug-with-composer-cancellati|UPDATE
-  (0.41.1–0.41.3): Improves onboarding UX, fixes a bug with composer…]]'
+- "[[Changes/Open WebUI/2024-09-26-chat-rename-tab-update-fixed-the-functionality-to-change-the-web-browser-s-tab-t|\U0001F3F7️
+  Chat Rename Tab Update]]"
 - '[[Changes/Aider/2024-09-29-3-editor-experience-changes-in-v0-58-0|3 Editor Experience
   changes in v0.58.0]]'
 - '[[Changes/Cline/2024-10-09-no-more-staring-at-loading-spinners-responses-are-now-streamed-into-the-editor-a|No
@@ -91,7 +91,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2024-10-09 · Cline · [[Changes/Cline/2024-10-09-no-more-staring-at-loading-spinners-responses-are-now-streamed-into-the-editor-a|No more staring at loading spinners: Responses are now streamed into the editor…]]
-- Later: 2024-10-22 · Aider · [[Changes/Aider/2024-10-22-2-editor-experience-changes-in-v0-60-0|2 Editor Experience changes in v0.60.0]]
+- Later: 2024-10-14 · Dify · [[Changes/Dify/2024-10-14-prompt-editor-optimization-clearer-and-more-efficient-prompt-editing-with-reset|Prompt Editor Optimization: Clearer and more efficient prompt editing with reset…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

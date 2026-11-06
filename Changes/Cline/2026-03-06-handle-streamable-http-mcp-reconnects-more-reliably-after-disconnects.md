@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f644194afd03c401cb43474df008069b7bc7a84adc0b1cc1a2a9ebf7363e4231
+machine_hash: baf1428900e55049de670f657ab59a082128eec283bb23ce8a84605e92d3f60e
 product: cline
 product_name: Cline
 record:
@@ -77,7 +77,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-03-06 · Claude Code · [[Changes/Claude Code/2026-03-06-reduced-remote-control-poll-rate-to-once-per-10-minutes-while-connected-was-1-2s|Reduced Remote Control /poll rate to once per 10 minutes while connected…]]
-- Later: 2026-03-07 · Claude Code · [[Changes/Claude Code/2026-03-07-3-apps-and-integrations-changes-in-v2-1-71|3 Apps and Integrations changes in v2.1.71]]
+- Later: 2026-03-06 · Replit · [[Changes/Replit/2026-03-06-gpt-codex-5-3-support-in-ai-integrations|GPT-Codex-5.3 support in AI Integrations]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

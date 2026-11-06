@@ -4,20 +4,20 @@ date: '2026-10-31'
 description: 'Claude Code · 2026-10-31 · Automation and Scheduling: 2 changes in v2.1.316
   — Added `CLAUDE_CODE_DISABLE_LOOPED_CROSS_CERT_DROP` to keep system…'
 diffusion:
-  first_in_tracked: '[[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better
-    syntax error loop detection]]'
+  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
+    data clean schedule]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 787
+  lag_days: 1033
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4ff2dd12e3eeb529217103bb48064c41e1dd34b7eddb1dab0359fbebddd8dc3d
+machine_hash: 570c899b1fccae822354fc57273a7d05bb0ba7f38038872ce580cc3eff866ef6
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,12 @@ record:
   title: 2 Automation and Scheduling changes in v2.1.316
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-10-27-icloud-users-can-now-connect-mail-and-calendar-to-chatgpt-to-find-emails-catch-u|iCloud
-  users can now connect Mail and Calendar to ChatGPT to find emails, catch up…]]'
 - '[[Changes/Gemini CLI/2026-10-27-refactor-core-cli-emit-tool-call-groups-from-the-scheduler-and-drop-the-ui-looka|refactor(core,cli):
   emit tool call groups from the scheduler and drop the UI lookahead]]'
 - '[[Changes/OpenHands/2026-10-27-6-automation-and-scheduling-changes-in-v1-34-0|6
   Automation and Scheduling changes in v1.34.0]]'
+- '[[Changes/Open WebUI/2026-10-29-2-automation-and-scheduling-changes-in-v0-12-5|2
+  Automation and Scheduling changes in v0.12.5]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-31-v2-1-316-github-429617179-a30f32c9|claude-code-2026-10-31-v2-1-316-github-429617179-a30f32c9]]'
 source_type: github_releases
 theme: automation-scheduling
@@ -89,14 +89,14 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.316
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2026-10-27 · OpenHands · [[Changes/OpenHands/2026-10-27-6-automation-and-scheduling-changes-in-v1-34-0|6 Automation and Scheduling changes in v1.34.0]]
-- Later: 2026-11-03 · OpenHands · [[Changes/OpenHands/2026-11-03-6-automation-and-scheduling-changes-in-v1-35-0|6 Automation and Scheduling changes in v1.35.0]]
+- Earlier: 2026-10-29 · Open WebUI · [[Changes/Open WebUI/2026-10-29-2-automation-and-scheduling-changes-in-v0-12-5|2 Automation and Scheduling changes in v0.12.5]]
+- Later: 2026-11-03 · Open WebUI · [[Changes/Open WebUI/2026-11-03-2-automation-and-scheduling-changes-in-v0-13-0|2 Automation and Scheduling changes in v0.13.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-09-04 · OpenHands · [[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better syntax error loop detection]]
+- Earliest same-theme entry in the tracked set: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

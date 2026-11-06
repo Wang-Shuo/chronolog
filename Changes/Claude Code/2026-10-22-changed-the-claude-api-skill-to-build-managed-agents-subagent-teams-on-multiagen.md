@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ac5602447da0e867ab435b1e694fee58ba9294bda6d8aa396dfc8d0926acc842
+machine_hash: 877b4794ebff5f65165478bb1752005826cb0af5a110b55e20d1dac1603ebfc4
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,10 +43,10 @@ record:
   title: Changed the `/claude-api` skill to build Managed Agents subagent teams…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-10-20-the-agent-sdk-is-available-today-it-allows-you-to-define-an-agent-as-a-folder-of|The
-  Agent SDK is available today]]'
 - '[[Changes/OpenHands/2026-10-20-5-agent-mode-changes-in-v1-29-0|5 Agent Mode changes
   in v1.29.0]]'
+- '[[Changes/Claude/2026-10-21-claude-duet-research-preview-for-pro-and-max-plans|Claude
+  Duet research preview for Pro and Max plans]]'
 - '[[Changes/Claude Code/2026-10-21-improved-fork-subagents-launched-together-each-is-now-told-which-launch-is-its-o|Improved
   fork subagents launched together]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-22-v2-1-309-github-421170674-b2394d99|claude-code-2026-10-22-v2-1-309-github-421170674-b2394d99]]'

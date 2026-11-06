@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: db77eb937af4d886acd2f680fbde7aa0074d17bfd7e625571fd93639363f75f5
+machine_hash: 7be79b92f2dce3680a65859caaa30b871004fb8c3df4a7cc336071a326351f11
 product: openhands
 product_name: OpenHands
 record:
@@ -43,10 +43,9 @@ record:
   title: Added Azure DevOps integration support
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-12-13-2-apps-and-integrations-changes-in-rust-v0-72-0|2
-  Apps and Integrations changes in rust-v0.72.0]]'
-- '[[Changes/Codex CLI/2025-12-15-7962-docs-update-the-docs-for-openai-codex-shell-tool-mcp|♯7962
-  docs: update the docs for @openai/codex-shell-tool-mcp]]'
+- '[[Changes/ElevenLabs/2025-12-15-whatsapp-integration-fdcc9d|WhatsApp Integration]]'
+- '[[Changes/Gemini/2025-12-16-introducing-a-new-kind-of-gem|Introducing a new kind
+  of Gem]]'
 - '[[Changes/Gemini CLI/2025-12-16-9-apps-and-integrations-changes-in-v0-21-0|9 Apps
   and Integrations changes in v0.21.0]]'
 source_release: '[[Releases/OpenHands/openhands-2025-12-16-1-0-0-github-270799113-83836508|openhands-2025-12-16-1-0-0-github-270799113-83836508]]'
@@ -80,7 +79,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2025-12-16 · Gemini CLI · [[Changes/Gemini CLI/2025-12-16-9-apps-and-integrations-changes-in-v0-21-0|9 Apps and Integrations changes in v0.21.0]]
-- Later: 2025-12-18 · ChatGPT · [[Changes/ChatGPT/2025-12-18-you-can-now-browse-and-add-approved-apps-in-the-new-app-directory-apps-let-you-w|Introducing the app directory in ChatGPT]]
+- Later: 2025-12-16 · v0 · [[Changes/v0/2025-12-16-you-can-now-connect-v0-to-your-linear-workspace-and-build-straight-from-your-bac|Connect v0 to your Linear workspace and build straight from your backlog]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

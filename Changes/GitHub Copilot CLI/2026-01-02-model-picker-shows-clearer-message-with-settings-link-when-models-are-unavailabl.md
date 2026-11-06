@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: c4f4a856f9145d2e0f56c6c0d87dfb1ff76b7e9f96b5d92a031481dcd0d6ab6a
+machine_hash: a93e926f11212f03eb75f9786570065bf38718e572ff1448d71b303b23dfa94f
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -53,9 +53,9 @@ record:
   title: Model picker shows clearer message with settings link when models are unavailable
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-12-22-5-model-support-changes-in-v0-22-0|5 Model Support
-  changes in v0.22.0]]'
 - '[[Changes/Windsurf/2025-12-24-cascade-hooks|Cascade Hooks]]'
+- '[[Changes/Dify/2025-12-25-feat-add-type-field-to-pipelinerecommendedplugin-model-add-query-param-type-to-r|feat:
+  Add "type" field to PipelineRecommendedPlugin model]]'
 - '[[Changes/Windsurf/2025-12-27-gemini-3-flash|Gemini 3 Flash]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-01-02-v0-0-374-github-273878901-f6c465a2|github-copilot-cli-2026-01-02-v0-0-374-github-273878901-f6c465a2]]'
 source_type: github_releases

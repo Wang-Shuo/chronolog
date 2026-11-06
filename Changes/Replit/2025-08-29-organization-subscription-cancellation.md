@@ -1,0 +1,97 @@
+---
+card_id: replit-2025-08-29-e0646f
+date: '2025-08-29'
+description: 'Replit · 2025-08-29 · Pricing Model: Organizations now have more flexible
+  subscription management. Cancel a subscription without deleting the organization,
+  and…'
+diffusion:
+  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
+    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
+  inference: No adoption, equivalence, or causation claim.
+  lag_days: 988
+  relation: same-theme-chronology
+  role: later-observed
+  scope: tracked-products-only
+  theme: pricing-model
+  tracked_products_count: 20
+evolves_from: []
+extractor_version: fallback-v5
+impact: incremental
+kind: pricing
+machine_hash: d0fad81a083b5f5f4a101234a3ccd7e1931662a3d25c3a04e886892cc0a4fc3e
+product: replit
+product_name: Replit
+record:
+  card_id: replit-2025-08-29-e0646f
+  comparison: ''
+  date: '2025-08-29'
+  description: 'Replit — Replit updates — 2025-08-29: Organizations now have more
+    flexible subscription management. Cancel a subscription without deleting the organization,
+    and keep full access until the billing period ends.'
+  evidence:
+  - quote: Organizations now have more flexible subscription management. Cancel a
+      subscription without deleting the organization, and keep full access until the
+      billing period ends.
+    source_release: https://docs.replit.com/updates/2025/08/29/changelog
+  extractor_version: fallback-v5
+  impact: incremental
+  kind: pricing
+  product: replit
+  product_name: Replit
+  slug: organization-subscription-cancellation
+  source_release: replit-2025-08-29-2025-08-29-e2004036
+  source_type: replit_changelog
+  theme: pricing-model
+  title: Organization subscription cancellation
+  type: change
+related_changes:
+- '[[Changes/Claude/2025-08-15-ability-to-change-monthly-team-plan-billing-to-annual|Ability
+  to change monthly Team plan billing to annual]]'
+- '[[Changes/ChatGPT/2025-08-18-we-re-launching-chatgpt-go-a-new-low-cost-subscription-plan-this-will-initially-e5f740|ChatGPT
+  launches ChatGPT Go, a new low-cost subscription plan]]'
+- '[[Changes/Gemini CLI/2025-08-18-update-quota-and-pricing-md-to-clarify-billing-by-blanca-delgado-parra-in-https|Update
+  quota-and-pricing.md to clarify billing]]'
+source_release: '[[Releases/Replit/replit-2025-08-29-2025-08-29-e2004036|replit-2025-08-29-2025-08-29-e2004036]]'
+source_type: replit_changelog
+theme: pricing-model
+title: Organization subscription cancellation
+type: change
+---
+
+<!-- chronolog:begin region="header" -->
+# Organization subscription cancellation
+
+**Replit** · 2025-08-29 · [[Themes/pricing-model|Pricing Model]] · Pricing · [Official source](https://docs.replit.com/updates/2025/08/29/changelog) · from [[Releases/Replit/replit-2025-08-29-2025-08-29-e2004036|Replit updates — 2025-08-29]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="evidence" -->
+> Organizations now have more flexible subscription management. Cancel a subscription without deleting the organization, and keep full access until the billing period ends.
+>
+> Source: https://docs.replit.com/updates/2025/08/29/changelog
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Replit/2025-08-29-agent-infrastructure-upgrades|Agent infrastructure upgrades]] · Agent Mode
+- [[Changes/Replit/2025-08-29-security-rating-improvement|Security rating improvement]] · Safety and Privacy
+- [[Changes/Replit/2025-08-29-shareable-app-creation-links|Shareable app creation links]] · Apps and Integrations
+- [[Changes/Replit/2025-08-29-app-themes|App themes]] · Collaboration
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Pricing Model
+
+- Earlier: 2025-08-18 · Gemini CLI · [[Changes/Gemini CLI/2025-08-18-update-quota-and-pricing-md-to-clarify-billing-by-blanca-delgado-parra-in-https|Update quota-and-pricing.md to clarify billing]]
+- Later: 2025-09-01 · Lovable · [[Changes/Lovable/2025-09-01-flexible-plan-management|Flexible plan management]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20replit-2025-08-29-e0646f&body=Card%3A%20Changes%2FReplit%2F2025-08-29-organization-subscription-cancellation.md%0ACard%20ID%3A%20replit-2025-08-29-e0646f%0ASource%3A%20https%3A%2F%2Fdocs.replit.com%2Fupdates%2F2025%2F08%2F29%2Fchangelog%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

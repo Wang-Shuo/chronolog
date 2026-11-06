@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 43255f0772631f573d6c32998aee92a0cf6212b72814f3c1e700e2a7cdedbf38
+machine_hash: cf23011d3a63fc73616e80172364f319f71760f0ba19c4bafb8f053d51e5ba10
 product: claude-code
 product_name: Claude Code
 record:
@@ -55,12 +55,12 @@ record:
   title: 5 Safety and Privacy changes in v2.1.301
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-14-2-safety-and-privacy-changes-in-v2-1-300|2 Safety
-  and Privacy changes in v2.1.300]]'
 - '[[Changes/Claude Code/2026-10-14-6-safety-and-privacy-changes-in-v2-1-299|6 Safety
   and Privacy changes in v2.1.299]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-14-resuming-a-session-now-respects-abandoned-pending-permission-work-and-continues|Resuming
   a session now respects abandoned pending-permission work and continues only…]]'
+- "[[Changes/Open WebUI/2026-10-14-rich-ui-embed-console-errors-rich-ui-tool-embeds-no-longer-log-a-security-error|\U0001F9E9
+  Rich UI embed console errors. Rich UI tool embeds no longer log a security…]]"
 source_release: '[[Releases/Claude Code/claude-code-2026-10-15-v2-1-301-github-413913133-a3fb5b4e|claude-code-2026-10-15-v2-1-301-github-413913133-a3fb5b4e]]'
 source_type: github_releases
 theme: safety-privacy
@@ -103,7 +103,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.301
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-10-14 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-14-resuming-a-session-now-respects-abandoned-pending-permission-work-and-continues|Resuming a session now respects abandoned pending-permission work and continues only…]]
+- Earlier: 2026-10-14 · Open WebUI · [[Changes/Open WebUI/2026-10-14-rich-ui-embed-console-errors-rich-ui-tool-embeds-no-longer-log-a-security-error|🧩 Rich UI embed console errors. Rich UI tool embeds no longer log a security…]]
 - Later: 2026-10-15 · Codex CLI · [[Changes/Codex CLI/2026-10-15-18-safety-and-privacy-changes-in-rust-v0-163-0|18 Safety and Privacy changes in rust-v0.163.0]]
 <!-- chronolog:end -->
 

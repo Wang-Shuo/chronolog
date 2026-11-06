@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4d3bc6af96128b319c28e0dccf268eb34e726cb21cbbf5453c77627f3c7aae85
+machine_hash: ee1217aaf6ea0b913280b112934da7bb6561694e89010e4955af804e770c1a6c
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -63,10 +63,10 @@ record:
   title: 11 Model Support changes in rust-v0.162.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-07-9-model-support-changes-in-rust-v0-161-0|9 Model
-  Support changes in rust-v0.161.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-07-model-picker-updates-the-recommended-list-to-prioritize-gpt-6-1-sol-gpt-6-astra|Model
   picker updates the recommended list to prioritize GPT-6.1 Sol, GPT-6…]]'
+- '[[Changes/Lovable/2026-10-07-gemini-3-7-flash-is-deprecated-for-your-app-s-ai-features|Gemini
+  3.7 Flash is deprecated for your app''s AI features]]'
 - '[[Changes/Claude Code/2026-10-08-3-model-support-changes-in-v2-1-295|3 Model Support
   changes in v2.1.295]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-10-08-rust-v0-162-0-github-407151970-b80d60db|codex-cli-2026-10-08-rust-v0-162-0-github-407151970-b80d60db]]'

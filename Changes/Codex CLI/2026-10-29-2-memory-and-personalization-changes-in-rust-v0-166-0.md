@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0a5bb7f223979c841b1891b94a0a89d06eec77fc803de7c5091f7075de6186f8
+machine_hash: cfd72d538ef446f665be56b3be4e68775e73e5e11b00808d035249b7f852bcc1
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,10 +42,10 @@ record:
   title: 2 Memory and Personalization changes in rust-v0.166.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-15-codex-can-run-independent-read-only-tools-in-parallel-including-skill-memory-and|Codex
-  can run independent read-only tools in parallel, including skill, memory…]]'
 - '[[Changes/Codex CLI/2026-10-23-4-memory-and-personalization-changes-in-rust-v0-164-0|4
   Memory and Personalization changes in rust-v0.164.0]]'
+- '[[Changes/Dify/2026-10-23-3-memory-and-personalization-changes-in-1-18-0|3 Memory
+  and Personalization changes in 1.18.0]]'
 - '[[Changes/Codex CLI/2026-10-27-5-memory-and-personalization-changes-in-rust-v0-165-0|5
   Memory and Personalization changes in rust-v0.165.0]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-10-29-rust-v0-166-0-github-428320524-44f8c24a|codex-cli-2026-10-29-rust-v0-166-0-github-428320524-44f8c24a]]'
@@ -96,7 +96,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.166.0
 ## Nearby in Memory and Personalization
 
 - Earlier: 2026-10-27 · Codex CLI · [[Changes/Codex CLI/2026-10-27-5-memory-and-personalization-changes-in-rust-v0-165-0|5 Memory and Personalization changes in rust-v0.165.0]]
-- Later: 2026-10-30 · ChatGPT · [[Changes/ChatGPT/2026-10-30-account-switching-is-rolling-out-to-the-chatgpt-ios-and-android-apps-you-can-sta|Account switching on iOS and Android]]
+- Later: 2026-10-29 · Open WebUI · [[Changes/Open WebUI/2026-10-29-2-memory-and-personalization-changes-in-v0-12-5|2 Memory and Personalization changes in v0.12.5]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

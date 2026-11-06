@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: b4496e91be01a19225c79b62b73bb3bbf3a8e156dd52054e442f397edea98c08
+machine_hash: fba15974c9719b92e61cf5d28de5781c1f31520f6407b7ef2d90e80b5609803b
 product: cursor
 product_name: Cursor
 record:
@@ -41,10 +41,10 @@ record:
   title: Improved Background Agent reliability
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-06-04-this-release-brings-bugbot-for-code-review-a-first-look-at-memories-one-click-mc|Cursor
-  brings Bugbot for code review, a first look at memories, one-click MCP setup…]]'
 - '[[Changes/OpenHands/2025-06-10-ensured-prs-opened-by-agent-is-properly-tracked-in-conversation-metadata-by-malh|Ensured
   PRs opened by agent is properly tracked in conversation metadata]]'
+- '[[Changes/Dify/2025-06-11-4-agent-mode-changes-in-1-4-2|4 Agent Mode changes in
+  1.4.2]]'
 - '[[Changes/Cursor/2025-06-12-you-can-now-launch-background-agents-directly-from-slack-by-mentioning-cursor-ag|Launch
   Background Agents directly from Slack by mentioning @Cursor]]'
 source_release: '[[Releases/Cursor/cursor-2025-06-12-1-1-https-cursor-com-changelog-1-1-0f0190fc|cursor-2025-06-12-1-1-https-cursor-com-changelog-1-1-0f0190fc]]'
@@ -80,8 +80,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2025-06-10 · OpenHands · [[Changes/OpenHands/2025-06-10-ensured-prs-opened-by-agent-is-properly-tracked-in-conversation-metadata-by-malh|Ensured PRs opened by agent is properly tracked in conversation metadata]]
-- Later: 2025-06-20 · OpenHands · [[Changes/OpenHands/2025-06-20-fixed-incorrect-tracking-for-cost-and-token-usage-for-main-agent-and-delegates-b|Fixed incorrect tracking for cost and token usage for main agent and delegates]]
+- Earlier: 2025-06-11 · Dify · [[Changes/Dify/2025-06-11-4-agent-mode-changes-in-1-4-2|4 Agent Mode changes in 1.4.2]]
+- Later: 2025-06-17 · ElevenLabs · [[Changes/ElevenLabs/2025-06-17-agents-platform|Agents Platform]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

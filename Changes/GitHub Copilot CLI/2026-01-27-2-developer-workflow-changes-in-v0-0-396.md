@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a25d1e9cb3cab10f1f599809fd422f87bba7cbfb0b425ae40594793133ce1cfe
+machine_hash: 43fa0d46e1a9dae7e89cb9b4310d23ba69ba6d38f43b8764d56a47d7c3d0cda5
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -87,7 +87,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v0.0.396
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-01-27 · Codex CLI · [[Changes/Codex CLI/2026-01-27-2-developer-workflow-changes-in-rust-v0-92-0|2 Developer Workflow changes in rust-v0.92.0]]
-- Later: 2026-01-28 · Claude Code · [[Changes/Claude Code/2026-01-28-vscode-added-automatic-python-virtual-environment-activation-ensuring-python-and|VSCode Added automatic Python virtual environment activation, ensuring python…]]
+- Later: 2026-01-27 · v0 · [[Changes/v0/2026-01-27-projects-connected-to-your-actual-app-with-code-environment-variables-deployment|Projects : connected to your actual app, with code, environment variables…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

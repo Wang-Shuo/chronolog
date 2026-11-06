@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 04ab1add2881ac825c7da8b4556f7f85fc031a29b7fec1d90ba0afbaf6b70a1d
+machine_hash: 0b4ec4fedad1e1a812514cd97dfc08def23ebdeee76c7ed97ce98605040ad7cc
 product: claude-code
 product_name: Claude Code
 record:
@@ -89,7 +89,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-09-17 · Codex CLI · [[Changes/Codex CLI/2026-09-17-43846-include-completed-commentary-in-the-copy-picker-copyberry|♯43846 Include completed commentary in the /copy picker @copyberry]]
-- Later: 2026-09-21 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-21-number-key-selection-in-the-question-dialog-works-for-choices-10-and-beyond|Number-key selection in the question dialog works for choices 10 and beyond]]
+- Later: 2026-09-18 · Lovable · [[Changes/Lovable/2026-09-18-redesigned-project-cards|Redesigned project cards]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

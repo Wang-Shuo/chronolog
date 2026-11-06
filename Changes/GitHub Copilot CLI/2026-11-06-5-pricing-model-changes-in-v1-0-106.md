@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 04b3556cc28310668801028e182d6aa7bc2147ef8f11795d68733f570f72a198
+machine_hash: 835ba4642a90411b979ab448672dbab33d930d110152f2ed6fcf07dc997933db
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -54,12 +54,12 @@ record:
   title: 5 Pricing Model changes in v1.0.106
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-10-21-you-can-now-use-momo-to-pay-for-chatgpt-go-plus-and-pro-subscriptions-purchased|MoMo
-  payments in Vietnam]]'
-- '[[Changes/ChatGPT/2026-10-28-eligible-chatgpt-pro-and-business-subscribers-can-activate-promotional-api-credi|API
-  credits for eligible ChatGPT Pro and Business plans]]'
-- '[[Changes/Codex CLI/2026-10-29-56495-add-paginated-channel-subscription-queries-to-the-local-message-board-feli|♯56495
-  Add paginated channel subscription queries to the local message board @felixxia-oai]]'
+- '[[Changes/ElevenLabs/2026-11-02-3-pricing-model-changes-in-elevenlabs-updates-2026-11-02|3
+  Pricing Model changes in ElevenLabs updates — 2026-11-02]]'
+- "[[Changes/Open WebUI/2026-11-03-context-compaction-and-prompt-caching-when-the-same-model-handles-the-conversati|\U0001F9E0
+  Context compaction and prompt caching. When the same model handles…]]"
+- '[[Changes/Dify/2026-11-04-3-pricing-model-changes-in-1-19-0|3 Pricing Model changes
+  in 1.19.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-11-06-v1-0-106-github-435988160-ec5b15d4|github-copilot-cli-2026-11-06-v1-0-106-github-435988160-ec5b15d4]]'
 source_type: github_releases
 theme: pricing-model
@@ -117,7 +117,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.106
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-10-29 · Codex CLI · [[Changes/Codex CLI/2026-10-29-56495-add-paginated-channel-subscription-queries-to-the-local-message-board-feli|♯56495 Add paginated channel subscription queries to the local message board @felixxia-oai]]
+- Earlier: 2026-11-04 · Dify · [[Changes/Dify/2026-11-04-3-pricing-model-changes-in-1-19-0|3 Pricing Model changes in 1.19.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

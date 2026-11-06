@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: f7d3193b32cebf7e48bba1db1e6e792bae2e75265f79e197840fc8b0a0865cf6
+machine_hash: 748f8d9ab824d386f082a9f723fc0ced0ac510f3bc4581d5aa929353806de593
 product: aider
 product_name: Aider
 record:
@@ -55,11 +55,12 @@ record:
     increasing…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-05-08-outside-the-european-regions-listed-above-all-plus-and-pro-accounts-that-have-me-507581|Opt‑in
-  reminders]]'
-- '[[Changes/Windsurf/2025-05-15-misc|Misc]]'
 - '[[Changes/Cline/2025-05-28-add-cerebras-as-a-new-api-provider-with-5-high-performance-models-including-reas|Add
   Cerebras as a new API provider with 5 high-performance models including…]]'
+- '[[Changes/Open WebUI/2025-05-28-2-reliability-and-performance-changes-in-v0-6-12|2
+  Reliability and Performance changes in v0.6.12]]'
+- '[[Changes/Open WebUI/2025-05-29-general-backend-refactoring-significant-backend-improvements-deliver-a-cleaner-c|⚙️
+  General Backend Refactoring]]'
 source_release: '[[Releases/Aider/aider-2025-05-30-v0-84-0-github-222180237-d0574ad6|aider-2025-05-30-v0-84-0-github-222180237-d0574ad6]]'
 source_type: github_releases
 theme: reliability-performance
@@ -91,8 +92,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-05-28 · Cline · [[Changes/Cline/2025-05-28-add-cerebras-as-a-new-api-provider-with-5-high-performance-models-including-reas|Add Cerebras as a new API provider with 5 high-performance models including…]]
-- Later: 2025-06-04 · Cursor · [[Changes/Cursor/2025-06-04-faster-responses-with-parallel-tool-calls|Faster responses with parallel tool calls]]
+- Earlier: 2025-05-29 · Open WebUI · [[Changes/Open WebUI/2025-05-29-general-backend-refactoring-significant-backend-improvements-deliver-a-cleaner-c|⚙️ General Backend Refactoring]]
+- Later: 2025-05-30 · Replit · [[Changes/Replit/2025-05-30-ai-latency-improvements|AI latency improvements]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

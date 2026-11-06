@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: dd714ec766f8c88843f8c7386551fef22d7d9d616e77216b893edd5538ebdaa5
+machine_hash: 743aa4836967336233e3517ab7073c8e1a528652ec2e017b3d19346f2de5dcf2
 product: windsurf
 product_name: Windsurf
 record:
@@ -42,10 +42,10 @@ record:
   title: Reduced errors for edit tool calls for Windows
   type: change
 related_changes:
-- '[[Changes/Aider/2025-03-10-specify-desktop-notification-command-with-notifications-command|Specify
-  desktop notification command with --notifications-command]]'
-- '[[Changes/ChatGPT/2025-03-18-improved-table-copying-functionality-out-of-chatgpt-responses-on-ios-and-macos|Improved
-  table-copying functionality out of ChatGPT responses on iOS and macOS]]'
+- '[[Changes/ElevenLabs/2025-03-24-core-app-signup-added-signup-endpoints-for-the-new-core-mobile-app|Core
+  app signup: Added signup endpoints for the new Core mobile app]]'
+- '[[Changes/Dify/2025-04-09-ui-ux-improvements-whether-it-s-fixing-layout-issues-on-mobile-thanks-leeeeeem-i|UI/UX
+  Improvements: Whether it’s fixing layout issues on mobile…]]'
 - '[[Changes/OpenHands/2025-04-23-addressed-failure-of-docker-containers-to-start-on-windows-by-happyherp-in-https|Addressed
   failure of Docker containers to start on Windows]]'
 source_release: '[[Releases/Windsurf/windsurf-2025-04-29-v1-7-3-86a335f5|windsurf-2025-04-29-v1-7-3-86a335f5]]'

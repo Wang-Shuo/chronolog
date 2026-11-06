@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: cd2a506d87810c89b932c2182786765753c0fd0026629bed865d52802b879807
+machine_hash: 10cf0ad3fab3c0c18143dbcea64813d9d93a7dd7816c9fccc47bc8410f4771b8
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,12 +46,12 @@ record:
   title: 2 Interface Experience changes in v2.1.301
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-14-changed-exit-to-force-kill-background-commands-still-running-1-5-seconds-after-b|Changed
-  exit to force-kill background commands still running 1.5 seconds after being…]]'
-- '[[Changes/Claude Code/2026-10-14-added-effort-and-fast-in-agent-view-to-set-what-new-sessions-start-with-a-bare-m|Added
-  /effort and /fast in agent view to set what new sessions start with]]'
-- '[[Changes/Claude Code/2026-10-14-vscode-improved-startup-the-model-picker-and-slash-command-menu-now-fill-in-righ|VSCode
-  Improved startup]]'
+- '[[Changes/Lovable/2026-10-14-restore-a-deleted-project-yourself|Restore a deleted
+  project yourself]]'
+- '[[Changes/Open WebUI/2026-10-14-7-interface-experience-changes-in-v0-12-1|7 Interface
+  Experience changes in v0.12.1]]'
+- '[[Changes/Open WebUI/2026-10-14-2-interface-experience-changes-in-v0-12-2|2 Interface
+  Experience changes in v0.12.2]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-15-v2-1-301-github-413913133-a3fb5b4e|claude-code-2026-10-15-v2-1-301-github-413913133-a3fb5b4e]]'
 source_type: github_releases
 theme: interface-experience
@@ -88,7 +88,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.301
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-10-14 · Claude Code · [[Changes/Claude Code/2026-10-14-vscode-improved-startup-the-model-picker-and-slash-command-menu-now-fill-in-righ|VSCode Improved startup]]
+- Earlier: 2026-10-14 · Open WebUI · [[Changes/Open WebUI/2026-10-14-2-interface-experience-changes-in-v0-12-2|2 Interface Experience changes in v0.12.2]]
 - Later: 2026-10-15 · Codex CLI · [[Changes/Codex CLI/2026-10-15-8-interface-experience-changes-in-rust-v0-163-0|8 Interface Experience changes in rust-v0.163.0]]
 <!-- chronolog:end -->
 

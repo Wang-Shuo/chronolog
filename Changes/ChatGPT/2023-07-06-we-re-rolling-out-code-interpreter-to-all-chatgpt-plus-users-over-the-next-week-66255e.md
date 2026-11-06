@@ -4,20 +4,20 @@ date: '2023-07-06'
 description: 'ChatGPT · 2023-07-06 · Files and Data: We’re rolling out code interpreter
   to all ChatGPT Plus users over the next week.It lets ChatGPT run code, optionally…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code
-    interpreter is now rolling out in beta on web]]'
+  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
+    Files and Data changes in 0.2.2]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 0
+  lag_days: 42
   relation: same-theme-chronology
-  role: first-observed
+  role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: expansion
-machine_hash: 54682c4be031a296870c45567a52d78e8814f0fb3b9a790ff0846c9cc8ac95e8
+machine_hash: fc079e7c78e822584d0b07c019b4d946e4287b539967040a6fa3773d7355c169
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -51,6 +51,11 @@ record:
   theme_resolution: manual-semantic-rule-v1
   title: Code interpreter is now rolling out in beta on web
   type: change
+related_changes:
+- '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes
+  in 0.2.2]]'
+- '[[Changes/Gemini/2023-06-07-bard-codes-for-you-for-improved-math-and-data-analysis|Bard
+  codes for you for improved math and data analysis]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2023-07-06-code-interpreter-is-now-rolling-out-in-beta-on-web-427b9bc0|chatgpt-2023-07-06-code-interpreter-is-now-rolling-out-in-beta-on-web-427b9bc0]]'
 source_type: chatgpt_changelog
 theme: file-data
@@ -77,13 +82,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Later: 2024-05-16 · ChatGPT · [[Changes/ChatGPT/2024-05-16-today-we-re-starting-to-roll-out-enhancements-to-data-analysis-6433a3|Today, we’re starting to roll out enhancements to data analysis]]
+- Earlier: 2023-06-07 · Gemini · [[Changes/Gemini/2023-06-07-bard-codes-for-you-for-improved-math-and-data-analysis|Bard codes for you for improved math and data analysis]]
+- Later: 2023-07-17 · Dify · [[Changes/Dify/2023-07-17-add-document-limit-check-by-johnjyong-in-https-github-com-langgenius-dify-pull-5|add document limit check]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry among the 10 tracked products.
+- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

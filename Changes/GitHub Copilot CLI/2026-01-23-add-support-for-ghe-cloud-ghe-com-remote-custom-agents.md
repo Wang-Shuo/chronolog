@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 2a1acc2dcc271aacc653d20ffbb0f82e6d50bf08b4b640811f684be6141b8687
+machine_hash: ce9c62d546bf050653ba18ea62857b944cc44b8cd5c09b075174353f0de0e3e0
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-01-23 · Claude Code · [[Changes/Claude Code/2026-01-23-added-env-var-claude-code-enable-tasks-set-to-false-to-keep-the-old-system-tempo|Added env var CLAUDE_CODE_ENABLE_TASKS, set to false to keep the old system…]]
-- Later: 2026-01-25 · Codex CLI · [[Changes/Codex CLI/2026-01-25-2-agent-mode-changes-in-rust-v0-91-0|2 Agent Mode changes in rust-v0.91.0]]
+- Later: 2026-01-23 · Replit · [[Changes/Replit/2026-01-23-rulessync-support-for-replit-md|RulesSync support for replit.md]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

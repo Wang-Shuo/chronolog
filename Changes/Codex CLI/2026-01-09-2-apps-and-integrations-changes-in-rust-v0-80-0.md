@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b1434a7d8fb14610bba8b90c51895e8013ce31a39107b0c4c5393aba8d3b01c2
+machine_hash: b0c1317deba0507e59caa1d75e0aab957bcadc563783b3ce63744fa846152262
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,10 +42,10 @@ record:
   title: 2 Apps and Integrations changes in rust-v0.80.0
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-01-08-this-release-introduces-new-cli-controls-for-models-mcp-management-rules-and-com|Cursor
-  introduces new CLI controls for models, MCP management, rules and commands…]]'
 - '[[Changes/Cursor/2026-01-08-mcp-server-names-with-spaces-are-now-supported-in-all-mcp-commands|MCP
   server names with spaces are now supported in all /mcp commands]]'
+- '[[Changes/v0/2026-01-08-improved-the-error-message-when-an-enterprise-user-adds-an-integration-they-don|Improved
+  the error message when an Enterprise user adds an integration they don''t…]]'
 - '[[Changes/Claude Code/2026-01-09-2-apps-and-integrations-changes-in-v2-1-2|2 Apps
   and Integrations changes in v2.1.2]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-01-09-rust-v0-80-0-github-275597320-df7b3faf|codex-cli-2026-01-09-rust-v0-80-0-github-275597320-df7b3faf]]'
@@ -90,7 +90,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.80.0
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-01-09 · Claude Code · [[Changes/Claude Code/2026-01-09-2-apps-and-integrations-changes-in-v2-1-2|2 Apps and Integrations changes in v2.1.2]]
-- Later: 2026-01-10 · Cline · [[Changes/Cline/2026-01-10-2-apps-and-integrations-changes-in-v3-49-0|2 Apps and Integrations changes in v3.49.0]]
+- Later: 2026-01-09 · Open WebUI · [[Changes/Open WebUI/2026-01-09-3-apps-and-integrations-changes-in-v0-7-0|3 Apps and Integrations changes in v0.7.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

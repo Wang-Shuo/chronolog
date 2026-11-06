@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e7fe1014aad195226b5c2648bd107aec8d40334cd05702422bd9e96570becd88
+machine_hash: 6d4b2b1bf17c7dcf0c50b31f5921465285701797ce65c765c5dd1a8ac07695bf
 product: aider
 product_name: Aider
 record:
@@ -45,12 +45,12 @@ record:
   title: 2 Account and Access changes in v0.81.0
   type: change
 related_changes:
-- '[[Changes/OpenHands/2024-12-06-updated-initial-sign-in-with-github-modal-by-amanape-in-https-github-com-all-han|Updated
-  initial Sign in with Github modal]]'
-- '[[Changes/OpenHands/2024-12-18-changes-to-github-authentication-by-malhotra5-in-https-github-com-all-hands-ai-o|Changes
-  to Github Authentication]]'
+- '[[Changes/Dify/2025-03-11-update-login-py-by-albcunha-in-https-github-com-langgenius-dify-pull-15320|Update
+  login.py]]'
 - '[[Changes/Aider/2025-03-31-2-account-and-access-changes-in-v0-80-0|2 Account and
   Access changes in v0.80.0]]'
+- '[[Changes/Open WebUI/2025-04-01-2-account-and-access-changes-in-v0-6-0|2 Account
+  and Access changes in v0.6.0]]'
 source_release: '[[Releases/Aider/aider-2025-04-04-v0-81-0-github-210314163-f0912302|aider-2025-04-04-v0-81-0-github-210314163-f0912302]]'
 source_type: github_releases
 theme: account-access
@@ -86,8 +86,8 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.81.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2025-03-31 · Aider · [[Changes/Aider/2025-03-31-2-account-and-access-changes-in-v0-80-0|2 Account and Access changes in v0.80.0]]
-- Later: 2025-04-16 · OpenHands · [[Changes/OpenHands/2025-04-16-added-support-for-gitlab-api-calling-using-both-oauth-and-pat-tokens-by-malhotra|Added support for GitLab API calling using both OAuth and PAT tokens]]
+- Earlier: 2025-04-01 · Open WebUI · [[Changes/Open WebUI/2025-04-01-2-account-and-access-changes-in-v0-6-0|2 Account and Access changes in v0.6.0]]
+- Later: 2025-04-13 · Open WebUI · [[Changes/Open WebUI/2025-04-13-2-account-and-access-changes-in-v0-6-3|2 Account and Access changes in v0.6.3]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

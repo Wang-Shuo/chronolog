@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 09d93d72c374d11d489b14b769bca6f1a994001232419d591eca7f645709247d
+machine_hash: ed4d940962ea21ecbefe6dd23d39b0e528b9cd3b4f3322cedd43377aa7c0c4bc
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -60,8 +60,8 @@ record:
   title: 9 Apps and Integrations changes in v0.13.0
   type: change
 related_changes:
-- '[[Changes/Cline/2025-11-06-8-apps-and-integrations-changes-in-v3-36-0|8 Apps and
-  Integrations changes in v3.36.0]]'
+- '[[Changes/Open WebUI/2025-11-06-2-apps-and-integrations-changes-in-v0-6-35|2 Apps
+  and Integrations changes in v0.6.35]]'
 - '[[Changes/Cline/2025-11-07-add-mcp-tool-usage-to-glm-prompt-by-canvrno-in-https-github-com-cline-cline-pull|Add
   MCP tool usage to GLM prompt]]'
 - '[[Changes/Codex CLI/2025-11-07-6237-add-modelreasoningeffort-option-to-typescript-sdk|♯6237
@@ -126,7 +126,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.13.0
 ## Nearby in Apps and Integrations
 
 - Earlier: 2025-11-07 · Codex CLI · [[Changes/Codex CLI/2025-11-07-6237-add-modelreasoningeffort-option-to-typescript-sdk|♯6237 Add modelReasoningEffort option to TypeScript SDK]]
-- Later: 2025-11-09 · Codex CLI · [[Changes/Codex CLI/2025-11-09-6353-app-server-add-auth-v2-doc-update-codex-mcp-interface-section|♯6353 – App-server: add auth v2 doc & update Codex MCP interface section]]
+- Later: 2025-11-07 · Replit · [[Changes/Replit/2025-11-07-connectors-support-for-remixing|Connectors support for remixing]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

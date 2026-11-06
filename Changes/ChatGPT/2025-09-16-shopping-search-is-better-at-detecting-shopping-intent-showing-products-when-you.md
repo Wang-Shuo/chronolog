@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8cff1f5d5bb871b605f3b68cd33536f2429d3ad2823802f9df2dac9e20dd396c
+machine_hash: c7f8681e713573cff761c06edb2d6bcc99ef5b55a9a4b000b8dd12b0bb76795e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -46,10 +46,10 @@ record:
     when you…'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-08-26-2-search-and-browsing-changes-in-rust-v0-24-0|2
-  Search and Browsing changes in rust-v0.24.0]]'
 - '[[Changes/Codex CLI/2025-09-03-3061-show-loading-state-when-search-results-are-pending|♯3061
   Show loading state when @ search results are pending]]'
+- "[[Changes/Open WebUI/2025-09-09-web-search-result-display-was-enhanced-to-include-titles-and-favicons-providing|\U0001F4AC
+  Web search result display was enhanced to include titles and favicons, providing…]]"
 - '[[Changes/ChatGPT/2025-09-16-we-ve-made-further-improvements-to-search-in-chatgpt-making-results-more-accurat|ChatGPT
   makes further improvements to search, making results more accurate…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-09-16-improvements-to-search-in-chatgpt-2ec68690|chatgpt-2025-09-16-improvements-to-search-in-chatgpt-2ec68690]]'
@@ -83,8 +83,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Search and Browsing
 
-- Earlier: 2025-09-03 · Codex CLI · [[Changes/Codex CLI/2025-09-03-3061-show-loading-state-when-search-results-are-pending|♯3061 Show loading state when @ search results are pending]]
-- Later: 2025-09-29 · Cursor · [[Changes/Cursor/2025-09-29-1-7-20-web-search-auto-accept-setting|1.7.20: Web search auto-accept setting]]
+- Earlier: 2025-09-09 · Open WebUI · [[Changes/Open WebUI/2025-09-09-web-search-result-display-was-enhanced-to-include-titles-and-favicons-providing|💬 Web search result display was enhanced to include titles and favicons, providing…]]
+- Later: 2025-09-24 · Ollama · [[Changes/Ollama/2025-09-24-2-search-and-browsing-changes-in-v0-12-2|2 Search and Browsing changes in v0.12.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

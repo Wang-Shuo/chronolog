@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 20a34f6aef2a241f5207291476e01ffa7d6d5a187cf5e7c794d7341b6b378d37
+machine_hash: 25c0de1dce16bf46ae38eb97f5ea8ac1367146a5bdd51ed345e93b5e26e8e2a9
 product: cline
 product_name: Cline
 record:
@@ -40,12 +40,12 @@ record:
   title: Use `@` in the textarea to add context!
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-08-22-we-ve-also-trained-a-new-cursor-tab-model-that-s-smarter-and-more-context-aware-56db10|We''ve
-  also trained a new Cursor Tab model that''s smarter and more context-aware]]'
 - '[[Changes/Cline/2024-08-26-implement-sliding-window-context-management-to-keep-tasks-going-past-200k-tokens|Implement
   sliding window context management to keep tasks going past 200k tokens]]'
 - '[[Changes/Aider/2024-08-27-keep-your-prompt-cache-from-expiring-https-aider-chat-docs-usage-caching-html-pr|Keep
   your prompt cache…]]'
+- '[[Changes/Ollama/2024-09-17-qwen-2-5-https-ollama-com-library-qwen2-5-new-multilingual-qwen-models-pretraine|Qwen
+  2.5((source link) new multilingual Qwen models…]]'
 source_release: '[[Releases/Cline/cline-2024-09-19-v1-8-0-github-175998860-1ce361a1|cline-2024-09-19-v1-8-0-github-175998860-1ce361a1]]'
 source_type: github_releases
 theme: context-window
@@ -76,8 +76,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2024-08-27 · Aider · [[Changes/Aider/2024-08-27-keep-your-prompt-cache-from-expiring-https-aider-chat-docs-usage-caching-html-pr|Keep your prompt cache…]]
-- Later: 2024-09-21 · Aider · [[Changes/Aider/2024-09-21-improvements-to-prompt-cache-chunking-strategy|Improvements to prompt cache chunking strategy]]
+- Earlier: 2024-09-17 · Ollama · [[Changes/Ollama/2024-09-17-qwen-2-5-https-ollama-com-library-qwen2-5-new-multilingual-qwen-models-pretraine|Qwen 2.5((source link) new multilingual Qwen models…]]
+- Later: 2024-09-19 · Open WebUI · [[Changes/Open WebUI/2024-09-19-improved-rag-template-enhanced-retrieval-augmented-generation-template-optimizin|📝 Improved RAG Template]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

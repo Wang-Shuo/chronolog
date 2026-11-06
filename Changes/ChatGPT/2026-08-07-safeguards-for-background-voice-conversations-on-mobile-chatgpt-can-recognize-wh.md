@@ -5,20 +5,20 @@ description: 'ChatGPT · 2026-08-07 · Voice and Audio: Safeguards for backgroun
   conversations. On mobile, ChatGPT can recognize when a background Voice conversation
   no…'
 diffusion:
-  first_in_tracked: '[[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source
-    link) support, which allows you…]]'
+  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
+    Voice and Audio changes in 0.3.7]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1092
+  lag_days: 1124
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 748d6e72b380bab806133cd6ca1b61062af0c4f195bf8222ba3fc689a0a6283a
+machine_hash: af8402ba3d9cc1e2368cc1ed2acb60b0b53d3ff9f4436bafafd663a5d120863b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -49,10 +49,8 @@ record:
   title: Safeguards for background Voice conversations
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-07-23-chatgpt-voice-is-now-available-in-work-and-codex-in-the-chatgpt-desktop-app-star|ChatGPT
-  Voice in Work and Codex on desktop]]'
-- '[[Changes/GitHub Copilot CLI/2026-07-30-voice-mode-pauses-playing-media-before-recording-and-resumes-it-afterward-where|Voice
-  mode pauses playing media before recording and resumes it afterward, where…]]'
+- '[[Changes/ElevenLabs/2026-08-03-voices-78649b|Voices]]'
+- '[[Changes/ElevenLabs/2026-08-03-text-to-speech|Text to Speech]]'
 - '[[Changes/ChatGPT/2026-08-07-start-voice-conversations-faster-improved-connection-times-make-it-quicker-to-be|Start
   Voice conversations faster]]'
 scope: iOS and Android
@@ -86,14 +84,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-07-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-30-voice-mode-pauses-playing-media-before-recording-and-resumes-it-afterward-where|Voice mode pauses playing media before recording and resumes it afterward, where…]]
+- Earlier: 2026-08-03 · ElevenLabs · [[Changes/ElevenLabs/2026-08-03-text-to-speech|Text to Speech]]
 - Later: 2026-08-07 · ChatGPT · [[Changes/ChatGPT/2026-08-07-gpt-live-in-chatgpt-voice-now-supports-file-uploads-and-projects-you-can-now-upl|Files and Projects in ChatGPT Voice]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-08-11 · Aider · [[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source link) support, which allows you…]]
+- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

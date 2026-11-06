@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c8e2a0fcf09f7e00b86944e3da5c3de1139f02d74eef80d72999426a0a3920fc
+machine_hash: df9fcd04df323d71c7fa80dd9d02355967803c90008b874de9fa7eb280fc629d
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -51,11 +51,11 @@ record:
   title: Improve compatibility with remote MCP servers that use OAuth
   type: change
 related_changes:
-- '[[Changes/Cline/2026-01-30-cli-authentication-added-vercel-ai-gateway-and-cline-api-key-provider-support-fo|_CLI
+- '[[Changes/Cline/2026-01-30-cli-authentication-added-vercel-ai-gateway-and-cline-api-key-provider-support-fo|CLI
   authentication: Added Vercel AI Gateway and Cline API key provider support…]]'
-- '[[Changes/Cline/2026-01-30-cli-authentication-added-vercel-ai-gateway-and-cline-api-key-provider-support-fo-4bce9f|_CLI
+- '[[Changes/Cline/2026-01-30-cli-authentication-added-vercel-ai-gateway-and-cline-api-key-provider-support-fo-4bce9f|CLI
   authentication: Added Vercel AI Gateway and Cline API key provider support…]]'
-- '[[Changes/Cline/2026-01-30-cli-authentication-added-vercel-ai-gateway-and-cline-api-key-provider-support-fo-4f2168|_CLI
+- '[[Changes/Cline/2026-01-30-cli-authentication-added-vercel-ai-gateway-and-cline-api-key-provider-support-fo-4f2168|CLI
   authentication: Added Vercel AI Gateway and Cline API key provider support…]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-01-30-v0-0-400-github-281705336-a0abdb24|github-copilot-cli-2026-01-30-v0-0-400-github-281705336-a0abdb24]]'
 source_type: github_releases
@@ -92,7 +92,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-01-30 · Cline · [[Changes/Cline/2026-01-30-cli-authentication-added-vercel-ai-gateway-and-cline-api-key-provider-support-fo-4f2168|_CLI authentication: Added Vercel AI Gateway and Cline API key provider support…]]
+- Earlier: 2026-01-30 · Cline · [[Changes/Cline/2026-01-30-cli-authentication-added-vercel-ai-gateway-and-cline-api-key-provider-support-fo-4f2168|CLI authentication: Added Vercel AI Gateway and Cline API key provider support…]]
 - Later: 2026-01-31 · Codex CLI · [[Changes/Codex CLI/2026-01-31-9654-show-oauth-error-descriptions-in-callback-responses-blevy-oai|♯9654 Show OAuth error descriptions in callback responses @blevy-oai]]
 <!-- chronolog:end -->
 

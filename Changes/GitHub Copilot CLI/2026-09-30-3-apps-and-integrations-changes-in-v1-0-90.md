@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 82b05b9e5fa577af06d80be97e5cc667c9c1dcdff797509dfa48754556261e1e
+machine_hash: 7156605e469ccb2b98244bc5e126113394bc9b398464419f208ab5b3d34c2267
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -48,10 +48,10 @@ record:
   title: 3 Apps and Integrations changes in v1.0.90
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-29-8-apps-and-integrations-changes-in-rust-v0-159-0|8
-  Apps and Integrations changes in rust-v0.159.0]]'
 - '[[Changes/Gemini CLI/2026-09-29-2-apps-and-integrations-changes-in-v0-62-0|2 Apps
   and Integrations changes in v0.62.0]]'
+- '[[Changes/Lovable/2026-09-29-lovable-mcp-now-works-with-muse-by-meta|Lovable MCP
+  now works with Muse by Meta]]'
 - '[[Changes/Claude Code/2026-09-30-11-apps-and-integrations-changes-in-v2-1-286|11
   Apps and Integrations changes in v2.1.286]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-09-30-v1-0-90-github-400456416-452b5a7d|github-copilot-cli-2026-09-30-v1-0-90-github-400456416-452b5a7d]]'

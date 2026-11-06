@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e88158a505a5d4c765980fc5b46377dcde8f988c9b4f439f8fe890dcc15999d9
+machine_hash: 4c17c35ed9f52a0f34ff52b6a0a6d3a34d0c954d53fc957f7cde05c43d21f492
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,12 +43,12 @@ record:
   title: 2 Model Support changes in rust-v0.32.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-09-05-2-model-support-changes-in-rust-v0-30-0|2 Model
-  Support changes in rust-v0.30.0]]'
 - '[[Changes/Codex CLI/2025-09-08-3176-codex-respect-overrides-for-model-family-configuration-from-toml-file|♯3176
   codex respect overrides for model family configuration from toml file]]'
 - '[[Changes/Gemini CLI/2025-09-09-6-model-support-changes-in-v0-4-0|6 Model Support
   changes in v0.4.0]]'
+- "[[Changes/Open WebUI/2025-09-09-rag-loop-error-with-gemma-3-1-2b-instruct-is-fixed-by-correctly-unwrapping-unexp|\U0001F9E0
+  RAG Loop/Error with Gemma 3.1 2B Instruct is fixed by correctly unwrapping…]]"
 source_release: '[[Releases/Codex CLI/codex-cli-2025-09-10-rust-v0-32-0-github-246248951-dfa94f54|codex-cli-2025-09-10-rust-v0-32-0-github-246248951-dfa94f54]]'
 source_type: github_releases
 theme: model-support
@@ -85,7 +85,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.32.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-09-09 · Gemini CLI · [[Changes/Gemini CLI/2025-09-09-6-model-support-changes-in-v0-4-0|6 Model Support changes in v0.4.0]]
+- Earlier: 2025-09-09 · Open WebUI · [[Changes/Open WebUI/2025-09-09-rag-loop-error-with-gemma-3-1-2b-instruct-is-fixed-by-correctly-unwrapping-unexp|🧠 RAG Loop/Error with Gemma 3.1 2B Instruct is fixed by correctly unwrapping…]]
 - Later: 2025-09-10 · Codex CLI · [[Changes/Codex CLI/2025-09-10-2799-persist-model-reasoning-changes-2799|♯2799 Persist model & reasoning changes (♯2799)]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: accessibility-localization
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 656536c601b08d6c50dc2c26183ee68eb2294529060abb5e83a203ffca3b2986
+machine_hash: 0022ae03a0d6f754190daf60d4d3e77556191fdcefe47c11c20b435d976e1e50
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,12 +43,12 @@ record:
     characters
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-02-12-theme-preview-appears-above-theme-list-in-screen-reader-mode|Theme
-  preview appears above theme list in screen reader mode]]'
 - '[[Changes/Codex CLI/2026-02-17-11860-fixed-screen-reader-regression-in-cli-etraut-openai|♯11860
   Fixed screen reader regression in CLI @etraut-openai]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-19-improve-quick-help-accessibility-screen-reader-friendly-tab-labels-reordered-lay|Improve
   quick help accessibility]]'
+- '[[Changes/Open WebUI/2026-02-23-ui-accessibility-improvements-screen-reader-users-can-now-navigate-the-interface|♿
+  UI accessibility improvements. Screen reader users can now navigate…]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-03-09-v1-0-3-github-294937927-8c143137|github-copilot-cli-2026-03-09-v1-0-3-github-294937927-8c143137]]'
 source_type: github_releases
 theme: accessibility-localization
@@ -85,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Accessibility and Localization
 
-- Earlier: 2026-02-19 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-19-improve-quick-help-accessibility-screen-reader-friendly-tab-labels-reordered-lay|Improve quick help accessibility]]
+- Earlier: 2026-02-23 · Open WebUI · [[Changes/Open WebUI/2026-02-23-ui-accessibility-improvements-screen-reader-users-can-now-navigate-the-interface|♿ UI accessibility improvements. Screen reader users can now navigate…]]
 - Later: 2026-03-17 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-17-improve-color-contrast-across-cli-themes-for-better-readability-and-accessibilit|Improve color contrast across CLI themes for better readability and accessibility]]
 <!-- chronolog:end -->
 

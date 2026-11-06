@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6e1f2a11edd63447109bdd0991b1ccc01c16c3d5e99c2158db98bba6ba2446b4
+machine_hash: e4c38c29cbb4290c11063932f1280cd388a7109bee503fede19f4cedb7266e12
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,12 +42,12 @@ record:
   title: We now record some Git state in the `.jsonl` log due to @vishnu-oai…
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-07-19-12-developer-workflow-changes-in-v0-1-13|12 Developer
-  Workflow changes in v0.1.13]]'
 - '[[Changes/Cline/2025-07-22-refactor-git-commit-message-generation-as-a-module-by-abeatrix-in-https-github-c|Refactor:
   Git commit message generation as a module]]'
 - '[[Changes/Codex CLI/2025-07-23-https-github-com-openai-codex-pull-1626-to-ensure-shell-commands-spawned-by-code|(source
   link) to ensure shell commands spawned by Codex…]]'
+- '[[Changes/Dify/2025-07-23-minor-typo-fix-remove-debug-code-and-fix-typo-by-neatguycoding-in-https-github-c|minor
+  typo fix: remove debug code and fix typo]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-07-24-rust-v0-10-0-github-235022828-a300c267|codex-cli-2025-07-24-rust-v0-10-0-github-235022828-a300c267]]'
 source_type: github_releases
 theme: developer-workflow
@@ -76,7 +76,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2025-07-23 · Codex CLI · [[Changes/Codex CLI/2025-07-23-https-github-com-openai-codex-pull-1626-to-ensure-shell-commands-spawned-by-code|(source link) to ensure shell commands spawned by Codex…]]
+- Earlier: 2025-07-23 · Dify · [[Changes/Dify/2025-07-23-minor-typo-fix-remove-debug-code-and-fix-typo-by-neatguycoding-in-https-github-c|minor typo fix: remove debug code and fix typo]]
 - Later: 2025-07-25 · Gemini CLI · [[Changes/Gemini CLI/2025-07-25-16-developer-workflow-changes-in-v0-1-14|16 Developer Workflow changes in v0.1.14]]
 <!-- chronolog:end -->
 

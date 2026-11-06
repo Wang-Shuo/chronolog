@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5448442c8dd9f4cb83bc5ed040bcab3bfc2d44fa4743d26155cfb7de9ca81ee3
+machine_hash: 7287803f546bf129f41f767a72d2f0afe8e7f398a924ab64b46fb171cc00af1c
 product: claude-code
 product_name: Claude Code
 record:
@@ -67,10 +67,10 @@ record:
   title: 7 Apps and Integrations changes in v2.1.316
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-10-27-refactor-extensions-name-dialog-viewport-limits-by-enyst-in-https-github-com-ope|refactor(extensions):
-  name dialog viewport limits]]'
 - '[[Changes/Codex CLI/2026-10-29-22-apps-and-integrations-changes-in-rust-v0-166-0|22
   Apps and Integrations changes in rust-v0.166.0]]'
+- '[[Changes/Open WebUI/2026-10-29-2-apps-and-integrations-changes-in-v0-12-5|2 Apps
+  and Integrations changes in v0.12.5]]'
 - '[[Changes/Claude Code/2026-10-30-3-apps-and-integrations-changes-in-v2-1-314|3
   Apps and Integrations changes in v2.1.314]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-31-v2-1-316-github-429617179-a30f32c9|claude-code-2026-10-31-v2-1-316-github-429617179-a30f32c9]]'
@@ -123,7 +123,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.316
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-10-30 · Claude Code · [[Changes/Claude Code/2026-10-30-3-apps-and-integrations-changes-in-v2-1-314|3 Apps and Integrations changes in v2.1.314]]
-- Later: 2026-11-03 · OpenHands · [[Changes/OpenHands/2026-11-03-3-apps-and-integrations-changes-in-v1-35-0|3 Apps and Integrations changes in v1.35.0]]
+- Later: 2026-11-02 · ElevenLabs · [[Changes/ElevenLabs/2026-11-02-channel-integrations-asynchronous-channels-such-as-slack-telegram-intercom-gmail|Channel integrations: Asynchronous channels such as Slack, Telegram, Intercom…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a73fe3cbd8fdd091a313f32b7b5f0b7b79544eb5fb0ce151a90d1a1d1f745d34
+machine_hash: 5c336c4214cf88b1b8887ae9dba5f76b46c390500e5611292e84b8d77e2aec9b
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,10 +45,10 @@ record:
   title: 3 Editor Experience changes in v0.0.355
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-11-05-removed-jupyter-tab-by-amanape-in-https-github-com-openhands-openhands-pull-1156|Removed
-  Jupyter tab]]'
-- '[[Changes/Cline/2025-11-06-2-editor-experience-changes-in-v3-36-0|2 Editor Experience
-  changes in v3.36.0]]'
+- '[[Changes/Open WebUI/2025-11-06-3-editor-experience-changes-in-v0-6-35|3 Editor
+  Experience changes in v0.6.35]]'
+- "[[Changes/Open WebUI/2025-11-06-the-comfyui-image-edit-workflow-editor-modal-now-opens-correctly-when-clicking-t|\U0001F5BC️
+  The ComfyUI image edit workflow editor modal now opens correctly when clicking…]]"
 - '[[Changes/Gemini CLI/2025-11-07-enable-codebase-investigator-by-default-for-preview-by-silviojr-in-https-github|enable
   codebase investigator by default for preview]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2025-11-12-v0-0-355-github-261915723-3452a587|github-copilot-cli-2025-11-12-v0-0-355-github-261915723-3452a587]]'
@@ -89,7 +89,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v0.0.355
 ## Nearby in Editor Experience
 
 - Earlier: 2025-11-07 · Gemini CLI · [[Changes/Gemini CLI/2025-11-07-enable-codebase-investigator-by-default-for-preview-by-silviojr-in-https-github|enable codebase investigator by default for preview]]
-- Later: 2025-11-13 · Windsurf · [[Changes/Windsurf/2025-11-13-shortcuts|Shortcuts]]
+- Later: 2025-11-12 · Ollama · [[Changes/Ollama/2025-11-12-autocomplete|Autocomplete]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 54e4eb0e425347d0cfd36f476f9f78a001258ecfbb3566a1681dcae96f5af925
+machine_hash: fd54caec5c410b9a637ceabd47e574c2872341ab8e1c78eaa10a7bfa6a037b4f
 product: cursor
 product_name: Cursor
 record:
@@ -43,9 +43,10 @@ record:
   title: 3 Collaboration changes in Organizations for Cursor Enterprise
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-05-20-shared-canvases-a27a45|Shared canvases]]'
-- '[[Changes/Claude Code/2026-06-02-otel-resource-attributes-values-are-now-included-as-labels-on-metric-datapoints|OTEL_RESOURCE_ATTRIBUTES
-  values are now included as labels on metric datapoints…]]'
+- '[[Changes/Lovable/2026-06-02-cleaner-project-collaborator-icons|Cleaner project
+  collaborator icons]]'
+- '[[Changes/Lovable/2026-06-02-move-projects-to-folders-from-chat|Move projects to
+  folders from chat]]'
 - '[[Changes/Claude Code/2026-06-03-quieter-startup-notices-group-by-severity-and-session-info-and-announcements-sha|Quieter
   startup: notices group by severity, and session info and announcements share…]]'
 source_release: '[[Releases/Cursor/cursor-2026-06-03-organizations-for-cursor-enterprise-https-cursor-com-changelog-e-b5c7f576|cursor-2026-06-03-organizations-for-cursor-enterprise-https-cursor-com-changelog-e-b5c7f576]]'

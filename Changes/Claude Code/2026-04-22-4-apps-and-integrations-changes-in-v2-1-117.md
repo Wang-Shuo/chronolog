@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 11285a28ae4f278d89177ed767f1b1ea6c14305a017d94bf401849e886803775
+machine_hash: ad652450a299823b7fb03ffa8caf8413bc8360ce4ad904557e175baca7aea9c9
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,12 +51,11 @@ record:
   title: 4 Apps and Integrations changes in v2.1.117
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-16-3-apps-and-integrations-changes-in-v1-0-29|3
-  Apps and Integrations changes in v1.0.29]]'
-- '[[Changes/Claude Code/2026-04-20-2-apps-and-integrations-changes-in-v2-1-116|2
-  Apps and Integrations changes in v2.1.116]]'
 - '[[Changes/Codex CLI/2026-04-20-28-apps-and-integrations-changes-in-rust-v0-122-0|28
   Apps and Integrations changes in rust-v0.122.0]]'
+- '[[Changes/ElevenLabs/2026-04-20-sdk-releases|SDK Releases]]'
+- '[[Changes/Open WebUI/2026-04-21-4-apps-and-integrations-changes-in-v0-9-0|4 Apps
+  and Integrations changes in v0.9.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-22-v2-1-117-github-311984967-1d917373|claude-code-2026-04-22-v2-1-117-github-311984967-1d917373]]'
 source_type: github_releases
 theme: apps-integrations
@@ -98,7 +97,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.117
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-04-20 · Codex CLI · [[Changes/Codex CLI/2026-04-20-28-apps-and-integrations-changes-in-rust-v0-122-0|28 Apps and Integrations changes in rust-v0.122.0]]
+- Earlier: 2026-04-21 · Open WebUI · [[Changes/Open WebUI/2026-04-21-4-apps-and-integrations-changes-in-v0-9-0|4 Apps and Integrations changes in v0.9.0]]
 - Later: 2026-04-22 · Cline · [[Changes/Cline/2026-04-22-wire-up-remote-globalskills-from-enterprise-remote-config-with-full-ui-toggle-su|Wire up remote globalSkills from enterprise remote config with full UI, toggle…]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: ac78d29381d2903bbc51a2024b84461c3ba2b8485549643a8bff15c259706f8f
+machine_hash: 60e069aab4ed6c7612f1a3b078ac2ea6a9b2f3a2f5d3719bbe78fb718b9a01b8
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,10 +42,10 @@ record:
   title: '[#2799] Persist model & reasoning changes (#2799)'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-09-08-3176-codex-respect-overrides-for-model-family-configuration-from-toml-file|♯3176
-  codex respect overrides for model family configuration from toml file]]'
 - '[[Changes/Gemini CLI/2025-09-09-6-model-support-changes-in-v0-4-0|6 Model Support
   changes in v0.4.0]]'
+- "[[Changes/Open WebUI/2025-09-09-rag-loop-error-with-gemma-3-1-2b-instruct-is-fixed-by-correctly-unwrapping-unexp|\U0001F9E0
+  RAG Loop/Error with Gemma 3.1 2B Instruct is fixed by correctly unwrapping…]]"
 - '[[Changes/Codex CLI/2025-09-10-2-model-support-changes-in-rust-v0-32-0|2 Model
   Support changes in rust-v0.32.0]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-09-10-rust-v0-34-0-github-246311336-c35641ed|codex-cli-2025-09-10-rust-v0-34-0-github-246311336-c35641ed]]'
@@ -77,7 +77,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2025-09-10 · Codex CLI · [[Changes/Codex CLI/2025-09-10-2-model-support-changes-in-rust-v0-32-0|2 Model Support changes in rust-v0.32.0]]
-- Later: 2025-09-11 · Cline · [[Changes/Cline/2025-09-11-5-model-support-changes-in-v3-28-0|5 Model Support changes in v3.28.0]]
+- Later: 2025-09-10 · Open WebUI · [[Changes/Open WebUI/2025-09-10-the-command-for-model-selection-now-supports-real-time-search-and-filtering-impr|🔍 The "@" command for model selection now supports real-time search and filtering…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

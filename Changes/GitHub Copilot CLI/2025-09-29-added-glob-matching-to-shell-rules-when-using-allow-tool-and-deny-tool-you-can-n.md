@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8748377fb9245b5f21dba972971b88e331287f62d5d96b465a85e22a4c3a1f41
+machine_hash: ccfe68af00d03856ef6d9b3a19f8baaba6dde86673cca8f2a8ec06cdba8657c6
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,12 +45,11 @@ record:
   title: Added glob matching to shell rules
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-09-26-3-developer-workflow-changes-in-rust-v0-42-0|3 Developer
-  Workflow changes in rust-v0.42.0]]'
 - '[[Changes/GitHub Copilot CLI/2025-09-26-improved-powershell-parsing-of-foreach-object-and-detection-of-command-name-expr|Improved
   PowerShell parsing of ForEach-Object and detection of command name…]]'
 - '[[Changes/Cursor/2025-09-29-7-developer-workflow-changes-in-1-7|7 Developer Workflow
   changes in 1.7]]'
+- '[[Changes/Dify/2025-09-29-debugging-logging|Debugging & Logging]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2025-09-29-v0-0-329-github-250905427-a727dae6|github-copilot-cli-2025-09-29-v0-0-329-github-250905427-a727dae6]]'
 source_type: github_releases
 theme: developer-workflow
@@ -83,7 +82,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2025-09-29 · Cursor · [[Changes/Cursor/2025-09-29-7-developer-workflow-changes-in-1-7|7 Developer Workflow changes in 1.7]]
+- Earlier: 2025-09-29 · Dify · [[Changes/Dify/2025-09-29-debugging-logging|Debugging & Logging]]
 - Later: 2025-10-01 · Cline · [[Changes/Cline/2025-10-01-install-cline-cli-with-a-single-command|Install Cline CLI with a single command]]
 <!-- chronolog:end -->
 

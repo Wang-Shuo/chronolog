@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 68b012f9bb7de380ae80b9c7a99ecfc1dc4e23551db0dcb944a1d6dd2483fa16
+machine_hash: 87d246493c23f36d6588ab2804a6888ef4d84259d19f029e343fb092a621ef35
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -46,10 +46,9 @@ record:
   title: 3 Apps and Integrations changes in v0.22.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2025-12-18-2-apps-and-integrations-changes-in-v0-0-370|2
-  Apps and Integrations changes in v0.0.370]]'
-- '[[Changes/Claude Code/2025-12-19-2-apps-and-integrations-changes-in-v2-0-73|2 Apps
-  and Integrations changes in v2.0.73]]'
+- '[[Changes/Replit/2025-12-19-custom-mcp-server-icons|Custom MCP Server Icons]]'
+- '[[Changes/Open WebUI/2025-12-21-2-apps-and-integrations-changes-in-v0-6-42|2 Apps
+  and Integrations changes in v0.6.42]]'
 - '[[Changes/Cursor/2025-12-22-2-apps-and-integrations-changes-in-2-3|2 Apps and Integrations
   changes in 2.3]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-12-22-v0-22-0-github-272264073-a982fd82|gemini-cli-2025-12-22-v0-22-0-github-272264073-a982fd82]]'
@@ -91,7 +90,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.22.0
 ## Nearby in Apps and Integrations
 
 - Earlier: 2025-12-22 · Cursor · [[Changes/Cursor/2025-12-22-2-apps-and-integrations-changes-in-2-3|2 Apps and Integrations changes in 2.3]]
-- Later: 2025-12-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-12-30-enable-copilot-spaces-tools-in-github-mcp-server|Enable Copilot Spaces tools in GitHub MCP Server]]
+- Later: 2025-12-23 · Lovable · [[Changes/Lovable/2025-12-23-lovable-chatgpt-app|Lovable ChatGPT app]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

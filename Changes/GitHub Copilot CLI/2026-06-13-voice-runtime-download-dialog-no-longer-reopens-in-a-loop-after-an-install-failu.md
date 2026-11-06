@@ -4,20 +4,20 @@ date: '2026-06-13'
 description: 'GitHub Copilot CLI · 2026-06-13 · Voice and Audio: Voice runtime download
   dialog no longer reopens in a loop after an install failure'
 diffusion:
-  first_in_tracked: '[[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source
-    link) support, which allows you…]]'
+  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
+    Voice and Audio changes in 0.3.7]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1037
+  lag_days: 1069
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ae85315fa464fddcf5485bdc9d86cf022cd42f60c1c04331932168a6dcd8f06b
+machine_hash: b9298eb485827e7b5f33e6152d6e793c897bc3646f91c33290b1073060b96947
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,12 +43,10 @@ record:
     failure
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-02-add-the-voice-command-to-dictate-prompts-using-local-speech-to-text-models|Add
-  the /voice command to dictate prompts using local speech-to-text models]]'
-- '[[Changes/Cursor/2026-06-05-narrate-changes-through-the-design-mode-overlay-the-mic-stays-available-while-an|Voice
-  input]]'
 - '[[Changes/Cursor/2026-06-05-with-design-mode-in-the-cursor-browser-you-can-click-draw-or-describe-changes-by|With
   Design Mode in the Cursor browser, you can click, draw, or describe changes…]]'
+- '[[Changes/ElevenLabs/2026-06-08-speech-to-text|Speech to Text]]'
+- '[[Changes/ElevenLabs/2026-06-08-packages|Packages]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-06-13-v1-0-62-github-339039020-f6ff7e5e|github-copilot-cli-2026-06-13-v1-0-62-github-339039020-f6ff7e5e]]'
 source_type: github_releases
 theme: voice
@@ -92,14 +90,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-06-05 · Cursor · [[Changes/Cursor/2026-06-05-with-design-mode-in-the-cursor-browser-you-can-click-draw-or-describe-changes-by|With Design Mode in the Cursor browser, you can click, draw, or describe changes…]]
+- Earlier: 2026-06-08 · ElevenLabs · [[Changes/ElevenLabs/2026-06-08-packages|Packages]]
 - Later: 2026-06-15 · Codex CLI · [[Changes/Codex CLI/2026-06-15-2-voice-and-audio-changes-in-rust-v0-140-0|2 Voice and Audio changes in rust-v0.140.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-08-11 · Aider · [[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source link) support, which allows you…]]
+- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

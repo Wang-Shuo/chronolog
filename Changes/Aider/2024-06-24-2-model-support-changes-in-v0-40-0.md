@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ab6b5aaf7d6cd8aa6e25717e424bdb145d3f468658f183d1252e912ee15a51ab
+machine_hash: 518258fcf4acf8c8ab13fe1fe631e7107bd423e25eeb39f28171a398142e7f0c
 product: aider
 product_name: Aider
 record:
@@ -44,10 +44,10 @@ record:
   title: 2 Model Support changes in v0.40.0
   type: change
 related_changes:
-- '[[Changes/Aider/2024-06-04-improved-prompts-when-no-files-have-been-added-to-chat-to-solicit-llm-file-sugge|Improved
-  prompts when no files have been added to chat to solicit LLM file suggestions]]'
-- '[[Changes/Cursor/2024-06-08-update-0-35-1-disables-copilot-partial-accepts-by-default-and-makes-the-keybindi|UPDATE
-  (0.35.1): Disables Copilot++ partial accepts by default and makes…]]'
+- '[[Changes/Ollama/2024-06-15-2-model-support-changes-in-v0-1-45|2 Model Support
+  changes in v0.1.45]]'
+- "[[Changes/Open WebUI/2024-06-17-markdown-support-in-model-descriptions-you-can-now-format-model-descriptions-wit|\U0001F4DD
+  Markdown Support in Model Descriptions]]"
 - '[[Changes/Aider/2024-06-20-2-model-support-changes-in-v0-39-0|2 Model Support changes
   in v0.39.0]]'
 source_release: '[[Releases/Aider/aider-2024-06-24-v0-40-0-github-162152845-1b3b3617|aider-2024-06-24-v0-40-0-github-162152845-1b3b3617]]'
@@ -84,7 +84,7 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.40.0
 ## Nearby in Model Support
 
 - Earlier: 2024-06-20 · Aider · [[Changes/Aider/2024-06-20-2-model-support-changes-in-v0-39-0|2 Model Support changes in v0.39.0]]
-- Later: 2024-06-29 · OpenHands · [[Changes/OpenHands/2024-06-29-2-model-support-changes-in-0-7-0|2 Model Support changes in 0.7.0]]
+- Later: 2024-06-27 · Ollama · [[Changes/Ollama/2024-06-27-added-support-for-google-gemma-2-models-9b-and-27b|Added support for Google Gemma 2 models (9B and 27B)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

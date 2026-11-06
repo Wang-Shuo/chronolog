@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b3fd729d76531e5614a3659a6955774368fb79a3410b8bc98f418bab810a4c37
+machine_hash: 2e96ba526c9d7b07e484328e2695ee5fa8a3cc1974f3bfd7604045e61fe5064d
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,12 +43,12 @@ record:
   title: 2 Developer Workflow changes in v2.1.117
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-17-3-developer-workflow-changes-in-v1-0-32|3
-  Developer Workflow changes in v1.0.32]]'
 - '[[Changes/Codex CLI/2026-04-20-6-developer-workflow-changes-in-rust-v0-122-0|6
   Developer Workflow changes in rust-v0.122.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-20-2-developer-workflow-changes-in-v1-0-33|2
   Developer Workflow changes in v1.0.33]]'
+- '[[Changes/Open WebUI/2026-04-21-46-developer-workflow-changes-in-v0-9-0|46 Developer
+  Workflow changes in v0.9.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-22-v2-1-117-github-311984967-1d917373|claude-code-2026-04-22-v2-1-117-github-311984967-1d917373]]'
 source_type: github_releases
 theme: developer-workflow
@@ -86,7 +86,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.117
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-04-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-20-2-developer-workflow-changes-in-v1-0-33|2 Developer Workflow changes in v1.0.33]]
+- Earlier: 2026-04-21 · Open WebUI · [[Changes/Open WebUI/2026-04-21-46-developer-workflow-changes-in-v0-9-0|46 Developer Workflow changes in v0.9.0]]
 - Later: 2026-04-22 · Cline · [[Changes/Cline/2026-04-22-remove-foreground-terminal-mode-all-task-command-execution-now-defaults-to-backg|Remove foreground terminal mode]]
 <!-- chronolog:end -->
 

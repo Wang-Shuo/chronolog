@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 04f5ff3a8576c282180c9a5fe67616d3b1eb31d004f5c484c61ae3ee47b97613
+machine_hash: 0a9149809d8d2e10fb3e22a3f62655d2bb6c20cb72015bab70dbcd3213903e58
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -98,7 +98,7 @@ type: change
 ## Nearby in Account and Access
 
 - Earlier: 2026-03-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-23-mcp-oauth-authentication-works-with-mcp-servers-like-the-atlassian-rovo-mcp-serv|MCP OAuth authentication works with MCP servers like the Atlassian Rovo MCP Server…]]
-- Later: 2026-03-26 · Claude Code · [[Changes/Claude Code/2026-03-26-mcp-oauth-now-follows-rfc-9728-protected-resource-metadata-discovery-to-find-the|MCP OAuth now follows RFC 9728 Protected Resource Metadata discovery to find…]]
+- Later: 2026-03-25 · Open WebUI · [[Changes/Open WebUI/2026-03-25-11-account-and-access-changes-in-v0-8-11|11 Account and Access changes in v0.8.11]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 18b87d21bd87c3204f00a4bc1873e128546572aaa745e3f93c21c90bea24a891
+machine_hash: d9018e6172a4058b648e537a3939f825302f2f255251d8a6ed268f1e418e9969
 product: openhands
 product_name: OpenHands
 record:
@@ -44,12 +44,12 @@ record:
   title: Split bash commands by the new line character
   type: change
 related_changes:
-- '[[Changes/Aider/2024-10-04-3-developer-workflow-changes-in-v0-59-0|3 Developer
-  Workflow changes in v0.59.0]]'
-- '[[Changes/Cursor/2024-10-09-we-have-made-slight-improvements-to-debug-with-ai-and-added-back-lint-errors-in|We
-  have made slight improvements to Debug with AI and added back @Lint Errors in Chat]]'
-- '[[Changes/Cursor/2024-10-09-using-cursor-with-wsl-should-now-be-more-stable|Using
-  cursor . with WSL should now be more stable]]'
+- '[[Changes/Dify/2024-10-21-stop-the-service-command-please-execute-in-the-docker-directory|Stop
+  the service，Command, please execute in the docker directory]]'
+- '[[Changes/Dify/2024-10-23-2-developer-workflow-changes-in-0-10-1|2 Developer Workflow
+  changes in 0.10.1]]'
+- '[[Changes/Dify/2024-10-28-stop-the-service-command-please-execute-in-the-docker-directory|Stop
+  the service，Command, please execute in the docker directory]]'
 source_release: '[[Releases/OpenHands/openhands-2024-10-31-0-12-0-github-182915844-e103262c|openhands-2024-10-31-0-12-0-github-182915844-e103262c]]'
 source_type: github_releases
 theme: developer-workflow
@@ -79,8 +79,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2024-10-09 · Cursor · [[Changes/Cursor/2024-10-09-using-cursor-with-wsl-should-now-be-more-stable|Using cursor . with WSL should now be more stable]]
-- Later: 2024-11-21 · Aider · [[Changes/Aider/2024-11-21-2-developer-workflow-changes-in-v0-64-0|2 Developer Workflow changes in v0.64.0]]
+- Earlier: 2024-10-28 · Dify · [[Changes/Dify/2024-10-28-stop-the-service-command-please-execute-in-the-docker-directory|Stop the service，Command, please execute in the docker directory]]
+- Later: 2024-11-05 · Dify · [[Changes/Dify/2024-11-05-stop-the-service-command-please-execute-in-the-docker-directory|Stop the service，Command, please execute in the docker directory]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

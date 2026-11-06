@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9e026dcd4a1067a494bbe44e2875a78547827c6b65369d89d8885a665e595f44
+machine_hash: c6df3a1cdcedae647c2004aee314a1a3448714a9eb8fd5968a219a5bfded3738
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -49,8 +49,8 @@ record:
   title: 5 Safety and Privacy changes in rust-v0.117.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-25-2-safety-and-privacy-changes-in-v2-1-83|2 Safety
-  and Privacy changes in v2.1.83]]'
+- '[[Changes/Open WebUI/2026-03-25-4-safety-and-privacy-changes-in-v0-8-11|4 Safety
+  and Privacy changes in v0.8.11]]'
 - '[[Changes/Claude Code/2026-03-26-fixed-the-allow-claude-to-edit-its-own-settings-for-this-session-permission-opti|Fixed
   the "allow Claude to edit its own settings for this session" permission option…]]'
 - '[[Changes/Claude Code/2026-03-26-2-safety-and-privacy-changes-in-v2-1-85|2 Safety

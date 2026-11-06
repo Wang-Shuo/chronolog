@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d748b64e6002e1fdeafb3b315b1e7a00e754f12af4e03f22fda2df8af606670d
+machine_hash: d58fd8b8163ef1f8d670e5ade0998354808477a8d72f1598128527f40f90231c
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -82,7 +82,7 @@ type: change
 ## Nearby in Account and Access
 
 - Earlier: 2026-01-27 · Codex CLI · [[Changes/Codex CLI/2026-01-27-2-account-and-access-changes-in-rust-v0-92-0|2 Account and Access changes in rust-v0.92.0]]
-- Later: 2026-01-30 · Cline · [[Changes/Cline/2026-01-30-cli-authentication-added-vercel-ai-gateway-and-cline-api-key-provider-support-fo|_CLI authentication: Added Vercel AI Gateway and Cline API key provider support…]]
+- Later: 2026-01-30 · Cline · [[Changes/Cline/2026-01-30-cli-authentication-added-vercel-ai-gateway-and-cline-api-key-provider-support-fo|CLI authentication: Added Vercel AI Gateway and Cline API key provider support…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

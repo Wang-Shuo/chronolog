@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e7aa9268580dcc0930b78abd4e50008075cb45662422d23cddc3b44dc3a8e3ba
+machine_hash: a3e936a497666793b7ed048086c7c9757767afead4cefe282e637fb2f316b4bc
 product: claude-code
 product_name: Claude Code
 record:
@@ -98,10 +98,10 @@ record:
   title: 19 Safety and Privacy changes in v2.1.290
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-01-7-safety-and-privacy-changes-in-rust-v0-160-0|7
-  Safety and Privacy changes in rust-v0.160.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-01-2-safety-and-privacy-changes-in-v1-0-91|2
   Safety and Privacy changes in v1.0.91]]'
+- '[[Changes/Lovable/2026-10-01-keep-your-workspace-s-ai-processing-in-the-eu|Keep
+  your workspace''s AI processing in the EU]]'
 - '[[Changes/Claude Code/2026-10-02-6-safety-and-privacy-changes-in-v2-1-288|6 Safety
   and Privacy changes in v2.1.288]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-05-v2-1-290-github-403993621-ae06f2b6|claude-code-2026-10-05-v2-1-290-github-403993621-ae06f2b6]]'

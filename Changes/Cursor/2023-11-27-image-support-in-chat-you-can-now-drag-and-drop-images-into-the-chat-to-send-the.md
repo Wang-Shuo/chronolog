@@ -4,20 +4,20 @@ date: '2023-11-27'
 description: 'Cursor · 2023-11-27 · Multimodal Input: Image Support in Chat: You can
   now drag and drop images into the chat to send them to the AI.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-09-25-you-can-now-show-chatgpt-one-or-more-images-troubleshoot-why-your-grill-won-t-st-e42bd6|Image
-    input will be generally available to Plus users on all platforms]]'
+  first_in_tracked: '[[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add
+    video to cn readme]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 63
+  lag_days: 69
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: b09889b30d7866f6ff0afae55073ac22dc2e9ff557e19972da369f870cebc0f2
+machine_hash: 4e62add283742445745f15652ff4101eb718e517031fb7ec3e43d334b87c16c3
 product: cursor
 product_name: Cursor
 record:
@@ -46,8 +46,12 @@ record:
   title: Image Support in Chat
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2023-09-25-you-can-now-show-chatgpt-one-or-more-images-troubleshoot-why-your-grill-won-t-st-e42bd6|Image
-  input will be generally available to Plus users on all platforms]]'
+- '[[Changes/Dify/2023-11-13-2-multimodal-input-changes-in-0-3-30|2 Multimodal Input
+  changes in 0.3.30]]'
+- '[[Changes/Dify/2023-11-21-feat-sdk-vision-support-by-garfielddai-in-https-github-com-langgenius-dify-pull|Feat/sdk
+  vision support]]'
+- '[[Changes/Gemini/2023-11-21-expanding-bard-s-understanding-of-youtube-videos|Expanding
+  Bard’s understanding of YouTube videos]]'
 source_release: '[[Releases/Cursor/cursor-2023-11-27-0-17-0-https-cursor-com-changelog-0-17-0-871d6ce3|cursor-2023-11-27-0-17-0-https-cursor-com-changelog-0-17-0-871d6ce3]]'
 source_type: cursor_changelog
 theme: multimodal
@@ -78,14 +82,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Multimodal Input
 
-- Earlier: 2023-09-25 · ChatGPT · [[Changes/ChatGPT/2023-09-25-you-can-now-show-chatgpt-one-or-more-images-troubleshoot-why-your-grill-won-t-st-e42bd6|Image input will be generally available to Plus users on all platforms]]
-- Later: 2024-04-21 · Aider · [[Changes/Aider/2024-04-21-4-turbo-vision|--4-turbo-vision]]
+- Earlier: 2023-11-21 · Gemini · [[Changes/Gemini/2023-11-21-expanding-bard-s-understanding-of-youtube-videos|Expanding Bard’s understanding of YouTube videos]]
+- Later: 2023-12-12 · Ollama · [[Changes/Ollama/2023-12-12-3-multimodal-input-changes-in-v0-1-15|3 Multimodal Input changes in v0.1.15]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-25 · ChatGPT · [[Changes/ChatGPT/2023-09-25-you-can-now-show-chatgpt-one-or-more-images-troubleshoot-why-your-grill-won-t-st-e42bd6|Image input will be generally available to Plus users on all platforms]]
+- Earliest same-theme entry in the tracked set: 2023-09-19 · Dify · [[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add video to cn readme]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

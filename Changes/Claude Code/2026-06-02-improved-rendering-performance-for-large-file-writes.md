@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 81795948e52943c5dfd141f62011d0850f6ab16cb195c8a867549fb9331a346a
+machine_hash: eecedacb98c0f3b0fe58664c5701dc610a68f3646b6af623137be40d44ede236
 product: claude-code
 product_name: Claude Code
 record:
@@ -41,10 +41,10 @@ record:
   title: Improved rendering performance for large file writes
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-28-renamed-the-effort-slider-labels-from-speed-intelligence-to-faster-smarter-for-c|Renamed
-  the /effort slider labels…]]'
 - '[[Changes/Claude Code/2026-05-29-improved-performance-of-long-and-resumed-conversations-by-eliminating-redundant|Improved
   performance of long and resumed conversations by eliminating redundant…]]'
+- '[[Changes/Open WebUI/2026-06-01-5-reliability-and-performance-changes-in-v0-9-6|5
+  Reliability and Performance changes in v0.9.6]]'
 - '[[Changes/Claude Code/2026-06-02-improved-auto-mode-classifier-latency-by-reducing-reasoning-on-routine-actions-l|Improved
   auto mode classifier latency by reducing reasoning on routine actions…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-02-v2-1-161-github-333271302-7337e6fa|claude-code-2026-06-02-v2-1-161-github-333271302-7337e6fa]]'

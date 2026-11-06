@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 615e96849648ab80fdd81db044c3781fbc71a3b9284ece2260db86a9b214b417
+machine_hash: 9f3149d1a5e9d450a7514c1d7ac7b3465c02f6bab0d8e3d8634c8088e4efb614
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -55,12 +55,12 @@ record:
   title: Server mode reconnects OAuth MCP servers from cached tokens
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-07-09-5-account-and-access-changes-in-rust-v0-144-0|5
-  Account and Access changes in rust-v0.144.0]]'
-- '[[Changes/Claude Code/2026-07-10-gateway-login-now-supports-anthropic-operated-public-gateway-endpoints|Gateway:
-  /login now supports Anthropic-operated public gateway endpoints]]'
-- '[[Changes/GitHub Copilot CLI/2026-07-10-2-account-and-access-changes-in-v1-0-70|2
-  Account and Access changes in v1.0.70]]'
+- '[[Changes/Lovable/2026-07-10-sign-in-to-lovable-from-your-identity-provider-s-portal|Sign
+  in to Lovable from your identity provider''s portal]]'
+- '[[Changes/Lovable/2026-07-15-email-alerts-for-sign-ins-from-a-new-device-and-country|Email
+  alerts for sign-ins from a new device and country]]'
+- '[[Changes/Lovable/2026-07-15-password-reset-is-unavailable-for-accounts-without-a-password|Password
+  reset is unavailable for accounts without a password]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-07-16-v1-0-71-github-354824472-a089f622|github-copilot-cli-2026-07-16-v1-0-71-github-354824472-a089f622]]'
 source_type: github_releases
 theme: account-access
@@ -103,8 +103,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-07-10 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-10-2-account-and-access-changes-in-v1-0-70|2 Account and Access changes in v1.0.70]]
-- Later: 2026-07-17 · Claude Code · [[Changes/Claude Code/2026-07-17-updated-the-auth-status-panel-title-from-cloud-authentication-to-authentication|Updated the auth status panel title from "Cloud authentication" to "Authentication"]]
+- Earlier: 2026-07-15 · Lovable · [[Changes/Lovable/2026-07-15-password-reset-is-unavailable-for-accounts-without-a-password|Password reset is unavailable for accounts without a password]]
+- Later: 2026-07-16 · Ollama · [[Changes/Ollama/2026-07-16-agent-web-search-and-fetch-now-tell-users-to-run-ollama-signin-when-authenticati|Agent web search and fetch now tell users to run ollama signin when authentication…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

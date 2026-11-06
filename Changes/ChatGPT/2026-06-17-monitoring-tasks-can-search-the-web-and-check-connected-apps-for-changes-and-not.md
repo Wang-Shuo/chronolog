@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 41c3953b3a55a962a45f13c339fed98a8d08c1c06fafcc9870c07c20ba6a2e83
+machine_hash: 0c226889a871c8e5d0148e8a3202c93e26fef47fd44cb7c97a2c5b04203d2cf2
 product: chatgpt
 product_name: ChatGPT
 record:

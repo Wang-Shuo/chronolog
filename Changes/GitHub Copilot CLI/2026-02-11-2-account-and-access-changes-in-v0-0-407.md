@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 21b50b8065ea45985f8ee9f14732d4bfcf1b3a74a3a84a92cd273e202db048f3
+machine_hash: ac7de01472507df2dc5abdd156064b142b6b6d6bd39f5a1cbd1ca78bec8e194d
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,8 +43,8 @@ record:
   title: 2 Account and Access changes in v0.0.407
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-02-05-2-account-and-access-changes-in-rust-v0-98-0|2 Account
-  and Access changes in rust-v0.98.0]]'
+- '[[Changes/Lovable/2026-02-05-a-new-banner-encouraging-email-and-password-users-to-enable-two-factor-authentic|A
+  new banner encouraging email and password users to enable two-factor…]]'
 - '[[Changes/Claude Code/2026-02-06-vscode-added-support-for-remote-sessions-allowing-oauth-users-to-browse-and-resu|VSCode:
   Added support for remote sessions, allowing OAuth users to browse and resume…]]'
 - '[[Changes/Gemini CLI/2026-02-10-test-core-mock-fetch-in-oauth-transport-fallback-tests-by-jw409-in-https-github|test(core):
@@ -91,7 +91,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v0.0.407
 ## Nearby in Account and Access
 
 - Earlier: 2026-02-10 · Gemini CLI · [[Changes/Gemini CLI/2026-02-10-test-core-mock-fetch-in-oauth-transport-fallback-tests-by-jw409-in-https-github|test(core): mock fetch in OAuth transport fallback tests]]
-- Later: 2026-02-12 · Cline · [[Changes/Cline/2026-02-12-2-account-and-access-changes-in-v3-58-0|2 Account and Access changes in v3.58.0]]
+- Later: 2026-02-11 · v0 · [[Changes/v0/2026-02-11-added-sso-page-for-team-specific-authentication|Added SSO page for team-specific authentication]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

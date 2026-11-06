@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4c7f003171ede6df0f1c1399d33f6a13755bba0ad22e82631c762bbabd687a40
+machine_hash: f1f365031cd19ee7395ad9262d67e28b8d16542b048c162fa72254558dd3b7bb
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,12 +48,11 @@ record:
   title: 3 Reliability and Performance changes in v2.1.208
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-07-5-reliability-and-performance-changes-in-v1-0-69|5
-  Reliability and Performance changes in v1.0.69]]'
 - '[[Changes/Claude Code/2026-07-08-auto-update-binary-downloads-now-stream-to-disk-instead-of-buffering-in-memory-c|Auto-update
   binary downloads now stream to disk instead of buffering in memory…]]'
 - '[[Changes/Codex CLI/2026-07-09-responses-websockets-continue-using-the-low-latency-transport-while-respecting-s|Responses
   WebSockets continue using the low-latency transport while respecting…]]'
+- '[[Changes/ElevenLabs/2026-07-13-packages|Packages]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-14-v2-1-208-github-353442054-2756b984|claude-code-2026-07-14-v2-1-208-github-353442054-2756b984]]'
 source_type: github_releases
 theme: reliability-performance
@@ -95,8 +94,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.208
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-07-09 · Codex CLI · [[Changes/Codex CLI/2026-07-09-responses-websockets-continue-using-the-low-latency-transport-while-respecting-s|Responses WebSockets continue using the low-latency transport while respecting…]]
-- Later: 2026-07-17 · Windsurf · [[Changes/Windsurf/2026-07-17-devin-cloud|Devin Cloud]]
+- Earlier: 2026-07-13 · ElevenLabs · [[Changes/ElevenLabs/2026-07-13-packages|Packages]]
+- Later: 2026-07-17 · Dify · [[Changes/Dify/2026-07-17-3-reliability-and-performance-changes-in-1-16-0|3 Reliability and Performance changes in 1.16.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

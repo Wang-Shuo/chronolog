@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8ec2859e0ada33a8e127763b63f3a1b5a41253c1f7919758bfb34df2c6b1387e
+machine_hash: 0360b814117d6db660d31def99e0a4c1c634704de8c973c6a72a433891764d92
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -57,12 +57,12 @@ record:
   title: 9 Collaboration changes in rust-v0.156.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-09-16-share-notes-md-now-writes-the-exported-session-to-your-home-directory-instead-of|--share=~/notes.md
-  now writes the exported session to your home directory instead…]]'
 - '[[Changes/Codex CLI/2026-09-17-44354-extract-shared-footer-hint-wrapping-in-the-tui-copyberry|♯44354
   Extract shared footer hint wrapping in the TUI @copyberry]]'
 - '[[Changes/Claude Code/2026-09-18-changed-ultrareview-in-non-interactive-sessions-to-refuse-when-the-repository-ha|Changed
   /ultrareview in non-interactive sessions to refuse when the repository has…]]'
+- '[[Changes/Open WebUI/2026-09-21-4-collaboration-changes-in-v0-11-4|4 Collaboration
+  changes in v0.11.4]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-09-22-rust-v0-156-0-github-394061815-b23dd5f4|codex-cli-2026-09-22-rust-v0-156-0-github-394061815-b23dd5f4]]'
 source_type: github_releases
 theme: collaboration
@@ -127,7 +127,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.156.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-09-18 · Claude Code · [[Changes/Claude Code/2026-09-18-changed-ultrareview-in-non-interactive-sessions-to-refuse-when-the-repository-ha|Changed /ultrareview in non-interactive sessions to refuse when the repository has…]]
+- Earlier: 2026-09-21 · Open WebUI · [[Changes/Open WebUI/2026-09-21-4-collaboration-changes-in-v0-11-4|4 Collaboration changes in v0.11.4]]
 - Later: 2026-09-22 · OpenHands · [[Changes/OpenHands/2026-09-22-test-strengthen-shared-utility-behavior-by-aivong-openhands-in-https-github-com|test: strengthen shared utility behavior]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4f045007b0dfa22f7e11e4ad36712b0cc31884da3d75a57b662cebe5e43dfbc0
+machine_hash: a9d6651f17b036346a3779d712a7b2db9393c65192c3183105acfec7d8b0576f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -58,12 +58,12 @@ record:
   title: Chat search for HubSpot and custom connectors (MCP) (Pro)
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-07-19-https-github-com-openai-codex-pull-1571-fixes-a-longstanding-issue-where-we-fail|(source
-  link) fixes a longstanding issue where we failed…]]'
-- '[[Changes/Gemini CLI/2025-07-19-12-apps-and-integrations-changes-in-v0-1-13|12
-  Apps and Integrations changes in v0.1.13]]'
+- "[[Changes/Open WebUI/2025-07-19-cleaner-database-credentials-database-connection-no-longer-duplicates-in-credent|\U0001F9F9
+  Cleaner Database Credentials]]"
 - '[[Changes/Codex CLI/2025-07-23-numerous-fixes-to-codex-mcp|Numerous fixes to codex
   mcp]]'
+- '[[Changes/Dify/2025-07-23-10-apps-and-integrations-changes-in-1-7-0|10 Apps and
+  Integrations changes in 1.7.0]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-07-24-chat-search-for-hubspot-and-custom-connectors-mcp-pro-f49427a3|chatgpt-2025-07-24-chat-search-for-hubspot-and-custom-connectors-mcp-pro-f49427a3]]'
 source_type: chatgpt_changelog
 theme: apps-integrations
@@ -90,7 +90,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-07-23 · Codex CLI · [[Changes/Codex CLI/2025-07-23-numerous-fixes-to-codex-mcp|Numerous fixes to codex mcp]]
+- Earlier: 2025-07-23 · Dify · [[Changes/Dify/2025-07-23-10-apps-and-integrations-changes-in-1-7-0|10 Apps and Integrations changes in 1.7.0]]
 - Later: 2025-07-24 · OpenHands · [[Changes/OpenHands/2025-07-24-2-apps-and-integrations-changes-in-0-50-0|2 Apps and Integrations changes in 0.50.0]]
 <!-- chronolog:end -->
 

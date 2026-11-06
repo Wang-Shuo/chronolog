@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: aa0ff40d5a1ba8d2e6ba1b48cb0c8a3e631586863f31ffefa510da68ae7e5102
+machine_hash: 28274d39cfd45f9e2af9cdc0be491f990fd3aedb29e74fd89776fe6962a6814e
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,12 +46,12 @@ record:
   title: 2 Account and Access changes in v2.1.265
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-03-42128-https-github-com-openai-codex-pull-42128-prepare-mcp-connections-for-coord|♯42128((source
-  link) Prepare MCP connections…]]'
 - '[[Changes/Claude Code/2026-09-04-2-account-and-access-changes-in-v2-1-261|2 Account
   and Access changes in v2.1.261]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-04-3-account-and-access-changes-in-v1-0-83|3
   Account and Access changes in v1.0.83]]'
+- '[[Changes/Lovable/2026-09-07-send-app-emails-from-tanstack-start-projects-without-cloud|Send
+  app emails from TanStack Start projects without Cloud]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-08-v2-1-265-github-384990084-dc34b405|claude-code-2026-09-08-v2-1-265-github-384990084-dc34b405]]'
 source_type: github_releases
 theme: account-access
@@ -88,8 +88,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.265
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-09-04 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-04-3-account-and-access-changes-in-v1-0-83|3 Account and Access changes in v1.0.83]]
-- Later: 2026-09-09 · Codex CLI · [[Changes/Codex CLI/2026-09-09-5-account-and-access-changes-in-rust-v0-154-0|5 Account and Access changes in rust-v0.154.0]]
+- Earlier: 2026-09-07 · Lovable · [[Changes/Lovable/2026-09-07-send-app-emails-from-tanstack-start-projects-without-cloud|Send app emails from TanStack Start projects without Cloud]]
+- Later: 2026-09-08 · Lovable · [[Changes/Lovable/2026-09-08-lovable-signs-in-to-test-pages-behind-your-app-s-login|Lovable signs in to test pages behind your app's login]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

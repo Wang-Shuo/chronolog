@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: cfcc7f0135a57765aa23bbcc33f1e188c6f7310f93b138fb4a5ea3ea0b74ea2f
+machine_hash: e46223936bbbed2a963578cde144dd7ff3ed32ea24286b5881900144631c4c59
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
   title: The `/usage` breakdown now includes large session files
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-21-2-reliability-and-performance-changes-in-v2-1-146|2
-  Reliability and Performance changes in v2.1.146]]'
 - '[[Changes/Claude Code/2026-05-21-3-reliability-and-performance-changes-in-v2-1-147|3
   Reliability and Performance changes in v2.1.147]]'
 - '[[Changes/Codex CLI/2026-05-21-23578-fix-app-server-speed-up-shutdown-fcoury-oai|♯23578
   fix(app-server): speed up shutdown @fcoury-oai]]'
+- '[[Changes/Lovable/2026-05-24-lovable-cloud-database-health-check|Lovable Cloud
+  database health check]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-27-v2-1-152-github-329718732-e62ea850|claude-code-2026-05-27-v2-1-152-github-329718732-e62ea850]]'
 source_type: github_releases
 theme: reliability-performance
@@ -87,8 +87,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-05-21 · Codex CLI · [[Changes/Codex CLI/2026-05-21-23578-fix-app-server-speed-up-shutdown-fcoury-oai|♯23578 fix(app-server): speed up shutdown @fcoury-oai]]
-- Later: 2026-05-28 · Claude Code · [[Changes/Claude Code/2026-05-28-claude-code-now-shows-a-one-time-notice-when-your-npm-global-install-can-t-auto|Claude Code now shows a one-time notice when your npm global install can't auto-update]]
+- Earlier: 2026-05-24 · Lovable · [[Changes/Lovable/2026-05-24-lovable-cloud-database-health-check|Lovable Cloud database health check]]
+- Later: 2026-05-27 · Lovable · [[Changes/Lovable/2026-05-27-faster-app-previews-across-regions|Faster app previews across regions]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

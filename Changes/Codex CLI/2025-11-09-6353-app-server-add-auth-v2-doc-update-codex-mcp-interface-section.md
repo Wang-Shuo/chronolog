@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e1de879229acea13e9bddee7d10c7a6e2642b7ba1c87de84b303355340b359fb
+machine_hash: 035200cfbef9ebdf350fca5220c6476ee2b1605707eab80c535ec35376d2d31f
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -41,12 +41,12 @@ record:
   title: '#6353 – App-server: add auth v2 doc & update Codex MCP interface section'
   type: change
 related_changes:
-- '[[Changes/Cline/2025-11-07-add-mcp-tool-usage-to-glm-prompt-by-canvrno-in-https-github-com-cline-cline-pull|Add
-  MCP tool usage to GLM prompt]]'
 - '[[Changes/Codex CLI/2025-11-07-6237-add-modelreasoningeffort-option-to-typescript-sdk|♯6237
   Add modelReasoningEffort option to TypeScript SDK]]'
 - '[[Changes/Gemini CLI/2025-11-07-9-apps-and-integrations-changes-in-v0-13-0|9 Apps
   and Integrations changes in v0.13.0]]'
+- '[[Changes/Replit/2025-11-07-connectors-support-for-remixing|Connectors support
+  for remixing]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-11-09-rust-v0-57-0-github-260963239-baa7573b|codex-cli-2025-11-09-rust-v0-57-0-github-260963239-baa7573b]]'
 source_type: github_releases
 theme: apps-integrations
@@ -79,8 +79,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-11-07 · Gemini CLI · [[Changes/Gemini CLI/2025-11-07-9-apps-and-integrations-changes-in-v0-13-0|9 Apps and Integrations changes in v0.13.0]]
-- Later: 2025-11-13 · Cline · [[Changes/Cline/2025-11-13-3-apps-and-integrations-changes-in-v3-37-0|3 Apps and Integrations changes in v3.37.0]]
+- Earlier: 2025-11-07 · Replit · [[Changes/Replit/2025-11-07-connectors-support-for-remixing|Connectors support for remixing]]
+- Later: 2025-11-10 · v0 · [[Changes/v0/2025-11-10-stripe-is-now-a-native-integration-in-v0|Stripe Integration]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

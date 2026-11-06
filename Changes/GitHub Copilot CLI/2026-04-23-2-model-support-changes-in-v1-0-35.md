@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f9c8931ca06a74ed4ed94c9419850b8ffc365739191d4aebb5a2d4c1500389df
+machine_hash: eae7fb6e1493970d5796b2a043eab5eacaad4326edbde836d02a53135186e35b
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -92,7 +92,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.35
 ## Nearby in Model Support
 
 - Earlier: 2026-04-23 · Gemini CLI · [[Changes/Gemini CLI/2026-04-23-2-model-support-changes-in-v0-39-0|2 Model Support changes in v0.39.0]]
-- Later: 2026-04-24 · Cline · [[Changes/Cline/2026-04-24-add-gpt-5-5-model-support-for-openai-codex-subscription-users|Add GPT-5.5 model support for OpenAI Codex subscription users]]
+- Later: 2026-04-23 · Ollama · [[Changes/Ollama/2026-04-23-recommended-models-in-ollama-launch-now-appear-in-a-fixed-canonical-order|Recommended models in ollama launch now appear in a fixed, canonical order]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

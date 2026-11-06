@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 46f197407d44f49c7b3107cbb2eddc5631166a4eac1f1c98ff409c95d44a4526
+machine_hash: e181cade18d6c50b2c57b1e28b1e0c693b8d86e1e6be73e4832f1f281573c651
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -86,7 +86,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-04-10 · Codex CLI · [[Changes/Codex CLI/2026-04-10-13-agent-mode-changes-in-rust-v0-119-0|13 Agent Mode changes in rust-v0.119.0]]
-- Later: 2026-04-11 · Codex CLI · [[Changes/Codex CLI/2026-04-11-4-agent-mode-changes-in-rust-v0-120-0|4 Agent Mode changes in rust-v0.120.0]]
+- Later: 2026-04-10 · Replit · [[Changes/Replit/2026-04-10-agent|Agent]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7c5a0dc00d0961912a738ef7b756cc77d34dddfe4c75ee4f767349f27badeed0
+machine_hash: 3a7bc05269577393361f6c56ba736b7a27ae55a43d745e239445aea27df2a075
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,9 +47,8 @@ record:
     tool…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-08-17-app-extensions-for-cursor-repos|App extensions for
-  Cursor repos]]'
 - '[[Changes/Cursor/2026-08-17-settings|Settings]]'
+- '[[Changes/ElevenLabs/2026-08-17-sdk-releases|SDK Releases]]'
 - '[[Changes/Codex CLI/2026-08-18-57-apps-and-integrations-changes-in-rust-v0-148-0|57
   Apps and Integrations changes in rust-v0.148.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-19-v2-1-236-github-373272539-bbbacf79|claude-code-2026-08-19-v2-1-236-github-373272539-bbbacf79]]'
@@ -90,7 +89,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-08-18 · Codex CLI · [[Changes/Codex CLI/2026-08-18-57-apps-and-integrations-changes-in-rust-v0-148-0|57 Apps and Integrations changes in rust-v0.148.0]]
-- Later: 2026-08-20 · ChatGPT · [[Changes/ChatGPT/2026-08-20-use-apple-messages-from-codex-and-chatgpt-work-on-apple-silicon-macs-the-apple-m|Use Apple Messages from Codex and ChatGPT Work]]
+- Later: 2026-08-19 · Lovable · [[Changes/Lovable/2026-08-19-per-user-access-for-amazon-redshift|Per-user access for Amazon Redshift]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

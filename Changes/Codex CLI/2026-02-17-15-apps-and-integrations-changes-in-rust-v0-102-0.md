@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5e4f0988590c693b339c22a4151db6ea7605626e10ea2ec30ce1131caf6f7882
+machine_hash: 6a5e4055b0501f9298537df8cb28c9e9684ccb6ab58fc420f9fcef3da1420a7c
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -70,10 +70,8 @@ record:
   title: 15 Apps and Integrations changes in rust-v0.102.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-02-12-2-apps-and-integrations-changes-in-v0-0-409|2
-  Apps and Integrations changes in v0.0.409]]'
-- '[[Changes/GitHub Copilot CLI/2026-02-14-3-apps-and-integrations-changes-in-v0-0-410|3
-  Apps and Integrations changes in v0.0.410]]'
+- '[[Changes/ElevenLabs/2026-02-16-python-sdk|Python SDK]]'
+- '[[Changes/ElevenLabs/2026-02-16-sdk-releases|SDK Releases]]'
 - '[[Changes/Claude Code/2026-02-17-2-apps-and-integrations-changes-in-v2-1-45|2 Apps
   and Integrations changes in v2.1.45]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-02-17-rust-v0-102-0-github-287401154-1bf3dbd0|codex-cli-2026-02-17-rust-v0-102-0-github-287401154-1bf3dbd0]]'

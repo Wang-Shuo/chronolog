@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f7a010aeab4fc808e1a3f7e6b65518ec6bf6b1c8bd0134aa184c25fb394d6cf3
+machine_hash: ab907fc4117e6fd3f364d6255170224b6e4da35b91c2ec5781b78e72f0cc6181
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,9 +44,9 @@ record:
   title: Improved startup time and memory use by building only the parts of the settings…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-22-45960-tag-memory-usage-telemetry-with-the-memory-version-jif-oai|♯45960
-  Tag memory usage telemetry with the memory version @jif-oai]]'
 - '[[Changes/Cursor/2026-09-23-deploy-tracking|Deploy tracking]]'
+- '[[Changes/Ollama/2026-09-23-2-reliability-and-performance-changes-in-v0-34-4|2
+  Reliability and Performance changes in v0.34.4]]'
 - '[[Changes/Claude Code/2026-09-25-2-reliability-and-performance-changes-in-v2-1-283|2
   Reliability and Performance changes in v2.1.283]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-28-v2-1-284-github-398457074-cbb49e49|claude-code-2026-09-28-v2-1-284-github-398457074-cbb49e49]]'

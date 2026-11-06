@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: a6c864ad51050f40d46324503c59ee20d9ae7529614cbbd0576d055a3ae776b5
+machine_hash: 1493812eae887b3741135cec26306edb760e4dc15089dbdabd9a3113cfce5383
 product: cursor
 product_name: Cursor
 record:
@@ -45,12 +45,12 @@ record:
   title: Share prompts with deeplinks (beta)
   type: change
 related_changes:
-- '[[Changes/Cline/2025-08-16-focus-chain-regex-moved-to-shared-by-canvrno-in-https-github-com-cline-cline-pul|Focus
-  Chain regex moved to /shared]]'
-- '[[Changes/Gemini CLI/2025-09-04-2-collaboration-changes-in-v0-3-0|2 Collaboration
-  changes in v0.3.0]]'
+- "[[Changes/Dify/2025-09-22-customize-and-share-pipelines-by-importing-exporting-via-dsl-for-easier-reusabil|\U0001F504
+  Customize and share pipelines by importing/exporting via DSL for easier…]]"
 - '[[Changes/Codex CLI/2025-09-23-3878-move-responses-mocking-helpers-to-a-shared-lib-3878|♯3878
   Move responses mocking helpers to a shared lib (♯3878)]]'
+- '[[Changes/Open WebUI/2025-09-25-editor-collaboration-functionality-was-refactored-to-reduce-package-size-by-390k|⚡
+  Editor collaboration functionality was refactored to reduce package size by 390KB…]]'
 source_release: '[[Releases/Cursor/cursor-2025-09-29-1-7-https-cursor-com-changelog-1-7-0a03c0ae|cursor-2025-09-29-1-7-https-cursor-com-changelog-1-7-0a03c0ae]]'
 source_type: cursor_changelog
 theme: collaboration
@@ -97,7 +97,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2025-09-23 · Codex CLI · [[Changes/Codex CLI/2025-09-23-3878-move-responses-mocking-helpers-to-a-shared-lib-3878|♯3878 Move responses mocking helpers to a shared lib (♯3878)]]
+- Earlier: 2025-09-25 · Open WebUI · [[Changes/Open WebUI/2025-09-25-editor-collaboration-functionality-was-refactored-to-reduce-package-size-by-390k|⚡ Editor collaboration functionality was refactored to reduce package size by 390KB…]]
 - Later: 2025-10-01 · Gemini CLI · [[Changes/Gemini CLI/2025-10-01-support-rendering-function-calls-and-responses-when-sharing-chat-to-markdown-by|Support rendering function calls and responses when sharing chat to markdown]]
 <!-- chronolog:end -->
 

@@ -5,20 +5,20 @@ description: 'Claude Code · 2026-04-28 · Voice and Audio: [VSCode] Voice dicta
   now respects the `accessibility.voice.speechLanguage` setting when no Claude Code
   language…'
 diffusion:
-  first_in_tracked: '[[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source
-    link) support, which allows you…]]'
+  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
+    Voice and Audio changes in 0.3.7]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 991
+  lag_days: 1023
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 39b314eba8ad92ec775d8fefaaa87355355ec2ba1f1048e8e506bc7ee847d747
+machine_hash: 2288a9821cfd7f979e51645339009a16d19244ad1c4752b1718e5946b1571718
 product: claude-code
 product_name: Claude Code
 record:
@@ -53,11 +53,9 @@ record:
   title: '[VSCode] Voice dictation now respects the `accessibility.voice.speechLanguage`…'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-04-10-3-voice-and-audio-changes-in-rust-v0-119-0|3 Voice
-  and Audio changes in rust-v0.119.0]]'
-- '[[Changes/Cursor/2026-04-13-prompt-buttons-now-stay-in-place-while-voice-input-is-processing|Prompt
-  buttons now stay in place while voice input is processing]]'
-- '[[Changes/Cursor/2026-04-13-upgraded-voice-input-26be2e|Upgraded voice input]]'
+- '[[Changes/ElevenLabs/2026-04-27-elevenagents|ElevenAgents]]'
+- '[[Changes/ElevenLabs/2026-04-27-speech-to-text|Speech to Text]]'
+- '[[Changes/ElevenLabs/2026-04-27-javascript-sdk|JavaScript SDK]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-28-v2-1-121-github-314262096-ff31d5ce|claude-code-2026-04-28-v2-1-121-github-314262096-ff31d5ce]]'
 source_type: github_releases
 theme: voice
@@ -93,14 +91,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-04-13 · Cursor · [[Changes/Cursor/2026-04-13-upgraded-voice-input-26be2e|Upgraded voice input]]
+- Earlier: 2026-04-27 · ElevenLabs · [[Changes/ElevenLabs/2026-04-27-javascript-sdk|JavaScript SDK]]
 - Later: 2026-04-28 · Claude Code · [[Changes/Claude Code/2026-04-28-voice-mode-keybindings-bound-to-caps-lock-now-show-an-error-since-terminals-don|Voice mode: keybindings bound to Caps Lock now show an error since terminals don't…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-08-11 · Aider · [[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source link) support, which allows you…]]
+- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

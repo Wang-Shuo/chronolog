@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: bb4d5c16aed79d050a113af5d7e5fa092449c843487affbd6cbf8c41b5cf33e6
+machine_hash: e6ef3a78e68b045d83aacd8ef71d70a58fa1688009e5a10a70f25ce3869cb320
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,12 +45,12 @@ record:
     runs
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-19-2-model-support-changes-in-v2-1-304|2 Model Support
-  changes in v2.1.304]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-19-3-model-support-changes-in-v1-0-100|3 Model
   Support changes in v1.0.100]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-20-8-model-support-changes-in-v1-0-101|8 Model
   Support changes in v1.0.101]]'
+- '[[Changes/Lovable/2026-10-20-seedream-5-pro-and-seedance-2-5-for-your-app-s-ai-features|Seedream
+  5 Pro and Seedance 2.5 for your app''s AI features]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-10-21-v1-0-102-github-419886241-eab5a98d|github-copilot-cli-2026-10-21-v1-0-102-github-419886241-eab5a98d]]'
 source_type: github_releases
 theme: model-support
@@ -83,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-10-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-20-8-model-support-changes-in-v1-0-101|8 Model Support changes in v1.0.101]]
+- Earlier: 2026-10-20 · Lovable · [[Changes/Lovable/2026-10-20-seedream-5-pro-and-seedance-2-5-for-your-app-s-ai-features|Seedream 5 Pro and Seedance 2.5 for your app's AI features]]
 - Later: 2026-10-22 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-22-3-model-support-changes-in-v1-0-103|3 Model Support changes in v1.0.103]]
 <!-- chronolog:end -->
 

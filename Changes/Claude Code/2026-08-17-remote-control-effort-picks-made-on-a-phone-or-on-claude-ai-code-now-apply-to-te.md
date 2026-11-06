@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 050811dd335349cebb99e67c458b402db187518f1aaa95e41616199cd8040be9
+machine_hash: f0341bf3db823a71a0c6750e2416490373347ce051a3c4cda9c154c4533d7918
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,11 +43,11 @@ record:
   title: 'Remote Control: effort picks made on a phone or on claude.ai/code now apply…'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-13-remote-control-the-terminal-now-says-whether-a-session-was-taken-over-by-another|Remote
-  Control: the terminal now says whether a session was taken over by another…]]'
 - '[[Changes/Cursor/2026-08-13-build-history-and-debugging|Build history and debugging]]'
 - '[[Changes/Claude Code/2026-08-14-added-gitlab-merge-request-url-support-to-the-worktree-flag-and-the-claude-agent|Added
   GitLab merge request URL support to the --worktree flag…]]'
+- '[[Changes/v0/2026-08-14-4-developer-workflow-changes-in-a-redesigned-sidebar-a-richer|4
+  Developer Workflow changes in A redesigned sidebar, a richer…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-17-v2-1-234-github-371864218-2ca32673|claude-code-2026-08-17-v2-1-234-github-371864218-2ca32673]]'
 source_type: github_releases
 theme: developer-workflow
@@ -84,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-08-14 · Claude Code · [[Changes/Claude Code/2026-08-14-added-gitlab-merge-request-url-support-to-the-worktree-flag-and-the-claude-agent|Added GitLab merge request URL support to the --worktree flag…]]
+- Earlier: 2026-08-14 · v0 · [[Changes/v0/2026-08-14-4-developer-workflow-changes-in-a-redesigned-sidebar-a-richer|4 Developer Workflow changes in A redesigned sidebar, a richer…]]
 - Later: 2026-08-18 · Codex CLI · [[Changes/Codex CLI/2026-08-18-5-developer-workflow-changes-in-rust-v0-148-0|5 Developer Workflow changes in rust-v0.148.0]]
 <!-- chronolog:end -->
 

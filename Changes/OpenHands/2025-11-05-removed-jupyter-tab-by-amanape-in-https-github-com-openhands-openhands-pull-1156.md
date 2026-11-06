@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 02c6588e662c9306848b38f206886cf87b8b3097437efece2d33b8798c717ea0
+machine_hash: d689e3fa75a1519bd01fc3f93ba4d65fcd513e2e45beb6785b37b9c6e8bd6288
 product: openhands
 product_name: OpenHands
 record:
@@ -41,8 +41,8 @@ record:
   title: Removed Jupyter tab
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-10-30-chore-config-editor-in-https-github-com-openai-codex-pull-5878|chore:
-  config editor in (source link)]]'
+- '[[Changes/v0/2025-10-30-you-can-now-edit-images-using-nano-banana-in-v0-turn-on-design-mode-select-an-im|Image
+  Editing with Nano Banana]]'
 - '[[Changes/GitHub Copilot CLI/2025-11-03-diff-hunk-lines-now-properly-fill-the-width-of-the-diff-box|Diff
   hunk lines now properly fill the width of the diff box]]'
 - '[[Changes/Windsurf/2025-11-04-editor-stability|Editor Stability]]'

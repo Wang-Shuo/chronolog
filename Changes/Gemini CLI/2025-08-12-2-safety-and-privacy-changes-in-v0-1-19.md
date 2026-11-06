@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d43b27baa1584b94012c883d3d62ed30bca38d1e7ff64c85a9e5b6ecdc246852
+machine_hash: bbb2b1a183d9884f381ad9b659b856354bcae03c7dd4db75162d98bdf1678f04
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -43,12 +43,12 @@ record:
   title: 2 Safety and Privacy changes in v0.1.19
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-08-05-4-safety-and-privacy-changes-in-v0-1-17|4 Safety
-  and Privacy changes in v0.1.17]]'
-- '[[Changes/Gemini CLI/2025-08-06-4-safety-and-privacy-changes-in-v0-1-18|4 Safety
-  and Privacy changes in v0.1.18]]'
-- '[[Changes/Codex CLI/2025-08-07-new-onboarding-flow-that-uses-sandbox-workspace-write-and-ask-for-approval-on-re|new
-  onboarding flow that uses…]]'
+- '[[Changes/Open WebUI/2025-08-09-10-safety-and-privacy-changes-in-v0-6-19|10 Safety
+  and Privacy changes in v0.6.19]]'
+- "[[Changes/Open WebUI/2025-08-10-opentelemetry-configuration-consistency-fixed-an-issue-where-opentelemetry-metri|\U0001F6E0️
+  OpenTelemetry Configuration Consistency]]"
+- '[[Changes/Dify/2025-08-11-3-safety-and-privacy-changes-in-1-7-2|3 Safety and Privacy
+  changes in 1.7.2]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-08-12-v0-1-19-github-239452049-c4d9f679|gemini-cli-2025-08-12-v0-1-19-github-239452049-c4d9f679]]'
 source_type: github_releases
 theme: safety-privacy
@@ -92,7 +92,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.1.19
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2025-08-07 · Codex CLI · [[Changes/Codex CLI/2025-08-07-new-onboarding-flow-that-uses-sandbox-workspace-write-and-ask-for-approval-on-re|new onboarding flow that uses…]]
+- Earlier: 2025-08-11 · Dify · [[Changes/Dify/2025-08-11-3-safety-and-privacy-changes-in-1-7-2|3 Safety and Privacy changes in 1.7.2]]
 - Later: 2025-08-13 · Gemini CLI · [[Changes/Gemini CLI/2025-08-13-ensure-sandbox-build-script-is-cross-platform-by-wldoooon-in-https-github-com-go|ensure sandbox build script is cross-platform]]
 <!-- chronolog:end -->
 

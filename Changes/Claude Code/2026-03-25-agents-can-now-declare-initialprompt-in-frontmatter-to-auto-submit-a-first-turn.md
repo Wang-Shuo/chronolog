@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1812356cc60ce86b21e4a32cd898604ce695f4a3245c810eede92a084f51ba50
+machine_hash: 97725cd032488adeee47bc28432f0da4bbc7abbd1fcaeb975bd05509440857cd
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,8 +43,7 @@ record:
     turn
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-19-5-agent-mode-changes-in-rust-v0-116-0|5 Agent Mode
-  changes in rust-v0.116.0]]'
+- '[[Changes/ElevenLabs/2026-03-23-python-sdk|Python SDK]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-23-2-agent-mode-changes-in-v1-0-11|2 Agent
   Mode changes in v1.0.11]]'
 - '[[Changes/Gemini CLI/2026-03-24-10-agent-mode-changes-in-v0-35-0|10 Agent Mode

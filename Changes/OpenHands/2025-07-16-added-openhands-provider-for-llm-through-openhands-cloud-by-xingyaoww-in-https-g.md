@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 920822ef29d25f45533b9a11e048dd5d57de0dcce84e35cae7b9fc626534b0ad
+machine_hash: 08fcd7745efd1902fb4b4670e7bd4be96e22f47422e9f1b40556dc6df116362a
 product: openhands
 product_name: OpenHands
 record:
@@ -42,10 +42,10 @@ record:
   title: Added OpenHands provider for LLM through OpenHands Cloud
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-07-10-added-new-config-option-model-supports-reasoning-summaries-https-github-com-open|Added
-  new config option]]'
 - '[[Changes/Gemini CLI/2025-07-11-5-model-support-changes-in-v0-1-10|5 Model Support
   changes in v0.1.10]]'
+- '[[Changes/Open WebUI/2025-07-14-6-model-support-changes-in-v0-6-16|6 Model Support
+  changes in v0.6.16]]'
 - '[[Changes/Cline/2025-07-15-add-kimi-k2-as-trending-model-by-celestial-vault-in-https-github-com-cline-cline|Add
   kimi-k2 as trending model]]'
 source_release: '[[Releases/OpenHands/openhands-2025-07-16-0-49-0-github-232847111-e4746322|openhands-2025-07-16-0-49-0-github-232847111-e4746322]]'
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2025-07-15 · Cline · [[Changes/Cline/2025-07-15-add-kimi-k2-as-trending-model-by-celestial-vault-in-https-github-com-cline-cline|Add kimi-k2 as trending model]]
-- Later: 2025-07-19 · Codex CLI · [[Changes/Codex CLI/2025-07-19-as-of-https-github-com-openai-codex-pull-1594-we-now-stream-the-response-from-th|As of (source link) we now stream the response…]]
+- Later: 2025-07-18 · Replit · [[Changes/Replit/2025-07-18-llm-routing-improvements|LLM routing improvements]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

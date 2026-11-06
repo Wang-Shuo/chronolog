@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 308845e43c749954caff4d1162b5b52c723bc8f8d305f9a148f0ea37a5273a51
+machine_hash: ed8fb4e0533b08b2251f1b9e76423d0c67cbcf9766c34561f137753e65fe505d
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -48,12 +48,12 @@ record:
   title: 5 Model Support changes in rust-v0.24.0
   type: change
 related_changes:
-- '[[Changes/Cline/2025-08-21-feat-sap-provider-show-deployed-models-from-the-ai-core-service-instance-alongsi|feat:
-  sap provider - show deployed models from the ai core service instance…]]'
-- '[[Changes/Cline/2025-08-21-removing-max-tokens-from-sonic-model-by-pashpashpash-in-https-github-com-cline-c|removing
-  max tokens from sonic model]]'
 - '[[Changes/Cursor/2025-08-21-2-model-support-changes-in-1-5|2 Model Support changes
   in 1.5]]'
+- '[[Changes/Open WebUI/2025-08-21-7-model-support-changes-in-v0-6-23|7 Model Support
+  changes in v0.6.23]]'
+- '[[Changes/Ollama/2025-08-25-3-model-support-changes-in-v0-11-7|3 Model Support
+  changes in v0.11.7]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-08-26-rust-v0-24-0-github-242647588-70fa432e|codex-cli-2025-08-26-rust-v0-24-0-github-242647588-70fa432e]]'
 source_type: github_releases
 theme: model-support
@@ -103,8 +103,8 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.24.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-08-21 · Cursor · [[Changes/Cursor/2025-08-21-2-model-support-changes-in-1-5|2 Model Support changes in 1.5]]
-- Later: 2025-08-28 · Cline · [[Changes/Cline/2025-08-28-2-model-support-changes-in-v3-26-6|2 Model Support changes in v3.26.6]]
+- Earlier: 2025-08-25 · Ollama · [[Changes/Ollama/2025-08-25-3-model-support-changes-in-v0-11-7|3 Model Support changes in v0.11.7]]
+- Later: 2025-08-27 · Dify · [[Changes/Dify/2025-08-27-9-model-support-changes-in-1-8-0|9 Model Support changes in 1.8.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

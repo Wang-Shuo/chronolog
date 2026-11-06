@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ae81c1bb2b7d668c275f91ce5e29c1ed95438082b051301ca726df429d03ec99
+machine_hash: eacbd684f6e9b57a163fbda851982a1c3b77ccc177217e5ccf6ebe558538cad1
 product: cursor
 product_name: Cursor
 record:
@@ -44,8 +44,8 @@ record:
     flows…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-01-16-2-account-and-access-changes-in-v0-0-384|2
-  Account and Access changes in v0.0.384]]'
+- '[[Changes/Lovable/2026-01-16-two-factor-authentication-2fa|Two-factor authentication
+  (2FA)]]'
 - '[[Changes/Gemini CLI/2026-01-21-feat-admin-prompt-user-to-restart-the-cli-if-they-change-auth-to-oauth-mid-sessi|feat(admin):
   prompt user to restart the CLI if they change auth to oauth mid-session…]]'
 - '[[Changes/Claude Code/2026-01-22-vscode-added-ability-for-oauth-users-to-browse-and-resume-remote-claude-sessions|VSCode

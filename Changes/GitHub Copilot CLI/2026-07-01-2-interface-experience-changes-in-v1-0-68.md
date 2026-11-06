@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1ca10335efdd9232f55a45ad4cbbe705262662c15089b9a2d3463559adfe064b
+machine_hash: f48423e163dd4cd266c28150292e5ec4b38bece8d9b681d99f5065c5908defe6
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -42,8 +42,8 @@ record:
   title: 2 Interface Experience changes in v1.0.68
   type: change
 related_changes:
-- '[[Changes/Cline/2026-06-29-fully-remove-the-clinepass-feature-flag-so-clinepass-is-available-everywhere-in|Fully
-  remove the ClinePass feature flag so ClinePass is available everywhere in the UI]]'
+- '[[Changes/Open WebUI/2026-06-29-14-interface-experience-changes-in-v0-10-0|14 Interface
+  Experience changes in v0.10.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-30-3-interface-experience-changes-in-v1-0-66|3
   Interface Experience changes in v1.0.66]]'
 - '[[Changes/Claude Code/2026-07-01-2-interface-experience-changes-in-v2-1-198|2 Interface
@@ -89,7 +89,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.68
 ## Nearby in Interface Experience
 
 - Earlier: 2026-07-01 · Claude Code · [[Changes/Claude Code/2026-07-01-2-interface-experience-changes-in-v2-1-198|2 Interface Experience changes in v2.1.198]]
-- Later: 2026-07-03 · Claude Code · [[Changes/Claude Code/2026-07-03-changed-askuserquestion-dialogs-to-no-longer-auto-continue-by-default-opt-into-a|Changed AskUserQuestion dialogs to no longer auto-continue by default]]
+- Later: 2026-07-01 · Open WebUI · [[Changes/Open WebUI/2026-07-01-2-interface-experience-changes-in-v0-10-2|2 Interface Experience changes in v0.10.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b37f2db1af5fece9f038cfff74949d7b5e7e53ad5e996524c221771bb083d868
+machine_hash: e067dea92cf79b9350146e7277005f85242aa90f6dac115bb42905ad913b3171
 product: cursor
 product_name: Cursor
 record:
@@ -41,12 +41,12 @@ record:
   title: Keychords now use Cmd+R/Ctrl+R
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-07-07-better-symbol-keyboard-ergonomics|Better @ symbol keyboard
-  ergonomics]]'
 - '[[Changes/Cursor/2023-07-07-chat-edit-tooltip-blocks-less-code-3a1e6b|Chat/Edit
   tooltip blocks less code]]'
 - '[[Changes/Cursor/2023-07-27-c-and-f-now-properly-render-in-the-chat|C♯ and F♯ now
   properly render in the chat]]'
+- '[[Changes/Ollama/2023-08-02-more-seamless-updates-ollama-will-now-show-a-subtle-hint-that-an-update-is-ready|More
+  seamless updates]]'
 source_release: '[[Releases/Cursor/cursor-2023-08-17-0-7-14-nightly-https-cursor-com-changelog-0-7-14-nightly-b6b0c549|cursor-2023-08-17-0-7-14-nightly-https-cursor-com-changelog-0-7-14-nightly-b6b0c549]]'
 source_type: cursor_changelog
 theme: interface-experience
@@ -75,7 +75,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2023-07-27 · Cursor · [[Changes/Cursor/2023-07-27-c-and-f-now-properly-render-in-the-chat|C♯ and F♯ now properly render in the chat]]
+- Earlier: 2023-08-02 · Ollama · [[Changes/Ollama/2023-08-02-more-seamless-updates-ollama-will-now-show-a-subtle-hint-that-an-update-is-ready|More seamless updates]]
 - Later: 2023-08-21 · Cursor · [[Changes/Cursor/2023-08-21-nicer-error-messages-in-the-chat-fewer-annoying-popups-782655|Nicer error messages in the chat!]]
 <!-- chronolog:end -->
 

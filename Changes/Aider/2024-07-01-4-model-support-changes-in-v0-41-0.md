@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0f2bdd164342c10c727b099d1c175959e5ba3823902e21a2f0cc52c69683d376
+machine_hash: dc46f1bf0da5c14da0e32e9909ef5a42d4e847708a294c141d7e71cf7eae09b0
 product: aider
 product_name: Aider
 record:
@@ -49,10 +49,10 @@ record:
   title: 4 Model Support changes in v0.41.0
   type: change
 related_changes:
-- '[[Changes/Aider/2024-06-20-2-model-support-changes-in-v0-39-0|2 Model Support changes
-  in v0.39.0]]'
-- '[[Changes/Aider/2024-06-24-2-model-support-changes-in-v0-40-0|2 Model Support changes
-  in v0.40.0]]'
+- '[[Changes/Dify/2024-06-28-14-model-support-changes-in-0-6-12|14 Model Support changes
+  in 0.6.12]]'
+- '[[Changes/Ollama/2024-06-29-show-info-will-now-show-additional-model-information-in-ollama-run|/show
+  info will now show additional model information in ollama run]]'
 - '[[Changes/OpenHands/2024-06-29-2-model-support-changes-in-0-7-0|2 Model Support
   changes in 0.7.0]]'
 source_release: '[[Releases/Aider/aider-2024-07-01-v0-41-0-github-163414941-a6b791d1|aider-2024-07-01-v0-41-0-github-163414941-a6b791d1]]'
@@ -93,7 +93,7 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.41.0
 ## Nearby in Model Support
 
 - Earlier: 2024-06-29 · OpenHands · [[Changes/OpenHands/2024-06-29-2-model-support-changes-in-0-7-0|2 Model Support changes in 0.7.0]]
-- Later: 2024-07-05 · OpenHands · [[Changes/OpenHands/2024-07-05-3-model-support-changes-in-0-7-1|3 Model Support changes in 0.7.1]]
+- Later: 2024-07-02 · Ollama · [[Changes/Ollama/2024-07-02-6-model-support-changes-in-v0-2-0|6 Model Support changes in v0.2.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

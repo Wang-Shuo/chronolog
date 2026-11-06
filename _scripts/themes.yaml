@@ -48,7 +48,7 @@ themes:
     aliases: [memory, memories, personalization, custom-instructions, personality]
     # In these developer tools' changelogs a bare "memory" is RAM; the theme needs a
     # product-memory context (memories, auto-memory, /memory, memory files, …).
-    resource_sense_products: [claude-code, cursor]
+    resource_sense_products: [claude-code, cursor, ollama]
     category: capability
     status: official
   - slug: image-generation
@@ -58,7 +58,7 @@ themes:
     status: official
   - slug: search-browsing
     display_name: Search and Browsing
-    aliases: [web-search, browsing, browse, deep-research, search-results, shopping-research]
+    aliases: [web-search, browsing, browse, deep-research, search-results, shopping-research, search-api, search-engine]
     category: capability
     status: official
   - slug: apps-integrations

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 48790b4846e557f4bf53b3d56a6a1fb78dbf7f81c008433e72f756df0d15a9ef
+machine_hash: 67aa1521ead30cedff1d3db03894a0b558aa9c0035e487d43edf54d7aeede17f
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,12 +43,12 @@ record:
     tab…'
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-05-07-multitask-is-now-available-in-the-editor-for-running-async-subagents-to-parallel|/multitask
-  is now available in the editor for running async subagents to parallelize…]]'
-- '[[Changes/Codex CLI/2026-05-08-2-editor-experience-changes-in-rust-v0-130-0|2 Editor
-  Experience changes in rust-v0.130.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-08-2-editor-experience-changes-in-v1-0-44|2
   Editor Experience changes in v1.0.44]]'
+- '[[Changes/Open WebUI/2026-05-09-5-editor-experience-changes-in-v0-9-3|5 Editor
+  Experience changes in v0.9.3]]'
+- "[[Changes/Open WebUI/2026-05-10-url-parser-ssrf-bypass-url-validation-now-rejects-backslash-tab-cr-and-lf-charac|\U0001F6E1️
+  URL parser SSRF bypass. URL validation now rejects backslash, tab, CR, and LF…]]"
 source_release: '[[Releases/Claude Code/claude-code-2026-05-11-v2-1-139-github-320692766-5e65de7d|claude-code-2026-05-11-v2-1-139-github-320692766-5e65de7d]]'
 source_type: github_releases
 theme: editor-experience
@@ -86,8 +86,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-05-08 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-08-2-editor-experience-changes-in-v1-0-44|2 Editor Experience changes in v1.0.44]]
-- Later: 2026-05-12 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-12-read-only-gh-cli-commands-list-view-status-diff-etc-are-auto-approved-without-pr|Read-only gh CLI commands (list, view, status, diff, etc.) are auto-approved without…]]
+- Earlier: 2026-05-10 · Open WebUI · [[Changes/Open WebUI/2026-05-10-url-parser-ssrf-bypass-url-validation-now-rejects-backslash-tab-cr-and-lf-charac|🛡️ URL parser SSRF bypass. URL validation now rejects backslash, tab, CR, and LF…]]
+- Later: 2026-05-12 · Dify · [[Changes/Dify/2026-05-12-2-editor-experience-changes-in-1-14-1|2 Editor Experience changes in 1.14.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

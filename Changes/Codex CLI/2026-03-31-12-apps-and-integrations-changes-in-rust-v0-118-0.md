@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ffd579f6c9d4a3e0a1e7310aa7d760853f9cfaf591db196059dfc701c78e20e9
+machine_hash: 616dc1dc588d235c80a7653e3df4bdff1c350dbc14c8fc21e0c37ee70ff7295f
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -65,8 +65,8 @@ record:
   title: 12 Apps and Integrations changes in rust-v0.118.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-27-reduced-startup-event-loop-stalls-when-many-claude-ai-mcp-connectors-are-configu|Reduced
-  startup event-loop stalls when many claude.ai MCP connectors are configured…]]'
+- '[[Changes/Dify/2026-03-27-6-apps-and-integrations-changes-in-1-13-3|6 Apps and
+  Integrations changes in 1.13.3]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-30-5-apps-and-integrations-changes-in-v1-0-13|5
   Apps and Integrations changes in v1.0.13]]'
 - '[[Changes/OpenHands/2026-03-30-added-support-for-hooks-by-xingyaoww-in-https-github-com-openhands-openhands-pul|Added

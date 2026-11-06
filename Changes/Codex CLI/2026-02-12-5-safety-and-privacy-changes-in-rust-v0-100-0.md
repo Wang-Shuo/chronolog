@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4fe39593c8558e3cfb226a79550fabe62d60b6376066cd693385b1c55c3047a0
+machine_hash: 7364ff1cea726fe8169ca59efbc68dd014e7d580ae411685416c0285325d39d7
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -52,12 +52,12 @@ record:
   title: 5 Safety and Privacy changes in rust-v0.100.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-10-2-safety-and-privacy-changes-in-v2-1-38|2 Safety
-  and Privacy changes in v2.1.38]]'
 - '[[Changes/Gemini CLI/2026-02-10-3-safety-and-privacy-changes-in-v0-28-0|3 Safety
   and Privacy changes in v0.28.0]]'
 - '[[Changes/Codex CLI/2026-02-11-8-safety-and-privacy-changes-in-rust-v0-99-0|8 Safety
   and Privacy changes in rust-v0.99.0]]'
+- '[[Changes/Dify/2026-02-11-2-safety-and-privacy-changes-in-1-13-0|2 Safety and Privacy
+  changes in 1.13.0]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-02-12-rust-v0-100-0-github-285810603-4852bda6|codex-cli-2026-02-12-rust-v0-100-0-github-285810603-4852bda6]]'
 source_type: github_releases
 theme: safety-privacy
@@ -106,7 +106,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.100.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-02-11 · Codex CLI · [[Changes/Codex CLI/2026-02-11-8-safety-and-privacy-changes-in-rust-v0-99-0|8 Safety and Privacy changes in rust-v0.99.0]]
+- Earlier: 2026-02-11 · Dify · [[Changes/Dify/2026-02-11-2-safety-and-privacy-changes-in-1-13-0|2 Safety and Privacy changes in 1.13.0]]
 - Later: 2026-02-12 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-12-permission-prompts-with-long-diffs-are-scrollable-in-alt-screen-mode|Permission prompts with long diffs are scrollable in alt-screen mode]]
 <!-- chronolog:end -->
 

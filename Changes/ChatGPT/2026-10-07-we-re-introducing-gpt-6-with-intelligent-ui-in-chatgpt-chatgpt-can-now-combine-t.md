@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 1038341c4c32f20a30d088e749b78dd78c2ef9cba93f8b5be0666536ade4e6f8
+machine_hash: 8601ad6ae15150e81c84688a10db49896148500856fa30f7587fe90e4454aa9b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -78,10 +78,10 @@ record:
   title: GPT-6 and Intelligent UI in ChatGPT
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-10-05-2-model-support-changes-in-v1-0-92|2 Model
-  Support changes in v1.0.92]]'
 - '[[Changes/Claude Code/2026-10-06-added-prompt-caching-to-model-complete-for-mods-prompt-and-system-take-blocks-of|Added
   prompt caching to $.model.complete for mods]]'
+- '[[Changes/Lovable/2026-10-06-gemini-3-6-flash-is-deprecated-for-your-app-s-ai-features|Gemini
+  3.6 Flash is deprecated for your app''s AI features]]'
 - '[[Changes/OpenHands/2026-10-06-7-model-support-changes-in-v1-25-0|7 Model Support
   changes in v1.25.0]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-10-07-gpt-6-and-intelligent-ui-in-chatgpt-43bd07f7|chatgpt-2026-10-07-gpt-6-and-intelligent-ui-in-chatgpt-43bd07f7]]'
@@ -111,7 +111,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-10-06 · OpenHands · [[Changes/OpenHands/2026-10-06-7-model-support-changes-in-v1-25-0|7 Model Support changes in v1.25.0]]
-- Later: 2026-10-07 · Claude Code · [[Changes/Claude Code/2026-10-07-added-claude-haiku-5-5-claude-haiku-5-5-now-the-default-haiku-model-on-the-anthr|Added Claude Haiku 5.5 (claude-haiku-5-5), now the default Haiku model…]]
+- Later: 2026-10-07 · Claude · [[Changes/Claude/2026-10-07-claude-haiku-5-5-launch|Claude Haiku 5.5 launch]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

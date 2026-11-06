@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e432805441f65634d5975a695f4bf62fcd359721aebc5789a59477a5f8e2e18c
+machine_hash: c36996f69eedd62a2383eb4605a9e393ff69a09f902fde124ace878a8b001a8b
 product: cline
 product_name: Cline
 record:
@@ -81,7 +81,7 @@ Source: https://github.com/cline/cline/releases/tag/v4.1.6
 ## Nearby in Model Support
 
 - Earlier: 2026-08-06 · ChatGPT · [[Changes/ChatGPT/2026-08-06-plus-and-pro-users-can-now-use-an-updated-gpt-5-6-sol-in-chatgpt-with-more-relia-397840|Updates to GPT‑5.6 in ChatGPT]]
-- Later: 2026-08-07 · Claude Code · [[Changes/Claude Code/2026-08-07-changed-the-bash-tool-description-to-always-note-that-command-output-is-displaye|Changed the Bash tool description to always note that command output is displayed…]]
+- Later: 2026-08-06 · Lovable · [[Changes/Lovable/2026-08-06-show-the-ai-s-thinking-in-your-app|Show the AI's thinking in your app]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

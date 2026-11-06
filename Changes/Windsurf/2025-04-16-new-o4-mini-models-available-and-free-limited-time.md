@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 7c0f707fdb9f8801b0136185509aaa584e3302cea148cb9c6df5074e4a8b2d3f
+machine_hash: 09dab977b53bd263facc5924b2c5bee40c3bccc8b9cbcf55f518de486969d107
 product: windsurf
 product_name: Windsurf
 record:
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2025-04-16 · ChatGPT · [[Changes/ChatGPT/2025-04-16-today-we-re-releasing-openai-o3-and-o4-mini-the-latest-in-our-o-series-of-models|o3 and o4-mini in ChatGPT]]
-- Later: 2025-04-19 · Cline · [[Changes/Cline/2025-04-19-4-model-support-changes-in-v3-13-0|4 Model Support changes in v3.13.0]]
+- Later: 2025-04-17 · Gemini · [[Changes/Gemini/2025-04-17-try-our-2-5-flash-experimental-model|Try our 2.5 Flash (experimental) model]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

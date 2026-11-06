@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 15c5f1cc85ce5f75d03536f183e718406cd3e340736448bba36edb01b374a6fb
+machine_hash: a02ee0516b7361ef47108177e75f62bd2f0ea1d1599fcee95ff56006c3da9834
 product: openhands
 product_name: OpenHands
 record:
@@ -79,7 +79,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-05-01 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-01-2-model-support-changes-in-v1-0-40|2 Model Support changes in v1.0.40]]
-- Later: 2026-05-04 · Claude Code · [[Changes/Claude Code/2026-05-04-updated-model-picker-collapsed-duplicate-opus-4-7-entries-and-current-opus-now-s|Updated /model picker]]
+- Later: 2026-05-03 · Ollama · [[Changes/Ollama/2026-05-03-the-ollama-app-now-surfaces-featured-models-from-server-driven-recommendations|The Ollama app now surfaces featured models from server-driven recommendations]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

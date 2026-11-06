@@ -4,20 +4,20 @@ date: '2026-08-25'
 description: 'ChatGPT · 2026-08-25 · Automation and Scheduling: Free, Go, Plus, and
   Pro users can share scheduled tasks. Recipients can review and customize the instructions…'
 diffusion:
-  first_in_tracked: '[[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better
-    syntax error loop detection]]'
+  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
+    data clean schedule]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 720
+  lag_days: 966
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 60f00b7ad110c9ef7bab79ab49e0c33ca9378cd8776ca3746148642b4d85d960
+machine_hash: 26b411a64de2f14bf4b420a571ddc6c9beeaf382c4dd65aab18e7c5eb2067732
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -47,10 +47,10 @@ record:
   title: Share scheduled tasks
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-08-17-feat-automations-add-a-git-sync-page-by-vascosch92-in-https-github-com-openhands|feat(automations):
-  add a Git Sync page]]'
 - '[[Changes/OpenHands/2026-08-21-4-automation-and-scheduling-changes-in-v1-15-0|4
   Automation and Scheduling changes in v1.15.0]]'
+- '[[Changes/Replit/2026-08-21-automate-recurring-work-with-routines|Automate recurring
+  work with Routines]]'
 - '[[Changes/ChatGPT/2026-08-25-scheduled-tasks-in-chatgpt-work-can-use-webhooks-to-respond-when-something-chang|Scheduled
   tasks in ChatGPT Work can use webhooks to respond when something changes…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-25-scheduled-tasks-can-respond-to-app-updates-and-be-shared-63a6aae4|chatgpt-2026-08-25-scheduled-tasks-can-respond-to-app-updates-and-be-shared-63a6aae4]]'
@@ -83,14 +83,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2026-08-21 · OpenHands · [[Changes/OpenHands/2026-08-21-4-automation-and-scheduling-changes-in-v1-15-0|4 Automation and Scheduling changes in v1.15.0]]
-- Later: 2026-08-26 · Codex CLI · [[Changes/Codex CLI/2026-08-26-40436-add-a-managed-gate-for-in-app-local-automation-copyberry|♯40436 Add a managed gate for in-app local automation @copyberry]]
+- Earlier: 2026-08-21 · Replit · [[Changes/Replit/2026-08-21-automate-recurring-work-with-routines|Automate recurring work with Routines]]
+- Later: 2026-08-25 · Dify · [[Changes/Dify/2026-08-25-feat-workflow-support-human-input-in-loop-and-iteration-by-laipz8200-in-https-gi|feat(workflow): support human input in loop and iteration]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-09-04 · OpenHands · [[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better syntax error loop detection]]
+- Earliest same-theme entry in the tracked set: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

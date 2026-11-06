@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 50927cba5815c2bf52947dd63dafa423247e57d5bb14bde4298ff67fdad1c5fc
+machine_hash: 12e41ca6749c0bab43d13fcd9bb58b87739f5ff69cbabfb632d05d3ec4bf8169
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,10 +43,10 @@ record:
   title: 3 Collaboration changes in rust-v0.131.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-05-07-3-collaboration-changes-in-rust-v0-129-0|3 Collaboration
-  changes in rust-v0.129.0]]'
 - '[[Changes/Cursor/2026-05-11-cursor-is-now-available-in-microsoft-teams|Cursor is
   now available in Microsoft Teams]]'
+- '[[Changes/v0/2026-05-15-snowflake-teams-with-multiple-accounts-can-pick-which-account-a-chat-connects-to|Snowflake
+  teams with multiple accounts can pick which account a chat connects…]]'
 - '[[Changes/Windsurf/2026-05-16-restored-conversation-sharing|Restored conversation
   sharing]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-05-18-rust-v0-131-0-github-324452638-5f16ff1d|codex-cli-2026-05-18-rust-v0-131-0-github-324452638-5f16ff1d]]'

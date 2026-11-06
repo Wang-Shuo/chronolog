@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a48303a286b8220df2e4a258190dd2126f047d8599dce1b97fb84c04b8239b11
+machine_hash: 93ea3fb826b0e19a87b1f20f8dbb947010e62571d1ca5cc9886c1c458fa4ae7a
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -50,12 +50,12 @@ record:
   title: 4 Apps and Integrations changes in rust-v0.42.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-09-23-2-apps-and-integrations-changes-in-rust-v0-40-0|2
-  Apps and Integrations changes in rust-v0.40.0]]'
 - '[[Changes/Gemini CLI/2025-09-24-5-apps-and-integrations-changes-in-v0-6-0|5 Apps
   and Integrations changes in v0.6.0]]'
 - '[[Changes/Cline/2025-09-25-rename-mcp-tab-installed-to-configure-by-saoudrizwan-in-https-github-com-cline-c|Rename
   MCP tab ''Installed'' to ''Configure'']]'
+- '[[Changes/Open WebUI/2025-09-25-4-apps-and-integrations-changes-in-v0-6-31|4 Apps
+  and Integrations changes in v0.6.31]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-09-26-rust-v0-42-0-github-250387883-27046aff|codex-cli-2025-09-26-rust-v0-42-0-github-250387883-27046aff]]'
 source_type: github_releases
 theme: apps-integrations
@@ -97,7 +97,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.42.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-09-25 · Cline · [[Changes/Cline/2025-09-25-rename-mcp-tab-installed-to-configure-by-saoudrizwan-in-https-github-com-cline-c|Rename MCP tab 'Installed' to 'Configure']]
+- Earlier: 2025-09-25 · Open WebUI · [[Changes/Open WebUI/2025-09-25-4-apps-and-integrations-changes-in-v0-6-31|4 Apps and Integrations changes in v0.6.31]]
 - Later: 2025-09-29 · Cursor · [[Changes/Cursor/2025-09-29-4-apps-and-integrations-changes-in-1-7|4 Apps and Integrations changes in 1.7]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 341185652af315d3f7f1b9a62afc1fe8e52cbcdb42c195e5ccd6a6e3d6556d1c
+machine_hash: 9e0766216a250d497bfef223b96829534c7d6effa28b3fe92ffc800d4429a2e6
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,12 +43,11 @@ record:
   title: Improved startup responsiveness
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-14-added-opt-in-memory-cgroup-support-for-bash-tool-commands-on-linux-claude-code-t|Added
-  opt-in memory cgroup support for Bash tool commands on Linux…]]'
 - '[[Changes/Claude Code/2026-08-18-2-reliability-and-performance-changes-in-v2-1-235|2
   Reliability and Performance changes in v2.1.235]]'
 - '[[Changes/Claude Code/2026-08-19-improved-startup-performance-the-session-counter-is-now-written-in-the-backgroun|Improved
   startup performance: the session counter is now written in the background]]'
+- '[[Changes/Lovable/2026-08-19-faster-preview-loading|Faster preview loading]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-20-v2-1-238-github-373927029-c96744e2|claude-code-2026-08-20-v2-1-238-github-373927029-c96744e2]]'
 source_type: github_releases
 theme: reliability-performance
@@ -83,7 +82,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-08-19 · Claude Code · [[Changes/Claude Code/2026-08-19-improved-startup-performance-the-session-counter-is-now-written-in-the-backgroun|Improved startup performance: the session counter is now written in the background]]
+- Earlier: 2026-08-19 · Lovable · [[Changes/Lovable/2026-08-19-faster-preview-loading|Faster preview loading]]
 - Later: 2026-08-20 · Codex CLI · [[Changes/Codex CLI/2026-08-20-2-reliability-and-performance-changes-in-rust-v0-149-0|2 Reliability and Performance changes in rust-v0.149.0]]
 <!-- chronolog:end -->
 

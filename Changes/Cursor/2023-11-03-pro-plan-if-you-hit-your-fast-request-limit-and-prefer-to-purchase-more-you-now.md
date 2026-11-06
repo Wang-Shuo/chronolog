@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: policy
-machine_hash: 060e6d9b011c507f385ccf5b723edd281fd7249942eecee76501713736f3742f
+machine_hash: cd2c533bcbb9d418ca6608f3a27e8d301c002b0a7f55b7a32ee35e74781d5628
 product: cursor
 product_name: Cursor
 record:
@@ -45,12 +45,12 @@ record:
     you now can'
   type: change
 related_changes:
-- '[[Changes/Aider/2023-06-25-enables-display-of-cost-info-based-on-openai-advertised-pricing|Enables
-  display of cost info based on OpenAI advertised pricing]]'
 - '[[Changes/Aider/2023-06-26-enables-display-of-cost-info-based-on-openai-advertised-pricing|Enables
   display of cost info based on OpenAI advertised pricing]]'
 - '[[Changes/Aider/2023-06-26-enables-display-of-cost-info-based-on-openai-advertised-pricing-5f5b32|Enables
   display of cost info based on OpenAI advertised pricing]]'
+- '[[Changes/Dify/2023-08-23-feat-record-price-unit-in-messages-by-takatost-in-https-github-com-langgenius-di|feat:
+  record price unit in messages]]'
 source_release: '[[Releases/Cursor/cursor-2023-11-03-0-14-0-https-cursor-com-changelog-0-14-0-45a47acf|cursor-2023-11-03-0-14-0-https-cursor-com-changelog-0-14-0-45a47acf]]'
 source_type: cursor_changelog
 theme: pricing-model
@@ -83,8 +83,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2023-06-26 · Aider · [[Changes/Aider/2023-06-26-enables-display-of-cost-info-based-on-openai-advertised-pricing-5f5b32|Enables display of cost info based on OpenAI advertised pricing]]
-- Later: 2024-02-10 · Aider · [[Changes/Aider/2024-02-10-updated-all-openai-model-names-pricing-info|Updated all OpenAI model names, pricing info]]
+- Earlier: 2023-08-23 · Dify · [[Changes/Dify/2023-08-23-feat-record-price-unit-in-messages-by-takatost-in-https-github-com-langgenius-di|feat: record price unit in messages]]
+- Later: 2023-12-08 · Dify · [[Changes/Dify/2023-12-08-3-pricing-model-changes-in-0-3-33|3 Pricing Model changes in 0.3.33]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

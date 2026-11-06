@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: accessibility-localization
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: c7c1ea0d3ef92ee3acca1fa2b2c400e8e346a5e69fa6e2663e2f70faf831ab01
+machine_hash: df68667e14a6fb08304f5cb0146102b4a709f16c76ede3b034b84eab0d64d3ad
 product: aider
 product_name: Aider
 record:
@@ -43,10 +43,12 @@ record:
   title: Switch to `tree-sitter-language-pack` for tree sitter support
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2023-09-11-chatgpt-now-supports-a-limited-selection-of-languages-in-the-interface|ChatGPT
-  now supports a limited selection of languages in the interface]]'
+- "[[Changes/Open WebUI/2025-02-27-updated-translations-refined-multilingual-support-for-better-localization-and-ac|\U0001F30D
+  Updated Translations]]"
 - '[[Changes/Aider/2025-03-04-added-support-for-tree-sitter-language-pack|Added support
   for tree-sitter language pack]]'
+- "[[Changes/Open WebUI/2025-03-05-updated-translations-refined-multilingual-support-for-better-localization-and-ac|\U0001F30D
+  Updated Translations]]"
 source_release: '[[Releases/Aider/aider-2025-03-10-v0-76-0-github-204781393-e828f532|aider-2025-03-10-v0-76-0-github-204781393-e828f532]]'
 source_type: github_releases
 theme: accessibility-localization
@@ -78,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Accessibility and Localization
 
-- Earlier: 2025-03-04 · Aider · [[Changes/Aider/2025-03-04-added-support-for-tree-sitter-language-pack|Added support for tree-sitter language pack]]
+- Earlier: 2025-03-05 · Open WebUI · [[Changes/Open WebUI/2025-03-05-updated-translations-refined-multilingual-support-for-better-localization-and-ac|🌍 Updated Translations]]
 - Later: 2025-03-13 · Aider · [[Changes/Aider/2025-03-13-big-upgrade-in-programming-languages-supported-https-aider-chat-docs-languages-h|Big upgrade in programming languages…]]
 <!-- chronolog:end -->
 

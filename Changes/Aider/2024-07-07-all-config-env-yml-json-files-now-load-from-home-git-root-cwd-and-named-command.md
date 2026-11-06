@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a14dc5906e07d5b292d9b90513f87565b6689951850917971fc132a25c563bbe
+machine_hash: 6a6b458a50380688d1f323720639b0a34639e3f458d7e33837dd560e934ee6d2
 product: aider
 product_name: Aider
 record:
@@ -80,7 +80,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2024-07-05 · OpenHands · [[Changes/OpenHands/2024-07-05-3-developer-workflow-changes-in-0-7-1|3 Developer Workflow changes in 0.7.1]]
-- Later: 2024-07-13 · OpenHands · [[Changes/OpenHands/2024-07-13-feat-implement-user-confirmation-mode-request-confirmation-when-running-bash-pyt|feat: Implement user confirmation mode, request confirmation when running…]]
+- Later: 2024-07-08 · Dify · [[Changes/Dify/2024-07-08-2-developer-workflow-changes-in-0-6-13|2 Developer Workflow changes in 0.6.13]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 033dea84b983e4d04a40d68544d109befbd3126abea7c5a0811f493b0973c869
+machine_hash: 19ac091a6f915648ab2d35b2c3bba97d16c23a138cfa61a75f6dfdf285d04b30
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -53,12 +53,12 @@ record:
   title: Inserting new line with shift+enter keybinding in VS Code integrated terminal
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-01-30-close-model-picker-when-selecting-a-battle-group|Close
-  model picker when selecting a battle group]]'
-- '[[Changes/Codex CLI/2026-01-31-3-interface-experience-changes-in-rust-v0-93-0|3
-  Interface Experience changes in rust-v0.93.0]]'
+- '[[Changes/Ollama/2026-02-01-ollama-launch-openclaw-will-now-enter-the-standard-openclaw-onboarding-flow-if-t|ollama
+  launch openclaw will now enter the standard OpenClaw onboarding flow if…]]'
 - '[[Changes/Codex CLI/2026-02-02-2-interface-experience-changes-in-rust-v0-94-0|2
   Interface Experience changes in rust-v0.94.0]]'
+- '[[Changes/Dify/2026-02-03-test-enhance-hittestingpage-tests-with-additional-coverage-for-rendering-and-sta|test:
+  enhance HitTestingPage tests with additional coverage for rendering and state…]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-02-03-v0-0-401-github-282605019-24696a01|github-copilot-cli-2026-02-03-v0-0-401-github-282605019-24696a01]]'
 source_type: github_releases
 theme: interface-experience
@@ -92,7 +92,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-02-02 · Codex CLI · [[Changes/Codex CLI/2026-02-02-2-interface-experience-changes-in-rust-v0-94-0|2 Interface Experience changes in rust-v0.94.0]]
+- Earlier: 2026-02-03 · Dify · [[Changes/Dify/2026-02-03-test-enhance-hittestingpage-tests-with-additional-coverage-for-rendering-and-sta|test: enhance HitTestingPage tests with additional coverage for rendering and state…]]
 - Later: 2026-02-04 · Codex CLI · [[Changes/Codex CLI/2026-02-04-10340-session-picker-shows-thread-name-if-set-pap-openai|♯10340 Session picker shows thread_name if set @pap-openai]]
 <!-- chronolog:end -->
 

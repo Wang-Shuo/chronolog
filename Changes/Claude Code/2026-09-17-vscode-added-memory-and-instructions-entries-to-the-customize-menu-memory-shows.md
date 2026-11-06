@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: bae6c1ef2572c31184e9e04778105033b1f38766b60c8475a3274e01d424f5ee
+machine_hash: ca980ea2a306822c053f72d510cee7da9879b33704b17eeeb1a568c023746bf2
 product: claude-code
 product_name: Claude Code
 record:
@@ -54,8 +54,8 @@ record:
   title: '[VSCode] Added Memory and Instructions entries to the Customize menu'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-10-2-memory-and-personalization-changes-in-v2-1-268|2
-  Memory and Personalization changes in v2.1.268]]'
+- '[[Changes/Dify/2026-09-10-2-memory-and-personalization-changes-in-1-17-1|2 Memory
+  and Personalization changes in 1.17.1]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-16-3-memory-and-personalization-changes-in-v1-0-85|3
   Memory and Personalization changes in v1.0.85]]'
 - '[[Changes/Claude Code/2026-09-17-vscode-added-viewing-editing-and-deleting-a-saved-memory-inside-the-memory-dialo|VSCode

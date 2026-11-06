@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 09424a47ea7073045a4c96fd210fd152a6030fd6a3f3a956a32c15c9bde6a3cc
+machine_hash: 5e30ac8a48769cf2f71539d6910c067fcf3c36872ab107871375eba470a77ec6
 product: claude-code
 product_name: Claude Code
 record:
@@ -41,12 +41,12 @@ record:
   title: Updated the auth status panel title from "Cloud authentication" to "Authentication"
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-10-gateway-login-now-supports-anthropic-operated-public-gateway-endpoints|Gateway:
-  /login now supports Anthropic-operated public gateway endpoints]]'
-- '[[Changes/GitHub Copilot CLI/2026-07-10-2-account-and-access-changes-in-v1-0-70|2
-  Account and Access changes in v1.0.70]]'
+- '[[Changes/Lovable/2026-07-15-password-reset-is-unavailable-for-accounts-without-a-password|Password
+  reset is unavailable for accounts without a password]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-16-server-mode-reconnects-oauth-mcp-servers-from-cached-tokens|Server
   mode reconnects OAuth MCP servers from cached tokens]]'
+- '[[Changes/Ollama/2026-07-16-agent-web-search-and-fetch-now-tell-users-to-run-ollama-signin-when-authenticati|Agent
+  web search and fetch now tell users to run ollama signin when authentication…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-17-v2-1-212-github-355310036-d94b4e11|claude-code-2026-07-17-v2-1-212-github-355310036-d94b4e11]]'
 source_type: github_releases
 theme: account-access
@@ -82,8 +82,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-07-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-16-server-mode-reconnects-oauth-mcp-servers-from-cached-tokens|Server mode reconnects OAuth MCP servers from cached tokens]]
-- Later: 2026-07-21 · Claude Code · [[Changes/Claude Code/2026-07-21-changed-the-login-expiry-warning-to-appear-3-days-before-expiry-instead-of-5|Changed the login-expiry warning to appear 3 days before expiry instead of 5]]
+- Earlier: 2026-07-16 · Ollama · [[Changes/Ollama/2026-07-16-agent-web-search-and-fetch-now-tell-users-to-run-ollama-signin-when-authenticati|Agent web search and fetch now tell users to run ollama signin when authentication…]]
+- Later: 2026-07-17 · Dify · [[Changes/Dify/2026-07-17-8-account-and-access-changes-in-1-16-0|8 Account and Access changes in 1.16.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

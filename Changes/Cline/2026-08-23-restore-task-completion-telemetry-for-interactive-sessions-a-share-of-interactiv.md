@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: cf9209059d44934b61e230f8c4318a186b587c85b497ad8172ace2b7e5251ae3
+machine_hash: 29e7d8bdbc345495325aedda9c7251d6a4667879fb0d8f6354e93caad7a415c7
 product: cline
 product_name: Cline
 record:
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-08-21 · Cline · [[Changes/Cline/2026-08-21-show-the-diff-edit-view-for-multi-line-edits-in-files-with-crlf-line-endings|Show the diff edit view for multi-line edits in files with CRLF line endings]]
-- Later: 2026-08-25 · Claude Code · [[Changes/Claude Code/2026-08-25-added-the-turn-s-completion-time-to-the-end-of-turn-duration-line-e-g-saut-ed-fo|Added the turn's completion time to the end-of-turn duration line…]]
+- Later: 2026-08-24 · ElevenLabs · [[Changes/ElevenLabs/2026-08-24-elevenlabs-cli|ElevenLabs CLI]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

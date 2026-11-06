@@ -4,20 +4,20 @@ date: '2026-09-11'
 description: 'OpenHands · 2026-09-11 · Automation and Scheduling: 3 changes in v1.18.0
   — feat: only the creator can turn an automation back on by @hieptl in…'
 diffusion:
-  first_in_tracked: '[[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better
-    syntax error loop detection]]'
+  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
+    data clean schedule]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 737
+  lag_days: 983
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 98a727a0e9f0b5c6dbc6bc6e049ebc053d4af9f20904fa99723bdce4fe2f7793
+machine_hash: 2206cc08ba04c68ed69d699517a3765ca80496cb7964c6b7ebde0b6c8a65e56b
 product: openhands
 product_name: OpenHands
 record:
@@ -44,12 +44,12 @@ record:
   title: 3 Automation and Scheduling changes in v1.18.0
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-08-27-2-automation-and-scheduling-changes-in-v1-16-0|2
-  Automation and Scheduling changes in v1.16.0]]'
 - '[[Changes/Codex CLI/2026-09-01-41457-source-proactive-multi-agent-instructions-from-the-model-catalog-copyberry|♯41457
   Source proactive multi-agent instructions from the model catalog @copyberry]]'
 - '[[Changes/OpenHands/2026-09-09-9-automation-and-scheduling-changes-in-v1-17-0|9
   Automation and Scheduling changes in v1.17.0]]'
+- '[[Changes/Dify/2026-09-10-3-automation-and-scheduling-changes-in-1-17-1|3 Automation
+  and Scheduling changes in 1.17.1]]'
 source_release: '[[Releases/OpenHands/openhands-2026-09-11-v1-18-0-github-387253056-164e51d7|openhands-2026-09-11-v1-18-0-github-387253056-164e51d7]]'
 source_type: github_releases
 theme: automation-scheduling
@@ -85,14 +85,14 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/v1.18.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2026-09-09 · OpenHands · [[Changes/OpenHands/2026-09-09-9-automation-and-scheduling-changes-in-v1-17-0|9 Automation and Scheduling changes in v1.17.0]]
+- Earlier: 2026-09-10 · Dify · [[Changes/Dify/2026-09-10-3-automation-and-scheduling-changes-in-1-17-1|3 Automation and Scheduling changes in 1.17.1]]
 - Later: 2026-09-16 · OpenHands · [[Changes/OpenHands/2026-09-16-4-automation-and-scheduling-changes-in-v1-19-0|4 Automation and Scheduling changes in v1.19.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-09-04 · OpenHands · [[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better syntax error loop detection]]
+- Earliest same-theme entry in the tracked set: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c306217521bfbd38902f3ca93695cb0b56f242b207fce7bf5f775558a9ebbf25
+machine_hash: d90794c675b72eef5d8be38b6c9af5a8c934247f870366dfa7e2efbdaa94950e
 product: claude-code
 product_name: Claude Code
 record:
@@ -54,8 +54,8 @@ record:
   title: '`claude auth login` now accepts the OAuth code pasted into the terminal…'
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-04-28-docs-migrate-installation-and-authentication-to-mdx-with-tabbed-layouts-by-g-sam|docs:
-  migrate installation and authentication to mdx with tabbed layouts]]'
+- '[[Changes/Dify/2026-04-29-8-account-and-access-changes-in-1-14-0|8 Account and
+  Access changes in 1.14.0]]'
 - '[[Changes/ChatGPT/2026-04-30-we-re-rolling-out-advanced-account-security-an-optional-setting-for-personal-cha|Advanced
   Account Security in ChatGPT]]'
 - '[[Changes/Codex CLI/2026-04-30-3-account-and-access-changes-in-rust-v0-128-0|3

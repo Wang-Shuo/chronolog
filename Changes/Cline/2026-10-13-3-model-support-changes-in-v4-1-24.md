@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d7717cf27bccb43adf16a16566e33ea3f5b42d187d4461221552743134b8e535
+machine_hash: e8dc4f267e6213f9db1d555c949aff2c177d7b271856541ca1404aaf2e51008d
 product: cline
 product_name: Cline
 record:
@@ -56,10 +56,10 @@ record:
   title: 3 Model Support changes in v4.1.24
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-09-claude-tag-changed-claude-in-slack-to-show-the-footer-with-the-session-link-mode|Claude
-  Tag Changed Claude in Slack to show the footer with the session link, model…]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-12-2-model-support-changes-in-v1-0-96|2 Model
   Support changes in v1.0.96]]'
+- '[[Changes/Ollama/2026-10-12-3-model-support-changes-in-v0-40-4|3 Model Support
+  changes in v0.40.4]]'
 - '[[Changes/OpenHands/2026-10-12-3-model-support-changes-in-v1-27-0|3 Model Support
   changes in v1.27.0]]'
 source_release: '[[Releases/Cline/cline-2026-10-13-v4-1-24-github-411804449-05899922|cline-2026-10-13-v4-1-24-github-411804449-05899922]]'
@@ -102,7 +102,7 @@ Source: https://github.com/cline/cline/releases/tag/v4.1.24
 ## Nearby in Model Support
 
 - Earlier: 2026-10-12 · OpenHands · [[Changes/OpenHands/2026-10-12-3-model-support-changes-in-v1-27-0|3 Model Support changes in v1.27.0]]
-- Later: 2026-10-14 · Claude Code · [[Changes/Claude Code/2026-10-14-2-model-support-changes-in-v2-1-299|2 Model Support changes in v2.1.299]]
+- Later: 2026-10-13 · Gemini · [[Changes/Gemini/2026-10-13-introducing-gemini-4-argon-our-frontier-model-for-complex-tasks|Introducing Gemini 4 Argon: our frontier model for complex tasks]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

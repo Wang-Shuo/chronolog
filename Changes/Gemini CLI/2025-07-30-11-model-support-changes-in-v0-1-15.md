@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 94006be50b814299e790626a9209479bafe3764893cad8849a998d853e4773df
+machine_hash: 4dc533ec0a71401bf26dd0ee10beb0d17619ba5351cbe0381e484bff4d8d84c5
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -66,12 +66,12 @@ record:
   title: 11 Model Support changes in v0.1.15
   type: change
 related_changes:
-- '[[Changes/Cline/2025-07-23-adding-support-for-new-models-qwen-3-models-on-qwen-provider-by-arafatkatze-in-h|Adding
-  support for new models Qwen 3 models on Qwen provider]]'
 - '[[Changes/OpenHands/2025-07-24-2-model-support-changes-in-0-50-0|2 Model Support
   changes in 0.50.0]]'
 - '[[Changes/Gemini CLI/2025-07-25-11-model-support-changes-in-v0-1-14|11 Model Support
   changes in v0.1.14]]'
+- '[[Changes/Dify/2025-07-28-2-model-support-changes-in-1-7-1|2 Model Support changes
+  in 1.7.1]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-07-30-v0-1-15-github-236146632-10a2efdb|gemini-cli-2025-07-30-v0-1-15-github-236146632-10a2efdb]]'
 source_type: github_releases
 theme: model-support
@@ -134,7 +134,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.1.15
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-07-25 · Gemini CLI · [[Changes/Gemini CLI/2025-07-25-11-model-support-changes-in-v0-1-14|11 Model Support changes in v0.1.14]]
+- Earlier: 2025-07-28 · Dify · [[Changes/Dify/2025-07-28-2-model-support-changes-in-1-7-1|2 Model Support changes in 1.7.1]]
 - Later: 2025-07-31 · Cline · [[Changes/Cline/2025-07-31-4-model-support-changes-in-v3-20-3|4 Model Support changes in v3.20.3]]
 <!-- chronolog:end -->
 

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 62f11d63eabe9b7a126f5cbc88b714ca8c4ebfff09da382f699c3597378d86d8
+machine_hash: 2ca4da6a7ab501366a683e9ad4382c93dfe939bee4f84b94221f60151d2836c6
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -42,12 +42,11 @@ record:
   title: 2 Collaboration changes in v0.3.0
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-08-11-pro-microsoft-teams-and-github|Pro: Microsoft Teams
-  and GitHub]]'
-- '[[Changes/ChatGPT/2025-08-11-plus-box-canva-dropbox-hubspot-notion-microsoft-sharepoint-and-microsoft-teams|Plus:
-  Box, Canva, Dropbox, HubSpot, Notion, Microsoft SharePoint, and Microsoft Teams]]'
 - '[[Changes/Cline/2025-08-16-focus-chain-regex-moved-to-shared-by-canvrno-in-https-github-com-cline-cline-pul|Focus
   Chain regex moved to /shared]]'
+- '[[Changes/Claude/2025-08-21-making-shared-artifacts-embeddable|Making shared artifacts
+  embeddable]]'
+- '[[Changes/Replit/2025-08-29-app-themes|App themes]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-09-04-v0-3-0-github-244870431-556b0abc|gemini-cli-2025-09-04-v0-3-0-github-244870431-556b0abc]]'
 source_type: github_releases
 theme: collaboration
@@ -93,8 +92,8 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.3.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2025-08-16 · Cline · [[Changes/Cline/2025-08-16-focus-chain-regex-moved-to-shared-by-canvrno-in-https-github-com-cline-cline-pul|Focus Chain regex moved to /shared]]
-- Later: 2025-09-23 · Codex CLI · [[Changes/Codex CLI/2025-09-23-3878-move-responses-mocking-helpers-to-a-shared-lib-3878|♯3878 Move responses mocking helpers to a shared lib (♯3878)]]
+- Earlier: 2025-08-29 · Replit · [[Changes/Replit/2025-08-29-app-themes|App themes]]
+- Later: 2025-09-08 · ElevenLabs · [[Changes/ElevenLabs/2025-09-08-backward-compatible-changes|Backward Compatible Changes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

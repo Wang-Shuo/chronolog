@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 26a4631f308f4d54207122bbeb6a42343841f928d191ef821dff8d7f74ec681b
+machine_hash: a3042baa82837b74b73fbef302405ecb631d395ef76bcf477f0075033ece1937
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,8 +43,8 @@ record:
   title: '[TUI] Switch to tree-sitter-highlight bash highlighting'
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-10-07-delete-shell-service-test-ts-and-change-other-tests-to-cover-the-same-features-b|Delete
-  shell-service.test.ts and change other tests to cover the same features]]'
+- '[[Changes/Open WebUI/2025-10-07-3-developer-workflow-changes-in-v0-6-33|3 Developer
+  Workflow changes in v0.6.33]]'
 - '[[Changes/Cline/2025-10-08-2-developer-workflow-changes-in-v3-32-7|2 Developer
   Workflow changes in v3.32.7]]'
 - '[[Changes/GitHub Copilot CLI/2025-10-08-added-support-for-multi-line-input-for-terminals-that-support-the-kitty-protocol|Added

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 721b1771cad0ad65aaea8c4e6aeb6db34eca075d3c80f04cb86022100fb1054a
+machine_hash: 4882ca71f1fbdd923b8c122af748565ad37cf1bea9eae4a2cbf90acb5428722d
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,8 +49,8 @@ record:
     tools…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-03-changed-model-to-execute-immediately-instead-of-being-queued|Changed
-  /model to execute immediately instead of being queued]]'
+- '[[Changes/Dify/2026-02-03-5-model-support-changes-in-1-12-0|5 Model Support changes
+  in 1.12.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-03-improve-handling-of-chat-history-when-switching-between-model-families|Improve
   handling of chat history when switching between model families]]'
 - '[[Changes/ChatGPT/2026-02-04-jan-10-2026-we-lowered-the-standard-and-light-thinking-time-as-we-observed-users-e93d5a|Jan

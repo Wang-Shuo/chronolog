@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: b0dc42b252e019edf44c9ee65f49db6146618d22423e19b23de6390f8baeb6ff
+machine_hash: 99059de0ac8ca3d0c8a6ae5d34846090e5581969185b3dbb75e2d8922cfeb9fa
 product: cursor
 product_name: Cursor
 record:
@@ -82,7 +82,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-05-19 · Cline · [[Changes/Cline/2026-05-19-disable-the-mcp-restart-server-button-when-a-server-is-toggled-off|Disable the MCP "Restart Server" button when a server is toggled off]]
-- Later: 2026-05-19 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-19-9-apps-and-integrations-changes-in-v1-0-49|9 Apps and Integrations changes in v1.0.49]]
+- Later: 2026-05-19 · Dify · [[Changes/Dify/2026-05-19-4-apps-and-integrations-changes-in-1-14-2|4 Apps and Integrations changes in 1.14.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

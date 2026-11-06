@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 914404aa3c742f209509334e468018a4dcac5fd7075d48fb49ed6be7fa380adb
+machine_hash: fe06c569bff83d2452c50ef73397d1df1b2a55f0550e8bee391e174dff16ab59
 product: cline
 product_name: Cline
 record:
@@ -45,8 +45,8 @@ record:
     tools…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-02-23-5-apps-and-integrations-changes-in-v0-0-415|5
-  Apps and Integrations changes in v0.0.415]]'
+- '[[Changes/Claude/2026-02-24-cowork-plugins-and-admin-controls|Cowork plugins and
+  admin controls]]'
 - '[[Changes/Claude Code/2026-02-24-4-apps-and-integrations-changes-in-v2-1-51|4 Apps
   and Integrations changes in v2.1.51]]'
 - '[[Changes/Cline/2026-02-24-add-mcp-enterprise-configuration-details|Add MCP enterprise

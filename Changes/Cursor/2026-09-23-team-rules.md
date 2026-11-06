@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 55816ce218fc13772fb49cfc00861c2813fa5f76f64ef7d735e0439762a967d6
+machine_hash: d78920493200f4756f4a0bd50e5e05b78b5bd2940ac3e11f3064d13537b3aba9
 product: cursor
 product_name: Cursor
 record:
@@ -44,8 +44,8 @@ record:
   title: Team rules
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-18-changed-ultrareview-in-non-interactive-sessions-to-refuse-when-the-repository-ha|Changed
-  /ultrareview in non-interactive sessions to refuse when the repository has…]]'
+- '[[Changes/Open WebUI/2026-09-21-4-collaboration-changes-in-v0-11-4|4 Collaboration
+  changes in v0.11.4]]'
 - '[[Changes/Codex CLI/2026-09-22-9-collaboration-changes-in-rust-v0-156-0|9 Collaboration
   changes in rust-v0.156.0]]'
 - '[[Changes/OpenHands/2026-09-22-test-strengthen-shared-utility-behavior-by-aivong-openhands-in-https-github-com|test:

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 68d3f20fea7182cc8bb477617339939d7cef59ddc66f15939db23201f51518a8
+machine_hash: 32cf873c6ee02c373a58979528914e089c125e35e675b0338c1369cb3f37fe4b
 product: cline
 product_name: Cline
 record:
@@ -48,8 +48,7 @@ record:
   title: Fix the Claude Code provider being unusable for agentic work
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-08-11-fix-a2a-server-enforce-workspace-trust-and-task-isolation-to-prevent-rce-by-luis|fix(a2a-server):
-  enforce workspace trust and task isolation to prevent RCE]]'
+- '[[Changes/Lovable/2026-08-11-limit-on-free-fixes|Limit on free fixes]]'
 - '[[Changes/Claude Code/2026-08-12-improved-sandbox-ipv6-literals-in-network-domain-lists-are-now-bracketed-1-443-a|Improved
   sandbox: IPv6 literals in network domain lists are now bracketed…]]'
 - '[[Changes/Claude Code/2026-08-13-9-safety-and-privacy-changes-in-v2-1-232|9 Safety

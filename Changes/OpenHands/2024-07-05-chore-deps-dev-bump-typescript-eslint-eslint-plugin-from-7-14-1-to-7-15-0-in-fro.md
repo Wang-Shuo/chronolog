@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 09e52ff94e52f545d3997ecde2bbe89cb0a2fe6f547a070b65e6d1f9f6dbf93e
+machine_hash: f5b014607e4d201b9e709e9db1da3da809f565c36dba517e22cd4710c2ffccfc
 product: openhands
 product_name: OpenHands
 record:
@@ -44,8 +44,8 @@ record:
     in /frontend'
   type: change
 related_changes:
-- '[[Changes/OpenHands/2024-06-05-bump-typescript-eslint-eslint-plugin-from-7-11-0-to-7-12-0-in-frontend-by-depend|Bump
-  @typescript-eslint/eslint-plugin from 7.11.0 to 7.12.0 in /frontend]]'
+- '[[Changes/Dify/2024-06-28-tracing-with-langsmith-and-langfuse-now-you-can-trace-your-apps-traffic-with-lan|Tracing
+  with LangSmith and Langfuse]]'
 - '[[Changes/OpenHands/2024-06-29-10-apps-and-integrations-changes-in-0-7-0|10 Apps
   and Integrations changes in 0.7.0]]'
 - '[[Changes/Cursor/2024-07-03-docs-management-go-to-cursor-settings-features-docs-to-re-index-your-docs|Docs
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2024-07-03 · Cursor · [[Changes/Cursor/2024-07-03-docs-management-go-to-cursor-settings-features-docs-to-re-index-your-docs|Docs management! Go to Cursor Settings  Features  Docs to re-index your docs]]
-- Later: 2024-07-13 · OpenHands · [[Changes/OpenHands/2024-07-13-2-apps-and-integrations-changes-in-0-8-0|2 Apps and Integrations changes in 0.8.0]]
+- Later: 2024-07-08 · Dify · [[Changes/Dify/2024-07-08-2-apps-and-integrations-changes-in-0-6-13|2 Apps and Integrations changes in 0.6.13]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

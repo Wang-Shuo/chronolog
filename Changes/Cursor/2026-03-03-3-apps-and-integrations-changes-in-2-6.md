@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 89d724a8cb6ccc825eb79ae5a3cd4c70e364edd2296f0051fb274bfe0d158ac3
+machine_hash: 8057c666471bc3dd16f3159cb6412bb7de28f4984faae60d14bcbe73d47a5758
 product: cursor
 product_name: Cursor
 record:
@@ -48,10 +48,9 @@ record:
   title: 3 Apps and Integrations changes in 2.6
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-28-added-enable-claudeai-mcp-servers-false-env-var-to-opt-out-from-making-claude-ai|Added
-  ENABLE_CLAUDEAI_MCP_SERVERS=false env var to opt out from making claude.ai…]]'
-- '[[Changes/Codex CLI/2026-03-02-3-apps-and-integrations-changes-in-rust-v0-107-0|3
-  Apps and Integrations changes in rust-v0.107.0]]'
+- '[[Changes/ElevenLabs/2026-03-02-sdk-releases|SDK Releases]]'
+- '[[Changes/v0/2026-03-02-2-apps-and-integrations-changes-in-bug-fixes-and-improvements-for-mar-2nd|2
+  Apps and Integrations changes in Bug fixes and improvements for Mar 2nd]]'
 - '[[Changes/Cline/2026-03-03-3-apps-and-integrations-changes-in-v3-69-0|3 Apps and
   Integrations changes in v3.69.0]]'
 source_release: '[[Releases/Cursor/cursor-2026-03-03-2-6-https-cursor-com-changelog-2-6-0fa7f1a3|cursor-2026-03-03-2-6-https-cursor-com-changelog-2-6-0fa7f1a3]]'

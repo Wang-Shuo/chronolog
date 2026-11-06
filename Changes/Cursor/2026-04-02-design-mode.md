@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: ceb80e816edfd9954993aefdb5ee8cc0d07787a8c006202d81656c5c109e5a65
+machine_hash: 6263d979c5858f5a473f24285ab2f23014d5b9e5579d3d33ad62120ae5e7a337
 product: cursor
 product_name: Cursor
 record:
@@ -55,8 +55,7 @@ record:
   title: Design Mode
   type: change
 related_changes:
-- '[[Changes/Cline/2026-04-01-exclude-new-task-tool-from-system-prompt-in-yolo-headless-mode|Exclude
-  new_task tool from system prompt in yolo/headless mode]]'
+- '[[Changes/ElevenLabs/2026-04-01-new-endpoints|New Endpoints]]'
 - '[[Changes/Gemini CLI/2026-04-01-10-agent-mode-changes-in-v0-36-0|10 Agent Mode
   changes in v0.36.0]]'
 - '[[Changes/Cursor/2026-04-02-4-agent-mode-changes-in-3-0|4 Agent Mode changes in
@@ -114,7 +113,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-04-01 · Gemini CLI · [[Changes/Gemini CLI/2026-04-01-10-agent-mode-changes-in-v0-36-0|10 Agent Mode changes in v0.36.0]]
-- Later: 2026-04-03 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-03-built-in-skills-are-now-included-with-the-cli-starting-with-a-guide-for-customiz|Built-in skills are now included with the CLI, starting with a guide for customizing…]]
+- Later: 2026-04-02 · Lovable · [[Changes/Lovable/2026-04-02-ai-powered-visual-edits|AI-powered visual edits]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

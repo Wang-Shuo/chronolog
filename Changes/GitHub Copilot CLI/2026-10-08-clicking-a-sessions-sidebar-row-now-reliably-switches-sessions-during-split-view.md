@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0f050485f027096c6b38f48161a2f88cb51206c0d2dc6bd19f4907d5b00fdba5
+machine_hash: cf5706c896c5c8cb652bdef4ae6650df2c4dff6c1bddbc025454f7b309bfac39
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -42,8 +42,8 @@ record:
   title: Clicking a Sessions sidebar row now reliably switches sessions during split-view…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-07-49856-support-daybreak-selection-in-codex-exec-etraut-openai|♯49856
-  Support Daybreak selection in codex exec @etraut-openai]]'
+- '[[Changes/Ollama/2026-10-07-cmd-remove-account-step-from-cli-onboarding-by-hoyyeva-in-https-github-com-ollam|cmd:
+  remove account step from CLI onboarding]]'
 - '[[Changes/Claude Code/2026-10-08-2-interface-experience-changes-in-v2-1-295|2 Interface
   Experience changes in v2.1.295]]'
 - '[[Changes/Codex CLI/2026-10-08-8-interface-experience-changes-in-rust-v0-162-0|8

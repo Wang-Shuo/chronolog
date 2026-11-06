@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9a83c0a9885f926dfe58eadd0ec533c21c226abbd3c0b487a6b4f4c63b01d6f7
+machine_hash: 8bb7ac2c4a94f17f754e70652042ac5faefec08ec6c331e37628d0bb1f85c4b8
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,10 +48,10 @@ record:
   title: 3 Agent Mode changes in v2.1.300
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-10-12-4-agent-mode-changes-in-v1-27-0|4 Agent Mode changes
-  in v1.27.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-13-3-agent-mode-changes-in-v1-0-97|3 Agent
   Mode changes in v1.0.97]]'
+- '[[Changes/Lovable/2026-10-13-let-browser-agents-use-your-app|Let browser agents
+  use your app]]'
 - '[[Changes/Claude Code/2026-10-14-5-agent-mode-changes-in-v2-1-299|5 Agent Mode
   changes in v2.1.299]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-14-v2-1-300-github-412815061-c358fcd0|claude-code-2026-10-14-v2-1-300-github-412815061-c358fcd0]]'
@@ -100,7 +100,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.300
 ## Nearby in Agent Mode
 
 - Earlier: 2026-10-14 · Claude Code · [[Changes/Claude Code/2026-10-14-5-agent-mode-changes-in-v2-1-299|5 Agent Mode changes in v2.1.299]]
-- Later: 2026-10-15 · Codex CLI · [[Changes/Codex CLI/2026-10-15-14-agent-mode-changes-in-rust-v0-163-0|14 Agent Mode changes in rust-v0.163.0]]
+- Later: 2026-10-14 · Ollama · [[Changes/Ollama/2026-10-14-a-compact-sibling-nemotron-3-5-bolt-https-ollama-com-library-nemotron-3-5-bolt-d|A compact sibling, Nemotron 3.5…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

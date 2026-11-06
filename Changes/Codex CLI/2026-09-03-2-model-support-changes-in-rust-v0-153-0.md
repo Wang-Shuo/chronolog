@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: afcfcd018f915336dfa89ac7413e3a985298e3e59deb0e6763cd8b04a50b0afa
+machine_hash: 0cf91e6e70dd931802139023d57a010addb13dbc4be3ca235fb6544e4b520de1
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -46,8 +46,8 @@ record:
   title: 2 Model Support changes in rust-v0.153.0
   type: change
 related_changes:
-- '[[Changes/Cline/2026-09-02-3-model-support-changes-in-v4-1-17|3 Model Support changes
-  in v4.1.17]]'
+- '[[Changes/Ollama/2026-09-02-honor-gguf-model-defined-default-parameters|Honor GGUF
+  model defined default parameters]]'
 - '[[Changes/ChatGPT/2026-09-03-today-we-re-introducing-gpt-6-astra-with-improvements-in-coding-research-compute-069f67|Introducing
   GPT-6 Astra]]'
 - '[[Changes/Claude Code/2026-09-03-2-model-support-changes-in-v2-1-260|2 Model Support

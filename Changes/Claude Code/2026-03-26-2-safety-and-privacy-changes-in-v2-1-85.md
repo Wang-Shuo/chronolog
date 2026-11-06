@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 52bf05188cd9a5f8d10bf1c13b269c3d67fd59ad1aacfc7eff35133aabaaf19f
+machine_hash: b5fa53addf23e586ce7ea0e825f1165372a0a2bae2efa00b99ce3115785f6822
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,10 @@ record:
   title: 2 Safety and Privacy changes in v2.1.85
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-03-24-5-safety-and-privacy-changes-in-v0-35-0|5 Safety
-  and Privacy changes in v0.35.0]]'
 - '[[Changes/Claude Code/2026-03-25-2-safety-and-privacy-changes-in-v2-1-83|2 Safety
   and Privacy changes in v2.1.83]]'
+- '[[Changes/Open WebUI/2026-03-25-4-safety-and-privacy-changes-in-v0-8-11|4 Safety
+  and Privacy changes in v0.8.11]]'
 - '[[Changes/Claude Code/2026-03-26-fixed-the-allow-claude-to-edit-its-own-settings-for-this-session-permission-opti|Fixed
   the "allow Claude to edit its own settings for this session" permission option…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-26-v2-1-85-github-302129484-6eb9dcd7|claude-code-2026-03-26-v2-1-85-github-302129484-6eb9dcd7]]'

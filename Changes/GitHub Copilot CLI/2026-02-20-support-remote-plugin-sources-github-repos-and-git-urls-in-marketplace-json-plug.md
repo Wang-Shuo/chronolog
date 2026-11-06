@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: cf6bc7e32778818718c917b85e52e8aef08ff6a0fca72a8395321c04e3a58b6a
+machine_hash: 51e2395686d92b45469a9653c7c0ad81339002df05f1856b75aefe13809e02d5
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,10 +45,10 @@ record:
     plugin…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-19-2-apps-and-integrations-changes-in-v2-1-49|2 Apps
-  and Integrations changes in v2.1.49]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-19-3-apps-and-integrations-changes-in-v0-0-412|3
   Apps and Integrations changes in v0.0.412]]'
+- '[[Changes/Ollama/2026-02-19-ollama-launch-integration-will-now-always-show-the-model-picker|ollama
+  launch integration will now always show the model picker]]'
 - '[[Changes/Claude Code/2026-02-20-claude-code-simple-mode-now-also-disables-mcp-tools-attachments-hooks-and-claude|CLAUDE_CODE_SIMPLE
   mode now also disables MCP tools, attachments, hooks…]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-02-20-v0-0-413-github-288918542-5fe1e9b1|github-copilot-cli-2026-02-20-v0-0-413-github-288918542-5fe1e9b1]]'
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-02-20 · Claude Code · [[Changes/Claude Code/2026-02-20-claude-code-simple-mode-now-also-disables-mcp-tools-attachments-hooks-and-claude|CLAUDE_CODE_SIMPLE mode now also disables MCP tools, attachments, hooks…]]
-- Later: 2026-02-21 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-21-explore-agent-can-now-use-github-mcp-tools-when-available|Explore agent can now use GitHub MCP tools when available]]
+- Later: 2026-02-20 · Replit · [[Changes/Replit/2026-02-20-razorpay-mcp-integration|Razorpay MCP integration]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

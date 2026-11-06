@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 00eea0b9131bd8942e8a58b877553c8e71523289bec302900a557dd5ce81ac56
+machine_hash: dfe913f861ec3a8ed7d5ad1caf54e07dd27aa67262712f4db7c1f152364cd0df
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -43,8 +43,8 @@ record:
   title: Improve code coverage for cli/src/ui/privacy package
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-11-20-docs-remove-references-to-deprecated-flags-checkpointing-sandbox-image-by-nayong|docs:
-  remove references to deprecated flags (--checkpointing, --sandbox-image)]]'
+- '[[Changes/Lovable/2025-11-26-private-projects-for-everyone|Private projects for
+  everyone]]'
 - '[[Changes/Cline/2025-11-27-maint-npm-audit-fix-for-glob-package-vulnerability-by-canvrno-in-https-github-co|maint:
   npm audit fix for glob package vulnerability]]'
 - '[[Changes/Codex CLI/2025-12-02-9-safety-and-privacy-changes-in-rust-v0-64-0|9 Safety
@@ -82,7 +82,7 @@ type: change
 ## Nearby in Safety and Privacy
 
 - Earlier: 2025-12-02 · Codex CLI · [[Changes/Codex CLI/2025-12-02-9-safety-and-privacy-changes-in-rust-v0-64-0|9 Safety and Privacy changes in rust-v0.64.0]]
-- Later: 2025-12-09 · Codex CLI · [[Changes/Codex CLI/2025-12-09-3-safety-and-privacy-changes-in-rust-v0-66-0|3 Safety and Privacy changes in rust-v0.66.0]]
+- Later: 2025-12-02 · Open WebUI · [[Changes/Open WebUI/2025-12-02-2-safety-and-privacy-changes-in-v0-6-41|2 Safety and Privacy changes in v0.6.41]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

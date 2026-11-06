@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 9c1b19ce4715d8de8ab32b5d92c3f6d5fb7fb517b677780605cc85f11b7881a8
+machine_hash: 3cfe09d515215a62002b574ec15515f9d7be8728fc99aff97d9536a8d48b85b5
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -79,7 +79,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-05-13 · Cursor · [[Changes/Cursor/2026-05-13-full-screen-tabs-faa5d2|Full-screen tabs]]
-- Later: 2026-05-18 · Codex CLI · [[Changes/Codex CLI/2026-05-18-5-interface-experience-changes-in-rust-v0-131-0|5 Interface Experience changes in rust-v0.131.0]]
+- Later: 2026-05-15 · v0 · [[Changes/v0/2026-05-15-2-interface-experience-changes-in-claude-opus-4-7-fast-agent-browser|2 Interface Experience changes in Claude Opus 4.7 Fast, agent browser…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

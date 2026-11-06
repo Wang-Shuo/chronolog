@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 87e45c99fba3729374df7d05b4c46307537a73f69dc54fff0ecd40a477ffc94c
+machine_hash: 02fc6b3736c504252a24933a27ccddf7f94d1f49df44e843fd82d176497c8e64
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -58,12 +58,11 @@ record:
   title: 8 Apps and Integrations changes in v1.0.87
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-17-24-apps-and-integrations-changes-in-rust-v0-155-0|24
-  Apps and Integrations changes in rust-v0.155.0]]'
-- '[[Changes/GitHub Copilot CLI/2026-09-17-resuming-an-active-session-without-plugin-directory-discovery-or-working-directo|Resuming
-  an active session without plugin-directory, discovery, or working-directory…]]'
+- '[[Changes/Lovable/2026-09-17-connect-your-app-to-the-lovable-api|Connect your app
+  to the Lovable API]]'
 - '[[Changes/Claude Code/2026-09-18-6-apps-and-integrations-changes-in-v2-1-277|6
   Apps and Integrations changes in v2.1.277]]'
+- '[[Changes/ElevenLabs/2026-09-21-sdk-releases|SDK releases]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-09-21-v1-0-87-github-393077593-9fe949ec|github-copilot-cli-2026-09-21-v1-0-87-github-393077593-9fe949ec]]'
 source_type: github_releases
 theme: apps-integrations
@@ -116,8 +115,8 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.87
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-09-18 · Claude Code · [[Changes/Claude Code/2026-09-18-6-apps-and-integrations-changes-in-v2-1-277|6 Apps and Integrations changes in v2.1.277]]
-- Later: 2026-09-22 · Claude Code · [[Changes/Claude Code/2026-09-22-8-apps-and-integrations-changes-in-v2-1-280|8 Apps and Integrations changes in v2.1.280]]
+- Earlier: 2026-09-21 · ElevenLabs · [[Changes/ElevenLabs/2026-09-21-sdk-releases|SDK releases]]
+- Later: 2026-09-21 · Open WebUI · [[Changes/Open WebUI/2026-09-21-3-apps-and-integrations-changes-in-v0-11-4|3 Apps and Integrations changes in v0.11.4]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

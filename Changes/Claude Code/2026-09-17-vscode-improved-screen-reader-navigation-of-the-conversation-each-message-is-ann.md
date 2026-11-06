@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: accessibility-localization
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 18ccad17dd034708501f40384c98d02b40f3643946e389f87657e80b4105fcab
+machine_hash: 9df8803b91e2e4556598b62151186a385fc0f539a78c310e64998028b4dfe343
 product: claude-code
 product_name: Claude Code
 record:
@@ -54,12 +54,12 @@ record:
   title: '[VSCode] Improved screen reader navigation of the conversation'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-22-added-screen-reader-announcements-of-deleted-text-for-word-and-line-deletions-op|Added
-  screen-reader announcements of deleted text for word and line deletions…]]'
-- '[[Changes/Claude Code/2026-08-14-improved-screen-reader-mode-the-effort-selector-renders-as-a-numbered-list-with|Improved
-  screen reader mode]]'
+- "[[Changes/Open WebUI/2026-08-31-high-contrast-mode-is-now-accessibility-mode-the-interface-setting-previously-ca|\U0001F3F7️
+  High Contrast Mode is now Accessibility Mode. The interface setting…]]"
 - '[[Changes/Claude Code/2026-09-10-vscode-added-a-claude-code-focus-last-message-command-that-moves-keyboard-focus|VSCode
   Added a "Claude Code]]'
+- '[[Changes/Dify/2026-09-10-3-accessibility-and-localization-changes-in-1-17-1|3
+  Accessibility and Localization changes in 1.17.1]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-17-v2-1-274-github-390317660-0d9c7c5d|claude-code-2026-09-17-v2-1-274-github-390317660-0d9c7c5d]]'
 source_type: github_releases
 theme: accessibility-localization
@@ -100,7 +100,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Accessibility and Localization
 
-- Earlier: 2026-09-10 · Claude Code · [[Changes/Claude Code/2026-09-10-vscode-added-a-claude-code-focus-last-message-command-that-moves-keyboard-focus|VSCode Added a "Claude Code]]
+- Earlier: 2026-09-10 · Dify · [[Changes/Dify/2026-09-10-3-accessibility-and-localization-changes-in-1-17-1|3 Accessibility and Localization changes in 1.17.1]]
 - Later: 2026-09-22 · Codex CLI · [[Changes/Codex CLI/2026-09-22-46040-default-tui-animations-off-when-a-screen-reader-is-detected-etraut-openai|♯46040 Default TUI animations off when a screen reader is detected @etraut-openai]]
 <!-- chronolog:end -->
 

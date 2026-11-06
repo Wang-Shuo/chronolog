@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 041c9904f27e9b96240ee5459de9db9bc1a1d08fd09796ad0e98eff5dda885fd
+machine_hash: 22498c9dbd7acab7c3158c52b13fb4e9dc4f29b6c99245ce8f0f902984bc4230
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,10 +43,10 @@ record:
   title: 2 Developer Workflow changes in v2.1.216
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-16-8-developer-workflow-changes-in-v1-0-71|8
-  Developer Workflow changes in v1.0.71]]'
 - '[[Changes/Claude Code/2026-07-17-changed-enterprise-forceloginmethod-to-be-enforced-for-vs-code-extension-sdk-set|Changed
   Enterprise forceLoginMethod to be enforced for VS Code extension, SDK…]]'
+- '[[Changes/Dify/2026-07-17-3-developer-workflow-changes-in-1-16-0|3 Developer Workflow
+  changes in 1.16.0]]'
 - '[[Changes/Claude Code/2026-07-19-claude-no-longer-runs-the-verify-and-code-review-skills-on-its-own-invoke-them-w|Claude
   no longer runs the /verify and /code-review skills on its own]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-20-v2-1-216-github-356972381-87e422ae|claude-code-2026-07-20-v2-1-216-github-356972381-87e422ae]]'

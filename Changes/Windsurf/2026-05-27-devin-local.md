@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 7ca132c0ff65803805cd3ee116fb07537615aae06e8cb3238eb83f4d333b0992
+machine_hash: a99ea5334600f34a938b899c6f9719cf38b5f5ccb716f37929efdf18d6ce83c9
 product: windsurf
 product_name: Windsurf
 record:
@@ -62,12 +62,11 @@ record:
   title: Devin Local
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-05-26-3-agent-mode-changes-in-rust-v0-134-0|3 Agent Mode
-  changes in rust-v0.134.0]]'
 - '[[Changes/Claude Code/2026-05-27-2-agent-mode-changes-in-v2-1-152|2 Agent Mode
   changes in v2.1.152]]'
 - '[[Changes/Gemini CLI/2026-05-27-4-agent-mode-changes-in-v0-44-0|4 Agent Mode changes
   in v0.44.0]]'
+- '[[Changes/Lovable/2026-05-27-subagents|Subagents]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-05-27-v2-3-15-208045a3|windsurf-2026-05-27-v2-3-15-208045a3]]'
 source_type: windsurf_changelog
 theme: agent-mode
@@ -106,7 +105,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-05-27 · Gemini CLI · [[Changes/Gemini CLI/2026-05-27-4-agent-mode-changes-in-v0-44-0|4 Agent Mode changes in v0.44.0]]
+- Earlier: 2026-05-27 · Lovable · [[Changes/Lovable/2026-05-27-subagents|Subagents]]
 - Later: 2026-05-28 · Claude Code · [[Changes/Claude Code/2026-05-28-4-agent-mode-changes-in-v2-1-154|4 Agent Mode changes in v2.1.154]]
 <!-- chronolog:end -->
 

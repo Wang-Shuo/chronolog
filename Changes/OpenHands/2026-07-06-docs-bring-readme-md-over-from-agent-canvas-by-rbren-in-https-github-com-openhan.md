@@ -4,20 +4,20 @@ date: '2026-07-06'
 description: 'OpenHands · 2026-07-06 · Files and Data: docs: Bring README.md over
   from Agent Canvas by @rbren in https://github.com/OpenHands/OpenHands/pull/14844'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code
-    interpreter is now rolling out in beta on web]]'
+  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
+    Files and Data changes in 0.2.2]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1096
+  lag_days: 1138
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: dee118b2bb6678e6e1d2ae3d140c736c0ae835490758011e0b3ec8b86286af71
+machine_hash: fd90278eb71f5a44897ccdceb5d6f3b8dae3952c077a03b993ed41a8d65a0287
 product: openhands
 product_name: OpenHands
 record:
@@ -53,10 +53,10 @@ record:
   title: 'docs: Bring README.md over from Agent Canvas'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-06-26-the-personal-finance-experience-in-chatgpt-is-rolling-out-to-plus-users-in-the-u|Personal
-  finance in ChatGPT expands to Plus users and Android]]'
 - '[[Changes/Claude Code/2026-06-29-added-clickable-file-attachments-in-chat-cmd-ctrl-click-reveals-the-file-in-find|Added
   clickable file attachments in chat]]'
+- '[[Changes/Open WebUI/2026-06-29-5-files-and-data-changes-in-v0-10-0|5 Files and
+  Data changes in v0.10.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-30-match-the-terminal-text-color-to-the-github-theme-canvas|Match
   the terminal text color to the GitHub theme canvas]]'
 source_release: '[[Releases/OpenHands/openhands-2026-07-06-1-9-0-github-349633843-8010776a|openhands-2026-07-06-1-9-0-github-349633843-8010776a]]'
@@ -105,7 +105,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-06 · ChatGPT · [[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code interpreter is now rolling out in beta on web]]
+- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4c99ade9efc6b7d1616cc3352d4c70d5a4cd4def1ba94946fb00ed80af02e14d
+machine_hash: a46d96a822d48b04e00ca5c9d6a9b0b0357412354da3981f7b9cdeaace859148
 product: claude-code
 product_name: Claude Code
 record:
@@ -50,8 +50,8 @@ record:
   title: 4 Developer Workflow changes in v2.1.81
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-18-scroll-works-correctly-in-macos-terminal-app-and-other-terminals-that-don-t-supp|Scroll
-  works correctly in macOS Terminal.app and other terminals that don''t support…]]'
+- '[[Changes/Ollama/2026-03-18-add-extra-check-to-ensure-npm-and-git-are-installed-before-installing-openclaw|Add
+  extra check to ensure npm and git are installed before installing OpenClaw]]'
 - '[[Changes/Codex CLI/2026-03-19-5-developer-workflow-changes-in-rust-v0-116-0|5
   Developer Workflow changes in rust-v0.116.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-19-2-developer-workflow-changes-in-v1-0-9|2

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ea771fd1ccf89d397fef54bb6415c0ea221cb181550e68438b818b5e6ac03a19
+machine_hash: ca1998b4a2fc5f9beb4c36127ba8be26ac77c1f62950beb409094f552e4569f9
 product: openhands
 product_name: OpenHands
 record:
@@ -43,10 +43,10 @@ record:
   title: 2 Model Support changes in 0.23.0
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-01-23-better-codebase-understanding-we-ve-trained-a-new-model-for-codebase-understandi|Better
-  Codebase Understanding: We''ve trained a new model for Codebase Understanding]]'
 - '[[Changes/Cline/2025-01-30-save-last-used-api-model-when-switching-between-plan-and-act-for-users-that-like|Save
   last used API/model when switching between Plan and Act, for users that like…]]'
+- '[[Changes/Gemini/2025-01-30-introducing-gemini-2-0-flash-to-gemini|Introducing
+  Gemini 2.0 Flash to Gemini]]'
 - '[[Changes/Aider/2025-01-31-5-model-support-changes-in-v0-73-0|5 Model Support changes
   in v0.73.0]]'
 source_release: '[[Releases/OpenHands/openhands-2025-02-04-0-23-0-github-198436178-41034f22|openhands-2025-02-04-0-23-0-github-198436178-41034f22]]'
@@ -82,7 +82,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/0.23.0
 ## Nearby in Model Support
 
 - Earlier: 2025-01-31 · Aider · [[Changes/Aider/2025-01-31-5-model-support-changes-in-v0-73-0|5 Model Support changes in v0.73.0]]
-- Later: 2025-02-06 · Aider · [[Changes/Aider/2025-02-06-4-model-support-changes-in-v0-74-0|4 Model Support changes in v0.74.0]]
+- Later: 2025-02-05 · Gemini · [[Changes/Gemini/2025-02-05-try-our-2-0-flash-thinking-experimental-models|Try our 2.0 Flash Thinking Experimental models]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

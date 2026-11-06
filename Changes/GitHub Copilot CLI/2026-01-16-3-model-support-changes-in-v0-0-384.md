@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1748b077c0f47a83cd3af20f17d93d4be4d9bfae6c2b880b427fef74b791fded
+machine_hash: 1d783b9589269a33414f9e0a71a11a47a12d38b52ec66eac77c4cb7a4b106bfa
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -91,7 +91,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v0.0.384
 ## Nearby in Model Support
 
 - Earlier: 2026-01-16 · Cursor · [[Changes/Cursor/2026-01-16-models-removed-use-model-to-see-all-models-or-select-a-model|/models removed. Use /model to see all models or select a model]]
-- Later: 2026-01-16 · Windsurf · [[Changes/Windsurf/2026-01-16-improvements-to-gpt-5-2-codex-harness|Improvements to GPT-5.2-Codex harness]]
+- Later: 2026-01-16 · Lovable · [[Changes/Lovable/2026-01-16-gpt-5-2-and-gemini-3-flash-support|GPT-5.2 and Gemini 3 Flash support]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

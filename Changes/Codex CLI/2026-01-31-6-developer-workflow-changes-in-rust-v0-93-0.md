@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ee240bcc01382cce433c905b8940eb075ec251a7eb066de7d79743b958e49b31
+machine_hash: 2424a894a208e876b596f601458bcf68467302d3b647e101aeda330b15354272
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -51,8 +51,8 @@ record:
   title: 6 Developer Workflow changes in rust-v0.93.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-01-29-add-lsp-language-server-protocol-tool-for-code-intelligence-requires-staff-flag|Add
-  LSP (Language Server Protocol) tool for code intelligence (requires staff flag)]]'
+- '[[Changes/v0/2026-01-29-added-server-logs-for-better-debugging|Added server logs
+  for better debugging]]'
 - '[[Changes/Claude Code/2026-01-30-2-developer-workflow-changes-in-v2-1-27|2 Developer
   Workflow changes in v2.1.27]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-30-3-developer-workflow-changes-in-v0-0-400|3

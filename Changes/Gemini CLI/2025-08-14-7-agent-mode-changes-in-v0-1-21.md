@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: db0b6133c2b208183ee1ec75a1d4aab3321dbe43e6d597d5c2d2e0d5571b3e81
+machine_hash: 29f0b60bf069063c614bcfc01a061176da08d264ebd9be6417253f06add54bd0
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -56,8 +56,8 @@ record:
   title: 7 Agent Mode changes in v0.1.21
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-08-06-6-agent-mode-changes-in-v0-1-18|6 Agent Mode changes
-  in v0.1.18]]'
+- '[[Changes/Lovable/2025-08-11-agent-mode-is-the-new-default-mode|Agent Mode is the
+  new default mode]]'
 - '[[Changes/Gemini CLI/2025-08-12-feat-agent-introduce-foundational-subagent-architecture-by-abhipatel12-in-https|feat(agent):
   Introduce Foundational Subagent Architecture]]'
 - '[[Changes/OpenHands/2025-08-13-enhanced-the-cli-interface-by-adding-proper-markdown-rendering-for-agent-message|Enhanced

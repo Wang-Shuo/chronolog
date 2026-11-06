@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1619bf1d5c1acb9465e26b9dbde77b7311b2761a78cec7faf2f13064e2706127
+machine_hash: 226adfa28dd22458f77db5a6da6672d25d0300186f1afd2a65b7f45c18c0b06d
 product: cline
 product_name: Cline
 record:
@@ -53,10 +53,10 @@ record:
     using…
   type: change
 related_changes:
-- '[[Changes/Cline/2025-05-21-add-support-for-gemini-2-5-flash-preview-05-20-model-to-vertex-ai-provider-with|Add
-  support for Gemini 2.5 Flash Preview 05-20 model to Vertex AI provider…]]'
 - '[[Changes/Cline/2025-05-21-add-support-for-gemini-2-5-flash-preview-05-20-model-to-vertex-ai-provider-with-d2d830|Add
   support for Gemini 2.5 Flash Preview 05-20 model to Vertex AI provider…]]'
+- "[[Changes/Open WebUI/2025-05-28-localization-translation-enhancements-improved-and-expanded-simplified-tradition|\U0001F30D
+  Localization & Translation Enhancements]]"
 - '[[Changes/Aider/2025-05-30-2-context-window-changes-in-v0-84-0|2 Context Window
   changes in v0.84.0]]'
 source_release: '[[Releases/Cline/cline-2025-06-10-v3-17-12-github-224397391-8b81633a|cline-2025-06-10-v3-17-12-github-224397391-8b81633a]]'
@@ -90,7 +90,7 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2025-05-30 · Aider · [[Changes/Aider/2025-05-30-2-context-window-changes-in-v0-84-0|2 Context Window changes in v0.84.0]]
-- Later: 2025-06-20 · OpenHands · [[Changes/OpenHands/2025-06-20-2-context-window-changes-in-0-43-0|2 Context Window changes in 0.43.0]]
+- Later: 2025-06-11 · Dify · [[Changes/Dify/2025-06-11-refactor-replaces-direct-db-session-usage-with-context-managers-by-laipz8200-in|refactor: Replaces direct DB session usage with context managers]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

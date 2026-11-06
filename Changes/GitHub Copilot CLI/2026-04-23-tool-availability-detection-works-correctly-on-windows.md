@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: aa4bf5d04cabb7eac356b9d52601b37a048d47e1b9e63e1b01e1b5682f5e13eb
+machine_hash: c6597a7cd17df70c6b21e24600377f154c0f42c5f18b359ef0ee7992812fce91
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,10 +43,10 @@ record:
   title: Tool availability detection works correctly on Windows
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-17-extra-usage-now-works-from-remote-control-mobile-web-clients|/extra-usage
-  now works from Remote Control (mobile/web) clients]]'
-- '[[Changes/Codex CLI/2026-04-20-2-mobile-and-desktop-changes-in-rust-v0-122-0|2
-  Mobile and Desktop changes in rust-v0.122.0]]'
+- '[[Changes/Open WebUI/2026-04-21-2-mobile-and-desktop-changes-in-v0-9-0|2 Mobile
+  and Desktop changes in v0.9.0]]'
+- '[[Changes/Ollama/2026-04-22-fixed-model-picker-showing-stale-model-after-switching-chats-in-the-macos-app|Fixed
+  model picker showing stale model after switching chats in the macOS app]]'
 - '[[Changes/Gemini CLI/2026-04-23-use-macos-latest-large-runner-where-applicable-by-scidomino-in-https-github-com|use
   macos-latest-large runner where applicable]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-04-23-v1-0-35-github-312982689-0111445c|github-copilot-cli-2026-04-23-v1-0-35-github-312982689-0111445c]]'

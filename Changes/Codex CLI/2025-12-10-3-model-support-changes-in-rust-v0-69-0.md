@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 862a290600309221c0ae2ee24f7c0199a2a6346d218f63d86935da35bb252cc0
+machine_hash: a4e5378f9d159b65617514f3fc07e23c7dfc3c2382f46040e4f1b0f335213e71
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -45,12 +45,12 @@ record:
   title: 3 Model Support changes in rust-v0.69.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2025-12-05-gpt-5-1-codex-max-is-now-available-in-github-copilot-cli|GPT-5.1-Codex-Max
-  is now available in GitHub Copilot CLI]]'
 - '[[Changes/Codex CLI/2025-12-09-8-model-support-changes-in-rust-v0-66-0|8 Model
   Support changes in rust-v0.66.0]]'
 - '[[Changes/Gemini CLI/2025-12-09-7-model-support-changes-in-v0-20-0|7 Model Support
   changes in v0.20.0]]'
+- '[[Changes/Ollama/2025-12-09-4-model-support-changes-in-v0-13-3|4 Model Support
+  changes in v0.13.3]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-12-10-rust-v0-69-0-github-269307708-4ae297da|codex-cli-2025-12-10-rust-v0-69-0-github-269307708-4ae297da]]'
 source_type: github_releases
 theme: model-support
@@ -90,7 +90,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.69.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-12-09 · Gemini CLI · [[Changes/Gemini CLI/2025-12-09-7-model-support-changes-in-v0-20-0|7 Model Support changes in v0.20.0]]
+- Earlier: 2025-12-09 · Ollama · [[Changes/Ollama/2025-12-09-4-model-support-changes-in-v0-13-3|4 Model Support changes in v0.13.3]]
 - Later: 2025-12-10 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-12-10-add-grep-tool-codex-models|Add grep tool Codex models]]
 <!-- chronolog:end -->
 

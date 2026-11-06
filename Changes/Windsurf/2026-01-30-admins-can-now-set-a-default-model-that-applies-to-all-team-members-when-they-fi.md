@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 4a3e69ab7112a5afabc4ae22eb4e5ba540151816dee30425d9b646bc9ee61fd8
+machine_hash: f4ce27126c0c9751a5c5581b845cdf31b96e6a9381a6915764feebf43754bf55
 product: windsurf
 product_name: Windsurf
 record:
@@ -92,7 +92,7 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2026-01-27 · Codex CLI · [[Changes/Codex CLI/2026-01-27-2-collaboration-changes-in-rust-v0-92-0|2 Collaboration changes in rust-v0.92.0]]
-- Later: 2026-02-04 · Codex CLI · [[Changes/Codex CLI/2026-02-04-10404-cleanup-collaboration-mode-variants-charley-oai|♯10404 Cleanup collaboration mode variants @charley-oai]]
+- Later: 2026-02-03 · Ollama · [[Changes/Ollama/2026-02-03-qwen3-coder-next-https-ollama-com-library-qwen3-coder-next-a-coding-focused-lang|Qwen3-Coder-Next((source link) a coding-focused…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

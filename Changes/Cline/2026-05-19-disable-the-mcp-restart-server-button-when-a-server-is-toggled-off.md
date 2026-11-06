@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4ec96bbc878c0a806a9a144d74e56da536b0f80d74917cf7f297fda979384f03
+machine_hash: ecd4e98448baf1754017977c395c8ccbc3183611cfe792590aa06f84c3251c99
 product: cline
 product_name: Cline
 record:
@@ -41,8 +41,8 @@ record:
   title: Disable the MCP "Restart Server" button when a server is toggled off
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-05-18-56-apps-and-integrations-changes-in-rust-v0-131-0|56
-  Apps and Integrations changes in rust-v0.131.0]]'
+- '[[Changes/Lovable/2026-05-18-chat-with-lovable-in-telegram|Chat with Lovable in
+  Telegram]]'
 - '[[Changes/Claude Code/2026-05-19-plugin-discover-and-browse-screens-now-show-a-plugin-s-commands-agents-skills-ho|/plugin
   Discover and Browse screens now show a plugin''s commands, agents, skills…]]'
 - '[[Changes/Claude Code/2026-05-19-3-apps-and-integrations-changes-in-v2-1-144|3

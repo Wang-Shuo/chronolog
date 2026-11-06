@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: fcb40c71c11c9c64958976b62ece981b9c4363f07ccf92b4e20e1d526cbadb8a
+machine_hash: 5cc2e7c19367be9117c8beacf0592c7d58e4e2fb2a0ac5f1a0fbd73fac3988ae
 product: cline
 product_name: Cline
 record:
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-06-11 · Cline · [[Changes/Cline/2026-06-11-2-apps-and-integrations-changes-in-v3-89-2|2 Apps and Integrations changes in v3.89.2]]
-- Later: 2026-06-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-13-8-apps-and-integrations-changes-in-v1-0-62|8 Apps and Integrations changes in v1.0.62]]
+- Later: 2026-06-12 · Claude · [[Changes/Claude/2026-06-12-edit-claude-s-drafts-in-place|Edit Claude’s drafts in place]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

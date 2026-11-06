@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: cd31f974f6ca0655a3475e0afd77b8f3cf962c2603d18196758a0d2a1339b55e
+machine_hash: 0d699e93c7ad2ee8d80eb1b673b7266693603ebb6965406c3b403a9bd3cda1f3
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,12 +49,12 @@ record:
   title: 3 Model Support changes in v2.1.212
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-14-improved-the-bash-powershell-tool-message-when-a-command-hits-its-timeout-and-is|Improved
-  the Bash/PowerShell tool message when a command hits its timeout…]]'
 - '[[Changes/Cline/2026-07-16-add-gpt-5-6-chatgpt-subscription-models|Add GPT-5.6
   ChatGPT subscription models]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-16-3-model-support-changes-in-v1-0-71|3 Model
   Support changes in v1.0.71]]'
+- '[[Changes/Ollama/2026-07-16-2-model-support-changes-in-v0-32-1|2 Model Support
+  changes in v0.32.1]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-17-v2-1-212-github-355310036-d94b4e11|claude-code-2026-07-17-v2-1-212-github-355310036-d94b4e11]]'
 source_type: github_releases
 theme: model-support
@@ -96,8 +96,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.212
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-07-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-16-3-model-support-changes-in-v1-0-71|3 Model Support changes in v1.0.71]]
-- Later: 2026-07-18 · Codex CLI · [[Changes/Codex CLI/2026-07-18-3-model-support-changes-in-rust-v0-144-6|3 Model Support changes in rust-v0.144.6]]
+- Earlier: 2026-07-16 · Ollama · [[Changes/Ollama/2026-07-16-2-model-support-changes-in-v0-32-1|2 Model Support changes in v0.32.1]]
+- Later: 2026-07-17 · Dify · [[Changes/Dify/2026-07-17-12-model-support-changes-in-1-16-0|12 Model Support changes in 1.16.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

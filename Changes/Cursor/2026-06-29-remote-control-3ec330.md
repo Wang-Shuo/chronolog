@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 4edab740266c1205604d762df574c68a6e091ddc43e211f1e164b0b15828ed5e
+machine_hash: 2b6d18212582c7d2be828377c4e1112c61373b55ffc667cbfc7a00b3dc7d327c
 product: cursor
 product_name: Cursor
 record:
@@ -51,8 +51,8 @@ record:
   title: Remote Control
   type: change
 related_changes:
-- '[[Changes/Cline/2026-06-26-temporarily-disable-subagents-in-the-vs-code-extension-while-the-sdk-backed-expe|Temporarily
-  disable subagents in the VS Code extension while the SDK-backed…]]'
+- '[[Changes/v0/2026-06-26-2-agent-mode-changes-in-platform-api-v2-mcp-chat-tools|2
+  Agent Mode changes in Platform API v2, MCP chat tools…]]'
 - '[[Changes/Claude Code/2026-06-29-2-agent-mode-changes-in-v2-1-196|2 Agent Mode
   changes in v2.1.196]]'
 - '[[Changes/Cursor/2026-06-29-cloud-agents-on-mobile-1bc371|Cloud agents on mobile]]'
@@ -91,7 +91,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-06-29 · Claude Code · [[Changes/Claude Code/2026-06-29-2-agent-mode-changes-in-v2-1-196|2 Agent Mode changes in v2.1.196]]
-- Later: 2026-06-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-30-2-agent-mode-changes-in-v1-0-67|2 Agent Mode changes in v1.0.67]]
+- Later: 2026-06-29 · ElevenLabs · [[Changes/ElevenLabs/2026-06-29-elevenagents|ElevenAgents]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

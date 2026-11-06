@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 93dcfc6e5ace810833d5d3c14f4890c23963b5d574529db131e3cf8c844d3850
+machine_hash: 8ab82cfa9339b07e9e8592b2bb92820f4f0ef4f3b175920ed7ff3a0f756453d0
 product: aider
 product_name: Aider
 record:
@@ -43,10 +43,10 @@ record:
   title: Improved --foo/--no-foo switch handling for command line and yml config settings
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-08-01-improved-linter-please-give-us-feedback-on-the-linter-suggestions-using-the-smil|Improved
-  linter]]'
-- '[[Changes/Cursor/2023-08-03-also-the-linter-is-slightly-improved|In-editor chat
-  is back!]]'
+- '[[Changes/Ollama/2023-08-10-ollama-pull-can-now-be-run-in-different-terminal-windows-for-the-same-model-conc|ollama
+  pull can now be run in different terminal windows for the same model concurrently]]'
+- '[[Changes/Dify/2023-08-14-refactor-added-project-name-to-docker-compose-command-by-shunyue1320-in-https-gi|refactor:
+  Added project name to Docker Compose command]]'
 - '[[Changes/Cursor/2023-08-17-the-cursor-nightly-command-now-works-on-mac|The cursor-nightly
   command now works on Mac]]'
 source_release: '[[Releases/Aider/aider-2023-08-22-v0-13-0-github-118225054-d6d92e9a|aider-2023-08-22-v0-13-0-github-118225054-d6d92e9a]]'

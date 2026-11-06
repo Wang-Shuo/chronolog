@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 1693c4db809c05f6be316ba2680b36cd19f85152e6bc0772e84b22f6676d124b
+machine_hash: 4fde435292ac6d6ac5511e709571d576fd1172e96a6928a0deeab1b735c1fba5
 product: cline
 product_name: Cline
 record:
@@ -44,9 +44,10 @@ record:
   title: Add new slash command menu letting you type…
   type: change
 related_changes:
-- '[[Changes/Aider/2025-04-04-https-aider-chat-history-html|(source link)]]'
 - '[[Changes/Cline/2025-04-09-add-cmd-keyboard-shortcut-to-add-selected-text-to-cline|Add
   CMD+'' keyboard shortcut to add selected text to Cline]]'
+- "[[Changes/Open WebUI/2025-04-13-translation-updates-across-multiple-languages-refined-catalan-russian-chinese-si|\U0001F30D
+  Translation Updates Across Multiple Languages]]"
 - '[[Changes/Cursor/2025-04-15-chat-history-has-moved-into-the-command-palette-you-can-access-it-from-the-show|More
   accessible history]]'
 source_release: '[[Releases/Cline/cline-2025-04-19-v3-13-0-github-213455478-f5b1cb21|cline-2025-04-19-v3-13-0-github-213455478-f5b1cb21]]'
@@ -82,7 +83,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2025-04-15 · Cursor · [[Changes/Cursor/2025-04-15-chat-history-has-moved-into-the-command-palette-you-can-access-it-from-the-show|More accessible history]]
-- Later: 2025-04-25 · Cline · [[Changes/Cline/2025-04-25-add-tooltips-to-bottom-row-menu|Add tooltips to bottom row menu]]
+- Later: 2025-04-23 · Dify · [[Changes/Dify/2025-04-23-2-interface-experience-changes-in-1-3-0|2 Interface Experience changes in 1.3.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

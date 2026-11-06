@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5f1150ad6dd826e134cccc3a72b51549e016791b1b47d46f7d508bef64de67a2
+machine_hash: 1ec1fb6bc97050ebbf58994267be59cd1abf619bd548a2d7c89f57bdb2d72688
 product: cline
 product_name: Cline
 record:
@@ -40,8 +40,8 @@ record:
   title: Move the VS Code extension project into `apps/vscode`
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-05-27-docs-extensions-clarify-env-var-sanitization-policy-for-mcp-and-ext-by-galz10-in|docs(extensions):
-  clarify env var sanitization policy for MCP and ext…]]'
+- '[[Changes/Claude/2026-05-28-enterprise-plans-can-manage-connector-access-with-custom-roles|Enterprise
+  plans can manage connector access with custom roles]]'
 - '[[Changes/Claude Code/2026-05-28-2-apps-and-integrations-changes-in-v2-1-153|2
   Apps and Integrations changes in v2.1.153]]'
 - '[[Changes/Claude Code/2026-05-28-4-apps-and-integrations-changes-in-v2-1-154|4

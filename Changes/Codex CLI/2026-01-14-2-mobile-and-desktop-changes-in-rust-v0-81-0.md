@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a96b6da250341b1664c6b3a1efee76a88386f9c69351a7620778d2b52a3d8443
+machine_hash: 1c9751cc9e49d93682e5e9aefb788c2d117f9d3359ba012c28fce3d44c574a71
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,12 +42,12 @@ record:
   title: 2 Mobile and Desktop changes in rust-v0.81.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-01-06-8743-macos-load-config-requirements-from-mdm-gt-oai|♯8743
-  (MacOS) Load config requirements from MDM @gt-oai]]'
-- '[[Changes/Claude Code/2026-01-09-added-support-for-windows-package-manager-winget-installations-with-automatic-de|Added
-  support for Windows Package Manager (winget) installations with automatic…]]'
-- '[[Changes/Codex CLI/2026-01-09-2-mobile-and-desktop-changes-in-rust-v0-80-0|2 Mobile
-  and Desktop changes in rust-v0.80.0]]'
+- "[[Changes/Open WebUI/2026-01-09-users-on-windows-now-see-correctly-preserved-line-breaks-when-using-the-clipboar|\U0001F4CB
+  Users on Windows now see correctly preserved line breaks when using…]]"
+- '[[Changes/Claude/2026-01-12-health-and-fitness-data-on-claude-mobile|Health and
+  fitness data on Claude Mobile]]'
+- '[[Changes/Claude/2026-01-12-cowork-research-preview-on-claude-desktop-macos-only-for-max-plans|Cowork
+  research preview on Claude Desktop (macOS only) for Max plans]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-01-14-rust-v0-81-0-github-276819252-cf63dc40|codex-cli-2026-01-14-rust-v0-81-0-github-276819252-cf63dc40]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -89,7 +89,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.81.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-01-09 · Codex CLI · [[Changes/Codex CLI/2026-01-09-2-mobile-and-desktop-changes-in-rust-v0-80-0|2 Mobile and Desktop changes in rust-v0.80.0]]
+- Earlier: 2026-01-12 · Claude · [[Changes/Claude/2026-01-12-cowork-research-preview-on-claude-desktop-macos-only-for-max-plans|Cowork research preview on Claude Desktop (macOS only) for Max plans]]
 - Later: 2026-01-15 · Codex CLI · [[Changes/Codex CLI/2026-01-15-reduce-flaky-rust-release-pipelines-notably-on-windows-by-increasing-the-release|Reduce flaky Rust release pipelines (notably on Windows) by increasing the release…]]
 <!-- chronolog:end -->
 

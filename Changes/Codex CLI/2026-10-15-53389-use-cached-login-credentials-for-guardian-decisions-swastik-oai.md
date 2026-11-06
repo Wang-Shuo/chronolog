@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 182436d363cc50a1504ee3217cb1e61afea5060d478d4f6cd0b8d76ecb7d2bd8
+machine_hash: 3e789afd80f989f79c12450cc294b717cee352e499dcf10354afd184b8c21efb
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -41,12 +41,12 @@ record:
   title: '#53389 Use cached login credentials for Guardian decisions @swastik-oai'
   type: change
 related_changes:
-- '[[Changes/Cline/2026-10-13-2-account-and-access-changes-in-v4-1-24|2 Account and
-  Access changes in v4.1.24]]'
-- '[[Changes/GitHub Copilot CLI/2026-10-13-power-bi-and-bluebird-mcp-servers-accept-their-published-resource-scopes-during|Power
-  BI and Bluebird MCP servers accept their published resource scopes during sign-in]]'
-- '[[Changes/Claude Code/2026-10-14-improved-the-error-shown-when-a-cloud-session-is-refused-because-your-claude-ai|Improved
-  the error shown when a cloud session is refused because your claude.ai…]]'
+- '[[Changes/Lovable/2026-10-14-add-sign-in-with-lovable-to-any-website|Add Sign in
+  with Lovable to any website]]'
+- '[[Changes/Ollama/2026-10-14-clearer-error-messages-when-cloud-access-fails-sign-in-problems-payment-issues-i|Clearer
+  error messages when cloud access fails]]'
+- '[[Changes/Open WebUI/2026-10-14-3-account-and-access-changes-in-v0-12-1|3 Account
+  and Access changes in v0.12.1]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-10-15-rust-v0-163-0-github-414286110-97016fe6|codex-cli-2026-10-15-rust-v0-163-0-github-414286110-97016fe6]]'
 source_type: github_releases
 theme: account-access
@@ -87,8 +87,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-10-14 · Claude Code · [[Changes/Claude Code/2026-10-14-improved-the-error-shown-when-a-cloud-session-is-refused-because-your-claude-ai|Improved the error shown when a cloud session is refused because your claude.ai…]]
-- Later: 2026-10-16 · Claude Code · [[Changes/Claude Code/2026-10-16-added-a-notice-to-design-sync-and-design-login-that-standalone-claude-design-cla|Added a notice to /design-sync and /design-login that standalone Claude Design…]]
+- Earlier: 2026-10-14 · Open WebUI · [[Changes/Open WebUI/2026-10-14-3-account-and-access-changes-in-v0-12-1|3 Account and Access changes in v0.12.1]]
+- Later: 2026-10-15 · Lovable · [[Changes/Lovable/2026-10-15-use-lovable-from-claude-through-your-company-s-sso|Use Lovable from Claude through your company's SSO]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

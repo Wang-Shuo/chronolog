@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 52ca7e99dec4bdf6d994b6973c5d740796c346520ad7cffc4b04d245dda0421c
+machine_hash: 0f286e34effee03782bcdd5157fae5d569a5a151f6687c146dd21963de360047
 product: aider
 product_name: Aider
 record:
@@ -45,12 +45,12 @@ record:
   title: 3 Model Support changes in v0.55.0
   type: change
 related_changes:
-- '[[Changes/Aider/2024-08-27-4-model-support-changes-in-v0-53-0|4 Model Support changes
-  in v0.53.0]]'
-- '[[Changes/Aider/2024-08-28-4-model-support-changes-in-v0-54-0|4 Model Support changes
-  in v0.54.0]]'
 - '[[Changes/OpenHands/2024-08-29-2-model-support-changes-in-0-9-1|2 Model Support
   changes in 0.9.1]]'
+- '[[Changes/Ollama/2024-08-31-ollama-will-now-show-an-improved-error-message-when-attempting-to-run-unsupporte|Ollama
+  will now show an improved error message when attempting to run unsupported models]]'
+- '[[Changes/Dify/2024-09-03-3-model-support-changes-in-0-7-3|3 Model Support changes
+  in 0.7.3]]'
 source_release: '[[Releases/Aider/aider-2024-09-04-v0-55-0-github-173466209-522ef089|aider-2024-09-04-v0-55-0-github-173466209-522ef089]]'
 source_type: github_releases
 theme: model-support
@@ -88,7 +88,7 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.55.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2024-08-29 · OpenHands · [[Changes/OpenHands/2024-08-29-2-model-support-changes-in-0-9-1|2 Model Support changes in 0.9.1]]
+- Earlier: 2024-09-03 · Dify · [[Changes/Dify/2024-09-03-3-model-support-changes-in-0-7-3|3 Model Support changes in 0.7.3]]
 - Later: 2024-09-04 · OpenHands · [[Changes/OpenHands/2024-09-04-2-model-support-changes-in-0-9-2|2 Model Support changes in 0.9.2]]
 <!-- chronolog:end -->
 

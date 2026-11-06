@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 33c3633c7c03a60796225b86a914715b384b4c4e0504298d26c7bc7e1031ded6
+machine_hash: 38b54337ced6e7706144b727c0e3d0004fdb0bcfe5640063c53ecdc87263661b
 product: windsurf
 product_name: Windsurf
 record:
@@ -64,12 +64,12 @@ record:
   title: Devin Cloud
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-09-2-safety-and-privacy-changes-in-v2-1-267|2 Safety
-  and Privacy changes in v2.1.267]]'
 - '[[Changes/Codex CLI/2026-09-09-25-safety-and-privacy-changes-in-rust-v0-154-0|25
   Safety and Privacy changes in rust-v0.154.0]]'
 - '[[Changes/Claude Code/2026-09-10-8-safety-and-privacy-changes-in-v2-1-268|8 Safety
   and Privacy changes in v2.1.268]]'
+- '[[Changes/Dify/2026-09-10-16-safety-and-privacy-changes-in-1-17-1|16 Safety and
+  Privacy changes in 1.17.1]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-09-10-v3-10-23-4196ed90|windsurf-2026-09-10-v3-10-23-4196ed90]]'
 source_type: windsurf_changelog
 theme: safety-privacy
@@ -105,7 +105,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-09-10 · Claude Code · [[Changes/Claude Code/2026-09-10-8-safety-and-privacy-changes-in-v2-1-268|8 Safety and Privacy changes in v2.1.268]]
+- Earlier: 2026-09-10 · Dify · [[Changes/Dify/2026-09-10-16-safety-and-privacy-changes-in-1-17-1|16 Safety and Privacy changes in 1.17.1]]
 - Later: 2026-09-11 · Claude Code · [[Changes/Claude Code/2026-09-11-5-safety-and-privacy-changes-in-v2-1-269|5 Safety and Privacy changes in v2.1.269]]
 <!-- chronolog:end -->
 

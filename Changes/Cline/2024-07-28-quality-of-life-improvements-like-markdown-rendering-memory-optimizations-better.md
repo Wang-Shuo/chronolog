@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: f7fc65e06874b30a6b236f4f251b5bc42d654a1e21956f088351bc0ee149d71f
+machine_hash: a43012ad255768647b7ffb32b35245d08ebf9f0d1c2003a7be014cfe911611f7
 product: cline
 product_name: Cline
 record:
@@ -45,10 +45,10 @@ record:
     better…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2024-04-29-memory-is-now-available-to-all-chatgpt-plus-users-except-in-europe-korea-where-w-4db29a|Memory
-  is now available to Plus users]]'
 - '[[Changes/OpenHands/2024-07-05-ci-for-colima-modify-cpu-count-and-memory-by-smartmanoj-in-https-github-com-open|CI:
   For colima, modify CPU count and memory]]'
+- '[[Changes/Dify/2024-07-08-2-memory-and-personalization-changes-in-0-6-13|2 Memory
+  and Personalization changes in 0.6.13]]'
 - '[[Changes/OpenHands/2024-07-13-arch-deprecating-recall-action-and-search-memory-by-xingyaoww-in-https-github-co|arch:
   deprecating recall action and search_memory]]'
 source_release: '[[Releases/Cline/cline-2024-07-28-v1-0-4-github-167496281-a4c8079a|cline-2024-07-28-v1-0-4-github-167496281-a4c8079a]]'

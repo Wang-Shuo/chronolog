@@ -5,20 +5,20 @@ description: 'ChatGPT · 2026-10-15 · Enterprise and Administration: Applicatio
   now open to labs at U.S. universities. If you’re a principal investigator or lab
   lead…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin
-    improvements: Team admins can now mark themselves as unpaid users and can see…]]'
+  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
+    for Google Workspace accounts]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 939
+  lag_days: 1259
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 26413127feeaaef417ecb17893cdd782830ccf37089cf3459149dab3e699ce67
+machine_hash: 6e34ef1a102ee8443aa8c5b8896cbe582e4b6deb57acd8b7c506418074c30bc2
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -52,12 +52,12 @@ record:
   title: Applications are now open to labs at U.S. universities
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-08-claude-tag-changed-claude-s-notice-that-a-channel-shared-across-enterprise-grid|Claude
-  Tag Changed Claude''s notice that a channel shared across Enterprise Grid…]]'
-- '[[Changes/OpenHands/2026-10-08-feat-onboarding-show-the-super-admin-setup-guide-on-enterprise-backends-by-hiept|feat(onboarding):
-  show the Super Admin setup guide on enterprise backends]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-12-keep-allow-all-available-during-startup-while-enterprise-policy-is-still-resolvi|Keep
   /allow-all available during startup while enterprise policy is still resolving]]'
+- "[[Changes/Open WebUI/2026-10-14-translated-model-prompt-suggestions-editing-the-prompt-suggestions-of-a-model-th|\U0001F4AC
+  Translated model prompt suggestions. Editing the prompt suggestions of a model…]]"
+- "[[Changes/Open WebUI/2026-10-14-scim-cannot-delete-admins-an-identity-provider-can-no-longer-delete-administrato|\U0001F46E
+  SCIM cannot delete admins. An identity provider can no longer delete…]]"
 source_release: '[[Releases/ChatGPT/chatgpt-2026-10-15-applications-for-the-rosalind-academic-plan-b85717ef|chatgpt-2026-10-15-applications-for-the-rosalind-academic-plan-b85717ef]]'
 source_type: chatgpt_changelog
 theme: enterprise-admin
@@ -86,14 +86,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-10-12 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-12-keep-allow-all-available-during-startup-while-enterprise-policy-is-still-resolvi|Keep /allow-all available during startup while enterprise policy is still resolving]]
-- Later: 2026-10-19 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-19-2-enterprise-and-administration-changes-in-v1-0-100|2 Enterprise and Administration changes in v1.0.100]]
+- Earlier: 2026-10-14 · Open WebUI · [[Changes/Open WebUI/2026-10-14-scim-cannot-delete-admins-an-identity-provider-can-no-longer-delete-administrato|👮 SCIM cannot delete admins. An identity provider can no longer delete…]]
+- Later: 2026-10-15 · Lovable · [[Changes/Lovable/2026-10-15-export-audit-logs-to-your-siem-or-cloud-storage|Export audit logs to your SIEM or cloud storage]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-03-20 · Cursor · [[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin improvements: Team admins can now mark themselves as unpaid users and can see…]]
+- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

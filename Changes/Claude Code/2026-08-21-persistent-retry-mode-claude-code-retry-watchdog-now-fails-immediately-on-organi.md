@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 00704551b46fc565b193ad0244bbd531b1460f152e2b78b5b9d957ee09101dab
+machine_hash: 070b1d6348931d8bf3c005964be4329d4acadc6669f20a78c129b8b927f7f1b2
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,8 +46,8 @@ record:
   title: Persistent retry mode (`CLAUDE_CODE_RETRY_WATCHDOG`) now fails immediately…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-08-18-38650-canonicalize-default-namespaces-in-grpc-subscription-filters-copyberry|♯38650
-  Canonicalize default namespaces in gRPC subscription filters @copyberry]]'
+- '[[Changes/Lovable/2026-08-18-running-out-of-credits-mid-message-now-pauses-your-work|Running
+  out of credits mid-message now pauses your work]]'
 - '[[Changes/Claude Code/2026-08-19-usage-now-shows-the-usage-credits-spend-row-for-team-and-enterprise-members-and|/usage
   now shows the usage-credits spend row for Team and Enterprise members…]]'
 - '[[Changes/Codex CLI/2026-08-20-39006-emit-api-key-turn-cost-telemetry-from-app-server-copyberry|♯39006

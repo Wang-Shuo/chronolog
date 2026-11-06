@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1eda0d4c16b82b3768f7d0514706ca2eb839ab88380a7f3c79ec0d649e15cd2e
+machine_hash: 2ed73b122845c5f6ccb2c6f0bee0fa96821c4b3857eb4b481e146bcd6477dbf0
 product: claude-code
 product_name: Claude Code
 record:
@@ -41,10 +41,9 @@ record:
   title: '`/release-notes` is now an interactive version picker'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-02-feedback-now-explains-why-it-s-unavailable-instead-of-disappearing-from-the-slas|/feedback
-  now explains why it''s unavailable instead of disappearing from the slash menu]]'
-- '[[Changes/Cursor/2026-04-02-deprecated-the-previous-worktree-and-best-of-n-selection-from-the-editor|Deprecated
-  the previous worktree and best-of-n selection from the Editor]]'
+- '[[Changes/Lovable/2026-04-02-workspace-onboarding-and-discovery|Workspace onboarding
+  and discovery]]'
+- '[[Changes/Lovable/2026-04-02-command-palette|Command palette]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-03-resume-session-picker-loads-significantly-faster-especially-with-large-session-h|/resume
   session picker loads significantly faster, especially with large session histories]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-04-v2-1-92-github-305189904-2eb020f5|claude-code-2026-04-04-v2-1-92-github-305189904-2eb020f5]]'

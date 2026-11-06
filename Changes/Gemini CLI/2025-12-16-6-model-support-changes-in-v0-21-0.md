@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b885f9aec1f0bb86ff587c3a2f8f054d107508ba84a0b0fe4278178ff05606cb
+machine_hash: 49bc78f2835a7ba2f5e78f95a1ea734dcd7c0c02b2619f6ec332d1d7e1e05b64
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -53,9 +53,10 @@ record:
   title: 6 Model Support changes in v0.21.0
   type: change
 related_changes:
-- '[[Changes/Windsurf/2025-12-11-gpt-5-2|GPT-5.2]]'
 - '[[Changes/Codex CLI/2025-12-13-5-model-support-changes-in-rust-v0-72-0|5 Model
   Support changes in rust-v0.72.0]]'
+- '[[Changes/Ollama/2025-12-13-2-model-support-changes-in-v0-13-4|2 Model Support
+  changes in v0.13.4]]'
 - '[[Changes/Cline/2025-12-16-3-model-support-changes-in-v3-43-1|3 Model Support changes
   in v3.43.1]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-12-16-v0-21-0-github-270848833-3e3b19fe|gemini-cli-2025-12-16-v0-21-0-github-270848833-3e3b19fe]]'

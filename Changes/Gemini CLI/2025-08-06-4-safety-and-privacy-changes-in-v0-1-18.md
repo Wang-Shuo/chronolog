@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 117caaa0f3e601a556784d8d5cd3deed1155ae4f6097bbbce0c45ff676353d04
+machine_hash: 0f5874f524ca71ef5c73105e2f631ccb84ce95942fc6423a5ea29bc3714a20a6
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -48,12 +48,11 @@ record:
   title: 4 Safety and Privacy changes in v0.1.18
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-08-02-https-github-com-openai-codex-pull-1705-security-fix-to-ensure-apply-patch-is-ru|(source
-  link) security fix to ensure apply_patch…]]'
 - '[[Changes/Gemini CLI/2025-08-02-4-safety-and-privacy-changes-in-v0-1-16|4 Safety
   and Privacy changes in v0.1.16]]'
 - '[[Changes/Gemini CLI/2025-08-05-4-safety-and-privacy-changes-in-v0-1-17|4 Safety
   and Privacy changes in v0.1.17]]'
+- '[[Changes/Claude/2025-08-06-claude-code-security-reviews|Claude Code Security Reviews]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-08-06-v0-1-18-github-237823435-7c1f8990|gemini-cli-2025-08-06-v0-1-18-github-237823435-7c1f8990]]'
 source_type: github_releases
 theme: safety-privacy
@@ -103,7 +102,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.1.18
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2025-08-05 · Gemini CLI · [[Changes/Gemini CLI/2025-08-05-4-safety-and-privacy-changes-in-v0-1-17|4 Safety and Privacy changes in v0.1.17]]
+- Earlier: 2025-08-06 · Claude · [[Changes/Claude/2025-08-06-claude-code-security-reviews|Claude Code Security Reviews]]
 - Later: 2025-08-07 · Codex CLI · [[Changes/Codex CLI/2025-08-07-new-onboarding-flow-that-uses-sandbox-workspace-write-and-ask-for-approval-on-re|new onboarding flow that uses…]]
 <!-- chronolog:end -->
 

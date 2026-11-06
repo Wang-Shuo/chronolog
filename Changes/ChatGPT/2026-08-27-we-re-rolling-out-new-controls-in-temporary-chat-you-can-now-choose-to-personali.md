@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 84d0d68884dc60355426e121583d3b820a1f285ae6388c310eac37b90e144b95
+machine_hash: c3a3dc94944cef87d9eb60c85b362b5dd12a57a192a898ae02ea9536cc853bde
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -58,8 +58,8 @@ record:
   title: ChatGPT rolls out new controls in temporary chat
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-08-20-2-memory-and-personalization-changes-in-rust-v0-149-0|2
-  Memory and Personalization changes in rust-v0.149.0]]'
+- '[[Changes/Open WebUI/2026-08-25-8-memory-and-personalization-changes-in-v0-11-1|8
+  Memory and Personalization changes in v0.11.1]]'
 - '[[Changes/Codex CLI/2026-08-26-3-memory-and-personalization-changes-in-rust-v0-150-0|3
   Memory and Personalization changes in rust-v0.150.0]]'
 - '[[Changes/ChatGPT/2026-08-27-3-memory-and-personalization-changes-in-more-controls-in-temporary-chat|3

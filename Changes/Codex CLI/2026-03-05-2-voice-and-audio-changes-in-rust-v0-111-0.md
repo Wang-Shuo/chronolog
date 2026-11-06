@@ -4,20 +4,20 @@ date: '2026-03-05'
 description: 'Codex CLI · 2026-03-05 · Voice and Audio: 2 changes in 0.111.0 — #13516
   Log non-audio realtime events @aibrahim-oai'
 diffusion:
-  first_in_tracked: '[[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source
-    link) support, which allows you…]]'
+  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
+    Voice and Audio changes in 0.3.7]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 937
+  lag_days: 969
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 016e3b7f60c91afcd358e68e8153626e57d172a2ae00a312604740c419730fb8
+machine_hash: daf9591e03f6cc0b9ffb50661b50b0844fd709c7e9e51286e3f3c62a4310ca5b
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,10 +42,8 @@ record:
   title: 2 Voice and Audio changes in rust-v0.111.0
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-02-27-improved-dictation-visuals-dictation-now-has-a-clearer-more-streamlined-interfac|Improved
-  dictation visuals]]'
-- '[[Changes/Codex CLI/2026-03-02-5-voice-and-audio-changes-in-rust-v0-107-0|5 Voice
-  and Audio changes in rust-v0.107.0]]'
+- '[[Changes/ElevenLabs/2026-03-02-voices-cb334d|Voices]]'
+- '[[Changes/ElevenLabs/2026-03-02-music|Music]]'
 - '[[Changes/Claude Code/2026-03-05-3-voice-and-audio-changes-in-v2-1-69|3 Voice and
   Audio changes in v2.1.69]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-03-05-rust-v0-111-0-github-293639875-9259bb82|codex-cli-2026-03-05-rust-v0-111-0-github-293639875-9259bb82]]'
@@ -95,7 +93,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.111.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-08-11 · Aider · [[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source link) support, which allows you…]]
+- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

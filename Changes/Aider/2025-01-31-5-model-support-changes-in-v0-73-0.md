@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ff4970021456aea1ee2544174da2ce8c6a98f0d9afe483cf6e05fcd68fb34f7a
+machine_hash: 2c40dc8dc37f70a71bf3465a698dc57195ecb8ac0c85429782fc876da552a24f
 product: aider
 product_name: Aider
 record:
@@ -49,12 +49,12 @@ record:
   title: 5 Model Support changes in v0.73.0
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-01-23-deepseek-models-deepseek-r1-and-deepseek-v3-are-supported-in-0-45-and-0-44-you-c|Deepseek
-  models: Deepseek R1 and Deepseek v3 are supported in 0.45 and 0.44]]'
-- '[[Changes/Cursor/2025-01-23-better-codebase-understanding-we-ve-trained-a-new-model-for-codebase-understandi|Better
-  Codebase Understanding: We''ve trained a new model for Codebase Understanding]]'
+- '[[Changes/Open WebUI/2025-01-23-2-model-support-changes-in-v0-5-7|2 Model Support
+  changes in v0.5.7]]'
 - '[[Changes/Cline/2025-01-30-save-last-used-api-model-when-switching-between-plan-and-act-for-users-that-like|Save
   last used API/model when switching between Plan and Act, for users that like…]]'
+- '[[Changes/Gemini/2025-01-30-introducing-gemini-2-0-flash-to-gemini|Introducing
+  Gemini 2.0 Flash to Gemini]]'
 source_release: '[[Releases/Aider/aider-2025-01-31-v0-73-0-github-197873362-8d9f245d|aider-2025-01-31-v0-73-0-github-197873362-8d9f245d]]'
 source_type: github_releases
 theme: model-support
@@ -95,7 +95,7 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.73.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-01-30 · Cline · [[Changes/Cline/2025-01-30-save-last-used-api-model-when-switching-between-plan-and-act-for-users-that-like|Save last used API/model when switching between Plan and Act, for users that like…]]
+- Earlier: 2025-01-30 · Gemini · [[Changes/Gemini/2025-01-30-introducing-gemini-2-0-flash-to-gemini|Introducing Gemini 2.0 Flash to Gemini]]
 - Later: 2025-02-04 · OpenHands · [[Changes/OpenHands/2025-02-04-2-model-support-changes-in-0-23-0|2 Model Support changes in 0.23.0]]
 <!-- chronolog:end -->
 

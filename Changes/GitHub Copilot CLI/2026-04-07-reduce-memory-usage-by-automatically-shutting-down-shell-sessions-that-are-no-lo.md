@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 36e209f9927fe906f60c7235f6d9ed111d0fc1a8e43f1df1468163178628a088
+machine_hash: e30e3398ca9357486e0bc7c25d9b1e1ae84cd84be813b1edbd6a9d31f260ccd7
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,10 +45,8 @@ record:
     no longer…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-02-improved-performance-faster-stripansi-on-bun-by-routing-through-bun-stripansi|Improved
-  performance: faster stripAnsi on Bun by routing through Bun.stripANSI]]'
-- '[[Changes/Cursor/2026-04-02-large-file-diff-rendering-is-now-much-faster-smoother-and-less-memory-heavy|Large-file
-  diff rendering is now much faster, smoother, and less memory-heavy]]'
+- '[[Changes/Lovable/2026-04-02-browser-performance-tools|Browser performance tools]]'
+- '[[Changes/Lovable/2026-04-02-redesigned-domain-purchasing|Redesigned domain purchasing]]'
 - '[[Changes/Claude Code/2026-04-04-improved-write-tool-diff-computation-speed-for-large-files-60-faster-on-files-wi|Improved
   Write tool diff computation speed for large files…]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-04-07-v1-0-21-github-306305696-a61f8576|github-copilot-cli-2026-04-07-v1-0-21-github-306305696-a61f8576]]'
@@ -86,7 +84,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-04-04 · Claude Code · [[Changes/Claude Code/2026-04-04-improved-write-tool-diff-computation-speed-for-large-files-60-faster-on-files-wi|Improved Write tool diff computation speed for large files…]]
-- Later: 2026-04-09 · Claude Code · [[Changes/Claude Code/2026-04-09-fixed-a-memory-leak-where-remote-control-permission-handler-entries-were-retaine|Fixed a memory leak where Remote Control permission handler entries were retained…]]
+- Later: 2026-04-07 · Ollama · [[Changes/Ollama/2026-04-07-mlx-improve-m5-performance-with-nax|mlx: Improve M5 performance with NAX]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 41abe920ac598f8cca7fe800c89a0b51acea0097cb91174d740a29d41091ff7e
+machine_hash: ae5584e36d4d2630eb11bd54540d496fd7e49e3ac0f35f36c41d3e5490a79572
 product: aider
 product_name: Aider
 record:
@@ -45,12 +45,12 @@ record:
     you can…
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-04-01-update-0-31-1-0-31-3-adds-back-in-ai-review-alpha-fixes-the-cursor-settings-menu|UPDATE
-  (0.31.1–0.31.3): Adds back in AI Review (alpha), fixes…]]'
-- '[[Changes/Cursor/2024-04-12-cursor-help-pane-beta-you-can-also-ask-cursor-about-cursor-the-cursor-help-pane|Cursor
-  Help Pane (Beta): You can also ask Cursor about Cursor!]]'
 - '[[Changes/Cursor/2024-05-03-command-k-autoselect-we-ve-also-added-automatic-selection-for-command-k-this-mea|Command-K
   Autoselect: We''ve also added automatic selection for Command-K!]]'
+- "[[Changes/Open WebUI/2024-05-08-improved-chat-sidebar-now-conveniently-displays-time-ranges-and-organizes-chats|\U0001F5BC️
+  Improved Chat Sidebar]]"
+- '[[Changes/Dify/2024-05-09-improve-menu-collapse-readability-by-junice-in-https-github-com-langgenius-dify|improve:
+  menu collapse readability]]'
 source_release: '[[Releases/Aider/aider-2024-05-13-v0-35-0-github-155558453-42e8504a|aider-2024-05-13-v0-35-0-github-155558453-42e8504a]]'
 source_type: github_releases
 theme: interface-experience
@@ -82,8 +82,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2024-05-03 · Cursor · [[Changes/Cursor/2024-05-03-command-k-autoselect-we-ve-also-added-automatic-selection-for-command-k-this-mea|Command-K Autoselect: We've also added automatic selection for Command-K!]]
-- Later: 2024-06-04 · Aider · [[Changes/Aider/2024-06-04-repo-map-is-now-optimized-based-on-text-of-chat-history-as-well-as-files-added-t|Repo map is now optimized based on text of chat history as well as files added to chat]]
+- Earlier: 2024-05-09 · Dify · [[Changes/Dify/2024-05-09-improve-menu-collapse-readability-by-junice-in-https-github-com-langgenius-dify|improve: menu collapse readability]]
+- Later: 2024-05-15 · Ollama · [[Changes/Ollama/2024-05-15-to-clear-the-chat-history-for-a-session-when-running-ollama-run-use-clear|To clear the chat history for a session when running ollama run, use /clear]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

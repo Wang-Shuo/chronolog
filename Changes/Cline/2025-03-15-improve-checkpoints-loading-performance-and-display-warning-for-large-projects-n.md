@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1595ac5d2bf643c3057c232a049b260f96ab5b785b5db677a0310b51563e8703
+machine_hash: 32e07a1e5a1b2f754fedc5cc5082634c23f6460b9b9519244cba84e1c1d7a953
 product: cline
 product_name: Cline
 record:
@@ -43,12 +43,12 @@ record:
     not…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-02-21-text-selection-improvements-you-can-now-select-text-across-horizontal-rulers-3-p|Text
-  selection improvements: you can now select text across horizontal rulers]]'
-- '[[Changes/Cursor/2025-03-11-5-reliability-and-performance-changes-in-0-47-x|5 Reliability
-  and Performance changes in 0.47.x]]'
 - '[[Changes/Cursor/2025-03-11-this-release-focuses-mainly-on-stability-and-performance-improvements-to-make-ex|This
   release focuses mainly on stability and performance improvements to make…]]'
+- '[[Changes/Dify/2025-03-11-stability-reliability-tackled-pesky-bugs-be-it-with-document-extracts-chat-compo|Stability
+  & Reliability]]'
+- '[[Changes/Replit/2025-03-14-web-view-performance-improvements|Web View performance
+  improvements]]'
 source_release: '[[Releases/Cline/cline-2025-03-15-v3-7-0-github-205975498-6f743ff7|cline-2025-03-15-v3-7-0-github-205975498-6f743ff7]]'
 source_type: github_releases
 theme: reliability-performance
@@ -79,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-03-11 · Cursor · [[Changes/Cursor/2025-03-11-this-release-focuses-mainly-on-stability-and-performance-improvements-to-make-ex|This release focuses mainly on stability and performance improvements to make…]]
+- Earlier: 2025-03-14 · Replit · [[Changes/Replit/2025-03-14-web-view-performance-improvements|Web View performance improvements]]
 - Later: 2025-03-18 · ChatGPT · [[Changes/ChatGPT/2025-03-18-we-have-been-working-on-a-variety-of-usability-and-performance-improvements-and|We have been working on a variety of usability and performance improvements and bug…]]
 <!-- chronolog:end -->
 

@@ -1,0 +1,105 @@
+---
+card_id: elevenlabs-2025-12-08-172338
+date: '2025-12-08'
+description: 'ElevenLabs · 2025-12-08 · Mobile and Desktop: [v0.7.0](https://github.com/elevenlabs/elevenlabs-android/releases/tag/v0.7.0)
+  - Added `sendToolResult` function…'
+diffusion:
+  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
+    and Linux support \U0001F973]]"
+  inference: No adoption, equivalence, or causation claim.
+  lag_days: 1000
+  relation: same-theme-chronology
+  role: later-observed
+  scope: tracked-products-only
+  theme: mobile-desktop
+  tracked_products_count: 20
+evolves_from: []
+extractor_version: fallback-v5
+impact: significant
+kind: launch
+machine_hash: d9a6d9dc587e653410120ee5a36b880c45758a5ab48f53844094c8c5adf661df
+product: elevenlabs
+product_name: ElevenLabs
+record:
+  ai_generated: true
+  card_id: elevenlabs-2025-12-08-172338
+  comparison: ''
+  confidence: low
+  date: '2025-12-08'
+  description: 'ElevenLabs — ElevenLabs updates — 2025-12-08: [v0.7.0](https://github.com/elevenlabs/elevenlabs-android/releases/tag/v0.7.0)
+    - Added `sendToolResult` function for client tool support'
+  evidence:
+  - quote: '[v0.7.0](https://github.com/elevenlabs/elevenlabs-android/releases/tag/v0.7.0)
+      - Added `sendToolResult` function for client tool support'
+    source_release: https://elevenlabs.io/docs/changelog/2025/12/8
+  extractor_version: fallback-v5
+  impact: significant
+  kind: launch
+  product: elevenlabs
+  product_name: ElevenLabs
+  slug: android-sdk
+  source_release: elevenlabs-2025-12-08-2025-12-08-7be8ac95
+  source_type: elevenlabs_changelog
+  theme: mobile-desktop
+  title: Android SDK
+  type: change
+related_changes:
+- '[[Changes/ElevenLabs/2025-11-27-client|Client]]'
+- '[[Changes/ElevenLabs/2025-11-27-react|React]]'
+- '[[Changes/Codex CLI/2025-12-02-execution-gains-an-experimental-exp-model-unified-exec-pruning-to-limit-session|Execution
+  gains an experimental “exp” model, unified exec pruning to limit session…]]'
+source_release: '[[Releases/ElevenLabs/elevenlabs-2025-12-08-2025-12-08-7be8ac95|elevenlabs-2025-12-08-2025-12-08-7be8ac95]]'
+source_type: elevenlabs_changelog
+theme: mobile-desktop
+title: Android SDK
+type: change
+---
+
+<!-- chronolog:begin region="header" -->
+# Android SDK
+
+**ElevenLabs** · 2025-12-08 · [[Themes/mobile-desktop|Mobile and Desktop]] · Launch · [Official source](https://elevenlabs.io/docs/changelog/2025/12/8) · from [[Releases/ElevenLabs/elevenlabs-2025-12-08-2025-12-08-7be8ac95|ElevenLabs updates — 2025-12-08]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="evidence" -->
+> [v0.7.0](https://github.com/elevenlabs/elevenlabs-android/releases/tag/v0.7.0) - Added `sendToolResult` function for client tool support
+>
+> Source: https://elevenlabs.io/docs/changelog/2025/12/8
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/ElevenLabs/2025-12-08-voices|Voices]] · Voice and Audio
+- [[Changes/ElevenLabs/2025-12-08-agents-platform|Agents Platform]] · Agent Mode
+- [[Changes/ElevenLabs/2025-12-08-dubbing|Dubbing]] · Voice and Audio
+- [[Changes/ElevenLabs/2025-12-08-voices-7314a8|Voices]] · Voice and Audio
+- [[Changes/ElevenLabs/2025-12-08-billing|Billing]] · Pricing Model
+- [[Changes/ElevenLabs/2025-12-08-billing-9b631f|Billing]] · Pricing Model
+- [[Changes/ElevenLabs/2025-12-08-webhook-tools|Webhook Tools]] · Account and Access
+- [[Changes/ElevenLabs/2025-12-08-new-endpoints|New Endpoints]] · Agent Mode
+- [[Changes/ElevenLabs/2025-12-08-elevencreative-studio|ElevenCreative Studio]] · Voice and Audio
+- [[Changes/ElevenLabs/2025-12-08-ios-sdk|iOS SDK]] · Mobile and Desktop
+- [[Changes/ElevenLabs/2025-12-08-agents-platform-d0503f|Agents Platform]] · Agent Mode
+- [[Changes/ElevenLabs/2025-12-08-sdk-releases|SDK Releases]] · Apps and Integrations
+- [[Changes/ElevenLabs/2025-12-08-javascript-sdk|JavaScript SDK]] · Apps and Integrations
+- [[Changes/ElevenLabs/2025-12-08-python-sdk|Python SDK]] · Apps and Integrations
+- [[Changes/ElevenLabs/2025-12-08-lists-and-sorting|Lists and Sorting]] · Agent Mode
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Mobile and Desktop
+
+- Earlier: 2025-12-02 · Codex CLI · [[Changes/Codex CLI/2025-12-02-execution-gains-an-experimental-exp-model-unified-exec-pruning-to-limit-session|Execution gains an experimental “exp” model, unified exec pruning to limit session…]]
+- Later: 2025-12-09 · Codex CLI · [[Changes/Codex CLI/2025-12-09-4-mobile-and-desktop-changes-in-rust-v0-66-0|4 Mobile and Desktop changes in rust-v0.66.0]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20elevenlabs-2025-12-08-172338&body=Card%3A%20Changes%2FElevenLabs%2F2025-12-08-android-sdk.md%0ACard%20ID%3A%20elevenlabs-2025-12-08-172338%0ASource%3A%20https%3A%2F%2Felevenlabs.io%2Fdocs%2Fchangelog%2F2025%2F12%2F8%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

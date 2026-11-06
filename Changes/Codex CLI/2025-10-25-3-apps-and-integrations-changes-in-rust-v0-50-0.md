@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: fb016490c3876d1a526d59e08514f4a2b6edb7e0b65f15277fc2e05ec30c0db9
+machine_hash: 1935416d2ab92fdc59835c84a84ba55e9e797a6a4f683eb3f96dba43df9b9d5b
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -87,7 +87,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.50.0
 ## Nearby in Apps and Integrations
 
 - Earlier: 2025-10-23 · Codex CLI · [[Changes/Codex CLI/2025-10-23-11-apps-and-integrations-changes-in-rust-v0-48-0|11 Apps and Integrations changes in rust-v0.48.0]]
-- Later: 2025-10-27 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-10-27-improve-handling-of-mcp-tools-containing-slashes|Improve handling of MCP tools containing slashes]]
+- Later: 2025-10-27 · ElevenLabs · [[Changes/ElevenLabs/2025-10-27-mcp-servers|MCP Servers]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

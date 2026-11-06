@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: aecd47e5533e777bd9aeb8cf78984d5281f67c111abe261695f49d080b9afe91
+machine_hash: 3adc83be586cf13cfd9e0faa291a08936217f245b3c57b2c3b4913812a2415f6
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -42,10 +42,10 @@ record:
   title: 2 Interface Experience changes in v0.1.16
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-07-30-2-interface-experience-changes-in-v0-1-15|2 Interface
-  Experience changes in v0.1.15]]'
-- '[[Changes/Cline/2025-07-31-feat-adds-navigation-bar-component-and-restructure-app-layout-by-abeatrix-in-htt|feat:
-  adds navigation bar component and restructure app layout]]'
+- '[[Changes/Replit/2025-08-01-visual-editor-color-picker-improvement|Visual editor
+  color picker improvement]]'
+- '[[Changes/Replit/2025-08-01-theme-toggle-in-avatar-dropdown|Theme toggle in avatar
+  dropdown]]'
 - '[[Changes/Codex CLI/2025-08-02-big-news-this-release-introduces-a-new-ux-where-codex-is-no-longer-fullscreen-ma|Big
   News!!! This release introduces a new UX where Codex is no longer fullscreen…]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-08-02-v0-1-16-github-237037864-b4f734b7|gemini-cli-2025-08-02-v0-1-16-github-237037864-b4f734b7]]'

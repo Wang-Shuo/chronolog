@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 773b577399febdad18c42067481f8472fed13b7096aac7c8027a157e7c556f15
+machine_hash: 3a123e4b0e64ec8b94d914176902ddd8dd7a206905823287266fe76be3e2287a
 product: claude-code
 product_name: Claude Code
 record:
@@ -58,12 +58,12 @@ record:
   title: 5 Agent Mode changes in v2.1.299
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-09-3-agent-mode-changes-in-v2-1-296|3 Agent Mode
-  changes in v2.1.296]]'
 - '[[Changes/OpenHands/2026-10-12-4-agent-mode-changes-in-v1-27-0|4 Agent Mode changes
   in v1.27.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-13-3-agent-mode-changes-in-v1-0-97|3 Agent
   Mode changes in v1.0.97]]'
+- '[[Changes/Lovable/2026-10-13-let-browser-agents-use-your-app|Let browser agents
+  use your app]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-14-v2-1-299-github-412217284-623d9162|claude-code-2026-10-14-v2-1-299-github-412217284-623d9162]]'
 source_type: github_releases
 theme: agent-mode
@@ -114,7 +114,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.299
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-10-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-13-3-agent-mode-changes-in-v1-0-97|3 Agent Mode changes in v1.0.97]]
+- Earlier: 2026-10-13 · Lovable · [[Changes/Lovable/2026-10-13-let-browser-agents-use-your-app|Let browser agents use your app]]
 - Later: 2026-10-14 · Claude Code · [[Changes/Claude Code/2026-10-14-3-agent-mode-changes-in-v2-1-300|3 Agent Mode changes in v2.1.300]]
 <!-- chronolog:end -->
 

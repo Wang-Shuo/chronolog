@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: fb83461c62b3c18d618ab1122ff7d4777ae875cd50ec40a700784cf4ff7fd38a
+machine_hash: 3a9e90d587c1c745f41b88a30196e5e207283daf6c1b7dc536c9269241595205
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,10 @@ record:
   title: 2 Context Window changes in v2.1.32
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-02-02-2-context-window-changes-in-rust-v0-94-0|2 Context
-  Window changes in rust-v0.94.0]]'
-- '[[Changes/Claude Code/2026-02-03-added-pages-parameter-to-the-read-tool-for-pdfs-allowing-specific-page-ranges-to|Added
-  pages parameter to the Read tool for PDFs, allowing specific page ranges…]]'
+- '[[Changes/Dify/2026-02-03-5-context-window-changes-in-1-12-0|5 Context Window changes
+  in 1.12.0]]'
+- '[[Changes/Ollama/2026-02-03-5-context-window-changes-in-v0-15-5|5 Context Window
+  changes in v0.15.5]]'
 - '[[Changes/Codex CLI/2026-02-04-2-context-window-changes-in-rust-v0-95-0|2 Context
   Window changes in rust-v0.95.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-05-v2-1-32-github-283457817-0910feb0|claude-code-2026-02-05-v2-1-32-github-283457817-0910feb0]]'

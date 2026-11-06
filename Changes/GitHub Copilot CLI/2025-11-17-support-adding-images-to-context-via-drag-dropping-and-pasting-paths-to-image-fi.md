@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: d81c4747393cde265ee6c588f3433d2982a9f4a889276d20f8b469a83073916f
+machine_hash: cafaf1908baa06e264772b7287468b41c8b40f03a0703aff7998aabb6df910b9
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -46,8 +46,8 @@ record:
     image files
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-11-07-remove-context-percentage-in-footer-by-default-by-abhipatel12-in-https-github-co|Remove
-  context percentage in footer by default]]'
+- '[[Changes/Ollama/2025-11-12-2-context-window-changes-in-v0-12-11|2 Context Window
+  changes in v0.12.11]]'
 - '[[Changes/Cline/2025-11-13-reduce-next-gen-model-context-window-anxiety-by-canvrno-in-https-github-com-clin|Reduce
   next-gen model context window anxiety]]'
 - '[[Changes/Codex CLI/2025-11-13-6597-feat-proxy-context-left-after-compaction-2a417c47a|♯6597

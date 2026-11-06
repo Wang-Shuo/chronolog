@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7a68dde21da3a64fe402ba730774f036416ab81917924bd81e8a742948dddfe1
+machine_hash: adbfaba186064acd29cc598c21d73b86bd46b946387eb2225977ce5536452377
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -46,12 +46,12 @@ record:
   title: 4 Model Support changes in rust-v0.131.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-14-2-model-support-changes-in-v2-1-142|2 Model Support
-  changes in v2.1.142]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-14-2-model-support-changes-in-v1-0-48|2 Model
   Support changes in v1.0.48]]'
 - '[[Changes/Claude Code/2026-05-15-2-model-support-changes-in-v2-1-143|2 Model Support
   changes in v2.1.143]]'
+- '[[Changes/v0/2026-05-15-claude-opus-4-7-fast-is-available-as-a-new-model-option-under-more-models-with-2|Claude
+  Opus 4.7 Fast is available as a new model option under…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-05-18-rust-v0-131-0-github-324452638-5f16ff1d|codex-cli-2026-05-18-rust-v0-131-0-github-324452638-5f16ff1d]]'
 source_type: github_releases
 theme: model-support
@@ -99,7 +99,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.131.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-05-15 · Claude Code · [[Changes/Claude Code/2026-05-15-2-model-support-changes-in-v2-1-143|2 Model Support changes in v2.1.143]]
+- Earlier: 2026-05-15 · v0 · [[Changes/v0/2026-05-15-claude-opus-4-7-fast-is-available-as-a-new-model-option-under-more-models-with-2|Claude Opus 4.7 Fast is available as a new model option under…]]
 - Later: 2026-05-18 · Cursor · [[Changes/Cursor/2026-05-18-composer-2-5-includes-double-usage-for-the-first-week-see-our-model-docs-for-ful|Composer 2.5 includes double usage for the first week]]
 <!-- chronolog:end -->
 

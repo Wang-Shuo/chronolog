@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7830572865015b23d89896e445e38506c6f17317010acf25a02dabec01f8ac2b
+machine_hash: dc4714d8776c623e4b79d270492b710d78647024cf1cac4c786eefd4ad609477
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,8 +43,8 @@ record:
   title: Reduce memory usage from encoding streaming chunks
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-02-12-improved-websocket-session-stability-by-continuing-ping-handling-when-idle-and-s|Improved
-  websocket session stability by continuing ping handling when idle…]]'
+- '[[Changes/Open WebUI/2026-02-12-16-reliability-and-performance-changes-in-v0-8-0|16
+  Reliability and Performance changes in v0.8.0]]'
 - '[[Changes/Windsurf/2026-02-12-addressed-multiple-memory-leaks|Addressed multiple
   memory leaks]]'
 - '[[Changes/ChatGPT/2026-02-13-performance-improvements-we-ve-made-multiple-performance-enhancements-to-improve|Performance
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-02-13 · ChatGPT · [[Changes/ChatGPT/2026-02-13-performance-improvements-we-ve-made-multiple-performance-enhancements-to-improve|Performance improvements]]
-- Later: 2026-02-17 · Claude Code · [[Changes/Claude Code/2026-02-17-improved-memory-usage-for-shell-commands-that-produce-large-output-rss-no-longer|Improved memory usage for shell commands that produce large output]]
+- Later: 2026-02-14 · Open WebUI · [[Changes/Open WebUI/2026-02-14-2-reliability-and-performance-changes-in-v0-8-1|2 Reliability and Performance changes in v0.8.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

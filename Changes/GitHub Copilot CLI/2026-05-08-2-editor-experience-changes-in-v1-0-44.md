@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 972e8e3c813efcf8c84c2c5322d86b62b711d55d202ebae639114108ac319534
+machine_hash: 53e883ab07aefc5159a9b4c9a817a78da84523e654ce66878689f3c9b8659fc2
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -89,7 +89,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.44
 ## Nearby in Editor Experience
 
 - Earlier: 2026-05-08 · Codex CLI · [[Changes/Codex CLI/2026-05-08-2-editor-experience-changes-in-rust-v0-130-0|2 Editor Experience changes in rust-v0.130.0]]
-- Later: 2026-05-11 · Claude Code · [[Changes/Claude Code/2026-05-11-vscode-press-cmd-ctrl-shift-t-to-reopen-the-most-recently-closed-session-tab-con|VSCode Press Cmd/Ctrl+Shift+T to reopen the most recently closed session tab…]]
+- Later: 2026-05-09 · Open WebUI · [[Changes/Open WebUI/2026-05-09-5-editor-experience-changes-in-v0-9-3|5 Editor Experience changes in v0.9.3]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

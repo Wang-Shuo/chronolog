@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: cc78a28c0c3578b68f394231b8945826174afe081c5ec42719fe063e35110078
+machine_hash: c968a01c8f1cea31b48301af9a456b44a4585ea315660f1274bab783516fd5e8
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,12 +43,11 @@ record:
   title: Claude Opus 4.6 now uses medium reasoning effort by default
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-23-2-model-support-changes-in-v1-0-35|2 Model
-  Support changes in v1.0.35]]'
 - '[[Changes/Cline/2026-04-24-add-gpt-5-5-model-support-for-openai-codex-subscription-users|Add
   GPT-5.5 model support for OpenAI Codex subscription users]]'
 - '[[Changes/Codex CLI/2026-04-24-5-model-support-changes-in-rust-v0-125-0|5 Model
   Support changes in rust-v0.125.0]]'
+- '[[Changes/DeepSeek API/2026-04-24-deepseek-v4|DeepSeek-V4]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-04-24-v1-0-36-github-313365985-f271ddd3|github-copilot-cli-2026-04-24-v1-0-36-github-313365985-f271ddd3]]'
 source_type: github_releases
 theme: model-support
@@ -83,8 +82,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-04-24 · Codex CLI · [[Changes/Codex CLI/2026-04-24-5-model-support-changes-in-rust-v0-125-0|5 Model Support changes in rust-v0.125.0]]
-- Later: 2026-04-27 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-27-2-model-support-changes-in-v1-0-37|2 Model Support changes in v1.0.37]]
+- Earlier: 2026-04-24 · DeepSeek API · [[Changes/DeepSeek API/2026-04-24-deepseek-v4|DeepSeek-V4]]
+- Later: 2026-04-24 · Lovable · [[Changes/Lovable/2026-04-24-opus-4-7|Opus 4.7]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

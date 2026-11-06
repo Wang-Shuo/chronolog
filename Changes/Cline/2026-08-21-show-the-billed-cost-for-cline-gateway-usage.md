@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: c238e2ab8f8cf75cf7f2bb44c27207a5c6af6cf180e95c814db80fb1c38aa220
+machine_hash: cd1d0bc3f29ad568a82ab959bcf1843f90374793de869a9fec1fa78708e34eb1
 product: cline
 product_name: Cline
 record:
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2026-08-21 · Claude Code · [[Changes/Claude Code/2026-08-21-persistent-retry-mode-claude-code-retry-watchdog-now-fails-immediately-on-organi|Persistent retry mode (CLAUDE_CODE_RETRY_WATCHDOG) now fails immediately…]]
-- Later: 2026-08-26 · Cline · [[Changes/Cline/2026-08-26-cost-estimates-are-no-longer-shown-for-providers-billed-by-a-flat-rate-subscript|Cost estimates are no longer shown for providers billed by a flat-rate subscription…]]
+- Later: 2026-08-21 · Lovable · [[Changes/Lovable/2026-08-21-ask-lovable-about-your-plan-and-subscription|Ask Lovable about your plan and subscription]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

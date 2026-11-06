@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d8aaaa4ed62a03c11f4573626d5979a97de35c00260d0b55b3e709a9a99cfaa5
+machine_hash: f95cc7cd4f50bfddb49afbae4f34691251b49f0025bee1db11ebe3986b858c2a
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,8 +42,8 @@ record:
   title: Added `autoMemoryDirectory` setting to configure a custom directory for auto-memory…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-05-5-memory-and-personalization-changes-in-rust-v0-110-0|5
-  Memory and Personalization changes in rust-v0.110.0]]'
+- "[[Changes/Open WebUI/2026-03-08-system-metrics-via-opentelemetry-administrators-can-now-monitor-python-runtime-a|\U0001F4E1
+  System metrics via OpenTelemetry. Administrators can now monitor Python…]]"
 - '[[Changes/Codex CLI/2026-03-10-13734-feat-prune-old-memories-in-db-jif-oai|♯13734
   feat: prune old memories in DB @jif-oai]]'
 - '[[Changes/Gemini CLI/2026-03-11-feat-implement-slash-command-handling-in-acp-for-memory-init-extensions-and-rest|feat:

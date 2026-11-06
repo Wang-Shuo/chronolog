@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 45c97547bbf41aa73c0dda74826eaf783163d7ceb259a2a414001286871e3f69
+machine_hash: 55f2989df76eb4722059cfbcf85d19112a44cc5d13a3f61b2cd3827c04e04832
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -53,10 +53,10 @@ record:
   title: '[#3395] Set a user agent suffix when used as a mcp server (#3395)'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-09-08-4-apps-and-integrations-changes-in-rust-v0-31-0|4
-  Apps and Integrations changes in rust-v0.31.0]]'
 - '[[Changes/Gemini CLI/2025-09-09-5-apps-and-integrations-changes-in-v0-4-0|5 Apps
   and Integrations changes in v0.4.0]]'
+- '[[Changes/Open WebUI/2025-09-09-a-provider-toggle-in-connection-settings-now-allows-users-to-manually-specify-az|☁️
+  A provider toggle in connection settings now allows users to manually specify…]]'
 - '[[Changes/Codex CLI/2025-09-10-2-apps-and-integrations-changes-in-rust-v0-32-0|2
   Apps and Integrations changes in rust-v0.32.0]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-09-10-rust-v0-33-0-github-246288457-0dc93688|codex-cli-2025-09-10-rust-v0-33-0-github-246288457-0dc93688]]'

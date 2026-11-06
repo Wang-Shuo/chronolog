@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: ac467328c608828021392b5c83cb6e4c873c28bb94de11439172405c14e66511
+machine_hash: d2819d7ef7527b622c23772410d3d6805e952af8f09d578117a072748007d13c
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -54,12 +54,11 @@ record:
   title: Added a new model-selection surface update so the latest model catalog changes…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-05-13313-renaming-team-to-business-plan-during-tui-onboarding-bwanner-oai|♯13313
-  Renaming Team to Business plan during TUI onboarding @bwanner-oai]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-05-text-selection-persists-after-copying-to-clipboard-in-alt-screen|Text
   selection persists after copying to clipboard in alt screen]]'
 - '[[Changes/Claude Code/2026-03-06-vscode-added-spark-icon-in-vs-code-activity-bar-that-lists-all-claude-code-sessi|VSCode
   Added spark icon in VS Code activity bar that lists all Claude Code…]]'
+- '[[Changes/Replit/2026-03-06-ai-chat-message-truncation|AI Chat message truncation]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-03-08-rust-v0-112-0-github-294459110-d90013b5|codex-cli-2026-03-08-rust-v0-112-0-github-294459110-d90013b5]]'
 source_type: github_releases
 theme: interface-experience
@@ -92,8 +91,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-03-06 · Claude Code · [[Changes/Claude Code/2026-03-06-vscode-added-spark-icon-in-vs-code-activity-bar-that-lists-all-claude-code-sessi|VSCode Added spark icon in VS Code activity bar that lists all Claude Code…]]
-- Later: 2026-03-09 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-09-show-loading-spinner-in-diff-mode-while-fetching-changes|Show loading spinner in diff mode while fetching changes]]
+- Earlier: 2026-03-06 · Replit · [[Changes/Replit/2026-03-06-ai-chat-message-truncation|AI Chat message truncation]]
+- Later: 2026-03-08 · Open WebUI · [[Changes/Open WebUI/2026-03-08-5-interface-experience-changes-in-v0-8-9|5 Interface Experience changes in v0.8.9]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

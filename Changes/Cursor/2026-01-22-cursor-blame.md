@@ -5,20 +5,20 @@ description: 'Cursor · 2026-01-22 · Enterprise and Administration: On the Ente
   plan, Cursor Blame extends traditional git blame with AI attribution, so you can
   see…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin
-    improvements: Team admins can now mark themselves as unpaid users and can see…]]'
+  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
+    for Google Workspace accounts]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 673
+  lag_days: 993
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: a44bc67651d394fc6762a21441603ce23be7c78b8ba6cfc5be3082046cff6fc5
+machine_hash: f56dce0d324a9a9f1b58c248c4a1ae2fd84d636439694cf977b13a14d79c10a4
 product: cursor
 product_name: Cursor
 record:
@@ -52,8 +52,8 @@ record:
   title: Cursor Blame
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-01-06-support-enterprise-managed-configuration-requirements-on-macos-via-an-mdm-provid|Support
-  enterprise-managed configuration requirements on macOS via an MDM-provided…]]'
+- '[[Changes/Claude/2026-01-12-hipaa-ready-enterprise-plans|HIPAA-ready Enterprise
+  plans]]'
 - '[[Changes/Windsurf/2026-01-16-admins-can-now-manage-windsurf-restrictions-via-windows-group-policy|Admins
   can now manage Windsurf restrictions via Windows Group Policy]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-20-share-gist-shows-helpful-error-on-github-enterprise-cloud-with-data-residency|/share
@@ -114,7 +114,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-03-20 · Cursor · [[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin improvements: Team admins can now mark themselves as unpaid users and can see…]]
+- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

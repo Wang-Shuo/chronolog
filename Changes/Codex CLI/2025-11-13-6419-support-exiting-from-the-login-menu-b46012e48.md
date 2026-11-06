@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 8b4c74558a3ebc4cc302a8feab7ce4f8246d29974b4cbfe5062a66d49b6ed26e
+machine_hash: a4bed187f8866e277b8a313ad4b5d906b3249318e0498f5b93bf41e8100a68c4
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -96,7 +96,7 @@ type: change
 ## Nearby in Account and Access
 
 - Earlier: 2025-11-13 · Cline · [[Changes/Cline/2025-11-13-feat-add-oauth-2-1-authentication-support-for-remote-mcp-servers-by-saoudrizwan|feat: Add OAuth 2.1 authentication support for remote MCP servers]]
-- Later: 2025-11-18 · Cline · [[Changes/Cline/2025-11-18-retire-firebase-authentication-by-tseglevskiy-in-https-github-com-cline-cline-pu|Retire firebase authentication]]
+- Later: 2025-11-13 · Dify · [[Changes/Dify/2025-11-13-chore-improve-the-user-experience-of-not-login-into-apps-by-iamjoel-in-https-git|chore: improve the user experience of not login into apps]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

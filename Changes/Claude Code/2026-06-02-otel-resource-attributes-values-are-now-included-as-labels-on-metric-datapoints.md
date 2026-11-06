@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b6ea42721a835833353cc46e127b6b8d11b6c961a873379b432841bcc24177fe
+machine_hash: f4d33ebcee30e27f269e853dd2e0016f36a7fd2cbe1e34f4e4b534ff1d08fa02
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,11 +44,11 @@ record:
   title: '`OTEL_RESOURCE_ATTRIBUTES` values are now included as labels on metric datapoints…'
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-05-16-restored-conversation-sharing|Restored conversation
-  sharing]]'
-- '[[Changes/Codex CLI/2026-05-18-3-collaboration-changes-in-rust-v0-131-0|3 Collaboration
-  changes in rust-v0.131.0]]'
 - '[[Changes/Cursor/2026-05-20-shared-canvases-a27a45|Shared canvases]]'
+- '[[Changes/Lovable/2026-05-29-more-consistent-project-action-buttons|More consistent
+  project action buttons]]'
+- "[[Changes/Open WebUI/2026-06-01-shared-chat-file-write-protection-access-to-a-file-through-a-shared-chat-now-onl|\U0001F510
+  Shared-chat file write protection. Access to a file through a shared chat now…]]"
 source_release: '[[Releases/Claude Code/claude-code-2026-06-02-v2-1-161-github-333271302-7337e6fa|claude-code-2026-06-02-v2-1-161-github-333271302-7337e6fa]]'
 source_type: github_releases
 theme: collaboration
@@ -81,8 +81,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-05-20 · Cursor · [[Changes/Cursor/2026-05-20-shared-canvases-a27a45|Shared canvases]]
-- Later: 2026-06-03 · Claude Code · [[Changes/Claude Code/2026-06-03-quieter-startup-notices-group-by-severity-and-session-info-and-announcements-sha|Quieter startup: notices group by severity, and session info and announcements share…]]
+- Earlier: 2026-06-01 · Open WebUI · [[Changes/Open WebUI/2026-06-01-shared-chat-file-write-protection-access-to-a-file-through-a-shared-chat-now-onl|🔐 Shared-chat file write protection. Access to a file through a shared chat now…]]
+- Later: 2026-06-02 · Lovable · [[Changes/Lovable/2026-06-02-cleaner-project-collaborator-icons|Cleaner project collaborator icons]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

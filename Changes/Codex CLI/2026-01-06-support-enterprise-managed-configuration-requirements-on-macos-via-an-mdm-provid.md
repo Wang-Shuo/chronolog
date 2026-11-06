@@ -4,20 +4,20 @@ date: '2026-01-06'
 description: 'Codex CLI · 2026-01-06 · Enterprise and Administration: Support enterprise-managed
   configuration requirements on macOS via an MDM-provided TOML payload. (#8743)'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin
-    improvements: Team admins can now mark themselves as unpaid users and can see…]]'
+  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
+    for Google Workspace accounts]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 657
+  lag_days: 977
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: de1a376a1dcd9c7e0d7aaf93323628dc0800bbafaafa19922066bb333321fdda
+machine_hash: 6025a4981004c5a1f1f8b46b16b4a567d3d1debf93e0d0428abfee2ba1d25384
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -54,12 +54,10 @@ record:
   title: Support enterprise-managed configuration requirements on macOS via an MDM-provided…
   type: change
 related_changes:
-- '[[Changes/Cline/2025-12-11-enterprise-docs-by-jl-codes-in-https-github-com-cline-cline-pull-7714|Enterprise
-  docs]]'
-- '[[Changes/Gemini CLI/2025-12-16-add-new-enterprise-instructions-by-chrstnb-in-https-github-com-google-gemini-gem|Add
-  new enterprise instructions]]'
-- '[[Changes/Cursor/2025-12-18-many-of-the-largest-software-companies-in-the-world-have-adopted-cursor-for-ente|Many
-  of the largest software companies in the world have adopted Cursor for Enterprise]]'
+- '[[Changes/Lovable/2025-12-23-simplified-saml-sso-setup|Simplified SAML SSO setup]]'
+- '[[Changes/Lovable/2025-12-23-verified-domain-workspace-discovery|Verified domain
+  workspace discovery]]'
+- '[[Changes/Replit/2025-12-26-teams-and-enterprise|Teams and Enterprise]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-01-06-rust-v0-78-0-github-274610568-c3df153a|codex-cli-2026-01-06-rust-v0-78-0-github-274610568-c3df153a]]'
 source_type: github_releases
 theme: enterprise-admin
@@ -97,14 +95,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2025-12-18 · Cursor · [[Changes/Cursor/2025-12-18-many-of-the-largest-software-companies-in-the-world-have-adopted-cursor-for-ente|Many of the largest software companies in the world have adopted Cursor for Enterprise]]
-- Later: 2026-01-16 · Windsurf · [[Changes/Windsurf/2026-01-16-admins-can-now-manage-windsurf-restrictions-via-windows-group-policy|Admins can now manage Windsurf restrictions via Windows Group Policy]]
+- Earlier: 2025-12-26 · Replit · [[Changes/Replit/2025-12-26-teams-and-enterprise|Teams and Enterprise]]
+- Later: 2026-01-09 · Open WebUI · [[Changes/Open WebUI/2026-01-09-looking-for-an-enterprise-plan-https-docs-openwebui-com-enterprise-speak-with-ou| Looking for an Enterprise Plan((source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-03-20 · Cursor · [[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin improvements: Team admins can now mark themselves as unpaid users and can see…]]
+- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

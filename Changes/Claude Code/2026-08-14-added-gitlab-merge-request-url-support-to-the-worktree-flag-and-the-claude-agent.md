@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: f22aba9e9b6455307c078ad8369f5edb34638248019fb3ba48c661e1f7e72020
+machine_hash: a55062726a300de6417c740b6da422bbcfa7f10ab2aa98142165d70be8b3e559
 product: claude-code
 product_name: Claude Code
 record:
@@ -95,7 +95,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-08-13 · Cursor · [[Changes/Cursor/2026-08-13-build-history-and-debugging|Build history and debugging]]
-- Later: 2026-08-17 · Claude Code · [[Changes/Claude Code/2026-08-17-remote-control-effort-picks-made-on-a-phone-or-on-claude-ai-code-now-apply-to-te|Remote Control: effort picks made on a phone or on claude.ai/code now apply…]]
+- Later: 2026-08-14 · v0 · [[Changes/v0/2026-08-14-4-developer-workflow-changes-in-a-redesigned-sidebar-a-richer|4 Developer Workflow changes in A redesigned sidebar, a richer…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

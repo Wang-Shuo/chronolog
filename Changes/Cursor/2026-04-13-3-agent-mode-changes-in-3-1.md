@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e6b1af634d726b20a92ff2c1eaaa6d232b4b1f64dc8b273e7bf8282d1790d5dd
+machine_hash: ac80f371355d897a215012114294ab2b07feb217c1befcb15b08d2f95c2b9253
 product: cursor
 product_name: Cursor
 record:
@@ -97,7 +97,7 @@ Source: https://cursor.com/changelog/3-1
 ## Nearby in Agent Mode
 
 - Earlier: 2026-04-11 · Codex CLI · [[Changes/Codex CLI/2026-04-11-4-agent-mode-changes-in-rust-v0-120-0|4 Agent Mode changes in rust-v0.120.0]]
-- Later: 2026-04-14 · Cursor · [[Changes/Cursor/2026-04-14-ask-a-quick-side-question-without-derailing-the-agent-s-main-task-btw-allows-you|/btw support in CLI]]
+- Later: 2026-04-13 · ElevenLabs · [[Changes/ElevenLabs/2026-04-13-elevenagents|ElevenAgents]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

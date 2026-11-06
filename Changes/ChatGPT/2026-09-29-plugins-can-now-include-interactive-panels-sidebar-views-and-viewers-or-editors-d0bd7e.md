@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d83a16da4077ccf72ebda516a7cde296afe6ae9d87788a158faeb5663effde16
+machine_hash: a6c79a879cf65d49155cfe43c7e686cd9a06fa856f1097e8680c7699e14c0272
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -60,8 +60,7 @@ record:
   title: Work with interactive plugin extensions
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-28-13-apps-and-integrations-changes-in-rust-v0-158-0|13
-  Apps and Integrations changes in rust-v0.158.0]]'
+- '[[Changes/ElevenLabs/2026-09-28-sdk-releases|SDK releases]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-28-4-apps-and-integrations-changes-in-v1-0-89|4
   Apps and Integrations changes in v1.0.89]]'
 - '[[Changes/ChatGPT/2026-09-29-this-is-a-limited-preview-with-participating-integrations-using-purchased-credit|This

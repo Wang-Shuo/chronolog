@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 90607fca2d5c77877198fe15a8db0137d16e19f3e5f1d95430ef24c0b88d4945
+machine_hash: 0b9c8ab3c3095e25fe9297f7026620e1e01d627c2ee60054b81bcba7ef637330
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -45,8 +45,8 @@ record:
   title: 2 Safety and Privacy changes in rust-v0.48.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-10-17-2-safety-and-privacy-changes-in-rust-v0-47-0|2 Safety
-  and Privacy changes in rust-v0.47.0]]'
+- '[[Changes/Dify/2025-10-22-fix-web-app-permission-check-by-douxc-in-https-github-com-langgenius-dify-pull-2|Fix/web
+  app permission check]]'
 - '[[Changes/Gemini CLI/2025-10-22-2-safety-and-privacy-changes-in-v0-10-0|2 Safety
   and Privacy changes in v0.10.0]]'
 - '[[Changes/GitHub Copilot CLI/2025-10-22-ensure-that-environment-variables-are-expanded-before-running-path-permission-ch|Ensure

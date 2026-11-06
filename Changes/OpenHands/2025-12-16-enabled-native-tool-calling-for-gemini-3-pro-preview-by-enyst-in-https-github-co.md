@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 172d6484bac0210b8d953573d5c6cdf85472f04392ff72a5eee2a7de4a8ff8ce
+machine_hash: 00c1d4af00ae882ec0ad050d15749d327dd2c5e9e13779aa594b20a1422cab4a
 product: openhands
 product_name: OpenHands
 record:
@@ -43,8 +43,8 @@ record:
   title: Enabled native tool calling for gemini-3-pro-preview
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-12-13-5-model-support-changes-in-rust-v0-72-0|5 Model
-  Support changes in rust-v0.72.0]]'
+- '[[Changes/Ollama/2025-12-13-2-model-support-changes-in-v0-13-4|2 Model Support
+  changes in v0.13.4]]'
 - '[[Changes/Cline/2025-12-16-3-model-support-changes-in-v3-43-1|3 Model Support changes
   in v3.43.1]]'
 - '[[Changes/Gemini CLI/2025-12-16-6-model-support-changes-in-v0-21-0|6 Model Support

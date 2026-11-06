@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 76ca09e0bf7525865ac0656986ba13a6c886e97722fd16ce49a37cc94b778a1b
+machine_hash: ad09ba543e9e7c8e5034adeb507c0e0bdc864afbb99425b01802beb7135a5c72
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -43,10 +43,9 @@ record:
   title: Vertex ai model mapping fix
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-15-bug-now-requires-a-description-before-submitting-and-no-longer-uses-model-refusa|/bug
-  now requires a description before submitting, and no longer uses…]]'
-- '[[Changes/Codex CLI/2026-06-15-4-model-support-changes-in-rust-v0-140-0|4 Model
-  Support changes in rust-v0.140.0]]'
+- '[[Changes/ElevenLabs/2026-06-15-introducing-music-v2|Introducing Music v2]]'
+- '[[Changes/Ollama/2026-06-17-command-a-and-north-family-models-now-run-on-apple-silicon-with-the-mlx-engine|Command
+  A and North family models now run on Apple Silicon with the MLX engine]]'
 - '[[Changes/ChatGPT/2026-06-18-long-press-send-to-choose-a-model-android-users-on-paid-plans-can-now-long-press|Long-press
   send to choose a model]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-06-18-v0-47-0-github-341124036-8462e30e|gemini-cli-2026-06-18-v0-47-0-github-341124036-8462e30e]]'

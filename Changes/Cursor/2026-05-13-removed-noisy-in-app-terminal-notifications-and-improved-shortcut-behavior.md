@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f6cacacb8d222e1c197d171c2e52b7ab92c4038aef6b202b668106e0c44daffe
+machine_hash: 5ac85d2cbf4f8f1f6129723b9cc14f5a56a1d022fd3e57169d5a54c9529dc856
 product: cursor
 product_name: Cursor
 record:
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-05-13 · Cursor · [[Changes/Cursor/2026-05-13-environment-configuration-as-code-827fd1|Environment configuration as code]]
-- Later: 2026-05-14 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-14-terminal-cursor-positions-correctly-on-the-input-field-instead-of-on-decorative|Terminal cursor positions correctly on the input field instead of on decorative…]]
+- Later: 2026-05-13 · ElevenLabs · [[Changes/ElevenLabs/2026-05-13-elevenagents|ElevenAgents]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 0048fdc8724f38c1dcd2a2c0c64597ce79d6206fa73509f27ece4b6253561136
+machine_hash: 33174a0c7aa4e84bfd3ea69a6b8205520238e2fdcec2e17d95173a5411e0e788
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,10 +43,9 @@ record:
   title: Fast mode is now available for Opus 4.6
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-02-05-released-tab-v2-model-selector-to-all-users|Released
-  Tab v2 model selector to all users]]'
-- '[[Changes/Windsurf/2026-02-05-new-models|New Models]]'
 - '[[Changes/Windsurf/2026-02-05-claude-opus-4-6-fast-mode|Claude Opus 4.6 (fast mode)]]'
+- '[[Changes/Replit/2026-02-06-custom-openai-key-support|Custom OpenAI key support]]'
+- '[[Changes/Replit/2026-02-06-replit-gemini-cli-extension|Replit + Gemini CLI extension]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-07-v2-1-36-github-284054567-b9b1e9a4|claude-code-2026-02-07-v2-1-36-github-284054567-b9b1e9a4]]'
 source_type: github_releases
 theme: model-support
@@ -73,7 +72,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-02-05 · Windsurf · [[Changes/Windsurf/2026-02-05-claude-opus-4-6-fast-mode|Claude Opus 4.6 (fast mode)]]
+- Earlier: 2026-02-06 · Replit · [[Changes/Replit/2026-02-06-replit-gemini-cli-extension|Replit + Gemini CLI extension]]
 - Later: 2026-02-07 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-07-add-support-for-claude-opus-4-6-fast-preview|Add support for Claude Opus 4.6 Fast (Preview)]]
 <!-- chronolog:end -->
 

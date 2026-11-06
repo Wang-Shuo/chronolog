@@ -36,14 +36,36 @@ python -m pytest -q
 - Cline: [cline/cline releases](https://github.com/cline/cline/releases)
 - Aider: [Aider-AI/aider releases](https://github.com/Aider-AI/aider/releases)
 - OpenHands: [OpenHands/OpenHands releases](https://github.com/OpenHands/OpenHands/releases)
+- Claude: [Claude app release notes](https://support.claude.com/en/articles/12138966-release-notes)
+- Gemini: [Gemini Apps release notes](https://gemini.google/us/release-notes/?hl=en)
+- DeepSeek API: [official API change log](https://api-docs.deepseek.com/updates/)
+- ElevenLabs: [official changelog](https://elevenlabs.io/docs/changelog)
+- Lovable: [official product changelog](https://docs.lovable.dev/changelog)
+- v0: [official product changelog](https://v0.app/changelog)
+- Replit: [official weekly updates](https://docs.replit.com/updates)
+- Ollama: [ollama/ollama releases](https://github.com/ollama/ollama/releases)
+- Dify: [langgenius/dify releases](https://github.com/langgenius/dify/releases)
+- Open WebUI: [open-webui/open-webui releases](https://github.com/open-webui/open-webui/releases)
 
 `_scripts/sources.yaml` is the shared product catalog for collection, public pages,
-search, graph and timeline filters. The seven added sources track stable application
-releases: `include_prereleases: false` and `tag_pattern` exclude preview builds,
-separately tagged packages and temporary CI uploads. Codex uses smaller API pages
-because release asset metadata makes 100-item responses time out. Coverage limits
-are carried into each product page and About; CLI histories do not represent their
-consumer apps or all product surfaces. Continue and Tabby remain disabled.
+search, graph and timeline filters. It now tracks 20 products across consumer
+assistants, audio generation, app building, local-model tools and developer tools.
+GitHub sources use `include_prereleases: false` and `tag_pattern` to exclude preview
+builds, separately tagged packages and temporary CI uploads. Larger asset feeds use
+smaller API pages to avoid timeouts.
+
+The app collectors preserve explicit publication dates from official HTML and
+Markdown. ElevenLabs traverses its full changelog index instead of the 20-entry
+Markdown window; Replit traverses dated update URLs in its official sitemap and
+verifies each page's heading against that date. Missing pages, malformed dates and
+duplicate identities fail the source, so a partial archive cannot be reconciled as
+complete. Navigation, hosting widgets and code examples are excluded.
+
+Coverage limits are carried into each product page and About. Claude and Gemini
+app histories are distinct from their coding tools; DeepSeek API represents its API
+change log; Replit includes related development-platform changes. Available-endpoint
+coverage does not establish a product's launch date or lifetime history. Continue
+and Tabby remain disabled.
 
 ## Daily incremental updates
 

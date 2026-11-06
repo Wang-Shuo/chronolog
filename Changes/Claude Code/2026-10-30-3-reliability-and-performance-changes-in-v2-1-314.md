@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4ffa514bb4b545e8aadea0db2f5892be757cee908c00e271f6b30db4852651c0
+machine_hash: 91f354ae406efc266c964a816051bdf9bdea491fa3172bbfd3ff0c4ada6c3db6
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,10 +49,10 @@ record:
   title: 3 Reliability and Performance changes in v2.1.314
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-23-improved-memory-use-of-non-interactive-sessions-p-agent-sdk-during-compaction-wh|Improved
-  memory use of non-interactive sessions (-p, Agent SDK) during compaction…]]'
-- '[[Changes/Codex CLI/2026-10-23-2-reliability-and-performance-changes-in-rust-v0-164-0|2
-  Reliability and Performance changes in rust-v0.164.0]]'
+- '[[Changes/Ollama/2026-10-27-faster-prompt-processing-on-apple-silicon-for-gemma-4-flint-and-laguna-models|Faster
+  prompt processing on Apple silicon for Gemma 4, Flint and Laguna models]]'
+- '[[Changes/Open WebUI/2026-10-29-2-reliability-and-performance-changes-in-v0-12-5|2
+  Reliability and Performance changes in v0.12.5]]'
 - '[[Changes/Windsurf/2026-10-29-reduced-memory-usage-for-large-devin-local-sessions|Reduced
   memory usage for large Devin Local sessions]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-30-v2-1-314-github-428518421-b7ac83d7|claude-code-2026-10-30-v2-1-314-github-428518421-b7ac83d7]]'
@@ -99,7 +99,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.314
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-10-29 · Windsurf · [[Changes/Windsurf/2026-10-29-reduced-memory-usage-for-large-devin-local-sessions|Reduced memory usage for large Devin Local sessions]]
-- Later: 2026-11-06 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-11-06-3-reliability-and-performance-changes-in-v1-0-106|3 Reliability and Performance changes in v1.0.106]]
+- Later: 2026-11-02 · ElevenLabs · [[Changes/ElevenLabs/2026-11-02-fixes-history-items-for-v4-generations-keep-clone-strength-and-speed-in-their-sa|Fixes: History items for v4 generations keep clone_strength and speed…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

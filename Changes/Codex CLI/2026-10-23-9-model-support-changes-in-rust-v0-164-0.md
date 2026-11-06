@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 556d436f8e87b526d9a7af1328c866b78738fa30f0bf1dc5d9fc9aa7a117502e
+machine_hash: 6d29d4e71b4963ec88c8192f0e0f7d947080a0fa6d8c5cd03fec7510ac6d3aea
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -58,12 +58,12 @@ record:
   title: 9 Model Support changes in rust-v0.164.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-10-20-8-model-support-changes-in-v1-0-101|8 Model
-  Support changes in v1.0.101]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-21-prompt-mode-now-honors-managed-auto-model-selection-for-p-and-piped-stdin-runs|Prompt
   mode now honors managed Auto model selection for -p and piped stdin runs]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-22-3-model-support-changes-in-v1-0-103|3 Model
   Support changes in v1.0.103]]'
+- '[[Changes/Lovable/2026-10-22-gemini-2-5-chat-models-are-retired-for-your-app-s-ai-features|Gemini
+  2.5 chat models are retired for your app''s AI features]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-10-23-rust-v0-164-0-github-421457270-d867151d|codex-cli-2026-10-23-rust-v0-164-0-github-421457270-d867151d]]'
 source_type: github_releases
 theme: model-support
@@ -124,8 +124,8 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.164.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-10-22 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-22-3-model-support-changes-in-v1-0-103|3 Model Support changes in v1.0.103]]
-- Later: 2026-10-26 · ChatGPT · [[Changes/ChatGPT/2026-10-26-gpt-6-1-terra-is-rolling-out-in-chatgpt-work-and-codex-it-supports-a-range-of-ta|GPT-6.1 Terra]]
+- Earlier: 2026-10-22 · Lovable · [[Changes/Lovable/2026-10-22-gemini-2-5-chat-models-are-retired-for-your-app-s-ai-features|Gemini 2.5 chat models are retired for your app's AI features]]
+- Later: 2026-10-23 · Dify · [[Changes/Dify/2026-10-23-operations-archive-storage-supports-configurable-s3-addressing-style-the-api-ima|Operations: archive storage supports configurable S3 addressing style]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4e661acd4ec6b14c1060c9db6479ea33b50b2e7614ab9bf4c23a5b9847b0ba58
+machine_hash: f4c50d00c4e6c4ab1b2be708de329ef4483155a7e2215407108c4848f34fc604
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -42,10 +42,10 @@ record:
   title: 2 Mobile and Desktop changes in v0.12.0
   type: change
 related_changes:
-- '[[Changes/Cline/2025-10-23-fixing-banner-to-not-show-cli-release-for-windows-users-by-arafatkatze-in-https|Fixing
-  banner to not show CLI release for windows users]]'
 - '[[Changes/GitHub Copilot CLI/2025-10-24-bundled-sharp-dependency-into-the-cli-package-we-re-one-step-closer-to-implement|Bundled
   sharp dependency into the CLI package -- we''re one step closer…]]'
+- '[[Changes/Ollama/2025-10-30-ignore-unsupported-igpus-when-doing-device-discovery-on-windows|Ignore
+  unsupported iGPUs when doing device discovery on Windows]]'
 - '[[Changes/Codex CLI/2025-11-04-6124-fix-archive-conversation-on-windows-6124|♯6124
   Fix "archive conversation" on Windows (♯6124)]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-11-04-v0-12-0-github-259722512-acf05c2e|gemini-cli-2025-11-04-v0-12-0-github-259722512-acf05c2e]]'
@@ -91,7 +91,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.12.0
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2025-11-04 · Codex CLI · [[Changes/Codex CLI/2025-11-04-6124-fix-archive-conversation-on-windows-6124|♯6124 Fix "archive conversation" on Windows (♯6124)]]
-- Later: 2025-11-12 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-11-12-ensure-commands-on-windows-use-powershell-when-available-fixes-https-github-com|Ensure ! commands on Windows use PowerShell when available…]]
+- Later: 2025-11-05 · ElevenLabs · [[Changes/ElevenLabs/2025-11-05-android-sdk|Android SDK]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

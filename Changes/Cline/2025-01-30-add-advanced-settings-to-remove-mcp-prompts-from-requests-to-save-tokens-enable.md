@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9435bdcc388ca8a99e4085e591d4792523499f7f78677c47c4c0de9fffaebb5e
+machine_hash: e32889622ce700e48764142a685ba9aa270701754a39d066fda2273e568ec8b0
 product: cline
 product_name: Cline
 record:
@@ -54,10 +54,9 @@ record:
   title: Add Advanced Settings to remove MCP prompts from requests to save tokens…
   type: change
 related_changes:
-- '[[Changes/Cline/2024-12-18-enable-or-disable-for-reading-files-directories-editing-files-executing-terminal|Enable
-  or disable for]]'
-- '[[Changes/Cline/2025-01-21-add-on-off-toggle-for-mcp-servers-to-disable-them-when-not-in-use-and-auto-appro|Add
-  on/off toggle for MCP servers to disable them when not in use, and auto-approve…]]'
+- '[[Changes/Replit/2025-01-24-assistant-workflows|Assistant + Workflows]]'
+- '[[Changes/Lovable/2025-01-28-support-for-resend-has-improved-with-the-transition-to-the-node-sdk|Support
+  for Resend has improved with the transition to the Node SDK]]'
 - '[[Changes/OpenHands/2025-01-29-improved-performance-of-github-api-integration-by-using-modern-async-http-client|Improved
   performance of GitHub API integration by using modern async HTTP client]]'
 source_release: '[[Releases/Cline/cline-2025-01-30-v3-2-6-github-197481129-124c52a1|cline-2025-01-30-v3-2-6-github-197481129-124c52a1]]'
@@ -90,7 +89,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2025-01-29 · OpenHands · [[Changes/OpenHands/2025-01-29-improved-performance-of-github-api-integration-by-using-modern-async-http-client|Improved performance of GitHub API integration by using modern async HTTP client]]
-- Later: 2025-02-19 · Cline · [[Changes/Cline/2025-02-19-introducing-mcp-marketplace-you-can-now-discover-and-install-the-best-mcp-server|Introducing MCP Marketplace!]]
+- Later: 2025-01-31 · Replit · [[Changes/Replit/2025-01-31-repl-app|Repl - App]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

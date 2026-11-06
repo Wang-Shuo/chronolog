@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: fba225089a49019fe01bcebcedeacd454eac6e62f06fc997965d99ca46f33540
+machine_hash: 3d244c25ac14c5352dd7c95674be9275f33645e7e376df02ac604eaccfe96d01
 product: claude-code
 product_name: Claude Code
 record:

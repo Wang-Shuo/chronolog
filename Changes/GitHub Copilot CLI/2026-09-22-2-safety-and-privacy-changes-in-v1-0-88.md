@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4a9799167147d3be22f0177296fd81856bbd17032470ddd75f13e9bd709da797
+machine_hash: 491d44277becdf1fd20fedef62f80f2bad60eb20c69e846a184dcb537d610a74
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,8 +44,8 @@ record:
   title: 2 Safety and Privacy changes in v1.0.88
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-09-21-2-safety-and-privacy-changes-in-v1-0-87|2
-  Safety and Privacy changes in v1.0.87]]'
+- '[[Changes/Open WebUI/2026-09-21-4-safety-and-privacy-changes-in-v0-11-4|4 Safety
+  and Privacy changes in v0.11.4]]'
 - '[[Changes/Claude Code/2026-09-22-2-safety-and-privacy-changes-in-v2-1-280|2 Safety
   and Privacy changes in v2.1.280]]'
 - '[[Changes/Codex CLI/2026-09-22-50-safety-and-privacy-changes-in-rust-v0-156-0|50

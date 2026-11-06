@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6aaac4b78e6a3e1e80cf3799ae7e3296afbb370c689835cc430190c646579ee2
+machine_hash: 117e30014d39acb5ce3a83a0beae758638ee81d23e31bfdd47f31f77926da126
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -41,12 +41,12 @@ record:
   title: Honor max_output_tokens for BYOK Responses providers
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-08-4-context-window-changes-in-rust-v0-138-0|4 Context
-  Window changes in rust-v0.138.0]]'
 - '[[Changes/Codex CLI/2026-06-09-3-context-window-changes-in-rust-v0-139-0|3 Context
   Window changes in rust-v0.139.0]]'
 - '[[Changes/Claude Code/2026-06-12-vscode-added-usage-attribution-to-the-account-usage-dialog-usage-showing-cache-m|VSCode
   Added usage attribution to the Account & usage dialog (/usage) showing…]]'
+- '[[Changes/Ollama/2026-06-12-improved-prompt-caching-by-decoupling-it-from-context-shift-for-better-kv-cache|Improved
+  prompt caching by decoupling it from context shift for better KV cache reuse]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-06-13-v1-0-62-github-339039020-f6ff7e5e|github-copilot-cli-2026-06-13-v1-0-62-github-339039020-f6ff7e5e]]'
 source_type: github_releases
 theme: context-window
@@ -89,7 +89,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-06-12 · Claude Code · [[Changes/Claude Code/2026-06-12-vscode-added-usage-attribution-to-the-account-usage-dialog-usage-showing-cache-m|VSCode Added usage attribution to the Account & usage dialog (/usage) showing…]]
+- Earlier: 2026-06-12 · Ollama · [[Changes/Ollama/2026-06-12-improved-prompt-caching-by-decoupling-it-from-context-shift-for-better-kv-cache|Improved prompt caching by decoupling it from context shift for better KV cache reuse]]
 - Later: 2026-06-15 · Codex CLI · [[Changes/Codex CLI/2026-06-15-7-context-window-changes-in-rust-v0-140-0|7 Context Window changes in rust-v0.140.0]]
 <!-- chronolog:end -->
 

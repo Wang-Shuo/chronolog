@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4629f713447bd9719d09606e45a65f5038d4d95668a58823d4ad2ae44f9ec365
+machine_hash: 9671c8f3153d0b142a18ef944d1502932b8492526582d8859a9b6c2f315e959e
 product: aider
 product_name: Aider
 record:
@@ -41,12 +41,12 @@ record:
   title: 2 Developer Workflow changes in v0.38.0
   type: change
 related_changes:
-- '[[Changes/Aider/2024-05-22-4-developer-workflow-changes-in-v0-36-0|4 Developer
-  Workflow changes in v0.36.0]]'
-- '[[Changes/OpenHands/2024-06-04-windows-doc-extended-with-more-wsl-hints-by-tobitege-in-https-github-com-opendev|Windows
-  doc extended with more WSL hints]]'
 - '[[Changes/Cursor/2024-06-08-remote-tunnels-are-now-supported-remote-ssh-support-is-also-more-robust-now-supp|Remote
   tunnels are now supported!]]'
+- "[[Changes/Open WebUI/2024-06-10-backend-task-management-tasks-like-title-generation-and-search-query-generation|\U0001F527
+  Backend Task Management]]"
+- '[[Changes/Dify/2024-06-14-3-developer-workflow-changes-in-0-6-11|3 Developer Workflow
+  changes in 0.6.11]]'
 source_release: '[[Releases/Aider/aider-2024-06-17-v0-38-0-github-160759747-1e2df2e4|aider-2024-06-17-v0-38-0-github-160759747-1e2df2e4]]'
 source_type: github_releases
 theme: developer-workflow
@@ -80,7 +80,7 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.38.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2024-06-08 · Cursor · [[Changes/Cursor/2024-06-08-remote-tunnels-are-now-supported-remote-ssh-support-is-also-more-robust-now-supp|Remote tunnels are now supported!]]
+- Earlier: 2024-06-14 · Dify · [[Changes/Dify/2024-06-14-3-developer-workflow-changes-in-0-6-11|3 Developer Workflow changes in 0.6.11]]
 - Later: 2024-06-20 · Aider · [[Changes/Aider/2024-06-20-commit-messages-are-no-longer-prefixed-with-aider-instead-the-git-author-and-com|Commit messages are no longer prefixed with "aider:"]]
 <!-- chronolog:end -->
 

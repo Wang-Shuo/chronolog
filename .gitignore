@@ -10,3 +10,4 @@ content/
 quartz
 _pipeline/
 .worktrees/
+output/playwright/

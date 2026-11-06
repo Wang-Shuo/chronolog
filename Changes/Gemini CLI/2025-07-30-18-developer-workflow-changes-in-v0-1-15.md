@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d3d337d77dd6138a198ad6be06907901a9decb827ca3cb95c0dc7b788c8b61cd
+machine_hash: 0168fd57f8d71903c6e5f4cb79e9fe3e32a4959cf71087bdd91c4f2429a36877
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -78,10 +78,10 @@ record:
   title: 18 Developer Workflow changes in v0.1.15
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-07-25-16-developer-workflow-changes-in-v0-1-14|16 Developer
-  Workflow changes in v0.1.14]]'
 - '[[Changes/Cline/2025-07-26-adding-gitbash-terminal-support-and-docs-for-solving-windows-terminal-issues-by|Adding
   gitbash terminal support and docs for solving windows terminal issues]]'
+- '[[Changes/Dify/2025-07-28-postgresql-healthcheck-enhanced-the-healthcheck-command-to-avoid-fatal-log-error|PostgreSQL
+  Healthcheck: Enhanced the healthcheck command to avoid fatal log…]]'
 - '[[Changes/Cursor/2025-07-29-2-developer-workflow-changes-in-1-3|2 Developer Workflow
   changes in 1.3]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-07-30-v0-1-15-github-236146632-10a2efdb|gemini-cli-2025-07-30-v0-1-15-github-236146632-10a2efdb]]'

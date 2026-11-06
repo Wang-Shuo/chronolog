@@ -4,20 +4,20 @@ date: '2026-08-21'
 description: 'OpenHands · 2026-08-21 · Automation and Scheduling: 4 changes in v1.15.0
   — feat(automations): install a catalog entry that ships a script bundle by @VascoSch92…'
 diffusion:
-  first_in_tracked: '[[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better
-    syntax error loop detection]]'
+  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
+    data clean schedule]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 716
+  lag_days: 962
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6c442b7db528e5f3aed00ecdec9674dd12ec93ca8f2fc049220d92414b65292f
+machine_hash: deff53c0bc8c620e2cdad7ce9f86e95eb4bfa7260bd54acb58ead8a82f408815
 product: openhands
 product_name: OpenHands
 record:
@@ -97,13 +97,13 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/v1.15.0
 ## Nearby in Automation and Scheduling
 
 - Earlier: 2026-08-17 · OpenHands · [[Changes/OpenHands/2026-08-17-feat-automations-add-a-git-sync-page-by-vascosch92-in-https-github-com-openhands|feat(automations): add a Git Sync page]]
-- Later: 2026-08-25 · ChatGPT · [[Changes/ChatGPT/2026-08-25-scheduled-tasks-in-chatgpt-work-can-use-webhooks-to-respond-when-something-chang|Scheduled tasks in ChatGPT Work can use webhooks to respond when something changes…]]
+- Later: 2026-08-21 · Replit · [[Changes/Replit/2026-08-21-automate-recurring-work-with-routines|Automate recurring work with Routines]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-09-04 · OpenHands · [[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better syntax error loop detection]]
+- Earliest same-theme entry in the tracked set: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

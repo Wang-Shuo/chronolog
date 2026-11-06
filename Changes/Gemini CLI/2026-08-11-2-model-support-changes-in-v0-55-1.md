@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: be8591823c186bd53fb4064ff554b1fc3cd91943a69ab36dfdab20349cc75f59
+machine_hash: fd3328e5f2253a33d90ed066ac1dfdb81509e2718157dd04dac84ec098c0203e
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -89,7 +89,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.55.1
 ## Nearby in Model Support
 
 - Earlier: 2026-08-11 · Cline · [[Changes/Cline/2026-08-11-2-model-support-changes-in-v4-1-8|2 Model Support changes in v4.1.8]]
-- Later: 2026-08-14 · Claude Code · [[Changes/Claude Code/2026-08-14-2-model-support-changes-in-v2-1-233|2 Model Support changes in v2.1.233]]
+- Later: 2026-08-13 · DeepSeek API · [[Changes/DeepSeek API/2026-08-13-deepseek-v4-pro-update|DeepSeek-V4-Pro Update]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: b1ed093510342818056b0edbd521afd6dfcc6f77c1c95347aa24bf4145dff4e0
+machine_hash: 61236baa70919d326f7856e885134a77e5c4686b98824a02ed1f5424ea6deabf
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -45,10 +45,9 @@ record:
     models…
   type: change
 related_changes:
-- '[[Changes/Cline/2025-08-01-update-cerebras-models-by-arafatkatze-in-https-github-com-cline-cline-pull-5282|Update
-  Cerebras models]]'
 - '[[Changes/Gemini CLI/2025-08-02-20-model-support-changes-in-v0-1-16|20 Model Support
   changes in v0.1.16]]'
+- '[[Changes/Claude/2025-08-05-claude-opus-4-1|Claude Opus 4.1]]'
 - '[[Changes/Cline/2025-08-05-adding-anthropic-opus-4-1-by-arafatkatze-in-https-github-com-cline-cline-pull-53|Adding
   Anthropic opus 4.1]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-08-05-rust-v0-13-0-github-237793266-31782bdf|codex-cli-2025-08-05-rust-v0-13-0-github-237793266-31782bdf]]'

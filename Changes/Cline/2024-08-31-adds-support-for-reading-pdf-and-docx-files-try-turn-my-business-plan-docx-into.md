@@ -4,20 +4,20 @@ date: '2024-08-31'
 description: 'Cline · 2024-08-31 · Enterprise and Administration: Adds support for
   reading .pdf and .docx files (try "turn my business_plan.docx into a company website")'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin
-    improvements: Team admins can now mark themselves as unpaid users and can see…]]'
+  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
+    for Google Workspace accounts]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 164
+  lag_days: 484
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 6764ea7c2b0d812e703337b5049d70e710bd859e4401c2ebcb78e46bbc7852b3
+machine_hash: f71aaef1943d479beb31d71999c0bdff255bbd7c0dcb1f76f69128c0e6e70388
 product: cline
 product_name: Cline
 record:
@@ -44,8 +44,12 @@ record:
   title: Adds support for reading .pdf and .docx files…
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin
-  improvements: Team admins can now mark themselves as unpaid users and can see…]]'
+- "[[Changes/Open WebUI/2024-05-02-super-admin-assignment-the-first-signup-is-automatically-assigned-a-super-admin|\U0001F451
+  Super Admin Assignment]]"
+- '[[Changes/Gemini/2024-05-23-enterprise-grade-data-protections-for-workspace-for-education-customers-is-now-a|Enterprise-grade
+  data protections for Workspace for Education customers is now…]]'
+- '[[Changes/Dify/2024-08-14-update-enterprise-inquiry-link-to-point-to-chatflow-by-guchenhe-in-https-github|update
+  enterprise inquiry link to point to chatflow]]'
 source_release: '[[Releases/Cline/cline-2024-08-31-v1-5-4-github-172880694-4fe15a62|cline-2024-08-31-v1-5-4-github-172880694-4fe15a62]]'
 source_type: github_releases
 theme: enterprise-admin
@@ -72,14 +76,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2024-03-20 · Cursor · [[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin improvements: Team admins can now mark themselves as unpaid users and can see…]]
-- Later: 2025-03-23 · Cursor · [[Changes/Cursor/2025-03-23-enhanced-visibility-of-auto-run-controls-configured-by-team-admins-clarifying-wh|Enhanced visibility of auto-run controls configured by team admins, clarifying…]]
+- Earlier: 2024-08-14 · Dify · [[Changes/Dify/2024-08-14-update-enterprise-inquiry-link-to-point-to-chatflow-by-guchenhe-in-https-github|update enterprise inquiry link to point to chatflow]]
+- Later: 2024-12-03 · Dify · [[Changes/Dify/2024-12-03-feat-remove-github-star-and-community-links-if-it-is-enterprise-version-by-douxc|Feat: remove github star and community links if it is enterprise version]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-03-20 · Cursor · [[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin improvements: Team admins can now mark themselves as unpaid users and can see…]]
+- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

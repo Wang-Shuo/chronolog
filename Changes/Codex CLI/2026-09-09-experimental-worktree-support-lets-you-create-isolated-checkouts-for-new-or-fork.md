@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 77dbf0d2a5476199e043bcc0fd644664d15ad067ad33d4cf5338bdc3cdfcc74a
+machine_hash: c2412bdde3803ac87dc040a68431df1fce0a6b688bfbc976e75406888f112f84
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -58,10 +58,10 @@ record:
     or forked…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-08-13-if-you-have-the-google-drive-plugin-connected-you-can-now-see-and-browse-your-go-97f18f|If
-  you have the Google Drive plugin connected, you can now see and browse…]]'
-- '[[Changes/Cursor/2026-08-17-cursor-can-now-host-your-code|Cursor can now host your
-  code]]'
+- '[[Changes/Open WebUI/2026-08-25-5-search-and-browsing-changes-in-v0-11-1|5 Search
+  and Browsing changes in v0.11.1]]'
+- '[[Changes/Lovable/2026-08-26-see-how-each-app-page-appears-in-search-results-and-link-previews|See
+  how each app page appears in search results and link previews]]'
 - '[[Changes/Claude Code/2026-09-01-changed-btw-history-browsing-from-to-shift-shift-or-stepping-through-your-recent|Changed
   /btw history browsing from ←/→ to Shift+←/Shift+→ (or /)…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-09-09-rust-v0-154-0-github-385887902-ee241ff1|codex-cli-2026-09-09-rust-v0-154-0-github-385887902-ee241ff1]]'
@@ -109,7 +109,7 @@ type: change
 ## Nearby in Search and Browsing
 
 - Earlier: 2026-09-01 · Claude Code · [[Changes/Claude Code/2026-09-01-changed-btw-history-browsing-from-to-shift-shift-or-stepping-through-your-recent|Changed /btw history browsing from ←/→ to Shift+←/Shift+→ (or /)…]]
-- Later: 2026-09-10 · ChatGPT · [[Changes/ChatGPT/2026-09-10-box-dropbox-and-sharepoint-now-join-google-drive-in-chatgpt-library-once-connect|Box, Dropbox, and SharePoint now join Google Drive in ChatGPT Library]]
+- Later: 2026-09-09 · Lovable · [[Changes/Lovable/2026-09-09-compare-and-restore-earlier-versions-of-a-plan|Compare and restore earlier versions of a plan]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

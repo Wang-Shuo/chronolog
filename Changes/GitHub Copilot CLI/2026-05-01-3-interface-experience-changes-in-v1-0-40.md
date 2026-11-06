@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c1a7adbd36b1c540f11453011a4a9010c19cb67ba4d1be861efcdda9c66ce3b2
+machine_hash: 8411e7fca76e050200acc3737494485555b081e8a3929f0fcffd6f9fff20be58
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -46,10 +46,10 @@ record:
   title: 3 Interface Experience changes in v1.0.40
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-28-4-interface-experience-changes-in-v2-1-121|4 Interface
-  Experience changes in v2.1.121]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-28-2-interface-experience-changes-in-v1-0-39|2
   Interface Experience changes in v1.0.39]]'
+- '[[Changes/Dify/2026-04-29-10-interface-experience-changes-in-1-14-0|10 Interface
+  Experience changes in 1.14.0]]'
 - '[[Changes/Codex CLI/2026-04-30-2-interface-experience-changes-in-rust-v0-128-0|2
   Interface Experience changes in rust-v0.128.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-05-01-v1-0-40-github-316385532-9c4aec71|github-copilot-cli-2026-05-01-v1-0-40-github-316385532-9c4aec71]]'

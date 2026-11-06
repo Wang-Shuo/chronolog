@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: da02266749b8a917e404d3c6b6dc845de75bed58614d3258fd9cce669065d9b3
+machine_hash: 74b6997a3bdde4d26a42084395377829315dc873ba4c327b6a52401e68fac9fe
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,11 +42,9 @@ record:
   title: PowerShell apply_patch parsing is corrected, and apply_patch tests now cover…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-11-19-2-agent-mode-changes-in-rust-v0-59-0|2 Agent Mode
-  changes in rust-v0.59.0]]'
-- '[[Changes/Cursor/2025-11-21-instant-grep-beta|Instant Grep (Beta)]]'
-- '[[Changes/Cursor/2025-11-21-2-agent-mode-changes-in-2-1|2 Agent Mode changes in
-  2.1]]'
+- '[[Changes/ElevenLabs/2025-11-27-agents-platform|Agents Platform]]'
+- '[[Changes/ElevenLabs/2025-11-27-agents-platform-d37ef7|Agents Platform]]'
+- '[[Changes/ElevenLabs/2025-11-27-python-sdk|Python SDK]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-12-02-rust-v0-64-0-github-266901625-82376886|codex-cli-2025-12-02-rust-v0-64-0-github-266901625-82376886]]'
 source_type: github_releases
 theme: agent-mode
@@ -84,7 +82,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2025-11-21 · Cursor · [[Changes/Cursor/2025-11-21-2-agent-mode-changes-in-2-1|2 Agent Mode changes in 2.1]]
+- Earlier: 2025-11-27 · ElevenLabs · [[Changes/ElevenLabs/2025-11-27-python-sdk|Python SDK]]
 - Later: 2025-12-03 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-12-03-add-infer-property-to-control-custom-agent-tool-visibility|Add infer property to control custom agent tool visibility]]
 <!-- chronolog:end -->
 

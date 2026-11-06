@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 0bf9fc82cd14b4ea29da0688b959471e9f86ee861288aa2f35ef7dfeed10932a
+machine_hash: 123f97ec36fc0f2b8813dac691a846e867adab9030c67e8c406a9fdb8c04fc7f
 product: openhands
 product_name: OpenHands
 record:
@@ -43,10 +43,8 @@ record:
   title: Added Forgejo integration
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-12-22-2-apps-and-integrations-changes-in-2-3|2 Apps and Integrations
-  changes in 2.3]]'
-- '[[Changes/Gemini CLI/2025-12-22-3-apps-and-integrations-changes-in-v0-22-0|3 Apps
-  and Integrations changes in v0.22.0]]'
+- '[[Changes/Replit/2025-12-26-replit-rewind-2025|Replit Rewind 2025]]'
+- '[[Changes/Replit/2025-12-26-replit-chatgpt-app|Replit ChatGPT App]]'
 - '[[Changes/GitHub Copilot CLI/2025-12-30-enable-copilot-spaces-tools-in-github-mcp-server|Enable
   Copilot Spaces tools in GitHub MCP Server]]'
 source_release: '[[Releases/OpenHands/openhands-2025-12-30-1-1-0-github-273438720-22c53f63|openhands-2025-12-30-1-1-0-github-273438720-22c53f63]]'

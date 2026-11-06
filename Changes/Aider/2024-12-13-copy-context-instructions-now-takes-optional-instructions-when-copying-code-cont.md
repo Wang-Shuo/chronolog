@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ffa2c046e9e4d95311ba3c38d44733b652994082f437ab6ae8ce7a9d617fe03e
+machine_hash: 21d8a4cb1ae3542f26e48b0d29e9ff477f0cd51c4f97df26d434a2b9f73844e3
 product: aider
 product_name: Aider
 record:
@@ -43,10 +43,10 @@ record:
     code…'
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-11-24-early-version-of-an-agent-in-composer-that-can-pick-its-own-context-and-use-the-1228de|Early
-  version of an agent in composer that can pick its own context and use the terminal]]'
-- '[[Changes/Aider/2024-11-26-ollama-models-now-default-to-an-8k-context-window|Ollama
-  models now default to an 8k context window]]'
+- '[[Changes/Dify/2024-12-03-sync-indexing-max-segmentation-tokens-length-between-api-and-web-by-fujita-h-in|Sync
+  INDEXING_MAX_SEGMENTATION_TOKENS_LENGTH between API and Web]]'
+- '[[Changes/Ollama/2024-12-04-experimental-new-flag-to-set-kv-cache-quantization-to-4-bit-q4-0-8-bit-q8-0-or-1|Experimental:
+  new flag to set KV cache quantization to 4-bit (q4_0), 8-bit…]]'
 - '[[Changes/Aider/2024-12-10-new-copy-context-command|New /copy-context command]]'
 source_release: '[[Releases/Aider/aider-2024-12-13-v0-69-0-github-190706820-c74597ab|aider-2024-12-13-v0-69-0-github-190706820-c74597ab]]'
 source_type: github_releases
@@ -80,7 +80,7 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2024-12-10 · Aider · [[Changes/Aider/2024-12-10-new-copy-context-command|New /copy-context command]]
-- Later: 2024-12-18 · Cline · [[Changes/Cline/2024-12-18-you-can-now-specify-custom-instructions-for-your-project-by-adding-a-root-level|Specify custom instructions for your project by adding a root-level .clinerules file]]
+- Later: 2024-12-16 · Dify · [[Changes/Dify/2024-12-16-revert-fix-total-tokens-is-wrong-which-is-zero-in-inter-way-close-by-yihong0618|Revert "fix: total tokens is wrong which is zero in inter way, close …]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

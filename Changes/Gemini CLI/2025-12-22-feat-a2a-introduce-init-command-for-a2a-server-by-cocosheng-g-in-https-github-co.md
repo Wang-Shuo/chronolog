@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 73918c1fe3165240dbfc8bdc9619661de68973ad283d91c76caf28aa42e0b051
+machine_hash: c00ced0f12be6ec210e98340db1c6823422548ccb75ef4f9c6636505f349df40
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -42,10 +42,10 @@ record:
   title: 'feat(a2a): Introduce /init command for a2a server'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2025-12-19-2-developer-workflow-changes-in-v2-0-74|2 Developer
-  Workflow changes in v2.0.74]]'
 - '[[Changes/Codex CLI/2025-12-19-6-developer-workflow-changes-in-rust-v0-76-0|6 Developer
   Workflow changes in rust-v0.76.0]]'
+- '[[Changes/Open WebUI/2025-12-21-11-developer-workflow-changes-in-v0-6-42|11 Developer
+  Workflow changes in v0.6.42]]'
 - '[[Changes/Cline/2025-12-22-enhanced-background-terminal-execution-with-command-tracking-log-file-output-zom|Enhanced
   background terminal execution with command tracking, log file output…]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-12-22-v0-22-0-github-272264073-a982fd82|gemini-cli-2025-12-22-v0-22-0-github-272264073-a982fd82]]'
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2025-12-22 · Cline · [[Changes/Cline/2025-12-22-enhanced-background-terminal-execution-with-command-tracking-log-file-output-zom|Enhanced background terminal execution with command tracking, log file output…]]
-- Later: 2025-12-24 · Windsurf · [[Changes/Windsurf/2025-12-24-git-worktree-support|Git Worktree Support]]
+- Later: 2025-12-22 · Open WebUI · [[Changes/Open WebUI/2025-12-22-2-developer-workflow-changes-in-v0-6-43|2 Developer Workflow changes in v0.6.43]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

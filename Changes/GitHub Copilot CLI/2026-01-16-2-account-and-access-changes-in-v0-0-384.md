@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 56b80cbf83fceb5aff49ce030b5e1e91d40ccc85f0855235d0d02bebac285d31
+machine_hash: 621accfabb3afe4241cc3700dfcdba43750909edd3b56ba3fa103cb5d577e942
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,10 +43,10 @@ record:
   title: 2 Account and Access changes in v0.0.384
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-14-changed-oauth-and-api-console-urls-from-console-anthropic-com-to-platform-claude|Changed
-  OAuth and API Console URLs from console.anthropic.com to platform.claude.com]]'
 - '[[Changes/Codex CLI/2026-01-14-2-account-and-access-changes-in-rust-v0-81-0|2 Account
   and Access changes in rust-v0.81.0]]'
+- '[[Changes/Dify/2026-01-15-redirect-after-login-we-ve-sorted-out-the-login-redirects-to-bring-you-back-to-y|Redirect
+  After Login]]'
 - '[[Changes/Cursor/2026-01-16-one-click-mcp-authentication|One-click MCP authentication]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-01-16-v0-0-384-github-277297952-1cab0865|github-copilot-cli-2026-01-16-v0-0-384-github-277297952-1cab0865]]'
 source_type: github_releases
@@ -87,7 +87,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v0.0.384
 ## Nearby in Account and Access
 
 - Earlier: 2026-01-16 · Cursor · [[Changes/Cursor/2026-01-16-one-click-mcp-authentication|One-click MCP authentication]]
-- Later: 2026-01-21 · Gemini CLI · [[Changes/Gemini CLI/2026-01-21-feat-admin-prompt-user-to-restart-the-cli-if-they-change-auth-to-oauth-mid-sessi|feat(admin): prompt user to restart the CLI if they change auth to oauth mid-session…]]
+- Later: 2026-01-16 · Lovable · [[Changes/Lovable/2026-01-16-two-factor-authentication-2fa|Two-factor authentication (2FA)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

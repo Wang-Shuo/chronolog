@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: e10c5171ec6498d662d3e94db519461ccbd806cfc12e083a9096a76dd47e82bd
+machine_hash: 4bba11d32073d9525d9018808769cd3a3e8f17a215ea97fb9cae4e4865643676
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -54,8 +54,8 @@ record:
   title: Improved the error handling in the `/model` picker when no models are available…
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-10-07-5-model-support-changes-in-v0-8-0|5 Model Support
-  changes in v0.8.0]]'
+- '[[Changes/Open WebUI/2025-10-07-8-model-support-changes-in-v0-6-33|8 Model Support
+  changes in v0.6.33]]'
 - '[[Changes/Cline/2025-10-08-update-local-models-docs-remove-emojis-from-docs-by-nickbaumann98-in-https-githu|Update
   local models docs & remove emojis from Docs]]'
 - '[[Changes/Gemini CLI/2025-10-08-revert-get-around-the-initial-empty-response-from-gemini-2-5-flash-by-sandytao52|Revert
@@ -90,7 +90,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2025-10-08 · Gemini CLI · [[Changes/Gemini CLI/2025-10-08-revert-get-around-the-initial-empty-response-from-gemini-2-5-flash-by-sandytao52|Revert "Get around the initial empty response from gemini-2.5-flash]]
-- Later: 2025-10-15 · Gemini CLI · [[Changes/Gemini CLI/2025-10-15-3-model-support-changes-in-v0-9-0|3 Model Support changes in v0.9.0]]
+- Later: 2025-10-10 · Ollama · [[Changes/Ollama/2025-10-10-thinking-models-now-support-structured-outputs-when-using-the-api-chat-api|Thinking models now support structured outputs when using the /api/chat API]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

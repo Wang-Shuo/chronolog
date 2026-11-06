@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 849ab254cad3905e06179a2d7897d55d386cc0e12d3b0538cc7e53b7885d1445
+machine_hash: c151995f05c488854b1ac3f778c2e790efee553ce0fcc488b2aacb50f7c32f41
 product: cline
 product_name: Cline
 record:
@@ -44,8 +44,8 @@ record:
   title: 3 Model Support changes in v3.67.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-02-23-plan-approval-menu-shows-model-curated-actions-with-a-recommended-option-highlig|Plan
-  approval menu shows model-curated actions with a recommended option highlighted…]]'
+- '[[Changes/Open WebUI/2026-02-23-16-model-support-changes-in-v0-8-4|16 Model Support
+  changes in v0.8.4]]'
 - '[[Changes/Claude Code/2026-02-24-the-model-picker-now-shows-human-readable-labels-e-g-sonnet-4-5-instead-of-raw-m|The
   /model picker now shows human-readable labels (e.g., "Sonnet 4.5") instead…]]'
 - '[[Changes/Cline/2026-02-24-added-codex-5-3-model-support|Added Codex 5.3 model

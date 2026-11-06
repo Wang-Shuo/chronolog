@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5ef54ecf8cd1e42cab63456e1ba1f20f75160eb3bc02bbe1744f36b62372a8a1
+machine_hash: 46eab072532a0328060ae21be883d104483206d78f6529333054fdc94840f988
 product: cline
 product_name: Cline
 record:
@@ -41,10 +41,10 @@ record:
   title: Add CMD+' keyboard shortcut to add selected text to Cline
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-03-23-2-interface-experience-changes-in-0-48-x|2 Interface
-  Experience changes in 0.48.x]]'
 - '[[Changes/Aider/2025-03-31-2-interface-experience-changes-in-v0-80-0|2 Interface
   Experience changes in v0.80.0]]'
+- '[[Changes/Open WebUI/2025-04-01-3-interface-experience-changes-in-v0-6-0|3 Interface
+  Experience changes in v0.6.0]]'
 - '[[Changes/Aider/2025-04-04-https-aider-chat-history-html|(source link)]]'
 source_release: '[[Releases/Cline/cline-2025-04-09-v3-10-1-github-211238675-e7306060|cline-2025-04-09-v3-10-1-github-211238675-e7306060]]'
 source_type: github_releases
@@ -76,7 +76,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2025-04-04 · Aider · [[Changes/Aider/2025-04-04-https-aider-chat-history-html|(source link)]]
-- Later: 2025-04-15 · Cursor · [[Changes/Cursor/2025-04-15-chat-history-has-moved-into-the-command-palette-you-can-access-it-from-the-show|More accessible history]]
+- Later: 2025-04-13 · Open WebUI · [[Changes/Open WebUI/2025-04-13-translation-updates-across-multiple-languages-refined-catalan-russian-chinese-si|🌍 Translation Updates Across Multiple Languages]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

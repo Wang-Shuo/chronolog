@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 438f6215e26b448a18f6d7811515dd9edacb794d942928b3d0ccabd2919a2686
+machine_hash: b9a3ad14afe4fbef7203aca79ef69aec62858d0747b64433618a84c3e45e5543
 product: cursor
 product_name: Cursor
 record:
@@ -55,12 +55,12 @@ record:
   title: A better flow for getting CMD-k to produce code with no linter errors…
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-07-07-cmd-k-should-work-better-for-long-diffs-greater-than-100-lines-of-code|Cmd-k
-  should work better for long diffs (greater than 100 lines of code)]]'
 - '[[Changes/Cursor/2023-07-11-this-update-improves-the-prompt-for-cmd-k-when-you-don-t-have-any-code-selected|0.2.46
   - Patch for Cmd-k Generates]]'
 - '[[Changes/Cursor/2023-07-12-semantic-search-in-cmd-shift-f-842ecc|Semantic search
   in Cmd-Shift-F]]'
+- "[[Changes/Dify/2023-07-14-completion-apps-can-batch-generate-results-and-export-them-as-files|Completion
+  apps can batch generate results and export them as files \U0001F4C1]]"
 source_release: '[[Releases/Cursor/cursor-2023-07-19-0-2-49-https-cursor-com-changelog-0-2-49-69872598|cursor-2023-07-19-0-2-49-https-cursor-com-changelog-0-2-49-69872598]]'
 source_type: cursor_changelog
 theme: editor-experience
@@ -91,7 +91,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2023-07-12 · Cursor · [[Changes/Cursor/2023-07-12-semantic-search-in-cmd-shift-f-842ecc|Semantic search in Cmd-Shift-F]]
+- Earlier: 2023-07-14 · Dify · [[Changes/Dify/2023-07-14-completion-apps-can-batch-generate-results-and-export-them-as-files|Completion apps can batch generate results and export them as files 📁]]
 - Later: 2023-07-22 · Aider · [[Changes/Aider/2023-07-22-provide-gpt-with-detailed-error-if-it-makes-a-bad-edit-block-ask-for-a-retry|Provide GPT with detailed error if it makes a bad edit block, ask for a retry]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9b21599ce399fc2db7c66385127b34eff9ffda0a22466dbb22c7adebde646ac5
+machine_hash: 341b0c11c5e09a90d4d9a4359b7c9ce98cde1e57ae85914d457c9ac11b9aa0a7
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,12 +43,10 @@ record:
   title: 2 Apps and Integrations changes in v2.1.186
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-18-17-apps-and-integrations-changes-in-rust-v0-141-0|17
-  Apps and Integrations changes in rust-v0.141.0]]'
-- '[[Changes/Windsurf/2026-06-18-made-mcp-registry-parsing-more-tolerant-of-old-and-inconsistent-schemas|Made
-  MCP registry parsing more tolerant of old and inconsistent schemas]]'
-- '[[Changes/Claude Code/2026-06-19-added-attribution-sessionurl-setting-to-omit-the-claude-ai-session-link-from-com|Added
-  attribution.sessionUrl setting to omit the claude.ai session link…]]'
+- '[[Changes/Replit/2026-06-19-integrations|Integrations]]'
+- '[[Changes/Replit/2026-06-19-new-mcp-servers-apollo-and-black-forest-labs|New MCP
+  servers: Apollo and Black Forest Labs]]'
+- '[[Changes/Replit/2026-06-19-use-replit-from-claude|Use Replit from Claude]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-22-v2-1-186-github-343079393-93ecc37b|claude-code-2026-06-22-v2-1-186-github-343079393-93ecc37b]]'
 source_type: github_releases
 theme: apps-integrations
@@ -87,7 +85,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.186
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-06-19 · Claude Code · [[Changes/Claude Code/2026-06-19-added-attribution-sessionurl-setting-to-omit-the-claude-ai-session-link-from-com|Added attribution.sessionUrl setting to omit the claude.ai session link…]]
+- Earlier: 2026-06-19 · Replit · [[Changes/Replit/2026-06-19-use-replit-from-claude|Use Replit from Claude]]
 - Later: 2026-06-22 · Codex CLI · [[Changes/Codex CLI/2026-06-22-37-apps-and-integrations-changes-in-rust-v0-142-0|37 Apps and Integrations changes in rust-v0.142.0]]
 <!-- chronolog:end -->
 

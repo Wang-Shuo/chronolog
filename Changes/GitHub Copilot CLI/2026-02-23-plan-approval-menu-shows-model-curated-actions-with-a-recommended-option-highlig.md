@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 43737cb79037f595080e0a0f634ad17ad8de46ed66657d7ba8b38fc4022e7803
+machine_hash: 7a7d056da221795674a706f0318c93d517bf9d2978b4c89e1bae669623c51855
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -56,11 +56,12 @@ record:
     highlighted…
   type: change
 related_changes:
-- '[[Changes/Cline/2026-02-19-gemini-3-1-pro-preview|Gemini-3.1 Pro Preview]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-19-2-model-support-changes-in-v0-0-412|2 Model
   Support changes in v0.0.412]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-20-2-model-support-changes-in-v0-0-413|2 Model
   Support changes in v0.0.413]]'
+- '[[Changes/Ollama/2026-02-21-2-model-support-changes-in-v0-17-0|2 Model Support
+  changes in v0.17.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-02-23-v0-0-415-github-289607575-3b8d8d7c|github-copilot-cli-2026-02-23-v0-0-415-github-289607575-3b8d8d7c]]'
 source_type: github_releases
 theme: model-support
@@ -92,8 +93,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-02-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-20-2-model-support-changes-in-v0-0-413|2 Model Support changes in v0.0.413]]
-- Later: 2026-02-24 · Claude Code · [[Changes/Claude Code/2026-02-24-the-model-picker-now-shows-human-readable-labels-e-g-sonnet-4-5-instead-of-raw-m|The /model picker now shows human-readable labels (e.g., "Sonnet 4.5") instead…]]
+- Earlier: 2026-02-21 · Ollama · [[Changes/Ollama/2026-02-21-2-model-support-changes-in-v0-17-0|2 Model Support changes in v0.17.0]]
+- Later: 2026-02-23 · Lovable · [[Changes/Lovable/2026-02-23-opus-4-6|Opus 4.6]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

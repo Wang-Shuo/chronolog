@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 67aff500ad7fdf03dc79c338a40d9315542bca1b8a12ba5973695d84c30a48e0
+machine_hash: 98a49d5d7aaf0bdf677b7858224f1143ff8a2695695fa5894a9eb011c9734ac7
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -42,12 +42,12 @@ record:
   title: 'feat(evals): add eval coverage report command'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-07-21-12-developer-workflow-changes-in-rust-v0-145-0|12
-  Developer Workflow changes in rust-v0.145.0]]'
-- '[[Changes/Claude Code/2026-07-22-changed-code-review-to-run-as-a-background-subagent-so-review-work-no-longer-fil|Changed
-  /code-review to run as a background subagent, so review work no longer…]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-23-2-developer-workflow-changes-in-v1-0-74|2
   Developer Workflow changes in v1.0.74]]'
+- '[[Changes/Open WebUI/2026-07-27-62-developer-workflow-changes-in-v0-11-0|62 Developer
+  Workflow changes in v0.11.0]]'
+- '[[Changes/Dify/2026-07-28-4-developer-workflow-changes-in-1-16-1|4 Developer Workflow
+  changes in 1.16.1]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-07-28-v0-53-0-github-361395136-ca91763a|gemini-cli-2026-07-28-v0-53-0-github-361395136-ca91763a]]'
 source_type: github_releases
 theme: developer-workflow
@@ -77,7 +77,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-07-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-23-2-developer-workflow-changes-in-v1-0-74|2 Developer Workflow changes in v1.0.74]]
+- Earlier: 2026-07-28 · Dify · [[Changes/Dify/2026-07-28-4-developer-workflow-changes-in-1-16-1|4 Developer Workflow changes in 1.16.1]]
 - Later: 2026-07-29 · Codex CLI · [[Changes/Codex CLI/2026-07-29-12-developer-workflow-changes-in-rust-v0-146-0|12 Developer Workflow changes in rust-v0.146.0]]
 <!-- chronolog:end -->
 

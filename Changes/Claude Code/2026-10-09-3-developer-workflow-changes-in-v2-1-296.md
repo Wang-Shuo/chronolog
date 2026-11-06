@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d00a0f1f122ed95afcf320ae0e14ed78e7477190bd850de2e882e4b16b148faa
+machine_hash: 891bf37d2e3c5bb819ff705ca10956369b8a0b136cc7c61ab67f001c24b56fe4
 product: claude-code
 product_name: Claude Code
 record:
@@ -100,7 +100,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.296
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-10-08 · Codex CLI · [[Changes/Codex CLI/2026-10-08-12-developer-workflow-changes-in-rust-v0-162-0|12 Developer Workflow changes in rust-v0.162.0]]
-- Later: 2026-10-12 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-12-interactive-sessions-in-git-repositories-reach-the-input-prompt-sooner|Interactive sessions in git repositories reach the input prompt sooner]]
+- Later: 2026-10-10 · Open WebUI · [[Changes/Open WebUI/2026-10-10-27-developer-workflow-changes-in-v0-12-0|27 Developer Workflow changes in v0.12.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

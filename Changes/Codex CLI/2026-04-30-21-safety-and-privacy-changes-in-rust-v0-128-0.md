@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 574b6045df9b4b6dc049caba688e169baa985492e29b9bbf4d3daaf033d235a4
+machine_hash: 7606c0cb92a2223223907ccbcc76d1df370ef45e1ca84c9ad05ad4ccb1abdc49
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -85,12 +85,12 @@ record:
   title: 21 Safety and Privacy changes in rust-v0.128.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-27-location-based-permission-persistence-is-now-enabled-by-default-so-approvals-car|Location-based
-  permission persistence is now enabled by default, so approvals carry…]]'
 - '[[Changes/Gemini CLI/2026-04-28-feat-sandbox-resolve-custom-seatbelt-profiles-from-home-gemini-first-by-mvanhorn|feat(sandbox):
   resolve custom seatbelt profiles from $HOME/.gemini first]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-28-allow-acp-clients-to-toggle-allow-all-permission-mode-via-session-configuration|Allow
   ACP clients to toggle allow-all permission mode via session configuration]]'
+- '[[Changes/Dify/2026-04-29-7-safety-and-privacy-changes-in-1-14-0|7 Safety and Privacy
+  changes in 1.14.0]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-04-30-rust-v0-128-0-github-315916672-1708ab89|codex-cli-2026-04-30-rust-v0-128-0-github-315916672-1708ab89]]'
 source_type: github_releases
 theme: safety-privacy
@@ -173,7 +173,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.128.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-04-28 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-28-allow-acp-clients-to-toggle-allow-all-permission-mode-via-session-configuration|Allow ACP clients to toggle allow-all permission mode via session configuration]]
+- Earlier: 2026-04-29 · Dify · [[Changes/Dify/2026-04-29-7-safety-and-privacy-changes-in-1-14-0|7 Safety and Privacy changes in 1.14.0]]
 - Later: 2026-04-30 · Cursor · [[Changes/Cursor/2026-04-30-cursor-security-review-is-now-in-beta-on-teams-and-enterprise-plans-you-can-run|Cursor Security Review is now in beta on Teams and Enterprise plans]]
 <!-- chronolog:end -->
 

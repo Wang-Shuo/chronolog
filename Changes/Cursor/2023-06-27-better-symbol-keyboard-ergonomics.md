@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 11fb831ec47c862532553d6666e7001281f53808e2e06f6679d1a1b4cfe2a5bb
+machine_hash: 51a414ab3f91d5e5acb53720b82083d00bd0477ba25e0637fd50497bc2da4cab
 product: cursor
 product_name: Cursor
 record:
@@ -42,10 +42,10 @@ record:
   title: Better @ symbol keyboard ergonomics
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-05-17-a-better-cursor-tutor-onboarding|A better Cursor Tutor
-  onboarding!]]'
 - '[[Changes/Cursor/2023-05-20-we-ve-added-a-new-feedback-button-at-the-top-right-of-the-app-we-really-do|Cursor
   adds a new feedback button at the top right of the app]]'
+- '[[Changes/Dify/2023-05-30-chore-input-area-highlight-and-moblie-hide-tooltip-by-iamjoel-in-https-github-co|chore:
+  input area highlight and moblie hide tooltip]]'
 - '[[Changes/Cursor/2023-06-24-the-chat-has-been-revamped-you-can-now-use-symbols-to-show-files-code-docs-to-th|Chat
   v2]]'
 source_release: '[[Releases/Cursor/cursor-2023-06-27-0-2-37-https-cursor-com-changelog-0-2-37-335b554a|cursor-2023-06-27-0-2-37-https-cursor-com-changelog-0-2-37-335b554a]]'

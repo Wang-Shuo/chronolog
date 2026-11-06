@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b2cecda4d8c4ba187e93202a84141c9ad815a7a9fb7b614ba038b4c583959916
+machine_hash: d6b8a6e1cd6ca1b6d54dd53e2e5f5d4eebb09773d99f7dd80b1433d20e45dbd4
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -41,10 +41,10 @@ record:
   title: Tab bar selected tab uses compact [label] style with cleaner spacing
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-16-remaining-requests-widget-no-longer-shows-inaccurate-quota-data-for-copilot-free|Remaining
-  requests widget no longer shows inaccurate quota data for Copilot Free users]]'
 - '[[Changes/Claude Code/2026-03-17-vscode-improved-plan-preview-tab-titles-to-use-the-plan-s-heading-instead-of-cla|VSCode
   Improved plan preview tab titles to use the plan''s heading instead…]]'
+- '[[Changes/Dify/2026-03-17-8-editor-experience-changes-in-1-13-1|8 Editor Experience
+  changes in 1.13.1]]'
 - '[[Changes/Gemini CLI/2026-03-17-feat-core-improve-file-autocomplete-to-prioritize-filenames-by-sehoon38-in-https|feat(core):
   improve @file autocomplete to prioritize filenames]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-03-17-v1-0-7-github-298086450-3846932e|github-copilot-cli-2026-03-17-v1-0-7-github-298086450-3846932e]]'

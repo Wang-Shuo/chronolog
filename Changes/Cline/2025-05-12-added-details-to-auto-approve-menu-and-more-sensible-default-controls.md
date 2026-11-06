@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3574d3b7af88792d2d534f4533fe278a6f152439a97d8e08253b47dc0d5e4944
+machine_hash: 49ecb18d535edc1bc36196e8e6e0c4296cc6ec2e1508bc8608a8e1ac91892a99
 product: cline
 product_name: Cline
 record:
@@ -41,12 +41,12 @@ record:
   title: Added details to auto approve menu and more sensible default controls
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-05-07-added-branch-picker-for-repository-on-homepage-by-rbren-in-https-github-com-all|Added
-  branch picker for repository on homepage]]'
 - '[[Changes/Aider/2025-05-09-3-interface-experience-changes-in-v0-83-0|3 Interface
   Experience changes in v0.83.0]]'
 - '[[Changes/Cline/2025-05-10-add-support-for-batch-selection-and-deletion-of-tasks-in-history-thanks-danix800|Add
   support for batch selection and deletion of tasks in history (Thanks danix800!)]]'
+- '[[Changes/Open WebUI/2025-05-10-3-interface-experience-changes-in-v0-6-8|3 Interface
+  Experience changes in v0.6.8]]'
 source_release: '[[Releases/Cline/cline-2025-05-12-v3-15-2-github-218118569-e8f21de0|cline-2025-05-12-v3-15-2-github-218118569-e8f21de0]]'
 source_type: github_releases
 theme: interface-experience
@@ -76,7 +76,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2025-05-10 · Cline · [[Changes/Cline/2025-05-10-add-support-for-batch-selection-and-deletion-of-tasks-in-history-thanks-danix800|Add support for batch selection and deletion of tasks in history (Thanks danix800!)]]
+- Earlier: 2025-05-10 · Open WebUI · [[Changes/Open WebUI/2025-05-10-3-interface-experience-changes-in-v0-6-8|3 Interface Experience changes in v0.6.8]]
 - Later: 2025-05-15 · Cursor · [[Changes/Cursor/2025-05-15-duplicate-chats|Duplicate Chats]]
 <!-- chronolog:end -->
 

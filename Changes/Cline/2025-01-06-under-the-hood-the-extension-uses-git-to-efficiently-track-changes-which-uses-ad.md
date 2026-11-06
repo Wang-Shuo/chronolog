@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 123cf69eb0efa89a757eeeb4fb2c310443d77f0425a50a8dd49a86dcce211f2b
+machine_hash: 4556d6c6c4ac1f037332ba3e201641496f7d1e37a94cc6533da9fff62813bb82
 product: cline
 product_name: Cline
 record:
@@ -50,12 +50,12 @@ record:
     uses…
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-12-17-agent-sees-terminal-exit-codes-can-run-commands-in-the-background-and-commands-a-4f6044|Agent
-  sees terminal exit codes, can run commands in the background, and commands…]]'
-- '[[Changes/OpenHands/2024-12-17-add-color-to-the-line-next-to-ran-a-command-based-on-return-value-by-openhands-a|Add
-  color to the line next to Ran a Command based on return value]]'
+- '[[Changes/Dify/2024-12-23-stop-the-service-command-please-execute-in-the-docker-directory|Stop
+  the service，Command, please execute in the docker directory]]'
 - '[[Changes/Aider/2024-12-26-2-developer-workflow-changes-in-v0-70-0|2 Developer
   Workflow changes in v0.70.0]]'
+- '[[Changes/Open WebUI/2025-01-05-proper-exception-handling-enhanced-error-feedback-by-ensuring-exceptions-are-rai|❌
+  Proper Exception Handling]]'
 source_release: '[[Releases/Cline/cline-2025-01-06-v3-1-0-github-193383290-c6ffdbb3|cline-2025-01-06-v3-1-0-github-193383290-c6ffdbb3]]'
 source_type: github_releases
 theme: developer-workflow
@@ -87,8 +87,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2024-12-26 · Aider · [[Changes/Aider/2024-12-26-2-developer-workflow-changes-in-v0-70-0|2 Developer Workflow changes in v0.70.0]]
-- Later: 2025-01-10 · Aider · [[Changes/Aider/2025-01-10-5-developer-workflow-changes-in-v0-71-0|5 Developer Workflow changes in v0.71.0]]
+- Earlier: 2025-01-05 · Open WebUI · [[Changes/Open WebUI/2025-01-05-proper-exception-handling-enhanced-error-feedback-by-ensuring-exceptions-are-rai|❌ Proper Exception Handling]]
+- Later: 2025-01-07 · Dify · [[Changes/Dify/2025-01-07-stop-the-service-command-please-execute-in-the-docker-directory|Stop the service，Command, please execute in the docker directory]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

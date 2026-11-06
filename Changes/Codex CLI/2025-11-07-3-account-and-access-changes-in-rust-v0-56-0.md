@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7b1865b863996e429ff6fb73ca33e6ef8d74dd28da179a18861f0e9222daffcd
+machine_hash: 6e7df62f214c304d973dbd523722a6130b3587818aeb81c0b4d21dd081f20b22
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,12 +44,12 @@ record:
   title: 3 Account and Access changes in rust-v0.56.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2025-11-03-support-for-copilot-github-token-environment-variable-for-authentication-takes-p|Support
-  for COPILOT_GITHUB_TOKEN environment variable for authentication…]]'
-- '[[Changes/Codex CLI/2025-11-04-6159-fix-typo-in-error-message-for-oauth-login-6159|♯6159
-  Fix typo in error message for OAuth login (♯6159)]]'
-- '[[Changes/Gemini CLI/2025-11-04-disable-model-routing-for-oauth-users-by-mrcabbage972-in-https-github-com-google|Disable
-  model routing for oauth users]]'
+- '[[Changes/Ollama/2025-11-05-ollama-will-now-show-login-instructions-when-switching-to-a-cloud-model-in-inter|Ollama
+  will now show login instructions when switching to a cloud model…]]'
+- "[[Changes/Open WebUI/2025-11-06-oauth-group-parsing-now-supports-configurable-separators-via-the-oauth-groups-se|\U0001F510
+  OAuth group parsing now supports configurable separators…]]"
+- '[[Changes/Open WebUI/2025-11-06-5-account-and-access-changes-in-v0-6-35|5 Account
+  and Access changes in v0.6.35]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-11-07-rust-v0-56-0-github-260721835-230209f8|codex-cli-2025-11-07-rust-v0-56-0-github-260721835-230209f8]]'
 source_type: github_releases
 theme: account-access
@@ -89,7 +89,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.56.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2025-11-04 · Gemini CLI · [[Changes/Gemini CLI/2025-11-04-disable-model-routing-for-oauth-users-by-mrcabbage972-in-https-github-com-google|Disable model routing for oauth users]]
+- Earlier: 2025-11-06 · Open WebUI · [[Changes/Open WebUI/2025-11-06-5-account-and-access-changes-in-v0-6-35|5 Account and Access changes in v0.6.35]]
 - Later: 2025-11-07 · Gemini CLI · [[Changes/Gemini CLI/2025-11-07-2-account-and-access-changes-in-v0-13-0|2 Account and Access changes in v0.13.0]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2a5f3625e75e9e0718c717fdd14c634a15395ff6ba83f46898471e466d6602b3
+machine_hash: 5f5724e511353cb7e6510c1e502f65ca82a76e92c9771d2365ff88742fc73ff0
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,12 @@ record:
   title: Improved the message shown when a pasted sign-in code is refused
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-23-24-account-and-access-changes-in-rust-v0-164-0|24
-  Account and Access changes in rust-v0.164.0]]'
-- '[[Changes/Codex CLI/2026-10-23-the-amazon-bedrock-setup-wizard-is-now-enabled-by-default-with-api-key-entry-gro|The
-  Amazon Bedrock setup wizard is now enabled by default, with API key entry…]]'
+- '[[Changes/Dify/2026-10-23-6-account-and-access-changes-in-1-18-0|6 Account and
+  Access changes in 1.18.0]]'
 - '[[Changes/Windsurf/2026-10-24-a-saved-sign-in-keeps-working-after-updating-on-machines-where-the-editor-s-own|A
   saved sign-in keeps working after updating on machines where the editor''s own…]]'
+- '[[Changes/Open WebUI/2026-10-25-5-account-and-access-changes-in-v0-12-4|5 Account
+  and Access changes in v0.12.4]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-26-v2-1-311-github-424682562-151da26b|claude-code-2026-10-26-v2-1-311-github-424682562-151da26b]]'
 source_type: github_releases
 theme: account-access
@@ -88,8 +88,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-10-24 · Windsurf · [[Changes/Windsurf/2026-10-24-a-saved-sign-in-keeps-working-after-updating-on-machines-where-the-editor-s-own|A saved sign-in keeps working after updating on machines where the editor's own…]]
-- Later: 2026-10-26 · Windsurf · [[Changes/Windsurf/2026-10-26-a-dropped-connection-during-sign-in-no-longer-signs-you-out-devin-desktop-retrie|A dropped connection during sign-in no longer signs you out]]
+- Earlier: 2026-10-25 · Open WebUI · [[Changes/Open WebUI/2026-10-25-5-account-and-access-changes-in-v0-12-4|5 Account and Access changes in v0.12.4]]
+- Later: 2026-10-26 · ElevenLabs · [[Changes/ElevenLabs/2026-10-26-elevenlabs-cli|ElevenLabs CLI]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

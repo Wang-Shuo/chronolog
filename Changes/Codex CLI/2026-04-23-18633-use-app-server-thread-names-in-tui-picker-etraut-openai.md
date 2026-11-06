@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 94a61717b99544fb58964c56bfa86d4d65e840e88a5f59bbf1f215b44f43fa50
+machine_hash: 9abda6ce16d7da2f8c77c3afed1a6db0a0f234a0728bbb269bc9d0c595e3394d
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -41,8 +41,8 @@ record:
   title: '#18633 Use app server thread names in TUI picker @etraut-openai'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-20-4-interface-experience-changes-in-v1-0-33|4
-  Interface Experience changes in v1.0.33]]'
+- '[[Changes/Open WebUI/2026-04-21-17-interface-experience-changes-in-v0-9-0|17 Interface
+  Experience changes in v0.9.0]]'
 - '[[Changes/Claude Code/2026-04-23-3-interface-experience-changes-in-v2-1-119|3 Interface
   Experience changes in v2.1.119]]'
 - '[[Changes/Claude Code/2026-04-23-2-interface-experience-changes-in-v2-1-118|2 Interface

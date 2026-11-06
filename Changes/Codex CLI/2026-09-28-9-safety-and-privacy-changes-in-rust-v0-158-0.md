@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 83433281022841f1e4f05d250805d8ecae1b84b516a0244b1f798392d73bcc40
+machine_hash: c0bb5e105e10c66bdb31f55dd40eb3a719a1a58fc67da416300b3ccfcb48a09a
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -60,10 +60,10 @@ record:
   title: 9 Safety and Privacy changes in rust-v0.158.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-25-2-safety-and-privacy-changes-in-rust-v0-157-0|2
-  Safety and Privacy changes in rust-v0.157.0]]'
 - '[[Changes/OpenHands/2026-09-25-fix-mcp-keep-oauth-credentials-on-cloud-saves-and-skip-consent-when-tokens-still|fix(mcp):
   keep OAuth credentials on cloud saves and skip consent when tokens still work]]'
+- '[[Changes/Replit/2026-09-25-control-access-to-design-systems-and-slide-templates|Control
+  access to design systems and slide templates]]'
 - '[[Changes/Claude Code/2026-09-28-4-safety-and-privacy-changes-in-v2-1-284|4 Safety
   and Privacy changes in v2.1.284]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-09-28-rust-v0-158-0-github-397962047-f52f49e7|codex-cli-2026-09-28-rust-v0-158-0-github-397962047-f52f49e7]]'

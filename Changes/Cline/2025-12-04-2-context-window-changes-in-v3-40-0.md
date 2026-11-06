@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 24b025b7eae33b99c97f1a98a23c8adfcf728c763043e03897b2a888473e0320
+machine_hash: 65e961dd0d4e689b2b4c603e406aa65893b588b1ab2e68a0dbf1f12de4579fc6
 product: cline
 product_name: Cline
 record:
@@ -44,12 +44,12 @@ record:
   title: 2 Context Window changes in v3.40.0
   type: change
 related_changes:
-- '[[Changes/Cline/2025-11-27-feat-context-add-context-window-error-detection-for-vercel-ai-gateway-by-shaper|feat(context):
-  add context window error detection for vercel ai gateway]]'
 - '[[Changes/Cline/2025-12-02-2-context-window-changes-in-v3-39-0|2 Context Window
   changes in v3.39.0]]'
 - '[[Changes/Codex CLI/2025-12-02-5-context-window-changes-in-rust-v0-64-0|5 Context
   Window changes in rust-v0.64.0]]'
+- "[[Changes/Open WebUI/2025-12-02-tool-call-response-token-duplication-was-fixed-by-removing-redundant-message-his|\U0001F504
+  Tool call response token duplication was fixed by removing redundant message…]]"
 source_release: '[[Releases/Cline/cline-2025-12-04-v3-40-0-github-267309290-aef9a8dc|cline-2025-12-04-v3-40-0-github-267309290-aef9a8dc]]'
 source_type: github_releases
 theme: context-window
@@ -86,7 +86,7 @@ Source: https://github.com/cline/cline/releases/tag/v3.40.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2025-12-02 · Codex CLI · [[Changes/Codex CLI/2025-12-02-5-context-window-changes-in-rust-v0-64-0|5 Context Window changes in rust-v0.64.0]]
+- Earlier: 2025-12-02 · Open WebUI · [[Changes/Open WebUI/2025-12-02-tool-call-response-token-duplication-was-fixed-by-removing-redundant-message-his|🔄 Tool call response token duplication was fixed by removing redundant message…]]
 - Later: 2025-12-04 · Codex CLI · [[Changes/Codex CLI/2025-12-04-3-context-window-changes-in-rust-v0-65-0|3 Context Window changes in rust-v0.65.0]]
 <!-- chronolog:end -->
 

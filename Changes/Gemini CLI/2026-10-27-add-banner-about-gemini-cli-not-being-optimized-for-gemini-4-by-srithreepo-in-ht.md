@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 19172c6075e071fd7a072e44e52ab4d9a26555f0add14f865074bb1ce7bfb2ff
+machine_hash: 3de025cb34ed16c374823747fc6f489aa66dbf95956b8ad1993c7c638d4e1c7f
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -44,8 +44,8 @@ record:
   title: Add Banner about Gemini CLI not being optimized for Gemini 4
   type: change
 related_changes:
-- '[[Changes/Cline/2026-10-26-10-model-support-changes-in-v4-1-26|10 Model Support
-  changes in v4.1.26]]'
+- '[[Changes/ElevenLabs/2026-10-26-3-model-support-changes-in-elevenlabs-updates-2026-10-26|3
+  Model Support changes in ElevenLabs updates — 2026-10-26]]'
 - '[[Changes/Claude Code/2026-10-27-3-model-support-changes-in-v2-1-312|3 Model Support
   changes in v2.1.312]]'
 - '[[Changes/Codex CLI/2026-10-27-9-model-support-changes-in-rust-v0-165-0|9 Model

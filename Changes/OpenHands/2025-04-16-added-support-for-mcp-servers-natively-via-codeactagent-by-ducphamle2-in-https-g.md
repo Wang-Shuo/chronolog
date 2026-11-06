@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 2359259e8aee619e316faecdde19d548dac3eb50be67e877d05d1e564321e760
+machine_hash: 1fd8b906c9f89ec4c9bb17878343f95a51600f688baa47754e68fb1232d67e85
 product: openhands
 product_name: OpenHands
 record:
@@ -44,10 +44,10 @@ record:
   title: Added support for MCP servers natively via CodeActAgent
   type: change
 related_changes:
-- '[[Changes/Cline/2025-04-08-add-modal-in-the-chat-area-to-more-easily-enable-or-disable-mcp-servers|Add
-  modal in the chat area to more easily enable or disable MCP servers]]'
 - '[[Changes/Cline/2025-04-12-add-settings-button-to-mcp-popover-to-easily-modify-installed-servers|Add
   settings button to MCP popover to easily modify installed servers]]'
+- "[[Changes/Open WebUI/2025-04-13-openapi-yaml-format-support-external-tools-can-now-use-yaml-format-openapi-specs|\U0001F4C4
+  OpenAPI YAML Format Support]]"
 - '[[Changes/Cursor/2025-04-15-images-in-mcp|Images in MCP]]'
 source_release: '[[Releases/OpenHands/openhands-2025-04-16-0-33-0-github-212925112-8094af39|openhands-2025-04-16-0-33-0-github-212925112-8094af39]]'
 source_type: github_releases
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2025-04-15 · Cursor · [[Changes/Cursor/2025-04-15-images-in-mcp|Images in MCP]]
-- Later: 2025-04-19 · Cline · [[Changes/Cline/2025-04-19-add-ability-for-models-that-support-it-to-receive-image-responses-from-mcp-serve|Add ability for models that support it to receive image responses from MCP servers…]]
+- Later: 2025-04-18 · Replit · [[Changes/Replit/2025-04-18-smarter-integrations-matching|Smarter integrations matching]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

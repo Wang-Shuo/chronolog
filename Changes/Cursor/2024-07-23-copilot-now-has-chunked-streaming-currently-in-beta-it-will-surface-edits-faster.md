@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 78f964102bed65d4316aa55c546ac574d58e127b45d6568ae0478aa7bf27b7cc
+machine_hash: 64c3842865b06e9409221a506cc8009535731b755c8716621f9e1f0ecbcf560b
 product: cursor
 product_name: Cursor
 record:
@@ -46,12 +46,12 @@ record:
   title: Copilot++ now has chunked streaming (currently in Beta)!
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-05-03-stability-this-build-fixes-a-connection-error-problem-that-was-consistently-affe|Stability:
-  This build fixes a connection error problem that was consistently…]]'
-- '[[Changes/Aider/2024-06-04-performance-improvements-the-repo-map-especially-in-large-repos|Performance
-  improvements the repo map, especially in large repos]]'
-- '[[Changes/Aider/2024-07-04-3-reliability-and-performance-changes-in-v0-42-0|3 Reliability
-  and Performance changes in v0.42.0]]'
+- '[[Changes/Open WebUI/2024-07-09-3-reliability-and-performance-changes-in-v0-3-8|3
+  Reliability and Performance changes in v0.3.8]]'
+- '[[Changes/Ollama/2024-07-11-glm4-models-will-no-longer-fail-to-load-from-out-of-memory-errors|glm4
+  models will no longer fail to load from out of memory errors]]'
+- '[[Changes/Ollama/2024-07-13-ollama-will-no-longer-error-if-loading-models-larger-than-system-memory-if-disk|Ollama
+  will no longer error if loading models larger than system memory if disk…]]'
 source_release: '[[Releases/Cursor/cursor-2024-07-23-0-38-x-https-cursor-com-changelog-0-38-x-e6d087df|cursor-2024-07-23-0-38-x-https-cursor-com-changelog-0-38-x-e6d087df]]'
 source_type: cursor_changelog
 theme: reliability-performance
@@ -82,8 +82,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2024-07-04 · Aider · [[Changes/Aider/2024-07-04-3-reliability-and-performance-changes-in-v0-42-0|3 Reliability and Performance changes in v0.42.0]]
-- Later: 2024-07-31 · Aider · [[Changes/Aider/2024-07-31-improved-performance-of-lint-on-all-dirty-files-in-repo|Improved performance of --lint on all dirty files in repo]]
+- Earlier: 2024-07-13 · Ollama · [[Changes/Ollama/2024-07-13-ollama-will-no-longer-error-if-loading-models-larger-than-system-memory-if-disk|Ollama will no longer error if loading models larger than system memory if disk…]]
+- Later: 2024-07-30 · Ollama · [[Changes/Ollama/2024-07-30-performance-and-reliability-improvements-when-downloading-models-using-ollama-pu|Performance and reliability improvements when downloading models using ollama pull]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

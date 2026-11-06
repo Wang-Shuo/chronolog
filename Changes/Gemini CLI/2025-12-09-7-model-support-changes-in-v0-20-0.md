@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0c7e62fca0c542d15639aee1888d577f1884757446ccbc62f514b7ffcd825103
+machine_hash: c7e38957178cda2bde43a247b4e5d7984459d19cdc5a2d4c141a0d4bc24b4fe1
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -110,7 +110,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.20.0
 ## Nearby in Model Support
 
 - Earlier: 2025-12-09 · Codex CLI · [[Changes/Codex CLI/2025-12-09-8-model-support-changes-in-rust-v0-66-0|8 Model Support changes in rust-v0.66.0]]
-- Later: 2025-12-10 · Codex CLI · [[Changes/Codex CLI/2025-12-10-3-model-support-changes-in-rust-v0-69-0|3 Model Support changes in rust-v0.69.0]]
+- Later: 2025-12-09 · Ollama · [[Changes/Ollama/2025-12-09-4-model-support-changes-in-v0-13-3|4 Model Support changes in v0.13.3]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

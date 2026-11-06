@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a69c4a9ee2f59bae76f4b3307467e2b48a0d0bd3d895f0018f640fa98494a9c7
+machine_hash: a50faa1c9e16ecf43ac0bbcdab7e2f39db9d0c9182f8ef3a6d326a7e20d30377
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -42,12 +42,11 @@ record:
   title: 'refactor(core): extract shared OAuth flow primitives from MCPOAuthProvider'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-11-3-account-and-access-changes-in-v1-0-4|3
-  Account and Access changes in v1.0.4]]'
-- '[[Changes/GitHub Copilot CLI/2026-03-13-2-account-and-access-changes-in-v1-0-5|2
-  Account and Access changes in v1.0.5]]'
+- '[[Changes/Ollama/2026-03-14-ollama-can-now-be-selected-as-an-authentication-and-model-provider-during-opencl|Ollama
+  can now be selected as an authentication and model provider during OpenClaw…]]'
 - '[[Changes/Codex CLI/2026-03-16-2-account-and-access-changes-in-rust-v0-115-0|2
   Account and Access changes in rust-v0.115.0]]'
+- '[[Changes/Lovable/2026-03-16-authentication-emails|Authentication emails]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-03-17-v0-34-0-github-298158994-68230a41|gemini-cli-2026-03-17-v0-34-0-github-298158994-68230a41]]'
 source_type: github_releases
 theme: account-access
@@ -89,7 +88,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-03-16 · Codex CLI · [[Changes/Codex CLI/2026-03-16-2-account-and-access-changes-in-rust-v0-115-0|2 Account and Access changes in rust-v0.115.0]]
+- Earlier: 2026-03-16 · Lovable · [[Changes/Lovable/2026-03-16-authentication-emails|Authentication emails]]
 - Later: 2026-03-18 · Claude Code · [[Changes/Claude Code/2026-03-18-added-console-flag-to-claude-auth-login-for-anthropic-console-api-billing-authen|Added --console flag to claude auth login for Anthropic Console (API billing)…]]
 <!-- chronolog:end -->
 

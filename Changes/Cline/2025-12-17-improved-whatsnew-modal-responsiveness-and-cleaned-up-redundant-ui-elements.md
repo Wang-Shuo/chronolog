@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0c28584d40f8ce7b37f5434f9111834c52201ac499e368d63f8ffdcf2ea4b755
+machine_hash: 3ef23015df77bfd031220e38ff95a621b81d8b2ec6587d199979dd182277ec4b
 product: cline
 product_name: Cline
 record:
@@ -41,12 +41,12 @@ record:
   title: Improved WhatsNew modal responsiveness and cleaned up redundant UI elements
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-12-10-2-reliability-and-performance-changes-in-2-2|2 Reliability
-  and Performance changes in 2.2]]'
-- '[[Changes/Windsurf/2025-12-10-general-stability-and-performance-improvements|General
-  stability and performance improvements]]'
 - '[[Changes/Windsurf/2025-12-11-2-reliability-and-performance-changes-in-v1-12-43|2
   Reliability and Performance changes in v1.12.43]]'
+- '[[Changes/Dify/2025-12-12-3-reliability-and-performance-changes-in-1-11-1|3 Reliability
+  and Performance changes in 1.11.1]]'
+- '[[Changes/v0/2025-12-12-v0-pro-superior-performance-for-most-tasks|v0 Pro : Superior
+  performance for most tasks]]'
 source_release: '[[Releases/Cline/cline-2025-12-17-v3-44-2-github-271127302-325aa080|cline-2025-12-17-v3-44-2-github-271127302-325aa080]]'
 source_type: github_releases
 theme: reliability-performance
@@ -75,7 +75,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-12-11 · Windsurf · [[Changes/Windsurf/2025-12-11-2-reliability-and-performance-changes-in-v1-12-43|2 Reliability and Performance changes in v1.12.43]]
+- Earlier: 2025-12-12 · v0 · [[Changes/v0/2025-12-12-v0-pro-superior-performance-for-most-tasks|v0 Pro : Superior performance for most tasks]]
 - Later: 2025-12-18 · Codex CLI · [[Changes/Codex CLI/2025-12-18-8216-speed-and-reliability-improvements-for-setting-reads-acls|♯8216 speed and reliability improvements for setting reads ACLs]]
 <!-- chronolog:end -->
 

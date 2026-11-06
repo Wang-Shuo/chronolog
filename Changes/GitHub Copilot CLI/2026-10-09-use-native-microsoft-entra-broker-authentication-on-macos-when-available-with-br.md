@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d846d1c8ae0b24e3de43e75076b2f9f75d645f7a294a9a49f8e452bb6d9f26f3
+machine_hash: 8180c4e60e2b4cbbf29098429b819bae5267f5a111a05e0e46d81942303cc15c
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -79,7 +79,7 @@ type: change
 ## Nearby in Account and Access
 
 - Earlier: 2026-10-09 · Claude Code · [[Changes/Claude Code/2026-10-09-improved-the-errors-for-a-refused-cloud-session-they-now-say-why-your-organizati|Improved the errors for a refused cloud session]]
-- Later: 2026-10-12 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-12-2-account-and-access-changes-in-v1-0-96|2 Account and Access changes in v1.0.96]]
+- Later: 2026-10-10 · Open WebUI · [[Changes/Open WebUI/2026-10-10-19-account-and-access-changes-in-v0-12-0|19 Account and Access changes in v0.12.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

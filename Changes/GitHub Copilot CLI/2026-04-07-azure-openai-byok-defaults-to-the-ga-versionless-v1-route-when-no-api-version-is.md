@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b7df3fcfeb689c819a246271bb7e2180b3ac19573dcd2405beb0982bbece5ca9
+machine_hash: 982b234b04f0244495011d04efc7a3151727ba02a7ff0defc2040568f2f93cfe
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,10 +44,8 @@ record:
   title: Azure OpenAI BYOK defaults to the GA versionless v1 route when no API version…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-06-2-apps-and-integrations-changes-in-v1-0-19|2
-  Apps and Integrations changes in v1.0.19]]'
-- '[[Changes/Claude Code/2026-04-07-5-apps-and-integrations-changes-in-v2-1-94|5 Apps
-  and Integrations changes in v2.1.94]]'
+- '[[Changes/ElevenLabs/2026-04-07-sdk-releases|SDK Releases]]'
+- '[[Changes/ElevenLabs/2026-04-07-javascript-sdk|JavaScript SDK]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-07-2-apps-and-integrations-changes-in-v1-0-21|2
   Apps and Integrations changes in v1.0.21]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-04-07-v1-0-20-github-306069199-98f9e272|github-copilot-cli-2026-04-07-v1-0-20-github-306069199-98f9e272]]'

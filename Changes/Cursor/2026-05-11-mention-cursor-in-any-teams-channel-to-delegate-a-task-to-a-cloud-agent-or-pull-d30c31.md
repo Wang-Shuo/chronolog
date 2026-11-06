@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: d76a40012cb23664536078921c388d0bad1f89cdaa3cd8d389e37c3bb828bf5a
+machine_hash: 32f8a2a3d81ea6a3d1529d892aa7a43160a438429805a67d90fb47ba76a3e757
 product: cursor
 product_name: Cursor
 record:
@@ -49,10 +49,8 @@ record:
     or pull…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-05-07-5-agent-mode-changes-in-rust-v0-129-0|5 Agent Mode
-  changes in rust-v0.129.0]]'
-- '[[Changes/Cursor/2026-05-07-added-the-ability-to-control-explore-subagent-behavior-from-settings-choose-a-sp|Added
-  the ability to control Explore subagent behavior from settings]]'
+- '[[Changes/Replit/2026-05-08-agent|Agent]]'
+- '[[Changes/Replit/2026-05-08-agent-accepts-svg-uploads|Agent accepts SVG uploads]]'
 - '[[Changes/Claude Code/2026-05-11-2-agent-mode-changes-in-v2-1-139|2 Agent Mode
   changes in v2.1.139]]'
 source_release: '[[Releases/Cursor/cursor-2026-05-11-cursor-in-microsoft-teams-https-cursor-com-changelog-microsoft-t-26de16e4|cursor-2026-05-11-cursor-in-microsoft-teams-https-cursor-com-changelog-microsoft-t-26de16e4]]'

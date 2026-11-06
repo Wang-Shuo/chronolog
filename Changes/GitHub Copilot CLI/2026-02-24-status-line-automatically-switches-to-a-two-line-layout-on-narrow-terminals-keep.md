@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: b11b826a70d8313856093f2472b3eb0a4eb49f925b30e3482b6d6b27959a35f6
+machine_hash: 95a0f4fbb4e726b107b64987cdab6316e3473dcd82c34f131a295aa434cd4b87
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -59,8 +59,8 @@ record:
     keeping…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-02-20-increase-lsp-request-timeout-from-30s-to-90s-to-reduce-timeout-failures|Increase
-  LSP request timeout from 30s to 90s to reduce timeout failures]]'
+- '[[Changes/Open WebUI/2026-02-23-12-developer-workflow-changes-in-v0-8-4|12 Developer
+  Workflow changes in v0.8.4]]'
 - '[[Changes/Claude Code/2026-02-24-bashtool-now-skips-login-shell-l-flag-by-default-when-a-shell-snapshot-is-availa|BashTool
   now skips login shell (-l flag) by default when a shell snapshot…]]'
 - '[[Changes/Cline/2026-02-24-add-q-command-to-quit-cli|Add /q command to quit CLI]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 0c0f3cb5e8903fefc4e512582c299193c209e3c8c98654dd1a6cb07119e3bd9a
+machine_hash: 563f4699a16bd2fa3c372230d148973fc9ab98ef113e0a6f440b08b6785d5fa6
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -54,10 +54,9 @@ record:
   title: ChatGPT introduces dots
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-28-added-a-yes-but-ask-again-next-time-answer-to-auto-mode-s-prompt-before-a-read-o|Added
-  a "Yes, but ask again next time" answer to auto mode''s prompt before a read…]]'
 - '[[Changes/Codex CLI/2026-09-28-11-agent-mode-changes-in-rust-v0-158-0|11 Agent
   Mode changes in rust-v0.158.0]]'
+- '[[Changes/ElevenLabs/2026-09-28-elevenagents|ElevenAgents]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-28-queue-exit-commands-while-an-agent-response-is-still-running|Queue
   exit commands while an agent response is still running]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-29-meet-your-dot-8b9f914b|chatgpt-2026-09-29-meet-your-dot-8b9f914b]]'

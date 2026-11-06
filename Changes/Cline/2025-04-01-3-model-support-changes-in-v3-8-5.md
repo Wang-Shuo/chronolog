@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e7112b8d487ce008ef622f9e6fdd9ba2c876725d8b2b7f35bdf7a803408b4f69
+machine_hash: 5df09da571bbcb3d732b52b0d081b2569a7da975cefa2bb76fc05a078f2e7799
 product: cline
 product_name: Cline
 record:
@@ -44,12 +44,11 @@ record:
   title: 3 Model Support changes in v3.8.5
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-03-27-gpt-4o-has-further-improved-its-capability-to-tackle-complex-technical-and-codin|Smarter
-  problem-solving in STEM and coding]]'
 - '[[Changes/ChatGPT/2025-03-27-gpt-4o-is-now-more-adept-at-following-detailed-instructions-especially-for-promp|Enhanced
   instruction-following and formatting accuracy]]'
 - '[[Changes/Aider/2025-03-31-3-model-support-changes-in-v0-80-0|3 Model Support changes
   in v0.80.0]]'
+- '[[Changes/ElevenLabs/2025-03-31-text-to-speech|Text to speech]]'
 source_release: '[[Releases/Cline/cline-2025-04-01-v3-8-5-github-209483266-bf57367b|cline-2025-04-01-v3-8-5-github-209483266-bf57367b]]'
 source_type: github_releases
 theme: model-support
@@ -86,8 +85,8 @@ Source: https://github.com/cline/cline/releases/tag/v3.8.5
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-03-31 · Aider · [[Changes/Aider/2025-03-31-3-model-support-changes-in-v0-80-0|3 Model Support changes in v0.80.0]]
-- Later: 2025-04-02 · OpenHands · [[Changes/OpenHands/2025-04-02-2-model-support-changes-in-0-31-0|2 Model Support changes in 0.31.0]]
+- Earlier: 2025-03-31 · ElevenLabs · [[Changes/ElevenLabs/2025-03-31-text-to-speech|Text to speech]]
+- Later: 2025-04-01 · Open WebUI · [[Changes/Open WebUI/2025-04-01-3-model-support-changes-in-v0-6-0|3 Model Support changes in v0.6.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

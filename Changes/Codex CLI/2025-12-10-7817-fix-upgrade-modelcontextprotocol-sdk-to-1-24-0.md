@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e917be5118a11284400037aae732aa8f413fe40dcb1d5c8ed837868005a9e9de
+machine_hash: fe54be6936ee826f81575f2f83ca9f2de9369af0cbdea288b652706fc46caef1
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,12 +43,12 @@ record:
   title: '#7817 fix: Upgrade @modelcontextprotocol/sdk to ^1.24.0'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-12-04-2-apps-and-integrations-changes-in-rust-v0-65-0|2
-  Apps and Integrations changes in rust-v0.65.0]]'
 - '[[Changes/Codex CLI/2025-12-09-3-apps-and-integrations-changes-in-rust-v0-66-0|3
   Apps and Integrations changes in rust-v0.66.0]]'
 - '[[Changes/Gemini CLI/2025-12-09-8-apps-and-integrations-changes-in-v0-20-0|8 Apps
   and Integrations changes in v0.20.0]]'
+- '[[Changes/v0/2025-12-09-2-apps-and-integrations-changes-in-bug-fixes-and-improvements-for-dec-9th|2
+  Apps and Integrations changes in Bug fixes and improvements for Dec 9th]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-12-10-rust-v0-69-0-github-269307708-4ae297da|codex-cli-2025-12-10-rust-v0-69-0-github-269307708-4ae297da]]'
 source_type: github_releases
 theme: apps-integrations
@@ -82,7 +82,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-12-09 · Gemini CLI · [[Changes/Gemini CLI/2025-12-09-8-apps-and-integrations-changes-in-v0-20-0|8 Apps and Integrations changes in v0.20.0]]
+- Earlier: 2025-12-09 · v0 · [[Changes/v0/2025-12-09-2-apps-and-integrations-changes-in-bug-fixes-and-improvements-for-dec-9th|2 Apps and Integrations changes in Bug fixes and improvements for Dec 9th]]
 - Later: 2025-12-10 · Cursor · [[Changes/Cursor/2025-12-10-system-notification-actions-for-terminal-and-mcp-approval-rejection|System notification actions for terminal and MCP approval/rejection]]
 <!-- chronolog:end -->
 

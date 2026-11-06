@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 9e2a63d53fcf80d37a5213a0c3fc7af562886fc7fb6a4cc92d2f9d9c42a887e5
+machine_hash: c8360b5f9500818ec2ec8974f35be05ba79d6f367b7466d7b83e4a091503d0bc
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -53,12 +53,12 @@ record:
   title: '#57542 Add model-gated literature search to standalone web search @rhan-oai'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-05-changed-the-interactive-session-s-websearch-budget-to-refill-over-time-100-calls|Changed
-  the interactive session''s WebSearch budget to refill over time (100 calls/hour]]'
-- '[[Changes/Codex CLI/2026-10-07-3-search-and-browsing-changes-in-rust-v0-161-0|3
-  Search and Browsing changes in rust-v0.161.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-19-2-search-and-browsing-changes-in-v1-0-100|2
   Search and Browsing changes in v1.0.100]]'
+- '[[Changes/Ollama/2026-10-22-anthropic-compatible-web-search-now-uses-the-model-s-supported-thinking-setting|Anthropic-compatible
+  web search now uses the model''s supported thinking setting…]]'
+- "[[Changes/Open WebUI/2026-10-25-web-search-settings-save-admins-can-now-save-web-search-settings-such-as-the-web|\U0001F30D
+  Web Search settings save. Admins can now save Web Search settings such…]]"
 source_release: '[[Releases/Codex CLI/codex-cli-2026-10-29-rust-v0-166-0-github-428320524-44f8c24a|codex-cli-2026-10-29-rust-v0-166-0-github-428320524-44f8c24a]]'
 source_type: github_releases
 theme: search-browsing
@@ -102,8 +102,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Search and Browsing
 
-- Earlier: 2026-10-19 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-19-2-search-and-browsing-changes-in-v1-0-100|2 Search and Browsing changes in v1.0.100]]
-- Later: 2026-11-06 · Codex CLI · [[Changes/Codex CLI/2026-11-06-3-search-and-browsing-changes-in-rust-v0-167-0|3 Search and Browsing changes in rust-v0.167.0]]
+- Earlier: 2026-10-25 · Open WebUI · [[Changes/Open WebUI/2026-10-25-web-search-settings-save-admins-can-now-save-web-search-settings-such-as-the-web|🌍 Web Search settings save. Admins can now save Web Search settings such…]]
+- Later: 2026-11-03 · Ollama · [[Changes/Ollama/2026-11-03-cloud-web-search-responses-on-api-chat-are-now-decoded-correctly-including-compr|Cloud web search responses on /api/chat are now decoded correctly, including…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 047cd9194ab78cbaa6496096786b2e848f73dc98cae21f4de957386debeeff8a
+machine_hash: 6b065a2f67a00e97ef9fa4007cb519643a128d14ba4ce52ee62366aa955db606
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -91,7 +91,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-08-09 · Cline · [[Changes/Cline/2026-08-09-fall-back-to-the-session-cwd-or-desktop-for-mention-file-search-in-empty-windows|Fall back to the session cwd or Desktop for @-mention file search in empty windows]]
-- Later: 2026-08-10 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-08-10-2-mobile-and-desktop-changes-in-v1-0-79|2 Mobile and Desktop changes in v1.0.79]]
+- Later: 2026-08-10 · ElevenLabs · [[Changes/ElevenLabs/2026-08-10-android-sdk|Android SDK]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

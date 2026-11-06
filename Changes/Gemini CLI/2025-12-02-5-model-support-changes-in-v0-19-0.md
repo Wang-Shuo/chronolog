@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: bb709359c3d66bb196e891a5663292ac966b63f92fb62d57e972b166b0b09ed8
+machine_hash: 61f2f9301d02c4e1d1ee738160654c29f2b2e4e6ef2dbbb25b604bfdf8124bdf
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -103,7 +103,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.19.0
 ## Nearby in Model Support
 
 - Earlier: 2025-12-02 · Codex CLI · [[Changes/Codex CLI/2025-12-02-2-model-support-changes-in-rust-v0-64-0|2 Model Support changes in rust-v0.64.0]]
-- Later: 2025-12-03 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-12-03-add-apply-patch-toolchain-for-openai-codex-models|Add apply_patch toolchain for OpenAI Codex models]]
+- Later: 2025-12-02 · Open WebUI · [[Changes/Open WebUI/2025-12-02-9-model-support-changes-in-v0-6-41|9 Model Support changes in v0.6.41]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1da817fde83a2ee0e2f0bf5d9c9868e3e5a2548525f6b7b647d8e17072456ad0
+machine_hash: 30ae9ffac0013e33dce90d47dfeb14f4d2a2eb965daed489c4e04eef0590533c
 product: claude-code
 product_name: Claude Code
 record:
@@ -53,8 +53,8 @@ record:
   title: 5 Apps and Integrations changes in v2.1.94
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-02-mcp-tool-calls-display-tool-name-and-parameter-summary-in-the-timeline|MCP
-  tool calls display tool name and parameter summary in the timeline]]'
+- '[[Changes/Lovable/2026-04-02-chat-connectors-hex-confidence-and-posthog|Chat connectors:
+  Hex, Confidence, and PostHog]]'
 - '[[Changes/Claude Code/2026-04-04-remote-control-session-names-now-use-your-hostname-as-the-default-prefix-e-g-myh|Remote
   Control session names now use your hostname as the default prefix…]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-06-2-apps-and-integrations-changes-in-v1-0-19|2
@@ -101,7 +101,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.94
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-04-06 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-06-2-apps-and-integrations-changes-in-v1-0-19|2 Apps and Integrations changes in v1.0.19]]
-- Later: 2026-04-07 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-07-2-apps-and-integrations-changes-in-v1-0-21|2 Apps and Integrations changes in v1.0.21]]
+- Later: 2026-04-07 · ElevenLabs · [[Changes/ElevenLabs/2026-04-07-python-sdk|Python SDK]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 93e38bc9c33d389f7c1ce04ce843bf8ff1df99e1393627284053051d229fed98
+machine_hash: b5d9efbd57ef07bf8d70ab93e1de1073b8aa6452b7a580e75d422d3fa59d2d52
 product: claude-code
 product_name: Claude Code
 record:
@@ -75,8 +75,8 @@ record:
   title: 11 Apps and Integrations changes in v2.1.287
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-09-29-2-apps-and-integrations-changes-in-v0-62-0|2 Apps
-  and Integrations changes in v0.62.0]]'
+- '[[Changes/Lovable/2026-09-29-lovable-mcp-now-works-with-muse-by-meta|Lovable MCP
+  now works with Muse by Meta]]'
 - '[[Changes/Claude Code/2026-09-30-11-apps-and-integrations-changes-in-v2-1-286|11
   Apps and Integrations changes in v2.1.286]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-30-3-apps-and-integrations-changes-in-v1-0-90|3

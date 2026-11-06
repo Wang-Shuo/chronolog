@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: eb94058d930defc08bdd926bdff01a1ecd30a1cd2cf97363ff5dbb6908746dfa
+machine_hash: a71f4ab26565514637699ee26665236fb6abeff64519a51bfd2faeb1c9098c6e
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,12 +45,11 @@ record:
     create…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-13-4-agent-mode-changes-in-v1-0-62|4 Agent
-  Mode changes in v1.0.62]]'
 - '[[Changes/Claude Code/2026-06-15-2-agent-mode-changes-in-v2-1-178|2 Agent Mode
   changes in v2.1.178]]'
 - '[[Changes/Codex CLI/2026-06-15-11-agent-mode-changes-in-rust-v0-140-0|11 Agent
   Mode changes in rust-v0.140.0]]'
+- '[[Changes/ElevenLabs/2026-06-15-elevenagents|ElevenAgents]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-06-16-v1-0-63-github-339856552-a4891c49|github-copilot-cli-2026-06-16-v1-0-63-github-339856552-a4891c49]]'
 source_type: github_releases
 theme: agent-mode
@@ -84,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-06-15 · Codex CLI · [[Changes/Codex CLI/2026-06-15-11-agent-mode-changes-in-rust-v0-140-0|11 Agent Mode changes in rust-v0.140.0]]
+- Earlier: 2026-06-15 · ElevenLabs · [[Changes/ElevenLabs/2026-06-15-elevenagents|ElevenAgents]]
 - Later: 2026-06-17 · Claude Code · [[Changes/Claude Code/2026-06-17-improved-the-subagent-panel-idle-subagents-auto-hide-after-30s-the-list-caps-at|Improved the subagent panel]]
 <!-- chronolog:end -->
 

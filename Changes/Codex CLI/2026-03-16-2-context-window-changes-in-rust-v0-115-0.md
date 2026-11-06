@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 260bc7114d2427fcc585305954962c26e1481b8e32fbe2d37e548ab949a09d77
+machine_hash: c17c998aa88700dc560e7a288b55220a95e2f7a75841ef231220ec35ec4d8c13
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,12 +42,12 @@ record:
   title: 2 Context Window changes in rust-v0.115.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-11-status-line-context-window-percentage-no-longer-inflates-across-turns-by-using-t|Status
-  line context window percentage no longer inflates across turns by using…]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-13-add-precompact-hook-to-run-commands-before-context-compaction-starts|Add
   preCompact hook to run commands before context compaction starts]]'
 - '[[Changes/Claude Code/2026-03-14-added-postcompact-hook-that-fires-after-compaction-completes|Added
   PostCompact hook that fires after compaction completes]]'
+- '[[Changes/Ollama/2026-03-14-ollama-will-now-ensure-context-compaction-occurs-at-the-correct-context-length-f|Ollama
+  will now ensure context compaction occurs at the correct context length…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-03-16-rust-v0-115-0-github-297641413-c704d9db|codex-cli-2026-03-16-rust-v0-115-0-github-297641413-c704d9db]]'
 source_type: github_releases
 theme: context-window
@@ -90,8 +90,8 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.115.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-03-14 · Claude Code · [[Changes/Claude Code/2026-03-14-added-postcompact-hook-that-fires-after-compaction-completes|Added PostCompact hook that fires after compaction completes]]
-- Later: 2026-03-17 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-17-add-subagentstart-hook-that-fires-when-a-subagent-is-spawned-with-support-for-in|Add subagentStart hook that fires when a subagent is spawned, with support…]]
+- Earlier: 2026-03-14 · Ollama · [[Changes/Ollama/2026-03-14-ollama-will-now-ensure-context-compaction-occurs-at-the-correct-context-length-f|Ollama will now ensure context compaction occurs at the correct context length…]]
+- Later: 2026-03-17 · Dify · [[Changes/Dify/2026-03-17-9-context-window-changes-in-1-13-1|9 Context Window changes in 1.13.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

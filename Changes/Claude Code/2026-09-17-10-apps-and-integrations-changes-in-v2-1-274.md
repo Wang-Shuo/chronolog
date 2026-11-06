@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c049696863dd0e6eaa58d9565c77f53933fb1e744a61794ac3baff6c454871db
+machine_hash: 10ebb318e9cb52d2db820d5302eb0c45f2a96c7d3b68970590c774e1525b6b23
 product: claude-code
 product_name: Claude Code
 record:
@@ -77,8 +77,8 @@ record:
   title: 10 Apps and Integrations changes in v2.1.274
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-09-15-feat-extensions-harden-path-resolution-and-boundary-validation-in-extension-load|feat(extensions):
-  harden path resolution and boundary validation in extension loader]]'
+- '[[Changes/Claude/2026-09-16-claude-cowork-comes-to-every-conversation|Claude Cowork
+  comes to every conversation]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-16-20-apps-and-integrations-changes-in-v1-0-85|20
   Apps and Integrations changes in v1.0.85]]'
 - '[[Changes/OpenHands/2026-09-16-9-apps-and-integrations-changes-in-v1-19-0|9 Apps

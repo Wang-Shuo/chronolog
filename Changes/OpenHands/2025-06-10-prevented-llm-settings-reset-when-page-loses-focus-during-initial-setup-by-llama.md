@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 44b23adf17f0eb52e71ffa96768963c587128f62096ab2e708dd402e239b2201
+machine_hash: c003b2ac212fb0d6831bc3ea9905010b872e7fe38a1be532fa690ba9049b322b
 product: openhands
 product_name: OpenHands
 record:
@@ -42,12 +42,12 @@ record:
   title: Prevented LLM settings reset when page loses focus during initial setup
   type: change
 related_changes:
-- '[[Changes/Cline/2025-06-05-add-support-for-gemini-2-5-pro-preview-06-05-model-to-vertex-ai-and-google-gemin|Add
-  support for Gemini 2.5 Pro Preview 06-05 model to Vertex AI and Google Gemini…]]'
 - '[[Changes/ChatGPT/2025-06-10-like-o1-pro-o3-pro-is-a-version-of-our-most-intelligent-model-o3-designed-to-thi-32668a|ChatGPT
   launches OpenAI o3-pro—available now for Pro users and in our API]]'
 - '[[Changes/Cline/2025-06-10-free-grok-model-available-access-grok-3-completely-free-through-the-cline-provid|Free
   Grok Model Available! Access Grok 3 completely free through the Cline provider]]'
+- '[[Changes/Open WebUI/2025-06-10-3-model-support-changes-in-v0-6-14|3 Model Support
+  changes in v0.6.14]]'
 source_release: '[[Releases/OpenHands/openhands-2025-06-10-0-42-0-github-224437594-6a2ec2b8|openhands-2025-06-10-0-42-0-github-224437594-6a2ec2b8]]'
 source_type: github_releases
 theme: model-support
@@ -78,8 +78,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-06-10 · Cline · [[Changes/Cline/2025-06-10-free-grok-model-available-access-grok-3-completely-free-through-the-cline-provid|Free Grok Model Available! Access Grok 3 completely free through the Cline provider]]
-- Later: 2025-06-12 · ChatGPT · [[Changes/ChatGPT/2025-06-12-upload-files-and-access-model-selector-on-mobile|Upload files and access model selector on mobile]]
+- Earlier: 2025-06-10 · Open WebUI · [[Changes/Open WebUI/2025-06-10-3-model-support-changes-in-v0-6-14|3 Model Support changes in v0.6.14]]
+- Later: 2025-06-11 · Dify · [[Changes/Dify/2025-06-11-4-model-support-changes-in-1-4-2|4 Model Support changes in 1.4.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

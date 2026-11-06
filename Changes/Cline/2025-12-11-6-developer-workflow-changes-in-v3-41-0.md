@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b4de9bca4e6c1cd16264b5672e2a8c6ea71c404155685bd9fd4fcea946968ac4
+machine_hash: 5d97c3b233ef813db07e6e24a7f8ff060f9e3aac783d6aba08806194176baf5e
 product: cline
 product_name: Cline
 record:
@@ -106,7 +106,7 @@ Source: https://github.com/cline/cline/releases/tag/v3.41.0
 ## Nearby in Developer Workflow
 
 - Earlier: 2025-12-10 · Cursor · [[Changes/Cursor/2025-12-10-debug-mode|Debug Mode]]
-- Later: 2025-12-12 · Cline · [[Changes/Cline/2025-12-12-refactor-terminal-module-by-arafatkatze-in-https-github-com-cline-cline-pull-796|Refactor Terminal Module]]
+- Later: 2025-12-11 · Dify · [[Changes/Dify/2025-12-11-2-developer-workflow-changes-in-1-11-0|2 Developer Workflow changes in 1.11.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -4,20 +4,20 @@ date: '2026-01-12'
 description: 'ChatGPT · 2026-01-12 · Voice and Audio: We’re improving our dictation
   capabilities in ChatGPT for all logged-in users, significantly reducing empty…'
 diffusion:
-  first_in_tracked: '[[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source
-    link) support, which allows you…]]'
+  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
+    Voice and Audio changes in 0.3.7]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 885
+  lag_days: 917
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a0e936e2ef7f239e17ea9b370748e9dc83d3250747af82de6f9e763d6fbf1a58
+machine_hash: b96547c015772bdf8ca494a9debc580d523a0bd4001f5fa6ea1cfa6811d83463
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -43,12 +43,11 @@ record:
   title: Dictation Updates
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-11-25-we-re-making-chatgpt-voice-a-seamless-part-of-the-chatgpt-experience-so-you-can-2bc316|We’re
-  making ChatGPT Voice a seamless part of the ChatGPT experience, so you can use…]]'
-- '[[Changes/ChatGPT/2025-12-11-we-re-retiring-the-voice-experience-in-the-chatgpt-macos-app-on-january-15-2026|We’re
-  retiring the Voice experience in the ChatGPT macOS app on January 15, 2026]]'
-- '[[Changes/ChatGPT/2025-12-11-voice-will-continue-to-be-available-on-chatgpt-com-ios-android-and-windows-app|Voice
-  will continue to be available on chatgpt.com, iOS, Android, and Windows app]]'
+- '[[Changes/ElevenLabs/2026-01-05-voices|Voices]]'
+- '[[Changes/Open WebUI/2026-01-09-3-voice-and-audio-changes-in-v0-7-0|3 Voice and
+  Audio changes in v0.7.0]]'
+- "[[Changes/Open WebUI/2026-01-10-users-can-now-use-local-whisper-for-speech-to-text-when-stt-engine-is-left-empty|\U0001F399️
+  Users can now use local Whisper for speech-to-text when STT_ENGINE is left empty…]]"
 source_release: '[[Releases/ChatGPT/chatgpt-2026-01-12-dictation-updates-a47f3da4|chatgpt-2026-01-12-dictation-updates-a47f3da4]]'
 source_type: chatgpt_changelog
 theme: voice
@@ -75,14 +74,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2025-12-11 · ChatGPT · [[Changes/ChatGPT/2025-12-11-voice-will-continue-to-be-available-on-chatgpt-com-ios-android-and-windows-app|Voice will continue to be available on chatgpt.com, iOS, Android, and Windows app]]
-- Later: 2026-01-20 · ChatGPT · [[Changes/ChatGPT/2026-01-20-we-re-making-an-update-to-chatgpt-voice-for-paid-users-that-improves-its-ability|Voice Updates]]
+- Earlier: 2026-01-10 · Open WebUI · [[Changes/Open WebUI/2026-01-10-users-can-now-use-local-whisper-for-speech-to-text-when-stt-engine-is-left-empty|🎙️ Users can now use local Whisper for speech-to-text when STT_ENGINE is left empty…]]
+- Later: 2026-01-12 · ElevenLabs · [[Changes/ElevenLabs/2026-01-12-speech-to-text|Speech to Text]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-08-11 · Aider · [[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source link) support, which allows you…]]
+- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

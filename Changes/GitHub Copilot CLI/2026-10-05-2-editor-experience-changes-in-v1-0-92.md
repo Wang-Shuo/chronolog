@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e2793705d19c1fc53ffc98be603df3eeae33ee5670429d5c6103ef86feabfee3
+machine_hash: c338e1208606717cc4da5ea407de552c256775b56702e3b2d95281bcd0ef0cac
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -94,7 +94,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.92
 ## Nearby in Editor Experience
 
 - Earlier: 2026-10-01 · Codex CLI · [[Changes/Codex CLI/2026-10-01-49082-skip-remote-git-discovery-for-guardian-diff-paths-jif-oai|♯49082 Skip remote Git discovery for Guardian diff paths @jif-oai]]
-- Later: 2026-10-06 · Claude Code · [[Changes/Claude Code/2026-10-06-added-prompt-autocomplete-an-event-a-mod-hooks-to-add-its-own-rows-to-the-prompt|Added prompt.autocomplete, an event a mod hooks to add its own rows to the prompt…]]
+- Later: 2026-10-05 · Lovable · [[Changes/Lovable/2026-10-05-restore-lovable-work-after-a-push-to-your-git-repository-replaces-it|Restore Lovable work after a push to your Git repository replaces it]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

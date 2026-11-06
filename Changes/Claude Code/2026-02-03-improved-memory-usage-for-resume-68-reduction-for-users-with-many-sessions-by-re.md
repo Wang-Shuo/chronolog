@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 93a7be9e20c74335fa507868a834251025ea6b426f2655f648876274e6096617
+machine_hash: c8a5304cee7652d030b9465505f30e40bbfc85c8cb0d5254a9d8af0b4926f7d7
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,12 +46,11 @@ record:
   title: Improved memory usage for `--resume` (68% reduction for users with many sessions)…
   type: change
 related_changes:
-- '[[Changes/Cline/2026-01-27-throttle-diff-view-updates-during-streaming-to-reduce-ui-flickering-and-improve|Throttle
-  diff view updates during streaming to reduce UI flickering and improve…]]'
 - '[[Changes/Windsurf/2026-01-30-various-bug-fixes-and-performance-improvements|Various
   bug fixes and performance improvements]]'
 - '[[Changes/Codex CLI/2026-01-31-3-reliability-and-performance-changes-in-rust-v0-93-0|3
   Reliability and Performance changes in rust-v0.93.0]]'
+- '[[Changes/ElevenLabs/2026-02-02-eleven-v3|Eleven v3]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-03-v2-1-30-github-282673902-7b2e46f2|claude-code-2026-02-03-v2-1-30-github-282673902-7b2e46f2]]'
 source_type: github_releases
 theme: reliability-performance
@@ -87,8 +86,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-01-31 · Codex CLI · [[Changes/Codex CLI/2026-01-31-3-reliability-and-performance-changes-in-rust-v0-93-0|3 Reliability and Performance changes in rust-v0.93.0]]
-- Later: 2026-02-05 · Windsurf · [[Changes/Windsurf/2026-02-05-various-bug-fixes-and-performance-improvements|Various bug fixes and performance improvements]]
+- Earlier: 2026-02-02 · ElevenLabs · [[Changes/ElevenLabs/2026-02-02-eleven-v3|Eleven v3]]
+- Later: 2026-02-03 · Dify · [[Changes/Dify/2026-02-03-feat-use-xdist-to-make-make-test-faster-by-yihong0618-in-https-github-com-langge|feat: use xdist to make make test faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

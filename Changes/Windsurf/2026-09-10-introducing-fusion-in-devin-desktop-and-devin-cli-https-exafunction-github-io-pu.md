@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6462a960b95e2634240bba82bb5529bc3e5010ef507ba21ebc5118beb5f24766
+machine_hash: 4e0a4270cf3bef1d28be8c2b4d108c13a7ddef853f8f1d7a855231fbc67411f4
 product: windsurf
 product_name: Windsurf
 record:
@@ -41,11 +41,11 @@ record:
   title: '[![Introducing Fusion in Devin Desktop and Devin…'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-09-08-turn-a-sketch-into-an-image-on-mobile-type-in-the-message-box-and-select-sketch|Turn
-  a sketch into an image]]'
 - '[[Changes/Windsurf/2026-09-08-devin-desktop|Devin Desktop]]'
 - '[[Changes/Codex CLI/2026-09-09-6-mobile-and-desktop-changes-in-rust-v0-154-0|6
   Mobile and Desktop changes in rust-v0.154.0]]'
+- '[[Changes/Dify/2026-09-10-skill-packages-built-on-windows-failed-with-a-misleading-error-a-skill-md-using|Skill
+  packages built on Windows failed with a misleading error. A SKILL.md…]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-09-10-v3-10-23-4196ed90|windsurf-2026-09-10-v3-10-23-4196ed90]]'
 source_type: windsurf_changelog
 theme: mobile-desktop
@@ -75,7 +75,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-09-09 · Codex CLI · [[Changes/Codex CLI/2026-09-09-6-mobile-and-desktop-changes-in-rust-v0-154-0|6 Mobile and Desktop changes in rust-v0.154.0]]
+- Earlier: 2026-09-10 · Dify · [[Changes/Dify/2026-09-10-skill-packages-built-on-windows-failed-with-a-misleading-error-a-skill-md-using|Skill packages built on Windows failed with a misleading error. A SKILL.md…]]
 - Later: 2026-09-11 · Claude Code · [[Changes/Claude Code/2026-09-11-changed-skills-synced-from-claude-ai-in-cloud-sessions-to-be-named-anthropic-ski|Changed skills synced from claude.ai in cloud sessions to be named…]]
 <!-- chronolog:end -->
 

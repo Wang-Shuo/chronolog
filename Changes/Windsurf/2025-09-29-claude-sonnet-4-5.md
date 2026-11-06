@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 3e0bd8724fa7229499f03635f7fcce8d5303a4dfc6d69879d00862ea5fe230a7
+machine_hash: ef4438efa939d1e926d63758571a35b48b248ae23c369f9eeb873ca40c30f8dc
 product: windsurf
 product_name: Windsurf
 record:
@@ -41,12 +41,12 @@ record:
   title: Claude Sonnet 4.5
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2025-09-29-3-model-support-changes-in-v0-0-329|3 Model
-  Support changes in v0.0.329]]'
 - '[[Changes/GitHub Copilot CLI/2025-09-29-added-model-slash-command-to-easily-change-the-model-fixes-https-github-com-gith|Added
   /model slash command to easily change the model…]]'
 - '[[Changes/GitHub Copilot CLI/2025-09-29-changed-the-default-model-back-to-sonnet-4-since-sonnet-4-5-hasn-t-rolled-out-to|Changed
   the default model back to Sonnet 4 since Sonnet 4.5 hasn''t rolled out to all…]]'
+- "[[Changes/Open WebUI/2025-09-29-the-set-as-default-option-is-now-reliably-clickable-in-model-and-filter-selectio|\U0001F41B
+  The \"Set as default\" option is now reliably clickable in model and filter…]]"
 source_release: '[[Releases/Windsurf/windsurf-2025-09-29-v1-12-12-6d5d9152|windsurf-2025-09-29-v1-12-12-6d5d9152]]'
 source_type: windsurf_changelog
 theme: model-support
@@ -73,7 +73,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-09-29 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-09-29-changed-the-default-model-back-to-sonnet-4-since-sonnet-4-5-hasn-t-rolled-out-to|Changed the default model back to Sonnet 4 since Sonnet 4.5 hasn't rolled out to all…]]
+- Earlier: 2025-09-29 · Open WebUI · [[Changes/Open WebUI/2025-09-29-the-set-as-default-option-is-now-reliably-clickable-in-model-and-filter-selectio|🐛 The "Set as default" option is now reliably clickable in model and filter…]]
 - Later: 2025-09-30 · Cline · [[Changes/Cline/2025-09-30-docs-update-documentation-for-claude-sonnet-4-5-release-by-nickbaumann98-in-http|docs: update documentation for Claude Sonnet 4.5 release]]
 <!-- chronolog:end -->
 

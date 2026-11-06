@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 48493aa3bf105041b42ef6b427ca1995709176f5fd00b2dfa6412751deae13e6
+machine_hash: aa6a39b18a4d74fd8856e7a5a941d6761c5da0cbcf96d4c59565acf9069d827e
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -46,11 +46,12 @@ record:
     instead…'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-09-09-shared-folders-and-ownership|Shared folders and ownership]]'
-- '[[Changes/ChatGPT/2026-09-09-library-sharing-lets-you-share-files-and-folders-in-chatgpt-choose-who-can-acces|Library
-  sharing lets you share files and folders in ChatGPT, choose who can access…]]'
-- '[[Changes/Codex CLI/2026-09-09-6-collaboration-changes-in-rust-v0-154-0|6 Collaboration
-  changes in rust-v0.154.0]]'
+- '[[Changes/Dify/2026-09-10-3-collaboration-changes-in-1-17-1|3 Collaboration changes
+  in 1.17.1]]'
+- '[[Changes/v0/2026-09-10-new-chats-created-in-a-team-workspace-are-now-visible-to-the-team-by-default-mak|Team
+  chats are easier to discover and collaborate on]]'
+- '[[Changes/Lovable/2026-09-11-clearer-sharing-settings-for-connections|Clearer sharing
+  settings for connections]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-09-16-v1-0-85-github-389603482-889a46d9|github-copilot-cli-2026-09-16-v1-0-85-github-389603482-889a46d9]]'
 source_type: github_releases
 theme: collaboration
@@ -95,7 +96,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-09-09 · Codex CLI · [[Changes/Codex CLI/2026-09-09-6-collaboration-changes-in-rust-v0-154-0|6 Collaboration changes in rust-v0.154.0]]
+- Earlier: 2026-09-11 · Lovable · [[Changes/Lovable/2026-09-11-clearer-sharing-settings-for-connections|Clearer sharing settings for connections]]
 - Later: 2026-09-17 · Codex CLI · [[Changes/Codex CLI/2026-09-17-44354-extract-shared-footer-hint-wrapping-in-the-tui-copyberry|♯44354 Extract shared footer hint wrapping in the TUI @copyberry]]
 <!-- chronolog:end -->
 

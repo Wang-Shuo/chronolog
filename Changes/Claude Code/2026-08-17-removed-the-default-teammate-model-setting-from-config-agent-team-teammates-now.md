@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 3f9a01661016938744de0ccd526cd8837845cc6e4b56d7bd26e8383912530bf3
+machine_hash: ef950ee072027e271ae48cac48371a420b017ee48e7a34fa1b5dadb92e60bf46
 product: claude-code
 product_name: Claude Code
 record:
@@ -55,12 +55,11 @@ record:
   title: Removed the "Default teammate model" setting from `/config`
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-08-13-the-initial-experience-includes-my-drive-and-files-and-folders-shared-directly-w|The
-  initial experience includes My Drive and files and folders shared directly with
-  you]]'
 - '[[Changes/Claude Code/2026-08-13-hardened-the-auto-generated-cross-session-messaging-socket-directory-on-shared-t|Hardened
   the auto-generated cross-session messaging socket directory on shared /tmp]]'
 - '[[Changes/Windsurf/2026-08-13-devin-local|Devin Local]]'
+- '[[Changes/v0/2026-08-14-4-collaboration-changes-in-a-redesigned-sidebar-a-richer|4
+  Collaboration changes in A redesigned sidebar, a richer…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-17-v2-1-234-github-371864218-2ca32673|claude-code-2026-08-17-v2-1-234-github-371864218-2ca32673]]'
 source_type: github_releases
 theme: collaboration
@@ -97,7 +96,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-08-13 · Windsurf · [[Changes/Windsurf/2026-08-13-devin-local|Devin Local]]
+- Earlier: 2026-08-14 · v0 · [[Changes/v0/2026-08-14-4-collaboration-changes-in-a-redesigned-sidebar-a-richer|4 Collaboration changes in A redesigned sidebar, a richer…]]
 - Later: 2026-08-18 · Codex CLI · [[Changes/Codex CLI/2026-08-18-5-collaboration-changes-in-rust-v0-148-0|5 Collaboration changes in rust-v0.148.0]]
 <!-- chronolog:end -->
 

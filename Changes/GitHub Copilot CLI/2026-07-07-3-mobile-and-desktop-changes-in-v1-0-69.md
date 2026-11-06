@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 18ec2db035ebc1cad70b9672b95dd034117b139aa41afd7c8b6f9144c92dbe4f
+machine_hash: 36f6ccea6df84a2bf2e3b145a9d51b3183bffbbe8f03c7ecb4a6f7637ab0a1c9
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,11 +45,11 @@ record:
   title: 3 Mobile and Desktop changes in v1.0.69
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-29-improved-background-session-reliability-long-running-commands-and-workflows-now|Improved
-  background session reliability]]'
-- '[[Changes/GitHub Copilot CLI/2026-06-30-2-mobile-and-desktop-changes-in-v1-0-66|2
-  Mobile and Desktop changes in v1.0.66]]'
 - '[[Changes/Windsurf/2026-07-04-devin-desktop|Devin Desktop]]'
+- '[[Changes/Lovable/2026-07-06-lovable-desktop-app-is-now-on-windows|Lovable Desktop
+  app is now on Windows]]'
+- '[[Changes/Claude/2026-07-07-claude-cowork-on-web-and-mobile|Claude Cowork on web
+  and mobile]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-07-07-v1-0-69-github-350582031-19558357|github-copilot-cli-2026-07-07-v1-0-69-github-350582031-19558357]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -96,8 +96,8 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.69
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-07-04 · Windsurf · [[Changes/Windsurf/2026-07-04-devin-desktop|Devin Desktop]]
-- Later: 2026-07-08 · Codex CLI · [[Changes/Codex CLI/2026-07-08-2-mobile-and-desktop-changes-in-rust-v0-143-0|2 Mobile and Desktop changes in rust-v0.143.0]]
+- Earlier: 2026-07-07 · Claude · [[Changes/Claude/2026-07-07-claude-cowork-on-web-and-mobile|Claude Cowork on web and mobile]]
+- Later: 2026-07-07 · Lovable · [[Changes/Lovable/2026-07-07-find-in-page-clipboard-and-location-in-the-desktop-app|Find in page, clipboard, and location in the desktop app]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

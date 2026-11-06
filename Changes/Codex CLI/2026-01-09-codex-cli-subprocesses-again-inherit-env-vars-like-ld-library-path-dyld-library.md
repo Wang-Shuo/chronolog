@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 52b9515948fff525ae21d03a141196f1c6eff3d7435aa76aeaf697c16731bfd3
+machine_hash: 65524aee7b271ab95a9e3e14197f64eae899e2b7d2f48a096d31736978d1955f
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -93,7 +93,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-01-08 · Cursor · [[Changes/Cursor/2026-01-08-2-reliability-and-performance-changes-in-new-cli-features-and-improved-cli|2 Reliability and Performance changes in New CLI Features and Improved CLI…]]
-- Later: 2026-01-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-13-sessions-with-large-conversation-history-load-faster-on-startup|Sessions with large conversation history load faster on startup]]
+- Later: 2026-01-09 · Open WebUI · [[Changes/Open WebUI/2026-01-09-9-reliability-and-performance-changes-in-v0-7-0|9 Reliability and Performance changes in v0.7.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

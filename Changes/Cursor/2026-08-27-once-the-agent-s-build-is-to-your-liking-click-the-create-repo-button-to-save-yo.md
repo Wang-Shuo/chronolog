@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 7f26f2ad5ff643d27a55811aa204bd6c7a3c55fa9a072695e21e1dbf2edd8098
+machine_hash: 193d7c158d1ecd1f7a0eb1ba78c8f6b03b60def3122f6bdae1383528304d8e8d
 product: cursor
 product_name: Cursor
 record:
@@ -62,12 +62,12 @@ record:
   title: Turn it into a real repo, whenever you want
   type: change
 related_changes:
-- '[[Changes/Cline/2026-08-21-show-the-diff-edit-view-for-multi-line-edits-in-files-with-crlf-line-endings|Show
-  the diff edit view for multi-line edits in files with CRLF line endings]]'
-- '[[Changes/Cline/2026-08-23-restore-task-completion-telemetry-for-interactive-sessions-a-share-of-interactiv|Restore
-  task completion telemetry for interactive sessions]]'
 - '[[Changes/Claude Code/2026-08-25-added-the-turn-s-completion-time-to-the-end-of-turn-duration-line-e-g-saut-ed-fo|Added
   the turn''s completion time to the end-of-turn duration line…]]'
+- '[[Changes/Dify/2026-08-25-4-editor-experience-changes-in-1-17-0|4 Editor Experience
+  changes in 1.17.0]]'
+- '[[Changes/Open WebUI/2026-08-25-12-editor-experience-changes-in-v0-11-1|12 Editor
+  Experience changes in v0.11.1]]'
 source_release: '[[Releases/Cursor/cursor-2026-08-27-start-from-scratch-without-a-repo-https-cursor-com-changelog-sta-d75d62ae|cursor-2026-08-27-start-from-scratch-without-a-repo-https-cursor-com-changelog-sta-d75d62ae]]'
 source_type: cursor_changelog
 theme: editor-experience
@@ -97,7 +97,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-08-25 · Claude Code · [[Changes/Claude Code/2026-08-25-added-the-turn-s-completion-time-to-the-end-of-turn-duration-line-e-g-saut-ed-fo|Added the turn's completion time to the end-of-turn duration line…]]
+- Earlier: 2026-08-25 · Open WebUI · [[Changes/Open WebUI/2026-08-25-12-editor-experience-changes-in-v0-11-1|12 Editor Experience changes in v0.11.1]]
 - Later: 2026-08-27 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-08-27-add-copilot-app-to-open-the-github-copilot-app-in-the-current-directory|Add copilot app to open the GitHub Copilot app in the current directory]]
 <!-- chronolog:end -->
 

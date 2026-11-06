@@ -4,20 +4,20 @@ date: '2026-03-05'
 description: 'Codex CLI · 2026-03-05 · Enterprise and Administration: #13388 config:
   enforce enterprise feature requirements @bolinfest'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin
-    improvements: Team admins can now mark themselves as unpaid users and can see…]]'
+  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
+    for Google Workspace accounts]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 715
+  lag_days: 1035
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 34283215bc9c7d0ff060fbcdbc2bc853fa90adfbcd09a7e1611bd302f4f54ce6
+machine_hash: f718edcf17d29d8218e46a72d44163a829dc2d40f738ffb1b5230949d2f82ad4
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -88,13 +88,13 @@ type: change
 ## Nearby in Enterprise and Administration
 
 - Earlier: 2026-03-05 · Claude Code · [[Changes/Claude Code/2026-03-05-improved-macos-startup-for-claude-ai-enterprise-team-users-by-skipping-an-unnece|Improved macOS startup for Claude.ai enterprise/team users by skipping…]]
-- Later: 2026-03-14 · Claude Code · [[Changes/Claude Code/2026-03-14-added-session-quality-survey-enterprise-admins-can-configure-the-sample-rate-via|Added session quality survey]]
+- Later: 2026-03-06 · Replit · [[Changes/Replit/2026-03-06-teams-and-enterprise|Teams and Enterprise]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-03-20 · Cursor · [[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin improvements: Team admins can now mark themselves as unpaid users and can see…]]
+- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

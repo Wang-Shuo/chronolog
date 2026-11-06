@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 95cdc0c979f733c0b1aa34fd3e5a4183843fcf7527f72886a8e51e2e8990a033
+machine_hash: 53027f24310d6e32c6db8c3ee814a003471367e4fd02f4aa8f627021542c597a
 product: aider
 product_name: Aider
 record:
@@ -45,12 +45,12 @@ record:
     need…
   type: change
 related_changes:
-- '[[Changes/Cline/2025-03-15-prevent-cline-from-reading-extremely-large-files-into-context-that-would-overloa|Prevent
-  Cline from reading extremely large files into context that would overload…]]'
 - '[[Changes/Cline/2025-03-23-add-add-to-cline-as-an-option-when-you-right-click-selected-text-in-a-file-or-th|Add
   Add to Cline as an option when you right-click selected text in a file…]]'
 - '[[Changes/Cursor/2025-03-23-added-input-token-count-for-chat-messages-click-the-three-dots-to-view-we-re-con|Added
   input token count for chat messages (click the three dots to view)]]'
+- '[[Changes/Dify/2025-03-24-feat-add-datasets-detail-context-and-provider-for-improved-data-vali-by-wtw0313|feat:
+  add datasets detail context and provider for improved data vali…]]'
 source_release: '[[Releases/Aider/aider-2025-03-25-v0-79-0-github-208244032-7b6bcea7|aider-2025-03-25-v0-79-0-github-208244032-7b6bcea7]]'
 source_type: github_releases
 theme: context-window
@@ -81,8 +81,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2025-03-23 · Cursor · [[Changes/Cursor/2025-03-23-added-input-token-count-for-chat-messages-click-the-three-dots-to-view-we-re-con|Added input token count for chat messages (click the three dots to view)]]
-- Later: 2025-04-08 · Cline · [[Changes/Cline/2025-04-08-make-context-shortening-more-intelligent-when-model-hits-context-window-now-old|Make context shortening more intelligent when model hits context window–now old file…]]
+- Earlier: 2025-03-24 · Dify · [[Changes/Dify/2025-03-24-feat-add-datasets-detail-context-and-provider-for-improved-data-vali-by-wtw0313|feat: add datasets detail context and provider for improved data vali…]]
+- Later: 2025-03-29 · Gemini · [[Changes/Gemini/2025-03-29-our-2-5-pro-experimental-model-is-now-available-to-all-gemini-users-with-canvas|Our 2.5 Pro (experimental) model is now available to all Gemini users, with Canvas]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

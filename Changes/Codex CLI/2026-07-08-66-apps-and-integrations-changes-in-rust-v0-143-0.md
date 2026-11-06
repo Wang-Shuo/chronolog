@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f54b28cd2da0882f69a9378e42b847d7c893dc48280a6cc91902b7810af09bfa
+machine_hash: b137a9923634bcf3cc0d07746da63477fb580d78ca003f84bde12ccdcdb710dd
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -177,10 +177,10 @@ record:
   title: 66 Apps and Integrations changes in rust-v0.143.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-07-7-apps-and-integrations-changes-in-v1-0-69|7
-  Apps and Integrations changes in v1.0.69]]'
 - '[[Changes/OpenHands/2026-07-07-2-apps-and-integrations-changes-in-1-9-1|2 Apps
   and Integrations changes in 1.9.1]]'
+- '[[Changes/v0/2026-07-07-3-apps-and-integrations-changes-in-grouped-tool-approvals-richer-mcp|3
+  Apps and Integrations changes in Grouped tool approvals, richer MCP…]]'
 - '[[Changes/Claude Code/2026-07-08-reserved-the-claude-browser-mcp-server-name-alongside-claude-preview-ahead-of-th|Reserved
   the "Claude Browser" MCP server name (alongside "Claude Preview") ahead…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-07-08-rust-v0-143-0-github-350650561-9eba805c|codex-cli-2026-07-08-rust-v0-143-0-github-350650561-9eba805c]]'
@@ -359,7 +359,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.143.0
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-07-08 · Claude Code · [[Changes/Claude Code/2026-07-08-reserved-the-claude-browser-mcp-server-name-alongside-claude-preview-ahead-of-th|Reserved the "Claude Browser" MCP server name (alongside "Claude Preview") ahead…]]
-- Later: 2026-07-08 · OpenHands · [[Changes/OpenHands/2026-07-08-chore-bump-sdk-packages-to-v1-33-0-by-all-hands-bot-in-https-github-com-openhand|chore: bump SDK packages to v1.33.0]]
+- Later: 2026-07-08 · Lovable · [[Changes/Lovable/2026-07-08-reference-a-connector-in-chat|Reference a connector in chat]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 513e15439c24c0ac8f21f3b51f1582c15400c1885810456f3667b5def155fa7f
+machine_hash: de150d6bf28c8a1cb55045164f2eabc4b383c57d60c2ec7b0904309af0666499
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -46,12 +46,12 @@ record:
   title: 3 Safety and Privacy changes in v0.34.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-16-extension-tools-now-work-with-the-permissions-system-use-skippermission-per-tool|Extension
-  tools now work with the permissions system, use skipPermission per-tool…]]'
 - '[[Changes/Claude Code/2026-03-17-2-safety-and-privacy-changes-in-v2-1-78|2 Safety
   and Privacy changes in v2.1.78]]'
 - '[[Changes/Claude Code/2026-03-17-3-safety-and-privacy-changes-in-v2-1-77|3 Safety
   and Privacy changes in v2.1.77]]'
+- '[[Changes/Dify/2026-03-17-3-safety-and-privacy-changes-in-1-13-1|3 Safety and Privacy
+  changes in 1.13.1]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-03-17-v0-34-0-github-298158994-68230a41|gemini-cli-2026-03-17-v0-34-0-github-298158994-68230a41]]'
 source_type: github_releases
 theme: safety-privacy
@@ -99,8 +99,8 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.34.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-03-17 · Claude Code · [[Changes/Claude Code/2026-03-17-3-safety-and-privacy-changes-in-v2-1-77|3 Safety and Privacy changes in v2.1.77]]
-- Later: 2026-03-18 · Claude Code · [[Changes/Claude Code/2026-03-18-fixed-custom-status-line-showing-nothing-when-workspace-trust-is-blocking-it|Fixed custom status line showing nothing when workspace trust is blocking it]]
+- Earlier: 2026-03-17 · Dify · [[Changes/Dify/2026-03-17-3-safety-and-privacy-changes-in-1-13-1|3 Safety and Privacy changes in 1.13.1]]
+- Later: 2026-03-17 · Ollama · [[Changes/Ollama/2026-03-17-ci-cd-generate-code-reviews-security-checks-and-other-tasks-within-your-ci|CI/CD: Generate code reviews, security checks, and other tasks within your CI]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

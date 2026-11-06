@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: edf798460d516df3b7ac951d6b963b3430c508da3ac81849c76ab3d4e694ccb3
+machine_hash: b6922094fda3258e449da40153f85e961b143d9ee10e79f2fd6436d927b44d5a
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -55,10 +55,10 @@ record:
   title: 8 Interface Experience changes in rust-v0.163.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-14-added-effort-and-fast-in-agent-view-to-set-what-new-sessions-start-with-a-bare-m|Added
-  /effort and /fast in agent view to set what new sessions start with]]'
-- '[[Changes/Claude Code/2026-10-14-vscode-improved-startup-the-model-picker-and-slash-command-menu-now-fill-in-righ|VSCode
-  Improved startup]]'
+- '[[Changes/Open WebUI/2026-10-14-7-interface-experience-changes-in-v0-12-1|7 Interface
+  Experience changes in v0.12.1]]'
+- '[[Changes/Open WebUI/2026-10-14-2-interface-experience-changes-in-v0-12-2|2 Interface
+  Experience changes in v0.12.2]]'
 - '[[Changes/Claude Code/2026-10-15-2-interface-experience-changes-in-v2-1-301|2 Interface
   Experience changes in v2.1.301]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-10-15-rust-v0-163-0-github-414286110-97016fe6|codex-cli-2026-10-15-rust-v0-163-0-github-414286110-97016fe6]]'
@@ -118,7 +118,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.163.0
 ## Nearby in Interface Experience
 
 - Earlier: 2026-10-15 · Claude Code · [[Changes/Claude Code/2026-10-15-2-interface-experience-changes-in-v2-1-301|2 Interface Experience changes in v2.1.301]]
-- Later: 2026-10-19 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-19-2-interface-experience-changes-in-v1-0-100|2 Interface Experience changes in v1.0.100]]
+- Later: 2026-10-16 · Open WebUI · [[Changes/Open WebUI/2026-10-16-4-interface-experience-changes-in-v0-12-3|4 Interface Experience changes in v0.12.3]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

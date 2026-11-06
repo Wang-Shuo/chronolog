@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: pricing
-machine_hash: 0b95296c55bf246ba03b0514381e584d08e07b5d5223310539dcbc27025e88a6
+machine_hash: 56460e8e3b7f932476d3bc241fa9bebbd52eb5a68c027966446df3bb349e08e5
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,12 +47,12 @@ record:
     managed…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-09-09-pro-200-month-unlimited-gpt-live-1-usage|Pro ($200/month):
-  Unlimited GPT-Live-1 usage]]'
-- '[[Changes/ChatGPT/2026-09-09-pro-100-month-up-to-15-hours-with-gpt-live-1|Pro ($100/month):
-  Up to 15 hours with GPT-Live-1]]'
 - '[[Changes/Claude Code/2026-09-10-2-pricing-model-changes-in-v2-1-268|2 Pricing
   Model changes in v2.1.268]]'
+- '[[Changes/Dify/2026-09-10-4-pricing-model-changes-in-1-17-1|4 Pricing Model changes
+  in 1.17.1]]'
+- '[[Changes/Lovable/2026-09-10-share-your-lovable-invite-link-from-your-phone|Share
+  your Lovable invite link from your phone]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-14-v2-1-271-github-388664071-570fd44f|claude-code-2026-09-14-v2-1-271-github-388664071-570fd44f]]'
 source_type: github_releases
 theme: pricing-model
@@ -92,7 +92,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-09-10 · Claude Code · [[Changes/Claude Code/2026-09-10-2-pricing-model-changes-in-v2-1-268|2 Pricing Model changes in v2.1.268]]
+- Earlier: 2026-09-10 · Lovable · [[Changes/Lovable/2026-09-10-share-your-lovable-invite-link-from-your-phone|Share your Lovable invite link from your phone]]
 - Later: 2026-09-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-16-usage-shows-per-model-ai-credit-consumption-in-usage-breakdowns|/usage shows per-model AI Credit consumption in usage breakdowns]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: cbc4200685767a61a1933653632de2a818f1e5b35a7363f7e08dc6f44f5df993
+machine_hash: c6e5bed31890bfb7e495697be1c2a9fd84b183ee4e8684d5554c0b7dc18b4940
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -65,12 +65,10 @@ record:
   title: 11 Apps and Integrations changes in rust-v0.134.0
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-05-22-docs-extensions-refactor-releasing-guide-and-add-update-mechanisms-by-ruomengz-i|docs(extensions):
-  refactor releasing guide and add update mechanisms]]'
-- '[[Changes/GitHub Copilot CLI/2026-05-23-2-apps-and-integrations-changes-in-v1-0-52|2
-  Apps and Integrations changes in v1.0.52]]'
-- '[[Changes/Cline/2026-05-25-add-lg-task-uri-webhook-integration-for-lg-dashboard-flows|Add
-  /lg-task URI webhook integration for LG dashboard flows]]'
+- '[[Changes/ElevenLabs/2026-05-25-javascript-sdk|JavaScript SDK]]'
+- '[[Changes/ElevenLabs/2026-05-25-sdk-releases|SDK Releases]]'
+- '[[Changes/Lovable/2026-05-25-custom-mcp-servers-available-on-all-plans|Custom MCP
+  servers available on all plans]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-05-26-rust-v0-134-0-github-329640454-7be6059e|codex-cli-2026-05-26-rust-v0-134-0-github-329640454-7be6059e]]'
 source_type: github_releases
 theme: apps-integrations
@@ -128,7 +126,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.134.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-05-25 · Cline · [[Changes/Cline/2026-05-25-add-lg-task-uri-webhook-integration-for-lg-dashboard-flows|Add /lg-task URI webhook integration for LG dashboard flows]]
+- Earlier: 2026-05-25 · Lovable · [[Changes/Lovable/2026-05-25-custom-mcp-servers-available-on-all-plans|Custom MCP servers available on all plans]]
 - Later: 2026-05-27 · Claude Code · [[Changes/Claude Code/2026-05-27-4-apps-and-integrations-changes-in-v2-1-152|4 Apps and Integrations changes in v2.1.152]]
 <!-- chronolog:end -->
 

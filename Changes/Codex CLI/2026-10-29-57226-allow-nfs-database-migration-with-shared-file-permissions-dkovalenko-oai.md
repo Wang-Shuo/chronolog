@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e052c551fc26f0e2bad977b5752e69540b1dfbbdb37b6cb4ead211a743904865
+machine_hash: cc586d86eb885b628e4ccf3afea8346ab9e3205b37a6e2c58472f384a8dace06
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,8 +42,7 @@ record:
   title: '#57226 Allow NFS database migration with shared file permissions @dkovalenko-oai'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-23-8-collaboration-changes-in-rust-v0-164-0|8 Collaboration
-  changes in rust-v0.164.0]]'
+- '[[Changes/Replit/2026-10-23-chat-and-asset-sharing|Chat and asset sharing]]'
 - '[[Changes/Windsurf/2026-10-26-ide-mode-now-offers-devin-cloud-whenever-your-account-has-cloud-access-the-same|IDE
   mode now offers Devin Cloud whenever your account has Cloud access, the same…]]'
 - '[[Changes/OpenHands/2026-10-27-feat-conversation-label-the-share-toggle-share-with-org-users-in-team-orgs-ohe-3|feat(conversation):
@@ -92,7 +91,7 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2026-10-27 · OpenHands · [[Changes/OpenHands/2026-10-27-feat-conversation-label-the-share-toggle-share-with-org-users-in-team-orgs-ohe-3|feat(conversation): label the share toggle "Share with Org users" in team orgs (OHE-3765)]]
-- Later: 2026-11-03 · OpenHands · [[Changes/OpenHands/2026-11-03-2-collaboration-changes-in-v1-35-0|2 Collaboration changes in v1.35.0]]
+- Later: 2026-10-29 · Open WebUI · [[Changes/Open WebUI/2026-10-29-knowledge-base-api-responses-trimmed-adding-updating-or-removing-knowledge-base|📃 Knowledge base API responses trimmed. Adding, updating or removing knowledge…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

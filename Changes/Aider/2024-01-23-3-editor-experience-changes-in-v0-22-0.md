@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8c3c9837752167e8cc9f896e39bc69e72cd62b01c4f03133beeeaca950018b82
+machine_hash: afa72d125fca6d532c89a59858e1b95f57db086b21025a448a8a508bf11420e3
 product: aider
 product_name: Aider
 record:
@@ -44,12 +44,12 @@ record:
   title: 3 Editor Experience changes in v0.22.0
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-01-18-more-chat-symbol-links-when-the-chat-references-a-code-symbol-you-ll-often-be-ab|More
-  chat symbol links]]'
 - '[[Changes/Cursor/2024-01-18-apply-button-we-ve-added-some-polish-to-the-apply-codeblock-experience-in-chat|Apply
   button: We''ve added some polish to the "apply codeblock" experience in chat]]'
 - '[[Changes/Cursor/2024-01-18-chat-lints-if-the-ai-suggests-a-code-change-in-chat-that-involves-a-made-up-code|Chat
   lints: If the AI suggests a code change in chat that involves a made up code…]]'
+- '[[Changes/Dify/2024-01-19-add-feature-request-copilot-by-guchenhe-in-https-github-com-langgenius-dify-pull|add
+  feature request copilot]]'
 source_release: '[[Releases/Aider/aider-2024-01-23-v0-22-0-github-138074488-8739a4f3|aider-2024-01-23-v0-22-0-github-138074488-8739a4f3]]'
 source_type: github_releases
 theme: editor-experience
@@ -84,8 +84,8 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.22.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2024-01-18 · Cursor · [[Changes/Cursor/2024-01-18-chat-lints-if-the-ai-suggests-a-code-change-in-chat-that-involves-a-made-up-code|Chat lints: If the AI suggests a code change in chat that involves a made up code…]]
-- Later: 2024-02-02 · Cursor · [[Changes/Cursor/2024-02-02-hold-down-cmd-i-over-a-selection-to-heal-the-code-with-gpt-4-useful-for-writing|Cmd-I to Heal]]
+- Earlier: 2024-01-19 · Dify · [[Changes/Dify/2024-01-19-add-feature-request-copilot-by-guchenhe-in-https-github-com-langgenius-dify-pull|add feature request copilot]]
+- Later: 2024-02-01 · Dify · [[Changes/Dify/2024-02-01-feat-prompt-ide-support-change-height-by-iamjoel-in-https-github-com-langgenius|feat: prompt IDE support change height]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

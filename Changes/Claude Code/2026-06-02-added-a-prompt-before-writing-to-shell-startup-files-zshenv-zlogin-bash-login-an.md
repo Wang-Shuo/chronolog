@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 318513361d0040ad0b3e7b9217bbdee3f520213aed4dab47abb299d9ec9bc4bc
+machine_hash: a50d818b1992163222c6fbe8b845b1ac6539c654625674c00cee6e3b0ed265cc
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,8 +44,8 @@ record:
   title: Added a prompt before writing to shell startup files…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-01-surface-the-underlying-reason-e-g-github-api-rate-limit-when-sdk-auth-token-vali|Surface
-  the underlying reason (e.g. GitHub API rate limit) when SDK auth-token…]]'
+- '[[Changes/Open WebUI/2026-06-01-6-account-and-access-changes-in-v0-9-6|6 Account
+  and Access changes in v0.9.6]]'
 - '[[Changes/ChatGPT/2026-06-02-active-sessions-shows-sessions-known-through-session-management-including-chatgp|Active
   sessions shows sessions known through session management, including ChatGPT…]]'
 - '[[Changes/ChatGPT/2026-06-02-log-out-of-individual-sessions-or-all-sessions-from-active-sessions|Log

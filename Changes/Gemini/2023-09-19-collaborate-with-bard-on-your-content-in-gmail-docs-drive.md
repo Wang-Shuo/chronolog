@@ -1,0 +1,106 @@
+---
+card_id: gemini-2023-09-19-7f0c0c
+date: '2023-09-19'
+description: 'Gemini · 2023-09-19 · Model Support: What: Starting in English, you
+  can enable Bard to interact with information from your Gmail, Docs and Drive so
+  you can…'
+diffusion:
+  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|We
+    made more improvements to the ChatGPT model!]]'
+  inference: No adoption, equivalence, or causation claim.
+  lag_days: 253
+  relation: same-theme-chronology
+  role: later-observed
+  scope: tracked-products-only
+  theme: model-support
+  tracked_products_count: 20
+evolves_from: []
+extractor_version: fallback-v5
+impact: significant
+kind: launch
+machine_hash: f9ed1176289e7e7351f2b73e15496c6a80893c9734e34f21d6d71e382307a5d9
+product: gemini
+product_name: Gemini
+record:
+  ai_generated: true
+  card_id: gemini-2023-09-19-7f0c0c
+  comparison: ''
+  confidence: low
+  date: '2023-09-19'
+  description: 'Gemini — Gemini updates — 2023-09-19: What: Starting in English, you
+    can enable Bard to interact with information from your Gmail, Docs and Drive so
+    you can find, summarize and answer questions across your personal content. Your
+    Google Workspace data won’t be used to train Bard’s public model and you can disable
+    at any time.'
+  evidence:
+  - quote: 'What: Starting in English, you can enable Bard to interact with information
+      from your Gmail, Docs and Drive so you can find, summarize and answer questions
+      across your personal content. Your Google Workspace data won’t be used to train
+      Bard’s public model and you can disable at any time.'
+    source_release: https://gemini.google/us/release-notes/?hl=en
+  - quote: 'Why: Now, you can collaborate not only with the world’s information, but
+      also with your own, all in one place, with Bard as your creative partner.'
+    source_release: https://gemini.google/us/release-notes/?hl=en
+  extractor_version: fallback-v5
+  impact: significant
+  kind: launch
+  product: gemini
+  product_name: Gemini
+  slug: collaborate-with-bard-on-your-content-in-gmail-docs-drive
+  source_release: gemini-2023-09-19-2023-09-19-09db1083
+  source_type: gemini_changelog
+  theme: model-support
+  title: Collaborate with Bard on your content in Gmail, Docs & Drive
+  type: change
+related_changes:
+- '[[Changes/Ollama/2023-09-11-ability-to-import-and-use-gguf-file-type-models|Ability
+  to import and use GGUF file type models]]'
+- '[[Changes/Dify/2023-09-19-3-model-support-changes-in-0-3-23|3 Model Support changes
+  in 0.3.23]]'
+- '[[Changes/Gemini/2023-09-19-introducing-bard-s-most-capable-model-yet|Introducing
+  Bard’s most capable model yet]]'
+source_release: '[[Releases/Gemini/gemini-2023-09-19-2023-09-19-09db1083|gemini-2023-09-19-2023-09-19-09db1083]]'
+source_type: gemini_changelog
+theme: model-support
+title: Collaborate with Bard on your content in Gmail, Docs & Drive
+type: change
+---
+
+<!-- chronolog:begin region="header" -->
+# Collaborate with Bard on your content in Gmail, Docs & Drive
+
+**Gemini** · 2023-09-19 · [[Themes/model-support|Model Support]] · Launch · [Official source](https://gemini.google/us/release-notes/?hl=en) · from [[Releases/Gemini/gemini-2023-09-19-2023-09-19-09db1083|Gemini updates — 2023-09-19]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="evidence" -->
+> What: Starting in English, you can enable Bard to interact with information from your Gmail, Docs and Drive so you can find, summarize and answer questions across your personal content. Your Google Workspace data won’t be used to train Bard’s public model and you can disable at any time.
+>
+> Why: Now, you can collaborate not only with the world’s information, but also with your own, all in one place, with Bard as your creative partner.
+>
+> Source: https://gemini.google/us/release-notes/?hl=en
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Gemini/2023-09-19-bard-can-now-access-helpful-information-from-google-apps-and-services|Bard can now access helpful information from Google apps and services]] · Apps and Integrations
+- [[Changes/Gemini/2023-09-19-introducing-bard-s-most-capable-model-yet|Introducing Bard’s most capable model yet]] · Model Support
+- [[Changes/Gemini/2023-09-19-build-off-of-conversations-shared-with-you|Build off of conversations shared with you]] · Collaboration
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Model Support
+
+- Earlier: 2023-09-19 · Dify · [[Changes/Dify/2023-09-19-3-model-support-changes-in-0-3-23|3 Model Support changes in 0.3.23]]
+- Later: 2023-09-22 · Ollama · [[Changes/Ollama/2023-09-22-2-model-support-changes-in-v0-0-20|2 Model Support changes in v0.0.20]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|We made more improvements to the ChatGPT model!]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20gemini-2023-09-19-7f0c0c&body=Card%3A%20Changes%2FGemini%2F2023-09-19-collaborate-with-bard-on-your-content-in-gmail-docs-drive.md%0ACard%20ID%3A%20gemini-2023-09-19-7f0c0c%0ASource%3A%20https%3A%2F%2Fgemini.google%2Fus%2Frelease-notes%2F%3Fhl%3Den%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

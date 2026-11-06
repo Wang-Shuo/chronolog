@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d9da27bc18c48f865f67d74cce36cb5d5808d8f9635542a41f4c2828856175ca
+machine_hash: 190ec4b38ad29728ea93dfa10c08f872450f3268c12ff008ff21409af857a201
 product: cline
 product_name: Cline
 record:
@@ -47,8 +47,8 @@ record:
   title: 4 Model Support changes in v3.17.13
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-06-10-prevented-llm-settings-reset-when-page-loses-focus-during-initial-setup-by-llama|Prevented
-  LLM settings reset when page loses focus during initial setup]]'
+- '[[Changes/Dify/2025-06-11-4-model-support-changes-in-1-4-2|4 Model Support changes
+  in 1.4.2]]'
 - '[[Changes/ChatGPT/2025-06-12-upload-files-and-access-model-selector-on-mobile|Upload
   files and access model selector on mobile]]'
 - '[[Changes/ChatGPT/2025-06-12-creators-can-now-choose-from-the-full-set-of-chatgpt-models-gpt-4o-o3-o4-mini-an-ad1adf|Creators

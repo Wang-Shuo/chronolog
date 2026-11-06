@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: c22792198219a10fa490ada78fe898e3709f798cafc7ff66bff5ffe30e301513
+machine_hash: abfbd59221c4594e914004500b70c7a61e531d40c51c03d4500a467eb2984853
 product: cursor
 product_name: Cursor
 record:
@@ -48,10 +48,10 @@ record:
   title: Include your entire codebase in context
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-04-15-automated-and-improved-rules-15afc6|Automated and improved
-  rules]]'
-- '[[Changes/Cursor/2025-04-15-project-structure-in-context-beta|Project structure
-  in context (Beta)]]'
+- '[[Changes/Ollama/2025-04-17-ibm-granite-3-3-https-ollama-com-library-granite3-3-2b-and-8b-models-with-128k-c|IBM
+  Granite 3.3((source link)]]'
+- '[[Changes/Ollama/2025-04-26-increased-default-context-window-to-4096-tokens|Increased
+  default context window to 4096 tokens]]'
 - '[[Changes/Aider/2025-05-09-2-context-window-changes-in-v0-83-0|2 Context Window
   changes in v0.83.0]]'
 source_release: '[[Releases/Cursor/cursor-2025-05-15-0-50-https-cursor-com-changelog-0-50-dc290998|cursor-2025-05-15-0-50-https-cursor-com-changelog-0-50-dc290998]]'
@@ -90,7 +90,7 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2025-05-09 · Aider · [[Changes/Aider/2025-05-09-2-context-window-changes-in-v0-83-0|2 Context Window changes in v0.83.0]]
-- Later: 2025-05-21 · Cline · [[Changes/Cline/2025-05-21-add-support-for-gemini-2-5-flash-preview-05-20-model-to-vertex-ai-provider-with|Add support for Gemini 2.5 Flash Preview 05-20 model to Vertex AI provider…]]
+- Later: 2025-05-16 · Replit · [[Changes/Replit/2025-05-16-replit-time-travel|Replit time travel]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

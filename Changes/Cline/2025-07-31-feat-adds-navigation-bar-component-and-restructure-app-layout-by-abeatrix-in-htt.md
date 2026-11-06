@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 749909746df7d062bfcc2e3349a0e7deb0f97ddacc0164b3a040d6da8acd155d
+machine_hash: f78fcabd9591129cf2960128aa5a81cedd954904c378fdb9a4f2fa4b1cc2b592
 product: cline
 product_name: Cline
 record:
@@ -42,10 +42,10 @@ record:
   title: 'feat: adds navigation bar component and restructure app layout'
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-07-19-add-numbers-to-selection-list-by-miguelsolorio-in-https-github-com-google-gemini|Add
-  numbers to selection list]]'
 - '[[Changes/Gemini CLI/2025-07-25-2-interface-experience-changes-in-v0-1-14|2 Interface
   Experience changes in v0.1.14]]'
+- '[[Changes/Dify/2025-07-28-3-interface-experience-changes-in-1-7-1|3 Interface Experience
+  changes in 1.7.1]]'
 - '[[Changes/Gemini CLI/2025-07-30-2-interface-experience-changes-in-v0-1-15|2 Interface
   Experience changes in v0.1.15]]'
 source_release: '[[Releases/Cline/cline-2025-07-31-v3-20-3-github-236462952-0ca11a50|cline-2025-07-31-v3-20-3-github-236462952-0ca11a50]]'
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2025-07-30 · Gemini CLI · [[Changes/Gemini CLI/2025-07-30-2-interface-experience-changes-in-v0-1-15|2 Interface Experience changes in v0.1.15]]
-- Later: 2025-08-02 · Codex CLI · [[Changes/Codex CLI/2025-08-02-big-news-this-release-introduces-a-new-ux-where-codex-is-no-longer-fullscreen-ma|Big News!!! This release introduces a new UX where Codex is no longer fullscreen…]]
+- Later: 2025-08-01 · Replit · [[Changes/Replit/2025-08-01-visual-editor-color-picker-improvement|Visual editor color picker improvement]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

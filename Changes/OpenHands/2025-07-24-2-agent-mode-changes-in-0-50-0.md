@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2f865855a3129091797077aca81c4fd065dab613fae26cbf63305505a3c2c38b
+machine_hash: 4e204a9f33f757d18f4320505e4de84bae2eb4d371ca5d275cbd478acf1990e2
 product: openhands
 product_name: OpenHands
 record:
@@ -44,11 +44,11 @@ record:
   title: 2 Agent Mode changes in 0.50.0
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-07-03-background-agent-improvements|Background Agent improvements]]'
-- '[[Changes/Codex CLI/2025-07-19-https-github-com-openai-codex-pull-1589-changes-ctrl-d-so-it-only-exits-the-tui|(source
-  link) changes ctrl-d so it only exits the TUI…]]'
-- '[[Changes/Gemini CLI/2025-07-19-3-agent-mode-changes-in-v0-1-13|3 Agent Mode changes
-  in v0.1.13]]'
+- '[[Changes/ElevenLabs/2025-07-22-agents-platform-32a4c5|Agents Platform]]'
+- '[[Changes/ElevenLabs/2025-07-22-2-agent-mode-changes-in-elevenlabs-updates-2025-07-22|2
+  Agent Mode changes in ElevenLabs updates — 2025-07-22]]'
+- '[[Changes/Dify/2025-07-23-2-agent-mode-changes-in-1-7-0|2 Agent Mode changes in
+  1.7.0]]'
 source_release: '[[Releases/OpenHands/openhands-2025-07-24-0-50-0-github-234870384-6ce58434|openhands-2025-07-24-0-50-0-github-234870384-6ce58434]]'
 source_type: github_releases
 theme: agent-mode
@@ -83,7 +83,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/0.50.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2025-07-19 · Gemini CLI · [[Changes/Gemini CLI/2025-07-19-3-agent-mode-changes-in-v0-1-13|3 Agent Mode changes in v0.1.13]]
+- Earlier: 2025-07-23 · Dify · [[Changes/Dify/2025-07-23-2-agent-mode-changes-in-1-7-0|2 Agent Mode changes in 1.7.0]]
 - Later: 2025-07-25 · Gemini CLI · [[Changes/Gemini CLI/2025-07-25-5-agent-mode-changes-in-v0-1-14|5 Agent Mode changes in v0.1.14]]
 <!-- chronolog:end -->
 

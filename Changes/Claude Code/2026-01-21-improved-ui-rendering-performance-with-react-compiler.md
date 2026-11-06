@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f2c0ba66df6b6259303a7c773b2fa6faf7a57587f6afb5d3f2ae223f195f8784
+machine_hash: a30c5289c114a05eef5ff0aa9b4d0d24346cf24b9664a8ea3b8e70b77a935725
 product: claude-code
 product_name: Claude Code
 record:
@@ -41,12 +41,12 @@ record:
   title: Improved UI rendering performance with React Compiler
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-14-improved-typing-responsiveness-by-reducing-memory-allocation-overhead-in-termina|Improved
-  typing responsiveness by reducing memory allocation overhead in terminal…]]'
 - '[[Changes/Windsurf/2026-01-14-2-reliability-and-performance-changes-in-v1-13-8|2
   Reliability and Performance changes in v1.13.8]]'
 - '[[Changes/Cursor/2026-01-16-faster-message-queueing-and-ux|Faster message queueing
   and UX]]'
+- '[[Changes/Ollama/2026-01-16-glm-4-7-flash-https-ollama-com-library-glm-4-7-flash-as-the-strongest-model-in-t|GLM-4.7-Flash((source
+  link) As the strongest model…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-21-v2-1-15-github-278799996-0b5b2e8b|claude-code-2026-01-21-v2-1-15-github-278799996-0b5b2e8b]]'
 source_type: github_releases
 theme: reliability-performance
@@ -75,7 +75,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-01-16 · Cursor · [[Changes/Cursor/2026-01-16-faster-message-queueing-and-ux|Faster message queueing and UX]]
+- Earlier: 2026-01-16 · Ollama · [[Changes/Ollama/2026-01-16-glm-4-7-flash-https-ollama-com-library-glm-4-7-flash-as-the-strongest-model-in-t|GLM-4.7-Flash((source link) As the strongest model…]]
 - Later: 2026-01-21 · Codex CLI · [[Changes/Codex CLI/2026-01-21-9543-fix-memory-leak-issue-jif-oai|♯9543 fix: memory leak issue @jif-oai]]
 <!-- chronolog:end -->
 

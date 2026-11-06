@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4209f0fc663f79ee274d44082cccc47c79b86d059428c76fb6a1db273232cfa4
+machine_hash: abd95acd5ef2a8cae5e1f04df8be28064bac979d71422b0838883ad10e98c4c1
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -41,11 +41,11 @@ record:
   title: Remove context percentage in footer by default
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-11-04-6161-include-reasoning-tokens-in-the-context-window-calculation-6161|♯6161
-  Include reasoning tokens in the context window calculation (♯6161)]]'
-- '[[Changes/Windsurf/2025-11-04-cascade-summarization-fix|Cascade Summarization Fix]]'
+- '[[Changes/ElevenLabs/2025-11-05-tokens|Tokens]]'
 - '[[Changes/Cline/2025-11-06-use-context-aware-task-manager-for-quick-auth-by-canvrno-in-https-github-com-cli|Use
   context-aware task manager for quick auth]]'
+- '[[Changes/Open WebUI/2025-11-06-3-context-window-changes-in-v0-6-35|3 Context Window
+  changes in v0.6.35]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-11-07-v0-13-0-github-260462305-15cfa0b7|gemini-cli-2025-11-07-v0-13-0-github-260462305-15cfa0b7]]'
 source_type: github_releases
 theme: context-window
@@ -87,8 +87,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2025-11-06 · Cline · [[Changes/Cline/2025-11-06-use-context-aware-task-manager-for-quick-auth-by-canvrno-in-https-github-com-cli|Use context-aware task manager for quick auth]]
-- Later: 2025-11-13 · Cline · [[Changes/Cline/2025-11-13-reduce-next-gen-model-context-window-anxiety-by-canvrno-in-https-github-com-clin|Reduce next-gen model context window anxiety]]
+- Earlier: 2025-11-06 · Open WebUI · [[Changes/Open WebUI/2025-11-06-3-context-window-changes-in-v0-6-35|3 Context Window changes in v0.6.35]]
+- Later: 2025-11-12 · Ollama · [[Changes/Ollama/2025-11-12-2-context-window-changes-in-v0-12-11|2 Context Window changes in v0.12.11]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2a8667a7af452590819b445887022501ee8196ffbf4c1e49dd0f22c9f0f2d02b
+machine_hash: 0986efb03f5170f42e75ed61b4d727bba9587a365cc3828cd5120e98a8645b65
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,8 +43,8 @@ record:
   title: Improved reactive compaction
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-11-context-all-per-skill-token-estimates-now-account-for-the-model-s-tokenizer-and|/context
-  all per-skill token estimates now account for the model''s tokenizer…]]'
+- '[[Changes/Dify/2026-05-12-refactor-web-migrate-workflow-panel-context-menu-primitive-by-lyzno1-in-https-gi|refactor(web):
+  migrate workflow panel context menu primitive]]'
 - '[[Changes/Claude Code/2026-05-13-rewind-menu-added-summarize-up-to-here-to-compress-earlier-context-while-keeping|Rewind
   menu: added "Summarize up to here" to compress earlier context while keeping…]]'
 - '[[Changes/Cursor/2026-05-13-compact-chat-responses|Compact chat responses]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: bc8e89a28ac76f662dd2dd6ac31113a23fff780fba63b94ac939d153b8e3501c
+machine_hash: 55e26e8ca2003dd9205a5e2354f84259f753b44bf2e39584057c2854f20b548d
 product: cline
 product_name: Cline
 record:
@@ -45,8 +45,8 @@ record:
   title: Exclude `new_task` tool from system prompt in yolo/headless mode
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-27-auto-mode-now-shows-unavailable-for-your-plan-when-disabled-by-plan-restrictions|Auto
-  mode now shows "unavailable for your plan" when disabled by plan restrictions…]]'
+- '[[Changes/Dify/2026-03-27-4-agent-mode-changes-in-1-13-3|4 Agent Mode changes in
+  1.13.3]]'
 - '[[Changes/Codex CLI/2026-03-31-4-agent-mode-changes-in-rust-v0-118-0|4 Agent Mode
   changes in rust-v0.118.0]]'
 - '[[Changes/Claude Code/2026-04-01-3-agent-mode-changes-in-v2-1-89|3 Agent Mode changes
@@ -80,7 +80,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-04-01 · Claude Code · [[Changes/Claude Code/2026-04-01-3-agent-mode-changes-in-v2-1-89|3 Agent Mode changes in v2.1.89]]
-- Later: 2026-04-01 · Gemini CLI · [[Changes/Gemini CLI/2026-04-01-10-agent-mode-changes-in-v0-36-0|10 Agent Mode changes in v0.36.0]]
+- Later: 2026-04-01 · ElevenLabs · [[Changes/ElevenLabs/2026-04-01-elevenagents|ElevenAgents]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

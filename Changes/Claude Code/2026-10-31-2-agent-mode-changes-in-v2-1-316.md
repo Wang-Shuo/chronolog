@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 10aa90811ebee36754fb6d1a120fe33e104cd1b6e49828de85e084e93ef6e9e6
+machine_hash: 44faec32831f72c87bc7d83eb9b98a197bad17de22f6408e5726ec791f814d04
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,12 +46,12 @@ record:
   title: 2 Agent Mode changes in v2.1.316
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-10-27-feat-verify-stand-in-for-digitalocean-so-managed-agents-can-be-verified-by-enyst|feat(verify):
-  stand in for DigitalOcean so Managed Agents can be verified]]'
-- '[[Changes/Codex CLI/2026-10-29-7-agent-mode-changes-in-rust-v0-166-0|7 Agent Mode
-  changes in rust-v0.166.0]]'
 - '[[Changes/Claude Code/2026-10-30-3-agent-mode-changes-in-v2-1-314|3 Agent Mode
   changes in v2.1.314]]'
+- '[[Changes/Replit/2026-10-30-contribute-to-your-company-codebase-with-cloud-agents|Contribute
+  to your company codebase with Cloud Agents]]'
+- '[[Changes/Replit/2026-10-30-message-and-create-chats-with-agent|Message and create
+  chats with Agent]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-31-v2-1-316-github-429617179-a30f32c9|claude-code-2026-10-31-v2-1-316-github-429617179-a30f32c9]]'
 source_type: github_releases
 theme: agent-mode
@@ -91,8 +91,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.316
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-10-30 · Claude Code · [[Changes/Claude Code/2026-10-30-3-agent-mode-changes-in-v2-1-314|3 Agent Mode changes in v2.1.314]]
-- Later: 2026-11-03 · OpenHands · [[Changes/OpenHands/2026-11-03-3-agent-mode-changes-in-v1-35-0|3 Agent Mode changes in v1.35.0]]
+- Earlier: 2026-10-30 · Replit · [[Changes/Replit/2026-10-30-message-and-create-chats-with-agent|Message and create chats with Agent]]
+- Later: 2026-11-02 · ElevenLabs · [[Changes/ElevenLabs/2026-11-02-elevenlabs-cli|ElevenLabs CLI]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

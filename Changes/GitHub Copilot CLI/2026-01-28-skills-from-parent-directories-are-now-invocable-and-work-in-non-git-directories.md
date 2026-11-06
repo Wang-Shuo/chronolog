@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 653349607560b5ee58f214bd8df4fb49195ebb119a79b03d818368b3c55ac458
+machine_hash: 8952d9c8758056f22a33a7b3303ef88ed6cfd2471d3b007600a5b560065aa641
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -42,8 +42,8 @@ record:
   title: Skills from parent directories are now invocable and work in non-git directories
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-01-27-2-developer-workflow-changes-in-v0-0-396|2
-  Developer Workflow changes in v0.0.396]]'
+- '[[Changes/v0/2026-01-27-projects-connected-to-your-actual-app-with-code-environment-variables-deployment|Projects
+  : connected to your actual app, with code, environment variables…]]'
 - '[[Changes/Claude Code/2026-01-28-vscode-added-automatic-python-virtual-environment-activation-ensuring-python-and|VSCode
   Added automatic Python virtual environment activation, ensuring python…]]'
 - '[[Changes/Gemini CLI/2026-01-28-8-developer-workflow-changes-in-v0-26-0|8 Developer

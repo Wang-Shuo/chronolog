@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7c857a7d025813eecafb0e1549202aa9fd1a49c9a405a35ced0cf93f248cec83
+machine_hash: 9f58d0e0bcab337d5cd0c2fc2a7382868b8b6ec61d3f79aaaa6e688009d0bceb
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -43,12 +43,12 @@ record:
   title: 2 Editor Experience changes in v0.29.0
   type: change
 related_changes:
-- '[[Changes/Cline/2026-02-17-restore-reasoning-trace-visibility-in-chat-and-improve-the-thinking-row-ux-so-re|Restore
-  reasoning trace visibility in chat and improve the thinking row UX…]]'
 - '[[Changes/Cursor/2026-02-17-manual-edits-no-longer-create-in-line-diffs|Manual
   edits no longer create in-line diffs]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-17-tab-completion-respects-the-highlighted-slash-command-selection|Tab
   completion respects the highlighted slash command selection]]'
+- "[[Changes/Open WebUI/2026-02-17-image-edit-api-background-support-the-image-edit-api-now-supports-the-background|\U0001F3A8
+  Image edit API background support. The image edit API now supports…]]"
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-02-18-v0-29-0-github-287470100-0bac8990|gemini-cli-2026-02-18-v0-29-0-github-287470100-0bac8990]]'
 source_type: github_releases
 theme: editor-experience
@@ -91,7 +91,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.29.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-02-17 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-17-tab-completion-respects-the-highlighted-slash-command-selection|Tab completion respects the highlighted slash command selection]]
+- Earlier: 2026-02-17 · Open WebUI · [[Changes/Open WebUI/2026-02-17-image-edit-api-background-support-the-image-edit-api-now-supports-the-background|🎨 Image edit API background support. The image edit API now supports…]]
 - Later: 2026-02-19 · ChatGPT · [[Changes/ChatGPT/2026-02-19-we-improved-code-blocks-in-chatgpt-to-make-them-more-interactive-you-can-write-e-6b2623|We improved Code Blocks in ChatGPT to make them more interactive]]
 <!-- chronolog:end -->
 

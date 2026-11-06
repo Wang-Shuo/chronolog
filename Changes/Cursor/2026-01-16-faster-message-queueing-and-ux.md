@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 78697da1731a0f1261bfe9498a1099a7b297992ff2a5122814addba157225610
+machine_hash: f0e2d800340747902c39dd674fea1d58ca2c2d1f5b9707792656e0d89b7820e2
 product: cursor
 product_name: Cursor
 record:
@@ -41,10 +41,10 @@ record:
   title: Faster message queueing and UX
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-01-13-2-reliability-and-performance-changes-in-v1-13-6|2
-  Reliability and Performance changes in v1.13.6]]'
-- '[[Changes/Claude Code/2026-01-14-improved-typing-responsiveness-by-reducing-memory-allocation-overhead-in-termina|Improved
-  typing responsiveness by reducing memory allocation overhead in terminal…]]'
+- '[[Changes/v0/2026-01-14-improved-chat-performance-and-responsiveness|Improved chat
+  performance and responsiveness]]'
+- '[[Changes/v0/2026-01-14-improved-front-end-performance-across-the-application|Improved
+  front-end performance across the application]]'
 - '[[Changes/Windsurf/2026-01-14-2-reliability-and-performance-changes-in-v1-13-8|2
   Reliability and Performance changes in v1.13.8]]'
 source_release: '[[Releases/Cursor/cursor-2026-01-16-cli-agent-modes-and-cloud-handoff-https-cursor-com-changelog-cli-becd78b5|cursor-2026-01-16-cli-agent-modes-and-cloud-handoff-https-cursor-com-changelog-cli-becd78b5]]'
@@ -86,8 +86,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-01-14 · Windsurf · [[Changes/Windsurf/2026-01-14-2-reliability-and-performance-changes-in-v1-13-8|2 Reliability and Performance changes in v1.13.8]]
-- Later: 2026-01-21 · Claude Code · [[Changes/Claude Code/2026-01-21-improved-ui-rendering-performance-with-react-compiler|Improved UI rendering performance with React Compiler]]
+- Earlier: 2026-01-14 · v0 · [[Changes/v0/2026-01-14-improved-front-end-performance-across-the-application|Improved front-end performance across the application]]
+- Later: 2026-01-16 · Ollama · [[Changes/Ollama/2026-01-16-glm-4-7-flash-https-ollama-com-library-glm-4-7-flash-as-the-strongest-model-in-t|GLM-4.7-Flash((source link) As the strongest model…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

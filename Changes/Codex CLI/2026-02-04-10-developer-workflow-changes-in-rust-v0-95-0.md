@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c4c179e0cc6d0951917643eb0aeab088e0f3107108f083d350c2e96a460fcfd1
+machine_hash: ba7fb358a62db59d02ee3255d3568338e091527ba09704a8df8ba195a00ceb43
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -61,10 +61,10 @@ record:
   title: 10 Developer Workflow changes in rust-v0.95.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-03-2-developer-workflow-changes-in-v2-1-30|2 Developer
-  Workflow changes in v2.1.30]]'
 - '[[Changes/Claude Code/2026-02-03-added-debug-for-claude-to-help-troubleshoot-the-current-session|Added
   /debug for Claude to help troubleshoot the current session]]'
+- '[[Changes/Dify/2026-02-03-2-developer-workflow-changes-in-1-12-0|2 Developer Workflow
+  changes in 1.12.0]]'
 - '[[Changes/Claude Code/2026-02-04-reduced-layout-jitter-in-the-terminal-when-the-spinner-appears-and-disappears-du|Reduced
   layout jitter in the terminal when the spinner appears and disappears during…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-02-04-rust-v0-95-0-github-282823276-932b0b6b|codex-cli-2026-02-04-rust-v0-95-0-github-282823276-932b0b6b]]'

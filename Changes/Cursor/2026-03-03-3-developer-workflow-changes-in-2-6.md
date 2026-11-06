@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: af9c311f00dfbc0bf4632e1dcf5dc48ae0ade90a68ed1ffbee30d6775a436688
+machine_hash: 7cf7b4798128c4f90715447c393019cc8ff3677cb40fbdd37ad7afc05625ad51
 product: cursor
 product_name: Cursor
 record:
@@ -44,10 +44,10 @@ record:
   title: 3 Developer Workflow changes in 2.6
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-28-added-simplify-and-batch-bundled-slash-commands|Added
-  /simplify and /batch bundled slash commands]]'
-- '[[Changes/Codex CLI/2026-03-02-3-developer-workflow-changes-in-rust-v0-107-0|3
-  Developer Workflow changes in rust-v0.107.0]]'
+- '[[Changes/Open WebUI/2026-03-02-faster-artifact-content-updates-artifact-content-extraction-during-streaming-is|⚡
+  Faster artifact content updates. Artifact content extraction during streaming…]]'
+- '[[Changes/Open WebUI/2026-03-02-6-developer-workflow-changes-in-v0-8-8|6 Developer
+  Workflow changes in v0.8.8]]'
 - '[[Changes/Cline/2026-03-03-retry-nested-git-restore-and-prevent-silent-git-disabled-leftovers-in-checkpoint|Retry
   nested git restore and prevent silent .git_disabled leftovers in checkpoints]]'
 source_release: '[[Releases/Cursor/cursor-2026-03-03-2-6-https-cursor-com-changelog-2-6-0fa7f1a3|cursor-2026-03-03-2-6-https-cursor-com-changelog-2-6-0fa7f1a3]]'

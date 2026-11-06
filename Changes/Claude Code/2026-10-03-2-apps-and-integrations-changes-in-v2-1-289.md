@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: bab66039bb94f0b5a3e2c6d056fffaf266f6ea3d721ccdbcbb1fa5407970baae
+machine_hash: ad2394496fddb18bf1ad495a73d1eaa46e4e79e8c8a28cbdc539fbdc358b2c86
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,12 @@ record:
   title: 2 Apps and Integrations changes in v2.1.289
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-01-11-apps-and-integrations-changes-in-v2-1-287|11
-  Apps and Integrations changes in v2.1.287]]'
 - '[[Changes/Codex CLI/2026-10-01-4-apps-and-integrations-changes-in-rust-v0-160-0|4
   Apps and Integrations changes in rust-v0.160.0]]'
 - '[[Changes/Claude Code/2026-10-02-5-apps-and-integrations-changes-in-v2-1-288|5
   Apps and Integrations changes in v2.1.288]]'
+- '[[Changes/Replit/2026-10-02-jev-is-now-available-through-replit-ai-integrations|Jev
+  is now available through Replit AI Integrations]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-03-v2-1-289-github-402671979-24326b23|claude-code-2026-10-03-v2-1-289-github-402671979-24326b23]]'
 source_type: github_releases
 theme: apps-integrations
@@ -82,7 +82,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.289
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-10-02 · Claude Code · [[Changes/Claude Code/2026-10-02-5-apps-and-integrations-changes-in-v2-1-288|5 Apps and Integrations changes in v2.1.288]]
+- Earlier: 2026-10-02 · Replit · [[Changes/Replit/2026-10-02-jev-is-now-available-through-replit-ai-integrations|Jev is now available through Replit AI Integrations]]
 - Later: 2026-10-05 · Claude Code · [[Changes/Claude Code/2026-10-05-14-apps-and-integrations-changes-in-v2-1-290|14 Apps and Integrations changes in v2.1.290]]
 <!-- chronolog:end -->
 

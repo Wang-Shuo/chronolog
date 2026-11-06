@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b7f451d956deb91d6b4a30c3c26d088db7b62e4ae585fca0869dedec128bfa34
+machine_hash: fbf1a4f9c7a5b35c2692f960495b4f9698da730e254848e4f6e84ed73f26f8ab
 product: openhands
 product_name: OpenHands
 record:
@@ -45,12 +45,12 @@ record:
   title: 3 Model Support changes in 0.7.1
   type: change
 related_changes:
-- '[[Changes/Aider/2024-06-24-2-model-support-changes-in-v0-40-0|2 Model Support changes
-  in v0.40.0]]'
 - '[[Changes/OpenHands/2024-06-29-2-model-support-changes-in-0-7-0|2 Model Support
   changes in 0.7.0]]'
 - '[[Changes/Aider/2024-07-01-4-model-support-changes-in-v0-41-0|4 Model Support changes
   in v0.41.0]]'
+- '[[Changes/Ollama/2024-07-02-6-model-support-changes-in-v0-2-0|6 Model Support changes
+  in v0.2.0]]'
 source_release: '[[Releases/OpenHands/openhands-2024-07-05-0-7-1-github-164186278-78b5a72a|openhands-2024-07-05-0-7-1-github-164186278-78b5a72a]]'
 source_type: github_releases
 theme: model-support
@@ -90,7 +90,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/0.7.1
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2024-07-01 · Aider · [[Changes/Aider/2024-07-01-4-model-support-changes-in-v0-41-0|4 Model Support changes in v0.41.0]]
+- Earlier: 2024-07-02 · Ollama · [[Changes/Ollama/2024-07-02-6-model-support-changes-in-v0-2-0|6 Model Support changes in v0.2.0]]
 - Later: 2024-07-07 · Aider · [[Changes/Aider/2024-07-07-2-model-support-changes-in-v0-43-0|2 Model Support changes in v0.43.0]]
 <!-- chronolog:end -->
 

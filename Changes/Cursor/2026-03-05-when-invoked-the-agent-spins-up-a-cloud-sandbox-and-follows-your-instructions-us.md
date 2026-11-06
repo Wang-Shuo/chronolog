@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 62233b3e41ccf542722e1ed6c07c3c5b1667291764331b3cf455751849a36b42
+machine_hash: 20906610adaa494dbc6eb67f6c96ec3f270abed1483410215692694609bbdbee
 product: cursor
 product_name: Cursor
 record:
@@ -63,8 +63,8 @@ record:
     using…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-03-autopilot-permission-dialog-appears-on-first-prompt-submission-instead-of-on-mod|Autopilot
-  permission dialog appears on first prompt submission instead of on mode switch]]'
+- '[[Changes/v0/2026-03-03-fixed-integration-permission-checks-for-team-roles|Fixed
+  integration permission checks for team roles]]'
 - '[[Changes/Claude Code/2026-03-05-5-safety-and-privacy-changes-in-v2-1-69|5 Safety
   and Privacy changes in v2.1.69]]'
 - '[[Changes/Codex CLI/2026-03-05-4-safety-and-privacy-changes-in-rust-v0-110-0|4

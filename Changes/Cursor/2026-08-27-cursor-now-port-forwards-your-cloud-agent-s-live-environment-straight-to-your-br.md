@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: e05323a1f8b83f66be205b728a5641fb698952192ed8a206bab532a076734bf2
+machine_hash: 628a1e7a978d27e58725078fb40a4825936b0205b34e2a8203c240a9c1855bb5
 product: cursor
 product_name: Cursor
 record:
@@ -46,8 +46,8 @@ record:
   title: A live preview, right in the browser
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-08-26-14-agent-mode-changes-in-rust-v0-150-0|14 Agent
-  Mode changes in rust-v0.150.0]]'
+- '[[Changes/Lovable/2026-08-26-add-your-app-to-slack-as-an-agent|Add your app to
+  Slack as an agent]]'
 - '[[Changes/Claude Code/2026-08-27-3-agent-mode-changes-in-v2-1-248|3 Agent Mode
   changes in v2.1.248]]'
 - '[[Changes/Cursor/2026-08-27-cloud-agents-no-longer-require-a-connected-github-or-other-third-party-scm-provi|Cloud

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5afa6e52142c4a93c623aa3fb2ed180732a6c9ca75bdfdb96166586a2fa79511
+machine_hash: 9354e21257348dce277384e572eb2683fcf87ec403f332503c8a00657d0979d6
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,12 +42,12 @@ record:
   title: 2 Safety and Privacy changes in v2.1.41
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-02-11-8-safety-and-privacy-changes-in-rust-v0-99-0|8 Safety
-  and Privacy changes in rust-v0.99.0]]'
 - '[[Changes/Codex CLI/2026-02-12-5-safety-and-privacy-changes-in-rust-v0-100-0|5
   Safety and Privacy changes in rust-v0.100.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-12-permission-prompts-with-long-diffs-are-scrollable-in-alt-screen-mode|Permission
   prompts with long diffs are scrollable in alt-screen mode]]'
+- '[[Changes/Open WebUI/2026-02-12-5-safety-and-privacy-changes-in-v0-8-0|5 Safety
+  and Privacy changes in v0.8.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-13-v2-1-41-github-285970764-07a64ba8|claude-code-2026-02-13-v2-1-41-github-285970764-07a64ba8]]'
 source_type: github_releases
 theme: safety-privacy
@@ -83,8 +83,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.41
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-02-12 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-12-permission-prompts-with-long-diffs-are-scrollable-in-alt-screen-mode|Permission prompts with long diffs are scrollable in alt-screen mode]]
-- Later: 2026-02-17 · Claude Code · [[Changes/Claude Code/2026-02-17-vscode-improved-permission-destination-choice-project-user-session-to-persist-ac|VSCode Improved permission destination choice (project/user/session) to persist…]]
+- Earlier: 2026-02-12 · Open WebUI · [[Changes/Open WebUI/2026-02-12-5-safety-and-privacy-changes-in-v0-8-0|5 Safety and Privacy changes in v0.8.0]]
+- Later: 2026-02-14 · Open WebUI · [[Changes/Open WebUI/2026-02-14-public-sharing-security-fix-fixed-a-security-issue-where-users-with-write-access|🛡️ Public sharing security fix. Fixed a security issue where users with write…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

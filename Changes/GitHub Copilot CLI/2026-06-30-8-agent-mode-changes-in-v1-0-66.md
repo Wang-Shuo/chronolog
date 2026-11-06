@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c33d8472f539e275aea47a73ce8b00619d077c88fcfae1a774551f49283a391e
+machine_hash: 43b3e62bb8e9c57ce33612abe10b327356929652c00cebf8198f44c4224bb586
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -58,10 +58,9 @@ record:
   title: 8 Agent Mode changes in v1.0.66
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-06-29-live-activities-and-push-notifications|Live Activities
-  and push notifications]]'
-- '[[Changes/Cursor/2026-06-29-cursor-for-ios-is-now-available-in-public-beta-on-all-paid-plans-launch-and-mana|Cursor
-  for iOS is now available in public beta on all paid plans]]'
+- '[[Changes/ElevenLabs/2026-06-29-elevenagents-d1c29a|ElevenAgents]]'
+- "[[Changes/Open WebUI/2026-06-29-client-user-agent-forwarded-to-model-backends-the-browser-s-user-agent-is-now-pa|\U0001FAAA
+  Client User-Agent forwarded to model backends. The browser's User-Agent is now…]]"
 - '[[Changes/GitHub Copilot CLI/2026-06-30-2-agent-mode-changes-in-v1-0-67|2 Agent
   Mode changes in v1.0.67]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-06-30-v1-0-66-github-346845066-af776740|github-copilot-cli-2026-06-30-v1-0-66-github-346845066-af776740]]'

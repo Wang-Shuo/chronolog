@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b6ba6720bc324b55020e509ac85fcfc2907925934e077a6779d37fd043b4fe36
+machine_hash: 8b88a599be61575c4c9c6b264575c1bdd0170e88472315869607707af391a2ac
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -40,12 +40,11 @@ record:
   title: '#20149 Reduce the surface of collaboration modes @pakrym-oai'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-04-20-18398-refactor-use-cloneable-async-channels-for-shared-receivers-bolinfest|♯18398
-  refactor: use cloneable async channels for shared receivers @bolinfest]]'
-- '[[Changes/Codex CLI/2026-04-23-2-collaboration-changes-in-rust-v0-123-0|2 Collaboration
-  changes in rust-v0.123.0]]'
 - '[[Changes/Codex CLI/2026-04-24-windows-bazel-ci-now-uses-a-stable-path-and-shared-query-startup-path-for-better|Windows
   Bazel CI now uses a stable PATH and shared query startup path for better…]]'
+- '[[Changes/ElevenLabs/2026-04-27-other|Other]]'
+- '[[Changes/Dify/2026-04-29-13-collaboration-changes-in-1-14-0|13 Collaboration changes
+  in 1.14.0]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-04-30-rust-v0-128-0-github-315916672-1708ab89|codex-cli-2026-04-30-rust-v0-128-0-github-315916672-1708ab89]]'
 source_type: github_releases
 theme: collaboration
@@ -86,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-04-24 · Codex CLI · [[Changes/Codex CLI/2026-04-24-windows-bazel-ci-now-uses-a-stable-path-and-shared-query-startup-path-for-better|Windows Bazel CI now uses a stable PATH and shared query startup path for better…]]
+- Earlier: 2026-04-29 · Dify · [[Changes/Dify/2026-04-29-13-collaboration-changes-in-1-14-0|13 Collaboration changes in 1.14.0]]
 - Later: 2026-05-01 · Cursor · [[Changes/Cursor/2026-05-01-admins-can-now-create-a-team-marketplace-without-connecting-a-repository-first-a-b1834a|Admins can now create a team marketplace without connecting a repository first]]
 <!-- chronolog:end -->
 

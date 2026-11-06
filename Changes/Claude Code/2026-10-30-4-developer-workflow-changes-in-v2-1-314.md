@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1b79462ff6d8035590c611b80e68ab15ec9681e6596e9dc9993d7871f35854e7
+machine_hash: dfe6d8834183875e40709fdc47b71f8d48d47194b2311c6eac19d36d885ae5d0
 product: claude-code
 product_name: Claude Code
 record:
@@ -52,12 +52,12 @@ record:
   title: 4 Developer Workflow changes in v2.1.314
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-27-3-developer-workflow-changes-in-rust-v0-165-0|3
-  Developer Workflow changes in rust-v0.165.0]]'
 - '[[Changes/OpenHands/2026-10-27-chore-bump-shell-quote-and-dompurify-dependencies-by-devinvinson-in-https-github|chore:
   bump shell-quote and DOMPurify dependencies]]'
 - '[[Changes/Codex CLI/2026-10-29-10-developer-workflow-changes-in-rust-v0-166-0|10
   Developer Workflow changes in rust-v0.166.0]]'
+- '[[Changes/Open WebUI/2026-10-29-35-developer-workflow-changes-in-v0-12-5|35 Developer
+  Workflow changes in v0.12.5]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-30-v2-1-314-github-428518421-b7ac83d7|claude-code-2026-10-30-v2-1-314-github-428518421-b7ac83d7]]'
 source_type: github_releases
 theme: developer-workflow
@@ -103,7 +103,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.314
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-10-29 · Codex CLI · [[Changes/Codex CLI/2026-10-29-10-developer-workflow-changes-in-rust-v0-166-0|10 Developer Workflow changes in rust-v0.166.0]]
+- Earlier: 2026-10-29 · Open WebUI · [[Changes/Open WebUI/2026-10-29-35-developer-workflow-changes-in-v0-12-5|35 Developer Workflow changes in v0.12.5]]
 - Later: 2026-10-31 · Claude Code · [[Changes/Claude Code/2026-10-31-2-developer-workflow-changes-in-v2-1-316|2 Developer Workflow changes in v2.1.316]]
 <!-- chronolog:end -->
 

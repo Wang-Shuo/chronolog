@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 183b0b5a321ccad3581aa742072a2fea5e9cc5ab2a30b17bfbc30d4c0da1dbed
+machine_hash: 6c44accb38fc9d7f614703a14457d8d76e629b584977ed4e173586c6ffd8d0d8
 product: aider
 product_name: Aider
 record:
@@ -44,12 +44,12 @@ record:
   title: 2 Context Window changes in v0.83.0
   type: change
 related_changes:
-- '[[Changes/Cline/2025-04-14-2-context-window-changes-in-v3-12-2|2 Context Window
-  changes in v3.12.2]]'
-- '[[Changes/Cursor/2025-04-15-automated-and-improved-rules-15afc6|Automated and improved
-  rules]]'
 - '[[Changes/Cursor/2025-04-15-project-structure-in-context-beta|Project structure
   in context (Beta)]]'
+- '[[Changes/Ollama/2025-04-17-ibm-granite-3-3-https-ollama-com-library-granite3-3-2b-and-8b-models-with-128k-c|IBM
+  Granite 3.3((source link)]]'
+- '[[Changes/Ollama/2025-04-26-increased-default-context-window-to-4096-tokens|Increased
+  default context window to 4096 tokens]]'
 source_release: '[[Releases/Aider/aider-2025-05-09-v0-83-0-github-217725361-c9b2b84c|aider-2025-05-09-v0-83-0-github-217725361-c9b2b84c]]'
 source_type: github_releases
 theme: context-window
@@ -86,7 +86,7 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.83.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2025-04-15 · Cursor · [[Changes/Cursor/2025-04-15-project-structure-in-context-beta|Project structure in context (Beta)]]
+- Earlier: 2025-04-26 · Ollama · [[Changes/Ollama/2025-04-26-increased-default-context-window-to-4096-tokens|Increased default context window to 4096 tokens]]
 - Later: 2025-05-15 · Cursor · [[Changes/Cursor/2025-05-15-include-your-entire-codebase-in-context|Include your entire codebase in context]]
 <!-- chronolog:end -->
 

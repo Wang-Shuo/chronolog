@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3f912fa368e40b44da2543ce20caf87e44b69150358f449159a40e2e5ec7b82a
+machine_hash: 22a7560129b07552a3bd6021250eb525d7b603c41b50bcd8d594932527d0305c
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,12 +43,12 @@ record:
     and open on click
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-19-4-memory-and-personalization-changes-in-rust-v0-116-0|4
-  Memory and Personalization changes in rust-v0.116.0]]'
-- '[[Changes/Gemini CLI/2026-03-24-refactor-core-align-jit-memory-placement-with-tiered-context-model-by-sandytao52|refactor(core):
-  align JIT memory placement with tiered context model]]'
+- '[[Changes/Open WebUI/2026-03-25-4-memory-and-personalization-changes-in-v0-8-11|4
+  Memory and Personalization changes in v0.8.11]]'
 - '[[Changes/Codex CLI/2026-03-26-15175-chore-morpheus-does-not-generate-memories-jif-oai|♯15175
   chore: morpheus does not generate memories @jif-oai]]'
+- '[[Changes/Gemini/2026-03-26-make-the-switch-seamlessly-bring-your-ai-memories-and-chat-history-to-gemini|Make
+  the switch: Seamlessly bring your AI memories and chat history to Gemini]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-27-v2-1-86-github-302569462-d6b30859|claude-code-2026-03-27-v2-1-86-github-302569462-d6b30859]]'
 source_type: github_releases
 theme: memory
@@ -85,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2026-03-26 · Codex CLI · [[Changes/Codex CLI/2026-03-26-15175-chore-morpheus-does-not-generate-memories-jif-oai|♯15175 chore: morpheus does not generate memories @jif-oai]]
+- Earlier: 2026-03-26 · Gemini · [[Changes/Gemini/2026-03-26-make-the-switch-seamlessly-bring-your-ai-memories-and-chat-history-to-gemini|Make the switch: Seamlessly bring your AI memories and chat history to Gemini]]
 - Later: 2026-04-01 · Gemini CLI · [[Changes/Gemini CLI/2026-04-01-3-memory-and-personalization-changes-in-v0-36-0|3 Memory and Personalization changes in v0.36.0]]
 <!-- chronolog:end -->
 

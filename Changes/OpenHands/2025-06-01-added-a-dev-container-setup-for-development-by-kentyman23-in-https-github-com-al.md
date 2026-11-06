@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0af417993275b14d4b6938bcd8aba88e798d067b3ebd4d4a05af724624f6a5ad
+machine_hash: 71cb31ba8ddd1966f8a8158dd5b33e79268be63e3946a95ac1528e8db2b0fc8c
 product: openhands
 product_name: OpenHands
 record:
@@ -40,12 +40,12 @@ record:
   title: Added a dev container setup for development
   type: change
 related_changes:
-- '[[Changes/Cline/2025-05-03-2-developer-workflow-changes-in-v3-14-0|2 Developer
-  Workflow changes in v3.14.0]]'
-- '[[Changes/Aider/2025-05-09-5-developer-workflow-changes-in-v0-83-0|5 Developer
-  Workflow changes in v0.83.0]]'
 - '[[Changes/Cline/2025-05-10-add-ability-to-generate-commit-message-via-cline-thanks-zapp88|Add
   ability to generate commit message via cline (Thanks zapp88!)]]'
+- "[[Changes/Open WebUI/2025-05-19-preview-button-for-code-artifacts-instantly-jump-from-an-html-code-block-to-its|\U0001F4DD
+  Preview Button for Code Artifacts]]"
+- '[[Changes/Dify/2025-05-27-2-developer-workflow-changes-in-1-4-1|2 Developer Workflow
+  changes in 1.4.1]]'
 source_release: '[[Releases/OpenHands/openhands-2025-06-01-0-40-0-github-222298073-991c1bbb|openhands-2025-06-01-0-40-0-github-222298073-991c1bbb]]'
 source_type: github_releases
 theme: developer-workflow
@@ -75,7 +75,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2025-05-10 · Cline · [[Changes/Cline/2025-05-10-add-ability-to-generate-commit-message-via-cline-thanks-zapp88|Add ability to generate commit message via cline (Thanks zapp88!)]]
+- Earlier: 2025-05-27 · Dify · [[Changes/Dify/2025-05-27-2-developer-workflow-changes-in-1-4-1|2 Developer Workflow changes in 1.4.1]]
 - Later: 2025-06-04 · Cursor · [[Changes/Cursor/2025-06-04-automatic-code-review-with-bugbot-19b552|Automatic code review with Bugbot]]
 <!-- chronolog:end -->
 

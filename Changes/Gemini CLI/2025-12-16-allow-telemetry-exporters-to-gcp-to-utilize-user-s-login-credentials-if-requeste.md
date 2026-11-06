@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b66bec845f4b4754d492a4521d02e8251a9dc1fd831e9ef9ecbba310439485b2
+machine_hash: 322924b929940d2e1b9b4f60da26194c75fdcdd2b9afabd89c8019ebbbdb72e7
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -43,10 +43,10 @@ record:
     requested
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-12-10-2-account-and-access-changes-in-rust-v0-69-0|2 Account
-  and Access changes in rust-v0.69.0]]'
 - '[[Changes/Cline/2025-12-11-add-loaders-to-login-buttons-by-barreirot-in-https-github-com-cline-cline-pull-7|Add
   loaders to login buttons]]'
+- '[[Changes/Dify/2025-12-11-feat-unify-environment-variables-for-database-connection-and-authentication-by-b|feat:
+  Unify environment variables for database connection and authentication]]'
 - '[[Changes/Windsurf/2025-12-12-request-all-supported-scopes-if-no-scopes-are-provided-in-mcp-oauth-config|Request
   all supported scopes if no scopes are provided in MCP OAuth config]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-12-16-v0-21-0-github-270848833-3e3b19fe|gemini-cli-2025-12-16-v0-21-0-github-270848833-3e3b19fe]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 22b80748b0856cd6a20d864899e9433c5f3dafa2d6bba77e74bf0933e97138d7
+machine_hash: 8ccf444afc9d4dd387b08aa3153caa770bccd3ee197b9384707422122c152356
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -43,8 +43,8 @@ record:
   title: Thinking – deeper reasoning for more complex tasks
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-16-model-can-discover-and-use-tools-dynamically-with-tool-search-for-claude-models|Model
-  can discover and use tools dynamically with tool search for Claude models]]'
+- '[[Changes/Lovable/2026-03-16-nano-banana-2-gemini-3-1-flash-image-support|Nano
+  Banana 2 (Gemini 3.1 Flash Image) support]]'
 - '[[Changes/ChatGPT/2026-03-17-instant-fast-responses-for-everyday-questions|Instant
   – fast responses for everyday questions]]'
 - '[[Changes/ChatGPT/2026-03-17-pro-the-most-advanced-reasoning-models|Pro – the most
@@ -79,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-03-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-16-model-can-discover-and-use-tools-dynamically-with-tool-search-for-claude-models|Model can discover and use tools dynamically with tool search for Claude models]]
+- Earlier: 2026-03-16 · Lovable · [[Changes/Lovable/2026-03-16-nano-banana-2-gemini-3-1-flash-image-support|Nano Banana 2 (Gemini 3.1 Flash Image) support]]
 - Later: 2026-03-17 · Claude Code · [[Changes/Claude Code/2026-03-17-increased-default-maximum-output-token-limits-for-claude-opus-4-6-to-64k-tokens|Increased default maximum output token limits for Claude Opus 4.6 to 64k tokens…]]
 <!-- chronolog:end -->
 

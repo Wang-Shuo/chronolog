@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: cc4aff1c364f2f2702d9cc2ec9f27b5b8ae4236d39621eff3231e3e5e48df930
+machine_hash: 6ac5c7ddddb6755429ad68d10289b688de9dfbabe020f91d432b88603e2140fe
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,8 +44,7 @@ record:
   title: Add Claude Sonnet 5 as a supported model
   type: change
 related_changes:
-- '[[Changes/Cline/2026-06-29-4-model-support-changes-in-v4-0-2|4 Model Support changes
-  in v4.0.2]]'
+- '[[Changes/Claude/2026-06-30-claude-sonnet-5-launch|Claude Sonnet 5 launch]]'
 - '[[Changes/Claude Code/2026-06-30-introducing-claude-sonnet-5-now-the-default-model-in-claude-code-with-a-native-1|Introducing
   Claude Sonnet 5]]'
 - '[[Changes/Cline/2026-06-30-add-support-for-claude-sonnet-5-across-the-anthropic-bedrock-vertex-claude-code|Add

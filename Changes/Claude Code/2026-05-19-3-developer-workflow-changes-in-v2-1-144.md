@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6f00cc2fb620daf1c66050379d59aa1c2e76399df78a211ce0076281e694bd25
+machine_hash: 6701193cc3b5d11d3ba2f574a7b8ee0b241705e40f48ac3bb84f3852b8dd7ac3
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,8 +47,8 @@ record:
   title: 3 Developer Workflow changes in v2.1.144
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-15-2-developer-workflow-changes-in-v2-1-143|2 Developer
-  Workflow changes in v2.1.143]]'
+- '[[Changes/v0/2026-05-15-bash-terminal-output-no-longer-flashes-empty-rows-while-commands-are-running|Bash
+  terminal output no longer flashes empty rows while commands are running]]'
 - '[[Changes/Windsurf/2026-05-16-2-developer-workflow-changes-in-v2-3-9|2 Developer
   Workflow changes in v2.3.9]]'
 - '[[Changes/Codex CLI/2026-05-18-12-developer-workflow-changes-in-rust-v0-131-0|12

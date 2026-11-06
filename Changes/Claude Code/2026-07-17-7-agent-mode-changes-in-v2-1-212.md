@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 572e349911ae0e7faaf6e458d0f58494adca86dc4856ce26d95b77ffc65c2c67
+machine_hash: a858793e1596cbc3629e119a0d154b8e9ca6df5da118e5b2e5332677fabb3a96
 product: claude-code
 product_name: Claude Code
 record:
@@ -61,10 +61,10 @@ record:
   title: 7 Agent Mode changes in v2.1.212
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-14-3-agent-mode-changes-in-v2-1-210|3 Agent Mode
-  changes in v2.1.210]]'
 - '[[Changes/Claude Code/2026-07-15-2-agent-mode-changes-in-v2-1-211|2 Agent Mode
   changes in v2.1.211]]'
+- '[[Changes/Lovable/2026-07-15-let-ai-assistants-use-your-published-app|Let AI assistants
+  use your published app]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-16-8-agent-mode-changes-in-v1-0-71|8 Agent
   Mode changes in v1.0.71]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-17-v2-1-212-github-355310036-d94b4e11|claude-code-2026-07-17-v2-1-212-github-355310036-d94b4e11]]'
@@ -117,7 +117,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.212
 ## Nearby in Agent Mode
 
 - Earlier: 2026-07-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-16-8-agent-mode-changes-in-v1-0-71|8 Agent Mode changes in v1.0.71]]
-- Later: 2026-07-18 · Claude Code · [[Changes/Claude Code/2026-07-18-added-reasoning-effort-to-the-subagentstatusline-payload-so-custom-agent-rows-ca|Added reasoning effort to the subagentStatusLine payload, so custom agent rows can…]]
+- Later: 2026-07-17 · Dify · [[Changes/Dify/2026-07-17-64-agent-mode-changes-in-1-16-0|64 Agent Mode changes in 1.16.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3527e9b2cd55bb823f003ba586d8c70f4b0e4ede071202b1c22c95b77584ca25
+machine_hash: d89fc8c9fb2617460125808f3d2a8ee465f26cb41b4f95d983f5f848b4a5749b
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -89,7 +89,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.5.3
 ## Nearby in Context Window
 
 - Earlier: 2025-09-15 · Codex CLI · [[Changes/Codex CLI/2025-09-15-3-context-window-changes-in-rust-v0-36-0|3 Context Window changes in rust-v0.36.0]]
-- Later: 2025-09-18 · Cline · [[Changes/Cline/2025-09-18-pass-max-tokens-to-moonshot-provider-by-canvrno-in-https-github-com-cline-cline|Pass max_tokens to moonshot provider]]
+- Later: 2025-09-17 · Open WebUI · [[Changes/Open WebUI/2025-09-17-2-context-window-changes-in-v0-6-29|2 Context Window changes in v0.6.29]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

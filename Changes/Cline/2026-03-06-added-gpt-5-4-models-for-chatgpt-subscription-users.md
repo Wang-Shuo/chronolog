@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 316cd0b08ab283aefc59284f9a033084ee447e65a674cbb22b31f80fc5a7f128
+machine_hash: df84336879da1ce6c273fe0c8b62e690e7770b0829ee630369929b04036037fc
 product: cline
 product_name: Cline
 record:
@@ -51,12 +51,12 @@ record:
   title: Added GPT-5.4 models for ChatGPT subscription users
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-05-changed-sonnet-4-5-users-on-pro-max-team-premium-to-be-automatically-migrated-to|Changed
-  Sonnet 4.5 users on Pro/Max/Team Premium to be automatically migrated…]]'
 - '[[Changes/Codex CLI/2026-03-05-2-model-support-changes-in-rust-v0-110-0|2 Model
   Support changes in rust-v0.110.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-05-add-support-for-gpt-5-4-model|Add support
   for GPT-5.4 model]]'
+- '[[Changes/Ollama/2026-03-05-allow-thinking-levels-such-as-medium-to-correctly-interpreted-in-ollama-s-api-fo|Allow
+  thinking levels such as "medium" to correctly interpreted in Ollama''s API…]]'
 source_release: '[[Releases/Cline/cline-2026-03-06-v3-71-0-github-294051339-3a3148c3|cline-2026-03-06-v3-71-0-github-294051339-3a3148c3]]'
 source_type: github_releases
 theme: model-support
@@ -86,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-03-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-05-add-support-for-gpt-5-4-model|Add support for GPT-5.4 model]]
+- Earlier: 2026-03-05 · Ollama · [[Changes/Ollama/2026-03-05-allow-thinking-levels-such-as-medium-to-correctly-interpreted-in-ollama-s-api-fo|Allow thinking levels such as "medium" to correctly interpreted in Ollama's API…]]
 - Later: 2026-03-08 · Codex CLI · [[Changes/Codex CLI/2026-03-08-13617-update-models-json-aibrahim-oai|♯13617 Update models.json @aibrahim-oai]]
 <!-- chronolog:end -->
 

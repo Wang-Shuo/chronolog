@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2253d4fb2d03667a54edefd9c0b17f08b2dc3a20f482c1fbeffce875a7237cde
+machine_hash: 4bca50971b558fb957cb228e92ce0a729e586abc9e810097c09393328ebe1c39
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -112,7 +112,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.154.0
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-09-08 · Windsurf · [[Changes/Windsurf/2026-09-08-devin-desktop|Devin Desktop]]
-- Later: 2026-09-10 · Windsurf · [[Changes/Windsurf/2026-09-10-introducing-fusion-in-devin-desktop-and-devin-cli-https-exafunction-github-io-pu|!Introducing Fusion in Devin Desktop and Devin…]]
+- Later: 2026-09-10 · Dify · [[Changes/Dify/2026-09-10-skill-packages-built-on-windows-failed-with-a-misleading-error-a-skill-md-using|Skill packages built on Windows failed with a misleading error. A SKILL.md…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

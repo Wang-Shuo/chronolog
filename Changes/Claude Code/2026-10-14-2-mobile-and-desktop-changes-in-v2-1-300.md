@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9a16ef2143dfee404ce07cd8bc067e7851fbf5867c8b0fe7561334f9215150ca
+machine_hash: a2badfd4bc919b5fd2a49bf737dd09648b0dcf033f3d21f163ed3530ea94ac04
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,11 +46,11 @@ record:
   title: 2 Mobile and Desktop changes in v2.1.300
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-08-changed-the-claude-apps-gateway-to-start-with-a-warning-and-serve-a-desktop-poli|Changed
-  the Claude apps gateway to start with a warning and serve a desktop policy…]]'
-- '[[Changes/Codex CLI/2026-10-08-50384-allow-opting-into-16-kib-arm64-code-pages-for-macos-signing-chess-oai|♯50384
-  Allow opting into 16 KiB ARM64 code pages for macOS signing @chess-oai]]'
+- '[[Changes/Open WebUI/2026-10-10-3-mobile-and-desktop-changes-in-v0-12-0|3 Mobile
+  and Desktop changes in v0.12.0]]'
 - '[[Changes/Windsurf/2026-10-12-devin-desktop|Devin Desktop]]'
+- '[[Changes/Gemini/2026-10-13-code-prototype-and-build-with-google-antigravity-in-the-gemini-macos-app|Code,
+  prototype, and build with Google Antigravity in the Gemini macOS app]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-14-v2-1-300-github-412815061-c358fcd0|claude-code-2026-10-14-v2-1-300-github-412815061-c358fcd0]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -94,7 +94,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.300
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-10-12 · Windsurf · [[Changes/Windsurf/2026-10-12-devin-desktop|Devin Desktop]]
+- Earlier: 2026-10-13 · Gemini · [[Changes/Gemini/2026-10-13-code-prototype-and-build-with-google-antigravity-in-the-gemini-macos-app|Code, prototype, and build with Google Antigravity in the Gemini macOS app]]
 - Later: 2026-10-15 · Claude Code · [[Changes/Claude Code/2026-10-15-improved-artifacts-pages-claude-writes-now-paint-the-band-above-a-sticky-header|Improved artifacts: pages Claude writes now paint the band above a sticky header…]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: caa0f6df9d0a6050a1bce590394890b0a25a61517b9d80c1df3d37296c4e5590
+machine_hash: d242cb966e3036bb8c99d21f49efe74aaaf2d5f8711798592d2e0e48eb5e8ea1
 product: aider
 product_name: Aider
 record:
@@ -52,12 +52,12 @@ record:
   title: New settings for completion menu colors
   type: change
 related_changes:
-- '[[Changes/OpenHands/2024-08-23-correct-list-rendering-for-chat-window-by-sb-git-cloud-in-https-github-com-all-h|Correct
-  list rendering for chat window]]'
-- '[[Changes/Aider/2024-08-28-performance-improvements-for-autocomplete-in-large-mono-repos|Performance
-  improvements for autocomplete in large/mono repos]]'
-- '[[Changes/OpenHands/2024-09-04-codeactagent-recovers-upon-a-llm-completion-exception-by-shubhamofbce-in-https-g|CodeActAgent
-  recovers upon a llm completion exception]]'
+- '[[Changes/Open WebUI/2024-09-24-2-interface-experience-changes-in-v0-3-24|2 Interface
+  Experience changes in v0.3.24]]'
+- "[[Changes/Open WebUI/2024-09-24-enhanced-latex-rendering-improved-rendering-for-latex-content-enhancing-clarity|\U0001F4CA
+  Enhanced LaTeX Rendering]]"
+- "[[Changes/Open WebUI/2024-09-25-katex-rendering-improvement-resolved-specific-corner-cases-in-katex-rendering-to|\U0001F527
+  KaTeX Rendering Improvement]]"
 source_release: '[[Releases/Aider/aider-2024-09-29-v0-58-0-github-177475417-38cf7d0f|aider-2024-09-29-v0-58-0-github-177475417-38cf7d0f]]'
 source_type: github_releases
 theme: interface-experience
@@ -89,8 +89,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2024-09-04 · OpenHands · [[Changes/OpenHands/2024-09-04-codeactagent-recovers-upon-a-llm-completion-exception-by-shubhamofbce-in-https-g|CodeActAgent recovers upon a llm completion exception]]
-- Later: 2024-11-21 · Aider · [[Changes/Aider/2024-11-21-improved-model-settings-configuration-https-aider-chat-docs-config-adv-model-set|Improved model settings…]]
+- Earlier: 2024-09-25 · Open WebUI · [[Changes/Open WebUI/2024-09-25-katex-rendering-improvement-resolved-specific-corner-cases-in-katex-rendering-to|🔧 KaTeX Rendering Improvement]]
+- Later: 2024-10-24 · Open WebUI · [[Changes/Open WebUI/2024-10-24-3-interface-experience-changes-in-v0-3-33|3 Interface Experience changes in v0.3.33]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5a3170e15f9f418d9ce581ab4860842ab398852bab184e9ba4b36fe2ba6b9848
+machine_hash: 060fc4a594cbe14804b49a1d7948d6634ad018a6e2fa75f22d73b913cff346e2
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,8 +45,7 @@ record:
   title: 2 Agent Mode changes in v1.0.4
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-05-automatic-notifications-when-background-shell-commands-and-agents-complete|Automatic
-  notifications when background shell commands and agents complete]]'
+- '[[Changes/ElevenLabs/2026-03-09-javascript-sdk|JavaScript SDK]]'
 - '[[Changes/Claude Code/2026-03-10-2-agent-mode-changes-in-v2-1-72|2 Agent Mode changes
   in v2.1.72]]'
 - '[[Changes/Gemini CLI/2026-03-11-6-agent-mode-changes-in-v0-33-0|6 Agent Mode changes

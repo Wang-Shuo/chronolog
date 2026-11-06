@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5bc82de2c7ec044771bd2c6cbdf1adfe41e59109cdf72b2f51da2e4f95d6da46
+machine_hash: ac2fd68a0a638dc0368966be1efd7db7b5ae3d9f49e96a846fd0e0cfe7c68691
 product: aider
 product_name: Aider
 record:
@@ -41,11 +41,12 @@ record:
   title: Increased max chat history tokens limit from 4k to 8k
   type: change
 related_changes:
-- '[[Changes/Aider/2024-12-10-new-copy-context-command|New /copy-context command]]'
-- '[[Changes/Aider/2024-12-13-copy-context-instructions-now-takes-optional-instructions-when-copying-code-cont|/copy-context
-  instructions now takes optional "instructions" when copying code…]]'
-- '[[Changes/Cline/2024-12-18-you-can-now-specify-custom-instructions-for-your-project-by-adding-a-root-level|Specify
-  custom instructions for your project by adding a root-level .clinerules file]]'
+- '[[Changes/Gemini/2024-12-19-priority-access-with-gemini-advanced-upload-your-code-repository|Priority
+  access with Gemini Advanced: Upload your code repository]]'
+- '[[Changes/Dify/2025-01-07-added-cheaper-and-long-context-models-for-qwen2-5-72b-instruct-and-a-variety-of|Added
+  cheaper and long context models for Qwen2.5-72B-Instruct, and a variety…]]'
+- '[[Changes/Ollama/2025-01-08-granite-3-1-moe-https-ollama-com-library-granite3-1-moe-1b-and-3b-long-context-m|Granite
+  3.1 MoE((source link)]]'
 source_release: '[[Releases/Aider/aider-2025-01-10-v0-71-0-github-194204140-359c53f2|aider-2025-01-10-v0-71-0-github-194204140-359c53f2]]'
 source_type: github_releases
 theme: context-window
@@ -79,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2024-12-18 · Cline · [[Changes/Cline/2024-12-18-you-can-now-specify-custom-instructions-for-your-project-by-adding-a-root-level|Specify custom instructions for your project by adding a root-level .clinerules file]]
+- Earlier: 2025-01-08 · Ollama · [[Changes/Ollama/2025-01-08-granite-3-1-moe-https-ollama-com-library-granite3-1-moe-1b-and-3b-long-context-m|Granite 3.1 MoE((source link)]]
 - Later: 2025-01-23 · Cursor · [[Changes/Cursor/2025-01-23-fusion-model-we-ve-trained-a-new-tab-model-that-is-substantially-better-at-jumps|Fusion Model: We've trained a new Tab Model that is substantially better at jumps…]]
 <!-- chronolog:end -->
 

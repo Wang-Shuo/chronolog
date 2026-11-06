@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 54e7c00cf7b17a101eeb9c1be6b0fd943dfdc536febeb8ad6ddd3def79a91446
+machine_hash: 73ec4df0613268df250d275eb0266cfaa9d95d7cff1139015065c7d80b6bda62
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -118,12 +118,12 @@ record:
   title: 37 Apps and Integrations changes in rust-v0.128.0
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-04-28-2-apps-and-integrations-changes-in-v0-40-0|2 Apps
-  and Integrations changes in v0.40.0]]'
 - '[[Changes/Cursor/2026-04-29-we-re-introducing-the-cursor-sdk-so-you-can-build-agents-with-the-same-runtime-h|Cursor
   introduces the Cursor SDK so you can build agents with the same runtime…]]'
 - '[[Changes/Cursor/2026-04-29-run-npm-install-cursor-sdk-to-get-started-you-can-also-use-cursor-s-native-sdk-s-76fb76|Run
   npm install @cursor/sdk to get started]]'
+- '[[Changes/Dify/2026-04-29-48-apps-and-integrations-changes-in-1-14-0|48 Apps and
+  Integrations changes in 1.14.0]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-04-30-rust-v0-128-0-github-315916672-1708ab89|codex-cli-2026-04-30-rust-v0-128-0-github-315916672-1708ab89]]'
 source_type: github_releases
 theme: apps-integrations
@@ -238,7 +238,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.128.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-04-29 · Cursor · [[Changes/Cursor/2026-04-29-run-npm-install-cursor-sdk-to-get-started-you-can-also-use-cursor-s-native-sdk-s-76fb76|Run npm install @cursor/sdk to get started]]
+- Earlier: 2026-04-29 · Dify · [[Changes/Dify/2026-04-29-48-apps-and-integrations-changes-in-1-14-0|48 Apps and Integrations changes in 1.14.0]]
 - Later: 2026-05-01 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-01-6-apps-and-integrations-changes-in-v1-0-40|6 Apps and Integrations changes in v1.0.40]]
 <!-- chronolog:end -->
 

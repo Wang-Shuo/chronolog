@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 778a4e1243a673707b63015374f6cbdf27c25f441b41c8d911728e6b3f9de360
+machine_hash: 7ba8c40cd82caa54ed05086f0784cf11c728be531bf36d02c14aa7c525b92369
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,10 +43,9 @@ record:
   title: Added `plansDirectory` setting to customize where plan files are stored
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-01-14-2-agent-mode-changes-in-rust-v0-81-0|2 Agent Mode
-  changes in rust-v0.81.0]]'
 - '[[Changes/Gemini CLI/2026-01-14-10-agent-mode-changes-in-v0-24-0|10 Agent Mode
   changes in v0.24.0]]'
+- '[[Changes/v0/2026-01-14-improved-agent-error-handling|Improved agent error handling]]'
 - '[[Changes/Codex CLI/2026-01-15-9275-feat-add-agent-roles-to-collab-tools-jif-oai|♯9275
   feat: add agent roles to collab tools @jif-oai]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-16-v2-1-9-github-277250534-9563859d|claude-code-2026-01-16-v2-1-9-github-277250534-9563859d]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 769a51d4f01900c3efa89127774d8d7201d3f64cbc607defa92fcf4e26c06633
+machine_hash: a465e27c9a36e2f2f614e183ad4c0d62a4caef056570af415aca95d5b93c686a
 product: cursor
 product_name: Cursor
 record:
@@ -41,10 +41,9 @@ record:
   title: Windows notifications now have accept/reject buttons like MacOS
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-01-14-2-mobile-and-desktop-changes-in-rust-v0-81-0|2 Mobile
-  and Desktop changes in rust-v0.81.0]]'
-- '[[Changes/Codex CLI/2026-01-15-reduce-flaky-rust-release-pipelines-notably-on-windows-by-increasing-the-release|Reduce
-  flaky Rust release pipelines (notably on Windows) by increasing the release…]]'
+- '[[Changes/Claude/2026-01-16-cowork-research-preview-expanded-to-pro-plans|Cowork
+  research preview expanded to Pro plans]]'
+- '[[Changes/Replit/2026-01-16-mobile-apps-on-replit|Mobile Apps on Replit]]'
 - '[[Changes/Codex CLI/2026-01-21-8590-fix-core-require-approval-for-force-delete-on-windows-hdcodedev|♯8590
   fix(core): require approval for force delete on Windows @hdcodedev]]'
 source_release: '[[Releases/Cursor/cursor-2026-01-22-2-4-https-cursor-com-changelog-2-4-a10c8f03|cursor-2026-01-22-2-4-https-cursor-com-changelog-2-4-a10c8f03]]'

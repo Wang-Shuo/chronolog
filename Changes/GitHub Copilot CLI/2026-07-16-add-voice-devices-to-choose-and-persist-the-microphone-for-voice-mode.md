@@ -4,20 +4,20 @@ date: '2026-07-16'
 description: 'GitHub Copilot CLI · 2026-07-16 · Voice and Audio: Add /voice devices
   to choose and persist the microphone for voice mode'
 diffusion:
-  first_in_tracked: '[[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source
-    link) support, which allows you…]]'
+  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
+    Voice and Audio changes in 0.3.7]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1070
+  lag_days: 1102
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f3542e2562ce320727829d6920419d3736b3e75afb7676a6e7f090e2603821ef
+machine_hash: 87bd8ebed2acfebf68086e2835dbb3279470eab2f158f1225ece6ae2c3e4b10c
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -41,8 +41,7 @@ record:
   title: Add /voice devices to choose and persist the microphone for voice mode
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-30-voice-mode-turns-itself-off-when-the-engine-fails-to-start-at-boot|Voice
-  mode turns itself off when the engine fails to start at boot]]'
+- '[[Changes/ElevenLabs/2026-07-06-workspaces-9376f0|Workspaces]]'
 - '[[Changes/ChatGPT/2026-07-08-we-re-rolling-out-a-new-chatgpt-voice-experience-chatgpt-voice-is-now-powered-by|Introducing
   GPT-Live-1 in ChatGPT Voice]]'
 - '[[Changes/ChatGPT/2026-07-13-chatgpt-is-available-again-on-whatsapp-in-the-european-economic-area-eea-you-can-f60c71|ChatGPT
@@ -90,13 +89,13 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2026-07-13 · ChatGPT · [[Changes/ChatGPT/2026-07-13-chatgpt-is-available-again-on-whatsapp-in-the-european-economic-area-eea-you-can-f60c71|ChatGPT returns to WhatsApp in the EEA]]
-- Later: 2026-07-21 · Codex CLI · [[Changes/Codex CLI/2026-07-21-7-voice-and-audio-changes-in-rust-v0-145-0|7 Voice and Audio changes in rust-v0.145.0]]
+- Later: 2026-07-17 · Dify · [[Changes/Dify/2026-07-17-3-voice-and-audio-changes-in-1-16-0|3 Voice and Audio changes in 1.16.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-08-11 · Aider · [[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source link) support, which allows you…]]
+- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

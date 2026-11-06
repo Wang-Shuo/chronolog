@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: aa26c87f7bc65b9d7b18e701a32fd2cb2197c98bd798aa9054feb96b5abbaf46
+machine_hash: 9d20806486676f835dbcfc0b7c70754fa56516fc014cd39edc90db824e97321f
 product: cursor
 product_name: Cursor
 record:
@@ -47,10 +47,10 @@ record:
   title: 'Bundled ripgrep: Local shell runs use the bundled platform rg binary without…'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-28-clipboard-correctly-copies-cjk-and-supplementary-plane-unicode-characters-on-win|Clipboard
-  correctly copies CJK and supplementary-plane Unicode characters on Windows]]'
 - '[[Changes/Windsurf/2026-06-02-windsurf-is-now-devin-desktop-https-devin-ai-blog-windsurf-is-now-devin-desktop|Windsurf
   is now Devin Desktop((source link)]]'
+- '[[Changes/Ollama/2026-06-03-added-hermes-desktop-configuration-docs|Added Hermes
+  Desktop configuration docs]]'
 - '[[Changes/Codex CLI/2026-06-04-2-mobile-and-desktop-changes-in-rust-v0-137-0|2
   Mobile and Desktop changes in rust-v0.137.0]]'
 source_release: '[[Releases/Cursor/cursor-2026-06-04-custom-stores-custom-tools-and-auto-review-for-the-cursor-sdk-ht-612f6856|cursor-2026-06-04-custom-stores-custom-tools-and-auto-review-for-the-cursor-sdk-ht-612f6856]]'
@@ -93,7 +93,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-06-04 · Codex CLI · [[Changes/Codex CLI/2026-06-04-2-mobile-and-desktop-changes-in-rust-v0-137-0|2 Mobile and Desktop changes in rust-v0.137.0]]
-- Later: 2026-06-04 · Windsurf · [[Changes/Windsurf/2026-06-04-added-a-new-command-for-devin-desktop-to-rerun-the-migration-from-windsurf-this|Added a new command for Devin Desktop to rerun the migration from Windsurf]]
+- Later: 2026-06-04 · Ollama · [[Changes/Ollama/2026-06-04-ollama-launch-hermes-desktop-now-launches-hermes-desktop-and-can-skip-rebuilding|ollama launch hermes-desktop now launches Hermes Desktop and can skip rebuilding…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d989b790e314860635ee7387a303a2104e04e5b42f5e73ccc10817909ed31e81
+machine_hash: fe476b50e62795b9a11aa0759961725c8a04189e87eb427a39f332d1e007f5d5
 product: cline
 product_name: Cline
 record:
@@ -55,10 +55,10 @@ record:
     and it no…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-22-updated-the-claude-api-skill-service-account-keys-and-workload-identity-federati|Updated
-  the /claude-api skill]]'
-- '[[Changes/Codex CLI/2026-10-23-18-context-window-changes-in-rust-v0-164-0|18 Context
-  Window changes in rust-v0.164.0]]'
+- '[[Changes/Ollama/2026-10-23-nemotron-3-5-bolt-e4b-https-ollama-com-library-nemotron-3-5-bolt-is-nvidia-s-sma|Nemotron
+  3.5 Bolt E4B((source link) is NVIDIA’s…]]'
+- '[[Changes/Open WebUI/2026-10-25-4-context-window-changes-in-v0-12-4|4 Context Window
+  changes in v0.12.4]]'
 - '[[Changes/Claude Code/2026-10-26-2-context-window-changes-in-v2-1-311|2 Context
   Window changes in v2.1.311]]'
 source_release: '[[Releases/Cline/cline-2026-10-26-v4-1-26-github-424033561-1dc8e551|cline-2026-10-26-v4-1-26-github-424033561-1dc8e551]]'

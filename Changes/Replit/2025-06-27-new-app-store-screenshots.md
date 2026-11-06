@@ -1,0 +1,98 @@
+---
+card_id: replit-2025-06-27-d209bf
+date: '2025-06-27'
+description: 'Replit · 2025-06-27 · Mobile and Desktop: Check out our fresh new look
+  in the App Store and Google Play Store! Updated screenshots now showcase our latest…'
+diffusion:
+  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
+    and Linux support \U0001F973]]"
+  inference: No adoption, equivalence, or causation claim.
+  lag_days: 836
+  relation: same-theme-chronology
+  role: later-observed
+  scope: tracked-products-only
+  theme: mobile-desktop
+  tracked_products_count: 20
+evolves_from: []
+extractor_version: fallback-v5
+impact: significant
+kind: launch
+machine_hash: 745d0962a7ec4e10a65572da050823c996d47dfd39c0f81fcede11d4499007a9
+product: replit
+product_name: Replit
+record:
+  ai_generated: true
+  card_id: replit-2025-06-27-d209bf
+  comparison: ''
+  confidence: low
+  date: '2025-06-27'
+  description: 'Replit — Replit updates — 2025-06-27: Check out our fresh new look
+    in the App Store and Google Play Store! Updated screenshots now showcase our latest
+    features and improved iPad experience.'
+  evidence:
+  - quote: Check out our fresh new look in the App Store and Google Play Store! Updated
+      screenshots now showcase our latest features and improved iPad experience.
+    source_release: https://docs.replit.com/updates/2025/06/27/changelog
+  extractor_version: fallback-v5
+  impact: significant
+  kind: launch
+  product: replit
+  product_name: Replit
+  slug: new-app-store-screenshots
+  source_release: replit-2025-06-27-2025-06-27-b39448c0
+  source_type: replit_changelog
+  theme: mobile-desktop
+  title: New App Store screenshots
+  type: change
+related_changes:
+- '[[Changes/Lovable/2025-06-26-improvements|Improvements]]'
+- '[[Changes/Ollama/2025-06-27-5-mobile-and-desktop-changes-in-v0-9-4|5 Mobile and
+  Desktop changes in v0.9.4]]'
+- '[[Changes/Ollama/2025-06-27-a-new-version-of-ollama-s-macos-and-windows-applications-are-now-available-new-i|A
+  new version of Ollama''s macOS and Windows applications are now available]]'
+source_release: '[[Releases/Replit/replit-2025-06-27-2025-06-27-b39448c0|replit-2025-06-27-2025-06-27-b39448c0]]'
+source_type: replit_changelog
+theme: mobile-desktop
+title: New App Store screenshots
+type: change
+---
+
+<!-- chronolog:begin region="header" -->
+# New App Store screenshots
+
+**Replit** · 2025-06-27 · [[Themes/mobile-desktop|Mobile and Desktop]] · Launch · [Official source](https://docs.replit.com/updates/2025/06/27/changelog) · from [[Releases/Replit/replit-2025-06-27-2025-06-27-b39448c0|Replit updates — 2025-06-27]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="evidence" -->
+> Check out our fresh new look in the App Store and Google Play Store! Updated screenshots now showcase our latest features and improved iPad experience.
+>
+> Source: https://docs.replit.com/updates/2025/06/27/changelog
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Replit/2025-06-27-organization-suspension-from-ubb-services|Organization suspension from UBB services]] · Pricing Model
+- [[Changes/Replit/2025-06-27-teams-and-enterprise|Teams and Enterprise]] · Enterprise and Administration
+- [[Changes/Replit/2025-06-27-new-landing-page-for-viewer-seats|New landing page for viewer seats]] · Apps and Integrations
+- [[Changes/Replit/2025-06-27-agent-system-prompt-optimization|Agent system prompt optimization]] · Agent Mode
+- [[Changes/Replit/2025-06-27-new-app-creation-experience|New app creation experience]] · Agent Mode
+- [[Changes/Replit/2025-06-27-security-scanner-updates|Security scanner updates]] · Safety and Privacy
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Mobile and Desktop
+
+- Earlier: 2025-06-27 · Ollama · [[Changes/Ollama/2025-06-27-a-new-version-of-ollama-s-macos-and-windows-applications-are-now-available-new-i|A new version of Ollama's macOS and Windows applications are now available]]
+- Later: 2025-07-02 · Ollama · [[Changes/Ollama/2025-07-02-a-new-version-of-ollama-s-macos-and-windows-applications-are-now-available-new-i|A new version of Ollama's macOS and Windows applications are now available]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20replit-2025-06-27-d209bf&body=Card%3A%20Changes%2FReplit%2F2025-06-27-new-app-store-screenshots.md%0ACard%20ID%3A%20replit-2025-06-27-d209bf%0ASource%3A%20https%3A%2F%2Fdocs.replit.com%2Fupdates%2F2025%2F06%2F27%2Fchangelog%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

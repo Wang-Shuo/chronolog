@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: fd7be90585b8633efd94f3a075c25c1bb398d1dc1e32e0746a15967a7d6ba2d8
+machine_hash: b68c54bbcc595c2c0fc37c3f842789ababad6a6ad6fd5cf0b3ff994ee048b6ce
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -46,12 +46,12 @@ record:
     the shell…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-09-17-the-thinking-time-toggle-is-live-today-on-chatgpt-com-settings-you-choose-on-the|The
-  thinking-time toggle is live today on chatgpt.com]]'
 - '[[Changes/Cline/2025-10-01-2-mobile-and-desktop-changes-in-v3-32-6|2 Mobile and
   Desktop changes in v3.32.6]]'
 - '[[Changes/Codex CLI/2025-10-03-experimental-reduce-repetitive-approval-for-read-only-commands-on-windows-4269|(experimental)
   Reduce repetitive approval for read-only commands on Windows (♯4269)]]'
+- '[[Changes/Ollama/2025-10-03-macos-12-monterey-and-macos-13-ventura-are-no-longer-supported|macOS
+  12 Monterey and macOS 13 Ventura are no longer supported]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2025-10-07-v0-0-336-github-252854806-b7d3047f|github-copilot-cli-2025-10-07-v0-0-336-github-252854806-b7d3047f]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -85,8 +85,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2025-10-03 · Codex CLI · [[Changes/Codex CLI/2025-10-03-experimental-reduce-repetitive-approval-for-read-only-commands-on-windows-4269|(experimental) Reduce repetitive approval for read-only commands on Windows (♯4269)]]
-- Later: 2025-10-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-10-13-removed-the-windows-support-is-experimental-warning-we-ve-made-some-big-strides|Removed the "Windows support is experimental" warning -- we've made some big strides…]]
+- Earlier: 2025-10-03 · Ollama · [[Changes/Ollama/2025-10-03-macos-12-monterey-and-macos-13-ventura-are-no-longer-supported|macOS 12 Monterey and macOS 13 Ventura are no longer supported]]
+- Later: 2025-10-10 · Ollama · [[Changes/Ollama/2025-10-10-macos-12-monterey-and-macos-13-ventura-are-no-longer-supported|macOS 12 Monterey and macOS 13 Ventura are no longer supported]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

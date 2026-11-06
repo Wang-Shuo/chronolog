@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 09847911af77e7f6b62ba1cf4b8d89603028da9c0d4f0f2aefffa60d42771c25
+machine_hash: 0da12e70c84b21574ea95d910484f3c4f8089b4e52b05dc7380e4821dfd66439
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -52,11 +52,12 @@ record:
   title: 5 Developer Workflow changes in v0.21.0
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-12-10-debug-mode|Debug Mode]]'
-- '[[Changes/Cline/2025-12-11-6-developer-workflow-changes-in-v3-41-0|6 Developer
-  Workflow changes in v3.41.0]]'
+- '[[Changes/v0/2025-12-11-the-command-palette-now-searches-across-all-your-accessible-workspaces-not-just|Search
+  across all your scopes]]'
 - '[[Changes/Cline/2025-12-12-refactor-terminal-module-by-arafatkatze-in-https-github-com-cline-cline-pull-796|Refactor
   Terminal Module]]'
+- '[[Changes/Dify/2025-12-12-please-use-the-following-command-instead-for-details-please-read-this-https-gith|
+  Please use the following command instead]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-12-16-v0-21-0-github-270848833-3e3b19fe|gemini-cli-2025-12-16-v0-21-0-github-270848833-3e3b19fe]]'
 source_type: github_releases
 theme: developer-workflow
@@ -102,7 +103,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.21.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2025-12-12 · Cline · [[Changes/Cline/2025-12-12-refactor-terminal-module-by-arafatkatze-in-https-github-com-cline-cline-pull-796|Refactor Terminal Module]]
+- Earlier: 2025-12-12 · Dify · [[Changes/Dify/2025-12-12-please-use-the-following-command-instead-for-details-please-read-this-https-gith| Please use the following command instead]]
 - Later: 2025-12-18 · Codex CLI · [[Changes/Codex CLI/2025-12-18-2-developer-workflow-changes-in-rust-v0-74-0|2 Developer Workflow changes in rust-v0.74.0]]
 <!-- chronolog:end -->
 

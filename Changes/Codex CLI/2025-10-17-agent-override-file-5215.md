@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 84b5a8937ea478070b974cfc1119f052b3b18663f967ae3b46afb00aad20e834
+machine_hash: 9052221022189f73f429557c95224ed491ff340916c40bdde16697a2fea5732a
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -41,8 +41,7 @@ record:
   title: Agent override file (#5215)
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-10-07-2-agent-mode-changes-in-v0-8-0|2 Agent Mode changes
-  in v0.8.0]]'
+- '[[Changes/ElevenLabs/2025-10-14-python-sdk|Python SDK]]'
 - '[[Changes/Gemini CLI/2025-10-15-3-agent-mode-changes-in-v0-9-0|3 Agent Mode changes
   in v0.9.0]]'
 - '[[Changes/Cline/2025-10-16-2-agent-mode-changes-in-v3-33-0|2 Agent Mode changes
@@ -81,7 +80,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2025-10-16 · Cline · [[Changes/Cline/2025-10-16-2-agent-mode-changes-in-v3-33-0|2 Agent Mode changes in v3.33.0]]
-- Later: 2025-10-22 · Gemini CLI · [[Changes/Gemini CLI/2025-10-22-feat-core-add-telemetry-for-subagent-execution-by-abhipatel12-in-https-github-co|feat(core): add telemetry for subagent execution]]
+- Later: 2025-10-20 · ElevenLabs · [[Changes/ElevenLabs/2025-10-20-agents-cli|Agents CLI]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

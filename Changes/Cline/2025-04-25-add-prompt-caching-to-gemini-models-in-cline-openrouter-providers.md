@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 814917f9d1bfe9e3b6d36d3d754a9654c784721c9badf9b83d34a997287f9b17
+machine_hash: 15a7efe8798ccc5ca91df31e8e79fd67b59067921cc84fed9688a53f9cc16e62
 product: cline
 product_name: Cline
 record:
@@ -43,8 +43,8 @@ record:
   title: Add prompt caching to gemini models in cline / openrouter providers
   type: change
 related_changes:
-- '[[Changes/Cline/2025-04-19-4-model-support-changes-in-v3-13-0|4 Model Support changes
-  in v3.13.0]]'
+- '[[Changes/Dify/2025-04-23-4-model-support-changes-in-1-3-0|4 Model Support changes
+  in 1.3.0]]'
 - '[[Changes/Cline/2025-04-24-4-model-support-changes-in-v3-13-2|4 Model Support changes
   in v3.13.2]]'
 - '[[Changes/ChatGPT/2025-04-25-we-re-making-additional-improvements-to-gpt-4o-optimizing-when-it-saves-memories|Improvements
@@ -80,7 +80,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2025-04-25 · ChatGPT · [[Changes/ChatGPT/2025-04-25-we-re-making-additional-improvements-to-gpt-4o-optimizing-when-it-saves-memories|Improvements to GPT-4o]]
-- Later: 2025-04-27 · Windsurf · [[Changes/Windsurf/2025-04-27-misc|Misc]]
+- Later: 2025-04-26 · Ollama · [[Changes/Ollama/2025-04-26-4-model-support-changes-in-v0-6-7|4 Model Support changes in v0.6.7]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

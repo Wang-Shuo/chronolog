@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3fbb17c19887440135979aa99ad29cd674bf351ee8a2319d69db2699fe54b4e9
+machine_hash: 49a184567817b880ad3584aa00169586dfadebe199d6f9ced3aa6daf0d865f29
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,12 @@ record:
   title: Background bash tasks are now killed if output exceeds 5GB, preventing runaway…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-14-4-developer-workflow-changes-in-v2-1-76|4 Developer
-  Workflow changes in v2.1.76]]'
 - '[[Changes/Codex CLI/2026-03-16-2-developer-workflow-changes-in-rust-v0-115-0|2
   Developer Workflow changes in rust-v0.115.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-16-4-developer-workflow-changes-in-v1-0-6|4
   Developer Workflow changes in v1.0.6]]'
+- '[[Changes/v0/2026-03-16-added-v0-label-to-pull-requests-created-by-v0|Added "v0"
+  label to pull requests created by v0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-17-v2-1-77-github-297726061-caf6c30c|claude-code-2026-03-17-v2-1-77-github-297726061-caf6c30c]]'
 source_type: github_releases
 theme: developer-workflow
@@ -87,7 +87,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-03-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-16-4-developer-workflow-changes-in-v1-0-6|4 Developer Workflow changes in v1.0.6]]
+- Earlier: 2026-03-16 · v0 · [[Changes/v0/2026-03-16-added-v0-label-to-pull-requests-created-by-v0|Added "v0" label to pull requests created by v0]]
 - Later: 2026-03-17 · Claude Code · [[Changes/Claude Code/2026-03-17-terminal-notifications-iterm2-kitty-ghostty-popups-progress-bar-now-reach-the-ou|Terminal notifications (iTerm2/Kitty/Ghostty popups, progress bar) now reach…]]
 <!-- chronolog:end -->
 

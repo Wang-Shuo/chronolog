@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: accessibility-localization
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 82757d3d3ae3ef77b61f5a39ea0f22b2303ece7bf9a11cc88ad05540be036d3b
+machine_hash: f465ad496e130dc5b75c80169d0447cd4df03920844b903af58f7bbe5164432f
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -41,12 +41,12 @@ record:
   title: '#11860 Fixed screen reader regression in CLI @etraut-openai'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-28-added-support-for-full-width-zenkaku-number-input-from-japanese-ime-in-option-se|Added
-  support for full-width (zenkaku) number input from Japanese IME in option…]]'
-- '[[Changes/Claude Code/2026-02-04-added-support-for-full-width-zenkaku-space-input-from-japanese-ime-in-checkbox-s|Added
-  support for full-width (zenkaku) space input from Japanese IME in checkbox selection]]'
+- '[[Changes/Dify/2026-02-11-added-dutch-nl-nl-language-support-across-backend-language-mapping-and-web-local|Added
+  Dutch (nl-NL) language support across backend language mapping and web…]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-12-theme-preview-appears-above-theme-list-in-screen-reader-mode|Theme
   preview appears above theme list in screen reader mode]]'
+- '[[Changes/Open WebUI/2026-02-12-screen-reader-accessibility-screen-reader-users-now-hear-the-password-field-labe|♿
+  Screen reader accessibility. Screen reader users now hear the password field…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-02-17-rust-v0-102-0-github-287401154-1bf3dbd0|codex-cli-2026-02-17-rust-v0-102-0-github-287401154-1bf3dbd0]]'
 source_type: github_releases
 theme: accessibility-localization
@@ -85,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Accessibility and Localization
 
-- Earlier: 2026-02-12 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-12-theme-preview-appears-above-theme-list-in-screen-reader-mode|Theme preview appears above theme list in screen reader mode]]
+- Earlier: 2026-02-12 · Open WebUI · [[Changes/Open WebUI/2026-02-12-screen-reader-accessibility-screen-reader-users-now-hear-the-password-field-labe|♿ Screen reader accessibility. Screen reader users now hear the password field…]]
 - Later: 2026-02-19 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-19-improve-quick-help-accessibility-screen-reader-friendly-tab-labels-reordered-lay|Improve quick help accessibility]]
 <!-- chronolog:end -->
 

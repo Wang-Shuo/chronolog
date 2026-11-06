@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 821443f976d5583284ed68a986c055a44a043c845bf87670cf96337c603c920a
+machine_hash: 353d6be4582eb6d6b337c17307f4cecd3a153314d4e310d67c18fe82d8ddb0c3
 product: cursor
 product_name: Cursor
 record:
@@ -46,12 +46,12 @@ record:
   title: Chat v2
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-05-09-includes-some-updates-to-option-enter-in-the-chat|Includes
-  some updates to "Option+Enter" in the chat]]'
 - '[[Changes/Cursor/2023-05-17-a-better-cursor-tutor-onboarding|A better Cursor Tutor
   onboarding!]]'
 - '[[Changes/Cursor/2023-05-20-we-ve-added-a-new-feedback-button-at-the-top-right-of-the-app-we-really-do|Cursor
   adds a new feedback button at the top right of the app]]'
+- '[[Changes/Dify/2023-05-30-chore-input-area-highlight-and-moblie-hide-tooltip-by-iamjoel-in-https-github-co|chore:
+  input area highlight and moblie hide tooltip]]'
 source_release: '[[Releases/Cursor/cursor-2023-06-24-0-2-34-https-cursor-com-changelog-0-2-34-fabeac56|cursor-2023-06-24-0-2-34-https-cursor-com-changelog-0-2-34-fabeac56]]'
 source_type: cursor_changelog
 theme: interface-experience
@@ -78,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2023-05-20 · Cursor · [[Changes/Cursor/2023-05-20-we-ve-added-a-new-feedback-button-at-the-top-right-of-the-app-we-really-do|Cursor adds a new feedback button at the top right of the app]]
+- Earlier: 2023-05-30 · Dify · [[Changes/Dify/2023-05-30-chore-input-area-highlight-and-moblie-hide-tooltip-by-iamjoel-in-https-github-co|chore: input area highlight and moblie hide tooltip]]
 - Later: 2023-06-27 · Cursor · [[Changes/Cursor/2023-06-27-better-symbol-keyboard-ergonomics|Better @ symbol keyboard ergonomics]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: c006e460a91f1f0e7e56f80b50f07381acc4f8c9b34c2fe45301db5edd970edf
+machine_hash: c77e152261108d00d6d46c2144ecb756c86c8e1659a036834c608b4c0616eeff
 product: cursor
 product_name: Cursor
 record:
@@ -46,8 +46,8 @@ record:
   title: '.cursor/rules: Users can write several repository-level rules to disk…'
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-01-07-added-ratelimiterror-status-on-ui-and-agent-state-by-rkat7-in-https-github-com-a|Added
-  RateLimitError status on UI and Agent state]]'
+- '[[Changes/Dify/2025-01-22-agent-log-formatting-tweaked-deepseek-s-api-response-handling-to-fix-format-issu|Agent
+  Log Formatting]]'
 - '[[Changes/OpenHands/2025-01-22-when-connecting-to-a-github-repo-the-agent-now-explicitly-knows-which-repo-was-c|When
   connecting to a GitHub repo, the agent now explicitly knows which repo…]]'
 - '[[Changes/Cursor/2025-01-23-agent-sees-recent-changes-the-agent-can-use-a-tool-to-see-your-recent-changes-it|Agent
@@ -88,7 +88,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2025-01-22 · OpenHands · [[Changes/OpenHands/2025-01-22-when-connecting-to-a-github-repo-the-agent-now-explicitly-knows-which-repo-was-c|When connecting to a GitHub repo, the agent now explicitly knows which repo…]]
-- Later: 2025-02-19 · Cursor · [[Changes/Cursor/2025-02-19-agent-is-ready-agent-is-now-the-default-mode-bringing-a-more-powerful-and-unifie|Agent is ready: Agent is now the default mode, bringing a more powerful and unified…]]
+- Later: 2025-01-27 · ElevenLabs · [[Changes/ElevenLabs/2025-01-27-agents-platform|Agents Platform]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

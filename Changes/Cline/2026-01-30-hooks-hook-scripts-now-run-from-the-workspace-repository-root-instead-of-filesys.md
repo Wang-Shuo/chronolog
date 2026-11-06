@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 579294b0df888d914338f13f3d5fd620a5587fcf9b3d7cf5ccd580e871637736
+machine_hash: cb4e9ee4b35ed43ed0c519eb55d9e6d0463dbe9a3b9e933f71b067a27052a886
 product: cline
 product_name: Cline
 record:
@@ -53,7 +53,7 @@ related_changes:
 source_release: '[[Releases/Cline/cline-2026-01-30-v3-56-0-github-281356951-bdf900e3|cline-2026-01-30-v3-56-0-github-281356951-bdf900e3]]'
 source_type: github_releases
 theme: apps-integrations
-title: '_Hooks: Hook scripts now run from the workspace repository root instead…'
+title: 'Hooks: Hook scripts now run from the workspace repository root instead…'
 type: change
 ---
 
@@ -72,9 +72,9 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Cline/2026-01-30-cli-authentication-added-vercel-ai-gateway-and-cline-api-key-provider-support-fo|_CLI authentication: Added Vercel AI Gateway and Cline API key provider support…]] · Account and Access
-- [[Changes/Cline/2026-01-30-new-model-added-kimi-k2-5-model-to-moonshot-provider-262k-context-image-support-53f1f0|_New model: Added Kimi-K2.5 model to Moonshot provider…]] · Context Window
-- [[Changes/Cline/2026-01-30-litellm-fixed-thinking-configuration-not-appearing-for-reasoning-capable-models-c6cd73|_LiteLLM: Fixed thinking configuration not appearing for reasoning-capable models]] · Model Support
+- [[Changes/Cline/2026-01-30-cli-authentication-added-vercel-ai-gateway-and-cline-api-key-provider-support-fo|CLI authentication: Added Vercel AI Gateway and Cline API key provider support…]] · Account and Access
+- [[Changes/Cline/2026-01-30-new-model-added-kimi-k2-5-model-to-moonshot-provider-262k-context-image-support-53f1f0|New model: Added Kimi-K2.5 model to Moonshot provider…]] · Context Window
+- [[Changes/Cline/2026-01-30-litellm-fixed-thinking-configuration-not-appearing-for-reasoning-capable-models-c6cd73|LiteLLM: Fixed thinking configuration not appearing for reasoning-capable models]] · Model Support
 - [[Changes/Cline/2026-01-30-6-other-changes-in-v3-56-0|6 other changes in v3.56.0]] · Other changes
 <!-- chronolog:end -->
 
@@ -82,7 +82,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-01-30 · Claude Code · [[Changes/Claude Code/2026-01-30-vscode-enabled-claude-in-chrome-integration|VSCode: Enabled Claude in Chrome integration]]
-- Later: 2026-01-30 · Cline · [[Changes/Cline/2026-01-30-hooks-hook-scripts-now-run-from-the-workspace-repository-root-instead-of-filesys-9eb2c6|_Hooks: Hook scripts now run from the workspace repository root instead…]]
+- Later: 2026-01-30 · Cline · [[Changes/Cline/2026-01-30-hooks-hook-scripts-now-run-from-the-workspace-repository-root-instead-of-filesys-9eb2c6|Hooks: Hook scripts now run from the workspace repository root instead…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

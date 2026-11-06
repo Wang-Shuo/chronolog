@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 686db59925f9c8770ee2e96edb61e0069e2ecd3660d164abefb850b4657b51c4
+machine_hash: c5637f2d2e2bb33971a36f253cd4de5881662e920b387277b5be8b0eaeac44a4
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -45,8 +45,7 @@ record:
     choose…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-07-improve-chronicle-cost-tips-with-more-precise-evidence-backed-recommendations|Improve
-  /chronicle cost-tips with more precise evidence-backed recommendations]]'
+- '[[Changes/v0/2026-07-07-deprecations|Deprecations]]'
 - '[[Changes/Codex CLI/2026-07-08-28593-codex-suppress-low-usage-remaining-warnings-when-credits-are-available-bro|♯28593
   codex suppress low usage remaining warnings when credits are available…]]'
 - '[[Changes/Cline/2026-07-09-add-a-clinepass-limit-reached-error-with-a-one-click-option-to-switch-to-cline-u|Add
@@ -94,7 +93,7 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2026-07-09 · Cline · [[Changes/Cline/2026-07-09-add-a-clinepass-limit-reached-error-with-a-one-click-option-to-switch-to-cline-u|Add a ClinePass limit-reached error with a one-click option to switch to Cline…]]
-- Later: 2026-07-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-16-3-pricing-model-changes-in-v1-0-71|3 Pricing Model changes in v1.0.71]]
+- Later: 2026-07-13 · Lovable · [[Changes/Lovable/2026-07-13-functions-usage-is-now-labeled-compute|Functions usage is now labeled Compute]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7b84814d9cca49de8619108163a710798ec5973c62488803bc9e15086efa7c67
+machine_hash: ea1d33d2ee09f553c5d4960d6a8265be837bfecbf0e538f622a17ae30ffa4e08
 product: aider
 product_name: Aider
 record:
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Safety and Privacy
 
 - Earlier: 2023-06-27 · Cursor · [[Changes/Cursor/2023-06-27-cursor-is-now-based-on-version-1-79-2-of-vscodium-which-comes-with-security-upda|Cursor is now based on version 1.79.2 of VSCodium, which comes with security updates…]]
-- Later: 2023-08-28 · ChatGPT · [[Changes/ChatGPT/2023-08-28-today-we-re-launching-chatgpt-enterprise-which-offers-enterprise-grade-security-4958cf|Introducing ChatGPT Enterprise]]
+- Later: 2023-08-15 · Dify · [[Changes/Dify/2023-08-15-fix-frontend-permission-check-by-matriq-in-https-github-com-langgenius-dify-pull|fix: frontend permission check]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 66c9d8b34ed590a93314cca162524e8784129376e2305dbb740116670b55113d
+machine_hash: b93225db053939c4cb65187e4b51a532860d312a90dec2d431a144f82cb469ae
 product: cursor
 product_name: Cursor
 record:
@@ -54,8 +54,7 @@ record:
   title: For the next 10 days, we're including usage credits so teams can try Rollouts…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-19-changed-auto-mode-for-claude-api-and-enterprise-users-and-on-bedrock-vertex-foun|Changed
-  auto mode for Claude API and Enterprise users, and on Bedrock, Vertex…]]'
+- '[[Changes/ElevenLabs/2026-09-21-user|User]]'
 - '[[Changes/Claude Code/2026-09-22-improved-cost-cache-miss-causes-to-name-thinking-mode-and-thinking-display-chang|Improved
   /cost cache-miss causes to name thinking mode and thinking display changes]]'
 - '[[Changes/Cline/2026-09-22-models-that-advertise-a-large-output-limit-now-get-a-bigger-default-output-budge|Models
@@ -98,7 +97,7 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2026-09-22 · Cline · [[Changes/Cline/2026-09-22-models-that-advertise-a-large-output-limit-now-get-a-bigger-default-output-budge|Models that advertise a large output limit now get a bigger default output budget]]
-- Later: 2026-09-24 · Claude Code · [[Changes/Claude Code/2026-09-24-updated-the-claude-api-skill-pre-output-refusal-billing-now-links-to-the-how-ref|Updated the claude-api skill]]
+- Later: 2026-09-23 · Lovable · [[Changes/Lovable/2026-09-23-image-and-video-generation-now-appear-in-usage-details|Image and video generation now appear in Usage details]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

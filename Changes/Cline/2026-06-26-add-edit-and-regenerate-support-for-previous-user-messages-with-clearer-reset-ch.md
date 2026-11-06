@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 37ef3234b1bd401b1f5348e80315cac2e395114db85df007059dc3fcb7a9ebe0
+machine_hash: 134661ffdf9d155e8108ba942c414dff205b377e838cdabccf2daf210a97f5ae
 product: cline
 product_name: Cline
 record:
@@ -47,12 +47,12 @@ record:
     Reset Chat…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-23-9-editor-experience-changes-in-v1-0-64|9
-  Editor Experience changes in v1.0.64]]'
-- '[[Changes/GitHub Copilot CLI/2026-06-24-add-a-copilot-skill-subcommand-and-a-skill-alias-for-skills-to-list-add-and-remo|Add
-  a copilot skill subcommand (and a /skill alias for /skills) to list, add…]]'
+- '[[Changes/Lovable/2026-06-24-manage-scheduled-jobs-in-lovable-cloud|Manage scheduled
+  jobs in Lovable Cloud]]'
 - '[[Changes/Claude Code/2026-06-25-added-live-file-path-autocomplete-to-bash-mode|Added
   live file path autocomplete to bash mode (!)]]'
+- '[[Changes/Dify/2026-06-25-3-editor-experience-changes-in-1-15-0|3 Editor Experience
+  changes in 1.15.0]]'
 source_release: '[[Releases/Cline/cline-2026-06-26-v4-0-0-github-345514931-9953949f|cline-2026-06-26-v4-0-0-github-345514931-9953949f]]'
 source_type: github_releases
 theme: editor-experience
@@ -88,8 +88,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-06-25 · Claude Code · [[Changes/Claude Code/2026-06-25-added-live-file-path-autocomplete-to-bash-mode|Added live file path autocomplete to bash mode (!)]]
-- Later: 2026-06-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-30-2-editor-experience-changes-in-v1-0-66|2 Editor Experience changes in v1.0.66]]
+- Earlier: 2026-06-25 · Dify · [[Changes/Dify/2026-06-25-3-editor-experience-changes-in-1-15-0|3 Editor Experience changes in 1.15.0]]
+- Later: 2026-06-26 · v0 · [[Changes/v0/2026-06-26-the-editor-no-longer-shows-a-false-start-error-when-a-preview-dev-server-or-inst|The editor no longer shows a false start error when a preview, dev server…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

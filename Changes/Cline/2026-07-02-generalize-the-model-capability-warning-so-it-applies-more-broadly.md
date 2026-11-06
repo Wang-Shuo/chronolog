@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: b7f649994ea0648913c9dfd0f71003a29af95953af523b7406188891475d6945
+machine_hash: b186fad0e5514bae60f2546fa7bd342f8a636611d6376ec465b61f1b698c443c
 product: cline
 product_name: Cline
 record:
@@ -43,12 +43,12 @@ record:
   title: Generalize the model capability warning so it applies more broadly
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-30-5-model-support-changes-in-v1-0-66|5 Model
-  Support changes in v1.0.66]]'
 - '[[Changes/Claude Code/2026-07-01-2-model-support-changes-in-v2-1-198|2 Model Support
   changes in v2.1.198]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-01-add-support-for-the-kimi-k2-7-code-model|Add
   support for the kimi-k2.7-code model]]'
+- '[[Changes/Open WebUI/2026-07-01-5-model-support-changes-in-v0-10-2|5 Model Support
+  changes in v0.10.2]]'
 source_release: '[[Releases/Cline/cline-2026-07-02-v4-0-6-github-348214539-8e3994c2|cline-2026-07-02-v4-0-6-github-348214539-8e3994c2]]'
 source_type: github_releases
 theme: model-support
@@ -75,7 +75,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-07-01 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-01-add-support-for-the-kimi-k2-7-code-model|Add support for the kimi-k2.7-code model]]
+- Earlier: 2026-07-01 · Open WebUI · [[Changes/Open WebUI/2026-07-01-5-model-support-changes-in-v0-10-2|5 Model Support changes in v0.10.2]]
 - Later: 2026-07-03 · Claude Code · [[Changes/Claude Code/2026-07-03-claude-sonnet-5-sessions-no-longer-use-the-mid-conversation-system-role-for-harn|Claude Sonnet 5 sessions no longer use the mid-conversation system role for harness…]]
 <!-- chronolog:end -->
 

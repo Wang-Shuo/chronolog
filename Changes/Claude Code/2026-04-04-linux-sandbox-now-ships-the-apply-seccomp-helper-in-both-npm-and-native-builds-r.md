@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4cd3fdf7d3c3fc590fedb32db0690502de9dabae4ac0d3227552b0b1d1cfdda2
+machine_hash: a0829cbd759c9399260c866ee30babc7bd9b25c8c405b668f7260f1655dbdf51
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,12 +47,10 @@ record:
     builds…
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-04-01-7-safety-and-privacy-changes-in-v0-36-0|7 Safety
-  and Privacy changes in v0.36.0]]'
-- '[[Changes/Claude Code/2026-04-02-fixed-plan-mode-in-remote-sessions-losing-track-of-the-plan-file-after-a-contain|Fixed
-  plan mode in remote sessions losing track of the plan file after a container…]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-02-add-permissionrequest-hook-to-allow-scripts-to-programmatically-approve-or-deny|Add
   PermissionRequest hook to allow scripts to programmatically approve or deny tool…]]'
+- '[[Changes/Lovable/2026-04-02-security-updates|Security updates]]'
+- '[[Changes/Lovable/2026-04-02-app-emails|App emails]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-04-v2-1-92-github-305189904-2eb020f5|claude-code-2026-04-04-v2-1-92-github-305189904-2eb020f5]]'
 source_type: github_releases
 theme: safety-privacy
@@ -89,7 +87,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-04-02 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-02-add-permissionrequest-hook-to-allow-scripts-to-programmatically-approve-or-deny|Add PermissionRequest hook to allow scripts to programmatically approve or deny tool…]]
+- Earlier: 2026-04-02 · Lovable · [[Changes/Lovable/2026-04-02-app-emails|App emails]]
 - Later: 2026-04-04 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-04-add-notification-hook-event-that-fires-asynchronously-on-shell-completion-permis|Add notification hook event that fires asynchronously on shell completion…]]
 <!-- chronolog:end -->
 

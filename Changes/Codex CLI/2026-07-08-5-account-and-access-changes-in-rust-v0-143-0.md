@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c51112f76bd7f4ea836a9e2bf0b21e2b58f5d1d364f83fd9dbf5c26286b5a034
+machine_hash: 2aeefae7bd814468c8f5d016cb5ffd26f8afaf3a862e4ab3573d919eb7ba2886
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -52,12 +52,12 @@ record:
   title: 5 Account and Access changes in rust-v0.143.0
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-07-06-3-account-and-access-changes-in-1-9-0|3 Account
-  and Access changes in 1.9.0]]'
 - '[[Changes/Claude Code/2026-07-07-added-a-warning-when-your-login-is-about-to-expire-so-you-can-re-authenticate-be|Added
   a warning when your login is about to expire, so you can re-authenticate…]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-07-6-account-and-access-changes-in-v1-0-69|6
   Account and Access changes in v1.0.69]]'
+- '[[Changes/Lovable/2026-07-07-sign-in-with-sso-using-your-company-domain-or-provider-id|Sign
+  in with SSO using your company domain or provider ID]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-07-08-rust-v0-143-0-github-350650561-9eba805c|codex-cli-2026-07-08-rust-v0-143-0-github-350650561-9eba805c]]'
 source_type: github_releases
 theme: account-access
@@ -111,8 +111,8 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.143.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-07-07 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-07-6-account-and-access-changes-in-v1-0-69|6 Account and Access changes in v1.0.69]]
-- Later: 2026-07-08 · OpenHands · [[Changes/OpenHands/2026-07-08-feat-track-user-login-timestamps-by-saurya-in-https-github-com-openhands-openhan|feat: track user login timestamps]]
+- Earlier: 2026-07-07 · Lovable · [[Changes/Lovable/2026-07-07-sign-in-with-sso-using-your-company-domain-or-provider-id|Sign in with SSO using your company domain or provider ID]]
+- Later: 2026-07-08 · Lovable · [[Changes/Lovable/2026-07-08-configure-sso-just-in-time-provisioning-from-settings|Configure SSO Just-in-Time provisioning from settings]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

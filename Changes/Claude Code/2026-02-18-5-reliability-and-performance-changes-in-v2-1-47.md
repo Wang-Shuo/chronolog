@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4edabafcab961741e44236a1d9b74de1acae2e700ea0d4d0d701d3ba8e65818d
+machine_hash: 15847474dd10a3c8c890f4611ddcee72942bc182dd927c7b3b6f59354ef88285
 product: claude-code
 product_name: Claude Code
 record:
@@ -55,12 +55,12 @@ record:
   title: 5 Reliability and Performance changes in v2.1.47
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-02-17-removed-the-remote-models-feature-flag-to-prevent-fallback-model-metadata-when-i|Removed
-  the remote_models feature flag to prevent fallback model metadata…]]'
 - '[[Changes/Cursor/2026-02-17-2-reliability-and-performance-changes-in-2-5|2 Reliability
   and Performance changes in 2.5]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-17-2-reliability-and-performance-changes-in-v0-0-411|2
   Reliability and Performance changes in v0.0.411]]'
+- "[[Changes/Open WebUI/2026-02-17-general-improvements-various-improvements-were-implemented-across-the-applicatio|\U0001F504
+  General improvements. Various improvements were implemented across…]]"
 source_release: '[[Releases/Claude Code/claude-code-2026-02-18-v2-1-47-github-287886320-98b6e931|claude-code-2026-02-18-v2-1-47-github-287886320-98b6e931]]'
 source_type: github_releases
 theme: reliability-performance
@@ -104,7 +104,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.47
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-02-17 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-17-2-reliability-and-performance-changes-in-v0-0-411|2 Reliability and Performance changes in v0.0.411]]
+- Earlier: 2026-02-17 · Open WebUI · [[Changes/Open WebUI/2026-02-17-general-improvements-various-improvements-were-implemented-across-the-applicatio|🔄 General improvements. Various improvements were implemented across…]]
 - Later: 2026-02-18 · Cursor · [[Changes/Cursor/2026-02-18-auto-updates-now-run-in-the-background-for-faster-time-to-interactive|Auto-updates now run in the background for faster time-to-interactive]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6776e739abcb040868d0a406b5016b9f21385348707241ec879f91d328914d92
+machine_hash: 16304662a0e7b64e17b577644c725840cfdd6f5411973de1e208116bbd2bb530
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -92,7 +92,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.44
 ## Nearby in Model Support
 
 - Earlier: 2026-05-07 · Cursor · [[Changes/Cursor/2026-05-07-added-support-for-general-model-names-for-subagent-configuration-i-e-set-model-o|Added support for general model names for subagent configuration (i.e., set model]]
-- Later: 2026-05-11 · Claude Code · [[Changes/Claude Code/2026-05-11-compaction-prompt-now-asks-the-model-to-preserve-sensitive-user-instructions|Compaction prompt now asks the model to preserve sensitive user instructions]]
+- Later: 2026-05-09 · Open WebUI · [[Changes/Open WebUI/2026-05-09-9-model-support-changes-in-v0-9-3|9 Model Support changes in v0.9.3]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 71d22f5eb4067aa797381673a64206b133a6ee078304739c882defc0bde3857a
+machine_hash: 1d1869083061aeefff2cabdbd36ab71495f0481f821418ff1f5ef9bb8804ad2a
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2025-09-17 · Codex CLI · [[Changes/Codex CLI/2025-09-17-45bccd36-https-github-com-openai-codex-commit-45bccd36b038a28b23663189cc6f7557e4|45bccd36…]]
-- Later: 2025-09-18 · Codex CLI · [[Changes/Codex CLI/2025-09-18-new-review-command-introduced-in-3774|new /review command introduced in ♯3774]]
+- Later: 2025-09-17 · Open WebUI · [[Changes/Open WebUI/2025-09-17-12-developer-workflow-changes-in-v0-6-29|12 Developer Workflow changes in v0.6.29]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

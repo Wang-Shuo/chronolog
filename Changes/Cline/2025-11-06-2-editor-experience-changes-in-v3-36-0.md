@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4d0bc0c3e08c4845ca228b60042fa92314c8da616b5cb6f0cb02da1bd6ae6b9c
+machine_hash: e1971a4e43e73c92a6ca93f889893e71fa977b92b6c936e29b812daf4885f286
 product: cline
 product_name: Cline
 record:
@@ -84,7 +84,7 @@ Source: https://github.com/cline/cline/releases/tag/v3.36.0
 ## Nearby in Editor Experience
 
 - Earlier: 2025-11-05 · OpenHands · [[Changes/OpenHands/2025-11-05-removed-jupyter-tab-by-amanape-in-https-github-com-openhands-openhands-pull-1156|Removed Jupyter tab]]
-- Later: 2025-11-07 · Gemini CLI · [[Changes/Gemini CLI/2025-11-07-enable-codebase-investigator-by-default-for-preview-by-silviojr-in-https-github|enable codebase investigator by default for preview]]
+- Later: 2025-11-06 · Open WebUI · [[Changes/Open WebUI/2025-11-06-3-editor-experience-changes-in-v0-6-35|3 Editor Experience changes in v0.6.35]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b72ddbd249c04e78ede8ed0325d3021894016af8ee872f4c310f84b8817a3366
+machine_hash: 8d31ebe0f4e216db42831a0ede5c886b0431267cfd224301050b5e24e81e90f1
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -60,12 +60,12 @@ record:
   title: 9 Developer Workflow changes in v0.34.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-16-4-developer-workflow-changes-in-v1-0-6|4
-  Developer Workflow changes in v1.0.6]]'
 - '[[Changes/Claude Code/2026-03-17-background-bash-tasks-are-now-killed-if-output-exceeds-5gb-preventing-runaway-pr|Background
   bash tasks are now killed if output exceeds 5GB, preventing runaway…]]'
 - '[[Changes/Claude Code/2026-03-17-terminal-notifications-iterm2-kitty-ghostty-popups-progress-bar-now-reach-the-ou|Terminal
   notifications (iTerm2/Kitty/Ghostty popups, progress bar) now reach…]]'
+- '[[Changes/Dify/2026-03-17-8-developer-workflow-changes-in-1-13-1|8 Developer Workflow
+  changes in 1.13.1]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-03-17-v0-34-0-github-298158994-68230a41|gemini-cli-2026-03-17-v0-34-0-github-298158994-68230a41]]'
 source_type: github_releases
 theme: developer-workflow
@@ -125,8 +125,8 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.34.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-03-17 · Claude Code · [[Changes/Claude Code/2026-03-17-terminal-notifications-iterm2-kitty-ghostty-popups-progress-bar-now-reach-the-ou|Terminal notifications (iTerm2/Kitty/Ghostty popups, progress bar) now reach…]]
-- Later: 2026-03-18 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-18-alternate-screen-buffer-is-now-enabled-by-default-for-a-cleaner-terminal-experie|Alternate screen buffer is now enabled by default for a cleaner terminal experience]]
+- Earlier: 2026-03-17 · Dify · [[Changes/Dify/2026-03-17-8-developer-workflow-changes-in-1-13-1|8 Developer Workflow changes in 1.13.1]]
+- Later: 2026-03-18 · Dify · [[Changes/Dify/2026-03-18-please-use-the-following-command-instead-for-details-please-read-this-https-gith| Please use the following command instead]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

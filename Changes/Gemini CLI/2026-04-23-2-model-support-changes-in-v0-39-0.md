@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a886feb8db9bbc221b33a428087e2fe6859db4a37e90b5009e5cf8f81cd3c234
+machine_hash: fd85df0e5307876de76b89ac93f799d2d7dd6e07eb0137591aab8c3e42cab4ff
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -44,8 +44,8 @@ record:
   title: 2 Model Support changes in v0.39.0
   type: change
 related_changes:
-- '[[Changes/Cline/2026-04-22-onboarding-flow-now-uses-dynamically-fetched-recommended-models-instead-of-a-har|Onboarding
-  flow now uses dynamically fetched recommended models instead…]]'
+- '[[Changes/Ollama/2026-04-22-mlx-runner-adds-logprobs-support-for-compatible-models|MLX
+  runner adds logprobs support for compatible models]]'
 - '[[Changes/Codex CLI/2026-04-23-6-model-support-changes-in-rust-v0-123-0|6 Model
   Support changes in rust-v0.123.0]]'
 - '[[Changes/Codex CLI/2026-04-23-4-model-support-changes-in-rust-v0-124-0|4 Model

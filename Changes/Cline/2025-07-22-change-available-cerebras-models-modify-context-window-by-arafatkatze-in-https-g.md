@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0dedbc3c27a07435b2d82d569d3b0135ba2367ddf1aa96e112bdf9f4a64018b3
+machine_hash: e35f8836ea7fc9d4c9a78ca52c2aad244f2e69959256eb1fa90f30e28ca15d78
 product: cline
 product_name: Cline
 record:
@@ -53,10 +53,12 @@ record:
   title: Change available Cerebras models + modify context window
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-07-03-pr-indexing-search|PR indexing & search]]'
-- '[[Changes/Windsurf/2025-07-17-mentioning-conversations|mentioning conversations]]'
+- '[[Changes/Ollama/2025-07-18-ollama-ps-will-now-show-the-context-length-of-loaded-models|ollama
+  ps will now show the context length of loaded models]]'
 - '[[Changes/Gemini CLI/2025-07-19-2-context-window-changes-in-v0-1-13|2 Context Window
   changes in v0.1.13]]'
+- "[[Changes/Open WebUI/2025-07-19-chat-preview-in-search-when-searching-chats-instantly-preview-results-in-context|\U0001F50E
+  Chat Preview in Search]]"
 source_release: '[[Releases/Cline/cline-2025-07-22-v3-19-8-github-234341731-78a40b25|cline-2025-07-22-v3-19-8-github-234341731-78a40b25]]'
 source_type: github_releases
 theme: context-window
@@ -91,7 +93,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2025-07-19 · Gemini CLI · [[Changes/Gemini CLI/2025-07-19-2-context-window-changes-in-v0-1-13|2 Context Window changes in v0.1.13]]
+- Earlier: 2025-07-19 · Open WebUI · [[Changes/Open WebUI/2025-07-19-chat-preview-in-search-when-searching-chats-instantly-preview-results-in-context|🔎 Chat Preview in Search]]
 - Later: 2025-07-25 · Gemini CLI · [[Changes/Gemini CLI/2025-07-25-2-context-window-changes-in-v0-1-14|2 Context Window changes in v0.1.14]]
 <!-- chronolog:end -->
 

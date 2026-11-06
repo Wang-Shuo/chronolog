@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: f0c07ffa8c88130b72f009f0eb4f1b220f713fae2045edf4e19b1544769d65d6
+machine_hash: 536c732153a43daa8f7d1236c8c49d1bc66787563a5846d3587d4fadd69f3ac6
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -56,12 +56,11 @@ record:
     options'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-08-20-18-safety-and-privacy-changes-in-rust-v0-149-0|18
-  Safety and Privacy changes in rust-v0.149.0]]'
-- '[[Changes/Claude Code/2026-08-21-fixed-fullscreen-mode-answering-a-permission-prompt-or-pressing-a-button-when-yo|Fixed
-  fullscreen mode answering a permission prompt or pressing a button when you…]]'
+- '[[Changes/ElevenLabs/2026-08-24-packages|Packages]]'
 - '[[Changes/Claude Code/2026-08-25-6-safety-and-privacy-changes-in-v2-1-246|6 Safety
   and Privacy changes in v2.1.246]]'
+- '[[Changes/Dify/2026-08-25-16-safety-and-privacy-changes-in-1-17-0|16 Safety and
+  Privacy changes in 1.17.0]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-08-25-v0-57-0-github-376624905-82c95bfa|gemini-cli-2026-08-25-v0-57-0-github-376624905-82c95bfa]]'
 source_type: github_releases
 theme: safety-privacy
@@ -96,8 +95,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-08-25 · Claude Code · [[Changes/Claude Code/2026-08-25-6-safety-and-privacy-changes-in-v2-1-246|6 Safety and Privacy changes in v2.1.246]]
-- Later: 2026-08-26 · Claude Code · [[Changes/Claude Code/2026-08-26-2-safety-and-privacy-changes-in-v2-1-247|2 Safety and Privacy changes in v2.1.247]]
+- Earlier: 2026-08-25 · Dify · [[Changes/Dify/2026-08-25-16-safety-and-privacy-changes-in-1-17-0|16 Safety and Privacy changes in 1.17.0]]
+- Later: 2026-08-25 · Open WebUI · [[Changes/Open WebUI/2026-08-25-7-safety-and-privacy-changes-in-v0-11-1|7 Safety and Privacy changes in v0.11.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

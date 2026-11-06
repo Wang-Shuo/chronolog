@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9669decccfa33cc62e00f582a937ca14b98a50f2b27249c24a1985a07897496f
+machine_hash: b42db441546109adc273e53d320f181e8a7d3f8950fbad8244b799253f3fd7b2
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -42,8 +42,8 @@ record:
   title: Preserve Markdown blockquotes in /share exports
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-06-18-world-cup-updates-chatgpt-can-now-help-you-follow-the-tournament-in-a-more-conve|World
-  Cup updates]]'
+- '[[Changes/v0/2026-06-19-4-collaboration-changes-in-annotations-mode-in-form-questions|4
+  Collaboration changes in Annotations mode, in-form questions…]]'
 - '[[Changes/Codex CLI/2026-06-22-26707-pac-2-add-shared-auth-system-proxy-contract-canvrno-oai|♯26707
   PAC 2 - Add shared auth system proxy contract @canvrno-oai]]'
 - '[[Changes/Cursor/2026-06-22-new-team-marketplaces|New Team Marketplaces]]'
@@ -92,7 +92,7 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2026-06-22 · Cursor · [[Changes/Cursor/2026-06-22-new-team-marketplaces|New Team Marketplaces]]
-- Later: 2026-06-26 · Cline · [[Changes/Cline/2026-06-26-simplify-provider-settings-ui-by-replacing-many-provider-specific-views-with-sha|Simplify provider settings UI by replacing many provider-specific views with shared…]]
+- Later: 2026-06-23 · Lovable · [[Changes/Lovable/2026-06-23-a-more-compact-show-toolbar-button|A more compact Show toolbar button]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e3c97ed31a77b4b885c56793d5a2145215b9789af108f8ecbf7a37ea01e51f51
+machine_hash: 7f7ce6583b3c7b7cdfcb3be4ebe5fd0d253c626a24f94fca3b2cfe360f0f4b4b
 product: cursor
 product_name: Cursor
 record:
@@ -42,10 +42,10 @@ record:
   title: 'Default: Bugbot continues to use the same effort level as it does today'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-05-08-added-a-faster-cargo-profiling-build-profile-and-disabled-empty-doctest-targets|Added
-  a faster Cargo profiling build profile and disabled empty doctest targets…]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-08-faster-user-list-and-user-switch-for-multi-account-users|Faster
   /user list and /user switch for multi-account users]]'
+- '[[Changes/Open WebUI/2026-05-09-4-reliability-and-performance-changes-in-v0-9-3|4
+  Reliability and Performance changes in v0.9.3]]'
 - '[[Changes/Claude Code/2026-05-11-added-scroll-speed-command-to-tune-mouse-wheel-scroll-speed-with-a-live-preview|Added
   /scroll-speed command to tune mouse wheel scroll speed with a live preview]]'
 source_release: '[[Releases/Cursor/cursor-2026-05-11-bugbot-effort-levels-https-cursor-com-changelog-05-11-26-b41d8617|cursor-2026-05-11-bugbot-effort-levels-https-cursor-com-changelog-05-11-26-b41d8617]]'

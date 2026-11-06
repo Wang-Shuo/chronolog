@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: pricing
-machine_hash: 80e0aebffd62d55064d18ee7a52e1a1606869b42ea1f5b3af847ad2e0b71c42e
+machine_hash: dcbb4eb7e9fe7af99793355d7cea61f96db91a7b20dfcb5b15b78247abe85287
 product: cline
 product_name: Cline
 record:
@@ -54,8 +54,7 @@ record:
   title: Removing reasoning UX for Grok 4 models and correct pricing
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-07-01-docs-add-a-page-detailing-quota-and-cost-information-by-ptone-in-https-github-co|Docs:
-  Add a page detailing quota and cost information]]'
+- '[[Changes/Replit/2025-07-04-effort-based-billing|Effort-based billing]]'
 - '[[Changes/Cline/2025-07-09-remove-incorrect-pricing-display-for-sap-ai-core-provider-since-it-uses-non-usd|Remove
   incorrect pricing display for SAP AI Core provider since it uses non-USD…]]'
 - '[[Changes/Cline/2025-07-11-supporting-buy-credits-url-response-from-backend-by-pashpashpash-in-https-github|supporting

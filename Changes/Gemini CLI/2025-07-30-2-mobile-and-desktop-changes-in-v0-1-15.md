@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: fc7f55f5a4b282f25a8172be6f5e72d832cd664b7b935fb465df0bcf2c528fd0
+machine_hash: c9b34896862a8df67848a216e481451707049835f5df184e0571838323d5a765
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -42,12 +42,12 @@ record:
   title: 2 Mobile and Desktop changes in v0.1.15
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-07-16-record-mode-is-now-available-to-chatgpt-plus-users-globally-in-the-macos-desktop|Record
-  mode is now available to ChatGPT Plus users globally in the macOS desktop app]]'
 - '[[Changes/Codex CLI/2025-07-19-though-https-github-com-openai-codex-pull-1590-should-make-it-so-that-on-windows|Though
   (source link) should make it so that, on Windows…]]'
 - '[[Changes/Gemini CLI/2025-07-25-2-mobile-and-desktop-changes-in-v0-1-14|2 Mobile
   and Desktop changes in v0.1.14]]'
+- '[[Changes/Dify/2025-07-28-windows-pem-keypath-fix-corrected-path-errors-for-private-pem-key-files-on-windo|Windows
+  PEM KeyPath Fix]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-07-30-v0-1-15-github-236146632-10a2efdb|gemini-cli-2025-07-30-v0-1-15-github-236146632-10a2efdb]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -92,7 +92,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.1.15
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2025-07-25 · Gemini CLI · [[Changes/Gemini CLI/2025-07-25-2-mobile-and-desktop-changes-in-v0-1-14|2 Mobile and Desktop changes in v0.1.14]]
+- Earlier: 2025-07-28 · Dify · [[Changes/Dify/2025-07-28-windows-pem-keypath-fix-corrected-path-errors-for-private-pem-key-files-on-windo|Windows PEM KeyPath Fix]]
 - Later: 2025-08-02 · Gemini CLI · [[Changes/Gemini CLI/2025-08-02-2-mobile-and-desktop-changes-in-v0-1-16|2 Mobile and Desktop changes in v0.1.16]]
 <!-- chronolog:end -->
 

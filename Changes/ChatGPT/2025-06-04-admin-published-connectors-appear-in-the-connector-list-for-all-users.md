@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2d2efd1d667f8c76515da3c92444c1bad4cdee8866982537ea0532e6761d0fcb
+machine_hash: f555670e3ac69d89a2132cba1f415fa4be5fcf8a6174068a08910a9818312768
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,8 +42,7 @@ record:
   title: Admin-published connectors appear in the connector list for all users
   type: change
 related_changes:
-- '[[Changes/Cline/2025-05-22-add-integration-with-nebius-ai-studio-as-a-new-provider-thanks-aktsvigun|Add
-  integration with Nebius AI Studio as a new provider (Thanks @Aktsvigun!)]]'
+- '[[Changes/Replit/2025-05-30-stripe-checkout-release|Stripe Checkout release]]'
 - '[[Changes/OpenHands/2025-06-01-2-apps-and-integrations-changes-in-0-40-0|2 Apps
   and Integrations changes in 0.40.0]]'
 - '[[Changes/ChatGPT/2025-06-04-supported-connectors-google-drive-sharepoint-dropbox-box-outlook-gmail-google-ca|Supported

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: cc420d8a321e33827b47eb8e4eef90142822aef0d22b6ea943a3ac265cdf1895
+machine_hash: 663e3e4dc83d6f96e4010d13424d17d0f338dde3727057a8e7736976a6c0df5c
 product: cursor
 product_name: Cursor
 record:
@@ -119,7 +119,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-06-04 · Codex CLI · [[Changes/Codex CLI/2026-06-04-19-apps-and-integrations-changes-in-rust-v0-137-0|19 Apps and Integrations changes in rust-v0.137.0]]
-- Later: 2026-06-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-05-mcp-tools-added-or-removed-by-a-server-mid-turn-are-now-available-immediately-in|MCP tools added or removed by a server mid-turn are now available immediately…]]
+- Later: 2026-06-04 · Ollama · [[Changes/Ollama/2026-06-04-added-cline-cli-integration-docs|Added Cline CLI integration docs]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

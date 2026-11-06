@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 540d22bc8a6d5d6eaa0aeb57c4c521747c768c6107019c7793b8b407bd5405a9
+machine_hash: 1ab663ba390c5cd6f58c90b62b8437346122a1eed8c16dd80d0e8468b1cc1412
 product: claude-code
 product_name: Claude Code
 record:
@@ -58,12 +58,12 @@ record:
     name…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-03-2-model-support-changes-in-rust-v0-153-0|2 Model
-  Support changes in rust-v0.153.0]]'
 - '[[Changes/Codex CLI/2026-09-03-2-model-support-changes-in-rust-v0-153-1|2 Model
   Support changes in rust-v0.153.1]]'
 - '[[Changes/Codex CLI/2026-09-03-2-model-support-changes-in-rust-v0-153-2|2 Model
   Support changes in rust-v0.153.2]]'
+- '[[Changes/Lovable/2026-09-03-gemini-omni-1-1-flash-for-your-app-s-ai-features|Gemini
+  Omni 1.1 Flash for your app''s AI features]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-04-v2-1-261-github-382913543-2cb10519|claude-code-2026-09-04-v2-1-261-github-382913543-2cb10519]]'
 source_type: github_releases
 theme: model-support
@@ -101,7 +101,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-09-03 · Codex CLI · [[Changes/Codex CLI/2026-09-03-2-model-support-changes-in-rust-v0-153-2|2 Model Support changes in rust-v0.153.2]]
+- Earlier: 2026-09-03 · Lovable · [[Changes/Lovable/2026-09-03-gemini-omni-1-1-flash-for-your-app-s-ai-features|Gemini Omni 1.1 Flash for your app's AI features]]
 - Later: 2026-09-04 · Codex CLI · [[Changes/Codex CLI/2026-09-04-3-model-support-changes-in-rust-v0-153-3|3 Model Support changes in rust-v0.153.3]]
 <!-- chronolog:end -->
 

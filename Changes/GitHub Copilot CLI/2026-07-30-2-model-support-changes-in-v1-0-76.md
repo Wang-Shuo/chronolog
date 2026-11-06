@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d2fb8afbee6103faf360bad35c81226cb59199937d696950af8956a2cc2167c4
+machine_hash: 41c3d5cbef794ee854335b187b31765709b22b0b9ff1ceebe08975369d40073d
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -92,7 +92,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.76
 ## Nearby in Model Support
 
 - Earlier: 2026-07-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-30-allow-reasoning-effort-to-be-omitted-so-the-server-can-select-the-default|Allow reasoning effort to be omitted so the server can select the default]]
-- Later: 2026-07-31 · Cline · [[Changes/Cline/2026-07-31-legacy-bundle-legacy-extension-3fdc186f1-4-0-12-free-model-button-wording|Legacy bundle: legacy-extension @ 3fdc186f1 (4.0.12 + free-model button wording)]]
+- Later: 2026-07-30 · Lovable · [[Changes/Lovable/2026-07-30-opus-5|Opus 5]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

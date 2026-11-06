@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: cd0062b54881e180f310c62a01ad5b357e5dfc0351b18ab7b56f49299827d356
+machine_hash: e6bfe1de8876b7799e406f2304d49494ce4e02bbc4f21402981e33993b1375c0
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -44,10 +44,10 @@ record:
   title: Performance improvements
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-02-05-various-bug-fixes-and-performance-improvements|Various
-  bug fixes and performance improvements]]'
 - '[[Changes/Codex CLI/2026-02-12-improved-websocket-session-stability-by-continuing-ping-handling-when-idle-and-s|Improved
   websocket session stability by continuing ping handling when idle…]]'
+- '[[Changes/Open WebUI/2026-02-12-16-reliability-and-performance-changes-in-v0-8-0|16
+  Reliability and Performance changes in v0.8.0]]'
 - '[[Changes/Windsurf/2026-02-12-addressed-multiple-memory-leaks|Addressed multiple
   memory leaks]]'
 scope: iOS

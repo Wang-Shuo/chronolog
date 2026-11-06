@@ -4,20 +4,20 @@ date: '2026-06-30'
 description: 'GitHub Copilot CLI · 2026-06-30 · Voice and Audio: Voice mode turns
   itself off when the engine fails to start at boot'
 diffusion:
-  first_in_tracked: '[[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source
-    link) support, which allows you…]]'
+  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
+    Voice and Audio changes in 0.3.7]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1054
+  lag_days: 1086
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c40dd103c60530e9a4cbc60f7abbbfb986551f36f5402af51cff02a5ae64c532
+machine_hash: f8a339866cc7f65b10b16f39f45aad0d34afc04fd71e69963cc52a438a057bbe
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -41,12 +41,10 @@ record:
   title: Voice mode turns itself off when the engine fails to start at boot
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-06-18-help-with-pronunciations-chatgpt-can-now-include-text-and-audio-pronunciation-gu|Help
-  with pronunciations]]'
-- '[[Changes/ChatGPT/2026-06-26-we-re-rolling-out-a-new-speech-to-text-model-for-dictation-in-chatgpt-across-all|Improved
-  dictation in ChatGPT]]'
-- '[[Changes/Claude Code/2026-06-26-improved-voice-mode-on-linux-now-distinguishes-no-microphone-from-sox-not-instal|Improved
-  voice mode on Linux]]'
+- '[[Changes/ElevenLabs/2026-06-29-python-sdk|Python SDK]]'
+- '[[Changes/ElevenLabs/2026-06-29-speech-to-text-b8f62a|Speech to Text]]'
+- '[[Changes/Open WebUI/2026-06-29-3-voice-and-audio-changes-in-v0-10-0|3 Voice and
+  Audio changes in v0.10.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-06-30-v1-0-66-github-346845066-af776740|github-copilot-cli-2026-06-30-v1-0-66-github-346845066-af776740]]'
 source_type: github_releases
 theme: voice
@@ -91,14 +89,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-06-26 · Claude Code · [[Changes/Claude Code/2026-06-26-improved-voice-mode-on-linux-now-distinguishes-no-microphone-from-sox-not-instal|Improved voice mode on Linux]]
-- Later: 2026-07-08 · ChatGPT · [[Changes/ChatGPT/2026-07-08-we-re-rolling-out-a-new-chatgpt-voice-experience-chatgpt-voice-is-now-powered-by|Introducing GPT-Live-1 in ChatGPT Voice]]
+- Earlier: 2026-06-29 · Open WebUI · [[Changes/Open WebUI/2026-06-29-3-voice-and-audio-changes-in-v0-10-0|3 Voice and Audio changes in v0.10.0]]
+- Later: 2026-07-01 · Open WebUI · [[Changes/Open WebUI/2026-07-01-speech-to-text-request-format-openai-compatible-speech-to-text-can-now-send-audi|🎙️ Speech-to-text request format. OpenAI-compatible speech-to-text can now send…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-08-11 · Aider · [[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source link) support, which allows you…]]
+- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

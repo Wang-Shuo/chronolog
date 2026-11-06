@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 62c04d952d74f963ac35b5b3ce32ecdd677aaef09dcbe17ef10e4134cab20fb4
+machine_hash: 7c98b71858b470d71baaabc601456d1691d6c49da7b2d859f91913338dc17155
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -62,10 +62,10 @@ record:
   title: 10 Developer Workflow changes in v0.6.0
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-09-17-feat-commands-add-new-commands-for-docs-git-and-pr-review-by-allenhutchison-in-h|feat(commands):
-  Add new commands for docs, git, and PR review]]'
 - '[[Changes/Codex CLI/2025-09-18-new-review-command-introduced-in-3774|new /review
   command introduced in ♯3774]]'
+- '[[Changes/Dify/2025-09-22-12-developer-workflow-changes-in-1-9-0|12 Developer Workflow
+  changes in 1.9.0]]'
 - '[[Changes/Codex CLI/2025-09-23-2-developer-workflow-changes-in-rust-v0-40-0|2 Developer
   Workflow changes in rust-v0.40.0]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-09-24-v0-6-0-github-249519586-83671b5c|gemini-cli-2025-09-24-v0-6-0-github-249519586-83671b5c]]'
@@ -124,7 +124,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.6.0
 ## Nearby in Developer Workflow
 
 - Earlier: 2025-09-23 · Codex CLI · [[Changes/Codex CLI/2025-09-23-2-developer-workflow-changes-in-rust-v0-40-0|2 Developer Workflow changes in rust-v0.40.0]]
-- Later: 2025-09-26 · Codex CLI · [[Changes/Codex CLI/2025-09-26-3-developer-workflow-changes-in-rust-v0-42-0|3 Developer Workflow changes in rust-v0.42.0]]
+- Later: 2025-09-25 · Open WebUI · [[Changes/Open WebUI/2025-09-25-2-developer-workflow-changes-in-v0-6-31|2 Developer Workflow changes in v0.6.31]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

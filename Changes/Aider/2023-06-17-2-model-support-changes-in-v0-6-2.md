@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f6d065005cd05f0fcea75ceddcec1d5c179ffb495f4419391001d4b37d8c987f
+machine_hash: 6546b501f1b7c0b517213ede9392de2ba99620b870ab0a8c5147233c20e06507
 product: aider
 product_name: Aider
 record:
@@ -43,7 +43,8 @@ record:
   title: 2 Model Support changes in v0.6.2
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-05-20-upgrades-to-gpt-4-e59675|Upgrades to GPT-4]]'
+- '[[Changes/Dify/2023-05-25-feat-generation-support-gpt4-by-iamjoel-in-https-github-com-langgenius-dify-pull|feat:
+  generation support gpt4]]'
 - '[[Changes/Cursor/2023-06-01-check-out-the-more-tab-to-have-gpt-3-5-or-gpt-4-review-your-code-periodically-fo|AI
   Linting]]'
 - '[[Changes/Aider/2023-06-07-added-support-for-gpt-3-5-turbo-and-gpt-4-32k|Added

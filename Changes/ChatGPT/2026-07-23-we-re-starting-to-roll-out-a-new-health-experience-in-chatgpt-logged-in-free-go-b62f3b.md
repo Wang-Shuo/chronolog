@@ -5,20 +5,20 @@ description: 'ChatGPT · 2026-07-23 · Files and Data: We’re starting to roll 
   new health experience in ChatGPT. Logged-in Free, Go, Plus, and Pro users in the
   United…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code
-    interpreter is now rolling out in beta on web]]'
+  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
+    Files and Data changes in 0.2.2]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1113
+  lag_days: 1155
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 35c5d2bda27817b0bc77c9147bf22f4f83473b20e6878744e9c7172950fe4998
+machine_hash: 9418e0672ff1fa26af830b34973982b0679235c0ca22f06f88ed9e92f46c77ae
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -60,10 +60,10 @@ record:
   title: We’re starting to roll out a new health experience in ChatGPT
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-15-claude-in-chrome-hardened-file-upload-path-validation|Claude
-  in Chrome: hardened file-upload path validation]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-16-add-canvas-support-in-the-cli-for-extension-driven-interactions|Add
   canvas support in the CLI for extension-driven interactions]]'
+- '[[Changes/Dify/2026-07-17-2-files-and-data-changes-in-1-16-0|2 Files and Data changes
+  in 1.16.0]]'
 - '[[Changes/Codex CLI/2026-07-21-33167-document-the-windows-exec-yield-time-range-copyberry|♯33167
   Document the Windows exec yield time range @copyberry]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-07-23-health-in-chatgpt-4cb3bdf6|chatgpt-2026-07-23-health-in-chatgpt-4cb3bdf6]]'
@@ -97,13 +97,13 @@ type: change
 ## Nearby in Files and Data
 
 - Earlier: 2026-07-21 · Codex CLI · [[Changes/Codex CLI/2026-07-21-33167-document-the-windows-exec-yield-time-range-copyberry|♯33167 Document the Windows exec yield time range @copyberry]]
-- Later: 2026-07-28 · OpenHands · [[Changes/OpenHands/2026-07-28-migrated-from-https-github-com-openhands-agent-canvas-releases-tag-v1-6-1-to-see|Migrated from (source link) to seed…]]
+- Later: 2026-07-27 · Open WebUI · [[Changes/Open WebUI/2026-07-27-9-files-and-data-changes-in-v0-11-0|9 Files and Data changes in v0.11.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-06 · ChatGPT · [[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code interpreter is now rolling out in beta on web]]
+- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

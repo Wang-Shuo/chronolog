@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 97c24348ffb30c5df34536141cc1dae2f7c1e47b1093d46424625e02159dae33
+machine_hash: b0609e0eb9fd4cd83e2a5a256312f5a60863730b991827a7b134b43f8edaf10e
 product: cursor
 product_name: Cursor
 record:
@@ -47,9 +47,8 @@ record:
   title: Agent in Jupyter Notebooks
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-05-15-background-agent-preview|Background Agent (Preview)]]'
-- '[[Changes/OpenHands/2025-05-20-2-agent-mode-changes-in-0-39-0|2 Agent Mode changes
-  in 0.39.0]]'
+- '[[Changes/ElevenLabs/2025-06-01-agents-platform|Agents Platform]]'
+- '[[Changes/ElevenLabs/2025-06-01-agents-platform-dedb85|Agents Platform]]'
 - '[[Changes/Cursor/2025-06-04-open-background-agent-control-panel-with-cmd-ctrl-e|Open
   Background Agent control panel with Cmd/Ctrl+E]]'
 source_release: '[[Releases/Cursor/cursor-2025-06-04-1-0-https-cursor-com-changelog-1-0-237767ca|cursor-2025-06-04-1-0-https-cursor-com-changelog-1-0-237767ca]]'
@@ -95,8 +94,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2025-05-20 · OpenHands · [[Changes/OpenHands/2025-05-20-2-agent-mode-changes-in-0-39-0|2 Agent Mode changes in 0.39.0]]
-- Later: 2025-06-10 · OpenHands · [[Changes/OpenHands/2025-06-10-ensured-prs-opened-by-agent-is-properly-tracked-in-conversation-metadata-by-malh|Ensured PRs opened by agent is properly tracked in conversation metadata]]
+- Earlier: 2025-06-01 · ElevenLabs · [[Changes/ElevenLabs/2025-06-01-agents-platform-dedb85|Agents Platform]]
+- Later: 2025-06-06 · Replit · [[Changes/Replit/2025-06-06-new-agent-entrypoints-in-workspace|New Agent entrypoints in workspace]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

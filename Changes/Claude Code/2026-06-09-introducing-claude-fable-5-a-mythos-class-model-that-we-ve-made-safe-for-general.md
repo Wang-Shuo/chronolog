@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: e23b0e3b5818c3f17b359fce05d8834dbe943fe85c77f10b227a46de28261969
+machine_hash: ca4538aabdab25ebc37d986e0b095606d511e79ffca406aef3389077744b4f96
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,12 +51,10 @@ record:
     general use'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-06-08-long-press-send-to-choose-a-model-users-on-paid-plans-can-now-long-press-the-sen|Long-press
-  send to choose a model]]'
-- '[[Changes/Claude Code/2026-06-08-added-a-disablebundledskills-setting-and-claude-code-disable-bundled-skills-envi|Added
-  a disableBundledSkills setting and CLAUDE_CODE_DISABLE_BUNDLED_SKILLS…]]'
-- '[[Changes/Codex CLI/2026-06-08-6-model-support-changes-in-rust-v0-138-0|6 Model
-  Support changes in rust-v0.138.0]]'
+- '[[Changes/ElevenLabs/2026-06-08-javascript-sdk|JavaScript SDK]]'
+- '[[Changes/v0/2026-06-08-v0-max-now-runs-on-claude-opus-4-8-and-max-fast-on-opus-4-8-fast-at-about-a-thir|v0
+  Max now runs on Claude Opus 4.8, and Max Fast on Opus 4.8 Fast at about a third…]]'
+- '[[Changes/Claude/2026-06-09-claude-fable-5-launch|Claude Fable 5 launch]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-09-v2-1-170-github-336724522-461fd3b3|claude-code-2026-06-09-v2-1-170-github-336724522-461fd3b3]]'
 source_type: github_releases
 theme: model-support
@@ -84,7 +82,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-06-08 · Codex CLI · [[Changes/Codex CLI/2026-06-08-6-model-support-changes-in-rust-v0-138-0|6 Model Support changes in rust-v0.138.0]]
+- Earlier: 2026-06-09 · Claude · [[Changes/Claude/2026-06-09-claude-fable-5-launch|Claude Fable 5 launch]]
 - Later: 2026-06-09 · Cline · [[Changes/Cline/2026-06-09-2-model-support-changes-in-v3-89-0|2 Model Support changes in v3.89.0]]
 <!-- chronolog:end -->
 

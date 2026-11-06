@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: c16edd630e9ff8ffc31fa53ab03862384a140eda22e2765094f05f215538ca66
+machine_hash: 3feefbbf00e37bc7184323a861382e44dcb7b9ecf3b7a04f774420a57ac48a66
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -44,12 +44,11 @@ record:
   title: 'feat: add support to remote MCP servers for custom HTTP headers'
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-06-20-slack-integration-beta-with-cloud-openhands-malhotra5-in-https-github-com-all-ha|Slack
-  Integration (Beta) with Cloud OpenHands @malhotra5…]]'
-- '[[Changes/OpenHands/2025-06-20-2-apps-and-integrations-changes-in-0-45-0|2 Apps
-  and Integrations changes in 0.45.0]]'
-- '[[Changes/ChatGPT/2025-06-24-pro-users-are-now-able-to-use-chat-search-connectors-in-addition-to-deep-researc-9d5a85|Chat
-  search connectors (Pro)]]'
+- '[[Changes/Dify/2025-06-25-11-apps-and-integrations-changes-in-1-5-0|11 Apps and
+  Integrations changes in 1.5.0]]'
+- '[[Changes/Replit/2025-06-27-new-landing-page-for-viewer-seats|New landing page
+  for viewer seats]]'
+- '[[Changes/ElevenLabs/2025-06-30-sdks|SDKs]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-07-01-v0-1-8-github-229252035-f46324ec|gemini-cli-2025-07-01-v0-1-8-github-229252035-f46324ec]]'
 source_type: github_releases
 theme: apps-integrations
@@ -87,8 +86,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-06-24 · ChatGPT · [[Changes/ChatGPT/2025-06-24-pro-users-are-now-able-to-use-chat-search-connectors-in-addition-to-deep-researc-9d5a85|Chat search connectors (Pro)]]
-- Later: 2025-07-02 · Gemini CLI · [[Changes/Gemini CLI/2025-07-02-add-excludedtools-to-extensions-by-scidomino-in-https-github-com-google-gemini-g|Add excludedTools to extensions]]
+- Earlier: 2025-06-30 · ElevenLabs · [[Changes/ElevenLabs/2025-06-30-sdks|SDKs]]
+- Later: 2025-07-02 · Dify · [[Changes/Dify/2025-07-02-7-apps-and-integrations-changes-in-1-5-1|7 Apps and Integrations changes in 1.5.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

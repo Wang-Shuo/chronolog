@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 924ea5a659bccde995cc676c72ea1dd0713a5142d23f079d770d01a2479d7d6c
+machine_hash: ef57b02eacfe394f2c152288dfbfb0ff88befd9048ce8ab81db6f41ad0cd435e
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,10 +44,9 @@ record:
   title: 2 Interface Experience changes in rust-v0.23.0
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-08-12-5356-minor-fix-remove-duplicate-binding-and-add-complete-navigation-command-by-l|♯5356
-  Minor fix: Remove duplicate binding and add complete navigation command]]'
 - '[[Changes/Cline/2025-08-13-move-browser-settings-menu-to-tailwind-by-celestial-vault-in-https-github-com-cl|move
   browser settings menu to tailwind]]'
+- '[[Changes/Gemini/2025-08-13-introducing-temporary-chat|Introducing Temporary Chat]]'
 - '[[Changes/Gemini CLI/2025-08-14-3-interface-experience-changes-in-v0-1-21|3 Interface
   Experience changes in v0.1.21]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-08-20-rust-v0-23-0-github-241091696-29f8dece|codex-cli-2025-08-20-rust-v0-23-0-github-241091696-29f8dece]]'
@@ -92,7 +91,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.23.0
 ## Nearby in Interface Experience
 
 - Earlier: 2025-08-14 · Gemini CLI · [[Changes/Gemini CLI/2025-08-14-3-interface-experience-changes-in-v0-1-21|3 Interface Experience changes in v0.1.21]]
-- Later: 2025-08-26 · Codex CLI · [[Changes/Codex CLI/2025-08-26-3-interface-experience-changes-in-rust-v0-24-0|3 Interface Experience changes in rust-v0.24.0]]
+- Later: 2025-08-21 · Gemini · [[Changes/Gemini/2025-08-21-revisit-your-conversations-you-can-now-search-your-gemini-chat-history|Revisit your conversations: You can now search your Gemini chat history]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

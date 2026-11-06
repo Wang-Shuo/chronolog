@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7cf95d006b7836336678d1791aca499ee8a78123d27f2830d04d12f5b6ea311d
+machine_hash: a6a9705ed6c9ed6392015474e3bbb7c02c39e46c431009b3fbd3436a9a70f9b5
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -44,12 +44,12 @@ record:
   title: 'fix(a2a-server): enforce workspace trust and task isolation to prevent RCE'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-08-2-safety-and-privacy-changes-in-v2-1-225|2 Safety
-  and Privacy changes in v2.1.225]]'
 - '[[Changes/Cline/2026-08-09-never-run-a-foreign-compiled-plugin-sandbox-bootstrap-for-a-source-host|Never
   run a foreign compiled plugin-sandbox bootstrap for a source host]]'
 - '[[Changes/GitHub Copilot CLI/2026-08-10-11-safety-and-privacy-changes-in-v1-0-79|11
   Safety and Privacy changes in v1.0.79]]'
+- '[[Changes/Lovable/2026-08-10-security-scan-setting-removed-from-workspace-settings|Security
+  scan setting removed from workspace settings]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-08-11-v0-55-1-github-368860370-07bf49f0|gemini-cli-2026-08-11-v0-55-1-github-368860370-07bf49f0]]'
 source_type: github_releases
 theme: safety-privacy
@@ -83,8 +83,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-08-10 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-08-10-11-safety-and-privacy-changes-in-v1-0-79|11 Safety and Privacy changes in v1.0.79]]
-- Later: 2026-08-12 · Claude Code · [[Changes/Claude Code/2026-08-12-improved-sandbox-ipv6-literals-in-network-domain-lists-are-now-bracketed-1-443-a|Improved sandbox: IPv6 literals in network domain lists are now bracketed…]]
+- Earlier: 2026-08-10 · Lovable · [[Changes/Lovable/2026-08-10-security-scan-setting-removed-from-workspace-settings|Security scan setting removed from workspace settings]]
+- Later: 2026-08-11 · Lovable · [[Changes/Lovable/2026-08-11-limit-on-free-fixes|Limit on free fixes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 01163386faed0ad4a79d9488188b0fa774c8ab3903c82f66307fff619ac5bc27
+machine_hash: 6c2abefd9b7b17a62d9144c1e40f63bbdc8a649189ebde35f806150fd0214eb7
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,10 +43,10 @@ record:
   title: Auto-compaction runs in background without blocking the conversation
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-01-06-2-context-window-changes-in-rust-v0-78-0|2 Context
-  Window changes in rust-v0.78.0]]'
 - '[[Changes/Gemini CLI/2026-01-07-add-core-tool-that-adds-all-context-from-the-core-package-by-jacob314-in-https-g|Add
   core tool that adds all context from the core package]]'
+- '[[Changes/Open WebUI/2026-01-09-3-context-window-changes-in-v0-7-0|3 Context Window
+  changes in v0.7.0]]'
 - '[[Changes/Claude Code/2026-01-13-added-context-window-used-percentage-and-context-window-remaining-percentage-fie|Added
   context_window.used_percentage and context_window.remaining_percentage…]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-01-13-v0-0-380-github-276209240-1033f81a|github-copilot-cli-2026-01-13-v0-0-380-github-276209240-1033f81a]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 35bdca619c5dd291c33d1a9ce92398e043c6cc6f7931556ce8b484ea0aa4b282
+machine_hash: dca17ef9c528dd5afee896c3cb06ce2232ec22f492fcf67e4b163a2e16a2cbb5
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,10 +42,10 @@ record:
   title: Renamed the `/effort` slider labels…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-05-21-23578-fix-app-server-speed-up-shutdown-fcoury-oai|♯23578
-  fix(app-server): speed up shutdown @fcoury-oai]]'
 - '[[Changes/Claude Code/2026-05-27-the-usage-breakdown-now-includes-large-session-files-files-are-scanned-with-a-st|The
   /usage breakdown now includes large session files]]'
+- '[[Changes/Lovable/2026-05-27-faster-app-previews-across-regions|Faster app previews
+  across regions]]'
 - '[[Changes/Claude Code/2026-05-28-claude-code-now-shows-a-one-time-notice-when-your-npm-global-install-can-t-auto|Claude
   Code now shows a one-time notice when your npm global install can''t auto-update]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-28-v2-1-154-github-330944050-782cdfc9|claude-code-2026-05-28-v2-1-154-github-330944050-782cdfc9]]'
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-05-28 · Claude Code · [[Changes/Claude Code/2026-05-28-claude-code-now-shows-a-one-time-notice-when-your-npm-global-install-can-t-auto|Claude Code now shows a one-time notice when your npm global install can't auto-update]]
-- Later: 2026-05-29 · Claude Code · [[Changes/Claude Code/2026-05-29-improved-performance-of-long-and-resumed-conversations-by-eliminating-redundant|Improved performance of long and resumed conversations by eliminating redundant…]]
+- Later: 2026-05-28 · Lovable · [[Changes/Lovable/2026-05-28-improvements-and-bug-fixes|Improvements and bug fixes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

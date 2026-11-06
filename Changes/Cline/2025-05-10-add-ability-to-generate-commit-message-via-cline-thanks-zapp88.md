@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0ec12647d16d3b894ee514f3e90985934b108fae212ddcc2906c288a5ed93a51
+machine_hash: 439761f97294685d87066c0969cac936d0bc1e58400f74dda0fcf613f3128d2a
 product: cline
 product_name: Cline
 record:
@@ -79,7 +79,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2025-05-09 · Aider · [[Changes/Aider/2025-05-09-5-developer-workflow-changes-in-v0-83-0|5 Developer Workflow changes in v0.83.0]]
-- Later: 2025-06-01 · OpenHands · [[Changes/OpenHands/2025-06-01-added-a-dev-container-setup-for-development-by-kentyman23-in-https-github-com-al|Added a dev container setup for development]]
+- Later: 2025-05-19 · Open WebUI · [[Changes/Open WebUI/2025-05-19-preview-button-for-code-artifacts-instantly-jump-from-an-html-code-block-to-its|📝 Preview Button for Code Artifacts]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

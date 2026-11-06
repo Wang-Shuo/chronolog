@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3b8e16268218d850fa21db3309168d7cd3966ae6d7ecc0e353cf82fdf3ed5338
+machine_hash: 76be96e5fec0ea1c10e672113a7a948b6891081560690711f4313c98ad999569
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,10 +44,10 @@ record:
   title: 2 Collaboration changes in rust-v0.85.0
   type: change
 related_changes:
-- '[[Changes/Cline/2025-12-16-migrate-whatsnewmodal-to-new-shared-dialogue-component|Migrate
-  WhatsNewModal to new shared dialogue component]]'
-- '[[Changes/Codex CLI/2025-12-18-8221-change-team-to-buisness-and-add-education|♯8221
-  Change “Team” to “Buisness” and add Education]]'
+- '[[Changes/Dify/2025-12-25-refactor-create-shared-react-i18next-mock-to-reduce-duplication-by-lyzno1-in-htt|refactor:
+  create shared react-i18next mock to reduce duplication]]'
+- '[[Changes/Replit/2026-01-02-the-replit-team-is-spending-time-with-friends-and-family-to-celebrate-the-holida|Replit
+  updates — 2026-01-02]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-07-add-share-and-share-gist-flags-for-session-sharing-in-non-interactive-mode|Add
   --share and --share-gist flags for session sharing in non-interactive mode]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-01-15-rust-v0-85-0-github-277157618-2b62da73|codex-cli-2026-01-15-rust-v0-85-0-github-277157618-2b62da73]]'
@@ -87,7 +87,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.85.0
 ## Nearby in Collaboration
 
 - Earlier: 2026-01-07 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-07-add-share-and-share-gist-flags-for-session-sharing-in-non-interactive-mode|Add --share and --share-gist flags for session sharing in non-interactive mode]]
-- Later: 2026-01-16 · Codex CLI · [[Changes/Codex CLI/2026-01-16-collaboration-wait-calls-can-block-on-multiple-ids-in-one-request-simplifying-mu|Collaboration wait calls can block on multiple IDs in one request, simplifying…]]
+- Later: 2026-01-16 · Claude · [[Changes/Claude/2026-01-16-claude-code-access-added-to-team-plan-standard-seats|Claude Code access added to Team plan Standard seats]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

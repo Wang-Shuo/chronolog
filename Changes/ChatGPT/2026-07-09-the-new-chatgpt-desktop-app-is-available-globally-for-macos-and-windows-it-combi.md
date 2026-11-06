@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 346ebc345beb57c0801e2ecbc18560ef5a24ce8501e65f4873521a6892ca3664
+machine_hash: 0b3b3e9bec976f5f1eb87d93d7f3784b9d821de78243ab0de93b60742d701db7
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -47,8 +47,8 @@ record:
   title: The new ChatGPT desktop app is available globally for macOS and Windows
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-07-3-mobile-and-desktop-changes-in-v1-0-69|3
-  Mobile and Desktop changes in v1.0.69]]'
+- '[[Changes/Lovable/2026-07-07-find-in-page-clipboard-and-location-in-the-desktop-app|Find
+  in page, clipboard, and location in the desktop app]]'
 - '[[Changes/Codex CLI/2026-07-08-2-mobile-and-desktop-changes-in-rust-v0-143-0|2
   Mobile and Desktop changes in rust-v0.143.0]]'
 - '[[Changes/ChatGPT/2026-07-09-to-create-a-site-start-in-chatgpt-work-on-the-web-or-in-work-or-codex-in-the-cha|To

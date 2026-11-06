@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 261c25a8995d0de0554060fc424f42d2c60e15edafc1c8fe99da4d72f2632307
+machine_hash: ee7b74cbbf28b19fa18416dd0f64ad76ae505e06f65c7969213580666e13119d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -69,8 +69,8 @@ record:
   title: On desktop, Work can use local files and desktop apps with your permission
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-07-8-safety-and-privacy-changes-in-v1-0-69|8
-  Safety and Privacy changes in v1.0.69]]'
+- '[[Changes/v0/2026-07-07-5-safety-and-privacy-changes-in-grouped-tool-approvals-richer-mcp|5
+  Safety and Privacy changes in Grouped tool approvals, richer MCP…]]'
 - '[[Changes/Claude Code/2026-07-08-background-task-notifications-now-explicitly-state-that-no-human-input-has-occur|Background
   task notifications now explicitly state that no human input has occurred…]]'
 - '[[Changes/Codex CLI/2026-07-08-13-safety-and-privacy-changes-in-rust-v0-143-0|13

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: da80bf1cbb5cd48c0e6c05a1dcd222eedd9dd346266859431a28e4c4ac7f5eaf
+machine_hash: 838be5e04c5a63ab05779f6668ec4dfc9e6b342500945bb8a52edd87315818f6
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -42,12 +42,12 @@ record:
   title: Rename AuthType LOGIN_WITH_GOOGLE_PERSONAL -> LOGIN_WITH_GOOGLE
   type: change
 related_changes:
-- '[[Changes/Aider/2025-04-04-2-account-and-access-changes-in-v0-81-0|2 Account and
-  Access changes in v0.81.0]]'
-- '[[Changes/OpenHands/2025-04-16-added-support-for-gitlab-api-calling-using-both-oauth-and-pat-tokens-by-malhotra|Added
-  support for GitLab API calling using both OAuth and PAT tokens]]'
-- '[[Changes/Cursor/2025-06-04-mcp-one-click-install-and-oauth-support|MCP one-click
-  install and OAuth support]]'
+- '[[Changes/Dify/2025-06-16-login-rate-limit-clearing-after-a-password-reset-we-ve-made-sure-the-login-rate|Login
+  Rate Limit Clearing]]'
+- '[[Changes/Open WebUI/2025-06-16-2-account-and-access-changes-in-v0-6-15|2 Account
+  and Access changes in v0.6.15]]'
+- '[[Changes/Dify/2025-06-25-3-account-and-access-changes-in-1-5-0|3 Account and Access
+  changes in 1.5.0]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-07-01-v0-1-8-github-229252035-f46324ec|gemini-cli-2025-07-01-v0-1-8-github-229252035-f46324ec]]'
 source_type: github_releases
 theme: account-access
@@ -85,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2025-06-04 · Cursor · [[Changes/Cursor/2025-06-04-mcp-one-click-install-and-oauth-support|MCP one-click install and OAuth support]]
+- Earlier: 2025-06-25 · Dify · [[Changes/Dify/2025-06-25-3-account-and-access-changes-in-1-5-0|3 Account and Access changes in 1.5.0]]
 - Later: 2025-07-11 · Gemini CLI · [[Changes/Gemini CLI/2025-07-11-add-no-browser-environment-variable-to-trigger-offline-oauth-flow-by-sethtroisi|Add NO_BROWSER environment variable to trigger offline oauth flow]]
 <!-- chronolog:end -->
 

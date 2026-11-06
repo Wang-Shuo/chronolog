@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 7a9492a234cb8ec5018d62639606c686c4e74c50d84b9463cae1660b596063eb
+machine_hash: 43766136254f4e7e1930807b59af6c6fc293f5295ab8ea9655f6d58f3d3c3f2e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -57,8 +57,8 @@ record:
   title: “Fuzzy” improvements
   type: change
 related_changes:
-- '[[Changes/Aider/2025-03-25-2-model-support-changes-in-v0-79-0|2 Model Support changes
-  in v0.79.0]]'
+- '[[Changes/Gemini/2025-03-25-priority-access-with-gemini-advanced-try-our-latest-2-5-pro-experimental-model|Priority
+  access with Gemini Advanced: Try our latest 2.5 Pro (experimental) model]]'
 - '[[Changes/Cline/2025-03-26-4-model-support-changes-in-v3-8-3|4 Model Support changes
   in v3.8.3]]'
 - '[[Changes/ChatGPT/2025-03-27-we-ve-made-improvements-to-gpt-4o-it-now-feels-more-intuitive-creative-and-colla|ChatGPT

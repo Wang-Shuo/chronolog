@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f5ac6e7fb9d0a02f427f1afdc3cd309bcc814481230710c93ec4f6b295b61c8e
+machine_hash: 5e31b94a55190be94af25e76058cea76ca92a20cacf12803199d8e8778c50850
 product: claude-code
 product_name: Claude Code
 record:
@@ -60,10 +60,10 @@ record:
   title: Renamed Windsurf to Devin Desktop in the `/ide` menu, `/terminal-setup`…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-01-2-editor-experience-changes-in-rust-v0-136-0|2 Editor
-  Experience changes in rust-v0.136.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-01-9-editor-experience-changes-in-v1-0-57|9
   Editor Experience changes in v1.0.57]]'
+- '[[Changes/Open WebUI/2026-06-01-4-editor-experience-changes-in-v0-9-6|4 Editor
+  Experience changes in v0.9.6]]'
 - '[[Changes/Claude Code/2026-06-02-edit-no-longer-requires-a-separate-read-after-viewing-a-file-with-grep-single-fi|Edit
   no longer requires a separate Read after viewing a file with grep]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-03-v2-1-162-github-333906405-cdc7c67c|claude-code-2026-06-03-v2-1-162-github-333906405-cdc7c67c]]'

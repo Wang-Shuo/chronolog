@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 62ac3c3eea6b5de919fdec2781887375da4367a9b62648e53a9a232ab4d418ae
+machine_hash: 5ed31d3b57b72b474b3907282708a600f0d37fccc8f210eef20a64a979f5781a
 product: aider
 product_name: Aider
 record:
@@ -43,8 +43,8 @@ record:
   title: Improved reflection feedback to LLMs using the diff edit format
   type: change
 related_changes:
-- '[[Changes/Aider/2024-04-24-allow-repo-map-for-whole-edit-format|Allow repo map
-  for "whole" edit format]]'
+- '[[Changes/Open WebUI/2024-05-02-edit-button-styling-fixed-styling-inconsistency-with-edit-buttons|✏️
+  Edit Button Styling: Fixed styling inconsistency with edit buttons]]'
 - '[[Changes/Aider/2024-05-07-support-for-deepseek-v2-via-more-a-flexible-config-of-system-messages-in-the-dif|Support
   for Deepseek-V2, via more a flexible config of system messages in the diff…]]'
 - '[[Changes/Aider/2024-05-10-refactored-prompting-to-unify-some-phrasing-across-edit-formats|Refactored

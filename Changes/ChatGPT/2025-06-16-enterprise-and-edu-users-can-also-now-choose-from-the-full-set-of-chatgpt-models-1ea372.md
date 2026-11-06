@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7f3165cbe564044a732b0341333fa652fb1ebb8f5c7ee2902fa41f57831c9ea3
+machine_hash: 79a3109113d53a374179434a1f24db8ac680acdc08f74c94ae7bc94c5791d4dd
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -90,7 +90,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2025-06-13 · ChatGPT · [[Changes/ChatGPT/2025-06-13-in-some-cases-a-chain-of-thought-reasoning-will-show-up-unexpectedly-for-simple|In some cases, a “chain of thought” reasoning will show up unexpectedly for simple queries]]
-- Later: 2025-06-20 · OpenHands · [[Changes/OpenHands/2025-06-20-fixed-cli-displaying-incorrect-default-model-for-anthropic-provider-by-neubig-in|Fixed CLI displaying incorrect default model for Anthropic provider by @neubig…]]
+- Later: 2025-06-16 · Dify · [[Changes/Dify/2025-06-16-3-model-support-changes-in-1-4-3|3 Model Support changes in 1.4.3]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

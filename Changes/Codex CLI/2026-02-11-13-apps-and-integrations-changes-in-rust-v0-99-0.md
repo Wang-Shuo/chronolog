@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7c6e057a5527dd40a7cf9ee12cbf4ab8e2d57c257e73c3884738df6cb9f31545
+machine_hash: a6ea64c6e608a83f47420a76cef7ab1b65e3fd2061156c4c12181fd0739ec4e4
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -69,10 +69,9 @@ record:
   title: 13 Apps and Integrations changes in rust-v0.99.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-06-added-plugin-name-to-skill-descriptions-and-skills-menu-for-better-discoverabili|Added
-  plugin name to skill descriptions and /skills menu for better discoverability]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-07-4-apps-and-integrations-changes-in-v0-0-406|4
   Apps and Integrations changes in v0.0.406]]'
+- '[[Changes/ElevenLabs/2026-02-09-sdk-releases|SDK Releases]]'
 - '[[Changes/Gemini CLI/2026-02-10-7-apps-and-integrations-changes-in-v0-28-0|7 Apps
   and Integrations changes in v0.28.0]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-02-11-rust-v0-99-0-github-285424682-f7f48016|codex-cli-2026-02-11-rust-v0-99-0-github-285424682-f7f48016]]'
@@ -144,7 +143,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.99.0
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-02-10 · Gemini CLI · [[Changes/Gemini CLI/2026-02-10-7-apps-and-integrations-changes-in-v0-28-0|7 Apps and Integrations changes in v0.28.0]]
-- Later: 2026-02-11 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-11-3-apps-and-integrations-changes-in-v0-0-407|3 Apps and Integrations changes in v0.0.407]]
+- Later: 2026-02-11 · Dify · [[Changes/Dify/2026-02-11-10-apps-and-integrations-changes-in-1-13-0|10 Apps and Integrations changes in 1.13.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

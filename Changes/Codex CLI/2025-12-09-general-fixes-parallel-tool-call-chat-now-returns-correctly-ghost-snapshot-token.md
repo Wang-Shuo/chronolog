@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9b7dd64c2f5ef5bc97fe301583ed56512218ac7fab6de6c86756c036ca313003
+machine_hash: b2fecb8ed8a28bbd71900c64e6b01cc876a8352e022c40397786730782c4d91a
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -45,8 +45,8 @@ record:
     tokens…'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-12-02-5-context-window-changes-in-rust-v0-64-0|5 Context
-  Window changes in rust-v0.64.0]]'
+- "[[Changes/Open WebUI/2025-12-02-tool-call-response-token-duplication-was-fixed-by-removing-redundant-message-his|\U0001F504
+  Tool call response token duplication was fixed by removing redundant message…]]"
 - '[[Changes/Cline/2025-12-04-2-context-window-changes-in-v3-40-0|2 Context Window
   changes in v3.40.0]]'
 - '[[Changes/Codex CLI/2025-12-04-3-context-window-changes-in-rust-v0-65-0|3 Context

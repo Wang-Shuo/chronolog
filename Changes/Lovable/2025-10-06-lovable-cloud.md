@@ -1,0 +1,106 @@
+---
+card_id: lovable-2025-10-06-1f0dac
+date: '2025-10-06'
+description: 'Lovable · 2025-10-06 · Account and Access: Build full‑stack apps with
+  no manual Supabase setup. Lovable Cloud gives you on‑demand databases, user…'
+diffusion:
+  first_in_tracked: '[[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires
+    login]]'
+  inference: No adoption, equivalence, or causation claim.
+  lag_days: 921
+  relation: same-theme-chronology
+  role: later-observed
+  scope: tracked-products-only
+  theme: account-access
+  tracked_products_count: 20
+evolves_from: []
+extractor_version: fallback-v5
+impact: incremental
+kind: launch
+machine_hash: 2cdd12396168efff459e36d13a693175fbe54e2cd68e6fe36565e85f4c1e7c38
+product: lovable
+product_name: Lovable
+record:
+  card_id: lovable-2025-10-06-1f0dac
+  comparison: ''
+  date: '2025-10-06'
+  description: 'Lovable — Lovable updates — 2025-10-06: Build full‑stack apps with
+    no manual Supabase setup. Lovable Cloud gives you on‑demand databases, user authentication,
+    and storage that scales automatically as your app grows.'
+  evidence:
+  - quote: Build full‑stack apps with no manual Supabase setup. Lovable Cloud gives
+      you on‑demand databases, user authentication, and storage that scales automatically
+      as your app grows.
+    source_release: https://docs.lovable.dev/changelog
+  - quote: Lovable Cloud is available for all new projects, and any existing projects
+      that aren’t integrated with Supabase.
+    source_release: https://docs.lovable.dev/changelog
+  extractor_version: fallback-v5
+  impact: incremental
+  kind: launch
+  product: lovable
+  product_name: Lovable
+  slug: lovable-cloud
+  source_release: lovable-2025-10-06-2025-10-06-d7db7508
+  source_type: lovable_changelog
+  theme: account-access
+  title: Lovable Cloud**
+  type: change
+related_changes:
+- '[[Changes/Cursor/2025-09-29-1-7-41-token-sync-improvements-for-authentication|1.7.41:
+  Token sync improvements for authentication]]'
+- '[[Changes/Codex CLI/2025-10-03-4568-fix-hang-on-second-oauth-login-attempt|♯4568
+  Fix hang on second oauth login attempt]]'
+- '[[Changes/Codex CLI/2025-10-06-3-account-and-access-changes-in-rust-v0-45-0|3 Account
+  and Access changes in rust-v0.45.0]]'
+source_release: '[[Releases/Lovable/lovable-2025-10-06-2025-10-06-d7db7508|lovable-2025-10-06-2025-10-06-d7db7508]]'
+source_type: lovable_changelog
+theme: account-access
+title: Lovable Cloud
+type: change
+---
+
+<!-- chronolog:begin region="header" -->
+# Lovable Cloud**
+
+**Lovable** · 2025-10-06 · [[Themes/account-access|Account and Access]] · Launch · [Official source](https://docs.lovable.dev/changelog) · from [[Releases/Lovable/lovable-2025-10-06-2025-10-06-d7db7508|Lovable updates — 2025-10-06]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="evidence" -->
+> Build full‑stack apps with no manual Supabase setup. Lovable Cloud gives you on‑demand databases, user authentication, and storage that scales automatically as your app grows.
+>
+> Lovable Cloud is available for all new projects, and any existing projects that aren’t integrated with Supabase.
+>
+> Source: https://docs.lovable.dev/changelog
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Lovable/2025-10-06-turn-your-files-into-apps|Turn your files into apps]] · Apps and Integrations
+- [[Changes/Lovable/2025-10-06-voice-mode|Voice mode]] · Voice and Audio
+- [[Changes/Lovable/2025-10-06-stripe-integration|Stripe integration]] · Apps and Integrations
+- [[Changes/Lovable/2025-10-06-better-workspace-management|Better workspace management]] · Safety and Privacy
+- [[Changes/Lovable/2025-10-06-updated-community-resources|Updated community resources]] · Reliability and Performance
+- [[Changes/Lovable/2025-10-06-sonnet-4-5|Sonnet 4.5]] · Model Support
+- [[Changes/Lovable/2025-10-06-a-smoother-build-experience|A smoother build experience]] · Editor Experience
+- [[Changes/Lovable/2025-10-06-lovable-ai|Lovable AI]] · Model Support
+- [[Changes/Lovable/2025-10-06-reduced-build-errors-by-20|Reduced build errors by 20%]] · Other changes
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Account and Access
+
+- Earlier: 2025-10-06 · Codex CLI · [[Changes/Codex CLI/2025-10-06-3-account-and-access-changes-in-rust-v0-45-0|3 Account and Access changes in rust-v0.45.0]]
+- Later: 2025-10-07 · Gemini CLI · [[Changes/Gemini CLI/2025-10-07-for-dynamic-client-registration-use-registration-endpoint-in-config-if-available|For dynamic client registration - use registration endpoint in config if available…]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-03-30 · Cursor · [[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires login]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20lovable-2025-10-06-1f0dac&body=Card%3A%20Changes%2FLovable%2F2025-10-06-lovable-cloud.md%0ACard%20ID%3A%20lovable-2025-10-06-1f0dac%0ASource%3A%20https%3A%2F%2Fdocs.lovable.dev%2Fchangelog%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

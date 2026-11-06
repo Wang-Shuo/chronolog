@@ -10,12 +10,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f8956097d021e4af648fc94c5ba49b83f3786d00509bf640770e9c0db38cb150
+machine_hash: 50fbbf38b9806b0a113e1b28e9fa1342798cb134c022ac24738ff68bb2146c92
 product: cursor
 product_name: Cursor
 record:
@@ -74,7 +74,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2023-07-24 · Aider · [[Changes/Aider/2023-07-24-3-developer-workflow-changes-in-v0-10-1|3 Developer Workflow changes in v0.10.1]]
-- Later: 2023-07-28 · Cursor · [[Changes/Cursor/2023-07-28-better-support-for-remote-ssh|Better support for remote-ssh]]
+- Later: 2023-07-27 · Dify · [[Changes/Dify/2023-07-27-add-clean-unused-dataset-command-by-johnjyong-in-https-github-com-langgenius-dif|add clean unused dataset command]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5a2ea61007b86ba94178d601cd00cd35a7d1226cb1f23d4f7f2d24e797f16fb0
+machine_hash: 6124cd1408637d8be7b2abe2c40ddce52f3c980ec066d25efef8bd013108b4a0
 product: cline
 product_name: Cline
 record:
@@ -44,11 +44,10 @@ record:
   title: 'feat(context): add context window error detection for vercel ai gateway'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-11-20-ux-fixes-corrected-reasoning-display-preserved-review-footer-context-after-revie|UX
-  fixes: corrected reasoning display, preserved review footer context after…]]'
-- '[[Changes/Cursor/2025-11-21-rules-in-home-folder-cursor-rules-will-be-included-in-context|Rules
-  in home folder (~/.cursor/rules) will be included in context]]'
-- '[[Changes/Windsurf/2025-11-21-fast-context|Fast Context]]'
+- '[[Changes/Claude/2025-11-24-context-window-compaction|Context window compaction]]'
+- "[[Changes/Open WebUI/2025-11-24-rag-template-query-placeholder-escaping-logic-was-corrected-to-prevent-unintende|\U0001F4DD
+  RAG template query placeholder escaping logic was corrected to prevent unintended…]]"
+- '[[Changes/Lovable/2025-11-26-chat-suggestions|Chat suggestions]]'
 source_release: '[[Releases/Cline/cline-2025-11-27-v3-38-3-github-265611552-4d743450|cline-2025-11-27-v3-38-3-github-265611552-4d743450]]'
 source_type: github_releases
 theme: context-window
@@ -84,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2025-11-21 · Windsurf · [[Changes/Windsurf/2025-11-21-fast-context|Fast Context]]
+- Earlier: 2025-11-26 · Lovable · [[Changes/Lovable/2025-11-26-chat-suggestions|Chat suggestions]]
 - Later: 2025-12-02 · Cline · [[Changes/Cline/2025-12-02-2-context-window-changes-in-v3-39-0|2 Context Window changes in v3.39.0]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: edcb89470a3de9806407a222a6bc32fc0a2b5a8d6a14716894dab20ea2260945
+machine_hash: 9a674d0211f197ec6e912ed34b6c088948434a5100c79716fb370db612d82e03
 product: claude-code
 product_name: Claude Code
 record:
@@ -56,12 +56,12 @@ record:
   title: 6 Apps and Integrations changes in v2.1.128
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-04-30-37-apps-and-integrations-changes-in-rust-v0-128-0|37
-  Apps and Integrations changes in rust-v0.128.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-01-6-apps-and-integrations-changes-in-v1-0-40|6
   Apps and Integrations changes in v1.0.40]]'
 - '[[Changes/OpenHands/2026-05-01-2-apps-and-integrations-changes-in-1-7-0|2 Apps
   and Integrations changes in 1.7.0]]'
+- '[[Changes/Replit/2026-05-01-replit-app-monitoring-keeps-an-eye-on-your-published-apps|Replit
+  App Monitoring keeps an eye on your published apps]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-04-v2-1-128-github-317391175-a20e13a2|claude-code-2026-05-04-v2-1-128-github-317391175-a20e13a2]]'
 source_type: github_releases
 theme: apps-integrations
@@ -107,8 +107,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.128
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-05-01 · OpenHands · [[Changes/OpenHands/2026-05-01-2-apps-and-integrations-changes-in-1-7-0|2 Apps and Integrations changes in 1.7.0]]
-- Later: 2026-05-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-05-2-apps-and-integrations-changes-in-v1-0-41|2 Apps and Integrations changes in v1.0.41]]
+- Earlier: 2026-05-01 · Replit · [[Changes/Replit/2026-05-01-replit-app-monitoring-keeps-an-eye-on-your-published-apps|Replit App Monitoring keeps an eye on your published apps]]
+- Later: 2026-05-04 · ElevenLabs · [[Changes/ElevenLabs/2026-05-04-sdk-releases|SDK Releases]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 9fbab7193957d898ad190a4ce3bac51895b5bb55a12d19fa2168de7f520c1353
+machine_hash: 753aa598ad60c0666c930d40d36e5e7209eb9451d703e6469791a4bb065eace4
 product: cline
 product_name: Cline
 record:
@@ -45,10 +45,10 @@ record:
     tool execution
   type: change
 related_changes:
-- '[[Changes/Cline/2026-02-05-codex-5-3-through-chatgpt-subscription|Codex-5.3 through
-  ChatGPT subscription]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-07-display-warning-when-user-has-no-copilot-subscription|Display
   warning when user has no Copilot subscription]]'
+- '[[Changes/Dify/2026-02-11-to-support-the-stateful-pause-resume-mechanism-required-by-hitl-and-provide-even|To
+  support the stateful pause/resume mechanism required by HITL and provide…]]'
 - '[[Changes/Gemini CLI/2026-03-03-feat-billing-implement-g1-ai-credits-overage-flow-with-billing-telemetry-by-gsqu|feat(billing):
   implement G1 AI credits overage flow with billing telemetry]]'
 source_release: '[[Releases/Cline/cline-2026-03-04-v3-70-0-github-293184978-91bc11b0|cline-2026-03-04-v3-70-0-github-293184978-91bc11b0]]'
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2026-03-03 · Gemini CLI · [[Changes/Gemini CLI/2026-03-03-feat-billing-implement-g1-ai-credits-overage-flow-with-billing-telemetry-by-gsqu|feat(billing): implement G1 AI credits overage flow with billing telemetry]]
-- Later: 2026-03-10 · ChatGPT · [[Changes/ChatGPT/2026-03-10-eligible-chatgpt-plus-and-pro-users-can-now-turn-on-auto-top-up-for-credits-used-5e9d54|Auto top-up for flexible usage credits]]
+- Later: 2026-03-04 · v0 · [[Changes/v0/2026-03-04-added-low-credits-warning-and-auto-recharge-opt-in-to-improve-out-of-credits-flo|Added low-credits warning and auto-recharge opt-in to improve out-of-credits flow]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

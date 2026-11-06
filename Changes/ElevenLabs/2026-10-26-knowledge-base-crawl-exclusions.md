@@ -1,0 +1,121 @@
+---
+card_id: elevenlabs-2026-10-26-0ab50b
+date: '2026-10-26'
+description: 'ElevenLabs · 2026-10-26 · Agent Mode: **ElevenAgents** knowledge base
+  website crawls can now skip parts of a site. Pass up to 50 `exclude_patterns` to
+  [Create…'
+diffusion:
+  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Agents,
+    new docs]]'
+  inference: No adoption, equivalence, or causation claim.
+  lag_days: 1208
+  relation: same-theme-chronology
+  role: later-observed
+  scope: tracked-products-only
+  theme: agent-mode
+  tracked_products_count: 20
+evolves_from: []
+extractor_version: fallback-v5
+impact: incremental
+kind: launch
+machine_hash: 9cb28843925b0d85632abbae367bf69e6e70ddcc3fd4f0a48ecbca5ee9f3294c
+product: elevenlabs
+product_name: ElevenLabs
+record:
+  card_id: elevenlabs-2026-10-26-0ab50b
+  comparison: ''
+  date: '2026-10-26'
+  description: 'ElevenLabs — ElevenLabs updates — 2026-10-26: **ElevenAgents** knowledge
+    base website crawls can now skip parts of a site. Pass up to 50 `exclude_patterns`
+    to [Create crawl job](https://elevenlabs.io/docs/api-reference/knowledge-base/create-crawl-job),
+    or fill in the **Exclude patterns** field in the whole-website crawl dialog, and
+    URLs that match any pattern are skipped even when they match the crawl `pattern`.
+    Crawl job responses return the patterns that were used. See [Knowledge base](https://elevenlabs.io/docs/eleven-agents/customization/knowledge-base)
+    for crawl setup.'
+  evidence:
+  - quote: '**ElevenAgents** knowledge base website crawls can now skip parts of a
+      site. Pass up to 50 `exclude_patterns` to [Create crawl job](https://elevenlabs.io/docs/api-reference/knowledge-base/create-crawl-job),
+      or fill in the **Exclude patterns** field in the whole-website crawl dialog,
+      and URLs that match any pattern are skipped even when they match the crawl `pattern`.
+      Crawl job responses return the patterns that were used. See [Knowledge base](https://elevenlabs.io/docs/eleven-agents/customization/knowledge-base)
+      for crawl setup.'
+    source_release: https://elevenlabs.io/docs/changelog/2026/10/26
+  extractor_version: fallback-v5
+  impact: incremental
+  kind: launch
+  product: elevenlabs
+  product_name: ElevenLabs
+  slug: knowledge-base-crawl-exclusions
+  source_release: elevenlabs-2026-10-26-2026-10-26-ca7c552d
+  source_type: elevenlabs_changelog
+  theme: agent-mode
+  title: Knowledge base crawl exclusions
+  type: change
+related_changes:
+- '[[Changes/Windsurf/2026-10-23-new-agent-window|New Agent Window]]'
+- '[[Changes/Windsurf/2026-10-23-3-agent-mode-changes-in-v3-11-212|3 Agent Mode changes
+  in v3.11.212]]'
+- '[[Changes/Claude Code/2026-10-26-2-agent-mode-changes-in-v2-1-311|2 Agent Mode
+  changes in v2.1.311]]'
+source_release: '[[Releases/ElevenLabs/elevenlabs-2026-10-26-2026-10-26-ca7c552d|elevenlabs-2026-10-26-2026-10-26-ca7c552d]]'
+source_type: elevenlabs_changelog
+theme: agent-mode
+title: Knowledge base crawl exclusions
+type: change
+---
+
+<!-- chronolog:begin region="header" -->
+# Knowledge base crawl exclusions
+
+**ElevenLabs** · 2026-10-26 · [[Themes/agent-mode|Agent Mode]] · Launch · [Official source](https://elevenlabs.io/docs/changelog/2026/10/26) · from [[Releases/ElevenLabs/elevenlabs-2026-10-26-2026-10-26-ca7c552d|ElevenLabs updates — 2026-10-26]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="evidence" -->
+> **ElevenAgents** knowledge base website crawls can now skip parts of a site. Pass up to 50 `exclude_patterns` to [Create crawl job](https://elevenlabs.io/docs/api-reference/knowledge-base/create-crawl-job), or fill in the **Exclude patterns** field in the whole-website crawl dialog, and URLs that match any pattern are skipped even when they match the crawl `pattern`. Crawl job responses return the patterns that were used. See [Knowledge base](https://elevenlabs.io/docs/eleven-agents/customization/knowledge-base) for crawl setup.
+>
+> Source: https://elevenlabs.io/docs/changelog/2026/10/26
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/ElevenLabs/2026-10-26-2-apps-and-integrations-changes-in-elevenlabs-updates-2026-10-26|2 Apps and Integrations changes in ElevenLabs updates — 2026-10-26]] · Apps and Integrations
+- [[Changes/ElevenLabs/2026-10-26-python-sdk|Python SDK]] · Voice and Audio
+- [[Changes/ElevenLabs/2026-10-26-elevenagents|ElevenAgents]] · Agent Mode
+- [[Changes/ElevenLabs/2026-10-26-clone-strength-for-v4-voices|Clone strength for v4 voices]] · Voice and Audio
+- [[Changes/ElevenLabs/2026-10-26-android-sdk|Android SDK]] · Mobile and Desktop
+- [[Changes/ElevenLabs/2026-10-26-2-pricing-model-changes-in-elevenlabs-updates-2026-10-26|2 Pricing Model changes in ElevenLabs updates — 2026-10-26]] · Pricing Model
+- [[Changes/ElevenLabs/2026-10-26-transcript-downloads-the-dubbing-project-menu-can-download-target-language-trans|Transcript downloads: The dubbing project menu can download target language…]] · Interface Experience
+- [[Changes/ElevenLabs/2026-10-26-video-to-music-studio-s-video-to-music-workflow-uses-music-v2-5-by-default|Video to music: Studio's video to music workflow uses Music v2.5 by default]] · Multimodal Input
+- [[Changes/ElevenLabs/2026-10-26-2-editor-experience-changes-in-elevenlabs-updates-2026-10-26|2 Editor Experience changes in ElevenLabs updates — 2026-10-26]] · Editor Experience
+- [[Changes/ElevenLabs/2026-10-26-dubbing|Dubbing]] · Voice and Audio
+- [[Changes/ElevenLabs/2026-10-26-voice-changer|Voice Changer]] · Voice and Audio
+- [[Changes/ElevenLabs/2026-10-26-2-mobile-and-desktop-changes-in-elevenlabs-updates-2026-10-26|2 Mobile and Desktop changes in ElevenLabs updates — 2026-10-26]] · Mobile and Desktop
+- [[Changes/ElevenLabs/2026-10-26-packages|Packages]] · Voice and Audio
+- [[Changes/ElevenLabs/2026-10-26-14-voice-and-audio-changes-in-elevenlabs-updates-2026-10-26|14 Voice and Audio changes in ElevenLabs updates — 2026-10-26]] · Voice and Audio
+- [[Changes/ElevenLabs/2026-10-26-javascript-sdk|JavaScript SDK]] · Voice and Audio
+- [[Changes/ElevenLabs/2026-10-26-voice-cloning-permissions-members-without-the-create-instant-voice-clone-or-crea|Voice cloning permissions]] · Safety and Privacy
+- [[Changes/ElevenLabs/2026-10-26-9-agent-mode-changes-in-elevenlabs-updates-2026-10-26|9 Agent Mode changes in ElevenLabs updates — 2026-10-26]] · Agent Mode
+- [[Changes/ElevenLabs/2026-10-26-fast-llm-service-tier|Fast LLM service tier]] · Model Support
+- [[Changes/ElevenLabs/2026-10-26-3-model-support-changes-in-elevenlabs-updates-2026-10-26|3 Model Support changes in ElevenLabs updates — 2026-10-26]] · Model Support
+- [[Changes/ElevenLabs/2026-10-26-elevenlabs-cli|ElevenLabs CLI]] · Account and Access
+- [[Changes/ElevenLabs/2026-10-26-oauth-scope-oauth-clients-can-request-the-realtime-translation-scope|OAuth scope: OAuth clients can request the realtime_translation scope]] · Account and Access
+- [[Changes/ElevenLabs/2026-10-26-9-other-changes-in-elevenlabs-updates-2026-10-26|9 other changes in ElevenLabs updates — 2026-10-26]] · Other changes
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Agent Mode
+
+- Earlier: 2026-10-26 · Claude Code · [[Changes/Claude Code/2026-10-26-2-agent-mode-changes-in-v2-1-311|2 Agent Mode changes in v2.1.311]]
+- Later: 2026-10-26 · Windsurf · [[Changes/Windsurf/2026-10-26-the-status-bar-no-longer-disappears-after-you-switch-from-agent-mode-to-ide-mode|The status bar no longer disappears after you switch from Agent mode to IDE mode]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-07-06 · Cursor · [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Agents, new docs]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20elevenlabs-2026-10-26-0ab50b&body=Card%3A%20Changes%2FElevenLabs%2F2026-10-26-knowledge-base-crawl-exclusions.md%0ACard%20ID%3A%20elevenlabs-2026-10-26-0ab50b%0ASource%3A%20https%3A%2F%2Felevenlabs.io%2Fdocs%2Fchangelog%2F2026%2F10%2F26%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

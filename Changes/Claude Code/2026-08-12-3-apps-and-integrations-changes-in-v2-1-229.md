@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0be3e08018645ea9ba58142ddfeb44076e434341117314f34c2058dacdfdaa1a
+machine_hash: 63a1629474a5bc33b3e9082a566151c6637742658c7f72ffc5b3763e28020ca3
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,10 +48,10 @@ record:
   title: 3 Apps and Integrations changes in v2.1.229
   type: change
 related_changes:
-- '[[Changes/Cline/2026-08-09-2-apps-and-integrations-changes-in-v4-1-7|2 Apps and
-  Integrations changes in v4.1.7]]'
-- '[[Changes/GitHub Copilot CLI/2026-08-10-3-apps-and-integrations-changes-in-v1-0-79|3
-  Apps and Integrations changes in v1.0.79]]'
+- '[[Changes/Lovable/2026-08-10-agent-integrations-for-workspace-published-apps|Agent
+  integrations for workspace-published apps]]'
+- '[[Changes/Lovable/2026-08-10-connect-mcp-servers-from-a-registry|Connect MCP servers
+  from a registry]]'
 - '[[Changes/Claude Code/2026-08-11-2-apps-and-integrations-changes-in-v2-1-228|2
   Apps and Integrations changes in v2.1.228]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-12-v2-1-229-github-369475532-b063933d|claude-code-2026-08-12-v2-1-229-github-369475532-b063933d]]'
@@ -96,7 +96,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.229
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-08-11 · Claude Code · [[Changes/Claude Code/2026-08-11-2-apps-and-integrations-changes-in-v2-1-228|2 Apps and Integrations changes in v2.1.228]]
-- Later: 2026-08-13 · Claude Code · [[Changes/Claude Code/2026-08-13-4-apps-and-integrations-changes-in-v2-1-232|4 Apps and Integrations changes in v2.1.232]]
+- Later: 2026-08-12 · Lovable · [[Changes/Lovable/2026-08-12-unpublish-several-projects-at-once|Unpublish several projects at once]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

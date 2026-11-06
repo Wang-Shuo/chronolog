@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 023f071d4d7723fead9b3b6add44bf59eec6f4aaa6fb9cf2c4672f4fb6686947
+machine_hash: 4e7a3b53d2bd49d37531637b5858c377acb060e90364c339af611f62510fa75c
 product: openhands
 product_name: OpenHands
 record:
@@ -41,12 +41,12 @@ record:
   title: Better error when LLM settings do not exist
   type: change
 related_changes:
-- '[[Changes/Aider/2025-01-31-5-model-support-changes-in-v0-73-0|5 Model Support changes
-  in v0.73.0]]'
-- '[[Changes/OpenHands/2025-02-04-2-model-support-changes-in-0-23-0|2 Model Support
-  changes in 0.23.0]]'
-- '[[Changes/Aider/2025-02-06-4-model-support-changes-in-v0-74-0|4 Model Support changes
-  in v0.74.0]]'
+- '[[Changes/Ollama/2025-02-12-2-model-support-changes-in-v0-5-9|2 Model Support changes
+  in v0.5.9]]'
+- "[[Changes/Open WebUI/2025-02-13-gguf-model-upload-stability-fixed-upload-inconsistencies-for-gguf-models-ensurin|\U0001F4C2
+  GGUF Model Upload Stability]]"
+- "[[Changes/Open WebUI/2025-02-14-direct-connections-now-work-for-regular-users-fixed-a-bug-where-users-with-the-u|\U0001F517
+  Direct Connections Now Work for Regular Users]]"
 source_release: '[[Releases/OpenHands/openhands-2025-02-19-0-25-0-github-201270435-f90f221f|openhands-2025-02-19-0-25-0-github-201270435-f90f221f]]'
 source_type: github_releases
 theme: model-support
@@ -76,8 +76,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-02-06 · Aider · [[Changes/Aider/2025-02-06-4-model-support-changes-in-v0-74-0|4 Model Support changes in v0.74.0]]
-- Later: 2025-02-27 · OpenHands · [[Changes/OpenHands/2025-02-27-allow-selecting-the-claude-3-7-model-from-via-the-anthropic-provider-by-amanape|Allow selecting the Claude 3.7 model from via the Anthropic provider]]
+- Earlier: 2025-02-14 · Open WebUI · [[Changes/Open WebUI/2025-02-14-direct-connections-now-work-for-regular-users-fixed-a-bug-where-users-with-the-u|🔗 Direct Connections Now Work for Regular Users]]
+- Later: 2025-02-20 · Ollama · [[Changes/Ollama/2025-02-20-2-model-support-changes-in-v0-5-12|2 Model Support changes in v0.5.12]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

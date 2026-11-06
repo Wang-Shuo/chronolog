@@ -4,20 +4,20 @@ date: '2025-01-14'
 description: 'ChatGPT · 2025-01-14 · Automation and Scheduling: Today we’re rolling
   out a beta version of tasks—a new way to ask ChatGPT to do things for you at a future…'
 diffusion:
-  first_in_tracked: '[[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better
-    syntax error loop detection]]'
+  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
+    data clean schedule]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 132
+  lag_days: 378
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 29a45c20bf3f361f612bf3b4ab821cf443429f8cba4b82a8ccc3e05cbb54662f
+machine_hash: f61f782286481a439b83a10f1faa725099d13472e4e9d44a65f31f631f2ff2e1
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -52,8 +52,10 @@ record:
   title: Scheduled tasks in ChatGPT
   type: change
 related_changes:
-- '[[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better
-  syntax error loop detection]]'
+- '[[Changes/Open WebUI/2024-12-25-structured-output-for-ollama-pass-structured-data-output-directly-to-ollama-unlo|✅
+  Structured Output for Ollama]]'
+- "[[Changes/Open WebUI/2025-01-05-action-functions-restored-corrected-an-issue-preventing-action-functions-from-wo|\U0001F6E0️
+  Action Functions Restored]]"
 - '[[Changes/Cline/2025-01-06-there-is-now-a-see-new-changes-button-when-cline-completes-a-task-giving-you-an|There
   is now a ‘See new changes’ button when Cline completes a task, giving you…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-01-14-scheduled-tasks-in-chatgpt-b8005b4a|chatgpt-2025-01-14-scheduled-tasks-in-chatgpt-b8005b4a]]'
@@ -83,13 +85,13 @@ type: change
 ## Nearby in Automation and Scheduling
 
 - Earlier: 2025-01-06 · Cline · [[Changes/Cline/2025-01-06-there-is-now-a-see-new-changes-button-when-cline-completes-a-task-giving-you-an|There is now a ‘See new changes’ button when Cline completes a task, giving you…]]
-- Later: 2025-05-07 · OpenHands · [[Changes/OpenHands/2025-05-07-made-proactive-conversation-starters-for-cloud-resolver-configurable-on-a-per-us|Made proactive conversation starters for Cloud Resolver configurable on a per-user basis]]
+- Later: 2025-02-14 · Open WebUI · [[Changes/Open WebUI/2025-02-14-2-automation-and-scheduling-changes-in-v0-5-12|2 Automation and Scheduling changes in v0.5.12]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-09-04 · OpenHands · [[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better syntax error loop detection]]
+- Earliest same-theme entry in the tracked set: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

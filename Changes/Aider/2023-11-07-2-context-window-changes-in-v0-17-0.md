@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: cb82e0b7a4ecb2dc3175adc8e906b77f840f3f69c7cc0a5c2aebd7aba82348a4
+machine_hash: b00e7a0d67fb8028b1cb8970aea5bcca7b3fbc67ae69bf5b9a6170fa60774752
 product: aider
 product_name: Aider
 record:
@@ -42,11 +42,12 @@ record:
   title: 2 Context Window changes in v0.17.0
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-08-30-for-with-codebase-chats-you-can-now-see-the-codebase-context-that-cursor-shows-g|For
-  "with codebase" chats, you can now see the codebase context that Cursor shows GPT-4]]'
-- '[[Changes/Cursor/2023-09-08-long-files-in-chat|Long files in chat]]'
-- '[[Changes/Cursor/2023-09-10-ask-a-question-about-an-edit-that-the-model-with-option-enter-or-bring-in-contex|Quick
-  question and @chat in cmd+k]]'
+- '[[Changes/Dify/2023-09-28-feat-support-binding-context-var-by-garfielddai-in-https-github-com-langgenius-d|feat:
+  support binding context var]]'
+- '[[Changes/Ollama/2023-11-04-3-context-window-changes-in-v0-1-8|3 Context Window
+  changes in v0.1.8]]'
+- '[[Changes/Dify/2023-11-06-feat-add-context-missing-warning-by-iamjoel-in-https-github-com-langgenius-dify|feat:
+  add context missing warning]]'
 source_release: '[[Releases/Aider/aider-2023-11-07-v0-17-0-github-128252784-6710dfec|aider-2023-11-07-v0-17-0-github-128252784-6710dfec]]'
 source_type: github_releases
 theme: context-window
@@ -80,7 +81,7 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.17.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2023-09-10 · Cursor · [[Changes/Cursor/2023-09-10-ask-a-question-about-an-edit-that-the-model-with-option-enter-or-bring-in-contex|Quick question and @chat in cmd+k]]
+- Earlier: 2023-11-06 · Dify · [[Changes/Dify/2023-11-06-feat-add-context-missing-warning-by-iamjoel-in-https-github-com-langgenius-dify|feat: add context missing warning]]
 - Later: 2023-11-10 · Cursor · [[Changes/Cursor/2023-11-10-copilot-beta-this-is-an-add-on-to-copilot-that-suggests-diffs-around-your-cursor|Copilot++ (beta): this is an "add-on" to Copilot that suggests diffs around…]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 0a549934c350ff3b7ba14b2c0b082a172c929a8c54da6e94ebb3a1b22acc4694
+machine_hash: 54242887e8917dde6255ed96684f1127d2a1711f29b9ed6d6b7158b23ba1d302
 product: cursor
 product_name: Cursor
 record:
@@ -45,8 +45,7 @@ record:
   title: New agent command is now the primary CLI entrypoint. cursor-agent remains…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-01-02-built-in-subagents-for-exploring-and-managing-tasks|Built-in
-  subagents for exploring and managing tasks]]'
+- '[[Changes/ElevenLabs/2026-01-05-agents-platform-bdcd71|Agents Platform]]'
 - '[[Changes/Codex CLI/2026-01-07-4-agent-mode-changes-in-rust-v0-79-0|4 Agent Mode
   changes in rust-v0.79.0]]'
 - '[[Changes/Gemini CLI/2026-01-07-3-agent-mode-changes-in-v0-23-0|3 Agent Mode changes

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6fa1bfec95d8e196ddebf00cd9a99baa1e40dc910ff3440789d53c2105d2d0a3
+machine_hash: 0872208ff8efaa271d1bf1615a165a73b94baf773a76fe746189463579226e9e
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,10 +43,9 @@ record:
   title: 'chore: dedup unified exec "waited" rendering by @jif-oai in #7256'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2025-11-24-improved-timeline-rendering-of-shell-tool-names|Improved
-  timeline rendering of shell tool names]]'
-- '[[Changes/Gemini CLI/2025-11-26-protect-stdout-and-stderr-so-javascript-code-can-t-accidentally-write-to-stdout|Protect
-  stdout and stderr so JavaScript code can''t accidentally write to stdout…]]'
+- '[[Changes/Lovable/2025-11-26-better-reverts-and-ability-to-edit-and-revert-your-messages|Better
+  reverts and ability to edit and revert your messages]]'
+- '[[Changes/Lovable/2025-11-26-navigation-update|Navigation update]]'
 - '[[Changes/Cline/2025-12-02-4-interface-experience-changes-in-v3-39-0|4 Interface
   Experience changes in v3.39.0]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-12-02-rust-v0-64-0-github-266901625-82376886|codex-cli-2025-12-02-rust-v0-64-0-github-266901625-82376886]]'
@@ -87,7 +86,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2025-12-02 · Cline · [[Changes/Cline/2025-12-02-4-interface-experience-changes-in-v3-39-0|4 Interface Experience changes in v3.39.0]]
-- Later: 2025-12-04 · Codex CLI · [[Changes/Codex CLI/2025-12-04-3-interface-experience-changes-in-rust-v0-65-0|3 Interface Experience changes in rust-v0.65.0]]
+- Later: 2025-12-02 · Open WebUI · [[Changes/Open WebUI/2025-12-02-11-interface-experience-changes-in-v0-6-41|11 Interface Experience changes in v0.6.41]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

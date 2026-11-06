@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: fcd3fb0c479bf7aa0f0b5195fec297e6ce9af5be83423bd7bca7a036125cd98a
+machine_hash: 1334edab345632b72967ac964f7f1e9b4a93cabe9203504c8a58278e3409e00a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -60,10 +60,10 @@ record:
   title: We’re starting to roll out Health, a dedicated space in ChatGPT for health…
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-12-16-chore-tests-remove-obsolete-test-for-hierarchical-memory-by-pareshjoshij-in-http|chore(tests):
-  remove obsolete test for hierarchical memory]]'
 - '[[Changes/ChatGPT/2025-12-19-in-addition-to-selecting-a-base-style-and-tone-preset-like-candid-and-friendly-y-21da79|New
   detailed characteristic controls]]'
+- "[[Changes/Open WebUI/2025-12-21-channel-image-upload-handling-was-optimized-to-process-and-store-compressed-imag|\U0001F5BC️
+  Channel image upload handling was optimized to process and store compressed…]]"
 - '[[Changes/ChatGPT/2025-12-22-today-we-re-rolling-out-your-year-with-chatgpt-an-optional-personalized-end-of-y-740eb1|Your
   Year with ChatGPT]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-01-07-health-in-chatgpt-4cb3bdf6|chatgpt-2026-01-07-health-in-chatgpt-4cb3bdf6]]'

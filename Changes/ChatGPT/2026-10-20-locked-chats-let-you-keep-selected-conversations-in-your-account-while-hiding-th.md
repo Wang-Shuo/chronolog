@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 09eba9f3ef9621d5fe7757e1a96368a2f575a5703d6e0d7df863e195f41c2915
+machine_hash: b4cce346609b32fc839f32df46f7230f93d13273f161cf47c160faf16b8439db
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -71,10 +71,10 @@ record:
   title: Introducing locked chats
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-15-53389-use-cached-login-credentials-for-guardian-decisions-swastik-oai|♯53389
-  Use cached login credentials for Guardian decisions @swastik-oai]]'
-- '[[Changes/Claude Code/2026-10-16-added-a-notice-to-design-sync-and-design-login-that-standalone-claude-design-cla|Added
-  a notice to /design-sync and /design-login that standalone Claude Design…]]'
+- '[[Changes/Lovable/2026-10-16-add-oidc-sign-in-to-your-app|Add OIDC sign-in to your
+  app]]'
+- '[[Changes/Open WebUI/2026-10-16-2-account-and-access-changes-in-v0-12-3|2 Account
+  and Access changes in v0.12.3]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-19-3-account-and-access-changes-in-v1-0-100|3
   Account and Access changes in v1.0.100]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-10-20-introducing-locked-chats-4e90035d|chatgpt-2026-10-20-introducing-locked-chats-4e90035d]]'

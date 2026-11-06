@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a2d36c0e9f1b88868077244e274044508c278de2c6f07a1a8ba61f4f90ead848
+machine_hash: a2be0cda70890e2c25107460d1b10d947e24c764a33a218226721dec62652c0c
 product: openhands
 product_name: OpenHands
 record:
@@ -45,10 +45,8 @@ record:
   title: 3 Agent Mode changes in v1.28.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-19-2-agent-mode-changes-in-v2-1-304|2 Agent Mode
-  changes in v2.1.304]]'
-- '[[Changes/Claude Code/2026-10-19-added-claude-api-managed-agents-secure-which-compares-a-managed-agents-agent-s-s|Added
-  /claude-api managed-agents-secure, which compares a Managed Agents agent''s…]]'
+- '[[Changes/ElevenLabs/2026-10-19-elevenagents-b18b24|ElevenAgents]]'
+- '[[Changes/ElevenLabs/2026-10-19-elevenagents-ee74ab|ElevenAgents]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-19-2-agent-mode-changes-in-v1-0-100|2 Agent
   Mode changes in v1.0.100]]'
 source_release: '[[Releases/OpenHands/openhands-2026-10-19-v1-28-0-github-417391290-d3015a14|openhands-2026-10-19-v1-28-0-github-417391290-d3015a14]]'

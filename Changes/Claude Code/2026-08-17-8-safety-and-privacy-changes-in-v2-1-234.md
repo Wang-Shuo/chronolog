@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b2e39f880f12a29cf8b1399aaaa9b1de4b1339a0bd6c7027043abd39926a2582
+machine_hash: e83e58d4c44b5c42d5be02fdc575129dc19ead9017240f7623fcc61f5a0467fe
 product: claude-code
 product_name: Claude Code
 record:
@@ -127,7 +127,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.234
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-08-14 · Cline · [[Changes/Cline/2026-08-14-reclaim-idle-plugin-sandbox-processes-instead-of-leaving-them-running-for-the-li|Reclaim idle plugin sandbox processes instead of leaving them running for the life…]]
-- Later: 2026-08-18 · Claude Code · [[Changes/Claude Code/2026-08-18-2-safety-and-privacy-changes-in-v2-1-235|2 Safety and Privacy changes in v2.1.235]]
+- Later: 2026-08-17 · Lovable · [[Changes/Lovable/2026-08-17-workspace-insights-is-now-security-insights|Workspace insights is now Security insights]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

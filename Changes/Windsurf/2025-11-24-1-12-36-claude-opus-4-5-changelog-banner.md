@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a4730754ec8387e406dedb986b409e9965dff9e4cb1c3f7280e25144e17fcafb
+machine_hash: f29c5f6fda035842c316a27810299be5b5be5a9b2f918838cfd2d84e76d5e353
 product: windsurf
 product_name: Windsurf
 record:
@@ -42,11 +42,12 @@ record:
   title: 1.12.36 Claude Opus 4.5 changelog banner
   type: change
 related_changes:
-- '[[Changes/Windsurf/2025-11-21-ai-models|AI Models]]'
-- '[[Changes/Windsurf/2025-11-21-gpt-5-1-codex-and-codex-mini|GPT-5.1 Codex and Codex
-  Mini]]'
-- '[[Changes/GitHub Copilot CLI/2025-11-24-opus-4-5-gpt-4-1-and-gpt-5-mini-are-now-available-in-github-copilot-cli|Opus
-  4.5, GPT-4.1 and GPT-5-Mini are now available in GitHub Copilot CLI]]'
+- "[[Changes/Open WebUI/2025-11-24-default-group-assignment-is-now-available-for-new-users-allowing-administrators|\U0001F465
+  Default group assignment is now available for new users, allowing administrators…]]"
+- '[[Changes/Open WebUI/2025-11-24-11-model-support-changes-in-v0-6-37|11 Model Support
+  changes in v0.6.37]]'
+- '[[Changes/v0/2025-11-24-you-can-now-use-v0-with-claude-opus-4-5-at-no-extra-cost|Claude
+  Opus 4.5 Preview]]'
 source_release: '[[Releases/Windsurf/windsurf-2025-11-24-v1-12-36-60d34f35|windsurf-2025-11-24-v1-12-36-60d34f35]]'
 source_type: windsurf_changelog
 theme: model-support
@@ -75,8 +76,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-11-24 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-11-24-opus-4-5-gpt-4-1-and-gpt-5-mini-are-now-available-in-github-copilot-cli|Opus 4.5, GPT-4.1 and GPT-5-Mini are now available in GitHub Copilot CLI]]
-- Later: 2025-11-26 · Gemini CLI · [[Changes/Gemini CLI/2025-11-26-6-model-support-changes-in-v0-18-0|6 Model Support changes in v0.18.0]]
+- Earlier: 2025-11-24 · Open WebUI · [[Changes/Open WebUI/2025-11-24-11-model-support-changes-in-v0-6-37|11 Model Support changes in v0.6.37]]
+- Later: 2025-11-24 · v0 · [[Changes/v0/2025-11-24-you-can-now-use-v0-with-claude-opus-4-5-at-no-extra-cost|Claude Opus 4.5 Preview]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5ce6f5583e7b59e279c9f528fcd07738430052844faf9d1dec4a32a9d3ebb284
+machine_hash: 060b87e4db9c253925ab63795121be3f11a69734730545769720f84430ffff38
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -60,9 +60,10 @@ record:
   title: Improvements to GPT-4o
   type: change
 related_changes:
-- '[[Changes/Windsurf/2025-04-16-o4-mini-available|o4-mini Available]]'
-- '[[Changes/Cline/2025-04-19-4-model-support-changes-in-v3-13-0|4 Model Support changes
-  in v3.13.0]]'
+- '[[Changes/Gemini/2025-04-19-update-to-2-0-flash-in-gemini|Update to 2.0 Flash in
+  Gemini]]'
+- '[[Changes/Dify/2025-04-23-4-model-support-changes-in-1-3-0|4 Model Support changes
+  in 1.3.0]]'
 - '[[Changes/Cline/2025-04-24-4-model-support-changes-in-v3-13-2|4 Model Support changes
   in v3.13.2]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-04-25-improvements-to-gpt-4o-4bcfc1a7|chatgpt-2025-04-25-improvements-to-gpt-4o-4bcfc1a7]]'

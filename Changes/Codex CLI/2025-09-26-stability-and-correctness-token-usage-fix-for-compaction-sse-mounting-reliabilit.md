@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 71c10260f3b17853eb25ac9f502a9069d01ec4ddf559eac23ea36a11c3bc66a4
+machine_hash: 8c6f431570b23f6f791f6a2d5e6c8427d7e11af1a63a29fa9c45dd08c2abe965
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -45,12 +45,12 @@ record:
   title: Stability and correctness
   type: change
 related_changes:
-- '[[Changes/Windsurf/2025-09-16-various-bug-fixes-and-stability-improvements|Various
-  bug fixes and stability improvements]]'
-- '[[Changes/ChatGPT/2025-09-17-2-reliability-and-performance-changes-in-toggle-thinking-time-in-the-message|2
-  Reliability and Performance changes in Toggle thinking time in the message…]]'
+- '[[Changes/Dify/2025-09-22-5-reliability-and-performance-changes-in-1-9-0|5 Reliability
+  and Performance changes in 1.9.0]]'
 - '[[Changes/Gemini CLI/2025-09-24-feat-add-cached-string-width-function-for-performance-optimization-by-jacob314-i|feat:
   add cached string width function for performance optimization]]'
+- '[[Changes/Open WebUI/2025-09-25-5-reliability-and-performance-changes-in-v0-6-31|5
+  Reliability and Performance changes in v0.6.31]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-09-26-rust-v0-42-0-github-250387883-27046aff|codex-cli-2025-09-26-rust-v0-42-0-github-250387883-27046aff]]'
 source_type: github_releases
 theme: reliability-performance
@@ -84,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-09-24 · Gemini CLI · [[Changes/Gemini CLI/2025-09-24-feat-add-cached-string-width-function-for-performance-optimization-by-jacob314-i|feat: add cached string width function for performance optimization]]
+- Earlier: 2025-09-25 · Open WebUI · [[Changes/Open WebUI/2025-09-25-5-reliability-and-performance-changes-in-v0-6-31|5 Reliability and Performance changes in v0.6.31]]
 - Later: 2025-09-29 · Cursor · [[Changes/Cursor/2025-09-29-8-reliability-and-performance-changes-in-1-7|8 Reliability and Performance changes in 1.7]]
 <!-- chronolog:end -->
 

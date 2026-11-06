@@ -4,20 +4,20 @@ date: '2025-12-18'
 description: 'Codex CLI · 2025-12-18 · Automation and Scheduling: #7961 refactor TUI
   event loop to enable dropping + recreating crossterm event stream'
 diffusion:
-  first_in_tracked: '[[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better
-    syntax error loop detection]]'
+  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
+    data clean schedule]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 470
+  lag_days: 716
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: bab4cb64f250a4e3d00890334326401f80c8d714452b528b20f4c513166ca543
+machine_hash: c6fe16dba4b05abac1c1390cbd3af73269be4ef073d1bda4a5d365e5c544a6b5
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -45,10 +45,10 @@ record:
     event stream'
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-11-04-revert-nightly-schedule-by-skeshive-in-https-github-com-google-gemini-gemini-cli|revert
-  nightly schedule]]'
-- '[[Changes/Gemini CLI/2025-11-07-feat-prevent-self-imports-and-fix-build-loop-by-mattkorwel-in-https-github-com-g|feat:
-  Prevent self-imports and fix build loop]]'
+- '[[Changes/Dify/2025-11-13-2-automation-and-scheduling-changes-in-1-10-0|2 Automation
+  and Scheduling changes in 1.10.0]]'
+- '[[Changes/Dify/2025-12-11-admin-api-keys-skip-csrf-automation-now-flows-smoother-than-espresso|Admin
+  API Keys skip CSRF — automation now flows smoother than espresso]]'
 - '[[Changes/ChatGPT/2025-12-17-tasks-let-you-set-up-automated-prompts-that-chatgpt-can-run-for-you-you-can-now-b3f799|Tasks
   let you set up automated prompts that ChatGPT can run for you]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-12-18-rust-v0-74-0-github-271533952-972d825a|codex-cli-2025-12-18-rust-v0-74-0-github-271533952-972d825a]]'
@@ -93,13 +93,13 @@ type: change
 ## Nearby in Automation and Scheduling
 
 - Earlier: 2025-12-17 · ChatGPT · [[Changes/ChatGPT/2025-12-17-tasks-let-you-set-up-automated-prompts-that-chatgpt-can-run-for-you-you-can-now-b3f799|Tasks let you set up automated prompts that ChatGPT can run for you]]
-- Later: 2026-01-07 · Gemini CLI · [[Changes/Gemini CLI/2026-01-07-chore-core-remove-legacy-fallback-flags-and-migrate-loop-detection-by-adamfweidm|chore(core): remove legacy fallback flags and migrate loop detection]]
+- Later: 2025-12-21 · Open WebUI · [[Changes/Open WebUI/2025-12-21-external-reranker-operations-were-optimized-to-prevent-event-loop-blocking-by-of|⚡ External reranker operations were optimized to prevent event loop blocking…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-09-04 · OpenHands · [[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better syntax error loop detection]]
+- Earliest same-theme entry in the tracked set: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

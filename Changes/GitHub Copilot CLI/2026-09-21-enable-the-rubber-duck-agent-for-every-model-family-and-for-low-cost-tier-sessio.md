@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 0f9ccfb9c207b6c94de6f3826d80a15d1225fc7696396a3174b0fe64e5d41fd8
+machine_hash: 7208c7ffdc5c756ae58cff6af90de91401ee98a0180c028de0911950b2d681e8
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -55,12 +55,9 @@ record:
     session models
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-09-17-test-isolate-mock-llm-profiles-from-ambient-secrets-by-neubig-in-https-github-co|test:
-  isolate Mock-LLM profiles from ambient secrets]]'
-- '[[Changes/Claude Code/2026-09-18-changed-fable-to-always-appear-in-model-on-the-anthropic-api-it-is-greyed-out-on|Changed
-  Fable to always appear in /model on the Anthropic API]]'
-- '[[Changes/Codex CLI/2026-09-18-2-model-support-changes-in-rust-v0-155-1|2 Model
-  Support changes in rust-v0.155.1]]'
+- '[[Changes/ElevenLabs/2026-09-21-text-to-speech-576ca6|Text to Speech]]'
+- '[[Changes/ElevenLabs/2026-09-21-javascript-sdk|JavaScript SDK]]'
+- '[[Changes/ElevenLabs/2026-09-21-python-sdk|Python SDK]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-09-21-v1-0-87-github-393077593-9fe949ec|github-copilot-cli-2026-09-21-v1-0-87-github-393077593-9fe949ec]]'
 source_type: github_releases
 theme: model-support
@@ -98,8 +95,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-09-18 · Codex CLI · [[Changes/Codex CLI/2026-09-18-2-model-support-changes-in-rust-v0-155-1|2 Model Support changes in rust-v0.155.1]]
-- Later: 2026-09-22 · Claude Code · [[Changes/Claude Code/2026-09-22-5-model-support-changes-in-v2-1-280|5 Model Support changes in v2.1.280]]
+- Earlier: 2026-09-21 · ElevenLabs · [[Changes/ElevenLabs/2026-09-21-python-sdk|Python SDK]]
+- Later: 2026-09-21 · Lovable · [[Changes/Lovable/2026-09-21-jev-for-typed-decisions-in-your-app-s-ai-features|Jev for typed decisions in your app's AI features]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

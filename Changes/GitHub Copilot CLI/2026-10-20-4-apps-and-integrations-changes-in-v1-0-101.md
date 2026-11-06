@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5e364c84496fe314945f61373996b40cd8e6224f1284f8d8e12c2b2e8404c4d4
+machine_hash: baa55e9da416dc5e1803cf86a993849229ce2c822c9e4b7bb4ebc82fdc587770
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -48,10 +48,9 @@ record:
   title: 4 Apps and Integrations changes in v1.0.101
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-19-8-apps-and-integrations-changes-in-v2-1-304|8
-  Apps and Integrations changes in v2.1.304]]'
-- '[[Changes/GitHub Copilot CLI/2026-10-19-10-apps-and-integrations-changes-in-v1-0-100|10
-  Apps and Integrations changes in v1.0.100]]'
+- '[[Changes/Lovable/2026-10-19-connect-your-app-to-cube|Connect your app to Cube]]'
+- '[[Changes/v0/2026-10-19-connect-your-slack-workspace-to-v0-to-bring-team-conversations-into-your-work-wi|Connect
+  your Slack workspace to v0 to bring team conversations into your work]]'
 - '[[Changes/Claude Code/2026-10-20-4-apps-and-integrations-changes-in-v2-1-305|4
   Apps and Integrations changes in v2.1.305]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-10-20-v1-0-101-github-418747415-a1bf6298|github-copilot-cli-2026-10-20-v1-0-101-github-418747415-a1bf6298]]'
@@ -98,7 +97,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.101
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-10-20 · Claude Code · [[Changes/Claude Code/2026-10-20-4-apps-and-integrations-changes-in-v2-1-305|4 Apps and Integrations changes in v2.1.305]]
-- Later: 2026-10-20 · OpenHands · [[Changes/OpenHands/2026-10-20-2-apps-and-integrations-changes-in-v1-29-0|2 Apps and Integrations changes in v1.29.0]]
+- Later: 2026-10-20 · Lovable · [[Changes/Lovable/2026-10-20-let-lovable-create-your-supabase-project|Let Lovable create your Supabase project]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

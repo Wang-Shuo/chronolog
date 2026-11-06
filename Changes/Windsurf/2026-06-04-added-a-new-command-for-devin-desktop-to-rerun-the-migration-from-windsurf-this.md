@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 8fdb10cc950b1b5d09568f00c85e79b8db4caacdff29ae495b110e3e1170fb24
+machine_hash: a93f78a15557f8f6a25b62ea3169ef46a7d959f4b360a2fc96e323cb3f843db9
 product: windsurf
 product_name: Windsurf
 record:
@@ -55,12 +55,12 @@ record:
   title: Added a new command for Devin Desktop to rerun the migration from Windsurf
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-06-02-windsurf-is-now-devin-desktop-https-devin-ai-blog-windsurf-is-now-devin-desktop|Windsurf
-  is now Devin Desktop((source link)]]'
 - '[[Changes/Codex CLI/2026-06-04-2-mobile-and-desktop-changes-in-rust-v0-137-0|2
   Mobile and Desktop changes in rust-v0.137.0]]'
 - '[[Changes/Cursor/2026-06-04-bundled-ripgrep-local-shell-runs-use-the-bundled-platform-rg-binary-without-modi|Bundled
   ripgrep: Local shell runs use the bundled platform rg binary without…]]'
+- '[[Changes/Ollama/2026-06-04-ollama-launch-hermes-desktop-now-launches-hermes-desktop-and-can-skip-rebuilding|ollama
+  launch hermes-desktop now launches Hermes Desktop and can skip rebuilding…]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-06-04-v3-0-21-68c17b30|windsurf-2026-06-04-v3-0-21-68c17b30]]'
 source_type: windsurf_changelog
 theme: mobile-desktop
@@ -91,7 +91,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-06-04 · Cursor · [[Changes/Cursor/2026-06-04-bundled-ripgrep-local-shell-runs-use-the-bundled-platform-rg-binary-without-modi|Bundled ripgrep: Local shell runs use the bundled platform rg binary without…]]
+- Earlier: 2026-06-04 · Ollama · [[Changes/Ollama/2026-06-04-ollama-launch-hermes-desktop-now-launches-hermes-desktop-and-can-skip-rebuilding|ollama launch hermes-desktop now launches Hermes Desktop and can skip rebuilding…]]
 - Later: 2026-06-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-05-2-mobile-and-desktop-changes-in-v1-0-60|2 Mobile and Desktop changes in v1.0.60]]
 <!-- chronolog:end -->
 

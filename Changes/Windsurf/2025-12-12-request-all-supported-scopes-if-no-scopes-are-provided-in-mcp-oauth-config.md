@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b5e1dabe1d579a561ecd491f350b4be09358c1038b007795d99ffc19c260e143
+machine_hash: d8d6db611f66530dd826e00bd2c293706b56b6b0032d6752e847b058aba1c3f3
 product: windsurf
 product_name: Windsurf
 record:
@@ -51,12 +51,12 @@ record:
   title: Request all supported scopes if no scopes are provided in MCP OAuth config
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-12-09-2-account-and-access-changes-in-rust-v0-66-0|2 Account
-  and Access changes in rust-v0.66.0]]'
-- '[[Changes/Codex CLI/2025-12-10-2-account-and-access-changes-in-rust-v0-69-0|2 Account
-  and Access changes in rust-v0.69.0]]'
+- '[[Changes/v0/2025-12-10-added-automatic-oauth-refresh-for-mcp-servers|Added automatic
+  oauth refresh for MCP servers]]'
 - '[[Changes/Cline/2025-12-11-add-loaders-to-login-buttons-by-barreirot-in-https-github-com-cline-cline-pull-7|Add
   loaders to login buttons]]'
+- '[[Changes/Dify/2025-12-11-feat-unify-environment-variables-for-database-connection-and-authentication-by-b|feat:
+  Unify environment variables for database connection and authentication]]'
 source_release: '[[Releases/Windsurf/windsurf-2025-12-12-v1-12-44-3b9d37d6|windsurf-2025-12-12-v1-12-44-3b9d37d6]]'
 source_type: windsurf_changelog
 theme: account-access
@@ -85,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2025-12-11 · Cline · [[Changes/Cline/2025-12-11-add-loaders-to-login-buttons-by-barreirot-in-https-github-com-cline-cline-pull-7|Add loaders to login buttons]]
+- Earlier: 2025-12-11 · Dify · [[Changes/Dify/2025-12-11-feat-unify-environment-variables-for-database-connection-and-authentication-by-b|feat: Unify environment variables for database connection and authentication]]
 - Later: 2025-12-16 · Gemini CLI · [[Changes/Gemini CLI/2025-12-16-allow-telemetry-exporters-to-gcp-to-utilize-user-s-login-credentials-if-requeste|Allow telemetry exporters to GCP to utilize user's login credentials, if requested]]
 <!-- chronolog:end -->
 

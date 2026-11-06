@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ef4c464d7118b9123b8405d0a47e2f70a9191a57c5ae3abf5c2331a961639d20
+machine_hash: f0dcdf8ecd5254e4e5383d9f3f1c65af50042971d5ca9c7e0a8a0c3af8c94dd4
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,12 +43,12 @@ record:
   title: 2 Interface Experience changes in rust-v0.128.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-27-2-interface-experience-changes-in-v1-0-37|2
-  Interface Experience changes in v1.0.37]]'
 - '[[Changes/Claude Code/2026-04-28-4-interface-experience-changes-in-v2-1-121|4 Interface
   Experience changes in v2.1.121]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-28-2-interface-experience-changes-in-v1-0-39|2
   Interface Experience changes in v1.0.39]]'
+- '[[Changes/Dify/2026-04-29-10-interface-experience-changes-in-1-14-0|10 Interface
+  Experience changes in 1.14.0]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-04-30-rust-v0-128-0-github-315916672-1708ab89|codex-cli-2026-04-30-rust-v0-128-0-github-315916672-1708ab89]]'
 source_type: github_releases
 theme: interface-experience
@@ -93,7 +93,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.128.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-04-28 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-28-2-interface-experience-changes-in-v1-0-39|2 Interface Experience changes in v1.0.39]]
+- Earlier: 2026-04-29 · Dify · [[Changes/Dify/2026-04-29-10-interface-experience-changes-in-1-14-0|10 Interface Experience changes in 1.14.0]]
 - Later: 2026-05-01 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-01-3-interface-experience-changes-in-v1-0-40|3 Interface Experience changes in v1.0.40]]
 <!-- chronolog:end -->
 

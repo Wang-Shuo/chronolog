@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 09cf950571cd3e52b68b037b2d823b04ab8e559008ccd6b62e124df1bde2923e
+machine_hash: d3084c23529eae8b192e82f3477f49f5ba625aa6934d7e4cc6413865c8ee296d
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -66,10 +66,10 @@ record:
   title: 14 Context Window changes in rust-v0.150.0
   type: change
 related_changes:
-- '[[Changes/Cline/2026-08-21-only-treat-an-anthropic-invalid-request-error-as-a-context-overflow-when-its-mes|Only
-  treat an Anthropic invalid_request_error as a context-overflow…]]'
 - '[[Changes/Gemini CLI/2026-08-25-ssr-agent-issue-fix-19239-update-clear-command-docs-to-include-context-reset-by|SSR
   Agent Issue Fix (19239): Update /clear command docs to include context reset]]'
+- '[[Changes/Open WebUI/2026-08-25-4-context-window-changes-in-v0-11-1|4 Context Window
+  changes in v0.11.1]]'
 - '[[Changes/Claude Code/2026-08-26-changed-sonnet-5-s-default-auto-compact-window-to-its-full-1m-context-so-session|Changed
   Sonnet 5''s default auto-compact window to its full 1M context, so sessions…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-08-26-rust-v0-150-0-github-377374683-d950f84c|codex-cli-2026-08-26-rust-v0-150-0-github-377374683-d950f84c]]'

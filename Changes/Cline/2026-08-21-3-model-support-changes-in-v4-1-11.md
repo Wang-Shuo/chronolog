@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 42ab0e6511d5b9cb27492a806d61575d41ed9c8389586fe5be02d037b3bab6db
+machine_hash: 0289ea8ea287cd9d5a549394744c23df198a79bf7cb8b2e1c7119f833c4eca81
 product: cline
 product_name: Cline
 record:
@@ -48,10 +48,10 @@ record:
   title: 3 Model Support changes in v4.1.11
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-19-added-anthropic-default-model-environment-variable-sets-the-model-new-sessions-s|Added
-  ANTHROPIC_DEFAULT_MODEL environment variable]]'
 - '[[Changes/Codex CLI/2026-08-20-6-model-support-changes-in-rust-v0-149-0|6 Model
   Support changes in rust-v0.149.0]]'
+- '[[Changes/Lovable/2026-08-20-gemini-embedding-2-is-the-default-for-search-and-recommendations|Gemini
+  Embedding 2 is the default for search and recommendations]]'
 - '[[Changes/Cline/2026-08-21-restore-tool-calling-for-custom-openai-compatible-models-whose-stored-capability|Restore
   tool calling for custom OpenAI-Compatible models whose stored capability…]]'
 source_release: '[[Releases/Cline/cline-2026-08-21-v4-1-11-github-374187578-938b5fa5|cline-2026-08-21-v4-1-11-github-374187578-938b5fa5]]'

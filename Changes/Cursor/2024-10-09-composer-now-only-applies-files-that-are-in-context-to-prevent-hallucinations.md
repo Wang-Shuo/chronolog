@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f10406963a0e94e266ab73e586da6e234ce5cbcb6b7bf94055be587190982dec
+machine_hash: 97f72411afe6cae5604899b882718106ee1c25ec54934faeb9a7afa12314619d
 product: cursor
 product_name: Cursor
 record:
@@ -41,12 +41,12 @@ record:
   title: Composer now only applies files that are in context to prevent hallucinations
   type: change
 related_changes:
-- '[[Changes/Aider/2024-08-27-keep-your-prompt-cache-from-expiring-https-aider-chat-docs-usage-caching-html-pr|Keep
-  your prompt cache…]]'
-- '[[Changes/Cline/2024-09-19-you-can-now-use-in-the-textarea-to-add-context|Use @
-  in the textarea to add context!]]'
+- "[[Changes/Open WebUI/2024-09-19-improved-rag-template-enhanced-retrieval-augmented-generation-template-optimizin|\U0001F4DD
+  Improved RAG Template]]"
 - '[[Changes/Aider/2024-09-21-improvements-to-prompt-cache-chunking-strategy|Improvements
   to prompt cache chunking strategy]]'
+- '[[Changes/Gemini/2024-09-30-priority-access-with-gemini-advanced-upload-your-code-files|Priority
+  access with Gemini Advanced: Upload your code files]]'
 source_release: '[[Releases/Cursor/cursor-2024-10-09-0-42-x-https-cursor-com-changelog-0-42-x-71ecd9d1|cursor-2024-10-09-0-42-x-https-cursor-com-changelog-0-42-x-71ecd9d1]]'
 source_type: cursor_changelog
 theme: context-window
@@ -79,8 +79,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2024-09-21 · Aider · [[Changes/Aider/2024-09-21-improvements-to-prompt-cache-chunking-strategy|Improvements to prompt cache chunking strategy]]
-- Later: 2024-10-17 · OpenHands · [[Changes/OpenHands/2024-10-17-display-in-the-logs-the-prompt-cache-hit-or-miss-for-deepseek-chat-by-enyst-in-h|Display in the logs the prompt cache hit or miss for Deepseek Chat]]
+- Earlier: 2024-09-30 · Gemini · [[Changes/Gemini/2024-09-30-priority-access-with-gemini-advanced-upload-your-code-files|Priority access with Gemini Advanced: Upload your code files]]
+- Later: 2024-10-14 · Dify · [[Changes/Dify/2024-10-14-feat-implement-refresh-tokens-by-laipz8200-in-https-github-com-langgenius-dify-p|Feat/implement-refresh-tokens]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

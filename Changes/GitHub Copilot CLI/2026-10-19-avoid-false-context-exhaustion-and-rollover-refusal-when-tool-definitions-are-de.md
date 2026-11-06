@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b1cc294fe628a8f3bfe17181fc27ea35e68e9b0cff565907b66681e45d384d1a
+machine_hash: f388294e8271757832b3b5d76d5f0c38224eebe42e56d9d92d18f1cc2299db00
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,10 +43,10 @@ record:
     are deferred
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-16-2-context-window-changes-in-v2-1-302|2 Context
-  Window changes in v2.1.302]]'
-- '[[Changes/Cline/2026-10-16-auto-compact-and-its-strategy-setting-sit-together-again-in-feature-settings|Auto
-  Compact and its strategy setting sit together again in Feature settings]]'
+- '[[Changes/Open WebUI/2026-10-16-2-context-window-changes-in-v0-12-3|2 Context Window
+  changes in v0.12.3]]'
+- '[[Changes/Ollama/2026-10-18-2-context-window-changes-in-v0-40-7|2 Context Window
+  changes in v0.40.7]]'
 - '[[Changes/Claude Code/2026-10-19-3-context-window-changes-in-v2-1-304|3 Context
   Window changes in v2.1.304]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-10-19-v1-0-100-github-417622960-9e2e7578|github-copilot-cli-2026-10-19-v1-0-100-github-417622960-9e2e7578]]'

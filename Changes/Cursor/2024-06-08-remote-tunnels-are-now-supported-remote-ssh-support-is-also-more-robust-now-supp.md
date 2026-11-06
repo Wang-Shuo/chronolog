@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 5f76424ac815e247156fbbe7b25e1f6244e410111eba53cf142f3069c8460f1a
+machine_hash: 2312f7d834b94223518dd8c1bc097723ad5b2e840bb72f6a9ff64ed936770ff3
 product: cursor
 product_name: Cursor
 record:
@@ -44,10 +44,10 @@ record:
   title: Remote tunnels are now supported!
   type: change
 related_changes:
-- '[[Changes/Aider/2024-05-10-2-developer-workflow-changes-in-v0-34-0|2 Developer
-  Workflow changes in v0.34.0]]'
-- '[[Changes/Aider/2024-05-22-4-developer-workflow-changes-in-v0-36-0|4 Developer
-  Workflow changes in v0.36.0]]'
+- '[[Changes/Ollama/2024-05-22-granite-code-https-ollama-com-library-granite-code-a-family-of-open-foundation-m|Granite
+  code((source link) A family of open foundation…]]'
+- '[[Changes/Dify/2024-05-27-update-docker-compose-yaml-new-debug-variable-by-theysua-in-https-github-com-lan|Update
+  docker-compose.yaml- New DEBUG variable]]'
 - '[[Changes/OpenHands/2024-06-04-windows-doc-extended-with-more-wsl-hints-by-tobitege-in-https-github-com-opendev|Windows
   doc extended with more WSL hints]]'
 source_release: '[[Releases/Cursor/cursor-2024-06-08-0-35-x-https-cursor-com-changelog-0-35-x-b4216e90|cursor-2024-06-08-0-35-x-https-cursor-com-changelog-0-35-x-b4216e90]]'
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2024-06-04 · OpenHands · [[Changes/OpenHands/2024-06-04-windows-doc-extended-with-more-wsl-hints-by-tobitege-in-https-github-com-opendev|Windows doc extended with more WSL hints]]
-- Later: 2024-06-17 · Aider · [[Changes/Aider/2024-06-17-2-developer-workflow-changes-in-v0-38-0|2 Developer Workflow changes in v0.38.0]]
+- Later: 2024-06-10 · Open WebUI · [[Changes/Open WebUI/2024-06-10-backend-task-management-tasks-like-title-generation-and-search-query-generation|🔧 Backend Task Management]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

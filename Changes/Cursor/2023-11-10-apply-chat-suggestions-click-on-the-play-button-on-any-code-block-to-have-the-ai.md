@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: fa679ce1986471abc8aee82f289a7c2b6d61f941260aeb196dbe3a2657cfa21d
+machine_hash: 9729020b56bc886ea03a61c051866f9f4750f3adb0c5bc408be3b7f889c331ae
 product: cursor
 product_name: Cursor
 record:
@@ -46,12 +46,12 @@ record:
   title: Apply chat suggestions
   type: change
 related_changes:
-- '[[Changes/Aider/2023-10-29-2-editor-experience-changes-in-v0-16-0|2 Editor Experience
-  changes in v0.16.0]]'
 - '[[Changes/Aider/2023-10-31-2-editor-experience-changes-in-v0-16-1|2 Editor Experience
   changes in v0.16.1]]'
 - '[[Changes/Cursor/2023-11-03-cmd-k-diffs-these-now-obey-word-wrap-you-can-also-copy-from-the-red-text|Cmd-K
   diffs: these now obey word-wrap!]]'
+- '[[Changes/Dify/2023-11-06-chore-deps-bump-word-wrap-from-1-2-3-to-1-2-5-in-web-by-dependabot-in-https-gith|chore(deps):
+  bump word-wrap from 1.2.3 to 1.2.5 in /web]]'
 source_release: '[[Releases/Cursor/cursor-2023-11-10-0-15-0-0-15-1-https-cursor-com-changelog-0-15-0-0-15-1-9dc9cadb|cursor-2023-11-10-0-15-0-0-15-1-https-cursor-com-changelog-0-15-0-0-15-1-9dc9cadb]]'
 source_type: cursor_changelog
 theme: editor-experience
@@ -82,7 +82,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2023-11-03 · Cursor · [[Changes/Cursor/2023-11-03-cmd-k-diffs-these-now-obey-word-wrap-you-can-also-copy-from-the-red-text|Cmd-K diffs: these now obey word-wrap!]]
+- Earlier: 2023-11-06 · Dify · [[Changes/Dify/2023-11-06-chore-deps-bump-word-wrap-from-1-2-3-to-1-2-5-in-web-by-dependabot-in-https-gith|chore(deps): bump word-wrap from 1.2.3 to 1.2.5 in /web]]
 - Later: 2023-11-15 · Cursor · [[Changes/Cursor/2023-11-15-copilot-improvements-2d35f8|Copilot++ improvements]]
 <!-- chronolog:end -->
 

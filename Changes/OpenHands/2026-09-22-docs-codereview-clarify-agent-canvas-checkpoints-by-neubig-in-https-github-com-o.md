@@ -4,20 +4,20 @@ date: '2026-09-22'
 description: 'OpenHands · 2026-09-22 · Files and Data: docs(codereview): clarify Agent
   Canvas checkpoints by @neubig in https://github.com/OpenHands/OpenHands/pull/17523'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code
-    interpreter is now rolling out in beta on web]]'
+  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
+    Files and Data changes in 0.2.2]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1174
+  lag_days: 1216
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 271458dd103e7311e79303e534a3fae71cc242ca8835168006a913586b9d639b
+machine_hash: 199068167453f5ac96ec3680aec36f5106f8f86973e7c8914e2656a72042010d
 product: openhands
 product_name: OpenHands
 record:
@@ -53,10 +53,10 @@ record:
   title: 'docs(codereview): clarify Agent Canvas checkpoints'
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-09-16-feat-track-authenticated-canvas-arrivals-by-neubig-in-https-github-com-openhands|feat:
-  track authenticated Canvas arrivals]]'
 - '[[Changes/Claude Code/2026-09-17-claude-tag-removed-the-repeated-guest-attribution-note-claude-appended-to-a-slac|Claude
   Tag Removed the repeated guest-attribution note Claude appended to a Slack…]]'
+- '[[Changes/Open WebUI/2026-09-21-10-files-and-data-changes-in-v0-11-4|10 Files and
+  Data changes in v0.11.4]]'
 - '[[Changes/Codex CLI/2026-09-22-46027-document-and-test-wildcards-in-network-proxy-domain-patterns-viyatb-oai|♯46027
   Document and test ? wildcards in network proxy domain patterns @viyatb-oai]]'
 source_release: '[[Releases/OpenHands/openhands-2026-09-22-v1-21-0-github-393402961-64a1cf92|openhands-2026-09-22-v1-21-0-github-393402961-64a1cf92]]'
@@ -99,7 +99,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-06 · ChatGPT · [[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code interpreter is now rolling out in beta on web]]
+- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

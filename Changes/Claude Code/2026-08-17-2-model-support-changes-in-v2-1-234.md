@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e16dd2250bb91b817e15a99ade310d073c9fa0df2f8a57f3f8e33f82e0d4cb62
+machine_hash: 575f6f5dab828172f46f12ded34e9373bfc023ab57ecde7a5547ad4ea3519059
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,12 @@ record:
   title: 2 Model Support changes in v2.1.234
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-14-2-model-support-changes-in-v2-1-233|2 Model Support
-  changes in v2.1.233]]'
 - '[[Changes/Cline/2026-08-14-2-model-support-changes-in-v4-1-10|2 Model Support changes
   in v4.1.10]]'
 - '[[Changes/GitHub Copilot CLI/2026-08-14-update-model-configurations|Update model
   configurations]]'
+- '[[Changes/Ollama/2026-08-15-llm-transcode-webp-images-for-llama-server|llm: transcode
+  WebP images for llama-server]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-17-v2-1-234-github-371864218-2ca32673|claude-code-2026-08-17-v2-1-234-github-371864218-2ca32673]]'
 source_type: github_releases
 theme: model-support
@@ -90,8 +90,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.234
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-08-14 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-08-14-update-model-configurations|Update model configurations]]
-- Later: 2026-08-17 · OpenHands · [[Changes/OpenHands/2026-08-17-feat-add-llm-pre-flight-validation-to-prevent-saving-misconfigured-profiles-by-n|feat: add LLM pre-flight validation to prevent saving misconfigured profiles]]
+- Earlier: 2026-08-15 · Ollama · [[Changes/Ollama/2026-08-15-llm-transcode-webp-images-for-llama-server|llm: transcode WebP images for llama-server]]
+- Later: 2026-08-17 · Lovable · [[Changes/Lovable/2026-08-17-gemini-3-7-flash-for-your-app-s-ai-features|Gemini 3.7 Flash for your app's AI features]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

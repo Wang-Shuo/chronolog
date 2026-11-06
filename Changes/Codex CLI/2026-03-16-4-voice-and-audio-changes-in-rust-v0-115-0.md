@@ -4,20 +4,20 @@ date: '2026-03-16'
 description: 'Codex CLI · 2026-03-16 · Voice and Audio: 4 changes in 0.115.0 — Realtime
   websocket sessions gained a dedicated transcription mode, plus v2 handoff support…'
 diffusion:
-  first_in_tracked: '[[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source
-    link) support, which allows you…]]'
+  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
+    Voice and Audio changes in 0.3.7]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 948
+  lag_days: 980
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1dbd91b7756327203bf616294cb85120fe015d231f0b6f4548ed10249760a942
+machine_hash: e493a084a0146d8f5cbbc1278fe79328dd7ae65cf655fc772ceaa651420754b9
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -101,13 +101,13 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.115.0
 ## Nearby in Voice and Audio
 
 - Earlier: 2026-03-14 · Claude Code · [[Changes/Claude Code/2026-03-14-improved-voice-to-show-your-dictation-language-on-enable-and-warn-when-your-lang|Improved /voice to show your dictation language on enable and warn…]]
-- Later: 2026-03-17 · Gemini CLI · [[Changes/Gemini CLI/2026-03-17-feat-voice-implement-speech-friendly-response-formatter-by-ayush31010-in-https-g|feat(voice): implement speech-friendly response formatter]]
+- Later: 2026-03-16 · ElevenLabs · [[Changes/ElevenLabs/2026-03-16-packages|Packages]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-08-11 · Aider · [[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source link) support, which allows you…]]
+- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

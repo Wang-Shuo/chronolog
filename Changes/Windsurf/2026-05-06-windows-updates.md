@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: acce2d48817fbec4f96f8d0247bc2eed9b2225ae6bd59b57ae46a3815dda8473
+machine_hash: 060b6e69dfd761a72b8ce545d7d40ebc22b6f0219a79e8750a5385cd36240115
 product: windsurf
 product_name: Windsurf
 record:
@@ -51,8 +51,7 @@ record:
   title: Windows updates
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-04-30-3-mobile-and-desktop-changes-in-rust-v0-128-0|3
-  Mobile and Desktop changes in rust-v0.128.0]]'
+- '[[Changes/ElevenLabs/2026-05-04-android-sdk|Android SDK]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-05-package-extraction-no-longer-crashes-on-windows-when-antivirus-or-filesystem-loc|Package
   extraction no longer crashes on Windows when antivirus or filesystem locks…]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-06-cli-updates-on-windows-no-longer-fail-with-enoent-when-a-transient-eperm-occurs|CLI

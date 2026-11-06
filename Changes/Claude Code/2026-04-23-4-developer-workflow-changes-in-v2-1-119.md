@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 16de3e8bde6f0141e73bff38e2de34680678e87b27eee9b43bbe4359b6fea0bb
+machine_hash: 03336e36677b09c5576968cb2ce6fc898cda52ad4d745136e97c8ecb40c38ceb
 product: claude-code
 product_name: Claude Code
 record:
@@ -50,8 +50,8 @@ record:
   title: 4 Developer Workflow changes in v2.1.119
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-20-2-developer-workflow-changes-in-v1-0-33|2
-  Developer Workflow changes in v1.0.33]]'
+- '[[Changes/Open WebUI/2026-04-21-46-developer-workflow-changes-in-v0-9-0|46 Developer
+  Workflow changes in v0.9.0]]'
 - '[[Changes/Claude Code/2026-04-22-2-developer-workflow-changes-in-v2-1-117|2 Developer
   Workflow changes in v2.1.117]]'
 - '[[Changes/Cline/2026-04-22-remove-foreground-terminal-mode-all-task-command-execution-now-defaults-to-backg|Remove

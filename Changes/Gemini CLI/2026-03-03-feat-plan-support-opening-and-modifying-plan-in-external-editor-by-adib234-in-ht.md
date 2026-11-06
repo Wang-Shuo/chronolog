@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: a24b15f329c9c070e98cec4eee901f2cc5463cd26a65f0f45f64d2dd9e5a2870
+machine_hash: 93e6b724a559fb2a228b6ac643b248b5f7e6872b99706c778584c04404a19636
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -44,8 +44,8 @@ record:
   title: 'feat(plan): support opening and modifying plan in external editor'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-02-3-editor-experience-changes-in-rust-v0-107-0|3 Editor
-  Experience changes in rust-v0.107.0]]'
+- '[[Changes/Open WebUI/2026-03-02-chatcontrols-reactivity-fix-fixed-a-svelte-reactivity-issue-where-the-active-tab|⚡
+  ChatControls reactivity fix. Fixed a Svelte reactivity issue where the active…]]'
 - '[[Changes/Cline/2026-03-03-prevent-chinese-filename-escaping-in-diff-view|Prevent
   Chinese filename escaping in diff view]]'
 - '[[Changes/Cursor/2026-03-03-agent-workflows-are-faster-and-more-predictable-for-multi-file-edits-and-pr-heav|Agent

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 37696a9d265067ec0d761afe16da0bc646528a2020f92f2a61e2750e7b1cdc41
+machine_hash: 60ccbf7361bf9247e285b278f2f56b417829fac9db043985432f3079952c1698
 product: cline
 product_name: Cline
 record:
@@ -46,12 +46,12 @@ record:
   title: 3 Model Support changes in v3.33.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2025-10-10-improved-the-error-handling-in-the-model-picker-when-no-models-are-available-fix|Improved
-  the error handling in the /model picker when no models are available…]]'
 - '[[Changes/Gemini CLI/2025-10-15-3-model-support-changes-in-v0-9-0|3 Model Support
   changes in v0.9.0]]'
 - '[[Changes/GitHub Copilot CLI/2025-10-15-added-each-model-s-premium-request-multiplier-to-the-model-list-currently-all-ou|Added
   each model''s premium request multiplier to the /model list…]]'
+- '[[Changes/Ollama/2025-10-15-2-model-support-changes-in-v0-12-6|2 Model Support
+  changes in v0.12.6]]'
 source_release: '[[Releases/Cline/cline-2025-10-16-v3-33-0-github-255077310-b9a1872c|cline-2025-10-16-v3-33-0-github-255077310-b9a1872c]]'
 source_type: github_releases
 theme: model-support
@@ -92,7 +92,7 @@ Source: https://github.com/cline/cline/releases/tag/v3.33.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-10-15 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-10-15-added-each-model-s-premium-request-multiplier-to-the-model-list-currently-all-ou|Added each model's premium request multiplier to the /model list…]]
+- Earlier: 2025-10-15 · Ollama · [[Changes/Ollama/2025-10-15-2-model-support-changes-in-v0-12-6|2 Model Support changes in v0.12.6]]
 - Later: 2025-10-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-10-16-added-debug-logging-when-calls-to-model-result-in-copilot-api-errors-this-should|Added debug logging when calls to /model result in Copilot API errors]]
 <!-- chronolog:end -->
 

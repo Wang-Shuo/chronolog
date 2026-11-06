@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: bd93a0755f7465a4b8b208ce5ed8127d27004d5ed18052378b958d4801d38c8b
+machine_hash: 9b55d99a207e062f5ae3e364b4392e527093dcd4b24bb4679a664351d54bb553
 product: cline
 product_name: Cline
 record:
@@ -61,12 +61,12 @@ record:
     textarea)'
   type: change
 related_changes:
-- '[[Changes/OpenHands/2024-09-04-2-model-support-changes-in-0-9-2|2 Model Support
-  changes in 0.9.2]]'
-- '[[Changes/Aider/2024-09-09-3-model-support-changes-in-v0-56-0|3 Model Support changes
-  in v0.56.0]]'
 - '[[Changes/Cline/2024-09-12-adds-support-for-azure-openai-and-google-gemini-free-for-up-to-15-requests-per-m|Adds
   support for Azure OpenAI and Google Gemini (free for up to 15 requests per minute!)]]'
+- '[[Changes/Dify/2024-09-12-6-model-support-changes-in-0-8-1|6 Model Support changes
+  in 0.8.1]]'
+- '[[Changes/Dify/2024-09-13-2-model-support-changes-in-0-8-2|2 Model Support changes
+  in 0.8.2]]'
 source_release: '[[Releases/Cline/cline-2024-09-14-v1-7-0-github-175097410-b4d090b1|cline-2024-09-14-v1-7-0-github-175097410-b4d090b1]]'
 source_type: github_releases
 theme: model-support
@@ -96,8 +96,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2024-09-12 · Cline · [[Changes/Cline/2024-09-12-adds-support-for-azure-openai-and-google-gemini-free-for-up-to-15-requests-per-m|Adds support for Azure OpenAI and Google Gemini (free for up to 15 requests per minute!)]]
-- Later: 2024-09-20 · OpenHands · [[Changes/OpenHands/2024-09-20-reduced-safety-thresholds-for-gemini-by-tobitege-in-https-github-com-all-hands-a|Reduced safety thresholds for Gemini]]
+- Earlier: 2024-09-13 · Dify · [[Changes/Dify/2024-09-13-2-model-support-changes-in-0-8-2|2 Model Support changes in 0.8.2]]
+- Later: 2024-09-17 · Ollama · [[Changes/Ollama/2024-09-17-6-model-support-changes-in-v0-3-11|6 Model Support changes in v0.3.11]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

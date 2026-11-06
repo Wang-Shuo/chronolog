@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 38e4f318bde3e6e2d95d82392d382a0111980c06651528d0a684d4fbba49f733
+machine_hash: 31d0e419ced12a1a03e36528e4db562524067ce171ac9dc1fa2e926358e00b47
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,12 +43,11 @@ record:
   title: https://github.com/openai/codex/pull/2019 fixes two things for Windows
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-08-02-2-mobile-and-desktop-changes-in-v0-1-16|2 Mobile
-  and Desktop changes in v0.1.16]]'
-- '[[Changes/Gemini CLI/2025-08-05-2-mobile-and-desktop-changes-in-v0-1-17|2 Mobile
-  and Desktop changes in v0.1.17]]'
 - '[[Changes/Gemini CLI/2025-08-06-2-mobile-and-desktop-changes-in-v0-1-18|2 Mobile
   and Desktop changes in v0.1.18]]'
+- '[[Changes/Ollama/2025-08-06-statically-link-c-libraries-on-windows-for-better-compatibility|Statically
+  link C++ libraries on windows for better compatibility]]'
+- '[[Changes/Replit/2025-08-08-live-activities-on-ios|Live activities on iOS]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-08-09-rust-v0-20-0-github-238728877-a4b77eef|codex-cli-2025-08-09-rust-v0-20-0-github-238728877-a4b77eef]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -78,8 +77,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2025-08-06 · Gemini CLI · [[Changes/Gemini CLI/2025-08-06-2-mobile-and-desktop-changes-in-v0-1-18|2 Mobile and Desktop changes in v0.1.18]]
-- Later: 2025-08-14 · Gemini CLI · [[Changes/Gemini CLI/2025-08-14-2-mobile-and-desktop-changes-in-v0-1-21|2 Mobile and Desktop changes in v0.1.21]]
+- Earlier: 2025-08-08 · Replit · [[Changes/Replit/2025-08-08-live-activities-on-ios|Live activities on iOS]]
+- Later: 2025-08-09 · Open WebUI · [[Changes/Open WebUI/2025-08-09-2-mobile-and-desktop-changes-in-v0-6-19|2 Mobile and Desktop changes in v0.6.19]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

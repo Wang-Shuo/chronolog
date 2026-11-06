@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 861c36fd1da7c05a6f7507e25aa6b865359be59dbea5eb77da4d50a5440a9e14
+machine_hash: 4af0ed44826f4a54983e05c939e7edcb673b69a29455958b6c47e3579fc194c0
 product: cursor
 product_name: Cursor
 record:
@@ -44,8 +44,8 @@ record:
   title: Cursor for iPad is now available on all paid plans
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-07-21-3-mobile-and-desktop-changes-in-rust-v0-145-0|3
-  Mobile and Desktop changes in rust-v0.145.0]]'
+- '[[Changes/Open WebUI/2026-07-27-2-mobile-and-desktop-changes-in-v0-11-0|2 Mobile
+  and Desktop changes in v0.11.0]]'
 - '[[Changes/Codex CLI/2026-07-29-2-mobile-and-desktop-changes-in-rust-v0-146-0|2
   Mobile and Desktop changes in rust-v0.146.0]]'
 - '[[Changes/Cursor/2026-07-29-built-for-the-bigger-screen-98bf7a|Built for the bigger

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 399b818fb3d80b7c2255830499fe6c10586b038d71317907a6e7b48020549cb9
+machine_hash: b470429b0f72864259fbc64d5aa7dc2592bd1eefbdd571e8cc4cece240879023
 product: windsurf
 product_name: Windsurf
 record:
@@ -43,12 +43,11 @@ record:
     controls
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-10-23-the-app-isn-t-signed-with-an-apple-developer-id-yet-so-macos-may-call-a|The
-  app isn''t signed with an Apple Developer ID yet, so macOS may call a]]'
-- '[[Changes/OpenHands/2026-10-23-the-app-isn-t-signed-with-an-apple-developer-id-yet-so-macos-may-call-a-6f8043|The
-  app isn''t signed with an Apple Developer ID yet, so macOS may call a]]'
 - '[[Changes/Windsurf/2026-10-23-on-windows-wsl-distros-can-be-used-as-remote-agent-hosts-alongside-ssh-hosts-and|On
   Windows, WSL distros can be used as remote agent hosts alongside SSH hosts…]]'
+- '[[Changes/ElevenLabs/2026-10-26-android-sdk|Android SDK]]'
+- '[[Changes/ElevenLabs/2026-10-26-2-mobile-and-desktop-changes-in-elevenlabs-updates-2026-10-26|2
+  Mobile and Desktop changes in ElevenLabs updates — 2026-10-26]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-10-26-v3-11-228-40b60cc1|windsurf-2026-10-26-v3-11-228-40b60cc1]]'
 source_type: windsurf_changelog
 theme: mobile-desktop
@@ -82,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-10-23 · Windsurf · [[Changes/Windsurf/2026-10-23-on-windows-wsl-distros-can-be-used-as-remote-agent-hosts-alongside-ssh-hosts-and|On Windows, WSL distros can be used as remote agent hosts alongside SSH hosts…]]
+- Earlier: 2026-10-26 · ElevenLabs · [[Changes/ElevenLabs/2026-10-26-2-mobile-and-desktop-changes-in-elevenlabs-updates-2026-10-26|2 Mobile and Desktop changes in ElevenLabs updates — 2026-10-26]]
 - Later: 2026-10-27 · ChatGPT · [[Changes/ChatGPT/2026-10-27-you-can-learn-more-about-how-chatgpt-uses-connected-apps-here-available-to-all-c|You can learn more about how ChatGPT uses connected apps here]]
 <!-- chronolog:end -->
 

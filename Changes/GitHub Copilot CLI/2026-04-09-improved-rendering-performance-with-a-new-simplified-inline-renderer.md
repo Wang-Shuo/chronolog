@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 6c340b62f6b8b15d1f0c1a1b90111c3b5cb7be74d3beb1194828cd2492baca4a
+machine_hash: 1d1d89642705230c4456f3cf364eebe97ed286410fcb727f2b4c644c7b737871
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,10 +43,10 @@ record:
   title: Improved rendering performance with a new simplified inline renderer
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-04-improved-write-tool-diff-computation-speed-for-large-files-60-faster-on-files-wi|Improved
-  Write tool diff computation speed for large files…]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-07-reduce-memory-usage-by-automatically-shutting-down-shell-sessions-that-are-no-lo|Reduce
   memory usage by automatically shutting down shell sessions that are no longer…]]'
+- '[[Changes/Ollama/2026-04-07-mlx-improve-m5-performance-with-nax|mlx: Improve M5
+  performance with NAX]]'
 - '[[Changes/Claude Code/2026-04-09-fixed-a-memory-leak-where-remote-control-permission-handler-entries-were-retaine|Fixed
   a memory leak where Remote Control permission handler entries were retained…]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-04-09-v1-0-22-github-307239074-a988a80d|github-copilot-cli-2026-04-09-v1-0-22-github-307239074-a988a80d]]'

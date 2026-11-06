@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0beee60f99ecc18ea000e27468a74806b01934693728bffe614a0a56bd71e8fb
+machine_hash: f267a380e5764228bb46804a676d2b6d5ea7ce7c019a29a6f059ac4c891ec600
 product: cursor
 product_name: Cursor
 record:
@@ -43,10 +43,10 @@ record:
   title: API Key input box is now a password type
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-06-27-cursor-is-now-based-on-version-1-79-2-of-vscodium-which-comes-with-security-upda|Cursor
-  is now based on version 1.79.2 of VSCodium, which comes with security updates…]]'
 - '[[Changes/Aider/2023-07-24-encourage-gpt-to-use-language-like-add-files-to-the-chat-to-ask-users-for-permis|Encourage
   GPT to use language like "add files to the chat" to ask users…]]'
+- '[[Changes/Dify/2023-08-15-fix-frontend-permission-check-by-matriq-in-https-github-com-langgenius-dify-pull|fix:
+  frontend permission check]]'
 - '[[Changes/ChatGPT/2023-08-28-today-we-re-launching-chatgpt-enterprise-which-offers-enterprise-grade-security-4958cf|Introducing
   ChatGPT Enterprise]]'
 source_release: '[[Releases/Cursor/cursor-2023-08-30-0-9-0-https-cursor-com-changelog-0-9-0-1c913df4|cursor-2023-08-30-0-9-0-https-cursor-com-changelog-0-9-0-1c913df4]]'
@@ -79,7 +79,7 @@ type: change
 ## Nearby in Safety and Privacy
 
 - Earlier: 2023-08-28 · ChatGPT · [[Changes/ChatGPT/2023-08-28-today-we-re-launching-chatgpt-enterprise-which-offers-enterprise-grade-security-4958cf|Introducing ChatGPT Enterprise]]
-- Later: 2024-06-04 · OpenHands · [[Changes/OpenHands/2024-06-04-2-safety-and-privacy-changes-in-0-6-1|2 Safety and Privacy changes in 0.6.1]]
+- Later: 2023-11-17 · Ollama · [[Changes/Ollama/2023-11-17-fix-permission-denied-issues-when-running-ollama-create-on-linux|Fix permission denied issues when running ollama create on Linux]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

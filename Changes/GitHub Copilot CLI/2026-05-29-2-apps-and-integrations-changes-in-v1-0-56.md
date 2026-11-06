@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b42898b9292e63c9e213353f5c274f6c2f046d5141ab00187d94349447d10d5e
+machine_hash: fe2aca3299712e5b31ac3d92f674d157afcb8014efd7edbefd752f0171463dc2
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -46,10 +46,10 @@ record:
   title: 2 Apps and Integrations changes in v1.0.56
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-05-28-14-apps-and-integrations-changes-in-rust-v0-135-0|14
-  Apps and Integrations changes in rust-v0.135.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-28-10-apps-and-integrations-changes-in-v1-0-55|10
   Apps and Integrations changes in v1.0.55]]'
+- '[[Changes/Lovable/2026-05-28-app-connectors-algolia-linkedin-and-microsoft-sharepoint|App
+  connectors: Algolia, LinkedIn, and Microsoft SharePoint]]'
 - '[[Changes/Claude Code/2026-05-29-4-apps-and-integrations-changes-in-v2-1-157|4
   Apps and Integrations changes in v2.1.157]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-05-29-v1-0-56-github-331744068-421e2448|github-copilot-cli-2026-05-29-v1-0-56-github-331744068-421e2448]]'
@@ -91,7 +91,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.56
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-05-29 · Claude Code · [[Changes/Claude Code/2026-05-29-4-apps-and-integrations-changes-in-v2-1-157|4 Apps and Integrations changes in v2.1.157]]
-- Later: 2026-06-01 · Codex CLI · [[Changes/Codex CLI/2026-06-01-20-apps-and-integrations-changes-in-rust-v0-136-0|20 Apps and Integrations changes in rust-v0.136.0]]
+- Later: 2026-05-29 · Replit · [[Changes/Replit/2026-05-29-integrations|Integrations]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

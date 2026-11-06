@@ -5,20 +5,20 @@ description: 'Codex CLI · 2026-09-17 · Voice and Audio: 20 changes in 0.155.0 
   experimental `/voice` conversations with live transcripts and microphone controls
   on…'
 diffusion:
-  first_in_tracked: '[[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source
-    link) support, which allows you…]]'
+  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
+    Voice and Audio changes in 0.3.7]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1133
+  lag_days: 1165
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: eb2da4084022f5008964e953062b3f5bba198d494bda851b4956c6e660347103
+machine_hash: c9312664075b677374dfde33bfefafa2b975557373dc16a95a678c793332cbba
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -86,12 +86,9 @@ record:
   title: 20 Voice and Audio changes in rust-v0.155.0
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-08-31-to-continue-a-voice-conversation-outside-chatgpt-turn-on-background-conversation|To
-  continue a Voice conversation outside ChatGPT, turn on Background conversations…]]'
-- '[[Changes/Codex CLI/2026-09-03-5-voice-and-audio-changes-in-rust-v0-153-0|5 Voice
-  and Audio changes in rust-v0.153.0]]'
-- '[[Changes/Codex CLI/2026-09-09-20-voice-and-audio-changes-in-rust-v0-154-0|20 Voice
-  and Audio changes in rust-v0.154.0]]'
+- '[[Changes/ElevenLabs/2026-09-14-packages|Packages]]'
+- '[[Changes/ElevenLabs/2026-09-14-elevenagents-bdb11f|ElevenAgents]]'
+- '[[Changes/ElevenLabs/2026-09-14-elevenagents-dab1d0|ElevenAgents]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-09-17-rust-v0-155-0-github-391114314-ca085512|codex-cli-2026-09-17-rust-v0-155-0-github-391114314-ca085512]]'
 source_type: github_releases
 theme: voice
@@ -173,14 +170,14 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.155.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-09-09 · Codex CLI · [[Changes/Codex CLI/2026-09-09-20-voice-and-audio-changes-in-rust-v0-154-0|20 Voice and Audio changes in rust-v0.154.0]]
-- Later: 2026-09-22 · Codex CLI · [[Changes/Codex CLI/2026-09-22-17-voice-and-audio-changes-in-rust-v0-156-0|17 Voice and Audio changes in rust-v0.156.0]]
+- Earlier: 2026-09-14 · ElevenLabs · [[Changes/ElevenLabs/2026-09-14-elevenagents-dab1d0|ElevenAgents]]
+- Later: 2026-09-21 · ElevenLabs · [[Changes/ElevenLabs/2026-09-21-text-to-speech|Text to Speech]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-08-11 · Aider · [[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source link) support, which allows you…]]
+- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

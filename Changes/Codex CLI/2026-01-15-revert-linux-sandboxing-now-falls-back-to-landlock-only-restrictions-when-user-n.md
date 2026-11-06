@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 13fa17f70b1a2122d2f0420ca13b159d7505b5f220c4aa1c9beb12a449465984
+machine_hash: d753e596246ba9f6fa6a7f94a86e0fc65efef441f5a757635f5dc666ca7bc8fd
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -89,7 +89,7 @@ type: change
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-01-14 · Gemini CLI · [[Changes/Gemini CLI/2026-01-14-7-safety-and-privacy-changes-in-v0-24-0|7 Safety and Privacy changes in v0.24.0]]
-- Later: 2026-01-21 · Codex CLI · [[Changes/Codex CLI/2026-01-21-3-safety-and-privacy-changes-in-rust-v0-88-0|3 Safety and Privacy changes in rust-v0.88.0]]
+- Later: 2026-01-16 · Lovable · [[Changes/Lovable/2026-01-16-dependency-vulnerability-scanning-is-now-available-with-issues-in-project-depend|Dependency vulnerability scanning is now available, with issues in project…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

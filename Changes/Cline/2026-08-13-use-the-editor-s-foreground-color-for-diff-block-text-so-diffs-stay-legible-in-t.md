@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 074005a1e82b19f72864a8b3c94c45f94f7094818d731a36a998263dfa5130f6
+machine_hash: c2bf6222991e2af52421ebb98f5ef7fc2fed2926e0599ee180cfe56f7db9bf71
 product: cline
 product_name: Cline
 record:
@@ -80,7 +80,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-08-11 · Cline · [[Changes/Cline/2026-08-11-remove-the-stale-double-check-completion-feature-tip|Remove the stale "Double-Check Completion" feature tip]]
-- Later: 2026-08-17 · Cursor · [[Changes/Cursor/2026-08-17-origin-repos|Origin Repos]]
+- Later: 2026-08-13 · Lovable · [[Changes/Lovable/2026-08-13-open-projects-from-links-in-the-command-palette|Open projects from links in the command palette]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

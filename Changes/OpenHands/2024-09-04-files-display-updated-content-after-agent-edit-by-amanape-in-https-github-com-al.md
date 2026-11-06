@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: d1ed7196b64ac9dcba333515e8b406359c6d8b4ec6d3a3b9b683bd35a13d140c
+machine_hash: 9b6e3cb7831442573ce9d5e75b4ebee3102c5adbb38a8593c075026933defefb
 product: openhands
 product_name: OpenHands
 record:
@@ -43,12 +43,12 @@ record:
   title: Files display updated content after agent edit
   type: change
 related_changes:
-- '[[Changes/OpenHands/2024-08-23-4-agent-mode-changes-in-0-9-0|4 Agent Mode changes
-  in 0.9.0]]'
 - '[[Changes/Aider/2024-08-27-improved-shell-command-prompting|Improved shell command
   prompting]]'
 - '[[Changes/OpenHands/2024-08-29-specialize-codeact-into-micro-agents-by-xingyaoww-in-https-github-com-all-hands|Specialize
   CodeAct into micro agents]]'
+- "[[Changes/Open WebUI/2024-09-04-user-agent-in-comfyui-added-default-headers-in-comfyui-to-fix-access-issues-impr|\U0001F6E0️
+  User Agent in ComfyUI]]"
 source_release: '[[Releases/OpenHands/openhands-2024-09-04-0-9-2-github-173488185-b7500959|openhands-2024-09-04-0-9-2-github-173488185-b7500959]]'
 source_type: github_releases
 theme: agent-mode
@@ -79,8 +79,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2024-08-29 · OpenHands · [[Changes/OpenHands/2024-08-29-specialize-codeact-into-micro-agents-by-xingyaoww-in-https-github-com-all-hands|Specialize CodeAct into micro agents]]
-- Later: 2024-10-22 · OpenHands · [[Changes/OpenHands/2024-10-22-improvements-to-agent-editing-using-llm-by-xingyaoww-in-https-github-com-all-han|Improvements to Agent Editing using LLM]]
+- Earlier: 2024-09-04 · Open WebUI · [[Changes/Open WebUI/2024-09-04-user-agent-in-comfyui-added-default-headers-in-comfyui-to-fix-access-issues-impr|🛠️ User Agent in ComfyUI]]
+- Later: 2024-09-10 · Dify · [[Changes/Dify/2024-09-10-refactor-api-core-improve-type-hints-and-apply-ruff-formatter-in-agent-runner-an|refactor(api/core): Improve type hints and apply ruff formatter in agent runner…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

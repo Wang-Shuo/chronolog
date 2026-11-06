@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 71d77c3d012cf2aecb612e2fe110ea3982e95be0686840377c0f3ffbe0d08f6f
+machine_hash: dcf041740ebbb3b8040d7939e4bf7a78b9e262dae21dde2d28eec4bf86e96811
 product: claude-code
 product_name: Claude Code
 record:
@@ -79,7 +79,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-01-28 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-28-mcp-show-server-name-displays-server-details-and-available-tools|/mcp show server-name displays server details and available tools]]
-- Later: 2026-01-30 · Cline · [[Changes/Cline/2026-01-30-hooks-hook-scripts-now-run-from-the-workspace-repository-root-instead-of-filesys|_Hooks: Hook scripts now run from the workspace repository root instead…]]
+- Later: 2026-01-30 · Cline · [[Changes/Cline/2026-01-30-hooks-hook-scripts-now-run-from-the-workspace-repository-root-instead-of-filesys|Hooks: Hook scripts now run from the workspace repository root instead…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

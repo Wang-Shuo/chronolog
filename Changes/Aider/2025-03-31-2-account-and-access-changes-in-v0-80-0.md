@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4722b9954787340ed5f90aebff6f9a8e83c366eabfd822f4eaad1b160e306825
+machine_hash: 0c2b3645caac6c714ac2d402e43cf2817dfb78cf3a923e137e04e13c746927f6
 product: aider
 product_name: Aider
 record:
@@ -42,12 +42,12 @@ record:
   title: 2 Account and Access changes in v0.80.0
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2024-04-01-we-re-making-it-easier-for-people-to-experience-the-benefits-of-ai-without-needi|Start
-  using ChatGPT instantly]]'
-- '[[Changes/OpenHands/2024-12-06-updated-initial-sign-in-with-github-modal-by-amanape-in-https-github-com-all-han|Updated
-  initial Sign in with Github modal]]'
-- '[[Changes/OpenHands/2024-12-18-changes-to-github-authentication-by-malhotra5-in-https-github-com-all-hands-ai-o|Changes
-  to Github Authentication]]'
+- "[[Changes/Open WebUI/2025-02-13-oauth-debug-logs-username-claim-fixes-debug-logs-have-been-added-for-oauth-role|\U0001F527
+  OAuth Debug Logs & Username Claim Fixes]]"
+- '[[Changes/Open WebUI/2025-03-05-2-account-and-access-changes-in-v0-5-19|2 Account
+  and Access changes in v0.5.19]]'
+- '[[Changes/Dify/2025-03-11-update-login-py-by-albcunha-in-https-github-com-langgenius-dify-pull-15320|Update
+  login.py]]'
 source_release: '[[Releases/Aider/aider-2025-03-31-v0-80-0-github-209238246-56764716|aider-2025-03-31-v0-80-0-github-209238246-56764716]]'
 source_type: github_releases
 theme: account-access
@@ -84,8 +84,8 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.80.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2024-12-18 · OpenHands · [[Changes/OpenHands/2024-12-18-changes-to-github-authentication-by-malhotra5-in-https-github-com-all-hands-ai-o|Changes to Github Authentication]]
-- Later: 2025-04-04 · Aider · [[Changes/Aider/2025-04-04-2-account-and-access-changes-in-v0-81-0|2 Account and Access changes in v0.81.0]]
+- Earlier: 2025-03-11 · Dify · [[Changes/Dify/2025-03-11-update-login-py-by-albcunha-in-https-github-com-langgenius-dify-pull-15320|Update login.py]]
+- Later: 2025-04-01 · Open WebUI · [[Changes/Open WebUI/2025-04-01-2-account-and-access-changes-in-v0-6-0|2 Account and Access changes in v0.6.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

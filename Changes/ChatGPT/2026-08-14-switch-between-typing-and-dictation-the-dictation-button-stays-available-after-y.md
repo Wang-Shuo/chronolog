@@ -4,20 +4,20 @@ date: '2026-08-14'
 description: 'ChatGPT · 2026-08-14 · Voice and Audio: Switch between typing and dictation.
   The dictation button stays available after you add text or attachments, so you can…'
 diffusion:
-  first_in_tracked: '[[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source
-    link) support, which allows you…]]'
+  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
+    Voice and Audio changes in 0.3.7]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1099
+  lag_days: 1131
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c4882910e5cb6d14e2f52eb2a20966e802175a46ea8268e3795ae059bddfa825
+machine_hash: b6b46bdae3c4e4f459202460d21775f83b6267eb4812b2eec97630a903e5fedd
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -44,12 +44,9 @@ record:
   title: Switch between typing and dictation
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-08-07-gpt-live-in-chatgpt-voice-now-supports-file-uploads-and-projects-you-can-now-upl|Files
-  and Projects in ChatGPT Voice]]'
-- '[[Changes/ChatGPT/2026-08-07-dictate-with-fewer-interruptions-if-dictation-fails-because-of-a-connection-issu|Dictate
-  with fewer interruptions]]'
-- '[[Changes/Codex CLI/2026-08-07-36807-extract-audio-preparation-into-a-utility-crate-copyberry|♯36807
-  Extract audio preparation into a utility crate @copyberry]]'
+- '[[Changes/ElevenLabs/2026-08-10-dubbing-v2-api|Dubbing v2 API]]'
+- '[[Changes/ElevenLabs/2026-08-10-javascript-sdk|JavaScript SDK]]'
+- '[[Changes/ElevenLabs/2026-08-10-voices|Voices]]'
 scope: Android
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-14-chatgpt-app-experience-updates-d15f55c5|chatgpt-2026-08-14-chatgpt-app-experience-updates-d15f55c5]]'
 source_type: chatgpt_changelog
@@ -82,14 +79,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-08-07 · Codex CLI · [[Changes/Codex CLI/2026-08-07-36807-extract-audio-preparation-into-a-utility-crate-copyberry|♯36807 Extract audio preparation into a utility crate @copyberry]]
-- Later: 2026-08-20 · Codex CLI · [[Changes/Codex CLI/2026-08-20-39045-add-managed-gates-for-in-app-chat-and-dictation-copyberry|♯39045 Add managed gates for in-app chat and dictation @copyberry]]
+- Earlier: 2026-08-10 · ElevenLabs · [[Changes/ElevenLabs/2026-08-10-voices|Voices]]
+- Later: 2026-08-17 · ElevenLabs · [[Changes/ElevenLabs/2026-08-17-packages|Packages]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-08-11 · Aider · [[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source link) support, which allows you…]]
+- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

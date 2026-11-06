@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ce58594eef7e96b74ab90dd091b9671eb717464ac14b707f0f697012bd0b4e97
+machine_hash: 5a37a0a2c283fe36038699b7b11179da16bc09f0184b780d50ba5797dad0e793
 product: cline
 product_name: Cline
 record:
@@ -43,10 +43,10 @@ record:
     you're…
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-10-23-4-developer-workflow-changes-in-v3-11-212|4 Developer
-  Workflow changes in v3.11.212]]'
 - '[[Changes/Windsurf/2026-10-24-2-developer-workflow-changes-in-v3-11-216|2 Developer
   Workflow changes in v3.11.216]]'
+- '[[Changes/Open WebUI/2026-10-25-49-developer-workflow-changes-in-v0-12-4|49 Developer
+  Workflow changes in v0.12.4]]'
 - '[[Changes/Claude Code/2026-10-26-4-developer-workflow-changes-in-v2-1-311|4 Developer
   Workflow changes in v2.1.311]]'
 source_release: '[[Releases/Cline/cline-2026-10-26-v4-1-26-github-424033561-1dc8e551|cline-2026-10-26-v4-1-26-github-424033561-1dc8e551]]'

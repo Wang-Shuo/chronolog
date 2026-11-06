@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2d4f094f60164d40a7b813fd659c1e1fad3854851d04e5c7a92bea66f1e3aff9
+machine_hash: c49093449215046ba08395d4a0c0ebeb3f2e343487331dbbf1cd3b6f6f7dbd05
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,12 +48,12 @@ record:
   title: 3 Safety and Privacy changes in v2.1.212
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-14-fixed-multi-second-per-turn-slowdowns-in-sessions-with-many-permission-deny-ask|Fixed
-  multi-second per-turn slowdowns in sessions with many permission deny/ask rules]]'
-- '[[Changes/Claude Code/2026-07-15-2-safety-and-privacy-changes-in-v2-1-211|2 Safety
-  and Privacy changes in v2.1.211]]'
+- '[[Changes/Lovable/2026-07-15-automatically-delete-abandoned-projects|Automatically
+  delete abandoned projects]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-16-2-safety-and-privacy-changes-in-v1-0-71|2
   Safety and Privacy changes in v1.0.71]]'
+- '[[Changes/Lovable/2026-07-16-choose-which-wiz-policies-run-during-security-scans|Choose
+  which Wiz policies run during security scans]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-17-v2-1-212-github-355310036-d94b4e11|claude-code-2026-07-17-v2-1-212-github-355310036-d94b4e11]]'
 source_type: github_releases
 theme: safety-privacy
@@ -95,8 +95,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.212
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-07-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-16-2-safety-and-privacy-changes-in-v1-0-71|2 Safety and Privacy changes in v1.0.71]]
-- Later: 2026-07-18 · Claude Code · [[Changes/Claude Code/2026-07-18-9-safety-and-privacy-changes-in-v2-1-214|9 Safety and Privacy changes in v2.1.214]]
+- Earlier: 2026-07-16 · Lovable · [[Changes/Lovable/2026-07-16-choose-which-wiz-policies-run-during-security-scans|Choose which Wiz policies run during security scans]]
+- Later: 2026-07-17 · Dify · [[Changes/Dify/2026-07-17-20-safety-and-privacy-changes-in-1-16-0|20 Safety and Privacy changes in 1.16.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

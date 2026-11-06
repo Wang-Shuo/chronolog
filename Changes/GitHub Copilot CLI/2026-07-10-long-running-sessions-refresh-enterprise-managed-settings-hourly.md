@@ -4,20 +4,20 @@ date: '2026-07-10'
 description: 'GitHub Copilot CLI · 2026-07-10 · Enterprise and Administration: Long-running
   sessions refresh enterprise managed settings hourly'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin
-    improvements: Team admins can now mark themselves as unpaid users and can see…]]'
+  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
+    for Google Workspace accounts]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 842
+  lag_days: 1162
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5477727f1b507e76753a1ee3353d6c6a0e3bc6b3be5264d5d83c895ceaae8c11
+machine_hash: 304c98cd3c7e9038d32f353f25470905c4f66294464f3476b7b36186e77937a9
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -41,12 +41,12 @@ record:
   title: Long-running sessions refresh enterprise managed settings hourly
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-07-09-business-and-enterprise-customers-already-have-access-to-sites-starting-today-th|Business
-  and Enterprise customers already have access to Sites]]'
 - '[[Changes/ChatGPT/2026-07-09-on-web-and-mobile-enterprise-and-edu-workspaces-have-a-two-week-preview-period-w|On
   web and mobile, Enterprise and Edu workspaces have a two-week preview period]]'
 - '[[Changes/ChatGPT/2026-07-09-in-enterprise-workspaces-public-publishing-is-off-by-default-and-must-be-enabled|In
   Enterprise workspaces, public publishing is off by default and must be enabled…]]'
+- '[[Changes/Lovable/2026-07-09-enterprise-member-profiles-are-now-private-by-default|Enterprise
+  member profiles are now private by default]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-07-10-v1-0-70-github-351853788-0192ae35|github-copilot-cli-2026-07-10-v1-0-70-github-351853788-0192ae35]]'
 source_type: github_releases
 theme: enterprise-admin
@@ -84,14 +84,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-07-09 · ChatGPT · [[Changes/ChatGPT/2026-07-09-in-enterprise-workspaces-public-publishing-is-off-by-default-and-must-be-enabled|In Enterprise workspaces, public publishing is off by default and must be enabled…]]
-- Later: 2026-07-15 · Claude Code · [[Changes/Claude Code/2026-07-15-changed-usage-credits-to-ask-for-confirmation-before-sending-a-request-to-organi|Changed /usage-credits to ask for confirmation before sending a request…]]
+- Earlier: 2026-07-09 · Lovable · [[Changes/Lovable/2026-07-09-enterprise-member-profiles-are-now-private-by-default|Enterprise member profiles are now private by default]]
+- Later: 2026-07-14 · Claude · [[Changes/Claude/2026-07-14-hipaa-configuration-for-your-claude-organizations-is-now-self-serve|HIPAA configuration for your Claude organizations is now self-serve]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-03-20 · Cursor · [[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin improvements: Team admins can now mark themselves as unpaid users and can see…]]
+- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

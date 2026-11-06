@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9cf62a243b2dc5bad4383e956a004494b4c4354038a9fac5fbab1a62566330b9
+machine_hash: cbe946d71df92dc1afae6edcf1bc45b6b2f8b2e82444aa4af6cff917bc520f3a
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -43,10 +43,9 @@ record:
   title: Add expected_replacements to smart-edit tool
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-11-07-enable-codebase-investigator-by-default-for-preview-by-silviojr-in-https-github|enable
-  codebase investigator by default for preview]]'
-- '[[Changes/GitHub Copilot CLI/2025-11-12-3-editor-experience-changes-in-v0-0-355|3
-  Editor Experience changes in v0.0.355]]'
+- '[[Changes/Ollama/2025-11-12-autocomplete|Autocomplete]]'
+- '[[Changes/Dify/2025-11-13-refactor-web-reuse-the-same-edit-custom-collection-modal-component-and-fix-the-p|refactor(web):
+  reuse the same edit-custom-collection-modal component, and fix…]]'
 - '[[Changes/Windsurf/2025-11-13-shortcuts|Shortcuts]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-11-14-v0-15-0-github-262282457-4632a193|gemini-cli-2025-11-14-v0-15-0-github-262282457-4632a193]]'
 source_type: github_releases

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: e07b5ebbef90a5fc82ed78f71fee24dc61d9d9bd56fb478b1f0e45e5ac1aa84c
+machine_hash: 6216e9913d2d424613e2f867e04d63de152cc7cd7332e32208c027e6a5694995
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -47,10 +47,10 @@ record:
   title: Introducing gpt-5.2-codex our latest frontier model with improvements across…
   type: change
 related_changes:
-- '[[Changes/Cline/2025-12-17-polished-the-model-picker-ui-with-checkmarks-for-selected-models-tooltips-on-pla|Polished
-  the model picker UI with checkmarks for selected models, tooltips…]]'
 - '[[Changes/Cline/2025-12-17-2-model-support-changes-in-v3-45-0|2 Model Support changes
   in v3.45.0]]'
+- '[[Changes/Gemini/2025-12-17-introducing-gemini-3-flash-a-major-upgrade-to-your-everyday-ai|Introducing
+  Gemini 3 Flash, a major upgrade to your everyday AI]]'
 - '[[Changes/Codex CLI/2025-12-18-6-model-support-changes-in-rust-v0-74-0|6 Model
   Support changes in rust-v0.74.0]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-12-18-rust-v0-74-0-github-271533952-972d825a|codex-cli-2025-12-18-rust-v0-74-0-github-271533952-972d825a]]'
@@ -93,7 +93,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-12-17 · Cline · [[Changes/Cline/2025-12-17-2-model-support-changes-in-v3-45-0|2 Model Support changes in v3.45.0]]
+- Earlier: 2025-12-17 · Gemini · [[Changes/Gemini/2025-12-17-introducing-gemini-3-flash-a-major-upgrade-to-your-everyday-ai|Introducing Gemini 3 Flash, a major upgrade to your everyday AI]]
 - Later: 2025-12-18 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-12-18-2-model-support-changes-in-v0-0-370|2 Model Support changes in v0.0.370]]
 <!-- chronolog:end -->
 

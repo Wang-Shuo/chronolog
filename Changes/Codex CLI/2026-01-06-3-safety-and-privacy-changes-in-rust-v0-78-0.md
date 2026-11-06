@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f20f737f92f69568a4ce207c8d8fa8639097be570f787e40f7aa57e4a6f2a89a
+machine_hash: c738a58e45f106f891b46b2aba8e3fdd10d99d778ae5768f99f3f7a6975def1a
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -45,12 +45,11 @@ record:
   title: 3 Safety and Privacy changes in rust-v0.78.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2025-12-19-add-url-permission-controls-which-affect-common-shell-commands-which-access-the|Add
-  URL permission controls which affect common shell commands which access the web]]'
-- '[[Changes/Codex CLI/2025-12-21-2-safety-and-privacy-changes-in-rust-v0-77-0|2 Safety
-  and Privacy changes in rust-v0.77.0]]'
-- '[[Changes/Cursor/2025-12-22-improved-stability-around-how-the-agent-respects-auto-run-preferences-to-prevent|Improved
-  stability around how the agent respects auto-run preferences to prevent…]]'
+- '[[Changes/Lovable/2025-12-23-public-preview-link-controls|Public preview link controls]]'
+- '[[Changes/Dify/2025-12-25-3-safety-and-privacy-changes-in-1-11-2|3 Safety and Privacy
+  changes in 1.11.2]]'
+- '[[Changes/Replit/2025-12-26-security-center-for-enterprise|Security Center for
+  Enterprise]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-01-06-rust-v0-78-0-github-274610568-c3df153a|codex-cli-2026-01-06-rust-v0-78-0-github-274610568-c3df153a]]'
 source_type: github_releases
 theme: safety-privacy
@@ -94,7 +93,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.78.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2025-12-22 · Cursor · [[Changes/Cursor/2025-12-22-improved-stability-around-how-the-agent-respects-auto-run-preferences-to-prevent|Improved stability around how the agent respects auto-run preferences to prevent…]]
+- Earlier: 2025-12-26 · Replit · [[Changes/Replit/2025-12-26-security-center-for-enterprise|Security Center for Enterprise]]
 - Later: 2026-01-07 · Codex CLI · [[Changes/Codex CLI/2026-01-07-allow-global-exec-flags-model-json-sandbox-toggles-etc-to-be-passed-after-codex|Allow global exec flags (model/json/sandbox toggles, etc.) to be passed after…]]
 <!-- chronolog:end -->
 

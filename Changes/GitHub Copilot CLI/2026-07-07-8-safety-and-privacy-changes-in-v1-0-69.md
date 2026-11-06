@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e479f523c73f3edbd7444be24731c210dfbdf0ea7ce66c9c464d97986b1deba7
+machine_hash: a56b2349b2090982c1279412dce4fd7c0ac3ee9c9046951de73e36d3279725cf
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -122,7 +122,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.69
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-07-07 · Claude Code · [[Changes/Claude Code/2026-07-07-added-a-grey-badge-to-the-footer-when-in-manual-permission-mode-making-the-activ|Added a grey ⏸ badge to the footer when in manual permission mode, making the active…]]
-- Later: 2026-07-08 · Claude Code · [[Changes/Claude Code/2026-07-08-background-task-notifications-now-explicitly-state-that-no-human-input-has-occur|Background task notifications now explicitly state that no human input has occurred…]]
+- Later: 2026-07-07 · v0 · [[Changes/v0/2026-07-07-5-safety-and-privacy-changes-in-grouped-tool-approvals-richer-mcp|5 Safety and Privacy changes in Grouped tool approvals, richer MCP…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

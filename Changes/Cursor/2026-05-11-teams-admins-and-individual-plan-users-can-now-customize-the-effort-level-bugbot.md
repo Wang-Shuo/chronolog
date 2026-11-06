@@ -5,20 +5,20 @@ description: 'Cursor · 2026-05-11 · Enterprise and Administration: Teams admin
   Individual plan users can now customize the effort level Bugbot uses for its PR
   reviews…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin
-    improvements: Team admins can now mark themselves as unpaid users and can see…]]'
+  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
+    for Google Workspace accounts]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 782
+  lag_days: 1102
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ed9a517d9e8156056e92955f2a7db99e7c8450590e777f9a2b181222c7991fdd
+machine_hash: 99991a564613666ee4a0eff52d691f6bc77c6f65cfa500cc52d8e540afb66e02
 product: cursor
 product_name: Cursor
 record:
@@ -47,12 +47,12 @@ record:
     Bugbot…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-05-04-soft-spend-limits-and-intelligent-alerts|Soft spend
-  limits and intelligent alerts]]'
 - '[[Changes/Claude Code/2026-05-07-added-parentsettingsbehavior-admin-tier-key-first-wins-merge-to-let-admins-opt-s|Added
   parentSettingsBehavior admin-tier key (''first-wins''  /  ''merge'') to let…]]'
 - '[[Changes/Claude Code/2026-05-08-added-claude-code-enable-feedback-survey-for-otel-to-re-enable-the-session-quali|Added
   CLAUDE_CODE_ENABLE_FEEDBACK_SURVEY_FOR_OTEL to re-enable the session quality…]]'
+- "[[Changes/Open WebUI/2026-05-10-shared-chat-access-for-owners-and-admins-chat-owners-can-now-view-and-clone-thei|\U0001F510
+  Shared chat access for owners and admins. Chat owners can now view and clone…]]"
 source_release: '[[Releases/Cursor/cursor-2026-05-11-bugbot-effort-levels-https-cursor-com-changelog-05-11-26-b41d8617|cursor-2026-05-11-bugbot-effort-levels-https-cursor-com-changelog-05-11-26-b41d8617]]'
 source_type: cursor_changelog
 theme: enterprise-admin
@@ -85,14 +85,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-05-08 · Claude Code · [[Changes/Claude Code/2026-05-08-added-claude-code-enable-feedback-survey-for-otel-to-re-enable-the-session-quali|Added CLAUDE_CODE_ENABLE_FEEDBACK_SURVEY_FOR_OTEL to re-enable the session quality…]]
-- Later: 2026-05-13 · Claude Code · [[Changes/Claude Code/2026-05-13-added-anthropic-workspace-id-environment-variable-for-workload-identity-federati|Added ANTHROPIC_WORKSPACE_ID environment variable for workload identity federation]]
+- Earlier: 2026-05-10 · Open WebUI · [[Changes/Open WebUI/2026-05-10-shared-chat-access-for-owners-and-admins-chat-owners-can-now-view-and-clone-thei|🔐 Shared chat access for owners and admins. Chat owners can now view and clone…]]
+- Later: 2026-05-12 · Dify · [[Changes/Dify/2026-05-12-2-enterprise-and-administration-changes-in-1-14-1|2 Enterprise and Administration changes in 1.14.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-03-20 · Cursor · [[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin improvements: Team admins can now mark themselves as unpaid users and can see…]]
+- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

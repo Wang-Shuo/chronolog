@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3f93c7328df672c3045afb3903fc0b18c78785ee81e80a0f78ad421a098f9be8
+machine_hash: 20a79f10225e9e3d321be00d48f118ccfb8bb331813a27c7ac653e990c48ec63
 product: openhands
 product_name: OpenHands
 record:
@@ -42,8 +42,8 @@ record:
   title: 'feat: Add full Git history user setting'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-01-6-developer-workflow-changes-in-v1-0-68|6
-  Developer Workflow changes in v1.0.68]]'
+- '[[Changes/Open WebUI/2026-07-01-5-developer-workflow-changes-in-v0-10-2|5 Developer
+  Workflow changes in v0.10.2]]'
 - '[[Changes/Claude Code/2026-07-02-claude-agents-session-rows-now-show-pull-request-links-as-bare-n-without-the-red|claude
   agents session rows now show pull-request links as bare ♯N without…]]'
 - '[[Changes/Claude Code/2026-07-06-changed-review-pr-back-to-a-fast-single-pass-review-use-code-review-level-pr-for|Changed

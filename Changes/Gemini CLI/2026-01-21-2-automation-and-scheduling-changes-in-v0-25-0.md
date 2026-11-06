@@ -5,20 +5,20 @@ description: 'Gemini CLI · 2026-01-21 · Automation and Scheduling: 2 changes i
   v0.25.0 — policy: extract legacy policy from core tool scheduler to policy engine
   by…'
 diffusion:
-  first_in_tracked: '[[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better
-    syntax error loop detection]]'
+  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
+    data clean schedule]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 504
+  lag_days: 750
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c2cf7e2cea1c445cafc6fc5e5a08e7602813b2e4031e5dc520b7c40360f84f72
+machine_hash: eef17ac5a200290acfe3d1f936d6cee3d5884df5061cbaee9b66ee0d484d7718
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -45,12 +45,12 @@ record:
   title: 2 Automation and Scheduling changes in v0.25.0
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-12-17-tasks-let-you-set-up-automated-prompts-that-chatgpt-can-run-for-you-you-can-now-b3f799|Tasks
-  let you set up automated prompts that ChatGPT can run for you]]'
-- '[[Changes/Codex CLI/2025-12-18-7961-refactor-tui-event-loop-to-enable-dropping-recreating-crossterm-event-strea|♯7961
-  refactor TUI event loop to enable dropping + recreating crossterm event stream]]'
 - '[[Changes/Gemini CLI/2026-01-07-chore-core-remove-legacy-fallback-flags-and-migrate-loop-detection-by-adamfweidm|chore(core):
   remove legacy fallback flags and migrate loop detection]]'
+- '[[Changes/Replit/2026-01-09-automation-preview-for-agent-users|Automation preview
+  for Agent users]]'
+- '[[Changes/Dify/2026-01-13-chore-deps-bump-scheduler-from-0-26-0-to-0-27-0-in-web-by-dependabot-bot-in-http|chore(deps):
+  bump scheduler from 0.26.0 to 0.27.0 in /web…]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-01-21-v0-25-0-github-278507155-65088397|gemini-cli-2026-01-21-v0-25-0-github-278507155-65088397]]'
 source_type: github_releases
 theme: automation-scheduling
@@ -92,14 +92,14 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.25.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2026-01-07 · Gemini CLI · [[Changes/Gemini CLI/2026-01-07-chore-core-remove-legacy-fallback-flags-and-migrate-loop-detection-by-adamfweidm|chore(core): remove legacy fallback flags and migrate loop detection]]
-- Later: 2026-01-28 · Gemini CLI · [[Changes/Gemini CLI/2026-01-28-12-automation-and-scheduling-changes-in-v0-26-0|12 Automation and Scheduling changes in v0.26.0]]
+- Earlier: 2026-01-13 · Dify · [[Changes/Dify/2026-01-13-chore-deps-bump-scheduler-from-0-26-0-to-0-27-0-in-web-by-dependabot-bot-in-http|chore(deps): bump scheduler from 0.26.0 to 0.27.0 in /web…]]
+- Later: 2026-01-23 · Replit · [[Changes/Replit/2026-01-23-web-search-in-agent-automations|Web search in Agent automations]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-09-04 · OpenHands · [[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better syntax error loop detection]]
+- Earliest same-theme entry in the tracked set: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

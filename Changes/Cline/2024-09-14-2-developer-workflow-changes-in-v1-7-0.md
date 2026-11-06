@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7519efb808062cd357d96879483f49b4dfeae7f50c33e4449d558764281f4204
+machine_hash: 637e26cb7ea01b64daf66faf12a33e8378ff1645898a7dd196d021e78a72260e
 product: cline
 product_name: Cline
 record:
@@ -48,12 +48,12 @@ record:
   title: 2 Developer Workflow changes in v1.7.0
   type: change
 related_changes:
-- '[[Changes/Cline/2024-09-02-new-terminal-emulator-when-claude-runs-commands-you-can-now-type-directly-in-the|New
-  terminal emulator!]]'
-- '[[Changes/Aider/2024-09-04-6-developer-workflow-changes-in-v0-55-0|6 Developer
-  Workflow changes in v0.55.0]]'
-- '[[Changes/Aider/2024-09-09-2-developer-workflow-changes-in-v0-56-0|2 Developer
-  Workflow changes in v0.56.0]]'
+- '[[Changes/Dify/2024-09-10-2-developer-workflow-changes-in-0-8-0|2 Developer Workflow
+  changes in 0.8.0]]'
+- '[[Changes/Dify/2024-09-12-5-developer-workflow-changes-in-0-8-1|5 Developer Workflow
+  changes in 0.8.1]]'
+- '[[Changes/Dify/2024-09-13-stop-the-service-command-please-execute-in-the-docker-directory|Stop
+  the service，Command, please execute in the docker directory]]'
 source_release: '[[Releases/Cline/cline-2024-09-14-v1-7-0-github-175097410-b4d090b1|cline-2024-09-14-v1-7-0-github-175097410-b4d090b1]]'
 source_type: github_releases
 theme: developer-workflow
@@ -87,7 +87,7 @@ Source: https://github.com/cline/cline/releases/tag/v1.7.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2024-09-09 · Aider · [[Changes/Aider/2024-09-09-2-developer-workflow-changes-in-v0-56-0|2 Developer Workflow changes in v0.56.0]]
+- Earlier: 2024-09-13 · Dify · [[Changes/Dify/2024-09-13-stop-the-service-command-please-execute-in-the-docker-directory|Stop the service，Command, please execute in the docker directory]]
 - Later: 2024-09-17 · Cursor · [[Changes/Cursor/2024-09-17-we-ve-added-support-for-using-cursor-on-macs-over-remote-ssh|Cursor adds support for using Cursor on Macs over Remote SSH]]
 <!-- chronolog:end -->
 

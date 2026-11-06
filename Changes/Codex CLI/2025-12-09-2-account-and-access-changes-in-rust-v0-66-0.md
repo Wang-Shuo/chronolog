@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b90633492068d9db57e4e98203ee611a9b7d1ea3890f453062bcd174c44789e8
+machine_hash: 1f5f31ef5c7fea2d780ba175499e509e144d3c3143b421eee6b4f08eb3f4ed28
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,12 +42,11 @@ record:
   title: 2 Account and Access changes in rust-v0.66.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-11-19-bug-fix-rmcp-client-refresh-oauth-tokens-using-expires-at-6574-laelluo|:bug:
-  fix(rmcp-client): refresh OAuth tokens using expires_at (♯6574) — @LaelLuo]]'
-- '[[Changes/GitHub Copilot CLI/2025-11-24-add-support-for-github-askpass-environment-variable-for-authentication|Add
-  support for GITHUB_ASKPASS environment variable for authentication]]'
 - '[[Changes/Codex CLI/2025-12-02-feat-support-login-as-an-option-on-shell-tool-mcp-by-bolinfest-in-7120|feat:
   support login as an option on shell-tool-mcp by @bolinfest in ♯7120]]'
+- '[[Changes/Open WebUI/2025-12-02-7-account-and-access-changes-in-v0-6-41|7 Account
+  and Access changes in v0.6.41]]'
+- '[[Changes/ElevenLabs/2025-12-08-webhook-tools|Webhook Tools]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-12-09-rust-v0-66-0-github-268559734-698ec8f9|codex-cli-2025-12-09-rust-v0-66-0-github-268559734-698ec8f9]]'
 source_type: github_releases
 theme: account-access
@@ -90,7 +89,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.66.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2025-12-02 · Codex CLI · [[Changes/Codex CLI/2025-12-02-feat-support-login-as-an-option-on-shell-tool-mcp-by-bolinfest-in-7120|feat: support login as an option on shell-tool-mcp by @bolinfest in ♯7120]]
+- Earlier: 2025-12-08 · ElevenLabs · [[Changes/ElevenLabs/2025-12-08-webhook-tools|Webhook Tools]]
 - Later: 2025-12-10 · Codex CLI · [[Changes/Codex CLI/2025-12-10-2-account-and-access-changes-in-rust-v0-69-0|2 Account and Access changes in rust-v0.69.0]]
 <!-- chronolog:end -->
 

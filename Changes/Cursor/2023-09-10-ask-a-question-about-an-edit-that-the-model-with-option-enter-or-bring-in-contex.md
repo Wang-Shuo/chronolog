@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: d1ceb91d8b07ad8f5fa630c5523cdf29d28ec7dd843020ab30974e0c9b4c56c6
+machine_hash: 74ce0639938cad2f76f46db564874ce48268d4bf9a320364fe2a38449e81cf5a
 product: cursor
 product_name: Cursor
 record:
@@ -88,7 +88,7 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2023-09-08 · Cursor · [[Changes/Cursor/2023-09-08-long-files-in-chat|Long files in chat]]
-- Later: 2023-11-07 · Aider · [[Changes/Aider/2023-11-07-2-context-window-changes-in-v0-17-0|2 Context Window changes in v0.17.0]]
+- Later: 2023-09-28 · Dify · [[Changes/Dify/2023-09-28-feat-support-binding-context-var-by-garfielddai-in-https-github-com-langgenius-d|feat: support binding context var]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

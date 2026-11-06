@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 79cf5166c09f73fcdc7a302706efb9617487980383f74c9b943cd5a87a6fcc3d
+machine_hash: 2824bf96c80705a04447ab5511815f9c25c23e3292c70bc705faae64059d65e8
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,12 +43,12 @@ record:
     instead…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-07-2-apps-and-integrations-changes-in-v2-1-133|2
-  Apps and Integrations changes in v2.1.133]]'
 - '[[Changes/Codex CLI/2026-05-07-39-apps-and-integrations-changes-in-rust-v0-129-0|39
   Apps and Integrations changes in rust-v0.129.0]]'
 - '[[Changes/Cursor/2026-05-07-made-mcp-connection-behavior-more-predictable-and-added-explicit-stale-token-cle|Made
   MCP connection behavior more predictable, and added explicit stale token…]]'
+- '[[Changes/Ollama/2026-05-07-2-apps-and-integrations-changes-in-v0-23-2|2 Apps and
+  Integrations changes in v0.23.2]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-08-v2-1-136-github-319609716-58f21368|claude-code-2026-05-08-v2-1-136-github-319609716-58f21368]]'
 source_type: github_releases
 theme: apps-integrations
@@ -80,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-05-07 · Cursor · [[Changes/Cursor/2026-05-07-made-mcp-connection-behavior-more-predictable-and-added-explicit-stale-token-cle|Made MCP connection behavior more predictable, and added explicit stale token…]]
+- Earlier: 2026-05-07 · Ollama · [[Changes/Ollama/2026-05-07-2-apps-and-integrations-changes-in-v0-23-2|2 Apps and Integrations changes in v0.23.2]]
 - Later: 2026-05-08 · Codex CLI · [[Changes/Codex CLI/2026-05-08-8-apps-and-integrations-changes-in-rust-v0-130-0|8 Apps and Integrations changes in rust-v0.130.0]]
 <!-- chronolog:end -->
 

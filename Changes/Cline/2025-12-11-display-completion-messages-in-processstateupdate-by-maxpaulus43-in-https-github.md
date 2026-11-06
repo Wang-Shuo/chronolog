@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: de29132e8b9115b422bf31b6d52e5a000f734453f524d7808a9d4128bc55200f
+machine_hash: c1c6f633c42897cc73999d1a88ad85a724761265897bf6bc3dbcda57d15889ad
 product: cline
 product_name: Cline
 record:
@@ -41,8 +41,8 @@ record:
   title: display completion messages in processStateUpdate
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-12-10-browser-layout-and-style-editor-c9ae9c|Browser layout
-  and style editor]]'
+- '[[Changes/v0/2025-12-10-added-previews-for-svg-and-md-files-to-the-new-editor|Added
+  previews for svg and md files to the new editor]]'
 - '[[Changes/Windsurf/2025-12-10-diff-zones|Diff Zones]]'
 - '[[Changes/Windsurf/2025-12-10-tab-supercomplete|Tab (Supercomplete)]]'
 source_release: '[[Releases/Cline/cline-2025-12-11-v3-41-0-github-269664920-dcb387db|cline-2025-12-11-v3-41-0-github-269664920-dcb387db]]'
@@ -80,8 +80,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2025-12-10 · Windsurf · [[Changes/Windsurf/2025-12-10-tab-supercomplete|Tab (Supercomplete)]]
-- Later: 2025-12-16 · Gemini CLI · [[Changes/Gemini CLI/2025-12-16-3-editor-experience-changes-in-v0-21-0|3 Editor Experience changes in v0.21.0]]
+- Earlier: 2025-12-10 · v0 · [[Changes/v0/2025-12-10-added-previews-for-svg-and-md-files-to-the-new-editor|Added previews for svg and md files to the new editor]]
+- Later: 2025-12-11 · Dify · [[Changes/Dify/2025-12-11-3-editor-experience-changes-in-1-11-0|3 Editor Experience changes in 1.11.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

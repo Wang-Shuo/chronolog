@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 62466dad09d2f5231837534638559ad9190b0afa148c70311189363f8c6c4d14
+machine_hash: 50f9e55e8275c7db0aa6cc9ed732933c1f450ab73f245241bf9e5293042f3ba0
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -76,12 +76,12 @@ record:
   title: 17 Safety and Privacy changes in rust-v0.131.0
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-05-13-environment-governance-and-security-controls|Environment
-  governance and security controls]]'
 - '[[Changes/Claude Code/2026-05-14-added-new-claude-agents-flags-add-dir-settings-mcp-config-plugin-dir-permission|Added
   new claude agents flags]]'
 - '[[Changes/Claude Code/2026-05-15-3-safety-and-privacy-changes-in-v2-1-143|3 Safety
   and Privacy changes in v2.1.143]]'
+- '[[Changes/v0/2026-05-15-added-docs-for-the-project-sandbox-terminal-commands-and-permission-modes|Added
+  docs for the project sandbox , terminal commands , and permission modes]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-05-18-rust-v0-131-0-github-324452638-5f16ff1d|codex-cli-2026-05-18-rust-v0-131-0-github-324452638-5f16ff1d]]'
 source_type: github_releases
 theme: safety-privacy
@@ -155,8 +155,8 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.131.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-05-15 · Claude Code · [[Changes/Claude Code/2026-05-15-3-safety-and-privacy-changes-in-v2-1-143|3 Safety and Privacy changes in v2.1.143]]
-- Later: 2026-05-19 · Claude Code · [[Changes/Claude Code/2026-05-19-fixed-a-permission-prompt-bypass-where-bare-variable-assignments-to-non-allowlis|Fixed a permission-prompt bypass where bare variable assignments to non-allowlisted…]]
+- Earlier: 2026-05-15 · v0 · [[Changes/v0/2026-05-15-added-docs-for-the-project-sandbox-terminal-commands-and-permission-modes|Added docs for the project sandbox , terminal commands , and permission modes]]
+- Later: 2026-05-18 · Lovable · [[Changes/Lovable/2026-05-18-wiz-security-scanning|Wiz security scanning]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 4ec49b3b42ce929bcae69e9cb2ed44be4bc2afc7ce73f79d5492159e591f6b49
+machine_hash: 2e1b270c0b011d1b616fa223346945b58730c9fc7c6774ac13baf2f4cde51f5e
 product: cline
 product_name: Cline
 record:
@@ -43,8 +43,7 @@ record:
   title: Add Claude Opus 4.7 model support
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-04-15-3-model-support-changes-in-rust-v0-121-0|3 Model
-  Support changes in rust-v0.121.0]]'
+- '[[Changes/Claude/2026-04-16-claude-opus-4-7-launch|Claude Opus 4.7 launch]]'
 - '[[Changes/Claude Code/2026-04-16-3-model-support-changes-in-v2-1-111|3 Model Support
   changes in v2.1.111]]'
 - '[[Changes/Claude Code/2026-04-16-auto-mode-is-now-available-for-max-subscribers-when-using-opus-4-7|Auto

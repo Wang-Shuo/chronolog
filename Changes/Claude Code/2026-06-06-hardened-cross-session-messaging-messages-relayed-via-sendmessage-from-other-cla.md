@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4adb4764863e89dd0e405a52c54ce4aaa254c9fa75e231b48b8b6bf90d693db7
+machine_hash: f748f83ca1e003eabcba58a3c851ce21cebfaa5a8e3badcbcac16bd87b227e75
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,11 +47,11 @@ record:
   title: Hardened cross-session messaging
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-04-8-safety-and-privacy-changes-in-rust-v0-137-0|8
-  Safety and Privacy changes in rust-v0.137.0]]'
 - '[[Changes/Cursor/2026-06-04-custom-tools-056918|Custom tools]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-05-2-safety-and-privacy-changes-in-v1-0-60|2
   Safety and Privacy changes in v1.0.60]]'
+- '[[Changes/Lovable/2026-06-05-toggle-whois-privacy-after-purchase|Toggle WHOIS privacy
+  after purchase]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-06-v2-1-166-github-335118845-ef990727|claude-code-2026-06-06-v2-1-166-github-335118845-ef990727]]'
 source_type: github_releases
 theme: safety-privacy
@@ -83,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-06-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-05-2-safety-and-privacy-changes-in-v1-0-60|2 Safety and Privacy changes in v1.0.60]]
+- Earlier: 2026-06-05 · Lovable · [[Changes/Lovable/2026-06-05-toggle-whois-privacy-after-purchase|Toggle WHOIS privacy after purchase]]
 - Later: 2026-06-08 · Claude Code · [[Changes/Claude Code/2026-06-08-2-safety-and-privacy-changes-in-v2-1-169|2 Safety and Privacy changes in v2.1.169]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d5c54e9be100d4ba48d123d3ce110c440b8a89e4a76144ea5bccd8958f9eb341
+machine_hash: 1bafb40954defc0760081c9e760fb64541295392a5730d7731f379af49657fdc
 product: aider
 product_name: Aider
 record:
@@ -42,11 +42,12 @@ record:
   title: 2 Interface Experience changes in v0.67.0
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2024-11-22-sidebar-redesign-e6413a|Sidebar redesign]]'
 - '[[Changes/Cursor/2024-11-24-composer-ui-in-the-sidebar-with-inline-diffs|Composer
   UI in the sidebar with inline diffs]]'
 - '[[Changes/Aider/2024-12-01-added-ctrl-up-down-keyboard-shortcuts-for-per-message-history-navigation|Added
   Ctrl-Up/Down keyboard shortcuts for per-message history navigation]]'
+- '[[Changes/Lovable/2024-12-03-2-interface-experience-changes-in-lovable-updates-2024-12-03|2
+  Interface Experience changes in Lovable updates — 2024-12-03]]'
 source_release: '[[Releases/Aider/aider-2024-12-06-v0-67-0-github-189421051-c32a4de1|aider-2024-12-06-v0-67-0-github-189421051-c32a4de1]]'
 source_type: github_releases
 theme: interface-experience
@@ -81,8 +82,8 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.67.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2024-12-01 · Aider · [[Changes/Aider/2024-12-01-added-ctrl-up-down-keyboard-shortcuts-for-per-message-history-navigation|Added Ctrl-Up/Down keyboard shortcuts for per-message history navigation]]
-- Later: 2024-12-26 · Aider · [[Changes/Aider/2024-12-26-https-aider-chat-history-html|(source link)]]
+- Earlier: 2024-12-03 · Lovable · [[Changes/Lovable/2024-12-03-2-interface-experience-changes-in-lovable-updates-2024-12-03|2 Interface Experience changes in Lovable updates — 2024-12-03]]
+- Later: 2024-12-09 · Dify · [[Changes/Dify/2024-12-09-4-interface-experience-changes-in-0-13-2|4 Interface Experience changes in 0.13.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

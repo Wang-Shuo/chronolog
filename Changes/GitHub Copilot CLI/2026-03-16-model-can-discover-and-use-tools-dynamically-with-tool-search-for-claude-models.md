@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 472acb24818704698de33377bad84354d10501ef55e177adf4e1aee66346f028
+machine_hash: 5d5f2750075e178348ec4f0cfef026752ff979a83b08b01326e75d83913277fa
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,12 +45,10 @@ record:
     models
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-03-16-we-re-rolling-out-an-update-to-gpt-5-3-instant-that-improves-follow-up-tone-and|GPT-5.3
-  Instant update]]'
-- '[[Changes/Cline/2026-03-16-added-w-b-inference-by-coreweave-as-a-new-api-provider-with-17-models|Added
-  W&B Inference by CoreWeave as a new API provider with 17 models]]'
 - '[[Changes/Codex CLI/2026-03-16-5-model-support-changes-in-rust-v0-115-0|5 Model
   Support changes in rust-v0.115.0]]'
+- '[[Changes/ElevenLabs/2026-03-16-music|Music]]'
+- '[[Changes/ElevenLabs/2026-03-16-elevencreative-studio|ElevenCreative Studio]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-03-16-v1-0-6-github-297705118-b80b4107|github-copilot-cli-2026-03-16-v1-0-6-github-297705118-b80b4107]]'
 source_type: github_releases
 theme: model-support
@@ -88,8 +86,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-03-16 · Codex CLI · [[Changes/Codex CLI/2026-03-16-5-model-support-changes-in-rust-v0-115-0|5 Model Support changes in rust-v0.115.0]]
-- Later: 2026-03-17 · ChatGPT · [[Changes/ChatGPT/2026-03-17-instant-fast-responses-for-everyday-questions|Instant – fast responses for everyday questions]]
+- Earlier: 2026-03-16 · ElevenLabs · [[Changes/ElevenLabs/2026-03-16-elevencreative-studio|ElevenCreative Studio]]
+- Later: 2026-03-16 · Lovable · [[Changes/Lovable/2026-03-16-nano-banana-2-gemini-3-1-flash-image-support|Nano Banana 2 (Gemini 3.1 Flash Image) support]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

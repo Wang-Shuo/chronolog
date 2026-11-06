@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 263cb87fbdb06cbd069d02729e04b6ea5621953bc40ac96e468f9e4fa0d25b38
+machine_hash: beb364fc8857bc217b432b4b646feefa23f37da43684a69397fe7a786ede0d17
 product: cline
 product_name: Cline
 record:
@@ -41,11 +41,10 @@ record:
   title: Update UI styling for auto-approve menu items to conserve space
   type: change
 related_changes:
-- '[[Changes/Cline/2025-05-10-add-support-for-batch-selection-and-deletion-of-tasks-in-history-thanks-danix800|Add
-  support for batch selection and deletion of tasks in history (Thanks danix800!)]]'
-- '[[Changes/Cline/2025-05-12-added-details-to-auto-approve-menu-and-more-sensible-default-controls|Added
-  details to auto approve menu and more sensible default controls]]'
 - '[[Changes/Cursor/2025-05-15-duplicate-chats|Duplicate Chats]]'
+- '[[Changes/Dify/2025-05-15-2-interface-experience-changes-in-1-4-0|2 Interface Experience
+  changes in 1.4.0]]'
+- '[[Changes/Replit/2025-05-16-full-screen-email-verification|Full-screen email verification]]'
 source_release: '[[Releases/Cline/cline-2025-05-18-v3-16-1-github-219312836-a3303a68|cline-2025-05-18-v3-16-1-github-219312836-a3303a68]]'
 source_type: github_releases
 theme: interface-experience
@@ -75,8 +74,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2025-05-15 · Cursor · [[Changes/Cursor/2025-05-15-duplicate-chats|Duplicate Chats]]
-- Later: 2025-05-21 · Cline · [[Changes/Cline/2025-05-21-add-keyboard-shortcut-cmd-to-quickly-focus-cline-from-anywhere-in-vs-code|Add keyboard shortcut (Cmd+') to quickly focus Cline from anywhere in VS Code]]
+- Earlier: 2025-05-16 · Replit · [[Changes/Replit/2025-05-16-full-screen-email-verification|Full-screen email verification]]
+- Later: 2025-05-19 · Open WebUI · [[Changes/Open WebUI/2025-05-19-customizable-pending-user-overlay-you-can-now-tailor-the-overlay-title-and-conte|🧑💼 Customizable Pending User Overlay]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

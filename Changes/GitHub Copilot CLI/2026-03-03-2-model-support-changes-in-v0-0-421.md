@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d30329d3ffd2d51d0a4a18153b5ac0eb156969490451487b262613a5d767d2f5
+machine_hash: 3184daa9b00e212b3315ebbb6a9977c4733fd1f5c86c7d2ac25b85d94c1caa97
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -88,7 +88,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v0.0.421
 ## Nearby in Model Support
 
 - Earlier: 2026-03-03 · Gemini CLI · [[Changes/Gemini CLI/2026-03-03-3-model-support-changes-in-v0-32-0|3 Model Support changes in v0.32.0]]
-- Later: 2026-03-04 · Claude Code · [[Changes/Claude Code/2026-03-04-3-model-support-changes-in-v2-1-68|3 Model Support changes in v2.1.68]]
+- Later: 2026-03-03 · v0 · [[Changes/v0/2026-03-03-added-model-selection-when-retrying-messages|Added model selection when retrying messages]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

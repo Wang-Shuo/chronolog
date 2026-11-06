@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c8981afaef0daf0b1603ab1b56e796519c1674feba24a34e3d49bb04649ab72b
+machine_hash: c109d161fd5a18c7ad8e464ac0c509b9bdfb6e8a1bb9dce9b08f636d79f16d7d
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -47,10 +47,10 @@ record:
     login`…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-21-changed-the-login-expiry-warning-to-appear-3-days-before-expiry-instead-of-5|Changed
-  the login-expiry warning to appear 3 days before expiry instead of 5]]'
-- '[[Changes/Codex CLI/2026-07-21-9-account-and-access-changes-in-rust-v0-145-0|9
-  Account and Access changes in rust-v0.145.0]]'
+- '[[Changes/Open WebUI/2026-07-27-15-account-and-access-changes-in-v0-11-0|15 Account
+  and Access changes in v0.11.0]]'
+- '[[Changes/Dify/2026-07-28-6-account-and-access-changes-in-1-16-1|6 Account and
+  Access changes in 1.16.1]]'
 - '[[Changes/Codex CLI/2026-07-29-34643-migrate-login-http-construction-to-httpclient-copyberry|♯34643
   Migrate login HTTP construction to HttpClient @copyberry]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-07-30-v1-0-77-github-362775700-9504fbee|github-copilot-cli-2026-07-30-v1-0-77-github-362775700-9504fbee]]'
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Account and Access
 
 - Earlier: 2026-07-29 · Codex CLI · [[Changes/Codex CLI/2026-07-29-34643-migrate-login-http-construction-to-httpclient-copyberry|♯34643 Migrate login HTTP construction to HttpClient @copyberry]]
-- Later: 2026-08-01 · Windsurf · [[Changes/Windsurf/2026-08-01-devin-desktop-for-windows-loads-root-and-intermediate-certificates-from-the-wind|Devin Desktop for Windows loads root and intermediate certificates from the Windows…]]
+- Later: 2026-07-31 · v0 · [[Changes/v0/2026-07-31-open-in-v0-and-git-deployment-lookups-prompt-for-saml-re-authentication-instead|Open in v0 and Git deployment lookups prompt for SAML re-authentication instead…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

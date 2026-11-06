@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a421c55ede10612839febce4f3a5b2ce803a48464b06192701dc4c291828e4d7
+machine_hash: 47c3410fe503acf680179d6718c9b2b004bb22a9abbe08fa256d51ed3eb6d7c8
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -89,7 +89,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-03-17 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-17-resolve-an-edge-case-where-auto-update-could-leave-an-incomplete-package-on-wind|Resolve an edge case where auto-update could leave an incomplete package on Windows]]
-- Later: 2026-03-26 · ChatGPT · [[Changes/ChatGPT/2026-03-26-users-can-now-choose-to-share-their-device-location-so-chatgpt-can-provide-more-7907ed|Location Sharing]]
+- Later: 2026-03-20 · Replit · [[Changes/Replit/2026-03-20-replit-pwa-on-microsoft-app-store|Replit PWA on Microsoft App Store]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 803369d4d6bae4b5183948ca3771825131cca5e41c60e8768f737c6a174f5e2b
+machine_hash: 993a5fea5638ed9812e19f3bf8dccbd1463b0c1073011cd257665cb7b681994d
 product: claude-code
 product_name: Claude Code
 record:
@@ -90,7 +90,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-09-17 · Codex CLI · [[Changes/Codex CLI/2026-09-17-2-mobile-and-desktop-changes-in-rust-v0-155-0|2 Mobile and Desktop changes in rust-v0.155.0]]
-- Later: 2026-09-21 · ChatGPT · [[Changes/ChatGPT/2026-09-21-you-can-now-track-your-credit-score-in-chatgpt-securely-connect-your-experian-cr|Credit scores in Finances]]
+- Later: 2026-09-19 · Ollama · [[Changes/Ollama/2026-09-19-ollama-s-macos-app-will-now-no-longer-reopen-windows-you-ve-closed-when-activati|Ollama's macOS app will now no longer reopen windows you've closed when activating it]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

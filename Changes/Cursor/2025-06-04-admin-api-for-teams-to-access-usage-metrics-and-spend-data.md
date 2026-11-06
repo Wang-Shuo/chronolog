@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c183e1ec94e593feea0d0b4d7e491475e1b6449c4ccb0261a22424b6c39bda01
+machine_hash: f097cddc28c9692dca3060aa16519b1d9fba6f64a82b30311376891be9079e8a
 product: cursor
 product_name: Cursor
 record:
@@ -40,11 +40,10 @@ record:
   title: Admin API for teams to access usage metrics and spend data
   type: change
 related_changes:
-- '[[Changes/Windsurf/2025-05-06-teams-conversation-sharing|Teams: Conversation Sharing]]'
-- '[[Changes/Cline/2025-05-16-add-collapsible-recent-task-list-allowing-users-to-hide-their-task-history-when|Add
-  collapsible recent task list, allowing users to hide their task history…]]'
-- '[[Changes/Cline/2025-05-22-add-support-for-global-workflows-allowing-workflows-to-be-shared-across-workspac|Add
-  support for global workflows, allowing workflows to be shared across workspaces…]]'
+- '[[Changes/ElevenLabs/2025-05-26-voices|Voices]]'
+- '[[Changes/ElevenLabs/2025-05-26-voices-341886|Voices]]'
+- '[[Changes/Open WebUI/2025-05-26-3-collaboration-changes-in-v0-6-11|3 Collaboration
+  changes in v0.6.11]]'
 source_release: '[[Releases/Cursor/cursor-2025-06-04-1-0-https-cursor-com-changelog-1-0-237767ca|cursor-2025-06-04-1-0-https-cursor-com-changelog-1-0-237767ca]]'
 source_type: cursor_changelog
 theme: collaboration
@@ -86,8 +85,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2025-05-22 · Cline · [[Changes/Cline/2025-05-22-add-support-for-global-workflows-allowing-workflows-to-be-shared-across-workspac|Add support for global workflows, allowing workflows to be shared across workspaces…]]
-- Later: 2025-06-12 · ChatGPT · [[Changes/ChatGPT/2025-06-12-sharing-chats-from-projects|Sharing chats from projects]]
+- Earlier: 2025-05-26 · Open WebUI · [[Changes/Open WebUI/2025-05-26-3-collaboration-changes-in-v0-6-11|3 Collaboration changes in v0.6.11]]
+- Later: 2025-06-06 · Replit · [[Changes/Replit/2025-06-06-teams-viewer-seat-management|Teams viewer seat management]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

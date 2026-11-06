@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 36d75ade4d32c1434a3ec10ae6e3b3c1afe156e82e465c4c391c0095022427c1
+machine_hash: fcce17eb88a6565968eac8c44da1e1f4973ab40d5445ebf3895cb1fe073dd80c
 product: aider
 product_name: Aider
 record:
@@ -51,10 +51,10 @@ record:
   title: 6 Model Support changes in v0.57.0
   type: change
 related_changes:
-- '[[Changes/Cline/2024-09-12-adds-support-for-azure-openai-and-google-gemini-free-for-up-to-15-requests-per-m|Adds
-  support for Azure OpenAI and Google Gemini (free for up to 15 requests per minute!)]]'
-- '[[Changes/Cline/2024-09-14-update-this-feature-is-now-opt-in-in-v1-8-0-use-problems-in-the-textarea-automat|Update:
-  This feature is now opt-in in v1.8.0 (use @problems in the textarea)]]'
+- '[[Changes/Open WebUI/2024-09-19-2-model-support-changes-in-v0-3-22|2 Model Support
+  changes in v0.3.22]]'
+- '[[Changes/Dify/2024-09-20-5-model-support-changes-in-0-8-3|5 Model Support changes
+  in 0.8.3]]'
 - '[[Changes/OpenHands/2024-09-20-reduced-safety-thresholds-for-gemini-by-tobitege-in-https-github-com-all-hands-a|Reduced
   safety thresholds for Gemini]]'
 source_release: '[[Releases/Aider/aider-2024-09-21-v0-57-0-github-176248363-c44e2603|aider-2024-09-21-v0-57-0-github-176248363-c44e2603]]'
@@ -101,7 +101,7 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.57.0
 ## Nearby in Model Support
 
 - Earlier: 2024-09-20 · OpenHands · [[Changes/OpenHands/2024-09-20-reduced-safety-thresholds-for-gemini-by-tobitege-in-https-github-com-all-hands-a|Reduced safety thresholds for Gemini]]
-- Later: 2024-09-26 · OpenHands · [[Changes/OpenHands/2024-09-26-display-full-model-name-in-settings-ui-3900-by-iaavas-in-https-github-com-all-ha|Display full model name in Settings UI (♯3900)]]
+- Later: 2024-09-21 · Open WebUI · [[Changes/Open WebUI/2024-09-21-task-model-unloading-issue-modified-task-handling-to-use-the-ollama-api-chat-end|🌐 Task Model Unloading Issue]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

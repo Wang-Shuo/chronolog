@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6da29ae6365792ff6499397bfd8728bacff394e0347eee106555327df8b38526
+machine_hash: 83c7b81cf036f32a8651d7ecf750ad76cd655016d6d3af7a2173ed2581b51f9b
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -59,10 +59,10 @@ record:
   title: 9 Account and Access changes in rust-v0.145.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-16-server-mode-reconnects-oauth-mcp-servers-from-cached-tokens|Server
-  mode reconnects OAuth MCP servers from cached tokens]]'
-- '[[Changes/Claude Code/2026-07-17-updated-the-auth-status-panel-title-from-cloud-authentication-to-authentication|Updated
-  the auth status panel title from "Cloud authentication" to "Authentication"]]'
+- '[[Changes/Dify/2026-07-17-8-account-and-access-changes-in-1-16-0|8 Account and
+  Access changes in 1.16.0]]'
+- '[[Changes/Replit/2026-07-17-agent-suggests-connectors-when-several-fit|Agent suggests
+  connectors when several fit]]'
 - '[[Changes/Claude Code/2026-07-21-changed-the-login-expiry-warning-to-appear-3-days-before-expiry-instead-of-5|Changed
   the login-expiry warning to appear 3 days before expiry instead of 5]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-07-21-rust-v0-145-0-github-357545274-7be4454f|codex-cli-2026-07-21-rust-v0-145-0-github-357545274-7be4454f]]'
@@ -129,7 +129,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.145.0
 ## Nearby in Account and Access
 
 - Earlier: 2026-07-21 · Claude Code · [[Changes/Claude Code/2026-07-21-changed-the-login-expiry-warning-to-appear-3-days-before-expiry-instead-of-5|Changed the login-expiry warning to appear 3 days before expiry instead of 5]]
-- Later: 2026-07-29 · Codex CLI · [[Changes/Codex CLI/2026-07-29-34643-migrate-login-http-construction-to-httpclient-copyberry|♯34643 Migrate login HTTP construction to HttpClient @copyberry]]
+- Later: 2026-07-21 · v0 · [[Changes/v0/2026-07-21-2-account-and-access-changes-in-slash-commands-the-shopify|2 Account and Access changes in Slash commands, the Shopify…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

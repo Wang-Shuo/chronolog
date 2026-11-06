@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1ba9052ad94e1accfda8c7ece1bba0158b3314c784273eade3f2814890bbc774
+machine_hash: f62affb9a068b7d3ef0bcbd600f2aa3b4905db90d9daa5595baafcf6eb37dd3b
 product: cline
 product_name: Cline
 record:
@@ -41,10 +41,10 @@ record:
   title: move browser settings menu to tailwind
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-08-06-2-interface-experience-changes-in-v0-1-18|2 Interface
-  Experience changes in v0.1.18]]'
-- '[[Changes/Aider/2025-08-09-clear-now-prints-all-chat-history-cleared-so-you-know-it-worked-by-zexin-yuan|/clear
-  now prints “All chat history cleared.” so you know it worked, by Zexin Yuan]]'
+- '[[Changes/Dify/2025-08-11-4-interface-experience-changes-in-1-7-2|4 Interface Experience
+  changes in 1.7.2]]'
+- '[[Changes/Open WebUI/2025-08-11-general-ui-ux-enhancements-implemented-various-user-interface-and-experience-imp|✨
+  General UI/UX Enhancements]]'
 - '[[Changes/Gemini CLI/2025-08-12-5356-minor-fix-remove-duplicate-binding-and-add-complete-navigation-command-by-l|♯5356
   Minor fix: Remove duplicate binding and add complete navigation command]]'
 source_release: '[[Releases/Cline/cline-2025-08-13-v3-24-0-github-239802341-38ee512f|cline-2025-08-13-v3-24-0-github-239802341-38ee512f]]'
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2025-08-12 · Gemini CLI · [[Changes/Gemini CLI/2025-08-12-5356-minor-fix-remove-duplicate-binding-and-add-complete-navigation-command-by-l|♯5356 Minor fix: Remove duplicate binding and add complete navigation command]]
-- Later: 2025-08-14 · Gemini CLI · [[Changes/Gemini CLI/2025-08-14-3-interface-experience-changes-in-v0-1-21|3 Interface Experience changes in v0.1.21]]
+- Later: 2025-08-13 · Gemini · [[Changes/Gemini/2025-08-13-introducing-temporary-chat|Introducing Temporary Chat]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

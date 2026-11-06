@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f5f8eae705dfbf092f600bd9b884eb7b4e4979883cbf54a939197789f4077e47
+machine_hash: 378388bf588955ed3ce613fdb022637dae865d3ba5abbf7aaa41149c5624270e
 product: cursor
 product_name: Cursor
 record:
@@ -43,8 +43,7 @@ record:
   title: 2 Apps and Integrations changes in Origin App Marketplace
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-10-09-managed-plugin-setup-retries-hourly-or-after-policy-changes-instead-of-on-every|Managed
-  plugin setup retries hourly or after policy changes instead of on every…]]'
+- '[[Changes/Lovable/2026-10-12-connect-your-app-to-loops|Connect your app to Loops]]'
 - '[[Changes/OpenHands/2026-10-12-3-apps-and-integrations-changes-in-v1-27-0|3 Apps
   and Integrations changes in v1.27.0]]'
 - '[[Changes/Cline/2026-10-13-an-mcp-server-or-hook-that-exits-before-reading-all-of-its-input-no-longer-crash|An
@@ -84,7 +83,7 @@ Source: https://cursor.com/changelog/origin-app-marketplace
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-10-13 · Cline · [[Changes/Cline/2026-10-13-an-mcp-server-or-hook-that-exits-before-reading-all-of-its-input-no-longer-crash|An MCP server or hook that exits before reading all of its input no longer crashes…]]
-- Later: 2026-10-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-13-4-apps-and-integrations-changes-in-v1-0-97|4 Apps and Integrations changes in v1.0.97]]
+- Later: 2026-10-13 · Gemini · [[Changes/Gemini/2026-10-13-an-easier-way-to-customize-how-gemini-works-for-you-and-more-connected-apps|An easier way to customize how Gemini works for you and more connected apps]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

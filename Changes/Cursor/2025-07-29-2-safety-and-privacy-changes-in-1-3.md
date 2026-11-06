@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ddf2f38ce87bbcebc1af8e37b57d4602a799e9bc781f7b71904e9a9b53a2af54
+machine_hash: 1c2535ef8201c0966b5af77ecd84a0b9ddd05439c36958a353d0016bf930fe21
 product: cursor
 product_name: Cursor
 record:
@@ -43,10 +43,10 @@ record:
   title: 2 Safety and Privacy changes in 1.3
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-07-11-update-terms-of-service-and-privacy-notice-for-clarity-by-jkcinouye-in-https-git|Update
-  Terms of Service and Privacy Notice for clarity]]'
-- '[[Changes/Gemini CLI/2025-07-19-migrate-privacy-to-new-architecture-by-abhipatel12-in-https-github-com-google-ge|Migrate
-  /privacy to new architecture]]'
+- '[[Changes/Open WebUI/2025-07-19-2-safety-and-privacy-changes-in-v0-6-17|2 Safety
+  and Privacy changes in v0.6.17]]'
+- '[[Changes/Dify/2025-07-23-2-safety-and-privacy-changes-in-1-7-0|2 Safety and Privacy
+  changes in 1.7.0]]'
 - '[[Changes/Gemini CLI/2025-07-25-migrate-privacy-to-new-architecture-by-abhipatel12-in-https-github-com-google-ge|Migrate
   /privacy to new architecture]]'
 source_release: '[[Releases/Cursor/cursor-2025-07-29-1-3-https-cursor-com-changelog-1-3-d153efc3|cursor-2025-07-29-1-3-https-cursor-com-changelog-1-3-d153efc3]]'

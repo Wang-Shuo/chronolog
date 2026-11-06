@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: fa34d70bbe23c007e71ef0e76e29cb4d077d46cfaac1933f68cd52766c720583
+machine_hash: 4dce5deccc28ff177aca3881b59e246c4079ded0e4111dec2b5634088d03753e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -77,9 +77,9 @@ record:
   title: Introducing GPT-4o mini
   type: change
 related_changes:
-- '[[Changes/Aider/2024-07-07-2-model-support-changes-in-v0-43-0|2 Model Support changes
-  in v0.43.0]]'
 - '[[Changes/Aider/2024-07-16-simplified-output-of-models|Simplified output of --models]]'
+- '[[Changes/Open WebUI/2024-07-17-2-model-support-changes-in-v0-3-9|2 Model Support
+  changes in v0.3.9]]'
 - '[[Changes/Aider/2024-07-18-gpt-4o-mini-scores-like-the-original-gpt-3-5-on-aider-s-code-editing-benchmark-u|GPT
   4o mini scores like the original GPT 3.5 on aider''s code editing benchmark…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2024-07-18-introducing-gpt-4o-mini-e0bf3077|chatgpt-2024-07-18-introducing-gpt-4o-mini-e0bf3077]]'
@@ -109,7 +109,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2024-07-18 · Aider · [[Changes/Aider/2024-07-18-gpt-4o-mini-scores-like-the-original-gpt-3-5-on-aider-s-code-editing-benchmark-u|GPT 4o mini scores like the original GPT 3.5 on aider's code editing benchmark…]]
-- Later: 2024-07-19 · OpenHands · [[Changes/OpenHands/2024-07-19-4-model-support-changes-in-0-8-1|4 Model Support changes in 0.8.1]]
+- Later: 2024-07-18 · Ollama · [[Changes/Ollama/2024-07-18-mathstral-https-ollama-com-library-mathstral-math-tral-is-a-7b-model-designed-fo|Mathstral((source link) MathΣtral is a 7B model designed…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

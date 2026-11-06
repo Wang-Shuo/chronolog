@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2cfb4f737105aa203314b4cd8b1e94e652befdb0781dc9e48317f60a9b2d74e9
+machine_hash: 70d06d8fbd3d1a058cca50a6df0417a03d7abbcb523e8eb195ed60fd751e5884
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
   title: 2 Interface Experience changes in v2.1.73
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-09-show-loading-spinner-in-diff-mode-while-fetching-changes|Show
-  loading spinner in diff mode while fetching changes]]'
 - '[[Changes/Claude Code/2026-03-10-added-w-key-in-copy-to-write-the-focused-selection-directly-to-a-file-bypassing|Added
   w key in /copy to write the focused selection directly to a file…]]'
 - '[[Changes/Codex CLI/2026-03-10-4-interface-experience-changes-in-rust-v0-113-0|4
   Interface Experience changes in rust-v0.113.0]]'
+- '[[Changes/v0/2026-03-10-added-tooltip-to-disabled-new-chat-button|Added tooltip
+  to disabled New Chat button]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-11-v2-1-73-github-295814700-0abb054f|claude-code-2026-03-11-v2-1-73-github-295814700-0abb054f]]'
 source_type: github_releases
 theme: interface-experience
@@ -89,7 +89,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.73
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-03-10 · Codex CLI · [[Changes/Codex CLI/2026-03-10-4-interface-experience-changes-in-rust-v0-113-0|4 Interface Experience changes in rust-v0.113.0]]
+- Earlier: 2026-03-10 · v0 · [[Changes/v0/2026-03-10-added-tooltip-to-disabled-new-chat-button|Added tooltip to disabled New Chat button]]
 - Later: 2026-03-11 · Gemini CLI · [[Changes/Gemini CLI/2026-03-11-feat-admin-enable-30-day-default-retention-for-chat-history-remove-warning-by-sk|feat(admin): enable 30 day default retention for chat history & remove warning]]
 <!-- chronolog:end -->
 

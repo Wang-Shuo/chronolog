@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0b21babf1567a62f78d6d7ec31a025c5041e65f9614223ee550612fb8b730d9e
+machine_hash: 5ddb63634c91253cc1be8cea4b959a77f8a22137c6535835a8b41b804ef1b826
 product: cursor
 product_name: Cursor
 record:
@@ -43,10 +43,10 @@ record:
     faster
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-10-improved-brief-mode-to-retry-once-when-claude-responds-with-plain-text-instead-o|Improved
-  brief mode to retry once when Claude responds with plain text instead…]]'
 - '[[Changes/Codex CLI/2026-04-10-2-reliability-and-performance-changes-in-rust-v0-119-0|2
   Reliability and Performance changes in rust-v0.119.0]]'
+- '[[Changes/Replit/2026-04-10-choose-where-your-app-runs-with-publishing-geography|Choose
+  where your app runs with publishing geography]]'
 - '[[Changes/Claude Code/2026-04-13-improved-stalled-api-stream-handling-streams-now-abort-after-5-minutes-of-no-dat|Improved
   stalled API stream handling]]'
 source_release: '[[Releases/Cursor/cursor-2026-04-13-3-1-https-cursor-com-changelog-3-1-27a51313|cursor-2026-04-13-3-1-https-cursor-com-changelog-3-1-27a51313]]'

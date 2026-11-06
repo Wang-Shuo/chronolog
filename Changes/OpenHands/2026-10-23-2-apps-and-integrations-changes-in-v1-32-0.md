@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 24104e1f2a5692c8a67d482870d5f2c0ffdc6ff2c5d432974dc57ae3f6be3f62
+machine_hash: 2448f1bbdb04ea5a8011ca406a2c62966a9f86a5048235451211cfc1a7f399db
 product: openhands
 product_name: OpenHands
 record:
@@ -44,12 +44,12 @@ record:
   title: 2 Apps and Integrations changes in v1.32.0
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-10-22-chore-bump-openhands-extensions-to-0-33-0-by-neubig-in-https-github-com-openhand|chore:
-  bump @openhands/extensions to 0.33.0]]'
 - '[[Changes/Claude Code/2026-10-23-2-apps-and-integrations-changes-in-v2-1-310|2
   Apps and Integrations changes in v2.1.310]]'
 - '[[Changes/Codex CLI/2026-10-23-30-apps-and-integrations-changes-in-rust-v0-164-0|30
   Apps and Integrations changes in rust-v0.164.0]]'
+- '[[Changes/Dify/2026-10-23-14-apps-and-integrations-changes-in-1-18-0|14 Apps and
+  Integrations changes in 1.18.0]]'
 source_release: '[[Releases/OpenHands/openhands-2026-10-23-v1-32-0-github-421408191-d358ba87|openhands-2026-10-23-v1-32-0-github-421408191-d358ba87]]'
 source_type: github_releases
 theme: apps-integrations
@@ -85,8 +85,8 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/v1.32.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-10-23 · Codex CLI · [[Changes/Codex CLI/2026-10-23-30-apps-and-integrations-changes-in-rust-v0-164-0|30 Apps and Integrations changes in rust-v0.164.0]]
-- Later: 2026-10-23 · Windsurf · [[Changes/Windsurf/2026-10-23-5-apps-and-integrations-changes-in-v3-11-212|5 Apps and Integrations changes in v3.11.212]]
+- Earlier: 2026-10-23 · Dify · [[Changes/Dify/2026-10-23-14-apps-and-integrations-changes-in-1-18-0|14 Apps and Integrations changes in 1.18.0]]
+- Later: 2026-10-23 · Replit · [[Changes/Replit/2026-10-23-keep-your-apps-running-when-credits-run-out|Keep your apps running when credits run out]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

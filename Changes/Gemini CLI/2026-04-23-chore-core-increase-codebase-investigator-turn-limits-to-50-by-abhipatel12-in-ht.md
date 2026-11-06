@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 55e8c65414e9f9ef787197381396103fced63dfe0ca1334a32f314576c7abdfd
+machine_hash: 07efafc8de14cdd8294b6de863d4dc4b7731073ec0891f47af823912bb3179dd
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -44,8 +44,8 @@ record:
   title: 'chore(core): increase codebase investigator turn limits to 50'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-20-2-editor-experience-changes-in-v2-1-116|2 Editor
-  Experience changes in v2.1.116]]'
+- '[[Changes/Open WebUI/2026-04-21-5-editor-experience-changes-in-v0-9-0|5 Editor
+  Experience changes in v0.9.0]]'
 - '[[Changes/Claude Code/2026-04-23-config-settings-theme-editor-mode-verbose-etc-now-persist-to-claude-settings-jso|/config
   settings (theme, editor mode, verbose, etc.) now persist…]]'
 - '[[Changes/Claude Code/2026-04-23-merged-cost-and-stats-into-usage-both-remain-as-typing-shortcuts-that-open-the-r|Merged

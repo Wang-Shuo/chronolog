@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 540777637858900b36f0c8a018dcc274d54c1c14a180e0dfec49fb7fd28c9f08
+machine_hash: 06372d58630938b264dce2294c22354c9cb2ea14aae2cf2cb7c6401eea25538b
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -124,7 +124,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.99.0
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-02-10 · Gemini CLI · [[Changes/Gemini CLI/2026-02-10-3-safety-and-privacy-changes-in-v0-28-0|3 Safety and Privacy changes in v0.28.0]]
-- Later: 2026-02-12 · Codex CLI · [[Changes/Codex CLI/2026-02-12-5-safety-and-privacy-changes-in-rust-v0-100-0|5 Safety and Privacy changes in rust-v0.100.0]]
+- Later: 2026-02-11 · Dify · [[Changes/Dify/2026-02-11-2-safety-and-privacy-changes-in-1-13-0|2 Safety and Privacy changes in 1.13.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

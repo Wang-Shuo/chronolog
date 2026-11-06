@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 55fb6bd3163567d6d97e04babd2d6d6f666130e0b10aab7ca4c2ccb1c2641a79
+machine_hash: bb00e21b1457be5a3af6deb78ef7c0b060dc0e8a3b774926cc7b6fa0efa36361
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -65,10 +65,10 @@ record:
   title: 13 Safety and Privacy changes in rust-v0.143.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-07-added-a-grey-badge-to-the-footer-when-in-manual-permission-mode-making-the-activ|Added
-  a grey ⏸ badge to the footer when in manual permission mode, making the active…]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-07-8-safety-and-privacy-changes-in-v1-0-69|8
   Safety and Privacy changes in v1.0.69]]'
+- '[[Changes/v0/2026-07-07-5-safety-and-privacy-changes-in-grouped-tool-approvals-richer-mcp|5
+  Safety and Privacy changes in Grouped tool approvals, richer MCP…]]'
 - '[[Changes/Claude Code/2026-07-08-background-task-notifications-now-explicitly-state-that-no-human-input-has-occur|Background
   task notifications now explicitly state that no human input has occurred…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-07-08-rust-v0-143-0-github-350650561-9eba805c|codex-cli-2026-07-08-rust-v0-143-0-github-350650561-9eba805c]]'

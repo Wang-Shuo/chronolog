@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ac3cce88f841bd34c9cbf9e93e9a477d485bdca1a0d518145b560a5078febc51
+machine_hash: b4cd753f763eee7c358b0c46029705dd9bf1780e64e191d065a91e79fd5c4fb3
 product: cursor
 product_name: Cursor
 record:
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2024-01-06 · Cursor · [[Changes/Cursor/2024-01-06-wsl-and-dev-containers-should-now-work-properly|Better Remote Support]]
-- Later: 2024-01-15 · Cursor · [[Changes/Cursor/2024-01-15-working-wsl-codebase-search|Working WSL codebase search]]
+- Later: 2024-01-11 · Dify · [[Changes/Dify/2024-01-11-improvement-introduce-super-linter-actions-to-check-style-for-shell-script-docke|improvement: introduce Super-Linter actions to check style for shell script…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

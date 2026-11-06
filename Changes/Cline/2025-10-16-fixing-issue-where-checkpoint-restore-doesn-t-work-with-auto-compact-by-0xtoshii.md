@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: fd3f4f77d6a957b5993267b7e1a45f05baba5d9d755b78205e53391ebbc49cf9
+machine_hash: 4dba799d943f64b030e6c21a11822a6c14c938060753f952b1af1bacb7b9f292
 product: cline
 product_name: Cline
 record:
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2025-10-09 · Codex CLI · [[Changes/Codex CLI/2025-10-09-make-context-line-permanent-by-dedrisian-oai-in-https-github-com-openai-codex-pu|Make context line permanent]]
-- Later: 2025-10-16 · Windsurf · [[Changes/Windsurf/2025-10-16-fast-context-introduced-fast-context-subagent-powered-by-swe-grep-enabling-agent|Fast Context: Introduced Fast Context subagent powered by SWE-grep, enabling…]]
+- Later: 2025-10-16 · Open WebUI · [[Changes/Open WebUI/2025-10-16-focused-retrieval-mode-now-works-correctly-preventing-the-system-from-forcing-fu|📚 Focused retrieval mode now works correctly, preventing the system from forcing…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

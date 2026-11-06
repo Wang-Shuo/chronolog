@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: f8b7fcfd69b027ebeb580e3a111bc2416fdc8b80a82abad15016128ead2febc3
+machine_hash: 81e6c68e8b89d04ec611bd4f9c0a362d2dd58bd757afdd133cf26437f8d8fa98
 product: cursor
 product_name: Cursor
 record:
@@ -52,10 +52,10 @@ record:
   title: Cloud agents on mobile
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-26-improved-claude-agents-completed-list-to-fill-available-vertical-space-on-short|Improved
-  claude agents completed list to fill available vertical space]]'
 - '[[Changes/Cline/2026-06-26-temporarily-disable-subagents-in-the-vs-code-extension-while-the-sdk-backed-expe|Temporarily
   disable subagents in the VS Code extension while the SDK-backed…]]'
+- '[[Changes/v0/2026-06-26-2-agent-mode-changes-in-platform-api-v2-mcp-chat-tools|2
+  Agent Mode changes in Platform API v2, MCP chat tools…]]'
 - '[[Changes/Claude Code/2026-06-29-2-agent-mode-changes-in-v2-1-196|2 Agent Mode
   changes in v2.1.196]]'
 source_release: '[[Releases/Cursor/cursor-2026-06-29-3-9-https-cursor-com-changelog-ios-mobile-app-d7278607|cursor-2026-06-29-3-9-https-cursor-com-changelog-ios-mobile-app-d7278607]]'
@@ -91,7 +91,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-06-29 · Claude Code · [[Changes/Claude Code/2026-06-29-2-agent-mode-changes-in-v2-1-196|2 Agent Mode changes in v2.1.196]]
-- Later: 2026-06-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-30-2-agent-mode-changes-in-v1-0-67|2 Agent Mode changes in v1.0.67]]
+- Later: 2026-06-29 · ElevenLabs · [[Changes/ElevenLabs/2026-06-29-elevenagents|ElevenAgents]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

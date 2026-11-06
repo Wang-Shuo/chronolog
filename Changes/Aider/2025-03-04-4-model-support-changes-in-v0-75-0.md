@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: fbad2dd00951b2fe732c313b1fa6ef71e087ea4576d555723ac62248b006c5b5
+machine_hash: 640ed23463d325149d83f154daf24ef7a0bf71e05fa4461a95849ef0e38765a2
 product: aider
 product_name: Aider
 record:
@@ -47,8 +47,7 @@ record:
   title: 4 Model Support changes in v0.75.0
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-02-27-allow-selecting-the-claude-3-7-model-from-via-the-anthropic-provider-by-amanape|Allow
-  selecting the Claude 3.7 model from via the Anthropic provider]]'
+- '[[Changes/Replit/2025-02-28-better-documentation|Better documentation]]'
 - '[[Changes/Cline/2025-03-01-add-enable-extended-thinking-option-for-claude-3-7-sonnet-with-ability-to-set-di|Add
   ''Enable extended thinking'' option for Claude 3.7 Sonnet, with ability to set…]]'
 - '[[Changes/Cline/2025-03-03-add-gemini-flash-models-to-vertex-provider-thanks-jpaodev|Add
@@ -91,7 +90,7 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.75.0
 ## Nearby in Model Support
 
 - Earlier: 2025-03-03 · Cline · [[Changes/Cline/2025-03-03-add-gemini-flash-models-to-vertex-provider-thanks-jpaodev|Add Gemini Flash models to Vertex provider (thanks @jpaodev!)]]
-- Later: 2025-03-06 · Cline · [[Changes/Cline/2025-03-06-add-new-gemini-models-to-gcp-vertex-thanks-shohei-ihaya-and-claude-models-asksag|Add new Gemini models to GCP Vertex (thanks @shohei-ihaya!) and Claude models…]]
+- Later: 2025-03-05 · Open WebUI · [[Changes/Open WebUI/2025-03-05-2-model-support-changes-in-v0-5-19|2 Model Support changes in v0.5.19]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

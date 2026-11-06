@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5d47669c8b1c0179796a1af1a5c0dbdc12472d7f747aabd0895193581fd64100
+machine_hash: 28642068adb41b3fd54d63d748f461746f8f242c2bf734e79a7107177f4885e7
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,12 +45,12 @@ record:
   title: 2 Model Support changes in v1.0.96
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-10-08-add-claude-haiku-5-5-to-model-selection-and-model-completions|Add
-  Claude Haiku 5.5 to model selection and --model completions]]'
 - '[[Changes/OpenHands/2026-10-08-test-e2e-launch-the-same-model-profile-test-from-the-beta-profile-by-enyst-in-ht|test(e2e):
   launch the same-model profile test from the BETA profile]]'
 - '[[Changes/Claude Code/2026-10-09-claude-tag-changed-claude-in-slack-to-show-the-footer-with-the-session-link-mode|Claude
   Tag Changed Claude in Slack to show the footer with the session link, model…]]'
+- '[[Changes/Open WebUI/2026-10-10-49-model-support-changes-in-v0-12-0|49 Model Support
+  changes in v0.12.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-10-12-v1-0-96-github-410909545-b0f77f14|github-copilot-cli-2026-10-12-v1-0-96-github-410909545-b0f77f14]]'
 source_type: github_releases
 theme: model-support
@@ -86,8 +86,8 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.96
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-10-09 · Claude Code · [[Changes/Claude Code/2026-10-09-claude-tag-changed-claude-in-slack-to-show-the-footer-with-the-session-link-mode|Claude Tag Changed Claude in Slack to show the footer with the session link, model…]]
-- Later: 2026-10-12 · OpenHands · [[Changes/OpenHands/2026-10-12-3-model-support-changes-in-v1-27-0|3 Model Support changes in v1.27.0]]
+- Earlier: 2026-10-10 · Open WebUI · [[Changes/Open WebUI/2026-10-10-49-model-support-changes-in-v0-12-0|49 Model Support changes in v0.12.0]]
+- Later: 2026-10-12 · Ollama · [[Changes/Ollama/2026-10-12-3-model-support-changes-in-v0-40-4|3 Model Support changes in v0.40.4]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

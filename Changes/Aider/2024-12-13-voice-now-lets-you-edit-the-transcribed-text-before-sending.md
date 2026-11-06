@@ -4,20 +4,20 @@ date: '2024-12-13'
 description: 'Aider · 2024-12-13 · Voice and Audio: `/voice` now lets you edit the
   transcribed text before sending.'
 diffusion:
-  first_in_tracked: '[[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source
-    link) support, which allows you…]]'
+  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
+    Voice and Audio changes in 0.3.7]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 490
+  lag_days: 522
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e4c0dbf8648c93c71021d38644aa0c630faf656472f6d133bd895518f16b4cf4
+machine_hash: 51cb9dde4066ff24e3525cf68d9c2b0c6214b725a6a815b7fb96eb1d6ceaab04
 product: aider
 product_name: Aider
 record:
@@ -79,13 +79,13 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2024-12-12 · ChatGPT · [[Changes/ChatGPT/2024-12-12-today-we-started-rolling-out-two-updates-to-voice-mode-in-chatgpt-8ade79|Today we started rolling out two updates to voice mode in ChatGPT]]
-- Later: 2025-01-10 · Aider · [[Changes/Aider/2025-01-10-2-voice-and-audio-changes-in-v0-71-0|2 Voice and Audio changes in v0.71.0]]
+- Later: 2024-12-16 · Dify · [[Changes/Dify/2024-12-16-now-video-audio-and-pdf-file-previews-are-accessible-right-within-the-chat-simpl|Now, video, audio, and PDF file previews are accessible right within the chat…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-08-11 · Aider · [[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source link) support, which allows you…]]
+- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

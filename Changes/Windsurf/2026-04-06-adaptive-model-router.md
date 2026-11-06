@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 08536c2d7de93be0c5d6bce7797779304c207e8912de891caea73880ccc35088
+machine_hash: 992d03d3901bbc5d48dde392ebe85657e1ad4bb8bd6827e8e755bad84882e97c
 product: windsurf
 product_name: Windsurf
 record:
@@ -54,10 +54,10 @@ record:
   title: Adaptive Model Router
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-04-01-7-model-support-changes-in-v0-36-0|7 Model Support
-  changes in v0.36.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-01-remove-support-for-gpt-5-1-codex-gpt-5-1-codex-mini-and-gpt-5-1-codex-max-models|Remove
   support for gpt-5.1-codex, gpt-5.1-codex-mini, and gpt-5.1-codex-max models]]'
+- '[[Changes/Ollama/2026-04-02-26b-mixture-of-experts-model-with-4b-active-parameters|26B
+  (Mixture of Experts model with 4B active parameters)]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-04-new-critic-agent-automatically-reviews-plans-and-complex-implementations-using-a|New
   Critic agent automatically reviews plans and complex implementations using…]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-04-06-v1-9600-38-86c634e8|windsurf-2026-04-06-v1-9600-38-86c634e8]]'
@@ -94,7 +94,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-04-04 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-04-new-critic-agent-automatically-reviews-plans-and-complex-implementations-using-a|New Critic agent automatically reviews plans and complex implementations using…]]
-- Later: 2026-04-07 · Windsurf · [[Changes/Windsurf/2026-04-07-adaptive-model-visibility|Adaptive Model Visibility]]
+- Later: 2026-04-07 · Ollama · [[Changes/Ollama/2026-04-07-added-latest-models-to-ollama-app|Added latest models to Ollama App]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

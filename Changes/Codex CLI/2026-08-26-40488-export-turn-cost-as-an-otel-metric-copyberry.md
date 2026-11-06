@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: d9e4dcb86eeaba677fca0c189f62006bd6582f729f43e62343ba5c99c91b9e44
+machine_hash: e5b5d88fe935eabf65f6abdb41a42a1704e640ff240b1c0900ada1a0ff4b4494
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,10 +42,10 @@ record:
   title: '#40488 Export turn cost as an OTEL metric @copyberry'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-21-persistent-retry-mode-claude-code-retry-watchdog-now-fails-immediately-on-organi|Persistent
-  retry mode (CLAUDE_CODE_RETRY_WATCHDOG) now fails immediately…]]'
-- '[[Changes/Cline/2026-08-21-show-the-billed-cost-for-cline-gateway-usage|Show the
-  billed cost for Cline gateway usage]]'
+- '[[Changes/Dify/2026-08-25-7-pricing-model-changes-in-1-17-0|7 Pricing Model changes
+  in 1.17.0]]'
+- '[[Changes/Open WebUI/2026-08-25-2-pricing-model-changes-in-v0-11-1|2 Pricing Model
+  changes in v0.11.1]]'
 - '[[Changes/Cline/2026-08-26-cost-estimates-are-no-longer-shown-for-providers-billed-by-a-flat-rate-subscript|Cost
   estimates are no longer shown for providers billed by a flat-rate subscription…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-08-26-rust-v0-150-0-github-377374683-d950f84c|codex-cli-2026-08-26-rust-v0-150-0-github-377374683-d950f84c]]'
@@ -90,7 +90,7 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2026-08-26 · Cline · [[Changes/Cline/2026-08-26-cost-estimates-are-no-longer-shown-for-providers-billed-by-a-flat-rate-subscript|Cost estimates are no longer shown for providers billed by a flat-rate subscription…]]
-- Later: 2026-08-27 · Claude Code · [[Changes/Claude Code/2026-08-27-added-usage-credits-for-enterprise-organizations-billed-through-aws-marketplace|Added /usage-credits for Enterprise organizations billed through AWS Marketplace…]]
+- Later: 2026-08-26 · Lovable · [[Changes/Lovable/2026-08-26-lovable-works-up-to-10-hours-on-a-single-message|Lovable works up to 10 hours on a single message]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

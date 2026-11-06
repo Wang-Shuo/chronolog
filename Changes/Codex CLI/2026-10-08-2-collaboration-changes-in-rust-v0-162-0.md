@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9cce7e7f1b83872cfe3a38cd6464336572b4c7fc40102a15bccdc434d5275912
+machine_hash: 59fd0990d692497f9d6f43d3b999004da621b0e3bf4997717bed908f26bacff3
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,10 +43,10 @@ record:
   title: 2 Collaboration changes in rust-v0.162.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-29-2-collaboration-changes-in-rust-v0-159-0|2 Collaboration
-  changes in rust-v0.159.0]]'
-- '[[Changes/Codex CLI/2026-10-01-49130-move-content-filter-guidance-into-the-shared-responses-retry-handler-won-o|♯49130
-  Move content-filter guidance into the shared Responses retry handler @won-openai]]'
+- '[[Changes/v0/2026-10-06-personal-v0-accounts-are-now-team-workspaces-giving-everyone-access-to-v0-s-coll|Personal
+  accounts are now team workspaces]]'
+- '[[Changes/Claude/2026-10-07-monthly-api-credits-for-max-and-team-plans|Monthly
+  API credits for Max and Team plans]]'
 - '[[Changes/Codex CLI/2026-10-07-2-collaboration-changes-in-rust-v0-161-0|2 Collaboration
   changes in rust-v0.161.0]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-10-08-rust-v0-162-0-github-407151970-b80d60db|codex-cli-2026-10-08-rust-v0-162-0-github-407151970-b80d60db]]'
@@ -95,7 +95,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.162.0
 ## Nearby in Collaboration
 
 - Earlier: 2026-10-07 · Codex CLI · [[Changes/Codex CLI/2026-10-07-2-collaboration-changes-in-rust-v0-161-0|2 Collaboration changes in rust-v0.161.0]]
-- Later: 2026-10-14 · Claude Code · [[Changes/Claude Code/2026-10-14-changed-local-session-transcripts-to-also-record-each-api-request-s-system-promp|Changed local session transcripts to also record each API request's system prompt…]]
+- Later: 2026-10-10 · Open WebUI · [[Changes/Open WebUI/2026-10-10-13-collaboration-changes-in-v0-12-0|13 Collaboration changes in v0.12.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

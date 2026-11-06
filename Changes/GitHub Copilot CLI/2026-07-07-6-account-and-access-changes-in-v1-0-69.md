@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 95fa908bbc63b2ab03a2749bd172e412a83442dcb1a08e14fe500ed8f4c1f01f
+machine_hash: 548ac57d79d933646b902dce030de6c70957c24573dbf6f0f6b7e8ba8cbfd8a4
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -50,8 +50,8 @@ record:
   title: 6 Account and Access changes in v1.0.69
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-07-06-chatgpt-for-powerpoint-is-now-generally-available-globally-from-a-sidebar-in-mic|ChatGPT
-  for PowerPoint is now generally available]]'
+- '[[Changes/Lovable/2026-07-06-recover-access-when-an-sso-provider-is-removed|Recover
+  access when an SSO provider is removed]]'
 - '[[Changes/OpenHands/2026-07-06-3-account-and-access-changes-in-1-9-0|3 Account
   and Access changes in 1.9.0]]'
 - '[[Changes/Claude Code/2026-07-07-added-a-warning-when-your-login-is-about-to-expire-so-you-can-re-authenticate-be|Added
@@ -109,7 +109,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.69
 ## Nearby in Account and Access
 
 - Earlier: 2026-07-07 · Claude Code · [[Changes/Claude Code/2026-07-07-added-a-warning-when-your-login-is-about-to-expire-so-you-can-re-authenticate-be|Added a warning when your login is about to expire, so you can re-authenticate…]]
-- Later: 2026-07-08 · Codex CLI · [[Changes/Codex CLI/2026-07-08-5-account-and-access-changes-in-rust-v0-143-0|5 Account and Access changes in rust-v0.143.0]]
+- Later: 2026-07-07 · Lovable · [[Changes/Lovable/2026-07-07-sign-in-with-sso-using-your-company-domain-or-provider-id|Sign in with SSO using your company domain or provider ID]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

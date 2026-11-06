@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a95c962e31b0ccb76666a04b6dc3a228a897fcf5e8e5ac96600b9b3cab7f84c5
+machine_hash: 8fe2be2e783f1fd22df1df30034db069b74db1032f9113746e342f99ff02e484
 product: cline
 product_name: Cline
 record:
@@ -42,12 +42,11 @@ record:
   title: Update local models docs & remove emojis from Docs
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-10-03-6-model-support-changes-in-rust-v0-44-0|6 Model
-  Support changes in rust-v0.44.0]]'
-- '[[Changes/Codex CLI/2025-10-06-2-model-support-changes-in-rust-v0-45-0|2 Model
-  Support changes in rust-v0.45.0]]'
+- '[[Changes/ElevenLabs/2025-10-07-new-llm-models|New LLM Models]]'
 - '[[Changes/Gemini CLI/2025-10-07-5-model-support-changes-in-v0-8-0|5 Model Support
   changes in v0.8.0]]'
+- '[[Changes/Open WebUI/2025-10-07-8-model-support-changes-in-v0-6-33|8 Model Support
+  changes in v0.6.33]]'
 source_release: '[[Releases/Cline/cline-2025-10-08-v3-32-7-github-253184994-00247f69|cline-2025-10-08-v3-32-7-github-253184994-00247f69]]'
 source_type: github_releases
 theme: model-support
@@ -78,7 +77,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-10-07 · Gemini CLI · [[Changes/Gemini CLI/2025-10-07-5-model-support-changes-in-v0-8-0|5 Model Support changes in v0.8.0]]
+- Earlier: 2025-10-07 · Open WebUI · [[Changes/Open WebUI/2025-10-07-8-model-support-changes-in-v0-6-33|8 Model Support changes in v0.6.33]]
 - Later: 2025-10-08 · Gemini CLI · [[Changes/Gemini CLI/2025-10-08-revert-get-around-the-initial-empty-response-from-gemini-2-5-flash-by-sandytao52|Revert "Get around the initial empty response from gemini-2.5-flash]]
 <!-- chronolog:end -->
 

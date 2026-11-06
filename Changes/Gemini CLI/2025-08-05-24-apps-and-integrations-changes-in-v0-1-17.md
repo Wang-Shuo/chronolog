@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: aeffe9975e6d08ebe7892fbd9c70c6cee62887ba9fe4610cea235f6fe5e7ee15
+machine_hash: 3eb6254b13767e92d9092b5dde5a2350a466288f1f98568e2e66ad03106f627c
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -94,12 +94,11 @@ record:
   title: 24 Apps and Integrations changes in v0.1.17
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-07-31-add-mcp-support-for-cli-by-ryanhoangt-in-https-github-com-all-hands-ai-openhands|Add
-  MCP support for CLI]]'
 - '[[Changes/Gemini CLI/2025-08-02-21-apps-and-integrations-changes-in-v0-1-16|21
   Apps and Integrations changes in v0.1.16]]'
 - '[[Changes/Cline/2025-08-04-refactor-use-mcp-icon-in-the-navbar-and-update-styling-by-sjf-in-https-github-co|refactor:
   Use MCP icon in the navbar and update styling]]'
+- '[[Changes/ElevenLabs/2025-08-04-sdk-releases|SDK Releases]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-08-05-v0-1-17-github-237516230-dacc1754|gemini-cli-2025-08-05-v0-1-17-github-237516230-dacc1754]]'
 source_type: github_releases
 theme: apps-integrations
@@ -188,7 +187,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.1.17
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-08-04 · Cline · [[Changes/Cline/2025-08-04-refactor-use-mcp-icon-in-the-navbar-and-update-styling-by-sjf-in-https-github-co|refactor: Use MCP icon in the navbar and update styling]]
+- Earlier: 2025-08-04 · ElevenLabs · [[Changes/ElevenLabs/2025-08-04-sdk-releases|SDK Releases]]
 - Later: 2025-08-06 · Gemini CLI · [[Changes/Gemini CLI/2025-08-06-26-apps-and-integrations-changes-in-v0-1-18|26 Apps and Integrations changes in v0.1.18]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: b1932ba17da98fec68e41a6bd162b07718505c0923add5c16d7451ea853ba535
+machine_hash: 780c76ba2d0d82af105f3e6bac89bb14705558fc40debbeb3ae79cf1c66a5f8d
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-04-17 · Claude Code · [[Changes/Claude Code/2026-04-17-subagents-that-stall-mid-stream-now-fail-with-a-clear-error-after-10-minutes-ins|Subagents that stall mid-stream now fail with a clear error after 10 minutes instead…]]
-- Later: 2026-04-20 · Claude Code · [[Changes/Claude Code/2026-04-20-2-agent-mode-changes-in-v2-1-116|2 Agent Mode changes in v2.1.116]]
+- Later: 2026-04-17 · Replit · [[Changes/Replit/2026-04-17-agent-suggests-follow-up-tasks|Agent suggests follow-up tasks]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

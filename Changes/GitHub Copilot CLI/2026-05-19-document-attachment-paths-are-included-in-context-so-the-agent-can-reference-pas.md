@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 6b9f3c843ad3f7bc12f11dd89f89f4bc22c8bc9fe1c72d8791d0bd51962dab7b
+machine_hash: 75753b10cbcba89427af17b33c7dc4754f4ba95f1a119d9544cca5836a3495d6
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -56,8 +56,7 @@ record:
     pasted…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-05-18-7-context-window-changes-in-rust-v0-131-0|7 Context
-  Window changes in rust-v0.131.0]]'
+- '[[Changes/Lovable/2026-05-18-draw-on-images|Draw on images]]'
 - '[[Changes/Claude Code/2026-05-19-improved-the-read-tool-to-return-a-truncated-first-page-with-a-partial-view-noti|Improved
   the Read tool to return a truncated first page with a "PARTIAL view" notice…]]'
 - '[[Changes/Claude Code/2026-05-19-the-post-survey-follow-up-hint-now-appears-after-every-non-dismiss-survey-respon|The

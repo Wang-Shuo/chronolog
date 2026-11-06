@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 28e6398a103ea64df16a2bfcdf81a464bbcff4f86fe9a25e448df884f6809708
+machine_hash: f7794e4ab83faf3e39540bd4b1171827e6cd0e299a659cf61df987fbe32d401d
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -134,7 +134,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.136.0
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-05-29 · Claude Code · [[Changes/Claude Code/2026-05-29-2-safety-and-privacy-changes-in-v2-1-157|2 Safety and Privacy changes in v2.1.157]]
-- Later: 2026-06-02 · ChatGPT · [[Changes/ChatGPT/2026-06-02-we-re-rolling-out-active-sessions-a-new-security-feature-in-chatgpt-that-helps-u-51e977|ChatGPT rolls out Active sessions, a new security feature that helps users review…]]
+- Later: 2026-06-01 · Lovable · [[Changes/Lovable/2026-06-01-automatic-fixes-for-basic-scan-findings|Automatic fixes for Basic scan findings]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

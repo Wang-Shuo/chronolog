@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: adf216de633252f97d35bec4962c16665611babe7173f6468171c59a7184befa
+machine_hash: 5dad59b727e93cf2bd1cd45c3074005700bf1bdfd6ae5a49e0ba9d267d685fa8
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -53,8 +53,7 @@ record:
   title: 7 Developer Workflow changes in rust-v0.154.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-09-04-detect-the-herdr-terminal-multiplexer-instead-of-mistaking-it-for-tmux-so-the-ki|Detect
-  the herdr terminal multiplexer instead of mistaking it for tmux, so the Kitty…]]'
+- '[[Changes/ElevenLabs/2026-09-07-elevenlabs-cli|ElevenLabs CLI]]'
 - '[[Changes/Claude Code/2026-09-08-2-developer-workflow-changes-in-v2-1-265|2 Developer
   Workflow changes in v2.1.265]]'
 - '[[Changes/Claude Code/2026-09-09-3-developer-workflow-changes-in-v2-1-267|3 Developer

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 3419b1e663571d25b862f82058be203e0cb85127e38cefb2608b68359ad3df64
+machine_hash: c38d36f865f9922d42ae3b3e168753390d65c2da2a5d95b4dde498ed07864c3e
 product: cline
 product_name: Cline
 record:
@@ -45,12 +45,11 @@ record:
     wording)'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-07-29-3-model-support-changes-in-rust-v0-146-0|3 Model
-  Support changes in rust-v0.146.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-30-allow-reasoning-effort-to-be-omitted-so-the-server-can-select-the-default|Allow
   reasoning effort to be omitted so the server can select the default]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-30-2-model-support-changes-in-v1-0-76|2 Model
   Support changes in v1.0.76]]'
+- '[[Changes/Lovable/2026-07-30-opus-5|Opus 5]]'
 source_release: '[[Releases/Cline/cline-2026-07-31-v4-1-0-github-362842844-bb117e78|cline-2026-07-31-v4-1-0-github-362842844-bb117e78]]'
 source_type: github_releases
 theme: model-support
@@ -80,8 +79,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-07-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-30-2-model-support-changes-in-v1-0-76|2 Model Support changes in v1.0.76]]
-- Later: 2026-08-02 · Cline · [[Changes/Cline/2026-08-02-4-model-support-changes-in-v4-1-3|4 Model Support changes in v4.1.3]]
+- Earlier: 2026-07-30 · Lovable · [[Changes/Lovable/2026-07-30-opus-5|Opus 5]]
+- Later: 2026-07-31 · DeepSeek API · [[Changes/DeepSeek API/2026-07-31-deepseek-v4-flash-update|DeepSeek-V4-Flash Update]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

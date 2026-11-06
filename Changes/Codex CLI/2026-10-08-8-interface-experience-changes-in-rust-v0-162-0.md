@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: dbac2f3964444b0b91f13c4b1c6ea3d888d923688775f47fdd56495965f39394
+machine_hash: 12819a7a1f4455d0cea7c9dab5b5c6c44afc870db82a405263cfbb81f6412d6b
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -56,10 +56,10 @@ record:
   title: 8 Interface Experience changes in rust-v0.162.0
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-10-06-feat-outline-the-back-navigation-control-on-settings-sub-pages-by-errmakov-in-ht|feat:
-  outline the back navigation control on settings sub-pages]]'
 - '[[Changes/Codex CLI/2026-10-07-49856-support-daybreak-selection-in-codex-exec-etraut-openai|♯49856
   Support Daybreak selection in codex exec @etraut-openai]]'
+- '[[Changes/Ollama/2026-10-07-cmd-remove-account-step-from-cli-onboarding-by-hoyyeva-in-https-github-com-ollam|cmd:
+  remove account step from CLI onboarding]]'
 - '[[Changes/Claude Code/2026-10-08-2-interface-experience-changes-in-v2-1-295|2 Interface
   Experience changes in v2.1.295]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-10-08-rust-v0-162-0-github-407151970-b80d60db|codex-cli-2026-10-08-rust-v0-162-0-github-407151970-b80d60db]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: a352ffd3dce430228e83aeefde8b37c8f62fe202619bc52338b62a6be6447685
+machine_hash: 3e050fcf1f1edea7714477d9d2542bee2b3424c77bc5399d8cda1e03fd7472a3
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,8 +45,7 @@ record:
   title: Double-press Esc now interrupts the running main turn (flushing queued messages)…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-06-3-agent-mode-changes-in-v2-1-202|3 Agent Mode
-  changes in v2.1.202]]'
+- '[[Changes/ElevenLabs/2026-07-06-elevenagents-f45a54|ElevenAgents]]'
 - '[[Changes/OpenHands/2026-07-06-9-agent-mode-changes-in-1-9-0|9 Agent Mode changes
   in 1.9.0]]'
 - '[[Changes/Claude Code/2026-07-07-2-agent-mode-changes-in-v2-1-203|2 Agent Mode

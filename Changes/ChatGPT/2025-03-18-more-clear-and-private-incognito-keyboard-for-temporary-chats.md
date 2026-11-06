@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: df962d4ccc0c9b124c96fed746fdad0bbd1803c0cc14138c94acd30319d4387c
+machine_hash: bddeb18b590a38ddf5c1039d22de1f50e66f33123d0431dda51219cf0656d3f4
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -43,12 +43,12 @@ record:
   title: More clear and private Incognito keyboard for Temporary Chats
   type: change
 related_changes:
-- '[[Changes/OpenHands/2024-12-04-support-custom-sandbox-for-resolver-by-malhotra5-in-https-github-com-all-hands-a|Support
-  custom sandbox for resolver]]'
-- "[[Changes/Cline/2024-12-18-cline-s-most-requested-feature-is-here-you-can-now-let-cline-work-more-autonomou|Cline's
-  most requested feature is here \U0001F389 You can now let Cline work more…]]"
+- '[[Changes/Dify/2025-03-11-2-safety-and-privacy-changes-in-1-0-1|2 Safety and Privacy
+  changes in 1.0.1]]'
 - '[[Changes/Aider/2025-03-13-added-ignore-permission-denied-option-to-file-watcher-to-prevent-errors-when-acc|Added
   ignore_permission_denied option to file watcher to prevent errors…]]'
+- '[[Changes/Gemini/2025-03-13-gemini-gets-personal-with-tailored-help-based-on-your-search-history|Gemini
+  gets personal, with tailored help based on your Search history]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-03-18-android-app-c47c961b|chatgpt-2025-03-18-android-app-c47c961b]]'
 source_type: chatgpt_changelog
 theme: safety-privacy
@@ -77,7 +77,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2025-03-13 · Aider · [[Changes/Aider/2025-03-13-added-ignore-permission-denied-option-to-file-watcher-to-prevent-errors-when-acc|Added ignore_permission_denied option to file watcher to prevent errors…]]
+- Earlier: 2025-03-13 · Gemini · [[Changes/Gemini/2025-03-13-gemini-gets-personal-with-tailored-help-based-on-your-search-history|Gemini gets personal, with tailored help based on your Search history]]
 - Later: 2025-03-18 · ChatGPT · [[Changes/ChatGPT/2025-03-18-new-ui-for-temporary-chats-we-ve-made-accessing-and-viewing-these-private-conver|New UI for Temporary Chats]]
 <!-- chronolog:end -->
 

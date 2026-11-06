@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 44803240e26e21b18e25d81cd18cf89b25e2e6b9ab9171395268182dd23a4faa
+machine_hash: a79b72d43f61f343a6c99a589c1519f87bd1d4a8a5327dc8723a691c694c0737
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -41,8 +41,8 @@ record:
   title: '#31587 Stabilize shared rollout budget test @jif-oai'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-30-2-collaboration-changes-in-v1-0-66|2 Collaboration
-  changes in v1.0.66]]'
+- '[[Changes/v0/2026-07-07-3-collaboration-changes-in-grouped-tool-approvals-richer-mcp|3
+  Collaboration changes in Grouped tool approvals, richer MCP…]]'
 - '[[Changes/Codex CLI/2026-07-08-5-collaboration-changes-in-rust-v0-143-0|5 Collaboration
   changes in rust-v0.143.0]]'
 - '[[Changes/ChatGPT/2026-07-09-existing-group-chats-will-remain-available-and-can-continue-to-be-used-for-now-w|Existing
@@ -90,7 +90,7 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2026-07-09 · ChatGPT · [[Changes/ChatGPT/2026-07-09-existing-group-chats-will-remain-available-and-can-continue-to-be-used-for-now-w|Existing group chats will remain available and can continue to be used for now]]
-- Later: 2026-07-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-16-2-collaboration-changes-in-v1-0-71|2 Collaboration changes in v1.0.71]]
+- Later: 2026-07-13 · ElevenLabs · [[Changes/ElevenLabs/2026-07-13-workspaces|Workspaces]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

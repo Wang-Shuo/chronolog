@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 18709f88d7074e1e1420d04821777836831c6b78a67a63bacdd758cc148a3039
+machine_hash: f396fba5978874088c26f126897f447020e52b35df077bbdbfd8eff168e6bc69
 product: openhands
 product_name: OpenHands
 record:
@@ -47,12 +47,11 @@ record:
   title: 3 Account and Access changes in 1.9.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-30-6-account-and-access-changes-in-v1-0-66|6
-  Account and Access changes in v1.0.66]]'
-- '[[Changes/Claude Code/2026-07-01-login-now-opens-the-sign-in-dialog-from-the-claude-agents-view-instead-of-saying|/login
-  now opens the sign-in dialog from the claude agents view instead…]]'
 - '[[Changes/ChatGPT/2026-07-06-chatgpt-for-powerpoint-is-now-generally-available-globally-from-a-sidebar-in-mic|ChatGPT
   for PowerPoint is now generally available]]'
+- '[[Changes/ElevenLabs/2026-07-06-speech-engine|Speech Engine]]'
+- '[[Changes/Lovable/2026-07-06-recover-access-when-an-sso-provider-is-removed|Recover
+  access when an SSO provider is removed]]'
 source_release: '[[Releases/OpenHands/openhands-2026-07-06-1-9-0-github-349633843-8010776a|openhands-2026-07-06-1-9-0-github-349633843-8010776a]]'
 source_type: github_releases
 theme: account-access
@@ -98,7 +97,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/1.9.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-07-06 · ChatGPT · [[Changes/ChatGPT/2026-07-06-chatgpt-for-powerpoint-is-now-generally-available-globally-from-a-sidebar-in-mic|ChatGPT for PowerPoint is now generally available]]
+- Earlier: 2026-07-06 · Lovable · [[Changes/Lovable/2026-07-06-recover-access-when-an-sso-provider-is-removed|Recover access when an SSO provider is removed]]
 - Later: 2026-07-07 · Claude Code · [[Changes/Claude Code/2026-07-07-added-a-warning-when-your-login-is-about-to-expire-so-you-can-re-authenticate-be|Added a warning when your login is about to expire, so you can re-authenticate…]]
 <!-- chronolog:end -->
 

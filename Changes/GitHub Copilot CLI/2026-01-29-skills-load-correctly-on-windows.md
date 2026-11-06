@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1b5fc29b86d1d5c336dc8e78aa7bb332a4a137000be2c3b3dce2b44917d2a0ea
+machine_hash: 88319d8a3bd29e73af9f0fa9e7b5ff602727228cbdae189692b876b735d494ba
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -42,12 +42,12 @@ record:
   title: Skills load correctly on Windows
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-01-22-windows-notifications-now-have-accept-reject-buttons-like-macos|Windows
-  notifications now have accept/reject buttons like MacOS]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-22-add-msi-installer-for-windows|Add MSI installer
   for Windows]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-28-homebrew-tools-work-correctly-on-macos-with-zsh-as-default-shell|Homebrew
   tools work correctly on macOS with zsh as default shell]]'
+- '[[Changes/v0/2026-01-28-improved-git-workflow-ui-on-mobile-devices|Improved Git
+  workflow UI on mobile devices]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-01-29-v0-0-399-github-281241103-0dd383a6|github-copilot-cli-2026-01-29-v0-0-399-github-281241103-0dd383a6]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -80,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-01-28 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-28-homebrew-tools-work-correctly-on-macos-with-zsh-as-default-shell|Homebrew tools work correctly on macOS with zsh as default shell]]
+- Earlier: 2026-01-28 · v0 · [[Changes/v0/2026-01-28-improved-git-workflow-ui-on-mobile-devices|Improved Git workflow UI on mobile devices]]
 - Later: 2026-01-31 · Codex CLI · [[Changes/Codex CLI/2026-01-31-10011-really-fix-pwd-for-windows-codex-zip-iceweasel-oai|♯10011 really fix pwd for windows codex zip @iceweasel-oai]]
 <!-- chronolog:end -->
 

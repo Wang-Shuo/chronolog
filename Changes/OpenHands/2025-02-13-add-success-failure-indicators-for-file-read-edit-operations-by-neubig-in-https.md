@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 01c4dd6bd5785f5356b35c057d623ed958b01aed2eb0efedca512ce74c5bd069
+machine_hash: 29c883f902c2216c0f581e3004819fd81ee5eecdf4aeb6e508f8320f4680f23b
 product: openhands
 product_name: OpenHands
 record:
@@ -44,12 +44,11 @@ record:
   title: Add success/failure indicators for file read/edit operations
   type: change
 related_changes:
-- '[[Changes/Cline/2025-01-06-compare-lets-you-see-a-diff-overview-between-the-snapshot-and-the-current-state|Compare
-  lets you see a diff overview between the snapshot and the current state…]]'
-- '[[Changes/OpenHands/2025-01-13-added-new-app-tab-which-allows-users-to-interact-with-the-web-app-run-in-openhan|Added
-  new App tab which allows users to interact with the web app run in OpenHands…]]'
-- '[[Changes/OpenHands/2025-01-22-users-can-now-define-a-different-llm-as-a-custom-llm-config-named-with-a-predefi|Users
-  can now define a different LLM as a custom LLM config named with a predefined name]]'
+- '[[Changes/Dify/2025-02-07-feat-prompt-editor-dark-theme-by-zxhlyh-in-https-github-com-langgenius-dify-pull|Feat/prompt
+  editor dark theme]]'
+- '[[Changes/Lovable/2025-02-12-visual-edits|Visual Edits]]'
+- '[[Changes/Lovable/2025-02-12-introducing-visual-edits-https-lovable-dev-blog-introducing-visual-edits|Introducing
+  Visual Edits.((source link)]]'
 source_release: '[[Releases/OpenHands/openhands-2025-02-13-0-24-0-github-200146983-89f4a101|openhands-2025-02-13-0-24-0-github-200146983-89f4a101]]'
 source_type: github_releases
 theme: editor-experience
@@ -80,8 +79,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2025-01-22 · OpenHands · [[Changes/OpenHands/2025-01-22-users-can-now-define-a-different-llm-as-a-custom-llm-config-named-with-a-predefi|Users can now define a different LLM as a custom LLM config named with a predefined name]]
-- Later: 2025-02-19 · Cursor · [[Changes/Cursor/2025-02-19-ignore-files-cursorignore-now-blocks-files-from-being-added-in-chat-or-sent-up-f|Ignore files: .cursorignore now blocks files from being added in chat or sent up…]]
+- Earlier: 2025-02-12 · Lovable · [[Changes/Lovable/2025-02-12-introducing-visual-edits-https-lovable-dev-blog-introducing-visual-edits|Introducing Visual Edits.((source link)]]
+- Later: 2025-02-14 · Open WebUI · [[Changes/Open WebUI/2025-02-14-playground-text-completion-restored-addressed-an-issue-where-text-completion-in|📝 Playground Text Completion Restored]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 19b83e332d75e331db206963b8dfa0d4e2886bb515a58a9caa1397f856838806
+machine_hash: 7f007cbc099765689e6f07c94eca418f2acf185e281366f67c4851feb3c515aa
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
     gateway…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-09-gpt-6-astra-is-now-available-in-the-model-picker-and-amazon-bedrock-catalogs-428|GPT-6-Astra
-  is now available in the model picker and Amazon Bedrock catalogs]]'
 - '[[Changes/OpenHands/2026-09-09-feat-enable-llm-provider-connections-on-cloud-by-juanmichelini-in-https-github-c|feat:
   enable LLM provider connections on cloud]]'
 - '[[Changes/Claude Code/2026-09-10-2-model-support-changes-in-v2-1-268|2 Model Support
   changes in v2.1.268]]'
+- '[[Changes/Dify/2026-09-10-76-model-support-changes-in-1-17-1|76 Model Support changes
+  in 1.17.1]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-11-v2-1-269-github-387243742-288e9189|claude-code-2026-09-11-v2-1-269-github-387243742-288e9189]]'
 source_type: github_releases
 theme: model-support
@@ -89,8 +89,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-09-10 · Claude Code · [[Changes/Claude Code/2026-09-10-2-model-support-changes-in-v2-1-268|2 Model Support changes in v2.1.268]]
-- Later: 2026-09-14 · ChatGPT · [[Changes/ChatGPT/2026-09-14-we-re-retiring-automatic-switching-from-instant-to-thinking-reasoning-for-chatgp|Changes to automatic switching to thinking in ChatGPT (Plus and Pro)]]
+- Earlier: 2026-09-10 · Dify · [[Changes/Dify/2026-09-10-76-model-support-changes-in-1-17-1|76 Model Support changes in 1.17.1]]
+- Later: 2026-09-11 · ElevenLabs · [[Changes/ElevenLabs/2026-09-11-scribe-v2-medical|Scribe v2 Medical]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

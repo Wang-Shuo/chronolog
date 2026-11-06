@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8bbe0242b9a164c25f565f5b7291b7e5db6966d8ae73923607f3e5281b0dbfea
+machine_hash: e56bdc044e205a9f4425c7531517b03b8d0e866b38338957829eb070224ddfb2
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,12 +43,12 @@ record:
   title: '[TUI] Breathing spinner on true-color terms'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2025-10-06-reduced-the-number-of-colors-and-improved-the-spacing-of-markdown-rendering|Reduced
-  the number of colors and improved the spacing of Markdown rendering]]'
 - '[[Changes/Gemini CLI/2025-10-07-chore-docs-adds-sidebar-json-for-docs-organization-by-mbleigh-in-https-github-co|chore(docs):
   adds sidebar.json for docs organization]]'
 - '[[Changes/GitHub Copilot CLI/2025-10-07-improved-the-alignment-of-tables-where-the-scrollbar-is-present|Improved
   the alignment of tables where the scrollbar is present]]'
+- '[[Changes/Open WebUI/2025-10-07-8-interface-experience-changes-in-v0-6-33|8 Interface
+  Experience changes in v0.6.33]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-10-09-rust-v0-46-0-github-253202599-fb352044|codex-cli-2025-10-09-rust-v0-46-0-github-253202599-fb352044]]'
 source_type: github_releases
 theme: interface-experience
@@ -81,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2025-10-07 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-10-07-improved-the-alignment-of-tables-where-the-scrollbar-is-present|Improved the alignment of tables where the scrollbar is present]]
+- Earlier: 2025-10-07 · Open WebUI · [[Changes/Open WebUI/2025-10-07-8-interface-experience-changes-in-v0-6-33|8 Interface Experience changes in v0.6.33]]
 - Later: 2025-10-10 · Windsurf · [[Changes/Windsurf/2025-10-10-codemaps|Codemaps]]
 <!-- chronolog:end -->
 

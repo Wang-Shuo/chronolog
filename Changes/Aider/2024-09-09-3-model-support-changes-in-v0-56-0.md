@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f9792ef99ba6b5dbf1a9fa3f08144b28e8c18642141140b01e6d40806d5fcb56
+machine_hash: 308351863ed310b3276d81551c5120d3e5afd0e8f3ad673fbe8c3216ac10c2cc
 product: aider
 product_name: Aider
 record:
@@ -44,12 +44,12 @@ record:
   title: 3 Model Support changes in v0.56.0
   type: change
 related_changes:
-- '[[Changes/OpenHands/2024-08-29-2-model-support-changes-in-0-9-1|2 Model Support
-  changes in 0.9.1]]'
 - '[[Changes/Aider/2024-09-04-3-model-support-changes-in-v0-55-0|3 Model Support changes
   in v0.55.0]]'
 - '[[Changes/OpenHands/2024-09-04-2-model-support-changes-in-0-9-2|2 Model Support
   changes in 0.9.2]]'
+- '[[Changes/DeepSeek API/2024-09-05-deepseek-coder-deepseek-chat-upgraded-to-deepseek-v2-5-model|deepseek-coder
+  & deepseek-chat Upgraded to DeepSeek V2.5 Model]]'
 source_release: '[[Releases/Aider/aider-2024-09-09-v0-56-0-github-174219074-6eb861eb|aider-2024-09-09-v0-56-0-github-174219074-6eb861eb]]'
 source_type: github_releases
 theme: model-support
@@ -86,8 +86,8 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.56.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2024-09-04 · OpenHands · [[Changes/OpenHands/2024-09-04-2-model-support-changes-in-0-9-2|2 Model Support changes in 0.9.2]]
-- Later: 2024-09-12 · Cline · [[Changes/Cline/2024-09-12-adds-support-for-azure-openai-and-google-gemini-free-for-up-to-15-requests-per-m|Adds support for Azure OpenAI and Google Gemini (free for up to 15 requests per minute!)]]
+- Earlier: 2024-09-05 · DeepSeek API · [[Changes/DeepSeek API/2024-09-05-deepseek-coder-deepseek-chat-upgraded-to-deepseek-v2-5-model|deepseek-coder & deepseek-chat Upgraded to DeepSeek V2.5 Model]]
+- Later: 2024-09-10 · Dify · [[Changes/Dify/2024-09-10-11-model-support-changes-in-0-8-0|11 Model Support changes in 0.8.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

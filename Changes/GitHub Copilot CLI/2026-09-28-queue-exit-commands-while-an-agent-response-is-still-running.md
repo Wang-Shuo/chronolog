@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 360b58b50a7a728eece9a6a406107baa98b2cfeb9a4b67cf41b74465c0178160
+machine_hash: 93e1c9c2814a1ea1dd7d5dbff160a05f39c7757a933939d1e3ded6b189e7c636
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,12 +43,11 @@ record:
   title: Queue exit commands while an agent response is still running
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-09-25-docs-correct-outdated-cloud-proxy-rule-2-in-agents-md-by-juanmichelini-in-https|docs:
-  correct outdated cloud-proxy Rule 2 in AGENTS.md]]'
 - '[[Changes/Claude Code/2026-09-28-added-a-yes-but-ask-again-next-time-answer-to-auto-mode-s-prompt-before-a-read-o|Added
   a "Yes, but ask again next time" answer to auto mode''s prompt before a read…]]'
 - '[[Changes/Codex CLI/2026-09-28-11-agent-mode-changes-in-rust-v0-158-0|11 Agent
   Mode changes in rust-v0.158.0]]'
+- '[[Changes/ElevenLabs/2026-09-28-elevenagents|ElevenAgents]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-09-28-v1-0-89-github-398551718-87b48178|github-copilot-cli-2026-09-28-v1-0-89-github-398551718-87b48178]]'
 source_type: github_releases
 theme: agent-mode
@@ -85,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-09-28 · Codex CLI · [[Changes/Codex CLI/2026-09-28-11-agent-mode-changes-in-rust-v0-158-0|11 Agent Mode changes in rust-v0.158.0]]
+- Earlier: 2026-09-28 · ElevenLabs · [[Changes/ElevenLabs/2026-09-28-elevenagents|ElevenAgents]]
 - Later: 2026-09-29 · ChatGPT · [[Changes/ChatGPT/2026-09-29-we-re-introducing-dots-always-on-agents-in-chatgpt-that-can-take-on-ongoing-work-24bef5|ChatGPT introduces dots]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c69df9a2886e08bb20582d83591aa26e0852ed14ff263750388f136262e0f094
+machine_hash: d608ec92c45b9a1ee0785043b16b0e096f08ae218330d88cd2f2e688588eb089
 product: aider
 product_name: Aider
 record:
@@ -46,12 +46,12 @@ record:
   title: 3 Model Support changes in v0.35.0
   type: change
 related_changes:
-- '[[Changes/Aider/2024-05-07-4-model-support-changes-in-v0-32-0|4 Model Support changes
-  in v0.32.0]]'
-- '[[Changes/Aider/2024-05-08-added-native-support-for-deepseek-models-https-aider-chat-docs-llms-html-deepsee|Added
-  native support for Deepseek…]]'
+- '[[Changes/Dify/2024-05-09-11-model-support-changes-in-0-6-7|11 Model Support changes
+  in 0.6.7]]'
 - '[[Changes/Aider/2024-05-10-added-explicit-model-settings-for-openrouter-anthropic-claude-3-opus-gpt-3-5-tur|Added
   explicit model settings for openrouter/anthropic/claude-3-opus, gpt-3.5-turbo]]'
+- '[[Changes/Ollama/2024-05-10-5-model-support-changes-in-v0-1-35|5 Model Support
+  changes in v0.1.35]]'
 source_release: '[[Releases/Aider/aider-2024-05-13-v0-35-0-github-155558453-42e8504a|aider-2024-05-13-v0-35-0-github-155558453-42e8504a]]'
 source_type: github_releases
 theme: model-support
@@ -88,7 +88,7 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.35.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2024-05-10 · Aider · [[Changes/Aider/2024-05-10-added-explicit-model-settings-for-openrouter-anthropic-claude-3-opus-gpt-3-5-tur|Added explicit model settings for openrouter/anthropic/claude-3-opus, gpt-3.5-turbo]]
+- Earlier: 2024-05-10 · Ollama · [[Changes/Ollama/2024-05-10-5-model-support-changes-in-v0-1-35|5 Model Support changes in v0.1.35]]
 - Later: 2024-05-13 · ChatGPT · [[Changes/ChatGPT/2024-05-13-gpt-4o-is-our-newest-flagship-model-that-provides-gpt-4-level-intelligence-that-297427|Introducing GPT-4o]]
 <!-- chronolog:end -->
 

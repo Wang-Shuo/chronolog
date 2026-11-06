@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 284a411c57627caabe55dbd78c0967fac96b820492dd0e894c2396e13fc9e521
+machine_hash: a8c1852f2f370a6800b8fd9abb272e41402f047dffbac056693fe8e8a677f5c5
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,8 +43,8 @@ record:
     aid…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-02-3-account-and-access-changes-in-rust-v0-107-0|3
-  Account and Access changes in rust-v0.107.0]]'
+- '[[Changes/v0/2026-03-04-added-sign-in-dialog-on-public-chats-for-logged-out-users|Added
+  sign-in dialog on public chats for logged-out users]]'
 - '[[Changes/Claude Code/2026-03-05-2-account-and-access-changes-in-v2-1-69|2 Account
   and Access changes in v2.1.69]]'
 - '[[Changes/Codex CLI/2026-03-05-12383-add-new-scopes-to-login-adaley-openai|♯12383

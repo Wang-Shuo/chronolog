@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 52e6779fb006a818613625ee3613e8b845de4dbca2406f6f635437d88caf301e
+machine_hash: c362809a60fe6b40559c3c4a6d767f41d0e812e95d43146d2f98c16b4136b631
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -44,10 +44,10 @@ record:
   title: Revert "Get around the initial empty response from gemini-2.5-flash
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-10-06-2-model-support-changes-in-rust-v0-45-0|2 Model
-  Support changes in rust-v0.45.0]]'
 - '[[Changes/Gemini CLI/2025-10-07-5-model-support-changes-in-v0-8-0|5 Model Support
   changes in v0.8.0]]'
+- '[[Changes/Open WebUI/2025-10-07-8-model-support-changes-in-v0-6-33|8 Model Support
+  changes in v0.6.33]]'
 - '[[Changes/Cline/2025-10-08-update-local-models-docs-remove-emojis-from-docs-by-nickbaumann98-in-https-githu|Update
   local models docs & remove emojis from Docs]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-10-08-v0-8-1-github-252899076-d545a457|gemini-cli-2025-10-08-v0-8-1-github-252899076-d545a457]]'

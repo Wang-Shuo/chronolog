@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1a3645396a3240b7401f96cc3de1fd1d8a83af5fd4d70e5421f2918bff2000e5
+machine_hash: e1a33ab63c6f3862ab4f7e1dc2eea7da1caf78cc2d3b902408bfa172b233ed11
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -40,12 +40,12 @@ record:
   title: '#2528 Fix login for internal employees'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-08-15-https-github-com-openai-codex-pull-2294-moves-the-login-server-from-python-to-ru|(source
-  link) moves the login server from Python…]]'
-- '[[Changes/Gemini CLI/2025-08-18-feat-oauth-make-oauth-client-a-singleton-to-survive-cache-failures-by-mboshernit|feat(oauth):
-  Make oauth client a singleton to survive cache failures]]'
 - '[[Changes/Codex CLI/2025-08-20-9-account-and-access-changes-in-rust-v0-23-0|9 Account
   and Access changes in rust-v0.23.0]]'
+- '[[Changes/Open WebUI/2025-08-21-3-account-and-access-changes-in-v0-6-23|3 Account
+  and Access changes in v0.6.23]]'
+- "[[Changes/Open WebUI/2025-08-22-redis-user-session-reliability-fixed-a-problem-affecting-the-saving-of-user-sess|\U0001F6E1️
+  Redis User Session Reliability]]"
 source_release: '[[Releases/Codex CLI/codex-cli-2025-08-26-rust-v0-24-0-github-242647588-70fa432e|codex-cli-2025-08-26-rust-v0-24-0-github-242647588-70fa432e]]'
 source_type: github_releases
 theme: account-access
@@ -85,8 +85,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2025-08-20 · Codex CLI · [[Changes/Codex CLI/2025-08-20-9-account-and-access-changes-in-rust-v0-23-0|9 Account and Access changes in rust-v0.23.0]]
-- Later: 2025-08-28 · Cline · [[Changes/Cline/2025-08-28-feature-qwen-code-cli-api-support-with-oauth-by-evinelias-in-https-github-com-cl|Feature/Qwen Code CLI API Support with OAuth]]
+- Earlier: 2025-08-22 · Open WebUI · [[Changes/Open WebUI/2025-08-22-redis-user-session-reliability-fixed-a-problem-affecting-the-saving-of-user-sess|🛡️ Redis User Session Reliability]]
+- Later: 2025-08-27 · Dify · [[Changes/Dify/2025-08-27-7-account-and-access-changes-in-1-8-0|7 Account and Access changes in 1.8.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

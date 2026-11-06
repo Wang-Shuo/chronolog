@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3abf9fcbe188b9b00243fa165ce94360dd93f0b334db2877d131347ee78a2034
+machine_hash: ed297b384334c796e7b154f7e4d36117658455d1665402eb6fbd1e90e6607214
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -41,8 +41,8 @@ record:
   title: Shell mode pastes raw text instead of paste tokens
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-02-12-3-context-window-changes-in-rust-v0-100-0|3 Context
-  Window changes in rust-v0.100.0]]'
+- '[[Changes/Open WebUI/2026-02-12-5-context-window-changes-in-v0-8-0|5 Context Window
+  changes in v0.8.0]]'
 - '[[Changes/ChatGPT/2026-02-13-attach-up-to-20-files-in-a-single-message-you-can-now-upload-up-to-20-files-at-o|Attach
   up to 20 files in a single message]]'
 - '[[Changes/Claude Code/2026-02-13-improved-rename-to-auto-generate-session-name-from-conversation-context-when-cal|Improved

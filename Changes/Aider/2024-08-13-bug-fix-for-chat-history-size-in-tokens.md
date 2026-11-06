@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: eebcfd32f8bd44deaef047f776d6f5dafb4606da7b3d51a9b43dbc908118ed5d
+machine_hash: 66b0f7839eb14d4973d3949f6fcca56e0c32a005fae8e06e7414e94874db6714
 product: aider
 product_name: Aider
 record:
@@ -40,10 +40,10 @@ record:
   title: Bug fix for chat history size in `/tokens`
   type: change
 related_changes:
-- '[[Changes/Cline/2024-07-28-claude-now-has-context-about-vscode-s-visible-editors-and-opened-tabs|Claude
-  now has context about vscode''s visible editors and opened tabs]]'
-- '[[Changes/Cline/2024-07-30-export-tasks-to-markdown-files-useful-as-context-for-future-tasks|Export
-  tasks to markdown files (useful as context for future tasks)]]'
+- '[[Changes/DeepSeek API/2024-08-02-api-launches-context-caching-on-disk-technology|API
+  Launches Context Caching on Disk Technology]]'
+- '[[Changes/Dify/2024-08-06-chore-make-prompt-generator-max-tokens-configurable-by-gijigae-in-https-github-c|chore:
+  make prompt generator max tokens configurable]]'
 - '[[Changes/Aider/2024-08-10-add-read-only-files-to-the-chat-context-with-read-and-read-including-from-outsid|Add
   read-only files to the chat context with /read and --read, including…]]'
 source_release: '[[Releases/Aider/aider-2024-08-13-v0-50-0-github-170044522-4391dc3d|aider-2024-08-13-v0-50-0-github-170044522-4391dc3d]]'

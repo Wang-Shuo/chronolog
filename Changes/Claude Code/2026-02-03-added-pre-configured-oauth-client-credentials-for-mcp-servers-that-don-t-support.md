@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: abdaf6ee57138e69a63d0d5070d22760b6a5ce004eb3c5c312b60add8aad6704
+machine_hash: 1ba9234e659d8ddbfd3db3ce9310065011151bf6f9571fe9bd62e6f53f6cca12
 product: claude-code
 product_name: Claude Code
 record:
@@ -57,7 +57,7 @@ record:
     support…
   type: change
 related_changes:
-- '[[Changes/Cline/2026-01-30-cli-authentication-added-vercel-ai-gateway-and-cline-api-key-provider-support-fo-4f2168|_CLI
+- '[[Changes/Cline/2026-01-30-cli-authentication-added-vercel-ai-gateway-and-cline-api-key-provider-support-fo-4f2168|CLI
   authentication: Added Vercel AI Gateway and Cline API key provider support…]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-30-improve-compatibility-with-remote-mcp-servers-that-use-oauth|Improve
   compatibility with remote MCP servers that use OAuth]]'
@@ -99,7 +99,7 @@ type: change
 ## Nearby in Account and Access
 
 - Earlier: 2026-01-31 · Codex CLI · [[Changes/Codex CLI/2026-01-31-9654-show-oauth-error-descriptions-in-callback-responses-blevy-oai|♯9654 Show OAuth error descriptions in callback responses @blevy-oai]]
-- Later: 2026-02-03 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-03-2-account-and-access-changes-in-v0-0-401|2 Account and Access changes in v0.0.401]]
+- Later: 2026-02-03 · Dify · [[Changes/Dify/2026-02-03-3-account-and-access-changes-in-1-12-0|3 Account and Access changes in 1.12.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

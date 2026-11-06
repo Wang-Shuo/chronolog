@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 50edbbcd4f6066e11533cd5635c33e2f309b1846a215c1b9f58602e97d2093b6
+machine_hash: ca6ab188e24b7d8974c8edb17a12816483620ccec4f0c1fadd243fc5202fe373
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,8 +43,8 @@ record:
   title: Changed managed settings
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-30-add-a-browser-based-web-oauth-login-flow-now-the-default-for-copilot-login-on-lo|Add
-  a browser-based (web) OAuth login flow, now the default for copilot login…]]'
+- '[[Changes/v0/2026-07-31-open-in-v0-and-git-deployment-lookups-prompt-for-saml-re-authentication-instead|Open
+  in v0 and Git deployment lookups prompt for SAML re-authentication instead…]]'
 - '[[Changes/Windsurf/2026-08-01-devin-desktop-for-windows-loads-root-and-intermediate-certificates-from-the-wind|Devin
   Desktop for Windows loads root and intermediate certificates from the Windows…]]'
 - '[[Changes/GitHub Copilot CLI/2026-08-03-2-account-and-access-changes-in-v1-0-78|2

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2cbdfaa44e0a6bf92d1652a7ff3815094c489593821ab7027b3eae9af6781735
+machine_hash: 45d220b9ef5e437ec79d3fff2f8fa8877bd63a3d8d1ac6d26dd333126fc7b05b
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -50,12 +50,12 @@ record:
   title: 6 Editor Experience changes in rust-v0.24.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-08-20-3-editor-experience-changes-in-rust-v0-23-0|3 Editor
-  Experience changes in rust-v0.23.0]]'
 - '[[Changes/Cline/2025-08-21-add-an-rpc-to-the-host-bridge-to-reveal-a-directory-in-the-ide-file-explorer-by|Add
   an RPC to the host bridge to reveal a directory in the IDE file explorer]]'
 - '[[Changes/Cursor/2025-08-21-tab-now-aware-of-full-notebook|Tab now aware of full
   notebook]]'
+- "[[Changes/Open WebUI/2025-08-21-restored-message-toolbar-icons-for-empty-messages-with-files-fixed-an-issue-wher|\U0001F41B
+  Restored Message Toolbar Icons for Empty Messages with Files]]"
 source_release: '[[Releases/Codex CLI/codex-cli-2025-08-26-rust-v0-24-0-github-242647588-70fa432e|codex-cli-2025-08-26-rust-v0-24-0-github-242647588-70fa432e]]'
 source_type: github_releases
 theme: editor-experience
@@ -107,7 +107,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.24.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2025-08-21 · Cursor · [[Changes/Cursor/2025-08-21-tab-now-aware-of-full-notebook|Tab now aware of full notebook]]
+- Earlier: 2025-08-21 · Open WebUI · [[Changes/Open WebUI/2025-08-21-restored-message-toolbar-icons-for-empty-messages-with-files-fixed-an-issue-wher|🐛 Restored Message Toolbar Icons for Empty Messages with Files]]
 - Later: 2025-08-27 · Codex CLI · [[Changes/Codex CLI/2025-08-27-4-editor-experience-changes-in-rust-v0-25-0|4 Editor Experience changes in rust-v0.25.0]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 198816c12b8e7b5455ecdc2e3693782fb28c32d5ad4c1c970757ef1d6c42725e
+machine_hash: 5fd09a06598fd3627594f11465b04c8369839ea965a3eb28a1b019c7d1446b96
 product: cline
 product_name: Cline
 record:
@@ -40,9 +40,10 @@ record:
   title: Add timeout option to MCP servers
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-02-19-2-apps-and-integrations-changes-in-0-46-x|2 Apps and
-  Integrations changes in 0.46.x]]'
-- '[[Changes/Cursor/2025-02-19-mcp-improvements|MCP improvements]]'
+- '[[Changes/Open WebUI/2025-02-27-2-apps-and-integrations-changes-in-v0-5-17|2 Apps
+  and Integrations changes in v0.5.17]]'
+- '[[Changes/Dify/2025-02-28-9-apps-and-integrations-changes-in-1-0-0|9 Apps and Integrations
+  changes in 1.0.0]]'
 - '[[Changes/Cline/2025-03-01-2-apps-and-integrations-changes-in-v3-5-0|2 Apps and
   Integrations changes in v3.5.0]]'
 source_release: '[[Releases/Cline/cline-2025-03-03-v3-5-1-github-203250765-0e967ba9|cline-2025-03-03-v3-5-1-github-203250765-0e967ba9]]'

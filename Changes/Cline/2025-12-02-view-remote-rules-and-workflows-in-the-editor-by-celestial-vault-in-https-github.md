@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 22df03ba9d01162b7143041a89892fa30185bc7190571920e30aec576ef2444d
+machine_hash: 7defba3fde0c0d78909abbbc189162409467cc3771d980dd35a910574c5ebfdf
 product: cline
 product_name: Cline
 record:
@@ -41,7 +41,8 @@ record:
   title: View remote rules and workflows in the editor
   type: change
 related_changes:
-- '[[Changes/Windsurf/2025-11-21-tab-completion|Tab Completion]]'
+- '[[Changes/Dify/2025-11-26-introduced-a-broad-set-of-workflow-editor-improvements-including-ui-refinement-s|Introduced
+  a broad set of workflow-editor improvements, including UI refinement…]]'
 - '[[Changes/Gemini CLI/2025-11-26-restore-keyboard-mode-when-exiting-the-editor-by-scidomino-in-https-github-com-g|Restore
   keyboard mode when exiting the editor]]'
 - '[[Changes/Cline/2025-11-27-2-editor-experience-changes-in-v3-38-3|2 Editor Experience

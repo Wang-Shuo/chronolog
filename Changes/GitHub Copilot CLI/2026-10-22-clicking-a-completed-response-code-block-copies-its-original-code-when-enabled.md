@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d001528ad8cac846a849a82c876c8aa8a2702c84a69b4ca942ac1362562c1c8b
+machine_hash: 37552d23b50cbd39e1b80ee83dc6d148471447dce38b74fd6b3f158f5a8becec
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,10 +43,10 @@ record:
   title: Clicking a completed response code block copies its original code when enabled
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-10-20-2-developer-workflow-changes-in-v1-0-101|2
-  Developer Workflow changes in v1.0.101]]'
 - '[[Changes/Claude Code/2026-10-21-2-developer-workflow-changes-in-v2-1-307|2 Developer
   Workflow changes in v2.1.307]]'
+- '[[Changes/Ollama/2026-10-21-flint-is-an-apache-2-0-licensed-40b-parameter-mixture-of-experts-model-with-appr|Flint
+  is an Apache 2.0-licensed, 40B-parameter mixture-of-experts model…]]'
 - '[[Changes/Claude Code/2026-10-22-improved-disk-full-handling-a-bash-command-cut-off-by-a-full-disk-now-says-so-an|Improved
   disk-full handling]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-10-22-v1-0-103-github-420944485-e95a7f56|github-copilot-cli-2026-10-22-v1-0-103-github-420944485-e95a7f56]]'

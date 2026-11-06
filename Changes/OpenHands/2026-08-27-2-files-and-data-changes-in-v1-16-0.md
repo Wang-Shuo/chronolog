@@ -4,20 +4,20 @@ date: '2026-08-27'
 description: 'OpenHands · 2026-08-27 · Files and Data: 2 changes in v1.16.0 — docs:
   document OpenHands repository boundaries by @neubig in…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code
-    interpreter is now rolling out in beta on web]]'
+  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
+    Files and Data changes in 0.2.2]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1148
+  lag_days: 1190
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 985ed3cfe5722a06123caad0aa1a61329c137e2b36f5a3d5a037a2b2495290cd
+machine_hash: 8a9b20a27310e7b5fc3fba230daebb20b6f45650e8fb2463711eb5c907a5f705
 product: openhands
 product_name: OpenHands
 record:
@@ -42,10 +42,10 @@ record:
   title: 2 Files and Data changes in v1.16.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-08-20-39283-document-secure-devcontainer-dns-exfiltration-risk-copyberry|♯39283
-  Document secure devcontainer DNS exfiltration risk @copyberry]]'
-- '[[Changes/OpenHands/2026-08-21-ci-bump-agent-canvas-chart-image-tag-on-release-by-aivong-openhands-in-https-git|ci:
-  bump agent-canvas chart image tag on release]]'
+- '[[Changes/Dify/2026-08-25-5-files-and-data-changes-in-1-17-0|5 Files and Data changes
+  in 1.17.0]]'
+- '[[Changes/Open WebUI/2026-08-25-9-files-and-data-changes-in-v0-11-1|9 Files and
+  Data changes in v0.11.1]]'
 - '[[Changes/GitHub Copilot CLI/2026-08-27-canvas-windows-open-and-refresh-in-the-background-instead-of-stealing-focus-from|Canvas
   windows open and refresh in the background instead of stealing focus…]]'
 source_release: '[[Releases/OpenHands/openhands-2026-08-27-v1-16-0-github-378032404-772fe69a|openhands-2026-08-27-v1-16-0-github-378032404-772fe69a]]'
@@ -87,13 +87,13 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/v1.16.0
 ## Nearby in Files and Data
 
 - Earlier: 2026-08-27 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-08-27-canvas-windows-open-and-refresh-in-the-background-instead-of-stealing-focus-from|Canvas windows open and refresh in the background instead of stealing focus…]]
-- Later: 2026-09-09 · OpenHands · [[Changes/OpenHands/2026-09-09-4-files-and-data-changes-in-v1-17-0|4 Files and Data changes in v1.17.0]]
+- Later: 2026-08-31 · ElevenLabs · [[Changes/ElevenLabs/2026-08-31-dubbing|Dubbing]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-06 · ChatGPT · [[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code interpreter is now rolling out in beta on web]]
+- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

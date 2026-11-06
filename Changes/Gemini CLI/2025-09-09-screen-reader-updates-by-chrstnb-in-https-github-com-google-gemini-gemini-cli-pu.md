@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: accessibility-localization
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e5b03556e0bf5ff282dc78e8628fbdfc6c8c2d7a8d373b625be59ac490fd6c6c
+machine_hash: 2f7c05fe37c35e2e9612aaafacec36fba24a0a2f14be57521ba5376d4b18205c
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -41,10 +41,10 @@ record:
   title: Screen reader updates
   type: change
 related_changes:
-- '[[Changes/Aider/2025-03-13-big-upgrade-in-programming-languages-supported-https-aider-chat-docs-languages-h|Big
-  upgrade in programming languages…]]'
-- '[[Changes/Cline/2025-06-20-2-accessibility-and-localization-changes-in-v3-17-15|2
-  Accessibility and Localization changes in v3.17.15]]'
+- '[[Changes/Dify/2025-08-27-localized-documentation-updated-localized-readme-files-to-link-to-corresponding|Localized
+  Documentation: Updated localized README files to link to corresponding…]]'
+- '[[Changes/Open WebUI/2025-08-28-2-accessibility-and-localization-changes-in-v0-6-26|2
+  Accessibility and Localization changes in v0.6.26]]'
 - '[[Changes/Gemini CLI/2025-09-04-introduce-initial-screen-reader-mode-handling-and-flag-by-chrstnb-in-https-githu|Introduce
   initial screen reader mode handling and flag]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-09-09-v0-4-0-github-245990585-546fee8b|gemini-cli-2025-09-09-v0-4-0-github-245990585-546fee8b]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: faecea716e558923edaadcc19ca3605d78241034ac705c90bca1fad2720efd67
+machine_hash: 179fc8f94fad19503ef87c730d93f47120a582a7fb9a5707b21db57ec3aeb0cf
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,10 +43,10 @@ record:
     events…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-08-50216-use-the-shared-text-editor-for-command-center-task-renaming-bc-openai|♯50216
-  Use the shared text editor for command-center task renaming @bc-openai]]'
-- '[[Changes/Claude Code/2026-10-09-3-editor-experience-changes-in-v2-1-296|3 Editor
-  Experience changes in v2.1.296]]'
+- '[[Changes/Open WebUI/2026-10-10-21-editor-experience-changes-in-v0-12-0|21 Editor
+  Experience changes in v0.12.0]]'
+- '[[Changes/Lovable/2026-10-12-edit-images-directly-in-the-files-tab|Edit images
+  directly in the Files tab]]'
 - '[[Changes/Cline/2026-10-13-the-editor-tool-no-longer-receives-null-in-place-of-the-text-to-replace-from-som|The
   editor tool no longer receives null in place of the text to replace from some models]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-10-13-v1-0-97-github-411990782-ee7b7038|github-copilot-cli-2026-10-13-v1-0-97-github-411990782-ee7b7038]]'

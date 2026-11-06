@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ddee458d83740dfa95da948fb07c7882c81390a90ad0996e40e12c1e437a494c
+machine_hash: 4c28316556a0f5c0a7b0380c1362f9e5e459e2fa4af990aea69a0e1733cc4a44
 product: openhands
 product_name: OpenHands
 record:
@@ -41,10 +41,10 @@ record:
   title: Add unit tests for LLM init function
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-07-23-new-default-model-we-ve-made-claude-3-5-sonnet-the-default-model-for-users|New
-  Default Model: We''ve made Claude 3.5 Sonnet the default model for users]]'
 - '[[Changes/Aider/2024-07-29-fall-back-to-main-model-if-weak-model-is-unable-to-generate-a-commit-message|Fall
   back to main model if weak model is unable to generate a commit message]]'
+- '[[Changes/Ollama/2024-07-30-3-model-support-changes-in-v0-3-1|3 Model Support changes
+  in v0.3.1]]'
 - '[[Changes/Aider/2024-07-31-added-strong-model-as-a-fallback-for-commit-messages-and-chat-summaries|Added
   strong model as a fallback for commit messages (and chat summaries)]]'
 source_release: '[[Releases/OpenHands/openhands-2024-08-01-0-8-3-github-168304067-dfbe22ff|openhands-2024-08-01-0-8-3-github-168304067-dfbe22ff]]'
@@ -80,7 +80,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2024-07-31 · Aider · [[Changes/Aider/2024-07-31-added-strong-model-as-a-fallback-for-commit-messages-and-chat-summaries|Added strong model as a fallback for commit messages (and chat summaries)]]
-- Later: 2024-08-06 · Aider · [[Changes/Aider/2024-08-06-3-model-support-changes-in-v0-48-0|3 Model Support changes in v0.48.0]]
+- Later: 2024-08-02 · Open WebUI · [[Changes/Open WebUI/2024-08-02-2-model-support-changes-in-v0-3-11|2 Model Support changes in v0.3.11]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

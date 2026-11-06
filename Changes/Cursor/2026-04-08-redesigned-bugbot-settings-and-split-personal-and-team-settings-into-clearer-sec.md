@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8556f7ef47fb17f283c14894a8e796abfd02685f49a0383244d07cdd48f577f9
+machine_hash: 61cfed71111582c8181ffd07846945ebc53fe9b93dd48baf1855f2428cc3d80e
 product: cursor
 product_name: Cursor
 record:
@@ -42,8 +42,8 @@ record:
     sections
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-25-added-managed-settings-d-drop-in-directory-alongside-managed-settings-json-letti|Added
-  managed-settings.d/ drop-in directory alongside managed-settings.json…]]'
+- '[[Changes/Dify/2026-03-27-test-workflow-reorganize-specs-into-tests-and-align-with-shared-test-infrastruct|test(workflow):
+  reorganize specs into tests and align with shared test infrastructure]]'
 - '[[Changes/Codex CLI/2026-03-31-4-collaboration-changes-in-rust-v0-118-0|4 Collaboration
   changes in rust-v0.118.0]]'
 - '[[Changes/Cursor/2026-04-02-2-collaboration-changes-in-3-0|2 Collaboration changes

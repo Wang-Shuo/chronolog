@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 195bd089bca7ed19d4587fb5e33bf8dec2f349d77210d1df79b4ed307c0ac398
+machine_hash: e170f70d38e152c4487d2387e902b51f0dd116ac053c38de6236696704eac227
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -50,10 +50,10 @@ record:
   title: 5 Reliability and Performance changes in v1.0.69
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-02-2-reliability-and-performance-changes-in-v2-1-199|2
-  Reliability and Performance changes in v2.1.199]]'
 - '[[Changes/Claude Code/2026-07-03-improved-the-install-script-to-explain-when-installation-is-killed-by-the-system|Improved
   the install script to explain when installation is killed by the system…]]'
+- '[[Changes/Ollama/2026-07-06-igpu-can-now-offload-vision-models-with-padding-to-fit-available-memory|iGPU
+  can now offload vision models with padding to fit available memory]]'
 - '[[Changes/Claude Code/2026-07-07-2-reliability-and-performance-changes-in-v2-1-203|2
   Reliability and Performance changes in v2.1.203]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-07-07-v1-0-69-github-350582031-19558357|github-copilot-cli-2026-07-07-v1-0-69-github-350582031-19558357]]'
@@ -107,7 +107,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.69
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-07-07 · Claude Code · [[Changes/Claude Code/2026-07-07-2-reliability-and-performance-changes-in-v2-1-203|2 Reliability and Performance changes in v2.1.203]]
-- Later: 2026-07-08 · Claude Code · [[Changes/Claude Code/2026-07-08-auto-update-binary-downloads-now-stream-to-disk-instead-of-buffering-in-memory-c|Auto-update binary downloads now stream to disk instead of buffering in memory…]]
+- Later: 2026-07-07 · v0 · [[Changes/v0/2026-07-07-faster-vm-preview-startup-and-vercel-deploys-trimming-several-seconds-of-setup|Faster VM preview startup and Vercel deploys, trimming several seconds of setup]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

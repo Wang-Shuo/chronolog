@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9dd188ebf673ca7cfb7860f71b78cca39b281bde2015d69c616e5814bdfbcbcf
+machine_hash: 600ed335cb1540eac9167132cf808b387fe789689fa27146284b4e426e1c1a52
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -45,10 +45,10 @@ record:
   title: 2 Agent Mode changes in v0.55.1
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-08-07-17-agent-mode-changes-in-rust-v0-147-0|17 Agent
-  Mode changes in rust-v0.147.0]]'
-- '[[Changes/OpenHands/2026-08-07-feat-add-a-typed-agent-action-for-launching-local-or-cloud-child-conversations-b|feat:
-  add a typed agent action for launching local or Cloud child conversations]]'
+- '[[Changes/Ollama/2026-08-10-2-agent-mode-changes-in-v0-32-7|2 Agent Mode changes
+  in v0.32.7]]'
+- '[[Changes/Ollama/2026-08-10-for-a-lighter-weight-coding-agent-try-pi-https-pi-dev|For
+  a lighter-weight coding agent, try Pi((source link)]]'
 - '[[Changes/Claude Code/2026-08-11-removed-the-outdated-note-about-auto-mode-sessions-costing-slightly-more-from-th|Removed
   the outdated note about auto mode sessions costing slightly more…]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-08-11-v0-55-1-github-368860370-07bf49f0|gemini-cli-2026-08-11-v0-55-1-github-368860370-07bf49f0]]'
@@ -89,7 +89,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.55.1
 ## Nearby in Agent Mode
 
 - Earlier: 2026-08-11 · Claude Code · [[Changes/Claude Code/2026-08-11-removed-the-outdated-note-about-auto-mode-sessions-costing-slightly-more-from-th|Removed the outdated note about auto mode sessions costing slightly more…]]
-- Later: 2026-08-12 · Claude Code · [[Changes/Claude Code/2026-08-12-improved-workflow-fan-outs-to-stagger-same-prefix-sibling-agents-so-subsequent-a|Improved workflow fan-outs to stagger same-prefix sibling agents so subsequent…]]
+- Later: 2026-08-11 · Ollama · [[Changes/Ollama/2026-08-11-nvidia-nemotron-3-5-lightning-https-ollama-com-library-nemotron-3-5-lightning-is|NVIDIA Nemotron 3.5 Lightning((source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 9073a835221c07e122afe8542ccd7f300bde54d387d22c54287bdbc368d1f779
+machine_hash: 5b3f507e03813e5dc4e3a1c7018a033fb614f61cb4a62cb2475d78be0e23f3f1
 product: cline
 product_name: Cline
 record:
@@ -44,12 +44,12 @@ record:
   title: Added support for dynamic tool instructions that adapt based on runtime context…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-12-09-general-fixes-parallel-tool-call-chat-now-returns-correctly-ghost-snapshot-token|General
-  fixes: parallel tool-call chat now returns correctly, ghost snapshot tokens…]]'
-- '[[Changes/Gemini CLI/2025-12-09-feat-core-implement-jit-context-manager-and-setting-by-sandytao520-in-https-gith|feat(core):
-  Implement JIT context manager and setting]]'
 - '[[Changes/Cline/2025-12-11-2-context-window-changes-in-v3-41-0|2 Context Window
   changes in v3.41.0]]'
+- '[[Changes/Dify/2025-12-11-2-context-window-changes-in-1-11-0|2 Context Window changes
+  in 1.11.0]]'
+- '[[Changes/v0/2025-12-16-you-can-now-securely-connect-v0-to-your-notion-workspace-to-build-using-your-tea|Build
+  with Notion via MCP]]'
 source_release: '[[Releases/Cline/cline-2025-12-17-v3-44-1-github-270974831-0dc2be07|cline-2025-12-17-v3-44-1-github-270974831-0dc2be07]]'
 source_type: github_releases
 theme: context-window
@@ -76,7 +76,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2025-12-11 · Cline · [[Changes/Cline/2025-12-11-2-context-window-changes-in-v3-41-0|2 Context Window changes in v3.41.0]]
+- Earlier: 2025-12-16 · v0 · [[Changes/v0/2025-12-16-you-can-now-securely-connect-v0-to-your-notion-workspace-to-build-using-your-tea|Build with Notion via MCP]]
 - Later: 2025-12-18 · Codex CLI · [[Changes/Codex CLI/2025-12-18-7935-exec-server-additional-context-for-errors|♯7935 exec-server: additional context for errors]]
 <!-- chronolog:end -->
 

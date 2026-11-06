@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 87695104604a42a7b54148685d781996f878e14a60f01fd76ca8a46a1731f71a
+machine_hash: a3330d314d5fc0fce660aeea5edfaf0e2b3d14c2f32cd2242e27452208f4d461
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,12 +45,12 @@ record:
   title: 2 Interface Experience changes in v1.0.78
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-07-28-existing-free-users-in-india-can-upgrade-their-plan-from-the-dashboard-new-users-aeb811|Existing
-  Free users in India can upgrade their plan from the dashboard]]'
 - '[[Changes/Codex CLI/2026-07-29-8-interface-experience-changes-in-rust-v0-146-0|8
   Interface Experience changes in rust-v0.146.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-30-4-interface-experience-changes-in-v1-0-76|4
   Interface Experience changes in v1.0.76]]'
+- '[[Changes/v0/2026-07-31-3-interface-experience-changes-in-claude-opus-5-direct-figma-inspection|3
+  Interface Experience changes in Claude Opus 5, direct Figma inspection…]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-08-03-v1-0-78-github-364543196-53a079bc|github-copilot-cli-2026-08-03-v1-0-78-github-364543196-53a079bc]]'
 source_type: github_releases
 theme: interface-experience
@@ -91,8 +91,8 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.78
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-07-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-30-4-interface-experience-changes-in-v1-0-76|4 Interface Experience changes in v1.0.76]]
-- Later: 2026-08-04 · Claude Code · [[Changes/Claude Code/2026-08-04-vscode-added-focus-view-a-chat-menu-toggle-that-hides-tool-activity-behind-an-ex|VSCode Added Focus view]]
+- Earlier: 2026-07-31 · v0 · [[Changes/v0/2026-07-31-3-interface-experience-changes-in-claude-opus-5-direct-figma-inspection|3 Interface Experience changes in Claude Opus 5, direct Figma inspection…]]
+- Later: 2026-08-03 · Lovable · [[Changes/Lovable/2026-08-03-revise-a-plan-by-highlighting-the-part-you-want-changed|Revise a plan by highlighting the part you want changed]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6d226199807f236dc333bc5197e0839b7323b3d26c6950ea8dd38cea02dbea5a
+machine_hash: e60137fe3f6b56c52d7678f4774b296c4e902b633c77f0337a5834b94e9317c6
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,10 +42,10 @@ record:
   title: Added `managed-settings.d/` drop-in directory alongside `managed-settings.json`…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-10-14117-feat-otel-centralize-otel-metric-names-and-shared-tag-builders-owenlin0|♯14117
-  feat(otel): Centralize OTEL metric names and shared tag builders @owenlin0]]'
-- '[[Changes/GitHub Copilot CLI/2026-03-11-session-export-header-renders-each-field-on-its-own-line-in-shared-gists|Session
-  export header renders each field on its own line in shared gists]]'
+- '[[Changes/v0/2026-03-16-added-support-for-linking-team-skills-to-design-systems|Added
+  support for linking team skills to design systems]]'
+- '[[Changes/Dify/2026-03-17-refactor-web-split-share-text-generation-and-add-high-coverage-tests-by-codingon|refactor(web):
+  split share text-generation and add high-coverage tests]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-20-2-collaboration-changes-in-v1-0-10|2 Collaboration
   changes in v1.0.10]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-25-v2-1-83-github-301019202-ba6a8317|claude-code-2026-03-25-v2-1-83-github-301019202-ba6a8317]]'
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2026-03-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-20-2-collaboration-changes-in-v1-0-10|2 Collaboration changes in v1.0.10]]
-- Later: 2026-03-31 · Codex CLI · [[Changes/Codex CLI/2026-03-31-4-collaboration-changes-in-rust-v0-118-0|4 Collaboration changes in rust-v0.118.0]]
+- Later: 2026-03-25 · Open WebUI · [[Changes/Open WebUI/2026-03-25-shared-chat-viewing-crash-shared-chats-can-now-be-viewed-by-unauthenticated-user|🐛 Shared chat viewing crash. Shared chats can now be viewed by unauthenticated…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

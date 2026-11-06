@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9c3be225547f8f3d141bd940eae7064881094e81c7b7314759b69cc9dbdc50a7
+machine_hash: f568bb1c0f0e4d00f140a5fb00849c169cc7bc2c9dcf382cfb79bc75bdd446cd
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -91,7 +91,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.80.0
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-01-09 · Claude Code · [[Changes/Claude Code/2026-01-09-2-safety-and-privacy-changes-in-v2-1-3|2 Safety and Privacy changes in v2.1.3]]
-- Later: 2026-01-13 · Claude Code · [[Changes/Claude Code/2026-01-13-fixed-permission-bypass-via-shell-line-continuation-that-could-allow-blocked-com|Fixed permission bypass via shell line continuation that could allow blocked…]]
+- Later: 2026-01-09 · Open WebUI · [[Changes/Open WebUI/2026-01-09-6-safety-and-privacy-changes-in-v0-7-0|6 Safety and Privacy changes in v0.7.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

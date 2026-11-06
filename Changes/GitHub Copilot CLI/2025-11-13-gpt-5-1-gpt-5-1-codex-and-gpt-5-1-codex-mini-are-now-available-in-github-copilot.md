@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 621ad2ac09be7095f662b075fd02ad315670173972924fb667bb7c633b1d8e4e
+machine_hash: 25c1006200a864734d4b04e151d4c2217d2da414270a7dc8f53619277522541a
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -47,12 +47,12 @@ record:
     Copilot CLI
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-11-12-docs-add-model-documentation-by-jkcinouye-in-https-github-com-google-gemini-gemi|Docs:
-  Add /model documentation]]'
 - '[[Changes/Cline/2025-11-13-8-model-support-changes-in-v3-37-0|8 Model Support changes
   in v3.37.0]]'
 - '[[Changes/Codex CLI/2025-11-13-11-model-support-changes-in-rust-v0-58-0|11 Model
   Support changes in rust-v0.58.0]]'
+- '[[Changes/Dify/2025-11-13-5-model-support-changes-in-1-10-0|5 Model Support changes
+  in 1.10.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2025-11-13-v0-0-356-github-262219145-9f2db38c|github-copilot-cli-2025-11-13-v0-0-356-github-262219145-9f2db38c]]'
 source_type: github_releases
 theme: model-support
@@ -80,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-11-13 · Codex CLI · [[Changes/Codex CLI/2025-11-13-11-model-support-changes-in-rust-v0-58-0|11 Model Support changes in rust-v0.58.0]]
+- Earlier: 2025-11-13 · Dify · [[Changes/Dify/2025-11-13-5-model-support-changes-in-1-10-0|5 Model Support changes in 1.10.0]]
 - Later: 2025-11-13 · Windsurf · [[Changes/Windsurf/2025-11-13-gpt-5-1-and-gpt-5-1-codex|GPT-5.1 and GPT-5.1-Codex]]
 <!-- chronolog:end -->
 

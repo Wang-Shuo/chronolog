@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1330b7ad1aa4cdfa3befdd8056be3634511caddd39644cd7d33ed581513613d3
+machine_hash: f9b165a7334e2ac962e06a5cba2dca0d8a5bcbd2959e79738bfe90e23b69471a
 product: windsurf
 product_name: Windsurf
 record:
@@ -41,10 +41,10 @@ record:
   title: 1.12.43 GPT-5.2 changelog banner
   type: change
 related_changes:
-- '[[Changes/Cline/2025-12-11-11-model-support-changes-in-v3-41-0|11 Model Support
-  changes in v3.41.0]]'
 - '[[Changes/Codex CLI/2025-12-11-introducing-gpt-5-2-our-latest-frontier-model-with-improvements-across-knowledge|Introducing
   gpt-5.2 our latest frontier model with improvements across knowledge…]]'
+- '[[Changes/Dify/2025-12-11-9-model-support-changes-in-1-11-0|9 Model Support changes
+  in 1.11.0]]'
 - '[[Changes/GitHub Copilot CLI/2025-12-11-add-support-for-gpt-5-2|Add support for
   GPT-5.2]]'
 source_release: '[[Releases/Windsurf/windsurf-2025-12-11-v1-12-43-cfbc6ff7|windsurf-2025-12-11-v1-12-43-cfbc6ff7]]'
@@ -77,7 +77,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2025-12-11 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-12-11-add-support-for-gpt-5-2|Add support for GPT-5.2]]
-- Later: 2025-12-13 · Codex CLI · [[Changes/Codex CLI/2025-12-13-5-model-support-changes-in-rust-v0-72-0|5 Model Support changes in rust-v0.72.0]]
+- Later: 2025-12-12 · v0 · [[Changes/v0/2025-12-12-you-can-now-select-from-three-different-models-in-v0|Select from three different models in v0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

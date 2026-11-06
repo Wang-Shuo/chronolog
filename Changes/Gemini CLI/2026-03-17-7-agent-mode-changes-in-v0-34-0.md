@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8364e8621a4f508d79dedb5ee5e366bf236284f6a073ef9e3a3c43566c1bdfbb
+machine_hash: c8ac1d553b40aa008e1bb48cbe2e057961388e676270448f5baa9b6e24dc36bc
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -57,12 +57,12 @@ record:
   title: 7 Agent Mode changes in v0.34.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-16-16-agent-mode-changes-in-rust-v0-115-0|16 Agent
-  Mode changes in rust-v0.115.0]]'
-- '[[Changes/GitHub Copilot CLI/2026-03-16-5-agent-mode-changes-in-v1-0-6|5 Agent
-  Mode changes in v1.0.6]]'
+- '[[Changes/Claude/2026-03-17-control-cowork-from-your-phone-with-a-persistent-thread-research-preview-for-pro|Control
+  Cowork from your phone with a persistent thread (research preview for Pro/Max)]]'
 - '[[Changes/Claude Code/2026-03-17-2-agent-mode-changes-in-v2-1-77|2 Agent Mode changes
   in v2.1.77]]'
+- '[[Changes/Dify/2026-03-17-5-agent-mode-changes-in-1-13-1|5 Agent Mode changes in
+  1.13.1]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-03-17-v0-34-0-github-298158994-68230a41|gemini-cli-2026-03-17-v0-34-0-github-298158994-68230a41]]'
 source_type: github_releases
 theme: agent-mode
@@ -118,8 +118,8 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.34.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-03-17 · Claude Code · [[Changes/Claude Code/2026-03-17-2-agent-mode-changes-in-v2-1-77|2 Agent Mode changes in v2.1.77]]
-- Later: 2026-03-18 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-18-2-agent-mode-changes-in-v1-0-8|2 Agent Mode changes in v1.0.8]]
+- Earlier: 2026-03-17 · Dify · [[Changes/Dify/2026-03-17-5-agent-mode-changes-in-1-13-1|5 Agent Mode changes in 1.13.1]]
+- Later: 2026-03-17 · Ollama · [[Changes/Ollama/2026-03-17-you-can-ask-your-openclaw-to-run-tasks-using-claude-with-subagents|You can ask your OpenClaw to run tasks using claude with subagents]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

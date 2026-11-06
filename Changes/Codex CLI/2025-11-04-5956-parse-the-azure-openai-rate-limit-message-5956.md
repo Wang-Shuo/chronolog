@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: policy
-machine_hash: 22167916b779f94ca3c82f69760801ca76f74df2a94b425af14878776ecb9f87
+machine_hash: 4689ee766f0a7d2870d3819eeb1082042c6af493beae99201685c5a724a7b75c
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,8 +43,8 @@ record:
   title: '#5956 Parse the Azure OpenAI rate limit message (#5956)'
   type: change
 related_changes:
-- '[[Changes/Cline/2025-10-31-5-apps-and-integrations-changes-in-v3-35-0|5 Apps and
-  Integrations changes in v3.35.0]]'
+- '[[Changes/v0/2025-10-31-we-launched-a-new-integration-wizard-for-connecting-integrations-and-running-scr|Integration
+  Wizard]]'
 - '[[Changes/GitHub Copilot CLI/2025-11-03-2-apps-and-integrations-changes-in-v0-0-354|2
   Apps and Integrations changes in v0.0.354]]'
 - '[[Changes/Cline/2025-11-04-3-apps-and-integrations-changes-in-v3-35-1|3 Apps and

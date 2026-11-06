@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 02979b9684ad0165ead1f28153da9f96d7a07f2b2fa9be52e76d71cfc8d9e1c4
+machine_hash: c5f2634098d5a8df4d166af9209d3978865cd72b329e44a0610300b6d79c4372
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,10 +45,10 @@ record:
   title: Model switching from Codex to Opus preserves conversation history correctly
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-01-16-models-removed-use-model-to-see-all-models-or-select-a-model|/models
-  removed. Use /model to see all models or select a model]]'
-- '[[Changes/GitHub Copilot CLI/2026-01-16-3-model-support-changes-in-v0-0-384|3 Model
-  Support changes in v0.0.384]]'
+- '[[Changes/Ollama/2026-01-16-2-model-support-changes-in-v0-14-3|2 Model Support
+  changes in v0.14.3]]'
+- '[[Changes/Ollama/2026-01-16-translategemma-https-ollama-com-library-translategemma-a-new-collection-of-open|TranslateGemma((source
+  link) A new collection…]]'
 - '[[Changes/Windsurf/2026-01-16-improvements-to-gpt-5-2-codex-harness|Improvements
   to GPT-5.2-Codex harness]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-01-19-v0-0-385-github-278028953-d0ad2806|github-copilot-cli-2026-01-19-v0-0-385-github-278028953-d0ad2806]]'

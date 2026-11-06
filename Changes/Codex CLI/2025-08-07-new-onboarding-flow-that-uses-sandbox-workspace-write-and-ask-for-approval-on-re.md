@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 4ce1f6d3447249cf87f703bd225490e1ead7536cb9c10c2fd7a1e2ba899057d5
+machine_hash: fe3bf1b211c1d6a41e2865a6f2cc0dd0d272f7afaa0ede696b577a7489ce4cc7
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -48,10 +48,9 @@ record:
   title: new onboarding flow that uses…
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-08-02-4-safety-and-privacy-changes-in-v0-1-16|4 Safety
-  and Privacy changes in v0.1.16]]'
 - '[[Changes/Gemini CLI/2025-08-05-4-safety-and-privacy-changes-in-v0-1-17|4 Safety
   and Privacy changes in v0.1.17]]'
+- '[[Changes/Claude/2025-08-06-claude-code-security-reviews|Claude Code Security Reviews]]'
 - '[[Changes/Gemini CLI/2025-08-06-4-safety-and-privacy-changes-in-v0-1-18|4 Safety
   and Privacy changes in v0.1.18]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-08-07-rust-v0-15-0-github-238388651-399f3ce5|codex-cli-2025-08-07-rust-v0-15-0-github-238388651-399f3ce5]]'
@@ -83,7 +82,7 @@ type: change
 ## Nearby in Safety and Privacy
 
 - Earlier: 2025-08-06 · Gemini CLI · [[Changes/Gemini CLI/2025-08-06-4-safety-and-privacy-changes-in-v0-1-18|4 Safety and Privacy changes in v0.1.18]]
-- Later: 2025-08-12 · Gemini CLI · [[Changes/Gemini CLI/2025-08-12-2-safety-and-privacy-changes-in-v0-1-19|2 Safety and Privacy changes in v0.1.19]]
+- Later: 2025-08-09 · Open WebUI · [[Changes/Open WebUI/2025-08-09-10-safety-and-privacy-changes-in-v0-6-19|10 Safety and Privacy changes in v0.6.19]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

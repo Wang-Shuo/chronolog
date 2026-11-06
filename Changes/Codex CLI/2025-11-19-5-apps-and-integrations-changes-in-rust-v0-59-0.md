@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c0bf66163ac85ca729a64be44ce32fec83eb6005a7cef9b32aaeb01260b035c9
+machine_hash: 5047bd93b358041e9ec12bee028f256c6332e4c8592e37ae6cee29df3539d742
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -49,9 +49,9 @@ record:
   title: 5 Apps and Integrations changes in rust-v0.59.0
   type: change
 related_changes:
-- '[[Changes/Windsurf/2025-11-13-mcp-improvements|MCP Improvements]]'
 - '[[Changes/Gemini CLI/2025-11-14-3-apps-and-integrations-changes-in-v0-15-0|3 Apps
   and Integrations changes in v0.15.0]]'
+- '[[Changes/Replit/2025-11-16-azure-marketplace-integration|Azure Marketplace integration]]'
 - '[[Changes/Cline/2025-11-18-feat-upgrade-sap-ai-sdk-js-packages-major-version-by-yuvalman-in-https-github-co|feat:
   upgrade sap ai-sdk-js packages major version]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-11-19-rust-v0-59-0-github-263735550-757042e7|codex-cli-2025-11-19-rust-v0-59-0-github-263735550-757042e7]]'

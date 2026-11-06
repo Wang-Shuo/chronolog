@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 870ede58b4e15f63349db6a2025fe0726a12a757ef7befd273c43790d33a33e8
+machine_hash: 170163f282adde3a6e5cabfac42247ac1ba465c9204a97b5c100f0e1326c2194
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -50,10 +50,10 @@ record:
   title: 4 Model Support changes in v0.26.0
   type: change
 related_changes:
-- '[[Changes/Cline/2026-01-27-3-model-support-changes-in-v3-54-0|3 Model Support changes
-  in v3.54.0]]'
 - '[[Changes/Codex CLI/2026-01-27-2-model-support-changes-in-rust-v0-92-0|2 Model
   Support changes in rust-v0.92.0]]'
+- '[[Changes/Ollama/2026-01-27-new-ollama-launch-clawdbot-command-for-launching-clawdbot-using-ollama-models|New
+  ollama launch clawdbot command for launching Clawdbot using Ollama models]]'
 - '[[Changes/Cline/2026-01-28-2-model-support-changes-in-v3-55-0|2 Model Support changes
   in v3.55.0]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-01-28-v0-26-0-github-280517876-a39d31c9|gemini-cli-2026-01-28-v0-26-0-github-280517876-a39d31c9]]'

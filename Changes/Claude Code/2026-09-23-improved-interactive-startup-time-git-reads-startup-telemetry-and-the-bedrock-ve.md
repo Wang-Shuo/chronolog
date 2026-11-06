@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: ca48423d6bdff8e082a0ecc2c7584fb8363ac4420a7dc1b02d676e150855897e
+machine_hash: 8a0daf9991d054aa9bd988963abbe0fa3b87c122cd848506449856c142b1a042
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,12 +46,12 @@ record:
   title: Improved interactive startup time
   type: change
 related_changes:
-- '[[Changes/Cline/2026-09-22-3-model-support-changes-in-v4-1-20|3 Model Support changes
-  in v4.1.20]]'
 - '[[Changes/Codex CLI/2026-09-22-25-model-support-changes-in-rust-v0-156-0|25 Model
   Support changes in rust-v0.156.0]]'
 - '[[Changes/OpenHands/2026-09-22-test-strengthen-llm-profile-configuration-by-aivong-openhands-in-https-github-co|test:
   strengthen LLM profile configuration]]'
+- '[[Changes/v0/2026-09-22-the-updated-model-picker-lets-you-browse-and-search-available-ai-gateway-models|More
+  model choices, with Enterprise owner controls]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-23-v2-1-281-github-394877414-9173ae95|claude-code-2026-09-23-v2-1-281-github-394877414-9173ae95]]'
 source_type: github_releases
 theme: model-support
@@ -90,7 +90,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-09-22 · OpenHands · [[Changes/OpenHands/2026-09-22-test-strengthen-llm-profile-configuration-by-aivong-openhands-in-https-github-co|test: strengthen LLM profile configuration]]
+- Earlier: 2026-09-22 · v0 · [[Changes/v0/2026-09-22-the-updated-model-picker-lets-you-browse-and-search-available-ai-gateway-models|More model choices, with Enterprise owner controls]]
 - Later: 2026-09-23 · Codex CLI · [[Changes/Codex CLI/2026-09-23-2-model-support-changes-in-rust-v0-156-1|2 Model Support changes in rust-v0.156.1]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 02a038940c8fcf80e569aa644580e73d1447becb4b27a6d49f25a1f23d8b7a02
+machine_hash: d023e94183cb4d14da4a95d159f1b8cb6a74da0354fb7fd77cbcf0f9b6a7cd84
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,8 +45,8 @@ record:
   title: 2 Developer Workflow changes in v2.1.236
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-14-added-gitlab-merge-request-url-support-to-the-worktree-flag-and-the-claude-agent|Added
-  GitLab merge request URL support to the --worktree flag…]]'
+- '[[Changes/v0/2026-08-14-4-developer-workflow-changes-in-a-redesigned-sidebar-a-richer|4
+  Developer Workflow changes in A redesigned sidebar, a richer…]]'
 - '[[Changes/Claude Code/2026-08-17-remote-control-effort-picks-made-on-a-phone-or-on-claude-ai-code-now-apply-to-te|Remote
   Control: effort picks made on a phone or on claude.ai/code now apply…]]'
 - '[[Changes/Codex CLI/2026-08-18-5-developer-workflow-changes-in-rust-v0-148-0|5

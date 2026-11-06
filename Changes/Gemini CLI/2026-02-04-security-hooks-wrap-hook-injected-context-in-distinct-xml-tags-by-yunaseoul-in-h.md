@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8d23071ae0cbd6bf00df04774c76564a449687920155b304719a300eba8092f5
+machine_hash: 4bdfe6602f90615504eb9b211d2079ff68e2c05e0a7ebad30349ce652ee3a8eb
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -52,10 +52,10 @@ record:
   title: 'security(hooks): Wrap hook-injected context in distinct XML tags'
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-02-02-2-safety-and-privacy-changes-in-1-3-0|2 Safety and
-  Privacy changes in 1.3.0]]'
 - '[[Changes/Claude Code/2026-02-03-fixed-permission-dialogs-stealing-focus-while-actively-typing|Fixed
   permission dialogs stealing focus while actively typing]]'
+- '[[Changes/Dify/2026-02-03-9-safety-and-privacy-changes-in-1-12-0|9 Safety and Privacy
+  changes in 1.12.0]]'
 - '[[Changes/Codex CLI/2026-02-04-6-safety-and-privacy-changes-in-rust-v0-95-0|6 Safety
   and Privacy changes in rust-v0.95.0]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-02-04-v0-27-0-github-282779403-9d866835|gemini-cli-2026-02-04-v0-27-0-github-282779403-9d866835]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0190f04384d2aee8b5319c56aa233f39d23271c811ec086b362444a9748eebba
+machine_hash: 0e4c40b5a3da299f4f9c31d1ee8ff9b6d5800eda99a341ba855ab0709961abfd
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -45,8 +45,8 @@ record:
   title: 3 Account and Access changes in rust-v0.45.0
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-09-17-refactor-authentication-components-and-hooks-by-scidomino-in-https-github-com-go|Refactor
-  Authentication Components and Hooks]]'
+- '[[Changes/Ollama/2025-09-26-ollama-push-will-now-provide-a-url-to-follow-to-sign-in|ollama
+  push will now provide a URL to follow to sign in]]'
 - '[[Changes/Cursor/2025-09-29-1-7-41-token-sync-improvements-for-authentication|1.7.41:
   Token sync improvements for authentication]]'
 - '[[Changes/Codex CLI/2025-10-03-4568-fix-hang-on-second-oauth-login-attempt|♯4568
@@ -90,7 +90,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.45.0
 ## Nearby in Account and Access
 
 - Earlier: 2025-10-03 · Codex CLI · [[Changes/Codex CLI/2025-10-03-4568-fix-hang-on-second-oauth-login-attempt|♯4568 Fix hang on second oauth login attempt]]
-- Later: 2025-10-07 · Gemini CLI · [[Changes/Gemini CLI/2025-10-07-for-dynamic-client-registration-use-registration-endpoint-in-config-if-available|For dynamic client registration - use registration endpoint in config if available…]]
+- Later: 2025-10-06 · Lovable · [[Changes/Lovable/2025-10-06-lovable-cloud|Lovable Cloud]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

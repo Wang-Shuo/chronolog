@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: accessibility-localization
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5be24f2b8441d6a3a912ce921a1e453b30ad77589e8de5ce056baca928a63160
+machine_hash: 00d05d11242c866f11744982c3f029cd6046d8fb60d95ef7a11daddcb58902b7
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -41,10 +41,9 @@ record:
   title: Improve color contrast in GitHub themes to meet WCAG AA accessibility standards
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-17-improve-color-contrast-across-cli-themes-for-better-readability-and-accessibilit|Improve
-  color contrast across CLI themes for better readability and accessibility]]'
-- '[[Changes/Codex CLI/2026-05-07-tui-startup-and-accessibility-were-tightened-by-bounding-terminal-probes-clearin|TUI
-  startup and accessibility were tightened by bounding terminal probes, clearing…]]'
+- '[[Changes/Lovable/2026-05-18-workspace-skills|Workspace skills]]'
+- '[[Changes/Open WebUI/2026-06-01-keyboard-and-screen-reader-access-to-menus-the-integrations-more-options-and-use|♿
+  Keyboard and screen reader access to menus. The integrations, more-options…]]'
 - '[[Changes/Claude Code/2026-06-12-session-titles-are-now-generated-in-the-language-of-your-conversation-set-the-la|Session
   titles are now generated in the language of your conversation…]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-06-13-v1-0-62-github-339039020-f6ff7e5e|github-copilot-cli-2026-06-13-v1-0-62-github-339039020-f6ff7e5e]]'

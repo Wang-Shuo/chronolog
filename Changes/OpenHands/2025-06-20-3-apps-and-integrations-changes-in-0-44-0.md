@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 25b7469ea9ebadf6a1642a07654af87bf1e3c7192290522bc0be7d8b080584c5
+machine_hash: c843916ea71f7fed7d0553b2a8f663e86bc2a0cfd1ff24874f11af99fdecda9c
 product: openhands
 product_name: OpenHands
 record:
@@ -48,12 +48,11 @@ record:
   title: 3 Apps and Integrations changes in 0.44.0
   type: change
 related_changes:
-- '[[Changes/Cline/2025-06-10-add-collapsible-mcp-response-panels-to-keep-conversations-focused-on-the-main-ai|Add
-  collapsible MCP response panels to keep conversations focused on the main AI…]]'
-- '[[Changes/Cline/2025-06-12-2-apps-and-integrations-changes-in-v3-17-13|2 Apps and
-  Integrations changes in v3.17.13]]'
-- '[[Changes/Cursor/2025-06-12-agents-understand-context-6b73fc|Agents understand
-  context]]'
+- "[[Changes/Open WebUI/2025-06-16-ldap-group-synchronization-experimental-automatically-sync-user-groups-from-your|\U0001F5C2️
+  LDAP Group Synchronization (Experimental)]]"
+- '[[Changes/ElevenLabs/2025-06-17-workspaces|Workspaces]]'
+- '[[Changes/ElevenLabs/2025-06-17-agents-platform-mcp-servers|Agents Platform - MCP
+  Servers]]'
 source_release: '[[Releases/OpenHands/openhands-2025-06-20-0-44-0-github-226788383-62d9d16f|openhands-2025-06-20-0-44-0-github-226788383-62d9d16f]]'
 source_type: github_releases
 theme: apps-integrations
@@ -92,7 +91,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/0.44.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-06-12 · Cursor · [[Changes/Cursor/2025-06-12-agents-understand-context-6b73fc|Agents understand context]]
+- Earlier: 2025-06-17 · ElevenLabs · [[Changes/ElevenLabs/2025-06-17-agents-platform-mcp-servers|Agents Platform - MCP Servers]]
 - Later: 2025-06-20 · OpenHands · [[Changes/OpenHands/2025-06-20-slack-integration-beta-with-cloud-openhands-malhotra5-in-https-github-com-all-ha|Slack Integration (Beta) with Cloud OpenHands @malhotra5…]]
 <!-- chronolog:end -->
 

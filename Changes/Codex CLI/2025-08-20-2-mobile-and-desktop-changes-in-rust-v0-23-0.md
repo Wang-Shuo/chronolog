@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ba7eb6da6d6023adca96dbfbf8a36786bba8ccf3a60061d922dbc6e651111b9e
+machine_hash: 87bbb8187d801be7eb59b09cfe0d1504b35c76365d208f3acd4acf97a18301f5
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,12 +44,12 @@ record:
   title: 2 Mobile and Desktop changes in rust-v0.23.0
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-08-06-2-mobile-and-desktop-changes-in-v0-1-18|2 Mobile
-  and Desktop changes in v0.1.18]]'
-- '[[Changes/Codex CLI/2025-08-09-https-github-com-openai-codex-pull-2019-fixes-two-things-for-windows|(source
-  link) fixes two things for Windows]]'
+- '[[Changes/Open WebUI/2025-08-09-2-mobile-and-desktop-changes-in-v0-6-19|2 Mobile
+  and Desktop changes in v0.6.19]]'
 - '[[Changes/Gemini CLI/2025-08-14-2-mobile-and-desktop-changes-in-v0-1-21|2 Mobile
   and Desktop changes in v0.1.21]]'
+- '[[Changes/Ollama/2025-08-15-reduced-size-of-installation-on-windows-and-linux|Reduced
+  size of installation on Windows and Linux]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-08-20-rust-v0-23-0-github-241091696-29f8dece|codex-cli-2025-08-20-rust-v0-23-0-github-241091696-29f8dece]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -91,8 +91,8 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.23.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2025-08-14 · Gemini CLI · [[Changes/Gemini CLI/2025-08-14-2-mobile-and-desktop-changes-in-v0-1-21|2 Mobile and Desktop changes in v0.1.21]]
-- Later: 2025-08-22 · ChatGPT · [[Changes/ChatGPT/2025-08-22-this-feature-will-initially-only-be-available-on-the-chatgpt-website-and-windows|This feature will initially only be available on the ChatGPT website and Windows app]]
+- Earlier: 2025-08-15 · Ollama · [[Changes/Ollama/2025-08-15-reduced-size-of-installation-on-windows-and-linux|Reduced size of installation on Windows and Linux]]
+- Later: 2025-08-21 · Open WebUI · [[Changes/Open WebUI/2025-08-21-3-mobile-and-desktop-changes-in-v0-6-23|3 Mobile and Desktop changes in v0.6.23]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

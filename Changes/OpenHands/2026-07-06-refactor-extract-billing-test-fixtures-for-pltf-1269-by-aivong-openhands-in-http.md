@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: a24df0862640d8e62ac904d4853c2f971ffd8141310cdc7d6d436bb7a45d21bb
+machine_hash: a58016e333809e1ebf30e7f4dfa43b02a42be0ee8d3e7c2170a2846ae4907c9c
 product: openhands
 product_name: OpenHands
 record:
@@ -42,12 +42,9 @@ record:
   title: 'refactor: extract billing test fixtures for PLTF-1269'
   type: change
 related_changes:
-- '[[Changes/Cline/2026-06-26-add-clinepass-to-the-vs-code-extension-including-onboarding-provider-selection-s|Add
-  ClinePass to the VS Code extension, including onboarding, provider selection…]]'
-- '[[Changes/GitHub Copilot CLI/2026-06-30-configure-subagent-concurrency-and-depth-limits-in-settings-usage-based-billing|Configure
-  subagent concurrency and depth limits in /settings (usage-based billing users)]]'
-- '[[Changes/GitHub Copilot CLI/2026-06-30-require-session-limits-to-be-at-least-30-ai-credits|Require
-  session limits to be at least 30 AI credits]]'
+- '[[Changes/ElevenLabs/2026-07-06-workspaces|Workspaces]]'
+- '[[Changes/ElevenLabs/2026-07-06-python-sdk|Python SDK]]'
+- '[[Changes/ElevenLabs/2026-07-06-javascript-sdk|JavaScript SDK]]'
 source_release: '[[Releases/OpenHands/openhands-2026-07-06-1-9-0-github-349633843-8010776a|openhands-2026-07-06-1-9-0-github-349633843-8010776a]]'
 source_type: github_releases
 theme: pricing-model
@@ -87,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-06-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-30-require-session-limits-to-be-at-least-30-ai-credits|Require session limits to be at least 30 AI credits]]
+- Earlier: 2026-07-06 · ElevenLabs · [[Changes/ElevenLabs/2026-07-06-javascript-sdk|JavaScript SDK]]
 - Later: 2026-07-07 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-07-improve-chronicle-cost-tips-with-more-precise-evidence-backed-recommendations|Improve /chronicle cost-tips with more precise evidence-backed recommendations]]
 <!-- chronolog:end -->
 

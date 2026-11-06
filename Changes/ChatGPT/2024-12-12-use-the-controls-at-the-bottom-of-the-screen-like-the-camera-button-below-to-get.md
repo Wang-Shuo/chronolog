@@ -5,20 +5,20 @@ description: 'ChatGPT · 2024-12-12 · Multimodal Input: Use the controls at the
   of the screen, like the camera button below, to get started. You can find screen
   share…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-09-25-you-can-now-show-chatgpt-one-or-more-images-troubleshoot-why-your-grill-won-t-st-e42bd6|Image
-    input will be generally available to Plus users on all platforms]]'
+  first_in_tracked: '[[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add
+    video to cn readme]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 444
+  lag_days: 450
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: bd864b4c98d97ffcdbd0344d736e4fc14756f493bd0ce50c99be0bb0d8d1b473
+machine_hash: 286c07dc6faa68ba38534220482cf02d9d12c9bad68e05d5202825203e51e1fb
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -57,11 +57,12 @@ record:
     to get started
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-11-27-image-support-in-chat-you-can-now-drag-and-drop-images-into-the-chat-to-send-the|Image
-  Support in Chat]]'
-- '[[Changes/Aider/2024-04-21-4-turbo-vision|--4-turbo-vision]]'
-- '[[Changes/OpenHands/2024-09-30-vision-and-prompt-caching-fixes-by-enyst-in-https-github-com-all-hands-ai-openha|Vision
-  and prompt caching fixes]]'
+- "[[Changes/Open WebUI/2024-11-19-youtube-video-attachments-fixed-issues-preventing-proper-loading-and-attachment|\U0001F3A5
+  YouTube Video Attachments]]"
+- '[[Changes/Dify/2024-11-25-support-video-proxy-and-ted-embedding-by-taowang1993-in-https-github-com-langgen|Support
+  Video Proxy and TED Embedding]]'
+- '[[Changes/Dify/2024-11-26-add-grok-vision-beta-to-xai-update-grok-beta-features-by-taowang1993-in-https-gi|Add
+  grok-vision-beta to xAI + Update grok-beta Features]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2024-12-12-santa-voice-and-video-and-screen-share-in-voice-chats-89eb483d|chatgpt-2024-12-12-santa-voice-and-video-and-screen-share-in-voice-chats-89eb483d]]'
 source_type: chatgpt_changelog
 theme: multimodal
@@ -92,14 +93,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Multimodal Input
 
-- Earlier: 2024-09-30 · OpenHands · [[Changes/OpenHands/2024-09-30-vision-and-prompt-caching-fixes-by-enyst-in-https-github-com-all-hands-ai-openha|Vision and prompt caching fixes]]
-- Later: 2025-07-11 · Gemini CLI · [[Changes/Gemini CLI/2025-07-11-feature-commands-refactor-slash-command-vision-for-the-future-by-abhipatel12-in|feature(commands) - Refactor Slash Command + Vision For the Future]]
+- Earlier: 2024-11-26 · Dify · [[Changes/Dify/2024-11-26-add-grok-vision-beta-to-xai-update-grok-beta-features-by-taowang1993-in-https-gi|Add grok-vision-beta to xAI + Update grok-beta Features]]
+- Later: 2024-12-16 · Dify · [[Changes/Dify/2024-12-16-feat-add-grok-2-1212-and-grok-2-vision-1212-by-hjlarry-in-https-github-com-langg|feat: add grok-2-1212 and grok-2-vision-1212]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-25 · ChatGPT · [[Changes/ChatGPT/2023-09-25-you-can-now-show-chatgpt-one-or-more-images-troubleshoot-why-your-grill-won-t-st-e42bd6|Image input will be generally available to Plus users on all platforms]]
+- Earliest same-theme entry in the tracked set: 2023-09-19 · Dify · [[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add video to cn readme]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

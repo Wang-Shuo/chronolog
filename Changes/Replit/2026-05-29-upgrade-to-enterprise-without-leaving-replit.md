@@ -1,0 +1,103 @@
+---
+card_id: replit-2026-05-29-537e4f
+date: '2026-05-29'
+description: 'Replit · 2026-05-29 · Enterprise and Administration: You can now upgrade
+  to Replit Enterprise from any plan, Free, Core, or Pro, without leaving the product
+  or…'
+diffusion:
+  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
+    for Google Workspace accounts]]'
+  inference: No adoption, equivalence, or causation claim.
+  lag_days: 1120
+  relation: same-theme-chronology
+  role: later-observed
+  scope: tracked-products-only
+  theme: enterprise-admin
+  tracked_products_count: 20
+evolves_from: []
+extractor_version: fallback-v5
+impact: significant
+kind: launch
+machine_hash: 009d0d9cc57991d59029f8c16f43e57fe38e570a43c9fc388477f8c1a4b937b3
+product: replit
+product_name: Replit
+record:
+  ai_generated: true
+  card_id: replit-2026-05-29-537e4f
+  comparison: ''
+  confidence: low
+  date: '2026-05-29'
+  description: 'Replit — Replit updates — 2026-05-29: You can now upgrade to Replit
+    Enterprise from any plan, Free, Core, or Pro, without leaving the product or contacting
+    sales first. If you have collaborative workspaces, they move into your new Enterprise
+    organization automatically when you complete checkout. Your published apps stay
+    live throughout, with no downtime.'
+  evidence:
+  - quote: You can now upgrade to Replit Enterprise from any plan, Free, Core, or
+      Pro, without leaving the product or contacting sales first. If you have collaborative
+      workspaces, they move into your new Enterprise organization automatically when
+      you complete checkout. Your published apps stay live throughout, with no downtime.
+    source_release: https://docs.replit.com/updates/2026/05/29/changelog
+  extractor_version: fallback-v5
+  impact: significant
+  kind: launch
+  product: replit
+  product_name: Replit
+  slug: upgrade-to-enterprise-without-leaving-replit
+  source_release: replit-2026-05-29-2026-05-29-e3cfe151
+  source_type: replit_changelog
+  theme: enterprise-admin
+  title: Upgrade to Enterprise without leaving Replit
+  type: change
+related_changes:
+- '[[Changes/Lovable/2026-05-21-branded-app-urls|Branded app URLs]]'
+- '[[Changes/Codex CLI/2026-05-26-23736-add-new-enterprise-requirement-gate-adams-oai|♯23736
+  Add new enterprise requirement gate @adams-oai]]'
+- '[[Changes/Replit/2026-05-29-teams-and-enterprise|Teams and Enterprise]]'
+source_release: '[[Releases/Replit/replit-2026-05-29-2026-05-29-e3cfe151|replit-2026-05-29-2026-05-29-e3cfe151]]'
+source_type: replit_changelog
+theme: enterprise-admin
+title: Upgrade to Enterprise without leaving Replit
+type: change
+---
+
+<!-- chronolog:begin region="header" -->
+# Upgrade to Enterprise without leaving Replit
+
+**Replit** · 2026-05-29 · [[Themes/enterprise-admin|Enterprise and Administration]] · Launch · [Official source](https://docs.replit.com/updates/2026/05/29/changelog) · from [[Releases/Replit/replit-2026-05-29-2026-05-29-e3cfe151|Replit updates — 2026-05-29]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="evidence" -->
+> You can now upgrade to Replit Enterprise from any plan, Free, Core, or Pro, without leaving the product or contacting sales first. If you have collaborative workspaces, they move into your new Enterprise organization automatically when you complete checkout. Your published apps stay live throughout, with no downtime.
+>
+> Source: https://docs.replit.com/updates/2026/05/29/changelog
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Replit/2026-05-29-teams-and-enterprise|Teams and Enterprise]] · Enterprise and Administration
+- [[Changes/Replit/2026-05-29-agent|Agent]] · Agent Mode
+- [[Changes/Replit/2026-05-29-agent-can-generate-music-sound-effects-and-speech|Agent can generate music, sound effects, and speech]] · Agent Mode
+- [[Changes/Replit/2026-05-29-generate-media-right-on-canvas|Generate media right on Canvas]] · Files and Data
+- [[Changes/Replit/2026-05-29-billing|Billing]] · Pricing Model
+- [[Changes/Replit/2026-05-29-generate-3d-models-with-the-tripo3d-connector|Generate 3D models with the Tripo3D connector]] · Pricing Model
+- [[Changes/Replit/2026-05-29-integrations|Integrations]] · Apps and Integrations
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Enterprise and Administration
+
+- Earlier: 2026-05-26 · Codex CLI · [[Changes/Codex CLI/2026-05-26-23736-add-new-enterprise-requirement-gate-adams-oai|♯23736 Add new enterprise requirement gate @adams-oai]]
+- Later: 2026-06-01 · Open WebUI · [[Changes/Open WebUI/2026-06-01-2-enterprise-and-administration-changes-in-v0-9-6|2 Enterprise and Administration changes in v0.9.6]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20replit-2026-05-29-537e4f&body=Card%3A%20Changes%2FReplit%2F2026-05-29-upgrade-to-enterprise-without-leaving-replit.md%0ACard%20ID%3A%20replit-2026-05-29-537e4f%0ASource%3A%20https%3A%2F%2Fdocs.replit.com%2Fupdates%2F2026%2F05%2F29%2Fchangelog%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

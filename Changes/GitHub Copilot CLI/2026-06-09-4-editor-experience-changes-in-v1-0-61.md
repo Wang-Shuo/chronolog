@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: db2aedd6f3f768bedf3a1f3eabd42af1219d55434be4519bb1f7264dc5c6ac30
+machine_hash: b2f58ba93f375c495d315668c474826e48432d60d352a39fa6927153d12c680b
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -50,10 +50,10 @@ record:
   title: 4 Editor Experience changes in v1.0.61
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-08-background-sessions-now-preserve-ide-chrome-bare-remote-control-and-other-flags|Background
-  sessions now preserve --ide, --chrome, --bare, --remote-control…]]'
-- '[[Changes/Codex CLI/2026-06-08-3-editor-experience-changes-in-rust-v0-138-0|3 Editor
-  Experience changes in rust-v0.138.0]]'
+- '[[Changes/Lovable/2026-06-08-markdown-preview-in-the-code-editor|Markdown preview
+  in the code editor]]'
+- '[[Changes/v0/2026-06-08-v0-can-now-write-sql-for-you-in-db-studio-describe-the-query-you-want-and-v0-dra|v0
+  can now write SQL for you in DB Studio]]'
 - '[[Changes/Codex CLI/2026-06-09-4-editor-experience-changes-in-rust-v0-139-0|4 Editor
   Experience changes in rust-v0.139.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-06-09-v1-0-61-github-336905979-4d0a69f2|github-copilot-cli-2026-06-09-v1-0-61-github-336905979-4d0a69f2]]'

@@ -4,20 +4,20 @@ date: '2026-06-01'
 description: 'GitHub Copilot CLI · 2026-06-01 · Files and Data: Canvas providers can
   return file:// URLs in open results for local file previews'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code
-    interpreter is now rolling out in beta on web]]'
+  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
+    Files and Data changes in 0.2.2]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1061
+  lag_days: 1103
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6af2bb719a407fced139492bd98afa5bf23b445419f45b46a77465970d0a319e
+machine_hash: e19154e83cfabaa7d71754ba54ca2d6fa32b5b05bccf66db9d8750e7ffddbe43
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -42,10 +42,10 @@ record:
   title: Canvas providers can return file:// URLs in open results for local file previews
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-05-15-we-re-starting-to-roll-out-a-new-personal-finance-experience-in-chatgpt-pro-user|Personal
-  finances in ChatGPT]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-28-canvas-tools-with-optional-object-input-schemas-open-correctly-without-validatio|Canvas
   tools with optional object input schemas open correctly without validation errors]]'
+- '[[Changes/Replit/2026-05-29-generate-media-right-on-canvas|Generate media right
+  on Canvas]]'
 - '[[Changes/Codex CLI/2026-06-01-25110-move-config-document-helpers-into-their-own-module-jif-oai|♯25110
   Move config document helpers into their own module @jif-oai]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-06-01-v1-0-57-github-332702409-1dd8346d|github-copilot-cli-2026-06-01-v1-0-57-github-332702409-1dd8346d]]'
@@ -85,13 +85,13 @@ type: change
 ## Nearby in Files and Data
 
 - Earlier: 2026-06-01 · Codex CLI · [[Changes/Codex CLI/2026-06-01-25110-move-config-document-helpers-into-their-own-module-jif-oai|♯25110 Move config document helpers into their own module @jif-oai]]
-- Later: 2026-06-04 · Codex CLI · [[Changes/Codex CLI/2026-06-04-25682-codex-document-out-of-line-test-module-convention-anp-oai|♯25682 codex document out-of-line test module convention @anp-oai]]
+- Later: 2026-06-01 · Open WebUI · [[Changes/Open WebUI/2026-06-01-5-files-and-data-changes-in-v0-9-6|5 Files and Data changes in v0.9.6]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-06 · ChatGPT · [[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code interpreter is now rolling out in beta on web]]
+- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

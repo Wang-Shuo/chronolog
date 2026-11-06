@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: f3e8a9eae06218ff5bc7475a63742bbb899a7526de06f869e95df0231e5375d0
+machine_hash: 35585aa2990e33acd80f0b2320e0847865d6f9bff2ad927e28cb491695f4f3a3
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
     another…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-05-18-4-model-support-changes-in-rust-v0-131-0|4 Model
-  Support changes in rust-v0.131.0]]'
 - '[[Changes/Cursor/2026-05-18-composer-2-5-includes-double-usage-for-the-first-week-see-our-model-docs-for-ful|Composer
   2.5 includes double usage for the first week]]'
 - '[[Changes/Cursor/2026-05-18-it-s-a-substantial-improvement-in-intelligence-and-behavior-over-composer-2-it-i|It''s
   a substantial improvement in intelligence and behavior over Composer 2]]'
+- '[[Changes/Lovable/2026-05-18-lovable-ai-models-for-app-features|Lovable AI models
+  for app features]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-19-v2-1-144-github-324524751-1469637a|claude-code-2026-05-19-v2-1-144-github-324524751-1469637a]]'
 source_type: github_releases
 theme: model-support
@@ -89,7 +89,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-05-18 · Cursor · [[Changes/Cursor/2026-05-18-it-s-a-substantial-improvement-in-intelligence-and-behavior-over-composer-2-it-i|It's a substantial improvement in intelligence and behavior over Composer 2]]
+- Earlier: 2026-05-18 · Lovable · [[Changes/Lovable/2026-05-18-lovable-ai-models-for-app-features|Lovable AI models for app features]]
 - Later: 2026-05-19 · Cline · [[Changes/Cline/2026-05-19-add-sap-ai-core-support-for-additional-hosted-models|Add SAP AI Core support for additional hosted models]]
 <!-- chronolog:end -->
 

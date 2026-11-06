@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 32168c1d0145b2ce1ee2689c2fdadc7fe33d55141da4dd05b65ea7a45cd4d084
+machine_hash: 05f818291eaf1e1ed9d736e0d34c3c88dd63b9354e2493440c05ddbc240b1e3c
 product: windsurf
 product_name: Windsurf
 record:
@@ -41,12 +41,11 @@ record:
   title: Made MCP registry parsing more tolerant of old and inconsistent schemas
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-06-17-monitoring-tasks-can-search-the-web-and-check-connected-apps-for-changes-and-not|Monitoring
-  tasks can search the web and check connected apps for changes and notify…]]'
-- '[[Changes/Claude Code/2026-06-17-added-config-key-value-syntax-to-set-any-setting-from-the-prompt-e-g-config-thin|Added
-  /config key=value syntax to set any setting from the prompt…]]'
+- '[[Changes/Lovable/2026-06-17-app-connector-lightspeed|App connector: Lightspeed]]'
 - '[[Changes/Codex CLI/2026-06-18-17-apps-and-integrations-changes-in-rust-v0-141-0|17
   Apps and Integrations changes in rust-v0.141.0]]'
+- '[[Changes/Lovable/2026-06-18-inspect-your-app-s-ai-activity|Inspect your app''s
+  AI activity]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-06-18-v3-2-23-68d9cc8e|windsurf-2026-06-18-v3-2-23-68d9cc8e]]'
 source_type: windsurf_changelog
 theme: apps-integrations
@@ -73,7 +72,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-06-18 · Codex CLI · [[Changes/Codex CLI/2026-06-18-17-apps-and-integrations-changes-in-rust-v0-141-0|17 Apps and Integrations changes in rust-v0.141.0]]
+- Earlier: 2026-06-18 · Lovable · [[Changes/Lovable/2026-06-18-inspect-your-app-s-ai-activity|Inspect your app's AI activity]]
 - Later: 2026-06-19 · Claude Code · [[Changes/Claude Code/2026-06-19-added-attribution-sessionurl-setting-to-omit-the-claude-ai-session-link-from-com|Added attribution.sessionUrl setting to omit the claude.ai session link…]]
 <!-- chronolog:end -->
 

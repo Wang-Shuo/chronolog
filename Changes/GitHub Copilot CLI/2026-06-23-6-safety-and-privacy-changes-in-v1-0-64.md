@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e39c9be2968c3e1783c221d81fde03f0689be43146c74beee3336da43da27bb6
+machine_hash: 8628188665746b2c2610b2501a903376ae3a15271ebef362de5366490f6edc88
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -115,7 +115,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.64
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-06-23 · Claude Code · [[Changes/Claude Code/2026-06-23-2-safety-and-privacy-changes-in-v2-1-187|2 Safety and Privacy changes in v2.1.187]]
-- Later: 2026-06-24 · Claude Code · [[Changes/Claude Code/2026-06-24-improved-sandbox-network-permission-dialog-hosts-you-allow-with-yes-are-now-reme|Improved sandbox network permission dialog]]
+- Later: 2026-06-23 · Lovable · [[Changes/Lovable/2026-06-23-restrict-external-collaborators-without-enforcing-sso|Restrict external collaborators without enforcing SSO]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

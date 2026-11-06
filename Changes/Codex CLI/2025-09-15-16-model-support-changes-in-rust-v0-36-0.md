@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9ee1bb6c3f24accecc46c1b44dec90547758c930cf19940651b91c1fb7a6da5b
+machine_hash: 915365e55c06f5dc847a2e2f2911a88bb8a166a7713ce4b4a0ca81959b0b7ab4
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -71,8 +71,8 @@ record:
   title: 16 Model Support changes in rust-v0.36.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-09-10-2799-persist-model-reasoning-changes-2799|♯2799
-  Persist model & reasoning changes (♯2799)]]'
+- "[[Changes/Open WebUI/2025-09-10-the-command-for-model-selection-now-supports-real-time-search-and-filtering-impr|\U0001F50D
+  The \"@\" command for model selection now supports real-time search and filtering…]]"
 - '[[Changes/Cline/2025-09-11-5-model-support-changes-in-v3-28-0|5 Model Support changes
   in v3.28.0]]'
 - '[[Changes/Cline/2025-09-12-requesty-use-base-url-to-get-models-and-api-keys|Requesty:

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4077d254c470aa5d799182ffb418bab49aef0d004fcadd1bd9a28cba99fff9e9
+machine_hash: ca3217598b7e873031d21eaadc2081bdb35829570666c8c6e40146b47ebcb284
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -57,10 +57,10 @@ record:
   title: 6 Apps and Integrations changes in v1.0.40
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-04-29-we-re-introducing-the-cursor-sdk-so-you-can-build-agents-with-the-same-runtime-h|Cursor
-  introduces the Cursor SDK so you can build agents with the same runtime…]]'
 - '[[Changes/Cursor/2026-04-29-run-npm-install-cursor-sdk-to-get-started-you-can-also-use-cursor-s-native-sdk-s-76fb76|Run
   npm install @cursor/sdk to get started]]'
+- '[[Changes/Dify/2026-04-29-48-apps-and-integrations-changes-in-1-14-0|48 Apps and
+  Integrations changes in 1.14.0]]'
 - '[[Changes/Codex CLI/2026-04-30-37-apps-and-integrations-changes-in-rust-v0-128-0|37
   Apps and Integrations changes in rust-v0.128.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-05-01-v1-0-40-github-316385532-9c4aec71|github-copilot-cli-2026-05-01-v1-0-40-github-316385532-9c4aec71]]'

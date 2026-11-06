@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 0d5accf365b1355f4f006082eb5242f4d5c9a06ac9ea5368d2539160b6ca208c
+machine_hash: 3b6c189feaac96a99335eded98c7d9e81a7f175d18108a4732b11c44c31a2204
 product: cline
 product_name: Cline
 record:
@@ -55,10 +55,10 @@ record:
     improved…
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-06-12-3-reliability-and-performance-changes-in-1-1|3 Reliability
-  and Performance changes in 1.1]]'
-- '[[Changes/ChatGPT/2025-06-13-improved-search-capability-and-instruction-following-594de0|Improved
-  search capability and instruction following]]'
+- '[[Changes/Open WebUI/2025-06-16-4-reliability-and-performance-changes-in-v0-6-15|4
+  Reliability and Performance changes in v0.6.15]]'
+- '[[Changes/Replit/2025-06-20-python-run-performance-improvements|Python run performance
+  improvements]]'
 - '[[Changes/OpenHands/2025-06-24-enabled-users-to-provide-feedback-on-agent-performance-even-when-the-agent-encou|Enabled
   users to provide feedback on agent performance even when the agent…]]'
 source_release: '[[Releases/Cline/cline-2025-06-26-v3-18-0-github-227867988-139993ff|cline-2025-06-26-v3-18-0-github-227867988-139993ff]]'

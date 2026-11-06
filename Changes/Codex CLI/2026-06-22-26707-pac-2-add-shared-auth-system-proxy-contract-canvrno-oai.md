@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c394021fa897ef0d9d7e7d62466451496a351cf5e23faa6e8528fc77a2cae8ec
+machine_hash: 793413cbd6d72f7cd0191a90269ce8bb6902ac17edd7da7ce209e170d7a64122
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,12 +42,11 @@ record:
   title: '#26707 PAC 2 - Add shared auth system proxy contract @canvrno-oai'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-05-show-the-mission-control-sharing-status-of-synced-sessions-in-the-session-info-v|Show
-  the Mission Control sharing status of synced sessions in the /session info view]]'
-- '[[Changes/Codex CLI/2026-06-15-27245-image-add-shared-data-url-preparation-utilities-fjord-oai|♯27245
-  image: add shared data URL preparation utilities @fjord-oai]]'
+- '[[Changes/Lovable/2026-06-16-cleaner-preview-links|Cleaner preview links]]'
 - '[[Changes/ChatGPT/2026-06-18-world-cup-updates-chatgpt-can-now-help-you-follow-the-tournament-in-a-more-conve|World
   Cup updates]]'
+- '[[Changes/v0/2026-06-19-4-collaboration-changes-in-annotations-mode-in-form-questions|4
+  Collaboration changes in Annotations mode, in-form questions…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-06-22-rust-v0-142-0-github-343189954-a218ab4e|codex-cli-2026-06-22-rust-v0-142-0-github-343189954-a218ab4e]]'
 source_type: github_releases
 theme: collaboration
@@ -92,7 +91,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-06-18 · ChatGPT · [[Changes/ChatGPT/2026-06-18-world-cup-updates-chatgpt-can-now-help-you-follow-the-tournament-in-a-more-conve|World Cup updates]]
+- Earlier: 2026-06-19 · v0 · [[Changes/v0/2026-06-19-4-collaboration-changes-in-annotations-mode-in-form-questions|4 Collaboration changes in Annotations mode, in-form questions…]]
 - Later: 2026-06-22 · Cursor · [[Changes/Cursor/2026-06-22-new-team-marketplaces|New Team Marketplaces]]
 <!-- chronolog:end -->
 

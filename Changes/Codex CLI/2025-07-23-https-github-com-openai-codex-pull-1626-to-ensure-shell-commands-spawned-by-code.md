@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d03d23f43da32b193b2cce0903a4c0bd57d54384237d5c6db600a44fb4fa0e47
+machine_hash: f83ad77cd6f091008f9f3183f91e8bcb01b54efd14afbe291566bea4d076e942
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,10 +44,10 @@ record:
     by Codex…
   type: change
 related_changes:
-- '[[Changes/Cline/2025-07-18-standalone-terminal-manager-remove-other-vscode-impls-now-covered-by-host-bridge|Standalone
-  Terminal Manager & remove other vscode-impls (now covered by host bridge)]]'
 - '[[Changes/Gemini CLI/2025-07-19-12-developer-workflow-changes-in-v0-1-13|12 Developer
   Workflow changes in v0.1.13]]'
+- "[[Changes/Open WebUI/2025-07-19-enhanced-reasoning-tag-processing-improved-and-expanded-reasoning-tag-parsing-to|\U0001F9E0
+  Enhanced Reasoning Tag Processing]]"
 - '[[Changes/Cline/2025-07-22-refactor-git-commit-message-generation-as-a-module-by-abeatrix-in-https-github-c|Refactor:
   Git commit message generation as a module]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-07-23-rust-v0-9-0-github-234402892-04b1f79c|codex-cli-2025-07-23-rust-v0-9-0-github-234402892-04b1f79c]]'
@@ -80,7 +80,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2025-07-22 · Cline · [[Changes/Cline/2025-07-22-refactor-git-commit-message-generation-as-a-module-by-abeatrix-in-https-github-c|Refactor: Git commit message generation as a module]]
-- Later: 2025-07-24 · Codex CLI · [[Changes/Codex CLI/2025-07-24-we-now-record-some-git-state-in-the-jsonl-log-due-to-vishnu-oai-https-github-com|We now record some Git state in the .jsonl log due to @vishnu-oai…]]
+- Later: 2025-07-23 · Dify · [[Changes/Dify/2025-07-23-minor-typo-fix-remove-debug-code-and-fix-typo-by-neatguycoding-in-https-github-c|minor typo fix: remove debug code and fix typo]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7f46bef1bacef0f5529dcfe41fa4d7395ad2c25026bbc9a2829410918d23d61e
+machine_hash: 8c1a3bebb66f0932e15c1d09bc2b10cf77fbb21e166c4efa51d1f777f3867706
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -42,8 +42,8 @@ record:
   title: Add /security-review slash command to review code changes for security…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-19-fixed-skill-tool-failing-with-permission-error-in-headless-mode-regression-in-v2|Fixed
-  Skill tool failing with permission error in headless mode (regression in v2.1.141)]]'
+- '[[Changes/Dify/2026-05-19-2-safety-and-privacy-changes-in-1-14-2|2 Safety and Privacy
+  changes in 1.14.2]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-19-memory-permission-prompts-now-name-who-can-see-a-stored-memory-user-scope-or-the|Memory
   permission prompts now name who can see a stored memory]]'
 - '[[Changes/Codex CLI/2026-05-20-5-safety-and-privacy-changes-in-rust-v0-132-0|5
@@ -87,7 +87,7 @@ type: change
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-05-20 · Codex CLI · [[Changes/Codex CLI/2026-05-20-5-safety-and-privacy-changes-in-rust-v0-132-0|5 Safety and Privacy changes in rust-v0.132.0]]
-- Later: 2026-05-21 · Codex CLI · [[Changes/Codex CLI/2026-05-21-17-safety-and-privacy-changes-in-rust-v0-133-0|17 Safety and Privacy changes in rust-v0.133.0]]
+- Later: 2026-05-21 · Claude · [[Changes/Claude/2026-05-21-claude-now-works-with-more-security-and-compliance-tools|Claude now works with more security and compliance tools]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

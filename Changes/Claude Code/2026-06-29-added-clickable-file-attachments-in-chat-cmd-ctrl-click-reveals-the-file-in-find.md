@@ -4,20 +4,20 @@ date: '2026-06-29'
 description: 'Claude Code · 2026-06-29 · Files and Data: Added clickable file attachments
   in chat — Cmd/Ctrl-click reveals the file in Finder/Explorer'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code
-    interpreter is now rolling out in beta on web]]'
+  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
+    Files and Data changes in 0.2.2]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1089
+  lag_days: 1131
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 80654954ac76cc430c654185c328ed277e5e1ee7bd601fdcc3fbdb3dd1dfe067
+machine_hash: e99c14078fa6732ca15e434bd0eebef175ec23ebf2577c2a81aeb9b45f2da1a4
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,10 +44,10 @@ record:
   title: Added clickable file attachments in chat
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-22-29086-document-raw-response-item-compatibility-jif-oai|♯29086
-  Document raw response item compatibility @jif-oai]]'
-- '[[Changes/GitHub Copilot CLI/2026-06-23-preserve-open-canvas-instances-across-reconnects-and-restarts|Preserve
-  open canvas instances across reconnects and restarts]]'
+- '[[Changes/Dify/2026-06-25-6-files-and-data-changes-in-1-15-0|6 Files and Data changes
+  in 1.15.0]]'
+- '[[Changes/Ollama/2026-06-25-docs-document-max-think-level-by-parthsareen-in-https-github-com-ollama-ollama-p|docs:
+  document max think level]]'
 - '[[Changes/ChatGPT/2026-06-26-the-personal-finance-experience-in-chatgpt-is-rolling-out-to-plus-users-in-the-u|Personal
   finance in ChatGPT expands to Plus users and Android]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-29-v2-1-196-github-346482381-e21be272|claude-code-2026-06-29-v2-1-196-github-346482381-e21be272]]'
@@ -86,13 +86,13 @@ type: change
 ## Nearby in Files and Data
 
 - Earlier: 2026-06-26 · ChatGPT · [[Changes/ChatGPT/2026-06-26-the-personal-finance-experience-in-chatgpt-is-rolling-out-to-plus-users-in-the-u|Personal finance in ChatGPT expands to Plus users and Android]]
-- Later: 2026-06-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-30-match-the-terminal-text-color-to-the-github-theme-canvas|Match the terminal text color to the GitHub theme canvas]]
+- Later: 2026-06-29 · Open WebUI · [[Changes/Open WebUI/2026-06-29-5-files-and-data-changes-in-v0-10-0|5 Files and Data changes in v0.10.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-06 · ChatGPT · [[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code interpreter is now rolling out in beta on web]]
+- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

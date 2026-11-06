@@ -4,20 +4,20 @@ date: '2026-01-22'
 description: 'Cursor · 2026-01-22 · Image Generation: Generate images directly from
   Cursor''s agent. Describe the image in text or upload a reference to guide the underlying…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2024-08-08-we-re-rolling-out-the-ability-for-chatgpt-free-users-to-create-up-to-two-images-2c505c|DALL·E
-    3 for ChatGPT Free users]]'
+  first_in_tracked: "[[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|\U0001F3A8
+    DALL-E Integration]]"
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 532
+  lag_days: 683
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: b21cac453dcaab9586e53c92659a8eb1f5a2a5e21d49f1403b38c986dfedcafc
+machine_hash: 637d697ea844a8323c6b6d1a1764bfd5e105abee03fa59cf6749ee8ac6afa20b
 product: cursor
 product_name: Cursor
 record:
@@ -50,12 +50,12 @@ record:
   title: Image generation
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-10-28-more-messages-larger-file-uploads-and-expanded-image-generation|More
-  messages, larger file uploads, and expanded image generation]]'
-- '[[Changes/ChatGPT/2025-10-30-more-messages-larger-file-uploads-and-expanded-image-generation|More
-  messages, larger file uploads, and expanded image generation]]'
-- '[[Changes/ChatGPT/2025-12-16-we-ve-introduced-a-new-and-improved-version-of-chatgpt-images-powered-by-our-bes-a63d5c|ChatGPT
-  Images on Web and Mobile (iOS & Android)]]'
+- '[[Changes/Ollama/2026-01-10-new-experimental-support-for-image-generation-models-powered-by-mlx|New
+  experimental support for image generation models, powered by MLX]]'
+- '[[Changes/Ollama/2026-01-14-experimental-image-generation-models-are-available-for-macos-and-linux-cuda-in-o|Experimental
+  image generation models are available for macOS and Linux…]]'
+- '[[Changes/Ollama/2026-01-16-2-image-generation-changes-in-v0-14-3|2 Image Generation
+  changes in v0.14.3]]'
 source_release: '[[Releases/Cursor/cursor-2026-01-22-2-4-https-cursor-com-changelog-2-4-a10c8f03|cursor-2026-01-22-2-4-https-cursor-com-changelog-2-4-a10c8f03]]'
 source_type: cursor_changelog
 theme: image-generation
@@ -103,14 +103,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Image Generation
 
-- Earlier: 2025-12-16 · ChatGPT · [[Changes/ChatGPT/2025-12-16-we-ve-introduced-a-new-and-improved-version-of-chatgpt-images-powered-by-our-bes-a63d5c|ChatGPT Images on Web and Mobile (iOS & Android)]]
-- Later: 2026-03-05 · Codex CLI · [[Changes/Codex CLI/2026-03-05-expanded-image-workflow-support-for-clients-including-client-side-handling-of-im|Expanded image workflow support for clients, including client-side handling…]]
+- Earlier: 2026-01-16 · Ollama · [[Changes/Ollama/2026-01-16-2-image-generation-changes-in-v0-14-3|2 Image Generation changes in v0.14.3]]
+- Later: 2026-02-12 · Ollama · [[Changes/Ollama/2026-02-12-image-generation-models-will-now-respect-the-ollama-load-timeout-variable|Image generation models will now respect the OLLAMA_LOAD_TIMEOUT variable]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-08-08 · ChatGPT · [[Changes/ChatGPT/2024-08-08-we-re-rolling-out-the-ability-for-chatgpt-free-users-to-create-up-to-two-images-2c505c|DALL·E 3 for ChatGPT Free users]]
+- Earliest same-theme entry in the tracked set: 2024-03-10 · Open WebUI · [[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|🎨 DALL-E Integration]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

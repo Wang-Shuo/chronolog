@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 08d87e18b0f7e96e0ee9821a641105a0e4db46588a1f2ae1a01223dc57436ee7
+machine_hash: cf44ce264399df05b85a57d4e824715608037b65a51b7fd6f632ad8edffb6b6c
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -48,12 +48,10 @@ record:
   title: 4 Agent Mode changes in rust-v0.79.0
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-12-22-this-includes-the-core-agent-layout-controls-viewing-code-diffs-and-more-we-will|This
-  includes the core agent, layout controls, viewing code diffs, and more]]'
-- '[[Changes/Gemini CLI/2025-12-22-send-the-model-and-cli-version-with-the-user-agent-by-gundermanc-in-https-github|Send
-  the model and CLI version with the user agent]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-02-built-in-subagents-for-exploring-and-managing-tasks|Built-in
   subagents for exploring and managing tasks]]'
+- '[[Changes/ElevenLabs/2026-01-05-agents-platform|Agents Platform]]'
+- '[[Changes/ElevenLabs/2026-01-05-agents-platform-bdcd71|Agents Platform]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-01-07-rust-v0-79-0-github-274682036-5d03e364|codex-cli-2026-01-07-rust-v0-79-0-github-274682036-5d03e364]]'
 source_type: github_releases
 theme: agent-mode
@@ -96,7 +94,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.79.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-01-02 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-02-built-in-subagents-for-exploring-and-managing-tasks|Built-in subagents for exploring and managing tasks]]
+- Earlier: 2026-01-05 · ElevenLabs · [[Changes/ElevenLabs/2026-01-05-agents-platform-bdcd71|Agents Platform]]
 - Later: 2026-01-07 · Gemini CLI · [[Changes/Gemini CLI/2026-01-07-3-agent-mode-changes-in-v0-23-0|3 Agent Mode changes in v0.23.0]]
 <!-- chronolog:end -->
 

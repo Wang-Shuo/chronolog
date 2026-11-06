@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6a21fa8e3b039aafc7f71403a24bd94467c8bd063f3650f84b897a00b673a80c
+machine_hash: a2b31aeb838268c7ee42240ccdd42d2df01e9fa23b4effaac18d79ca46ba517a
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -44,10 +44,9 @@ record:
   title: 'feat(sandbox): resolve custom seatbelt profiles from $HOME/.gemini first'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-23-permission-prompts-appear-correctly-in-remote-sessions-for-the-cli-tui|Permission
-  prompts appear correctly in remote sessions for the CLI TUI]]'
 - '[[Changes/Codex CLI/2026-04-24-9-safety-and-privacy-changes-in-rust-v0-125-0|9
   Safety and Privacy changes in rust-v0.125.0]]'
+- '[[Changes/Lovable/2026-04-24-security-updates|Security updates]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-27-location-based-permission-persistence-is-now-enabled-by-default-so-approvals-car|Location-based
   permission persistence is now enabled by default, so approvals carry…]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-04-28-v0-40-0-github-314816403-89c506a5|gemini-cli-2026-04-28-v0-40-0-github-314816403-89c506a5]]'

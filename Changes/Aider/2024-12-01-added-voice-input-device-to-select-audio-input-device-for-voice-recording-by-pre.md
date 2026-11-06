@@ -4,20 +4,20 @@ date: '2024-12-01'
 description: 'Aider · 2024-12-01 · Voice and Audio: Added `--voice-input-device` to
   select audio input device for voice recording, by @preynal.'
 diffusion:
-  first_in_tracked: '[[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source
-    link) support, which allows you…]]'
+  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
+    Voice and Audio changes in 0.3.7]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 478
+  lag_days: 510
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6d81d77cbf10159b1e746baa1101404428e8de621878606ed9cc0972603c48e4
+machine_hash: d7ef384dbcaed9135baea20649bfe7860122477fcfe6b6bc403d16af8dc41315
 product: aider
 product_name: Aider
 record:
@@ -43,12 +43,12 @@ record:
     by @preynal
   type: change
 related_changes:
-- '[[Changes/Aider/2024-09-04-catch-voice-transcription-exceptions-show-the-wav-file-so-the-user-can-recover-i|Catch
-  /voice transcription exceptions, show the WAV file so the user can recover it]]'
-- '[[Changes/Aider/2024-09-09-new-chat-language-switch-to-set-the-spoken-language|New
-  --chat-language switch to set the spoken language]]'
-- '[[Changes/Aider/2024-09-29-new-voice-format-switch-to-send-voice-audio-as-wav-mp3-webm-by-mbailey|New
-  --voice-format switch to send voice audio as wav/mp3/webm, by @mbailey]]'
+- '[[Changes/Dify/2024-11-05-chore-set-file-size-limits-for-video-and-audio-uploads-from-docker-env-by-fujita|chore:
+  Set file size limits for video and audio uploads from docker env]]'
+- '[[Changes/Dify/2024-11-18-2-voice-and-audio-changes-in-0-11-2|2 Voice and Audio
+  changes in 0.11.2]]'
+- '[[Changes/Dify/2024-11-25-the-new-version-extends-support-for-multi-modal-tasks-for-example-you-can-upload|The
+  new version extends support for multi-modal tasks]]'
 source_release: '[[Releases/Aider/aider-2024-12-01-v0-66-0-github-188357801-0e641110|aider-2024-12-01-v0-66-0-github-188357801-0e641110]]'
 source_type: github_releases
 theme: voice
@@ -81,14 +81,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2024-09-29 · Aider · [[Changes/Aider/2024-09-29-new-voice-format-switch-to-send-voice-audio-as-wav-mp3-webm-by-mbailey|New --voice-format switch to send voice audio as wav/mp3/webm, by @mbailey]]
+- Earlier: 2024-11-25 · Dify · [[Changes/Dify/2024-11-25-the-new-version-extends-support-for-multi-modal-tasks-for-example-you-can-upload|The new version extends support for multi-modal tasks]]
 - Later: 2024-12-12 · ChatGPT · [[Changes/ChatGPT/2024-12-12-video-and-screenshare-in-our-latest-mobile-apps-we-are-starting-to-roll-out-real|Video and screenshare]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-08-11 · Aider · [[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source link) support, which allows you…]]
+- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

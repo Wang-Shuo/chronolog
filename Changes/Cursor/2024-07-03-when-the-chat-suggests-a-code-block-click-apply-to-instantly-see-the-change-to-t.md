@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ecc0da2af767592aba9ac5ff93a32f5cdabf0552539e823f01419a5ea4f877ee
+machine_hash: e057216432bf1256365038db56be255096209948958022a55df32018b50f7757
 product: cursor
 product_name: Cursor
 record:
@@ -45,8 +45,8 @@ record:
   title: When the chat suggests a code block, click "Apply" to instantly see the change…
   type: change
 related_changes:
-- '[[Changes/Aider/2024-06-24-2-developer-workflow-changes-in-v0-40-0|2 Developer
-  Workflow changes in v0.40.0]]'
+- '[[Changes/Dify/2024-06-28-3-developer-workflow-changes-in-0-6-12|3 Developer Workflow
+  changes in 0.6.12]]'
 - '[[Changes/OpenHands/2024-06-29-4-developer-workflow-changes-in-0-7-0|4 Developer
   Workflow changes in 0.7.0]]'
 - '[[Changes/Aider/2024-07-01-added-attribute-commit-message-to-prefix-aider-s-commit-messages-with-aider|Added

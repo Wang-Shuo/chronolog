@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 577785b947be45cf5b84106800a477ac267808ca707ebf345dc66735d81f69b5
+machine_hash: 99db433ffe0e352aa44ac8dc0505a4ed9783fc9db862c70160a665ca5e6c7574
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -41,10 +41,10 @@ record:
   title: '#3211 fixes image pasting from Finder with `ctrl+v` on macOS'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-08-26-2-mobile-and-desktop-changes-in-rust-v0-24-0|2 Mobile
-  and Desktop changes in rust-v0.24.0]]'
 - '[[Changes/Codex CLI/2025-09-02-3-mobile-and-desktop-changes-in-rust-v0-28-0|3 Mobile
   and Desktop changes in rust-v0.28.0]]'
+- '[[Changes/Claude/2025-09-03-location-maps-and-calendar-access-on-claude-for-ios-and-android|Location,
+  maps, and calendar access on Claude for iOS and Android]]'
 - '[[Changes/Codex CLI/2025-09-03-2-mobile-and-desktop-changes-in-rust-v0-29-0|2 Mobile
   and Desktop changes in rust-v0.29.0]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-09-08-rust-v0-31-0-github-245666045-ad57a22f|codex-cli-2025-09-08-rust-v0-31-0-github-245666045-ad57a22f]]'

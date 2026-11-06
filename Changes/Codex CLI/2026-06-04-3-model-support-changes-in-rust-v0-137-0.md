@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 245d3640f5a7308738427b052c66e69cb8755f1c1c6902664acef4f38fa2008a
+machine_hash: 647444399f9ded1bb1917c7988ea203ac1951a78b47acf56aec398678e0434c8
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -45,11 +45,11 @@ record:
   title: 3 Model Support changes in rust-v0.137.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-02-removed-claude-code-opus-4-6-fast-mode-override-the-environment-variable-is-now|Removed
-  CLAUDE_CODE_OPUS_4_6_FAST_MODE_OVERRIDE; the environment variable is now a no-op]]'
-- '[[Changes/Claude Code/2026-06-03-2-model-support-changes-in-v2-1-162|2 Model Support
-  changes in v2.1.162]]'
 - '[[Changes/Cline/2026-06-03-add-minimax-m3-model-support|Add MiniMax M3 model support]]'
+- '[[Changes/Ollama/2026-06-03-ollama-create-experimental-now-respects-requires-in-modelfiles-for-mlx-based-mod|ollama
+  create --experimental now respects REQUIRES in Modelfiles for MLX-based models]]'
+- '[[Changes/Ollama/2026-06-03-2-model-support-changes-in-v0-30-2|2 Model Support
+  changes in v0.30.2]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-06-04-rust-v0-137-0-github-334076532-fadfeece|codex-cli-2026-06-04-rust-v0-137-0-github-334076532-fadfeece]]'
 source_type: github_releases
 theme: model-support
@@ -97,7 +97,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.137.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-06-03 · Cline · [[Changes/Cline/2026-06-03-add-minimax-m3-model-support|Add MiniMax M3 model support]]
+- Earlier: 2026-06-03 · Ollama · [[Changes/Ollama/2026-06-03-2-model-support-changes-in-v0-30-2|2 Model Support changes in v0.30.2]]
 - Later: 2026-06-05 · Cline · [[Changes/Cline/2026-06-05-3-model-support-changes-in-v3-88-0|3 Model Support changes in v3.88.0]]
 <!-- chronolog:end -->
 

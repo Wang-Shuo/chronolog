@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e0bfdbca31cdcd0e60b4e4859ad77b02496566408bf88b4006b94e1340c0c2be
+machine_hash: 142887fbe6ce3a7717450b4bda2b888e993e45bd46b5d9cb3daf00659d04bd9d
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,10 @@ record:
   title: 2 Interface Experience changes in v2.1.118
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-04-20-2-interface-experience-changes-in-rust-v0-122-0|2
-  Interface Experience changes in rust-v0.122.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-20-4-interface-experience-changes-in-v1-0-33|4
   Interface Experience changes in v1.0.33]]'
+- '[[Changes/Open WebUI/2026-04-21-17-interface-experience-changes-in-v0-9-0|17 Interface
+  Experience changes in v0.9.0]]'
 - '[[Changes/Claude Code/2026-04-23-3-interface-experience-changes-in-v2-1-119|3 Interface
   Experience changes in v2.1.119]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-23-v2-1-118-github-312487295-b3c6b04c|claude-code-2026-04-23-v2-1-118-github-312487295-b3c6b04c]]'

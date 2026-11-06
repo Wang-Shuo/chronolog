@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4d96d6cfe797935e5ba99218e11486aed447cd9c04850bb8c3e7a0d54c00d622
+machine_hash: 1c0e8e963d0bcf3a2ec86d944136f79dc023c73d42115da807514c5f40b85bd6
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -55,12 +55,12 @@ record:
   title: 6 Account and Access changes in rust-v0.36.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-09-05-3-account-and-access-changes-in-rust-v0-30-0|3 Account
-  and Access changes in rust-v0.30.0]]'
 - '[[Changes/Codex CLI/2025-09-08-3217-added-logic-to-cancel-pending-oauth-login-to-free-up-localhost-port|♯3217
   Added logic to cancel pending oauth login to free up localhost port]]'
 - '[[Changes/Gemini CLI/2025-09-09-feat-oauth-create-hybrid-storage-class-by-shishu314-in-https-github-com-google-g|feat(oauth)
   - Create hybrid storage class]]'
+- '[[Changes/Open WebUI/2025-09-09-6-account-and-access-changes-in-v0-6-27|6 Account
+  and Access changes in v0.6.27]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-09-15-rust-v0-36-0-github-247381260-0ebd05e2|codex-cli-2025-09-15-rust-v0-36-0-github-247381260-0ebd05e2]]'
 source_type: github_releases
 theme: account-access
@@ -108,8 +108,8 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.36.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2025-09-09 · Gemini CLI · [[Changes/Gemini CLI/2025-09-09-feat-oauth-create-hybrid-storage-class-by-shishu314-in-https-github-com-google-g|feat(oauth) - Create hybrid storage class]]
-- Later: 2025-09-17 · Gemini CLI · [[Changes/Gemini CLI/2025-09-17-refactor-authentication-components-and-hooks-by-scidomino-in-https-github-com-go|Refactor Authentication Components and Hooks]]
+- Earlier: 2025-09-09 · Open WebUI · [[Changes/Open WebUI/2025-09-09-6-account-and-access-changes-in-v0-6-27|6 Account and Access changes in v0.6.27]]
+- Later: 2025-09-15 · ElevenLabs · [[Changes/ElevenLabs/2025-09-15-python-sdk|Python SDK]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

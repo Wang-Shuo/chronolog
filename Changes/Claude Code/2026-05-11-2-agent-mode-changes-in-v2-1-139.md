@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6b92750897f350e1f8185baaef2120c4e8a2f33a222815b4f1539f07f7de918c
+machine_hash: a076fd4cc81fd697462b9c6d13be88dd632b83d5fa35c8c42df2ed31fd164441
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,11 +46,10 @@ record:
   title: 2 Agent Mode changes in v2.1.139
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-05-06-agent-command-center|Agent Command Center]]'
-- '[[Changes/Codex CLI/2026-05-07-5-agent-mode-changes-in-rust-v0-129-0|5 Agent Mode
-  changes in rust-v0.129.0]]'
-- '[[Changes/Cursor/2026-05-07-added-the-ability-to-control-explore-subagent-behavior-from-settings-choose-a-sp|Added
-  the ability to control Explore subagent behavior from settings]]'
+- '[[Changes/Replit/2026-05-08-new-animated-icons-for-agent-modes|New animated icons
+  for Agent modes]]'
+- '[[Changes/Replit/2026-05-08-agent|Agent]]'
+- '[[Changes/Replit/2026-05-08-agent-accepts-svg-uploads|Agent accepts SVG uploads]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-11-v2-1-139-github-320692766-5e65de7d|claude-code-2026-05-11-v2-1-139-github-320692766-5e65de7d]]'
 source_type: github_releases
 theme: agent-mode
@@ -92,7 +91,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.139
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-05-07 · Cursor · [[Changes/Cursor/2026-05-07-added-the-ability-to-control-explore-subagent-behavior-from-settings-choose-a-sp|Added the ability to control Explore subagent behavior from settings]]
+- Earlier: 2026-05-08 · Replit · [[Changes/Replit/2026-05-08-agent-accepts-svg-uploads|Agent accepts SVG uploads]]
 - Later: 2026-05-11 · Cursor · [[Changes/Cursor/2026-05-11-mention-cursor-in-any-teams-channel-to-delegate-a-task-to-a-cloud-agent-or-pull-d30c31|Mention @Cursor in any Teams channel to delegate a task to a cloud agent or pull…]]
 <!-- chronolog:end -->
 

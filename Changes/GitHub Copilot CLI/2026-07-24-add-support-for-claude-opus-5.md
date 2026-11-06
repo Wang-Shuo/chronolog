@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 80bb310ff1c7e3c22b0b239334c8ee5d68d3aaf3651c39708c09fdf695318c44
+machine_hash: 00c50dbd4be31d9cced6a3f6f8da4eeffc81dd54c9fa730c26f2aa0fdc49b279
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,8 +44,7 @@ record:
   title: Add support for Claude Opus 5
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-23-2-model-support-changes-in-v1-0-74|2 Model
-  Support changes in v1.0.74]]'
+- '[[Changes/Claude/2026-07-24-claude-opus-5-launch|Claude Opus 5 launch]]'
 - '[[Changes/Claude Code/2026-07-24-3-model-support-changes-in-v2-1-219|3 Model Support
   changes in v2.1.219]]'
 - '[[Changes/Cline/2026-07-24-2-model-support-changes-in-v4-0-11|2 Model Support changes
@@ -77,7 +76,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-07-24 · Cline · [[Changes/Cline/2026-07-24-2-model-support-changes-in-v4-0-11|2 Model Support changes in v4.0.11]]
-- Later: 2026-07-28 · Cline · [[Changes/Cline/2026-07-28-add-support-for-free-cline-models-shown-as-free-in-the-model-picker-with-a-dedic|Add support for free Cline models, shown as "(free)" in the model picker…]]
+- Later: 2026-07-25 · Ollama · [[Changes/Ollama/2026-07-25-quantize-draft-model-output-heads-at-the-requested-type-when-creating-speculativ|Quantize draft-model output heads at the requested type when creating…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

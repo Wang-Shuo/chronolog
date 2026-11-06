@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0253e1c28d389caf91af280f11b0c9bb8bc87439cf92b5b69b0561844b0fa2aa
+machine_hash: b73de006d78815e4b431073ae264706fa6d44b3a39411deacc3c1acff8fd9ec0
 product: cline
 product_name: Cline
 record:
@@ -42,10 +42,10 @@ record:
   title: Updated max output tokens to 8192 so less lazy coding (`// rest of code here...`)
   type: change
 related_changes:
-- '[[Changes/Aider/2024-06-17-2-context-window-changes-in-v0-38-0|2 Context Window
-  changes in v0.38.0]]'
-- '[[Changes/Aider/2024-06-24-improved-error-info-for-token-limit-errors|Improved
-  error info for token limit errors]]'
+- '[[Changes/Ollama/2024-07-21-mistral-nemo-https-ollama-com-library-mistral-nemo-a-state-of-the-art-12b-model|Mistral
+  Nemo((source link) A state-of-the-art 12B…]]'
+- '[[Changes/Ollama/2024-07-25-mistral-large-2-https-ollama-com-library-mistral-large-mistral-s-new-123b-flagsh|Mistral
+  Large 2((source link)]]'
 - '[[Changes/OpenHands/2024-07-27-fix-colima-use-a-docker-context-specific-to-runner-prevent-duplicate-start-by-to|(fix)
   colima: use a docker context specific to runner; prevent duplicate start]]'
 source_release: '[[Releases/Cline/cline-2024-07-28-v1-0-4-github-167496281-a4c8079a|cline-2024-07-28-v1-0-4-github-167496281-a4c8079a]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 380f75dd923a4c9a31ed71c2a5b793bacf3d83ed849ed72cced00dc56050d1d1
+machine_hash: 6a05b74666182c05a3181ce98bd515f4d4f8a634915c5770e9b196189f4b48d2
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,8 +44,8 @@ record:
   title: 2 Reliability and Performance changes in rust-v0.129.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-05-improve-stability-on-windows-by-working-around-a-v8-crash-in-node-24-x|Improve
-  stability on Windows by working around a V8 crash in Node 24.x]]'
+- '[[Changes/Ollama/2026-05-05-gemma-4-mtp-speculative-decoding-is-now-supported-on-macs-this-can-give-over-a-2|Gemma
+  4 MTP speculative decoding is now supported on Macs]]'
 - '[[Changes/Claude Code/2026-05-06-updated-the-tui-fullscreen-startup-banner-to-describe-additional-renderer-benefi|Updated
   the /tui fullscreen startup banner to describe additional renderer…]]'
 - '[[Changes/Claude Code/2026-05-07-improved-memory-usage-by-releasing-warm-spare-background-workers-under-memory-pr|Improved

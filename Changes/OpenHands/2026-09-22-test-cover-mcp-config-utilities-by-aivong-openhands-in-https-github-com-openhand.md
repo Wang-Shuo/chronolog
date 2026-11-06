@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7ed36ac9eac0eab0545b0ad1bac8944dd34d5d1447cb81dbb52fc87c784dd717
+machine_hash: 22af102c7c6b0fca4b38500221b583062606980d76e341eaf7c12862a0db93e5
 product: openhands
 product_name: OpenHands
 record:
@@ -41,12 +41,11 @@ record:
   title: 'test: cover MCP config utilities'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-22-8-apps-and-integrations-changes-in-v2-1-280|8
-  Apps and Integrations changes in v2.1.280]]'
 - '[[Changes/Codex CLI/2026-09-22-42-apps-and-integrations-changes-in-rust-v0-156-0|42
   Apps and Integrations changes in rust-v0.156.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-22-6-apps-and-integrations-changes-in-v1-0-88|6
   Apps and Integrations changes in v1.0.88]]'
+- '[[Changes/Lovable/2026-09-22-connect-your-app-to-parallel|Connect your app to Parallel]]'
 source_release: '[[Releases/OpenHands/openhands-2026-09-22-v1-21-0-github-393402961-64a1cf92|openhands-2026-09-22-v1-21-0-github-393402961-64a1cf92]]'
 source_type: github_releases
 theme: apps-integrations
@@ -80,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-09-22 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-22-6-apps-and-integrations-changes-in-v1-0-88|6 Apps and Integrations changes in v1.0.88]]
+- Earlier: 2026-09-22 · Lovable · [[Changes/Lovable/2026-09-22-connect-your-app-to-parallel|Connect your app to Parallel]]
 - Later: 2026-09-22 · OpenHands · [[Changes/OpenHands/2026-09-22-feat-test-remote-mcp-servers-on-cloud-backends-via-the-app-server-by-hieptl-in-h|feat: test remote MCP servers on cloud backends via the app server]]
 <!-- chronolog:end -->
 

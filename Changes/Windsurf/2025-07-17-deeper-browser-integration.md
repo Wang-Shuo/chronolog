@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: bc94e460e1fc092392070f335c840326154ce79665396a396544b6f6c3823f8d
+machine_hash: 7571d4ae3302f1c2bdd3f2f59f8b464e41a232ec772713363e6140d818178d66
 product: windsurf
 product_name: Windsurf
 record:
@@ -43,8 +43,7 @@ record:
   title: Deeper Browser integration
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-07-11-6-apps-and-integrations-changes-in-v0-1-10|6 Apps
-  and Integrations changes in v0.1.10]]'
+- '[[Changes/ElevenLabs/2025-07-14-sdks|SDKs]]'
 - '[[Changes/Cline/2025-07-15-add-markdown-parsing-to-mcp-responses-by-celestial-vault-in-https-github-com-cli|Add
   markdown parsing to MCP responses]]'
 - '[[Changes/OpenHands/2025-07-16-added-cli-vscode-integration-by-enyst-in-https-github-com-all-hands-ai-openhands|Added

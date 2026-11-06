@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 209cf6a0286c74fd2b39d3c9e22cb872e4cf6e095ee766b60305ecc8e04d2bcc
+machine_hash: 4849248c6ac6ca8a7b23538e34866e39bd6932a9cd59a0b437ad757c22a1dab7
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -41,8 +41,8 @@ record:
   title: Mouse scroll works correctly in tmux after returning from an external editor
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-17-vscode-improved-plan-preview-tab-titles-to-use-the-plan-s-heading-instead-of-cla|VSCode
-  Improved plan preview tab titles to use the plan''s heading instead…]]'
+- '[[Changes/Dify/2026-03-17-8-editor-experience-changes-in-1-13-1|8 Editor Experience
+  changes in 1.13.1]]'
 - '[[Changes/Gemini CLI/2026-03-17-feat-core-improve-file-autocomplete-to-prioritize-filenames-by-sehoon38-in-https|feat(core):
   improve @file autocomplete to prioritize filenames]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-17-tab-bar-selected-tab-uses-compact-label-style-with-cleaner-spacing|Tab

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 54825ce3e898850e94f4912982d1e8098aa235e64253a8be875d71275c0c79eb
+machine_hash: 20cf7986cdfcd6bbd2fbda5f78f0c7b11cfe813ef4ed1eb20edc3c23ac8fb75e
 product: cline
 product_name: Cline
 record:
@@ -43,12 +43,12 @@ record:
   title: Removing Minimax-2.1 from free model list as the free trial has ended
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-09-merged-slash-commands-and-skills-simplifying-the-mental-model-with-no-change-in|Merged
-  slash commands and skills, simplifying the mental model with no change in behavior]]'
 - '[[Changes/Cline/2026-01-09-2-model-support-changes-in-v3-48-0|2 Model Support changes
   in v3.48.0]]'
 - '[[Changes/Codex CLI/2026-01-09-4-model-support-changes-in-rust-v0-80-0|4 Model
   Support changes in rust-v0.80.0]]'
+- '[[Changes/Open WebUI/2026-01-09-11-model-support-changes-in-v0-7-0|11 Model Support
+  changes in v0.7.0]]'
 source_release: '[[Releases/Cline/cline-2026-01-10-v3-49-0-github-275682302-74ce1c3e|cline-2026-01-10-v3-49-0-github-275682302-74ce1c3e]]'
 source_type: github_releases
 theme: model-support
@@ -78,8 +78,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-01-09 · Codex CLI · [[Changes/Codex CLI/2026-01-09-4-model-support-changes-in-rust-v0-80-0|4 Model Support changes in rust-v0.80.0]]
-- Later: 2026-01-13 · Cline · [[Changes/Cline/2026-01-13-phase-in-responses-api-usage-instead-of-defaulting-for-every-supported-model|Phase in Responses API usage instead of defaulting for every supported model]]
+- Earlier: 2026-01-09 · Open WebUI · [[Changes/Open WebUI/2026-01-09-11-model-support-changes-in-v0-7-0|11 Model Support changes in v0.7.0]]
+- Later: 2026-01-10 · Ollama · [[Changes/Ollama/2026-01-10-a-new-requires-command-for-the-modelfile-allows-declaring-which-version-of-ollam|A new REQUIRES command for the Modelfile allows declaring which version…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

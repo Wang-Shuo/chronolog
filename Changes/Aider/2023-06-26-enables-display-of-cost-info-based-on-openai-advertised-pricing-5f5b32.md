@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: pricing
-machine_hash: 2bf0a2605f83b9612d724ff8877d31598397070a7c353c9d7bba1a948b67c3b4
+machine_hash: 7371e79a43d57a15e6b7258239db400f4d449fa4b1942290a976f1cf51c81aee
 product: aider
 product_name: Aider
 record:
@@ -43,7 +43,8 @@ record:
   title: Enables display of cost info based on OpenAI advertised pricing
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-04-19-150k-gpt-4-tokens-included|150k GPT-4 tokens included]]'
+- '[[Changes/Dify/2023-06-14-feat-add-gpt-3-5-turbo-16k-support-and-update-openai-gpt-3-5-turbo-embedding-ada|feat:
+  add gpt-3.5-turbo-16k support and update openai gpt-3.5-turbo & Embedding Ada…]]'
 - '[[Changes/Aider/2023-06-25-enables-display-of-cost-info-based-on-openai-advertised-pricing|Enables
   display of cost info based on OpenAI advertised pricing]]'
 - '[[Changes/Aider/2023-06-26-enables-display-of-cost-info-based-on-openai-advertised-pricing|Enables
@@ -79,7 +80,7 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2023-06-26 · Aider · [[Changes/Aider/2023-06-26-enables-display-of-cost-info-based-on-openai-advertised-pricing|Enables display of cost info based on OpenAI advertised pricing]]
-- Later: 2023-11-03 · Cursor · [[Changes/Cursor/2023-11-03-pro-plan-if-you-hit-your-fast-request-limit-and-prefer-to-purchase-more-you-now|Pro++ plan: if you hit your fast request limit and prefer to purchase more, you now can]]
+- Later: 2023-08-23 · Dify · [[Changes/Dify/2023-08-23-feat-record-price-unit-in-messages-by-takatost-in-https-github-com-langgenius-di|feat: record price unit in messages]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

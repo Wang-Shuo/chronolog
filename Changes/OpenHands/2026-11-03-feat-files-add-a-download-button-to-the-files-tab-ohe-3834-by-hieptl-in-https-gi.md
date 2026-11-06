@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1fae4b833690c79cc7fd073d19f29acfeb5bb0f8aa4d843276b830c138aa0862
+machine_hash: 7343a33aa370bb2ae538847ea23bf9b4679fe8b699cb8fe06519d988b336594a
 product: openhands
 product_name: OpenHands
 record:
@@ -42,12 +42,12 @@ record:
   title: 'feat(files): add a Download button to the Files tab (OHE-3834)'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-29-3-editor-experience-changes-in-rust-v0-166-0|3 Editor
-  Experience changes in rust-v0.166.0]]'
-- '[[Changes/Claude Code/2026-10-30-2-editor-experience-changes-in-v2-1-314|2 Editor
-  Experience changes in v2.1.314]]'
-- '[[Changes/Claude Code/2026-10-31-2-editor-experience-changes-in-v2-1-316|2 Editor
-  Experience changes in v2.1.316]]'
+- '[[Changes/ElevenLabs/2026-11-02-svg-assets-svg-uploads-to-assets-stay-svg-and-render-as-vectors-including-in-the|SVG
+  assets: SVG uploads to Assets stay SVG and render as vectors, including…]]'
+- '[[Changes/Lovable/2026-11-02-project-monitoring-catches-errors-in-your-visitors-browsers|Project
+  monitoring catches errors in your visitors'' browsers]]'
+- '[[Changes/Open WebUI/2026-11-03-4-editor-experience-changes-in-v0-13-0|4 Editor
+  Experience changes in v0.13.0]]'
 source_release: '[[Releases/OpenHands/openhands-2026-11-03-v1-35-0-github-433088800-6c59b2b0|openhands-2026-11-03-v1-35-0-github-433088800-6c59b2b0]]'
 source_type: github_releases
 theme: editor-experience
@@ -84,8 +84,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-10-31 · Claude Code · [[Changes/Claude Code/2026-10-31-2-editor-experience-changes-in-v2-1-316|2 Editor Experience changes in v2.1.316]]
-- Later: 2026-11-04 · Gemini CLI · [[Changes/Gemini CLI/2026-11-04-feat-cli-bridge-the-ide-companion-into-container-sandboxes-over-exec-stdio-by-el|feat(cli): bridge the IDE companion into container sandboxes over exec stdio]]
+- Earlier: 2026-11-03 · Open WebUI · [[Changes/Open WebUI/2026-11-03-4-editor-experience-changes-in-v0-13-0|4 Editor Experience changes in v0.13.0]]
+- Later: 2026-11-04 · Dify · [[Changes/Dify/2026-11-04-3-editor-experience-changes-in-1-19-0|3 Editor Experience changes in 1.19.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

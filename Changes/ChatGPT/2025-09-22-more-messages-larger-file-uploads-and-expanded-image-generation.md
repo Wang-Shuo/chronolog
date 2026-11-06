@@ -4,20 +4,20 @@ date: '2025-09-22'
 description: 'ChatGPT · 2025-09-22 · Image Generation: More messages, larger file
   uploads, and expanded image generation'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2024-08-08-we-re-rolling-out-the-ability-for-chatgpt-free-users-to-create-up-to-two-images-2c505c|DALL·E
-    3 for ChatGPT Free users]]'
+  first_in_tracked: "[[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|\U0001F3A8
+    DALL-E Integration]]"
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 410
+  lag_days: 561
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 008a97994fcd32ba987485be56b9f2e979a3005cc76c494b577c62777b25e2cf
+machine_hash: de7331258af1cc6c1267441b9681009026d2ea209ae8fca10828a2e279c617fd
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -43,12 +43,12 @@ record:
   title: More messages, larger file uploads, and expanded image generation
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-04-15-all-images-you-create-with-chatgpt-are-now-automatically-saved-to-a-new-library|ChatGPT
-  Image Library]]'
-- '[[Changes/ChatGPT/2025-08-08-we-re-rolling-out-a-small-update-to-image-generation-for-chatgpt-free-tier-users|Image
-  generation update to ChatGPT Free]]'
-- '[[Changes/ChatGPT/2025-08-18-more-messages-larger-file-uploads-and-expanded-image-generation|More
-  messages, larger file uploads, and expanded image generation]]'
+- '[[Changes/Gemini/2025-08-26-reimagine-your-photos-with-a-prompt|Reimagine your
+  photos with a prompt]]'
+- "[[Changes/Open WebUI/2025-09-09-azure-openai-image-generation-is-now-supported-with-configurations-for-images-op|\U0001F3A8
+  Azure OpenAI image generation is now supported, with configurations…]]"
+- '[[Changes/Open WebUI/2025-09-17-models-can-now-be-configured-with-default-features-web-search-image-generation-a|⚙️
+  Models can now be configured with default features (Web Search, Image Generation)…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-09-22-chatgpt-go-now-available-in-indonesia-27c365a7|chatgpt-2025-09-22-chatgpt-go-now-available-in-indonesia-27c365a7]]'
 source_type: chatgpt_changelog
 theme: image-generation
@@ -78,14 +78,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Image Generation
 
-- Earlier: 2025-08-18 · ChatGPT · [[Changes/ChatGPT/2025-08-18-more-messages-larger-file-uploads-and-expanded-image-generation|More messages, larger file uploads, and expanded image generation]]
-- Later: 2025-09-29 · ChatGPT · [[Changes/ChatGPT/2025-09-29-remove-image-generation-so-chatgpt-won-t-have-the-ability-to-create-or-edit-imag|Remove image generation, so ChatGPT won’t have the ability to create or edit images]]
+- Earlier: 2025-09-17 · Open WebUI · [[Changes/Open WebUI/2025-09-17-models-can-now-be-configured-with-default-features-web-search-image-generation-a|⚙️ Models can now be configured with default features (Web Search, Image Generation)…]]
+- Later: 2025-09-25 · Open WebUI · [[Changes/Open WebUI/2025-09-25-image-generation-model-selection-was-centralized-to-enable-dynamic-model-overrid|🎨 Image generation model selection was centralized to enable dynamic model override…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-08-08 · ChatGPT · [[Changes/ChatGPT/2024-08-08-we-re-rolling-out-the-ability-for-chatgpt-free-users-to-create-up-to-two-images-2c505c|DALL·E 3 for ChatGPT Free users]]
+- Earliest same-theme entry in the tracked set: 2024-03-10 · Open WebUI · [[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|🎨 DALL-E Integration]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

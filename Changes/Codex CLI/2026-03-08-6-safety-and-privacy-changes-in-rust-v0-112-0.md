@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6c6e463973b5e0aff4846d2d97c7f74f0fd168c05c2d88569c99e92e44c6a008
+machine_hash: 01553a89fc6ecc9b35e80f38248141a7e4d809b31ff3de9a791ae498e5230917
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -108,7 +108,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.112.0
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-03-07 · Claude Code · [[Changes/Claude Code/2026-03-07-fixed-false-positive-permission-prompts-for-compound-bash-commands-containing-he|Fixed false-positive permission prompts for compound bash commands containing…]]
-- Later: 2026-03-09 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-09-reset-allowed-tools-now-fully-undoes-allow-all-and-re-triggers-the-autopilot-per|/reset-allowed-tools now fully undoes /allow-all and re-triggers the autopilot…]]
+- Later: 2026-03-08 · Open WebUI · [[Changes/Open WebUI/2026-03-08-open-terminal-permission-fix-open-terminal-is-now-visible-without-requiring-allo|🖥️ Open Terminal permission fix. Open Terminal is now visible without requiring…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

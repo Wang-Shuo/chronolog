@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5789f5cc993a201198ee45a9b3fe0fe9c27263bc55c5d0921aaa03f3b7762cc1
+machine_hash: 84c50044be2b90e558897ae53630052e61409d4d9ffccaf61b3037f0e73a448a
 product: cline
 product_name: Cline
 record:
@@ -54,10 +54,10 @@ record:
   title: 4 Apps and Integrations changes in v4.1.16
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-25-3-apps-and-integrations-changes-in-v2-1-246|3
-  Apps and Integrations changes in v2.1.246]]'
 - '[[Changes/Gemini CLI/2026-08-25-ssr-agent-issue-fix-21919-fix-typescript-strict-null-errors-in-integration-tests|SSR
   Agent Issue Fix (21919): Fix TypeScript strict-null errors in integration tests]]'
+- '[[Changes/Open WebUI/2026-08-25-4-apps-and-integrations-changes-in-v0-11-1|4 Apps
+  and Integrations changes in v0.11.1]]'
 - '[[Changes/Claude Code/2026-08-26-2-apps-and-integrations-changes-in-v2-1-247|2
   Apps and Integrations changes in v2.1.247]]'
 source_release: '[[Releases/Cline/cline-2026-08-26-v4-1-16-github-376988707-45a7fae8|cline-2026-08-26-v4-1-16-github-376988707-45a7fae8]]'

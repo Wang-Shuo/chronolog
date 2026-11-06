@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 52a67b721ebc39165109faf0f6bd2dbdefd5af065016342ee699a2594044ab34
+machine_hash: dce626847f7a131e46c40a4e25dc9a07acba4ee9d894809d488b9f106308ebd3
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -45,12 +45,11 @@ record:
     caching…
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-08-05-3-context-window-changes-in-v0-1-17|3 Context Window
-  changes in v0.1.17]]'
-- '[[Changes/Cursor/2025-08-06-admin-api-for-blocklists-block-specific-files-or-directories-from-being-indexed|Admin
-  API for blocklists]]'
-- '[[Changes/Gemini CLI/2025-08-06-3-context-window-changes-in-v0-1-18|3 Context Window
-  changes in v0.1.18]]'
+- '[[Changes/Dify/2025-08-11-feat-enhance-the-alignment-logic-of-the-nodes-in-the-context-menu-by-zeroz-lab-i|feat:
+  Enhance the alignment logic of the nodes in the context menu]]'
+- '[[Changes/Lovable/2025-08-11-reconnecting-orgs-with-invalid-tokens-is-now-seamless|Reconnecting
+  orgs with invalid tokens is now seamless]]'
+- '[[Changes/Claude/2025-08-12-1m-token-context-window|1M token context window]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-08-12-rust-v0-21-0-github-239240731-76e29b83|codex-cli-2025-08-12-rust-v0-21-0-github-239240731-76e29b83]]'
 source_type: github_releases
 theme: context-window
@@ -83,7 +82,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2025-08-06 · Gemini CLI · [[Changes/Gemini CLI/2025-08-06-3-context-window-changes-in-v0-1-18|3 Context Window changes in v0.1.18]]
+- Earlier: 2025-08-12 · Claude · [[Changes/Claude/2025-08-12-1m-token-context-window|1M token context window]]
 - Later: 2025-08-12 · Gemini CLI · [[Changes/Gemini CLI/2025-08-12-3-context-window-changes-in-v0-1-19|3 Context Window changes in v0.1.19]]
 <!-- chronolog:end -->
 

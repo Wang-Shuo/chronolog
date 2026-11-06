@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: b95678dda013aa14d1127645ce27fce64df95c61b0065395248ff53a818e1c53
+machine_hash: b9e2505614ab863ebb8595bfc0dacd6da74686010d13e1c89f45c72299393503
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -54,10 +54,10 @@ record:
   title: Run model availability check in the background to speed up startup
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-07-03-4-reliability-and-performance-changes-in-1-2|4 Reliability
-  and Performance changes in 1.2]]'
-- '[[Changes/Cline/2025-07-08-optimize-provider-switching-performance-with-batched-storage-operations-by-arafa|Optimize
-  provider switching performance with batched storage operations]]'
+- '[[Changes/Open WebUI/2025-07-14-4-reliability-and-performance-changes-in-v0-6-16|4
+  Reliability and Performance changes in v0.6.16]]'
+- '[[Changes/Ollama/2025-07-18-2-reliability-and-performance-changes-in-v0-10-0|2
+  Reliability and Performance changes in v0.10.0]]'
 - '[[Changes/Codex CLI/2025-07-19-as-a-heads-up-https-github-com-openai-codex-pull-1596-changes-the-organization-o|As
   a heads up, (source link) changes the organization…]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-07-19-v0-1-13-github-233708271-319aa8dd|gemini-cli-2025-07-19-v0-1-13-github-233708271-319aa8dd]]'
@@ -99,7 +99,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2025-07-19 · Codex CLI · [[Changes/Codex CLI/2025-07-19-as-a-heads-up-https-github-com-openai-codex-pull-1596-changes-the-organization-o|As a heads up, (source link) changes the organization…]]
-- Later: 2025-07-22 · Cline · [[Changes/Cline/2025-07-22-speed-up-e2e-tests-by-celestial-vault-in-https-github-com-cline-cline-pull-5045|Speed up E2E tests]]
+- Later: 2025-07-19 · Open WebUI · [[Changes/Open WebUI/2025-07-19-2-reliability-and-performance-changes-in-v0-6-17|2 Reliability and Performance changes in v0.6.17]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

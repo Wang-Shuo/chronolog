@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: bd7c10dd384835767eaa7a02597c752ae4819a3550102affa94243e1688163e1
+machine_hash: ba4a9ba3484010b9f96bb1fdbc622df42fab9504b2aaa7da882b323bbf9f0412
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-04-24 · Cursor · [[Changes/Cursor/2026-04-24-multitask-in-agents-window-9bc7ed|Multitask in Agents Window]]
-- Later: 2026-04-28 · Claude Code · [[Changes/Claude Code/2026-04-28-2-agent-mode-changes-in-v2-1-121|2 Agent Mode changes in v2.1.121]]
+- Later: 2026-04-24 · Replit · [[Changes/Replit/2026-04-24-agent|Agent]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

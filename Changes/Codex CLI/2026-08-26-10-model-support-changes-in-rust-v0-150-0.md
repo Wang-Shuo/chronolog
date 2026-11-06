@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e528db786db1de368b7ad4fe37fa67b5ec19f7b77d29348be6d013381d249540
+machine_hash: 970f7f75db1792799b7103c78b90bfded7fcc4ea9536328ca71b3c086b64d363
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -58,8 +58,8 @@ record:
   title: 10 Model Support changes in rust-v0.150.0
   type: change
 related_changes:
-- '[[Changes/Cline/2026-08-23-refresh-the-built-in-model-catalog-new-entries-include-claude-fable-5-grok-4-6-o|Refresh
-  the built-in model catalog]]'
+- '[[Changes/Open WebUI/2026-08-25-56-model-support-changes-in-v0-11-1|56 Model Support
+  changes in v0.11.1]]'
 - '[[Changes/Claude Code/2026-08-26-added-claude-api-cost-optimize-to-profile-an-existing-project-s-claude-api-spend|Added
   /claude-api cost-optimize to profile an existing project''s Claude API spend…]]'
 - '[[Changes/Cline/2026-08-26-credentials-embedded-in-git-remote-urls-are-now-redacted-from-the-workspace-info|Credentials
@@ -126,7 +126,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.150.0
 ## Nearby in Model Support
 
 - Earlier: 2026-08-26 · Cline · [[Changes/Cline/2026-08-26-credentials-embedded-in-git-remote-urls-are-now-redacted-from-the-workspace-info|Credentials embedded in git remote URLs are now redacted from the workspace…]]
-- Later: 2026-08-27 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-08-27-4-model-support-changes-in-v1-0-81|4 Model Support changes in v1.0.81]]
+- Later: 2026-08-26 · Ollama · [[Changes/Ollama/2026-08-26-mlxrunner-avoid-metal-gpu-timeouts-when-loading-models-from-slow-storage|mlxrunner: avoid Metal GPU timeouts when loading models from slow storage]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

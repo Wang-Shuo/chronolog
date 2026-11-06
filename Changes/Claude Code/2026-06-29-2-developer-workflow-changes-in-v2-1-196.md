@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 97fb388839f3b1a4a13666547af256cb6abe09c4cc747630bfb39ca830b1fd56
+machine_hash: cf476b38b80ad5de5a158123cc7c3be5246d338daabd6916b9574a0cce119893
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,8 +44,8 @@ record:
   title: 2 Developer Workflow changes in v2.1.196
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-24-remove-syntax-highlighting-from-shell-commands-in-the-timeline|Remove
-  syntax highlighting from shell commands in the timeline]]'
+- '[[Changes/Dify/2026-06-25-9-developer-workflow-changes-in-1-15-0|9 Developer Workflow
+  changes in 1.15.0]]'
 - '[[Changes/Gemini CLI/2026-06-25-feat-add-eval-inventory-cli-command-and-reporting-logic-by-ved015-in-https-githu|feat:
   add eval:inventory CLI command and reporting logic]]'
 - '[[Changes/Cline/2026-06-26-2-developer-workflow-changes-in-v4-0-0|2 Developer Workflow
@@ -90,7 +90,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.196
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-06-26 · Cline · [[Changes/Cline/2026-06-26-2-developer-workflow-changes-in-v4-0-0|2 Developer Workflow changes in v4.0.0]]
-- Later: 2026-06-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-30-21-developer-workflow-changes-in-v1-0-66|21 Developer Workflow changes in v1.0.66]]
+- Later: 2026-06-29 · Open WebUI · [[Changes/Open WebUI/2026-06-29-42-developer-workflow-changes-in-v0-10-0|42 Developer Workflow changes in v0.10.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

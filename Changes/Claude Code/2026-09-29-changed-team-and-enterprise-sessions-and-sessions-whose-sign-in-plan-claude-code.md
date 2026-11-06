@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 82f3e879224605e94aee564abd5e9ea810d3b70c554ceaf021bfd30f93ecc5cb
+machine_hash: 6936a8f2be5eebb96e39fa8af370b58b4150a41e37260412c1641a21ab8d78c3
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,9 @@ record:
     Code…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-28-4-account-and-access-changes-in-v2-1-284|4 Account
-  and Access changes in v2.1.284]]'
 - '[[Changes/Codex CLI/2026-09-28-8-account-and-access-changes-in-rust-v0-158-0|8
   Account and Access changes in rust-v0.158.0]]'
+- '[[Changes/ElevenLabs/2026-09-28-elevenlabs-cli|ElevenLabs CLI]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-28-2-account-and-access-changes-in-v1-0-89|2
   Account and Access changes in v1.0.89]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-29-v2-1-285-github-399375132-96b3ffbc|claude-code-2026-09-29-v2-1-285-github-399375132-96b3ffbc]]'

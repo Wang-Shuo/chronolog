@@ -5,20 +5,20 @@ description: 'Claude Code · 2026-10-14 · Files and Data: 2 changes in v2.1.299
   `$.prompt.media` so a `prompt.submit` hook of a mod installed by managed settings
   can…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code
-    interpreter is now rolling out in beta on web]]'
+  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
+    Files and Data changes in 0.2.2]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1196
+  lag_days: 1238
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b2222842a0970a820a7fa554e23f1aa54aeb79d0e3aa4ff89139b391e57c29e8
+machine_hash: ec31a10fd9eed66ac045477954d42cebf44b23c5d2c5783d2419b97ca6a1ffe8
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,12 +46,12 @@ record:
   title: 2 Files and Data changes in v2.1.299
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-10-05-canvas-actions-can-now-return-images-to-the-model-in-invoke-canvas-action|Canvas
-  actions can now return images to the model in invoke_canvas_action]]'
 - '[[Changes/OpenHands/2026-10-06-6-files-and-data-changes-in-v1-25-0|6 Files and
   Data changes in v1.25.0]]'
 - '[[Changes/OpenHands/2026-10-08-2-files-and-data-changes-in-v1-26-0|2 Files and
   Data changes in v1.26.0]]'
+- '[[Changes/Open WebUI/2026-10-10-6-files-and-data-changes-in-v0-12-0|6 Files and
+  Data changes in v0.12.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-14-v2-1-299-github-412217284-623d9162|claude-code-2026-10-14-v2-1-299-github-412217284-623d9162]]'
 source_type: github_releases
 theme: file-data
@@ -96,14 +96,14 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.299
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2026-10-08 · OpenHands · [[Changes/OpenHands/2026-10-08-2-files-and-data-changes-in-v1-26-0|2 Files and Data changes in v1.26.0]]
-- Later: 2026-10-23 · OpenHands · [[Changes/OpenHands/2026-10-23-feat-canvas-quiet-backend-logs-by-default-by-neubig-in-https-github-com-openhand|feat(canvas): quiet backend logs by default]]
+- Earlier: 2026-10-10 · Open WebUI · [[Changes/Open WebUI/2026-10-10-6-files-and-data-changes-in-v0-12-0|6 Files and Data changes in v0.12.0]]
+- Later: 2026-10-15 · Lovable · [[Changes/Lovable/2026-10-15-documents-in-the-project-chat-show-their-name-and-type|Documents in the project chat show their name and type]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-06 · ChatGPT · [[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code interpreter is now rolling out in beta on web]]
+- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

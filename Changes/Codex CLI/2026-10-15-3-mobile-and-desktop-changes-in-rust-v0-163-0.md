@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a7dab148c70af116bfcbca1fa1d3c153b83f32f04f1393e6ba3f4f709698f4bb
+machine_hash: 2e1d15646321911ce2094b6f60a4702155add23a8c9b3f2f46f74a1b6d6ae1ac
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -46,7 +46,8 @@ record:
   title: 3 Mobile and Desktop changes in rust-v0.163.0
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-10-12-devin-desktop|Devin Desktop]]'
+- '[[Changes/Gemini/2026-10-13-code-prototype-and-build-with-google-antigravity-in-the-gemini-macos-app|Code,
+  prototype, and build with Google Antigravity in the Gemini macOS app]]'
 - '[[Changes/Claude Code/2026-10-14-2-mobile-and-desktop-changes-in-v2-1-300|2 Mobile
   and Desktop changes in v2.1.300]]'
 - '[[Changes/Claude Code/2026-10-15-improved-artifacts-pages-claude-writes-now-paint-the-band-above-a-sticky-header|Improved

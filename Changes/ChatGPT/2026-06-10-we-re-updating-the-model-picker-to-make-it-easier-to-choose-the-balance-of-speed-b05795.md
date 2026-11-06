@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: e0d4b9812d15d5551cdca02c41f41890bb781ec4202e7b62bd1e5dacab268116
+machine_hash: 938518ef75c579218f8e172a3daf53c42c906ed4810d37754585c78760737eb8
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -76,12 +76,11 @@ record:
     speed…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-06-08-cleaned-up-logged-out-mobile-web-experience-logged-out-users-now-see-a-composer|Cleaned
-  up logged-out mobile web experience]]'
-- '[[Changes/Claude Code/2026-06-08-2-interface-experience-changes-in-v2-1-169|2 Interface
-  Experience changes in v2.1.169]]'
+- '[[Changes/v0/2026-06-08-3-interface-experience-changes-in-changelog-update|3 Interface
+  Experience changes in Changelog update]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-09-2-interface-experience-changes-in-v1-0-61|2
   Interface Experience changes in v1.0.61]]'
+- '[[Changes/Lovable/2026-06-09-svg-previews-in-chat|SVG previews in chat]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-06-10-simplified-controls-in-the-model-picker-32a1fdba|chatgpt-2026-06-10-simplified-controls-in-the-model-picker-32a1fdba]]'
 source_type: chatgpt_changelog
 theme: interface-experience
@@ -119,7 +118,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-06-09 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-09-2-interface-experience-changes-in-v1-0-61|2 Interface Experience changes in v1.0.61]]
+- Earlier: 2026-06-09 · Lovable · [[Changes/Lovable/2026-06-09-svg-previews-in-chat|SVG previews in chat]]
 - Later: 2026-06-10 · Windsurf · [[Changes/Windsurf/2026-06-10-agent-and-editor-modes|Agent and Editor modes]]
 <!-- chronolog:end -->
 

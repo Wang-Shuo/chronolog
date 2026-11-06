@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 2dd14d4c986a31fcdc576698a49631ea4623da7f5f9c657d54d78fd560e4f1d3
+machine_hash: 97c347d0fd1bc9bbb056af12585aecbdcf2943cd63d598c8adbbc4f5a913a8d4
 product: openhands
 product_name: OpenHands
 record:
@@ -45,12 +45,11 @@ record:
     OpenHands…
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-12-17-agent-can-reapply-edits-with-a-smarter-apply-model|Agent
-  can reapply edits with a smarter apply model]]'
-- '[[Changes/OpenHands/2024-12-26-frontend-hyperlink-in-chat-window-should-open-link-in-a-new-tab-by-openhands-age|Frontend
-  Hyperlink in Chat window should open link in a new tab]]'
-- '[[Changes/Cline/2025-01-06-compare-lets-you-see-a-diff-overview-between-the-snapshot-and-the-current-state|Compare
-  lets you see a diff overview between the snapshot and the current state…]]'
+- '[[Changes/Lovable/2025-01-06-edit-with-lovable-badge-enabled-for-all-users|“Edit
+  with Lovable” Badge enabled for all users]]'
+- '[[Changes/Dify/2025-01-07-2-editor-experience-changes-in-0-15-0|2 Editor Experience
+  changes in 0.15.0]]'
+- '[[Changes/Replit/2025-01-10-shell-bash-completion|Shell bash completion]]'
 source_release: '[[Releases/OpenHands/openhands-2025-01-13-0-20-0-github-194516759-a9c73f24|openhands-2025-01-13-0-20-0-github-194516759-a9c73f24]]'
 source_type: github_releases
 theme: editor-experience
@@ -80,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2025-01-06 · Cline · [[Changes/Cline/2025-01-06-compare-lets-you-see-a-diff-overview-between-the-snapshot-and-the-current-state|Compare lets you see a diff overview between the snapshot and the current state…]]
+- Earlier: 2025-01-10 · Replit · [[Changes/Replit/2025-01-10-shell-bash-completion|Shell bash completion]]
 - Later: 2025-01-22 · OpenHands · [[Changes/OpenHands/2025-01-22-users-can-now-define-a-different-llm-as-a-custom-llm-config-named-with-a-predefi|Users can now define a different LLM as a custom LLM config named with a predefined name]]
 <!-- chronolog:end -->
 

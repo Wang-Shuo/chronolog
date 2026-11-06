@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 44984645642fadbf5abb8887f0015671d0680a898a6d952e7da035d33f5bedee
+machine_hash: d67866ced946eb1fca31ad6ffab0d1f3eed72e2a8f1e8f1ee44b8160fa3bbd5e
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
   title: 2 Reliability and Performance changes in v2.1.77
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-11-faster-shell-commands-on-windows-by-skipping-powershell-profile-loading|Faster
-  shell commands on Windows by skipping PowerShell profile loading]]'
-- '[[Changes/Claude Code/2026-03-12-added-actionable-suggestions-to-context-command-identifies-context-heavy-tools-m|Added
-  actionable suggestions to /context command]]'
+- '[[Changes/Ollama/2026-03-14-4-reliability-and-performance-changes-in-v0-18-0|4
+  Reliability and Performance changes in v0.18.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-16-3-reliability-and-performance-changes-in-v1-0-6|3
   Reliability and Performance changes in v1.0.6]]'
+- '[[Changes/Lovable/2026-03-16-themes-have-been-removed-from-the-design-view-due-to-low-usage-and-performance-i|Themes
+  have been removed from the Design view due to low usage and performance issues]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-17-v2-1-77-github-297726061-caf6c30c|claude-code-2026-03-17-v2-1-77-github-297726061-caf6c30c]]'
 source_type: github_releases
 theme: reliability-performance
@@ -92,7 +92,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.77
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-03-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-16-3-reliability-and-performance-changes-in-v1-0-6|3 Reliability and Performance changes in v1.0.6]]
+- Earlier: 2026-03-16 · Lovable · [[Changes/Lovable/2026-03-16-themes-have-been-removed-from-the-design-view-due-to-low-usage-and-performance-i|Themes have been removed from the Design view due to low usage and performance issues]]
 - Later: 2026-03-17 · Claude Code · [[Changes/Claude Code/2026-03-17-improved-memory-usage-and-startup-time-when-resuming-large-sessions|Improved memory usage and startup time when resuming large sessions]]
 <!-- chronolog:end -->
 

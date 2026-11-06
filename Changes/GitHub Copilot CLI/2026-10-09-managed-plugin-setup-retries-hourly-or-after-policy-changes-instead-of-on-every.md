@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: dcc6aaf776c29a05c114b4601a22e39423c8816b57c2a5b0b0e46a2c4268c39c
+machine_hash: c85b555aaa12320c7c499463698eb5ce7b6cc219b75c158bc1023f99a97c0609
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,8 +43,8 @@ record:
     every…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-10-08-2-apps-and-integrations-changes-in-v1-0-94|2
-  Apps and Integrations changes in v1.0.94]]'
+- '[[Changes/Ollama/2026-10-08-readme-add-oxi-to-community-integrations-by-maziluiosif-in-https-github-com-olla|README:
+  add oxi to community integrations]]'
 - '[[Changes/OpenHands/2026-10-08-feat-apps-add-authenticated-backend-view-helper-by-neubig-in-https-github-com-op|feat(apps):
   add authenticated backend view helper]]'
 - '[[Changes/Claude Code/2026-10-09-3-apps-and-integrations-changes-in-v2-1-296|3
@@ -80,7 +80,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-10-09 · Claude Code · [[Changes/Claude Code/2026-10-09-3-apps-and-integrations-changes-in-v2-1-296|3 Apps and Integrations changes in v2.1.296]]
-- Later: 2026-10-12 · OpenHands · [[Changes/OpenHands/2026-10-12-3-apps-and-integrations-changes-in-v1-27-0|3 Apps and Integrations changes in v1.27.0]]
+- Later: 2026-10-09 · Lovable · [[Changes/Lovable/2026-10-09-generate-a-secret-that-another-app-also-needs|Generate a secret that another app also needs]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

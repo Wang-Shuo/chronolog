@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 17f89f2de31b1c0ce0478dfda3768661685eb296f0e4c7205ec1f5a2ec4efdf4
+machine_hash: 46cf9265a377a0c96cd8e88b74b25021ef889d8532ce1da34d38b366f66d6056
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
   title: 2 Model Support changes in v2.1.304
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-10-16-gpt-6-pro-in-the-chat-tab-now-offers|GPT-6 Pro in
-  the chat tab now offers]]'
-- '[[Changes/Claude Code/2026-10-16-improved-the-message-when-a-background-session-reopened-from-another-folder-has|Improved
-  the message when a background session reopened from another folder has no…]]'
-- '[[Changes/Cline/2026-10-16-4-model-support-changes-in-v4-1-25|4 Model Support changes
-  in v4.1.25]]'
+- '[[Changes/v0/2026-10-16-gemini-4-requests-no-longer-fail-when-run-at-higher-effort-levels|Gemini
+  4 requests no longer fail when run at higher effort levels]]'
+- '[[Changes/DeepSeek API/2026-10-17-deepseek-v4-1-flash-1017-update|DeepSeek-V4.1-Flash-1017
+  Update]]'
+- '[[Changes/Ollama/2026-10-18-6-model-support-changes-in-v0-40-7|6 Model Support
+  changes in v0.40.7]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-19-v2-1-304-github-417677344-46c4d994|claude-code-2026-10-19-v2-1-304-github-417677344-46c4d994]]'
 source_type: github_releases
 theme: model-support
@@ -92,7 +92,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.304
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-10-16 · Cline · [[Changes/Cline/2026-10-16-4-model-support-changes-in-v4-1-25|4 Model Support changes in v4.1.25]]
+- Earlier: 2026-10-18 · Ollama · [[Changes/Ollama/2026-10-18-6-model-support-changes-in-v0-40-7|6 Model Support changes in v0.40.7]]
 - Later: 2026-10-19 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-19-3-model-support-changes-in-v1-0-100|3 Model Support changes in v1.0.100]]
 <!-- chronolog:end -->
 

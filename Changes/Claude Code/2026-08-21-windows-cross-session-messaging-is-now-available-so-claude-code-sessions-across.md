@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: d06b7eb7e0c1bd74310c758b0b4d8e086864eab3a3f5c8b36c19267559dafaef
+machine_hash: 10659ba18f606b22a965fa9df433c542ff299292c2c4631bdb5053a729906b0c
 product: claude-code
 product_name: Claude Code
 record:
@@ -93,7 +93,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-08-20 · Codex CLI · [[Changes/Codex CLI/2026-08-20-7-mobile-and-desktop-changes-in-rust-v0-149-0|7 Mobile and Desktop changes in rust-v0.149.0]]
-- Later: 2026-08-21 · Windsurf · [[Changes/Windsurf/2026-08-21-devin-desktop|Devin Desktop]]
+- Later: 2026-08-21 · Ollama · [[Changes/Ollama/2026-08-21-developers-can-now-easily-configure-claude-desktop-to-seamlessly-work-with-ollam|Developers can now easily configure Claude Desktop to seamlessly work with Ollama…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

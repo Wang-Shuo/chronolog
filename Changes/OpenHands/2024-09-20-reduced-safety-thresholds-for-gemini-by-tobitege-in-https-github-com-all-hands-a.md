@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8a163b1a7fb54433ecd3fb175307a08df7f9a9f30259b938a8484d981a43eba7
+machine_hash: 85a1e34a62683b9a490eae1ed2aae759ec73604dd37cc700637c676920d61d9e
 product: openhands
 product_name: OpenHands
 record:
@@ -51,12 +51,12 @@ record:
   title: Reduced safety thresholds for Gemini
   type: change
 related_changes:
-- '[[Changes/Aider/2024-09-09-3-model-support-changes-in-v0-56-0|3 Model Support changes
-  in v0.56.0]]'
-- '[[Changes/Cline/2024-09-12-adds-support-for-azure-openai-and-google-gemini-free-for-up-to-15-requests-per-m|Adds
-  support for Azure OpenAI and Google Gemini (free for up to 15 requests per minute!)]]'
-- '[[Changes/Cline/2024-09-14-update-this-feature-is-now-opt-in-in-v1-8-0-use-problems-in-the-textarea-automat|Update:
-  This feature is now opt-in in v1.8.0 (use @problems in the textarea)]]'
+- '[[Changes/Ollama/2024-09-17-6-model-support-changes-in-v0-3-11|6 Model Support
+  changes in v0.3.11]]'
+- '[[Changes/Open WebUI/2024-09-19-2-model-support-changes-in-v0-3-22|2 Model Support
+  changes in v0.3.22]]'
+- '[[Changes/Dify/2024-09-20-5-model-support-changes-in-0-8-3|5 Model Support changes
+  in 0.8.3]]'
 source_release: '[[Releases/OpenHands/openhands-2024-09-20-0-9-4-github-176168688-527b3e55|openhands-2024-09-20-0-9-4-github-176168688-527b3e55]]'
 source_type: github_releases
 theme: model-support
@@ -85,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2024-09-14 · Cline · [[Changes/Cline/2024-09-14-update-this-feature-is-now-opt-in-in-v1-8-0-use-problems-in-the-textarea-automat|Update: This feature is now opt-in in v1.8.0 (use @problems in the textarea)]]
+- Earlier: 2024-09-20 · Dify · [[Changes/Dify/2024-09-20-5-model-support-changes-in-0-8-3|5 Model Support changes in 0.8.3]]
 - Later: 2024-09-21 · Aider · [[Changes/Aider/2024-09-21-6-model-support-changes-in-v0-57-0|6 Model Support changes in v0.57.0]]
 <!-- chronolog:end -->
 

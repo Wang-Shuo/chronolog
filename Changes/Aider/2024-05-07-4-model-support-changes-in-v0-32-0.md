@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 130c29605551588918994f3d7603f005a2f84c0049ce0c9729f15c4e00b78b67
+machine_hash: 32378583c08ad11010580e41e2e3fe8153d826ef7a920b9f55b04b432d6f378b
 product: aider
 product_name: Aider
 record:
@@ -49,12 +49,12 @@ record:
   title: 4 Model Support changes in v0.32.0
   type: change
 related_changes:
-- '[[Changes/Aider/2024-04-21-4-model-support-changes-in-v0-29-0|4 Model Support changes
-  in v0.29.0]]'
-- '[[Changes/Aider/2024-04-24-5-model-support-changes-in-v0-30-0|5 Model Support changes
-  in v0.30.0]]'
 - '[[Changes/Aider/2024-05-02-switch-models-during-the-chat-with-model-name-and-search-the-list-of-available-m|Switch
   models during the chat with /model name and search the list of available…]]'
+- '[[Changes/Dify/2024-05-02-5-model-support-changes-in-0-6-6|5 Model Support changes
+  in 0.6.6]]'
+- '[[Changes/Open WebUI/2024-05-02-2-model-support-changes-in-v0-1-123|2 Model Support
+  changes in v0.1.123]]'
 source_release: '[[Releases/Aider/aider-2024-05-07-v0-32-0-github-154679584-6315b9e7|aider-2024-05-07-v0-32-0-github-154679584-6315b9e7]]'
 source_type: github_releases
 theme: model-support
@@ -92,8 +92,8 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.32.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2024-05-02 · Aider · [[Changes/Aider/2024-05-02-switch-models-during-the-chat-with-model-name-and-search-the-list-of-available-m|Switch models during the chat with /model name and search the list of available…]]
-- Later: 2024-05-08 · Aider · [[Changes/Aider/2024-05-08-added-native-support-for-deepseek-models-https-aider-chat-docs-llms-html-deepsee|Added native support for Deepseek…]]
+- Earlier: 2024-05-02 · Open WebUI · [[Changes/Open WebUI/2024-05-02-2-model-support-changes-in-v0-1-123|2 Model Support changes in v0.1.123]]
+- Later: 2024-05-07 · Ollama · [[Changes/Ollama/2024-05-07-6-model-support-changes-in-v0-1-34|6 Model Support changes in v0.1.34]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

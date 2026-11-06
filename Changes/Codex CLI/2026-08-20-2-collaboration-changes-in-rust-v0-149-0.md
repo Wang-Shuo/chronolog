@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 236d1347ca6e3879c50187722e214fb084f179a6ac7822819fa13ec41c54c950
+machine_hash: d8eff0f8554a4dafd10f950a7c7ef6ac4b6d5e4dd8d9b796f161b77a8564c178
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -96,7 +96,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.149.0
 ## Nearby in Collaboration
 
 - Earlier: 2026-08-20 · ChatGPT · [[Changes/ChatGPT/2026-08-20-share-a-read-only-snapshot-of-a-codex-chat-personal-share-links-can-be-opened-by|Share a read-only snapshot of a Codex chat]]
-- Later: 2026-09-01 · Codex CLI · [[Changes/Codex CLI/2026-09-01-5-collaboration-changes-in-rust-v0-152-0|5 Collaboration changes in rust-v0.152.0]]
+- Later: 2026-08-25 · Dify · [[Changes/Dify/2026-08-25-5-collaboration-changes-in-1-17-0|5 Collaboration changes in 1.17.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

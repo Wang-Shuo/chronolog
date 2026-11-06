@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 03b6b773a9e72243995af4eaa29f96455ea38f52862dff41adacb7bd047f5e5c
+machine_hash: 6656c148a185bfc3b683b5bd0efc3815fb793f17c1c21ca93953ca428c885af1
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -43,12 +43,12 @@ record:
   title: Add numbers to selection list
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-07-01-feat-add-markdown-table-rendering-support-by-heartyguy-in-https-github-com-googl|feat:
-  Add markdown table rendering support]]'
-- '[[Changes/OpenHands/2025-07-02-added-tooltip-for-suggested-tasks-by-hieptl-in-https-github-com-all-hands-ai-ope|Added
-  tooltip for suggested tasks]]'
 - '[[Changes/Cursor/2025-07-03-chat-rendering-bugs-resolved-toolcall-display-overflow-issues|Chat
   rendering bugs resolved (toolcall display, overflow issues)]]'
+- '[[Changes/Dify/2025-07-10-2-interface-experience-changes-in-1-6-0|2 Interface Experience
+  changes in 1.6.0]]'
+- '[[Changes/Open WebUI/2025-07-14-4-interface-experience-changes-in-v0-6-16|4 Interface
+  Experience changes in v0.6.16]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-07-19-v0-1-13-github-233708271-319aa8dd|gemini-cli-2025-07-19-v0-1-13-github-233708271-319aa8dd]]'
 source_type: github_releases
 theme: interface-experience
@@ -87,8 +87,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2025-07-03 · Cursor · [[Changes/Cursor/2025-07-03-chat-rendering-bugs-resolved-toolcall-display-overflow-issues|Chat rendering bugs resolved (toolcall display, overflow issues)]]
-- Later: 2025-07-25 · Gemini CLI · [[Changes/Gemini CLI/2025-07-25-2-interface-experience-changes-in-v0-1-14|2 Interface Experience changes in v0.1.14]]
+- Earlier: 2025-07-14 · Open WebUI · [[Changes/Open WebUI/2025-07-14-4-interface-experience-changes-in-v0-6-16|4 Interface Experience changes in v0.6.16]]
+- Later: 2025-07-19 · Open WebUI · [[Changes/Open WebUI/2025-07-19-3-interface-experience-changes-in-v0-6-17|3 Interface Experience changes in v0.6.17]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

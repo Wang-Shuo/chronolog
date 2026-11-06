@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9fd6b536bdf525be4b9b5962ee9bc3c7e2b50ebec9fce55d0791758e3bfb33d4
+machine_hash: 5c09ccf34f06ded65583912d580cffe3812ab0440660b0a9ba95f6ffa4683ce7
 product: cline
 product_name: Cline
 record:
@@ -43,12 +43,12 @@ record:
   title: '[Tasks directory] Replace uses of context.globalStorageUri…'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-09-23-4093-chore-enable-auto-compaction-for-gpt-5-codex-4093|♯4093
-  chore: enable auto-compaction for gpt-5-codex (♯4093)]]'
 - '[[Changes/Gemini CLI/2025-09-24-2-context-window-changes-in-v0-6-0|2 Context Window
   changes in v0.6.0]]'
 - '[[Changes/Cline/2025-09-25-replace-vscode-context-globalstoragepath-with-hostprovider-globalstoragefspath-b|Replace
   vscode context.globalStoragePath with HostProvider.globalStorageFsPath]]'
+- "[[Changes/Open WebUI/2025-09-25-rag-query-generation-is-now-skipped-when-all-attached-files-are-set-to-full-cont|\U0001F50D
+  RAG query generation is now skipped when all attached files are set to full…]]"
 source_release: '[[Releases/Cline/cline-2025-09-28-v3-32-1-github-250554515-640a088d|cline-2025-09-28-v3-32-1-github-250554515-640a088d]]'
 source_type: github_releases
 theme: context-window
@@ -79,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2025-09-25 · Cline · [[Changes/Cline/2025-09-25-replace-vscode-context-globalstoragepath-with-hostprovider-globalstoragefspath-b|Replace vscode context.globalStoragePath with HostProvider.globalStorageFsPath]]
+- Earlier: 2025-09-25 · Open WebUI · [[Changes/Open WebUI/2025-09-25-rag-query-generation-is-now-skipped-when-all-attached-files-are-set-to-full-cont|🔍 RAG query generation is now skipped when all attached files are set to full…]]
 - Later: 2025-09-29 · Cline · [[Changes/Cline/2025-09-29-disk-ts-replace-uses-of-context-globalstorageuri-with-hostprovider-get-globalsto|disk.ts Replace uses of context.globalStorageUri…]]
 <!-- chronolog:end -->
 

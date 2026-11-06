@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d1476e706e1c0251c6154db5992f80af5fed42225f55cfece6f484187cde5996
+machine_hash: 7118ab82aff03e3374354e78857c95ceb9dfa2c17d190c65a817f13f0f08dfa8
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,8 +43,8 @@ record:
   title: 2 Safety and Privacy changes in v1.0.89
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-09-25-fix-mcp-keep-oauth-credentials-on-cloud-saves-and-skip-consent-when-tokens-still|fix(mcp):
-  keep OAuth credentials on cloud saves and skip consent when tokens still work]]'
+- '[[Changes/Replit/2026-09-25-control-access-to-design-systems-and-slide-templates|Control
+  access to design systems and slide templates]]'
 - '[[Changes/Claude Code/2026-09-28-4-safety-and-privacy-changes-in-v2-1-284|4 Safety
   and Privacy changes in v2.1.284]]'
 - '[[Changes/Codex CLI/2026-09-28-9-safety-and-privacy-changes-in-rust-v0-158-0|9

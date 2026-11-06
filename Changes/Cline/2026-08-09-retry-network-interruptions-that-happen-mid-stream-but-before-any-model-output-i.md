@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: ffda8a22694d8ad8bc0b01e9a034fd2c624f10d3517f690d7e105c176149e13f
+machine_hash: 01589b6567c3c6c45500d6d680334a7d3cd346637f1fabd0027000a8fe202cd6
 product: cline
 product_name: Cline
 record:
@@ -44,8 +44,8 @@ record:
   title: Retry network interruptions that happen mid-stream but before any model output…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-08-07-13-model-support-changes-in-rust-v0-147-0|13 Model
-  Support changes in rust-v0.147.0]]'
+- '[[Changes/Lovable/2026-08-07-veo-3-1-video-models-for-your-app-s-ai-features|Veo
+  3.1 video models for your app''s AI features]]'
 - '[[Changes/OpenHands/2026-08-07-feat-clarify-free-openhands-model-endpoints-by-juanmichelini-in-https-github-com|feat:
   clarify free OpenHands model endpoints]]'
 - '[[Changes/OpenHands/2026-08-07-feat-show-per-run-llm-cost-in-the-activity-log-and-exports-by-hieptl-in-https-gi|feat:

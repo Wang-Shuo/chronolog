@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: pricing
-machine_hash: 0c6a602ead2c86a39745496132f80644d21c48ea6afc10506a8aa01c907f60e9
+machine_hash: 4708e271ed8fb96db9abe202348e2467a083e9508407ee35dc5a19bacdecd636
 product: cline
 product_name: Cline
 record:
@@ -58,12 +58,12 @@ record:
   title: Add ClinePass to the VS Code extension, including onboarding, provider selection…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-18-28143-feat-app-server-expose-rate-limit-reset-credits-jayp-oai|♯28143
-  feat(app-server): expose rate-limit reset credits @jayp-oai]]'
-- '[[Changes/Codex CLI/2026-06-22-usage-can-now-show-and-redeem-earned-usage-limit-reset-credits-with-confirmation|/usage
-  can now show and redeem earned usage-limit reset credits…]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-23-display-cache-write-pricing-for-models-that-omit-it|Display
   cache-write pricing for models that omit it]]'
+- '[[Changes/Dify/2026-06-25-6-pricing-model-changes-in-1-15-0|6 Pricing Model changes
+  in 1.15.0]]'
+- '[[Changes/Lovable/2026-06-25-let-lovable-debug-and-improve-your-app-s-ai-features|Let
+  Lovable debug and improve your app''s AI features]]'
 source_release: '[[Releases/Cline/cline-2026-06-26-v4-0-0-github-345514931-9953949f|cline-2026-06-26-v4-0-0-github-345514931-9953949f]]'
 source_type: github_releases
 theme: pricing-model
@@ -98,8 +98,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-06-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-23-display-cache-write-pricing-for-models-that-omit-it|Display cache-write pricing for models that omit it]]
-- Later: 2026-06-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-30-configure-subagent-concurrency-and-depth-limits-in-settings-usage-based-billing|Configure subagent concurrency and depth limits in /settings (usage-based billing users)]]
+- Earlier: 2026-06-25 · Lovable · [[Changes/Lovable/2026-06-25-let-lovable-debug-and-improve-your-app-s-ai-features|Let Lovable debug and improve your app's AI features]]
+- Later: 2026-06-26 · v0 · [[Changes/v0/2026-06-26-2-pricing-model-changes-in-platform-api-v2-mcp-chat-tools|2 Pricing Model changes in Platform API v2, MCP chat tools…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: a13178782c955f589b11bcb66851a7e5b7817af83378cf225cb17f9275d6b85b
+machine_hash: 682703158cd112a8467ac7ef44470ec1f11b50dd54641efbe01f0dcd999710f6
 product: windsurf
 product_name: Windsurf
 record:
@@ -64,10 +64,9 @@ record:
   title: Agent and Editor modes
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-08-2-interface-experience-changes-in-v2-1-169|2 Interface
-  Experience changes in v2.1.169]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-09-2-interface-experience-changes-in-v1-0-61|2
   Interface Experience changes in v1.0.61]]'
+- '[[Changes/Lovable/2026-06-09-svg-previews-in-chat|SVG previews in chat]]'
 - '[[Changes/ChatGPT/2026-06-10-we-re-updating-the-model-picker-to-make-it-easier-to-choose-the-balance-of-speed-b05795|We’re
   updating the model picker to make it easier to choose the balance of speed…]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-06-10-v3-1-7-782b7243|windsurf-2026-06-10-v3-1-7-782b7243]]'

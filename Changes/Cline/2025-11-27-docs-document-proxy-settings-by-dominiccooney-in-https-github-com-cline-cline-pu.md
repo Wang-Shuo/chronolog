@@ -4,20 +4,20 @@ date: '2025-11-27'
 description: 'Cline · 2025-11-27 · Files and Data: docs: Document proxy settings.
   by @dominiccooney in https://github.com/cline/cline/pull/7637'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code
-    interpreter is now rolling out in beta on web]]'
+  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
+    Files and Data changes in 0.2.2]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 875
+  lag_days: 917
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: cbed2a680fa597552833e1233b7bab844f8b1d3e00d9036fbc14acd2b4a6fdd8
+machine_hash: 867b5251f1d334efcab37c6be2c1930622be9c05215ebe08c494dd5d2e713ad2
 product: cline
 product_name: Cline
 record:
@@ -43,12 +43,12 @@ record:
   title: 'docs: Document proxy settings'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-10-23-docs-document-exec-json-events-by-tibo-openai-in-https-github-com-openai-codex-p|docs:
-  document exec json events]]'
-- '[[Changes/Gemini CLI/2025-10-29-feat-docs-add-initial-release-confidence-document-by-galz10-in-https-github-com|feat(docs):
-  add initial release confidence document]]'
-- '[[Changes/Gemini CLI/2025-11-04-document-todo-tool-by-scidomino-in-https-github-com-google-gemini-gemini-cli-pul|Document
-  todo tool]]'
+- '[[Changes/Ollama/2025-11-19-deepseek-ocr-https-ollama-com-library-deepseek-ocr-deepseek-ocr-uses-optical-2d|DeepSeek-OCR((source
+  link) DeepSeek-OCR uses optical…]]'
+- '[[Changes/Open WebUI/2025-11-24-2-files-and-data-changes-in-v0-6-37|2 Files and
+  Data changes in v0.6.37]]'
+- '[[Changes/Dify/2025-11-26-3-files-and-data-changes-in-1-10-1|3 Files and Data changes
+  in 1.10.1]]'
 source_release: '[[Releases/Cline/cline-2025-11-27-v3-38-3-github-265611552-4d743450|cline-2025-11-27-v3-38-3-github-265611552-4d743450]]'
 source_type: github_releases
 theme: file-data
@@ -84,14 +84,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2025-11-04 · Gemini CLI · [[Changes/Gemini CLI/2025-11-04-document-todo-tool-by-scidomino-in-https-github-com-google-gemini-gemini-cli-pul|Document todo tool]]
-- Later: 2025-12-15 · Codex CLI · [[Changes/Codex CLI/2025-12-15-8024-docs-document-enabling-experimental-skills|♯8024 docs: document enabling experimental skills]]
+- Earlier: 2025-11-26 · Dify · [[Changes/Dify/2025-11-26-3-files-and-data-changes-in-1-10-1|3 Files and Data changes in 1.10.1]]
+- Later: 2025-12-02 · Open WebUI · [[Changes/Open WebUI/2025-12-02-sentencetransformers-embedding-initialization-was-fixed-by-updating-the-transfor|🐍 SentenceTransformers embedding initialization was fixed by updating…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-06 · ChatGPT · [[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code interpreter is now rolling out in beta on web]]
+- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

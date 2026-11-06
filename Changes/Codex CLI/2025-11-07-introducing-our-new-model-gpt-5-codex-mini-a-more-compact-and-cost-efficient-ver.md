@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: b8703f3e8f7504b88b3e302e155f4b2e4a5dc6a0513da0533f123487d0908824
+machine_hash: 1824972aaaaa3fd5f09f972a96f6a70cc80422afb9050bc087ab9efb8ee96cd2
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -46,12 +46,12 @@ record:
   title: Introducing our new model GPT-5-Codex-Mini
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-11-04-2-model-support-changes-in-v0-12-0|2 Model Support
-  changes in v0.12.0]]'
-- '[[Changes/ChatGPT/2025-11-05-you-can-now-interrupt-long-running-queries-such-as-deep-research-or-gpt-5-pro-to|Interrupt
-  ChatGPT]]'
 - '[[Changes/Cline/2025-11-06-complete-telemetry-attribution-for-model-provider-tracking-by-nickbaumann98-in-h|Complete
   telemetry attribution for model/provider tracking]]'
+- '[[Changes/Open WebUI/2025-11-06-10-model-support-changes-in-v0-6-35|10 Model Support
+  changes in v0.6.35]]'
+- '[[Changes/Open WebUI/2025-11-06-edit-button-is-now-available-in-the-three-dot-menu-of-models-in-the-workspace-se|✏️
+  Edit button is now available in the three-dot menu of models in the workspace…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-11-07-rust-v0-56-0-github-260721835-230209f8|codex-cli-2025-11-07-rust-v0-56-0-github-260721835-230209f8]]'
 source_type: github_releases
 theme: model-support
@@ -85,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-11-06 · Cline · [[Changes/Cline/2025-11-06-complete-telemetry-attribution-for-model-provider-tracking-by-nickbaumann98-in-h|Complete telemetry attribution for model/provider tracking]]
+- Earlier: 2025-11-06 · Open WebUI · [[Changes/Open WebUI/2025-11-06-edit-button-is-now-available-in-the-three-dot-menu-of-models-in-the-workspace-se|✏️ Edit button is now available in the three-dot menu of models in the workspace…]]
 - Later: 2025-11-07 · Gemini CLI · [[Changes/Gemini CLI/2025-11-07-4-model-support-changes-in-v0-13-0|4 Model Support changes in v0.13.0]]
 <!-- chronolog:end -->
 

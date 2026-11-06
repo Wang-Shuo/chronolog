@@ -1,0 +1,103 @@
+---
+card_id: elevenlabs-2025-02-17-3a1eb5
+date: '2025-02-17'
+description: 'ElevenLabs · 2025-02-17 · Agent Mode: **Tool calling fix**: Fixed an
+  issue where tool calling was not working with agents using gpt-4o mini. This was
+  due to a…'
+diffusion:
+  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Agents,
+    new docs]]'
+  inference: No adoption, equivalence, or causation claim.
+  lag_days: 592
+  relation: same-theme-chronology
+  role: later-observed
+  scope: tracked-products-only
+  theme: agent-mode
+  tracked_products_count: 20
+evolves_from: []
+extractor_version: fallback-v5
+impact: incremental
+kind: launch
+machine_hash: 732ea43d9eb738142c2f183b9d35d90f08b365944afbcda9931b3d934026beb7
+product: elevenlabs
+product_name: ElevenLabs
+record:
+  card_id: elevenlabs-2025-02-17-3a1eb5
+  comparison: ''
+  date: '2025-02-17'
+  description: 'ElevenLabs — ElevenLabs updates — 2025-02-17: **Tool calling fix**:
+    Fixed an issue where tool calling was not working with agents using gpt-4o mini.
+    This was due to a breaking change in the OpenAI API.'
+  evidence:
+  - quote: '**Tool calling fix**: Fixed an issue where tool calling was not working
+      with agents using gpt-4o mini. This was due to a breaking change in the OpenAI
+      API.'
+    source_release: https://elevenlabs.io/docs/changelog/2025/2/17
+  - quote: '**Tool calling improvements**: Added support for tool calling with dynamic
+      variables inside objects and arrays.'
+    source_release: https://elevenlabs.io/docs/changelog/2025/2/17
+  - quote: '**Dynamic variables**: Fixed an issue where dynamic variables of a conversation
+      were not being displayed correctly.'
+    source_release: https://elevenlabs.io/docs/changelog/2025/2/17
+  extractor_version: fallback-v5
+  impact: incremental
+  kind: launch
+  product: elevenlabs
+  product_name: ElevenLabs
+  slug: agents-platform
+  source_release: elevenlabs-2025-02-17-2025-02-17-f1b00eac
+  source_type: elevenlabs_changelog
+  theme: agent-mode
+  title: Agents Platform
+  type: change
+related_changes:
+- '[[Changes/Replit/2025-02-07-new-replit-app-cover-pages|New Replit App cover pages]]'
+- '[[Changes/ElevenLabs/2025-02-10-agents-platform|Agents Platform]]'
+- '[[Changes/Replit/2025-02-14-agent-updates|Agent updates]]'
+source_release: '[[Releases/ElevenLabs/elevenlabs-2025-02-17-2025-02-17-f1b00eac|elevenlabs-2025-02-17-2025-02-17-f1b00eac]]'
+source_type: elevenlabs_changelog
+theme: agent-mode
+title: Agents Platform
+type: change
+---
+
+<!-- chronolog:begin region="header" -->
+# Agents Platform
+
+**ElevenLabs** · 2025-02-17 · [[Themes/agent-mode|Agent Mode]] · Launch · [Official source](https://elevenlabs.io/docs/changelog/2025/2/17) · from [[Releases/ElevenLabs/elevenlabs-2025-02-17-2025-02-17-f1b00eac|ElevenLabs updates — 2025-02-17]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="evidence" -->
+> **Tool calling fix**: Fixed an issue where tool calling was not working with agents using gpt-4o mini. This was due to a breaking change in the OpenAI API.
+>
+> **Tool calling improvements**: Added support for tool calling with dynamic variables inside objects and arrays.
+>
+> **Dynamic variables**: Fixed an issue where dynamic variables of a conversation were not being displayed correctly.
+>
+> Source: https://elevenlabs.io/docs/changelog/2025/2/17
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/ElevenLabs/2025-02-17-voice-isolator|Voice Isolator]] · Voice and Audio
+- [[Changes/ElevenLabs/2025-02-17-workspace|Workspace]] · Pricing Model
+- [[Changes/ElevenLabs/2025-02-17-api|API]] · Agent Mode
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Agent Mode
+
+- Earlier: 2025-02-14 · Replit · [[Changes/Replit/2025-02-14-agent-updates|Agent updates]]
+- Later: 2025-02-19 · Cursor · [[Changes/Cursor/2025-02-19-agent-is-ready-agent-is-now-the-default-mode-bringing-a-more-powerful-and-unifie|Agent is ready: Agent is now the default mode, bringing a more powerful and unified…]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-07-06 · Cursor · [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Agents, new docs]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20elevenlabs-2025-02-17-3a1eb5&body=Card%3A%20Changes%2FElevenLabs%2F2025-02-17-agents-platform.md%0ACard%20ID%3A%20elevenlabs-2025-02-17-3a1eb5%0ASource%3A%20https%3A%2F%2Felevenlabs.io%2Fdocs%2Fchangelog%2F2025%2F2%2F17%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

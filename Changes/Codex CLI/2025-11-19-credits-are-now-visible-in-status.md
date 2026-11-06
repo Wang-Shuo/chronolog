@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: bdc2d32d99371950c15349504d3a81da5300514a92f8bf29d4b5f415574274e3
+machine_hash: 60396b3c196bc6970ca47989375297909aaa8aa346c6de4ce5875163bec4ad2a
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -41,12 +41,10 @@ record:
   title: Credits are now visible in `/status`
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-10-30-ability-to-buy-credits-for-more-usage-more-information-https-help-openai-com-en|Ability
-  to buy credits for more usage]]'
-- '[[Changes/ChatGPT/2025-11-03-eligible-customers-in-india-can-now-get-12-months-of-chatgpt-go-at-no-cost-new-u|ChatGPT
-  Go Promo - India]]'
 - '[[Changes/Gemini CLI/2025-11-07-fixing-minor-formatting-issues-in-quota-and-pricing-md-by-hyangah-in-https-githu|fixing
   minor formatting issues in quota-and-pricing.md]]'
+- '[[Changes/ElevenLabs/2025-11-12-billing|Billing]]'
+- '[[Changes/ElevenLabs/2025-11-12-billing-47b5b4|Billing]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-11-19-rust-v0-59-0-github-263735550-757042e7|codex-cli-2025-11-19-rust-v0-59-0-github-263735550-757042e7]]'
 source_type: github_releases
 theme: pricing-model
@@ -87,8 +85,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2025-11-07 · Gemini CLI · [[Changes/Gemini CLI/2025-11-07-fixing-minor-formatting-issues-in-quota-and-pricing-md-by-hyangah-in-https-githu|fixing minor formatting issues in quota-and-pricing.md]]
-- Later: 2025-12-04 · Codex CLI · [[Changes/Codex CLI/2025-12-04-persisting-credits-if-new-snapshot-does-not-contain-credit-info-7490-zhao-oai|persisting credits if new snapshot does not contain credit info ♯7490 @zhao-oai]]
+- Earlier: 2025-11-12 · ElevenLabs · [[Changes/ElevenLabs/2025-11-12-billing-47b5b4|Billing]]
+- Later: 2025-11-21 · ElevenLabs · [[Changes/ElevenLabs/2025-11-21-get-user-subscription-https-elevenlabs-io-docs-api-reference-user-subscription-g|Get user subscription((source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

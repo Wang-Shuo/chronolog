@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3a2f9da43b9fb6275c7e516fa6283c696879207ce97141ea319cd68bdd6b5a27
+machine_hash: 887d32824acbd18ca3bf18500291bb0c65d03b7561537a89ce416dab7372346d
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -42,8 +42,8 @@ record:
   title: 'docs(extensions): clarify env var sanitization policy for MCP and ext…'
   type: change
 related_changes:
-- '[[Changes/Cline/2026-05-25-add-lg-task-uri-webhook-integration-for-lg-dashboard-flows|Add
-  /lg-task URI webhook integration for LG dashboard flows]]'
+- '[[Changes/Lovable/2026-05-25-custom-mcp-servers-available-on-all-plans|Custom MCP
+  servers available on all plans]]'
 - '[[Changes/Codex CLI/2026-05-26-11-apps-and-integrations-changes-in-rust-v0-134-0|11
   Apps and Integrations changes in rust-v0.134.0]]'
 - '[[Changes/Claude Code/2026-05-27-4-apps-and-integrations-changes-in-v2-1-152|4
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-05-27 · Claude Code · [[Changes/Claude Code/2026-05-27-4-apps-and-integrations-changes-in-v2-1-152|4 Apps and Integrations changes in v2.1.152]]
-- Later: 2026-05-28 · Claude Code · [[Changes/Claude Code/2026-05-28-2-apps-and-integrations-changes-in-v2-1-153|2 Apps and Integrations changes in v2.1.153]]
+- Later: 2026-05-28 · Claude · [[Changes/Claude/2026-05-28-enterprise-plans-can-manage-connector-access-with-custom-roles|Enterprise plans can manage connector access with custom roles]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

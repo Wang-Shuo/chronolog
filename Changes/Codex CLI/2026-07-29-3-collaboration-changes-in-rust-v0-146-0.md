@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 354d3204551aca4b5d29db455325456e8b72c8baf284f1ddb2ae7d8d9a29a402
+machine_hash: 56b885c68d4d3ce653acde39ec7fcb3482b0aa2bc517aea06bcef15d873822ff
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,12 +44,11 @@ record:
   title: 3 Collaboration changes in rust-v0.146.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-16-2-collaboration-changes-in-v1-0-71|2 Collaboration
-  changes in v1.0.71]]'
-- '[[Changes/Codex CLI/2026-07-21-4-collaboration-changes-in-rust-v0-145-0|4 Collaboration
-  changes in rust-v0.145.0]]'
-- '[[Changes/Cursor/2026-07-22-admin-controls-per-team-and-per-group-enablement-mode-restrictions-default-mode|Admin
-  controls: per-team and per-group enablement, mode restrictions, default mode…]]'
+- '[[Changes/ElevenLabs/2026-07-27-studio|Studio]]'
+- '[[Changes/Open WebUI/2026-07-27-2-collaboration-changes-in-v0-11-0|2 Collaboration
+  changes in v0.11.0]]'
+- '[[Changes/Dify/2026-07-28-3-collaboration-changes-in-1-16-1|3 Collaboration changes
+  in 1.16.1]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-07-29-rust-v0-146-0-github-361463950-6d491983|codex-cli-2026-07-29-rust-v0-146-0-github-361463950-6d491983]]'
 source_type: github_releases
 theme: collaboration
@@ -99,7 +98,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.146.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-07-22 · Cursor · [[Changes/Cursor/2026-07-22-admin-controls-per-team-and-per-group-enablement-mode-restrictions-default-mode|Admin controls: per-team and per-group enablement, mode restrictions, default mode…]]
+- Earlier: 2026-07-28 · Dify · [[Changes/Dify/2026-07-28-3-collaboration-changes-in-1-16-1|3 Collaboration changes in 1.16.1]]
 - Later: 2026-07-29 · Cursor · [[Changes/Cursor/2026-07-29-switch-between-teams-that-you-belong-to-directly-in-the-app|Switch between teams that you belong to directly in the app]]
 <!-- chronolog:end -->
 

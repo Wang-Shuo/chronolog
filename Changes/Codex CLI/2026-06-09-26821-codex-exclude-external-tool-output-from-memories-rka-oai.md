@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1b7c4c7f162f9c794309cef245d369fb3f415df6323676e08d48f34dcf060fb2
+machine_hash: 6a0cd11e9869367f498fa303d4a3553414f612d5c36479f5a26fd55719b1332e
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -41,12 +41,12 @@ record:
   title: '#26821 [codex] Exclude external tool output from memories @rka-oai'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-28-vote-memory-tool-calls-are-throttled-per-response-and-per-interaction-to-prevent|vote_memory
-  tool calls are throttled per response and per interaction to prevent…]]'
-- '[[Changes/Codex CLI/2026-06-01-2-memory-and-personalization-changes-in-rust-v0-136-0|2
-  Memory and Personalization changes in rust-v0.136.0]]'
+- '[[Changes/Open WebUI/2026-06-01-2-memory-and-personalization-changes-in-v0-9-6|2
+  Memory and Personalization changes in v0.9.6]]'
 - '[[Changes/ChatGPT/2026-06-04-we-ve-upgraded-memory-so-chatgpt-can-better-keep-your-context-up-to-date-helping-9a48f3|Memory
   that stays more up to date]]'
+- '[[Changes/v0/2026-06-08-team-plan-members-can-set-custom-instructions|Team plan
+  members can set custom instructions]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-06-09-rust-v0-139-0-github-336847772-eda0ee6f|codex-cli-2026-06-09-rust-v0-139-0-github-336847772-eda0ee6f]]'
 source_type: github_releases
 theme: memory
@@ -84,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2026-06-04 · ChatGPT · [[Changes/ChatGPT/2026-06-04-we-ve-upgraded-memory-so-chatgpt-can-better-keep-your-context-up-to-date-helping-9a48f3|Memory that stays more up to date]]
+- Earlier: 2026-06-08 · v0 · [[Changes/v0/2026-06-08-team-plan-members-can-set-custom-instructions|Team plan members can set custom instructions]]
 - Later: 2026-06-09 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-09-resuming-a-local-session-with-memory-disabled-no-longer-crashes-the-ui-to-a-blan|Resuming a local session with memory disabled no longer crashes the UI to a blank screen]]
 <!-- chronolog:end -->
 

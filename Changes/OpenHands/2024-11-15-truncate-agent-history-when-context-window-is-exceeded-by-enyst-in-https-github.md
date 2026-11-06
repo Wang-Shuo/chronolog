@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 354e99818378b823ea7766ae8a2e29285cd363a3b1c2f0ebbafc9a8245778952
+machine_hash: ce7dff241d1f6c14ff4839d968c353349a9c2c42bdbb856e0871eb7b5da178e8
 product: openhands
 product_name: OpenHands
 record:
@@ -54,12 +54,12 @@ record:
   title: Truncate agent history when context window is exceeded
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-10-09-composer-now-only-applies-files-that-are-in-context-to-prevent-hallucinations|Composer
-  now only applies files that are in context to prevent hallucinations]]'
-- '[[Changes/OpenHands/2024-10-17-display-in-the-logs-the-prompt-cache-hit-or-miss-for-deepseek-chat-by-enyst-in-h|Display
-  in the logs the prompt cache hit or miss for Deepseek Chat]]'
 - '[[Changes/Aider/2024-11-01-save-fname-command-will-make-a-file-of-add-and-read-only-commands-that-recreate|/save
   fname command will make a file of /add and /read-only commands…]]'
+- '[[Changes/Dify/2024-11-05-2-context-window-changes-in-0-11-0|2 Context Window changes
+  in 0.11.0]]'
+- '[[Changes/Ollama/2024-11-15-reliability-improvements-when-hitting-context-limits|Reliability
+  improvements when hitting context limits]]'
 source_release: '[[Releases/OpenHands/openhands-2024-11-15-0-14-0-github-185663564-a321b3fb|openhands-2024-11-15-0-14-0-github-185663564-a321b3fb]]'
 source_type: github_releases
 theme: context-window
@@ -89,8 +89,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2024-11-01 · Aider · [[Changes/Aider/2024-11-01-save-fname-command-will-make-a-file-of-add-and-read-only-commands-that-recreate|/save fname command will make a file of /add and /read-only commands…]]
-- Later: 2024-11-24 · Cursor · [[Changes/Cursor/2024-11-24-early-version-of-an-agent-in-composer-that-can-pick-its-own-context-and-use-the-1228de|Early version of an agent in composer that can pick its own context and use the terminal]]
+- Earlier: 2024-11-15 · Ollama · [[Changes/Ollama/2024-11-15-reliability-improvements-when-hitting-context-limits|Reliability improvements when hitting context limits]]
+- Later: 2024-11-20 · Ollama · [[Changes/Ollama/2024-11-20-mistral-large-https-ollama-com-library-mistral-large-a-new-version-of-mistral-la|Mistral Large((source link) a new version of Mistral…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

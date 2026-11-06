@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1e466c9acce32fb24c2c24d7a0b3a1a52131f29d36a21a2de5f347ec9e1ed919
+machine_hash: 70c470e0439c262118f88dbf445387a4b32ec19231949970afbad86b82b9d8e7
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -69,12 +69,12 @@ record:
   title: 13 Interface Experience changes in rust-v0.167.0
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-10-27-3-interface-experience-changes-in-v1-34-0|3 Interface
-  Experience changes in v1.34.0]]'
-- '[[Changes/Codex CLI/2026-10-29-12-interface-experience-changes-in-rust-v0-166-0|12
-  Interface Experience changes in rust-v0.166.0]]'
+- '[[Changes/Open WebUI/2026-11-03-4-interface-experience-changes-in-v0-13-0|4 Interface
+  Experience changes in v0.13.0]]'
 - '[[Changes/OpenHands/2026-11-03-12-interface-experience-changes-in-v1-35-0|12 Interface
   Experience changes in v1.35.0]]'
+- '[[Changes/Dify/2026-11-04-2-interface-experience-changes-in-1-19-0|2 Interface
+  Experience changes in 1.19.0]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-11-06-rust-v0-167-0-github-435979892-a2e140bc|codex-cli-2026-11-06-rust-v0-167-0-github-435979892-a2e140bc]]'
 source_type: github_releases
 theme: interface-experience
@@ -141,7 +141,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.167.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-11-03 · OpenHands · [[Changes/OpenHands/2026-11-03-12-interface-experience-changes-in-v1-35-0|12 Interface Experience changes in v1.35.0]]
+- Earlier: 2026-11-04 · Dify · [[Changes/Dify/2026-11-04-2-interface-experience-changes-in-1-19-0|2 Interface Experience changes in 1.19.0]]
 - Later: 2026-11-06 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-11-06-42-interface-experience-changes-in-v1-0-106|42 Interface Experience changes in v1.0.106]]
 <!-- chronolog:end -->
 

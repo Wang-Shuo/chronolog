@@ -4,20 +4,20 @@ date: '2026-07-21'
 description: 'Codex CLI · 2026-07-21 · Voice and Audio: 7 changes in 0.145.0 — Added
   audio inputs and tool outputs, including common local audio formats, and introduced…'
 diffusion:
-  first_in_tracked: '[[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source
-    link) support, which allows you…]]'
+  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
+    Voice and Audio changes in 0.3.7]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1075
+  lag_days: 1107
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 44929cb2bf8b3ea21c6e2424f2c23e0ec6ca0e15f4d59776cbbb55981d8ed315
+machine_hash: 85012ba96f2a8c6064a1474b45b23ae13e13589b8c0add4a49d0f8152a8f098d
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -54,12 +54,9 @@ record:
   title: 7 Voice and Audio changes in rust-v0.145.0
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-07-08-we-re-rolling-out-a-new-chatgpt-voice-experience-chatgpt-voice-is-now-powered-by|Introducing
-  GPT-Live-1 in ChatGPT Voice]]'
-- '[[Changes/ChatGPT/2026-07-13-chatgpt-is-available-again-on-whatsapp-in-the-european-economic-area-eea-you-can-f60c71|ChatGPT
-  returns to WhatsApp in the EEA]]'
-- '[[Changes/GitHub Copilot CLI/2026-07-16-add-voice-devices-to-choose-and-persist-the-microphone-for-voice-mode|Add
-  /voice devices to choose and persist the microphone for voice mode]]'
+- '[[Changes/ElevenLabs/2026-07-20-workspaces|Workspaces]]'
+- '[[Changes/ElevenLabs/2026-07-20-packages|Packages]]'
+- '[[Changes/ElevenLabs/2026-07-20-javascript-sdk|JavaScript SDK]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-07-21-rust-v0-145-0-github-357545274-7be4454f|codex-cli-2026-07-21-rust-v0-145-0-github-357545274-7be4454f]]'
 source_type: github_releases
 theme: voice
@@ -119,14 +116,14 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.145.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-07-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-16-add-voice-devices-to-choose-and-persist-the-microphone-for-voice-mode|Add /voice devices to choose and persist the microphone for voice mode]]
+- Earlier: 2026-07-20 · ElevenLabs · [[Changes/ElevenLabs/2026-07-20-javascript-sdk|JavaScript SDK]]
 - Later: 2026-07-23 · ChatGPT · [[Changes/ChatGPT/2026-07-23-chatgpt-voice-is-now-available-in-work-and-codex-in-the-chatgpt-desktop-app-star|ChatGPT Voice in Work and Codex on desktop]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-08-11 · Aider · [[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source link) support, which allows you…]]
+- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

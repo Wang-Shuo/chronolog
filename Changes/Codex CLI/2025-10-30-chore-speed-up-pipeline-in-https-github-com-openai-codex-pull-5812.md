@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b64db5da792e1366e5bec945570ff4acbd2dd1bbe17cf8a902ad790188b3f80e
+machine_hash: 5b4c7753871eb8d0364e1fef6e92d745ea8368ae44f735ad19555c9caa071bc6
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -40,10 +40,11 @@ record:
   title: 'chore: speed-up pipeline in https://github.com/openai/codex/pull/5812'
   type: change
 related_changes:
-- '[[Changes/Windsurf/2025-10-26-falcon-alpha|Falcon Alpha]]'
-- '[[Changes/Cursor/2025-10-29-2-reliability-and-performance-changes-in-2-0|2 Reliability
-  and Performance changes in 2.0]]'
 - '[[Changes/Cursor/2025-10-29-improved-performance|Improved Performance]]'
+- '[[Changes/Ollama/2025-10-29-increase-speed-when-scheduling-models|Increase speed
+  when scheduling models]]'
+- '[[Changes/v0/2025-10-29-large-chats-on-v0-now-load-up-to-12x-faster|12x Faster
+  Chat Loading]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-10-30-rust-v0-52-0-github-258584762-83f2b559|codex-cli-2025-10-30-rust-v0-52-0-github-258584762-83f2b559]]'
 source_type: github_releases
 theme: reliability-performance
@@ -82,8 +83,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-10-29 · Cursor · [[Changes/Cursor/2025-10-29-improved-performance|Improved Performance]]
-- Later: 2025-10-31 · Cline · [[Changes/Cline/2025-10-31-refactor-ui-improve-tooltip-and-task-header-responsiveness-by-abeatrix-in-https|refactor(ui): improve tooltip and task header responsiveness]]
+- Earlier: 2025-10-29 · v0 · [[Changes/v0/2025-10-29-large-chats-on-v0-now-load-up-to-12x-faster|12x Faster Chat Loading]]
+- Later: 2025-10-30 · Ollama · [[Changes/Ollama/2025-10-30-qwen3-vl-performance-improvements-including-flash-attention-support-by-default|qwen3-vl performance improvements, including flash attention support by default]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

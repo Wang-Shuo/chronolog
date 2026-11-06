@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f1a5e592ec8b41921f0cff8d4b1f684a4c12572bb6c33f22083a06fb68f1d288
+machine_hash: 72c33446bdb0d22bb6452902d77bc132e0f9f600ffecb0371ca5cf5f024d40bc
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,9 @@ record:
   title: 2 Mobile and Desktop changes in v2.1.181
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-13-git-commands-no-longer-flash-a-console-window-on-windows|Git
-  commands no longer flash a console window on Windows]]'
 - '[[Changes/Codex CLI/2026-06-15-clarified-contributor-guidance-around-keeping-crate-apis-narrow-and-supporting-l|Clarified
   contributor guidance around keeping crate APIs narrow and supporting…]]'
+- '[[Changes/ElevenLabs/2026-06-15-ios-sdk|iOS SDK]]'
 - '[[Changes/Windsurf/2026-06-16-the-3-2-series-brings-devin-local-enhancements-and-continued-devin-desktop-polis|The
   3.2 series brings Devin Local enhancements and continued Devin Desktop polish]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-17-v2-1-181-github-340975229-c771c493|claude-code-2026-06-17-v2-1-181-github-340975229-c771c493]]'

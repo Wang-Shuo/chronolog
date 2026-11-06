@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5d7d7d0642e5024ae5b5f2d715bdd2b5574781c33e4c4ea0c24ca5925c9c6738
+machine_hash: 74da792a92ed4b0668e4909eee5c4aface3f9d9a2e145171f93c8f09dad09068
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -53,10 +53,8 @@ record:
   title: 6 Agent Mode changes in v0.33.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-05-13-agent-mode-changes-in-rust-v0-110-0|13 Agent
-  Mode changes in rust-v0.110.0]]'
-- '[[Changes/GitHub Copilot CLI/2026-03-05-automatic-notifications-when-background-shell-commands-and-agents-complete|Automatic
-  notifications when background shell commands and agents complete]]'
+- '[[Changes/ElevenLabs/2026-03-09-elevencreative-studio|ElevenCreative Studio]]'
+- '[[Changes/ElevenLabs/2026-03-09-javascript-sdk|JavaScript SDK]]'
 - '[[Changes/Claude Code/2026-03-10-2-agent-mode-changes-in-v2-1-72|2 Agent Mode changes
   in v2.1.72]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-03-11-v0-33-0-github-295447024-03392937|gemini-cli-2026-03-11-v0-33-0-github-295447024-03392937]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 8606a397174d9ba188f2e23f74205f92089afe683b67906f46cfc5d774baa4b2
+machine_hash: 7f3705ad36772fca3bfb701391d8df0277fa544588cb147519a9bafd2d219276
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -49,12 +49,12 @@ record:
     big strides…
   type: change
 related_changes:
-- '[[Changes/Cline/2025-10-01-2-mobile-and-desktop-changes-in-v3-32-6|2 Mobile and
-  Desktop changes in v3.32.6]]'
-- '[[Changes/Codex CLI/2025-10-03-experimental-reduce-repetitive-approval-for-read-only-commands-on-windows-4269|(experimental)
-  Reduce repetitive approval for read-only commands on Windows (♯4269)]]'
+- '[[Changes/Ollama/2025-10-03-macos-12-monterey-and-macos-13-ventura-are-no-longer-supported|macOS
+  12 Monterey and macOS 13 Ventura are no longer supported]]'
 - '[[Changes/GitHub Copilot CLI/2025-10-07-improved-file-write-performances-especially-on-windows-by-not-relying-on-the-she|Improved
   file write performances (especially on Windows) by not relying on the shell…]]'
+- '[[Changes/Ollama/2025-10-10-macos-12-monterey-and-macos-13-ventura-are-no-longer-supported|macOS
+  12 Monterey and macOS 13 Ventura are no longer supported]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2025-10-13-v0-0-340-github-254190325-efc0f949|github-copilot-cli-2025-10-13-v0-0-340-github-254190325-efc0f949]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -86,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2025-10-07 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-10-07-improved-file-write-performances-especially-on-windows-by-not-relying-on-the-she|Improved file write performances (especially on Windows) by not relying on the shell…]]
+- Earlier: 2025-10-10 · Ollama · [[Changes/Ollama/2025-10-10-macos-12-monterey-and-macos-13-ventura-are-no-longer-supported|macOS 12 Monterey and macOS 13 Ventura are no longer supported]]
 - Later: 2025-10-17 · Codex CLI · [[Changes/Codex CLI/2025-10-17-3-mobile-and-desktop-changes-in-rust-v0-47-0|3 Mobile and Desktop changes in rust-v0.47.0]]
 <!-- chronolog:end -->
 

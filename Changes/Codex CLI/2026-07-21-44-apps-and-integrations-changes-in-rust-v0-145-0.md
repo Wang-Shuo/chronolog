@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: cd892272ee45b74bbc65375c7547a4a688376572f5a3ebf8c1a9bd91f5bc89d9
+machine_hash: 3d412f5e56469b4181986ce206fe6cfe0b130cc5a4471cfce633386e20017523
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -129,8 +129,7 @@ record:
   title: 44 Apps and Integrations changes in rust-v0.145.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-20-background-sessions-mcp-and-install-github-app-now-park-a-needs-input-request-in|Background
-  sessions: /mcp and /install-github-app now park…]]'
+- '[[Changes/ElevenLabs/2026-07-20-sdk-releases|SDK Releases]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-20-10-apps-and-integrations-changes-in-v1-0-72|10
   Apps and Integrations changes in v1.0.72]]'
 - '[[Changes/Claude Code/2026-07-21-capped-the-frontend-design-plugin-suggestion-tip-at-3-lifetime-impressions-inste|Capped
@@ -269,7 +268,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.145.0
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-07-21 · Claude Code · [[Changes/Claude Code/2026-07-21-capped-the-frontend-design-plugin-suggestion-tip-at-3-lifetime-impressions-inste|Capped the frontend-design plugin suggestion tip at 3 lifetime impressions instead…]]
-- Later: 2026-07-22 · Claude Code · [[Changes/Claude Code/2026-07-22-3-apps-and-integrations-changes-in-v2-1-218|3 Apps and Integrations changes in v2.1.218]]
+- Later: 2026-07-21 · Lovable · [[Changes/Lovable/2026-07-21-app-connectors-apify-and-tally|App connectors: Apify and Tally]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: f8565461a7dae4afbce4e990a6f1fe819bb1997a8993a954fdaef3ae14ed6acf
+machine_hash: f138aa05dec500892634613af0309941d982655095bc113bf4f9da1b60a76adc
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,11 @@ record:
   title: Added prompt caching to `$.model.complete` for mods
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-02-changed-the-client-side-auto-mode-classifier-to-ignore-an-anthropic-default-sonn|Changed
-  the client-side auto mode classifier to ignore…]]'
-- '[[Changes/Claude Code/2026-10-05-2-model-support-changes-in-v2-1-290|2 Model Support
-  changes in v2.1.290]]'
+- '[[Changes/ElevenLabs/2026-10-05-javascript-sdk|JavaScript SDK]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-05-2-model-support-changes-in-v1-0-92|2 Model
   Support changes in v1.0.92]]'
+- '[[Changes/Lovable/2026-10-05-lyria-3-music-models-for-your-app-s-ai-features|Lyria
+  3 music models for your app''s AI features]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-06-v2-1-292-github-404958910-b2fd21ab|claude-code-2026-10-06-v2-1-292-github-404958910-b2fd21ab]]'
 source_type: github_releases
 theme: model-support
@@ -87,8 +86,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-10-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-05-2-model-support-changes-in-v1-0-92|2 Model Support changes in v1.0.92]]
-- Later: 2026-10-06 · OpenHands · [[Changes/OpenHands/2026-10-06-7-model-support-changes-in-v1-25-0|7 Model Support changes in v1.25.0]]
+- Earlier: 2026-10-05 · Lovable · [[Changes/Lovable/2026-10-05-lyria-3-music-models-for-your-app-s-ai-features|Lyria 3 music models for your app's AI features]]
+- Later: 2026-10-06 · Lovable · [[Changes/Lovable/2026-10-06-gemini-3-6-flash-is-deprecated-for-your-app-s-ai-features|Gemini 3.6 Flash is deprecated for your app's AI features]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b7e726b5078d354f168f194204a58b79504243900e85db9707de9270e50cf2d9
+machine_hash: f976d9aad1d5e864791ef92d922fc63c4e919896bd486810b58d833cd6525110
 product: cline
 product_name: Cline
 record:
@@ -80,7 +80,7 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2026-10-16 · Claude Code · [[Changes/Claude Code/2026-10-16-2-context-window-changes-in-v2-1-302|2 Context Window changes in v2.1.302]]
-- Later: 2026-10-19 · Claude Code · [[Changes/Claude Code/2026-10-19-3-context-window-changes-in-v2-1-304|3 Context Window changes in v2.1.304]]
+- Later: 2026-10-16 · Open WebUI · [[Changes/Open WebUI/2026-10-16-2-context-window-changes-in-v0-12-3|2 Context Window changes in v0.12.3]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

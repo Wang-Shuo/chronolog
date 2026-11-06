@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 04e49ac9094d5b4297a276b464fdef949635affc34df6c5602d3b241b42621b4
+machine_hash: d351417dcbbe0975c6b192033771d0ea940687a152fc4d67824f66b7426e7c97
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -105,7 +105,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.1.8
 ## Nearby in Model Support
 
 - Earlier: 2025-06-29 · Cline · [[Changes/Cline/2025-06-29-2-model-support-changes-in-v3-18-1|2 Model Support changes in v3.18.1]]
-- Later: 2025-07-02 · Gemini CLI · [[Changes/Gemini CLI/2025-07-02-2-model-support-changes-in-v0-1-9|2 Model Support changes in v0.1.9]]
+- Later: 2025-07-02 · Dify · [[Changes/Dify/2025-07-02-4-model-support-changes-in-1-5-1|4 Model Support changes in 1.5.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

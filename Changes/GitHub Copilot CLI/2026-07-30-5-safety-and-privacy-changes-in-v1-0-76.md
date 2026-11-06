@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9b2ef3b8efe1abeef363ed2171e3b7917b51df99ca01ef8e71510d80286448c2
+machine_hash: 18f9cfaf45acc4664cac5d1b96e95b1e2d6846ae23caf0a220ae570c40128588
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -61,10 +61,10 @@ record:
   title: 5 Safety and Privacy changes in v1.0.76
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-07-28-fix-a2a-server-enforce-workspace-trust-and-task-isolation-to-prevent-rce-by-luis|fix(a2a-server):
-  enforce workspace trust and task isolation to prevent RCE]]'
 - '[[Changes/Codex CLI/2026-07-29-6-safety-and-privacy-changes-in-rust-v0-146-0|6
   Safety and Privacy changes in rust-v0.146.0]]'
+- '[[Changes/Lovable/2026-07-29-fewer-false-alarms-in-dependency-scans|Fewer false
+  alarms in dependency scans]]'
 - '[[Changes/OpenHands/2026-07-29-fix-revive-local-telemetry-consent-banner-by-malhotra5-in-https-github-com-openh|fix:
   Revive local telemetry consent banner]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-07-30-v1-0-76-github-362129864-0932fe29|github-copilot-cli-2026-07-30-v1-0-76-github-362129864-0932fe29]]'

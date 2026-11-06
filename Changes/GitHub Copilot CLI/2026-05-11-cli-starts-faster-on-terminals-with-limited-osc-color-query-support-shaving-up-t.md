@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 0d98f651db06dc4ed313f26deae9b140adb4b3f94ce195a89ce66ca158abb44e
+machine_hash: cd80d5a09076e1d7692e44a726963c669f1759f1086bed5cd60b6be59144aca9
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,8 +45,8 @@ record:
     up…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-08-faster-user-list-and-user-switch-for-multi-account-users|Faster
-  /user list and /user switch for multi-account users]]'
+- '[[Changes/Open WebUI/2026-05-09-4-reliability-and-performance-changes-in-v0-9-3|4
+  Reliability and Performance changes in v0.9.3]]'
 - '[[Changes/Claude Code/2026-05-11-added-scroll-speed-command-to-tune-mouse-wheel-scroll-speed-with-a-live-preview|Added
   /scroll-speed command to tune mouse wheel scroll speed with a live preview]]'
 - '[[Changes/Cursor/2026-05-11-default-bugbot-continues-to-use-the-same-effort-level-as-it-does-today-optimized|Default:
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-05-11 · Cursor · [[Changes/Cursor/2026-05-11-default-bugbot-continues-to-use-the-same-effort-level-as-it-does-today-optimized|Default: Bugbot continues to use the same effort level as it does today]]
-- Later: 2026-05-12 · Gemini CLI · [[Changes/Gemini CLI/2026-05-12-2-reliability-and-performance-changes-in-v0-42-0|2 Reliability and Performance changes in v0.42.0]]
+- Later: 2026-05-12 · Dify · [[Changes/Dify/2026-05-12-workflow-stability-restored-workflow-version-loading-through-the-backend-api-fix|Workflow stability — restored workflow-version loading through the backend API…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

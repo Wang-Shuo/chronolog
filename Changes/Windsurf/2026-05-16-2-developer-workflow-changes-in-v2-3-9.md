@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3c88e95480ae9cc846389b2445cb9a9e9aa57b9d9e0d9d31286c56ced161f0c2
+machine_hash: 5ee01bf4bbca0ceaa35fe5364f8211c399adc483e0662868f738efdcff7d0a89
 product: windsurf
 product_name: Windsurf
 record:
@@ -41,12 +41,12 @@ record:
   title: 2 Developer Workflow changes in v2.3.9
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-05-13-removed-noisy-in-app-terminal-notifications-and-improved-shortcut-behavior|Removed
-  noisy in-app terminal notifications and improved shortcut behavior]]'
-- '[[Changes/GitHub Copilot CLI/2026-05-14-terminal-cursor-positions-correctly-on-the-input-field-instead-of-on-decorative|Terminal
-  cursor positions correctly on the input field instead of on decorative…]]'
+- '[[Changes/Ollama/2026-05-14-ollama-0-24-includes-support-for-the-codex-app-openai-s-desktop-experience-for-w|Ollama
+  0.24 includes support for the Codex App, OpenAI''s desktop experience…]]'
 - '[[Changes/Claude Code/2026-05-15-2-developer-workflow-changes-in-v2-1-143|2 Developer
   Workflow changes in v2.1.143]]'
+- '[[Changes/v0/2026-05-15-bash-terminal-output-no-longer-flashes-empty-rows-while-commands-are-running|Bash
+  terminal output no longer flashes empty rows while commands are running]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-05-16-v2-3-9-a0bc6994|windsurf-2026-05-16-v2-3-9-a0bc6994]]'
 source_type: windsurf_changelog
 theme: developer-workflow
@@ -79,7 +79,7 @@ Source: https://docs.devin.ai/desktop/changelog#v2-3-9
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-05-15 · Claude Code · [[Changes/Claude Code/2026-05-15-2-developer-workflow-changes-in-v2-1-143|2 Developer Workflow changes in v2.1.143]]
+- Earlier: 2026-05-15 · v0 · [[Changes/v0/2026-05-15-bash-terminal-output-no-longer-flashes-empty-rows-while-commands-are-running|Bash terminal output no longer flashes empty rows while commands are running]]
 - Later: 2026-05-18 · Codex CLI · [[Changes/Codex CLI/2026-05-18-12-developer-workflow-changes-in-rust-v0-131-0|12 Developer Workflow changes in rust-v0.131.0]]
 <!-- chronolog:end -->
 

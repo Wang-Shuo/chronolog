@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 59aaa36ea0e8d8b82035dfdb2765098f79f2843a8cfff505bb4aa5e127c7aa56
+machine_hash: 3cf3f3530360f9dad112dd63897db735fb83fa23a266d5bff049eca607378495
 product: windsurf
 product_name: Windsurf
 record:
@@ -44,11 +44,12 @@ record:
   title: Improvements to Windsurf Tab
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-03-23-chat-tabs|Chat tabs]]'
-- '[[Changes/Aider/2025-03-25-added-edit-as-an-alias-for-the-editor-command|Added
-  /edit as an alias for the /editor command]]'
+- '[[Changes/Lovable/2025-03-28-supabase-functions-now-get-deployed-when-updated-in-code-editor-also-supabase-fu|Supabase
+  functions now get deployed when updated in code editor]]'
 - '[[Changes/Cline/2025-04-01-2-editor-experience-changes-in-v3-8-5|2 Editor Experience
   changes in v3.8.5]]'
+- "[[Changes/Open WebUI/2025-04-01-prompt-autocompletion-disabled-by-default-autocomplete-suggestions-while-typing|\U0001F9E0
+  Prompt Autocompletion Disabled By Default]]"
 source_release: '[[Releases/Windsurf/windsurf-2025-04-02-v1-6-1-9d892c6f|windsurf-2025-04-02-v1-6-1-9d892c6f]]'
 source_type: windsurf_changelog
 theme: editor-experience
@@ -81,8 +82,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2025-04-01 · Cline · [[Changes/Cline/2025-04-01-2-editor-experience-changes-in-v3-8-5|2 Editor Experience changes in v3.8.5]]
-- Later: 2025-04-06 · Cline · [[Changes/Cline/2025-04-06-add-ability-to-detect-when-user-edits-files-manually-so-cline-knows-to-re-read-l|Add ability to detect when user edits files manually so Cline knows to re-read…]]
+- Earlier: 2025-04-01 · Open WebUI · [[Changes/Open WebUI/2025-04-01-prompt-autocompletion-disabled-by-default-autocomplete-suggestions-while-typing|🧠 Prompt Autocompletion Disabled By Default]]
+- Later: 2025-04-04 · Lovable · [[Changes/Lovable/2025-04-04-refactor-of-diff-creation-which-handles-multiple-edits-to-the-same-file|Refactor of diff creation which handles multiple edits to the same file]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

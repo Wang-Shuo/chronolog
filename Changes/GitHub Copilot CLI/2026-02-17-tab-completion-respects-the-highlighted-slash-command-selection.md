@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 48579b98bde9f3780cd173c5be2eefd3f21d2ba01041ae73c2f566ed84d5976e
+machine_hash: 0bd56bc43ec749cccd93b96d7dde995f7afdb9418675a1f88e9064da826fec14
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-02-17 · Cursor · [[Changes/Cursor/2026-02-17-manual-edits-no-longer-create-in-line-diffs|Manual edits no longer create in-line diffs]]
-- Later: 2026-02-18 · Gemini CLI · [[Changes/Gemini CLI/2026-02-18-2-editor-experience-changes-in-v0-29-0|2 Editor Experience changes in v0.29.0]]
+- Later: 2026-02-17 · Open WebUI · [[Changes/Open WebUI/2026-02-17-image-edit-api-background-support-the-image-edit-api-now-supports-the-background|🎨 Image edit API background support. The image edit API now supports…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

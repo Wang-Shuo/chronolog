@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8f32c831d28e244945653d84dee9eb31b8a0538165dae3cd0cd1b099342ddd84
+machine_hash: b409d8f21d765e3b0cbcc5554274e99ada39f24ad5b2bec1d3cefe66d137c793
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,8 +44,8 @@ record:
   title: 2 Context Window changes in v1.0.35
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-04-20-10-context-window-changes-in-rust-v0-122-0|10 Context
-  Window changes in rust-v0.122.0]]'
+- '[[Changes/Open WebUI/2026-04-21-8-context-window-changes-in-v0-9-0|8 Context Window
+  changes in v0.9.0]]'
 - '[[Changes/Codex CLI/2026-04-23-18794-organize-context-fragments-pakrym-oai|♯18794
   Organize context fragments @pakrym-oai]]'
 - '[[Changes/Codex CLI/2026-04-23-2-context-window-changes-in-rust-v0-124-0|2 Context

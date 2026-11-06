@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 72d22c5f0287dbc094f6054e7ed9fac1e96076b7bb3b96dcd2fb150faf49a801
+machine_hash: 73e19c0786a72defb1972645cf90795c45d754d843c90fc2a5b8a2bc4867f5bb
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,12 +49,12 @@ record:
   title: 3 Agent Mode changes in v2.1.248
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-25-improved-subagent-results-a-subagent-that-stops-at-its-maxturns-limit-now-return|Improved
-  subagent results]]'
-- '[[Changes/Gemini CLI/2026-08-25-8-agent-mode-changes-in-v0-57-0|8 Agent Mode changes
-  in v0.57.0]]'
+- "[[Changes/Open WebUI/2026-08-25-files-for-delegated-tasks-a-task-handed-to-a-sub-agent-can-now-carry-the-attachm|\U0001F91D
+  Files for delegated tasks. A task handed to a sub-agent can now carry…]]"
 - '[[Changes/Codex CLI/2026-08-26-14-agent-mode-changes-in-rust-v0-150-0|14 Agent
   Mode changes in rust-v0.150.0]]'
+- '[[Changes/Lovable/2026-08-26-add-your-app-to-slack-as-an-agent|Add your app to
+  Slack as an agent]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-27-v2-1-248-github-378106990-677106e3|claude-code-2026-08-27-v2-1-248-github-378106990-677106e3]]'
 source_type: github_releases
 theme: agent-mode
@@ -96,7 +96,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.248
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-08-26 · Codex CLI · [[Changes/Codex CLI/2026-08-26-14-agent-mode-changes-in-rust-v0-150-0|14 Agent Mode changes in rust-v0.150.0]]
+- Earlier: 2026-08-26 · Lovable · [[Changes/Lovable/2026-08-26-add-your-app-to-slack-as-an-agent|Add your app to Slack as an agent]]
 - Later: 2026-08-27 · Cursor · [[Changes/Cursor/2026-08-27-cloud-agents-no-longer-require-a-connected-github-or-other-third-party-scm-provi|Cloud Agents no longer require a connected GitHub or other third-party SCM provider…]]
 <!-- chronolog:end -->
 

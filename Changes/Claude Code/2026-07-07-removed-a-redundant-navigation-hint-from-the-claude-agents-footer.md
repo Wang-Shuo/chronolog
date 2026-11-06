@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f50c276a8092a3e210e247a792b88064e5c1124a592b450a0f80900143c3cb85
+machine_hash: 7cb10146acb750e8511f494cb601223199e4181d4261c3df36ddeb37cb1f4618
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,8 +51,8 @@ record:
   title: Removed a redundant navigation hint from the `claude agents` footer
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-01-2-interface-experience-changes-in-v1-0-68|2
-  Interface Experience changes in v1.0.68]]'
+- '[[Changes/Open WebUI/2026-07-01-2-interface-experience-changes-in-v0-10-2|2 Interface
+  Experience changes in v0.10.2]]'
 - '[[Changes/Claude Code/2026-07-03-changed-askuserquestion-dialogs-to-no-longer-auto-continue-by-default-opt-into-a|Changed
   AskUserQuestion dialogs to no longer auto-continue by default]]'
 - '[[Changes/OpenHands/2026-07-06-feat-jira-dc-email-mode-auto-link-targeted-repo-lookup-and-picker-mentions-by-ak|feat(jira-dc):

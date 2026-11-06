@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b2d3af898198ece68e1b02dfc74abba21492bb6eb9ee83c977f455095ce5b595
+machine_hash: 64e543e835df8209415a4f8f9f2d5ee7a17593424350c5d407aa1cd8b730a6ff
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Account and Access
 
 - Earlier: 2025-09-08 · Codex CLI · [[Changes/Codex CLI/2025-09-08-3217-added-logic-to-cancel-pending-oauth-login-to-free-up-localhost-port|♯3217 Added logic to cancel pending oauth login to free up localhost port]]
-- Later: 2025-09-15 · Codex CLI · [[Changes/Codex CLI/2025-09-15-6-account-and-access-changes-in-rust-v0-36-0|6 Account and Access changes in rust-v0.36.0]]
+- Later: 2025-09-09 · Open WebUI · [[Changes/Open WebUI/2025-09-09-6-account-and-access-changes-in-v0-6-27|6 Account and Access changes in v0.6.27]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

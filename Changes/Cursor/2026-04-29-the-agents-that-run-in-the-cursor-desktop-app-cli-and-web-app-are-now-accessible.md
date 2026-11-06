@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 78b94d63acc2801eef1cd55de29124ca28b9ad5d53fdcb5aae2a170a9018a557
+machine_hash: d951e1d25562816c62298e057a66497e918bbb4b9b52da61ae6105d2704c6dc3
 product: cursor
 product_name: Cursor
 record:
@@ -57,12 +57,11 @@ record:
   title: The agents that run in the Cursor desktop app, CLI, and web app are now accessible…
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-04-23-use-macos-latest-large-runner-where-applicable-by-scidomino-in-https-github-com|use
-  macos-latest-large runner where applicable]]'
-- '[[Changes/GitHub Copilot CLI/2026-04-23-tool-availability-detection-works-correctly-on-windows|Tool
-  availability detection works correctly on Windows]]'
-- '[[Changes/Codex CLI/2026-04-24-19167-ci-add-macos-keychain-entitlements-euroelessar|♯19167
-  ci: add macOS keychain entitlements @euroelessar]]'
+- '[[Changes/Lovable/2026-04-24-lovable-desktop-app|Lovable desktop app]]'
+- '[[Changes/Replit/2026-04-24-add-a-mobile-app-to-older-projects|Add a mobile app
+  to older projects]]'
+- '[[Changes/Replit/2026-04-24-preview-on-an-ios-simulator-or-android-emulator|Preview
+  on an iOS Simulator or Android Emulator]]'
 source_release: '[[Releases/Cursor/cursor-2026-04-29-build-programmatic-agents-with-the-cursor-sdk-https-cursor-com-c-b4665fa3|cursor-2026-04-29-build-programmatic-agents-with-the-cursor-sdk-https-cursor-com-c-b4665fa3]]'
 source_type: cursor_changelog
 theme: mobile-desktop
@@ -94,7 +93,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-04-24 · Codex CLI · [[Changes/Codex CLI/2026-04-24-19167-ci-add-macos-keychain-entitlements-euroelessar|♯19167 ci: add macOS keychain entitlements @euroelessar]]
+- Earlier: 2026-04-24 · Replit · [[Changes/Replit/2026-04-24-preview-on-an-ios-simulator-or-android-emulator|Preview on an iOS Simulator or Android Emulator]]
 - Later: 2026-04-30 · Codex CLI · [[Changes/Codex CLI/2026-04-30-3-mobile-and-desktop-changes-in-rust-v0-128-0|3 Mobile and Desktop changes in rust-v0.128.0]]
 <!-- chronolog:end -->
 

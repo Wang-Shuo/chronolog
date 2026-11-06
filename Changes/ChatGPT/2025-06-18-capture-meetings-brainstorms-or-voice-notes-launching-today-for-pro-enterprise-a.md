@@ -4,20 +4,20 @@ date: '2025-06-18'
 description: 'ChatGPT · 2025-06-18 · Voice and Audio: Capture meetings, brainstorms,
   or voice notes. Launching today for Pro, Enterprise, and Edu users. Previously launched…'
 diffusion:
-  first_in_tracked: '[[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source
-    link) support, which allows you…]]'
+  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
+    Voice and Audio changes in 0.3.7]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 677
+  lag_days: 709
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2e10f6c3f8847c8b65c03bac2dd7984cc1ddd44b8c896dc899dac91ef3204d88
+machine_hash: 0583e726a51ac9e4f3d03a7a7e1efdd7c8f18078dade2e6fe8cb195a3bc85625
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -43,10 +43,9 @@ record:
   title: Capture meetings, brainstorms, or voice notes
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-06-07-in-testing-we-ve-observed-that-this-update-may-occasionally-cause-minor-decrease-ca0630|In
-  testing, we''ve observed that this update may occasionally cause minor decreases…]]'
-- '[[Changes/ChatGPT/2025-06-12-deep-research-and-voice-mode-support|Deep research
-  and voice mode support]]'
+- "[[Changes/Open WebUI/2025-06-16-custom-speech-to-text-content-type-for-transcription-define-custom-content-types|\U0001F3A4
+  Custom Speech-to-Text Content-Type for Transcription]]"
+- '[[Changes/ElevenLabs/2025-06-17-elevencreative-studio|ElevenCreative Studio]]'
 - '[[Changes/ChatGPT/2025-06-18-chatgpt-will-transcribe-summarize-and-turn-them-into-helpful-outputs-like-follow|ChatGPT
   will transcribe, summarize, and turn them into helpful outputs like…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-06-18-chatgpt-record-mode-f7984257|chatgpt-2025-06-18-chatgpt-record-mode-f7984257]]'
@@ -77,14 +76,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2025-06-12 · ChatGPT · [[Changes/ChatGPT/2025-06-12-deep-research-and-voice-mode-support|Deep research and voice mode support]]
-- Later: 2025-07-01 · Gemini CLI · [[Changes/Gemini CLI/2025-07-01-feat-add-audio-and-video-support-to-read-file-by-santhoshkumarcodes-in-https-git|feat: add audio and video support to read_file]]
+- Earlier: 2025-06-17 · ElevenLabs · [[Changes/ElevenLabs/2025-06-17-elevencreative-studio|ElevenCreative Studio]]
+- Later: 2025-06-23 · ElevenLabs · [[Changes/ElevenLabs/2025-06-23-voice-library|Voice Library]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-08-11 · Aider · [[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source link) support, which allows you…]]
+- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

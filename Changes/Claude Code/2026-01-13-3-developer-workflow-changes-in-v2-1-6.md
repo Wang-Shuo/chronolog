@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 24dcc36f673e2defd1dce142a657eddfab576eac3d3a39166489e694af41ac01
+machine_hash: 9ebe30539cb4bc793480501a26634fa40b2a055263b7b5aeff9302aee0cd444c
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,10 +44,10 @@ record:
   title: 3 Developer Workflow changes in v2.1.6
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-09-4-developer-workflow-changes-in-v2-1-2|4 Developer
-  Workflow changes in v2.1.2]]'
 - '[[Changes/Codex CLI/2026-01-09-4-developer-workflow-changes-in-rust-v0-80-0|4 Developer
   Workflow changes in rust-v0.80.0]]'
+- '[[Changes/Open WebUI/2026-01-09-24-developer-workflow-changes-in-v0-7-0|24 Developer
+  Workflow changes in v0.7.0]]'
 - '[[Changes/Claude Code/2026-01-12-added-claude-code-tmpdir-environment-variable-to-override-the-temp-directory-use|Added
   CLAUDE_CODE_TMPDIR environment variable to override the temp directory used…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-13-v2-1-6-github-276206295-e2719d9a|claude-code-2026-01-13-v2-1-6-github-276206295-e2719d9a]]'
@@ -91,7 +91,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.6
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-01-12 · Claude Code · [[Changes/Claude Code/2026-01-12-added-claude-code-tmpdir-environment-variable-to-override-the-temp-directory-use|Added CLAUDE_CODE_TMPDIR environment variable to override the temp directory used…]]
-- Later: 2026-01-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-13-2-developer-workflow-changes-in-v0-0-380|2 Developer Workflow changes in v0.0.380]]
+- Later: 2026-01-13 · Dify · [[Changes/Dify/2026-01-13-5-developer-workflow-changes-in-1-11-3|5 Developer Workflow changes in 1.11.3]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

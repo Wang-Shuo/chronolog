@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0fb7a351b99a586673f0adbb1efce8362af229ce8a45a7d526964a9d8e8180af
+machine_hash: 650d297f63cc66a85a6f17cc9f19f063c63e8195dfa5a4359d396c4bf97362b0
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,8 +41,8 @@ record:
   title: iOS performance fixes
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-01-23-also-adds-mcp-support-team-configurable-blocklists-fixes-composer-stuck-on-gener|Also
-  adds MCP support, team-configurable blocklists, fixes Composer stuck…]]'
+- "[[Changes/Open WebUI/2025-02-13-connection-settings-stability-addressed-connection-settings-issues-that-were-cau|\U0001F511
+  Connection Settings Stability]]"
 - '[[Changes/OpenHands/2025-02-13-optimize-memory-usage-in-fileeditobservation-by-neubig-in-https-github-com-all-h|Optimize
   memory usage in FileEditObservation]]'
 - '[[Changes/ChatGPT/2025-02-14-improved-android-conversation-parsing-performance|Improved
@@ -80,7 +80,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2025-02-13 · OpenHands · [[Changes/OpenHands/2025-02-13-optimize-memory-usage-in-fileeditobservation-by-neubig-in-https-github-com-all-h|Optimize memory usage in FileEditObservation]]
-- Later: 2025-02-19 · Cursor · [[Changes/Cursor/2025-02-19-2-reliability-and-performance-changes-in-0-46-x|2 Reliability and Performance changes in 0.46.x]]
+- Later: 2025-02-14 · Open WebUI · [[Changes/Open WebUI/2025-02-14-landing-page-input-no-longer-lags-with-long-text-improved-input-responsiveness-o|⚡ Landing Page Input No Longer Lags with Long Text]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

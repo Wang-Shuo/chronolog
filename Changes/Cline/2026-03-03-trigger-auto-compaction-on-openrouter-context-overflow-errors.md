@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 31fdb859f5e6564ca822f87c266426f50d3f442af3a926b883cdd449abf87d9f
+machine_hash: 43163b288a2626b7087400b19c8dc7c18ac49ebe8b90ef036093324d32999646
 product: cline
 product_name: Cline
 record:
@@ -43,10 +43,10 @@ record:
   title: Trigger auto-compaction on OpenRouter context overflow errors
   type: change
 related_changes:
-- '[[Changes/Cline/2026-02-27-resolve-could-not-find-the-file-context-error-in-explain-changes|Resolve
-  "Could not find the file context" error in Explain Changes]]'
 - '[[Changes/Gemini CLI/2026-02-27-feat-telemetry-add-context-breakdown-to-api-response-event-by-sandytao520-in-htt|feat(telemetry):
   Add context breakdown to API response event]]'
+- "[[Changes/Open WebUI/2026-03-01-oauth-session-token-decryption-oauth-sessions-are-now-properly-detached-from-the|\U0001F513
+  OAuth session token decryption. OAuth sessions are now properly detached…]]"
 - '[[Changes/Codex CLI/2026-03-02-12947-feat-add-local-date-timezone-to-turn-environment-context-celia-oai|♯12947
   feat: add local date/timezone to turn environment context @celia-oai]]'
 source_release: '[[Releases/Cline/cline-2026-03-03-v3-69-0-github-292321177-f95c432e|cline-2026-03-03-v3-69-0-github-292321177-f95c432e]]'

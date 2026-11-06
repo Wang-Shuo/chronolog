@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7f7823a20656e6eb92c7b74ae408ccd7df53dcfe2c17e33c03de35268b98bf3e
+machine_hash: 3c54474dc9db162bc24ceef72215da79859a85db7b7929dfdb1b3299e0a96e76
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,10 +44,10 @@ record:
   title: 2 Apps and Integrations changes in v2.1.77
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-16-17-apps-and-integrations-changes-in-rust-v0-115-0|17
-  Apps and Integrations changes in rust-v0.115.0]]'
-- '[[Changes/GitHub Copilot CLI/2026-03-16-6-apps-and-integrations-changes-in-v1-0-6|6
-  Apps and Integrations changes in v1.0.6]]'
+- '[[Changes/Lovable/2026-03-16-app-connectors-twitch-twilio-linear-telegram-and-contentful|App
+  connectors: Twitch, Twilio, Linear, Telegram, and Contentful]]'
+- '[[Changes/Lovable/2026-03-16-chat-connectors-polar-and-sanity|Chat connectors:
+  Polar and Sanity]]'
 - '[[Changes/Claude Code/2026-03-17-3-apps-and-integrations-changes-in-v2-1-78|3 Apps
   and Integrations changes in v2.1.78]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-17-v2-1-77-github-297726061-caf6c30c|claude-code-2026-03-17-v2-1-77-github-297726061-caf6c30c]]'
@@ -92,7 +92,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.77
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-03-17 · Claude Code · [[Changes/Claude Code/2026-03-17-3-apps-and-integrations-changes-in-v2-1-78|3 Apps and Integrations changes in v2.1.78]]
-- Later: 2026-03-17 · Gemini CLI · [[Changes/Gemini CLI/2026-03-17-4-apps-and-integrations-changes-in-v0-34-0|4 Apps and Integrations changes in v0.34.0]]
+- Later: 2026-03-17 · Dify · [[Changes/Dify/2026-03-17-27-apps-and-integrations-changes-in-1-13-1|27 Apps and Integrations changes in 1.13.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

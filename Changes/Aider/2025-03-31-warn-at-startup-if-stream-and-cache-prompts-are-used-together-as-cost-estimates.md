@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 7349ece69da3b740ca3f286c4c695e10643b60452f166294de477f77e397a497
+machine_hash: f83882d88ae35c1302c52acf3b144ae07b205463d77d596bfd9ab826552df332
 product: aider
 product_name: Aider
 record:
@@ -45,12 +45,11 @@ record:
     cost…
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-03-23-this-release-introduces-chat-tabs-for-parallel-conversations-a-redesignedmodes-s|Cursor
-  introduces chat tabs for parallel conversations, a redesignedmodes system…]]'
 - '[[Changes/OpenHands/2025-03-25-display-api-cost-and-token-usage-in-frontend-by-autoltx-in-https-github-com-all|Display
   API cost and token usage in frontend]]'
 - '[[Changes/Cline/2025-03-28-add-cost-calculation-support-for-litellm-provider|Add
   cost calculation support for LiteLLM provider]]'
+- '[[Changes/Replit/2025-03-28-invoice-threshold-update|Invoice threshold update]]'
 source_release: '[[Releases/Aider/aider-2025-03-31-v0-80-0-github-209238246-56764716|aider-2025-03-31-v0-80-0-github-209238246-56764716]]'
 source_type: github_releases
 theme: pricing-model
@@ -83,7 +82,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2025-03-28 · Cline · [[Changes/Cline/2025-03-28-add-cost-calculation-support-for-litellm-provider|Add cost calculation support for LiteLLM provider]]
+- Earlier: 2025-03-28 · Replit · [[Changes/Replit/2025-03-28-invoice-threshold-update|Invoice threshold update]]
 - Later: 2025-04-04 · Aider · [[Changes/Aider/2025-04-04-prevent-retrying-api-calls-when-the-provider-reports-insufficient-credits|Prevent retrying API calls when the provider reports insufficient credits]]
 <!-- chronolog:end -->
 

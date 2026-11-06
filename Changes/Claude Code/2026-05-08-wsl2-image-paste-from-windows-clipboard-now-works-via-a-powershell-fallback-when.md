@@ -5,20 +5,20 @@ description: 'Claude Code · 2026-05-08 · Multimodal Input: WSL2: image paste f
   Windows clipboard now works via a PowerShell fallback when xclip/wl-paste cannot
   read image…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-09-25-you-can-now-show-chatgpt-one-or-more-images-troubleshoot-why-your-grill-won-t-st-e42bd6|Image
-    input will be generally available to Plus users on all platforms]]'
+  first_in_tracked: '[[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add
+    video to cn readme]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 956
+  lag_days: 962
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 60b6b1966e9ccff407613dcbc3cf8ce4b00b9db713007837cffb6e73a67f1365
+machine_hash: abc7517aeecb2e7291c1a8141f5a4f5e3ca9799943698a87ea5767b00eeb2978
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,10 @@ record:
   title: 'WSL2: image paste from Windows clipboard now works via a PowerShell fallback…'
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-02-10-perf-core-optimize-token-calculation-and-add-support-for-multimodal-tool-respons|perf(core):
-  optimize token calculation and add support for multimodal tool responses]]'
-- '[[Changes/Codex CLI/2026-02-11-11336-always-expose-view-image-and-return-unsupported-image-input-error-aibrahim|♯11336
-  Always expose view_image and return unsupported image-input error @aibrahim-oai]]'
-- '[[Changes/Codex CLI/2026-03-02-2-multimodal-input-changes-in-rust-v0-107-0|2 Multimodal
-  Input changes in rust-v0.107.0]]'
+- '[[Changes/ElevenLabs/2026-04-01-music|Music]]'
+- '[[Changes/ElevenLabs/2026-04-07-packages|Packages]]'
+- "[[Changes/Open WebUI/2026-04-21-persistent-chat-payload-efficiency-persisted-chats-now-use-server-side-history-l|\U0001F680
+  Persistent chat payload efficiency. Persisted chats now use server-side…]]"
 source_release: '[[Releases/Claude Code/claude-code-2026-05-08-v2-1-136-github-319609716-58f21368|claude-code-2026-05-08-v2-1-136-github-319609716-58f21368]]'
 source_type: github_releases
 theme: multimodal
@@ -82,14 +80,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Multimodal Input
 
-- Earlier: 2026-03-02 · Codex CLI · [[Changes/Codex CLI/2026-03-02-2-multimodal-input-changes-in-rust-v0-107-0|2 Multimodal Input changes in rust-v0.107.0]]
-- Later: 2026-06-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-23-clear-queued-tool-images-when-vision-is-disabled|Clear queued tool images when vision is disabled]]
+- Earlier: 2026-04-21 · Open WebUI · [[Changes/Open WebUI/2026-04-21-persistent-chat-payload-efficiency-persisted-chats-now-use-server-side-history-l|🚀 Persistent chat payload efficiency. Persisted chats now use server-side…]]
+- Later: 2026-05-13 · Ollama · [[Changes/Ollama/2026-05-13-llama3-2-vision-is-not-yet-supported|llama3.2-vision is not yet supported]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-25 · ChatGPT · [[Changes/ChatGPT/2023-09-25-you-can-now-show-chatgpt-one-or-more-images-troubleshoot-why-your-grill-won-t-st-e42bd6|Image input will be generally available to Plus users on all platforms]]
+- Earliest same-theme entry in the tracked set: 2023-09-19 · Dify · [[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add video to cn readme]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

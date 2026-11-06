@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 235b5da73b91a8c6b169e470826af9dafcf15ed9cfba0c7fc77e25ba01342972
+machine_hash: 873465e81d3f94596668069aea02b8470a65a5b86b7c4119a01d821a4b23ff07
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,10 +46,10 @@ record:
   title: 3 Agent Mode changes in v2.1.89
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-26-resume-session-restores-the-previously-selected-custom-agent|Resume
-  session restores the previously selected custom agent]]'
 - '[[Changes/Claude Code/2026-03-27-auto-mode-now-shows-unavailable-for-your-plan-when-disabled-by-plan-restrictions|Auto
   mode now shows "unavailable for your plan" when disabled by plan restrictions…]]'
+- '[[Changes/Dify/2026-03-27-4-agent-mode-changes-in-1-13-3|4 Agent Mode changes in
+  1.13.3]]'
 - '[[Changes/Codex CLI/2026-03-31-4-agent-mode-changes-in-rust-v0-118-0|4 Agent Mode
   changes in rust-v0.118.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-01-v2-1-89-github-303967782-358023f0|claude-code-2026-04-01-v2-1-89-github-303967782-358023f0]]'

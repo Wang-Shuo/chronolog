@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 21cbca5fbe80fee1d971ecee1a57e88d0281e88c264a6e27b7b6e41d3c9c8a43
+machine_hash: 20cd93e49a009a4886a8d668a7346d5c7ea23f9600df36433e30a816b4cd3016
 product: cline
 product_name: Cline
 record:
@@ -42,10 +42,10 @@ record:
   title: auto compact updates
   type: change
 related_changes:
-- '[[Changes/Cline/2025-10-16-fixing-issue-where-checkpoint-restore-doesn-t-work-with-auto-compact-by-0xtoshii|fixing
-  issue where checkpoint restore doesn''t work with auto-compact]]'
 - '[[Changes/Windsurf/2025-10-16-fast-context-introduced-fast-context-subagent-powered-by-swe-grep-enabling-agent|Fast
   Context: Introduced Fast Context subagent powered by SWE-grep, enabling…]]'
+- '[[Changes/Dify/2025-10-22-3-context-window-changes-in-1-9-2|3 Context Window changes
+  in 1.9.2]]'
 - '[[Changes/Gemini CLI/2025-10-22-2-context-window-changes-in-v0-10-0|2 Context Window
   changes in v0.10.0]]'
 source_release: '[[Releases/Cline/cline-2025-10-23-v3-34-0-github-256544591-4e449228|cline-2025-10-23-v3-34-0-github-256544591-4e449228]]'

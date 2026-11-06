@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 732a1b13f8c90929f5fd613ca8e54f0c779a9ff0c98fb6e4bbd8de2325ab1090
+machine_hash: 30bdffd202f8a8fe1ee4afd010e364d68ea13d8df1df6db15020ab9d22b9c7d8
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -46,10 +46,10 @@ record:
   title: 3 Model Support changes in v1.0.100
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-16-improved-the-message-when-a-background-session-reopened-from-another-folder-has|Improved
-  the message when a background session reopened from another folder has no…]]'
-- '[[Changes/Cline/2026-10-16-4-model-support-changes-in-v4-1-25|4 Model Support changes
-  in v4.1.25]]'
+- '[[Changes/DeepSeek API/2026-10-17-deepseek-v4-1-flash-1017-update|DeepSeek-V4.1-Flash-1017
+  Update]]'
+- '[[Changes/Ollama/2026-10-18-6-model-support-changes-in-v0-40-7|6 Model Support
+  changes in v0.40.7]]'
 - '[[Changes/Claude Code/2026-10-19-2-model-support-changes-in-v2-1-304|2 Model Support
   changes in v2.1.304]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-10-19-v1-0-100-github-417622960-9e2e7578|github-copilot-cli-2026-10-19-v1-0-100-github-417622960-9e2e7578]]'

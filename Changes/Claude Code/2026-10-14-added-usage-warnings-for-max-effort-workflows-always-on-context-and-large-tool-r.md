@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: eeca6842d4e1c2bb349efa7c15fad910af720c6a369da1d5b2546941e1b0e8c9
+machine_hash: c810845ae89ee5676a040fe6798e499e9e8558ecee88f2502e928d7aa25f6570
 product: claude-code
 product_name: Claude Code
 record:
@@ -91,7 +91,7 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2026-10-14 · Claude Code · [[Changes/Claude Code/2026-10-14-added-cache-creation-5m-tokens-and-cache-creation-1h-tokens-to-the-opentelemetry|Added cache_creation_5m_tokens and cache_creation_1h_tokens to the OpenTelemetry…]]
-- Later: 2026-10-15 · Claude Code · [[Changes/Claude Code/2026-10-15-improved-switching-to-a-model-with-a-smaller-context-window-a-conversation-too-l|Improved switching to a model with a smaller context window]]
+- Later: 2026-10-14 · Ollama · [[Changes/Ollama/2026-10-14-nvidia-nemotron-3-5-super-https-ollama-com-library-nemotron-3-5-super-is-a-visio|NVIDIA Nemotron 3.5 Super((source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9d9e3039fe137464fa762a609d377e8cd49b81e684ee6078a3cf01f384133153
+machine_hash: 3827eacfa2f9d34536951ba671f1543ce5b9f1ff9b5eb437017addeb372dc29a
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,12 +43,12 @@ record:
   title: 2 Editor Experience changes in v0.0.340
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2025-10-08-2-editor-experience-changes-in-v0-0-337|2
-  Editor Experience changes in v0.0.337]]'
 - '[[Changes/GitHub Copilot CLI/2025-10-09-2-editor-experience-changes-in-v0-0-338|2
   Editor Experience changes in v0.0.338]]'
 - '[[Changes/GitHub Copilot CLI/2025-10-10-run-npm-install-g-github-copilot-latest-to-update|Run
   npm install -g @github/copilot@latest to update!]]'
+- '[[Changes/Replit/2025-10-10-escape-key-for-visual-select-edit-mode|Escape key for
+  Visual Select/Edit mode]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2025-10-13-v0-0-340-github-254190325-efc0f949|github-copilot-cli-2025-10-13-v0-0-340-github-254190325-efc0f949]]'
 source_type: github_releases
 theme: editor-experience
@@ -83,7 +83,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v0.0.340
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2025-10-10 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-10-10-run-npm-install-g-github-copilot-latest-to-update|Run npm install -g @github/copilot@latest to update!]]
+- Earlier: 2025-10-10 · Replit · [[Changes/Replit/2025-10-10-escape-key-for-visual-select-edit-mode|Escape key for Visual Select/Edit mode]]
 - Later: 2025-10-15 · Gemini CLI · [[Changes/Gemini CLI/2025-10-15-4-editor-experience-changes-in-v0-9-0|4 Editor Experience changes in v0.9.0]]
 <!-- chronolog:end -->
 

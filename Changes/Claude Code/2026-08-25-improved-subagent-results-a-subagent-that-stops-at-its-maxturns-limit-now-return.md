@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 870e5b5bee25c1e9e1fe7042e392309d8da50c024d7fc84934c564797f31116a
+machine_hash: 2e8b274a630f07a7e345e158bc714cc26f1fa18bd2ab0a1694786ec535d3d54c
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,10 @@ record:
   title: Improved subagent results
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-21-2-agent-mode-changes-in-v2-1-239|2 Agent Mode
-  changes in v2.1.239]]'
-- '[[Changes/OpenHands/2026-08-21-feat-add-llm-provider-connections-ui-local-agent-server-by-juanmichelini-in-http|feat:
-  add LLM provider-connections UI (local agent-server)]]'
 - '[[Changes/Cline/2026-08-22-carry-session-and-client-identity-into-langfuse-traces-for-hub-backed-and-delega|Carry
   session and client identity into Langfuse traces for Hub-backed…]]'
+- '[[Changes/ElevenLabs/2026-08-24-elevenagents|ElevenAgents]]'
+- '[[Changes/ElevenLabs/2026-08-24-procedures|Procedures]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-25-v2-1-246-github-376644211-dd9805a0|claude-code-2026-08-25-v2-1-246-github-376644211-dd9805a0]]'
 source_type: github_releases
 theme: agent-mode
@@ -86,8 +84,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-08-22 · Cline · [[Changes/Cline/2026-08-22-carry-session-and-client-identity-into-langfuse-traces-for-hub-backed-and-delega|Carry session and client identity into Langfuse traces for Hub-backed…]]
-- Later: 2026-08-25 · Gemini CLI · [[Changes/Gemini CLI/2026-08-25-8-agent-mode-changes-in-v0-57-0|8 Agent Mode changes in v0.57.0]]
+- Earlier: 2026-08-24 · ElevenLabs · [[Changes/ElevenLabs/2026-08-24-procedures|Procedures]]
+- Later: 2026-08-25 · Dify · [[Changes/Dify/2026-08-25-53-agent-mode-changes-in-1-17-0|53 Agent Mode changes in 1.17.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

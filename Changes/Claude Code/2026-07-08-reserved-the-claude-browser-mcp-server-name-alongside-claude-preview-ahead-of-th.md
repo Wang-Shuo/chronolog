@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 702f553889b10fef2f5038f3749fbbe5ef0e6b756dc0680325c79a99001e81d0
+machine_hash: 0d6185535da065a74d4ad17d812d34b16b8235a752562a328e866d4f4015ba60
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,12 +46,11 @@ record:
     ahead…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-07-2-apps-and-integrations-changes-in-v2-1-203|2
-  Apps and Integrations changes in v2.1.203]]'
-- '[[Changes/GitHub Copilot CLI/2026-07-07-7-apps-and-integrations-changes-in-v1-0-69|7
-  Apps and Integrations changes in v1.0.69]]'
+- '[[Changes/Lovable/2026-07-07-app-connector-github-api|App connector: GitHub API]]'
 - '[[Changes/OpenHands/2026-07-07-2-apps-and-integrations-changes-in-1-9-1|2 Apps
   and Integrations changes in 1.9.1]]'
+- '[[Changes/v0/2026-07-07-3-apps-and-integrations-changes-in-grouped-tool-approvals-richer-mcp|3
+  Apps and Integrations changes in Grouped tool approvals, richer MCP…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-08-v2-1-205-github-351140412-aeced5ba|claude-code-2026-07-08-v2-1-205-github-351140412-aeced5ba]]'
 source_type: github_releases
 theme: apps-integrations
@@ -85,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-07-07 · OpenHands · [[Changes/OpenHands/2026-07-07-2-apps-and-integrations-changes-in-1-9-1|2 Apps and Integrations changes in 1.9.1]]
+- Earlier: 2026-07-07 · v0 · [[Changes/v0/2026-07-07-3-apps-and-integrations-changes-in-grouped-tool-approvals-richer-mcp|3 Apps and Integrations changes in Grouped tool approvals, richer MCP…]]
 - Later: 2026-07-08 · Codex CLI · [[Changes/Codex CLI/2026-07-08-66-apps-and-integrations-changes-in-rust-v0-143-0|66 Apps and Integrations changes in rust-v0.143.0]]
 <!-- chronolog:end -->
 

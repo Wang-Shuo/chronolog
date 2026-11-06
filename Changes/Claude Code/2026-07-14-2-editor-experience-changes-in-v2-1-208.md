@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0f9f37d076b4439b7d4e62df270316b9490b0552d346849ffd4cbcd5b5654e19
+machine_hash: eedb68ef9c5e9b360d8babb637001dfca20ddd760fc5c1ee877280c6e86eb33b
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
   title: 2 Editor Experience changes in v2.1.208
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-07-09-31191-handle-completion-separators-and-popup-dismissal-charliemarsh-oai|♯31191
-  Handle completion separators and popup dismissal @charliemarsh-oai]]'
 - '[[Changes/Claude Code/2026-07-10-added-a-doctor-check-that-proposes-trimming-checked-in-claude-md-files-by-cuttin|Added
   a /doctor check that proposes trimming checked-in CLAUDE.md files…]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-10-2-editor-experience-changes-in-v1-0-70|2
   Editor Experience changes in v1.0.70]]'
+- '[[Changes/Lovable/2026-07-10-see-project-status-in-your-browser-tab|See project
+  status in your browser tab]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-14-v2-1-208-github-353442054-2756b984|claude-code-2026-07-14-v2-1-208-github-353442054-2756b984]]'
 source_type: github_releases
 theme: editor-experience
@@ -90,7 +90,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.208
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-07-10 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-10-2-editor-experience-changes-in-v1-0-70|2 Editor Experience changes in v1.0.70]]
+- Earlier: 2026-07-10 · Lovable · [[Changes/Lovable/2026-07-10-see-project-status-in-your-browser-tab|See project status in your browser tab]]
 - Later: 2026-07-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-16-5-editor-experience-changes-in-v1-0-71|5 Editor Experience changes in v1.0.71]]
 <!-- chronolog:end -->
 

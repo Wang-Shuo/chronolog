@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 33b5f653fdb23a416f652434beef2030a90de6d7f237261064554da6abbafd5e
+machine_hash: e671a66c4c46659a95dc97a5f3dd674a6c3108e8da2b2c7dcdfdf57c915b0e42
 product: windsurf
 product_name: Windsurf
 record:
@@ -45,11 +45,12 @@ record:
   title: GPT-5 Available
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-08-07-gpt-5-is-slowly-rolling-out-to-all-users-on-chatgpt-plus-pro-team-and-free-plans-64a08c|GPT-5]]'
 - '[[Changes/Cline/2025-08-07-pashpashpash-gpt-5-release-by-pashpashpash-in-https-github-com-cline-cline-pull|Pashpashpash/gpt
   5 release]]'
 - '[[Changes/Codex CLI/2025-08-07-2-model-support-changes-in-rust-v0-15-0|2 Model
   Support changes in rust-v0.15.0]]'
+- '[[Changes/Ollama/2025-08-07-openai-always-provide-reasoning-by-drifkin-in-https-github-com-ollama-ollama-pul|openai:
+  always provide reasoning]]'
 source_release: '[[Releases/Windsurf/windsurf-2025-08-07-v1-11-5-f6e202a2|windsurf-2025-08-07-v1-11-5-f6e202a2]]'
 source_type: windsurf_changelog
 theme: model-support
@@ -78,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-08-07 · Codex CLI · [[Changes/Codex CLI/2025-08-07-2-model-support-changes-in-rust-v0-15-0|2 Model Support changes in rust-v0.15.0]]
+- Earlier: 2025-08-07 · Ollama · [[Changes/Ollama/2025-08-07-openai-always-provide-reasoning-by-drifkin-in-https-github-com-ollama-ollama-pul|openai: always provide reasoning]]
 - Later: 2025-08-09 · Aider · [[Changes/Aider/2025-08-09-5-model-support-changes-in-v0-86-0|5 Model Support changes in v0.86.0]]
 <!-- chronolog:end -->
 

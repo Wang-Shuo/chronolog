@@ -4,20 +4,20 @@ date: '2025-07-16'
 description: 'Cline · 2025-07-16 · Multimodal Input: Add vision capability to moonshot
   v1 by @saoudrizwan in https://github.com/cline/cline/pull/4926'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-09-25-you-can-now-show-chatgpt-one-or-more-images-troubleshoot-why-your-grill-won-t-st-e42bd6|Image
-    input will be generally available to Plus users on all platforms]]'
+  first_in_tracked: '[[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add
+    video to cn readme]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 660
+  lag_days: 666
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: dcbf60869a4124a111e874366f9188e4d6c4ad1b7a2f99d7e0b44daf2a2f5c84
+machine_hash: dad0bbc51c37fa93cab130ed7596a2c231f4429aaf5d5e8e2d42cb821f1b51de
 product: cline
 product_name: Cline
 record:
@@ -41,10 +41,9 @@ record:
   title: Add vision capability to moonshot v1
   type: change
 related_changes:
-- '[[Changes/OpenHands/2024-09-30-vision-and-prompt-caching-fixes-by-enyst-in-https-github-com-all-hands-ai-openha|Vision
-  and prompt caching fixes]]'
-- '[[Changes/ChatGPT/2024-12-12-use-the-controls-at-the-bottom-of-the-screen-like-the-camera-button-below-to-get|Use
-  the controls at the bottom of the screen, like the camera button below, to get started]]'
+- '[[Changes/Ollama/2025-05-21-support-for-alibaba-s-qwen-3-and-qwen-2-architectures-in-ollama-s-new-multimodal|Support
+  for Alibaba''s Qwen 3 and Qwen 2 architectures in Ollama''s new multimodal…]]'
+- '[[Changes/ElevenLabs/2025-06-30-elevencreative-studio|ElevenCreative Studio]]'
 - '[[Changes/Gemini CLI/2025-07-11-feature-commands-refactor-slash-command-vision-for-the-future-by-abhipatel12-in|feature(commands)
   - Refactor Slash Command + Vision For the Future]]'
 source_release: '[[Releases/Cline/cline-2025-07-16-v3-19-5-github-232737574-15eeaef6|cline-2025-07-16-v3-19-5-github-232737574-15eeaef6]]'
@@ -83,7 +82,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-25 · ChatGPT · [[Changes/ChatGPT/2023-09-25-you-can-now-show-chatgpt-one-or-more-images-troubleshoot-why-your-grill-won-t-st-e42bd6|Image input will be generally available to Plus users on all platforms]]
+- Earliest same-theme entry in the tracked set: 2023-09-19 · Dify · [[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add video to cn readme]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

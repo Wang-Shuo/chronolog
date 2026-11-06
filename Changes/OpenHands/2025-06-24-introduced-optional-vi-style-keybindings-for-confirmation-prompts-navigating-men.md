@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 57d6e9f6aadfd0519f062083612e5e92d819686ecd574c36b8056c673776238a
+machine_hash: 8157d660bc78731f6c7bcd04d28f8d86e359a4811860a89b18485b9142c5b3d1
 product: openhands
 product_name: OpenHands
 record:
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2025-06-20 · OpenHands · [[Changes/OpenHands/2025-06-20-example-code-review-microagent-by-jpelletier1-in-https-github-com-all-hands-ai-o|Example code review microagent]]
-- Later: 2025-06-27 · Aider · [[Changes/Aider/2025-06-27-3-developer-workflow-changes-in-v0-85-0|3 Developer Workflow changes in v0.85.0]]
+- Later: 2025-06-25 · Dify · [[Changes/Dify/2025-06-25-2-developer-workflow-changes-in-1-5-0|2 Developer Workflow changes in 1.5.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

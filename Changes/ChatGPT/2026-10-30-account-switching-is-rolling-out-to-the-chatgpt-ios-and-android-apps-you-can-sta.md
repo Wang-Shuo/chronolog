@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 962b3aa7660d25698b59aa3bb7ac35ba22f5cfc402de9fea8dd73d2ef0645c7c
+machine_hash: ae0a1b0408fbf044e71dc6e61ee8fdc791ca2b1ce43801b8699a5e88806cc53e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -49,12 +49,12 @@ record:
   title: Account switching on iOS and Android
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-23-4-memory-and-personalization-changes-in-rust-v0-164-0|4
-  Memory and Personalization changes in rust-v0.164.0]]'
 - '[[Changes/Codex CLI/2026-10-27-5-memory-and-personalization-changes-in-rust-v0-165-0|5
   Memory and Personalization changes in rust-v0.165.0]]'
 - '[[Changes/Codex CLI/2026-10-29-2-memory-and-personalization-changes-in-rust-v0-166-0|2
   Memory and Personalization changes in rust-v0.166.0]]'
+- '[[Changes/Open WebUI/2026-10-29-2-memory-and-personalization-changes-in-v0-12-5|2
+  Memory and Personalization changes in v0.12.5]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-10-30-account-switching-on-ios-and-android-911d7929|chatgpt-2026-10-30-account-switching-on-ios-and-android-911d7929]]'
 source_type: chatgpt_changelog
 theme: memory
@@ -81,8 +81,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2026-10-29 · Codex CLI · [[Changes/Codex CLI/2026-10-29-2-memory-and-personalization-changes-in-rust-v0-166-0|2 Memory and Personalization changes in rust-v0.166.0]]
-- Later: 2026-11-06 · Codex CLI · [[Changes/Codex CLI/2026-11-06-2-memory-and-personalization-changes-in-rust-v0-167-0|2 Memory and Personalization changes in rust-v0.167.0]]
+- Earlier: 2026-10-29 · Open WebUI · [[Changes/Open WebUI/2026-10-29-2-memory-and-personalization-changes-in-v0-12-5|2 Memory and Personalization changes in v0.12.5]]
+- Later: 2026-10-30 · Lovable · [[Changes/Lovable/2026-10-30-lovable-remembers-what-you-tell-it|Lovable remembers what you tell it]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

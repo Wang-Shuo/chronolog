@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a78ead8252a391ca511938c64524239b248ac14f6c9575f96b61080fe3bd1612
+machine_hash: c4fe7125d8057795c9582aa37658a280ba2c6d6be8998ad7a344fdd74a2d8c2c
 product: cline
 product_name: Cline
 record:
@@ -54,10 +54,10 @@ record:
   title: Add `Add to Cline` as an option when you right-click selected text in a file…
   type: change
 related_changes:
-- '[[Changes/Aider/2025-03-13-added-think-tokens-command-to-set-thinking-token-budget-with-support-for-human-r|Added
-  /think-tokens command to set thinking token budget with support…]]'
 - '[[Changes/Aider/2025-03-13-2-context-window-changes-in-v0-77-0|2 Context Window
   changes in v0.77.0]]'
+- '[[Changes/Replit/2025-03-14-enhanced-link-context-features|Enhanced link context
+  features]]'
 - '[[Changes/Cline/2025-03-15-prevent-cline-from-reading-extremely-large-files-into-context-that-would-overloa|Prevent
   Cline from reading extremely large files into context that would overload…]]'
 source_release: '[[Releases/Cline/cline-2025-03-23-v3-8-0-github-207655603-f6979596|cline-2025-03-23-v3-8-0-github-207655603-f6979596]]'

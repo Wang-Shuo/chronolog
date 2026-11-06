@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4bca6b71b4295241811da0aeb9ebce8b675cf47be050974ff600a26605fd4d53
+machine_hash: bd17f744d754e92cc2f1c7b3e93633320f68ce3d935ff6e600a5545c22917c8b
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -94,7 +94,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.138.0
 ## Nearby in Editor Experience
 
 - Earlier: 2026-06-08 · Claude Code · [[Changes/Claude Code/2026-06-08-background-sessions-now-preserve-ide-chrome-bare-remote-control-and-other-flags|Background sessions now preserve --ide, --chrome, --bare, --remote-control…]]
-- Later: 2026-06-09 · Codex CLI · [[Changes/Codex CLI/2026-06-09-4-editor-experience-changes-in-rust-v0-139-0|4 Editor Experience changes in rust-v0.139.0]]
+- Later: 2026-06-08 · Lovable · [[Changes/Lovable/2026-06-08-markdown-preview-in-the-code-editor|Markdown preview in the code editor]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

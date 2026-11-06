@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: eae83d6eb05c0ce7490746472936e5e9c6e497d502921947fd3cb1eeac49bff0
+machine_hash: f69b0eb3ed46b9f9ea1d4c88cf90287a4ee819dddb19270f2cb7912f76ce1a8c
 product: openhands
 product_name: OpenHands
 record:
@@ -43,12 +43,12 @@ record:
   title: 2 Apps and Integrations changes in v1.29.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-10-19-10-apps-and-integrations-changes-in-v1-0-100|10
-  Apps and Integrations changes in v1.0.100]]'
-- '[[Changes/Claude Code/2026-10-20-4-apps-and-integrations-changes-in-v2-1-305|4
-  Apps and Integrations changes in v2.1.305]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-20-4-apps-and-integrations-changes-in-v1-0-101|4
   Apps and Integrations changes in v1.0.101]]'
+- '[[Changes/Lovable/2026-10-20-let-lovable-create-your-supabase-project|Let Lovable
+  create your Supabase project]]'
+- '[[Changes/Lovable/2026-10-20-app-chat-connectors-llamaparse-platform-and-n8n|App
+  + chat connectors: LlamaParse Platform and n8n]]'
 source_release: '[[Releases/OpenHands/openhands-2026-10-20-v1-29-0-github-418940388-2427c7e4|openhands-2026-10-20-v1-29-0-github-418940388-2427c7e4]]'
 source_type: github_releases
 theme: apps-integrations
@@ -84,7 +84,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/v1.29.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-10-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-20-4-apps-and-integrations-changes-in-v1-0-101|4 Apps and Integrations changes in v1.0.101]]
+- Earlier: 2026-10-20 · Lovable · [[Changes/Lovable/2026-10-20-app-chat-connectors-llamaparse-platform-and-n8n|App + chat connectors: LlamaParse Platform and n8n]]
 - Later: 2026-10-21 · Claude Code · [[Changes/Claude Code/2026-10-21-3-apps-and-integrations-changes-in-v2-1-307|3 Apps and Integrations changes in v2.1.307]]
 <!-- chronolog:end -->
 

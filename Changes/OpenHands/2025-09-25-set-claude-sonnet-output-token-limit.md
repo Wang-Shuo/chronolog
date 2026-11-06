@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e73ba2677f34b8dc2552aa84537b23159c23a9ad68a9c7aa539f0616ddaf8b28
+machine_hash: 946f74fd5529b4e3c0e8768b0ab81f73f2ad4b942aa228de44981f8589c3856f
 product: openhands
 product_name: OpenHands
 record:
@@ -42,12 +42,12 @@ record:
   title: Set Claude Sonnet output token limit
   type: change
 related_changes:
-- '[[Changes/Windsurf/2025-09-23-gpt-5-codex-is-now-in-windsurf|GPT-5-Codex is now
-  in Windsurf!]]'
-- '[[Changes/Gemini CLI/2025-09-24-6-model-support-changes-in-v0-6-0|6 Model Support
-  changes in v0.6.0]]'
 - '[[Changes/Cline/2025-09-25-refactor-append-stealth-models-on-readopenroutermodels-refreshopenroutermodels-b|refactor:
   append stealth models on readOpenRouterModels & refreshOpenRouterModels]]'
+- '[[Changes/Gemini/2025-09-25-update-to-2-5-flash-in-gemini|Update to 2.5 Flash in
+  Gemini]]'
+- '[[Changes/Open WebUI/2025-09-25-4-model-support-changes-in-v0-6-31|4 Model Support
+  changes in v0.6.31]]'
 source_release: '[[Releases/OpenHands/openhands-2025-09-25-0-57-2-github-249996779-6e38e89c|openhands-2025-09-25-0-57-2-github-249996779-6e38e89c]]'
 source_type: github_releases
 theme: model-support
@@ -76,7 +76,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-09-25 · Cline · [[Changes/Cline/2025-09-25-refactor-append-stealth-models-on-readopenroutermodels-refreshopenroutermodels-b|refactor: append stealth models on readOpenRouterModels & refreshOpenRouterModels]]
+- Earlier: 2025-09-25 · Open WebUI · [[Changes/Open WebUI/2025-09-25-4-model-support-changes-in-v0-6-31|4 Model Support changes in v0.6.31]]
 - Later: 2025-09-26 · Codex CLI · [[Changes/Codex CLI/2025-09-26-4195-send-text-parameter-for-non-gpt-5-models-4195|♯4195 Send text parameter for non-gpt-5 models (♯4195)]]
 <!-- chronolog:end -->
 

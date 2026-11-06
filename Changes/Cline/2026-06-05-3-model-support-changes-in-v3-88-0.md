@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9582e7dc21ffb191d254b346650d36addaad2bfe62b780f51de1ac996c8096bc
+machine_hash: 67b60db85fcbab1fe6b2b87708abca97300ad9baa02d3fe9327e2a5c238aa37f
 product: cline
 product_name: Cline
 record:
@@ -47,9 +47,10 @@ record:
   title: 3 Model Support changes in v3.88.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-03-2-model-support-changes-in-v2-1-162|2 Model Support
-  changes in v2.1.162]]'
-- '[[Changes/Cline/2026-06-03-add-minimax-m3-model-support|Add MiniMax M3 model support]]'
+- '[[Changes/Ollama/2026-06-03-ollama-create-experimental-now-respects-requires-in-modelfiles-for-mlx-based-mod|ollama
+  create --experimental now respects REQUIRES in Modelfiles for MLX-based models]]'
+- '[[Changes/Ollama/2026-06-03-2-model-support-changes-in-v0-30-2|2 Model Support
+  changes in v0.30.2]]'
 - '[[Changes/Codex CLI/2026-06-04-3-model-support-changes-in-rust-v0-137-0|3 Model
   Support changes in rust-v0.137.0]]'
 source_release: '[[Releases/Cline/cline-2026-06-05-v3-88-0-github-335060275-f80c9e21|cline-2026-06-05-v3-88-0-github-335060275-f80c9e21]]'

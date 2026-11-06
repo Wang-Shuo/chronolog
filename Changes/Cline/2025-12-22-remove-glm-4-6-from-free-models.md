@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b04174952927a440aa40d4a017b8853e55e5dba895e70a45cd18557114d026ca
+machine_hash: cd0a0d359bb6081e392c577013db9964da21d4dd0638a1709b345f369bc60b4f
 product: cline
 product_name: Cline
 record:
@@ -39,12 +39,12 @@ record:
   title: Remove GLM 4.6 from free models
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-12-19-2-model-support-changes-in-rust-v0-76-0|2 Model
-  Support changes in rust-v0.76.0]]'
 - '[[Changes/GitHub Copilot CLI/2025-12-19-enable-disabled-models-directly-in-cli-when-selecting-or-specifying-them|Enable
   disabled models directly in CLI when selecting or specifying them]]'
 - '[[Changes/Codex CLI/2025-12-21-3-model-support-changes-in-rust-v0-77-0|3 Model
   Support changes in rust-v0.77.0]]'
+- '[[Changes/Open WebUI/2025-12-21-11-model-support-changes-in-v0-6-42|11 Model Support
+  changes in v0.6.42]]'
 source_release: '[[Releases/Cline/cline-2025-12-22-v3-46-1-github-272334792-e17aaf37|cline-2025-12-22-v3-46-1-github-272334792-e17aaf37]]'
 source_type: github_releases
 theme: model-support
@@ -71,7 +71,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-12-21 · Codex CLI · [[Changes/Codex CLI/2025-12-21-3-model-support-changes-in-rust-v0-77-0|3 Model Support changes in rust-v0.77.0]]
+- Earlier: 2025-12-21 · Open WebUI · [[Changes/Open WebUI/2025-12-21-11-model-support-changes-in-v0-6-42|11 Model Support changes in v0.6.42]]
 - Later: 2025-12-22 · Cline · [[Changes/Cline/2025-12-22-5-model-support-changes-in-v3-46-0|5 Model Support changes in v3.46.0]]
 <!-- chronolog:end -->
 

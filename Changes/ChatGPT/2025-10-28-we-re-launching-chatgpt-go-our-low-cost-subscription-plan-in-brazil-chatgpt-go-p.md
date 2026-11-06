@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: expansion
-machine_hash: b137b3d8e41e59be36845f1385f290adafef506cacc6cda61b296a9d1a93ad57
+machine_hash: 9db9d2e1d58939bbd135b47764c08031f28d8089f5dda838197953fac2487505
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -44,12 +44,12 @@ record:
   title: ChatGPT launches ChatGPT Go, our low cost subscription plan, in Brazil
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2025-10-01-switched-to-using-per-subscription-copilot-api-endpoints-in-accordance-with-gith|Switched
-  to using per-subscription Copilot API endpoints in accordance…]]'
-- '[[Changes/ChatGPT/2025-10-08-we-re-excited-to-announce-that-chatgpt-go-our-low-cost-subscription-plan-is-now|ChatGPT
-  Go, our low cost subscription plan, is now available in 16 additional countries]]'
 - '[[Changes/ChatGPT/2025-10-14-we-re-excited-to-announce-that-chatgpt-go-our-low-cost-subscription-plan-is-now-d58cbb|ChatGPT
   Go, our low cost subscription plan, is now available in 71 additional…]]'
+- '[[Changes/Dify/2025-10-22-3-pricing-model-changes-in-1-9-2|3 Pricing Model changes
+  in 1.9.2]]'
+- '[[Changes/v0/2025-10-27-referrals-are-now-live-in-v0-invite-a-new-user-to-subscribe-to-v0-with-your-link|Referrals
+  Program]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-10-28-chatgpt-go-now-available-in-brazil-6c8c9319|chatgpt-2025-10-28-chatgpt-go-now-available-in-brazil-6c8c9319]]'
 source_type: chatgpt_changelog
 theme: pricing-model
@@ -79,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2025-10-14 · ChatGPT · [[Changes/ChatGPT/2025-10-14-we-re-excited-to-announce-that-chatgpt-go-our-low-cost-subscription-plan-is-now-d58cbb|ChatGPT Go, our low cost subscription plan, is now available in 71 additional…]]
+- Earlier: 2025-10-27 · v0 · [[Changes/v0/2025-10-27-referrals-are-now-live-in-v0-invite-a-new-user-to-subscribe-to-v0-with-your-link|Referrals Program]]
 - Later: 2025-10-30 · ChatGPT · [[Changes/ChatGPT/2025-10-30-we-re-excited-to-announce-that-chatgpt-go-our-low-cost-subscription-plan-is-now-44be9d|ChatGPT Go, our low cost subscription plan, is now available in 8 additional…]]
 <!-- chronolog:end -->
 

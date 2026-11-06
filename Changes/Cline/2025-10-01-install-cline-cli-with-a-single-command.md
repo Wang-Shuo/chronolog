@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 692a750b23491c91eae43af33440d045904f048776cb7c6829e3eb5d3afbc997
+machine_hash: 246bcd392181377b524071be86facb64733d57b8fb2e180465758799f4a05be8
 product: cline
 product_name: Cline
 record:
@@ -41,10 +41,9 @@ record:
   title: Install Cline CLI with a single command
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2025-09-26-improved-powershell-parsing-of-foreach-object-and-detection-of-command-name-expr|Improved
-  PowerShell parsing of ForEach-Object and detection of command name…]]'
 - '[[Changes/Cursor/2025-09-29-7-developer-workflow-changes-in-1-7|7 Developer Workflow
   changes in 1.7]]'
+- '[[Changes/Dify/2025-09-29-debugging-logging|Debugging & Logging]]'
 - '[[Changes/GitHub Copilot CLI/2025-09-29-added-glob-matching-to-shell-rules-when-using-allow-tool-and-deny-tool-you-can-n|Added
   glob matching to shell rules]]'
 source_release: '[[Releases/Cline/cline-2025-10-01-v3-32-6-github-251594849-7d74d052|cline-2025-10-01-v3-32-6-github-251594849-7d74d052]]'

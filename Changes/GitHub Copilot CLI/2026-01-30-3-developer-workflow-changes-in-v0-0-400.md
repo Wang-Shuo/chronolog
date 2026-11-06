@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9b1fc40049016def0dc4b0c64f996474d0bc4b2bcd8813a7deed7a403120762e
+machine_hash: bb991600b8237f71c0b0516ad9c8fa3e265f0c153b3cb93ee130bb47f5e8ed04
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,10 +45,10 @@ record:
   title: 3 Developer Workflow changes in v0.0.400
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-29-changed-bash-commands-to-show-timeout-duration-alongside-elapsed-time|Changed
-  Bash commands to show timeout duration alongside elapsed time]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-29-add-lsp-language-server-protocol-tool-for-code-intelligence-requires-staff-flag|Add
   LSP (Language Server Protocol) tool for code intelligence (requires staff flag)]]'
+- '[[Changes/v0/2026-01-29-added-server-logs-for-better-debugging|Added server logs
+  for better debugging]]'
 - '[[Changes/Claude Code/2026-01-30-2-developer-workflow-changes-in-v2-1-27|2 Developer
   Workflow changes in v2.1.27]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-01-30-v0-0-400-github-281705336-a0abdb24|github-copilot-cli-2026-01-30-v0-0-400-github-281705336-a0abdb24]]'

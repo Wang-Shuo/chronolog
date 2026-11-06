@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 895bfe90bffea64c5473411bc1d4cdb81796a5833cbff4f1153064ca02d88388
+machine_hash: a05bd34ecee43518b632032302eb14cb8ff82444f5efa6602100ac56512364f8
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -45,11 +45,11 @@ record:
     adjustment'
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-09-04-2-safety-and-privacy-changes-in-v0-3-0|2 Safety
-  and Privacy changes in v0.3.0]]'
 - '[[Changes/Codex CLI/2025-09-05-3128-mcp-sandbox-call|♯3128 MCP sandbox call]]'
 - '[[Changes/Gemini CLI/2025-09-09-2-safety-and-privacy-changes-in-v0-4-0|2 Safety
   and Privacy changes in v0.4.0]]'
+- '[[Changes/Open WebUI/2025-09-09-4-safety-and-privacy-changes-in-v0-6-27|4 Safety
+  and Privacy changes in v0.6.27]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-09-10-rust-v0-32-0-github-246248951-dfa94f54|codex-cli-2025-09-10-rust-v0-32-0-github-246248951-dfa94f54]]'
 source_type: github_releases
 theme: safety-privacy
@@ -82,7 +82,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2025-09-09 · Gemini CLI · [[Changes/Gemini CLI/2025-09-09-2-safety-and-privacy-changes-in-v0-4-0|2 Safety and Privacy changes in v0.4.0]]
+- Earlier: 2025-09-09 · Open WebUI · [[Changes/Open WebUI/2025-09-09-4-safety-and-privacy-changes-in-v0-6-27|4 Safety and Privacy changes in v0.6.27]]
 - Later: 2025-09-15 · Codex CLI · [[Changes/Codex CLI/2025-09-15-3-safety-and-privacy-changes-in-rust-v0-36-0|3 Safety and Privacy changes in rust-v0.36.0]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8405c0cd641f39a47d475251e0aecf24e8d21766cbad847a971b16e4d69deedd
+machine_hash: 8c43e4bb8e82baef4adb7fcbe7be1b8affabfe3114fbd3dd5e9805ea6c68c6e8
 product: cursor
 product_name: Cursor
 record:
@@ -45,10 +45,10 @@ record:
   title: Cursor in Slack now shares a plan before it starts, runs in multi-repo environments…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-15-2-apps-and-integrations-changes-in-v2-1-211|2
-  Apps and Integrations changes in v2.1.211]]'
-- '[[Changes/GitHub Copilot CLI/2026-07-16-16-apps-and-integrations-changes-in-v1-0-71|16
-  Apps and Integrations changes in v1.0.71]]'
+- '[[Changes/Lovable/2026-07-16-reuse-your-workspace-identity-in-the-apps-you-build|Reuse
+  your workspace identity in the apps you build]]'
+- '[[Changes/Lovable/2026-07-16-connect-your-app-to-apollo-io|Connect your app to
+  Apollo.io]]'
 - '[[Changes/Claude Code/2026-07-17-mcp-tool-calls-running-longer-than-2-minutes-now-move-to-the-background-automati|MCP
   tool calls running longer than 2 minutes now move to the background…]]'
 source_release: '[[Releases/Cursor/cursor-2026-07-17-improvements-to-cursor-in-slack-https-cursor-com-changelog-slack-f233f9c6|cursor-2026-07-17-improvements-to-cursor-in-slack-https-cursor-com-changelog-slack-f233f9c6]]'
@@ -82,7 +82,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-07-17 · Claude Code · [[Changes/Claude Code/2026-07-17-mcp-tool-calls-running-longer-than-2-minutes-now-move-to-the-background-automati|MCP tool calls running longer than 2 minutes now move to the background…]]
-- Later: 2026-07-18 · Claude Code · [[Changes/Claude Code/2026-07-18-changed-sessionstart-hooks-to-report-source-fork-when-a-session-begins-as-a-fork|Changed SessionStart hooks to report source "fork" when a session begins as a fork…]]
+- Later: 2026-07-17 · Dify · [[Changes/Dify/2026-07-17-24-apps-and-integrations-changes-in-1-16-0|24 Apps and Integrations changes in 1.16.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

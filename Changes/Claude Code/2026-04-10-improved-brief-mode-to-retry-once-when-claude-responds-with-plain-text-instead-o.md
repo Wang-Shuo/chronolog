@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e1577ab498b5a22e3e89dffb815d610a9c5e31d22a5e3f5ec05a5c7015b2227b
+machine_hash: f2561f15cace0ae372ca89eb811d85affdced1c84e1a06588da8fc954c7fdf2b
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,8 +45,8 @@ record:
   title: Improved brief mode to retry once when Claude responds with plain text instead…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-07-reduce-memory-usage-by-automatically-shutting-down-shell-sessions-that-are-no-lo|Reduce
-  memory usage by automatically shutting down shell sessions that are no longer…]]'
+- '[[Changes/Ollama/2026-04-07-mlx-improve-m5-performance-with-nax|mlx: Improve M5
+  performance with NAX]]'
 - '[[Changes/Claude Code/2026-04-09-fixed-a-memory-leak-where-remote-control-permission-handler-entries-were-retaine|Fixed
   a memory leak where Remote Control permission handler entries were retained…]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-09-improved-rendering-performance-with-a-new-simplified-inline-renderer|Improved

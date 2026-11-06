@@ -4,20 +4,20 @@ date: '2026-11-06'
 description: 'Codex CLI · 2026-11-06 · Voice and Audio: 4 changes in 0.167.0 — #58430
   Add audio file references with explicit runtime rejection @hung-oai'
 diffusion:
-  first_in_tracked: '[[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source
-    link) support, which allows you…]]'
+  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
+    Voice and Audio changes in 0.3.7]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1183
+  lag_days: 1215
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0c7a765c6076f698f9168443ca8ab9650004206b9c0b5ea1d8ef731eeac7a076
+machine_hash: a8df935d8b05ef1047f8a1e13dd40a570aa0cdf3495e8ae7ad5bd202b37c8915
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -46,12 +46,11 @@ record:
   title: 4 Voice and Audio changes in rust-v0.167.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-21-2-voice-and-audio-changes-in-v2-1-307|2 Voice
-  and Audio changes in v2.1.307]]'
-- '[[Changes/Claude Code/2026-10-22-vscode-added-a-log-warning-that-says-what-to-do-when-dictation-or-the-extension|VSCode
-  Added a log warning that says what to do when dictation or the extension''s…]]'
-- '[[Changes/Codex CLI/2026-10-23-3-voice-and-audio-changes-in-rust-v0-164-0|3 Voice
-  and Audio changes in rust-v0.164.0]]'
+- '[[Changes/ElevenLabs/2026-11-02-realtime-entity-redaction|Realtime entity redaction]]'
+- '[[Changes/Open WebUI/2026-11-03-4-voice-and-audio-changes-in-v0-13-0|4 Voice and
+  Audio changes in v0.13.0]]'
+- '[[Changes/Dify/2026-11-04-2-voice-and-audio-changes-in-1-19-0|2 Voice and Audio
+  changes in 1.19.0]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-11-06-rust-v0-167-0-github-435979892-a2e140bc|codex-cli-2026-11-06-rust-v0-167-0-github-435979892-a2e140bc]]'
 source_type: github_releases
 theme: voice
@@ -100,14 +99,14 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.167.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-10-23 · Codex CLI · [[Changes/Codex CLI/2026-10-23-3-voice-and-audio-changes-in-rust-v0-164-0|3 Voice and Audio changes in rust-v0.164.0]]
+- Earlier: 2026-11-04 · Dify · [[Changes/Dify/2026-11-04-2-voice-and-audio-changes-in-1-19-0|2 Voice and Audio changes in 1.19.0]]
 - Later: 2026-11-06 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-11-06-4-voice-and-audio-changes-in-v1-0-106|4 Voice and Audio changes in v1.0.106]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-08-11 · Aider · [[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source link) support, which allows you…]]
+- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

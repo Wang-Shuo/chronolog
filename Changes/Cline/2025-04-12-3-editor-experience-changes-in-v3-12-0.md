@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b72f5e473d26ff1c86aec20de65c9b2f45db096b291d807b60ecc69e16f04836
+machine_hash: 8c60a639e265397f4c8cec50182053d95c9ffc954c6c8286e1eeb7e3bf50aef6
 product: cline
 product_name: Cline
 record:
@@ -44,12 +44,12 @@ record:
   title: 3 Editor Experience changes in v3.12.0
   type: change
 related_changes:
-- '[[Changes/Windsurf/2025-04-02-improvements-to-windsurf-tab|Improvements to Windsurf
-  Tab]]'
 - '[[Changes/Cline/2025-04-06-add-ability-to-detect-when-user-edits-files-manually-so-cline-knows-to-re-read-l|Add
   ability to detect when user edits files manually so Cline knows to re-read…]]'
 - '[[Changes/Windsurf/2025-04-07-ability-to-edit-subdomain-on-website-deploy|Ability
   to edit subdomain on website deploy]]'
+- '[[Changes/Dify/2025-04-09-chore-slider-fix-the-slider-lint-error-by-nov1c444-in-https-github-com-langgeniu|chore(slider):
+  fix the slider lint error]]'
 source_release: '[[Releases/Cline/cline-2025-04-12-v3-12-0-github-212001434-6cc8f535|cline-2025-04-12-v3-12-0-github-212001434-6cc8f535]]'
 source_type: github_releases
 theme: editor-experience
@@ -86,7 +86,7 @@ Source: https://github.com/cline/cline/releases/tag/v3.12.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2025-04-07 · Windsurf · [[Changes/Windsurf/2025-04-07-ability-to-edit-subdomain-on-website-deploy|Ability to edit subdomain on website deploy]]
+- Earlier: 2025-04-09 · Dify · [[Changes/Dify/2025-04-09-chore-slider-fix-the-slider-lint-error-by-nov1c444-in-https-github-com-langgeniu|chore(slider): fix the slider lint error]]
 - Later: 2025-04-14 · Aider · [[Changes/Aider/2025-04-14-added-new-editor-diff-editor-whole-and-editor-diff-fenced-edit-formats|Added new editor-diff, editor-whole, and editor-diff-fenced edit formats]]
 <!-- chronolog:end -->
 

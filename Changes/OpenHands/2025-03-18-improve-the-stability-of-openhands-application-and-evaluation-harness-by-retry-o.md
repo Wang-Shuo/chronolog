@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a9595cbd665cd0aa9da1869b6c8f233611806ee079cf4d7b585a3594227f0a9e
+machine_hash: 37f2df2d28c902f507a453a25fa96574215789d65ba8a8c9f2b268ff99a7ead0
 product: openhands
 product_name: OpenHands
 record:
@@ -80,7 +80,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2025-03-18 · ChatGPT · [[Changes/ChatGPT/2025-03-18-improved-display-and-faster-streaming-of-conversations-and-message-menu-actions|Improved display and faster streaming of conversations and message menu actions]]
-- Later: 2025-03-23 · Cline · [[Changes/Cline/2025-03-23-add-sort-underlying-provider-routing-setting-to-cline-openrouter-allowing-you-to|Add 'Sort underlying provider routing' setting to Cline/OpenRouter allowing you…]]
+- Later: 2025-03-21 · Lovable · [[Changes/Lovable/2025-03-21-chat-mode-is-faster-than-ever-fixing-the-bug-where-it-sometimes-just-stopped|Chat mode is faster than ever, fixing the bug where it sometimes just stopped]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 640a88f26e36adf2f07eb16351c58f09cdde26e8d7482666a29feb68a07cdfa0
+machine_hash: e99d340e9c201d87a8e8498fef609966a3ddf40ddf4a8cdd93f8c0631f6d2a0f
 product: cursor
 product_name: Cursor
 record:
@@ -89,7 +89,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-06-10 · Claude Code · [[Changes/Claude Code/2026-06-10-improved-performance-in-long-conversations-by-removing-redundant-message-normali|Improved performance in long conversations by removing redundant message…]]
-- Later: 2026-06-12 · Claude Code · [[Changes/Claude Code/2026-06-12-2-reliability-and-performance-changes-in-v2-1-176|2 Reliability and Performance changes in v2.1.176]]
+- Later: 2026-06-10 · Lovable · [[Changes/Lovable/2026-06-10-preview-toolbar|Preview toolbar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 93f21ee56dbf8cc9429d7cf313f08117ba9e15d3453b1198c3250f2bd5cea282
+machine_hash: 440da64e9a4923a27ac28591c69f4cb60e85490c1d2cff26b2dadcff3969294d
 product: windsurf
 product_name: Windsurf
 record:
@@ -39,12 +39,11 @@ record:
   title: Sign in with ChatGPT
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-09-28-2-account-and-access-changes-in-v1-0-89|2
-  Account and Access changes in v1.0.89]]'
 - '[[Changes/Claude Code/2026-09-29-changed-team-and-enterprise-sessions-and-sessions-whose-sign-in-plan-claude-code|Changed
   Team and Enterprise sessions, and sessions whose sign-in plan Claude Code…]]'
 - '[[Changes/Codex CLI/2026-09-29-3-account-and-access-changes-in-rust-v0-159-0|3
   Account and Access changes in rust-v0.159.0]]'
+- '[[Changes/v0/2026-09-29-connect-your-chatgpt-account|Connect your ChatGPT account]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-09-29-v3-10-48-d772a863|windsurf-2026-09-29-v3-10-48-d772a863]]'
 source_type: windsurf_changelog
 theme: account-access
@@ -75,7 +74,7 @@ type: change
 ## Nearby in Account and Access
 
 - Earlier: 2026-09-29 · Codex CLI · [[Changes/Codex CLI/2026-09-29-3-account-and-access-changes-in-rust-v0-159-0|3 Account and Access changes in rust-v0.159.0]]
-- Later: 2026-09-30 · Cline · [[Changes/Cline/2026-09-30-if-a-new-task-fails-cline-sign-in-signing-in-and-submitting-a-revised-prompt-now|If a new task fails Cline sign-in, signing in and submitting a revised prompt now…]]
+- Later: 2026-09-29 · v0 · [[Changes/v0/2026-09-29-connect-your-chatgpt-account|Connect your ChatGPT account]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

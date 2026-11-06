@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a3a38050ef4b03e532b8d8f42cea6028cbb4a4a46af9cf29f6c1f8fed219fe9c
+machine_hash: dedecbac9f11645f4c0ec35333b3a8bb3882400b6d63ecf0f322c3b88979bd75
 product: cursor
 product_name: Cursor
 record:
@@ -43,8 +43,8 @@ record:
   title: 2 Reliability and Performance changes in 1.3
   type: change
 related_changes:
-- '[[Changes/Cline/2025-07-22-speed-up-e2e-tests-by-celestial-vault-in-https-github-com-cline-cline-pull-5045|Speed
-  up E2E tests]]'
+- '[[Changes/Dify/2025-07-23-5-reliability-and-performance-changes-in-1-7-0|5 Reliability
+  and Performance changes in 1.7.0]]'
 - '[[Changes/Gemini CLI/2025-07-25-run-model-availability-check-in-the-background-to-speed-up-startup-by-sandytao52|Run
   model availability check in the background to speed up startup]]'
 - '[[Changes/Cursor/2025-07-29-agent-edits-are-now-faster-by-lazy-loading-linter-errors-search-replace-edit-lat|Faster

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 1c7871afecde9eb82d7cc307f37cc5a819381d9c20564baf45a2c08e1b4a4984
+machine_hash: 7c5fd373a306b5110c4f5bc7e35fe13fcf06f1afe08a3b614b0dfc7cda178a23
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -52,8 +52,8 @@ record:
   title: Mobile UI (iOS/Android) changing on Free/Plus/Pro plans
   type: change
 related_changes:
-- '[[Changes/Cline/2025-04-19-add-new-slash-command-menu-letting-you-type-to-do-quick-actions-like-creating-ne|Add
-  new slash command menu letting you type…]]'
+- '[[Changes/Dify/2025-04-23-2-interface-experience-changes-in-1-3-0|2 Interface Experience
+  changes in 1.3.0]]'
 - '[[Changes/Cline/2025-04-25-add-tooltips-to-bottom-row-menu|Add tooltips to bottom
   row menu]]'
 - '[[Changes/Cline/2025-05-03-add-support-for-latex-rendering|Add support for LaTeX
@@ -87,7 +87,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2025-05-03 · Cline · [[Changes/Cline/2025-05-03-add-support-for-latex-rendering|Add support for LaTeX rendering]]
-- Later: 2025-05-07 · OpenHands · [[Changes/OpenHands/2025-05-07-added-branch-picker-for-repository-on-homepage-by-rbren-in-https-github-com-all|Added branch picker for repository on homepage]]
+- Later: 2025-05-06 · Open WebUI · [[Changes/Open WebUI/2025-05-06-multiple-xml-tags-in-messages-now-parsed-correctly-fixed-parsing-issues-when-mes|🏷️ Multiple XML Tags in Messages Now Parsed Correctly]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

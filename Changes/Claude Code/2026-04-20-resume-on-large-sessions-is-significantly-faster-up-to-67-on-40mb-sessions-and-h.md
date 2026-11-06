@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ad0027228778370a5a8309f2943825971e72e14924a0d447c8b14d0772584012
+machine_hash: 9b47e03cbe1c19b59d4726e3b83d1aa16beda386be0ed90769eb7324623d8c80
 product: claude-code
 product_name: Claude Code
 record:
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-04-17 · Windsurf · [[Changes/Windsurf/2026-04-17-various-bug-fixes-and-performance-improvements|Various bug fixes and performance improvements]]
-- Later: 2026-04-22 · Claude Code · [[Changes/Claude Code/2026-04-22-2-reliability-and-performance-changes-in-v2-1-117|2 Reliability and Performance changes in v2.1.117]]
+- Later: 2026-04-21 · Open WebUI · [[Changes/Open WebUI/2026-04-21-24-reliability-and-performance-changes-in-v0-9-0|24 Reliability and Performance changes in v0.9.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

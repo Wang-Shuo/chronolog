@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9aa771e9b3dd57b154e512803f18a48b075fc2deb8959f41810ac61e7acb0646
+machine_hash: 14945c0001d54db1812d45a3d66545520c9dfdc77e404a91e66147be94ab0f41
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,12 +44,11 @@ record:
   title: /reset-allowed-tools now fully undoes /allow-all and re-triggers the autopilot…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-03-05-when-invoked-the-agent-spins-up-a-cloud-sandbox-and-follows-your-instructions-us|When
-  invoked, the agent spins up a cloud sandbox and follows your instructions using…]]'
-- '[[Changes/Claude Code/2026-03-07-fixed-false-positive-permission-prompts-for-compound-bash-commands-containing-he|Fixed
-  false-positive permission prompts for compound bash commands containing…]]'
 - '[[Changes/Codex CLI/2026-03-08-6-safety-and-privacy-changes-in-rust-v0-112-0|6
   Safety and Privacy changes in rust-v0.112.0]]'
+- "[[Changes/Open WebUI/2026-03-08-open-terminal-permission-fix-open-terminal-is-now-visible-without-requiring-allo|\U0001F5A5️
+  Open Terminal permission fix. Open Terminal is now visible without requiring…]]"
+- '[[Changes/ElevenLabs/2026-03-09-packages|Packages]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-03-09-v1-0-3-github-294937927-8c143137|github-copilot-cli-2026-03-09-v1-0-3-github-294937927-8c143137]]'
 source_type: github_releases
 theme: safety-privacy
@@ -85,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-03-08 · Codex CLI · [[Changes/Codex CLI/2026-03-08-6-safety-and-privacy-changes-in-rust-v0-112-0|6 Safety and Privacy changes in rust-v0.112.0]]
+- Earlier: 2026-03-09 · ElevenLabs · [[Changes/ElevenLabs/2026-03-09-packages|Packages]]
 - Later: 2026-03-10 · Claude Code · [[Changes/Claude Code/2026-03-10-6-safety-and-privacy-changes-in-v2-1-72|6 Safety and Privacy changes in v2.1.72]]
 <!-- chronolog:end -->
 

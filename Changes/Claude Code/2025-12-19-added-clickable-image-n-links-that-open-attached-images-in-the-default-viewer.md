@@ -4,20 +4,20 @@ date: '2025-12-19'
 description: 'Claude Code · 2025-12-19 · Multimodal Input: Added clickable `[Image
   #N]` links that open attached images in the default viewer'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-09-25-you-can-now-show-chatgpt-one-or-more-images-troubleshoot-why-your-grill-won-t-st-e42bd6|Image
-    input will be generally available to Plus users on all platforms]]'
+  first_in_tracked: '[[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add
+    video to cn readme]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 816
+  lag_days: 822
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a83fe0f451e3694efeb71c96d6a4e71bb4a44b29be49afa1e72259d1ac5105bf
+machine_hash: 378a959eec6994c8eabea18321004c6fe62d3f00500db32aec059d18b1cec421
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
     viewer'
   type: change
 related_changes:
-- '[[Changes/Cline/2025-07-16-add-vision-capability-to-moonshot-v1-by-saoudrizwan-in-https-github-com-cline-cl|Add
-  vision capability to moonshot v1]]'
-- '[[Changes/Gemini CLI/2025-08-06-feat-core-parse-multimodal-mcp-tool-responses-by-luccasparoni-in-https-github-co|feat(core):
-  Parse Multimodal MCP Tool responses]]'
-- '[[Changes/Gemini CLI/2025-08-14-feat-core-parse-multimodal-mcp-tool-responses-by-luccasparoni-in-https-github-co|feat(core):
-  Parse Multimodal MCP Tool responses]]'
+- '[[Changes/Open WebUI/2025-11-06-2-multimodal-input-changes-in-v0-6-35|2 Multimodal
+  Input changes in v0.6.35]]'
+- '[[Changes/Ollama/2025-11-27-mistral-large-3-https-ollama-com-library-mistral-large-3-a-general-purpose-multi|Mistral-Large-3((source
+  link) A general-purpose…]]'
+- '[[Changes/Dify/2025-12-11-11-multimodal-input-changes-in-1-11-0|11 Multimodal Input
+  changes in 1.11.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2025-12-19-v2-0-73-github-271620087-160adbe9|claude-code-2025-12-19-v2-0-73-github-271620087-160adbe9]]'
 source_type: github_releases
 theme: multimodal
@@ -82,14 +82,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Multimodal Input
 
-- Earlier: 2025-08-14 · Gemini CLI · [[Changes/Gemini CLI/2025-08-14-feat-core-parse-multimodal-mcp-tool-responses-by-luccasparoni-in-https-github-co|feat(core): Parse Multimodal MCP Tool responses]]
-- Later: 2026-02-10 · Gemini CLI · [[Changes/Gemini CLI/2026-02-10-perf-core-optimize-token-calculation-and-add-support-for-multimodal-tool-respons|perf(core): optimize token calculation and add support for multimodal tool responses]]
+- Earlier: 2025-12-11 · Dify · [[Changes/Dify/2025-12-11-11-multimodal-input-changes-in-1-11-0|11 Multimodal Input changes in 1.11.0]]
+- Later: 2025-12-21 · Open WebUI · [[Changes/Open WebUI/2025-12-21-2-multimodal-input-changes-in-v0-6-42|2 Multimodal Input changes in v0.6.42]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-25 · ChatGPT · [[Changes/ChatGPT/2023-09-25-you-can-now-show-chatgpt-one-or-more-images-troubleshoot-why-your-grill-won-t-st-e42bd6|Image input will be generally available to Plus users on all platforms]]
+- Earliest same-theme entry in the tracked set: 2023-09-19 · Dify · [[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add video to cn readme]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

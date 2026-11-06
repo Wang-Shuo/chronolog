@@ -4,20 +4,20 @@ date: '2026-03-05'
 description: 'Codex CLI · 2026-03-05 · Files and Data: 4 changes in 0.110.0 — #13345
   feat: spreadsheet artifact @jif-oai'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code
-    interpreter is now rolling out in beta on web]]'
+  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
+    Files and Data changes in 0.2.2]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 973
+  lag_days: 1015
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 98d4d8d324a7b9817d5890344bbea7ef3601671b9e9e1a4d0fe9498e6ab234ff
+machine_hash: 4cfa90196f48bbc2980a1cd440c828199b559ee03cb8d6dcf21f88741dfc8e45
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -46,8 +46,8 @@ record:
   title: 4 Files and Data changes in rust-v0.110.0
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-02-13-expanded-file-type-support-we-now-support-additional-text-and-code-file-formats|Expanded
-  file type support]]'
+- '[[Changes/Open WebUI/2026-02-16-long-content-truncation-in-preview-modals-citation-and-file-content-modals-now-t|⚡
+  Long content truncation in preview modals. Citation and file content modals…]]'
 - '[[Changes/Gemini CLI/2026-02-25-feat-plan-document-and-validate-plan-mode-policy-overrides-by-jerop-in-https-git|feat(plan):
   document and validate Plan Mode policy overrides]]'
 - '[[Changes/ChatGPT/2026-02-27-export-visuals-from-code-blocks-flowcharts-diagrams-and-data-visualizations-crea|Export
@@ -107,7 +107,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.110.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-06 · ChatGPT · [[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code interpreter is now rolling out in beta on web]]
+- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

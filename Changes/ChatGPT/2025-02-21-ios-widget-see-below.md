@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7b45d85ad8c897d929860166468cdad26b9659dcd7a828d4f7b3172107c6078a
+machine_hash: 5a01e94b665f72faa7aac2306be70e994813267f482d2205c18b6f575bea3072
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -39,12 +39,11 @@ record:
   title: iOS widget (see below)
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-01-17-we-ve-updated-custom-instructions-to-make-it-easier-to-customize-how-chatgpt-res-e42760|More
-  personalization in Custom Instructions]]'
-- '[[Changes/ChatGPT/2025-02-14-confirmation-dialog-for-logging-out-ios-web|Confirmation
-  dialog for logging out (iOS, web)]]'
 - '[[Changes/ChatGPT/2025-02-14-updated-launch-animations-and-composer-design-on-android|Updated
   launch animations and composer design on Android]]'
+- '[[Changes/Replit/2025-02-14-mobile-development|Mobile development]]'
+- "[[Changes/Open WebUI/2025-02-20-mobile-hover-issue-resolved-users-can-now-edit-responses-smoothly-on-mobile-with|\U0001F4F1
+  Mobile Hover Issue Resolved]]"
 source_release: '[[Releases/ChatGPT/chatgpt-2025-02-21-1-6b86b273|chatgpt-2025-02-21-1-6b86b273]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
@@ -73,8 +72,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2025-02-14 · ChatGPT · [[Changes/ChatGPT/2025-02-14-updated-launch-animations-and-composer-design-on-android|Updated launch animations and composer design on Android]]
-- Later: 2025-02-28 · ChatGPT · [[Changes/ChatGPT/2025-02-28-long-press-to-select-text-on-ios-and-moved-the-message-quick-actions-to-always-b-a40c3f|Long press to select text on iOS and moved the message quick actions to always…]]
+- Earlier: 2025-02-20 · Open WebUI · [[Changes/Open WebUI/2025-02-20-mobile-hover-issue-resolved-users-can-now-edit-responses-smoothly-on-mobile-with|📱 Mobile Hover Issue Resolved]]
+- Later: 2025-02-21 · Replit · [[Changes/Replit/2025-02-21-replit-expo|Replit 🤝 Expo]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

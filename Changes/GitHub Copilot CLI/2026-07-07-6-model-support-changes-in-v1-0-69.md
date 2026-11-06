@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0797cdb85afc6a34b305e939b831770342528e61c82ec31f78e64375fd193650
+machine_hash: dbb5e4dfb7fe88774110c516e4909ccda85bf71ff3e7089c1df72317e5838207
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -51,10 +51,8 @@ record:
   title: 6 Model Support changes in v1.0.69
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-03-claude-sonnet-5-sessions-no-longer-use-the-mid-conversation-system-role-for-harn|Claude
-  Sonnet 5 sessions no longer use the mid-conversation system role for harness…]]'
-- '[[Changes/ChatGPT/2026-07-06-we-re-rolling-out-gpt-5-5-instant-mini-in-chatgpt-it-replaces-gpt-5-3-instant-mi|GPT-5.5
-  Instant Mini in ChatGPT]]'
+- '[[Changes/ElevenLabs/2026-07-06-elevencreative-studio-d7b18f|ElevenCreative Studio]]'
+- '[[Changes/Ollama/2026-07-06-hardened-gguf-model-creation|Hardened GGUF model creation]]'
 - '[[Changes/OpenHands/2026-07-06-4-model-support-changes-in-1-9-0|4 Model Support
   changes in 1.9.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-07-07-v1-0-69-github-350582031-19558357|github-copilot-cli-2026-07-07-v1-0-69-github-350582031-19558357]]'
@@ -110,7 +108,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.69
 ## Nearby in Model Support
 
 - Earlier: 2026-07-06 · OpenHands · [[Changes/OpenHands/2026-07-06-4-model-support-changes-in-1-9-0|4 Model Support changes in 1.9.0]]
-- Later: 2026-07-08 · Codex CLI · [[Changes/Codex CLI/2026-07-08-14-model-support-changes-in-rust-v0-143-0|14 Model Support changes in rust-v0.143.0]]
+- Later: 2026-07-07 · Lovable · [[Changes/Lovable/2026-07-07-nano-banana-2-lite-image-model-for-ai-features-in-your-app|Nano Banana 2 Lite image model for AI features in your app]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

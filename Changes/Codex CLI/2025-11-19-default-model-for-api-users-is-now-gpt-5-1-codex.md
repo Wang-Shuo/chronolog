@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 92bdac7f788ce45b0ea04b719eeddd4f7368fe9bc718bca02d416f046b8ab076
+machine_hash: 04d1d494a049ead8aecc2e111cfd87e9002c1647b1054f2de445946448173313
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,8 +44,8 @@ record:
   title: Default model for API users is now `gpt-5.1-codex`
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2025-11-18-gemini-3-pro-is-now-available-in-github-copilot-cli|Gemini
-  3 Pro is now available in GitHub Copilot CLI]]'
+- '[[Changes/v0/2025-11-18-all-users-can-now-try-v0-with-gemini-3-pro-preview-for-one-week|Gemini
+  3 Pro Preview]]'
 - '[[Changes/Windsurf/2025-11-18-gemini-3-pro-preview|Gemini 3 Pro Preview]]'
 - '[[Changes/ChatGPT/2025-11-19-today-we-re-updating-gpt-5-pro-to-gpt-5-1-pro-in-early-testing-users-consistentl-191826|GPT-5.1
   Pro: Clearer, more capable answers for complex work]]'

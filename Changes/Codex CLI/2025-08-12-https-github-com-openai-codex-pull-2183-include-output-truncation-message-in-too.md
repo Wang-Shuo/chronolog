@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 0fc87c98e9ccfe5e992cf5797078fa7c7f6895077eb874a92dc067820dc37614
+machine_hash: b347fe28efdc234fc0ba1af95b5650ad4f903da86932c4f97db707a2c3149cf2
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -47,8 +47,8 @@ record:
     in tool…
   type: change
 related_changes:
-- '[[Changes/Aider/2025-08-09-5-model-support-changes-in-v0-86-0|5 Model Support changes
-  in v0.86.0]]'
+- "[[Changes/Open WebUI/2025-08-11-openai-api-v1-endpoint-compatibility-enhanced-api-compatibility-by-supporting-re|\U0001F517
+  OpenAI API '/v1' Endpoint Compatibility]]"
 - '[[Changes/ChatGPT/2025-08-12-gmail-google-calendar-and-google-contacts-are-now-available-to-connect-and-use-i-9ea6d6|Gmail,
   Google Calendar, and Google Contacts Connectors in ChatGPT (Pro)]]'
 - '[[Changes/ChatGPT/2025-08-12-you-can-now-choose-between-auto-fast-and-thinking-for-gpt-5-most-users-will-want-f4c05b|GPT-5

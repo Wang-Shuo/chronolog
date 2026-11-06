@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f6749ffd570a6a6b8a8d54b22357ae341fefbfb21404c4ad39a084ba09e5b711
+machine_hash: fb51a89c86a6c1bce139a73d48e925197776ee3c7daa735bfb480f8d367ed3d2
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,8 +45,7 @@ record:
   title: Changed self-hosted runner Windows startup to require an explicit `--base-dir`
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-08-10-chatgpt-can-now-help-you-find-available-restaurant-reservations-with-opentable-r|Restaurant
-  reservations in ChatGPT]]'
+- '[[Changes/ElevenLabs/2026-08-10-android-sdk|Android SDK]]'
 - '[[Changes/GitHub Copilot CLI/2026-08-10-2-mobile-and-desktop-changes-in-v1-0-79|2
   Mobile and Desktop changes in v1.0.79]]'
 - '[[Changes/Windsurf/2026-08-10-devin-desktop|Devin Desktop]]'

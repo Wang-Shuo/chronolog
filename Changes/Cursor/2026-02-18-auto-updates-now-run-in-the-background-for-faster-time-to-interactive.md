@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e69d8d091ae97a733fbc6df9a8fc5c814d744b0bb705c886be752606d82b6d1c
+machine_hash: 6a71aabddc83845746e57adc59bd34939be7548e66ceca31bb90a37a391bd29d
 product: cursor
 product_name: Cursor
 record:
@@ -41,10 +41,10 @@ record:
   title: Auto-updates now run in the background for faster time-to-interactive
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-02-17-2-reliability-and-performance-changes-in-2-5|2 Reliability
-  and Performance changes in 2.5]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-17-2-reliability-and-performance-changes-in-v0-0-411|2
   Reliability and Performance changes in v0.0.411]]'
+- "[[Changes/Open WebUI/2026-02-17-general-improvements-various-improvements-were-implemented-across-the-applicatio|\U0001F504
+  General improvements. Various improvements were implemented across…]]"
 - '[[Changes/Claude Code/2026-02-18-5-reliability-and-performance-changes-in-v2-1-47|5
   Reliability and Performance changes in v2.1.47]]'
 source_release: '[[Releases/Cursor/cursor-2026-02-18-cli-improvements-and-mermaid-ascii-diagrams-https-cursor-com-cha-a75d36c7|cursor-2026-02-18-cli-improvements-and-mermaid-ascii-diagrams-https-cursor-com-cha-a75d36c7]]'

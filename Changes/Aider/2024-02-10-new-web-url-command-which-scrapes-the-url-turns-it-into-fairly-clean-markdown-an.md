@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 9678d63f56bc8521347519a57e4f52acf22ac407c1fe3dab26782a39fc05365c
+machine_hash: 97f6318cf5e225720de2ece36037c522764d373604f1dc946de542003007ed44
 product: aider
 product_name: Aider
 record:
@@ -46,11 +46,12 @@ record:
     markdown…
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-01-06-improves-the-stability-of-wsl|Improves the stability
-  of WSL]]'
-- '[[Changes/Cursor/2024-01-15-working-wsl-codebase-search|Working WSL codebase search]]'
+- '[[Changes/Ollama/2024-02-02-ollama-serve-will-now-print-prompt-when-ollama-debug-1-is-set|ollama
+  serve will now print prompt when OLLAMA_DEBUG=1 is set]]'
 - '[[Changes/Aider/2024-02-03-2-developer-workflow-changes-in-v0-23-0|2 Developer
   Workflow changes in v0.23.0]]'
+- '[[Changes/Dify/2024-02-06-enhancement-introduce-ruff-for-python-linter-for-reordering-and-removing-unused|enhancement:
+  introduce Ruff for Python linter for reordering and removing unused…]]'
 source_release: '[[Releases/Aider/aider-2024-02-10-v0-24-0-github-141383144-b580d44c|aider-2024-02-10-v0-24-0-github-141383144-b580d44c]]'
 source_type: github_releases
 theme: developer-workflow
@@ -80,8 +81,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2024-02-03 · Aider · [[Changes/Aider/2024-02-03-2-developer-workflow-changes-in-v0-23-0|2 Developer Workflow changes in v0.23.0]]
-- Later: 2024-02-15 · Cursor · [[Changes/Cursor/2024-02-15-linter-you-can-now-turn-on-an-ai-linter-in-the-more-tab-beside-chat-it-ll-scan-y|Linter: You can now turn on an AI linter in the "More" tab beside Chat]]
+- Earlier: 2024-02-06 · Dify · [[Changes/Dify/2024-02-06-enhancement-introduce-ruff-for-python-linter-for-reordering-and-removing-unused|enhancement: introduce Ruff for Python linter for reordering and removing unused…]]
+- Later: 2024-02-13 · Dify · [[Changes/Dify/2024-02-13-3-developer-workflow-changes-in-0-5-5|3 Developer Workflow changes in 0.5.5]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

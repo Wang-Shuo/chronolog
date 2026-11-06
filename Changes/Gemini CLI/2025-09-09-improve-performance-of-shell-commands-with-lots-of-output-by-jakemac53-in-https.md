@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: aafd9b509b029ac34e63ccb89964308b50450c1ab4a1856565e297db90076462
+machine_hash: 5cbb6a8a715625202e55c2f2aa1d35c924bfcdac999e68f3ec961c7cd80c1421
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -42,12 +42,12 @@ record:
   title: improve performance of shell commands with lots of output
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-09-02-2-reliability-and-performance-changes-in-rust-v0-28-0|2
-  Reliability and Performance changes in rust-v0.28.0]]'
-- '[[Changes/OpenHands/2025-09-02-improved-performance-and-user-experience-when-working-with-repositories-that-hav|Improved
-  performance and user experience when working with repositories that have…]]'
+- '[[Changes/Dify/2025-09-03-3-reliability-and-performance-changes-in-1-8-1|3 Reliability
+  and Performance changes in 1.8.1]]'
 - '[[Changes/Gemini CLI/2025-09-04-chore-remove-cli-flags-all-files-and-show-memory-usage-by-jackwotherspoon-in-htt|chore:
   remove CLI flags all_files and show_memory_usage]]'
+- '[[Changes/Ollama/2025-09-04-embeddinggemma-https-ollama-com-library-embeddinggemma-a-new-open-embedding-mode|EmbeddingGemma((source
+  link) a new open embedding…]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-09-09-v0-4-0-github-245990585-546fee8b|gemini-cli-2025-09-09-v0-4-0-github-245990585-546fee8b]]'
 source_type: github_releases
 theme: reliability-performance
@@ -84,8 +84,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-09-04 · Gemini CLI · [[Changes/Gemini CLI/2025-09-04-chore-remove-cli-flags-all-files-and-show-memory-usage-by-jackwotherspoon-in-htt|chore: remove CLI flags all_files and show_memory_usage]]
-- Later: 2025-09-10 · Codex CLI · [[Changes/Codex CLI/2025-09-10-3323-chore-try-switching-to-cargo-nextest-to-speed-up-ci-builds|♯3323 chore: try switching to cargo nextest to speed up CI builds]]
+- Earlier: 2025-09-04 · Ollama · [[Changes/Ollama/2025-09-04-embeddinggemma-https-ollama-com-library-embeddinggemma-a-new-open-embedding-mode|EmbeddingGemma((source link) a new open embedding…]]
+- Later: 2025-09-09 · Open WebUI · [[Changes/Open WebUI/2025-09-09-5-reliability-and-performance-changes-in-v0-6-27|5 Reliability and Performance changes in v0.6.27]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

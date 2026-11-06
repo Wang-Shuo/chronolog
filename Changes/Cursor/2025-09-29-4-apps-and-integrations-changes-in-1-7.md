@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: edba838721566936db3b377a7cd6a0b0e5db9a7f7e0a5aee1be42a0ccd0de88b
+machine_hash: e9e3a037b6073f1860fb80c00cd9068f7305ec185a10bf9f59ac586b62ff2a65
 product: cursor
 product_name: Cursor
 record:
@@ -49,10 +49,10 @@ record:
   title: 4 Apps and Integrations changes in 1.7
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-09-24-5-apps-and-integrations-changes-in-v0-6-0|5 Apps
-  and Integrations changes in v0.6.0]]'
 - '[[Changes/Cline/2025-09-25-rename-mcp-tab-installed-to-configure-by-saoudrizwan-in-https-github-com-cline-c|Rename
   MCP tab ''Installed'' to ''Configure'']]'
+- '[[Changes/Open WebUI/2025-09-25-4-apps-and-integrations-changes-in-v0-6-31|4 Apps
+  and Integrations changes in v0.6.31]]'
 - '[[Changes/Codex CLI/2025-09-26-4-apps-and-integrations-changes-in-rust-v0-42-0|4
   Apps and Integrations changes in rust-v0.42.0]]'
 source_release: '[[Releases/Cursor/cursor-2025-09-29-1-7-https-cursor-com-changelog-1-7-0a03c0ae|cursor-2025-09-29-1-7-https-cursor-com-changelog-1-7-0a03c0ae]]'
@@ -110,7 +110,7 @@ Source: https://cursor.com/changelog/1-7
 ## Nearby in Apps and Integrations
 
 - Earlier: 2025-09-26 · Codex CLI · [[Changes/Codex CLI/2025-09-26-4-apps-and-integrations-changes-in-rust-v0-42-0|4 Apps and Integrations changes in rust-v0.42.0]]
-- Later: 2025-10-01 · Gemini CLI · [[Changes/Gemini CLI/2025-10-01-11-apps-and-integrations-changes-in-v0-7-0|11 Apps and Integrations changes in v0.7.0]]
+- Later: 2025-09-29 · Dify · [[Changes/Dify/2025-09-29-5-apps-and-integrations-changes-in-1-9-1|5 Apps and Integrations changes in 1.9.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

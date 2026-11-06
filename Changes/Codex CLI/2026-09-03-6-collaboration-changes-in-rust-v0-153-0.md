@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 756e7444feaf37daf4ace2258f3401af696a7f775c92eb95ff493d5d9a1f04d8
+machine_hash: 940e48223e9c55a092093f9bfa3bfc6efc3dde602db72f870979a5fd23902a27
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -58,8 +58,8 @@ record:
   title: 6 Collaboration changes in rust-v0.153.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-08-20-2-collaboration-changes-in-rust-v0-149-0|2 Collaboration
-  changes in rust-v0.149.0]]'
+- '[[Changes/Open WebUI/2026-08-31-2-collaboration-changes-in-v0-11-2|2 Collaboration
+  changes in v0.11.2]]'
 - '[[Changes/Codex CLI/2026-09-01-5-collaboration-changes-in-rust-v0-152-0|5 Collaboration
   changes in rust-v0.152.0]]'
 - '[[Changes/ChatGPT/2026-09-03-eligible-site-owners-can-now-share-a-live-chatgpt-site-with-named-people-outside|Share

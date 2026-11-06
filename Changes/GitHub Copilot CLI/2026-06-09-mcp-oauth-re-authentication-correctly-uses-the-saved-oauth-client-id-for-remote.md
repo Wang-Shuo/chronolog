@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d8852d464619273ee7c9f004dac4dcf09f054bee2f74312a291fa51c8a5764e1
+machine_hash: 8bca08a8727f93914ac449d2fce94ace9ed265453cd1351819e6f701c86b29d1
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -53,12 +53,12 @@ record:
     remote servers
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-06-06-increased-proxy-authentication-timeout|Increased
-  proxy authentication timeout]]'
 - '[[Changes/Claude Code/2026-06-08-improved-the-error-message-shown-when-your-organization-has-disabled-api-key-aut|Improved
   the error message shown when your organization has disabled API key…]]'
 - '[[Changes/Codex CLI/2026-06-08-2-account-and-access-changes-in-rust-v0-138-0|2
   Account and Access changes in rust-v0.138.0]]'
+- '[[Changes/v0/2026-06-08-2-account-and-access-changes-in-changelog-update|2 Account
+  and Access changes in Changelog update]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-06-09-v1-0-61-github-336905979-4d0a69f2|github-copilot-cli-2026-06-09-v1-0-61-github-336905979-4d0a69f2]]'
 source_type: github_releases
 theme: account-access
@@ -99,7 +99,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-06-08 · Codex CLI · [[Changes/Codex CLI/2026-06-08-2-account-and-access-changes-in-rust-v0-138-0|2 Account and Access changes in rust-v0.138.0]]
+- Earlier: 2026-06-08 · v0 · [[Changes/v0/2026-06-08-2-account-and-access-changes-in-changelog-update|2 Account and Access changes in Changelog update]]
 - Later: 2026-06-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-13-remote-mcp-oauth-servers-start-only-once-per-matching-config-instead-of-restarti|Remote MCP OAuth servers start only once per matching config instead of restarting…]]
 <!-- chronolog:end -->
 

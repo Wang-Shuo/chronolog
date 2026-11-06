@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: pricing
-machine_hash: 2cf0c3ce940595bcb0da0ab02e07486e06abc94353589d20b0146b7e4371fb17
+machine_hash: a3dba7c6bc4fa389247beeb3c22b2317c8643ac1a2becca0dbca8b4ffaf71f8d
 product: cline
 product_name: Cline
 record:
@@ -45,11 +45,11 @@ record:
   title: Remove incorrect pricing display for SAP AI Core provider since it uses non-USD…
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-05-15-simpler-unified-pricing-6a915c|Simpler, unified pricing]]'
-- '[[Changes/Cursor/2025-05-15-introducing-unified-request-based-pricing-max-mode-for-all-top-models-and-backgr|Introducing
-  unified request-based pricing, Max Mode for all top models…]]'
+- '[[Changes/Replit/2025-06-27-organization-suspension-from-ubb-services|Organization
+  suspension from UBB services]]'
 - '[[Changes/Gemini CLI/2025-07-01-docs-add-a-page-detailing-quota-and-cost-information-by-ptone-in-https-github-co|Docs:
   Add a page detailing quota and cost information]]'
+- '[[Changes/Replit/2025-07-04-effort-based-billing|Effort-based billing]]'
 source_release: '[[Releases/Cline/cline-2025-07-09-v3-18-9-github-231283585-d5f54d8b|cline-2025-07-09-v3-18-9-github-231283585-d5f54d8b]]'
 source_type: github_releases
 theme: pricing-model
@@ -76,7 +76,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2025-07-01 · Gemini CLI · [[Changes/Gemini CLI/2025-07-01-docs-add-a-page-detailing-quota-and-cost-information-by-ptone-in-https-github-co|Docs: Add a page detailing quota and cost information]]
+- Earlier: 2025-07-04 · Replit · [[Changes/Replit/2025-07-04-effort-based-billing|Effort-based billing]]
 - Later: 2025-07-11 · Cline · [[Changes/Cline/2025-07-11-supporting-buy-credits-url-response-from-backend-by-pashpashpash-in-https-github|supporting buy_credits_url response from backend]]
 <!-- chronolog:end -->
 

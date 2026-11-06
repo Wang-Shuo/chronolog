@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 156b4aaacc8453e3b2f243b9370c9221c4a3a80ca5172011303894c0bb6a41c1
+machine_hash: 978c6561c6681bdb3b5073688722d7320db9976548b31f4f104bffea5cc686f6
 product: cline
 product_name: Cline
 record:
@@ -42,8 +42,7 @@ record:
   title: 'feat: add AGENTS.md support'
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-11-07-3-agent-mode-changes-in-v0-13-0|3 Agent Mode changes
-  in v0.13.0]]'
+- '[[Changes/ElevenLabs/2025-11-12-agents-packages|Agents Packages]]'
 - '[[Changes/Gemini CLI/2025-11-12-2-agent-mode-changes-in-v0-14-0|2 Agent Mode changes
   in v0.14.0]]'
 - '[[Changes/GitHub Copilot CLI/2025-11-12-3-agent-mode-changes-in-v0-0-355|3 Agent

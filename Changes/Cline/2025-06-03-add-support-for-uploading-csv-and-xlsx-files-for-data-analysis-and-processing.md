@@ -4,20 +4,20 @@ date: '2025-06-03'
 description: 'Cline · 2025-06-03 · Files and Data: Add support for uploading CSV and
   XLSX files for data analysis and processing'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code
-    interpreter is now rolling out in beta on web]]'
+  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
+    Files and Data changes in 0.2.2]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 698
+  lag_days: 740
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 55a8621e7458ee4f51aa462b13b2bb3f36c3759aa1239d44a2d4dfb4249e8d6b
+machine_hash: ef5fe3c07461e50aacac05852140842f094a6e5e23104663f7d5aab6fe946a68
 product: cline
 product_name: Cline
 record:
@@ -43,11 +43,12 @@ record:
   title: Add support for uploading CSV and XLSX files for data analysis and processing
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-01-15-edit-a-code-block-in-canvas|Edit a code block in Canvas]]'
-- '[[Changes/ChatGPT/2025-02-06-users-can-now-share-a-canvas-asset-such-as-rendered-react-html-code-document-or-2f5aff|Canvas
-  sharing]]'
+- '[[Changes/Dify/2025-05-27-3-files-and-data-changes-in-1-4-1|3 Files and Data changes
+  in 1.4.1]]'
 - '[[Changes/Cline/2025-05-28-add-support-for-uploading-various-file-types-xml-json-txt-log-md-docx-ipynb-pdf|Add
   support for uploading various file types…]]'
+- "[[Changes/Open WebUI/2025-05-28-datalab-marker-api-content-extraction-support-seamlessly-extract-content-from-fi|\U0001FAA7
+  Datalab Marker API Content Extraction Support]]"
 source_release: '[[Releases/Cline/cline-2025-06-03-v3-17-9-github-222580795-63fc22f6|cline-2025-06-03-v3-17-9-github-222580795-63fc22f6]]'
 source_type: github_releases
 theme: file-data
@@ -77,14 +78,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2025-05-28 · Cline · [[Changes/Cline/2025-05-28-add-support-for-uploading-various-file-types-xml-json-txt-log-md-docx-ipynb-pdf|Add support for uploading various file types…]]
-- Later: 2025-06-24 · ChatGPT · [[Changes/ChatGPT/2025-06-24-projects-can-now-support-40-uploaded-files-up-from-20-for-pro-users|Project file limit increased (Pro)]]
+- Earlier: 2025-05-28 · Open WebUI · [[Changes/Open WebUI/2025-05-28-datalab-marker-api-content-extraction-support-seamlessly-extract-content-from-fi|🪧 Datalab Marker API Content Extraction Support]]
+- Later: 2025-06-10 · Open WebUI · [[Changes/Open WebUI/2025-06-10-3-files-and-data-changes-in-v0-6-14|3 Files and Data changes in v0.6.14]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-06 · ChatGPT · [[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code interpreter is now rolling out in beta on web]]
+- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

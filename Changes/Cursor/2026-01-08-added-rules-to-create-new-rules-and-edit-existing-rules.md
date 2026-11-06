@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 34339aa2b3e95c1afb6df1e6d9cf6cb72876007b5aa9760fddca10321abb70b3
+machine_hash: 6ba2b8b6bbd4df70841f3bf226b403ec1e81382d887b66bbd298b30f17e008a2
 product: cursor
 product_name: Cursor
 record:
@@ -91,7 +91,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-01-07 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-07-file-edits-no-longer-hang-when-approving-multiple-concurrent-edits|File edits no longer hang when approving multiple concurrent edits]]
-- Later: 2026-01-09 · Codex CLI · [[Changes/Codex CLI/2026-01-09-8939-chore-move-app-server-tests-from-chat-completion-to-responses-celia-oai|♯8939 chore move app server tests from chat completion to responses @celia-oai]]
+- Later: 2026-01-08 · v0 · [[Changes/v0/2026-01-08-added-an-inline-chat-in-the-new-vs-code-editor|Added an inline chat in the new VS Code editor]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

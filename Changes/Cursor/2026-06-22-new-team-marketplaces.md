@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: e83e9177a128db07b2b5134200214bf51c08432b598b3a10a4c5209d71012251
+machine_hash: c2de504916751d14767390f8e6a340c00879bb94e95098e1f0b31f3cf377493e
 product: cursor
 product_name: Cursor
 record:
@@ -45,10 +45,10 @@ record:
   title: New Team Marketplaces
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-15-27245-image-add-shared-data-url-preparation-utilities-fjord-oai|♯27245
-  image: add shared data URL preparation utilities @fjord-oai]]'
 - '[[Changes/ChatGPT/2026-06-18-world-cup-updates-chatgpt-can-now-help-you-follow-the-tournament-in-a-more-conve|World
   Cup updates]]'
+- '[[Changes/v0/2026-06-19-4-collaboration-changes-in-annotations-mode-in-form-questions|4
+  Collaboration changes in Annotations mode, in-form questions…]]'
 - '[[Changes/Codex CLI/2026-06-22-26707-pac-2-add-shared-auth-system-proxy-contract-canvrno-oai|♯26707
   PAC 2 - Add shared auth system proxy contract @canvrno-oai]]'
 source_release: '[[Releases/Cursor/cursor-2026-06-22-3-9-https-cursor-com-changelog-customize-7ff4b6b2|cursor-2026-06-22-3-9-https-cursor-com-changelog-customize-7ff4b6b2]]'

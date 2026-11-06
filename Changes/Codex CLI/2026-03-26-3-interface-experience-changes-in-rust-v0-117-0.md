@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 34e46db036471f57469fb895ecbf964f649519a2abd62b11eb02d08ffd5c82a6
+machine_hash: 3f902fec66da1daadde5975e92fb950ea663cce6c4357bfdf2812658e45741ef
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -46,8 +46,8 @@ record:
   title: 3 Interface Experience changes in rust-v0.117.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-25-2-interface-experience-changes-in-v2-1-83|2 Interface
-  Experience changes in v2.1.83]]'
+- '[[Changes/Open WebUI/2026-03-25-17-interface-experience-changes-in-v0-8-11|17 Interface
+  Experience changes in v0.8.11]]'
 - '[[Changes/ChatGPT/2026-03-26-to-give-you-more-space-to-view-your-most-critical-chats-and-projects-the-sidebar|A
   simplified sidebar on mobile]]'
 - '[[Changes/Claude Code/2026-03-26-improved-mention-file-autocomplete-performance-on-large-repositories|Improved

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a952bfcf10542f14aa89f07856d590546cbcd35490fd316e2796880d83f14f7b
+machine_hash: 0f056a6b910dfb3ed1bf07a11edb04bf8ef5edcade93ed649112198e3d2c372d
 product: cursor
 product_name: Cursor
 record:
@@ -51,12 +51,11 @@ record:
   title: Team admins can now disable Privacy Mode
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-03-19-feat-microagents-add-security-microagent-by-h55nick-in-https-github-com-all-hand|feat(microagents):
-  Add security microagent]]'
-- '[[Changes/OpenHands/2025-04-23-enabled-custom-sandbox-for-resolver-by-tetsu-is-in-https-github-com-all-hands-ai|Enabled
-  custom sandbox for resolver]]'
-- '[[Changes/OpenHands/2025-05-12-simplified-workspace-mounting-with-sandbox-volumes-by-xingyaoww-in-https-github|Simplified
-  workspace mounting with SANDBOX_VOLUMES]]'
+- '[[Changes/Replit/2025-05-23-private-development-urls|Private Development URLs]]'
+- '[[Changes/Open WebUI/2025-05-26-general-backend-stability-security-enhancements-various-backend-refinements-ensu|⚡
+  General Backend Stability & Security Enhancements]]'
+- '[[Changes/Dify/2025-05-27-3-safety-and-privacy-changes-in-1-4-1|3 Safety and Privacy
+  changes in 1.4.1]]'
 source_release: '[[Releases/Cursor/cursor-2025-06-04-1-0-https-cursor-com-changelog-1-0-237767ca|cursor-2025-06-04-1-0-https-cursor-com-changelog-1-0-237767ca]]'
 source_type: cursor_changelog
 theme: safety-privacy
@@ -98,8 +97,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2025-05-12 · OpenHands · [[Changes/OpenHands/2025-05-12-simplified-workspace-mounting-with-sandbox-volumes-by-xingyaoww-in-https-github|Simplified workspace mounting with SANDBOX_VOLUMES]]
-- Later: 2025-06-20 · OpenHands · [[Changes/OpenHands/2025-06-20-daytona-runtime-sandbox-handling-by-idagelic-in-https-github-com-all-hands-ai-op|Daytona Runtime sandbox handling]]
+- Earlier: 2025-05-27 · Dify · [[Changes/Dify/2025-05-27-3-safety-and-privacy-changes-in-1-4-1|3 Safety and Privacy changes in 1.4.1]]
+- Later: 2025-06-04 · Lovable · [[Changes/Lovable/2025-06-04-security|Security]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

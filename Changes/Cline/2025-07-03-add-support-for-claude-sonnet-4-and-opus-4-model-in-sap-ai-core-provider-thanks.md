@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: d1bf789cb3dc253394798c252f5e45a427d7bd4011a3ff432dd6cc5d49aa5aec
+machine_hash: 29fd2507f7fa453e125b0b131a4548dc83017c16e0ab4259c9b73c08c8494574
 product: cline
 product_name: Cline
 record:
@@ -46,10 +46,10 @@ record:
   title: Add support for Claude Sonnet 4 and Opus 4 model in SAP AI Core provider…
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-07-01-5-model-support-changes-in-v0-1-8|5 Model Support
-  changes in v0.1.8]]'
 - '[[Changes/Gemini CLI/2025-07-02-2-model-support-changes-in-v0-1-9|2 Model Support
   changes in v0.1.9]]'
+- '[[Changes/Ollama/2025-07-02-the-directory-in-which-models-are-stored-can-now-be-modified-this-allows-models|The
+  directory in which models are stored can now be modified!]]'
 - '[[Changes/OpenHands/2025-07-02-updating-llm-settings-are-now-applied-to-existing-conversations-after-stopping-a|Updating
   LLM settings are now applied to existing conversations after stopping…]]'
 source_release: '[[Releases/Cline/cline-2025-07-03-v3-18-2-github-229613422-5a13c7ba|cline-2025-07-03-v3-18-2-github-229613422-5a13c7ba]]'

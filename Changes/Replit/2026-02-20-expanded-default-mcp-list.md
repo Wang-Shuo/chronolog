@@ -1,0 +1,99 @@
+---
+card_id: replit-2026-02-20-dcfa23
+date: '2026-02-20'
+description: 'Replit · 2026-02-20 · Apps and Integrations: The default MCP list on
+  [replit.com/integrations](https://replit.com/integrations) has expanded, letting
+  you…'
+diffusion:
+  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
+    are announcing experimental support for AI plugins in ChatGPT]]'
+  inference: No adoption, equivalence, or causation claim.
+  lag_days: 1065
+  relation: same-theme-chronology
+  role: later-observed
+  scope: tracked-products-only
+  theme: apps-integrations
+  tracked_products_count: 20
+evolves_from: []
+extractor_version: fallback-v5
+impact: significant
+kind: launch
+machine_hash: f51544370e3be4923743bcf6fafce8c2e731a7ee78392163e786df93307c1df7
+product: replit
+product_name: Replit
+record:
+  ai_generated: true
+  card_id: replit-2026-02-20-dcfa23
+  comparison: ''
+  confidence: low
+  date: '2026-02-20'
+  description: 'Replit — Replit updates — 2026-02-20: The default MCP list on [replit.com/integrations](https://replit.com/integrations)
+    has expanded, letting you connect new integrations with a single click.'
+  evidence:
+  - quote: The default MCP list on [replit.com/integrations](https://replit.com/integrations)
+      has expanded, letting you connect new integrations with a single click.
+    source_release: https://docs.replit.com/updates/2026/02/20/changelog
+  extractor_version: fallback-v5
+  impact: significant
+  kind: launch
+  product: replit
+  product_name: Replit
+  slug: expanded-default-mcp-list
+  source_release: replit-2026-02-20-2026-02-20-4b4b553e
+  source_type: replit_changelog
+  theme: apps-integrations
+  title: Expanded default MCP list
+  type: change
+related_changes:
+- '[[Changes/Claude Code/2026-02-20-claude-code-simple-mode-now-also-disables-mcp-tools-attachments-hooks-and-claude|CLAUDE_CODE_SIMPLE
+  mode now also disables MCP tools, attachments, hooks…]]'
+- '[[Changes/GitHub Copilot CLI/2026-02-20-support-remote-plugin-sources-github-repos-and-git-urls-in-marketplace-json-plug|Support
+  remote plugin sources (GitHub repos and git URLs) in marketplace.json plugin…]]'
+- '[[Changes/Replit/2026-02-20-razorpay-mcp-integration|Razorpay MCP integration]]'
+source_release: '[[Releases/Replit/replit-2026-02-20-2026-02-20-4b4b553e|replit-2026-02-20-2026-02-20-4b4b553e]]'
+source_type: replit_changelog
+theme: apps-integrations
+title: Expanded default MCP list
+type: change
+---
+
+<!-- chronolog:begin region="header" -->
+# Expanded default MCP list
+
+**Replit** · 2026-02-20 · [[Themes/apps-integrations|Apps and Integrations]] · Launch · [Official source](https://docs.replit.com/updates/2026/02/20/changelog) · from [[Releases/Replit/replit-2026-02-20-2026-02-20-4b4b553e|Replit updates — 2026-02-20]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="evidence" -->
+> The default MCP list on [replit.com/integrations](https://replit.com/integrations) has expanded, letting you connect new integrations with a single click.
+>
+> Source: https://docs.replit.com/updates/2026/02/20/changelog
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Replit/2026-02-20-background-memory-compression|Background memory compression]] · Memory and Personalization
+- [[Changes/Replit/2026-02-20-razorpay-mcp-integration|Razorpay MCP integration]] · Apps and Integrations
+- [[Changes/Replit/2026-02-20-video-stack|Video Stack]] · Image Generation
+- [[Changes/Replit/2026-02-20-deployment-visibility-settings|Deployment visibility settings]] · Enterprise and Administration
+- [[Changes/Replit/2026-02-20-production-deployment-logs-access|Production deployment logs access]] · Agent Mode
+- [[Changes/Replit/2026-02-20-skills-search|Skills Search]] · Search and Browsing
+- [[Changes/Replit/2026-02-20-teams-and-enterprise|Teams and Enterprise]] · Enterprise and Administration
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Apps and Integrations
+
+- Earlier: 2026-02-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-20-support-remote-plugin-sources-github-repos-and-git-urls-in-marketplace-json-plug|Support remote plugin sources (GitHub repos and git URLs) in marketplace.json plugin…]]
+- Later: 2026-02-21 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-21-explore-agent-can-now-use-github-mcp-tools-when-available|Explore agent can now use GitHub MCP tools when available]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20replit-2026-02-20-dcfa23&body=Card%3A%20Changes%2FReplit%2F2026-02-20-expanded-default-mcp-list.md%0ACard%20ID%3A%20replit-2026-02-20-dcfa23%0ASource%3A%20https%3A%2F%2Fdocs.replit.com%2Fupdates%2F2026%2F02%2F20%2Fchangelog%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

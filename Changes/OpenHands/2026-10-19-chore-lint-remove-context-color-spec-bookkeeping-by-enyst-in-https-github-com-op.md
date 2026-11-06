@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2e81e9d9afcaa453ea002ffdff5859c941590294f935bb75fb070400dc6a6b2a
+machine_hash: b142d88e09267f88cab130c2400dad283e21afeae490d3ecb1021c8fb5ec1107
 product: openhands
 product_name: OpenHands
 record:
@@ -41,8 +41,8 @@ record:
   title: 'chore(lint): remove context color spec bookkeeping'
   type: change
 related_changes:
-- '[[Changes/Cline/2026-10-16-auto-compact-and-its-strategy-setting-sit-together-again-in-feature-settings|Auto
-  Compact and its strategy setting sit together again in Feature settings]]'
+- '[[Changes/Ollama/2026-10-18-2-context-window-changes-in-v0-40-7|2 Context Window
+  changes in v0.40.7]]'
 - '[[Changes/Claude Code/2026-10-19-3-context-window-changes-in-v2-1-304|3 Context
   Window changes in v2.1.304]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-19-avoid-false-context-exhaustion-and-rollover-refusal-when-tool-definitions-are-de|Avoid
@@ -82,7 +82,7 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2026-10-19 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-19-avoid-false-context-exhaustion-and-rollover-refusal-when-tool-definitions-are-de|Avoid false context exhaustion and rollover refusal when tool definitions are deferred]]
-- Later: 2026-10-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-20-switching-only-reasoning-effort-no-longer-forces-compaction-in-over-budget-sessi|Switching only reasoning effort no longer forces compaction in over-budget sessions]]
+- Later: 2026-10-19 · v0 · [[Changes/v0/2026-10-19-open-mcps-in-the-chat-composer-choose-slack-and-connect-your-workspace-once-conn|Open + → MCPs in the chat composer, choose Slack , and connect your workspace]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

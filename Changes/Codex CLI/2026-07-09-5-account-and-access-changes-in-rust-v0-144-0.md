@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 754fba51f1449c1938f58515cea9f095ce6400561de213f64a339e5d3d1f9a60
+machine_hash: 77b59cc41be66bcc0f7b6db08963e3ca5e2c6bda34f421e33d4e130ad58560fe
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -51,8 +51,8 @@ record:
   title: 5 Account and Access changes in rust-v0.144.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-07-08-5-account-and-access-changes-in-rust-v0-143-0|5
-  Account and Access changes in rust-v0.143.0]]'
+- '[[Changes/Lovable/2026-07-08-configure-sso-just-in-time-provisioning-from-settings|Configure
+  SSO Just-in-Time provisioning from settings]]'
 - '[[Changes/OpenHands/2026-07-08-feat-track-user-login-timestamps-by-saurya-in-https-github-com-openhands-openhan|feat:
   track user login timestamps]]'
 - '[[Changes/ChatGPT/2026-07-09-we-re-deprecating-atlas-as-we-bring-browser-based-agentic-capabilities-into-chat|Retiring
@@ -110,7 +110,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.144.0
 ## Nearby in Account and Access
 
 - Earlier: 2026-07-09 · ChatGPT · [[Changes/ChatGPT/2026-07-09-we-re-deprecating-atlas-as-we-bring-browser-based-agentic-capabilities-into-chat|Retiring Atlas]]
-- Later: 2026-07-10 · Claude Code · [[Changes/Claude Code/2026-07-10-gateway-login-now-supports-anthropic-operated-public-gateway-endpoints|Gateway: /login now supports Anthropic-operated public gateway endpoints]]
+- Later: 2026-07-09 · Lovable · [[Changes/Lovable/2026-07-09-workspace-invitations-expire-after-30-days|Workspace invitations expire after 30 days]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

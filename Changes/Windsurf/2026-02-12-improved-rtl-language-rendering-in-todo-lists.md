@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 24989dfdf1dbf3ea68e8c8a53c3a5d98d11c1daa41062990014cb9d52cd5b9a8
+machine_hash: d0892ff9aeed83c6f5569462d66787a974e10a825e2eff90a322b0e76a2cc254
 product: windsurf
 product_name: Windsurf
 record:
@@ -42,12 +42,12 @@ record:
   title: Improved RTL language rendering in todo lists
   type: change
 related_changes:
-- '[[Changes/Cline/2026-02-12-2-interface-experience-changes-in-v3-58-0|2 Interface
-  Experience changes in v3.58.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-12-diff-uses-full-screen-in-alt-screen-mode|/diff
   uses full screen in alt-screen mode]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-12-add-mouse-text-selection-in-alt-screen-mode|Add
   mouse text selection in --alt-screen mode]]'
+- '[[Changes/Open WebUI/2026-02-12-8-interface-experience-changes-in-v0-8-0|8 Interface
+  Experience changes in v0.8.0]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-02-12-v1-9552-21-a7b8c5ab|windsurf-2026-02-12-v1-9552-21-a7b8c5ab]]'
 source_type: windsurf_changelog
 theme: interface-experience
@@ -77,7 +77,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-02-12 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-12-add-mouse-text-selection-in-alt-screen-mode|Add mouse text selection in --alt-screen mode]]
+- Earlier: 2026-02-12 · Open WebUI · [[Changes/Open WebUI/2026-02-12-8-interface-experience-changes-in-v0-8-0|8 Interface Experience changes in v0.8.0]]
 - Later: 2026-02-13 · ChatGPT · [[Changes/ChatGPT/2026-02-13-quick-tools-in-the-composer-a-new-quick-tools-menu-in-the-message-composer-makes|Quick tools in the composer]]
 <!-- chronolog:end -->
 

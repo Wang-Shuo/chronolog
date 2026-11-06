@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ba072b393b562eb4518ef3dca721a03c0504ddeff328bd7c24dd188f7c1f61f6
+machine_hash: 190a754a4b7d1e236c9ac17f1ed5b85171977b39e91f2fc3d830b06a2420c246
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,11 +45,11 @@ record:
   title: 2 Agent Mode changes in v2.1.269
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-10-improved-auto-mode-denials-the-message-claude-receives-now-names-the-rule-that-b|Improved
-  auto mode denials]]'
 - '[[Changes/Cursor/2026-09-10-a-project-runs-on-its-own-computer-in-the-cloud-so-closing-your-laptop-doesn-t-s|Powered
   by Cloud Agents]]'
 - '[[Changes/Cursor/2026-09-10-subscriptions|Subscriptions]]'
+- '[[Changes/Dify/2026-09-10-42-agent-mode-changes-in-1-17-1|42 Agent Mode changes
+  in 1.17.1]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-11-v2-1-269-github-387243742-288e9189|claude-code-2026-09-11-v2-1-269-github-387243742-288e9189]]'
 source_type: github_releases
 theme: agent-mode
@@ -92,7 +92,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.269
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-09-10 · Cursor · [[Changes/Cursor/2026-09-10-subscriptions|Subscriptions]]
+- Earlier: 2026-09-10 · Dify · [[Changes/Dify/2026-09-10-42-agent-mode-changes-in-1-17-1|42 Agent Mode changes in 1.17.1]]
 - Later: 2026-09-14 · Claude Code · [[Changes/Claude Code/2026-09-14-7-agent-mode-changes-in-v2-1-271|7 Agent Mode changes in v2.1.271]]
 <!-- chronolog:end -->
 

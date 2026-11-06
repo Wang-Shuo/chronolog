@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1f9e20893c46069203fd5a27ffbeaaf0c858dd760b7c1601666d36a03e9b937b
+machine_hash: 150434ca00a3495766839f47dfffc9ea972d0148ed9dbe88c30f2c474d89314c
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -41,10 +41,10 @@ record:
   title: Added validation for MCP server names…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-10-03-17-apps-and-integrations-changes-in-rust-v0-44-0|17
-  Apps and Integrations changes in rust-v0.44.0]]'
 - '[[Changes/Gemini CLI/2025-10-07-14-apps-and-integrations-changes-in-v0-8-0|14 Apps
   and Integrations changes in v0.8.0]]'
+- '[[Changes/Open WebUI/2025-10-07-3-apps-and-integrations-changes-in-v0-6-33|3 Apps
+  and Integrations changes in v0.6.33]]'
 - '[[Changes/Cline/2025-10-08-move-mcp-marketplace-catalog-from-global-state-to-disk-cache-by-celestial-vault|Move
   MCP marketplace catalog from global state to disk cache]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2025-10-08-v0-0-337-github-253168640-7d65819d|github-copilot-cli-2025-10-08-v0-0-337-github-253168640-7d65819d]]'

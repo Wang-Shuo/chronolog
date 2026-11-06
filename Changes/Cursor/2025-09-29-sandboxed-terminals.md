@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: ea95dbc03765c1a3bf8b372a92be0c4122a494374fffc12cc54d18a7ccc60f67
+machine_hash: 423231422373c68b203652b2d669c04156fec2ba3ba4b86cd0efd0b9be2c6c46
 product: cursor
 product_name: Cursor
 record:
@@ -51,10 +51,9 @@ record:
   title: Sandboxed terminals
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-09-26-2-safety-and-privacy-changes-in-rust-v0-42-0|2 Safety
-  and Privacy changes in rust-v0.42.0]]'
-- '[[Changes/GitHub Copilot CLI/2025-09-26-improved-the-error-message-received-when-using-a-pat-that-is-missing-the-copilot|Improved
-  the error message received when using a PAT that is missing…]]'
+- '[[Changes/Replit/2025-09-26-security-scan-enforcement-for-enterprises|Security
+  scan enforcement for enterprises]]'
+- '[[Changes/Replit/2025-09-26-security-scan-in-deployment|Security scan in deployment]]'
 - '[[Changes/ChatGPT/2025-09-29-we-re-rolling-out-parental-controls-globally-in-chatgpt-to-help-families-guide-h-289d0a|ChatGPT
   rolls out parental controls globally to help families guide how ChatGPT…]]'
 source_release: '[[Releases/Cursor/cursor-2025-09-29-1-7-https-cursor-com-changelog-1-7-0a03c0ae|cursor-2025-09-29-1-7-https-cursor-com-changelog-1-7-0a03c0ae]]'
@@ -106,7 +105,7 @@ type: change
 ## Nearby in Safety and Privacy
 
 - Earlier: 2025-09-29 · ChatGPT · [[Changes/ChatGPT/2025-09-29-we-re-rolling-out-parental-controls-globally-in-chatgpt-to-help-families-guide-h-289d0a|ChatGPT rolls out parental controls globally to help families guide how ChatGPT…]]
-- Later: 2025-10-01 · Gemini CLI · [[Changes/Gemini CLI/2025-10-01-4-safety-and-privacy-changes-in-v0-7-0|4 Safety and Privacy changes in v0.7.0]]
+- Later: 2025-09-29 · Dify · [[Changes/Dify/2025-09-29-3-safety-and-privacy-changes-in-1-9-1|3 Safety and Privacy changes in 1.9.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

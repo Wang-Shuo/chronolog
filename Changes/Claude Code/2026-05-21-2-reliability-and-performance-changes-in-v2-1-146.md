@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5ff4860bf02712e6d79766df74c2ebbebb90aa8d170b4d33fa68ce3221a42c7f
+machine_hash: c904c86672f7a66706dc61e8e9d48432d8d0690625d54f33df9d06a99b0304f3
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,10 +44,10 @@ record:
   title: 2 Reliability and Performance changes in v2.1.146
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-05-12-2-reliability-and-performance-changes-in-v0-42-0|2
-  Reliability and Performance changes in v0.42.0]]'
-- '[[Changes/Cline/2026-05-13-improve-mention-file-search-performance|Improve @-mention
-  file search performance]]'
+- '[[Changes/Lovable/2026-05-18-speed-tab-the-standalone-speed-tab-has-been-removed-speed-and-lighthouse-checks|Speed
+  tab. The standalone Speed tab has been removed]]'
+- '[[Changes/Dify/2026-05-19-knowledge-base-stability-fixed-knowledge-hit-testing-rendering-empty-knowledge-c|Knowledge-base
+  stability — fixed knowledge hit-testing rendering, empty…]]'
 - '[[Changes/Codex CLI/2026-05-20-windows-installs-are-more-robust-codex-doctor-now-detects-npm-managed-installs-c|Windows
   installs are more robust]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-21-v2-1-146-github-326230049-ea612648|claude-code-2026-05-21-v2-1-146-github-326230049-ea612648]]'

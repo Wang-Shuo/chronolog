@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5f2ff93e1fa068388ef542253afa78aeae42ca3b3862e711cb114f3323979f86
+machine_hash: e8f057c0ce039fe4cac728552ef8e185b7c147f9b587f4434e6233534c726a82
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-10-14 · Claude Code · [[Changes/Claude Code/2026-10-14-6-safety-and-privacy-changes-in-v2-1-299|6 Safety and Privacy changes in v2.1.299]]
-- Later: 2026-10-15 · Claude Code · [[Changes/Claude Code/2026-10-15-5-safety-and-privacy-changes-in-v2-1-301|5 Safety and Privacy changes in v2.1.301]]
+- Later: 2026-10-14 · Open WebUI · [[Changes/Open WebUI/2026-10-14-rich-ui-embed-console-errors-rich-ui-tool-embeds-no-longer-log-a-security-error|🧩 Rich UI embed console errors. Rich UI tool embeds no longer log a security…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

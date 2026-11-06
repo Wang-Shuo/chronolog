@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 369abe7d99495b93e7200df8c4438dfe0e6b0967ef9bfebe068d7ddf41287f19
+machine_hash: 7704b7a1a1176f5cad863612d00212491f2deb0a41b64caafb1df2df9e9ed954
 product: aider
 product_name: Aider
 record:
@@ -42,12 +42,12 @@ record:
   title: 2 Editor Experience changes in v0.67.0
   type: change
 related_changes:
-- '[[Changes/Aider/2024-11-04-run-aider-apply-clipboard-edits-file-to-edit-js|Run
-  aider --apply-clipboard-edits file-to-edit.js]]'
-- '[[Changes/Aider/2024-11-21-2-editor-experience-changes-in-v0-64-0|2 Editor Experience
-  changes in v0.64.0]]'
+- '[[Changes/Dify/2024-11-25-feat-add-japanese-translations-for-api-documentation-chat-advanced-chat-completi|feat
+  : Add Japanese translations for API documentation: chat, advanced-chat…]]'
 - '[[Changes/Aider/2024-11-26-editor-returns-and-prefill-the-file-content-into-the-prompt-so-you-can-use-edito|/editor
   returns and prefill the file content into the prompt, so you can use…]]'
+- '[[Changes/Open WebUI/2024-12-01-2-editor-experience-changes-in-v0-4-7|2 Editor
+  Experience changes in v0.4.7]]'
 source_release: '[[Releases/Aider/aider-2024-12-06-v0-67-0-github-189421051-c32a4de1|aider-2024-12-06-v0-67-0-github-189421051-c32a4de1]]'
 source_type: github_releases
 theme: editor-experience
@@ -82,8 +82,8 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.67.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2024-11-26 · Aider · [[Changes/Aider/2024-11-26-editor-returns-and-prefill-the-file-content-into-the-prompt-so-you-can-use-edito|/editor returns and prefill the file content into the prompt, so you can use…]]
-- Later: 2024-12-17 · Cursor · [[Changes/Cursor/2024-12-17-agent-can-reapply-edits-with-a-smarter-apply-model|Agent can reapply edits with a smarter apply model]]
+- Earlier: 2024-12-01 · Open WebUI · [[Changes/Open WebUI/2024-12-01-2-editor-experience-changes-in-v0-4-7|2 Editor Experience changes in v0.4.7]]
+- Later: 2024-12-13 · Replit · [[Changes/Replit/2024-12-13-assistant-features|Assistant Features]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

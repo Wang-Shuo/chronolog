@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 66c9be43546672fe798011a6c70fdc65716f4c6f1cc33f3b52667220e913c8b0
+machine_hash: 8770bdc27b9ec038812104c84efbf8650e620997d0f384cc354a47ef602d1ffc
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -44,8 +44,8 @@ record:
   title: Work together
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-14-2-editor-experience-changes-in-v2-1-299|2 Editor
-  Experience changes in v2.1.299]]'
+- '[[Changes/Open WebUI/2026-10-14-4-editor-experience-changes-in-v0-12-1|4 Editor
+  Experience changes in v0.12.1]]'
 - '[[Changes/Codex CLI/2026-10-15-4-editor-experience-changes-in-rust-v0-163-0|4 Editor
   Experience changes in rust-v0.163.0]]'
 - '[[Changes/ChatGPT/2026-10-16-create-and-refine-edit-text-images-shapes-and-charts-directly-or-ask-chatgpt-to|Create
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-10-15 · Codex CLI · [[Changes/Codex CLI/2026-10-15-4-editor-experience-changes-in-rust-v0-163-0|4 Editor Experience changes in rust-v0.163.0]]
-- Later: 2026-10-19 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-19-keep-saved-diff-review-comments-when-reopening-an-unchanged-diff-in-the-same-ses|Keep saved /diff review comments when reopening an unchanged diff in the same…]]
+- Later: 2026-10-16 · Lovable · [[Changes/Lovable/2026-10-16-larger-document-previews-in-the-files-tab|Larger document previews in the Files tab]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

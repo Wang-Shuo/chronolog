@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 791a9d9de4be9c8613fed8a0c44e48e1c6fb230a3a132f24ae39578214c4c0eb
+machine_hash: 0489402d1a932d1114d2c549026177b145e8aec6d5373e4acc155ba639dd64f6
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,11 +43,11 @@ record:
   title: Added a faster Cargo profiling build profile and disabled empty doctest targets…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-05-07-2-reliability-and-performance-changes-in-rust-v0-129-0|2
-  Reliability and Performance changes in rust-v0.129.0]]'
 - '[[Changes/Cursor/2026-05-07-pin-skills-as-quick-actions|Pin skills as quick actions]]'
 - '[[Changes/Cursor/2026-05-07-build-in-parallel-from-plans|Build in parallel from
   plans]]'
+- '[[Changes/Ollama/2026-05-07-api-show-responses-are-now-cached-improving-median-latency-by-6-7x-which-will-in|/api/show
+  responses are now cached, improving median latency…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-05-08-rust-v0-130-0-github-319777370-eab676f9|codex-cli-2026-05-08-rust-v0-130-0-github-319777370-eab676f9]]'
 source_type: github_releases
 theme: reliability-performance
@@ -83,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-05-07 · Cursor · [[Changes/Cursor/2026-05-07-build-in-parallel-from-plans|Build in parallel from plans]]
+- Earlier: 2026-05-07 · Ollama · [[Changes/Ollama/2026-05-07-api-show-responses-are-now-cached-improving-median-latency-by-6-7x-which-will-in|/api/show responses are now cached, improving median latency…]]
 - Later: 2026-05-08 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-08-faster-user-list-and-user-switch-for-multi-account-users|Faster /user list and /user switch for multi-account users]]
 <!-- chronolog:end -->
 

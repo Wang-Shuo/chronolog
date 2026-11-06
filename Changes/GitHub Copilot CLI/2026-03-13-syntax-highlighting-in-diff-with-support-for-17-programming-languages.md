@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 96cd369607336e88669f2812bbe74df35fd6755941c23f1a2c42f067d265c08f
+machine_hash: fe1b9255e4c155cfd271ffb39ca942ee5b79fa50db411d6538359d3d9afee3ef
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,8 +45,8 @@ record:
   title: Syntax highlighting in /diff with support for 17 programming languages
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-06-to-commemorate-github-copilot-cli-reaching-general-availability-last-week-we-re|To
-  commemorate GitHub Copilot CLI reaching general availability last week, we''re…]]'
+- '[[Changes/v0/2026-03-09-improved-the-custom-design-system-editor-interface|Improved
+  the Custom Design System editor interface]]'
 - '[[Changes/Claude Code/2026-03-10-vscode-added-vscode-anthropic-claude-code-open-uri-handler-to-open-a-new-claude|VSCode:
   Added vscode://anthropic.claude-code/open URI handler to open a new Claude…]]'
 - '[[Changes/Gemini CLI/2026-03-11-document-node-limitation-for-shift-tab-by-scidomino-in-https-github-com-google-g|document

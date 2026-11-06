@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1a82300774bf13c794099744671ab447ed61ea5328b78c44c9e05c0a820771dd
+machine_hash: 74ae21d08c305f6255d20e8f2c358d65d96cecfcb3fbe4b66e70006f478f8bb2
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,12 +42,12 @@ record:
   title: 2 Safety and Privacy changes in rust-v0.47.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-10-03-3-safety-and-privacy-changes-in-rust-v0-44-0|3 Safety
-  and Privacy changes in rust-v0.44.0]]'
-- '[[Changes/Codex CLI/2025-10-06-codex-login-api-key-was-replaced-with-codex-login-with-api-key-that-reads-the-ke|codex
-  login --api-key was replaced with codex login --with-api-key that reads…]]'
 - '[[Changes/Gemini CLI/2025-10-07-3-safety-and-privacy-changes-in-v0-8-0|3 Safety
   and Privacy changes in v0.8.0]]'
+- '[[Changes/Replit/2025-10-10-dependency-vulnerability-scanning|Dependency vulnerability
+  scanning]]'
+- "[[Changes/Open WebUI/2025-10-16-jwt-token-expiration-default-is-now-set-to-4-weeks-instead-of-never-expiring-wit|\U0001F512
+  JWT token expiration default is now set to 4 weeks instead of never expiring…]]"
 source_release: '[[Releases/Codex CLI/codex-cli-2025-10-17-rust-v0-47-0-github-255378266-cdca7c8a|codex-cli-2025-10-17-rust-v0-47-0-github-255378266-cdca7c8a]]'
 source_type: github_releases
 theme: safety-privacy
@@ -85,8 +85,8 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.47.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2025-10-07 · Gemini CLI · [[Changes/Gemini CLI/2025-10-07-3-safety-and-privacy-changes-in-v0-8-0|3 Safety and Privacy changes in v0.8.0]]
-- Later: 2025-10-22 · Gemini CLI · [[Changes/Gemini CLI/2025-10-22-2-safety-and-privacy-changes-in-v0-10-0|2 Safety and Privacy changes in v0.10.0]]
+- Earlier: 2025-10-16 · Open WebUI · [[Changes/Open WebUI/2025-10-16-jwt-token-expiration-default-is-now-set-to-4-weeks-instead-of-never-expiring-wit|🔒 JWT token expiration default is now set to 4 weeks instead of never expiring…]]
+- Later: 2025-10-20 · ElevenLabs · [[Changes/ElevenLabs/2025-10-20-elevencreative-studio|ElevenCreative Studio]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

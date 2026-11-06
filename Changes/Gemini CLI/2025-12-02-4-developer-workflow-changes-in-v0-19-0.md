@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8d7e0142165e3eef3f17a7df4794aebf00a92c1181abb20a6a0dff8d3b86539a
+machine_hash: 99242aa48bd3aba1971381afb8341c7827f7e3c6f588ff3efc667877ad537f17
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -95,7 +95,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.19.0
 ## Nearby in Developer Workflow
 
 - Earlier: 2025-12-02 · Codex CLI · [[Changes/Codex CLI/2025-12-02-4-developer-workflow-changes-in-rust-v0-64-0|4 Developer Workflow changes in rust-v0.64.0]]
-- Later: 2025-12-04 · Cline · [[Changes/Cline/2025-12-04-docs-remove-advanced-patterns-and-testing-debugging-from-hooks-docs-by-jl-codes|docs: remove Advanced Patterns and Testing & Debugging from Hooks docs]]
+- Later: 2025-12-02 · Open WebUI · [[Changes/Open WebUI/2025-12-02-13-developer-workflow-changes-in-v0-6-41|13 Developer Workflow changes in v0.6.41]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

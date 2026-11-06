@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 100235536b0086b4ff22da3568c851545d7f696ea295e20ed642510523aeb2cf
+machine_hash: 0bc1cd1a90f432d50696c30a63168f5cd3527cc1f08e7214ae6bfed8f437c1ec
 product: aider
 product_name: Aider
 record:
@@ -42,12 +42,12 @@ record:
   title: 2 Developer Workflow changes in v0.34.0
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-02-15-linter-you-can-now-turn-on-an-ai-linter-in-the-more-tab-beside-chat-it-ll-scan-y|Linter:
-  You can now turn on an AI linter in the "More" tab beside Chat]]'
-- '[[Changes/Aider/2024-03-04-prevents-bug-where-subsequent-git-commit-of-those-files-will-fail|Prevents
-  bug where subsequent git commit of those files will fail]]'
-- '[[Changes/Aider/2024-03-08-2-developer-workflow-changes-in-v0-26-0|2 Developer
-  Workflow changes in v0.26.0]]'
+- '[[Changes/Dify/2024-03-12-2-developer-workflow-changes-in-0-5-9|2 Developer Workflow
+  changes in 0.5.9]]'
+- '[[Changes/Dify/2024-03-29-some-optimization-for-admin-api-key-create-tenant-and-reset-encrypt-key-pair-com|some
+  optimization for admin api key, create tenant and reset-encrypt-key-pair command]]'
+- '[[Changes/Dify/2024-04-08-chore-replace-outdated-config-in-vscode-debug-settings-by-lng2020-in-https-githu|chore:
+  replace outdated config in vscode debug settings]]'
 source_release: '[[Releases/Aider/aider-2024-05-10-v0-34-0-github-155287564-5b4274fa|aider-2024-05-10-v0-34-0-github-155287564-5b4274fa]]'
 source_type: github_releases
 theme: developer-workflow
@@ -82,8 +82,8 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.34.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2024-03-08 · Aider · [[Changes/Aider/2024-03-08-2-developer-workflow-changes-in-v0-26-0|2 Developer Workflow changes in v0.26.0]]
-- Later: 2024-05-22 · Aider · [[Changes/Aider/2024-05-22-4-developer-workflow-changes-in-v0-36-0|4 Developer Workflow changes in v0.36.0]]
+- Earlier: 2024-04-08 · Dify · [[Changes/Dify/2024-04-08-chore-replace-outdated-config-in-vscode-debug-settings-by-lng2020-in-https-githu|chore: replace outdated config in vscode debug settings]]
+- Later: 2024-05-13 · Dify · [[Changes/Dify/2024-05-13-feat-support-copy-run-text-result-in-debug-panel-in-workflow-by-iamjoel-in-https|feat: support copy run text result in debug panel in workflow]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

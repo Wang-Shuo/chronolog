@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c6ec99ca2e76dd636bca9766ddfb29d8fb36996d63169e779d2d83dcc9f5dbdb
+machine_hash: ed55c371de43a8050c3c95dca36b05a1c69253d0e36f4264d6dccf8ef1783eac
 product: cline
 product_name: Cline
 record:
@@ -43,11 +43,10 @@ record:
   title: 'feat(hooks): Implement `TaskComplete` hook'
   type: change
 related_changes:
-- '[[Changes/Windsurf/2025-11-21-mcp-servers|MCP Servers]]'
-- '[[Changes/GitHub Copilot CLI/2025-11-24-mcp-servers-work-in-prompt-mode|MCP servers
-  work in --prompt mode]]'
-- '[[Changes/Gemini CLI/2025-11-26-feat-zed-integration-use-default-model-routing-for-zed-integration-by-benbrandt|feat(zed-integration):
-  Use default model routing for Zed integration]]'
+- '[[Changes/Lovable/2025-11-26-shopify-integration-improvements|Shopify integration
+  improvements]]'
+- '[[Changes/Lovable/2025-11-26-mcp-servers|MCP servers]]'
+- '[[Changes/Lovable/2025-11-26-integrations-hub|Integrations hub]]'
 source_release: '[[Releases/Cline/cline-2025-11-27-v3-38-3-github-265611552-4d743450|cline-2025-11-27-v3-38-3-github-265611552-4d743450]]'
 source_type: github_releases
 theme: apps-integrations
@@ -83,8 +82,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-11-26 · Gemini CLI · [[Changes/Gemini CLI/2025-11-26-feat-zed-integration-use-default-model-routing-for-zed-integration-by-benbrandt|feat(zed-integration): Use default model routing for Zed integration]]
-- Later: 2025-12-02 · Cline · [[Changes/Cline/2025-12-02-feat-cerebras-add-x-cerebras-3rd-party-integration-header-by-sebastiand-cerebras|feat(cerebras): add X-Cerebras-3rd-Party-Integration header]]
+- Earlier: 2025-11-26 · Lovable · [[Changes/Lovable/2025-11-26-integrations-hub|Integrations hub]]
+- Later: 2025-11-27 · ElevenLabs · [[Changes/ElevenLabs/2025-11-27-workspaces-88d227|Workspaces]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

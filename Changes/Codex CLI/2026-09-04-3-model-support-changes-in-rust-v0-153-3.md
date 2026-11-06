@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0aa5e91f244f7b31b22dd4e8e36d9e8bc54c34d2227fdaeb2a09f7e91d4775e5
+machine_hash: 1b3c96f2e372088f7dc43bd6f4a653e2b8ab6151c044fd0de61d109c125ad12f
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -47,10 +47,10 @@ record:
   title: 3 Model Support changes in rust-v0.153.3
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-03-2-model-support-changes-in-rust-v0-153-1|2 Model
-  Support changes in rust-v0.153.1]]'
 - '[[Changes/Codex CLI/2026-09-03-2-model-support-changes-in-rust-v0-153-2|2 Model
   Support changes in rust-v0.153.2]]'
+- '[[Changes/Lovable/2026-09-03-gemini-omni-1-1-flash-for-your-app-s-ai-features|Gemini
+  Omni 1.1 Flash for your app''s AI features]]'
 - '[[Changes/Claude Code/2026-09-04-improved-the-model-picker-and-the-vs-code-model-pill-to-show-a-model-s-name-inst|Improved
   the /model picker and the VS Code model pill to show a model''s name…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-09-04-rust-v0-153-3-github-382954374-276a8c00|codex-cli-2026-09-04-rust-v0-153-3-github-382954374-276a8c00]]'

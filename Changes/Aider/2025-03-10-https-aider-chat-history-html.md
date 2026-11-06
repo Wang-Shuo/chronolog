@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 47cdd6f60b11e18b158c3c4dc299444563d80d9aaf130b5fc390a3c2d72301a9
+machine_hash: 99b96182c867df304d5967c6764f87cbdc1e73be832609f926fda8ba093708c9
 product: aider
 product_name: Aider
 record:
@@ -41,12 +41,12 @@ record:
   title: https://aider.chat/HISTORY.html
   type: change
 related_changes:
-- '[[Changes/Cline/2025-02-09-adds-keyboard-shortcut-cmd-shift-a-to-easily-switch-between-plan-act-mode|Adds
-  keyboard shortcut (CMD + Shift + A) to easily switch between Plan/Act mode]]'
 - '[[Changes/Cursor/2025-02-19-2-interface-experience-changes-in-0-46-x|2 Interface
   Experience changes in 0.46.x]]'
 - '[[Changes/OpenHands/2025-02-19-2-interface-experience-changes-in-0-25-0|2 Interface
   Experience changes in 0.25.0]]'
+- "[[Changes/Open WebUI/2025-02-20-translation-updates-various-international-translation-refinements-ensure-better|\U0001F30D
+  Translation Updates]]"
 source_release: '[[Releases/Aider/aider-2025-03-10-v0-76-0-github-204781393-e828f532|aider-2025-03-10-v0-76-0-github-204781393-e828f532]]'
 source_type: github_releases
 theme: interface-experience
@@ -78,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2025-02-19 · OpenHands · [[Changes/OpenHands/2025-02-19-2-interface-experience-changes-in-0-25-0|2 Interface Experience changes in 0.25.0]]
+- Earlier: 2025-02-20 · Open WebUI · [[Changes/Open WebUI/2025-02-20-translation-updates-various-international-translation-refinements-ensure-better|🌍 Translation Updates]]
 - Later: 2025-03-11 · Cursor · [[Changes/Cursor/2025-03-11-keyboard-shortcuts-all-keyboard-shortcuts-are-now-available-in-the-keyboard-shor|Keyboard Shortcuts: All keyboard shortcuts are now available in the Keyboard…]]
 <!-- chronolog:end -->
 

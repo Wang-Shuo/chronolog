@@ -4,20 +4,20 @@ date: '2026-08-21'
 description: 'Cline · 2026-08-21 · Image Generation: Let models that support it generate
   images during a task. Generated images render inline in the conversation.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2024-08-08-we-re-rolling-out-the-ability-for-chatgpt-free-users-to-create-up-to-two-images-2c505c|DALL·E
-    3 for ChatGPT Free users]]'
+  first_in_tracked: "[[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|\U0001F3A8
+    DALL-E Integration]]"
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 743
+  lag_days: 894
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 9e3d78d192884b62ffdf48bd1660b232115c642d35e01e10f75dfddeb668b804
+machine_hash: 452e7e5215657b624f2eb98464fddb6b9c65a65a0ee3527abdbad5c1b311a3b6
 product: cline
 product_name: Cline
 record:
@@ -54,8 +54,8 @@ record:
   title: Let models that support it generate images during a task
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-07-31-on-august-30-2026-we-re-retiring-the-official-dall-e-gpt-in-chatgpt-we-encourage|Retiring
-  the DALL·E GPT]]'
+- '[[Changes/Ollama/2026-08-04-experimental-image-generation-has-been-temporarily-removed-continue-using-0-32-5|Experimental
+  image generation has been temporarily removed]]'
 - '[[Changes/Codex CLI/2026-08-18-38024-expose-image-generation-usage-limit-failures-copyberry|♯38024
   Expose image generation usage-limit failures @copyberry]]'
 - '[[Changes/Codex CLI/2026-08-20-39072-persist-generated-images-through-turn-executors-copyberry|♯39072
@@ -95,13 +95,13 @@ type: change
 ## Nearby in Image Generation
 
 - Earlier: 2026-08-20 · Codex CLI · [[Changes/Codex CLI/2026-08-20-39072-persist-generated-images-through-turn-executors-copyberry|♯39072 Persist generated images through turn executors @copyberry]]
-- Later: 2026-08-26 · Codex CLI · [[Changes/Codex CLI/2026-08-26-40544-include-transparent-background-in-image-generation-analytics-copyberry|♯40544 Include transparent background in image generation analytics @copyberry]]
+- Later: 2026-08-25 · Open WebUI · [[Changes/Open WebUI/2026-08-25-image-generation-and-web-search-staying-switched-off-turning-either-off-now-take|🎨 Image generation and web search staying switched off. Turning either off now…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-08-08 · ChatGPT · [[Changes/ChatGPT/2024-08-08-we-re-rolling-out-the-ability-for-chatgpt-free-users-to-create-up-to-two-images-2c505c|DALL·E 3 for ChatGPT Free users]]
+- Earliest same-theme entry in the tracked set: 2024-03-10 · Open WebUI · [[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|🎨 DALL-E Integration]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

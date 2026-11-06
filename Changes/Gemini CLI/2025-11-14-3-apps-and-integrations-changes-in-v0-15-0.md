@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ec7ced8ad541157c20cc0b2e243ec4df6e7377f99bd369eb0a9d59c8717bb920
+machine_hash: 17cefca5d1971a47f00ffc35b9244f5024668fb7115bf608dc3f7e18027c185b
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -45,8 +45,8 @@ record:
   title: 3 Apps and Integrations changes in v0.15.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-11-13-6425-fix-sdk-documentation-replace-file-diffs-with-file-change-notifications-8b8|♯6425
-  — Fix SDK documentation]]'
+- '[[Changes/Dify/2025-11-13-7-apps-and-integrations-changes-in-1-10-0|7 Apps and
+  Integrations changes in 1.10.0]]'
 - '[[Changes/Windsurf/2025-11-13-cascade-hooks|Cascade Hooks]]'
 - '[[Changes/Windsurf/2025-11-13-mcp-improvements|MCP Improvements]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-11-14-v0-15-0-github-262282457-4632a193|gemini-cli-2025-11-14-v0-15-0-github-262282457-4632a193]]'
@@ -88,7 +88,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.15.0
 ## Nearby in Apps and Integrations
 
 - Earlier: 2025-11-13 · Windsurf · [[Changes/Windsurf/2025-11-13-mcp-improvements|MCP Improvements]]
-- Later: 2025-11-18 · Cline · [[Changes/Cline/2025-11-18-feat-upgrade-sap-ai-sdk-js-packages-major-version-by-yuvalman-in-https-github-co|feat: upgrade sap ai-sdk-js packages major version]]
+- Later: 2025-11-16 · Replit · [[Changes/Replit/2025-11-16-azure-marketplace-integration|Azure Marketplace integration]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

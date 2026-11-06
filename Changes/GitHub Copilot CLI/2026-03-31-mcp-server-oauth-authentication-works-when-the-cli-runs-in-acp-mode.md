@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ae9ecf747e054a63f0a6ec0900042144dd9e61b2859af99769cacf4ff0f6a0ac
+machine_hash: cff9d9606605d10c318b7b4f413796c48bee4568f33f4d4d07c71e90261eec62
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -51,8 +51,8 @@ record:
   title: MCP server OAuth authentication works when the CLI runs in ACP mode
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-26-4-account-and-access-changes-in-rust-v0-117-0|4
-  Account and Access changes in rust-v0.117.0]]'
+- '[[Changes/Dify/2026-03-27-2-account-and-access-changes-in-1-13-3|2 Account and
+  Access changes in 1.13.3]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-30-mcp-server-oauth-authentication-works-when-the-cli-runs-in-acp-mode|MCP
   server OAuth authentication works when the CLI runs in ACP mode]]'
 - '[[Changes/Codex CLI/2026-03-31-4-account-and-access-changes-in-rust-v0-118-0|4

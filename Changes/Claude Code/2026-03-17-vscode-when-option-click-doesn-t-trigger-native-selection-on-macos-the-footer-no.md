@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3181cc4f2354cb8976eff112ef5e981f03bf72a4b7357c301d6c9d7324f7ea2d
+machine_hash: 83b036d3f7f3b341fc068cdfebcc0eb4a5e6d7395e3f5b5411f80b7de551b836
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,10 +44,9 @@ record:
     footer now…'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-13-2-mobile-and-desktop-changes-in-v1-0-5|2
-  Mobile and Desktop changes in v1.0.5]]'
 - '[[Changes/Codex CLI/2026-03-16-2-mobile-and-desktop-changes-in-rust-v0-115-0|2
   Mobile and Desktop changes in rust-v0.115.0]]'
+- '[[Changes/ElevenLabs/2026-03-16-ios-sdk|iOS SDK]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-16-3-mobile-and-desktop-changes-in-v1-0-6|3
   Mobile and Desktop changes in v1.0.6]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-17-v2-1-77-github-297726061-caf6c30c|claude-code-2026-03-17-v2-1-77-github-297726061-caf6c30c]]'

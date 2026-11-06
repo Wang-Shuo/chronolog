@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: e54110f66fefe86f6c089153895de87362e032e24ee5755ef70da5f2f30945b3
+machine_hash: 504a7d500e50875a0a0cbb3793a7d133468c8f0bed634e3c444fcc0dc3270292
 product: cursor
 product_name: Cursor
 record:
@@ -43,10 +43,8 @@ record:
   title: Improved reliability for longer-running agent sessions
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-02-you-can-now-fork-a-thread-into-sub-agents-making-it-easier-to-branch-work-withou|Fork
-  a thread into sub-agents, making it easier to branch work without leaving…]]'
-- '[[Changes/Codex CLI/2026-03-02-2-agent-mode-changes-in-rust-v0-107-0|2 Agent Mode
-  changes in rust-v0.107.0]]'
+- '[[Changes/ElevenLabs/2026-03-02-new-schemas|New Schemas]]'
+- '[[Changes/ElevenLabs/2026-03-02-elevenagents-bb56b9|ElevenAgents]]'
 - '[[Changes/Cline/2026-03-03-add-user-agent-header-to-requests-sent-to-the-cline-backend|Add
   User-Agent header to requests sent to the Cline backend]]'
 source_release: '[[Releases/Cursor/cursor-2026-03-03-2-6-https-cursor-com-changelog-2-6-0fa7f1a3|cursor-2026-03-03-2-6-https-cursor-com-changelog-2-6-0fa7f1a3]]'

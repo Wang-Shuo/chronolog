@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: fea4fc71aadd06632b55d2a303ae9cb3ae470c227d4b90e3c11ff3f7e06fc9da
+machine_hash: 0a592419a8da5bd9f1757aab78f54f9672eb638bd5b575040dc166f1a0282006
 product: claude-code
 product_name: Claude Code
 record:
@@ -50,8 +50,8 @@ record:
   title: 3 Apps and Integrations changes in v2.1.225
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-08-05-chore-bump-openhands-extensions-to-0-16-0-by-hieptl-in-https-github-com-openhand|chore:
-  bump @openhands/extensions to 0.16.0]]'
+- '[[Changes/Claude/2026-08-06-skill-and-plugin-security-scanning-beta|Skill and plugin
+  security scanning (beta)]]'
 - '[[Changes/Claude Code/2026-08-07-3-apps-and-integrations-changes-in-v2-1-224|3
   Apps and Integrations changes in v2.1.224]]'
 - '[[Changes/Codex CLI/2026-08-07-65-apps-and-integrations-changes-in-rust-v0-147-0|65

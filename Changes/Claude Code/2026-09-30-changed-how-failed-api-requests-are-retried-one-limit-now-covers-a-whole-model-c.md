@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 0bb0b24661c8798c8c37be3aa9301bdd8442cee00ad0a3f3be96eebc67873bed
+machine_hash: d9845a577bd5fa6edd3a5ee43a1542f58a7d9baea6c53e8071fd5e2f9234954b
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,12 +46,12 @@ record:
   title: Changed how failed API requests are retried
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-29-3-model-support-changes-in-rust-v0-159-0|3 Model
-  Support changes in rust-v0.159.0]]'
-- '[[Changes/Codex CLI/2026-09-29-2-model-support-changes-in-rust-v0-159-1|2 Model
-  Support changes in rust-v0.159.1]]'
-- '[[Changes/Gemini CLI/2026-09-29-feat-gemini-3-8-flash-3-5-flash-lite-by-davidapierce-in-https-github-com-google|Feat/gemini
-  3.8 flash 3.5 flash lite]]'
+- '[[Changes/Ollama/2026-09-29-3-model-support-changes-in-v0-35-1|3 Model Support
+  changes in v0.35.1]]'
+- '[[Changes/v0/2026-09-29-what-counts-towards-chatgpt-usage|What counts towards ChatGPT
+  usage?]]'
+- '[[Changes/v0/2026-09-29-supported-models-currently-include-gpt-6-astra-gpt-5-6-sol-and-gpt-5-6-luna-use|Supported
+  models currently include GPT-6 Astra, GPT-5.6 Sol, and GPT-5.6 Luna]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-30-v2-1-286-github-400266224-9fb31eb7|claude-code-2026-09-30-v2-1-286-github-400266224-9fb31eb7]]'
 source_type: github_releases
 theme: model-support
@@ -87,7 +87,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-09-29 · Gemini CLI · [[Changes/Gemini CLI/2026-09-29-feat-gemini-3-8-flash-3-5-flash-lite-by-davidapierce-in-https-github-com-google|Feat/gemini 3.8 flash 3.5 flash lite]]
+- Earlier: 2026-09-29 · v0 · [[Changes/v0/2026-09-29-supported-models-currently-include-gpt-6-astra-gpt-5-6-sol-and-gpt-5-6-luna-use|Supported models currently include GPT-6 Astra, GPT-5.6 Sol, and GPT-5.6 Luna]]
 - Later: 2026-09-30 · Cline · [[Changes/Cline/2026-09-30-6-model-support-changes-in-v4-1-22|6 Model Support changes in v4.1.22]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: be37763bac51f5ec36bad05740889efec64caad53d49c056f2cbde3625121987
+machine_hash: 50c6aa6fe8c0f140dafbb6aefef743e829326c8ce6e09ecb557b74e0f2286b2b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -60,10 +60,10 @@ record:
   title: Browsing is now out of beta
   type: change
 related_changes:
-- '[[Changes/Aider/2023-09-30-show-models-supported-by-api-key-if-requested-model-isn-t-available|Show
-  models supported by api/key if requested model isn''t available]]'
-- '[[Changes/Cursor/2023-10-01-use-edit-in-the-chat-to-edit-a-whole-file-if-less-than-400-lines-expect-the-edit-78e4ac|Use
-  /edit in the chat to edit a whole file (if less than 400 lines)]]'
+- '[[Changes/Ollama/2023-10-12-3-model-support-changes-in-v0-1-2|3 Model Support changes
+  in v0.1.2]]'
+- '[[Changes/Dify/2023-10-14-feat-switch-to-generation-model-set-default-stop-word-by-iamjoel-in-https-github|feat:
+  switch to generation model set default stop word]]'
 - '[[Changes/ChatGPT/2023-10-16-we-ve-integrated-dall-e-3-with-chatgpt-allowing-it-to-respond-to-your-requests-w-ad3caf|DALL·E
   3 is now rolling out in beta]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2023-10-17-browsing-is-now-out-of-beta-6432b7b5|chatgpt-2023-10-17-browsing-is-now-out-of-beta-6432b7b5]]'

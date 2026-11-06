@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 3d39ab90a6b9afd264deb5d1a0ad908f357a5c2b2d3fce3223a42bdad7291d3f
+machine_hash: f1f0205f82ed679e94fec208696e20d9e645cc0a4fe6a44ceb0d6233cbcc7d67
 product: cursor
 product_name: Cursor
 record:
@@ -50,10 +50,10 @@ record:
     gpt-3 turbo…'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2023-10-17-browsing-which-we-re-launched-a-few-weeks-ago-is-moving-out-of-beta-plus-and-ent|Browsing
-  is now out of beta]]'
-- '[[Changes/Aider/2023-10-18-show-models-supported-by-api-key-if-requested-model-isn-t-available|Show
-  models supported by api/key if requested model isn''t available]]'
+- '[[Changes/Ollama/2023-11-04-3-model-support-changes-in-v0-1-8|3 Model Support changes
+  in v0.1.8]]'
+- '[[Changes/Dify/2023-11-06-3-model-support-changes-in-0-3-29|3 Model Support changes
+  in 0.3.29]]'
 - '[[Changes/Aider/2023-11-07-2-model-support-changes-in-v0-17-0|2 Model Support changes
   in v0.17.0]]'
 source_release: '[[Releases/Cursor/cursor-2023-11-10-0-15-0-0-15-1-https-cursor-com-changelog-0-15-0-0-15-1-9dc9cadb|cursor-2023-11-10-0-15-0-0-15-1-https-cursor-com-changelog-0-15-0-0-15-1-9dc9cadb]]'
@@ -88,7 +88,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2023-11-07 · Aider · [[Changes/Aider/2023-11-07-2-model-support-changes-in-v0-17-0|2 Model Support changes in v0.17.0]]
-- Later: 2023-11-17 · Aider · [[Changes/Aider/2023-11-17-3-model-support-changes-in-v0-18-0|3 Model Support changes in v0.18.0]]
+- Later: 2023-11-10 · Ollama · [[Changes/Ollama/2023-11-10-3-model-support-changes-in-v0-1-9|3 Model Support changes in v0.1.9]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

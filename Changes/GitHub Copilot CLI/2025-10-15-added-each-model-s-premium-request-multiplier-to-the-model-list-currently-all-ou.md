@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: e48abf05cc060f2c9277b84dbd65d05d230e45397509229a9eab50e4039b58c5
+machine_hash: 0210396c5d4fa230ce1ea31e8c2fdddcf89626ca5697974fe0490f8ea94cd50e
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,10 +45,8 @@ record:
   title: Added each model's premium request multiplier to the `/model` list…
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-10-08-revert-get-around-the-initial-empty-response-from-gemini-2-5-flash-by-sandytao52|Revert
-  "Get around the initial empty response from gemini-2.5-flash]]'
-- '[[Changes/GitHub Copilot CLI/2025-10-10-improved-the-error-handling-in-the-model-picker-when-no-models-are-available-fix|Improved
-  the error handling in the /model picker when no models are available…]]'
+- '[[Changes/Claude/2025-10-15-claude-in-chrome-updates|Claude in Chrome updates]]'
+- '[[Changes/Claude/2025-10-15-claude-haiku-4-5-launch|Claude Haiku 4.5 launch]]'
 - '[[Changes/Gemini CLI/2025-10-15-3-model-support-changes-in-v0-9-0|3 Model Support
   changes in v0.9.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2025-10-15-v0-0-341-github-254556067-87cb2ceb|github-copilot-cli-2025-10-15-v0-0-341-github-254556067-87cb2ceb]]'
@@ -81,7 +79,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2025-10-15 · Gemini CLI · [[Changes/Gemini CLI/2025-10-15-3-model-support-changes-in-v0-9-0|3 Model Support changes in v0.9.0]]
-- Later: 2025-10-16 · Cline · [[Changes/Cline/2025-10-16-3-model-support-changes-in-v3-33-0|3 Model Support changes in v3.33.0]]
+- Later: 2025-10-15 · Ollama · [[Changes/Ollama/2025-10-15-2-model-support-changes-in-v0-12-6|2 Model Support changes in v0.12.6]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

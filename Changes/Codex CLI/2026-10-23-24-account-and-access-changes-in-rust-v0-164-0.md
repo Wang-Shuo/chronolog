@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 117679067f5710d591a8404128b875241ae5f5e2b914adb13f9aa30127e90ef3
+machine_hash: dd2ed5f0911c2746a3d38139e83f131a485fe95ce7856460366420b8f0790b34
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -194,7 +194,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.164.0
 ## Nearby in Account and Access
 
 - Earlier: 2026-10-21 · Claude Code · [[Changes/Claude Code/2026-10-21-2-account-and-access-changes-in-v2-1-307|2 Account and Access changes in v2.1.307]]
-- Later: 2026-10-24 · Windsurf · [[Changes/Windsurf/2026-10-24-a-saved-sign-in-keeps-working-after-updating-on-machines-where-the-editor-s-own|A saved sign-in keeps working after updating on machines where the editor's own…]]
+- Later: 2026-10-23 · Dify · [[Changes/Dify/2026-10-23-6-account-and-access-changes-in-1-18-0|6 Account and Access changes in 1.18.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

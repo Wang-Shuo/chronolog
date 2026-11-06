@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5cbed76a88e6b978ef9f16f14fee7323540b7bdb09ba57ca0dda1fd6bfabe198
+machine_hash: 3d602d080fed6767f45f605314f2f264d0dbb3273c9fe5c50ceffbea4cd1637b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -61,10 +61,10 @@ record:
   title: Large pastes are now handled as attachments for more plans
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-13-honor-max-output-tokens-for-byok-responses-providers|Honor
-  max_output_tokens for BYOK Responses providers]]'
 - '[[Changes/Codex CLI/2026-06-15-7-context-window-changes-in-rust-v0-140-0|7 Context
   Window changes in rust-v0.140.0]]'
+- '[[Changes/Ollama/2026-06-15-ollama-will-now-return-an-error-if-a-single-message-is-larger-than-the-current-c|Ollama
+  will now return an error if a single message is larger than the current…]]'
 - '[[Changes/Codex CLI/2026-06-18-2-context-window-changes-in-rust-v0-141-0|2 Context
   Window changes in rust-v0.141.0]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-06-22-large-pastes-are-now-handled-as-attachments-for-more-plans-64db97b0|chatgpt-2026-06-22-large-pastes-are-now-handled-as-attachments-for-more-plans-64db97b0]]'

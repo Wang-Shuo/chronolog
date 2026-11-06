@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a897f5961d1de9634adef134ae693cd248406525f13cad4b2cf7f74a89b4b916
+machine_hash: 70a662997d37a4dc298e02271644d7dfb6d2db90312b8b2c42b92e5d9a7672e3
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,8 +46,8 @@ record:
     over Remote…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-10-7-apps-and-integrations-changes-in-v2-1-268|7
-  Apps and Integrations changes in v2.1.268]]'
+- '[[Changes/Lovable/2026-09-10-connect-your-app-to-cloudflare-api|Connect your app
+  to Cloudflare API]]'
 - '[[Changes/ChatGPT/2026-09-11-we-re-planning-to-retire-custom-gpts-across-chatgpt-plans-and-provide-a-migratio|Planned
   custom GPT retirement and migration to plugins]]'
 - '[[Changes/Claude Code/2026-09-11-5-apps-and-integrations-changes-in-v2-1-269|5
@@ -91,7 +91,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-09-11 · ChatGPT · [[Changes/ChatGPT/2026-09-11-we-re-planning-to-retire-custom-gpts-across-chatgpt-plans-and-provide-a-migratio|Planned custom GPT retirement and migration to plugins]]
-- Later: 2026-09-14 · ChatGPT · [[Changes/ChatGPT/2026-09-14-for-new-health-plugin-connections-chatgpt-will-now-default-to-each-user-s-global|For new Health plugin connections, ChatGPT will now default to each user’s global…]]
+- Later: 2026-09-11 · Lovable · [[Changes/Lovable/2026-09-11-get-a-warning-when-another-lovable-project-already-uses-your-supabase-project|Get a warning when another Lovable project already uses your Supabase project]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

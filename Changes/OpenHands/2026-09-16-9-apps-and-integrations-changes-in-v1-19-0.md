@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d9352355c1182cb78f3b63789080524da37513d6317c8dfe74b420e1daac9132
+machine_hash: 90f7ce174aa32a6ba85c66e48f0a7d4b9a1aa254e7ba39cb35f89448805a0e0b
 product: openhands
 product_name: OpenHands
 record:
@@ -58,10 +58,10 @@ record:
   title: 9 Apps and Integrations changes in v1.19.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-15-3-apps-and-integrations-changes-in-v2-1-273|3
-  Apps and Integrations changes in v2.1.273]]'
-- '[[Changes/Gemini CLI/2026-09-15-feat-extensions-harden-path-resolution-and-boundary-validation-in-extension-load|feat(extensions):
-  harden path resolution and boundary validation in extension loader]]'
+- '[[Changes/Lovable/2026-09-15-connect-your-app-to-power-bi|Connect your app to Power
+  BI]]'
+- '[[Changes/Claude/2026-09-16-claude-cowork-comes-to-every-conversation|Claude Cowork
+  comes to every conversation]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-16-20-apps-and-integrations-changes-in-v1-0-85|20
   Apps and Integrations changes in v1.0.85]]'
 source_release: '[[Releases/OpenHands/openhands-2026-09-16-v1-19-0-github-390206611-a05af427|openhands-2026-09-16-v1-19-0-github-390206611-a05af427]]'

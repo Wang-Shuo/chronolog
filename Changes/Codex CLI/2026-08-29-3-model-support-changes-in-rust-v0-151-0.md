@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 66cc51f8a53c26c0989d239cc88213fad185a1c4906fd56bd158e44010be2e25
+machine_hash: b755c645d5e8cc3447ffc504c97c27a4687f7645adee7b352d81b793348d69e5
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -46,12 +46,11 @@ record:
   title: 3 Model Support changes in rust-v0.151.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-08-27-4-model-support-changes-in-v1-0-81|4 Model
-  Support changes in v1.0.81]]'
-- '[[Changes/OpenHands/2026-08-27-2-model-support-changes-in-v1-16-0|2 Model Support
-  changes in v1.16.0]]'
-- '[[Changes/Claude Code/2026-08-28-5-model-support-changes-in-v2-1-251|5 Model Support
-  changes in v2.1.251]]'
+- '[[Changes/Replit/2026-08-28-intelligent-model-routing|Intelligent model routing]]'
+- '[[Changes/Replit/2026-08-28-intelligent-model-routing-for-enterprise|Intelligent
+  model routing for Enterprise]]'
+- '[[Changes/v0/2026-08-28-gpt-5-6-sol-and-a-faster-sol-fast-tier-are-available-in-the-model-picker-routed|GPT-5.6
+  Sol and a faster Sol Fast tier are available in the model picker, routed…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-08-29-rust-v0-151-0-github-378941035-5571827d|codex-cli-2026-08-29-rust-v0-151-0-github-378941035-5571827d]]'
 source_type: github_releases
 theme: model-support
@@ -89,7 +88,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.151.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-08-28 · Claude Code · [[Changes/Claude Code/2026-08-28-5-model-support-changes-in-v2-1-251|5 Model Support changes in v2.1.251]]
+- Earlier: 2026-08-28 · v0 · [[Changes/v0/2026-08-28-gpt-5-6-sol-and-a-faster-sol-fast-tier-are-available-in-the-model-picker-routed|GPT-5.6 Sol and a faster Sol Fast tier are available in the model picker, routed…]]
 - Later: 2026-08-31 · ChatGPT · [[Changes/ChatGPT/2026-08-31-site-tools-use-webmcp-and-require-a-supported-account-model-and-webpage-they-are|Site tools use WebMCP and require a supported account, model, and webpage]]
 <!-- chronolog:end -->
 

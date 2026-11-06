@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: efb4fba2993496852407b42a7949c24e8fe81e21e93a73558e34311ea6eee34f
+machine_hash: e264dd342a275d9ab5eec9e8edd9e35fcef5a875cbc6b020ee38c30a9721853f
 product: claude-code
 product_name: Claude Code
 record:
@@ -41,12 +41,12 @@ record:
   title: Improved the Remote Control spawn mode selection prompt with better context
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-05-session-usage-metrics-requests-tokens-code-changes-are-now-persisted-to-events-j|Session
-  usage metrics (requests, tokens, code changes) are now persisted…]]'
-- '[[Changes/GitHub Copilot CLI/2026-03-06-improve-explore-agent-precision-and-large-repository-support-with-better-context|Improve
-  explore agent precision and large repository support with better context sharing]]'
+- '[[Changes/Open WebUI/2026-03-08-2-context-window-changes-in-v0-8-9|2 Context Window
+  changes in v0.8.9]]'
 - '[[Changes/Codex CLI/2026-03-10-4-context-window-changes-in-rust-v0-113-0|4 Context
   Window changes in rust-v0.113.0]]'
+- '[[Changes/Claude/2026-03-11-work-across-excel-and-powerpoint|Work across Excel
+  and PowerPoint]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-11-v2-1-73-github-295814700-0abb054f|claude-code-2026-03-11-v2-1-73-github-295814700-0abb054f]]'
 source_type: github_releases
 theme: context-window
@@ -81,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-03-10 · Codex CLI · [[Changes/Codex CLI/2026-03-10-4-context-window-changes-in-rust-v0-113-0|4 Context Window changes in rust-v0.113.0]]
+- Earlier: 2026-03-11 · Claude · [[Changes/Claude/2026-03-11-work-across-excel-and-powerpoint|Work across Excel and PowerPoint]]
 - Later: 2026-03-11 · Codex CLI · [[Changes/Codex CLI/2026-03-11-2-context-window-changes-in-rust-v0-114-0|2 Context Window changes in rust-v0.114.0]]
 <!-- chronolog:end -->
 

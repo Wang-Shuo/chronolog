@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a8303d54caef3e8d3d1744a0c166cdc5d59c35d4ada69d6c3f515aa2980b3122
+machine_hash: dcec138723e1faf834bb5f43ce9cf1d5971116a98fb6d6e2f085166187fafa4e
 product: windsurf
 product_name: Windsurf
 record:
@@ -39,12 +39,12 @@ record:
   title: Windsurf is now [Devin Desktop](https://devin.ai/blog/windsurf-is-now-devin-desktop)
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-05-27-auto-detect-pnpm-global-installation-path-for-macos-and-windows-by-tisonkun-in-h|Auto
-  detect pnpm global installation path for macOS and Windows]]'
 - '[[Changes/Codex CLI/2026-05-28-5-mobile-and-desktop-changes-in-rust-v0-135-0|5
   Mobile and Desktop changes in rust-v0.135.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-28-clipboard-correctly-copies-cjk-and-supplementary-plane-unicode-characters-on-win|Clipboard
   correctly copies CJK and supplementary-plane Unicode characters on Windows]]'
+- "[[Changes/Open WebUI/2026-06-01-startup-on-non-unicode-consoles-open-webui-no-longer-crashes-at-startup-when-the|\U0001F97E
+  Startup on non-Unicode consoles. Open WebUI no longer crashes at startup…]]"
 source_release: '[[Releases/Windsurf/windsurf-2026-06-02-v3-0-12-0c521421|windsurf-2026-06-02-v3-0-12-0c521421]]'
 source_type: windsurf_changelog
 theme: mobile-desktop
@@ -71,8 +71,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-05-28 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-28-clipboard-correctly-copies-cjk-and-supplementary-plane-unicode-characters-on-win|Clipboard correctly copies CJK and supplementary-plane Unicode characters on Windows]]
-- Later: 2026-06-04 · Codex CLI · [[Changes/Codex CLI/2026-06-04-2-mobile-and-desktop-changes-in-rust-v0-137-0|2 Mobile and Desktop changes in rust-v0.137.0]]
+- Earlier: 2026-06-01 · Open WebUI · [[Changes/Open WebUI/2026-06-01-startup-on-non-unicode-consoles-open-webui-no-longer-crashes-at-startup-when-the|🥾 Startup on non-Unicode consoles. Open WebUI no longer crashes at startup…]]
+- Later: 2026-06-03 · Ollama · [[Changes/Ollama/2026-06-03-added-hermes-desktop-configuration-docs|Added Hermes Desktop configuration docs]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

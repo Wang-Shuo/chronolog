@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 5a98118261a0aab1e629b2448832247ee625469a95d46854a171e5e5fc97a0de
+machine_hash: 3a112c1407db1dce3c903bb7879b060d124523a2bf66ae0bb5185101430a6539
 product: cline
 product_name: Cline
 record:
@@ -79,7 +79,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2024-08-28 · Aider · [[Changes/Aider/2024-08-28-2-developer-workflow-changes-in-v0-54-0|2 Developer Workflow changes in v0.54.0]]
-- Later: 2024-09-04 · Aider · [[Changes/Aider/2024-09-04-6-developer-workflow-changes-in-v0-55-0|6 Developer Workflow changes in v0.55.0]]
+- Later: 2024-09-03 · Dify · [[Changes/Dify/2024-09-03-3-developer-workflow-changes-in-0-7-3|3 Developer Workflow changes in 0.7.3]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

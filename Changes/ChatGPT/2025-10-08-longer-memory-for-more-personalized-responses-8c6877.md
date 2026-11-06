@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d8367f48ff2554c1fb65010ef7469f13a165a7d3c44fddfc8f16f52c84b5bdcb
+machine_hash: c503c50bff0760e6447e2dcfc10b044441a3762164e75332525277f0beef4921
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -46,12 +46,12 @@ record:
   title: Longer memory for more personalized responses
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-09-23-new-review-commands-review-specific-commit-against-a-base-branch-or-custom-instr|New
-  /review commands…]]'
 - '[[Changes/ChatGPT/2025-09-25-we-re-launching-an-early-preview-of-chatgpt-pulse-for-pro-users-on-ios-and-andro-cf8064|Introducing
   ChatGPT Pulse for Pro users]]'
 - '[[Changes/ChatGPT/2025-09-29-turn-off-memory-so-chatgpt-won-t-save-and-use-memories-when-responding|Turn
   off memory, so ChatGPT won’t save and use memories when responding]]'
+- '[[Changes/v0/2025-10-06-custom-instructions-are-now-available-in-v0-use-preset-instructions-like-be-conc|Custom
+  Instructions]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-10-08-chatgpt-go-expansion-37d00d9f|chatgpt-2025-10-08-chatgpt-go-expansion-37d00d9f]]'
 source_type: chatgpt_changelog
 theme: memory
@@ -83,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2025-09-29 · ChatGPT · [[Changes/ChatGPT/2025-09-29-turn-off-memory-so-chatgpt-won-t-save-and-use-memories-when-responding|Turn off memory, so ChatGPT won’t save and use memories when responding]]
+- Earlier: 2025-10-06 · v0 · [[Changes/v0/2025-10-06-custom-instructions-are-now-available-in-v0-use-preset-instructions-like-be-conc|Custom Instructions]]
 - Later: 2025-10-14 · ChatGPT · [[Changes/ChatGPT/2025-10-14-longer-memory-for-more-personalized-responses-775c35|Longer memory for more personalized responses]]
 <!-- chronolog:end -->
 

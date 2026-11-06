@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 9d12cfa7b0e440d2429aaede8544d81ce22b3699003058cdcd1efc2b30079c2f
+machine_hash: 5b432049abb5d257e209ff7f115eaa044a0deaf1e7feec68087d06b9d267cd00
 product: cline
 product_name: Cline
 record:
@@ -54,8 +54,8 @@ record:
   title: 'feat(models): Add free minimax/mimax-m2 model to the model picker'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-11-13-11-model-support-changes-in-rust-v0-58-0|11 Model
-  Support changes in rust-v0.58.0]]'
+- '[[Changes/Dify/2025-11-13-5-model-support-changes-in-1-10-0|5 Model Support changes
+  in 1.10.0]]'
 - '[[Changes/GitHub Copilot CLI/2025-11-13-gpt-5-1-gpt-5-1-codex-and-gpt-5-1-codex-mini-are-now-available-in-github-copilot|GPT-5.1,
   GPT-5.1-Codex, and GPT-5.1-Codex-Mini are now available in GitHub Copilot CLI]]'
 - '[[Changes/Windsurf/2025-11-13-gpt-5-1-and-gpt-5-1-codex|GPT-5.1 and GPT-5.1-Codex]]'

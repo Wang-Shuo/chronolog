@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: bce650296655d395485f37b691e9595beaa1b9b2c5f712b7f82eb2f4312acb74
+machine_hash: c2bba7f3c25cd1d589bcb06a67e6d76277591722a61f7d7b84e5f405da164e0f
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -54,12 +54,10 @@ record:
   title: 7 Editor Experience changes in v0.3.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-08-26-6-editor-experience-changes-in-rust-v0-24-0|6 Editor
-  Experience changes in rust-v0.24.0]]'
-- '[[Changes/Codex CLI/2025-08-27-4-editor-experience-changes-in-rust-v0-25-0|4 Editor
-  Experience changes in rust-v0.25.0]]'
 - '[[Changes/Gemini CLI/2025-08-27-2-editor-experience-changes-in-v0-2-0|2 Editor
   Experience changes in v0.2.0]]'
+- '[[Changes/Lovable/2025-09-01-track-your-edits-streaks|Track your edits + streaks]]'
+- '[[Changes/Lovable/2025-09-01-workspace-viewer-role-pro|Workspace viewer role (Pro+)]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-09-04-v0-3-0-github-244870431-556b0abc|gemini-cli-2025-09-04-v0-3-0-github-244870431-556b0abc]]'
 source_type: github_releases
 theme: editor-experience
@@ -115,7 +113,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.3.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2025-08-27 · Gemini CLI · [[Changes/Gemini CLI/2025-08-27-2-editor-experience-changes-in-v0-2-0|2 Editor Experience changes in v0.2.0]]
+- Earlier: 2025-09-01 · Lovable · [[Changes/Lovable/2025-09-01-workspace-viewer-role-pro|Workspace viewer role (Pro+)]]
 - Later: 2025-09-09 · Gemini CLI · [[Changes/Gemini CLI/2025-09-09-4-editor-experience-changes-in-v0-4-0|4 Editor Experience changes in v0.4.0]]
 <!-- chronolog:end -->
 

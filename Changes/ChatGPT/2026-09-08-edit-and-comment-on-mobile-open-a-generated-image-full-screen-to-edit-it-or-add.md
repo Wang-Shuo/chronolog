@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5a24576aac63fde4f7d753f779aec3ea6eead19180899c151f668e28460e5283
+machine_hash: 6cc43a5cebd8195d75fbbd7d5c9d12d57bdb78634ef6477da9a00ac018596df6
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -43,12 +43,12 @@ record:
   title: Edit and comment
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-04-3-interface-experience-changes-in-v2-1-261|3 Interface
-  Experience changes in v2.1.261]]'
 - '[[Changes/Codex CLI/2026-09-04-42874-0-153-hotfix-show-astra-in-bundled-model-picker-rhan-oai|♯42874
   0.153 hotfix Show Astra in bundled model picker @rhan-oai]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-04-add-recent-created-name-and-classic-none-sorting-to-the-split-sessions-sidebar-w|Add
   Recent, Created, Name, and classic None sorting to the split Sessions sidebar…]]'
+- '[[Changes/Lovable/2026-09-04-new-ways-to-open-project-settings|New ways to open
+  project settings]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-08-chatgpt-images-2-5-new-ways-to-create-and-edit-11ada24d|chatgpt-2026-09-08-chatgpt-images-2-5-new-ways-to-create-and-edit-11ada24d]]'
 source_type: chatgpt_changelog
 theme: interface-experience
@@ -79,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-09-04 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-04-add-recent-created-name-and-classic-none-sorting-to-the-split-sessions-sidebar-w|Add Recent, Created, Name, and classic None sorting to the split Sessions sidebar…]]
+- Earlier: 2026-09-04 · Lovable · [[Changes/Lovable/2026-09-04-new-ways-to-open-project-settings|New ways to open project settings]]
 - Later: 2026-09-09 · Claude Code · [[Changes/Claude Code/2026-09-09-improved-the-diff-panel-it-no-longer-flashes-0-files-changed-and-a-spinner-befor|Improved the /diff panel]]
 <!-- chronolog:end -->
 

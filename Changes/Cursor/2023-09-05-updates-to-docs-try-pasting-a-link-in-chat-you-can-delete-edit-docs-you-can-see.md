@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f75c639d3b1bc660882ab5d3597779aa06bafa0c29e675f350af60e1c9622d3e
+machine_hash: 4ef659503c62c66d2f67426f42c1823a7e368465cb0fad5f53019ebfef86497d
 product: cursor
 product_name: Cursor
 record:
@@ -44,12 +44,12 @@ record:
   title: Docs updates
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-07-26-removes-a-check-in-the-chat-that-slows-the-chat-down-in-certain-cases|Removes
-  a check in the chat that slows the chat down in certain cases]]'
 - '[[Changes/Cursor/2023-08-20-ssh-support-is-now-more-robust-please-continue-to-let-us-know-if-you-are-experie|More
   robust SSH support]]'
 - '[[Changes/Cursor/2023-08-22-ssh-support-is-now-more-robust-please-continue-to-let-us-know-if-you-are-experie|SSH
   support is now more robust!]]'
+- '[[Changes/Ollama/2023-08-30-improved-network-performance-of-ollama-push|Improved
+  network performance of ollama push]]'
 source_release: '[[Releases/Cursor/cursor-2023-09-05-0-9-6-nightly-https-cursor-com-changelog-0-9-6-nightly-3a2d0597|cursor-2023-09-05-0-9-6-nightly-https-cursor-com-changelog-0-9-6-nightly-3a2d0597]]'
 source_type: cursor_changelog
 theme: reliability-performance
@@ -76,8 +76,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2023-08-22 · Cursor · [[Changes/Cursor/2023-08-22-ssh-support-is-now-more-robust-please-continue-to-let-us-know-if-you-are-experie|SSH support is now more robust!]]
-- Later: 2023-09-07 · Cursor · [[Changes/Cursor/2023-09-07-we-release-an-improved-new-ai-project-feature-to-nightly-users-this-is-a-more-ro|We release an improved New AI Project feature to nightly users]]
+- Earlier: 2023-08-30 · Ollama · [[Changes/Ollama/2023-08-30-improved-network-performance-of-ollama-push|Improved network performance of ollama push]]
+- Later: 2023-09-06 · Ollama · [[Changes/Ollama/2023-09-06-minor-performance-improvements-to-model-loading-and-generation|Minor performance improvements to model loading and generation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

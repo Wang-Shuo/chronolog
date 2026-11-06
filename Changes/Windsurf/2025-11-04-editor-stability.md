@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: e4f8e900169734e66a37f88037ae3b12e9563defc6ff80abba222072cf36486b
+machine_hash: db99f0dbdd1ea324a349db719c05fc904113d586301223ea0000e95f14b4b586
 product: windsurf
 product_name: Windsurf
 record:
@@ -59,10 +59,10 @@ record:
   title: Editor Stability
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-10-29-5-editor-experience-changes-in-v0-11-0|5 Editor
-  Experience changes in v0.11.0]]'
 - '[[Changes/Codex CLI/2025-10-30-chore-config-editor-in-https-github-com-openai-codex-pull-5878|chore:
   config editor in (source link)]]'
+- '[[Changes/v0/2025-10-30-you-can-now-edit-images-using-nano-banana-in-v0-turn-on-design-mode-select-an-im|Image
+  Editing with Nano Banana]]'
 - '[[Changes/GitHub Copilot CLI/2025-11-03-diff-hunk-lines-now-properly-fill-the-width-of-the-diff-box|Diff
   hunk lines now properly fill the width of the diff box]]'
 source_release: '[[Releases/Windsurf/windsurf-2025-11-04-v1-12-28-55c0c8a2|windsurf-2025-11-04-v1-12-28-55c0c8a2]]'

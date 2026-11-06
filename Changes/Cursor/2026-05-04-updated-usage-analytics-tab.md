@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9d9fb56cd4f7bae4f74463aed4d628ef0cc498aaab56d0efb5b4da2689088b5f
+machine_hash: 7f7d7ffe4e9771b2890437df65b84ca43016b2c5162165f4d010624df1a57f39
 product: cursor
 product_name: Cursor
 record:
@@ -43,8 +43,8 @@ record:
   title: Updated usage analytics tab
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-27-add-copilot-completion-bash-zsh-fish-subcommand-to-generate-static-shell-complet|Add
-  copilot completion bash / zsh / fish subcommand to generate static shell…]]'
+- '[[Changes/Dify/2026-04-29-6-editor-experience-changes-in-1-14-0|6 Editor Experience
+  changes in 1.14.0]]'
 - '[[Changes/Codex CLI/2026-04-30-20045-fix-plan-mode-nudge-test-after-task-completion-signature-change-canvrno-oa|♯20045
   Fix plan mode nudge test after task completion signature change @canvrno-oai]]'
 - '[[Changes/Claude Code/2026-05-01-powershell-tool-bare-e-g-git-diff-file-is-no-longer-mis-flagged-as-the-stop-pars|PowerShell

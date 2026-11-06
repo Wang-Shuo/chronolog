@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 660e6453e55cb9df0eff19ebd2b135bf0093bffaf0290d296b57acd0d2f3a310
+machine_hash: c7378ab96e6cd2ba789598ca94651bbf059864141b8d41254f306096dffb6ced
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -41,11 +41,11 @@ record:
   title: '#39811 Restrict macOS preference reads to full-disk policies @copyberry'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-21-windows-cross-session-messaging-is-now-available-so-claude-code-sessions-across|Windows:
-  cross-session messaging is now available, so Claude Code sessions across…]]'
-- '[[Changes/Windsurf/2026-08-21-devin-desktop|Devin Desktop]]'
 - '[[Changes/Claude Code/2026-08-25-windows-macos-fixed-headless-sessions-not-cleaning-up-stale-entries-in-claude-se|Windows/macOS:
   Fixed headless sessions not cleaning up stale entries…]]'
+- '[[Changes/Lovable/2026-08-25-filter-audit-logs-by-client|Filter audit logs by client]]'
+- "[[Changes/Open WebUI/2026-08-25-starting-up-on-windows-the-windows-start-script-now-creates-the-secret-key-it-ne|\U0001FA9F
+  Starting up on Windows. The Windows start script now creates the secret key…]]"
 source_release: '[[Releases/Codex CLI/codex-cli-2026-08-26-rust-v0-150-0-github-377374683-d950f84c|codex-cli-2026-08-26-rust-v0-150-0-github-377374683-d950f84c]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -87,7 +87,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-08-25 · Claude Code · [[Changes/Claude Code/2026-08-25-windows-macos-fixed-headless-sessions-not-cleaning-up-stale-entries-in-claude-se|Windows/macOS: Fixed headless sessions not cleaning up stale entries…]]
+- Earlier: 2026-08-25 · Open WebUI · [[Changes/Open WebUI/2026-08-25-starting-up-on-windows-the-windows-start-script-now-creates-the-secret-key-it-ne|🪟 Starting up on Windows. The Windows start script now creates the secret key…]]
 - Later: 2026-08-27 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-08-27-sandboxed-builds-on-windows-create-their-scratch-caches-on-first-run-so-cargo-go|Sandboxed builds on Windows create their scratch caches on first run, so cargo, go…]]
 <!-- chronolog:end -->
 

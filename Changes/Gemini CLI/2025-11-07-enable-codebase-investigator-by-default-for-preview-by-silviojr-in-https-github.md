@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: deb4e7e91afa9ac8d8068ab2276db253863a8a503be09aa31938312531523534
+machine_hash: 3320c26151c5a06ab3dfb6818aec7bfdef6107f7d5750dfbc8fcfc23152796e5
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -43,11 +43,12 @@ record:
   title: enable codebase investigator by default for preview
   type: change
 related_changes:
-- '[[Changes/Windsurf/2025-11-04-editor-stability|Editor Stability]]'
-- '[[Changes/OpenHands/2025-11-05-removed-jupyter-tab-by-amanape-in-https-github-com-openhands-openhands-pull-1156|Removed
-  Jupyter tab]]'
 - '[[Changes/Cline/2025-11-06-2-editor-experience-changes-in-v3-36-0|2 Editor Experience
   changes in v3.36.0]]'
+- '[[Changes/Open WebUI/2025-11-06-3-editor-experience-changes-in-v0-6-35|3 Editor
+  Experience changes in v0.6.35]]'
+- "[[Changes/Open WebUI/2025-11-06-the-comfyui-image-edit-workflow-editor-modal-now-opens-correctly-when-clicking-t|\U0001F5BC️
+  The ComfyUI image edit workflow editor modal now opens correctly when clicking…]]"
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-11-07-v0-13-0-github-260462305-15cfa0b7|gemini-cli-2025-11-07-v0-13-0-github-260462305-15cfa0b7]]'
 source_type: github_releases
 theme: editor-experience
@@ -89,7 +90,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2025-11-06 · Cline · [[Changes/Cline/2025-11-06-2-editor-experience-changes-in-v3-36-0|2 Editor Experience changes in v3.36.0]]
+- Earlier: 2025-11-06 · Open WebUI · [[Changes/Open WebUI/2025-11-06-the-comfyui-image-edit-workflow-editor-modal-now-opens-correctly-when-clicking-t|🖼️ The ComfyUI image edit workflow editor modal now opens correctly when clicking…]]
 - Later: 2025-11-12 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-11-12-3-editor-experience-changes-in-v0-0-355|3 Editor Experience changes in v0.0.355]]
 <!-- chronolog:end -->
 

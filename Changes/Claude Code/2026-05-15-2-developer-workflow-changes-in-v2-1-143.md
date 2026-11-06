@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0f5760305f1db9cde275dd89b9dc48f2477f080d6ab2a75f1d7280362f13987c
+machine_hash: e56bb1e168697f1969204e3492af613427e4c7bf9b5c8d7e91e0d072c51fc954
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,11 @@ record:
   title: 2 Developer Workflow changes in v2.1.143
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-05-13-environment-configuration-as-code-827fd1|Environment
-  configuration as code]]'
-- '[[Changes/Cursor/2026-05-13-removed-noisy-in-app-terminal-notifications-and-improved-shortcut-behavior|Removed
-  noisy in-app terminal notifications and improved shortcut behavior]]'
+- '[[Changes/ElevenLabs/2026-05-13-elevenagents|ElevenAgents]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-14-terminal-cursor-positions-correctly-on-the-input-field-instead-of-on-decorative|Terminal
   cursor positions correctly on the input field instead of on decorative…]]'
+- '[[Changes/Ollama/2026-05-14-ollama-0-24-includes-support-for-the-codex-app-openai-s-desktop-experience-for-w|Ollama
+  0.24 includes support for the Codex App, OpenAI''s desktop experience…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-15-v2-1-143-github-323423445-53eb447c|claude-code-2026-05-15-v2-1-143-github-323423445-53eb447c]]'
 source_type: github_releases
 theme: developer-workflow
@@ -90,8 +89,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.143
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-05-14 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-14-terminal-cursor-positions-correctly-on-the-input-field-instead-of-on-decorative|Terminal cursor positions correctly on the input field instead of on decorative…]]
-- Later: 2026-05-16 · Windsurf · [[Changes/Windsurf/2026-05-16-2-developer-workflow-changes-in-v2-3-9|2 Developer Workflow changes in v2.3.9]]
+- Earlier: 2026-05-14 · Ollama · [[Changes/Ollama/2026-05-14-ollama-0-24-includes-support-for-the-codex-app-openai-s-desktop-experience-for-w|Ollama 0.24 includes support for the Codex App, OpenAI's desktop experience…]]
+- Later: 2026-05-15 · v0 · [[Changes/v0/2026-05-15-bash-terminal-output-no-longer-flashes-empty-rows-while-commands-are-running|Bash terminal output no longer flashes empty rows while commands are running]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

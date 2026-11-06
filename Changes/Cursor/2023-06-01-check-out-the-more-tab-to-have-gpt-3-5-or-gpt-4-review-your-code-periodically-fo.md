@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 55db9da4910313346a93d58df1834990a82fa3e64381390936a68e8fb13a795a
+machine_hash: bc576a3079cbf89a8afaebac898cc9905651d5ae4d86ee389a8e7372d730a701
 product: cursor
 product_name: Cursor
 record:
@@ -52,11 +52,11 @@ record:
   title: AI Linting
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2023-05-03-we-are-deprecating-the-legacy-gpt-3-5-model-on-may-10th-users-will-be-able-to-co|We
-  are deprecating the Legacy (GPT-3.5) model on May 10th]]'
-- '[[Changes/Cursor/2023-05-04-gpt-4-support-now-available-for-project-generation|GPT-4
-  support now available for project generation]]'
 - '[[Changes/Cursor/2023-05-20-upgrades-to-gpt-4-e59675|Upgrades to GPT-4]]'
+- '[[Changes/Dify/2023-05-25-feat-gpt4-max-token-set-to-8k-by-iamjoel-in-https-github-com-langgenius-dify-pul|feat:
+  gpt4 max token set to 8k]]'
+- '[[Changes/Dify/2023-05-25-feat-generation-support-gpt4-by-iamjoel-in-https-github-com-langgenius-dify-pull|feat:
+  generation support gpt4]]'
 source_release: '[[Releases/Cursor/cursor-2023-06-01-0-2-23-https-cursor-com-changelog-0-2-23-23c82096|cursor-2023-06-01-0-2-23-https-cursor-com-changelog-0-2-23-23c82096]]'
 source_type: cursor_changelog
 theme: model-support
@@ -83,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2023-05-20 · Cursor · [[Changes/Cursor/2023-05-20-upgrades-to-gpt-4-e59675|Upgrades to GPT-4]]
+- Earlier: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-feat-generation-support-gpt4-by-iamjoel-in-https-github-com-langgenius-dify-pull|feat: generation support gpt4]]
 - Later: 2023-06-07 · Aider · [[Changes/Aider/2023-06-07-added-support-for-gpt-3-5-turbo-and-gpt-4-32k|Added support for gpt-3.5-turbo and gpt-4-32k]]
 <!-- chronolog:end -->
 

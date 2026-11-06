@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 42a31a18aeee7c1d481689585720c3bb3487bb86dbd7712d38d9f444b96d085e
+machine_hash: 681b49d46de3727e264e4f0981c243cf34a4541148694e10cec4e38765fa5440
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,12 +46,12 @@ record:
     you…'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-17-2-editor-experience-changes-in-rust-v0-155-0|2 Editor
-  Experience changes in rust-v0.155.0]]'
-- '[[Changes/GitHub Copilot CLI/2026-09-17-2-editor-experience-changes-in-v1-0-86|2
-  Editor Experience changes in v1.0.86]]'
 - '[[Changes/Claude Code/2026-09-18-2-editor-experience-changes-in-v2-1-277|2 Editor
   Experience changes in v2.1.277]]'
+- '[[Changes/Lovable/2026-09-20-organize-project-files-into-collections|Organize project
+  files into collections]]'
+- '[[Changes/Open WebUI/2026-09-21-21-editor-experience-changes-in-v0-11-4|21 Editor
+  Experience changes in v0.11.4]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-22-v2-1-280-github-393879189-1cf5db2b|claude-code-2026-09-22-v2-1-280-github-393879189-1cf5db2b]]'
 source_type: github_releases
 theme: editor-experience
@@ -88,7 +88,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-09-18 · Claude Code · [[Changes/Claude Code/2026-09-18-2-editor-experience-changes-in-v2-1-277|2 Editor Experience changes in v2.1.277]]
+- Earlier: 2026-09-21 · Open WebUI · [[Changes/Open WebUI/2026-09-21-21-editor-experience-changes-in-v0-11-4|21 Editor Experience changes in v0.11.4]]
 - Later: 2026-09-22 · Codex CLI · [[Changes/Codex CLI/2026-09-22-6-editor-experience-changes-in-rust-v0-156-0|6 Editor Experience changes in rust-v0.156.0]]
 <!-- chronolog:end -->
 

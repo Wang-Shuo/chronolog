@@ -5,20 +5,20 @@ description: 'ChatGPT · 2026-02-12 · Voice and Audio: We’re making an update
   Voice that improves its ability to follow user instructions, and usage of tools
   like…'
 diffusion:
-  first_in_tracked: '[[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source
-    link) support, which allows you…]]'
+  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
+    Voice and Audio changes in 0.3.7]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 916
+  lag_days: 948
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 2c567f5d72e3411bbd459940e6c5fb20493502cb6f2a1edb1698d0f54c400ac3
+machine_hash: 6f7b27bdb46e7739b9948c83ad774f130740f67601b3799a19074a0c1a77b9cd
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -63,12 +63,9 @@ record:
   title: ChatGPT Voice Update
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-01-12-we-re-improving-our-dictation-capabilities-in-chatgpt-for-all-logged-in-users-si|Dictation
-  Updates]]'
-- '[[Changes/ChatGPT/2026-01-20-we-re-making-an-update-to-chatgpt-voice-for-paid-users-that-improves-its-ability|Voice
-  Updates]]'
-- '[[Changes/ChatGPT/2026-01-26-we-ve-improved-search-responses-in-chatgpt-voice-to-deliver-more-complete-up-to|Improvements
-  to search response quality in Voice]]'
+- '[[Changes/ElevenLabs/2026-02-02-new-schemas|New Schemas]]'
+- '[[Changes/ElevenLabs/2026-02-02-widget-packages|Widget Packages]]'
+- '[[Changes/ElevenLabs/2026-02-02-react-and-client-sdks|React and Client SDKs]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-02-12-chatgpt-voice-update-c17a6a9f|chatgpt-2026-02-12-chatgpt-voice-update-c17a6a9f]]'
 source_type: chatgpt_changelog
 theme: voice
@@ -95,14 +92,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-01-26 · ChatGPT · [[Changes/ChatGPT/2026-01-26-we-ve-improved-search-responses-in-chatgpt-voice-to-deliver-more-complete-up-to|Improvements to search response quality in Voice]]
-- Later: 2026-02-25 · Codex CLI · [[Changes/Codex CLI/2026-02-25-you-can-now-dictate-prompts-by-holding-the-spacebar-to-record-and-transcribe-voi|Dictate prompts by holding the spacebar to record and transcribe voice input…]]
+- Earlier: 2026-02-02 · ElevenLabs · [[Changes/ElevenLabs/2026-02-02-react-and-client-sdks|React and Client SDKs]]
+- Later: 2026-02-12 · Open WebUI · [[Changes/Open WebUI/2026-02-12-audio-service-timeout-handling-audio-transcription-and-text-to-speech-requests-n|🔌 Audio service timeout handling. Audio transcription and text-to-speech…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-08-11 · Aider · [[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source link) support, which allows you…]]
+- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

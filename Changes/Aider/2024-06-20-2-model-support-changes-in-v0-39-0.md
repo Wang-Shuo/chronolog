@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a81534ba96a9353dce25fefda52bfeda0d2633af28bc9dcfee6a94cf0b13d99b
+machine_hash: f20a0b8f71ede3ebeed275db4474b4ba6f615fdb56acda4cb5717833249f0465
 product: aider
 product_name: Aider
 record:
@@ -43,11 +43,12 @@ record:
   title: 2 Model Support changes in v0.39.0
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-05-26-gpt-4o-in-interpreter-mode|GPT-4o in Interpreter Mode]]'
-- '[[Changes/Aider/2024-06-04-improved-prompts-when-no-files-have-been-added-to-chat-to-solicit-llm-file-sugge|Improved
-  prompts when no files have been added to chat to solicit LLM file suggestions]]'
-- '[[Changes/Cursor/2024-06-08-update-0-35-1-disables-copilot-partial-accepts-by-default-and-makes-the-keybindi|UPDATE
-  (0.35.1): Disables Copilot++ partial accepts by default and makes…]]'
+- '[[Changes/Dify/2024-06-14-11-model-support-changes-in-0-6-11|11 Model Support changes
+  in 0.6.11]]'
+- '[[Changes/Ollama/2024-06-15-2-model-support-changes-in-v0-1-45|2 Model Support
+  changes in v0.1.45]]'
+- "[[Changes/Open WebUI/2024-06-17-markdown-support-in-model-descriptions-you-can-now-format-model-descriptions-wit|\U0001F4DD
+  Markdown Support in Model Descriptions]]"
 source_release: '[[Releases/Aider/aider-2024-06-20-v0-39-0-github-161564157-bb86ead6|aider-2024-06-20-v0-39-0-github-161564157-bb86ead6]]'
 source_type: github_releases
 theme: model-support
@@ -81,7 +82,7 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.39.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2024-06-08 · Cursor · [[Changes/Cursor/2024-06-08-update-0-35-1-disables-copilot-partial-accepts-by-default-and-makes-the-keybindi|UPDATE (0.35.1): Disables Copilot++ partial accepts by default and makes…]]
+- Earlier: 2024-06-17 · Open WebUI · [[Changes/Open WebUI/2024-06-17-markdown-support-in-model-descriptions-you-can-now-format-model-descriptions-wit|📝 Markdown Support in Model Descriptions]]
 - Later: 2024-06-24 · Aider · [[Changes/Aider/2024-06-24-2-model-support-changes-in-v0-40-0|2 Model Support changes in v0.40.0]]
 <!-- chronolog:end -->
 

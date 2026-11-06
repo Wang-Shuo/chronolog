@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 16dc26e50aabd384c2ef47e85426935f5784caa2de53abdb17566732b34cd1af
+machine_hash: 36653375787733b6b48c831b2e2a665cf03b342a2573672673a57c0623597895
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,10 +44,10 @@ record:
   title: Elicitation enum and boolean fields now require Enter to confirm a selection…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-02-25-add-research-command-for-deep-research-with-exportable-reports|Add
-  /research command for deep research with exportable reports]]'
 - '[[Changes/ChatGPT/2026-02-27-open-search-results-in-a-new-tab-cmd-click-in-the-search-panel-now-opens-results|Open
   search results in a new tab]]'
+- '[[Changes/Open WebUI/2026-03-01-2-search-and-browsing-changes-in-v0-8-6|2 Search
+  and Browsing changes in v0.8.6]]'
 - '[[Changes/Codex CLI/2026-03-05-13538-chore-add-web-search-tool-type-for-image-support-sayan-oai|♯13538
   chore: add web_search_tool_type for image support @sayan-oai]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-03-06-v0-0-423-github-294013031-8fd55d5e|github-copilot-cli-2026-03-06-v0-0-423-github-294013031-8fd55d5e]]'
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Search and Browsing
 
 - Earlier: 2026-03-05 · Codex CLI · [[Changes/Codex CLI/2026-03-05-13538-chore-add-web-search-tool-type-for-image-support-sayan-oai|♯13538 chore: add web_search_tool_type for image support @sayan-oai]]
-- Later: 2026-03-10 · Codex CLI · [[Changes/Codex CLI/2026-03-10-2-search-and-browsing-changes-in-rust-v0-113-0|2 Search and Browsing changes in rust-v0.113.0]]
+- Later: 2026-03-08 · Open WebUI · [[Changes/Open WebUI/2026-03-08-2-search-and-browsing-changes-in-v0-8-9|2 Search and Browsing changes in v0.8.9]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

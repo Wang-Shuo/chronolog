@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d857713561fa00bcec9b8be2d6f5dd6df84e5c692e943298c560417a7bc02895
+machine_hash: 126ca460e2b66a22e5fafa6383d30c3d8ad56b098881887c85bd4a56e234fc5e
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -42,12 +42,11 @@ record:
   title: 2 Agent Mode changes in v1.0.33
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-17-attach-supported-document-files-to-prompts-for-the-agent-to-read-and-reason-abou|Attach
-  supported document files to prompts for the agent to read and reason about]]'
 - '[[Changes/Claude Code/2026-04-20-2-agent-mode-changes-in-v2-1-116|2 Agent Mode
   changes in v2.1.116]]'
 - '[[Changes/Codex CLI/2026-04-20-10-agent-mode-changes-in-rust-v0-122-0|10 Agent
   Mode changes in rust-v0.122.0]]'
+- '[[Changes/ElevenLabs/2026-04-20-elevenagents|ElevenAgents]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-04-20-v1-0-33-github-311308778-029d953b|github-copilot-cli-2026-04-20-v1-0-33-github-311308778-029d953b]]'
 source_type: github_releases
 theme: agent-mode
@@ -83,7 +82,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.33
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-04-20 · Codex CLI · [[Changes/Codex CLI/2026-04-20-10-agent-mode-changes-in-rust-v0-122-0|10 Agent Mode changes in rust-v0.122.0]]
+- Earlier: 2026-04-20 · ElevenLabs · [[Changes/ElevenLabs/2026-04-20-elevenagents|ElevenAgents]]
 - Later: 2026-04-22 · Claude Code · [[Changes/Claude Code/2026-04-22-2-agent-mode-changes-in-v2-1-117|2 Agent Mode changes in v2.1.117]]
 <!-- chronolog:end -->
 

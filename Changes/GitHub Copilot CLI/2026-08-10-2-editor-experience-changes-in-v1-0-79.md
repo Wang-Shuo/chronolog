@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ced3dbf2161c07c6b275f7ed892f8cc8e8d18daffe342dc74766e69f7182565a
+machine_hash: 6bb9bccf40ccc359dc440f38d6665d8c067fa6bbc08bed7f44f54c0756524b80
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -47,8 +47,8 @@ record:
   title: 2 Editor Experience changes in v1.0.79
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-04-changed-emoji-autocomplete-to-accept-common-alternate-shortcodes-like-thumbsup-t|Changed
-  emoji autocomplete to accept common alternate shortcodes like :thumbsup:…]]'
+- '[[Changes/Ollama/2026-08-04-tui-fixes-pipe-delimited-prose-no-longer-renders-as-a-table-enter-accepts-the-hi|TUI
+  fixes: pipe-delimited prose no longer renders as a table, Enter accepts…]]'
 - '[[Changes/OpenHands/2026-08-05-chore-deps-bump-monaco-editor-from-0-55-1-to-0-56-0-in-the-monaco-group-across-1|chore(deps):
   bump monaco-editor from 0.55.1 to 0.56.0 in the monaco group across 1…]]'
 - '[[Changes/Cline/2026-08-09-restore-the-view-changes-button-on-completion-rows-backed-by-sdk-checkpoints-so|Restore

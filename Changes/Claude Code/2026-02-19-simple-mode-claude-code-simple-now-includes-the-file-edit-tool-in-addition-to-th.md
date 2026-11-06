@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3a46d1bc257db0a92c42a2aff678a6321a1631ef4acafb212ca1dd650ea56629
+machine_hash: e6f5c6b10275fa5d871f790f1feec12db310d250f35f032a14fb9d382cff4f37
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,8 +45,8 @@ record:
   title: Simple mode (`CLAUDE_CODE_SIMPLE`) now includes the file edit tool in addition…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-02-17-tab-completion-respects-the-highlighted-slash-command-selection|Tab
-  completion respects the highlighted slash command selection]]'
+- "[[Changes/Open WebUI/2026-02-17-image-edit-api-background-support-the-image-edit-api-now-supports-the-background|\U0001F3A8
+  Image edit API background support. The image edit API now supports…]]"
 - '[[Changes/Gemini CLI/2026-02-18-2-editor-experience-changes-in-v0-29-0|2 Editor
   Experience changes in v0.29.0]]'
 - '[[Changes/ChatGPT/2026-02-19-we-improved-code-blocks-in-chatgpt-to-make-them-more-interactive-you-can-write-e-6b2623|We

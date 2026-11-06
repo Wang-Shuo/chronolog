@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: aa9f52cf4ca03cc0b0a777705153fdb82f3f0f1e9db30cf997132547a2856dde
+machine_hash: ce91d66c039627a31429e0638e2ee019138ce0994a34fdf4d8294830388ce255
 product: cursor
 product_name: Cursor
 record:
@@ -43,8 +43,8 @@ record:
   title: Max mode is now available for Gemini 2.5 Flash
   type: change
 related_changes:
-- '[[Changes/Cline/2025-05-28-2-model-support-changes-in-v3-17-6|2 Model Support changes
-  in v3.17.6]]'
+- '[[Changes/Open WebUI/2025-05-29-2-model-support-changes-in-v0-6-13|2 Model Support
+  changes in v0.6.13]]'
 - '[[Changes/Aider/2025-05-30-6-model-support-changes-in-v0-84-0|6 Model Support changes
   in v0.84.0]]'
 - '[[Changes/Cline/2025-06-03-5-model-support-changes-in-v3-17-9|5 Model Support changes

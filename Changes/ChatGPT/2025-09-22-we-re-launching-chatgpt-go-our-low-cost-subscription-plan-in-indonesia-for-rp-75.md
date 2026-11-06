@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: expansion
-machine_hash: 8338e30bff22fbef49a63012c3377e405e1f078708f00de8b7a6536355d67385
+machine_hash: ecbd60e5c192c18348c385115deb6d1987a762afa64eed4f7e69067692bb5805
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -43,11 +43,11 @@ record:
   title: ChatGPT launches ChatGPT Go, our low cost subscription plan, in Indonesia
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-08-06-usage-and-pricing-visibility|Usage and pricing visibility]]'
-- '[[Changes/ChatGPT/2025-08-18-we-re-launching-chatgpt-go-a-new-low-cost-subscription-plan-this-will-initially-e5f740|ChatGPT
-  launches ChatGPT Go, a new low-cost subscription plan]]'
 - '[[Changes/Gemini CLI/2025-08-18-update-quota-and-pricing-md-to-clarify-billing-by-blanca-delgado-parra-in-https|Update
   quota-and-pricing.md to clarify billing]]'
+- '[[Changes/Replit/2025-08-29-organization-subscription-cancellation|Organization
+  subscription cancellation]]'
+- '[[Changes/Lovable/2025-09-01-flexible-plan-management|Flexible plan management]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-09-22-chatgpt-go-now-available-in-indonesia-27c365a7|chatgpt-2025-09-22-chatgpt-go-now-available-in-indonesia-27c365a7]]'
 source_type: chatgpt_changelog
 theme: pricing-model
@@ -77,7 +77,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2025-08-18 · Gemini CLI · [[Changes/Gemini CLI/2025-08-18-update-quota-and-pricing-md-to-clarify-billing-by-blanca-delgado-parra-in-https|Update quota-and-pricing.md to clarify billing]]
+- Earlier: 2025-09-01 · Lovable · [[Changes/Lovable/2025-09-01-flexible-plan-management|Flexible plan management]]
 - Later: 2025-10-01 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-10-01-switched-to-using-per-subscription-copilot-api-endpoints-in-accordance-with-gith|Switched to using per-subscription Copilot API endpoints in accordance…]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a5e1dacff018330c1fe2e97dc504446d10ea7634d18f72df77bc8f473acdc209
+machine_hash: de9e900bd734afd76b3a67dcfbfdd90e2aac9730dd8bd49d8fdb0ac176bddd48
 product: cursor
 product_name: Cursor
 record:
@@ -76,7 +76,7 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2023-11-27 · Cursor · [[Changes/Cursor/2023-11-27-folders-you-can-now-use-the-symbol-to-reference-specific-folders-we-ll-try-to-pi|@ folders: You can now use the @ symbol to reference specific folders!]]
-- Later: 2024-04-01 · Cursor · [[Changes/Cursor/2024-04-01-long-context-chat-beta-this-is-a-new-experimental-feature-that-lets-you-talk-wit|Long Context Chat (Beta)]]
+- Later: 2023-11-30 · Ollama · [[Changes/Ollama/2023-11-30-set-the-context-size-to-16k-set-parameter-num-ctx-16384|Set the context size to 16K: /set parameter num_ctx 16384]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

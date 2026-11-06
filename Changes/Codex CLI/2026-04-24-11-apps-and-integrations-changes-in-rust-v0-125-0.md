@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9aabe280c71a3d15c5703bd0c603708045a95d1b8b4eb14d66788885d177f376
+machine_hash: 96ddd8a39ffb3f72cfe42a90ac458d5d6345c8288dcb8fd26c7a87379cf9f719
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -68,12 +68,12 @@ record:
   title: 11 Apps and Integrations changes in rust-v0.125.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-04-23-9-apps-and-integrations-changes-in-rust-v0-123-0|9
-  Apps and Integrations changes in rust-v0.123.0]]'
 - '[[Changes/Gemini CLI/2026-04-23-4-apps-and-integrations-changes-in-v0-39-0|4 Apps
   and Integrations changes in v0.39.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-23-3-apps-and-integrations-changes-in-v1-0-35|3
   Apps and Integrations changes in v1.0.35]]'
+- '[[Changes/Ollama/2026-04-23-openclaw-integration-now-bundles-ollama-s-web-search-plugin-in-openclaw|OpenClaw
+  integration now bundles Ollama''s web search plugin in OpenClaw]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-04-24-rust-v0-125-0-github-313349252-d42d093c|codex-cli-2026-04-24-rust-v0-125-0-github-313349252-d42d093c]]'
 source_type: github_releases
 theme: apps-integrations
@@ -131,7 +131,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.125.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-04-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-23-3-apps-and-integrations-changes-in-v1-0-35|3 Apps and Integrations changes in v1.0.35]]
+- Earlier: 2026-04-23 · Ollama · [[Changes/Ollama/2026-04-23-openclaw-integration-now-bundles-ollama-s-web-search-plugin-in-openclaw|OpenClaw integration now bundles Ollama's web search plugin in OpenClaw]]
 - Later: 2026-04-24 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-24-remote-command-shows-current-status-and-supports-remote-on-and-remote-off-to-tog|/remote command shows current status and supports /remote on and /remote off…]]
 <!-- chronolog:end -->
 

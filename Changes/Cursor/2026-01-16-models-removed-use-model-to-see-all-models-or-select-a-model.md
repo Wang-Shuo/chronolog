@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: aebe469330cb32d328c79df2db2f651e79f54f6b0346ad783f68a2779aa05200
+machine_hash: 7ce787c70af3542dc422d6b94c4961c483cbb1c28bd9fcf68ae83e8b923563ce
 product: cursor
 product_name: Cursor
 record:
@@ -43,8 +43,8 @@ record:
   title: /models removed. Use /model to see all models or select a model
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-01-15-2-model-support-changes-in-rust-v0-85-0|2 Model
-  Support changes in rust-v0.85.0]]'
+- '[[Changes/Claude/2026-01-16-opus-4-and-4-1-deprecated-from-claude-and-claude-code|Opus
+  4 and 4.1 deprecated from Claude and Claude Code]]'
 - '[[Changes/Claude Code/2026-01-16-added-support-for-pretooluse-hooks-to-return-additionalcontext-to-the-model|Added
   support for PreToolUse hooks to return additionalContext to the model]]'
 - '[[Changes/Codex CLI/2026-01-16-9336-rename-model-turn-to-sampling-request-aibrahim-oai|♯9336

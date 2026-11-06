@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 80ac0c5d59b8f46b3133c384e69c59e43d15630ccef0f722569856cafeda6b14
+machine_hash: 307ff1892eec47b826e57d22a9ddafbe2afb742878153403bdec01677beb0929
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -52,12 +52,12 @@ record:
   title: 5 Model Support changes in v0.1.10
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-07-09-2-model-support-changes-in-rust-v0-4-0|2 Model Support
-  changes in rust-v0.4.0]]'
 - '[[Changes/Cline/2025-07-10-adding-thinking-token-config-to-gemini-2-5-pro-model-and-adding-gemini-2-5-flash|Adding
   Thinking Token Config to Gemini 2.5 pro model and adding gemini 2.5 flash preview]]'
 - '[[Changes/Codex CLI/2025-07-10-added-new-config-option-model-supports-reasoning-summaries-https-github-com-open|Added
   new config option]]'
+- '[[Changes/Dify/2025-07-10-4-model-support-changes-in-1-6-0|4 Model Support changes
+  in 1.6.0]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-07-11-v0-1-10-github-231320517-434b29eb|gemini-cli-2025-07-11-v0-1-10-github-231320517-434b29eb]]'
 source_type: github_releases
 theme: model-support
@@ -103,8 +103,8 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.1.10
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-07-10 · Codex CLI · [[Changes/Codex CLI/2025-07-10-added-new-config-option-model-supports-reasoning-summaries-https-github-com-open|Added new config option]]
-- Later: 2025-07-15 · Cline · [[Changes/Cline/2025-07-15-add-kimi-k2-as-trending-model-by-celestial-vault-in-https-github-com-cline-cline|Add kimi-k2 as trending model]]
+- Earlier: 2025-07-10 · Dify · [[Changes/Dify/2025-07-10-4-model-support-changes-in-1-6-0|4 Model Support changes in 1.6.0]]
+- Later: 2025-07-14 · Open WebUI · [[Changes/Open WebUI/2025-07-14-6-model-support-changes-in-v0-6-16|6 Model Support changes in v0.6.16]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

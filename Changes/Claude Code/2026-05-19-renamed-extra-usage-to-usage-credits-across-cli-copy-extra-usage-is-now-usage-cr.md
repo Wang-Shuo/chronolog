@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: c6de5066e0ca624b94301f310bf8b934c149085b55aefcdf2c42f1dfc533f1df
+machine_hash: 9a847184cfd6b63419e890487a1ab2c63396962d1dc428cff1f076ccc5f03f14
 product: claude-code
 product_name: Claude Code
 record:
@@ -89,7 +89,7 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2026-05-18 · Cursor · [[Changes/Cursor/2026-05-18-standard-0-50-m-input-2-50-m-output-tokens|Standard: $0.50/M input, $2.50/M output tokens]]
-- Later: 2026-05-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-20-2-pricing-model-changes-in-v1-0-51|2 Pricing Model changes in v1.0.51]]
+- Later: 2026-05-19 · Gemini · [[Changes/Gemini/2026-05-19-introducing-a-new-100-google-ai-ultra-plan|Introducing a new $100 Google AI Ultra plan]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

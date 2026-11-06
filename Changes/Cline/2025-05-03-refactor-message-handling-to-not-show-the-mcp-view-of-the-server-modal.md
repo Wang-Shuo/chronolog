@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d8b374c15bd094ab1563cdd0e6246cc6e2b0eef11533ccaa025a4ee2b2a28ef1
+machine_hash: ec43af137cef96bc68f7f37fef6cbfeb8b8bc10a3abe1a556823ec8321a1e071
 product: cline
 product_name: Cline
 record:
@@ -41,12 +41,12 @@ record:
   title: Refactor message handling to not show the MCP View of the server modal
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-04-16-added-support-for-mcp-servers-natively-via-codeactagent-by-ducphamle2-in-https-g|Added
-  support for MCP servers natively via CodeActAgent]]'
-- '[[Changes/Cline/2025-04-19-add-ability-for-models-that-support-it-to-receive-image-responses-from-mcp-serve|Add
-  ability for models that support it to receive image responses from MCP servers…]]'
+- '[[Changes/Dify/2025-04-23-12-apps-and-integrations-changes-in-1-3-0|12 Apps and
+  Integrations changes in 1.3.0]]'
 - '[[Changes/Cline/2025-04-25-add-download-counts-to-mcp-marketplace-items|Add download
   counts to MCP marketplace items]]'
+- '[[Changes/Dify/2025-04-28-7-apps-and-integrations-changes-in-1-3-1|7 Apps and Integrations
+  changes in 1.3.1]]'
 source_release: '[[Releases/Cline/cline-2025-05-03-v3-14-0-github-216283929-7acb459c|cline-2025-05-03-v3-14-0-github-216283929-7acb459c]]'
 source_type: github_releases
 theme: apps-integrations
@@ -78,8 +78,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-04-25 · Cline · [[Changes/Cline/2025-04-25-add-download-counts-to-mcp-marketplace-items|Add download counts to MCP marketplace items]]
-- Later: 2025-05-07 · Windsurf · [[Changes/Windsurf/2025-05-07-cascade-plugins|Cascade Plugins]]
+- Earlier: 2025-04-28 · Dify · [[Changes/Dify/2025-04-28-7-apps-and-integrations-changes-in-1-3-1|7 Apps and Integrations changes in 1.3.1]]
+- Later: 2025-05-05 · Open WebUI · [[Changes/Open WebUI/2025-05-05-2-apps-and-integrations-changes-in-v0-6-6|2 Apps and Integrations changes in v0.6.6]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

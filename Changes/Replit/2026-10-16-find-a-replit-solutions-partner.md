@@ -1,0 +1,100 @@
+---
+card_id: replit-2026-10-16-6f7aa0
+date: '2026-10-16'
+description: 'Replit · 2026-10-16 · Search and Browsing: You can now browse the Replit
+  Solutions Partners directory to find agencies, consultants, and systems integrators…'
+diffusion:
+  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing:
+    An experimental model that knows when and how to browse the internet]]'
+  inference: No adoption, equivalence, or causation claim.
+  lag_days: 1303
+  relation: same-theme-chronology
+  role: later-observed
+  scope: tracked-products-only
+  theme: search-browsing
+  tracked_products_count: 20
+evolves_from: []
+extractor_version: fallback-v5
+impact: significant
+kind: launch
+machine_hash: 28a79cc1cf109c240e619084393d800eb133de0d8736b82e69c2cc167ba2fc88
+product: replit
+product_name: Replit
+record:
+  ai_generated: true
+  card_id: replit-2026-10-16-6f7aa0
+  comparison: ''
+  confidence: low
+  date: '2026-10-16'
+  description: 'Replit — Replit updates — 2026-10-16: You can now browse the Replit
+    Solutions Partners directory to find agencies, consultants, and systems integrators
+    that build with Replit. Firms that want to join can apply through the new program.'
+  evidence:
+  - quote: You can now browse the Replit Solutions Partners directory to find agencies,
+      consultants, and systems integrators that build with Replit. Firms that want
+      to join can apply through the new program.
+    source_release: https://docs.replit.com/updates/2026/10/16/changelog
+  - quote: Explore the [Solutions Partners directory](https://replit.com/partners/solutions-partners).
+    source_release: https://docs.replit.com/updates/2026/10/16/changelog
+  extractor_version: fallback-v5
+  impact: significant
+  kind: launch
+  product: replit
+  product_name: Replit
+  slug: find-a-replit-solutions-partner
+  source_release: replit-2026-10-16-2026-10-16-3443a38d
+  source_type: replit_changelog
+  theme: search-browsing
+  title: Find a Replit Solutions Partner
+  type: change
+related_changes:
+- '[[Changes/Open WebUI/2026-10-10-4-search-and-browsing-changes-in-v0-12-0|4 Search
+  and Browsing changes in v0.12.0]]'
+- "[[Changes/Open WebUI/2026-10-14-tools-picked-in-new-chats-tools-picked-from-the-integrations-menu-the-web-search|\U0001F9F0
+  Tools picked in new chats. Tools picked from the Integrations menu, the Web…]]"
+- "[[Changes/Open WebUI/2026-10-16-built-in-tools-with-a-custom-tools-parameter-a-model-with-a-custom-parameter-nam|\U0001F9E9
+  Built-in tools with a custom tools parameter. A model with a custom parameter…]]"
+source_release: '[[Releases/Replit/replit-2026-10-16-2026-10-16-3443a38d|replit-2026-10-16-2026-10-16-3443a38d]]'
+source_type: replit_changelog
+theme: search-browsing
+title: Find a Replit Solutions Partner
+type: change
+---
+
+<!-- chronolog:begin region="header" -->
+# Find a Replit Solutions Partner
+
+**Replit** · 2026-10-16 · [[Themes/search-browsing|Search and Browsing]] · Launch · [Official source](https://docs.replit.com/updates/2026/10/16/changelog) · from [[Releases/Replit/replit-2026-10-16-2026-10-16-3443a38d|Replit updates — 2026-10-16]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="evidence" -->
+> You can now browse the Replit Solutions Partners directory to find agencies, consultants, and systems integrators that build with Replit. Firms that want to join can apply through the new program.
+>
+> Explore the [Solutions Partners directory](https://replit.com/partners/solutions-partners).
+>
+> Source: https://docs.replit.com/updates/2026/10/16/changelog
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Replit/2026-10-16-claude-haiku-5-5-in-the-model-selector|Claude Haiku 5.5 in the model selector]] · Model Support
+- [[Changes/Replit/2026-10-16-bring-your-own-cloud-to-replit|Bring Your Own Cloud to Replit]] · Enterprise and Administration
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Search and Browsing
+
+- Earlier: 2026-10-16 · Open WebUI · [[Changes/Open WebUI/2026-10-16-built-in-tools-with-a-custom-tools-parameter-a-model-with-a-custom-parameter-nam|🧩 Built-in tools with a custom tools parameter. A model with a custom parameter…]]
+- Later: 2026-10-17 · DeepSeek API · [[Changes/DeepSeek API/2026-10-17-opening-up-the-in-house-search-api|Opening up the in-house search API]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing: An experimental model that knows when and how to browse the internet]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20replit-2026-10-16-6f7aa0&body=Card%3A%20Changes%2FReplit%2F2026-10-16-find-a-replit-solutions-partner.md%0ACard%20ID%3A%20replit-2026-10-16-6f7aa0%0ASource%3A%20https%3A%2F%2Fdocs.replit.com%2Fupdates%2F2026%2F10%2F16%2Fchangelog%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

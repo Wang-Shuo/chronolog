@@ -4,20 +4,20 @@ date: '2023-11-21'
 description: 'ChatGPT · 2023-11-21 · Voice and Audio: ChatGPT with voice is now available
   to all free users. Download the app on your phone and tap the headphones icon to…'
 diffusion:
-  first_in_tracked: '[[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source
-    link) support, which allows you…]]'
+  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
+    Voice and Audio changes in 0.3.7]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 102
+  lag_days: 134
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: expansion
-machine_hash: 081657f343763d22e973fa4677b01ad75e339f5f52d8dd522e5cf804154f3bd8
+machine_hash: 5e912d17e73fad30d0a6f5111d83281e37accf32164af8062bf6b8af08c2b0ef
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -76,13 +76,13 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2023-09-25 · ChatGPT · [[Changes/ChatGPT/2023-09-25-we-are-beginning-to-roll-out-new-voice-and-image-capabilities-in-chatgpt-they-of|We are beginning to roll out new voice and image capabilities in ChatGPT]]
-- Later: 2024-06-04 · Aider · [[Changes/Aider/2024-06-04-detect-supported-audio-sample-rates-for-voice|Detect supported audio sample rates for /voice]]
+- Later: 2024-02-08 · Gemini · [[Changes/Gemini/2024-02-08-chat-to-supercharge-your-ideas-in-the-gemini-app|Chat to supercharge your ideas in the Gemini app]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-08-11 · Aider · [[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source link) support, which allows you…]]
+- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 41f3333e56f3d89602266fc5462c695991a2be8ae7a069471eae3e494cf30be5
+machine_hash: e1a71a073e61bb1330ed4ec4b0db7c3d1bf185912f0557ab3eb3a6bccb9a5912
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,8 +42,8 @@ record:
   title: 'chore(ci): Speed up macOS builds by using larger runner'
   type: change
 related_changes:
-- '[[Changes/Windsurf/2025-10-16-various-stability-improvements-and-minor-bug-fixes|Various
-  stability improvements and minor bug fixes]]'
+- '[[Changes/Dify/2025-10-22-5-reliability-and-performance-changes-in-1-9-2|5 Reliability
+  and Performance changes in 1.9.2]]'
 - '[[Changes/GitHub Copilot CLI/2025-10-22-made-improvements-to-the-memory-footprint-of-copilot-cli-especially-when-dealing|Made
   improvements to the memory footprint of Copilot CLI, especially when dealing…]]'
 - '[[Changes/ChatGPT/2025-10-23-group-work-upload-notes-proposals-and-contracts-so-collaborators-can-draft-deliv|Group

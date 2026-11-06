@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a3f9db11111e6084f3a5673741326182dd44f6fb6a6578fffbbe399cf0c46526
+machine_hash: 206cdaccc800b4f06eeadad43eecf8b236f5d5f0ef7f93726444292a39ca1268
 product: cline
 product_name: Cline
 record:
@@ -47,11 +47,11 @@ record:
   title: 4 Model Support changes in v3.13.0
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-04-16-today-we-re-releasing-openai-o3-and-o4-mini-the-latest-in-our-o-series-of-models|o3
-  and o4-mini in ChatGPT]]'
-- '[[Changes/Windsurf/2025-04-16-new-o4-mini-models-available-and-free-limited-time|New
-  o4-mini models available and Free (Limited Time)]]'
 - '[[Changes/Windsurf/2025-04-16-o4-mini-available|o4-mini Available]]'
+- '[[Changes/Gemini/2025-04-17-try-our-2-5-flash-experimental-model|Try our 2.5 Flash
+  (experimental) model]]'
+- '[[Changes/Ollama/2025-04-17-deepcoder-https-ollama-com-library-deepcoder-a-fully-open-source-14b-coder-model|DeepCoder((source
+  link) a fully open-Source 14B coder…]]'
 source_release: '[[Releases/Cline/cline-2025-04-19-v3-13-0-github-213455478-f5b1cb21|cline-2025-04-19-v3-13-0-github-213455478-f5b1cb21]]'
 source_type: github_releases
 theme: model-support
@@ -92,8 +92,8 @@ Source: https://github.com/cline/cline/releases/tag/v3.13.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-04-16 · Windsurf · [[Changes/Windsurf/2025-04-16-o4-mini-available|o4-mini Available]]
-- Later: 2025-04-24 · Cline · [[Changes/Cline/2025-04-24-4-model-support-changes-in-v3-13-2|4 Model Support changes in v3.13.2]]
+- Earlier: 2025-04-17 · Ollama · [[Changes/Ollama/2025-04-17-deepcoder-https-ollama-com-library-deepcoder-a-fully-open-source-14b-coder-model|DeepCoder((source link) a fully open-Source 14B coder…]]
+- Later: 2025-04-19 · Gemini · [[Changes/Gemini/2025-04-19-update-to-2-0-flash-in-gemini|Update to 2.0 Flash in Gemini]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

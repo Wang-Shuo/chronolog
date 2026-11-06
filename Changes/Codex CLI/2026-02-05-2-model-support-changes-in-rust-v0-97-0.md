@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: cec3ea7ffb6f34c3e4f216f78151055d57a7e7afef24557da9f3397285cbe10a
+machine_hash: 5864c879827cab002553930a73c716a3b49df768fc2cf35890a85d0078ea702a
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,8 +43,7 @@ record:
   title: 2 Model Support changes in rust-v0.97.0
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-02-04-6-model-support-changes-in-v0-27-0|6 Model Support
-  changes in v0.27.0]]'
+- '[[Changes/Claude/2026-02-05-claude-for-excel-improvements|Claude for Excel improvements]]'
 - '[[Changes/Claude Code/2026-02-05-claude-opus-4-6-is-now-available|Claude Opus 4.6
   is now available!]]'
 - '[[Changes/Cline/2026-02-05-anthopic-opus-4-6|Anthopic Opus 4.6]]'

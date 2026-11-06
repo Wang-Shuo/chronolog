@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: dcfdedc8bffb6d24172777caab3ef3d2b3d1b27a1140611ac20f878816b5efbf
+machine_hash: 2faf8ec582a83d4a5eec3a1cd94362595904d26e9936884bf9a0a696aff371f3
 product: cursor
 product_name: Cursor
 record:
@@ -57,8 +57,8 @@ record:
   title: Added input token count for chat messages (click the three dots to view)
   type: change
 related_changes:
-- '[[Changes/Aider/2025-03-13-2-context-window-changes-in-v0-77-0|2 Context Window
-  changes in v0.77.0]]'
+- '[[Changes/Replit/2025-03-14-enhanced-link-context-features|Enhanced link context
+  features]]'
 - '[[Changes/Cline/2025-03-15-prevent-cline-from-reading-extremely-large-files-into-context-that-would-overloa|Prevent
   Cline from reading extremely large files into context that would overload…]]'
 - '[[Changes/Cline/2025-03-23-add-add-to-cline-as-an-option-when-you-right-click-selected-text-in-a-file-or-th|Add
@@ -106,7 +106,7 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2025-03-23 · Cline · [[Changes/Cline/2025-03-23-add-add-to-cline-as-an-option-when-you-right-click-selected-text-in-a-file-or-th|Add Add to Cline as an option when you right-click selected text in a file…]]
-- Later: 2025-03-25 · Aider · [[Changes/Aider/2025-03-25-added-a-new-context-command-that-automatically-identifies-which-files-need-to-be|Added a new /context command that automatically identifies which files need…]]
+- Later: 2025-03-24 · Dify · [[Changes/Dify/2025-03-24-feat-add-datasets-detail-context-and-provider-for-improved-data-vali-by-wtw0313|feat: add datasets detail context and provider for improved data vali…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

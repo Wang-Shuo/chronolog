@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: fix
-machine_hash: 6a96f28ea4cc711663e07c96da8e22d89f48ce764b61fd61b837a47d1fd0d103
+machine_hash: 39376adb50998cfaadff1613a35373c58a284170c615080b9df62fcc8deb04ce
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,12 @@ record:
   title: Fixed permission bypass via shell line continuation that could allow blocked…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-09-2-safety-and-privacy-changes-in-v2-1-2|2 Safety
-  and Privacy changes in v2.1.2]]'
 - '[[Changes/Claude Code/2026-01-09-2-safety-and-privacy-changes-in-v2-1-3|2 Safety
   and Privacy changes in v2.1.3]]'
 - '[[Changes/Codex CLI/2026-01-09-2-safety-and-privacy-changes-in-rust-v0-80-0|2 Safety
   and Privacy changes in rust-v0.80.0]]'
+- '[[Changes/Open WebUI/2026-01-09-6-safety-and-privacy-changes-in-v0-7-0|6 Safety
+  and Privacy changes in v0.7.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-13-v2-1-6-github-276206295-e2719d9a|claude-code-2026-01-13-v2-1-6-github-276206295-e2719d9a]]'
 source_type: github_releases
 theme: safety-privacy
@@ -84,8 +84,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-01-09 · Codex CLI · [[Changes/Codex CLI/2026-01-09-2-safety-and-privacy-changes-in-rust-v0-80-0|2 Safety and Privacy changes in rust-v0.80.0]]
-- Later: 2026-01-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-13-provide-inline-feedback-when-rejecting-tool-permission-requests-so-agents-don-t|Provide inline feedback when rejecting tool permission requests so agents don't have…]]
+- Earlier: 2026-01-09 · Open WebUI · [[Changes/Open WebUI/2026-01-09-6-safety-and-privacy-changes-in-v0-7-0|6 Safety and Privacy changes in v0.7.0]]
+- Later: 2026-01-13 · Dify · [[Changes/Dify/2026-01-13-5-safety-and-privacy-changes-in-1-11-3|5 Safety and Privacy changes in 1.11.3]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

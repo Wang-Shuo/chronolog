@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: cd36fdcdb60081107ca299a457f641256729922bc7c7f1c743579b7315c42e52
+machine_hash: d0269c2db9170cdf31f70297ef5bf5f85c8e07113be0081e648af507b1c7b1b8
 product: cline
 product_name: Cline
 record:
@@ -45,12 +45,11 @@ record:
   title: 2 Pricing Model changes in v3.8.0
   type: change
 related_changes:
-- '[[Changes/Aider/2024-08-13-improved-token-and-cost-reporting-for-infinite-output|Improved
-  token and cost reporting for infinite output]]'
-- '[[Changes/Aider/2024-08-20-improved-cost-estimate-logic-for-caching|Improved cost
-  estimate logic for caching]]'
-- '[[Changes/Cline/2024-09-12-openrouter-now-supports-prompt-caching-they-re-still-working-on-reporting-cache|OpenRouter
-  now supports prompt caching!]]'
+- '[[Changes/Lovable/2025-03-14-best-website-design-3k-cash-winner-tweet-here-https-x-com-lovable-dev-status-190|Best
+  website design, \$3K cash winner]]'
+- '[[Changes/Lovable/2025-03-14-announcing-the-10k-lovable-s-build-competition-https-build-launch-win-lovable-ap|Announcing
+  the \$10K Lovable''s Build…]]'
+- '[[Changes/Replit/2025-03-14-neon-db-history-retention|Neon DB history retention]]'
 source_release: '[[Releases/Cline/cline-2025-03-23-v3-8-0-github-207655603-f6979596|cline-2025-03-23-v3-8-0-github-207655603-f6979596]]'
 source_type: github_releases
 theme: pricing-model
@@ -88,7 +87,7 @@ Source: https://github.com/cline/cline/releases/tag/v3.8.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2024-09-12 · Cline · [[Changes/Cline/2024-09-12-openrouter-now-supports-prompt-caching-they-re-still-working-on-reporting-cache|OpenRouter now supports prompt caching!]]
+- Earlier: 2025-03-14 · Replit · [[Changes/Replit/2025-03-14-neon-db-history-retention|Neon DB history retention]]
 - Later: 2025-03-23 · Cursor · [[Changes/Cursor/2025-03-23-chat-will-now-display-a-notification-about-usage-based-pricing-when-approaching|Chat will now display a notification about usage-based pricing when approaching fast…]]
 <!-- chronolog:end -->
 

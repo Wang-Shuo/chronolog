@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f403bdc3c5414ac77e7b1e85c24f166edc15e869729174a6ad3022237fa92e6d
+machine_hash: 3e211125822911d6bb880978193e3498a4a935def764740926db4ba5f1a57c2a
 product: cline
 product_name: Cline
 record:
@@ -42,12 +42,11 @@ record:
   title: Add Claude Sonnet 4.5
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-09-26-4195-send-text-parameter-for-non-gpt-5-models-4195|♯4195
-  Send text parameter for non-gpt-5 models (♯4195)]]'
 - '[[Changes/Cline/2025-09-28-2-model-support-changes-in-v3-32-1|2 Model Support changes
   in v3.32.1]]'
 - '[[Changes/ChatGPT/2025-09-29-opt-out-of-model-training-so-their-teen-s-conversations-won-t-be-used-to-improve|Opt
   out of model training, so their teen’s conversations won’t be used to improve…]]'
+- '[[Changes/Claude/2025-09-29-claude-sonnet-4-5-launch|Claude Sonnet 4.5 launch]]'
 source_release: '[[Releases/Cline/cline-2025-09-29-v3-32-2-github-250891897-c4382ca3|cline-2025-09-29-v3-32-2-github-250891897-c4382ca3]]'
 source_type: github_releases
 theme: model-support
@@ -77,8 +76,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-09-29 · ChatGPT · [[Changes/ChatGPT/2025-09-29-opt-out-of-model-training-so-their-teen-s-conversations-won-t-be-used-to-improve|Opt out of model training, so their teen’s conversations won’t be used to improve…]]
-- Later: 2025-09-29 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-09-29-3-model-support-changes-in-v0-0-329|3 Model Support changes in v0.0.329]]
+- Earlier: 2025-09-29 · Claude · [[Changes/Claude/2025-09-29-claude-sonnet-4-5-launch|Claude Sonnet 4.5 launch]]
+- Later: 2025-09-29 · ElevenLabs · [[Changes/ElevenLabs/2025-09-29-v1-tts-model-deprecation|v1 TTS model deprecation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2e19f139b8c15f3d951bd2443bc8f28191f377ab4085aec6af867b0298a2ef08
+machine_hash: 4847c131be176d63a7593a2ea2c78d85051f4a83f2a37046926e7951e7f17f3e
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -42,11 +42,10 @@ record:
   title: 2 Agent Mode changes in v1.0.67
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-06-29-remote-control-3ec330|Remote Control]]'
-- '[[Changes/Cursor/2026-06-29-live-activities-and-push-notifications|Live Activities
-  and push notifications]]'
-- '[[Changes/Cursor/2026-06-29-cursor-for-ios-is-now-available-in-public-beta-on-all-paid-plans-launch-and-mana|Cursor
-  for iOS is now available in public beta on all paid plans]]'
+- '[[Changes/ElevenLabs/2026-06-29-elevenagents-a80e26|ElevenAgents]]'
+- '[[Changes/ElevenLabs/2026-06-29-elevenagents-d1c29a|ElevenAgents]]'
+- "[[Changes/Open WebUI/2026-06-29-client-user-agent-forwarded-to-model-backends-the-browser-s-user-agent-is-now-pa|\U0001FAAA
+  Client User-Agent forwarded to model backends. The browser's User-Agent is now…]]"
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-06-30-v1-0-67-github-347129452-cdc0d10f|github-copilot-cli-2026-06-30-v1-0-67-github-347129452-cdc0d10f]]'
 source_type: github_releases
 theme: agent-mode
@@ -85,7 +84,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.67
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-06-29 · Cursor · [[Changes/Cursor/2026-06-29-cursor-for-ios-is-now-available-in-public-beta-on-all-paid-plans-launch-and-mana|Cursor for iOS is now available in public beta on all paid plans]]
+- Earlier: 2026-06-29 · Open WebUI · [[Changes/Open WebUI/2026-06-29-client-user-agent-forwarded-to-model-backends-the-browser-s-user-agent-is-now-pa|🪪 Client User-Agent forwarded to model backends. The browser's User-Agent is now…]]
 - Later: 2026-06-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-30-8-agent-mode-changes-in-v1-0-66|8 Agent Mode changes in v1.0.66]]
 <!-- chronolog:end -->
 

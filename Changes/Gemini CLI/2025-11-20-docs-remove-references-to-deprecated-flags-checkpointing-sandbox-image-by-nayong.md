@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: policy
-machine_hash: 0a9a106b48076f2b04dcc6ef800b3ebb3ed16cb989ab52f06da8b470035fcfd5
+machine_hash: fbefed36d6ed197b81cb35f1d3ac92432c14eabab7091dfd62ee66355722f010
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Safety and Privacy
 
 - Earlier: 2025-11-20 · Codex CLI · [[Changes/Codex CLI/2025-11-20-shell-reliability-and-sandbox-warnings-fallback-shell-selection-is-hardened-and|Shell reliability and sandbox warnings]]
-- Later: 2025-11-27 · Cline · [[Changes/Cline/2025-11-27-maint-npm-audit-fix-for-glob-package-vulnerability-by-canvrno-in-https-github-co|maint: npm audit fix for glob package vulnerability]]
+- Later: 2025-11-21 · Replit · [[Changes/Replit/2025-11-21-hounddog-privacy-scanning-integration|HoundDog privacy scanning integration]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

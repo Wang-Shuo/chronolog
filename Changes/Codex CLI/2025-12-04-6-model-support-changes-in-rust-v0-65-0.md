@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6b5871addbb406ddd3c377f666dd064d2ac2a4bb30d55419a67408c3cdab054e
+machine_hash: c5ad8ebcd905b6217b42dc4a6f4f57d65b22ff0ec62c1e64531315ee3db80556
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -52,8 +52,8 @@ record:
   title: 6 Model Support changes in rust-v0.65.0
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-12-02-5-model-support-changes-in-v0-19-0|5 Model Support
-  changes in v0.19.0]]'
+- '[[Changes/Open WebUI/2025-12-02-9-model-support-changes-in-v0-6-41|9 Model Support
+  changes in v0.6.41]]'
 - '[[Changes/GitHub Copilot CLI/2025-12-03-add-apply-patch-toolchain-for-openai-codex-models|Add
   apply_patch toolchain for OpenAI Codex models]]'
 - '[[Changes/Cline/2025-12-04-feat-set-default-thinking-level-for-gemini-3-pro-models-by-abeatrix-in-https-git|feat:
@@ -105,7 +105,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.65.0
 ## Nearby in Model Support
 
 - Earlier: 2025-12-04 · Cline · [[Changes/Cline/2025-12-04-feat-set-default-thinking-level-for-gemini-3-pro-models-by-abeatrix-in-https-git|feat: set default thinking level for Gemini 3 Pro models]]
-- Later: 2025-12-04 · Windsurf · [[Changes/Windsurf/2025-12-04-1-12-39-gpt-5-1-codex-max-changelog-banner|1.12.39 GPT-5.1 Codex Max changelog banner]]
+- Later: 2025-12-04 · Gemini · [[Changes/Gemini/2025-12-04-solve-even-more-complex-problems-with-gemini-3-deep-think|Solve even more complex problems with Gemini 3 Deep Think]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

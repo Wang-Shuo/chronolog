@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e3cc217fe050138dd94c197c0e667f7ce14791f47f23210ce8865a24ba3022c8
+machine_hash: da0687d7a8a3942d087175a079145a70db717a19147a8f7d8767af52dfbee2a8
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -46,12 +46,12 @@ record:
   title: Keep pinned chats in sync
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-08-14-use-chatgpt-and-codex-on-linux-the-desktop-app-is-now-available-globally-in-publ|Use
-  ChatGPT and Codex on Linux]]'
-- '[[Changes/Codex CLI/2026-08-18-3-mobile-and-desktop-changes-in-rust-v0-148-0|3
-  Mobile and Desktop changes in rust-v0.148.0]]'
 - '[[Changes/Claude Code/2026-08-19-added-notify-when-idle-to-cross-session-sendmessage-ask-another-claude-code-sess|Added
   notify_when_idle to cross-session SendMessage]]'
+- '[[Changes/Gemini/2026-08-19-a-new-dedicated-student-hub-study-notebooks-on-mobile-one-year-of-google-ai-pro|A
+  new dedicated student hub, study notebooks on mobile, one year of Google AI Pro…]]'
+- '[[Changes/Ollama/2026-08-19-new-desktop-onboarding-flow-on-first-launch|New desktop
+  onboarding flow on first launch]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-20-codex-and-chatgpt-feature-updates-c987f574|chatgpt-2026-08-20-codex-and-chatgpt-feature-updates-c987f574]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
@@ -82,7 +82,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-08-19 · Claude Code · [[Changes/Claude Code/2026-08-19-added-notify-when-idle-to-cross-session-sendmessage-ask-another-claude-code-sess|Added notify_when_idle to cross-session SendMessage]]
+- Earlier: 2026-08-19 · Ollama · [[Changes/Ollama/2026-08-19-new-desktop-onboarding-flow-on-first-launch|New desktop onboarding flow on first launch]]
 - Later: 2026-08-20 · Claude Code · [[Changes/Claude Code/2026-08-20-improved-startup-bare-claude-starts-sooner-on-macos|Improved startup: bare claude starts sooner on macOS]]
 <!-- chronolog:end -->
 

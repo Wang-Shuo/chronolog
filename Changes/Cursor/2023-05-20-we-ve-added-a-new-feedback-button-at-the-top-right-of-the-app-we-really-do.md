@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: bd62637ce526caaf4c7351de1d7c0200b39522302a2d47aa2a0e9821e99c22e7
+machine_hash: 4e91690da28892f1c63e2f97055c70507061232dbb76bce21dc250a11ec2eb7c
 product: cursor
 product_name: Cursor
 record:
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2023-05-17 · Cursor · [[Changes/Cursor/2023-05-17-a-better-cursor-tutor-onboarding|A better Cursor Tutor onboarding!]]
-- Later: 2023-06-24 · Cursor · [[Changes/Cursor/2023-06-24-the-chat-has-been-revamped-you-can-now-use-symbols-to-show-files-code-docs-to-th|Chat v2]]
+- Later: 2023-05-30 · Dify · [[Changes/Dify/2023-05-30-chore-input-area-highlight-and-moblie-hide-tooltip-by-iamjoel-in-https-github-co|chore: input area highlight and moblie hide tooltip]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

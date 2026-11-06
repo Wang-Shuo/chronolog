@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7a41f34873205b99c1209a4bcf935f3a57ede56111af459b315adfa44a57df18
+machine_hash: 0defe212a857ccec9418f6424bf6199eadf493aca7b8358589fa56d0584dbae5
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,12 +46,12 @@ record:
     auto-update
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-21-3-reliability-and-performance-changes-in-v2-1-147|3
-  Reliability and Performance changes in v2.1.147]]'
-- '[[Changes/Codex CLI/2026-05-21-23578-fix-app-server-speed-up-shutdown-fcoury-oai|♯23578
-  fix(app-server): speed up shutdown @fcoury-oai]]'
+- '[[Changes/Lovable/2026-05-24-lovable-cloud-database-health-check|Lovable Cloud
+  database health check]]'
 - '[[Changes/Claude Code/2026-05-27-the-usage-breakdown-now-includes-large-session-files-files-are-scanned-with-a-st|The
   /usage breakdown now includes large session files]]'
+- '[[Changes/Lovable/2026-05-27-faster-app-previews-across-regions|Faster app previews
+  across regions]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-28-v2-1-153-github-330532213-2fa9c18a|claude-code-2026-05-28-v2-1-153-github-330532213-2fa9c18a]]'
 source_type: github_releases
 theme: reliability-performance
@@ -87,7 +87,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-05-27 · Claude Code · [[Changes/Claude Code/2026-05-27-the-usage-breakdown-now-includes-large-session-files-files-are-scanned-with-a-st|The /usage breakdown now includes large session files]]
+- Earlier: 2026-05-27 · Lovable · [[Changes/Lovable/2026-05-27-faster-app-previews-across-regions|Faster app previews across regions]]
 - Later: 2026-05-28 · Claude Code · [[Changes/Claude Code/2026-05-28-renamed-the-effort-slider-labels-from-speed-intelligence-to-faster-smarter-for-c|Renamed the /effort slider labels…]]
 <!-- chronolog:end -->
 

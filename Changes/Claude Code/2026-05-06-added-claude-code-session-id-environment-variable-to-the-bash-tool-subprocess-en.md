@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b9addc261c10c08998201d3e569a8783334ec7e3ec02dbbde87297ad605d1e63
+machine_hash: 4432319b28b5cf2912251b2f3e82d414778b06e2d4701f39bcecbab01dcfe5fc
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,8 @@ record:
   title: Added `CLAUDE_CODE_SESSION_ID` environment variable to the Bash tool subprocess…
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-05-01-2-apps-and-integrations-changes-in-1-7-0|2 Apps
-  and Integrations changes in 1.7.0]]'
-- '[[Changes/Claude Code/2026-05-04-6-apps-and-integrations-changes-in-v2-1-128|6
-  Apps and Integrations changes in v2.1.128]]'
+- '[[Changes/ElevenLabs/2026-05-04-python-sdk|Python SDK]]'
+- '[[Changes/ElevenLabs/2026-05-04-javascript-sdk|JavaScript SDK]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-05-2-apps-and-integrations-changes-in-v1-0-41|2
   Apps and Integrations changes in v1.0.41]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-06-v2-1-132-github-318578987-ed60d664|claude-code-2026-05-06-v2-1-132-github-318578987-ed60d664]]'

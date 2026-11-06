@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7a575dfb8004fceb2af2d1089229ecfb868188ea5cab976918c1c17c7cb38d3d
+machine_hash: 309ee39911d8f346768e597383b1bed98d42a7961a449eb54b18463e945cc777
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,12 +43,12 @@ record:
     CLI subcommands
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-02-11-2-account-and-access-changes-in-v0-0-407|2
-  Account and Access changes in v0.0.407]]'
 - '[[Changes/Cline/2026-02-12-2-account-and-access-changes-in-v3-58-0|2 Account and
   Access changes in v3.58.0]]'
 - '[[Changes/Codex CLI/2026-02-12-11521-test-app-server-stabilize-app-list-thread-feature-flag-test-by-using-file|♯11521
   test(app-server): stabilize app/list thread feature-flag test by using…]]'
+- '[[Changes/Open WebUI/2026-02-12-6-account-and-access-changes-in-v0-8-0|6 Account
+  and Access changes in v0.8.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-13-v2-1-41-github-285970764-07a64ba8|claude-code-2026-02-13-v2-1-41-github-285970764-07a64ba8]]'
 source_type: github_releases
 theme: account-access
@@ -80,8 +80,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-02-12 · Codex CLI · [[Changes/Codex CLI/2026-02-12-11521-test-app-server-stabilize-app-list-thread-feature-flag-test-by-using-file|♯11521 test(app-server): stabilize app/list thread feature-flag test by using…]]
-- Later: 2026-02-19 · Claude Code · [[Changes/Claude Code/2026-02-19-improved-performance-by-caching-authentication-failures-for-http-and-sse-mcp-ser|Improved performance by caching authentication failures for HTTP and SSE MCP…]]
+- Earlier: 2026-02-12 · Open WebUI · [[Changes/Open WebUI/2026-02-12-6-account-and-access-changes-in-v0-8-0|6 Account and Access changes in v0.8.0]]
+- Later: 2026-02-16 · Open WebUI · [[Changes/Open WebUI/2026-02-16-oauth-session-error-handling-corrupted-oauth-sessions-are-now-gracefully-handled|🔐 OAuth session error handling. Corrupted OAuth sessions are now gracefully…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

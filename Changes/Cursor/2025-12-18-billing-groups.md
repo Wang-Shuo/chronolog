@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 8959bdea1cbd3ac33aa145ed6620b93704c76ac18bf2678ba3f2c6d55a39d4c7
+machine_hash: 233436fc30efd55d290ef11ce9e8c5585b657cf288814bd2f80c6a95b08516ba
 product: cursor
 product_name: Cursor
 record:
@@ -47,12 +47,11 @@ record:
   title: Billing groups
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-11-07-fixing-minor-formatting-issues-in-quota-and-pricing-md-by-hyangah-in-https-githu|fixing
-  minor formatting issues in quota-and-pricing.md]]'
-- '[[Changes/Codex CLI/2025-11-19-credits-are-now-visible-in-status|Credits are now
-  visible in /status]]'
-- '[[Changes/Codex CLI/2025-12-04-persisting-credits-if-new-snapshot-does-not-contain-credit-info-7490-zhao-oai|persisting
-  credits if new snapshot does not contain credit info ♯7490 @zhao-oai]]'
+- '[[Changes/Dify/2025-12-11-2-pricing-model-changes-in-1-11-0|2 Pricing Model changes
+  in 1.11.0]]'
+- '[[Changes/v0/2025-12-12-v0-mini-fastest-and-most-cost-efficient|v0 Mini : Fastest
+  and most cost-efficient]]'
+- '[[Changes/ElevenLabs/2025-12-15-text-to-speech|Text to Speech]]'
 source_release: '[[Releases/Cursor/cursor-2025-12-18-enterprise-insights-billing-groups-service-accounts-and-improved-23eccccb|cursor-2025-12-18-enterprise-insights-billing-groups-service-accounts-and-improved-23eccccb]]'
 source_type: cursor_changelog
 theme: pricing-model
@@ -87,8 +86,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2025-12-04 · Codex CLI · [[Changes/Codex CLI/2025-12-04-persisting-credits-if-new-snapshot-does-not-contain-credit-info-7490-zhao-oai|persisting credits if new snapshot does not contain credit info ♯7490 @zhao-oai]]
-- Later: 2026-02-04 · Claude Code · [[Changes/Claude Code/2026-02-04-removed-misleading-anthropic-api-pricing-from-model-selector-for-third-party-pro|Removed misleading Anthropic API pricing from model selector for third-party…]]
+- Earlier: 2025-12-15 · ElevenLabs · [[Changes/ElevenLabs/2025-12-15-text-to-speech|Text to Speech]]
+- Later: 2025-12-23 · Lovable · [[Changes/Lovable/2025-12-23-lovable-gift-cards|Lovable gift cards]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

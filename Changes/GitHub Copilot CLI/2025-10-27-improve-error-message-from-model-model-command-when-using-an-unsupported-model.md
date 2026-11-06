@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: dc9e8fdd3ea1b6ea102bf0edd355cd36551c95be1c3b6f5eba6e4a2f92219594
+machine_hash: 5dd683cf9227f7b26178390aaa3c2520229f85eca04e2db0258e9b57e64ab55d
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,12 +45,11 @@ record:
     model
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-10-23-3-model-support-changes-in-rust-v0-48-0|3 Model
-  Support changes in rust-v0.48.0]]'
 - '[[Changes/GitHub Copilot CLI/2025-10-24-improved-prompting-for-sonnet-4-5-to-reduce-the-number-of-intermediate-markdown|Improved
   prompting for Sonnet 4.5 to reduce the number of intermediate markdown…]]'
 - '[[Changes/Cline/2025-10-27-3-model-support-changes-in-v3-34-1|3 Model Support changes
   in v3.34.1]]'
+- '[[Changes/ElevenLabs/2025-10-27-supported-llm-models|Supported LLM Models]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2025-10-27-v0-0-352-github-257631659-752a36ea|github-copilot-cli-2025-10-27-v0-0-352-github-257631659-752a36ea]]'
 source_type: github_releases
 theme: model-support
@@ -79,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-10-27 · Cline · [[Changes/Cline/2025-10-27-3-model-support-changes-in-v3-34-1|3 Model Support changes in v3.34.1]]
+- Earlier: 2025-10-27 · ElevenLabs · [[Changes/ElevenLabs/2025-10-27-supported-llm-models|Supported LLM Models]]
 - Later: 2025-10-29 · Cursor · [[Changes/Cursor/2025-10-29-introducing-our-first-agentic-coding-model-composer-is-a-frontier-model-that-is|Composer]]
 <!-- chronolog:end -->
 

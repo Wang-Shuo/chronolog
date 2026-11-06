@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9b11319e807da722d2745707f8fdb399dcccbc14ed968a7163ef6bac72be783b
+machine_hash: 7e4a113a13739814aa180436ffcb959cec59221e0cb0f06bbd72133fc55edb2b
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -112,7 +112,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.1.18
 ## Nearby in Account and Access
 
 - Earlier: 2025-08-05 · Gemini CLI · [[Changes/Gemini CLI/2025-08-05-6-account-and-access-changes-in-v0-1-17|6 Account and Access changes in v0.1.17]]
-- Later: 2025-08-09 · Codex CLI · [[Changes/Codex CLI/2025-08-09-https-github-com-openai-codex-pull-2042-should-help-fix-the-python-certificates|(source link) should help/fix the Python certificates…]]
+- Later: 2025-08-08 · Replit · [[Changes/Replit/2025-08-08-object-storage-agent-integration|Object Storage Agent integration]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

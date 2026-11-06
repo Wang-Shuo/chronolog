@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: de8f6ecc3d8e8db3571168c9ae555991ad4e30cffa915f48e4fab57ea6ff7d36
+machine_hash: 1eec1610dafdf85313c257af59b9af4eed3238a52832334cca0dcb76f5eb9187
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -49,10 +49,10 @@ record:
   title: 4 Developer Workflow changes in v0.1.19
   type: change
 related_changes:
-- '[[Changes/Aider/2025-08-09-undo-output-now-shows-only-the-first-line-of-each-commit-message-making-it-easie|/undo
-  output now shows only the first line of each commit message, making…]]'
-- '[[Changes/Cline/2025-08-09-revert-unnecessary-terminal-command-issue-workarounds-by-saoudrizwan-in-https-gi|Revert
-  unnecessary terminal command issue workarounds]]'
+- '[[Changes/Open WebUI/2025-08-09-2-developer-workflow-changes-in-v0-6-19|2 Developer
+  Workflow changes in v0.6.19]]'
+- '[[Changes/Dify/2025-08-11-4-developer-workflow-changes-in-1-7-2|4 Developer Workflow
+  changes in 1.7.2]]'
 - '[[Changes/Codex CLI/2025-08-12-2-developer-workflow-changes-in-rust-v0-21-0|2 Developer
   Workflow changes in rust-v0.21.0]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-08-12-v0-1-19-github-239452049-c4d9f679|gemini-cli-2025-08-12-v0-1-19-github-239452049-c4d9f679]]'

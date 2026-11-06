@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 70263b5454a68011e34e3f7ad02ba84d7ffcdc7ced6ce5234dae255907fb8519
+machine_hash: 3a35da30e8bfeea3123da00aeb2c7cda568493f326296b3fbd6eadd7ee689505
 product: windsurf
 product_name: Windsurf
 record:
@@ -46,8 +46,8 @@ record:
   title: Devin Local
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-16-2-apps-and-integrations-changes-in-v1-0-63|2
-  Apps and Integrations changes in v1.0.63]]'
+- '[[Changes/Lovable/2026-06-16-reference-web-pages-in-a-build-with-url-link|Reference
+  web pages in a "Build with URL" link]]'
 - '[[Changes/Windsurf/2026-06-16-outdated-this-entry-refers-to-the-devin-plugin-command-which-has-since-been-rena|
   Outdated: this entry refers to the devin plugin command, which has since…]]'
 - '[[Changes/Windsurf/2026-06-16-improved-handling-for-less-common-mcp-server-features|Improved
@@ -88,7 +88,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-06-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-16-2-apps-and-integrations-changes-in-v1-0-63|2 Apps and Integrations changes in v1.0.63]]
+- Earlier: 2026-06-16 · Lovable · [[Changes/Lovable/2026-06-16-reference-web-pages-in-a-build-with-url-link|Reference web pages in a "Build with URL" link]]
 - Later: 2026-06-17 · ChatGPT · [[Changes/ChatGPT/2026-06-17-monitoring-tasks-can-search-the-web-and-check-connected-apps-for-changes-and-not|Monitoring tasks can search the web and check connected apps for changes and notify…]]
 <!-- chronolog:end -->
 

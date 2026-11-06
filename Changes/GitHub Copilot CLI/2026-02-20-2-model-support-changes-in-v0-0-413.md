@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8602aa8518bde420ee2296c08b87042b2deb18ef22cd8f399f4324be5fc40486
+machine_hash: 8e150f93c682099735b5046e14b47bd279c893c3777e9826abdf107d5ae6efc5
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,9 +43,9 @@ record:
   title: 2 Model Support changes in v0.0.413
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-19-2-model-support-changes-in-v2-1-49|2 Model Support
-  changes in v2.1.49]]'
 - '[[Changes/Cline/2026-02-19-gemini-3-1-pro-preview|Gemini-3.1 Pro Preview]]'
+- '[[Changes/Gemini/2026-02-19-gemini-3-1-pro-a-smarter-model-for-your-most-complex-tasks|Gemini
+  3.1 Pro: A smarter model for your most complex tasks]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-19-2-model-support-changes-in-v0-0-412|2 Model
   Support changes in v0.0.412]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-02-20-v0-0-413-github-288918542-5fe1e9b1|github-copilot-cli-2026-02-20-v0-0-413-github-288918542-5fe1e9b1]]'
@@ -85,7 +85,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v0.0.413
 ## Nearby in Model Support
 
 - Earlier: 2026-02-19 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-19-2-model-support-changes-in-v0-0-412|2 Model Support changes in v0.0.412]]
-- Later: 2026-02-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-23-plan-approval-menu-shows-model-curated-actions-with-a-recommended-option-highlig|Plan approval menu shows model-curated actions with a recommended option highlighted…]]
+- Later: 2026-02-21 · Ollama · [[Changes/Ollama/2026-02-21-2-model-support-changes-in-v0-17-0|2 Model Support changes in v0.17.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

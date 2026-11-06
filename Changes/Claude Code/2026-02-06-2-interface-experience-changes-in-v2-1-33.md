@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 95884a20385a62415020e1be6be08aba0f8d16424fabfe8163123603549fc9c9
+machine_hash: a0d454cff92953e1859dd427945da00d7806366ea42ba1a2ef6bc3f4a12dbe39
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
   title: 2 Interface Experience changes in v2.1.33
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-05-vscode-added-spinner-when-loading-past-conversations-list|VSCode:
-  Added spinner when loading past conversations list]]'
 - '[[Changes/Codex CLI/2026-02-05-2-interface-experience-changes-in-rust-v0-97-0|2
   Interface Experience changes in rust-v0.97.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-05-cancel-resume-session-picker-to-start-a-new-session|Cancel
   --resume session picker to start a new session]]'
+- '[[Changes/Lovable/2026-02-05-reorder-folders-in-the-dashboard-sidebar-via-drag-and-drop-with-support-for-nest|Reorder
+  folders in the dashboard sidebar via drag and drop, with support for nesting…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-06-v2-1-33-github-283581096-0f5b01a0|claude-code-2026-02-06-v2-1-33-github-283581096-0f5b01a0]]'
 source_type: github_releases
 theme: interface-experience
@@ -87,8 +87,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.33
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-02-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-05-cancel-resume-session-picker-to-start-a-new-session|Cancel --resume session picker to start a new session]]
-- Later: 2026-02-10 · ChatGPT · [[Changes/ChatGPT/2026-02-10-we-re-introducing-improvements-to-deep-research-in-chatgpt-to-help-produce-more|Updates to deep research]]
+- Earlier: 2026-02-05 · Lovable · [[Changes/Lovable/2026-02-05-reorder-folders-in-the-dashboard-sidebar-via-drag-and-drop-with-support-for-nest|Reorder folders in the dashboard sidebar via drag and drop, with support for nesting…]]
+- Later: 2026-02-09 · ElevenLabs · [[Changes/ElevenLabs/2026-02-09-user-interface|User Interface]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

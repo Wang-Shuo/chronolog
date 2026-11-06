@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 683daa51634fe0bc0245e132afcb633539592f78527533115e46e0c65a6742e2
+machine_hash: 08334d53f28467e55e5f6a91be0101b0180edd5a9e4811feaf69eed37c970a8d
 product: aider
 product_name: Aider
 record:
@@ -48,12 +48,12 @@ record:
   title: Added support for `--model gpt-4-0125-preview` and OpenAI's alias…
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-01-15-cursor-fast-is-a-newly-trained-model-between-gpt-3-5-and-gpt-4-coding-capabiliti-bb4c11|Cursor-Fast
-  is a newly trained model between gpt-3.5 and gpt-4 coding capabilities…]]'
-- '[[Changes/Cursor/2024-01-18-cursor-fast-this-is-a-new-model-available-in-command-k-and-chat-expect-it-to-be|"cursor-fast":
-  This is a new model available in command-k and chat]]'
-- '[[Changes/Cursor/2024-01-25-both-pro-and-api-key-users-can-also-try-out-gpt-4-0125-preview-by-configuring-th|Both
-  pro and API key users can also try out gpt-4-0125-preview by configuring…]]'
+- '[[Changes/Dify/2024-02-01-4-model-support-changes-in-0-5-3|4 Model Support changes
+  in 0.5.3]]'
+- '[[Changes/Gemini/2024-02-01-bard-with-gemini-pro-is-coming-to-more-languages|Bard
+  with Gemini Pro is coming to more languages]]'
+- '[[Changes/Ollama/2024-02-02-13-model-support-changes-in-v0-1-23|13 Model Support
+  changes in v0.1.23]]'
 source_release: '[[Releases/Aider/aider-2024-02-03-v0-23-0-github-139777047-d2a08520|aider-2024-02-03-v0-23-0-github-139777047-d2a08520]]'
 source_type: github_releases
 theme: model-support
@@ -84,8 +84,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2024-01-25 · Cursor · [[Changes/Cursor/2024-01-25-both-pro-and-api-key-users-can-also-try-out-gpt-4-0125-preview-by-configuring-th|Both pro and API key users can also try out gpt-4-0125-preview by configuring…]]
-- Later: 2024-02-10 · Aider · [[Changes/Aider/2024-02-10-default-gpt-3-5-model-is-now-gpt-3-5-turbo-0125|Default GPT 3.5 model is now gpt-3.5-turbo-0125]]
+- Earlier: 2024-02-02 · Ollama · [[Changes/Ollama/2024-02-02-13-model-support-changes-in-v0-1-23|13 Model Support changes in v0.1.23]]
+- Later: 2024-02-06 · Dify · [[Changes/Dify/2024-02-06-2-model-support-changes-in-0-5-4|2 Model Support changes in 0.5.4]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

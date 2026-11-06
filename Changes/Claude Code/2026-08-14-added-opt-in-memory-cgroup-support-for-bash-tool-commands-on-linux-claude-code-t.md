@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 7e568db9987afa1130208a5fea0e4f1f8660f3acabcbcc926a6b0c3de79804ed
+machine_hash: 8f3e8d0b218093c2dba87d1136f738da174fd98a9204a56aeff5847c5f7f87eb
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,8 +48,8 @@ record:
   title: Added opt-in memory cgroup support for Bash tool commands on Linux…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-08-03-resuming-a-long-session-is-dramatically-faster-and-far-lighter-on-memory-because|Resuming
-  a long session is dramatically faster and far lighter on memory, because…]]'
+- '[[Changes/Ollama/2026-08-04-qwen3-5-is-faster-on-apple-gpus-the-mlx-engine-now-uses-the-model-s-mtp-head-for|Qwen3.5
+  is faster on Apple GPUs]]'
 - '[[Changes/Claude Code/2026-08-10-improved-performance-fewer-event-loop-stalls-on-file-not-found-suggestions-and-a|Improved
   performance: fewer event-loop stalls on file-not-found suggestions…]]'
 - '[[Changes/Cursor/2026-08-13-faster-starts|Faster starts]]'
@@ -90,7 +90,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-08-13 · Cursor · [[Changes/Cursor/2026-08-13-faster-starts|Faster starts]]
-- Later: 2026-08-18 · Claude Code · [[Changes/Claude Code/2026-08-18-2-reliability-and-performance-changes-in-v2-1-235|2 Reliability and Performance changes in v2.1.235]]
+- Later: 2026-08-14 · Ollama · [[Changes/Ollama/2026-08-14-for-apple-silicon-devices-ollama-has-in-particular-optimized-for-maximum-perform|For Apple Silicon devices, Ollama has in particular optimized for maximum…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

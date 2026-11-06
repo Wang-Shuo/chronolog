@@ -4,20 +4,20 @@ date: '2026-06-03'
 description: 'Cursor · 2026-06-03 · Enterprise and Administration: Admins can move
   users between teams through the dashboard, API, or CSV'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin
-    improvements: Team admins can now mark themselves as unpaid users and can see…]]'
+  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
+    for Google Workspace accounts]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 805
+  lag_days: 1125
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7a021304e69f0c7d9700e698dff7c2cac753eeeeb70383f236649b465d949fb4
+machine_hash: c12e2445e1859c60628bf6165f99546b9a6d15752c2b6ba4f51c7c59c36d1005
 product: cursor
 product_name: Cursor
 record:
@@ -41,12 +41,12 @@ record:
   title: Admins can move users between teams through the dashboard, API, or CSV
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-05-11-teams-admins-and-individual-plan-users-can-now-customize-the-effort-level-bugbot|Teams
-  admins and Individual plan users can now customize the effort level Bugbot…]]'
-- '[[Changes/Claude Code/2026-05-13-added-anthropic-workspace-id-environment-variable-for-workload-identity-federati|Added
-  ANTHROPIC_WORKSPACE_ID environment variable for workload identity federation]]'
-- '[[Changes/Codex CLI/2026-05-26-23736-add-new-enterprise-requirement-gate-adams-oai|♯23736
-  Add new enterprise requirement gate @adams-oai]]'
+- '[[Changes/Replit/2026-05-29-upgrade-to-enterprise-without-leaving-replit|Upgrade
+  to Enterprise without leaving Replit]]'
+- '[[Changes/Open WebUI/2026-06-01-2-enterprise-and-administration-changes-in-v0-9-6|2
+  Enterprise and Administration changes in v0.9.6]]'
+- '[[Changes/Claude/2026-06-02-enterprise-plans-can-manage-admin-permissions-with-custom-roles|Enterprise
+  plans can manage admin permissions with custom roles]]'
 source_release: '[[Releases/Cursor/cursor-2026-06-03-organizations-for-cursor-enterprise-https-cursor-com-changelog-e-b5c7f576|cursor-2026-06-03-organizations-for-cursor-enterprise-https-cursor-com-changelog-e-b5c7f576]]'
 source_type: cursor_changelog
 theme: enterprise-admin
@@ -80,14 +80,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-05-26 · Codex CLI · [[Changes/Codex CLI/2026-05-26-23736-add-new-enterprise-requirement-gate-adams-oai|♯23736 Add new enterprise requirement gate @adams-oai]]
+- Earlier: 2026-06-02 · Claude · [[Changes/Claude/2026-06-02-enterprise-plans-can-manage-admin-permissions-with-custom-roles|Enterprise plans can manage admin permissions with custom roles]]
 - Later: 2026-06-04 · ChatGPT · [[Changes/ChatGPT/2026-06-04-we-re-beginning-to-roll-out-ads-for-users-on-free-and-go-plans-in-the-uk-plus-pr|Rolling out ads in the UK]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-03-20 · Cursor · [[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin improvements: Team admins can now mark themselves as unpaid users and can see…]]
+- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

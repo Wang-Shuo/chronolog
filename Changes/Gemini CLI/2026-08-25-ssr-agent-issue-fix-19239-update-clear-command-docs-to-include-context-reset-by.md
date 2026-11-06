@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: a3e50509cd4f129fc76a490e168faefc534be6f62c3bea118c76993eaedcf917
+machine_hash: 6820c2ec9aa730dcdfc99612229cfdb1fa0962cdaa46da03df0ed7aa336a8be5
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -55,12 +55,11 @@ record:
     reset'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-08-20-9-context-window-changes-in-rust-v0-149-0|9 Context
-  Window changes in rust-v0.149.0]]'
-- '[[Changes/Claude Code/2026-08-21-improved-the-reminder-shown-after-compaction-so-a-skill-s-original-arguments-are|Improved
-  the reminder shown after compaction so a skill''s original arguments are not…]]'
-- '[[Changes/Cline/2026-08-21-only-treat-an-anthropic-invalid-request-error-as-a-context-overflow-when-its-mes|Only
-  treat an Anthropic invalid_request_error as a context-overflow…]]'
+- '[[Changes/Ollama/2026-08-21-disabled-claude-code-s-tokens-left-token-countdown-system-message-which-ollama-m|Disabled
+  Claude Code''s "tokens left" token-countdown system message, which Ollama…]]'
+- '[[Changes/Replit/2026-08-21-start-with-conversations|Start with Conversations]]'
+- '[[Changes/Dify/2026-08-25-8-context-window-changes-in-1-17-0|8 Context Window changes
+  in 1.17.0]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-08-25-v0-57-0-github-376624905-82c95bfa|gemini-cli-2026-08-25-v0-57-0-github-376624905-82c95bfa]]'
 source_type: github_releases
 theme: context-window
@@ -95,8 +94,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-08-21 · Cline · [[Changes/Cline/2026-08-21-only-treat-an-anthropic-invalid-request-error-as-a-context-overflow-when-its-mes|Only treat an Anthropic invalid_request_error as a context-overflow…]]
-- Later: 2026-08-26 · Claude Code · [[Changes/Claude Code/2026-08-26-changed-sonnet-5-s-default-auto-compact-window-to-its-full-1m-context-so-session|Changed Sonnet 5's default auto-compact window to its full 1M context, so sessions…]]
+- Earlier: 2026-08-25 · Dify · [[Changes/Dify/2026-08-25-8-context-window-changes-in-1-17-0|8 Context Window changes in 1.17.0]]
+- Later: 2026-08-25 · Open WebUI · [[Changes/Open WebUI/2026-08-25-4-context-window-changes-in-v0-11-1|4 Context Window changes in v0.11.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 5197cec9575d44608c349cfabd56f507cd70da7262ee82e7336f5c70644acba8
+machine_hash: cfd28d11dbe1c3490db73d2fb22b5a95161579f0b1cf7d181a53ca51653ad982
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,10 +42,10 @@ record:
   title: '#9336 rename model turn to sampling request @aibrahim-oai'
   type: change
 related_changes:
-- '[[Changes/Cline/2026-01-15-adding-openai-gpt-5-2-codex-model-to-the-model-picker|Adding
-  OpenAI gpt-5.2-codex model to the model picker]]'
-- '[[Changes/Codex CLI/2026-01-15-2-model-support-changes-in-rust-v0-85-0|2 Model
-  Support changes in rust-v0.85.0]]'
+- '[[Changes/v0/2026-01-15-improved-model-selection-to-persist-per-user-per-team|Improved
+  model selection to persist per user per team]]'
+- '[[Changes/Claude/2026-01-16-opus-4-and-4-1-deprecated-from-claude-and-claude-code|Opus
+  4 and 4.1 deprecated from Claude and Claude Code]]'
 - '[[Changes/Claude Code/2026-01-16-added-support-for-pretooluse-hooks-to-return-additionalcontext-to-the-model|Added
   support for PreToolUse hooks to return additionalContext to the model]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-01-16-rust-v0-87-0-github-277440557-08f55bf8|codex-cli-2026-01-16-rust-v0-87-0-github-277440557-08f55bf8]]'

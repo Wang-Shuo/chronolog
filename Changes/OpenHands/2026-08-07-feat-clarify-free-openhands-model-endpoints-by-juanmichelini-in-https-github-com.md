@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 70b90e25511d42875a079afef620c922a2b4f69cc59d1c95656a4b4d6d9cd091
+machine_hash: 552a19fc86b01ebe47e58df7c0264d133e70969e10e227f42070cd128791970b
 product: openhands
 product_name: OpenHands
 record:
@@ -43,12 +43,12 @@ record:
   title: 'feat: clarify free OpenHands model endpoints'
   type: change
 related_changes:
-- '[[Changes/Cline/2026-08-06-2-model-support-changes-in-v4-1-6|2 Model Support changes
-  in v4.1.6]]'
-- '[[Changes/Claude Code/2026-08-07-changed-the-bash-tool-description-to-always-note-that-command-output-is-displaye|Changed
-  the Bash tool description to always note that command output is displayed…]]'
 - '[[Changes/Codex CLI/2026-08-07-13-model-support-changes-in-rust-v0-147-0|13 Model
   Support changes in rust-v0.147.0]]'
+- '[[Changes/Lovable/2026-08-07-reworked-ai-model-training-settings|Reworked AI model
+  training settings]]'
+- '[[Changes/Lovable/2026-08-07-veo-3-1-video-models-for-your-app-s-ai-features|Veo
+  3.1 video models for your app''s AI features]]'
 source_release: '[[Releases/OpenHands/openhands-2026-08-07-v1-12-0-github-366969030-7453526f|openhands-2026-08-07-v1-12-0-github-366969030-7453526f]]'
 source_type: github_releases
 theme: model-support
@@ -77,7 +77,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-08-07 · Codex CLI · [[Changes/Codex CLI/2026-08-07-13-model-support-changes-in-rust-v0-147-0|13 Model Support changes in rust-v0.147.0]]
+- Earlier: 2026-08-07 · Lovable · [[Changes/Lovable/2026-08-07-veo-3-1-video-models-for-your-app-s-ai-features|Veo 3.1 video models for your app's AI features]]
 - Later: 2026-08-07 · OpenHands · [[Changes/OpenHands/2026-08-07-feat-show-per-run-llm-cost-in-the-activity-log-and-exports-by-hieptl-in-https-gi|feat: show per-run LLM cost in the Activity Log and exports]]
 <!-- chronolog:end -->
 

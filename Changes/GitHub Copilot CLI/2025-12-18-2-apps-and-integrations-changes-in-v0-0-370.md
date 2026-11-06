@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 881e798ddef4e75a2fbba735c126181cd8ee683d64c1d78c7be0d231d757a61c
+machine_hash: 2360285c096b1f93b5babc1547903f73bdf54c9c05aa88017548fd174507e415
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,8 +43,8 @@ record:
   title: 2 Apps and Integrations changes in v0.0.370
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-12-16-added-azure-devops-integration-support-by-zerofltexx-in-https-github-com-openhan|Added
-  Azure DevOps integration support]]'
+- '[[Changes/v0/2025-12-16-you-can-now-connect-v0-to-your-linear-workspace-and-build-straight-from-your-bac|Connect
+  v0 to your Linear workspace and build straight from your backlog]]'
 - '[[Changes/ChatGPT/2025-12-18-you-can-now-browse-and-add-approved-apps-in-the-new-app-directory-apps-let-you-w|Introducing
   the app directory in ChatGPT]]'
 - '[[Changes/Codex CLI/2025-12-18-2-apps-and-integrations-changes-in-rust-v0-74-0|2

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 91fbab7b79c1abd0e27c7e31369025d0ca457816ca41866dad8523829871c1c3
+machine_hash: 19eb2d79cb124e8c8884abd256c6bd19f20104e4537c7d1e467df3a84b7c8d42
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,8 +43,8 @@ record:
   title: Added `.jj` and `.sl` to VCS directory exclusion lists so Grep and file autocomplete…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-25-3-editor-experience-changes-in-v2-1-83|3 Editor
-  Experience changes in v2.1.83]]'
+- '[[Changes/Open WebUI/2026-03-25-4-editor-experience-changes-in-v0-8-11|4 Editor
+  Experience changes in v0.8.11]]'
 - '[[Changes/Codex CLI/2026-03-26-15480-use-shift-left-to-edit-queued-messages-in-tmux-charley-oai|♯15480
   Use Shift+Left to edit queued messages in tmux @charley-oai]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-26-diff-view-correctly-renders-all-lines-when-intra-line-highlighting-is-present|/diff
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-03-26 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-26-diff-view-correctly-renders-all-lines-when-intra-line-highlighting-is-present|/diff view correctly renders all lines when intra-line highlighting is present]]
-- Later: 2026-03-31 · Codex CLI · [[Changes/Codex CLI/2026-03-31-16021-fix-copy-regression-in-tui-app-server-turn-completion-etraut-openai|♯16021 Fix /copy regression in tui_app_server turn completion @etraut-openai]]
+- Later: 2026-03-27 · Dify · [[Changes/Dify/2026-03-27-2-editor-experience-changes-in-1-13-3|2 Editor Experience changes in 1.13.3]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

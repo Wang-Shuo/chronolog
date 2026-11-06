@@ -5,20 +5,20 @@ description: 'Cursor · 2025-10-29 · Voice and Audio: Control Agent with your v
   using built-in speech-to-text conversion. You can also define custom submit keywords
   in…'
 diffusion:
-  first_in_tracked: '[[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source
-    link) support, which allows you…]]'
+  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
+    Voice and Audio changes in 0.3.7]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 810
+  lag_days: 842
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 6934c2198eff4b02269d5be348d13408a2a5d384488b892a142b3cc1f71e820e
+machine_hash: 24078755ae17fd406a727744d7b57fed5b2ae4473a90fd9396dc123376736de3
 product: cursor
 product_name: Cursor
 record:
@@ -47,12 +47,10 @@ record:
   title: Voice Mode
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-09-09-last-month-we-announced-that-everyone-now-has-access-to-advanced-voice-mode-with-d861d2|ChatGPT
-  Voice Update]]'
-- '[[Changes/Cline/2025-09-25-3-voice-and-audio-changes-in-v3-31-0|3 Voice and Audio
-  changes in v3.31.0]]'
-- '[[Changes/ChatGPT/2025-09-29-turn-off-voice-mode-to-remove-the-option-to-use-voice-mode-in-chatgpt|Turn
-  off voice mode, to remove the option to use voice mode in ChatGPT]]'
+- '[[Changes/ElevenLabs/2025-10-07-voice-management-a4407c|Voice Management]]'
+- "[[Changes/Open WebUI/2025-10-07-azure-text-to-speech-now-properly-escapes-special-characters-like-ampersands-in|\U0001F50A
+  Azure Text-to-Speech now properly escapes special characters like ampersands…]]"
+- '[[Changes/ElevenLabs/2025-10-27-workspaces|Workspaces]]'
 source_release: '[[Releases/Cursor/cursor-2025-10-29-2-0-https-cursor-com-changelog-2-0-66a8e76e|cursor-2025-10-29-2-0-https-cursor-com-changelog-2-0-66a8e76e]]'
 source_type: cursor_changelog
 theme: voice
@@ -101,14 +99,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2025-09-29 · ChatGPT · [[Changes/ChatGPT/2025-09-29-turn-off-voice-mode-to-remove-the-option-to-use-voice-mode-in-chatgpt|Turn off voice mode, to remove the option to use voice mode in ChatGPT]]
-- Later: 2025-11-13 · Cline · [[Changes/Cline/2025-11-13-2-voice-and-audio-changes-in-v3-37-0|2 Voice and Audio changes in v3.37.0]]
+- Earlier: 2025-10-27 · ElevenLabs · [[Changes/ElevenLabs/2025-10-27-workspaces|Workspaces]]
+- Later: 2025-11-05 · ElevenLabs · [[Changes/ElevenLabs/2025-11-05-music-api|Music API]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-08-11 · Aider · [[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source link) support, which allows you…]]
+- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

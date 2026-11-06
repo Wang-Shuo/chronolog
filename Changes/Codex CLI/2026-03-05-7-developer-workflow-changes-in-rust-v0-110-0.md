@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d7c6efe59e3a57f9f2eeeb23e2a16efdf5224d29fab06955ce9de6381b844792
+machine_hash: d1f71a70a7eb1560441daf79202ddf45e1644daa32ea7018ec570e3b4e2c89f2
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -56,10 +56,10 @@ record:
   title: 7 Developer Workflow changes in rust-v0.110.0
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-03-03-2-developer-workflow-changes-in-v0-32-0|2 Developer
-  Workflow changes in v0.32.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-03-4-developer-workflow-changes-in-v0-0-421|4
   Developer Workflow changes in v0.0.421]]'
+- '[[Changes/v0/2026-03-03-added-git-support-for-version-control-in-projects|Added
+  Git support for version control in projects]]'
 - '[[Changes/Claude Code/2026-03-05-6-developer-workflow-changes-in-v2-1-69|6 Developer
   Workflow changes in v2.1.69]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-03-05-rust-v0-110-0-github-293239637-d5d06302|codex-cli-2026-03-05-rust-v0-110-0-github-293239637-d5d06302]]'

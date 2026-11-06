@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f45e4c452fe18835399ef9cdd8686715fbf63447476c10dcec42353dc4104e29
+machine_hash: 5cbc07a9e58740cad960587786c4609fdcb9c6b772536d7d5fa79c0f6085236d
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -47,12 +47,12 @@ record:
   title: 3 Reliability and Performance changes in rust-v0.105.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-20-3-reliability-and-performance-changes-in-v2-1-50|3
-  Reliability and Performance changes in v2.1.50]]'
-- '[[Changes/GitHub Copilot CLI/2026-02-20-improve-code-search-speed-in-large-repos|Improve
-  code search speed in large repos]]'
+- '[[Changes/Open WebUI/2026-02-23-10-reliability-and-performance-changes-in-v0-8-4|10
+  Reliability and Performance changes in v0.8.4]]'
 - '[[Changes/Cline/2026-02-24-preconnect-websocket-to-reduce-response-latency|Preconnect
   websocket to reduce response latency]]'
+- '[[Changes/Ollama/2026-02-24-mlx-engine-now-has-improved-memory-usage|MLX engine
+  now has improved memory usage]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-02-25-rust-v0-105-0-github-290476287-0c72d1ed|codex-cli-2026-02-25-rust-v0-105-0-github-290476287-0c72d1ed]]'
 source_type: github_releases
 theme: reliability-performance
@@ -101,7 +101,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.105.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-02-24 · Cline · [[Changes/Cline/2026-02-24-preconnect-websocket-to-reduce-response-latency|Preconnect websocket to reduce response latency]]
+- Earlier: 2026-02-24 · Ollama · [[Changes/Ollama/2026-02-24-mlx-engine-now-has-improved-memory-usage|MLX engine now has improved memory usage]]
 - Later: 2026-02-25 · Gemini CLI · [[Changes/Gemini CLI/2026-02-25-2-reliability-and-performance-changes-in-v0-30-0|2 Reliability and Performance changes in v0.30.0]]
 <!-- chronolog:end -->
 

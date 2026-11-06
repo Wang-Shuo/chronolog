@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8820ecb8f4a5da5b8eb12a5043e95c32fc09eee26bfb98bdfbcff8c169d0bc1e
+machine_hash: 78300de9298304ad8a4f55e10bca8fb7a4549bc918c4119ca346fb73b63d563a
 product: cline
 product_name: Cline
 record:
@@ -42,12 +42,12 @@ record:
   title: Throttle diff view updates during streaming to reduce UI flickering and improve…
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-01-21-2-reliability-and-performance-changes-in-v0-25-0|2
-  Reliability and Performance changes in v0.25.0]]'
 - '[[Changes/Cursor/2026-01-22-4-reliability-and-performance-changes-in-2-4|4 Reliability
   and Performance changes in 2.4]]'
 - '[[Changes/Windsurf/2026-01-23-improved-overall-stability-and-reliability|Improved
   overall stability and reliability]]'
+- '[[Changes/Ollama/2026-01-24-glm-4-7-flash-performance-and-correctness-improvements-fixing-repetitive-answers|GLM-4.7-Flash
+  performance and correctness improvements, fixing repetitive answers…]]'
 source_release: '[[Releases/Cline/cline-2026-01-27-v3-54-0-github-280361451-f31b8c09|cline-2026-01-27-v3-54-0-github-280361451-f31b8c09]]'
 source_type: github_releases
 theme: reliability-performance
@@ -79,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-01-23 · Windsurf · [[Changes/Windsurf/2026-01-23-improved-overall-stability-and-reliability|Improved overall stability and reliability]]
+- Earlier: 2026-01-24 · Ollama · [[Changes/Ollama/2026-01-24-glm-4-7-flash-performance-and-correctness-improvements-fixing-repetitive-answers|GLM-4.7-Flash performance and correctness improvements, fixing repetitive answers…]]
 - Later: 2026-01-30 · Windsurf · [[Changes/Windsurf/2026-01-30-various-bug-fixes-and-performance-improvements|Various bug fixes and performance improvements]]
 <!-- chronolog:end -->
 

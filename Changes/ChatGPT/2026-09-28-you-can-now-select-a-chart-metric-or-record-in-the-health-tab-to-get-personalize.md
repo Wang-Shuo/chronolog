@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b5fe468bf203a5ffe8b3426e40ddef8d000555acbcdca5d946d6a4ba625e6eea
+machine_hash: 207609e49fef5efea2d2ed7ac8fccad9466ca238a8dca958fb0af279705f6b92
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -44,12 +44,12 @@ record:
   title: Explore your health data with personalized summaries
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-22-vscode-changed-open-in-new-tab-to-open-claude-beside-the-editor-group-you-are-wo|VSCode
-  Changed "Open in New Tab" to open Claude beside the editor group you…]]'
 - '[[Changes/Codex CLI/2026-09-22-6-editor-experience-changes-in-rust-v0-156-0|6 Editor
   Experience changes in rust-v0.156.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-22-in-the-sessions-tab-rows-you-can-dismiss-now-take-x-then-x-again-to-confirm-a-lo|In
   the Sessions tab, rows you can dismiss now take x then x again to confirm]]'
+- '[[Changes/Lovable/2026-09-25-open-cited-web-sources-from-an-answer|Open cited web
+  sources from an answer]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-28-explore-your-health-data-with-personalized-summaries-bc04c126|chatgpt-2026-09-28-explore-your-health-data-with-personalized-summaries-bc04c126]]'
 source_type: chatgpt_changelog
 theme: editor-experience
@@ -76,7 +76,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-09-22 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-22-in-the-sessions-tab-rows-you-can-dismiss-now-take-x-then-x-again-to-confirm-a-lo|In the Sessions tab, rows you can dismiss now take x then x again to confirm]]
+- Earlier: 2026-09-25 · Lovable · [[Changes/Lovable/2026-09-25-open-cited-web-sources-from-an-answer|Open cited web sources from an answer]]
 - Later: 2026-09-28 · Claude Code · [[Changes/Claude Code/2026-09-28-changed-ultracode-into-its-own-toggle-in-effort-tab-or-effort-ultracode-on-off-i|Changed Ultracode into its own toggle in /effort (Tab, or /effort ultracode on / off)]]
 <!-- chronolog:end -->
 

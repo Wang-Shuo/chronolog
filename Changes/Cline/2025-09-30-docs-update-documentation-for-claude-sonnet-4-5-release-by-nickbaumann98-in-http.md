@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 68b466348e41ceedc102b24d978bf01dc5d80627215543889ab6f91c44b795e2
+machine_hash: 5c4d74506c3fd94177e5f01e59d0d9e579988fe7f99e9b29166567132b502ba2
 product: cline
 product_name: Cline
 record:
@@ -44,10 +44,10 @@ record:
   title: 'docs: update documentation for Claude Sonnet 4.5 release'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2025-09-29-added-model-slash-command-to-easily-change-the-model-fixes-https-github-com-gith|Added
-  /model slash command to easily change the model…]]'
 - '[[Changes/GitHub Copilot CLI/2025-09-29-changed-the-default-model-back-to-sonnet-4-since-sonnet-4-5-hasn-t-rolled-out-to|Changed
   the default model back to Sonnet 4 since Sonnet 4.5 hasn''t rolled out to all…]]'
+- "[[Changes/Open WebUI/2025-09-29-the-set-as-default-option-is-now-reliably-clickable-in-model-and-filter-selectio|\U0001F41B
+  The \"Set as default\" option is now reliably clickable in model and filter…]]"
 - '[[Changes/Windsurf/2025-09-29-claude-sonnet-4-5|Claude Sonnet 4.5]]'
 source_release: '[[Releases/Cline/cline-2025-09-30-v3-32-5-github-250971159-c4279197|cline-2025-09-30-v3-32-5-github-250971159-c4279197]]'
 source_type: github_releases

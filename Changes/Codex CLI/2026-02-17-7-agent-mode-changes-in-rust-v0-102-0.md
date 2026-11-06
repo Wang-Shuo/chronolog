@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 63eaad957fd4f6ab3a92013dc0df6f7dc1a491976b63c5f9a207241b71233465
+machine_hash: 85eea563877eda8b6f480bebcb0bd555ca30179de90b5cc2ad2bf3d3a441ff7e
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -53,12 +53,9 @@ record:
   title: 7 Agent Mode changes in rust-v0.102.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-02-12-2-agent-mode-changes-in-rust-v0-100-0|2 Agent Mode
-  changes in rust-v0.100.0]]'
-- '[[Changes/Cursor/2026-02-12-cursor-can-now-work-autonomously-over-longer-horizons-to-complete-larger-more-co-48843c|Long-running
-  Agents in Research Preview]]'
-- '[[Changes/GitHub Copilot CLI/2026-02-12-subagents-return-complete-responses|Subagents
-  return complete responses]]'
+- '[[Changes/ElevenLabs/2026-02-16-elevenagents|ElevenAgents]]'
+- '[[Changes/ElevenLabs/2026-02-16-elevenagents-31304c|ElevenAgents]]'
+- '[[Changes/ElevenLabs/2026-02-16-new-endpoints|New Endpoints]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-02-17-rust-v0-102-0-github-287401154-1bf3dbd0|codex-cli-2026-02-17-rust-v0-102-0-github-287401154-1bf3dbd0]]'
 source_type: github_releases
 theme: agent-mode
@@ -111,7 +108,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.102.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-02-12 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-12-subagents-return-complete-responses|Subagents return complete responses]]
+- Earlier: 2026-02-16 · ElevenLabs · [[Changes/ElevenLabs/2026-02-16-new-endpoints|New Endpoints]]
 - Later: 2026-02-17 · Cursor · [[Changes/Cursor/2026-02-17-async-subagents|Async subagents]]
 <!-- chronolog:end -->
 

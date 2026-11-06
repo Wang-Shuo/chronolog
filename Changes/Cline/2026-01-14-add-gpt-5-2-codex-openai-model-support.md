@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 3a282810a38927376ff2f1d40488837255b82698c0d9814248ca3d3e648bb802
+machine_hash: 61414fd9c3f2894ee731b024b0fd8b73bbe06381760d67278ded42b061fc075a
 product: cline
 product_name: Cline
 record:
@@ -43,10 +43,10 @@ record:
   title: Add gpt-5.2-codex OpenAI model support
   type: change
 related_changes:
-- '[[Changes/Cline/2026-01-10-removing-minimax-2-1-from-free-model-list-as-the-free-trial-has-ended|Removing
-  Minimax-2.1 from free model list as the free trial has ended]]'
 - '[[Changes/Cline/2026-01-13-phase-in-responses-api-usage-instead-of-defaulting-for-every-supported-model|Phase
   in Responses API usage instead of defaulting for every supported model]]'
+- '[[Changes/Dify/2026-01-13-8-model-support-changes-in-1-11-3|8 Model Support changes
+  in 1.11.3]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-13-retrieving-models-handles-network-errors-from-firewalled-routes-gracefully-raise|Retrieving
   models handles network errors from firewalled routes gracefully, raises…]]'
 source_release: '[[Releases/Cline/cline-2026-01-14-v3-50-0-github-276897691-eb68a5d7|cline-2026-01-14-v3-50-0-github-276897691-eb68a5d7]]'

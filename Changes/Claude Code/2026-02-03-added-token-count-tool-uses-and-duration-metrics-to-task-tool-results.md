@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 573d05c3637d4d12f1e902d924e76e193b3f63bf16fdb113fb24d7578bede59b
+machine_hash: 2cf1920f1749acebfd920bf8ff9888030346d44c93f8b6d5ace250f62cfac987
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,12 +43,9 @@ record:
   title: Added token count, tool uses, and duration metrics to Task tool results
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-01-28-add-acp-flag-to-start-as-agent-client-protocol-server|Add
-  --acp flag to start as Agent Client Protocol server]]'
-- '[[Changes/GitHub Copilot CLI/2026-01-29-2-agent-mode-changes-in-v0-0-399|2 Agent
-  Mode changes in v0.0.399]]'
-- '[[Changes/Codex CLI/2026-02-02-2-agent-mode-changes-in-rust-v0-94-0|2 Agent Mode
-  changes in rust-v0.94.0]]'
+- '[[Changes/ElevenLabs/2026-02-02-javascript-sdk|JavaScript SDK]]'
+- '[[Changes/ElevenLabs/2026-02-02-agents-platform|Agents Platform]]'
+- '[[Changes/ElevenLabs/2026-02-02-agents-platform-fb792c|Agents Platform]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-03-v2-1-30-github-282673902-7b2e46f2|claude-code-2026-02-03-v2-1-30-github-282673902-7b2e46f2]]'
 source_type: github_releases
 theme: agent-mode
@@ -84,8 +81,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-02-02 · Codex CLI · [[Changes/Codex CLI/2026-02-02-2-agent-mode-changes-in-rust-v0-94-0|2 Agent Mode changes in rust-v0.94.0]]
-- Later: 2026-02-03 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-03-4-agent-mode-changes-in-v0-0-402|4 Agent Mode changes in v0.0.402]]
+- Earlier: 2026-02-02 · ElevenLabs · [[Changes/ElevenLabs/2026-02-02-agents-platform-fb792c|Agents Platform]]
+- Later: 2026-02-03 · Dify · [[Changes/Dify/2026-02-03-9-agent-mode-changes-in-1-12-0|9 Agent Mode changes in 1.12.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

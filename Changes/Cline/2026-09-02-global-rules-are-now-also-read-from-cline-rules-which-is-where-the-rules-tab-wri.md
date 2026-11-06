@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a43b63cf34dfd4db85ddbf41db659299bf62d0833e81be496090d539727cbb70
+machine_hash: 29ae8423301da9bcc4c5f62b44049cf457b0e69f3a280123427f5897ef85b85f
 product: cline
 product_name: Cline
 record:
@@ -58,10 +58,10 @@ record:
     tab…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-01-3-developer-workflow-changes-in-v2-1-257|3 Developer
-  Workflow changes in v2.1.257]]'
-- '[[Changes/Codex CLI/2026-09-01-6-developer-workflow-changes-in-rust-v0-152-0|6
-  Developer Workflow changes in rust-v0.152.0]]'
+- '[[Changes/v0/2026-09-01-create-open-or-merge-a-pull-request|Create, open, or merge
+  a pull request]]'
+- '[[Changes/v0/2026-09-01-your-repository-remains-the-source-of-truth-required-checks-reviews-merge-restri|Your
+  repository remains the source of truth]]'
 - '[[Changes/Claude Code/2026-09-02-improved-terminal-resize-and-first-render-performance-for-long-responses-by-reus|Improved
   terminal resize and first-render performance for long responses by reusing…]]'
 source_release: '[[Releases/Cline/cline-2026-09-02-v4-1-17-github-381000681-694bbda2|cline-2026-09-02-v4-1-17-github-381000681-694bbda2]]'

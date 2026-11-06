@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 336d18c38a7cce06f8daf595480b12ff0fbe327a5809b086517a79daf03fbcaf
+machine_hash: ed47b2b39f74b853b6aea3f0fedad8fcc93e3de8453b255e378c59c5728aa353
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,10 +51,10 @@ record:
   title: 4 Interface Experience changes in v2.1.121
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-23-4-interface-experience-changes-in-v1-0-35|4
-  Interface Experience changes in v1.0.35]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-24-subcommand-picker-shows-a-selection-indicator-next-to-the-highlighted-item|Subcommand
   picker shows a selection indicator (❯) next to the highlighted item]]'
+- '[[Changes/Lovable/2026-04-24-dashboard-organization-and-navigation|Dashboard organization
+  and navigation]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-27-2-interface-experience-changes-in-v1-0-37|2
   Interface Experience changes in v1.0.37]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-28-v2-1-121-github-314262096-ff31d5ce|claude-code-2026-04-28-v2-1-121-github-314262096-ff31d5ce]]'

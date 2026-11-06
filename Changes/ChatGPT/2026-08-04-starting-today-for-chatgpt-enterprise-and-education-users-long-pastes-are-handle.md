@@ -5,20 +5,20 @@ description: 'ChatGPT · 2026-08-04 · Enterprise and Administration: Starting t
   for ChatGPT Enterprise and Education users, long pastes are handled differently
   in ChatGPT.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin
-    improvements: Team admins can now mark themselves as unpaid users and can see…]]'
+  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
+    for Google Workspace accounts]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 867
+  lag_days: 1187
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9ee983e88b74fb4746ab15e4e5307175f69a304ac4bc6ed9b5395586123ee787
+machine_hash: dccde4bccad40537c4781ef0c670900503cffe36c699c58030e8cb86902c8e76
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -45,11 +45,10 @@ record:
     handled…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-15-changed-usage-credits-to-ask-for-confirmation-before-sending-a-request-to-organi|Changed
-  /usage-credits to ask for confirmation before sending a request…]]'
-- '[[Changes/Cursor/2026-07-22-admin-controls|Admin controls]]'
-- '[[Changes/Codex CLI/2026-07-29-2-enterprise-and-administration-changes-in-rust-v0-146-0|2
-  Enterprise and Administration changes in rust-v0.146.0]]'
+- '[[Changes/Lovable/2026-07-30-private-registry-is-now-managed-registry|Private registry
+  is now Managed registry]]'
+- '[[Changes/Replit/2026-07-31-teams-and-enterprise|Teams and Enterprise]]'
+- '[[Changes/Replit/2026-07-31-stay-signed-in-longer|Stay signed in longer]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-04-large-pastes-are-now-handled-as-attachments-for-all-plans-8f11f30a|chatgpt-2026-08-04-large-pastes-are-now-handled-as-attachments-for-all-plans-8f11f30a]]'
 source_type: chatgpt_changelog
 theme: enterprise-admin
@@ -79,14 +78,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-07-29 · Codex CLI · [[Changes/Codex CLI/2026-07-29-2-enterprise-and-administration-changes-in-rust-v0-146-0|2 Enterprise and Administration changes in rust-v0.146.0]]
-- Later: 2026-08-10 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-08-10-2-enterprise-and-administration-changes-in-v1-0-79|2 Enterprise and Administration changes in v1.0.79]]
+- Earlier: 2026-07-31 · Replit · [[Changes/Replit/2026-07-31-stay-signed-in-longer|Stay signed in longer]]
+- Later: 2026-08-07 · Lovable · [[Changes/Lovable/2026-08-07-unlimited-email-invites-on-paid-plans|Unlimited email invites on paid plans]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-03-20 · Cursor · [[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin improvements: Team admins can now mark themselves as unpaid users and can see…]]
+- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

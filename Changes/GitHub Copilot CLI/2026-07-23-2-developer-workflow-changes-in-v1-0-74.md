@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: accbc626bf60b99e6d6f5b4412d7340b8cf400a088113127e07177b043aa804b
+machine_hash: 4d627c7f1fbb928ebd86c8d1ba3f5ac557bd5b1ee7366fa2cec441d255cdf2b8
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,10 +43,10 @@ record:
   title: 2 Developer Workflow changes in v1.0.74
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-21-improved-footer-pr-badge-links-to-be-clickable-hyperlinks-even-when-terminal-sup|Improved
-  footer PR badge links to be clickable hyperlinks even when terminal support…]]'
 - '[[Changes/Codex CLI/2026-07-21-12-developer-workflow-changes-in-rust-v0-145-0|12
   Developer Workflow changes in rust-v0.145.0]]'
+- '[[Changes/v0/2026-07-21-2-developer-workflow-changes-in-slash-commands-the-shopify|2
+  Developer Workflow changes in Slash commands, the Shopify…]]'
 - '[[Changes/Claude Code/2026-07-22-changed-code-review-to-run-as-a-background-subagent-so-review-work-no-longer-fil|Changed
   /code-review to run as a background subagent, so review work no longer…]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-07-23-v1-0-74-github-358979195-44813cc5|github-copilot-cli-2026-07-23-v1-0-74-github-358979195-44813cc5]]'
@@ -88,7 +88,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.74
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-07-22 · Claude Code · [[Changes/Claude Code/2026-07-22-changed-code-review-to-run-as-a-background-subagent-so-review-work-no-longer-fil|Changed /code-review to run as a background subagent, so review work no longer…]]
-- Later: 2026-07-28 · Gemini CLI · [[Changes/Gemini CLI/2026-07-28-feat-evals-add-eval-coverage-report-command-by-ved015-in-https-github-com-google|feat(evals): add eval coverage report command]]
+- Later: 2026-07-27 · Open WebUI · [[Changes/Open WebUI/2026-07-27-62-developer-workflow-changes-in-v0-11-0|62 Developer Workflow changes in v0.11.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

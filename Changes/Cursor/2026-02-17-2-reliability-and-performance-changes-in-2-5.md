@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 84e03cd236e3c53d99feb5340e2ac337c4f2b445d065ba8a92a6bfabd58a33fc
+machine_hash: 17cfa1358da688af14db9e2bef450b97aadd347737224d76d3d10b5379a506d5
 product: cursor
 product_name: Cursor
 record:
@@ -44,8 +44,8 @@ record:
   title: 2 Reliability and Performance changes in 2.5
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-02-14-reduce-memory-usage-from-encoding-streaming-chunks|Reduce
-  memory usage from encoding streaming chunks]]'
+- '[[Changes/Open WebUI/2026-02-14-2-reliability-and-performance-changes-in-v0-8-1|2
+  Reliability and Performance changes in v0.8.1]]'
 - '[[Changes/Claude Code/2026-02-17-improved-memory-usage-for-shell-commands-that-produce-large-output-rss-no-longer|Improved
   memory usage for shell commands that produce large output]]'
 - '[[Changes/Codex CLI/2026-02-17-removed-the-remote-models-feature-flag-to-prevent-fallback-model-metadata-when-i|Removed

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5fa29d81f2cb36adecbd2e00f36bea14bc5847b879f529c0dafd746f7406feed
+machine_hash: 1e7b35236c503cdb5e4fc540ed08f62f26b48810abf33e9a01589d07d177da3f
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,12 +49,11 @@ record:
   title: 3 Interface Experience changes in v2.1.234
   type: change
 related_changes:
-- '[[Changes/Cline/2026-08-11-make-the-auto-approve-menu-the-single-source-of-truth-for-unattended-runs-and-re|Make
-  the auto-approve menu the single source of truth for unattended runs and remove…]]'
-- '[[Changes/Claude Code/2026-08-12-vscode-added-session-groups-in-the-sidebar-right-click-to-create-rename-or-delet|VSCode
-  Added session groups in the sidebar]]'
 - '[[Changes/Claude Code/2026-08-13-improved-fullscreen-streaming-long-sessions-stay-responsive-because-the-whole-co|Improved
   fullscreen streaming]]'
+- '[[Changes/Replit/2026-08-14-choose-a-workspace-region|Choose a workspace region]]'
+- '[[Changes/v0/2026-08-14-4-interface-experience-changes-in-a-redesigned-sidebar-a-richer|4
+  Interface Experience changes in A redesigned sidebar, a richer…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-17-v2-1-234-github-371864218-2ca32673|claude-code-2026-08-17-v2-1-234-github-371864218-2ca32673]]'
 source_type: github_releases
 theme: interface-experience
@@ -97,7 +96,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.234
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-08-13 · Claude Code · [[Changes/Claude Code/2026-08-13-improved-fullscreen-streaming-long-sessions-stay-responsive-because-the-whole-co|Improved fullscreen streaming]]
+- Earlier: 2026-08-14 · v0 · [[Changes/v0/2026-08-14-4-interface-experience-changes-in-a-redesigned-sidebar-a-richer|4 Interface Experience changes in A redesigned sidebar, a richer…]]
 - Later: 2026-08-18 · Codex CLI · [[Changes/Codex CLI/2026-08-18-13-interface-experience-changes-in-rust-v0-148-0|13 Interface Experience changes in rust-v0.148.0]]
 <!-- chronolog:end -->
 

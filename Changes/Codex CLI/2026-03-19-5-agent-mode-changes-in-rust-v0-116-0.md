@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 53bf200a7098ab13533bdbed162cf34afade5d6f86c59eefdf6ebc77d1e7c2fe
+machine_hash: 651b70ff95a262055614988192842f547c63b4c5d051958bb0ea76131e972a5d
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -49,10 +49,10 @@ record:
   title: 5 Agent Mode changes in rust-v0.116.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-17-2-agent-mode-changes-in-v2-1-77|2 Agent Mode changes
-  in v2.1.77]]'
 - '[[Changes/Gemini CLI/2026-03-17-7-agent-mode-changes-in-v0-34-0|7 Agent Mode changes
   in v0.34.0]]'
+- '[[Changes/Ollama/2026-03-17-you-can-ask-your-openclaw-to-run-tasks-using-claude-with-subagents|You
+  can ask your OpenClaw to run tasks using claude with subagents]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-18-2-agent-mode-changes-in-v1-0-8|2 Agent
   Mode changes in v1.0.8]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-03-19-rust-v0-116-0-github-299083035-eb74e2fd|codex-cli-2026-03-19-rust-v0-116-0-github-299083035-eb74e2fd]]'
@@ -104,7 +104,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.116.0
 ## Nearby in Agent Mode
 
 - Earlier: 2026-03-18 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-18-2-agent-mode-changes-in-v1-0-8|2 Agent Mode changes in v1.0.8]]
-- Later: 2026-03-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-23-2-agent-mode-changes-in-v1-0-11|2 Agent Mode changes in v1.0.11]]
+- Later: 2026-03-20 · Replit · [[Changes/Replit/2026-03-20-empty-project-creation|Empty project creation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

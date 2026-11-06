@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6962e2b55b3ab49c51261d584f9bd7ef7773837a17f029890e09f53941adc5ea
+machine_hash: 48ba73cf9e6706bf52ca71cf226f5668b04f9a5167f2cfa659734808665d9b67
 product: cursor
 product_name: Cursor
 record:
@@ -96,7 +96,7 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2026-02-17 · Codex CLI · [[Changes/Codex CLI/2026-02-17-4-context-window-changes-in-rust-v0-102-0|4 Context Window changes in rust-v0.102.0]]
-- Later: 2026-02-18 · Codex CLI · [[Changes/Codex CLI/2026-02-18-2-context-window-changes-in-rust-v0-104-0|2 Context Window changes in rust-v0.104.0]]
+- Later: 2026-02-17 · Open WebUI · [[Changes/Open WebUI/2026-02-17-image-and-file-attachment-handling-fixes-uploaded-images-are-now-correctly-sent|🖼️ Image and file attachment handling fixes. Uploaded images are now correctly…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

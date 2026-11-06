@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8e8ea63f4031f9daf0c4aa02069cf284d774302deafe5cb687dd3f91511d7d4c
+machine_hash: 2be8ba3ac291d6d6988edf95372bbb2a9653de87c7db576e01b75a0b5202c5da
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,12 +49,12 @@ record:
   title: 3 Editor Experience changes in v2.1.269
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-09-04-2-editor-experience-changes-in-v1-0-83|2
-  Editor Experience changes in v1.0.83]]'
-- '[[Changes/Codex CLI/2026-09-09-42746-handle-pending-network-reviews-after-process-completion-copyberry|♯42746
-  Handle pending network reviews after process completion @copyberry]]'
 - '[[Changes/Claude Code/2026-09-10-added-browser-tab-icons-for-published-artifacts-chosen-by-claude-to-match-each-p|Added
   browser-tab icons for published artifacts, chosen by Claude to match each page]]'
+- '[[Changes/Dify/2026-09-10-6-editor-experience-changes-in-1-17-1|6 Editor Experience
+  changes in 1.17.1]]'
+- '[[Changes/Lovable/2026-09-10-sync-your-project-with-bitbucket-cloud|Sync your project
+  with Bitbucket Cloud]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-11-v2-1-269-github-387243742-288e9189|claude-code-2026-09-11-v2-1-269-github-387243742-288e9189]]'
 source_type: github_releases
 theme: editor-experience
@@ -99,7 +99,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.269
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-09-10 · Claude Code · [[Changes/Claude Code/2026-09-10-added-browser-tab-icons-for-published-artifacts-chosen-by-claude-to-match-each-p|Added browser-tab icons for published artifacts, chosen by Claude to match each page]]
+- Earlier: 2026-09-10 · Lovable · [[Changes/Lovable/2026-09-10-sync-your-project-with-bitbucket-cloud|Sync your project with Bitbucket Cloud]]
 - Later: 2026-09-14 · Claude Code · [[Changes/Claude Code/2026-09-14-3-editor-experience-changes-in-v2-1-271|3 Editor Experience changes in v2.1.271]]
 <!-- chronolog:end -->
 

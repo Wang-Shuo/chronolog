@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 195652a529af9855447cfe5df61e90310a6a955d5f70edca230f25ff7d2ff2b5
+machine_hash: 610a6e6c78fde6f3b8728c15df324b6183736b5065025a4777f26d4f432b9bb9
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,10 +42,10 @@ record:
   title: '[#42068](https://github.com/openai/codex/pull/42068) Detect standalone installs…'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-08-31-chatgpt-work-and-codex-can-now-use-tools-that-supported-websites-provide-directl|ChatGPT
-  Work and Codex can now use tools that supported websites provide directly…]]'
 - '[[Changes/Claude Code/2026-09-01-changed-add-dir-add-dir-and-additionaldirectories-to-refuse-network-paths-unc-sh|Changed
   --add-dir, /add-dir, and additionalDirectories to refuse network paths…]]'
+- '[[Changes/Lovable/2026-09-02-download-the-mobile-app-from-your-settings|Download
+  the mobile app from your settings]]'
 - '[[Changes/Claude Code/2026-09-03-3-mobile-and-desktop-changes-in-v2-1-260|3 Mobile
   and Desktop changes in v2.1.260]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-09-03-rust-v0-153-0-github-381669913-72d3437f|codex-cli-2026-09-03-rust-v0-153-0-github-381669913-72d3437f]]'

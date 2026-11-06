@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 9940145dc094f692df53c1f490fc31bb6bbfcb7d18b1093aa70c0b5bfc046cca
+machine_hash: 521710585deec7af295b856552a46afb2d63acd0a6db9f8c9cf96b63b63bd088
 product: cursor
 product_name: Cursor
 record:
@@ -53,12 +53,12 @@ record:
   title: Long AI completions
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2023-07-19-we-re-doubling-the-number-of-messages-chatgpt-plus-customers-can-send-with-gpt-4|Higher
-  message limits for GPT-4]]'
-- '[[Changes/Aider/2023-07-22-benchmarked-https-aider-chat-docs-benchmarks-html-at-64-7-for-gpt-4-diff-no-regr|Benchmarked((source
-  link) at 64.7% for gpt-4/diff…]]'
 - '[[Changes/Aider/2023-07-24-benchmarked-https-aider-chat-docs-benchmarks-html-at-64-7-for-gpt-4-diff-no-regr|Benchmarked((source
   link) at 64.7% for gpt-4/diff…]]'
+- '[[Changes/Ollama/2023-07-26-3-model-support-changes-in-v0-0-12|3 Model Support
+  changes in v0.0.12]]'
+- '[[Changes/Ollama/2023-07-26-you-can-now-rename-models-you-ve-pulled-or-created-with-ollama-cp|Rename
+  models you''ve pulled or created with ollama cp]]'
 source_release: '[[Releases/Cursor/cursor-2023-07-28-0-6-0-https-cursor-com-changelog-0-6-0-ec91c991|cursor-2023-07-28-0-6-0-https-cursor-com-changelog-0-6-0-ec91c991]]'
 source_type: cursor_changelog
 theme: model-support
@@ -94,7 +94,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2023-07-24 · Aider · [[Changes/Aider/2023-07-24-benchmarked-https-aider-chat-docs-benchmarks-html-at-64-7-for-gpt-4-diff-no-regr|Benchmarked((source link) at 64.7% for gpt-4/diff…]]
+- Earlier: 2023-07-26 · Ollama · [[Changes/Ollama/2023-07-26-you-can-now-rename-models-you-ve-pulled-or-created-with-ollama-cp|Rename models you've pulled or created with ollama cp]]
 - Later: 2023-08-02 · Aider · [[Changes/Aider/2023-08-02-defend-against-gpt-3-5-or-non-openai-models-suggesting-filenames-surrounded-by-a|Defend against GPT-3.5 or non-OpenAI models suggesting filenames surrounded by asterisks]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b51189e7b64bd189c5110631cfe3d1ac91d33dad9da53abdadbb7984134f4490
+machine_hash: eed13bef003841f1f20bcbf6518e24c55bd4ff4bb9d88e85360ba8aad5c806b7
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,10 +42,10 @@ record:
   title: Merged `/cost` and `/stats` into `/usage`
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-17-remote-control-clients-can-now-query-file-autocomplete-suggestions|Remote
-  Control clients can now query @-file autocomplete suggestions]]'
 - '[[Changes/Claude Code/2026-04-20-2-editor-experience-changes-in-v2-1-116|2 Editor
   Experience changes in v2.1.116]]'
+- '[[Changes/Open WebUI/2026-04-21-5-editor-experience-changes-in-v0-9-0|5 Editor
+  Experience changes in v0.9.0]]'
 - '[[Changes/Claude Code/2026-04-23-config-settings-theme-editor-mode-verbose-etc-now-persist-to-claude-settings-jso|/config
   settings (theme, editor mode, verbose, etc.) now persist…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-23-v2-1-118-github-312487295-b3c6b04c|claude-code-2026-04-23-v2-1-118-github-312487295-b3c6b04c]]'

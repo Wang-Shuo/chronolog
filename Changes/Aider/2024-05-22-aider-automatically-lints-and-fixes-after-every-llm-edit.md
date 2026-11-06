@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 173e63ce4c89e38d023a304500783f1a0b53c7fac21c43a1d1d04b8fe3765cbc
+machine_hash: 600c4cbd073544b0ec7a4765e072e609cda38c25086b80278457f9aa0abb6e59
 product: aider
 product_name: Aider
 record:
@@ -41,12 +41,11 @@ record:
   title: Aider automatically lints and fixes after every LLM edit
   type: change
 related_changes:
-- '[[Changes/Aider/2024-05-10-added-explicit-model-settings-for-openrouter-anthropic-claude-3-opus-gpt-3-5-tur|Added
-  explicit model settings for openrouter/anthropic/claude-3-opus, gpt-3.5-turbo]]'
-- '[[Changes/Aider/2024-05-13-3-model-support-changes-in-v0-35-0|3 Model Support changes
-  in v0.35.0]]'
-- '[[Changes/ChatGPT/2024-05-13-gpt-4o-is-our-newest-flagship-model-that-provides-gpt-4-level-intelligence-that-297427|Introducing
-  GPT-4o]]'
+- '[[Changes/Ollama/2024-05-15-2-model-support-changes-in-v0-1-38|2 Model Support
+  changes in v0.1.38]]'
+- '[[Changes/DeepSeek API/2024-05-17-deepseek-chat|deepseek-chat]]'
+- "[[Changes/Open WebUI/2024-05-19-improved-many-model-interaction-all-responses-now-displayed-simultaneously-for-a|\U0001F680
+  Improved Many Model Interaction]]"
 source_release: '[[Releases/Aider/aider-2024-05-22-v0-36-0-github-156969729-e3ce2281|aider-2024-05-22-v0-36-0-github-156969729-e3ce2281]]'
 source_type: github_releases
 theme: model-support
@@ -76,8 +75,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2024-05-13 · ChatGPT · [[Changes/ChatGPT/2024-05-13-gpt-4o-is-our-newest-flagship-model-that-provides-gpt-4-level-intelligence-that-297427|Introducing GPT-4o]]
-- Later: 2024-05-26 · Cursor · [[Changes/Cursor/2024-05-26-gemini-1-5-flash-is-available-in-long-context-mode|Gemini 1.5 Flash is available in long-context mode]]
+- Earlier: 2024-05-19 · Open WebUI · [[Changes/Open WebUI/2024-05-19-improved-many-model-interaction-all-responses-now-displayed-simultaneously-for-a|🚀 Improved Many Model Interaction]]
+- Later: 2024-05-22 · Ollama · [[Changes/Ollama/2024-05-22-5-model-support-changes-in-v0-1-39|5 Model Support changes in v0.1.39]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

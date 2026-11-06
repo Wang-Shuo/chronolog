@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f6d999cce5c76acb5bd89db0f90d240c3d022f1816969c40dcac93e6a793c962
+machine_hash: 20716c30bb12709d016ce09198fc6c1f09ef1fb5015075a5219b2854c65cab38
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -43,10 +43,10 @@ record:
   title: 2 Context Window changes in v0.6.0
   type: change
 related_changes:
-- '[[Changes/Cline/2025-09-18-pass-max-tokens-to-moonshot-provider-by-canvrno-in-https-github-com-cline-cline|Pass
-  max_tokens to moonshot provider]]'
-- '[[Changes/Codex CLI/2025-09-18-3857-make-esc-button-work-when-auto-compaction-3857|♯3857
-  Make ESC button work when auto-compaction (♯3857)]]'
+- '[[Changes/Gemini/2025-09-18-your-custom-gems-are-now-shareable|Your Custom Gems
+  are Now Shareable]]'
+- '[[Changes/Dify/2025-09-22-example-of-no-unstable-context-value-by-asukaminato0721-in-https-github-com-lang|example
+  of no-unstable-context-value]]'
 - '[[Changes/Codex CLI/2025-09-23-4093-chore-enable-auto-compaction-for-gpt-5-codex-4093|♯4093
   chore: enable auto-compaction for gpt-5-codex (♯4093)]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-09-24-v0-6-0-github-249519586-83671b5c|gemini-cli-2025-09-24-v0-6-0-github-249519586-83671b5c]]'

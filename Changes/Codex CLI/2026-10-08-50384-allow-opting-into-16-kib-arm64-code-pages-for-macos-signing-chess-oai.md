@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7e2c376e0b068ada5547b7b0dfff3d40f5d437ff3b7fb313a876aa37a04c628c
+machine_hash: 3c90bb19309ddb8aa11fd619a2b561d009fc63b99e1943348a4a261ce76ed1eb
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -41,10 +41,10 @@ record:
   title: '#50384 Allow opting into 16 KiB ARM64 code pages for macOS signing @chess-oai'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-10-05-sandboxed-commands-on-windows-write-temporary-files-to-the-granted-temp-director|Sandboxed
-  commands on Windows write temporary files to the granted temp directory…]]'
 - '[[Changes/Cursor/2026-10-06-to-stop-your-computer-from-sleeping-while-you-re-away-turn-on-keep-this-computer|Keep
   your computer awake]]'
+- '[[Changes/Ollama/2026-10-07-manifest-avoid-symlinks-on-windows-by-dhiltgen-in-https-github-com-ollama-ollama|manifest:
+  avoid symlinks on Windows]]'
 - '[[Changes/Claude Code/2026-10-08-changed-the-claude-apps-gateway-to-start-with-a-warning-and-serve-a-desktop-poli|Changed
   the Claude apps gateway to start with a warning and serve a desktop policy…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-10-08-rust-v0-162-0-github-407151970-b80d60db|codex-cli-2026-10-08-rust-v0-162-0-github-407151970-b80d60db]]'
@@ -89,7 +89,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-10-08 · Claude Code · [[Changes/Claude Code/2026-10-08-changed-the-claude-apps-gateway-to-start-with-a-warning-and-serve-a-desktop-poli|Changed the Claude apps gateway to start with a warning and serve a desktop policy…]]
-- Later: 2026-10-12 · Windsurf · [[Changes/Windsurf/2026-10-12-devin-desktop|Devin Desktop]]
+- Later: 2026-10-09 · Replit · [[Changes/Replit/2026-10-09-replit-desktop-windows-preview-with-microsoft-and-nvidia|Replit Desktop Windows preview with Microsoft and NVIDIA]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

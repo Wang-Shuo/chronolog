@@ -4,20 +4,20 @@ date: '2026-08-31'
 description: 'ChatGPT · 2026-08-31 · Voice and Audio: Content from a Live voice conversation
   can now appear on your iPhone’s Lock Screen and, on iPhones with Dynamic Island…'
 diffusion:
-  first_in_tracked: '[[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source
-    link) support, which allows you…]]'
+  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
+    Voice and Audio changes in 0.3.7]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1116
+  lag_days: 1148
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3a11b2be4f738e7cba2f48a08842053c3c7eb8fe27f02b79231d9caeaefa16dc
+machine_hash: b1ca8a8721cbe64c5d15e6eacc83deff5735df58d112bdf608c7676d5ed7ae40
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -44,8 +44,8 @@ record:
     Screen…
   type: change
 related_changes:
-- '[[Changes/Cline/2026-08-21-stop-offering-image-voice-and-other-non-chat-models-in-chat-model-pickers|Stop
-  offering image, voice, and other non-chat models in chat model pickers]]'
+- '[[Changes/Open WebUI/2026-08-25-4-voice-and-audio-changes-in-v0-11-1|4 Voice and
+  Audio changes in v0.11.1]]'
 - '[[Changes/Codex CLI/2026-08-26-39953-support-voice-aware-configuration-and-version-skew-builds-copyberry|♯39953
   Support voice-aware configuration and version-skew builds @copyberry]]'
 - '[[Changes/GitHub Copilot CLI/2026-08-27-use-ctrl-space-to-toggle-voice-dictation|Use
@@ -81,13 +81,13 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2026-08-27 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-08-27-use-ctrl-space-to-toggle-voice-dictation|Use Ctrl+Space to toggle voice dictation]]
-- Later: 2026-09-03 · Codex CLI · [[Changes/Codex CLI/2026-09-03-5-voice-and-audio-changes-in-rust-v0-153-0|5 Voice and Audio changes in rust-v0.153.0]]
+- Later: 2026-09-02 · Ollama · [[Changes/Ollama/2026-09-02-gemma4-now-supports-images-and-audio-on-mlx-engine|gemma4 now supports images and audio on MLX engine]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-08-11 · Aider · [[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source link) support, which allows you…]]
+- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

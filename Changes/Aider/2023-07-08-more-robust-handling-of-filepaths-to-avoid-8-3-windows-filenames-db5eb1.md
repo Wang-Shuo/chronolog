@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e49e826c0572b14a7cabb72b4790541e010aeed23da8a67f4b6dc122fb4e0cf7
+machine_hash: 9c1acc943acd86e3468ddc95dadc1dd93355d5075914a0c756718545c2c2a056
 product: aider
 product_name: Aider
 record:
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2023-07-08 · Aider · [[Changes/Aider/2023-07-08-more-robust-handling-of-filepaths-to-avoid-8-3-windows-filenames|More robust handling of filepaths, to avoid 8.3 windows filenames]]
-- Later: 2023-07-12 · Aider · [[Changes/Aider/2023-07-12-more-robust-handling-of-filepaths-to-avoid-8-3-windows-filenames|More robust handling of filepaths, to avoid 8.3 windows filenames]]
+- Later: 2023-07-11 · Ollama · [[Changes/Ollama/2023-07-11-much-faster-performance|Much faster performance]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

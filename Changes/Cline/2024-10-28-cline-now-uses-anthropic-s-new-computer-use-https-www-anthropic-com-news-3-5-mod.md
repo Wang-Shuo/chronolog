@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 521f3c0d48c78e428c0adb3d74f5ed0657a9aebe1daa3c593afee6d01b7ed542
+machine_hash: 62aafa716b1fb2b7c6f26bcbcc90752502875cc313dc357b3847f06337f2c29e
 product: cline
 product_name: Cline
 record:
@@ -63,12 +63,12 @@ record:
   title: Cline now uses Anthropic's new…
   type: change
 related_changes:
-- '[[Changes/Aider/2024-10-04-sanity-checks-the-editor-model-on-launch-now-same-as-main-and-weak-models|Sanity
-  checks the --editor-model on launch now, same as main and weak models]]'
-- '[[Changes/Cline/2024-10-09-4-model-support-changes-in-v2-0-0|4 Model Support changes
-  in v2.0.0]]'
-- '[[Changes/Aider/2024-10-22-5-model-support-changes-in-v0-60-0|5 Model Support changes
-  in v0.60.0]]'
+- '[[Changes/Open WebUI/2024-10-24-2-model-support-changes-in-v0-3-33|2 Model Support
+  changes in v0.3.33]]'
+- "[[Changes/Open WebUI/2024-10-26-merged-response-loss-in-multi-model-chats-addressed-an-issue-where-responses-in|\U0001F517
+  Merged Response Loss in Multi-Model Chats]]"
+- '[[Changes/Open WebUI/2024-10-26-3-model-support-changes-in-v0-3-34|3 Model Support
+  changes in v0.3.34]]'
 source_release: '[[Releases/Cline/cline-2024-10-28-v2-1-0-github-182243956-2213a7c1|cline-2024-10-28-v2-1-0-github-182243956-2213a7c1]]'
 source_type: github_releases
 theme: model-support
@@ -97,8 +97,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2024-10-22 · Aider · [[Changes/Aider/2024-10-22-5-model-support-changes-in-v0-60-0|5 Model Support changes in v0.60.0]]
-- Later: 2024-10-31 · OpenHands · [[Changes/OpenHands/2024-10-31-support-prompt-caching-on-the-latest-claude-3-5-sonnet-20241022-by-xingyaoww-in|Support prompt caching on the latest claude-3-5-sonnet-20241022]]
+- Earlier: 2024-10-26 · Open WebUI · [[Changes/Open WebUI/2024-10-26-3-model-support-changes-in-v0-3-34|3 Model Support changes in v0.3.34]]
+- Later: 2024-10-28 · Dify · [[Changes/Dify/2024-10-28-4-model-support-changes-in-0-10-2|4 Model Support changes in 0.10.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

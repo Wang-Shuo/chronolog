@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 6e704e78f7f61bd60a1fc04303bd8c02c478236046b67b708c3e5df400482f56
+machine_hash: 99e485682a2fd7a041a6cffd081f97d1a785057add2da48cda1208550ab42134
 product: windsurf
 product_name: Windsurf
 record:
@@ -88,7 +88,7 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2025-04-15 · Cline · [[Changes/Cline/2025-04-15-eng-435-xai-provider-cost-issue-by-canvrno-in-https-github-com-cline-cline-pull|ENG-435/xAI provider cost issue]]
-- Later: 2025-05-15 · Cursor · [[Changes/Cursor/2025-05-15-simpler-unified-pricing-6a915c|Simpler, unified pricing]]
+- Later: 2025-05-02 · Lovable · [[Changes/Lovable/2025-05-02-improvements|Improvements]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

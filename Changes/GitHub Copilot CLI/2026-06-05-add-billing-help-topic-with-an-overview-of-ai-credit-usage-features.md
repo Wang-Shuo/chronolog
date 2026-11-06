@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 9c841c620fc3a1cd76543583ff952f5a2ecbe3af45c4a766014a4f024d09f7e8
+machine_hash: ed20767038353b717a97639b00c22355bf9b90d1aa96cd11a0f7e22983a0cd68
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,10 +43,9 @@ record:
   title: Add `billing` help topic with an overview of AI credit usage features
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-23-3-pricing-model-changes-in-v1-0-52|3 Pricing
-  Model changes in v1.0.52]]'
-- '[[Changes/GitHub Copilot CLI/2026-05-28-3-pricing-model-changes-in-v1-0-55|3 Pricing
-  Model changes in v1.0.55]]'
+- '[[Changes/Replit/2026-05-29-billing|Billing]]'
+- '[[Changes/Replit/2026-05-29-generate-3d-models-with-the-tripo3d-connector|Generate
+  3D models with the Tripo3D connector]]'
 - '[[Changes/Claude Code/2026-06-04-the-subscription-switch-suggestion-now-shows-in-the-startup-announcement-slot-in|The
   subscription-switch suggestion now shows in the startup announcement slot…]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-06-05-v1-0-60-github-335046279-6a5628d4|github-copilot-cli-2026-06-05-v1-0-60-github-335046279-6a5628d4]]'
@@ -90,7 +89,7 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2026-06-04 · Claude Code · [[Changes/Claude Code/2026-06-04-the-subscription-switch-suggestion-now-shows-in-the-startup-announcement-slot-in|The subscription-switch suggestion now shows in the startup announcement slot…]]
-- Later: 2026-06-06 · Windsurf · [[Changes/Windsurf/2026-06-06-simplified-model-picker-pricing-view-for-select-enterprise-customers|Simplified model picker pricing view for select enterprise customers]]
+- Later: 2026-06-05 · Replit · [[Changes/Replit/2026-06-05-billing|Billing]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

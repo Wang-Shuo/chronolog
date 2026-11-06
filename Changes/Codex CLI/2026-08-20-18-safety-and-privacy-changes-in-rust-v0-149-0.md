@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5f8049710f1ee3b3418656700ac4cc513b83777cdbf97165ac3bde026346babf
+machine_hash: 05e2b30933f6808ee0db1a73ddf1d923c791d0da4cb18750256f3c1603586941
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -77,10 +77,9 @@ record:
   title: 18 Safety and Privacy changes in rust-v0.149.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-08-18-17-safety-and-privacy-changes-in-rust-v0-148-0|17
-  Safety and Privacy changes in rust-v0.148.0]]'
 - '[[Changes/Claude Code/2026-08-19-2-safety-and-privacy-changes-in-v2-1-236|2 Safety
   and Privacy changes in v2.1.236]]'
+- '[[Changes/Lovable/2026-08-19-a-simpler-publish-dialog|A simpler Publish dialog]]'
 - '[[Changes/Claude Code/2026-08-20-3-safety-and-privacy-changes-in-v2-1-238|3 Safety
   and Privacy changes in v2.1.238]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-08-20-rust-v0-149-0-github-374028976-829da944|codex-cli-2026-08-20-rust-v0-149-0-github-374028976-829da944]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 947aa5647d635bfeb4f46f383570eada38a2eb669120765bd7fc8e4c1eb164c2
+machine_hash: c6efebc9d97ddd92cb2bdba6d3cd1fb92dc24907e1bf5cb61269c888431fa665
 product: cline
 product_name: Cline
 record:
@@ -43,10 +43,9 @@ record:
     Cline…
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-07-06-refactor-extract-billing-test-fixtures-for-pltf-1269-by-aivong-openhands-in-http|refactor:
-  extract billing test fixtures for PLTF-1269]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-07-improve-chronicle-cost-tips-with-more-precise-evidence-backed-recommendations|Improve
   /chronicle cost-tips with more precise evidence-backed recommendations]]'
+- '[[Changes/v0/2026-07-07-deprecations|Deprecations]]'
 - '[[Changes/Codex CLI/2026-07-08-28593-codex-suppress-low-usage-remaining-warnings-when-credits-are-available-bro|♯28593
   codex suppress low usage remaining warnings when credits are available…]]'
 source_release: '[[Releases/Cline/cline-2026-07-09-v4-0-7-github-351278875-29c28c0c|cline-2026-07-09-v4-0-7-github-351278875-29c28c0c]]'

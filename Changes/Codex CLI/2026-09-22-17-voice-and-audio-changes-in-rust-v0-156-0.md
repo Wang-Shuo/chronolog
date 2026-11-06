@@ -4,20 +4,20 @@ date: '2026-09-22'
 description: 'Codex CLI · 2026-09-22 · Voice and Audio: 17 changes in 0.156.0 — Voice
   conversations are enabled by default, with an F8 toggle, a `/voice settings` picker…'
 diffusion:
-  first_in_tracked: '[[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source
-    link) support, which allows you…]]'
+  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
+    Voice and Audio changes in 0.3.7]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1138
+  lag_days: 1170
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ad3c1c1c101739e643c88a03b1cd9a493488d6dba75a0e47fad9e40140fbc4bb
+machine_hash: 1b34d66e61efe419dc30faec4816f7c6f3db12cbc2534f5f88b3bbf7ad98a302
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -78,12 +78,11 @@ record:
   title: 17 Voice and Audio changes in rust-v0.156.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-03-5-voice-and-audio-changes-in-rust-v0-153-0|5 Voice
-  and Audio changes in rust-v0.153.0]]'
-- '[[Changes/Codex CLI/2026-09-09-20-voice-and-audio-changes-in-rust-v0-154-0|20 Voice
-  and Audio changes in rust-v0.154.0]]'
 - '[[Changes/Codex CLI/2026-09-17-20-voice-and-audio-changes-in-rust-v0-155-0|20 Voice
   and Audio changes in rust-v0.155.0]]'
+- '[[Changes/ElevenLabs/2026-09-21-text-to-speech|Text to Speech]]'
+- '[[Changes/Open WebUI/2026-09-21-5-voice-and-audio-changes-in-v0-11-4|5 Voice and
+  Audio changes in v0.11.4]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-09-22-rust-v0-156-0-github-394061815-b23dd5f4|codex-cli-2026-09-22-rust-v0-156-0-github-394061815-b23dd5f4]]'
 source_type: github_releases
 theme: voice
@@ -164,14 +163,14 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.156.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-09-17 · Codex CLI · [[Changes/Codex CLI/2026-09-17-20-voice-and-audio-changes-in-rust-v0-155-0|20 Voice and Audio changes in rust-v0.155.0]]
+- Earlier: 2026-09-21 · Open WebUI · [[Changes/Open WebUI/2026-09-21-5-voice-and-audio-changes-in-v0-11-4|5 Voice and Audio changes in v0.11.4]]
 - Later: 2026-09-23 · ChatGPT · [[Changes/ChatGPT/2026-09-23-live-now-supports-plugins-on-web-ios-and-android-you-can-use-the-plugins-and-con-88a242|Use plugins in Voice and get work done by speaking]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-08-11 · Aider · [[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source link) support, which allows you…]]
+- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

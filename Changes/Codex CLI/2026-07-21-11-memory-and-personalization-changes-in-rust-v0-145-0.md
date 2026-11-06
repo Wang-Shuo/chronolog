@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7f5e3e425fdec7d4fec5ca6595a0ce2976ec6f4b28559c8491775eff5c5c0cef
+machine_hash: 9d0c253ffe4737b6f3ace44f5a31d3a8a58e6971fce620ce29b57b37419d4f8a
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -62,10 +62,10 @@ record:
   title: 11 Memory and Personalization changes in rust-v0.145.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-15-improved-the-memory-index-over-limit-warning-to-measure-only-loaded-content-excl|Improved
-  the memory index over-limit warning to measure only loaded content…]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-16-refresh-memory-context-after-30-minutes-in-long-lived-sessions|Refresh
   memory context after 30 minutes in long-lived sessions]]'
+- '[[Changes/Dify/2026-07-17-perf-memory-batch-load-message-files-in-tokenbuffermemory-to-remove-n-1-queries|perf(memory):
+  batch-load message files in TokenBufferMemory to remove N+1 queries]]'
 - '[[Changes/Claude Code/2026-07-18-added-an-iso-modified-timestamp-to-memory-file-frontmatter|Added
   an ISO modified timestamp to memory file frontmatter]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-07-21-rust-v0-145-0-github-357545274-7be4454f|codex-cli-2026-07-21-rust-v0-145-0-github-357545274-7be4454f]]'
@@ -136,7 +136,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.145.0
 ## Nearby in Memory and Personalization
 
 - Earlier: 2026-07-18 · Claude Code · [[Changes/Claude Code/2026-07-18-added-an-iso-modified-timestamp-to-memory-file-frontmatter|Added an ISO modified timestamp to memory file frontmatter]]
-- Later: 2026-07-29 · Codex CLI · [[Changes/Codex CLI/2026-07-29-35530-track-model-and-personality-in-world-state-copyberry|♯35530 Track model and personality in world state @copyberry]]
+- Later: 2026-07-21 · v0 · [[Changes/v0/2026-07-21-design-systems-personal-scope-imports-save-to-your-own-memory-the-selector-reset|Design systems: personal-scope imports save to your own memory, the selector resets…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -5,20 +5,20 @@ description: 'Claude Code · 2026-09-11 · Files and Data: [VSCode] Improved doc
   and messages written for someone other than the user: Claude now writes them for
   that…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code
-    interpreter is now rolling out in beta on web]]'
+  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
+    Files and Data changes in 0.2.2]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1163
+  lag_days: 1205
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 537cb7561290ec26415033c73cae4f110b9fb8cc4074504370327d473b5fa105
+machine_hash: c809bf49b29846d80c5d937192fc8243b7334cc4142cb4704ec38b20cd8f05a7
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,12 +46,12 @@ record:
     the user'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-08-27-canvas-windows-open-and-refresh-in-the-background-instead-of-stealing-focus-from|Canvas
-  windows open and refresh in the background instead of stealing focus…]]'
-- '[[Changes/OpenHands/2026-08-27-2-files-and-data-changes-in-v1-16-0|2 Files and
-  Data changes in v1.16.0]]'
 - '[[Changes/OpenHands/2026-09-09-4-files-and-data-changes-in-v1-17-0|4 Files and
   Data changes in v1.17.0]]'
+- '[[Changes/Dify/2026-09-10-13-files-and-data-changes-in-1-17-1|13 Files and Data
+  changes in 1.17.1]]'
+- '[[Changes/Gemini/2026-09-10-bring-google-gemini-to-your-pc-with-the-new-windows-app|Bring
+  Google Gemini to your PC with the new Windows app]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-11-v2-1-269-github-387243742-288e9189|claude-code-2026-09-11-v2-1-269-github-387243742-288e9189]]'
 source_type: github_releases
 theme: file-data
@@ -90,14 +90,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2026-09-09 · OpenHands · [[Changes/OpenHands/2026-09-09-4-files-and-data-changes-in-v1-17-0|4 Files and Data changes in v1.17.0]]
+- Earlier: 2026-09-10 · Gemini · [[Changes/Gemini/2026-09-10-bring-google-gemini-to-your-pc-with-the-new-windows-app|Bring Google Gemini to your PC with the new Windows app]]
 - Later: 2026-09-11 · OpenHands · [[Changes/OpenHands/2026-09-11-2-files-and-data-changes-in-v1-18-0|2 Files and Data changes in v1.18.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-06 · ChatGPT · [[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code interpreter is now rolling out in beta on web]]
+- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

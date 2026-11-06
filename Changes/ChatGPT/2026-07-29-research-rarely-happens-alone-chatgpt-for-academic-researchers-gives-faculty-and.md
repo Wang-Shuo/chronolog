@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 811cecd7f572a68b78f24763b6bbe978225add9dffae0a85085011580e95c8a0
+machine_hash: d709a28c2d2f3bb0ed2672b8995be03c753d9d55790caf80b280e2c6e755323a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -68,12 +68,12 @@ record:
   title: ChatGPT for Academic Researchers
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-07-22-2-pricing-model-changes-in-cursor-router|2 Pricing
-  Model changes in Cursor Router]]'
 - '[[Changes/Cursor/2026-07-28-local-pricing-at-649-per-month-tax-inclusive-billed-in-inr-with-upi-or-card|Local
   pricing at ₹649 per month, tax inclusive, billed in INR with UPI or card]]'
 - '[[Changes/Cursor/2026-07-28-we-re-introducing-cursor-start-a-new-649-monthly-plan-for-developers-in-india-ma|Cursor
   introduces Cursor Start, a new ₹649 monthly plan for developers in India…]]'
+- '[[Changes/Dify/2026-07-28-2-pricing-model-changes-in-1-16-1|2 Pricing Model changes
+  in 1.16.1]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-07-29-chatgpt-for-academic-researchers-9c67fb00|chatgpt-2026-07-29-chatgpt-for-academic-researchers-9c67fb00]]'
 source_type: chatgpt_changelog
 theme: pricing-model
@@ -100,8 +100,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-07-28 · Cursor · [[Changes/Cursor/2026-07-28-we-re-introducing-cursor-start-a-new-649-monthly-plan-for-developers-in-india-ma|Cursor introduces Cursor Start, a new ₹649 monthly plan for developers in India…]]
-- Later: 2026-08-04 · Claude Code · [[Changes/Claude Code/2026-08-04-changed-fast-mode-to-report-on-the-stream-when-usage-credits-run-out-mid-session|Changed fast mode to report on the stream when usage credits run out mid-session…]]
+- Earlier: 2026-07-28 · Dify · [[Changes/Dify/2026-07-28-2-pricing-model-changes-in-1-16-1|2 Pricing Model changes in 1.16.1]]
+- Later: 2026-07-31 · Replit · [[Changes/Replit/2026-07-31-billing|Billing]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

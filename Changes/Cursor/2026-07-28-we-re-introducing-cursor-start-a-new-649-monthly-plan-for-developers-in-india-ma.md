@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 7783075f9eb9c81b21fd1c9f75f4e46e9241f482f7439e2d94267d41ff9a17b7
+machine_hash: 579af560233c9be9fd67cda586d79c2e2f3205a55dbffca6caa25d7f3927a340
 product: cursor
 product_name: Cursor
 record:
@@ -57,10 +57,10 @@ record:
     India…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-22-changed-server-managed-settings-so-benign-feature-and-cost-toggles-no-longer-tri|Changed
-  server-managed settings so benign feature and cost toggles no longer trigger…]]'
-- '[[Changes/Cursor/2026-07-22-2-pricing-model-changes-in-cursor-router|2 Pricing
-  Model changes in Cursor Router]]'
+- '[[Changes/Replit/2026-07-24-more-flexibility-when-changing-your-pro-plan|More flexibility
+  when changing your Pro plan]]'
+- '[[Changes/Open WebUI/2026-07-27-2-pricing-model-changes-in-v0-11-0|2 Pricing Model
+  changes in v0.11.0]]'
 - '[[Changes/Cursor/2026-07-28-local-pricing-at-649-per-month-tax-inclusive-billed-in-inr-with-upi-or-card|Local
   pricing at ₹649 per month, tax inclusive, billed in INR with UPI or card]]'
 source_release: '[[Releases/Cursor/cursor-2026-07-28-cursor-start-https-cursor-com-changelog-cursor-start-386914df|cursor-2026-07-28-cursor-start-https-cursor-com-changelog-cursor-start-386914df]]'
@@ -94,8 +94,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-07-22 · Cursor · [[Changes/Cursor/2026-07-22-2-pricing-model-changes-in-cursor-router|2 Pricing Model changes in Cursor Router]]
-- Later: 2026-07-29 · ChatGPT · [[Changes/ChatGPT/2026-07-29-research-rarely-happens-alone-chatgpt-for-academic-researchers-gives-faculty-and|ChatGPT for Academic Researchers]]
+- Earlier: 2026-07-27 · Open WebUI · [[Changes/Open WebUI/2026-07-27-2-pricing-model-changes-in-v0-11-0|2 Pricing Model changes in v0.11.0]]
+- Later: 2026-07-28 · Dify · [[Changes/Dify/2026-07-28-2-pricing-model-changes-in-1-16-1|2 Pricing Model changes in 1.16.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

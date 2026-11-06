@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8bcc28053bbd36aa84fd9919423311e159ddf35c8f988b3637ccd52fb7a8af60
+machine_hash: 434ea332a3afa3f1db510a568d2c7e1da2de3db7971476237a770c0d88663d8d
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,8 +49,8 @@ record:
   title: 3 Reliability and Performance changes in v2.1.147
   type: change
 related_changes:
-- '[[Changes/Cline/2026-05-13-improve-mention-file-search-performance|Improve @-mention
-  file search performance]]'
+- '[[Changes/Dify/2026-05-19-knowledge-base-stability-fixed-knowledge-hit-testing-rendering-empty-knowledge-c|Knowledge-base
+  stability — fixed knowledge hit-testing rendering, empty…]]'
 - '[[Changes/Codex CLI/2026-05-20-windows-installs-are-more-robust-codex-doctor-now-detects-npm-managed-installs-c|Windows
   installs are more robust]]'
 - '[[Changes/Claude Code/2026-05-21-2-reliability-and-performance-changes-in-v2-1-146|2

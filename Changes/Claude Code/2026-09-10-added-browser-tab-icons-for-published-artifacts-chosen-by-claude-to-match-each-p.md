@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c431fdc16fdcf61738ab0fdaf10cd02a4758ce89a5bbbf83e6fbac935cdf7d5b
+machine_hash: 3e208a94662d038020c59992a521a07f0201cfc3149ebb275a102a6b5430c901
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,12 +43,11 @@ record:
     each page
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-03-improved-the-settings-error-for-rules-such-as-edit-c-dir-name-where-is-read-as-a|Improved
-  the settings error for rules such as Edit(C:\dir\(name)\), where…]]'
-- '[[Changes/GitHub Copilot CLI/2026-09-04-2-editor-experience-changes-in-v1-0-83|2
-  Editor Experience changes in v1.0.83]]'
+- '[[Changes/Lovable/2026-09-08-project-files-no-longer-copy-automatically-during-a-remix|Project
+  files no longer copy automatically during a remix]]'
 - '[[Changes/Codex CLI/2026-09-09-42746-handle-pending-network-reviews-after-process-completion-copyberry|♯42746
   Handle pending network reviews after process completion @copyberry]]'
+- '[[Changes/Lovable/2026-09-09-explore-changes-with-drafts|Explore changes with drafts]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-10-v2-1-268-github-386532237-baa1a848|claude-code-2026-09-10-v2-1-268-github-386532237-baa1a848]]'
 source_type: github_releases
 theme: editor-experience
@@ -89,8 +88,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-09-09 · Codex CLI · [[Changes/Codex CLI/2026-09-09-42746-handle-pending-network-reviews-after-process-completion-copyberry|♯42746 Handle pending network reviews after process completion @copyberry]]
-- Later: 2026-09-11 · Claude Code · [[Changes/Claude Code/2026-09-11-3-editor-experience-changes-in-v2-1-269|3 Editor Experience changes in v2.1.269]]
+- Earlier: 2026-09-09 · Lovable · [[Changes/Lovable/2026-09-09-explore-changes-with-drafts|Explore changes with drafts]]
+- Later: 2026-09-10 · Dify · [[Changes/Dify/2026-09-10-6-editor-experience-changes-in-1-17-1|6 Editor Experience changes in 1.17.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

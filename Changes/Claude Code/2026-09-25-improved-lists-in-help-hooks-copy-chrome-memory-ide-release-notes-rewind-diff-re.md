@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 919ed43ee4f0bc06880df5e2ac460bba1bb560f921833386bf2642dff6efb4a9
+machine_hash: 47afdff8d4e35eb751f984f36352512ed51cc6d2ad8f4447dc1fae78f745f9ef
 product: claude-code
 product_name: Claude Code
 record:
@@ -57,8 +57,8 @@ record:
   title: Improved lists in `/help`, `/hooks`, `/copy`, `/chrome`, `/memory`, `/ide`…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-09-21-tear-down-the-processes-an-internal-git-command-started-when-it-times-out-so-a-s|Tear
-  down the processes an internal git command started when it times out, so a slow…]]'
+- '[[Changes/Open WebUI/2026-09-21-6-memory-and-personalization-changes-in-v0-11-4|6
+  Memory and Personalization changes in v0.11.4]]'
 - '[[Changes/Codex CLI/2026-09-22-6-memory-and-personalization-changes-in-rust-v0-156-0|6
   Memory and Personalization changes in rust-v0.156.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-22-resuming-large-local-sessions-keeps-transcript-memory-bounded-for-smoother-cli-p|Resuming

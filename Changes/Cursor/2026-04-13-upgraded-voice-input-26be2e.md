@@ -5,20 +5,20 @@ description: 'Cursor · 2026-04-13 · Voice and Audio: Dictation through voice i
   is more reliable and accurate. It records your full voice clip and transcribes it
   with…'
 diffusion:
-  first_in_tracked: '[[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source
-    link) support, which allows you…]]'
+  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
+    Voice and Audio changes in 0.3.7]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 976
+  lag_days: 1008
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: f3e98206e4fa56fe3d8f0744f9fb8d9dca59cf3fe164fd4968248ca68fa9576b
+machine_hash: bf41138cf3afbbf0ac2290b937288f319b9bb7be1f9048f1ebc0345138f56f1a
 product: cursor
 product_name: Cursor
 record:
@@ -48,8 +48,7 @@ record:
   title: Upgraded voice input
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-31-16114-remove-tui-voice-transcription-feature-etraut-openai|♯16114
-  Remove TUI voice transcription feature @etraut-openai]]'
+- '[[Changes/ElevenLabs/2026-04-07-speech-to-text-f6e004|Speech to Text]]'
 - '[[Changes/Codex CLI/2026-04-10-3-voice-and-audio-changes-in-rust-v0-119-0|3 Voice
   and Audio changes in rust-v0.119.0]]'
 - '[[Changes/Cursor/2026-04-13-prompt-buttons-now-stay-in-place-while-voice-input-is-processing|Prompt
@@ -95,13 +94,13 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2026-04-10 · Codex CLI · [[Changes/Codex CLI/2026-04-10-3-voice-and-audio-changes-in-rust-v0-119-0|3 Voice and Audio changes in rust-v0.119.0]]
-- Later: 2026-04-28 · Claude Code · [[Changes/Claude Code/2026-04-28-vscode-voice-dictation-now-respects-the-accessibility-voice-speechlanguage-setti|VSCode Voice dictation now respects the accessibility.voice.speechLanguage…]]
+- Later: 2026-04-13 · ElevenLabs · [[Changes/ElevenLabs/2026-04-13-packages|Packages]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-08-11 · Aider · [[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source link) support, which allows you…]]
+- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

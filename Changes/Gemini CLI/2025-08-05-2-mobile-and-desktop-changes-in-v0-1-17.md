@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7b77a420e0442201f203098062493f7255ea844f15f1728472430cfa302bc423
+machine_hash: cc138f7afd811af0270cb2d326d988ab36fcc44aac52d1bec15a015834e36ec1
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -42,8 +42,8 @@ record:
   title: 2 Mobile and Desktop changes in v0.1.17
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-07-25-2-mobile-and-desktop-changes-in-v0-1-14|2 Mobile
-  and Desktop changes in v0.1.14]]'
+- '[[Changes/Dify/2025-07-28-windows-pem-keypath-fix-corrected-path-errors-for-private-pem-key-files-on-windo|Windows
+  PEM KeyPath Fix]]'
 - '[[Changes/Gemini CLI/2025-07-30-2-mobile-and-desktop-changes-in-v0-1-15|2 Mobile
   and Desktop changes in v0.1.15]]'
 - '[[Changes/Gemini CLI/2025-08-02-2-mobile-and-desktop-changes-in-v0-1-16|2 Mobile
@@ -93,7 +93,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.1.17
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2025-08-02 · Gemini CLI · [[Changes/Gemini CLI/2025-08-02-2-mobile-and-desktop-changes-in-v0-1-16|2 Mobile and Desktop changes in v0.1.16]]
-- Later: 2025-08-06 · Gemini CLI · [[Changes/Gemini CLI/2025-08-06-2-mobile-and-desktop-changes-in-v0-1-18|2 Mobile and Desktop changes in v0.1.18]]
+- Later: 2025-08-06 · Gemini · [[Changes/Gemini/2025-08-06-go-beyond-the-answer-with-step-by-step-guided-learning|Go Beyond the Answer with Step-by-Step Guided Learning]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

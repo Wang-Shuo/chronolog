@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d13e45e7f30928db98ce355f656f480605dde03eef7a9ecc9eb11e97ea52f01c
+machine_hash: 757ecd931d21c668365434317201cf6c90efac3e48617b038c0bbadffb70eafe
 product: aider
 product_name: Aider
 record:
@@ -46,12 +46,12 @@ record:
   title: 3 Developer Workflow changes in v0.85.0
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-06-20-2-developer-workflow-changes-in-0-44-0|2 Developer
-  Workflow changes in 0.44.0]]'
 - '[[Changes/OpenHands/2025-06-20-example-code-review-microagent-by-jpelletier1-in-https-github-com-all-hands-ai-o|Example
   code review microagent]]'
 - '[[Changes/OpenHands/2025-06-24-introduced-optional-vi-style-keybindings-for-confirmation-prompts-navigating-men|Introduced
   optional vi-style keybindings for confirmation prompts navigating menus…]]'
+- '[[Changes/Dify/2025-06-25-2-developer-workflow-changes-in-1-5-0|2 Developer Workflow
+  changes in 1.5.0]]'
 source_release: '[[Releases/Aider/aider-2025-06-27-v0-85-0-github-228491827-20a4ecc7|aider-2025-06-27-v0-85-0-github-228491827-20a4ecc7]]'
 source_type: github_releases
 theme: developer-workflow
@@ -92,7 +92,7 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.85.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2025-06-24 · OpenHands · [[Changes/OpenHands/2025-06-24-introduced-optional-vi-style-keybindings-for-confirmation-prompts-navigating-men|Introduced optional vi-style keybindings for confirmation prompts navigating menus…]]
+- Earlier: 2025-06-25 · Dify · [[Changes/Dify/2025-06-25-2-developer-workflow-changes-in-1-5-0|2 Developer Workflow changes in 1.5.0]]
 - Later: 2025-06-27 · OpenHands · [[Changes/OpenHands/2025-06-27-changed-terminal-truncation-to-trim-middle-of-long-outputs-instead-of-suffix-by|Changed terminal truncation to trim middle of long outputs instead of suffix]]
 <!-- chronolog:end -->
 

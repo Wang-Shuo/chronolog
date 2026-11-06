@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2efd484dcd60c4dc0f4ceed685da1f465dc6446f9b10f3c64d70ae1cc5039942
+machine_hash: 93de67654f8b49e09055e08562742c4890158801378629f83668e9c3a4593c58
 product: claude-code
 product_name: Claude Code
 record:
@@ -55,10 +55,10 @@ record:
     a draft…
   type: change
 related_changes:
-- '[[Changes/Cline/2026-06-26-2-developer-workflow-changes-in-v4-0-0|2 Developer Workflow
-  changes in v4.0.0]]'
 - '[[Changes/Claude Code/2026-06-29-2-developer-workflow-changes-in-v2-1-196|2 Developer
   Workflow changes in v2.1.196]]'
+- '[[Changes/Open WebUI/2026-06-29-42-developer-workflow-changes-in-v0-10-0|42 Developer
+  Workflow changes in v0.10.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-30-21-developer-workflow-changes-in-v1-0-66|21
   Developer Workflow changes in v1.0.66]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-01-v2-1-198-github-347599701-9cec0dab|claude-code-2026-07-01-v2-1-198-github-347599701-9cec0dab]]'

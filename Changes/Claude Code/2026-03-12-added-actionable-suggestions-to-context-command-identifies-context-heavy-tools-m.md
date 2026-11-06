@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2a6fed5b4a7b317eb329d9b74b6f988fe9da9029146eb7f140dc8b7b703ee11b
+machine_hash: 73df48b09dba14cf59b009cde82e20edf2d27aa939e704c328d18a55f0d1b93c
 product: claude-code
 product_name: Claude Code
 record:
@@ -92,7 +92,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-03-11 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-11-faster-shell-commands-on-windows-by-skipping-powershell-profile-loading|Faster shell commands on Windows by skipping PowerShell profile loading]]
-- Later: 2026-03-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-16-3-reliability-and-performance-changes-in-v1-0-6|3 Reliability and Performance changes in v1.0.6]]
+- Later: 2026-03-12 · v0 · [[Changes/v0/2026-03-12-improved-code-server-loading-speed-for-fresh-vms|Improved code-server loading speed for fresh VMs]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

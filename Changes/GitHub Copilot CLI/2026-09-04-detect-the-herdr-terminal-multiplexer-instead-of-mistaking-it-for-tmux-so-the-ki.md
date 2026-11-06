@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2ba8b954e6e9fe92f74c55db3b1276a5f741c03e2d15e92876d1b95c3bc86066
+machine_hash: 407b4aaae64eb51c8c34f16d0a9208989fbc797463d6ea34e0b325b538c12b9e
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -90,7 +90,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-09-04 · Claude Code · [[Changes/Claude Code/2026-09-04-3-developer-workflow-changes-in-v2-1-261|3 Developer Workflow changes in v2.1.261]]
-- Later: 2026-09-08 · Claude Code · [[Changes/Claude Code/2026-09-08-2-developer-workflow-changes-in-v2-1-265|2 Developer Workflow changes in v2.1.265]]
+- Later: 2026-09-07 · ElevenLabs · [[Changes/ElevenLabs/2026-09-07-elevenlabs-cli|ElevenLabs CLI]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b99fa454cf472bca3cac629ef5fa49ea60dcb430ce9384aaddfa0de9ffb7a32a
+machine_hash: 504d81aa067c226992b7ab7de5ef30fca15cca220fd36fefe0170caeb9511145
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -52,10 +52,8 @@ record:
   title: 6 Agent Mode changes in rust-v0.154.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-04-2-agent-mode-changes-in-v2-1-261|2 Agent Mode
-  changes in v2.1.261]]'
-- '[[Changes/GitHub Copilot CLI/2026-09-04-stopping-a-timed-out-shell-command-now-lets-queued-messages-run-and-sessions-ret|Stopping
-  a timed-out shell command now lets queued messages run and sessions return…]]'
+- '[[Changes/ElevenLabs/2026-09-07-elevenagents|ElevenAgents]]'
+- '[[Changes/ElevenLabs/2026-09-07-python-sdk|Python SDK]]'
 - '[[Changes/Claude Code/2026-09-08-improved-workflows-agent-detail-tool-calls-are-marked-running-failed-or-done-the|Improved
   /workflows agent detail]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-09-09-rust-v0-154-0-github-385887902-ee241ff1|codex-cli-2026-09-09-rust-v0-154-0-github-385887902-ee241ff1]]'

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1e610aeeac7a03ac2d54aa440aad31e9b714024c0b993100d88d1fed635e6b36
+machine_hash: d01c4d38141869453c71a61a68493ad75a6c632d798e0b33becd9fa8d91e64b9
 product: cursor
 product_name: Cursor
 record:
@@ -52,8 +52,8 @@ record:
   title: 4 Apps and Integrations changes in 2.4
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-01-21-10-apps-and-integrations-changes-in-v0-25-0|10
-  Apps and Integrations changes in v0.25.0]]'
+- '[[Changes/v0/2026-01-21-improved-integration-card-design-with-less-prominent-skip-button|Improved
+  integration card design with less prominent skip button]]'
 - '[[Changes/Claude Code/2026-01-22-vscode-added-native-plugin-management-support|VSCode
   Added native plugin management support]]'
 - '[[Changes/Codex CLI/2026-01-22-2-apps-and-integrations-changes-in-rust-v0-89-0|2

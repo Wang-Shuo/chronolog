@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 9370d9a8813a6f21f000158a2b5d13ce95f1e39ae88be5cc854c34f849f9548e
+machine_hash: 744aad42daf4206f532f4960b67dd72d3438878054f1a816626cbf09cb383a5e
 product: cline
 product_name: Cline
 record:
@@ -43,10 +43,9 @@ record:
   title: Improve prompting for new task tool
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-04-10-prompt-agent-to-follow-existing-pr-template-when-create-new-pr-by-xingyaoww-in-h|Prompt
-  agent to follow existing PR template when create new PR]]'
-- '[[Changes/Cursor/2025-04-15-reviewing-agent-generated-code-is-now-easier-with-a-built-in-diff-view-at-the-en|Making
-  reviews easier]]'
+- '[[Changes/ElevenLabs/2025-04-21-agents-platform-acb364|Agents Platform]]'
+- '[[Changes/Dify/2025-04-23-3-agent-mode-changes-in-1-3-0|3 Agent Mode changes in
+  1.3.0]]'
 - '[[Changes/OpenHands/2025-04-23-improved-logic-to-prevent-agent-from-getting-stuck-by-rbren-in-https-github-com|Improved
   logic to prevent agent from getting stuck]]'
 source_release: '[[Releases/Cline/cline-2025-04-24-v3-13-2-github-214623274-8a6a3c52|cline-2025-04-24-v3-13-2-github-214623274-8a6a3c52]]'
@@ -80,7 +79,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2025-04-23 · OpenHands · [[Changes/OpenHands/2025-04-23-improved-logic-to-prevent-agent-from-getting-stuck-by-rbren-in-https-github-com|Improved logic to prevent agent from getting stuck]]
-- Later: 2025-05-01 · OpenHands · [[Changes/OpenHands/2025-05-01-added-support-for-agent-pause-and-resume-functionality-in-the-cli-by-pandukamudi|Added support for agent pause and resume functionality in the CLI]]
+- Later: 2025-04-25 · Replit · [[Changes/Replit/2025-04-25-mobile-app-agent-tour-and-deployments-in-dock|Mobile app Agent tour and deployments in dock]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

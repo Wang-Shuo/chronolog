@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 14eb2f9f46fd15fb9942c72d2acd0d73a6b990277514248d5b97742bb8f8b846
+machine_hash: 06f4de8f64c32e54eddeb964d91e58b1aa2f4a717ee83dc32144961aa26ce566
 product: aider
 product_name: Aider
 record:
@@ -50,12 +50,12 @@ record:
   title: 5 Model Support changes in v0.30.0
   type: change
 related_changes:
-- '[[Changes/Aider/2024-04-09-4-model-support-changes-in-v0-28-0|4 Model Support changes
-  in v0.28.0]]'
-- '[[Changes/Cursor/2024-04-12-new-gpt-4-model-as-of-a-couple-of-days-ago-you-can-try-out-gpt-4-turbo-2024-04-0|New
-  GPT-4 model: As of a couple of days ago, you can try out gpt-4-turbo-2024-04-09…]]'
 - '[[Changes/Aider/2024-04-21-4-model-support-changes-in-v0-29-0|4 Model Support changes
   in v0.29.0]]'
+- "[[Changes/Open WebUI/2024-04-21-model-selector-resolved-issue-where-default-model-selection-was-not-saving|\U0001F527
+  Model Selector: Resolved issue where default model selection was not saving]]"
+- '[[Changes/Dify/2024-04-22-4-model-support-changes-in-0-6-4|4 Model Support changes
+  in 0.6.4]]'
 source_release: '[[Releases/Aider/aider-2024-04-24-v0-30-0-github-152501578-f64b607d|aider-2024-04-24-v0-30-0-github-152501578-f64b607d]]'
 source_type: github_releases
 theme: model-support
@@ -94,8 +94,8 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.30.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2024-04-21 · Aider · [[Changes/Aider/2024-04-21-4-model-support-changes-in-v0-29-0|4 Model Support changes in v0.29.0]]
-- Later: 2024-05-02 · Aider · [[Changes/Aider/2024-05-02-switch-models-during-the-chat-with-model-name-and-search-the-list-of-available-m|Switch models during the chat with /model name and search the list of available…]]
+- Earlier: 2024-04-22 · Dify · [[Changes/Dify/2024-04-22-4-model-support-changes-in-0-6-4|4 Model Support changes in 0.6.4]]
+- Later: 2024-04-25 · Dify · [[Changes/Dify/2024-04-25-6-model-support-changes-in-0-6-5|6 Model Support changes in 0.6.5]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4065bcbfa9c5fbfa5b6437d1cc6da165f55b119135fc04448c96a45a4ee6a006
+machine_hash: 64cdc6471b3776469d0b5f46bc6ac5d2b1bdf624c4cc7673d1a4bff248fad771
 product: cursor
 product_name: Cursor
 record:
@@ -40,8 +40,8 @@ record:
   title: '1.7.4: Shift+Tab shortcut improvements'
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-09-24-8-editor-experience-changes-in-v0-6-0|8 Editor
-  Experience changes in v0.6.0]]'
+- '[[Changes/Open WebUI/2025-09-25-2-editor-experience-changes-in-v0-6-31|2 Editor
+  Experience changes in v0.6.31]]'
 - '[[Changes/GitHub Copilot CLI/2025-09-26-2-editor-experience-changes-in-v0-0-328|2
   Editor Experience changes in v0.0.328]]'
 - '[[Changes/Cursor/2025-09-29-when-writing-prompts-autocomplete-suggestions-will-appear-based-on-recent-change|Autocomplete
@@ -93,7 +93,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2025-09-26 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-09-26-2-editor-experience-changes-in-v0-0-328|2 Editor Experience changes in v0.0.328]]
-- Later: 2025-09-29 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-09-29-4-editor-experience-changes-in-v0-0-329|4 Editor Experience changes in v0.0.329]]
+- Later: 2025-09-29 · Dify · [[Changes/Dify/2025-09-29-2-editor-experience-changes-in-1-9-1|2 Editor Experience changes in 1.9.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

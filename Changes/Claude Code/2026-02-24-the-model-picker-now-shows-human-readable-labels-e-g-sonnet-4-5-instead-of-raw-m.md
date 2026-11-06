@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 3617c815648582794e6f510d502150afd86890cf2e9cacf17a5d0f343034856e
+machine_hash: 13923af04d75f6dd7665dcdfd28cad4f976c225b08ed944b6ca33c12072463ca
 product: claude-code
 product_name: Claude Code
 record:
@@ -58,12 +58,11 @@ record:
     instead…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-02-19-2-model-support-changes-in-v0-0-412|2 Model
-  Support changes in v0.0.412]]'
-- '[[Changes/GitHub Copilot CLI/2026-02-20-2-model-support-changes-in-v0-0-413|2 Model
-  Support changes in v0.0.413]]'
-- '[[Changes/GitHub Copilot CLI/2026-02-23-plan-approval-menu-shows-model-curated-actions-with-a-recommended-option-highlig|Plan
-  approval menu shows model-curated actions with a recommended option highlighted…]]'
+- '[[Changes/Lovable/2026-02-23-opus-4-6|Opus 4.6]]'
+- "[[Changes/Open WebUI/2026-02-23-model-access-keyerror-fix-the-api-models-endpoint-no-longer-crashes-with-a-500-e|\U0001F6AB
+  Model access KeyError fix. The /api/models endpoint no longer crashes…]]"
+- '[[Changes/Open WebUI/2026-02-23-16-model-support-changes-in-v0-8-4|16 Model Support
+  changes in v0.8.4]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-24-v2-1-51-github-289665343-b4bbdd9c|claude-code-2026-02-24-v2-1-51-github-289665343-b4bbdd9c]]'
 source_type: github_releases
 theme: model-support
@@ -95,7 +94,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-02-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-23-plan-approval-menu-shows-model-curated-actions-with-a-recommended-option-highlig|Plan approval menu shows model-curated actions with a recommended option highlighted…]]
+- Earlier: 2026-02-23 · Open WebUI · [[Changes/Open WebUI/2026-02-23-16-model-support-changes-in-v0-8-4|16 Model Support changes in v0.8.4]]
 - Later: 2026-02-24 · Cline · [[Changes/Cline/2026-02-24-added-codex-5-3-model-support|Added Codex 5.3 model support]]
 <!-- chronolog:end -->
 

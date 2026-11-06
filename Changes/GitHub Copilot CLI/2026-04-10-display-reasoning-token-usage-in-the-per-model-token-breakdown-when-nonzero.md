@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 8e5e38774730b40624131e7c86e31c7549251633953cc22bc13a17c9eaead1f7
+machine_hash: d6f5d91d7ede8a2d18bf6a3cd36079cac92dd0e09e8dafdf742c269f427e3f7e
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-04-10 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-10-custom-agent-model-field-now-accepts-display-names-and-vendor-suffixes-from-vs-c|Custom agent model field now accepts display names and vendor suffixes from VS Code…]]
-- Later: 2026-04-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-13-the-config-dir-flag-is-now-respected-when-selecting-the-active-model|The --config-dir flag is now respected when selecting the active model]]
+- Later: 2026-04-13 · ElevenLabs · [[Changes/ElevenLabs/2026-04-13-python-sdk|Python SDK]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 33a2f2bb9d2555a81bc902e09429e6a8243ef89ecc8bbbc2867a2a4deb4b95f3
+machine_hash: 970b567146671530a0cbdd077b8a547e604f5cceca502cbf6f620ab4227284ff
 product: cline
 product_name: Cline
 record:
@@ -41,8 +41,8 @@ record:
   title: Show a clear "Searching..." state in the @-mention file picker
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-11-added-transcript-view-navigation-for-keyboard-shortcuts-to-jump-between-user-pro|Added
-  transcript view navigation]]'
+- '[[Changes/Dify/2026-05-12-8-interface-experience-changes-in-1-14-1|8 Interface
+  Experience changes in 1.14.1]]'
 - '[[Changes/Gemini CLI/2026-05-12-test-evals-add-behavioral-eval-for-file-creation-and-write-file-tool-selection-b|test(evals):
   add behavioral eval for file creation and write_file tool selection]]'
 - '[[Changes/Claude Code/2026-05-13-2-interface-experience-changes-in-v2-1-141|2 Interface

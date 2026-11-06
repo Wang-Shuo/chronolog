@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d7564ed616c755871660e1974e0368aae48d9213ad8e312a280f970085e025ba
+machine_hash: 9cc8e272215363d3e7e7a1932a5d48ce5a836f23ae7b8e7fbad119f895e3eb73
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -62,10 +62,10 @@ record:
   title: 10 Model Support changes in rust-v0.166.0
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-10-27-add-banner-about-gemini-cli-not-being-optimized-for-gemini-4-by-srithreepo-in-ht|Add
-  Banner about Gemini CLI not being optimized for Gemini 4]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-27-managed-model-fusion-now-starts-sessions-on-auto-and-applies-fusiontier-settings|Managed
   model "fusion" now starts sessions on Auto and applies fusionTier settings]]'
+- '[[Changes/Ollama/2026-10-27-speculative-decoding-now-supports-dflash2-draft-models-on-mlx|Speculative
+  decoding now supports DFlash2 draft models on MLX]]'
 - '[[Changes/OpenHands/2026-10-27-refactor-settings-use-existing-model-profile-theme-aliases-by-enyst-in-https-git|refactor(settings):
   use existing model-profile theme aliases]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-10-29-rust-v0-166-0-github-428320524-44f8c24a|codex-cli-2026-10-29-rust-v0-166-0-github-428320524-44f8c24a]]'
@@ -132,7 +132,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.166.0
 ## Nearby in Model Support
 
 - Earlier: 2026-10-27 · OpenHands · [[Changes/OpenHands/2026-10-27-refactor-settings-use-existing-model-profile-theme-aliases-by-enyst-in-https-git|refactor(settings): use existing model-profile theme aliases]]
-- Later: 2026-10-30 · Claude Code · [[Changes/Claude Code/2026-10-30-2-model-support-changes-in-v2-1-314|2 Model Support changes in v2.1.314]]
+- Later: 2026-10-29 · Open WebUI · [[Changes/Open WebUI/2026-10-29-7-model-support-changes-in-v0-12-5|7 Model Support changes in v0.12.5]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

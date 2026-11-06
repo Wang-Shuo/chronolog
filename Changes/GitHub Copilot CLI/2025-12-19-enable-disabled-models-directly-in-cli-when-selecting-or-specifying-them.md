@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9697a0a574be316b389aa56c69a92726bfa26669d02047d533e84089ae84fb54
+machine_hash: 77056561e84a67dcf44260a0b3017ff0d3b2da5dc612497d0ace6d4374f0159b
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -41,10 +41,10 @@ record:
   title: Enable disabled models directly in CLI when selecting or specifying them
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-12-18-introducing-gpt-5-2-codex-our-latest-frontier-model-with-improvements-across-kno|Introducing
-  gpt-5.2-codex our latest frontier model with improvements across…]]'
 - '[[Changes/GitHub Copilot CLI/2025-12-18-2-model-support-changes-in-v0-0-370|2 Model
   Support changes in v0.0.370]]'
+- '[[Changes/Ollama/2025-12-18-2-model-support-changes-in-v0-13-5|2 Model Support
+  changes in v0.13.5]]'
 - '[[Changes/Codex CLI/2025-12-19-2-model-support-changes-in-rust-v0-76-0|2 Model
   Support changes in rust-v0.76.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2025-12-19-v0-0-372-github-271893970-70917d7f|github-copilot-cli-2025-12-19-v0-0-372-github-271893970-70917d7f]]'

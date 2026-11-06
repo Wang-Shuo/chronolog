@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e940a9d56bcac0d04c66292a0815b03811ab073a12e7dad068e133e43adadf62
+machine_hash: fa85dcc47551a9f8af27672b956737705bb2a99c0688ec2c2255cb31775962b4
 product: openhands
 product_name: OpenHands
 record:
@@ -43,12 +43,12 @@ record:
   title: 'fix(telemetry): retry automation consent sync'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-09-4-safety-and-privacy-changes-in-v2-1-296|4 Safety
-  and Privacy changes in v2.1.296]]'
-- '[[Changes/GitHub Copilot CLI/2026-10-09-copilot-config-supports-sandbox-credential-injecthosts-keys-with-key-completion|copilot
-  config supports sandbox credential injectHosts keys, with key completion…]]'
+- '[[Changes/Open WebUI/2026-10-10-6-safety-and-privacy-changes-in-v0-12-0|6 Safety
+  and Privacy changes in v0.12.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-12-3-safety-and-privacy-changes-in-v1-0-96|3
   Safety and Privacy changes in v1.0.96]]'
+- '[[Changes/Ollama/2026-10-12-updated-readme-and-documentation-with-clearer-privacy-and-cloud-services-wording|Updated
+  README and documentation with clearer privacy and cloud-services wording]]'
 source_release: '[[Releases/OpenHands/openhands-2026-10-12-v1-27-0-github-410728945-cac9a43e|openhands-2026-10-12-v1-27-0-github-410728945-cac9a43e]]'
 source_type: github_releases
 theme: safety-privacy
@@ -82,7 +82,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-10-12 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-12-3-safety-and-privacy-changes-in-v1-0-96|3 Safety and Privacy changes in v1.0.96]]
+- Earlier: 2026-10-12 · Ollama · [[Changes/Ollama/2026-10-12-updated-readme-and-documentation-with-clearer-privacy-and-cloud-services-wording|Updated README and documentation with clearer privacy and cloud-services wording]]
 - Later: 2026-10-13 · Cursor · [[Changes/Cursor/2026-10-13-origin-now-integrates-with-over-20-apps-for-deployments-ci-code-review-security-99509e|Origin now integrates with over 20 apps for deployments, CI, code review, security…]]
 <!-- chronolog:end -->
 

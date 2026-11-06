@@ -10,12 +10,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 143ccbf2b9f46838289c113156e2e00eab59c29c943830e02d9921665215f4d4
+machine_hash: fb2a363ad6e2a08b8d475bc41a3e714120f9f821501be87836d9c7080c57bee1
 product: cursor
 product_name: Cursor
 record:
@@ -38,9 +38,10 @@ record:
   title: Diffs in AI linter feedback
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-05-17-in-terminal-debugging-f140b2|In-terminal Debugging]]'
 - '[[Changes/Aider/2023-06-07-added-in-chat-command-clear-to-clear-the-conversation-history|Added
   in-chat command /clear to clear the conversation history]]'
+- '[[Changes/Dify/2023-06-09-delete-segment-not-commit-by-johnjyong-in-https-github-com-langgenius-dify-pull|delete
+  segment not commit]]'
 - '[[Changes/Cursor/2023-06-14-small-fix-for-a-format-on-save-bug-that-was-introduced-in-the-last-release-some|Small
   improvements]]'
 source_release: '[[Releases/Cursor/cursor-2023-06-17-0-2-34-nightly-https-cursor-com-changelog-0-2-34-nightly-12d24396|cursor-2023-06-17-0-2-34-nightly-https-cursor-com-changelog-0-2-34-nightly-12d24396]]'

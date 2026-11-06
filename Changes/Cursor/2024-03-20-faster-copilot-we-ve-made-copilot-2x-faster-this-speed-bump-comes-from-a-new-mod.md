@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: a13248e3bb9179d87707b40b49005416187df0e6a63f3a51cc0e150ee9da0625
+machine_hash: 286471fac6e2af694efd2ca1e5b72c2728ec51a76d04c8bb32b4be4b2aa9387b
 product: cursor
 product_name: Cursor
 record:
@@ -63,12 +63,12 @@ record:
   title: 'Faster Copilot++: We''ve made Copilot++ ~2x faster!'
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-11-30-faster-copilot-a-few-hundred-milliseconds-faster-through-various-networking-opti|Faster
-  Copilot++: a few hundred milliseconds faster, through various networking…]]'
-- '[[Changes/Cursor/2024-02-02-0-25-2-copilot-performance-improvements|0.25.2: Copilot++
-  performance improvements]]'
-- '[[Changes/Cursor/2024-02-02-apply-diffs-from-chat-should-be-a-bit-faster|"Apply
-  Diffs" from chat should be a bit faster]]'
+- '[[Changes/Ollama/2024-02-02-when-making-api-requests-the-new-keep-alive-parameter-can-be-used-to-control-how|When
+  making API requests, the new keep_alive parameter can be used to control how…]]'
+- '[[Changes/Dify/2024-02-13-pref-optimize-add-hit-count-query-performance-when-dataset-hit-by-takatost-in-ht|pref:
+  optimize add hit count query performance when dataset hit]]'
+- '[[Changes/Ollama/2024-02-22-performance-improvements-up-to-2x-when-running-gemma-https-ollama-com-library-ge|Performance
+  improvements (up to 2x) when running…]]'
 source_release: '[[Releases/Cursor/cursor-2024-03-20-0-30-x-https-cursor-com-changelog-0-30-x-e7e3c53e|cursor-2024-03-20-0-30-x-https-cursor-com-changelog-0-30-x-e7e3c53e]]'
 source_type: cursor_changelog
 theme: reliability-performance
@@ -100,8 +100,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2024-02-02 · Cursor · [[Changes/Cursor/2024-02-02-apply-diffs-from-chat-should-be-a-bit-faster|"Apply Diffs" from chat should be a bit faster]]
-- Later: 2024-05-03 · Cursor · [[Changes/Cursor/2024-05-03-update-0-33-1-0-33-3-fix-to-settings-toggles-fix-to-copilot-diffbox-performance|UPDATE (0.33.1–0.33.3): Fix to settings toggles, fix to Copilot++ diffbox…]]
+- Earlier: 2024-02-22 · Ollama · [[Changes/Ollama/2024-02-22-performance-improvements-up-to-2x-when-running-gemma-https-ollama-com-library-ge|Performance improvements (up to 2x) when running…]]
+- Later: 2024-04-09 · Dify · [[Changes/Dify/2024-04-09-this-update-primarily-focuses-on-enhancing-system-stability-and-improving-user-e|This update primarily focuses on enhancing system stability and improving user experience]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

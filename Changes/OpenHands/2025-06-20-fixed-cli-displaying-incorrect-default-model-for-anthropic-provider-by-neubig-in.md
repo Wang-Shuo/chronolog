@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: f9c1aadae3cf9b808981075e0a7444f5f32d8105daf02bfa9077c1ac1e3f4450
+machine_hash: d465a3abb535cbc1a7d7e8a89c88d3a7ac17280f5188e51a09bbb12f8d163502
 product: openhands
 product_name: OpenHands
 record:
@@ -49,13 +49,12 @@ record:
     by @neubig…'
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-06-12-once-connected-try-it-in-any-channel-with-cursor-and-write-a-prompt-use-the-comm|Once
-  connected, try it in any channel with @Cursor and write a prompt]]'
-- '[[Changes/ChatGPT/2025-06-13-in-some-cases-a-chain-of-thought-reasoning-will-show-up-unexpectedly-for-simple|In
-  some cases, a “chain of thought” reasoning will show up unexpectedly for simple
-  queries]]'
 - '[[Changes/ChatGPT/2025-06-16-enterprise-and-edu-users-can-also-now-choose-from-the-full-set-of-chatgpt-models-1ea372|Expanded
   Model Support for Custom GPTs]]'
+- '[[Changes/Dify/2025-06-16-3-model-support-changes-in-1-4-3|3 Model Support changes
+  in 1.4.3]]'
+- '[[Changes/Open WebUI/2025-06-16-2-model-support-changes-in-v0-6-15|2 Model Support
+  changes in v0.6.15]]'
 source_release: '[[Releases/OpenHands/openhands-2025-06-20-0-44-0-github-226788383-62d9d16f|openhands-2025-06-20-0-44-0-github-226788383-62d9d16f]]'
 source_type: github_releases
 theme: model-support
@@ -88,7 +87,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-06-16 · ChatGPT · [[Changes/ChatGPT/2025-06-16-enterprise-and-edu-users-can-also-now-choose-from-the-full-set-of-chatgpt-models-1ea372|Expanded Model Support for Custom GPTs]]
+- Earlier: 2025-06-16 · Open WebUI · [[Changes/Open WebUI/2025-06-16-2-model-support-changes-in-v0-6-15|2 Model Support changes in v0.6.15]]
 - Later: 2025-06-20 · OpenHands · [[Changes/OpenHands/2025-06-20-deprecation-warnings-in-cli-and-during-llm-api-calls-by-xingyaoww-in-https-githu|Deprecation Warnings in CLI and during LLM API calls by @xingyaoww…]]
 <!-- chronolog:end -->
 

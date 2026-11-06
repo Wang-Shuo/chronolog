@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 04dcd05ead4ff7babdbb4671b14f9d36f2c39af204ce9e1530c65a0ec1bdcd7a
+machine_hash: 767195063ac3b6e99da0f3955a098956ea9921bf923c0c02e5bb4944db20d06b
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,11 +46,11 @@ record:
     context…'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-10-press-tab-to-switch-the-context-window-in-model|Press
-  Tab to switch the context window in /model]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-16-2-context-window-changes-in-v1-0-71|2 Context
   Window changes in v1.0.71]]'
 - '[[Changes/Cursor/2026-07-17-cross-channel-workflows|Cross-channel workflows]]'
+- '[[Changes/Dify/2026-07-17-16-context-window-changes-in-1-16-0|16 Context Window
+  changes in 1.16.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-20-v2-1-216-github-356972381-87e422ae|claude-code-2026-07-20-v2-1-216-github-356972381-87e422ae]]'
 source_type: github_releases
 theme: context-window
@@ -83,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-07-17 · Cursor · [[Changes/Cursor/2026-07-17-cross-channel-workflows|Cross-channel workflows]]
+- Earlier: 2026-07-17 · Dify · [[Changes/Dify/2026-07-17-16-context-window-changes-in-1-16-0|16 Context Window changes in 1.16.0]]
 - Later: 2026-07-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-20-2-context-window-changes-in-v1-0-72|2 Context Window changes in v1.0.72]]
 <!-- chronolog:end -->
 

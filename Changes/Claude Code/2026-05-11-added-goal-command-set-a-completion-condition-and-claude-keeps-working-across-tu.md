@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5fe9a84d8068a8fdc2b61a618b3c8d8f14cb22179f72111ebfce09e4b981e65c
+machine_hash: c39e3336c6e01af7aaf552a7f313569be2372f875b7096f1f93255d12e9e966b
 product: claude-code
 product_name: Claude Code
 record:
@@ -55,12 +55,12 @@ record:
   title: Added `/goal` command
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-05-07-made-mcp-connection-behavior-more-predictable-and-added-explicit-stale-token-cle|Made
-  MCP connection behavior more predictable, and added explicit stale token…]]'
-- '[[Changes/Claude Code/2026-05-08-changed-plugin-marketplace-removal-key-to-d-matching-delete-elsewhere-instead-of|Changed
-  plugin marketplace removal key to d (matching delete elsewhere) instead…]]'
 - '[[Changes/Codex CLI/2026-05-08-8-apps-and-integrations-changes-in-rust-v0-130-0|8
   Apps and Integrations changes in rust-v0.130.0]]'
+- '[[Changes/Replit/2026-05-08-speaker-notes-and-presenter-view-in-slide-decks|Speaker
+  notes and Presenter view in Slide Decks]]'
+- '[[Changes/Open WebUI/2026-05-09-3-apps-and-integrations-changes-in-v0-9-3|3 Apps
+  and Integrations changes in v0.9.3]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-11-v2-1-139-github-320692766-5e65de7d|claude-code-2026-05-11-v2-1-139-github-320692766-5e65de7d]]'
 source_type: github_releases
 theme: apps-integrations
@@ -98,7 +98,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-05-08 · Codex CLI · [[Changes/Codex CLI/2026-05-08-8-apps-and-integrations-changes-in-rust-v0-130-0|8 Apps and Integrations changes in rust-v0.130.0]]
+- Earlier: 2026-05-09 · Open WebUI · [[Changes/Open WebUI/2026-05-09-3-apps-and-integrations-changes-in-v0-9-3|3 Apps and Integrations changes in v0.9.3]]
 - Later: 2026-05-11 · Cursor · [[Changes/Cursor/2026-05-11-get-started-by-installing-the-integration-in-the-cursor-dashboard-learn-more-in|Get started by installing the integration in the Cursor dashboard]]
 <!-- chronolog:end -->
 

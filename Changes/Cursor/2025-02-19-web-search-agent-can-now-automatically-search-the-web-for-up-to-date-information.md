@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 507bd7b17e0b8348c0a1aa2990a52a92bc60edef09dcde02fea77c70c79e40c0
+machine_hash: 782cecea8ab1495b52043b7f1ab3937adecd23e3768598a5835a81cbebb2dde4
 product: cursor
 product_name: Cursor
 record:
@@ -56,12 +56,12 @@ record:
   title: 'Web search: Agent can now automatically search the web for up-to-date information…'
   type: change
 related_changes:
-- '[[Changes/OpenHands/2024-12-04-added-alignment-checker-for-browsing-agent-by-s-aniruddha-in-https-github-com-al|Added
-  Alignment checker for browsing agent]]'
-- '[[Changes/Cline/2024-12-12-the-model-context-protocol-https-github-com-modelcontextprotocol-allows-agents-l|The
-  Model Context Protocol((source link) allows agents…]]'
+- '[[Changes/Open WebUI/2025-02-13-2-search-and-browsing-changes-in-v0-5-11|2 Search
+  and Browsing changes in v0.5.11]]'
 - '[[Changes/ChatGPT/2025-02-14-set-chatgpt-as-default-search-engine-in-safari|Set
   ChatGPT as default search engine in Safari]]'
+- '[[Changes/Open WebUI/2025-02-18-2-search-and-browsing-changes-in-v0-5-13|2 Search
+  and Browsing changes in v0.5.13]]'
 source_release: '[[Releases/Cursor/cursor-2025-02-19-0-46-x-https-cursor-com-changelog-0-46-x-640a0a10|cursor-2025-02-19-0-46-x-https-cursor-com-changelog-0-46-x-640a0a10]]'
 source_type: cursor_changelog
 theme: search-browsing
@@ -100,8 +100,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Search and Browsing
 
-- Earlier: 2025-02-14 · ChatGPT · [[Changes/ChatGPT/2025-02-14-set-chatgpt-as-default-search-engine-in-safari|Set ChatGPT as default search engine in Safari]]
-- Later: 2025-04-02 · OpenHands · [[Changes/OpenHands/2025-04-02-turn-on-vision-based-browsing-by-default-and-allow-openhands-to-see-pdf-images-i|Turn on vision-based browsing by default and allow OpenHands to see PDF / images…]]
+- Earlier: 2025-02-18 · Open WebUI · [[Changes/Open WebUI/2025-02-18-2-search-and-browsing-changes-in-v0-5-13|2 Search and Browsing changes in v0.5.13]]
+- Later: 2025-02-20 · Open WebUI · [[Changes/Open WebUI/2025-02-20-smarter-web-search-with-agentic-workflows-web-searches-now-intelligently-gather|🌍 Smarter Web Search with Agentic Workflows]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

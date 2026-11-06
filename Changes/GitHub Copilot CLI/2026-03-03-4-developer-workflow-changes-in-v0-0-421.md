@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8c09bf714dabe9cae998886317f3d9d9fd720b407a49fe61b52d8af157b1cd9c
+machine_hash: bdfe42d04dfd886e0b79eb62ce0411228ecb55106428a6d3fe69da07b4ae38ab
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -99,7 +99,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v0.0.421
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-03-03 · Gemini CLI · [[Changes/Gemini CLI/2026-03-03-2-developer-workflow-changes-in-v0-32-0|2 Developer Workflow changes in v0.32.0]]
-- Later: 2026-03-05 · Claude Code · [[Changes/Claude Code/2026-03-05-6-developer-workflow-changes-in-v2-1-69|6 Developer Workflow changes in v2.1.69]]
+- Later: 2026-03-03 · v0 · [[Changes/v0/2026-03-03-added-git-support-for-version-control-in-projects|Added Git support for version control in projects]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

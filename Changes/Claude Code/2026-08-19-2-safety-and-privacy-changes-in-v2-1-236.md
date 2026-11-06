@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c8655c6f2ad817644ca6fb32922e2b16bb0076b1f1c20619c7de743e527ade98
+machine_hash: 8692fc3c45edb300317ad0d254e02c619a7388c68e8e2aef4ca2d36e52539bc4
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,8 +47,8 @@ record:
   title: 2 Safety and Privacy changes in v2.1.236
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-17-8-safety-and-privacy-changes-in-v2-1-234|8 Safety
-  and Privacy changes in v2.1.234]]'
+- '[[Changes/Lovable/2026-08-17-workspace-insights-is-now-security-insights|Workspace
+  insights is now Security insights]]'
 - '[[Changes/Claude Code/2026-08-18-2-safety-and-privacy-changes-in-v2-1-235|2 Safety
   and Privacy changes in v2.1.235]]'
 - '[[Changes/Codex CLI/2026-08-18-17-safety-and-privacy-changes-in-rust-v0-148-0|17
@@ -94,7 +94,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.236
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-08-18 · Codex CLI · [[Changes/Codex CLI/2026-08-18-17-safety-and-privacy-changes-in-rust-v0-148-0|17 Safety and Privacy changes in rust-v0.148.0]]
-- Later: 2026-08-20 · Claude Code · [[Changes/Claude Code/2026-08-20-3-safety-and-privacy-changes-in-v2-1-238|3 Safety and Privacy changes in v2.1.238]]
+- Later: 2026-08-19 · Lovable · [[Changes/Lovable/2026-08-19-a-simpler-publish-dialog|A simpler Publish dialog]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

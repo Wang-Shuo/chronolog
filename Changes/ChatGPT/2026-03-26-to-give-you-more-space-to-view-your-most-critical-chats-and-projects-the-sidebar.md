@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7fc80187475934fe2b45d8fb21e554a9d75da97655f61b87538fa692dae19b70
+machine_hash: 0b9bbed9c28511eb4e1c91bfc246e14ea108f1dceac07d65cd7663ad4edae2fd
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -48,12 +48,12 @@ record:
   title: A simplified sidebar on mobile
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-19-2-interface-experience-changes-in-rust-v0-116-0|2
-  Interface Experience changes in rust-v0.116.0]]'
 - '[[Changes/Gemini CLI/2026-03-24-docs-cli-add-custom-keybinding-documentation-by-scidomino-in-https-github-com-go|docs(cli):
   add custom keybinding documentation]]'
 - '[[Changes/Claude Code/2026-03-25-2-interface-experience-changes-in-v2-1-83|2 Interface
   Experience changes in v2.1.83]]'
+- '[[Changes/Open WebUI/2026-03-25-17-interface-experience-changes-in-v0-8-11|17 Interface
+  Experience changes in v0.8.11]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-03-26-a-simplified-sidebar-on-mobile-0f580b11|chatgpt-2026-03-26-a-simplified-sidebar-on-mobile-0f580b11]]'
 source_type: chatgpt_changelog
 theme: interface-experience
@@ -80,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-03-25 · Claude Code · [[Changes/Claude Code/2026-03-25-2-interface-experience-changes-in-v2-1-83|2 Interface Experience changes in v2.1.83]]
+- Earlier: 2026-03-25 · Open WebUI · [[Changes/Open WebUI/2026-03-25-17-interface-experience-changes-in-v0-8-11|17 Interface Experience changes in v0.8.11]]
 - Later: 2026-03-26 · Claude Code · [[Changes/Claude Code/2026-03-26-improved-mention-file-autocomplete-performance-on-large-repositories|Improved @-mention file autocomplete performance on large repositories]]
 <!-- chronolog:end -->
 

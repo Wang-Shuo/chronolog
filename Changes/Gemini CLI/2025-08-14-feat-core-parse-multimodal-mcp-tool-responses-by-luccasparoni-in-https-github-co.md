@@ -4,20 +4,20 @@ date: '2025-08-14'
 description: 'Gemini CLI · 2025-08-14 · Multimodal Input: feat(core): Parse Multimodal
   MCP Tool responses by @luccasparoni in…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-09-25-you-can-now-show-chatgpt-one-or-more-images-troubleshoot-why-your-grill-won-t-st-e42bd6|Image
-    input will be generally available to Plus users on all platforms]]'
+  first_in_tracked: '[[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add
+    video to cn readme]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 689
+  lag_days: 695
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e07313125e6ddc2786d3ae4101081f8d80a340470f59bb96b756b535af02ec1e
+machine_hash: 8092f54e438a8fe2a520b99dee8ad5263728ce95325e614f4b0fa38c157f6a43
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -99,13 +99,13 @@ type: change
 ## Nearby in Multimodal Input
 
 - Earlier: 2025-08-06 · Gemini CLI · [[Changes/Gemini CLI/2025-08-06-feat-core-parse-multimodal-mcp-tool-responses-by-luccasparoni-in-https-github-co|feat(core): Parse Multimodal MCP Tool responses]]
-- Later: 2025-12-19 · Claude Code · [[Changes/Claude Code/2025-12-19-added-clickable-image-n-links-that-open-attached-images-in-the-default-viewer|Added clickable Image ♯N links that open attached images in the default viewer]]
+- Later: 2025-09-22 · Dify · [[Changes/Dify/2025-09-22-multimodal-embedding-support-richer-content-types-beyond-text|Multimodal Embedding: Support richer content types beyond text]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-25 · ChatGPT · [[Changes/ChatGPT/2023-09-25-you-can-now-show-chatgpt-one-or-more-images-troubleshoot-why-your-grill-won-t-st-e42bd6|Image input will be generally available to Plus users on all platforms]]
+- Earliest same-theme entry in the tracked set: 2023-09-19 · Dify · [[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add video to cn readme]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

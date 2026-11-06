@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0ed63a0a87552c91ce74b5a2281927361c73e2e38e9ec55d3e39982857e26224
+machine_hash: cd79b757400b3c2fb0eccf19edf1621329ee3a9ac3017890721541dc5297aa32
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,10 +44,10 @@ record:
   title: 3 Model Support changes in v1.0.71
   type: change
 related_changes:
-- '[[Changes/Cline/2026-07-11-add-more-models-to-the-gcp-vertex-provider-plus-a-free-form-entry-option-in-the|Add
-  more models to the GCP Vertex provider, plus a free-form entry option…]]'
 - '[[Changes/Claude Code/2026-07-14-improved-the-bash-powershell-tool-message-when-a-command-hits-its-timeout-and-is|Improved
   the Bash/PowerShell tool message when a command hits its timeout…]]'
+- '[[Changes/Lovable/2026-07-15-gpt-5-6-and-gemini-text-to-speech-models-for-your-app-s-ai-features|GPT-5.6
+  and Gemini text-to-speech models for your app''s AI features]]'
 - '[[Changes/Cline/2026-07-16-add-gpt-5-6-chatgpt-subscription-models|Add GPT-5.6
   ChatGPT subscription models]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-07-16-v1-0-71-github-354824472-a089f622|github-copilot-cli-2026-07-16-v1-0-71-github-354824472-a089f622]]'
@@ -99,7 +99,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.71
 ## Nearby in Model Support
 
 - Earlier: 2026-07-16 · Cline · [[Changes/Cline/2026-07-16-add-gpt-5-6-chatgpt-subscription-models|Add GPT-5.6 ChatGPT subscription models]]
-- Later: 2026-07-17 · Claude Code · [[Changes/Claude Code/2026-07-17-3-model-support-changes-in-v2-1-212|3 Model Support changes in v2.1.212]]
+- Later: 2026-07-16 · Ollama · [[Changes/Ollama/2026-07-16-2-model-support-changes-in-v0-32-1|2 Model Support changes in v0.32.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

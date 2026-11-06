@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b19aa58096336d325dac40e5fb5e8ed537e3f4709ef7a17e761b6638e1e385b5
+machine_hash: dc0d33e93d6ac216d2e75902db0a4c5d9549238969768dea29157ad72b5a68e9
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,12 +46,12 @@ record:
   title: 2 Safety and Privacy changes in v2.1.247
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-21-fixed-fullscreen-mode-answering-a-permission-prompt-or-pressing-a-button-when-yo|Fixed
-  fullscreen mode answering a permission prompt or pressing a button when you…]]'
-- '[[Changes/Claude Code/2026-08-25-6-safety-and-privacy-changes-in-v2-1-246|6 Safety
-  and Privacy changes in v2.1.246]]'
+- '[[Changes/Dify/2026-08-25-16-safety-and-privacy-changes-in-1-17-0|16 Safety and
+  Privacy changes in 1.17.0]]'
 - '[[Changes/Gemini CLI/2026-08-25-ssr-agent-issue-fix-26120-clarify-privacy-notice-wording-and-selection-options-b|SSR
   Agent Issue Fix (26120): Clarify privacy notice wording and selection options]]'
+- '[[Changes/Open WebUI/2026-08-25-7-safety-and-privacy-changes-in-v0-11-1|7 Safety
+  and Privacy changes in v0.11.1]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-26-v2-1-247-github-377320078-fc507178|claude-code-2026-08-26-v2-1-247-github-377320078-fc507178]]'
 source_type: github_releases
 theme: safety-privacy
@@ -90,7 +90,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.247
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-08-25 · Gemini CLI · [[Changes/Gemini CLI/2026-08-25-ssr-agent-issue-fix-26120-clarify-privacy-notice-wording-and-selection-options-b|SSR Agent Issue Fix (26120): Clarify privacy notice wording and selection options]]
+- Earlier: 2026-08-25 · Open WebUI · [[Changes/Open WebUI/2026-08-25-7-safety-and-privacy-changes-in-v0-11-1|7 Safety and Privacy changes in v0.11.1]]
 - Later: 2026-08-26 · Codex CLI · [[Changes/Codex CLI/2026-08-26-12-safety-and-privacy-changes-in-rust-v0-150-0|12 Safety and Privacy changes in rust-v0.150.0]]
 <!-- chronolog:end -->
 

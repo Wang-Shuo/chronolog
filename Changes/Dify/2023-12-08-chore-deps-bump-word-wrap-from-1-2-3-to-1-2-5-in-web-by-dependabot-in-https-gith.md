@@ -1,0 +1,96 @@
+---
+card_id: dify-2023-12-08-6210bf
+date: '2023-12-08'
+description: 'Dify · 2023-12-08 · Editor Experience: chore(deps): bump word-wrap from
+  1.2.3 to 1.2.5 in /web by @dependabot in https://github.com/langgenius/dify/pull/1681'
+diffusion:
+  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
+    Editor Experience changes in 0.0.37]]'
+  inference: No adoption, equivalence, or causation claim.
+  lag_days: 269
+  relation: same-theme-chronology
+  role: later-observed
+  scope: tracked-products-only
+  theme: editor-experience
+  tracked_products_count: 20
+evolves_from: []
+extractor_version: fallback-v5
+impact: incremental
+kind: change
+machine_hash: 1c43ce330abcd2d0716785e8dbd6069bd5cac1d6ea72f20f75f10c5be4c8f6b9
+product: dify
+product_name: Dify
+record:
+  card_id: dify-2023-12-08-6210bf
+  comparison: ''
+  date: '2023-12-08'
+  description: 'Dify — v0.3.33: chore(deps): bump word-wrap from 1.2.3 to 1.2.5 in
+    /web by @dependabot in https://github.com/langgenius/dify/pull/1681'
+  evidence:
+  - quote: 'chore(deps): bump word-wrap from 1.2.3 to 1.2.5 in /web by @dependabot
+      in https://github.com/langgenius/dify/pull/1681'
+    source_release: https://github.com/langgenius/dify/releases/tag/0.3.33
+  extractor_version: fallback-v5
+  impact: incremental
+  kind: change
+  product: dify
+  product_name: Dify
+  slug: chore-deps-bump-word-wrap-from-1-2-3-to-1-2-5-in-web-by-dependabot-in-https-gith
+  source_release: dify-2023-12-08-0-3-33-github-133127964-bf22df9f
+  source_type: github_releases
+  theme: editor-experience
+  theme_matches: []
+  theme_resolution: manual-semantic-rule-v1
+  title: 'chore(deps): bump word-wrap from 1.2.3 to 1.2.5 in /web'
+  type: change
+related_changes:
+- '[[Changes/Cursor/2023-11-27-interpreter-mode-beta-you-can-now-enable-interpreter-mode-in-the-more-tab-this-g|Interpreter
+  Mode Beta: You can now enable Interpreter Mode in the "More" tab]]'
+- '[[Changes/Cursor/2023-11-30-more-reliable-copilot-changes-less-flashing-better-highlighting-of-what-s-new|More
+  reliable Copilot++ changes: less flashing, better highlighting of what''s new]]'
+- '[[Changes/Cursor/2023-12-02-running-cmd-enter-on-followups-should-result-in-much-better-codebase-results|Smarter
+  Followups]]'
+source_release: '[[Releases/Dify/dify-2023-12-08-0-3-33-github-133127964-bf22df9f|dify-2023-12-08-0-3-33-github-133127964-bf22df9f]]'
+source_type: github_releases
+theme: editor-experience
+title: 'chore(deps): bump word-wrap from 1.2.3 to 1.2.5 in /web'
+type: change
+---
+
+<!-- chronolog:begin region="header" -->
+# chore(deps): bump word-wrap from 1.2.3 to 1.2.5 in /web
+
+**Dify** · 2023-12-08 · [[Themes/editor-experience|Editor Experience]] · [Official source](https://github.com/langgenius/dify/releases/tag/0.3.33) · from [[Releases/Dify/dify-2023-12-08-0-3-33-github-133127964-bf22df9f|v0.3.33]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="evidence" -->
+> chore(deps): bump word-wrap from 1.2.3 to 1.2.5 in /web by @dependabot in https://github.com/langgenius/dify/pull/1681
+>
+> Source: https://github.com/langgenius/dify/releases/tag/0.3.33
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Dify/2023-12-08-3-pricing-model-changes-in-0-3-33|3 Pricing Model changes in 0.3.33]] · Pricing Model
+- [[Changes/Dify/2023-12-08-feat-fe-mobile-responsive-next-by-yuhao1118-in-https-github-com-langgenius-dify|feat: fe mobile responsive next]] · Mobile and Desktop
+- [[Changes/Dify/2023-12-08-feat-remove-documents-limit-by-zxhlyh-in-https-github-com-langgenius-dify-pull-1|feat: remove documents limit]] · Files and Data
+- [[Changes/Dify/2023-12-08-16-other-changes-in-0-3-33|16 other changes in 0.3.33]] · Other changes
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Editor Experience
+
+- Earlier: 2023-12-02 · Cursor · [[Changes/Cursor/2023-12-02-running-cmd-enter-on-followups-should-result-in-much-better-codebase-results|Smarter Followups]]
+- Later: 2023-12-14 · Cursor · [[Changes/Cursor/2023-12-14-we-made-copilot-faster-smarter-more-constrained-and-switched-to-a-ghost-text-hit|Copilot++ Improvements]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20dify-2023-12-08-6210bf&body=Card%3A%20Changes%2FDify%2F2023-12-08-chore-deps-bump-word-wrap-from-1-2-3-to-1-2-5-in-web-by-dependabot-in-https-gith.md%0ACard%20ID%3A%20dify-2023-12-08-6210bf%0ASource%3A%20https%3A%2F%2Fgithub.com%2Flanggenius%2Fdify%2Freleases%2Ftag%2F0.3.33%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

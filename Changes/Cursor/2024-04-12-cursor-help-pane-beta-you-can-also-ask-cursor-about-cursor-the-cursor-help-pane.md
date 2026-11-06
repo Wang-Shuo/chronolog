@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3aaad4d74bee08c507e643aa8131a6dbb1957888e984d6ae0d6c35e51a85411b
+machine_hash: a7334a8eb58cfdf937e99df0f02f94bbfc32647c1fe42b82be28af3e45d9a2d7
 product: cursor
 product_name: Cursor
 record:
@@ -48,11 +48,12 @@ record:
   title: 'Cursor Help Pane (Beta): You can also ask Cursor about Cursor!'
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-03-01-ai-notes-enabled-by-default-hold-shift-on-any-symbol-better-in-editor-chat-auto|Polish]]'
 - '[[Changes/Cursor/2024-03-20-new-settings-we-moved-all-our-settings-to-be-accessible-by-the-gear-in-the-top-r|New
   Settings: We moved all our settings to be accessible by the gear in the top right]]'
 - '[[Changes/Cursor/2024-04-01-update-0-31-1-0-31-3-adds-back-in-ai-review-alpha-fixes-the-cursor-settings-menu|UPDATE
   (0.31.1–0.31.3): Adds back in AI Review (alpha), fixes…]]'
+- "[[Changes/Open WebUI/2024-04-04-latex-chat-screen-overflow-fixed-screen-overflow-issue-with-latex-rendering|\U0001F4DC
+  LaTeX Chat Screen Overflow: Fixed screen overflow issue with LaTeX rendering]]"
 source_release: '[[Releases/Cursor/cursor-2024-04-12-0-32-x-https-cursor-com-changelog-0-32-x-ce3690fc|cursor-2024-04-12-0-32-x-https-cursor-com-changelog-0-32-x-ce3690fc]]'
 source_type: cursor_changelog
 theme: interface-experience
@@ -83,8 +84,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2024-04-01 · Cursor · [[Changes/Cursor/2024-04-01-update-0-31-1-0-31-3-adds-back-in-ai-review-alpha-fixes-the-cursor-settings-menu|UPDATE (0.31.1–0.31.3): Adds back in AI Review (alpha), fixes…]]
-- Later: 2024-05-03 · Cursor · [[Changes/Cursor/2024-05-03-command-k-autoselect-we-ve-also-added-automatic-selection-for-command-k-this-mea|Command-K Autoselect: We've also added automatic selection for Command-K!]]
+- Earlier: 2024-04-04 · Open WebUI · [[Changes/Open WebUI/2024-04-04-latex-chat-screen-overflow-fixed-screen-overflow-issue-with-latex-rendering|📜 LaTeX Chat Screen Overflow: Fixed screen overflow issue with LaTeX rendering]]
+- Later: 2024-04-16 · Dify · [[Changes/Dify/2024-04-16-chore-improve-reference-variable-picker-user-experience-by-iamjoel-in-https-gith|chore: improve reference variable picker user experience]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

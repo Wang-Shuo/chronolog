@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 34be3b6b62c6aa0afba3eb0ef75af547d197f3b5efe1c0f5a67b56f06e7ff111
+machine_hash: 5aefd3099fd718be44e242b40cea6520d2dafd87780b1ddb89323de814f44121
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -44,12 +44,12 @@ record:
   title: 'chore: remove CLI flags `all_files` and `show_memory_usage`'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-08-29-performance-cleanup-remove-unnecessary-flush-calls|Performance/cleanup:
-  remove unnecessary flush() calls]]'
-- '[[Changes/Codex CLI/2025-09-02-2-reliability-and-performance-changes-in-rust-v0-28-0|2
-  Reliability and Performance changes in rust-v0.28.0]]'
+- '[[Changes/Ollama/2025-09-02-improved-performance-via-overlapping-gpu-and-cpu-computations|Improved
+  performance via overlapping GPU and CPU computations]]'
 - '[[Changes/OpenHands/2025-09-02-improved-performance-and-user-experience-when-working-with-repositories-that-hav|Improved
   performance and user experience when working with repositories that have…]]'
+- '[[Changes/Dify/2025-09-03-3-reliability-and-performance-changes-in-1-8-1|3 Reliability
+  and Performance changes in 1.8.1]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-09-04-v0-3-0-github-244870431-556b0abc|gemini-cli-2025-09-04-v0-3-0-github-244870431-556b0abc]]'
 source_type: github_releases
 theme: reliability-performance
@@ -91,8 +91,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-09-02 · OpenHands · [[Changes/OpenHands/2025-09-02-improved-performance-and-user-experience-when-working-with-repositories-that-hav|Improved performance and user experience when working with repositories that have…]]
-- Later: 2025-09-09 · Gemini CLI · [[Changes/Gemini CLI/2025-09-09-improve-performance-of-shell-commands-with-lots-of-output-by-jakemac53-in-https|improve performance of shell commands with lots of output]]
+- Earlier: 2025-09-03 · Dify · [[Changes/Dify/2025-09-03-3-reliability-and-performance-changes-in-1-8-1|3 Reliability and Performance changes in 1.8.1]]
+- Later: 2025-09-04 · Ollama · [[Changes/Ollama/2025-09-04-embeddinggemma-https-ollama-com-library-embeddinggemma-a-new-open-embedding-mode|EmbeddingGemma((source link) a new open embedding…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

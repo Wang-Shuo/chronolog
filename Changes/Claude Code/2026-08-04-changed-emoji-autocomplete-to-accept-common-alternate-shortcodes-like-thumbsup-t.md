@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e2dfb0cb95b4cf9f88256f131bc580faa6a0101316c664acef9c80b33d854b5b
+machine_hash: 804c11df6dd16491110a68deb7a8c37e17c0a7b3dcd82962b7312eebe4999f2c
 product: claude-code
 product_name: Claude Code
 record:
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-08-03 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-08-03-2-editor-experience-changes-in-v1-0-78|2 Editor Experience changes in v1.0.78]]
-- Later: 2026-08-05 · OpenHands · [[Changes/OpenHands/2026-08-05-chore-deps-bump-monaco-editor-from-0-55-1-to-0-56-0-in-the-monaco-group-across-1|chore(deps): bump monaco-editor from 0.55.1 to 0.56.0 in the monaco group across 1…]]
+- Later: 2026-08-04 · Ollama · [[Changes/Ollama/2026-08-04-tui-fixes-pipe-delimited-prose-no-longer-renders-as-a-table-enter-accepts-the-hi|TUI fixes: pipe-delimited prose no longer renders as a table, Enter accepts…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

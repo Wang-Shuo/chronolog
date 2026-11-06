@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6aea8651b4d0c202d2813669666f5ec7d81e8f499765894ad00011db927b8871
+machine_hash: f3f5e8f329f2b8bd0f58caf584463dea9f7139547ed0c80e5c2f07487563998f
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -45,10 +45,10 @@ record:
   title: 3 Mobile and Desktop changes in rust-v0.28.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-08-20-2-mobile-and-desktop-changes-in-rust-v0-23-0|2 Mobile
-  and Desktop changes in rust-v0.23.0]]'
 - '[[Changes/ChatGPT/2025-08-22-this-feature-will-initially-only-be-available-on-the-chatgpt-website-and-windows|This
   feature will initially only be available on the ChatGPT website and Windows app]]'
+- '[[Changes/Ollama/2025-08-25-download-ollama-for-macos-or-windows|Download Ollama
+  for macOS or Windows]]'
 - '[[Changes/Codex CLI/2025-08-26-2-mobile-and-desktop-changes-in-rust-v0-24-0|2 Mobile
   and Desktop changes in rust-v0.24.0]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-09-02-rust-v0-28-0-github-244268255-15ebe412|codex-cli-2025-09-02-rust-v0-28-0-github-244268255-15ebe412]]'
@@ -90,7 +90,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.28.0
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2025-08-26 · Codex CLI · [[Changes/Codex CLI/2025-08-26-2-mobile-and-desktop-changes-in-rust-v0-24-0|2 Mobile and Desktop changes in rust-v0.24.0]]
-- Later: 2025-09-03 · Codex CLI · [[Changes/Codex CLI/2025-09-03-2-mobile-and-desktop-changes-in-rust-v0-29-0|2 Mobile and Desktop changes in rust-v0.29.0]]
+- Later: 2025-09-03 · Claude · [[Changes/Claude/2025-09-03-location-maps-and-calendar-access-on-claude-for-ios-and-android|Location, maps, and calendar access on Claude for iOS and Android]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

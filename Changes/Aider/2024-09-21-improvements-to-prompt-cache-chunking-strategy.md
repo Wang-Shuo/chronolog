@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 743f182328c346c57e3efa21bda662b77cc655139ae51fd95a8f490edabd69a3
+machine_hash: 52b100ce4f319dbbbf5d2144ede96fda58ccabdc7e14a88aea79411450e6ceb2
 product: aider
 product_name: Aider
 record:
@@ -42,12 +42,12 @@ record:
   title: Improvements to prompt cache chunking strategy
   type: change
 related_changes:
-- '[[Changes/Cline/2024-08-26-implement-sliding-window-context-management-to-keep-tasks-going-past-200k-tokens|Implement
-  sliding window context management to keep tasks going past 200k tokens]]'
-- '[[Changes/Aider/2024-08-27-keep-your-prompt-cache-from-expiring-https-aider-chat-docs-usage-caching-html-pr|Keep
-  your prompt cache…]]'
+- '[[Changes/Ollama/2024-09-17-qwen-2-5-https-ollama-com-library-qwen2-5-new-multilingual-qwen-models-pretraine|Qwen
+  2.5((source link) new multilingual Qwen models…]]'
 - '[[Changes/Cline/2024-09-19-you-can-now-use-in-the-textarea-to-add-context|Use @
   in the textarea to add context!]]'
+- "[[Changes/Open WebUI/2024-09-19-improved-rag-template-enhanced-retrieval-augmented-generation-template-optimizin|\U0001F4DD
+  Improved RAG Template]]"
 source_release: '[[Releases/Aider/aider-2024-09-21-v0-57-0-github-176248363-c44e2603|aider-2024-09-21-v0-57-0-github-176248363-c44e2603]]'
 source_type: github_releases
 theme: context-window
@@ -79,8 +79,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2024-09-19 · Cline · [[Changes/Cline/2024-09-19-you-can-now-use-in-the-textarea-to-add-context|Use @ in the textarea to add context!]]
-- Later: 2024-10-09 · Cursor · [[Changes/Cursor/2024-10-09-composer-now-only-applies-files-that-are-in-context-to-prevent-hallucinations|Composer now only applies files that are in context to prevent hallucinations]]
+- Earlier: 2024-09-19 · Open WebUI · [[Changes/Open WebUI/2024-09-19-improved-rag-template-enhanced-retrieval-augmented-generation-template-optimizin|📝 Improved RAG Template]]
+- Later: 2024-09-30 · Gemini · [[Changes/Gemini/2024-09-30-priority-access-with-gemini-advanced-upload-your-code-files|Priority access with Gemini Advanced: Upload your code files]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

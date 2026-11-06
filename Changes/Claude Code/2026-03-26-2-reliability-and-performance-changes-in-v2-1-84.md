@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 96943ab91ee652e89251979e5066159f72abd25623f1726357635085e32811e3
+machine_hash: 44a8d5345f1c25492b20e5aa14e92994ef97ec2389a91ba0cba6a87f5e74faad
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
   title: 2 Reliability and Performance changes in v2.1.84
   type: change
 related_changes:
-- '[[Changes/Cline/2026-03-20-latency-improvements-for-remote-workspaces|Latency improvements
-  for remote workspaces]]'
-- '[[Changes/GitHub Copilot CLI/2026-03-20-reduced-memory-usage-when-viewing-large-files-in-their-entirety|Reduced
-  memory usage when viewing large files in their entirety]]'
+- '[[Changes/ElevenLabs/2026-03-23-packages-v1-0-0-release-candidate|Packages v1.0.0
+  Release Candidate]]'
 - '[[Changes/Claude Code/2026-03-25-3-reliability-and-performance-changes-in-v2-1-83|3
   Reliability and Performance changes in v2.1.83]]'
+- '[[Changes/Open WebUI/2026-03-25-5-reliability-and-performance-changes-in-v0-8-11|5
+  Reliability and Performance changes in v0.8.11]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-26-v2-1-84-github-301540101-d02104aa|claude-code-2026-03-26-v2-1-84-github-301540101-d02104aa]]'
 source_type: github_releases
 theme: reliability-performance
@@ -92,7 +92,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.84
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-03-25 · Claude Code · [[Changes/Claude Code/2026-03-25-3-reliability-and-performance-changes-in-v2-1-83|3 Reliability and Performance changes in v2.1.83]]
+- Earlier: 2026-03-25 · Open WebUI · [[Changes/Open WebUI/2026-03-25-5-reliability-and-performance-changes-in-v0-8-11|5 Reliability and Performance changes in v0.8.11]]
 - Later: 2026-03-26 · Claude Code · [[Changes/Claude Code/2026-03-26-improved-scroll-performance-with-large-transcripts-by-replacing-wasm-yoga-layout|Improved scroll performance with large transcripts by replacing WASM yoga-layout…]]
 <!-- chronolog:end -->
 

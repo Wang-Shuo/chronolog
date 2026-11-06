@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8d2ca6e1b4201fcf4937e3c04a4502600ff7ad655c9cf7d4e3c535d0d0abac83
+machine_hash: 014eab173e8703da678960a985e2ea5348a32b43086fa8bc671ad76170daba95
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,10 +44,10 @@ record:
   title: 2 Interface Experience changes in v0.0.421
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-02-27-add-ctrl-g-keyboard-shortcut-for-editing-prompts-in-external-editor-and-dismissi|Add
-  Ctrl+G keyboard shortcut for editing prompts in external editor and dismissing…]]'
-- '[[Changes/Claude Code/2026-02-28-added-always-copy-full-response-option-to-the-copy-picker-when-selected-future-c|Added
-  "Always copy full response" option to the /copy picker]]'
+- "[[Changes/Open WebUI/2026-03-02-chat-history-pagination-fixed-an-issue-where-older-messages-in-long-chats-were-n|\U0001F4DC
+  Chat history pagination. Fixed an issue where older messages in long chats…]]"
+- '[[Changes/v0/2026-03-02-removed-tabs-from-chat-sidebar-and-reorganized-settings|Removed
+  tabs from chat sidebar and reorganized settings]]'
 - '[[Changes/Cursor/2026-03-03-the-content-from-your-plan-files-are-now-included-in-autocomplete-suggestions-as|The
   content from your plan files are now included in autocomplete suggestions as you…]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-03-03-v0-0-421-github-292666876-368c942d|github-copilot-cli-2026-03-03-v0-0-421-github-292666876-368c942d]]'
@@ -90,7 +90,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v0.0.421
 ## Nearby in Interface Experience
 
 - Earlier: 2026-03-03 · Cursor · [[Changes/Cursor/2026-03-03-the-content-from-your-plan-files-are-now-included-in-autocomplete-suggestions-as|The content from your plan files are now included in autocomplete suggestions as you…]]
-- Later: 2026-03-05 · Claude Code · [[Changes/Claude Code/2026-03-05-3-interface-experience-changes-in-v2-1-69|3 Interface Experience changes in v2.1.69]]
+- Later: 2026-03-03 · v0 · [[Changes/v0/2026-03-03-improved-chat-sidebar-width-for-better-screen-space|Improved chat sidebar width for better screen space]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

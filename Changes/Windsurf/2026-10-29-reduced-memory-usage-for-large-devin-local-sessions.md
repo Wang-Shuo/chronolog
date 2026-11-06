@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 19e48883197b6a731d88028d72fe2a5bf4597f0d0d526fe2428f71b2bb34f563
+machine_hash: 6c8c0820bad352d108c701107bbbfb8b019fbbed59e796add5d50a8ea3848980
 product: windsurf
 product_name: Windsurf
 record:
@@ -42,12 +42,12 @@ record:
   title: Reduced memory usage for large Devin Local sessions
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-22-2-reliability-and-performance-changes-in-v2-1-309|2
-  Reliability and Performance changes in v2.1.309]]'
-- '[[Changes/Claude Code/2026-10-23-improved-memory-use-of-non-interactive-sessions-p-agent-sdk-during-compaction-wh|Improved
-  memory use of non-interactive sessions (-p, Agent SDK) during compaction…]]'
-- '[[Changes/Codex CLI/2026-10-23-2-reliability-and-performance-changes-in-rust-v0-164-0|2
-  Reliability and Performance changes in rust-v0.164.0]]'
+- '[[Changes/Open WebUI/2026-10-25-3-reliability-and-performance-changes-in-v0-12-4|3
+  Reliability and Performance changes in v0.12.4]]'
+- '[[Changes/Ollama/2026-10-27-faster-prompt-processing-on-apple-silicon-for-gemma-4-flint-and-laguna-models|Faster
+  prompt processing on Apple silicon for Gemma 4, Flint and Laguna models]]'
+- '[[Changes/Open WebUI/2026-10-29-2-reliability-and-performance-changes-in-v0-12-5|2
+  Reliability and Performance changes in v0.12.5]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-10-29-v3-11-234-334defb8|windsurf-2026-10-29-v3-11-234-334defb8]]'
 source_type: windsurf_changelog
 theme: reliability-performance
@@ -76,7 +76,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-10-23 · Codex CLI · [[Changes/Codex CLI/2026-10-23-2-reliability-and-performance-changes-in-rust-v0-164-0|2 Reliability and Performance changes in rust-v0.164.0]]
+- Earlier: 2026-10-29 · Open WebUI · [[Changes/Open WebUI/2026-10-29-2-reliability-and-performance-changes-in-v0-12-5|2 Reliability and Performance changes in v0.12.5]]
 - Later: 2026-10-30 · Claude Code · [[Changes/Claude Code/2026-10-30-3-reliability-and-performance-changes-in-v2-1-314|3 Reliability and Performance changes in v2.1.314]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: bfa0aa0d804b2d35f69960dfbb50311723c3b71333c6624138fbf22bd154a5e9
+machine_hash: 42fcc115502af024d62480fc47d327e424811f6c31468ecc9aacae4708525a57
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2025-09-17 · Codex CLI · [[Changes/Codex CLI/2025-09-17-3680-update-azure-model-provider-example-3680|♯3680 Update azure model provider example (♯3680)]]
-- Later: 2025-09-18 · ChatGPT · [[Changes/ChatGPT/2025-09-18-we-re-improving-the-quality-and-latency-of-responses-of-the-version-of-advanced|Voice Updates]]
+- Later: 2025-09-17 · Open WebUI · [[Changes/Open WebUI/2025-09-17-3-model-support-changes-in-v0-6-29|3 Model Support changes in v0.6.29]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

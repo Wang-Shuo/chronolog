@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2cd23087c02e3fc342dbc20cc57d3de798d5020a4f7a5ccfa5ccd19d264e6834
+machine_hash: ffd6808958f6c0d4ac68e52bbb487872f53fcfad327886586f0908d7a4e3e33d
 product: cursor
 product_name: Cursor
 record:
@@ -43,12 +43,10 @@ record:
   title: Extension marketplace supports custom URLs
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-07-24-pro-users-can-now-utilize-chat-search-with-hubspot-and-custom-connectors-mcp-in-b9b682|Chat
-  search for HubSpot and custom connectors (MCP) (Pro)]]'
-- '[[Changes/OpenHands/2025-07-24-2-apps-and-integrations-changes-in-0-50-0|2 Apps
-  and Integrations changes in 0.50.0]]'
-- '[[Changes/Gemini CLI/2025-07-25-18-apps-and-integrations-changes-in-v0-1-14|18
-  Apps and Integrations changes in v0.1.14]]'
+- '[[Changes/Replit/2025-07-25-domains-improvements|Domains improvements]]'
+- '[[Changes/Dify/2025-07-28-2-apps-and-integrations-changes-in-1-7-1|2 Apps and Integrations
+  changes in 1.7.1]]'
+- '[[Changes/ElevenLabs/2025-07-28-sdks|SDKs]]'
 source_release: '[[Releases/Cursor/cursor-2025-07-29-1-3-https-cursor-com-changelog-1-3-d153efc3|cursor-2025-07-29-1-3-https-cursor-com-changelog-1-3-d153efc3]]'
 source_type: cursor_changelog
 theme: apps-integrations
@@ -86,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-07-25 · Gemini CLI · [[Changes/Gemini CLI/2025-07-25-18-apps-and-integrations-changes-in-v0-1-14|18 Apps and Integrations changes in v0.1.14]]
+- Earlier: 2025-07-28 · ElevenLabs · [[Changes/ElevenLabs/2025-07-28-sdks|SDKs]]
 - Later: 2025-07-30 · Gemini CLI · [[Changes/Gemini CLI/2025-07-30-19-apps-and-integrations-changes-in-v0-1-15|19 Apps and Integrations changes in v0.1.15]]
 <!-- chronolog:end -->
 

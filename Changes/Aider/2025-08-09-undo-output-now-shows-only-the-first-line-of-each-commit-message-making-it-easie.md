@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 281a7e467be2b9694e333e584c9d6de76e811d09c7abbd727be59ff7c2f08c95
+machine_hash: 89d3e18227dc298a08a6766cc675005a5d46ff67843f9475c911bfa78e37773b
 product: aider
 product_name: Aider
 record:
@@ -43,10 +43,10 @@ record:
   title: '`/undo` output now shows only the first line of each commit message, making…'
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-08-02-26-developer-workflow-changes-in-v0-1-16|26 Developer
-  Workflow changes in v0.1.16]]'
 - '[[Changes/Gemini CLI/2025-08-05-30-developer-workflow-changes-in-v0-1-17|30 Developer
   Workflow changes in v0.1.17]]'
+- '[[Changes/Ollama/2025-08-05-the-model-can-be-downloaded-directly-in-ollama-s-new-app-or-via-the-terminal|The
+  model can be downloaded directly in Ollama’s new app or via the terminal]]'
 - '[[Changes/Gemini CLI/2025-08-06-31-developer-workflow-changes-in-v0-1-18|31 Developer
   Workflow changes in v0.1.18]]'
 source_release: '[[Releases/Aider/aider-2025-08-09-v0-86-0-github-238790002-787ef322|aider-2025-08-09-v0-86-0-github-238790002-787ef322]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e9db57afa430e0985c0a5bd3bdf94b928e48ed20e9e2a1cc09eac0408af12526
+machine_hash: 6126d487cd76362033a7a670c20d7685d9a2ee3059de18535f9f509749b44e9b
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -66,12 +66,10 @@ record:
   title: 10 Apps and Integrations changes in v1.0.100
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-10-16-improved-use-of-plugins-and-tools-to-carry-out-tasks|Improved
-  use of plugins and tools to carry out tasks]]'
-- '[[Changes/Claude Code/2026-10-16-3-apps-and-integrations-changes-in-v2-1-302|3
-  Apps and Integrations changes in v2.1.302]]'
 - '[[Changes/Claude Code/2026-10-19-8-apps-and-integrations-changes-in-v2-1-304|8
   Apps and Integrations changes in v2.1.304]]'
+- '[[Changes/ElevenLabs/2026-10-19-sdk-releases|SDK releases]]'
+- '[[Changes/ElevenLabs/2026-10-19-python-sdk|Python SDK]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-10-19-v1-0-100-github-417622960-9e2e7578|github-copilot-cli-2026-10-19-v1-0-100-github-417622960-9e2e7578]]'
 source_type: github_releases
 theme: apps-integrations
@@ -133,8 +131,8 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.100
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-10-19 · Claude Code · [[Changes/Claude Code/2026-10-19-8-apps-and-integrations-changes-in-v2-1-304|8 Apps and Integrations changes in v2.1.304]]
-- Later: 2026-10-20 · Claude Code · [[Changes/Claude Code/2026-10-20-4-apps-and-integrations-changes-in-v2-1-305|4 Apps and Integrations changes in v2.1.305]]
+- Earlier: 2026-10-19 · ElevenLabs · [[Changes/ElevenLabs/2026-10-19-python-sdk|Python SDK]]
+- Later: 2026-10-19 · Lovable · [[Changes/Lovable/2026-10-19-connect-your-app-to-cube|Connect your app to Cube]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 27e8a72037865d541138ae876cf4525865e2d997ed213a291a00cecc244d2043
+machine_hash: 00b9a7b8aa398c907dd3bcaea0a3cda401de836dc6da554e40ef7bc63e9b58a6
 product: cline
 product_name: Cline
 record:
@@ -49,10 +49,10 @@ record:
     branch…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-23-15-safety-and-privacy-changes-in-rust-v0-164-0|15
-  Safety and Privacy changes in rust-v0.164.0]]'
 - '[[Changes/Windsurf/2026-10-23-electron-42-11-16-and-node-js-24-22-1-for-the-remote-server-with-the-october-202|Electron
   42.11.16 and Node.js 24.22.1 for the remote server, with the October 2026…]]'
+- '[[Changes/Open WebUI/2026-10-25-10-safety-and-privacy-changes-in-v0-12-4|10 Safety
+  and Privacy changes in v0.12.4]]'
 - '[[Changes/Claude Code/2026-10-26-changed-startup-warnings-about-permission-rules-in-settings-files-to-show-once-p|Changed
   startup warnings about permission rules in settings files to show once per…]]'
 source_release: '[[Releases/Cline/cline-2026-10-26-v4-1-26-github-424033561-1dc8e551|cline-2026-10-26-v4-1-26-github-424033561-1dc8e551]]'
@@ -87,7 +87,7 @@ type: change
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-10-26 · Claude Code · [[Changes/Claude Code/2026-10-26-changed-startup-warnings-about-permission-rules-in-settings-files-to-show-once-p|Changed startup warnings about permission rules in settings files to show once per…]]
-- Later: 2026-10-27 · Claude Code · [[Changes/Claude Code/2026-10-27-changed-claude-code-to-stop-sending-the-claude-code-safety-event-opentelemetry-e|Changed Claude Code to stop sending the claude_code.safety_event OpenTelemetry event]]
+- Later: 2026-10-26 · ElevenLabs · [[Changes/ElevenLabs/2026-10-26-voice-cloning-permissions-members-without-the-create-instant-voice-clone-or-crea|Voice cloning permissions]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

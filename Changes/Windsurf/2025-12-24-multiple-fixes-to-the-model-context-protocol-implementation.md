@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 746e1bca16b1b466b72837a94b3202597b101332ddec6a88b91a46d273517507
+machine_hash: 7acfd50b86a4f35de28765f54fafa8d66902df8f6824ee567278ef22e2957176
 product: windsurf
 product_name: Windsurf
 record:
@@ -52,10 +52,10 @@ record:
   title: Multiple fixes to the Model Context Protocol implementation
   type: change
 related_changes:
-- '[[Changes/Claude Code/2025-12-19-improved-context-command-visualization-with-grouped-skills-and-agents-by-source|Improved
-  /context command visualization with grouped skills and agents by source…]]'
 - '[[Changes/GitHub Copilot CLI/2025-12-19-add-context-command-to-visualize-token-usage|Add
   /context command to visualize token usage]]'
+- '[[Changes/v0/2025-12-22-you-can-now-connect-v0-to-your-glean-workspace-and-build-directly-from-your-comp|Build
+  with Glean via MCP]]'
 - '[[Changes/Windsurf/2025-12-24-context-window-indicator|Context Window Indicator]]'
 source_release: '[[Releases/Windsurf/windsurf-2025-12-24-v1-13-3-cac9d5c1|windsurf-2025-12-24-v1-13-3-cac9d5c1]]'
 source_type: windsurf_changelog
@@ -93,8 +93,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2025-12-19 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-12-19-add-context-command-to-visualize-token-usage|Add /context command to visualize token usage]]
-- Later: 2026-01-02 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-02-add-auto-compaction-at-95-token-limit-and-compact-command|Add auto-compaction at 95% token limit and /compact command]]
+- Earlier: 2025-12-22 · v0 · [[Changes/v0/2025-12-22-you-can-now-connect-v0-to-your-glean-workspace-and-build-directly-from-your-comp|Build with Glean via MCP]]
+- Later: 2025-12-25 · Dify · [[Changes/Dify/2025-12-25-test-add-unit-tests-for-datasetconfig-component-with-comprehensive-coverage-of-r|test: add unit tests for DatasetConfig component with comprehensive coverage…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e9c8b2f55cce39786992ed3884396751f2ccbab1104060d53a7f705617acc090
+machine_hash: 7da69fa9a98e13e528234aa232509fbcc40c4ebd04de3849967501d83ebb0126
 product: openhands
 product_name: OpenHands
 record:
@@ -43,9 +43,10 @@ record:
   title: Improve the performance of event retrieval in OpenHands, particularly…
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-03-23-faster-indexing|Faster indexing]]'
-- '[[Changes/Cline/2025-04-06-add-improvements-to-file-mention-searching-for-faster-searching|Add
-  improvements to file mention searching for faster searching]]'
+- "[[Changes/Open WebUI/2025-04-07-general-backend-refactoring-multiple-behind-the-scenes-improvements-streamline-b|\U0001F9F0
+  General Backend Refactoring]]"
+- '[[Changes/Dify/2025-04-09-2-reliability-and-performance-changes-in-1-2-0|2 Reliability
+  and Performance changes in 1.2.0]]'
 - '[[Changes/Cline/2025-04-10-add-more-robust-error-tracking-for-users-opted-in-to-telemetry-thank-you-for-hel|Add
   more robust error tracking for users opted in to telemetry…]]'
 source_release: '[[Releases/OpenHands/openhands-2025-04-10-0-32-0-github-211548474-c44dab94|openhands-2025-04-10-0-32-0-github-211548474-c44dab94]]'
@@ -79,7 +80,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2025-04-10 · Cline · [[Changes/Cline/2025-04-10-add-more-robust-error-tracking-for-users-opted-in-to-telemetry-thank-you-for-hel|Add more robust error tracking for users opted in to telemetry…]]
-- Later: 2025-04-13 · Cline · [[Changes/Cline/2025-04-13-big-shoutout-to-samuel871211-for-numerous-code-quality-improvements-refactoring|Big shoutout to @samuel871211 for numerous code quality improvements, refactoring…]]
+- Later: 2025-04-11 · Lovable · [[Changes/Lovable/2025-04-11-loading-larger-projects-should-now-be-much-faster-since-not-all-messages-are-loa|Loading larger projects should now be much faster since not all messages are loaded…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

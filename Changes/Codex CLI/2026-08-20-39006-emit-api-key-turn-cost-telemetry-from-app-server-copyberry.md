@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: df96de01c4752cc6f66ce7885f800348018059236480dd6f5168acd5dd4564c0
+machine_hash: dc35bfbe5aed723cbb0e0c876ba689fbd3c6e43283d394e38242dcba42f73b05
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,10 +43,10 @@ record:
   title: '#39006 Emit API-key turn cost telemetry from app-server @copyberry'
   type: change
 related_changes:
-- '[[Changes/Cline/2026-08-11-report-fable-5-cost-on-vertex-as-unknown-rather-than-applying-anthropic-s-list-p|Report
-  Fable 5 cost on Vertex as unknown rather than applying Anthropic''s list…]]'
 - '[[Changes/Codex CLI/2026-08-18-38650-canonicalize-default-namespaces-in-grpc-subscription-filters-copyberry|♯38650
   Canonicalize default namespaces in gRPC subscription filters @copyberry]]'
+- '[[Changes/Lovable/2026-08-18-running-out-of-credits-mid-message-now-pauses-your-work|Running
+  out of credits mid-message now pauses your work]]'
 - '[[Changes/Claude Code/2026-08-19-usage-now-shows-the-usage-credits-spend-row-for-team-and-enterprise-members-and|/usage
   now shows the usage-credits spend row for Team and Enterprise members…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-08-20-rust-v0-149-0-github-374028976-829da944|codex-cli-2026-08-20-rust-v0-149-0-github-374028976-829da944]]'

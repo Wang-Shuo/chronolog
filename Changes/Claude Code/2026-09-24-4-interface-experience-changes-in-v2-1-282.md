@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0614103b82932bbcb0d2d5ed6edf00c6a10923b89a64493fbb0fadb60d339525
+machine_hash: 9078ea20ba8b6852d80b62fc85fb2e73e7756fec8e2c35aa2d6a59f15d7a8913
 product: claude-code
 product_name: Claude Code
 record:
@@ -54,12 +54,11 @@ record:
   title: 4 Interface Experience changes in v2.1.282
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-22-5-interface-experience-changes-in-v2-1-280|5 Interface
-  Experience changes in v2.1.280]]'
-- '[[Changes/Codex CLI/2026-09-22-32-interface-experience-changes-in-rust-v0-156-0|32
-  Interface Experience changes in rust-v0.156.0]]'
 - '[[Changes/Claude Code/2026-09-23-4-interface-experience-changes-in-v2-1-281|4 Interface
   Experience changes in v2.1.281]]'
+- '[[Changes/Lovable/2026-09-23-one-project-menu-on-your-phone|One project menu on
+  your phone]]'
+- '[[Changes/Lovable/2026-09-23-redesigned-projects-page|Redesigned Projects page]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-24-v2-1-282-github-395840120-957e42c4|claude-code-2026-09-24-v2-1-282-github-395840120-957e42c4]]'
 source_type: github_releases
 theme: interface-experience
@@ -103,7 +102,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.282
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-09-23 · Claude Code · [[Changes/Claude Code/2026-09-23-4-interface-experience-changes-in-v2-1-281|4 Interface Experience changes in v2.1.281]]
+- Earlier: 2026-09-23 · Lovable · [[Changes/Lovable/2026-09-23-redesigned-projects-page|Redesigned Projects page]]
 - Later: 2026-09-25 · Claude Code · [[Changes/Claude Code/2026-09-25-2-interface-experience-changes-in-v2-1-283|2 Interface Experience changes in v2.1.283]]
 <!-- chronolog:end -->
 

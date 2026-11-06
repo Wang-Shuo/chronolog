@@ -10,12 +10,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c4fe88cdc435fc3f6b8c155447776e5168bbc09a3eefb6f61f4a2c139a209bd6
+machine_hash: 5166769b31b77cb3e9370b10828c4b4396c1918f233ae7a0071e24c87d2a1dbd
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -39,12 +39,11 @@ record:
   title: Sharing chats from projects
   type: change
 related_changes:
-- '[[Changes/Cline/2025-05-16-add-collapsible-recent-task-list-allowing-users-to-hide-their-task-history-when|Add
-  collapsible recent task list, allowing users to hide their task history…]]'
-- '[[Changes/Cline/2025-05-22-add-support-for-global-workflows-allowing-workflows-to-be-shared-across-workspac|Add
-  support for global workflows, allowing workflows to be shared across workspaces…]]'
 - '[[Changes/Cursor/2025-06-04-admin-api-for-teams-to-access-usage-metrics-and-spend-data|Admin
   API for teams to access usage metrics and spend data]]'
+- '[[Changes/Replit/2025-06-06-teams-viewer-seat-management|Teams viewer seat management]]'
+- "[[Changes/Open WebUI/2025-06-10-dedicated-user-role-edit-modal-updating-user-roles-now-reliably-opens-a-dedicate|\U0001F4DD
+  Dedicated User Role Edit Modal]]"
 source_release: '[[Releases/ChatGPT/chatgpt-2025-06-12-adding-more-capabilities-to-projects-a384b6f8|chatgpt-2025-06-12-adding-more-capabilities-to-projects-a384b6f8]]'
 source_type: chatgpt_changelog
 theme: collaboration
@@ -77,7 +76,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2025-06-04 · Cursor · [[Changes/Cursor/2025-06-04-admin-api-for-teams-to-access-usage-metrics-and-spend-data|Admin API for teams to access usage metrics and spend data]]
+- Earlier: 2025-06-10 · Open WebUI · [[Changes/Open WebUI/2025-06-10-dedicated-user-role-edit-modal-updating-user-roles-now-reliably-opens-a-dedicate|📝 Dedicated User Role Edit Modal]]
 - Later: 2025-06-12 · Cursor · [[Changes/Cursor/2025-06-12-use-cursor-where-your-team-works-3e7ca8|Use Cursor where your team works]]
 <!-- chronolog:end -->
 

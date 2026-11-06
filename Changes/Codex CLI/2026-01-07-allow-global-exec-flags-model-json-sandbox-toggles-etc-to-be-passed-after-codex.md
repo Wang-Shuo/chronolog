@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 555347b5dc1f4f296648a9ae61d076ff39f02d0274d473f7e30146c0bce30606
+machine_hash: 2ef9a24719a8bd8d0974ae346e737a6bc713ad032f353696c6f88bea9fce292a
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -46,10 +46,10 @@ record:
   title: Allow global exec flags (model/json/sandbox toggles, etc.) to be passed after…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-12-21-2-safety-and-privacy-changes-in-rust-v0-77-0|2 Safety
-  and Privacy changes in rust-v0.77.0]]'
-- '[[Changes/Cursor/2025-12-22-improved-stability-around-how-the-agent-respects-auto-run-preferences-to-prevent|Improved
-  stability around how the agent respects auto-run preferences to prevent…]]'
+- '[[Changes/Dify/2025-12-25-3-safety-and-privacy-changes-in-1-11-2|3 Safety and Privacy
+  changes in 1.11.2]]'
+- '[[Changes/Replit/2025-12-26-security-center-for-enterprise|Security Center for
+  Enterprise]]'
 - '[[Changes/Codex CLI/2026-01-06-3-safety-and-privacy-changes-in-rust-v0-78-0|3 Safety
   and Privacy changes in rust-v0.78.0]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-01-07-rust-v0-79-0-github-274682036-5d03e364|codex-cli-2026-01-07-rust-v0-79-0-github-274682036-5d03e364]]'

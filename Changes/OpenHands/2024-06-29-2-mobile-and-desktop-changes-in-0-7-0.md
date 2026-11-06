@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 522beb61d514c047f94e50507363200b8d6c95d4d7233de4de8875bb870a4672
+machine_hash: c52879021a6a308d11f1c5bb7fa9471da6d25bfc7b64bcfe7d6552e8d2a77655
 product: openhands
 product_name: OpenHands
 record:
@@ -42,12 +42,12 @@ record:
   title: 2 Mobile and Desktop changes in 0.7.0
   type: change
 related_changes:
-- '[[Changes/Aider/2023-07-12-2-mobile-and-desktop-changes-in-v0-8-3|2 Mobile and
-  Desktop changes in v0.8.3]]'
-- '[[Changes/ChatGPT/2023-07-25-chatgpt-for-android-is-now-available-for-download-in-the-united-states-india-ban-6b21e9|Introducing
-  the ChatGPT app for Android]]'
-- '[[Changes/Aider/2024-01-04-prevent-false-auto-commits-on-windows-by-ctoth|Prevent
-  false auto-commits on Windows, by @ctoth]]'
+- '[[Changes/Ollama/2024-06-15-model-loading-on-windows-with-cuda-gpus-is-now-faster|Model
+  loading on Windows with CUDA GPUs is now faster]]'
+- '[[Changes/Gemini/2024-06-18-the-gemini-mobile-app-launching-in-more-countries|The
+  Gemini mobile app launching in more countries]]'
+- '[[Changes/Dify/2024-06-28-docs-add-notes-for-running-postgres-docker-on-windows-wsl2-ubuntu-by-hikariming|docs:
+  Add notes for running Postgres Docker on Windows WSL2 Ubuntu …]]'
 source_release: '[[Releases/OpenHands/openhands-2024-06-29-0-7-0-github-163149742-cace6f1a|openhands-2024-06-29-0-7-0-github-163149742-cace6f1a]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -89,8 +89,8 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/0.7.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2024-01-04 · Aider · [[Changes/Aider/2024-01-04-prevent-false-auto-commits-on-windows-by-ctoth|Prevent false auto-commits on Windows, by @ctoth]]
-- Later: 2024-07-18 · Aider · [[Changes/Aider/2024-07-18-aider-is-better-at-offering-to-add-files-to-the-chat-on-windows|Aider is better at offering to add files to the chat on Windows]]
+- Earlier: 2024-06-28 · Dify · [[Changes/Dify/2024-06-28-docs-add-notes-for-running-postgres-docker-on-windows-wsl2-ubuntu-by-hikariming|docs: Add notes for running Postgres Docker on Windows WSL2 Ubuntu …]]
+- Later: 2024-07-08 · Dify · [[Changes/Dify/2024-07-08-ensure-sh-are-lf-style-so-that-they-can-be-used-directly-by-docker-for-windows-b|Ensure .sh are LF-style, so that they can be used directly by Docker for Windows]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

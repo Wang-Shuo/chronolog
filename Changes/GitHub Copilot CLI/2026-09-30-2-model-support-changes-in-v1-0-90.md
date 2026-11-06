@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 24de12ad6c9dd8ba27eb590f2edf9be085953a2e071d7c78296df27898b239cf
+machine_hash: d74ec73e539a13004435f594a71af0b63672209ec38a58c0cb8c7691f8987faf
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,8 +43,8 @@ record:
   title: 2 Model Support changes in v1.0.90
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-09-29-feat-gemini-3-8-flash-3-5-flash-lite-by-davidapierce-in-https-github-com-google|Feat/gemini
-  3.8 flash 3.5 flash lite]]'
+- '[[Changes/v0/2026-09-29-supported-models-currently-include-gpt-6-astra-gpt-5-6-sol-and-gpt-5-6-luna-use|Supported
+  models currently include GPT-6 Astra, GPT-5.6 Sol, and GPT-5.6 Luna]]'
 - '[[Changes/Claude Code/2026-09-30-changed-how-failed-api-requests-are-retried-one-limit-now-covers-a-whole-model-c|Changed
   how failed API requests are retried]]'
 - '[[Changes/Cline/2026-09-30-6-model-support-changes-in-v4-1-22|6 Model Support changes

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: policy
-machine_hash: 75102484d3dee9b6d555f37f25c8dbfee072712f5d609c0978642ee5e9baa46a
+machine_hash: 11f7fc63c4330867e49fdaad470d559782fe83ea144464ddaaa1d99bfa4b36ee
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -72,12 +72,11 @@ record:
   title: ChatGPT rolls out parental controls globally to help families guide how ChatGPT…
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-09-24-4-safety-and-privacy-changes-in-v0-6-0|4 Safety
-  and Privacy changes in v0.6.0]]'
-- '[[Changes/Codex CLI/2025-09-26-2-safety-and-privacy-changes-in-rust-v0-42-0|2 Safety
-  and Privacy changes in rust-v0.42.0]]'
 - '[[Changes/GitHub Copilot CLI/2025-09-26-improved-the-error-message-received-when-using-a-pat-that-is-missing-the-copilot|Improved
   the error message received when using a PAT that is missing…]]'
+- '[[Changes/Replit/2025-09-26-security-scan-enforcement-for-enterprises|Security
+  scan enforcement for enterprises]]'
+- '[[Changes/Replit/2025-09-26-security-scan-in-deployment|Security scan in deployment]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-09-29-parental-controls-8b95b69a|chatgpt-2025-09-29-parental-controls-8b95b69a]]'
 source_type: chatgpt_changelog
 theme: safety-privacy
@@ -111,7 +110,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2025-09-26 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-09-26-improved-the-error-message-received-when-using-a-pat-that-is-missing-the-copilot|Improved the error message received when using a PAT that is missing…]]
+- Earlier: 2025-09-26 · Replit · [[Changes/Replit/2025-09-26-security-scan-in-deployment|Security scan in deployment]]
 - Later: 2025-09-29 · Cursor · [[Changes/Cursor/2025-09-29-sandboxed-terminals|Sandboxed terminals]]
 <!-- chronolog:end -->
 

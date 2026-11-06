@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c45215000e8dafdb96faa88d677a46ee5d6b22fde4e8d3d68af64ef89b5a8078
+machine_hash: 398fbd9c15075ff15623ae50645b837f72f075d0f00119daa6b445e9446bf409
 product: openhands
 product_name: OpenHands
 record:
@@ -43,8 +43,7 @@ record:
   title: 2 Agent Mode changes in v1.19.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-14-7-agent-mode-changes-in-v2-1-271|7 Agent Mode
-  changes in v2.1.271]]'
+- '[[Changes/ElevenLabs/2026-09-14-elevenagents-d9e798|ElevenAgents]]'
 - '[[Changes/Claude Code/2026-09-15-changed-auto-mode-on-bedrock-vertex-and-foundry-to-use-the-local-classifier-by-d|Changed
   auto mode on Bedrock, Vertex and Foundry to use the local classifier…]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-16-2-agent-mode-changes-in-v1-0-85|2 Agent

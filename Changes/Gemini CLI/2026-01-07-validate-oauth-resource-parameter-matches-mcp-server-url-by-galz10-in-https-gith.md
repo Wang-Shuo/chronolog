@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1928f985420248d26338d8b50281b9fdfd8aeab33ef8bf40dadee2ab92ca09d9
+machine_hash: 2b89aa2a7a71c4e1980bd41386fb95c15078a2c4100a4405d9c3fe1a3b637453
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -94,7 +94,7 @@ type: change
 ## Nearby in Account and Access
 
 - Earlier: 2026-01-07 · Codex CLI · [[Changes/Codex CLI/2026-01-07-2-account-and-access-changes-in-rust-v0-79-0|2 Account and Access changes in rust-v0.79.0]]
-- Later: 2026-01-13 · Claude Code · [[Changes/Claude Code/2026-01-13-updated-help-improve-claude-setting-fetch-to-refresh-oauth-and-retry-when-it-fai|Updated "Help improve Claude" setting fetch to refresh OAuth and retry when it fails…]]
+- Later: 2026-01-09 · Open WebUI · [[Changes/Open WebUI/2026-01-09-3-account-and-access-changes-in-v0-7-0|3 Account and Access changes in v0.7.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

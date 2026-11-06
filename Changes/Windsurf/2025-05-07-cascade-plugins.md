@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 33b9e428a1d1947d49dc902467a1675f2a60dc69ff37e72a7f1897101fc6efd3
+machine_hash: 06bc38e375f3df5a359fc3ba95728e5d5d9798c9eddbeefdda9fce21780144b2
 product: windsurf
 product_name: Windsurf
 record:
@@ -50,12 +50,12 @@ record:
   title: Cascade Plugins
   type: change
 related_changes:
-- '[[Changes/Cline/2025-04-19-add-ability-for-models-that-support-it-to-receive-image-responses-from-mcp-serve|Add
-  ability for models that support it to receive image responses from MCP servers…]]'
-- '[[Changes/Cline/2025-04-25-add-download-counts-to-mcp-marketplace-items|Add download
-  counts to MCP marketplace items]]'
+- '[[Changes/Dify/2025-04-28-7-apps-and-integrations-changes-in-1-3-1|7 Apps and Integrations
+  changes in 1.3.1]]'
 - '[[Changes/Cline/2025-05-03-refactor-message-handling-to-not-show-the-mcp-view-of-the-server-modal|Refactor
   message handling to not show the MCP View of the server modal]]'
+- '[[Changes/Open WebUI/2025-05-05-2-apps-and-integrations-changes-in-v0-6-6|2 Apps
+  and Integrations changes in v0.6.6]]'
 source_release: '[[Releases/Windsurf/windsurf-2025-05-07-v1-8-2-20e2205d|windsurf-2025-05-07-v1-8-2-20e2205d]]'
 source_type: windsurf_changelog
 theme: apps-integrations
@@ -92,8 +92,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-05-03 · Cline · [[Changes/Cline/2025-05-03-refactor-message-handling-to-not-show-the-mcp-view-of-the-server-modal|Refactor message handling to not show the MCP View of the server modal]]
-- Later: 2025-05-12 · OpenHands · [[Changes/OpenHands/2025-05-12-2-apps-and-integrations-changes-in-0-38-0|2 Apps and Integrations changes in 0.38.0]]
+- Earlier: 2025-05-05 · Open WebUI · [[Changes/Open WebUI/2025-05-05-2-apps-and-integrations-changes-in-v0-6-6|2 Apps and Integrations changes in v0.6.6]]
+- Later: 2025-05-09 · Replit · [[Changes/Replit/2025-05-09-paypal-checkout-integration|PayPal checkout integration]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

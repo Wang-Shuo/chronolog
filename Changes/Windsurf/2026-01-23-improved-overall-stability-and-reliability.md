@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 16a634922a103065b81aed12796b8a33ddebdf6b3b2bcde5595010b83cd98e0c
+machine_hash: 3273e663f2da20ea21342224a7e1409f5b13dd3837fc80a91a26430871afe75c
 product: windsurf
 product_name: Windsurf
 record:
@@ -40,10 +40,10 @@ record:
   title: Improved overall stability and reliability
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-01-21-9543-fix-memory-leak-issue-jif-oai|♯9543 fix: memory
-  leak issue @jif-oai]]'
 - '[[Changes/Gemini CLI/2026-01-21-2-reliability-and-performance-changes-in-v0-25-0|2
   Reliability and Performance changes in v0.25.0]]'
+- '[[Changes/Ollama/2026-01-21-reduced-memory-usage-for-glm-4-7-flash-models|Reduced
+  memory usage for GLM-4.7-Flash models]]'
 - '[[Changes/Cursor/2026-01-22-4-reliability-and-performance-changes-in-2-4|4 Reliability
   and Performance changes in 2.4]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-01-23-v1-13-12-3d003c56|windsurf-2026-01-23-v1-13-12-3d003c56]]'
@@ -76,7 +76,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-01-22 · Cursor · [[Changes/Cursor/2026-01-22-4-reliability-and-performance-changes-in-2-4|4 Reliability and Performance changes in 2.4]]
-- Later: 2026-01-27 · Cline · [[Changes/Cline/2026-01-27-throttle-diff-view-updates-during-streaming-to-reduce-ui-flickering-and-improve|Throttle diff view updates during streaming to reduce UI flickering and improve…]]
+- Later: 2026-01-24 · Ollama · [[Changes/Ollama/2026-01-24-glm-4-7-flash-performance-and-correctness-improvements-fixing-repetitive-answers|GLM-4.7-Flash performance and correctness improvements, fixing repetitive answers…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

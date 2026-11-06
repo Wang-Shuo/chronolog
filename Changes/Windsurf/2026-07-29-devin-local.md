@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: ec23d350a71f3896fdee8f254c00a7ac7a34c09424a82c7133a20a6919a0d0a8
+machine_hash: 05d5876cdf49cd5f7a3b29beacba6fe7db4b49ad63646aa99af87decd03ae1d4
 product: windsurf
 product_name: Windsurf
 record:
@@ -83,8 +83,8 @@ record:
   title: Devin Local
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-07-21-11-memory-and-personalization-changes-in-rust-v0-145-0|11
-  Memory and Personalization changes in rust-v0.145.0]]'
+- '[[Changes/Dify/2026-07-28-test-use-sqlite-sessions-in-core-memory-by-asukaminato0721-in-https-github-com-l|test:
+  use SQLite sessions in core memory]]'
 - '[[Changes/Codex CLI/2026-07-29-35530-track-model-and-personality-in-world-state-copyberry|♯35530
   Track model and personality in world state @copyberry]]'
 - '[[Changes/OpenHands/2026-07-29-feat-add-persistent-agent-memory-toggle-by-hieptl-in-https-github-com-openhands|feat:

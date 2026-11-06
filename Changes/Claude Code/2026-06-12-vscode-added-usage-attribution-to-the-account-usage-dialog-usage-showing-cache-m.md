@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: a8d71a00ae975d9fc16b3b392d2dd3ce8c2c7e444140b842d4203128869c0629
+machine_hash: f0d4ab6296611592fde38c4ee10fa181a863bf9f6c2a3ab008b8fe966c208eee
 product: claude-code
 product_name: Claude Code
 record:
@@ -64,10 +64,10 @@ record:
     showing…'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-08-added-cd-command-to-move-a-session-to-a-new-working-directory-without-breaking-t|Added
-  /cd command to move a session to a new working directory without breaking…]]'
 - '[[Changes/Codex CLI/2026-06-08-4-context-window-changes-in-rust-v0-138-0|4 Context
   Window changes in rust-v0.138.0]]'
+- '[[Changes/v0/2026-06-08-press-cmd-k-to-open-a-new-context-aware-command-palette-and-jump-to-chats-projec|Press
+  Cmd+K to open a new context-aware command palette and jump to chats, projects…]]'
 - '[[Changes/Codex CLI/2026-06-09-3-context-window-changes-in-rust-v0-139-0|3 Context
   Window changes in rust-v0.139.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-12-v2-1-174-github-338280944-f2fd4f4d|claude-code-2026-06-12-v2-1-174-github-338280944-f2fd4f4d]]'
@@ -99,7 +99,7 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2026-06-09 · Codex CLI · [[Changes/Codex CLI/2026-06-09-3-context-window-changes-in-rust-v0-139-0|3 Context Window changes in rust-v0.139.0]]
-- Later: 2026-06-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-13-honor-max-output-tokens-for-byok-responses-providers|Honor max_output_tokens for BYOK Responses providers]]
+- Later: 2026-06-12 · Ollama · [[Changes/Ollama/2026-06-12-improved-prompt-caching-by-decoupling-it-from-context-shift-for-better-kv-cache|Improved prompt caching by decoupling it from context shift for better KV cache reuse]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

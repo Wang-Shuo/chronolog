@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 160755fe1b398f96bf0a4c0cb162df7f4a05fa2e6abfc4015298c9a7e0b54731
+machine_hash: 52b26b0c11c419b68ec85690cd2168b2c031e95e92ad735d596a0819cc664f0a
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -87,10 +87,10 @@ record:
   title: 19 Editor Experience changes in v0.1.14
   type: change
 related_changes:
-- '[[Changes/Cline/2025-07-18-move-the-logic-to-scroll-the-diff-editor-window-into-the-platform-specific-class|Move
-  the logic to scroll the diff editor window into the platform specific classes]]'
 - '[[Changes/Gemini CLI/2025-07-19-12-editor-experience-changes-in-v0-1-13|12 Editor
   Experience changes in v0.1.13]]'
+- '[[Changes/Open WebUI/2025-07-19-4-editor-experience-changes-in-v0-6-17|4 Editor
+  Experience changes in v0.6.17]]'
 - '[[Changes/Cline/2025-07-22-3-editor-experience-changes-in-v3-19-8|3 Editor Experience
   changes in v3.19.8]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-07-25-v0-1-14-github-235287807-631ef7fa|gemini-cli-2025-07-25-v0-1-14-github-235287807-631ef7fa]]'

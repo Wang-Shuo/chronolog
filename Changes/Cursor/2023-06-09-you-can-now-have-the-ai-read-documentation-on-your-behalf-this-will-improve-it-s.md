@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 79440f37010b1dcc1efeb85ef6947622e2efc4742c20b80e4f8afc3d4b4e858d
+machine_hash: 40e6faec527c9b4932940b998159132fdcdf68ac1f3f1970f92f0b0baed922b3
 product: cursor
 product_name: Cursor
 record:
@@ -47,12 +47,12 @@ record:
   title: Show the AI documentation
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2023-05-12-in-the-plugins-dropdown-click-plugin-store-to-install-and-enable-new-plugins|In
-  the “Plugins” dropdown, click “Plugin Store” to install and enable new plugins]]'
 - '[[Changes/Cursor/2023-05-17-you-can-pin-custom-extensions-to-your-activity-bar-in-the-top-left|Activity
   Bar pinning]]'
 - '[[Changes/ChatGPT/2023-05-24-browse-with-bing-we-ve-integrated-the-browsing-feature-currently-in-beta-for-pai|Bing
   Plugin]]'
+- '[[Changes/Dify/2023-05-25-3-apps-and-integrations-changes-in-0-2-2|3 Apps and Integrations
+  changes in 0.2.2]]'
 source_release: '[[Releases/Cursor/cursor-2023-06-09-0-2-30-https-cursor-com-changelog-0-2-30-0ed341a6|cursor-2023-06-09-0-2-30-https-cursor-com-changelog-0-2-30-0ed341a6]]'
 source_type: cursor_changelog
 theme: apps-integrations
@@ -79,8 +79,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-browse-with-bing-we-ve-integrated-the-browsing-feature-currently-in-beta-for-pai|Bing Plugin]]
-- Later: 2023-06-16 · Cursor · [[Changes/Cursor/2023-06-16-we-ve-added-support-for-using-your-azure-openai-credentials-also-small-improveme|Azure Support]]
+- Earlier: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-3-apps-and-integrations-changes-in-0-2-2|3 Apps and Integrations changes in 0.2.2]]
+- Later: 2023-06-09 · Dify · [[Changes/Dify/2023-06-09-feat-npm-sdk-to-2-0-to-fix-steaming-problem-by-iamjoel-in-https-github-com-langg|feat: npm sdk to 2.0 to fix steaming problem]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

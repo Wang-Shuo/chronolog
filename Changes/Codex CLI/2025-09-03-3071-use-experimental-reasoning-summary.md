@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9996db1bb3ea7af9f6723150beb8b1b4747f15e6a0c287739111ae77584d644f
+machine_hash: febfa4671c197e1ff9024f07482b7ef6f67216797238530c30294cf179d865d4
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,8 +42,8 @@ record:
   title: '[#3071] Use experimental reasoning summary'
   type: change
 related_changes:
-- '[[Changes/Cline/2025-08-28-2-model-support-changes-in-v3-26-6|2 Model Support changes
-  in v3.26.6]]'
+- '[[Changes/Open WebUI/2025-08-28-2-model-support-changes-in-v0-6-26|2 Model Support
+  changes in v0.6.26]]'
 - '[[Changes/Codex CLI/2025-09-02-2-model-support-changes-in-rust-v0-28-0|2 Model
   Support changes in rust-v0.28.0]]'
 - '[[Changes/OpenHands/2025-09-02-added-llm-risk-analyzer-by-xingyaoww-in-https-github-com-all-hands-ai-openhands|Added
@@ -80,7 +80,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2025-09-02 · OpenHands · [[Changes/OpenHands/2025-09-02-added-llm-risk-analyzer-by-xingyaoww-in-https-github-com-all-hands-ai-openhands|Added LLM risk analyzer]]
-- Later: 2025-09-04 · Gemini CLI · [[Changes/Gemini CLI/2025-09-04-5-model-support-changes-in-v0-3-0|5 Model Support changes in v0.3.0]]
+- Later: 2025-09-03 · Dify · [[Changes/Dify/2025-09-03-5-model-support-changes-in-1-8-1|5 Model Support changes in 1.8.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

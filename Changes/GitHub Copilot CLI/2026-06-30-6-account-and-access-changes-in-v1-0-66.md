@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9414fb2fe6c22ae8779b50c279f808e638841cb58ff898af47a4b603da681d20
+machine_hash: f8539168dca1ecc3dbe53ded1896567f0acea2114bd94641ff99d5db80790433
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -57,10 +57,10 @@ record:
   title: 6 Account and Access changes in v1.0.66
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-25-macos-authentication-clients-can-honor-system-proxy-pac-and-wpad-settings-when-r|macOS
-  authentication clients can honor system proxy, PAC, and WPAD settings…]]'
-- '[[Changes/Codex CLI/2026-06-25-added-opt-in-windows-system-proxy-support-for-authentication-including-pac-wpad|Added
-  opt-in Windows system proxy support for authentication, including PAC, WPAD…]]'
+- "[[Changes/Open WebUI/2026-06-29-shared-folder-read-only-chats-no-longer-sign-users-out-opening-or-reading-chats|\U0001F91D
+  Shared folder read-only chats no longer sign users out. Opening or reading…]]"
+- '[[Changes/Open WebUI/2026-06-29-9-account-and-access-changes-in-v0-10-0|9 Account
+  and Access changes in v0.10.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-30-mcp-oauth-against-microsoft-entra-servers-behind-a-tenant-vanity-domain-e-g-copi|MCP
   OAuth against Microsoft Entra servers behind a tenant vanity domain…]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-06-30-v1-0-66-github-346845066-af776740|github-copilot-cli-2026-06-30-v1-0-66-github-346845066-af776740]]'

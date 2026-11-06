@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 789ee598de17ba7ee0be23e077b41013e1e4dc499a0e272982713650a6635125
+machine_hash: 20a4217c269eb58389dfcc2aa074ae3ab39d46b091afb13d67349e7c7d053f50
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -43,10 +43,10 @@ record:
   title: ensure sandbox build script is cross-platform
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-08-06-4-safety-and-privacy-changes-in-v0-1-18|4 Safety
-  and Privacy changes in v0.1.18]]'
-- '[[Changes/Codex CLI/2025-08-07-new-onboarding-flow-that-uses-sandbox-workspace-write-and-ask-for-approval-on-re|new
-  onboarding flow that uses…]]'
+- "[[Changes/Open WebUI/2025-08-10-opentelemetry-configuration-consistency-fixed-an-issue-where-opentelemetry-metri|\U0001F6E0️
+  OpenTelemetry Configuration Consistency]]"
+- '[[Changes/Dify/2025-08-11-3-safety-and-privacy-changes-in-1-7-2|3 Safety and Privacy
+  changes in 1.7.2]]'
 - '[[Changes/Gemini CLI/2025-08-12-2-safety-and-privacy-changes-in-v0-1-19|2 Safety
   and Privacy changes in v0.1.19]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-08-13-v0-1-20-github-239538637-d79a0898|gemini-cli-2025-08-13-v0-1-20-github-239538637-d79a0898]]'

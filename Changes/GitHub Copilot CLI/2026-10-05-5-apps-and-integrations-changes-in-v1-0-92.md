@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d8bdd8da3e96c9ab0f56841714849496b3b7a95ff3bdcb88e2a5968fce7ed1c3
+machine_hash: e588c86a32fc2c3ed34f110b4ba60e94234ccef6439907467a373db88f6863a1
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -50,12 +50,10 @@ record:
   title: 5 Apps and Integrations changes in v1.0.92
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-03-2-apps-and-integrations-changes-in-v2-1-289|2
-  Apps and Integrations changes in v2.1.289]]'
-- '[[Changes/Claude Code/2026-10-05-14-apps-and-integrations-changes-in-v2-1-290|14
-  Apps and Integrations changes in v2.1.290]]'
 - '[[Changes/Codex CLI/2026-10-05-2-apps-and-integrations-changes-in-rust-v0-160-1|2
   Apps and Integrations changes in rust-v0.160.1]]'
+- '[[Changes/ElevenLabs/2026-10-05-swift-sdk|Swift SDK]]'
+- '[[Changes/ElevenLabs/2026-10-05-sdk-releases|SDK releases]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-10-05-v1-0-92-github-404054639-a6ba3455|github-copilot-cli-2026-10-05-v1-0-92-github-404054639-a6ba3455]]'
 source_type: github_releases
 theme: apps-integrations
@@ -107,8 +105,8 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.92
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-10-05 · Codex CLI · [[Changes/Codex CLI/2026-10-05-2-apps-and-integrations-changes-in-rust-v0-160-1|2 Apps and Integrations changes in rust-v0.160.1]]
-- Later: 2026-10-06 · Claude Code · [[Changes/Claude Code/2026-10-06-9-apps-and-integrations-changes-in-v2-1-292|9 Apps and Integrations changes in v2.1.292]]
+- Earlier: 2026-10-05 · ElevenLabs · [[Changes/ElevenLabs/2026-10-05-sdk-releases|SDK releases]]
+- Later: 2026-10-05 · Lovable · [[Changes/Lovable/2026-10-05-app-chat-connectors-beehiiv-and-ramp|App + chat connectors: beehiiv and Ramp]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 13ce3cb78fb252fe073ec543cb9f932f730179e02a5e55c1ee4a67590a6da9c7
+machine_hash: ff601b594bde566f0f8f2643a392a200cc0a88d35180da86f18f6f51783ec56a
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -74,10 +74,9 @@ record:
   title: 16 Agent Mode changes in rust-v0.115.0
   type: change
 related_changes:
-- '[[Changes/Cline/2026-03-12-added-github-copilot-instructions-md-for-coding-agents|Added
-  .github/copilot-instructions.md for coding agents]]'
-- '[[Changes/GitHub Copilot CLI/2026-03-13-send-follow-up-messages-to-background-agents-with-the-write-agent-tool-for-multi|Send
-  follow-up messages to background agents with the write_agent tool…]]'
+- '[[Changes/Replit/2026-03-13-agent|Agent]]'
+- '[[Changes/Replit/2026-03-13-introducing-replit-agent-4|Introducing Replit Agent
+  4]]'
 - '[[Changes/Claude Code/2026-03-14-improved-background-agent-behavior-killing-a-background-agent-now-preserves-its|Improved
   background agent behavior]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-03-16-rust-v0-115-0-github-297641413-c704d9db|codex-cli-2026-03-16-rust-v0-115-0-github-297641413-c704d9db]]'
@@ -151,7 +150,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.115.0
 ## Nearby in Agent Mode
 
 - Earlier: 2026-03-14 · Claude Code · [[Changes/Claude Code/2026-03-14-improved-background-agent-behavior-killing-a-background-agent-now-preserves-its|Improved background agent behavior]]
-- Later: 2026-03-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-16-5-agent-mode-changes-in-v1-0-6|5 Agent Mode changes in v1.0.6]]
+- Later: 2026-03-16 · ElevenLabs · [[Changes/ElevenLabs/2026-03-16-elevenagents|ElevenAgents]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

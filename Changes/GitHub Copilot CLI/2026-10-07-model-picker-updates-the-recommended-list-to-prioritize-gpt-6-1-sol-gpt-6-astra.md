@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: e91d77e5127c9a580da8492ee517e7dab21151cdd83a040e3b6f0436d48f36ea
+machine_hash: c832ab5d545b34452a9976b84d9a002ae2c35998b2860ef61a716caab03c4ee9
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -99,7 +99,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-10-07 · Codex CLI · [[Changes/Codex CLI/2026-10-07-9-model-support-changes-in-rust-v0-161-0|9 Model Support changes in rust-v0.161.0]]
-- Later: 2026-10-08 · Claude Code · [[Changes/Claude Code/2026-10-08-3-model-support-changes-in-v2-1-295|3 Model Support changes in v2.1.295]]
+- Later: 2026-10-07 · Lovable · [[Changes/Lovable/2026-10-07-gemini-3-7-flash-is-deprecated-for-your-app-s-ai-features|Gemini 3.7 Flash is deprecated for your app's AI features]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

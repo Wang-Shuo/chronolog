@@ -4,20 +4,20 @@ date: '2026-03-07'
 description: 'Claude Code · 2026-03-07 · Automation and Scheduling: Added cron scheduling
   tools for recurring prompts within a session'
 diffusion:
-  first_in_tracked: '[[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better
-    syntax error loop detection]]'
+  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
+    data clean schedule]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 549
+  lag_days: 795
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 742d0a2aed07d445972cba5faa6745db55cdd2bb4f1b2a13fcb5b1df08432f4f
+machine_hash: a308fbf6e5fc03521949975b22645ca8cb7141949208b101b84072e7990173a7
 product: claude-code
 product_name: Claude Code
 record:
@@ -81,13 +81,13 @@ type: change
 ## Nearby in Automation and Scheduling
 
 - Earlier: 2026-03-05 · Cursor · [[Changes/Cursor/2026-03-05-cursor-now-supports-automations-for-building-always-on-agents-that-run-based-on-fb3c5d|Cursor now supports automations for building always-on agents that run based…]]
-- Later: 2026-03-10 · Claude Code · [[Changes/Claude Code/2026-03-10-added-claude-code-disable-cron-environment-variable-to-immediately-stop-schedule|Added CLAUDE_CODE_DISABLE_CRON environment variable to immediately stop scheduled…]]
+- Later: 2026-03-08 · Open WebUI · [[Changes/Open WebUI/2026-03-08-artifacts-reactive-loop-fix-fixed-an-infinite-reactive-loop-in-chat-when-artifac|♾️ Artifacts reactive loop fix. Fixed an infinite reactive loop in chat…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-09-04 · OpenHands · [[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better syntax error loop detection]]
+- Earliest same-theme entry in the tracked set: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

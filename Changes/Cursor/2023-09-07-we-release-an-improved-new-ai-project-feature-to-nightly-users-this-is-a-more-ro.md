@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 2f5388baa9f1633243517d49f925ebc9168cfe5902963e3c295b92bc8bbe577d
+machine_hash: dc862605f95b655e012003abab9778c0a3f3bc7b8b01ef3155061de6fece6028
 product: cursor
 product_name: Cursor
 record:
@@ -46,12 +46,12 @@ record:
   title: We release an improved New AI Project feature to nightly users
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-08-20-ssh-support-is-now-more-robust-please-continue-to-let-us-know-if-you-are-experie|More
-  robust SSH support]]'
-- '[[Changes/Cursor/2023-08-22-ssh-support-is-now-more-robust-please-continue-to-let-us-know-if-you-are-experie|SSH
-  support is now more robust!]]'
+- '[[Changes/Ollama/2023-08-30-improved-network-performance-of-ollama-push|Improved
+  network performance of ollama push]]'
 - '[[Changes/Cursor/2023-09-05-updates-to-docs-try-pasting-a-link-in-chat-you-can-delete-edit-docs-you-can-see|Docs
   updates]]'
+- '[[Changes/Ollama/2023-09-06-minor-performance-improvements-to-model-loading-and-generation|Minor
+  performance improvements to model loading and generation]]'
 source_release: '[[Releases/Cursor/cursor-2023-09-07-0-9-8-nightly-https-cursor-com-changelog-0-9-8-nightly-bc635135|cursor-2023-09-07-0-9-8-nightly-https-cursor-com-changelog-0-9-8-nightly-bc635135]]'
 source_type: cursor_changelog
 theme: reliability-performance
@@ -80,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2023-09-05 · Cursor · [[Changes/Cursor/2023-09-05-updates-to-docs-try-pasting-a-link-in-chat-you-can-delete-edit-docs-you-can-see|Docs updates]]
+- Earlier: 2023-09-06 · Ollama · [[Changes/Ollama/2023-09-06-minor-performance-improvements-to-model-loading-and-generation|Minor performance improvements to model loading and generation]]
 - Later: 2023-09-07 · Cursor · [[Changes/Cursor/2023-09-07-we-no-longer-store-any-full-files-in-memory-and-prevent-users-from-ing-very-larg-8d6c31|Better State Management]]
 <!-- chronolog:end -->
 

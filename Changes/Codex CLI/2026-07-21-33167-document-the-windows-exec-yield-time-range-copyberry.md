@@ -4,20 +4,20 @@ date: '2026-07-21'
 description: 'Codex CLI · 2026-07-21 · Files and Data: #33167 Document the Windows
   exec yield time range @copyberry'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code
-    interpreter is now rolling out in beta on web]]'
+  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
+    Files and Data changes in 0.2.2]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1111
+  lag_days: 1153
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 20f1d2df42b7136e9042039edabda2592571d73bd96aabea8a81d6a9010d3575
+machine_hash: 24257c74728e9d5c080a84c3297fa54a856f77ac55a708204ce7a9b9956103a3
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,12 +43,12 @@ record:
   title: '#33167 Document the Windows exec yield time range @copyberry'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-07-08-27714-app-server-document-thread-and-turn-ids-are-uuid7-owenlin0|♯27714
-  app-server: document thread and turn IDs are UUID7 @owenlin0]]'
 - '[[Changes/Claude Code/2026-07-15-claude-in-chrome-hardened-file-upload-path-validation|Claude
   in Chrome: hardened file-upload path validation]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-16-add-canvas-support-in-the-cli-for-extension-driven-interactions|Add
   canvas support in the CLI for extension-driven interactions]]'
+- '[[Changes/Dify/2026-07-17-2-files-and-data-changes-in-1-16-0|2 Files and Data changes
+  in 1.16.0]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-07-21-rust-v0-145-0-github-357545274-7be4454f|codex-cli-2026-07-21-rust-v0-145-0-github-357545274-7be4454f]]'
 source_type: github_releases
 theme: file-data
@@ -94,14 +94,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2026-07-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-16-add-canvas-support-in-the-cli-for-extension-driven-interactions|Add canvas support in the CLI for extension-driven interactions]]
+- Earlier: 2026-07-17 · Dify · [[Changes/Dify/2026-07-17-2-files-and-data-changes-in-1-16-0|2 Files and Data changes in 1.16.0]]
 - Later: 2026-07-23 · ChatGPT · [[Changes/ChatGPT/2026-07-23-we-re-starting-to-roll-out-a-new-health-experience-in-chatgpt-logged-in-free-go-b62f3b|We’re starting to roll out a new health experience in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-06 · ChatGPT · [[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code interpreter is now rolling out in beta on web]]
+- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 497700f043f6ec00d4827364cf0f14f725a26fe934d48d459650c78c65c2b50d
+machine_hash: 435a2d33312530cc56f9cde8941e8fab882c6450eb24906e0630a873d568bc57
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,12 +42,12 @@ record:
   title: 2 Context Window changes in rust-v0.44.0
   type: change
 related_changes:
-- '[[Changes/Cline/2025-09-25-replace-vscode-context-globalstoragepath-with-hostprovider-globalstoragefspath-b|Replace
-  vscode context.globalStoragePath with HostProvider.globalStorageFsPath]]'
 - '[[Changes/Cline/2025-09-28-tasks-directory-replace-uses-of-context-globalstorageuri-with-hostprovider-get-g|Tasks
   directory Replace uses of context.globalStorageUri…]]'
 - '[[Changes/Cline/2025-09-29-disk-ts-replace-uses-of-context-globalstorageuri-with-hostprovider-get-globalsto|disk.ts
   Replace uses of context.globalStorageUri…]]'
+- '[[Changes/Dify/2025-09-29-synced-fileuploader-context-with-props-to-fix-inconsistent-file-parameters-in-ca|Synced
+  FileUploader context with props to fix inconsistent file parameters in cached…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-10-03-rust-v0-44-0-github-252055554-66c49f37|codex-cli-2025-10-03-rust-v0-44-0-github-252055554-66c49f37]]'
 source_type: github_releases
 theme: context-window
@@ -90,7 +90,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.44.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2025-09-29 · Cline · [[Changes/Cline/2025-09-29-disk-ts-replace-uses-of-context-globalstorageuri-with-hostprovider-get-globalsto|disk.ts Replace uses of context.globalStorageUri…]]
+- Earlier: 2025-09-29 · Dify · [[Changes/Dify/2025-09-29-synced-fileuploader-context-with-props-to-fix-inconsistent-file-parameters-in-ca|Synced FileUploader context with props to fix inconsistent file parameters in cached…]]
 - Later: 2025-10-03 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-10-03-added-a-warning-when-conversation-context-approaches-20-remaining-of-the-model-s|Added a warning when conversation context approaches ≤20% remaining of the model's…]]
 <!-- chronolog:end -->
 

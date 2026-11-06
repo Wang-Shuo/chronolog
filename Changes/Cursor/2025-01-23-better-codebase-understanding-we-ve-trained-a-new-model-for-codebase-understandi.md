@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 0388356bec74a5a3b0e025965515a685c326bf80da10be80e63d4b17c87034e5
+machine_hash: 3421b00cf2856322b3ddc71f46a8bc7264121a82a8bb4a9f655db8701cf4468a
 product: cursor
 product_name: Cursor
 record:
@@ -46,8 +46,8 @@ record:
   title: 'Better Codebase Understanding: We''ve trained a new model for Codebase Understanding'
   type: change
 related_changes:
-- '[[Changes/Cline/2025-01-21-add-vs-code-lm-api-provider-to-run-models-provided-by-other-vs-code-extensions-e|Add
-  VS Code LM API provider to run models provided by other VS Code extensions…]]'
+- '[[Changes/Open WebUI/2025-01-22-2-model-support-changes-in-v0-5-5|2 Model Support
+  changes in v0.5.5]]'
 - '[[Changes/OpenHands/2025-01-22-2-model-support-changes-in-0-21-0|2 Model Support
   changes in 0.21.0]]'
 - '[[Changes/Cursor/2025-01-23-deepseek-models-deepseek-r1-and-deepseek-v3-are-supported-in-0-45-and-0-44-you-c|Deepseek
@@ -88,7 +88,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2025-01-22 · OpenHands · [[Changes/OpenHands/2025-01-22-2-model-support-changes-in-0-21-0|2 Model Support changes in 0.21.0]]
-- Later: 2025-01-30 · Cline · [[Changes/Cline/2025-01-30-save-last-used-api-model-when-switching-between-plan-and-act-for-users-that-like|Save last used API/model when switching between Plan and Act, for users that like…]]
+- Later: 2025-01-23 · Open WebUI · [[Changes/Open WebUI/2025-01-23-2-model-support-changes-in-v0-5-7|2 Model Support changes in v0.5.7]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

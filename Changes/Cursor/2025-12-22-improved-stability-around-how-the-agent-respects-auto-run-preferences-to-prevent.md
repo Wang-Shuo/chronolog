@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 5da1d81351f895ad7fd3cbd6f79308ef40b35a78b1a960cc5d89f8c9b6a33fa6
+machine_hash: 79959371619eeacdf1b62691dac1312d01bdf07fe760523c717f15256a450836
 product: cursor
 product_name: Cursor
 record:
@@ -58,12 +58,12 @@ record:
     prevent…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-12-19-2-safety-and-privacy-changes-in-rust-v0-76-0|2 Safety
-  and Privacy changes in rust-v0.76.0]]'
 - '[[Changes/GitHub Copilot CLI/2025-12-19-add-url-permission-controls-which-affect-common-shell-commands-which-access-the|Add
   URL permission controls which affect common shell commands which access the web]]'
 - '[[Changes/Codex CLI/2025-12-21-2-safety-and-privacy-changes-in-rust-v0-77-0|2 Safety
   and Privacy changes in rust-v0.77.0]]'
+- '[[Changes/Open WebUI/2025-12-21-6-safety-and-privacy-changes-in-v0-6-42|6 Safety
+  and Privacy changes in v0.6.42]]'
 source_release: '[[Releases/Cursor/cursor-2025-12-22-2-3-https-cursor-com-changelog-2-3-fe418465|cursor-2025-12-22-2-3-https-cursor-com-changelog-2-3-fe418465]]'
 source_type: cursor_changelog
 theme: safety-privacy
@@ -99,8 +99,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2025-12-21 · Codex CLI · [[Changes/Codex CLI/2025-12-21-2-safety-and-privacy-changes-in-rust-v0-77-0|2 Safety and Privacy changes in rust-v0.77.0]]
-- Later: 2026-01-06 · Codex CLI · [[Changes/Codex CLI/2026-01-06-3-safety-and-privacy-changes-in-rust-v0-78-0|3 Safety and Privacy changes in rust-v0.78.0]]
+- Earlier: 2025-12-21 · Open WebUI · [[Changes/Open WebUI/2025-12-21-6-safety-and-privacy-changes-in-v0-6-42|6 Safety and Privacy changes in v0.6.42]]
+- Later: 2025-12-23 · Lovable · [[Changes/Lovable/2025-12-23-public-preview-link-controls|Public preview link controls]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b27a5a02cbf896421fa14820f21b134f495d56823de260e47bc41b6e812fb477
+machine_hash: 837391dfb1090f9b825e1c0c57cdad0a10a816330373b76928fc104b438d4742
 product: cursor
 product_name: Cursor
 record:
@@ -48,10 +48,10 @@ record:
     cmd+I
   type: change
 related_changes:
-- '[[Changes/OpenHands/2024-07-13-refractor-move-image-agnostic-util-to-shared-runtime-util-by-xingyaoww-in-https|Refractor:
-  move image agnostic util to shared runtime util]]'
 - '[[Changes/OpenHands/2024-07-19-frontend-update-url-for-share-opendevin-trajectory-visualization-by-xingyaoww-in|frontend:
   update url for share opendevin trajectory visualization]]'
+- '[[Changes/Dify/2024-07-23-feat-add-email-support-for-pro-and-team-by-crazywoola-in-https-github-com-langge|Feat/add
+  email support for pro and team]]'
 - '[[Changes/OpenHands/2024-07-27-2-collaboration-changes-in-0-8-2|2 Collaboration
   changes in 0.8.2]]'
 source_release: '[[Releases/Cursor/cursor-2024-08-22-0-40-x-https-cursor-com-changelog-0-40-x-317cba42|cursor-2024-08-22-0-40-x-https-cursor-com-changelog-0-40-x-317cba42]]'
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2024-07-27 · OpenHands · [[Changes/OpenHands/2024-07-27-2-collaboration-changes-in-0-8-2|2 Collaboration changes in 0.8.2]]
-- Later: 2024-10-09 · Cline · [[Changes/Cline/2024-10-09-new-readme-and-got-a-cool-domain-for-the-project-https-cline-bot-wip-on-a-final|New README and got a cool domain for the project (source link) (wip)]]
+- Later: 2024-09-30 · Dify · [[Changes/Dify/2024-09-30-with-this-release-we-re-truly-showcasing-the-power-of-dify-we-appreciate-your-co|With this release, we’re truly showcasing the power of Dify!]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

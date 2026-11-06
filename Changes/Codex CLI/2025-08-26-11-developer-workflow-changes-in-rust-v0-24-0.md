@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: fdbc15e289e503c1002b5a9704eb385af52a337ae6bacb04f8d990f6824d3503
+machine_hash: 9344ab0ff85e986cc4b36d57bd1e5e9e1bc231e78954358e6e77cf62d9ecfeea
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -60,12 +60,12 @@ record:
   title: 11 Developer Workflow changes in rust-v0.24.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-08-20-2474-https-github-com-openai-codex-pull-2474-add-a-slash-command-to-control-perm|♯2474((source
-  link) Add a slash command to control…]]'
 - '[[Changes/Cline/2025-08-21-when-packaging-cline-core-for-debug-builds-include-map-files-by-sjf-in-https-git|When
   packaging cline-core for debug builds include map files]]'
 - '[[Changes/Cursor/2025-08-21-the-terminal-now-opens-on-the-left-with-a-clear-backdrop-and-border-animation-to|Improved
   review flow in Agent terminal]]'
+- "[[Changes/Open WebUI/2025-08-21-resolved-code-block-input-issue-with-shift-enter-fixed-a-bug-where-typing-three|\U0001F4DD
+  Resolved Code Block Input Issue with Shift+Enter]]"
 source_release: '[[Releases/Codex CLI/codex-cli-2025-08-26-rust-v0-24-0-github-242647588-70fa432e|codex-cli-2025-08-26-rust-v0-24-0-github-242647588-70fa432e]]'
 source_type: github_releases
 theme: developer-workflow
@@ -127,8 +127,8 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.24.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2025-08-21 · Cursor · [[Changes/Cursor/2025-08-21-the-terminal-now-opens-on-the-left-with-a-clear-backdrop-and-border-animation-to|Improved review flow in Agent terminal]]
-- Later: 2025-08-27 · Gemini CLI · [[Changes/Gemini CLI/2025-08-27-feat-core-refactor-shell-execution-to-use-node-pty-by-galz10-in-https-github-com|feat(core): refactor shell execution to use node-pty]]
+- Earlier: 2025-08-21 · Open WebUI · [[Changes/Open WebUI/2025-08-21-resolved-code-block-input-issue-with-shift-enter-fixed-a-bug-where-typing-three|📝 Resolved Code Block Input Issue with Shift+Enter]]
+- Later: 2025-08-27 · Dify · [[Changes/Dify/2025-08-27-3-developer-workflow-changes-in-1-8-0|3 Developer Workflow changes in 1.8.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 15fd1495722355eda3dc0ba3fa44edf5392f17f6c072e59d8b88863461bda9bd
+machine_hash: 835c9e3e0be62a9339dbd5513aae46fe2c47d8a5ff0577ff4752e170a3cad36e
 product: cline
 product_name: Cline
 record:
@@ -46,12 +46,12 @@ record:
     you…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-03-18-in-line-message-error-retries-if-you-encounter-a-message-error-you-can-retry-or|In-line
-  message error retries]]'
-- '[[Changes/ChatGPT/2025-03-18-improved-display-and-faster-streaming-of-conversations-and-message-menu-actions|Improved
-  display and faster streaming of conversations and message menu actions]]'
-- '[[Changes/OpenHands/2025-03-18-improve-the-stability-of-openhands-application-and-evaluation-harness-by-retry-o|Improve
-  the stability of OpenHands application and evaluation harness by retry…]]'
+- '[[Changes/Lovable/2025-03-21-chat-mode-is-faster-than-ever-fixing-the-bug-where-it-sometimes-just-stopped|Chat
+  mode is faster than ever, fixing the bug where it sometimes just stopped]]'
+- '[[Changes/Lovable/2025-03-21-shipped-memory-leak-fixes-to-prevent-backend-crashes-during-user-requests-includ|Shipped
+  memory leak fixes to prevent backend crashes during user requests including…]]'
+- '[[Changes/Ollama/2025-03-22-2-reliability-and-performance-changes-in-v0-6-3|2 Reliability
+  and Performance changes in v0.6.3]]'
 source_release: '[[Releases/Cline/cline-2025-03-23-v3-8-0-github-207655603-f6979596|cline-2025-03-23-v3-8-0-github-207655603-f6979596]]'
 source_type: github_releases
 theme: reliability-performance
@@ -86,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-03-18 · OpenHands · [[Changes/OpenHands/2025-03-18-improve-the-stability-of-openhands-application-and-evaluation-harness-by-retry-o|Improve the stability of OpenHands application and evaluation harness by retry…]]
+- Earlier: 2025-03-22 · Ollama · [[Changes/Ollama/2025-03-22-2-reliability-and-performance-changes-in-v0-6-3|2 Reliability and Performance changes in v0.6.3]]
 - Later: 2025-03-23 · Cursor · [[Changes/Cursor/2025-03-23-2-reliability-and-performance-changes-in-0-48-x|2 Reliability and Performance changes in 0.48.x]]
 <!-- chronolog:end -->
 

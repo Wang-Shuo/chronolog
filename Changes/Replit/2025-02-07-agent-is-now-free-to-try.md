@@ -1,0 +1,101 @@
+---
+card_id: replit-2025-02-07-4068bf
+date: '2025-02-07'
+description: 'Replit · 2025-02-07 · Agent Mode: Agent and Assistant are now free to
+  try! Whether you''re a seasoned Replit developer or just starting out, you can now…'
+diffusion:
+  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Agents,
+    new docs]]'
+  inference: No adoption, equivalence, or causation claim.
+  lag_days: 582
+  relation: same-theme-chronology
+  role: later-observed
+  scope: tracked-products-only
+  theme: agent-mode
+  tracked_products_count: 20
+evolves_from: []
+extractor_version: fallback-v5
+impact: paradigm-shift
+kind: launch
+machine_hash: e40c9579d849c78a67c30b480d4a8c5e1bf062a3ccbf4f93b0b2f856db1aa9e7
+product: replit
+product_name: Replit
+record:
+  ai_generated: true
+  card_id: replit-2025-02-07-4068bf
+  comparison: ''
+  confidence: low
+  date: '2025-02-07'
+  description: 'Replit — Replit updates — 2025-02-07: Agent and Assistant are now
+    free to try! Whether you''re a seasoned Replit developer or just starting out,
+    you can now experiment with these powerful tools without any restrictions.'
+  evidence:
+  - quote: Agent and Assistant are now free to try! Whether you're a seasoned Replit
+      developer or just starting out, you can now experiment with these powerful tools
+      without any restrictions.
+    source_release: https://docs.replit.com/updates/2025/02/07/changelog
+  - quote: Your first 10 checkpoints are free (that includes existing, paid developers
+      too). Select [https://replit.com](https://replit.com) to give them a shot.
+    source_release: https://docs.replit.com/updates/2025/02/07/changelog
+  extractor_version: fallback-v5
+  impact: paradigm-shift
+  kind: launch
+  product: replit
+  product_name: Replit
+  slug: agent-is-now-free-to-try
+  source_release: replit-2025-02-07-2025-02-07-c5bc91d9
+  source_type: replit_changelog
+  theme: agent-mode
+  title: Agent is now free to try
+  type: change
+related_changes:
+- '[[Changes/ElevenLabs/2025-02-04-agents-platform|Agents Platform]]'
+- '[[Changes/Dify/2025-02-07-2-agent-mode-changes-in-0-15-3|2 Agent Mode changes in
+  0.15.3]]'
+- '[[Changes/Replit/2025-02-07-agent-actions|Agent actions]]'
+source_release: '[[Releases/Replit/replit-2025-02-07-2025-02-07-c5bc91d9|replit-2025-02-07-2025-02-07-c5bc91d9]]'
+source_type: replit_changelog
+theme: agent-mode
+title: Agent is now free to try
+type: change
+---
+
+<!-- chronolog:begin region="header" -->
+# Agent is now free to try
+
+**Replit** · 2025-02-07 · [[Themes/agent-mode|Agent Mode]] · Launch · [Official source](https://docs.replit.com/updates/2025/02/07/changelog) · from [[Releases/Replit/replit-2025-02-07-2025-02-07-c5bc91d9|Replit updates — 2025-02-07]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="evidence" -->
+> Agent and Assistant are now free to try! Whether you're a seasoned Replit developer or just starting out, you can now experiment with these powerful tools without any restrictions.
+>
+> Your first 10 checkpoints are free (that includes existing, paid developers too). Select [https://replit.com](https://replit.com) to give them a shot.
+>
+> Source: https://docs.replit.com/updates/2025/02/07/changelog
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Replit/2025-02-07-agent-actions|Agent actions]] · Agent Mode
+- [[Changes/Replit/2025-02-07-new-replit-app-cover-pages|New Replit App cover pages]] · Agent Mode
+- [[Changes/Replit/2025-02-07-improved-database-viewer|Improved database viewer]] · Reliability and Performance
+- [[Changes/Replit/2025-02-07-replit-mobile|Replit Mobile]] · Mobile and Desktop
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Agent Mode
+
+- Earlier: 2025-02-07 · Dify · [[Changes/Dify/2025-02-07-2-agent-mode-changes-in-0-15-3|2 Agent Mode changes in 0.15.3]]
+- Later: 2025-02-10 · ElevenLabs · [[Changes/ElevenLabs/2025-02-10-agents-platform|Agents Platform]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-07-06 · Cursor · [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Agents, new docs]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20replit-2025-02-07-4068bf&body=Card%3A%20Changes%2FReplit%2F2025-02-07-agent-is-now-free-to-try.md%0ACard%20ID%3A%20replit-2025-02-07-4068bf%0ASource%3A%20https%3A%2F%2Fdocs.replit.com%2Fupdates%2F2025%2F02%2F07%2Fchangelog%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a3808ce2589b7fe68e68badbeaaaafc20fb7d2a35a794e15a54886e372a9619e
+machine_hash: 9ab25ddc795a38c0225432bb17bc2a9c7b45e7e5a53244d6006c88e0043174ef
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -41,10 +41,10 @@ record:
   title: Improve stability on Windows by working around a V8 crash in Node 24.x
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-28-faster-startup-after-upgrading-removed-the-recent-activity-panel-from-the-releas|Faster
-  startup after upgrading]]'
 - '[[Changes/Gemini CLI/2026-04-28-2-reliability-and-performance-changes-in-v0-40-0|2
   Reliability and Performance changes in v0.40.0]]'
+- '[[Changes/Dify/2026-04-29-3-reliability-and-performance-changes-in-1-14-0|3 Reliability
+  and Performance changes in 1.14.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-01-improve-cli-startup-speed-by-loading-custom-ca-certificates-asynchronously|Improve
   CLI startup speed by loading custom CA certificates asynchronously]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-05-05-v1-0-41-github-318057614-7319e863|github-copilot-cli-2026-05-05-v1-0-41-github-318057614-7319e863]]'
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-05-01 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-01-improve-cli-startup-speed-by-loading-custom-ca-certificates-asynchronously|Improve CLI startup speed by loading custom CA certificates asynchronously]]
-- Later: 2026-05-06 · Claude Code · [[Changes/Claude Code/2026-05-06-updated-the-tui-fullscreen-startup-banner-to-describe-additional-renderer-benefi|Updated the /tui fullscreen startup banner to describe additional renderer…]]
+- Later: 2026-05-05 · Ollama · [[Changes/Ollama/2026-05-05-gemma-4-mtp-speculative-decoding-is-now-supported-on-macs-this-can-give-over-a-2|Gemma 4 MTP speculative decoding is now supported on Macs]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

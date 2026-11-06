@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d884693f69ebd9e6a8337d59fe7b0670dc8027cc7256ea143cd04fd99f1574e2
+machine_hash: 047c7e380d086cd8e9218ff9909952d2ca195f479b445e2df5ca7ba0b0bb7203
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,12 +43,12 @@ record:
     performance
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-24-reduced-long-session-memory-growth-from-terminal-output-cache|Reduced
-  long-session memory growth from terminal output cache]]'
-- '[[Changes/Claude Code/2026-06-25-added-automatic-memory-pressure-reaping-for-idle-background-shell-commands-disab|Added
-  automatic memory-pressure reaping for idle background shell commands…]]'
-- '[[Changes/Codex CLI/2026-06-25-apps-can-display-richer-safety-buffering-ui-using-server-provided-visibility-and|Apps
-  can display richer safety-buffering UI using server-provided visibility…]]'
+- '[[Changes/Dify/2026-06-25-2-reliability-and-performance-changes-in-1-15-0|2 Reliability
+  and Performance changes in 1.15.0]]'
+- '[[Changes/Ollama/2026-06-25-llm-size-mmproj-offload-by-projector-memory-by-dhiltgen-in-https-github-com-olla|llm:
+  size mmproj offload by projector memory]]'
+- '[[Changes/Open WebUI/2026-06-29-6-reliability-and-performance-changes-in-v0-10-0|6
+  Reliability and Performance changes in v0.10.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-06-30-v1-0-66-github-346845066-af776740|github-copilot-cli-2026-06-30-v1-0-66-github-346845066-af776740]]'
 source_type: github_releases
 theme: reliability-performance
@@ -94,8 +94,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-06-25 · Codex CLI · [[Changes/Codex CLI/2026-06-25-apps-can-display-richer-safety-buffering-ui-using-server-provided-visibility-and|Apps can display richer safety-buffering UI using server-provided visibility…]]
-- Later: 2026-07-02 · Claude Code · [[Changes/Claude Code/2026-07-02-2-reliability-and-performance-changes-in-v2-1-199|2 Reliability and Performance changes in v2.1.199]]
+- Earlier: 2026-06-29 · Open WebUI · [[Changes/Open WebUI/2026-06-29-6-reliability-and-performance-changes-in-v0-10-0|6 Reliability and Performance changes in v0.10.0]]
+- Later: 2026-06-30 · Lovable · [[Changes/Lovable/2026-06-30-faster-ai-responses-in-your-app-with-openai-priority-processing|Faster AI responses in your app with OpenAI priority processing]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 453406a4f72f495a7a8cab0a93b01f3968d7d3c2e5e9c22961cf6bb4342ff634
+machine_hash: 85e2ddf5a6e8f074a369e7e8bfac99004505c7037e9a3e3ef824926665de4710
 product: cursor
 product_name: Cursor
 record:
@@ -64,12 +64,12 @@ record:
   title: Improved terminal for Agent
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-09-08-2-developer-workflow-changes-in-rust-v0-31-0|2 Developer
-  Workflow changes in rust-v0.31.0]]'
-- '[[Changes/Gemini CLI/2025-09-09-3-developer-workflow-changes-in-v0-4-0|3 Developer
-  Workflow changes in v0.4.0]]'
+- '[[Changes/Open WebUI/2025-09-09-14-developer-workflow-changes-in-v0-6-27|14 Developer
+  Workflow changes in v0.6.27]]'
 - '[[Changes/Codex CLI/2025-09-10-2-developer-workflow-changes-in-rust-v0-32-0|2 Developer
   Workflow changes in rust-v0.32.0]]'
+- '[[Changes/Open WebUI/2025-09-10-4-developer-workflow-changes-in-v0-6-28|4 Developer
+  Workflow changes in v0.6.28]]'
 source_release: '[[Releases/Cursor/cursor-2025-09-12-1-6-https-cursor-com-changelog-1-6-f33fb3ea|cursor-2025-09-12-1-6-https-cursor-com-changelog-1-6-f33fb3ea]]'
 source_type: cursor_changelog
 theme: developer-workflow
@@ -111,7 +111,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2025-09-10 · Codex CLI · [[Changes/Codex CLI/2025-09-10-2-developer-workflow-changes-in-rust-v0-32-0|2 Developer Workflow changes in rust-v0.32.0]]
+- Earlier: 2025-09-10 · Open WebUI · [[Changes/Open WebUI/2025-09-10-4-developer-workflow-changes-in-v0-6-28|4 Developer Workflow changes in v0.6.28]]
 - Later: 2025-09-13 · Cline · [[Changes/Cline/2025-09-13-feature-to-generate-commit-message-for-staged-changes-with-unstaged-as-fallback|Feature to generate commit message for staged changes, with unstaged as fallback]]
 <!-- chronolog:end -->
 

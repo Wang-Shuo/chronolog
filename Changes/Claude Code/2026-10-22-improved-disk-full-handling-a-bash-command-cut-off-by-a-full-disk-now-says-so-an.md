@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: bd3eb0bb66569d8cf418ce4ed78705b930ae5e72fbdb04b210e09186c81446d9
+machine_hash: 82d3e573b1fb3ffb2f26c2f65240b112a10a9d0cc8dbf3f777595ae629108a4f
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
   title: Improved disk-full handling
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-20-2-developer-workflow-changes-in-v2-1-305|2 Developer
-  Workflow changes in v2.1.305]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-20-2-developer-workflow-changes-in-v1-0-101|2
   Developer Workflow changes in v1.0.101]]'
 - '[[Changes/Claude Code/2026-10-21-2-developer-workflow-changes-in-v2-1-307|2 Developer
   Workflow changes in v2.1.307]]'
+- '[[Changes/Ollama/2026-10-21-flint-is-an-apache-2-0-licensed-40b-parameter-mixture-of-experts-model-with-appr|Flint
+  is an Apache 2.0-licensed, 40B-parameter mixture-of-experts model…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-22-v2-1-309-github-421170674-b2394d99|claude-code-2026-10-22-v2-1-309-github-421170674-b2394d99]]'
 source_type: github_releases
 theme: developer-workflow
@@ -87,7 +87,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-10-21 · Claude Code · [[Changes/Claude Code/2026-10-21-2-developer-workflow-changes-in-v2-1-307|2 Developer Workflow changes in v2.1.307]]
+- Earlier: 2026-10-21 · Ollama · [[Changes/Ollama/2026-10-21-flint-is-an-apache-2-0-licensed-40b-parameter-mixture-of-experts-model-with-appr|Flint is an Apache 2.0-licensed, 40B-parameter mixture-of-experts model…]]
 - Later: 2026-10-22 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-22-clicking-a-completed-response-code-block-copies-its-original-code-when-enabled|Clicking a completed response code block copies its original code when enabled]]
 <!-- chronolog:end -->
 

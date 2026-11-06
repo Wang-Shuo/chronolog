@@ -5,20 +5,20 @@ description: 'ChatGPT · 2026-02-27 · Voice and Audio: Improved dictation visua
   Dictation now has a clearer, more streamlined interface that keeps your text visible
   and…'
 diffusion:
-  first_in_tracked: '[[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source
-    link) support, which allows you…]]'
+  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
+    Voice and Audio changes in 0.3.7]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 931
+  lag_days: 963
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: bbbcb573615e3b6cc091db3b3d26fd3070ab41bfb96f5f8ad97737e0f2dbbc47
+machine_hash: 445a867145d3755700b5d04b0733fc61854047ce9c4264b87ba9a1b342f2db7b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -46,8 +46,8 @@ record:
   title: Improved dictation visuals
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-02-12-we-re-making-an-update-to-chatgpt-voice-that-improves-its-ability-to-follow-user|ChatGPT
-  Voice Update]]'
+- '[[Changes/Open WebUI/2026-02-23-voice-dictation-shortcut-users-can-now-toggle-voice-dictation-using-cmd-shift-l|⌨️
+  Voice dictation shortcut. Users can now toggle voice dictation using…]]'
 - '[[Changes/Codex CLI/2026-02-25-you-can-now-dictate-prompts-by-holding-the-spacebar-to-record-and-transcribe-voi|Dictate
   prompts by holding the spacebar to record and transcribe voice input…]]'
 - '[[Changes/Codex CLI/2026-02-25-2-voice-and-audio-changes-in-rust-v0-105-0|2 Voice
@@ -94,7 +94,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-08-11 · Aider · [[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source link) support, which allows you…]]
+- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: fix
-machine_hash: 73f7bba06a69430f5df5ebb09629b0856de8e6f67f77b5f1c58ee3e879376c41
+machine_hash: adcb714bf9012f209ceea445aecf54887ec6dd05ece0c632b7ededeac722ad53
 product: claude-code
 product_name: Claude Code
 record:
@@ -86,7 +86,7 @@ type: change
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-03-26 · Codex CLI · [[Changes/Codex CLI/2026-03-26-5-safety-and-privacy-changes-in-rust-v0-117-0|5 Safety and Privacy changes in rust-v0.117.0]]
-- Later: 2026-03-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-30-mcp-servers-using-microsoft-entra-id-authentication-no-longer-show-the-consent-s|MCP servers using Microsoft Entra ID authentication no longer show the consent…]]
+- Later: 2026-03-27 · Dify · [[Changes/Dify/2026-03-27-6-safety-and-privacy-changes-in-1-13-3|6 Safety and Privacy changes in 1.13.3]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

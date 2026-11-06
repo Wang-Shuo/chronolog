@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c5e2ab31df6e057194d5c58d05e79d5c3992f6565e2ef2c693b59a911ac47b41
+machine_hash: b40681d2f75f75c57fbc2c56212fb3599964a93bcc66ad9aed60a50221497c41
 product: cline
 product_name: Cline
 record:
@@ -47,11 +47,12 @@ record:
   title: 4 Model Support changes in v3.13.2
   type: change
 related_changes:
-- '[[Changes/Windsurf/2025-04-16-new-o4-mini-models-available-and-free-limited-time|New
-  o4-mini models available and Free (Limited Time)]]'
-- '[[Changes/Windsurf/2025-04-16-o4-mini-available|o4-mini Available]]'
 - '[[Changes/Cline/2025-04-19-4-model-support-changes-in-v3-13-0|4 Model Support changes
   in v3.13.0]]'
+- '[[Changes/Gemini/2025-04-19-update-to-2-0-flash-in-gemini|Update to 2.0 Flash in
+  Gemini]]'
+- '[[Changes/Dify/2025-04-23-4-model-support-changes-in-1-3-0|4 Model Support changes
+  in 1.3.0]]'
 source_release: '[[Releases/Cline/cline-2025-04-24-v3-13-2-github-214623274-8a6a3c52|cline-2025-04-24-v3-13-2-github-214623274-8a6a3c52]]'
 source_type: github_releases
 theme: model-support
@@ -90,7 +91,7 @@ Source: https://github.com/cline/cline/releases/tag/v3.13.2
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-04-19 · Cline · [[Changes/Cline/2025-04-19-4-model-support-changes-in-v3-13-0|4 Model Support changes in v3.13.0]]
+- Earlier: 2025-04-23 · Dify · [[Changes/Dify/2025-04-23-4-model-support-changes-in-1-3-0|4 Model Support changes in 1.3.0]]
 - Later: 2025-04-25 · ChatGPT · [[Changes/ChatGPT/2025-04-25-we-re-making-additional-improvements-to-gpt-4o-optimizing-when-it-saves-memories|Improvements to GPT-4o]]
 <!-- chronolog:end -->
 

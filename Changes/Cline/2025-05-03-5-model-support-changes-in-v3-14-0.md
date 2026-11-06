@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: af0cb1ab62c49fa1ba2be337ec9e65a63d24538362e8939050ff077619f8280e
+machine_hash: d42a99362e169ea55b8264492767f26d1504a67701663b07ac2c2292c17a2d94
 product: cline
 product_name: Cline
 record:
@@ -49,9 +49,9 @@ record:
   title: 5 Model Support changes in v3.14.0
   type: change
 related_changes:
-- '[[Changes/Cline/2025-04-25-add-prompt-caching-to-gemini-models-in-cline-openrouter-providers|Add
-  prompt caching to gemini models in cline / openrouter providers]]'
 - '[[Changes/Windsurf/2025-04-27-misc|Misc]]'
+- '[[Changes/Dify/2025-04-28-chore-disabled-struct-output-not-show-model-not-support-warning-by-iamjoel-in-ht|chore:
+  disabled struct output not show model not support warning]]'
 - '[[Changes/ChatGPT/2025-04-29-we-ve-reverted-the-most-recent-update-to-gpt-4o-due-to-issues-with-overly-agreea-097503|Updates
   to GPT-4o]]'
 source_release: '[[Releases/Cline/cline-2025-05-03-v3-14-0-github-216283929-7acb459c|cline-2025-05-03-v3-14-0-github-216283929-7acb459c]]'
@@ -96,7 +96,7 @@ Source: https://github.com/cline/cline/releases/tag/v3.14.0
 ## Nearby in Model Support
 
 - Earlier: 2025-04-29 · ChatGPT · [[Changes/ChatGPT/2025-04-29-we-ve-reverted-the-most-recent-update-to-gpt-4o-due-to-issues-with-overly-agreea-097503|Updates to GPT-4o]]
-- Later: 2025-05-07 · Windsurf · [[Changes/Windsurf/2025-05-07-cascade-ux-improvements|Cascade UX Improvements]]
+- Later: 2025-05-05 · Open WebUI · [[Changes/Open WebUI/2025-05-05-2-model-support-changes-in-v0-6-6|2 Model Support changes in v0.6.6]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

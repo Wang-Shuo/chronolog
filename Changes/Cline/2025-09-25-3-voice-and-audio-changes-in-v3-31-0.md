@@ -4,20 +4,20 @@ date: '2025-09-25'
 description: 'Cline · 2025-09-25 · Voice and Audio: 3 changes in v3.31.0 — Adding
   voice mode to Cline by @arafatkatze in https://github.com/cline/cline/pull/6208'
 diffusion:
-  first_in_tracked: '[[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source
-    link) support, which allows you…]]'
+  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
+    Voice and Audio changes in 0.3.7]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 776
+  lag_days: 808
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f7b28fe22d3167fc55f11591fa8801d1b2f3b360d9ddaf9140a2b27f2e05a167
+machine_hash: 9699837073952e9e1d41ad00f471487ecf3706d435fb3cf5363d70023bc4d45c
 product: cline
 product_name: Cline
 record:
@@ -44,11 +44,9 @@ record:
   title: 3 Voice and Audio changes in v3.31.0
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-08-07-you-can-now-set-an-accent-color-that-applies-to-elements-in-chatgpt-including-yo-865968|Accent
-  Colors]]'
-- '[[Changes/ChatGPT/2025-08-07-you-can-now-choose-from-four-distinct-personalities-or-use-the-default-personali-b6826c|Personalities]]'
-- '[[Changes/ChatGPT/2025-09-09-last-month-we-announced-that-everyone-now-has-access-to-advanced-voice-mode-with-d861d2|ChatGPT
-  Voice Update]]'
+- '[[Changes/ElevenLabs/2025-09-15-javascript-sdk|JavaScript SDK]]'
+- '[[Changes/ElevenLabs/2025-09-15-new-endpoints|New Endpoints]]'
+- '[[Changes/ElevenLabs/2025-09-15-text-to-speech|Text to Speech]]'
 source_release: '[[Releases/Cline/cline-2025-09-25-v3-31-0-github-249851716-699f2598|cline-2025-09-25-v3-31-0-github-249851716-699f2598]]'
 source_type: github_releases
 theme: voice
@@ -86,14 +84,14 @@ Source: https://github.com/cline/cline/releases/tag/v3.31.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2025-09-09 · ChatGPT · [[Changes/ChatGPT/2025-09-09-last-month-we-announced-that-everyone-now-has-access-to-advanced-voice-mode-with-d861d2|ChatGPT Voice Update]]
+- Earlier: 2025-09-15 · ElevenLabs · [[Changes/ElevenLabs/2025-09-15-text-to-speech|Text to Speech]]
 - Later: 2025-09-29 · ChatGPT · [[Changes/ChatGPT/2025-09-29-turn-off-voice-mode-to-remove-the-option-to-use-voice-mode-in-chatgpt|Turn off voice mode, to remove the option to use voice mode in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-08-11 · Aider · [[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source link) support, which allows you…]]
+- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b61b47e09f0cf13c473f7ce39b01838cd0975c9ff3c8887c9501c36efc5d467e
+machine_hash: 32f560e4c39f5d07314b47ca49164769097347f9d9a46451addc050baeb575e9
 product: cursor
 product_name: Cursor
 record:
@@ -41,8 +41,8 @@ record:
   title: Past chat transcripts are now surfaced directly in at-mention search results
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-26-plugins-are-now-a-first-class-workflow-codex-can-sync-product-scoped-plugins-at|Plugins
-  are now a first-class workflow]]'
+- '[[Changes/Ollama/2026-03-27-ollama-launch-pi-now-includes-web-search-plugin-that-uses-ollama-s-web-search|ollama
+  launch pi now includes web search plugin that uses Ollama''s web search]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-30-grep-and-glob-search-results-return-promptly-when-a-timeout-is-reached|Grep
   and glob search results return promptly when a timeout is reached]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-31-grep-and-glob-search-results-return-promptly-when-a-timeout-is-reached|Grep

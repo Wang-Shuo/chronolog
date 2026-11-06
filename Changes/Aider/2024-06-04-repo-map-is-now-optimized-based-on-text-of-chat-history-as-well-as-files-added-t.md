@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b2a698cf71315dc3435e50ffa4ca7c9bd4f13bb588ac1756a6b10304a4669d69
+machine_hash: 260ea9eec711a3968d2ef5f41e8f31dc4eef7a12b1e927893af23e38fe745306
 product: aider
 product_name: Aider
 record:
@@ -45,12 +45,12 @@ record:
     added to chat
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-04-12-cursor-help-pane-beta-you-can-also-ask-cursor-about-cursor-the-cursor-help-pane|Cursor
-  Help Pane (Beta): You can also ask Cursor about Cursor!]]'
-- '[[Changes/Cursor/2024-05-03-command-k-autoselect-we-ve-also-added-automatic-selection-for-command-k-this-mea|Command-K
-  Autoselect: We''ve also added automatic selection for Command-K!]]'
-- '[[Changes/Aider/2024-05-13-added-restore-chat-history-to-restore-prior-chat-history-on-launch-so-you-can-co|Added
-  --restore-chat-history to restore prior chat history on launch, so you can…]]'
+- '[[Changes/Dify/2024-05-27-improved-variable-assigner-supports-more-flexible-variable-selection-additionall|Improved
+  Variable Assigner supports more flexible variable selection]]'
+- "[[Changes/Open WebUI/2024-06-02-ui-enhancement-fixed-the-scrollbar-overlapping-issue-with-the-message-box-in-the|\U0001F5A5️
+  UI Enhancement]]"
+- "[[Changes/Open WebUI/2024-06-03-mermaid-rendering-support-we-ve-included-support-for-mermaid-rendering-this-allo|\U0001F30A
+  Mermaid Rendering Support: We've included support for Mermaid rendering]]"
 source_release: '[[Releases/Aider/aider-2024-06-04-v0-37-0-github-158850149-b4830675|aider-2024-06-04-v0-37-0-github-158850149-b4830675]]'
 source_type: github_releases
 theme: interface-experience
@@ -84,8 +84,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2024-05-13 · Aider · [[Changes/Aider/2024-05-13-added-restore-chat-history-to-restore-prior-chat-history-on-launch-so-you-can-co|Added --restore-chat-history to restore prior chat history on launch, so you can…]]
-- Later: 2024-07-23 · Cursor · [[Changes/Cursor/2024-07-23-we-ve-also-added-a-file-picker-arrow-key-navigation-and-a-model-toggle-to-compos|Cursor adds a file picker, arrow key navigation, and a model toggle to Composer]]
+- Earlier: 2024-06-03 · Open WebUI · [[Changes/Open WebUI/2024-06-03-mermaid-rendering-support-we-ve-included-support-for-mermaid-rendering-this-allo|🌊 Mermaid Rendering Support: We've included support for Mermaid rendering]]
+- Later: 2024-06-10 · Open WebUI · [[Changes/Open WebUI/2024-06-10-various-ui-styling-issues-fixed-numerous-user-interface-styling-problems-for-a-m|✨ Various UI Styling Issues]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

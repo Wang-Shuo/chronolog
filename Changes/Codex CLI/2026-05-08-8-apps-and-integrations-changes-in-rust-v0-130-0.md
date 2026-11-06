@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1643d0378a41b9ecd8772e4ec9502a6d22aef2b06b13f3b8eae232d9a2fe6d0f
+machine_hash: 170755c963f3034c192306e2e008d02512bd3bfd3f9d5c01985b88b3b0b17248
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -59,10 +59,10 @@ record:
   title: 8 Apps and Integrations changes in rust-v0.130.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-05-07-39-apps-and-integrations-changes-in-rust-v0-129-0|39
-  Apps and Integrations changes in rust-v0.129.0]]'
 - '[[Changes/Cursor/2026-05-07-made-mcp-connection-behavior-more-predictable-and-added-explicit-stale-token-cle|Made
   MCP connection behavior more predictable, and added explicit stale token…]]'
+- '[[Changes/Ollama/2026-05-07-2-apps-and-integrations-changes-in-v0-23-2|2 Apps and
+  Integrations changes in v0.23.2]]'
 - '[[Changes/Claude Code/2026-05-08-changed-plugin-marketplace-removal-key-to-d-matching-delete-elsewhere-instead-of|Changed
   plugin marketplace removal key to d (matching delete elsewhere) instead…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-05-08-rust-v0-130-0-github-319777370-eab676f9|codex-cli-2026-05-08-rust-v0-130-0-github-319777370-eab676f9]]'
@@ -117,7 +117,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.130.0
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-05-08 · Claude Code · [[Changes/Claude Code/2026-05-08-changed-plugin-marketplace-removal-key-to-d-matching-delete-elsewhere-instead-of|Changed plugin marketplace removal key to d (matching delete elsewhere) instead…]]
-- Later: 2026-05-11 · Claude Code · [[Changes/Claude Code/2026-05-11-added-goal-command-set-a-completion-condition-and-claude-keeps-working-across-tu|Added /goal command]]
+- Later: 2026-05-08 · Replit · [[Changes/Replit/2026-05-08-speaker-notes-and-presenter-view-in-slide-decks|Speaker notes and Presenter view in Slide Decks]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 39a3e18287e6f7c31f9d253b6d9a72a9118b196a01c5de43967ffa692981f2ac
+machine_hash: 746c8c756faca6f9984c5de1e61e914023ebc5cec3e12fdbab887ffd9215ccd7
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -49,10 +49,10 @@ record:
   title: 5 Editor Experience changes in v1.0.71
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-10-added-a-doctor-check-that-proposes-trimming-checked-in-claude-md-files-by-cuttin|Added
-  a /doctor check that proposes trimming checked-in CLAUDE.md files…]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-10-2-editor-experience-changes-in-v1-0-70|2
   Editor Experience changes in v1.0.70]]'
+- '[[Changes/Lovable/2026-07-10-see-project-status-in-your-browser-tab|See project
+  status in your browser tab]]'
 - '[[Changes/Claude Code/2026-07-14-2-editor-experience-changes-in-v2-1-208|2 Editor
   Experience changes in v2.1.208]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-07-16-v1-0-71-github-354824472-a089f622|github-copilot-cli-2026-07-16-v1-0-71-github-354824472-a089f622]]'
@@ -108,7 +108,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.71
 ## Nearby in Editor Experience
 
 - Earlier: 2026-07-14 · Claude Code · [[Changes/Claude Code/2026-07-14-2-editor-experience-changes-in-v2-1-208|2 Editor Experience changes in v2.1.208]]
-- Later: 2026-07-20 · Claude Code · [[Changes/Claude Code/2026-07-20-improved-the-ultrareview-diff-too-large-error-to-show-configured-limits-measured|Improved the /ultrareview diff-too-large error to show configured limits, measured…]]
+- Later: 2026-07-17 · Dify · [[Changes/Dify/2026-07-17-4-editor-experience-changes-in-1-16-0|4 Editor Experience changes in 1.16.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

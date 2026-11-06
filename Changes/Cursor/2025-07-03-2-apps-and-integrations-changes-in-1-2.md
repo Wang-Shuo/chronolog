@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b7bcd855fbc0f3e6b317a622d82fc60b7a536f62b7d47375dfee1b2a013d23db
+machine_hash: 69f3ef115aebf939268228841ca5b5a6140c10dfca953c6f1af529a8a95bd6ca
 product: cursor
 product_name: Cursor
 record:
@@ -43,10 +43,10 @@ record:
   title: 2 Apps and Integrations changes in 1.2
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-07-01-feat-add-support-to-remote-mcp-servers-for-custom-http-headers-by-aspiers-in-htt|feat:
-  add support to remote MCP servers for custom HTTP headers]]'
 - '[[Changes/Gemini CLI/2025-07-02-add-excludedtools-to-extensions-by-scidomino-in-https-github-com-google-gemini-g|Add
   excludedTools to extensions]]'
+- '[[Changes/Ollama/2025-07-02-add-nativemind-to-community-integrations-by-xukecheng-in-https-github-com-ollama|Add
+  NativeMind to Community Integrations]]'
 - '[[Changes/OpenHands/2025-07-02-disabled-jupyter-plugin-by-default-in-cli-runtime-by-li-boxuan-in-https-github-c|Disabled
   Jupyter plugin by default in CLI runtime]]'
 source_release: '[[Releases/Cursor/cursor-2025-07-03-1-2-https-cursor-com-changelog-1-2-27872f5d|cursor-2025-07-03-1-2-https-cursor-com-changelog-1-2-27872f5d]]'
@@ -93,7 +93,7 @@ Source: https://cursor.com/changelog/1-2
 ## Nearby in Apps and Integrations
 
 - Earlier: 2025-07-02 · OpenHands · [[Changes/OpenHands/2025-07-02-disabled-jupyter-plugin-by-default-in-cli-runtime-by-li-boxuan-in-https-github-c|Disabled Jupyter plugin by default in CLI runtime]]
-- Later: 2025-07-08 · Cline · [[Changes/Cline/2025-07-08-update-the-no-vscode-postmessage-eslint-rule-to-check-for-any-of-the-vscode-sdk|Update the no-vscode-postmessage eslint rule to check for any of the vscode SDK…]]
+- Later: 2025-07-07 · ElevenLabs · [[Changes/ElevenLabs/2025-07-07-conversation-enhancements|Conversation Enhancements]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 63e07ca7faeed45680a0e7bd11b1e01036acf3f36d5e46ab54565b99b5e12de6
+machine_hash: 827863084f707bf491a2473d7ce9fa5e0ee8d35d9f091f0dc559124e0346e297
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -54,10 +54,9 @@ record:
   title: You can learn more about how ChatGPT uses connected apps here
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-10-23-the-app-isn-t-signed-with-an-apple-developer-id-yet-so-macos-may-call-a-6f8043|The
-  app isn''t signed with an Apple Developer ID yet, so macOS may call a]]'
-- '[[Changes/Windsurf/2026-10-23-on-windows-wsl-distros-can-be-used-as-remote-agent-hosts-alongside-ssh-hosts-and|On
-  Windows, WSL distros can be used as remote agent hosts alongside SSH hosts…]]'
+- '[[Changes/ElevenLabs/2026-10-26-android-sdk|Android SDK]]'
+- '[[Changes/ElevenLabs/2026-10-26-2-mobile-and-desktop-changes-in-elevenlabs-updates-2026-10-26|2
+  Mobile and Desktop changes in ElevenLabs updates — 2026-10-26]]'
 - '[[Changes/Windsurf/2026-10-26-on-macos-banners-at-the-top-of-the-window-no-longer-interfere-with-the-window-co|On
   macOS, banners at the top of the window no longer interfere with the window controls]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-10-27-icloud-mail-and-calendar-plugins-in-chatgpt-216bf9bc|chatgpt-2026-10-27-icloud-mail-and-calendar-plugins-in-chatgpt-216bf9bc]]'

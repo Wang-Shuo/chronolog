@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9e0439075fee69e355d94e7c9715d641acf2be0acfecb5760c118c3d565d1d38
+machine_hash: f814a1514be2261e082ffcb6916aea896e2f48dec6ac65ed8df33eaa461602fb
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -93,7 +93,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.60
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-06-04 · Cursor · [[Changes/Cursor/2026-06-04-custom-tools-056918|Custom tools]]
-- Later: 2026-06-06 · Claude Code · [[Changes/Claude Code/2026-06-06-hardened-cross-session-messaging-messages-relayed-via-sendmessage-from-other-cla|Hardened cross-session messaging]]
+- Later: 2026-06-05 · Lovable · [[Changes/Lovable/2026-06-05-toggle-whois-privacy-after-purchase|Toggle WHOIS privacy after purchase]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

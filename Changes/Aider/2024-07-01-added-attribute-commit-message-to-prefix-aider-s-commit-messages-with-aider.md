@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 60dbaa9e6f1acf0567c183705289ae8a79cbbe2e784b82223dfc438a010de145
+machine_hash: c7550a2cd6add5a561b3dff9037102eaad2ff34fd5bc3e950add71629013dbb4
 product: aider
 product_name: Aider
 record:
@@ -44,10 +44,10 @@ record:
     "aider:"
   type: change
 related_changes:
-- '[[Changes/Aider/2024-06-20-commit-messages-are-no-longer-prefixed-with-aider-instead-the-git-author-and-com|Commit
-  messages are no longer prefixed with "aider:"]]'
 - '[[Changes/Aider/2024-06-24-2-developer-workflow-changes-in-v0-40-0|2 Developer
   Workflow changes in v0.40.0]]'
+- '[[Changes/Dify/2024-06-28-3-developer-workflow-changes-in-0-6-12|3 Developer Workflow
+  changes in 0.6.12]]'
 - '[[Changes/OpenHands/2024-06-29-4-developer-workflow-changes-in-0-7-0|4 Developer
   Workflow changes in 0.7.0]]'
 source_release: '[[Releases/Aider/aider-2024-07-01-v0-41-0-github-163414941-a6b791d1|aider-2024-07-01-v0-41-0-github-163414941-a6b791d1]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0fc83af5eae2213e82381c653a61ce834aa7d156f9751f2ae9bd07a370e5b9b9
+machine_hash: 8a77c6890277df7df839693079fcaed0cb8b15c69645990556b75819e2db70e7
 product: cline
 product_name: Cline
 record:
@@ -40,12 +40,12 @@ record:
   title: Add tooltips to bottom row menu
   type: change
 related_changes:
-- '[[Changes/Cline/2025-04-09-add-cmd-keyboard-shortcut-to-add-selected-text-to-cline|Add
-  CMD+'' keyboard shortcut to add selected text to Cline]]'
 - '[[Changes/Cursor/2025-04-15-chat-history-has-moved-into-the-command-palette-you-can-access-it-from-the-show|More
   accessible history]]'
 - '[[Changes/Cline/2025-04-19-add-new-slash-command-menu-letting-you-type-to-do-quick-actions-like-creating-ne|Add
   new slash command menu letting you type…]]'
+- '[[Changes/Dify/2025-04-23-2-interface-experience-changes-in-1-3-0|2 Interface Experience
+  changes in 1.3.0]]'
 source_release: '[[Releases/Cline/cline-2025-04-25-v3-13-3-github-214884660-e3a92d9b|cline-2025-04-25-v3-13-3-github-214884660-e3a92d9b]]'
 source_type: github_releases
 theme: interface-experience
@@ -76,7 +76,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2025-04-19 · Cline · [[Changes/Cline/2025-04-19-add-new-slash-command-menu-letting-you-type-to-do-quick-actions-like-creating-ne|Add new slash command menu letting you type…]]
+- Earlier: 2025-04-23 · Dify · [[Changes/Dify/2025-04-23-2-interface-experience-changes-in-1-3-0|2 Interface Experience changes in 1.3.0]]
 - Later: 2025-05-03 · Cline · [[Changes/Cline/2025-05-03-add-support-for-latex-rendering|Add support for LaTeX rendering]]
 <!-- chronolog:end -->
 

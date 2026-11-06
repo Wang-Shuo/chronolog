@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 790a4d37713575691d2304d091030a9335de58b3ab6f9b88ade2edb41cb66cd8
+machine_hash: 6bf8c92452b7abc0d6bcef808943da1072c53590a9ecad41f8ea8f6d2ce44962
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -45,9 +45,8 @@ record:
   title: 3 Agent Mode changes in v0.1.13
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-07-03-2-agent-mode-changes-in-1-2|2 Agent Mode changes in
-  1.2]]'
-- '[[Changes/Cursor/2025-07-03-background-agent-improvements|Background Agent improvements]]'
+- '[[Changes/ElevenLabs/2025-07-14-agents-platform|Agents Platform]]'
+- '[[Changes/ElevenLabs/2025-07-14-agents-platform-d9d1f0|Agents Platform]]'
 - '[[Changes/Codex CLI/2025-07-19-https-github-com-openai-codex-pull-1589-changes-ctrl-d-so-it-only-exits-the-tui|(source
   link) changes ctrl-d so it only exits the TUI…]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-07-19-v0-1-13-github-233708271-319aa8dd|gemini-cli-2025-07-19-v0-1-13-github-233708271-319aa8dd]]'
@@ -95,7 +94,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.1.13
 ## Nearby in Agent Mode
 
 - Earlier: 2025-07-19 · Codex CLI · [[Changes/Codex CLI/2025-07-19-https-github-com-openai-codex-pull-1589-changes-ctrl-d-so-it-only-exits-the-tui|(source link) changes ctrl-d so it only exits the TUI…]]
-- Later: 2025-07-24 · OpenHands · [[Changes/OpenHands/2025-07-24-2-agent-mode-changes-in-0-50-0|2 Agent Mode changes in 0.50.0]]
+- Later: 2025-07-22 · ElevenLabs · [[Changes/ElevenLabs/2025-07-22-agents-platform|Agents Platform]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

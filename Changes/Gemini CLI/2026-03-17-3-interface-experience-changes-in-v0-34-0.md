@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 652b987cf685c879cd19a88aa6c3d7ac0a14a52c99d6857f12c801dfa7f223cd
+machine_hash: 4ee5831c5485c325c59321281610c97e0252f9b71844864890520a16f537b8ce
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -46,12 +46,12 @@ record:
   title: 3 Interface Experience changes in v0.34.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-16-show-friendlier-error-messages-and-provide-keyboard-shortcut-to-open-event-links|Show
-  friendlier error messages and provide keyboard shortcut to open event links…]]'
 - '[[Changes/Claude Code/2026-03-17-copy-now-accepts-an-optional-index-copy-n-copies-the-nth-latest-assistant-respon|/copy
   now accepts an optional index: /copy N copies the Nth-latest assistant response]]'
 - '[[Changes/Claude Code/2026-03-17-2-interface-experience-changes-in-v2-1-78|2 Interface
   Experience changes in v2.1.78]]'
+- '[[Changes/Dify/2026-03-17-7-interface-experience-changes-in-1-13-1|7 Interface
+  Experience changes in 1.13.1]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-03-17-v0-34-0-github-298158994-68230a41|gemini-cli-2026-03-17-v0-34-0-github-298158994-68230a41]]'
 source_type: github_releases
 theme: interface-experience
@@ -99,7 +99,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.34.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-03-17 · Claude Code · [[Changes/Claude Code/2026-03-17-2-interface-experience-changes-in-v2-1-78|2 Interface Experience changes in v2.1.78]]
+- Earlier: 2026-03-17 · Dify · [[Changes/Dify/2026-03-17-7-interface-experience-changes-in-1-13-1|7 Interface Experience changes in 1.13.1]]
 - Later: 2026-03-18 · Claude Code · [[Changes/Claude Code/2026-03-18-added-show-turn-duration-toggle-to-the-config-menu|Added "Show turn duration" toggle to the /config menu]]
 <!-- chronolog:end -->
 

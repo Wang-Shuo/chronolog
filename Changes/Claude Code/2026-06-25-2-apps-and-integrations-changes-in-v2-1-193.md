@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 98feb1e924ea87126404471c6d1d93fbc18848b4265d61d67efad0b8675c9052
+machine_hash: d66f29fdffba6c4d3fdb2832a022a2d814809f45fd88efb98a456a95cc0ac812
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,10 @@ record:
   title: 2 Apps and Integrations changes in v2.1.193
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-23-8-apps-and-integrations-changes-in-v1-0-64|8
-  Apps and Integrations changes in v1.0.64]]'
-- '[[Changes/Claude Code/2026-06-24-2-apps-and-integrations-changes-in-v2-1-191|2
-  Apps and Integrations changes in v2.1.191]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-24-2-apps-and-integrations-changes-in-v1-0-65|2
   Apps and Integrations changes in v1.0.65]]'
+- '[[Changes/Lovable/2026-06-24-lovable-mcp-updates|Lovable MCP updates]]'
+- '[[Changes/Lovable/2026-06-24-app-connector-calendly|App connector: Calendly]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-25-v2-1-193-github-344922230-0655000d|claude-code-2026-06-25-v2-1-193-github-344922230-0655000d]]'
 source_type: github_releases
 theme: apps-integrations
@@ -87,7 +85,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.193
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-06-24 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-24-2-apps-and-integrations-changes-in-v1-0-65|2 Apps and Integrations changes in v1.0.65]]
+- Earlier: 2026-06-24 · Lovable · [[Changes/Lovable/2026-06-24-app-connector-calendly|App connector: Calendly]]
 - Later: 2026-06-25 · Codex CLI · [[Changes/Codex CLI/2026-06-25-9-apps-and-integrations-changes-in-rust-v0-142-2|9 Apps and Integrations changes in rust-v0.142.2]]
 <!-- chronolog:end -->
 

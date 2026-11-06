@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 057825298bad00a6b33bddb2cc67fb169a3332802547afbaab3295edbff26385
+machine_hash: d207d0d0bde881f39bca7828aa843e109a6e54c6752d5a69ac8f79a7234caa24
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,10 @@ record:
   title: 3 Developer Workflow changes in v2.1.72
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-07-2-developer-workflow-changes-in-v2-1-71|2 Developer
-  Workflow changes in v2.1.71]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-09-5-developer-workflow-changes-in-v1-0-3|5
   Developer Workflow changes in v1.0.3]]'
+- '[[Changes/Open WebUI/2026-03-09-2-developer-workflow-changes-in-v0-8-10|2 Developer
+  Workflow changes in v0.8.10]]'
 - '[[Changes/Windsurf/2026-03-09-cascade|Cascade]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-10-v2-1-72-github-294951528-18ee0f48|claude-code-2026-03-10-v2-1-72-github-294951528-18ee0f48]]'
 source_type: github_releases

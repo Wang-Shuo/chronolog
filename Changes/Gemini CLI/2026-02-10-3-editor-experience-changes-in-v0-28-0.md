@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: bc22c085376b87d597c6dd0f0ec6d750b4ba044ced1709001abe8e192bbc5a08
+machine_hash: 1a163642dc744988a624c683baa0f7e0d47c361fbd7dc03f834e3ccb5ccc65ab
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -45,12 +45,12 @@ record:
   title: 3 Editor Experience changes in v0.28.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-02-04-added-thread-compact-to-the-v2-app-server-api-as-an-async-trigger-rpc-so-clients|Added
-  thread/compact to the v2 app-server API as an async trigger RPC, so clients…]]'
-- '[[Changes/Gemini CLI/2026-02-04-4-editor-experience-changes-in-v0-27-0|4 Editor
-  Experience changes in v0.27.0]]'
 - '[[Changes/Codex CLI/2026-02-05-steer-mode-is-now-stable-and-enabled-by-default-so-enter-sends-immediately-durin|Steer
   mode is now stable and enabled by default, so Enter sends immediately during…]]'
+- '[[Changes/v0/2026-02-05-improved-console-icons-and-titles-in-the-editor|Improved
+  console icons and titles in the editor]]'
+- '[[Changes/v0/2026-02-09-synced-project-and-chat-names-to-editor-explorer-header|Synced
+  project and chat names to editor explorer header]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-02-10-v0-28-0-github-285023966-1bd56186|gemini-cli-2026-02-10-v0-28-0-github-285023966-1bd56186]]'
 source_type: github_releases
 theme: editor-experience
@@ -95,8 +95,8 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.28.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-02-05 · Codex CLI · [[Changes/Codex CLI/2026-02-05-steer-mode-is-now-stable-and-enabled-by-default-so-enter-sends-immediately-durin|Steer mode is now stable and enabled by default, so Enter sends immediately during…]]
-- Later: 2026-02-11 · Codex CLI · [[Changes/Codex CLI/2026-02-11-2-editor-experience-changes-in-rust-v0-99-0|2 Editor Experience changes in rust-v0.99.0]]
+- Earlier: 2026-02-09 · v0 · [[Changes/v0/2026-02-09-synced-project-and-chat-names-to-editor-explorer-header|Synced project and chat names to editor explorer header]]
+- Later: 2026-02-10 · v0 · [[Changes/v0/2026-02-10-improved-file-diff-view-to-show-lines-changed|Improved file diff view to show lines changed]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

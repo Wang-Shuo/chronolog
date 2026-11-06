@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 2bf38b3cc606ccbaf861c350a033ae5c1de296f890d3791261da082cfc3d4f85
+machine_hash: 8fdda522e3cc594055ea779590640af5f4d33e8481c951d3cf20b886d177337c
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -58,11 +58,12 @@ record:
   title: 'Text selection improvements: you can now select text across horizontal rulers'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-02-14-improved-android-conversation-parsing-performance|Improved
-  Android conversation parsing performance]]'
-- '[[Changes/ChatGPT/2025-02-14-ios-performance-fixes|iOS performance fixes]]'
 - '[[Changes/Cursor/2025-02-19-2-reliability-and-performance-changes-in-0-46-x|2 Reliability
   and Performance changes in 0.46.x]]'
+- '[[Changes/Ollama/2025-02-20-performance-on-certain-intel-xeon-processors-should-now-be-restored|Performance
+  on certain Intel Xeon processors should now be restored]]'
+- '[[Changes/Open WebUI/2025-02-20-general-backend-frontend-stability-enhancements-extensive-refactoring-improves-r|⚙️
+  General Backend & Frontend Stability Enhancements]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-02-21-1-6b86b273|chatgpt-2025-02-21-1-6b86b273]]'
 source_type: chatgpt_changelog
 theme: reliability-performance
@@ -91,8 +92,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-02-19 · Cursor · [[Changes/Cursor/2025-02-19-2-reliability-and-performance-changes-in-0-46-x|2 Reliability and Performance changes in 0.46.x]]
-- Later: 2025-03-11 · Cursor · [[Changes/Cursor/2025-03-11-5-reliability-and-performance-changes-in-0-47-x|5 Reliability and Performance changes in 0.47.x]]
+- Earlier: 2025-02-20 · Open WebUI · [[Changes/Open WebUI/2025-02-20-general-backend-frontend-stability-enhancements-extensive-refactoring-improves-r|⚙️ General Backend & Frontend Stability Enhancements]]
+- Later: 2025-02-25 · ElevenLabs · [[Changes/ElevenLabs/2025-02-25-text-to-speech|Text to Speech]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 544419606ca05d113f4e79ca88491c18f5b4e8978cdd9833383bc74bf2d195e8
+machine_hash: 0cc7684032f3df2a0e78e356eb47e4f82e10a9fea8f89a12dfdbe146d6dd609a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -51,12 +51,12 @@ record:
   title: Choose Browse with Bing in the selector under GPT-4
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2023-08-03-we-re-rolling-out-a-bunch-of-small-updates-to-improve-the-chatgpt-experience-shi|Updates
-  to ChatGPT]]'
-- '[[Changes/Aider/2023-08-08-defend-against-gpt-3-5-or-non-openai-models-suggesting-filenames-surrounded-by-a|Defend
-  against GPT-3.5 or non-OpenAI models suggesting filenames surrounded by asterisks]]'
-- '[[Changes/Aider/2023-08-11-2-model-support-changes-in-v0-12-0|2 Model Support changes
-  in v0.12.0]]'
+- '[[Changes/Gemini/2023-09-19-introducing-bard-s-most-capable-model-yet|Introducing
+  Bard’s most capable model yet]]'
+- '[[Changes/Gemini/2023-09-19-collaborate-with-bard-on-your-content-in-gmail-docs-drive|Collaborate
+  with Bard on your content in Gmail, Docs & Drive]]'
+- '[[Changes/Ollama/2023-09-22-2-model-support-changes-in-v0-0-20|2 Model Support
+  changes in v0.0.20]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2023-09-27-browsing-is-rolling-back-out-to-plus-users-73e98403|chatgpt-2023-09-27-browsing-is-rolling-back-out-to-plus-users-73e98403]]'
 source_type: chatgpt_changelog
 theme: model-support
@@ -85,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2023-08-11 · Aider · [[Changes/Aider/2023-08-11-2-model-support-changes-in-v0-12-0|2 Model Support changes in v0.12.0]]
+- Earlier: 2023-09-22 · Ollama · [[Changes/Ollama/2023-09-22-2-model-support-changes-in-v0-0-20|2 Model Support changes in v0.0.20]]
 - Later: 2023-09-30 · Aider · [[Changes/Aider/2023-09-30-show-models-supported-by-api-key-if-requested-model-isn-t-available|Show models supported by api/key if requested model isn't available]]
 <!-- chronolog:end -->
 

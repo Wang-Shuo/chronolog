@@ -5,20 +5,20 @@ description: 'ChatGPT · 2025-12-16 · Image Generation: We’ve introduced a ne
   improved version of ChatGPT Images, powered by our best image generation model yet.
   With…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2024-08-08-we-re-rolling-out-the-ability-for-chatgpt-free-users-to-create-up-to-two-images-2c505c|DALL·E
-    3 for ChatGPT Free users]]'
+  first_in_tracked: "[[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|\U0001F3A8
+    DALL-E Integration]]"
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 495
+  lag_days: 646
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 4556580e10282f00ab23272d567af0bbf7162fb533615fa6d6fe764ce1c23d2a
+machine_hash: 88d13c7cf34f4c3da2388fbdc97d8d0bc49fee703447d739c93c545d57e891b3
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -72,12 +72,11 @@ record:
   title: ChatGPT Images on Web and Mobile (iOS & Android)
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-10-14-more-messages-larger-file-uploads-and-expanded-image-generation|More
-  messages, larger file uploads, and expanded image generation]]'
-- '[[Changes/ChatGPT/2025-10-28-more-messages-larger-file-uploads-and-expanded-image-generation|More
-  messages, larger file uploads, and expanded image generation]]'
-- '[[Changes/ChatGPT/2025-10-30-more-messages-larger-file-uploads-and-expanded-image-generation|More
-  messages, larger file uploads, and expanded image generation]]'
+- '[[Changes/Lovable/2025-11-26-ai-powered-image-generation-in-visual-edits|AI-powered
+  image generation in Visual edits]]'
+- '[[Changes/Lovable/2025-11-26-all-new-visual-edits|All new Visual edits]]'
+- "[[Changes/Open WebUI/2025-12-02-image-generation-in-temporary-chats-was-fixed-by-correctly-handling-local-chat-s|\U0001F3A8
+  Image generation in temporary chats was fixed by correctly handling local chat…]]"
 source_release: '[[Releases/ChatGPT/chatgpt-2025-12-16-chatgpt-images-on-web-and-mobile-ios-android-bd6b2208|chatgpt-2025-12-16-chatgpt-images-on-web-and-mobile-ios-android-bd6b2208]]'
 source_type: chatgpt_changelog
 theme: image-generation
@@ -104,14 +103,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Image Generation
 
-- Earlier: 2025-10-30 · ChatGPT · [[Changes/ChatGPT/2025-10-30-more-messages-larger-file-uploads-and-expanded-image-generation|More messages, larger file uploads, and expanded image generation]]
-- Later: 2026-01-22 · Cursor · [[Changes/Cursor/2026-01-22-image-generation|Image generation]]
+- Earlier: 2025-12-02 · Open WebUI · [[Changes/Open WebUI/2025-12-02-image-generation-in-temporary-chats-was-fixed-by-correctly-handling-local-chat-s|🎨 Image generation in temporary chats was fixed by correctly handling local chat…]]
+- Later: 2025-12-21 · Open WebUI · [[Changes/Open WebUI/2025-12-21-4-image-generation-changes-in-v0-6-42|4 Image Generation changes in v0.6.42]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-08-08 · ChatGPT · [[Changes/ChatGPT/2024-08-08-we-re-rolling-out-the-ability-for-chatgpt-free-users-to-create-up-to-two-images-2c505c|DALL·E 3 for ChatGPT Free users]]
+- Earliest same-theme entry in the tracked set: 2024-03-10 · Open WebUI · [[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|🎨 DALL-E Integration]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

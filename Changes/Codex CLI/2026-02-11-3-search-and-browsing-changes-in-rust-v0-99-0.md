@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: bf04ab74e2664c8df03f1c91f7154f9ec6dc0e111ccf81b78bd6475a20c93f0d
+machine_hash: 27cef3e073c2ee136bd6fd55027916e4aacfe99dff489c3f47a3e6b32db8944b
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -45,10 +45,10 @@ record:
   title: 3 Search and Browsing changes in rust-v0.99.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-01-27-5-search-and-browsing-changes-in-rust-v0-92-0|5
-  Search and Browsing changes in rust-v0.92.0]]'
 - '[[Changes/Codex CLI/2026-01-31-3-search-and-browsing-changes-in-rust-v0-93-0|3
   Search and Browsing changes in rust-v0.93.0]]'
+- '[[Changes/Ollama/2026-02-03-sub-agent-support-for-ollama-launch-for-planning-deep-research-and-similar-tasks|Sub-agent
+  support for ollama launch for planning, deep research, and similar tasks]]'
 - '[[Changes/Codex CLI/2026-02-04-2-search-and-browsing-changes-in-rust-v0-95-0|2
   Search and Browsing changes in rust-v0.95.0]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-02-11-rust-v0-99-0-github-285424682-f7f48016|codex-cli-2026-02-11-rust-v0-99-0-github-285424682-f7f48016]]'
@@ -100,7 +100,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.99.0
 ## Nearby in Search and Browsing
 
 - Earlier: 2026-02-04 · Codex CLI · [[Changes/Codex CLI/2026-02-04-2-search-and-browsing-changes-in-rust-v0-95-0|2 Search and Browsing changes in rust-v0.95.0]]
-- Later: 2026-02-17 · Codex CLI · [[Changes/Codex CLI/2026-02-17-11224-chore-clarify-web-search-deprecation-notices-and-consolidate-tests-sayan-o|♯11224 chore: clarify web_search deprecation notices and consolidate tests @sayan-oai]]
+- Later: 2026-02-12 · Open WebUI · [[Changes/Open WebUI/2026-02-12-5-search-and-browsing-changes-in-v0-8-0|5 Search and Browsing changes in v0.8.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

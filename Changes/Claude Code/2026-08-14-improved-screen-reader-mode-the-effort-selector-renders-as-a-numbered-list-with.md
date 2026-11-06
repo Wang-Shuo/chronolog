@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: accessibility-localization
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: dd548122d9e450bf5138c38e460a994fc6505b84de1dd770e915141301045e9e
+machine_hash: d48e8be56a0d7c41020570d9490e1459bc57a9c6bc08835d287d1bc8f865b862
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,12 +43,12 @@ record:
   title: Improved screen reader mode
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-03-improved-screen-reader-output-decorative-glyphs-are-now-hidden-transcript-symbol|Improved
-  screen-reader output]]'
-- '[[Changes/Claude Code/2026-07-14-added-screen-reader-mode-opt-in-plain-text-rendering-for-screen-reader-users-run|Added
-  screen reader mode: opt-in plain-text rendering for screen reader users]]'
+- '[[Changes/Dify/2026-07-17-chore-improve-workflow-generator-accessibility-and-api-contracts-by-crazywoola-i|chore:
+  Improve workflow generator accessibility and API contracts]]'
 - '[[Changes/Claude Code/2026-07-22-added-screen-reader-announcements-of-deleted-text-for-word-and-line-deletions-op|Added
   screen-reader announcements of deleted text for word and line deletions…]]'
+- '[[Changes/Dify/2026-07-28-2-accessibility-and-localization-changes-in-1-16-1|2
+  Accessibility and Localization changes in 1.16.1]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-14-v2-1-233-github-370762090-de6823a9|claude-code-2026-08-14-v2-1-233-github-370762090-de6823a9]]'
 source_type: github_releases
 theme: accessibility-localization
@@ -85,8 +85,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Accessibility and Localization
 
-- Earlier: 2026-07-22 · Claude Code · [[Changes/Claude Code/2026-07-22-added-screen-reader-announcements-of-deleted-text-for-word-and-line-deletions-op|Added screen-reader announcements of deleted text for word and line deletions…]]
-- Later: 2026-09-10 · Claude Code · [[Changes/Claude Code/2026-09-10-vscode-added-a-claude-code-focus-last-message-command-that-moves-keyboard-focus|VSCode Added a "Claude Code]]
+- Earlier: 2026-07-28 · Dify · [[Changes/Dify/2026-07-28-2-accessibility-and-localization-changes-in-1-16-1|2 Accessibility and Localization changes in 1.16.1]]
+- Later: 2026-08-25 · Dify · [[Changes/Dify/2026-08-25-3-accessibility-and-localization-changes-in-1-17-0|3 Accessibility and Localization changes in 1.17.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

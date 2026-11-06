@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: be1840b19da3597f3aa438244b9854a14af7b76c2fd6fdc61989cf7b403572d4
+machine_hash: a5581e2b07d94a1a49e4943a0ac626e65fe0f61dbc780b55b6f1d92b46149410
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -103,7 +103,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.1.17
 ## Nearby in Safety and Privacy
 
 - Earlier: 2025-08-02 · Gemini CLI · [[Changes/Gemini CLI/2025-08-02-4-safety-and-privacy-changes-in-v0-1-16|4 Safety and Privacy changes in v0.1.16]]
-- Later: 2025-08-06 · Gemini CLI · [[Changes/Gemini CLI/2025-08-06-4-safety-and-privacy-changes-in-v0-1-18|4 Safety and Privacy changes in v0.1.18]]
+- Later: 2025-08-06 · Claude · [[Changes/Claude/2025-08-06-claude-code-security-reviews|Claude Code Security Reviews]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

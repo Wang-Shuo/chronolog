@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3a843f09a14a6a931f1836b403376ae1913c7c5a060fb18cddd6335393012235
+machine_hash: ebf9cc14f06da1ca38fdae0af4fe11de6e0247cc55d9fd4d2c0771da05006114
 product: cursor
 product_name: Cursor
 record:
@@ -40,10 +40,10 @@ record:
   title: Better Remote Support
   type: change
 related_changes:
-- '[[Changes/Aider/2023-10-20-3-developer-workflow-changes-in-v0-15-0|3 Developer
-  Workflow changes in v0.15.0]]'
-- '[[Changes/Cursor/2023-10-20-also-there-s-an-experimental-bash-mode-enable-it-in-the-settings-and-let-the-cha|Also,
-  there''s an experimental bash mode]]'
+- '[[Changes/Dify/2023-12-19-2-developer-workflow-changes-in-0-3-34|2 Developer Workflow
+  changes in 0.3.34]]'
+- '[[Changes/Ollama/2024-01-03-added-shortcuts-help-command-to-ollama-run-to-list-keyboard-shortcuts|Added
+  /? shortcuts help command to ollama run to list keyboard shortcuts]]'
 - '[[Changes/Aider/2024-01-04-improved-unicode-encoding-for-run-command-output-by-ctoth|Improved
   unicode encoding for /run command output, by @ctoth]]'
 source_release: '[[Releases/Cursor/cursor-2024-01-06-0-21-6-nightly-https-cursor-com-changelog-0-21-6-nightly-197640be|cursor-2024-01-06-0-21-6-nightly-https-cursor-com-changelog-0-21-6-nightly-197640be]]'

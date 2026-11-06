@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 07bcdb4cc61d30cadb3eb6f23005b9121700d82a24777653120e8c0f212fc5fd
+machine_hash: 8d90b9a1553cd7e552ab193519d6b9fbf44aba82fb08187fbc504efe45300337
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,12 +42,12 @@ record:
   title: '[VSCode] Added tab icon badges showing pending permissions (blue) and unread…'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-12-18-7931-chore-persist-comments-in-edit|♯7931 chore:
-  persist comments in edit]]'
 - '[[Changes/GitHub Copilot CLI/2025-12-18-diff-display-uses-your-configured-git-pager-delta-diff-so-fancy|Diff
   display uses your configured git pager (delta, diff-so-fancy)]]'
 - '[[Changes/GitHub Copilot CLI/2025-12-18-update-skills-help-text-to-reference-correct-copilot-skills-directory|Update
   skills help text to reference correct ~/.copilot/skills/ directory]]'
+- '[[Changes/v0/2025-12-18-you-can-now-use-keyboard-shortcuts-in-v0-s-design-mode|Keyboard
+  shortcuts in Design Mode]]'
 source_release: '[[Releases/Claude Code/claude-code-2025-12-19-v2-0-73-github-271620087-160adbe9|claude-code-2025-12-19-v2-0-73-github-271620087-160adbe9]]'
 source_type: github_releases
 theme: editor-experience
@@ -79,8 +79,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2025-12-18 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-12-18-update-skills-help-text-to-reference-correct-copilot-skills-directory|Update skills help text to reference correct ~/.copilot/skills/ directory]]
-- Later: 2025-12-22 · Cline · [[Changes/Cline/2025-12-22-duplicate-error-messages-during-streaming-for-diff-edit-tool-when-parallel-tool|Duplicate error messages during streaming for Diff Edit tool when Parallel Tool…]]
+- Earlier: 2025-12-18 · v0 · [[Changes/v0/2025-12-18-you-can-now-use-keyboard-shortcuts-in-v0-s-design-mode|Keyboard shortcuts in Design Mode]]
+- Later: 2025-12-21 · Open WebUI · [[Changes/Open WebUI/2025-12-21-3-editor-experience-changes-in-v0-6-42|3 Editor Experience changes in v0.6.42]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

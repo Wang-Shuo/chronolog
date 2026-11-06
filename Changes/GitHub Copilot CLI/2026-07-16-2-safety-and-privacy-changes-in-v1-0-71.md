@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e5585d42c2241d22549a4c9e21d6ec027c4c725812075bf33eaab1f96d4f0bd8
+machine_hash: 2d77e3140058d46dd77a17a98ee35765e2b31ecef6aa37de7e6b6d9e39e5cf2f
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,12 +44,12 @@ record:
   title: 2 Safety and Privacy changes in v1.0.71
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-14-3-safety-and-privacy-changes-in-v2-1-210|3 Safety
-  and Privacy changes in v2.1.210]]'
 - '[[Changes/Claude Code/2026-07-14-fixed-multi-second-per-turn-slowdowns-in-sessions-with-many-permission-deny-ask|Fixed
   multi-second per-turn slowdowns in sessions with many permission deny/ask rules]]'
 - '[[Changes/Claude Code/2026-07-15-2-safety-and-privacy-changes-in-v2-1-211|2 Safety
   and Privacy changes in v2.1.211]]'
+- '[[Changes/Lovable/2026-07-15-automatically-delete-abandoned-projects|Automatically
+  delete abandoned projects]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-07-16-v1-0-71-github-354824472-a089f622|github-copilot-cli-2026-07-16-v1-0-71-github-354824472-a089f622]]'
 source_type: github_releases
 theme: safety-privacy
@@ -96,8 +96,8 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.71
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-07-15 · Claude Code · [[Changes/Claude Code/2026-07-15-2-safety-and-privacy-changes-in-v2-1-211|2 Safety and Privacy changes in v2.1.211]]
-- Later: 2026-07-17 · Claude Code · [[Changes/Claude Code/2026-07-17-3-safety-and-privacy-changes-in-v2-1-212|3 Safety and Privacy changes in v2.1.212]]
+- Earlier: 2026-07-15 · Lovable · [[Changes/Lovable/2026-07-15-automatically-delete-abandoned-projects|Automatically delete abandoned projects]]
+- Later: 2026-07-16 · Lovable · [[Changes/Lovable/2026-07-16-choose-which-wiz-policies-run-during-security-scans|Choose which Wiz policies run during security scans]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

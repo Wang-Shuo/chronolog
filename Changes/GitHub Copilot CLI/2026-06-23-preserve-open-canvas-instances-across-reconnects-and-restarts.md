@@ -4,20 +4,20 @@ date: '2026-06-23'
 description: 'GitHub Copilot CLI · 2026-06-23 · Files and Data: Preserve open canvas
   instances across reconnects and restarts'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code
-    interpreter is now rolling out in beta on web]]'
+  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
+    Files and Data changes in 0.2.2]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1083
+  lag_days: 1125
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 36754e23a4d07a372c04327f70dc311413f22ddb8b4713c3f6bdefbfc80eab2d
+machine_hash: 53702dbcfc110c19f074354cd5999501daa668cdcad0d7e44e524b6a5e28b919
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -41,8 +41,8 @@ record:
   title: Preserve open canvas instances across reconnects and restarts
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-06-08-full-screen-writing-blocks-for-longer-form-work-writing-blocks-now-cover-long-fo|Full-screen
-  writing blocks for longer-form work]]'
+- '[[Changes/Replit/2026-06-12-add-visual-references-when-you-generate-media-on-canvas|Add
+  visual references when you generate media on Canvas]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-16-recover-from-unreadable-native-document-attachments-by-falling-back-to-file-path|Recover
   from unreadable native document attachments by falling back to file-path uploads]]'
 - '[[Changes/Codex CLI/2026-06-22-29086-document-raw-response-item-compatibility-jif-oai|♯29086
@@ -92,13 +92,13 @@ type: change
 ## Nearby in Files and Data
 
 - Earlier: 2026-06-22 · Codex CLI · [[Changes/Codex CLI/2026-06-22-29086-document-raw-response-item-compatibility-jif-oai|♯29086 Document raw response item compatibility @jif-oai]]
-- Later: 2026-06-26 · ChatGPT · [[Changes/ChatGPT/2026-06-26-the-personal-finance-experience-in-chatgpt-is-rolling-out-to-plus-users-in-the-u|Personal finance in ChatGPT expands to Plus users and Android]]
+- Later: 2026-06-25 · Dify · [[Changes/Dify/2026-06-25-6-files-and-data-changes-in-1-15-0|6 Files and Data changes in 1.15.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-06 · ChatGPT · [[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code interpreter is now rolling out in beta on web]]
+- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

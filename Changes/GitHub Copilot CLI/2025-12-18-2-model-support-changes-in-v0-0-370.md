@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a77d954eeb0ebbc04405f0b309363adda2ad8aeb5f3ddbd373e78b59d12224f8
+machine_hash: 0c3830520d3b2dfe253efd575aa8ac8f7046cdb4848e3fd03103ab10ac95e122
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,8 +43,8 @@ record:
   title: 2 Model Support changes in v0.0.370
   type: change
 related_changes:
-- '[[Changes/Cline/2025-12-17-2-model-support-changes-in-v3-45-0|2 Model Support changes
-  in v3.45.0]]'
+- '[[Changes/Gemini/2025-12-17-introducing-gemini-3-flash-a-major-upgrade-to-your-everyday-ai|Introducing
+  Gemini 3 Flash, a major upgrade to your everyday AI]]'
 - '[[Changes/Codex CLI/2025-12-18-6-model-support-changes-in-rust-v0-74-0|6 Model
   Support changes in rust-v0.74.0]]'
 - '[[Changes/Codex CLI/2025-12-18-introducing-gpt-5-2-codex-our-latest-frontier-model-with-improvements-across-kno|Introducing
@@ -87,7 +87,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v0.0.370
 ## Nearby in Model Support
 
 - Earlier: 2025-12-18 · Codex CLI · [[Changes/Codex CLI/2025-12-18-introducing-gpt-5-2-codex-our-latest-frontier-model-with-improvements-across-kno|Introducing gpt-5.2-codex our latest frontier model with improvements across…]]
-- Later: 2025-12-19 · Codex CLI · [[Changes/Codex CLI/2025-12-19-2-model-support-changes-in-rust-v0-76-0|2 Model Support changes in rust-v0.76.0]]
+- Later: 2025-12-18 · Ollama · [[Changes/Ollama/2025-12-18-2-model-support-changes-in-v0-13-5|2 Model Support changes in v0.13.5]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

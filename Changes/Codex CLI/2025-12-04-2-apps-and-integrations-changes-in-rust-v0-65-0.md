@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9e4085a63a5c6dcce165befa38fca74caefb27143fbbc68d64133a190142079a
+machine_hash: 716737aa5d6b8a4ac8b605095efba329124578e57a2487990bf3818d76b3a5d3
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,10 +43,9 @@ record:
   title: 2 Apps and Integrations changes in rust-v0.65.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-12-02-3-apps-and-integrations-changes-in-rust-v0-64-0|3
-  Apps and Integrations changes in rust-v0.64.0]]'
-- '[[Changes/Gemini CLI/2025-12-02-9-apps-and-integrations-changes-in-v0-19-0|9 Apps
-  and Integrations changes in v0.19.0]]'
+- '[[Changes/Open WebUI/2025-12-02-2-apps-and-integrations-changes-in-v0-6-41|2 Apps
+  and Integrations changes in v0.6.41]]'
+- '[[Changes/v0/2025-12-03-you-can-now-bring-your-own-mcps-to-v0|Bring your own MCPs]]'
 - '[[Changes/Cline/2025-12-04-added-subpages-and-content-to-hooks-by-jl-codes-in-https-github-com-cline-cline|added
   subpages and content to hooks]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-12-04-rust-v0-65-0-github-267537191-959c7b4d|codex-cli-2025-12-04-rust-v0-65-0-github-267537191-959c7b4d]]'
@@ -88,7 +87,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.65.0
 ## Nearby in Apps and Integrations
 
 - Earlier: 2025-12-04 · Cline · [[Changes/Cline/2025-12-04-added-subpages-and-content-to-hooks-by-jl-codes-in-https-github-com-cline-cline|added subpages and content to hooks]]
-- Later: 2025-12-09 · Codex CLI · [[Changes/Codex CLI/2025-12-09-3-apps-and-integrations-changes-in-rust-v0-66-0|3 Apps and Integrations changes in rust-v0.66.0]]
+- Later: 2025-12-08 · ElevenLabs · [[Changes/ElevenLabs/2025-12-08-sdk-releases|SDK Releases]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 34e478e60840ce272f39be76fa65e7201f9a66b43d688ff8cbc923c4d1f9eaa5
+machine_hash: 7082cf248bf200ed2ad6c2fba1fa3877058ae38c633616b0e1c2ee171b2f4399
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -91,7 +91,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.165.0
 ## Nearby in Context Window
 
 - Earlier: 2026-10-27 · Claude Code · [[Changes/Claude Code/2026-10-27-changed-a-subagent-s-autocompactwindow-to-lower-the-window-set-by-claude-code-au|Changed a subagent's autoCompactWindow to lower the window set…]]
-- Later: 2026-10-29 · Codex CLI · [[Changes/Codex CLI/2026-10-29-13-context-window-changes-in-rust-v0-166-0|13 Context Window changes in rust-v0.166.0]]
+- Later: 2026-10-27 · Ollama · [[Changes/Ollama/2026-10-27-lfm3-https-ollama-com-library-lfm3-a-1-7b-text-model-with-a-256k-token-context-w|lfm3((source link) a 1.7B text model with a 256K-token context…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3cbc60c0fb69eb568e426a9873a23cce2df64cf6fa5b12b0a40737b838f86e71
+machine_hash: 79f1423b4fe586a86d7ec2f6f9ead1d331c262a5e8310147089d62f5138d88eb
 product: aider
 product_name: Aider
 record:
@@ -50,10 +50,10 @@ record:
   title: 5 Model Support changes in v0.85.0
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-06-20-deprecation-warnings-in-cli-and-during-llm-api-calls-by-xingyaoww-in-https-githu|Deprecation
-  Warnings in CLI and during LLM API calls by @xingyaoww…]]'
 - '[[Changes/OpenHands/2025-06-24-2-model-support-changes-in-0-46-0|2 Model Support
   changes in 0.46.0]]'
+- '[[Changes/Dify/2025-06-25-2-model-support-changes-in-1-5-0|2 Model Support changes
+  in 1.5.0]]'
 - '[[Changes/Cline/2025-06-26-3-model-support-changes-in-v3-18-0|3 Model Support changes
   in v3.18.0]]'
 source_release: '[[Releases/Aider/aider-2025-06-27-v0-85-0-github-228491827-20a4ecc7|aider-2025-06-27-v0-85-0-github-228491827-20a4ecc7]]'
@@ -101,7 +101,7 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.85.0
 ## Nearby in Model Support
 
 - Earlier: 2025-06-26 · Cline · [[Changes/Cline/2025-06-26-3-model-support-changes-in-v3-18-0|3 Model Support changes in v3.18.0]]
-- Later: 2025-06-28 · Gemini CLI · [[Changes/Gemini CLI/2025-06-28-release-notes-at-https-github-com-google-gemini-gemini-cli-discussions-2301|Release notes at: (source link)]]
+- Later: 2025-06-27 · Ollama · [[Changes/Ollama/2025-06-27-the-directory-in-which-models-are-stored-can-now-be-modified-this-allows-models|The directory in which models are stored can now be modified!]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

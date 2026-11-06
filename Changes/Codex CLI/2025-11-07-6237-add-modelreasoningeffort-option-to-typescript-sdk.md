@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8e2b4b0ef491c9fe8915eaac0d4d6a1b7ef2fe6d8ccd60fbde79944e51b6a6ca
+machine_hash: 377751c091011a1c3087ed1dd708f238a483aa04928efbb54e5ba1fc8509befd
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,9 +43,10 @@ record:
   title: '#6237 Add modelReasoningEffort option to TypeScript SDK'
   type: change
 related_changes:
-- '[[Changes/Windsurf/2025-11-04-mcp-enhancements|MCP Enhancements]]'
 - '[[Changes/Cline/2025-11-06-8-apps-and-integrations-changes-in-v3-36-0|8 Apps and
   Integrations changes in v3.36.0]]'
+- '[[Changes/Open WebUI/2025-11-06-2-apps-and-integrations-changes-in-v0-6-35|2 Apps
+  and Integrations changes in v0.6.35]]'
 - '[[Changes/Cline/2025-11-07-add-mcp-tool-usage-to-glm-prompt-by-canvrno-in-https-github-com-cline-cline-pull|Add
   MCP tool usage to GLM prompt]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-11-07-rust-v0-56-0-github-260721835-230209f8|codex-cli-2025-11-07-rust-v0-56-0-github-260721835-230209f8]]'

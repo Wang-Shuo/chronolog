@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 484f5d084a6ee293e86a691d08c9a339ece22b970b492498df7055a17cbb7b8b
+machine_hash: f4e1bc160815afbae414750166080e0c43ef57eefbc7f313ce774f15bafa959f
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,8 +43,8 @@ record:
   title: 2 Model Support changes in rust-v0.30.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-09-03-3071-use-experimental-reasoning-summary|♯3071 Use
-  experimental reasoning summary]]'
+- '[[Changes/Dify/2025-09-03-5-model-support-changes-in-1-8-1|5 Model Support changes
+  in 1.8.1]]'
 - '[[Changes/Gemini CLI/2025-09-04-5-model-support-changes-in-v0-3-0|5 Model Support
   changes in v0.3.0]]'
 - '[[Changes/Cline/2025-09-05-add-new-kimi-k2-model-to-groq-and-moonshot-providers|Add

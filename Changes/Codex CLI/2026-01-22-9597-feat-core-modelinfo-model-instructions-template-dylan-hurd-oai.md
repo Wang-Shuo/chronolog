@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 4aa65912750b988b9229bc67cf17b851458af35482cd2a9542a3b6102801438a
+machine_hash: d65f88ebf46a0350535b47db38f7a8dfae9f8fba3a6ba638ea65039f41e5851d
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,10 +43,10 @@ record:
   title: '#9597 feat(core) ModelInfo.model_instructions_template @dylan-hurd-oai'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-01-21-5-model-support-changes-in-rust-v0-88-0|5 Model
-  Support changes in rust-v0.88.0]]'
 - '[[Changes/Gemini CLI/2026-01-21-6-model-support-changes-in-v0-25-0|6 Model Support
   changes in v0.25.0]]'
+- '[[Changes/Ollama/2026-01-21-a-new-ollama-launch-command-to-use-ollama-s-models-with-claude-code-codex-openco|A
+  new ollama launch command to use Ollama''s models with Claude Code, Codex…]]'
 - '[[Changes/ChatGPT/2026-01-22-we-re-updating-gpt-5-2-instant-s-default-personality-to-be-more-conversational-a|5.2
   Personality System Prompt Update]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-01-22-rust-v0-89-0-github-279171728-1aea28c3|codex-cli-2026-01-22-rust-v0-89-0-github-279171728-1aea28c3]]'

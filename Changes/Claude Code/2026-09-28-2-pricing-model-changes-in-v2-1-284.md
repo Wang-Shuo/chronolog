@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1f5d1cef945c89394c725c223549990e27a79640d8e02bfedd06741ff9c2a9ab
+machine_hash: 2486d486ce79a36543dc22f507ee72a7766275ce6638dd00978fd5c4428f85d0
 product: claude-code
 product_name: Claude Code
 record:
@@ -101,7 +101,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.284
 ## Nearby in Pricing Model
 
 - Earlier: 2026-09-25 · OpenHands · [[Changes/OpenHands/2026-09-25-feat-scope-openai-subscription-caches-by-backend-by-uczltw6-in-https-github-com|feat: scope OpenAI subscription caches by backend]]
-- Later: 2026-09-29 · ChatGPT · [[Changes/ChatGPT/2026-09-29-pro-200-is-available-for-new-subscriptions-again-at-200-month-5ed430|Pro 200 subscriptions]]
+- Later: 2026-09-28 · ElevenLabs · [[Changes/ElevenLabs/2026-09-28-python-sdk|Python SDK]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

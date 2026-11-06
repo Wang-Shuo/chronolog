@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ea80a9aba67a4342a5c2ce4610caf836ed0f3a8fb91cd2c9629ff7db79d52400
+machine_hash: 6a0802214f01202e639a67d5eff080071d5cd5dd23019d941a173500e6c4d93b
 product: claude-code
 product_name: Claude Code
 record:
@@ -87,7 +87,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.71
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-03-06 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-06-users-are-prompted-for-shell-commands-with-potentially-dangerous-expansion-or-su|Users are prompted for shell commands with potentially dangerous expansion…]]
-- Later: 2026-03-09 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-09-5-developer-workflow-changes-in-v1-0-3|5 Developer Workflow changes in v1.0.3]]
+- Later: 2026-03-08 · Open WebUI · [[Changes/Open WebUI/2026-03-08-17-developer-workflow-changes-in-v0-8-9|17 Developer Workflow changes in v0.8.9]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

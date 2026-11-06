@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: f3c8f7e4c62ffba2a6a1dc3f37f173305515cd415f4592dc26caeea0404a71fb
+machine_hash: 025671facd0f518865644f26112907c820464823a4087eac7f082e9b1d304b2f
 product: cursor
 product_name: Cursor
 record:
@@ -42,10 +42,10 @@ record:
   title: Shareable Team Commands
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-10-01-support-rendering-function-calls-and-responses-when-sharing-chat-to-markdown-by|Support
-  rendering function calls and responses when sharing chat to markdown]]'
 - '[[Changes/GitHub Copilot CLI/2025-10-07-significantly-reduced-token-consumption-round-trips-per-problem-and-time-to-resu|Significantly
   reduced token consumption, round trips per problem, and time to result]]'
+- '[[Changes/Replit/2025-10-10-support-seat-access-for-teams|Support seat access for
+  teams]]'
 - '[[Changes/ChatGPT/2025-10-23-content-creation-apply-project-specific-instructions-to-keep-tone-and-style-cons|Content
   creation: Apply project-specific instructions to keep tone and style…]]'
 source_release: '[[Releases/Cursor/cursor-2025-10-29-2-0-https-cursor-com-changelog-2-0-66a8e76e|cursor-2025-10-29-2-0-https-cursor-com-changelog-2-0-66a8e76e]]'

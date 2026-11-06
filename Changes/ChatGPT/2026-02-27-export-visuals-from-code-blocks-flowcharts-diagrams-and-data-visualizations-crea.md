@@ -4,20 +4,20 @@ date: '2026-02-27'
 description: 'ChatGPT · 2026-02-27 · Files and Data: Export visuals from Code Blocks.
   Flowcharts, diagrams, and data visualizations created in Code Blocks can now be…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code
-    interpreter is now rolling out in beta on web]]'
+  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
+    Files and Data changes in 0.2.2]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 967
+  lag_days: 1009
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d784c35e06b826b55ac0de7a3694200775f3255261db1b1c80a447b4168f9548
+machine_hash: b82e09e3acf340f1171e4c8fe60e034e40dd1f299250845ea3a952571d9e9f79
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -47,10 +47,9 @@ record:
   title: Export visuals from Code Blocks
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-02-05-10667-chore-app-server-document-experimental-api-opt-in-owenlin0|♯10667
-  chore(app-server): document experimental API opt-in @owenlin0]]'
-- '[[Changes/ChatGPT/2026-02-13-expanded-file-type-support-we-now-support-additional-text-and-code-file-formats|Expanded
-  file type support]]'
+- '[[Changes/ElevenLabs/2026-02-16-knowledge-base-d4f24c|Knowledge Base]]'
+- '[[Changes/Open WebUI/2026-02-16-long-content-truncation-in-preview-modals-citation-and-file-content-modals-now-t|⚡
+  Long content truncation in preview modals. Citation and file content modals…]]'
 - '[[Changes/Gemini CLI/2026-02-25-feat-plan-document-and-validate-plan-mode-policy-overrides-by-jerop-in-https-git|feat(plan):
   document and validate Plan Mode policy overrides]]'
 scope: Web
@@ -95,7 +94,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-06 · ChatGPT · [[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code interpreter is now rolling out in beta on web]]
+- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b4458f35dd91af53bb954f0de0700350750721e1dceb7ea3f84b337d3e920e13
+machine_hash: 065f36fca110924d6b7e77c9b79d897eb685f589af53bbcfc22fb84f49093c9c
 product: claude-code
 product_name: Claude Code
 record:
@@ -52,10 +52,10 @@ record:
   title: 4 Safety and Privacy changes in v2.1.119
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-20-security-sandbox-auto-allow-no-longer-bypasses-the-dangerous-path-safety-check-f|Security:
-  sandbox auto-allow no longer bypasses the dangerous-path safety check…]]'
-- '[[Changes/Codex CLI/2026-04-20-9-safety-and-privacy-changes-in-rust-v0-122-0|9
-  Safety and Privacy changes in rust-v0.122.0]]'
+- '[[Changes/Open WebUI/2026-04-21-11-safety-and-privacy-changes-in-v0-9-0|11 Safety
+  and Privacy changes in v0.9.0]]'
+- '[[Changes/Ollama/2026-04-22-better-mlx-thread-safety-for-array-management|Better
+  MLX thread safety for array management]]'
 - '[[Changes/Claude Code/2026-04-23-fixed-mcp-step-up-authorization-silently-refreshing-instead-of-prompting-for-re|Fixed
   MCP step-up authorization silently refreshing instead of prompting…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-23-v2-1-119-github-312949780-573724e7|claude-code-2026-04-23-v2-1-119-github-312949780-573724e7]]'

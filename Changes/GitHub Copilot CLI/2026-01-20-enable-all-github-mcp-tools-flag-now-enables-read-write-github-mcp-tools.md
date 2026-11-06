@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 79242fd51d1a991800836ccd5a1a0b4a4346d37dc866f801f31a4c37bdd689ef
+machine_hash: ab06d528a609c5caec78296118e71740e119d6e9ef2fc32b59ec491e9570d06c
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -42,10 +42,8 @@ record:
   title: '`--enable-all-github-mcp-tools` flag now enables read-write GitHub MCP tools'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-01-16-3-apps-and-integrations-changes-in-rust-v0-87-0|3
-  Apps and Integrations changes in rust-v0.87.0]]'
-- '[[Changes/GitHub Copilot CLI/2026-01-16-mcp-servers-now-start-correctly-for-custom-agents|MCP
-  servers now start correctly for custom agents]]'
+- '[[Changes/ElevenLabs/2026-01-19-modified-schemas|Modified Schemas]]'
+- '[[Changes/ElevenLabs/2026-01-19-sdk-releases|SDK Releases]]'
 - '[[Changes/Claude Code/2026-01-20-2-apps-and-integrations-changes-in-v2-1-14|2 Apps
   and Integrations changes in v2.1.14]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-01-20-v0-0-388-github-278408057-d1caf6ed|github-copilot-cli-2026-01-20-v0-0-388-github-278408057-d1caf6ed]]'

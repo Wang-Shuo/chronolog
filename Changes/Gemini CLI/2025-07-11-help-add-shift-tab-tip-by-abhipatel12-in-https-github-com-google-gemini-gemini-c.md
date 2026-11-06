@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c002685d7ee41ec919d01b08601c64d3ab22cc4476e6d17c8236da39d743ff77
+machine_hash: 8872b26bf7f8febe9e3c171f8cf8cacfd85b1bacef2acc341e915b09fe2d1d5f
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -41,12 +41,12 @@ record:
   title: 'help: add shift+tab tip'
   type: change
 related_changes:
-- '[[Changes/Aider/2025-06-27-improved-github-copilot-token-handling-with-better-validation-and-error-messages|Improved
-  GitHub Copilot token handling with better validation and error messages…]]'
 - '[[Changes/Gemini CLI/2025-07-01-2-editor-experience-changes-in-v0-1-8|2 Editor
   Experience changes in v0.1.8]]'
 - '[[Changes/Codex CLI/2025-07-09-add-a-completion-subcommand-to-the-cli-in-https-github-com-openai-codex-pull-149|Add
   a completion subcommand to the CLI…]]'
+- '[[Changes/Dify/2025-07-10-2-editor-experience-changes-in-1-6-0|2 Editor Experience
+  changes in 1.6.0]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-07-11-v0-1-10-github-231320517-434b29eb|gemini-cli-2025-07-11-v0-1-10-github-231320517-434b29eb]]'
 source_type: github_releases
 theme: editor-experience
@@ -82,8 +82,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2025-07-09 · Codex CLI · [[Changes/Codex CLI/2025-07-09-add-a-completion-subcommand-to-the-cli-in-https-github-com-openai-codex-pull-149|Add a completion subcommand to the CLI…]]
-- Later: 2025-07-16 · Cline · [[Changes/Cline/2025-07-16-2-editor-experience-changes-in-v3-19-5|2 Editor Experience changes in v3.19.5]]
+- Earlier: 2025-07-10 · Dify · [[Changes/Dify/2025-07-10-2-editor-experience-changes-in-1-6-0|2 Editor Experience changes in 1.6.0]]
+- Later: 2025-07-14 · Open WebUI · [[Changes/Open WebUI/2025-07-14-3-editor-experience-changes-in-v0-6-16|3 Editor Experience changes in v0.6.16]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

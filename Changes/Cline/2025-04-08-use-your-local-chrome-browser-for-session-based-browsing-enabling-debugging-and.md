@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9785b19a1446de7f6903ca7321f27e3a2464ca13e737067e60d640bf0922fbca
+machine_hash: ff1c36aed7fe399c90a21ab020ae0d2aa0d5155dcf6c7be22dd50cbcc0aed539
 product: cline
 product_name: Cline
 record:
@@ -53,12 +53,12 @@ record:
   title: Use your local Chrome browser for session-based browsing, enabling debugging…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-02-14-set-chatgpt-as-default-search-engine-in-safari|Set
-  ChatGPT as default search engine in Safari]]'
-- '[[Changes/Cursor/2025-02-19-web-search-agent-can-now-automatically-search-the-web-for-up-to-date-information|Web
-  search: Agent can now automatically search the web for up-to-date information…]]'
+- '[[Changes/Dify/2025-03-11-for-a-more-detailed-dive-into-each-update-feel-free-to-browse-through-the-prs-we|For
+  a more detailed dive into each update, feel free to browse through the PRs]]'
 - '[[Changes/OpenHands/2025-04-02-turn-on-vision-based-browsing-by-default-and-allow-openhands-to-see-pdf-images-i|Turn
   on vision-based browsing by default and allow OpenHands to see PDF / images…]]'
+- '[[Changes/Open WebUI/2025-04-07-2-search-and-browsing-changes-in-v0-6-2|2 Search
+  and Browsing changes in v0.6.2]]'
 source_release: '[[Releases/Cline/cline-2025-04-08-v3-10-0-github-211156875-766b3847|cline-2025-04-08-v3-10-0-github-211156875-766b3847]]'
 source_type: github_releases
 theme: search-browsing
@@ -89,8 +89,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Search and Browsing
 
-- Earlier: 2025-04-02 · OpenHands · [[Changes/OpenHands/2025-04-02-turn-on-vision-based-browsing-by-default-and-allow-openhands-to-see-pdf-images-i|Turn on vision-based browsing by default and allow OpenHands to see PDF / images…]]
-- Later: 2025-05-08 · ChatGPT · [[Changes/ChatGPT/2025-05-08-chatgpt-deep-research-with-github-is-available-globally-to-team-users-it-is-also-ad2e25|GitHub connector for deep research for Plus/Pro/Team]]
+- Earlier: 2025-04-07 · Open WebUI · [[Changes/Open WebUI/2025-04-07-2-search-and-browsing-changes-in-v0-6-2|2 Search and Browsing changes in v0.6.2]]
+- Later: 2025-04-13 · Open WebUI · [[Changes/Open WebUI/2025-04-13-sougou-web-search-integration-new-search-engine-option-added-enhancing-global-re|🧭 Sougou Web Search Integration]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 574aa52bf3534de7b17edb07aa8b14289f0368fb1268769f3906cf343889f8dc
+machine_hash: fa0ae29b9b6e948a9fcfbfc8ecebec43dda19f54be190b7c3aacba8c00c8bd85
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -48,8 +48,8 @@ record:
   title: 3 Model Support changes in v1.0.83
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-03-2-model-support-changes-in-rust-v0-153-2|2 Model
-  Support changes in rust-v0.153.2]]'
+- '[[Changes/Lovable/2026-09-03-gemini-omni-1-1-flash-for-your-app-s-ai-features|Gemini
+  Omni 1.1 Flash for your app''s AI features]]'
 - '[[Changes/Claude Code/2026-09-04-improved-the-model-picker-and-the-vs-code-model-pill-to-show-a-model-s-name-inst|Improved
   the /model picker and the VS Code model pill to show a model''s name…]]'
 - '[[Changes/Codex CLI/2026-09-04-3-model-support-changes-in-rust-v0-153-3|3 Model
@@ -99,7 +99,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.83
 ## Nearby in Model Support
 
 - Earlier: 2026-09-04 · Codex CLI · [[Changes/Codex CLI/2026-09-04-3-model-support-changes-in-rust-v0-153-3|3 Model Support changes in rust-v0.153.3]]
-- Later: 2026-09-09 · ChatGPT · [[Changes/ChatGPT/2026-09-09-chatgpt-voice-can-now-use-gpt-5-6-or-gpt-6-astra-when-it-needs-to-search-or-reas-848954|ChatGPT Voice can now use GPT-5.6 or GPT-6 Astra when it needs to search or reason…]]
+- Later: 2026-09-05 · Ollama · [[Changes/Ollama/2026-09-05-ollama-models-can-now-be-used-directly-in-chatgpt-desktop-so-you-can-keep-your-e|Ollama models can now be used directly in ChatGPT Desktop, so you can keep…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

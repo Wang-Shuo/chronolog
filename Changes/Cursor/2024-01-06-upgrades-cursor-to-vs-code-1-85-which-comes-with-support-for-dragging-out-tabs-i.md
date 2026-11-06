@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 575544d699528fc9919df2e9f726f89d704c085f9a1f7a2d32103f398f2b102e
+machine_hash: 9146b6c25eabf1319e845718367ce70472de43617eb55015678c7e428cef9eb4
 product: cursor
 product_name: Cursor
 record:
@@ -47,10 +47,10 @@ record:
     tabs…
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-12-30-cursor-is-now-based-on-vs-code-1-85-1-which-among-other-things-includes-floating|VS
-  Code 1.85.1]]'
 - '[[Changes/Cursor/2023-12-31-you-can-now-use-chat-and-cmd-k-in-the-aux-window-without-too-many-problems|Aux
   Window Fixes]]'
+- '[[Changes/Dify/2024-01-02-gpt-2-tokenizer-files-now-cached-within-dify-s-codebase-making-builds-quicker-an|GPT-2
+  Tokenizer Files: Now cached within Dify''s codebase, making builds quicker…]]'
 - '[[Changes/Cursor/2024-01-03-hold-down-command-press-and-release-shift-and-continue-holding-down-command-this|Early
   Preview: Hold-cmd-tap-shift to Trigger AI Rewrite]]'
 source_release: '[[Releases/Cursor/cursor-2024-01-06-0-22-0-https-cursor-com-changelog-0-22-0-04c2cd2c|cursor-2024-01-06-0-22-0-https-cursor-com-changelog-0-22-0-04c2cd2c]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: ca3681171edd390354c21b33aa903a2709f4d16d842d45429f64a636a0ae1605
+machine_hash: 7df92120ee9b6837f4c0de0e832df05bad6e2dfcac01aaa0e271b4ae4557b7c0
 product: windsurf
 product_name: Windsurf
 record:
@@ -47,12 +47,11 @@ record:
   title: Devin Cloud
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-08-auto-update-binary-downloads-now-stream-to-disk-instead-of-buffering-in-memory-c|Auto-update
-  binary downloads now stream to disk instead of buffering in memory…]]'
-- '[[Changes/Codex CLI/2026-07-09-responses-websockets-continue-using-the-low-latency-transport-while-respecting-s|Responses
-  WebSockets continue using the low-latency transport while respecting…]]'
+- '[[Changes/ElevenLabs/2026-07-13-packages|Packages]]'
 - '[[Changes/Claude Code/2026-07-14-3-reliability-and-performance-changes-in-v2-1-208|3
   Reliability and Performance changes in v2.1.208]]'
+- '[[Changes/Dify/2026-07-17-3-reliability-and-performance-changes-in-1-16-0|3 Reliability
+  and Performance changes in 1.16.0]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-07-17-v3-5-17-c6033639|windsurf-2026-07-17-v3-5-17-c6033639]]'
 source_type: windsurf_changelog
 theme: reliability-performance
@@ -86,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-07-14 · Claude Code · [[Changes/Claude Code/2026-07-14-3-reliability-and-performance-changes-in-v2-1-208|3 Reliability and Performance changes in v2.1.208]]
+- Earlier: 2026-07-17 · Dify · [[Changes/Dify/2026-07-17-3-reliability-and-performance-changes-in-1-16-0|3 Reliability and Performance changes in 1.16.0]]
 - Later: 2026-07-18 · Claude Code · [[Changes/Claude Code/2026-07-18-added-a-periodic-progress-heartbeat-for-long-running-tool-calls-that-previously|Added a periodic progress heartbeat for long-running tool calls that previously went…]]
 <!-- chronolog:end -->
 

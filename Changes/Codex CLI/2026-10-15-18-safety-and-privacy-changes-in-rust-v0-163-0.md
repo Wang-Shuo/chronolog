@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c418d9a928d2b671783641c1d5f94f5fab53ce6bdbc269971500fd456e673793
+machine_hash: a47c41ace4caff874acb85f5400855821b24c5a7bf0394130d70a75cc8d0862b
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -81,10 +81,10 @@ record:
   title: 18 Safety and Privacy changes in rust-v0.163.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-14-6-safety-and-privacy-changes-in-v2-1-299|6 Safety
-  and Privacy changes in v2.1.299]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-14-resuming-a-session-now-respects-abandoned-pending-permission-work-and-continues|Resuming
   a session now respects abandoned pending-permission work and continues only…]]'
+- "[[Changes/Open WebUI/2026-10-14-rich-ui-embed-console-errors-rich-ui-tool-embeds-no-longer-log-a-security-error|\U0001F9E9
+  Rich UI embed console errors. Rich UI tool embeds no longer log a security…]]"
 - '[[Changes/Claude Code/2026-10-15-5-safety-and-privacy-changes-in-v2-1-301|5 Safety
   and Privacy changes in v2.1.301]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-10-15-rust-v0-163-0-github-414286110-97016fe6|codex-cli-2026-10-15-rust-v0-163-0-github-414286110-97016fe6]]'

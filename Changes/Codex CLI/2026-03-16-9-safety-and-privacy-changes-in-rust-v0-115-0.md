@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a193ca60f9b2eb66eafa6f8083cfe917a9215207da762852949873af4f9e0b4a
+machine_hash: cef21fec7a8f5958f46f359ab329903cefcaafa5aa323a5ac26ce6e03e409a1d
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -59,10 +59,10 @@ record:
   title: 9 Safety and Privacy changes in rust-v0.115.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-12-fixed-voice-mode-silently-failing-on-the-macos-native-binary-for-users-whose-ter|Fixed
-  voice mode silently failing on the macOS native binary for users whose…]]'
 - '[[Changes/Cline/2026-03-12-markdown-image-loading-now-requires-user-consent|Markdown
   image loading now requires user consent]]'
+- '[[Changes/v0/2026-03-12-improved-snowflake-deployment-error-messages-for-permission-issues|Improved
+  Snowflake deployment error messages for permission issues]]'
 - '[[Changes/Claude Code/2026-03-14-3-safety-and-privacy-changes-in-v2-1-76|3 Safety
   and Privacy changes in v2.1.76]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-03-16-rust-v0-115-0-github-297641413-c704d9db|codex-cli-2026-03-16-rust-v0-115-0-github-297641413-c704d9db]]'

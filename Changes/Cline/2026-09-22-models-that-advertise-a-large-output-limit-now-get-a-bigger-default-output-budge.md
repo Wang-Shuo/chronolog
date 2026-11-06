@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: b91f366ab55e12a62e4c542f3c9ef341eefa7c9b19c2c036738d841c257e58a1
+machine_hash: 2fc9f2fcd2711abe347ff6884d30b668937f292de937ae1acb828ef7a7bbaf4e
 product: cline
 product_name: Cline
 record:
@@ -61,10 +61,9 @@ record:
     budget
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-18-vscode-added-the-session-s-cost-and-token-usage-to-the-account-usage-dialog-and|VSCode
-  Added the session''s cost and token usage to the Account & usage dialog…]]'
 - '[[Changes/Claude Code/2026-09-19-changed-auto-mode-for-claude-api-and-enterprise-users-and-on-bedrock-vertex-foun|Changed
   auto mode for Claude API and Enterprise users, and on Bedrock, Vertex…]]'
+- '[[Changes/ElevenLabs/2026-09-21-user|User]]'
 - '[[Changes/Claude Code/2026-09-22-improved-cost-cache-miss-causes-to-name-thinking-mode-and-thinking-display-chang|Improved
   /cost cache-miss causes to name thinking mode and thinking display changes]]'
 source_release: '[[Releases/Cline/cline-2026-09-22-v4-1-20-github-394105689-95df91cb|cline-2026-09-22-v4-1-20-github-394105689-95df91cb]]'

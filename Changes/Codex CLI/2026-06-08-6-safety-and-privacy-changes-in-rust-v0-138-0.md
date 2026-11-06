@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6bc1cc03f409aaad0b016499cab18ad2272859a158790df65afb0a1a98207a8b
+machine_hash: bb9bc60b659b4eefe6e061356d06254a5b23ab10031c06135c6cf723456464ce
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -50,8 +50,8 @@ record:
   title: 6 Safety and Privacy changes in rust-v0.138.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-05-2-safety-and-privacy-changes-in-v1-0-60|2
-  Safety and Privacy changes in v1.0.60]]'
+- '[[Changes/Lovable/2026-06-05-toggle-whois-privacy-after-purchase|Toggle WHOIS privacy
+  after purchase]]'
 - '[[Changes/Claude Code/2026-06-06-hardened-cross-session-messaging-messages-relayed-via-sendmessage-from-other-cla|Hardened
   cross-session messaging]]'
 - '[[Changes/Claude Code/2026-06-08-2-safety-and-privacy-changes-in-v2-1-169|2 Safety

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9582ab38db836241088edef417753c9b006de81a9abb602024a42423cb8acc25
+machine_hash: bb77a923af6316237da5ecb190f515c9a7e2ee403565c15ebcdca8754b9a3db7
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,10 +43,10 @@ record:
   title: 2 Memory and Personalization changes in v0.0.412
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-02-17-4-memory-and-personalization-changes-in-rust-v0-102-0|4
-  Memory and Personalization changes in rust-v0.102.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-17-2-memory-and-personalization-changes-in-v0-0-411|2
   Memory and Personalization changes in v0.0.411]]'
+- '[[Changes/Open WebUI/2026-02-17-faster-model-filtering-model-access-control-filtering-no-longer-makes-a-redundan|⚡
+  Faster model filtering. Model access control filtering no longer makes…]]'
 - '[[Changes/Gemini CLI/2026-02-18-2-memory-and-personalization-changes-in-v0-29-0|2
   Memory and Personalization changes in v0.29.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-02-19-v0-0-412-github-288488873-f50c4c60|github-copilot-cli-2026-02-19-v0-0-412-github-288488873-f50c4c60]]'
@@ -91,7 +91,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v0.0.412
 ## Nearby in Memory and Personalization
 
 - Earlier: 2026-02-18 · Gemini CLI · [[Changes/Gemini CLI/2026-02-18-2-memory-and-personalization-changes-in-v0-29-0|2 Memory and Personalization changes in v0.29.0]]
-- Later: 2026-02-25 · Codex CLI · [[Changes/Codex CLI/2026-02-25-9-memory-and-personalization-changes-in-rust-v0-105-0|9 Memory and Personalization changes in rust-v0.105.0]]
+- Later: 2026-02-20 · Replit · [[Changes/Replit/2026-02-20-background-memory-compression|Background memory compression]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -4,20 +4,20 @@ date: '2026-10-19'
 description: 'GitHub Copilot CLI · 2026-10-19 · Enterprise and Administration: 2 changes
   in 1.0.100 — Enterprise-managed ask permissions in Assisted mode now allow safe…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin
-    improvements: Team admins can now mark themselves as unpaid users and can see…]]'
+  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
+    for Google Workspace accounts]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 943
+  lag_days: 1263
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 654bd71ce4362224e69ea67832432439230e566bc57e6b99a6ff6fb54f5fcea2
+machine_hash: 27d99ae95c135993010d6aef1b117a980a119aa9a56063a41f3aaf870177c5f6
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,12 +44,10 @@ record:
   title: 2 Enterprise and Administration changes in v1.0.100
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-10-08-feat-onboarding-show-the-super-admin-setup-guide-on-enterprise-backends-by-hiept|feat(onboarding):
-  show the Super Admin setup guide on enterprise backends]]'
-- '[[Changes/GitHub Copilot CLI/2026-10-12-keep-allow-all-available-during-startup-while-enterprise-policy-is-still-resolvi|Keep
-  /allow-all available during startup while enterprise policy is still resolving]]'
-- '[[Changes/ChatGPT/2026-10-15-applications-are-now-open-to-labs-at-u-s-universities-if-you-re-a-principal-inve|Applications
-  are now open to labs at U.S. universities]]'
+- '[[Changes/Lovable/2026-10-18-request-edit-access-to-a-project-you-can-only-view|Request
+  edit access to a project you can only view]]'
+- '[[Changes/ElevenLabs/2026-10-19-music-and-sound-effects|Music and Sound Effects]]'
+- '[[Changes/ElevenLabs/2026-10-19-realtime-translation|Realtime Translation]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-10-19-v1-0-100-github-417622960-9e2e7578|github-copilot-cli-2026-10-19-v1-0-100-github-417622960-9e2e7578]]'
 source_type: github_releases
 theme: enterprise-admin
@@ -95,14 +93,14 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.100
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-10-15 · ChatGPT · [[Changes/ChatGPT/2026-10-15-applications-are-now-open-to-labs-at-u-s-universities-if-you-re-a-principal-inve|Applications are now open to labs at U.S. universities]]
+- Earlier: 2026-10-19 · ElevenLabs · [[Changes/ElevenLabs/2026-10-19-realtime-translation|Realtime Translation]]
 - Later: 2026-10-20 · Claude Code · [[Changes/Claude Code/2026-10-20-claude-tag-added-public-slack-channels-claude-hasn-t-joined-to-the-claude-tag-ad|Claude Tag Added public Slack channels Claude hasn't joined to the Claude Tag…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-03-20 · Cursor · [[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin improvements: Team admins can now mark themselves as unpaid users and can see…]]
+- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

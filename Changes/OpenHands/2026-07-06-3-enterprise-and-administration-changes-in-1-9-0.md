@@ -5,20 +5,20 @@ description: 'OpenHands · 2026-07-06 · Enterprise and Administration: 3 change
   1.9.0 — feat: explicit OH_DEPLOYMENT_MODE flag; gate cloud-account CTA to enterprise
   cloud…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin
-    improvements: Team admins can now mark themselves as unpaid users and can see…]]'
+  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
+    for Google Workspace accounts]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 838
+  lag_days: 1158
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b0f56c5e184ba531204ab4dc4bb6c3de6cc24231ace3763365784e68e4f7d654
+machine_hash: f4da1f3907fea9e16baf2ed317186670d30ba26027d1688608c2bdd45e2f10bb
 product: openhands
 product_name: OpenHands
 record:
@@ -48,12 +48,11 @@ record:
   title: 3 Enterprise and Administration changes in 1.9.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-04-2-enterprise-and-administration-changes-in-rust-v0-137-0|2
-  Enterprise and Administration changes in rust-v0.137.0]]'
-- '[[Changes/ChatGPT/2026-06-08-send-an-email-directly-from-within-a-chat-if-you-ve-connected-gmail-or-outlook-y|Send
-  an email directly from within a chat]]'
-- '[[Changes/Codex CLI/2026-06-18-tls-connections-now-support-p-521-certificate-signatures-commonly-used-by-enterp|TLS
-  connections now support P-521 certificate signatures commonly used by enterprise…]]'
+- '[[Changes/Lovable/2026-06-30-project-monitoring-beta|Project monitoring (Beta)]]'
+- '[[Changes/Lovable/2026-07-01-restrict-who-can-download-project-code|Restrict who
+  can download project code]]'
+- '[[Changes/Lovable/2026-07-03-workspace-admins-and-owners-can-transfer-projects-again|Workspace
+  admins and owners can transfer projects again]]'
 source_release: '[[Releases/OpenHands/openhands-2026-07-06-1-9-0-github-349633843-8010776a|openhands-2026-07-06-1-9-0-github-349633843-8010776a]]'
 source_type: github_releases
 theme: enterprise-admin
@@ -99,14 +98,14 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/1.9.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-06-18 · Codex CLI · [[Changes/Codex CLI/2026-06-18-tls-connections-now-support-p-521-certificate-signatures-commonly-used-by-enterp|TLS connections now support P-521 certificate signatures commonly used by enterprise…]]
-- Later: 2026-07-07 · OpenHands · [[Changes/OpenHands/2026-07-07-feat-enterprise-auth-super-admin-management-endpoint-grant-revoke-list-by-jpshac|feat(enterprise/auth): super-admin management endpoint (grant/revoke/list)]]
+- Earlier: 2026-07-03 · Lovable · [[Changes/Lovable/2026-07-03-workspace-admins-and-owners-can-transfer-projects-again|Workspace admins and owners can transfer projects again]]
+- Later: 2026-07-07 · Lovable · [[Changes/Lovable/2026-07-07-restrict-workspace-access-by-sso-group|Restrict workspace access by SSO group]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-03-20 · Cursor · [[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin improvements: Team admins can now mark themselves as unpaid users and can see…]]
+- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

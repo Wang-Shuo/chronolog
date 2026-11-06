@@ -4,20 +4,20 @@ date: '2026-06-01'
 description: 'Codex CLI · 2026-06-01 · Files and Data: #25110 Move config document
   helpers into their own module @jif-oai'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code
-    interpreter is now rolling out in beta on web]]'
+  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
+    Files and Data changes in 0.2.2]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1061
+  lag_days: 1103
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e067c2b140f4c21d78714bc1a3456d7782670c941bce8a3e49b72bb80136aca9
+machine_hash: 3eeb10eda558e509ddfa617d85132fe2a1901bef348df999b6321e5da7e8108d
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,12 +43,12 @@ record:
   title: '#25110 Move config document helpers into their own module @jif-oai'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-05-14-file-library-is-expanding-to-free-and-go-users-including-to-users-in-the-europea-141640|File
-  library is expanding to Free and Go users, including to users in the European…]]'
-- '[[Changes/ChatGPT/2026-05-15-we-re-starting-to-roll-out-a-new-personal-finance-experience-in-chatgpt-pro-user|Personal
-  finances in ChatGPT]]'
+- '[[Changes/Replit/2026-05-15-export-canvas-frames-as-pngs|Export Canvas frames as
+  PNGs]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-28-canvas-tools-with-optional-object-input-schemas-open-correctly-without-validatio|Canvas
   tools with optional object input schemas open correctly without validation errors]]'
+- '[[Changes/Replit/2026-05-29-generate-media-right-on-canvas|Generate media right
+  on Canvas]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-06-01-rust-v0-136-0-github-332669350-976b06b6|codex-cli-2026-06-01-rust-v0-136-0-github-332669350-976b06b6]]'
 source_type: github_releases
 theme: file-data
@@ -88,14 +88,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2026-05-28 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-28-canvas-tools-with-optional-object-input-schemas-open-correctly-without-validatio|Canvas tools with optional object input schemas open correctly without validation errors]]
+- Earlier: 2026-05-29 · Replit · [[Changes/Replit/2026-05-29-generate-media-right-on-canvas|Generate media right on Canvas]]
 - Later: 2026-06-01 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-01-canvas-providers-can-return-file-urls-in-open-results-for-local-file-previews|Canvas providers can return file:// URLs in open results for local file previews]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-06 · ChatGPT · [[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code interpreter is now rolling out in beta on web]]
+- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: policy
-machine_hash: cf6c2e4e6de966826605d7d240de272bbb389ed0035b40bbac3eef1aef10dfe2
+machine_hash: 0636e0d92ab7c11970e4c44e9c0c9c811c751c9163c1b41360b99814386e889a
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -90,7 +90,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-03-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-13-syntax-highlighting-in-diff-with-support-for-17-programming-languages|Syntax highlighting in /diff with support for 17 programming languages]]
-- Later: 2026-03-17 · Claude Code · [[Changes/Claude Code/2026-03-17-vscode-improved-plan-preview-tab-titles-to-use-the-plan-s-heading-instead-of-cla|VSCode Improved plan preview tab titles to use the plan's heading instead…]]
+- Later: 2026-03-16 · v0 · [[Changes/v0/2026-03-16-improved-diff-statistics-formatting-with-locale-specific-number-separators|Improved diff statistics formatting with locale-specific number separators]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

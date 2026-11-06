@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 35af88d8b3610e1e3b678dd1929d62439a27e1bd720ab90ea365682de9250adc
+machine_hash: 635a19c8d082afc51cfae9c786a48ea3226ea88b53919e40e3f336e3db0a3b5b
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -78,8 +78,8 @@ record:
   title: 18 Apps and Integrations changes in v0.1.14
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-07-23-numerous-fixes-to-codex-mcp|Numerous fixes to codex
-  mcp]]'
+- '[[Changes/Dify/2025-07-23-10-apps-and-integrations-changes-in-1-7-0|10 Apps and
+  Integrations changes in 1.7.0]]'
 - '[[Changes/ChatGPT/2025-07-24-pro-users-can-now-utilize-chat-search-with-hubspot-and-custom-connectors-mcp-in-b9b682|Chat
   search for HubSpot and custom connectors (MCP) (Pro)]]'
 - '[[Changes/OpenHands/2025-07-24-2-apps-and-integrations-changes-in-0-50-0|2 Apps
@@ -161,7 +161,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.1.14
 ## Nearby in Apps and Integrations
 
 - Earlier: 2025-07-24 · OpenHands · [[Changes/OpenHands/2025-07-24-2-apps-and-integrations-changes-in-0-50-0|2 Apps and Integrations changes in 0.50.0]]
-- Later: 2025-07-29 · Cursor · [[Changes/Cursor/2025-07-29-extension-marketplace-supports-custom-urls|Extension marketplace supports custom URLs]]
+- Later: 2025-07-25 · Replit · [[Changes/Replit/2025-07-25-domains-improvements|Domains improvements]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

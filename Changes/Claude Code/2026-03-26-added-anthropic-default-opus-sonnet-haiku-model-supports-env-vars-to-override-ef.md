@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: f196e9e0f164d115f4aa175d1048c61d1afd6e63f3ca6e1d2ba87004ce4a4925
+machine_hash: e60c18c0890739f5589caaebb413a6e42b04e4e83f01328fcab91c0c4547bfb0
 product: claude-code
 product_name: Claude Code
 record:
@@ -62,12 +62,12 @@ record:
     override…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-20-2-model-support-changes-in-v1-0-10|2 Model
-  Support changes in v1.0.10]]'
-- '[[Changes/GitHub Copilot CLI/2026-03-23-ensure-models-appear-in-picker-correctly-display-model-names-where-possible|Ensure
-  models appear in picker correctly, display model names where possible]]'
 - '[[Changes/Gemini CLI/2026-03-24-7-model-support-changes-in-v0-35-0|7 Model Support
   changes in v0.35.0]]'
+- '[[Changes/Ollama/2026-03-25-if-you-have-ollama-installed-any-local-or-cloud-model-from-ollama-can-be-selecte|If
+  you have Ollama installed, any local or cloud model from Ollama can be selected…]]'
+- '[[Changes/Open WebUI/2026-03-25-23-model-support-changes-in-v0-8-11|23 Model Support
+  changes in v0.8.11]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-26-v2-1-84-github-301540101-d02104aa|claude-code-2026-03-26-v2-1-84-github-301540101-d02104aa]]'
 source_type: github_releases
 theme: model-support
@@ -105,7 +105,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-03-24 · Gemini CLI · [[Changes/Gemini CLI/2026-03-24-7-model-support-changes-in-v0-35-0|7 Model Support changes in v0.35.0]]
+- Earlier: 2026-03-25 · Open WebUI · [[Changes/Open WebUI/2026-03-25-23-model-support-changes-in-v0-8-11|23 Model Support changes in v0.8.11]]
 - Later: 2026-03-26 · Codex CLI · [[Changes/Codex CLI/2026-03-26-3-model-support-changes-in-rust-v0-117-0|3 Model Support changes in rust-v0.117.0]]
 <!-- chronolog:end -->
 

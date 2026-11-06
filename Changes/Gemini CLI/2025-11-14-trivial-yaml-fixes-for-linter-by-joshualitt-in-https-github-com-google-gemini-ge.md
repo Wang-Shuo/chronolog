@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6c2acdd560f76440875ac2fe57027278891b6341d41161d7dc68b94680849002
+machine_hash: 435a69f39feeb3cbc229e658c7a6de557cd7589fd7d08e0543cd6cd28cf52974
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -40,12 +40,12 @@ record:
   title: Trivial yaml fixes for linter
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2025-11-12-3-developer-workflow-changes-in-v0-0-355|3
-  Developer Workflow changes in v0.0.355]]'
 - '[[Changes/Cline/2025-11-13-3-developer-workflow-changes-in-v3-37-0|3 Developer
   Workflow changes in v3.37.0]]'
 - '[[Changes/Codex CLI/2025-11-13-7-developer-workflow-changes-in-rust-v0-58-0|7 Developer
   Workflow changes in rust-v0.58.0]]'
+- '[[Changes/Dify/2025-11-13-chore-add-type-check-to-pre-commit-by-lyzno1-in-https-github-com-langgenius-dify|chore:
+  add type-check to pre-commit]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-11-14-v0-15-0-github-262282457-4632a193|gemini-cli-2025-11-14-v0-15-0-github-262282457-4632a193]]'
 source_type: github_releases
 theme: developer-workflow
@@ -78,8 +78,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2025-11-13 · Codex CLI · [[Changes/Codex CLI/2025-11-13-7-developer-workflow-changes-in-rust-v0-58-0|7 Developer Workflow changes in rust-v0.58.0]]
-- Later: 2025-11-17 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-11-17-add-share-command-to-save-session-as-markdown-file-or-github-gist|Add /share command to save session as markdown file or GitHub gist]]
+- Earlier: 2025-11-13 · Dify · [[Changes/Dify/2025-11-13-chore-add-type-check-to-pre-commit-by-lyzno1-in-https-github-com-langgenius-dify|chore: add type-check to pre-commit]]
+- Later: 2025-11-16 · Replit · [[Changes/Replit/2025-11-16-gitlab-and-bitbucket-support|GitLab and Bitbucket support]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

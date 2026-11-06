@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6665ea9b6e3427a40ed261a28e5ca8fba1cfcb1aa9930a1ba27ab4fae4876b2d
+machine_hash: 23e19ade65c840d0130c642d788b1f00e1add28ca6ef01b4c514a77808d4c536
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,10 +44,10 @@ record:
   title: 2 Account and Access changes in v1.0.78
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-07-29-34643-migrate-login-http-construction-to-httpclient-copyberry|♯34643
-  Migrate login HTTP construction to HttpClient @copyberry]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-30-add-a-browser-based-web-oauth-login-flow-now-the-default-for-copilot-login-on-lo|Add
   a browser-based (web) OAuth login flow, now the default for copilot login…]]'
+- '[[Changes/v0/2026-07-31-open-in-v0-and-git-deployment-lookups-prompt-for-saml-re-authentication-instead|Open
+  in v0 and Git deployment lookups prompt for SAML re-authentication instead…]]'
 - '[[Changes/Windsurf/2026-08-01-devin-desktop-for-windows-loads-root-and-intermediate-certificates-from-the-wind|Devin
   Desktop for Windows loads root and intermediate certificates from the Windows…]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-08-03-v1-0-78-github-364543196-53a079bc|github-copilot-cli-2026-08-03-v1-0-78-github-364543196-53a079bc]]'

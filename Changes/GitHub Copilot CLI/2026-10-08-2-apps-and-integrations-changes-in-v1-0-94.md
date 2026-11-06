@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9008fd50abb578c06458b914a44368af4a6bd8284bc42a6cbc8e94ca003f90fc
+machine_hash: d9eae5c9c0f119d7174962be009d37c9764619810e7a10bf035dfebf8445c9c7
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -85,7 +85,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.94
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-10-08 · Codex CLI · [[Changes/Codex CLI/2026-10-08-20-apps-and-integrations-changes-in-rust-v0-162-0|20 Apps and Integrations changes in rust-v0.162.0]]
-- Later: 2026-10-08 · OpenHands · [[Changes/OpenHands/2026-10-08-feat-apps-add-authenticated-backend-view-helper-by-neubig-in-https-github-com-op|feat(apps): add authenticated backend view helper]]
+- Later: 2026-10-08 · Lovable · [[Changes/Lovable/2026-10-08-app-chat-connectors-zendesk-neon-motherduck-oracle-autonomous-ai-database-ibm-db|App + chat connectors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

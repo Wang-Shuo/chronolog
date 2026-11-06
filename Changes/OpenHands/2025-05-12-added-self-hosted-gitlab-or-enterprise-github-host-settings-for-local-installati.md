@@ -4,20 +4,20 @@ date: '2025-05-12'
 description: 'OpenHands · 2025-05-12 · Enterprise and Administration: Added self-hosted
   gitlab or enterprise github host settings for local installation by @malhotra5 in…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin
-    improvements: Team admins can now mark themselves as unpaid users and can see…]]'
+  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
+    for Google Workspace accounts]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 418
+  lag_days: 738
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4b276171c3043e56d9a5300cd6631185cff897092e6e99cd4d2ad89f303e9a96
+machine_hash: fa787c885a0fb786dde845a19ff073c33d87bf8be6697c3a405f24971ae6d565
 product: openhands
 product_name: OpenHands
 record:
@@ -42,12 +42,11 @@ record:
   title: Added self-hosted gitlab or enterprise github host settings for local installation
   type: change
 related_changes:
-- '[[Changes/Cline/2024-08-31-adds-support-for-reading-pdf-and-docx-files-try-turn-my-business-plan-docx-into|Adds
-  support for reading .pdf and .docx files…]]'
-- '[[Changes/Cursor/2025-03-23-enhanced-visibility-of-auto-run-controls-configured-by-team-admins-clarifying-wh|Enhanced
-  visibility of auto-run controls configured by team admins, clarifying…]]'
-- '[[Changes/OpenHands/2025-04-16-added-support-for-github-enterprise-and-on-prem-gitlab-in-the-github-action-reso|Added
-  support for GitHub Enterprise and on-prem GitLab in the GitHub Action resolver]]'
+- "[[Changes/Open WebUI/2025-05-06-custom-azure-tts-api-url-support-added-you-can-now-define-a-custom-azure-text-to|\U0001F310
+  Custom Azure TTS API URL Support Added]]"
+- '[[Changes/Replit/2025-05-09-teams-and-enterprise|Teams and Enterprise]]'
+- "[[Changes/Open WebUI/2025-05-10-temporary-chat-admin-controls-session-cleanliness-admins-are-now-able-to-properl|\U0001F4AC
+  Temporary Chat Admin Controls & Session Cleanliness]]"
 source_release: '[[Releases/OpenHands/openhands-2025-05-12-0-38-0-github-218087330-c64d64fd|openhands-2025-05-12-0-38-0-github-218087330-c64d64fd]]'
 source_type: github_releases
 theme: enterprise-admin
@@ -80,14 +79,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2025-04-16 · OpenHands · [[Changes/OpenHands/2025-04-16-added-support-for-github-enterprise-and-on-prem-gitlab-in-the-github-action-reso|Added support for GitHub Enterprise and on-prem GitLab in the GitHub Action resolver]]
-- Later: 2025-06-04 · Cursor · [[Changes/Cursor/2025-06-04-enterprise-users-can-only-access-stable-release-no-pre-release|Enterprise users can only access stable release (no pre-release)]]
+- Earlier: 2025-05-10 · Open WebUI · [[Changes/Open WebUI/2025-05-10-temporary-chat-admin-controls-session-cleanliness-admins-are-now-able-to-properl|💬 Temporary Chat Admin Controls & Session Cleanliness]]
+- Later: 2025-05-16 · Replit · [[Changes/Replit/2025-05-16-teams-and-enterprise|Teams and Enterprise]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-03-20 · Cursor · [[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin improvements: Team admins can now mark themselves as unpaid users and can see…]]
+- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

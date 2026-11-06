@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 450e6585882b88e16f39aaa4ad6ff3c2fc3606336f2901217037d7f6c329d485
+machine_hash: 4d5408f1c6c7ca7f0d4e8703df434f288e2b17442f987e384095367998ad0c8f
 product: openhands
 product_name: OpenHands
 record:
@@ -53,12 +53,12 @@ record:
   title: Added Alignment checker for browsing agent
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-01-25-using-web-in-chat-will-give-the-ai-the-ability-to-crawl-the-web-the-tools-it-can|Using
-  @Web in chat will give the AI the ability to crawl the web!]]'
-- '[[Changes/OpenHands/2024-06-29-5-search-and-browsing-changes-in-0-7-0|5 Search
-  and Browsing changes in 0.7.0]]'
 - '[[Changes/OpenHands/2024-11-04-allow-codeact-agent-to-perform-web-browsing-by-itself-no-more-delegation-to-brow|Allow
   CodeAct agent to perform web browsing by itself…]]'
+- '[[Changes/Open WebUI/2024-11-19-2-search-and-browsing-changes-in-v0-4-0|2 Search
+  and Browsing changes in v0.4.0]]'
+- "[[Changes/Open WebUI/2024-11-26-query-generation-issue-resolved-an-error-in-web-search-query-generation-enhancin|\U0001F50D
+  Query Generation Issue]]"
 source_release: '[[Releases/OpenHands/openhands-2024-12-04-0-15-0-github-188969871-7d218625|openhands-2024-12-04-0-15-0-github-188969871-7d218625]]'
 source_type: github_releases
 theme: search-browsing
@@ -88,7 +88,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Search and Browsing
 
-- Earlier: 2024-11-04 · OpenHands · [[Changes/OpenHands/2024-11-04-allow-codeact-agent-to-perform-web-browsing-by-itself-no-more-delegation-to-brow|Allow CodeAct agent to perform web browsing by itself…]]
+- Earlier: 2024-11-26 · Open WebUI · [[Changes/Open WebUI/2024-11-26-query-generation-issue-resolved-an-error-in-web-search-query-generation-enhancin|🔍 Query Generation Issue]]
 - Later: 2024-12-12 · Cline · [[Changes/Cline/2024-12-12-the-model-context-protocol-https-github-com-modelcontextprotocol-allows-agents-l|The Model Context Protocol((source link) allows agents…]]
 <!-- chronolog:end -->
 

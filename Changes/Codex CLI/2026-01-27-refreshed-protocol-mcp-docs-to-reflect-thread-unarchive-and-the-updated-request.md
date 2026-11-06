@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 19599319f909ec53094059143ff48162fea9e9aefbbe4fc5316bc5fbe7ee985f
+machine_hash: 7b69d04c555a12fdc04ee2cbad867806ae921f0d693454f07c4f5c75f40f07f4
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,8 +43,7 @@ record:
   title: Refreshed protocol/MCP docs to reflect `thread/unarchive` and the updated…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-01-25-3-apps-and-integrations-changes-in-rust-v0-90-0|3
-  Apps and Integrations changes in rust-v0.90.0]]'
+- '[[Changes/ElevenLabs/2026-01-26-sdk-releases|SDK Releases]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-26-3-apps-and-integrations-changes-in-v0-0-395|3
   Apps and Integrations changes in v0.0.395]]'
 - '[[Changes/Claude Code/2026-01-27-changed-the-commit-push-pr-skill-to-automatically-post-pr-urls-to-slack-channels|Changed

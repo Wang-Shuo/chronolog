@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 558ff2968e683951f26a9e0f7e09aec41d572c141f5e9449f5bf0573b2205189
+machine_hash: c632947b45f826737731950d3d279c411faa9eeb188ee24fcb5cf83485fee084
 product: openhands
 product_name: OpenHands
 record:
@@ -46,12 +46,10 @@ record:
   title: 3 Apps and Integrations changes in v1.27.0
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-10-08-feat-apps-add-authenticated-backend-view-helper-by-neubig-in-https-github-com-op|feat(apps):
-  add authenticated backend view helper]]'
-- '[[Changes/Claude Code/2026-10-09-3-apps-and-integrations-changes-in-v2-1-296|3
-  Apps and Integrations changes in v2.1.296]]'
-- '[[Changes/GitHub Copilot CLI/2026-10-09-managed-plugin-setup-retries-hourly-or-after-policy-changes-instead-of-on-every|Managed
-  plugin setup retries hourly or after policy changes instead of on every…]]'
+- '[[Changes/Ollama/2026-10-11-ollama-launch-claude-no-longer-shows-a-warning-about-claude-connectors-by-hoyyev|ollama
+  launch claude no longer shows a warning about Claude connectors]]'
+- '[[Changes/ElevenLabs/2026-10-12-sdk-releases|SDK releases]]'
+- '[[Changes/Lovable/2026-10-12-connect-your-app-to-loops|Connect your app to Loops]]'
 source_release: '[[Releases/OpenHands/openhands-2026-10-12-v1-27-0-github-410728945-cac9a43e|openhands-2026-10-12-v1-27-0-github-410728945-cac9a43e]]'
 source_type: github_releases
 theme: apps-integrations
@@ -91,7 +89,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/v1.27.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-10-09 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-09-managed-plugin-setup-retries-hourly-or-after-policy-changes-instead-of-on-every|Managed plugin setup retries hourly or after policy changes instead of on every…]]
+- Earlier: 2026-10-12 · Lovable · [[Changes/Lovable/2026-10-12-connect-your-app-to-loops|Connect your app to Loops]]
 - Later: 2026-10-13 · Cline · [[Changes/Cline/2026-10-13-an-mcp-server-or-hook-that-exits-before-reading-all-of-its-input-no-longer-crash|An MCP server or hook that exits before reading all of its input no longer crashes…]]
 <!-- chronolog:end -->
 

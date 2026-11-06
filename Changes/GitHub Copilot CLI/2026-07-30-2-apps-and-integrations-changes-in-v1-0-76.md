@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d9eb98eb7e69bbce116dc26e01ec92db701093fdd2ec4dab8067030b7bd1a4d8
+machine_hash: 40e8acc666bdbca43264c4fd2e5d3f8b733f4bef09d0c5b406eeac296ccdd2b9
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,12 +45,12 @@ record:
   title: 2 Apps and Integrations changes in v1.0.76
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-07-28-plugins-mcp-servers-hooks-and-skills-to-extend-cursor-across-your-workflows|Plugins,
-  MCP servers, hooks, and skills to extend Cursor across your workflows]]'
 - '[[Changes/ChatGPT/2026-07-29-we-re-beginning-to-roll-out-sign-in-with-chatgpt-across-select-plugins-and-partn|Sign
   in with ChatGPT]]'
 - '[[Changes/Codex CLI/2026-07-29-47-apps-and-integrations-changes-in-rust-v0-146-0|47
   Apps and Integrations changes in rust-v0.146.0]]'
+- '[[Changes/Lovable/2026-07-29-app-chat-connectors-amazon-redshift-and-microsoft-fabric|App
+  + chat connectors: Amazon Redshift and Microsoft Fabric]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-07-30-v1-0-76-github-362129864-0932fe29|github-copilot-cli-2026-07-30-v1-0-76-github-362129864-0932fe29]]'
 source_type: github_releases
 theme: apps-integrations
@@ -93,7 +93,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.76
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-07-29 · Codex CLI · [[Changes/Codex CLI/2026-07-29-47-apps-and-integrations-changes-in-rust-v0-146-0|47 Apps and Integrations changes in rust-v0.146.0]]
+- Earlier: 2026-07-29 · Lovable · [[Changes/Lovable/2026-07-29-app-chat-connectors-amazon-redshift-and-microsoft-fabric|App + chat connectors: Amazon Redshift and Microsoft Fabric]]
 - Later: 2026-07-30 · OpenHands · [[Changes/OpenHands/2026-07-30-feat-enable-disable-an-installed-mcp-server-from-its-card-by-hieptl-in-https-git|feat: enable/disable an installed MCP server from its card]]
 <!-- chronolog:end -->
 

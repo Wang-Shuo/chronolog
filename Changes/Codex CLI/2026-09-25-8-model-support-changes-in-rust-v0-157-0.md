@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4df104a4d14143ab655e72bced65cb9bf570aa5ccf77e437deecdaae985e50f4
+machine_hash: af3b46b1c8d3da48f1eee38b486964484293da5b2c8db0e60e503dbafb707d25
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -119,7 +119,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.157.0
 ## Nearby in Model Support
 
 - Earlier: 2026-09-25 · Claude Code · [[Changes/Claude Code/2026-09-25-3-model-support-changes-in-v2-1-283|3 Model Support changes in v2.1.283]]
-- Later: 2026-09-28 · Claude Code · [[Changes/Claude Code/2026-09-28-6-model-support-changes-in-v2-1-284|6 Model Support changes in v2.1.284]]
+- Later: 2026-09-25 · Lovable · [[Changes/Lovable/2026-09-25-gpt-6-sol-and-gpt-6-luna-for-your-app-s-ai-features|GPT-6 Sol and GPT-6 Luna for your app's AI features]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

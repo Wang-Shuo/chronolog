@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2751257c3c8ab1aa30825c8b5fe2a3bb4550d6d500b1002784e8e2d9bdf167fd
+machine_hash: 664fe499396bf4039d45cc48021b2f0631bfb2475739c4c446f14eeee213119c
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -53,12 +53,11 @@ record:
   title: 6 Memory and Personalization changes in rust-v0.107.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-26-claude-automatically-saves-useful-context-to-auto-memory-manage-with-memory|Claude
-  automatically saves useful context to auto-memory]]'
 - '[[Changes/Codex CLI/2026-02-26-3-memory-and-personalization-changes-in-rust-v0-106-0|3
   Memory and Personalization changes in rust-v0.106.0]]'
 - '[[Changes/Claude Code/2026-02-28-project-configs-auto-memory-now-shared-across-git-worktrees-of-the-same-reposito|Project
   configs & auto memory now shared across git worktrees of the same repository]]'
+- '[[Changes/Claude/2026-03-02-memory-for-free-users|Memory for free users]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-03-02-rust-v0-107-0-github-292187522-c29f3a8f|codex-cli-2026-03-02-rust-v0-107-0-github-292187522-c29f3a8f]]'
 source_type: github_releases
 theme: memory
@@ -110,7 +109,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.107.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2026-02-28 · Claude Code · [[Changes/Claude Code/2026-02-28-project-configs-auto-memory-now-shared-across-git-worktrees-of-the-same-reposito|Project configs & auto memory now shared across git worktrees of the same repository]]
+- Earlier: 2026-03-02 · Claude · [[Changes/Claude/2026-03-02-memory-for-free-users|Memory for free users]]
 - Later: 2026-03-05 · Codex CLI · [[Changes/Codex CLI/2026-03-05-5-memory-and-personalization-changes-in-rust-v0-110-0|5 Memory and Personalization changes in rust-v0.110.0]]
 <!-- chronolog:end -->
 

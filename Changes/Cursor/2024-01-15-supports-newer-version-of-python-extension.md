@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5be5a34f08b796597e0a868e4bbd9de829f329cb543cbeacf52445fe79c5ae45
+machine_hash: 762c01aea3a71a79e7c9864b1d129289582f591f654e8174312de1f0021f12f7
 product: cursor
 product_name: Cursor
 record:
@@ -42,12 +42,12 @@ record:
   title: Supports newer version of python extension
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-11-15-cursor-is-now-based-on-vs-code-1-84-2-notably-this-fixes-a-few-notebook-bugs-and|Cursor
-  is now based on VS Code 1.84.2]]'
 - '[[Changes/Cursor/2023-12-16-copilot-we-ve-continued-to-improve-the-copilot-ghost-text-experience-surprisingl|Copilot++:
   We''ve continued to improve the Copilot++ ghost text experience]]'
 - '[[Changes/ChatGPT/2024-01-10-the-store-features-a-diverse-range-of-gpts-developed-by-our-partners-and-the-com-71db32|Discover
   what’s trending in the GPT Store]]'
+- '[[Changes/Dify/2024-01-11-2-apps-and-integrations-changes-in-0-4-5|2 Apps and Integrations
+  changes in 0.4.5]]'
 source_release: '[[Releases/Cursor/cursor-2024-01-15-0-22-1-nightly-https-cursor-com-changelog-0-22-1-nightly-a39dbb5c|cursor-2024-01-15-0-22-1-nightly-https-cursor-com-changelog-0-22-1-nightly-a39dbb5c]]'
 source_type: cursor_changelog
 theme: apps-integrations
@@ -77,8 +77,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2024-01-10 · ChatGPT · [[Changes/ChatGPT/2024-01-10-the-store-features-a-diverse-range-of-gpts-developed-by-our-partners-and-the-com-71db32|Discover what’s trending in the GPT Store]]
-- Later: 2024-01-25 · Cursor · [[Changes/Cursor/2024-01-25-update-0-24-3-0-24-4-adds-ability-to-configure-openai-base-url-fixes-getcursor-c|UPDATE (0.24.3-0.24.4): Adds ability to configure OpenAI base URL, fixes…]]
+- Earlier: 2024-01-11 · Dify · [[Changes/Dify/2024-01-11-2-apps-and-integrations-changes-in-0-4-5|2 Apps and Integrations changes in 0.4.5]]
+- Later: 2024-01-24 · Dify · [[Changes/Dify/2024-01-24-5-apps-and-integrations-changes-in-0-5-0|5 Apps and Integrations changes in 0.5.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f16c9be010cf15a54a64d09d881879ec488a5d397f748912a3c28f034cd4d6f5
+machine_hash: e4c1364310eb4a64bffcdcbcbc74021c48949381cbf09e5650404abbe9dce502
 product: windsurf
 product_name: Windsurf
 record:
@@ -47,12 +47,12 @@ record:
     since…'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-15-35-apps-and-integrations-changes-in-rust-v0-140-0|35
-  Apps and Integrations changes in rust-v0.140.0]]'
-- '[[Changes/Claude Code/2026-06-16-improved-plugin-loading-performance-in-remote-sessions|Improved
-  plugin loading performance in remote sessions]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-16-2-apps-and-integrations-changes-in-v1-0-63|2
   Apps and Integrations changes in v1.0.63]]'
+- '[[Changes/Lovable/2026-06-16-app-connectors-chargebee-gatewayapi-lexware-pipedrive-prestashop-sevdesk-wave-wi|App
+  connectors: Chargebee, GatewayAPI, Lexware, Pipedrive, PrestaShop, Sevdesk…]]'
+- '[[Changes/Lovable/2026-06-16-reference-web-pages-in-a-build-with-url-link|Reference
+  web pages in a "Build with URL" link]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-06-16-v3-2-16-684ac1d4|windsurf-2026-06-16-v3-2-16-684ac1d4]]'
 source_type: windsurf_changelog
 theme: apps-integrations
@@ -85,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-06-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-16-2-apps-and-integrations-changes-in-v1-0-63|2 Apps and Integrations changes in v1.0.63]]
+- Earlier: 2026-06-16 · Lovable · [[Changes/Lovable/2026-06-16-reference-web-pages-in-a-build-with-url-link|Reference web pages in a "Build with URL" link]]
 - Later: 2026-06-17 · ChatGPT · [[Changes/ChatGPT/2026-06-17-monitoring-tasks-can-search-the-web-and-check-connected-apps-for-changes-and-not|Monitoring tasks can search the web and check connected apps for changes and notify…]]
 <!-- chronolog:end -->
 

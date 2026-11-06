@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: policy
-machine_hash: f000c58ad13be87f67cb356c40d59ef61f8f752a70a1d347830c1339d198bca8
+machine_hash: 2b034fc30405505536688b123604e373f259c23e3233adb7349b627b7cebac8c
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -90,10 +90,10 @@ record:
   title: Retiring Atlas
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-07-6-account-and-access-changes-in-v1-0-69|6
-  Account and Access changes in v1.0.69]]'
 - '[[Changes/Codex CLI/2026-07-08-5-account-and-access-changes-in-rust-v0-143-0|5
   Account and Access changes in rust-v0.143.0]]'
+- '[[Changes/Lovable/2026-07-08-configure-sso-just-in-time-provisioning-from-settings|Configure
+  SSO Just-in-Time provisioning from settings]]'
 - '[[Changes/OpenHands/2026-07-08-feat-track-user-login-timestamps-by-saurya-in-https-github-com-openhands-openhan|feat:
   track user login timestamps]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-07-09-retiring-atlas-c6a8b965|chatgpt-2026-07-09-retiring-atlas-c6a8b965]]'

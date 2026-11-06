@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c8fbd9642c8eba99ee0f84bfbe1d5157ba8abee4ed394cb96bbb05c055eb9e87
+machine_hash: 9735853c301b2a0dda0b3f5b5ee100a24b3ff37140cd013b73cce7bbe4bc52d7
 product: cline
 product_name: Cline
 record:
@@ -44,10 +44,10 @@ record:
   title: 2 Apps and Integrations changes in v4.1.17
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-01-2-apps-and-integrations-changes-in-v2-1-257|2
-  Apps and Integrations changes in v2.1.257]]'
 - '[[Changes/Codex CLI/2026-09-01-16-apps-and-integrations-changes-in-rust-v0-152-0|16
   Apps and Integrations changes in rust-v0.152.0]]'
+- '[[Changes/Lovable/2026-09-01-connect-a-tool-from-a-pasted-api-key|Connect a tool
+  from a pasted API key]]'
 - '[[Changes/Claude Code/2026-09-02-5-apps-and-integrations-changes-in-v2-1-259|5
   Apps and Integrations changes in v2.1.259]]'
 source_release: '[[Releases/Cline/cline-2026-09-02-v4-1-17-github-381000681-694bbda2|cline-2026-09-02-v4-1-17-github-381000681-694bbda2]]'

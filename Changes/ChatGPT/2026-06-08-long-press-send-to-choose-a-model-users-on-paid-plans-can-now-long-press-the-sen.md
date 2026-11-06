@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: c5cfe5e3f71b37919b4ea6a8c8a9b91f5d6443875d871f6606f7bbb6ac032486
+machine_hash: 27cc3362667d68cfc8f59dd9236ec290a8dde809147ee127378e0d58636e0355
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -47,12 +47,12 @@ record:
   title: Long-press send to choose a model
   type: change
 related_changes:
-- '[[Changes/Cline/2026-06-05-3-model-support-changes-in-v3-88-0|3 Model Support changes
-  in v3.88.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-05-2-model-support-changes-in-v1-0-60|2 Model
   Support changes in v1.0.60]]'
 - '[[Changes/Claude Code/2026-06-06-3-model-support-changes-in-v2-1-166|3 Model Support
   changes in v2.1.166]]'
+- '[[Changes/Ollama/2026-06-07-openai-compatible-api-models-list-now-aligns-with-available-model-tags|OpenAI-compatible
+  API models list now aligns with available model tags]]'
 scope: iOS
 source_release: '[[Releases/ChatGPT/chatgpt-2026-06-08-chatgpt-app-experience-updates-d15f55c5|chatgpt-2026-06-08-chatgpt-app-experience-updates-d15f55c5]]'
 source_type: chatgpt_changelog
@@ -90,7 +90,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-06-06 · Claude Code · [[Changes/Claude Code/2026-06-06-3-model-support-changes-in-v2-1-166|3 Model Support changes in v2.1.166]]
+- Earlier: 2026-06-07 · Ollama · [[Changes/Ollama/2026-06-07-openai-compatible-api-models-list-now-aligns-with-available-model-tags|OpenAI-compatible API models list now aligns with available model tags]]
 - Later: 2026-06-08 · Claude Code · [[Changes/Claude Code/2026-06-08-added-a-disablebundledskills-setting-and-claude-code-disable-bundled-skills-envi|Added a disableBundledSkills setting and CLAUDE_CODE_DISABLE_BUNDLED_SKILLS…]]
 <!-- chronolog:end -->
 

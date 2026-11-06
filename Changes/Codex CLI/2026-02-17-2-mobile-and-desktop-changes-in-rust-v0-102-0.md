@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e0dd58ee2a34f706b4ef77a2b323c2e2049a5686f612ba49c50b9dd600de98c8
+machine_hash: 175cdf7537d4b3572c8b782874c04c6497b864e8acaf0cee9ec8194cb048b996
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,10 +42,10 @@ record:
   title: 2 Mobile and Desktop changes in rust-v0.102.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-02-11-4-mobile-and-desktop-changes-in-rust-v0-99-0|4 Mobile
-  and Desktop changes in rust-v0.99.0]]'
-- '[[Changes/Codex CLI/2026-02-12-4-mobile-and-desktop-changes-in-rust-v0-100-0|4
-  Mobile and Desktop changes in rust-v0.100.0]]'
+- '[[Changes/Ollama/2026-02-12-installing-ollama-via-the-curl-install-script-on-macos-will-now-only-prompt-for|Installing
+  Ollama via the curl install script on macOS will now only prompt…]]'
+- "[[Changes/Open WebUI/2026-02-12-gboard-multi-line-paste-fix-multi-line-text-pasted-from-gboard-on-android-now-in|\U0001F4F1
+  Gboard multi-line paste fix. Multi-line text pasted from Gboard on Android now…]]"
 - '[[Changes/Claude Code/2026-02-13-added-windows-arm64-win32-arm64-native-binary-support|Added
   Windows ARM64 (win32-arm64) native binary support]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-02-17-rust-v0-102-0-github-287401154-1bf3dbd0|codex-cli-2026-02-17-rust-v0-102-0-github-287401154-1bf3dbd0]]'

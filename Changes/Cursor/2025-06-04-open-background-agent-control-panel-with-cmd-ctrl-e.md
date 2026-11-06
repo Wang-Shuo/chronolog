@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: da5f88b283f0dae4ac117652d7acaf8ac4fcf639c32874065ba49aff61cd78a5
+machine_hash: 01eac6997891d57a12013ef7e9a747f4ad9565b5aee9bae12f30fd5216a2399e
 product: cursor
 product_name: Cursor
 record:
@@ -43,11 +43,10 @@ record:
   title: Open Background Agent control panel with Cmd/Ctrl+E
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-05-15-fast-edits-for-long-files-with-agent|Fast edits for
-  long files with Agent]]'
-- '[[Changes/Cursor/2025-05-15-background-agent-preview|Background Agent (Preview)]]'
-- '[[Changes/OpenHands/2025-05-20-2-agent-mode-changes-in-0-39-0|2 Agent Mode changes
-  in 0.39.0]]'
+- '[[Changes/Replit/2025-05-30-preview-empty-state-improvements|Preview empty state
+  improvements]]'
+- '[[Changes/ElevenLabs/2025-06-01-agents-platform|Agents Platform]]'
+- '[[Changes/ElevenLabs/2025-06-01-agents-platform-dedb85|Agents Platform]]'
 source_release: '[[Releases/Cursor/cursor-2025-06-04-1-0-https-cursor-com-changelog-1-0-237767ca|cursor-2025-06-04-1-0-https-cursor-com-changelog-1-0-237767ca]]'
 source_type: cursor_changelog
 theme: agent-mode
@@ -89,8 +88,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2025-05-20 · OpenHands · [[Changes/OpenHands/2025-05-20-2-agent-mode-changes-in-0-39-0|2 Agent Mode changes in 0.39.0]]
-- Later: 2025-06-10 · OpenHands · [[Changes/OpenHands/2025-06-10-ensured-prs-opened-by-agent-is-properly-tracked-in-conversation-metadata-by-malh|Ensured PRs opened by agent is properly tracked in conversation metadata]]
+- Earlier: 2025-06-01 · ElevenLabs · [[Changes/ElevenLabs/2025-06-01-agents-platform-dedb85|Agents Platform]]
+- Later: 2025-06-06 · Replit · [[Changes/Replit/2025-06-06-new-agent-entrypoints-in-workspace|New Agent entrypoints in workspace]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ea5d5b29c5ed57432e905d5a27cd35b732a7347c3331a3675a54dca4a43c70fa
+machine_hash: 4d64fa3b6f8fb7d34424a967a90b94f2366d49a5952faeb4f2e48c9e2641e6c0
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,12 +47,12 @@ record:
   title: '[VSCode] Added Focus view'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-07-29-8-interface-experience-changes-in-rust-v0-146-0|8
-  Interface Experience changes in rust-v0.146.0]]'
-- '[[Changes/GitHub Copilot CLI/2026-07-30-4-interface-experience-changes-in-v1-0-76|4
-  Interface Experience changes in v1.0.76]]'
+- '[[Changes/v0/2026-07-31-3-interface-experience-changes-in-claude-opus-5-direct-figma-inspection|3
+  Interface Experience changes in Claude Opus 5, direct Figma inspection…]]'
 - '[[Changes/GitHub Copilot CLI/2026-08-03-2-interface-experience-changes-in-v1-0-78|2
   Interface Experience changes in v1.0.78]]'
+- '[[Changes/Lovable/2026-08-03-revise-a-plan-by-highlighting-the-part-you-want-changed|Revise
+  a plan by highlighting the part you want changed]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-04-v2-1-221-github-364520051-d6a656ce|claude-code-2026-08-04-v2-1-221-github-364520051-d6a656ce]]'
 source_type: github_releases
 theme: interface-experience
@@ -88,7 +88,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-08-03 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-08-03-2-interface-experience-changes-in-v1-0-78|2 Interface Experience changes in v1.0.78]]
+- Earlier: 2026-08-03 · Lovable · [[Changes/Lovable/2026-08-03-revise-a-plan-by-highlighting-the-part-you-want-changed|Revise a plan by highlighting the part you want changed]]
 - Later: 2026-08-05 · Cline · [[Changes/Cline/2026-08-05-3-interface-experience-changes-in-v4-1-4|3 Interface Experience changes in v4.1.4]]
 <!-- chronolog:end -->
 

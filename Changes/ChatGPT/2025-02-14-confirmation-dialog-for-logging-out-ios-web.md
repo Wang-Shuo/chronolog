@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9a879149d5052125fbefb9d9ad4ace3e6001757c37c176ad3228399244a117b5
+machine_hash: b9d5cf95ec2a57c63f237eaf1210ea5aa76b31c1b66ec2879b0ae597975c4ed1
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,12 +41,11 @@ record:
   title: Confirmation dialog for logging out (iOS, web)
   type: change
 related_changes:
-- '[[Changes/OpenHands/2024-12-12-make-layout-responsive-for-mobile-devices-by-tofarr-in-https-github-com-all-hand|Make
-  layout responsive for mobile devices]]'
-- '[[Changes/Aider/2024-12-26-improved-environment-variable-setup-messages-on-windows|Improved
-  environment variable setup messages on Windows]]'
-- '[[Changes/ChatGPT/2025-01-17-we-ve-updated-custom-instructions-to-make-it-easier-to-customize-how-chatgpt-res-e42760|More
-  personalization in Custom Instructions]]'
+- "[[Changes/Open WebUI/2025-01-22-desktop-app-preparations-ongoing-work-to-support-the-upcoming-open-webui-desktop|\U0001F5A5️
+  Desktop App Preparations]]"
+- '[[Changes/Ollama/2025-02-05-new-ollama-darwin-tgz-package-for-macos-that-replaces-the-previous-ollama-darwin|New
+  ollama-darwin.tgz package for macOS that replaces the previous ollama-darwin…]]'
+- '[[Changes/Replit/2025-02-07-replit-mobile|Replit Mobile]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-02-14-set-chatgpt-as-default-search-engine-in-safari-11ec014b|chatgpt-2025-02-14-set-chatgpt-as-default-search-engine-in-safari-11ec014b]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
@@ -79,8 +78,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2025-01-17 · ChatGPT · [[Changes/ChatGPT/2025-01-17-we-ve-updated-custom-instructions-to-make-it-easier-to-customize-how-chatgpt-res-e42760|More personalization in Custom Instructions]]
-- Later: 2025-02-21 · ChatGPT · [[Changes/ChatGPT/2025-02-21-ios-widget-see-below|iOS widget (see below)]]
+- Earlier: 2025-02-07 · Replit · [[Changes/Replit/2025-02-07-replit-mobile|Replit Mobile]]
+- Later: 2025-02-14 · Replit · [[Changes/Replit/2025-02-14-mobile-development|Mobile development]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

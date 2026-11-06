@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d94fa082e33ac48d6f4c6efdaa70736613a7ab55d35ea159df3b800cad650c5e
+machine_hash: ac6b5b57dda08be02ddddb3d33e26170e709998419bd8f94c62980d9d4dad33e
 product: cline
 product_name: Cline
 record:
@@ -45,12 +45,12 @@ record:
     to make…
   type: change
 related_changes:
-- '[[Changes/Cline/2025-12-02-view-remote-rules-and-workflows-in-the-editor-by-celestial-vault-in-https-github|View
-  remote rules and workflows in the editor]]'
 - '[[Changes/Codex CLI/2025-12-02-3-editor-experience-changes-in-rust-v0-64-0|3 Editor
   Experience changes in rust-v0.64.0]]'
 - '[[Changes/Gemini CLI/2025-12-02-restore-bracketed-paste-mode-after-external-editor-exit-by-scidomino-in-https-gi|Restore
   bracketed paste mode after external editor exit]]'
+- "[[Changes/Open WebUI/2025-12-02-the-model-editor-interface-was-refined-with-access-control-settings-moved-to-a-d|\U0001F3A8
+  The model editor interface was refined with access control settings moved…]]"
 source_release: '[[Releases/Cline/cline-2025-12-04-v3-40-0-github-267309290-aef9a8dc|cline-2025-12-04-v3-40-0-github-267309290-aef9a8dc]]'
 source_type: github_releases
 theme: editor-experience
@@ -84,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2025-12-02 · Gemini CLI · [[Changes/Gemini CLI/2025-12-02-restore-bracketed-paste-mode-after-external-editor-exit-by-scidomino-in-https-gi|Restore bracketed paste mode after external editor exit]]
+- Earlier: 2025-12-02 · Open WebUI · [[Changes/Open WebUI/2025-12-02-the-model-editor-interface-was-refined-with-access-control-settings-moved-to-a-d|🎨 The model editor interface was refined with access control settings moved…]]
 - Later: 2025-12-09 · Codex CLI · [[Changes/Codex CLI/2025-12-09-3-editor-experience-changes-in-rust-v0-66-0|3 Editor Experience changes in rust-v0.66.0]]
 <!-- chronolog:end -->
 

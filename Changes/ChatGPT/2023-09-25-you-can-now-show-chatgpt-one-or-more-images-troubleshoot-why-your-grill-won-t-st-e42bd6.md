@@ -5,20 +5,20 @@ description: 'ChatGPT · 2023-09-25 · Multimodal Input: You can now show ChatGP
   or more images. Troubleshoot why your grill won’t start, explore the contents of
   your…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-09-25-you-can-now-show-chatgpt-one-or-more-images-troubleshoot-why-your-grill-won-t-st-e42bd6|Image
-    input will be generally available to Plus users on all platforms]]'
+  first_in_tracked: '[[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add
+    video to cn readme]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 0
+  lag_days: 6
   relation: same-theme-chronology
-  role: first-observed
+  role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 72f3152d01103085dd592df6499b2b5fba7972dd8dafad62603f0d3ff2878385
+machine_hash: b46498b10f4a2f6f3884875b9b46877ae737b4a42ae78010c8f2cdd72c1b271b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -50,6 +50,9 @@ record:
   theme: multimodal
   title: Image input will be generally available to Plus users on all platforms
   type: change
+related_changes:
+- '[[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add
+  video to cn readme]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2023-09-25-new-voice-and-image-capabilities-in-chatgpt-e8c88ec7|chatgpt-2023-09-25-new-voice-and-image-capabilities-in-chatgpt-e8c88ec7]]'
 source_type: chatgpt_changelog
 theme: multimodal
@@ -79,13 +82,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Multimodal Input
 
-- Later: 2023-11-27 · Cursor · [[Changes/Cursor/2023-11-27-image-support-in-chat-you-can-now-drag-and-drop-images-into-the-chat-to-send-the|Image Support in Chat]]
+- Earlier: 2023-09-19 · Dify · [[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add video to cn readme]]
+- Later: 2023-11-13 · Dify · [[Changes/Dify/2023-11-13-2-multimodal-input-changes-in-0-3-30|2 Multimodal Input changes in 0.3.30]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry among the 10 tracked products.
+- Earliest same-theme entry in the tracked set: 2023-09-19 · Dify · [[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add video to cn readme]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2754d0d82558745e467ef76de0d94ab0739a5108cb13683d6859c6bff694db95
+machine_hash: 8195ae02c736a25c112318e50b1e4dba589bd8e1d9df433a534b9de400311596
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -79,7 +79,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-02-20 · Claude Code · [[Changes/Claude Code/2026-02-20-3-reliability-and-performance-changes-in-v2-1-50|3 Reliability and Performance changes in v2.1.50]]
-- Later: 2026-02-24 · Cline · [[Changes/Cline/2026-02-24-preconnect-websocket-to-reduce-response-latency|Preconnect websocket to reduce response latency]]
+- Later: 2026-02-21 · Ollama · [[Changes/Ollama/2026-02-21-improved-tokenizer-performance|Improved tokenizer performance]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

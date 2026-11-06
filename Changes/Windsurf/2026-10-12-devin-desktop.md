@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: b9793425643f070aa0b5729ee68f0c2750df73fc8f52f0d3fbe6e98c9fc5abde
+machine_hash: 150be1d942801d37b62c5ce845dd1a932f766f4d6926f717647ff8a89557a10c
 product: windsurf
 product_name: Windsurf
 record:
@@ -59,12 +59,12 @@ record:
   title: Devin Desktop
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-10-06-to-stop-your-computer-from-sleeping-while-you-re-away-turn-on-keep-this-computer|Keep
-  your computer awake]]'
-- '[[Changes/Claude Code/2026-10-08-changed-the-claude-apps-gateway-to-start-with-a-warning-and-serve-a-desktop-poli|Changed
-  the Claude apps gateway to start with a warning and serve a desktop policy…]]'
 - '[[Changes/Codex CLI/2026-10-08-50384-allow-opting-into-16-kib-arm64-code-pages-for-macos-signing-chess-oai|♯50384
   Allow opting into 16 KiB ARM64 code pages for macOS signing @chess-oai]]'
+- '[[Changes/Replit/2026-10-09-replit-desktop-windows-preview-with-microsoft-and-nvidia|Replit
+  Desktop Windows preview with Microsoft and NVIDIA]]'
+- '[[Changes/Open WebUI/2026-10-10-3-mobile-and-desktop-changes-in-v0-12-0|3 Mobile
+  and Desktop changes in v0.12.0]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-10-12-v3-10-67-8e3705b7|windsurf-2026-10-12-v3-10-67-8e3705b7]]'
 source_type: windsurf_changelog
 theme: mobile-desktop
@@ -101,8 +101,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-10-08 · Codex CLI · [[Changes/Codex CLI/2026-10-08-50384-allow-opting-into-16-kib-arm64-code-pages-for-macos-signing-chess-oai|♯50384 Allow opting into 16 KiB ARM64 code pages for macOS signing @chess-oai]]
-- Later: 2026-10-14 · Claude Code · [[Changes/Claude Code/2026-10-14-2-mobile-and-desktop-changes-in-v2-1-300|2 Mobile and Desktop changes in v2.1.300]]
+- Earlier: 2026-10-10 · Open WebUI · [[Changes/Open WebUI/2026-10-10-3-mobile-and-desktop-changes-in-v0-12-0|3 Mobile and Desktop changes in v0.12.0]]
+- Later: 2026-10-13 · Gemini · [[Changes/Gemini/2026-10-13-code-prototype-and-build-with-google-antigravity-in-the-gemini-macos-app|Code, prototype, and build with Google Antigravity in the Gemini macOS app]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

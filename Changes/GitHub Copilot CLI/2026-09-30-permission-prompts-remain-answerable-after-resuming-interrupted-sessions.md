@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 621805a2ca0f08e0dea72d6f8d773881babdbb9334c363c29a8a99cc1b2394b9
+machine_hash: 54163b97001d6474f5904c366806eea69c1b15c820368e26bef9e75214c7111f
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -86,7 +86,7 @@ type: change
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-09-30 · Codex CLI · [[Changes/Codex CLI/2026-09-30-2-safety-and-privacy-changes-in-rust-v0-159-3|2 Safety and Privacy changes in rust-v0.159.3]]
-- Later: 2026-10-01 · Claude Code · [[Changes/Claude Code/2026-10-01-6-safety-and-privacy-changes-in-v2-1-287|6 Safety and Privacy changes in v2.1.287]]
+- Later: 2026-09-30 · Lovable · [[Changes/Lovable/2026-09-30-rotate-your-cloud-database-password-from-chat|Rotate your Cloud database password from chat]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9bdfbd6cd6ade09b1c8e5be1ed22b5fdcecdfd85cb7caba26a9c34ee9678d944
+machine_hash: 8740566c7057eb05ae72d90a70ee2ea8aa29008f845b11c30ccc53ac3f015737
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,12 @@ record:
   title: Improved `claude agents` completed list to fill available vertical space
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-23-6-agent-mode-changes-in-v1-0-64|6 Agent
-  Mode changes in v1.0.64]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-24-4-agent-mode-changes-in-v1-0-65|4 Agent
   Mode changes in v1.0.65]]'
 - '[[Changes/Claude Code/2026-06-25-3-agent-mode-changes-in-v2-1-193|3 Agent Mode
   changes in v2.1.193]]'
+- '[[Changes/Dify/2026-06-25-38-agent-mode-changes-in-1-15-0|38 Agent Mode changes
+  in 1.15.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-26-v2-1-195-github-345467919-2d39e460|claude-code-2026-06-26-v2-1-195-github-345467919-2d39e460]]'
 source_type: github_releases
 theme: agent-mode
@@ -81,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-06-25 · Claude Code · [[Changes/Claude Code/2026-06-25-3-agent-mode-changes-in-v2-1-193|3 Agent Mode changes in v2.1.193]]
+- Earlier: 2026-06-25 · Dify · [[Changes/Dify/2026-06-25-38-agent-mode-changes-in-1-15-0|38 Agent Mode changes in 1.15.0]]
 - Later: 2026-06-26 · Cline · [[Changes/Cline/2026-06-26-temporarily-disable-subagents-in-the-vs-code-extension-while-the-sdk-backed-expe|Temporarily disable subagents in the VS Code extension while the SDK-backed…]]
 <!-- chronolog:end -->
 

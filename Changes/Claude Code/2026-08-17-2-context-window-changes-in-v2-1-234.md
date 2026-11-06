@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1ae6d5e77b2d90b84b4b26849f38720399eaaa84491ed35ad043d27cd8504329
+machine_hash: 4e815c9c9733df41b227c10a344c2cf28b36ccfc96cbc739807e751b9c5f1755
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
   title: 2 Context Window changes in v2.1.234
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-12-improved-prompt-is-too-long-errors-to-explain-why-automatic-compaction-could-not|Improved
-  "prompt is too long" errors to explain why automatic compaction could not…]]'
 - '[[Changes/OpenHands/2026-08-13-feat-context-window-usage-meter-usage-drawer-and-manual-compaction-by-georgeglar|feat:
   context window usage meter, usage drawer, and manual compaction]]'
 - '[[Changes/Claude Code/2026-08-14-improved-apps-gateway-error-forwarding-400-413-errors-from-vertex-foundry-and-cl|Improved
   apps gateway error forwarding]]'
+- '[[Changes/v0/2026-08-14-redesigned-the-sidebar-resize-it-to-a-width-that-persists-across-sessions-chats|Redesigned
+  the sidebar]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-17-v2-1-234-github-371864218-2ca32673|claude-code-2026-08-17-v2-1-234-github-371864218-2ca32673]]'
 source_type: github_releases
 theme: context-window
@@ -91,8 +91,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.234
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-08-14 · Claude Code · [[Changes/Claude Code/2026-08-14-improved-apps-gateway-error-forwarding-400-413-errors-from-vertex-foundry-and-cl|Improved apps gateway error forwarding]]
-- Later: 2026-08-18 · Claude Code · [[Changes/Claude Code/2026-08-18-improved-the-context-limit-error-to-say-when-auto-compact-is-off-and-point-to-co|Improved the context-limit error to say when auto-compact is off and point…]]
+- Earlier: 2026-08-14 · v0 · [[Changes/v0/2026-08-14-redesigned-the-sidebar-resize-it-to-a-width-that-persists-across-sessions-chats|Redesigned the sidebar]]
+- Later: 2026-08-17 · Lovable · [[Changes/Lovable/2026-08-17-improved-validation-for-attachment-uploads|Improved validation for attachment uploads]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: dbc2f8e3bf9ba09cbd4074113405a348d9ff44b2dcb52c12f04325281d7cb33d
+machine_hash: 0462bbf569997add953c2737f0aafc034166ee40e228548de7534ed4bd4dbca2
 product: windsurf
 product_name: Windsurf
 record:
@@ -42,12 +42,12 @@ record:
   title: Addressed multiple memory leaks
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-03-improved-memory-usage-for-resume-68-reduction-for-users-with-many-sessions-by-re|Improved
-  memory usage for --resume (68% reduction for users with many sessions)…]]'
-- '[[Changes/Windsurf/2026-02-05-various-bug-fixes-and-performance-improvements|Various
-  bug fixes and performance improvements]]'
+- '[[Changes/Dify/2026-02-11-3-reliability-and-performance-changes-in-1-13-0|3 Reliability
+  and Performance changes in 1.13.0]]'
 - '[[Changes/Codex CLI/2026-02-12-improved-websocket-session-stability-by-continuing-ping-handling-when-idle-and-s|Improved
   websocket session stability by continuing ping handling when idle…]]'
+- '[[Changes/Open WebUI/2026-02-12-16-reliability-and-performance-changes-in-v0-8-0|16
+  Reliability and Performance changes in v0.8.0]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-02-12-v1-9552-21-a7b8c5ab|windsurf-2026-02-12-v1-9552-21-a7b8c5ab]]'
 source_type: windsurf_changelog
 theme: reliability-performance
@@ -77,7 +77,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-02-12 · Codex CLI · [[Changes/Codex CLI/2026-02-12-improved-websocket-session-stability-by-continuing-ping-handling-when-idle-and-s|Improved websocket session stability by continuing ping handling when idle…]]
+- Earlier: 2026-02-12 · Open WebUI · [[Changes/Open WebUI/2026-02-12-16-reliability-and-performance-changes-in-v0-8-0|16 Reliability and Performance changes in v0.8.0]]
 - Later: 2026-02-13 · ChatGPT · [[Changes/ChatGPT/2026-02-13-performance-improvements-we-ve-made-multiple-performance-enhancements-to-improve|Performance improvements]]
 <!-- chronolog:end -->
 

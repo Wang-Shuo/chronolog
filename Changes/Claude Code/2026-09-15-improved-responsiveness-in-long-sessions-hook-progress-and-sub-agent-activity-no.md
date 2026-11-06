@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 7a9e3269e78f643d85cbed5a3bf70cb3cb0db983a9b9209ad94a76c333e13b2c
+machine_hash: f4c13333a826bb70331f498bc5f619806939772ed9e79b2d49f2d2ab775c0a60
 product: claude-code
 product_name: Claude Code
 record:
@@ -55,12 +55,12 @@ record:
   title: Improved responsiveness in long sessions
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-10-2-reliability-and-performance-changes-in-v2-1-268|2
-  Reliability and Performance changes in v2.1.268]]'
 - '[[Changes/Claude Code/2026-09-11-improved-responsiveness-in-long-sessions-transcript-updates-no-longer-re-process|Improved
   responsiveness in long sessions]]'
 - '[[Changes/Claude Code/2026-09-14-improved-terminal-rendering-performance-large-diffs-and-long-transcripts-render|Improved
   terminal rendering performance]]'
+- '[[Changes/Ollama/2026-09-14-2-reliability-and-performance-changes-in-v0-34-1|2
+  Reliability and Performance changes in v0.34.1]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-15-v2-1-273-github-389362239-6ea37826|claude-code-2026-09-15-v2-1-273-github-389362239-6ea37826]]'
 source_type: github_releases
 theme: reliability-performance
@@ -100,7 +100,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-09-14 · Claude Code · [[Changes/Claude Code/2026-09-14-improved-terminal-rendering-performance-large-diffs-and-long-transcripts-render|Improved terminal rendering performance]]
+- Earlier: 2026-09-14 · Ollama · [[Changes/Ollama/2026-09-14-2-reliability-and-performance-changes-in-v0-34-1|2 Reliability and Performance changes in v0.34.1]]
 - Later: 2026-09-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-16-speed-up-startup-when-resuming-an-existing-local-session-by-its-exact-uuid-with|Speed up startup when resuming an existing local session by its exact UUID with --resume]]
 <!-- chronolog:end -->
 

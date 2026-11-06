@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5f561cd0d516961b28bb98cd1dff3cfeaa6cb5f8ec5e1ef9c3127c7d9fba68b1
+machine_hash: 8b68729795e9100bf8acffe443c2d66ac08317d042cbdea7692541c4a8056798
 product: openhands
 product_name: OpenHands
 record:
@@ -43,11 +43,11 @@ record:
   title: 2 Apps and Integrations changes in 0.38.0
   type: change
 related_changes:
-- '[[Changes/Cline/2025-04-25-add-download-counts-to-mcp-marketplace-items|Add download
-  counts to MCP marketplace items]]'
-- '[[Changes/Cline/2025-05-03-refactor-message-handling-to-not-show-the-mcp-view-of-the-server-modal|Refactor
-  message handling to not show the MCP View of the server modal]]'
-- '[[Changes/Windsurf/2025-05-07-cascade-plugins|Cascade Plugins]]'
+- '[[Changes/Replit/2025-05-09-notion-integration|Notion integration]]'
+- "[[Changes/Open WebUI/2025-05-10-external-reranker-support-for-knowledge-base-search-supercharge-your-retrieval-a|\U0001F3C6
+  External Reranker Support for Knowledge Base Search]]"
+- "[[Changes/Open WebUI/2025-05-10-external-reranker-integration-functionality-restored-external-reranker-integrati|\U0001F916
+  External Reranker Integration Functionality Restored]]"
 source_release: '[[Releases/OpenHands/openhands-2025-05-12-0-38-0-github-218087330-c64d64fd|openhands-2025-05-12-0-38-0-github-218087330-c64d64fd]]'
 source_type: github_releases
 theme: apps-integrations
@@ -84,7 +84,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/0.38.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-05-07 · Windsurf · [[Changes/Windsurf/2025-05-07-cascade-plugins|Cascade Plugins]]
+- Earlier: 2025-05-10 · Open WebUI · [[Changes/Open WebUI/2025-05-10-external-reranker-integration-functionality-restored-external-reranker-integrati|🤖 External Reranker Integration Functionality Restored]]
 - Later: 2025-05-15 · ChatGPT · [[Changes/ChatGPT/2025-05-15-the-github-connector-is-now-available-globally-to-plus-pro-team-users-including|GitHub connector for deep research]]
 <!-- chronolog:end -->
 

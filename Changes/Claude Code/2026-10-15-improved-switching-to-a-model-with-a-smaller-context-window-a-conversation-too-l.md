@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: e06b27f0d21db5db3783f22e638da0893ad093eab72aa24bcd7077cc468cbc76
+machine_hash: 51229b973119ed6fe4c28ea01fb22e823d1d5627409e29eec73ba442ba060c6e
 product: claude-code
 product_name: Claude Code
 record:
@@ -56,12 +56,12 @@ record:
   title: Improved switching to a model with a smaller context window
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-14-added-cache-creation-5m-tokens-and-cache-creation-1h-tokens-to-the-opentelemetry|Added
-  cache_creation_5m_tokens and cache_creation_1h_tokens to the OpenTelemetry…]]'
-- '[[Changes/Claude Code/2026-10-14-2-context-window-changes-in-v2-1-299|2 Context
-  Window changes in v2.1.299]]'
-- '[[Changes/Claude Code/2026-10-14-added-usage-warnings-for-max-effort-workflows-always-on-context-and-large-tool-r|Added
-  /usage warnings for max effort, workflows, always-on context and large tool…]]'
+- '[[Changes/Ollama/2026-10-14-nvidia-nemotron-3-5-super-https-ollama-com-library-nemotron-3-5-super-is-a-visio|NVIDIA
+  Nemotron 3.5 Super((source link)]]'
+- '[[Changes/Open WebUI/2026-10-14-2-context-window-changes-in-v0-12-1|2 Context Window
+  changes in v0.12.1]]'
+- "[[Changes/Open WebUI/2026-10-14-per-chat-terminal-file-actions-with-the-open-terminal-chat-context-set-to-per-ch|\U0001F5A5️
+  Per chat terminal file actions. With the Open Terminal chat context set…]]"
 source_release: '[[Releases/Claude Code/claude-code-2026-10-15-v2-1-301-github-413913133-a3fb5b4e|claude-code-2026-10-15-v2-1-301-github-413913133-a3fb5b4e]]'
 source_type: github_releases
 theme: context-window
@@ -94,7 +94,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-10-14 · Claude Code · [[Changes/Claude Code/2026-10-14-added-usage-warnings-for-max-effort-workflows-always-on-context-and-large-tool-r|Added /usage warnings for max effort, workflows, always-on context and large tool…]]
+- Earlier: 2026-10-14 · Open WebUI · [[Changes/Open WebUI/2026-10-14-per-chat-terminal-file-actions-with-the-open-terminal-chat-context-set-to-per-ch|🖥️ Per chat terminal file actions. With the Open Terminal chat context set…]]
 - Later: 2026-10-15 · Codex CLI · [[Changes/Codex CLI/2026-10-15-16-context-window-changes-in-rust-v0-163-0|16 Context Window changes in rust-v0.163.0]]
 <!-- chronolog:end -->
 

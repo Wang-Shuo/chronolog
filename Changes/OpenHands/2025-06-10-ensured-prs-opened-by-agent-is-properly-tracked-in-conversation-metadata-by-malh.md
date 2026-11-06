@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 698030e84eddd179e2c3031e608afa40b0eef6b753610c75ea9a76506cde8f4c
+machine_hash: 6c65a2d1f1bce3f0c94f057bd2992b24dd102d84a2ea4c182f4a01eb9c4b81e5
 product: openhands
 product_name: OpenHands
 record:
@@ -44,11 +44,9 @@ record:
   title: Ensured PRs opened by agent is properly tracked in conversation metadata
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-06-04-agent-in-jupyter-notebooks|Agent in Jupyter Notebooks]]'
-- '[[Changes/Cursor/2025-06-04-background-agent-for-everyone-8b35dc|Background Agent
-  for everyone]]'
-- '[[Changes/Cursor/2025-06-04-this-release-brings-bugbot-for-code-review-a-first-look-at-memories-one-click-mc|Cursor
-  brings Bugbot for code review, a first look at memories, one-click MCP setup…]]'
+- '[[Changes/ElevenLabs/2025-06-08-agents-platform|Agents Platform]]'
+- '[[Changes/ElevenLabs/2025-06-08-agents-platform-5c0653|Agents Platform]]'
+- '[[Changes/ElevenLabs/2025-06-08-agents-platform-ce4a03|Agents Platform]]'
 source_release: '[[Releases/OpenHands/openhands-2025-06-10-0-42-0-github-224437594-6a2ec2b8|openhands-2025-06-10-0-42-0-github-224437594-6a2ec2b8]]'
 source_type: github_releases
 theme: agent-mode
@@ -79,8 +77,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2025-06-04 · Cursor · [[Changes/Cursor/2025-06-04-this-release-brings-bugbot-for-code-review-a-first-look-at-memories-one-click-mc|Cursor brings Bugbot for code review, a first look at memories, one-click MCP setup…]]
-- Later: 2025-06-12 · Cursor · [[Changes/Cursor/2025-06-12-you-can-now-launch-background-agents-directly-from-slack-by-mentioning-cursor-ag|Launch Background Agents directly from Slack by mentioning @Cursor]]
+- Earlier: 2025-06-08 · ElevenLabs · [[Changes/ElevenLabs/2025-06-08-agents-platform-ce4a03|Agents Platform]]
+- Later: 2025-06-11 · Dify · [[Changes/Dify/2025-06-11-4-agent-mode-changes-in-1-4-2|4 Agent Mode changes in 1.4.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

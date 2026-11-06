@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 11a76c048940322774eac41993c8ccd887f22c278d7cae391cc46cd1058e7c9a
+machine_hash: 23e8339cd20ec131dacd0581606163c6889bf503468cb7695f2decef9ffaa458
 product: windsurf
 product_name: Windsurf
 record:
@@ -42,12 +42,11 @@ record:
   title: A dropped connection during sign-in no longer signs you out
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-23-the-amazon-bedrock-setup-wizard-is-now-enabled-by-default-with-api-key-entry-gro|The
-  Amazon Bedrock setup wizard is now enabled by default, with API key entry…]]'
-- '[[Changes/Windsurf/2026-10-24-a-saved-sign-in-keeps-working-after-updating-on-machines-where-the-editor-s-own|A
-  saved sign-in keeps working after updating on machines where the editor''s own…]]'
 - '[[Changes/Claude Code/2026-10-26-improved-the-message-shown-when-a-pasted-sign-in-code-is-refused-it-now-says-the|Improved
   the message shown when a pasted sign-in code is refused]]'
+- '[[Changes/ElevenLabs/2026-10-26-elevenlabs-cli|ElevenLabs CLI]]'
+- '[[Changes/ElevenLabs/2026-10-26-oauth-scope-oauth-clients-can-request-the-realtime-translation-scope|OAuth
+  scope: OAuth clients can request the realtime_translation scope]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-10-26-v3-11-228-40b60cc1|windsurf-2026-10-26-v3-11-228-40b60cc1]]'
 source_type: windsurf_changelog
 theme: account-access
@@ -80,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-10-26 · Claude Code · [[Changes/Claude Code/2026-10-26-improved-the-message-shown-when-a-pasted-sign-in-code-is-refused-it-now-says-the|Improved the message shown when a pasted sign-in code is refused]]
+- Earlier: 2026-10-26 · ElevenLabs · [[Changes/ElevenLabs/2026-10-26-oauth-scope-oauth-clients-can-request-the-realtime-translation-scope|OAuth scope: OAuth clients can request the realtime_translation scope]]
 - Later: 2026-10-27 · Codex CLI · [[Changes/Codex CLI/2026-10-27-3-account-and-access-changes-in-rust-v0-165-0|3 Account and Access changes in rust-v0.165.0]]
 <!-- chronolog:end -->
 

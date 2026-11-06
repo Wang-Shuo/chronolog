@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 89fc4740769654ac88a76a807f47caa4df268a27bb0928e578827f6c54a76169
+machine_hash: cc68c5676dbe3baab709ebd78601bd7f3241bb738dbbf64fd12fa29b6ff8c8c3
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,8 +45,7 @@ record:
   title: Improved auto mode denials
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-09-04-stopping-a-timed-out-shell-command-now-lets-queued-messages-run-and-sessions-ret|Stopping
-  a timed-out shell command now lets queued messages run and sessions return…]]'
+- '[[Changes/ElevenLabs/2026-09-07-python-sdk|Python SDK]]'
 - '[[Changes/Claude Code/2026-09-08-improved-workflows-agent-detail-tool-calls-are-marked-running-failed-or-done-the|Improved
   /workflows agent detail]]'
 - '[[Changes/Codex CLI/2026-09-09-6-agent-mode-changes-in-rust-v0-154-0|6 Agent Mode

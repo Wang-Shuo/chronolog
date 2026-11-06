@@ -35,12 +35,16 @@ def test_load_sources_returns_enabled_products():
         "cline",
         "aider",
         "openhands",
+        "claude", "gemini", "deepseek-api", "elevenlabs", "lovable",
+        "v0", "replit", "ollama", "dify", "open-webui",
     }
     assert {product["feed_type"] for product in products} == {
         "chatgpt_changelog",
         "github_releases",
         "cursor_changelog",
         "windsurf_changelog",
+        "claude_changelog", "gemini_changelog", "deepseek_changelog", "v0_changelog",
+        "lovable_changelog", "elevenlabs_changelog", "replit_changelog",
     }
 
 

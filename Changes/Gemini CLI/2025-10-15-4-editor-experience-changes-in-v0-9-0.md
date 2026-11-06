@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: fee818c5f71eddf6a511596b0e310fa652e041c32d39b1ad5eb7b194ab95fec3
+machine_hash: 609a7e8d9d0ea31158bdb45cbc7620c225748a6c6121963fa8996f989c959e20
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -48,10 +48,10 @@ record:
   title: 4 Editor Experience changes in v0.9.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2025-10-09-2-editor-experience-changes-in-v0-0-338|2
-  Editor Experience changes in v0.0.338]]'
 - '[[Changes/GitHub Copilot CLI/2025-10-10-run-npm-install-g-github-copilot-latest-to-update|Run
   npm install -g @github/copilot@latest to update!]]'
+- '[[Changes/Replit/2025-10-10-escape-key-for-visual-select-edit-mode|Escape key for
+  Visual Select/Edit mode]]'
 - '[[Changes/GitHub Copilot CLI/2025-10-13-2-editor-experience-changes-in-v0-0-340|2
   Editor Experience changes in v0.0.340]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-10-15-v0-9-0-github-254729703-41b9b488|gemini-cli-2025-10-15-v0-9-0-github-254729703-41b9b488]]'

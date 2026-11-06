@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: cc97179af4f4b07000a7caa209e7c6fca1488b0d9b58f2325108c20c434e53ff
+machine_hash: 2a63d12f105ee58291ff98ddf4dcbe457a57516cdece1caadef06ae8e583bd3c
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,12 +43,12 @@ record:
   title: Diff hunk lines now properly fill the width of the diff box
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2025-10-24-3-editor-experience-changes-in-v0-0-351|3
-  Editor Experience changes in v0.0.351]]'
 - '[[Changes/Gemini CLI/2025-10-29-5-editor-experience-changes-in-v0-11-0|5 Editor
   Experience changes in v0.11.0]]'
 - '[[Changes/Codex CLI/2025-10-30-chore-config-editor-in-https-github-com-openai-codex-pull-5878|chore:
   config editor in (source link)]]'
+- '[[Changes/v0/2025-10-30-you-can-now-edit-images-using-nano-banana-in-v0-turn-on-design-mode-select-an-im|Image
+  Editing with Nano Banana]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2025-11-03-v0-0-354-github-259401997-a713a92b|github-copilot-cli-2025-11-03-v0-0-354-github-259401997-a713a92b]]'
 source_type: github_releases
 theme: editor-experience
@@ -81,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2025-10-30 · Codex CLI · [[Changes/Codex CLI/2025-10-30-chore-config-editor-in-https-github-com-openai-codex-pull-5878|chore: config editor in (source link)]]
+- Earlier: 2025-10-30 · v0 · [[Changes/v0/2025-10-30-you-can-now-edit-images-using-nano-banana-in-v0-turn-on-design-mode-select-an-im|Image Editing with Nano Banana]]
 - Later: 2025-11-04 · Windsurf · [[Changes/Windsurf/2025-11-04-editor-stability|Editor Stability]]
 <!-- chronolog:end -->
 

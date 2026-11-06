@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 89f829e8c062cefababcee941588cac584e41a33414dfa820f6150b9c3222d4a
+machine_hash: 3a7b8b3efe416a21e934d7937811a66d0fa88e2a30bd909941aeedb3c381bdc2
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,12 +43,11 @@ record:
   title: 2 Safety and Privacy changes in v1.0.62
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-10-2-safety-and-privacy-changes-in-v2-1-172|2 Safety
-  and Privacy changes in v2.1.172]]'
-- '[[Changes/Cursor/2026-06-10-run-bugbot-before-you-push-3e5964|Run Bugbot before
-  you push]]'
 - '[[Changes/OpenHands/2026-06-10-users-can-select-the-sandbox-grouping-strategy-by-tofarr-in-https-github-com-ope|Users
   can select the sandbox grouping strategy]]'
+- '[[Changes/Replit/2026-06-12-choose-which-production-alerts-reach-your-inbox|Choose
+  which production alerts reach your inbox]]'
+- '[[Changes/Replit/2026-06-12-security|Security]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-06-13-v1-0-62-github-339039020-f6ff7e5e|github-copilot-cli-2026-06-13-v1-0-62-github-339039020-f6ff7e5e]]'
 source_type: github_releases
 theme: safety-privacy
@@ -95,7 +94,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.62
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-06-10 · OpenHands · [[Changes/OpenHands/2026-06-10-users-can-select-the-sandbox-grouping-strategy-by-tofarr-in-https-github-com-ope|Users can select the sandbox grouping strategy]]
+- Earlier: 2026-06-12 · Replit · [[Changes/Replit/2026-06-12-security|Security]]
 - Later: 2026-06-15 · Claude Code · [[Changes/Claude Code/2026-06-15-2-safety-and-privacy-changes-in-v2-1-178|2 Safety and Privacy changes in v2.1.178]]
 <!-- chronolog:end -->
 

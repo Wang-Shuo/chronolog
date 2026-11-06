@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f053c064ac05cb66a5b46de37a51a4dbbb390c4704492614eb49f6743a3f1fa1
+machine_hash: 6cf82a388c48e28c4de621e260d3dbcf4edf040429faada6267279cc81aeb931
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -95,7 +95,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.33
 ## Nearby in Interface Experience
 
 - Earlier: 2026-04-20 · Codex CLI · [[Changes/Codex CLI/2026-04-20-2-interface-experience-changes-in-rust-v0-122-0|2 Interface Experience changes in rust-v0.122.0]]
-- Later: 2026-04-23 · Claude Code · [[Changes/Claude Code/2026-04-23-3-interface-experience-changes-in-v2-1-119|3 Interface Experience changes in v2.1.119]]
+- Later: 2026-04-21 · Open WebUI · [[Changes/Open WebUI/2026-04-21-17-interface-experience-changes-in-v0-9-0|17 Interface Experience changes in v0.9.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 45db5c8067b5e866fd3ddf21920589ea21ee05dac214995f05bf5fd0f9157f65
+machine_hash: d5a6bdfccdd1ad21eede7b85b73191bf7a410bc147c2bc6678cfc662b1cfe13b
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -42,12 +42,12 @@ record:
   title: 2 Editor Experience changes in v0.0.401
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-01-29-2-editor-experience-changes-in-v0-0-399|2
-  Editor Experience changes in v0.0.399]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-30-add-autopilot-mode-for-autonomous-task-completion-experimental|Add
   autopilot mode for autonomous task completion (experimental)]]'
 - '[[Changes/Codex CLI/2026-01-31-10030-clarify-external-editor-env-var-message-joshka-oai|♯10030
   Clarify external editor env var message @joshka-oai]]'
+- '[[Changes/Dify/2026-02-03-chore-hide-disable-try-tab-when-not-support-by-iamjoel-in-https-github-com-langg|chore:
+  hide disable try tab when not support]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-02-03-v0-0-401-github-282605019-24696a01|github-copilot-cli-2026-02-03-v0-0-401-github-282605019-24696a01]]'
 source_type: github_releases
 theme: editor-experience
@@ -85,7 +85,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v0.0.401
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-01-31 · Codex CLI · [[Changes/Codex CLI/2026-01-31-10030-clarify-external-editor-env-var-message-joshka-oai|♯10030 Clarify external editor env var message @joshka-oai]]
+- Earlier: 2026-02-03 · Dify · [[Changes/Dify/2026-02-03-chore-hide-disable-try-tab-when-not-support-by-iamjoel-in-https-github-com-langg|chore: hide disable try tab when not support]]
 - Later: 2026-02-04 · Codex CLI · [[Changes/Codex CLI/2026-02-04-added-thread-compact-to-the-v2-app-server-api-as-an-async-trigger-rpc-so-clients|Added thread/compact to the v2 app-server API as an async trigger RPC, so clients…]]
 <!-- chronolog:end -->
 

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: abfb2dd93a2b7f99eb541a31b33ad65b7b3fad203094c1c0cf00e2de84dc4b32
+machine_hash: 0df4ec74bdc09c9045222d52b090389fdbe52fcb2ba4709b3dbf68e7aee3ad29
 product: openhands
 product_name: OpenHands
 record:
@@ -42,12 +42,12 @@ record:
   title: Reduce bash SOFT timeout from 30 to 10 seconds
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-02-13-limit-resource-usage-of-command-to-avoid-oom-runtime-kill-by-xingyaoww-in-https|Limit
-  resource usage of command to avoid OOM Runtime Kill]]'
-- '[[Changes/Cline/2025-02-19-new-git-to-reference-the-current-working-changes-or-specific-commits-thanks-mrub|New
-  @git to reference the current working changes or specific commits…]]'
-- '[[Changes/Aider/2025-03-13-2-developer-workflow-changes-in-v0-77-0|2 Developer
-  Workflow changes in v0.77.0]]'
+- '[[Changes/Dify/2025-03-20-stop-the-service-command-please-execute-in-the-docker-directory|Stop
+  the service, Command, please execute in the docker directory]]'
+- '[[Changes/Dify/2025-03-21-stop-the-service-command-please-execute-in-the-docker-directory|Stop
+  the service, Command, please execute in the docker directory]]'
+- '[[Changes/Dify/2025-03-24-stop-the-service-command-please-execute-in-the-docker-directory|Stop
+  the service, Command, please execute in the docker directory]]'
 source_release: '[[Releases/OpenHands/openhands-2025-03-25-0-30-0-github-208262906-e828631a|openhands-2025-03-25-0-30-0-github-208262906-e828631a]]'
 source_type: github_releases
 theme: developer-workflow
@@ -77,7 +77,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2025-03-13 · Aider · [[Changes/Aider/2025-03-13-2-developer-workflow-changes-in-v0-77-0|2 Developer Workflow changes in v0.77.0]]
+- Earlier: 2025-03-24 · Dify · [[Changes/Dify/2025-03-24-stop-the-service-command-please-execute-in-the-docker-directory|Stop the service, Command, please execute in the docker directory]]
 - Later: 2025-03-31 · Aider · [[Changes/Aider/2025-03-31-2-developer-workflow-changes-in-v0-80-0|2 Developer Workflow changes in v0.80.0]]
 <!-- chronolog:end -->
 

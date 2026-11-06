@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b54cd151aff822789328bb000d24adaecda28d643a944f283d95436307665c06
+machine_hash: acaa009309e9e8fae4da6019b1a72c8d2a0922e9b4a56bcb608b42c13b97b3b0
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -45,10 +45,10 @@ record:
   title: Create and refine
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-14-3-editor-experience-changes-in-v2-1-300|3 Editor
-  Experience changes in v2.1.300]]'
-- '[[Changes/Claude Code/2026-10-14-2-editor-experience-changes-in-v2-1-299|2 Editor
-  Experience changes in v2.1.299]]'
+- "[[Changes/Open WebUI/2026-10-14-open-attached-knowledge-from-its-preview-clicking-the-name-in-the-preview-of-an|\U0001F4DA
+  Open attached knowledge from its preview. Clicking the name in the preview…]]"
+- '[[Changes/Open WebUI/2026-10-14-4-editor-experience-changes-in-v0-12-1|4 Editor
+  Experience changes in v0.12.1]]'
 - '[[Changes/Codex CLI/2026-10-15-4-editor-experience-changes-in-rust-v0-163-0|4 Editor
   Experience changes in rust-v0.163.0]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-10-16-create-and-collaborate-on-slides-in-chatgpt-0e009a16|chatgpt-2026-10-16-create-and-collaborate-on-slides-in-chatgpt-0e009a16]]'
@@ -82,7 +82,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-10-15 · Codex CLI · [[Changes/Codex CLI/2026-10-15-4-editor-experience-changes-in-rust-v0-163-0|4 Editor Experience changes in rust-v0.163.0]]
-- Later: 2026-10-19 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-19-keep-saved-diff-review-comments-when-reopening-an-unchanged-diff-in-the-same-ses|Keep saved /diff review comments when reopening an unchanged diff in the same…]]
+- Later: 2026-10-16 · Lovable · [[Changes/Lovable/2026-10-16-larger-document-previews-in-the-files-tab|Larger document previews in the Files tab]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

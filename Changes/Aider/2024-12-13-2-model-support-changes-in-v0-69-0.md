@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 599398ea2fb6ca5a56f86fcde846da1f3caf87a1e19f4f066042cb427205b315
+machine_hash: 2f0748e7db2d01d85f66298b8f4652cf390912b2144dcc656bd363cb09c03239
 product: aider
 product_name: Aider
 record:
@@ -42,12 +42,12 @@ record:
   title: 2 Model Support changes in v0.69.0
   type: change
 related_changes:
-- '[[Changes/Aider/2024-12-01-pdf-support-for-sonnet-and-gemini-models|PDF support
-  for Sonnet and Gemini models]]'
-- '[[Changes/Aider/2024-12-06-support-for-new-amazon-bedrock-nova-models|Support for
-  new Amazon Bedrock Nova models]]'
-- '[[Changes/Aider/2024-12-10-4-model-support-changes-in-v0-68-0|4 Model Support changes
-  in v0.68.0]]'
+- '[[Changes/Gemini/2024-12-11-priority-access-with-gemini-advanced-your-personal-research-assistant-saves-you|Priority
+  access with Gemini Advanced]]'
+- '[[Changes/Gemini/2024-12-11-introducing-gemini-2-0-flash-as-an-experimental-model-in-gemini|Introducing
+  Gemini 2.0 Flash as an experimental model in Gemini]]'
+- '[[Changes/Ollama/2024-12-11-exaone-3-5-https-ollama-com-library-exaone3-5-a-collection-of-instruction-tuned|EXAONE
+  3.5((source link) a collection…]]'
 source_release: '[[Releases/Aider/aider-2024-12-13-v0-69-0-github-190706820-c74597ab|aider-2024-12-13-v0-69-0-github-190706820-c74597ab]]'
 source_type: github_releases
 theme: model-support
@@ -83,7 +83,7 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.69.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2024-12-10 · Aider · [[Changes/Aider/2024-12-10-4-model-support-changes-in-v0-68-0|4 Model Support changes in v0.68.0]]
+- Earlier: 2024-12-11 · Ollama · [[Changes/Ollama/2024-12-11-exaone-3-5-https-ollama-com-library-exaone3-5-a-collection-of-instruction-tuned|EXAONE 3.5((source link) a collection…]]
 - Later: 2024-12-13 · ChatGPT · [[Changes/ChatGPT/2024-12-13-projects-provide-a-new-way-to-group-files-and-chats-for-personal-use-simplifying|Projects provide a new way to group files and chats for personal use, simplifying…]]
 <!-- chronolog:end -->
 

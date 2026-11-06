@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a47e4aaa92689335148a1dfbd0707742b5478dd2034b8324db4fd7610d55bd47
+machine_hash: 664d217b9bdf962c5013130be7c4b0259e37e62cea45087d0f44dbe838d09eb0
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,7 +47,7 @@ record:
     ranges…
   type: change
 related_changes:
-- '[[Changes/Cline/2026-01-30-new-model-added-kimi-k2-5-model-to-moonshot-provider-262k-context-image-support-9b8adb|_New
+- '[[Changes/Cline/2026-01-30-new-model-added-kimi-k2-5-model-to-moonshot-provider-262k-context-image-support-9b8adb|New
   model: Added Kimi-K2.5 model to Moonshot provider…]]'
 - '[[Changes/Codex CLI/2026-01-31-6-context-window-changes-in-rust-v0-93-0|6 Context
   Window changes in rust-v0.93.0]]'
@@ -89,7 +89,7 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2026-02-02 · Codex CLI · [[Changes/Codex CLI/2026-02-02-2-context-window-changes-in-rust-v0-94-0|2 Context Window changes in rust-v0.94.0]]
-- Later: 2026-02-04 · Codex CLI · [[Changes/Codex CLI/2026-02-04-2-context-window-changes-in-rust-v0-95-0|2 Context Window changes in rust-v0.95.0]]
+- Later: 2026-02-03 · Dify · [[Changes/Dify/2026-02-03-5-context-window-changes-in-1-12-0|5 Context Window changes in 1.12.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

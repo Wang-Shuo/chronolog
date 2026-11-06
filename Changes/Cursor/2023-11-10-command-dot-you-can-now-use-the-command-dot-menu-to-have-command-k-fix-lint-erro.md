@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 862a8712d1ed2e804059d6c0cc1f23679773c4a7a72f0ba24dd6bd06dc99d52b
+machine_hash: 291d85f952e61685c5bb99b938a633830a53148a8b5e7ee086bf50a3c691b710
 product: cursor
 product_name: Cursor
 record:
@@ -43,12 +43,12 @@ record:
     lint errors inline'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2023-09-11-if-you-ve-configured-your-browser-to-use-one-of-these-supported-languages-you-ll-e4857e|If
-  you''ve configured your browser to use one of these supported languages, you''ll…]]'
 - '[[Changes/Cursor/2023-11-03-chat-scroll-we-got-rid-of-sticky-scroll-to-make-the-chat-easier-to-read|Chat
   scroll: we got rid of sticky scroll to make the chat easier to read]]'
 - '[[Changes/Cursor/2023-11-03-styling-tweaks-some-buttons-and-hints-should-look-nicer|Styling
   tweaks: some buttons and hints should look nicer!]]'
+- '[[Changes/Dify/2023-11-06-2-interface-experience-changes-in-0-3-29|2 Interface
+  Experience changes in 0.3.29]]'
 source_release: '[[Releases/Cursor/cursor-2023-11-10-0-15-0-0-15-1-https-cursor-com-changelog-0-15-0-0-15-1-9dc9cadb|cursor-2023-11-10-0-15-0-0-15-1-https-cursor-com-changelog-0-15-0-0-15-1-9dc9cadb]]'
 source_type: cursor_changelog
 theme: interface-experience
@@ -80,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2023-11-03 · Cursor · [[Changes/Cursor/2023-11-03-styling-tweaks-some-buttons-and-hints-should-look-nicer|Styling tweaks: some buttons and hints should look nicer!]]
+- Earlier: 2023-11-06 · Dify · [[Changes/Dify/2023-11-06-2-interface-experience-changes-in-0-3-29|2 Interface Experience changes in 0.3.29]]
 - Later: 2023-11-12 · Cursor · [[Changes/Cursor/2023-11-12-copilot-improvements-includes-green-highlights-to-see-what-copilot-has-added-the|Copilot++ improvements: Includes green highlights to see what Copilot++ has added…]]
 <!-- chronolog:end -->
 

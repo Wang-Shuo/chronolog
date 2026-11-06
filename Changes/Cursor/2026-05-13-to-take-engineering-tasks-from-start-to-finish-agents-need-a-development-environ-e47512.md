@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0c8956be128bdddd9b4476b262cf8f0e5536d7629218659fe6689ad30784c441
+machine_hash: 7b535bcae19cd9c51091b68b2253e2aa331ee63db2dcbc34587fc66efc7adc14
 product: cursor
 product_name: Cursor
 record:
@@ -91,7 +91,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-05-13 · Cursor · [[Changes/Cursor/2026-05-13-this-release-introduces-quality-of-life-improvements-to-the-agents-window|Cursor introduces quality-of-life improvements to the Agents Window]]
-- Later: 2026-05-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-13-resume-supports-copilot-cloud-agent-sessions-where-the-agent-hasn-t-pushed-any-c|--resume supports Copilot cloud agent sessions where the agent hasn't pushed any…]]
+- Later: 2026-05-13 · ElevenLabs · [[Changes/ElevenLabs/2026-05-13-packages|Packages]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

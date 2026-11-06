@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 2f66cc053456798ff9da930488a5ef3431fed81bf58c441d9f66fd05f086b0d5
+machine_hash: 29e67e95381ff79dc91cc222fa07a598a92b24e5a7f381eb4bc11693397a203f
 product: aider
 product_name: Aider
 record:
@@ -43,8 +43,8 @@ record:
   title: Show models supported by api/key if requested model isn't available
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-10-01-use-edit-in-the-chat-to-edit-a-whole-file-if-less-than-400-lines-expect-the-edit-78e4ac|Use
-  /edit in the chat to edit a whole file (if less than 400 lines)]]'
+- '[[Changes/Dify/2023-10-14-feat-switch-to-generation-model-set-default-stop-word-by-iamjoel-in-https-github|feat:
+  switch to generation model set default stop word]]'
 - '[[Changes/ChatGPT/2023-10-16-we-ve-integrated-dall-e-3-with-chatgpt-allowing-it-to-respond-to-your-requests-w-ad3caf|DALL·E
   3 is now rolling out in beta]]'
 - '[[Changes/ChatGPT/2023-10-17-browsing-which-we-re-launched-a-few-weeks-ago-is-moving-out-of-beta-plus-and-ent|Browsing
@@ -79,7 +79,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2023-10-17 · ChatGPT · [[Changes/ChatGPT/2023-10-17-browsing-which-we-re-launched-a-few-weeks-ago-is-moving-out-of-beta-plus-and-ent|Browsing is now out of beta]]
-- Later: 2023-11-07 · Aider · [[Changes/Aider/2023-11-07-2-model-support-changes-in-v0-17-0|2 Model Support changes in v0.17.0]]
+- Later: 2023-10-20 · Ollama · [[Changes/Ollama/2023-10-20-4-model-support-changes-in-v0-1-4|4 Model Support changes in v0.1.4]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

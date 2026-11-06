@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ecc98845c7e00c22c24b0bf65dd5068c52b90fb3775392ec112818ad484674b7
+machine_hash: 1dd2853763122be6320abecb460b14ada84a1e5ec07f10a31cbd9ea7b8a4107d
 product: cline
 product_name: Cline
 record:
@@ -47,8 +47,8 @@ record:
   title: 4 Developer Workflow changes in v3.34.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2025-10-18-2-developer-workflow-changes-in-v0-0-344|2
-  Developer Workflow changes in v0.0.344]]'
+- '[[Changes/Dify/2025-10-22-chore-remove-pnpm-build-from-dev-setup-command-by-laipz8200-in-https-github-com|chore:
+  remove pnpm build from dev-setup command]]'
 - '[[Changes/Gemini CLI/2025-10-22-6-developer-workflow-changes-in-v0-10-0|6 Developer
   Workflow changes in v0.10.0]]'
 - '[[Changes/GitHub Copilot CLI/2025-10-22-ensured-we-preserve-comments-in-vscode-config-files-when-using-terminal-setup-fi|Ensured

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8082ec710d9f607b763b3f67a4598c67f903375b99e11bdcaee90f90646736ed
+machine_hash: 286c9b0129deb7378ae23401050c65d49429484dddf456d9ae06f3026625c0a6
 product: openhands
 product_name: OpenHands
 record:
@@ -42,10 +42,10 @@ record:
   title: 'feat: show per-run LLM cost in the Activity Log and exports'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-07-changed-the-bash-tool-description-to-always-note-that-command-output-is-displaye|Changed
-  the Bash tool description to always note that command output is displayed…]]'
-- '[[Changes/Codex CLI/2026-08-07-13-model-support-changes-in-rust-v0-147-0|13 Model
-  Support changes in rust-v0.147.0]]'
+- '[[Changes/Lovable/2026-08-07-reworked-ai-model-training-settings|Reworked AI model
+  training settings]]'
+- '[[Changes/Lovable/2026-08-07-veo-3-1-video-models-for-your-app-s-ai-features|Veo
+  3.1 video models for your app''s AI features]]'
 - '[[Changes/OpenHands/2026-08-07-feat-clarify-free-openhands-model-endpoints-by-juanmichelini-in-https-github-com|feat:
   clarify free OpenHands model endpoints]]'
 source_release: '[[Releases/OpenHands/openhands-2026-08-07-v1-11-0-github-366925866-b56d8fd7|openhands-2026-08-07-v1-11-0-github-366925866-b56d8fd7]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2ebd8e9ebad87b8f083e2240715c801867ce9d6174940230eba727392939533f
+machine_hash: 691dce688ebaca1eafd492f0711cae5ddb766c82a298ae6f7b943671251439c4
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,12 +43,11 @@ record:
   title: File diffs are correctly reported to ACP clients for all edit tool types
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-15-bg-and-detach-now-preserve-allow-dangerously-skip-permissions-so-the-forked-work|/bg
-  and ←-detach now preserve --allow-dangerously-skip-permissions…]]'
-- '[[Changes/Codex CLI/2026-05-18-21954-fix-goal-update-and-add-goal-edit-command-in-tui-etraut-openai|♯21954
-  Fix goal update and add /goal edit command in TUI @etraut-openai]]'
+- '[[Changes/Lovable/2026-05-18-seo-and-ai-search|SEO and AI search]]'
 - '[[Changes/Claude Code/2026-05-19-fewer-spurious-tool-errors-during-search-head-tail-file-views-now-satisfy-the-re|Fewer
   spurious tool errors during search]]'
+- '[[Changes/Dify/2026-05-19-feat-messagelogmodal-refactor-modal-structure-and-improve-tab-handling-by-coding|feat(MessageLogModal):
+  refactor modal structure and improve tab handling]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-05-19-v1-0-49-github-324640083-4bf093b8|github-copilot-cli-2026-05-19-v1-0-49-github-324640083-4bf093b8]]'
 source_type: github_releases
 theme: editor-experience
@@ -87,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-05-19 · Claude Code · [[Changes/Claude Code/2026-05-19-fewer-spurious-tool-errors-during-search-head-tail-file-views-now-satisfy-the-re|Fewer spurious tool errors during search]]
+- Earlier: 2026-05-19 · Dify · [[Changes/Dify/2026-05-19-feat-messagelogmodal-refactor-modal-structure-and-improve-tab-handling-by-coding|feat(MessageLogModal): refactor modal structure and improve tab handling]]
 - Later: 2026-05-20 · Codex CLI · [[Changes/Codex CLI/2026-05-20-3-editor-experience-changes-in-rust-v0-132-0|3 Editor Experience changes in rust-v0.132.0]]
 <!-- chronolog:end -->
 

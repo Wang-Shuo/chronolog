@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 21bab5b31cf61a0feaa927f5c9d1b128b5d58b2306fd773190dfaf0e0088cae5
+machine_hash: aab437ee0b7278928c83db0748927b5b7d19edd9a534dbfeb025c7263ffe85bc
 product: openhands
 product_name: OpenHands
 record:
@@ -63,12 +63,9 @@ record:
   title: 9 Agent Mode changes in 1.9.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-01-5-agent-mode-changes-in-v2-1-198|5 Agent Mode
-  changes in v2.1.198]]'
-- '[[Changes/GitHub Copilot CLI/2026-07-01-3-agent-mode-changes-in-v1-0-68|3 Agent
-  Mode changes in v1.0.68]]'
-- '[[Changes/Claude Code/2026-07-06-3-agent-mode-changes-in-v2-1-202|3 Agent Mode
-  changes in v2.1.202]]'
+- '[[Changes/ElevenLabs/2026-07-06-cli|CLI]]'
+- '[[Changes/ElevenLabs/2026-07-06-elevenagents-c38b88|ElevenAgents]]'
+- '[[Changes/ElevenLabs/2026-07-06-elevenagents-f45a54|ElevenAgents]]'
 source_release: '[[Releases/OpenHands/openhands-2026-07-06-1-9-0-github-349633843-8010776a|openhands-2026-07-06-1-9-0-github-349633843-8010776a]]'
 source_type: github_releases
 theme: agent-mode
@@ -126,7 +123,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/1.9.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-07-06 · Claude Code · [[Changes/Claude Code/2026-07-06-3-agent-mode-changes-in-v2-1-202|3 Agent Mode changes in v2.1.202]]
+- Earlier: 2026-07-06 · ElevenLabs · [[Changes/ElevenLabs/2026-07-06-elevenagents-f45a54|ElevenAgents]]
 - Later: 2026-07-07 · Claude Code · [[Changes/Claude Code/2026-07-07-2-agent-mode-changes-in-v2-1-203|2 Agent Mode changes in v2.1.203]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b21dd5e58fdf2341c008856058af358233191559fc4fc43b2ff0bc3b73795614
+machine_hash: 9733c5ada0a5b11c882847b72879bd437b2014a34e5a844006e164d305a3bd9d
 product: windsurf
 product_name: Windsurf
 record:
@@ -42,12 +42,12 @@ record:
   title: 2 Reliability and Performance changes in v1.12.43
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-12-04-2-reliability-and-performance-changes-in-rust-v0-65-0|2
-  Reliability and Performance changes in rust-v0.65.0]]'
-- '[[Changes/Cursor/2025-12-10-2-reliability-and-performance-changes-in-2-2|2 Reliability
-  and Performance changes in 2.2]]'
+- '[[Changes/Lovable/2025-12-10-cloud-instance-upgrade-alerts|Cloud instance upgrade
+  alerts]]'
 - '[[Changes/Windsurf/2025-12-10-general-stability-and-performance-improvements|General
   stability and performance improvements]]'
+- '[[Changes/Dify/2025-12-11-3-reliability-and-performance-changes-in-1-11-0|3 Reliability
+  and Performance changes in 1.11.0]]'
 source_release: '[[Releases/Windsurf/windsurf-2025-12-11-v1-12-43-cfbc6ff7|windsurf-2025-12-11-v1-12-43-cfbc6ff7]]'
 source_type: windsurf_changelog
 theme: reliability-performance
@@ -81,8 +81,8 @@ Source: https://docs.devin.ai/desktop/changelog#v1-12-43
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-12-10 · Windsurf · [[Changes/Windsurf/2025-12-10-general-stability-and-performance-improvements|General stability and performance improvements]]
-- Later: 2025-12-17 · Cline · [[Changes/Cline/2025-12-17-improved-whatsnew-modal-responsiveness-and-cleaned-up-redundant-ui-elements|Improved WhatsNew modal responsiveness and cleaned up redundant UI elements]]
+- Earlier: 2025-12-11 · Dify · [[Changes/Dify/2025-12-11-3-reliability-and-performance-changes-in-1-11-0|3 Reliability and Performance changes in 1.11.0]]
+- Later: 2025-12-12 · Dify · [[Changes/Dify/2025-12-12-3-reliability-and-performance-changes-in-1-11-1|3 Reliability and Performance changes in 1.11.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

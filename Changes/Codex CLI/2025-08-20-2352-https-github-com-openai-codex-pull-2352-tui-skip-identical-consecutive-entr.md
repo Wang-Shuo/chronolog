@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: projects-workspaces
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: bfe4c8e5e95b08bb929055f73420f02cc967e785e33126316d3f3ad47d68adf4
+machine_hash: 3f2c95ab61ab5c380bc0484690406e761428d736a2d7282e447db2117b9a8ca0
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,12 +44,11 @@ record:
   title: '[#2352](https://github.com/openai/codex/pull/2352) tui: skip identical consecutive…'
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-09-17-composer-notepads-previously-called-projects-can-now-include-tagged-files-and-be|Composer
-  Notepads (previously called Projects) can now include tagged files…]]'
-- '[[Changes/Cursor/2024-10-09-composer-history-lets-you-access-previous-composer-sessions-after-restart-you-ca|Composer
-  history lets you access previous composer sessions after restart]]'
 - '[[Changes/ChatGPT/2025-06-12-starting-a-new-project-directly-from-a-chat|Starting
   a new project directly from a chat]]'
+- '[[Changes/Replit/2025-07-11-replit-md-documentation|replit.md documentation]]'
+- "[[Changes/Open WebUI/2025-07-14-instant-folder-based-chat-creation-start-a-new-chat-directly-from-any-folder-jus|\U0001F4C1
+  Instant Folder-Based Chat Creation]]"
 source_release: '[[Releases/Codex CLI/codex-cli-2025-08-20-rust-v0-23-0-github-241091696-29f8dece|codex-cli-2025-08-20-rust-v0-23-0-github-241091696-29f8dece]]'
 source_type: github_releases
 theme: projects-workspaces
@@ -87,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Projects and Workspaces
 
-- Earlier: 2025-06-12 · ChatGPT · [[Changes/ChatGPT/2025-06-12-starting-a-new-project-directly-from-a-chat|Starting a new project directly from a chat]]
+- Earlier: 2025-07-14 · Open WebUI · [[Changes/Open WebUI/2025-07-14-instant-folder-based-chat-creation-start-a-new-chat-directly-from-any-folder-jus|📁 Instant Folder-Based Chat Creation]]
 - Later: 2025-09-04 · ChatGPT · [[Changes/ChatGPT/2025-09-04-you-can-now-branch-conversations-in-chatgpt-making-it-easier-to-explore-differen-78eb21|Branch conversations on web]]
 <!-- chronolog:end -->
 

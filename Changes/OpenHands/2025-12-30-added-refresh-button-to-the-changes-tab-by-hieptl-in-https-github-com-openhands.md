@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 63e4a4ec226720b91ea5703d6ab7efea52508638f03aac58e5b4f0594d5d7088
+machine_hash: ea5e750da5689f0995bf4d5138638529c3ed99c6c63f5d114cbfbbfa30dedbe4
 product: openhands
 product_name: OpenHands
 record:
@@ -41,8 +41,8 @@ record:
   title: Added refresh button to the Changes tab
   type: change
 related_changes:
-- '[[Changes/Windsurf/2025-12-24-2-editor-experience-changes-in-v1-13-3|2 Editor Experience
-  changes in v1.13.3]]'
+- '[[Changes/Dify/2025-12-25-2-editor-experience-changes-in-1-11-2|2 Editor Experience
+  changes in 1.11.2]]'
 - '[[Changes/Windsurf/2025-12-27-tab-fixes-and-improvements|Tab fixes and improvements]]'
 - '[[Changes/GitHub Copilot CLI/2025-12-30-tab-completion-for-path-arguments-in-slash-commands-like-cwd-and-add-dir|Tab
   completion for path arguments in slash commands like /cwd and /add-dir]]'

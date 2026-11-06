@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4af2bf1c19766af32610b9309d9b7a37c4fa1714f0d280920a0b370a28407ba3
+machine_hash: 6791cba54b9127b56a5b5f46e4f3fce63893c5ad610490188bfa0c1e62339aa5
 product: claude-code
 product_name: Claude Code
 record:
@@ -57,8 +57,8 @@ record:
   title: 5 Apps and Integrations changes in v2.1.271
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-11-added-output-style-name-to-list-and-switch-output-styles-including-over-remote-c|Added
-  /output-style name to list and switch output styles, including over Remote…]]'
+- '[[Changes/Replit/2026-09-11-use-replit-from-desktop-mcp-clients|Use Replit from
+  desktop MCP clients]]'
 - '[[Changes/ChatGPT/2026-09-14-for-new-health-plugin-connections-chatgpt-will-now-default-to-each-user-s-global|For
   new Health plugin connections, ChatGPT will now default to each user’s global…]]'
 - '[[Changes/ChatGPT/2026-09-14-you-can-change-your-health-permissions-anytime-in-settings-plugins-health-learn|You
@@ -113,7 +113,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.271
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-09-14 · ChatGPT · [[Changes/ChatGPT/2026-09-14-you-can-change-your-health-permissions-anytime-in-settings-plugins-health-learn|You can change your Health permissions anytime in Settings → Plugins → Health]]
-- Later: 2026-09-15 · Claude Code · [[Changes/Claude Code/2026-09-15-3-apps-and-integrations-changes-in-v2-1-273|3 Apps and Integrations changes in v2.1.273]]
+- Later: 2026-09-14 · ElevenLabs · [[Changes/ElevenLabs/2026-09-14-sdk-releases|SDK releases]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: e092d4dd10322070b2bf1dbff8e65b19498e8e4285489adb016827a12cd62282
+machine_hash: 40147ace589aae4e175ad5245793c6b1318d8481a82ab9c0627b98da5593e3ee
 product: cursor
 product_name: Cursor
 record:
@@ -52,8 +52,8 @@ record:
   title: '1.7.45: Model picker UX'
   type: change
 related_changes:
-- '[[Changes/Cline/2025-09-25-2-interface-experience-changes-in-v3-31-0|2 Interface
-  Experience changes in v3.31.0]]'
+- '[[Changes/Open WebUI/2025-09-25-4-interface-experience-changes-in-v0-6-31|4 Interface
+  Experience changes in v0.6.31]]'
 - '[[Changes/Codex CLI/2025-09-26-4101-hide-the-status-indicator-when-the-answer-stream-starts-4101|♯4101
   hide the status indicator when the answer stream starts (♯4101)]]'
 - '[[Changes/Cline/2025-09-28-only-show-the-info-banner-messages-about-the-right-sidebar-in-vscode-by-sjf-in-h|Only
@@ -105,7 +105,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2025-09-28 · Cline · [[Changes/Cline/2025-09-28-only-show-the-info-banner-messages-about-the-right-sidebar-in-vscode-by-sjf-in-h|Only show the info banner messages about the right sidebar in VSCode]]
-- Later: 2025-09-29 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-09-29-model-will-open-a-picker-to-change-the-model|/model will open a picker to change the model]]
+- Later: 2025-09-29 · Dify · [[Changes/Dify/2025-09-29-oceanbase-parser-selection-explanation-clarified-by-longbingljw-in-26071|OceanBase parser selection explanation clarified by @longbingljw in ♯26071]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

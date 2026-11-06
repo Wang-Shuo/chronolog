@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a690fc471c7f7688efbd7db32666cbb9bb8bbc0759f5ee914c1130b7a1318625
+machine_hash: 3f92c147c4dc7e8764d54c80197e6440de03a0d15037fc3f331de17c1ecdc886
 product: claude-code
 product_name: Claude Code
 record:
@@ -52,12 +52,12 @@ record:
   title: 4 Safety and Privacy changes in v2.1.284
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-25-3-safety-and-privacy-changes-in-v2-1-283|3 Safety
-  and Privacy changes in v2.1.283]]'
-- '[[Changes/Codex CLI/2026-09-25-2-safety-and-privacy-changes-in-rust-v0-157-0|2
-  Safety and Privacy changes in rust-v0.157.0]]'
+- '[[Changes/Lovable/2026-09-25-account-settings-have-moved-to-their-own-dialog|Account
+  settings have moved to their own dialog]]'
 - '[[Changes/OpenHands/2026-09-25-fix-mcp-keep-oauth-credentials-on-cloud-saves-and-skip-consent-when-tokens-still|fix(mcp):
   keep OAuth credentials on cloud saves and skip consent when tokens still work]]'
+- '[[Changes/Replit/2026-09-25-control-access-to-design-systems-and-slide-templates|Control
+  access to design systems and slide templates]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-28-v2-1-284-github-398457074-cbb49e49|claude-code-2026-09-28-v2-1-284-github-398457074-cbb49e49]]'
 source_type: github_releases
 theme: safety-privacy
@@ -108,7 +108,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.284
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-09-25 · OpenHands · [[Changes/OpenHands/2026-09-25-fix-mcp-keep-oauth-credentials-on-cloud-saves-and-skip-consent-when-tokens-still|fix(mcp): keep OAuth credentials on cloud saves and skip consent when tokens still work]]
+- Earlier: 2026-09-25 · Replit · [[Changes/Replit/2026-09-25-control-access-to-design-systems-and-slide-templates|Control access to design systems and slide templates]]
 - Later: 2026-09-28 · Codex CLI · [[Changes/Codex CLI/2026-09-28-9-safety-and-privacy-changes-in-rust-v0-158-0|9 Safety and Privacy changes in rust-v0.158.0]]
 <!-- chronolog:end -->
 

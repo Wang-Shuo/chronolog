@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 86504f3daf1af2d4f9d63eaa5feef23ef2d55c9c444ab87a2f19380ae662f5b5
+machine_hash: d8f93ec0213f6931b852852c6a2a8fcb9da68bca8a50c575f6587560aa9e81a9
 product: claude-code
 product_name: Claude Code
 record:
@@ -91,7 +91,7 @@ type: change
 ## Nearby in Account and Access
 
 - Earlier: 2026-10-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-13-power-bi-and-bluebird-mcp-servers-accept-their-published-resource-scopes-during|Power BI and Bluebird MCP servers accept their published resource scopes during sign-in]]
-- Later: 2026-10-15 · Codex CLI · [[Changes/Codex CLI/2026-10-15-53389-use-cached-login-credentials-for-guardian-decisions-swastik-oai|♯53389 Use cached login credentials for Guardian decisions @swastik-oai]]
+- Later: 2026-10-14 · Lovable · [[Changes/Lovable/2026-10-14-let-your-app-s-users-sign-in-with-their-lovable-account|Let your app's users sign in with their Lovable account]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

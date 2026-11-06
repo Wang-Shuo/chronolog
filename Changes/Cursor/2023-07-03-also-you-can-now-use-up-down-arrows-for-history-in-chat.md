@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2de09ab9bbe806b923a522318ea58fb7cf059b6523ca61439ff0f898f3c3b345
+machine_hash: 1bb27fcbf32539eb239ce2a71f70588f1ba51c3fd8ad6acef24fb54cef0b3ffa
 product: cursor
 product_name: Cursor
 record:
@@ -43,8 +43,8 @@ record:
   title: (Also, you can now use up/down arrows for history in chat.)
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-05-20-we-ve-added-a-new-feedback-button-at-the-top-right-of-the-app-we-really-do|Cursor
-  adds a new feedback button at the top right of the app]]'
+- '[[Changes/Dify/2023-05-30-chore-input-area-highlight-and-moblie-hide-tooltip-by-iamjoel-in-https-github-co|chore:
+  input area highlight and moblie hide tooltip]]'
 - '[[Changes/Cursor/2023-06-24-the-chat-has-been-revamped-you-can-now-use-symbols-to-show-files-code-docs-to-th|Chat
   v2]]'
 - '[[Changes/Cursor/2023-06-27-better-symbol-keyboard-ergonomics|Better @ symbol keyboard

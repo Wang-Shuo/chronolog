@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 3e7dc973d7b40e325326525fed9dc3d8178d1c91f04ac9888459b0653bbd7d7b
+machine_hash: 1770cbf8c788c24fc17e265f1e568b88f535673e54e545a42d0295617f629ef2
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,10 +43,10 @@ record:
   title: '#29022 [codex] Support protected resource OAuth discovery @xl-openai'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-17-improved-the-mcp-oauth-browser-page-to-match-claude-code-s-visual-style-and-auto|Improved
-  the MCP OAuth browser page to match Claude Code''s visual style…]]'
 - '[[Changes/Codex CLI/2026-06-18-28257-support-staging-oauth-client-id-overrides-apanasenko-oai|♯28257
   Support staging OAuth client ID overrides @apanasenko-oai]]'
+- '[[Changes/v0/2026-06-19-anonymous-users-opening-a-shared-or-public-chat-are-no-longer-redirected-to-sign|Anonymous
+  users opening a shared or public chat are no longer redirected to sign…]]'
 - '[[Changes/Claude Code/2026-06-22-2-account-and-access-changes-in-v2-1-186|2 Account
   and Access changes in v2.1.186]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-06-22-rust-v0-142-0-github-343189954-a218ab4e|codex-cli-2026-06-22-rust-v0-142-0-github-343189954-a218ab4e]]'

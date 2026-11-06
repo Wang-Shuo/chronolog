@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 26c6b920ec106478aa141acc198142f1b3a75d891abb3ef33c5f0f7618689a12
+machine_hash: a4fafb08bc79091b0ab9dee63bc7db02e9168be94f7340474c4000efa242e5fc
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -45,8 +45,8 @@ record:
     context window'
   type: change
 related_changes:
-- '[[Changes/Cline/2025-09-29-disk-ts-replace-uses-of-context-globalstorageuri-with-hostprovider-get-globalsto|disk.ts
-  Replace uses of context.globalStorageUri…]]'
+- '[[Changes/Dify/2025-09-29-synced-fileuploader-context-with-props-to-fix-inconsistent-file-parameters-in-ca|Synced
+  FileUploader context with props to fix inconsistent file parameters in cached…]]'
 - '[[Changes/Codex CLI/2025-10-03-2-context-window-changes-in-rust-v0-44-0|2 Context
   Window changes in rust-v0.44.0]]'
 - '[[Changes/GitHub Copilot CLI/2025-10-03-added-a-warning-when-conversation-context-approaches-20-remaining-of-the-model-s|Added

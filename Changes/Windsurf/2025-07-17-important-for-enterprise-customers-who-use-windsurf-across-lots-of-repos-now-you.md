@@ -5,20 +5,20 @@ description: 'Windsurf · 2025-07-17 · Enterprise and Administration: Important
   enterprise customers who use Windsurf across lots of repos. Now, you can enforce
   ignore…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin
-    improvements: Team admins can now mark themselves as unpaid users and can see…]]'
+  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
+    for Google Workspace accounts]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 484
+  lag_days: 804
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 89da9d90f4c53447b623d181716136a6a0c37902485b05cc47e3c89a1563ff22
+machine_hash: 7fc0e00a58e2dc7d5c849733b99f8cd036404358ba371eafad3b58a6e25e8cd1
 product: windsurf
 product_name: Windsurf
 record:
@@ -45,12 +45,10 @@ record:
   title: Important for enterprise customers who use Windsurf across lots of repos
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-05-12-added-self-hosted-gitlab-or-enterprise-github-host-settings-for-local-installati|Added
-  self-hosted gitlab or enterprise github host settings for local installation]]'
-- '[[Changes/Cursor/2025-06-04-enterprise-users-can-only-access-stable-release-no-pre-release|Enterprise
-  users can only access stable release (no pre-release)]]'
-- '[[Changes/ChatGPT/2025-06-12-enterprise-and-edu-rollout-coming-soon|Enterprise
-  and Edu rollout coming soon]]'
+- '[[Changes/Replit/2025-06-27-teams-and-enterprise|Teams and Enterprise]]'
+- '[[Changes/Replit/2025-07-04-teams-and-enterprise|Teams and Enterprise]]'
+- '[[Changes/Open WebUI/2025-07-14-looking-for-an-enterprise-plan-https-docs-openwebui-com-enterprise-speak-with-ou|
+  Looking for an Enterprise Plan((source link)]]'
 source_release: '[[Releases/Windsurf/windsurf-2025-07-17-v1-11-0-705f6ab2|windsurf-2025-07-17-v1-11-0-705f6ab2]]'
 source_type: windsurf_changelog
 theme: enterprise-admin
@@ -84,14 +82,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2025-06-12 · ChatGPT · [[Changes/ChatGPT/2025-06-12-enterprise-and-edu-rollout-coming-soon|Enterprise and Edu rollout coming soon]]
-- Later: 2025-07-29 · Cursor · [[Changes/Cursor/2025-07-29-allow-team-admins-to-configure-an-extension-allowlist|Allow team admins to configure an extension allowlist]]
+- Earlier: 2025-07-14 · Open WebUI · [[Changes/Open WebUI/2025-07-14-looking-for-an-enterprise-plan-https-docs-openwebui-com-enterprise-speak-with-ou| Looking for an Enterprise Plan((source link)]]
+- Later: 2025-07-19 · Open WebUI · [[Changes/Open WebUI/2025-07-19-users-not-loading-in-groups-resolved-an-issue-where-user-list-was-not-displaying|🚑 Users Not Loading in Groups]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-03-20 · Cursor · [[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin improvements: Team admins can now mark themselves as unpaid users and can see…]]
+- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

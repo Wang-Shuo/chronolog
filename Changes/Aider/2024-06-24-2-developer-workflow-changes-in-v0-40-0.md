@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d008cb87ecf8e13b92932acacb1ff023cb7c7a63f45cc87d31b34144477a691b
+machine_hash: a04312dd12fbe35a85b5ffeeb750bef573562492c858a3cb5ae22084ea3b2abe
 product: aider
 product_name: Aider
 record:
@@ -41,8 +41,8 @@ record:
   title: 2 Developer Workflow changes in v0.40.0
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-06-08-remote-tunnels-are-now-supported-remote-ssh-support-is-also-more-robust-now-supp|Remote
-  tunnels are now supported!]]'
+- '[[Changes/Dify/2024-06-14-3-developer-workflow-changes-in-0-6-11|3 Developer Workflow
+  changes in 0.6.11]]'
 - '[[Changes/Aider/2024-06-17-2-developer-workflow-changes-in-v0-38-0|2 Developer
   Workflow changes in v0.38.0]]'
 - '[[Changes/Aider/2024-06-20-commit-messages-are-no-longer-prefixed-with-aider-instead-the-git-author-and-com|Commit
@@ -81,7 +81,7 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.40.0
 ## Nearby in Developer Workflow
 
 - Earlier: 2024-06-20 · Aider · [[Changes/Aider/2024-06-20-commit-messages-are-no-longer-prefixed-with-aider-instead-the-git-author-and-com|Commit messages are no longer prefixed with "aider:"]]
-- Later: 2024-06-29 · OpenHands · [[Changes/OpenHands/2024-06-29-4-developer-workflow-changes-in-0-7-0|4 Developer Workflow changes in 0.7.0]]
+- Later: 2024-06-28 · Dify · [[Changes/Dify/2024-06-28-3-developer-workflow-changes-in-0-6-12|3 Developer Workflow changes in 0.6.12]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

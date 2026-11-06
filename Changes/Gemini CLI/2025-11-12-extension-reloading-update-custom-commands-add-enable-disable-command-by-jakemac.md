@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ebc1356fe6db373e3b8e3bb34c4c44dcc30fb5f81a67b6d4830f888b6ea8bc43
+machine_hash: e371b9e0744a6cc3aed6a73fb1b73f119b9d53c2f4617650327b13ad597b70a8
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -43,8 +43,8 @@ record:
   title: '[Extension Reloading]: Update custom commands, add enable/disable command'
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-11-05-made-terminal-tab-read-only-by-amanape-in-https-github-com-openhands-openhands-p|Made
-  terminal tab read-only]]'
+- '[[Changes/Open WebUI/2025-11-06-3-developer-workflow-changes-in-v0-6-35|3 Developer
+  Workflow changes in v0.6.35]]'
 - '[[Changes/Gemini CLI/2025-11-07-5-developer-workflow-changes-in-v0-13-0|5 Developer
   Workflow changes in v0.13.0]]'
 - '[[Changes/Codex CLI/2025-11-09-4-developer-workflow-changes-in-rust-v0-57-0|4 Developer

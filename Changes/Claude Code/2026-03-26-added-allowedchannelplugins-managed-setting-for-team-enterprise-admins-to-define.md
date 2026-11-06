@@ -4,20 +4,20 @@ date: '2026-03-26'
 description: 'Claude Code · 2026-03-26 · Enterprise and Administration: Added `allowedChannelPlugins`
   managed setting for team/enterprise admins to define a channel plugin…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin
-    improvements: Team admins can now mark themselves as unpaid users and can see…]]'
+  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
+    for Google Workspace accounts]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 736
+  lag_days: 1056
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 84462816825d4febe3abd099ac747f165ca57f9725f9dcb64d21c1d3cde21983
+machine_hash: cb3d50243022f560d03a171e171738e2510760411e9248c7905dd039eb718fa7
 product: claude-code
 product_name: Claude Code
 record:
@@ -53,12 +53,9 @@ record:
     to define…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-05-13388-config-enforce-enterprise-feature-requirements-bolinfest|♯13388
-  config: enforce enterprise feature requirements @bolinfest]]'
-- '[[Changes/Claude Code/2026-03-14-added-session-quality-survey-enterprise-admins-can-configure-the-sample-rate-via|Added
-  session quality survey]]'
-- '[[Changes/ChatGPT/2026-03-17-we-ve-simplified-the-model-picker-to-make-it-easier-to-choose-the-right-level-of-a3fc77|We’ve
-  simplified the model picker to make it easier to choose the right level of reasoning]]'
+- '[[Changes/Replit/2026-03-20-teams-and-enterprise|Teams and Enterprise]]'
+- '[[Changes/Replit/2026-03-20-enterprise-audit-log-portal|Enterprise Audit Log Portal]]'
+- '[[Changes/ElevenLabs/2026-03-25-workspace|Workspace]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-26-v2-1-84-github-301540101-d02104aa|claude-code-2026-03-26-v2-1-84-github-301540101-d02104aa]]'
 source_type: github_releases
 theme: enterprise-admin
@@ -96,14 +93,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-03-17 · ChatGPT · [[Changes/ChatGPT/2026-03-17-we-ve-simplified-the-model-picker-to-make-it-easier-to-choose-the-right-level-of-a3fc77|We’ve simplified the model picker to make it easier to choose the right level of reasoning]]
+- Earlier: 2026-03-25 · ElevenLabs · [[Changes/ElevenLabs/2026-03-25-workspace|Workspace]]
 - Later: 2026-03-26 · Codex CLI · [[Changes/Codex CLI/2026-03-26-15789-treat-chatgpt-hc-plan-as-enterprise-arnavdugar-openai|♯15789 Treat ChatGPT hc plan as Enterprise @arnavdugar-openai]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-03-20 · Cursor · [[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin improvements: Team admins can now mark themselves as unpaid users and can see…]]
+- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

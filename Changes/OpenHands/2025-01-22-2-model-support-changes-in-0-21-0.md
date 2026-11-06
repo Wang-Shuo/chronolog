@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7ca54a55566a6cd420f45e2803ff78f0003a2aefdb473c669e6f13a2f962eec7
+machine_hash: dd84b3067aaa62d8281d50afe6b566b62d325e65347392244660fe03ebbb973a
 product: openhands
 product_name: OpenHands
 record:
@@ -44,12 +44,12 @@ record:
   title: 2 Model Support changes in 0.21.0
   type: change
 related_changes:
-- '[[Changes/Aider/2025-01-10-2-model-support-changes-in-v0-71-0|2 Model Support changes
-  in v0.71.0]]'
-- '[[Changes/Aider/2025-01-20-4-model-support-changes-in-v0-72-0|4 Model Support changes
-  in v0.72.0]]'
-- '[[Changes/Cline/2025-01-21-add-vs-code-lm-api-provider-to-run-models-provided-by-other-vs-code-extensions-e|Add
-  VS Code LM API provider to run models provided by other VS Code extensions…]]'
+- '[[Changes/Dify/2025-01-22-8-model-support-changes-in-0-15-2|8 Model Support changes
+  in 0.15.2]]'
+- '[[Changes/Open WebUI/2025-01-22-2-model-support-changes-in-v0-5-6|2 Model Support
+  changes in v0.5.6]]'
+- '[[Changes/Open WebUI/2025-01-22-2-model-support-changes-in-v0-5-5|2 Model Support
+  changes in v0.5.5]]'
 source_release: '[[Releases/OpenHands/openhands-2025-01-22-0-21-0-github-196131705-25b6d08c|openhands-2025-01-22-0-21-0-github-196131705-25b6d08c]]'
 source_type: github_releases
 theme: model-support
@@ -84,7 +84,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/0.21.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-01-21 · Cline · [[Changes/Cline/2025-01-21-add-vs-code-lm-api-provider-to-run-models-provided-by-other-vs-code-extensions-e|Add VS Code LM API provider to run models provided by other VS Code extensions…]]
+- Earlier: 2025-01-22 · Open WebUI · [[Changes/Open WebUI/2025-01-22-2-model-support-changes-in-v0-5-5|2 Model Support changes in v0.5.5]]
 - Later: 2025-01-23 · Cursor · [[Changes/Cursor/2025-01-23-deepseek-models-deepseek-r1-and-deepseek-v3-are-supported-in-0-45-and-0-44-you-c|Deepseek models: Deepseek R1 and Deepseek v3 are supported in 0.45 and 0.44]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: d1088554d75793e600939671f71bfdee84085745fd112bc1bee480b26db95ef3
+machine_hash: e25c2c3f745a18ef20657eb03111cf2bef57706265d4c125b05704a294b83d71
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,8 +43,8 @@ record:
   title: Add Claude Haiku 5.5 to model selection and --model completions
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-10-07-model-picker-updates-the-recommended-list-to-prioritize-gpt-6-1-sol-gpt-6-astra|Model
-  picker updates the recommended list to prioritize GPT-6.1 Sol, GPT-6…]]'
+- '[[Changes/Lovable/2026-10-07-gemini-3-7-flash-is-deprecated-for-your-app-s-ai-features|Gemini
+  3.7 Flash is deprecated for your app''s AI features]]'
 - '[[Changes/Claude Code/2026-10-08-3-model-support-changes-in-v2-1-295|3 Model Support
   changes in v2.1.295]]'
 - '[[Changes/Codex CLI/2026-10-08-11-model-support-changes-in-rust-v0-162-0|11 Model
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-10-08 · Codex CLI · [[Changes/Codex CLI/2026-10-08-11-model-support-changes-in-rust-v0-162-0|11 Model Support changes in rust-v0.162.0]]
-- Later: 2026-10-08 · OpenHands · [[Changes/OpenHands/2026-10-08-test-e2e-launch-the-same-model-profile-test-from-the-beta-profile-by-enyst-in-ht|test(e2e): launch the same-model profile test from the BETA profile]]
+- Later: 2026-10-08 · Ollama · [[Changes/Ollama/2026-10-08-4-model-support-changes-in-v0-40-2|4 Model Support changes in v0.40.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 9aa5d0e2f507edd3ffaab5daadf5faedfd1c5925516b489919e9288a2d6c4674
+machine_hash: ec6921459ace05ff1b9db2bc59d7355122fe1e9a5af0eb7457dd7973fe9688f6
 product: windsurf
 product_name: Windsurf
 record:
@@ -60,11 +60,11 @@ record:
   title: Gemini 3 Flash
   type: change
 related_changes:
-- '[[Changes/Cline/2025-12-22-5-model-support-changes-in-v3-46-0|5 Model Support changes
-  in v3.46.0]]'
 - '[[Changes/Gemini CLI/2025-12-22-5-model-support-changes-in-v0-22-0|5 Model Support
   changes in v0.22.0]]'
 - '[[Changes/Windsurf/2025-12-24-cascade-hooks|Cascade Hooks]]'
+- '[[Changes/Dify/2025-12-25-feat-add-type-field-to-pipelinerecommendedplugin-model-add-query-param-type-to-r|feat:
+  Add "type" field to PipelineRecommendedPlugin model]]'
 source_release: '[[Releases/Windsurf/windsurf-2025-12-27-v1-13-5-7fb4dd9f|windsurf-2025-12-27-v1-13-5-7fb4dd9f]]'
 source_type: windsurf_changelog
 theme: model-support
@@ -100,7 +100,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-12-24 · Windsurf · [[Changes/Windsurf/2025-12-24-cascade-hooks|Cascade Hooks]]
+- Earlier: 2025-12-25 · Dify · [[Changes/Dify/2025-12-25-feat-add-type-field-to-pipelinerecommendedplugin-model-add-query-param-type-to-r|feat: Add "type" field to PipelineRecommendedPlugin model]]
 - Later: 2026-01-02 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-02-model-picker-shows-clearer-message-with-settings-link-when-models-are-unavailabl|Model picker shows clearer message with settings link when models are unavailable]]
 <!-- chronolog:end -->
 

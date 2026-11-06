@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 845ec64bfbf9ad783f32134b3254ba6c57b558f7d511ec233ca0a2d33cb4872d
+machine_hash: d3a230561d4022d0c9ffddf6f1cb5930f81cea23692b72baabdd9eb7f2c49755
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,12 +43,12 @@ record:
     preview
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-05-07-build-in-parallel-from-plans|Build in parallel from
-  plans]]'
 - '[[Changes/Codex CLI/2026-05-08-added-a-faster-cargo-profiling-build-profile-and-disabled-empty-doctest-targets|Added
   a faster Cargo profiling build profile and disabled empty doctest targets…]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-08-faster-user-list-and-user-switch-for-multi-account-users|Faster
   /user list and /user switch for multi-account users]]'
+- '[[Changes/Open WebUI/2026-05-09-4-reliability-and-performance-changes-in-v0-9-3|4
+  Reliability and Performance changes in v0.9.3]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-11-v2-1-139-github-320692766-5e65de7d|claude-code-2026-05-11-v2-1-139-github-320692766-5e65de7d]]'
 source_type: github_releases
 theme: reliability-performance
@@ -86,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-05-08 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-08-faster-user-list-and-user-switch-for-multi-account-users|Faster /user list and /user switch for multi-account users]]
+- Earlier: 2026-05-09 · Open WebUI · [[Changes/Open WebUI/2026-05-09-4-reliability-and-performance-changes-in-v0-9-3|4 Reliability and Performance changes in v0.9.3]]
 - Later: 2026-05-11 · Cursor · [[Changes/Cursor/2026-05-11-default-bugbot-continues-to-use-the-same-effort-level-as-it-does-today-optimized|Default: Bugbot continues to use the same effort level as it does today]]
 <!-- chronolog:end -->
 

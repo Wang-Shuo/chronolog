@@ -4,20 +4,20 @@ date: '2024-11-22'
 description: 'ChatGPT · 2024-11-22 · Image Generation: DALL-E focused view has an
   updated layout'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2024-08-08-we-re-rolling-out-the-ability-for-chatgpt-free-users-to-create-up-to-two-images-2c505c|DALL·E
-    3 for ChatGPT Free users]]'
+  first_in_tracked: "[[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|\U0001F3A8
+    DALL-E Integration]]"
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 106
+  lag_days: 257
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 922c30ff85974df31ca699ae5e1ca877a25d4df581d1e5069be6911f8e12a1b6
+machine_hash: 991be2476e4420015422aca664039f9f7e281faba4544521c23148742a1f817f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,8 +41,12 @@ record:
   title: DALL-E focused view has an updated layout
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2024-08-08-we-re-rolling-out-the-ability-for-chatgpt-free-users-to-create-up-to-two-images-2c505c|DALL·E
-  3 for ChatGPT Free users]]'
+- '[[Changes/Dify/2024-10-14-2-image-generation-changes-in-0-9-2|2 Image Generation
+  changes in 0.9.2]]'
+- '[[Changes/Dify/2024-10-28-vision-support-for-tool-image-gen-image-generation-with-vision-models-is-now-sup|Vision
+  Support for Tool Image Gen: Image generation with vision models is now…]]'
+- '[[Changes/Dify/2024-11-18-2-image-generation-changes-in-0-11-2|2 Image Generation
+  changes in 0.11.2]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2024-11-22-updates-to-the-chatgpt-web-experience-bf046a2c|chatgpt-2024-11-22-updates-to-the-chatgpt-web-experience-bf046a2c]]'
 source_type: chatgpt_changelog
 theme: image-generation
@@ -75,14 +79,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Image Generation
 
-- Earlier: 2024-08-08 · ChatGPT · [[Changes/ChatGPT/2024-08-08-we-re-rolling-out-the-ability-for-chatgpt-free-users-to-create-up-to-two-images-2c505c|DALL·E 3 for ChatGPT Free users]]
-- Later: 2025-03-18 · ChatGPT · [[Changes/ChatGPT/2025-03-18-increased-the-default-size-for-in-line-generated-images|Increased the default size for in‐line generated images]]
+- Earlier: 2024-11-18 · Dify · [[Changes/Dify/2024-11-18-2-image-generation-changes-in-0-11-2|2 Image Generation changes in 0.11.2]]
+- Later: 2024-12-26 · Open WebUI · [[Changes/Open WebUI/2024-12-26-image-generation-error-fixed-the-issue-causing-get-automatic1111-api-auth-errors|🖼️ Image Generation Error]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-08-08 · ChatGPT · [[Changes/ChatGPT/2024-08-08-we-re-rolling-out-the-ability-for-chatgpt-free-users-to-create-up-to-two-images-2c505c|DALL·E 3 for ChatGPT Free users]]
+- Earliest same-theme entry in the tracked set: 2024-03-10 · Open WebUI · [[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|🎨 DALL-E Integration]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

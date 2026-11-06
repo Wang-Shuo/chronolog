@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 475963c13cf7a4cffb7afdd59926ed2d5e562d639bdbc4e9c615b1faabdfb7b8
+machine_hash: 48a76909cb8e3d71a8b728b31da30f9dc25b000b59e5509eee6731cb090b5009
 product: cursor
 product_name: Cursor
 record:
@@ -43,12 +43,11 @@ record:
   title: '1.5.5: General stability improvements and bug fixes to enhance overall application…'
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-08-06-4-reliability-and-performance-changes-in-v0-1-18|4
-  Reliability and Performance changes in v0.1.18]]'
-- '[[Changes/Gemini CLI/2025-08-12-2-reliability-and-performance-changes-in-v0-1-19|2
-  Reliability and Performance changes in v0.1.19]]'
-- '[[Changes/Gemini CLI/2025-08-14-6-reliability-and-performance-changes-in-v0-1-21|6
-  Reliability and Performance changes in v0.1.21]]'
+- '[[Changes/Replit/2025-08-15-this-week-was-focused-on-bug-fixes-and-performance-improvements|This
+  week was focused on bug fixes and performance improvements]]'
+- '[[Changes/ElevenLabs/2025-08-20-global-tts-api-preview|Global TTS API preview]]'
+- '[[Changes/Ollama/2025-08-20-2-reliability-and-performance-changes-in-v0-11-6|2
+  Reliability and Performance changes in v0.11.6]]'
 source_release: '[[Releases/Cursor/cursor-2025-08-21-1-5-https-cursor-com-changelog-1-5-f93efb89|cursor-2025-08-21-1-5-https-cursor-com-changelog-1-5-f93efb89]]'
 source_type: cursor_changelog
 theme: reliability-performance
@@ -84,8 +83,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-08-14 · Gemini CLI · [[Changes/Gemini CLI/2025-08-14-6-reliability-and-performance-changes-in-v0-1-21|6 Reliability and Performance changes in v0.1.21]]
-- Later: 2025-08-26 · Codex CLI · [[Changes/Codex CLI/2025-08-26-2-reliability-and-performance-changes-in-rust-v0-24-0|2 Reliability and Performance changes in rust-v0.24.0]]
+- Earlier: 2025-08-20 · Ollama · [[Changes/Ollama/2025-08-20-2-reliability-and-performance-changes-in-v0-11-6|2 Reliability and Performance changes in v0.11.6]]
+- Later: 2025-08-21 · Open WebUI · [[Changes/Open WebUI/2025-08-21-6-reliability-and-performance-changes-in-v0-6-23|6 Reliability and Performance changes in v0.6.23]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

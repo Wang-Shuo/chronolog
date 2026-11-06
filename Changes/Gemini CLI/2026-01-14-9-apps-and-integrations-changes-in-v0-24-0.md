@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7d8444de178d6f502e8c28e97309e0db4f9d8dc239bf709c1928ece7001d6247
+machine_hash: 24d0079fc4f48f5bcfe7984deb0df6468d725c8c7e369865faba43216b2542bb
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -61,10 +61,10 @@ record:
   title: 9 Apps and Integrations changes in v0.24.0
   type: change
 related_changes:
-- '[[Changes/Cline/2026-01-10-2-apps-and-integrations-changes-in-v3-49-0|2 Apps and
-  Integrations changes in v3.49.0]]'
 - '[[Changes/Claude Code/2026-01-13-2-apps-and-integrations-changes-in-v2-1-6|2 Apps
   and Integrations changes in v2.1.6]]'
+- '[[Changes/Dify/2026-01-13-13-apps-and-integrations-changes-in-1-11-3|13 Apps and
+  Integrations changes in 1.11.3]]'
 - '[[Changes/Codex CLI/2026-01-14-10-apps-and-integrations-changes-in-rust-v0-81-0|10
   Apps and Integrations changes in rust-v0.81.0]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-01-14-v0-24-0-github-276723271-62398547|gemini-cli-2026-01-14-v0-24-0-github-276723271-62398547]]'

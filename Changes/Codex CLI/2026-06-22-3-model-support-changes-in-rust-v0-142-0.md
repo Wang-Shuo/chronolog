@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9058f2352ebb9033afe7ee92e7df30e88336d86a345b03bb647605bf4010df1e
+machine_hash: d2ab1b1ae4b0679d0d3374d77c74ef9343f3698a133b436238d572265da22cdf
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,12 +44,12 @@ record:
   title: 3 Model Support changes in rust-v0.142.0
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-06-18-long-press-send-to-choose-a-model-android-users-on-paid-plans-can-now-long-press|Long-press
-  send to choose a model]]'
 - '[[Changes/Gemini CLI/2026-06-18-vertex-ai-model-mapping-fix-by-davidapierce-in-https-github-com-google-gemini-ge|Vertex
   ai model mapping fix]]'
 - '[[Changes/Claude Code/2026-06-19-added-a-warning-when-the-requested-model-is-deprecated-or-automatically-updated|Added
   a warning when the requested model is deprecated or automatically updated…]]'
+- '[[Changes/v0/2026-06-19-removed-the-enhance-prompt-button-from-the-composer-since-the-models-ask-clarify|Removed
+  the Enhance Prompt button from the composer, since the models ask clarifying…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-06-22-rust-v0-142-0-github-343189954-a218ab4e|codex-cli-2026-06-22-rust-v0-142-0-github-343189954-a218ab4e]]'
 source_type: github_releases
 theme: model-support
@@ -100,8 +100,8 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.142.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-06-19 · Claude Code · [[Changes/Claude Code/2026-06-19-added-a-warning-when-the-requested-model-is-deprecated-or-automatically-updated|Added a warning when the requested model is deprecated or automatically updated…]]
-- Later: 2026-06-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-23-7-model-support-changes-in-v1-0-64|7 Model Support changes in v1.0.64]]
+- Earlier: 2026-06-19 · v0 · [[Changes/v0/2026-06-19-removed-the-enhance-prompt-button-from-the-composer-since-the-models-ask-clarify|Removed the Enhance Prompt button from the composer, since the models ask clarifying…]]
+- Later: 2026-06-22 · ElevenLabs · [[Changes/ElevenLabs/2026-06-22-workspaces|Workspaces]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

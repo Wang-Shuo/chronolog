@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e058ed46ffdc3d105b2b7502be1f40f459a17d48f197a94b559533ddbbb6af01
+machine_hash: f1993710dda2d9d9c4d7c218c925a93025540b0b533a8d2a504f0f6e2116ab92
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,12 +46,12 @@ record:
   title: 2 Reliability and Performance changes in v2.1.199
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-25-added-automatic-memory-pressure-reaping-for-idle-background-shell-commands-disab|Added
-  automatic memory-pressure reaping for idle background shell commands…]]'
-- '[[Changes/Codex CLI/2026-06-25-apps-can-display-richer-safety-buffering-ui-using-server-provided-visibility-and|Apps
-  can display richer safety-buffering UI using server-provided visibility…]]'
-- '[[Changes/GitHub Copilot CLI/2026-06-30-perform-tokenizer-warmup-in-parallel-on-a-background-thread-for-better-startup-p|Perform
-  tokenizer warmup in parallel on a background thread for better startup performance]]'
+- '[[Changes/Lovable/2026-06-30-faster-ai-responses-in-your-app-with-openai-priority-processing|Faster
+  AI responses in your app with OpenAI priority processing]]'
+- '[[Changes/Ollama/2026-06-30-2-reliability-and-performance-changes-in-v0-31-1|2
+  Reliability and Performance changes in v0.31.1]]'
+- "[[Changes/Open WebUI/2026-07-01-general-improvements-various-improvements-were-implemented-across-the-applicatio|\U0001F504
+  General improvements. Various improvements were implemented across…]]"
 source_release: '[[Releases/Claude Code/claude-code-2026-07-02-v2-1-199-github-348195313-a8a76d9f|claude-code-2026-07-02-v2-1-199-github-348195313-a8a76d9f]]'
 source_type: github_releases
 theme: reliability-performance
@@ -85,7 +85,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.199
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-06-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-30-perform-tokenizer-warmup-in-parallel-on-a-background-thread-for-better-startup-p|Perform tokenizer warmup in parallel on a background thread for better startup performance]]
+- Earlier: 2026-07-01 · Open WebUI · [[Changes/Open WebUI/2026-07-01-general-improvements-various-improvements-were-implemented-across-the-applicatio|🔄 General improvements. Various improvements were implemented across…]]
 - Later: 2026-07-03 · Claude Code · [[Changes/Claude Code/2026-07-03-improved-the-install-script-to-explain-when-installation-is-killed-by-the-system|Improved the install script to explain when installation is killed by the system…]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 48b0c1f0a2362c45ec1f309c810dd10dbf4ea6bc39beb71248c9745ebc4d637e
+machine_hash: 68ac18213c1f76b1b9524fffd1c09b865af99058a48903869381e55e13d14b82
 product: openhands
 product_name: OpenHands
 record:
@@ -93,7 +93,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-08-21 · Claude Code · [[Changes/Claude Code/2026-08-21-2-agent-mode-changes-in-v2-1-239|2 Agent Mode changes in v2.1.239]]
-- Later: 2026-08-22 · Cline · [[Changes/Cline/2026-08-22-carry-session-and-client-identity-into-langfuse-traces-for-hub-backed-and-delega|Carry session and client identity into Langfuse traces for Hub-backed…]]
+- Later: 2026-08-21 · Replit · [[Changes/Replit/2026-08-21-agent|Agent]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

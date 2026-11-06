@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5e012698caca9639ee94abd40654a2209ba90d68e14e088d276ede177aa0dafc
+machine_hash: 69bc43332ed9f37a50bef7afc28b2e6b99d23c94c31de25fa5b03e27383dfb14
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -101,7 +101,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.101.0
 ## Nearby in Memory and Personalization
 
 - Earlier: 2026-02-12 · Codex CLI · [[Changes/Codex CLI/2026-02-12-11-memory-and-personalization-changes-in-rust-v0-100-0|11 Memory and Personalization changes in rust-v0.100.0]]
-- Later: 2026-02-14 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-14-reduced-memory-growth-in-long-sessions-by-evicting-transient-events-after-compac|Reduced memory growth in long sessions by evicting transient events after compaction]]
+- Later: 2026-02-12 · Open WebUI · [[Changes/Open WebUI/2026-02-12-2-memory-and-personalization-changes-in-v0-8-0|2 Memory and Personalization changes in v0.8.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

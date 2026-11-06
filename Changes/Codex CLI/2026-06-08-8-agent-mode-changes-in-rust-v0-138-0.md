@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0517d974de670054adf6e4cf6912f184c776605fad81c35ce4f438a3d44ddec5
+machine_hash: c7f65312c4e6ffdcdc030b8911448a20d04058fd56f85b3c003cb0bf027c7531
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -57,8 +57,8 @@ record:
   title: 8 Agent Mode changes in rust-v0.138.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-05-2-agent-mode-changes-in-v1-0-60|2 Agent
-  Mode changes in v1.0.60]]'
+- '[[Changes/Replit/2026-06-05-sell-physical-products-with-shopify|Sell physical products
+  with Shopify]]'
 - '[[Changes/Claude Code/2026-06-06-claude-agents-typing-a-url-into-the-list-now-filters-to-the-session-whose-first|claude
   agents: typing a URL into the list now filters to the session whose first…]]'
 - '[[Changes/Claude Code/2026-06-08-2-agent-mode-changes-in-v2-1-169|2 Agent Mode
@@ -117,7 +117,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.138.0
 ## Nearby in Agent Mode
 
 - Earlier: 2026-06-08 · Claude Code · [[Changes/Claude Code/2026-06-08-2-agent-mode-changes-in-v2-1-169|2 Agent Mode changes in v2.1.169]]
-- Later: 2026-06-09 · Codex CLI · [[Changes/Codex CLI/2026-06-09-5-agent-mode-changes-in-rust-v0-139-0|5 Agent Mode changes in rust-v0.139.0]]
+- Later: 2026-06-08 · ElevenLabs · [[Changes/ElevenLabs/2026-06-08-elevenagents|ElevenAgents]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

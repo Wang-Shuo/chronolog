@@ -4,20 +4,20 @@ date: '2026-09-16'
 description: 'OpenHands · 2026-09-16 · Files and Data: feat: track authenticated Canvas
   arrivals by @neubig in https://github.com/OpenHands/OpenHands/pull/17083'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code
-    interpreter is now rolling out in beta on web]]'
+  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
+    Files and Data changes in 0.2.2]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1168
+  lag_days: 1210
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 05ee6ca6399828eda38695e6da7d836aa8ed607af14da1d6b679349dcecbe26c
+machine_hash: 87fed7c23a92e9537fef8fdfd21bc1d877761dd06091e505fd326c2ffa7a3ff0
 product: openhands
 product_name: OpenHands
 record:
@@ -41,12 +41,12 @@ record:
   title: 'feat: track authenticated Canvas arrivals'
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-09-11-2-files-and-data-changes-in-v1-18-0|2 Files and
-  Data changes in v1.18.0]]'
 - '[[Changes/Claude Code/2026-09-14-2-files-and-data-changes-in-v2-1-271|2 Files and
   Data changes in v2.1.271]]'
 - '[[Changes/Claude Code/2026-09-15-improved-artifact-database-writes-an-update-can-now-remove-a-single-field-instea|Improved
   artifact database writes]]'
+- '[[Changes/Claude/2026-09-16-create-designs-decks-and-docs-in-any-conversation|Create
+  designs, decks, and docs in any conversation]]'
 source_release: '[[Releases/OpenHands/openhands-2026-09-16-v1-19-0-github-390206611-a05af427|openhands-2026-09-16-v1-19-0-github-390206611-a05af427]]'
 source_type: github_releases
 theme: file-data
@@ -86,14 +86,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2026-09-15 · Claude Code · [[Changes/Claude Code/2026-09-15-improved-artifact-database-writes-an-update-can-now-remove-a-single-field-instea|Improved artifact database writes]]
+- Earlier: 2026-09-16 · Claude · [[Changes/Claude/2026-09-16-create-designs-decks-and-docs-in-any-conversation|Create designs, decks, and docs in any conversation]]
 - Later: 2026-09-17 · Claude Code · [[Changes/Claude Code/2026-09-17-claude-tag-removed-the-repeated-guest-attribution-note-claude-appended-to-a-slac|Claude Tag Removed the repeated guest-attribution note Claude appended to a Slack…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-06 · ChatGPT · [[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code interpreter is now rolling out in beta on web]]
+- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

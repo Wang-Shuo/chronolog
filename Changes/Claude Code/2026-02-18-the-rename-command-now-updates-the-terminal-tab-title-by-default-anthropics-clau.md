@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a962d74c9c04ec11bc112742870d4a720c55e604dbe52f33938e9e6a1f98a2d0
+machine_hash: a30fd4b1a408c721947a4ef70b41c12357f6603c99ea92bc8997ac5e569fa2a0
 product: claude-code
 product_name: Claude Code
 record:
@@ -50,12 +50,12 @@ record:
   title: The `/rename` command now updates the terminal tab title by default…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-02-17-removed-auto-accept-on-commit-setting-so-pending-diffs-are-automatically-accepte|Removed
-  Auto-Accept on Commit setting so pending diffs are automatically accepted…]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-17-2-developer-workflow-changes-in-v0-0-411|2
   Developer Workflow changes in v0.0.411]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-17-autopilot-mode-and-fleet-command-now-available-to-all-users|Autopilot
   mode and /fleet command now available to all users]]'
+- "[[Changes/Open WebUI/2026-02-17-tool-call-display-improvements-tool-call-results-now-display-arguments-in-a-clea|\U0001F527
+  Tool call display improvements. Tool call results now display arguments…]]"
 source_release: '[[Releases/Claude Code/claude-code-2026-02-18-v2-1-47-github-287886320-98b6e931|claude-code-2026-02-18-v2-1-47-github-287886320-98b6e931]]'
 source_type: github_releases
 theme: developer-workflow
@@ -89,7 +89,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-02-17 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-17-autopilot-mode-and-fleet-command-now-available-to-all-users|Autopilot mode and /fleet command now available to all users]]
+- Earlier: 2026-02-17 · Open WebUI · [[Changes/Open WebUI/2026-02-17-tool-call-display-improvements-tool-call-results-now-display-arguments-in-a-clea|🔧 Tool call display improvements. Tool call results now display arguments…]]
 - Later: 2026-02-18 · Cline · [[Changes/Cline/2026-02-18-add-skills-slash-command-to-cli-for-viewing-and-managing-installed-skills|Add /skills slash command to CLI for viewing and managing installed skills]]
 <!-- chronolog:end -->
 

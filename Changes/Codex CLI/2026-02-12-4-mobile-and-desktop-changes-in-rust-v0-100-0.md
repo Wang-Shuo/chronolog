@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: db5a4b3d9654fa8822125eec19475271bac951d93bcc032877b7dd394f67a57e
+machine_hash: 81ad44b9b4c98fb8ed9b30cfe5476c8e42f3ae92d03c7c0482e1865557005c68
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -49,10 +49,9 @@ record:
   title: 4 Mobile and Desktop changes in rust-v0.100.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-02-04-2-mobile-and-desktop-changes-in-rust-v0-95-0|2 Mobile
-  and Desktop changes in rust-v0.95.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-05-detached-shell-processes-work-on-vanilla-macos-installations|Detached
   shell processes work on vanilla macOS installations]]'
+- '[[Changes/ElevenLabs/2026-02-09-new-endpoints|New Endpoints]]'
 - '[[Changes/Codex CLI/2026-02-11-4-mobile-and-desktop-changes-in-rust-v0-99-0|4 Mobile
   and Desktop changes in rust-v0.99.0]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-02-12-rust-v0-100-0-github-285810603-4852bda6|codex-cli-2026-02-12-rust-v0-100-0-github-285810603-4852bda6]]'
@@ -102,7 +101,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.100.0
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-02-11 · Codex CLI · [[Changes/Codex CLI/2026-02-11-4-mobile-and-desktop-changes-in-rust-v0-99-0|4 Mobile and Desktop changes in rust-v0.99.0]]
-- Later: 2026-02-13 · Claude Code · [[Changes/Claude Code/2026-02-13-added-windows-arm64-win32-arm64-native-binary-support|Added Windows ARM64 (win32-arm64) native binary support]]
+- Later: 2026-02-12 · Ollama · [[Changes/Ollama/2026-02-12-installing-ollama-via-the-curl-install-script-on-macos-will-now-only-prompt-for|Installing Ollama via the curl install script on macOS will now only prompt…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: a57fceb356a7400c4ee449b2ace820e0b5d0faf423bf2ea875dbbd2adeed7231
+machine_hash: 45ce8cc57368989d9462956e24144b47ad70ab0dca9a95d580b4e0c4dd549a64
 product: openhands
 product_name: OpenHands
 record:
@@ -43,10 +43,9 @@ record:
   title: Slack Integration (Beta) with Cloud OpenHands @malhotra5…
   type: change
 related_changes:
-- '[[Changes/Cline/2025-06-12-2-apps-and-integrations-changes-in-v3-17-13|2 Apps and
-  Integrations changes in v3.17.13]]'
-- '[[Changes/Cursor/2025-06-12-agents-understand-context-6b73fc|Agents understand
-  context]]'
+- '[[Changes/ElevenLabs/2025-06-17-workspaces|Workspaces]]'
+- '[[Changes/ElevenLabs/2025-06-17-agents-platform-mcp-servers|Agents Platform - MCP
+  Servers]]'
 - '[[Changes/OpenHands/2025-06-20-3-apps-and-integrations-changes-in-0-44-0|3 Apps
   and Integrations changes in 0.44.0]]'
 source_release: '[[Releases/OpenHands/openhands-2025-06-20-0-43-0-github-226787361-4fc69cba|openhands-2025-06-20-0-43-0-github-226787361-4fc69cba]]'

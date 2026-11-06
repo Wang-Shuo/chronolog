@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 21069803b5ebe81bbcb372fc2f4619de601dd622cf79452dff8389c0a19a63f0
+machine_hash: 02ae27da78baaa68ed8e783b4970d1341436eec7d43c34bd9db6ab962fb8aeab
 product: cline
 product_name: Cline
 record:
@@ -43,10 +43,10 @@ record:
   title: Restore the "View Changes" button on completion rows, backed by SDK checkpoints…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-08-03-2-editor-experience-changes-in-v1-0-78|2
-  Editor Experience changes in v1.0.78]]'
 - '[[Changes/Claude Code/2026-08-04-changed-emoji-autocomplete-to-accept-common-alternate-shortcodes-like-thumbsup-t|Changed
   emoji autocomplete to accept common alternate shortcodes like :thumbsup:…]]'
+- '[[Changes/Ollama/2026-08-04-tui-fixes-pipe-delimited-prose-no-longer-renders-as-a-table-enter-accepts-the-hi|TUI
+  fixes: pipe-delimited prose no longer renders as a table, Enter accepts…]]'
 - '[[Changes/OpenHands/2026-08-05-chore-deps-bump-monaco-editor-from-0-55-1-to-0-56-0-in-the-monaco-group-across-1|chore(deps):
   bump monaco-editor from 0.55.1 to 0.56.0 in the monaco group across 1…]]'
 source_release: '[[Releases/Cline/cline-2026-08-09-v4-1-7-github-367373350-886ff444|cline-2026-08-09-v4-1-7-github-367373350-886ff444]]'

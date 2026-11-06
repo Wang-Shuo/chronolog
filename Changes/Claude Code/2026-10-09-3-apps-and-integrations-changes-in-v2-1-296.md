@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2c9c80a82e404f5c0b3d6a1d27c0241ae5f7bbf62427a17a06a01a107917082f
+machine_hash: 3a36200358536f7182b61083a7669824070273fbd1759d60330fca9bacefc9d7
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,10 +48,9 @@ record:
   title: 3 Apps and Integrations changes in v2.1.296
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-08-20-apps-and-integrations-changes-in-rust-v0-162-0|20
-  Apps and Integrations changes in rust-v0.162.0]]'
-- '[[Changes/GitHub Copilot CLI/2026-10-08-2-apps-and-integrations-changes-in-v1-0-94|2
-  Apps and Integrations changes in v1.0.94]]'
+- '[[Changes/Lovable/2026-10-08-chat-connectors-loom|Chat connectors: Loom]]'
+- '[[Changes/Ollama/2026-10-08-readme-add-oxi-to-community-integrations-by-maziluiosif-in-https-github-com-olla|README:
+  add oxi to community integrations]]'
 - '[[Changes/OpenHands/2026-10-08-feat-apps-add-authenticated-backend-view-helper-by-neubig-in-https-github-com-op|feat(apps):
   add authenticated backend view helper]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-09-v2-1-296-github-408141042-fd950e7a|claude-code-2026-10-09-v2-1-296-github-408141042-fd950e7a]]'

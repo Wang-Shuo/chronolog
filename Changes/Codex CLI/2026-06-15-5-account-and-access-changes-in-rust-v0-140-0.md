@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a57f46bb00ea662bee81f9a4b1de51191f325f7afec6aa845f3df89c8b891a8e
+machine_hash: 2f1203469be34bfebc5de39af0f092eca5f82a22dd9b5819e6a6d59abf1c5054
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -53,8 +53,8 @@ record:
   title: 5 Account and Access changes in rust-v0.140.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-08-2-account-and-access-changes-in-rust-v0-138-0|2
-  Account and Access changes in rust-v0.138.0]]'
+- '[[Changes/v0/2026-06-08-2-account-and-access-changes-in-changelog-update|2 Account
+  and Access changes in Changelog update]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-09-mcp-oauth-re-authentication-correctly-uses-the-saved-oauth-client-id-for-remote|MCP
   OAuth re-authentication correctly uses the saved OAuth client ID for remote servers]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-13-remote-mcp-oauth-servers-start-only-once-per-matching-config-instead-of-restarti|Remote

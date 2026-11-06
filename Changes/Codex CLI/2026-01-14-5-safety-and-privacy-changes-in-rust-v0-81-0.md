@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 14328451de26fe48290778ca33280cb55e33b58e07dddd92f11c6e777821d51c
+machine_hash: 8b61fbb2f5ab33893641fb396c4f7b0708defcf0a36cee08bc7b6a0b3d0c5284
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -51,8 +51,8 @@ record:
   title: 5 Safety and Privacy changes in rust-v0.81.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-13-fixed-permission-bypass-via-shell-line-continuation-that-could-allow-blocked-com|Fixed
-  permission bypass via shell line continuation that could allow blocked…]]'
+- '[[Changes/Dify/2026-01-13-5-safety-and-privacy-changes-in-1-11-3|5 Safety and Privacy
+  changes in 1.11.3]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-13-provide-inline-feedback-when-rejecting-tool-permission-requests-so-agents-don-t|Provide
   inline feedback when rejecting tool permission requests so agents don''t have…]]'
 - '[[Changes/Claude Code/2026-01-14-2-safety-and-privacy-changes-in-v2-1-7|2 Safety

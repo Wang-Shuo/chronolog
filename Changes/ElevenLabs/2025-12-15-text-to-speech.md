@@ -1,0 +1,104 @@
+---
+card_id: elevenlabs-2025-12-15-e2b377
+date: '2025-12-15'
+description: 'ElevenLabs · 2025-12-15 · Pricing Model: **Quality preset credit costs**:
+  Quality preset descriptions now include credit cost information: `high` (+20%)…'
+diffusion:
+  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
+    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
+  inference: No adoption, equivalence, or causation claim.
+  lag_days: 1096
+  relation: same-theme-chronology
+  role: later-observed
+  scope: tracked-products-only
+  theme: pricing-model
+  tracked_products_count: 20
+evolves_from: []
+extractor_version: fallback-v5
+impact: incremental
+kind: pricing
+machine_hash: b356fe470ba2faca708d46408f74677d18e706183d2e4a52c3de32008dcde416
+product: elevenlabs
+product_name: ElevenLabs
+record:
+  card_id: elevenlabs-2025-12-15-e2b377
+  comparison: ''
+  date: '2025-12-15'
+  description: 'ElevenLabs — ElevenLabs updates — 2025-12-15: **Quality preset credit
+    costs**: Quality preset descriptions now include credit cost information: `high`
+    (+20%), `ultra` (+50%), and `ultra_lossless` (+100%).'
+  evidence:
+  - quote: '**Quality preset credit costs**: Quality preset descriptions now include
+      credit cost information: `high` (+20%), `ultra` (+50%), and `ultra_lossless`
+      (+100%).'
+    source_release: https://elevenlabs.io/docs/changelog/2025/12/15
+  extractor_version: fallback-v5
+  impact: incremental
+  kind: pricing
+  product: elevenlabs
+  product_name: ElevenLabs
+  slug: text-to-speech
+  source_release: elevenlabs-2025-12-15-2025-12-15-32e7dec9
+  source_type: elevenlabs_changelog
+  theme: pricing-model
+  theme_matches: []
+  theme_resolution: manual-semantic-rule-v1
+  title: Text to Speech
+  type: change
+related_changes:
+- '[[Changes/ElevenLabs/2025-12-08-billing-9b631f|Billing]]'
+- '[[Changes/Dify/2025-12-11-2-pricing-model-changes-in-1-11-0|2 Pricing Model changes
+  in 1.11.0]]'
+- '[[Changes/v0/2025-12-12-v0-mini-fastest-and-most-cost-efficient|v0 Mini : Fastest
+  and most cost-efficient]]'
+source_release: '[[Releases/ElevenLabs/elevenlabs-2025-12-15-2025-12-15-32e7dec9|elevenlabs-2025-12-15-2025-12-15-32e7dec9]]'
+source_type: elevenlabs_changelog
+theme: pricing-model
+title: Text to Speech
+type: change
+---
+
+<!-- chronolog:begin region="header" -->
+# Text to Speech
+
+**ElevenLabs** · 2025-12-15 · [[Themes/pricing-model|Pricing Model]] · Pricing · [Official source](https://elevenlabs.io/docs/changelog/2025/12/15) · from [[Releases/ElevenLabs/elevenlabs-2025-12-15-2025-12-15-32e7dec9|ElevenLabs updates — 2025-12-15]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="evidence" -->
+> **Quality preset credit costs**: Quality preset descriptions now include credit cost information: `high` (+20%), `ultra` (+50%), and `ultra_lossless` (+100%).
+>
+> Source: https://elevenlabs.io/docs/changelog/2025/12/15
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/ElevenLabs/2025-12-15-javascript-sdk|JavaScript SDK]] · Voice and Audio
+- [[Changes/ElevenLabs/2025-12-15-android-sdk|Android SDK]] · Mobile and Desktop
+- [[Changes/ElevenLabs/2025-12-15-packages|Packages]] · Voice and Audio
+- [[Changes/ElevenLabs/2025-12-15-knowledge-base|Knowledge Base]] · Files and Data
+- [[Changes/ElevenLabs/2025-12-15-agents-platform|Agents Platform]] · Agent Mode
+- [[Changes/ElevenLabs/2025-12-15-python-sdk|Python SDK]] · Voice and Audio
+- [[Changes/ElevenLabs/2025-12-15-new-endpoints|New Endpoints]] · Files and Data
+- [[Changes/ElevenLabs/2025-12-15-sdk-releases|SDK Releases]] · Apps and Integrations
+- [[Changes/ElevenLabs/2025-12-15-agents-platform-ef857c|Agents Platform]] · Agent Mode
+- [[Changes/ElevenLabs/2025-12-15-whatsapp-integration|WhatsApp Integration]] · Apps and Integrations
+- [[Changes/ElevenLabs/2025-12-15-whatsapp-integration-fdcc9d|WhatsApp Integration]] · Apps and Integrations
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Pricing Model
+
+- Earlier: 2025-12-12 · v0 · [[Changes/v0/2025-12-12-v0-mini-fastest-and-most-cost-efficient|v0 Mini : Fastest and most cost-efficient]]
+- Later: 2025-12-18 · Cursor · [[Changes/Cursor/2025-12-18-billing-groups|Billing groups]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20elevenlabs-2025-12-15-e2b377&body=Card%3A%20Changes%2FElevenLabs%2F2025-12-15-text-to-speech.md%0ACard%20ID%3A%20elevenlabs-2025-12-15-e2b377%0ASource%3A%20https%3A%2F%2Felevenlabs.io%2Fdocs%2Fchangelog%2F2025%2F12%2F15%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

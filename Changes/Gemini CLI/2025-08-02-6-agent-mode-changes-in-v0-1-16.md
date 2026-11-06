@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a37cc5ee7e6cdc4d6fbbf2647d17945862cc2e13150ce304ccb0b8f55bdc5c63
+machine_hash: f2b8fd232e6a23368e3c2d969ab586f169d2af19a59f7c4380b366dd784d1fa1
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -53,12 +53,12 @@ record:
   title: 6 Agent Mode changes in v0.1.16
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-07-29-2-agent-mode-changes-in-1-3|2 Agent Mode changes in
-  1.3]]'
 - '[[Changes/Gemini CLI/2025-07-30-6-agent-mode-changes-in-v0-1-15|6 Agent Mode changes
   in v0.1.15]]'
 - '[[Changes/OpenHands/2025-07-31-improved-the-resolver-summary-generation-by-instructing-the-agent-to-focus-only|Improved
   the resolver summary generation by instructing the agent to focus only…]]'
+- '[[Changes/Replit/2025-08-01-agent-now-has-access-to-replit-docs|Agent now has access
+  to Replit Docs]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-08-02-v0-1-16-github-237037864-b4f734b7|gemini-cli-2025-08-02-v0-1-16-github-237037864-b4f734b7]]'
 source_type: github_releases
 theme: agent-mode
@@ -111,8 +111,8 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.1.16
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2025-07-31 · OpenHands · [[Changes/OpenHands/2025-07-31-improved-the-resolver-summary-generation-by-instructing-the-agent-to-focus-only|Improved the resolver summary generation by instructing the agent to focus only…]]
-- Later: 2025-08-05 · Gemini CLI · [[Changes/Gemini CLI/2025-08-05-6-agent-mode-changes-in-v0-1-17|6 Agent Mode changes in v0.1.17]]
+- Earlier: 2025-08-01 · Replit · [[Changes/Replit/2025-08-01-agent-now-has-access-to-replit-docs|Agent now has access to Replit Docs]]
+- Later: 2025-08-04 · ElevenLabs · [[Changes/ElevenLabs/2025-08-04-agents-platform|Agents Platform]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

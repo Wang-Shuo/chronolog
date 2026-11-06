@@ -5,20 +5,20 @@ description: 'GitHub Copilot CLI · 2026-07-30 · Voice and Audio: Voice mode pa
   playing media before recording and resumes it afterward, where supported (macOS
   and…'
 diffusion:
-  first_in_tracked: '[[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source
-    link) support, which allows you…]]'
+  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
+    Voice and Audio changes in 0.3.7]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1084
+  lag_days: 1116
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ddc8066f348e2a41549b9f5ab4285a248f26b0e3f9726cb48c6a895618f964e6
+machine_hash: f9e12e483060af89c4c6b50ff5f8a5534c4663fac694b093a2107edfc55cbb79
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,12 +44,12 @@ record:
     where…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-16-add-voice-devices-to-choose-and-persist-the-microphone-for-voice-mode|Add
-  /voice devices to choose and persist the microphone for voice mode]]'
-- '[[Changes/Codex CLI/2026-07-21-7-voice-and-audio-changes-in-rust-v0-145-0|7 Voice
-  and Audio changes in rust-v0.145.0]]'
-- '[[Changes/ChatGPT/2026-07-23-chatgpt-voice-is-now-available-in-work-and-codex-in-the-chatgpt-desktop-app-star|ChatGPT
-  Voice in Work and Codex on desktop]]'
+- '[[Changes/Open WebUI/2026-07-27-4-voice-and-audio-changes-in-v0-11-0|4 Voice and
+  Audio changes in v0.11.0]]'
+- '[[Changes/Dify/2026-07-28-returned-400-instead-of-500-when-file-field-is-missing-from-audio-to-text-endpoi|Returned
+  400 instead of 500 when file field is missing from audio-to-text…]]'
+- '[[Changes/Gemini/2026-07-29-create-and-edit-with-your-voice-anywhere-on-your-desktop-with-gemini-on-macos|Create
+  and edit with your voice, anywhere on your desktop with Gemini on macOS]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-07-30-v1-0-76-github-362129864-0932fe29|github-copilot-cli-2026-07-30-v1-0-76-github-362129864-0932fe29]]'
 source_type: github_releases
 theme: voice
@@ -89,14 +89,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-07-23 · ChatGPT · [[Changes/ChatGPT/2026-07-23-chatgpt-voice-is-now-available-in-work-and-codex-in-the-chatgpt-desktop-app-star|ChatGPT Voice in Work and Codex on desktop]]
-- Later: 2026-08-07 · ChatGPT · [[Changes/ChatGPT/2026-08-07-start-voice-conversations-faster-improved-connection-times-make-it-quicker-to-be|Start Voice conversations faster]]
+- Earlier: 2026-07-29 · Gemini · [[Changes/Gemini/2026-07-29-create-and-edit-with-your-voice-anywhere-on-your-desktop-with-gemini-on-macos|Create and edit with your voice, anywhere on your desktop with Gemini on macOS]]
+- Later: 2026-08-03 · ElevenLabs · [[Changes/ElevenLabs/2026-08-03-speech-to-text|Speech to Text]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-08-11 · Aider · [[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source link) support, which allows you…]]
+- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

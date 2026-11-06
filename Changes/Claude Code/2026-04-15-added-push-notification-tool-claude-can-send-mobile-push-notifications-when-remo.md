@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a857b1f3e37b834e9d7c2433801213f522a7725d55366a4346db11458513075f
+machine_hash: abe4a6a32c1eaa1d3a64d85f06bc5c1918d1a339369eea60c8d670ae7c5fa303
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,8 +43,8 @@ record:
   title: Added push notification tool
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-04-02-we-re-rolling-out-chatgpt-in-carplay-giving-you-access-to-a-hands-free-chatgpt-e|ChatGPT
-  in Apple CarPlay]]'
+- '[[Changes/Ollama/2026-04-09-openclaw-channel-setup-connect-whatsapp-telegram-discord-and-other-messaging-cha|OpenClaw
+  channel setup]]'
 - '[[Changes/Codex CLI/2026-04-10-6-mobile-and-desktop-changes-in-rust-v0-119-0|6
   Mobile and Desktop changes in rust-v0.119.0]]'
 - '[[Changes/Cursor/2026-04-13-on-macos-text-is-now-rendered-with-anti-aliasing-producing-sharper-character-edg|On

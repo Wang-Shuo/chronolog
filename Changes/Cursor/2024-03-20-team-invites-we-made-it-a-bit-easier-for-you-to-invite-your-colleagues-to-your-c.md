@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b972ee225b116f526b1cec6fda6a8115e6e0870b8614415d0969e218e6293e2d
+machine_hash: 61c9396b76232c7e6a68206ce51df48d4184adde32901b846f315965c567870e
 product: cursor
 product_name: Cursor
 record:
@@ -44,12 +44,12 @@ record:
   title: 'Team invites: We made it a bit easier for you to invite your colleagues…'
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-02-09-ai-previews-this-is-an-experimental-new-code-reading-feature-after-enabling-in-t|AI
-  Previews: this is an experimental new code reading feature]]'
 - '[[Changes/Cursor/2024-02-23-cursor-is-now-based-on-vs-code-1-86-2-among-other-things-this-adds-sticky-scroll|VS
   Code 1.86.2]]'
 - '[[Changes/Aider/2024-03-04-show-the-user-a-faq-link-if-edits-fail-to-apply|Show
   the user a FAQ link if edits fail to apply]]'
+- "[[Changes/Open WebUI/2024-03-10-misalignment-issue-corrected-misalignment-of-edit-and-delete-icons-when-chat-tit|\U0001F527
+  Misalignment Issue]]"
 source_release: '[[Releases/Cursor/cursor-2024-03-20-0-30-x-https-cursor-com-changelog-0-30-x-e7e3c53e|cursor-2024-03-20-0-30-x-https-cursor-com-changelog-0-30-x-e7e3c53e]]'
 source_type: cursor_changelog
 theme: editor-experience
@@ -81,8 +81,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2024-03-04 · Aider · [[Changes/Aider/2024-03-04-show-the-user-a-faq-link-if-edits-fail-to-apply|Show the user a FAQ link if edits fail to apply]]
-- Later: 2024-04-12 · Cursor · [[Changes/Cursor/2024-04-12-copilot-ux-suggestion-previews-now-have-syntax-highlighting-which-we-find-makes|Copilot++ UX: Suggestion previews now have syntax highlighting, which we find makes…]]
+- Earlier: 2024-03-10 · Open WebUI · [[Changes/Open WebUI/2024-03-10-misalignment-issue-corrected-misalignment-of-edit-and-delete-icons-when-chat-tit|🔧 Misalignment Issue]]
+- Later: 2024-03-31 · Open WebUI · [[Changes/Open WebUI/2024-03-31-tag-autocomplete-dropdown-feature-added-for-effortless-chat-tagging|🏷️ Tag Autocomplete: Dropdown feature added for effortless chat tagging]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

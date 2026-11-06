@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: cd88cea2372df9435e7162a221bf64bc6ed452b8123f2f92396c5ba2be06ae66
+machine_hash: f46d1f821d3b8bbbd51f2834abae17e7eb121e3038f6e4304fa9f0784e5c903f
 product: openhands
 product_name: OpenHands
 record:
@@ -51,10 +51,10 @@ record:
   title: Converted the Terminal panel from a fixed bottom panel to a tab
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-04-02-prevent-openhands-from-creating-additional-pull-requests-unless-explicitly-instr|Prevent
-  OpenHands from creating additional pull requests unless explicitly instructed]]'
 - '[[Changes/Windsurf/2025-04-02-commit-message-generation-beta|Commit Message Generation
   (Beta)]]'
+- '[[Changes/Dify/2025-04-09-2-developer-workflow-changes-in-1-2-0|2 Developer Workflow
+  changes in 1.2.0]]'
 - '[[Changes/Cursor/2025-04-15-improved-agent-terminal-control|Improved agent terminal
   control]]'
 source_release: '[[Releases/OpenHands/openhands-2025-04-16-0-33-0-github-212925112-8094af39|openhands-2025-04-16-0-33-0-github-212925112-8094af39]]'
@@ -89,7 +89,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2025-04-15 · Cursor · [[Changes/Cursor/2025-04-15-improved-agent-terminal-control|Improved agent terminal control]]
-- Later: 2025-04-19 · Cline · [[Changes/Cline/2025-04-19-2-developer-workflow-changes-in-v3-13-0|2 Developer Workflow changes in v3.13.0]]
+- Later: 2025-04-18 · Replit · [[Changes/Replit/2025-04-18-clearer-checkpoint-titles|Clearer checkpoint titles]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6ea8d6668a5d80c698c35e65a5067210c33f3749bbdd4638e81cec2fada59edc
+machine_hash: 7007c444d0dc2bbf2160709cf3ebebb8e751c94bff30f426acf617cef5e95cb9
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -44,12 +44,12 @@ record:
   title: 2 Memory and Personalization changes in v0.29.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-02-14-reduced-memory-growth-in-long-sessions-by-evicting-transient-events-after-compac|Reduced
-  memory growth in long sessions by evicting transient events after compaction]]'
 - '[[Changes/Codex CLI/2026-02-17-4-memory-and-personalization-changes-in-rust-v0-102-0|4
   Memory and Personalization changes in rust-v0.102.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-17-2-memory-and-personalization-changes-in-v0-0-411|2
   Memory and Personalization changes in v0.0.411]]'
+- '[[Changes/Open WebUI/2026-02-17-faster-model-filtering-model-access-control-filtering-no-longer-makes-a-redundan|⚡
+  Faster model filtering. Model access control filtering no longer makes…]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-02-18-v0-29-0-github-287470100-0bac8990|gemini-cli-2026-02-18-v0-29-0-github-287470100-0bac8990]]'
 source_type: github_releases
 theme: memory
@@ -92,7 +92,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.29.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2026-02-17 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-17-2-memory-and-personalization-changes-in-v0-0-411|2 Memory and Personalization changes in v0.0.411]]
+- Earlier: 2026-02-17 · Open WebUI · [[Changes/Open WebUI/2026-02-17-faster-model-filtering-model-access-control-filtering-no-longer-makes-a-redundan|⚡ Faster model filtering. Model access control filtering no longer makes…]]
 - Later: 2026-02-19 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-19-2-memory-and-personalization-changes-in-v0-0-412|2 Memory and Personalization changes in v0.0.412]]
 <!-- chronolog:end -->
 

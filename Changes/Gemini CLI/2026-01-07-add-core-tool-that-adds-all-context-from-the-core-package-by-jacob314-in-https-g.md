@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9ad75661b22170ea3683f275f2ffb789964e4d9b36d9fe7c7faed0d4e87b64f7
+machine_hash: f177cf2f06c5488a6e599e9a410a05b8bf0585f6909f604ab89835d4d8f0fbcf
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -42,8 +42,8 @@ record:
   title: Add core tool that adds all context from the core package
   type: change
 related_changes:
-- '[[Changes/Windsurf/2025-12-24-multiple-fixes-to-the-model-context-protocol-implementation|Multiple
-  fixes to the Model Context Protocol implementation]]'
+- '[[Changes/Dify/2025-12-25-test-add-unit-tests-for-datasetconfig-component-with-comprehensive-coverage-of-r|test:
+  add unit tests for DatasetConfig component with comprehensive coverage…]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-02-add-auto-compaction-at-95-token-limit-and-compact-command|Add
   auto-compaction at 95% token limit and /compact command]]'
 - '[[Changes/Codex CLI/2026-01-06-2-context-window-changes-in-rust-v0-78-0|2 Context
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2026-01-06 · Codex CLI · [[Changes/Codex CLI/2026-01-06-2-context-window-changes-in-rust-v0-78-0|2 Context Window changes in rust-v0.78.0]]
-- Later: 2026-01-13 · Claude Code · [[Changes/Claude Code/2026-01-13-added-context-window-used-percentage-and-context-window-remaining-percentage-fie|Added context_window.used_percentage and context_window.remaining_percentage…]]
+- Later: 2026-01-09 · Open WebUI · [[Changes/Open WebUI/2026-01-09-3-context-window-changes-in-v0-7-0|3 Context Window changes in v0.7.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

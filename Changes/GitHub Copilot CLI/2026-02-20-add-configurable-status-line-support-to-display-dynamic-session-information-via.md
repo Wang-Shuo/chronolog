@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 82024cacba659d4d8f6fc326441bddfde44ac13e51d875650a711cf60c23e85d
+machine_hash: 909fa328225d863a318becb18d124e8d570dcb5aee066aa468e6d3f1860b8942
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-02-19 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-19-6-interface-experience-changes-in-v0-0-412|6 Interface Experience changes in v0.0.412]]
-- Later: 2026-02-25 · Codex CLI · [[Changes/Codex CLI/2026-02-25-8-interface-experience-changes-in-rust-v0-105-0|8 Interface Experience changes in rust-v0.105.0]]
+- Later: 2026-02-23 · Lovable · [[Changes/Lovable/2026-02-23-drag-and-drop-reordering-of-pinned-tools-in-the-project-navigation-bar-has-been|Drag and drop reordering of pinned tools in the project navigation bar has been…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

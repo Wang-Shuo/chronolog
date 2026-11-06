@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 13133d1b3073551a8381e9f22e85e6244b753efb8db6fe01e1d1dd899993dcfd
+machine_hash: b637dd6ff4c483fba6122e1949f907ad2897a5def1dff4a5d723c71cabb808c9
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -41,12 +41,12 @@ record:
   title: Speed up branch and HEAD detection in warm sessions
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-10-improved-performance-in-long-conversations-by-removing-redundant-message-normali|Improved
-  performance in long conversations by removing redundant message…]]'
-- '[[Changes/Cursor/2026-06-10-the-average-review-time-for-bugbot-is-now-90-seconds-down-from-5-minutes-bugbot-362593|The
-  average review time for Bugbot is now ~90 seconds, down from ~5 minutes]]'
+- '[[Changes/Lovable/2026-06-10-find-and-fix-database-performance-problems|Find and
+  fix database performance problems]]'
 - '[[Changes/Claude Code/2026-06-12-2-reliability-and-performance-changes-in-v2-1-176|2
   Reliability and Performance changes in v2.1.176]]'
+- '[[Changes/Replit/2026-06-12-faster-slide-import-and-export|Faster slide import
+  and export]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-06-13-v1-0-62-github-339039020-f6ff7e5e|github-copilot-cli-2026-06-13-v1-0-62-github-339039020-f6ff7e5e]]'
 source_type: github_releases
 theme: reliability-performance
@@ -89,7 +89,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-06-12 · Claude Code · [[Changes/Claude Code/2026-06-12-2-reliability-and-performance-changes-in-v2-1-176|2 Reliability and Performance changes in v2.1.176]]
+- Earlier: 2026-06-12 · Replit · [[Changes/Replit/2026-06-12-faster-slide-import-and-export|Faster slide import and export]]
 - Later: 2026-06-15 · Codex CLI · [[Changes/Codex CLI/2026-06-15-3-reliability-and-performance-changes-in-rust-v0-140-0|3 Reliability and Performance changes in rust-v0.140.0]]
 <!-- chronolog:end -->
 

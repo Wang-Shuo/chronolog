@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 248503897ee5d536f9902373420837fd7008549bb01a5912d130428ccf53d56f
+machine_hash: 883cce3cc34dc26f33a3d27a33f655f5e34f92b0e26ce738dfea53f6ae54434d
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,12 +43,12 @@ record:
   title: 2 Model Support changes in rust-v0.40.0
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-09-17-refactor-centralize-and-improve-model-fallback-handling-by-abhipatel12-in-https|refactor:
-  Centralize and improve model fallback handling]]'
-- '[[Changes/ChatGPT/2025-09-18-we-re-improving-the-quality-and-latency-of-responses-of-the-version-of-advanced|Voice
-  Updates]]'
 - '[[Changes/Cline/2025-09-19-add-code-supernova-stealth-model-by-saoudrizwan-in-https-github-com-cline-cline|Add
   code-supernova stealth model]]'
+- '[[Changes/Ollama/2025-09-21-2-model-support-changes-in-v0-12-1|2 Model Support
+  changes in v0.12.1]]'
+- '[[Changes/Dify/2025-09-22-5-model-support-changes-in-1-9-0|5 Model Support changes
+  in 1.9.0]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-09-23-rust-v0-40-0-github-249412506-64037925|codex-cli-2025-09-23-rust-v0-40-0-github-249412506-64037925]]'
 source_type: github_releases
 theme: model-support
@@ -87,7 +87,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.40.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-09-19 · Cline · [[Changes/Cline/2025-09-19-add-code-supernova-stealth-model-by-saoudrizwan-in-https-github-com-cline-cline|Add code-supernova stealth model]]
+- Earlier: 2025-09-22 · Dify · [[Changes/Dify/2025-09-22-5-model-support-changes-in-1-9-0|5 Model Support changes in 1.9.0]]
 - Later: 2025-09-23 · Windsurf · [[Changes/Windsurf/2025-09-23-gpt-5-codex-is-now-in-windsurf|GPT-5-Codex is now in Windsurf!]]
 <!-- chronolog:end -->
 

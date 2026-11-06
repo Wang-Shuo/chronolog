@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 653931c564708e91c29959a247596e4a5cb7ba31414a1eb92e61a2111574b7e3
+machine_hash: 1194ebc548310786a60b78860f736174df4a0df9653b5ce94c55872fc00c0cce
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -76,12 +76,12 @@ record:
   title: ChatGPT for PowerPoint is now generally available
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-30-mcp-oauth-against-microsoft-entra-servers-behind-a-tenant-vanity-domain-e-g-copi|MCP
-  OAuth against Microsoft Entra servers behind a tenant vanity domain…]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-30-6-account-and-access-changes-in-v1-0-66|6
   Account and Access changes in v1.0.66]]'
 - '[[Changes/Claude Code/2026-07-01-login-now-opens-the-sign-in-dialog-from-the-claude-agents-view-instead-of-saying|/login
   now opens the sign-in dialog from the claude agents view instead…]]'
+- '[[Changes/Open WebUI/2026-07-01-2-account-and-access-changes-in-v0-10-2|2 Account
+  and Access changes in v0.10.2]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-07-06-chatgpt-for-powerpoint-is-now-generally-available-fc1a6be9|chatgpt-2026-07-06-chatgpt-for-powerpoint-is-now-generally-available-fc1a6be9]]'
 source_type: chatgpt_changelog
 theme: account-access
@@ -108,8 +108,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-07-01 · Claude Code · [[Changes/Claude Code/2026-07-01-login-now-opens-the-sign-in-dialog-from-the-claude-agents-view-instead-of-saying|/login now opens the sign-in dialog from the claude agents view instead…]]
-- Later: 2026-07-06 · OpenHands · [[Changes/OpenHands/2026-07-06-3-account-and-access-changes-in-1-9-0|3 Account and Access changes in 1.9.0]]
+- Earlier: 2026-07-01 · Open WebUI · [[Changes/Open WebUI/2026-07-01-2-account-and-access-changes-in-v0-10-2|2 Account and Access changes in v0.10.2]]
+- Later: 2026-07-06 · ElevenLabs · [[Changes/ElevenLabs/2026-07-06-speech-engine|Speech Engine]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

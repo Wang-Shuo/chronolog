@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9837a26d7d7b102bf557128b6b2d9f85a45509bab7245870e360f5913566ddb9
+machine_hash: f1d1134ef1eccfa899af6f4a2f1f3f7c1dc0cb354ab119d5e291e2051483acdb
 product: claude-code
 product_name: Claude Code
 record:
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Search and Browsing
 
 - Earlier: 2026-07-21 · Codex CLI · [[Changes/Codex CLI/2026-07-21-3-search-and-browsing-changes-in-rust-v0-145-0|3 Search and Browsing changes in rust-v0.145.0]]
-- Later: 2026-07-29 · Codex CLI · [[Changes/Codex CLI/2026-07-29-2-search-and-browsing-changes-in-rust-v0-146-0|2 Search and Browsing changes in rust-v0.146.0]]
+- Later: 2026-07-27 · Open WebUI · [[Changes/Open WebUI/2026-07-27-7-search-and-browsing-changes-in-v0-11-0|7 Search and Browsing changes in v0.11.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

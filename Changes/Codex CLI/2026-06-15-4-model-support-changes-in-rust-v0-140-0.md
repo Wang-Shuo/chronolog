@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a142a297143330e3514ad198900f45f35183be24453fd72868747c0b321e1a5f
+machine_hash: 85e8bb59412a771c1e11b32637a10fbe4acdfad6c93c4e9d7c54fc971cee9f22
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -46,8 +46,8 @@ record:
   title: 4 Model Support changes in rust-v0.140.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-12-added-enforceavailablemodels-managed-setting-when-enabled-the-availablemodels-al|Added
-  enforceAvailableModels managed setting]]'
+- '[[Changes/Ollama/2026-06-12-improved-recurrent-model-support-with-per-boundary-states-from-the-gated-delta-k|Improved
+  recurrent model support with per-boundary states from the gated-delta kernels]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-13-3-model-support-changes-in-v1-0-62|3 Model
   Support changes in v1.0.62]]'
 - '[[Changes/Claude Code/2026-06-15-bug-now-requires-a-description-before-submitting-and-no-longer-uses-model-refusa|/bug
@@ -106,7 +106,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.140.0
 ## Nearby in Model Support
 
 - Earlier: 2026-06-15 · Claude Code · [[Changes/Claude Code/2026-06-15-bug-now-requires-a-description-before-submitting-and-no-longer-uses-model-refusa|/bug now requires a description before submitting, and no longer uses…]]
-- Later: 2026-06-18 · ChatGPT · [[Changes/ChatGPT/2026-06-18-long-press-send-to-choose-a-model-android-users-on-paid-plans-can-now-long-press|Long-press send to choose a model]]
+- Later: 2026-06-15 · ElevenLabs · [[Changes/ElevenLabs/2026-06-15-introducing-music-v2|Introducing Music v2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

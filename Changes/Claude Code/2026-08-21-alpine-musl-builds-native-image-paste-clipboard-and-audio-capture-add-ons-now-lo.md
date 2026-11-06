@@ -5,20 +5,20 @@ description: 'Claude Code · 2026-08-21 · Voice and Audio: Alpine/musl builds: 
   image paste, clipboard, and audio-capture add-ons now load (musl-built binaries
   instead…'
 diffusion:
-  first_in_tracked: '[[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source
-    link) support, which allows you…]]'
+  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
+    Voice and Audio changes in 0.3.7]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1106
+  lag_days: 1138
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c394f38dbbee743b85424881816c914e1780742f7c406aa16576fd627902dc8c
+machine_hash: 0aa3849a34102ca18cdc8a24dc448d4d47eb4480065efba4e37dfbd4150ed17e
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,9 @@ record:
     now…'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-08-07-36807-extract-audio-preparation-into-a-utility-crate-copyberry|♯36807
-  Extract audio preparation into a utility crate @copyberry]]'
 - '[[Changes/ChatGPT/2026-08-14-switch-between-typing-and-dictation-the-dictation-button-stays-available-after-y|Switch
   between typing and dictation]]'
+- '[[Changes/ElevenLabs/2026-08-17-packages|Packages]]'
 - '[[Changes/Codex CLI/2026-08-20-39045-add-managed-gates-for-in-app-chat-and-dictation-copyberry|♯39045
   Add managed gates for in-app chat and dictation @copyberry]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-21-v2-1-239-github-374556322-5f6b8918|claude-code-2026-08-21-v2-1-239-github-374556322-5f6b8918]]'
@@ -98,7 +97,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-08-11 · Aider · [[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source link) support, which allows you…]]
+- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

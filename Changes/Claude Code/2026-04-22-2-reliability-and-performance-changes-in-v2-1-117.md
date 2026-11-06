@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 220e9efc4eaf7bdeec9b10f4587e63cb3e9fbf6c8b4515f18938a104162bd2be
+machine_hash: d867f5929d498b66492d74a683fec012cfd5f9b25fcc569926455e17593e22a9
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,12 +46,12 @@ record:
   title: 2 Reliability and Performance changes in v2.1.117
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-17-improved-ultrareview-faster-launch-with-parallelized-checks-diffstat-in-the-laun|Improved
-  /ultrareview: faster launch with parallelized checks, diffstat…]]'
 - '[[Changes/Windsurf/2026-04-17-various-bug-fixes-and-performance-improvements|Various
   bug fixes and performance improvements]]'
 - '[[Changes/Claude Code/2026-04-20-resume-on-large-sessions-is-significantly-faster-up-to-67-on-40mb-sessions-and-h|/resume
   on large sessions is significantly faster (up to 67% on 40MB+ sessions)…]]'
+- '[[Changes/Open WebUI/2026-04-21-24-reliability-and-performance-changes-in-v0-9-0|24
+  Reliability and Performance changes in v0.9.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-22-v2-1-117-github-311984967-1d917373|claude-code-2026-04-22-v2-1-117-github-311984967-1d917373]]'
 source_type: github_releases
 theme: reliability-performance
@@ -89,8 +89,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.117
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-04-20 · Claude Code · [[Changes/Claude Code/2026-04-20-resume-on-large-sessions-is-significantly-faster-up-to-67-on-40mb-sessions-and-h|/resume on large sessions is significantly faster (up to 67% on 40MB+ sessions)…]]
-- Later: 2026-04-23 · Codex CLI · [[Changes/Codex CLI/2026-04-23-18662-feat-add-metric-to-track-the-number-of-turns-with-memory-usage-jif-oai|♯18662 feat: add metric to track the number of turns with memory usage @jif-oai]]
+- Earlier: 2026-04-21 · Open WebUI · [[Changes/Open WebUI/2026-04-21-24-reliability-and-performance-changes-in-v0-9-0|24 Reliability and Performance changes in v0.9.0]]
+- Later: 2026-04-22 · Ollama · [[Changes/Ollama/2026-04-22-2-reliability-and-performance-changes-in-v0-21-1|2 Reliability and Performance changes in v0.21.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

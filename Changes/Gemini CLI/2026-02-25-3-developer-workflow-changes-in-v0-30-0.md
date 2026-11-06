@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 58a7d60958b435f058aae1a28079ed482197506b1a03e13f1853f433795235dd
+machine_hash: 217d0ec1b2c4b9d2b0ace4372519c3bd43243addee0444a17358074b724bc9fd
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -99,7 +99,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.30.0
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-02-25 · Codex CLI · [[Changes/Codex CLI/2026-02-25-15-developer-workflow-changes-in-rust-v0-105-0|15 Developer Workflow changes in rust-v0.105.0]]
-- Later: 2026-02-26 · Claude Code · [[Changes/Claude Code/2026-02-26-improved-always-allow-prefix-suggestions-for-compound-bash-commands-e-g-cd-tmp-g|Improved "always allow" prefix suggestions for compound bash commands…]]
+- Later: 2026-02-25 · v0 · [[Changes/v0/2026-02-25-added-repository-information-to-first-message-in-git-connected-chats|Added repository information to first message in git-connected chats]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

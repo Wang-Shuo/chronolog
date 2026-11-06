@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ecf0403325adf531a5ff000a0c837aa3a81b84ca14a302b97469d5d1901bf2da
+machine_hash: fe5219762d1f3bb4ec7c7e80544d1f1f4600f11b2d52b15c7bdfd255150aa198
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -53,12 +53,12 @@ record:
   title: 6 Model Support changes in rust-v0.123.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-20-ctrl-t-to-toggle-reasoning-display-is-now-listed-in-the-help-and-overlay|ctrl+t
-  to toggle reasoning display is now listed in the /help and ? overlay]]'
 - '[[Changes/Claude Code/2026-04-22-2-model-support-changes-in-v2-1-117|2 Model Support
   changes in v2.1.117]]'
 - '[[Changes/Cline/2026-04-22-onboarding-flow-now-uses-dynamically-fetched-recommended-models-instead-of-a-har|Onboarding
   flow now uses dynamically fetched recommended models instead…]]'
+- '[[Changes/Ollama/2026-04-22-mlx-runner-adds-logprobs-support-for-compatible-models|MLX
+  runner adds logprobs support for compatible models]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-04-23-rust-v0-123-0-github-312509536-cebe4f18|codex-cli-2026-04-23-rust-v0-123-0-github-312509536-cebe4f18]]'
 source_type: github_releases
 theme: model-support
@@ -110,7 +110,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.123.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-04-22 · Cline · [[Changes/Cline/2026-04-22-onboarding-flow-now-uses-dynamically-fetched-recommended-models-instead-of-a-har|Onboarding flow now uses dynamically fetched recommended models instead…]]
+- Earlier: 2026-04-22 · Ollama · [[Changes/Ollama/2026-04-22-mlx-runner-adds-logprobs-support-for-compatible-models|MLX runner adds logprobs support for compatible models]]
 - Later: 2026-04-23 · Codex CLI · [[Changes/Codex CLI/2026-04-23-4-model-support-changes-in-rust-v0-124-0|4 Model Support changes in rust-v0.124.0]]
 <!-- chronolog:end -->
 

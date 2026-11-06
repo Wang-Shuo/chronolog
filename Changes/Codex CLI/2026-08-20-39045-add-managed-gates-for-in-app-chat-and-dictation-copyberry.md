@@ -4,20 +4,20 @@ date: '2026-08-20'
 description: 'Codex CLI · 2026-08-20 · Voice and Audio: #39045 Add managed gates for
   in-app chat and dictation @copyberry'
 diffusion:
-  first_in_tracked: '[[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source
-    link) support, which allows you…]]'
+  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
+    Voice and Audio changes in 0.3.7]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1105
+  lag_days: 1137
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9ea172fba1d31b6e4a30440eb3ddc67b5aa8b9f1bd3000755b3b833c144672b1
+machine_hash: f8d292fb962c89bbb141137f3d907d2ba2399407071edd40a8977fb40bdb4341
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -41,12 +41,10 @@ record:
   title: '#39045 Add managed gates for in-app chat and dictation @copyberry'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-08-07-dictate-with-fewer-interruptions-if-dictation-fails-because-of-a-connection-issu|Dictate
-  with fewer interruptions]]'
-- '[[Changes/Codex CLI/2026-08-07-36807-extract-audio-preparation-into-a-utility-crate-copyberry|♯36807
-  Extract audio preparation into a utility crate @copyberry]]'
+- '[[Changes/ElevenLabs/2026-08-10-voices|Voices]]'
 - '[[Changes/ChatGPT/2026-08-14-switch-between-typing-and-dictation-the-dictation-button-stays-available-after-y|Switch
   between typing and dictation]]'
+- '[[Changes/ElevenLabs/2026-08-17-packages|Packages]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-08-20-rust-v0-149-0-github-374028976-829da944|codex-cli-2026-08-20-rust-v0-149-0-github-374028976-829da944]]'
 source_type: github_releases
 theme: voice
@@ -91,14 +89,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-08-14 · ChatGPT · [[Changes/ChatGPT/2026-08-14-switch-between-typing-and-dictation-the-dictation-button-stays-available-after-y|Switch between typing and dictation]]
+- Earlier: 2026-08-17 · ElevenLabs · [[Changes/ElevenLabs/2026-08-17-packages|Packages]]
 - Later: 2026-08-21 · Claude Code · [[Changes/Claude Code/2026-08-21-alpine-musl-builds-native-image-paste-clipboard-and-audio-capture-add-ons-now-lo|Alpine/musl builds: native image paste, clipboard, and audio-capture add-ons now…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-08-11 · Aider · [[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source link) support, which allows you…]]
+- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

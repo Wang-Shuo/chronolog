@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 3d864230be5412b8180de6b05bc173a1ad3a384d96729b8438fd7b60bf844197
+machine_hash: 0abc7574d8b6ae1ed75894b2a4b5e2aff2c7843252bd2c84b820df7463e221b4
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,10 +47,10 @@ record:
     link, model…'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-08-11-model-support-changes-in-rust-v0-162-0|11 Model
-  Support changes in rust-v0.162.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-08-add-claude-haiku-5-5-to-model-selection-and-model-completions|Add
   Claude Haiku 5.5 to model selection and --model completions]]'
+- '[[Changes/Ollama/2026-10-08-4-model-support-changes-in-v0-40-2|4 Model Support
+  changes in v0.40.2]]'
 - '[[Changes/OpenHands/2026-10-08-test-e2e-launch-the-same-model-profile-test-from-the-beta-profile-by-enyst-in-ht|test(e2e):
   launch the same-model profile test from the BETA profile]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-09-v2-1-296-github-408141042-fd950e7a|claude-code-2026-10-09-v2-1-296-github-408141042-fd950e7a]]'
@@ -93,7 +93,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-10-08 · OpenHands · [[Changes/OpenHands/2026-10-08-test-e2e-launch-the-same-model-profile-test-from-the-beta-profile-by-enyst-in-ht|test(e2e): launch the same-model profile test from the BETA profile]]
-- Later: 2026-10-12 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-12-2-model-support-changes-in-v1-0-96|2 Model Support changes in v1.0.96]]
+- Later: 2026-10-10 · Open WebUI · [[Changes/Open WebUI/2026-10-10-49-model-support-changes-in-v0-12-0|49 Model Support changes in v0.12.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

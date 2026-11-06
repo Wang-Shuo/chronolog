@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 1e1dd6938bee28646ea30b510da5a449014b0fdccc2e105124b348d96944cf4d
+machine_hash: 6fef1aa130e6abccfc2d71a3a89cd22845545bd71bb270068eb68393b74dd2c5
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,8 +45,8 @@ record:
     by default
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-02-03-support-agents-skills-directory-for-auto-loading-skills|Support
-  .agents/skills directory for auto-loading skills]]'
+- '[[Changes/Ollama/2026-02-03-ollama-launch-will-now-work-run-subagents-when-using-ollama-launch-claude|ollama
+  launch will now work run subagents when using ollama launch claude]]'
 - '[[Changes/Codex CLI/2026-02-04-4-agent-mode-changes-in-rust-v0-95-0|4 Agent Mode
   changes in rust-v0.95.0]]'
 - '[[Changes/Gemini CLI/2026-02-04-15-agent-mode-changes-in-v0-27-0|15 Agent Mode

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: e56ce9b2d68e654548eece89efda833dc03da40ab0b11286bd9b16c7c92ceffd
+machine_hash: 221638dc08d9e19ead07f5e6f2a25f434f367fbffbe9eed3af4ed1814610bd36
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -90,7 +90,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-01-30 · Windsurf · [[Changes/Windsurf/2026-01-30-wave-14-arena-mode|Wave 14: Arena Mode]]
-- Later: 2026-02-02 · Codex CLI · [[Changes/Codex CLI/2026-02-02-10373-chore-core-gpt-5-2-codex-personality-template-dylan-hurd-oai|♯10373 chore(core) gpt-5.2-codex personality template @dylan-hurd-oai]]
+- Later: 2026-02-01 · Ollama · [[Changes/Ollama/2026-02-01-improved-tool-calling-for-ministral-models|Improved tool calling for Ministral models]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

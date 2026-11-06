@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3bcb4a2cb3397717e9d0882f30a4243df6f036d57d3a3f52086a385843e12902
+machine_hash: a8a29ae567265e90930aedc7f56d889a14c9db172a617f2dea860dd3d0c734ae
 product: cline
 product_name: Cline
 record:
@@ -44,12 +44,10 @@ record:
   title: Add on/off toggle for MCP servers to disable them when not in use, and auto-approve…
   type: change
 related_changes:
-- '[[Changes/OpenHands/2024-11-04-discoverybench-openhands-integration-by-ethan0456-in-https-github-com-all-hands|DiscoveryBench
-  OpenHands Integration]]'
-- '[[Changes/Cline/2024-12-12-3-apps-and-integrations-changes-in-v2-2-0|3 Apps and
-  Integrations changes in v2.2.0]]'
-- '[[Changes/Cline/2024-12-18-enable-or-disable-for-reading-files-directories-editing-files-executing-terminal|Enable
-  or disable for]]'
+- '[[Changes/Replit/2025-01-10-slack-integration|Slack integration]]'
+- '[[Changes/Dify/2025-01-13-2-apps-and-integrations-changes-in-0-15-1|2 Apps and
+  Integrations changes in 0.15.1]]'
+- '[[Changes/Replit/2025-01-17-sendgrid-integration|SendGrid integration]]'
 source_release: '[[Releases/Cline/cline-2025-01-21-v3-2-0-github-195907436-b610f726|cline-2025-01-21-v3-2-0-github-195907436-b610f726]]'
 source_type: github_releases
 theme: apps-integrations
@@ -79,8 +77,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2024-12-18 · Cline · [[Changes/Cline/2024-12-18-enable-or-disable-for-reading-files-directories-editing-files-executing-terminal|Enable or disable for]]
-- Later: 2025-01-29 · OpenHands · [[Changes/OpenHands/2025-01-29-improved-performance-of-github-api-integration-by-using-modern-async-http-client|Improved performance of GitHub API integration by using modern async HTTP client]]
+- Earlier: 2025-01-17 · Replit · [[Changes/Replit/2025-01-17-sendgrid-integration|SendGrid integration]]
+- Later: 2025-01-24 · Replit · [[Changes/Replit/2025-01-24-assistant-workflows|Assistant + Workflows]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

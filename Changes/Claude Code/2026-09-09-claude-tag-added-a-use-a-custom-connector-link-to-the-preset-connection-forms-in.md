@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a2498debde6fc0a36adcc9f50ccb54b9f9ff0205ceb9dfb348beeaabd0333883
+machine_hash: ec9a78bae606ce7fc562dbf2d63d5d423f6b99d19f90e7aef487485a57b3053e
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,9 @@ record:
     forms…'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-04-vscode-added-an-add-server-form-and-a-remove-action-to-the-mcp-servers-dialog-so|VSCode
-  Added an Add server form and a Remove action to the MCP servers dialog…]]'
-- '[[Changes/GitHub Copilot CLI/2026-09-04-7-apps-and-integrations-changes-in-v1-0-83|7
-  Apps and Integrations changes in v1.0.83]]'
+- '[[Changes/Lovable/2026-09-07-connect-your-app-to-gong|Connect your app to Gong]]'
+- '[[Changes/Lovable/2026-09-07-connector-forms-are-split-into-collapsible-sections|Connector
+  forms are split into collapsible sections]]'
 - '[[Changes/Claude Code/2026-09-08-4-apps-and-integrations-changes-in-v2-1-265|4
   Apps and Integrations changes in v2.1.265]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-09-v2-1-267-github-385748811-6409148e|claude-code-2026-09-09-v2-1-267-github-385748811-6409148e]]'

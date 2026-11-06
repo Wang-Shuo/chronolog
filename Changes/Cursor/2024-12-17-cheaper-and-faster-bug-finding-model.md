@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: f82ed2886bdbf69499675da45e1db0c87828538e41d187ff425e82316e82b5b2
+machine_hash: 3a62b0d36294b8ea636a880e1d358be19e6b0936e6d04265cce054f3e3b2f539
 product: cursor
 product_name: Cursor
 record:
@@ -53,10 +53,10 @@ record:
   title: Cheaper and faster Bug Finding Model
   type: change
 related_changes:
-- '[[Changes/Cline/2024-10-09-2-reliability-and-performance-changes-in-v2-0-0|2 Reliability
-  and Performance changes in v2.0.0]]'
-- '[[Changes/Cursor/2024-11-24-several-performance-improvements|Several performance
-  improvements]]'
+- '[[Changes/Ollama/2024-12-11-improved-memory-estimation-when-scheduling-models|Improved
+  memory estimation when scheduling models]]'
+- '[[Changes/Dify/2024-12-16-this-enhancement-by-hjlarry-and-wangiii-found-in-11570-https-github-com-langgeni|This
+  enhancement by @hjlarry and @wangiii, found…]]'
 - '[[Changes/Cursor/2024-12-17-cursor-starts-up-faster|Cursor starts up faster]]'
 source_release: '[[Releases/Cursor/cursor-2024-12-17-0-44-x-https-cursor-com-changelog-0-44-x-b137ff8e|cursor-2024-12-17-0-44-x-https-cursor-com-changelog-0-44-x-b137ff8e]]'
 source_type: cursor_changelog
@@ -89,7 +89,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2024-11-24 · Cursor · [[Changes/Cursor/2024-11-24-several-performance-improvements|Several performance improvements]]
+- Earlier: 2024-12-16 · Dify · [[Changes/Dify/2024-12-16-this-enhancement-by-hjlarry-and-wangiii-found-in-11570-https-github-com-langgeni|This enhancement by @hjlarry and @wangiii, found…]]
 - Later: 2024-12-18 · Cline · [[Changes/Cline/2024-12-18-when-cline-needs-to-make-targeted-edits-to-large-files-he-now-uses-a-search-repl|When Cline needs to make targeted edits to large files, he now uses a search…]]
 <!-- chronolog:end -->
 

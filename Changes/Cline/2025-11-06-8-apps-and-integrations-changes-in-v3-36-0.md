@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: db6499a941de0a96b9fccfcace262bb29392045de251fe6a227acf802fb3b355
+machine_hash: 5b80498d1322c1781266acbfb7ffa7011fde7e4356e7a8903e13d52547f0e9e8
 product: cline
 product_name: Cline
 record:
@@ -60,11 +60,9 @@ record:
   title: 8 Apps and Integrations changes in v3.36.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-11-04-5956-parse-the-azure-openai-rate-limit-message-5956|♯5956
-  Parse the Azure OpenAI rate limit message (♯5956)]]'
-- '[[Changes/Gemini CLI/2025-11-04-2-apps-and-integrations-changes-in-v0-12-0|2 Apps
-  and Integrations changes in v0.12.0]]'
-- '[[Changes/Windsurf/2025-11-04-mcp-enhancements|MCP Enhancements]]'
+- '[[Changes/ElevenLabs/2025-11-05-javascript-sdk|JavaScript SDK]]'
+- '[[Changes/ElevenLabs/2025-11-05-mcp-tool-configuration|MCP Tool Configuration]]'
+- '[[Changes/Lovable/2025-11-05-lovable-shopify-integration|Lovable × Shopify Integration]]'
 source_release: '[[Releases/Cline/cline-2025-11-06-v3-36-0-github-260111710-dee57321|cline-2025-11-06-v3-36-0-github-260111710-dee57321]]'
 source_type: github_releases
 theme: apps-integrations
@@ -112,8 +110,8 @@ Source: https://github.com/cline/cline/releases/tag/v3.36.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-11-04 · Windsurf · [[Changes/Windsurf/2025-11-04-mcp-enhancements|MCP Enhancements]]
-- Later: 2025-11-07 · Cline · [[Changes/Cline/2025-11-07-add-mcp-tool-usage-to-glm-prompt-by-canvrno-in-https-github-com-cline-cline-pull|Add MCP tool usage to GLM prompt]]
+- Earlier: 2025-11-05 · Lovable · [[Changes/Lovable/2025-11-05-lovable-shopify-integration|Lovable × Shopify Integration]]
+- Later: 2025-11-06 · Open WebUI · [[Changes/Open WebUI/2025-11-06-2-apps-and-integrations-changes-in-v0-6-35|2 Apps and Integrations changes in v0.6.35]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

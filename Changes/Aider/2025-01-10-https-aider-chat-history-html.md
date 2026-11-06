@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 24aeb75034f3d113dae0285daccf292a57d83e6213bbc33d90ef35ece16713c2
+machine_hash: 79df03e9d13f2d9fc12e03fa85c69626e5677635e2ba86d709bf1af404ac5cc0
 product: aider
 product_name: Aider
 record:
@@ -41,11 +41,11 @@ record:
   title: https://aider.chat/HISTORY.html
   type: change
 related_changes:
-- '[[Changes/Aider/2024-12-06-2-interface-experience-changes-in-v0-67-0|2 Interface
-  Experience changes in v0.67.0]]'
-- '[[Changes/Aider/2024-12-26-https-aider-chat-history-html|(source link)]]'
 - '[[Changes/OpenHands/2025-01-02-add-loading-spinner-to-task-form-during-conversation-creation-by-rbren-in-https|Add
   loading spinner to task form during conversation creation]]'
+- '[[Changes/Replit/2025-01-03-menu-search-feature|Menu search feature]]'
+- '[[Changes/Open WebUI/2025-01-05-2-interface-experience-changes-in-v0-5-4|2 Interface
+  Experience changes in v0.5.4]]'
 source_release: '[[Releases/Aider/aider-2025-01-10-v0-71-0-github-194204140-359c53f2|aider-2025-01-10-v0-71-0-github-194204140-359c53f2]]'
 source_type: github_releases
 theme: interface-experience
@@ -79,8 +79,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2025-01-02 · OpenHands · [[Changes/OpenHands/2025-01-02-add-loading-spinner-to-task-form-during-conversation-creation-by-rbren-in-https|Add loading spinner to task form during conversation creation]]
-- Later: 2025-01-31 · Aider · [[Changes/Aider/2025-01-31-https-aider-chat-history-html|(source link)]]
+- Earlier: 2025-01-05 · Open WebUI · [[Changes/Open WebUI/2025-01-05-2-interface-experience-changes-in-v0-5-4|2 Interface Experience changes in v0.5.4]]
+- Later: 2025-01-13 · Dify · [[Changes/Dify/2025-01-13-knowledge-api-toc-added-a-table-of-contents-to-the-knowledge-api-documentation-t|Knowledge API ToC]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

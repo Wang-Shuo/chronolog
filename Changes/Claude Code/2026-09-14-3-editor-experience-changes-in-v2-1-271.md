@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c92493cca05412e36ed38240ce3b787f36d1225ef0aac90cbd098211296be198
+machine_hash: 4c9c82fcc16b991aac5f1fb23eccbfe719952183d79cc1b85cffdc32e9d024c5
 product: claude-code
 product_name: Claude Code
 record:
@@ -50,10 +50,10 @@ record:
   title: 3 Editor Experience changes in v2.1.271
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-09-42746-handle-pending-network-reviews-after-process-completion-copyberry|♯42746
-  Handle pending network reviews after process completion @copyberry]]'
-- '[[Changes/Claude Code/2026-09-10-added-browser-tab-icons-for-published-artifacts-chosen-by-claude-to-match-each-p|Added
-  browser-tab icons for published artifacts, chosen by Claude to match each page]]'
+- '[[Changes/Dify/2026-09-10-6-editor-experience-changes-in-1-17-1|6 Editor Experience
+  changes in 1.17.1]]'
+- '[[Changes/Lovable/2026-09-10-sync-your-project-with-bitbucket-cloud|Sync your project
+  with Bitbucket Cloud]]'
 - '[[Changes/Claude Code/2026-09-11-3-editor-experience-changes-in-v2-1-269|3 Editor
   Experience changes in v2.1.269]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-14-v2-1-271-github-388664071-570fd44f|claude-code-2026-09-14-v2-1-271-github-388664071-570fd44f]]'

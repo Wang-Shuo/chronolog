@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1b1b3df0626b29f822098d6103858d92fb21274d464b2e4617af3ec25ff25f01
+machine_hash: 6b30d7b597e0d871bc61c828a8c7b2a81e66c44c2605cff20bb27d319c98c11f
 product: claude-code
 product_name: Claude Code
 record:
@@ -104,8 +104,7 @@ record:
   title: 17 Apps and Integrations changes in v2.1.281
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-09-22-6-apps-and-integrations-changes-in-v1-0-88|6
-  Apps and Integrations changes in v1.0.88]]'
+- '[[Changes/Lovable/2026-09-22-connect-your-app-to-parallel|Connect your app to Parallel]]'
 - '[[Changes/OpenHands/2026-09-22-test-cover-mcp-config-utilities-by-aivong-openhands-in-https-github-com-openhand|test:
   cover MCP config utilities]]'
 - '[[Changes/OpenHands/2026-09-22-feat-test-remote-mcp-servers-on-cloud-backends-via-the-app-server-by-hieptl-in-h|feat:

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b067dd6f2795974600c0a7e2acfae736fd15ba58fa7bc0d08a57ad537cb0c3e4
+machine_hash: 0e47e4fdefe62e9a3a269b70b87144f459a441899e54546c3c81af0686d968a2
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,12 +42,12 @@ record:
   title: 2 Account and Access changes in rust-v0.115.0
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-03-11-feat-core-implement-http-authentication-support-for-a2a-remote-agents-by-sandyta|feat(core):
-  implement HTTP authentication support for A2A remote agents]]'
-- '[[Changes/GitHub Copilot CLI/2026-03-11-3-account-and-access-changes-in-v1-0-4|3
-  Account and Access changes in v1.0.4]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-13-2-account-and-access-changes-in-v1-0-5|2
   Account and Access changes in v1.0.5]]'
+- '[[Changes/v0/2026-03-13-added-saml-specific-re-authentication-link-in-repository-connection-dialog|Added
+  SAML-specific re-authentication link in repository connection dialog]]'
+- '[[Changes/Ollama/2026-03-14-ollama-can-now-be-selected-as-an-authentication-and-model-provider-during-opencl|Ollama
+  can now be selected as an authentication and model provider during OpenClaw…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-03-16-rust-v0-115-0-github-297641413-c704d9db|codex-cli-2026-03-16-rust-v0-115-0-github-297641413-c704d9db]]'
 source_type: github_releases
 theme: account-access
@@ -90,8 +90,8 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.115.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-03-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-13-2-account-and-access-changes-in-v1-0-5|2 Account and Access changes in v1.0.5]]
-- Later: 2026-03-17 · Gemini CLI · [[Changes/Gemini CLI/2026-03-17-refactor-core-extract-shared-oauth-flow-primitives-from-mcpoauthprovider-by-sand|refactor(core): extract shared OAuth flow primitives from MCPOAuthProvider]]
+- Earlier: 2026-03-14 · Ollama · [[Changes/Ollama/2026-03-14-ollama-can-now-be-selected-as-an-authentication-and-model-provider-during-opencl|Ollama can now be selected as an authentication and model provider during OpenClaw…]]
+- Later: 2026-03-16 · Lovable · [[Changes/Lovable/2026-03-16-authentication-emails|Authentication emails]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

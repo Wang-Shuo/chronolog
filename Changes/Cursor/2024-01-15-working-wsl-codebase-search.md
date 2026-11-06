@@ -10,12 +10,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 32f328d82179cfca47ca54358d71ce21e18b7b188849e284e5a9729b56e06020
+machine_hash: 82ba537f4ac949ddf871cc0088ff7dcb01e4124d33b6909f4e8b501099bf5ccf
 product: cursor
 product_name: Cursor
 record:
@@ -38,12 +38,12 @@ record:
   title: Working WSL codebase search
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-01-06-wsl-and-dev-containers-should-now-work-properly|Better
-  Remote Support]]'
 - '[[Changes/Cursor/2024-01-06-dev-containers-are-now-supported-this-build-also|Dev
   containers are now supported!]]'
 - '[[Changes/Cursor/2024-01-06-improves-the-stability-of-wsl|Improves the stability
   of WSL]]'
+- '[[Changes/Dify/2024-01-11-improvement-introduce-super-linter-actions-to-check-style-for-shell-script-docke|improvement:
+  introduce Super-Linter actions to check style for shell script…]]'
 source_release: '[[Releases/Cursor/cursor-2024-01-15-0-22-1-nightly-https-cursor-com-changelog-0-22-1-nightly-a39dbb5c|cursor-2024-01-15-0-22-1-nightly-https-cursor-com-changelog-0-22-1-nightly-a39dbb5c]]'
 source_type: cursor_changelog
 theme: developer-workflow
@@ -73,8 +73,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2024-01-06 · Cursor · [[Changes/Cursor/2024-01-06-improves-the-stability-of-wsl|Improves the stability of WSL]]
-- Later: 2024-02-03 · Aider · [[Changes/Aider/2024-02-03-2-developer-workflow-changes-in-v0-23-0|2 Developer Workflow changes in v0.23.0]]
+- Earlier: 2024-01-11 · Dify · [[Changes/Dify/2024-01-11-improvement-introduce-super-linter-actions-to-check-style-for-shell-script-docke|improvement: introduce Super-Linter actions to check style for shell script…]]
+- Later: 2024-01-20 · Ollama · [[Changes/Ollama/2024-01-20-2-developer-workflow-changes-in-v0-1-21|2 Developer Workflow changes in v0.1.21]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

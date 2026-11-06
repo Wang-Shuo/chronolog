@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4e6283e0966c984edc8e266f2bd1460a32d01994ebf53e544f59f060934de471
+machine_hash: 5a5482c6ebad820395747ecb21fef059f1cc08e2440f292c6be291e610642ae7
 product: cursor
 product_name: Cursor
 record:
@@ -48,8 +48,8 @@ record:
     2
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-15-2-model-support-changes-in-v2-1-143|2 Model Support
-  changes in v2.1.143]]'
+- '[[Changes/v0/2026-05-15-claude-opus-4-7-fast-is-available-as-a-new-model-option-under-more-models-with-2|Claude
+  Opus 4.7 Fast is available as a new model option under…]]'
 - '[[Changes/Codex CLI/2026-05-18-4-model-support-changes-in-rust-v0-131-0|4 Model
   Support changes in rust-v0.131.0]]'
 - '[[Changes/Cursor/2026-05-18-composer-2-5-includes-double-usage-for-the-first-week-see-our-model-docs-for-ful|Composer
@@ -86,7 +86,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-05-18 · Codex CLI · [[Changes/Codex CLI/2026-05-18-4-model-support-changes-in-rust-v0-131-0|4 Model Support changes in rust-v0.131.0]]
-- Later: 2026-05-19 · Claude Code · [[Changes/Claude Code/2026-05-19-resumed-sessions-now-keep-the-model-they-were-using-instead-of-picking-up-anothe|Resumed sessions now keep the model they were using instead of picking up another…]]
+- Later: 2026-05-18 · Lovable · [[Changes/Lovable/2026-05-18-lovable-ai-models-for-app-features|Lovable AI models for app features]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

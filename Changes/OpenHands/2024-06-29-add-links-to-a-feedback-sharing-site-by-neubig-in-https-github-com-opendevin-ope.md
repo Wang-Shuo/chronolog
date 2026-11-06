@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5373df7aac2e92cbcc81dfd7adc52f2a4b3f808e8bbbe2c76accabe08963beed
+machine_hash: efeeaf70d11e0b9e9145909fda0f25719d05b0c4f84d12790bf57a71dd3fe9dd
 product: openhands
 product_name: OpenHands
 record:
@@ -40,11 +40,12 @@ record:
   title: Add links to a feedback sharing site
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
-- '[[Changes/ChatGPT/2024-01-10-we-re-launching-a-new-chatgpt-plan-for-teams-of-all-sizes-which-provides-a-secur-c68432|Use
-  ChatGPT alongside your team]]'
-- '[[Changes/OpenHands/2024-06-04-2-collaboration-changes-in-0-6-1|2 Collaboration
-  changes in 0.6.1]]'
+- '[[Changes/Dify/2024-06-14-note-support-add-notes-directly-into-your-workflows-to-enhance-documentation-and|Note
+  Support: Add notes directly into your workflows to enhance documentation…]]'
+- '[[Changes/Ollama/2024-06-27-a-special-thank-you-to-the-google-cloud-and-deepmind-team-members-for-gemma-2-su|A
+  special thank you to the Google Cloud and DeepMind team members for Gemma 2 support]]'
+- "[[Changes/Open WebUI/2024-06-27-files-api-compatible-with-openai-this-feature-allows-for-custom-retrieval-augmen|\U0001F4C1
+  Files API: Compatible with OpenAI, this feature allows for custom…]]"
 source_release: '[[Releases/OpenHands/openhands-2024-06-29-0-7-0-github-163149742-cace6f1a|openhands-2024-06-29-0-7-0-github-163149742-cace6f1a]]'
 source_type: github_releases
 theme: collaboration
@@ -82,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2024-06-04 · OpenHands · [[Changes/OpenHands/2024-06-04-2-collaboration-changes-in-0-6-1|2 Collaboration changes in 0.6.1]]
+- Earlier: 2024-06-27 · Open WebUI · [[Changes/Open WebUI/2024-06-27-files-api-compatible-with-openai-this-feature-allows-for-custom-retrieval-augmen|📁 Files API: Compatible with OpenAI, this feature allows for custom…]]
 - Later: 2024-07-13 · OpenHands · [[Changes/OpenHands/2024-07-13-refractor-move-image-agnostic-util-to-shared-runtime-util-by-xingyaoww-in-https|Refractor: move image agnostic util to shared runtime util]]
 <!-- chronolog:end -->
 

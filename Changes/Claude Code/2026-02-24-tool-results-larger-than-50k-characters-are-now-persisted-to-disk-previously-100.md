@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 32b8483d1e566af15bc4beb084d47e8f21e041b569366d20cbf92a278f19545b
+machine_hash: 60825d2d643e4d03720c9b4deafcdaf1cf1deedc9704c84fc3acc95014bae3f6
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,12 +47,12 @@ record:
     100K)
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-02-18-3-context-window-changes-in-v0-29-0|3 Context Window
-  changes in v0.29.0]]'
 - '[[Changes/ChatGPT/2026-02-20-chatgpt-now-has-a-total-context-window-length-of-256k-tokens-128k-input-and-128k|Expanded
   context window for Thinking]]'
 - '[[Changes/Claude Code/2026-02-20-2-context-window-changes-in-v2-1-50|2 Context
   Window changes in v2.1.50]]'
+- '[[Changes/Ollama/2026-02-21-ollama-s-macos-and-windows-apps-will-now-default-to-a-context-length-based-on-av|Ollama''s
+  macOS and Windows apps will now default to a context length based…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-24-v2-1-51-github-289665343-b4bbdd9c|claude-code-2026-02-24-v2-1-51-github-289665343-b4bbdd9c]]'
 source_type: github_releases
 theme: context-window
@@ -85,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-02-20 · Claude Code · [[Changes/Claude Code/2026-02-20-2-context-window-changes-in-v2-1-50|2 Context Window changes in v2.1.50]]
+- Earlier: 2026-02-21 · Ollama · [[Changes/Ollama/2026-02-21-ollama-s-macos-and-windows-apps-will-now-default-to-a-context-length-based-on-av|Ollama's macOS and Windows apps will now default to a context length based…]]
 - Later: 2026-02-25 · ChatGPT · [[Changes/ChatGPT/2026-02-25-ad-hoc-text-sources-paste-notes-briefs-or-reference-material-directly-to-capture|Ad-hoc text sources]]
 <!-- chronolog:end -->
 

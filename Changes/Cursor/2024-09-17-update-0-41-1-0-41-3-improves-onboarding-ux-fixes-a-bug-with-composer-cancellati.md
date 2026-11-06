@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7f85b69ee147b994f5d7afef6f0bebfd015fbe14ec10580f4591bb5e98e9b108
+machine_hash: bd0ef64825e299e5bfb42e40e999ef72fa10e77cafdad20003c4706d0befb24e
 product: cursor
 product_name: Cursor
 record:
@@ -45,12 +45,12 @@ record:
   title: 'UPDATE (0.41.1–0.41.3): Improves onboarding UX, fixes a bug with composer…'
   type: change
 related_changes:
-- '[[Changes/Aider/2024-08-13-new-code-message-command-request-a-code-edit-while-in-ask-mode|New
-  /code message command request a code edit while in ask mode]]'
-- '[[Changes/Cline/2024-08-31-you-can-now-edit-claude-s-changes-before-accepting-when-he-edits-or-creates-a-fi|You
-  can now edit Claude''s changes before accepting! When he edits or creates…]]'
+- "[[Changes/Open WebUI/2024-09-04-missing-chat-completion-response-headers-ensured-proper-return-of-proxied-respon|\U0001F504
+  Missing Chat Completion Response Headers]]"
 - '[[Changes/Cline/2024-09-05-claude-s-changes-now-appear-in-your-file-s-timeline-allowing-you-to-easily-view|Claude''s
   changes now appear in your file''s Timeline, allowing you to easily view…]]'
+- '[[Changes/Dify/2024-09-12-editor-can-also-create-api-key-by-cuckootan-in-https-github-com-langgenius-dify|editor
+  can also create api key]]'
 source_release: '[[Releases/Cursor/cursor-2024-09-17-0-41-x-https-cursor-com-changelog-0-41-x-a8b13ea8|cursor-2024-09-17-0-41-x-https-cursor-com-changelog-0-41-x-a8b13ea8]]'
 source_type: cursor_changelog
 theme: editor-experience
@@ -83,8 +83,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2024-09-05 · Cline · [[Changes/Cline/2024-09-05-claude-s-changes-now-appear-in-your-file-s-timeline-allowing-you-to-easily-view|Claude's changes now appear in your file's Timeline, allowing you to easily view…]]
-- Later: 2024-09-29 · Aider · [[Changes/Aider/2024-09-29-3-editor-experience-changes-in-v0-58-0|3 Editor Experience changes in v0.58.0]]
+- Earlier: 2024-09-12 · Dify · [[Changes/Dify/2024-09-12-editor-can-also-create-api-key-by-cuckootan-in-https-github-com-langgenius-dify|editor can also create api key]]
+- Later: 2024-09-19 · Open WebUI · [[Changes/Open WebUI/2024-09-19-enhanced-error-messaging-system-now-displays-helpful-error-messages-directly-to|🧠 Enhanced Error Messaging]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

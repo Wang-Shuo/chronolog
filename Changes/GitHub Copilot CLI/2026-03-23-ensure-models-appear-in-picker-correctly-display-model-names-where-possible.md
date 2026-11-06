@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 4475ee90cffc131e6a84f7747d2f8dbecbee8976c94748b9fef2a1427eb22697
+machine_hash: b74a82c577d146c1f9e6ac2305dd587e56eeff41cc1d8664e3abb25efbcfdcda
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -53,12 +53,11 @@ record:
   title: Ensure models appear in picker correctly, display model names where possible
   type: change
 related_changes:
-- '[[Changes/Cline/2026-03-19-3-model-support-changes-in-v3-74-0|3 Model Support changes
-  in v3.74.0]]'
 - '[[Changes/Codex CLI/2026-03-19-2-model-support-changes-in-rust-v0-116-0|2 Model
   Support changes in rust-v0.116.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-20-2-model-support-changes-in-v1-0-10|2 Model
   Support changes in v1.0.10]]'
+- '[[Changes/ElevenLabs/2026-03-23-new-schemas|New Schemas]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-03-23-v1-0-11-github-300392949-b4741619|github-copilot-cli-2026-03-23-v1-0-11-github-300392949-b4741619]]'
 source_type: github_releases
 theme: model-support
@@ -91,7 +90,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-03-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-20-2-model-support-changes-in-v1-0-10|2 Model Support changes in v1.0.10]]
+- Earlier: 2026-03-23 · ElevenLabs · [[Changes/ElevenLabs/2026-03-23-new-schemas|New Schemas]]
 - Later: 2026-03-24 · Gemini CLI · [[Changes/Gemini CLI/2026-03-24-7-model-support-changes-in-v0-35-0|7 Model Support changes in v0.35.0]]
 <!-- chronolog:end -->
 

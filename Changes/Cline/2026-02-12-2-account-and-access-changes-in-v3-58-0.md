@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2d8f8fef0fbbd3dea57551368519c3f6656763fa62c623c297c409da6ade32b8
+machine_hash: e33954d49d7cd08cea246c403aceea6c2700befd10115e8483008a71889adcb3
 product: cline
 product_name: Cline
 record:
@@ -43,12 +43,12 @@ record:
   title: 2 Account and Access changes in v3.58.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-06-vscode-added-support-for-remote-sessions-allowing-oauth-users-to-browse-and-resu|VSCode:
-  Added support for remote sessions, allowing OAuth users to browse and resume…]]'
 - '[[Changes/Gemini CLI/2026-02-10-test-core-mock-fetch-in-oauth-transport-fallback-tests-by-jw409-in-https-github|test(core):
   mock fetch in OAuth transport fallback tests]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-11-2-account-and-access-changes-in-v0-0-407|2
   Account and Access changes in v0.0.407]]'
+- '[[Changes/v0/2026-02-11-added-sso-page-for-team-specific-authentication|Added SSO
+  page for team-specific authentication]]'
 source_release: '[[Releases/Cline/cline-2026-02-12-v3-58-0-github-285499006-63eb7b5c|cline-2026-02-12-v3-58-0-github-285499006-63eb7b5c]]'
 source_type: github_releases
 theme: account-access
@@ -88,7 +88,7 @@ Source: https://github.com/cline/cline/releases/tag/v3.58.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-02-11 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-11-2-account-and-access-changes-in-v0-0-407|2 Account and Access changes in v0.0.407]]
+- Earlier: 2026-02-11 · v0 · [[Changes/v0/2026-02-11-added-sso-page-for-team-specific-authentication|Added SSO page for team-specific authentication]]
 - Later: 2026-02-12 · Codex CLI · [[Changes/Codex CLI/2026-02-12-11521-test-app-server-stabilize-app-list-thread-feature-flag-test-by-using-file|♯11521 test(app-server): stabilize app/list thread feature-flag test by using…]]
 <!-- chronolog:end -->
 

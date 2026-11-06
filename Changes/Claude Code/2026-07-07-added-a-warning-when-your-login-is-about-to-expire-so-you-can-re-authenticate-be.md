@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 427913f43524c56112d6d312ccd18a329825d0d19391f1735078eb4fef1d700e
+machine_hash: 085fda715707899a20175fd82ede30b41e3ada3d6c241c730166c56e94533795
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,10 +43,9 @@ record:
   title: Added a warning when your login is about to expire, so you can re-authenticate…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-01-login-now-opens-the-sign-in-dialog-from-the-claude-agents-view-instead-of-saying|/login
-  now opens the sign-in dialog from the claude agents view instead…]]'
-- '[[Changes/ChatGPT/2026-07-06-chatgpt-for-powerpoint-is-now-generally-available-globally-from-a-sidebar-in-mic|ChatGPT
-  for PowerPoint is now generally available]]'
+- '[[Changes/ElevenLabs/2026-07-06-speech-engine|Speech Engine]]'
+- '[[Changes/Lovable/2026-07-06-recover-access-when-an-sso-provider-is-removed|Recover
+  access when an SSO provider is removed]]'
 - '[[Changes/OpenHands/2026-07-06-3-account-and-access-changes-in-1-9-0|3 Account
   and Access changes in 1.9.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-07-v2-1-203-github-350481879-29776bbc|claude-code-2026-07-07-v2-1-203-github-350481879-29776bbc]]'

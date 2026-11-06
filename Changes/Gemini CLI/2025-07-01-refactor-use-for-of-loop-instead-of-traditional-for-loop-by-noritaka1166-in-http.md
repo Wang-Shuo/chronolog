@@ -4,20 +4,20 @@ date: '2025-07-01'
 description: 'Gemini CLI · 2025-07-01 · Automation and Scheduling: refactor: use for...of
   loop instead of traditional for loop by @noritaka1166 in…'
 diffusion:
-  first_in_tracked: '[[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better
-    syntax error loop detection]]'
+  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
+    data clean schedule]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 300
+  lag_days: 546
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a49deb64cd8598abf7d595926e2eb81b12c2e5927822b27060e9a944cf74d902
+machine_hash: e7a5d2425c7a058e85983f8ea086d23967aad56f9587cd4f537c9b041abfa2b9
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -44,12 +44,12 @@ record:
   title: 'refactor: use for...of loop instead of traditional for loop'
   type: change
 related_changes:
-- '[[Changes/Cline/2025-01-06-there-is-now-a-see-new-changes-button-when-cline-completes-a-task-giving-you-an|There
-  is now a ‘See new changes’ button when Cline completes a task, giving you…]]'
-- '[[Changes/ChatGPT/2025-01-14-today-we-re-rolling-out-a-beta-version-of-tasks-a-new-way-to-ask-chatgpt-to-do-t-2d33b6|Scheduled
-  tasks in ChatGPT]]'
-- '[[Changes/OpenHands/2025-05-07-made-proactive-conversation-starters-for-cloud-resolver-configurable-on-a-per-us|Made
-  proactive conversation starters for Cloud Resolver configurable on a per-user basis]]'
+- '[[Changes/Dify/2025-05-15-refactor-workflow-revamp-logging-module-for-loop-iteration-nodes-by-auxpd-in-htt|refactor(workflow):
+  revamp logging module for loop & iteration nodes]]'
+- '[[Changes/Open WebUI/2025-06-16-direct-tool-server-input-accepts-empty-strings-you-can-now-submit-direct-tool-se|⚙️
+  Direct Tool Server Input Accepts Empty Strings]]'
+- '[[Changes/Gemini/2025-06-19-plan-ahead-with-scheduled-actions|Plan ahead with scheduled
+  actions]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-07-01-v0-1-8-github-229252035-f46324ec|gemini-cli-2025-07-01-v0-1-8-github-229252035-f46324ec]]'
 source_type: github_releases
 theme: automation-scheduling
@@ -87,14 +87,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2025-05-07 · OpenHands · [[Changes/OpenHands/2025-05-07-made-proactive-conversation-starters-for-cloud-resolver-configurable-on-a-per-us|Made proactive conversation starters for Cloud Resolver configurable on a per-user basis]]
+- Earlier: 2025-06-19 · Gemini · [[Changes/Gemini/2025-06-19-plan-ahead-with-scheduled-actions|Plan ahead with scheduled actions]]
 - Later: 2025-07-02 · Gemini CLI · [[Changes/Gemini CLI/2025-07-02-feat-core-add-infinite-loop-protection-to-client-by-allenhutchison-in-https-gith|feat(core): Add infinite loop protection to client]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-09-04 · OpenHands · [[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better syntax error loop detection]]
+- Earliest same-theme entry in the tracked set: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

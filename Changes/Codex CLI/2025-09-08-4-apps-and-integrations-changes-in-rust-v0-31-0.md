@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 247d75a85c2e46f719a0058f9f283e9d5e7cf8428f94b20994dc44aad31c6dd5
+machine_hash: 40af3c0f24ed4ce54111be957da542755d9a4554cdef89dd0689eafbff6a097c
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -49,12 +49,11 @@ record:
   title: 4 Apps and Integrations changes in rust-v0.31.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-08-29-mcp-stability-drop-mutexes-earlier-and-avoid-lock-ordering-pitfalls|MCP
-  stability: drop mutexes earlier and avoid lock ordering pitfalls]]'
 - '[[Changes/Gemini CLI/2025-09-04-17-apps-and-integrations-changes-in-v0-3-0|17 Apps
   and Integrations changes in v0.3.0]]'
 - '[[Changes/Codex CLI/2025-09-05-4-apps-and-integrations-changes-in-rust-v0-30-0|4
   Apps and Integrations changes in rust-v0.30.0]]'
+- '[[Changes/Replit/2025-09-05-gcp-marketplace-integration|GCP Marketplace integration]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-09-08-rust-v0-31-0-github-245666045-ad57a22f|codex-cli-2025-09-08-rust-v0-31-0-github-245666045-ad57a22f]]'
 source_type: github_releases
 theme: apps-integrations
@@ -96,8 +95,8 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.31.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-09-05 · Codex CLI · [[Changes/Codex CLI/2025-09-05-4-apps-and-integrations-changes-in-rust-v0-30-0|4 Apps and Integrations changes in rust-v0.30.0]]
-- Later: 2025-09-09 · Gemini CLI · [[Changes/Gemini CLI/2025-09-09-5-apps-and-integrations-changes-in-v0-4-0|5 Apps and Integrations changes in v0.4.0]]
+- Earlier: 2025-09-05 · Replit · [[Changes/Replit/2025-09-05-gcp-marketplace-integration|GCP Marketplace integration]]
+- Later: 2025-09-08 · ElevenLabs · [[Changes/ElevenLabs/2025-09-08-mcp-server|MCP Server]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

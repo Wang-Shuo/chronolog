@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 182c52fd6f51b7da801973a8710bdf94a9f6c4e72941913b872650b982659608
+machine_hash: a30ebb4ce167be835845a3c5583bb620bef620f7dd507eefcf7b6390fcb08bce
 product: cursor
 product_name: Cursor
 record:
@@ -44,8 +44,8 @@ record:
   title: Get started by installing the integration in the Cursor dashboard
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-05-08-8-apps-and-integrations-changes-in-rust-v0-130-0|8
-  Apps and Integrations changes in rust-v0.130.0]]'
+- '[[Changes/Open WebUI/2026-05-09-3-apps-and-integrations-changes-in-v0-9-3|3 Apps
+  and Integrations changes in v0.9.3]]'
 - '[[Changes/Claude Code/2026-05-11-added-goal-command-set-a-completion-condition-and-claude-keeps-working-across-tu|Added
   /goal command]]'
 - '[[Changes/Claude Code/2026-05-11-8-apps-and-integrations-changes-in-v2-1-139|8

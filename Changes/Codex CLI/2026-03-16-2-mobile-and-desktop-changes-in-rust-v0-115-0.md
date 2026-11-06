@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1f4d37883f092ead37018f74219155a979a7d054c918635cd75429c919b1a57b
+machine_hash: 7b57763a463b8fc43aa662cfafe14966750d0bcd1370aa938801b53c9625766c
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -91,7 +91,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.115.0
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-03-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-13-2-mobile-and-desktop-changes-in-v1-0-5|2 Mobile and Desktop changes in v1.0.5]]
-- Later: 2026-03-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-16-3-mobile-and-desktop-changes-in-v1-0-6|3 Mobile and Desktop changes in v1.0.6]]
+- Later: 2026-03-16 · ElevenLabs · [[Changes/ElevenLabs/2026-03-16-ios-sdk|iOS SDK]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

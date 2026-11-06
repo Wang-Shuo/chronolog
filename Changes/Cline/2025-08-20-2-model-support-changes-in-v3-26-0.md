@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: fec753fc37b7efb3baf28d0ebd0f32baa733c21a3286c6c768915e915340739f
+machine_hash: 928f81a8245c120ad9fce984bb31e1503b47baecc64f3a56dfed13201b1e924c
 product: cline
 product_name: Cline
 record:
@@ -42,10 +42,10 @@ record:
   title: 2 Model Support changes in v3.26.0
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-08-15-we-re-making-gpt-5-s-default-personality-warmer-and-more-familiar-this-is-in-res-19a03e|GPT-5
-  Updates]]'
 - '[[Changes/Cline/2025-08-15-add-support-for-200k-context-for-claude-sonnet-4-using-openrouter-cline-by-saoud|Add
   support for 200k context for claude sonnet 4 using openrouter/cline]]'
+- '[[Changes/Ollama/2025-08-15-ollama-flash-attention-1-will-also-enable-flash-attention-for-pure-cpu-models|OLLAMA_FLASH_ATTENTION=1
+  will also enable flash attention for pure-CPU models]]'
 - '[[Changes/Gemini CLI/2025-08-18-4-model-support-changes-in-v0-1-22|4 Model Support
   changes in v0.1.22]]'
 source_release: '[[Releases/Cline/cline-2025-08-20-v3-26-0-github-241074389-d79f2faa|cline-2025-08-20-v3-26-0-github-241074389-d79f2faa]]'

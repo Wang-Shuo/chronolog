@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: fc3c91a0dbe1658df1934ae65e24849eea4a2101a04b9e4d7ec277213c54a729
+machine_hash: 2efdfe582acbc652e4aa309c7580d81906ef5ff9dbf2f49e667dd6ce5b6f8545
 product: claude-code
 product_name: Claude Code
 record:
@@ -109,7 +109,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.113
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-04-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-16-2-safety-and-privacy-changes-in-v1-0-28|2 Safety and Privacy changes in v1.0.28]]
-- Later: 2026-04-18 · Claude Code · [[Changes/Claude Code/2026-04-18-fixed-a-crash-in-the-permission-dialog-when-an-agent-teams-teammate-requested-to|Fixed a crash in the permission dialog when an agent teams teammate requested tool…]]
+- Later: 2026-04-17 · Replit · [[Changes/Replit/2026-04-17-custom-groups-for-scim-organizations|Custom groups for SCIM organizations]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

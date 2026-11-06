@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4ee22e94c3412008a8dc7e74431af8fbde44fb619343beea1a19fb207030c801
+machine_hash: 814463c5eeae9e15a5a7e2a0fb61afe3bb8bd180d4f5d786f899d43cbd7961ec
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,12 +46,12 @@ record:
   title: 2 Account and Access changes in v2.1.186
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-16-2-account-and-access-changes-in-v1-0-63|2
-  Account and Access changes in v1.0.63]]'
-- '[[Changes/Claude Code/2026-06-17-improved-the-mcp-oauth-browser-page-to-match-claude-code-s-visual-style-and-auto|Improved
-  the MCP OAuth browser page to match Claude Code''s visual style…]]'
+- '[[Changes/Lovable/2026-06-17-choose-your-interface-language|Choose your interface
+  language]]'
 - '[[Changes/Codex CLI/2026-06-18-28257-support-staging-oauth-client-id-overrides-apanasenko-oai|♯28257
   Support staging OAuth client ID overrides @apanasenko-oai]]'
+- '[[Changes/v0/2026-06-19-anonymous-users-opening-a-shared-or-public-chat-are-no-longer-redirected-to-sign|Anonymous
+  users opening a shared or public chat are no longer redirected to sign…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-22-v2-1-186-github-343079393-93ecc37b|claude-code-2026-06-22-v2-1-186-github-343079393-93ecc37b]]'
 source_type: github_releases
 theme: account-access
@@ -90,7 +90,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.186
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-06-18 · Codex CLI · [[Changes/Codex CLI/2026-06-18-28257-support-staging-oauth-client-id-overrides-apanasenko-oai|♯28257 Support staging OAuth client ID overrides @apanasenko-oai]]
+- Earlier: 2026-06-19 · v0 · [[Changes/v0/2026-06-19-anonymous-users-opening-a-shared-or-public-chat-are-no-longer-redirected-to-sign|Anonymous users opening a shared or public chat are no longer redirected to sign…]]
 - Later: 2026-06-22 · Codex CLI · [[Changes/Codex CLI/2026-06-22-29022-codex-support-protected-resource-oauth-discovery-xl-openai|♯29022 codex Support protected resource OAuth discovery @xl-openai]]
 <!-- chronolog:end -->
 

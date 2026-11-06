@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a6fb609a76dc952f0bef57e2509d6f15cfcf6de8df4aa261b2804c64a96ad010
+machine_hash: 2718736494fbc1f9a5efd6a99ead6b804cf463379b912b1fbe7a226f0616ba75
 product: openhands
 product_name: OpenHands
 record:
@@ -87,7 +87,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/0.8.3
 ## Nearby in Safety and Privacy
 
 - Earlier: 2024-07-31 · Aider · [[Changes/Aider/2024-07-31-resolved-permission-issues-when-using-docker-run-user-xxx|Resolved permission issues when using docker run --user xxx]]
-- Later: 2024-08-23 · OpenHands · [[Changes/OpenHands/2024-08-23-3-safety-and-privacy-changes-in-0-9-0|3 Safety and Privacy changes in 0.9.0]]
+- Later: 2024-08-06 · Dify · [[Changes/Dify/2024-08-06-3-safety-and-privacy-changes-in-0-6-16|3 Safety and Privacy changes in 0.6.16]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

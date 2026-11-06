@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8abd5c75cfd15f9cfb1210bfe584b0e8c9246b954aa2afa7b09f2e8ed494ff6c
+machine_hash: a689c8e0aaf22041034ed39ac65bc5eeaedf3cb5ba9c93f9ebc8395f0ffcd735
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,10 +43,10 @@ record:
     @owenlin0'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-05-13538-chore-add-web-search-tool-type-for-image-support-sayan-oai|♯13538
-  chore: add web_search_tool_type for image support @sayan-oai]]'
-- '[[Changes/GitHub Copilot CLI/2026-03-06-elicitation-enum-and-boolean-fields-now-require-enter-to-confirm-a-selection-wit|Elicitation
-  enum and boolean fields now require Enter to confirm a selection…]]'
+- '[[Changes/Open WebUI/2026-03-08-2-search-and-browsing-changes-in-v0-8-9|2 Search
+  and Browsing changes in v0.8.9]]'
+- '[[Changes/Open WebUI/2026-03-09-2-search-and-browsing-changes-in-v0-8-10|2 Search
+  and Browsing changes in v0.8.10]]'
 - '[[Changes/Codex CLI/2026-03-10-2-search-and-browsing-changes-in-rust-v0-113-0|2
   Search and Browsing changes in rust-v0.113.0]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-03-11-rust-v0-114-0-github-295424880-aad043c8|codex-cli-2026-03-11-rust-v0-114-0-github-295424880-aad043c8]]'

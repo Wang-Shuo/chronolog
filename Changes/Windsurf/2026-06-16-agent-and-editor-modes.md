@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 5eab4810fc51a0837748ad510d0db990c04356d09c1f36b5ca3dedf39da5d181
+machine_hash: 57497c4b6f6acaf78004e982d1b11b5e33f0aba2fd9b799cf87e52c010601d2b
 product: windsurf
 product_name: Windsurf
 record:
@@ -54,10 +54,10 @@ record:
   title: Agent and Editor modes
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-15-2-editor-experience-changes-in-rust-v0-140-0|2 Editor
-  Experience changes in rust-v0.140.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-16-4-editor-experience-changes-in-v1-0-63|4
   Editor Experience changes in v1.0.63]]'
+- '[[Changes/Lovable/2026-06-16-see-when-you-have-unpublished-changes|See when you
+  have unpublished changes]]'
 - '[[Changes/Windsurf/2026-06-16-removed-the-explain-sparkle-button-from-the-editor-breadcrumbs|Removed
   the Explain sparkle button from the editor breadcrumbs]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-06-16-v3-2-16-684ac1d4|windsurf-2026-06-16-v3-2-16-684ac1d4]]'
@@ -92,8 +92,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-06-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-16-4-editor-experience-changes-in-v1-0-63|4 Editor Experience changes in v1.0.63]]
-- Later: 2026-06-22 · Codex CLI · [[Changes/Codex CLI/2026-06-22-29289-code-mode-preserve-initial-yield-at-completion-cconger|♯29289 code-mode: preserve initial yield at completion @cconger]]
+- Earlier: 2026-06-16 · Lovable · [[Changes/Lovable/2026-06-16-see-when-you-have-unpublished-changes|See when you have unpublished changes]]
+- Later: 2026-06-18 · Lovable · [[Changes/Lovable/2026-06-18-require-the-workspace-editor-role-to-edit-projects|Require the workspace editor role to edit projects]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

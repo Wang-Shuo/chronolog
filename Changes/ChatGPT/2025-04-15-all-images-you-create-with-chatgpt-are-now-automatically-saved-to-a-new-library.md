@@ -5,20 +5,20 @@ description: 'ChatGPT · 2025-04-15 · Image Generation: All images you create w
   ChatGPT are now automatically saved to a new Library in the sidebar, giving you
   one place…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2024-08-08-we-re-rolling-out-the-ability-for-chatgpt-free-users-to-create-up-to-two-images-2c505c|DALL·E
-    3 for ChatGPT Free users]]'
+  first_in_tracked: "[[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|\U0001F3A8
+    DALL-E Integration]]"
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 250
+  lag_days: 401
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 998b59e46d1a87e04077389172b2fb7fa2b5f03cef9664b8e8a08896479b7658
+machine_hash: 07c63b5353a5c6692586bbf41065c8f18de4d1f6ab98aaa561df06920a1a6227
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -68,12 +68,12 @@ record:
   title: ChatGPT Image Library
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2024-08-08-we-re-rolling-out-the-ability-for-chatgpt-free-users-to-create-up-to-two-images-2c505c|DALL·E
-  3 for ChatGPT Free users]]'
-- '[[Changes/ChatGPT/2024-11-22-dall-e-focused-view-has-an-updated-layout|DALL-E focused
-  view has an updated layout]]'
+- "[[Changes/Open WebUI/2025-02-13-improved-image-generation-metadata-handling-generated-images-now-retain-metadata|\U0001F680
+  Improved Image Generation Metadata Handling]]"
 - '[[Changes/ChatGPT/2025-03-18-increased-the-default-size-for-in-line-generated-images|Increased
   the default size for in‐line generated images]]'
+- "[[Changes/Open WebUI/2025-04-14-image-generation-in-temporary-chats-now-works-properly-fixed-a-bug-where-image-o|\U0001F5BC️
+  Image Generation in Temporary Chats Now Works Properly]]"
 source_release: '[[Releases/ChatGPT/chatgpt-2025-04-15-chatgpt-image-library-83e31577|chatgpt-2025-04-15-chatgpt-image-library-83e31577]]'
 source_type: chatgpt_changelog
 theme: image-generation
@@ -100,14 +100,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Image Generation
 
-- Earlier: 2025-03-18 · ChatGPT · [[Changes/ChatGPT/2025-03-18-increased-the-default-size-for-in-line-generated-images|Increased the default size for in‐line generated images]]
-- Later: 2025-08-08 · ChatGPT · [[Changes/ChatGPT/2025-08-08-we-re-rolling-out-a-small-update-to-image-generation-for-chatgpt-free-tier-users|Image generation update to ChatGPT Free]]
+- Earlier: 2025-04-14 · Open WebUI · [[Changes/Open WebUI/2025-04-14-image-generation-in-temporary-chats-now-works-properly-fixed-a-bug-where-image-o|🖼️ Image Generation in Temporary Chats Now Works Properly]]
+- Later: 2025-05-06 · Open WebUI · [[Changes/Open WebUI/2025-05-06-openai-image-generation-issues-resolved-resolved-broken-image-output-when-using|🖌️ OpenAI Image Generation Issues Resolved]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-08-08 · ChatGPT · [[Changes/ChatGPT/2024-08-08-we-re-rolling-out-the-ability-for-chatgpt-free-users-to-create-up-to-two-images-2c505c|DALL·E 3 for ChatGPT Free users]]
+- Earliest same-theme entry in the tracked set: 2024-03-10 · Open WebUI · [[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|🎨 DALL-E Integration]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

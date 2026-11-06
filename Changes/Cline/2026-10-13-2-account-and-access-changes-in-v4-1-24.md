@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5686bc19e4516ceae244dd4fce38d78867073c937e9cde302cc7892c9771c1bf
+machine_hash: 24d9c746866f65162fa76d25793042cb918a87b85fae6b0f2c880681e423d8e7
 product: cline
 product_name: Cline
 record:
@@ -45,10 +45,10 @@ record:
   title: 2 Account and Access changes in v4.1.24
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-09-improved-the-errors-for-a-refused-cloud-session-they-now-say-why-your-organizati|Improved
-  the errors for a refused cloud session]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-09-use-native-microsoft-entra-broker-authentication-on-macos-when-available-with-br|Use
   native Microsoft Entra broker authentication on macOS when available…]]'
+- '[[Changes/Open WebUI/2026-10-10-19-account-and-access-changes-in-v0-12-0|19 Account
+  and Access changes in v0.12.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-12-2-account-and-access-changes-in-v1-0-96|2
   Account and Access changes in v1.0.96]]'
 source_release: '[[Releases/Cline/cline-2026-10-13-v4-1-24-github-411804449-05899922|cline-2026-10-13-v4-1-24-github-411804449-05899922]]'

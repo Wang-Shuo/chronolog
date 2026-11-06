@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: accessibility-localization
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2ef66ca3d1df366449791d20bdbd09a64578faba85e3c4cf62ac65b52e866230
+machine_hash: 1f1d03bfab916e5933d2cbcf6d6dd5113f98d42ceb208477b1d7f800753bab40
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -41,12 +41,12 @@ record:
   title: Introduce initial screen reader mode handling and flag
   type: change
 related_changes:
-- '[[Changes/Aider/2025-03-10-switch-to-tree-sitter-language-pack-for-tree-sitter-support|Switch
-  to tree-sitter-language-pack for tree sitter support]]'
-- '[[Changes/Aider/2025-03-13-big-upgrade-in-programming-languages-supported-https-aider-chat-docs-languages-h|Big
-  upgrade in programming languages…]]'
-- '[[Changes/Cline/2025-06-20-2-accessibility-and-localization-changes-in-v3-17-15|2
-  Accessibility and Localization changes in v3.17.15]]'
+- '[[Changes/Open WebUI/2025-08-22-2-accessibility-and-localization-changes-in-v0-6-24|2
+  Accessibility and Localization changes in v0.6.24]]'
+- '[[Changes/Dify/2025-08-27-localized-documentation-updated-localized-readme-files-to-link-to-corresponding|Localized
+  Documentation: Updated localized README files to link to corresponding…]]'
+- '[[Changes/Open WebUI/2025-08-28-2-accessibility-and-localization-changes-in-v0-6-26|2
+  Accessibility and Localization changes in v0.6.26]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-09-04-v0-3-0-github-244870431-556b0abc|gemini-cli-2025-09-04-v0-3-0-github-244870431-556b0abc]]'
 source_type: github_releases
 theme: accessibility-localization
@@ -88,7 +88,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Accessibility and Localization
 
-- Earlier: 2025-06-20 · Cline · [[Changes/Cline/2025-06-20-2-accessibility-and-localization-changes-in-v3-17-15|2 Accessibility and Localization changes in v3.17.15]]
+- Earlier: 2025-08-28 · Open WebUI · [[Changes/Open WebUI/2025-08-28-2-accessibility-and-localization-changes-in-v0-6-26|2 Accessibility and Localization changes in v0.6.26]]
 - Later: 2025-09-09 · Gemini CLI · [[Changes/Gemini CLI/2025-09-09-screen-reader-updates-by-chrstnb-in-https-github-com-google-gemini-gemini-cli-pu|Screen reader updates]]
 <!-- chronolog:end -->
 

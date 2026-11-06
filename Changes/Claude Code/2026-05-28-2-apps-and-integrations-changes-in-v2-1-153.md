@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2638cea05e401be36ca0c9e8a3c28533030ce7d5d629e87ff06564fefe7b89c7
+machine_hash: b1ceeab99c558c014975192639884d02d46b6364e8287c2369ff3537fac19029
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
   title: 2 Apps and Integrations changes in v2.1.153
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-05-26-11-apps-and-integrations-changes-in-rust-v0-134-0|11
-  Apps and Integrations changes in rust-v0.134.0]]'
 - '[[Changes/Claude Code/2026-05-27-4-apps-and-integrations-changes-in-v2-1-152|4
   Apps and Integrations changes in v2.1.152]]'
 - '[[Changes/Gemini CLI/2026-05-27-docs-extensions-clarify-env-var-sanitization-policy-for-mcp-and-ext-by-galz10-in|docs(extensions):
   clarify env var sanitization policy for MCP and ext…]]'
+- '[[Changes/Claude/2026-05-28-enterprise-plans-can-manage-connector-access-with-custom-roles|Enterprise
+  plans can manage connector access with custom roles]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-28-v2-1-153-github-330532213-2fa9c18a|claude-code-2026-05-28-v2-1-153-github-330532213-2fa9c18a]]'
 source_type: github_releases
 theme: apps-integrations
@@ -89,7 +89,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.153
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-05-27 · Gemini CLI · [[Changes/Gemini CLI/2026-05-27-docs-extensions-clarify-env-var-sanitization-policy-for-mcp-and-ext-by-galz10-in|docs(extensions): clarify env var sanitization policy for MCP and ext…]]
+- Earlier: 2026-05-28 · Claude · [[Changes/Claude/2026-05-28-enterprise-plans-can-manage-connector-access-with-custom-roles|Enterprise plans can manage connector access with custom roles]]
 - Later: 2026-05-28 · Claude Code · [[Changes/Claude Code/2026-05-28-4-apps-and-integrations-changes-in-v2-1-154|4 Apps and Integrations changes in v2.1.154]]
 <!-- chronolog:end -->
 

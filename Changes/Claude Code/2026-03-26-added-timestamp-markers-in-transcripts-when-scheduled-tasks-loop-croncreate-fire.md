@@ -4,20 +4,20 @@ date: '2026-03-26'
 description: 'Claude Code · 2026-03-26 · Automation and Scheduling: Added timestamp
   markers in transcripts when scheduled tasks (`/loop`, `CronCreate`) fire'
 diffusion:
-  first_in_tracked: '[[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better
-    syntax error loop detection]]'
+  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
+    data clean schedule]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 568
+  lag_days: 814
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f4b02ded5fe686d2473ee885980e58b455206693387acdaaa4938056504534e7
+machine_hash: bbaa3be998db5204a8f593166b5a1d46822683588399f661f69e03062dbb8f47
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,10 +43,10 @@ record:
     fire
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-17-show-a-notice-when-apikeyhelper-takes-longer-than-10s-preventing-it-from-blockin|Show
-  a notice when apiKeyHelper takes longer than 10s, preventing it from blocking…]]'
 - '[[Changes/Gemini CLI/2026-03-17-2-automation-and-scheduling-changes-in-v0-34-0|2
   Automation and Scheduling changes in v0.34.0]]'
+- '[[Changes/Ollama/2026-03-17-scripts-automation-kick-off-automated-tasks-with-ollama-and-claude-code|Scripts/automation:
+  Kick off automated tasks with Ollama and claude code]]'
 - '[[Changes/Gemini CLI/2026-03-24-2-automation-and-scheduling-changes-in-v0-35-0|2
   Automation and Scheduling changes in v0.35.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-26-v2-1-85-github-302129484-6eb9dcd7|claude-code-2026-03-26-v2-1-85-github-302129484-6eb9dcd7]]'
@@ -92,7 +92,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-09-04 · OpenHands · [[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better syntax error loop detection]]
+- Earliest same-theme entry in the tracked set: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

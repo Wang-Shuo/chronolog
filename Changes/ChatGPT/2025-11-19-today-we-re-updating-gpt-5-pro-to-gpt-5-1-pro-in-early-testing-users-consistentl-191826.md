@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 599ea4d7fb82cc72abcadfc97bf9de35f4c8738c2066fcad78b7324583c5521b
+machine_hash: fce355e5c1f82f1cf17d50832ad9469b30e689e333c31c71cb8dd6066defe54b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -67,10 +67,10 @@ record:
   title: 'GPT-5.1 Pro: Clearer, more capable answers for complex work'
   type: change
 related_changes:
-- "[[Changes/Gemini CLI/2025-11-18-feat-launch-gemini-3-in-gemini-cli-by-skeshive-in-https-github-com-google-gemini|feat:
-  launch Gemini 3 in Gemini CLI \U0001F680\U0001F680\U0001F680]]"
 - '[[Changes/GitHub Copilot CLI/2025-11-18-gemini-3-pro-is-now-available-in-github-copilot-cli|Gemini
   3 Pro is now available in GitHub Copilot CLI]]'
+- '[[Changes/v0/2025-11-18-all-users-can-now-try-v0-with-gemini-3-pro-preview-for-one-week|Gemini
+  3 Pro Preview]]'
 - '[[Changes/Windsurf/2025-11-18-gemini-3-pro-preview|Gemini 3 Pro Preview]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-11-19-gpt-5-1-pro-clearer-more-capable-answers-for-complex-work-78316657|chatgpt-2025-11-19-gpt-5-1-pro-clearer-more-capable-answers-for-complex-work-78316657]]'
 source_type: chatgpt_changelog
@@ -98,7 +98,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-11-18 · Windsurf · [[Changes/Windsurf/2025-11-18-gemini-3-pro-preview|Gemini 3 Pro Preview]]
+- Earlier: 2025-11-18 · v0 · [[Changes/v0/2025-11-18-all-users-can-now-try-v0-with-gemini-3-pro-preview-for-one-week|Gemini 3 Pro Preview]]
 - Later: 2025-11-19 · Codex CLI · [[Changes/Codex CLI/2025-11-19-default-model-for-api-users-is-now-gpt-5-1-codex|Default model for API users is now gpt-5.1-codex]]
 <!-- chronolog:end -->
 

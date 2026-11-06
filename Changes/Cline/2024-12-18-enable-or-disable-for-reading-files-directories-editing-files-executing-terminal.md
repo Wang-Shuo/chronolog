@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d7fd47065ec181f92b001f8e4423e04f22cb8b53de4032fa6aee9c376f857f11
+machine_hash: f6bb4ef3c28aa5601c639e4b186b872866826f876995a03e1625fb5c702573ca
 product: cline
 product_name: Cline
 record:
@@ -52,12 +52,11 @@ record:
   title: Enable or disable for
   type: change
 related_changes:
-- '[[Changes/Aider/2024-11-04-easily-apply-file-edits-from-chatgpt-claude-or-other-web-apps|Easily
-  apply file edits from ChatGPT, Claude or other web apps]]'
-- '[[Changes/OpenHands/2024-11-04-discoverybench-openhands-integration-by-ethan0456-in-https-github-com-all-hands|DiscoveryBench
-  OpenHands Integration]]'
-- '[[Changes/Cline/2024-12-12-3-apps-and-integrations-changes-in-v2-2-0|3 Apps and
-  Integrations changes in v2.2.0]]'
+- '[[Changes/Replit/2024-12-13-more-beautiful-apps-improved-support-for-responsive-react-apps-allows-you-to-cre|More
+  Beautiful Apps: Improved support for responsive React apps allows you…]]'
+- '[[Changes/Replit/2024-12-13-build-beautiful-apps|Build Beautiful Apps]]'
+- '[[Changes/Dify/2024-12-16-features-integration-of-apache-opendal-https-github-com-apache-opendal-storage-f|Features
+  integration of Apache OpenDAL((source link) storage…]]'
 source_release: '[[Releases/Cline/cline-2024-12-18-v3-0-0-github-191549962-04b25c94|cline-2024-12-18-v3-0-0-github-191549962-04b25c94]]'
 source_type: github_releases
 theme: apps-integrations
@@ -89,8 +88,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2024-12-12 · Cline · [[Changes/Cline/2024-12-12-3-apps-and-integrations-changes-in-v2-2-0|3 Apps and Integrations changes in v2.2.0]]
-- Later: 2025-01-21 · Cline · [[Changes/Cline/2025-01-21-add-on-off-toggle-for-mcp-servers-to-disable-them-when-not-in-use-and-auto-appro|Add on/off toggle for MCP servers to disable them when not in use, and auto-approve…]]
+- Earlier: 2024-12-16 · Dify · [[Changes/Dify/2024-12-16-features-integration-of-apache-opendal-https-github-com-apache-opendal-storage-f|Features integration of Apache OpenDAL((source link) storage…]]
+- Later: 2024-12-18 · Dify · [[Changes/Dify/2024-12-18-opendal-integration-introducing-apache-opendal-https-github-com-apache-opendal-t|OpenDAL Integration: Introducing Apache…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

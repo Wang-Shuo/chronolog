@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 496a26a3ac248ccadc0414c1c4db45346ce85664582800ff1b9995c12e7b2e05
+machine_hash: 2221bac63982a86cc8f66d2cda8f63834d66a598f80751c9b865b93d2b456f2a
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,12 +44,11 @@ record:
   title: 2 Memory and Personalization changes in v1.0.49
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-05-07-16-memory-and-personalization-changes-in-rust-v0-129-0|16
-  Memory and Personalization changes in rust-v0.129.0]]'
-- '[[Changes/Gemini CLI/2026-05-12-feat-memory-add-auto-memory-inbox-flow-with-canonical-patch-contract-by-sandytao|feat(memory):
-  add Auto Memory inbox flow with canonical-patch contract]]'
 - '[[Changes/Codex CLI/2026-05-18-4-memory-and-personalization-changes-in-rust-v0-131-0|4
   Memory and Personalization changes in rust-v0.131.0]]'
+- '[[Changes/Lovable/2026-05-18-security-memory|Security memory]]'
+- '[[Changes/Dify/2026-05-19-workflow-execution-reliability-restored-tracing-after-hitl-workflow-resume-impro|Workflow
+  execution reliability]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-05-19-v1-0-49-github-324640083-4bf093b8|github-copilot-cli-2026-05-19-v1-0-49-github-324640083-4bf093b8]]'
 source_type: github_releases
 theme: memory
@@ -92,7 +91,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.49
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2026-05-18 · Codex CLI · [[Changes/Codex CLI/2026-05-18-4-memory-and-personalization-changes-in-rust-v0-131-0|4 Memory and Personalization changes in rust-v0.131.0]]
+- Earlier: 2026-05-19 · Dify · [[Changes/Dify/2026-05-19-workflow-execution-reliability-restored-tracing-after-hitl-workflow-resume-impro|Workflow execution reliability]]
 - Later: 2026-05-20 · Codex CLI · [[Changes/Codex CLI/2026-05-20-2-memory-and-personalization-changes-in-rust-v0-132-0|2 Memory and Personalization changes in rust-v0.132.0]]
 <!-- chronolog:end -->
 

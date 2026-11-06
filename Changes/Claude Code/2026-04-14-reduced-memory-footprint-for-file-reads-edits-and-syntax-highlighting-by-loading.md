@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0a66c6ef725e354cb4d6538b187da06a8f5ee1e376a1f8a0a45c3ee3d433d8b1
+machine_hash: feee2adf496206cd524d244bc8ac276b453a003876bf6c5969f624e577be24cd
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,8 +46,8 @@ record:
     loading…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-04-10-2-reliability-and-performance-changes-in-rust-v0-119-0|2
-  Reliability and Performance changes in rust-v0.119.0]]'
+- '[[Changes/Replit/2026-04-10-choose-where-your-app-runs-with-publishing-geography|Choose
+  where your app runs with publishing geography]]'
 - '[[Changes/Claude Code/2026-04-13-improved-stalled-api-stream-handling-streams-now-abort-after-5-minutes-of-no-dat|Improved
   stalled API stream handling]]'
 - '[[Changes/Cursor/2026-04-13-closing-tabs-is-now-less-likely-to-glitch-the-file-tree-and-recovery-is-faster|Closing

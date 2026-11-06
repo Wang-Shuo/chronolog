@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3c297c49ca4b8be6dd139665b278d90611ac900da266800083e3933742f84b3a
+machine_hash: c1e74e432acb5c9e5d29bc7fb5c16f77b18cb89c3feb58cb28ae959362044884
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -90,7 +90,7 @@ type: change
 ## Nearby in Memory and Personalization
 
 - Earlier: 2025-10-15 · ChatGPT · [[Changes/ChatGPT/2025-10-15-chatgpt-now-manages-saved-memories-automatically-by-keeping-the-most-relevant-de-997f64|ChatGPT can now automatically manage saved memories so it’s even better…]]
-- Later: 2025-10-28 · ChatGPT · [[Changes/ChatGPT/2025-10-28-longer-memory-for-more-personalized-responses|Longer memory for more personalized responses]]
+- Later: 2025-10-23 · Claude · [[Changes/Claude/2025-10-23-claude-s-memory-on-max-and-pro-plans|Claude’s memory on Max and Pro plans]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

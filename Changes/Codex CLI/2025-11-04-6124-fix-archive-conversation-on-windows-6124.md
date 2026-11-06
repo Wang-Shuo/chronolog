@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: dbcf94106acaf7e22090eab164ef2a832dfd6b12042f049ac1bb12a1b40a1085
+machine_hash: 00fb9feb378b1ea3de1fc9da7fc886df640906e49e540098f7dffd9a7cba1496
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,12 +42,12 @@ record:
   title: '#6124 Fix "archive conversation" on Windows (#6124)'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-10-23-starting-today-project-sharing-is-available-to-all-chatgpt-users-including-for-f-3f946e|Starting
-  today, project sharing is available to all ChatGPT users, including…]]'
-- '[[Changes/Cline/2025-10-23-fixing-banner-to-not-show-cli-release-for-windows-users-by-arafatkatze-in-https|Fixing
-  banner to not show CLI release for windows users]]'
+- '[[Changes/v0/2025-10-23-the-v0-ios-app-is-now-live-on-the-app-store-build-apps-on-the-go-with-the-full-p|v0
+  iOS App]]'
 - '[[Changes/GitHub Copilot CLI/2025-10-24-bundled-sharp-dependency-into-the-cli-package-we-re-one-step-closer-to-implement|Bundled
   sharp dependency into the CLI package -- we''re one step closer…]]'
+- '[[Changes/Ollama/2025-10-30-ignore-unsupported-igpus-when-doing-device-discovery-on-windows|Ignore
+  unsupported iGPUs when doing device discovery on Windows]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-11-04-rust-v0-54-0-github-259667879-e60aafd4|codex-cli-2025-11-04-rust-v0-54-0-github-259667879-e60aafd4]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -82,7 +82,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2025-10-24 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-10-24-bundled-sharp-dependency-into-the-cli-package-we-re-one-step-closer-to-implement|Bundled sharp dependency into the CLI package -- we're one step closer…]]
+- Earlier: 2025-10-30 · Ollama · [[Changes/Ollama/2025-10-30-ignore-unsupported-igpus-when-doing-device-discovery-on-windows|Ignore unsupported iGPUs when doing device discovery on Windows]]
 - Later: 2025-11-04 · Gemini CLI · [[Changes/Gemini CLI/2025-11-04-2-mobile-and-desktop-changes-in-v0-12-0|2 Mobile and Desktop changes in v0.12.0]]
 <!-- chronolog:end -->
 

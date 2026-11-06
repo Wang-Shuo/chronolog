@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 18648c0ce9ac71c6d516b7317eb457528e24c2a2e4b2d9ba396c492fa1432c5c
+machine_hash: 0e0221490d27b0f9873216c5e0f541fb00c90d97896f1a6d6fa23872c0792f67
 product: aider
 product_name: Aider
 record:
@@ -44,10 +44,10 @@ record:
   title: 2 Editor Experience changes in v0.84.0
   type: change
 related_changes:
-- '[[Changes/Aider/2025-05-09-2-editor-experience-changes-in-v0-83-0|2 Editor Experience
-  changes in v0.83.0]]'
-- '[[Changes/Cursor/2025-05-15-new-tab-model|New Tab model]]'
 - '[[Changes/Windsurf/2025-05-15-swe-1-mini|SWE-1-mini]]'
+- '[[Changes/Open WebUI/2025-05-19-2-editor-experience-changes-in-v0-6-10|2 Editor
+  Experience changes in v0.6.10]]'
+- '[[Changes/Replit/2025-05-23-visual-editor-rollout|Visual Editor rollout]]'
 source_release: '[[Releases/Aider/aider-2025-05-30-v0-84-0-github-222180237-d0574ad6|aider-2025-05-30-v0-84-0-github-222180237-d0574ad6]]'
 source_type: github_releases
 theme: editor-experience
@@ -83,8 +83,8 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.84.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2025-05-15 · Windsurf · [[Changes/Windsurf/2025-05-15-swe-1-mini|SWE-1-mini]]
-- Later: 2025-06-10 · OpenHands · [[Changes/OpenHands/2025-06-10-added-feature-flag-vscode-in-new-tab-for-opening-vscode-in-a-new-tab-by-tofarr-i|Added feature flag VSCODE_IN_NEW_TAB for opening vscode in a new tab]]
+- Earlier: 2025-05-23 · Replit · [[Changes/Replit/2025-05-23-visual-editor-rollout|Visual Editor rollout]]
+- Later: 2025-05-30 · Replit · [[Changes/Replit/2025-05-30-unified-github-tab-refresh|Unified GitHub tab refresh]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

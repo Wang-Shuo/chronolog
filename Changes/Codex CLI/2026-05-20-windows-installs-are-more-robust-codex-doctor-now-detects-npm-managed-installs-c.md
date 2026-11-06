@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: cbc8eeeefe9a1093eef2ca27b416c3a63730f04a8a792bfd8fcff7d2a8508d6e
+machine_hash: 6cd1267b68577ab04c5617eb7f7ad3c755613f420b6926b47abff216cedb2bab
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -47,12 +47,12 @@ record:
   title: Windows installs are more robust
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-11-cli-starts-faster-on-terminals-with-limited-osc-color-query-support-shaving-up-t|CLI
-  starts faster on terminals with limited OSC color query support, shaving up…]]'
-- '[[Changes/Gemini CLI/2026-05-12-2-reliability-and-performance-changes-in-v0-42-0|2
-  Reliability and Performance changes in v0.42.0]]'
-- '[[Changes/Cline/2026-05-13-improve-mention-file-search-performance|Improve @-mention
-  file search performance]]'
+- '[[Changes/Ollama/2026-05-13-2-reliability-and-performance-changes-in-v0-30-0|2
+  Reliability and Performance changes in v0.30.0]]'
+- '[[Changes/Lovable/2026-05-18-speed-tab-the-standalone-speed-tab-has-been-removed-speed-and-lighthouse-checks|Speed
+  tab. The standalone Speed tab has been removed]]'
+- '[[Changes/Dify/2026-05-19-knowledge-base-stability-fixed-knowledge-hit-testing-rendering-empty-knowledge-c|Knowledge-base
+  stability — fixed knowledge hit-testing rendering, empty…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-05-20-rust-v0-132-0-github-325545332-3345c1c4|codex-cli-2026-05-20-rust-v0-132-0-github-325545332-3345c1c4]]'
 source_type: github_releases
 theme: reliability-performance
@@ -91,7 +91,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-05-13 · Cline · [[Changes/Cline/2026-05-13-improve-mention-file-search-performance|Improve @-mention file search performance]]
+- Earlier: 2026-05-19 · Dify · [[Changes/Dify/2026-05-19-knowledge-base-stability-fixed-knowledge-hit-testing-rendering-empty-knowledge-c|Knowledge-base stability — fixed knowledge hit-testing rendering, empty…]]
 - Later: 2026-05-21 · Claude Code · [[Changes/Claude Code/2026-05-21-2-reliability-and-performance-changes-in-v2-1-146|2 Reliability and Performance changes in v2.1.146]]
 <!-- chronolog:end -->
 

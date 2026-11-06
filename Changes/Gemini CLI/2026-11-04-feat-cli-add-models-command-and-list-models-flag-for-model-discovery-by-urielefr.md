@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 9c83d8c42016ff345f13ff116c3bd888f447460faf565b693cdf55128a619798
+machine_hash: 0c7e681662d8f43002338281cf0bd871b6fafaec6509c2c160010baebd3eb5de
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -44,12 +44,12 @@ record:
   title: 'feat(cli): add models command and --list-models flag for model discovery'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-29-10-model-support-changes-in-rust-v0-166-0|10 Model
-  Support changes in rust-v0.166.0]]'
-- '[[Changes/Claude Code/2026-10-30-2-model-support-changes-in-v2-1-314|2 Model Support
-  changes in v2.1.314]]'
-- '[[Changes/Claude Code/2026-10-31-deprecated-fast-mode-for-opus-4-8-as-of-october-30-2026-it-will-be-removed-on-no|Deprecated
-  fast mode for Opus 4.8 as of October 30, 2026]]'
+- '[[Changes/Ollama/2026-11-03-2-model-support-changes-in-v0-40-14|2 Model Support
+  changes in v0.40.14]]'
+- '[[Changes/Open WebUI/2026-11-03-4-model-support-changes-in-v0-13-0|4 Model Support
+  changes in v0.13.0]]'
+- '[[Changes/Dify/2026-11-04-4-model-support-changes-in-1-19-0|4 Model Support changes
+  in 1.19.0]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-11-04-v0-67-0-github-434415349-61471746|gemini-cli-2026-11-04-v0-67-0-github-434415349-61471746]]'
 source_type: github_releases
 theme: model-support
@@ -80,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-10-31 · Claude Code · [[Changes/Claude Code/2026-10-31-deprecated-fast-mode-for-opus-4-8-as-of-october-30-2026-it-will-be-removed-on-no|Deprecated fast mode for Opus 4.8 as of October 30, 2026]]
+- Earlier: 2026-11-04 · Dify · [[Changes/Dify/2026-11-04-4-model-support-changes-in-1-19-0|4 Model Support changes in 1.19.0]]
 - Later: 2026-11-06 · Codex CLI · [[Changes/Codex CLI/2026-11-06-7-model-support-changes-in-rust-v0-167-0|7 Model Support changes in rust-v0.167.0]]
 <!-- chronolog:end -->
 

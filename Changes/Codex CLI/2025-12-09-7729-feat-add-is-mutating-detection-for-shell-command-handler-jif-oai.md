@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 14f9aca49f180cfa67723cc2791710701d393f4c78a39a02822b6e0d81b729bc
+machine_hash: cb792008fd25b63aa2d45d2696fd0b2214f8219ef4cccb29b9bb52f53a37e9dc
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -41,12 +41,9 @@ record:
   title: '#7729 feat: add is-mutating detection for shell command handler @jif-oai'
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-11-21-2-agent-mode-changes-in-2-1|2 Agent Mode changes in
-  2.1]]'
-- '[[Changes/Codex CLI/2025-12-02-powershell-apply-patch-parsing-is-corrected-and-apply-patch-tests-now-cover-shel|PowerShell
-  apply_patch parsing is corrected, and apply_patch tests now cover…]]'
-- '[[Changes/GitHub Copilot CLI/2025-12-03-add-infer-property-to-control-custom-agent-tool-visibility|Add
-  infer property to control custom agent tool visibility]]'
+- '[[Changes/ElevenLabs/2025-12-08-new-endpoints|New Endpoints]]'
+- '[[Changes/ElevenLabs/2025-12-08-agents-platform-d0503f|Agents Platform]]'
+- '[[Changes/ElevenLabs/2025-12-08-lists-and-sorting|Lists and Sorting]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-12-09-rust-v0-66-0-github-268559734-698ec8f9|codex-cli-2025-12-09-rust-v0-66-0-github-268559734-698ec8f9]]'
 source_type: github_releases
 theme: agent-mode
@@ -85,7 +82,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2025-12-03 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-12-03-add-infer-property-to-control-custom-agent-tool-visibility|Add infer property to control custom agent tool visibility]]
+- Earlier: 2025-12-08 · ElevenLabs · [[Changes/ElevenLabs/2025-12-08-lists-and-sorting|Lists and Sorting]]
 - Later: 2025-12-09 · Gemini CLI · [[Changes/Gemini CLI/2025-12-09-feat-a2a-urgent-fix-process-modelinfo-agent-message-by-cocosheng-g-in-https-gith|feat(a2a): Urgent fix - Process modelInfo agent message]]
 <!-- chronolog:end -->
 

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2978c6ab1b39dd90b2a55400f0a52b37a84525ed685b5381dc0208ca757f4940
+machine_hash: 819326429d337d60bc45daf300f95567bee9436d6885847d95cc344c95ca1366
 product: openhands
 product_name: OpenHands
 record:
@@ -43,12 +43,12 @@ record:
   title: Limit resource usage of command to avoid OOM Runtime Kill
   type: change
 related_changes:
-- '[[Changes/Aider/2025-01-10-5-developer-workflow-changes-in-v0-71-0|5 Developer
-  Workflow changes in v0.71.0]]'
-- '[[Changes/OpenHands/2025-01-13-2-developer-workflow-changes-in-0-20-0|2 Developer
-  Workflow changes in 0.20.0]]'
+- '[[Changes/Dify/2025-01-22-stop-the-service-command-please-execute-in-the-docker-directory|Stop
+  the service，Command, please execute in the docker directory]]'
 - '[[Changes/Cursor/2025-01-23-update-0-45-12-13-update-infrastructure-improvements-the-f1-check-for-updates-co|UPDATE
   (0.45.12-13): Update infrastructure improvements]]'
+- '[[Changes/Dify/2025-02-07-stop-the-service-command-please-execute-in-the-docker-directory|Stop
+  the service，Command, please execute in the docker directory]]'
 source_release: '[[Releases/OpenHands/openhands-2025-02-13-0-24-0-github-200146983-89f4a101|openhands-2025-02-13-0-24-0-github-200146983-89f4a101]]'
 source_type: github_releases
 theme: developer-workflow
@@ -79,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2025-01-23 · Cursor · [[Changes/Cursor/2025-01-23-update-0-45-12-13-update-infrastructure-improvements-the-f1-check-for-updates-co|UPDATE (0.45.12-13): Update infrastructure improvements]]
+- Earlier: 2025-02-07 · Dify · [[Changes/Dify/2025-02-07-stop-the-service-command-please-execute-in-the-docker-directory|Stop the service，Command, please execute in the docker directory]]
 - Later: 2025-02-19 · Cline · [[Changes/Cline/2025-02-19-new-git-to-reference-the-current-working-changes-or-specific-commits-thanks-mrub|New @git to reference the current working changes or specific commits…]]
 <!-- chronolog:end -->
 

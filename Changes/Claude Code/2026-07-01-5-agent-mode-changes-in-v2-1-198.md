@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a7f28c2b3c39dcbd121532fa74076220a3570211e81906cd90fbfcb631f07e58
+machine_hash: 82cfc75c0bd273abaf1b902588f91c1919d3f7a2f7d9d5acb4faafb7c56ed5f9
 product: claude-code
 product_name: Claude Code
 record:
@@ -55,8 +55,8 @@ record:
   title: 5 Agent Mode changes in v2.1.198
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-06-29-cursor-for-ios-is-now-available-in-public-beta-on-all-paid-plans-launch-and-mana|Cursor
-  for iOS is now available in public beta on all paid plans]]'
+- "[[Changes/Open WebUI/2026-06-29-client-user-agent-forwarded-to-model-backends-the-browser-s-user-agent-is-now-pa|\U0001FAAA
+  Client User-Agent forwarded to model backends. The browser's User-Agent is now…]]"
 - '[[Changes/GitHub Copilot CLI/2026-06-30-2-agent-mode-changes-in-v1-0-67|2 Agent
   Mode changes in v1.0.67]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-30-8-agent-mode-changes-in-v1-0-66|8 Agent

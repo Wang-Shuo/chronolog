@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0cb5725c92611d938a9ae47cac850dec67b4b219feb5c4a91acb3e4008b03ef5
+machine_hash: 09fabbc688dfcbee1562bafa73e4e33463e2b0307add3ee01acdeb02d632749f
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,10 +43,9 @@ record:
     Responses…'
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-12-30-added-forgejo-integration-by-johba37-in-https-github-com-openhands-openhands-pul|Added
-  Forgejo integration]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-02-mcp-server-type-help-text-displays-correct-options|MCP
   server type help text displays correct options]]'
+- '[[Changes/ElevenLabs/2026-01-05-sdk-releases|SDK Releases]]'
 - '[[Changes/Cline/2026-01-06-exclude-binary-files-without-extensions-from-diffs|Exclude
   binary files without extensions from diffs]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-01-06-rust-v0-78-0-github-274610568-c3df153a|codex-cli-2026-01-06-rust-v0-78-0-github-274610568-c3df153a]]'

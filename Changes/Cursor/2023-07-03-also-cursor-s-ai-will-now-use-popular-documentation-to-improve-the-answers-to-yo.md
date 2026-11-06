@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1d3e8f255a92fe413960e5c50e030cf724b7e6c1a5029482753f4368485e4803
+machine_hash: 57bffef436e9fd1cb4dff0a483176fce44d96f81c624dc91fd5510d3fadb837a
 product: cursor
 product_name: Cursor
 record:
@@ -51,8 +51,8 @@ record:
   title: Also, Cursor's AI will now use popular documentation to improve the answers…
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-06-16-we-ve-added-support-for-using-your-azure-openai-credentials-also-small-improveme|Azure
-  Support]]'
+- "[[Changes/Dify/2023-06-19-dataset-support-integration-with-notion|\U0001F4C3 Dataset
+  support integration with Notion]]"
 - '[[Changes/Cursor/2023-06-27-cursor-deep-linking-works-now-so-you-should-be-able-to-log-in-to-extensions|cursor://
   deep linking works now, so you should be able to log in to extensions]]'
 - '[[Changes/Cursor/2023-06-27-better-support-for-extensions-specifically-re-enables-the-welcomeview|Better

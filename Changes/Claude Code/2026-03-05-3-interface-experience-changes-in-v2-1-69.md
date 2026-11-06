@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e48c48295287dc999c15a2fc41472b0930f3ca36eb42e1b581ea2cb0aa072979
+machine_hash: b95a852edc506792a80e55f520972502e7797075bb99c71786189e214b9cecd5
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,12 +47,12 @@ record:
   title: 3 Interface Experience changes in v2.1.69
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-28-added-always-copy-full-response-option-to-the-copy-picker-when-selected-future-c|Added
-  "Always copy full response" option to the /copy picker]]'
-- '[[Changes/Cursor/2026-03-03-the-content-from-your-plan-files-are-now-included-in-autocomplete-suggestions-as|The
-  content from your plan files are now included in autocomplete suggestions as you…]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-03-2-interface-experience-changes-in-v0-0-421|2
   Interface Experience changes in v0.0.421]]'
+- '[[Changes/v0/2026-03-03-improved-chat-sidebar-width-for-better-screen-space|Improved
+  chat sidebar width for better screen space]]'
+- '[[Changes/v0/2026-03-04-improved-diff-navigation-with-clickable-file-stats-and-auto-scrolling|Improved
+  diff navigation with clickable file stats and auto-scrolling]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-05-v2-1-69-github-293216328-162b2e44|claude-code-2026-03-05-v2-1-69-github-293216328-162b2e44]]'
 source_type: github_releases
 theme: interface-experience
@@ -99,7 +99,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.69
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-03-03 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-03-2-interface-experience-changes-in-v0-0-421|2 Interface Experience changes in v0.0.421]]
+- Earlier: 2026-03-04 · v0 · [[Changes/v0/2026-03-04-improved-diff-navigation-with-clickable-file-stats-and-auto-scrolling|Improved diff navigation with clickable file stats and auto-scrolling]]
 - Later: 2026-03-05 · Codex CLI · [[Changes/Codex CLI/2026-03-05-13313-renaming-team-to-business-plan-during-tui-onboarding-bwanner-oai|♯13313 Renaming Team to Business plan during TUI onboarding @bwanner-oai]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: ba96e0c7e3ed6e902b5f5f07269d4c89da89a08b70fe23974c232cc3c4a57d02
+machine_hash: bdb38436c1b05db85c1fc3cac9c31c4ab67e1785cde474d5390c10297297e85a
 product: cursor
 product_name: Cursor
 record:
@@ -59,9 +59,10 @@ record:
   title: Autocomplete for Agent
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-09-15-add-readme-ide-3494|add(readme): IDE (♯3494)]]'
 - '[[Changes/Gemini CLI/2025-09-24-8-editor-experience-changes-in-v0-6-0|8 Editor
   Experience changes in v0.6.0]]'
+- '[[Changes/Open WebUI/2025-09-25-2-editor-experience-changes-in-v0-6-31|2 Editor
+  Experience changes in v0.6.31]]'
 - '[[Changes/GitHub Copilot CLI/2025-09-26-2-editor-experience-changes-in-v0-0-328|2
   Editor Experience changes in v0.0.328]]'
 source_release: '[[Releases/Cursor/cursor-2025-09-29-1-7-https-cursor-com-changelog-1-7-0a03c0ae|cursor-2025-09-29-1-7-https-cursor-com-changelog-1-7-0a03c0ae]]'
@@ -111,7 +112,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2025-09-26 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-09-26-2-editor-experience-changes-in-v0-0-328|2 Editor Experience changes in v0.0.328]]
-- Later: 2025-09-29 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-09-29-4-editor-experience-changes-in-v0-0-329|4 Editor Experience changes in v0.0.329]]
+- Later: 2025-09-29 · Dify · [[Changes/Dify/2025-09-29-2-editor-experience-changes-in-1-9-1|2 Editor Experience changes in 1.9.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

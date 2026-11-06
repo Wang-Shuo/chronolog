@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: dc334397b34ca0503f9928e07773c1b2424f607e135f78fdb42c40b29c03cd19
+machine_hash: 3622ad8dc5df5fbe8ac71627cced136e71e9bb95921158e8038d076c34d6d437
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -47,12 +47,12 @@ record:
   title: 5 Collaboration changes in rust-v0.152.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-08-18-5-collaboration-changes-in-rust-v0-148-0|5 Collaboration
-  changes in rust-v0.148.0]]'
-- '[[Changes/ChatGPT/2026-08-20-share-a-read-only-snapshot-of-a-codex-chat-personal-share-links-can-be-opened-by|Share
-  a read-only snapshot of a Codex chat]]'
-- '[[Changes/Codex CLI/2026-08-20-2-collaboration-changes-in-rust-v0-149-0|2 Collaboration
-  changes in rust-v0.149.0]]'
+- '[[Changes/Open WebUI/2026-08-25-6-collaboration-changes-in-v0-11-1|6 Collaboration
+  changes in v0.11.1]]'
+- '[[Changes/v0/2026-08-28-4-collaboration-changes-in-gpt-5-6-sol-sign-in-inside-previews|4
+  Collaboration changes in GPT-5.6 Sol, sign-in inside previews…]]'
+- '[[Changes/Open WebUI/2026-08-31-2-collaboration-changes-in-v0-11-2|2 Collaboration
+  changes in v0.11.2]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-09-01-rust-v0-152-0-github-380164108-cd339544|codex-cli-2026-09-01-rust-v0-152-0-github-380164108-cd339544]]'
 source_type: github_releases
 theme: collaboration
@@ -101,7 +101,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.152.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-08-20 · Codex CLI · [[Changes/Codex CLI/2026-08-20-2-collaboration-changes-in-rust-v0-149-0|2 Collaboration changes in rust-v0.149.0]]
+- Earlier: 2026-08-31 · Open WebUI · [[Changes/Open WebUI/2026-08-31-2-collaboration-changes-in-v0-11-2|2 Collaboration changes in v0.11.2]]
 - Later: 2026-09-03 · ChatGPT · [[Changes/ChatGPT/2026-09-03-eligible-site-owners-can-now-share-a-live-chatgpt-site-with-named-people-outside|Share Sites with people outside your workspace]]
 <!-- chronolog:end -->
 

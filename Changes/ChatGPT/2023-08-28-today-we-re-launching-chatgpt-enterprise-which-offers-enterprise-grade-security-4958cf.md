@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 8e84f8df53b7505d9128391f5aa78d7871668f59a652db2b080791ca922285f7
+machine_hash: e12030a90ade93a6022b9df061f0db8f9dafd7a4a5c885dc19fa536ebdd266b6
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -74,12 +74,12 @@ record:
   title: Introducing ChatGPT Enterprise
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-  mode for opting out of storing any kind of data on our servers]]'
 - '[[Changes/Cursor/2023-06-27-cursor-is-now-based-on-version-1-79-2-of-vscodium-which-comes-with-security-upda|Cursor
   is now based on version 1.79.2 of VSCodium, which comes with security updates…]]'
 - '[[Changes/Aider/2023-07-24-encourage-gpt-to-use-language-like-add-files-to-the-chat-to-ask-users-for-permis|Encourage
   GPT to use language like "add files to the chat" to ask users…]]'
+- '[[Changes/Dify/2023-08-15-fix-frontend-permission-check-by-matriq-in-https-github-com-langgenius-dify-pull|fix:
+  frontend permission check]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2023-08-28-introducing-chatgpt-enterprise-eb7127e6|chatgpt-2023-08-28-introducing-chatgpt-enterprise-eb7127e6]]'
 source_type: chatgpt_changelog
 theme: safety-privacy
@@ -106,7 +106,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2023-07-24 · Aider · [[Changes/Aider/2023-07-24-encourage-gpt-to-use-language-like-add-files-to-the-chat-to-ask-users-for-permis|Encourage GPT to use language like "add files to the chat" to ask users…]]
+- Earlier: 2023-08-15 · Dify · [[Changes/Dify/2023-08-15-fix-frontend-permission-check-by-matriq-in-https-github-com-langgenius-dify-pull|fix: frontend permission check]]
 - Later: 2023-08-30 · Cursor · [[Changes/Cursor/2023-08-30-api-key-input-box-is-now-a-password-type|API Key input box is now a password type]]
 <!-- chronolog:end -->
 

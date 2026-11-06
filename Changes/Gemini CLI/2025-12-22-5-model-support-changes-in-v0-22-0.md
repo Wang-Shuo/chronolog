@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b00d47981490a5f13fa6339a411c7bd11af6e46eb485c55c820a14113676e76f
+machine_hash: b01d54b19de4c2bdcbf366c52c25b87f61f332f5fc894d1b3d97152737c0d9fc
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -53,8 +53,8 @@ record:
   title: 5 Model Support changes in v0.22.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-12-21-3-model-support-changes-in-rust-v0-77-0|3 Model
-  Support changes in rust-v0.77.0]]'
+- '[[Changes/Open WebUI/2025-12-21-11-model-support-changes-in-v0-6-42|11 Model Support
+  changes in v0.6.42]]'
 - '[[Changes/Cline/2025-12-22-remove-glm-4-6-from-free-models|Remove GLM 4.6 from
   free models]]'
 - '[[Changes/Cline/2025-12-22-5-model-support-changes-in-v3-46-0|5 Model Support changes

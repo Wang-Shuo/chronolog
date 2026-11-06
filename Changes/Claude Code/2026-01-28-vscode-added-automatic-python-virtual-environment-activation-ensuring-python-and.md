@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 991862904f622d319fa7e25b1930bf8a1c7497efbb3fee07bdba0234cb400a4c
+machine_hash: 070036457186e42be61f2772c49f375c7dfe15d43592bac8765a1601559a8682
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,12 +47,12 @@ record:
     `python`…'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-27-3-developer-workflow-changes-in-v2-1-20|3 Developer
-  Workflow changes in v2.1.20]]'
 - '[[Changes/Codex CLI/2026-01-27-2-developer-workflow-changes-in-rust-v0-92-0|2 Developer
   Workflow changes in rust-v0.92.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-27-2-developer-workflow-changes-in-v0-0-396|2
   Developer Workflow changes in v0.0.396]]'
+- '[[Changes/v0/2026-01-27-projects-connected-to-your-actual-app-with-code-environment-variables-deployment|Projects
+  : connected to your actual app, with code, environment variables…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-28-v2-1-21-github-280523920-bba74245|claude-code-2026-01-28-v2-1-21-github-280523920-bba74245]]'
 source_type: github_releases
 theme: developer-workflow
@@ -83,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-01-27 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-27-2-developer-workflow-changes-in-v0-0-396|2 Developer Workflow changes in v0.0.396]]
+- Earlier: 2026-01-27 · v0 · [[Changes/v0/2026-01-27-projects-connected-to-your-actual-app-with-code-environment-variables-deployment|Projects : connected to your actual app, with code, environment variables…]]
 - Later: 2026-01-28 · Gemini CLI · [[Changes/Gemini CLI/2026-01-28-8-developer-workflow-changes-in-v0-26-0|8 Developer Workflow changes in v0.26.0]]
 <!-- chronolog:end -->
 

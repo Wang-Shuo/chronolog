@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: eccd9907e980b8caaf173202d6497a87c1a16f41e637a0c0feee968e323d7871
+machine_hash: 0a479c724f4c804e2fbeabbdc1e8f7ca90261f345557e9852b2131854d088011
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -93,7 +93,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.29
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-04-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-16-mcp-migration-hint-now-links-to-documentation-with-platform-specific-instruction|MCP migration hint now links to documentation with platform-specific instructions…]]
-- Later: 2026-04-20 · Claude Code · [[Changes/Claude Code/2026-04-20-2-apps-and-integrations-changes-in-v2-1-116|2 Apps and Integrations changes in v2.1.116]]
+- Later: 2026-04-16 · Ollama · [[Changes/Ollama/2026-04-16-2-apps-and-integrations-changes-in-v0-21-0|2 Apps and Integrations changes in v0.21.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

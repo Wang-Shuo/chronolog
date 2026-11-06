@@ -3,20 +3,20 @@ card_id: aider-2024-04-21-e11beb
 date: '2024-04-21'
 description: 'Aider · 2024-04-21 · Multimodal Input: `--4-turbo-vision`'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-09-25-you-can-now-show-chatgpt-one-or-more-images-troubleshoot-why-your-grill-won-t-st-e42bd6|Image
-    input will be generally available to Plus users on all platforms]]'
+  first_in_tracked: '[[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add
+    video to cn readme]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 209
+  lag_days: 215
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 70dfa6656aea536bad06fc6bb0d94c0edbe4c8aec88a19be80ed8cdcd059ccfd
+machine_hash: 8899973d97c5187bc64657e9f525abf83351532a6e1ec934aecaac379f0a677b
 product: aider
 product_name: Aider
 record:
@@ -39,10 +39,12 @@ record:
   title: '`--4-turbo-vision`'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2023-09-25-you-can-now-show-chatgpt-one-or-more-images-troubleshoot-why-your-grill-won-t-st-e42bd6|Image
-  input will be generally available to Plus users on all platforms]]'
-- '[[Changes/Cursor/2023-11-27-image-support-in-chat-you-can-now-drag-and-drop-images-into-the-chat-to-send-the|Image
-  Support in Chat]]'
+- '[[Changes/Dify/2024-01-24-our-expansion-into-text-to-image-capabilities-marks-a-significant-step-in-our-mu|Our
+  expansion into text-to-image capabilities marks a significant step in our…]]'
+- '[[Changes/Ollama/2024-02-02-3-multimodal-input-changes-in-v0-1-23|3 Multimodal
+  Input changes in v0.1.23]]'
+- '[[Changes/Dify/2024-04-11-3-multimodal-input-changes-in-0-6-2|3 Multimodal Input
+  changes in 0.6.2]]'
 source_release: '[[Releases/Aider/aider-2024-04-21-v0-29-0-github-152105481-898d28d6|aider-2024-04-21-v0-29-0-github-152105481-898d28d6]]'
 source_type: github_releases
 theme: multimodal
@@ -72,14 +74,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Multimodal Input
 
-- Earlier: 2023-11-27 · Cursor · [[Changes/Cursor/2023-11-27-image-support-in-chat-you-can-now-drag-and-drop-images-into-the-chat-to-send-the|Image Support in Chat]]
-- Later: 2024-09-30 · OpenHands · [[Changes/OpenHands/2024-09-30-vision-and-prompt-caching-fixes-by-enyst-in-https-github-com-all-hands-ai-openha|Vision and prompt caching fixes]]
+- Earlier: 2024-04-11 · Dify · [[Changes/Dify/2024-04-11-3-multimodal-input-changes-in-0-6-2|3 Multimodal Input changes in 0.6.2]]
+- Later: 2024-04-22 · Dify · [[Changes/Dify/2024-04-22-2-multimodal-input-changes-in-0-6-4|2 Multimodal Input changes in 0.6.4]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-25 · ChatGPT · [[Changes/ChatGPT/2023-09-25-you-can-now-show-chatgpt-one-or-more-images-troubleshoot-why-your-grill-won-t-st-e42bd6|Image input will be generally available to Plus users on all platforms]]
+- Earliest same-theme entry in the tracked set: 2023-09-19 · Dify · [[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add video to cn readme]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

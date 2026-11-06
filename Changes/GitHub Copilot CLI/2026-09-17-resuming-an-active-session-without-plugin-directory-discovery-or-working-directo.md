@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 740a8fe8a898f630af10795e7280bae89e34bac82a65de731fbb2582c2dde0c6
+machine_hash: 9127db1bf07e94740c1ae546400485d228a71b51a01fdee1d1f0288a349c8ac3
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-09-17 · Codex CLI · [[Changes/Codex CLI/2026-09-17-24-apps-and-integrations-changes-in-rust-v0-155-0|24 Apps and Integrations changes in rust-v0.155.0]]
-- Later: 2026-09-18 · Claude Code · [[Changes/Claude Code/2026-09-18-6-apps-and-integrations-changes-in-v2-1-277|6 Apps and Integrations changes in v2.1.277]]
+- Later: 2026-09-17 · Lovable · [[Changes/Lovable/2026-09-17-connect-your-app-to-the-lovable-api|Connect your app to the Lovable API]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

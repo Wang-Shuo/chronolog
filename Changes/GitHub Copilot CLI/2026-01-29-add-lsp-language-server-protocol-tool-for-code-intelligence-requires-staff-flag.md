@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1f43c17eec90458e0ef5963894d626f1902f6c339d7a19c6dac34c9e78a829ba
+machine_hash: f77d658a873749889122f9734cc0fe87674a2724b7becdda831024177f1a04cf
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -42,10 +42,10 @@ record:
     flag)
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-01-28-skills-from-parent-directories-are-now-invocable-and-work-in-non-git-directories|Skills
-  from parent directories are now invocable and work in non-git directories]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-28-header-layout-adapts-better-to-narrow-terminal-widths|Header
   layout adapts better to narrow terminal widths]]'
+- '[[Changes/v0/2026-01-28-added-toast-notification-when-pull-requests-are-merged|Added
+  toast notification when pull requests are merged]]'
 - '[[Changes/Claude Code/2026-01-29-changed-bash-commands-to-show-timeout-duration-alongside-elapsed-time|Changed
   Bash commands to show timeout duration alongside elapsed time]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-01-29-v0-0-399-github-281241103-0dd383a6|github-copilot-cli-2026-01-29-v0-0-399-github-281241103-0dd383a6]]'
@@ -82,7 +82,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-01-29 · Claude Code · [[Changes/Claude Code/2026-01-29-changed-bash-commands-to-show-timeout-duration-alongside-elapsed-time|Changed Bash commands to show timeout duration alongside elapsed time]]
-- Later: 2026-01-30 · Claude Code · [[Changes/Claude Code/2026-01-30-2-developer-workflow-changes-in-v2-1-27|2 Developer Workflow changes in v2.1.27]]
+- Later: 2026-01-29 · v0 · [[Changes/v0/2026-01-29-added-server-logs-for-better-debugging|Added server logs for better debugging]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

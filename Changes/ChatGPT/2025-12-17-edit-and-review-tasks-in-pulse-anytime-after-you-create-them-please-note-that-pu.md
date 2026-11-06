@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 744760dc068ec89511db60587b91702d6a22a59157430ea8145770e96fecff07
+machine_hash: b85798b20bb112e21f5d0c7d837a7d6901cd2ccfff7fa1717903a4f86286ed05
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -45,9 +45,10 @@ record:
   title: Edit and review tasks in Pulse anytime after you create them
   type: change
 related_changes:
-- '[[Changes/Windsurf/2025-12-10-tab-supercomplete|Tab (Supercomplete)]]'
 - '[[Changes/Cline/2025-12-11-display-completion-messages-in-processstateupdate-by-maxpaulus43-in-https-github|display
   completion messages in processStateUpdate]]'
+- '[[Changes/Dify/2025-12-11-3-editor-experience-changes-in-1-11-0|3 Editor Experience
+  changes in 1.11.0]]'
 - '[[Changes/Gemini CLI/2025-12-16-3-editor-experience-changes-in-v0-21-0|3 Editor
   Experience changes in v0.21.0]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-12-17-tasks-are-now-in-pulse-15c01c44|chatgpt-2025-12-17-tasks-are-now-in-pulse-15c01c44]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 60bab92b9fe8e635b404b7556d2cabf7e4e3ae00d07ce0ce672fbe7e3432e0df
+machine_hash: 69a079c55f256703550741ee17397eab57d64fb982efb55eac36e9c0f4bf9fdc
 product: openhands
 product_name: OpenHands
 record:
@@ -45,12 +45,12 @@ record:
   title: 3 Agent Mode changes in 0.7.0
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-07-10-this-nightly-build-comes-with-experimental-interface-agent-support|This
-  nightly build comes with experimental interface agent support!]]'
-- '[[Changes/Cursor/2023-07-10-the-goal-you-write-an-interface-specification-and-an-agent-writes-both-the-tests|The
-  goal: you write an interface specification, and an agent writes both the tests…]]'
-- '[[Changes/Cursor/2024-02-15-interpreter-mode-we-ve-made-some-big-improvements-to-the-backend-powering-interp|Interpreter
-  Mode: We''ve made some big improvements to the backend powering…]]'
+- '[[Changes/Dify/2024-04-08-we-also-moved-the-agent-data-within-the-database-execute-the-below-script-to-com|We
+  also moved the agent data within the database, Execute the below…]]'
+- '[[Changes/Dify/2024-04-11-4-agent-mode-changes-in-0-6-2|4 Agent Mode changes in
+  0.6.2]]'
+- '[[Changes/Dify/2024-04-22-2-agent-mode-changes-in-0-6-4|2 Agent Mode changes in
+  0.6.4]]'
 source_release: '[[Releases/OpenHands/openhands-2024-06-29-0-7-0-github-163149742-cace6f1a|openhands-2024-06-29-0-7-0-github-163149742-cace6f1a]]'
 source_type: github_releases
 theme: agent-mode
@@ -94,8 +94,8 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/0.7.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2024-02-15 · Cursor · [[Changes/Cursor/2024-02-15-interpreter-mode-we-ve-made-some-big-improvements-to-the-backend-powering-interp|Interpreter Mode: We've made some big improvements to the backend powering…]]
-- Later: 2024-07-05 · OpenHands · [[Changes/OpenHands/2024-07-05-2-agent-mode-changes-in-0-7-1|2 Agent Mode changes in 0.7.1]]
+- Earlier: 2024-04-22 · Dify · [[Changes/Dify/2024-04-22-2-agent-mode-changes-in-0-6-4|2 Agent Mode changes in 0.6.4]]
+- Later: 2024-07-02 · Ollama · [[Changes/Ollama/2024-07-02-2-agent-mode-changes-in-v0-2-0|2 Agent Mode changes in v0.2.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

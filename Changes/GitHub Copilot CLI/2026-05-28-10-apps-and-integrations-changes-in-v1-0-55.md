@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5804fdf02e87dc1a45c440557883a10ddcd44f2de4a06245e204992ec24ba899
+machine_hash: c68d494c1458d07ba6b47b4123aa19c5a29e7ef6ae5c8e5dde32834185f89aad
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -134,7 +134,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.55
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-05-28 · Codex CLI · [[Changes/Codex CLI/2026-05-28-14-apps-and-integrations-changes-in-rust-v0-135-0|14 Apps and Integrations changes in rust-v0.135.0]]
-- Later: 2026-05-29 · Claude Code · [[Changes/Claude Code/2026-05-29-4-apps-and-integrations-changes-in-v2-1-157|4 Apps and Integrations changes in v2.1.157]]
+- Later: 2026-05-28 · Lovable · [[Changes/Lovable/2026-05-28-app-connectors-algolia-linkedin-and-microsoft-sharepoint|App connectors: Algolia, LinkedIn, and Microsoft SharePoint]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

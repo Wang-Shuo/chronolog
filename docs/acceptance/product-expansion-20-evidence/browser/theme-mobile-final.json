@@ -1,0 +1,15 @@
+{
+  "viewport": 390,
+  "documentWidth": 390,
+  "checked": "tl-only-20",
+  "filterCount": 20,
+  "allowedProducts": [
+    "v0"
+  ],
+  "tables": [
+    {
+      "width": 358,
+      "scrollWidth": 3734
+    }
+  ]
+}

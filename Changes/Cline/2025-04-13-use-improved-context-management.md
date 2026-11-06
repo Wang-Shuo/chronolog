@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d58d5c3ec3347991c13ff13093d32c485170207761546ba62be267ae49eb2f48
+machine_hash: dc3f005613897a11210ba1551b8354504025b0dcacc6491095e0d64f3247b3fa
 product: cline
 product_name: Cline
 record:
@@ -39,8 +39,8 @@ record:
   title: Use improved context management
   type: change
 related_changes:
-- '[[Changes/Aider/2025-03-25-added-a-new-context-command-that-automatically-identifies-which-files-need-to-be|Added
-  a new /context command that automatically identifies which files need…]]'
+- '[[Changes/Gemini/2025-03-29-our-2-5-pro-experimental-model-is-now-available-to-all-gemini-users-with-canvas|Our
+  2.5 Pro (experimental) model is now available to all Gemini users, with Canvas]]'
 - '[[Changes/Cline/2025-04-08-make-context-shortening-more-intelligent-when-model-hits-context-window-now-old|Make
   context shortening more intelligent when model hits context window–now old file…]]'
 - '[[Changes/OpenHands/2025-04-10-display-microagent-context-in-the-ui-by-xingyaoww-in-https-github-com-all-hands|Display

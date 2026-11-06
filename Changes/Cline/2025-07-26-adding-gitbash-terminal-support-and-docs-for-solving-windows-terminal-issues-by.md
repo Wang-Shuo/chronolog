@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 46ea2fe170135593ac5ee0bea93d50f81fc2f7b33ba46e0a4e3fc57206f2b439
+machine_hash: e3c2b0e37179064fcfb60e94d41efe38b456b79772688d32f66086c1da0c2196
 product: cline
 product_name: Cline
 record:
@@ -43,8 +43,8 @@ record:
   title: Adding gitbash terminal support and docs for solving windows terminal issues
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-07-23-https-github-com-openai-codex-pull-1626-to-ensure-shell-commands-spawned-by-code|(source
-  link) to ensure shell commands spawned by Codex…]]'
+- '[[Changes/Dify/2025-07-23-minor-typo-fix-remove-debug-code-and-fix-typo-by-neatguycoding-in-https-github-c|minor
+  typo fix: remove debug code and fix typo]]'
 - '[[Changes/Codex CLI/2025-07-24-we-now-record-some-git-state-in-the-jsonl-log-due-to-vishnu-oai-https-github-com|We
   now record some Git state in the .jsonl log due to @vishnu-oai…]]'
 - '[[Changes/Gemini CLI/2025-07-25-16-developer-workflow-changes-in-v0-1-14|16 Developer
@@ -80,7 +80,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2025-07-25 · Gemini CLI · [[Changes/Gemini CLI/2025-07-25-16-developer-workflow-changes-in-v0-1-14|16 Developer Workflow changes in v0.1.14]]
-- Later: 2025-07-29 · Cursor · [[Changes/Cursor/2025-07-29-2-developer-workflow-changes-in-1-3|2 Developer Workflow changes in 1.3]]
+- Later: 2025-07-28 · Dify · [[Changes/Dify/2025-07-28-postgresql-healthcheck-enhanced-the-healthcheck-command-to-avoid-fatal-log-error|PostgreSQL Healthcheck: Enhanced the healthcheck command to avoid fatal log…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5627d9ec16e4f7086592ccd9fb565271a60ac193c93326028ae7a1feaa85c1b2
+machine_hash: d60ca06d7f56a66eecd503d12fde1ba10f81e00a3779155e2c2fbe524a1669e0
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,11 @@ record:
   title: 2 Editor Experience changes in v2.1.314
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-27-cloud-sessions-added-a-bash-editor-with-colors-line-numbers-and-a-copy-button-to|Cloud
-  sessions Added a Bash editor with colors, line numbers and a Copy button…]]'
-- '[[Changes/Windsurf/2026-10-28-in-devin-local-some-tool-requests-such-as-web-fetches-and-multi-file-edits-now-c|In
-  Devin Local, some tool requests, such as web fetches and multi-file edits, now…]]'
-- '[[Changes/Codex CLI/2026-10-29-3-editor-experience-changes-in-rust-v0-166-0|3 Editor
-  Experience changes in rust-v0.166.0]]'
+- '[[Changes/Lovable/2026-10-29-updated-visit-counting-in-analytics-and-insights|Updated
+  visit counting in Analytics and Insights]]'
+- '[[Changes/Lovable/2026-10-29-save-files-to-favorites|Save files to Favorites]]'
+- '[[Changes/Open WebUI/2026-10-29-6-editor-experience-changes-in-v0-12-5|6 Editor
+  Experience changes in v0.12.5]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-30-v2-1-314-github-428518421-b7ac83d7|claude-code-2026-10-30-v2-1-314-github-428518421-b7ac83d7]]'
 source_type: github_releases
 theme: editor-experience
@@ -92,7 +91,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.314
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-10-29 · Codex CLI · [[Changes/Codex CLI/2026-10-29-3-editor-experience-changes-in-rust-v0-166-0|3 Editor Experience changes in rust-v0.166.0]]
+- Earlier: 2026-10-29 · Open WebUI · [[Changes/Open WebUI/2026-10-29-6-editor-experience-changes-in-v0-12-5|6 Editor Experience changes in v0.12.5]]
 - Later: 2026-10-31 · Claude Code · [[Changes/Claude Code/2026-10-31-2-editor-experience-changes-in-v2-1-316|2 Editor Experience changes in v2.1.316]]
 <!-- chronolog:end -->
 

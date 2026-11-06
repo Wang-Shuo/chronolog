@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: fc443063e58aae7c94c73a0928bcf61cba990215f4309adb33611bd658be9b20
+machine_hash: 20b703a4b9f692797b575ba384188f14cd99c1652e0b7f16ad7d9727a8d0b63f
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,8 +44,8 @@ record:
   title: 2 Model Support changes in v2.1.274
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-15-changed-bug-and-feedback-reports-to-include-only-model-behavior-params-model-sys|Changed
-  /bug and /feedback reports to include only model-behavior params…]]'
+- '[[Changes/Lovable/2026-09-15-removed-workspace-level-ai-model-training-setting|Removed:
+  workspace-level AI model training setting]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-16-13-model-support-changes-in-v1-0-85|13
   Model Support changes in v1.0.85]]'
 - '[[Changes/OpenHands/2026-09-16-feat-add-gpt-6-astra-model-support-by-neubig-in-https-github-com-openhands-openh|feat:

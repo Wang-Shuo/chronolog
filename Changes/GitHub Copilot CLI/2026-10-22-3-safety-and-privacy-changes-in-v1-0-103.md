@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a995d972d774c7cd579b61dc8fb61b27bace203d49539364223630581e5d4b81
+machine_hash: 2310b92eb7e07d42602fbad0daa997ffcc1af57d44c53f064e12a23697105e41
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -91,7 +91,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.103
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-10-22 · Claude Code · [[Changes/Claude Code/2026-10-22-8-safety-and-privacy-changes-in-v2-1-309|8 Safety and Privacy changes in v2.1.309]]
-- Later: 2026-10-23 · Claude Code · [[Changes/Claude Code/2026-10-23-4-safety-and-privacy-changes-in-v2-1-310|4 Safety and Privacy changes in v2.1.310]]
+- Later: 2026-10-22 · Lovable · [[Changes/Lovable/2026-10-22-clearer-privacy-security-settings|Clearer Privacy & security settings]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

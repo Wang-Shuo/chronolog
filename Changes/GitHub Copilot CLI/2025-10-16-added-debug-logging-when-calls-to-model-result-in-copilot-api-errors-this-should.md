@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: e67237e1683d7cb32cf134c22bebf1d3f0f627ba090fd008870b4c94ef5d044d
+machine_hash: 960601a2dd8fb149ded6f996146747d950ae5db2d6b33faf66dfecb2d30ebb8d
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -47,10 +47,10 @@ record:
   title: Added debug logging when calls to `/model` result in Copilot API errors
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-10-15-3-model-support-changes-in-v0-9-0|3 Model Support
-  changes in v0.9.0]]'
 - '[[Changes/GitHub Copilot CLI/2025-10-15-added-each-model-s-premium-request-multiplier-to-the-model-list-currently-all-ou|Added
   each model''s premium request multiplier to the /model list…]]'
+- '[[Changes/Ollama/2025-10-15-2-model-support-changes-in-v0-12-6|2 Model Support
+  changes in v0.12.6]]'
 - '[[Changes/Cline/2025-10-16-3-model-support-changes-in-v3-33-0|3 Model Support changes
   in v3.33.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2025-10-16-v0-0-342-github-254861396-9c0ec25f|github-copilot-cli-2025-10-16-v0-0-342-github-254861396-9c0ec25f]]'

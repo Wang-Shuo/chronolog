@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8b3a8ffa871c271afd9cb8b2863bf0a93b31385d385cecb989b518a19915a440
+machine_hash: 83d59b39d4bc235c65bb8f82de2c696bae74d50d5c7d6c2545ea981ea6d072ca
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -51,12 +51,12 @@ record:
   title: 4 Agent Mode changes in v1.0.49
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-19-3-agent-mode-changes-in-v2-1-144|3 Agent Mode
-  changes in v2.1.144]]'
-- '[[Changes/Claude Code/2026-05-19-3-agent-mode-changes-in-v2-1-145|3 Agent Mode
-  changes in v2.1.145]]'
 - '[[Changes/Cursor/2026-05-19-assign-work-items-to-cursor-or-mention-cursor-in-a-comment-to-kick-off-a-cloud-a-1c05f0|Assign
   work items to Cursor, or mention @Cursor in a comment to kick off a cloud agent]]'
+- '[[Changes/Dify/2026-05-19-3-agent-mode-changes-in-1-14-2|3 Agent Mode changes in
+  1.14.2]]'
+- '[[Changes/Gemini/2026-05-19-gemini-spark-is-your-24-7-personal-ai-agent|Gemini
+  Spark is your 24/7 personal AI agent]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-05-19-v1-0-49-github-324640083-4bf093b8|github-copilot-cli-2026-05-19-v1-0-49-github-324640083-4bf093b8]]'
 source_type: github_releases
 theme: agent-mode
@@ -103,7 +103,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.49
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-05-19 · Cursor · [[Changes/Cursor/2026-05-19-assign-work-items-to-cursor-or-mention-cursor-in-a-comment-to-kick-off-a-cloud-a-1c05f0|Assign work items to Cursor, or mention @Cursor in a comment to kick off a cloud agent]]
+- Earlier: 2026-05-19 · Gemini · [[Changes/Gemini/2026-05-19-gemini-spark-is-your-24-7-personal-ai-agent|Gemini Spark is your 24/7 personal AI agent]]
 - Later: 2026-05-20 · Codex CLI · [[Changes/Codex CLI/2026-05-20-23147-make-multi-agent-v2-tool-namespace-configurable-jif-oai|♯23147 Make multi-agent v2 tool namespace configurable @jif-oai]]
 <!-- chronolog:end -->
 

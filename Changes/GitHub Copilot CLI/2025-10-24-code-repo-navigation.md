@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 43b95035c61f97a0d558c0f2b805f0aa16336ae15ba424d314445014ad4a83e3
+machine_hash: 834ccd72bfe9bc46a0aab98dcd4bce81bcece23f322d1194a8a37207f1f3c190
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -40,8 +40,8 @@ record:
   title: Code & Repo navigation
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2025-10-21-improved-line-wrapping-and-alignment-when-rendering-file-diffs|Improved
-  line wrapping and alignment when rendering file diffs]]'
+- '[[Changes/Dify/2025-10-22-3-interface-experience-changes-in-1-9-2|3 Interface Experience
+  changes in 1.9.2]]'
 - '[[Changes/Gemini CLI/2025-10-22-2-interface-experience-changes-in-v0-10-0|2 Interface
   Experience changes in v0.10.0]]'
 - '[[Changes/Codex CLI/2025-10-23-tui-drop-citation-rendering-by-nornagon-openai-in-https-github-com-openai-codex|tui:

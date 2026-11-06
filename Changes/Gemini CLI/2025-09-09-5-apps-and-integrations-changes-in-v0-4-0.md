@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 725563a34b377002224b9243506779510da3222ade3ee2ee9a9b993e37a00791
+machine_hash: ff470349f9e53091d5950ddbcdf73b476a78c11949a8371cbc31b830056e82c4
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -48,12 +48,10 @@ record:
   title: 5 Apps and Integrations changes in v0.4.0
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-09-04-17-apps-and-integrations-changes-in-v0-3-0|17 Apps
-  and Integrations changes in v0.3.0]]'
-- '[[Changes/Codex CLI/2025-09-05-4-apps-and-integrations-changes-in-rust-v0-30-0|4
-  Apps and Integrations changes in rust-v0.30.0]]'
 - '[[Changes/Codex CLI/2025-09-08-4-apps-and-integrations-changes-in-rust-v0-31-0|4
   Apps and Integrations changes in rust-v0.31.0]]'
+- '[[Changes/ElevenLabs/2025-09-08-mcp-server|MCP Server]]'
+- '[[Changes/ElevenLabs/2025-09-08-sdk-releases|SDK Releases]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-09-09-v0-4-0-github-245990585-546fee8b|gemini-cli-2025-09-09-v0-4-0-github-245990585-546fee8b]]'
 source_type: github_releases
 theme: apps-integrations
@@ -100,8 +98,8 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.4.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-09-08 · Codex CLI · [[Changes/Codex CLI/2025-09-08-4-apps-and-integrations-changes-in-rust-v0-31-0|4 Apps and Integrations changes in rust-v0.31.0]]
-- Later: 2025-09-10 · Codex CLI · [[Changes/Codex CLI/2025-09-10-2-apps-and-integrations-changes-in-rust-v0-32-0|2 Apps and Integrations changes in rust-v0.32.0]]
+- Earlier: 2025-09-08 · ElevenLabs · [[Changes/ElevenLabs/2025-09-08-sdk-releases|SDK Releases]]
+- Later: 2025-09-09 · Open WebUI · [[Changes/Open WebUI/2025-09-09-a-provider-toggle-in-connection-settings-now-allows-users-to-manually-specify-az|☁️ A provider toggle in connection settings now allows users to manually specify…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

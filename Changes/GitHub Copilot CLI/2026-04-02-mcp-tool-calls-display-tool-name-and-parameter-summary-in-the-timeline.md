@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 807609ffe73d5bc6546cfeb71f9c0f08e125490c21e38000fccb8203a0e64373
+machine_hash: 7d5a266498cda590657539fd55ee93633a858f017056d05a812a3641560a8742
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -78,7 +78,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-04-02 · Cursor · [[Changes/Cursor/2026-04-02-2-apps-and-integrations-changes-in-3-0|2 Apps and Integrations changes in 3.0]]
-- Later: 2026-04-04 · Claude Code · [[Changes/Claude Code/2026-04-04-remote-control-session-names-now-use-your-hostname-as-the-default-prefix-e-g-myh|Remote Control session names now use your hostname as the default prefix…]]
+- Later: 2026-04-02 · Lovable · [[Changes/Lovable/2026-04-02-app-connectors-aikido-gitlab-and-aws-s3|App connectors: Aikido, GitLab, and AWS S3]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

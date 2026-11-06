@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b01314be3e6b493ed2571e510023c8b87cc2f40c3ede1655dbf2ecf22e6163f6
+machine_hash: e3d347cd1385c35faec1ac52948d46ee4c6a888801e35e063a338ad886af900c
 product: cursor
 product_name: Cursor
 record:
@@ -43,12 +43,12 @@ record:
   title: Removes a check in the chat that slows the chat down in certain cases
   type: change
 related_changes:
-- '[[Changes/Aider/2023-07-08-more-robust-handling-of-filepaths-to-avoid-8-3-windows-filenames|More
-  robust handling of filepaths, to avoid 8.3 windows filenames]]'
-- '[[Changes/Aider/2023-07-08-more-robust-handling-of-filepaths-to-avoid-8-3-windows-filenames-db5eb1|More
-  robust handling of filepaths, to avoid 8.3 windows filenames]]'
-- '[[Changes/Aider/2023-07-12-more-robust-handling-of-filepaths-to-avoid-8-3-windows-filenames|More
-  robust handling of filepaths, to avoid 8.3 windows filenames]]'
+- '[[Changes/Ollama/2023-07-13-show-performance-details-such-as-tokens-per-second-with-ollama-run-verbose|Show
+  performance details, such as tokens per second with ollama run --verbose]]'
+- '[[Changes/Ollama/2023-07-19-performance-improvements-with-ollama-create-it-now-uses-less-memory-and-will-cre|Performance
+  improvements with ollama create]]'
+- '[[Changes/Ollama/2023-07-21-performance-updates-run-models-faster|Performance updates:
+  run models faster!]]'
 source_release: '[[Releases/Cursor/cursor-2023-07-26-0-4-1-0-4-2-https-cursor-com-changelog-0-4-1-0-4-2-99b48b75|cursor-2023-07-26-0-4-1-0-4-2-https-cursor-com-changelog-0-4-1-0-4-2-99b48b75]]'
 source_type: cursor_changelog
 theme: reliability-performance
@@ -75,8 +75,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2023-07-12 · Aider · [[Changes/Aider/2023-07-12-more-robust-handling-of-filepaths-to-avoid-8-3-windows-filenames|More robust handling of filepaths, to avoid 8.3 windows filenames]]
-- Later: 2023-08-20 · Cursor · [[Changes/Cursor/2023-08-20-ssh-support-is-now-more-robust-please-continue-to-let-us-know-if-you-are-experie|More robust SSH support]]
+- Earlier: 2023-07-21 · Ollama · [[Changes/Ollama/2023-07-21-performance-updates-run-models-faster|Performance updates: run models faster!]]
+- Later: 2023-07-26 · Ollama · [[Changes/Ollama/2023-07-26-performance-improvements-from-enabling-accelerate-https-developer-apple-com-docu|Performance improvements from enabling…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

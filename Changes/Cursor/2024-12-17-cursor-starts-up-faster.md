@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2633f1a24ab201651ecfd0fe8187797eaecf250f50ea4432e9ab9f39162e8ee1
+machine_hash: 7c99229919c772857c9cc3b6f034b71eed08825ba46f5eecff3c49a325aaad85
 product: cursor
 product_name: Cursor
 record:
@@ -41,12 +41,12 @@ record:
   title: Cursor starts up faster
   type: change
 related_changes:
-- '[[Changes/OpenHands/2024-10-03-improve-the-docker-runtime-build-speed-fix-issues-in-build-by-xingyaoww-in-https|Improve
-  the docker runtime build speed & fix issues in build]]'
-- '[[Changes/Cline/2024-10-09-2-reliability-and-performance-changes-in-v2-0-0|2 Reliability
-  and Performance changes in v2.0.0]]'
-- '[[Changes/Cursor/2024-11-24-several-performance-improvements|Several performance
-  improvements]]'
+- '[[Changes/Dify/2024-12-09-improved-overall-code-quality-and-performance-by-removing-redundant-styles-in-co|Improved
+  overall code quality and performance by removing redundant styles…]]'
+- '[[Changes/Ollama/2024-12-11-improved-memory-estimation-when-scheduling-models|Improved
+  memory estimation when scheduling models]]'
+- '[[Changes/Dify/2024-12-16-this-enhancement-by-hjlarry-and-wangiii-found-in-11570-https-github-com-langgeni|This
+  enhancement by @hjlarry and @wangiii, found…]]'
 source_release: '[[Releases/Cursor/cursor-2024-12-17-0-44-x-https-cursor-com-changelog-0-44-x-b137ff8e|cursor-2024-12-17-0-44-x-https-cursor-com-changelog-0-44-x-b137ff8e]]'
 source_type: cursor_changelog
 theme: reliability-performance
@@ -78,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2024-11-24 · Cursor · [[Changes/Cursor/2024-11-24-several-performance-improvements|Several performance improvements]]
+- Earlier: 2024-12-16 · Dify · [[Changes/Dify/2024-12-16-this-enhancement-by-hjlarry-and-wangiii-found-in-11570-https-github-com-langgeni|This enhancement by @hjlarry and @wangiii, found…]]
 - Later: 2024-12-18 · Cline · [[Changes/Cline/2024-12-18-when-cline-needs-to-make-targeted-edits-to-large-files-he-now-uses-a-search-repl|When Cline needs to make targeted edits to large files, he now uses a search…]]
 <!-- chronolog:end -->
 

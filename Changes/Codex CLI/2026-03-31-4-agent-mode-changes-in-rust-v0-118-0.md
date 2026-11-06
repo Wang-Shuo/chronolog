@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8eadc7320df285f9042836c726676a3c9417942be1ea523807c1ef3f3b22203c
+machine_hash: 33fd29d06bfd3822ea69f4cc0aec8bdb04741e91700e3222e57cdb02e5c5cb6e
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -47,12 +47,12 @@ record:
   title: 4 Agent Mode changes in rust-v0.118.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-26-19-agent-mode-changes-in-rust-v0-117-0|19 Agent
-  Mode changes in rust-v0.117.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-26-resume-session-restores-the-previously-selected-custom-agent|Resume
   session restores the previously selected custom agent]]'
 - '[[Changes/Claude Code/2026-03-27-auto-mode-now-shows-unavailable-for-your-plan-when-disabled-by-plan-restrictions|Auto
   mode now shows "unavailable for your plan" when disabled by plan restrictions…]]'
+- '[[Changes/Dify/2026-03-27-4-agent-mode-changes-in-1-13-3|4 Agent Mode changes in
+  1.13.3]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-03-31-rust-v0-118-0-github-303805427-02df59b6|codex-cli-2026-03-31-rust-v0-118-0-github-303805427-02df59b6]]'
 source_type: github_releases
 theme: agent-mode
@@ -101,7 +101,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.118.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-03-27 · Claude Code · [[Changes/Claude Code/2026-03-27-auto-mode-now-shows-unavailable-for-your-plan-when-disabled-by-plan-restrictions|Auto mode now shows "unavailable for your plan" when disabled by plan restrictions…]]
+- Earlier: 2026-03-27 · Dify · [[Changes/Dify/2026-03-27-4-agent-mode-changes-in-1-13-3|4 Agent Mode changes in 1.13.3]]
 - Later: 2026-04-01 · Claude Code · [[Changes/Claude Code/2026-04-01-3-agent-mode-changes-in-v2-1-89|3 Agent Mode changes in v2.1.89]]
 <!-- chronolog:end -->
 

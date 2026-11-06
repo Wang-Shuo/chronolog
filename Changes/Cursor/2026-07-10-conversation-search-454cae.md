@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: f14c03f234117bfc18037214477ad54959f435c2b0d05c6d32c20bfa438a53c7
+machine_hash: 39bce2fac7980f440629d5b6532084a205f34b951af1b65c143d7b02591a36c4
 product: cursor
 product_name: Cursor
 record:
@@ -74,8 +74,8 @@ record:
   title: Conversation search
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-07-5-interface-experience-changes-in-v1-0-69|5
-  Interface Experience changes in v1.0.69]]'
+- '[[Changes/Lovable/2026-07-08-resize-your-cloud-instance-from-chat|Resize your Cloud
+  instance from chat]]'
 - '[[Changes/Cline/2026-07-09-2-interface-experience-changes-in-v4-0-7|2 Interface
   Experience changes in v4.0.7]]'
 - '[[Changes/Codex CLI/2026-07-09-3-interface-experience-changes-in-rust-v0-144-0|3

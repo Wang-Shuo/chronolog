@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4b7cd4b385dc940e46bd917c878313b8bd45604749317af250e309f434631941
+machine_hash: 2de3892ecb6b6facfd8779712bf3183d5316ee554543641a6eb73736ba68ddbf
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,12 +47,12 @@ record:
     occurred…
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-07-06-4-safety-and-privacy-changes-in-1-9-0|4 Safety and
-  Privacy changes in 1.9.0]]'
 - '[[Changes/Claude Code/2026-07-07-added-a-grey-badge-to-the-footer-when-in-manual-permission-mode-making-the-activ|Added
   a grey ⏸ badge to the footer when in manual permission mode, making the active…]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-07-8-safety-and-privacy-changes-in-v1-0-69|8
   Safety and Privacy changes in v1.0.69]]'
+- '[[Changes/v0/2026-07-07-5-safety-and-privacy-changes-in-grouped-tool-approvals-richer-mcp|5
+  Safety and Privacy changes in Grouped tool approvals, richer MCP…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-08-v2-1-205-github-351140412-aeced5ba|claude-code-2026-07-08-v2-1-205-github-351140412-aeced5ba]]'
 source_type: github_releases
 theme: safety-privacy
@@ -86,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-07-07 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-07-8-safety-and-privacy-changes-in-v1-0-69|8 Safety and Privacy changes in v1.0.69]]
+- Earlier: 2026-07-07 · v0 · [[Changes/v0/2026-07-07-5-safety-and-privacy-changes-in-grouped-tool-approvals-richer-mcp|5 Safety and Privacy changes in Grouped tool approvals, richer MCP…]]
 - Later: 2026-07-08 · Codex CLI · [[Changes/Codex CLI/2026-07-08-13-safety-and-privacy-changes-in-rust-v0-143-0|13 Safety and Privacy changes in rust-v0.143.0]]
 <!-- chronolog:end -->
 

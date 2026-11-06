@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b5d1af32dcc29a6eecb4bcd5d805f0fd5e5f70934ab74a9e89013bc02bdcc65a
+machine_hash: 1d9eaaf86e2e9b4eb10498740e294e4a8e0485ed6c0c6776509ad93ca5cdd02c
 product: cline
 product_name: Cline
 record:
@@ -44,9 +44,10 @@ record:
   title: 2 Developer Workflow changes in v4.0.0
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-06-23-cli-and-devin-local|CLI and Devin Local]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-24-remove-syntax-highlighting-from-shell-commands-in-the-timeline|Remove
   syntax highlighting from shell commands in the timeline]]'
+- '[[Changes/Dify/2026-06-25-9-developer-workflow-changes-in-1-15-0|9 Developer Workflow
+  changes in 1.15.0]]'
 - '[[Changes/Gemini CLI/2026-06-25-feat-add-eval-inventory-cli-command-and-reporting-logic-by-ved015-in-https-githu|feat:
   add eval:inventory CLI command and reporting logic]]'
 source_release: '[[Releases/Cline/cline-2026-06-26-v4-0-0-github-345514931-9953949f|cline-2026-06-26-v4-0-0-github-345514931-9953949f]]'

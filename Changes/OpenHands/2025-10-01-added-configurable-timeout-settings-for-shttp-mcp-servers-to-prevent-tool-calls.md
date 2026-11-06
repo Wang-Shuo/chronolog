@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 19943941c9b35d41352a83e1c73d38dc52b37e65292e9c4df3f87cbb758c7dde
+machine_hash: b94ab93f904c1429a9e5a90d2fdceddda63a50727b5c3eaa58191818a612111b
 product: openhands
 product_name: OpenHands
 record:
@@ -44,10 +44,9 @@ record:
     calls…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-09-26-4-apps-and-integrations-changes-in-rust-v0-42-0|4
-  Apps and Integrations changes in rust-v0.42.0]]'
-- '[[Changes/Cursor/2025-09-29-4-apps-and-integrations-changes-in-1-7|4 Apps and Integrations
-  changes in 1.7]]'
+- '[[Changes/ElevenLabs/2025-09-29-sdk-releases|SDK Releases]]'
+- '[[Changes/Open WebUI/2025-09-29-3-apps-and-integrations-changes-in-v0-6-32|3 Apps
+  and Integrations changes in v0.6.32]]'
 - '[[Changes/Gemini CLI/2025-10-01-11-apps-and-integrations-changes-in-v0-7-0|11 Apps
   and Integrations changes in v0.7.0]]'
 source_release: '[[Releases/OpenHands/openhands-2025-10-01-0-58-0-github-251502981-7f6d8b33|openhands-2025-10-01-0-58-0-github-251502981-7f6d8b33]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 31e05aeb0bb57e592ed8aade8e94d3b9dc39f27bcadbe88a65cf7dc6af09b0d3
+machine_hash: eb02f12f08efecca2cf650c19d7287b29e9ebb2bd6f09bb7ebf2ea528bfcda5b
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,12 +42,12 @@ record:
   title: 2 Model Support changes in rust-v0.76.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-12-18-6-model-support-changes-in-rust-v0-74-0|6 Model
-  Support changes in rust-v0.74.0]]'
 - '[[Changes/Codex CLI/2025-12-18-introducing-gpt-5-2-codex-our-latest-frontier-model-with-improvements-across-kno|Introducing
   gpt-5.2-codex our latest frontier model with improvements across…]]'
 - '[[Changes/GitHub Copilot CLI/2025-12-18-2-model-support-changes-in-v0-0-370|2 Model
   Support changes in v0.0.370]]'
+- '[[Changes/Ollama/2025-12-18-2-model-support-changes-in-v0-13-5|2 Model Support
+  changes in v0.13.5]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-12-19-rust-v0-76-0-github-271840565-59329797|codex-cli-2025-12-19-rust-v0-76-0-github-271840565-59329797]]'
 source_type: github_releases
 theme: model-support
@@ -84,7 +84,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.76.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-12-18 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-12-18-2-model-support-changes-in-v0-0-370|2 Model Support changes in v0.0.370]]
+- Earlier: 2025-12-18 · Ollama · [[Changes/Ollama/2025-12-18-2-model-support-changes-in-v0-13-5|2 Model Support changes in v0.13.5]]
 - Later: 2025-12-19 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-12-19-enable-disabled-models-directly-in-cli-when-selecting-or-specifying-them|Enable disabled models directly in CLI when selecting or specifying them]]
 <!-- chronolog:end -->
 

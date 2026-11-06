@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 354214178168cc95777b882635f1fa8c1ddb3a4398ffcffa66388ca96f4ac8e8
+machine_hash: fd8733b7f07d6a07feed6714e0f96585db71fd3f165e6f82f5b46da32be041ea
 product: windsurf
 product_name: Windsurf
 record:
@@ -49,9 +49,10 @@ record:
   title: Planning Mode
   type: change
 related_changes:
-- '[[Changes/Windsurf/2025-05-15-swe-1-mini|SWE-1-mini]]'
-- '[[Changes/Aider/2025-05-30-2-editor-experience-changes-in-v0-84-0|2 Editor Experience
-  changes in v0.84.0]]'
+- '[[Changes/Replit/2025-06-06-visual-editor-image-management|Visual Editor image
+  management]]'
+- '[[Changes/Open WebUI/2025-06-10-3-editor-experience-changes-in-v0-6-14|3 Editor
+  Experience changes in v0.6.14]]'
 - '[[Changes/OpenHands/2025-06-10-added-feature-flag-vscode-in-new-tab-for-opening-vscode-in-a-new-tab-by-tofarr-i|Added
   feature flag VSCODE_IN_NEW_TAB for opening vscode in a new tab]]'
 source_release: '[[Releases/Windsurf/windsurf-2025-06-10-v1-10-1-98f62653|windsurf-2025-06-10-v1-10-1-98f62653]]'
@@ -90,7 +91,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2025-06-10 · OpenHands · [[Changes/OpenHands/2025-06-10-added-feature-flag-vscode-in-new-tab-for-opening-vscode-in-a-new-tab-by-tofarr-i|Added feature flag VSCODE_IN_NEW_TAB for opening vscode in a new tab]]
-- Later: 2025-06-27 · Aider · [[Changes/Aider/2025-06-27-improved-github-copilot-token-handling-with-better-validation-and-error-messages|Improved GitHub Copilot token handling with better validation and error messages…]]
+- Later: 2025-06-16 · Dify · [[Changes/Dify/2025-06-16-dead-code-cleanup-we-ve-removed-some-obsolete-code-utilizing-vulture-keeping-our|Dead Code Cleanup]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

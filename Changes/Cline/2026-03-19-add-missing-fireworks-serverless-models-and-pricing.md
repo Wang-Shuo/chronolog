@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: pricing
-machine_hash: a35b76f54302d9e6bfece248913b0b4ada210161f035e97cb8187b8b95593a3c
+machine_hash: 402682f7939a17b234ef13591b78ddffc5cc3888b1f67f8fc5f0e664bc959635
 product: cline
 product_name: Cline
 record:
@@ -52,10 +52,10 @@ record:
   title: Add missing Fireworks serverless models and pricing
   type: change
 related_changes:
-- '[[Changes/Cline/2026-03-04-token-cost-updates-now-happen-immediately-as-usage-chunks-arrive-not-after-tool|Token/cost
-  updates now happen immediately as usage chunks arrive, not after tool execution]]'
-- '[[Changes/ChatGPT/2026-03-10-eligible-chatgpt-plus-and-pro-users-can-now-turn-on-auto-top-up-for-credits-used-5e9d54|Auto
-  top-up for flexible usage credits]]'
+- '[[Changes/v0/2026-03-11-improved-billing-page-with-credit-expiration-dates-after-coupon-redemption|Improved
+  billing page with credit expiration dates after coupon redemption]]'
+- '[[Changes/Dify/2026-03-17-test-add-comprehensive-unit-and-integration-tests-for-billing-components-by-codi|test:
+  add comprehensive unit and integration tests for billing components]]'
 - '[[Changes/Gemini CLI/2026-03-17-2-pricing-model-changes-in-v0-34-0|2 Pricing Model
   changes in v0.34.0]]'
 source_release: '[[Releases/Cline/cline-2026-03-19-v3-74-0-github-298757168-70068641|cline-2026-03-19-v3-74-0-github-298757168-70068641]]'

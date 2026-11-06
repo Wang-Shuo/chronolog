@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 32b63cc751d1c6bebc5b5d1e3869cc8af6759c93c8b507a65496eb37577dea3f
+machine_hash: d80d97806d786fc10ee37f96163ead28e2744b5408a1591fc98645bcc2791708
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,12 +46,12 @@ record:
   title: Improved "always allow" prefix suggestions for compound bash commands…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-02-24-status-line-automatically-switches-to-a-two-line-layout-on-narrow-terminals-keep|Status
-  line automatically switches to a two-line layout on narrow terminals, keeping…]]'
 - '[[Changes/Codex CLI/2026-02-25-15-developer-workflow-changes-in-rust-v0-105-0|15
   Developer Workflow changes in rust-v0.105.0]]'
 - '[[Changes/Gemini CLI/2026-02-25-3-developer-workflow-changes-in-v0-30-0|3 Developer
   Workflow changes in v0.30.0]]'
+- '[[Changes/v0/2026-02-25-added-repository-information-to-first-message-in-git-connected-chats|Added
+  repository information to first message in git-connected chats]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-26-v2-1-59-github-290659389-9e2d6217|claude-code-2026-02-26-v2-1-59-github-290659389-9e2d6217]]'
 source_type: github_releases
 theme: developer-workflow
@@ -83,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-02-25 · Gemini CLI · [[Changes/Gemini CLI/2026-02-25-3-developer-workflow-changes-in-v0-30-0|3 Developer Workflow changes in v0.30.0]]
+- Earlier: 2026-02-25 · v0 · [[Changes/v0/2026-02-25-added-repository-information-to-first-message-in-git-connected-chats|Added repository information to first message in git-connected chats]]
 - Later: 2026-02-26 · Codex CLI · [[Changes/Codex CLI/2026-02-26-12758-feat-include-available-decisions-in-command-approval-requests-bolinfest|♯12758 feat: include available decisions in command approval requests @bolinfest]]
 <!-- chronolog:end -->
 

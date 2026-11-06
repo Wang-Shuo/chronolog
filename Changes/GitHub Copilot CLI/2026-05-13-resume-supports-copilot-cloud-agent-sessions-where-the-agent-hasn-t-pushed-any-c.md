@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: f57aa9f86fdfbd9bc12b3da4b12cfc8b8aa4bae4c654e841e3241d633608db30
+machine_hash: 4f07631dfa7d8873f6e19785d618a659b8b840dd158cbf124826f390429f0756
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,12 +45,11 @@ record:
     any…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-05-13-this-release-introduces-quality-of-life-improvements-to-the-agents-window|Cursor
-  introduces quality-of-life improvements to the Agents Window]]'
 - '[[Changes/Cursor/2026-05-13-cloud-agents-and-automations-now-support-multi-repo-environments-building-off-ou|Multi-repo
   environments]]'
 - '[[Changes/Cursor/2026-05-13-to-take-engineering-tasks-from-start-to-finish-agents-need-a-development-environ-e47512|To
   take engineering tasks from start to finish, agents need a development…]]'
+- '[[Changes/ElevenLabs/2026-05-13-packages|Packages]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-05-13-v1-0-47-github-321925216-3af3f9d3|github-copilot-cli-2026-05-13-v1-0-47-github-321925216-3af3f9d3]]'
 source_type: github_releases
 theme: agent-mode
@@ -82,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-05-13 · Cursor · [[Changes/Cursor/2026-05-13-to-take-engineering-tasks-from-start-to-finish-agents-need-a-development-environ-e47512|To take engineering tasks from start to finish, agents need a development…]]
+- Earlier: 2026-05-13 · ElevenLabs · [[Changes/ElevenLabs/2026-05-13-packages|Packages]]
 - Later: 2026-05-14 · Claude Code · [[Changes/Claude Code/2026-05-14-improved-hook-configuration-error-configuring-a-prompt-or-agent-type-hook-for-se|Improved hook configuration error]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2ef173853e828614f2635f7beae969c00956996baf07b5a0c3279cac3400ac80
+machine_hash: f8f3e7dace3fd299018198fa8132f4c2dfa3d0d30fb67905d364165a188944f4
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -67,10 +67,9 @@ record:
   title: 13 Interface Experience changes in rust-v0.148.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-12-vscode-added-session-groups-in-the-sidebar-right-click-to-create-rename-or-delet|VSCode
-  Added session groups in the sidebar]]'
-- '[[Changes/Claude Code/2026-08-13-improved-fullscreen-streaming-long-sessions-stay-responsive-because-the-whole-co|Improved
-  fullscreen streaming]]'
+- '[[Changes/Replit/2026-08-14-choose-a-workspace-region|Choose a workspace region]]'
+- '[[Changes/v0/2026-08-14-4-interface-experience-changes-in-a-redesigned-sidebar-a-richer|4
+  Interface Experience changes in A redesigned sidebar, a richer…]]'
 - '[[Changes/Claude Code/2026-08-17-3-interface-experience-changes-in-v2-1-234|3 Interface
   Experience changes in v2.1.234]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-08-18-rust-v0-148-0-github-372686337-4265c0ae|codex-cli-2026-08-18-rust-v0-148-0-github-372686337-4265c0ae]]'

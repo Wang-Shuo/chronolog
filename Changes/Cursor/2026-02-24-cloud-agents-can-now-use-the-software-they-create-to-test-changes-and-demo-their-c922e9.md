@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 284d41e07c0223ced354a84220c78bf89488cd3b7679f41fc152672c520f6068
+machine_hash: 0a816dd5d889249ef9a342321f969e021e401551e0c12ee1c974671d6c353af1
 product: cursor
 product_name: Cursor
 record:
@@ -53,10 +53,10 @@ record:
   title: Cloud Agents with Computer Use
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-20-2-agent-mode-changes-in-v2-1-50|2 Agent Mode changes
-  in v2.1.50]]'
-- '[[Changes/GitHub Copilot CLI/2026-02-23-2-agent-mode-changes-in-v0-0-415|2 Agent
-  Mode changes in v0.0.415]]'
+- '[[Changes/Lovable/2026-02-23-file-edits-now-persist-when-stopping-the-agent-so-you-can-resume-work-without-lo|File
+  edits now persist when stopping the agent, so you can resume work without…]]'
+- "[[Changes/Open WebUI/2026-02-23-api-tools-fix-the-api-v1-chat-completions-endpoint-now-properly-respects-caller|\U0001F6E0️
+  API tools fix. The /api/v1/chat/completions endpoint now properly respects…]]"
 - '[[Changes/Cline/2026-02-24-3-agent-mode-changes-in-v3-67-0|3 Agent Mode changes
   in v3.67.0]]'
 source_release: '[[Releases/Cursor/cursor-2026-02-24-cloud-agents-with-computer-use-https-cursor-com-changelog-02-24-252fc429|cursor-2026-02-24-cloud-agents-with-computer-use-https-cursor-com-changelog-02-24-252fc429]]'

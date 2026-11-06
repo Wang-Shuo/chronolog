@@ -4,20 +4,20 @@ date: '2025-05-01'
 description: 'ChatGPT · 2025-05-01 · Voice and Audio: Launched on April 1 as a one-month
   surprise, our “Monday” personality (available in both voice and text) has now been…'
 diffusion:
-  first_in_tracked: '[[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source
-    link) support, which allows you…]]'
+  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
+    Voice and Audio changes in 0.3.7]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 629
+  lag_days: 661
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: policy
-machine_hash: f217f222d7216c5a5609a556b011cd4f710b72f97dfff619cd4731788f712928
+machine_hash: 4111895ada21e0483a058faa6032cd25c1e5f8a55f37385c8761ed4dace9f41c
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -57,12 +57,11 @@ record:
   title: Sunsetting Monday GPT
   type: change
 related_changes:
-- '[[Changes/Aider/2024-12-13-voice-now-lets-you-edit-the-transcribed-text-before-sending|/voice
-  now lets you edit the transcribed text before sending]]'
-- '[[Changes/Aider/2025-01-10-2-voice-and-audio-changes-in-v0-71-0|2 Voice and Audio
-  changes in v0.71.0]]'
-- '[[Changes/ChatGPT/2025-02-14-whisper-chatgpt-s-voice-to-text-feature-now-shows-a-text-preview-of-dictated-tex|Whisper
-  (ChatGPT''s voice-to-text feature) now shows a text preview of dictated text…]]'
+- '[[Changes/ElevenLabs/2025-04-21-professional-voice-cloning-pvc|Professional Voice
+  Cloning (PVC)]]'
+- '[[Changes/ElevenLabs/2025-04-21-speech-to-text-e79d25|Speech to Text]]'
+- '[[Changes/ElevenLabs/2025-04-28-audio-generation-tts-s2s-sfx-voice-design|Audio
+  Generation (TTS, S2S, SFX, Voice Design)]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-05-01-sunsetting-monday-gpt-9d013d1e|chatgpt-2025-05-01-sunsetting-monday-gpt-9d013d1e]]'
 source_type: chatgpt_changelog
 theme: voice
@@ -89,14 +88,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2025-02-14 · ChatGPT · [[Changes/ChatGPT/2025-02-14-whisper-chatgpt-s-voice-to-text-feature-now-shows-a-text-preview-of-dictated-tex|Whisper (ChatGPT's voice-to-text feature) now shows a text preview of dictated text…]]
-- Later: 2025-06-07 · ChatGPT · [[Changes/ChatGPT/2025-06-07-we-re-upgrading-advanced-voice-in-chatgpt-for-paid-users-with-significant-enhanc-ad0b3e|We're upgrading Advanced Voice in ChatGPT for paid users with significant…]]
+- Earlier: 2025-04-28 · ElevenLabs · [[Changes/ElevenLabs/2025-04-28-audio-generation-tts-s2s-sfx-voice-design|Audio Generation (TTS, S2S, SFX, Voice Design)]]
+- Later: 2025-05-05 · ElevenLabs · [[Changes/ElevenLabs/2025-05-05-dubbing|Dubbing]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-08-11 · Aider · [[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source link) support, which allows you…]]
+- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

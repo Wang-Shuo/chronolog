@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 55416692e95592df3f235c490af5998dc15155006045c7d46d09b6be9dc03678
+machine_hash: da4c9ad69d23a477d56a8eb49008ff8e00698982280221615b80ea4af3bec7a8
 product: aider
 product_name: Aider
 record:
@@ -51,12 +51,12 @@ record:
   title: 5 Developer Workflow changes in v0.49.0
   type: change
 related_changes:
-- '[[Changes/Aider/2024-07-29-4-developer-workflow-changes-in-v0-46-0|4 Developer
-  Workflow changes in v0.46.0]]'
 - '[[Changes/Aider/2024-07-31-3-developer-workflow-changes-in-v0-47-0|3 Developer
   Workflow changes in v0.47.0]]'
 - '[[Changes/OpenHands/2024-08-01-4-developer-workflow-changes-in-0-8-3|4 Developer
   Workflow changes in 0.8.3]]'
+- '[[Changes/Dify/2024-08-06-2-developer-workflow-changes-in-0-6-16|2 Developer Workflow
+  changes in 0.6.16]]'
 source_release: '[[Releases/Aider/aider-2024-08-10-v0-49-0-github-169642017-dab576d9|aider-2024-08-10-v0-49-0-github-169642017-dab576d9]]'
 source_type: github_releases
 theme: developer-workflow
@@ -99,8 +99,8 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.49.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2024-08-01 · OpenHands · [[Changes/OpenHands/2024-08-01-4-developer-workflow-changes-in-0-8-3|4 Developer Workflow changes in 0.8.3]]
-- Later: 2024-08-23 · Aider · [[Changes/Aider/2024-08-23-3-developer-workflow-changes-in-v0-52-0|3 Developer Workflow changes in v0.52.0]]
+- Earlier: 2024-08-06 · Dify · [[Changes/Dify/2024-08-06-2-developer-workflow-changes-in-0-6-16|2 Developer Workflow changes in 0.6.16]]
+- Later: 2024-08-14 · Dify · [[Changes/Dify/2024-08-14-stop-the-service-command-please-execute-in-the-docker-directory|Stop the service，Command, please execute in the docker directory]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

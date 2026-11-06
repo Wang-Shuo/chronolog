@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: bd3ca7d9468e69ec554a58fdfc27a0e2425f858b1dc11325dc8539a45ad19299
+machine_hash: 7976f565ada61732411f2c75d14a49542b89e5c2b3a507a48b9f94d473b256c7
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,8 +43,8 @@ record:
   title: GPT-5.1-Codex-Max is now available in GitHub Copilot CLI
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-12-04-6-model-support-changes-in-rust-v0-65-0|6 Model
-  Support changes in rust-v0.65.0]]'
+- '[[Changes/Gemini/2025-12-04-solve-even-more-complex-problems-with-gemini-3-deep-think|Solve
+  even more complex problems with Gemini 3 Deep Think]]'
 - '[[Changes/Windsurf/2025-12-04-1-12-39-gpt-5-1-codex-max-changelog-banner|1.12.39
   GPT-5.1 Codex Max changelog banner]]'
 - '[[Changes/Windsurf/2025-12-04-gpt-5-1-codex-max|GPT-5.1-Codex Max]]'

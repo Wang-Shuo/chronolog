@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: cc4127f03556e8fe918d7bc003f26c8605cebddfbfdaa28c36d363f15bbfcd7f
+machine_hash: 5eafda2a82f970d5e283a00f369f0c44b255f0b95b707e18a548100adbe7c52e
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,12 +46,12 @@ record:
   title: Auto-update binary downloads now stream to disk instead of buffering in memory…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-03-improved-the-install-script-to-explain-when-installation-is-killed-by-the-system|Improved
-  the install script to explain when installation is killed by the system…]]'
 - '[[Changes/Claude Code/2026-07-07-2-reliability-and-performance-changes-in-v2-1-203|2
   Reliability and Performance changes in v2.1.203]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-07-5-reliability-and-performance-changes-in-v1-0-69|5
   Reliability and Performance changes in v1.0.69]]'
+- '[[Changes/v0/2026-07-07-faster-vm-preview-startup-and-vercel-deploys-trimming-several-seconds-of-setup|Faster
+  VM preview startup and Vercel deploys, trimming several seconds of setup]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-08-v2-1-205-github-351140412-aeced5ba|claude-code-2026-07-08-v2-1-205-github-351140412-aeced5ba]]'
 source_type: github_releases
 theme: reliability-performance
@@ -84,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-07-07 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-07-5-reliability-and-performance-changes-in-v1-0-69|5 Reliability and Performance changes in v1.0.69]]
+- Earlier: 2026-07-07 · v0 · [[Changes/v0/2026-07-07-faster-vm-preview-startup-and-vercel-deploys-trimming-several-seconds-of-setup|Faster VM preview startup and Vercel deploys, trimming several seconds of setup]]
 - Later: 2026-07-09 · Codex CLI · [[Changes/Codex CLI/2026-07-09-responses-websockets-continue-using-the-low-latency-transport-while-respecting-s|Responses WebSockets continue using the low-latency transport while respecting…]]
 <!-- chronolog:end -->
 

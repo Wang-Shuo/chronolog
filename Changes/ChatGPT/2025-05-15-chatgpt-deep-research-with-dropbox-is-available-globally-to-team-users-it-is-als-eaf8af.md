@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: dfa9f436a37b75c95ade9de29f03eefe17e22ce946727108aa000a5a4013b134
+machine_hash: faf4038493aedb8d286cd878cb0361f2bd185da080b6c40d90bf97be46221525
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -48,8 +48,8 @@ record:
   title: Dropbox connector for deep research for Plus/Pro/Team
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-05-08-chatgpt-deep-research-with-github-is-available-globally-to-team-users-it-is-also-ad2e25|GitHub
-  connector for deep research for Plus/Pro/Team]]'
+- "[[Changes/Open WebUI/2025-05-10-duplicate-web-search-urls-eliminated-search-results-now-reliably-filter-out-url|\U0001F502
+  Duplicate Web Search URLs Eliminated]]"
 - '[[Changes/ChatGPT/2025-05-12-you-can-now-export-your-deep-research-reports-as-well-formatted-pdfs-complete-wi-87a3fa|Export
   Deep Research as PDF for Plus/Pro/Team]]'
 - '[[Changes/ChatGPT/2025-05-12-chatgpt-deep-research-with-sharepoint-and-onedrive-is-available-globally-to-team-c5147c|Microsoft
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Search and Browsing
 
 - Earlier: 2025-05-12 · ChatGPT · [[Changes/ChatGPT/2025-05-12-chatgpt-deep-research-with-sharepoint-and-onedrive-is-available-globally-to-team-c5147c|Microsoft SharePoint and OneDrive connector for deep research for Plus/Pro/Team]]
-- Later: 2025-06-04 · ChatGPT · [[Changes/ChatGPT/2025-06-04-combines-internal-web-sources-for-synthesis|Combines internal + web sources for synthesis]]
+- Later: 2025-05-26 · Open WebUI · [[Changes/Open WebUI/2025-05-26-3-search-and-browsing-changes-in-v0-6-11|3 Search and Browsing changes in v0.6.11]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

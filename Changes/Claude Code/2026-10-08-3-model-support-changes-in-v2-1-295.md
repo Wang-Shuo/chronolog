@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3cae4d988c90b1e2c3465aa59d2c264db0d2bd0962f054a85ad39a73a0290696
+machine_hash: 9576cc3dba26a8c0e471311ccf623dc1f76fc11b10e038cf648d25891bf2cf45
 product: claude-code
 product_name: Claude Code
 record:
@@ -52,12 +52,12 @@ record:
   title: 3 Model Support changes in v2.1.295
   type: change
 related_changes:
-- '[[Changes/Cline/2026-10-07-3-model-support-changes-in-v4-1-23|3 Model Support changes
-  in v4.1.23]]'
 - '[[Changes/Codex CLI/2026-10-07-9-model-support-changes-in-rust-v0-161-0|9 Model
   Support changes in rust-v0.161.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-07-model-picker-updates-the-recommended-list-to-prioritize-gpt-6-1-sol-gpt-6-astra|Model
   picker updates the recommended list to prioritize GPT-6.1 Sol, GPT-6…]]'
+- '[[Changes/Lovable/2026-10-07-gemini-3-7-flash-is-deprecated-for-your-app-s-ai-features|Gemini
+  3.7 Flash is deprecated for your app''s AI features]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-08-v2-1-295-github-407134589-d5c87510|claude-code-2026-10-08-v2-1-295-github-407134589-d5c87510]]'
 source_type: github_releases
 theme: model-support
@@ -103,7 +103,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.295
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-10-07 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-07-model-picker-updates-the-recommended-list-to-prioritize-gpt-6-1-sol-gpt-6-astra|Model picker updates the recommended list to prioritize GPT-6.1 Sol, GPT-6…]]
+- Earlier: 2026-10-07 · Lovable · [[Changes/Lovable/2026-10-07-gemini-3-7-flash-is-deprecated-for-your-app-s-ai-features|Gemini 3.7 Flash is deprecated for your app's AI features]]
 - Later: 2026-10-08 · Codex CLI · [[Changes/Codex CLI/2026-10-08-11-model-support-changes-in-rust-v0-162-0|11 Model Support changes in rust-v0.162.0]]
 <!-- chronolog:end -->
 

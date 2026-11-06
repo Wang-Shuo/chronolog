@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 240467961976e031a9418205bd3951d04b954862e000933e2ffa6cecf084396b
+machine_hash: 5aec148f51a5a014677eeeb1afe6bfe0c92c61667e30c6744224ee560816bc2b
 product: openhands
 product_name: OpenHands
 record:
@@ -82,7 +82,7 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2026-09-25 · Codex CLI · [[Changes/Codex CLI/2026-09-25-6-context-window-changes-in-rust-v0-157-0|6 Context Window changes in rust-v0.157.0]]
-- Later: 2026-09-28 · Codex CLI · [[Changes/Codex CLI/2026-09-28-17-context-window-changes-in-rust-v0-158-0|17 Context Window changes in rust-v0.158.0]]
+- Later: 2026-09-25 · v0 · [[Changes/v0/2026-09-25-explore-your-project-in-the-new-lightweight-code-tab-edit-code-manage-files-and|New Code Viewer]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9f7f215628a61f67ff4b8b737c0cb30d23971f707de0cbe0575ca7ebe32522d6
+machine_hash: 74c6a579045e3b5ec479b890ebe5457ccd0a0219e301bd032a72fedf9b972c3d
 product: cline
 product_name: Cline
 record:
@@ -69,11 +69,12 @@ record:
   title: 12 Model Support changes in v3.38.3
   type: change
 related_changes:
-- '[[Changes/Windsurf/2025-11-24-1-12-36-claude-opus-4-5-changelog-banner|1.12.36
-  Claude Opus 4.5 changelog banner]]'
-- '[[Changes/Windsurf/2025-11-24-claude-opus-4-5|Claude Opus 4.5]]'
+- '[[Changes/Dify/2025-11-26-6-model-support-changes-in-1-10-1|6 Model Support changes
+  in 1.10.1]]'
 - '[[Changes/Gemini CLI/2025-11-26-6-model-support-changes-in-v0-18-0|6 Model Support
   changes in v0.18.0]]'
+- '[[Changes/Lovable/2025-11-26-gemini-3-pro-image-generation-support|Gemini 3 Pro
+  & image generation support]]'
 source_release: '[[Releases/Cline/cline-2025-11-27-v3-38-3-github-265611552-4d743450|cline-2025-11-27-v3-38-3-github-265611552-4d743450]]'
 source_type: github_releases
 theme: model-support
@@ -133,8 +134,8 @@ Source: https://github.com/cline/cline/releases/tag/v3.38.3
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-11-26 · Gemini CLI · [[Changes/Gemini CLI/2025-11-26-6-model-support-changes-in-v0-18-0|6 Model Support changes in v0.18.0]]
-- Later: 2025-12-02 · Cline · [[Changes/Cline/2025-12-02-4-model-support-changes-in-v3-39-0|4 Model Support changes in v3.39.0]]
+- Earlier: 2025-11-26 · Lovable · [[Changes/Lovable/2025-11-26-gemini-3-pro-image-generation-support|Gemini 3 Pro & image generation support]]
+- Later: 2025-11-27 · ElevenLabs · [[Changes/ElevenLabs/2025-11-27-4-model-support-changes-in-elevenlabs-updates-2025-11-27|4 Model Support changes in ElevenLabs updates — 2025-11-27]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

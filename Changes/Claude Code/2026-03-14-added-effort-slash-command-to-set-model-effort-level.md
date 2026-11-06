@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: a5ec71c6fbe8a274b51210f9b749be42335d0d55c8896d7e0626fd8db57d14a7
+machine_hash: dc0717959907b625710a090ee0420864538613d79c9658fbd9f782cb62f763d3
 product: claude-code
 product_name: Claude Code
 record:
@@ -86,7 +86,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-03-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-13-setting-claude-sonnet-4-6-as-the-default-model-is-now-preserved-correctly|Setting claude-sonnet-4.6 as the default model is now preserved correctly]]
-- Later: 2026-03-16 · ChatGPT · [[Changes/ChatGPT/2026-03-16-we-re-rolling-out-an-update-to-gpt-5-3-instant-that-improves-follow-up-tone-and|GPT-5.3 Instant update]]
+- Later: 2026-03-14 · Ollama · [[Changes/Ollama/2026-03-14-3-model-support-changes-in-v0-18-0|3 Model Support changes in v0.18.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -4,20 +4,20 @@ date: '2026-05-26'
 description: 'Codex CLI · 2026-05-26 · Enterprise and Administration: #23736 Add new
   enterprise requirement gate @adams-oai'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin
-    improvements: Team admins can now mark themselves as unpaid users and can see…]]'
+  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
+    for Google Workspace accounts]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 797
+  lag_days: 1117
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: c0f3dcd40c31d2483d8d6b9d856328e1eeb311ee16319894dd327ea27aa7efb6
+machine_hash: aaf6c1ed55940e1316e2c8f1604cbcc5e99f320ad96f24c06eeab7ebfa9827a9
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,12 +42,10 @@ record:
   title: '#23736 Add new enterprise requirement gate @adams-oai'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-08-added-claude-code-enable-feedback-survey-for-otel-to-re-enable-the-session-quali|Added
-  CLAUDE_CODE_ENABLE_FEEDBACK_SURVEY_FOR_OTEL to re-enable the session quality…]]'
-- '[[Changes/Cursor/2026-05-11-teams-admins-and-individual-plan-users-can-now-customize-the-effort-level-bugbot|Teams
-  admins and Individual plan users can now customize the effort level Bugbot…]]'
-- '[[Changes/Claude Code/2026-05-13-added-anthropic-workspace-id-environment-variable-for-workload-identity-federati|Added
-  ANTHROPIC_WORKSPACE_ID environment variable for workload identity federation]]'
+- '[[Changes/Replit/2026-05-15-teams-and-enterprise|Teams and Enterprise]]'
+- '[[Changes/Dify/2026-05-19-chore-enchance-copywriting-in-none-education-plan-warning-modal-by-iamjoel-in-ht|chore:
+  enchance copywriting in none education plan warning modal]]'
+- '[[Changes/Lovable/2026-05-21-branded-app-urls|Branded app URLs]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-05-26-rust-v0-134-0-github-329640454-7be6059e|codex-cli-2026-05-26-rust-v0-134-0-github-329640454-7be6059e]]'
 source_type: github_releases
 theme: enterprise-admin
@@ -83,14 +81,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-05-13 · Claude Code · [[Changes/Claude Code/2026-05-13-added-anthropic-workspace-id-environment-variable-for-workload-identity-federati|Added ANTHROPIC_WORKSPACE_ID environment variable for workload identity federation]]
-- Later: 2026-06-03 · Cursor · [[Changes/Cursor/2026-06-03-admins-can-move-users-between-teams-through-the-dashboard-api-or-csv|Admins can move users between teams through the dashboard, API, or CSV]]
+- Earlier: 2026-05-21 · Lovable · [[Changes/Lovable/2026-05-21-branded-app-urls|Branded app URLs]]
+- Later: 2026-05-29 · Replit · [[Changes/Replit/2026-05-29-teams-and-enterprise|Teams and Enterprise]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-03-20 · Cursor · [[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin improvements: Team admins can now mark themselves as unpaid users and can see…]]
+- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: e622e154977985fbf0d590f1e4a7ee07b8cb44ca6569ac669f094e7f6392fe3e
+machine_hash: e305d79ad943dc99fbd640d5aac26193a09fe3fd92196cd30f31552f0a49ae03
 product: cursor
 product_name: Cursor
 record:
@@ -56,8 +56,8 @@ record:
   title: Separate models per Agent
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-08-05-20-model-support-changes-in-v0-1-17|20 Model Support
-  changes in v0.1.17]]'
+- '[[Changes/Ollama/2025-08-05-3-model-support-changes-in-v0-11-0|3 Model Support
+  changes in v0.11.0]]'
 - '[[Changes/Cline/2025-08-06-3-model-support-changes-in-v3-20-11|3 Model Support
   changes in v3.20.11]]'
 - '[[Changes/Cline/2025-08-06-add-prompt-caching-for-opus-4-1-by-saoudrizwan-in-https-github-com-cline-cline-p|Add
@@ -100,7 +100,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2025-08-06 · Cline · [[Changes/Cline/2025-08-06-add-prompt-caching-for-opus-4-1-by-saoudrizwan-in-https-github-com-cline-cline-p|Add prompt caching for Opus 4.1]]
-- Later: 2025-08-06 · Gemini CLI · [[Changes/Gemini CLI/2025-08-06-20-model-support-changes-in-v0-1-18|20 Model Support changes in v0.1.18]]
+- Later: 2025-08-06 · Gemini · [[Changes/Gemini/2025-08-06-students-get-one-free-year-of-google-ai-pro-in-the-us-japan-indonesia-korea-and|Students get one free year of Google AI Pro in the US, Japan, Indonesia, Korea, and Brazil]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

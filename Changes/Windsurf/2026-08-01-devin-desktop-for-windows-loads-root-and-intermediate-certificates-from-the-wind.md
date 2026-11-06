@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: da4a30593949065a76f5c00a2dd9a1a572bd8c299f7057aaf9c42042f37bc46f
+machine_hash: 7046659e128b504be6c8ebf826253f771d08b75af6c18682aae76a7c52bdefcd
 product: windsurf
 product_name: Windsurf
 record:
@@ -48,12 +48,12 @@ record:
     Windows…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-07-21-9-account-and-access-changes-in-rust-v0-145-0|9
-  Account and Access changes in rust-v0.145.0]]'
 - '[[Changes/Codex CLI/2026-07-29-34643-migrate-login-http-construction-to-httpclient-copyberry|♯34643
   Migrate login HTTP construction to HttpClient @copyberry]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-30-add-a-browser-based-web-oauth-login-flow-now-the-default-for-copilot-login-on-lo|Add
   a browser-based (web) OAuth login flow, now the default for copilot login…]]'
+- '[[Changes/v0/2026-07-31-open-in-v0-and-git-deployment-lookups-prompt-for-saml-re-authentication-instead|Open
+  in v0 and Git deployment lookups prompt for SAML re-authentication instead…]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-08-01-v3-6-27-9624899b|windsurf-2026-08-01-v3-6-27-9624899b]]'
 source_type: windsurf_changelog
 theme: account-access
@@ -83,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-07-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-30-add-a-browser-based-web-oauth-login-flow-now-the-default-for-copilot-login-on-lo|Add a browser-based (web) OAuth login flow, now the default for copilot login…]]
+- Earlier: 2026-07-31 · v0 · [[Changes/v0/2026-07-31-open-in-v0-and-git-deployment-lookups-prompt-for-saml-re-authentication-instead|Open in v0 and Git deployment lookups prompt for SAML re-authentication instead…]]
 - Later: 2026-08-03 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-08-03-2-account-and-access-changes-in-v1-0-78|2 Account and Access changes in v1.0.78]]
 <!-- chronolog:end -->
 

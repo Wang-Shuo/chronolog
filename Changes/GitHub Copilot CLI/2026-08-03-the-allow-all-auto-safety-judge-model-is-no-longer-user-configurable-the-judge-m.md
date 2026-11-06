@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: e1c5d7e3da687fb0ede94f7f9a65c863a9005fb2f7fe17ed86f60cc82250202e
+machine_hash: 5cf05297c31f92385a2f5a7ddbe254909cf6f360da5a00e8badbb0fa39035318
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -54,10 +54,10 @@ record:
   title: The /allow-all auto safety-judge model is no longer user-configurable
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-30-2-model-support-changes-in-v1-0-76|2 Model
-  Support changes in v1.0.76]]'
-- '[[Changes/Cline/2026-07-31-legacy-bundle-legacy-extension-3fdc186f1-4-0-12-free-model-button-wording|Legacy
-  bundle: legacy-extension @ 3fdc186f1 (4.0.12 + free-model button wording)]]'
+- '[[Changes/Replit/2026-07-31-choose-agent-s-primary-model|Choose Agent''s primary
+  model]]'
+- '[[Changes/v0/2026-07-31-3-model-support-changes-in-claude-opus-5-direct-figma-inspection|3
+  Model Support changes in Claude Opus 5, direct Figma inspection…]]'
 - '[[Changes/Cline/2026-08-02-4-model-support-changes-in-v4-1-3|4 Model Support changes
   in v4.1.3]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-08-03-v1-0-78-github-364543196-53a079bc|github-copilot-cli-2026-08-03-v1-0-78-github-364543196-53a079bc]]'

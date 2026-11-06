@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 3b602ce4a63a0a5757b46e484cb988cf1a281e78a553cf16741f90f930db8721
+machine_hash: 3c2d8fbdc59d05ac540aec47c21b24254672bb7d4d5aa98a276167491f7485a6
 product: cursor
 product_name: Cursor
 record:
@@ -76,7 +76,7 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2026-05-07 · Codex CLI · [[Changes/Codex CLI/2026-05-07-3-collaboration-changes-in-rust-v0-129-0|3 Collaboration changes in rust-v0.129.0]]
-- Later: 2026-05-16 · Windsurf · [[Changes/Windsurf/2026-05-16-restored-conversation-sharing|Restored conversation sharing]]
+- Later: 2026-05-15 · v0 · [[Changes/v0/2026-05-15-snowflake-teams-with-multiple-accounts-can-pick-which-account-a-chat-connects-to|Snowflake teams with multiple accounts can pick which account a chat connects…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

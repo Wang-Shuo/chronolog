@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 0d5d7f98efdbc6862891d0fbc71b9bae515cde78d69794c265ccd1110202164a
+machine_hash: 17cca3cd011ef75863169e1f7dea2a9a349c0fc27625a1cc7e056be09bac336f
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,8 +44,8 @@ record:
   title: Add support for Gemini 4 Argon
   type: change
 related_changes:
-- '[[Changes/Cline/2026-10-13-3-model-support-changes-in-v4-1-24|3 Model Support changes
-  in v4.1.24]]'
+- '[[Changes/Lovable/2026-10-13-gemini-4-argon-for-your-app-s-ai-features|Gemini 4
+  Argon for your app''s AI features]]'
 - '[[Changes/Claude Code/2026-10-14-2-model-support-changes-in-v2-1-299|2 Model Support
   changes in v2.1.299]]'
 - '[[Changes/Claude Code/2026-10-14-improved-the-note-claude-3-models-get-about-an-mentioned-pdf-so-they-less-often|Improved
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-10-14 · Claude Code · [[Changes/Claude Code/2026-10-14-improved-the-note-claude-3-models-get-about-an-mentioned-pdf-so-they-less-often|Improved the note Claude 3 models get about an @-mentioned PDF, so they less often…]]
-- Later: 2026-10-15 · Codex CLI · [[Changes/Codex CLI/2026-10-15-6-model-support-changes-in-rust-v0-163-0|6 Model Support changes in rust-v0.163.0]]
+- Later: 2026-10-14 · Ollama · [[Changes/Ollama/2026-10-14-decision-models-are-now-available-on-cloud-use-clef-cloud-and-clef-flash-cloud-t|Decision models are now available on cloud]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

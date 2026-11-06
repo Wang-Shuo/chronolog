@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b0a03b5167df0d57bfb6e99b672a1ce1366d21724f0e560e63cba4e58430ba4a
+machine_hash: 29ae119206abbf022aa0d4a5cc9e414051aa339646eb19b6fd8509ca7ddd0910
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -71,7 +71,7 @@ record:
   title: 14 Apps and Integrations changes in rust-v0.93.0
   type: change
 related_changes:
-- '[[Changes/Cline/2026-01-30-hooks-hook-scripts-now-run-from-the-workspace-repository-root-instead-of-filesys-f43db5|_Hooks:
+- '[[Changes/Cline/2026-01-30-hooks-hook-scripts-now-run-from-the-workspace-repository-root-instead-of-filesys-f43db5|Hooks:
   Hook scripts now run from the workspace repository root instead…]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-30-3-apps-and-integrations-changes-in-v0-0-400|3
   Apps and Integrations changes in v0.0.400]]'
@@ -148,7 +148,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.93.0
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-01-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-30-3-apps-and-integrations-changes-in-v0-0-400|3 Apps and Integrations changes in v0.0.400]]
-- Later: 2026-02-03 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-03-3-apps-and-integrations-changes-in-v0-0-401|3 Apps and Integrations changes in v0.0.401]]
+- Later: 2026-02-02 · ElevenLabs · [[Changes/ElevenLabs/2026-02-02-sdk-releases|SDK Releases]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

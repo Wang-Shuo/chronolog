@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 3c5fa66f504f8091d2bccba1c3144043eab31dc5534c6c96ba6ca4ee9ce1391e
+machine_hash: 805a9f090460e1c16f93aeaf4795ed3ce9ffffefbea466c089e8dca35fccc0af
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,10 +45,9 @@ record:
     customizing…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-04-02-4-agent-mode-changes-in-3-0|4 Agent Mode changes in
-  3.0]]'
 - '[[Changes/Cursor/2026-04-02-design-mode|Design Mode]]'
 - '[[Changes/Cursor/2026-04-02-agents-window-da5689|Agents Window]]'
+- '[[Changes/Lovable/2026-04-02-ai-powered-visual-edits|AI-powered visual edits]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-04-03-v1-0-17-github-304907611-d6837ced|github-copilot-cli-2026-04-03-v1-0-17-github-304907611-d6837ced]]'
 source_type: github_releases
 theme: agent-mode
@@ -78,8 +77,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-04-02 · Cursor · [[Changes/Cursor/2026-04-02-agents-window-da5689|Agents Window]]
-- Later: 2026-04-06 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-06-2-agent-mode-changes-in-v1-0-19|2 Agent Mode changes in v1.0.19]]
+- Earlier: 2026-04-02 · Lovable · [[Changes/Lovable/2026-04-02-ai-powered-visual-edits|AI-powered visual edits]]
+- Later: 2026-04-03 · Replit · [[Changes/Replit/2026-04-03-agent|Agent]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

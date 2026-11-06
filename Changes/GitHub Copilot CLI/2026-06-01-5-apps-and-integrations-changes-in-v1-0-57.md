@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d53c86a53b4d12813e5f40cc7b3890a0e11000115c65bd4c836f2370c5a0fa05
+machine_hash: 70fb4e55cb851ece3363797fc257cef985da52a4a7caf480850465092e8e77f9
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -52,12 +52,10 @@ record:
   title: 5 Apps and Integrations changes in v1.0.57
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-29-4-apps-and-integrations-changes-in-v2-1-157|4
-  Apps and Integrations changes in v2.1.157]]'
-- '[[Changes/GitHub Copilot CLI/2026-05-29-2-apps-and-integrations-changes-in-v1-0-56|2
-  Apps and Integrations changes in v1.0.56]]'
 - '[[Changes/Codex CLI/2026-06-01-20-apps-and-integrations-changes-in-rust-v0-136-0|20
   Apps and Integrations changes in rust-v0.136.0]]'
+- '[[Changes/ElevenLabs/2026-06-01-sdk-releases|SDK Releases]]'
+- '[[Changes/ElevenLabs/2026-06-01-elevenagents|ElevenAgents]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-06-01-v1-0-57-github-332702409-1dd8346d|github-copilot-cli-2026-06-01-v1-0-57-github-332702409-1dd8346d]]'
 source_type: github_releases
 theme: apps-integrations
@@ -104,8 +102,8 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.57
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-06-01 · Codex CLI · [[Changes/Codex CLI/2026-06-01-20-apps-and-integrations-changes-in-rust-v0-136-0|20 Apps and Integrations changes in rust-v0.136.0]]
-- Later: 2026-06-02 · Claude Code · [[Changes/Claude Code/2026-06-02-mcp-now-collapses-claude-ai-connectors-you-ve-never-signed-in-to-behind-a-show-u|/mcp now collapses claude.ai connectors you've never signed in to behind…]]
+- Earlier: 2026-06-01 · ElevenLabs · [[Changes/ElevenLabs/2026-06-01-elevenagents|ElevenAgents]]
+- Later: 2026-06-01 · Lovable · [[Changes/Lovable/2026-06-01-app-connector-salesforce|App connector: Salesforce]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

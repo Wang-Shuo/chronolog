@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 08f0745fee0d52eaf8a90d5a1adddcfbe0666a0deae4d1280cd17fef73132e71
+machine_hash: 55c759b238f20f4039576a7ad4795c7e2668398a3bc4330aa2fb6a7872165906
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,8 +45,8 @@ record:
   title: 2 Search and Browsing changes in v1.0.61
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-01-2-search-and-browsing-changes-in-v1-0-57|2
-  Search and Browsing changes in v1.0.57]]'
+- '[[Changes/Ollama/2026-06-03-pi-web-search-setup-now-updates-only-when-a-newer-package-is-available|Pi
+  web search setup now updates only when a newer package is available]]'
 - '[[Changes/Codex CLI/2026-06-04-25702-codex-enable-parallel-standalone-web-search-calls-sayan-oai|♯25702
   codex enable parallel standalone web search calls @sayan-oai]]'
 - '[[Changes/Codex CLI/2026-06-09-3-search-and-browsing-changes-in-rust-v0-139-0|3

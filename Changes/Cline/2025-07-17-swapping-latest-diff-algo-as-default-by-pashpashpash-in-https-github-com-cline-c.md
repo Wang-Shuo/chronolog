@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5b4e87ec4ab8d0d3a084dc95e2d4bd46b5c08aff60da3c956c7267c15b04cd67
+machine_hash: 15ae238b720672702d47a931dac1c24b10613fd952595621908ce21541c68f58
 product: cline
 product_name: Cline
 record:
@@ -43,8 +43,8 @@ record:
   title: swapping latest diff algo as default
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-07-11-help-add-shift-tab-tip-by-abhipatel12-in-https-github-com-google-gemini-gemini-c|help:
-  add shift+tab tip]]'
+- '[[Changes/Open WebUI/2025-07-14-3-editor-experience-changes-in-v0-6-16|3 Editor
+  Experience changes in v0.6.16]]'
 - '[[Changes/Cline/2025-07-16-2-editor-experience-changes-in-v3-19-5|2 Editor Experience
   changes in v3.19.5]]'
 - '[[Changes/OpenHands/2025-07-16-2-editor-experience-changes-in-0-49-0|2 Editor Experience

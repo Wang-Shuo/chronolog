@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9ab8c000d104fc3ddbf6ba2ca1617caf2046a6e9a4b2ed1a811ff0f2e6694f4d
+machine_hash: eed59f1300cd79b7f22ab8a972bbf0d0ef7c070e64f7109dd3df41e710abc818
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,8 +47,8 @@ record:
   title: 2 Safety and Privacy changes in v2.1.302
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-10-14-resuming-a-session-now-respects-abandoned-pending-permission-work-and-continues|Resuming
-  a session now respects abandoned pending-permission work and continues only…]]'
+- "[[Changes/Open WebUI/2026-10-14-rich-ui-embed-console-errors-rich-ui-tool-embeds-no-longer-log-a-security-error|\U0001F9E9
+  Rich UI embed console errors. Rich UI tool embeds no longer log a security…]]"
 - '[[Changes/Claude Code/2026-10-15-5-safety-and-privacy-changes-in-v2-1-301|5 Safety
   and Privacy changes in v2.1.301]]'
 - '[[Changes/Codex CLI/2026-10-15-18-safety-and-privacy-changes-in-rust-v0-163-0|18

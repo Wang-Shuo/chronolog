@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b99a58b493ac2b1eee91a57d1197363c768e210465ce1978359f858c16446a82
+machine_hash: 8a88629588ba383d5bb80f93fcf09e35449eb0ac20ad9a6f70fc8867c3969474
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -47,12 +47,11 @@ record:
     carry…
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-04-23-6-safety-and-privacy-changes-in-v0-39-0|6 Safety
-  and Privacy changes in v0.39.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-23-permission-prompts-appear-correctly-in-remote-sessions-for-the-cli-tui|Permission
   prompts appear correctly in remote sessions for the CLI TUI]]'
 - '[[Changes/Codex CLI/2026-04-24-9-safety-and-privacy-changes-in-rust-v0-125-0|9
   Safety and Privacy changes in rust-v0.125.0]]'
+- '[[Changes/Lovable/2026-04-24-security-updates|Security updates]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-04-27-v1-0-37-github-314304065-a4bb7d0c|github-copilot-cli-2026-04-27-v1-0-37-github-314304065-a4bb7d0c]]'
 source_type: github_releases
 theme: safety-privacy
@@ -85,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-04-24 · Codex CLI · [[Changes/Codex CLI/2026-04-24-9-safety-and-privacy-changes-in-rust-v0-125-0|9 Safety and Privacy changes in rust-v0.125.0]]
+- Earlier: 2026-04-24 · Lovable · [[Changes/Lovable/2026-04-24-security-updates|Security updates]]
 - Later: 2026-04-28 · Gemini CLI · [[Changes/Gemini CLI/2026-04-28-feat-sandbox-resolve-custom-seatbelt-profiles-from-home-gemini-first-by-mvanhorn|feat(sandbox): resolve custom seatbelt profiles from $HOME/.gemini first]]
 <!-- chronolog:end -->
 

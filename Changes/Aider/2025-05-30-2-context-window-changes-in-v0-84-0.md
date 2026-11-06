@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4fb58bd700ccb20ea3579dd1e32d4310a6df0069ebc594b5f0692dea5e547e9c
+machine_hash: 80111cb8195f9eb463ea3c3198e444ea323bca02b7f62f2ee9d05fb428915798
 product: aider
 product_name: Aider
 record:
@@ -44,12 +44,12 @@ record:
   title: 2 Context Window changes in v0.84.0
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-05-15-include-your-entire-codebase-in-context|Include your
-  entire codebase in context]]'
 - '[[Changes/Cline/2025-05-21-add-support-for-gemini-2-5-flash-preview-05-20-model-to-vertex-ai-provider-with|Add
   support for Gemini 2.5 Flash Preview 05-20 model to Vertex AI provider…]]'
 - '[[Changes/Cline/2025-05-21-add-support-for-gemini-2-5-flash-preview-05-20-model-to-vertex-ai-provider-with-d2d830|Add
   support for Gemini 2.5 Flash Preview 05-20 model to Vertex AI provider…]]'
+- "[[Changes/Open WebUI/2025-05-28-localization-translation-enhancements-improved-and-expanded-simplified-tradition|\U0001F30D
+  Localization & Translation Enhancements]]"
 source_release: '[[Releases/Aider/aider-2025-05-30-v0-84-0-github-222180237-d0574ad6|aider-2025-05-30-v0-84-0-github-222180237-d0574ad6]]'
 source_type: github_releases
 theme: context-window
@@ -85,7 +85,7 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.84.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2025-05-21 · Cline · [[Changes/Cline/2025-05-21-add-support-for-gemini-2-5-flash-preview-05-20-model-to-vertex-ai-provider-with-d2d830|Add support for Gemini 2.5 Flash Preview 05-20 model to Vertex AI provider…]]
+- Earlier: 2025-05-28 · Open WebUI · [[Changes/Open WebUI/2025-05-28-localization-translation-enhancements-improved-and-expanded-simplified-tradition|🌍 Localization & Translation Enhancements]]
 - Later: 2025-06-10 · Cline · [[Changes/Cline/2025-06-10-prioritize-active-files-open-tabs-at-the-top-of-the-file-context-menu-when-using|Prioritize active files (open tabs) at the top of the file context menu when using…]]
 <!-- chronolog:end -->
 

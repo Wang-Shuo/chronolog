@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 94229d7b198c3c2d6646b8d7a723d432a2421ea1fbdc5ee06992cf7e6d52ef23
+machine_hash: 73c8468abbc0f3e1f99591c13d4992304eeb0d3a995657b0855817e951e730f2
 product: cline
 product_name: Cline
 record:
@@ -89,7 +89,7 @@ Source: https://github.com/cline/cline/releases/tag/v4.1.11
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-08-21 · Cline · [[Changes/Cline/2026-08-21-2-apps-and-integrations-changes-in-v4-1-12|2 Apps and Integrations changes in v4.1.12]]
-- Later: 2026-08-21 · OpenHands · [[Changes/OpenHands/2026-08-21-2-apps-and-integrations-changes-in-v1-15-0|2 Apps and Integrations changes in v1.15.0]]
+- Later: 2026-08-21 · Lovable · [[Changes/Lovable/2026-08-21-export-designs-from-figma-with-the-lovable-plugin|Export designs from Figma with the Lovable plugin]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

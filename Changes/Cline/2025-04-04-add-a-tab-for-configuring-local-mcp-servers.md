@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5f56a03ae4421e26f94836cb606c8fefda82378f961f538bedada522b3145089
+machine_hash: bbfa674ba31a97e0a5dd79b5dfb5e3f20a49ad56701b467aaed5ad01ef393166
 product: cline
 product_name: Cline
 record:
@@ -50,10 +50,10 @@ record:
   title: Add a tab for configuring local MCP Servers
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-03-23-3-apps-and-integrations-changes-in-0-48-x|3 Apps and
-  Integrations changes in 0.48.x]]'
 - '[[Changes/Cline/2025-04-01-3-apps-and-integrations-changes-in-v3-8-5|3 Apps and
   Integrations changes in v3.8.5]]'
+- '[[Changes/Open WebUI/2025-04-01-2-apps-and-integrations-changes-in-v0-6-0|2 Apps
+  and Integrations changes in v0.6.0]]'
 - '[[Changes/Windsurf/2025-04-02-misc|Misc]]'
 source_release: '[[Releases/Cline/cline-2025-04-04-v3-9-0-github-210280360-2274954f|cline-2025-04-04-v3-9-0-github-210280360-2274954f]]'
 source_type: github_releases
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2025-04-02 · Windsurf · [[Changes/Windsurf/2025-04-02-misc|Misc]]
-- Later: 2025-04-07 · Windsurf · [[Changes/Windsurf/2025-04-07-increased-stability-around-mcp-sse-connections|Increased stability around MCP SSE connections]]
+- Later: 2025-04-04 · Lovable · [[Changes/Lovable/2025-04-04-upgraded-the-stripe-integration-https-docs-lovable-dev-integrations-stripe-md|Upgraded the Stripe integration((source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

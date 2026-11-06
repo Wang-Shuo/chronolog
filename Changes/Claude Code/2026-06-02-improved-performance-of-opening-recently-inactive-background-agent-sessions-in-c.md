@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 855967167407fc131326f57c336400241d006f323460b3545e836a7a29c2f32a
+machine_hash: 186ad3ea5cc5864b5b65ce742fd3ff6961125a76163bb019e9599cd9b30fefad
 product: claude-code
 product_name: Claude Code
 record:
@@ -55,8 +55,8 @@ record:
   title: Improved performance of opening recently-inactive background agent sessions…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-29-add-builtinagents-rubberduck-setting-to-enable-or-disable-the-rubber-duck-agent|Add
-  builtInAgents.rubberDuck setting to enable or disable the rubber duck agent…]]'
+- '[[Changes/Replit/2026-05-29-agent-can-generate-music-sound-effects-and-speech|Agent
+  can generate music, sound effects, and speech]]'
 - '[[Changes/Codex CLI/2026-06-01-3-agent-mode-changes-in-rust-v0-136-0|3 Agent Mode
   changes in rust-v0.136.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-01-canceling-a-running-shell-command-ctrl-c-on-a-command-or-aborting-an-agent-comma|Canceling

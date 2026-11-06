@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5e42d0cb63d8c7fdcae7982142e43ef1e6cb42cce816b8164c7030ea56b034ff
+machine_hash: 8f6815d2ab6659b26fedf327e62f5ebfc2fd7119fee5b05e9fe6515f4d3f9f16
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,11 @@ record:
   title: Improved a mod's `Image` to draw inside tmux with `allow-passthrough`…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-10-19-2-interface-experience-changes-in-v1-0-100|2
-  Interface Experience changes in v1.0.100]]'
 - '[[Changes/OpenHands/2026-10-19-test-e2e-bound-and-diagnose-sidebar-modified-click-tab-waits-by-enyst-in-https-g|test(e2e):
   bound and diagnose sidebar modified-click tab waits]]'
 - '[[Changes/Claude Code/2026-10-20-improved-a-mod-s-image-to-draw-its-picture-in-iterm2-3-5-and-later-with-fullscre|Improved
   a mod''s Image to draw its picture in iTerm2 3.5 and later with fullscreen…]]'
+- '[[Changes/Lovable/2026-10-20-redesigned-more-menu|Redesigned More menu]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-23-v2-1-310-github-422315867-36b541d2|claude-code-2026-10-23-v2-1-310-github-422315867-36b541d2]]'
 source_type: github_releases
 theme: interface-experience
@@ -84,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-10-20 · Claude Code · [[Changes/Claude Code/2026-10-20-improved-a-mod-s-image-to-draw-its-picture-in-iterm2-3-5-and-later-with-fullscre|Improved a mod's Image to draw its picture in iTerm2 3.5 and later with fullscreen…]]
+- Earlier: 2026-10-20 · Lovable · [[Changes/Lovable/2026-10-20-redesigned-more-menu|Redesigned More menu]]
 - Later: 2026-10-23 · Codex CLI · [[Changes/Codex CLI/2026-10-23-9-interface-experience-changes-in-rust-v0-164-0|9 Interface Experience changes in rust-v0.164.0]]
 <!-- chronolog:end -->
 

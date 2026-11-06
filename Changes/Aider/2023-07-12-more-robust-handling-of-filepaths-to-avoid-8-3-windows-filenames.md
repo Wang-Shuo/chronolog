@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1b0306fc59b525b7ffda5e2dfe67c57e2db06d7c803c664bbda333809173ddc6
+machine_hash: 7575c8d83fb7cde43779e455315ac22c013bcc6b6ec1617955d4147769c12b45
 product: aider
 product_name: Aider
 record:
@@ -43,12 +43,11 @@ record:
   title: More robust handling of filepaths, to avoid 8.3 windows filenames
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2023-02-13-we-ve-updated-performance-of-the-chatgpt-model-on-our-free-plan-in-order-to-serv|ChatGPT
-  updates performance of the ChatGPT model on our free plan in order to serve…]]'
 - '[[Changes/Aider/2023-07-08-more-robust-handling-of-filepaths-to-avoid-8-3-windows-filenames|More
   robust handling of filepaths, to avoid 8.3 windows filenames]]'
 - '[[Changes/Aider/2023-07-08-more-robust-handling-of-filepaths-to-avoid-8-3-windows-filenames-db5eb1|More
   robust handling of filepaths, to avoid 8.3 windows filenames]]'
+- '[[Changes/Ollama/2023-07-11-much-faster-performance|Much faster performance]]'
 source_release: '[[Releases/Aider/aider-2023-07-12-v0-8-3-github-111880787-1670b688|aider-2023-07-12-v0-8-3-github-111880787-1670b688]]'
 source_type: github_releases
 theme: reliability-performance
@@ -81,8 +80,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2023-07-08 · Aider · [[Changes/Aider/2023-07-08-more-robust-handling-of-filepaths-to-avoid-8-3-windows-filenames-db5eb1|More robust handling of filepaths, to avoid 8.3 windows filenames]]
-- Later: 2023-07-26 · Cursor · [[Changes/Cursor/2023-07-26-removes-a-check-in-the-chat-that-slows-the-chat-down-in-certain-cases|Removes a check in the chat that slows the chat down in certain cases]]
+- Earlier: 2023-07-11 · Ollama · [[Changes/Ollama/2023-07-11-much-faster-performance|Much faster performance]]
+- Later: 2023-07-13 · Ollama · [[Changes/Ollama/2023-07-13-show-performance-details-such-as-tokens-per-second-with-ollama-run-verbose|Show performance details, such as tokens per second with ollama run --verbose]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

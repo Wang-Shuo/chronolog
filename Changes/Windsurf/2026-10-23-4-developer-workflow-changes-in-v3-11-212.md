@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 39e7900f3cc04f14e0f5d11f0390c97d4734f64a97a30bfde4b01bf135c0ed25
+machine_hash: b58ea8e41cb6f88acd262dd1a2b19ecd4aa1cef8ca6a7b5a787f8898b56bec20
 product: windsurf
 product_name: Windsurf
 record:
@@ -51,12 +51,12 @@ record:
   title: 4 Developer Workflow changes in v3.11.212
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-10-22-clicking-a-completed-response-code-block-copies-its-original-code-when-enabled|Clicking
-  a completed response code block copies its original code when enabled]]'
 - '[[Changes/Claude Code/2026-10-23-code-review-improved-the-code-review-admin-section-to-retry-the-first-load-and-s|Code
   Review Improved the Code Review admin section to retry the first load…]]'
 - '[[Changes/Codex CLI/2026-10-23-14-developer-workflow-changes-in-rust-v0-164-0|14
   Developer Workflow changes in rust-v0.164.0]]'
+- '[[Changes/Dify/2026-10-23-respect-xforward-headers-enabled-standalone-api-default-remains-false-bundled-co|
+  /  RESPECT_XFORWARD_HEADERS_ENABLED  /  Standalone API default remains false]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-10-23-v3-11-212-ce285b20|windsurf-2026-10-23-v3-11-212-ce285b20]]'
 source_type: windsurf_changelog
 theme: developer-workflow
@@ -100,7 +100,7 @@ Source: https://docs.devin.ai/desktop/changelog#v3-11-212
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-10-23 · Codex CLI · [[Changes/Codex CLI/2026-10-23-14-developer-workflow-changes-in-rust-v0-164-0|14 Developer Workflow changes in rust-v0.164.0]]
+- Earlier: 2026-10-23 · Dify · [[Changes/Dify/2026-10-23-respect-xforward-headers-enabled-standalone-api-default-remains-false-bundled-co| /  RESPECT_XFORWARD_HEADERS_ENABLED  /  Standalone API default remains false]]
 - Later: 2026-10-24 · Windsurf · [[Changes/Windsurf/2026-10-24-2-developer-workflow-changes-in-v3-11-216|2 Developer Workflow changes in v3.11.216]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a8e4d9bfc26e586e348d54d4e8077a2adf529416db6f510be5e8767ff4498686
+machine_hash: 444b8f9b3947704ea83300359802b7ef59b3761d2acb93da0042d39d1a51adc2
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,8 +46,8 @@ record:
   title: 2 Context Window changes in v2.1.302
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-14-added-usage-warnings-for-max-effort-workflows-always-on-context-and-large-tool-r|Added
-  /usage warnings for max effort, workflows, always-on context and large tool…]]'
+- "[[Changes/Open WebUI/2026-10-14-per-chat-terminal-file-actions-with-the-open-terminal-chat-context-set-to-per-ch|\U0001F5A5️
+  Per chat terminal file actions. With the Open Terminal chat context set…]]"
 - '[[Changes/Claude Code/2026-10-15-improved-switching-to-a-model-with-a-smaller-context-window-a-conversation-too-l|Improved
   switching to a model with a smaller context window]]'
 - '[[Changes/Codex CLI/2026-10-15-16-context-window-changes-in-rust-v0-163-0|16 Context

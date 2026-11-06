@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: policy
-machine_hash: e5a50d113467b0b471554c318ab6fa0bcebb805f07739094854e86f9b27fd6fe
+machine_hash: 037f407164bc0baf3ceff9f9b4dba8b83289ef8e7859a2ca1df2b8dc29452bdd
 product: cline
 product_name: Cline
 record:
@@ -41,12 +41,12 @@ record:
   title: Retire firebase authentication
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-11-07-2-account-and-access-changes-in-v0-13-0|2 Account
-  and Access changes in v0.13.0]]'
 - '[[Changes/Cline/2025-11-13-feat-add-oauth-2-1-authentication-support-for-remote-mcp-servers-by-saoudrizwan|feat:
   Add OAuth 2.1 authentication support for remote MCP servers]]'
 - '[[Changes/Codex CLI/2025-11-13-6419-support-exiting-from-the-login-menu-b46012e48|♯6419
   — Support exiting from the login menu (b46012e48)]]'
+- '[[Changes/Dify/2025-11-13-chore-improve-the-user-experience-of-not-login-into-apps-by-iamjoel-in-https-git|chore:
+  improve the user experience of not login into apps]]'
 source_release: '[[Releases/Cline/cline-2025-11-18-v3-38-0-github-263429874-ca504559|cline-2025-11-18-v3-38-0-github-263429874-ca504559]]'
 source_type: github_releases
 theme: account-access
@@ -78,8 +78,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2025-11-13 · Codex CLI · [[Changes/Codex CLI/2025-11-13-6419-support-exiting-from-the-login-menu-b46012e48|♯6419 — Support exiting from the login menu (b46012e48)]]
-- Later: 2025-11-19 · Codex CLI · [[Changes/Codex CLI/2025-11-19-bug-fix-rmcp-client-refresh-oauth-tokens-using-expires-at-6574-laelluo|:bug: fix(rmcp-client): refresh OAuth tokens using expires_at (♯6574) — @LaelLuo]]
+- Earlier: 2025-11-13 · Dify · [[Changes/Dify/2025-11-13-chore-improve-the-user-experience-of-not-login-into-apps-by-iamjoel-in-https-git|chore: improve the user experience of not login into apps]]
+- Later: 2025-11-18 · v0 · [[Changes/v0/2025-11-18-the-v0-ios-app-now-supports-sign-in-with-apple|Sign in with Apple]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

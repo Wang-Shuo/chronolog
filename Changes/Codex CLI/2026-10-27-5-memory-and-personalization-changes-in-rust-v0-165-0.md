@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b4d6df123fee69430dc275a18ee85eae35cc5fb29fc3fc579dc45b3d25c3528b
+machine_hash: 14a6c78e8d46f18dd8c46985f2d9e8b7446b8f04a51e1ba0c9f61102bef116d9
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -49,12 +49,12 @@ record:
   title: 5 Memory and Personalization changes in rust-v0.165.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-08-51223-remove-legacy-personality-template-metadata-rhan-oai|♯51223
-  Remove legacy personality template metadata @rhan-oai]]'
-- '[[Changes/Codex CLI/2026-10-15-codex-can-run-independent-read-only-tools-in-parallel-including-skill-memory-and|Codex
-  can run independent read-only tools in parallel, including skill, memory…]]'
+- "[[Changes/Open WebUI/2026-10-16-built-in-tools-turned-back-on-stay-on-a-built-in-tool-such-as-memory-that-is-off|\U0001F9F0
+  Built-in tools turned back on stay on. A built-in tool such as Memory…]]"
 - '[[Changes/Codex CLI/2026-10-23-4-memory-and-personalization-changes-in-rust-v0-164-0|4
   Memory and Personalization changes in rust-v0.164.0]]'
+- '[[Changes/Dify/2026-10-23-3-memory-and-personalization-changes-in-1-18-0|3 Memory
+  and Personalization changes in 1.18.0]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-10-27-rust-v0-165-0-github-425927431-1fa685eb|codex-cli-2026-10-27-rust-v0-165-0-github-425927431-1fa685eb]]'
 source_type: github_releases
 theme: memory
@@ -101,7 +101,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.165.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2026-10-23 · Codex CLI · [[Changes/Codex CLI/2026-10-23-4-memory-and-personalization-changes-in-rust-v0-164-0|4 Memory and Personalization changes in rust-v0.164.0]]
+- Earlier: 2026-10-23 · Dify · [[Changes/Dify/2026-10-23-3-memory-and-personalization-changes-in-1-18-0|3 Memory and Personalization changes in 1.18.0]]
 - Later: 2026-10-29 · Codex CLI · [[Changes/Codex CLI/2026-10-29-2-memory-and-personalization-changes-in-rust-v0-166-0|2 Memory and Personalization changes in rust-v0.166.0]]
 <!-- chronolog:end -->
 

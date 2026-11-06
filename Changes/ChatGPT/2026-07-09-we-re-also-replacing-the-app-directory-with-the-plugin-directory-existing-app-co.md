@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e30e2f351879ae73812eae8bb7cedda49770eed1a3cd494559a4a64ecc82f04b
+machine_hash: 1126f00716e2fd818b2671049ee8d147b2f705bdb07f33bd93d4e5440ffe7b0c
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -46,10 +46,10 @@ record:
   title: We’re also replacing the App Directory with the Plugin Directory
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-07-08-66-apps-and-integrations-changes-in-rust-v0-143-0|66
-  Apps and Integrations changes in rust-v0.143.0]]'
 - '[[Changes/Codex CLI/2026-07-08-remote-plugins-are-now-enabled-by-default-with-richer-catalog-rows-npm-marketpla|Remote
   plugins are now enabled by default, with richer catalog rows, npm marketplace…]]'
+- '[[Changes/Lovable/2026-07-08-reference-a-connector-in-chat|Reference a connector
+  in chat]]'
 - '[[Changes/OpenHands/2026-07-08-chore-bump-sdk-packages-to-v1-33-0-by-all-hands-bot-in-https-github-com-openhand|chore:
   bump SDK packages to v1.33.0]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-07-09-introducing-chatgpt-work-eff9f272|chatgpt-2026-07-09-introducing-chatgpt-work-eff9f272]]'

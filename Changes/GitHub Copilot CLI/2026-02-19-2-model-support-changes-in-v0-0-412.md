@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 14cb9714ca6bf91787a65b06e7c5bd96938373a310b580913077fe7d140c70c3
+machine_hash: 3d2bb62a1d327ac3616e4765511550aeda07200791743b8ec13e7d5e4779bd26
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -42,11 +42,11 @@ record:
   title: 2 Model Support changes in v0.0.412
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-02-18-add-minimax-m2-5-model-support-by-neubig-in-https-github-com-openhands-openhands|Add
-  MiniMax-M2.5 model support]]'
 - '[[Changes/Claude Code/2026-02-19-2-model-support-changes-in-v2-1-49|2 Model Support
   changes in v2.1.49]]'
 - '[[Changes/Cline/2026-02-19-gemini-3-1-pro-preview|Gemini-3.1 Pro Preview]]'
+- '[[Changes/Gemini/2026-02-19-gemini-3-1-pro-a-smarter-model-for-your-most-complex-tasks|Gemini
+  3.1 Pro: A smarter model for your most complex tasks]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-02-19-v0-0-412-github-288488873-f50c4c60|github-copilot-cli-2026-02-19-v0-0-412-github-288488873-f50c4c60]]'
 source_type: github_releases
 theme: model-support
@@ -88,7 +88,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v0.0.412
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-02-19 · Cline · [[Changes/Cline/2026-02-19-gemini-3-1-pro-preview|Gemini-3.1 Pro Preview]]
+- Earlier: 2026-02-19 · Gemini · [[Changes/Gemini/2026-02-19-gemini-3-1-pro-a-smarter-model-for-your-most-complex-tasks|Gemini 3.1 Pro: A smarter model for your most complex tasks]]
 - Later: 2026-02-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-20-2-model-support-changes-in-v0-0-413|2 Model Support changes in v0.0.413]]
 <!-- chronolog:end -->
 

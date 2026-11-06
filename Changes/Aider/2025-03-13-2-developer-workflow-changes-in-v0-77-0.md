@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d038c101ccc8444eca7ee1d80dcb9f3b48214eeb50eb9c0a6c0a67da6b88a9fd
+machine_hash: 607edfe6caafd4fab541aee4ada56af0c7a7a63fdd2f5cf9b0de797227369189
 product: aider
 product_name: Aider
 record:
@@ -42,12 +42,12 @@ record:
   title: 2 Developer Workflow changes in v0.77.0
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-01-23-update-0-45-12-13-update-infrastructure-improvements-the-f1-check-for-updates-co|UPDATE
-  (0.45.12-13): Update infrastructure improvements]]'
-- '[[Changes/OpenHands/2025-02-13-limit-resource-usage-of-command-to-avoid-oom-runtime-kill-by-xingyaoww-in-https|Limit
-  resource usage of command to avoid OOM Runtime Kill]]'
-- '[[Changes/Cline/2025-02-19-new-git-to-reference-the-current-working-changes-or-specific-commits-thanks-mrub|New
-  @git to reference the current working changes or specific commits…]]'
+- "[[Changes/Open WebUI/2025-02-27-enhanced-logging-with-loguru-backend-logging-has-been-improved-with-loguru-makin|\U0001F4C8
+  Enhanced Logging with Loguru]]"
+- '[[Changes/Dify/2025-02-28-2-developer-workflow-changes-in-1-0-0|2 Developer Workflow
+  changes in 1.0.0]]'
+- '[[Changes/Dify/2025-03-11-stop-the-service-command-please-execute-in-the-docker-directory|Stop
+  the service，Command, please execute in the docker directory]]'
 source_release: '[[Releases/Aider/aider-2025-03-13-v0-77-0-github-205707771-facc801d|aider-2025-03-13-v0-77-0-github-205707771-facc801d]]'
 source_type: github_releases
 theme: developer-workflow
@@ -86,8 +86,8 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.77.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2025-02-19 · Cline · [[Changes/Cline/2025-02-19-new-git-to-reference-the-current-working-changes-or-specific-commits-thanks-mrub|New @git to reference the current working changes or specific commits…]]
-- Later: 2025-03-25 · OpenHands · [[Changes/OpenHands/2025-03-25-reduce-bash-soft-timeout-from-30-to-10-seconds-by-xingyaoww-in-https-github-com|Reduce bash SOFT timeout from 30 to 10 seconds]]
+- Earlier: 2025-03-11 · Dify · [[Changes/Dify/2025-03-11-stop-the-service-command-please-execute-in-the-docker-directory|Stop the service，Command, please execute in the docker directory]]
+- Later: 2025-03-18 · Dify · [[Changes/Dify/2025-03-18-3-developer-workflow-changes-in-1-1-0|3 Developer Workflow changes in 1.1.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

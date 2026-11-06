@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ea7c68bd562ee1bff2fb08f6d8ff0772c36dc686802d41719a20566c36b7b960
+machine_hash: 84a4baad2dbf798ac730615b023e97486997885314f647c9afe19ec3442e438c
 product: cline
 product_name: Cline
 record:
@@ -41,10 +41,9 @@ record:
   title: migrate download MCP response to proto
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-07-02-disabled-jupyter-plugin-by-default-in-cli-runtime-by-li-boxuan-in-https-github-c|Disabled
-  Jupyter plugin by default in CLI runtime]]'
 - '[[Changes/Cursor/2025-07-03-2-apps-and-integrations-changes-in-1-2|2 Apps and Integrations
   changes in 1.2]]'
+- '[[Changes/ElevenLabs/2025-07-07-conversation-enhancements|Conversation Enhancements]]'
 - '[[Changes/Cline/2025-07-08-update-the-no-vscode-postmessage-eslint-rule-to-check-for-any-of-the-vscode-sdk|Update
   the no-vscode-postmessage eslint rule to check for any of the vscode SDK…]]'
 source_release: '[[Releases/Cline/cline-2025-07-08-v3-18-5-github-230641133-4832c382|cline-2025-07-08-v3-18-5-github-230641133-4832c382]]'
@@ -78,7 +77,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2025-07-08 · Cline · [[Changes/Cline/2025-07-08-update-the-no-vscode-postmessage-eslint-rule-to-check-for-any-of-the-vscode-sdk|Update the no-vscode-postmessage eslint rule to check for any of the vscode SDK…]]
-- Later: 2025-07-11 · Gemini CLI · [[Changes/Gemini CLI/2025-07-11-6-apps-and-integrations-changes-in-v0-1-10|6 Apps and Integrations changes in v0.1.10]]
+- Later: 2025-07-10 · Dify · [[Changes/Dify/2025-07-10-10-apps-and-integrations-changes-in-1-6-0|10 Apps and Integrations changes in 1.6.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

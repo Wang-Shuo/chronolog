@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 73c47b416d2134979ff537682e1f6dcbdbbbd4e0ec83d4411dc254c5a3088dc0
+machine_hash: c19c43552e82b3454e12d3b3d30b660fa4b4667c29ef43a0be1abb4115e0f4fa
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -41,9 +41,9 @@ record:
   title: '#9654 Show OAuth error descriptions in callback responses @blevy-oai'
   type: change
 related_changes:
-- '[[Changes/Cline/2026-01-30-cli-authentication-added-vercel-ai-gateway-and-cline-api-key-provider-support-fo-4bce9f|_CLI
+- '[[Changes/Cline/2026-01-30-cli-authentication-added-vercel-ai-gateway-and-cline-api-key-provider-support-fo-4bce9f|CLI
   authentication: Added Vercel AI Gateway and Cline API key provider support…]]'
-- '[[Changes/Cline/2026-01-30-cli-authentication-added-vercel-ai-gateway-and-cline-api-key-provider-support-fo-4f2168|_CLI
+- '[[Changes/Cline/2026-01-30-cli-authentication-added-vercel-ai-gateway-and-cline-api-key-provider-support-fo-4f2168|CLI
   authentication: Added Vercel AI Gateway and Cline API key provider support…]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-30-improve-compatibility-with-remote-mcp-servers-that-use-oauth|Improve
   compatibility with remote MCP servers that use OAuth]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 80449ea12196131f5986874bc97bdc29a6d9e96f05c135f92c259dfa0ba58152
+machine_hash: ecd431648642cc61f0d81b5c4e737e87b5f92e32e4d01af70557cc025291c0cf
 product: cline
 product_name: Cline
 record:
@@ -43,11 +43,11 @@ record:
     Code
   type: change
 related_changes:
-- '[[Changes/Cline/2025-05-12-added-details-to-auto-approve-menu-and-more-sensible-default-controls|Added
-  details to auto approve menu and more sensible default controls]]'
-- '[[Changes/Cursor/2025-05-15-duplicate-chats|Duplicate Chats]]'
+- '[[Changes/Replit/2025-05-16-full-screen-email-verification|Full-screen email verification]]'
 - '[[Changes/Cline/2025-05-18-update-ui-styling-for-auto-approve-menu-items-to-conserve-space|Update
   UI styling for auto-approve menu items to conserve space]]'
+- "[[Changes/Open WebUI/2025-05-19-customizable-pending-user-overlay-you-can-now-tailor-the-overlay-title-and-conte|\U0001F9D1\U0001F4BC
+  Customizable Pending User Overlay]]"
 source_release: '[[Releases/Cline/cline-2025-05-21-v3-16-2-github-219934047-f8709d18|cline-2025-05-21-v3-16-2-github-219934047-f8709d18]]'
 source_type: github_releases
 theme: interface-experience
@@ -77,7 +77,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2025-05-18 · Cline · [[Changes/Cline/2025-05-18-update-ui-styling-for-auto-approve-menu-items-to-conserve-space|Update UI styling for auto-approve menu items to conserve space]]
+- Earlier: 2025-05-19 · Open WebUI · [[Changes/Open WebUI/2025-05-19-customizable-pending-user-overlay-you-can-now-tailor-the-overlay-title-and-conte|🧑💼 Customizable Pending User Overlay]]
 - Later: 2025-05-21 · Cline · [[Changes/Cline/2025-05-21-add-keyboard-shortcut-cmd-to-quickly-focus-cline-from-anywhere-in-vs-code-d699eb|Add keyboard shortcut (Cmd+') to quickly focus Cline from anywhere in VS Code]]
 <!-- chronolog:end -->
 

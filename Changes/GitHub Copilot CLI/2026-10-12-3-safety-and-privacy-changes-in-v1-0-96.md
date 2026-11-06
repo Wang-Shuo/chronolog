@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a07ee93a168275aa106360c207afd82c73b93a36e048a7405d2f35beacec6103
+machine_hash: feccdd5835112a40b7a2b16051959da985e6a2f0e90811d7ac9335e5a7579895
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -47,12 +47,12 @@ record:
   title: 3 Safety and Privacy changes in v1.0.96
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-10-08-2-safety-and-privacy-changes-in-v1-0-94|2
-  Safety and Privacy changes in v1.0.94]]'
 - '[[Changes/Claude Code/2026-10-09-4-safety-and-privacy-changes-in-v2-1-296|4 Safety
   and Privacy changes in v2.1.296]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-09-copilot-config-supports-sandbox-credential-injecthosts-keys-with-key-completion|copilot
   config supports sandbox credential injectHosts keys, with key completion…]]'
+- '[[Changes/Open WebUI/2026-10-10-6-safety-and-privacy-changes-in-v0-12-0|6 Safety
+  and Privacy changes in v0.12.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-10-12-v1-0-96-github-410909545-b0f77f14|github-copilot-cli-2026-10-12-v1-0-96-github-410909545-b0f77f14]]'
 source_type: github_releases
 theme: safety-privacy
@@ -90,8 +90,8 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.96
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-10-09 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-09-copilot-config-supports-sandbox-credential-injecthosts-keys-with-key-completion|copilot config supports sandbox credential injectHosts keys, with key completion…]]
-- Later: 2026-10-12 · OpenHands · [[Changes/OpenHands/2026-10-12-fix-telemetry-retry-automation-consent-sync-by-enyst-in-https-github-com-openhan|fix(telemetry): retry automation consent sync]]
+- Earlier: 2026-10-10 · Open WebUI · [[Changes/Open WebUI/2026-10-10-6-safety-and-privacy-changes-in-v0-12-0|6 Safety and Privacy changes in v0.12.0]]
+- Later: 2026-10-12 · Ollama · [[Changes/Ollama/2026-10-12-updated-readme-and-documentation-with-clearer-privacy-and-cloud-services-wording|Updated README and documentation with clearer privacy and cloud-services wording]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

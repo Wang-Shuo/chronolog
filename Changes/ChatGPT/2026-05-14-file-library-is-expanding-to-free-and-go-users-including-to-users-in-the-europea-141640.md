@@ -5,20 +5,20 @@ description: 'ChatGPT · 2026-05-14 · Files and Data: File library is expanding
   Free and Go users, including to users in the European Economic Area (EEA) making
   it easier…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code
-    interpreter is now rolling out in beta on web]]'
+  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
+    Files and Data changes in 0.2.2]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1043
+  lag_days: 1085
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0e86d846ec4718808bc1f1aaf65f789f85c52e81cf3fe5fca16c953f9faf81ee
+machine_hash: 90872137489b0698a8ef5facaa3edb03b852cf0a6aa4c903d7e942c04cf652a5
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -72,12 +72,11 @@ record:
     European…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-04-23-18423-chore-document-intentional-await-holding-cases-bolinfest|♯18423
-  chore: document intentional await-holding cases @bolinfest]]'
-- '[[Changes/GitHub Copilot CLI/2026-05-05-add-attachment-flag-in-non-interactive-p-prompt-mode-to-attach-files-images-or-n|Add
-  --attachment flag in non-interactive (-p/--prompt) mode to attach files…]]'
-- '[[Changes/Codex CLI/2026-05-07-21379-document-codex-git-commit-attribution-config-henzelmann-oai|♯21379
-  Document Codex git commit attribution config @henzelmann-oai]]'
+- "[[Changes/Open WebUI/2026-05-09-sanitized-spreadsheet-html-previews-spreadsheet-previews-now-sanitize-generated|\U0001F6E1️
+  Sanitized spreadsheet HTML previews. Spreadsheet previews now sanitize…]]"
+- '[[Changes/Dify/2026-05-12-document-indexing-skip-empty-documents-before-vector-embedding-and-validate-miss|Document
+  indexing — skip empty documents before vector embedding and validate…]]'
+- '[[Changes/ElevenLabs/2026-05-13-elevenagents-6f8d80|ElevenAgents]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-05-14-file-library-expands-to-free-and-go-users-with-storage-managemen-94a98ddb|chatgpt-2026-05-14-file-library-expands-to-free-and-go-users-with-storage-managemen-94a98ddb]]'
 source_type: chatgpt_changelog
 theme: file-data
@@ -110,14 +109,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2026-05-07 · Codex CLI · [[Changes/Codex CLI/2026-05-07-21379-document-codex-git-commit-attribution-config-henzelmann-oai|♯21379 Document Codex git commit attribution config @henzelmann-oai]]
+- Earlier: 2026-05-13 · ElevenLabs · [[Changes/ElevenLabs/2026-05-13-elevenagents-6f8d80|ElevenAgents]]
 - Later: 2026-05-15 · ChatGPT · [[Changes/ChatGPT/2026-05-15-we-re-starting-to-roll-out-a-new-personal-finance-experience-in-chatgpt-pro-user|Personal finances in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-06 · ChatGPT · [[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code interpreter is now rolling out in beta on web]]
+- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

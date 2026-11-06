@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1981c8cda69a9b239e3485ec4b542e15ddb546af4f3b5ce6590c35786ec94ac1
+machine_hash: e2dd58cbf052ac49736bfaa27d995c47a640c41616d36619fc6543ca0961fb15
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -89,7 +89,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-03-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-23-2-developer-workflow-changes-in-v1-0-11|2 Developer Workflow changes in v1.0.11]]
-- Later: 2026-03-26 · Claude Code · [[Changes/Claude Code/2026-03-26-5-developer-workflow-changes-in-v2-1-84|5 Developer Workflow changes in v2.1.84]]
+- Later: 2026-03-25 · Open WebUI · [[Changes/Open WebUI/2026-03-25-34-developer-workflow-changes-in-v0-8-11|34 Developer Workflow changes in v0.8.11]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5336dc30b876830d1746f5418cc05dc0c599c964ee6164e8fe3604a3d17ee6cf
+machine_hash: ad5317a16fd7c7ccff310e8ccd323b1c390ebabd71f54466ff9b8d4201bc92a4
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,10 +46,9 @@ record:
   title: 2 Editor Experience changes in v2.1.316
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-10-28-in-devin-local-some-tool-requests-such-as-web-fetches-and-multi-file-edits-now-c|In
-  Devin Local, some tool requests, such as web fetches and multi-file edits, now…]]'
-- '[[Changes/Codex CLI/2026-10-29-3-editor-experience-changes-in-rust-v0-166-0|3 Editor
-  Experience changes in rust-v0.166.0]]'
+- '[[Changes/Lovable/2026-10-29-save-files-to-favorites|Save files to Favorites]]'
+- '[[Changes/Open WebUI/2026-10-29-6-editor-experience-changes-in-v0-12-5|6 Editor
+  Experience changes in v0.12.5]]'
 - '[[Changes/Claude Code/2026-10-30-2-editor-experience-changes-in-v2-1-314|2 Editor
   Experience changes in v2.1.314]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-31-v2-1-316-github-429617179-a30f32c9|claude-code-2026-10-31-v2-1-316-github-429617179-a30f32c9]]'
@@ -92,7 +91,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.316
 ## Nearby in Editor Experience
 
 - Earlier: 2026-10-30 · Claude Code · [[Changes/Claude Code/2026-10-30-2-editor-experience-changes-in-v2-1-314|2 Editor Experience changes in v2.1.314]]
-- Later: 2026-11-03 · OpenHands · [[Changes/OpenHands/2026-11-03-feat-files-add-a-download-button-to-the-files-tab-ohe-3834-by-hieptl-in-https-gi|feat(files): add a Download button to the Files tab (OHE-3834)]]
+- Later: 2026-11-02 · ElevenLabs · [[Changes/ElevenLabs/2026-11-02-svg-assets-svg-uploads-to-assets-stay-svg-and-render-as-vectors-including-in-the|SVG assets: SVG uploads to Assets stay SVG and render as vectors, including…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

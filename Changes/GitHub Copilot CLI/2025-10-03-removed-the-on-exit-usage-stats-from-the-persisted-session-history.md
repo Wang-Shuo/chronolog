@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: projects-workspaces
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b6f052eab61b99ac7da561c077cfcd3ee33392c4d0126c15c1482e6773af7d33
+machine_hash: 41f3dfae93b248ad2fbe48922793dd7c94c4bb0696be5aa8805b5d3a1798b16a
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -41,8 +41,8 @@ record:
   title: Removed the on-exit usage stats from the persisted session history
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-06-12-starting-a-new-project-directly-from-a-chat|Starting
-  a new project directly from a chat]]'
+- "[[Changes/Open WebUI/2025-07-14-instant-folder-based-chat-creation-start-a-new-chat-directly-from-any-folder-jus|\U0001F4C1
+  Instant Folder-Based Chat Creation]]"
 - '[[Changes/Codex CLI/2025-08-20-2352-https-github-com-openai-codex-pull-2352-tui-skip-identical-consecutive-entr|♯2352((source
   link) tui: skip identical consecutive…]]'
 - '[[Changes/ChatGPT/2025-09-04-you-can-now-branch-conversations-in-chatgpt-making-it-easier-to-explore-differen-78eb21|Branch

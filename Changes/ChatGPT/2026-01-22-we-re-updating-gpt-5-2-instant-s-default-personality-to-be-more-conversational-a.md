@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4fd01fea13d130bc40d852f00c7cdcb1dbe8beb895ff7c1f541f770f36852b95
+machine_hash: df3bcb3fda3737f631a211243fbec10377065bbdcba9f3dfacfc5c95ec89f167
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -64,12 +64,12 @@ record:
   title: 5.2 Personality System Prompt Update
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-01-20-we-re-rolling-out-an-age-prediction-model-on-chatgpt-consumer-plans-to-help-dete|Rolling
-  out age prediction]]'
 - '[[Changes/Codex CLI/2026-01-21-5-model-support-changes-in-rust-v0-88-0|5 Model
   Support changes in rust-v0.88.0]]'
 - '[[Changes/Gemini CLI/2026-01-21-6-model-support-changes-in-v0-25-0|6 Model Support
   changes in v0.25.0]]'
+- '[[Changes/Ollama/2026-01-21-a-new-ollama-launch-command-to-use-ollama-s-models-with-claude-code-codex-openco|A
+  new ollama launch command to use Ollama''s models with Claude Code, Codex…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-01-22-5-2-personality-system-prompt-update-efbe6e4b|chatgpt-2026-01-22-5-2-personality-system-prompt-update-efbe6e4b]]'
 source_type: chatgpt_changelog
 theme: model-support
@@ -96,7 +96,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-01-21 · Gemini CLI · [[Changes/Gemini CLI/2026-01-21-6-model-support-changes-in-v0-25-0|6 Model Support changes in v0.25.0]]
+- Earlier: 2026-01-21 · Ollama · [[Changes/Ollama/2026-01-21-a-new-ollama-launch-command-to-use-ollama-s-models-with-claude-code-codex-openco|A new ollama launch command to use Ollama's models with Claude Code, Codex…]]
 - Later: 2026-01-22 · Codex CLI · [[Changes/Codex CLI/2026-01-22-9597-feat-core-modelinfo-model-instructions-template-dylan-hurd-oai|♯9597 feat(core) ModelInfo.model_instructions_template @dylan-hurd-oai]]
 <!-- chronolog:end -->
 

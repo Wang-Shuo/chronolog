@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7bd3de54e4753d1422c38be852cdda801826be3ca2c71ab1f1ad81869341ab59
+machine_hash: 30683aa77e945269df53898d95061305a90d55810f4f10d41be1bd284ac891f1
 product: openhands
 product_name: OpenHands
 record:
@@ -56,12 +56,10 @@ record:
   title: 7 Apps and Integrations changes in 1.9.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-01-2-apps-and-integrations-changes-in-v1-0-68|2
-  Apps and Integrations changes in v1.0.68]]'
-- '[[Changes/Claude Code/2026-07-02-stacked-slash-skill-invocations-like-skill-a-skill-b-do-xyz-now-load-all-leading|Stacked
-  slash-skill invocations like /skill-a /skill-b do XYZ now load all leading…]]'
 - '[[Changes/Claude Code/2026-07-06-improved-mcp-error-messages-clearer-error-when-a-server-config-has-url-but-no-ty|Improved
   MCP error messages]]'
+- '[[Changes/ElevenLabs/2026-07-06-sdk-releases|SDK Releases]]'
+- '[[Changes/ElevenLabs/2026-07-06-elevenagents|ElevenAgents]]'
 source_release: '[[Releases/OpenHands/openhands-2026-07-06-1-9-0-github-349633843-8010776a|openhands-2026-07-06-1-9-0-github-349633843-8010776a]]'
 source_type: github_releases
 theme: apps-integrations
@@ -115,8 +113,8 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/1.9.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-07-06 · Claude Code · [[Changes/Claude Code/2026-07-06-improved-mcp-error-messages-clearer-error-when-a-server-config-has-url-but-no-ty|Improved MCP error messages]]
-- Later: 2026-07-07 · Claude Code · [[Changes/Claude Code/2026-07-07-2-apps-and-integrations-changes-in-v2-1-203|2 Apps and Integrations changes in v2.1.203]]
+- Earlier: 2026-07-06 · ElevenLabs · [[Changes/ElevenLabs/2026-07-06-elevenagents|ElevenAgents]]
+- Later: 2026-07-07 · Claude · [[Changes/Claude/2026-07-07-write-tools-for-the-microsoft-365-connector|Write tools for the Microsoft 365 connector]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

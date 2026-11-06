@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: b3b971da7f938651fa8a5cb77e2681a0942384aa78688859dd15bdaa240dc219
+machine_hash: 6a1aff24abc1ebc0ad24bd32b035fe00a87211f592a0c9c368435ab3399fa0e7
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -79,7 +79,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2025-07-10 · Cline · [[Changes/Cline/2025-07-10-adding-thinking-token-config-to-gemini-2-5-pro-model-and-adding-gemini-2-5-flash|Adding Thinking Token Config to Gemini 2.5 pro model and adding gemini 2.5 flash preview]]
-- Later: 2025-07-11 · Gemini CLI · [[Changes/Gemini CLI/2025-07-11-5-model-support-changes-in-v0-1-10|5 Model Support changes in v0.1.10]]
+- Later: 2025-07-10 · Dify · [[Changes/Dify/2025-07-10-4-model-support-changes-in-1-6-0|4 Model Support changes in 1.6.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

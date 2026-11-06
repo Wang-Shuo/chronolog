@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 36598b18d7ff66524b11ec32621c389d56f3da03532f720c3d41be2b982c35b4
+machine_hash: f0cc549602a7bf8e132f140195eac8d5626e8ffee23d8d7be61a8dc92aa57314
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -50,8 +50,8 @@ record:
   title: '#12935 Speed up subagent startup @daveaitel-openai'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-28-improved-memory-usage-in-long-sessions-with-subagents-by-stripping-heavy-progres|Improved
-  memory usage in long sessions with subagents by stripping heavy progress…]]'
+- "[[Changes/Open WebUI/2026-03-02-general-improvements-various-improvements-were-implemented-across-the-applicatio|\U0001F504
+  General improvements. Various improvements were implemented across…]]"
 - '[[Changes/Cursor/2026-03-03-modals-load-faster|Modals load faster]]'
 - '[[Changes/Claude Code/2026-03-05-9-reliability-and-performance-changes-in-v2-1-69|9
   Reliability and Performance changes in v2.1.69]]'

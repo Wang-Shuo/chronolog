@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c04d10f97a7b38c57078cdff83fd47445f71cc89d53cf5acc5d30aca93ac7901
+machine_hash: 73b407752b897db161e3edb40cad17313cf5fccf6b43da2d9186391968426b95
 product: cline
 product_name: Cline
 record:
@@ -79,8 +79,8 @@ record:
   title: 10 Model Support changes in v4.1.26
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-23-9-model-support-changes-in-rust-v0-164-0|9 Model
-  Support changes in rust-v0.164.0]]'
+- '[[Changes/Open WebUI/2026-10-25-16-model-support-changes-in-v0-12-4|16 Model Support
+  changes in v0.12.4]]'
 - '[[Changes/ChatGPT/2026-10-26-gpt-6-1-terra-is-rolling-out-in-chatgpt-work-and-codex-it-supports-a-range-of-ta|GPT-6.1
   Terra]]'
 - '[[Changes/Claude Code/2026-10-26-5-model-support-changes-in-v2-1-311|5 Model Support
@@ -137,7 +137,7 @@ Source: https://github.com/cline/cline/releases/tag/v4.1.26
 ## Nearby in Model Support
 
 - Earlier: 2026-10-26 · Claude Code · [[Changes/Claude Code/2026-10-26-5-model-support-changes-in-v2-1-311|5 Model Support changes in v2.1.311]]
-- Later: 2026-10-27 · Claude Code · [[Changes/Claude Code/2026-10-27-3-model-support-changes-in-v2-1-312|3 Model Support changes in v2.1.312]]
+- Later: 2026-10-26 · ElevenLabs · [[Changes/ElevenLabs/2026-10-26-fast-llm-service-tier|Fast LLM service tier]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 504817f2924403f8aab3cd482b033e6700231df753f9d61170dc1e803f3a51d3
+machine_hash: cda8c548d5fc534002b689ddec53fb278a8a16552f3c1e034ebfd02775fdddc6
 product: aider
 product_name: Aider
 record:
@@ -45,12 +45,12 @@ record:
     it
   type: change
 related_changes:
-- '[[Changes/Aider/2024-01-04-prevent-false-auto-commits-on-windows-by-ctoth|Prevent
-  false auto-commits on Windows, by @ctoth]]'
-- '[[Changes/OpenHands/2024-06-29-2-mobile-and-desktop-changes-in-0-7-0|2 Mobile and
-  Desktop changes in 0.7.0]]'
-- '[[Changes/Aider/2024-07-18-aider-is-better-at-offering-to-add-files-to-the-chat-on-windows|Aider
-  is better at offering to add files to the chat on Windows]]'
+- "[[Changes/Open WebUI/2024-08-14-haptic-feedback-on-support-devices-android-devices-now-support-haptic-feedback-f|\U0001F933
+  Haptic Feedback on Support Devices]]"
+- '[[Changes/Gemini/2024-08-26-contextual-and-convenient-help-from-gemini|Contextual
+  and convenient help from Gemini]]'
+- "[[Changes/Open WebUI/2024-08-27-call-mode-activation-via-url-added-a-call-true-url-search-parameter-enabling-dir|\U0001F517
+  Call Mode Activation via URL]]"
 source_release: '[[Releases/Aider/aider-2024-09-04-v0-55-0-github-173466209-522ef089|aider-2024-09-04-v0-55-0-github-173466209-522ef089]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -82,7 +82,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2024-07-18 · Aider · [[Changes/Aider/2024-07-18-aider-is-better-at-offering-to-add-files-to-the-chat-on-windows|Aider is better at offering to add files to the chat on Windows]]
+- Earlier: 2024-08-27 · Open WebUI · [[Changes/Open WebUI/2024-08-27-call-mode-activation-via-url-added-a-call-true-url-search-parameter-enabling-dir|🔗 Call Mode Activation via URL]]
 - Later: 2024-09-21 · Aider · [[Changes/Aider/2024-09-21-on-windows-run-correctly-uses-powershell-or-cmd-exe|On Windows, /run correctly uses PowerShell or cmd.exe]]
 <!-- chronolog:end -->
 

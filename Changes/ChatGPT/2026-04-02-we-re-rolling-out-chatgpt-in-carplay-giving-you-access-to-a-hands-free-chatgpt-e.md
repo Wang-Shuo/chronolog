@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: d80729059347170df577e1bab5b7e6ba2784ef56baa5e2a9212701b54bd887fa
+machine_hash: 9c2051865942243fbc0b9261f2c1e94cad6e243b673d6120943ced416b3cb3ca
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -96,7 +96,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-04-01 · Gemini CLI · [[Changes/Gemini CLI/2026-04-01-feat-core-implement-strict-macos-sandboxing-using-seatbelt-allowlist-by-ehedlund|feat(core): implement strict macOS sandboxing using Seatbelt allowlist]]
-- Later: 2026-04-10 · Codex CLI · [[Changes/Codex CLI/2026-04-10-6-mobile-and-desktop-changes-in-rust-v0-119-0|6 Mobile and Desktop changes in rust-v0.119.0]]
+- Later: 2026-04-09 · Claude · [[Changes/Claude/2026-04-09-claude-cowork-generally-available|Claude Cowork generally available]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

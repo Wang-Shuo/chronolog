@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 436de56ee3e57b5fd575b2e627c5c007652d3666a3d3ebd74cc80e1f626e79f4
+machine_hash: 3c1f0927ce7827f4aa3eae1168582a1351f2f9e750750f5717106f8c168cbb34
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -52,12 +52,11 @@ record:
   title: 4 Agent Mode changes in v1.0.62
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-09-3-agent-mode-changes-in-v1-0-61|3 Agent
-  Mode changes in v1.0.61]]'
-- '[[Changes/Claude Code/2026-06-10-sub-agents-can-now-spawn-their-own-sub-agents-up-to-5-levels-deep|Sub-agents
-  can now spawn their own sub-agents (up to 5 levels deep)]]'
-- '[[Changes/OpenHands/2026-06-10-2-agent-mode-changes-in-1-8-0|2 Agent Mode changes
-  in 1.8.0]]'
+- '[[Changes/Replit/2026-06-12-block-malicious-packages-with-package-firewall|Block
+  malicious packages with Package Firewall]]'
+- '[[Changes/Replit/2026-06-12-customize-agent-with-workspace-instructions-and-skills|Customize
+  Agent with workspace instructions and skills]]'
+- '[[Changes/Replit/2026-06-12-agent|Agent]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-06-13-v1-0-62-github-339039020-f6ff7e5e|github-copilot-cli-2026-06-13-v1-0-62-github-339039020-f6ff7e5e]]'
 source_type: github_releases
 theme: agent-mode
@@ -108,7 +107,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.62
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-06-10 · OpenHands · [[Changes/OpenHands/2026-06-10-2-agent-mode-changes-in-1-8-0|2 Agent Mode changes in 1.8.0]]
+- Earlier: 2026-06-12 · Replit · [[Changes/Replit/2026-06-12-agent|Agent]]
 - Later: 2026-06-15 · Claude Code · [[Changes/Claude Code/2026-06-15-2-agent-mode-changes-in-v2-1-178|2 Agent Mode changes in v2.1.178]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9d333387eeb0b935b9a40fe69d2410f1d7a3c0ffc76bbafb79bab69864ef139e
+machine_hash: 900bb316fa93c20cc9fd03a0d223e12fd6630aefc6c69f331d48ddb15e8c1458
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -78,8 +78,8 @@ record:
   title: 18 Agent Mode changes in rust-v0.105.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-02-23-2-agent-mode-changes-in-v0-0-415|2 Agent
-  Mode changes in v0.0.415]]'
+- "[[Changes/Open WebUI/2026-02-23-api-tools-fix-the-api-v1-chat-completions-endpoint-now-properly-respects-caller|\U0001F6E0️
+  API tools fix. The /api/v1/chat/completions endpoint now properly respects…]]"
 - '[[Changes/Cline/2026-02-24-3-agent-mode-changes-in-v3-67-0|3 Agent Mode changes
   in v3.67.0]]'
 - '[[Changes/Cursor/2026-02-24-cloud-agents-can-now-use-the-software-they-create-to-test-changes-and-demo-their-c922e9|Cloud

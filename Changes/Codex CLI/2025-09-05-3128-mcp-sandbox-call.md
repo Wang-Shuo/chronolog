@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c82c058a2f91b46ec3835effc72a57331662659afb413bad0d06622fb0080224
+machine_hash: 6fad8c9ba1fb33a8a75439492133cdd03749104bd54337df4639ff82a76d598d
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -41,10 +41,9 @@ record:
   title: '[#3128] MCP sandbox call'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-08-20-2464-https-github-com-openai-codex-pull-2464-docs-document-writable-roots-for-sa|♯2464((source
-  link) docs: document writable_roots…]]'
-- '[[Changes/Codex CLI/2025-08-26-2587-do-not-show-timeouts-as-sandbox-error-s|♯2587
-  do not show timeouts as "sandbox error"s]]'
+- '[[Changes/Lovable/2025-09-01-security-upgrades|Security upgrades]]'
+- '[[Changes/Dify/2025-09-03-3-safety-and-privacy-changes-in-1-8-1|3 Safety and Privacy
+  changes in 1.8.1]]'
 - '[[Changes/Gemini CLI/2025-09-04-2-safety-and-privacy-changes-in-v0-3-0|2 Safety
   and Privacy changes in v0.3.0]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-09-05-rust-v0-30-0-github-245199079-dedb4e90|codex-cli-2025-09-05-rust-v0-30-0-github-245199079-dedb4e90]]'

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8617d8737d74ec265cab9f83df612f4f08bac1aa78f0cdfc8aacf8d2b6f06384
+machine_hash: 062c218edd803103529406d9c73bca4130c72090f6a6b7d8b0a4b287a8ee3dc0
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -50,8 +50,8 @@ record:
   title: 4 Model Support changes in v0.7.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2025-09-29-changed-the-default-model-back-to-sonnet-4-since-sonnet-4-5-hasn-t-rolled-out-to|Changed
-  the default model back to Sonnet 4 since Sonnet 4.5 hasn''t rolled out to all…]]'
+- "[[Changes/Open WebUI/2025-09-29-the-set-as-default-option-is-now-reliably-clickable-in-model-and-filter-selectio|\U0001F41B
+  The \"Set as default\" option is now reliably clickable in model and filter…]]"
 - '[[Changes/Windsurf/2025-09-29-claude-sonnet-4-5|Claude Sonnet 4.5]]'
 - '[[Changes/Cline/2025-09-30-docs-update-documentation-for-claude-sonnet-4-5-release-by-nickbaumann98-in-http|docs:
   update documentation for Claude Sonnet 4.5 release]]'

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3def9c1ae7029bd6ed6c34374498ff79595bf8f3b192122673e471954e50dd8a
+machine_hash: 9d27a517cbec8871da6f73eb660b224196db16f82d6c1482c16f5603c3606aa1
 product: cursor
 product_name: Cursor
 record:
@@ -79,7 +79,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2023-07-11 · Cursor · [[Changes/Cursor/2023-07-11-this-update-improves-the-prompt-for-cmd-k-when-you-don-t-have-any-code-selected|0.2.46 - Patch for Cmd-k Generates]]
-- Later: 2023-07-19 · Cursor · [[Changes/Cursor/2023-07-19-a-better-flow-for-getting-cmd-k-to-produce-code-with-no-linter-errors-you-should-8eb878|A better flow for getting CMD-k to produce code with no linter errors…]]
+- Later: 2023-07-14 · Dify · [[Changes/Dify/2023-07-14-completion-apps-can-batch-generate-results-and-export-them-as-files|Completion apps can batch generate results and export them as files 📁]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 9a2e17702706486f829e44bd8f1f97e93d3e9fbf8c0ef4649855a4ff3e08bf7e
+machine_hash: 9629f16680ca2e93d79de1d1eaf08fa494c38ebe73d8f26535e78c40e79ffbe4
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -79,7 +79,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-01-14 · Gemini CLI · [[Changes/Gemini CLI/2026-01-14-6-model-support-changes-in-v0-24-0|6 Model Support changes in v0.24.0]]
-- Later: 2026-01-14 · Windsurf · [[Changes/Windsurf/2026-01-14-1-13-8-gpt-5-2-codex-model-changelog-banner|1.13.8 GPT-5.2 Codex model changelog banner]]
+- Later: 2026-01-14 · Ollama · [[Changes/Ollama/2026-01-14-2-model-support-changes-in-v0-14-1|2 Model Support changes in v0.14.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

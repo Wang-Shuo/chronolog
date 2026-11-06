@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 60ae6bcedae202a6148627e76e3b36d77e73355de643266856c6b2c3332985f5
+machine_hash: 1ac6d295564b6703ef521eea6926bf5dbf7d30e2488f5a9a219048f443c094ec
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -59,10 +59,9 @@ record:
   title: 6 Context Window changes in rust-v0.153.0
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-08-31-bring-your-browser-into-work-and-codex-mention-open-tabs-to-use-them-as-context-af2c3a|Bring
-  your browser into Work and Codex]]'
 - '[[Changes/Codex CLI/2026-09-01-9-context-window-changes-in-rust-v0-152-0|9 Context
   Window changes in rust-v0.152.0]]'
+- '[[Changes/Ollama/2026-09-02-report-cached-prompt-tokens|Report cached prompt tokens]]'
 - '[[Changes/Claude Code/2026-09-03-3-context-window-changes-in-v2-1-260|3 Context
   Window changes in v2.1.260]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-09-03-rust-v0-153-0-github-381669913-72d3437f|codex-cli-2026-09-03-rust-v0-153-0-github-381669913-72d3437f]]'

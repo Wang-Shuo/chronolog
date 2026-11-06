@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c7ec22728f76dd28eb0fef24b744b25d9baeb8768b85e745b48657964e67f259
+machine_hash: 6ca3b448916daab475df67efb1810e22d6ad4b1ae64f1384b00800aa129894e8
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -41,8 +41,8 @@ record:
   title: Fish shell completion works when aliases include option aliases like --effort
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-10-16-work-together-invite-teammates-to-edit-the-same-deck-in-real-time-and-leave-shar|Work
-  together]]'
+- '[[Changes/Lovable/2026-10-17-request-a-higher-workspace-role|Request a higher workspace
+  role]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-19-keep-saved-diff-review-comments-when-reopening-an-unchanged-diff-in-the-same-ses|Keep
   saved /diff review comments when reopening an unchanged diff in the same…]]'
 - '[[Changes/OpenHands/2026-10-19-refactor-theme-use-status-classes-for-icons-and-diff-counts-by-enyst-in-https-gi|refactor(theme):

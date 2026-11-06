@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 904057f2b73bfc0ea5ece3b993b46d1589cedd46587427f8ef474a0ca49686ad
+machine_hash: 1f814c7c6255bdbcf20dbc40aaeccab83a70e33cb5e9519186527a8e7f821fec
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
     once per…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-23-4-safety-and-privacy-changes-in-v2-1-310|4 Safety
-  and Privacy changes in v2.1.310]]'
-- '[[Changes/Codex CLI/2026-10-23-15-safety-and-privacy-changes-in-rust-v0-164-0|15
-  Safety and Privacy changes in rust-v0.164.0]]'
+- '[[Changes/Dify/2026-10-23-11-safety-and-privacy-changes-in-1-18-0|11 Safety and
+  Privacy changes in 1.18.0]]'
 - '[[Changes/Windsurf/2026-10-23-electron-42-11-16-and-node-js-24-22-1-for-the-remote-server-with-the-october-202|Electron
   42.11.16 and Node.js 24.22.1 for the remote server, with the October 2026…]]'
+- '[[Changes/Open WebUI/2026-10-25-10-safety-and-privacy-changes-in-v0-12-4|10 Safety
+  and Privacy changes in v0.12.4]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-26-v2-1-311-github-424682562-151da26b|claude-code-2026-10-26-v2-1-311-github-424682562-151da26b]]'
 source_type: github_releases
 theme: safety-privacy
@@ -90,7 +90,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-10-23 · Windsurf · [[Changes/Windsurf/2026-10-23-electron-42-11-16-and-node-js-24-22-1-for-the-remote-server-with-the-october-202|Electron 42.11.16 and Node.js 24.22.1 for the remote server, with the October 2026…]]
+- Earlier: 2026-10-25 · Open WebUI · [[Changes/Open WebUI/2026-10-25-10-safety-and-privacy-changes-in-v0-12-4|10 Safety and Privacy changes in v0.12.4]]
 - Later: 2026-10-26 · Cline · [[Changes/Cline/2026-10-26-starting-or-resuming-a-cloud-sandbox-shows-a-progress-card-with-the-repo-branch|Starting or resuming a cloud sandbox shows a progress card with the repo, branch…]]
 <!-- chronolog:end -->
 

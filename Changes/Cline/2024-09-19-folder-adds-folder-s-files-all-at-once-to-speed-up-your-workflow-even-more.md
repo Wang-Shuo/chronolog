@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: bc5a68f6d704ea2b63fbaa57c7063ce6926db4f819f4c49224341680ec4308a6
+machine_hash: 089cce07076d8d103a3183db9aa268974cb78a3c0fae6620e6914c8186a507c6
 product: cline
 product_name: Cline
 record:
@@ -43,12 +43,12 @@ record:
     even more'
   type: change
 related_changes:
-- '[[Changes/Aider/2024-08-20-improved-editing-performance-on-jupyter-notebook-ipynb-files|Improved
-  editing performance on Jupyter Notebook .ipynb files]]'
 - '[[Changes/Cursor/2024-09-17-cursor-tab-now-auto-imports-symbols-in-python-files-we-ve-also-significantly-imp|Cursor
   Tab now auto-imports symbols in Python files!]]'
 - '[[Changes/Cursor/2024-09-17-composer-can-now-be-added-to-the-ai-pane-this-release-also-includes-many-stabili-7b4c37|Composer
   can now be added to the AI pane]]'
+- '[[Changes/Ollama/2024-09-17-the-ollama-ollama-container-image-will-now-start-running-almost-immediately-lead|The
+  ollama/ollama container image will now start running almost immediately…]]'
 source_release: '[[Releases/Cline/cline-2024-09-19-v1-8-0-github-175998860-1ce361a1|cline-2024-09-19-v1-8-0-github-175998860-1ce361a1]]'
 source_type: github_releases
 theme: reliability-performance
@@ -79,8 +79,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2024-09-17 · Cursor · [[Changes/Cursor/2024-09-17-composer-can-now-be-added-to-the-ai-pane-this-release-also-includes-many-stabili-7b4c37|Composer can now be added to the AI pane]]
-- Later: 2024-10-03 · OpenHands · [[Changes/OpenHands/2024-10-03-improve-the-docker-runtime-build-speed-fix-issues-in-build-by-xingyaoww-in-https|Improve the docker runtime build speed & fix issues in build]]
+- Earlier: 2024-09-17 · Ollama · [[Changes/Ollama/2024-09-17-the-ollama-ollama-container-image-will-now-start-running-almost-immediately-lead|The ollama/ollama container image will now start running almost immediately…]]
+- Later: 2024-09-19 · Open WebUI · [[Changes/Open WebUI/2024-09-19-chat-message-deletion-resolved-issues-with-chat-message-deletion-ensuring-a-smoo|🛠️ Chat Message Deletion]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

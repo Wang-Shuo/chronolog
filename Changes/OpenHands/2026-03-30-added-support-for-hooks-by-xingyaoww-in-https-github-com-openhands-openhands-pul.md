@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: c56afad4dda08658efae9f24198f3175d0c22652b0a5d4f9dfa5b118fe834172
+machine_hash: 45354d12a7874a857e2d75bdb33a8e0156b8fea848a98ab839d54328f5cb5135
 product: openhands
 product_name: OpenHands
 record:
@@ -45,10 +45,10 @@ record:
   title: Added support for hooks
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-03-27-we-re-rolling-out-updated-box-notion-linear-and-dropbox-apps-in-chatgpt-these-up-9f6ee9|Updated
-  Box, Notion, Linear, and Dropbox apps]]'
 - '[[Changes/Claude Code/2026-03-27-reduced-startup-event-loop-stalls-when-many-claude-ai-mcp-connectors-are-configu|Reduced
   startup event-loop stalls when many claude.ai MCP connectors are configured…]]'
+- '[[Changes/Dify/2026-03-27-6-apps-and-integrations-changes-in-1-13-3|6 Apps and
+  Integrations changes in 1.13.3]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-30-5-apps-and-integrations-changes-in-v1-0-13|5
   Apps and Integrations changes in v1.0.13]]'
 source_release: '[[Releases/OpenHands/openhands-2026-03-30-1-6-0-github-303268521-e953c7dd|openhands-2026-03-30-1-6-0-github-303268521-e953c7dd]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5922e470403899db0471481488cc900d827c57eccee85875c09daa65cc271cbb
+machine_hash: f400d9cce0a9084987724b7a17eabfbc4a9c3c8b4dfcbf9a6e9ef5c55816d956
 product: cursor
 product_name: Cursor
 record:
@@ -49,12 +49,12 @@ record:
   title: 5 Reliability and Performance changes in 1.6
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-09-04-chore-remove-cli-flags-all-files-and-show-memory-usage-by-jackwotherspoon-in-htt|chore:
-  remove CLI flags all_files and show_memory_usage]]'
-- '[[Changes/Gemini CLI/2025-09-09-improve-performance-of-shell-commands-with-lots-of-output-by-jakemac53-in-https|improve
-  performance of shell commands with lots of output]]'
 - '[[Changes/Codex CLI/2025-09-10-3323-chore-try-switching-to-cargo-nextest-to-speed-up-ci-builds|♯3323
   chore: try switching to cargo nextest to speed up CI builds]]'
+- "[[Changes/Open WebUI/2025-09-10-various-improvements-were-implemented-across-the-frontend-and-backend-to-enhance|\U0001F504
+  Various improvements were implemented across the frontend and backend to enhance…]]"
+- '[[Changes/Ollama/2025-09-11-3-reliability-and-performance-changes-in-v0-11-11|3
+  Reliability and Performance changes in v0.11.11]]'
 source_release: '[[Releases/Cursor/cursor-2025-09-12-1-6-https-cursor-com-changelog-1-6-f33fb3ea|cursor-2025-09-12-1-6-https-cursor-com-changelog-1-6-f33fb3ea]]'
 source_type: cursor_changelog
 theme: reliability-performance
@@ -102,7 +102,7 @@ Source: https://cursor.com/changelog/1-6
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-09-10 · Codex CLI · [[Changes/Codex CLI/2025-09-10-3323-chore-try-switching-to-cargo-nextest-to-speed-up-ci-builds|♯3323 chore: try switching to cargo nextest to speed up CI builds]]
+- Earlier: 2025-09-11 · Ollama · [[Changes/Ollama/2025-09-11-3-reliability-and-performance-changes-in-v0-11-11|3 Reliability and Performance changes in v0.11.11]]
 - Later: 2025-09-16 · Windsurf · [[Changes/Windsurf/2025-09-16-various-bug-fixes-and-stability-improvements|Various bug fixes and stability improvements]]
 <!-- chronolog:end -->
 

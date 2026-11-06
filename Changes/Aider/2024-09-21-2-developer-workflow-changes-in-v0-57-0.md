@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c89ea098e28a9d2e25c16c8e64e8cde74acd459ccb4bbca3e7be6ddda980a4ab
+machine_hash: 192b994a06b1a445f33abcb7ed6a3eb727b65402df345d6f9096406a9e296fc1
 product: aider
 product_name: Aider
 record:
@@ -41,12 +41,12 @@ record:
   title: 2 Developer Workflow changes in v0.57.0
   type: change
 related_changes:
-- '[[Changes/Cline/2024-09-14-2-developer-workflow-changes-in-v1-7-0|2 Developer Workflow
-  changes in v1.7.0]]'
 - '[[Changes/Cursor/2024-09-17-we-ve-added-support-for-using-cursor-on-macs-over-remote-ssh|Cursor
   adds support for using Cursor on Macs over Remote SSH]]'
 - '[[Changes/Cline/2024-09-19-problems-add-workspace-errors-and-warnings-for-claude-to-fix-no-more-back-and-fo|@problems:
   Add workspace errors and warnings for Claude to fix, no more…]]'
+- '[[Changes/Dify/2024-09-20-3-developer-workflow-changes-in-0-8-3|3 Developer Workflow
+  changes in 0.8.3]]'
 source_release: '[[Releases/Aider/aider-2024-09-21-v0-57-0-github-176248363-c44e2603|aider-2024-09-21-v0-57-0-github-176248363-c44e2603]]'
 source_type: github_releases
 theme: developer-workflow
@@ -82,7 +82,7 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.57.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2024-09-19 · Cline · [[Changes/Cline/2024-09-19-problems-add-workspace-errors-and-warnings-for-claude-to-fix-no-more-back-and-fo|@problems: Add workspace errors and warnings for Claude to fix, no more…]]
+- Earlier: 2024-09-20 · Dify · [[Changes/Dify/2024-09-20-3-developer-workflow-changes-in-0-8-3|3 Developer Workflow changes in 0.8.3]]
 - Later: 2024-09-21 · Cline · [[Changes/Cline/2024-09-21-improved-automatic-linter-compiler-debugging-by-only-sending-claude-new-errors-t|Improved automatic linter/compiler debugging by only sending Claude new errors…]]
 <!-- chronolog:end -->
 

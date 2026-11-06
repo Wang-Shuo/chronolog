@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 23498eb338675e682b73afbf5e87eefd095b74238d46cc88b1cb7c5ed0761fb4
+machine_hash: decc57b1cdc4fdeacc1d1d4848164863ec9ed7f9ad923e537d7aa028aebe487c
 product: windsurf
 product_name: Windsurf
 record:
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2025-06-05 · OpenHands · [[Changes/OpenHands/2025-06-05-added-support-on-windows-without-wsl-by-neubig-in-https-github-com-all-hands-ai|Added support on windows without WSL]]
-- Later: 2025-06-20 · OpenHands · [[Changes/OpenHands/2025-06-20-git-ownership-errors-in-containers-by-llamantino-in-https-github-com-all-hands-a|Git Ownership Errors in containers]]
+- Later: 2025-06-11 · Dify · [[Changes/Dify/2025-06-11-improved-housekeeping-command-now-preserves-avatar-images-and-app-icons-correctl|Improved Housekeeping Command]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

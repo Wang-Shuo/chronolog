@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0b20b5de8e828621a2107812bcae8470ce8650eecef60c37c7fc8f0f00efb87b
+machine_hash: f42ce1eb403cf27ee32212df0929f74d936d7e901f494a98be4925e64d2e46dc
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,10 +43,10 @@ record:
   title: 2 Apps and Integrations changes in rust-v0.112.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-06-reduced-remote-control-poll-rate-to-once-per-10-minutes-while-connected-was-1-2s|Reduced
-  Remote Control /poll rate to once per 10 minutes while connected…]]'
-- '[[Changes/Cline/2026-03-06-handle-streamable-http-mcp-reconnects-more-reliably-after-disconnects|Handle
-  streamable HTTP MCP reconnects more reliably after disconnects]]'
+- '[[Changes/Replit/2026-03-06-connectors-and-ai-integrations-now-enabled-by-default-for-teams-and-enterprise|Connectors
+  and AI Integrations now enabled by default for Teams and Enterprise]]'
+- '[[Changes/Replit/2026-03-06-revenuecat-integration-now-generally-available|RevenueCat
+  integration now generally available]]'
 - '[[Changes/Claude Code/2026-03-07-3-apps-and-integrations-changes-in-v2-1-71|3 Apps
   and Integrations changes in v2.1.71]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-03-08-rust-v0-112-0-github-294459110-d90013b5|codex-cli-2026-03-08-rust-v0-112-0-github-294459110-d90013b5]]'
@@ -86,7 +86,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.112.0
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-03-07 · Claude Code · [[Changes/Claude Code/2026-03-07-3-apps-and-integrations-changes-in-v2-1-71|3 Apps and Integrations changes in v2.1.71]]
-- Later: 2026-03-09 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-09-extensions-are-now-available-as-an-experimental-feature-ask-copilot-to-write-cus|Extensions are now available as an experimental feature]]
+- Later: 2026-03-09 · ElevenLabs · [[Changes/ElevenLabs/2026-03-09-sdk-releases|SDK Releases]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

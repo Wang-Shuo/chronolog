@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0b203d3d9318600ebd49be3907d9b082be39fff02496c4d371d557abe18ae982
+machine_hash: 4663662e211b8e018f5fc2a3635be0d2472e541965a63b56390f317b18215c8c
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -41,12 +41,12 @@ record:
   title: 'docs(cli): add custom keybinding documentation'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-19-2-interface-experience-changes-in-v2-1-80|2 Interface
-  Experience changes in v2.1.80]]'
-- '[[Changes/Cline/2026-03-19-add-feature-tips-tooltip-during-thinking-state|Add feature
-  tips tooltip during thinking state]]'
 - '[[Changes/Codex CLI/2026-03-19-2-interface-experience-changes-in-rust-v0-116-0|2
   Interface Experience changes in rust-v0.116.0]]'
+- '[[Changes/v0/2026-03-20-improved-git-sync-workflow-with-simplified-pr-menu|Improved
+  git sync workflow with simplified PR menu]]'
+- '[[Changes/v0/2026-03-20-added-element-screenshot-attachment-for-design-mode-element-selection|Added
+  element screenshot attachment for design mode element selection]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-03-24-v0-35-0-github-300868580-f6f9b621|gemini-cli-2026-03-24-v0-35-0-github-300868580-f6f9b621]]'
 source_type: github_releases
 theme: interface-experience
@@ -86,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-03-19 · Codex CLI · [[Changes/Codex CLI/2026-03-19-2-interface-experience-changes-in-rust-v0-116-0|2 Interface Experience changes in rust-v0.116.0]]
+- Earlier: 2026-03-20 · v0 · [[Changes/v0/2026-03-20-added-element-screenshot-attachment-for-design-mode-element-selection|Added element screenshot attachment for design mode element selection]]
 - Later: 2026-03-25 · Claude Code · [[Changes/Claude Code/2026-03-25-2-interface-experience-changes-in-v2-1-83|2 Interface Experience changes in v2.1.83]]
 <!-- chronolog:end -->
 

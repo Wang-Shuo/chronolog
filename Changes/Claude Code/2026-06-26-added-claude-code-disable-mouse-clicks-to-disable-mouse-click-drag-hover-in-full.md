@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 12e2432164f0dc14808a86b8ca66536ce92734141ca2b7471ebf31ca265c7bb4
+machine_hash: a30cdb1c1e054a875e193fe0951a3cf4b9290afb9e9985e17b13b437ebb4f637
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,12 +42,12 @@ record:
   title: Added `CLAUDE_CODE_DISABLE_MOUSE_CLICKS` to disable mouse click/drag/hover…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-23-2-interface-experience-changes-in-v2-1-187|2 Interface
-  Experience changes in v2.1.187]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-23-11-interface-experience-changes-in-v1-0-64|11
   Interface Experience changes in v1.0.64]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-24-2-interface-experience-changes-in-v1-0-65|2
   Interface Experience changes in v1.0.65]]'
+- '[[Changes/Dify/2026-06-25-6-interface-experience-changes-in-1-15-0|6 Interface
+  Experience changes in 1.15.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-26-v2-1-195-github-345467919-2d39e460|claude-code-2026-06-26-v2-1-195-github-345467919-2d39e460]]'
 source_type: github_releases
 theme: interface-experience
@@ -79,8 +79,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-06-24 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-24-2-interface-experience-changes-in-v1-0-65|2 Interface Experience changes in v1.0.65]]
-- Later: 2026-06-29 · Cline · [[Changes/Cline/2026-06-29-fully-remove-the-clinepass-feature-flag-so-clinepass-is-available-everywhere-in|Fully remove the ClinePass feature flag so ClinePass is available everywhere in the UI]]
+- Earlier: 2026-06-25 · Dify · [[Changes/Dify/2026-06-25-6-interface-experience-changes-in-1-15-0|6 Interface Experience changes in 1.15.0]]
+- Later: 2026-06-26 · Lovable · [[Changes/Lovable/2026-06-26-search-the-template-and-design-system-pickers|Search the template and design system pickers]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

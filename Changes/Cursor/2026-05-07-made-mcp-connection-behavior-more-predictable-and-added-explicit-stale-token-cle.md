@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b997dc027a10a2326809dcde9109f364687982710b8a4e1efa18ed45e0db901b
+machine_hash: d61d842044adcd97bfc28c81ff76672e91d09a42769057c7e51f1c23c9a96a53
 product: cursor
 product_name: Cursor
 record:
@@ -86,7 +86,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-05-07 · Codex CLI · [[Changes/Codex CLI/2026-05-07-39-apps-and-integrations-changes-in-rust-v0-129-0|39 Apps and Integrations changes in rust-v0.129.0]]
-- Later: 2026-05-08 · Claude Code · [[Changes/Claude Code/2026-05-08-changed-plugin-marketplace-removal-key-to-d-matching-delete-elsewhere-instead-of|Changed plugin marketplace removal key to d (matching delete elsewhere) instead…]]
+- Later: 2026-05-07 · Ollama · [[Changes/Ollama/2026-05-07-2-apps-and-integrations-changes-in-v0-23-2|2 Apps and Integrations changes in v0.23.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

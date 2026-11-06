@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a075b40e9bdf8d01410cb55bb05a406d595cbf60c3dfba3f140862185726fb12
+machine_hash: 5b68b1ac0e62e262e7c588dd8ae5ddfd41d56328c43348037c7273df82717e70
 product: aider
 product_name: Aider
 record:
@@ -77,7 +77,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2025-03-23 · Cursor · [[Changes/Cursor/2025-03-23-chat-tabs|Chat tabs]]
-- Later: 2025-04-01 · Cline · [[Changes/Cline/2025-04-01-2-editor-experience-changes-in-v3-8-5|2 Editor Experience changes in v3.8.5]]
+- Later: 2025-03-28 · Lovable · [[Changes/Lovable/2025-03-28-supabase-functions-now-get-deployed-when-updated-in-code-editor-also-supabase-fu|Supabase functions now get deployed when updated in code editor]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

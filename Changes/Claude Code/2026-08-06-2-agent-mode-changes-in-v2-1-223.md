@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: eba8e24b8f05eef77df926af260a8211516029a16212592a1669f000f0783da6
+machine_hash: 1ec13fa2ebe84f800ea27db58a9f91c7c642f7e9216067d41c6628c9bf360c0e
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,8 +45,7 @@ record:
   title: 2 Agent Mode changes in v2.1.223
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-07-30-docs-refresh-agents-md-guidance-by-all-hands-bot-in-https-github-com-openhands-o|docs:
-  refresh AGENTS.md guidance]]'
+- '[[Changes/ElevenLabs/2026-08-03-packages|Packages]]'
 - '[[Changes/GitHub Copilot CLI/2026-08-03-a-run-whose-prompt-is-piped-over-stdin-now-treats-its-sessionend-hook-the-same-w|A
   run whose prompt is piped over stdin now treats its sessionEnd hook the same way…]]'
 - '[[Changes/OpenHands/2026-08-03-3-agent-mode-changes-in-v1-9-0|3 Agent Mode changes

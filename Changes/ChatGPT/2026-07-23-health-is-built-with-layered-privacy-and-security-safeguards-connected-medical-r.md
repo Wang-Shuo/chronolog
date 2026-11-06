@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0df171ab8e4bd99b09a55b9cd944a2cd90a97f8389178fe45b5d0d968d2548ef
+machine_hash: 74533a537912f18543ba5a08d1ee070542ae8b9d7b6b373826c4eb44f1ef65a9
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -56,10 +56,10 @@ record:
   title: Health is built with layered privacy and security safeguards
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-21-fixed-remote-control-sessions-not-showing-a-pending-permission-prompt-or-dialog|Fixed
-  Remote Control sessions not showing a pending permission prompt or dialog…]]'
 - '[[Changes/Codex CLI/2026-07-21-17-safety-and-privacy-changes-in-rust-v0-145-0|17
   Safety and Privacy changes in rust-v0.145.0]]'
+- '[[Changes/v0/2026-07-21-typed-prompts-survive-clarifying-questions-permission-approvals-and-queued-submi|Typed
+  prompts survive clarifying questions, permission approvals, and queued…]]'
 - '[[Changes/Claude Code/2026-07-22-3-safety-and-privacy-changes-in-v2-1-218|3 Safety
   and Privacy changes in v2.1.218]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-07-23-health-in-chatgpt-4cb3bdf6|chatgpt-2026-07-23-health-in-chatgpt-4cb3bdf6]]'

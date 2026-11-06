@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 88f56c39699440c2588b7d40b961ac78b29243504c76b5c0d5e718ad1c95c229
+machine_hash: 0ff8d04917fcfaecf351ebd0d3d6bbefdaf87a451e5d71bf0b86fd1dd008e42b
 product: cline
 product_name: Cline
 record:
@@ -42,12 +42,12 @@ record:
   title: 2 Model Support changes in v3.55.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-01-25-5-model-support-changes-in-rust-v0-90-0|5 Model
-  Support changes in rust-v0.90.0]]'
 - '[[Changes/Cline/2026-01-27-3-model-support-changes-in-v3-54-0|3 Model Support changes
   in v3.54.0]]'
 - '[[Changes/Codex CLI/2026-01-27-2-model-support-changes-in-rust-v0-92-0|2 Model
   Support changes in rust-v0.92.0]]'
+- '[[Changes/Ollama/2026-01-27-new-ollama-launch-clawdbot-command-for-launching-clawdbot-using-ollama-models|New
+  ollama launch clawdbot command for launching Clawdbot using Ollama models]]'
 source_release: '[[Releases/Cline/cline-2026-01-28-v3-55-0-github-280533078-64c27930|cline-2026-01-28-v3-55-0-github-280533078-64c27930]]'
 source_type: github_releases
 theme: model-support
@@ -80,7 +80,7 @@ Source: https://github.com/cline/cline/releases/tag/v3.55.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-01-27 · Codex CLI · [[Changes/Codex CLI/2026-01-27-2-model-support-changes-in-rust-v0-92-0|2 Model Support changes in rust-v0.92.0]]
+- Earlier: 2026-01-27 · Ollama · [[Changes/Ollama/2026-01-27-new-ollama-launch-clawdbot-command-for-launching-clawdbot-using-ollama-models|New ollama launch clawdbot command for launching Clawdbot using Ollama models]]
 - Later: 2026-01-28 · Gemini CLI · [[Changes/Gemini CLI/2026-01-28-4-model-support-changes-in-v0-26-0|4 Model Support changes in v0.26.0]]
 <!-- chronolog:end -->
 

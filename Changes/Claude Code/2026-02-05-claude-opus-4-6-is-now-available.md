@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 839d5896e7da150f8b52d1827f5bf340ac078c460692a8a05bdf2b877aa81760
+machine_hash: ad78cd5606969ac7cd488e0181c9bbd0f93f8f258d17c44fea0a36337f1eaf6b
 product: claude-code
 product_name: Claude Code
 record:
@@ -41,12 +41,10 @@ record:
   title: Claude Opus 4.6 is now available!
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-02-04-added-websocket-side-rate-limit-signaling-via-a-new-codex-rate-limits-event-with|Added
-  websocket-side rate limit signaling via a new codex.rate_limits event…]]'
-- '[[Changes/Codex CLI/2026-02-04-2-model-support-changes-in-rust-v0-95-0|2 Model
-  Support changes in rust-v0.95.0]]'
 - '[[Changes/Gemini CLI/2026-02-04-6-model-support-changes-in-v0-27-0|6 Model Support
   changes in v0.27.0]]'
+- '[[Changes/Claude/2026-02-05-claude-opus-4-6-launch|Claude Opus 4.6 launch]]'
+- '[[Changes/Claude/2026-02-05-claude-for-excel-improvements|Claude for Excel improvements]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-05-v2-1-32-github-283457817-0910feb0|claude-code-2026-02-05-v2-1-32-github-283457817-0910feb0]]'
 source_type: github_releases
 theme: model-support
@@ -80,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-02-04 · Gemini CLI · [[Changes/Gemini CLI/2026-02-04-6-model-support-changes-in-v0-27-0|6 Model Support changes in v0.27.0]]
+- Earlier: 2026-02-05 · Claude · [[Changes/Claude/2026-02-05-claude-for-excel-improvements|Claude for Excel improvements]]
 - Later: 2026-02-05 · Cline · [[Changes/Cline/2026-02-05-anthopic-opus-4-6|Anthopic Opus 4.6]]
 <!-- chronolog:end -->
 

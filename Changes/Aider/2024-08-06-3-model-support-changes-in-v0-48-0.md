@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: be4b68a7dc2de053a929f1a42393708f2ede12130682a860a05bb38c29dd8a6b
+machine_hash: 174ee53beed5e2a84cb3232aa7cd88bb3d190676007bfefc6afe8efd34cff7b3
 product: aider
 product_name: Aider
 record:
@@ -44,12 +44,12 @@ record:
   title: 3 Model Support changes in v0.48.0
   type: change
 related_changes:
-- '[[Changes/Aider/2024-07-29-fall-back-to-main-model-if-weak-model-is-unable-to-generate-a-commit-message|Fall
-  back to main model if weak model is unable to generate a commit message]]'
 - '[[Changes/Aider/2024-07-31-added-strong-model-as-a-fallback-for-commit-messages-and-chat-summaries|Added
   strong model as a fallback for commit messages (and chat summaries)]]'
 - '[[Changes/OpenHands/2024-08-01-add-unit-tests-for-llm-init-function-by-neubig-in-https-github-com-opendevin-ope|Add
   unit tests for LLM init function]]'
+- '[[Changes/Open WebUI/2024-08-02-2-model-support-changes-in-v0-3-11|2 Model Support
+  changes in v0.3.11]]'
 source_release: '[[Releases/Aider/aider-2024-08-06-v0-48-0-github-168916125-f20efdec|aider-2024-08-06-v0-48-0-github-168916125-f20efdec]]'
 source_type: github_releases
 theme: model-support
@@ -85,8 +85,8 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.48.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2024-08-01 · OpenHands · [[Changes/OpenHands/2024-08-01-add-unit-tests-for-llm-init-function-by-neubig-in-https-github-com-opendevin-ope|Add unit tests for LLM init function]]
-- Later: 2024-08-10 · Aider · [[Changes/Aider/2024-08-10-5-model-support-changes-in-v0-49-0|5 Model Support changes in v0.49.0]]
+- Earlier: 2024-08-02 · Open WebUI · [[Changes/Open WebUI/2024-08-02-2-model-support-changes-in-v0-3-11|2 Model Support changes in v0.3.11]]
+- Later: 2024-08-06 · Dify · [[Changes/Dify/2024-08-06-19-model-support-changes-in-0-6-16|19 Model Support changes in 0.6.16]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

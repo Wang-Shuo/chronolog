@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7948fbae527c705b82d85a647da6c29adf2090fe181ca8ea036ef93835baa262
+machine_hash: 4a9f6ff20c9d00c8ea6f0299a288d163cb3a0a769ffd069526ae2f6dc72bf82b
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -78,7 +78,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2025-12-18 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-12-18-diff-display-uses-your-configured-git-pager-delta-diff-so-fancy|Diff display uses your configured git pager (delta, diff-so-fancy)]]
-- Later: 2025-12-19 · Claude Code · [[Changes/Claude Code/2025-12-19-vscode-added-tab-icon-badges-showing-pending-permissions-blue-and-unread-complet|VSCode Added tab icon badges showing pending permissions (blue) and unread…]]
+- Later: 2025-12-18 · v0 · [[Changes/v0/2025-12-18-you-can-now-use-keyboard-shortcuts-in-v0-s-design-mode|Keyboard shortcuts in Design Mode]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

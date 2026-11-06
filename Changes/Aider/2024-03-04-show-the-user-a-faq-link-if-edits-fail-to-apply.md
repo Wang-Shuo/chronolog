@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6d4fe3e1c77068459c9fd8b25accb0bce3f6b886cc927038bc7a65f3277bf700
+machine_hash: 0e0cde86ee38cccf8d077000d2fd6ba3e01807b200282d47e3f744dcb71956c8
 product: aider
 product_name: Aider
 record:
@@ -78,7 +78,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2024-02-23 · Cursor · [[Changes/Cursor/2024-02-23-cursor-is-now-based-on-vs-code-1-86-2-among-other-things-this-adds-sticky-scroll|VS Code 1.86.2]]
-- Later: 2024-03-20 · Cursor · [[Changes/Cursor/2024-03-20-team-invites-we-made-it-a-bit-easier-for-you-to-invite-your-colleagues-to-your-c|Team invites: We made it a bit easier for you to invite your colleagues…]]
+- Later: 2024-03-10 · Open WebUI · [[Changes/Open WebUI/2024-03-10-misalignment-issue-corrected-misalignment-of-edit-and-delete-icons-when-chat-tit|🔧 Misalignment Issue]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

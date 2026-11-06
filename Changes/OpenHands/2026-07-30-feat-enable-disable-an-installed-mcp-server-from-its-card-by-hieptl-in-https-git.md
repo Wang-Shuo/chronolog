@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f5d32cc8b401555ff41a5a2313a2dadee2084d0d3be1737796dccdff030db34a
+machine_hash: d796216a6411eb45e35e4cdc41c79f1a7ed18cde0dc6bc3655b02d409e2b597f
 product: openhands
 product_name: OpenHands
 record:
@@ -42,10 +42,10 @@ record:
   title: 'feat: enable/disable an installed MCP server from its card'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-07-29-we-re-beginning-to-roll-out-sign-in-with-chatgpt-across-select-plugins-and-partn|Sign
-  in with ChatGPT]]'
 - '[[Changes/Codex CLI/2026-07-29-47-apps-and-integrations-changes-in-rust-v0-146-0|47
   Apps and Integrations changes in rust-v0.146.0]]'
+- '[[Changes/Lovable/2026-07-29-app-chat-connectors-amazon-redshift-and-microsoft-fabric|App
+  + chat connectors: Amazon Redshift and Microsoft Fabric]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-30-2-apps-and-integrations-changes-in-v1-0-76|2
   Apps and Integrations changes in v1.0.76]]'
 source_release: '[[Releases/OpenHands/openhands-2026-07-30-v1-8-0-github-362592144-c13618f5|openhands-2026-07-30-v1-8-0-github-362592144-c13618f5]]'

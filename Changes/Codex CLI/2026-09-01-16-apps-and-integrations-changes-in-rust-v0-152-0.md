@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 95a2df43efba23b69ed217a6e64cc32add05ec3836490422250c87d5cb980cb9
+machine_hash: 8306ee019ab32156a812e580561c5ae0f01c333c36f96e9963c87da5e469daa2
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -74,8 +74,8 @@ record:
   title: 16 Apps and Integrations changes in rust-v0.152.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-08-29-11-apps-and-integrations-changes-in-rust-v0-151-0|11
-  Apps and Integrations changes in rust-v0.151.0]]'
+- '[[Changes/Lovable/2026-08-31-create-a-connector-for-any-api|Create a connector
+  for any API]]'
 - '[[Changes/ChatGPT/2026-09-01-eligible-chatgpt-for-clinicians-users-in-the-united-states-can-now-use-healthcar|Healthcare
   Public Data in ChatGPT for Clinicians]]'
 - '[[Changes/Claude Code/2026-09-01-2-apps-and-integrations-changes-in-v2-1-257|2
@@ -151,7 +151,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.152.0
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-09-01 · Claude Code · [[Changes/Claude Code/2026-09-01-2-apps-and-integrations-changes-in-v2-1-257|2 Apps and Integrations changes in v2.1.257]]
-- Later: 2026-09-02 · Claude Code · [[Changes/Claude Code/2026-09-02-5-apps-and-integrations-changes-in-v2-1-259|5 Apps and Integrations changes in v2.1.259]]
+- Later: 2026-09-01 · Lovable · [[Changes/Lovable/2026-09-01-connect-a-tool-from-a-pasted-api-key|Connect a tool from a pasted API key]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

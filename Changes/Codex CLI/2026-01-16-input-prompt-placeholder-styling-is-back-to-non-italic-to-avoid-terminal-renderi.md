@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 692397a14e01de1c381e2a5a0aac94381654fa6c5c51fc57ab3481528a0b70dd
+machine_hash: 729f2fdceaaac3ddfca29ed8c189c81b51e9f683b5ed10d8786a182e2efc39d6
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,10 +42,10 @@ record:
     rendering…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-01-14-5-developer-workflow-changes-in-rust-v0-81-0|5 Developer
-  Workflow changes in rust-v0.81.0]]'
 - '[[Changes/Gemini CLI/2026-01-14-feat-add-folder-suggestions-to-dir-add-command-by-jackwotherspoon-in-https-githu|feat:
   add folder suggestions to /dir add command]]'
+- '[[Changes/Dify/2026-01-15-please-use-the-following-command-instead-for-details-please-read-this-https-gith|
+  Please use the following command instead]]'
 - '[[Changes/Claude Code/2026-01-16-added-session-url-attribution-to-commits-and-prs-created-from-web-sessions|Added
   session URL attribution to commits and PRs created from web sessions]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-01-16-rust-v0-86-0-github-277242575-5861dc84|codex-cli-2026-01-16-rust-v0-86-0-github-277242575-5861dc84]]'

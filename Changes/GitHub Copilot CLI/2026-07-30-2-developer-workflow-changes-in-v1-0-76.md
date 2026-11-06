@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ebbbde821e7aa1d96470ca11770dcb10f82a7e01a14710495d4ba598f3d84e30
+machine_hash: 59023a639b3e7dd041979336203b704925ae870fdf5be61c16054af728f98c04
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -42,8 +42,8 @@ record:
   title: 2 Developer Workflow changes in v1.0.76
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-23-2-developer-workflow-changes-in-v1-0-74|2
-  Developer Workflow changes in v1.0.74]]'
+- '[[Changes/Dify/2026-07-28-4-developer-workflow-changes-in-1-16-1|4 Developer Workflow
+  changes in 1.16.1]]'
 - '[[Changes/Gemini CLI/2026-07-28-feat-evals-add-eval-coverage-report-command-by-ved015-in-https-github-com-google|feat(evals):
   add eval coverage report command]]'
 - '[[Changes/Codex CLI/2026-07-29-12-developer-workflow-changes-in-rust-v0-146-0|12
@@ -91,7 +91,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.76
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-07-29 · Codex CLI · [[Changes/Codex CLI/2026-07-29-12-developer-workflow-changes-in-rust-v0-146-0|12 Developer Workflow changes in rust-v0.146.0]]
-- Later: 2026-08-02 · Cline · [[Changes/Cline/2026-08-02-2-developer-workflow-changes-in-v4-1-3|2 Developer Workflow changes in v4.1.3]]
+- Later: 2026-07-31 · v0 · [[Changes/v0/2026-07-31-duplicating-a-git-backed-chat-produces-a-working-copy-instead-of-one-that-fails|Duplicating a Git-backed chat produces a working copy instead of one that fails to render]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

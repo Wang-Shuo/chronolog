@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2acbd2b2bf94c39b55675a9083fb8422b5a5fff3e86f3e9a775b765ceb5c6b82
+machine_hash: f89b7c457c315fcc0ff96871fa19f060b4cb0165b1001cb0005acf4440d77cdf
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,12 +44,9 @@ record:
   title: 2 Apps and Integrations changes in v1.0.41
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-01-6-apps-and-integrations-changes-in-v1-0-40|6
-  Apps and Integrations changes in v1.0.40]]'
-- '[[Changes/OpenHands/2026-05-01-2-apps-and-integrations-changes-in-1-7-0|2 Apps
-  and Integrations changes in 1.7.0]]'
-- '[[Changes/Claude Code/2026-05-04-6-apps-and-integrations-changes-in-v2-1-128|6
-  Apps and Integrations changes in v2.1.128]]'
+- '[[Changes/ElevenLabs/2026-05-04-sdk-releases|SDK Releases]]'
+- '[[Changes/ElevenLabs/2026-05-04-python-sdk|Python SDK]]'
+- '[[Changes/ElevenLabs/2026-05-04-javascript-sdk|JavaScript SDK]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-05-05-v1-0-41-github-318057614-7319e863|github-copilot-cli-2026-05-05-v1-0-41-github-318057614-7319e863]]'
 source_type: github_releases
 theme: apps-integrations
@@ -90,7 +87,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.41
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-05-04 · Claude Code · [[Changes/Claude Code/2026-05-04-6-apps-and-integrations-changes-in-v2-1-128|6 Apps and Integrations changes in v2.1.128]]
+- Earlier: 2026-05-04 · ElevenLabs · [[Changes/ElevenLabs/2026-05-04-javascript-sdk|JavaScript SDK]]
 - Later: 2026-05-06 · Claude Code · [[Changes/Claude Code/2026-05-06-added-claude-code-session-id-environment-variable-to-the-bash-tool-subprocess-en|Added CLAUDE_CODE_SESSION_ID environment variable to the Bash tool subprocess…]]
 <!-- chronolog:end -->
 

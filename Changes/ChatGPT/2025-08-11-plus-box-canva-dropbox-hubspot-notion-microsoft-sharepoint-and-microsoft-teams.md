@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1f6ea0f683bb54b3ac2f2dcbfff1a0c2f5a84579ad3e68d02300539390edf578
+machine_hash: 1699e897e8452d3213fffae8db3001c7032a8019d735a0922dbbbfc94ed4c838
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,10 +42,10 @@ record:
     Teams'
   type: change
 related_changes:
-- '[[Changes/Cline/2025-07-31-refactor-setup-e2e-tests-to-use-shared-mock-server-by-abeatrix-in-https-github-c|refactor:
-  setup e2e tests to use shared mock server]]'
-- '[[Changes/Cursor/2025-08-06-ai-code-tracking-api-get-commit-level-visibility-into-ai-usage-and-accepted-chan|AI
-  code tracking API]]'
+- '[[Changes/Replit/2025-08-08-replit-app-to-organization-transfer|Replit App to Organization
+  transfer]]'
+- '[[Changes/Open WebUI/2025-08-09-3-collaboration-changes-in-v0-6-19|3 Collaboration
+  changes in v0.6.19]]'
 - '[[Changes/ChatGPT/2025-08-11-pro-microsoft-teams-and-github|Pro: Microsoft Teams
   and GitHub]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-08-11-additional-connectors-for-plus-and-pro-6d22248a|chatgpt-2025-08-11-additional-connectors-for-plus-and-pro-6d22248a]]'
@@ -78,8 +78,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2025-08-06 · Cursor · [[Changes/Cursor/2025-08-06-ai-code-tracking-api-get-commit-level-visibility-into-ai-usage-and-accepted-chan|AI code tracking API]]
-- Later: 2025-08-16 · Cline · [[Changes/Cline/2025-08-16-focus-chain-regex-moved-to-shared-by-canvrno-in-https-github-com-cline-cline-pul|Focus Chain regex moved to /shared]]
+- Earlier: 2025-08-09 · Open WebUI · [[Changes/Open WebUI/2025-08-09-3-collaboration-changes-in-v0-6-19|3 Collaboration changes in v0.6.19]]
+- Later: 2025-08-11 · Lovable · [[Changes/Lovable/2025-08-11-project-invites-workflow|Project invites workflow]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

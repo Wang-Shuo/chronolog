@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 99dd16cc2b2a56e3062521a78b00d25c03d86942a223ae2a865bc8c99c8d8e6f
+machine_hash: eaf75ba75829fffb5ed2e34ffeabd9e9da34cdb59e9b368c41657d3aba90b60c
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,12 +44,12 @@ record:
   title: 3 Search and Browsing changes in rust-v0.93.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-01-16-2-search-and-browsing-changes-in-rust-v0-86-0|2
-  Search and Browsing changes in rust-v0.86.0]]'
 - '[[Changes/Cursor/2026-01-16-added-webfetch-websearch-tools-approval-options-for-granular-controls-over-web-s|Added
   WebFetch, WebSearch tools, & approval options for granular controls over web…]]'
 - '[[Changes/Codex CLI/2026-01-27-5-search-and-browsing-changes-in-rust-v0-92-0|5
   Search and Browsing changes in rust-v0.92.0]]'
+- '[[Changes/Gemini/2026-01-28-meet-your-new-ai-browsing-assistant-gemini-in-chrome|Meet
+  your new AI browsing assistant: Gemini in Chrome]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-01-31-rust-v0-93-0-github-281755443-684a63d8|codex-cli-2026-01-31-rust-v0-93-0-github-281755443-684a63d8]]'
 source_type: github_releases
 theme: search-browsing
@@ -98,8 +98,8 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.93.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Search and Browsing
 
-- Earlier: 2026-01-27 · Codex CLI · [[Changes/Codex CLI/2026-01-27-5-search-and-browsing-changes-in-rust-v0-92-0|5 Search and Browsing changes in rust-v0.92.0]]
-- Later: 2026-02-04 · Codex CLI · [[Changes/Codex CLI/2026-02-04-2-search-and-browsing-changes-in-rust-v0-95-0|2 Search and Browsing changes in rust-v0.95.0]]
+- Earlier: 2026-01-28 · Gemini · [[Changes/Gemini/2026-01-28-meet-your-new-ai-browsing-assistant-gemini-in-chrome|Meet your new AI browsing assistant: Gemini in Chrome]]
+- Later: 2026-02-03 · Ollama · [[Changes/Ollama/2026-02-03-sub-agent-support-for-ollama-launch-for-planning-deep-research-and-similar-tasks|Sub-agent support for ollama launch for planning, deep research, and similar tasks]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

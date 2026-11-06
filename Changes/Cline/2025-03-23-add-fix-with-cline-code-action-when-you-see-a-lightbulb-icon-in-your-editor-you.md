@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9a24e8ff24be6cf285bceeb992ad4be85c2c91d839f34e8dd4733b8c1b5458bc
+machine_hash: 2d11a62d1d43bd7e76457a4a1193dfaf0c53aa539fdc39d9ece295e4ad4eadab
 product: cline
 product_name: Cline
 record:
@@ -58,12 +58,11 @@ record:
     editor, you…
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-02-19-tab-rebinding-tab-suggestions-can-now-be-rebound-to-a-different-keybinding-using|Tab
-  rebinding: Tab suggestions can now be rebound to a different keybinding using…]]'
-- '[[Changes/Cursor/2025-03-11-0-47-2-cursor-tab-accepts-work-with-single-line-selections|0.47.2:
-  Cursor Tab accepts work with single-line selections]]'
+- '[[Changes/Gemini/2025-03-13-ask-gemini-to-remember-the-things-you-care-about-now-rolling-out-to-more-users-a|Ask
+  Gemini to remember the things you care about]]'
 - '[[Changes/Aider/2025-03-21-added-commands-to-switch-between-model-types-editor-model-for-editor-model-and-w|Added
   commands to switch between model types]]'
+- '[[Changes/Replit/2025-03-21-visual-editor|Visual Editor]]'
 source_release: '[[Releases/Cline/cline-2025-03-23-v3-8-0-github-207655603-f6979596|cline-2025-03-23-v3-8-0-github-207655603-f6979596]]'
 source_type: github_releases
 theme: editor-experience
@@ -98,7 +97,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2025-03-21 · Aider · [[Changes/Aider/2025-03-21-added-commands-to-switch-between-model-types-editor-model-for-editor-model-and-w|Added commands to switch between model types]]
+- Earlier: 2025-03-21 · Replit · [[Changes/Replit/2025-03-21-visual-editor|Visual Editor]]
 - Later: 2025-03-23 · Cursor · [[Changes/Cursor/2025-03-23-0-48-2-allows-users-to-accept-reject-file-edited-in-another-chat-tab|0.48.2 - Allows users to accept/reject file edited in another chat tab]]
 <!-- chronolog:end -->
 

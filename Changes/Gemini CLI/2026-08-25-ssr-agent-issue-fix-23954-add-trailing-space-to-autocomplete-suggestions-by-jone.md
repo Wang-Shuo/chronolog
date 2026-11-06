@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: c40b28a185380ba163bd792663db45c585870e84aebfff31a501aea682a1d0e7
+machine_hash: b99a9d2d89b8e7312ab3f1335af4797693267a98fee0202f0cd892445702eb54
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -54,11 +54,11 @@ record:
   title: '[SSR Agent] Issue Fix (23954): Add trailing space to autocomplete suggestions'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-21-3-interface-experience-changes-in-v2-1-239|3 Interface
-  Experience changes in v2.1.239]]'
 - '[[Changes/OpenHands/2026-08-21-2-interface-experience-changes-in-v1-15-0|2 Interface
   Experience changes in v1.15.0]]'
 - '[[Changes/Windsurf/2026-08-21-devin-cloud|Devin Cloud]]'
+- '[[Changes/Dify/2026-08-25-9-interface-experience-changes-in-1-17-0|9 Interface
+  Experience changes in 1.17.0]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-08-25-v0-57-0-github-376624905-82c95bfa|gemini-cli-2026-08-25-v0-57-0-github-376624905-82c95bfa]]'
 source_type: github_releases
 theme: interface-experience
@@ -92,8 +92,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-08-21 · Windsurf · [[Changes/Windsurf/2026-08-21-devin-cloud|Devin Cloud]]
-- Later: 2026-08-26 · Claude Code · [[Changes/Claude Code/2026-08-26-changed-the-prompt-footer-pr-badge-to-skip-its-github-re-check-on-terminal-refoc|Changed the prompt-footer PR badge to skip its GitHub re-check on terminal refocus…]]
+- Earlier: 2026-08-25 · Dify · [[Changes/Dify/2026-08-25-9-interface-experience-changes-in-1-17-0|9 Interface Experience changes in 1.17.0]]
+- Later: 2026-08-25 · Lovable · [[Changes/Lovable/2026-08-25-see-time-and-cost-while-lovable-works|See time and cost while Lovable works]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

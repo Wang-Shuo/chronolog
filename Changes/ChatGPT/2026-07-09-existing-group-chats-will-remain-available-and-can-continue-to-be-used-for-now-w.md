@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 11fd2aba1f5ffd5526eecbae5b2d8dd82d313ef9ccb0ed12fcfedf6ea09433b3
+machine_hash: f9803adf815fc5a3387779b72de3bfbd694fd51ff96452a97bf12d2ae7c3e287
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -48,10 +48,10 @@ record:
     now
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-06-30-we-ve-expanded-team-marketplaces-to-support-team-mcps-and-organization-groups|Cursor
-  expands team marketplaces to support Team MCPs and organization groups]]'
-- '[[Changes/GitHub Copilot CLI/2026-06-30-2-collaboration-changes-in-v1-0-66|2 Collaboration
-  changes in v1.0.66]]'
+- '[[Changes/Lovable/2026-07-07-the-last-owner-cannot-leave-a-shared-folder|The last
+  owner cannot leave a shared folder]]'
+- '[[Changes/v0/2026-07-07-3-collaboration-changes-in-grouped-tool-approvals-richer-mcp|3
+  Collaboration changes in Grouped tool approvals, richer MCP…]]'
 - '[[Changes/Codex CLI/2026-07-08-5-collaboration-changes-in-rust-v0-143-0|5 Collaboration
   changes in rust-v0.143.0]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-07-09-retiring-group-chats-in-chatgpt-b45b9e40|chatgpt-2026-07-09-retiring-group-chats-in-chatgpt-b45b9e40]]'

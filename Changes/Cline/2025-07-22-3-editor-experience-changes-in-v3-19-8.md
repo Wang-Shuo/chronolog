@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 696eac7b8cd9d1a428ef1385d3c719383421f98189fd2f0f48848aacef59a27a
+machine_hash: c9faa2db39b5dd54b2cfa0409c44d4456cf7d57dbd9ed7bfacb395b1cbe51e6a
 product: cline
 product_name: Cline
 record:
@@ -46,12 +46,12 @@ record:
   title: 3 Editor Experience changes in v3.19.8
   type: change
 related_changes:
-- '[[Changes/Cline/2025-07-17-swapping-latest-diff-algo-as-default-by-pashpashpash-in-https-github-com-cline-c|swapping
-  latest diff algo as default]]'
 - '[[Changes/Cline/2025-07-18-move-the-logic-to-scroll-the-diff-editor-window-into-the-platform-specific-class|Move
   the logic to scroll the diff editor window into the platform specific classes]]'
 - '[[Changes/Gemini CLI/2025-07-19-12-editor-experience-changes-in-v0-1-13|12 Editor
   Experience changes in v0.1.13]]'
+- '[[Changes/Open WebUI/2025-07-19-4-editor-experience-changes-in-v0-6-17|4 Editor
+  Experience changes in v0.6.17]]'
 source_release: '[[Releases/Cline/cline-2025-07-22-v3-19-8-github-234341731-78a40b25|cline-2025-07-22-v3-19-8-github-234341731-78a40b25]]'
 source_type: github_releases
 theme: editor-experience
@@ -92,7 +92,7 @@ Source: https://github.com/cline/cline/releases/tag/v3.19.8
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2025-07-19 · Gemini CLI · [[Changes/Gemini CLI/2025-07-19-12-editor-experience-changes-in-v0-1-13|12 Editor Experience changes in v0.1.13]]
+- Earlier: 2025-07-19 · Open WebUI · [[Changes/Open WebUI/2025-07-19-4-editor-experience-changes-in-v0-6-17|4 Editor Experience changes in v0.6.17]]
 - Later: 2025-07-25 · Gemini CLI · [[Changes/Gemini CLI/2025-07-25-19-editor-experience-changes-in-v0-1-14|19 Editor Experience changes in v0.1.14]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2b5a5e874a90457693e08a8de3e733238c2e7ede116fa209eb57245518d9b1ba
+machine_hash: f14b449e45453daed3e7d7136e79ade47da1f73407eb4bc6becc2b5d1557e9ba
 product: aider
 product_name: Aider
 record:
@@ -42,12 +42,12 @@ record:
   title: Prevent false auto-commits on Windows, by @ctoth
   type: change
 related_changes:
-- '[[Changes/Aider/2023-07-08-2-mobile-and-desktop-changes-in-v0-8-2|2 Mobile and
-  Desktop changes in v0.8.2]]'
-- '[[Changes/Aider/2023-07-12-2-mobile-and-desktop-changes-in-v0-8-3|2 Mobile and
-  Desktop changes in v0.8.3]]'
-- '[[Changes/ChatGPT/2023-07-25-chatgpt-for-android-is-now-available-for-download-in-the-united-states-india-ban-6b21e9|Introducing
-  the ChatGPT app for Android]]'
+- '[[Changes/Ollama/2023-09-06-note-cmake-is-required-to-build-dependencies-on-macos-it-can-be-installed-with-b|Note:
+  cmake is required to build dependencies]]'
+- '[[Changes/Ollama/2023-10-13-ollama-for-macos-will-now-always-update-to-the-latest-version-even-if-earlier-up|Ollama
+  for macOS will now always update to the latest version, even if earlier…]]'
+- '[[Changes/Dify/2023-12-08-feat-fe-mobile-responsive-next-by-yuhao1118-in-https-github-com-langgenius-dify|feat:
+  fe mobile responsive next]]'
 source_release: '[[Releases/Aider/aider-2024-01-04-v0-20-0-github-135845423-1a95dda2|aider-2024-01-04-v0-20-0-github-135845423-1a95dda2]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -77,8 +77,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2023-07-25 · ChatGPT · [[Changes/ChatGPT/2023-07-25-chatgpt-for-android-is-now-available-for-download-in-the-united-states-india-ban-6b21e9|Introducing the ChatGPT app for Android]]
-- Later: 2024-06-29 · OpenHands · [[Changes/OpenHands/2024-06-29-2-mobile-and-desktop-changes-in-0-7-0|2 Mobile and Desktop changes in 0.7.0]]
+- Earlier: 2023-12-08 · Dify · [[Changes/Dify/2023-12-08-feat-fe-mobile-responsive-next-by-yuhao1118-in-https-github-com-langgenius-dify|feat: fe mobile responsive next]]
+- Later: 2024-02-14 · Ollama · [[Changes/Ollama/2024-02-14-ollama-on-windows-is-now-available-in-preview|Ollama on Windows is now available in preview]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

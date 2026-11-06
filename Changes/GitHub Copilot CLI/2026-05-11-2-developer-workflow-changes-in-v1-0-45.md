@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 508aef135a1eb5e6a318dfc56ad9b503109682a0250743fc2e9bf820cccb9498
+machine_hash: e7e80669edbfdad3f11fd5fe25014e4cce49f1009ab9f41cbf54b2f50d8a477b
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -42,10 +42,10 @@ record:
   title: 2 Developer Workflow changes in v1.0.45
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-05-08-added-configurable-opentelemetry-trace-metadata-and-richer-review-feedback-analy|Added
-  configurable OpenTelemetry trace metadata and richer review/feedback analytics…]]'
-- '[[Changes/GitHub Copilot CLI/2026-05-08-2-developer-workflow-changes-in-v1-0-44|2
-  Developer Workflow changes in v1.0.44]]'
+- '[[Changes/Open WebUI/2026-05-09-22-developer-workflow-changes-in-v0-9-3|22 Developer
+  Workflow changes in v0.9.3]]'
+- '[[Changes/Open WebUI/2026-05-10-2-developer-workflow-changes-in-v0-9-5|2 Developer
+  Workflow changes in v0.9.5]]'
 - '[[Changes/Claude Code/2026-05-11-added-hook-args-string-field-exec-form-that-spawns-the-command-directly-without|Added
   hook args: string field (exec form) that spawns the command directly…]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-05-11-v1-0-45-github-320681555-97d8cd0a|github-copilot-cli-2026-05-11-v1-0-45-github-320681555-97d8cd0a]]'

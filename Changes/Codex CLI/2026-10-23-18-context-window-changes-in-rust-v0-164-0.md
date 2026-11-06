@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9cc047bc3af2c8c4e8d281ef0e91dc81b2d146f2970f26b2a84ddf7f27bbce5e
+machine_hash: 5791d69dac0238d4ca7acc7c299c21ad17d3bc9b5a11d459ecfdb21f8fe71a86
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -84,12 +84,12 @@ record:
   title: 18 Context Window changes in rust-v0.164.0
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-10-19-chore-lint-remove-context-color-spec-bookkeeping-by-enyst-in-https-github-com-op|chore(lint):
-  remove context color spec bookkeeping]]'
-- '[[Changes/GitHub Copilot CLI/2026-10-20-switching-only-reasoning-effort-no-longer-forces-compaction-in-over-budget-sessi|Switching
-  only reasoning effort no longer forces compaction in over-budget sessions]]'
+- '[[Changes/Ollama/2026-10-21-flint-https-ollama-com-library-flint-brings-recursive-s-coding-model-to-ollama-i|Flint((source
+  link) brings Recursive''s coding model to Ollama]]'
 - '[[Changes/Claude Code/2026-10-22-updated-the-claude-api-skill-service-account-keys-and-workload-identity-federati|Updated
   the /claude-api skill]]'
+- '[[Changes/Ollama/2026-10-22-ollama-launch-now-passes-cloud-models-context-lengths-and-capabilities-to-coding|ollama
+  launch now passes cloud models'' context lengths and capabilities to coding…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-10-23-rust-v0-164-0-github-421457270-d867151d|codex-cli-2026-10-23-rust-v0-164-0-github-421457270-d867151d]]'
 source_type: github_releases
 theme: context-window
@@ -168,8 +168,8 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.164.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-10-22 · Claude Code · [[Changes/Claude Code/2026-10-22-updated-the-claude-api-skill-service-account-keys-and-workload-identity-federati|Updated the /claude-api skill]]
-- Later: 2026-10-26 · Claude Code · [[Changes/Claude Code/2026-10-26-2-context-window-changes-in-v2-1-311|2 Context Window changes in v2.1.311]]
+- Earlier: 2026-10-22 · Ollama · [[Changes/Ollama/2026-10-22-ollama-launch-now-passes-cloud-models-context-lengths-and-capabilities-to-coding|ollama launch now passes cloud models' context lengths and capabilities to coding…]]
+- Later: 2026-10-23 · Dify · [[Changes/Dify/2026-10-23-3-context-window-changes-in-1-18-0|3 Context Window changes in 1.18.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

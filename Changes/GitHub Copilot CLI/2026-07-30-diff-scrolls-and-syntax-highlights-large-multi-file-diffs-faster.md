@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f830b64bb37b229296d1cc9540732397af87704875253fe4a92ff7bd6cba8729
+machine_hash: 8c9ad116e919105a6a541da3f7753c6758ba8f2c616140576fb6f20467913d46
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -41,10 +41,10 @@ record:
   title: /diff scrolls and syntax-highlights large multi-file diffs faster
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-21-added-warnings-when-transcript-writes-are-failing-e-g-disk-full-or-when-session|Added
-  warnings when transcript writes are failing (e.g. disk full) or when session…]]'
-- '[[Changes/Codex CLI/2026-07-21-3-reliability-and-performance-changes-in-rust-v0-145-0|3
-  Reliability and Performance changes in rust-v0.145.0]]'
+- '[[Changes/Open WebUI/2026-07-27-12-reliability-and-performance-changes-in-v0-11-0|12
+  Reliability and Performance changes in v0.11.0]]'
+- '[[Changes/Dify/2026-07-28-lightweight-recent-apps-endpoint-new-get-console-api-apps-recent-endpoint-reduce|Lightweight
+  recent apps endpoint]]'
 - '[[Changes/Windsurf/2026-07-29-devin-cloud|Devin Cloud]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-07-30-v1-0-76-github-362129864-0932fe29|github-copilot-cli-2026-07-30-v1-0-76-github-362129864-0932fe29]]'
 source_type: github_releases

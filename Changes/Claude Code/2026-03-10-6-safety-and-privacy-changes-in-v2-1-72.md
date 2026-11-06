@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 61d0336ff7961a630c1ccdb980fee12b9380cd7052f55e4326e34710a0811b4a
+machine_hash: 2efdbb1eac83993053148b9f84d66d8a487527f3b66297f976507b1090e5379b
 product: claude-code
 product_name: Claude Code
 record:
@@ -60,10 +60,9 @@ record:
   title: 6 Safety and Privacy changes in v2.1.72
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-07-fixed-false-positive-permission-prompts-for-compound-bash-commands-containing-he|Fixed
-  false-positive permission prompts for compound bash commands containing…]]'
-- '[[Changes/Codex CLI/2026-03-08-6-safety-and-privacy-changes-in-rust-v0-112-0|6
-  Safety and Privacy changes in rust-v0.112.0]]'
+- "[[Changes/Open WebUI/2026-03-08-open-terminal-permission-fix-open-terminal-is-now-visible-without-requiring-allo|\U0001F5A5️
+  Open Terminal permission fix. Open Terminal is now visible without requiring…]]"
+- '[[Changes/ElevenLabs/2026-03-09-packages|Packages]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-09-reset-allowed-tools-now-fully-undoes-allow-all-and-re-triggers-the-autopilot-per|/reset-allowed-tools
   now fully undoes /allow-all and re-triggers the autopilot…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-10-v2-1-72-github-294951528-18ee0f48|claude-code-2026-03-10-v2-1-72-github-294951528-18ee0f48]]'

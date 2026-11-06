@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 05eb8c5441a1c3ea6038a1cadedd32914f2c40b8c20162cc2b756e6e620c6b66
+machine_hash: 465268d49beeb39e817aef28b8222a2980dcbe1fe972aa86eea71760aa98ef0b
 product: claude-code
 product_name: Claude Code
 record:
@@ -105,7 +105,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.277
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-09-17 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-17-sandbox-policy-now-reports-local-network-access-using-your-configured-setting|/sandbox policy now reports local-network access using your configured setting]]
-- Later: 2026-09-21 · ChatGPT · [[Changes/ChatGPT/2026-09-21-privacy-center-is-rolling-out-to-signed-in-chatgpt-free-go-plus-and-pro-users-it-0d2f36|Privacy Center in ChatGPT]]
+- Later: 2026-09-18 · Replit · [[Changes/Replit/2026-09-18-investigate-with-expanded-audit-logs|Investigate with expanded audit logs]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

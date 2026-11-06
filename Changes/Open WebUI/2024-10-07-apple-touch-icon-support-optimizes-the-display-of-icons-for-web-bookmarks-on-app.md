@@ -1,0 +1,100 @@
+---
+card_id: open-webui-2024-10-07-8b60d8
+date: '2024-10-07'
+description: "Open WebUI · 2024-10-07 · Mobile and Desktop: **\U0001F34F Apple Touch
+  Icon Support**: Optimizes the display of icons for web bookmarks on Apple mobile
+  devices."
+diffusion:
+  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
+    and Linux support \U0001F973]]"
+  inference: No adoption, equivalence, or causation claim.
+  lag_days: 573
+  relation: same-theme-chronology
+  role: later-observed
+  scope: tracked-products-only
+  theme: mobile-desktop
+  tracked_products_count: 20
+evolves_from: []
+extractor_version: fallback-v5
+impact: significant
+kind: change
+machine_hash: acf9fbb315e3fe8decd9be43a4931f9569704e1c775c129720038f6c94ddc27f
+product: open-webui
+product_name: Open WebUI
+record:
+  ai_generated: true
+  card_id: open-webui-2024-10-07-8b60d8
+  comparison: ''
+  confidence: low
+  date: '2024-10-07'
+  description: "Open WebUI — v0.3.31: **\U0001F34F Apple Touch Icon Support**: Optimizes
+    the display of icons for web bookmarks on Apple mobile devices."
+  evidence:
+  - quote: "**\U0001F34F Apple Touch Icon Support**: Optimizes the display of icons
+      for web bookmarks on Apple mobile devices."
+    source_release: https://github.com/open-webui/open-webui/releases/tag/v0.3.31
+  extractor_version: fallback-v5
+  impact: significant
+  kind: change
+  product: open-webui
+  product_name: Open WebUI
+  slug: apple-touch-icon-support-optimizes-the-display-of-icons-for-web-bookmarks-on-app
+  source_release: open-webui-2024-10-07-v0-3-31-github-178593547-fa0ff4e2
+  source_type: github_releases
+  theme: mobile-desktop
+  title: "**\U0001F34F Apple Touch Icon Support**"
+  type: change
+related_changes:
+- '[[Changes/Aider/2024-09-21-on-windows-run-correctly-uses-powershell-or-cmd-exe|On
+  Windows, /run correctly uses PowerShell or cmd.exe]]'
+- "[[Changes/Open WebUI/2024-09-24-temporary-file-handling-on-windows-fixed-an-issue-causing-errors-when-accessing|\U0001F5D1️
+  Temporary File Handling On Windows]]"
+- '[[Changes/Dify/2024-09-30-2-mobile-and-desktop-changes-in-0-9-0|2 Mobile and Desktop
+  changes in 0.9.0]]'
+source_release: '[[Releases/Open WebUI/open-webui-2024-10-07-v0-3-31-github-178593547-fa0ff4e2|open-webui-2024-10-07-v0-3-31-github-178593547-fa0ff4e2]]'
+source_type: github_releases
+theme: mobile-desktop
+title: "\U0001F34F Apple Touch Icon Support"
+type: change
+---
+
+<!-- chronolog:begin region="header" -->
+# **🍏 Apple Touch Icon Support**
+
+**Open WebUI** · 2024-10-07 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://github.com/open-webui/open-webui/releases/tag/v0.3.31) · from [[Releases/Open WebUI/open-webui-2024-10-07-v0-3-31-github-178593547-fa0ff4e2|v0.3.31]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="evidence" -->
+> **🍏 Apple Touch Icon Support**: Optimizes the display of icons for web bookmarks on Apple mobile devices.
+>
+> Source: https://github.com/open-webui/open-webui/releases/tag/v0.3.31
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Open WebUI/2024-10-07-3-model-support-changes-in-v0-3-31|3 Model Support changes in v0.3.31]] · Model Support
+- [[Changes/Open WebUI/2024-10-07-2-files-and-data-changes-in-v0-3-31|2 Files and Data changes in v0.3.31]] · Files and Data
+- [[Changes/Open WebUI/2024-10-07-knowledge-feature-reimagined-documents-feature-now-more-performant-with-a-better|📚 Knowledge Feature]] · Apps and Integrations
+- [[Changes/Open WebUI/2024-10-07-2-reliability-and-performance-changes-in-v0-3-31|2 Reliability and Performance changes in v0.3.31]] · Reliability and Performance
+- [[Changes/Open WebUI/2024-10-07-2-voice-and-audio-changes-in-v0-3-31|2 Voice and Audio changes in v0.3.31]] · Voice and Audio
+- [[Changes/Open WebUI/2024-10-07-code-block-enhancements-introduced-a-floating-copy-button-in-code-blocks-to-faci|🔧 Code Block Enhancements]] · Developer Workflow
+- [[Changes/Open WebUI/2024-10-07-14-other-changes-in-v0-3-31|14 other changes in v0.3.31]] · Other changes
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Mobile and Desktop
+
+- Earlier: 2024-09-30 · Dify · [[Changes/Dify/2024-09-30-2-mobile-and-desktop-changes-in-0-9-0|2 Mobile and Desktop changes in 0.9.0]]
+- Later: 2024-11-14 · Gemini · [[Changes/Gemini/2024-11-14-try-the-new-gemini-app-on-your-iphone|Try the new Gemini app on your iPhone]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20open-webui-2024-10-07-8b60d8&body=Card%3A%20Changes%2FOpen%20WebUI%2F2024-10-07-apple-touch-icon-support-optimizes-the-display-of-icons-for-web-bookmarks-on-app.md%0ACard%20ID%3A%20open-webui-2024-10-07-8b60d8%0ASource%3A%20https%3A%2F%2Fgithub.com%2Fopen-webui%2Fopen-webui%2Freleases%2Ftag%2Fv0.3.31%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

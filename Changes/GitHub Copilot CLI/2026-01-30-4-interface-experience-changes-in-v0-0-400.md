@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0cc5240159e68e6228221ba7c36e99d1d33167bc65d69955fc84eefe70c37770
+machine_hash: 991f3601cfe44ea732cd9950625cfb8d0887eb6bd97ee91bc5f6c99d220be401
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -47,8 +47,8 @@ record:
   title: 4 Interface Experience changes in v0.0.400
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-01-28-remove-missing-sidebar-item-by-chrstnb-in-https-github-com-google-gemini-gemini|Remove
-  missing sidebar item]]'
+- '[[Changes/v0/2026-01-28-added-modals-for-library-and-projects-navigation|Added
+  modals for Library and Projects navigation]]'
 - '[[Changes/Claude Code/2026-01-29-3-interface-experience-changes-in-v2-1-23|3 Interface
   Experience changes in v2.1.23]]'
 - '[[Changes/ChatGPT/2026-01-30-responses-in-chatgpt-are-now-more-visual-and-easier-to-scan-for-everyday-questio|More

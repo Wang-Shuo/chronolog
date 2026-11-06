@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a0f1d740eb0a0d7cc0c043661950f2bf762eb55b3c7175a85e48c3db45b534fc
+machine_hash: 4cc43aa668cfce75029a1613e0a0e3da771f8ee1d6f35ec401a4f948dea46d93
 product: cursor
 product_name: Cursor
 record:
@@ -94,7 +94,7 @@ Source: https://cursor.com/changelog/cli-jan-16-2026
 ## Nearby in Interface Experience
 
 - Earlier: 2026-01-15 · Codex CLI · [[Changes/Codex CLI/2026-01-15-extend-the-rust-protocol-types-to-include-additional-metadata-on-text-elements-e|Extend the Rust protocol/types to include additional metadata on text elements…]]
-- Later: 2026-01-16 · OpenHands · [[Changes/OpenHands/2026-01-16-adding-a-status-indicator-above-the-chat-until-the-conversation-is-ready-by-heyi|Adding a status indicator above the chat until the conversation is ready]]
+- Later: 2026-01-16 · Lovable · [[Changes/Lovable/2026-01-16-better-dashboard-organization-and-navigation|Better dashboard organization and navigation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

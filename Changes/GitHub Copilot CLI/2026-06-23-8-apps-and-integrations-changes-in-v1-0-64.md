@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7c171d1afd5fd215245a40d7787d80659ba9d27ef333cc727684166e8cc60c6d
+machine_hash: 99e6ce5e97e6715ef62f75b93643549455a0822edcf17e6e0caf4933c067681f
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -55,8 +55,10 @@ record:
   title: 8 Apps and Integrations changes in v1.0.64
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-06-22-marketplace-leaderboard-654084|Marketplace leaderboard]]'
-- '[[Changes/Cursor/2026-06-22-plugin-canvases|Plugin canvases]]'
+- '[[Changes/Lovable/2026-06-22-aikido-penetration-testing-is-now-available-on-all-plans|Aikido
+  penetration testing is now available on all plans]]'
+- '[[Changes/Claude/2026-06-23-delegate-work-to-claude-in-slack-with-claude-tag|Delegate
+  work to Claude in Slack with Claude Tag]]'
 - '[[Changes/Claude Code/2026-06-23-2-apps-and-integrations-changes-in-v2-1-187|2
   Apps and Integrations changes in v2.1.187]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-06-23-v1-0-64-github-343650012-6d4aa4bd|github-copilot-cli-2026-06-23-v1-0-64-github-343650012-6d4aa4bd]]'
@@ -120,7 +122,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.64
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-06-23 · Claude Code · [[Changes/Claude Code/2026-06-23-2-apps-and-integrations-changes-in-v2-1-187|2 Apps and Integrations changes in v2.1.187]]
-- Later: 2026-06-24 · Claude Code · [[Changes/Claude Code/2026-06-24-2-apps-and-integrations-changes-in-v2-1-191|2 Apps and Integrations changes in v2.1.191]]
+- Later: 2026-06-23 · Lovable · [[Changes/Lovable/2026-06-23-set-up-okta-sso-and-scim-from-the-okta-app-catalog|Set up Okta SSO and SCIM from the Okta app catalog]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

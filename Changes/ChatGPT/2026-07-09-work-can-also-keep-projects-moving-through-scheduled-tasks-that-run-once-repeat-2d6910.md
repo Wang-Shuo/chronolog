@@ -5,20 +5,20 @@ description: 'ChatGPT · 2026-07-09 · Automation and Scheduling: Work can also 
   projects moving through Scheduled Tasks that run once, repeat on a schedule or trigger,
   or…'
 diffusion:
-  first_in_tracked: '[[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better
-    syntax error loop detection]]'
+  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
+    data clean schedule]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 673
+  lag_days: 919
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 562dbc1c1d7611ab1d9878f73f243130a3c3d75e21d08c766e08320a123fc888
+machine_hash: 812e1d78327cddab1d325bd3de3b87c36d700ba6666e7ff227393385bdd0ecff
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -49,8 +49,8 @@ record:
     repeat…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-30-pr-auto-now-starts-a-self-paced-loop-that-fixes-one-thing-per-run-and-paces-itse|/pr
-  auto now starts a self-paced loop that fixes one thing per run and paces itself…]]'
+- "[[Changes/Open WebUI/2026-07-01-models-with-null-capabilities-chatting-with-a-model-whose-capabilities-are-unset|\U0001F916
+  Models with null capabilities. Chatting with a model whose capabilities…]]"
 - '[[Changes/OpenHands/2026-07-06-2-automation-and-scheduling-changes-in-1-9-0|2 Automation
   and Scheduling changes in 1.9.0]]'
 - '[[Changes/Codex CLI/2026-07-08-30508-revert-make-auto-review-on-request-prompt-more-proactive-dylan-hurd-oai|♯30508
@@ -88,13 +88,13 @@ type: change
 ## Nearby in Automation and Scheduling
 
 - Earlier: 2026-07-08 · Codex CLI · [[Changes/Codex CLI/2026-07-08-30508-revert-make-auto-review-on-request-prompt-more-proactive-dylan-hurd-oai|♯30508 Revert "Make auto-review on-request prompt more proactive" @dylan-hurd-oai]]
-- Later: 2026-07-22 · Gemini CLI · [[Changes/Gemini CLI/2026-07-22-feat-caretaker-triage-implement-main-worker-execution-loop-and-egress-action-pub|feat(caretaker-triage): implement main worker execution loop and egress action publisher]]
+- Later: 2026-07-17 · Dify · [[Changes/Dify/2026-07-17-2-automation-and-scheduling-changes-in-1-16-0|2 Automation and Scheduling changes in 1.16.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-09-04 · OpenHands · [[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better syntax error loop detection]]
+- Earliest same-theme entry in the tracked set: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

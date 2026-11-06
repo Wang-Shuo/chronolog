@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: fa840041b5b191fdf95f5f161978a6452a6fb885bc0f5923b3ba26a9886e7dbe
+machine_hash: 8f6f8ac198cdbd23cf940cf70bbe121e7be0447f85e94e5c3ac78fc17ff45b8a
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -52,12 +52,12 @@ record:
   title: 5 Apps and Integrations changes in v1.0.13
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-26-4-apps-and-integrations-changes-in-v1-0-12|4
-  Apps and Integrations changes in v1.0.12]]'
 - '[[Changes/ChatGPT/2026-03-27-we-re-rolling-out-updated-box-notion-linear-and-dropbox-apps-in-chatgpt-these-up-9f6ee9|Updated
   Box, Notion, Linear, and Dropbox apps]]'
 - '[[Changes/Claude Code/2026-03-27-reduced-startup-event-loop-stalls-when-many-claude-ai-mcp-connectors-are-configu|Reduced
   startup event-loop stalls when many claude.ai MCP connectors are configured…]]'
+- '[[Changes/Dify/2026-03-27-6-apps-and-integrations-changes-in-1-13-3|6 Apps and
+  Integrations changes in 1.13.3]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-03-30-v1-0-13-github-303313822-db3397e2|github-copilot-cli-2026-03-30-v1-0-13-github-303313822-db3397e2]]'
 source_type: github_releases
 theme: apps-integrations
@@ -103,7 +103,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.13
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-03-27 · Claude Code · [[Changes/Claude Code/2026-03-27-reduced-startup-event-loop-stalls-when-many-claude-ai-mcp-connectors-are-configu|Reduced startup event-loop stalls when many claude.ai MCP connectors are configured…]]
+- Earlier: 2026-03-27 · Dify · [[Changes/Dify/2026-03-27-6-apps-and-integrations-changes-in-1-13-3|6 Apps and Integrations changes in 1.13.3]]
 - Later: 2026-03-30 · OpenHands · [[Changes/OpenHands/2026-03-30-added-support-for-hooks-by-xingyaoww-in-https-github-com-openhands-openhands-pul|Added support for hooks]]
 <!-- chronolog:end -->
 

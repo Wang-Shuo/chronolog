@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 722b5a2060497fcec847f3d90164114b1ff1ced0fb269d5bae95d7709f438041
+machine_hash: d469a072920cc42545493e7dd1792010642593756ef17d3ba85f4fc2a3fd118c
 product: cursor
 product_name: Cursor
 record:
@@ -54,12 +54,12 @@ record:
   title: Cursor can now host your code
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-08-07-3-search-and-browsing-changes-in-rust-v0-147-0|3
-  Search and Browsing changes in rust-v0.147.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-08-10-improve-teleported-subagent-tasks-navigation-with-nested-tree-browsing-current-a|Improve
   teleported subagent /tasks navigation with nested tree browsing, current/all…]]'
 - '[[Changes/ChatGPT/2026-08-13-if-you-have-the-google-drive-plugin-connected-you-can-now-see-and-browse-your-go-97f18f|If
   you have the Google Drive plugin connected, you can now see and browse…]]'
+- '[[Changes/Ollama/2026-08-14-the-openai-compatible-responses-api-now-supports-web-search|The
+  OpenAI-compatible Responses API now supports web search]]'
 source_release: '[[Releases/Cursor/cursor-2026-08-17-origin-code-hosting-https-cursor-com-changelog-origin-code-hosti-ed3a9195|cursor-2026-08-17-origin-code-hosting-https-cursor-com-changelog-origin-code-hosti-ed3a9195]]'
 source_type: cursor_changelog
 theme: search-browsing
@@ -94,8 +94,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Search and Browsing
 
-- Earlier: 2026-08-13 · ChatGPT · [[Changes/ChatGPT/2026-08-13-if-you-have-the-google-drive-plugin-connected-you-can-now-see-and-browse-your-go-97f18f|If you have the Google Drive plugin connected, you can now see and browse…]]
-- Later: 2026-09-01 · Claude Code · [[Changes/Claude Code/2026-09-01-changed-btw-history-browsing-from-to-shift-shift-or-stepping-through-your-recent|Changed /btw history browsing from ←/→ to Shift+←/Shift+→ (or /)…]]
+- Earlier: 2026-08-14 · Ollama · [[Changes/Ollama/2026-08-14-the-openai-compatible-responses-api-now-supports-web-search|The OpenAI-compatible Responses API now supports web search]]
+- Later: 2026-08-25 · Open WebUI · [[Changes/Open WebUI/2026-08-25-5-search-and-browsing-changes-in-v0-11-1|5 Search and Browsing changes in v0.11.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

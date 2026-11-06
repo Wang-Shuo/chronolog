@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9fd9be86e71fcc6218d2f4a1ed309e3ccd5785d76c798a39d10c6222b74bd0c4
+machine_hash: 0c5d1da6d78c80fbd395f533316c5fdbfe6b7feb23f107fff5057fa1e89a181d
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,8 +43,7 @@ record:
     on first use
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-04-02-deprecated-the-previous-worktree-and-best-of-n-selection-from-the-editor|Deprecated
-  the previous worktree and best-of-n selection from the Editor]]'
+- '[[Changes/Lovable/2026-04-02-command-palette|Command palette]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-03-resume-session-picker-loads-significantly-faster-especially-with-large-session-h|/resume
   session picker loads significantly faster, especially with large session histories]]'
 - '[[Changes/Claude Code/2026-04-04-release-notes-is-now-an-interactive-version-picker|/release-notes

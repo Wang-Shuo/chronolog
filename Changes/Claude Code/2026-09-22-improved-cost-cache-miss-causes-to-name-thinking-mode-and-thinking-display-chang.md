@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 8a4f8f80619cf85fca9369abdb4fb8c70022718745c53ad514245bd2d9a87037
+machine_hash: 2608c02bd1e66bdfbbd590688e7631eca1b054a69346bd61d356c131154b8916
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,11 @@ record:
     changes
   type: change
 related_changes:
-- '[[Changes/Cline/2026-09-17-cline-pass-now-defaults-to-a-model-from-your-subscription-rather-than-a-free-one|Cline
-  Pass now defaults to a model from your subscription rather than a free one]]'
-- '[[Changes/Claude Code/2026-09-18-vscode-added-the-session-s-cost-and-token-usage-to-the-account-usage-dialog-and|VSCode
-  Added the session''s cost and token usage to the Account & usage dialog…]]'
+- '[[Changes/Lovable/2026-09-18-use-firecrawl-without-a-firecrawl-account|Use Firecrawl
+  without a Firecrawl account]]'
 - '[[Changes/Claude Code/2026-09-19-changed-auto-mode-for-claude-api-and-enterprise-users-and-on-bedrock-vertex-foun|Changed
   auto mode for Claude API and Enterprise users, and on Bedrock, Vertex…]]'
+- '[[Changes/ElevenLabs/2026-09-21-user|User]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-22-v2-1-280-github-393879189-1cf5db2b|claude-code-2026-09-22-v2-1-280-github-393879189-1cf5db2b]]'
 source_type: github_releases
 theme: pricing-model
@@ -88,7 +87,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-09-19 · Claude Code · [[Changes/Claude Code/2026-09-19-changed-auto-mode-for-claude-api-and-enterprise-users-and-on-bedrock-vertex-foun|Changed auto mode for Claude API and Enterprise users, and on Bedrock, Vertex…]]
+- Earlier: 2026-09-21 · ElevenLabs · [[Changes/ElevenLabs/2026-09-21-user|User]]
 - Later: 2026-09-22 · Cline · [[Changes/Cline/2026-09-22-models-that-advertise-a-large-output-limit-now-get-a-bigger-default-output-budge|Models that advertise a large output limit now get a bigger default output budget]]
 <!-- chronolog:end -->
 

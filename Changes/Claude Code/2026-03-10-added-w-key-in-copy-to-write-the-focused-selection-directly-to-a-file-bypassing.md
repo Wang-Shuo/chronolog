@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: de818ce4035953d8597595041dfbbbb64b995c9d648439e34b17f8f3b670e48d
+machine_hash: 1852db49f8c888240c3e7bceb5ab63ecdf0019f723426838f0a12605e104f43a
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,10 +44,10 @@ record:
   title: Added `w` key in `/copy` to write the focused selection directly to a file…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-06-vscode-added-spark-icon-in-vs-code-activity-bar-that-lists-all-claude-code-sessi|VSCode
-  Added spark icon in VS Code activity bar that lists all Claude Code…]]'
 - '[[Changes/Codex CLI/2026-03-08-added-a-new-model-selection-surface-update-so-the-latest-model-catalog-changes-a|Added
   a new model-selection surface update so the latest model catalog changes…]]'
+- '[[Changes/Open WebUI/2026-03-08-5-interface-experience-changes-in-v0-8-9|5 Interface
+  Experience changes in v0.8.9]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-09-show-loading-spinner-in-diff-mode-while-fetching-changes|Show
   loading spinner in diff mode while fetching changes]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-10-v2-1-72-github-294951528-18ee0f48|claude-code-2026-03-10-v2-1-72-github-294951528-18ee0f48]]'

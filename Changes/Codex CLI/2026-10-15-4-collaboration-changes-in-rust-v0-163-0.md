@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 182a8a52234532c18651c5fdfaf4b503ad3f66e75216060553339e58fb8a4d02
+machine_hash: 93c3e5fb6c5d117c92e448e2a176fbd94f2c3786de56366ac6d3089c7e766093
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -45,12 +45,12 @@ record:
   title: 4 Collaboration changes in rust-v0.163.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-07-2-collaboration-changes-in-rust-v0-161-0|2 Collaboration
-  changes in rust-v0.161.0]]'
-- '[[Changes/Codex CLI/2026-10-08-2-collaboration-changes-in-rust-v0-162-0|2 Collaboration
-  changes in rust-v0.162.0]]'
+- '[[Changes/Open WebUI/2026-10-10-13-collaboration-changes-in-v0-12-0|13 Collaboration
+  changes in v0.12.0]]'
 - '[[Changes/Claude Code/2026-10-14-changed-local-session-transcripts-to-also-record-each-api-request-s-system-promp|Changed
   local session transcripts to also record each API request''s system prompt…]]'
+- "[[Changes/Open WebUI/2026-10-14-save-hidden-on-others-messages-in-a-chat-shared-with-allow-replies-editing-a-mes|\U0001F4BE
+  Save hidden on others' messages. In a chat shared with Allow replies, editing…]]"
 source_release: '[[Releases/Codex CLI/codex-cli-2026-10-15-rust-v0-163-0-github-414286110-97016fe6|codex-cli-2026-10-15-rust-v0-163-0-github-414286110-97016fe6]]'
 source_type: github_releases
 theme: collaboration
@@ -99,7 +99,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.163.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-10-14 · Claude Code · [[Changes/Claude Code/2026-10-14-changed-local-session-transcripts-to-also-record-each-api-request-s-system-promp|Changed local session transcripts to also record each API request's system prompt…]]
+- Earlier: 2026-10-14 · Open WebUI · [[Changes/Open WebUI/2026-10-14-save-hidden-on-others-messages-in-a-chat-shared-with-allow-replies-editing-a-mes|💾 Save hidden on others' messages. In a chat shared with Allow replies, editing…]]
 - Later: 2026-10-16 · ChatGPT · [[Changes/ChatGPT/2026-10-16-chatgpt-slides-lets-you-create-presentations-and-keep-working-on-them-with-your|ChatGPT Slides lets you create presentations and keep working on them with your team…]]
 <!-- chronolog:end -->
 

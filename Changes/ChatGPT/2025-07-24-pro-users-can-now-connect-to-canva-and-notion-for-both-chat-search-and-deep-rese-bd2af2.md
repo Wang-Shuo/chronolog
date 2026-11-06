@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4d9928c34dc82ca7f5e6c6d670e4e0a60a6f92dadc55808f8abcda6bd2845876
+machine_hash: d55378d22fd8011de3633cb371ac8d5c6f0e9608b7ba1643a3e99b32282eda2e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -56,12 +56,10 @@ record:
   title: Canva and Notion connectors (Pro)
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-06-04-chatgpt-team-enterprise-and-edu-customers-globally-can-use-connectors-in-deep-re|ChatGPT
-  Team, Enterprise, and Edu customers globally can use connectors in deep…]]'
-- '[[Changes/Cursor/2025-06-04-link-and-web-search-can-now-parse-pdfs-and-include-in-context|@Link
-  and web search can now parse PDFs and include in context]]'
-- '[[Changes/ChatGPT/2025-06-13-we-ve-upgraded-chatgpt-search-for-all-users-to-provide-even-more-comprehensive-u|We’ve
-  upgraded ChatGPT search for all users to provide even more comprehensive…]]'
+- '[[Changes/Replit/2025-07-04-gallery|Gallery]]'
+- '[[Changes/Replit/2025-07-04-web-search-for-agent|Web Search for Agent]]'
+- "[[Changes/Open WebUI/2025-07-19-file-deletion-now-removes-related-vector-data-when-files-are-deleted-from-storag|\U0001F9D1\U0001F4BB
+  File Deletion Now Removes Related Vector Data]]"
 source_release: '[[Releases/ChatGPT/chatgpt-2025-07-24-canva-and-notion-connectors-pro-0091bf22|chatgpt-2025-07-24-canva-and-notion-connectors-pro-0091bf22]]'
 source_type: chatgpt_changelog
 theme: search-browsing
@@ -88,8 +86,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Search and Browsing
 
-- Earlier: 2025-06-13 · ChatGPT · [[Changes/ChatGPT/2025-06-13-we-ve-upgraded-chatgpt-search-for-all-users-to-provide-even-more-comprehensive-u|We’ve upgraded ChatGPT search for all users to provide even more comprehensive…]]
-- Later: 2025-08-11 · ChatGPT · [[Changes/ChatGPT/2025-08-11-now-connect-even-more-tools-in-chatgpt-for-useful-relevant-responses-in-chat-the|Now connect even more tools in ChatGPT for useful, relevant responses in chat]]
+- Earlier: 2025-07-19 · Open WebUI · [[Changes/Open WebUI/2025-07-19-file-deletion-now-removes-related-vector-data-when-files-are-deleted-from-storag|🧑💻 File Deletion Now Removes Related Vector Data]]
+- Later: 2025-08-05 · Ollama · [[Changes/Ollama/2025-08-05-agentic-capabilities-use-the-models-native-capabilities-for-function-calling-web|Agentic capabilities: Use the models’ native capabilities for function calling…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

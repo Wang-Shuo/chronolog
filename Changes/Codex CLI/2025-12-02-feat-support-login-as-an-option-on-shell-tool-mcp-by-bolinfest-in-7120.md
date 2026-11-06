@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 38967fedd04fb5a26ff49993f6a87d1f4f9663d886a30d164d5ddce45c885416
+machine_hash: 6bc5e9f26eed1435274f14bbc9cd9b8f8d638ed46f084af4ea59f84b2a7218a2
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -53,12 +53,11 @@ record:
   title: 'feat: support login as an option on shell-tool-mcp by @bolinfest in #7120'
   type: change
 related_changes:
-- '[[Changes/Cline/2025-11-18-retire-firebase-authentication-by-tseglevskiy-in-https-github-com-cline-cline-pu|Retire
-  firebase authentication]]'
-- '[[Changes/Codex CLI/2025-11-19-bug-fix-rmcp-client-refresh-oauth-tokens-using-expires-at-6574-laelluo|:bug:
-  fix(rmcp-client): refresh OAuth tokens using expires_at (♯6574) — @LaelLuo]]'
-- '[[Changes/GitHub Copilot CLI/2025-11-24-add-support-for-github-askpass-environment-variable-for-authentication|Add
-  support for GITHUB_ASKPASS environment variable for authentication]]'
+- "[[Changes/Open WebUI/2025-11-25-breaking-docling-configuration-has-been-consolidated-from-individual-environment|\U0001F527
+  BREAKING: Docling configuration has been consolidated from individual environment…]]"
+- '[[Changes/Dify/2025-11-26-feat-implement-rfc-compliant-oauth-discovery-with-dynamic-scope-selection-for-mc|feat:
+  implement RFC-compliant OAuth discovery with dynamic scope selection for MCP…]]'
+- '[[Changes/Lovable/2025-11-26-temporary-education-logins|Temporary education logins]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-12-02-rust-v0-64-0-github-266901625-82376886|codex-cli-2025-12-02-rust-v0-64-0-github-266901625-82376886]]'
 source_type: github_releases
 theme: account-access
@@ -96,8 +95,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2025-11-24 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-11-24-add-support-for-github-askpass-environment-variable-for-authentication|Add support for GITHUB_ASKPASS environment variable for authentication]]
-- Later: 2025-12-09 · Codex CLI · [[Changes/Codex CLI/2025-12-09-2-account-and-access-changes-in-rust-v0-66-0|2 Account and Access changes in rust-v0.66.0]]
+- Earlier: 2025-11-26 · Lovable · [[Changes/Lovable/2025-11-26-temporary-education-logins|Temporary education logins]]
+- Later: 2025-12-02 · Open WebUI · [[Changes/Open WebUI/2025-12-02-7-account-and-access-changes-in-v0-6-41|7 Account and Access changes in v0.6.41]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

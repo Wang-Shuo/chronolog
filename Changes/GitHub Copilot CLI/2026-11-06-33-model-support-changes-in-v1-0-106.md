@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 99b9782d2576af0dfe3b396070b79075304868c055a2d7bb4dc6264dcfe35150
+machine_hash: bafbf4bbedcf095b69e7c319e3fd1498c2cf2030f5aeaf0b16799c8713c6ad33
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -142,8 +142,8 @@ record:
   title: 33 Model Support changes in v1.0.106
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-31-deprecated-fast-mode-for-opus-4-8-as-of-october-30-2026-it-will-be-removed-on-no|Deprecated
-  fast mode for Opus 4.8 as of October 30, 2026]]'
+- '[[Changes/Dify/2026-11-04-4-model-support-changes-in-1-19-0|4 Model Support changes
+  in 1.19.0]]'
 - '[[Changes/Gemini CLI/2026-11-04-feat-cli-add-models-command-and-list-models-flag-for-model-discovery-by-urielefr|feat(cli):
   add models command and --list-models flag for model discovery]]'
 - '[[Changes/Codex CLI/2026-11-06-7-model-support-changes-in-rust-v0-167-0|7 Model

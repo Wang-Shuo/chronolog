@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a42cfd1800b5920e925e92c143e22c3740a07d8e97874df1403f1fcaeb90947f
+machine_hash: 4b7322e4c9dd921743d263078dbdfafff87247a133e5bb796578677a5fb2afd9
 product: claude-code
 product_name: Claude Code
 record:
@@ -52,8 +52,8 @@ record:
   title: '`/login` now opens the sign-in dialog from the `claude agents` view instead…'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-25-added-opt-in-windows-system-proxy-support-for-authentication-including-pac-wpad|Added
-  opt-in Windows system proxy support for authentication, including PAC, WPAD…]]'
+- '[[Changes/Open WebUI/2026-06-29-9-account-and-access-changes-in-v0-10-0|9 Account
+  and Access changes in v0.10.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-30-mcp-oauth-against-microsoft-entra-servers-behind-a-tenant-vanity-domain-e-g-copi|MCP
   OAuth against Microsoft Entra servers behind a tenant vanity domain…]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-30-6-account-and-access-changes-in-v1-0-66|6
@@ -94,7 +94,7 @@ type: change
 ## Nearby in Account and Access
 
 - Earlier: 2026-06-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-30-6-account-and-access-changes-in-v1-0-66|6 Account and Access changes in v1.0.66]]
-- Later: 2026-07-06 · ChatGPT · [[Changes/ChatGPT/2026-07-06-chatgpt-for-powerpoint-is-now-generally-available-globally-from-a-sidebar-in-mic|ChatGPT for PowerPoint is now generally available]]
+- Later: 2026-07-01 · Open WebUI · [[Changes/Open WebUI/2026-07-01-2-account-and-access-changes-in-v0-10-2|2 Account and Access changes in v0.10.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

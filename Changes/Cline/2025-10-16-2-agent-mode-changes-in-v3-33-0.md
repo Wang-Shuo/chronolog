@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: aabb76f629490e60c3a0b932acea1f45e248905616637f46069e7b7cefcfb799
+machine_hash: 7e261a418f025e62ee656cacc5bc553e43bd562758f57990335046a3171fe824
 product: cline
 product_name: Cline
 record:
@@ -43,10 +43,8 @@ record:
   title: 2 Agent Mode changes in v3.33.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-10-03-5-agent-mode-changes-in-rust-v0-44-0|5 Agent Mode
-  changes in rust-v0.44.0]]'
-- '[[Changes/Gemini CLI/2025-10-07-2-agent-mode-changes-in-v0-8-0|2 Agent Mode changes
-  in v0.8.0]]'
+- '[[Changes/ElevenLabs/2025-10-14-agents-platform|Agents Platform]]'
+- '[[Changes/ElevenLabs/2025-10-14-python-sdk|Python SDK]]'
 - '[[Changes/Gemini CLI/2025-10-15-3-agent-mode-changes-in-v0-9-0|3 Agent Mode changes
   in v0.9.0]]'
 source_release: '[[Releases/Cline/cline-2025-10-16-v3-33-0-github-255077310-b9a1872c|cline-2025-10-16-v3-33-0-github-255077310-b9a1872c]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: fix
-machine_hash: dbd5ee51dcf9d4c70269e7f5f599ea9a018a44e26e1d328615c17fcfb18fdc7c
+machine_hash: 450da7d3f5cd9fa221c4c6bca7d7f3905ec4dd33203c280fe03e83b18b33f2d7
 product: openhands
 product_name: OpenHands
 record:
@@ -43,12 +43,12 @@ record:
   title: 'fix: Revive local telemetry consent banner'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-24-2-safety-and-privacy-changes-in-v2-1-219|2 Safety
-  and Privacy changes in v2.1.219]]'
 - '[[Changes/Gemini CLI/2026-07-28-fix-a2a-server-enforce-workspace-trust-and-task-isolation-to-prevent-rce-by-luis|fix(a2a-server):
   enforce workspace trust and task isolation to prevent RCE]]'
 - '[[Changes/Codex CLI/2026-07-29-6-safety-and-privacy-changes-in-rust-v0-146-0|6
   Safety and Privacy changes in rust-v0.146.0]]'
+- '[[Changes/Lovable/2026-07-29-fewer-false-alarms-in-dependency-scans|Fewer false
+  alarms in dependency scans]]'
 source_release: '[[Releases/OpenHands/openhands-2026-07-29-v1-7-0-github-362088149-8fdb1e1c|openhands-2026-07-29-v1-7-0-github-362088149-8fdb1e1c]]'
 source_type: github_releases
 theme: safety-privacy
@@ -82,7 +82,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-07-29 · Codex CLI · [[Changes/Codex CLI/2026-07-29-6-safety-and-privacy-changes-in-rust-v0-146-0|6 Safety and Privacy changes in rust-v0.146.0]]
+- Earlier: 2026-07-29 · Lovable · [[Changes/Lovable/2026-07-29-fewer-false-alarms-in-dependency-scans|Fewer false alarms in dependency scans]]
 - Later: 2026-07-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-30-5-safety-and-privacy-changes-in-v1-0-76|5 Safety and Privacy changes in v1.0.76]]
 <!-- chronolog:end -->
 

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e8a9ab824caeb772b9d51ac4fa6ff8d8f3beeb2f19159dddedc532e679d500b4
+machine_hash: 662921cec4c9ddae7db580c372e976cdb2454ae18947b709ea048d52acf4e4e7
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -61,10 +61,10 @@ record:
   title: 12 Developer Workflow changes in rust-v0.146.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-22-changed-code-review-to-run-as-a-background-subagent-so-review-work-no-longer-fil|Changed
-  /code-review to run as a background subagent, so review work no longer…]]'
-- '[[Changes/GitHub Copilot CLI/2026-07-23-2-developer-workflow-changes-in-v1-0-74|2
-  Developer Workflow changes in v1.0.74]]'
+- '[[Changes/Open WebUI/2026-07-27-62-developer-workflow-changes-in-v0-11-0|62 Developer
+  Workflow changes in v0.11.0]]'
+- '[[Changes/Dify/2026-07-28-4-developer-workflow-changes-in-1-16-1|4 Developer Workflow
+  changes in 1.16.1]]'
 - '[[Changes/Gemini CLI/2026-07-28-feat-evals-add-eval-coverage-report-command-by-ved015-in-https-github-com-google|feat(evals):
   add eval coverage report command]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-07-29-rust-v0-146-0-github-361463950-6d491983|codex-cli-2026-07-29-rust-v0-146-0-github-361463950-6d491983]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ee5f7c543e4d53ebbb0fa177f85dbb58044a1d829660d4cd80e87c6877fbe7f0
+machine_hash: 60be588fc1c23c5f0864955d89094ad6dfd3d46a6a6f6dd9af071bf4c3a43aac
 product: cline
 product_name: Cline
 record:
@@ -44,10 +44,10 @@ record:
   title: 3 Model Support changes in v3.74.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-17-2-model-support-changes-in-v1-0-7|2 Model
-  Support changes in v1.0.7]]'
 - '[[Changes/ChatGPT/2026-03-18-we-re-rolling-out-gpt-5-4-mini-in-chatgpt-gpt-5-4-mini-is-available-to-free-and|GPT-5.4
   mini in ChatGPT]]'
+- '[[Changes/Dify/2026-03-18-llm-related-nodes-including-llm-and-question-classifier|LLM-related
+  nodes, including LLM and Question Classifier]]'
 - '[[Changes/Claude Code/2026-03-19-added-effort-frontmatter-support-for-skills-and-slash-commands-to-override-the-m|Added
   effort frontmatter support for skills and slash commands to override…]]'
 source_release: '[[Releases/Cline/cline-2026-03-19-v3-74-0-github-298757168-70068641|cline-2026-03-19-v3-74-0-github-298757168-70068641]]'

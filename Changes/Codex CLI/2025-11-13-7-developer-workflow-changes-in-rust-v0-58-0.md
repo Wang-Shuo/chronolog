@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9619c28e7f9fe312294f5799fda21a1eb702f827e009f032d8664d7d92de994b
+machine_hash: fb2d1a242ccc4588c3e0c4ca477166a68a5def675839510104db4f7be151d83f
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -53,10 +53,10 @@ record:
   title: 7 Developer Workflow changes in rust-v0.58.0
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-11-12-extension-reloading-update-custom-commands-add-enable-disable-command-by-jakemac|Extension
-  Reloading: Update custom commands, add enable/disable command]]'
 - '[[Changes/GitHub Copilot CLI/2025-11-12-3-developer-workflow-changes-in-v0-0-355|3
   Developer Workflow changes in v0.0.355]]'
+- '[[Changes/Ollama/2025-11-12-for-issues-or-feedback-on-using-vulkan-with-ollama-create-an-issue-labelled-vulk|For
+  issues or feedback on using Vulkan with Ollama, create an issue labelled…]]'
 - '[[Changes/Cline/2025-11-13-3-developer-workflow-changes-in-v3-37-0|3 Developer
   Workflow changes in v3.37.0]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-11-13-rust-v0-58-0-github-262201496-2a895bfb|codex-cli-2025-11-13-rust-v0-58-0-github-262201496-2a895bfb]]'
@@ -111,7 +111,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.58.0
 ## Nearby in Developer Workflow
 
 - Earlier: 2025-11-13 · Cline · [[Changes/Cline/2025-11-13-3-developer-workflow-changes-in-v3-37-0|3 Developer Workflow changes in v3.37.0]]
-- Later: 2025-11-14 · Gemini CLI · [[Changes/Gemini CLI/2025-11-14-trivial-yaml-fixes-for-linter-by-joshualitt-in-https-github-com-google-gemini-ge|Trivial yaml fixes for linter]]
+- Later: 2025-11-13 · Dify · [[Changes/Dify/2025-11-13-chore-add-type-check-to-pre-commit-by-lyzno1-in-https-github-com-langgenius-dify|chore: add type-check to pre-commit]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -4,20 +4,20 @@ date: '2026-10-12'
 description: 'GitHub Copilot CLI · 2026-10-12 · Enterprise and Administration: Keep
   /allow-all available during startup while enterprise policy is still resolving'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin
-    improvements: Team admins can now mark themselves as unpaid users and can see…]]'
+  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
+    for Google Workspace accounts]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 936
+  lag_days: 1256
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b98e5fccdbf2f19f1fdb958777c43ae73597d720cd45016e42f7d0b38f659354
+machine_hash: 23b6f3bcccaa792fdecfe19ebf1de6dd24ed01c784c94d21b4e9bf231cb37ab6
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,12 +43,12 @@ record:
     resolving
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-10-07-add-enterprise-permissions-limitto-to-enforce-managed-domain-boundaries-for-netw|Add
-  enterprise permissions.limitTo to enforce managed domain boundaries for network…]]'
-- '[[Changes/Claude Code/2026-10-08-claude-tag-changed-claude-s-notice-that-a-channel-shared-across-enterprise-grid|Claude
-  Tag Changed Claude''s notice that a channel shared across Enterprise Grid…]]'
-- '[[Changes/OpenHands/2026-10-08-feat-onboarding-show-the-super-admin-setup-guide-on-enterprise-backends-by-hiept|feat(onboarding):
-  show the Super Admin setup guide on enterprise backends]]'
+- '[[Changes/Lovable/2026-10-09-enterprise-credit-balances-now-appear-as-numbers|Enterprise
+  credit balances now appear as numbers]]'
+- '[[Changes/Lovable/2026-10-09-publish-every-app-in-your-workspace-under-your-own-domain|Publish
+  every app in your workspace under your own domain]]'
+- '[[Changes/Open WebUI/2026-10-10-5-enterprise-and-administration-changes-in-v0-12-0|5
+  Enterprise and Administration changes in v0.12.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-10-12-v1-0-96-github-410909545-b0f77f14|github-copilot-cli-2026-10-12-v1-0-96-github-410909545-b0f77f14]]'
 source_type: github_releases
 theme: enterprise-admin
@@ -80,14 +80,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-10-08 · OpenHands · [[Changes/OpenHands/2026-10-08-feat-onboarding-show-the-super-admin-setup-guide-on-enterprise-backends-by-hiept|feat(onboarding): show the Super Admin setup guide on enterprise backends]]
-- Later: 2026-10-15 · ChatGPT · [[Changes/ChatGPT/2026-10-15-applications-are-now-open-to-labs-at-u-s-universities-if-you-re-a-principal-inve|Applications are now open to labs at U.S. universities]]
+- Earlier: 2026-10-10 · Open WebUI · [[Changes/Open WebUI/2026-10-10-5-enterprise-and-administration-changes-in-v0-12-0|5 Enterprise and Administration changes in v0.12.0]]
+- Later: 2026-10-14 · Open WebUI · [[Changes/Open WebUI/2026-10-14-translated-model-prompt-suggestions-editing-the-prompt-suggestions-of-a-model-th|💬 Translated model prompt suggestions. Editing the prompt suggestions of a model…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-03-20 · Cursor · [[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin improvements: Team admins can now mark themselves as unpaid users and can see…]]
+- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

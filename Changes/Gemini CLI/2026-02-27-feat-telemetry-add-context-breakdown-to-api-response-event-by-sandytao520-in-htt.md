@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ccebd022cd54eab2c693d6e8d7e45bdf65720eb71910e1f4fbf0f633e37743c1
+machine_hash: 90869af31531201986f8659e2cd34796aa0bccc3d91323484fd3195d9064c3d2
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -87,7 +87,7 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2026-02-27 · Cline · [[Changes/Cline/2026-02-27-resolve-could-not-find-the-file-context-error-in-explain-changes|Resolve "Could not find the file context" error in Explain Changes]]
-- Later: 2026-03-02 · Codex CLI · [[Changes/Codex CLI/2026-03-02-12947-feat-add-local-date-timezone-to-turn-environment-context-celia-oai|♯12947 feat: add local date/timezone to turn environment context @celia-oai]]
+- Later: 2026-03-01 · Open WebUI · [[Changes/Open WebUI/2026-03-01-oauth-session-token-decryption-oauth-sessions-are-now-properly-detached-from-the|🔓 OAuth session token decryption. OAuth sessions are now properly detached…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a225b6047cabb51e38c285043267d22f7b3396b8fc835f96ac168e70d38cff36
+machine_hash: 55d72ce0b8324529289bf016ec9b9ae7d5033086ea7b948a8914bbfde901a8b3
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -45,12 +45,12 @@ record:
   title: 4 Collaboration changes in rust-v0.118.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-11-session-export-header-renders-each-field-on-its-own-line-in-shared-gists|Session
-  export header renders each field on its own line in shared gists]]'
-- '[[Changes/GitHub Copilot CLI/2026-03-20-2-collaboration-changes-in-v1-0-10|2 Collaboration
-  changes in v1.0.10]]'
 - '[[Changes/Claude Code/2026-03-25-added-managed-settings-d-drop-in-directory-alongside-managed-settings-json-letti|Added
   managed-settings.d/ drop-in directory alongside managed-settings.json…]]'
+- "[[Changes/Open WebUI/2026-03-25-shared-chat-viewing-crash-shared-chats-can-now-be-viewed-by-unauthenticated-user|\U0001F41B
+  Shared chat viewing crash. Shared chats can now be viewed by unauthenticated…]]"
+- '[[Changes/Dify/2026-03-27-test-workflow-reorganize-specs-into-tests-and-align-with-shared-test-infrastruct|test(workflow):
+  reorganize specs into tests and align with shared test infrastructure]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-03-31-rust-v0-118-0-github-303805427-02df59b6|codex-cli-2026-03-31-rust-v0-118-0-github-303805427-02df59b6]]'
 source_type: github_releases
 theme: collaboration
@@ -99,7 +99,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.118.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-03-25 · Claude Code · [[Changes/Claude Code/2026-03-25-added-managed-settings-d-drop-in-directory-alongside-managed-settings-json-letti|Added managed-settings.d/ drop-in directory alongside managed-settings.json…]]
+- Earlier: 2026-03-27 · Dify · [[Changes/Dify/2026-03-27-test-workflow-reorganize-specs-into-tests-and-align-with-shared-test-infrastruct|test(workflow): reorganize specs into tests and align with shared test infrastructure]]
 - Later: 2026-04-02 · Cursor · [[Changes/Cursor/2026-04-02-2-collaboration-changes-in-3-0|2 Collaboration changes in 3.0]]
 <!-- chronolog:end -->
 

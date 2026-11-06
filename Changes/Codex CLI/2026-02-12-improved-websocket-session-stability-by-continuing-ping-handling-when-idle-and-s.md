@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 14ded09fc9976110ab9401a874cf900618e4ec3b9b35dab8e9ed9e54082cb89a
+machine_hash: d5883a9027071a84924bf77c2170ce71705ee7c08b7e5c1ff14d7ccd6a01d0de
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,12 +44,11 @@ record:
   title: Improved websocket session stability by continuing ping handling when idle…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-01-31-3-reliability-and-performance-changes-in-rust-v0-93-0|3
-  Reliability and Performance changes in rust-v0.93.0]]'
-- '[[Changes/Claude Code/2026-02-03-improved-memory-usage-for-resume-68-reduction-for-users-with-many-sessions-by-re|Improved
-  memory usage for --resume (68% reduction for users with many sessions)…]]'
 - '[[Changes/Windsurf/2026-02-05-various-bug-fixes-and-performance-improvements|Various
   bug fixes and performance improvements]]'
+- '[[Changes/ElevenLabs/2026-02-09-text-to-speech|Text to Speech]]'
+- '[[Changes/Dify/2026-02-11-3-reliability-and-performance-changes-in-1-13-0|3 Reliability
+  and Performance changes in 1.13.0]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-02-12-rust-v0-100-0-github-285810603-4852bda6|codex-cli-2026-02-12-rust-v0-100-0-github-285810603-4852bda6]]'
 source_type: github_releases
 theme: reliability-performance
@@ -88,8 +87,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-02-05 · Windsurf · [[Changes/Windsurf/2026-02-05-various-bug-fixes-and-performance-improvements|Various bug fixes and performance improvements]]
-- Later: 2026-02-12 · Windsurf · [[Changes/Windsurf/2026-02-12-addressed-multiple-memory-leaks|Addressed multiple memory leaks]]
+- Earlier: 2026-02-11 · Dify · [[Changes/Dify/2026-02-11-3-reliability-and-performance-changes-in-1-13-0|3 Reliability and Performance changes in 1.13.0]]
+- Later: 2026-02-12 · Open WebUI · [[Changes/Open WebUI/2026-02-12-16-reliability-and-performance-changes-in-v0-8-0|16 Reliability and Performance changes in v0.8.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

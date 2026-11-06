@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 67ad147a973d8df58c7d3baf105db2256470c3342ee9f42988a6eb4f5e7fc122
+machine_hash: a7050716c4e36c54d27b78c8bc559e14e0cbe4607dee6d58c4467d3f5294315a
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -43,12 +43,12 @@ record:
   title: Improve pty resize error handling for Windows
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-11-13-we-re-piloting-group-chats-so-you-can-bring-people-and-chatgpt-into-the-same-con-21fa05|Group
-  chats in ChatGPT]]'
-- '[[Changes/Codex CLI/2025-11-13-6387-for-npm-upgrade-on-windows-go-through-cmd-exe-to-get-path-traversal-working|♯6387
-  — For npm upgrade on Windows, go through cmd.exe to get path traversal working…]]'
 - '[[Changes/Codex CLI/2025-11-19-3-mobile-and-desktop-changes-in-rust-v0-59-0|3 Mobile
   and Desktop changes in rust-v0.59.0]]'
+- '[[Changes/Gemini/2025-11-20-drive-with-gemini-in-android-auto|Drive with Gemini
+  in Android Auto]]'
+- "[[Changes/Open WebUI/2025-11-24-pwa-installations-on-ios-now-properly-refresh-after-server-container-restarts-re|\U0001F4F1
+  PWA installations on iOS now properly refresh after server container restarts…]]"
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-11-26-v0-18-0-github-265323405-bd13d891|gemini-cli-2025-11-26-v0-18-0-github-265323405-bd13d891]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -82,8 +82,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2025-11-19 · Codex CLI · [[Changes/Codex CLI/2025-11-19-3-mobile-and-desktop-changes-in-rust-v0-59-0|3 Mobile and Desktop changes in rust-v0.59.0]]
-- Later: 2025-12-02 · Codex CLI · [[Changes/Codex CLI/2025-12-02-execution-gains-an-experimental-exp-model-unified-exec-pruning-to-limit-session|Execution gains an experimental “exp” model, unified exec pruning to limit session…]]
+- Earlier: 2025-11-24 · Open WebUI · [[Changes/Open WebUI/2025-11-24-pwa-installations-on-ios-now-properly-refresh-after-server-container-restarts-re|📱 PWA installations on iOS now properly refresh after server container restarts…]]
+- Later: 2025-11-27 · ElevenLabs · [[Changes/ElevenLabs/2025-11-27-client|Client]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

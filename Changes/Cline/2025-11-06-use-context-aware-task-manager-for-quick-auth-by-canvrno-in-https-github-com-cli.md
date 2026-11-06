@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 774ca701eeaceb51eb944accb8948b7c0e79a95196ce7ec14e529b0b6641d851
+machine_hash: 73b15c83872dcbe5d1de01ca6d8b032a689fbc5557e3a93f8cd2d00e50b181e8
 product: cline
 product_name: Cline
 record:
@@ -41,11 +41,10 @@ record:
   title: Use context-aware task manager for quick auth
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-10-30-2-context-window-changes-in-rust-v0-52-0|2 Context
-  Window changes in rust-v0.52.0]]'
 - '[[Changes/Codex CLI/2025-11-04-6161-include-reasoning-tokens-in-the-context-window-calculation-6161|♯6161
   Include reasoning tokens in the context window calculation (♯6161)]]'
 - '[[Changes/Windsurf/2025-11-04-cascade-summarization-fix|Cascade Summarization Fix]]'
+- '[[Changes/ElevenLabs/2025-11-05-tokens|Tokens]]'
 source_release: '[[Releases/Cline/cline-2025-11-06-v3-36-0-github-260111710-dee57321|cline-2025-11-06-v3-36-0-github-260111710-dee57321]]'
 source_type: github_releases
 theme: context-window
@@ -77,8 +76,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2025-11-04 · Windsurf · [[Changes/Windsurf/2025-11-04-cascade-summarization-fix|Cascade Summarization Fix]]
-- Later: 2025-11-07 · Gemini CLI · [[Changes/Gemini CLI/2025-11-07-remove-context-percentage-in-footer-by-default-by-abhipatel12-in-https-github-co|Remove context percentage in footer by default]]
+- Earlier: 2025-11-05 · ElevenLabs · [[Changes/ElevenLabs/2025-11-05-tokens|Tokens]]
+- Later: 2025-11-06 · Open WebUI · [[Changes/Open WebUI/2025-11-06-3-context-window-changes-in-v0-6-35|3 Context Window changes in v0.6.35]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

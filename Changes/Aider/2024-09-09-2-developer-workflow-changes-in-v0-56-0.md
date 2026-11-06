@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 80a2680ce91ac5935cf23486bbcf4d36b7b05d3bfd5d291c2a02eba566ca5a7d
+machine_hash: 2fd4ed2408878cbc24db31d5acea8e6d2e49e6059a3bb9bfd6fa68411b57b617
 product: aider
 product_name: Aider
 record:
@@ -43,10 +43,10 @@ record:
   title: 2 Developer Workflow changes in v0.56.0
   type: change
 related_changes:
-- '[[Changes/Aider/2024-08-28-2-developer-workflow-changes-in-v0-54-0|2 Developer
-  Workflow changes in v0.54.0]]'
 - '[[Changes/Cline/2024-09-02-new-terminal-emulator-when-claude-runs-commands-you-can-now-type-directly-in-the|New
   terminal emulator!]]'
+- '[[Changes/Dify/2024-09-03-3-developer-workflow-changes-in-0-7-3|3 Developer Workflow
+  changes in 0.7.3]]'
 - '[[Changes/Aider/2024-09-04-6-developer-workflow-changes-in-v0-55-0|6 Developer
   Workflow changes in v0.55.0]]'
 source_release: '[[Releases/Aider/aider-2024-09-09-v0-56-0-github-174219074-6eb861eb|aider-2024-09-09-v0-56-0-github-174219074-6eb861eb]]'
@@ -84,7 +84,7 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.56.0
 ## Nearby in Developer Workflow
 
 - Earlier: 2024-09-04 · Aider · [[Changes/Aider/2024-09-04-6-developer-workflow-changes-in-v0-55-0|6 Developer Workflow changes in v0.55.0]]
-- Later: 2024-09-14 · Cline · [[Changes/Cline/2024-09-14-2-developer-workflow-changes-in-v1-7-0|2 Developer Workflow changes in v1.7.0]]
+- Later: 2024-09-10 · Dify · [[Changes/Dify/2024-09-10-2-developer-workflow-changes-in-0-8-0|2 Developer Workflow changes in 0.8.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

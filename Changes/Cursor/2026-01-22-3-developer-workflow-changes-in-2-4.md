@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8f79f05abe9fb271a84d85ba62672a12f343e34660c0ca753af3f12ff476a964
+machine_hash: ed32433b711298cbe084192ea426b7d3d5b38bad11b38fc68338cbc616ec8bba
 product: cursor
 product_name: Cursor
 record:
@@ -45,8 +45,8 @@ record:
   title: 3 Developer Workflow changes in 2.4
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-01-21-7-developer-workflow-changes-in-v0-25-0|7 Developer
-  Workflow changes in v0.25.0]]'
+- '[[Changes/Ollama/2026-01-21-new-ollama-launch-command-for-claude-code-codex-opencode-and-droid|New
+  ollama launch command for Claude Code, Codex, OpenCode, and Droid]]'
 - '[[Changes/Claude Code/2026-01-22-added-new-task-management-system-including-new-capabilities-like-dependency-trac|Added
   new task management system, including new capabilities like dependency tracking]]'
 - '[[Changes/Codex CLI/2026-01-22-4-developer-workflow-changes-in-rust-v0-89-0|4 Developer

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8e02ba6a069bc9a8b73bec5996e2fdebf600068c43858c128d1ad5ae268ff29f
+machine_hash: 2710e151f022ce1b0ff7166ca7515924d9f012c02cffaeeea170b43618f18d70
 product: cursor
 product_name: Cursor
 record:
@@ -49,8 +49,8 @@ record:
     changes…
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-02-25-3-developer-workflow-changes-in-v0-30-0|3 Developer
-  Workflow changes in v0.30.0]]'
+- '[[Changes/v0/2026-02-25-added-repository-information-to-first-message-in-git-connected-chats|Added
+  repository information to first message in git-connected chats]]'
 - '[[Changes/Claude Code/2026-02-26-improved-always-allow-prefix-suggestions-for-compound-bash-commands-e-g-cd-tmp-g|Improved
   "always allow" prefix suggestions for compound bash commands…]]'
 - '[[Changes/Codex CLI/2026-02-26-12758-feat-include-available-decisions-in-command-approval-requests-bolinfest|♯12758

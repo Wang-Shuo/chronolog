@@ -4,20 +4,20 @@ date: '2026-04-16'
 description: 'ChatGPT · 2026-04-16 · Enterprise and Administration: We''re beginning
   to roll out ads for users on Free and Go plans in Australia, New Zealand, and Canada…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin
-    improvements: Team admins can now mark themselves as unpaid users and can see…]]'
+  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
+    for Google Workspace accounts]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 757
+  lag_days: 1077
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: expansion
-machine_hash: 2fb617a0445e5247ddfae7140d81f3254928841af655ae386ba4fd9ddb1654c1
+machine_hash: 12a1148346c52144cc9ed91170faaaf828277532e60c6378cf71d9c8f92979e5
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -79,13 +79,13 @@ type: change
 ## Nearby in Enterprise and Administration
 
 - Earlier: 2026-04-10 · Codex CLI · [[Changes/Codex CLI/2026-04-10-the-readme-now-uses-the-current-chatgpt-business-plan-name-16348|The README now uses the current ChatGPT Business plan name (♯16348)]]
-- Later: 2026-04-23 · Claude Code · [[Changes/Claude Code/2026-04-23-added-disable-updates-env-var-to-completely-block-all-update-paths-including-man|Added DISABLE_UPDATES env var to completely block all update paths including…]]
+- Later: 2026-04-17 · Replit · [[Changes/Replit/2026-04-17-teams-and-enterprise|Teams and Enterprise]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-03-20 · Cursor · [[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin improvements: Team admins can now mark themselves as unpaid users and can see…]]
+- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

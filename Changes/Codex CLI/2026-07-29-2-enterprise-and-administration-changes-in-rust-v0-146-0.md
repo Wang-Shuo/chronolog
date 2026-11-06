@@ -5,20 +5,20 @@ description: 'Codex CLI · 2026-07-29 · Enterprise and Administration: 2 change
   0.146.0 — Add enterprise-plan recognition and administrator controls for in-app
   updates…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin
-    improvements: Team admins can now mark themselves as unpaid users and can see…]]'
+  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
+    for Google Workspace accounts]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 861
+  lag_days: 1181
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 80c9e8890626a907bd252828848b15e01f5f59d82841078dbf2f5636275288f6
+machine_hash: 78d9f334fd868d674e5a82247798f46965466cbefceb2c9f125e003a84153e86
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,11 +44,12 @@ record:
   title: 2 Enterprise and Administration changes in rust-v0.146.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-10-long-running-sessions-refresh-enterprise-managed-settings-hourly|Long-running
-  sessions refresh enterprise managed settings hourly]]'
-- '[[Changes/Claude Code/2026-07-15-changed-usage-credits-to-ask-for-confirmation-before-sending-a-request-to-organi|Changed
-  /usage-credits to ask for confirmation before sending a request…]]'
-- '[[Changes/Cursor/2026-07-22-admin-controls|Admin controls]]'
+- '[[Changes/Lovable/2026-07-24-editors-can-see-build-secret-names|Editors can see
+  build secret names]]'
+- '[[Changes/Open WebUI/2026-07-27-3-enterprise-and-administration-changes-in-v0-11-0|3
+  Enterprise and Administration changes in v0.11.0]]'
+- '[[Changes/Dify/2026-07-28-2-enterprise-and-administration-changes-in-1-16-1|2 Enterprise
+  and Administration changes in 1.16.1]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-07-29-rust-v0-146-0-github-361463950-6d491983|codex-cli-2026-07-29-rust-v0-146-0-github-361463950-6d491983]]'
 source_type: github_releases
 theme: enterprise-admin
@@ -96,14 +97,14 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.146.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-07-22 · Cursor · [[Changes/Cursor/2026-07-22-admin-controls|Admin controls]]
-- Later: 2026-08-04 · ChatGPT · [[Changes/ChatGPT/2026-08-04-starting-today-for-chatgpt-enterprise-and-education-users-long-pastes-are-handle|Starting today for ChatGPT Enterprise and Education users, long pastes are handled…]]
+- Earlier: 2026-07-28 · Dify · [[Changes/Dify/2026-07-28-2-enterprise-and-administration-changes-in-1-16-1|2 Enterprise and Administration changes in 1.16.1]]
+- Later: 2026-07-30 · Lovable · [[Changes/Lovable/2026-07-30-private-registry-is-now-managed-registry|Private registry is now Managed registry]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-03-20 · Cursor · [[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin improvements: Team admins can now mark themselves as unpaid users and can see…]]
+- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

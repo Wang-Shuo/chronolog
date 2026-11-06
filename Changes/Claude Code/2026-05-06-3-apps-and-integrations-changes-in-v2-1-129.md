@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: eacdb55762d4ac511bddf4991b72b30f47aae8528e2c09a887665f19b06b7eee
+machine_hash: c7ef28df21f47840c696632afac55c0e070bd333781ee5a730fe6a483a2588ae
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,8 +49,7 @@ record:
   title: 3 Apps and Integrations changes in v2.1.129
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-04-6-apps-and-integrations-changes-in-v2-1-128|6
-  Apps and Integrations changes in v2.1.128]]'
+- '[[Changes/ElevenLabs/2026-05-04-javascript-sdk|JavaScript SDK]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-05-2-apps-and-integrations-changes-in-v1-0-41|2
   Apps and Integrations changes in v1.0.41]]'
 - '[[Changes/Claude Code/2026-05-06-added-claude-code-session-id-environment-variable-to-the-bash-tool-subprocess-en|Added

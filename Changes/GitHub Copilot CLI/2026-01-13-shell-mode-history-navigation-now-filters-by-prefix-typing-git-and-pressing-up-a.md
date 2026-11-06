@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4c1cd6d2406c1769789ac393a22f2aecb624f39eaff724c56aa2e1853e0dcc14
+machine_hash: b7d0bc8461bca37ec5a881a79930d0ed196f9225eb5742192c7f8e5a44387336
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,10 +44,10 @@ record:
     up…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-09-added-shift-tab-keyboard-shortcut-in-plan-mode-to-quickly-select-auto-accept-edi|Added
-  Shift+Tab keyboard shortcut in plan mode to quickly select…]]'
 - '[[Changes/Codex CLI/2026-01-09-3-interface-experience-changes-in-rust-v0-80-0|3
   Interface Experience changes in rust-v0.80.0]]'
+- '[[Changes/Open WebUI/2026-01-09-5-interface-experience-changes-in-v0-7-0|5 Interface
+  Experience changes in v0.7.0]]'
 - '[[Changes/Claude Code/2026-01-13-added-updates-section-to-doctor-showing-auto-update-channel-and-available-npm-ve|Added
   Updates section to /doctor showing auto-update channel and available npm…]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-01-13-v0-0-381-github-276485455-00f2509f|github-copilot-cli-2026-01-13-v0-0-381-github-276485455-00f2509f]]'
@@ -82,7 +82,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-01-13 · Claude Code · [[Changes/Claude Code/2026-01-13-added-updates-section-to-doctor-showing-auto-update-channel-and-available-npm-ve|Added Updates section to /doctor showing auto-update channel and available npm…]]
-- Later: 2026-01-14 · Claude Code · [[Changes/Claude Code/2026-01-14-added-showturnduration-setting-to-hide-turn-duration-messages-e-g-cooked-for-1m|Added showTurnDuration setting to hide turn duration messages (e.g., "Cooked for 1m 6s")]]
+- Later: 2026-01-13 · v0 · [[Changes/v0/2026-01-13-added-credits-display-in-the-user-menu|Added credits display in the user menu]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

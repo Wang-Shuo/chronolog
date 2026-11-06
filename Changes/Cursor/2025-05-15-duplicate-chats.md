@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: eca9da9844a55893f7a643e9e7880a61919c442674c9c73c61c376311d09d9b0
+machine_hash: 9202fb4983776c356c22ddb81741834d6f886c19f0d315ca132386672dd2f757
 product: cursor
 product_name: Cursor
 record:
@@ -47,10 +47,10 @@ record:
   title: Duplicate Chats
   type: change
 related_changes:
-- '[[Changes/Aider/2025-05-09-3-interface-experience-changes-in-v0-83-0|3 Interface
-  Experience changes in v0.83.0]]'
 - '[[Changes/Cline/2025-05-10-add-support-for-batch-selection-and-deletion-of-tasks-in-history-thanks-danix800|Add
   support for batch selection and deletion of tasks in history (Thanks danix800!)]]'
+- '[[Changes/Open WebUI/2025-05-10-3-interface-experience-changes-in-v0-6-8|3 Interface
+  Experience changes in v0.6.8]]'
 - '[[Changes/Cline/2025-05-12-added-details-to-auto-approve-menu-and-more-sensible-default-controls|Added
   details to auto approve menu and more sensible default controls]]'
 source_release: '[[Releases/Cursor/cursor-2025-05-15-0-50-https-cursor-com-changelog-0-50-dc290998|cursor-2025-05-15-0-50-https-cursor-com-changelog-0-50-dc290998]]'
@@ -89,7 +89,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2025-05-12 · Cline · [[Changes/Cline/2025-05-12-added-details-to-auto-approve-menu-and-more-sensible-default-controls|Added details to auto approve menu and more sensible default controls]]
-- Later: 2025-05-18 · Cline · [[Changes/Cline/2025-05-18-update-ui-styling-for-auto-approve-menu-items-to-conserve-space|Update UI styling for auto-approve menu items to conserve space]]
+- Later: 2025-05-15 · Dify · [[Changes/Dify/2025-05-15-2-interface-experience-changes-in-1-4-0|2 Interface Experience changes in 1.4.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

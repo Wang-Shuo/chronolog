@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 5bfb777e351e3b3e8d0554f6f0a8d68b5a1522762c99654247dc5d51fa59c99a
+machine_hash: 8774835e40b2ec251cd3376756e7c3bab4a419fd2f4732dae98a3b162efc8617
 product: cursor
 product_name: Cursor
 record:
@@ -48,8 +48,7 @@ record:
   title: GitHub support for Background Agents
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-08-02-6-agent-mode-changes-in-v0-1-16|6 Agent Mode changes
-  in v0.1.16]]'
+- '[[Changes/ElevenLabs/2025-08-04-agents-platform-df3387|Agents Platform]]'
 - '[[Changes/Gemini CLI/2025-08-05-6-agent-mode-changes-in-v0-1-17|6 Agent Mode changes
   in v0.1.17]]'
 - '[[Changes/Cursor/2025-08-06-improved-agent-tools-488891|Improved Agent tools]]'

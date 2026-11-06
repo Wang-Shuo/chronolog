@@ -4,20 +4,20 @@ date: '2026-11-05'
 description: 'OpenHands · 2026-11-05 · Automation and Scheduling: 11 changes in v1.36.0
   — feat(automations): open templates without the missing-integration notice by @ak684…'
 diffusion:
-  first_in_tracked: '[[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better
-    syntax error loop detection]]'
+  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
+    data clean schedule]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 792
+  lag_days: 1038
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f854f636c7cf454783549bdde9a0122214298ae653169b35b020ddfa7f9e5770
+machine_hash: bd48a78b9f60e28c9a368cc6c85a546d5ddafa3f83afbe09b0dd4608f369525f
 product: openhands
 product_name: OpenHands
 record:
@@ -71,12 +71,12 @@ record:
   title: 11 Automation and Scheduling changes in v1.36.0
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-10-27-6-automation-and-scheduling-changes-in-v1-34-0|6
-  Automation and Scheduling changes in v1.34.0]]'
-- '[[Changes/Claude Code/2026-10-31-2-automation-and-scheduling-changes-in-v2-1-316|2
-  Automation and Scheduling changes in v2.1.316]]'
+- '[[Changes/Open WebUI/2026-11-03-2-automation-and-scheduling-changes-in-v0-13-0|2
+  Automation and Scheduling changes in v0.13.0]]'
 - '[[Changes/OpenHands/2026-11-03-6-automation-and-scheduling-changes-in-v1-35-0|6
   Automation and Scheduling changes in v1.35.0]]'
+- '[[Changes/Dify/2026-11-04-3-automation-and-scheduling-changes-in-1-19-0|3 Automation
+  and Scheduling changes in 1.19.0]]'
 source_release: '[[Releases/OpenHands/openhands-2026-11-05-v1-36-0-github-435773936-3d3cf53c|openhands-2026-11-05-v1-36-0-github-435773936-3d3cf53c]]'
 source_type: github_releases
 theme: automation-scheduling
@@ -131,14 +131,14 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/v1.36.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2026-11-03 · OpenHands · [[Changes/OpenHands/2026-11-03-6-automation-and-scheduling-changes-in-v1-35-0|6 Automation and Scheduling changes in v1.35.0]]
+- Earlier: 2026-11-04 · Dify · [[Changes/Dify/2026-11-04-3-automation-and-scheduling-changes-in-1-19-0|3 Automation and Scheduling changes in 1.19.0]]
 - Later: 2026-11-06 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-11-06-in-the-every-schedule-manager-x-now-removes-the-highlighted-schedule-even-after|In the /every schedule manager, x now removes the highlighted schedule even after…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-09-04 · OpenHands · [[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better syntax error loop detection]]
+- Earliest same-theme entry in the tracked set: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

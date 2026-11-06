@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: db963b515165aceee3bb9c92716444078f295d6a91d7d8012f106b17a7174fb6
+machine_hash: 17caec5bd66ada88eb169fcb0e2b3c4b4e827682b1954d4a0c4e5ca4fd458247
 product: windsurf
 product_name: Windsurf
 record:
@@ -41,8 +41,7 @@ record:
   title: Updated & Simplified Pricing
   type: change
 related_changes:
-- '[[Changes/Aider/2025-04-04-prevent-retrying-api-calls-when-the-provider-reports-insufficient-credits|Prevent
-  retrying API calls when the provider reports insufficient credits]]'
+- '[[Changes/ElevenLabs/2025-04-07-user-subscription|User Subscription]]'
 - '[[Changes/Cline/2025-04-15-eng-435-xai-provider-cost-issue-by-canvrno-in-https-github-com-cline-cline-pull|ENG-435/xAI
   provider cost issue]]'
 - '[[Changes/Windsurf/2025-04-20-we-re-getting-rid-of-flow-action-credits|We''re getting
@@ -78,7 +77,7 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2025-04-15 · Cline · [[Changes/Cline/2025-04-15-eng-435-xai-provider-cost-issue-by-canvrno-in-https-github-com-cline-cline-pull|ENG-435/xAI provider cost issue]]
-- Later: 2025-05-15 · Cursor · [[Changes/Cursor/2025-05-15-simpler-unified-pricing-6a915c|Simpler, unified pricing]]
+- Later: 2025-05-02 · Lovable · [[Changes/Lovable/2025-05-02-improvements|Improvements]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -1,0 +1,119 @@
+---
+card_id: elevenlabs-2026-10-26-967147
+date: '2026-10-26'
+description: 'ElevenLabs · 2026-10-26 · Mobile and Desktop: 2 changes in ElevenLabs
+  updates — 2026-10-26 — **Widget fullscreen on mobile**: Widget configuration adds…'
+diffusion:
+  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
+    and Linux support \U0001F973]]"
+  inference: No adoption, equivalence, or causation claim.
+  lag_days: 1322
+  relation: same-theme-chronology
+  role: later-observed
+  scope: tracked-products-only
+  theme: mobile-desktop
+  tracked_products_count: 20
+evolves_from: []
+extractor_version: fallback-v5
+impact: incremental
+kind: digest
+machine_hash: ed962ce284368ebdde764f0d2110d1bc511b9978e1b87c9653098d27b73baa67
+product: elevenlabs
+product_name: ElevenLabs
+record:
+  card_id: elevenlabs-2026-10-26-967147
+  comparison: ''
+  date: '2026-10-26'
+  description: 'ElevenLabs — ElevenLabs updates — 2026-10-26: 2 Mobile and Desktop
+    changes'
+  evidence:
+  - quote: '**Widget fullscreen on mobile**: Widget configuration adds `mobile_fullscreen`
+      (default `true`), with a **Fullscreen on mobile** switch in the dashboard. Set
+      it to `false` to keep the compact layout on phones. See [Widget](https://elevenlabs.io/docs/eleven-agents/customization/widget).'
+    source_release: https://elevenlabs.io/docs/changelog/2026/10/26
+  - quote: '**WhatsApp**: WhatsApp conversations resumed by a reply to a batch call
+      template keep their `batch_call` metadata and batch ID.'
+    source_release: https://elevenlabs.io/docs/changelog/2026/10/26
+  extractor_version: fallback-v5
+  impact: incremental
+  kind: digest
+  product: elevenlabs
+  product_name: ElevenLabs
+  slug: 2-mobile-and-desktop-changes-in-elevenlabs-updates-2026-10-26
+  source_release: elevenlabs-2026-10-26-2026-10-26-ca7c552d
+  source_type: elevenlabs_changelog
+  theme: mobile-desktop
+  title: 2 Mobile and Desktop changes in ElevenLabs updates — 2026-10-26
+  type: change
+related_changes:
+- '[[Changes/OpenHands/2026-10-23-the-app-isn-t-signed-with-an-apple-developer-id-yet-so-macos-may-call-a-6f8043|The
+  app isn''t signed with an Apple Developer ID yet, so macOS may call a]]'
+- '[[Changes/Windsurf/2026-10-23-on-windows-wsl-distros-can-be-used-as-remote-agent-hosts-alongside-ssh-hosts-and|On
+  Windows, WSL distros can be used as remote agent hosts alongside SSH hosts…]]'
+- '[[Changes/ElevenLabs/2026-10-26-android-sdk|Android SDK]]'
+source_release: '[[Releases/ElevenLabs/elevenlabs-2026-10-26-2026-10-26-ca7c552d|elevenlabs-2026-10-26-2026-10-26-ca7c552d]]'
+source_type: elevenlabs_changelog
+theme: mobile-desktop
+title: 2 Mobile and Desktop changes in ElevenLabs updates — 2026-10-26
+type: change
+---
+
+<!-- chronolog:begin region="header" -->
+# 2 Mobile and Desktop changes in ElevenLabs updates — 2026-10-26
+
+**ElevenLabs** · 2026-10-26 · [[Themes/mobile-desktop|Mobile and Desktop]] · Digest · [Official source](https://elevenlabs.io/docs/changelog/2026/10/26) · from [[Releases/ElevenLabs/elevenlabs-2026-10-26-2026-10-26-ca7c552d|ElevenLabs updates — 2026-10-26]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="evidence" -->
+## Changes in this digest
+
+> **Widget fullscreen on mobile**: Widget configuration adds `mobile_fullscreen` (default `true`), with a **Fullscreen on mobile** switch in the dashboard. Set it to `false` to keep the compact layout on phones. See [Widget](https://elevenlabs.io/docs/eleven-agents/customization/widget).
+
+> **WhatsApp**: WhatsApp conversations resumed by a reply to a batch call template keep their `batch_call` metadata and batch ID.
+
+Source: https://elevenlabs.io/docs/changelog/2026/10/26
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/ElevenLabs/2026-10-26-2-apps-and-integrations-changes-in-elevenlabs-updates-2026-10-26|2 Apps and Integrations changes in ElevenLabs updates — 2026-10-26]] · Apps and Integrations
+- [[Changes/ElevenLabs/2026-10-26-python-sdk|Python SDK]] · Voice and Audio
+- [[Changes/ElevenLabs/2026-10-26-knowledge-base-crawl-exclusions|Knowledge base crawl exclusions]] · Agent Mode
+- [[Changes/ElevenLabs/2026-10-26-elevenagents|ElevenAgents]] · Agent Mode
+- [[Changes/ElevenLabs/2026-10-26-clone-strength-for-v4-voices|Clone strength for v4 voices]] · Voice and Audio
+- [[Changes/ElevenLabs/2026-10-26-android-sdk|Android SDK]] · Mobile and Desktop
+- [[Changes/ElevenLabs/2026-10-26-2-pricing-model-changes-in-elevenlabs-updates-2026-10-26|2 Pricing Model changes in ElevenLabs updates — 2026-10-26]] · Pricing Model
+- [[Changes/ElevenLabs/2026-10-26-transcript-downloads-the-dubbing-project-menu-can-download-target-language-trans|Transcript downloads: The dubbing project menu can download target language…]] · Interface Experience
+- [[Changes/ElevenLabs/2026-10-26-video-to-music-studio-s-video-to-music-workflow-uses-music-v2-5-by-default|Video to music: Studio's video to music workflow uses Music v2.5 by default]] · Multimodal Input
+- [[Changes/ElevenLabs/2026-10-26-2-editor-experience-changes-in-elevenlabs-updates-2026-10-26|2 Editor Experience changes in ElevenLabs updates — 2026-10-26]] · Editor Experience
+- [[Changes/ElevenLabs/2026-10-26-dubbing|Dubbing]] · Voice and Audio
+- [[Changes/ElevenLabs/2026-10-26-voice-changer|Voice Changer]] · Voice and Audio
+- [[Changes/ElevenLabs/2026-10-26-packages|Packages]] · Voice and Audio
+- [[Changes/ElevenLabs/2026-10-26-14-voice-and-audio-changes-in-elevenlabs-updates-2026-10-26|14 Voice and Audio changes in ElevenLabs updates — 2026-10-26]] · Voice and Audio
+- [[Changes/ElevenLabs/2026-10-26-javascript-sdk|JavaScript SDK]] · Voice and Audio
+- [[Changes/ElevenLabs/2026-10-26-voice-cloning-permissions-members-without-the-create-instant-voice-clone-or-crea|Voice cloning permissions]] · Safety and Privacy
+- [[Changes/ElevenLabs/2026-10-26-9-agent-mode-changes-in-elevenlabs-updates-2026-10-26|9 Agent Mode changes in ElevenLabs updates — 2026-10-26]] · Agent Mode
+- [[Changes/ElevenLabs/2026-10-26-fast-llm-service-tier|Fast LLM service tier]] · Model Support
+- [[Changes/ElevenLabs/2026-10-26-3-model-support-changes-in-elevenlabs-updates-2026-10-26|3 Model Support changes in ElevenLabs updates — 2026-10-26]] · Model Support
+- [[Changes/ElevenLabs/2026-10-26-elevenlabs-cli|ElevenLabs CLI]] · Account and Access
+- [[Changes/ElevenLabs/2026-10-26-oauth-scope-oauth-clients-can-request-the-realtime-translation-scope|OAuth scope: OAuth clients can request the realtime_translation scope]] · Account and Access
+- [[Changes/ElevenLabs/2026-10-26-9-other-changes-in-elevenlabs-updates-2026-10-26|9 other changes in ElevenLabs updates — 2026-10-26]] · Other changes
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Mobile and Desktop
+
+- Earlier: 2026-10-23 · Windsurf · [[Changes/Windsurf/2026-10-23-on-windows-wsl-distros-can-be-used-as-remote-agent-hosts-alongside-ssh-hosts-and|On Windows, WSL distros can be used as remote agent hosts alongside SSH hosts…]]
+- Later: 2026-10-26 · Windsurf · [[Changes/Windsurf/2026-10-26-on-macos-banners-at-the-top-of-the-window-no-longer-interfere-with-the-window-co|On macOS, banners at the top of the window no longer interfere with the window controls]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20elevenlabs-2026-10-26-967147&body=Card%3A%20Changes%2FElevenLabs%2F2026-10-26-2-mobile-and-desktop-changes-in-elevenlabs-updates-2026-10-26.md%0ACard%20ID%3A%20elevenlabs-2026-10-26-967147%0ASource%3A%20https%3A%2F%2Felevenlabs.io%2Fdocs%2Fchangelog%2F2026%2F10%2F26%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

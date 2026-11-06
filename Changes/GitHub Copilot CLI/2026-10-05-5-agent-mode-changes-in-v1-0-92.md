@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d499686acc48551060b34eff61ffec7de613059bc196232c337ae2b613cc37c9
+machine_hash: 0bd1136a1048b333469962bb6a54c7d1fcbb16ce72692b7ccef3d5f8441d6da4
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -55,12 +55,9 @@ record:
   title: 5 Agent Mode changes in v1.0.92
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-05-added-claude-api-managed-agents-onboard-url-to-set-up-the-managed-agents-pattern|Added
-  /claude-api managed-agents-onboard url to set up the Managed Agents…]]'
-- '[[Changes/Claude Code/2026-10-05-added-claude-api-managed-agents-onboard-quickstart-name-to-build-a-console-quick|Added
-  /claude-api managed-agents-onboard quickstart-name to build a Console…]]'
-- '[[Changes/Claude Code/2026-10-05-4-agent-mode-changes-in-v2-1-290|4 Agent Mode
-  changes in v2.1.290]]'
+- '[[Changes/ElevenLabs/2026-10-05-elevenagents|ElevenAgents]]'
+- '[[Changes/ElevenLabs/2026-10-05-elevenagents-5bf5b0|ElevenAgents]]'
+- '[[Changes/ElevenLabs/2026-10-05-elevenagents-ceeb34|ElevenAgents]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-10-05-v1-0-92-github-404054639-a6ba3455|github-copilot-cli-2026-10-05-v1-0-92-github-404054639-a6ba3455]]'
 source_type: github_releases
 theme: agent-mode
@@ -112,7 +109,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.92
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-10-05 · Claude Code · [[Changes/Claude Code/2026-10-05-4-agent-mode-changes-in-v2-1-290|4 Agent Mode changes in v2.1.290]]
+- Earlier: 2026-10-05 · ElevenLabs · [[Changes/ElevenLabs/2026-10-05-elevenagents-ceeb34|ElevenAgents]]
 - Later: 2026-10-06 · Claude Code · [[Changes/Claude Code/2026-10-06-3-agent-mode-changes-in-v2-1-292|3 Agent Mode changes in v2.1.292]]
 <!-- chronolog:end -->
 

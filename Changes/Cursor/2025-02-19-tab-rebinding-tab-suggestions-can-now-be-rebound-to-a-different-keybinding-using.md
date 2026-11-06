@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 62a4b99fbf3bae1f1439e57a23a49cb8659037f01763aa56017d26a5e04e5cf8
+machine_hash: 68646c8f0818ca9d2fb644578f2c7333b19bdec27d10d2e74d880ce890654bc6
 product: cursor
 product_name: Cursor
 record:
@@ -53,10 +53,10 @@ record:
     using…'
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-01-22-users-can-now-define-a-different-llm-as-a-custom-llm-config-named-with-a-predefi|Users
-  can now define a different LLM as a custom LLM config named with a predefined name]]'
 - '[[Changes/OpenHands/2025-02-13-add-success-failure-indicators-for-file-read-edit-operations-by-neubig-in-https|Add
   success/failure indicators for file read/edit operations]]'
+- "[[Changes/Open WebUI/2025-02-14-playground-text-completion-restored-addressed-an-issue-where-text-completion-in|\U0001F4DD
+  Playground Text Completion Restored]]"
 - '[[Changes/Cursor/2025-02-19-ignore-files-cursorignore-now-blocks-files-from-being-added-in-chat-or-sent-up-f|Ignore
   files: .cursorignore now blocks files from being added in chat or sent up…]]'
 source_release: '[[Releases/Cursor/cursor-2025-02-19-0-46-x-https-cursor-com-changelog-0-46-x-640a0a10|cursor-2025-02-19-0-46-x-https-cursor-com-changelog-0-46-x-640a0a10]]'
@@ -98,8 +98,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2025-02-13 · OpenHands · [[Changes/OpenHands/2025-02-13-add-success-failure-indicators-for-file-read-edit-operations-by-neubig-in-https|Add success/failure indicators for file read/edit operations]]
-- Later: 2025-03-11 · Cursor · [[Changes/Cursor/2025-03-11-0-47-2-cursor-tab-accepts-work-with-single-line-selections|0.47.2: Cursor Tab accepts work with single-line selections]]
+- Earlier: 2025-02-14 · Open WebUI · [[Changes/Open WebUI/2025-02-14-playground-text-completion-restored-addressed-an-issue-where-text-completion-in|📝 Playground Text Completion Restored]]
+- Later: 2025-02-21 · Lovable · [[Changes/Lovable/2025-02-21-improvements-in-visual-edits-https-x-com-lovable-dev-status-1892249059718484100|Improvements in visual edits((source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

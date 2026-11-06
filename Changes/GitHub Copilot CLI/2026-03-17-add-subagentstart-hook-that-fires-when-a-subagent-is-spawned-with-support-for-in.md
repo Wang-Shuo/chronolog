@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 6bb53f6bdf533d1760a0d9a89a899c9c9c7cc44465863b7a85d9737b4d769e67
+machine_hash: 8648f73fa667f5acf25e6dceb5a6ced24c8c6314eb415d57c220e7c86af9214c
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -56,12 +56,12 @@ record:
   title: Add subagentStart hook that fires when a subagent is spawned, with support…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-13-add-precompact-hook-to-run-commands-before-context-compaction-starts|Add
-  preCompact hook to run commands before context compaction starts]]'
-- '[[Changes/Claude Code/2026-03-14-added-postcompact-hook-that-fires-after-compaction-completes|Added
-  PostCompact hook that fires after compaction completes]]'
+- '[[Changes/Ollama/2026-03-14-ollama-will-now-ensure-context-compaction-occurs-at-the-correct-context-length-f|Ollama
+  will now ensure context compaction occurs at the correct context length…]]'
 - '[[Changes/Codex CLI/2026-03-16-2-context-window-changes-in-rust-v0-115-0|2 Context
   Window changes in rust-v0.115.0]]'
+- '[[Changes/Dify/2026-03-17-9-context-window-changes-in-1-13-1|9 Context Window changes
+  in 1.13.1]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-03-17-v1-0-7-github-298086450-3846932e|github-copilot-cli-2026-03-17-v1-0-7-github-298086450-3846932e]]'
 source_type: github_releases
 theme: context-window
@@ -96,7 +96,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-03-16 · Codex CLI · [[Changes/Codex CLI/2026-03-16-2-context-window-changes-in-rust-v0-115-0|2 Context Window changes in rust-v0.115.0]]
+- Earlier: 2026-03-17 · Dify · [[Changes/Dify/2026-03-17-9-context-window-changes-in-1-13-1|9 Context Window changes in 1.13.1]]
 - Later: 2026-03-19 · Cline · [[Changes/Cline/2026-03-19-respect-user-configured-context-window-in-litellm-getmodel|Respect user-configured context window in LiteLLM getModel()]]
 <!-- chronolog:end -->
 

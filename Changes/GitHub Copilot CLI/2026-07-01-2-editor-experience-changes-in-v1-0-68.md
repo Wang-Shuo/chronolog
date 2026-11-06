@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 792c7af01dca8f6098b6ddb55f685d5667eff44b6e669e1958e7da3d4ce3200d
+machine_hash: 493f81b5f506e6d16a3bb8fe18ad863478f0d2b9153270d1217d63fca01e91d6
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,8 +43,8 @@ record:
   title: 2 Editor Experience changes in v1.0.68
   type: change
 related_changes:
-- '[[Changes/Cline/2026-06-26-add-edit-and-regenerate-support-for-previous-user-messages-with-clearer-reset-ch|Add
-  edit-and-regenerate support for previous user messages, with clearer Reset Chat…]]'
+- '[[Changes/Open WebUI/2026-06-29-10-editor-experience-changes-in-v0-10-0|10 Editor
+  Experience changes in v0.10.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-30-2-editor-experience-changes-in-v1-0-66|2
   Editor Experience changes in v1.0.66]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-30-ctrl-q-now-enqueues-the-highlighted-slash-command-argument-completion|Ctrl+Q
@@ -90,7 +90,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.68
 ## Nearby in Editor Experience
 
 - Earlier: 2026-06-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-30-ctrl-q-now-enqueues-the-highlighted-slash-command-argument-completion|Ctrl+Q now enqueues the highlighted slash-command argument completion]]
-- Later: 2026-07-04 · Windsurf · [[Changes/Windsurf/2026-07-04-devin-local|Devin Local]]
+- Later: 2026-07-01 · Open WebUI · [[Changes/Open WebUI/2026-07-01-2-editor-experience-changes-in-v0-10-2|2 Editor Experience changes in v0.10.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

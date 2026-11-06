@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: a54727720b2ee18ca78dc3384c3ca3d6bd821b0e4b78a4c1a03ea2a59265d621
+machine_hash: faefa49c06297309f02fda7e63e886cbc413c54daf52cc0c10de1a959a40dc9d
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -42,12 +42,12 @@ record:
   title: 'feat(billing): implement G1 AI credits overage flow with billing telemetry'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-02-04-10274-add-credits-tooltip-pakrym-oai|♯10274 Add
-  credits tooltip @pakrym-oai]]'
 - '[[Changes/Cline/2026-02-05-codex-5-3-through-chatgpt-subscription|Codex-5.3 through
   ChatGPT subscription]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-07-display-warning-when-user-has-no-copilot-subscription|Display
   warning when user has no Copilot subscription]]'
+- '[[Changes/Dify/2026-02-11-to-support-the-stateful-pause-resume-mechanism-required-by-hitl-and-provide-even|To
+  support the stateful pause/resume mechanism required by HITL and provide…]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-03-03-v0-32-0-github-292766674-53a1a89a|gemini-cli-2026-03-03-v0-32-0-github-292766674-53a1a89a]]'
 source_type: github_releases
 theme: pricing-model
@@ -81,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-02-07 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-07-display-warning-when-user-has-no-copilot-subscription|Display warning when user has no Copilot subscription]]
+- Earlier: 2026-02-11 · Dify · [[Changes/Dify/2026-02-11-to-support-the-stateful-pause-resume-mechanism-required-by-hitl-and-provide-even|To support the stateful pause/resume mechanism required by HITL and provide…]]
 - Later: 2026-03-04 · Cline · [[Changes/Cline/2026-03-04-token-cost-updates-now-happen-immediately-as-usage-chunks-arrive-not-after-tool|Token/cost updates now happen immediately as usage chunks arrive, not after tool execution]]
 <!-- chronolog:end -->
 

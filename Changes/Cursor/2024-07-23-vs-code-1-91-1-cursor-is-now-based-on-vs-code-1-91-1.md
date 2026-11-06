@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 17b071e6094edf8e9ba53b99a75ee5176d2a07f29ec28678fe71bfd1d5e899bc
+machine_hash: 4c3c98a88c74d42e9617864fce2a7c143465f25366a8a2761964f28bcb39d7c6
 product: cursor
 product_name: Cursor
 record:
@@ -43,8 +43,8 @@ record:
   title: 'VS Code 1.91.1: Cursor is now based on VS Code 1.91.1'
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-06-08-default-on-cursor-prediction-with-a-new-ui|Default-on
-  Cursor Prediction with a new UI]]'
+- '[[Changes/Dify/2024-06-28-2-editor-experience-changes-in-0-6-12|2 Editor Experience
+  changes in 0.6.12]]'
 - '[[Changes/OpenHands/2024-06-29-3-editor-experience-changes-in-0-7-0|3 Editor Experience
   changes in 0.7.0]]'
 - '[[Changes/Cursor/2024-07-13-this-build-comes-with-a-new-experimental-multi-file-editing-feature-to-enable-it|Composer

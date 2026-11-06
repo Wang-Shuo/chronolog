@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0ec95ca7ae8359a7c6786a0a55370a844355c5d02910f973a67358eb06248be8
+machine_hash: e25cdba0ec70358f0b621991b2dc4d28f89cf5479625f183a3d51db28d033518
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,8 +43,8 @@ record:
   title: Allow reasoning effort to be omitted so the server can select the default
   type: change
 related_changes:
-- '[[Changes/Cline/2026-07-28-add-support-for-free-cline-models-shown-as-free-in-the-model-picker-with-a-dedic|Add
-  support for free Cline models, shown as "(free)" in the model picker…]]'
+- '[[Changes/Dify/2026-07-28-6-model-support-changes-in-1-16-1|6 Model Support changes
+  in 1.16.1]]'
 - '[[Changes/Gemini CLI/2026-07-28-2-model-support-changes-in-v0-53-0|2 Model Support
   changes in v0.53.0]]'
 - '[[Changes/Codex CLI/2026-07-29-3-model-support-changes-in-rust-v0-146-0|3 Model

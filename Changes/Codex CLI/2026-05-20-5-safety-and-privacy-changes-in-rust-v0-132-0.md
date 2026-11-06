@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e5077356f245779404314868e1f1e09c973d3bf0f37220470952d904093fdf82
+machine_hash: 09ab859522232420d844c13521c23e3e77fd59c36a3f85b7a64053c99b26d400
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -48,10 +48,10 @@ record:
   title: 5 Safety and Privacy changes in rust-v0.132.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-19-fixed-a-permission-prompt-bypass-where-bare-variable-assignments-to-non-allowlis|Fixed
-  a permission-prompt bypass where bare variable assignments to non-allowlisted…]]'
 - '[[Changes/Claude Code/2026-05-19-fixed-skill-tool-failing-with-permission-error-in-headless-mode-regression-in-v2|Fixed
   Skill tool failing with permission error in headless mode (regression in v2.1.141)]]'
+- '[[Changes/Dify/2026-05-19-2-safety-and-privacy-changes-in-1-14-2|2 Safety and Privacy
+  changes in 1.14.2]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-19-memory-permission-prompts-now-name-who-can-see-a-stored-memory-user-scope-or-the|Memory
   permission prompts now name who can see a stored memory]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-05-20-rust-v0-132-0-github-325545332-3345c1c4|codex-cli-2026-05-20-rust-v0-132-0-github-325545332-3345c1c4]]'

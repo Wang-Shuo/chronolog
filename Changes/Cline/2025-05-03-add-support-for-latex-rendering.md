@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 354bf299cefb200a567b00f2b1ebf990693e7f9b38b8ca641dfef3dbc4ccca0d
+machine_hash: 90abde124cddeac26f429357566f954ee196a8f40dbf1afa64fa8ab290bf1049
 product: cline
 product_name: Cline
 record:
@@ -43,10 +43,10 @@ record:
   title: Add support for LaTeX rendering
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-04-15-chat-history-has-moved-into-the-command-palette-you-can-access-it-from-the-show|More
-  accessible history]]'
 - '[[Changes/Cline/2025-04-19-add-new-slash-command-menu-letting-you-type-to-do-quick-actions-like-creating-ne|Add
   new slash command menu letting you type…]]'
+- '[[Changes/Dify/2025-04-23-2-interface-experience-changes-in-1-3-0|2 Interface Experience
+  changes in 1.3.0]]'
 - '[[Changes/Cline/2025-04-25-add-tooltips-to-bottom-row-menu|Add tooltips to bottom
   row menu]]'
 source_release: '[[Releases/Cline/cline-2025-05-03-v3-14-0-github-216283929-7acb459c|cline-2025-05-03-v3-14-0-github-216283929-7acb459c]]'

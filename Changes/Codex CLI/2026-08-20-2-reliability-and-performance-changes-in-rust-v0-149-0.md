@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1fdfaeee66d3af3f058ccaea0f80f62a2eb7b144c8c2c70b22bb171c1bf06035
+machine_hash: 38145bcb80be4d4e3e9da2def52b99c809f01507f9e9eea23c70a6f3f06e48e5
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,10 +42,9 @@ record:
   title: 2 Reliability and Performance changes in rust-v0.149.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-18-2-reliability-and-performance-changes-in-v2-1-235|2
-  Reliability and Performance changes in v2.1.235]]'
 - '[[Changes/Claude Code/2026-08-19-improved-startup-performance-the-session-counter-is-now-written-in-the-backgroun|Improved
   startup performance: the session counter is now written in the background]]'
+- '[[Changes/Lovable/2026-08-19-faster-preview-loading|Faster preview loading]]'
 - '[[Changes/Claude Code/2026-08-20-improved-startup-responsiveness-the-automatic-update-check-now-runs-about-10-sec|Improved
   startup responsiveness]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-08-20-rust-v0-149-0-github-374028976-829da944|codex-cli-2026-08-20-rust-v0-149-0-github-374028976-829da944]]'

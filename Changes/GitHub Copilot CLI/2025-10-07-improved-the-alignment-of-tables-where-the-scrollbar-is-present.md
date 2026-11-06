@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9fc4b2fc5e0ce35f5777dea7637ffe102991410dc7a7d7afe2f94b991ff3be48
+machine_hash: 38a22ff20d76453c1a80b3e1647764878550e0cf127659ed0a8b99b4495a152c
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -82,7 +82,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2025-10-07 · Gemini CLI · [[Changes/Gemini CLI/2025-10-07-chore-docs-adds-sidebar-json-for-docs-organization-by-mbleigh-in-https-github-co|chore(docs): adds sidebar.json for docs organization]]
-- Later: 2025-10-09 · Codex CLI · [[Changes/Codex CLI/2025-10-09-tui-breathing-spinner-on-true-color-terms-by-nornagon-openai-in-https-github-com|TUI Breathing spinner on true-color terms]]
+- Later: 2025-10-07 · Open WebUI · [[Changes/Open WebUI/2025-10-07-8-interface-experience-changes-in-v0-6-33|8 Interface Experience changes in v0.6.33]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: accessibility-localization
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 775a467f0178fe04d84281bd6bbfeee41b3f0590183857075143598cf610b1af
+machine_hash: adcad0bf8f16f4164e5d4a57b994b8f79ec609b2291900ac1fbbee2267159711
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,10 +43,10 @@ record:
     labels
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-09-09-screen-reader-updates-by-chrstnb-in-https-github-com-google-gemini-gemini-cli-pu|Screen
-  reader updates]]'
-- '[[Changes/Cline/2025-09-17-accessibility-improvements-to-screen-readers-in-mcp-cline-rules-workflows-and-hi|Accessibility:
-  Improvements to screen readers in MCP, Cline Rules, workflows…]]'
+- '[[Changes/Open WebUI/2025-09-17-3-accessibility-and-localization-changes-in-v0-6-29|3
+  Accessibility and Localization changes in v0.6.29]]'
+- '[[Changes/Open WebUI/2025-09-25-enhanced-user-interface-accessibility-through-the-addition-of-unique-element-ids|♿
+  Enhanced user interface accessibility through the addition of unique element IDs…]]'
 - '[[Changes/Gemini CLI/2025-10-01-2-accessibility-and-localization-changes-in-v0-7-0|2
   Accessibility and Localization changes in v0.7.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2025-10-02-v0-0-333-github-251863837-dcfe8a00|github-copilot-cli-2025-10-02-v0-0-333-github-251863837-dcfe8a00]]'

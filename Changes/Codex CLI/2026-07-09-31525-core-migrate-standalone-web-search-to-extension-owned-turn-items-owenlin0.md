@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: bde4c5d9835c6bfeb82403b235a645db3149642113e3eac38fb261ab84be730a
+machine_hash: 423fa2bbd85df9a634cb8e5bad6dfb03e5f3f561d29bd1cb67375dd97fa0dad5
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,12 +43,12 @@ record:
     @owenlin0'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-22-2-search-and-browsing-changes-in-rust-v0-142-0|2
-  Search and Browsing changes in rust-v0.142.0]]'
-- '[[Changes/GitHub Copilot CLI/2026-06-23-add-mcp-registry-installation-for-browsing-and-installing-mcp-servers|Add
-  /mcp registry installation for browsing and installing MCP servers]]'
+- '[[Changes/Open WebUI/2026-06-29-8-search-and-browsing-changes-in-v0-10-0|8 Search
+  and Browsing changes in v0.10.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-01-browse-resume-and-switch-between-sessions-from-the-agents-screen|Browse,
   resume, and switch between sessions from the agents screen]]'
+- "[[Changes/Open WebUI/2026-07-01-web-search-domain-filtering-domain-allow-and-block-rules-for-web-search-results|\U0001F512
+  Web search domain filtering. Domain allow and block rules for web search…]]"
 source_release: '[[Releases/Codex CLI/codex-cli-2026-07-09-rust-v0-144-0-github-351657410-407edb96|codex-cli-2026-07-09-rust-v0-144-0-github-351657410-407edb96]]'
 source_type: github_releases
 theme: search-browsing
@@ -91,7 +91,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Search and Browsing
 
-- Earlier: 2026-07-01 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-01-browse-resume-and-switch-between-sessions-from-the-agents-screen|Browse, resume, and switch between sessions from the agents screen]]
+- Earlier: 2026-07-01 · Open WebUI · [[Changes/Open WebUI/2026-07-01-web-search-domain-filtering-domain-allow-and-block-rules-for-web-search-results|🔒 Web search domain filtering. Domain allow and block rules for web search…]]
 - Later: 2026-07-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-16-add-plugins-marketplace-browse-and-update-commands|Add plugins marketplace browse and update commands]]
 <!-- chronolog:end -->
 

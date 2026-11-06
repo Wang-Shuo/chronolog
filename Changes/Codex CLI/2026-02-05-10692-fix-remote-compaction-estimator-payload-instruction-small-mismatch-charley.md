@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 62687475686564b57d8ecddb737ab7d8bc99f41859ab6b99cdbfc4f6b3b302ec
+machine_hash: 49f3a70426e21f32cd01b21ad01e281a3a1d3e4ab17872bedb48512b3aa4b5c6
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -45,8 +45,8 @@ record:
     @charley-oai'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-03-added-pages-parameter-to-the-read-tool-for-pdfs-allowing-specific-page-ranges-to|Added
-  pages parameter to the Read tool for PDFs, allowing specific page ranges…]]'
+- '[[Changes/Ollama/2026-02-03-5-context-window-changes-in-v0-15-5|5 Context Window
+  changes in v0.15.5]]'
 - '[[Changes/Codex CLI/2026-02-04-2-context-window-changes-in-rust-v0-95-0|2 Context
   Window changes in rust-v0.95.0]]'
 - '[[Changes/Claude Code/2026-02-05-2-context-window-changes-in-v2-1-32|2 Context

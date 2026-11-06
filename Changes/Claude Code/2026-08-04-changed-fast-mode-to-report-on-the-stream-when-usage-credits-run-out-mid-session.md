@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 2cc9cb833cc0e5a9d93a050d738bc97fbc2b464136f3c0a1ce16d589e6a2c337
+machine_hash: 615bbfc5f57f33793743f0c8c141e99ae0a3a7b946f51d0ed1fbc951f324fc6d
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,11 @@ record:
   title: Changed fast mode to report on the stream when usage credits run out mid-session…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-07-28-local-pricing-at-649-per-month-tax-inclusive-billed-in-inr-with-upi-or-card|Local
-  pricing at ₹649 per month, tax inclusive, billed in INR with UPI or card]]'
-- '[[Changes/Cursor/2026-07-28-we-re-introducing-cursor-start-a-new-649-monthly-plan-for-developers-in-india-ma|Cursor
-  introduces Cursor Start, a new ₹649 monthly plan for developers in India…]]'
 - '[[Changes/ChatGPT/2026-07-29-research-rarely-happens-alone-chatgpt-for-academic-researchers-gives-faculty-and|ChatGPT
   for Academic Researchers]]'
+- '[[Changes/Replit/2026-07-31-billing|Billing]]'
+- '[[Changes/v0/2026-07-31-3-pricing-model-changes-in-claude-opus-5-direct-figma-inspection|3
+  Pricing Model changes in Claude Opus 5, direct Figma inspection…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-04-v2-1-221-github-364520051-d6a656ce|claude-code-2026-08-04-v2-1-221-github-364520051-d6a656ce]]'
 source_type: github_releases
 theme: pricing-model
@@ -85,8 +84,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-07-29 · ChatGPT · [[Changes/ChatGPT/2026-07-29-research-rarely-happens-alone-chatgpt-for-academic-researchers-gives-faculty-and|ChatGPT for Academic Researchers]]
-- Later: 2026-08-10 · Windsurf · [[Changes/Windsurf/2026-08-10-devin-cloud|Devin Cloud]]
+- Earlier: 2026-07-31 · v0 · [[Changes/v0/2026-07-31-3-pricing-model-changes-in-claude-opus-5-direct-figma-inspection|3 Pricing Model changes in Claude Opus 5, direct Figma inspection…]]
+- Later: 2026-08-07 · Replit · [[Changes/Replit/2026-08-07-move-projects-between-workspaces|Move projects between workspaces]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

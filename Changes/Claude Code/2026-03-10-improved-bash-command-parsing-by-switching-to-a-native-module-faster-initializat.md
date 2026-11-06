@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7236884d3020601095205ad65ef2655945e8b3134aed83b7d548e10d33b99565
+machine_hash: 891bc9faec1802b6b25c4dae269b5f9afb5dc47bbf8c9fdf5d3c919a1b85a296
 product: claude-code
 product_name: Claude Code
 record:
@@ -53,10 +53,10 @@ record:
   title: Improved bash command parsing by switching to a native module
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-05-reduce-memory-usage-in-alt-screen-mode-for-long-sessions|Reduce
-  memory usage in alt-screen mode for long sessions]]'
-- '[[Changes/Claude Code/2026-03-06-3-reliability-and-performance-changes-in-v2-1-70|3
-  Reliability and Performance changes in v2.1.70]]'
+- '[[Changes/Open WebUI/2026-03-08-13-reliability-and-performance-changes-in-v0-8-9|13
+  Reliability and Performance changes in v0.8.9]]'
+- '[[Changes/Open WebUI/2026-03-09-2-reliability-and-performance-changes-in-v0-8-10|2
+  Reliability and Performance changes in v0.8.10]]'
 - '[[Changes/Windsurf/2026-03-09-stability-performance|Stability & Performance]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-10-v2-1-72-github-294951528-18ee0f48|claude-code-2026-03-10-v2-1-72-github-294951528-18ee0f48]]'
 source_type: github_releases

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 763522db9c3fe2496ad9fcb4c082a27d14af49f2982bf8e89746652b29bd4424
+machine_hash: b0441545c4a81aa76d4b6bd3f572b2de6e0bc7019b779b7829859d583b15f181
 product: claude-code
 product_name: Claude Code
 record:
@@ -54,12 +54,11 @@ record:
   title: Improved auto mode classifier latency by reducing reasoning on routine actions…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-28-claude-code-now-shows-a-one-time-notice-when-your-npm-global-install-can-t-auto|Claude
-  Code now shows a one-time notice when your npm global install can''t auto-update]]'
-- '[[Changes/Claude Code/2026-05-28-renamed-the-effort-slider-labels-from-speed-intelligence-to-faster-smarter-for-c|Renamed
-  the /effort slider labels…]]'
+- '[[Changes/Lovable/2026-05-28-improvements-and-bug-fixes|Improvements and bug fixes]]'
 - '[[Changes/Claude Code/2026-05-29-improved-performance-of-long-and-resumed-conversations-by-eliminating-redundant|Improved
   performance of long and resumed conversations by eliminating redundant…]]'
+- '[[Changes/Open WebUI/2026-06-01-5-reliability-and-performance-changes-in-v0-9-6|5
+  Reliability and Performance changes in v0.9.6]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-02-v2-1-160-github-332740156-03dd8b5a|claude-code-2026-06-02-v2-1-160-github-332740156-03dd8b5a]]'
 source_type: github_releases
 theme: reliability-performance
@@ -94,7 +93,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-05-29 · Claude Code · [[Changes/Claude Code/2026-05-29-improved-performance-of-long-and-resumed-conversations-by-eliminating-redundant|Improved performance of long and resumed conversations by eliminating redundant…]]
+- Earlier: 2026-06-01 · Open WebUI · [[Changes/Open WebUI/2026-06-01-5-reliability-and-performance-changes-in-v0-9-6|5 Reliability and Performance changes in v0.9.6]]
 - Later: 2026-06-02 · Claude Code · [[Changes/Claude Code/2026-06-02-improved-rendering-performance-for-large-file-writes|Improved rendering performance for large file writes]]
 <!-- chronolog:end -->
 

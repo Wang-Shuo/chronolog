@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 8c24e3792012dddde592bf3fd292d79d6bc954f5bd9cb979716a2609e945c8f8
+machine_hash: c546bb827a56eeeccbeb5cb0ea649ee189d89726774827632377cde2688a1806
 product: cursor
 product_name: Cursor
 record:
@@ -46,11 +46,11 @@ record:
   title: More accessible history
   type: change
 related_changes:
-- '[[Changes/Aider/2025-03-31-2-interface-experience-changes-in-v0-80-0|2 Interface
-  Experience changes in v0.80.0]]'
 - '[[Changes/Aider/2025-04-04-https-aider-chat-history-html|(source link)]]'
 - '[[Changes/Cline/2025-04-09-add-cmd-keyboard-shortcut-to-add-selected-text-to-cline|Add
   CMD+'' keyboard shortcut to add selected text to Cline]]'
+- "[[Changes/Open WebUI/2025-04-13-translation-updates-across-multiple-languages-refined-catalan-russian-chinese-si|\U0001F30D
+  Translation Updates Across Multiple Languages]]"
 source_release: '[[Releases/Cursor/cursor-2025-04-15-0-49-https-cursor-com-changelog-0-49-3e16488f|cursor-2025-04-15-0-49-https-cursor-com-changelog-0-49-3e16488f]]'
 source_type: cursor_changelog
 theme: interface-experience
@@ -84,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2025-04-09 · Cline · [[Changes/Cline/2025-04-09-add-cmd-keyboard-shortcut-to-add-selected-text-to-cline|Add CMD+' keyboard shortcut to add selected text to Cline]]
+- Earlier: 2025-04-13 · Open WebUI · [[Changes/Open WebUI/2025-04-13-translation-updates-across-multiple-languages-refined-catalan-russian-chinese-si|🌍 Translation Updates Across Multiple Languages]]
 - Later: 2025-04-19 · Cline · [[Changes/Cline/2025-04-19-add-new-slash-command-menu-letting-you-type-to-do-quick-actions-like-creating-ne|Add new slash command menu letting you type…]]
 <!-- chronolog:end -->
 

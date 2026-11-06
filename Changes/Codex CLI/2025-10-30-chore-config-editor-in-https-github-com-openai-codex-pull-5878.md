@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ba74e40e44fbab052b156bace79ce01fab897add7c4d0d28159c7430fd354ae0
+machine_hash: e875cc24bb022de8b298ffade2193e9a68fb0320b257fbe792d2fd79602acd5d
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2025-10-29 · Gemini CLI · [[Changes/Gemini CLI/2025-10-29-5-editor-experience-changes-in-v0-11-0|5 Editor Experience changes in v0.11.0]]
-- Later: 2025-11-03 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-11-03-diff-hunk-lines-now-properly-fill-the-width-of-the-diff-box|Diff hunk lines now properly fill the width of the diff box]]
+- Later: 2025-10-30 · v0 · [[Changes/v0/2025-10-30-you-can-now-edit-images-using-nano-banana-in-v0-turn-on-design-mode-select-an-im|Image Editing with Nano Banana]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

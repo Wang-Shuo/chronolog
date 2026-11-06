@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b42f55de74e3dcf8c78c243051d59197d4abaf6495d13d2b4282840bb99f4f2b
+machine_hash: 619ec3ae44f13e8fab22a1780a8a2d9068c97fe620b2e122f9e82a7311346e8a
 product: openhands
 product_name: OpenHands
 record:
@@ -73,7 +73,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-07-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-30-2-agent-mode-changes-in-v1-0-76|2 Agent Mode changes in v1.0.76]]
-- Later: 2026-08-03 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-08-03-a-run-whose-prompt-is-piped-over-stdin-now-treats-its-sessionend-hook-the-same-w|A run whose prompt is piped over stdin now treats its sessionEnd hook the same way…]]
+- Later: 2026-07-31 · Replit · [[Changes/Replit/2026-07-31-agent|Agent]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 9b5feae10d4f400b24346822352f6ca56c0ddec9bc1cff1669b438eb80b6c57f
+machine_hash: 7e21b2dc80bee07b12efcbe23f3c91a2a89a1b9cf46a0bc317f9185df792cc99
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -53,12 +53,12 @@ record:
     billing users)
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-22-usage-can-now-show-and-redeem-earned-usage-limit-reset-credits-with-confirmation|/usage
-  can now show and redeem earned usage-limit reset credits…]]'
-- '[[Changes/GitHub Copilot CLI/2026-06-23-display-cache-write-pricing-for-models-that-omit-it|Display
-  cache-write pricing for models that omit it]]'
 - '[[Changes/Cline/2026-06-26-add-clinepass-to-the-vs-code-extension-including-onboarding-provider-selection-s|Add
   ClinePass to the VS Code extension, including onboarding, provider selection…]]'
+- '[[Changes/v0/2026-06-26-2-pricing-model-changes-in-platform-api-v2-mcp-chat-tools|2
+  Pricing Model changes in Platform API v2, MCP chat tools…]]'
+- '[[Changes/Open WebUI/2026-06-29-2-pricing-model-changes-in-v0-10-0|2 Pricing Model
+  changes in v0.10.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-06-30-v1-0-66-github-346845066-af776740|github-copilot-cli-2026-06-30-v1-0-66-github-346845066-af776740]]'
 source_type: github_releases
 theme: pricing-model
@@ -104,7 +104,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-06-26 · Cline · [[Changes/Cline/2026-06-26-add-clinepass-to-the-vs-code-extension-including-onboarding-provider-selection-s|Add ClinePass to the VS Code extension, including onboarding, provider selection…]]
+- Earlier: 2026-06-29 · Open WebUI · [[Changes/Open WebUI/2026-06-29-2-pricing-model-changes-in-v0-10-0|2 Pricing Model changes in v0.10.0]]
 - Later: 2026-06-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-30-require-session-limits-to-be-at-least-30-ai-credits|Require session limits to be at least 30 AI credits]]
 <!-- chronolog:end -->
 

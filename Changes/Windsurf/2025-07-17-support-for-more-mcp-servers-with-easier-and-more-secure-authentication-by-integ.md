@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: a289de4369018ac311cb011baf728b8b8aecc4a92d91db49b38814fa9af76ae9
+machine_hash: c64c0fe5829890dda2ff63e2bcf8f06bb09f41e05c960d4a519d0f8ec6631a84
 product: windsurf
 product_name: Windsurf
 record:
@@ -60,12 +60,12 @@ record:
   title: Support for more MCP servers with easier and more secure authentication…
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-06-04-mcp-one-click-install-and-oauth-support|MCP one-click
-  install and OAuth support]]'
 - '[[Changes/Gemini CLI/2025-07-01-rename-authtype-login-with-google-personal-login-with-google-by-scidomino-in-htt|Rename
   AuthType LOGIN_WITH_GOOGLE_PERSONAL - LOGIN_WITH_GOOGLE]]'
 - '[[Changes/Gemini CLI/2025-07-11-add-no-browser-environment-variable-to-trigger-offline-oauth-flow-by-sethtroisi|Add
   NO_BROWSER environment variable to trigger offline oauth flow]]'
+- '[[Changes/Open WebUI/2025-07-14-3-account-and-access-changes-in-v0-6-16|3 Account
+  and Access changes in v0.6.16]]'
 source_release: '[[Releases/Windsurf/windsurf-2025-07-17-v1-11-0-705f6ab2|windsurf-2025-07-17-v1-11-0-705f6ab2]]'
 source_type: windsurf_changelog
 theme: account-access
@@ -99,7 +99,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2025-07-11 · Gemini CLI · [[Changes/Gemini CLI/2025-07-11-add-no-browser-environment-variable-to-trigger-offline-oauth-flow-by-sethtroisi|Add NO_BROWSER environment variable to trigger offline oauth flow]]
+- Earlier: 2025-07-14 · Open WebUI · [[Changes/Open WebUI/2025-07-14-3-account-and-access-changes-in-v0-6-16|3 Account and Access changes in v0.6.16]]
 - Later: 2025-07-19 · Gemini CLI · [[Changes/Gemini CLI/2025-07-19-3-account-and-access-changes-in-v0-1-13|3 Account and Access changes in v0.1.13]]
 <!-- chronolog:end -->
 

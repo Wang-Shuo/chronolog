@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 753683a15d9cfb1c6f8cfdcbafa49adf60ba2f144163cb09b3a2307ba27ac767
+machine_hash: 164a5190ab4a01ae10e8c5659cb33d685ea5f3cddc9305bbcd50fafdbe0977b1
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -56,8 +56,7 @@ record:
   title: 7 Developer Workflow changes in v0.7.0
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-09-29-7-developer-workflow-changes-in-1-7|7 Developer Workflow
-  changes in 1.7]]'
+- '[[Changes/Dify/2025-09-29-debugging-logging|Debugging & Logging]]'
 - '[[Changes/GitHub Copilot CLI/2025-09-29-added-glob-matching-to-shell-rules-when-using-allow-tool-and-deny-tool-you-can-n|Added
   glob matching to shell rules]]'
 - '[[Changes/Cline/2025-10-01-install-cline-cli-with-a-single-command|Install Cline

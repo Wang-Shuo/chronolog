@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f747521292f6bf6fa2ad7046b2db4a1d46f5967f776102bed2eb8d93294803ff
+machine_hash: 4f7d7d57d23a1c3843c50e351a381670a1b8757e25f44ee3d20fee2025156a7b
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -113,7 +113,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.154.0
 ## Nearby in Collaboration
 
 - Earlier: 2026-09-09 · ChatGPT · [[Changes/ChatGPT/2026-09-09-library-sharing-lets-you-share-files-and-folders-in-chatgpt-choose-who-can-acces|Library sharing lets you share files and folders in ChatGPT, choose who can access…]]
-- Later: 2026-09-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-16-share-notes-md-now-writes-the-exported-session-to-your-home-directory-instead-of|--share=~/notes.md now writes the exported session to your home directory instead…]]
+- Later: 2026-09-10 · Dify · [[Changes/Dify/2026-09-10-3-collaboration-changes-in-1-17-1|3 Collaboration changes in 1.17.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

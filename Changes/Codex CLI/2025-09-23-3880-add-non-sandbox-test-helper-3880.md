@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 347455930508f5fb6f666aad4daaf9ee7bc03542043f8666744a9f5fcbe8c1c5
+machine_hash: fe4f6c5c67a91413842f09816df148eeb43cce0e023cb2498e14bdad61016a6f
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,12 +42,10 @@ record:
   title: '[#3880] Add non_sandbox_test helper (#3880)'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-09-10-ci-build-faster-tests-with-nextest-add-shear-minor-macos-permission-adjustment|CI/Build:
-  faster tests with nextest, add shear; minor macOS permission adjustment]]'
-- '[[Changes/Codex CLI/2025-09-15-3-safety-and-privacy-changes-in-rust-v0-36-0|3 Safety
-  and Privacy changes in rust-v0.36.0]]'
-- '[[Changes/Gemini CLI/2025-09-17-2-safety-and-privacy-changes-in-v0-5-3|2 Safety
-  and Privacy changes in v0.5.3]]'
+- '[[Changes/Replit/2025-09-19-supply-chain-attack-blocking|Supply chain attack blocking]]'
+- '[[Changes/Replit/2025-09-19-malicious-file-detection|Malicious file detection]]'
+- '[[Changes/Dify/2025-09-22-5-safety-and-privacy-changes-in-1-9-0|5 Safety and Privacy
+  changes in 1.9.0]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-09-23-rust-v0-40-0-github-249412506-64037925|codex-cli-2025-09-23-rust-v0-40-0-github-249412506-64037925]]'
 source_type: github_releases
 theme: safety-privacy
@@ -82,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2025-09-17 · Gemini CLI · [[Changes/Gemini CLI/2025-09-17-2-safety-and-privacy-changes-in-v0-5-3|2 Safety and Privacy changes in v0.5.3]]
+- Earlier: 2025-09-22 · Dify · [[Changes/Dify/2025-09-22-5-safety-and-privacy-changes-in-1-9-0|5 Safety and Privacy changes in 1.9.0]]
 - Later: 2025-09-24 · Gemini CLI · [[Changes/Gemini CLI/2025-09-24-4-safety-and-privacy-changes-in-v0-6-0|4 Safety and Privacy changes in v0.6.0]]
 <!-- chronolog:end -->
 

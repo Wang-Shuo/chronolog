@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5501d75c01f405a713e9fcb0e7978c8167535381e89cddaccf8cce1ecae68dc2
+machine_hash: a45c9905d57c97efe609951091e67f035a9def0daacd4869c7aeedd82c69bed3
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -77,11 +77,11 @@ record:
   title: 17 Apps and Integrations changes in rust-v0.141.0
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-06-16-devin-local|Devin Local]]'
-- '[[Changes/ChatGPT/2026-06-17-monitoring-tasks-can-search-the-web-and-check-connected-apps-for-changes-and-not|Monitoring
-  tasks can search the web and check connected apps for changes and notify…]]'
 - '[[Changes/Claude Code/2026-06-17-added-config-key-value-syntax-to-set-any-setting-from-the-prompt-e-g-config-thin|Added
   /config key=value syntax to set any setting from the prompt…]]'
+- '[[Changes/Lovable/2026-06-17-build-in-lovable-from-claude|Build in Lovable from
+  Claude]]'
+- '[[Changes/Lovable/2026-06-17-app-connector-lightspeed|App connector: Lightspeed]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-06-18-rust-v0-141-0-github-341160952-94bdbd75|codex-cli-2026-06-18-rust-v0-141-0-github-341160952-94bdbd75]]'
 source_type: github_releases
 theme: apps-integrations
@@ -152,8 +152,8 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.141.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-06-17 · Claude Code · [[Changes/Claude Code/2026-06-17-added-config-key-value-syntax-to-set-any-setting-from-the-prompt-e-g-config-thin|Added /config key=value syntax to set any setting from the prompt…]]
-- Later: 2026-06-18 · Windsurf · [[Changes/Windsurf/2026-06-18-made-mcp-registry-parsing-more-tolerant-of-old-and-inconsistent-schemas|Made MCP registry parsing more tolerant of old and inconsistent schemas]]
+- Earlier: 2026-06-17 · Lovable · [[Changes/Lovable/2026-06-17-app-connector-lightspeed|App connector: Lightspeed]]
+- Later: 2026-06-18 · Lovable · [[Changes/Lovable/2026-06-18-inspect-your-app-s-ai-activity|Inspect your app's AI activity]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: becf6d0b705ef6a07a13fd35586142379339bf75e7674e6d25d087e819261312
+machine_hash: d408479463f9e986af9e10379f373d4124d945271a9ef40dc329f6c4acfc6dfc
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,10 +43,8 @@ record:
   title: 2 Agent Mode changes in v1.0.85
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-11-2-agent-mode-changes-in-v2-1-269|2 Agent Mode
-  changes in v2.1.269]]'
-- '[[Changes/Claude Code/2026-09-14-7-agent-mode-changes-in-v2-1-271|7 Agent Mode
-  changes in v2.1.271]]'
+- '[[Changes/ElevenLabs/2026-09-14-elevenagents|ElevenAgents]]'
+- '[[Changes/ElevenLabs/2026-09-14-elevenagents-d9e798|ElevenAgents]]'
 - '[[Changes/Claude Code/2026-09-15-changed-auto-mode-on-bedrock-vertex-and-foundry-to-use-the-local-classifier-by-d|Changed
   auto mode on Bedrock, Vertex and Foundry to use the local classifier…]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-09-16-v1-0-85-github-389603482-889a46d9|github-copilot-cli-2026-09-16-v1-0-85-github-389603482-889a46d9]]'

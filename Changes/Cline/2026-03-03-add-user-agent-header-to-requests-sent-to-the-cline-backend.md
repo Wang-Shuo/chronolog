@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 58df2f519c781a4b271adba5d101cb92e18121b54cef8b0a57ea2fbfffab63e6
+machine_hash: 7476db8e803271d9941547fadbb1d695e9e5e056f31e6361cb0b1f9189c5377a
 product: cline
 product_name: Cline
 record:
@@ -43,12 +43,10 @@ record:
   title: Add `User-Agent` header to requests sent to the Cline backend
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-28-added-http-hooks-which-can-post-json-to-a-url-and-receive-json-instead-of-runnin|Added
-  HTTP hooks, which can POST JSON to a URL and receive JSON instead of running…]]'
-- '[[Changes/Codex CLI/2026-03-02-you-can-now-fork-a-thread-into-sub-agents-making-it-easier-to-branch-work-withou|Fork
-  a thread into sub-agents, making it easier to branch work without leaving…]]'
 - '[[Changes/Codex CLI/2026-03-02-2-agent-mode-changes-in-rust-v0-107-0|2 Agent Mode
   changes in rust-v0.107.0]]'
+- '[[Changes/ElevenLabs/2026-03-02-new-schemas|New Schemas]]'
+- '[[Changes/ElevenLabs/2026-03-02-elevenagents-bb56b9|ElevenAgents]]'
 source_release: '[[Releases/Cline/cline-2026-03-03-v3-69-0-github-292321177-f95c432e|cline-2026-03-03-v3-69-0-github-292321177-f95c432e]]'
 source_type: github_releases
 theme: agent-mode
@@ -82,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-03-02 · Codex CLI · [[Changes/Codex CLI/2026-03-02-2-agent-mode-changes-in-rust-v0-107-0|2 Agent Mode changes in rust-v0.107.0]]
+- Earlier: 2026-03-02 · ElevenLabs · [[Changes/ElevenLabs/2026-03-02-elevenagents-bb56b9|ElevenAgents]]
 - Later: 2026-03-03 · Cursor · [[Changes/Cursor/2026-03-03-improved-reliability-for-longer-running-agent-sessions|Improved reliability for longer-running agent sessions]]
 <!-- chronolog:end -->
 

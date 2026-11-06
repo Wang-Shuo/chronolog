@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: a245274e6a85cfd161873ee949465a38462ee0729a90cbb1522ab3478459f8ea
+machine_hash: 85ea200cfbf00bc2ef385680a8635c9994598aa3e3feb6bb99c313a8715c177b
 product: cursor
 product_name: Cursor
 record:
@@ -55,8 +55,7 @@ record:
     your prompt first
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-10-display-reasoning-token-usage-in-the-per-model-token-breakdown-when-nonzero|Display
-  reasoning token usage in the per-model token breakdown when nonzero]]'
+- '[[Changes/ElevenLabs/2026-04-13-javascript-sdk|JavaScript SDK]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-13-the-config-dir-flag-is-now-respected-when-selecting-the-active-model|The
   --config-dir flag is now respected when selecting the active model]]'
 - '[[Changes/Claude Code/2026-04-14-improved-model-to-warn-before-switching-models-mid-conversation-since-the-next-r|Improved

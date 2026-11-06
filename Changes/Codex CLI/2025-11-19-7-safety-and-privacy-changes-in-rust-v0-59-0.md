@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: be405fb28b2fcb755e72840a64dd77095358be3d395b5273466c7de663232d6c
+machine_hash: 6613a9040d92886e40e0e873ed9be68052b280635bc5bf78a181b53c74c86995
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -57,8 +57,8 @@ record:
   title: 7 Safety and Privacy changes in rust-v0.59.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-11-13-6480-use-codex-linux-sandbox-in-unified-exec-6c36318bd|♯6480
-  — Use codex-linux-sandbox in unified exec (6c36318bd)]]'
+- '[[Changes/Dify/2025-11-13-2-safety-and-privacy-changes-in-1-10-0|2 Safety and Privacy
+  changes in 1.10.0]]'
 - '[[Changes/GitHub Copilot CLI/2025-11-17-2-safety-and-privacy-changes-in-v0-0-359|2
   Safety and Privacy changes in v0.0.359]]'
 - '[[Changes/GitHub Copilot CLI/2025-11-18-fix-file-operations-timing-out-while-waiting-for-user-permission|Fix

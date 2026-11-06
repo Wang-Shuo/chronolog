@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 15cd6c9ec458bd6ef94b890eecce043f4cee78389b5ed884180e59586e8f1c31
+machine_hash: 0ce2e1492a319646cee30ddbc89a06caabbf33169c55615d06727eba7a3e37bd
 product: openhands
 product_name: OpenHands
 record:
@@ -44,12 +44,10 @@ record:
   title: Added the ability for the agent to save browser screenshots as image files
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-04-23-improved-logic-to-prevent-agent-from-getting-stuck-by-rbren-in-https-github-com|Improved
-  logic to prevent agent from getting stuck]]'
-- '[[Changes/Cline/2025-04-24-improve-prompting-for-new-task-tool|Improve prompting
-  for new task tool]]'
+- '[[Changes/ElevenLabs/2025-04-28-agents-platform-6b1e4d|Agents Platform]]'
 - '[[Changes/OpenHands/2025-05-01-added-support-for-agent-pause-and-resume-functionality-in-the-cli-by-pandukamudi|Added
   support for agent pause and resume functionality in the CLI]]'
+- '[[Changes/ElevenLabs/2025-05-12-agents-platform|Agents Platform]]'
 source_release: '[[Releases/OpenHands/openhands-2025-05-12-0-38-0-github-218087330-c64d64fd|openhands-2025-05-12-0-38-0-github-218087330-c64d64fd]]'
 source_type: github_releases
 theme: agent-mode
@@ -82,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2025-05-01 · OpenHands · [[Changes/OpenHands/2025-05-01-added-support-for-agent-pause-and-resume-functionality-in-the-cli-by-pandukamudi|Added support for agent pause and resume functionality in the CLI]]
+- Earlier: 2025-05-12 · ElevenLabs · [[Changes/ElevenLabs/2025-05-12-agents-platform|Agents Platform]]
 - Later: 2025-05-15 · Cursor · [[Changes/Cursor/2025-05-15-fast-edits-for-long-files-with-agent|Fast edits for long files with Agent]]
 <!-- chronolog:end -->
 

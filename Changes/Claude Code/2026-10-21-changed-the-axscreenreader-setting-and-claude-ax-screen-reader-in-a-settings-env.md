@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: accessibility-localization
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 964cc17979efa9b021bfc2f708a2d72f9da12e6a6cf0c31fb34727f1efb7ee97
+machine_hash: fabf0cd33f4f723f1c1642e8aefb53f96e6b370c4b01e5287b101e7d20bfdf41
 product: claude-code
 product_name: Claude Code
 record:
@@ -87,7 +87,7 @@ type: change
 ## Nearby in Accessibility and Localization
 
 - Earlier: 2026-10-20 · Claude Code · [[Changes/Claude Code/2026-10-20-vscode-added-a-running-start-up-hooks-spinner-status-with-a-screen-reader-announ|VSCode Added a "Running start-up hooks" spinner status, with a screen reader…]]
-- Later: 2026-10-26 · Claude Code · [[Changes/Claude Code/2026-10-26-3-accessibility-and-localization-changes-in-v2-1-311|3 Accessibility and Localization changes in v2.1.311]]
+- Later: 2026-10-23 · Dify · [[Changes/Dify/2026-10-23-3-accessibility-and-localization-changes-in-1-18-0|3 Accessibility and Localization changes in 1.18.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

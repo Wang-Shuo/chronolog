@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 953361521399c13827d96f3644541b9ab9a3aca53d9a2d3b71c36748c5eb2ed3
+machine_hash: 44c5078eb56d773dca484bc7138af957ec63eb751b683ed8889af8eb48dc157c
 product: cursor
 product_name: Cursor
 record:
@@ -47,8 +47,7 @@ record:
   title: Handoff to Cloud Agents
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-01-14-10-agent-mode-changes-in-v0-24-0|10 Agent Mode
-  changes in v0.24.0]]'
+- '[[Changes/v0/2026-01-14-improved-agent-error-handling|Improved agent error handling]]'
 - '[[Changes/Codex CLI/2026-01-15-9275-feat-add-agent-roles-to-collab-tools-jif-oai|♯9275
   feat: add agent roles to collab tools @jif-oai]]'
 - '[[Changes/Claude Code/2026-01-16-added-plansdirectory-setting-to-customize-where-plan-files-are-stored|Added

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: fa2a6531faa2c781791eb7556b19ce6a0f537980ed3e696e530e13d5e4b6f2ef
+machine_hash: 605a2f1de1f9209aed88a3023e31a8708e319aa0db6a770b6550275441c5cb5e
 product: cursor
 product_name: Cursor
 record:
@@ -44,10 +44,9 @@ record:
   title: Customers must be on usage-based billing for Bugbot to customize effort levels
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-04-09-you-can-upgrade-switch-or-cancel-your-plan-from-settings-my-plan-or-from-the-pri|You
-  can upgrade, switch, or cancel your plan from Settings  My Plan or…]]'
-- '[[Changes/Claude Code/2026-04-22-opentelemetry-user-prompt-events-now-include-command-name-and-command-source-for|OpenTelemetry:
-  user_prompt events now include command_name and command_source…]]'
+- '[[Changes/Dify/2026-04-29-7-pricing-model-changes-in-1-14-0|7 Pricing Model changes
+  in 1.14.0]]'
+- '[[Changes/ElevenLabs/2026-05-04-workspaces|Workspaces]]'
 - '[[Changes/Windsurf/2026-05-06-devin-review-quick-review|Devin Review & Quick Review]]'
 source_release: '[[Releases/Cursor/cursor-2026-05-11-bugbot-effort-levels-https-cursor-com-changelog-05-11-26-b41d8617|cursor-2026-05-11-bugbot-effort-levels-https-cursor-com-changelog-05-11-26-b41d8617]]'
 source_type: cursor_changelog
@@ -82,7 +81,7 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2026-05-06 · Windsurf · [[Changes/Windsurf/2026-05-06-devin-review-quick-review|Devin Review & Quick Review]]
-- Later: 2026-05-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-13-copilot-max-subscribers-see-the-correct-models-available-to-their-subscription-t|Copilot Max subscribers see the correct models available to their subscription tier]]
+- Later: 2026-05-12 · Dify · [[Changes/Dify/2026-05-12-refactor-web-migrate-subscription-create-modal-to-dialog-by-lyzno1-in-https-gith|refactor(web): migrate subscription create modal to dialog]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

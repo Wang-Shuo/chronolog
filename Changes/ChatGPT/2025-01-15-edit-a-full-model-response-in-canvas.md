@@ -4,20 +4,20 @@ date: '2025-01-15'
 description: 'ChatGPT · 2025-01-15 · Files and Data: Edit a full model response in
   Canvas'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code
-    interpreter is now rolling out in beta on web]]'
+  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
+    Files and Data changes in 0.2.2]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 559
+  lag_days: 601
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 2771666c92dcb4504f3967416665d9b729a753f1db4adb6daf94fefbbeed9621
+machine_hash: 3d0267509324c8a1a41e8835e7404fa169797a9313acbca99e9d8080988139cd
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -53,10 +53,10 @@ record:
   title: Edit a full model response in Canvas
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2024-11-22-the-sidebar-when-pinned-can-now-stay-open-with-an-active-canvas-if-enough-space|The
-  sidebar when pinned can now stay open with an active Canvas if enough space…]]'
 - '[[Changes/ChatGPT/2024-12-10-today-we-made-canvas-available-in-4o-by-default-for-all-users-free-and-paid-addi-5aaec4|Canvas]]'
 - '[[Changes/ChatGPT/2024-12-13-advanced-data-analysis-1956f5|Advanced data analysis]]'
+- '[[Changes/Dify/2025-01-07-3-files-and-data-changes-in-0-15-0|3 Files and Data changes
+  in 0.15.0]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-01-15-import-from-chat-into-canvas-e328bc82|chatgpt-2025-01-15-import-from-chat-into-canvas-e328bc82]]'
 source_type: chatgpt_changelog
 theme: file-data
@@ -85,14 +85,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2024-12-13 · ChatGPT · [[Changes/ChatGPT/2024-12-13-advanced-data-analysis-1956f5|Advanced data analysis]]
-- Later: 2025-02-06 · ChatGPT · [[Changes/ChatGPT/2025-02-06-users-can-now-share-a-canvas-asset-such-as-rendered-react-html-code-document-or-2f5aff|Canvas sharing]]
+- Earlier: 2025-01-07 · Dify · [[Changes/Dify/2025-01-07-3-files-and-data-changes-in-0-15-0|3 Files and Data changes in 0.15.0]]
+- Later: 2025-01-22 · Dify · [[Changes/Dify/2025-01-22-3-files-and-data-changes-in-0-15-2|3 Files and Data changes in 0.15.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-06 · ChatGPT · [[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code interpreter is now rolling out in beta on web]]
+- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

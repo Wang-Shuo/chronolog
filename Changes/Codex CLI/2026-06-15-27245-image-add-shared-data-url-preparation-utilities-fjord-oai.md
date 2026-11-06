@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ad4af7b7c9377ee8e4d1a4af0125495ae0d085de77579ee3416233446588447b
+machine_hash: a17bd0da43892daf0f2a2122fff31ba8058aaaac38447c2cf2ff07490582e99f
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,11 +42,11 @@ record:
   title: '#27245 image: add shared data URL preparation utilities @fjord-oai'
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-06-03-teams|Teams]]'
-- '[[Changes/Codex CLI/2026-06-04-4-collaboration-changes-in-rust-v0-137-0|4 Collaboration
-  changes in rust-v0.137.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-05-show-the-mission-control-sharing-status-of-synced-sessions-in-the-session-info-v|Show
   the Mission Control sharing status of synced sessions in the /session info view]]'
+- '[[Changes/Replit/2026-06-05-use-stripe-in-collaborative-workspaces|Use Stripe in
+  collaborative workspaces]]'
+- '[[Changes/Lovable/2026-06-09-workspace-view-only-sharing|Workspace view-only sharing]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-06-15-rust-v0-140-0-github-339797498-eb64f8cb|codex-cli-2026-06-15-rust-v0-140-0-github-339797498-eb64f8cb]]'
 source_type: github_releases
 theme: collaboration
@@ -92,8 +92,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-06-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-05-show-the-mission-control-sharing-status-of-synced-sessions-in-the-session-info-v|Show the Mission Control sharing status of synced sessions in the /session info view]]
-- Later: 2026-06-18 · ChatGPT · [[Changes/ChatGPT/2026-06-18-world-cup-updates-chatgpt-can-now-help-you-follow-the-tournament-in-a-more-conve|World Cup updates]]
+- Earlier: 2026-06-09 · Lovable · [[Changes/Lovable/2026-06-09-workspace-view-only-sharing|Workspace view-only sharing]]
+- Later: 2026-06-15 · Lovable · [[Changes/Lovable/2026-06-15-clearer-inbox-notifications|Clearer inbox notifications]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -4,20 +4,20 @@ date: '2026-01-09'
 description: 'Cline · 2026-01-09 · Files and Data: Revert #8341 due to regressions
   in diff view/document truncation (see #8423, #8429)'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code
-    interpreter is now rolling out in beta on web]]'
+  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
+    Files and Data changes in 0.2.2]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 918
+  lag_days: 960
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 35ecba04dfef24a1fe1f93370c8c9d7d682cb3da8f3462c076a25c3030628757
+machine_hash: 3dad81a318c213474300b5bd66d65be982b179542e956e4195fa69809f489d72
 product: cline
 product_name: Cline
 record:
@@ -45,12 +45,11 @@ record:
     #8429)'
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-11-04-document-todo-tool-by-scidomino-in-https-github-com-google-gemini-gemini-cli-pul|Document
-  todo tool]]'
-- '[[Changes/Cline/2025-11-27-docs-document-proxy-settings-by-dominiccooney-in-https-github-com-cline-cline-pu|docs:
-  Document proxy settings]]'
-- '[[Changes/Codex CLI/2025-12-15-8024-docs-document-enabling-experimental-skills|♯8024
-  docs: document enabling experimental skills]]'
+- '[[Changes/ElevenLabs/2025-12-15-new-endpoints|New Endpoints]]'
+- '[[Changes/Open WebUI/2025-12-21-6-files-and-data-changes-in-v0-6-42|6 Files and
+  Data changes in v0.6.42]]'
+- '[[Changes/Dify/2025-12-25-add-file-upload-enabled-check-and-new-i18n-message-by-halogen22-in-https-github|Add
+  file upload enabled check and new i18n message]]'
 source_release: '[[Releases/Cline/cline-2026-01-09-v3-48-0-github-275594973-5b3ea2b9|cline-2026-01-09-v3-48-0-github-275594973-5b3ea2b9]]'
 source_type: github_releases
 theme: file-data
@@ -82,14 +81,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2025-12-15 · Codex CLI · [[Changes/Codex CLI/2025-12-15-8024-docs-document-enabling-experimental-skills|♯8024 docs: document enabling experimental skills]]
+- Earlier: 2025-12-25 · Dify · [[Changes/Dify/2025-12-25-add-file-upload-enabled-check-and-new-i18n-message-by-halogen22-in-https-github|Add file upload enabled check and new i18n message]]
 - Later: 2026-01-09 · Codex CLI · [[Changes/Codex CLI/2026-01-09-app-server-readme-now-documents-skills-support-and-usage-8853|App-server README now documents skills support and usage]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-06 · ChatGPT · [[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code interpreter is now rolling out in beta on web]]
+- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 711aa2cfc03a33f10eeea78a07d346972e4dbaf1eb2686d43304710799c1449d
+machine_hash: 998cdd9f0ebd834e1473d18e68186b85eec7af1a660a124e570f8c448f6018f9
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -58,8 +58,8 @@ record:
   title: 6 Apps and Integrations changes in v1.0.88
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-09-21-8-apps-and-integrations-changes-in-v1-0-87|8
-  Apps and Integrations changes in v1.0.87]]'
+- '[[Changes/Open WebUI/2026-09-21-3-apps-and-integrations-changes-in-v0-11-4|3 Apps
+  and Integrations changes in v0.11.4]]'
 - '[[Changes/Claude Code/2026-09-22-8-apps-and-integrations-changes-in-v2-1-280|8
   Apps and Integrations changes in v2.1.280]]'
 - '[[Changes/Codex CLI/2026-09-22-42-apps-and-integrations-changes-in-rust-v0-156-0|42
@@ -112,7 +112,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.88
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-09-22 · Codex CLI · [[Changes/Codex CLI/2026-09-22-42-apps-and-integrations-changes-in-rust-v0-156-0|42 Apps and Integrations changes in rust-v0.156.0]]
-- Later: 2026-09-22 · OpenHands · [[Changes/OpenHands/2026-09-22-test-cover-mcp-config-utilities-by-aivong-openhands-in-https-github-com-openhand|test: cover MCP config utilities]]
+- Later: 2026-09-22 · Lovable · [[Changes/Lovable/2026-09-22-connect-your-app-to-parallel|Connect your app to Parallel]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

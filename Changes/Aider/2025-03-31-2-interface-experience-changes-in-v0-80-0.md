@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6727f19882b8cd319348c072f6a965f2ce8bb37fc4c54312a81e5e6357ad7095
+machine_hash: f752a0425559a5caebce369b571844f607c57840d29a009c3d5390330d3a26bf
 product: aider
 product_name: Aider
 record:
@@ -44,11 +44,11 @@ record:
   title: 2 Interface Experience changes in v0.80.0
   type: change
 related_changes:
-- '[[Changes/Cline/2025-03-23-add-documentation-menu-item-to-easily-access-cline-s-docs|Add
-  ''Documentation'' menu item to easily access Cline''s docs]]'
 - '[[Changes/Cursor/2025-03-23-new-onboarding|New onboarding]]'
 - '[[Changes/Cursor/2025-03-23-2-interface-experience-changes-in-0-48-x|2 Interface
   Experience changes in 0.48.x]]'
+- '[[Changes/Dify/2025-03-24-ui-ux-fixes-addressed-various-style-and-interaction-issues-like-sidebar-width-on|UI/UX
+  Fixes: Addressed various style and interaction issues, like sidebar width…]]'
 source_release: '[[Releases/Aider/aider-2025-03-31-v0-80-0-github-209238246-56764716|aider-2025-03-31-v0-80-0-github-209238246-56764716]]'
 source_type: github_releases
 theme: interface-experience
@@ -85,8 +85,8 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.80.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2025-03-23 · Cursor · [[Changes/Cursor/2025-03-23-2-interface-experience-changes-in-0-48-x|2 Interface Experience changes in 0.48.x]]
-- Later: 2025-04-04 · Aider · [[Changes/Aider/2025-04-04-https-aider-chat-history-html|(source link)]]
+- Earlier: 2025-03-24 · Dify · [[Changes/Dify/2025-03-24-ui-ux-fixes-addressed-various-style-and-interaction-issues-like-sidebar-width-on|UI/UX Fixes: Addressed various style and interaction issues, like sidebar width…]]
+- Later: 2025-04-01 · Open WebUI · [[Changes/Open WebUI/2025-04-01-3-interface-experience-changes-in-v0-6-0|3 Interface Experience changes in v0.6.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

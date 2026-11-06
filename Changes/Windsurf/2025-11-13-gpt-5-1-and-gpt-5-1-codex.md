@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 94473f816656659615ea3029c529a5ffe2ae2548d117025c0fc3dda929b027a3
+machine_hash: 0c1ccdc8c2c55029c96012ef69a3cb36cc823a240de192eb0518548344873225
 product: windsurf
 product_name: Windsurf
 record:
@@ -52,10 +52,10 @@ record:
   title: GPT-5.1 and GPT-5.1-Codex
   type: change
 related_changes:
-- '[[Changes/Cline/2025-11-13-8-model-support-changes-in-v3-37-0|8 Model Support changes
-  in v3.37.0]]'
 - '[[Changes/Codex CLI/2025-11-13-11-model-support-changes-in-rust-v0-58-0|11 Model
   Support changes in rust-v0.58.0]]'
+- '[[Changes/Dify/2025-11-13-5-model-support-changes-in-1-10-0|5 Model Support changes
+  in 1.10.0]]'
 - '[[Changes/GitHub Copilot CLI/2025-11-13-gpt-5-1-gpt-5-1-codex-and-gpt-5-1-codex-mini-are-now-available-in-github-copilot|GPT-5.1,
   GPT-5.1-Codex, and GPT-5.1-Codex-Mini are now available in GitHub Copilot CLI]]'
 source_release: '[[Releases/Windsurf/windsurf-2025-11-13-v1-12-31-173d695f|windsurf-2025-11-13-v1-12-31-173d695f]]'

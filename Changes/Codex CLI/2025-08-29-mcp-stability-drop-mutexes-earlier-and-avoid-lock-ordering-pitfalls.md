@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 875d09b371b1df7860571978b2feaa9e2393477c95a66e7d7c628ab5d9393f2d
+machine_hash: 0ae17cb889673eda5feccc5263594dcf642481505a88c5296fb95487da598703
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -51,10 +51,10 @@ record:
   title: '**MCP stability**: drop mutexes earlier and avoid lock ordering pitfalls'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-08-26-5-apps-and-integrations-changes-in-rust-v0-24-0|5
-  Apps and Integrations changes in rust-v0.24.0]]'
 - '[[Changes/Gemini CLI/2025-08-27-2-apps-and-integrations-changes-in-v0-2-0|2 Apps
   and Integrations changes in v0.2.0]]'
+- "[[Changes/Open WebUI/2025-08-28-configurable-file-upload-processing-mode-added-process-in-background-query-param|\U0001F4C1
+  Configurable File Upload Processing Mode]]"
 - '[[Changes/Codex CLI/2025-08-29-3-apps-and-integrations-changes-in-rust-v0-26-0|3
   Apps and Integrations changes in rust-v0.26.0]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-08-29-rust-v0-27-0-github-243379671-3b3ef708|codex-cli-2025-08-29-rust-v0-27-0-github-243379671-3b3ef708]]'
@@ -88,7 +88,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2025-08-29 · Codex CLI · [[Changes/Codex CLI/2025-08-29-3-apps-and-integrations-changes-in-rust-v0-26-0|3 Apps and Integrations changes in rust-v0.26.0]]
-- Later: 2025-09-04 · Gemini CLI · [[Changes/Gemini CLI/2025-09-04-17-apps-and-integrations-changes-in-v0-3-0|17 Apps and Integrations changes in v0.3.0]]
+- Later: 2025-08-29 · Replit · [[Changes/Replit/2025-08-29-shareable-app-creation-links|Shareable app creation links]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

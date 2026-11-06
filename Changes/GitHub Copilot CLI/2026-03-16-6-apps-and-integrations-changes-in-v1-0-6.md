@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a0a42da6090b41648e4e604e0f1829c339d46ee3fbb00089bc3b87068cb670d9
+machine_hash: c0c6499b5cb95645294342c52179084caba99d501a13a113486401b5d79735df
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -55,12 +55,10 @@ record:
   title: 6 Apps and Integrations changes in v1.0.6
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-13-4-apps-and-integrations-changes-in-v1-0-5|4
-  Apps and Integrations changes in v1.0.5]]'
-- '[[Changes/Claude Code/2026-03-14-4-apps-and-integrations-changes-in-v2-1-76|4 Apps
-  and Integrations changes in v2.1.76]]'
 - '[[Changes/Codex CLI/2026-03-16-17-apps-and-integrations-changes-in-rust-v0-115-0|17
   Apps and Integrations changes in rust-v0.115.0]]'
+- '[[Changes/ElevenLabs/2026-03-16-javascript-sdk|JavaScript SDK]]'
+- '[[Changes/ElevenLabs/2026-03-16-sdk-releases|SDK Releases]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-03-16-v1-0-6-github-297705118-b80b4107|github-copilot-cli-2026-03-16-v1-0-6-github-297705118-b80b4107]]'
 source_type: github_releases
 theme: apps-integrations
@@ -110,8 +108,8 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.6
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-03-16 · Codex CLI · [[Changes/Codex CLI/2026-03-16-17-apps-and-integrations-changes-in-rust-v0-115-0|17 Apps and Integrations changes in rust-v0.115.0]]
-- Later: 2026-03-17 · Claude Code · [[Changes/Claude Code/2026-03-17-3-apps-and-integrations-changes-in-v2-1-78|3 Apps and Integrations changes in v2.1.78]]
+- Earlier: 2026-03-16 · ElevenLabs · [[Changes/ElevenLabs/2026-03-16-sdk-releases|SDK Releases]]
+- Later: 2026-03-16 · Lovable · [[Changes/Lovable/2026-03-16-app-connectors-twitch-twilio-linear-telegram-and-contentful|App connectors: Twitch, Twilio, Linear, Telegram, and Contentful]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

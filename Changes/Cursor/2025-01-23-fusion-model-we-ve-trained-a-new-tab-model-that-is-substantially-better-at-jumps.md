@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 355fa1509de313ae5cd90ad943318904d395fce0bf9080a4c60bcccc720eadd9
+machine_hash: 84a8718cb082b15a3bb7066906b0867465f914281f4e7f6b36b6476447b944d1
 product: cursor
 product_name: Cursor
 record:
@@ -62,10 +62,10 @@ record:
     at jumps…'
   type: change
 related_changes:
-- '[[Changes/Aider/2024-12-13-copy-context-instructions-now-takes-optional-instructions-when-copying-code-cont|/copy-context
-  instructions now takes optional "instructions" when copying code…]]'
-- '[[Changes/Cline/2024-12-18-you-can-now-specify-custom-instructions-for-your-project-by-adding-a-root-level|Specify
-  custom instructions for your project by adding a root-level .clinerules file]]'
+- '[[Changes/Dify/2025-01-07-added-cheaper-and-long-context-models-for-qwen2-5-72b-instruct-and-a-variety-of|Added
+  cheaper and long context models for Qwen2.5-72B-Instruct, and a variety…]]'
+- '[[Changes/Ollama/2025-01-08-granite-3-1-moe-https-ollama-com-library-granite3-1-moe-1b-and-3b-long-context-m|Granite
+  3.1 MoE((source link)]]'
 - '[[Changes/Aider/2025-01-10-increased-max-chat-history-tokens-limit-from-4k-to-8k|Increased
   max chat history tokens limit from 4k to 8k]]'
 source_release: '[[Releases/Cursor/cursor-2025-01-23-0-45-x-https-cursor-com-changelog-0-45-x-c162d228|cursor-2025-01-23-0-45-x-https-cursor-com-changelog-0-45-x-c162d228]]'

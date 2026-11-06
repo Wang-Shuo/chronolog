@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 90d81f42d7141d76b93a41769ddc06077b06491fa990a986ea9b805dac33a9ca
+machine_hash: 9241debebd771f7cbadf02363920d5a7724916a69f3ca794227e318629398598
 product: claude-code
 product_name: Claude Code
 record:
@@ -58,12 +58,12 @@ record:
     MCP…
   type: change
 related_changes:
-- '[[Changes/Cline/2026-02-12-2-account-and-access-changes-in-v3-58-0|2 Account and
-  Access changes in v3.58.0]]'
-- '[[Changes/Codex CLI/2026-02-12-11521-test-app-server-stabilize-app-list-thread-feature-flag-test-by-using-file|♯11521
-  test(app-server): stabilize app/list thread feature-flag test by using…]]'
+- '[[Changes/Open WebUI/2026-02-12-6-account-and-access-changes-in-v0-8-0|6 Account
+  and Access changes in v0.8.0]]'
 - '[[Changes/Claude Code/2026-02-13-added-claude-auth-login-claude-auth-status-and-claude-auth-logout-cli-subcommand|Added
   claude auth login, claude auth status, and claude auth logout CLI subcommands]]'
+- "[[Changes/Open WebUI/2026-02-16-oauth-session-error-handling-corrupted-oauth-sessions-are-now-gracefully-handled|\U0001F510
+  OAuth session error handling. Corrupted OAuth sessions are now gracefully…]]"
 source_release: '[[Releases/Claude Code/claude-code-2026-02-19-v2-1-49-github-288498923-7c27a140|claude-code-2026-02-19-v2-1-49-github-288498923-7c27a140]]'
 source_type: github_releases
 theme: account-access
@@ -96,8 +96,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-02-13 · Claude Code · [[Changes/Claude Code/2026-02-13-added-claude-auth-login-claude-auth-status-and-claude-auth-logout-cli-subcommand|Added claude auth login, claude auth status, and claude auth logout CLI subcommands]]
-- Later: 2026-02-25 · Codex CLI · [[Changes/Codex CLI/2026-02-25-3-account-and-access-changes-in-rust-v0-105-0|3 Account and Access changes in rust-v0.105.0]]
+- Earlier: 2026-02-16 · Open WebUI · [[Changes/Open WebUI/2026-02-16-oauth-session-error-handling-corrupted-oauth-sessions-are-now-gracefully-handled|🔐 OAuth session error handling. Corrupted OAuth sessions are now gracefully…]]
+- Later: 2026-02-23 · ElevenLabs · [[Changes/ElevenLabs/2026-02-23-elevenagents-f6efef|ElevenAgents]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

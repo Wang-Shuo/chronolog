@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 31b862363dfa1433d6720b27e7d3365b17b7697c9464bd9f35c2b0badc2f8cfd
+machine_hash: 59972193247b51c091c1c1f534a92abe6db8a234be9ba49ef86b29dcee00029e
 product: cline
 product_name: Cline
 record:
@@ -47,12 +47,12 @@ record:
   title: 3 Model Support changes in v3.18.0
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-06-20-fixed-cli-displaying-incorrect-default-model-for-anthropic-provider-by-neubig-in|Fixed
-  CLI displaying incorrect default model for Anthropic provider by @neubig…]]'
 - '[[Changes/OpenHands/2025-06-20-deprecation-warnings-in-cli-and-during-llm-api-calls-by-xingyaoww-in-https-githu|Deprecation
   Warnings in CLI and during LLM API calls by @xingyaoww…]]'
 - '[[Changes/OpenHands/2025-06-24-2-model-support-changes-in-0-46-0|2 Model Support
   changes in 0.46.0]]'
+- '[[Changes/Dify/2025-06-25-2-model-support-changes-in-1-5-0|2 Model Support changes
+  in 1.5.0]]'
 source_release: '[[Releases/Cline/cline-2025-06-26-v3-18-0-github-227867988-139993ff|cline-2025-06-26-v3-18-0-github-227867988-139993ff]]'
 source_type: github_releases
 theme: model-support
@@ -88,7 +88,7 @@ Source: https://github.com/cline/cline/releases/tag/v3.18.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-06-24 · OpenHands · [[Changes/OpenHands/2025-06-24-2-model-support-changes-in-0-46-0|2 Model Support changes in 0.46.0]]
+- Earlier: 2025-06-25 · Dify · [[Changes/Dify/2025-06-25-2-model-support-changes-in-1-5-0|2 Model Support changes in 1.5.0]]
 - Later: 2025-06-27 · Aider · [[Changes/Aider/2025-06-27-5-model-support-changes-in-v0-85-0|5 Model Support changes in v0.85.0]]
 <!-- chronolog:end -->
 

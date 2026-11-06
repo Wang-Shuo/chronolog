@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0e83416ca71640646da428de16514479da6d7b696edccf6c58b832e491856fb8
+machine_hash: 6f30db162fa11d2d7db289e33e601d6fabba50f1c6a1c0ffe88ab62394323d9d
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,10 @@ record:
   title: 2 Editor Experience changes in v2.1.116
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-16-transcript-view-footer-now-shows-dump-to-scrollback-and-v-open-in-editor-shortcu|Transcript
-  view footer now shows  (dump to scrollback) and v (open in editor)…]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-16-a-clear-error-message-is-displayed-when-the-configured-editor-cannot-be-launched|A
   clear error message is displayed when the configured editor cannot be launched]]'
+- '[[Changes/Ollama/2026-04-16-hermes-and-github-copilot-cli-in-ollama-launch-added-both-integrations-which-can|Hermes
+  and GitHub Copilot CLI in ollama launch. Added both integrations…]]'
 - '[[Changes/Claude Code/2026-04-17-remote-control-clients-can-now-query-file-autocomplete-suggestions|Remote
   Control clients can now query @-file autocomplete suggestions]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-20-v2-1-116-github-311446114-3b24dc7e|claude-code-2026-04-20-v2-1-116-github-311446114-3b24dc7e]]'
@@ -89,7 +89,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.116
 ## Nearby in Editor Experience
 
 - Earlier: 2026-04-17 · Claude Code · [[Changes/Claude Code/2026-04-17-remote-control-clients-can-now-query-file-autocomplete-suggestions|Remote Control clients can now query @-file autocomplete suggestions]]
-- Later: 2026-04-23 · Claude Code · [[Changes/Claude Code/2026-04-23-config-settings-theme-editor-mode-verbose-etc-now-persist-to-claude-settings-jso|/config settings (theme, editor mode, verbose, etc.) now persist…]]
+- Later: 2026-04-21 · Open WebUI · [[Changes/Open WebUI/2026-04-21-5-editor-experience-changes-in-v0-9-0|5 Editor Experience changes in v0.9.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

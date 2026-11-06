@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: accessibility-localization
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 031404c8e86a13a55d9a321a2d57d0c3ee2260e7146b5230d68109e420e8ca30
+machine_hash: 8330297b9339701934e53312cda745c01666e4c48c9d48bd9ccbe85f9ace12ce
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
   title: '[VSCode] Added a "Claude Code'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-14-added-screen-reader-mode-opt-in-plain-text-rendering-for-screen-reader-users-run|Added
-  screen reader mode: opt-in plain-text rendering for screen reader users]]'
-- '[[Changes/Claude Code/2026-07-22-added-screen-reader-announcements-of-deleted-text-for-word-and-line-deletions-op|Added
-  screen-reader announcements of deleted text for word and line deletions…]]'
-- '[[Changes/Claude Code/2026-08-14-improved-screen-reader-mode-the-effort-selector-renders-as-a-numbered-list-with|Improved
-  screen reader mode]]'
+- '[[Changes/Dify/2026-08-25-3-accessibility-and-localization-changes-in-1-17-0|3
+  Accessibility and Localization changes in 1.17.0]]'
+- '[[Changes/Open WebUI/2026-08-25-improved-ui-accessibility-a-closed-sidebar-is-no-longer-reachable-by-keyboard-or|♿
+  Improved UI accessibility. A closed sidebar is no longer reachable by keyboard…]]'
+- "[[Changes/Open WebUI/2026-08-31-high-contrast-mode-is-now-accessibility-mode-the-interface-setting-previously-ca|\U0001F3F7️
+  High Contrast Mode is now Accessibility Mode. The interface setting…]]"
 source_release: '[[Releases/Claude Code/claude-code-2026-09-10-v2-1-268-github-386532237-baa1a848|claude-code-2026-09-10-v2-1-268-github-386532237-baa1a848]]'
 source_type: github_releases
 theme: accessibility-localization
@@ -90,8 +90,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Accessibility and Localization
 
-- Earlier: 2026-08-14 · Claude Code · [[Changes/Claude Code/2026-08-14-improved-screen-reader-mode-the-effort-selector-renders-as-a-numbered-list-with|Improved screen reader mode]]
-- Later: 2026-09-17 · Claude Code · [[Changes/Claude Code/2026-09-17-vscode-improved-screen-reader-navigation-of-the-conversation-each-message-is-ann|VSCode Improved screen reader navigation of the conversation]]
+- Earlier: 2026-08-31 · Open WebUI · [[Changes/Open WebUI/2026-08-31-high-contrast-mode-is-now-accessibility-mode-the-interface-setting-previously-ca|🏷️ High Contrast Mode is now Accessibility Mode. The interface setting…]]
+- Later: 2026-09-10 · Dify · [[Changes/Dify/2026-09-10-3-accessibility-and-localization-changes-in-1-17-1|3 Accessibility and Localization changes in 1.17.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

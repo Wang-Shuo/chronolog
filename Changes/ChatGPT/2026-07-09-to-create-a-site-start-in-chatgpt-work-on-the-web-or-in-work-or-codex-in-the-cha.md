@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 43f2a4257b2b1b4379c43d2c09b5445a62794702f6b21ff312da3b520d34d931
+machine_hash: 842d4d517b1fea3271f19c5c6c0c09fb882dbf8123b7f30f77cf95b8b798396f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -47,9 +47,10 @@ record:
   title: To create a Site, start in ChatGPT Work on the web or in Work or Codex…
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-07-04-devin-desktop|Devin Desktop]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-07-3-mobile-and-desktop-changes-in-v1-0-69|3
   Mobile and Desktop changes in v1.0.69]]'
+- '[[Changes/Lovable/2026-07-07-find-in-page-clipboard-and-location-in-the-desktop-app|Find
+  in page, clipboard, and location in the desktop app]]'
 - '[[Changes/Codex CLI/2026-07-08-2-mobile-and-desktop-changes-in-rust-v0-143-0|2
   Mobile and Desktop changes in rust-v0.143.0]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-07-09-introducing-chatgpt-sites-in-public-beta-4d20edcd|chatgpt-2026-07-09-introducing-chatgpt-sites-in-public-beta-4d20edcd]]'

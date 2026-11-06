@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3da22a8dce077aa2b579418be5e0abcf0fc8fcea920c41791ee6d3eedd40d300
+machine_hash: e7f704ec7cfc47cbf2bb90deff7d40a746cb32f8247102c992ae864e4d74636b
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,10 +46,10 @@ record:
   title: Improved the `/diff` panel
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-04-42874-0-153-hotfix-show-astra-in-bundled-model-picker-rhan-oai|♯42874
-  0.153 hotfix Show Astra in bundled model picker @rhan-oai]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-04-add-recent-created-name-and-classic-none-sorting-to-the-split-sessions-sidebar-w|Add
   Recent, Created, Name, and classic None sorting to the split Sessions sidebar…]]'
+- '[[Changes/Lovable/2026-09-04-new-ways-to-open-project-settings|New ways to open
+  project settings]]'
 - '[[Changes/ChatGPT/2026-09-08-edit-and-comment-on-mobile-open-a-generated-image-full-screen-to-edit-it-or-add|Edit
   and comment]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-09-v2-1-267-github-385748811-6409148e|claude-code-2026-09-09-v2-1-267-github-385748811-6409148e]]'

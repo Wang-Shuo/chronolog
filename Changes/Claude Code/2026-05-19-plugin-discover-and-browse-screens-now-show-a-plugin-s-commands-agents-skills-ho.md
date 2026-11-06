@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9b149fc276709323e62cd6f4b926353c74ba1c2457e1a98ec0799e561f557753
+machine_hash: 374714b7536c2dd255fb9c150b23818901870727e344e83720bc0dbe140e869e
 product: claude-code
 product_name: Claude Code
 record:
@@ -61,12 +61,11 @@ record:
     skills…'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-14-auto-disable-the-built-in-github-mcp-server-in-azure-devops-only-workspaces-when|Auto-disable
-  the built-in github-mcp-server in Azure DevOps-only workspaces…]]'
-- '[[Changes/Claude Code/2026-05-15-3-apps-and-integrations-changes-in-v2-1-143|3
-  Apps and Integrations changes in v2.1.143]]'
-- '[[Changes/Codex CLI/2026-05-18-56-apps-and-integrations-changes-in-rust-v0-131-0|56
-  Apps and Integrations changes in rust-v0.131.0]]'
+- '[[Changes/Lovable/2026-05-18-tanstack-start-is-now-the-default-for-new-apps|TanStack
+  Start is now the default for new apps]]'
+- '[[Changes/Lovable/2026-05-18-improved-github-integration|Improved GitHub integration]]'
+- '[[Changes/Lovable/2026-05-18-chat-with-lovable-in-telegram|Chat with Lovable in
+  Telegram]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-19-v2-1-145-github-325388499-227a5ce4|claude-code-2026-05-19-v2-1-145-github-325388499-227a5ce4]]'
 source_type: github_releases
 theme: apps-integrations
@@ -99,7 +98,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-05-18 · Codex CLI · [[Changes/Codex CLI/2026-05-18-56-apps-and-integrations-changes-in-rust-v0-131-0|56 Apps and Integrations changes in rust-v0.131.0]]
+- Earlier: 2026-05-18 · Lovable · [[Changes/Lovable/2026-05-18-chat-with-lovable-in-telegram|Chat with Lovable in Telegram]]
 - Later: 2026-05-19 · Claude Code · [[Changes/Claude Code/2026-05-19-3-apps-and-integrations-changes-in-v2-1-144|3 Apps and Integrations changes in v2.1.144]]
 <!-- chronolog:end -->
 

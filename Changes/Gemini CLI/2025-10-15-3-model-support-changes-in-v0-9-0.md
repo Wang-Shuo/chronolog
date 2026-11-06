@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9b3689e18c06e4ff8b44af914096039606568596d1ab2c8361cea7201bd75295
+machine_hash: cbd7f1415adb3e7bffc4090a3df8ba2081dccc32656cd8a0699a34138a5c5d58
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -46,12 +46,10 @@ record:
   title: 3 Model Support changes in v0.9.0
   type: change
 related_changes:
-- '[[Changes/Cline/2025-10-08-update-local-models-docs-remove-emojis-from-docs-by-nickbaumann98-in-https-githu|Update
-  local models docs & remove emojis from Docs]]'
-- '[[Changes/Gemini CLI/2025-10-08-revert-get-around-the-initial-empty-response-from-gemini-2-5-flash-by-sandytao52|Revert
-  "Get around the initial empty response from gemini-2.5-flash]]'
-- '[[Changes/GitHub Copilot CLI/2025-10-10-improved-the-error-handling-in-the-model-picker-when-no-models-are-available-fix|Improved
-  the error handling in the /model picker when no models are available…]]'
+- '[[Changes/Ollama/2025-10-10-thinking-models-now-support-structured-outputs-when-using-the-api-chat-api|Thinking
+  models now support structured outputs when using the /api/chat API]]'
+- '[[Changes/Claude/2025-10-15-claude-in-chrome-updates|Claude in Chrome updates]]'
+- '[[Changes/Claude/2025-10-15-claude-haiku-4-5-launch|Claude Haiku 4.5 launch]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-10-15-v0-9-0-github-254729703-41b9b488|gemini-cli-2025-10-15-v0-9-0-github-254729703-41b9b488]]'
 source_type: github_releases
 theme: model-support
@@ -91,7 +89,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.9.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-10-10 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-10-10-improved-the-error-handling-in-the-model-picker-when-no-models-are-available-fix|Improved the error handling in the /model picker when no models are available…]]
+- Earlier: 2025-10-15 · Claude · [[Changes/Claude/2025-10-15-claude-haiku-4-5-launch|Claude Haiku 4.5 launch]]
 - Later: 2025-10-15 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-10-15-added-each-model-s-premium-request-multiplier-to-the-model-list-currently-all-ou|Added each model's premium request multiplier to the /model list…]]
 <!-- chronolog:end -->
 

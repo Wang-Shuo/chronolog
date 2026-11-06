@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c0c81f3b0dfb45382255723a5daef45a334d274d4b5a70b649ef6439df1013a9
+machine_hash: 86e27c3bf10a8f6e78b5632fbea5cab45d14d8e5564a8ae5e71c633b0342ccc4
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,10 +43,9 @@ record:
   title: 2 Model Support changes in rust-v0.110.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-04-3-model-support-changes-in-v2-1-68|3 Model Support
-  changes in v2.1.68]]'
 - '[[Changes/Cline/2026-03-04-2-model-support-changes-in-v3-70-0|2 Model Support changes
   in v3.70.0]]'
+- '[[Changes/v0/2026-03-04-added-auto-model-selection|Added auto model selection]]'
 - '[[Changes/Claude Code/2026-03-05-changed-sonnet-4-5-users-on-pro-max-team-premium-to-be-automatically-migrated-to|Changed
   Sonnet 4.5 users on Pro/Max/Team Premium to be automatically migrated…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-03-05-rust-v0-110-0-github-293239637-d5d06302|codex-cli-2026-03-05-rust-v0-110-0-github-293239637-d5d06302]]'

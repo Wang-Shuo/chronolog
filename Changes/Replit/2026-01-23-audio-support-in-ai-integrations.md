@@ -1,0 +1,118 @@
+---
+card_id: replit-2026-01-23-3ba735
+date: '2026-01-23'
+description: 'Replit · 2026-01-23 · Voice and Audio: AI integrations now supports
+  audio capabilities with four new models:'
+diffusion:
+  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
+    Voice and Audio changes in 0.3.7]]'
+  inference: No adoption, equivalence, or causation claim.
+  lag_days: 928
+  relation: same-theme-chronology
+  role: later-observed
+  scope: tracked-products-only
+  theme: voice
+  tracked_products_count: 20
+evolves_from: []
+extractor_version: fallback-v5
+impact: significant
+kind: launch
+machine_hash: 02079269406fe827fb39b60aba5db76db8e05833cac756b6b8167ce2570506a4
+product: replit
+product_name: Replit
+record:
+  ai_generated: true
+  card_id: replit-2026-01-23-3ba735
+  comparison: ''
+  confidence: low
+  date: '2026-01-23'
+  description: 'Replit — Replit updates — 2026-01-23: AI integrations now supports
+    audio capabilities with four new models:'
+  evidence:
+  - quote: 'AI integrations now supports audio capabilities with four new models:'
+    source_release: https://docs.replit.com/updates/2026/01/23/changelog
+  - quote: '`gpt-4o-transcribe` and `gpt-4o-transcribe-mini` for speech-to-text transcription'
+    source_release: https://docs.replit.com/updates/2026/01/23/changelog
+  - quote: '`gpt-4o-audio` and `gpt-4o-audio-mini` for audio output generation'
+    source_release: https://docs.replit.com/updates/2026/01/23/changelog
+  - quote: Build applications that process or generate audio content—transcribe podcasts,
+      create voice assistants, or add speech interfaces to your apps.
+    source_release: https://docs.replit.com/updates/2026/01/23/changelog
+  extractor_version: fallback-v5
+  impact: significant
+  kind: launch
+  product: replit
+  product_name: Replit
+  slug: audio-support-in-ai-integrations
+  source_release: replit-2026-01-23-2026-01-23-0f161827
+  source_type: replit_changelog
+  theme: voice
+  theme_matches:
+  - matched_terms:
+    - integrations
+    score: 50
+    theme: apps-integrations
+  - matched_terms:
+    - models
+    score: 50
+    theme: model-support
+  - matched_terms:
+    - audio
+    score: 50
+    theme: voice
+  theme_resolution: manual-semantic-rule-v1
+  title: Audio support in AI integrations
+  type: change
+related_changes:
+- '[[Changes/ElevenLabs/2026-01-19-audio-generation|Audio Generation]]'
+- '[[Changes/ElevenLabs/2026-01-19-javascript-sdk|JavaScript SDK]]'
+- '[[Changes/ChatGPT/2026-01-20-we-re-making-an-update-to-chatgpt-voice-for-paid-users-that-improves-its-ability|Voice
+  Updates]]'
+source_release: '[[Releases/Replit/replit-2026-01-23-2026-01-23-0f161827|replit-2026-01-23-2026-01-23-0f161827]]'
+source_type: replit_changelog
+theme: voice
+title: Audio support in AI integrations
+type: change
+---
+
+<!-- chronolog:begin region="header" -->
+# Audio support in AI integrations
+
+**Replit** · 2026-01-23 · [[Themes/voice|Voice and Audio]] · Launch · [Official source](https://docs.replit.com/updates/2026/01/23/changelog) · from [[Releases/Replit/replit-2026-01-23-2026-01-23-0f161827|Replit updates — 2026-01-23]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="evidence" -->
+> AI integrations now supports audio capabilities with four new models:
+>
+> `gpt-4o-transcribe` and `gpt-4o-transcribe-mini` for speech-to-text transcription
+>
+> `gpt-4o-audio` and `gpt-4o-audio-mini` for audio output generation
+>
+> Build applications that process or generate audio content—transcribe podcasts, create voice assistants, or add speech interfaces to your apps.
+>
+> Source: https://docs.replit.com/updates/2026/01/23/changelog
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Replit/2026-01-23-web-search-in-agent-automations|Web search in Agent automations]] · Automation and Scheduling
+- [[Changes/Replit/2026-01-23-rulessync-support-for-replit-md|RulesSync support for replit.md]] · Agent Mode
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Voice and Audio
+
+- Earlier: 2026-01-20 · ChatGPT · [[Changes/ChatGPT/2026-01-20-we-re-making-an-update-to-chatgpt-voice-for-paid-users-that-improves-its-ability|Voice Updates]]
+- Later: 2026-01-26 · ChatGPT · [[Changes/ChatGPT/2026-01-26-we-ve-improved-search-responses-in-chatgpt-voice-to-deliver-more-complete-up-to|Improvements to search response quality in Voice]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20replit-2026-01-23-3ba735&body=Card%3A%20Changes%2FReplit%2F2026-01-23-audio-support-in-ai-integrations.md%0ACard%20ID%3A%20replit-2026-01-23-3ba735%0ASource%3A%20https%3A%2F%2Fdocs.replit.com%2Fupdates%2F2026%2F01%2F23%2Fchangelog%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

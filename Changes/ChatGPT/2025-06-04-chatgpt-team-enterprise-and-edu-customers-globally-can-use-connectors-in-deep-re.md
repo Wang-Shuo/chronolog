@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9928a4aacf73e2973decb28095529286304724740dc541becdb9ba78818fa81f
+machine_hash: a04e84525065872a5ba3cbf9027a4117698c9d39eb921fd77efbb3778f70b911
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -59,10 +59,10 @@ record:
     deep…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-05-12-chatgpt-deep-research-with-sharepoint-and-onedrive-is-available-globally-to-team-c5147c|Microsoft
-  SharePoint and OneDrive connector for deep research for Plus/Pro/Team]]'
 - '[[Changes/ChatGPT/2025-05-15-chatgpt-deep-research-with-dropbox-is-available-globally-to-team-users-it-is-als-eaf8af|Dropbox
   connector for deep research for Plus/Pro/Team]]'
+- '[[Changes/Open WebUI/2025-05-26-3-search-and-browsing-changes-in-v0-6-11|3 Search
+  and Browsing changes in v0.6.11]]'
 - '[[Changes/ChatGPT/2025-06-04-combines-internal-web-sources-for-synthesis|Combines
   internal + web sources for synthesis]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-06-04-connectors-in-beta-for-deep-research-plus-pro-team-enterprise-ed-6bb21f0f|chatgpt-2025-06-04-connectors-in-beta-for-deep-research-plus-pro-team-enterprise-ed-6bb21f0f]]'
@@ -95,7 +95,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Search and Browsing
 
-- Earlier: 2025-05-15 · ChatGPT · [[Changes/ChatGPT/2025-05-15-chatgpt-deep-research-with-dropbox-is-available-globally-to-team-users-it-is-als-eaf8af|Dropbox connector for deep research for Plus/Pro/Team]]
+- Earlier: 2025-05-26 · Open WebUI · [[Changes/Open WebUI/2025-05-26-3-search-and-browsing-changes-in-v0-6-11|3 Search and Browsing changes in v0.6.11]]
 - Later: 2025-06-04 · Cursor · [[Changes/Cursor/2025-06-04-link-and-web-search-can-now-parse-pdfs-and-include-in-context|@Link and web search can now parse PDFs and include in context]]
 <!-- chronolog:end -->
 

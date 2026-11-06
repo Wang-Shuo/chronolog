@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: policy
-machine_hash: fff9c3a0ce9521378d74357d604afc32b59b2f87f05fd986a41b20123e7c2371
+machine_hash: 3b121b884150037c375bee733676adc7eae67951a57061cf353beff5ad7c9ac9
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -79,7 +79,7 @@ type: change
 ## Nearby in Memory and Personalization
 
 - Earlier: 2026-03-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-16-custom-instruction-file-paths-load-correctly-when-using-copilot-custom-instructi|Custom instruction file paths load correctly when using COPILOT_CUSTOM_INSTRUCTIONS_DIRS]]
-- Later: 2026-03-17 · Gemini CLI · [[Changes/Gemini CLI/2026-03-17-docs-document-tool-exclusion-from-memory-via-deny-policy-by-abhijit-2592-in-http|docs: document tool exclusion from memory via deny policy]]
+- Later: 2026-03-17 · Dify · [[Changes/Dify/2026-03-17-4-memory-and-personalization-changes-in-1-13-1|4 Memory and Personalization changes in 1.13.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

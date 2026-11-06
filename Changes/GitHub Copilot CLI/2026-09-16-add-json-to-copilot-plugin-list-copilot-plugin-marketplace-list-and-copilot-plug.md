@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1c0ca29b0907e03aa75d7f0c3130b284115bc50adf0ec490fa7adbb0f141368b
+machine_hash: 32849517a00ffabc59913087d8036e6f60fc372290e3a03bdf2d3a6f6dce04a6
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -53,10 +53,10 @@ record:
   title: Add `--json` to `copilot plugin list`, `copilot plugin marketplace list`…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-01-changed-btw-history-browsing-from-to-shift-shift-or-stepping-through-your-recent|Changed
-  /btw history browsing from ←/→ to Shift+←/Shift+→ (or /)…]]'
 - '[[Changes/Codex CLI/2026-09-09-experimental-worktree-support-lets-you-create-isolated-checkouts-for-new-or-fork|Experimental
   worktree support lets you create isolated checkouts for new or forked…]]'
+- '[[Changes/Lovable/2026-09-09-compare-and-restore-earlier-versions-of-a-plan|Compare
+  and restore earlier versions of a plan]]'
 - '[[Changes/ChatGPT/2026-09-10-box-dropbox-and-sharepoint-now-join-google-drive-in-chatgpt-library-once-connect|Box,
   Dropbox, and SharePoint now join Google Drive in ChatGPT Library]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-09-16-v1-0-85-github-389603482-889a46d9|github-copilot-cli-2026-09-16-v1-0-85-github-389603482-889a46d9]]'

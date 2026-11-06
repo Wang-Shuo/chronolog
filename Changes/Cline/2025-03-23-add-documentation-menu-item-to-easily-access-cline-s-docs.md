@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 63b32c126d83aba1e900071049db87333b8bfe19082e1354d2b26dccb6ad274c
+machine_hash: a3672270cb93d6d5d6b200a638218bb50e9bcf138617981e44ec23c7b9b4e1a7
 product: cline
 product_name: Cline
 record:
@@ -41,12 +41,12 @@ record:
   title: Add 'Documentation' menu item to easily access Cline's docs
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-03-18-added-long-press-on-your-message-to-open-menu-actions-copy-edit|Added
-  long press on your message to open menu actions: Copy, Edit]]'
-- '[[Changes/ChatGPT/2025-03-18-improved-response-display-of-nested-blockquote-content|Improved
-  response display of nested blockquote content]]'
-- '[[Changes/Aider/2025-03-21-3-interface-experience-changes-in-v0-78-0|3 Interface
-  Experience changes in v0.78.0]]'
+- '[[Changes/Dify/2025-03-21-this-version-disables-the-svg-rendering-in-the-message-if-you-are-using-our-comm|
+  This version disables the SVG rendering in the message]]'
+- '[[Changes/Dify/2025-03-21-this-version-disables-the-svg-rendering-in-the-message-if-you-are-using-our-comm-c3ad8b|
+  This version disables the SVG rendering in the message]]'
+- '[[Changes/Lovable/2025-03-21-the-monthly-credits-counter-is-now-in-the-settings-menu-for-quick-access|The
+  monthly credits counter is now in the settings menu for quick access]]'
 source_release: '[[Releases/Cline/cline-2025-03-23-v3-8-0-github-207655603-f6979596|cline-2025-03-23-v3-8-0-github-207655603-f6979596]]'
 source_type: github_releases
 theme: interface-experience
@@ -80,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2025-03-21 · Aider · [[Changes/Aider/2025-03-21-3-interface-experience-changes-in-v0-78-0|3 Interface Experience changes in v0.78.0]]
+- Earlier: 2025-03-21 · Lovable · [[Changes/Lovable/2025-03-21-the-monthly-credits-counter-is-now-in-the-settings-menu-for-quick-access|The monthly credits counter is now in the settings menu for quick access]]
 - Later: 2025-03-23 · Cursor · [[Changes/Cursor/2025-03-23-new-onboarding|New onboarding]]
 <!-- chronolog:end -->
 

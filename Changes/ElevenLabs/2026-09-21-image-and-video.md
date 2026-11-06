@@ -1,0 +1,115 @@
+---
+card_id: elevenlabs-2026-09-21-13ab2b
+date: '2026-09-21'
+description: 'ElevenLabs · 2026-09-21 · Image Generation: **GPT Image 2.5 models**:
+  [Image generation](https://elevenlabs.io/docs/api-reference/flows/image/create)
+  now…'
+diffusion:
+  first_in_tracked: "[[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|\U0001F3A8
+    DALL-E Integration]]"
+  inference: No adoption, equivalence, or causation claim.
+  lag_days: 925
+  relation: same-theme-chronology
+  role: later-observed
+  scope: tracked-products-only
+  theme: image-generation
+  tracked_products_count: 20
+evolves_from: []
+extractor_version: fallback-v5
+impact: incremental
+kind: launch
+machine_hash: 3be7dfe6ee35bcb25c76409f8139d65866c3dc2eb1ff098a730b8fbec9739c46
+product: elevenlabs
+product_name: ElevenLabs
+record:
+  card_id: elevenlabs-2026-09-21-13ab2b
+  comparison: ''
+  date: '2026-09-21'
+  description: 'ElevenLabs — ElevenLabs updates — 2026-09-21: **GPT Image 2.5 models**:
+    [Image generation](https://elevenlabs.io/docs/api-reference/flows/image/create)
+    now supports `gpt-image-2.5-flare` and `gpt-image-2.5-sunburst`. Both models accept
+    up to 10 reference images, quality levels through `max`, 14 fixed aspect ratios
+    plus `auto`, and 1K, 2K or 4K output.'
+  evidence:
+  - quote: '**GPT Image 2.5 models**: [Image generation](https://elevenlabs.io/docs/api-reference/flows/image/create)
+      now supports `gpt-image-2.5-flare` and `gpt-image-2.5-sunburst`. Both models
+      accept up to 10 reference images, quality levels through `max`, 14 fixed aspect
+      ratios plus `auto`, and 1K, 2K or 4K output.'
+    source_release: https://elevenlabs.io/docs/changelog/2026/9/21
+  extractor_version: fallback-v5
+  impact: incremental
+  kind: launch
+  product: elevenlabs
+  product_name: ElevenLabs
+  slug: image-and-video
+  source_release: elevenlabs-2026-09-21-2026-09-21-6d2d4d80
+  source_type: elevenlabs_changelog
+  theme: image-generation
+  theme_matches:
+  - matched_terms:
+    - image generation
+    - gpt image
+    score: 180
+    theme: image-generation
+  - matched_terms:
+    - models
+    score: 50
+    theme: model-support
+  title: Image and video
+  type: change
+related_changes:
+- '[[Changes/ChatGPT/2026-09-08-chatgpt-images-2-5-brings-sharper-details-more-precise-editing-and-faster-image-66acb5|ChatGPT
+  Images 2.5 brings sharper details, more precise editing, and faster image…]]'
+- '[[Changes/Lovable/2026-09-15-gpt-image-2-5-flare-and-sunburst-for-your-app-s-ai-features|GPT
+  Image 2.5 Flare and Sunburst for your app''s AI features]]'
+- '[[Changes/Codex CLI/2026-09-17-43953-preserve-per-image-generation-ids-in-image-generation-analytics-copyberry|♯43953
+  Preserve per-image generation IDs in image generation analytics @copyberry]]'
+source_release: '[[Releases/ElevenLabs/elevenlabs-2026-09-21-2026-09-21-6d2d4d80|elevenlabs-2026-09-21-2026-09-21-6d2d4d80]]'
+source_type: elevenlabs_changelog
+theme: image-generation
+title: Image and video
+type: change
+---
+
+<!-- chronolog:begin region="header" -->
+# Image and video
+
+**ElevenLabs** · 2026-09-21 · [[Themes/image-generation|Image Generation]] · Launch · [Official source](https://elevenlabs.io/docs/changelog/2026/9/21) · from [[Releases/ElevenLabs/elevenlabs-2026-09-21-2026-09-21-6d2d4d80|ElevenLabs updates — 2026-09-21]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="evidence" -->
+> **GPT Image 2.5 models**: [Image generation](https://elevenlabs.io/docs/api-reference/flows/image/create) now supports `gpt-image-2.5-flare` and `gpt-image-2.5-sunburst`. Both models accept up to 10 reference images, quality levels through `max`, 14 fixed aspect ratios plus `auto`, and 1K, 2K or 4K output.
+>
+> Source: https://elevenlabs.io/docs/changelog/2026/9/21
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/ElevenLabs/2026-09-21-text-to-speech|Text to Speech]] · Voice and Audio
+- [[Changes/ElevenLabs/2026-09-21-sdk-releases|SDK releases]] · Apps and Integrations
+- [[Changes/ElevenLabs/2026-09-21-text-to-speech-576ca6|Text to Speech]] · Model Support
+- [[Changes/ElevenLabs/2026-09-21-javascript-sdk|JavaScript SDK]] · Model Support
+- [[Changes/ElevenLabs/2026-09-21-elevenagents|ElevenAgents]] · Agent Mode
+- [[Changes/ElevenLabs/2026-09-21-python-sdk|Python SDK]] · Model Support
+- [[Changes/ElevenLabs/2026-09-21-user|User]] · Pricing Model
+- [[Changes/ElevenLabs/2026-09-21-image-and-video-915070|Image and video]] · Image Generation
+- [[Changes/ElevenLabs/2026-09-21-elevenagents-d15bdd|ElevenAgents]] · Agent Mode
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Image Generation
+
+- Earlier: 2026-09-17 · Codex CLI · [[Changes/Codex CLI/2026-09-17-43953-preserve-per-image-generation-ids-in-image-generation-analytics-copyberry|♯43953 Preserve per-image generation IDs in image generation analytics @copyberry]]
+- Later: 2026-09-21 · Open WebUI · [[Changes/Open WebUI/2026-09-21-2-image-generation-changes-in-v0-11-4|2 Image Generation changes in v0.11.4]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2024-03-10 · Open WebUI · [[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|🎨 DALL-E Integration]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20elevenlabs-2026-09-21-13ab2b&body=Card%3A%20Changes%2FElevenLabs%2F2026-09-21-image-and-video.md%0ACard%20ID%3A%20elevenlabs-2026-09-21-13ab2b%0ASource%3A%20https%3A%2F%2Felevenlabs.io%2Fdocs%2Fchangelog%2F2026%2F9%2F21%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

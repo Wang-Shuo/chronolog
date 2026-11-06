@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 362b2be6cf3dc2cbd78a645541debafe3f3827327b9a77b62a483ab393dccd53
+machine_hash: c8ff05d497ed53772cee1b5300c48cf68d9dbb1ebff8bb4a9ff4c582eedda1e4
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -48,8 +48,8 @@ record:
   title: 4 Model Support changes in v0.13.0
   type: change
 related_changes:
-- '[[Changes/Cline/2025-11-06-complete-telemetry-attribution-for-model-provider-tracking-by-nickbaumann98-in-h|Complete
-  telemetry attribution for model/provider tracking]]'
+- '[[Changes/Open WebUI/2025-11-06-edit-button-is-now-available-in-the-three-dot-menu-of-models-in-the-workspace-se|✏️
+  Edit button is now available in the three-dot menu of models in the workspace…]]'
 - '[[Changes/Codex CLI/2025-11-07-introducing-our-new-model-gpt-5-codex-mini-a-more-compact-and-cost-efficient-ver|Introducing
   our new model GPT-5-Codex-Mini]]'
 - '[[Changes/Codex CLI/2025-11-07-3-model-support-changes-in-rust-v0-56-0|3 Model

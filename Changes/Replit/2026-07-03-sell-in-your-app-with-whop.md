@@ -1,0 +1,102 @@
+---
+card_id: replit-2026-07-03-f1d05d
+date: '2026-07-03'
+description: 'Replit · 2026-07-03 · Agent Mode: You can now add payments to your app
+  with Whop by asking Agent. Agent creates a Whop account for you, connects it, and
+  builds…'
+diffusion:
+  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Agents,
+    new docs]]'
+  inference: No adoption, equivalence, or causation claim.
+  lag_days: 1093
+  relation: same-theme-chronology
+  role: later-observed
+  scope: tracked-products-only
+  theme: agent-mode
+  tracked_products_count: 20
+evolves_from: []
+extractor_version: fallback-v5
+impact: paradigm-shift
+kind: launch
+machine_hash: 2b8c2ccdbc70d2fbbbdc750dc8d4d6dbb8dab205cbc40e7c7cb399fd3ce48277
+product: replit
+product_name: Replit
+record:
+  ai_generated: true
+  card_id: replit-2026-07-03-f1d05d
+  comparison: ''
+  confidence: low
+  date: '2026-07-03'
+  description: 'Replit — Replit updates — 2026-07-03: You can now add payments to
+    your app with Whop by asking Agent. Agent creates a Whop account for you, connects
+    it, and builds checkout into your project, with no external setup and no API keys
+    to paste in. Whop is the fastest way to start selling digital products, memberships,
+    and subscriptions.'
+  evidence:
+  - quote: You can now add payments to your app with Whop by asking Agent. Agent creates
+      a Whop account for you, connects it, and builds checkout into your project,
+      with no external setup and no API keys to paste in. Whop is the fastest way
+      to start selling digital products, memberships, and subscriptions.
+    source_release: https://docs.replit.com/updates/2026/07/03/changelog
+  extractor_version: fallback-v5
+  impact: paradigm-shift
+  kind: launch
+  product: replit
+  product_name: Replit
+  slug: sell-in-your-app-with-whop
+  source_release: replit-2026-07-03-2026-07-03-1318c060
+  source_type: replit_changelog
+  theme: agent-mode
+  title: Sell in your app with Whop
+  type: change
+related_changes:
+- '[[Changes/GitHub Copilot CLI/2026-06-30-8-agent-mode-changes-in-v1-0-66|8 Agent
+  Mode changes in v1.0.66]]'
+- '[[Changes/Claude Code/2026-07-01-5-agent-mode-changes-in-v2-1-198|5 Agent Mode
+  changes in v2.1.198]]'
+- '[[Changes/GitHub Copilot CLI/2026-07-01-3-agent-mode-changes-in-v1-0-68|3 Agent
+  Mode changes in v1.0.68]]'
+source_release: '[[Releases/Replit/replit-2026-07-03-2026-07-03-1318c060|replit-2026-07-03-2026-07-03-1318c060]]'
+source_type: replit_changelog
+theme: agent-mode
+title: Sell in your app with Whop
+type: change
+---
+
+<!-- chronolog:begin region="header" -->
+# Sell in your app with Whop
+
+**Replit** · 2026-07-03 · [[Themes/agent-mode|Agent Mode]] · Launch · [Official source](https://docs.replit.com/updates/2026/07/03/changelog) · from [[Releases/Replit/replit-2026-07-03-2026-07-03-1318c060|Replit updates — 2026-07-03]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="evidence" -->
+> You can now add payments to your app with Whop by asking Agent. Agent creates a Whop account for you, connects it, and builds checkout into your project, with no external setup and no API keys to paste in. Whop is the fastest way to start selling digital products, memberships, and subscriptions.
+>
+> Source: https://docs.replit.com/updates/2026/07/03/changelog
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Replit/2026-07-03-downgrade-from-pro-to-core-in-one-step|Downgrade from Pro to Core in one step]] · Pricing Model
+- [[Changes/Replit/2026-07-03-the-redesigned-replit-desktop-app|The redesigned Replit Desktop App]] · Mobile and Desktop
+- [[Changes/Replit/2026-07-03-billing|Billing]] · Pricing Model
+- [[Changes/Replit/2026-07-03-integrations|Integrations]] · Apps and Integrations
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Agent Mode
+
+- Earlier: 2026-07-01 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-01-3-agent-mode-changes-in-v1-0-68|3 Agent Mode changes in v1.0.68]]
+- Later: 2026-07-06 · Claude Code · [[Changes/Claude Code/2026-07-06-3-agent-mode-changes-in-v2-1-202|3 Agent Mode changes in v2.1.202]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-07-06 · Cursor · [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Agents, new docs]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20replit-2026-07-03-f1d05d&body=Card%3A%20Changes%2FReplit%2F2026-07-03-sell-in-your-app-with-whop.md%0ACard%20ID%3A%20replit-2026-07-03-f1d05d%0ASource%3A%20https%3A%2F%2Fdocs.replit.com%2Fupdates%2F2026%2F07%2F03%2Fchangelog%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

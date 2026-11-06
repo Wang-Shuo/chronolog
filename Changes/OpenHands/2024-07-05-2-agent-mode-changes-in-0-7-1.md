@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0bc9cc877c45d8a901f8de10915fc3de9fe0f08d1d7c0a9f103d2aa5d1f842f1
+machine_hash: 38496d1202e3f038f213dd8945452ab83c89d3d967179bcab6add2781a385234
 product: openhands
 product_name: OpenHands
 record:
@@ -42,12 +42,12 @@ record:
   title: 2 Agent Mode changes in 0.7.1
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-07-10-the-goal-you-write-an-interface-specification-and-an-agent-writes-both-the-tests|The
-  goal: you write an interface specification, and an agent writes both the tests…]]'
-- '[[Changes/Cursor/2024-02-15-interpreter-mode-we-ve-made-some-big-improvements-to-the-backend-powering-interp|Interpreter
-  Mode: We''ve made some big improvements to the backend powering…]]'
+- '[[Changes/Dify/2024-04-22-2-agent-mode-changes-in-0-6-4|2 Agent Mode changes in
+  0.6.4]]'
 - '[[Changes/OpenHands/2024-06-29-3-agent-mode-changes-in-0-7-0|3 Agent Mode changes
   in 0.7.0]]'
+- '[[Changes/Ollama/2024-07-02-2-agent-mode-changes-in-v0-2-0|2 Agent Mode changes
+  in v0.2.0]]'
 source_release: '[[Releases/OpenHands/openhands-2024-07-05-0-7-1-github-164186278-78b5a72a|openhands-2024-07-05-0-7-1-github-164186278-78b5a72a]]'
 source_type: github_releases
 theme: agent-mode
@@ -85,7 +85,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/0.7.1
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2024-06-29 · OpenHands · [[Changes/OpenHands/2024-06-29-3-agent-mode-changes-in-0-7-0|3 Agent Mode changes in 0.7.0]]
+- Earlier: 2024-07-02 · Ollama · [[Changes/Ollama/2024-07-02-2-agent-mode-changes-in-v0-2-0|2 Agent Mode changes in v0.2.0]]
 - Later: 2024-07-13 · OpenHands · [[Changes/OpenHands/2024-07-13-3-agent-mode-changes-in-0-8-0|3 Agent Mode changes in 0.8.0]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 16a5fd96f33aa6c30473e1c22f0441112440a44a0fe5479c8c4c0e6aab0c2c07
+machine_hash: c97142f35636c29e208d0c71611b9d39fc2261f24ad183bd1a8bf0f1f36abff4
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -50,9 +50,10 @@ record:
   title: 3 Safety and Privacy changes in rust-v0.36.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-09-05-3128-mcp-sandbox-call|♯3128 MCP sandbox call]]'
 - '[[Changes/Gemini CLI/2025-09-09-2-safety-and-privacy-changes-in-v0-4-0|2 Safety
   and Privacy changes in v0.4.0]]'
+- '[[Changes/Open WebUI/2025-09-09-4-safety-and-privacy-changes-in-v0-6-27|4 Safety
+  and Privacy changes in v0.6.27]]'
 - '[[Changes/Codex CLI/2025-09-10-ci-build-faster-tests-with-nextest-add-shear-minor-macos-permission-adjustment|CI/Build:
   faster tests with nextest, add shear; minor macOS permission adjustment]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-09-15-rust-v0-36-0-github-247381260-0ebd05e2|codex-cli-2025-09-15-rust-v0-36-0-github-247381260-0ebd05e2]]'

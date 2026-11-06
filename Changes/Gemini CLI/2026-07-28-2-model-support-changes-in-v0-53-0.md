@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3b1fc235f33d58cad4c9ce3e0bcbb74f1e7a3b371591b5663b455d46436b34e6
+machine_hash: 93e68e6052a04c0dc976bc6edc061c276ee2f266461687341293d780dcea6996
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -45,12 +45,12 @@ record:
   title: 2 Model Support changes in v0.53.0
   type: change
 related_changes:
-- '[[Changes/Cline/2026-07-24-2-model-support-changes-in-v4-0-11|2 Model Support changes
-  in v4.0.11]]'
-- '[[Changes/GitHub Copilot CLI/2026-07-24-add-support-for-claude-opus-5|Add support
-  for Claude Opus 5]]'
+- '[[Changes/Open WebUI/2026-07-27-39-model-support-changes-in-v0-11-0|39 Model Support
+  changes in v0.11.0]]'
 - '[[Changes/Cline/2026-07-28-add-support-for-free-cline-models-shown-as-free-in-the-model-picker-with-a-dedic|Add
   support for free Cline models, shown as "(free)" in the model picker…]]'
+- '[[Changes/Dify/2026-07-28-6-model-support-changes-in-1-16-1|6 Model Support changes
+  in 1.16.1]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-07-28-v0-53-0-github-361395136-ca91763a|gemini-cli-2026-07-28-v0-53-0-github-361395136-ca91763a]]'
 source_type: github_releases
 theme: model-support
@@ -84,7 +84,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.53.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-07-28 · Cline · [[Changes/Cline/2026-07-28-add-support-for-free-cline-models-shown-as-free-in-the-model-picker-with-a-dedic|Add support for free Cline models, shown as "(free)" in the model picker…]]
+- Earlier: 2026-07-28 · Dify · [[Changes/Dify/2026-07-28-6-model-support-changes-in-1-16-1|6 Model Support changes in 1.16.1]]
 - Later: 2026-07-29 · Codex CLI · [[Changes/Codex CLI/2026-07-29-3-model-support-changes-in-rust-v0-146-0|3 Model Support changes in rust-v0.146.0]]
 <!-- chronolog:end -->
 

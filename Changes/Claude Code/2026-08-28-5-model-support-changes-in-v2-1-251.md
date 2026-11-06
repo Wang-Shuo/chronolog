@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 458ffd886799a5173891c1c3a2ee7c843603b784b16e8c19308796e3b602cad5
+machine_hash: 62a565c1795c2a5a72fe7a52d0306e39d91e39173e68a9da0cbc36f1396005a9
 product: claude-code
 product_name: Claude Code
 record:
@@ -57,10 +57,10 @@ record:
   title: 5 Model Support changes in v2.1.251
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-08-26-10-model-support-changes-in-rust-v0-150-0|10 Model
-  Support changes in rust-v0.150.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-08-27-4-model-support-changes-in-v1-0-81|4 Model
   Support changes in v1.0.81]]'
+- '[[Changes/Ollama/2026-08-27-the-claude-desktop-proxy-no-longer-interrupts-in-flight-requests-when-the-model|The
+  Claude Desktop proxy no longer interrupts in-flight requests when the model…]]'
 - '[[Changes/OpenHands/2026-08-27-2-model-support-changes-in-v1-16-0|2 Model Support
   changes in v1.16.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-28-v2-1-251-github-378586104-42ac2f96|claude-code-2026-08-28-v2-1-251-github-378586104-42ac2f96]]'
@@ -110,7 +110,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.251
 ## Nearby in Model Support
 
 - Earlier: 2026-08-27 · OpenHands · [[Changes/OpenHands/2026-08-27-2-model-support-changes-in-v1-16-0|2 Model Support changes in v1.16.0]]
-- Later: 2026-08-29 · Codex CLI · [[Changes/Codex CLI/2026-08-29-3-model-support-changes-in-rust-v0-151-0|3 Model Support changes in rust-v0.151.0]]
+- Later: 2026-08-28 · Replit · [[Changes/Replit/2026-08-28-intelligent-model-routing|Intelligent model routing]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 36a5e97000965f2e9f3fbe2cd0179ff91ac8ff02e188de3291828e8cb649b9cb
+machine_hash: 20fe2adf8b0d86d55c95aa922d0d4308495436ea4ad7234757792f5a909a5d03
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -91,7 +91,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-02-27 · Gemini CLI · [[Changes/Gemini CLI/2026-02-27-2-interface-experience-changes-in-v0-31-0|2 Interface Experience changes in v0.31.0]]
-- Later: 2026-02-28 · Claude Code · [[Changes/Claude Code/2026-02-28-added-always-copy-full-response-option-to-the-copy-picker-when-selected-future-c|Added "Always copy full response" option to the /copy picker]]
+- Later: 2026-02-27 · Replit · [[Changes/Replit/2026-02-27-password-manager-keyboard-navigation|Password manager keyboard navigation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

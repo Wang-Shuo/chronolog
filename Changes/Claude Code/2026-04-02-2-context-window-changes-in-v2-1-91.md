@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9abd87338ec6d47db685d8b106fb104c3a0556ad7f90b71bbda94b805fb58d25
+machine_hash: e45ce6674813f30263f8c284e928bbe71b84d9e42b81b348c3160e533be8d6d1
 product: claude-code
 product_name: Claude Code
 record:
@@ -85,7 +85,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.91
 ## Nearby in Context Window
 
 - Earlier: 2026-04-01 · Gemini CLI · [[Changes/Gemini CLI/2026-04-01-feat-core-cap-jit-context-upward-traversal-at-git-root-by-sandytao520-in-https-g|feat(core): cap JIT context upward traversal at git root]]
-- Later: 2026-04-04 · Claude Code · [[Changes/Claude Code/2026-04-04-pro-users-now-see-a-footer-hint-when-returning-to-a-session-after-the-prompt-cac|Pro users now see a footer hint when returning to a session after the prompt cache…]]
+- Later: 2026-04-02 · Lovable · [[Changes/Lovable/2026-04-02-image-tools|Image tools]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

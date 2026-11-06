@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: be7c1036577f600dd291406e2fcf6a39331889669f8df08600726b2bbf90eb70
+machine_hash: 4555179c172ee5d240863b00fb7c44ed28d4eeccdd4f6c5c2d132b92ace46c3c
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -58,10 +58,10 @@ record:
     the agent…
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-10-23-2-interface-experience-changes-in-v3-11-212|2 Interface
-  Experience changes in v3.11.212]]'
 - '[[Changes/Claude Code/2026-10-26-changed-clicks-on-scrollbar-arrows-and-bars-in-fullscreen-lists-to-act-when-the|Changed
   clicks on scrollbar arrows and bars in fullscreen lists to act…]]'
+- '[[Changes/ElevenLabs/2026-10-26-transcript-downloads-the-dubbing-project-menu-can-download-target-language-trans|Transcript
+  downloads: The dubbing project menu can download target language…]]'
 - '[[Changes/Claude Code/2026-10-27-2-interface-experience-changes-in-v2-1-312|2 Interface
   Experience changes in v2.1.312]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-10-27-rust-v0-165-0-github-425927431-1fa685eb|codex-cli-2026-10-27-rust-v0-165-0-github-425927431-1fa685eb]]'
@@ -102,7 +102,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-10-27 · Claude Code · [[Changes/Claude Code/2026-10-27-2-interface-experience-changes-in-v2-1-312|2 Interface Experience changes in v2.1.312]]
-- Later: 2026-10-27 · OpenHands · [[Changes/OpenHands/2026-10-27-3-interface-experience-changes-in-v1-34-0|3 Interface Experience changes in v1.34.0]]
+- Later: 2026-10-27 · Lovable · [[Changes/Lovable/2026-10-27-redesigned-sidebar|Redesigned sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

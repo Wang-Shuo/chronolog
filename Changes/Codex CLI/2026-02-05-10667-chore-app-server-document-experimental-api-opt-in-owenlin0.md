@@ -4,20 +4,20 @@ date: '2026-02-05'
 description: 'Codex CLI · 2026-02-05 · Files and Data: #10667 chore(app-server): document
   experimental API opt-in @owenlin0'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code
-    interpreter is now rolling out in beta on web]]'
+  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
+    Files and Data changes in 0.2.2]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 945
+  lag_days: 987
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1181120fbdbfba6412a67ae4ee70c04d4bb58b97369d50f73a68435c07c7dc0c
+machine_hash: 2d49677611939b3e49e6bd1941babd9b510ed2ff7be7cc7694dd1c80dde204ac
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,10 +43,10 @@ record:
   title: '#10667 chore(app-server): document experimental API opt-in @owenlin0'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-01-14-9020-fix-tui-document-paste-burst-state-machine-joshka-oai|♯9020
-  fix(tui): document paste-burst state machine @joshka-oai]]'
 - '[[Changes/Codex CLI/2026-01-31-10191-chore-app-server-document-authmode-owenlin0|♯10191
   chore(app-server): document AuthMode @owenlin0]]'
+- '[[Changes/Dify/2026-02-03-7-files-and-data-changes-in-1-12-0|7 Files and Data changes
+  in 1.12.0]]'
 - '[[Changes/Claude Code/2026-02-04-improved-pdf-and-request-size-error-messages-to-show-actual-limits-100-pages-20m|Improved
   PDF and request size error messages to show actual limits (100 pages, 20MB)]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-02-05-rust-v0-97-0-github-283219180-522ab2d0|codex-cli-2026-02-05-rust-v0-97-0-github-283219180-522ab2d0]]'
@@ -85,13 +85,13 @@ type: change
 ## Nearby in Files and Data
 
 - Earlier: 2026-02-04 · Claude Code · [[Changes/Claude Code/2026-02-04-improved-pdf-and-request-size-error-messages-to-show-actual-limits-100-pages-20m|Improved PDF and request size error messages to show actual limits (100 pages, 20MB)]]
-- Later: 2026-02-13 · ChatGPT · [[Changes/ChatGPT/2026-02-13-expanded-file-type-support-we-now-support-additional-text-and-code-file-formats|Expanded file type support]]
+- Later: 2026-02-11 · Dify · [[Changes/Dify/2026-02-11-2-files-and-data-changes-in-1-13-0|2 Files and Data changes in 1.13.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-06 · ChatGPT · [[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code interpreter is now rolling out in beta on web]]
+- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

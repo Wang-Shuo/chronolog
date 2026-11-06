@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3ab7cad55fd2668708b7ef3fb5dd8fb5e89d06b7a3bc28c226766394e1477a03
+machine_hash: c2931014db0b535cad9306e30dde3c38084860267818312e0854da7f19f6a8ef
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -101,7 +101,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.145.0
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-07-21 · Claude Code · [[Changes/Claude Code/2026-07-21-added-warnings-when-transcript-writes-are-failing-e-g-disk-full-or-when-session|Added warnings when transcript writes are failing (e.g. disk full) or when session…]]
-- Later: 2026-07-29 · Windsurf · [[Changes/Windsurf/2026-07-29-devin-cloud|Devin Cloud]]
+- Later: 2026-07-23 · Ollama · [[Changes/Ollama/2026-07-23-expanded-gpu-support-with-cuda-on-windows-arm64-b200-support-through-cuda-12-and|Expanded GPU support with CUDA on Windows ARM64, B200 support through CUDA 12…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

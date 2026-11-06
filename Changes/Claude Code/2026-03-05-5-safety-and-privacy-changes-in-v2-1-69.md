@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: cab7039943a91aa02a9fc4c0e999e6fd6636dc63871e1505fafb9763f1ff5c47
+machine_hash: 61da312d24909012aa4f66e744e6d2c9da1674bfa75542ff8a275d69d4621448
 product: claude-code
 product_name: Claude Code
 record:
@@ -57,12 +57,12 @@ record:
   title: 5 Safety and Privacy changes in v2.1.69
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-02-8-safety-and-privacy-changes-in-rust-v0-107-0|8
-  Safety and Privacy changes in rust-v0.107.0]]'
 - '[[Changes/Cursor/2026-03-03-fixed-team-permission-and-access-control-inconsistencies-across-organization-set|Fixed
   team permission and access control inconsistencies across organization setups]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-03-autopilot-permission-dialog-appears-on-first-prompt-submission-instead-of-on-mod|Autopilot
   permission dialog appears on first prompt submission instead of on mode switch]]'
+- '[[Changes/v0/2026-03-03-fixed-integration-permission-checks-for-team-roles|Fixed
+  integration permission checks for team roles]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-05-v2-1-69-github-293216328-162b2e44|claude-code-2026-03-05-v2-1-69-github-293216328-162b2e44]]'
 source_type: github_releases
 theme: safety-privacy
@@ -113,7 +113,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.69
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-03-03 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-03-autopilot-permission-dialog-appears-on-first-prompt-submission-instead-of-on-mod|Autopilot permission dialog appears on first prompt submission instead of on mode switch]]
+- Earlier: 2026-03-03 · v0 · [[Changes/v0/2026-03-03-fixed-integration-permission-checks-for-team-roles|Fixed integration permission checks for team roles]]
 - Later: 2026-03-05 · Codex CLI · [[Changes/Codex CLI/2026-03-05-4-safety-and-privacy-changes-in-rust-v0-110-0|4 Safety and Privacy changes in rust-v0.110.0]]
 <!-- chronolog:end -->
 

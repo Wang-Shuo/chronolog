@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3d894d72cef8e66aac315684e63e06e66c3f4e8636ebb249cce0aeac85edd39c
+machine_hash: 49a41f29df82bde92ae9008b71c6359fd3cb1e44603f7a6f0c7d5c69d270f09a
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -48,12 +48,12 @@ record:
   title: Bundled `sharp` dependency into the CLI package -- we're one step closer…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-10-17-3-mobile-and-desktop-changes-in-rust-v0-47-0|3 Mobile
-  and Desktop changes in rust-v0.47.0]]'
 - '[[Changes/ChatGPT/2025-10-23-starting-today-project-sharing-is-available-to-all-chatgpt-users-including-for-f-3f946e|Starting
   today, project sharing is available to all ChatGPT users, including…]]'
 - '[[Changes/Cline/2025-10-23-fixing-banner-to-not-show-cli-release-for-windows-users-by-arafatkatze-in-https|Fixing
   banner to not show CLI release for windows users]]'
+- '[[Changes/v0/2025-10-23-the-v0-ios-app-is-now-live-on-the-app-store-build-apps-on-the-go-with-the-full-p|v0
+  iOS App]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2025-10-24-v0-0-350-github-256864744-709fc85c|github-copilot-cli-2025-10-24-v0-0-350-github-256864744-709fc85c]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -86,8 +86,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2025-10-23 · Cline · [[Changes/Cline/2025-10-23-fixing-banner-to-not-show-cli-release-for-windows-users-by-arafatkatze-in-https|Fixing banner to not show CLI release for windows users]]
-- Later: 2025-11-04 · Codex CLI · [[Changes/Codex CLI/2025-11-04-6124-fix-archive-conversation-on-windows-6124|♯6124 Fix "archive conversation" on Windows (♯6124)]]
+- Earlier: 2025-10-23 · v0 · [[Changes/v0/2025-10-23-the-v0-ios-app-is-now-live-on-the-app-store-build-apps-on-the-go-with-the-full-p|v0 iOS App]]
+- Later: 2025-10-30 · Ollama · [[Changes/Ollama/2025-10-30-ignore-unsupported-igpus-when-doing-device-discovery-on-windows|Ignore unsupported iGPUs when doing device discovery on Windows]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

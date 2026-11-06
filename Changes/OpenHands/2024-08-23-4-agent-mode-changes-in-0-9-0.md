@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d9f3a17aa4796b13f469e5ab02462a19bababf46141b8864b3d666021268abaa
+machine_hash: bef4a5d1f46ee02e0642b2d1b3aef9d6f588239614d7bb554b9dab87a494fd7a
 product: openhands
 product_name: OpenHands
 record:
@@ -49,12 +49,12 @@ record:
   title: 4 Agent Mode changes in 0.9.0
   type: change
 related_changes:
-- '[[Changes/OpenHands/2024-07-27-4-agent-mode-changes-in-0-8-2|4 Agent Mode changes
-  in 0.8.2]]'
 - '[[Changes/OpenHands/2024-08-01-2-agent-mode-changes-in-0-8-3|2 Agent Mode changes
   in 0.8.3]]'
 - '[[Changes/Cursor/2024-08-02-concurrent-composers-support-composer-control-panel-and-various-bug-fixes-such-a|Concurrent
   composers support, composer control panel, and various bug fixes such…]]'
+- '[[Changes/Dify/2024-08-14-feat-agent-app-support-generate-prompt-by-iamjoel-in-https-github-com-langgenius|feat:
+  agent app support generate prompt]]'
 source_release: '[[Releases/OpenHands/openhands-2024-08-23-0-9-0-github-171741467-33b5726c|openhands-2024-08-23-0-9-0-github-171741467-33b5726c]]'
 source_type: github_releases
 theme: agent-mode
@@ -95,7 +95,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/0.9.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2024-08-02 · Cursor · [[Changes/Cursor/2024-08-02-concurrent-composers-support-composer-control-panel-and-various-bug-fixes-such-a|Concurrent composers support, composer control panel, and various bug fixes such…]]
+- Earlier: 2024-08-14 · Dify · [[Changes/Dify/2024-08-14-feat-agent-app-support-generate-prompt-by-iamjoel-in-https-github-com-langgenius|feat: agent app support generate prompt]]
 - Later: 2024-08-27 · Aider · [[Changes/Aider/2024-08-27-improved-shell-command-prompting|Improved shell command prompting]]
 <!-- chronolog:end -->
 

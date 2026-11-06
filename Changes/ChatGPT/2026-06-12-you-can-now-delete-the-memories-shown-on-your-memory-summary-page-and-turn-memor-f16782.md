@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 6dbff8f9aa5b5a1ca1569a690a52267390ca563f60a44efc735e995de695fdd0
+machine_hash: 8b98cc14773716cb640ecdf971b8841134ae6967c076d2d477dc89822b5c9297
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -75,8 +75,8 @@ record:
   title: Additional controls for memory summary
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-06-04-we-ve-upgraded-memory-so-chatgpt-can-better-keep-your-context-up-to-date-helping-9a48f3|Memory
-  that stays more up to date]]'
+- '[[Changes/v0/2026-06-08-team-plan-members-can-set-custom-instructions|Team plan
+  members can set custom instructions]]'
 - '[[Changes/Codex CLI/2026-06-09-26821-codex-exclude-external-tool-output-from-memories-rka-oai|♯26821
   codex Exclude external tool output from memories @rka-oai]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-09-resuming-a-local-session-with-memory-disabled-no-longer-crashes-the-ui-to-a-blan|Resuming

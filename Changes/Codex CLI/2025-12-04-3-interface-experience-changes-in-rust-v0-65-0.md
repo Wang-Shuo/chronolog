@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6701285d172a56bb050e3c3b8fd7d14c83829d6260cb014a7cb817debb4939a0
+machine_hash: 75f5d42d35227bb2728cf11076a4ec369488e728cc25948d34a274799eeef3ca
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -47,12 +47,12 @@ record:
   title: 3 Interface Experience changes in rust-v0.65.0
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-11-26-protect-stdout-and-stderr-so-javascript-code-can-t-accidentally-write-to-stdout|Protect
-  stdout and stderr so JavaScript code can''t accidentally write to stdout…]]'
-- '[[Changes/Cline/2025-12-02-4-interface-experience-changes-in-v3-39-0|4 Interface
-  Experience changes in v3.39.0]]'
 - '[[Changes/Codex CLI/2025-12-02-chore-dedup-unified-exec-waited-rendering-by-jif-oai-in-7256|chore:
   dedup unified exec "waited" rendering by @jif-oai in ♯7256]]'
+- '[[Changes/Open WebUI/2025-12-02-11-interface-experience-changes-in-v0-6-41|11 Interface
+  Experience changes in v0.6.41]]'
+- '[[Changes/v0/2025-12-02-you-can-now-access-project-settings-in-v0-using-the-in-chat-sidebar|Project
+  Settings in the Sidebar]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-12-04-rust-v0-65-0-github-267537191-959c7b4d|codex-cli-2025-12-04-rust-v0-65-0-github-267537191-959c7b4d]]'
 source_type: github_releases
 theme: interface-experience
@@ -93,8 +93,8 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.65.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2025-12-02 · Codex CLI · [[Changes/Codex CLI/2025-12-02-chore-dedup-unified-exec-waited-rendering-by-jif-oai-in-7256|chore: dedup unified exec "waited" rendering by @jif-oai in ♯7256]]
-- Later: 2025-12-09 · Codex CLI · [[Changes/Codex CLI/2025-12-09-2-interface-experience-changes-in-rust-v0-66-0|2 Interface Experience changes in rust-v0.66.0]]
+- Earlier: 2025-12-02 · v0 · [[Changes/v0/2025-12-02-you-can-now-access-project-settings-in-v0-using-the-in-chat-sidebar|Project Settings in the Sidebar]]
+- Later: 2025-12-04 · v0 · [[Changes/v0/2025-12-04-you-can-now-easily-purchase-and-add-custom-domains-to-your-v0-projects-directly|Buy Custom Domains]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

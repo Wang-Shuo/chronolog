@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d936188629a5eeee4f2588a30e98b3b538e63726b17e4b8d1a99d671eff3c694
+machine_hash: e65c02cbff89cee4310d13178671bf9fdf446d4b78c489bf44deb530aee59108
 product: openhands
 product_name: OpenHands
 record:
@@ -44,10 +44,10 @@ record:
   title: 'refactor(theme): use status classes for icons and diff counts'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-10-16-create-and-refine-edit-text-images-shapes-and-charts-directly-or-ask-chatgpt-to|Create
-  and refine]]'
-- '[[Changes/ChatGPT/2026-10-16-work-together-invite-teammates-to-edit-the-same-deck-in-real-time-and-leave-shar|Work
-  together]]'
+- '[[Changes/v0/2026-10-16-large-files-that-cannot-be-previewed-can-be-downloaded-from-the-code-tab-which-s|Large
+  files that cannot be previewed can be downloaded from the Code tab…]]'
+- '[[Changes/Lovable/2026-10-17-request-a-higher-workspace-role|Request a higher workspace
+  role]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-19-keep-saved-diff-review-comments-when-reopening-an-unchanged-diff-in-the-same-ses|Keep
   saved /diff review comments when reopening an unchanged diff in the same…]]'
 source_release: '[[Releases/OpenHands/openhands-2026-10-19-v1-28-0-github-417391290-d3015a14|openhands-2026-10-19-v1-28-0-github-417391290-d3015a14]]'

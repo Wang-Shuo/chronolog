@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7d8b884a893366c26760b7b38fa013cb68fe6717fd675a2967835bf138b20cde
+machine_hash: b26f3104e8abcaa79068afddca3a671dce71603434c14ca16198194b9bb02d10
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -44,10 +44,10 @@ record:
   title: 2 Memory and Personalization changes in v0.3.0
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-08-18-longer-memory-for-more-personalized-responses-4644fd|Longer
-  memory for more personalized responses]]'
 - '[[Changes/ChatGPT/2025-08-22-an-improvement-to-projects-is-now-available-when-creating-a-project-users-have-t-87f79a|An
   improvement to projects is now available]]'
+- "[[Changes/Open WebUI/2025-08-28-pdf-export-content-mismatch-fixed-resolved-an-issue-where-exporting-a-pdf-of-one|\U0001F4C4
+  PDF Export Content Mismatch Fixed]]"
 - '[[Changes/Windsurf/2025-08-28-memory-improvements|Memory improvements]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-09-04-v0-3-0-github-244870431-556b0abc|gemini-cli-2025-09-04-v0-3-0-github-244870431-556b0abc]]'
 source_type: github_releases
@@ -95,7 +95,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.3.0
 ## Nearby in Memory and Personalization
 
 - Earlier: 2025-08-28 · Windsurf · [[Changes/Windsurf/2025-08-28-memory-improvements|Memory improvements]]
-- Later: 2025-09-15 · ChatGPT · [[Changes/ChatGPT/2025-09-15-personalization-no-longer-opens-in-a-separate-modal-you-can-manage-personalizati|Personalization settings are now in Settings]]
+- Later: 2025-09-11 · Claude · [[Changes/Claude/2025-09-11-claude-s-memory-on-team-plans-and-incognito-chats-for-free-pro-max-and-team-plan|Claude’s memory on Team plans and incognito chats for free, Pro, Max, and Team plans]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

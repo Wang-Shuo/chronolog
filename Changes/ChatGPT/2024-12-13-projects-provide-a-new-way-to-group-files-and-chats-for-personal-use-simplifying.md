@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 5b06fcba3c26cc2e52a136bf9a2d599d4f73a305a4cfc31f7fd9f9c91a7fc9a4
+machine_hash: 316931ac659df3ed11a1fa32b5596d6bee3376cb137e4c730674ca87c206dd95
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -65,10 +65,10 @@ record:
   title: Projects provide a new way to group files and chats for personal use, simplifying…
   type: change
 related_changes:
-- '[[Changes/Aider/2024-12-06-support-for-new-amazon-bedrock-nova-models|Support for
-  new Amazon Bedrock Nova models]]'
-- '[[Changes/Aider/2024-12-10-4-model-support-changes-in-v0-68-0|4 Model Support changes
-  in v0.68.0]]'
+- '[[Changes/Gemini/2024-12-11-introducing-gemini-2-0-flash-as-an-experimental-model-in-gemini|Introducing
+  Gemini 2.0 Flash as an experimental model in Gemini]]'
+- '[[Changes/Ollama/2024-12-11-exaone-3-5-https-ollama-com-library-exaone3-5-a-collection-of-instruction-tuned|EXAONE
+  3.5((source link) a collection…]]'
 - '[[Changes/Aider/2024-12-13-2-model-support-changes-in-v0-69-0|2 Model Support changes
   in v0.69.0]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2024-12-13-projects-in-chatgpt-01b98e1c|chatgpt-2024-12-13-projects-in-chatgpt-01b98e1c]]'
@@ -100,7 +100,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2024-12-13 · Aider · [[Changes/Aider/2024-12-13-2-model-support-changes-in-v0-69-0|2 Model Support changes in v0.69.0]]
-- Later: 2024-12-26 · Aider · [[Changes/Aider/2024-12-26-3-model-support-changes-in-v0-70-0|3 Model Support changes in v0.70.0]]
+- Later: 2024-12-16 · Dify · [[Changes/Dify/2024-12-16-9-model-support-changes-in-0-14-0|9 Model Support changes in 0.14.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

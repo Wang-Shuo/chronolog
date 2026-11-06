@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f53ef05cdcb005141ac5b52ef73e155d0ab7cc70f35cf92d126146a1893e7f55
+machine_hash: da6e2790cd7cf292632a67284696fdb837308c8d88f12e5101a6763833b2251b
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -56,10 +56,10 @@ record:
   title: 7 Apps and Integrations changes in v1.0.69
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-06-improved-mcp-error-messages-clearer-error-when-a-server-config-has-url-but-no-ty|Improved
-  MCP error messages]]'
 - '[[Changes/OpenHands/2026-07-06-7-apps-and-integrations-changes-in-1-9-0|7 Apps
   and Integrations changes in 1.9.0]]'
+- '[[Changes/Claude/2026-07-07-write-tools-for-the-microsoft-365-connector|Write tools
+  for the Microsoft 365 connector]]'
 - '[[Changes/Claude Code/2026-07-07-2-apps-and-integrations-changes-in-v2-1-203|2
   Apps and Integrations changes in v2.1.203]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-07-07-v1-0-69-github-350582031-19558357|github-copilot-cli-2026-07-07-v1-0-69-github-350582031-19558357]]'
@@ -117,7 +117,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.69
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-07-07 · Claude Code · [[Changes/Claude Code/2026-07-07-2-apps-and-integrations-changes-in-v2-1-203|2 Apps and Integrations changes in v2.1.203]]
-- Later: 2026-07-07 · OpenHands · [[Changes/OpenHands/2026-07-07-2-apps-and-integrations-changes-in-1-9-1|2 Apps and Integrations changes in 1.9.1]]
+- Later: 2026-07-07 · Lovable · [[Changes/Lovable/2026-07-07-app-connector-github-api|App connector: GitHub API]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

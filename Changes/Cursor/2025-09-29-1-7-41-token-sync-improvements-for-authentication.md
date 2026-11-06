@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: da405a57c38022be2e69288c5894f42fe14b0e672ce475505f9a48dbd0c77717
+machine_hash: e7fd3f8c6505c47e167373f43dafd8d04a25e70dd25e7e192694ad04d27571cb
 product: cursor
 product_name: Cursor
 record:
@@ -41,12 +41,12 @@ record:
   title: '1.7.41: Token sync improvements for authentication'
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-09-09-feat-oauth-create-hybrid-storage-class-by-shishu314-in-https-github-com-google-g|feat(oauth)
-  - Create hybrid storage class]]'
-- '[[Changes/Codex CLI/2025-09-15-6-account-and-access-changes-in-rust-v0-36-0|6 Account
-  and Access changes in rust-v0.36.0]]'
-- '[[Changes/Gemini CLI/2025-09-17-refactor-authentication-components-and-hooks-by-scidomino-in-https-github-com-go|Refactor
-  Authentication Components and Hooks]]'
+- '[[Changes/Dify/2025-09-22-chore-remove-weird-account-login-by-zalcit-in-https-github-com-langgenius-dify-p|chore:
+  remove weird account login]]'
+- '[[Changes/Open WebUI/2025-09-25-2-account-and-access-changes-in-v0-6-31|2 Account
+  and Access changes in v0.6.31]]'
+- '[[Changes/Ollama/2025-09-26-ollama-push-will-now-provide-a-url-to-follow-to-sign-in|ollama
+  push will now provide a URL to follow to sign in]]'
 source_release: '[[Releases/Cursor/cursor-2025-09-29-1-7-https-cursor-com-changelog-1-7-0a03c0ae|cursor-2025-09-29-1-7-https-cursor-com-changelog-1-7-0a03c0ae]]'
 source_type: cursor_changelog
 theme: account-access
@@ -93,7 +93,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2025-09-17 · Gemini CLI · [[Changes/Gemini CLI/2025-09-17-refactor-authentication-components-and-hooks-by-scidomino-in-https-github-com-go|Refactor Authentication Components and Hooks]]
+- Earlier: 2025-09-26 · Ollama · [[Changes/Ollama/2025-09-26-ollama-push-will-now-provide-a-url-to-follow-to-sign-in|ollama push will now provide a URL to follow to sign in]]
 - Later: 2025-10-03 · Codex CLI · [[Changes/Codex CLI/2025-10-03-4568-fix-hang-on-second-oauth-login-attempt|♯4568 Fix hang on second oauth login attempt]]
 <!-- chronolog:end -->
 

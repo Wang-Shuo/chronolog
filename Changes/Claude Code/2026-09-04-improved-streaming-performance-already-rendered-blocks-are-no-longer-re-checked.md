@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 498f505b2eecb034e1babd7cc0ea16c17b81992fc70d5a50ed404e8f5dad2353
+machine_hash: c109491f0a8a66b90b9f0dbd2efd3980d5d1f632f02282ec27010ff437beec9e
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,10 +42,10 @@ record:
   title: Improved streaming performance
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-25-improved-bash-tool-latency-on-bash-shells-by-replaying-snapshot-functions-withou|Improved
-  Bash tool latency on bash shells by replaying snapshot functions without…]]'
-- '[[Changes/GitHub Copilot CLI/2026-08-27-resume-large-sessions-faster-by-showing-recent-history-first-while-older-message|Resume
-  large sessions faster by showing recent history first while older messages load]]'
+- "[[Changes/Open WebUI/2026-08-31-large-tool-calls-stream-faster-through-anthropic-compatible-clients-when-a-strea|\U0001F9E0
+  Large tool calls stream faster through Anthropic-compatible…]]"
+- "[[Changes/Open WebUI/2026-08-31-general-improvements-various-improvements-were-implemented-across-the-applicatio|\U0001F504
+  General improvements. Various improvements were implemented across…]]"
 - '[[Changes/Claude Code/2026-09-01-improved-prompt-input-responsiveness-by-reducing-per-keystroke-rendering-work|Improved
   prompt input responsiveness by reducing per-keystroke rendering work]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-04-v2-1-261-github-382913543-2cb10519|claude-code-2026-09-04-v2-1-261-github-382913543-2cb10519]]'
@@ -86,7 +86,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-09-01 · Claude Code · [[Changes/Claude Code/2026-09-01-improved-prompt-input-responsiveness-by-reducing-per-keystroke-rendering-work|Improved prompt input responsiveness by reducing per-keystroke rendering work]]
-- Later: 2026-09-09 · Claude Code · [[Changes/Claude Code/2026-09-09-improved-prompt-input-responsiveness-keystrokes-no-longer-occasionally-wait-a-fr|Improved prompt input responsiveness]]
+- Later: 2026-09-05 · Ollama · [[Changes/Ollama/2026-09-05-this-release-also-improves-structured-output-performance-on-apple-silicon-adds-s|This release also improves structured output performance on Apple Silicon, adds…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

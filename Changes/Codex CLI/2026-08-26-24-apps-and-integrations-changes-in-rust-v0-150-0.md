@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c3068d9e3a370e44924946638230555700acc0ff52a36e35c8cf814b7ad81ee2
+machine_hash: 3c5f7f8153f7d04d0985f2dfc972137fe022739cf7cf2b913333e4c6c4d3e797
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -88,8 +88,8 @@ record:
   title: 24 Apps and Integrations changes in rust-v0.150.0
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-08-25-ssr-agent-issue-fix-21919-fix-typescript-strict-null-errors-in-integration-tests|SSR
-  Agent Issue Fix (21919): Fix TypeScript strict-null errors in integration tests]]'
+- '[[Changes/Open WebUI/2026-08-25-4-apps-and-integrations-changes-in-v0-11-1|4 Apps
+  and Integrations changes in v0.11.1]]'
 - '[[Changes/Claude Code/2026-08-26-2-apps-and-integrations-changes-in-v2-1-247|2
   Apps and Integrations changes in v2.1.247]]'
 - '[[Changes/Cline/2026-08-26-4-apps-and-integrations-changes-in-v4-1-16|4 Apps and
@@ -184,7 +184,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.150.0
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-08-26 · Cline · [[Changes/Cline/2026-08-26-4-apps-and-integrations-changes-in-v4-1-16|4 Apps and Integrations changes in v4.1.16]]
-- Later: 2026-08-27 · Claude Code · [[Changes/Claude Code/2026-08-27-improved-managed-settings-client-side-timeout-mcp-startup-mode-and-stream-watchd|Improved managed settings]]
+- Later: 2026-08-26 · Lovable · [[Changes/Lovable/2026-08-26-connect-github-api-by-signing-in-with-your-github-account|Connect GitHub API by signing in with your GitHub account]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

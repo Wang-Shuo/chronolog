@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: bf104f922c41756c84f8fbf9afba3068654bc857ef24a74712a5d9c33a9c1074
+machine_hash: e7182f17d6b57872a02fb9d476a3ca6e9d75a28334c732d9bbdc18016e13a23a
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -41,10 +41,9 @@ record:
   title: '#37828 Track running unified exec processes at turn completion @copyberry'
   type: change
 related_changes:
-- '[[Changes/Cline/2026-08-13-use-the-editor-s-foreground-color-for-diff-block-text-so-diffs-stay-legible-in-t|Use
-  the editor''s foreground color for diff block text, so diffs stay legible…]]'
 - '[[Changes/Cursor/2026-08-17-origin-repos|Origin Repos]]'
 - '[[Changes/Cursor/2026-08-17-pull-requests|Pull requests]]'
+- '[[Changes/ElevenLabs/2026-08-17-elevencreative|ElevenCreative]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-08-18-rust-v0-148-0-github-372686337-4265c0ae|codex-cli-2026-08-18-rust-v0-148-0-github-372686337-4265c0ae]]'
 source_type: github_releases
 theme: editor-experience
@@ -85,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-08-17 · Cursor · [[Changes/Cursor/2026-08-17-pull-requests|Pull requests]]
+- Earlier: 2026-08-17 · ElevenLabs · [[Changes/ElevenLabs/2026-08-17-elevencreative|ElevenCreative]]
 - Later: 2026-08-20 · Codex CLI · [[Changes/Codex CLI/2026-08-20-5-editor-experience-changes-in-rust-v0-149-0|5 Editor Experience changes in rust-v0.149.0]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c7109552c65daa197aa99b133f405375403e186bae5d0aa91a8d6581e1757343
+machine_hash: c925a4fa7730a49f182d3b096658d0528467b6fae93ac75c142433ec8342b322
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,12 +42,11 @@ record:
   title: 2 Agent Mode changes in rust-v0.151.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-08-27-8-agent-mode-changes-in-v1-0-81|8 Agent
-  Mode changes in v1.0.81]]'
-- '[[Changes/OpenHands/2026-08-27-4-agent-mode-changes-in-v1-16-0|4 Agent Mode changes
-  in v1.16.0]]'
 - '[[Changes/Claude Code/2026-08-28-4-agent-mode-changes-in-v2-1-251|4 Agent Mode
   changes in v2.1.251]]'
+- '[[Changes/Replit/2026-08-28-find-your-first-customers-with-growth-skills|Find your
+  first customers with Growth Skills]]'
+- '[[Changes/Replit/2026-08-28-agent|Agent]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-08-29-rust-v0-151-0-github-378941035-5571827d|codex-cli-2026-08-29-rust-v0-151-0-github-378941035-5571827d]]'
 source_type: github_releases
 theme: agent-mode
@@ -83,8 +82,8 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.151.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-08-28 · Claude Code · [[Changes/Claude Code/2026-08-28-4-agent-mode-changes-in-v2-1-251|4 Agent Mode changes in v2.1.251]]
-- Later: 2026-09-01 · Claude Code · [[Changes/Claude Code/2026-09-01-5-agent-mode-changes-in-v2-1-257|5 Agent Mode changes in v2.1.257]]
+- Earlier: 2026-08-28 · Replit · [[Changes/Replit/2026-08-28-agent|Agent]]
+- Later: 2026-08-31 · ElevenLabs · [[Changes/ElevenLabs/2026-08-31-elevenlabs-cli|ElevenLabs CLI]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

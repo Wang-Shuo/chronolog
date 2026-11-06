@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 1536c64bb7b588a13c9df420c8a8c1bab687f59222b44e5d06fba48380bac437
+machine_hash: ea19a027546e9ec01b846f745a3908410e0aaf4a32edb64fc66238e3061077a8
 product: cursor
 product_name: Cursor
 record:
@@ -55,12 +55,12 @@ record:
   title: Shared context
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-04-added-skill-doctor-to-show-which-loaded-skills-go-unused-and-what-they-cost-in-c|Added
-  /skill-doctor to show which loaded skills go unused and what they cost…]]'
 - '[[Changes/Claude Code/2026-09-09-improved-prompt-cache-stability-subagents-and-sessions-started-with-system-promp|Improved
   prompt-cache stability]]'
 - '[[Changes/Codex CLI/2026-09-09-17-context-window-changes-in-rust-v0-154-0|17 Context
   Window changes in rust-v0.154.0]]'
+- '[[Changes/Lovable/2026-09-09-readable-previews-for-csv-and-tsv-files|Readable previews
+  for CSV and TSV files]]'
 source_release: '[[Releases/Cursor/cursor-2026-09-10-cursor-projects-https-cursor-com-changelog-projects-105aab75|cursor-2026-09-10-cursor-projects-https-cursor-com-changelog-projects-105aab75]]'
 source_type: cursor_changelog
 theme: context-window
@@ -91,8 +91,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-09-09 · Codex CLI · [[Changes/Codex CLI/2026-09-09-17-context-window-changes-in-rust-v0-154-0|17 Context Window changes in rust-v0.154.0]]
-- Later: 2026-09-14 · Claude Code · [[Changes/Claude Code/2026-09-14-improved-the-spinner-status-during-long-thinking-it-now-reads-deep-in-thought-af|Improved the spinner status during long thinking]]
+- Earlier: 2026-09-09 · Lovable · [[Changes/Lovable/2026-09-09-readable-previews-for-csv-and-tsv-files|Readable previews for CSV and TSV files]]
+- Later: 2026-09-10 · Dify · [[Changes/Dify/2026-09-10-6-context-window-changes-in-1-17-1|6 Context Window changes in 1.17.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

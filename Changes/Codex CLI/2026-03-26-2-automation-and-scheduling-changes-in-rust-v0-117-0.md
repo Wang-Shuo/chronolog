@@ -4,20 +4,20 @@ date: '2026-03-26'
 description: 'Codex CLI · 2026-03-26 · Automation and Scheduling: 2 changes in 0.117.0
   — #15357 Fix: proactive auth refresh to reload guarded disk state first @celia-oai'
 diffusion:
-  first_in_tracked: '[[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better
-    syntax error loop detection]]'
+  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
+    data clean schedule]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 568
+  lag_days: 814
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6b3d6c5e5fd1062a780855f1121f4b92d183db460dabcf607fe91e83db1e4cab
+machine_hash: 6f8e5a907e0e5f10a818354b22d0083e65c768cfc5d75abfa7e05f7da9aabf17
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,8 +43,8 @@ record:
   title: 2 Automation and Scheduling changes in rust-v0.117.0
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-03-17-2-automation-and-scheduling-changes-in-v0-34-0|2
-  Automation and Scheduling changes in v0.34.0]]'
+- '[[Changes/Ollama/2026-03-17-scripts-automation-kick-off-automated-tasks-with-ollama-and-claude-code|Scripts/automation:
+  Kick off automated tasks with Ollama and claude code]]'
 - '[[Changes/Gemini CLI/2026-03-24-2-automation-and-scheduling-changes-in-v0-35-0|2
   Automation and Scheduling changes in v0.35.0]]'
 - '[[Changes/Claude Code/2026-03-26-added-timestamp-markers-in-transcripts-when-scheduled-tasks-loop-croncreate-fire|Added
@@ -105,7 +105,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.117.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-09-04 · OpenHands · [[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better syntax error loop detection]]
+- Earliest same-theme entry in the tracked set: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

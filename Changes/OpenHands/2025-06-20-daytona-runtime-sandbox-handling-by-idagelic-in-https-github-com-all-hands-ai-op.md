@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ab91e843a7b60637c9fc2d60281d34a540947b4954e3dac79aa7f423ab1ef997
+machine_hash: 9a6539afd0b03ea7ef9c3b885325f44884b7067a9406b1e8e248ddc2e52f670c
 product: openhands
 product_name: OpenHands
 record:
@@ -43,12 +43,12 @@ record:
   title: '**Daytona Runtime** sandbox handling'
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-04-23-enabled-custom-sandbox-for-resolver-by-tetsu-is-in-https-github-com-all-hands-ai|Enabled
-  custom sandbox for resolver]]'
-- '[[Changes/OpenHands/2025-05-12-simplified-workspace-mounting-with-sandbox-volumes-by-xingyaoww-in-https-github|Simplified
-  workspace mounting with SANDBOX_VOLUMES]]'
-- '[[Changes/Cursor/2025-06-04-team-admins-can-now-disable-privacy-mode|Team admins
-  can now disable Privacy Mode]]'
+- '[[Changes/Open WebUI/2025-06-10-4-safety-and-privacy-changes-in-v0-6-14|4 Safety
+  and Privacy changes in v0.6.14]]'
+- '[[Changes/Dify/2025-06-11-2-safety-and-privacy-changes-in-1-4-2|2 Safety and Privacy
+  changes in 1.4.2]]'
+- '[[Changes/Open WebUI/2025-06-16-2-safety-and-privacy-changes-in-v0-6-15|2 Safety
+  and Privacy changes in v0.6.15]]'
 source_release: '[[Releases/OpenHands/openhands-2025-06-20-0-45-0-github-226789367-b83ab16d|openhands-2025-06-20-0-45-0-github-226789367-b83ab16d]]'
 source_type: github_releases
 theme: safety-privacy
@@ -80,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2025-06-04 · Cursor · [[Changes/Cursor/2025-06-04-team-admins-can-now-disable-privacy-mode|Team admins can now disable Privacy Mode]]
+- Earlier: 2025-06-16 · Open WebUI · [[Changes/Open WebUI/2025-06-16-2-safety-and-privacy-changes-in-v0-6-15|2 Safety and Privacy changes in v0.6.15]]
 - Later: 2025-06-20 · OpenHands · [[Changes/OpenHands/2025-06-20-support-for-dev-container-networking-without-host-mode-by-llamantino-in-https-gi|Support for dev container networking without host mode by @llamantino…]]
 <!-- chronolog:end -->
 

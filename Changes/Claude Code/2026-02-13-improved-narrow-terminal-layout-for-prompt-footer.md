@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 36ea997ea8cb30d401e335c4771ecd4f5e47bfd661465b21a0e6e860c2357915
+machine_hash: 945ad1db372a759db4522ba93932a3b335efb705dd2e0f7f7f0e289946a65c81
 product: claude-code
 product_name: Claude Code
 record:
@@ -89,7 +89,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-02-13 · ChatGPT · [[Changes/ChatGPT/2026-02-13-simplified-composer-the-message-composer-has-been-streamlined-to-reduce-visual-c|Simplified composer]]
-- Later: 2026-02-17 · Claude Code · [[Changes/Claude Code/2026-02-17-added-spinnertipsoverride-setting-to-customize-spinner-tips-configure-tips-with|Added spinnerTipsOverride setting to customize spinner tips]]
+- Later: 2026-02-14 · Open WebUI · [[Changes/Open WebUI/2026-02-14-2-interface-experience-changes-in-v0-8-1|2 Interface Experience changes in v0.8.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

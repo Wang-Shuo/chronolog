@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ee07bee49aa50ba5dbbbbfa52dede8e603f8bb0b815606600f975ebeb188531b
+machine_hash: 5ab3b266ad7677d2d51be78b1f54b8aa4bd1a56326421a8d9aec2eb39c8ae1e4
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -47,10 +47,10 @@ record:
   title: 3 Context Window changes in rust-v0.65.0
   type: change
 related_changes:
-- '[[Changes/Cline/2025-12-02-2-context-window-changes-in-v3-39-0|2 Context Window
-  changes in v3.39.0]]'
 - '[[Changes/Codex CLI/2025-12-02-5-context-window-changes-in-rust-v0-64-0|5 Context
   Window changes in rust-v0.64.0]]'
+- "[[Changes/Open WebUI/2025-12-02-tool-call-response-token-duplication-was-fixed-by-removing-redundant-message-his|\U0001F504
+  Tool call response token duplication was fixed by removing redundant message…]]"
 - '[[Changes/Cline/2025-12-04-2-context-window-changes-in-v3-40-0|2 Context Window
   changes in v3.40.0]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-12-04-rust-v0-65-0-github-267537191-959c7b4d|codex-cli-2025-12-04-rust-v0-65-0-github-267537191-959c7b4d]]'

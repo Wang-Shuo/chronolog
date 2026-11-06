@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1e35abf8afc1384078bbb1fdf641c4066893fcbfd6b3d925e34f7087630707dc
+machine_hash: cb3498d071c0d93e601f69197ad5329666973dd6504eb4bbc3c7193a61037cd5
 product: cursor
 product_name: Cursor
 record:
@@ -42,11 +42,12 @@ record:
   title: The cursor-nightly command now works on Mac
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-07-28-ai-linter|AI linter]]'
-- '[[Changes/Cursor/2023-08-01-improved-linter-please-give-us-feedback-on-the-linter-suggestions-using-the-smil|Improved
-  linter]]'
 - '[[Changes/Cursor/2023-08-03-also-the-linter-is-slightly-improved|In-editor chat
   is back!]]'
+- '[[Changes/Ollama/2023-08-10-ollama-pull-can-now-be-run-in-different-terminal-windows-for-the-same-model-conc|ollama
+  pull can now be run in different terminal windows for the same model concurrently]]'
+- '[[Changes/Dify/2023-08-14-refactor-added-project-name-to-docker-compose-command-by-shunyue1320-in-https-gi|refactor:
+  Added project name to Docker Compose command]]'
 source_release: '[[Releases/Cursor/cursor-2023-08-17-0-7-14-nightly-https-cursor-com-changelog-0-7-14-nightly-b6b0c549|cursor-2023-08-17-0-7-14-nightly-https-cursor-com-changelog-0-7-14-nightly-b6b0c549]]'
 source_type: cursor_changelog
 theme: developer-workflow
@@ -75,7 +76,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2023-08-03 · Cursor · [[Changes/Cursor/2023-08-03-also-the-linter-is-slightly-improved|In-editor chat is back!]]
+- Earlier: 2023-08-14 · Dify · [[Changes/Dify/2023-08-14-refactor-added-project-name-to-docker-compose-command-by-shunyue1320-in-https-gi|refactor: Added project name to Docker Compose command]]
 - Later: 2023-08-22 · Aider · [[Changes/Aider/2023-08-22-improved-foo-no-foo-switch-handling-for-command-line-and-yml-config-settings|Improved --foo/--no-foo switch handling for command line and yml config settings]]
 <!-- chronolog:end -->
 

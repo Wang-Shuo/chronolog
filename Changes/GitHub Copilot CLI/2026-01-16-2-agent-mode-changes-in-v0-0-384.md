@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f5b134a03e4c415578e16216c38d880dc6a8f98568abc7118c458079289d4a8a
+machine_hash: dd707748032e43dc97a23645281e501a95a067a1638af08fd71386f9406a59c6
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -87,7 +87,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v0.0.384
 ## Nearby in Agent Mode
 
 - Earlier: 2026-01-16 · Cursor · [[Changes/Cursor/2026-01-16-added-hooks-for-session-start-end-prompt-and-stop-for-customizing-agent-lifecycl|Added hooks for session start/end, prompt, and stop for customizing agent lifecycle events]]
-- Later: 2026-01-19 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-19-mcp-server-management-when-swapping-between-custom-agents-with-agent|MCP server management when swapping between custom agents with /agent]]
+- Later: 2026-01-16 · Lovable · [[Changes/Lovable/2026-01-16-smarter-agent-capabilities|Smarter agent capabilities]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

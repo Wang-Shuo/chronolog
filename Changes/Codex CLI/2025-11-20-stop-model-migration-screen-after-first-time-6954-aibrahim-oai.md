@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 755f1b703d1f5891ff76002b6f3eaca6047920a8fca468e81b58c69a49a897d2
+machine_hash: 7030ac5c0709ccc6d891a84b5e0ed1287a8a8043bc7f5066da28c467d77bcd00
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,12 +43,12 @@ record:
   title: stop model migration screen after first time
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-11-19-today-we-re-updating-gpt-5-pro-to-gpt-5-1-pro-in-early-testing-users-consistentl-191826|GPT-5.1
-  Pro: Clearer, more capable answers for complex work]]'
 - '[[Changes/Codex CLI/2025-11-19-default-model-for-api-users-is-now-gpt-5-1-codex|Default
   model for API users is now gpt-5.1-codex]]'
 - '[[Changes/Codex CLI/2025-11-19-5-model-support-changes-in-rust-v0-59-0|5 Model
   Support changes in rust-v0.59.0]]'
+- '[[Changes/Ollama/2025-11-19-cogito-v2-1-https-ollama-com-library-cogito-2-1-instruction-tuned-generative-mod|Cogito-V2.1((source
+  link) instruction tuned generative…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-11-20-rust-v0-61-0-github-264047822-0c996f88|codex-cli-2025-11-20-rust-v0-61-0-github-264047822-0c996f88]]'
 source_type: github_releases
 theme: model-support
@@ -80,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-11-19 · Codex CLI · [[Changes/Codex CLI/2025-11-19-5-model-support-changes-in-rust-v0-59-0|5 Model Support changes in rust-v0.59.0]]
+- Earlier: 2025-11-19 · Ollama · [[Changes/Ollama/2025-11-19-cogito-v2-1-https-ollama-com-library-cogito-2-1-instruction-tuned-generative-mod|Cogito-V2.1((source link) instruction tuned generative…]]
 - Later: 2025-11-20 · Gemini CLI · [[Changes/Gemini CLI/2025-11-20-3-model-support-changes-in-v0-17-0|3 Model Support changes in v0.17.0]]
 <!-- chronolog:end -->
 

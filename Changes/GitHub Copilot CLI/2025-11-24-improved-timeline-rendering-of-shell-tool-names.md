@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: abe59f71445f10fd76f0b6e0909004fc09d499e5dc9bd287923f8e985b0abf0b
+machine_hash: babc6c636aa8261202b1dca5c916fed5ef4fbff1ffb7d241d24f7dbfc4aa7091
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2025-11-21 · Cursor · [[Changes/Cursor/2025-11-21-set-origin-allowlist-from-dashboard-to-restrict-browser-tools-browser-tools-and|Set origin allowlist from dashboard to restrict browser tools]]
-- Later: 2025-11-26 · Gemini CLI · [[Changes/Gemini CLI/2025-11-26-protect-stdout-and-stderr-so-javascript-code-can-t-accidentally-write-to-stdout|Protect stdout and stderr so JavaScript code can't accidentally write to stdout…]]
+- Later: 2025-11-24 · Open WebUI · [[Changes/Open WebUI/2025-11-24-5-interface-experience-changes-in-v0-6-37|5 Interface Experience changes in v0.6.37]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

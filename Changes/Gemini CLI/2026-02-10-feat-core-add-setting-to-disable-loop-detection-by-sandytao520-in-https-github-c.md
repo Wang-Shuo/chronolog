@@ -4,20 +4,20 @@ date: '2026-02-10'
 description: 'Gemini CLI · 2026-02-10 · Automation and Scheduling: feat(core): add
   setting to disable loop detection by @SandyTao520 in…'
 diffusion:
-  first_in_tracked: '[[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better
-    syntax error loop detection]]'
+  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
+    data clean schedule]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 524
+  lag_days: 770
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b565604c15a137e1ccb780f32133e9705e94c77cf4c9f86e0b9e9855e78129c9
+machine_hash: 343fc4e3d5adceeae9b4d805fc27854290229e60ebb61c69f321967cef804f7b
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -43,8 +43,8 @@ record:
   title: 'feat(core): add setting to disable loop detection'
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-01-21-2-automation-and-scheduling-changes-in-v0-25-0|2
-  Automation and Scheduling changes in v0.25.0]]'
+- '[[Changes/Replit/2026-01-23-web-search-in-agent-automations|Web search in Agent
+  automations]]'
 - '[[Changes/Gemini CLI/2026-01-28-12-automation-and-scheduling-changes-in-v0-26-0|12
   Automation and Scheduling changes in v0.26.0]]'
 - '[[Changes/Gemini CLI/2026-02-04-3-automation-and-scheduling-changes-in-v0-27-0|3
@@ -88,13 +88,13 @@ type: change
 ## Nearby in Automation and Scheduling
 
 - Earlier: 2026-02-04 · Gemini CLI · [[Changes/Gemini CLI/2026-02-04-3-automation-and-scheduling-changes-in-v0-27-0|3 Automation and Scheduling changes in v0.27.0]]
-- Later: 2026-02-27 · Gemini CLI · [[Changes/Gemini CLI/2026-02-27-migrate-core-render-util-to-use-xterm-js-as-part-of-the-rendering-loop-by-jacob3|Migrate core render util to use xterm.js as part of the rendering loop]]
+- Later: 2026-02-12 · Open WebUI · [[Changes/Open WebUI/2026-02-12-async-pipeline-operations-pipeline-operations-now-run-asynchronously-instead-of|🔧 Async pipeline operations. Pipeline operations now run asynchronously instead…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-09-04 · OpenHands · [[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better syntax error loop detection]]
+- Earliest same-theme entry in the tracked set: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

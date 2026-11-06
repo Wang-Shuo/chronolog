@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d55b7ac2f4d9bfc46ce1e19cc23a4be36d81646e5011de5226dd41fe4161659a
+machine_hash: 212a2c8e8fa9c229dfbdf1a3ceff4992d0c9f89fd09ccae4849e6930ad3c341e
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -87,8 +87,8 @@ record:
   title: 22 Model Support changes in rust-v0.145.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-17-3-model-support-changes-in-v2-1-212|3 Model Support
-  changes in v2.1.212]]'
+- '[[Changes/Dify/2026-07-17-12-model-support-changes-in-1-16-0|12 Model Support changes
+  in 1.16.0]]'
 - '[[Changes/Codex CLI/2026-07-18-3-model-support-changes-in-rust-v0-144-6|3 Model
   Support changes in rust-v0.144.6]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-20-preserve-pasted-prompt-content-when-changing-models-through-ctrl-x-model|Preserve
@@ -183,7 +183,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.145.0
 ## Nearby in Model Support
 
 - Earlier: 2026-07-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-20-preserve-pasted-prompt-content-when-changing-models-through-ctrl-x-model|Preserve pasted prompt content when changing models through Ctrl+X /model]]
-- Later: 2026-07-22 · Claude Code · [[Changes/Claude Code/2026-07-22-added-an-announcement-when-fast-mode-changes-as-a-result-of-switching-models-via|Added an announcement when fast mode changes as a result of switching models…]]
+- Later: 2026-07-21 · Gemini · [[Changes/Gemini/2026-07-21-3-6-flash-an-upgraded-model-for-your-daily-life|3.6 Flash: An upgraded model for your daily life]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

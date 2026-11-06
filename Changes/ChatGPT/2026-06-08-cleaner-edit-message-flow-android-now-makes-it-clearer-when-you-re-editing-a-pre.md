@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3e473c4cd73ef908a151a0341eb4dfd00de2879c27c8116acc656e3e05794808
+machine_hash: 38c07651fa0a5a781697d718b58e8ad57d4f2b9db12e3a66943d4642e8a20017
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -43,12 +43,12 @@ record:
   title: Cleaner edit-message flow
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-06-04-added-a-new-command-for-devin-desktop-to-rerun-the-migration-from-windsurf-this|Added
-  a new command for Devin Desktop to rerun the migration from Windsurf]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-05-2-mobile-and-desktop-changes-in-v1-0-60|2
   Mobile and Desktop changes in v1.0.60]]'
 - '[[Changes/Windsurf/2026-06-06-hardened-migration-from-windsurf-on-windows-to-preserve-shortcut-icon|Hardened
   migration from Windsurf on Windows to preserve shortcut icon]]'
+- '[[Changes/Ollama/2026-06-07-hermes-desktop-is-now-available-via-ollama-launch-hermes-desktop-with-native-win|Hermes
+  Desktop is now available via ollama launch hermes-desktop with native…]]'
 scope: Android
 source_release: '[[Releases/ChatGPT/chatgpt-2026-06-08-chatgpt-app-experience-updates-d15f55c5|chatgpt-2026-06-08-chatgpt-app-experience-updates-d15f55c5]]'
 source_type: chatgpt_changelog
@@ -86,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-06-06 · Windsurf · [[Changes/Windsurf/2026-06-06-hardened-migration-from-windsurf-on-windows-to-preserve-shortcut-icon|Hardened migration from Windsurf on Windows to preserve shortcut icon]]
+- Earlier: 2026-06-07 · Ollama · [[Changes/Ollama/2026-06-07-hermes-desktop-is-now-available-via-ollama-launch-hermes-desktop-with-native-win|Hermes Desktop is now available via ollama launch hermes-desktop with native…]]
 - Later: 2026-06-08 · Claude Code · [[Changes/Claude Code/2026-06-08-auto-updater-on-windows-now-stops-retrying-within-a-session-once-claude-exe-is-h|Auto-updater on Windows now stops retrying within a session once claude.exe…]]
 <!-- chronolog:end -->
 

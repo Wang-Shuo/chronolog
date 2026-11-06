@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2846ae76b03075fd0da6ccbe355d920d71fb2f589e1bb74da67874bf127b1110
+machine_hash: 8ded158a65f5d56f34d6baa5def350854668df448fc9b6b9549ec817db9a477c
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,12 @@ record:
   title: 2 Model Support changes in v2.1.142
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-05-12-5-model-support-changes-in-v0-42-0|5 Model Support
-  changes in v0.42.0]]'
-- '[[Changes/GitHub Copilot CLI/2026-05-12-display-a-warning-when-the-cli-version-is-deprecated-and-premium-model-access-ma|Display
-  a warning when the CLI version is deprecated and premium model access may be lost]]'
+- '[[Changes/Ollama/2026-05-12-mlx-refined-model-push-behavior-by-dhiltgen-in-https-github-com-ollama-ollama-pu|mlx:
+  refined model push behavior]]'
 - '[[Changes/Cline/2026-05-13-enable-openrouter-prompt-cache-control-for-qwen-models|Enable
   OpenRouter prompt cache control for Qwen models]]'
+- '[[Changes/Ollama/2026-05-13-nomic-embed-text-now-converts-inputs-to-lowercase-per-the-model-card-where-prior|nomic-embed-text
+  now converts inputs to lowercase per the model card where prior…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-14-v2-1-142-github-322792825-ffda4d4f|claude-code-2026-05-14-v2-1-142-github-322792825-ffda4d4f]]'
 source_type: github_releases
 theme: model-support
@@ -85,7 +85,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.142
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-05-13 · Cline · [[Changes/Cline/2026-05-13-enable-openrouter-prompt-cache-control-for-qwen-models|Enable OpenRouter prompt cache control for Qwen models]]
+- Earlier: 2026-05-13 · Ollama · [[Changes/Ollama/2026-05-13-nomic-embed-text-now-converts-inputs-to-lowercase-per-the-model-card-where-prior|nomic-embed-text now converts inputs to lowercase per the model card where prior…]]
 - Later: 2026-05-14 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-14-2-model-support-changes-in-v1-0-48|2 Model Support changes in v1.0.48]]
 <!-- chronolog:end -->
 

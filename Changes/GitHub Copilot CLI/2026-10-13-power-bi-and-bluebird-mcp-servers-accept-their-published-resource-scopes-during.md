@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ebfbee1f8d9e5104fdaf4758834341109ee720c8ca9d65c16e115f6d7ac9beca
+machine_hash: c79e14d004cc15bb6128fa7c5c26ce5162d60b3cce18bf28b2c396c9ec26fef7
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -53,8 +53,8 @@ record:
     during sign-in
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-10-09-use-native-microsoft-entra-broker-authentication-on-macos-when-available-with-br|Use
-  native Microsoft Entra broker authentication on macOS when available…]]'
+- '[[Changes/Open WebUI/2026-10-10-19-account-and-access-changes-in-v0-12-0|19 Account
+  and Access changes in v0.12.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-12-2-account-and-access-changes-in-v1-0-96|2
   Account and Access changes in v1.0.96]]'
 - '[[Changes/Cline/2026-10-13-2-account-and-access-changes-in-v4-1-24|2 Account and

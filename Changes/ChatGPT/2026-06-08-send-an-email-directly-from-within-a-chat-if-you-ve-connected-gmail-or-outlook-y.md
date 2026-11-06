@@ -5,20 +5,20 @@ description: 'ChatGPT · 2026-06-08 · Enterprise and Administration: Send an em
   directly from within a chat: If you’ve connected Gmail or Outlook, you can now ask
   ChatGPT…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin
-    improvements: Team admins can now mark themselves as unpaid users and can see…]]'
+  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
+    for Google Workspace accounts]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 810
+  lag_days: 1130
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a243f8b2b0411fde9fe6d54e21891451619696395610f99f7c283430bc754920
+machine_hash: 1f46b6eca84ed7441bf2054f4ec8a0a8e392534bbc8c3c1f91ed11ce92eb85bb
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -95,13 +95,13 @@ type: change
 ## Nearby in Enterprise and Administration
 
 - Earlier: 2026-06-04 · Codex CLI · [[Changes/Codex CLI/2026-06-04-2-enterprise-and-administration-changes-in-rust-v0-137-0|2 Enterprise and Administration changes in rust-v0.137.0]]
-- Later: 2026-06-18 · Codex CLI · [[Changes/Codex CLI/2026-06-18-tls-connections-now-support-p-521-certificate-signatures-commonly-used-by-enterp|TLS connections now support P-521 certificate signatures commonly used by enterprise…]]
+- Later: 2026-06-08 · ElevenLabs · [[Changes/ElevenLabs/2026-06-08-text-to-dialogue|Text to Dialogue]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-03-20 · Cursor · [[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin improvements: Team admins can now mark themselves as unpaid users and can see…]]
+- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

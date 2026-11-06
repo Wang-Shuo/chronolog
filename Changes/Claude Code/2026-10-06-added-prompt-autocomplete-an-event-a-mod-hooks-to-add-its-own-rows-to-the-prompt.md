@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3ee5a990b2848784a0b36bc96d8757bcff9b1f4705ddcfc4d7ae1951a4ae6feb
+machine_hash: 1560a857a182cabcc15e85a4b50f03faa256689f95e925c250636baad8cb09b7
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,12 +43,12 @@ record:
     the prompt…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-01-vscode-changed-the-claude-in-chrome-enabled-by-default-switch-to-also-connect-th|VSCode
-  Changed the Claude in Chrome "Enabled by default" switch to also connect…]]'
 - '[[Changes/Codex CLI/2026-10-01-49082-skip-remote-git-discovery-for-guardian-diff-paths-jif-oai|♯49082
   Skip remote Git discovery for Guardian diff paths @jif-oai]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-05-2-editor-experience-changes-in-v1-0-92|2
   Editor Experience changes in v1.0.92]]'
+- '[[Changes/Lovable/2026-10-05-restore-lovable-work-after-a-push-to-your-git-repository-replaces-it|Restore
+  Lovable work after a push to your Git repository replaces it]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-06-v2-1-292-github-404958910-b2fd21ab|claude-code-2026-10-06-v2-1-292-github-404958910-b2fd21ab]]'
 source_type: github_releases
 theme: editor-experience
@@ -86,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-10-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-05-2-editor-experience-changes-in-v1-0-92|2 Editor Experience changes in v1.0.92]]
+- Earlier: 2026-10-05 · Lovable · [[Changes/Lovable/2026-10-05-restore-lovable-work-after-a-push-to-your-git-repository-replaces-it|Restore Lovable work after a push to your Git repository replaces it]]
 - Later: 2026-10-06 · OpenHands · [[Changes/OpenHands/2026-10-06-feat-conversation-give-the-drawer-tab-strip-real-tab-semantics-by-errmakov-in-ht|feat(conversation): give the drawer tab strip real tab semantics]]
 <!-- chronolog:end -->
 

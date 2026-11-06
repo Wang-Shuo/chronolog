@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: bc09a039504c6df08c8572317fbfce493f92932495077148ceff26e7c6321d28
+machine_hash: 177490b1ca831886591c2ee4648610484b1fd313d6d14ce929ea5ae11acd384b
 product: claude-code
 product_name: Claude Code
 record:
@@ -50,10 +50,10 @@ record:
   title: 4 Interface Experience changes in v2.1.260
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-01-2-interface-experience-changes-in-v2-1-257|2 Interface
-  Experience changes in v2.1.257]]'
-- '[[Changes/Codex CLI/2026-09-01-3-interface-experience-changes-in-rust-v0-152-0|3
-  Interface Experience changes in rust-v0.152.0]]'
+- '[[Changes/Lovable/2026-09-01-empty-project-groups-no-longer-show-in-the-sidebar|Empty
+  project groups no longer show in the sidebar]]'
+- '[[Changes/v0/2026-09-01-if-you-prefer-the-typical-git-workflow-you-can-still-create-and-merge-pull-reque|If
+  you prefer the typical Git workflow, you can still create and merge pull requests…]]'
 - '[[Changes/Claude Code/2026-09-02-vscode-added-an-active-quick-filter-and-a-status-filter-menu-needs-input-working|VSCode
   Added an Active quick filter and a status filter menu…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-03-v2-1-260-github-382367470-ac2ba1fc|claude-code-2026-09-03-v2-1-260-github-382367470-ac2ba1fc]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3398946e82a4b14ab3fdca3abaf60a914e9b4b891a52a4fb4b6ecf78e55398d2
+machine_hash: 9f5aa135b7a3d5ee8fa71626722fa8ca473d4b33167f5a6f0eb8953d4d451ce0
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -41,10 +41,9 @@ record:
   title: Enabled GitHub MCP server in prompt mode
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-10-15-3-apps-and-integrations-changes-in-v0-9-0|3 Apps
-  and Integrations changes in v0.9.0]]'
-- '[[Changes/Cline/2025-10-16-9-apps-and-integrations-changes-in-v3-33-0|9 Apps and
-  Integrations changes in v3.33.0]]'
+- '[[Changes/Replit/2025-10-17-build-mode-redesign-for-react-apps|Build mode redesign
+  for React apps]]'
+- '[[Changes/Replit/2025-10-17-clickup-integration|ClickUp integration]]'
 - '[[Changes/Windsurf/2025-10-17-improved-diagnostics-for-third-party-extensions|Improved
   diagnostics for third party extensions]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2025-10-18-v0-0-344-github-255475797-67bfc644|github-copilot-cli-2025-10-18-v0-0-344-github-255475797-67bfc644]]'
@@ -78,7 +77,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2025-10-17 · Windsurf · [[Changes/Windsurf/2025-10-17-improved-diagnostics-for-third-party-extensions|Improved diagnostics for third party extensions]]
-- Later: 2025-10-22 · Gemini CLI · [[Changes/Gemini CLI/2025-10-22-7-apps-and-integrations-changes-in-v0-10-0|7 Apps and Integrations changes in v0.10.0]]
+- Later: 2025-10-20 · ElevenLabs · [[Changes/ElevenLabs/2025-10-20-sdk-releases|SDK Releases]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

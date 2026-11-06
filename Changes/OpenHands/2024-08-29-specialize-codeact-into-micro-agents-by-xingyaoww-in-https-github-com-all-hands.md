@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6663128b60f7992fe63884bb6f1dca0a01ffd97afe23a96ca674af3b5108713e
+machine_hash: 3f775c4c6cddc03d8b3fe1df74a351132cde9c89290101104fa9211a1a6c9ddd
 product: openhands
 product_name: OpenHands
 record:
@@ -41,8 +41,8 @@ record:
   title: Specialize CodeAct into micro agents
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-08-02-concurrent-composers-support-composer-control-panel-and-various-bug-fixes-such-a|Concurrent
-  composers support, composer control panel, and various bug fixes such…]]'
+- '[[Changes/Dify/2024-08-14-feat-agent-app-support-generate-prompt-by-iamjoel-in-https-github-com-langgenius|feat:
+  agent app support generate prompt]]'
 - '[[Changes/OpenHands/2024-08-23-4-agent-mode-changes-in-0-9-0|4 Agent Mode changes
   in 0.9.0]]'
 - '[[Changes/Aider/2024-08-27-improved-shell-command-prompting|Improved shell command
@@ -77,7 +77,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2024-08-27 · Aider · [[Changes/Aider/2024-08-27-improved-shell-command-prompting|Improved shell command prompting]]
-- Later: 2024-09-04 · OpenHands · [[Changes/OpenHands/2024-09-04-files-display-updated-content-after-agent-edit-by-amanape-in-https-github-com-al|Files display updated content after agent edit]]
+- Later: 2024-09-04 · Open WebUI · [[Changes/Open WebUI/2024-09-04-user-agent-in-comfyui-added-default-headers-in-comfyui-to-fix-access-issues-impr|🛠️ User Agent in ComfyUI]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

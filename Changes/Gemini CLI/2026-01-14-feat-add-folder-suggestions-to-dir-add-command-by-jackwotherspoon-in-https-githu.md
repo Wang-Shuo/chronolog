@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 26fd2718a8cc57d2148aa2b9d71ec7a52c4120f05df12a053fbc399ace45ba9e
+machine_hash: a93d8b276231226ed9f9c35ed86ba4dd0dd60f49af2cf2c8a311a68d5d1154e9
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-01-14 · Codex CLI · [[Changes/Codex CLI/2026-01-14-5-developer-workflow-changes-in-rust-v0-81-0|5 Developer Workflow changes in rust-v0.81.0]]
-- Later: 2026-01-16 · Claude Code · [[Changes/Claude Code/2026-01-16-added-session-url-attribution-to-commits-and-prs-created-from-web-sessions|Added session URL attribution to commits and PRs created from web sessions]]
+- Later: 2026-01-15 · Dify · [[Changes/Dify/2026-01-15-please-use-the-following-command-instead-for-details-please-read-this-https-gith| Please use the following command instead]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

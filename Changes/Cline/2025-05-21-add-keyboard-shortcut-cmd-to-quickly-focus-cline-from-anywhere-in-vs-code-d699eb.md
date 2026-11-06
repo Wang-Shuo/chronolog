@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6166aa36fba37b3a04b700dd6ce176c967638d7f950c9df577964c8b00340a71
+machine_hash: 1f891677ef584b4002df8871d0fa2e088c03b41c1f4ac56e38dc062d021058ed
 product: cline
 product_name: Cline
 record:
@@ -43,9 +43,10 @@ record:
     Code
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-05-15-duplicate-chats|Duplicate Chats]]'
 - '[[Changes/Cline/2025-05-18-update-ui-styling-for-auto-approve-menu-items-to-conserve-space|Update
   UI styling for auto-approve menu items to conserve space]]'
+- "[[Changes/Open WebUI/2025-05-19-customizable-pending-user-overlay-you-can-now-tailor-the-overlay-title-and-conte|\U0001F9D1\U0001F4BC
+  Customizable Pending User Overlay]]"
 - '[[Changes/Cline/2025-05-21-add-keyboard-shortcut-cmd-to-quickly-focus-cline-from-anywhere-in-vs-code|Add
   keyboard shortcut (Cmd+'') to quickly focus Cline from anywhere in VS Code]]'
 source_release: '[[Releases/Cline/cline-2025-05-21-v3-16-3-github-220188760-3dddbf0f|cline-2025-05-21-v3-16-3-github-220188760-3dddbf0f]]'

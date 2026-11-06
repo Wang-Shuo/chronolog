@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2b690b64f37c8aa00cef49c0e4781db4b0254120cd786465a360bd8ffc1b893a
+machine_hash: 76d44915e90290b0a386b56b6ce6b88c90d1a599e4bf38b8fd6e27b2322662d1
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -45,12 +45,12 @@ record:
   title: Release builds once again publish separate symbol archives with line tables…
   type: change
 related_changes:
-- '[[Changes/Cline/2026-06-07-add-a-debug-section-in-settings-for-cline-testers|Add
-  a debug section in settings for Cline testers]]'
 - '[[Changes/Claude Code/2026-06-08-background-sessions-are-now-told-that-shared-checkout-edits-are-blocked-until-th|Background
   sessions are now told that shared-checkout edits are blocked until they…]]'
 - '[[Changes/Codex CLI/2026-06-08-7-developer-workflow-changes-in-rust-v0-138-0|7
   Developer Workflow changes in rust-v0.138.0]]'
+- '[[Changes/v0/2026-06-08-pull-requests-opened-from-a-new-branch-chat-are-no-longer-titled-initialize-proj|Pull
+  requests opened from a new-branch chat are no longer titled…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-06-09-rust-v0-139-0-github-336847772-eda0ee6f|codex-cli-2026-06-09-rust-v0-139-0-github-336847772-eda0ee6f]]'
 source_type: github_releases
 theme: developer-workflow
@@ -88,7 +88,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-06-08 · Codex CLI · [[Changes/Codex CLI/2026-06-08-7-developer-workflow-changes-in-rust-v0-138-0|7 Developer Workflow changes in rust-v0.138.0]]
+- Earlier: 2026-06-08 · v0 · [[Changes/v0/2026-06-08-pull-requests-opened-from-a-new-branch-chat-are-no-longer-titled-initialize-proj|Pull requests opened from a new-branch chat are no longer titled…]]
 - Later: 2026-06-09 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-09-6-developer-workflow-changes-in-v1-0-61|6 Developer Workflow changes in v1.0.61]]
 <!-- chronolog:end -->
 

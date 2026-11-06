@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2a7f64d45f86b768eb062f3676c46d5f197bbc144a01965c3a7603d84e629669
+machine_hash: 9a5fc0702106ccf65fb084a107bd22a061ec4b3d7a5c8753c8c3b097cfec599e
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,12 +46,12 @@ record:
   title: 2 Interface Experience changes in v2.1.268
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-09-08-edit-and-comment-on-mobile-open-a-generated-image-full-screen-to-edit-it-or-add|Edit
-  and comment]]'
 - '[[Changes/Claude Code/2026-09-09-improved-the-diff-panel-it-no-longer-flashes-0-files-changed-and-a-spinner-befor|Improved
   the /diff panel]]'
 - '[[Changes/Codex CLI/2026-09-09-4-interface-experience-changes-in-rust-v0-154-0|4
   Interface Experience changes in rust-v0.154.0]]'
+- '[[Changes/Lovable/2026-09-09-redesigned-chat-actions-menu-in-projects|Redesigned
+  Chat actions menu in projects]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-10-v2-1-268-github-386532237-baa1a848|claude-code-2026-09-10-v2-1-268-github-386532237-baa1a848]]'
 source_type: github_releases
 theme: interface-experience
@@ -95,8 +95,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.268
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-09-09 · Codex CLI · [[Changes/Codex CLI/2026-09-09-4-interface-experience-changes-in-rust-v0-154-0|4 Interface Experience changes in rust-v0.154.0]]
-- Later: 2026-09-11 · Claude Code · [[Changes/Claude Code/2026-09-11-3-interface-experience-changes-in-v2-1-269|3 Interface Experience changes in v2.1.269]]
+- Earlier: 2026-09-09 · Lovable · [[Changes/Lovable/2026-09-09-redesigned-chat-actions-menu-in-projects|Redesigned Chat actions menu in projects]]
+- Later: 2026-09-10 · Dify · [[Changes/Dify/2026-09-10-8-interface-experience-changes-in-1-17-1|8 Interface Experience changes in 1.17.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

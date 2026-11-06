@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 71fcbc072d3b8f06a6d24cde82472db8cddbd97d0a238ad27918794beceaf2fb
+machine_hash: 2732197167b2139bf2a1059a7b1b782ac7b882d9971d94577869b643c687e295
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,8 +44,8 @@ record:
   title: 2 Collaboration changes in rust-v0.98.0
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-01-30-admins-can-now-set-a-default-model-that-applies-to-all-team-members-when-they-fi|Admins
-  can now set a default model that applies to all team members when they first…]]'
+- '[[Changes/Ollama/2026-02-03-qwen3-coder-next-https-ollama-com-library-qwen3-coder-next-a-coding-focused-lang|Qwen3-Coder-Next((source
+  link) a coding-focused…]]'
 - '[[Changes/Codex CLI/2026-02-04-10404-cleanup-collaboration-mode-variants-charley-oai|♯10404
   Cleanup collaboration mode variants @charley-oai]]'
 - '[[Changes/Claude Code/2026-02-05-added-research-preview-agent-teams-feature-for-multi-agent-collaboration-token-i|Added
@@ -89,7 +89,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.98.0
 ## Nearby in Collaboration
 
 - Earlier: 2026-02-05 · Claude Code · [[Changes/Claude Code/2026-02-05-added-research-preview-agent-teams-feature-for-multi-agent-collaboration-token-i|Added research preview agent teams feature for multi-agent collaboration…]]
-- Later: 2026-02-11 · Codex CLI · [[Changes/Codex CLI/2026-02-11-11294-chore-put-crypto-provider-logic-in-a-shared-crate-bolinfest|♯11294 chore: put crypto provider logic in a shared crate @bolinfest]]
+- Later: 2026-02-06 · Replit · [[Changes/Replit/2026-02-06-for-teams|For Teams]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

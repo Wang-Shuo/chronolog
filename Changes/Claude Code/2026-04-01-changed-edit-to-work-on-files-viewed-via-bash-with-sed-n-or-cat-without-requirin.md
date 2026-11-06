@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: aa578d05625716afa52e84eba5297104a39c8685034613436a181eee1c392a32
+machine_hash: b2957681c6d0b105a3e939d9de7fa7c8582a23e1cc63a7453af101d92367ddf4
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,10 +46,10 @@ record:
     without…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-26-diff-view-correctly-renders-all-lines-when-intra-line-highlighting-is-present|/diff
-  view correctly renders all lines when intra-line highlighting is present]]'
 - '[[Changes/Claude Code/2026-03-27-added-jj-and-sl-to-vcs-directory-exclusion-lists-so-grep-and-file-autocomplete-d|Added
   .jj and .sl to VCS directory exclusion lists so Grep and file autocomplete…]]'
+- '[[Changes/Dify/2026-03-27-2-editor-experience-changes-in-1-13-3|2 Editor Experience
+  changes in 1.13.3]]'
 - '[[Changes/Codex CLI/2026-03-31-16021-fix-copy-regression-in-tui-app-server-turn-completion-etraut-openai|♯16021
   Fix /copy regression in tui_app_server turn completion @etraut-openai]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-01-v2-1-89-github-303967782-358023f0|claude-code-2026-04-01-v2-1-89-github-303967782-358023f0]]'

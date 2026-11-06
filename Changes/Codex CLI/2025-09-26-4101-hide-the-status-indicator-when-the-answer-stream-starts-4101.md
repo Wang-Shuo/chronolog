@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 673b0e8d423a2050d9355e207eeef898a8fbfad1efc6b752543b0349cb85f849
+machine_hash: 71b6ebd670815a9ed3c414b69b81d7358495404b6af84b607e792017f3c7cca3
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,12 +43,12 @@ record:
   title: '[#4101] hide the status indicator when the answer stream starts (#4101)'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-09-16-formatting-answers-are-better-formatted-for-quick-understanding-without-losing-d|Formatting:
-  Answers are better formatted for quick understanding without losing…]]'
-- '[[Changes/Windsurf/2025-09-16-made-improvements-to-the-sign-up-onboarding-flow|Made
-  improvements to the sign up onboarding flow]]'
+- '[[Changes/Dify/2025-09-22-feat-add-circular-scrolling-to-gotoanything-command-menu-by-lyzno1-in-https-gith|feat:
+  add circular scrolling to GotoAnything command menu]]'
 - '[[Changes/Cline/2025-09-25-2-interface-experience-changes-in-v3-31-0|2 Interface
   Experience changes in v3.31.0]]'
+- '[[Changes/Open WebUI/2025-09-25-4-interface-experience-changes-in-v0-6-31|4 Interface
+  Experience changes in v0.6.31]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-09-26-rust-v0-42-0-github-250387883-27046aff|codex-cli-2025-09-26-rust-v0-42-0-github-250387883-27046aff]]'
 source_type: github_releases
 theme: interface-experience
@@ -82,7 +82,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2025-09-25 · Cline · [[Changes/Cline/2025-09-25-2-interface-experience-changes-in-v3-31-0|2 Interface Experience changes in v3.31.0]]
+- Earlier: 2025-09-25 · Open WebUI · [[Changes/Open WebUI/2025-09-25-4-interface-experience-changes-in-v0-6-31|4 Interface Experience changes in v0.6.31]]
 - Later: 2025-09-28 · Cline · [[Changes/Cline/2025-09-28-only-show-the-info-banner-messages-about-the-right-sidebar-in-vscode-by-sjf-in-h|Only show the info banner messages about the right sidebar in VSCode]]
 <!-- chronolog:end -->
 

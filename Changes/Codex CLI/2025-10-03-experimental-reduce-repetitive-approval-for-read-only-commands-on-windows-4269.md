@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2f09fdf6760629f6d55bdfb4d49458d459d2069676849040c9c18913b613600d
+machine_hash: 0204ebeeddd481f894e174f961591de9f4bf27bfe264f509c0b175a3b4555d33
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -45,10 +45,10 @@ record:
     (#4269)
   type: change
 related_changes:
-- '[[Changes/Cline/2025-09-11-deep-planning-improvements-optimized-prompts-for-windows-powershell-environments|Deep
-  Planning Improvements]]'
 - '[[Changes/ChatGPT/2025-09-17-the-thinking-time-toggle-is-live-today-on-chatgpt-com-settings-you-choose-on-the|The
   thinking-time toggle is live today on chatgpt.com]]'
+- '[[Changes/Claude/2025-09-29-creating-and-editing-files-with-claude-for-pro-plans-and-mobile|Creating
+  and editing files with Claude for Pro plans and mobile]]'
 - '[[Changes/Cline/2025-10-01-2-mobile-and-desktop-changes-in-v3-32-6|2 Mobile and
   Desktop changes in v3.32.6]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-10-03-rust-v0-44-0-github-252055554-66c49f37|codex-cli-2025-10-03-rust-v0-44-0-github-252055554-66c49f37]]'
@@ -91,7 +91,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2025-10-01 · Cline · [[Changes/Cline/2025-10-01-2-mobile-and-desktop-changes-in-v3-32-6|2 Mobile and Desktop changes in v3.32.6]]
-- Later: 2025-10-07 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-10-07-improved-file-write-performances-especially-on-windows-by-not-relying-on-the-she|Improved file write performances (especially on Windows) by not relying on the shell…]]
+- Later: 2025-10-03 · Ollama · [[Changes/Ollama/2025-10-03-macos-12-monterey-and-macos-13-ventura-are-no-longer-supported|macOS 12 Monterey and macOS 13 Ventura are no longer supported]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

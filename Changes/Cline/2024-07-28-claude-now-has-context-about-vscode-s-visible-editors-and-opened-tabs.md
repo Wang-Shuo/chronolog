@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 887556b727732d770cb2741d37e8695983acc183f0fbf98a74d5ce1b871d1671
+machine_hash: 988f48619c24dbe8a3661ef07a2c34bee0da8f4166a3ba1e56f214f6ad0fbebc
 product: cline
 product_name: Cline
 record:
@@ -41,8 +41,8 @@ record:
   title: Claude now has context about vscode's visible editors and opened tabs
   type: change
 related_changes:
-- '[[Changes/Aider/2024-06-24-improved-error-info-for-token-limit-errors|Improved
-  error info for token limit errors]]'
+- '[[Changes/Ollama/2024-07-25-mistral-large-2-https-ollama-com-library-mistral-large-mistral-s-new-123b-flagsh|Mistral
+  Large 2((source link)]]'
 - '[[Changes/OpenHands/2024-07-27-fix-colima-use-a-docker-context-specific-to-runner-prevent-duplicate-start-by-to|(fix)
   colima: use a docker context specific to runner; prevent duplicate start]]'
 - '[[Changes/Cline/2024-07-28-updated-max-output-tokens-to-8192-so-less-lazy-coding-rest-of-code-here|Updated

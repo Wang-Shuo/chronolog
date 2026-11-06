@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 8159cba4c5ababc2829b389d7704209b5c8aaa5ff6a233e0ae0e6de3ebde73df
+machine_hash: fe4e7140599f0c33628a2321d73659742da47456e5158bdd774bde6ddb7024c1
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -48,10 +48,10 @@ record:
     hook…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-02-12-11412-tui-show-non-file-layer-content-in-debug-config-bolinfest|♯11412
-  tui: show non-file layer content in /debug-config @bolinfest]]'
-- '[[Changes/GitHub Copilot CLI/2026-02-12-change-run-command-shortcut-from-ctrl-p-to-ctrl-s|Change
-  run command shortcut from ctrl+p to ctrl+s]]'
+- '[[Changes/Open WebUI/2026-02-14-2-developer-workflow-changes-in-v0-8-1|2 Developer
+  Workflow changes in v0.8.1]]'
+- '[[Changes/Open WebUI/2026-02-16-4-developer-workflow-changes-in-v0-8-2|4 Developer
+  Workflow changes in v0.8.2]]'
 - '[[Changes/Codex CLI/2026-02-17-3-developer-workflow-changes-in-rust-v0-102-0|3
   Developer Workflow changes in rust-v0.102.0]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-02-17-rust-v0-103-0-github-287457049-69ff7e22|codex-cli-2026-02-17-rust-v0-103-0-github-287457049-69ff7e22]]'

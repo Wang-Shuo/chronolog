@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ba0a0438ecc20bc661181a6cb1735f58d4818cc43a40ef225052a2310470bc4d
+machine_hash: 6c1a683b6dd3c06137049d05a74c145a28da0db0faf6987deddf621811d825fd
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -45,10 +45,9 @@ record:
   title: This is a limited preview with participating integrations
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-28-8-apps-and-integrations-changes-in-v2-1-284|8
-  Apps and Integrations changes in v2.1.284]]'
 - '[[Changes/Codex CLI/2026-09-28-13-apps-and-integrations-changes-in-rust-v0-158-0|13
   Apps and Integrations changes in rust-v0.158.0]]'
+- '[[Changes/ElevenLabs/2026-09-28-sdk-releases|SDK releases]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-28-4-apps-and-integrations-changes-in-v1-0-89|4
   Apps and Integrations changes in v1.0.89]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-29-use-your-chatgpt-allowance-in-participating-apps-aecfcdb3|chatgpt-2026-09-29-use-your-chatgpt-allowance-in-participating-apps-aecfcdb3]]'

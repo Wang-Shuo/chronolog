@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a34745b47e7c36c5281534b8b8e5adfd1329f0260670c78c33137186c7880ffc
+machine_hash: 6eefead1af1ff152b9314ae8d103dd1ae82aa21c01a18f1e55c38e8f630e27ea
 product: cline
 product_name: Cline
 record:
@@ -42,8 +42,8 @@ record:
   title: Update ChatView footer background to use sidebar theme
   type: change
 related_changes:
-- '[[Changes/Cline/2025-07-31-feat-adds-navigation-bar-component-and-restructure-app-layout-by-abeatrix-in-htt|feat:
-  adds navigation bar component and restructure app layout]]'
+- '[[Changes/Replit/2025-08-01-theme-toggle-in-avatar-dropdown|Theme toggle in avatar
+  dropdown]]'
 - '[[Changes/Codex CLI/2025-08-02-big-news-this-release-introduces-a-new-ux-where-codex-is-no-longer-fullscreen-ma|Big
   News!!! This release introduces a new UX where Codex is no longer fullscreen…]]'
 - '[[Changes/Gemini CLI/2025-08-02-2-interface-experience-changes-in-v0-1-16|2 Interface

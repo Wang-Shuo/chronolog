@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6ef842f8fe66f01c96fb6c9f376eedf36d2ba8ee0589ee19c7372ebb9a071376
+machine_hash: 476a77d4d0144323a14143e1798b8fa8f4960bb7fe97822ee329310774fd8f3b
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,8 +44,7 @@ record:
   title: 3 Model Support changes in v1.0.61
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-08-6-model-support-changes-in-rust-v0-138-0|6 Model
-  Support changes in rust-v0.138.0]]'
+- '[[Changes/Claude/2026-06-09-claude-fable-5-launch|Claude Fable 5 launch]]'
 - '[[Changes/Claude Code/2026-06-09-introducing-claude-fable-5-a-mythos-class-model-that-we-ve-made-safe-for-general|Introducing
   Claude Fable 5: a Mythos-class model that we’ve made safe for general use]]'
 - '[[Changes/Cline/2026-06-09-2-model-support-changes-in-v3-89-0|2 Model Support changes

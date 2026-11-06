@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 13c485a8c5647ffd589a5b6449d8b273af5c43c4b0cb0a0898be0f8378753125
+machine_hash: 4810e048dd32a453968d4e5e3961e57546031a6cbb6ea7ab7eeb274d7365fc8f
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -85,7 +85,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v0.0.404
 ## Nearby in Agent Mode
 
 - Earlier: 2026-02-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-05-support-comma-separated-tools-in-custom-agent-frontmatter|Support comma-separated tools in custom agent frontmatter]]
-- Later: 2026-02-06 · Claude Code · [[Changes/Claude Code/2026-02-06-2-agent-mode-changes-in-v2-1-33|2 Agent Mode changes in v2.1.33]]
+- Later: 2026-02-05 · Lovable · [[Changes/Lovable/2026-02-05-extended-processing-time-per-request-for-the-lovable-agent-up-to-15-minutes-supp|Extended processing time per request for the Lovable agent, up to 15 minutes…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

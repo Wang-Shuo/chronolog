@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e0a4763a374a3fb27dc2524c7b5b156ea287ab502cdc404af1a338f85c6489b7
+machine_hash: 3e8cd9dbf973c9bf671c94afe6883f60df70fc53ef2f299f55e0c98366648c3e
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,10 +43,10 @@ record:
     links…
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-03-11-feat-admin-enable-30-day-default-retention-for-chat-history-remove-warning-by-sk|feat(admin):
-  enable 30 day default retention for chat history & remove warning]]'
-- '[[Changes/GitHub Copilot CLI/2026-03-11-2-interface-experience-changes-in-v1-0-4|2
-  Interface Experience changes in v1.0.4]]'
+- '[[Changes/v0/2026-03-11-added-tooltip-to-disabled-new-chat-button-for-view-only-access|Added
+  tooltip to disabled New Chat button for view-only access]]'
+- '[[Changes/Ollama/2026-03-14-or-using-openclaw-s-onboarding|Or using OpenClaw’s
+  onboarding]]'
 - '[[Changes/Codex CLI/2026-03-16-14410-make-collab-model-metadata-accurate-on-completion-aibrahim-oai|♯14410
   Make collab model metadata accurate on completion @aibrahim-oai]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-03-16-v1-0-6-github-297705118-b80b4107|github-copilot-cli-2026-03-16-v1-0-6-github-297705118-b80b4107]]'
@@ -88,7 +88,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-03-16 · Codex CLI · [[Changes/Codex CLI/2026-03-16-14410-make-collab-model-metadata-accurate-on-completion-aibrahim-oai|♯14410 Make collab model metadata accurate on completion @aibrahim-oai]]
-- Later: 2026-03-17 · Claude Code · [[Changes/Claude Code/2026-03-17-copy-now-accepts-an-optional-index-copy-n-copies-the-nth-latest-assistant-respon|/copy now accepts an optional index: /copy N copies the Nth-latest assistant response]]
+- Later: 2026-03-16 · Lovable · [[Changes/Lovable/2026-03-16-improvements-and-bug-fixes|Improvements and bug fixes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

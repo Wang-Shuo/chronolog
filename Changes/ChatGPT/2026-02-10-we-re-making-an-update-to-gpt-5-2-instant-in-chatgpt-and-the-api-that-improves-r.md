@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: a9fbb243af5c4c12b711ae075130024cbeaf79113b7f5b8afd14fd74b30b7584
+machine_hash: 8ed84c6531b51879916a0b44cbacae7cef50f33e76e2a56932be34c7ab86ef7e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -53,11 +53,10 @@ record:
   title: GPT-5.2 Instant Update
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-02-05-claude-opus-4-6-fast-mode|Claude Opus 4.6 (fast mode)]]'
-- '[[Changes/Claude Code/2026-02-07-fast-mode-is-now-available-for-opus-4-6-learn-more-at-https-code-claude-com-docs|Fast
-  mode is now available for Opus 4.6]]'
-- '[[Changes/GitHub Copilot CLI/2026-02-07-add-support-for-claude-opus-4-6-fast-preview|Add
-  support for Claude Opus 4.6 Fast (Preview)]]'
+- '[[Changes/Ollama/2026-02-07-ollama-launch-will-now-download-missing-models-instead-of-erroring|ollama
+  launch will now download missing models instead of erroring]]'
+- '[[Changes/ElevenLabs/2026-02-09-javascript-sdk|JavaScript SDK]]'
+- '[[Changes/ElevenLabs/2026-02-09-python-sdk|Python SDK]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-02-10-gpt-5-2-instant-update-09d95a8b|chatgpt-2026-02-10-gpt-5-2-instant-update-09d95a8b]]'
 source_type: chatgpt_changelog
 theme: model-support
@@ -84,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-02-07 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-07-add-support-for-claude-opus-4-6-fast-preview|Add support for Claude Opus 4.6 Fast (Preview)]]
+- Earlier: 2026-02-09 · ElevenLabs · [[Changes/ElevenLabs/2026-02-09-python-sdk|Python SDK]]
 - Later: 2026-02-10 · Gemini CLI · [[Changes/Gemini CLI/2026-02-10-docs-document-gemini-cli-home-environment-variable-by-adamfweidman-in-https-gith|docs: document GEMINI_CLI_HOME environment variable]]
 <!-- chronolog:end -->
 

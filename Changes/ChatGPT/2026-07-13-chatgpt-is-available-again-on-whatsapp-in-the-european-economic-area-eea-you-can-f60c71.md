@@ -4,20 +4,20 @@ date: '2026-07-13'
 description: 'ChatGPT · 2026-07-13 · Voice and Audio: ChatGPT is available again on
   WhatsApp in the European Economic Area (EEA). You can get started without a ChatGPT…'
 diffusion:
-  first_in_tracked: '[[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source
-    link) support, which allows you…]]'
+  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
+    Voice and Audio changes in 0.3.7]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1067
+  lag_days: 1099
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0e99e632a3658c64765f3a14fcdac866a83ae0ff7e4df568e4eb93334ff5ade3
+machine_hash: 272ae98681d2ec05e007eb431a3eb38b6d7faf7b6a08b14d98afef1c26c1cfdf
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -63,10 +63,8 @@ record:
   title: ChatGPT returns to WhatsApp in the EEA
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-26-improved-voice-mode-on-linux-now-distinguishes-no-microphone-from-sox-not-instal|Improved
-  voice mode on Linux]]'
-- '[[Changes/GitHub Copilot CLI/2026-06-30-voice-mode-turns-itself-off-when-the-engine-fails-to-start-at-boot|Voice
-  mode turns itself off when the engine fails to start at boot]]'
+- '[[Changes/ElevenLabs/2026-07-06-music|Music]]'
+- '[[Changes/ElevenLabs/2026-07-06-workspaces-9376f0|Workspaces]]'
 - '[[Changes/ChatGPT/2026-07-08-we-re-rolling-out-a-new-chatgpt-voice-experience-chatgpt-voice-is-now-powered-by|Introducing
   GPT-Live-1 in ChatGPT Voice]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-07-13-chatgpt-returns-to-whatsapp-in-the-eea-ce61ee08|chatgpt-2026-07-13-chatgpt-returns-to-whatsapp-in-the-eea-ce61ee08]]'
@@ -102,7 +100,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-08-11 · Aider · [[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source link) support, which allows you…]]
+- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

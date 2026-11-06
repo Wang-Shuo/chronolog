@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ae752e81a22a7910740f55b1260f13d61da248892a12448f119b38bffc1c449b
+machine_hash: 6db4ad17e0e57dfa992a6a97db7a4ae995132d1b94fd241cecfc5d699cce41d7
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -52,12 +52,12 @@ record:
   title: 5 Safety and Privacy changes in rust-v0.151.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-27-4-safety-and-privacy-changes-in-v2-1-248|4 Safety
-  and Privacy changes in v2.1.248]]'
-- '[[Changes/GitHub Copilot CLI/2026-08-27-5-safety-and-privacy-changes-in-v1-0-81|5
-  Safety and Privacy changes in v1.0.81]]'
+- '[[Changes/Lovable/2026-08-27-restrict-external-invites-to-verified-email-domains|Restrict
+  external invites to verified email domains]]'
 - '[[Changes/Claude Code/2026-08-28-6-safety-and-privacy-changes-in-v2-1-251|6 Safety
   and Privacy changes in v2.1.251]]'
+- '[[Changes/v0/2026-08-28-2-safety-and-privacy-changes-in-gpt-5-6-sol-sign-in-inside-previews|2
+  Safety and Privacy changes in GPT-5.6 Sol, sign-in inside previews…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-08-29-rust-v0-151-0-github-378941035-5571827d|codex-cli-2026-08-29-rust-v0-151-0-github-378941035-5571827d]]'
 source_type: github_releases
 theme: safety-privacy
@@ -99,8 +99,8 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.151.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-08-28 · Claude Code · [[Changes/Claude Code/2026-08-28-6-safety-and-privacy-changes-in-v2-1-251|6 Safety and Privacy changes in v2.1.251]]
-- Later: 2026-09-01 · Claude Code · [[Changes/Claude Code/2026-09-01-fixed-remote-and-scheduled-sessions-failing-with-user-messages-must-have-non-emp|Fixed remote and scheduled sessions failing…]]
+- Earlier: 2026-08-28 · v0 · [[Changes/v0/2026-08-28-2-safety-and-privacy-changes-in-gpt-5-6-sol-sign-in-inside-previews|2 Safety and Privacy changes in GPT-5.6 Sol, sign-in inside previews…]]
+- Later: 2026-08-31 · Open WebUI · [[Changes/Open WebUI/2026-08-31-security-advisory-this-release-includes-security-and-access-control-fixes-we-rec|🛡️ Security Advisory: This release includes security and access-control fixes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a6c0de6fa4aa047fa3d196549c57cdeb0f86397510d91134c2fbd548ad24a2f4
+machine_hash: 7d7453a973aac8721729f8911c85ffbe1fbe32cb5442e341de5c4394d81af4ad
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -45,8 +45,8 @@ record:
   title: Longer memory for more personalized responses
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-08-06-2-memory-and-personalization-changes-in-v0-1-18|2
-  Memory and Personalization changes in v0.1.18]]'
+- '[[Changes/Dify/2025-08-11-chore-remove-unused-variable-pruned-memory-by-hyongtao-db-in-https-github-com-la|Chore:
+  remove unused variable pruned_memory]]'
 - '[[Changes/Gemini CLI/2025-08-12-feat-drop-load-memory-from-include-directories-option-from-cli-args-by-y-okt-in|feat:
   drop load-memory-from-include-directories option from cli args]]'
 - '[[Changes/Gemini CLI/2025-08-14-3-memory-and-personalization-changes-in-v0-1-21|3

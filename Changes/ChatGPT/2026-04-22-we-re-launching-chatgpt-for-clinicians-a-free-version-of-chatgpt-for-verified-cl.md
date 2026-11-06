@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 6505adec0d27d0ac7e46e29aed0e34a78ff20429099ef16646ec22bbb7046402
+machine_hash: 482273cd529f1a620079414d80a963b6aca38f755e9d677754467e54c3a683c6
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -71,12 +71,12 @@ record:
   title: ChatGPT for Clinicians
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-04-14-docs-update-mcp-server-oauth-redirect-port-documentation-by-adamfweidman-in-http|docs:
-  update MCP server OAuth redirect port documentation]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-14-enterprise-login-accepts-hostnames-without-a-url-scheme-e-g-github-example-com|Enterprise
   login accepts hostnames without a URL scheme (e.g. ''github.example.com'')]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-17-copilot-login-host-now-correctly-authenticates-with-github-enterprise-cloud-ghe|copilot
   login --host now correctly authenticates with GitHub Enterprise Cloud (GHE)…]]'
+- '[[Changes/Open WebUI/2026-04-21-17-account-and-access-changes-in-v0-9-0|17 Account
+  and Access changes in v0.9.0]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-04-22-chatgpt-for-clinicians-4ccc54d7|chatgpt-2026-04-22-chatgpt-for-clinicians-4ccc54d7]]'
 source_type: chatgpt_changelog
 theme: account-access
@@ -103,7 +103,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-04-17 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-17-copilot-login-host-now-correctly-authenticates-with-github-enterprise-cloud-ghe|copilot login --host now correctly authenticates with GitHub Enterprise Cloud (GHE)…]]
+- Earlier: 2026-04-21 · Open WebUI · [[Changes/Open WebUI/2026-04-21-17-account-and-access-changes-in-v0-9-0|17 Account and Access changes in v0.9.0]]
 - Later: 2026-04-23 · Gemini CLI · [[Changes/Gemini CLI/2026-04-23-docs-correct-documentation-for-enforced-authentication-type-by-cocosheng-g-in-ht|docs: correct documentation for enforced authentication type]]
 <!-- chronolog:end -->
 

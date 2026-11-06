@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 74adc0b33627d40f9b74d77ffd49483e181672f5f692fad587397e2f1a17a228
+machine_hash: 81c513163d962a95ffdf9e238910df7b72d1ac7e6fe7e5e054f0f6cde366a99e
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -45,10 +45,8 @@ record:
   title: 3 Agent Mode changes in v0.40.0
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-04-24-multitask-in-agents-window-9bc7ed|Multitask in Agents
-  Window]]'
-- '[[Changes/GitHub Copilot CLI/2026-04-24-custom-agents-skills-and-commands-from-claude-are-no-longer-loaded-by-the-copilo|Custom
-  agents, skills, and commands from ~/.claude/ are no longer loaded…]]'
+- '[[Changes/ElevenLabs/2026-04-27-packages|Packages]]'
+- '[[Changes/ElevenLabs/2026-04-27-elevenagents-e7cc6e|ElevenAgents]]'
 - '[[Changes/Claude Code/2026-04-28-2-agent-mode-changes-in-v2-1-121|2 Agent Mode
   changes in v2.1.121]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-04-28-v0-40-0-github-314816403-89c506a5|gemini-cli-2026-04-28-v0-40-0-github-314816403-89c506a5]]'

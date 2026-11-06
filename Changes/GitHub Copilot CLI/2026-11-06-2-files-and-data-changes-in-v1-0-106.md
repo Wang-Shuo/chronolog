@@ -5,20 +5,20 @@ description: 'GitHub Copilot CLI · 2026-11-06 · Files and Data: 2 changes in 1
   — Pasting two images or documents that share a file name from different folders
   now…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code
-    interpreter is now rolling out in beta on web]]'
+  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
+    Files and Data changes in 0.2.2]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1219
+  lag_days: 1261
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c82ea65c9a3cc46f34504689c5ec2d5d87491d0ff8527fa49bd41c3cb400f138
+machine_hash: abf3518108fc47a47ecb4abcd527413ef7a0eaf68c44a20b698efd6fc6a57755
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,12 +45,12 @@ record:
   title: 2 Files and Data changes in v1.0.106
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-26-improved-the-artifact-tool-s-choice-between-a-page-and-a-document-explainers-and|Improved
-  the Artifact tool''s choice between a page and a document]]'
-- '[[Changes/OpenHands/2026-10-27-feat-canvas-per-conversation-docker-runtime-and-settings-runtime-page-by-vascosc|feat(canvas):
-  per-conversation Docker runtime and Settings → Runtime page]]'
+- '[[Changes/ElevenLabs/2026-11-02-2-files-and-data-changes-in-elevenlabs-updates-2026-11-02|2
+  Files and Data changes in ElevenLabs updates — 2026-11-02]]'
 - '[[Changes/OpenHands/2026-11-03-feat-canvas-attribute-local-cloud-signup-entries-all-5962-by-malhotra5-in-https|feat(canvas):
   attribute local Cloud signup entries (ALL-5962)]]'
+- '[[Changes/Dify/2026-11-04-6-files-and-data-changes-in-1-19-0|6 Files and Data changes
+  in 1.19.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-11-06-v1-0-106-github-435988160-ec5b15d4|github-copilot-cli-2026-11-06-v1-0-106-github-435988160-ec5b15d4]]'
 source_type: github_releases
 theme: file-data
@@ -102,13 +102,13 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.106
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2026-11-03 · OpenHands · [[Changes/OpenHands/2026-11-03-feat-canvas-attribute-local-cloud-signup-entries-all-5962-by-malhotra5-in-https|feat(canvas): attribute local Cloud signup entries (ALL-5962)]]
+- Earlier: 2026-11-04 · Dify · [[Changes/Dify/2026-11-04-6-files-and-data-changes-in-1-19-0|6 Files and Data changes in 1.19.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-06 · ChatGPT · [[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code interpreter is now rolling out in beta on web]]
+- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d108d25fa9fcc9bc660dc69bb562a31097126ad8ca4e2878ca7d0341504db5c3
+machine_hash: f81fd2a30a7e55898e0128ee364d2179765de16db8cf3810fadc739b9f582494
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -40,12 +40,12 @@ record:
   title: '#28791 bazel: refresh expired macOS SDK pin @anp-oai'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-06-18-updated-composer-and-tools-menu-the-composer-in-android-now-has-inline-mentions|Updated
-  composer and tools menu]]'
 - '[[Changes/ChatGPT/2026-06-18-improved-camera-and-photo-uploads-taking-and-uploading-photos-in-chatgpt-on-ios|Improved
   camera and photo uploads]]'
 - '[[Changes/ChatGPT/2026-06-18-chatgpt-now-has-more-ways-to-help-with-common-questions-from-pronunciation-guida|ChatGPT
   now has more ways to help with common questions, from pronunciation guidance…]]'
+- '[[Changes/v0/2026-06-19-on-mobile-an-expired-session-while-sending-opens-the-re-authenticate-flow-instea|On
+  mobile, an expired session while sending opens the re-authenticate flow instead…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-06-22-rust-v0-142-0-github-343189954-a218ab4e|codex-cli-2026-06-22-rust-v0-142-0-github-343189954-a218ab4e]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -90,7 +90,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-06-18 · ChatGPT · [[Changes/ChatGPT/2026-06-18-chatgpt-now-has-more-ways-to-help-with-common-questions-from-pronunciation-guida|ChatGPT now has more ways to help with common questions, from pronunciation guidance…]]
+- Earlier: 2026-06-19 · v0 · [[Changes/v0/2026-06-19-on-mobile-an-expired-session-while-sending-opens-the-re-authenticate-flow-instea|On mobile, an expired session while sending opens the re-authenticate flow instead…]]
 - Later: 2026-06-23 · Windsurf · [[Changes/Windsurf/2026-06-23-devin-desktop|Devin Desktop]]
 <!-- chronolog:end -->
 

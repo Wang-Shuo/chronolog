@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 795ab382c24ebbc3d6097638f1af4246f191c0c392d4ff0a7afdefcecf79fefb
+machine_hash: 09934383350667dc7f42f6f552f3386767e8db700e793d4e761b3dfa4a0325a8
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -79,7 +79,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-01-28 · Claude Code · [[Changes/Claude Code/2026-01-28-improved-claude-to-prefer-file-operation-tools-read-edit-write-over-bash-equival|Improved Claude to prefer file operation tools (Read, Edit, Write) over bash…]]
-- Later: 2026-01-29 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-29-2-editor-experience-changes-in-v0-0-399|2 Editor Experience changes in v0.0.399]]
+- Later: 2026-01-28 · v0 · [[Changes/v0/2026-01-28-you-can-now-import-any-github-repo-into-v0-and-work-on-your-actual-codebase|Import any GitHub repo into v0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

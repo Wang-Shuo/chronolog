@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 99af4cb972bb5db715718a037c04c1b76f1c61e66183687c31fd60c644578483
+machine_hash: b5845340590a06f2e3a7514e0139c0b06899b7466b302a3c6194e42b1f2d22d1
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -49,8 +49,8 @@ record:
   title: 3 Editor Experience changes in v1.0.60
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-01-9-editor-experience-changes-in-v1-0-57|9
-  Editor Experience changes in v1.0.57]]'
+- '[[Changes/Open WebUI/2026-06-01-4-editor-experience-changes-in-v0-9-6|4 Editor
+  Experience changes in v0.9.6]]'
 - '[[Changes/Claude Code/2026-06-02-edit-no-longer-requires-a-separate-read-after-viewing-a-file-with-grep-single-fi|Edit
   no longer requires a separate Read after viewing a file with grep]]'
 - '[[Changes/Claude Code/2026-06-03-renamed-windsurf-to-devin-desktop-in-the-ide-menu-terminal-setup-and-scroll-spee|Renamed

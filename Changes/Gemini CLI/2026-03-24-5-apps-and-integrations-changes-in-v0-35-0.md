@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a3da92f6c6cd8d23757b684cf518f5f8802d6c8ea2d7569d7be3f60ed8f4abad
+machine_hash: 6e38782658c8c92f14b7f32382e6982417aa8a5846530304413bcd2d30462a52
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -53,10 +53,8 @@ record:
   title: 5 Apps and Integrations changes in v0.35.0
   type: change
 related_changes:
-- '[[Changes/Cline/2026-03-20-2-apps-and-integrations-changes-in-v3-75-0|2 Apps and
-  Integrations changes in v3.75.0]]'
-- '[[Changes/GitHub Copilot CLI/2026-03-20-6-apps-and-integrations-changes-in-v1-0-10|6
-  Apps and Integrations changes in v1.0.10]]'
+- '[[Changes/ElevenLabs/2026-03-23-workspaces|Workspaces]]'
+- '[[Changes/ElevenLabs/2026-03-23-sdk-releases|SDK Releases]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-23-6-apps-and-integrations-changes-in-v1-0-11|6
   Apps and Integrations changes in v1.0.11]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-03-24-v0-35-0-github-300868580-f6f9b621|gemini-cli-2026-03-24-v0-35-0-github-300868580-f6f9b621]]'

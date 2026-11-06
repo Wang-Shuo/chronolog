@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0ed300f24c4d0e4027fa36a00dda3169d0498016e538d8320bdf603188934ffc
+machine_hash: 6fc3f56fe5035e1fe77b5a7b6f93cfd0ca41dec67781642b4e4b9ad13f9a69d4
 product: claude-code
 product_name: Claude Code
 record:
@@ -50,12 +50,11 @@ record:
   title: 3 Model Support changes in v2.1.312
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-10-26-gpt-6-1-terra-is-rolling-out-in-chatgpt-work-and-codex-it-supports-a-range-of-ta|GPT-6.1
-  Terra]]'
-- '[[Changes/Claude Code/2026-10-26-5-model-support-changes-in-v2-1-311|5 Model Support
-  changes in v2.1.311]]'
 - '[[Changes/Cline/2026-10-26-10-model-support-changes-in-v4-1-26|10 Model Support
   changes in v4.1.26]]'
+- '[[Changes/ElevenLabs/2026-10-26-fast-llm-service-tier|Fast LLM service tier]]'
+- '[[Changes/ElevenLabs/2026-10-26-3-model-support-changes-in-elevenlabs-updates-2026-10-26|3
+  Model Support changes in ElevenLabs updates — 2026-10-26]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-27-v2-1-312-github-425846009-439d063a|claude-code-2026-10-27-v2-1-312-github-425846009-439d063a]]'
 source_type: github_releases
 theme: model-support
@@ -96,7 +95,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.312
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-10-26 · Cline · [[Changes/Cline/2026-10-26-10-model-support-changes-in-v4-1-26|10 Model Support changes in v4.1.26]]
+- Earlier: 2026-10-26 · ElevenLabs · [[Changes/ElevenLabs/2026-10-26-3-model-support-changes-in-elevenlabs-updates-2026-10-26|3 Model Support changes in ElevenLabs updates — 2026-10-26]]
 - Later: 2026-10-27 · Codex CLI · [[Changes/Codex CLI/2026-10-27-9-model-support-changes-in-rust-v0-165-0|9 Model Support changes in rust-v0.165.0]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6c3616a0f9fe0a75ea5e9e1f1f4af3859961697d507cec55c56ccc721cc88602
+machine_hash: 88318de94993bda1c23030dd8be72e14947f599074d7a827eab0d8a1f59cec6e
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,12 @@ record:
   title: Added a `/doctor` check that proposes trimming checked-in `CLAUDE.md` files…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-07-2-editor-experience-changes-in-v1-0-69|2
-  Editor Experience changes in v1.0.69]]'
-- '[[Changes/Codex CLI/2026-07-08-3-editor-experience-changes-in-rust-v0-143-0|3 Editor
-  Experience changes in rust-v0.143.0]]'
+- '[[Changes/Lovable/2026-07-08-pause-a-lovable-cloud-project|Pause a Lovable Cloud
+  project]]'
 - '[[Changes/Codex CLI/2026-07-09-31191-handle-completion-separators-and-popup-dismissal-charliemarsh-oai|♯31191
   Handle completion separators and popup dismissal @charliemarsh-oai]]'
+- '[[Changes/Lovable/2026-07-09-improved-image-gallery-in-the-files-tab|Improved image
+  gallery in the Files tab]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-10-v2-1-206-github-351694341-0226036e|claude-code-2026-07-10-v2-1-206-github-351694341-0226036e]]'
 source_type: github_releases
 theme: editor-experience
@@ -82,7 +82,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-07-09 · Codex CLI · [[Changes/Codex CLI/2026-07-09-31191-handle-completion-separators-and-popup-dismissal-charliemarsh-oai|♯31191 Handle completion separators and popup dismissal @charliemarsh-oai]]
+- Earlier: 2026-07-09 · Lovable · [[Changes/Lovable/2026-07-09-improved-image-gallery-in-the-files-tab|Improved image gallery in the Files tab]]
 - Later: 2026-07-10 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-10-2-editor-experience-changes-in-v1-0-70|2 Editor Experience changes in v1.0.70]]
 <!-- chronolog:end -->
 

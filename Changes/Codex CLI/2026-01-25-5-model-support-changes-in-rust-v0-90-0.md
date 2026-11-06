@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d543d9695f063ff7fc76898227da7eaa150c4d2662abd88162f5b55727ec2e5d
+machine_hash: 940267d6e0568c87e8d5dfd9d671c80b888170666b00d9b12f6e15b26bff8770
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -101,7 +101,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.90.0
 ## Nearby in Model Support
 
 - Earlier: 2026-01-24 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-24-directory-path-uses-consistent-muted-text-color-with-git-branch-and-model-displa|Directory path uses consistent muted text color with git branch and model display]]
-- Later: 2026-01-27 · Cline · [[Changes/Cline/2026-01-27-3-model-support-changes-in-v3-54-0|3 Model Support changes in v3.54.0]]
+- Later: 2026-01-26 · ElevenLabs · [[Changes/ElevenLabs/2026-01-26-elevencreative-studio|ElevenCreative Studio]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0752b242c89a6f272def10da15f39078fa64d61794e3edd70776c7b73a32af5a
+machine_hash: 9f4ddf4523262cb0d325028ee89f9b7a6dac38fbff9c5d8483fb4d049dee741a
 product: openhands
 product_name: OpenHands
 record:
@@ -45,11 +45,9 @@ record:
   title: 2 Agent Mode changes in 0.39.0
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-05-12-added-the-ability-for-the-agent-to-save-browser-screenshots-as-image-files-by-xi|Added
-  the ability for the agent to save browser screenshots as image files]]'
-- '[[Changes/Cursor/2025-05-15-fast-edits-for-long-files-with-agent|Fast edits for
-  long files with Agent]]'
-- '[[Changes/Cursor/2025-05-15-background-agent-preview|Background Agent (Preview)]]'
+- '[[Changes/Replit/2025-05-16-ask-agent-to-add-a-database|Ask Agent to add a database]]'
+- '[[Changes/ElevenLabs/2025-05-19-agents-platform|Agents Platform]]'
+- '[[Changes/ElevenLabs/2025-05-19-agents-platform-e84d3e|Agents Platform]]'
 source_release: '[[Releases/OpenHands/openhands-2025-05-20-0-39-0-github-219826360-dc95010e|openhands-2025-05-20-0-39-0-github-219826360-dc95010e]]'
 source_type: github_releases
 theme: agent-mode
@@ -82,8 +80,8 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/0.39.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2025-05-15 · Cursor · [[Changes/Cursor/2025-05-15-background-agent-preview|Background Agent (Preview)]]
-- Later: 2025-06-04 · Cursor · [[Changes/Cursor/2025-06-04-open-background-agent-control-panel-with-cmd-ctrl-e|Open Background Agent control panel with Cmd/Ctrl+E]]
+- Earlier: 2025-05-19 · ElevenLabs · [[Changes/ElevenLabs/2025-05-19-agents-platform-e84d3e|Agents Platform]]
+- Later: 2025-05-26 · ElevenLabs · [[Changes/ElevenLabs/2025-05-26-agents-platform|Agents Platform]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

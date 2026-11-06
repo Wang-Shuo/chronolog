@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 35e44ca5b14c40a829cda687cf1ddc6d7ebb353835396fa9b4508c8c0ea5b0ed
+machine_hash: 522bdb05fa4409e64001ffaeef697300be4614104585a6ed472a83b2b18bc840
 product: claude-code
 product_name: Claude Code
 record:
@@ -97,7 +97,7 @@ type: change
 ## Nearby in Account and Access
 
 - Earlier: 2026-02-27 · Gemini CLI · [[Changes/Gemini CLI/2026-02-27-3-account-and-access-changes-in-v0-31-0|3 Account and Access changes in v0.31.0]]
-- Later: 2026-03-02 · Codex CLI · [[Changes/Codex CLI/2026-03-02-3-account-and-access-changes-in-rust-v0-107-0|3 Account and Access changes in rust-v0.107.0]]
+- Later: 2026-03-01 · Open WebUI · [[Changes/Open WebUI/2026-03-01-3-account-and-access-changes-in-v0-8-6|3 Account and Access changes in v0.8.6]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

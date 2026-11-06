@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e0c053c60ad9375ba2ed1e5317159965ebfb1f341470e5d2180a7ba5874c9495
+machine_hash: 42c35ed721d76eaca86888611836a9679491f5f26e5ba272c315a404d46ae382
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,12 @@ record:
   title: Removed the outdated note about auto mode sessions costing slightly more…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-07-removed-the-200-subagent-per-session-spawn-cap-long-running-sessions-no-longer-r|Removed
-  the 200-subagent-per-session spawn cap]]'
-- '[[Changes/Codex CLI/2026-08-07-17-agent-mode-changes-in-rust-v0-147-0|17 Agent
-  Mode changes in rust-v0.147.0]]'
-- '[[Changes/OpenHands/2026-08-07-feat-add-a-typed-agent-action-for-launching-local-or-cloud-child-conversations-b|feat:
-  add a typed agent action for launching local or Cloud child conversations]]'
+- '[[Changes/Ollama/2026-08-10-muse-glimmer-is-now-available-on-all-platforms-muse-glimmer-can-power-coding-age|Muse
+  Glimmer is now available on all platforms]]'
+- '[[Changes/Ollama/2026-08-10-2-agent-mode-changes-in-v0-32-7|2 Agent Mode changes
+  in v0.32.7]]'
+- '[[Changes/Ollama/2026-08-10-for-a-lighter-weight-coding-agent-try-pi-https-pi-dev|For
+  a lighter-weight coding agent, try Pi((source link)]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-11-v2-1-228-github-368745796-47d0c6b9|claude-code-2026-08-11-v2-1-228-github-368745796-47d0c6b9]]'
 source_type: github_releases
 theme: agent-mode
@@ -82,7 +82,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-08-07 · OpenHands · [[Changes/OpenHands/2026-08-07-feat-add-a-typed-agent-action-for-launching-local-or-cloud-child-conversations-b|feat: add a typed agent action for launching local or Cloud child conversations]]
+- Earlier: 2026-08-10 · Ollama · [[Changes/Ollama/2026-08-10-for-a-lighter-weight-coding-agent-try-pi-https-pi-dev|For a lighter-weight coding agent, try Pi((source link)]]
 - Later: 2026-08-11 · Gemini CLI · [[Changes/Gemini CLI/2026-08-11-2-agent-mode-changes-in-v0-55-1|2 Agent Mode changes in v0.55.1]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 426b46afb26387b60ea86aef72b00edddd2f1dcd22b085eac4741c46c6359723
+machine_hash: e7e1cca242887b50ab05b6d53fc9a57beabff687d57657ace5284e741c2792c1
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -42,10 +42,10 @@ record:
   title: 'docs: migrate installation and authentication to mdx with tabbed layouts'
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-04-23-docs-correct-documentation-for-enforced-authentication-type-by-cocosheng-g-in-ht|docs:
-  correct documentation for enforced authentication type]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-23-2-account-and-access-changes-in-v1-0-35|2
   Account and Access changes in v1.0.35]]'
+- '[[Changes/Open WebUI/2026-04-24-3-account-and-access-changes-in-v0-9-2|3 Account
+  and Access changes in v0.9.2]]'
 - '[[Changes/Claude Code/2026-04-28-clarified-the-mcp-message-shown-when-an-mcp-server-is-still-unauthorized-after-t|Clarified
   the /mcp message shown when an MCP server is still unauthorized after…]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-04-28-v0-40-0-github-314816403-89c506a5|gemini-cli-2026-04-28-v0-40-0-github-314816403-89c506a5]]'
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Account and Access
 
 - Earlier: 2026-04-28 · Claude Code · [[Changes/Claude Code/2026-04-28-clarified-the-mcp-message-shown-when-an-mcp-server-is-still-unauthorized-after-t|Clarified the /mcp message shown when an MCP server is still unauthorized after…]]
-- Later: 2026-04-30 · ChatGPT · [[Changes/ChatGPT/2026-04-30-we-re-rolling-out-advanced-account-security-an-optional-setting-for-personal-cha|Advanced Account Security in ChatGPT]]
+- Later: 2026-04-29 · Dify · [[Changes/Dify/2026-04-29-8-account-and-access-changes-in-1-14-0|8 Account and Access changes in 1.14.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

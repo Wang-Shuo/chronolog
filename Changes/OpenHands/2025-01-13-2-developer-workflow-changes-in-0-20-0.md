@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c743ec3890820b4b29cf1ad38e670fa8d55e8a7997764501fcf0f0e85fb5dbcd
+machine_hash: a6d8848256bc042f85b08eeb37cba6f58948aa8a73385943cf0f41de55da4206
 product: openhands
 product_name: OpenHands
 record:
@@ -42,12 +42,12 @@ record:
   title: 2 Developer Workflow changes in 0.20.0
   type: change
 related_changes:
-- '[[Changes/Aider/2024-12-26-2-developer-workflow-changes-in-v0-70-0|2 Developer
-  Workflow changes in v0.70.0]]'
-- '[[Changes/Cline/2025-01-06-under-the-hood-the-extension-uses-git-to-efficiently-track-changes-which-uses-ad|Under
-  the hood, the extension uses git to efficiently track changes, which uses…]]'
+- '[[Changes/Ollama/2025-01-08-command-r7b-https-ollama-com-library-command-r7b-the-smallest-model-in-cohere-s|Command
+  R7B((source link) the smallest model…]]'
 - '[[Changes/Aider/2025-01-10-5-developer-workflow-changes-in-v0-71-0|5 Developer
   Workflow changes in v0.71.0]]'
+- '[[Changes/Dify/2025-01-13-stop-the-service-command-please-execute-in-the-docker-directory|Stop
+  the service，Command, please execute in the docker directory]]'
 source_release: '[[Releases/OpenHands/openhands-2025-01-13-0-20-0-github-194516759-a9c73f24|openhands-2025-01-13-0-20-0-github-194516759-a9c73f24]]'
 source_type: github_releases
 theme: developer-workflow
@@ -81,8 +81,8 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/0.20.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2025-01-10 · Aider · [[Changes/Aider/2025-01-10-5-developer-workflow-changes-in-v0-71-0|5 Developer Workflow changes in v0.71.0]]
-- Later: 2025-01-23 · Cursor · [[Changes/Cursor/2025-01-23-update-0-45-12-13-update-infrastructure-improvements-the-f1-check-for-updates-co|UPDATE (0.45.12-13): Update infrastructure improvements]]
+- Earlier: 2025-01-13 · Dify · [[Changes/Dify/2025-01-13-stop-the-service-command-please-execute-in-the-docker-directory|Stop the service，Command, please execute in the docker directory]]
+- Later: 2025-01-16 · Ollama · [[Changes/Ollama/2025-01-16-support-importing-command-r-and-command-r-architectures-from-safetensors|Support importing Command R and Command R+ architectures from safetensors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

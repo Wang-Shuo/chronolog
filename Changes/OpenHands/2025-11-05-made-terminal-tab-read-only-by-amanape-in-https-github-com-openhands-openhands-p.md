@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a09f7bb156a3642dfe9b65a38e77c4c1bf5860a54cd60c17585c5e00b2efe158
+machine_hash: 51c341b6e622a78b4ad497031a5665cef663542f67b2ae6f3014dc52b2ae0027
 product: openhands
 product_name: OpenHands
 record:
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2025-11-04 · Windsurf · [[Changes/Windsurf/2025-11-04-terminal-fixes|Terminal Fixes]]
-- Later: 2025-11-07 · Gemini CLI · [[Changes/Gemini CLI/2025-11-07-5-developer-workflow-changes-in-v0-13-0|5 Developer Workflow changes in v0.13.0]]
+- Later: 2025-11-06 · Open WebUI · [[Changes/Open WebUI/2025-11-06-socket-io-cors-warning-is-resolved-by-properly-configuring-cors-origins-for-sock|🔌 Socket.IO CORS warning is resolved by properly configuring CORS origins for Socket]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

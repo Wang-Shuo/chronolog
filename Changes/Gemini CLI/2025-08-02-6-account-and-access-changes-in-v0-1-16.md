@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: abaf9f4771e6b8901386880c3b00f4ee5948b99e02f9b9fa7583dcc8f6856bcc
+machine_hash: 350208a2e3197ea900d226c3377ff24fd1dc500db629ccd95ee4bb2bc09e58c5
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -52,10 +52,10 @@ record:
   title: 6 Account and Access changes in v0.1.16
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-07-19-3-account-and-access-changes-in-v0-1-13|3 Account
-  and Access changes in v0.1.13]]'
 - '[[Changes/Gemini CLI/2025-07-25-4-account-and-access-changes-in-v0-1-14|4 Account
   and Access changes in v0.1.14]]'
+- '[[Changes/Dify/2025-07-28-test-add-comprehensive-integration-tests-for-api-key-authentication-system-by-fa|test:
+  add comprehensive integration tests for API key authentication system]]'
 - '[[Changes/Gemini CLI/2025-07-30-5-account-and-access-changes-in-v0-1-15|5 Account
   and Access changes in v0.1.15]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-08-02-v0-1-16-github-237037864-b4f734b7|gemini-cli-2025-08-02-v0-1-16-github-237037864-b4f734b7]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: cc2d201392a9df832ddbdb1c9d3880d62ec81a7e9c0a0f75cfdec8f4ec166e44
+machine_hash: 6d55dbc3baeb2a82d4319098f23fbcae2836f319e323ff898a4a26090163dc21
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,12 +42,12 @@ record:
   title: Major README/docs refactor and navigation (#2724)
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-08-20-2-interface-experience-changes-in-rust-v0-23-0|2
-  Interface Experience changes in rust-v0.23.0]]'
-- '[[Changes/Codex CLI/2025-08-26-3-interface-experience-changes-in-rust-v0-24-0|3
-  Interface Experience changes in rust-v0.24.0]]'
 - '[[Changes/Codex CLI/2025-08-27-improve-emoji-rendering-proper-spacing-and-emoji-variant-2735-2728|Improve
   emoji rendering: proper spacing and ⌨️ emoji variant (♯2735, ♯2728)]]'
+- '[[Changes/Dify/2025-08-27-5-interface-experience-changes-in-1-8-0|5 Interface Experience
+  changes in 1.8.0]]'
+- '[[Changes/Open WebUI/2025-08-28-2-interface-experience-changes-in-v0-6-26|2 Interface
+  Experience changes in v0.6.26]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-08-29-rust-v0-26-0-github-243361170-3db0d38c|codex-cli-2025-08-29-rust-v0-26-0-github-243361170-3db0d38c]]'
 source_type: github_releases
 theme: interface-experience
@@ -80,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2025-08-27 · Codex CLI · [[Changes/Codex CLI/2025-08-27-improve-emoji-rendering-proper-spacing-and-emoji-variant-2735-2728|Improve emoji rendering: proper spacing and ⌨️ emoji variant (♯2735, ♯2728)]]
+- Earlier: 2025-08-28 · Open WebUI · [[Changes/Open WebUI/2025-08-28-2-interface-experience-changes-in-v0-6-26|2 Interface Experience changes in v0.6.26]]
 - Later: 2025-09-04 · Gemini CLI · [[Changes/Gemini CLI/2025-09-04-2-interface-experience-changes-in-v0-3-0|2 Interface Experience changes in v0.3.0]]
 <!-- chronolog:end -->
 

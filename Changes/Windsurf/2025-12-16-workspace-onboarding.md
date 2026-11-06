@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 6d9a35e3b3e2110fbd8b854255d1678688bd8325eda1afa429a60890edeb4ed4
+machine_hash: cfd8e8c95cc23150dfaf6f59557a8f493522211e0e2a4c1846b63d68f7b431c6
 product: windsurf
 product_name: Windsurf
 record:
@@ -45,8 +45,8 @@ record:
   title: Workspace & Onboarding
   type: change
 related_changes:
-- '[[Changes/Cline/2025-12-11-2-interface-experience-changes-in-v3-41-0|2 Interface
-  Experience changes in v3.41.0]]'
+- '[[Changes/Dify/2025-12-11-3-interface-experience-changes-in-1-11-0|3 Interface
+  Experience changes in 1.11.0]]'
 - '[[Changes/Codex CLI/2025-12-15-8047-chore-fix-tooltip-typos-and-align-tone|♯8047
   chore: fix tooltip typos and align tone]]'
 - '[[Changes/Windsurf/2025-12-16-ui-rendering|UI & Rendering]]'

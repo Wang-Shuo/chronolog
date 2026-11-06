@@ -4,20 +4,20 @@ date: '2026-04-15'
 description: 'Cursor · 2026-04-15 · Files and Data: Cursor can now respond by creating
   interactive canvases.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code
-    interpreter is now rolling out in beta on web]]'
+  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
+    Files and Data changes in 0.2.2]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1014
+  lag_days: 1056
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7c668a675e5096e1e89bcb6e4c1bf3e4558077fe8022f85896b69486180f9d23
+machine_hash: 131028a6d2b0f68f625a7d6bdf1df9dd1b92b4505f3871cc62bb7686974b534a
 product: cursor
 product_name: Cursor
 record:
@@ -47,10 +47,10 @@ record:
   title: Cursor can now respond by creating interactive canvases
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-03-17-docs-document-planning-workflows-with-conductor-example-by-jerop-in-https-github|docs:
-  document planning workflows with Conductor example]]'
-- '[[Changes/Gemini CLI/2026-03-24-docs-document-npm-deprecation-warnings-as-safe-to-ignore-by-h30s-in-https-github|docs:
-  document npm deprecation warnings as safe to ignore]]'
+- '[[Changes/Dify/2026-03-27-4-files-and-data-changes-in-1-13-3|4 Files and Data changes
+  in 1.13.3]]'
+- '[[Changes/Lovable/2026-04-02-generate-files-and-analyze-data|Generate files and
+  analyze data]]'
 - '[[Changes/Cursor/2026-04-13-plan-tabs-now-get-the-same-document-behaviors-as-files-support-for-reliable-load|Plan
   tabs now get the same document behaviors as files]]'
 source_release: '[[Releases/Cursor/cursor-2026-04-15-canvases-https-cursor-com-changelog-04-15-26-cd056bf7|cursor-2026-04-15-canvases-https-cursor-com-changelog-04-15-26-cd056bf7]]'
@@ -84,13 +84,13 @@ type: change
 ## Nearby in Files and Data
 
 - Earlier: 2026-04-13 · Cursor · [[Changes/Cursor/2026-04-13-plan-tabs-now-get-the-same-document-behaviors-as-files-support-for-reliable-load|Plan tabs now get the same document behaviors as files]]
-- Later: 2026-04-23 · Codex CLI · [[Changes/Codex CLI/2026-04-23-18423-chore-document-intentional-await-holding-cases-bolinfest|♯18423 chore: document intentional await-holding cases @bolinfest]]
+- Later: 2026-04-20 · ElevenLabs · [[Changes/ElevenLabs/2026-04-20-text-to-dialogue|Text to Dialogue]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-06 · ChatGPT · [[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code interpreter is now rolling out in beta on web]]
+- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

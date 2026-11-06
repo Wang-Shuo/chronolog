@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ddad2ec96443b4984794782e43d012c9b06091116dd384832110694816f9686a
+machine_hash: 1a9d7966232dae27cdea782d5721d49553d2a165d603e44a037487c9424955ee
 product: aider
 product_name: Aider
 record:
@@ -44,10 +44,10 @@ record:
   title: '[Benchmarked](https://aider.chat/docs/benchmarks.html) at 64.7% for gpt-4/diff…'
   type: change
 related_changes:
-- '[[Changes/Aider/2023-07-16-support-for-the-openai-models-in-azure-https-aider-chat-docs-faq-html-azure|Support
-  for the OpenAI models in Azure((source link)]]'
 - '[[Changes/ChatGPT/2023-07-19-we-re-doubling-the-number-of-messages-chatgpt-plus-customers-can-send-with-gpt-4|Higher
   message limits for GPT-4]]'
+- '[[Changes/Ollama/2023-07-21-3-model-support-changes-in-v0-0-11|3 Model Support
+  changes in v0.0.11]]'
 - '[[Changes/Aider/2023-07-22-benchmarked-https-aider-chat-docs-benchmarks-html-at-64-7-for-gpt-4-diff-no-regr|Benchmarked((source
   link) at 64.7% for gpt-4/diff…]]'
 source_release: '[[Releases/Aider/aider-2023-07-24-v0-10-1-github-113366215-859a2687|aider-2023-07-24-v0-10-1-github-113366215-859a2687]]'
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2023-07-22 · Aider · [[Changes/Aider/2023-07-22-benchmarked-https-aider-chat-docs-benchmarks-html-at-64-7-for-gpt-4-diff-no-regr|Benchmarked((source link) at 64.7% for gpt-4/diff…]]
-- Later: 2023-07-28 · Cursor · [[Changes/Cursor/2023-07-28-long-ai-completions-8c21b2|Long AI completions]]
+- Later: 2023-07-26 · Ollama · [[Changes/Ollama/2023-07-26-3-model-support-changes-in-v0-0-12|3 Model Support changes in v0.0.12]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

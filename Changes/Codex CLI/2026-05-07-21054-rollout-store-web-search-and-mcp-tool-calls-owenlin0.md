@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 02a514a6445f14cd6fa67f07b17777853d353d07d8c209aa9b8a777195d8281d
+machine_hash: c8a73a7988e7b52b0ee78e016933d20f706426f96b51525f518255424985f6ab
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -51,12 +51,11 @@ record:
   title: '#21054 rollout: store web search and mcp tool calls @owenlin0'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-04-15-17684-adjust-default-tool-search-result-caps-malone-oai|♯17684
-  Adjust default tool search result caps @malone-oai]]'
-- '[[Changes/Codex CLI/2026-04-20-plugin-workflows-now-include-tabbed-browsing-inline-enable-disable-toggles-marke|Plugin
-  workflows now include tabbed browsing, inline enable/disable toggles…]]'
+- '[[Changes/Open WebUI/2026-04-21-4-search-and-browsing-changes-in-v0-9-0|4 Search
+  and Browsing changes in v0.9.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-01-research-uses-an-orchestrator-subagent-model-for-more-thorough-and-reliable-deep|/research
   uses an orchestrator/subagent model for more thorough and reliable deep…]]'
+- '[[Changes/Ollama/2026-05-03-web-search-coming-soon|Web Search (coming soon)]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-05-07-rust-v0-129-0-github-319066904-0c2c638e|codex-cli-2026-05-07-rust-v0-129-0-github-319066904-0c2c638e]]'
 source_type: github_releases
 theme: search-browsing
@@ -100,8 +99,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Search and Browsing
 
-- Earlier: 2026-05-01 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-01-research-uses-an-orchestrator-subagent-model-for-more-thorough-and-reliable-deep|/research uses an orchestrator/subagent model for more thorough and reliable deep…]]
-- Later: 2026-05-19 · Claude Code · [[Changes/Claude Code/2026-05-19-the-plugin-browse-and-discover-panes-now-show-when-a-plugin-was-last-updated|The /plugin browse and discover panes now show when a plugin was last updated]]
+- Earlier: 2026-05-03 · Ollama · [[Changes/Ollama/2026-05-03-web-search-coming-soon|Web Search (coming soon)]]
+- Later: 2026-05-09 · Open WebUI · [[Changes/Open WebUI/2026-05-09-5-search-and-browsing-changes-in-v0-9-3|5 Search and Browsing changes in v0.9.3]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

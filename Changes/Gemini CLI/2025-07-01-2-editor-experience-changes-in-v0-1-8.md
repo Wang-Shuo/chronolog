@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 36fec272032286ca854621aaabdd2aa368a0e5656ae66a413ced5b58d19dd559
+machine_hash: f7aa353e0e4f04d307680fbd55178126ef3f931fdcbd646eb8de86097abbbbc0
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -42,9 +42,9 @@ record:
   title: 2 Editor Experience changes in v0.1.8
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-06-10-added-feature-flag-vscode-in-new-tab-for-opening-vscode-in-a-new-tab-by-tofarr-i|Added
-  feature flag VSCODE_IN_NEW_TAB for opening vscode in a new tab]]'
 - '[[Changes/Windsurf/2025-06-10-planning-mode|Planning Mode]]'
+- '[[Changes/Dify/2025-06-16-dead-code-cleanup-we-ve-removed-some-obsolete-code-utilizing-vulture-keeping-our|Dead
+  Code Cleanup]]'
 - '[[Changes/Aider/2025-06-27-improved-github-copilot-token-handling-with-better-validation-and-error-messages|Improved
   GitHub Copilot token handling with better validation and error messages…]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-07-01-v0-1-8-github-229252035-f46324ec|gemini-cli-2025-07-01-v0-1-8-github-229252035-f46324ec]]'

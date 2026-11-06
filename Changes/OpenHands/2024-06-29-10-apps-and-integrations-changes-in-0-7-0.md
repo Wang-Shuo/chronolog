@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ac9957e09a8475f8db35166fe348e33163a81fb01a20289611730ba183c7de5d
+machine_hash: 0d4fb49b6c052e80c215323fa915e3f3592ccb1a8a0d553ee47ed3184f53720d
 product: openhands
 product_name: OpenHands
 record:
@@ -66,12 +66,12 @@ record:
   title: 10 Apps and Integrations changes in 0.7.0
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2024-05-16-upload-the-latest-file-versions-directly-from-google-drive-microsoft-onedrive-pe-70f6a3|Upload
-  the latest file versions directly from Google Drive, Microsoft OneDrive…]]'
-- '[[Changes/OpenHands/2024-06-04-2-apps-and-integrations-changes-in-0-6-1|2 Apps
-  and Integrations changes in 0.6.1]]'
-- '[[Changes/OpenHands/2024-06-05-bump-typescript-eslint-eslint-plugin-from-7-11-0-to-7-12-0-in-frontend-by-depend|Bump
-  @typescript-eslint/eslint-plugin from 7.11.0 to 7.12.0 in /frontend]]'
+- '[[Changes/Dify/2024-06-14-chore-add-some-new-api-version-for-azure-openai-by-leslie2046-in-https-github-co|chore:add
+  some new api version for azure openai]]'
+- '[[Changes/Open WebUI/2024-06-27-functions-feature-you-can-now-utilize-functions-like-filters-middleware-and-pipe|✨
+  "Functions" Feature]]'
+- '[[Changes/Dify/2024-06-28-tracing-with-langsmith-and-langfuse-now-you-can-trace-your-apps-traffic-with-lan|Tracing
+  with LangSmith and Langfuse]]'
 source_release: '[[Releases/OpenHands/openhands-2024-06-29-0-7-0-github-163149742-cace6f1a|openhands-2024-06-29-0-7-0-github-163149742-cace6f1a]]'
 source_type: github_releases
 theme: apps-integrations
@@ -129,7 +129,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/0.7.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2024-06-05 · OpenHands · [[Changes/OpenHands/2024-06-05-bump-typescript-eslint-eslint-plugin-from-7-11-0-to-7-12-0-in-frontend-by-depend|Bump @typescript-eslint/eslint-plugin from 7.11.0 to 7.12.0 in /frontend]]
+- Earlier: 2024-06-28 · Dify · [[Changes/Dify/2024-06-28-tracing-with-langsmith-and-langfuse-now-you-can-trace-your-apps-traffic-with-lan|Tracing with LangSmith and Langfuse]]
 - Later: 2024-07-03 · Cursor · [[Changes/Cursor/2024-07-03-docs-management-go-to-cursor-settings-features-docs-to-re-index-your-docs|Docs management! Go to Cursor Settings  Features  Docs to re-index your docs]]
 <!-- chronolog:end -->
 

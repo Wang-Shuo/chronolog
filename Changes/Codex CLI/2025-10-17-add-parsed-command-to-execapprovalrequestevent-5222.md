@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d2ff8d349432654764a1df0db8cae13ed01a22be7e8fca10d82f54590ba6652d
+machine_hash: 040f7b26388e2b80bb921e105a39692c43a5d1fa601c8eb3a46d1ffd35787cc4
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,12 +42,12 @@ record:
   title: Add parsed command to ExecApprovalRequestEvent (#5222)
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2025-10-15-added-terminal-setup-command-to-set-up-multi-line-input-on-terminals-not-impleme|Added
-  /terminal-setup command to set up multi-line input on terminals not…]]'
 - '[[Changes/Cline/2025-10-16-8-developer-workflow-changes-in-v3-33-0|8 Developer
   Workflow changes in v3.33.0]]'
 - '[[Changes/GitHub Copilot CLI/2025-10-16-enabled-the-kitty-protocol-by-default-multi-line-input-is-now-supported-via-shif|Enabled
   the Kitty protocol by default]]'
+- "[[Changes/Open WebUI/2025-10-16-duplicate-html-content-in-artifacts-is-now-prevented-by-improving-code-block-det|\U0001F3A8
+  Duplicate HTML content in artifacts is now prevented by improving code block…]]"
 source_release: '[[Releases/Codex CLI/codex-cli-2025-10-17-rust-v0-47-0-github-255378266-cdca7c8a|codex-cli-2025-10-17-rust-v0-47-0-github-255378266-cdca7c8a]]'
 source_type: github_releases
 theme: developer-workflow
@@ -81,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2025-10-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-10-16-enabled-the-kitty-protocol-by-default-multi-line-input-is-now-supported-via-shif|Enabled the Kitty protocol by default]]
+- Earlier: 2025-10-16 · Open WebUI · [[Changes/Open WebUI/2025-10-16-duplicate-html-content-in-artifacts-is-now-prevented-by-improving-code-block-det|🎨 Duplicate HTML content in artifacts is now prevented by improving code block…]]
 - Later: 2025-10-18 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-10-18-2-developer-workflow-changes-in-v0-0-344|2 Developer Workflow changes in v0.0.344]]
 <!-- chronolog:end -->
 

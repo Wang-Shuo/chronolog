@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b18d1c4aaf322d10202124418fe04cf6d9a3315845e1cf057e4c668eca45ea6e
+machine_hash: a594bb2f549225aa95112cd3d961929e1a070f097dd0626d5d51219f37b1ee6c
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -45,8 +45,8 @@ record:
   title: 3 Model Support changes in v0.32.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-02-4-model-support-changes-in-rust-v0-107-0|4 Model
-  Support changes in rust-v0.107.0]]'
+- "[[Changes/Open WebUI/2026-03-02-temporary-chat-params-preservation-model-parameters-are-now-correctly-saved-when|\U0001F4BE
+  Temporary chat params preservation. Model parameters are now correctly saved…]]"
 - '[[Changes/ChatGPT/2026-03-03-gpt-5-3-instant-delivers-more-accurate-answers-richer-and-better-contextualized|GPT-5.3
   Instant Update]]'
 - '[[Changes/Cline/2026-03-03-restore-gpt-oss-native-file-editing-on-openai-compatible-models|Restore

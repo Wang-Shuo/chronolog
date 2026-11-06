@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4df92061c66be76eb79e8231919dc306889c9258d8f9f5cab46d2d170bce8c20
+machine_hash: 0c09d90ab4011a6b7a006bf7eb94f1226768e9df0819e120e06ec43a9c269409
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,8 +49,8 @@ record:
   title: 3 Model Support changes in v2.1.283
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-23-2-model-support-changes-in-rust-v0-156-1|2 Model
-  Support changes in rust-v0.156.1]]'
+- '[[Changes/Lovable/2026-09-23-enable-extended-retention-models-in-your-enterprise-workspace|Enable
+  extended-retention models in your Enterprise workspace]]'
 - '[[Changes/Claude Code/2026-09-24-2-model-support-changes-in-v2-1-282|2 Model Support
   changes in v2.1.282]]'
 - '[[Changes/Cline/2026-09-24-3-model-support-changes-in-v4-1-21|3 Model Support changes

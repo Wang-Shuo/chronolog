@@ -4,20 +4,20 @@ date: '2026-02-11'
 description: 'Codex CLI · 2026-02-11 · Enterprise and Administration: Enterprise/admin
   requirements can now restrict web search modes and define network constraints through…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin
-    improvements: Team admins can now mark themselves as unpaid users and can see…]]'
+  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
+    for Google Workspace accounts]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 693
+  lag_days: 1013
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7dc6752e1b7b703cc294713c4280c6b5cfb7719ec877bb62362afe1d7ea27a61
+machine_hash: 6eee93548701a57f403b6ec13f8a92dfd399f7ec54400abf6cf14d7fef521585
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -54,11 +54,12 @@ record:
     network…
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-01-23-enterprise-features|Enterprise Features]]'
-- '[[Changes/GitHub Copilot CLI/2026-01-24-add-support-for-github-enterprise-cloud-ghe-com-in-delegate-command|Add
-  support for GitHub Enterprise Cloud (\.ghe.com) in /delegate command]]'
 - '[[Changes/Gemini CLI/2026-01-28-feat-admin-implement-admin-controls-polling-and-restart-prompt-by-skeshive-in-ht|feat(admin):
   implement admin controls polling and restart prompt]]'
+- '[[Changes/Dify/2026-02-03-2-enterprise-and-administration-changes-in-1-12-0|2 Enterprise
+  and Administration changes in 1.12.0]]'
+- '[[Changes/Lovable/2026-02-05-default-design-templates-business-and-enterprise|Default
+  design templates (Business and Enterprise)]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-02-11-rust-v0-99-0-github-285424682-f7f48016|codex-cli-2026-02-11-rust-v0-99-0-github-285424682-f7f48016]]'
 source_type: github_releases
 theme: enterprise-admin
@@ -102,14 +103,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-01-28 · Gemini CLI · [[Changes/Gemini CLI/2026-01-28-feat-admin-implement-admin-controls-polling-and-restart-prompt-by-skeshive-in-ht|feat(admin): implement admin controls polling and restart prompt]]
-- Later: 2026-02-25 · Gemini CLI · [[Changes/Gemini CLI/2026-02-25-feat-admin-add-admin-controls-documentation-by-skeshive-in-https-github-com-goog|feat(admin): Add admin controls documentation]]
+- Earlier: 2026-02-05 · Lovable · [[Changes/Lovable/2026-02-05-default-design-templates-business-and-enterprise|Default design templates (Business and Enterprise)]]
+- Later: 2026-02-12 · Claude · [[Changes/Claude/2026-02-12-self-serve-enterprise-plans|Self-serve Enterprise plans]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-03-20 · Cursor · [[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin improvements: Team admins can now mark themselves as unpaid users and can see…]]
+- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

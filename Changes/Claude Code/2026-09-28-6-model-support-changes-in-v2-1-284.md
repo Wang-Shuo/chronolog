@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: fc75586534efad8fb3bb84e8319ec356b25ebe3b959e3de2c0de86ad9554e405
+machine_hash: ffa57998a9e1e2aea9458c25bf56a21ff46615b088e09f45989c705781838155
 product: claude-code
 product_name: Claude Code
 record:
@@ -61,12 +61,11 @@ record:
   title: 6 Model Support changes in v2.1.284
   type: change
 related_changes:
-- '[[Changes/Cline/2026-09-24-3-model-support-changes-in-v4-1-21|3 Model Support changes
-  in v4.1.21]]'
-- '[[Changes/Claude Code/2026-09-25-3-model-support-changes-in-v2-1-283|3 Model Support
-  changes in v2.1.283]]'
-- '[[Changes/Codex CLI/2026-09-25-8-model-support-changes-in-rust-v0-157-0|8 Model
-  Support changes in rust-v0.157.0]]'
+- '[[Changes/Ollama/2026-09-25-5-model-support-changes-in-v0-40-0|5 Model Support
+  changes in v0.40.0]]'
+- '[[Changes/Replit/2026-09-25-build-with-new-openai-and-anthropic-models|Build with
+  new OpenAI and Anthropic models]]'
+- '[[Changes/Claude/2026-09-28-claude-sonnet-5-5-launch|Claude Sonnet 5.5 launch]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-28-v2-1-284-github-398457074-cbb49e49|claude-code-2026-09-28-v2-1-284-github-398457074-cbb49e49]]'
 source_type: github_releases
 theme: model-support
@@ -121,7 +120,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.284
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-09-25 · Codex CLI · [[Changes/Codex CLI/2026-09-25-8-model-support-changes-in-rust-v0-157-0|8 Model Support changes in rust-v0.157.0]]
+- Earlier: 2026-09-28 · Claude · [[Changes/Claude/2026-09-28-claude-sonnet-5-5-launch|Claude Sonnet 5.5 launch]]
 - Later: 2026-09-28 · Codex CLI · [[Changes/Codex CLI/2026-09-28-7-model-support-changes-in-rust-v0-158-0|7 Model Support changes in rust-v0.158.0]]
 <!-- chronolog:end -->
 

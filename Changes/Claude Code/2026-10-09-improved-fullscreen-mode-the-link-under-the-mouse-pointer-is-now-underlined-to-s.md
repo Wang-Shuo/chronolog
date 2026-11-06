@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4538dd074fc538172759ac172fc23d630fecf46db9c02bb13c0f125119d9dae3
+machine_hash: e578fb4884bee9b7142574b251e4fe82ddfef56cf5186995ec869f81a861efba
 product: claude-code
 product_name: Claude Code
 record:
@@ -87,7 +87,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-10-08 · OpenHands · [[Changes/OpenHands/2026-10-08-test-e2e-open-commits-from-the-tabs-pane-s-own-menu-by-enyst-in-https-github-com|test(e2e): open Commits from the tabs pane's own menu]]
-- Later: 2026-10-12 · OpenHands · [[Changes/OpenHands/2026-10-12-feat-add-compact-section-navigation-on-tablets-by-enyst-in-https-github-com-open|feat: add compact section navigation on tablets]]
+- Later: 2026-10-10 · Open WebUI · [[Changes/Open WebUI/2026-10-10-18-interface-experience-changes-in-v0-12-0|18 Interface Experience changes in v0.12.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

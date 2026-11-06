@@ -4,20 +4,20 @@ date: '2025-09-04'
 description: 'Gemini CLI · 2025-09-04 · Enterprise and Administration: 2 changes in
   Release v0.3.0 — Add enterprise settings docs by @chrstnb in…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin
-    improvements: Team admins can now mark themselves as unpaid users and can see…]]'
+  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
+    for Google Workspace accounts]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 533
+  lag_days: 853
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: fe847a187167feab90b8981c32cdd26dc237c40550100314a136d0f8be7531a9
+machine_hash: 913000f385abe0fd57686cfd3029ccf6b5342324dee18ad73667aed73b47def1
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -42,10 +42,9 @@ record:
   title: 2 Enterprise and Administration changes in v0.3.0
   type: change
 related_changes:
-- '[[Changes/Windsurf/2025-07-17-important-for-enterprise-customers-who-use-windsurf-across-lots-of-repos-now-you|Important
-  for enterprise customers who use Windsurf across lots of repos]]'
-- '[[Changes/Cursor/2025-07-29-allow-team-admins-to-configure-an-extension-allowlist|Allow
-  team admins to configure an extension allowlist]]'
+- '[[Changes/Replit/2025-08-22-multiple-sso-providers-for-enterprise|Multiple SSO
+  providers for Enterprise]]'
+- '[[Changes/Replit/2025-08-22-teams-and-enterprise|Teams and Enterprise]]'
 - '[[Changes/ChatGPT/2025-09-03-projects-bring-your-chats-and-files-into-one-place-helping-you-stay-focused-and-96a40d|Projects
   Now Available on ChatGPT Free Tier]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-09-04-v0-3-0-github-244870431-556b0abc|gemini-cli-2025-09-04-v0-3-0-github-244870431-556b0abc]]'
@@ -94,13 +93,13 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.3.0
 ## Nearby in Enterprise and Administration
 
 - Earlier: 2025-09-03 · ChatGPT · [[Changes/ChatGPT/2025-09-03-projects-bring-your-chats-and-files-into-one-place-helping-you-stay-focused-and-96a40d|Projects Now Available on ChatGPT Free Tier]]
-- Later: 2025-10-29 · Cursor · [[Changes/Cursor/2025-10-29-cursor-for-enterprise|Cursor for Enterprise]]
+- Later: 2025-09-09 · Open WebUI · [[Changes/Open WebUI/2025-09-09-looking-for-an-enterprise-plan-https-docs-openwebui-com-enterprise-speak-with-ou| Looking for an Enterprise Plan((source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-03-20 · Cursor · [[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin improvements: Team admins can now mark themselves as unpaid users and can see…]]
+- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

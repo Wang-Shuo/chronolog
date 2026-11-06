@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5a9e4433e66a9b5994c2e73cba6b06cd2b9385a8f79ff66ea4d01dbf9bf2d310
+machine_hash: dfd27506696e84eb1c29faca7efb388cd389783e86727b70e52c2af8d9db411c
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,12 @@ record:
   title: MCP tool calls running longer than 2 minutes now move to the background…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-14-3-apps-and-integrations-changes-in-v2-1-208|3
-  Apps and Integrations changes in v2.1.208]]'
-- '[[Changes/Claude Code/2026-07-15-2-apps-and-integrations-changes-in-v2-1-211|2
-  Apps and Integrations changes in v2.1.211]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-16-16-apps-and-integrations-changes-in-v1-0-71|16
   Apps and Integrations changes in v1.0.71]]'
+- '[[Changes/Lovable/2026-07-16-reuse-your-workspace-identity-in-the-apps-you-build|Reuse
+  your workspace identity in the apps you build]]'
+- '[[Changes/Lovable/2026-07-16-connect-your-app-to-apollo-io|Connect your app to
+  Apollo.io]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-17-v2-1-212-github-355310036-d94b4e11|claude-code-2026-07-17-v2-1-212-github-355310036-d94b4e11]]'
 source_type: github_releases
 theme: apps-integrations
@@ -85,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-07-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-16-16-apps-and-integrations-changes-in-v1-0-71|16 Apps and Integrations changes in v1.0.71]]
+- Earlier: 2026-07-16 · Lovable · [[Changes/Lovable/2026-07-16-connect-your-app-to-apollo-io|Connect your app to Apollo.io]]
 - Later: 2026-07-17 · Cursor · [[Changes/Cursor/2026-07-17-cursor-in-slack-now-shares-a-plan-before-it-starts-runs-in-multi-repo-environmen|Cursor in Slack now shares a plan before it starts, runs in multi-repo environments…]]
 <!-- chronolog:end -->
 

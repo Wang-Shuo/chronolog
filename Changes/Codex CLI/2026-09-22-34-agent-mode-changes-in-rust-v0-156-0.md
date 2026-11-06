@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b17989c5c8b414c858c0bc8403a791d473da0ec33aa73c2856abcb8326387e14
+machine_hash: abe03715ab6ed36fd2c81fc261a829eb0390f882d8576e6b808cba163ec3167a
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -112,8 +112,8 @@ record:
   title: 34 Agent Mode changes in rust-v0.156.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-09-21-show-live-elapsed-time-for-execution-subagents-in-timeline-entries|Show
-  live elapsed time for execution subagents in timeline entries]]'
+- '[[Changes/Lovable/2026-09-21-manage-agent-permissions-from-your-account-settings|Manage
+  agent permissions from your account settings]]'
 - '[[Changes/Claude Code/2026-09-22-2-agent-mode-changes-in-v2-1-280|2 Agent Mode
   changes in v2.1.280]]'
 - '[[Changes/Cline/2026-09-22-2-agent-mode-changes-in-v4-1-20|2 Agent Mode changes

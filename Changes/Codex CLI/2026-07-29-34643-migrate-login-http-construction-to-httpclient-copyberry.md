@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 18bbe01107c9adeeb629ebcd30bf121421239ed87d362e72ee585fe045a72155
+machine_hash: 2fb107fe4f1ae51a26f8912cf18c9aee10bdf9ed9157b24922fb9f726f10673e
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -41,12 +41,12 @@ record:
   title: '#34643 Migrate login HTTP construction to `HttpClient` @copyberry'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-17-updated-the-auth-status-panel-title-from-cloud-authentication-to-authentication|Updated
-  the auth status panel title from "Cloud authentication" to "Authentication"]]'
-- '[[Changes/Claude Code/2026-07-21-changed-the-login-expiry-warning-to-appear-3-days-before-expiry-instead-of-5|Changed
-  the login-expiry warning to appear 3 days before expiry instead of 5]]'
-- '[[Changes/Codex CLI/2026-07-21-9-account-and-access-changes-in-rust-v0-145-0|9
-  Account and Access changes in rust-v0.145.0]]'
+- '[[Changes/Lovable/2026-07-24-report-abuse-and-submit-appeals-with-guided-forms|Report
+  abuse and submit appeals with guided forms]]'
+- '[[Changes/Open WebUI/2026-07-27-15-account-and-access-changes-in-v0-11-0|15 Account
+  and Access changes in v0.11.0]]'
+- '[[Changes/Dify/2026-07-28-6-account-and-access-changes-in-1-16-1|6 Account and
+  Access changes in 1.16.1]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-07-29-rust-v0-146-0-github-361463950-6d491983|codex-cli-2026-07-29-rust-v0-146-0-github-361463950-6d491983]]'
 source_type: github_releases
 theme: account-access
@@ -90,7 +90,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-07-21 · Codex CLI · [[Changes/Codex CLI/2026-07-21-9-account-and-access-changes-in-rust-v0-145-0|9 Account and Access changes in rust-v0.145.0]]
+- Earlier: 2026-07-28 · Dify · [[Changes/Dify/2026-07-28-6-account-and-access-changes-in-1-16-1|6 Account and Access changes in 1.16.1]]
 - Later: 2026-07-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-30-add-a-browser-based-web-oauth-login-flow-now-the-default-for-copilot-login-on-lo|Add a browser-based (web) OAuth login flow, now the default for copilot login…]]
 <!-- chronolog:end -->
 

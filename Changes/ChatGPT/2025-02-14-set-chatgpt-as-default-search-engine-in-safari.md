@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1c57897387d81baaf00a9b297fe1f85879ff17ea803699149ce06bd8bba313d9
+machine_hash: fc7da57aa0ecd7306c843f764e162d54ea1ac076b5680b3caf29bfe1cd8cc979
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -43,12 +43,11 @@ record:
   title: Set ChatGPT as default search engine in Safari
   type: change
 related_changes:
-- '[[Changes/OpenHands/2024-11-04-allow-codeact-agent-to-perform-web-browsing-by-itself-no-more-delegation-to-brow|Allow
-  CodeAct agent to perform web browsing by itself…]]'
-- '[[Changes/OpenHands/2024-12-04-added-alignment-checker-for-browsing-agent-by-s-aniruddha-in-https-github-com-al|Added
-  Alignment checker for browsing agent]]'
-- '[[Changes/Cline/2024-12-12-the-model-context-protocol-https-github-com-modelcontextprotocol-allows-agents-l|The
-  Model Context Protocol((source link) allows agents…]]'
+- '[[Changes/Replit/2025-01-31-object-storage-improvements|Object Storage improvements]]'
+- '[[Changes/Open WebUI/2025-02-05-3-search-and-browsing-changes-in-v0-5-8|3 Search
+  and Browsing changes in v0.5.8]]'
+- '[[Changes/Open WebUI/2025-02-13-2-search-and-browsing-changes-in-v0-5-11|2 Search
+  and Browsing changes in v0.5.11]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-02-14-set-chatgpt-as-default-search-engine-in-safari-11ec014b|chatgpt-2025-02-14-set-chatgpt-as-default-search-engine-in-safari-11ec014b]]'
 source_type: chatgpt_changelog
 theme: search-browsing
@@ -81,8 +80,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Search and Browsing
 
-- Earlier: 2024-12-12 · Cline · [[Changes/Cline/2024-12-12-the-model-context-protocol-https-github-com-modelcontextprotocol-allows-agents-l|The Model Context Protocol((source link) allows agents…]]
-- Later: 2025-02-19 · Cursor · [[Changes/Cursor/2025-02-19-web-search-agent-can-now-automatically-search-the-web-for-up-to-date-information|Web search: Agent can now automatically search the web for up-to-date information…]]
+- Earlier: 2025-02-13 · Open WebUI · [[Changes/Open WebUI/2025-02-13-2-search-and-browsing-changes-in-v0-5-11|2 Search and Browsing changes in v0.5.11]]
+- Later: 2025-02-18 · Open WebUI · [[Changes/Open WebUI/2025-02-18-2-search-and-browsing-changes-in-v0-5-13|2 Search and Browsing changes in v0.5.13]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

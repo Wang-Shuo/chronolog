@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2a5ba66f3d23837700a3dcb2d525c7c6dbddc93b4a49f6c87ac37dc65b637aca
+machine_hash: 1bc7e79e4e605a9b8c220ea60e64ba562180bdbd3928b96c8dc4357448f72001
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,8 +46,8 @@ record:
   title: Improved apps gateway error forwarding
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-08-11-refactor-exclude-transient-ci-configuration-files-from-workspace-context-by-davi|Refactor:
-  exclude transient CI configuration files from workspace context]]'
+- '[[Changes/Lovable/2026-08-11-readable-previews-for-attached-files|Readable previews
+  for attached files]]'
 - '[[Changes/Claude Code/2026-08-12-improved-prompt-is-too-long-errors-to-explain-why-automatic-compaction-could-not|Improved
   "prompt is too long" errors to explain why automatic compaction could not…]]'
 - '[[Changes/OpenHands/2026-08-13-feat-context-window-usage-meter-usage-drawer-and-manual-compaction-by-georgeglar|feat:
@@ -89,7 +89,7 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2026-08-13 · OpenHands · [[Changes/OpenHands/2026-08-13-feat-context-window-usage-meter-usage-drawer-and-manual-compaction-by-georgeglar|feat: context window usage meter, usage drawer, and manual compaction]]
-- Later: 2026-08-17 · Claude Code · [[Changes/Claude Code/2026-08-17-2-context-window-changes-in-v2-1-234|2 Context Window changes in v2.1.234]]
+- Later: 2026-08-14 · v0 · [[Changes/v0/2026-08-14-redesigned-the-sidebar-resize-it-to-a-width-that-persists-across-sessions-chats|Redesigned the sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

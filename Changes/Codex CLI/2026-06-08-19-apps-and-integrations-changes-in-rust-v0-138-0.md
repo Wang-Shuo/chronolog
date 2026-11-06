@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e21abc9e9f87cfe81823a548f7d43590a6f87563060a3794239f9d5912b6f443
+machine_hash: 280bee5d84e9647984c8bd2aefe33b9d3d54bf27c0bed54f1d0141c83545e325
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -81,12 +81,11 @@ record:
   title: 19 Apps and Integrations changes in rust-v0.138.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-05-mcp-tools-added-or-removed-by-a-server-mid-turn-are-now-available-immediately-in|MCP
-  tools added or removed by a server mid-turn are now available immediately…]]'
-- '[[Changes/GitHub Copilot CLI/2026-06-05-10-apps-and-integrations-changes-in-v1-0-60|10
-  Apps and Integrations changes in v1.0.60]]'
+- '[[Changes/Replit/2026-06-05-integrations|Integrations]]'
 - '[[Changes/Claude Code/2026-06-06-added-glob-pattern-support-in-deny-rule-tool-name-position-denies-all-tools-allo|Added
   glob pattern support in deny rule tool-name position ("" denies all tools)]]'
+- '[[Changes/Ollama/2026-06-07-ollama-launch-now-supports-hermes-desktop-a-native-desktop-interface-for-the-her|Ollama
+  Launch now supports Hermes Desktop, a native desktop interface for the Hermes agent]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-06-08-rust-v0-138-0-github-336275797-115d015a|codex-cli-2026-06-08-rust-v0-138-0-github-336275797-115d015a]]'
 source_type: github_releases
 theme: apps-integrations
@@ -162,8 +161,8 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.138.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-06-06 · Claude Code · [[Changes/Claude Code/2026-06-06-added-glob-pattern-support-in-deny-rule-tool-name-position-denies-all-tools-allo|Added glob pattern support in deny rule tool-name position ("" denies all tools)]]
-- Later: 2026-06-09 · Codex CLI · [[Changes/Codex CLI/2026-06-09-8-apps-and-integrations-changes-in-rust-v0-139-0|8 Apps and Integrations changes in rust-v0.139.0]]
+- Earlier: 2026-06-07 · Ollama · [[Changes/Ollama/2026-06-07-ollama-launch-now-supports-hermes-desktop-a-native-desktop-interface-for-the-her|Ollama Launch now supports Hermes Desktop, a native desktop interface for the Hermes agent]]
+- Later: 2026-06-08 · ElevenLabs · [[Changes/ElevenLabs/2026-06-08-sdk-releases|SDK Releases]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

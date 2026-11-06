@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: c2b9f6981e9b607100a178b6ce270c68af3831ffa1f0de64fa66bc6aa2462596
+machine_hash: f86c37b9683a0bd8e2497713e9971d00e69425f6f278ea5fd32a5bd3a6e938e9
 product: claude-code
 product_name: Claude Code
 record:
@@ -60,10 +60,9 @@ record:
     the IDE)'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-05-28-today-we-re-continuing-to-retire-older-models-with-limited-usage-in-chatgpt-so-w|Retiring
-  OpenAI o3 and GPT-4.5]]'
 - '[[Changes/ChatGPT/2026-05-28-we-re-updating-gpt-5-5-instant-in-chatgpt-and-the-api-to-improve-response-style|GPT-5.5
   Instant Update]]'
+- '[[Changes/Claude/2026-05-28-claude-opus-4-8-launch|Claude Opus 4.8 launch]]'
 - '[[Changes/Claude Code/2026-05-28-5-model-support-changes-in-v2-1-154|5 Model Support
   changes in v2.1.154]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-28-v2-1-153-github-330532213-2fa9c18a|claude-code-2026-05-28-v2-1-153-github-330532213-2fa9c18a]]'

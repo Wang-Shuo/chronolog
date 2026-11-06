@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7fd7aea123df04bb4b949e9cf7abb4fb1542d83cc84f2e6b46f3bed8c19a5eb0
+machine_hash: 934fe3815a42a80154b096a1dd51ad4d0c2fbee9c33e81774a51d2d287bd065d
 product: claude-code
 product_name: Claude Code
 record:
@@ -67,12 +67,11 @@ record:
   title: 8 Apps and Integrations changes in v2.1.280
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-09-17-resuming-an-active-session-without-plugin-directory-discovery-or-working-directo|Resuming
-  an active session without plugin-directory, discovery, or working-directory…]]'
-- '[[Changes/Claude Code/2026-09-18-6-apps-and-integrations-changes-in-v2-1-277|6
-  Apps and Integrations changes in v2.1.277]]'
+- '[[Changes/ElevenLabs/2026-09-21-sdk-releases|SDK releases]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-21-8-apps-and-integrations-changes-in-v1-0-87|8
   Apps and Integrations changes in v1.0.87]]'
+- '[[Changes/Open WebUI/2026-09-21-3-apps-and-integrations-changes-in-v0-11-4|3 Apps
+  and Integrations changes in v0.11.4]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-22-v2-1-280-github-393879189-1cf5db2b|claude-code-2026-09-22-v2-1-280-github-393879189-1cf5db2b]]'
 source_type: github_releases
 theme: apps-integrations
@@ -125,7 +124,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.280
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-09-21 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-21-8-apps-and-integrations-changes-in-v1-0-87|8 Apps and Integrations changes in v1.0.87]]
+- Earlier: 2026-09-21 · Open WebUI · [[Changes/Open WebUI/2026-09-21-3-apps-and-integrations-changes-in-v0-11-4|3 Apps and Integrations changes in v0.11.4]]
 - Later: 2026-09-22 · Codex CLI · [[Changes/Codex CLI/2026-09-22-42-apps-and-integrations-changes-in-rust-v0-156-0|42 Apps and Integrations changes in rust-v0.156.0]]
 <!-- chronolog:end -->
 

@@ -4,20 +4,20 @@ date: '2026-03-19'
 description: 'Codex CLI · 2026-03-19 · Voice and Audio: 2 changes in 0.116.0 — Realtime
   sessions now start with recent thread context and are less likely to self-interrupt…'
 diffusion:
-  first_in_tracked: '[[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source
-    link) support, which allows you…]]'
+  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
+    Voice and Audio changes in 0.3.7]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 951
+  lag_days: 983
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 63a60533e829b73c19979154066186182f4ce3fa314227a0733531062f8b79ca
+machine_hash: 4b8ae320a646370faf5d814ee505c6741381a1cb73d5da54499def6d6b4f3d63
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,10 +43,9 @@ record:
   title: 2 Voice and Audio changes in rust-v0.116.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-14-improved-voice-to-show-your-dictation-language-on-enable-and-warn-when-your-lang|Improved
-  /voice to show your dictation language on enable and warn…]]'
 - '[[Changes/Codex CLI/2026-03-16-4-voice-and-audio-changes-in-rust-v0-115-0|4 Voice
   and Audio changes in rust-v0.115.0]]'
+- '[[Changes/ElevenLabs/2026-03-16-packages|Packages]]'
 - '[[Changes/Gemini CLI/2026-03-17-feat-voice-implement-speech-friendly-response-formatter-by-ayush31010-in-https-g|feat(voice):
   implement speech-friendly response formatter]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-03-19-rust-v0-116-0-github-299083035-eb74e2fd|codex-cli-2026-03-19-rust-v0-116-0-github-299083035-eb74e2fd]]'
@@ -92,13 +91,13 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.116.0
 ## Nearby in Voice and Audio
 
 - Earlier: 2026-03-17 · Gemini CLI · [[Changes/Gemini CLI/2026-03-17-feat-voice-implement-speech-friendly-response-formatter-by-ayush31010-in-https-g|feat(voice): implement speech-friendly response formatter]]
-- Later: 2026-03-26 · Claude Code · [[Changes/Claude Code/2026-03-26-slash-commands-unavailable-for-the-current-auth-setup-voice-mobile-chrome-upgrad|Slash commands unavailable for the current auth setup…]]
+- Later: 2026-03-23 · ElevenLabs · [[Changes/ElevenLabs/2026-03-23-speech-to-text|Speech to Text]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-08-11 · Aider · [[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source link) support, which allows you…]]
+- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

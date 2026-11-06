@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e1a3add785f2ad767c3cce93d2737e93c6be5188d69e7d43ed97548fd4f04181
+machine_hash: 0a68627db655fea0a2bfc30f4af39a5b6ffdde6f1f977f99086644daee923c91
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -77,7 +77,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2025-10-19 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-10-19-for-more-information-see-https-github-com-github-copilot-cli-issues-351-issuecom|For more information, see…]]
-- Later: 2025-10-22 · Gemini CLI · [[Changes/Gemini CLI/2025-10-22-4-editor-experience-changes-in-v0-10-0|4 Editor Experience changes in v0.10.0]]
+- Later: 2025-10-21 · v0 · [[Changes/v0/2025-10-21-you-can-now-preview-markdown-and-svgs-inside-v0-s-editor|Markdown and SVG Preview]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

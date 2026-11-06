@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f83ce00d9ffad5f4f6622e954fe5d5678d42a02f9511f8da69efd22fe36ea462
+machine_hash: f5a6f34e873fc05b7b2c7d27bce8045472cc2052e2c2d2c0e01cb3c3599d17da
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,10 +42,8 @@ record:
   title: 2 Agent Mode changes in v2.1.20
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-01-25-2-agent-mode-changes-in-rust-v0-91-0|2 Agent Mode
-  changes in rust-v0.91.0]]'
-- '[[Changes/Codex CLI/2026-01-25-2-agent-mode-changes-in-rust-v0-90-0|2 Agent Mode
-  changes in rust-v0.90.0]]'
+- '[[Changes/ElevenLabs/2026-01-26-agents-platform-89c04a|Agents Platform]]'
+- '[[Changes/ElevenLabs/2026-01-26-new-schemas|New Schemas]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-26-load-local-shell-configuration-in-agent-sessions|Load
   local shell configuration in agent sessions]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-27-v2-1-20-github-280123443-38431f59|claude-code-2026-01-27-v2-1-20-github-280123443-38431f59]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4193a1519ede175184f851cec2527b61d6ceec443ca671b872bedc7eddea528a
+machine_hash: 612262c7a9cd71ab59d627bb0a6a4feee03879c138971e5ccc8b092fd740d2a2
 product: cline
 product_name: Cline
 record:
@@ -42,12 +42,11 @@ record:
   title: Adding Anthropic opus 4.1
   type: change
 related_changes:
-- '[[Changes/Cline/2025-07-31-4-model-support-changes-in-v3-20-3|4 Model Support changes
-  in v3.20.3]]'
-- '[[Changes/Cline/2025-08-01-update-cerebras-models-by-arafatkatze-in-https-github-com-cline-cline-pull-5282|Update
-  Cerebras models]]'
+- '[[Changes/Gemini/2025-08-01-solve-your-most-complex-problems-with-gemini-2-5-deep-think|Solve
+  your most complex problems with Gemini 2.5 Deep Think]]'
 - '[[Changes/Gemini CLI/2025-08-02-20-model-support-changes-in-v0-1-16|20 Model Support
   changes in v0.1.16]]'
+- '[[Changes/Claude/2025-08-05-claude-opus-4-1|Claude Opus 4.1]]'
 source_release: '[[Releases/Cline/cline-2025-08-05-v3-20-9-github-237738774-2aa14d1a|cline-2025-08-05-v3-20-9-github-237738774-2aa14d1a]]'
 source_type: github_releases
 theme: model-support
@@ -78,7 +77,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-08-02 · Gemini CLI · [[Changes/Gemini CLI/2025-08-02-20-model-support-changes-in-v0-1-16|20 Model Support changes in v0.1.16]]
+- Earlier: 2025-08-05 · Claude · [[Changes/Claude/2025-08-05-claude-opus-4-1|Claude Opus 4.1]]
 - Later: 2025-08-05 · Codex CLI · [[Changes/Codex CLI/2025-08-05-introduces-the-oss-flag-so-codex-cli-can-be-used-with-the-new-open-weight-models|Introduces the --oss flag so Codex CLI can be used with the new open-weight models…]]
 <!-- chronolog:end -->
 

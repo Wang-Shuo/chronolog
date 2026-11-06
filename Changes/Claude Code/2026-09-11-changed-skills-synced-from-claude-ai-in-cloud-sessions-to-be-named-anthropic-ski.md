@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a985f5e6ab8308f548178695d2b1f92ba8645a05bfe62a78a4991a09ec6adfa4
+machine_hash: 9681d7b0b0790758f04d216f6997f60c4ee388c094abff10267e7c8eb3a2808f
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,8 +44,8 @@ record:
   title: Changed skills synced from claude.ai in cloud sessions to be named…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-09-6-mobile-and-desktop-changes-in-rust-v0-154-0|6
-  Mobile and Desktop changes in rust-v0.154.0]]'
+- '[[Changes/Dify/2026-09-10-skill-packages-built-on-windows-failed-with-a-misleading-error-a-skill-md-using|Skill
+  packages built on Windows failed with a misleading error. A SKILL.md…]]'
 - '[[Changes/Windsurf/2026-09-10-introducing-fusion-in-devin-desktop-and-devin-cli-https-exafunction-github-io-pu|!Introducing
   Fusion in Devin Desktop and Devin…]]'
 - '[[Changes/Windsurf/2026-09-10-devin-desktop|Devin Desktop]]'

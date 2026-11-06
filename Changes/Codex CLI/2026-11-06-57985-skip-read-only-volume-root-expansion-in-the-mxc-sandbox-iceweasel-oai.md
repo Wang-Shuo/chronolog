@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c82b9b75944decc1f7feb2c6d9af77f7ec41f078a6e73f11cba288b900d080b8
+machine_hash: 694d1bfbfb220f928ad4b2f97216f0f10dcbaf691095e787fcece08c9eb6e2a1
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,10 +43,10 @@ record:
   title: '#57985 Skip read-only volume-root expansion in the MXC sandbox @iceweasel-oai'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-29-10-safety-and-privacy-changes-in-rust-v0-166-0|10
-  Safety and Privacy changes in rust-v0.166.0]]'
-- '[[Changes/Claude Code/2026-10-30-10-safety-and-privacy-changes-in-v2-1-314|10 Safety
-  and Privacy changes in v2.1.314]]'
+- '[[Changes/Open WebUI/2026-11-03-2-safety-and-privacy-changes-in-v0-13-0|2 Safety
+  and Privacy changes in v0.13.0]]'
+- '[[Changes/Dify/2026-11-04-4-safety-and-privacy-changes-in-1-19-0|4 Safety and Privacy
+  changes in 1.19.0]]'
 - '[[Changes/Gemini CLI/2026-11-04-fix-acp-include-mcp-server-and-tool-metadata-in-permission-requests-by-duvanka-p|fix(acp):
   include MCP server and tool metadata in permission requests]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-11-06-rust-v0-167-0-github-435979892-a2e140bc|codex-cli-2026-11-06-rust-v0-167-0-github-435979892-a2e140bc]]'

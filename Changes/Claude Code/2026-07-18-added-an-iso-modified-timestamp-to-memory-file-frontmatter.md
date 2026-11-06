@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f7303a2e327dbabbdff5356d7f657a8901417acaf2fe6924be30536fb44213a1
+machine_hash: 87b1cd532e865fe3156825902d509f23ecf8b0bd24c4a00b3d0b1bc7567e6fb9
 product: claude-code
 product_name: Claude Code
 record:
@@ -41,12 +41,12 @@ record:
   title: Added an ISO `modified` timestamp to memory file frontmatter
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-07-15-we-re-increasing-the-character-limit-for-custom-instructions-in-chatgpt-plus-pro|Increased
-  custom instructions limit]]'
 - '[[Changes/Claude Code/2026-07-15-improved-the-memory-index-over-limit-warning-to-measure-only-loaded-content-excl|Improved
   the memory index over-limit warning to measure only loaded content…]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-16-refresh-memory-context-after-30-minutes-in-long-lived-sessions|Refresh
   memory context after 30 minutes in long-lived sessions]]'
+- '[[Changes/Dify/2026-07-17-perf-memory-batch-load-message-files-in-tokenbuffermemory-to-remove-n-1-queries|perf(memory):
+  batch-load message files in TokenBufferMemory to remove N+1 queries]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-18-v2-1-214-github-355973317-478680c5|claude-code-2026-07-18-v2-1-214-github-355973317-478680c5]]'
 source_type: github_releases
 theme: memory
@@ -79,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2026-07-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-16-refresh-memory-context-after-30-minutes-in-long-lived-sessions|Refresh memory context after 30 minutes in long-lived sessions]]
+- Earlier: 2026-07-17 · Dify · [[Changes/Dify/2026-07-17-perf-memory-batch-load-message-files-in-tokenbuffermemory-to-remove-n-1-queries|perf(memory): batch-load message files in TokenBufferMemory to remove N+1 queries]]
 - Later: 2026-07-21 · Codex CLI · [[Changes/Codex CLI/2026-07-21-11-memory-and-personalization-changes-in-rust-v0-145-0|11 Memory and Personalization changes in rust-v0.145.0]]
 <!-- chronolog:end -->
 

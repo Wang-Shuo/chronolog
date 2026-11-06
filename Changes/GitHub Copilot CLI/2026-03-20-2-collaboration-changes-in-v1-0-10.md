@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7af8fd948d78148493e6fd78b29588b5a12b08c9b8cfca1762ecb87a232e7f4f
+machine_hash: f34698cbc7c8d582d589913edba20f6e6bf5cc6096655d6abf74055960d246cb
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,12 +44,11 @@ record:
   title: 2 Collaboration changes in v1.0.10
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-06-block-share-gist-for-emu-and-ghe-cloud-users-with-clear-error-messaging|Block
-  /share gist for EMU and GHE Cloud users with clear error messaging]]'
-- '[[Changes/Codex CLI/2026-03-10-14117-feat-otel-centralize-otel-metric-names-and-shared-tag-builders-owenlin0|♯14117
-  feat(otel): Centralize OTEL metric names and shared tag builders @owenlin0]]'
-- '[[Changes/GitHub Copilot CLI/2026-03-11-session-export-header-renders-each-field-on-its-own-line-in-shared-gists|Session
-  export header renders each field on its own line in shared gists]]'
+- '[[Changes/Lovable/2026-03-16-workspace-knowledge|Workspace knowledge]]'
+- '[[Changes/v0/2026-03-16-added-support-for-linking-team-skills-to-design-systems|Added
+  support for linking team skills to design systems]]'
+- '[[Changes/Dify/2026-03-17-refactor-web-split-share-text-generation-and-add-high-coverage-tests-by-codingon|refactor(web):
+  split share text-generation and add high-coverage tests]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-03-20-v1-0-10-github-299512094-807f990b|github-copilot-cli-2026-03-20-v1-0-10-github-299512094-807f990b]]'
 source_type: github_releases
 theme: collaboration
@@ -89,7 +88,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.10
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-03-11 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-11-session-export-header-renders-each-field-on-its-own-line-in-shared-gists|Session export header renders each field on its own line in shared gists]]
+- Earlier: 2026-03-17 · Dify · [[Changes/Dify/2026-03-17-refactor-web-split-share-text-generation-and-add-high-coverage-tests-by-codingon|refactor(web): split share text-generation and add high-coverage tests]]
 - Later: 2026-03-25 · Claude Code · [[Changes/Claude Code/2026-03-25-added-managed-settings-d-drop-in-directory-alongside-managed-settings-json-letti|Added managed-settings.d/ drop-in directory alongside managed-settings.json…]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 754ba8483fb3d59ddc862b29a08c3dbc752dcbc97093afc4ad6e1d9c9ac9d5eb
+machine_hash: 683316793716e44814b709470ad8279fc3a56b777b81a2aceec2641793a9d4a7
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -42,12 +42,12 @@ record:
   title: 'refactor(memory): replace MemoryManagerAgent with prompt-driven memory editing…'
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-04-23-4-memory-and-personalization-changes-in-v0-39-0|4
-  Memory and Personalization changes in v0.39.0]]'
 - '[[Changes/Cline/2026-04-24-improve-cline-core-memory-diagnostics-used-by-the-extension-runtime|Improve
   cline-core memory diagnostics used by the extension runtime]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-24-custom-instruction-files-in-gitignored-directories-e-g-github-instructions-now-l|Custom
   instruction files in .gitignored directories (e.g., .github/instructions/)…]]'
+- '[[Changes/Open WebUI/2026-04-24-2-memory-and-personalization-changes-in-v0-9-2|2
+  Memory and Personalization changes in v0.9.2]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-04-28-v0-40-0-github-314816403-89c506a5|gemini-cli-2026-04-28-v0-40-0-github-314816403-89c506a5]]'
 source_type: github_releases
 theme: memory
@@ -83,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2026-04-24 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-24-custom-instruction-files-in-gitignored-directories-e-g-github-instructions-now-l|Custom instruction files in .gitignored directories (e.g., .github/instructions/)…]]
+- Earlier: 2026-04-24 · Open WebUI · [[Changes/Open WebUI/2026-04-24-2-memory-and-personalization-changes-in-v0-9-2|2 Memory and Personalization changes in v0.9.2]]
 - Later: 2026-04-30 · Codex CLI · [[Changes/Codex CLI/2026-04-30-12-memory-and-personalization-changes-in-rust-v0-128-0|12 Memory and Personalization changes in rust-v0.128.0]]
 <!-- chronolog:end -->
 

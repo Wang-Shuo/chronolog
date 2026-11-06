@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2c8e264d52a116252192513e9299f26ac706fa56c7006910497feb356ec93f8a
+machine_hash: d64f3df20dbe84ceba9f6d9243795f6c4ca3e7cd98acda8735f687e6aae0e337
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,12 +46,12 @@ record:
     measured…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-10-2-editor-experience-changes-in-v1-0-70|2
-  Editor Experience changes in v1.0.70]]'
 - '[[Changes/Claude Code/2026-07-14-2-editor-experience-changes-in-v2-1-208|2 Editor
   Experience changes in v2.1.208]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-16-5-editor-experience-changes-in-v1-0-71|5
   Editor Experience changes in v1.0.71]]'
+- '[[Changes/Dify/2026-07-17-4-editor-experience-changes-in-1-16-0|4 Editor Experience
+  changes in 1.16.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-20-v2-1-216-github-356972381-87e422ae|claude-code-2026-07-20-v2-1-216-github-356972381-87e422ae]]'
 source_type: github_releases
 theme: editor-experience
@@ -84,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-07-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-16-5-editor-experience-changes-in-v1-0-71|5 Editor Experience changes in v1.0.71]]
+- Earlier: 2026-07-17 · Dify · [[Changes/Dify/2026-07-17-4-editor-experience-changes-in-1-16-0|4 Editor Experience changes in 1.16.0]]
 - Later: 2026-07-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-20-2-editor-experience-changes-in-v1-0-72|2 Editor Experience changes in v1.0.72]]
 <!-- chronolog:end -->
 

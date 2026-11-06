@@ -4,20 +4,20 @@ date: '2026-10-19'
 description: 'GitHub Copilot CLI · 2026-10-19 · Voice and Audio: Voice dictation no
   longer inserts language markers like <en-US> into transcript text'
 diffusion:
-  first_in_tracked: '[[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source
-    link) support, which allows you…]]'
+  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
+    Voice and Audio changes in 0.3.7]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1165
+  lag_days: 1197
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2e8519f34902b0110a467f3a5eb0b3532be37a357f0a2f23318d32171103f4d5
+machine_hash: 0ad88bc5fac5515c0d86cd7ba3fcd8e7784f4670cfbd4aec258334a04980899f
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,12 +43,9 @@ record:
     text
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-10-15-for-more-information-see-chatgpt-voice|For more information,
-  see: ChatGPT Voice]]'
-- '[[Changes/ChatGPT/2026-10-15-we-re-rolling-out-gpt-live-1-1-and-gpt-live-1-1-quip-a-mini-version-of-the-model|ChatGPT
-  rolls out GPT-Live-1.1 and GPT-Live-1.1 Quip, a mini version of the model…]]'
-- '[[Changes/Codex CLI/2026-10-15-4-voice-and-audio-changes-in-rust-v0-163-0|4 Voice
-  and Audio changes in rust-v0.163.0]]'
+- '[[Changes/ElevenLabs/2026-10-19-elevenagents|ElevenAgents]]'
+- '[[Changes/ElevenLabs/2026-10-19-voices|Voices]]'
+- '[[Changes/ElevenLabs/2026-10-19-voices-f9aa8c|Voices]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-10-19-v1-0-100-github-417622960-9e2e7578|github-copilot-cli-2026-10-19-v1-0-100-github-417622960-9e2e7578]]'
 source_type: github_releases
 theme: voice
@@ -91,14 +88,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-10-15 · Codex CLI · [[Changes/Codex CLI/2026-10-15-4-voice-and-audio-changes-in-rust-v0-163-0|4 Voice and Audio changes in rust-v0.163.0]]
-- Later: 2026-10-21 · Claude Code · [[Changes/Claude Code/2026-10-21-2-voice-and-audio-changes-in-v2-1-307|2 Voice and Audio changes in v2.1.307]]
+- Earlier: 2026-10-19 · ElevenLabs · [[Changes/ElevenLabs/2026-10-19-voices-f9aa8c|Voices]]
+- Later: 2026-10-19 · Lovable · [[Changes/Lovable/2026-10-19-faster-dictation|Faster dictation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-08-11 · Aider · [[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source link) support, which allows you…]]
+- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

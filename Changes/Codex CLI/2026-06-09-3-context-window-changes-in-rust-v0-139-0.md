@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e9567a16afbddd578fb2b3979a5f9a7d1a4792210561488cff06ec81b1abbd83
+machine_hash: 13dfc9c7404ab2d9468d5beb4a745c825bdf9d780ab5de85f9dfe596be296b6c
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -45,12 +45,12 @@ record:
   title: 3 Context Window changes in rust-v0.139.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-08-the-claude-md-is-too-long-warning-threshold-now-scales-with-the-model-s-context|The
-  "CLAUDE.md is too long" warning threshold now scales with the model''s context window]]'
 - '[[Changes/Claude Code/2026-06-08-added-cd-command-to-move-a-session-to-a-new-working-directory-without-breaking-t|Added
   /cd command to move a session to a new working directory without breaking…]]'
 - '[[Changes/Codex CLI/2026-06-08-4-context-window-changes-in-rust-v0-138-0|4 Context
   Window changes in rust-v0.138.0]]'
+- '[[Changes/v0/2026-06-08-press-cmd-k-to-open-a-new-context-aware-command-palette-and-jump-to-chats-projec|Press
+  Cmd+K to open a new context-aware command palette and jump to chats, projects…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-06-09-rust-v0-139-0-github-336847772-eda0ee6f|codex-cli-2026-06-09-rust-v0-139-0-github-336847772-eda0ee6f]]'
 source_type: github_releases
 theme: context-window
@@ -94,7 +94,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.139.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-06-08 · Codex CLI · [[Changes/Codex CLI/2026-06-08-4-context-window-changes-in-rust-v0-138-0|4 Context Window changes in rust-v0.138.0]]
+- Earlier: 2026-06-08 · v0 · [[Changes/v0/2026-06-08-press-cmd-k-to-open-a-new-context-aware-command-palette-and-jump-to-chats-projec|Press Cmd+K to open a new context-aware command palette and jump to chats, projects…]]
 - Later: 2026-06-12 · Claude Code · [[Changes/Claude Code/2026-06-12-vscode-added-usage-attribution-to-the-account-usage-dialog-usage-showing-cache-m|VSCode Added usage attribution to the Account & usage dialog (/usage) showing…]]
 <!-- chronolog:end -->
 

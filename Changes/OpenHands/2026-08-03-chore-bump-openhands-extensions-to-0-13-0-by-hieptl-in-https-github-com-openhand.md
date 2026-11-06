@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 01ffc4f50e3ed9ba31bba4622884d082db1491a9a3520dde4b450156ac1c2d1b
+machine_hash: 8f9875ec8500555da491a8bfb1f3b549fbea9571707619d30543d401001b019e
 product: openhands
 product_name: OpenHands
 record:
@@ -43,10 +43,8 @@ record:
   title: 'chore: bump @openhands/extensions to 0.13.0'
   type: change
 related_changes:
-- '[[Changes/Cline/2026-07-31-3-apps-and-integrations-changes-in-v4-1-0|3 Apps and
-  Integrations changes in v4.1.0]]'
-- '[[Changes/Cursor/2026-08-03-cursor-can-now-read-write-and-act-across-your-google-workspace|Google
-  Workspace Plugins]]'
+- '[[Changes/ElevenLabs/2026-08-03-mcp-server|MCP Server]]'
+- '[[Changes/ElevenLabs/2026-08-03-sdk-releases|SDK Releases]]'
 - '[[Changes/GitHub Copilot CLI/2026-08-03-4-apps-and-integrations-changes-in-v1-0-78|4
   Apps and Integrations changes in v1.0.78]]'
 source_release: '[[Releases/OpenHands/openhands-2026-08-03-v1-9-0-github-364430310-2b7bf9ea|openhands-2026-08-03-v1-9-0-github-364430310-2b7bf9ea]]'

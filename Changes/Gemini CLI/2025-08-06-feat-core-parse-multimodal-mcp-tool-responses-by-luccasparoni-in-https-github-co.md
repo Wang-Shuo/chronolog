@@ -4,20 +4,20 @@ date: '2025-08-06'
 description: 'Gemini CLI · 2025-08-06 · Multimodal Input: feat(core): Parse Multimodal
   MCP Tool responses by @luccasparoni in…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-09-25-you-can-now-show-chatgpt-one-or-more-images-troubleshoot-why-your-grill-won-t-st-e42bd6|Image
-    input will be generally available to Plus users on all platforms]]'
+  first_in_tracked: '[[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add
+    video to cn readme]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 681
+  lag_days: 687
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d036dba0dcc6e51368aa7d5996931acedc744983d452f8951bc0c021563199f7
+machine_hash: 8f99188c070dfce249e3862f7a16b90cb8013575496e02d4569c504e6552e8bf
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -50,8 +50,7 @@ record:
   title: 'feat(core): Parse Multimodal MCP Tool responses'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2024-12-12-use-the-controls-at-the-bottom-of-the-screen-like-the-camera-button-below-to-get|Use
-  the controls at the bottom of the screen, like the camera button below, to get started]]'
+- '[[Changes/ElevenLabs/2025-06-30-elevencreative-studio|ElevenCreative Studio]]'
 - '[[Changes/Gemini CLI/2025-07-11-feature-commands-refactor-slash-command-vision-for-the-future-by-abhipatel12-in|feature(commands)
   - Refactor Slash Command + Vision For the Future]]'
 - '[[Changes/Cline/2025-07-16-add-vision-capability-to-moonshot-v1-by-saoudrizwan-in-https-github-com-cline-cl|Add
@@ -104,7 +103,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-25 · ChatGPT · [[Changes/ChatGPT/2023-09-25-you-can-now-show-chatgpt-one-or-more-images-troubleshoot-why-your-grill-won-t-st-e42bd6|Image input will be generally available to Plus users on all platforms]]
+- Earliest same-theme entry in the tracked set: 2023-09-19 · Dify · [[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add video to cn readme]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

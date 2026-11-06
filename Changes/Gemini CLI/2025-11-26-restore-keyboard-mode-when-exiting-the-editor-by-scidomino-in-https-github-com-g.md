@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: fb4ce73a672e44965a30906228c633e4122b93481082736c5faae12cdf910ffa
+machine_hash: a019cd36b9c95ff3f0a0cb0c7bd2352f7fc223baa7fb948620b2020946d55d16
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -41,11 +41,11 @@ record:
   title: Restore keyboard mode when exiting the editor
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-11-19-use-shared-network-gating-helper-in-chat-completion-tests-6461-aibrahim|Use
-  shared network gating helper in chat completion tests (♯6461) — @aibrahim]]'
 - '[[Changes/Cursor/2025-11-21-4-editor-experience-changes-in-2-1|4 Editor Experience
   changes in 2.1]]'
 - '[[Changes/Windsurf/2025-11-21-tab-completion|Tab Completion]]'
+- '[[Changes/Dify/2025-11-26-introduced-a-broad-set-of-workflow-editor-improvements-including-ui-refinement-s|Introduced
+  a broad set of workflow-editor improvements, including UI refinement…]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-11-26-v0-18-0-github-265323405-bd13d891|gemini-cli-2025-11-26-v0-18-0-github-265323405-bd13d891]]'
 source_type: github_releases
 theme: editor-experience
@@ -79,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2025-11-21 · Windsurf · [[Changes/Windsurf/2025-11-21-tab-completion|Tab Completion]]
+- Earlier: 2025-11-26 · Dify · [[Changes/Dify/2025-11-26-introduced-a-broad-set-of-workflow-editor-improvements-including-ui-refinement-s|Introduced a broad set of workflow-editor improvements, including UI refinement…]]
 - Later: 2025-11-27 · Cline · [[Changes/Cline/2025-11-27-2-editor-experience-changes-in-v3-38-3|2 Editor Experience changes in v3.38.3]]
 <!-- chronolog:end -->
 

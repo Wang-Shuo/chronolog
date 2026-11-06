@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 540f44fb6e996c615b5411020cbb8511f85092f9e8ec92b161a51ed33b39d548
+machine_hash: daa8043506ca6c6e3cac9897bda0991bbff459113b160cded5d222bb73ad382a
 product: cursor
 product_name: Cursor
 record:
@@ -42,8 +42,7 @@ record:
   title: '1.6.7: Enhanced git diff parsing'
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-08-27-2-editor-experience-changes-in-v0-2-0|2 Editor
-  Experience changes in v0.2.0]]'
+- '[[Changes/Lovable/2025-09-01-workspace-viewer-role-pro|Workspace viewer role (Pro+)]]'
 - '[[Changes/Gemini CLI/2025-09-04-7-editor-experience-changes-in-v0-3-0|7 Editor
   Experience changes in v0.3.0]]'
 - '[[Changes/Gemini CLI/2025-09-09-4-editor-experience-changes-in-v0-4-0|4 Editor

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: de84d664de45dc72cfa37a4cbc36527260eb1034480a03458ee7f04bce23c837
+machine_hash: 422b773cbad3e5716e9e19afbc1d0960032b6e7593ec59130af1261f31787402
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -106,7 +106,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.136.0
 ## Nearby in Model Support
 
 - Earlier: 2026-05-30 · Claude Code · [[Changes/Claude Code/2026-05-30-auto-mode-is-now-available-on-bedrock-vertex-and-foundry-for-opus-4-7-and-opus-4|Auto mode is now available on Bedrock, Vertex, and Foundry for Opus 4.7 and Opus 4.8]]
-- Later: 2026-06-01 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-01-new-reasoning-after-tool-calls-appears-at-the-bottom-of-the-timeline-instead-of|New reasoning after tool calls appears at the bottom of the timeline instead…]]
+- Later: 2026-06-01 · ElevenLabs · [[Changes/ElevenLabs/2026-06-01-workspaces|Workspaces]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

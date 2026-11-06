@@ -4,20 +4,20 @@ date: '2026-09-29'
 description: 'Codex CLI · 2026-09-29 · Voice and Audio: #48824 Keep voice RTP timestamps
   aligned to 20 ms packets @bc-openai'
 diffusion:
-  first_in_tracked: '[[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source
-    link) support, which allows you…]]'
+  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
+    Voice and Audio changes in 0.3.7]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1145
+  lag_days: 1177
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 750e251ead4d14e542b3d76ed8313e276dd6577e3159486ecfceed972103b387
+machine_hash: ad4fcd02ada332eca0c299c16ef54d5891fdc1b155aee6be350ba0cb40e2d28d
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -41,10 +41,9 @@ record:
   title: '#48824 Keep voice RTP timestamps aligned to 20 ms packets @bc-openai'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-25-5-voice-and-audio-changes-in-rust-v0-157-0|5 Voice
-  and Audio changes in rust-v0.157.0]]'
-- '[[Changes/Codex CLI/2026-09-28-47975-prevent-stale-voice-answers-from-reappearing-during-speech-recovery-etraut|♯47975
-  Prevent stale voice answers from reappearing during speech recovery @etraut-openai]]'
+- '[[Changes/ElevenLabs/2026-09-28-eleven-v4-and-eleven-v4-turbo|Eleven v4 and Eleven
+  v4 Turbo]]'
+- '[[Changes/ElevenLabs/2026-09-28-speech-to-text-d0afb0|Speech to Text]]'
 - '[[Changes/ChatGPT/2026-09-29-audio-is-deleted-once-your-notes-are-ready-and-can-t-be-accessed-or-replayed-ava|Audio
   is deleted once your notes are ready and can’t be accessed or replayed]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-09-29-rust-v0-159-0-github-398926954-1ffcd516|codex-cli-2026-09-29-rust-v0-159-0-github-398926954-1ffcd516]]'
@@ -87,13 +86,13 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2026-09-29 · ChatGPT · [[Changes/ChatGPT/2026-09-29-audio-is-deleted-once-your-notes-are-ready-and-can-t-be-accessed-or-replayed-ava|Audio is deleted once your notes are ready and can’t be accessed or replayed]]
-- Later: 2026-09-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-30-holding-space-and-ctrl-x-v-explain-when-voice-mode-is-off-or-still-getting-ready|Holding Space and Ctrl+X V explain when voice mode is off or still getting ready]]
+- Later: 2026-09-30 · Gemini · [[Changes/Gemini/2026-09-30-let-skills-in-gemini-tackle-your-most-repetitive-tasks|Let skills in Gemini tackle your most repetitive tasks]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-08-11 · Aider · [[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source link) support, which allows you…]]
+- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

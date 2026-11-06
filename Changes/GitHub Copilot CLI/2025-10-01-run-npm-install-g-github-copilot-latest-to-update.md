@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c47a24d96c0dd0aef087cfe1369cebcb4c813c4a92db225842605e80ad54442a
+machine_hash: 64dc275d820600e823404309c2d630f491baee7fa585600525314dba82f712c4
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,8 +43,8 @@ record:
   title: Run `npm install -g @github/copilot@latest` to update!
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2025-09-29-this-is-our-second-release-today-be-sure-to-check-out-the-list-of-changes-in-0-0|This
-  is our second release today -- be sure to check out the list of changes…]]'
+- '[[Changes/Open WebUI/2025-09-29-a-warning-is-now-displayed-in-the-user-edit-modal-if-conflicting-group-permissio|⚠️
+  A warning is now displayed in the user edit modal if conflicting group…]]'
 - '[[Changes/Gemini CLI/2025-10-01-4-editor-experience-changes-in-v0-7-0|4 Editor
   Experience changes in v0.7.0]]'
 - '[[Changes/GitHub Copilot CLI/2025-10-01-2-editor-experience-changes-in-v0-0-331|2

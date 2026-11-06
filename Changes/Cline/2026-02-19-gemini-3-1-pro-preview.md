@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7c27125b31fceb960a39eca3e8775188b8c1c71258f0de22bccecd6baa8f9e9f
+machine_hash: b1a8f1fe8fe12f4b1ea749b615983b4018ca006ce40046544964111eeed07fd0
 product: cline
 product_name: Cline
 record:
@@ -74,7 +74,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-02-19 · Claude Code · [[Changes/Claude Code/2026-02-19-2-model-support-changes-in-v2-1-49|2 Model Support changes in v2.1.49]]
-- Later: 2026-02-19 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-19-2-model-support-changes-in-v0-0-412|2 Model Support changes in v0.0.412]]
+- Later: 2026-02-19 · Gemini · [[Changes/Gemini/2026-02-19-gemini-3-1-pro-a-smarter-model-for-your-most-complex-tasks|Gemini 3.1 Pro: A smarter model for your most complex tasks]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

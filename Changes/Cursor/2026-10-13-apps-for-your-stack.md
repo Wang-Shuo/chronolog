@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 1f082c629f80a595ca16f41148571206771cca3e29477b2beab4a056e3270d95
+machine_hash: a01b7ad5eba701dd278bdb882188fcc5ddb59656c74e69c8a403760227c408cd
 product: cursor
 product_name: Cursor
 record:
@@ -102,7 +102,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-10-13 · Cline · [[Changes/Cline/2026-10-13-an-mcp-server-or-hook-that-exits-before-reading-all-of-its-input-no-longer-crash|An MCP server or hook that exits before reading all of its input no longer crashes…]]
-- Later: 2026-10-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-13-4-apps-and-integrations-changes-in-v1-0-97|4 Apps and Integrations changes in v1.0.97]]
+- Later: 2026-10-13 · Gemini · [[Changes/Gemini/2026-10-13-an-easier-way-to-customize-how-gemini-works-for-you-and-more-connected-apps|An easier way to customize how Gemini works for you and more connected apps]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

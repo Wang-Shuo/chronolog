@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 44f32f62d930c93f396b0575c0a2a6b34e91deda564ab225630f2d8430f3825e
+machine_hash: d575eb4af5a513317f00a9ae0727f6bc1de0425e77c9eb868d83085fcaa21255
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,12 +49,12 @@ record:
   title: 3 Apps and Integrations changes in v2.1.71
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-05-11-apps-and-integrations-changes-in-v0-0-422|11
-  Apps and Integrations changes in v0.0.422]]'
-- '[[Changes/Claude Code/2026-03-06-reduced-remote-control-poll-rate-to-once-per-10-minutes-while-connected-was-1-2s|Reduced
-  Remote Control /poll rate to once per 10 minutes while connected…]]'
-- '[[Changes/Cline/2026-03-06-handle-streamable-http-mcp-reconnects-more-reliably-after-disconnects|Handle
-  streamable HTTP MCP reconnects more reliably after disconnects]]'
+- '[[Changes/Replit/2026-03-06-gpt-codex-5-3-support-in-ai-integrations|GPT-Codex-5.3
+  support in AI Integrations]]'
+- '[[Changes/Replit/2026-03-06-connectors-and-ai-integrations-now-enabled-by-default-for-teams-and-enterprise|Connectors
+  and AI Integrations now enabled by default for Teams and Enterprise]]'
+- '[[Changes/Replit/2026-03-06-revenuecat-integration-now-generally-available|RevenueCat
+  integration now generally available]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-07-v2-1-71-github-294146317-ab5a32e0|claude-code-2026-03-07-v2-1-71-github-294146317-ab5a32e0]]'
 source_type: github_releases
 theme: apps-integrations
@@ -94,7 +94,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.71
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-03-06 · Cline · [[Changes/Cline/2026-03-06-handle-streamable-http-mcp-reconnects-more-reliably-after-disconnects|Handle streamable HTTP MCP reconnects more reliably after disconnects]]
+- Earlier: 2026-03-06 · Replit · [[Changes/Replit/2026-03-06-revenuecat-integration-now-generally-available|RevenueCat integration now generally available]]
 - Later: 2026-03-08 · Codex CLI · [[Changes/Codex CLI/2026-03-08-2-apps-and-integrations-changes-in-rust-v0-112-0|2 Apps and Integrations changes in rust-v0.112.0]]
 <!-- chronolog:end -->
 

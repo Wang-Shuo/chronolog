@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a2aa9ba80d3d8ebf748570a689e4fbd15fd61a2ddc89efa7825492e74a9c5c1f
+machine_hash: df5ca7c9f888a84ccf3df4de13a0f12f28b75f9ef65832fd77412ce03b9b9143
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -44,12 +44,12 @@ record:
   title: 'fix(acp): include MCP server and tool metadata in permission requests'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-10-28-texting-your-dot-is-starting-to-roll-out-in-beta-to-pro-users-in-the-u-s|Texting
-  your dot]]'
-- '[[Changes/Codex CLI/2026-10-29-10-safety-and-privacy-changes-in-rust-v0-166-0|10
-  Safety and Privacy changes in rust-v0.166.0]]'
-- '[[Changes/Claude Code/2026-10-30-10-safety-and-privacy-changes-in-v2-1-314|10 Safety
-  and Privacy changes in v2.1.314]]'
+- '[[Changes/Lovable/2026-11-03-protect-a-project-from-abandonment-cleanup|Protect
+  a project from abandonment cleanup]]'
+- '[[Changes/Open WebUI/2026-11-03-2-safety-and-privacy-changes-in-v0-13-0|2 Safety
+  and Privacy changes in v0.13.0]]'
+- '[[Changes/Dify/2026-11-04-4-safety-and-privacy-changes-in-1-19-0|4 Safety and Privacy
+  changes in 1.19.0]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-11-04-v0-67-0-github-434415349-61471746|gemini-cli-2026-11-04-v0-67-0-github-434415349-61471746]]'
 source_type: github_releases
 theme: safety-privacy
@@ -80,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-10-30 · Claude Code · [[Changes/Claude Code/2026-10-30-10-safety-and-privacy-changes-in-v2-1-314|10 Safety and Privacy changes in v2.1.314]]
+- Earlier: 2026-11-04 · Dify · [[Changes/Dify/2026-11-04-4-safety-and-privacy-changes-in-1-19-0|4 Safety and Privacy changes in 1.19.0]]
 - Later: 2026-11-06 · Codex CLI · [[Changes/Codex CLI/2026-11-06-57985-skip-read-only-volume-root-expansion-in-the-mxc-sandbox-iceweasel-oai|♯57985 Skip read-only volume-root expansion in the MXC sandbox @iceweasel-oai]]
 <!-- chronolog:end -->
 

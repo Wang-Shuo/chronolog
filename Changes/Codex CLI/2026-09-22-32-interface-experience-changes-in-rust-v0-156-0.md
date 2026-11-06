@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: efe37a7df7e2721b4909fd60a6580a59ad8c7c08228ccf320008f7360d094e1f
+machine_hash: 9e52654996e7cffc1fe9d470adee19378f2438f49fa0711fe37f3bd8834c5057
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -112,10 +112,10 @@ record:
   title: 32 Interface Experience changes in rust-v0.156.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-18-vscode-added-a-sign-out-row-to-the-panel-menu-with-logout-in-the-typed-command-m|VSCode
-  Added a Sign out row to the panel menu, with /logout in the typed command menu]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-21-number-key-selection-in-the-question-dialog-works-for-choices-10-and-beyond|Number-key
   selection in the question dialog works for choices 10 and beyond]]'
+- '[[Changes/Open WebUI/2026-09-21-13-interface-experience-changes-in-v0-11-4|13 Interface
+  Experience changes in v0.11.4]]'
 - '[[Changes/Claude Code/2026-09-22-5-interface-experience-changes-in-v2-1-280|5 Interface
   Experience changes in v2.1.280]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-09-22-rust-v0-156-0-github-394061815-b23dd5f4|codex-cli-2026-09-22-rust-v0-156-0-github-394061815-b23dd5f4]]'

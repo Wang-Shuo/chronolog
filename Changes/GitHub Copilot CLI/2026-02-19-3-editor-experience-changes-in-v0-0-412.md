@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f5c2959f6bbcc8e6d1722a82338514c6b977c7020dba4e4929e94799668c7ae2
+machine_hash: ed527112d250c5a0044ddd9b58af9914ba12e02b4c35aa97873b528c0df1a388
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -95,7 +95,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v0.0.412
 ## Nearby in Editor Experience
 
 - Earlier: 2026-02-19 · Claude Code · [[Changes/Claude Code/2026-02-19-simple-mode-claude-code-simple-now-includes-the-file-edit-tool-in-addition-to-th|Simple mode (CLAUDE_CODE_SIMPLE) now includes the file edit tool in addition…]]
-- Later: 2026-02-25 · Codex CLI · [[Changes/Codex CLI/2026-02-25-2-editor-experience-changes-in-rust-v0-105-0|2 Editor Experience changes in rust-v0.105.0]]
+- Later: 2026-02-23 · Lovable · [[Changes/Lovable/2026-02-23-the-plan-mode-https-docs-lovable-dev-features-plan-mode-md-editor-now-uses-a-ren|The Plan mode((source link) editor now uses…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

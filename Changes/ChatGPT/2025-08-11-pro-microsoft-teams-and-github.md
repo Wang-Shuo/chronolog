@@ -10,12 +10,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 60f6c33afd98f15133605ddba1d6a4b0ba2fc76f1bd0887d459c43a1dc9cb154
+machine_hash: 42d31d6f2ad4c8ba2e6c479f3e75ca66069bff7106f0bb6b7a8fc5d99212025d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -39,12 +39,12 @@ record:
   title: 'Pro: Microsoft Teams and GitHub'
   type: change
 related_changes:
-- '[[Changes/Cline/2025-07-22-move-duplicated-code-for-loading-the-protobuf-descriptor-set-into-a-shared-util|Move
-  duplicated code for loading the protobuf descriptor set into a shared util file]]'
-- '[[Changes/Cline/2025-07-31-refactor-setup-e2e-tests-to-use-shared-mock-server-by-abeatrix-in-https-github-c|refactor:
-  setup e2e tests to use shared mock server]]'
-- '[[Changes/Cursor/2025-08-06-ai-code-tracking-api-get-commit-level-visibility-into-ai-usage-and-accepted-chan|AI
-  code tracking API]]'
+- '[[Changes/Replit/2025-08-08-streamline-your-team-management-with-enhanced-scim-https-docs-replit-com-teams-i|Streamline
+  your team management with enhanced…]]'
+- '[[Changes/Replit/2025-08-08-replit-app-to-organization-transfer|Replit App to Organization
+  transfer]]'
+- '[[Changes/Open WebUI/2025-08-09-3-collaboration-changes-in-v0-6-19|3 Collaboration
+  changes in v0.6.19]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-08-11-additional-connectors-for-plus-and-pro-6d22248a|chatgpt-2025-08-11-additional-connectors-for-plus-and-pro-6d22248a]]'
 source_type: chatgpt_changelog
 theme: collaboration
@@ -74,8 +74,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2025-08-06 · Cursor · [[Changes/Cursor/2025-08-06-ai-code-tracking-api-get-commit-level-visibility-into-ai-usage-and-accepted-chan|AI code tracking API]]
-- Later: 2025-08-16 · Cline · [[Changes/Cline/2025-08-16-focus-chain-regex-moved-to-shared-by-canvrno-in-https-github-com-cline-cline-pul|Focus Chain regex moved to /shared]]
+- Earlier: 2025-08-09 · Open WebUI · [[Changes/Open WebUI/2025-08-09-3-collaboration-changes-in-v0-6-19|3 Collaboration changes in v0.6.19]]
+- Later: 2025-08-11 · Lovable · [[Changes/Lovable/2025-08-11-project-invites-workflow|Project invites workflow]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

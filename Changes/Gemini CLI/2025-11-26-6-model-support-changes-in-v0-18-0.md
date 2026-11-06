@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ecf6d6b1d642e0ab0dd343c0fe65a43c6354002811046520430876f8aae83f3c
+machine_hash: c624a5d60a0046a0fd239f1d08960697f5314332a0ae279fad2d411e080df81f
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -56,11 +56,11 @@ record:
   title: 6 Model Support changes in v0.18.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2025-11-24-opus-4-5-gpt-4-1-and-gpt-5-mini-are-now-available-in-github-copilot-cli|Opus
-  4.5, GPT-4.1 and GPT-5-Mini are now available in GitHub Copilot CLI]]'
 - '[[Changes/Windsurf/2025-11-24-1-12-36-claude-opus-4-5-changelog-banner|1.12.36
   Claude Opus 4.5 changelog banner]]'
 - '[[Changes/Windsurf/2025-11-24-claude-opus-4-5|Claude Opus 4.5]]'
+- '[[Changes/Dify/2025-11-26-6-model-support-changes-in-1-10-1|6 Model Support changes
+  in 1.10.1]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-11-26-v0-18-0-github-265323405-bd13d891|gemini-cli-2025-11-26-v0-18-0-github-265323405-bd13d891]]'
 source_type: github_releases
 theme: model-support
@@ -106,8 +106,8 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.18.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-11-24 · Windsurf · [[Changes/Windsurf/2025-11-24-claude-opus-4-5|Claude Opus 4.5]]
-- Later: 2025-11-27 · Cline · [[Changes/Cline/2025-11-27-12-model-support-changes-in-v3-38-3|12 Model Support changes in v3.38.3]]
+- Earlier: 2025-11-26 · Dify · [[Changes/Dify/2025-11-26-6-model-support-changes-in-1-10-1|6 Model Support changes in 1.10.1]]
+- Later: 2025-11-26 · Lovable · [[Changes/Lovable/2025-11-26-gemini-3-pro-image-generation-support|Gemini 3 Pro & image generation support]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

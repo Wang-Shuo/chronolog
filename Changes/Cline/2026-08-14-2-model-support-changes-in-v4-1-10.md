@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0e28fb61dea1ad5275b497538563b86c5355df874929e3c44a4f9d4cc96b0787
+machine_hash: 2ea94174661d24cfa1f13a7856ab73326a74cc4765577a19e21bc3ed10a34fd9
 product: cline
 product_name: Cline
 record:
@@ -46,10 +46,9 @@ record:
   title: 2 Model Support changes in v4.1.10
   type: change
 related_changes:
-- '[[Changes/Cline/2026-08-11-2-model-support-changes-in-v4-1-8|2 Model Support changes
-  in v4.1.8]]'
-- '[[Changes/Gemini CLI/2026-08-11-2-model-support-changes-in-v0-55-1|2 Model Support
-  changes in v0.55.1]]'
+- '[[Changes/DeepSeek API/2026-08-13-deepseek-v4-pro-update|DeepSeek-V4-Pro Update]]'
+- '[[Changes/Lovable/2026-08-13-image-editing-with-openai-models-for-your-app-s-ai-features|Image
+  editing with OpenAI models for your app''s AI features]]'
 - '[[Changes/Claude Code/2026-08-14-2-model-support-changes-in-v2-1-233|2 Model Support
   changes in v2.1.233]]'
 source_release: '[[Releases/Cline/cline-2026-08-14-v4-1-10-github-370718211-daf3638f|cline-2026-08-14-v4-1-10-github-370718211-daf3638f]]'

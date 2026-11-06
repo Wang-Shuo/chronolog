@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5ab77a831e944dc8940f1fdf19ff33df2594a4ace20f151e44155880a9ee8ad6
+machine_hash: 2562470678c5706d1dff8280f9bc60fc66fa3205859aefb9b3c6aaddfdf70270
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -111,7 +111,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.131.0
 ## Nearby in Context Window
 
 - Earlier: 2026-05-14 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-14-context-shows-correct-token-limits-for-all-models-instead-of-always-showing-128k|/context shows correct token limits for all models instead of always showing 128k]]
-- Later: 2026-05-19 · Claude Code · [[Changes/Claude Code/2026-05-19-improved-the-read-tool-to-return-a-truncated-first-page-with-a-partial-view-noti|Improved the Read tool to return a truncated first page with a "PARTIAL view" notice…]]
+- Later: 2026-05-18 · Lovable · [[Changes/Lovable/2026-05-18-draw-on-images|Draw on images]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6a8bd2a7b9a9f0659c36b0f56470e4fc34b4d025b58f917f7bd1a8d282f5b0ef
+machine_hash: 3e53f391b1c8785075aad24775ef22662bf399cabd891884428909d36ad9ff93
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -96,7 +96,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.24.0
 ## Nearby in Editor Experience
 
 - Earlier: 2026-01-14 · Codex CLI · [[Changes/Codex CLI/2026-01-14-2-editor-experience-changes-in-rust-v0-81-0|2 Editor Experience changes in rust-v0.81.0]]
-- Later: 2026-01-16 · Claude Code · [[Changes/Claude Code/2026-01-16-added-external-editor-support-ctrl-g-in-askuserquestion-other-input-field|Added external editor support (Ctrl+G) in AskUserQuestion "Other" input field]]
+- Later: 2026-01-14 · Ollama · [[Changes/Ollama/2026-01-14-qwen-image-edit-2511|Qwen-Image-Edit-2511]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

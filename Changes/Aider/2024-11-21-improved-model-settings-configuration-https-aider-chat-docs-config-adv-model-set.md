@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 7ceed47697abbcc9727c6fb50e2165f7d6ca97d9c00a6c1f02186dd3a723b6a7
+machine_hash: eb5261d90dfc585d96a49a04fe2a751705113aa7fd23af75115f6f904bff8a2f
 product: aider
 product_name: Aider
 record:
@@ -54,12 +54,12 @@ record:
   title: Improved [model settings…
   type: change
 related_changes:
-- '[[Changes/Aider/2024-08-28-performance-improvements-for-autocomplete-in-large-mono-repos|Performance
-  improvements for autocomplete in large/mono repos]]'
-- '[[Changes/OpenHands/2024-09-04-codeactagent-recovers-upon-a-llm-completion-exception-by-shubhamofbce-in-https-g|CodeActAgent
-  recovers upon a llm completion exception]]'
-- '[[Changes/Aider/2024-09-29-new-settings-for-completion-menu-colors|New settings
-  for completion menu colors]]'
+- '[[Changes/Ollama/2024-11-15-athene-v2-https-ollama-com-library-athene-v2-a-72b-parameter-model-which-excels|Athene
+  V2((source link) a 72B parameter model…]]'
+- '[[Changes/Dify/2024-11-18-enabled-up-down-arrow-key-navigation-for-group-questions-improving-debugging-by|Enabled
+  up/down arrow key navigation for group questions, improving debugging…]]'
+- "[[Changes/Open WebUI/2024-11-19-user-settings-search-quickly-search-for-settings-fields-improving-ease-of-use-an|\U0001F50D
+  User Settings Search]]"
 source_release: '[[Releases/Aider/aider-2024-11-21-v0-64-0-github-186737977-90b8b4cc|aider-2024-11-21-v0-64-0-github-186737977-90b8b4cc]]'
 source_type: github_releases
 theme: interface-experience
@@ -91,7 +91,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2024-09-29 · Aider · [[Changes/Aider/2024-09-29-new-settings-for-completion-menu-colors|New settings for completion menu colors]]
+- Earlier: 2024-11-19 · Open WebUI · [[Changes/Open WebUI/2024-11-19-user-settings-search-quickly-search-for-settings-fields-improving-ease-of-use-an|🔍 User Settings Search]]
 - Later: 2024-11-22 · ChatGPT · [[Changes/ChatGPT/2024-11-22-the-new-chat-button-has-been-moved-to-the-left-of-the-model-picker-to-be-easier|The new chat button has been moved to the left of the Model Picker to be easier to access]]
 <!-- chronolog:end -->
 

@@ -4,20 +4,20 @@ date: '2026-07-09'
 description: 'ChatGPT · 2026-07-09 · Enterprise and Administration: On web and mobile,
   Enterprise and Edu workspaces have a two-week preview period. Work is off by default…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin
-    improvements: Team admins can now mark themselves as unpaid users and can see…]]'
+  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
+    for Google Workspace accounts]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 841
+  lag_days: 1161
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 294b4800ec8afb9937654515dd37ff5cf94ad7e224bff964212561b9a6c493a7
+machine_hash: c54e30bf0f88c11f5d290404d27b1f64cd1383138578346991f99d24045fb541
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -46,10 +46,10 @@ record:
     period
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-07-06-3-enterprise-and-administration-changes-in-1-9-0|3
-  Enterprise and Administration changes in 1.9.0]]'
 - '[[Changes/OpenHands/2026-07-07-feat-enterprise-auth-super-admin-management-endpoint-grant-revoke-list-by-jpshac|feat(enterprise/auth):
   super-admin management endpoint (grant/revoke/list)]]'
+- '[[Changes/Lovable/2026-07-08-workspace-insights-now-on-business-plans|Workspace
+  insights now on Business plans]]'
 - '[[Changes/ChatGPT/2026-07-09-business-and-enterprise-customers-already-have-access-to-sites-starting-today-th|Business
   and Enterprise customers already have access to Sites]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-07-09-introducing-chatgpt-work-eff9f272|chatgpt-2026-07-09-introducing-chatgpt-work-eff9f272]]'
@@ -89,7 +89,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-03-20 · Cursor · [[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin improvements: Team admins can now mark themselves as unpaid users and can see…]]
+- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

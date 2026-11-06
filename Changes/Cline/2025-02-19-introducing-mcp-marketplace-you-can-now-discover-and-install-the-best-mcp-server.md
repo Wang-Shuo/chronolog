@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 32bd0d64a0d1ce2522c8401ba12664d555274e91c5b7fd8e766b918313e5622d
+machine_hash: cdd6f3f531a568f7cde2f32ed9b65051d413dddae1253a88af0d0eb55f9e1a45
 product: cline
 product_name: Cline
 record:
@@ -46,12 +46,12 @@ record:
   title: Introducing **MCP Marketplace**!
   type: change
 related_changes:
-- '[[Changes/Cline/2025-01-21-add-on-off-toggle-for-mcp-servers-to-disable-them-when-not-in-use-and-auto-appro|Add
-  on/off toggle for MCP servers to disable them when not in use, and auto-approve…]]'
-- '[[Changes/OpenHands/2025-01-29-improved-performance-of-github-api-integration-by-using-modern-async-http-client|Improved
-  performance of GitHub API integration by using modern async HTTP client]]'
-- '[[Changes/Cline/2025-01-30-add-advanced-settings-to-remove-mcp-prompts-from-requests-to-save-tokens-enable|Add
-  Advanced Settings to remove MCP prompts from requests to save tokens…]]'
+- '[[Changes/Dify/2025-02-07-add-azure-openai-api-version-2024-12-01-preview-by-kei-yamazaki-in-https-github|add
+  azure openai api version 2024-12-01-preview]]'
+- '[[Changes/Gemini/2025-02-12-priority-access-with-gemini-advanced-ask-gemini-to-look-back-at-past-chats-for-m|Priority
+  access with Gemini Advanced]]'
+- '[[Changes/Lovable/2025-02-12-3-apps-and-integrations-changes-in-lovable-updates-2025-02-12|3
+  Apps and Integrations changes in Lovable updates — 2025-02-12]]'
 source_release: '[[Releases/Cline/cline-2025-02-19-v3-4-0-github-201249725-2b8f1358|cline-2025-02-19-v3-4-0-github-201249725-2b8f1358]]'
 source_type: github_releases
 theme: apps-integrations
@@ -82,7 +82,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-01-30 · Cline · [[Changes/Cline/2025-01-30-add-advanced-settings-to-remove-mcp-prompts-from-requests-to-save-tokens-enable|Add Advanced Settings to remove MCP prompts from requests to save tokens…]]
+- Earlier: 2025-02-12 · Lovable · [[Changes/Lovable/2025-02-12-3-apps-and-integrations-changes-in-lovable-updates-2025-02-12|3 Apps and Integrations changes in Lovable updates — 2025-02-12]]
 - Later: 2025-02-19 · Cursor · [[Changes/Cursor/2025-02-19-2-apps-and-integrations-changes-in-0-46-x|2 Apps and Integrations changes in 0.46.x]]
 <!-- chronolog:end -->
 

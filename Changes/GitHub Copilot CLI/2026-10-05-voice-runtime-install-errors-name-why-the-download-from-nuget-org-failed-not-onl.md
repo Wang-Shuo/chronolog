@@ -5,20 +5,20 @@ description: 'GitHub Copilot CLI · 2026-10-05 · Voice and Audio: Voice runtime
   errors name why the download from nuget.org failed, not only the fallback feed''s
   401'
 diffusion:
-  first_in_tracked: '[[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source
-    link) support, which allows you…]]'
+  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
+    Voice and Audio changes in 0.3.7]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1151
+  lag_days: 1183
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d6374964fa44b5a98193f3f762874f9778d627a124679e734b640838bfeb4630
+machine_hash: 7265bb45d98d18389ee935a9bf644b22a65f4e411410e1df117f257c0367c21c
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,12 +44,11 @@ record:
     not only…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-29-48824-keep-voice-rtp-timestamps-aligned-to-20-ms-packets-bc-openai|♯48824
-  Keep voice RTP timestamps aligned to 20 ms packets @bc-openai]]'
-- '[[Changes/GitHub Copilot CLI/2026-09-30-holding-space-and-ctrl-x-v-explain-when-voice-mode-is-off-or-still-getting-ready|Holding
-  Space and Ctrl+X V explain when voice mode is off or still getting ready]]'
 - '[[Changes/Codex CLI/2026-10-01-49073-surface-realtime-voice-catalog-failures-in-the-tui-etraut-openai|♯49073
   Surface realtime voice catalog failures in the TUI @etraut-openai]]'
+- '[[Changes/Lovable/2026-10-01-add-live-voice-conversations-to-your-app-with-gpt-live|Add
+  live voice conversations to your app with GPT Live]]'
+- '[[Changes/ElevenLabs/2026-10-05-packages|Packages]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-10-05-v1-0-92-github-404054639-a6ba3455|github-copilot-cli-2026-10-05-v1-0-92-github-404054639-a6ba3455]]'
 source_type: github_releases
 theme: voice
@@ -92,14 +91,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-10-01 · Codex CLI · [[Changes/Codex CLI/2026-10-01-49073-surface-realtime-voice-catalog-failures-in-the-tui-etraut-openai|♯49073 Surface realtime voice catalog failures in the TUI @etraut-openai]]
+- Earlier: 2026-10-05 · ElevenLabs · [[Changes/ElevenLabs/2026-10-05-packages|Packages]]
 - Later: 2026-10-06 · ChatGPT · [[Changes/ChatGPT/2026-10-06-upload-audio-files-to-chatgpt-to-create-transcripts-summarize-recordings-and-ask|Audio uploads in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-08-11 · Aider · [[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source link) support, which allows you…]]
+- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

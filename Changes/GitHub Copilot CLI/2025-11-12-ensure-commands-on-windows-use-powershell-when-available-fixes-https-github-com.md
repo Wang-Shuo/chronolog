@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5372f194addf20d76d70e18627f78e2a7e28b3c3a4803418164ac7c9a17fe5fc
+machine_hash: fc35fc3bd0bc85e62ad918b9bc1f7418e35927d9478fe94639f452fc4ac8cd51
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,12 +43,10 @@ record:
   title: Ensure `!` commands on Windows use PowerShell when available…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2025-10-24-bundled-sharp-dependency-into-the-cli-package-we-re-one-step-closer-to-implement|Bundled
-  sharp dependency into the CLI package -- we''re one step closer…]]'
-- '[[Changes/Codex CLI/2025-11-04-6124-fix-archive-conversation-on-windows-6124|♯6124
-  Fix "archive conversation" on Windows (♯6124)]]'
-- '[[Changes/Gemini CLI/2025-11-04-2-mobile-and-desktop-changes-in-v0-12-0|2 Mobile
-  and Desktop changes in v0.12.0]]'
+- '[[Changes/Lovable/2025-11-05-desktop-notifications|Desktop notifications]]'
+- "[[Changes/Open WebUI/2025-11-06-chat-controls-button-is-now-properly-hidden-on-mobile-for-users-without-admin-or|\U0001F4F1
+  Chat controls button is now properly hidden on mobile for users without admin…]]"
+- '[[Changes/ElevenLabs/2025-11-12-android-sdk|Android SDK]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2025-11-12-v0-0-355-github-261915723-3452a587|github-copilot-cli-2025-11-12-v0-0-355-github-261915723-3452a587]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -80,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2025-11-04 · Gemini CLI · [[Changes/Gemini CLI/2025-11-04-2-mobile-and-desktop-changes-in-v0-12-0|2 Mobile and Desktop changes in v0.12.0]]
+- Earlier: 2025-11-12 · ElevenLabs · [[Changes/ElevenLabs/2025-11-12-android-sdk|Android SDK]]
 - Later: 2025-11-13 · ChatGPT · [[Changes/ChatGPT/2025-11-13-we-re-piloting-group-chats-so-you-can-bring-people-and-chatgpt-into-the-same-con-21fa05|Group chats in ChatGPT]]
 <!-- chronolog:end -->
 

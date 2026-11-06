@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3611132bd34433e6406300b908f4ee72cf52a2e30dba28c4903f56df80ab8b75
+machine_hash: 3325b2eddc475cc4a51f6ce2e3ee452637329752bb0438980793390616ab465a
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -79,7 +79,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-09-29 · Codex CLI · [[Changes/Codex CLI/2026-09-29-2-model-support-changes-in-rust-v0-159-1|2 Model Support changes in rust-v0.159.1]]
-- Later: 2026-09-30 · Claude Code · [[Changes/Claude Code/2026-09-30-changed-how-failed-api-requests-are-retried-one-limit-now-covers-a-whole-model-c|Changed how failed API requests are retried]]
+- Later: 2026-09-29 · Ollama · [[Changes/Ollama/2026-09-29-3-model-support-changes-in-v0-35-1|3 Model Support changes in v0.35.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 0cc19021f216b53ea685fbb56cd01de8bd2b929c6260efdfc688576c4a6f23dd
+machine_hash: bd1feb5a4dbd02e752648af3c74bf81e9780a28b76c405bca8bab5bdb24016ab
 product: cline
 product_name: Cline
 record:
@@ -57,8 +57,8 @@ record:
   title: Only treat an Anthropic `invalid_request_error` as a context-overflow…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-08-18-13-context-window-changes-in-rust-v0-148-0|13 Context
-  Window changes in rust-v0.148.0]]'
+- '[[Changes/Lovable/2026-08-19-design-systems-on-all-paid-plans|Design systems on
+  all paid plans]]'
 - '[[Changes/Codex CLI/2026-08-20-9-context-window-changes-in-rust-v0-149-0|9 Context
   Window changes in rust-v0.149.0]]'
 - '[[Changes/Claude Code/2026-08-21-improved-the-reminder-shown-after-compaction-so-a-skill-s-original-arguments-are|Improved
@@ -98,7 +98,7 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2026-08-21 · Claude Code · [[Changes/Claude Code/2026-08-21-improved-the-reminder-shown-after-compaction-so-a-skill-s-original-arguments-are|Improved the reminder shown after compaction so a skill's original arguments are not…]]
-- Later: 2026-08-25 · Gemini CLI · [[Changes/Gemini CLI/2026-08-25-ssr-agent-issue-fix-19239-update-clear-command-docs-to-include-context-reset-by|SSR Agent Issue Fix (19239): Update /clear command docs to include context reset]]
+- Later: 2026-08-21 · Ollama · [[Changes/Ollama/2026-08-21-disabled-claude-code-s-tokens-left-token-countdown-system-message-which-ollama-m|Disabled Claude Code's "tokens left" token-countdown system message, which Ollama…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

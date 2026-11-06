@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 199134a308428d5dd6d7dfd6187acd798d9ed00913962ede70829d8d9bcd8b99
+machine_hash: 271801f688f24089009ebab0fcf95c40c56fb8f6b7555d070853dd73eac888ce
 product: cursor
 product_name: Cursor
 record:
@@ -53,12 +53,12 @@ record:
   title: Origin Repos
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-08-10-2-editor-experience-changes-in-v1-0-79|2
-  Editor Experience changes in v1.0.79]]'
-- '[[Changes/Cline/2026-08-11-remove-the-stale-double-check-completion-feature-tip|Remove
-  the stale "Double-Check Completion" feature tip]]'
-- '[[Changes/Cline/2026-08-13-use-the-editor-s-foreground-color-for-diff-block-text-so-diffs-stay-legible-in-t|Use
-  the editor''s foreground color for diff block text, so diffs stay legible…]]'
+- '[[Changes/Lovable/2026-08-13-open-projects-from-links-in-the-command-palette|Open
+  projects from links in the command palette]]'
+- '[[Changes/Lovable/2026-08-14-download-your-codebase-from-git-settings|Download
+  your codebase from Git settings]]'
+- '[[Changes/v0/2026-08-14-2-editor-experience-changes-in-a-redesigned-sidebar-a-richer|2
+  Editor Experience changes in A redesigned sidebar, a richer…]]'
 source_release: '[[Releases/Cursor/cursor-2026-08-17-origin-code-hosting-https-cursor-com-changelog-origin-code-hosti-ed3a9195|cursor-2026-08-17-origin-code-hosting-https-cursor-com-changelog-origin-code-hosti-ed3a9195]]'
 source_type: cursor_changelog
 theme: editor-experience
@@ -97,8 +97,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-08-13 · Cline · [[Changes/Cline/2026-08-13-use-the-editor-s-foreground-color-for-diff-block-text-so-diffs-stay-legible-in-t|Use the editor's foreground color for diff block text, so diffs stay legible…]]
-- Later: 2026-08-18 · Codex CLI · [[Changes/Codex CLI/2026-08-18-37828-track-running-unified-exec-processes-at-turn-completion-copyberry|♯37828 Track running unified exec processes at turn completion @copyberry]]
+- Earlier: 2026-08-14 · v0 · [[Changes/v0/2026-08-14-2-editor-experience-changes-in-a-redesigned-sidebar-a-richer|2 Editor Experience changes in A redesigned sidebar, a richer…]]
+- Later: 2026-08-17 · ElevenLabs · [[Changes/ElevenLabs/2026-08-17-elevencreative|ElevenCreative]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

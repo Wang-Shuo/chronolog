@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 815793d383fcfe7c676d82127245739d6d1e683d3b07f4e4df25316864d0baf4
+machine_hash: b793b58b48ca3cb8e14aca1ad578383141219b83287c10070cfdcc62d9b27305
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -47,12 +47,12 @@ record:
   title: Export Deep Research as PDF for Plus/Pro/Team
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-04-02-turn-on-vision-based-browsing-by-default-and-allow-openhands-to-see-pdf-images-i|Turn
-  on vision-based browsing by default and allow OpenHands to see PDF / images…]]'
-- '[[Changes/Cline/2025-04-08-use-your-local-chrome-browser-for-session-based-browsing-enabling-debugging-and|Use
-  your local Chrome browser for session-based browsing, enabling debugging…]]'
+- "[[Changes/Open WebUI/2025-05-05-optimized-faster-web-search-multi-threaded-queries-enjoy-dramatically-faster-web|\U0001F680
+  Optimized Faster Web Search & Multi-Threaded Queries]]"
 - '[[Changes/ChatGPT/2025-05-08-chatgpt-deep-research-with-github-is-available-globally-to-team-users-it-is-also-ad2e25|GitHub
   connector for deep research for Plus/Pro/Team]]'
+- "[[Changes/Open WebUI/2025-05-10-duplicate-web-search-urls-eliminated-search-results-now-reliably-filter-out-url|\U0001F502
+  Duplicate Web Search URLs Eliminated]]"
 source_release: '[[Releases/ChatGPT/chatgpt-2025-05-12-export-deep-research-as-pdf-for-plus-pro-team-27caae9f|chatgpt-2025-05-12-export-deep-research-as-pdf-for-plus-pro-team-27caae9f]]'
 source_type: chatgpt_changelog
 theme: search-browsing
@@ -79,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Search and Browsing
 
-- Earlier: 2025-05-08 · ChatGPT · [[Changes/ChatGPT/2025-05-08-chatgpt-deep-research-with-github-is-available-globally-to-team-users-it-is-also-ad2e25|GitHub connector for deep research for Plus/Pro/Team]]
+- Earlier: 2025-05-10 · Open WebUI · [[Changes/Open WebUI/2025-05-10-duplicate-web-search-urls-eliminated-search-results-now-reliably-filter-out-url|🔂 Duplicate Web Search URLs Eliminated]]
 - Later: 2025-05-12 · ChatGPT · [[Changes/ChatGPT/2025-05-12-chatgpt-deep-research-with-sharepoint-and-onedrive-is-available-globally-to-team-c5147c|Microsoft SharePoint and OneDrive connector for deep research for Plus/Pro/Team]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 983c909c7fe1cc95800fd6453ab7d3861ff1f2791f0161175aedf5c00b5286f8
+machine_hash: 1b948e6626503c2092e00fd106dcd61b6043121d5f3282a4a2d8afd3e09133ab
 product: aider
 product_name: Aider
 record:
@@ -51,12 +51,12 @@ record:
   title: 6 Model Support changes in v0.82.0
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-04-10-effective-april-30-2025-gpt-4-will-be-retired-from-chatgpt-and-fully-replaced-by-d03b3b|Sunsetting
-  GPT‑4 in ChatGPT]]'
 - '[[Changes/Cline/2025-04-10-add-support-for-xai-s-provider-s-grok-3-models|Add support
   for xAI''s provider''s Grok 3 models]]'
 - '[[Changes/Cline/2025-04-12-2-model-support-changes-in-v3-12-0|2 Model Support changes
   in v3.12.0]]'
+- '[[Changes/Open WebUI/2025-04-13-2-model-support-changes-in-v0-6-3|2 Model Support
+  changes in v0.6.3]]'
 source_release: '[[Releases/Aider/aider-2025-04-14-v0-82-0-github-212339053-266589e6|aider-2025-04-14-v0-82-0-github-212339053-266589e6]]'
 source_type: github_releases
 theme: model-support
@@ -98,7 +98,7 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.82.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-04-12 · Cline · [[Changes/Cline/2025-04-12-2-model-support-changes-in-v3-12-0|2 Model Support changes in v3.12.0]]
+- Earlier: 2025-04-13 · Open WebUI · [[Changes/Open WebUI/2025-04-13-2-model-support-changes-in-v0-6-3|2 Model Support changes in v0.6.3]]
 - Later: 2025-04-14 · Cline · [[Changes/Cline/2025-04-14-add-gpt-4-1-by-saoudrizwan-in-https-github-com-cline-cline-pull-2880|Add gpt-4.1]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 45a9a89260caa71725c55ea619a73aa36fbbe733507f0e46e6bc76862347f0f2
+machine_hash: cd6e10b3ad246b58d49fc3463d003d8a2805b3aa05cb6a847924c8ca85939f47
 product: openhands
 product_name: OpenHands
 record:
@@ -43,10 +43,10 @@ record:
   title: 2 Safety and Privacy changes in 0.8.1
   type: change
 related_changes:
-- '[[Changes/OpenHands/2024-06-29-12-safety-and-privacy-changes-in-0-7-0|12 Safety
-  and Privacy changes in 0.7.0]]'
 - '[[Changes/OpenHands/2024-07-05-2-safety-and-privacy-changes-in-0-7-1|2 Safety and
   Privacy changes in 0.7.1]]'
+- '[[Changes/Dify/2024-07-08-2-safety-and-privacy-changes-in-0-6-13|2 Safety and Privacy
+  changes in 0.6.13]]'
 - '[[Changes/OpenHands/2024-07-13-6-safety-and-privacy-changes-in-0-8-0|6 Safety and
   Privacy changes in 0.8.0]]'
 source_release: '[[Releases/OpenHands/openhands-2024-07-19-0-8-1-github-166290483-3fde9148|openhands-2024-07-19-0-8-1-github-166290483-3fde9148]]'

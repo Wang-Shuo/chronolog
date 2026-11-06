@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 173dacba9d0ad0a6016d9c3da6345a479b1028ccb1f8d4b757ca3d1a04afd1bc
+machine_hash: 2fa25bc00935e9cb71bd050eb6bd40a3122b965a7d678ce02336bde766a0350f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -62,12 +62,11 @@ record:
   title: Updates to deep research
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-02-05-2-interface-experience-changes-in-rust-v0-97-0|2
-  Interface Experience changes in rust-v0.97.0]]'
-- '[[Changes/GitHub Copilot CLI/2026-02-05-cancel-resume-session-picker-to-start-a-new-session|Cancel
-  --resume session picker to start a new session]]'
 - '[[Changes/Claude Code/2026-02-06-2-interface-experience-changes-in-v2-1-33|2 Interface
   Experience changes in v2.1.33]]'
+- '[[Changes/ElevenLabs/2026-02-09-user-interface|User Interface]]'
+- '[[Changes/v0/2026-02-09-improved-sidebar-pagination-to-load-more-items-on-scroll|Improved
+  sidebar pagination to load more items on scroll]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-02-10-updates-to-deep-research-d407d051|chatgpt-2026-02-10-updates-to-deep-research-d407d051]]'
 source_type: chatgpt_changelog
 theme: interface-experience
@@ -94,7 +93,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-02-06 · Claude Code · [[Changes/Claude Code/2026-02-06-2-interface-experience-changes-in-v2-1-33|2 Interface Experience changes in v2.1.33]]
+- Earlier: 2026-02-09 · v0 · [[Changes/v0/2026-02-09-improved-sidebar-pagination-to-load-more-items-on-scroll|Improved sidebar pagination to load more items on scroll]]
 - Later: 2026-02-10 · Claude Code · [[Changes/Claude Code/2026-02-10-improved-terminal-rendering-performance|Improved terminal rendering performance]]
 <!-- chronolog:end -->
 

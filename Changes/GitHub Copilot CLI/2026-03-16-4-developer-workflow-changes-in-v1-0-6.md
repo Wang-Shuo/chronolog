@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d2ad07600c65baaa89304f400324ab2de46294a1aeaceafd1ad39473881c7421
+machine_hash: b2e986f75b4c983d67f5e4dc5d4feefb9a2660f0c37bb3e4089f5afbd1951529
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -101,7 +101,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.6
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-03-16 · Codex CLI · [[Changes/Codex CLI/2026-03-16-2-developer-workflow-changes-in-rust-v0-115-0|2 Developer Workflow changes in rust-v0.115.0]]
-- Later: 2026-03-17 · Claude Code · [[Changes/Claude Code/2026-03-17-background-bash-tasks-are-now-killed-if-output-exceeds-5gb-preventing-runaway-pr|Background bash tasks are now killed if output exceeds 5GB, preventing runaway…]]
+- Later: 2026-03-16 · v0 · [[Changes/v0/2026-03-16-added-v0-label-to-pull-requests-created-by-v0|Added "v0" label to pull requests created by v0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

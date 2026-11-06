@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: a13f5385600776ecc980887d658b69291a386904b0ccf4909eb8b8f79b96037e
+machine_hash: fcf60a617b70f6eb84779ac14e5d927579006bb6218980ce4b4cc95d98368b03
 product: cursor
 product_name: Cursor
 record:
@@ -46,8 +46,8 @@ record:
   title: MCP Apps
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-02-3-apps-and-integrations-changes-in-rust-v0-107-0|3
-  Apps and Integrations changes in rust-v0.107.0]]'
+- '[[Changes/v0/2026-03-02-2-apps-and-integrations-changes-in-bug-fixes-and-improvements-for-mar-2nd|2
+  Apps and Integrations changes in Bug fixes and improvements for Mar 2nd]]'
 - '[[Changes/Cline/2026-03-03-3-apps-and-integrations-changes-in-v3-69-0|3 Apps and
   Integrations changes in v3.69.0]]'
 - '[[Changes/Cursor/2026-03-03-3-apps-and-integrations-changes-in-2-6|3 Apps and Integrations

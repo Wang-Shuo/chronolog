@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1515a07038bbc59b36197738c4cedeed56797c5a88c2883c13da935962c209b9
+machine_hash: 225654d65dbc195a8145ef76510f705080b64a03196d1fb85d1a8b173a0c95a3
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -80,8 +80,8 @@ record:
   title: 19 Apps and Integrations changes in rust-v0.154.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-09-04-7-apps-and-integrations-changes-in-v1-0-83|7
-  Apps and Integrations changes in v1.0.83]]'
+- '[[Changes/Lovable/2026-09-07-connector-forms-are-split-into-collapsible-sections|Connector
+  forms are split into collapsible sections]]'
 - '[[Changes/Claude Code/2026-09-08-4-apps-and-integrations-changes-in-v2-1-265|4
   Apps and Integrations changes in v2.1.265]]'
 - '[[Changes/Claude Code/2026-09-09-claude-tag-added-a-use-a-custom-connector-link-to-the-preset-connection-forms-in|Claude

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 49f7bc28badf5ad80f46cef6f06c8162963e0dfbc3aeaad726f92d3e75d42d51
+machine_hash: f103bdbddf31a98525e0aeeb78e5da9d9da512e483bd5dbb755ef6bed32f5c19
 product: windsurf
 product_name: Windsurf
 record:
@@ -44,10 +44,10 @@ record:
   title: Cascade Hooks on User Prompts
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-12-10-7817-fix-upgrade-modelcontextprotocol-sdk-to-1-24-0|♯7817
-  fix: Upgrade @modelcontextprotocol/sdk to ^1.24.0]]'
-- '[[Changes/Cursor/2025-12-10-system-notification-actions-for-terminal-and-mcp-approval-rejection|System
-  notification actions for terminal and MCP approval/rejection]]'
+- '[[Changes/Lovable/2025-12-10-manage-tool-permissions-for-chat-connectors|Manage
+  tool permissions for chat connectors]]'
+- '[[Changes/Lovable/2025-12-10-connectors-hub-formerly-integrations|Connectors hub
+  (formerly Integrations)]]'
 - '[[Changes/Windsurf/2025-12-10-mcp-servers|MCP Servers]]'
 source_release: '[[Releases/Windsurf/windsurf-2025-12-10-v1-12-41-fc64d619|windsurf-2025-12-10-v1-12-41-fc64d619]]'
 source_type: windsurf_changelog
@@ -80,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-12-10 · Cursor · [[Changes/Cursor/2025-12-10-system-notification-actions-for-terminal-and-mcp-approval-rejection|System notification actions for terminal and MCP approval/rejection]]
+- Earlier: 2025-12-10 · Lovable · [[Changes/Lovable/2025-12-10-connectors-hub-formerly-integrations|Connectors hub (formerly Integrations)]]
 - Later: 2025-12-11 · Cline · [[Changes/Cline/2025-12-11-7-apps-and-integrations-changes-in-v3-41-0|7 Apps and Integrations changes in v3.41.0]]
 <!-- chronolog:end -->
 

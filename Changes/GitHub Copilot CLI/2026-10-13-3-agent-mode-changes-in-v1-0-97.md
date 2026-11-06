@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 26dc7ca6b5d50bba63351a879755d1e4c967a5db9f133889ec8d02f61428f240
+machine_hash: 39331a656fa27b4eefd73f5b58b7a252c094d2b751121eabe5d79213154bcea0
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -46,10 +46,8 @@ record:
   title: 3 Agent Mode changes in v1.0.97
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-08-14-agent-mode-changes-in-rust-v0-162-0|14 Agent
-  Mode changes in rust-v0.162.0]]'
-- '[[Changes/Claude Code/2026-10-09-3-agent-mode-changes-in-v2-1-296|3 Agent Mode
-  changes in v2.1.296]]'
+- '[[Changes/ElevenLabs/2026-10-12-elevenagents|ElevenAgents]]'
+- '[[Changes/ElevenLabs/2026-10-12-elevenagents-545be2|ElevenAgents]]'
 - '[[Changes/OpenHands/2026-10-12-4-agent-mode-changes-in-v1-27-0|4 Agent Mode changes
   in v1.27.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-10-13-v1-0-97-github-411990782-ee7b7038|github-copilot-cli-2026-10-13-v1-0-97-github-411990782-ee7b7038]]'
@@ -94,7 +92,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.97
 ## Nearby in Agent Mode
 
 - Earlier: 2026-10-12 · OpenHands · [[Changes/OpenHands/2026-10-12-4-agent-mode-changes-in-v1-27-0|4 Agent Mode changes in v1.27.0]]
-- Later: 2026-10-14 · Claude Code · [[Changes/Claude Code/2026-10-14-5-agent-mode-changes-in-v2-1-299|5 Agent Mode changes in v2.1.299]]
+- Later: 2026-10-13 · Lovable · [[Changes/Lovable/2026-10-13-let-browser-agents-use-your-app|Let browser agents use your app]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

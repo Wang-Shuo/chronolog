@@ -4,20 +4,20 @@ date: '2026-09-25'
 description: 'Codex CLI · 2026-09-25 · Image Generation: #47327 Preserve image generation
   request IDs on failure @chrisdong-oai'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2024-08-08-we-re-rolling-out-the-ability-for-chatgpt-free-users-to-create-up-to-two-images-2c505c|DALL·E
-    3 for ChatGPT Free users]]'
+  first_in_tracked: "[[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|\U0001F3A8
+    DALL-E Integration]]"
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 778
+  lag_days: 929
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7749cb7530e66abc2cae4c7fdeef3ccf3af83aab7fc959f269071ecf51b0e884
+machine_hash: 4ad3faa4a3246eabaa2ff34b8e406e4467695e8b4920384ff8ee00e849d9898f
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -41,10 +41,9 @@ record:
   title: '#47327 Preserve image generation request IDs on failure @chrisdong-oai'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-09-08-chatgpt-images-2-5-brings-sharper-details-more-precise-editing-and-faster-image-66acb5|ChatGPT
-  Images 2.5 brings sharper details, more precise editing, and faster image…]]'
-- '[[Changes/Codex CLI/2026-09-17-43953-preserve-per-image-generation-ids-in-image-generation-analytics-copyberry|♯43953
-  Preserve per-image generation IDs in image generation analytics @copyberry]]'
+- '[[Changes/ElevenLabs/2026-09-21-image-and-video-915070|Image and video]]'
+- '[[Changes/Open WebUI/2026-09-21-2-image-generation-changes-in-v0-11-4|2 Image Generation
+  changes in v0.11.4]]'
 - '[[Changes/Codex CLI/2026-09-22-45544-discourage-logging-full-image-generation-results-gan-tu|♯45544
   Discourage logging full image generation results @Gan-Tu]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-09-25-rust-v0-157-0-github-396234532-e8248ab3|codex-cli-2026-09-25-rust-v0-157-0-github-396234532-e8248ab3]]'
@@ -95,7 +94,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-08-08 · ChatGPT · [[Changes/ChatGPT/2024-08-08-we-re-rolling-out-the-ability-for-chatgpt-free-users-to-create-up-to-two-images-2c505c|DALL·E 3 for ChatGPT Free users]]
+- Earliest same-theme entry in the tracked set: 2024-03-10 · Open WebUI · [[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|🎨 DALL-E Integration]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c6f9546f876dfddf15bd1b3362c6872ba708595282d1943b7dd741ec7373d2d0
+machine_hash: 4c105aaa11873a47593166fc2f8a967dd408a7cbd3a92a0ed86f644f58ca0cb7
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -42,12 +42,12 @@ record:
     mode
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-12-09-7547-use-shared-check-sandboxing-pakrym-oai|♯7547
-  Use shared check sandboxing @pakrym-oai]]'
-- '[[Changes/Cline/2025-12-16-migrate-whatsnewmodal-to-new-shared-dialogue-component|Migrate
-  WhatsNewModal to new shared dialogue component]]'
-- '[[Changes/Codex CLI/2025-12-18-8221-change-team-to-buisness-and-add-education|♯8221
-  Change “Team” to “Buisness” and add Education]]'
+- "[[Changes/Open WebUI/2025-12-21-user-uploaded-images-are-now-automatically-converted-from-base64-to-actual-file|\U0001F5BC️
+  User-uploaded images are now automatically converted from base64 to actual file…]]"
+- '[[Changes/Dify/2025-12-25-refactor-create-shared-react-i18next-mock-to-reduce-duplication-by-lyzno1-in-htt|refactor:
+  create shared react-i18next mock to reduce duplication]]'
+- '[[Changes/Replit/2026-01-02-the-replit-team-is-spending-time-with-friends-and-family-to-celebrate-the-holida|Replit
+  updates — 2026-01-02]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-01-07-v0-0-375-github-274877631-649eff91|github-copilot-cli-2026-01-07-v0-0-375-github-274877631-649eff91]]'
 source_type: github_releases
 theme: collaboration
@@ -79,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2025-12-18 · Codex CLI · [[Changes/Codex CLI/2025-12-18-8221-change-team-to-buisness-and-add-education|♯8221 Change “Team” to “Buisness” and add Education]]
+- Earlier: 2026-01-02 · Replit · [[Changes/Replit/2026-01-02-the-replit-team-is-spending-time-with-friends-and-family-to-celebrate-the-holida|Replit updates — 2026-01-02]]
 - Later: 2026-01-15 · Codex CLI · [[Changes/Codex CLI/2026-01-15-2-collaboration-changes-in-rust-v0-85-0|2 Collaboration changes in rust-v0.85.0]]
 <!-- chronolog:end -->
 

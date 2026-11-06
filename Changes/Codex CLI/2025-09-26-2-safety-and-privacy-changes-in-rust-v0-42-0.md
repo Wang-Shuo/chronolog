@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 339698e7f7120460de6f2c45a9b4e432a025932804dfdbb5f82ac3e038bf04e0
+machine_hash: ea5b51b5a25e5d1b45c5337fc38b4837bc02964a09a08640807025a53f9e75b8
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,12 +43,12 @@ record:
   title: 2 Safety and Privacy changes in rust-v0.42.0
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-09-17-2-safety-and-privacy-changes-in-v0-5-3|2 Safety
-  and Privacy changes in v0.5.3]]'
 - '[[Changes/Codex CLI/2025-09-23-3880-add-non-sandbox-test-helper-3880|♯3880 Add
   non_sandbox_test helper (♯3880)]]'
 - '[[Changes/Gemini CLI/2025-09-24-4-safety-and-privacy-changes-in-v0-6-0|4 Safety
   and Privacy changes in v0.6.0]]'
+- '[[Changes/Open WebUI/2025-09-25-3-safety-and-privacy-changes-in-v0-6-31|3 Safety
+  and Privacy changes in v0.6.31]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-09-26-rust-v0-42-0-github-250387883-27046aff|codex-cli-2025-09-26-rust-v0-42-0-github-250387883-27046aff]]'
 source_type: github_releases
 theme: safety-privacy
@@ -86,7 +86,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.42.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2025-09-24 · Gemini CLI · [[Changes/Gemini CLI/2025-09-24-4-safety-and-privacy-changes-in-v0-6-0|4 Safety and Privacy changes in v0.6.0]]
+- Earlier: 2025-09-25 · Open WebUI · [[Changes/Open WebUI/2025-09-25-3-safety-and-privacy-changes-in-v0-6-31|3 Safety and Privacy changes in v0.6.31]]
 - Later: 2025-09-26 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-09-26-improved-the-error-message-received-when-using-a-pat-that-is-missing-the-copilot|Improved the error message received when using a PAT that is missing…]]
 <!-- chronolog:end -->
 

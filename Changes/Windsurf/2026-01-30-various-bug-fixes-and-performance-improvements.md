@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ff3559afabe84586d29b2dd9cf0350cc554d2a30c0720435143b7ea9855556f5
+machine_hash: d91bcbff91b763e96f0ed9838c80a1dcfa608dcd3c9fbb50a18a705f282d89ef
 product: windsurf
 product_name: Windsurf
 record:
@@ -40,10 +40,10 @@ record:
   title: Various bug fixes and performance improvements
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-01-22-4-reliability-and-performance-changes-in-2-4|4 Reliability
-  and Performance changes in 2.4]]'
 - '[[Changes/Windsurf/2026-01-23-improved-overall-stability-and-reliability|Improved
   overall stability and reliability]]'
+- '[[Changes/Ollama/2026-01-24-glm-4-7-flash-performance-and-correctness-improvements-fixing-repetitive-answers|GLM-4.7-Flash
+  performance and correctness improvements, fixing repetitive answers…]]'
 - '[[Changes/Cline/2026-01-27-throttle-diff-view-updates-during-streaming-to-reduce-ui-flickering-and-improve|Throttle
   diff view updates during streaming to reduce UI flickering and improve…]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-01-30-v1-9544-24-02c78afb|windsurf-2026-01-30-v1-9544-24-02c78afb]]'

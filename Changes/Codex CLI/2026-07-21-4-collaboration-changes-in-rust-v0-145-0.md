@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 15ade49f019e0d72c4597a5dcee60ad7cb0aeaf2db549627b73d66b716ce1f5b
+machine_hash: 6ab674a2ab75063dee6042340aad9b6eeaac18c802e791d42c4a93d7e82b30db
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -45,12 +45,11 @@ record:
   title: 4 Collaboration changes in rust-v0.145.0
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-07-09-existing-group-chats-will-remain-available-and-can-continue-to-be-used-for-now-w|Existing
-  group chats will remain available and can continue to be used for now]]'
-- '[[Changes/Codex CLI/2026-07-09-31587-stabilize-shared-rollout-budget-test-jif-oai|♯31587
-  Stabilize shared rollout budget test @jif-oai]]'
+- '[[Changes/ElevenLabs/2026-07-13-workspaces|Workspaces]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-16-2-collaboration-changes-in-v1-0-71|2 Collaboration
   changes in v1.0.71]]'
+- '[[Changes/Dify/2026-07-17-4-collaboration-changes-in-1-16-0|4 Collaboration changes
+  in 1.16.0]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-07-21-rust-v0-145-0-github-357545274-7be4454f|codex-cli-2026-07-21-rust-v0-145-0-github-357545274-7be4454f]]'
 source_type: github_releases
 theme: collaboration
@@ -104,8 +103,8 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.145.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-07-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-16-2-collaboration-changes-in-v1-0-71|2 Collaboration changes in v1.0.71]]
-- Later: 2026-07-22 · Cursor · [[Changes/Cursor/2026-07-22-admin-controls-per-team-and-per-group-enablement-mode-restrictions-default-mode|Admin controls: per-team and per-group enablement, mode restrictions, default mode…]]
+- Earlier: 2026-07-17 · Dify · [[Changes/Dify/2026-07-17-4-collaboration-changes-in-1-16-0|4 Collaboration changes in 1.16.0]]
+- Later: 2026-07-21 · v0 · [[Changes/v0/2026-07-21-4-collaboration-changes-in-slash-commands-the-shopify|4 Collaboration changes in Slash commands, the Shopify…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

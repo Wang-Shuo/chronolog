@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2b2aa3b3a2aa403f2ec15ffc54e77a05afd5710cdd92ae4caa58564efb1112d3
+machine_hash: e6d85c0b507eca1e0750f89b96a5520b27f5f485da93d05f4708b5bd33fcad48
 product: cursor
 product_name: Cursor
 record:
@@ -43,10 +43,10 @@ record:
   title: Onboarding & Feedback
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-11-10-command-dot-you-can-now-use-the-command-dot-menu-to-have-command-k-fix-lint-erro|Command-dot:
-  you can now use the Command-dot menu to have Command-K fix lint errors inline]]'
 - '[[Changes/Cursor/2023-11-12-copilot-improvements-includes-green-highlights-to-see-what-copilot-has-added-the|Copilot++
   improvements: Includes green highlights to see what Copilot++ has added…]]'
+- '[[Changes/Gemini/2023-11-16-bard-is-available-for-more-age-groups|Bard is available
+  for more age groups]]'
 - '[[Changes/Cursor/2023-11-27-copilot-improvements-we-ve-spent-some-time-improving-the-latency-of-copilot-and|Copilot++
   Improvements: We''ve spent some time improving the latency…]]'
 source_release: '[[Releases/Cursor/cursor-2023-12-06-0-18-4-0-18-5-https-cursor-com-changelog-0-18-4-0-18-5-d1de0931|cursor-2023-12-06-0-18-4-0-18-5-https-cursor-com-changelog-0-18-4-0-18-5-d1de0931]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2ad07c1312b1141113ee19a916acff59a28b1945da9035ff30a3c53fc1943723
+machine_hash: 9a228d9e00e4702518834536208955d5aa3d5d3db01b5bd65b966c13f743b3da
 product: windsurf
 product_name: Windsurf
 record:
@@ -40,11 +40,10 @@ record:
   title: Various bug fixes and performance improvements
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-12-22-for-this-holiday-release-we-ve-focused-entirely-on-fixing-bugs-and-improving-sta|For
-  this holiday release, we''ve focused entirely on fixing bugs and improving stability]]'
-- '[[Changes/Cursor/2025-12-22-2-reliability-and-performance-changes-in-2-3|2 Reliability
-  and Performance changes in 2.3]]'
 - '[[Changes/Windsurf/2025-12-24-swe-1-5-free|SWE-1.5 Free]]'
+- '[[Changes/Dify/2025-12-25-feat-show-generate-speed-in-chatbot-by-leslie2046-in-https-github-com-langgenius|feat:
+  show generate speed in chatbot]]'
+- '[[Changes/Replit/2025-12-26-fast-build|Fast Build]]'
 source_release: '[[Releases/Windsurf/windsurf-2025-12-27-v1-13-5-7fb4dd9f|windsurf-2025-12-27-v1-13-5-7fb4dd9f]]'
 source_type: windsurf_changelog
 theme: reliability-performance
@@ -74,7 +73,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-12-24 · Windsurf · [[Changes/Windsurf/2025-12-24-swe-1-5-free|SWE-1.5 Free]]
+- Earlier: 2025-12-26 · Replit · [[Changes/Replit/2025-12-26-fast-build|Fast Build]]
 - Later: 2026-01-06 · Codex CLI · [[Changes/Codex CLI/2026-01-06-performance-tuning-for-tuis-cap-redraw-scheduling-and-reduce-unnecessary-rerende|Performance tuning for TUIs]]
 <!-- chronolog:end -->
 

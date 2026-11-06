@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: f879ef5b9a3802c5bbbf47deed567362e211605d089567f1cc9f65ee860e7ca1
+machine_hash: 23c801cc87efe8af10ee1157c3904666e84e4a832b55015fd6eef9585b338161
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -75,9 +75,9 @@ record:
   title: GPT-5 Updates
   type: change
 related_changes:
-- '[[Changes/Windsurf/2025-08-07-gpt-5-available|GPT-5 Available]]'
-- '[[Changes/Aider/2025-08-09-5-model-support-changes-in-v0-86-0|5 Model Support changes
-  in v0.86.0]]'
+- '[[Changes/ElevenLabs/2025-08-11-music|Music]]'
+- "[[Changes/Open WebUI/2025-08-11-openai-api-v1-endpoint-compatibility-enhanced-api-compatibility-by-supporting-re|\U0001F517
+  OpenAI API '/v1' Endpoint Compatibility]]"
 - '[[Changes/ChatGPT/2025-08-12-gmail-google-calendar-and-google-contacts-are-now-available-to-connect-and-use-i-9ea6d6|Gmail,
   Google Calendar, and Google Contacts Connectors in ChatGPT (Pro)]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-08-12-gpt-5-updates-9aaeee46|chatgpt-2025-08-12-gpt-5-updates-9aaeee46]]'

@@ -14,7 +14,7 @@ created: '2024-07-28'
 date: '2026-10-26'
 description: Coding agent for the editor, tracked through stable Cline application
   releases in the official cline/cline repository.
-machine_hash: 7b1240cda53079d6a7e5b5708ba89f885871e6b274c6d719132b5f4c77ce1266
+machine_hash: 0a8bd230d72ee3c51e613340262542cb3900f376c88f597f8c0530be69800bc8
 modified: '2026-10-26'
 product: cline
 product_name: Cline
@@ -681,21 +681,21 @@ Acquisition details, how cards are made and known gaps: [[About]].
 - 2026-02-05 · Model Support: [[Changes/Cline/2026-02-05-anthopic-opus-4-6|Anthopic Opus 4.6]]
 - 2026-02-05 · Pricing Model: [[Changes/Cline/2026-02-05-codex-5-3-through-chatgpt-subscription|Codex-5.3 through ChatGPT subscription]]
 - 2026-02-05 · Other changes: [[Changes/Cline/2026-02-05-3-other-changes-in-v3-57-0|3 other changes in v3.57.0]]
-- 2026-01-30 · Apps and Integrations: [[Changes/Cline/2026-01-30-hooks-hook-scripts-now-run-from-the-workspace-repository-root-instead-of-filesys-f43db5|_Hooks: Hook scripts now run from the workspace repository root instead…]]
-- 2026-01-30 · Model Support: [[Changes/Cline/2026-01-30-litellm-fixed-thinking-configuration-not-appearing-for-reasoning-capable-models-cb84ce|_LiteLLM: Fixed thinking configuration not appearing for reasoning-capable models]]
-- 2026-01-30 · Model Support: [[Changes/Cline/2026-01-30-litellm-fixed-thinking-configuration-not-appearing-for-reasoning-capable-models-c6cd73|_LiteLLM: Fixed thinking configuration not appearing for reasoning-capable models]]
-- 2026-01-30 · Model Support: [[Changes/Cline/2026-01-30-litellm-fixed-thinking-configuration-not-appearing-for-reasoning-capable-models|_LiteLLM: Fixed thinking configuration not appearing for reasoning-capable models]]
+- 2026-01-30 · Apps and Integrations: [[Changes/Cline/2026-01-30-hooks-hook-scripts-now-run-from-the-workspace-repository-root-instead-of-filesys-f43db5|Hooks: Hook scripts now run from the workspace repository root instead…]]
+- 2026-01-30 · Model Support: [[Changes/Cline/2026-01-30-litellm-fixed-thinking-configuration-not-appearing-for-reasoning-capable-models-cb84ce|LiteLLM: Fixed thinking configuration not appearing for reasoning-capable models]]
+- 2026-01-30 · Model Support: [[Changes/Cline/2026-01-30-litellm-fixed-thinking-configuration-not-appearing-for-reasoning-capable-models-c6cd73|LiteLLM: Fixed thinking configuration not appearing for reasoning-capable models]]
+- 2026-01-30 · Model Support: [[Changes/Cline/2026-01-30-litellm-fixed-thinking-configuration-not-appearing-for-reasoning-capable-models|LiteLLM: Fixed thinking configuration not appearing for reasoning-capable models]]
 - 2026-01-30 · Other changes: [[Changes/Cline/2026-01-30-6-other-changes-in-v3-56-0|6 other changes in v3.56.0]]
-- 2026-01-30 · Apps and Integrations: [[Changes/Cline/2026-01-30-hooks-hook-scripts-now-run-from-the-workspace-repository-root-instead-of-filesys-9eb2c6|_Hooks: Hook scripts now run from the workspace repository root instead…]]
-- 2026-01-30 · Context Window: [[Changes/Cline/2026-01-30-new-model-added-kimi-k2-5-model-to-moonshot-provider-262k-context-image-support-9b8adb|_New model: Added Kimi-K2.5 model to Moonshot provider…]]
+- 2026-01-30 · Apps and Integrations: [[Changes/Cline/2026-01-30-hooks-hook-scripts-now-run-from-the-workspace-repository-root-instead-of-filesys-9eb2c6|Hooks: Hook scripts now run from the workspace repository root instead…]]
+- 2026-01-30 · Context Window: [[Changes/Cline/2026-01-30-new-model-added-kimi-k2-5-model-to-moonshot-provider-262k-context-image-support-9b8adb|New model: Added Kimi-K2.5 model to Moonshot provider…]]
 - 2026-01-30 · Other changes: [[Changes/Cline/2026-01-30-6-other-changes-in-v3-56-1|6 other changes in v3.56.1]]
-- 2026-01-30 · Apps and Integrations: [[Changes/Cline/2026-01-30-hooks-hook-scripts-now-run-from-the-workspace-repository-root-instead-of-filesys|_Hooks: Hook scripts now run from the workspace repository root instead…]]
+- 2026-01-30 · Apps and Integrations: [[Changes/Cline/2026-01-30-hooks-hook-scripts-now-run-from-the-workspace-repository-root-instead-of-filesys|Hooks: Hook scripts now run from the workspace repository root instead…]]
 - 2026-01-30 · Other changes: [[Changes/Cline/2026-01-30-6-other-changes-in-v3-56-2|6 other changes in v3.56.2]]
-- 2026-01-30 · Context Window: [[Changes/Cline/2026-01-30-new-model-added-kimi-k2-5-model-to-moonshot-provider-262k-context-image-support-53f1f0|_New model: Added Kimi-K2.5 model to Moonshot provider…]]
-- 2026-01-30 · Account and Access: [[Changes/Cline/2026-01-30-cli-authentication-added-vercel-ai-gateway-and-cline-api-key-provider-support-fo-4f2168|_CLI authentication: Added Vercel AI Gateway and Cline API key provider support…]]
-- 2026-01-30 · Account and Access: [[Changes/Cline/2026-01-30-cli-authentication-added-vercel-ai-gateway-and-cline-api-key-provider-support-fo-4bce9f|_CLI authentication: Added Vercel AI Gateway and Cline API key provider support…]]
-- 2026-01-30 · Context Window: [[Changes/Cline/2026-01-30-new-model-added-kimi-k2-5-model-to-moonshot-provider-262k-context-image-support|_New model: Added Kimi-K2.5 model to Moonshot provider…]]
-- 2026-01-30 · Account and Access: [[Changes/Cline/2026-01-30-cli-authentication-added-vercel-ai-gateway-and-cline-api-key-provider-support-fo|_CLI authentication: Added Vercel AI Gateway and Cline API key provider support…]]
+- 2026-01-30 · Context Window: [[Changes/Cline/2026-01-30-new-model-added-kimi-k2-5-model-to-moonshot-provider-262k-context-image-support-53f1f0|New model: Added Kimi-K2.5 model to Moonshot provider…]]
+- 2026-01-30 · Account and Access: [[Changes/Cline/2026-01-30-cli-authentication-added-vercel-ai-gateway-and-cline-api-key-provider-support-fo-4f2168|CLI authentication: Added Vercel AI Gateway and Cline API key provider support…]]
+- 2026-01-30 · Account and Access: [[Changes/Cline/2026-01-30-cli-authentication-added-vercel-ai-gateway-and-cline-api-key-provider-support-fo-4bce9f|CLI authentication: Added Vercel AI Gateway and Cline API key provider support…]]
+- 2026-01-30 · Context Window: [[Changes/Cline/2026-01-30-new-model-added-kimi-k2-5-model-to-moonshot-provider-262k-context-image-support|New model: Added Kimi-K2.5 model to Moonshot provider…]]
+- 2026-01-30 · Account and Access: [[Changes/Cline/2026-01-30-cli-authentication-added-vercel-ai-gateway-and-cline-api-key-provider-support-fo|CLI authentication: Added Vercel AI Gateway and Cline API key provider support…]]
 - 2026-01-28 · Apps and Integrations: [[Changes/Cline/2026-01-28-add-mcp-prompts-support-prompts-from-connected-mcp-servers-now-appear-in-slash-c|Add MCP prompts support - prompts from connected MCP servers now appear in slash…]]
 - 2026-01-28 · Model Support: [[Changes/Cline/2026-01-28-2-model-support-changes-in-v3-55-0|2 Model Support changes in v3.55.0]]
 - 2026-01-27 · Model Support: [[Changes/Cline/2026-01-27-3-model-support-changes-in-v3-54-0|3 Model Support changes in v3.54.0]]

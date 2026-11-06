@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3846412f1b36d30fa9a557f44a713e33563b5b41ac8f4320bc28eec64f39293e
+machine_hash: 926b6c33e998af78a9ff7afa5cc3e3c599aedb02b1220435c3752a63f29107c7
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -41,12 +41,12 @@ record:
   title: 'Release notes at: https://github.com/google-gemini/gemini-cli/discussions/2301'
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-06-24-2-model-support-changes-in-0-46-0|2 Model Support
-  changes in 0.46.0]]'
 - '[[Changes/Cline/2025-06-26-3-model-support-changes-in-v3-18-0|3 Model Support changes
   in v3.18.0]]'
 - '[[Changes/Aider/2025-06-27-5-model-support-changes-in-v0-85-0|5 Model Support changes
   in v0.85.0]]'
+- '[[Changes/Ollama/2025-06-27-the-directory-in-which-models-are-stored-can-now-be-modified-this-allows-models|The
+  directory in which models are stored can now be modified!]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-06-28-v0-1-6-github-228497309-b714f1bc|gemini-cli-2025-06-28-v0-1-6-github-228497309-b714f1bc]]'
 source_type: github_releases
 theme: model-support
@@ -73,7 +73,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-06-27 · Aider · [[Changes/Aider/2025-06-27-5-model-support-changes-in-v0-85-0|5 Model Support changes in v0.85.0]]
+- Earlier: 2025-06-27 · Ollama · [[Changes/Ollama/2025-06-27-the-directory-in-which-models-are-stored-can-now-be-modified-this-allows-models|The directory in which models are stored can now be modified!]]
 - Later: 2025-06-28 · Gemini CLI · [[Changes/Gemini CLI/2025-06-28-release-notes-for-0-1-6-at-https-github-com-google-gemini-gemini-cli-discussions|Release Notes for 0.1.6 at (source link)]]
 <!-- chronolog:end -->
 

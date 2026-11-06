@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5efbd3e5c124086477077a009f4bf61131283852f60ddab674214f23c4d0be7e
+machine_hash: 5fc86b7ca166d047eb8289f8dd8f26ece8412429d9d1df62e59f29fd61a1ad56
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -85,7 +85,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.62.0
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-09-29 · Codex CLI · [[Changes/Codex CLI/2026-09-29-8-apps-and-integrations-changes-in-rust-v0-159-0|8 Apps and Integrations changes in rust-v0.159.0]]
-- Later: 2026-09-30 · Claude Code · [[Changes/Claude Code/2026-09-30-11-apps-and-integrations-changes-in-v2-1-286|11 Apps and Integrations changes in v2.1.286]]
+- Later: 2026-09-29 · Lovable · [[Changes/Lovable/2026-09-29-lovable-mcp-now-works-with-muse-by-meta|Lovable MCP now works with Muse by Meta]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

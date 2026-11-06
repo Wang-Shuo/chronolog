@@ -4,20 +4,20 @@ date: '2026-08-05'
 description: 'OpenHands · 2026-08-05 · Multimodal Input: ci: require frontend screenshot/video
   and checked human-tested box by @all-hands-bot in…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-09-25-you-can-now-show-chatgpt-one-or-more-images-troubleshoot-why-your-grill-won-t-st-e42bd6|Image
-    input will be generally available to Plus users on all platforms]]'
+  first_in_tracked: '[[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add
+    video to cn readme]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1045
+  lag_days: 1051
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8bf1f010301d512182dd59f95e0f01aa94c55bc0aef6b7364f2088b050b33b44
+machine_hash: 464b177b75bcadfc6b8d9e5d6691f5196c9e4693df0754c11479db3376642686
 product: openhands
 product_name: OpenHands
 record:
@@ -44,12 +44,12 @@ record:
   title: 'ci: require frontend screenshot/video and checked human-tested box'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-02-2-multimodal-input-changes-in-rust-v0-107-0|2 Multimodal
-  Input changes in rust-v0.107.0]]'
-- '[[Changes/Claude Code/2026-05-08-wsl2-image-paste-from-windows-clipboard-now-works-via-a-powershell-fallback-when|WSL2:
-  image paste from Windows clipboard now works via a PowerShell fallback…]]'
+- '[[Changes/Ollama/2026-06-03-gemma-4-12b-https-ollama-com-library-gemma4-12b-high-performance-multimodal-inte|Gemma
+  4 12B((source link)]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-23-clear-queued-tool-images-when-vision-is-disabled|Clear
   queued tool images when vision is disabled]]'
+- "[[Changes/Open WebUI/2026-07-27-media-types-an-extraction-engine-may-handle-administrators-can-now-list-which-im|\U0001F5BC️
+  Media types an extraction engine may handle. Administrators can now list…]]"
 source_release: '[[Releases/OpenHands/openhands-2026-08-05-v1-10-0-github-365644892-3a7bd834|openhands-2026-08-05-v1-10-0-github-365644892-3a7bd834]]'
 source_type: github_releases
 theme: multimodal
@@ -82,13 +82,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Multimodal Input
 
-- Earlier: 2026-06-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-23-clear-queued-tool-images-when-vision-is-disabled|Clear queued tool images when vision is disabled]]
+- Earlier: 2026-07-27 · Open WebUI · [[Changes/Open WebUI/2026-07-27-media-types-an-extraction-engine-may-handle-administrators-can-now-list-which-im|🖼️ Media types an extraction engine may handle. Administrators can now list…]]
+- Later: 2026-08-10 · Ollama · [[Changes/Ollama/2026-08-10-ollama-s-mlx-engine-provides-state-of-the-art-performance-on-apple-silicon-for-t|Ollama's MLX engine provides state-of-the-art performance on Apple Silicon…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-25 · ChatGPT · [[Changes/ChatGPT/2023-09-25-you-can-now-show-chatgpt-one-or-more-images-troubleshoot-why-your-grill-won-t-st-e42bd6|Image input will be generally available to Plus users on all platforms]]
+- Earliest same-theme entry in the tracked set: 2023-09-19 · Dify · [[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add video to cn readme]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

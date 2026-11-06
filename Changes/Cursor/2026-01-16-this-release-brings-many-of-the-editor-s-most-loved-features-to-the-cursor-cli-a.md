@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: abc187d0f90b0aa3a6fa58d675aaca0594649babdd8f1933ec24d78977ec911c
+machine_hash: e301531e2b21b340a0a98bfa16c6d8b23e4f0c8fe3f7c8ebe68b417bf6ecfda3
 product: cursor
 product_name: Cursor
 record:
@@ -45,10 +45,9 @@ record:
     along…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-01-14-2-editor-experience-changes-in-rust-v0-81-0|2 Editor
-  Experience changes in rust-v0.81.0]]'
 - '[[Changes/Gemini CLI/2026-01-14-4-editor-experience-changes-in-v0-24-0|4 Editor
   Experience changes in v0.24.0]]'
+- '[[Changes/Ollama/2026-01-14-qwen-image-edit-2511|Qwen-Image-Edit-2511]]'
 - '[[Changes/Claude Code/2026-01-16-added-external-editor-support-ctrl-g-in-askuserquestion-other-input-field|Added
   external editor support (Ctrl+G) in AskUserQuestion "Other" input field]]'
 source_release: '[[Releases/Cursor/cursor-2026-01-16-cli-agent-modes-and-cloud-handoff-https-cursor-com-changelog-cli-becd78b5|cursor-2026-01-16-cli-agent-modes-and-cloud-handoff-https-cursor-com-changelog-cli-becd78b5]]'

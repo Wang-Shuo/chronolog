@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9ccd37b706d9f2c3edfaad676dffeff8d533c516ba495250595350cc55df633d
+machine_hash: 55b83734f6111ee7c118745a107fcdd2b7e5883798c831c6f1a1d2194cd1594f
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -63,8 +63,8 @@ record:
   title: 8 Model Support changes in v1.0.101
   type: change
 related_changes:
-- '[[Changes/Cline/2026-10-16-4-model-support-changes-in-v4-1-25|4 Model Support changes
-  in v4.1.25]]'
+- '[[Changes/Ollama/2026-10-18-6-model-support-changes-in-v0-40-7|6 Model Support
+  changes in v0.40.7]]'
 - '[[Changes/Claude Code/2026-10-19-2-model-support-changes-in-v2-1-304|2 Model Support
   changes in v2.1.304]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-19-3-model-support-changes-in-v1-0-100|3 Model
@@ -121,7 +121,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.101
 ## Nearby in Model Support
 
 - Earlier: 2026-10-19 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-19-3-model-support-changes-in-v1-0-100|3 Model Support changes in v1.0.100]]
-- Later: 2026-10-21 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-21-prompt-mode-now-honors-managed-auto-model-selection-for-p-and-piped-stdin-runs|Prompt mode now honors managed Auto model selection for -p and piped stdin runs]]
+- Later: 2026-10-20 · Lovable · [[Changes/Lovable/2026-10-20-seedream-5-pro-and-seedance-2-5-for-your-app-s-ai-features|Seedream 5 Pro and Seedance 2.5 for your app's AI features]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

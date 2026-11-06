@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a6b2f0cb57f182afd78e0d20601b329b14453f326c6ae42cce8ba76879ddc503
+machine_hash: 88afafa6f75cea7d32d0b217208973aceeb71b187ee934b86bdf64b5a0c2f7ee
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -55,10 +55,8 @@ record:
   title: 7 Apps and Integrations changes in v0.11.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-10-23-11-apps-and-integrations-changes-in-rust-v0-48-0|11
-  Apps and Integrations changes in rust-v0.48.0]]'
-- '[[Changes/Codex CLI/2025-10-25-3-apps-and-integrations-changes-in-rust-v0-50-0|3
-  Apps and Integrations changes in rust-v0.50.0]]'
+- '[[Changes/ElevenLabs/2025-10-27-python-sdk|Python SDK]]'
+- '[[Changes/ElevenLabs/2025-10-27-javascript-sdk|JavaScript SDK]]'
 - '[[Changes/GitHub Copilot CLI/2025-10-27-improve-handling-of-mcp-tools-containing-slashes|Improve
   handling of MCP tools containing slashes]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-10-29-v0-11-0-github-258016924-cf04d23a|gemini-cli-2025-10-29-v0-11-0-github-258016924-cf04d23a]]'

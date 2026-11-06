@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 658dfb66c486d2079becec872396d18b8c522fab9da98de90c60bfd96f284276
+machine_hash: 4a4d6d9ca08200872e19d33779ded53be5311ca326fb0c5b0fd9cdd6708afe71
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,7 +44,8 @@ record:
   title: 2 Model Support changes in v1.0.60
   type: change
 related_changes:
-- '[[Changes/Cline/2026-06-03-add-minimax-m3-model-support|Add MiniMax M3 model support]]'
+- '[[Changes/Ollama/2026-06-03-2-model-support-changes-in-v0-30-2|2 Model Support
+  changes in v0.30.2]]'
 - '[[Changes/Codex CLI/2026-06-04-3-model-support-changes-in-rust-v0-137-0|3 Model
   Support changes in rust-v0.137.0]]'
 - '[[Changes/Cline/2026-06-05-3-model-support-changes-in-v3-88-0|3 Model Support changes

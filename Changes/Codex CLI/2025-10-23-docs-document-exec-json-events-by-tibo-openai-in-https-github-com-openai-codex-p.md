@@ -4,20 +4,20 @@ date: '2025-10-23'
 description: 'Codex CLI · 2025-10-23 · Files and Data: docs: document exec json events
   by @tibo-openai in https://github.com/openai/codex/pull/5399'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code
-    interpreter is now rolling out in beta on web]]'
+  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
+    Files and Data changes in 0.2.2]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 840
+  lag_days: 882
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 72ad9e05116626c57bbb705e5919c38258a31bf493a5c5e1ae10a32fb2535a73
+machine_hash: ff85407083d6da448d3403cc74a0074bad1fc326ecd5fb4777e290c461b6eb98
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,10 +43,10 @@ record:
   title: 'docs: document exec json events'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-09-05-3118-codex-document-use-experimental-reasoning-summary-toml-key-config|♯3118
-  codex document use_experimental_reasoning_summary toml key config]]'
-- '[[Changes/Gemini CLI/2025-10-07-2-files-and-data-changes-in-v0-8-0|2 Files and
-  Data changes in v0.8.0]]'
+- '[[Changes/Open WebUI/2025-10-07-2-files-and-data-changes-in-v0-6-33|2 Files and
+  Data changes in v0.6.33]]'
+- '[[Changes/Open WebUI/2025-10-16-2-files-and-data-changes-in-v0-6-34|2 Files and
+  Data changes in v0.6.34]]'
 - '[[Changes/Gemini CLI/2025-10-22-document-all-settings-with-showindialog-true-by-scidomino-in-https-github-com-go|document
   all settings with showInDialog: true]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-10-23-rust-v0-48-0-github-256860123-ffacccba|codex-cli-2025-10-23-rust-v0-48-0-github-256860123-ffacccba]]'
@@ -93,7 +93,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-06 · ChatGPT · [[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code interpreter is now rolling out in beta on web]]
+- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

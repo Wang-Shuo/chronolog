@@ -5,20 +5,20 @@ description: 'ChatGPT · 2026-08-07 · Voice and Audio: GPT-Live in ChatGPT Voic
   supports file uploads and Projects. You can now upload files in a voice conversation
   and…'
 diffusion:
-  first_in_tracked: '[[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source
-    link) support, which allows you…]]'
+  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
+    Voice and Audio changes in 0.3.7]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1092
+  lag_days: 1124
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 33bcff9afed2c97d48c87b6630bbfe75dbfcbb587bf530964ebbee89d671a29a
+machine_hash: f5392a1fac64ca8b5db2686c5837b4f84f114af3dbda79cecfa1598dec553c85
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -48,8 +48,7 @@ record:
   title: Files and Projects in ChatGPT Voice
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-30-voice-mode-pauses-playing-media-before-recording-and-resumes-it-afterward-where|Voice
-  mode pauses playing media before recording and resumes it afterward, where…]]'
+- '[[Changes/ElevenLabs/2026-08-03-text-to-speech|Text to Speech]]'
 - '[[Changes/ChatGPT/2026-08-07-start-voice-conversations-faster-improved-connection-times-make-it-quicker-to-be|Start
   Voice conversations faster]]'
 - '[[Changes/ChatGPT/2026-08-07-safeguards-for-background-voice-conversations-on-mobile-chatgpt-can-recognize-wh|Safeguards
@@ -87,7 +86,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-08-11 · Aider · [[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source link) support, which allows you…]]
+- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

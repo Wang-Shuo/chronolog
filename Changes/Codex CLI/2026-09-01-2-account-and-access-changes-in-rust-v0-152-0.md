@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7034bc706560b910537e7477a960a1ed941ff8ccc5009949c7f21631b763092b
+machine_hash: 02c775ef7be531c20ec8df6129957777e6569a65b528d8be02dc69c4cac62424
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,10 +43,10 @@ record:
   title: 2 Account and Access changes in rust-v0.152.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-28-changed-analytics-to-no-longer-turn-off-before-sign-in-solely-because-managed-se|Changed
-  analytics to no longer turn off before sign-in solely because managed…]]'
 - '[[Changes/GitHub Copilot CLI/2026-08-29-show-the-specific-authentication-failure-such-as-401-bad-credentials-instead-of|Show
   the specific authentication failure (such as 401 Bad credentials) instead…]]'
+- "[[Changes/Open WebUI/2026-08-31-disconnect-oauth-only-where-there-is-oauth-the-disconnect-control-on-a-tool-serv|\U0001F50C
+  Disconnect OAuth only where there is OAuth. The disconnect control on a tool…]]"
 - '[[Changes/Claude Code/2026-09-01-2-account-and-access-changes-in-v2-1-257|2 Account
   and Access changes in v2.1.257]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-09-01-rust-v0-152-0-github-380164108-cd339544|codex-cli-2026-09-01-rust-v0-152-0-github-380164108-cd339544]]'

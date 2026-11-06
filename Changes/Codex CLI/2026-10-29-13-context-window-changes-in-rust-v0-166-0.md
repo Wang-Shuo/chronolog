@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3ce6df8efd2de0a0d14e205bb76e2889e441f728f23667f6d15f5828838615c7
+machine_hash: 344f36d331862346f158c457e36ea95e2beb8d586eb781d67fc05a16f10f5555
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -68,12 +68,12 @@ record:
   title: 13 Context Window changes in rust-v0.166.0
   type: change
 related_changes:
-- '[[Changes/Cline/2026-10-26-auto-compaction-no-longer-runs-for-models-with-an-unknown-context-limit-and-it-n|Auto-compaction
-  no longer runs for models with an unknown context limit, and it no…]]'
 - '[[Changes/Claude Code/2026-10-27-changed-a-subagent-s-autocompactwindow-to-lower-the-window-set-by-claude-code-au|Changed
   a subagent''s autoCompactWindow to lower the window set…]]'
 - '[[Changes/Codex CLI/2026-10-27-2-context-window-changes-in-rust-v0-165-0|2 Context
   Window changes in rust-v0.165.0]]'
+- '[[Changes/Ollama/2026-10-27-lfm3-https-ollama-com-library-lfm3-a-1-7b-text-model-with-a-256k-token-context-w|lfm3((source
+  link) a 1.7B text model with a 256K-token context…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-10-29-rust-v0-166-0-github-428320524-44f8c24a|codex-cli-2026-10-29-rust-v0-166-0-github-428320524-44f8c24a]]'
 source_type: github_releases
 theme: context-window
@@ -143,8 +143,8 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.166.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-10-27 · Codex CLI · [[Changes/Codex CLI/2026-10-27-2-context-window-changes-in-rust-v0-165-0|2 Context Window changes in rust-v0.165.0]]
-- Later: 2026-11-06 · Codex CLI · [[Changes/Codex CLI/2026-11-06-8-context-window-changes-in-rust-v0-167-0|8 Context Window changes in rust-v0.167.0]]
+- Earlier: 2026-10-27 · Ollama · [[Changes/Ollama/2026-10-27-lfm3-https-ollama-com-library-lfm3-a-1-7b-text-model-with-a-256k-token-context-w|lfm3((source link) a 1.7B text model with a 256K-token context…]]
+- Later: 2026-10-29 · Open WebUI · [[Changes/Open WebUI/2026-10-29-provider-details-for-models-administrators-editing-a-model-now-see-a-provider-de|📇 Provider details for models. Administrators editing a model now see a Provider…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

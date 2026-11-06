@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a6d4a766854bac68425c1fdda2a3e41d5b80153da89bf86498375e37de820b74
+machine_hash: a46511b5e8cdd54b43e76892a849191d45dd4a24a723fbe7411f4a3d3c11e049
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -50,8 +50,8 @@ record:
   title: 6 Developer Workflow changes in v1.0.68
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-29-2-developer-workflow-changes-in-v2-1-196|2 Developer
-  Workflow changes in v2.1.196]]'
+- '[[Changes/Open WebUI/2026-06-29-42-developer-workflow-changes-in-v0-10-0|42 Developer
+  Workflow changes in v0.10.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-30-21-developer-workflow-changes-in-v1-0-66|21
   Developer Workflow changes in v1.0.66]]'
 - '[[Changes/Claude Code/2026-07-01-background-agents-launched-from-claude-agents-now-commit-push-and-open-a-draft-p|Background
@@ -105,7 +105,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.68
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-07-01 · Claude Code · [[Changes/Claude Code/2026-07-01-background-agents-launched-from-claude-agents-now-commit-push-and-open-a-draft-p|Background agents launched from claude agents now commit, push, and open a draft…]]
-- Later: 2026-07-02 · Claude Code · [[Changes/Claude Code/2026-07-02-claude-agents-session-rows-now-show-pull-request-links-as-bare-n-without-the-red|claude agents session rows now show pull-request links as bare ♯N without…]]
+- Later: 2026-07-01 · Open WebUI · [[Changes/Open WebUI/2026-07-01-5-developer-workflow-changes-in-v0-10-2|5 Developer Workflow changes in v0.10.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

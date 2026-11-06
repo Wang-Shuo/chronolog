@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 56f2f659605600ca8931f9c28daecf3c39ff17307e097e03731e30c2983b292d
+machine_hash: da48eeb351c8b63a4a34c81a4e8e5683a57bca4a8999953eb31735992f1c71e3
 product: cursor
 product_name: Cursor
 record:
@@ -56,10 +56,10 @@ record:
   title: 8 Reliability and Performance changes in 1.7
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-09-17-2-reliability-and-performance-changes-in-toggle-thinking-time-in-the-message|2
-  Reliability and Performance changes in Toggle thinking time in the message…]]'
 - '[[Changes/Gemini CLI/2025-09-24-feat-add-cached-string-width-function-for-performance-optimization-by-jacob314-i|feat:
   add cached string width function for performance optimization]]'
+- '[[Changes/Open WebUI/2025-09-25-5-reliability-and-performance-changes-in-v0-6-31|5
+  Reliability and Performance changes in v0.6.31]]'
 - '[[Changes/Codex CLI/2025-09-26-stability-and-correctness-token-usage-fix-for-compaction-sse-mounting-reliabilit|Stability
   and correctness]]'
 source_release: '[[Releases/Cursor/cursor-2025-09-29-1-7-https-cursor-com-changelog-1-7-0a03c0ae|cursor-2025-09-29-1-7-https-cursor-com-changelog-1-7-0a03c0ae]]'
@@ -125,7 +125,7 @@ Source: https://cursor.com/changelog/1-7
 ## Nearby in Reliability and Performance
 
 - Earlier: 2025-09-26 · Codex CLI · [[Changes/Codex CLI/2025-09-26-stability-and-correctness-token-usage-fix-for-compaction-sse-mounting-reliabilit|Stability and correctness]]
-- Later: 2025-09-29 · Windsurf · [[Changes/Windsurf/2025-09-29-devin-features-in-windsurf-stability-improvements-and-a-brand-new-ui|Devin features in Windsurf, stability improvements, and a brand new UI]]
+- Later: 2025-09-29 · Dify · [[Changes/Dify/2025-09-29-3-reliability-and-performance-changes-in-1-9-1|3 Reliability and Performance changes in 1.9.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

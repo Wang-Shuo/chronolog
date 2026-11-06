@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 260f87c35e7e12ffe589b3ce84e3b260ec2ad2d4b8736d019537936c03e6c120
+machine_hash: 0cec6dd58347e8869e7a48358d6884e8813d10b32885477bcd90630f0b4d58a3
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -58,12 +58,11 @@ record:
   title: 9 Agent Mode changes in rust-v0.131.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-13-resume-supports-copilot-cloud-agent-sessions-where-the-agent-hasn-t-pushed-any-c|--resume
-  supports Copilot cloud agent sessions where the agent hasn''t pushed any…]]'
-- '[[Changes/Claude Code/2026-05-14-improved-hook-configuration-error-configuring-a-prompt-or-agent-type-hook-for-se|Improved
-  hook configuration error]]'
 - '[[Changes/Claude Code/2026-05-15-2-agent-mode-changes-in-v2-1-143|2 Agent Mode
   changes in v2.1.143]]'
+- '[[Changes/Replit/2026-05-15-agent|Agent]]'
+- '[[Changes/v0/2026-05-15-2-agent-mode-changes-in-claude-opus-4-7-fast-agent-browser|2
+  Agent Mode changes in Claude Opus 4.7 Fast, agent browser…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-05-18-rust-v0-131-0-github-324452638-5f16ff1d|codex-cli-2026-05-18-rust-v0-131-0-github-324452638-5f16ff1d]]'
 source_type: github_releases
 theme: agent-mode
@@ -121,7 +120,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.131.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-05-15 · Claude Code · [[Changes/Claude Code/2026-05-15-2-agent-mode-changes-in-v2-1-143|2 Agent Mode changes in v2.1.143]]
+- Earlier: 2026-05-15 · v0 · [[Changes/v0/2026-05-15-2-agent-mode-changes-in-claude-opus-4-7-fast-agent-browser|2 Agent Mode changes in Claude Opus 4.7 Fast, agent browser…]]
 - Later: 2026-05-18 · Cursor · [[Changes/Cursor/2026-05-18-composer-2-5-is-now-available-in-cursor|Composer 2.5 is now available in Cursor]]
 <!-- chronolog:end -->
 

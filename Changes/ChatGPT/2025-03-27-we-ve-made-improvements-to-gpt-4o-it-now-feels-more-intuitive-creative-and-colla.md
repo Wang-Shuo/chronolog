@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 460381606cadf458be3a2062aa7a5520d475d0cb2e9f863f8794c4f1c2278e06
+machine_hash: c8da92e613e12af77f59f2cddc97bd78316fe52031851d7baa5ed2573036861f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -46,10 +46,10 @@ record:
   title: ChatGPT makes improvements to GPT-4o—it now feels more intuitive, creative…
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-03-23-2-model-support-changes-in-0-48-x|2 Model Support changes
-  in 0.48.x]]'
 - '[[Changes/Aider/2025-03-25-2-model-support-changes-in-v0-79-0|2 Model Support changes
   in v0.79.0]]'
+- '[[Changes/Gemini/2025-03-25-priority-access-with-gemini-advanced-try-our-latest-2-5-pro-experimental-model|Priority
+  access with Gemini Advanced: Try our latest 2.5 Pro (experimental) model]]'
 - '[[Changes/Cline/2025-03-26-4-model-support-changes-in-v3-8-3|4 Model Support changes
   in v3.8.3]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-03-27-improvements-to-gpt-4o-4bcfc1a7|chatgpt-2025-03-27-improvements-to-gpt-4o-4bcfc1a7]]'

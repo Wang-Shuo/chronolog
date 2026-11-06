@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: ea66f2324ae8cc2f3878c183ec83314c4123502dd62a141d3b6a19d15b47f643
+machine_hash: b26fe99090b2e17fa0b6355ab17c570a4f83cb55892c1287ad2a12bbdaa654e6
 product: openhands
 product_name: OpenHands
 record:
@@ -46,12 +46,12 @@ record:
   title: Support prompt caching on the latest `claude-3-5-sonnet-20241022`
   type: change
 related_changes:
-- '[[Changes/Cline/2024-10-09-4-model-support-changes-in-v2-0-0|4 Model Support changes
-  in v2.0.0]]'
-- '[[Changes/Aider/2024-10-22-5-model-support-changes-in-v0-60-0|5 Model Support changes
-  in v0.60.0]]'
 - '[[Changes/Cline/2024-10-28-cline-now-uses-anthropic-s-new-computer-use-https-www-anthropic-com-news-3-5-mod|Cline
   now uses Anthropic''s new…]]'
+- '[[Changes/Dify/2024-10-28-4-model-support-changes-in-0-10-2|4 Model Support changes
+  in 0.10.2]]'
+- '[[Changes/Gemini/2024-10-31-update-to-gemini-1-5-pro-in-gemini-advanced|Update
+  to Gemini 1.5 Pro in Gemini Advanced]]'
 source_release: '[[Releases/OpenHands/openhands-2024-10-31-0-12-0-github-182915844-e103262c|openhands-2024-10-31-0-12-0-github-182915844-e103262c]]'
 source_type: github_releases
 theme: model-support
@@ -81,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2024-10-28 · Cline · [[Changes/Cline/2024-10-28-cline-now-uses-anthropic-s-new-computer-use-https-www-anthropic-com-news-3-5-mod|Cline now uses Anthropic's new…]]
+- Earlier: 2024-10-31 · Gemini · [[Changes/Gemini/2024-10-31-update-to-gemini-1-5-pro-in-gemini-advanced|Update to Gemini 1.5 Pro in Gemini Advanced]]
 - Later: 2024-11-01 · Aider · [[Changes/Aider/2024-11-01-2-model-support-changes-in-v0-61-0|2 Model Support changes in v0.61.0]]
 <!-- chronolog:end -->
 

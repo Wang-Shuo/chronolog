@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c27a62328ea627bcb33a0465b534204fdade7688c55e6b0786a2f2f62c462460
+machine_hash: b32865bbe2af0542ddf41066592aa4f673507d75f3241634373788d75b731ce8
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,10 +42,10 @@ record:
   title: 2 Context Window changes in rust-v0.124.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-17-3-context-window-changes-in-v1-0-32|3 Context
-  Window changes in v1.0.32]]'
 - '[[Changes/Codex CLI/2026-04-20-10-context-window-changes-in-rust-v0-122-0|10 Context
   Window changes in rust-v0.122.0]]'
+- '[[Changes/Open WebUI/2026-04-21-8-context-window-changes-in-v0-9-0|8 Context Window
+  changes in v0.9.0]]'
 - '[[Changes/Codex CLI/2026-04-23-18794-organize-context-fragments-pakrym-oai|♯18794
   Organize context fragments @pakrym-oai]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-04-23-rust-v0-124-0-github-312880358-5864635b|codex-cli-2026-04-23-rust-v0-124-0-github-312880358-5864635b]]'

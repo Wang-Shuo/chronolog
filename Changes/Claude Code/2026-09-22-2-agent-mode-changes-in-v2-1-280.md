@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0a1ec7d0839dd63ffe846dc7d280800569bd866ee690ed546a1fdbeb67feaddc
+machine_hash: b2c2caed431c6763518f89177ad418a61aed073d9c32871465b7ddf2b5978950
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,12 +46,11 @@ record:
   title: 2 Agent Mode changes in v2.1.280
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-18-4-agent-mode-changes-in-v2-1-277|4 Agent Mode
-  changes in v2.1.277]]'
-- '[[Changes/Claude Code/2026-09-19-added-an-auto-mode-server-row-to-status-showing-whether-this-session-s-auto-mode|Added
-  an Auto mode server row to /status showing whether this session''s auto…]]'
+- '[[Changes/ElevenLabs/2026-09-21-elevenagents-d15bdd|ElevenAgents]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-21-show-live-elapsed-time-for-execution-subagents-in-timeline-entries|Show
   live elapsed time for execution subagents in timeline entries]]'
+- '[[Changes/Lovable/2026-09-21-manage-agent-permissions-from-your-account-settings|Manage
+  agent permissions from your account settings]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-22-v2-1-280-github-393879189-1cf5db2b|claude-code-2026-09-22-v2-1-280-github-393879189-1cf5db2b]]'
 source_type: github_releases
 theme: agent-mode
@@ -92,7 +91,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.280
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-09-21 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-21-show-live-elapsed-time-for-execution-subagents-in-timeline-entries|Show live elapsed time for execution subagents in timeline entries]]
+- Earlier: 2026-09-21 · Lovable · [[Changes/Lovable/2026-09-21-manage-agent-permissions-from-your-account-settings|Manage agent permissions from your account settings]]
 - Later: 2026-09-22 · Cline · [[Changes/Cline/2026-09-22-2-agent-mode-changes-in-v4-1-20|2 Agent Mode changes in v4.1.20]]
 <!-- chronolog:end -->
 

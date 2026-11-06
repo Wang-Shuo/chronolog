@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b4ff338f2011d8b79f207ba695f01515b049ef2d74e99a2b8992ed6f72012657
+machine_hash: bd246926e08ad72f5d49bc38a989a7bed50effec2b39840da0b3552044629274
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -41,12 +41,12 @@ record:
   title: '#2852 Following up on #2371 post commit feedback'
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-08-21-the-terminal-now-opens-on-the-left-with-a-clear-backdrop-and-border-animation-to|Improved
-  review flow in Agent terminal]]'
-- '[[Changes/Codex CLI/2025-08-26-11-developer-workflow-changes-in-rust-v0-24-0|11
-  Developer Workflow changes in rust-v0.24.0]]'
+- '[[Changes/Dify/2025-08-27-3-developer-workflow-changes-in-1-8-0|3 Developer Workflow
+  changes in 1.8.0]]'
 - '[[Changes/Gemini CLI/2025-08-27-feat-core-refactor-shell-execution-to-use-node-pty-by-galz10-in-https-github-com|feat(core):
   refactor shell execution to use node-pty]]'
+- "[[Changes/Open WebUI/2025-08-28-code-block-copy-button-content-fixed-fixed-an-issue-where-the-copy-button-in-cod|\U0001F4CB
+  Code Block Copy Button Content Fixed]]"
 source_release: '[[Releases/Codex CLI/codex-cli-2025-08-29-rust-v0-26-0-github-243361170-3db0d38c|codex-cli-2025-08-29-rust-v0-26-0-github-243361170-3db0d38c]]'
 source_type: github_releases
 theme: developer-workflow
@@ -79,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2025-08-27 · Gemini CLI · [[Changes/Gemini CLI/2025-08-27-feat-core-refactor-shell-execution-to-use-node-pty-by-galz10-in-https-github-com|feat(core): refactor shell execution to use node-pty]]
+- Earlier: 2025-08-28 · Open WebUI · [[Changes/Open WebUI/2025-08-28-code-block-copy-button-content-fixed-fixed-an-issue-where-the-copy-button-in-cod|📋 Code Block Copy Button Content Fixed]]
 - Later: 2025-09-02 · Codex CLI · [[Changes/Codex CLI/2025-09-02-2-developer-workflow-changes-in-rust-v0-28-0|2 Developer Workflow changes in rust-v0.28.0]]
 <!-- chronolog:end -->
 

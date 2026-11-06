@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: pricing
-machine_hash: 65f77af6c77ccb72450574b6db089f27c41ff2897dcb94fbb52f2b8b5bf35920
+machine_hash: f7a6a8dc419ef4926ff6eed6cc4f2d5cab96dbbc934ca46e1dfb7c6803197f9a
 product: cursor
 product_name: Cursor
 record:
@@ -95,7 +95,7 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2025-07-31 · Cline · [[Changes/Cline/2025-07-31-adding-redirecturl-to-credits-purchasing-experience-by-pashpashpash-in-https-git|adding redirectUrl to credits purchasing experience]]
-- Later: 2025-08-18 · ChatGPT · [[Changes/ChatGPT/2025-08-18-we-re-launching-chatgpt-go-a-new-low-cost-subscription-plan-this-will-initially-e5f740|ChatGPT launches ChatGPT Go, a new low-cost subscription plan]]
+- Later: 2025-08-11 · Lovable · [[Changes/Lovable/2025-08-11-unified-credits-bar|Unified credits bar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

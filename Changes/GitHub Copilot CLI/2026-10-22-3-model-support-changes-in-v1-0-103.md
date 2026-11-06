@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f3046088f93702abf47f5f38d80dda9da9be5f141138bd9dc2e9044a40944dc3
+machine_hash: 9f25e4bbcd0c88c532e3cfa30521eb6bdaa7a4d36cc7aeafad4ccb2f24b3fc7c
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -47,10 +47,10 @@ record:
   title: 3 Model Support changes in v1.0.103
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-10-19-3-model-support-changes-in-v1-0-100|3 Model
-  Support changes in v1.0.100]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-20-8-model-support-changes-in-v1-0-101|8 Model
   Support changes in v1.0.101]]'
+- '[[Changes/Lovable/2026-10-20-seedream-5-pro-and-seedance-2-5-for-your-app-s-ai-features|Seedream
+  5 Pro and Seedance 2.5 for your app''s AI features]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-21-prompt-mode-now-honors-managed-auto-model-selection-for-p-and-piped-stdin-runs|Prompt
   mode now honors managed Auto model selection for -p and piped stdin runs]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-10-22-v1-0-103-github-420944485-e95a7f56|github-copilot-cli-2026-10-22-v1-0-103-github-420944485-e95a7f56]]'
@@ -91,7 +91,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.103
 ## Nearby in Model Support
 
 - Earlier: 2026-10-21 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-21-prompt-mode-now-honors-managed-auto-model-selection-for-p-and-piped-stdin-runs|Prompt mode now honors managed Auto model selection for -p and piped stdin runs]]
-- Later: 2026-10-23 · Codex CLI · [[Changes/Codex CLI/2026-10-23-9-model-support-changes-in-rust-v0-164-0|9 Model Support changes in rust-v0.164.0]]
+- Later: 2026-10-22 · Lovable · [[Changes/Lovable/2026-10-22-gemini-2-5-chat-models-are-retired-for-your-app-s-ai-features|Gemini 2.5 chat models are retired for your app's AI features]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

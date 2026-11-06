@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: aee98a7d6ecfa2ac0707cc65bcd299606919f2f42c7a743cf11e120f7f4486c4
+machine_hash: fde061367b5feee2f158d3d3a5e03e16f98b9f1df80c1595b6671c764efc96a3
 product: cursor
 product_name: Cursor
 record:
@@ -43,10 +43,10 @@ record:
   title: Chat rendering bugs resolved (toolcall display, overflow issues)
   type: change
 related_changes:
-- '[[Changes/Aider/2025-06-27-2-interface-experience-changes-in-v0-85-0|2 Interface
-  Experience changes in v0.85.0]]'
 - '[[Changes/Gemini CLI/2025-07-01-feat-add-markdown-table-rendering-support-by-heartyguy-in-https-github-com-googl|feat:
   Add markdown table rendering support]]'
+- '[[Changes/Dify/2025-07-02-2-interface-experience-changes-in-1-5-1|2 Interface Experience
+  changes in 1.5.1]]'
 - '[[Changes/OpenHands/2025-07-02-added-tooltip-for-suggested-tasks-by-hieptl-in-https-github-com-all-hands-ai-ope|Added
   tooltip for suggested tasks]]'
 source_release: '[[Releases/Cursor/cursor-2025-07-03-1-2-https-cursor-com-changelog-1-2-27872f5d|cursor-2025-07-03-1-2-https-cursor-com-changelog-1-2-27872f5d]]'
@@ -89,7 +89,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2025-07-02 · OpenHands · [[Changes/OpenHands/2025-07-02-added-tooltip-for-suggested-tasks-by-hieptl-in-https-github-com-all-hands-ai-ope|Added tooltip for suggested tasks]]
-- Later: 2025-07-19 · Gemini CLI · [[Changes/Gemini CLI/2025-07-19-add-numbers-to-selection-list-by-miguelsolorio-in-https-github-com-google-gemini|Add numbers to selection list]]
+- Later: 2025-07-10 · Dify · [[Changes/Dify/2025-07-10-2-interface-experience-changes-in-1-6-0|2 Interface Experience changes in 1.6.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

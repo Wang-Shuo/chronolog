@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ca532e1472bd9ca8f0dcbe9fa1f6c5a7f6e45c162066c25ec7373a6b7733f205
+machine_hash: 1365a08adf05326ea025be8d4a0cf5aa4c9502f4de73abf5b59e85503352b4a1
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,12 +43,9 @@ record:
   title: 2 Apps and Integrations changes in v1.0.21
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-04-remote-control-session-names-now-use-your-hostname-as-the-default-prefix-e-g-myh|Remote
-  Control session names now use your hostname as the default prefix…]]'
-- '[[Changes/GitHub Copilot CLI/2026-04-06-2-apps-and-integrations-changes-in-v1-0-19|2
-  Apps and Integrations changes in v1.0.19]]'
-- '[[Changes/Claude Code/2026-04-07-5-apps-and-integrations-changes-in-v2-1-94|5 Apps
-  and Integrations changes in v2.1.94]]'
+- '[[Changes/ElevenLabs/2026-04-07-python-sdk|Python SDK]]'
+- '[[Changes/ElevenLabs/2026-04-07-sdk-releases|SDK Releases]]'
+- '[[Changes/ElevenLabs/2026-04-07-javascript-sdk|JavaScript SDK]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-04-07-v1-0-21-github-306305696-a61f8576|github-copilot-cli-2026-04-07-v1-0-21-github-306305696-a61f8576]]'
 source_type: github_releases
 theme: apps-integrations
@@ -86,7 +83,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.21
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-04-07 · Claude Code · [[Changes/Claude Code/2026-04-07-5-apps-and-integrations-changes-in-v2-1-94|5 Apps and Integrations changes in v2.1.94]]
+- Earlier: 2026-04-07 · ElevenLabs · [[Changes/ElevenLabs/2026-04-07-javascript-sdk|JavaScript SDK]]
 - Later: 2026-04-07 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-07-azure-openai-byok-defaults-to-the-ga-versionless-v1-route-when-no-api-version-is|Azure OpenAI BYOK defaults to the GA versionless v1 route when no API version…]]
 <!-- chronolog:end -->
 

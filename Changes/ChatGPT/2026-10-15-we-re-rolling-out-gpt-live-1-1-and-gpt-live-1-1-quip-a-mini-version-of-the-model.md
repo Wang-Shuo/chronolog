@@ -5,20 +5,20 @@ description: 'ChatGPT · 2026-10-15 · Voice and Audio: We’re rolling out GPT-
   and GPT-Live-1.1 Quip, a mini version of the model, in ChatGPT Voice, with more
   natural…'
 diffusion:
-  first_in_tracked: '[[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source
-    link) support, which allows you…]]'
+  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
+    Voice and Audio changes in 0.3.7]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1161
+  lag_days: 1193
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: e33f2dc47d19543b01ab564bc84be533a06366323dbc8fa2a48ffc2996def1f3
+machine_hash: 431330535b07d49e52dc8c1808625e9bc4057960cb0c73f044f93ad0233cbb5b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -64,10 +64,10 @@ record:
     model…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-08-2-voice-and-audio-changes-in-rust-v0-162-0|2 Voice
-  and Audio changes in rust-v0.162.0]]'
-- '[[Changes/Claude Code/2026-10-14-claude-tag-added-support-for-slack-voice-clips-in-claude-in-slack-claude-reads-s|Claude
-  Tag Added support for Slack voice clips in Claude in Slack]]'
+- "[[Changes/Open WebUI/2026-10-14-voice-on-android-chrome-voice-calls-and-dictation-on-android-chrome-no-longer-go|\U0001F4F1
+  Voice on Android Chrome. Voice calls and dictation on Android Chrome no longer…]]"
+- '[[Changes/Open WebUI/2026-10-14-10-voice-and-audio-changes-in-v0-12-1|10 Voice
+  and Audio changes in v0.12.1]]'
 - '[[Changes/ChatGPT/2026-10-15-for-more-information-see-chatgpt-voice|For more information,
   see: ChatGPT Voice]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-10-15-gpt-live-1-1-and-new-voices-in-chatgpt-3e3f7f0c|chatgpt-2026-10-15-gpt-live-1-1-and-new-voices-in-chatgpt-3e3f7f0c]]'
@@ -103,14 +103,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-10-14 · Claude Code · [[Changes/Claude Code/2026-10-14-claude-tag-added-support-for-slack-voice-clips-in-claude-in-slack-claude-reads-s|Claude Tag Added support for Slack voice clips in Claude in Slack]]
+- Earlier: 2026-10-14 · Open WebUI · [[Changes/Open WebUI/2026-10-14-10-voice-and-audio-changes-in-v0-12-1|10 Voice and Audio changes in v0.12.1]]
 - Later: 2026-10-15 · Codex CLI · [[Changes/Codex CLI/2026-10-15-4-voice-and-audio-changes-in-rust-v0-163-0|4 Voice and Audio changes in rust-v0.163.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-08-11 · Aider · [[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source link) support, which allows you…]]
+- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

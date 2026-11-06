@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 903481905c7a38e9a96f51219c6e2b762b155025eceae4981e4e1959349cfdb5
+machine_hash: c3456711f35992ec681c757ac291792e2a898c17939c80d21342ce73a088f29f
 product: claude-code
 product_name: Claude Code
 record:
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-03-26 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-26-3-interface-experience-changes-in-v1-0-12|3 Interface Experience changes in v1.0.12]]
-- Later: 2026-03-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-30-2-interface-experience-changes-in-v1-0-13|2 Interface Experience changes in v1.0.13]]
+- Later: 2026-03-27 · Dify · [[Changes/Dify/2026-03-27-3-interface-experience-changes-in-1-13-3|3 Interface Experience changes in 1.13.3]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

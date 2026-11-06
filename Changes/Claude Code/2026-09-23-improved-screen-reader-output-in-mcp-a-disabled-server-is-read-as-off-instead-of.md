@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: accessibility-localization
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a60ae181dcac8f18183de592b92f37e6fd83ece76f881525c07e39cb90a6ce7c
+machine_hash: ce97b0a7f7f698efb0947b0269d655bd89e0acffef6d37c398cd2d7aa89fc7d5
 product: claude-code
 product_name: Claude Code
 record:
@@ -52,8 +52,8 @@ record:
   title: Improved screen-reader output in `/mcp`
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-10-vscode-added-a-claude-code-focus-last-message-command-that-moves-keyboard-focus|VSCode
-  Added a "Claude Code]]'
+- '[[Changes/Dify/2026-09-10-3-accessibility-and-localization-changes-in-1-17-1|3
+  Accessibility and Localization changes in 1.17.1]]'
 - '[[Changes/Claude Code/2026-09-17-vscode-improved-screen-reader-navigation-of-the-conversation-each-message-is-ann|VSCode
   Improved screen reader navigation of the conversation]]'
 - '[[Changes/Codex CLI/2026-09-22-46040-default-tui-animations-off-when-a-screen-reader-is-detected-etraut-openai|♯46040

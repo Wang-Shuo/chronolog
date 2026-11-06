@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: db2ab3497889ffd7b8ab61cee4d61ba7e13b6028a6036584a4565e37ada21aeb
+machine_hash: 038515abfc2549c059a6e3beef454bebbe9d1cfe00d5de2ec016ad634ed93b4d
 product: claude-code
 product_name: Claude Code
 record:
@@ -50,10 +50,9 @@ record:
   title: Improved terminal rendering performance
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-02-05-cancel-resume-session-picker-to-start-a-new-session|Cancel
-  --resume session picker to start a new session]]'
-- '[[Changes/Claude Code/2026-02-06-2-interface-experience-changes-in-v2-1-33|2 Interface
-  Experience changes in v2.1.33]]'
+- '[[Changes/ElevenLabs/2026-02-09-user-interface|User Interface]]'
+- '[[Changes/v0/2026-02-09-improved-sidebar-pagination-to-load-more-items-on-scroll|Improved
+  sidebar pagination to load more items on scroll]]'
 - '[[Changes/ChatGPT/2026-02-10-we-re-introducing-improvements-to-deep-research-in-chatgpt-to-help-produce-more|Updates
   to deep research]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-10-v2-1-39-github-285039385-cbd00caf|claude-code-2026-02-10-v2-1-39-github-285039385-cbd00caf]]'

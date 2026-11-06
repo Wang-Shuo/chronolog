@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 71d4c3e02a5283343248b7457ca65b401f2fbdc9be35bfcc46f052ca0e03e70d
+machine_hash: 67a3992cb13f3973d56941eb3269e0380c043b628c7c2440fb60fb3b65ce6a12
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -45,10 +45,10 @@ record:
   title: 3 Model Support changes in v0.17.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-11-19-default-model-for-api-users-is-now-gpt-5-1-codex|Default
-  model for API users is now gpt-5.1-codex]]'
 - '[[Changes/Codex CLI/2025-11-19-5-model-support-changes-in-rust-v0-59-0|5 Model
   Support changes in rust-v0.59.0]]'
+- '[[Changes/Ollama/2025-11-19-cogito-v2-1-https-ollama-com-library-cogito-2-1-instruction-tuned-generative-mod|Cogito-V2.1((source
+  link) instruction tuned generative…]]'
 - '[[Changes/Codex CLI/2025-11-20-stop-model-migration-screen-after-first-time-6954-aibrahim-oai|stop
   model migration screen after first time]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-11-20-v0-17-0-github-264144730-908dc66b|gemini-cli-2025-11-20-v0-17-0-github-264144730-908dc66b]]'

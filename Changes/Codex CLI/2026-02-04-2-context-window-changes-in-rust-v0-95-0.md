@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 93e3b6da1406f7e3694b2a80d698a94c51bc579d7c91930e4d46597b0d55e844
+machine_hash: 1a58d64100284ac2eeb421b3bf9e39db90506a87f856995b042d08cc9d25b89e
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,12 +43,12 @@ record:
   title: 2 Context Window changes in rust-v0.95.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-01-31-6-context-window-changes-in-rust-v0-93-0|6 Context
-  Window changes in rust-v0.93.0]]'
-- '[[Changes/Codex CLI/2026-02-02-2-context-window-changes-in-rust-v0-94-0|2 Context
-  Window changes in rust-v0.94.0]]'
 - '[[Changes/Claude Code/2026-02-03-added-pages-parameter-to-the-read-tool-for-pdfs-allowing-specific-page-ranges-to|Added
   pages parameter to the Read tool for PDFs, allowing specific page ranges…]]'
+- '[[Changes/Dify/2026-02-03-5-context-window-changes-in-1-12-0|5 Context Window changes
+  in 1.12.0]]'
+- '[[Changes/Ollama/2026-02-03-5-context-window-changes-in-v0-15-5|5 Context Window
+  changes in v0.15.5]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-02-04-rust-v0-95-0-github-282823276-932b0b6b|codex-cli-2026-02-04-rust-v0-95-0-github-282823276-932b0b6b]]'
 source_type: github_releases
 theme: context-window
@@ -91,7 +91,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.95.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-02-03 · Claude Code · [[Changes/Claude Code/2026-02-03-added-pages-parameter-to-the-read-tool-for-pdfs-allowing-specific-page-ranges-to|Added pages parameter to the Read tool for PDFs, allowing specific page ranges…]]
+- Earlier: 2026-02-03 · Ollama · [[Changes/Ollama/2026-02-03-5-context-window-changes-in-v0-15-5|5 Context Window changes in v0.15.5]]
 - Later: 2026-02-05 · Claude Code · [[Changes/Claude Code/2026-02-05-2-context-window-changes-in-v2-1-32|2 Context Window changes in v2.1.32]]
 <!-- chronolog:end -->
 

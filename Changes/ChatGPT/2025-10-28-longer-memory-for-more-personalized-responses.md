@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1ba67b241fc4a142a8174dbc026e83d87df3bac0b3e546e1bb839a7a2724e029
+machine_hash: 6c2cda2aac6a5060509ee56cb0a76b94755f6bbc0c103476f6a544deb7301b3c
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,12 +41,12 @@ record:
   title: Longer memory for more personalized responses
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-10-14-longer-memory-for-more-personalized-responses-775c35|Longer
-  memory for more personalized responses]]'
 - '[[Changes/ChatGPT/2025-10-15-chatgpt-now-manages-saved-memories-automatically-by-keeping-the-most-relevant-de-997f64|ChatGPT
   can now automatically manage saved memories so it’s even better…]]'
 - '[[Changes/Gemini CLI/2025-10-22-part-4-6-feat-telemetry-add-memory-monitor-with-activity-aware-recording-and-tes|Part
   4/6 feat(telemetry): add memory monitor with activity-aware recording and tests]]'
+- '[[Changes/Claude/2025-10-23-claude-s-memory-on-max-and-pro-plans|Claude’s memory
+  on Max and Pro plans]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-10-28-chatgpt-go-now-available-in-brazil-6c8c9319|chatgpt-2025-10-28-chatgpt-go-now-available-in-brazil-6c8c9319]]'
 source_type: chatgpt_changelog
 theme: memory
@@ -76,7 +76,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2025-10-22 · Gemini CLI · [[Changes/Gemini CLI/2025-10-22-part-4-6-feat-telemetry-add-memory-monitor-with-activity-aware-recording-and-tes|Part 4/6 feat(telemetry): add memory monitor with activity-aware recording and tests]]
+- Earlier: 2025-10-23 · Claude · [[Changes/Claude/2025-10-23-claude-s-memory-on-max-and-pro-plans|Claude’s memory on Max and Pro plans]]
 - Later: 2025-10-29 · ChatGPT · [[Changes/ChatGPT/2025-10-29-chatgpt-pulse-is-now-available-on-web-and-rolling-out-to-atlas-for-pro-users-wit|ChatGPT Pulse on Web]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f247281a467d7509d22c660877ea9552a132b8687a33080de8059fc4983b9dce
+machine_hash: 3969e46f88d619a24d51032ab0b1e43de7622020dd20d1094e7bcf4b19aae7b3
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -45,12 +45,10 @@ record:
   title: 3 Safety and Privacy changes in rust-v0.88.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-01-14-5-safety-and-privacy-changes-in-rust-v0-81-0|5 Safety
-  and Privacy changes in rust-v0.81.0]]'
-- '[[Changes/Gemini CLI/2026-01-14-7-safety-and-privacy-changes-in-v0-24-0|7 Safety
-  and Privacy changes in v0.24.0]]'
-- '[[Changes/Codex CLI/2026-01-15-revert-linux-sandboxing-now-falls-back-to-landlock-only-restrictions-when-user-n|revert
-  Linux sandboxing now falls back to Landlock-only restrictions when user…]]'
+- '[[Changes/Lovable/2026-01-16-security-center-v0-1|Security center (v0.1)]]'
+- '[[Changes/Replit/2026-01-16-node-js-security-patch|Node.js security patch]]'
+- '[[Changes/Gemini/2026-01-20-gemini-introduces-personal-intelligence|Gemini introduces
+  Personal Intelligence]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-01-21-rust-v0-88-0-github-278754265-4d0aa1b4|codex-cli-2026-01-21-rust-v0-88-0-github-278754265-4d0aa1b4]]'
 source_type: github_releases
 theme: safety-privacy
@@ -94,7 +92,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.88.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-01-15 · Codex CLI · [[Changes/Codex CLI/2026-01-15-revert-linux-sandboxing-now-falls-back-to-landlock-only-restrictions-when-user-n|revert Linux sandboxing now falls back to Landlock-only restrictions when user…]]
+- Earlier: 2026-01-20 · Gemini · [[Changes/Gemini/2026-01-20-gemini-introduces-personal-intelligence|Gemini introduces Personal Intelligence]]
 - Later: 2026-01-22 · Codex CLI · [[Changes/Codex CLI/2026-01-22-2-safety-and-privacy-changes-in-rust-v0-89-0|2 Safety and Privacy changes in rust-v0.89.0]]
 <!-- chronolog:end -->
 

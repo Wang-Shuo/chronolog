@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 57fcef9b0194736013c9244e217463374e02f545acd832b4d5db09fbce182f75
+machine_hash: 6472e45c8e064d0e0f6dd03a4d0f8699a79108d0e97e23c49f47a9f9b2eb2177
 product: cursor
 product_name: Cursor
 record:
@@ -55,10 +55,10 @@ record:
     PR-heavy tasks
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-02-27-feat-cli-include-dir-add-directories-in-autocomplete-suggestions-by-jasmeetsb-in|feat(cli):
-  include /dir add directories in @ autocomplete suggestions]]'
 - '[[Changes/Codex CLI/2026-03-02-3-editor-experience-changes-in-rust-v0-107-0|3 Editor
   Experience changes in rust-v0.107.0]]'
+- '[[Changes/Open WebUI/2026-03-02-chatcontrols-reactivity-fix-fixed-a-svelte-reactivity-issue-where-the-active-tab|⚡
+  ChatControls reactivity fix. Fixed a Svelte reactivity issue where the active…]]'
 - '[[Changes/Cline/2026-03-03-prevent-chinese-filename-escaping-in-diff-view|Prevent
   Chinese filename escaping in diff view]]'
 source_release: '[[Releases/Cursor/cursor-2026-03-03-2-6-https-cursor-com-changelog-2-6-0fa7f1a3|cursor-2026-03-03-2-6-https-cursor-com-changelog-2-6-0fa7f1a3]]'

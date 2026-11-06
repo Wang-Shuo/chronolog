@@ -5,20 +5,20 @@ description: 'ChatGPT · 2025-02-06 · Files and Data: Users can now share a Can
   asset such as rendered React/HTML code, document, or code with another user, similar
   to how…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code
-    interpreter is now rolling out in beta on web]]'
+  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
+    Files and Data changes in 0.2.2]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 581
+  lag_days: 623
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e421f6d4df11a72701079f90084853f454df003e19d07dde6522284afc06de35
+machine_hash: e10e548c279c0282e9dd443a1832038828c28b5e440d9f6e2519029a1cab034d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -49,10 +49,11 @@ record:
   title: Canvas sharing
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2024-12-13-advanced-data-analysis-1956f5|Advanced data analysis]]'
-- '[[Changes/ChatGPT/2025-01-15-edit-a-full-model-response-in-canvas|Edit a full model
-  response in Canvas]]'
 - '[[Changes/ChatGPT/2025-01-15-edit-a-code-block-in-canvas|Edit a code block in Canvas]]'
+- '[[Changes/Dify/2025-01-22-3-files-and-data-changes-in-0-15-2|3 Files and Data changes
+  in 0.15.2]]'
+- "[[Changes/Open WebUI/2025-02-05-code-interpreter-models-can-now-execute-code-in-real-time-to-refine-their-answer|\U0001F5A5️
+  Code Interpreter]]"
 source_release: '[[Releases/ChatGPT/chatgpt-2025-02-06-canvas-sharing-5abe3818|chatgpt-2025-02-06-canvas-sharing-5abe3818]]'
 source_type: chatgpt_changelog
 theme: file-data
@@ -81,14 +82,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2025-01-15 · ChatGPT · [[Changes/ChatGPT/2025-01-15-edit-a-code-block-in-canvas|Edit a code block in Canvas]]
-- Later: 2025-05-28 · Cline · [[Changes/Cline/2025-05-28-add-support-for-uploading-various-file-types-xml-json-txt-log-md-docx-ipynb-pdf|Add support for uploading various file types…]]
+- Earlier: 2025-02-05 · Open WebUI · [[Changes/Open WebUI/2025-02-05-code-interpreter-models-can-now-execute-code-in-real-time-to-refine-their-answer|🖥️ Code Interpreter]]
+- Later: 2025-02-13 · Open WebUI · [[Changes/Open WebUI/2025-02-13-jupyter-notebook-support-in-code-interpreter-now-you-can-configure-code-interpre|🐍 Jupyter Notebook Support in Code Interpreter]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-06 · ChatGPT · [[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code interpreter is now rolling out in beta on web]]
+- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

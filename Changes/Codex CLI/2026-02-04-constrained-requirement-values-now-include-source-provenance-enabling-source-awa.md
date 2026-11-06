@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 88d70f7c37007e3c7889a754c89651628772a9994da8700ac8a7b13e8189bc57
+machine_hash: 4e1d1fdbfe6a209d7fd06001c82489b468550308c502ebeaa536ac6b3322f08c
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,8 +43,8 @@ record:
   title: Constrained requirement values now include source provenance, enabling source-aware…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-03-added-debug-for-claude-to-help-troubleshoot-the-current-session|Added
-  /debug for Claude to help troubleshoot the current session]]'
+- '[[Changes/Dify/2026-02-03-2-developer-workflow-changes-in-1-12-0|2 Developer Workflow
+  changes in 1.12.0]]'
 - '[[Changes/Claude Code/2026-02-04-reduced-layout-jitter-in-the-terminal-when-the-spinner-appears-and-disappears-du|Reduced
   layout jitter in the terminal when the spinner appears and disappears during…]]'
 - '[[Changes/Codex CLI/2026-02-04-10-developer-workflow-changes-in-rust-v0-95-0|10

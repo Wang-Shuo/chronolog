@@ -1,0 +1,102 @@
+---
+card_id: dify-2024-06-28-dc8543
+date: '2024-06-28'
+description: 'Dify · 2024-06-28 · Mobile and Desktop: docs: Add notes for running
+  Postgres Docker on Windows WSL2 Ubuntu … by @hikariming in…'
+diffusion:
+  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
+    and Linux support \U0001F973]]"
+  inference: No adoption, equivalence, or causation claim.
+  lag_days: 472
+  relation: same-theme-chronology
+  role: later-observed
+  scope: tracked-products-only
+  theme: mobile-desktop
+  tracked_products_count: 20
+evolves_from: []
+extractor_version: fallback-v5
+impact: incremental
+kind: change
+machine_hash: cc951795dc401fc7bdb98d9c0e704aea850c7bc476a6d5ad94decd500dd7f181
+product: dify
+product_name: Dify
+record:
+  card_id: dify-2024-06-28-dc8543
+  comparison: ''
+  date: '2024-06-28'
+  description: 'Dify — v0.6.12: docs: Add notes for running Postgres Docker on Windows
+    WSL2 Ubuntu … by @hikariming in https://github.com/langgenius/dify/pull/5373'
+  evidence:
+  - quote: 'docs: Add notes for running Postgres Docker on Windows WSL2 Ubuntu … by
+      @hikariming in https://github.com/langgenius/dify/pull/5373'
+    source_release: https://github.com/langgenius/dify/releases/tag/0.6.12
+  extractor_version: fallback-v5
+  impact: incremental
+  kind: change
+  product: dify
+  product_name: Dify
+  slug: docs-add-notes-for-running-postgres-docker-on-windows-wsl2-ubuntu-by-hikariming
+  source_release: dify-2024-06-28-0-6-12-github-163007249-ac67daf7
+  source_type: github_releases
+  theme: mobile-desktop
+  theme_matches: []
+  theme_resolution: manual-semantic-rule-v1
+  title: 'docs: Add notes for running Postgres Docker on Windows WSL2 Ubuntu …'
+  type: change
+related_changes:
+- "[[Changes/Open WebUI/2024-06-05-mobile-view-improvements-the-ui-now-uses-dvh-dynamic-viewport-height-instead-of|\U0001F4F1
+  Mobile View Improvements]]"
+- '[[Changes/Ollama/2024-06-15-model-loading-on-windows-with-cuda-gpus-is-now-faster|Model
+  loading on Windows with CUDA GPUs is now faster]]'
+- '[[Changes/Gemini/2024-06-18-the-gemini-mobile-app-launching-in-more-countries|The
+  Gemini mobile app launching in more countries]]'
+source_release: '[[Releases/Dify/dify-2024-06-28-0-6-12-github-163007249-ac67daf7|dify-2024-06-28-0-6-12-github-163007249-ac67daf7]]'
+source_type: github_releases
+theme: mobile-desktop
+title: 'docs: Add notes for running Postgres Docker on Windows WSL2 Ubuntu …'
+type: change
+---
+
+<!-- chronolog:begin region="header" -->
+# docs: Add notes for running Postgres Docker on Windows WSL2 Ubuntu …
+
+**Dify** · 2024-06-28 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://github.com/langgenius/dify/releases/tag/0.6.12) · from [[Releases/Dify/dify-2024-06-28-0-6-12-github-163007249-ac67daf7|v0.6.12]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="evidence" -->
+> docs: Add notes for running Postgres Docker on Windows WSL2 Ubuntu … by @hikariming in https://github.com/langgenius/dify/pull/5373
+>
+> Source: https://github.com/langgenius/dify/releases/tag/0.6.12
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Dify/2024-06-28-tracing-with-langsmith-and-langfuse-now-you-can-trace-your-apps-traffic-with-lan|Tracing with LangSmith and Langfuse]] · Apps and Integrations
+- [[Changes/Dify/2024-06-28-2-editor-experience-changes-in-0-6-12|2 Editor Experience changes in 0.6.12]] · Editor Experience
+- [[Changes/Dify/2024-06-28-2-image-generation-changes-in-0-6-12|2 Image Generation changes in 0.6.12]] · Image Generation
+- [[Changes/Dify/2024-06-28-3-developer-workflow-changes-in-0-6-12|3 Developer Workflow changes in 0.6.12]] · Developer Workflow
+- [[Changes/Dify/2024-06-28-14-model-support-changes-in-0-6-12|14 Model Support changes in 0.6.12]] · Model Support
+- [[Changes/Dify/2024-06-28-feat-permission-and-security-fixes-by-chazzhou-in-https-github-com-langgenius-di|feat: permission and security fixes]] · Safety and Privacy
+- [[Changes/Dify/2024-06-28-feat-api-auth-switch-to-stateful-authentication-by-laipz8200-in-https-github-com|feat(api/auth): switch-to-stateful-authentication]] · Account and Access
+- [[Changes/Dify/2024-06-28-chore-cleanup-test-delete-by-document-id-method-in-opensearch-vdb-test-by-bowenl|chore: cleanup test_delete_by_document_id method in opensearch vdb test]] · Files and Data
+- [[Changes/Dify/2024-06-28-citations-and-attributions-these-are-now-enabled-by-default-by-takatost-in-5508|Citations and Attributions: These are now enabled by default by @takatost in ♯5508]] · Other changes
+- [[Changes/Dify/2024-06-28-128-other-changes-in-0-6-12|128 other changes in 0.6.12]] · Other changes
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Mobile and Desktop
+
+- Earlier: 2024-06-18 · Gemini · [[Changes/Gemini/2024-06-18-the-gemini-mobile-app-launching-in-more-countries|The Gemini mobile app launching in more countries]]
+- Later: 2024-06-29 · OpenHands · [[Changes/OpenHands/2024-06-29-2-mobile-and-desktop-changes-in-0-7-0|2 Mobile and Desktop changes in 0.7.0]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20dify-2024-06-28-dc8543&body=Card%3A%20Changes%2FDify%2F2024-06-28-docs-add-notes-for-running-postgres-docker-on-windows-wsl2-ubuntu-by-hikariming.md%0ACard%20ID%3A%20dify-2024-06-28-dc8543%0ASource%3A%20https%3A%2F%2Fgithub.com%2Flanggenius%2Fdify%2Freleases%2Ftag%2F0.6.12%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: a0d7f50fae58699ab28e8230856b9bf2ceecf4162632bc5937428f8f013b20b4
+machine_hash: a368a72bb183716d8c5d462a6bb59b6eeb4bbf3f37aa35eaa6ce6fc914c290dc
 product: cline
 product_name: Cline
 record:
@@ -44,12 +44,10 @@ record:
   title: 'feat(cerebras): add X-Cerebras-3rd-Party-Integration header'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2025-11-24-mcp-servers-work-in-prompt-mode|MCP servers
-  work in --prompt mode]]'
-- '[[Changes/Gemini CLI/2025-11-26-feat-zed-integration-use-default-model-routing-for-zed-integration-by-benbrandt|feat(zed-integration):
-  Use default model routing for Zed integration]]'
 - '[[Changes/Cline/2025-11-27-feat-hooks-implement-taskcomplete-hook-by-candieduniverse-in-https-github-com-cl|feat(hooks):
   Implement TaskComplete hook]]'
+- '[[Changes/ElevenLabs/2025-11-27-workspaces-88d227|Workspaces]]'
+- '[[Changes/ElevenLabs/2025-11-27-javascript-sdk|JavaScript SDK]]'
 source_release: '[[Releases/Cline/cline-2025-12-02-v3-39-2-github-266849692-f9610102|cline-2025-12-02-v3-39-2-github-266849692-f9610102]]'
 source_type: github_releases
 theme: apps-integrations
@@ -79,7 +77,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-11-27 · Cline · [[Changes/Cline/2025-11-27-feat-hooks-implement-taskcomplete-hook-by-candieduniverse-in-https-github-com-cl|feat(hooks): Implement TaskComplete hook]]
+- Earlier: 2025-11-27 · ElevenLabs · [[Changes/ElevenLabs/2025-11-27-javascript-sdk|JavaScript SDK]]
 - Later: 2025-12-02 · Codex CLI · [[Changes/Codex CLI/2025-12-02-3-apps-and-integrations-changes-in-rust-v0-64-0|3 Apps and Integrations changes in rust-v0.64.0]]
 <!-- chronolog:end -->
 

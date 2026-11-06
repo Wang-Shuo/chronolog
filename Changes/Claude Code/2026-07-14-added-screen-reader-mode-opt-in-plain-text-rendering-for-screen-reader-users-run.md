@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: accessibility-localization
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b0f099a723bdb1af0199d0450f5fc1c20a59160bd55b3908eecb7e3ff89fc68c
+machine_hash: 22c775b8291fbe5b98c97d8bb93c21c7302423ffc3eef052b3561ae936d83186
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,10 @@ record:
     users'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-13-improve-color-contrast-in-github-themes-to-meet-wcag-aa-accessibility-standards|Improve
-  color contrast in GitHub themes to meet WCAG AA accessibility standards]]'
-- '[[Changes/Codex CLI/2026-06-22-28770-connectors-ignore-synthetic-links-for-app-accessibility-adaley-openai|♯28770
-  connectors Ignore synthetic links for app accessibility @adaley-openai]]'
+- '[[Changes/Dify/2026-06-25-numerous-web-ui-and-accessibility-focus-ring-polish-fixes|Numerous
+  web UI and accessibility/focus-ring polish fixes]]'
+- '[[Changes/Open WebUI/2026-06-29-better-screen-reader-labels-on-toggles-integration-and-switch-toggles-now-expose|♿
+  Better screen-reader labels on toggles. Integration and switch toggles now…]]'
 - '[[Changes/Claude Code/2026-07-03-improved-screen-reader-output-decorative-glyphs-are-now-hidden-transcript-symbol|Improved
   screen-reader output]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-14-v2-1-208-github-353442054-2756b984|claude-code-2026-07-14-v2-1-208-github-353442054-2756b984]]'
@@ -87,7 +87,7 @@ type: change
 ## Nearby in Accessibility and Localization
 
 - Earlier: 2026-07-03 · Claude Code · [[Changes/Claude Code/2026-07-03-improved-screen-reader-output-decorative-glyphs-are-now-hidden-transcript-symbol|Improved screen-reader output]]
-- Later: 2026-07-22 · Claude Code · [[Changes/Claude Code/2026-07-22-added-screen-reader-announcements-of-deleted-text-for-word-and-line-deletions-op|Added screen-reader announcements of deleted text for word and line deletions…]]
+- Later: 2026-07-17 · Dify · [[Changes/Dify/2026-07-17-chore-improve-workflow-generator-accessibility-and-api-contracts-by-crazywoola-i|chore: Improve workflow generator accessibility and API contracts]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

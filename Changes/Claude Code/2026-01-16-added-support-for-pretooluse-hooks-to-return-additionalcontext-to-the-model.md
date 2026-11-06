@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 4f515520c04bfe637127f6846a4add4141e4a90f421f3f33fc5ee916ddfa18fc
+machine_hash: e8d09642901bec3ae42f48c8aee25c4400e358be9dbf8f504185146257a3c1f2
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,11 +45,12 @@ record:
     model
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-01-14-gpt-5-2-codex|GPT-5.2-Codex]]'
-- '[[Changes/Cline/2026-01-15-adding-openai-gpt-5-2-codex-model-to-the-model-picker|Adding
-  OpenAI gpt-5.2-codex model to the model picker]]'
 - '[[Changes/Codex CLI/2026-01-15-2-model-support-changes-in-rust-v0-85-0|2 Model
   Support changes in rust-v0.85.0]]'
+- '[[Changes/v0/2026-01-15-improved-model-selection-to-persist-per-user-per-team|Improved
+  model selection to persist per user per team]]'
+- '[[Changes/Claude/2026-01-16-opus-4-and-4-1-deprecated-from-claude-and-claude-code|Opus
+  4 and 4.1 deprecated from Claude and Claude Code]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-16-v2-1-9-github-277250534-9563859d|claude-code-2026-01-16-v2-1-9-github-277250534-9563859d]]'
 source_type: github_releases
 theme: model-support
@@ -82,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-01-15 · Codex CLI · [[Changes/Codex CLI/2026-01-15-2-model-support-changes-in-rust-v0-85-0|2 Model Support changes in rust-v0.85.0]]
+- Earlier: 2026-01-16 · Claude · [[Changes/Claude/2026-01-16-opus-4-and-4-1-deprecated-from-claude-and-claude-code|Opus 4 and 4.1 deprecated from Claude and Claude Code]]
 - Later: 2026-01-16 · Codex CLI · [[Changes/Codex CLI/2026-01-16-9336-rename-model-turn-to-sampling-request-aibrahim-oai|♯9336 rename model turn to sampling request @aibrahim-oai]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 548252993a3d49bc0d643ea63239117323a499eb1dee0ee68d8d6561d23ab03f
+machine_hash: c63cabf95dd54e32cd7bdba9c6cc5a46d7d2dee24fd62196efb793073e5bc864
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,12 +43,11 @@ record:
   title: 2 Apps and Integrations changes in v2.1.203
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-02-stacked-slash-skill-invocations-like-skill-a-skill-b-do-xyz-now-load-all-leading|Stacked
-  slash-skill invocations like /skill-a /skill-b do XYZ now load all leading…]]'
-- '[[Changes/Claude Code/2026-07-06-improved-mcp-error-messages-clearer-error-when-a-server-config-has-url-but-no-ty|Improved
-  MCP error messages]]'
+- '[[Changes/ElevenLabs/2026-07-06-elevenagents|ElevenAgents]]'
 - '[[Changes/OpenHands/2026-07-06-7-apps-and-integrations-changes-in-1-9-0|7 Apps
   and Integrations changes in 1.9.0]]'
+- '[[Changes/Claude/2026-07-07-write-tools-for-the-microsoft-365-connector|Write tools
+  for the Microsoft 365 connector]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-07-v2-1-203-github-350481879-29776bbc|claude-code-2026-07-07-v2-1-203-github-350481879-29776bbc]]'
 source_type: github_releases
 theme: apps-integrations
@@ -87,7 +86,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.203
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-07-06 · OpenHands · [[Changes/OpenHands/2026-07-06-7-apps-and-integrations-changes-in-1-9-0|7 Apps and Integrations changes in 1.9.0]]
+- Earlier: 2026-07-07 · Claude · [[Changes/Claude/2026-07-07-write-tools-for-the-microsoft-365-connector|Write tools for the Microsoft 365 connector]]
 - Later: 2026-07-07 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-07-7-apps-and-integrations-changes-in-v1-0-69|7 Apps and Integrations changes in v1.0.69]]
 <!-- chronolog:end -->
 

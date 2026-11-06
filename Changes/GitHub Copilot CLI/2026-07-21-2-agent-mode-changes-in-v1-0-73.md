@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 57cf10acd2496bc0e9aa9722cb883384a815e89f531279089d38aa402c5d6178
+machine_hash: f88fa6cc51cfbf3c06dd042f8209423ad53149c24fb206670e116c5c6f8de67f
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -80,7 +80,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.73
 ## Nearby in Agent Mode
 
 - Earlier: 2026-07-21 · Codex CLI · [[Changes/Codex CLI/2026-07-21-20-agent-mode-changes-in-rust-v0-145-0|20 Agent Mode changes in rust-v0.145.0]]
-- Later: 2026-07-22 · Claude Code · [[Changes/Claude Code/2026-07-22-changed-plan-mode-with-auto-to-no-longer-prompt-for-bash-commands-the-static-ana|Changed plan mode with auto to no longer prompt for Bash commands the static…]]
+- Later: 2026-07-21 · v0 · [[Changes/v0/2026-07-21-agent-auto-pushes-retry-after-rebasing-when-a-push-is-rejected-as-non-fast-forwa|Agent auto-pushes retry after rebasing when a push is rejected as non-fast-forward…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

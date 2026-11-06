@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 5a05c80e46043ba4def9f7867b0fc4f71ca4af00d4766759f9d576fd2dfc7f53
+machine_hash: a4f8ac97c0cd1bcc0f35d6e3606b096e0e3585613a00a57ba356aaf93fb3f5f5
 product: aider
 product_name: Aider
 record:
@@ -44,10 +44,10 @@ record:
   title: Added `/think-tokens` command to set thinking token budget with support…
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-02-19-ui-refresh-phase-one-of-a-fresh-coat-of-paint-with-new-default-cursor-themes-des|UI
-  refresh: Phase one of a fresh coat of paint with new default Cursor themes…]]'
-- '[[Changes/OpenHands/2025-02-24-by-default-openhands-truncates-history-by-half-when-it-hits-llm-context-limit-by|By
-  default, OpenHands truncates history by half when it hits LLM context limit]]'
+- "[[Changes/Open WebUI/2025-02-27-instant-document-upload-with-bypass-embedding-retrieval-admins-can-now-enable-by|\U0001F680
+  Instant Document Upload with Bypass Embedding & Retrieval]]"
+- "[[Changes/Open WebUI/2025-02-27-open-webui-now-works-over-lan-in-insecure-context-resolved-an-issue-preventing-o|\U0001F310
+  Open WebUI Now Works Over LAN in Insecure Context]]"
 - '[[Changes/OpenHands/2025-03-07-2-context-window-changes-in-0-28-0|2 Context Window
   changes in 0.28.0]]'
 source_release: '[[Releases/Aider/aider-2025-03-13-v0-77-0-github-205707771-facc801d|aider-2025-03-13-v0-77-0-github-205707771-facc801d]]'
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2025-03-07 · OpenHands · [[Changes/OpenHands/2025-03-07-2-context-window-changes-in-0-28-0|2 Context Window changes in 0.28.0]]
-- Later: 2025-03-15 · Cline · [[Changes/Cline/2025-03-15-prevent-cline-from-reading-extremely-large-files-into-context-that-would-overloa|Prevent Cline from reading extremely large files into context that would overload…]]
+- Later: 2025-03-14 · Replit · [[Changes/Replit/2025-03-14-enhanced-link-context-features|Enhanced link context features]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

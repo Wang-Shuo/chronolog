@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 4108de88efd4e0bdec681d307dd3b9aad3fd9a472ca1a805a5b5ec3b6f6dfc47
+machine_hash: 0dec03fcaab5009ff935b18d567a546803a1f3127641d52a4242c305dfddd368
 product: openhands
 product_name: OpenHands
 record:
@@ -44,10 +44,8 @@ record:
   title: Prompt agent to follow existing PR template when create new PR
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-03-10-improve-agent-loop-tracking-by-rbren-in-https-github-com-all-hands-ai-openhands|Improve
-  agent loop tracking]]'
-- '[[Changes/Cursor/2025-03-23-built-in-modes-custom-modes-beta|Built-in modes & custom
-  modes (beta)]]'
+- '[[Changes/ElevenLabs/2025-04-07-agents-platform|Agents Platform]]'
+- '[[Changes/ElevenLabs/2025-04-07-agents-platform-b2e925|Agents Platform]]'
 - '[[Changes/Cline/2025-04-09-add-new-create-new-task-tool-to-let-cline-start-a-new-task-autonomously|Add
   new ''Create New Task'' tool to let Cline start a new task autonomously!]]'
 source_release: '[[Releases/OpenHands/openhands-2025-04-10-0-32-0-github-211548474-c44dab94|openhands-2025-04-10-0-32-0-github-211548474-c44dab94]]'
@@ -81,7 +79,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2025-04-09 · Cline · [[Changes/Cline/2025-04-09-add-new-create-new-task-tool-to-let-cline-start-a-new-task-autonomously|Add new 'Create New Task' tool to let Cline start a new task autonomously!]]
-- Later: 2025-04-15 · Cursor · [[Changes/Cursor/2025-04-15-reviewing-agent-generated-code-is-now-easier-with-a-built-in-diff-view-at-the-en|Making reviews easier]]
+- Later: 2025-04-14 · ElevenLabs · [[Changes/ElevenLabs/2025-04-14-agents-platform|Agents Platform]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

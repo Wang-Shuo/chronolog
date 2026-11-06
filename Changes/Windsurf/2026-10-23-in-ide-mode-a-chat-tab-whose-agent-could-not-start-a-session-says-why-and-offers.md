@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: a6d9488f3726ba3df2db0a88e12af6079681d5749c544291928ad272a33b13dc
+machine_hash: b152ad64703bc249e16bec1db710182882a5eaf5507f8e423e8c1a81189d8849
 product: windsurf
 product_name: Windsurf
 record:
@@ -57,10 +57,10 @@ record:
     offers…
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-10-22-refactor-diff-express-the-markdown-preview-cap-in-css-by-enyst-in-https-github-c|refactor(diff):
-  express the Markdown preview cap in CSS]]'
 - '[[Changes/Claude Code/2026-10-23-cloud-sessions-changed-the-cloud-environment-dialog-to-open-network-access-setup|Cloud
   sessions Changed the cloud environment dialog to open network access, setup…]]'
+- '[[Changes/Dify/2026-10-23-3-editor-experience-changes-in-1-18-0|3 Editor Experience
+  changes in 1.18.0]]'
 - '[[Changes/OpenHands/2026-10-23-chore-verify-openhands-time-network-responses-and-order-them-by-completion-by-en|chore(verify-openhands):
   time network responses and order them by completion]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-10-23-v3-11-212-ce285b20|windsurf-2026-10-23-v3-11-212-ce285b20]]'
@@ -100,7 +100,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-10-23 · OpenHands · [[Changes/OpenHands/2026-10-23-chore-verify-openhands-time-network-responses-and-order-them-by-completion-by-en|chore(verify-openhands): time network responses and order them by completion]]
-- Later: 2026-10-26 · Claude Code · [[Changes/Claude Code/2026-10-26-vscode-changed-the-session-list-side-bar-to-load-web-sessions-when-the-web-tab-i|VSCode Changed the session list side bar to load Web sessions when the Web tab…]]
+- Later: 2026-10-25 · Open WebUI · [[Changes/Open WebUI/2026-10-25-4-editor-experience-changes-in-v0-12-4|4 Editor Experience changes in v0.12.4]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

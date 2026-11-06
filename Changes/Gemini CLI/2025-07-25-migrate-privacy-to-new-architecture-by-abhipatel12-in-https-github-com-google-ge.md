@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 2687a24ee64a7251d86e652f72d46ab3d4ae6c8b4e912783b8337dc5683c1d34
+machine_hash: 4d07ade4aa3359f314be60dce47e4de275657188cf0408cee3cd81362b7221d8
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -45,12 +45,12 @@ record:
   title: Migrate /privacy to new architecture
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-07-08-adds-support-for-a-sandbox-flag-and-makes-some-breaking-changes-to-config-toml-a|Adds
-  support for a --sandbox flag and makes some breaking changes to config.toml…]]'
-- '[[Changes/Gemini CLI/2025-07-11-update-terms-of-service-and-privacy-notice-for-clarity-by-jkcinouye-in-https-git|Update
-  Terms of Service and Privacy Notice for clarity]]'
 - '[[Changes/Gemini CLI/2025-07-19-migrate-privacy-to-new-architecture-by-abhipatel12-in-https-github-com-google-ge|Migrate
   /privacy to new architecture]]'
+- '[[Changes/Open WebUI/2025-07-19-2-safety-and-privacy-changes-in-v0-6-17|2 Safety
+  and Privacy changes in v0.6.17]]'
+- '[[Changes/Dify/2025-07-23-2-safety-and-privacy-changes-in-1-7-0|2 Safety and Privacy
+  changes in 1.7.0]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-07-25-v0-1-14-github-235287807-631ef7fa|gemini-cli-2025-07-25-v0-1-14-github-235287807-631ef7fa]]'
 source_type: github_releases
 theme: safety-privacy
@@ -91,7 +91,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2025-07-19 · Gemini CLI · [[Changes/Gemini CLI/2025-07-19-migrate-privacy-to-new-architecture-by-abhipatel12-in-https-github-com-google-ge|Migrate /privacy to new architecture]]
+- Earlier: 2025-07-23 · Dify · [[Changes/Dify/2025-07-23-2-safety-and-privacy-changes-in-1-7-0|2 Safety and Privacy changes in 1.7.0]]
 - Later: 2025-07-29 · Cursor · [[Changes/Cursor/2025-07-29-2-safety-and-privacy-changes-in-1-3|2 Safety and Privacy changes in 1.3]]
 <!-- chronolog:end -->
 

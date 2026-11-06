@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: acaa486ee0c29efbe5dd4ef96b0825fc276141c2b79d6f79b355825d1f6c5feb
+machine_hash: f31ff06dc6e9298afc9edc54f5b72b7bf7792b7a26a4ec2b8f628a0e266c12f2
 product: cline
 product_name: Cline
 record:
@@ -44,8 +44,8 @@ record:
   title: 'feat: add Requesty OAuth with custom base URL support'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-10-23-3-account-and-access-changes-in-rust-v0-48-0|3 Account
-  and Access changes in rust-v0.48.0]]'
+- '[[Changes/Replit/2025-10-24-sso-support-for-replit-auth-in-enterprise-apps|SSO
+  support for Replit Auth in Enterprise apps]]'
 - '[[Changes/Codex CLI/2025-10-25-5653-mcp-properly-gate-login-after-mcp-add-with-experimental-use-rmcp-client-gpe|♯5653
   — MCP Properly gate login after mcp add with experimental_use_rmcp_client (@gpeal)]]'
 - '[[Changes/Codex CLI/2025-10-30-2-account-and-access-changes-in-rust-v0-52-0|2 Account

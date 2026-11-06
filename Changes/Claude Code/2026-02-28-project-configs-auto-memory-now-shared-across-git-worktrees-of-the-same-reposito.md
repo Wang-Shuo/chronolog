@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 346ab04d97715079c67e7d4329727b1b9d724c3c8c0801d03a9c69ec9912148b
+machine_hash: 6705d5f1cf1f93a7cc2b2bf9e72244cb38e00792550da890d96cb20ffef843ef
 product: claude-code
 product_name: Claude Code
 record:
@@ -86,7 +86,7 @@ type: change
 ## Nearby in Memory and Personalization
 
 - Earlier: 2026-02-26 · Codex CLI · [[Changes/Codex CLI/2026-02-26-3-memory-and-personalization-changes-in-rust-v0-106-0|3 Memory and Personalization changes in rust-v0.106.0]]
-- Later: 2026-03-02 · Codex CLI · [[Changes/Codex CLI/2026-03-02-6-memory-and-personalization-changes-in-rust-v0-107-0|6 Memory and Personalization changes in rust-v0.107.0]]
+- Later: 2026-03-02 · Claude · [[Changes/Claude/2026-03-02-memory-for-free-users|Memory for free users]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

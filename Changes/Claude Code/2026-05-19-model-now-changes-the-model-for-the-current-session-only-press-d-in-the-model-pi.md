@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 04f936fb14e629c64e2beaccdefd8f720fb0396b5ab48448b98d1d269d35e035
+machine_hash: fef07dd04284a1107e996a5e7e476d2ef3365dc8d424265508654b7d44cd0d3f
 product: claude-code
 product_name: Claude Code
 record:
@@ -54,10 +54,10 @@ record:
   title: '`/model` now changes the model for the current session only'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-13-support-j-k-keys-for-up-down-navigation-in-the-diff-view|Support
-  j/k keys for up/down navigation in the /diff view]]'
 - '[[Changes/Codex CLI/2026-05-18-5-interface-experience-changes-in-rust-v0-131-0|5
   Interface Experience changes in rust-v0.131.0]]'
+- '[[Changes/Lovable/2026-05-18-github-button-in-editor-top-navigation-the-github-https-docs-lovable-dev-integra|GitHub
+  button in editor top…]]'
 - '[[Changes/Claude Code/2026-05-19-2-interface-experience-changes-in-v2-1-145|2 Interface
   Experience changes in v2.1.145]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-19-v2-1-144-github-324524751-1469637a|claude-code-2026-05-19-v2-1-144-github-324524751-1469637a]]'
@@ -99,7 +99,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-05-19 · Claude Code · [[Changes/Claude Code/2026-05-19-2-interface-experience-changes-in-v2-1-145|2 Interface Experience changes in v2.1.145]]
-- Later: 2026-05-19 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-19-3-interface-experience-changes-in-v1-0-49|3 Interface Experience changes in v1.0.49]]
+- Later: 2026-05-19 · Dify · [[Changes/Dify/2026-05-19-app-creation-and-onboarding-tracked-app-creation-source-and-template-id-initiali|App creation and onboarding]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

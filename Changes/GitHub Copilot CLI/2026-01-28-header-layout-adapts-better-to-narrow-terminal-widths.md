@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 14461c4eee384bc56b7ac8af8901e2814dcd89339c4601763d115405d95d693f
+machine_hash: eae126fdb4d720d8235038df8af6a68b7f0dbb950281054b726daea7a9cffb39
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -79,7 +79,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-01-28 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-28-skills-from-parent-directories-are-now-invocable-and-work-in-non-git-directories|Skills from parent directories are now invocable and work in non-git directories]]
-- Later: 2026-01-29 · Claude Code · [[Changes/Claude Code/2026-01-29-changed-bash-commands-to-show-timeout-duration-alongside-elapsed-time|Changed Bash commands to show timeout duration alongside elapsed time]]
+- Later: 2026-01-28 · v0 · [[Changes/v0/2026-01-28-added-toast-notification-when-pull-requests-are-merged|Added toast notification when pull requests are merged]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

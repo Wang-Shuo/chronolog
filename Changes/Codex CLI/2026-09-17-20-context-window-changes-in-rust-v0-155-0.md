@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3ca318f2d123bbd98674184ad6904463500c99e2ab3a0ed254f984373b752ab8
+machine_hash: 7b5697353af3ca5f4b25c5bfd78f3677e6920a0f40ba28895e3434af999389eb
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -173,7 +173,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.155.0
 ## Nearby in Context Window
 
 - Earlier: 2026-09-17 · Cline · [[Changes/Cline/2026-09-17-long-tasks-now-compact-when-they-actually-need-to-rather-than-running-out-of-roo|Long tasks now compact when they actually need to rather than running out of room]]
-- Later: 2026-09-22 · Cline · [[Changes/Cline/2026-09-22-2-context-window-changes-in-v4-1-20|2 Context Window changes in v4.1.20]]
+- Later: 2026-09-18 · Lovable · [[Changes/Lovable/2026-09-18-type-or-to-add-context-and-skills-where-you-type|Type @ or / to add context and skills where you type]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: bc523d5339a5d138ae0951d46081e7cfc9e2ce0c0272037efd0d8756e262edce
+machine_hash: 00583932ab4d346068fafce5a121ea97efaa340237a7c6845b7b7a7a4e440e12
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -45,8 +45,8 @@ record:
   title: 2 Safety and Privacy changes in v0.4.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-08-26-2587-do-not-show-timeouts-as-sandbox-error-s|♯2587
-  do not show timeouts as "sandbox error"s]]'
+- '[[Changes/Dify/2025-09-03-3-safety-and-privacy-changes-in-1-8-1|3 Safety and Privacy
+  changes in 1.8.1]]'
 - '[[Changes/Gemini CLI/2025-09-04-2-safety-and-privacy-changes-in-v0-3-0|2 Safety
   and Privacy changes in v0.3.0]]'
 - '[[Changes/Codex CLI/2025-09-05-3128-mcp-sandbox-call|♯3128 MCP sandbox call]]'
@@ -91,7 +91,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.4.0
 ## Nearby in Safety and Privacy
 
 - Earlier: 2025-09-05 · Codex CLI · [[Changes/Codex CLI/2025-09-05-3128-mcp-sandbox-call|♯3128 MCP sandbox call]]
-- Later: 2025-09-10 · Codex CLI · [[Changes/Codex CLI/2025-09-10-ci-build-faster-tests-with-nextest-add-shear-minor-macos-permission-adjustment|CI/Build: faster tests with nextest, add shear; minor macOS permission adjustment]]
+- Later: 2025-09-09 · Open WebUI · [[Changes/Open WebUI/2025-09-09-4-safety-and-privacy-changes-in-v0-6-27|4 Safety and Privacy changes in v0.6.27]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

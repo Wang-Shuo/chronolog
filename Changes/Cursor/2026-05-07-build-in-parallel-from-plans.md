@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 448eb2fde120af4afc16743f343a8ab0999827d8fc5d8e197c8efb3cd23adc00
+machine_hash: f1997e46d89f29fcf744dfcbbf8f9a381b9c72e8e63b18583e84d8fc44716958
 product: cursor
 product_name: Cursor
 record:
@@ -91,7 +91,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-05-07 · Codex CLI · [[Changes/Codex CLI/2026-05-07-2-reliability-and-performance-changes-in-rust-v0-129-0|2 Reliability and Performance changes in rust-v0.129.0]]
-- Later: 2026-05-08 · Codex CLI · [[Changes/Codex CLI/2026-05-08-added-a-faster-cargo-profiling-build-profile-and-disabled-empty-doctest-targets|Added a faster Cargo profiling build profile and disabled empty doctest targets…]]
+- Later: 2026-05-07 · Ollama · [[Changes/Ollama/2026-05-07-api-show-responses-are-now-cached-improving-median-latency-by-6-7x-which-will-in|/api/show responses are now cached, improving median latency…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

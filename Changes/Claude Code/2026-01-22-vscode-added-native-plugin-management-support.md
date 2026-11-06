@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 949df513b8757e10f0b6b707a6fca9fef8c2f1a22456029e9fc31836d62dcc2a
+machine_hash: fbdde7cc6b88d2577012abd32b59327ab94ecc3f429f6a61caf37d1190cc8498
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,12 +42,12 @@ record:
   title: '[VSCode] Added native plugin management support'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-01-20-enable-all-github-mcp-tools-flag-now-enables-read-write-github-mcp-tools|--enable-all-github-mcp-tools
-  flag now enables read-write GitHub MCP tools]]'
 - '[[Changes/Codex CLI/2026-01-21-3-apps-and-integrations-changes-in-rust-v0-88-0|3
   Apps and Integrations changes in rust-v0.88.0]]'
 - '[[Changes/Gemini CLI/2026-01-21-10-apps-and-integrations-changes-in-v0-25-0|10
   Apps and Integrations changes in v0.25.0]]'
+- '[[Changes/v0/2026-01-21-improved-integration-card-design-with-less-prominent-skip-button|Improved
+  integration card design with less prominent skip button]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-22-v2-1-16-github-279146529-0e5b3428|claude-code-2026-01-22-v2-1-16-github-279146529-0e5b3428]]'
 source_type: github_releases
 theme: apps-integrations
@@ -77,7 +77,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-01-21 · Gemini CLI · [[Changes/Gemini CLI/2026-01-21-10-apps-and-integrations-changes-in-v0-25-0|10 Apps and Integrations changes in v0.25.0]]
+- Earlier: 2026-01-21 · v0 · [[Changes/v0/2026-01-21-improved-integration-card-design-with-less-prominent-skip-button|Improved integration card design with less prominent skip button]]
 - Later: 2026-01-22 · Codex CLI · [[Changes/Codex CLI/2026-01-22-2-apps-and-integrations-changes-in-rust-v0-89-0|2 Apps and Integrations changes in rust-v0.89.0]]
 <!-- chronolog:end -->
 

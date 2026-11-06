@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a4148326e9b29ed608bafcc4cb52beef948fa87e09e0142a4258ffd2cdab7bcc
+machine_hash: 1a80353143063804b922bbef45ce1c34eff35bdb130c8cf5a58877fe24f7657d
 product: aider
 product_name: Aider
 record:
@@ -42,12 +42,12 @@ record:
   title: Skip suggesting files that share names with files already in chat
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-08-22-composer-is-now-default-on-and-available-to-all-pro-business-users-by-hitting-cm|Composer
-  is now default-on and available to all Pro/Business users by hitting cmd+I]]'
-- '[[Changes/Cline/2024-10-09-new-readme-and-got-a-cool-domain-for-the-project-https-cline-bot-wip-on-a-final|New
-  README and got a cool domain for the project (source link) (wip)]]'
+- "[[Changes/Open WebUI/2024-10-24-folders-support-for-chats-organize-your-chats-better-by-grouping-them-into-folde|\U0001F4C1
+  Folders Support for Chats: Organize your chats better by grouping them into folders]]"
 - '[[Changes/Aider/2024-11-01-anonymous-opt-in-analytics-https-aider-chat-docs-more-analytics-html-with-no-per|Anonymous,
   opt-in analytics((source link) with no…]]'
+- '[[Changes/Open WebUI/2024-11-19-2-collaboration-changes-in-v0-4-0|2 Collaboration
+  changes in v0.4.0]]'
 source_release: '[[Releases/Aider/aider-2024-11-26-v0-65-0-github-187637118-11b15eff|aider-2024-11-26-v0-65-0-github-187637118-11b15eff]]'
 source_type: github_releases
 theme: collaboration
@@ -79,8 +79,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2024-11-01 · Aider · [[Changes/Aider/2024-11-01-anonymous-opt-in-analytics-https-aider-chat-docs-more-analytics-html-with-no-per|Anonymous, opt-in analytics((source link) with no…]]
-- Later: 2025-03-23 · Cursor · [[Changes/Cursor/2025-03-23-improved-indexing-performance-for-teams-sharing-codebases|Improved indexing performance for teams sharing codebases]]
+- Earlier: 2024-11-19 · Open WebUI · [[Changes/Open WebUI/2024-11-19-2-collaboration-changes-in-v0-4-0|2 Collaboration changes in v0.4.0]]
+- Later: 2024-12-25 · Open WebUI · [[Changes/Open WebUI/2024-12-25-2-collaboration-changes-in-v0-5-0|2 Collaboration changes in v0.5.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

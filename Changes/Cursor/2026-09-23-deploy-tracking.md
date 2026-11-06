@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 179c39f23ab1ebe5d5ecaf8b04e742d7bd3d96516298970da7d3663b589d6a30
+machine_hash: 6a7663744a14fdfab54ed29c99f5874ec3db950fca4a563c41a058a4951eb227
 product: cursor
 product_name: Cursor
 record:
@@ -50,10 +50,10 @@ record:
   title: Deploy tracking
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-09-16-speed-up-startup-when-resuming-an-existing-local-session-by-its-exact-uuid-with|Speed
-  up startup when resuming an existing local session by its exact UUID with --resume]]'
 - '[[Changes/Claude Code/2026-09-17-added-a-visible-warning-when-memory-usage-is-critical-with-steps-to-free-memory|Added
   a visible warning when memory usage is critical, with steps to free memory…]]'
+- "[[Changes/Open WebUI/2026-09-21-general-improvements-various-improvements-were-implemented-across-the-applicatio|\U0001F504
+  General improvements. Various improvements were implemented across…]]"
 - '[[Changes/Codex CLI/2026-09-22-45960-tag-memory-usage-telemetry-with-the-memory-version-jif-oai|♯45960
   Tag memory usage telemetry with the memory version @jif-oai]]'
 source_release: '[[Releases/Cursor/cursor-2026-09-23-rollouts-and-security-review-https-cursor-com-changelog-rollouts-b860a5fb|cursor-2026-09-23-rollouts-and-security-review-https-cursor-com-changelog-rollouts-b860a5fb]]'
@@ -94,7 +94,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-09-22 · Codex CLI · [[Changes/Codex CLI/2026-09-22-45960-tag-memory-usage-telemetry-with-the-memory-version-jif-oai|♯45960 Tag memory usage telemetry with the memory version @jif-oai]]
-- Later: 2026-09-25 · Claude Code · [[Changes/Claude Code/2026-09-25-2-reliability-and-performance-changes-in-v2-1-283|2 Reliability and Performance changes in v2.1.283]]
+- Later: 2026-09-23 · Ollama · [[Changes/Ollama/2026-09-23-2-reliability-and-performance-changes-in-v0-34-4|2 Reliability and Performance changes in v0.34.4]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

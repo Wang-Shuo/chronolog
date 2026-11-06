@@ -4,20 +4,20 @@ date: '2026-03-24'
 description: 'Gemini CLI · 2026-03-24 · Automation and Scheduling: 2 changes in Release
   v0.35.0 — feat(browser): implement input blocker overlay during automation by…'
 diffusion:
-  first_in_tracked: '[[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better
-    syntax error loop detection]]'
+  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
+    data clean schedule]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 566
+  lag_days: 812
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8d4dce608ff1d513175eb3023e500d13b12a662cebc5365d83b9cf6e22bec953
+machine_hash: 9d3c74ff1204511564af5fc49d7f7a83f4f8887a8103ddf3f6e9335f352c49cc
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -44,12 +44,12 @@ record:
   title: 2 Automation and Scheduling changes in v0.35.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-10-2-automation-and-scheduling-changes-in-rust-v0-113-0|2
-  Automation and Scheduling changes in rust-v0.113.0]]'
-- '[[Changes/Claude Code/2026-03-17-show-a-notice-when-apikeyhelper-takes-longer-than-10s-preventing-it-from-blockin|Show
-  a notice when apiKeyHelper takes longer than 10s, preventing it from blocking…]]'
+- '[[Changes/Dify/2026-03-17-ci-add-weekly-schedule-for-pip-and-uv-ecosystems-by-asukaminato0721-in-https-git|ci:
+  Add weekly schedule for pip and uv ecosystems]]'
 - '[[Changes/Gemini CLI/2026-03-17-2-automation-and-scheduling-changes-in-v0-34-0|2
   Automation and Scheduling changes in v0.34.0]]'
+- '[[Changes/Ollama/2026-03-17-scripts-automation-kick-off-automated-tasks-with-ollama-and-claude-code|Scripts/automation:
+  Kick off automated tasks with Ollama and claude code]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-03-24-v0-35-0-github-300868580-f6f9b621|gemini-cli-2026-03-24-v0-35-0-github-300868580-f6f9b621]]'
 source_type: github_releases
 theme: automation-scheduling
@@ -93,14 +93,14 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.35.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2026-03-17 · Gemini CLI · [[Changes/Gemini CLI/2026-03-17-2-automation-and-scheduling-changes-in-v0-34-0|2 Automation and Scheduling changes in v0.34.0]]
+- Earlier: 2026-03-17 · Ollama · [[Changes/Ollama/2026-03-17-scripts-automation-kick-off-automated-tasks-with-ollama-and-claude-code|Scripts/automation: Kick off automated tasks with Ollama and claude code]]
 - Later: 2026-03-26 · Claude Code · [[Changes/Claude Code/2026-03-26-added-timestamp-markers-in-transcripts-when-scheduled-tasks-loop-croncreate-fire|Added timestamp markers in transcripts when scheduled tasks (/loop, CronCreate) fire]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-09-04 · OpenHands · [[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better syntax error loop detection]]
+- Earliest same-theme entry in the tracked set: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

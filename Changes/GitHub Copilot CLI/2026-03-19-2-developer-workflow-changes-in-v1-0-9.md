@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: eee0777b493c70b4006b5f454ee934fb2326dd6e6f5e819164d836b68a724b98
+machine_hash: 4c5699d8858d3193b30c835cbe260dde6a1b26d5c66ad93bd8430359a8717b34
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -42,10 +42,10 @@ record:
   title: 2 Developer Workflow changes in v1.0.9
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-18-alternate-screen-buffer-is-now-enabled-by-default-for-a-cleaner-terminal-experie|Alternate
-  screen buffer is now enabled by default for a cleaner terminal experience]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-18-scroll-works-correctly-in-macos-terminal-app-and-other-terminals-that-don-t-supp|Scroll
   works correctly in macOS Terminal.app and other terminals that don''t support…]]'
+- '[[Changes/Ollama/2026-03-18-add-extra-check-to-ensure-npm-and-git-are-installed-before-installing-openclaw|Add
+  extra check to ensure npm and git are installed before installing OpenClaw]]'
 - '[[Changes/Codex CLI/2026-03-19-5-developer-workflow-changes-in-rust-v0-116-0|5
   Developer Workflow changes in rust-v0.116.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-03-19-v1-0-9-github-298772514-55d909ee|github-copilot-cli-2026-03-19-v1-0-9-github-298772514-55d909ee]]'

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d49d8c71eeec34117c0eb7e56020d5b8fd1254e5e64c959d65fea4116d2c58da
+machine_hash: 68a7ab011c501d00637f9336628da9478df99492ee74fbfd8edc5e9f4f032299
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -89,7 +89,7 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2026-03-24 · Gemini CLI · [[Changes/Gemini CLI/2026-03-24-2-context-window-changes-in-v0-35-0|2 Context Window changes in v0.35.0]]
-- Later: 2026-03-26 · Claude Code · [[Changes/Claude Code/2026-03-26-reduced-ui-stutter-when-compaction-triggers-on-large-sessions|Reduced UI stutter when compaction triggers on large sessions]]
+- Later: 2026-03-25 · Open WebUI · [[Changes/Open WebUI/2026-03-25-3-context-window-changes-in-v0-8-11|3 Context Window changes in v0.8.11]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

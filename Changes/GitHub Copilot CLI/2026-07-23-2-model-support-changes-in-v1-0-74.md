@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 880691c682660d73d2f15673d1827c490d9aef625c61ba0d8d1a028ea449de4a
+machine_hash: 56f9925f5322504aeb36242fd0c1fb4454486838f45ee37dfbd7255d85d9cf2f
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -42,11 +42,11 @@ record:
   title: 2 Model Support changes in v1.0.74
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-07-22-cursor-router-is-our-intelligent-model-router-it-analyzes-each-request-and-sends|Cursor
-  Router is our intelligent model router]]'
 - '[[Changes/Cursor/2026-07-22-routed-model-can-be-displayed-or-hidden-hidden-by-default|Routed
   model can be displayed or hidden (hidden by default)]]'
 - '[[Changes/Cursor/2026-07-22-optimization-modes-e62142|Optimization modes]]'
+- '[[Changes/Lovable/2026-07-22-gemini-3-6-flash-is-now-the-default-model-for-your-app-s-ai|Gemini
+  3.6 Flash is now the default model for your app''s AI]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-07-23-v1-0-74-github-358979195-44813cc5|github-copilot-cli-2026-07-23-v1-0-74-github-358979195-44813cc5]]'
 source_type: github_releases
 theme: model-support
@@ -85,8 +85,8 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.74
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-07-22 · Cursor · [[Changes/Cursor/2026-07-22-optimization-modes-e62142|Optimization modes]]
-- Later: 2026-07-24 · Claude Code · [[Changes/Claude Code/2026-07-24-3-model-support-changes-in-v2-1-219|3 Model Support changes in v2.1.219]]
+- Earlier: 2026-07-22 · Lovable · [[Changes/Lovable/2026-07-22-gemini-3-6-flash-is-now-the-default-model-for-your-app-s-ai|Gemini 3.6 Flash is now the default model for your app's AI]]
+- Later: 2026-07-23 · Ollama · [[Changes/Ollama/2026-07-23-added-chat-thinking-and-tool-calling-support-for-laguna-2-1-models-including-a-m|Added chat, thinking, and tool calling support for Laguna 2.1 models, including…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

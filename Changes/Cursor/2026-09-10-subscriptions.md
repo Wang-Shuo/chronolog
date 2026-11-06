@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 6a2532e3289a1ad1f6759f73f4a31dd370856052aec41ba0100672a5415b89d3
+machine_hash: c329e611b81923aab013ae59f563498f8fda739c2123441f647c6e5575084716
 product: cursor
 product_name: Cursor
 record:
@@ -93,7 +93,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-09-10 · Claude Code · [[Changes/Claude Code/2026-09-10-improved-auto-mode-denials-the-message-claude-receives-now-names-the-rule-that-b|Improved auto mode denials]]
-- Later: 2026-09-11 · Claude Code · [[Changes/Claude Code/2026-09-11-2-agent-mode-changes-in-v2-1-269|2 Agent Mode changes in v2.1.269]]
+- Later: 2026-09-10 · Dify · [[Changes/Dify/2026-09-10-42-agent-mode-changes-in-1-17-1|42 Agent Mode changes in 1.17.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 381331a425dba4bd11950e9df5217eb2d3fd631e06defb52e6604ccb7af23350
+machine_hash: 78489f8299363b4332871e091ab9699d14409c9a3d65c5d5f9c35917aa9300f5
 product: claude-code
 product_name: Claude Code
 record:
@@ -55,10 +55,10 @@ record:
   title: 5 Model Support changes in v2.1.311
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-10-22-3-model-support-changes-in-v1-0-103|3 Model
-  Support changes in v1.0.103]]'
-- '[[Changes/Codex CLI/2026-10-23-9-model-support-changes-in-rust-v0-164-0|9 Model
-  Support changes in rust-v0.164.0]]'
+- '[[Changes/Ollama/2026-10-24-d3-https-ollama-com-library-d3-brings-vllm-semantic-router-s-decision-models-to|d3((source
+  link) brings vLLM Semantic Router''s decision models…]]'
+- '[[Changes/Open WebUI/2026-10-25-16-model-support-changes-in-v0-12-4|16 Model Support
+  changes in v0.12.4]]'
 - '[[Changes/ChatGPT/2026-10-26-gpt-6-1-terra-is-rolling-out-in-chatgpt-work-and-codex-it-supports-a-range-of-ta|GPT-6.1
   Terra]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-26-v2-1-311-github-424682562-151da26b|claude-code-2026-10-26-v2-1-311-github-424682562-151da26b]]'

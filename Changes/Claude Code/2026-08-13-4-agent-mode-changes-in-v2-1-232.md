@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c42fa89b4f455b06b6e614b11cc8a5c99c87f36239f0f4e484b1b774c377008f
+machine_hash: b8e2ddd436d26f314bd466280d5934021da2dd3e31329f5ff590ef35981205c1
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,10 +49,10 @@ record:
   title: 4 Agent Mode changes in v2.1.232
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-11-removed-the-outdated-note-about-auto-mode-sessions-costing-slightly-more-from-th|Removed
-  the outdated note about auto mode sessions costing slightly more…]]'
 - '[[Changes/Gemini CLI/2026-08-11-2-agent-mode-changes-in-v0-55-1|2 Agent Mode changes
   in v0.55.1]]'
+- '[[Changes/Ollama/2026-08-11-nvidia-nemotron-3-5-lightning-https-ollama-com-library-nemotron-3-5-lightning-is|NVIDIA
+  Nemotron 3.5 Lightning((source link)]]'
 - '[[Changes/Claude Code/2026-08-12-improved-workflow-fan-outs-to-stagger-same-prefix-sibling-agents-so-subsequent-a|Improved
   workflow fan-outs to stagger same-prefix sibling agents so subsequent…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-13-v2-1-232-github-370225682-71e478db|claude-code-2026-08-13-v2-1-232-github-370225682-71e478db]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 09b10812369eadfd04c8988502243b85baf6c687e24aa6915b9702603b84c71e
+machine_hash: 69342f0aab6e64e824e64c2ad36472e73ac9b49356e4ae5b14f55b6840e7dc03
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,12 +46,12 @@ record:
   title: 2 Apps and Integrations changes in v2.1.247
   type: change
 related_changes:
-- '[[Changes/Cline/2026-08-23-2-apps-and-integrations-changes-in-v4-1-15|2 Apps and
-  Integrations changes in v4.1.15]]'
-- '[[Changes/Claude Code/2026-08-25-3-apps-and-integrations-changes-in-v2-1-246|3
-  Apps and Integrations changes in v2.1.246]]'
+- '[[Changes/Dify/2026-08-25-28-apps-and-integrations-changes-in-1-17-0|28 Apps and
+  Integrations changes in 1.17.0]]'
 - '[[Changes/Gemini CLI/2026-08-25-ssr-agent-issue-fix-21919-fix-typescript-strict-null-errors-in-integration-tests|SSR
   Agent Issue Fix (21919): Fix TypeScript strict-null errors in integration tests]]'
+- '[[Changes/Open WebUI/2026-08-25-4-apps-and-integrations-changes-in-v0-11-1|4 Apps
+  and Integrations changes in v0.11.1]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-26-v2-1-247-github-377320078-fc507178|claude-code-2026-08-26-v2-1-247-github-377320078-fc507178]]'
 source_type: github_releases
 theme: apps-integrations
@@ -90,7 +90,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.247
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-08-25 · Gemini CLI · [[Changes/Gemini CLI/2026-08-25-ssr-agent-issue-fix-21919-fix-typescript-strict-null-errors-in-integration-tests|SSR Agent Issue Fix (21919): Fix TypeScript strict-null errors in integration tests]]
+- Earlier: 2026-08-25 · Open WebUI · [[Changes/Open WebUI/2026-08-25-4-apps-and-integrations-changes-in-v0-11-1|4 Apps and Integrations changes in v0.11.1]]
 - Later: 2026-08-26 · Cline · [[Changes/Cline/2026-08-26-4-apps-and-integrations-changes-in-v4-1-16|4 Apps and Integrations changes in v4.1.16]]
 <!-- chronolog:end -->
 

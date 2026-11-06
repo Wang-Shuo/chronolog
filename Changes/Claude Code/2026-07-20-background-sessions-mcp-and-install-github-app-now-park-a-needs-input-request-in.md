@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: f6f4269ce8f9f4340bd6a0b508c0e2f136ee47d2e0247c75f1b52ee20aabe232
+machine_hash: b8adaec5ab9e171adcadcf22793930fe9184098d94f5753db5e6caf3c3b939bd
 product: claude-code
 product_name: Claude Code
 record:
@@ -55,10 +55,9 @@ record:
   title: 'Background sessions: `/mcp` and `/install-github-app` now park…'
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-07-17-cursor-in-slack-now-shares-a-plan-before-it-starts-runs-in-multi-repo-environmen|Cursor
-  in Slack now shares a plan before it starts, runs in multi-repo environments…]]'
-- '[[Changes/Cursor/2026-07-17-multi-repo-environment-support-4b706e|Multi-repo environment
-  support]]'
+- '[[Changes/Dify/2026-07-17-24-apps-and-integrations-changes-in-1-16-0|24 Apps and
+  Integrations changes in 1.16.0]]'
+- '[[Changes/Replit/2026-07-17-integrations|Integrations]]'
 - '[[Changes/Claude Code/2026-07-18-changed-sessionstart-hooks-to-report-source-fork-when-a-session-begins-as-a-fork|Changed
   SessionStart hooks to report source "fork" when a session begins as a fork…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-20-v2-1-216-github-356972381-87e422ae|claude-code-2026-07-20-v2-1-216-github-356972381-87e422ae]]'
@@ -94,7 +93,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-07-18 · Claude Code · [[Changes/Claude Code/2026-07-18-changed-sessionstart-hooks-to-report-source-fork-when-a-session-begins-as-a-fork|Changed SessionStart hooks to report source "fork" when a session begins as a fork…]]
-- Later: 2026-07-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-20-10-apps-and-integrations-changes-in-v1-0-72|10 Apps and Integrations changes in v1.0.72]]
+- Later: 2026-07-20 · ElevenLabs · [[Changes/ElevenLabs/2026-07-20-sdk-releases|SDK Releases]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f94611f8388a93a584f2372082d210d322c2f53dd36bf07c377d931c52acc0ca
+machine_hash: cec312b484e759bd7ec7584bbd6e6c269383464218589d29b52842a32dabf2dd
 product: claude-code
 product_name: Claude Code
 record:
@@ -95,7 +95,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.239
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-08-20 · Codex CLI · [[Changes/Codex CLI/2026-08-20-18-developer-workflow-changes-in-rust-v0-149-0|18 Developer Workflow changes in rust-v0.149.0]]
-- Later: 2026-08-25 · ChatGPT · [[Changes/ChatGPT/2026-08-25-plus-and-pro-users-can-ask-work-on-web-ios-and-android-to-respond-when-a-new-gma|Create webhook-triggered tasks]]
+- Later: 2026-08-21 · Ollama · [[Changes/Ollama/2026-08-21-deepseek-harness-launcher-now-falls-back-to-npx-when-the-global-npm-install-fail|DeepSeek Harness launcher now falls back to npx when the global npm install fails…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

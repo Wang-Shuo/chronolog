@@ -4,20 +4,20 @@ date: '2026-08-10'
 description: 'GitHub Copilot CLI · 2026-08-10 · Enterprise and Administration: 2 changes
   in 1.0.79 — Add support for enterprise allow-auto-only policy so /allow-all auto…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin
-    improvements: Team admins can now mark themselves as unpaid users and can see…]]'
+  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
+    for Google Workspace accounts]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 873
+  lag_days: 1193
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5f2875cb891e360a33fb7e75ee80604649d0964410e4accb7cc0d1536d08cdc0
+machine_hash: 9df75abed56581b0c821f1fe0f6a24a9a8b3134b494915d410290bd50d2dd0a0
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,11 +44,11 @@ record:
   title: 2 Enterprise and Administration changes in v1.0.79
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-07-22-admin-controls|Admin controls]]'
-- '[[Changes/Codex CLI/2026-07-29-2-enterprise-and-administration-changes-in-rust-v0-146-0|2
-  Enterprise and Administration changes in rust-v0.146.0]]'
 - '[[Changes/ChatGPT/2026-08-04-starting-today-for-chatgpt-enterprise-and-education-users-long-pastes-are-handle|Starting
   today for ChatGPT Enterprise and Education users, long pastes are handled…]]'
+- '[[Changes/Lovable/2026-08-07-unlimited-email-invites-on-paid-plans|Unlimited email
+  invites on paid plans]]'
+- '[[Changes/Replit/2026-08-07-teams-and-enterprise|Teams and Enterprise]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-08-10-v1-0-79-github-368051224-d4fdfd9a|github-copilot-cli-2026-08-10-v1-0-79-github-368051224-d4fdfd9a]]'
 source_type: github_releases
 theme: enterprise-admin
@@ -92,14 +92,14 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.79
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-08-04 · ChatGPT · [[Changes/ChatGPT/2026-08-04-starting-today-for-chatgpt-enterprise-and-education-users-long-pastes-are-handle|Starting today for ChatGPT Enterprise and Education users, long pastes are handled…]]
+- Earlier: 2026-08-07 · Replit · [[Changes/Replit/2026-08-07-teams-and-enterprise|Teams and Enterprise]]
 - Later: 2026-08-13 · ChatGPT · [[Changes/ChatGPT/2026-08-13-computer-history-is-an-optional-feature-in-the-chatgpt-macos-app-that-lets-chatg|Computer History for macOS]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-03-20 · Cursor · [[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin improvements: Team admins can now mark themselves as unpaid users and can see…]]
+- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

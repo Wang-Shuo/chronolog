@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1aa4928dc7fd5b46aeff9998953051fc5919013cd04904a89dde0d4595635965
+machine_hash: 8035db455ee2728a231fed6bf43ae6e2d39f83812db6e021154c31365904dcb6
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -63,10 +63,9 @@ record:
   title: 10 Apps and Integrations changes in v0.1.19
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-08-05-24-apps-and-integrations-changes-in-v0-1-17|24
-  Apps and Integrations changes in v0.1.17]]'
-- '[[Changes/Gemini CLI/2025-08-06-26-apps-and-integrations-changes-in-v0-1-18|26
-  Apps and Integrations changes in v0.1.18]]'
+- '[[Changes/ElevenLabs/2025-08-11-sdks|SDKs]]'
+- '[[Changes/Lovable/2025-08-11-real-time-analytics-on-your-lovable-apps|Real-time
+  analytics on your Lovable apps]]'
 - '[[Changes/Codex CLI/2025-08-12-https-github-com-openai-codex-pull-1975-add-json-schema-sanitization-for-mcp-too|(source
   link) add JSON schema sanitization for MCP tools…]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-08-12-v0-1-19-github-239452049-c4d9f679|gemini-cli-2025-08-12-v0-1-19-github-239452049-c4d9f679]]'

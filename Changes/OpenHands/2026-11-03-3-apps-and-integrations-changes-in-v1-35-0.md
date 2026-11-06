@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: df6ee8dfd5d45fb2827760df9e6ba7d05aeabef453f6c512b73355b3d6d48a9a
+machine_hash: bd146cb9d6885fe5667a715b582c20e7eee581060201bf8895fc556b880ee81f
 product: openhands
 product_name: OpenHands
 record:
@@ -47,12 +47,11 @@ record:
   title: 3 Apps and Integrations changes in v1.35.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-29-22-apps-and-integrations-changes-in-rust-v0-166-0|22
-  Apps and Integrations changes in rust-v0.166.0]]'
-- '[[Changes/Claude Code/2026-10-30-3-apps-and-integrations-changes-in-v2-1-314|3
-  Apps and Integrations changes in v2.1.314]]'
-- '[[Changes/Claude Code/2026-10-31-7-apps-and-integrations-changes-in-v2-1-316|7
-  Apps and Integrations changes in v2.1.316]]'
+- '[[Changes/ElevenLabs/2026-11-02-channel-integrations-asynchronous-channels-such-as-slack-telegram-intercom-gmail|Channel
+  integrations: Asynchronous channels such as Slack, Telegram, Intercom…]]'
+- '[[Changes/Lovable/2026-11-02-connect-your-app-to-bamboohr|Connect your app to BambooHR]]'
+- "[[Changes/Open WebUI/2026-11-03-mcp-apps-in-chat-tools-from-mcp-servers-that-come-with-an-interactive-app-now-sh|\U0001F9E9
+  MCP Apps in chat. Tools from MCP servers that come with an interactive app now…]]"
 source_release: '[[Releases/OpenHands/openhands-2026-11-03-v1-35-0-github-433088800-6c59b2b0|openhands-2026-11-03-v1-35-0-github-433088800-6c59b2b0]]'
 source_type: github_releases
 theme: apps-integrations
@@ -95,8 +94,8 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/v1.35.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-10-31 · Claude Code · [[Changes/Claude Code/2026-10-31-7-apps-and-integrations-changes-in-v2-1-316|7 Apps and Integrations changes in v2.1.316]]
-- Later: 2026-11-05 · OpenHands · [[Changes/OpenHands/2026-11-05-3-apps-and-integrations-changes-in-v1-36-0|3 Apps and Integrations changes in v1.36.0]]
+- Earlier: 2026-11-03 · Open WebUI · [[Changes/Open WebUI/2026-11-03-mcp-apps-in-chat-tools-from-mcp-servers-that-come-with-an-interactive-app-now-sh|🧩 MCP Apps in chat. Tools from MCP servers that come with an interactive app now…]]
+- Later: 2026-11-04 · Dify · [[Changes/Dify/2026-11-04-15-apps-and-integrations-changes-in-1-19-0|15 Apps and Integrations changes in 1.19.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

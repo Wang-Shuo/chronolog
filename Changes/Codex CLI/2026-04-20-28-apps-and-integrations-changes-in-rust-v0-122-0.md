@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 81c194aa6a92f2a591324785fd63c16a58d59f75ebdc61dd5403cf22f9f3649b
+machine_hash: 5a7911df410bb34f6b9cc2b05625729734c0cc200e3b26f808ebfa51270ef30a
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -106,10 +106,9 @@ record:
   title: 28 Apps and Integrations changes in rust-v0.122.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-16-mcp-migration-hint-now-links-to-documentation-with-platform-specific-instruction|MCP
-  migration hint now links to documentation with platform-specific instructions…]]'
-- '[[Changes/GitHub Copilot CLI/2026-04-16-3-apps-and-integrations-changes-in-v1-0-29|3
-  Apps and Integrations changes in v1.0.29]]'
+- '[[Changes/Ollama/2026-04-16-2-apps-and-integrations-changes-in-v0-21-0|2 Apps and
+  Integrations changes in v0.21.0]]'
+- '[[Changes/Replit/2026-04-17-integrations|Integrations]]'
 - '[[Changes/Claude Code/2026-04-20-2-apps-and-integrations-changes-in-v2-1-116|2
   Apps and Integrations changes in v2.1.116]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-04-20-rust-v0-122-0-github-311361536-9a010c0e|codex-cli-2026-04-20-rust-v0-122-0-github-311361536-9a010c0e]]'
@@ -209,7 +208,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.122.0
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-04-20 · Claude Code · [[Changes/Claude Code/2026-04-20-2-apps-and-integrations-changes-in-v2-1-116|2 Apps and Integrations changes in v2.1.116]]
-- Later: 2026-04-22 · Claude Code · [[Changes/Claude Code/2026-04-22-4-apps-and-integrations-changes-in-v2-1-117|4 Apps and Integrations changes in v2.1.117]]
+- Later: 2026-04-20 · ElevenLabs · [[Changes/ElevenLabs/2026-04-20-sdk-releases|SDK Releases]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

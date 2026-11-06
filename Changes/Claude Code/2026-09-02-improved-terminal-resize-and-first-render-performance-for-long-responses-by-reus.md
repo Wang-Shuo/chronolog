@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ac9425426657cb20e0d22aa4aff211ffca2c27eaa591fd503e5bc1b71a8bc6e5
+machine_hash: a7d4af9cab6cc9b25b7acf05200da0c77dadf0ae3a84c442eec31a0c2c70088a
 product: claude-code
 product_name: Claude Code
 record:
@@ -52,12 +52,12 @@ record:
     by reusing…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-08-29-a-message-typed-while-worktree-or-move-is-preparing-the-worktree-no-longer-break|A
-  message typed while /worktree or /move is preparing the worktree no longer breaks…]]'
-- '[[Changes/Claude Code/2026-09-01-3-developer-workflow-changes-in-v2-1-257|3 Developer
-  Workflow changes in v2.1.257]]'
-- '[[Changes/Codex CLI/2026-09-01-6-developer-workflow-changes-in-rust-v0-152-0|6
-  Developer Workflow changes in rust-v0.152.0]]'
+- '[[Changes/v0/2026-09-01-github-backed-projects-now-have-a-unified-branch-and-publish-flow-in-v0|GitHub-backed
+  projects now have a unified branch-and-Publish flow in v0]]'
+- '[[Changes/v0/2026-09-01-create-open-or-merge-a-pull-request|Create, open, or merge
+  a pull request]]'
+- '[[Changes/v0/2026-09-01-your-repository-remains-the-source-of-truth-required-checks-reviews-merge-restri|Your
+  repository remains the source of truth]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-02-v2-1-259-github-381579834-0f335a0f|claude-code-2026-09-02-v2-1-259-github-381579834-0f335a0f]]'
 source_type: github_releases
 theme: developer-workflow
@@ -91,7 +91,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-09-01 · Codex CLI · [[Changes/Codex CLI/2026-09-01-6-developer-workflow-changes-in-rust-v0-152-0|6 Developer Workflow changes in rust-v0.152.0]]
+- Earlier: 2026-09-01 · v0 · [[Changes/v0/2026-09-01-your-repository-remains-the-source-of-truth-required-checks-reviews-merge-restri|Your repository remains the source of truth]]
 - Later: 2026-09-02 · Cline · [[Changes/Cline/2026-09-02-global-rules-are-now-also-read-from-cline-rules-which-is-where-the-rules-tab-wri|Global rules are now also read from ~/Cline/Rules, which is where the Rules tab…]]
 <!-- chronolog:end -->
 

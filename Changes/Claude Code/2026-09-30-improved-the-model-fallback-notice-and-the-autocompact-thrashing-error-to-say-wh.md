@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 45fb1f286a229b898aac88fa57b02b2453db457c432c8f23d8734d4d48ca7e0e
+machine_hash: b3d85bb222691cbf58ad1078f1dc930a16ba64db50a1c4f850072a5ebcad62d8
 product: claude-code
 product_name: Claude Code
 record:
@@ -58,8 +58,8 @@ record:
     say…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-28-17-context-window-changes-in-rust-v0-158-0|17 Context
-  Window changes in rust-v0.158.0]]'
+- '[[Changes/Ollama/2026-09-28-send-context-and-one-or-more-questions|Send context
+  and one or more questions]]'
 - '[[Changes/Claude Code/2026-09-29-2-context-window-changes-in-v2-1-285|2 Context
   Window changes in v2.1.285]]'
 - '[[Changes/Codex CLI/2026-09-29-4-context-window-changes-in-rust-v0-159-0|4 Context

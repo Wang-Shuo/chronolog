@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 00ed29f219c596913e0504fc2e519b6e95a7726f38139362dcfaece5f6311aba
+machine_hash: 9526d9cb354e54c247caffc5530d8037c734a4d7745f7209e715c9d0de9dc184
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,12 +43,11 @@ record:
     first…'
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-06-04-5-agent-mode-changes-in-custom-stores-custom-tools|5
-  Agent Mode changes in Custom stores, custom tools…]]'
-- '[[Changes/Cursor/2026-06-05-ask-the-agent-to-make-one-match-the-other-remove-repeated-content-or-adjust-a-gr|Multi-select
-  elements]]'
-- '[[Changes/GitHub Copilot CLI/2026-06-05-2-agent-mode-changes-in-v1-0-60|2 Agent
-  Mode changes in v1.0.60]]'
+- '[[Changes/Replit/2026-06-05-agent|Agent]]'
+- '[[Changes/Replit/2026-06-05-improve-your-search-ranking-with-seo-agent|Improve
+  your search ranking with SEO Agent]]'
+- '[[Changes/Replit/2026-06-05-sell-physical-products-with-shopify|Sell physical products
+  with Shopify]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-06-v2-1-166-github-335118845-ef990727|claude-code-2026-06-06-v2-1-166-github-335118845-ef990727]]'
 source_type: github_releases
 theme: agent-mode
@@ -81,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-06-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-05-2-agent-mode-changes-in-v1-0-60|2 Agent Mode changes in v1.0.60]]
+- Earlier: 2026-06-05 · Replit · [[Changes/Replit/2026-06-05-sell-physical-products-with-shopify|Sell physical products with Shopify]]
 - Later: 2026-06-08 · Claude Code · [[Changes/Claude Code/2026-06-08-2-agent-mode-changes-in-v2-1-169|2 Agent Mode changes in v2.1.169]]
 <!-- chronolog:end -->
 

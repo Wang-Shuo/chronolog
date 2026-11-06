@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 309b0b19ccf59de90d91397df4fa7946895daab4b178f6f425e89548deb26770
+machine_hash: 002880070617124879ba7f95a09acf6cfd09bb251a250b27c54ef518a94e36a4
 product: cursor
 product_name: Cursor
 record:
@@ -112,7 +112,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2025-05-14 · Cline · [[Changes/Cline/2025-05-14-2-model-support-changes-in-v3-15-4|2 Model Support changes in v3.15.4]]
-- Later: 2025-05-15 · Windsurf · [[Changes/Windsurf/2025-05-15-swe-1|SWE-1]]
+- Later: 2025-05-15 · Dify · [[Changes/Dify/2025-05-15-5-model-support-changes-in-1-4-0|5 Model Support changes in 1.4.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

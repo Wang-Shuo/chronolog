@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 31b2a470c3d2783f50266aaf58a28764b389195fcceb6df16ec2f7aafb60a8f5
+machine_hash: efe5b8e9f0d4b53f08c69cdfe464c5858171d423e88e084a1455a5edac501224
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -45,8 +45,8 @@ record:
     metadata
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-08-31-site-tools-use-webmcp-and-require-a-supported-account-model-and-webpage-they-are|Site
-  tools use WebMCP and require a supported account, model, and webpage]]'
+- '[[Changes/Claude/2026-09-01-claude-fable-5-1-and-claude-mythos-5-1-launch|Claude
+  Fable 5.1 and Claude Mythos 5.1 launch]]'
 - '[[Changes/Claude Code/2026-09-01-6-model-support-changes-in-v2-1-257|6 Model Support
   changes in v2.1.257]]'
 - '[[Changes/Codex CLI/2026-09-01-6-model-support-changes-in-rust-v0-152-0|6 Model

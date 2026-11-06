@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c5d44718f86c2aeba154c3057da71779c864cb478effd7565223e9a7a05eb9f5
+machine_hash: 90b4901d93957dfa2eefbb0b78ced861dd1463d9c4d44fdad1f0520b47bccec6
 product: cursor
 product_name: Cursor
 record:
@@ -46,8 +46,8 @@ record:
   title: Unified CLI permissions with the editor, including Run Everything, Auto-Run…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-01-15-revert-linux-sandboxing-now-falls-back-to-landlock-only-restrictions-when-user-n|revert
-  Linux sandboxing now falls back to Landlock-only restrictions when user…]]'
+- '[[Changes/Gemini/2026-01-20-gemini-introduces-personal-intelligence|Gemini introduces
+  Personal Intelligence]]'
 - '[[Changes/Codex CLI/2026-01-21-3-safety-and-privacy-changes-in-rust-v0-88-0|3 Safety
   and Privacy changes in rust-v0.88.0]]'
 - '[[Changes/Codex CLI/2026-01-22-2-safety-and-privacy-changes-in-rust-v0-89-0|2 Safety

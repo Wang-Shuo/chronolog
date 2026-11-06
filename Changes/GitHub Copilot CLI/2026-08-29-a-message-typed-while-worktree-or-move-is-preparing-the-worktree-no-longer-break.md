@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 301a9a8db1a59acea3a6bf099ec9b4a3c842c358ad8d1ca226913dfc891054e3
+machine_hash: 3af43afcb8d9ea2903cc619af09ee87e22a10b1a398d98b62ed013abe9fb03f3
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,12 +43,12 @@ record:
     breaks…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-27-changed-anthropic-telemetry-export-failures-to-log-at-debug-level-as-anthropic-t|Changed
-  Anthropic telemetry export failures to log at debug level…]]'
 - '[[Changes/GitHub Copilot CLI/2026-08-27-5-developer-workflow-changes-in-v1-0-81|5
   Developer Workflow changes in v1.0.81]]'
 - '[[Changes/Claude Code/2026-08-28-3-developer-workflow-changes-in-v2-1-251|3 Developer
   Workflow changes in v2.1.251]]'
+- '[[Changes/v0/2026-08-28-2-developer-workflow-changes-in-gpt-5-6-sol-sign-in-inside-previews|2
+  Developer Workflow changes in GPT-5.6 Sol, sign-in inside previews…]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-08-29-v1-0-82-github-379131215-2ee28d74|github-copilot-cli-2026-08-29-v1-0-82-github-379131215-2ee28d74]]'
 source_type: github_releases
 theme: developer-workflow
@@ -79,8 +79,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-08-28 · Claude Code · [[Changes/Claude Code/2026-08-28-3-developer-workflow-changes-in-v2-1-251|3 Developer Workflow changes in v2.1.251]]
-- Later: 2026-09-01 · Claude Code · [[Changes/Claude Code/2026-09-01-3-developer-workflow-changes-in-v2-1-257|3 Developer Workflow changes in v2.1.257]]
+- Earlier: 2026-08-28 · v0 · [[Changes/v0/2026-08-28-2-developer-workflow-changes-in-gpt-5-6-sol-sign-in-inside-previews|2 Developer Workflow changes in GPT-5.6 Sol, sign-in inside previews…]]
+- Later: 2026-08-31 · Open WebUI · [[Changes/Open WebUI/2026-08-31-custom-interface-fonts-reach-more-of-the-app-the-font-chosen-in-interface-settin|🔤 Custom interface fonts reach more of the app. The font chosen in interface…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

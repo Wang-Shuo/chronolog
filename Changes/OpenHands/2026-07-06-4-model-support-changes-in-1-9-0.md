@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4c883190d4348824d25f4dac5b18850c7fcf7a742814cffbf89197a60e1abac6
+machine_hash: 82899140a699ee05ddc6a6af3a4861e21ceabd0487e87d41c0b97633e16f502c
 product: openhands
 product_name: OpenHands
 record:
@@ -50,12 +50,9 @@ record:
   title: 4 Model Support changes in 1.9.0
   type: change
 related_changes:
-- '[[Changes/Cline/2026-07-02-generalize-the-model-capability-warning-so-it-applies-more-broadly|Generalize
-  the model capability warning so it applies more broadly]]'
-- '[[Changes/Claude Code/2026-07-03-claude-sonnet-5-sessions-no-longer-use-the-mid-conversation-system-role-for-harn|Claude
-  Sonnet 5 sessions no longer use the mid-conversation system role for harness…]]'
-- '[[Changes/ChatGPT/2026-07-06-we-re-rolling-out-gpt-5-5-instant-mini-in-chatgpt-it-replaces-gpt-5-3-instant-mi|GPT-5.5
-  Instant Mini in ChatGPT]]'
+- '[[Changes/ElevenLabs/2026-07-06-elevencreative-studio|ElevenCreative Studio]]'
+- '[[Changes/ElevenLabs/2026-07-06-elevencreative-studio-d7b18f|ElevenCreative Studio]]'
+- '[[Changes/Ollama/2026-07-06-hardened-gguf-model-creation|Hardened GGUF model creation]]'
 source_release: '[[Releases/OpenHands/openhands-2026-07-06-1-9-0-github-349633843-8010776a|openhands-2026-07-06-1-9-0-github-349633843-8010776a]]'
 source_type: github_releases
 theme: model-support
@@ -103,7 +100,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/1.9.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-07-06 · ChatGPT · [[Changes/ChatGPT/2026-07-06-we-re-rolling-out-gpt-5-5-instant-mini-in-chatgpt-it-replaces-gpt-5-3-instant-mi|GPT-5.5 Instant Mini in ChatGPT]]
+- Earlier: 2026-07-06 · Ollama · [[Changes/Ollama/2026-07-06-hardened-gguf-model-creation|Hardened GGUF model creation]]
 - Later: 2026-07-07 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-07-6-model-support-changes-in-v1-0-69|6 Model Support changes in v1.0.69]]
 <!-- chronolog:end -->
 

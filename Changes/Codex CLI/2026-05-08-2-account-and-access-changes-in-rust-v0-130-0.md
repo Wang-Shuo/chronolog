@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 93cb55d78f2f5446045147c3173ebdba1c5f50f9381f5377cbefbe15fe7440bb
+machine_hash: 23ad9367a82f4c43cac22972f30fc8ea6dfd7c580be220e3f80d6ce593dcd77e
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -90,7 +90,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.130.0
 ## Nearby in Account and Access
 
 - Earlier: 2026-05-07 · Codex CLI · [[Changes/Codex CLI/2026-05-07-2-account-and-access-changes-in-rust-v0-129-0|2 Account and Access changes in rust-v0.129.0]]
-- Later: 2026-05-13 · Claude Code · [[Changes/Claude Code/2026-05-13-bedrock-awscredentialexport-now-always-runs-when-configured-instead-of-being-ski|Bedrock: awsCredentialExport now always runs when configured instead of being…]]
+- Later: 2026-05-08 · Replit · [[Changes/Replit/2026-05-08-private-publishing-for-everyone|Private publishing for everyone]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

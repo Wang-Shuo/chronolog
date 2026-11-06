@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 2d3cf3303d7e9b2cbe00ab084e1d57d6112f4e6a05bb2c53ff14665206cb0deb
+machine_hash: bc10b7fb689339abc18ac60360d9d8623610b6759a7b19e95d271d53c1b47373
 product: openhands
 product_name: OpenHands
 record:
@@ -43,10 +43,9 @@ record:
   title: Added CLI/VSCode integration
   type: change
 related_changes:
-- '[[Changes/Cline/2025-07-08-migrate-download-mcp-response-to-proto-by-celestial-vault-in-https-github-com-cl|migrate
-  download MCP response to proto]]'
 - '[[Changes/Gemini CLI/2025-07-11-6-apps-and-integrations-changes-in-v0-1-10|6 Apps
   and Integrations changes in v0.1.10]]'
+- '[[Changes/ElevenLabs/2025-07-14-sdks|SDKs]]'
 - '[[Changes/Cline/2025-07-15-add-markdown-parsing-to-mcp-responses-by-celestial-vault-in-https-github-com-cli|Add
   markdown parsing to MCP responses]]'
 source_release: '[[Releases/OpenHands/openhands-2025-07-16-0-49-0-github-232847111-e4746322|openhands-2025-07-16-0-49-0-github-232847111-e4746322]]'

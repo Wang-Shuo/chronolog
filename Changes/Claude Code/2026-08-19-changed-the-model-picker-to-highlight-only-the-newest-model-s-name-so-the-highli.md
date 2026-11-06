@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 253640fac970f20e43fc75def5146464f3319ad3fb459a07c2d228ba0f945d36
+machine_hash: 619b4146f070d8738712d8b96b0a862e388949a821434d236932d9a54799905c
 product: claude-code
 product_name: Claude Code
 record:
@@ -57,8 +57,8 @@ record:
   title: Changed the `/model` picker to highlight only the newest model's name…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-13-improved-fullscreen-streaming-long-sessions-stay-responsive-because-the-whole-co|Improved
-  fullscreen streaming]]'
+- '[[Changes/v0/2026-08-14-4-interface-experience-changes-in-a-redesigned-sidebar-a-richer|4
+  Interface Experience changes in A redesigned sidebar, a richer…]]'
 - '[[Changes/Claude Code/2026-08-17-3-interface-experience-changes-in-v2-1-234|3 Interface
   Experience changes in v2.1.234]]'
 - '[[Changes/Codex CLI/2026-08-18-13-interface-experience-changes-in-rust-v0-148-0|13

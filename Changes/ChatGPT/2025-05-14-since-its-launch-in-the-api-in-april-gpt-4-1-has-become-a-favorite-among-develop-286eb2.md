@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 5b2867cb91c1fa3667cf403f977bcebc42f8eacd96ca3071f1240f31801489b4
+machine_hash: 2840208a57e45b6426a44c7b691703e72460611d2992fcbd5cd99ad83c224aed
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -73,8 +73,8 @@ record:
   title: Releasing GPT-4.1 in ChatGPT for all paid users
   type: change
 related_changes:
-- '[[Changes/Cline/2025-05-10-7-model-support-changes-in-v3-15-0|7 Model Support changes
-  in v3.15.0]]'
+- "[[Changes/Open WebUI/2025-05-10-clear-alerts-for-private-task-models-when-interacting-with-private-task-models-t|\U0001F6A8
+  Clear Alerts for Private Task Models]]"
 - '[[Changes/Cline/2025-05-12-update-gemini-in-openrouter-cline-providers-to-use-implicit-caching|Update
   Gemini in OpenRouter/Cline providers to use implicit caching]]'
 - '[[Changes/OpenHands/2025-05-12-enabled-prompt-caching-for-claude-3-7-sonnet-model-through-openrouter-by-polly20|Enabled

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a68b8de9ac383935a1050240210dbf043a5e506335778ee47595920135bb2347
+machine_hash: 6b8958444db492680ff19a5a556398ddf8e902a1817e604e3e36126a583dfc6d
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,9 +42,10 @@ record:
   title: Promote shared helpers for suite tests (#6460) — @aibrahim
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-10-29-team-commands|Team Commands]]'
 - '[[Changes/Gemini CLI/2025-10-29-refactor-logging-centralize-all-console-messaging-to-a-shared-logger-part-1-by-a|refactor(logging):
   Centralize all console messaging to a shared logger (part 1)]]'
+- '[[Changes/Lovable/2025-11-05-request-access-to-private-projects|Request access
+  to private projects]]'
 - '[[Changes/Cline/2025-11-07-share-provider-information-by-barreirot-in-https-github-com-cline-cline-pull-733|Share
   provider information]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-11-19-rust-v0-59-0-github-263735550-757042e7|codex-cli-2025-11-19-rust-v0-59-0-github-263735550-757042e7]]'

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: cac1552e694a3dc0037911631fe7192e07bad091b2c29213e3bbd013d4673d34
+machine_hash: 37f449b059a68c11af4279c740edf5b61c3b7d63bfadb11dee36f6a5b8ae194c
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,12 +44,12 @@ record:
   title: 2 Search and Browsing changes in rust-v0.86.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-11-09-6367-sdk-add-network-access-and-web-search-options-to-typescript-sdk|♯6367
-  – SDK: add network_access and web_search options to TypeScript SDK]]'
-- '[[Changes/Codex CLI/2025-11-13-2-search-and-browsing-changes-in-rust-v0-58-0|2
-  Search and Browsing changes in rust-v0.58.0]]'
 - '[[Changes/Codex CLI/2026-01-07-4-search-and-browsing-changes-in-rust-v0-79-0|4
   Search and Browsing changes in rust-v0.79.0]]'
+- '[[Changes/v0/2026-01-08-improved-the-speed-and-token-use-of-the-web-search-tool|Improved
+  the speed and token use of the Web Search tool]]'
+- '[[Changes/Open WebUI/2026-01-09-4-search-and-browsing-changes-in-v0-7-0|4 Search
+  and Browsing changes in v0.7.0]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-01-16-rust-v0-86-0-github-277242575-5861dc84|codex-cli-2026-01-16-rust-v0-86-0-github-277242575-5861dc84]]'
 source_type: github_releases
 theme: search-browsing
@@ -84,7 +84,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.86.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Search and Browsing
 
-- Earlier: 2026-01-07 · Codex CLI · [[Changes/Codex CLI/2026-01-07-4-search-and-browsing-changes-in-rust-v0-79-0|4 Search and Browsing changes in rust-v0.79.0]]
+- Earlier: 2026-01-09 · Open WebUI · [[Changes/Open WebUI/2026-01-09-4-search-and-browsing-changes-in-v0-7-0|4 Search and Browsing changes in v0.7.0]]
 - Later: 2026-01-16 · Cursor · [[Changes/Cursor/2026-01-16-added-webfetch-websearch-tools-approval-options-for-granular-controls-over-web-s|Added WebFetch, WebSearch tools, & approval options for granular controls over web…]]
 <!-- chronolog:end -->
 

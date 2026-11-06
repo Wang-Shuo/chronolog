@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f5341f373004d05c484de6fe38758620fe8d82ac8a571aad93b6af7909a971ae
+machine_hash: 7d9529c7153e9f37afb8b4e3dc5f526fe8c467d32380cdd00ed82e382bdcab87
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -56,7 +56,7 @@ record:
   title: 5 Context Window changes in rust-v0.64.0
   type: change
 related_changes:
-- '[[Changes/Windsurf/2025-11-21-fast-context|Fast Context]]'
+- '[[Changes/Lovable/2025-11-26-chat-suggestions|Chat suggestions]]'
 - '[[Changes/Cline/2025-11-27-feat-context-add-context-window-error-detection-for-vercel-ai-gateway-by-shaper|feat(context):
   add context window error detection for vercel ai gateway]]'
 - '[[Changes/Cline/2025-12-02-2-context-window-changes-in-v3-39-0|2 Context Window
@@ -109,7 +109,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.64.0
 ## Nearby in Context Window
 
 - Earlier: 2025-12-02 · Cline · [[Changes/Cline/2025-12-02-2-context-window-changes-in-v3-39-0|2 Context Window changes in v3.39.0]]
-- Later: 2025-12-04 · Cline · [[Changes/Cline/2025-12-04-2-context-window-changes-in-v3-40-0|2 Context Window changes in v3.40.0]]
+- Later: 2025-12-02 · Open WebUI · [[Changes/Open WebUI/2025-12-02-tool-call-response-token-duplication-was-fixed-by-removing-redundant-message-his|🔄 Tool call response token duplication was fixed by removing redundant message…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

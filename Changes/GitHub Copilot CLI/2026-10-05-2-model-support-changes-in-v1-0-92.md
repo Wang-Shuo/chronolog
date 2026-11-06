@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6ff1a676718bc1b8744b032b3d7bf78e17dc1a42692dba6e535fcd25fb41f919
+machine_hash: bacfc2c90bbf8b1f515e52df40a7e3519f93780c2f89c9bbecbe1f006faaff1b
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,12 +43,10 @@ record:
   title: 2 Model Support changes in v1.0.92
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-01-5-model-support-changes-in-rust-v0-160-0|5 Model
-  Support changes in rust-v0.160.0]]'
-- '[[Changes/Claude Code/2026-10-02-changed-the-client-side-auto-mode-classifier-to-ignore-an-anthropic-default-sonn|Changed
-  the client-side auto mode classifier to ignore…]]'
 - '[[Changes/Claude Code/2026-10-05-2-model-support-changes-in-v2-1-290|2 Model Support
   changes in v2.1.290]]'
+- '[[Changes/ElevenLabs/2026-10-05-python-sdk|Python SDK]]'
+- '[[Changes/ElevenLabs/2026-10-05-javascript-sdk|JavaScript SDK]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-10-05-v1-0-92-github-404054639-a6ba3455|github-copilot-cli-2026-10-05-v1-0-92-github-404054639-a6ba3455]]'
 source_type: github_releases
 theme: model-support
@@ -94,8 +92,8 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.92
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-10-05 · Claude Code · [[Changes/Claude Code/2026-10-05-2-model-support-changes-in-v2-1-290|2 Model Support changes in v2.1.290]]
-- Later: 2026-10-06 · Claude Code · [[Changes/Claude Code/2026-10-06-added-prompt-caching-to-model-complete-for-mods-prompt-and-system-take-blocks-of|Added prompt caching to $.model.complete for mods]]
+- Earlier: 2026-10-05 · ElevenLabs · [[Changes/ElevenLabs/2026-10-05-javascript-sdk|JavaScript SDK]]
+- Later: 2026-10-05 · Lovable · [[Changes/Lovable/2026-10-05-lyria-3-music-models-for-your-app-s-ai-features|Lyria 3 music models for your app's AI features]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

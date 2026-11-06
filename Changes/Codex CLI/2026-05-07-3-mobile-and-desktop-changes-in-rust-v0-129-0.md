@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 40ab8e62eec141b5416e1cfc80e4d5caa32e54c15b734c339158a4ab7771b9a1
+machine_hash: 5d5c43f9b36e8389e492fc1c221616b984d4a1dcf2d861982c4ae33f8d9a27a7
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -99,7 +99,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.129.0
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-05-06 · Windsurf · [[Changes/Windsurf/2026-05-06-windows-updates|Windows updates]]
-- Later: 2026-05-11 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-11-fall-back-to-windows-powershell-powershell-exe-when-powershell-7-pwsh-is-not-ava|Fall back to Windows PowerShell (powershell.exe) when PowerShell 7+ (pwsh) is not…]]
+- Later: 2026-05-07 · Ollama · [[Changes/Ollama/2026-05-07-use-ollama-launch-claude-desktop-restore-to-restore-claude-desktop-to-its-normal|Use ollama launch claude-desktop --restore to restore Claude Desktop to its normal state]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

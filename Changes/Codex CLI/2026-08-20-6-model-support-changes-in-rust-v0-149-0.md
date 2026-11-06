@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 829a820dd0852d0953be856e64727ed2c2ab3682e644c79476ea55791a2b06e0
+machine_hash: 09c2c3ae41dcc9e74c58bf60b604af305a7e54925133de11ac1178bf1583bc5b
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -50,12 +50,12 @@ record:
   title: 6 Model Support changes in rust-v0.149.0
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-08-17-feat-add-llm-pre-flight-validation-to-prevent-saving-misconfigured-profiles-by-n|feat:
-  add LLM pre-flight validation to prevent saving misconfigured profiles]]'
-- '[[Changes/Codex CLI/2026-08-18-18-model-support-changes-in-rust-v0-148-0|18 Model
-  Support changes in rust-v0.148.0]]'
+- '[[Changes/Lovable/2026-08-18-gemini-3-7-flash-is-now-the-default-model-for-your-app-s-ai-features|Gemini
+  3.7 Flash is now the default model for your app''s AI features]]'
 - '[[Changes/Claude Code/2026-08-19-added-anthropic-default-model-environment-variable-sets-the-model-new-sessions-s|Added
   ANTHROPIC_DEFAULT_MODEL environment variable]]'
+- '[[Changes/Ollama/2026-08-19-caches-resolved-model-metadata-between-requests-cutting-time-to-first-token-by-r|Caches
+  resolved model metadata between requests, cutting time-to-first-token…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-08-20-rust-v0-149-0-github-374028976-829da944|codex-cli-2026-08-20-rust-v0-149-0-github-374028976-829da944]]'
 source_type: github_releases
 theme: model-support
@@ -112,8 +112,8 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.149.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-08-19 · Claude Code · [[Changes/Claude Code/2026-08-19-added-anthropic-default-model-environment-variable-sets-the-model-new-sessions-s|Added ANTHROPIC_DEFAULT_MODEL environment variable]]
-- Later: 2026-08-21 · Cline · [[Changes/Cline/2026-08-21-restore-tool-calling-for-custom-openai-compatible-models-whose-stored-capability|Restore tool calling for custom OpenAI-Compatible models whose stored capability…]]
+- Earlier: 2026-08-19 · Ollama · [[Changes/Ollama/2026-08-19-caches-resolved-model-metadata-between-requests-cutting-time-to-first-token-by-r|Caches resolved model metadata between requests, cutting time-to-first-token…]]
+- Later: 2026-08-20 · Lovable · [[Changes/Lovable/2026-08-20-gemini-embedding-2-is-the-default-for-search-and-recommendations|Gemini Embedding 2 is the default for search and recommendations]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

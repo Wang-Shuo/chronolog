@@ -4,20 +4,20 @@ date: '2026-07-28'
 description: 'OpenHands · 2026-07-28 · Files and Data: Migrated from https://github.com/OpenHands/agent-canvas/releases/tag/v1.6.1
   to seed Agent Canvas release history in…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code
-    interpreter is now rolling out in beta on web]]'
+  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
+    Files and Data changes in 0.2.2]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1118
+  lag_days: 1160
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 525807a0cfbe09e700722fd5b6597188ce6313ea0fb3119f8b51b51bfc5a2c49
+machine_hash: bff62415eba9b78d572644bf7776d9a7feea5c6796cb9a9bbf21edd43737c682
 product: openhands
 product_name: OpenHands
 record:
@@ -55,12 +55,12 @@ record:
     to seed…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-16-add-canvas-support-in-the-cli-for-extension-driven-interactions|Add
-  canvas support in the CLI for extension-driven interactions]]'
-- '[[Changes/Codex CLI/2026-07-21-33167-document-the-windows-exec-yield-time-range-copyberry|♯33167
-  Document the Windows exec yield time range @copyberry]]'
-- '[[Changes/ChatGPT/2026-07-23-we-re-starting-to-roll-out-a-new-health-experience-in-chatgpt-logged-in-free-go-b62f3b|We’re
-  starting to roll out a new health experience in ChatGPT]]'
+- '[[Changes/Open WebUI/2026-07-27-9-files-and-data-changes-in-v0-11-0|9 Files and
+  Data changes in v0.11.0]]'
+- '[[Changes/Dify/2026-07-28-3-files-and-data-changes-in-1-16-1|3 Files and Data changes
+  in 1.16.1]]'
+- '[[Changes/Dify/2026-07-28-you-can-now-click-a-node-id-in-workflow-run-logs-or-error-messages-to-locate-and|Click
+  a node_id in workflow run logs or error messages to locate and highlight…]]'
 source_release: '[[Releases/OpenHands/openhands-2026-07-28-v1-6-1-github-361253741-d1e640fd|openhands-2026-07-28-v1-6-1-github-361253741-d1e640fd]]'
 source_type: github_releases
 theme: file-data
@@ -90,14 +90,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2026-07-23 · ChatGPT · [[Changes/ChatGPT/2026-07-23-we-re-starting-to-roll-out-a-new-health-experience-in-chatgpt-logged-in-free-go-b62f3b|We’re starting to roll out a new health experience in ChatGPT]]
+- Earlier: 2026-07-28 · Dify · [[Changes/Dify/2026-07-28-you-can-now-click-a-node-id-in-workflow-run-logs-or-error-messages-to-locate-and|Click a node_id in workflow run logs or error messages to locate and highlight…]]
 - Later: 2026-07-29 · Codex CLI · [[Changes/Codex CLI/2026-07-29-2-files-and-data-changes-in-rust-v0-146-0|2 Files and Data changes in rust-v0.146.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-06 · ChatGPT · [[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code interpreter is now rolling out in beta on web]]
+- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

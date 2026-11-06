@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 98a305a712554e4b702dc9ba67fcb75e91c0eae67d59f650fe0b3a3bd1b93d93
+machine_hash: 8f859a498d88303f5967037d7f40e707f2a039f35321ebb4782ff25dfe33dc74
 product: cursor
 product_name: Cursor
 record:
@@ -44,10 +44,10 @@ record:
   title: Composer 2.5 includes double usage for the first week
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-14-2-model-support-changes-in-v1-0-48|2 Model
-  Support changes in v1.0.48]]'
 - '[[Changes/Claude Code/2026-05-15-2-model-support-changes-in-v2-1-143|2 Model Support
   changes in v2.1.143]]'
+- '[[Changes/v0/2026-05-15-claude-opus-4-7-fast-is-available-as-a-new-model-option-under-more-models-with-2|Claude
+  Opus 4.7 Fast is available as a new model option under…]]'
 - '[[Changes/Codex CLI/2026-05-18-4-model-support-changes-in-rust-v0-131-0|4 Model
   Support changes in rust-v0.131.0]]'
 source_release: '[[Releases/Cursor/cursor-2026-05-18-composer-2-5-https-cursor-com-changelog-composer-2-5-1dffe5a1|cursor-2026-05-18-composer-2-5-https-cursor-com-changelog-composer-2-5-1dffe5a1]]'
@@ -82,7 +82,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-05-18 · Codex CLI · [[Changes/Codex CLI/2026-05-18-4-model-support-changes-in-rust-v0-131-0|4 Model Support changes in rust-v0.131.0]]
-- Later: 2026-05-19 · Claude Code · [[Changes/Claude Code/2026-05-19-resumed-sessions-now-keep-the-model-they-were-using-instead-of-picking-up-anothe|Resumed sessions now keep the model they were using instead of picking up another…]]
+- Later: 2026-05-18 · Lovable · [[Changes/Lovable/2026-05-18-lovable-ai-models-for-app-features|Lovable AI models for app features]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

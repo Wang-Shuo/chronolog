@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 346ed3061762c23dc05d0cf13974a6b7cdc6155bbbee7b32de1476316eb10e84
+machine_hash: e72cd466eafad20a3ee311e39e0819705c83fefb80da8df00e8b5416d93522b2
 product: windsurf
 product_name: Windsurf
 record:
@@ -87,7 +87,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2025-12-22 · Gemini CLI · [[Changes/Gemini CLI/2025-12-22-5-model-support-changes-in-v0-22-0|5 Model Support changes in v0.22.0]]
-- Later: 2025-12-27 · Windsurf · [[Changes/Windsurf/2025-12-27-gemini-3-flash|Gemini 3 Flash]]
+- Later: 2025-12-25 · Dify · [[Changes/Dify/2025-12-25-feat-add-type-field-to-pipelinerecommendedplugin-model-add-query-param-type-to-r|feat: Add "type" field to PipelineRecommendedPlugin model]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

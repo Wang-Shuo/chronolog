@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: policy
-machine_hash: 33762f892be88756a2aad7b1eadff45aa9ee59a8aabc71982901e98b21c1fbf2
+machine_hash: 1a26d94a382a3da4fd7b841904cec4bfa08e2f7b679fa948db19eb855c8c662f
 product: claude-code
 product_name: Claude Code
 record:
@@ -50,12 +50,12 @@ record:
     would…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-14-changed-local-session-transcripts-to-also-record-each-api-request-s-system-promp|Changed
-  local session transcripts to also record each API request''s system prompt…]]'
-- '[[Changes/Codex CLI/2026-10-15-4-collaboration-changes-in-rust-v0-163-0|4 Collaboration
-  changes in rust-v0.163.0]]'
 - '[[Changes/ChatGPT/2026-10-16-chatgpt-slides-lets-you-create-presentations-and-keep-working-on-them-with-your|ChatGPT
   Slides lets you create presentations and keep working on them with your team…]]'
+- '[[Changes/Open WebUI/2026-10-16-2-collaboration-changes-in-v0-12-3|2 Collaboration
+  changes in v0.12.3]]'
+- '[[Changes/v0/2026-10-16-team-avatar-changes-show-immediately-in-the-scope-switcher-instead-of-a-cached-i|Team
+  avatar changes show immediately in the scope switcher instead of a cached image]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-19-v2-1-304-github-417677344-46c4d994|claude-code-2026-10-19-v2-1-304-github-417677344-46c4d994]]'
 source_type: github_releases
 theme: collaboration
@@ -94,7 +94,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-10-16 · ChatGPT · [[Changes/ChatGPT/2026-10-16-chatgpt-slides-lets-you-create-presentations-and-keep-working-on-them-with-your|ChatGPT Slides lets you create presentations and keep working on them with your team…]]
+- Earlier: 2026-10-16 · v0 · [[Changes/v0/2026-10-16-team-avatar-changes-show-immediately-in-the-scope-switcher-instead-of-a-cached-i|Team avatar changes show immediately in the scope switcher instead of a cached image]]
 - Later: 2026-10-19 · OpenHands · [[Changes/OpenHands/2026-10-19-feat-verify-openhands-adopt-the-shared-known-bug-contract-by-enyst-in-https-gith|feat(verify-openhands): adopt the shared known-bug contract]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 62e9f91d9290e50cef71c3b6e07b8aa96ffa83031d99f8e75ae6f4b2442f43ea
+machine_hash: d2fc4a5fb1653c194b49c607604dc385ef6152ca3657c8484ed7a61d02581f62
 product: cursor
 product_name: Cursor
 record:
@@ -43,10 +43,10 @@ record:
   title: 'Fast (default): $3.00/M input, $15.00/M output tokens'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-13-copilot-max-subscribers-see-the-correct-models-available-to-their-subscription-t|Copilot
-  Max subscribers see the correct models available to their subscription tier]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-14-model-picker-displays-actual-token-prices-instead-of-dot-indicators-for-token-ba|Model
   picker displays actual token prices instead of dot indicators for token-based…]]'
+- '[[Changes/Ollama/2026-05-14-for-local-use-without-an-ollama-cloud-subscription|For
+  local use without an Ollama Cloud subscription]]'
 - '[[Changes/Claude Code/2026-05-15-added-projected-context-cost-per-turn-and-per-invocation-token-estimates-to-the|Added
   projected context cost (per-turn and per-invocation token estimates)…]]'
 source_release: '[[Releases/Cursor/cursor-2026-05-18-composer-2-5-https-cursor-com-changelog-composer-2-5-1dffe5a1|cursor-2026-05-18-composer-2-5-https-cursor-com-changelog-composer-2-5-1dffe5a1]]'

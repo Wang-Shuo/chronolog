@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 90a321a26cecafb557c760e011f352b0d175b1f72dc22ac85969c5bbff575c13
+machine_hash: 12b9ea0c008a0b5a73ba22f7dd3fc6f80fc9977cc78d7e0386fbf9afeda6b96b
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,10 +51,9 @@ record:
   title: 3 Safety and Privacy changes in v2.1.293
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-06-6-safety-and-privacy-changes-in-v2-1-292|6 Safety
-  and Privacy changes in v2.1.292]]'
 - '[[Changes/Claude Code/2026-10-06-fixed-a-regression-in-2-1-290-where-cloud-sessions-could-drop-answers-to-permiss|Fixed
   a regression in 2.1.290 where cloud sessions could drop answers to permission…]]'
+- '[[Changes/Lovable/2026-10-06-connect-your-app-to-klaviyo|Connect your app to Klaviyo]]'
 - '[[Changes/OpenHands/2026-10-06-fix-consume-consent-aware-website-posthog-handoff-by-malhotra5-in-https-github-c|fix:
   consume consent-aware website PostHog handoff]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-07-v2-1-293-github-405988533-66d1bb8d|claude-code-2026-10-07-v2-1-293-github-405988533-66d1bb8d]]'

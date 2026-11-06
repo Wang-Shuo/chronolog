@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 78dc2ad2a44f57fa38ed00f4a295064f010408873b2a51e4b7769f1cb9d587ab
+machine_hash: 32f6963e9fa0ae5b3253ea09e485c192147323eb4313eb3be6e5e22390ab681f
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,10 +44,10 @@ record:
   title: 3 Model Support changes in rust-v0.146.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-24-add-support-for-claude-opus-5|Add support
-  for Claude Opus 5]]'
 - '[[Changes/Cline/2026-07-28-add-support-for-free-cline-models-shown-as-free-in-the-model-picker-with-a-dedic|Add
   support for free Cline models, shown as "(free)" in the model picker…]]'
+- '[[Changes/Dify/2026-07-28-6-model-support-changes-in-1-16-1|6 Model Support changes
+  in 1.16.1]]'
 - '[[Changes/Gemini CLI/2026-07-28-2-model-support-changes-in-v0-53-0|2 Model Support
   changes in v0.53.0]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-07-29-rust-v0-146-0-github-361463950-6d491983|codex-cli-2026-07-29-rust-v0-146-0-github-361463950-6d491983]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 4e737a32c28c05cc4aa108925d5874344d421c8da676bf4b66327961b06c6613
+machine_hash: 282d63e9484f34abdc8bb483baf534a21a7ba1136ff39ca8dae355f11024aa86
 product: openhands
 product_name: OpenHands
 record:
@@ -44,12 +44,12 @@ record:
   title: Allow selecting the Claude 3.7 model from via the Anthropic provider
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-02-04-2-model-support-changes-in-0-23-0|2 Model Support
-  changes in 0.23.0]]'
-- '[[Changes/Aider/2025-02-06-4-model-support-changes-in-v0-74-0|4 Model Support changes
-  in v0.74.0]]'
-- '[[Changes/OpenHands/2025-02-19-better-error-when-llm-settings-do-not-exist-by-amanape-in-https-github-com-all-h|Better
-  error when LLM settings do not exist]]'
+- '[[Changes/Ollama/2025-02-27-2-model-support-changes-in-v0-5-13|2 Model Support
+  changes in v0.5.13]]'
+- "[[Changes/Open WebUI/2025-02-27-reliable-model-imports-from-the-community-platform-resolved-import-failures-allo|\U0001F504
+  Reliable Model Imports from the Community Platform]]"
+- "[[Changes/Open WebUI/2025-02-27-models-now-display-correctly-with-enable-forward-user-info-headers-addressed-a-b|\U0001F6E0️
+  Models Now Display Correctly with ENABLE_FORWARD_USER_INFO_HEADERS]]"
 source_release: '[[Releases/OpenHands/openhands-2025-02-27-0-27-0-github-202870571-ea439a60|openhands-2025-02-27-0-27-0-github-202870571-ea439a60]]'
 source_type: github_releases
 theme: model-support
@@ -78,8 +78,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-02-19 · OpenHands · [[Changes/OpenHands/2025-02-19-better-error-when-llm-settings-do-not-exist-by-amanape-in-https-github-com-all-h|Better error when LLM settings do not exist]]
-- Later: 2025-03-01 · Cline · [[Changes/Cline/2025-03-01-add-enable-extended-thinking-option-for-claude-3-7-sonnet-with-ability-to-set-di|Add 'Enable extended thinking' option for Claude 3.7 Sonnet, with ability to set…]]
+- Earlier: 2025-02-27 · Open WebUI · [[Changes/Open WebUI/2025-02-27-models-now-display-correctly-with-enable-forward-user-info-headers-addressed-a-b|🛠️ Models Now Display Correctly with ENABLE_FORWARD_USER_INFO_HEADERS]]
+- Later: 2025-02-28 · Dify · [[Changes/Dify/2025-02-28-4-model-support-changes-in-1-0-0|4 Model Support changes in 1.0.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

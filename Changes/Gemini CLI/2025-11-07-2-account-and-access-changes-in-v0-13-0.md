@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: da1a3b22ee989d40b55c145a4cad9b46ce0026b15c09679151335aa5114baae1
+machine_hash: 24f1b3076d52d9d824e757bce0c0523f871015e09f33a77326a7f0549a17fe2f
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -43,10 +43,10 @@ record:
   title: 2 Account and Access changes in v0.13.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-11-04-6159-fix-typo-in-error-message-for-oauth-login-6159|♯6159
-  Fix typo in error message for OAuth login (♯6159)]]'
-- '[[Changes/Gemini CLI/2025-11-04-disable-model-routing-for-oauth-users-by-mrcabbage972-in-https-github-com-google|Disable
-  model routing for oauth users]]'
+- "[[Changes/Open WebUI/2025-11-06-oauth-group-parsing-now-supports-configurable-separators-via-the-oauth-groups-se|\U0001F510
+  OAuth group parsing now supports configurable separators…]]"
+- '[[Changes/Open WebUI/2025-11-06-5-account-and-access-changes-in-v0-6-35|5 Account
+  and Access changes in v0.6.35]]'
 - '[[Changes/Codex CLI/2025-11-07-3-account-and-access-changes-in-rust-v0-56-0|3 Account
   and Access changes in rust-v0.56.0]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-11-07-v0-13-0-github-260462305-15cfa0b7|gemini-cli-2025-11-07-v0-13-0-github-260462305-15cfa0b7]]'

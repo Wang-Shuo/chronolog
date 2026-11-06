@@ -4,20 +4,20 @@ date: '2025-07-29'
 description: 'Cursor · 2025-07-29 · Enterprise and Administration: Allow team admins
   to configure an extension allowlist'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin
-    improvements: Team admins can now mark themselves as unpaid users and can see…]]'
+  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
+    for Google Workspace accounts]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 496
+  lag_days: 816
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: fac1c231ee7ae7ef9976f9828a6de3038a9763af876776aa4e8d215ca6189dc2
+machine_hash: 6aac928dd0091cb7a3cf7d181f70cf845b39188dd05e3ecf79f0915a3c0d66ca
 product: cursor
 product_name: Cursor
 record:
@@ -41,12 +41,12 @@ record:
   title: Allow team admins to configure an extension allowlist
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-06-04-enterprise-users-can-only-access-stable-release-no-pre-release|Enterprise
-  users can only access stable release (no pre-release)]]'
-- '[[Changes/ChatGPT/2025-06-12-enterprise-and-edu-rollout-coming-soon|Enterprise
-  and Edu rollout coming soon]]'
 - '[[Changes/Windsurf/2025-07-17-important-for-enterprise-customers-who-use-windsurf-across-lots-of-repos-now-you|Important
   for enterprise customers who use Windsurf across lots of repos]]'
+- "[[Changes/Open WebUI/2025-07-19-users-not-loading-in-groups-resolved-an-issue-where-user-list-was-not-displaying|\U0001F691
+  Users Not Loading in Groups]]"
+- "[[Changes/Open WebUI/2025-07-19-traceability-with-log-trace-and-span-ids-each-log-entry-now-carries-detailed-tra|\U0001F3F7️
+  Traceability with Log Trace and Span IDs]]"
 source_release: '[[Releases/Cursor/cursor-2025-07-29-1-3-https-cursor-com-changelog-1-3-d153efc3|cursor-2025-07-29-1-3-https-cursor-com-changelog-1-3-d153efc3]]'
 source_type: cursor_changelog
 theme: enterprise-admin
@@ -84,14 +84,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2025-07-17 · Windsurf · [[Changes/Windsurf/2025-07-17-important-for-enterprise-customers-who-use-windsurf-across-lots-of-repos-now-you|Important for enterprise customers who use Windsurf across lots of repos]]
-- Later: 2025-09-03 · ChatGPT · [[Changes/ChatGPT/2025-09-03-projects-bring-your-chats-and-files-into-one-place-helping-you-stay-focused-and-96a40d|Projects Now Available on ChatGPT Free Tier]]
+- Earlier: 2025-07-19 · Open WebUI · [[Changes/Open WebUI/2025-07-19-traceability-with-log-trace-and-span-ids-each-log-entry-now-carries-detailed-tra|🏷️ Traceability with Log Trace and Span IDs]]
+- Later: 2025-08-08 · Replit · [[Changes/Replit/2025-08-08-enterprise|Enterprise]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-03-20 · Cursor · [[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin improvements: Team admins can now mark themselves as unpaid users and can see…]]
+- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

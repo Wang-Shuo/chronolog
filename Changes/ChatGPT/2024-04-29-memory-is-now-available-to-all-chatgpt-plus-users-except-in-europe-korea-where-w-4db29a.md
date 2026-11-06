@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: expansion
-machine_hash: ea96364a1b1f4ae0169cc255a7c3cb0a91a8877d4e8befc047b70c47fc888cf1
+machine_hash: b9d24da824052ca539ef4163d33ebba524f69c8d1ec207f9a8f7066140c42f4f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -49,12 +49,12 @@ record:
   title: Memory is now available to Plus users
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2023-08-09-custom-instructions-are-now-available-to-chatgpt-users-on-the-free-plan-except-f-963d1e|Custom
-  instructions are now available to free users]]'
-- '[[Changes/ChatGPT/2023-08-21-custom-instructions-are-now-available-to-users-in-the-european-union-united-king-cfc1d5|Custom
-  instructions are now available to users in the EU & UK]]'
 - '[[Changes/ChatGPT/2024-02-13-we-re-testing-memory-with-chatgpt-remembering-things-you-discuss-across-all-chat-9872c8|Memory
   and new controls for ChatGPT]]'
+- '[[Changes/Dify/2024-04-08-compared-to-the-regular-workflow-app-type-chatflow-adds-chat-specific-features-s|Compared
+  to the regular Workflow app type, Chatflow adds chat-specific features such…]]'
+- '[[Changes/Dify/2024-04-25-you-can-now-enable-memory-in-the-llm-node-within-your-chatflow-and-customize-the|Enable
+  memory in the LLM node within your chatflow, and customize the query prompt…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2024-04-29-memory-is-now-available-to-plus-users-4ba2f306|chatgpt-2024-04-29-memory-is-now-available-to-plus-users-4ba2f306]]'
 source_type: chatgpt_changelog
 theme: memory
@@ -81,8 +81,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2024-02-13 · ChatGPT · [[Changes/ChatGPT/2024-02-13-we-re-testing-memory-with-chatgpt-remembering-things-you-discuss-across-all-chat-9872c8|Memory and new controls for ChatGPT]]
-- Later: 2024-07-05 · OpenHands · [[Changes/OpenHands/2024-07-05-ci-for-colima-modify-cpu-count-and-memory-by-smartmanoj-in-https-github-com-open|CI: For colima, modify CPU count and memory]]
+- Earlier: 2024-04-25 · Dify · [[Changes/Dify/2024-04-25-you-can-now-enable-memory-in-the-llm-node-within-your-chatflow-and-customize-the|Enable memory in the LLM node within your chatflow, and customize the query prompt…]]
+- Later: 2024-05-19 · Open WebUI · [[Changes/Open WebUI/2024-05-19-experimental-memory-feature-manually-input-personal-information-you-want-llms-to|🧠 Experimental Memory Feature]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

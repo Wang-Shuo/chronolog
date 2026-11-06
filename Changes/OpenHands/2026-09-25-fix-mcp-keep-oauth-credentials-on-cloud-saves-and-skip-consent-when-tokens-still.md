@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f516cc50c220bd47f5b1892531acfc66f5aef72f2ac1c1b5b881c6c7a744ef20
+machine_hash: c5ecb021269c0d65f4e395d37a4f479f37ff2019637712e0fc23e73de8728afc
 product: openhands
 product_name: OpenHands
 record:
@@ -57,12 +57,12 @@ record:
     still work'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-09-25-we-re-introducing-security-history-a-new-way-to-review-recent-security-activity-6f32cc|Security
-  history in ChatGPT]]'
 - '[[Changes/Claude Code/2026-09-25-3-safety-and-privacy-changes-in-v2-1-283|3 Safety
   and Privacy changes in v2.1.283]]'
 - '[[Changes/Codex CLI/2026-09-25-2-safety-and-privacy-changes-in-rust-v0-157-0|2
   Safety and Privacy changes in rust-v0.157.0]]'
+- '[[Changes/Lovable/2026-09-25-account-settings-have-moved-to-their-own-dialog|Account
+  settings have moved to their own dialog]]'
 source_release: '[[Releases/OpenHands/openhands-2026-09-25-v1-24-0-github-396708686-384650c4|openhands-2026-09-25-v1-24-0-github-396708686-384650c4]]'
 source_type: github_releases
 theme: safety-privacy
@@ -97,8 +97,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-09-25 · Codex CLI · [[Changes/Codex CLI/2026-09-25-2-safety-and-privacy-changes-in-rust-v0-157-0|2 Safety and Privacy changes in rust-v0.157.0]]
-- Later: 2026-09-28 · Claude Code · [[Changes/Claude Code/2026-09-28-4-safety-and-privacy-changes-in-v2-1-284|4 Safety and Privacy changes in v2.1.284]]
+- Earlier: 2026-09-25 · Lovable · [[Changes/Lovable/2026-09-25-account-settings-have-moved-to-their-own-dialog|Account settings have moved to their own dialog]]
+- Later: 2026-09-25 · Replit · [[Changes/Replit/2026-09-25-control-access-to-design-systems-and-slide-templates|Control access to design systems and slide templates]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

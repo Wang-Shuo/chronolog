@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6340981ecbb29551c5cc86fb47f95219d7dce28a4b55fb7459ced2d5f9fd7a10
+machine_hash: a54b39050188eed1872b5c8f676bba1c08434071f137dfdc25804ce8988a1efb
 product: aider
 product_name: Aider
 record:
@@ -46,12 +46,12 @@ record:
   title: 4 Model Support changes in v0.54.0
   type: change
 related_changes:
-- '[[Changes/Aider/2024-08-23-default-openai-model-is-now-gpt-4o-2024-08-06|Default
-  OpenAI model is now gpt-4o-2024-08-06]]'
-- '[[Changes/OpenHands/2024-08-23-enhance-the-llm-class-with-async-support-by-tobitege-in-https-github-com-all-han|Enhance
-  the LLM class with async support]]'
+- '[[Changes/Dify/2024-08-26-11-model-support-changes-in-0-7-2|11 Model Support changes
+  in 0.7.2]]'
 - '[[Changes/Aider/2024-08-27-4-model-support-changes-in-v0-53-0|4 Model Support changes
   in v0.53.0]]'
+- "[[Changes/Open WebUI/2024-08-27-show-knowledge-search-status-enhanced-model-usage-transparency-by-displaying-sta|\U0001F604
+  Show Knowledge Search Status]]"
 source_release: '[[Releases/Aider/aider-2024-08-28-v0-54-0-github-172373996-a6760e8b|aider-2024-08-28-v0-54-0-github-172373996-a6760e8b]]'
 source_type: github_releases
 theme: model-support
@@ -90,7 +90,7 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.54.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2024-08-27 · Aider · [[Changes/Aider/2024-08-27-4-model-support-changes-in-v0-53-0|4 Model Support changes in v0.53.0]]
+- Earlier: 2024-08-27 · Open WebUI · [[Changes/Open WebUI/2024-08-27-show-knowledge-search-status-enhanced-model-usage-transparency-by-displaying-sta|😄 Show Knowledge Search Status]]
 - Later: 2024-08-29 · OpenHands · [[Changes/OpenHands/2024-08-29-2-model-support-changes-in-0-9-1|2 Model Support changes in 0.9.1]]
 <!-- chronolog:end -->
 

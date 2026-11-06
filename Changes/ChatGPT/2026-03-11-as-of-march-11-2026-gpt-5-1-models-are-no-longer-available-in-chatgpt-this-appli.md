@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: policy
-machine_hash: 04b21eff8f30312f165ab42998682da9b0665d3cf609957ca746e8e33b73a24a
+machine_hash: 2496b10b964f77f592d3d3fd8baacba3e7f79401aeef9e25d383f6dfd8f6d48f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -51,12 +51,12 @@ record:
   title: Retiring GPT-5.1 models
   type: change
 related_changes:
-- '[[Changes/Cline/2026-03-06-added-gpt-5-4-models-for-chatgpt-subscription-users|Added
-  GPT-5.4 models for ChatGPT subscription users]]'
-- '[[Changes/Codex CLI/2026-03-08-13617-update-models-json-aibrahim-oai|♯13617 Update
-  models.json @aibrahim-oai]]'
+- '[[Changes/Open WebUI/2026-03-09-3-model-support-changes-in-v0-8-10|3 Model Support
+  changes in v0.8.10]]'
 - '[[Changes/Codex CLI/2026-03-10-14123-pass-on-save-info-to-model-ui-tweaks-won-openai|♯14123
   pass on save info to model + ui tweaks @won-openai]]'
+- '[[Changes/v0/2026-03-10-updated-auto-model-icon-to-new-radial-design|Updated auto
+  model icon to new radial design]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-03-11-retiring-gpt-5-1-models-279eddb4|chatgpt-2026-03-11-retiring-gpt-5-1-models-279eddb4]]'
 source_type: chatgpt_changelog
 theme: model-support
@@ -83,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-03-10 · Codex CLI · [[Changes/Codex CLI/2026-03-10-14123-pass-on-save-info-to-model-ui-tweaks-won-openai|♯14123 pass on save info to model + ui tweaks @won-openai]]
+- Earlier: 2026-03-10 · v0 · [[Changes/v0/2026-03-10-updated-auto-model-icon-to-new-radial-design|Updated auto model icon to new radial design]]
 - Later: 2026-03-11 · Claude Code · [[Changes/Claude Code/2026-03-11-2-model-support-changes-in-v2-1-73|2 Model Support changes in v2.1.73]]
 <!-- chronolog:end -->
 

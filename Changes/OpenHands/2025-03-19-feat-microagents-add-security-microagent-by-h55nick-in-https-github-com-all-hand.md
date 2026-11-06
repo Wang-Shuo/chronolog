@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 434dfc8c064abb8c5e88057b41320e25281c65f0aee4d468e3802460bc07a20a
+machine_hash: f9f8a41a8a6e82138d2dcaf3a54f0d163ac855267c38e18614a1e3e3ff61b474
 product: openhands
 product_name: OpenHands
 record:
@@ -41,12 +41,12 @@ record:
   title: 'feat(microagents): Add security microagent'
   type: change
 related_changes:
-- '[[Changes/Aider/2025-03-13-added-ignore-permission-denied-option-to-file-watcher-to-prevent-errors-when-acc|Added
-  ignore_permission_denied option to file watcher to prevent errors…]]'
 - '[[Changes/ChatGPT/2025-03-18-more-clear-and-private-incognito-keyboard-for-temporary-chats|More
   clear and private Incognito keyboard for Temporary Chats]]'
 - '[[Changes/ChatGPT/2025-03-18-new-ui-for-temporary-chats-we-ve-made-accessing-and-viewing-these-private-conver|New
   UI for Temporary Chats]]'
+- '[[Changes/Dify/2025-03-18-this-release-aims-to-strengthen-our-platform-s-reliability-security-and-usabilit|This
+  release aims to strengthen our platform''s reliability, security, and usability…]]'
 source_release: '[[Releases/OpenHands/openhands-2025-03-19-0-29-1-github-206980104-3d0fe383|openhands-2025-03-19-0-29-1-github-206980104-3d0fe383]]'
 source_type: github_releases
 theme: safety-privacy
@@ -75,8 +75,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2025-03-18 · ChatGPT · [[Changes/ChatGPT/2025-03-18-new-ui-for-temporary-chats-we-ve-made-accessing-and-viewing-these-private-conver|New UI for Temporary Chats]]
-- Later: 2025-04-23 · OpenHands · [[Changes/OpenHands/2025-04-23-enabled-custom-sandbox-for-resolver-by-tetsu-is-in-https-github-com-all-hands-ai|Enabled custom sandbox for resolver]]
+- Earlier: 2025-03-18 · Dify · [[Changes/Dify/2025-03-18-this-release-aims-to-strengthen-our-platform-s-reliability-security-and-usabilit|This release aims to strengthen our platform's reliability, security, and usability…]]
+- Later: 2025-03-20 · Dify · [[Changes/Dify/2025-03-20-fix-removing-member-without-permission-by-batman0911-in-https-github-com-langgen|fix removing member without permission]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

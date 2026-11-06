@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4ee55d125ec7469428aedd320abb01c96ca970156e226a4745e9dc18d625a1f7
+machine_hash: aa76f780583af26da86f0adc7656abd0f499a0b9533f5bef0358e5b1db970d59
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,8 +44,8 @@ record:
   title: 2 Developer Workflow changes in v1.0.42
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-01-slash-command-suggestions-rank-prefix-matches-above-fuzzy-matches|Slash
-  command suggestions rank prefix matches above fuzzy matches]]'
+- '[[Changes/Ollama/2026-05-03-claude-code-on-the-terminal-can-still-be-accessed-through-the-cli-with|Claude
+  Code on the terminal can still be accessed through the CLI with]]'
 - '[[Changes/Gemini CLI/2026-05-05-3-developer-workflow-changes-in-v0-41-0|3 Developer
   Workflow changes in v0.41.0]]'
 - '[[Changes/Claude Code/2026-05-06-2-developer-workflow-changes-in-v2-1-129|2 Developer

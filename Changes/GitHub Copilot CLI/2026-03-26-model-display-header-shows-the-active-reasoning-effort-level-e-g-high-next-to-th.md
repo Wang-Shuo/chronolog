@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: e820f01698df592e31714dfc4a846f410441b7024cc7d08b57e4f409229c5487
+machine_hash: c5c87add64e94aad3c84276fd4e5229e28bd6cb1975c3c67e4da8af9a25049ed
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,8 +45,8 @@ record:
     next…
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-03-24-7-model-support-changes-in-v0-35-0|7 Model Support
-  changes in v0.35.0]]'
+- '[[Changes/Open WebUI/2026-03-25-23-model-support-changes-in-v0-8-11|23 Model Support
+  changes in v0.8.11]]'
 - '[[Changes/Claude Code/2026-03-26-added-anthropic-default-opus-sonnet-haiku-model-supports-env-vars-to-override-ef|Added
   ANTHROPIC_DEFAULT{OPUS,SONNET,HAIKU}MODEL_SUPPORTS env vars to override…]]'
 - '[[Changes/Codex CLI/2026-03-26-3-model-support-changes-in-rust-v0-117-0|3 Model
@@ -88,7 +88,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-03-26 · Codex CLI · [[Changes/Codex CLI/2026-03-26-3-model-support-changes-in-rust-v0-117-0|3 Model Support changes in rust-v0.117.0]]
-- Later: 2026-03-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-30-2-model-support-changes-in-v1-0-13|2 Model Support changes in v1.0.13]]
+- Later: 2026-03-27 · Dify · [[Changes/Dify/2026-03-27-7-model-support-changes-in-1-13-3|7 Model Support changes in 1.13.3]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

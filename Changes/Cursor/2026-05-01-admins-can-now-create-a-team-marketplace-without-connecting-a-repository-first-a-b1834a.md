@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8e587be2b72d8b999ed0e37fbd8728b9b27b084df6692e98fc9448ad82686257
+machine_hash: 971931493029b16905f069f3bef7303eb3d1b2ffe46358619d04d39de4387ddf
 product: cursor
 product_name: Cursor
 record:
@@ -64,10 +64,9 @@ record:
     first
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-04-23-2-collaboration-changes-in-rust-v0-123-0|2 Collaboration
-  changes in rust-v0.123.0]]'
-- '[[Changes/Codex CLI/2026-04-24-windows-bazel-ci-now-uses-a-stable-path-and-shared-query-startup-path-for-better|Windows
-  Bazel CI now uses a stable PATH and shared query startup path for better…]]'
+- '[[Changes/ElevenLabs/2026-04-27-other|Other]]'
+- '[[Changes/Dify/2026-04-29-13-collaboration-changes-in-1-14-0|13 Collaboration changes
+  in 1.14.0]]'
 - '[[Changes/Codex CLI/2026-04-30-20149-reduce-the-surface-of-collaboration-modes-pakrym-oai|♯20149
   Reduce the surface of collaboration modes @pakrym-oai]]'
 source_release: '[[Releases/Cursor/cursor-2026-05-01-team-marketplace-updates-https-cursor-com-changelog-05-01-26-3036cead|cursor-2026-05-01-team-marketplace-updates-https-cursor-com-changelog-05-01-26-3036cead]]'

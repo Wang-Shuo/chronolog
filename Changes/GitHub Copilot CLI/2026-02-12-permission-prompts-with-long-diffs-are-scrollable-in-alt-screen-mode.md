@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4b817d77400a1b225cd0b2d68bf5aa5f5ba33908cd91f88a3164a38ac1d8d7fc
+machine_hash: cd32998ef260643ad46c2c705e0c2447b281313e0f16a6cc54c5e8ca3ecbd066
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,10 +43,10 @@ record:
   title: Permission prompts with long diffs are scrollable in alt-screen mode
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-02-10-3-safety-and-privacy-changes-in-v0-28-0|3 Safety
-  and Privacy changes in v0.28.0]]'
 - '[[Changes/Codex CLI/2026-02-11-8-safety-and-privacy-changes-in-rust-v0-99-0|8 Safety
   and Privacy changes in rust-v0.99.0]]'
+- '[[Changes/Dify/2026-02-11-2-safety-and-privacy-changes-in-1-13-0|2 Safety and Privacy
+  changes in 1.13.0]]'
 - '[[Changes/Codex CLI/2026-02-12-5-safety-and-privacy-changes-in-rust-v0-100-0|5
   Safety and Privacy changes in rust-v0.100.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-02-12-v0-0-409-github-285888661-2d549ab0|github-copilot-cli-2026-02-12-v0-0-409-github-285888661-2d549ab0]]'
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-02-12 · Codex CLI · [[Changes/Codex CLI/2026-02-12-5-safety-and-privacy-changes-in-rust-v0-100-0|5 Safety and Privacy changes in rust-v0.100.0]]
-- Later: 2026-02-13 · Claude Code · [[Changes/Claude Code/2026-02-13-2-safety-and-privacy-changes-in-v2-1-41|2 Safety and Privacy changes in v2.1.41]]
+- Later: 2026-02-12 · Open WebUI · [[Changes/Open WebUI/2026-02-12-5-safety-and-privacy-changes-in-v0-8-0|5 Safety and Privacy changes in v0.8.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

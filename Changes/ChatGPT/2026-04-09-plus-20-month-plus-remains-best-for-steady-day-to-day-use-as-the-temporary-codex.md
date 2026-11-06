@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: pricing
-machine_hash: 9cd3ccda8c3d96a41c020d0684edf61af66bfd163a28315ad33a104254b354c1
+machine_hash: 1aadbd59b3ae191ecf1af8b94151451f805c9dfaabb0a198f8dcb1efdad3c122
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -89,7 +89,7 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2026-04-08 · Gemini CLI · [[Changes/Gemini CLI/2026-04-08-docs-update-quotas-and-pricing-by-jkcinouye-in-https-github-com-google-gemini-ge|Docs: Update quotas and pricing]]
-- Later: 2026-04-22 · Claude Code · [[Changes/Claude Code/2026-04-22-opentelemetry-user-prompt-events-now-include-command-name-and-command-source-for|OpenTelemetry: user_prompt events now include command_name and command_source…]]
+- Later: 2026-04-10 · Replit · [[Changes/Replit/2026-04-10-past-invoices-in-usage-page|Past invoices in usage page]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

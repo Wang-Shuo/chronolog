@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 440621f7f5c4b34c62628e45c04dace655bd7108582bda46419aa197b937f454
+machine_hash: 9519cea0eab7662e38a7c51ca0c3412e9e3024e487b988eecb8fb0e951e8598c
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,11 +44,12 @@ record:
     share…'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-05-18-3-collaboration-changes-in-rust-v0-131-0|3 Collaboration
-  changes in rust-v0.131.0]]'
-- '[[Changes/Cursor/2026-05-20-shared-canvases-a27a45|Shared canvases]]'
 - '[[Changes/Claude Code/2026-06-02-otel-resource-attributes-values-are-now-included-as-labels-on-metric-datapoints|OTEL_RESOURCE_ATTRIBUTES
   values are now included as labels on metric datapoints…]]'
+- '[[Changes/Lovable/2026-06-02-cleaner-project-collaborator-icons|Cleaner project
+  collaborator icons]]'
+- '[[Changes/Lovable/2026-06-02-move-projects-to-folders-from-chat|Move projects to
+  folders from chat]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-03-v2-1-162-github-333906405-cdc7c67c|claude-code-2026-06-03-v2-1-162-github-333906405-cdc7c67c]]'
 source_type: github_releases
 theme: collaboration
@@ -84,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-06-02 · Claude Code · [[Changes/Claude Code/2026-06-02-otel-resource-attributes-values-are-now-included-as-labels-on-metric-datapoints|OTEL_RESOURCE_ATTRIBUTES values are now included as labels on metric datapoints…]]
+- Earlier: 2026-06-02 · Lovable · [[Changes/Lovable/2026-06-02-move-projects-to-folders-from-chat|Move projects to folders from chat]]
 - Later: 2026-06-03 · Cursor · [[Changes/Cursor/2026-06-03-3-collaboration-changes-in-organizations-for-cursor-enterprise|3 Collaboration changes in Organizations for Cursor Enterprise]]
 <!-- chronolog:end -->
 

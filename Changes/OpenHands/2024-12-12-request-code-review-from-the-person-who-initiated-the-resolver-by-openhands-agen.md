@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 916e6d7f76fc7263d06cf428135ad5e750fb04ca73f0976e4f060c4e8fb9d0ac
+machine_hash: 85bfc7073e7fe18b585094c895b273934a911a9d3ae4db52273fd860989dd01c
 product: openhands
 product_name: OpenHands
 record:
@@ -43,10 +43,10 @@ record:
   title: Request code review from the person who initiated the resolver
   type: change
 related_changes:
-- '[[Changes/Aider/2024-11-21-2-developer-workflow-changes-in-v0-64-0|2 Developer
-  Workflow changes in v0.64.0]]'
-- '[[Changes/Aider/2024-12-01-2-developer-workflow-changes-in-v0-66-0|2 Developer
-  Workflow changes in v0.66.0]]'
+- '[[Changes/Dify/2024-12-05-stop-the-service-command-please-execute-in-the-docker-directory|Stop
+  the service，Command, please execute in the docker directory]]'
+- '[[Changes/Dify/2024-12-09-stop-the-service-command-please-execute-in-the-docker-directory|Stop
+  the service，Command, please execute in the docker directory]]'
 - '[[Changes/Aider/2024-12-10-2-developer-workflow-changes-in-v0-68-0|2 Developer
   Workflow changes in v0.68.0]]'
 source_release: '[[Releases/OpenHands/openhands-2024-12-12-0-15-2-github-190457676-246dd60a|openhands-2024-12-12-0-15-2-github-190457676-246dd60a]]'

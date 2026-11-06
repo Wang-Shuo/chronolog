@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ae2cb023f6431dbb827f508c194fd6d864fd5ffe6dfcb2449888685625a57b4f
+machine_hash: e6b35a205c4becb3761e1a97d6a35aafb75faa496c4608a953b9a30a64c98e6f
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -54,12 +54,12 @@ record:
   title: 6 Apps and Integrations changes in v0.1.10
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-07-03-2-apps-and-integrations-changes-in-1-2|2 Apps and Integrations
-  changes in 1.2]]'
 - '[[Changes/Cline/2025-07-08-update-the-no-vscode-postmessage-eslint-rule-to-check-for-any-of-the-vscode-sdk|Update
   the no-vscode-postmessage eslint rule to check for any of the vscode SDK…]]'
 - '[[Changes/Cline/2025-07-08-migrate-download-mcp-response-to-proto-by-celestial-vault-in-https-github-com-cl|migrate
   download MCP response to proto]]'
+- '[[Changes/Dify/2025-07-10-10-apps-and-integrations-changes-in-1-6-0|10 Apps and
+  Integrations changes in 1.6.0]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-07-11-v0-1-10-github-231320517-434b29eb|gemini-cli-2025-07-11-v0-1-10-github-231320517-434b29eb]]'
 source_type: github_releases
 theme: apps-integrations
@@ -107,8 +107,8 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.1.10
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-07-08 · Cline · [[Changes/Cline/2025-07-08-migrate-download-mcp-response-to-proto-by-celestial-vault-in-https-github-com-cl|migrate download MCP response to proto]]
-- Later: 2025-07-15 · Cline · [[Changes/Cline/2025-07-15-add-markdown-parsing-to-mcp-responses-by-celestial-vault-in-https-github-com-cli|Add markdown parsing to MCP responses]]
+- Earlier: 2025-07-10 · Dify · [[Changes/Dify/2025-07-10-10-apps-and-integrations-changes-in-1-6-0|10 Apps and Integrations changes in 1.6.0]]
+- Later: 2025-07-14 · ElevenLabs · [[Changes/ElevenLabs/2025-07-14-sdks|SDKs]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

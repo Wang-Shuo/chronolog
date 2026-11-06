@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 7ccc2e265489027b82e1fd0b49468da5f0d89475f4a1450fb88b080683830db4
+machine_hash: 6fa4adc94373b5e6004bf6b78edb43efc206fcccc60473d74f9496409169f7e5
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -59,12 +59,12 @@ record:
     context sharing
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-05-resuming-a-thread-now-preserves-its-stored-git-context-and-keeps-apps-enabled-av|Resuming
-  a thread now preserves its stored git context and keeps apps enabled…]]'
 - '[[Changes/Codex CLI/2026-03-05-3-context-window-changes-in-rust-v0-110-0|3 Context
   Window changes in rust-v0.110.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-05-session-usage-metrics-requests-tokens-code-changes-are-now-persisted-to-events-j|Session
   usage metrics (requests, tokens, code changes) are now persisted…]]'
+- '[[Changes/Ollama/2026-03-05-add-context-length-to-support-compaction-when-using-ollama-launch|Add
+  context length to support compaction when using ollama launch]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-03-06-v0-0-423-github-294013031-8fd55d5e|github-copilot-cli-2026-03-06-v0-0-423-github-294013031-8fd55d5e]]'
 source_type: github_releases
 theme: context-window
@@ -98,8 +98,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-03-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-05-session-usage-metrics-requests-tokens-code-changes-are-now-persisted-to-events-j|Session usage metrics (requests, tokens, code changes) are now persisted…]]
-- Later: 2026-03-10 · Codex CLI · [[Changes/Codex CLI/2026-03-10-4-context-window-changes-in-rust-v0-113-0|4 Context Window changes in rust-v0.113.0]]
+- Earlier: 2026-03-05 · Ollama · [[Changes/Ollama/2026-03-05-add-context-length-to-support-compaction-when-using-ollama-launch|Add context length to support compaction when using ollama launch]]
+- Later: 2026-03-08 · Open WebUI · [[Changes/Open WebUI/2026-03-08-2-context-window-changes-in-v0-8-9|2 Context Window changes in v0.8.9]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

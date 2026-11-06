@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9159d6bc46c49996a009758aca794dc2ed08cb08abf5bb8aae10b1e711e875f1
+machine_hash: 82d3e7cab55ee6c48d86037706d4bb0ad16909e8507879968f046aa592e675fb
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -41,12 +41,12 @@ record:
   title: 2 Collaboration changes in rust-v0.161.0
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-09-29-space-brings-your-pages-files-and-related-work-together-in-chatgpt-create-a-spac|Organize
-  your work in ChatGPT Space]]'
-- '[[Changes/Codex CLI/2026-09-29-2-collaboration-changes-in-rust-v0-159-0|2 Collaboration
-  changes in rust-v0.159.0]]'
 - '[[Changes/Codex CLI/2026-10-01-49130-move-content-filter-guidance-into-the-shared-responses-retry-handler-won-o|♯49130
   Move content-filter guidance into the shared Responses retry handler @won-openai]]'
+- '[[Changes/v0/2026-10-06-personal-v0-accounts-are-now-team-workspaces-giving-everyone-access-to-v0-s-coll|Personal
+  accounts are now team workspaces]]'
+- '[[Changes/Claude/2026-10-07-monthly-api-credits-for-max-and-team-plans|Monthly
+  API credits for Max and Team plans]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-10-07-rust-v0-161-0-github-405921402-d1f93f55|codex-cli-2026-10-07-rust-v0-161-0-github-405921402-d1f93f55]]'
 source_type: github_releases
 theme: collaboration
@@ -91,7 +91,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.161.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-10-01 · Codex CLI · [[Changes/Codex CLI/2026-10-01-49130-move-content-filter-guidance-into-the-shared-responses-retry-handler-won-o|♯49130 Move content-filter guidance into the shared Responses retry handler @won-openai]]
+- Earlier: 2026-10-07 · Claude · [[Changes/Claude/2026-10-07-monthly-api-credits-for-max-and-team-plans|Monthly API credits for Max and Team plans]]
 - Later: 2026-10-08 · Codex CLI · [[Changes/Codex CLI/2026-10-08-2-collaboration-changes-in-rust-v0-162-0|2 Collaboration changes in rust-v0.162.0]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: cf56af7c019817cdaba87c5aa9916ea572b483f030cdf08a8b6fdbe1c6376041
+machine_hash: 0e0815791b153e067f39822736becf132e7c5c414c2dfdee64bd522719f93902
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -93,7 +93,7 @@ type: change
 ## Nearby in Safety and Privacy
 
 - Earlier: 2025-10-03 · Codex CLI · [[Changes/Codex CLI/2025-10-03-3-safety-and-privacy-changes-in-rust-v0-44-0|3 Safety and Privacy changes in rust-v0.44.0]]
-- Later: 2025-10-07 · Gemini CLI · [[Changes/Gemini CLI/2025-10-07-3-safety-and-privacy-changes-in-v0-8-0|3 Safety and Privacy changes in v0.8.0]]
+- Later: 2025-10-06 · Lovable · [[Changes/Lovable/2025-10-06-better-workspace-management|Better workspace management]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

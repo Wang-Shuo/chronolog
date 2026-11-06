@@ -5,20 +5,20 @@ description: 'Gemini CLI · 2025-07-19 · Automation and Scheduling: 2 changes i
   v0.1.13 — Introduce loop detection service that breaks simple loop by @SandyTao520
   in…'
 diffusion:
-  first_in_tracked: '[[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better
-    syntax error loop detection]]'
+  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
+    data clean schedule]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 318
+  lag_days: 564
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e25159d3374e18507eeaa81106d4679241cd3b99076b4971d3d3aeea115b346b
+machine_hash: f353113d19a4b160c9cba4d328871a08f554f6b1651745a28fca15520495a8f4
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -44,12 +44,12 @@ record:
   title: 2 Automation and Scheduling changes in v0.1.13
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-07-01-refactor-use-for-of-loop-instead-of-traditional-for-loop-by-noritaka1166-in-http|refactor:
-  use for...of loop instead of traditional for loop]]'
 - '[[Changes/Gemini CLI/2025-07-02-feat-core-add-infinite-loop-protection-to-client-by-allenhutchison-in-https-gith|feat(core):
   Add infinite loop protection to client]]'
 - '[[Changes/Gemini CLI/2025-07-11-feat-handle-inline-content-modification-in-tool-scheduler-by-adamfweidman-in-htt|feat:
   Handle inline content modification in tool scheduler]]'
+- '[[Changes/Open WebUI/2025-07-14-2-automation-and-scheduling-changes-in-v0-6-16|2
+  Automation and Scheduling changes in v0.6.16]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-07-19-v0-1-13-github-233708271-319aa8dd|gemini-cli-2025-07-19-v0-1-13-github-233708271-319aa8dd]]'
 source_type: github_releases
 theme: automation-scheduling
@@ -92,14 +92,14 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.1.13
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2025-07-11 · Gemini CLI · [[Changes/Gemini CLI/2025-07-11-feat-handle-inline-content-modification-in-tool-scheduler-by-adamfweidman-in-htt|feat: Handle inline content modification in tool scheduler]]
+- Earlier: 2025-07-14 · Open WebUI · [[Changes/Open WebUI/2025-07-14-2-automation-and-scheduling-changes-in-v0-6-16|2 Automation and Scheduling changes in v0.6.16]]
 - Later: 2025-07-22 · Cline · [[Changes/Cline/2025-07-22-automate-announcement-display-for-major-minor-releases-by-kvyb-in-https-github-c|automate announcement display for major.minor releases]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-09-04 · OpenHands · [[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better syntax error loop detection]]
+- Earliest same-theme entry in the tracked set: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

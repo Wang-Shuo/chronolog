@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9c108a1229ec5820723bf91144bf01063aeffc35bca73a290d8b6a03031520e4
+machine_hash: 138276f69df08af7669b59d345a35e98062bd18c50679afd34c399b55acc0246
 product: claude-code
 product_name: Claude Code
 record:
@@ -86,7 +86,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-03-27 · ChatGPT · [[Changes/ChatGPT/2026-03-27-we-re-rolling-out-updated-box-notion-linear-and-dropbox-apps-in-chatgpt-these-up-9f6ee9|Updated Box, Notion, Linear, and Dropbox apps]]
-- Later: 2026-03-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-30-5-apps-and-integrations-changes-in-v1-0-13|5 Apps and Integrations changes in v1.0.13]]
+- Later: 2026-03-27 · Dify · [[Changes/Dify/2026-03-27-6-apps-and-integrations-changes-in-1-13-3|6 Apps and Integrations changes in 1.13.3]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

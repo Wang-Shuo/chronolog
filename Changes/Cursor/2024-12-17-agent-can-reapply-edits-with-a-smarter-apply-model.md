@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: ec64eccf8663058058405a7e041729dcc618dcec80c59a78a1cd4edaf577d7cc
+machine_hash: a5f23258175432b2d8ca34b75013a77a8fb6c8a37665406efa0bceb5d7071b80
 product: cursor
 product_name: Cursor
 record:
@@ -61,12 +61,10 @@ record:
   title: Agent can reapply edits with a smarter apply model
   type: change
 related_changes:
-- '[[Changes/Aider/2024-11-21-2-editor-experience-changes-in-v0-64-0|2 Editor Experience
-  changes in v0.64.0]]'
-- '[[Changes/Aider/2024-11-26-editor-returns-and-prefill-the-file-content-into-the-prompt-so-you-can-use-edito|/editor
-  returns and prefill the file content into the prompt, so you can use…]]'
-- '[[Changes/Aider/2024-12-06-2-editor-experience-changes-in-v0-67-0|2 Editor Experience
-  changes in v0.67.0]]'
+- '[[Changes/Replit/2024-12-13-assistant-features|Assistant Features]]'
+- '[[Changes/Replit/2024-12-13-rollback-with-ease|Rollback with Ease]]'
+- '[[Changes/Replit/2024-12-13-3-editor-experience-changes-in-replit-updates-2024-12-13|3
+  Editor Experience changes in Replit updates — 2024-12-13]]'
 source_release: '[[Releases/Cursor/cursor-2024-12-17-0-44-x-https-cursor-com-changelog-0-44-x-b137ff8e|cursor-2024-12-17-0-44-x-https-cursor-com-changelog-0-44-x-b137ff8e]]'
 source_type: cursor_changelog
 theme: editor-experience
@@ -106,8 +104,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2024-12-06 · Aider · [[Changes/Aider/2024-12-06-2-editor-experience-changes-in-v0-67-0|2 Editor Experience changes in v0.67.0]]
-- Later: 2024-12-26 · OpenHands · [[Changes/OpenHands/2024-12-26-frontend-hyperlink-in-chat-window-should-open-link-in-a-new-tab-by-openhands-age|Frontend Hyperlink in Chat window should open link in a new tab]]
+- Earlier: 2024-12-13 · Replit · [[Changes/Replit/2024-12-13-3-editor-experience-changes-in-replit-updates-2024-12-13|3 Editor Experience changes in Replit updates — 2024-12-13]]
+- Later: 2024-12-25 · Open WebUI · [[Changes/Open WebUI/2024-12-25-chat-completion-notifications-never-miss-a-completed-response-receive-instant-in|🔔 Chat Completion Notifications: Never miss a completed response]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: projects-workspaces
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 11c7bf802b5b9bc8523e123d0ca4f65ba5213fa8509b970eb7aa2e98c26a8b0b
+machine_hash: fb2e06af92b5c88c9c39869bfa1c77296659448198d0cca80ea210def522451d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -45,12 +45,12 @@ record:
   title: Starting a new project directly from a chat
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-02-02-you-can-now-search-through-past-chats|Search through
-  past chats]]'
 - '[[Changes/Cursor/2024-09-17-composer-notepads-previously-called-projects-can-now-include-tagged-files-and-be|Composer
   Notepads (previously called Projects) can now include tagged files…]]'
 - '[[Changes/Cursor/2024-10-09-composer-history-lets-you-access-previous-composer-sessions-after-restart-you-ca|Composer
   history lets you access previous composer sessions after restart]]'
+- '[[Changes/Dify/2024-10-14-miscellaneous-fixes-including-max-token-adjustments-in-openrouter-by-infinitnet|Miscellaneous
+  Fixes: Including max-token adjustments in OpenRouter…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-06-12-adding-more-capabilities-to-projects-a384b6f8|chatgpt-2025-06-12-adding-more-capabilities-to-projects-a384b6f8]]'
 source_type: chatgpt_changelog
 theme: projects-workspaces
@@ -83,8 +83,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Projects and Workspaces
 
-- Earlier: 2024-10-09 · Cursor · [[Changes/Cursor/2024-10-09-composer-history-lets-you-access-previous-composer-sessions-after-restart-you-ca|Composer history lets you access previous composer sessions after restart]]
-- Later: 2025-08-20 · Codex CLI · [[Changes/Codex CLI/2025-08-20-2352-https-github-com-openai-codex-pull-2352-tui-skip-identical-consecutive-entr|♯2352((source link) tui: skip identical consecutive…]]
+- Earlier: 2024-10-14 · Dify · [[Changes/Dify/2024-10-14-miscellaneous-fixes-including-max-token-adjustments-in-openrouter-by-infinitnet|Miscellaneous Fixes: Including max-token adjustments in OpenRouter…]]
+- Later: 2025-07-11 · Replit · [[Changes/Replit/2025-07-11-replit-md-documentation|replit.md documentation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

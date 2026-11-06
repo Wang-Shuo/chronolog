@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6f8b5bee5e9b41cb3b6e8eac47b312412f83246e3f29572180da21c750b220f0
+machine_hash: 285b646d0e9cff493515b93f40d574a978630b936dabc6297ae3dd403dfc79c9
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -72,8 +72,7 @@ record:
   title: 13 Agent Mode changes in v0.25.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-01-16-2-agent-mode-changes-in-v0-0-384|2 Agent
-  Mode changes in v0.0.384]]'
+- '[[Changes/ElevenLabs/2026-01-19-agents-platform-97d485|Agents Platform]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-19-mcp-server-management-when-swapping-between-custom-agents-with-agent|MCP
   server management when swapping between custom agents with /agent]]'
 - '[[Changes/Codex CLI/2026-01-21-2-agent-mode-changes-in-rust-v0-88-0|2 Agent Mode
@@ -142,7 +141,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.25.0
 ## Nearby in Agent Mode
 
 - Earlier: 2026-01-21 · Codex CLI · [[Changes/Codex CLI/2026-01-21-2-agent-mode-changes-in-rust-v0-88-0|2 Agent Mode changes in rust-v0.88.0]]
-- Later: 2026-01-22 · Codex CLI · [[Changes/Codex CLI/2026-01-22-9650-chore-tweak-agents-md-dylan-hurd-oai|♯9650 chore: tweak AGENTS.md @dylan-hurd-oai]]
+- Later: 2026-01-21 · v0 · [[Changes/v0/2026-01-21-added-ai-sdk-v6-support-for-agents|Added AI SDK v6 support for agents]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

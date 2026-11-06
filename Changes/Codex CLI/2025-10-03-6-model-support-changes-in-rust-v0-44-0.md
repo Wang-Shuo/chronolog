@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4b447b63c49db068c6196ba32bebd7ec71826a7cdbe4f1bdf6066803e58c0856
+machine_hash: 4ffe40567b9b2e1d722624ff8b9197c3b6ee80b3ea61168d9728fe7dcaa80e39
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -108,7 +108,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.44.0
 ## Nearby in Model Support
 
 - Earlier: 2025-10-03 · ChatGPT · [[Changes/ChatGPT/2025-10-03-we-re-updating-gpt-5-instant-to-better-recognize-and-support-people-in-moments-o-ea32fc|Updating GPT-5]]
-- Later: 2025-10-06 · Codex CLI · [[Changes/Codex CLI/2025-10-06-2-model-support-changes-in-rust-v0-45-0|2 Model Support changes in rust-v0.45.0]]
+- Later: 2025-10-03 · Ollama · [[Changes/Ollama/2025-10-03-ollama-flash-attention-can-now-be-overridden-to-0-for-models-that-have-flash-att|OLLAMA_FLASH_ATTENTION can now be overridden to 0 for models that have flash…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

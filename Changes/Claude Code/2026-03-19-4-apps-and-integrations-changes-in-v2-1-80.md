@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ea3876a5fac31d5ef47101c7adb28977ff337185759a660149bbebd533e605b3
+machine_hash: 590325bc3c479f507894188d7e94f71b8402c0c091a2d87cbfb240e06f25462c
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,10 +51,10 @@ record:
   title: 4 Apps and Integrations changes in v2.1.80
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-17-add-experimental-sdk-session-apis-to-list-and-manage-skills-mcp-servers-and-plug|Add
-  experimental SDK session APIs to list and manage skills, MCP servers…]]'
 - '[[Changes/Claude Code/2026-03-18-2-apps-and-integrations-changes-in-v2-1-79|2 Apps
   and Integrations changes in v2.1.79]]'
+- '[[Changes/Dify/2026-03-18-4-apps-and-integrations-changes-in-1-13-2|4 Apps and
+  Integrations changes in 1.13.2]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-18-3-apps-and-integrations-changes-in-v1-0-8|3
   Apps and Integrations changes in v1.0.8]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-19-v2-1-80-github-299176707-1bfcfc3a|claude-code-2026-03-19-v2-1-80-github-299176707-1bfcfc3a]]'

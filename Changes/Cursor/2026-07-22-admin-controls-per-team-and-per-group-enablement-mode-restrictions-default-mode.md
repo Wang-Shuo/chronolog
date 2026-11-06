@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: f4ca219befc93f3ed433297a67da7f9900911aa054a7e47ad6158de0a706d6ea
+machine_hash: cedb00e6356fb1186e72866e2b358e1811262aa47807ae11b8366fa4b457e6fc
 product: cursor
 product_name: Cursor
 record:
@@ -54,12 +54,12 @@ record:
     mode…'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-07-09-31587-stabilize-shared-rollout-budget-test-jif-oai|♯31587
-  Stabilize shared rollout budget test @jif-oai]]'
-- '[[Changes/GitHub Copilot CLI/2026-07-16-2-collaboration-changes-in-v1-0-71|2 Collaboration
-  changes in v1.0.71]]'
+- '[[Changes/Dify/2026-07-17-4-collaboration-changes-in-1-16-0|4 Collaboration changes
+  in 1.16.0]]'
 - '[[Changes/Codex CLI/2026-07-21-4-collaboration-changes-in-rust-v0-145-0|4 Collaboration
   changes in rust-v0.145.0]]'
+- '[[Changes/v0/2026-07-21-4-collaboration-changes-in-slash-commands-the-shopify|4
+  Collaboration changes in Slash commands, the Shopify…]]'
 source_release: '[[Releases/Cursor/cursor-2026-07-22-cursor-router-https-cursor-com-changelog-router-af8c2ac4|cursor-2026-07-22-cursor-router-https-cursor-com-changelog-router-af8c2ac4]]'
 source_type: cursor_changelog
 theme: collaboration
@@ -95,8 +95,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-07-21 · Codex CLI · [[Changes/Codex CLI/2026-07-21-4-collaboration-changes-in-rust-v0-145-0|4 Collaboration changes in rust-v0.145.0]]
-- Later: 2026-07-29 · Codex CLI · [[Changes/Codex CLI/2026-07-29-3-collaboration-changes-in-rust-v0-146-0|3 Collaboration changes in rust-v0.146.0]]
+- Earlier: 2026-07-21 · v0 · [[Changes/v0/2026-07-21-4-collaboration-changes-in-slash-commands-the-shopify|4 Collaboration changes in Slash commands, the Shopify…]]
+- Later: 2026-07-27 · ElevenLabs · [[Changes/ElevenLabs/2026-07-27-studio|Studio]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

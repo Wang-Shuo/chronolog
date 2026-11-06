@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 94b5c61313dbb56e76b415d9d90f08a697f0981ce2e273f3ff1068a556d061de
+machine_hash: 48aed57e11e64ae0dffd512410f3d135c3bc09e3012d9be2c54ee4fad93ae192
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -47,12 +47,11 @@ record:
   title: 2 Mobile and Desktop changes in v1.0.79
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-08-07-4-mobile-and-desktop-changes-in-rust-v0-147-0|4
-  Mobile and Desktop changes in rust-v0.147.0]]'
 - '[[Changes/Cline/2026-08-09-fall-back-to-the-session-cwd-or-desktop-for-mention-file-search-in-empty-windows|Fall
   back to the session cwd or Desktop for @-mention file search in empty windows]]'
 - '[[Changes/ChatGPT/2026-08-10-chatgpt-can-now-help-you-find-available-restaurant-reservations-with-opentable-r|Restaurant
   reservations in ChatGPT]]'
+- '[[Changes/ElevenLabs/2026-08-10-android-sdk|Android SDK]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-08-10-v1-0-79-github-368051224-d4fdfd9a|github-copilot-cli-2026-08-10-v1-0-79-github-368051224-d4fdfd9a]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -96,7 +95,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.79
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-08-10 · ChatGPT · [[Changes/ChatGPT/2026-08-10-chatgpt-can-now-help-you-find-available-restaurant-reservations-with-opentable-r|Restaurant reservations in ChatGPT]]
+- Earlier: 2026-08-10 · ElevenLabs · [[Changes/ElevenLabs/2026-08-10-android-sdk|Android SDK]]
 - Later: 2026-08-10 · Windsurf · [[Changes/Windsurf/2026-08-10-devin-desktop|Devin Desktop]]
 <!-- chronolog:end -->
 

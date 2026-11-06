@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 68e9b2aa9cee092a5cd4d8ebaa2d65c444da7362fc9d5679416c947673010428
+machine_hash: 895f17647e6de658df219c0a03c8894295b694602e26506fa0023ba8aaa8589d
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -87,7 +87,7 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2026-03-19 · Windsurf · [[Changes/Windsurf/2026-03-19-quota-billing|Quota Billing]]
-- Later: 2026-03-31 · Codex CLI · [[Changes/Codex CLI/2026-03-31-15934-add-usage-based-business-plan-types-bwanner-oai|♯15934 Add usage-based business plan types @bwanner-oai]]
+- Later: 2026-03-25 · Open WebUI · [[Changes/Open WebUI/2026-03-25-metrics-export-interval-configuration-administrators-can-now-control-opentelemet|📊 Metrics export interval configuration. Administrators can now control…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

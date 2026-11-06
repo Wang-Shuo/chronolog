@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 73b4b513211862d31b9f9df2b0bbd5312b01a53cdd76552a0131df48538bfcdb
+machine_hash: cc5b6cb7d90f42b3302b222d3759d4cc3e258ccc89a8a7e96c68fca61634a3ac
 product: windsurf
 product_name: Windsurf
 record:
@@ -69,9 +69,10 @@ record:
   title: Devin Desktop
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-09-08-devin-desktop|Devin Desktop]]'
 - '[[Changes/Codex CLI/2026-09-09-6-mobile-and-desktop-changes-in-rust-v0-154-0|6
   Mobile and Desktop changes in rust-v0.154.0]]'
+- '[[Changes/Dify/2026-09-10-skill-packages-built-on-windows-failed-with-a-misleading-error-a-skill-md-using|Skill
+  packages built on Windows failed with a misleading error. A SKILL.md…]]'
 - '[[Changes/Windsurf/2026-09-10-introducing-fusion-in-devin-desktop-and-devin-cli-https-exafunction-github-io-pu|!Introducing
   Fusion in Devin Desktop and Devin…]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-09-10-v3-10-23-4196ed90|windsurf-2026-09-10-v3-10-23-4196ed90]]'
@@ -119,7 +120,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-09-09 · Codex CLI · [[Changes/Codex CLI/2026-09-09-6-mobile-and-desktop-changes-in-rust-v0-154-0|6 Mobile and Desktop changes in rust-v0.154.0]]
+- Earlier: 2026-09-10 · Dify · [[Changes/Dify/2026-09-10-skill-packages-built-on-windows-failed-with-a-misleading-error-a-skill-md-using|Skill packages built on Windows failed with a misleading error. A SKILL.md…]]
 - Later: 2026-09-11 · Claude Code · [[Changes/Claude Code/2026-09-11-changed-skills-synced-from-claude-ai-in-cloud-sessions-to-be-named-anthropic-ski|Changed skills synced from claude.ai in cloud sessions to be named…]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3a1b9e2859f34e91bd7a92f9bc90b97235445c1cffc1d325663588949a96a76a
+machine_hash: 786cfbfa87a79121f470d9952fcfeeee5ce45bb9784cbf86b0162a3115e2220b
 product: cline
 product_name: Cline
 record:
@@ -43,8 +43,8 @@ record:
   title: Add an RPC to the host bridge to scroll the diff viewer
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-07-19-12-editor-experience-changes-in-v0-1-13|12 Editor
-  Experience changes in v0.1.13]]'
+- '[[Changes/Open WebUI/2025-07-19-4-editor-experience-changes-in-v0-6-17|4 Editor
+  Experience changes in v0.6.17]]'
 - '[[Changes/Cline/2025-07-22-3-editor-experience-changes-in-v3-19-8|3 Editor Experience
   changes in v3.19.8]]'
 - '[[Changes/Gemini CLI/2025-07-25-19-editor-experience-changes-in-v0-1-14|19 Editor

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: da4576e8049d6c8437d1bc07a072a3e27a127d4a661b362b4d47497a6c70a325
+machine_hash: 0de137a2963996a74a489d5c85c57b5618426e640c41e3760a0f4b3ef1f196b0
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,10 +43,8 @@ record:
   title: 2 Agent Mode changes in rust-v0.88.0
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-01-16-added-hooks-for-session-start-end-prompt-and-stop-for-customizing-agent-lifecycl|Added
-  hooks for session start/end, prompt, and stop for customizing agent lifecycle events]]'
-- '[[Changes/GitHub Copilot CLI/2026-01-16-2-agent-mode-changes-in-v0-0-384|2 Agent
-  Mode changes in v0.0.384]]'
+- '[[Changes/ElevenLabs/2026-01-19-new-endpoints|New Endpoints]]'
+- '[[Changes/ElevenLabs/2026-01-19-agents-platform-97d485|Agents Platform]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-19-mcp-server-management-when-swapping-between-custom-agents-with-agent|MCP
   server management when swapping between custom agents with /agent]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-01-21-rust-v0-88-0-github-278754265-4d0aa1b4|codex-cli-2026-01-21-rust-v0-88-0-github-278754265-4d0aa1b4]]'

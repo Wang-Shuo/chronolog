@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a246e9edb3dbd9a792a2e485d5273251d2f6f10c4b0db87e6f8bc65bd78fceec
+machine_hash: c3e2d4f994130b3438b1f619f5ade2355b8b6651e8879d6b7d75bf446bcab4d1
 product: cline
 product_name: Cline
 record:
@@ -44,7 +44,8 @@ record:
   title: 3 Model Support changes in v3.47.0
   type: change
 related_changes:
-- '[[Changes/Windsurf/2025-12-24-cascade-hooks|Cascade Hooks]]'
+- '[[Changes/Dify/2025-12-25-feat-add-type-field-to-pipelinerecommendedplugin-model-add-query-param-type-to-r|feat:
+  Add "type" field to PipelineRecommendedPlugin model]]'
 - '[[Changes/Windsurf/2025-12-27-gemini-3-flash|Gemini 3 Flash]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-02-model-picker-shows-clearer-message-with-settings-link-when-models-are-unavailabl|Model
   picker shows clearer message with settings link when models are unavailable]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0060c05b958179546a3e94ed9bfff1c470de60751ee0c1a74b05e930dbd1c488
+machine_hash: 7483ba65c818aa59dcc7479ebf62ced2b3a9741ce6d2a3ef55d866b7b8957ee3
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,11 +45,11 @@ record:
     is not…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-06-cli-updates-on-windows-no-longer-fail-with-enoent-when-a-transient-eperm-occurs|CLI
-  updates on Windows no longer fail with ENOENT when a transient EPERM occurs…]]'
 - '[[Changes/Windsurf/2026-05-06-windows-updates|Windows updates]]'
 - '[[Changes/Codex CLI/2026-05-07-3-mobile-and-desktop-changes-in-rust-v0-129-0|3
   Mobile and Desktop changes in rust-v0.129.0]]'
+- '[[Changes/Ollama/2026-05-07-use-ollama-launch-claude-desktop-restore-to-restore-claude-desktop-to-its-normal|Use
+  ollama launch claude-desktop --restore to restore Claude Desktop to its normal state]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-05-11-v1-0-45-github-320681555-97d8cd0a|github-copilot-cli-2026-05-11-v1-0-45-github-320681555-97d8cd0a]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -83,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-05-07 · Codex CLI · [[Changes/Codex CLI/2026-05-07-3-mobile-and-desktop-changes-in-rust-v0-129-0|3 Mobile and Desktop changes in rust-v0.129.0]]
+- Earlier: 2026-05-07 · Ollama · [[Changes/Ollama/2026-05-07-use-ollama-launch-claude-desktop-restore-to-restore-claude-desktop-to-its-normal|Use ollama launch claude-desktop --restore to restore Claude Desktop to its normal state]]
 - Later: 2026-05-12 · ChatGPT · [[Changes/ChatGPT/2026-05-12-free-users-in-chatgpt-will-now-see-more-inline-images-from-the-web-to-help-make|More images in answers for Free users]]
 <!-- chronolog:end -->
 

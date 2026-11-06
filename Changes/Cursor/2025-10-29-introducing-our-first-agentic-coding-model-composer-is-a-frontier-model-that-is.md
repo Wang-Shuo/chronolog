@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 7fb3263168ca092e60b96f6d73feea62549e98d051d2c39f5c2ff502937c534d
+machine_hash: d91ebb6d52b2046672a584b17451065a297eb78e0fb233e5325e6d7d674a46b6
 product: cursor
 product_name: Cursor
 record:
@@ -59,10 +59,9 @@ record:
   title: Composer
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2025-10-24-improved-prompting-for-sonnet-4-5-to-reduce-the-number-of-intermediate-markdown|Improved
-  prompting for Sonnet 4.5 to reduce the number of intermediate markdown…]]'
 - '[[Changes/Cline/2025-10-27-3-model-support-changes-in-v3-34-1|3 Model Support changes
   in v3.34.1]]'
+- '[[Changes/ElevenLabs/2025-10-27-supported-llm-models|Supported LLM Models]]'
 - '[[Changes/GitHub Copilot CLI/2025-10-27-improve-error-message-from-model-model-command-when-using-an-unsupported-model|Improve
   error message from /model model command when using an unsupported model]]'
 source_release: '[[Releases/Cursor/cursor-2025-10-29-2-0-https-cursor-com-changelog-2-0-66a8e76e|cursor-2025-10-29-2-0-https-cursor-com-changelog-2-0-66a8e76e]]'

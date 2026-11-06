@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3075bb3994c730c9fd9293ddd660abd47997017df1d53581ca2a38802aedae30
+machine_hash: b14721d9ed5127dcb1d241ecda4e4eecfe86906fd9e47f288c31795868ea4f3b
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -67,10 +67,10 @@ record:
   title: 12 Agent Mode changes in rust-v0.137.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-02-improved-performance-of-opening-recently-inactive-background-agent-sessions-in-c|Improved
-  performance of opening recently-inactive background agent sessions…]]'
 - '[[Changes/Claude Code/2026-06-02-claude-agents-rows-now-show-done-total-before-the-detail-when-work-is-fanned-out|claude
   agents rows now show done/total before the detail when work is fanned out]]'
+- '[[Changes/Ollama/2026-06-03-nemotron-3-ultra-https-ollama-com-library-nemotron-3-ultra-nvidia-nemotron-3-ult|Nemotron-3-Ultra((source
+  link) NVIDIA Nemotron 3…]]'
 - '[[Changes/Claude Code/2026-06-04-2-agent-mode-changes-in-v2-1-163|2 Agent Mode
   changes in v2.1.163]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-06-04-rust-v0-137-0-github-334076532-fadfeece|codex-cli-2026-06-04-rust-v0-137-0-github-334076532-fadfeece]]'

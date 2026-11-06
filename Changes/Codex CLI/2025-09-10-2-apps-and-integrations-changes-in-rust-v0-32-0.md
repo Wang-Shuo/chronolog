@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: fe12677c4306c3f290abc69406ec3778c1a40f6e53982f0f3788f7c430752a89
+machine_hash: 6c1802254e5d3f09c726cc34a18b34e041be870059b0bdfc68cf8fc9ee1daaa5
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,12 +42,11 @@ record:
   title: 2 Apps and Integrations changes in rust-v0.32.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-09-05-4-apps-and-integrations-changes-in-rust-v0-30-0|4
-  Apps and Integrations changes in rust-v0.30.0]]'
-- '[[Changes/Codex CLI/2025-09-08-4-apps-and-integrations-changes-in-rust-v0-31-0|4
-  Apps and Integrations changes in rust-v0.31.0]]'
+- '[[Changes/ElevenLabs/2025-09-08-sdk-releases|SDK Releases]]'
 - '[[Changes/Gemini CLI/2025-09-09-5-apps-and-integrations-changes-in-v0-4-0|5 Apps
   and Integrations changes in v0.4.0]]'
+- '[[Changes/Open WebUI/2025-09-09-a-provider-toggle-in-connection-settings-now-allows-users-to-manually-specify-az|☁️
+  A provider toggle in connection settings now allows users to manually specify…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-09-10-rust-v0-32-0-github-246248951-dfa94f54|codex-cli-2025-09-10-rust-v0-32-0-github-246248951-dfa94f54]]'
 source_type: github_releases
 theme: apps-integrations
@@ -84,7 +83,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.32.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-09-09 · Gemini CLI · [[Changes/Gemini CLI/2025-09-09-5-apps-and-integrations-changes-in-v0-4-0|5 Apps and Integrations changes in v0.4.0]]
+- Earlier: 2025-09-09 · Open WebUI · [[Changes/Open WebUI/2025-09-09-a-provider-toggle-in-connection-settings-now-allows-users-to-manually-specify-az|☁️ A provider toggle in connection settings now allows users to manually specify…]]
 - Later: 2025-09-10 · Codex CLI · [[Changes/Codex CLI/2025-09-10-3395-set-a-user-agent-suffix-when-used-as-a-mcp-server-3395|♯3395 Set a user agent suffix when used as a mcp server (♯3395)]]
 <!-- chronolog:end -->
 

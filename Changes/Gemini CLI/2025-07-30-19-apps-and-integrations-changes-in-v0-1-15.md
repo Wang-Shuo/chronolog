@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8c6717f46fc14c5e56aec7d2466aac767a6eab3a05117141676d6bcde8f7a21e
+machine_hash: 06f17f6c8235a7b318d26d511e5d5a0252e2bdd1b760a10c53a99bc678fade3a
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -81,10 +81,9 @@ record:
   title: 19 Apps and Integrations changes in v0.1.15
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-07-24-2-apps-and-integrations-changes-in-0-50-0|2 Apps
-  and Integrations changes in 0.50.0]]'
-- '[[Changes/Gemini CLI/2025-07-25-18-apps-and-integrations-changes-in-v0-1-14|18
-  Apps and Integrations changes in v0.1.14]]'
+- '[[Changes/Dify/2025-07-28-2-apps-and-integrations-changes-in-1-7-1|2 Apps and Integrations
+  changes in 1.7.1]]'
+- '[[Changes/ElevenLabs/2025-07-28-sdks|SDKs]]'
 - '[[Changes/Cursor/2025-07-29-extension-marketplace-supports-custom-urls|Extension
   marketplace supports custom URLs]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-07-30-v0-1-15-github-236146632-10a2efdb|gemini-cli-2025-07-30-v0-1-15-github-236146632-10a2efdb]]'

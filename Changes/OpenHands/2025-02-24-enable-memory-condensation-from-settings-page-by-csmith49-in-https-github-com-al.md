@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f147db999569131f19936c3763138588a2e3f54f21587c2771fd27ef7d6e7e89
+machine_hash: e78a030a05eb74029153a69df56f4de69e284b67169c15c8ee3cf01adf8fbe6f
 product: openhands
 product_name: OpenHands
 record:
@@ -41,8 +41,8 @@ record:
   title: Enable memory condensation from settings page
   type: change
 related_changes:
-- '[[Changes/Cline/2024-08-11-adds-option-to-add-custom-instructions-to-the-end-of-the-system-prompt|Adds
-  option to add custom instructions to the end of the system prompt]]'
+- '[[Changes/Dify/2025-01-07-database-and-memory-optimizations-that-not-only-improve-performance-but-they-ll|Database
+  and memory optimizations that not only improve performance but they''ll…]]'
 - '[[Changes/OpenHands/2025-01-07-developer-mode-now-defaults-to-storing-data-on-the-filesystem-instead-of-in-memo|Developer
   mode now defaults to storing data on the filesystem instead of in-memory…]]'
 - '[[Changes/Cursor/2025-02-19-0-46-9-memory-and-performances-fixes-composer-chat-remembers-your-last-mode-sele|0.46.9:

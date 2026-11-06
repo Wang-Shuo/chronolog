@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b255ad384b31cc74105f6e906a1b8b811e00ab780162c988e3117943f5794e61
+machine_hash: d7ee9ac6d809afae24dfbdd64fbb26bafcf329b6867a64ab768f8f96d0453415
 product: claude-code
 product_name: Claude Code
 record:
@@ -56,12 +56,12 @@ record:
     sessions…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-21-improved-the-reminder-shown-after-compaction-so-a-skill-s-original-arguments-are|Improved
-  the reminder shown after compaction so a skill''s original arguments are not…]]'
-- '[[Changes/Cline/2026-08-21-only-treat-an-anthropic-invalid-request-error-as-a-context-overflow-when-its-mes|Only
-  treat an Anthropic invalid_request_error as a context-overflow…]]'
+- '[[Changes/Dify/2026-08-25-8-context-window-changes-in-1-17-0|8 Context Window changes
+  in 1.17.0]]'
 - '[[Changes/Gemini CLI/2026-08-25-ssr-agent-issue-fix-19239-update-clear-command-docs-to-include-context-reset-by|SSR
   Agent Issue Fix (19239): Update /clear command docs to include context reset]]'
+- '[[Changes/Open WebUI/2026-08-25-4-context-window-changes-in-v0-11-1|4 Context Window
+  changes in v0.11.1]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-26-v2-1-247-github-377320078-fc507178|claude-code-2026-08-26-v2-1-247-github-377320078-fc507178]]'
 source_type: github_releases
 theme: context-window
@@ -96,7 +96,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-08-25 · Gemini CLI · [[Changes/Gemini CLI/2026-08-25-ssr-agent-issue-fix-19239-update-clear-command-docs-to-include-context-reset-by|SSR Agent Issue Fix (19239): Update /clear command docs to include context reset]]
+- Earlier: 2026-08-25 · Open WebUI · [[Changes/Open WebUI/2026-08-25-4-context-window-changes-in-v0-11-1|4 Context Window changes in v0.11.1]]
 - Later: 2026-08-26 · Codex CLI · [[Changes/Codex CLI/2026-08-26-14-context-window-changes-in-rust-v0-150-0|14 Context Window changes in rust-v0.150.0]]
 <!-- chronolog:end -->
 

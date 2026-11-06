@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 67dabd238a7224205da545a79404cda45c32845de6b5b3cf755e38372b30540e
+machine_hash: 3a3f98f4e48eccbeb5bbfb09e958f48f2e9d32c7ce7d6ec873974cb0c2291197
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,8 +44,8 @@ record:
   title: https://github.com/openai/codex/pull/2294 moves the login server from Python…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-08-09-https-github-com-openai-codex-pull-2042-should-help-fix-the-python-certificates|(source
-  link) should help/fix the Python certificates…]]'
+- '[[Changes/Open WebUI/2025-08-09-4-account-and-access-changes-in-v0-6-19|4 Account
+  and Access changes in v0.6.19]]'
 - '[[Changes/Gemini CLI/2025-08-12-feat-cli-allow-exiting-authentication-menu-with-ctrl-c-sigint-by-dizzydroid-in-h|feat(cli):
   Allow Exiting Authentication Menu with CTRL+C (SIGINT)]]'
 - '[[Changes/Gemini CLI/2025-08-14-7-account-and-access-changes-in-v0-1-21|7 Account

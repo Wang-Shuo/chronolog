@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6f9c001623385b91bde8207dedab43a0419bfd987ee4087c593d2d80b3ce8ea0
+machine_hash: 9736885db048ed2d64dcf56731fcf71a2ef3328ed21a184579f2e0d15a52028a
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -65,12 +65,10 @@ record:
   title: 11 Apps and Integrations changes in rust-v0.151.0
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-08-27-feat-land-the-canvas-extensions-frontend-load-pages-sidebar-customize-by-hieptl|feat:
-  land the Canvas Extensions frontend (load pages, sidebar, customize)]]'
-- '[[Changes/ChatGPT/2026-08-28-you-can-now-connect-multiple-accounts-for-gmail-google-calendar-and-google-conta-b4c5da|Connect
-  multiple Google accounts to ChatGPT]]'
-- '[[Changes/Claude Code/2026-08-28-4-apps-and-integrations-changes-in-v2-1-251|4
-  Apps and Integrations changes in v2.1.251]]'
+- '[[Changes/Replit/2026-08-28-customize-connectors|Customize connectors]]'
+- '[[Changes/Replit/2026-08-28-integrations|Integrations]]'
+- '[[Changes/v0/2026-08-28-2-apps-and-integrations-changes-in-gpt-5-6-sol-sign-in-inside-previews|2
+  Apps and Integrations changes in GPT-5.6 Sol, sign-in inside previews…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-08-29-rust-v0-151-0-github-378941035-5571827d|codex-cli-2026-08-29-rust-v0-151-0-github-378941035-5571827d]]'
 source_type: github_releases
 theme: apps-integrations
@@ -124,8 +122,8 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.151.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-08-28 · Claude Code · [[Changes/Claude Code/2026-08-28-4-apps-and-integrations-changes-in-v2-1-251|4 Apps and Integrations changes in v2.1.251]]
-- Later: 2026-09-01 · ChatGPT · [[Changes/ChatGPT/2026-09-01-eligible-chatgpt-for-clinicians-users-in-the-united-states-can-now-use-healthcar|Healthcare Public Data in ChatGPT for Clinicians]]
+- Earlier: 2026-08-28 · v0 · [[Changes/v0/2026-08-28-2-apps-and-integrations-changes-in-gpt-5-6-sol-sign-in-inside-previews|2 Apps and Integrations changes in GPT-5.6 Sol, sign-in inside previews…]]
+- Later: 2026-08-31 · ElevenLabs · [[Changes/ElevenLabs/2026-08-31-sdk-releases|SDK releases]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

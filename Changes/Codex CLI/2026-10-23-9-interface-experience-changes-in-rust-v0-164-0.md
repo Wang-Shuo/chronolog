@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2267051f5b64d446f93ff15eec98222061920207a8f18d15baa224eb5d23e927
+machine_hash: c7d10be28dc0ce08a9f946d2e0b0436ce32eca57aa7b95dee207486bb364e82a
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -60,10 +60,9 @@ record:
   title: 9 Interface Experience changes in rust-v0.164.0
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-10-19-test-e2e-bound-and-diagnose-sidebar-modified-click-tab-waits-by-enyst-in-https-g|test(e2e):
-  bound and diagnose sidebar modified-click tab waits]]'
 - '[[Changes/Claude Code/2026-10-20-improved-a-mod-s-image-to-draw-its-picture-in-iterm2-3-5-and-later-with-fullscre|Improved
   a mod''s Image to draw its picture in iTerm2 3.5 and later with fullscreen…]]'
+- '[[Changes/Lovable/2026-10-20-redesigned-more-menu|Redesigned More menu]]'
 - '[[Changes/Claude Code/2026-10-23-improved-a-mod-s-image-to-draw-inside-tmux-with-allow-passthrough-and-focus-even|Improved
   a mod''s Image to draw inside tmux with allow-passthrough…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-10-23-rust-v0-164-0-github-421457270-d867151d|codex-cli-2026-10-23-rust-v0-164-0-github-421457270-d867151d]]'
@@ -127,7 +126,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.164.0
 ## Nearby in Interface Experience
 
 - Earlier: 2026-10-23 · Claude Code · [[Changes/Claude Code/2026-10-23-improved-a-mod-s-image-to-draw-inside-tmux-with-allow-passthrough-and-focus-even|Improved a mod's Image to draw inside tmux with allow-passthrough…]]
-- Later: 2026-10-23 · OpenHands · [[Changes/OpenHands/2026-10-23-refactor-sidebar-express-mobile-drawer-duration-in-css-by-enyst-in-https-github|refactor(sidebar): express mobile drawer duration in CSS]]
+- Later: 2026-10-23 · Dify · [[Changes/Dify/2026-10-23-2-interface-experience-changes-in-1-18-0|2 Interface Experience changes in 1.18.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

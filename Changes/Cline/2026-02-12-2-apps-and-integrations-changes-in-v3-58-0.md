@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 26da0ea4f9b1db99171f06a4ac0ef0c702076c48e2aa4fd6ec5809d453138150
+machine_hash: 81fcea85e1fce4c2e89339ac28e6be74a29a9ab1831d178c499b385661db4267
 product: cline
 product_name: Cline
 record:
@@ -43,10 +43,10 @@ record:
   title: 2 Apps and Integrations changes in v3.58.0
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-02-10-7-apps-and-integrations-changes-in-v0-28-0|7 Apps
-  and Integrations changes in v0.28.0]]'
 - '[[Changes/Codex CLI/2026-02-11-13-apps-and-integrations-changes-in-rust-v0-99-0|13
   Apps and Integrations changes in rust-v0.99.0]]'
+- '[[Changes/Dify/2026-02-11-10-apps-and-integrations-changes-in-1-13-0|10 Apps and
+  Integrations changes in 1.13.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-11-3-apps-and-integrations-changes-in-v0-0-407|3
   Apps and Integrations changes in v0.0.407]]'
 source_release: '[[Releases/Cline/cline-2026-02-12-v3-58-0-github-285499006-63eb7b5c|cline-2026-02-12-v3-58-0-github-285499006-63eb7b5c]]'

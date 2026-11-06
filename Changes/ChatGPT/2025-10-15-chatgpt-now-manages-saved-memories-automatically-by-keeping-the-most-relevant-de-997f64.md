@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 78c3a0395b77bc2818cb13dd380174580b55767bf05c5429863b672b00320a51
+machine_hash: 68f3f44548af1a1ac86b332e2c805115f7cc7fbd2651a19eeb3acf2b48ab4469
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -66,8 +66,8 @@ record:
   title: ChatGPT can now automatically manage saved memories so it’s even better…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-09-29-turn-off-memory-so-chatgpt-won-t-save-and-use-memories-when-responding|Turn
-  off memory, so ChatGPT won’t save and use memories when responding]]'
+- '[[Changes/v0/2025-10-06-custom-instructions-are-now-available-in-v0-use-preset-instructions-like-be-conc|Custom
+  Instructions]]'
 - '[[Changes/ChatGPT/2025-10-08-longer-memory-for-more-personalized-responses-8c6877|Longer
   memory for more personalized responses]]'
 - '[[Changes/ChatGPT/2025-10-14-longer-memory-for-more-personalized-responses-775c35|Longer

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 85e52249b5aa0b4e58af3c5d7004eabbe19b90d5f673599b376a808056c5ce4f
+machine_hash: fc00e81cae4d22fe707946b401abdd806ffab38a33ca42f761a3fa62fb2f2109
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -51,10 +51,10 @@ record:
   title: ChatGPT for Word
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-15-claude-code-on-the-web-improved-the-routine-detail-page-menu-and-rename-in-the-b|Claude
-  Code on the web Improved the routine detail page]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-16-3-interface-experience-changes-in-v1-0-85|3
   Interface Experience changes in v1.0.85]]'
+- '[[Changes/Lovable/2026-09-16-updated-chat-actions-menu-in-projects|Updated Chat
+  actions menu in projects]]'
 - '[[Changes/OpenHands/2026-09-16-2-interface-experience-changes-in-v1-19-0|2 Interface
   Experience changes in v1.19.0]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-17-chatgpt-for-word-f072ecd9|chatgpt-2026-09-17-chatgpt-for-word-f072ecd9]]'

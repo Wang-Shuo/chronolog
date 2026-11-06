@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: af1fd54eded54dc441169f2568f231792782891a38e22151e30de1dd16acf6e6
+machine_hash: d0be67a731b3d058cdad9b88cbf248e90e9e0f34e07e1db8c0a11e258ca08ebb
 product: cursor
 product_name: Cursor
 record:
@@ -47,12 +47,11 @@ record:
   title: /btw support in CLI
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-04-13-this-release-introduces-improvements-to-our-agents-window-interface-as-part-of-c|Cursor
-  introduces improvements to our Agents Window interface as part of Cursor 3]]'
 - '[[Changes/Cursor/2026-04-13-branch-selection-in-empty-state|Branch selection in
   empty state]]'
 - '[[Changes/Cursor/2026-04-13-3-agent-mode-changes-in-3-1|3 Agent Mode changes in
   3.1]]'
+- '[[Changes/ElevenLabs/2026-04-13-elevenagents|ElevenAgents]]'
 source_release: '[[Releases/Cursor/cursor-2026-04-14-cli-debug-mode-and-btw-support-https-cursor-com-changelog-04-14-43ba096a|cursor-2026-04-14-cli-debug-mode-and-btw-support-https-cursor-com-changelog-04-14-43ba096a]]'
 source_type: cursor_changelog
 theme: agent-mode
@@ -87,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-04-13 · Cursor · [[Changes/Cursor/2026-04-13-3-agent-mode-changes-in-3-1|3 Agent Mode changes in 3.1]]
+- Earlier: 2026-04-13 · ElevenLabs · [[Changes/ElevenLabs/2026-04-13-elevenagents|ElevenAgents]]
 - Later: 2026-04-14 · Gemini CLI · [[Changes/Gemini CLI/2026-04-14-6-agent-mode-changes-in-v0-38-0|6 Agent Mode changes in v0.38.0]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1a363906d6d32e45ccd66b406f2e8012730ab7cceff3022b66c00b1bcd75b400
+machine_hash: 2630c5e45f54470ff21725af1f8406e6b6395e24fd0320a3dd7af993911da62e
 product: claude-code
 product_name: Claude Code
 record:
@@ -93,7 +93,7 @@ type: change
 ## Nearby in Account and Access
 
 - Earlier: 2026-06-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-16-2-account-and-access-changes-in-v1-0-63|2 Account and Access changes in v1.0.63]]
-- Later: 2026-06-18 · Codex CLI · [[Changes/Codex CLI/2026-06-18-28257-support-staging-oauth-client-id-overrides-apanasenko-oai|♯28257 Support staging OAuth client ID overrides @apanasenko-oai]]
+- Later: 2026-06-17 · Lovable · [[Changes/Lovable/2026-06-17-choose-your-interface-language|Choose your interface language]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

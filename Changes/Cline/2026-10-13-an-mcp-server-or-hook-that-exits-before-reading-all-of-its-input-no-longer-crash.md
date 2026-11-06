@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 303363acdd508f59ce399410fce4d259a28b5d5bc6d4381691ea078725aeee84
+machine_hash: b39187fa1a518e3a98500c7f77bd3f2e60f4712cacc9697e4a7fbfb59ed2480c
 product: cline
 product_name: Cline
 record:
@@ -44,10 +44,8 @@ record:
     crashes…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-09-3-apps-and-integrations-changes-in-v2-1-296|3
-  Apps and Integrations changes in v2.1.296]]'
-- '[[Changes/GitHub Copilot CLI/2026-10-09-managed-plugin-setup-retries-hourly-or-after-policy-changes-instead-of-on-every|Managed
-  plugin setup retries hourly or after policy changes instead of on every…]]'
+- '[[Changes/ElevenLabs/2026-10-12-sdk-releases|SDK releases]]'
+- '[[Changes/Lovable/2026-10-12-connect-your-app-to-loops|Connect your app to Loops]]'
 - '[[Changes/OpenHands/2026-10-12-3-apps-and-integrations-changes-in-v1-27-0|3 Apps
   and Integrations changes in v1.27.0]]'
 source_release: '[[Releases/Cline/cline-2026-10-13-v4-1-24-github-411804449-05899922|cline-2026-10-13-v4-1-24-github-411804449-05899922]]'

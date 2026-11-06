@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: d099c2d410cdc9cb8c7540a562ec66b31097edd7c6f48ad32edd7ae4e72da27c
+machine_hash: da4eb11ce1c1262e65385d68a22aaf37e31a767d6938c01ee3eb486da76173de
 product: claude-code
 product_name: Claude Code
 record:
@@ -58,12 +58,12 @@ record:
   title: Updated `/cost`, the status line, `--max-budget-usd` and the SDK's cost figures…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-01-49079-update-and-centralize-tui-subscription-labels-etraut-openai|♯49079
-  Update and centralize TUI subscription labels @etraut-openai]]'
 - '[[Changes/Claude Code/2026-10-02-improved-the-usage-credits-message-shown-to-team-and-enterprise-members-whose-or|Improved
   the /usage-credits message shown to Team and Enterprise members whose…]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-05-plan-usage-reflects-the-current-billing-period-after-quota-resets|Plan
   usage reflects the current billing period after quota resets]]'
+- '[[Changes/Lovable/2026-10-07-set-credit-usage-limits-and-alerts-for-your-workspace|Set
+  credit usage limits and alerts for your workspace]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-09-v2-1-296-github-408141042-fd950e7a|claude-code-2026-10-09-v2-1-296-github-408141042-fd950e7a]]'
 source_type: github_releases
 theme: pricing-model
@@ -102,8 +102,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-10-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-05-plan-usage-reflects-the-current-billing-period-after-quota-resets|Plan usage reflects the current billing period after quota resets]]
-- Later: 2026-10-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-13-show-billed-ai-credits-in-usage-for-token-billed-sessions-including-after-resume|Show billed AI Credits in /usage for token-billed sessions, including after resume]]
+- Earlier: 2026-10-07 · Lovable · [[Changes/Lovable/2026-10-07-set-credit-usage-limits-and-alerts-for-your-workspace|Set credit usage limits and alerts for your workspace]]
+- Later: 2026-10-09 · Lovable · [[Changes/Lovable/2026-10-09-get-a-warning-before-your-credits-run-out|Get a warning before your credits run out]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

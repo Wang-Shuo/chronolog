@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 04c1d289572abe1e8ef57505d0ad4da5e1b850aba6ae46a078d1a93fd30ca17f
+machine_hash: 22c01465d219256813002fdf4897c98f1c0849bbe3e5432ddc3f7d6d9f648a0d
 product: cline
 product_name: Cline
 record:
@@ -42,8 +42,8 @@ record:
   title: Add Gemini 2.5 Pro Preview 03-25 to Google Provider
   type: change
 related_changes:
-- '[[Changes/Cline/2025-04-01-3-model-support-changes-in-v3-8-5|3 Model Support changes
-  in v3.8.5]]'
+- '[[Changes/Ollama/2025-04-02-api-show-will-now-include-model-capabilities-such-as-vision|/api/show
+  will now include model capabilities such as vision]]'
 - '[[Changes/OpenHands/2025-04-02-2-model-support-changes-in-0-31-0|2 Model Support
   changes in 0.31.0]]'
 - '[[Changes/Aider/2025-04-04-4-model-support-changes-in-v0-81-0|4 Model Support changes
@@ -75,7 +75,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2025-04-04 · Aider · [[Changes/Aider/2025-04-04-4-model-support-changes-in-v0-81-0|4 Model Support changes in v0.81.0]]
-- Later: 2025-04-06 · Cline · [[Changes/Cline/2025-04-06-add-recommended-models-for-cline-provider|Add recommended models for Cline provider]]
+- Later: 2025-04-04 · Replit · [[Changes/Replit/2025-04-04-3d-model-generation-milestone|3D model generation milestone]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

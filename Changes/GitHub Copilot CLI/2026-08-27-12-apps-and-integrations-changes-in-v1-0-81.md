@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 755c5e44ef6b5d94df98d248abe13eaeea5201b0ce64e88bf82acea33abfa897
+machine_hash: 0ac2827f2df303d96d0c84c699f95cdb5615de6481d3b2d29807acb8de0e22dc
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -86,10 +86,9 @@ record:
   title: 12 Apps and Integrations changes in v1.0.81
   type: change
 related_changes:
-- '[[Changes/Cline/2026-08-26-4-apps-and-integrations-changes-in-v4-1-16|4 Apps and
-  Integrations changes in v4.1.16]]'
-- '[[Changes/Codex CLI/2026-08-26-24-apps-and-integrations-changes-in-rust-v0-150-0|24
-  Apps and Integrations changes in rust-v0.150.0]]'
+- '[[Changes/Lovable/2026-08-26-connect-github-api-by-signing-in-with-your-github-account|Connect
+  GitHub API by signing in with your GitHub account]]'
+- '[[Changes/Lovable/2026-08-26-chat-with-lovable-in-slack|Chat with Lovable in Slack]]'
 - '[[Changes/Claude Code/2026-08-27-improved-managed-settings-client-side-timeout-mcp-startup-mode-and-stream-watchd|Improved
   managed settings]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-08-27-v1-0-81-github-377993714-523d567a|github-copilot-cli-2026-08-27-v1-0-81-github-377993714-523d567a]]'

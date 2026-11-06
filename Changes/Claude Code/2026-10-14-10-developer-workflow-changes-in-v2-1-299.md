@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ec9cecf72dcd57edeff19a02f2f1d4fae396a0cb8b33f9f694b7f1928e120c06
+machine_hash: eac936b1717f3fe86170b04e0fec932bf44b49db97d5973f451db490fb34c55a
 product: claude-code
 product_name: Claude Code
 record:
@@ -142,7 +142,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.299
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-10-14 · Claude Code · [[Changes/Claude Code/2026-10-14-added-a-dir-prop-on-a-mod-s-text-for-right-to-left-text-on-windows-and-in-vs-cod|Added a dir prop on a mod's Text for right-to-left text]]
-- Later: 2026-10-15 · Claude Code · [[Changes/Claude Code/2026-10-15-2-developer-workflow-changes-in-v2-1-301|2 Developer Workflow changes in v2.1.301]]
+- Later: 2026-10-14 · Open WebUI · [[Changes/Open WebUI/2026-10-14-6-developer-workflow-changes-in-v0-12-2|6 Developer Workflow changes in v0.12.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

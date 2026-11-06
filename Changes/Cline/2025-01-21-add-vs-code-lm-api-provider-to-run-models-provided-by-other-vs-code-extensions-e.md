@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: dad704ec1bb9aa475d370cd9e16df84504dc442daf3eb0afc10a4a5987479051
+machine_hash: 807692cdc0cacf7b8ea990dbac7358ddb61fef0d8e10631a23643c10cd9df4c9
 product: cline
 product_name: Cline
 record:
@@ -44,12 +44,11 @@ record:
   title: Add VS Code LM API provider to run models provided by other VS Code extensions…
   type: change
 related_changes:
-- '[[Changes/Aider/2024-12-26-3-model-support-changes-in-v0-70-0|3 Model Support changes
-  in v0.70.0]]'
-- '[[Changes/Aider/2025-01-10-2-model-support-changes-in-v0-71-0|2 Model Support changes
-  in v0.71.0]]'
+- '[[Changes/Dify/2025-01-13-2-model-support-changes-in-0-15-1|2 Model Support changes
+  in 0.15.1]]'
 - '[[Changes/Aider/2025-01-20-4-model-support-changes-in-v0-72-0|4 Model Support changes
   in v0.72.0]]'
+- '[[Changes/DeepSeek API/2025-01-20-deepseek-reasoner|deepseek-reasoner]]'
 source_release: '[[Releases/Cline/cline-2025-01-21-v3-2-0-github-195907436-b610f726|cline-2025-01-21-v3-2-0-github-195907436-b610f726]]'
 source_type: github_releases
 theme: model-support
@@ -79,8 +78,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-01-20 · Aider · [[Changes/Aider/2025-01-20-4-model-support-changes-in-v0-72-0|4 Model Support changes in v0.72.0]]
-- Later: 2025-01-22 · OpenHands · [[Changes/OpenHands/2025-01-22-2-model-support-changes-in-0-21-0|2 Model Support changes in 0.21.0]]
+- Earlier: 2025-01-20 · DeepSeek API · [[Changes/DeepSeek API/2025-01-20-deepseek-reasoner|deepseek-reasoner]]
+- Later: 2025-01-22 · Dify · [[Changes/Dify/2025-01-22-8-model-support-changes-in-0-15-2|8 Model Support changes in 0.15.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

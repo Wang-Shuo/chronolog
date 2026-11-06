@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 737296685858c06f47f396d2b854d52c7b9819f94b4fe34186121e397b5a2550
+machine_hash: 3556c2e60706445efd2abd8ff3fdb3d57f3d662f8123feaa37c4b71ce5273785
 product: cline
 product_name: Cline
 record:
@@ -60,12 +60,12 @@ record:
     old file…
   type: change
 related_changes:
-- '[[Changes/Cline/2025-03-23-add-add-to-cline-as-an-option-when-you-right-click-selected-text-in-a-file-or-th|Add
-  Add to Cline as an option when you right-click selected text in a file…]]'
-- '[[Changes/Cursor/2025-03-23-added-input-token-count-for-chat-messages-click-the-three-dots-to-view-we-re-con|Added
-  input token count for chat messages (click the three dots to view)]]'
+- '[[Changes/Dify/2025-03-24-feat-add-datasets-detail-context-and-provider-for-improved-data-vali-by-wtw0313|feat:
+  add datasets detail context and provider for improved data vali…]]'
 - '[[Changes/Aider/2025-03-25-added-a-new-context-command-that-automatically-identifies-which-files-need-to-be|Added
   a new /context command that automatically identifies which files need…]]'
+- '[[Changes/Gemini/2025-03-29-our-2-5-pro-experimental-model-is-now-available-to-all-gemini-users-with-canvas|Our
+  2.5 Pro (experimental) model is now available to all Gemini users, with Canvas]]'
 source_release: '[[Releases/Cline/cline-2025-04-08-v3-10-0-github-211156875-766b3847|cline-2025-04-08-v3-10-0-github-211156875-766b3847]]'
 source_type: github_releases
 theme: context-window
@@ -97,7 +97,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2025-03-25 · Aider · [[Changes/Aider/2025-03-25-added-a-new-context-command-that-automatically-identifies-which-files-need-to-be|Added a new /context command that automatically identifies which files need…]]
+- Earlier: 2025-03-29 · Gemini · [[Changes/Gemini/2025-03-29-our-2-5-pro-experimental-model-is-now-available-to-all-gemini-users-with-canvas|Our 2.5 Pro (experimental) model is now available to all Gemini users, with Canvas]]
 - Later: 2025-04-10 · OpenHands · [[Changes/OpenHands/2025-04-10-display-microagent-context-in-the-ui-by-xingyaoww-in-https-github-com-all-hands|Display microagent context in the UI]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 2421e742a8dd99ade06a1a229ff0ed45ff0cc60748725a757af6c2fff974e9d3
+machine_hash: e8600ba55ecd1e01be2da76cd398b6c8aa2847f185774ab9151f26ae4df4d204
 product: cline
 product_name: Cline
 record:
@@ -54,8 +54,8 @@ record:
   title: 'feat: Add OAuth 2.1 authentication support for remote MCP servers'
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-11-04-disable-model-routing-for-oauth-users-by-mrcabbage972-in-https-github-com-google|Disable
-  model routing for oauth users]]'
+- '[[Changes/Open WebUI/2025-11-06-5-account-and-access-changes-in-v0-6-35|5 Account
+  and Access changes in v0.6.35]]'
 - '[[Changes/Codex CLI/2025-11-07-3-account-and-access-changes-in-rust-v0-56-0|3 Account
   and Access changes in rust-v0.56.0]]'
 - '[[Changes/Gemini CLI/2025-11-07-2-account-and-access-changes-in-v0-13-0|2 Account

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7888a164657c2bba00b5dd7c3bf0d3e052c1f1c357085a0ccdd24820c152a06b
+machine_hash: 18e8e609aa7ad68b677001e75ef1a46cfdafec9df3f1dc6915bd1c5a2aada6e8
 product: aider
 product_name: Aider
 record:
@@ -43,8 +43,8 @@ record:
     models
   type: change
 related_changes:
-- '[[Changes/Aider/2024-08-06-3-model-support-changes-in-v0-48-0|3 Model Support changes
-  in v0.48.0]]'
+- "[[Changes/Open WebUI/2024-08-07-modal-handling-fixed-an-issue-where-modals-were-not-closing-correctly-in-various|\U0001F5C3️
+  Modal Handling]]"
 - '[[Changes/Aider/2024-08-10-5-model-support-changes-in-v0-49-0|5 Model Support changes
   in v0.49.0]]'
 - '[[Changes/Cline/2024-08-11-adds-option-to-choose-other-claude-models-gpt-4o-deepseek-and-mistral-if-you-use|Adds
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2024-08-11 · Cline · [[Changes/Cline/2024-08-11-adds-option-to-choose-other-claude-models-gpt-4o-deepseek-and-mistral-if-you-use|Adds option to choose other Claude models…]]
-- Later: 2024-08-15 · Cline · [[Changes/Cline/2024-08-15-adds-support-for-prompt-caching-https-www-anthropic-com-news-prompt-caching-to-r|Adds support for Prompt Caching((source link)]]
+- Later: 2024-08-13 · Ollama · [[Changes/Ollama/2024-08-13-ollama-create-can-now-import-phi-3-models-from-safetensors|ollama create can now import Phi-3 models from Safetensors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

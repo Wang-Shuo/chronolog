@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2d4cb955deb7cfd24c282c1e9fa17a8879eb7f160ec155c6837cccbbb72cb1ae
+machine_hash: cb6ba651d995798c71cf94a42e46bc3208444fbebfeebb277b2af240bea24b8b
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,8 +44,8 @@ record:
   title: 2 Interface Experience changes in v2.1.163
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-01-2-interface-experience-changes-in-rust-v0-136-0|2
-  Interface Experience changes in rust-v0.136.0]]'
+- '[[Changes/Open WebUI/2026-06-01-4-interface-experience-changes-in-v0-9-6|4 Interface
+  Experience changes in v0.9.6]]'
 - '[[Changes/Claude Code/2026-06-02-2-interface-experience-changes-in-v2-1-161|2 Interface
   Experience changes in v2.1.161]]'
 - '[[Changes/Claude Code/2026-06-03-clicking-a-slash-command-in-the-autocomplete-menu-now-fills-it-into-your-prompt|Clicking

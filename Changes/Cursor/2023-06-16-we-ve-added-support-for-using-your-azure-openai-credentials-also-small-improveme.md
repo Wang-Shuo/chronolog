@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 7430520ffbfd4ffb52a37b3f44d5e524ee75bda95a168b2ca04d23fe12f61615
+machine_hash: 023a5241c395ba9d5c3592cd0086554531ef9555f18aef877b807a6d8ef8f852
 product: cursor
 product_name: Cursor
 record:
@@ -46,12 +46,12 @@ record:
   title: Azure Support
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-05-17-you-can-pin-custom-extensions-to-your-activity-bar-in-the-top-left|Activity
-  Bar pinning]]'
-- '[[Changes/ChatGPT/2023-05-24-browse-with-bing-we-ve-integrated-the-browsing-feature-currently-in-beta-for-pai|Bing
-  Plugin]]'
+- '[[Changes/Dify/2023-05-25-3-apps-and-integrations-changes-in-0-2-2|3 Apps and Integrations
+  changes in 0.2.2]]'
 - '[[Changes/Cursor/2023-06-09-you-can-now-have-the-ai-read-documentation-on-your-behalf-this-will-improve-it-s|Show
   the AI documentation]]'
+- '[[Changes/Dify/2023-06-09-feat-npm-sdk-to-2-0-to-fix-steaming-problem-by-iamjoel-in-https-github-com-langg|feat:
+  npm sdk to 2.0 to fix steaming problem]]'
 source_release: '[[Releases/Cursor/cursor-2023-06-16-0-2-33-https-cursor-com-changelog-0-2-33-7a7f3b5e|cursor-2023-06-16-0-2-33-https-cursor-com-changelog-0-2-33-7a7f3b5e]]'
 source_type: cursor_changelog
 theme: apps-integrations
@@ -78,8 +78,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2023-06-09 · Cursor · [[Changes/Cursor/2023-06-09-you-can-now-have-the-ai-read-documentation-on-your-behalf-this-will-improve-it-s|Show the AI documentation]]
-- Later: 2023-06-27 · Cursor · [[Changes/Cursor/2023-06-27-cursor-deep-linking-works-now-so-you-should-be-able-to-log-in-to-extensions|cursor:// deep linking works now, so you should be able to log in to extensions]]
+- Earlier: 2023-06-09 · Dify · [[Changes/Dify/2023-06-09-feat-npm-sdk-to-2-0-to-fix-steaming-problem-by-iamjoel-in-https-github-com-langg|feat: npm sdk to 2.0 to fix steaming problem]]
+- Later: 2023-06-19 · Dify · [[Changes/Dify/2023-06-19-dataset-support-integration-with-notion|📃 Dataset support integration with Notion]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

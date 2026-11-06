@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a09bb8eb8b7f5e312316703f056781b5e581455949c082ffcf5fd0310709d045
+machine_hash: a509272da5eb74a75fd9e060e25230534d7fa9fb460aa7f9f9bdf92f7975b932
 product: openhands
 product_name: OpenHands
 record:
@@ -42,10 +42,10 @@ record:
   title: The app isn't signed with an Apple Developer ID yet, so macOS may call a
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-10-20-2-mobile-and-desktop-changes-in-v1-29-0|2 Mobile
-  and Desktop changes in v1.29.0]]'
 - '[[Changes/Claude Code/2026-10-22-changed-the-dangerous-rm-and-rmdir-prompt-in-bypass-permissions-mode-in-the-desk|Changed
   the dangerous rm and rmdir prompt in bypass permissions mode…]]'
+- '[[Changes/Ollama/2026-10-22-flint-https-ollama-com-library-flint-now-runs-on-linux-and-windows-as-well-as-ma|Flint((source
+  link) now runs on Linux and Windows as well as macOS]]'
 - '[[Changes/OpenHands/2026-10-22-the-app-isn-t-signed-with-an-apple-developer-id-yet-so-macos-may-call-a|The
   app isn''t signed with an Apple Developer ID yet, so macOS may call a]]'
 source_release: '[[Releases/OpenHands/openhands-2026-10-22-v1-30-1-github-420407032-fb2ceba2|openhands-2026-10-22-v1-30-1-github-420407032-fb2ceba2]]'

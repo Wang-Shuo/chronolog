@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: eebe2522b491bc98b50daff72969e9132f0f1761bbcd5f5d0af959f4808852ed
+machine_hash: 84fee6d8debcb40f8c8e328409ff4f8ac21e63075aa68d6a518dae866fd8369d
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,8 +47,8 @@ record:
   title: 3 Apps and Integrations changes in v2.1.172
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-08-19-apps-and-integrations-changes-in-rust-v0-138-0|19
-  Apps and Integrations changes in rust-v0.138.0]]'
+- '[[Changes/v0/2026-06-08-4-apps-and-integrations-changes-in-changelog-update|4 Apps
+  and Integrations changes in Changelog update]]'
 - '[[Changes/Codex CLI/2026-06-09-8-apps-and-integrations-changes-in-rust-v0-139-0|8
   Apps and Integrations changes in rust-v0.139.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-09-4-apps-and-integrations-changes-in-v1-0-61|4

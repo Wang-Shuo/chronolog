@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 585a5677d0d1b58fe9e9cf564e88e7afba84f190e6f77919f06d5b3ec21f890d
+machine_hash: 2dc14718de79f1282250061c1f069a967415454d771f05ec51339ce035c2a6b4
 product: openhands
 product_name: OpenHands
 record:
@@ -44,10 +44,10 @@ record:
   title: 'feat: context window usage meter, usage drawer, and manual compaction'
   type: change
 related_changes:
-- '[[Changes/Cline/2026-08-11-respect-your-configured-max-output-tokens-when-the-compaction-summarizer-request|Respect
-  your configured max output tokens when the compaction summarizer requests…]]'
 - '[[Changes/Gemini CLI/2026-08-11-refactor-exclude-transient-ci-configuration-files-from-workspace-context-by-davi|Refactor:
   exclude transient CI configuration files from workspace context]]'
+- '[[Changes/Lovable/2026-08-11-readable-previews-for-attached-files|Readable previews
+  for attached files]]'
 - '[[Changes/Claude Code/2026-08-12-improved-prompt-is-too-long-errors-to-explain-why-automatic-compaction-could-not|Improved
   "prompt is too long" errors to explain why automatic compaction could not…]]'
 source_release: '[[Releases/OpenHands/openhands-2026-08-13-v1-13-0-github-369624211-7e45f0bf|openhands-2026-08-13-v1-13-0-github-369624211-7e45f0bf]]'

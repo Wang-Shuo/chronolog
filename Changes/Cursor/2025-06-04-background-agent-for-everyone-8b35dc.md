@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: a3df246455203d974217613c9d5d8c04929c894cb4d0f354f6f43c097a04a79e
+machine_hash: 0ebd8220a7acc2b700e6fc39f5db11f452784c1bac04f3b5bb60debb3574483c
 product: cursor
 product_name: Cursor
 record:
@@ -50,8 +50,7 @@ record:
   title: Background Agent for everyone
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-05-20-2-agent-mode-changes-in-0-39-0|2 Agent Mode changes
-  in 0.39.0]]'
+- '[[Changes/ElevenLabs/2025-06-01-agents-platform-dedb85|Agents Platform]]'
 - '[[Changes/Cursor/2025-06-04-open-background-agent-control-panel-with-cmd-ctrl-e|Open
   Background Agent control panel with Cmd/Ctrl+E]]'
 - '[[Changes/Cursor/2025-06-04-agent-in-jupyter-notebooks|Agent in Jupyter Notebooks]]'
@@ -98,8 +97,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2025-05-20 · OpenHands · [[Changes/OpenHands/2025-05-20-2-agent-mode-changes-in-0-39-0|2 Agent Mode changes in 0.39.0]]
-- Later: 2025-06-10 · OpenHands · [[Changes/OpenHands/2025-06-10-ensured-prs-opened-by-agent-is-properly-tracked-in-conversation-metadata-by-malh|Ensured PRs opened by agent is properly tracked in conversation metadata]]
+- Earlier: 2025-06-01 · ElevenLabs · [[Changes/ElevenLabs/2025-06-01-agents-platform-dedb85|Agents Platform]]
+- Later: 2025-06-06 · Replit · [[Changes/Replit/2025-06-06-new-agent-entrypoints-in-workspace|New Agent entrypoints in workspace]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

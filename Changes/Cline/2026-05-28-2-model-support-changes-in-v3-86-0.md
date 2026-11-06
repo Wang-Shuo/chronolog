@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e16c6c7bc132217b406463f8f54f971da9ab6498b67386dd3fcb82539c1ee4a7
+machine_hash: b4a8b7312cabcbba6bcd83cbec3f7b0f9bd8002d899e989fdd27db0d09c919b0
 product: cline
 product_name: Cline
 record:
@@ -43,8 +43,7 @@ record:
   title: 2 Model Support changes in v3.86.0
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-05-28-we-re-updating-gpt-5-5-instant-in-chatgpt-and-the-api-to-improve-response-style|GPT-5.5
-  Instant Update]]'
+- '[[Changes/Claude/2026-05-28-claude-opus-4-8-launch|Claude Opus 4.8 launch]]'
 - '[[Changes/Claude Code/2026-05-28-5-model-support-changes-in-v2-1-154|5 Model Support
   changes in v2.1.154]]'
 - '[[Changes/Claude Code/2026-05-28-model-now-saves-your-selection-as-the-default-for-new-sessions-matching-the-ide|/model

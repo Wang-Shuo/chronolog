@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 954c7bf7ef8013129c30793c9ecb6ff04398c6a17783f520acb25dc161d369ad
+machine_hash: 081d9df21eb6c54b49c7c231e2034ec157749c92ead323fe1c5c8251474257f2
 product: cline
 product_name: Cline
 record:
@@ -41,8 +41,8 @@ record:
   title: Add MiniMax M3 model support
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-01-new-reasoning-after-tool-calls-appears-at-the-bottom-of-the-timeline-instead-of|New
-  reasoning after tool calls appears at the bottom of the timeline instead…]]'
+- '[[Changes/Open WebUI/2026-06-01-12-model-support-changes-in-v0-9-6|12 Model Support
+  changes in v0.9.6]]'
 - '[[Changes/Claude Code/2026-06-02-removed-claude-code-opus-4-6-fast-mode-override-the-environment-variable-is-now|Removed
   CLAUDE_CODE_OPUS_4_6_FAST_MODE_OVERRIDE; the environment variable is now a no-op]]'
 - '[[Changes/Claude Code/2026-06-03-2-model-support-changes-in-v2-1-162|2 Model Support
@@ -76,7 +76,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-06-03 · Claude Code · [[Changes/Claude Code/2026-06-03-2-model-support-changes-in-v2-1-162|2 Model Support changes in v2.1.162]]
-- Later: 2026-06-04 · Codex CLI · [[Changes/Codex CLI/2026-06-04-3-model-support-changes-in-rust-v0-137-0|3 Model Support changes in rust-v0.137.0]]
+- Later: 2026-06-03 · Ollama · [[Changes/Ollama/2026-06-03-ollama-create-experimental-now-respects-requires-in-modelfiles-for-mlx-based-mod|ollama create --experimental now respects REQUIRES in Modelfiles for MLX-based models]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

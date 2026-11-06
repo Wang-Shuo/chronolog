@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4e893057b8d390fa205ba40b7c63839599ec4be754fcbbd55f875517037d2f1f
+machine_hash: d80170b9f1ec54ec3efaa1fcf22b616616a1b7f5c234511d8d8b2a2a8b75b0a9
 product: cline
 product_name: Cline
 record:
@@ -57,11 +57,11 @@ record:
     file
   type: change
 related_changes:
-- '[[Changes/Aider/2024-11-26-ollama-models-now-default-to-an-8k-context-window|Ollama
-  models now default to an 8k context window]]'
 - '[[Changes/Aider/2024-12-10-new-copy-context-command|New /copy-context command]]'
 - '[[Changes/Aider/2024-12-13-copy-context-instructions-now-takes-optional-instructions-when-copying-code-cont|/copy-context
   instructions now takes optional "instructions" when copying code…]]'
+- '[[Changes/Dify/2024-12-16-revert-fix-total-tokens-is-wrong-which-is-zero-in-inter-way-close-by-yihong0618|Revert
+  "fix: total tokens is wrong which is zero in inter way, close …]]'
 source_release: '[[Releases/Cline/cline-2024-12-18-v3-0-0-github-191549962-04b25c94|cline-2024-12-18-v3-0-0-github-191549962-04b25c94]]'
 source_type: github_releases
 theme: context-window
@@ -94,8 +94,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2024-12-13 · Aider · [[Changes/Aider/2024-12-13-copy-context-instructions-now-takes-optional-instructions-when-copying-code-cont|/copy-context instructions now takes optional "instructions" when copying code…]]
-- Later: 2025-01-10 · Aider · [[Changes/Aider/2025-01-10-increased-max-chat-history-tokens-limit-from-4k-to-8k|Increased max chat history tokens limit from 4k to 8k]]
+- Earlier: 2024-12-16 · Dify · [[Changes/Dify/2024-12-16-revert-fix-total-tokens-is-wrong-which-is-zero-in-inter-way-close-by-yihong0618|Revert "fix: total tokens is wrong which is zero in inter way, close …]]
+- Later: 2024-12-19 · Gemini · [[Changes/Gemini/2024-12-19-priority-access-with-gemini-advanced-upload-your-code-repository|Priority access with Gemini Advanced: Upload your code repository]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

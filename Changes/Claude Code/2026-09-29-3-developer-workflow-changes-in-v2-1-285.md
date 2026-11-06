@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c245989a6e965353bba54ce765e76ba131881e659bcc5f00089427d39071f1c6
+machine_hash: 57b8e99c35c5a5424f90fa8e341bdece0f93088a7b9e437f0aa7d8c2db8620e8
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,10 +49,9 @@ record:
   title: 3 Developer Workflow changes in v2.1.285
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-28-changed-recap-to-decline-with-a-short-notice-when-it-arrives-relayed-from-a-chat|Changed
-  /recap to decline with a short notice when it arrives relayed from a chat…]]'
 - '[[Changes/Codex CLI/2026-09-28-14-developer-workflow-changes-in-rust-v0-158-0|14
   Developer Workflow changes in rust-v0.158.0]]'
+- '[[Changes/ElevenLabs/2026-09-28-flows-ffc074|Flows]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-28-3-developer-workflow-changes-in-v1-0-89|3
   Developer Workflow changes in v1.0.89]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-29-v2-1-285-github-399375132-96b3ffbc|claude-code-2026-09-29-v2-1-285-github-399375132-96b3ffbc]]'

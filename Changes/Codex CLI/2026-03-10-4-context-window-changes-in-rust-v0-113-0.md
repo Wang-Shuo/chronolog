@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4bc664e158e4d0efb3dc77c851fc528670f134b8ce154c5e6c89e7e94ede6334
+machine_hash: 5c7e69ddf034536239bf8df71426bdc752f4d4ebb4c3f62f5e4af0969c3c809e
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -46,12 +46,12 @@ record:
   title: 4 Context Window changes in rust-v0.113.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-05-3-context-window-changes-in-rust-v0-110-0|3 Context
-  Window changes in rust-v0.110.0]]'
-- '[[Changes/GitHub Copilot CLI/2026-03-05-session-usage-metrics-requests-tokens-code-changes-are-now-persisted-to-events-j|Session
-  usage metrics (requests, tokens, code changes) are now persisted…]]'
+- '[[Changes/Ollama/2026-03-05-add-context-length-to-support-compaction-when-using-ollama-launch|Add
+  context length to support compaction when using ollama launch]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-06-improve-explore-agent-precision-and-large-repository-support-with-better-context|Improve
   explore agent precision and large repository support with better context sharing]]'
+- '[[Changes/Open WebUI/2026-03-08-2-context-window-changes-in-v0-8-9|2 Context Window
+  changes in v0.8.9]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-03-10-rust-v0-113-0-github-294999501-e594ccb6|codex-cli-2026-03-10-rust-v0-113-0-github-294999501-e594ccb6]]'
 source_type: github_releases
 theme: context-window
@@ -99,8 +99,8 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.113.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-03-06 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-06-improve-explore-agent-precision-and-large-repository-support-with-better-context|Improve explore agent precision and large repository support with better context sharing]]
-- Later: 2026-03-11 · Claude Code · [[Changes/Claude Code/2026-03-11-improved-the-remote-control-spawn-mode-selection-prompt-with-better-context|Improved the Remote Control spawn mode selection prompt with better context]]
+- Earlier: 2026-03-08 · Open WebUI · [[Changes/Open WebUI/2026-03-08-2-context-window-changes-in-v0-8-9|2 Context Window changes in v0.8.9]]
+- Later: 2026-03-11 · Claude · [[Changes/Claude/2026-03-11-work-across-excel-and-powerpoint|Work across Excel and PowerPoint]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ef144c2ba1e3c864f3bc8cb89ea0bc8f6dbd2f396af77da28b4d805d6cf74129
+machine_hash: 4b8b0060c9b8ef49e58ab19d0436fb26aa4a2a4b8bff20a769f363a791dc6e24
 product: windsurf
 product_name: Windsurf
 record:
@@ -46,10 +46,10 @@ record:
     now…
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-10-23-in-ide-mode-a-chat-tab-whose-agent-could-not-start-a-session-says-why-and-offers|In
-  IDE mode, a chat tab whose agent could not start a session says why and offers…]]'
-- '[[Changes/Claude Code/2026-10-26-vscode-changed-the-session-list-side-bar-to-load-web-sessions-when-the-web-tab-i|VSCode
-  Changed the session list side bar to load Web sessions when the Web tab…]]'
+- '[[Changes/ElevenLabs/2026-10-26-2-editor-experience-changes-in-elevenlabs-updates-2026-10-26|2
+  Editor Experience changes in ElevenLabs updates — 2026-10-26]]'
+- '[[Changes/Lovable/2026-10-26-scroll-through-all-files-in-the-files-tab|Scroll through
+  all files in the Files tab]]'
 - '[[Changes/Claude Code/2026-10-27-cloud-sessions-added-a-bash-editor-with-colors-line-numbers-and-a-copy-button-to|Cloud
   sessions Added a Bash editor with colors, line numbers and a Copy button…]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-10-28-v3-11-231-6962ae84|windsurf-2026-10-28-v3-11-231-6962ae84]]'

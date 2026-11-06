@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: abc4b32410032915725c35a1d0db604b2950baa630bfdc81173c3bb0edb23052
+machine_hash: 2ca0a92b030f558352c782fd857e9752cbf7b5ed128d7737c68bcade32ae23b7
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -53,10 +53,10 @@ record:
     using…'
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-02-10-test-core-mock-fetch-in-oauth-transport-fallback-tests-by-jw409-in-https-github|test(core):
-  mock fetch in OAuth transport fallback tests]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-11-2-account-and-access-changes-in-v0-0-407|2
   Account and Access changes in v0.0.407]]'
+- '[[Changes/v0/2026-02-11-added-sso-page-for-team-specific-authentication|Added SSO
+  page for team-specific authentication]]'
 - '[[Changes/Cline/2026-02-12-2-account-and-access-changes-in-v3-58-0|2 Account and
   Access changes in v3.58.0]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-02-12-rust-v0-100-0-github-285810603-4852bda6|codex-cli-2026-02-12-rust-v0-100-0-github-285810603-4852bda6]]'
@@ -98,7 +98,7 @@ type: change
 ## Nearby in Account and Access
 
 - Earlier: 2026-02-12 · Cline · [[Changes/Cline/2026-02-12-2-account-and-access-changes-in-v3-58-0|2 Account and Access changes in v3.58.0]]
-- Later: 2026-02-13 · Claude Code · [[Changes/Claude Code/2026-02-13-added-claude-auth-login-claude-auth-status-and-claude-auth-logout-cli-subcommand|Added claude auth login, claude auth status, and claude auth logout CLI subcommands]]
+- Later: 2026-02-12 · Open WebUI · [[Changes/Open WebUI/2026-02-12-6-account-and-access-changes-in-v0-8-0|6 Account and Access changes in v0.8.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

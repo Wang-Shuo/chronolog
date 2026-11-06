@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 7bbd059c93adf046d06293affbfb6d8739054f51e31320a9fea9bba2c11cbe06
+machine_hash: 17fcc7f4f948def994f162dd306471552cdfebfb99cb75fff5354b0959fca39d
 product: cursor
 product_name: Cursor
 record:
@@ -48,8 +48,8 @@ record:
   title: 'AI Previews: this is an experimental new code reading feature'
   type: change
 related_changes:
-- '[[Changes/Aider/2024-01-23-3-editor-experience-changes-in-v0-22-0|3 Editor Experience
-  changes in v0.22.0]]'
+- '[[Changes/Dify/2024-02-01-feat-prompt-ide-support-change-height-by-iamjoel-in-https-github-com-langgenius|feat:
+  prompt IDE support change height]]'
 - '[[Changes/Cursor/2024-02-02-hold-down-cmd-i-over-a-selection-to-heal-the-code-with-gpt-4-useful-for-writing|Cmd-I
   to Heal]]'
 - '[[Changes/Cursor/2024-02-09-copilot-quality-of-life-improvements-show-ghost-text-more-often-toggle-on-off-on|Copilot++

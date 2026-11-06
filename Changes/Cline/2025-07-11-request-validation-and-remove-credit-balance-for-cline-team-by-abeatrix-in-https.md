@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7488d64109f454f6aa24af0dd410c4a61b056aee5ab66cae0c9254279b68e9aa
+machine_hash: a0816c01fd7a011ef12648a319ccb2a26720177048e8df22c800b686049621be
 product: cline
 product_name: Cline
 record:
@@ -41,11 +41,10 @@ record:
   title: Request validation and remove credit balance for cline team
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-06-12-sharing-chats-from-projects|Sharing chats from projects]]'
-- '[[Changes/ChatGPT/2025-06-12-starting-today-we-re-adding-several-updates-to-projects-in-chatgpt-to-help-you-d|Starting
-  today, we’re adding several updates to projects in ChatGPT to help you do…]]'
-- '[[Changes/Cursor/2025-06-12-use-cursor-where-your-team-works-3e7ca8|Use Cursor
-  where your team works]]'
+- "[[Changes/Open WebUI/2025-06-16-global-image-compression-option-effortlessly-set-image-compression-globally-so-a|\U0001F5BC️
+  Global Image Compression Option]]"
+- '[[Changes/Lovable/2025-06-26-spotlight|Spotlight]]'
+- '[[Changes/Replit/2025-07-04-teams-app-store-experience|Teams App Store experience]]'
 source_release: '[[Releases/Cline/cline-2025-07-11-v3-18-12-github-231654662-57423044|cline-2025-07-11-v3-18-12-github-231654662-57423044]]'
 source_type: github_releases
 theme: collaboration
@@ -75,8 +74,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2025-06-12 · Cursor · [[Changes/Cursor/2025-06-12-use-cursor-where-your-team-works-3e7ca8|Use Cursor where your team works]]
-- Later: 2025-07-22 · Cline · [[Changes/Cline/2025-07-22-move-duplicated-code-for-loading-the-protobuf-descriptor-set-into-a-shared-util|Move duplicated code for loading the protobuf descriptor set into a shared util file]]
+- Earlier: 2025-07-04 · Replit · [[Changes/Replit/2025-07-04-teams-app-store-experience|Teams App Store experience]]
+- Later: 2025-07-14 · Open WebUI · [[Changes/Open WebUI/2025-07-14-4-collaboration-changes-in-v0-6-16|4 Collaboration changes in v0.6.16]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

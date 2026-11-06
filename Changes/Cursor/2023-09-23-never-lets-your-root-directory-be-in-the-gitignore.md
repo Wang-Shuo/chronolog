@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4456c3b486e6a303e145c9289317c9a1e41c43a2b11972047d7c8da58d26d73b
+machine_hash: d37d6539d3a46f4799425101d8c89e2296ff822fb4a29c9d40ef6e8b3d7c46b6
 product: cursor
 product_name: Cursor
 record:
@@ -42,12 +42,12 @@ record:
   title: gitignore and search hotfix
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-08-22-applies-the-patch-from-github-across-all-your-wsl-windows-subsystem-for-linux-di|WSL
-  Fixes]]'
-- '[[Changes/Cursor/2023-08-26-we-had-a-big-bug-for-people-on-language-packs-thank-you-to-all-who-helped-us-deb|Bug
-  fix for people on language packs]]'
-- '[[Changes/Cursor/2023-09-05-ships-with-cursor-python-a-language-server-fork-of-pyright-built-for-cursor|Cursor-Python
-  LSP]]'
+- '[[Changes/Dify/2023-09-09-feat-add-visual-studio-code-debug-config-by-garfielddai-in-https-github-com-lang|feat:
+  add visual studio code debug config]]'
+- '[[Changes/Dify/2023-09-10-3-developer-workflow-changes-in-0-3-21|3 Developer Workflow
+  changes in 0.3.21]]'
+- '[[Changes/Ollama/2023-09-22-ollama-will-now-fit-words-in-the-available-width-of-the-terminal-for-better-read|Ollama
+  will now fit words in the available width of the terminal for better readability]]'
 source_release: '[[Releases/Cursor/cursor-2023-09-23-0-11-13-nightly-https-cursor-com-changelog-0-11-13-nightly-14fe1770|cursor-2023-09-23-0-11-13-nightly-https-cursor-com-changelog-0-11-13-nightly-14fe1770]]'
 source_type: cursor_changelog
 theme: developer-workflow
@@ -74,8 +74,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2023-09-05 · Cursor · [[Changes/Cursor/2023-09-05-ships-with-cursor-python-a-language-server-fork-of-pyright-built-for-cursor|Cursor-Python LSP]]
-- Later: 2023-09-30 · Aider · [[Changes/Aider/2023-09-30-2-developer-workflow-changes-in-v0-14-1|2 Developer Workflow changes in v0.14.1]]
+- Earlier: 2023-09-22 · Ollama · [[Changes/Ollama/2023-09-22-ollama-will-now-fit-words-in-the-available-width-of-the-terminal-for-better-read|Ollama will now fit words in the available width of the terminal for better readability]]
+- Later: 2023-09-23 · Ollama · [[Changes/Ollama/2023-09-23-ollama-will-run-on-wsl-2-with-gpu-support|🤖 Ollama will run on WSL 2 with GPU support]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: ee60efefab272597f9401c3fd11f419524af129c45b294fac95d7403ebe731dd
+machine_hash: c42058ba866b2eba5ec228f09c60326fb7741f3ed181c5abf613df5596941353
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,12 +47,11 @@ record:
     all tools)
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-06-04-2-apps-and-integrations-changes-in-custom-stores-custom-tools|2
-  Apps and Integrations changes in Custom stores, custom tools…]]'
-- '[[Changes/GitHub Copilot CLI/2026-06-05-mcp-tools-added-or-removed-by-a-server-mid-turn-are-now-available-immediately-in|MCP
-  tools added or removed by a server mid-turn are now available immediately…]]'
-- '[[Changes/GitHub Copilot CLI/2026-06-05-10-apps-and-integrations-changes-in-v1-0-60|10
-  Apps and Integrations changes in v1.0.60]]'
+- '[[Changes/Ollama/2026-06-05-ollama-launch-omp-now-integrates-with-oh-my-pi-https-omp-sh-an-ai-coding-agent-w|ollama
+  launch omp now integrates with Oh My Pi((source link) an AI coding…]]'
+- '[[Changes/Replit/2026-06-05-build-data-apps-on-microsoft-fabric|Build data apps
+  on Microsoft Fabric]]'
+- '[[Changes/Replit/2026-06-05-integrations|Integrations]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-06-v2-1-166-github-335118845-ef990727|claude-code-2026-06-06-v2-1-166-github-335118845-ef990727]]'
 source_type: github_releases
 theme: apps-integrations
@@ -84,8 +83,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-06-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-05-10-apps-and-integrations-changes-in-v1-0-60|10 Apps and Integrations changes in v1.0.60]]
-- Later: 2026-06-08 · Codex CLI · [[Changes/Codex CLI/2026-06-08-19-apps-and-integrations-changes-in-rust-v0-138-0|19 Apps and Integrations changes in rust-v0.138.0]]
+- Earlier: 2026-06-05 · Replit · [[Changes/Replit/2026-06-05-integrations|Integrations]]
+- Later: 2026-06-07 · Ollama · [[Changes/Ollama/2026-06-07-ollama-launch-now-supports-hermes-desktop-a-native-desktop-interface-for-the-her|Ollama Launch now supports Hermes Desktop, a native desktop interface for the Hermes agent]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

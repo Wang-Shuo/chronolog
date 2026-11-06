@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c0f8c788709aa080c985d055da4c7132243b9ef065311e97941f77052380fb36
+machine_hash: 3cdc865f2c35b47b00849f19f8ac1e814bf370b94b4055ca07d130d58f91bf5c
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -96,7 +96,7 @@ type: change
 ## Nearby in Account and Access
 
 - Earlier: 2026-09-17 · Codex CLI · [[Changes/Codex CLI/2026-09-17-6-account-and-access-changes-in-rust-v0-155-0|6 Account and Access changes in rust-v0.155.0]]
-- Later: 2026-09-22 · Claude Code · [[Changes/Claude Code/2026-09-22-claude-tag-improved-the-github-banner-in-claude-tag-admin-settings-to-say-why-gi|Claude Tag Improved the GitHub banner in Claude Tag admin settings to say why…]]
+- Later: 2026-09-21 · Open WebUI · [[Changes/Open WebUI/2026-09-21-6-account-and-access-changes-in-v0-11-4|6 Account and Access changes in v0.11.4]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5d21f64bc8c06927cca926854e18dbf727ece12d8df05941d9341133c3f7e9fb
+machine_hash: 3a897f56b88d2e39f7e3309b18de8095d0f9cd0216d391712dfbc0b6276ddc4e
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -42,10 +42,10 @@ record:
   title: 2 Mobile and Desktop changes in v0.1.16
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-07-19-though-https-github-com-openai-codex-pull-1590-should-make-it-so-that-on-windows|Though
-  (source link) should make it so that, on Windows…]]'
 - '[[Changes/Gemini CLI/2025-07-25-2-mobile-and-desktop-changes-in-v0-1-14|2 Mobile
   and Desktop changes in v0.1.14]]'
+- '[[Changes/Dify/2025-07-28-windows-pem-keypath-fix-corrected-path-errors-for-private-pem-key-files-on-windo|Windows
+  PEM KeyPath Fix]]'
 - '[[Changes/Gemini CLI/2025-07-30-2-mobile-and-desktop-changes-in-v0-1-15|2 Mobile
   and Desktop changes in v0.1.15]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-08-02-v0-1-16-github-237037864-b4f734b7|gemini-cli-2025-08-02-v0-1-16-github-237037864-b4f734b7]]'

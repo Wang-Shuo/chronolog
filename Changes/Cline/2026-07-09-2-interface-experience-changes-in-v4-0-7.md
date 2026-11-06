@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 44e311b5430feecfe37596d3a16b526c164fe73ae45a14491d4f1bcd4fcc08b9
+machine_hash: 379c7aabe35a3118a7a0be24dc150f0b4622e49520a4a22b4b5829f8bbd878ab
 product: cline
 product_name: Cline
 record:
@@ -44,12 +44,11 @@ record:
   title: 2 Interface Experience changes in v4.0.7
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-07-06-feat-jira-dc-email-mode-auto-link-targeted-repo-lookup-and-picker-mentions-by-ak|feat(jira-dc):
-  email-mode auto-link, targeted repo lookup, and picker mentions]]'
-- '[[Changes/Claude Code/2026-07-07-removed-a-redundant-navigation-hint-from-the-claude-agents-footer|Removed
-  a redundant navigation hint from the claude agents footer]]'
-- '[[Changes/GitHub Copilot CLI/2026-07-07-5-interface-experience-changes-in-v1-0-69|5
-  Interface Experience changes in v1.0.69]]'
+- '[[Changes/v0/2026-07-07-3-interface-experience-changes-in-grouped-tool-approvals-richer-mcp|3
+  Interface Experience changes in Grouped tool approvals, richer MCP…]]'
+- '[[Changes/Lovable/2026-07-08-search-your-settings|Search your settings]]'
+- '[[Changes/Lovable/2026-07-08-resize-your-cloud-instance-from-chat|Resize your Cloud
+  instance from chat]]'
 source_release: '[[Releases/Cline/cline-2026-07-09-v4-0-7-github-351278875-29c28c0c|cline-2026-07-09-v4-0-7-github-351278875-29c28c0c]]'
 source_type: github_releases
 theme: interface-experience
@@ -84,7 +83,7 @@ Source: https://github.com/cline/cline/releases/tag/v4.0.7
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-07-07 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-07-5-interface-experience-changes-in-v1-0-69|5 Interface Experience changes in v1.0.69]]
+- Earlier: 2026-07-08 · Lovable · [[Changes/Lovable/2026-07-08-resize-your-cloud-instance-from-chat|Resize your Cloud instance from chat]]
 - Later: 2026-07-09 · Codex CLI · [[Changes/Codex CLI/2026-07-09-3-interface-experience-changes-in-rust-v0-144-0|3 Interface Experience changes in rust-v0.144.0]]
 <!-- chronolog:end -->
 

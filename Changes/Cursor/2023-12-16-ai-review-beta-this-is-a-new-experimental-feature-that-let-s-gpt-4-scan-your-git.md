@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: f679330268c4ef6511b95267904f15ad799cdb9e24bff7c9acd1e90519d4d56e
+machine_hash: a338d1a4e24040257a88e8b2e68e770f49b503c2f5042bdcadb207b04d98a655
 product: cursor
 product_name: Cursor
 record:
@@ -57,12 +57,12 @@ record:
   title: AI Review (beta)
   type: change
 related_changes:
-- '[[Changes/Aider/2023-11-07-2-model-support-changes-in-v0-17-0|2 Model Support changes
-  in v0.17.0]]'
-- '[[Changes/Cursor/2023-11-10-new-models-you-can-plug-in-your-api-key-to-try-out-the-newest-gpt-4-and-gpt-3-tu|New
-  models: you can plug in your API key to try out the newest gpt-4 and gpt-3 turbo…]]'
-- '[[Changes/Aider/2023-11-17-3-model-support-changes-in-v0-18-0|3 Model Support changes
-  in v0.18.0]]'
+- '[[Changes/Ollama/2023-12-08-2-model-support-changes-in-v0-1-14|2 Model Support
+  changes in v0.1.14]]'
+- '[[Changes/Ollama/2023-12-12-2-model-support-changes-in-v0-1-15|2 Model Support
+  changes in v0.1.15]]'
+- '[[Changes/Ollama/2023-12-14-3-model-support-changes-in-v0-1-16|3 Model Support
+  changes in v0.1.16]]'
 source_release: '[[Releases/Cursor/cursor-2023-12-16-0-20-0-https-cursor-com-changelog-0-20-0-fecb080e|cursor-2023-12-16-0-20-0-https-cursor-com-changelog-0-20-0-fecb080e]]'
 source_type: cursor_changelog
 theme: model-support
@@ -93,8 +93,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2023-11-17 · Aider · [[Changes/Aider/2023-11-17-3-model-support-changes-in-v0-18-0|3 Model Support changes in v0.18.0]]
-- Later: 2023-12-20 · Aider · [[Changes/Aider/2023-12-20-3-model-support-changes-in-v0-19-0|3 Model Support changes in v0.19.0]]
+- Earlier: 2023-12-14 · Ollama · [[Changes/Ollama/2023-12-14-3-model-support-changes-in-v0-1-16|3 Model Support changes in v0.1.16]]
+- Later: 2023-12-19 · Dify · [[Changes/Dify/2023-12-19-2-model-support-changes-in-0-3-34|2 Model Support changes in 0.3.34]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

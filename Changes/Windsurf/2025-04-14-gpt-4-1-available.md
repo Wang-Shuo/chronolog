@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 5eb3ea64fdc8e77d37d52bdcfce91430a339fd8ac64874e07b91f0c0472ff5a3
+machine_hash: ed36bc4747980fe9bea14a8de15e89a632e4e1e982afc60ae4a6d382c787a3b5
 product: windsurf
 product_name: Windsurf
 record:
@@ -41,8 +41,8 @@ record:
   title: GPT 4.1 Available
   type: change
 related_changes:
-- '[[Changes/Cline/2025-04-12-2-model-support-changes-in-v3-12-0|2 Model Support changes
-  in v3.12.0]]'
+- '[[Changes/Open WebUI/2025-04-13-2-model-support-changes-in-v0-6-3|2 Model Support
+  changes in v0.6.3]]'
 - '[[Changes/Aider/2025-04-14-6-model-support-changes-in-v0-82-0|6 Model Support changes
   in v0.82.0]]'
 - '[[Changes/Cline/2025-04-14-add-gpt-4-1-by-saoudrizwan-in-https-github-com-cline-cline-pull-2880|Add

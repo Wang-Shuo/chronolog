@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 2bb9c53e0f7891f3fa86f749e1312529200c1b661016d51b0ddfa3104e6435d6
+machine_hash: fa80b8470a7706e7ce50081038dc40a1874b48be942a2bd271ad6e9f2910e12e
 product: cursor
 product_name: Cursor
 record:
@@ -49,10 +49,9 @@ record:
   title: Tiled layout
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-04-10-13-agent-mode-changes-in-rust-v0-119-0|13 Agent
-  Mode changes in rust-v0.119.0]]'
-- '[[Changes/GitHub Copilot CLI/2026-04-10-add-mode-autopilot-and-plan-flags-to-start-the-cli-directly-in-a-specific-agent|Add
-  --mode, --autopilot, and --plan flags to start the CLI directly in a specific…]]'
+- '[[Changes/Replit/2026-04-10-agent|Agent]]'
+- '[[Changes/Replit/2026-04-10-recreate-any-ui-from-a-screenshot|Recreate any UI from
+  a screenshot]]'
 - '[[Changes/Codex CLI/2026-04-11-4-agent-mode-changes-in-rust-v0-120-0|4 Agent Mode
   changes in rust-v0.120.0]]'
 source_release: '[[Releases/Cursor/cursor-2026-04-13-3-1-https-cursor-com-changelog-3-1-27a51313|cursor-2026-04-13-3-1-https-cursor-com-changelog-3-1-27a51313]]'
@@ -96,7 +95,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-04-11 · Codex CLI · [[Changes/Codex CLI/2026-04-11-4-agent-mode-changes-in-rust-v0-120-0|4 Agent Mode changes in rust-v0.120.0]]
-- Later: 2026-04-14 · Cursor · [[Changes/Cursor/2026-04-14-ask-a-quick-side-question-without-derailing-the-agent-s-main-task-btw-allows-you|/btw support in CLI]]
+- Later: 2026-04-13 · ElevenLabs · [[Changes/ElevenLabs/2026-04-13-elevenagents|ElevenAgents]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

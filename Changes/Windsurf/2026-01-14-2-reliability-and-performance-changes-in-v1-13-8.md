@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2112ff9845d76e45bfdf409cccbee8ecb01f100dbea3b6d0c10763e9d0746979
+machine_hash: 097170f9f27f6ca60f5bf3695c8fb4daa2292a3a8fc1692a5bd7d165ce06f280
 product: windsurf
 product_name: Windsurf
 record:
@@ -42,12 +42,12 @@ record:
   title: 2 Reliability and Performance changes in v1.13.8
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-01-13-sessions-with-large-conversation-history-load-faster-on-startup|Sessions
-  with large conversation history load faster on startup]]'
-- '[[Changes/Windsurf/2026-01-13-2-reliability-and-performance-changes-in-v1-13-6|2
-  Reliability and Performance changes in v1.13.6]]'
 - '[[Changes/Claude Code/2026-01-14-improved-typing-responsiveness-by-reducing-memory-allocation-overhead-in-termina|Improved
   typing responsiveness by reducing memory allocation overhead in terminal…]]'
+- '[[Changes/v0/2026-01-14-improved-chat-performance-and-responsiveness|Improved chat
+  performance and responsiveness]]'
+- '[[Changes/v0/2026-01-14-improved-front-end-performance-across-the-application|Improved
+  front-end performance across the application]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-01-14-v1-13-8-54ec1e09|windsurf-2026-01-14-v1-13-8-54ec1e09]]'
 source_type: windsurf_changelog
 theme: reliability-performance
@@ -82,7 +82,7 @@ Source: https://docs.devin.ai/desktop/changelog#v1-13-8
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-01-14 · Claude Code · [[Changes/Claude Code/2026-01-14-improved-typing-responsiveness-by-reducing-memory-allocation-overhead-in-termina|Improved typing responsiveness by reducing memory allocation overhead in terminal…]]
-- Later: 2026-01-16 · Cursor · [[Changes/Cursor/2026-01-16-faster-message-queueing-and-ux|Faster message queueing and UX]]
+- Later: 2026-01-14 · v0 · [[Changes/v0/2026-01-14-improved-chat-performance-and-responsiveness|Improved chat performance and responsiveness]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

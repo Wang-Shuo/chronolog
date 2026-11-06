@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ab50cb591109f6773deffe1d080715e5dd9f94f17294cf152f78ae35d5d2d759
+machine_hash: f09040b767f771f96b71377e45d56f074c598e7ec56869cc9973d3e02ef51401
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -53,8 +53,9 @@ record:
   title: 5 Model Support changes in v0.37.0
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-04-06-adaptive-model-router|Adaptive Model Router]]'
 - '[[Changes/Windsurf/2026-04-06-introducing-adaptive|Introducing Adaptive]]'
+- '[[Changes/Ollama/2026-04-07-added-latest-models-to-ollama-app|Added latest models
+  to Ollama App]]'
 - '[[Changes/Windsurf/2026-04-07-adaptive-model-visibility|Adaptive Model Visibility]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-04-08-v0-37-0-github-306699346-f88de07d|gemini-cli-2026-04-08-v0-37-0-github-306699346-f88de07d]]'
 source_type: github_releases

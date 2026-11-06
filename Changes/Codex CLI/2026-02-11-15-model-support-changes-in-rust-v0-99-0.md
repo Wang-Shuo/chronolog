@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8c8d93801b95189f2212003cb270529627a0efd86aa444eafc6ab530997a1426
+machine_hash: 72796f189758c2cab09d4b65c7a1b4698808dfed7feeadb2e807a72d03fc58b6
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -70,8 +70,7 @@ record:
   title: 15 Model Support changes in rust-v0.99.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-02-07-add-support-for-claude-opus-4-6-fast-preview|Add
-  support for Claude Opus 4.6 Fast (Preview)]]'
+- '[[Changes/ElevenLabs/2026-02-09-python-sdk|Python SDK]]'
 - '[[Changes/ChatGPT/2026-02-10-we-re-making-an-update-to-gpt-5-2-instant-in-chatgpt-and-the-api-that-improves-r|GPT-5.2
   Instant Update]]'
 - '[[Changes/Gemini CLI/2026-02-10-docs-document-gemini-cli-home-environment-variable-by-adamfweidman-in-https-gith|docs:
@@ -149,7 +148,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.99.0
 ## Nearby in Model Support
 
 - Earlier: 2026-02-10 · Gemini CLI · [[Changes/Gemini CLI/2026-02-10-docs-document-gemini-cli-home-environment-variable-by-adamfweidman-in-https-gith|docs: document GEMINI_CLI_HOME environment variable]]
-- Later: 2026-02-11 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-11-2-model-support-changes-in-v0-0-407|2 Model Support changes in v0.0.407]]
+- Later: 2026-02-11 · Dify · [[Changes/Dify/2026-02-11-2-model-support-changes-in-1-13-0|2 Model Support changes in 1.13.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

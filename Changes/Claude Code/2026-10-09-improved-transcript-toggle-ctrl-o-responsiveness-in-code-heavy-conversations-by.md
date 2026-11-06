@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: cb7c2a84f3b54f7f4b43eba6ce16a7d81309417246957b6006b6ab5783749735
+machine_hash: 45998a3077916a9c9f118c129d8906e3fa4528aacce4e79d4aa0fbdcabe64aeb
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,12 +42,11 @@ record:
   title: Improved transcript toggle (ctrl+o) responsiveness in code-heavy conversations…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-05-2-reliability-and-performance-changes-in-v2-1-290|2
-  Reliability and Performance changes in v2.1.290]]'
-- '[[Changes/Claude Code/2026-10-06-improved-rendering-speed-of-long-bulleted-or-numbered-replies-they-stream-resize|Improved
-  rendering speed of long bulleted or numbered replies]]'
+- '[[Changes/Lovable/2026-10-07-faster-inline-text-edits|Faster inline text edits]]'
 - '[[Changes/Codex CLI/2026-10-08-3-reliability-and-performance-changes-in-rust-v0-162-0|3
   Reliability and Performance changes in rust-v0.162.0]]'
+- '[[Changes/Ollama/2026-10-08-models-downloaded-with-earlier-versions-of-ollama-are-upgraded-in-the-background|Models
+  downloaded with earlier versions of Ollama are upgraded in the background…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-09-v2-1-296-github-408141042-fd950e7a|claude-code-2026-10-09-v2-1-296-github-408141042-fd950e7a]]'
 source_type: github_releases
 theme: reliability-performance
@@ -86,8 +85,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-10-08 · Codex CLI · [[Changes/Codex CLI/2026-10-08-3-reliability-and-performance-changes-in-rust-v0-162-0|3 Reliability and Performance changes in rust-v0.162.0]]
-- Later: 2026-10-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-13-emergency-memory-relief-in-long-sessions-can-now-bypass-its-cooldown-before-v8-a|Emergency memory relief in long sessions can now bypass its cooldown before V8…]]
+- Earlier: 2026-10-08 · Ollama · [[Changes/Ollama/2026-10-08-models-downloaded-with-earlier-versions-of-ollama-are-upgraded-in-the-background|Models downloaded with earlier versions of Ollama are upgraded in the background…]]
+- Later: 2026-10-10 · Open WebUI · [[Changes/Open WebUI/2026-10-10-5-reliability-and-performance-changes-in-v0-12-0|5 Reliability and Performance changes in v0.12.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

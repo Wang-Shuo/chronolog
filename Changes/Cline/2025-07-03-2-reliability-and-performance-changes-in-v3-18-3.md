@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c0b29d6cfd6303551ff8670722d4b89e93b8cbc6c739cf3f9b2eea476e37a207
+machine_hash: 90e236f6a3400885e91f49e5f15f1a4546c1c1b12afd15345ae8e69448f93161
 product: cline
 product_name: Cline
 record:
@@ -45,12 +45,12 @@ record:
   title: 2 Reliability and Performance changes in v3.18.3
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-06-24-enabled-users-to-provide-feedback-on-agent-performance-even-when-the-agent-encou|Enabled
-  users to provide feedback on agent performance even when the agent…]]'
-- '[[Changes/Cline/2025-06-26-optimized-cline-to-work-with-the-claude-4-family-of-models-resulting-in-improved|Optimized
-  Cline to work with the Claude 4 family of models, resulting in improved…]]'
-- '[[Changes/Aider/2025-06-27-3-reliability-and-performance-changes-in-v0-85-0|3 Reliability
-  and Performance changes in v0.85.0]]'
+- '[[Changes/Ollama/2025-06-27-the-macos-app-is-now-a-native-application-and-starts-much-faster-while-requiring|The
+  macOS app is now a native application and starts much faster while requiring…]]'
+- '[[Changes/Dify/2025-07-02-langfuse-trace-readability-enhanced-the-clarity-of-langfuse-traces-making-debugg|Langfuse
+  Trace Readability]]'
+- '[[Changes/Ollama/2025-07-02-the-macos-app-is-now-a-native-application-and-starts-much-faster-while-requiring|The
+  macOS app is now a native application and starts much faster while requiring…]]'
 source_release: '[[Releases/Cline/cline-2025-07-03-v3-18-3-github-229894586-ddc09aca|cline-2025-07-03-v3-18-3-github-229894586-ddc09aca]]'
 source_type: github_releases
 theme: reliability-performance
@@ -81,7 +81,7 @@ Source: https://github.com/cline/cline/releases/tag/v3.18.3
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-06-27 · Aider · [[Changes/Aider/2025-06-27-3-reliability-and-performance-changes-in-v0-85-0|3 Reliability and Performance changes in v0.85.0]]
+- Earlier: 2025-07-02 · Ollama · [[Changes/Ollama/2025-07-02-the-macos-app-is-now-a-native-application-and-starts-much-faster-while-requiring|The macOS app is now a native application and starts much faster while requiring…]]
 - Later: 2025-07-03 · Cursor · [[Changes/Cursor/2025-07-03-faster-tab|Faster Tab]]
 <!-- chronolog:end -->
 

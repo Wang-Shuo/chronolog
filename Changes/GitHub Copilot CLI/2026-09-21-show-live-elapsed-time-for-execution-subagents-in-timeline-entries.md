@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: da32eb946a7bcfec4b47b0b8297a5b5acb71716905bad61180e6c20e6420a5a7
+machine_hash: 8a154f7f0d72fbb744a336f5657a91ae3650872d71ed8dfea2327c050dbaf926
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -41,12 +41,10 @@ record:
   title: Show live elapsed time for execution subagents in timeline entries
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-09-17-2-agent-mode-changes-in-v1-20-0|2 Agent Mode changes
-  in v1.20.0]]'
-- '[[Changes/Claude Code/2026-09-18-4-agent-mode-changes-in-v2-1-277|4 Agent Mode
-  changes in v2.1.277]]'
 - '[[Changes/Claude Code/2026-09-19-added-an-auto-mode-server-row-to-status-showing-whether-this-session-s-auto-mode|Added
   an Auto mode server row to /status showing whether this session''s auto…]]'
+- '[[Changes/ElevenLabs/2026-09-21-elevenagents|ElevenAgents]]'
+- '[[Changes/ElevenLabs/2026-09-21-elevenagents-d15bdd|ElevenAgents]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-09-21-v1-0-87-github-393077593-9fe949ec|github-copilot-cli-2026-09-21-v1-0-87-github-393077593-9fe949ec]]'
 source_type: github_releases
 theme: agent-mode
@@ -83,8 +81,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-09-19 · Claude Code · [[Changes/Claude Code/2026-09-19-added-an-auto-mode-server-row-to-status-showing-whether-this-session-s-auto-mode|Added an Auto mode server row to /status showing whether this session's auto…]]
-- Later: 2026-09-22 · Claude Code · [[Changes/Claude Code/2026-09-22-2-agent-mode-changes-in-v2-1-280|2 Agent Mode changes in v2.1.280]]
+- Earlier: 2026-09-21 · ElevenLabs · [[Changes/ElevenLabs/2026-09-21-elevenagents-d15bdd|ElevenAgents]]
+- Later: 2026-09-21 · Lovable · [[Changes/Lovable/2026-09-21-manage-agent-permissions-from-your-account-settings|Manage agent permissions from your account settings]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

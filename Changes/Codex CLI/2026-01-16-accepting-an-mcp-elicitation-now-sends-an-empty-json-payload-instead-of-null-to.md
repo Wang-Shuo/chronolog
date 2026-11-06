@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 904623cb37bbd0c4b36bf69297cdc3d3ca24f8a144c9d3a077968a9cdce079e1
+machine_hash: 0a64263b49861976440198af1e4169be09bca3337e0794aac22fa8fc1f845119
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,12 +42,12 @@ record:
   title: Accepting an MCP elicitation now sends an empty JSON payload instead of null…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-01-14-10-apps-and-integrations-changes-in-rust-v0-81-0|10
-  Apps and Integrations changes in rust-v0.81.0]]'
 - '[[Changes/Gemini CLI/2026-01-14-9-apps-and-integrations-changes-in-v0-24-0|9 Apps
   and Integrations changes in v0.24.0]]'
 - '[[Changes/Codex CLI/2026-01-15-9207-propagate-mcp-disabled-reason-gt-oai|♯9207
   Propagate MCP disabled reason @gt-oai]]'
+- '[[Changes/Dify/2026-01-15-4-apps-and-integrations-changes-in-1-11-4|4 Apps and
+  Integrations changes in 1.11.4]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-01-16-rust-v0-86-0-github-277242575-5861dc84|codex-cli-2026-01-16-rust-v0-86-0-github-277242575-5861dc84]]'
 source_type: github_releases
 theme: apps-integrations
@@ -78,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-01-15 · Codex CLI · [[Changes/Codex CLI/2026-01-15-9207-propagate-mcp-disabled-reason-gt-oai|♯9207 Propagate MCP disabled reason @gt-oai]]
+- Earlier: 2026-01-15 · Dify · [[Changes/Dify/2026-01-15-4-apps-and-integrations-changes-in-1-11-4|4 Apps and Integrations changes in 1.11.4]]
 - Later: 2026-01-16 · Codex CLI · [[Changes/Codex CLI/2026-01-16-3-apps-and-integrations-changes-in-rust-v0-87-0|3 Apps and Integrations changes in rust-v0.87.0]]
 <!-- chronolog:end -->
 

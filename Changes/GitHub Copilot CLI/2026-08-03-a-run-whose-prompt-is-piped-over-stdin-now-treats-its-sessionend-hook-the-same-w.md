@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: b027418fbce19dc05756b49fe2593555dfbee266d62dfb097fb6ce982a5402f6
+machine_hash: 8e901d11a09a5f9cc06d6413ebf51aff7df24184d7b79602dbf931f48e704d46
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -52,12 +52,9 @@ record:
     same way…
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-07-29-feat-always-show-the-llm-selector-move-agent-profile-switching-to-the-tools-menu|feat:
-  always show the LLM selector; move agent-profile switching to the tools menu]]'
-- '[[Changes/GitHub Copilot CLI/2026-07-30-2-agent-mode-changes-in-v1-0-76|2 Agent
-  Mode changes in v1.0.76]]'
-- '[[Changes/OpenHands/2026-07-30-docs-refresh-agents-md-guidance-by-all-hands-bot-in-https-github-com-openhands-o|docs:
-  refresh AGENTS.md guidance]]'
+- '[[Changes/Replit/2026-07-31-agent|Agent]]'
+- '[[Changes/ElevenLabs/2026-08-03-elevenagents|ElevenAgents]]'
+- '[[Changes/ElevenLabs/2026-08-03-packages|Packages]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-08-03-v1-0-78-github-364543196-53a079bc|github-copilot-cli-2026-08-03-v1-0-78-github-364543196-53a079bc]]'
 source_type: github_releases
 theme: agent-mode
@@ -95,7 +92,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-07-30 · OpenHands · [[Changes/OpenHands/2026-07-30-docs-refresh-agents-md-guidance-by-all-hands-bot-in-https-github-com-openhands-o|docs: refresh AGENTS.md guidance]]
+- Earlier: 2026-08-03 · ElevenLabs · [[Changes/ElevenLabs/2026-08-03-packages|Packages]]
 - Later: 2026-08-03 · OpenHands · [[Changes/OpenHands/2026-08-03-3-agent-mode-changes-in-v1-9-0|3 Agent Mode changes in v1.9.0]]
 <!-- chronolog:end -->
 

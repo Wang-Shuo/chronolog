@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: dce0fcfb7ccd1226172b8ff8b033519ddc45ab17a7492b482d66b1e1792967b5
+machine_hash: 024dcc6516c4f511b3895ae8b873c72c2a9c2b49f7e928814d56dd636970710e
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -58,8 +58,7 @@ record:
   title: Add experimental MCP Tasks support
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-01-3-agent-mode-changes-in-v1-0-40|3 Agent
-  Mode changes in v1.0.40]]'
+- '[[Changes/Replit/2026-05-01-agent|Agent]]'
 - '[[Changes/Claude Code/2026-05-04-auto-mode-when-the-classifier-can-t-evaluate-an-action-the-error-now-includes-a|Auto
   mode: when the classifier can''t evaluate an action, the error now includes…]]'
 - '[[Changes/Gemini CLI/2026-05-05-feat-core-enhance-shell-command-validation-and-add-core-tools-allowlist-by-galz1|feat(core):

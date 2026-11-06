@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: fix
-machine_hash: bb45cac7cf854360e96eec422cb20c556748bcc05f87493bdf655e2376c3c275
+machine_hash: 8a32e4a8184c76787b01c55dd778024f1e4491029d760bb191ea111dde6ded9e
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,8 @@ record:
     in v2.1.141)
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-15-3-safety-and-privacy-changes-in-v2-1-143|3 Safety
-  and Privacy changes in v2.1.143]]'
-- '[[Changes/Codex CLI/2026-05-18-17-safety-and-privacy-changes-in-rust-v0-131-0|17
-  Safety and Privacy changes in rust-v0.131.0]]'
+- '[[Changes/Lovable/2026-05-18-wiz-security-scanning|Wiz security scanning]]'
+- '[[Changes/Lovable/2026-05-18-admin-and-security-updates|Admin and security updates]]'
 - '[[Changes/Claude Code/2026-05-19-fixed-a-permission-prompt-bypass-where-bare-variable-assignments-to-non-allowlis|Fixed
   a permission-prompt bypass where bare variable assignments to non-allowlisted…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-19-v2-1-144-github-324524751-1469637a|claude-code-2026-05-19-v2-1-144-github-324524751-1469637a]]'
@@ -91,7 +89,7 @@ type: change
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-05-19 · Claude Code · [[Changes/Claude Code/2026-05-19-fixed-a-permission-prompt-bypass-where-bare-variable-assignments-to-non-allowlis|Fixed a permission-prompt bypass where bare variable assignments to non-allowlisted…]]
-- Later: 2026-05-19 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-19-memory-permission-prompts-now-name-who-can-see-a-stored-memory-user-scope-or-the|Memory permission prompts now name who can see a stored memory]]
+- Later: 2026-05-19 · Dify · [[Changes/Dify/2026-05-19-2-safety-and-privacy-changes-in-1-14-2|2 Safety and Privacy changes in 1.14.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

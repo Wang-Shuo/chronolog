@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 430efa0dc5d22193f52234cdd57d7eda84d600ead8e3a643aaeef15dd2a7f7f3
+machine_hash: 6cdd62260844888430fadbc2bf95512647b16b3dd3a697a0b164eddbafcebfc8
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -44,11 +44,12 @@ record:
   title: "feat: launch Gemini 3 in Gemini CLI \U0001F680\U0001F680\U0001F680"
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2025-11-14-recovery-release-to-fix-availability-of-gpt-5-1-gpt-5-1-codex-and-gpt-5-1-codex|Recovery
-  release to fix availability of GPT-5.1, GPT-5.1-Codex…]]'
-- '[[Changes/Windsurf/2025-11-14-gpt-5-1-priority-mode|GPT-5.1 Priority Mode]]'
 - '[[Changes/Cline/2025-11-18-6-model-support-changes-in-v3-38-0|6 Model Support changes
   in v3.38.0]]'
+- '[[Changes/Gemini/2025-11-18-gemini-3-our-most-intelligent-model-yet-is-available-to-everyone-in-the-app|Gemini
+  3, our most intelligent model yet, is available to everyone in the app]]'
+- '[[Changes/Gemini/2025-11-18-introducing-visual-layout-and-dynamic-view-in-gemini-labs|Introducing
+  visual layout and dynamic view in Gemini Labs]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-11-18-v0-16-0-github-263350765-93dd58d3|gemini-cli-2025-11-18-v0-16-0-github-263350765-93dd58d3]]'
 source_type: github_releases
 theme: model-support
@@ -75,7 +76,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-11-18 · Cline · [[Changes/Cline/2025-11-18-6-model-support-changes-in-v3-38-0|6 Model Support changes in v3.38.0]]
+- Earlier: 2025-11-18 · Gemini · [[Changes/Gemini/2025-11-18-introducing-visual-layout-and-dynamic-view-in-gemini-labs|Introducing visual layout and dynamic view in Gemini Labs]]
 - Later: 2025-11-18 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-11-18-gemini-3-pro-is-now-available-in-github-copilot-cli|Gemini 3 Pro is now available in GitHub Copilot CLI]]
 <!-- chronolog:end -->
 

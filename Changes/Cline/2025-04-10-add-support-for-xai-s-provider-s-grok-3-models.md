@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 54ed8c45ee3e76cb219cf5637edff52079b1bf946cd5480af2e8ddcdefc961b5
+machine_hash: acfce9f5b9bdaea768fc7c70f26a286bb42057ceae1302663239f8ded5283319
 product: cline
 product_name: Cline
 record:
@@ -42,10 +42,10 @@ record:
   title: Add support for xAI's provider's Grok 3 models
   type: change
 related_changes:
-- '[[Changes/Cline/2025-04-04-add-gemini-2-5-pro-preview-03-25-to-google-provider|Add
-  Gemini 2.5 Pro Preview 03-25 to Google Provider]]'
-- '[[Changes/Cline/2025-04-06-add-recommended-models-for-cline-provider|Add recommended
-  models for Cline provider]]'
+- "[[Changes/Open WebUI/2025-04-07-accurate-tool-descriptions-from-openapi-servers-external-tools-now-use-full-endp|\U0001F6E0️
+  Accurate Tool Descriptions from OpenAPI Servers]]"
+- '[[Changes/Dify/2025-04-09-6-model-support-changes-in-1-2-0|6 Model Support changes
+  in 1.2.0]]'
 - '[[Changes/ChatGPT/2025-04-10-effective-april-30-2025-gpt-4-will-be-retired-from-chatgpt-and-fully-replaced-by-d03b3b|Sunsetting
   GPT‑4 in ChatGPT]]'
 source_release: '[[Releases/Cline/cline-2025-04-10-v3-11-0-github-211490526-e01be860|cline-2025-04-10-v3-11-0-github-211490526-e01be860]]'

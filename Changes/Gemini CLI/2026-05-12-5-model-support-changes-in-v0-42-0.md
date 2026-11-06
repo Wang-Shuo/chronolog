@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f7e17723add0d584f44f384e83159aada451b4b4171033609037bfe30f1b03be
+machine_hash: 13c90a0a769037659327ce9eb2430851b9a4a09c5f4e7ebb7efda7f423d18052
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -51,12 +51,12 @@ record:
   title: 5 Model Support changes in v0.42.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-11-compaction-prompt-now-asks-the-model-to-preserve-sensitive-user-instructions|Compaction
-  prompt now asks the model to preserve sensitive user instructions]]'
 - '[[Changes/Cursor/2026-05-11-high-bugbot-spends-more-time-reasoning-reviews-are-more-expensive-and-take-longe|High:
   Bugbot spends more time reasoning]]'
 - '[[Changes/Cursor/2026-05-11-custom-describe-in-natural-language-when-bugbot-should-use-default-or-high-effor|Custom:
   Describe in natural language when Bugbot should use default or high effort]]'
+- '[[Changes/Dify/2026-05-12-2-model-support-changes-in-1-14-1|2 Model Support changes
+  in 1.14.1]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-05-12-v0-42-0-github-321461714-faa5f8a3|gemini-cli-2026-05-12-v0-42-0-github-321461714-faa5f8a3]]'
 source_type: github_releases
 theme: model-support
@@ -103,7 +103,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.42.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-05-11 · Cursor · [[Changes/Cursor/2026-05-11-custom-describe-in-natural-language-when-bugbot-should-use-default-or-high-effor|Custom: Describe in natural language when Bugbot should use default or high effort]]
+- Earlier: 2026-05-12 · Dify · [[Changes/Dify/2026-05-12-2-model-support-changes-in-1-14-1|2 Model Support changes in 1.14.1]]
 - Later: 2026-05-12 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-12-display-a-warning-when-the-cli-version-is-deprecated-and-premium-model-access-ma|Display a warning when the CLI version is deprecated and premium model access may be lost]]
 <!-- chronolog:end -->
 

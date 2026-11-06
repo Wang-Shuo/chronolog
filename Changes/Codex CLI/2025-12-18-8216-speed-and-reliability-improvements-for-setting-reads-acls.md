@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7ccdcab0072beea91ee8cd15deee44b8887ea7dcc8c1e8dd1e06c9216fa5a5de
+machine_hash: c1054cd94e02d1210b0860c246ff7735126ec1255bdcd984cd6c799541276ac0
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -41,10 +41,10 @@ record:
   title: '#8216 speed and reliability improvements for setting reads ACLs'
   type: change
 related_changes:
-- '[[Changes/Windsurf/2025-12-10-general-stability-and-performance-improvements|General
-  stability and performance improvements]]'
-- '[[Changes/Windsurf/2025-12-11-2-reliability-and-performance-changes-in-v1-12-43|2
-  Reliability and Performance changes in v1.12.43]]'
+- '[[Changes/Dify/2025-12-12-3-reliability-and-performance-changes-in-1-11-1|3 Reliability
+  and Performance changes in 1.11.1]]'
+- '[[Changes/v0/2025-12-12-v0-pro-superior-performance-for-most-tasks|v0 Pro : Superior
+  performance for most tasks]]'
 - '[[Changes/Cline/2025-12-17-improved-whatsnew-modal-responsiveness-and-cleaned-up-redundant-ui-elements|Improved
   WhatsNew modal responsiveness and cleaned up redundant UI elements]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-12-18-rust-v0-74-0-github-271533952-972d825a|codex-cli-2025-12-18-rust-v0-74-0-github-271533952-972d825a]]'

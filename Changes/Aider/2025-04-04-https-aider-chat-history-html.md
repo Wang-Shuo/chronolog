@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0b0aab817352c591c60eb99ea3cf271748c34ba1d1d57a8a20061bf30ffa8a95
+machine_hash: 21ca0954c8f5ddff052d3cbf64eefbdc88a973ed38eb00f64efd7dc7a0c1ab10
 product: aider
 product_name: Aider
 record:
@@ -41,11 +41,12 @@ record:
   title: https://aider.chat/HISTORY.html
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-03-23-new-onboarding|New onboarding]]'
-- '[[Changes/Cursor/2025-03-23-2-interface-experience-changes-in-0-48-x|2 Interface
-  Experience changes in 0.48.x]]'
+- '[[Changes/Dify/2025-03-24-ui-ux-fixes-addressed-various-style-and-interaction-issues-like-sidebar-width-on|UI/UX
+  Fixes: Addressed various style and interaction issues, like sidebar width…]]'
 - '[[Changes/Aider/2025-03-31-2-interface-experience-changes-in-v0-80-0|2 Interface
   Experience changes in v0.80.0]]'
+- '[[Changes/Open WebUI/2025-04-01-3-interface-experience-changes-in-v0-6-0|3 Interface
+  Experience changes in v0.6.0]]'
 source_release: '[[Releases/Aider/aider-2025-04-04-v0-81-0-github-210314163-f0912302|aider-2025-04-04-v0-81-0-github-210314163-f0912302]]'
 source_type: github_releases
 theme: interface-experience
@@ -77,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2025-03-31 · Aider · [[Changes/Aider/2025-03-31-2-interface-experience-changes-in-v0-80-0|2 Interface Experience changes in v0.80.0]]
+- Earlier: 2025-04-01 · Open WebUI · [[Changes/Open WebUI/2025-04-01-3-interface-experience-changes-in-v0-6-0|3 Interface Experience changes in v0.6.0]]
 - Later: 2025-04-09 · Cline · [[Changes/Cline/2025-04-09-add-cmd-keyboard-shortcut-to-add-selected-text-to-cline|Add CMD+' keyboard shortcut to add selected text to Cline]]
 <!-- chronolog:end -->
 

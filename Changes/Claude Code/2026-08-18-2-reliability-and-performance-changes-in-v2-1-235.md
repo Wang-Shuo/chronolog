@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 24c40326c1699f042db85a6d2cac0509465a5422888ad5b87eace35fb05c07d9
+machine_hash: fcac1f3240768d7a426937e44889dbb167daeaae14d2f1134dbca1333f14e226
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,11 +47,11 @@ record:
   title: 2 Reliability and Performance changes in v2.1.235
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-10-improved-performance-fewer-event-loop-stalls-on-file-not-found-suggestions-and-a|Improved
-  performance: fewer event-loop stalls on file-not-found suggestions…]]'
 - '[[Changes/Cursor/2026-08-13-faster-starts|Faster starts]]'
 - '[[Changes/Claude Code/2026-08-14-added-opt-in-memory-cgroup-support-for-bash-tool-commands-on-linux-claude-code-t|Added
   opt-in memory cgroup support for Bash tool commands on Linux…]]'
+- '[[Changes/Ollama/2026-08-14-for-apple-silicon-devices-ollama-has-in-particular-optimized-for-maximum-perform|For
+  Apple Silicon devices, Ollama has in particular optimized for maximum…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-18-v2-1-235-github-372521030-3c3fae7f|claude-code-2026-08-18-v2-1-235-github-372521030-3c3fae7f]]'
 source_type: github_releases
 theme: reliability-performance
@@ -87,7 +87,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.235
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-08-14 · Claude Code · [[Changes/Claude Code/2026-08-14-added-opt-in-memory-cgroup-support-for-bash-tool-commands-on-linux-claude-code-t|Added opt-in memory cgroup support for Bash tool commands on Linux…]]
+- Earlier: 2026-08-14 · Ollama · [[Changes/Ollama/2026-08-14-for-apple-silicon-devices-ollama-has-in-particular-optimized-for-maximum-perform|For Apple Silicon devices, Ollama has in particular optimized for maximum…]]
 - Later: 2026-08-19 · Claude Code · [[Changes/Claude Code/2026-08-19-improved-startup-performance-the-session-counter-is-now-written-in-the-backgroun|Improved startup performance: the session counter is now written in the background]]
 <!-- chronolog:end -->
 

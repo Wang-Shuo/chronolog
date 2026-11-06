@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: db17e01c223017db2c01f4830f8cc74afeb798350b3dd557742aa2226f83daaf
+machine_hash: 01affb6f7377667934eb85f06c65bc2d5192e09341121cbf99f491e424a17807
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,12 @@ record:
   title: Changed the Bash tool description to always note that command output is displayed…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-08-05-37057-0-146-backport-safer-cyber-model-auto-review-defaults-anp-oai|♯37057
-  0.146 Backport safer cyber-model auto-review defaults @anp-oai]]'
 - '[[Changes/ChatGPT/2026-08-06-plus-and-pro-users-can-now-use-an-updated-gpt-5-6-sol-in-chatgpt-with-more-relia-397840|Updates
   to GPT‑5.6 in ChatGPT]]'
 - '[[Changes/Cline/2026-08-06-2-model-support-changes-in-v4-1-6|2 Model Support changes
   in v4.1.6]]'
+- '[[Changes/Lovable/2026-08-06-show-the-ai-s-thinking-in-your-app|Show the AI''s
+  thinking in your app]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-07-v2-1-224-github-366468634-0ab9e64c|claude-code-2026-08-07-v2-1-224-github-366468634-0ab9e64c]]'
 source_type: github_releases
 theme: model-support
@@ -85,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-08-06 · Cline · [[Changes/Cline/2026-08-06-2-model-support-changes-in-v4-1-6|2 Model Support changes in v4.1.6]]
+- Earlier: 2026-08-06 · Lovable · [[Changes/Lovable/2026-08-06-show-the-ai-s-thinking-in-your-app|Show the AI's thinking in your app]]
 - Later: 2026-08-07 · Codex CLI · [[Changes/Codex CLI/2026-08-07-13-model-support-changes-in-rust-v0-147-0|13 Model Support changes in rust-v0.147.0]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5d97244bac5bf4cf021ffbc0c32be66b818bc219e0bb2061925dda328b80a2b5
+machine_hash: cef0c67e737d33abdf844096d7489a4442be6ef130ec8bd7b570665ec46d8e3d
 product: cline
 product_name: Cline
 record:
@@ -41,8 +41,8 @@ record:
   title: Change the `CLAUDE_CODE_MAX_OUTPUT_TOKENS`
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-07-19-2-context-window-changes-in-v0-1-13|2 Context Window
-  changes in v0.1.13]]'
+- "[[Changes/Open WebUI/2025-07-19-chat-preview-in-search-when-searching-chats-instantly-preview-results-in-context|\U0001F50E
+  Chat Preview in Search]]"
 - '[[Changes/Cline/2025-07-22-change-available-cerebras-models-modify-context-window-by-arafatkatze-in-https-g|Change
   available Cerebras models + modify context window]]'
 - '[[Changes/Gemini CLI/2025-07-25-2-context-window-changes-in-v0-1-14|2 Context Window

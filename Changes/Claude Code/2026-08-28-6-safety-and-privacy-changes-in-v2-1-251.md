@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d3194a92a1bc01a0511f4aa694764d3024358373f8852f7f7d6822206194cd6d
+machine_hash: 070a05e88326996234305c5cc85ef1874314b399c3fd2720b7e1f9afcc4f404f
 product: claude-code
 product_name: Claude Code
 record:
@@ -60,12 +60,12 @@ record:
   title: 6 Safety and Privacy changes in v2.1.251
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-08-26-12-safety-and-privacy-changes-in-rust-v0-150-0|12
-  Safety and Privacy changes in rust-v0.150.0]]'
 - '[[Changes/Claude Code/2026-08-27-4-safety-and-privacy-changes-in-v2-1-248|4 Safety
   and Privacy changes in v2.1.248]]'
 - '[[Changes/GitHub Copilot CLI/2026-08-27-5-safety-and-privacy-changes-in-v1-0-81|5
   Safety and Privacy changes in v1.0.81]]'
+- '[[Changes/Lovable/2026-08-27-restrict-external-invites-to-verified-email-domains|Restrict
+  external invites to verified email domains]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-28-v2-1-251-github-378586104-42ac2f96|claude-code-2026-08-28-v2-1-251-github-378586104-42ac2f96]]'
 source_type: github_releases
 theme: safety-privacy
@@ -114,8 +114,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.251
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-08-27 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-08-27-5-safety-and-privacy-changes-in-v1-0-81|5 Safety and Privacy changes in v1.0.81]]
-- Later: 2026-08-29 · Codex CLI · [[Changes/Codex CLI/2026-08-29-5-safety-and-privacy-changes-in-rust-v0-151-0|5 Safety and Privacy changes in rust-v0.151.0]]
+- Earlier: 2026-08-27 · Lovable · [[Changes/Lovable/2026-08-27-restrict-external-invites-to-verified-email-domains|Restrict external invites to verified email domains]]
+- Later: 2026-08-28 · v0 · [[Changes/v0/2026-08-28-2-safety-and-privacy-changes-in-gpt-5-6-sol-sign-in-inside-previews|2 Safety and Privacy changes in GPT-5.6 Sol, sign-in inside previews…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

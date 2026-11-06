@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 82465a3400eaa8d6444caffd1d5bf9f26a5be62fe938a80a1479b10809d5900f
+machine_hash: 41a4e1a4e1ef0e5fd4e663e85120270732daa11d30e2f39a2d5f4cb89758f889
 product: cline
 product_name: Cline
 record:
@@ -40,12 +40,12 @@ record:
   title: Improve @-mention file search performance
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-05-11-default-bugbot-continues-to-use-the-same-effort-level-as-it-does-today-optimized|Default:
-  Bugbot continues to use the same effort level as it does today]]'
-- '[[Changes/GitHub Copilot CLI/2026-05-11-cli-starts-faster-on-terminals-with-limited-osc-color-query-support-shaving-up-t|CLI
-  starts faster on terminals with limited OSC color query support, shaving up…]]'
+- '[[Changes/Dify/2026-05-12-workflow-stability-restored-workflow-version-loading-through-the-backend-api-fix|Workflow
+  stability — restored workflow-version loading through the backend API…]]'
 - '[[Changes/Gemini CLI/2026-05-12-2-reliability-and-performance-changes-in-v0-42-0|2
   Reliability and Performance changes in v0.42.0]]'
+- '[[Changes/v0/2026-05-12-3-reliability-and-performance-changes-in-run-terminal-commands-with-v0-faster|3
+  Reliability and Performance changes in Run terminal commands with v0, faster…]]'
 source_release: '[[Releases/Cline/cline-2026-05-13-v3-83-0-github-322019752-5cd466dd|cline-2026-05-13-v3-83-0-github-322019752-5cd466dd]]'
 source_type: github_releases
 theme: reliability-performance
@@ -76,8 +76,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-05-12 · Gemini CLI · [[Changes/Gemini CLI/2026-05-12-2-reliability-and-performance-changes-in-v0-42-0|2 Reliability and Performance changes in v0.42.0]]
-- Later: 2026-05-20 · Codex CLI · [[Changes/Codex CLI/2026-05-20-windows-installs-are-more-robust-codex-doctor-now-detects-npm-managed-installs-c|Windows installs are more robust]]
+- Earlier: 2026-05-12 · v0 · [[Changes/v0/2026-05-12-3-reliability-and-performance-changes-in-run-terminal-commands-with-v0-faster|3 Reliability and Performance changes in Run terminal commands with v0, faster…]]
+- Later: 2026-05-13 · Ollama · [[Changes/Ollama/2026-05-13-2-reliability-and-performance-changes-in-v0-30-0|2 Reliability and Performance changes in v0.30.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

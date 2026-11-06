@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 6272b71bc696446a9057dde26a82e49dbc6e110ce8df5e3cf0e219ec747de7c7
+machine_hash: 9eb4a6f655faf5a1a914071b9c54aa191478292665ba13e2bcd5445bcc7967fc
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -73,12 +73,12 @@ record:
     or reason…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-04-improved-the-model-picker-and-the-vs-code-model-pill-to-show-a-model-s-name-inst|Improved
-  the /model picker and the VS Code model pill to show a model''s name…]]'
-- '[[Changes/Codex CLI/2026-09-04-3-model-support-changes-in-rust-v0-153-3|3 Model
-  Support changes in rust-v0.153.3]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-04-3-model-support-changes-in-v1-0-83|3 Model
   Support changes in v1.0.83]]'
+- '[[Changes/Ollama/2026-09-05-ollama-models-can-now-be-used-directly-in-chatgpt-desktop-so-you-can-keep-your-e|Ollama
+  models can now be used directly in ChatGPT Desktop, so you can keep…]]'
+- '[[Changes/Lovable/2026-09-08-gpt-6-astra-gemini-3-8-flash-and-gemini-3-5-transcribe-for-your-app-s-ai-feature|GPT-6
+  Astra, Gemini 3.8 Flash, and Gemini 3.5 Transcribe for your app''s AI features]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-09-updated-models-and-usage-limits-in-chatgpt-voice-03e6b03f|chatgpt-2026-09-09-updated-models-and-usage-limits-in-chatgpt-voice-03e6b03f]]'
 source_type: chatgpt_changelog
 theme: model-support
@@ -119,7 +119,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-09-04 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-04-3-model-support-changes-in-v1-0-83|3 Model Support changes in v1.0.83]]
+- Earlier: 2026-09-08 · Lovable · [[Changes/Lovable/2026-09-08-gpt-6-astra-gemini-3-8-flash-and-gemini-3-5-transcribe-for-your-app-s-ai-feature|GPT-6 Astra, Gemini 3.8 Flash, and Gemini 3.5 Transcribe for your app's AI features]]
 - Later: 2026-09-09 · Claude Code · [[Changes/Claude Code/2026-09-09-added-maxeffortlevel-setting-top-level-or-per-model-under-modelsettings-caps-the|Added maxEffortLevel setting (top-level or per model under modelSettings)]]
 <!-- chronolog:end -->
 

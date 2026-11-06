@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 256d94d3bffb911718e75704b0a29f94eca0ee24bc816bee51d5b537825130d6
+machine_hash: eea4843a61b770cc770976e0b2894bb5e7911bdce055c8965c213862bb923d59
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -46,10 +46,10 @@ record:
   title: 2 Search and Browsing changes in rust-v0.58.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-10-03-4511-wire-up-web-search-item|♯4511 Wire up web search
-  item]]'
 - '[[Changes/Gemini CLI/2025-10-22-refactor-core-migrate-web-search-tool-to-tool-names-by-abhipatel12-in-https-gith|refactor(core):
   migrate web search tool to tool-names]]'
+- '[[Changes/Open WebUI/2025-11-06-4-search-and-browsing-changes-in-v0-6-35|4 Search
+  and Browsing changes in v0.6.35]]'
 - '[[Changes/Codex CLI/2025-11-09-6367-sdk-add-network-access-and-web-search-options-to-typescript-sdk|♯6367
   – SDK: add network_access and web_search options to TypeScript SDK]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-11-13-rust-v0-58-0-github-262201496-2a895bfb|codex-cli-2025-11-13-rust-v0-58-0-github-262201496-2a895bfb]]'
@@ -94,7 +94,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.58.0
 ## Nearby in Search and Browsing
 
 - Earlier: 2025-11-09 · Codex CLI · [[Changes/Codex CLI/2025-11-09-6367-sdk-add-network-access-and-web-search-options-to-typescript-sdk|♯6367 – SDK: add network_access and web_search options to TypeScript SDK]]
-- Later: 2026-01-07 · Codex CLI · [[Changes/Codex CLI/2026-01-07-4-search-and-browsing-changes-in-rust-v0-79-0|4 Search and Browsing changes in rust-v0.79.0]]
+- Later: 2025-11-24 · Open WebUI · [[Changes/Open WebUI/2025-11-24-3-search-and-browsing-changes-in-v0-6-37|3 Search and Browsing changes in v0.6.37]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: accessibility-localization
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 769de29535de85530c1f3ebaf6c65410f3bc83359101a17c169e9b236ba4d7e2
+machine_hash: a6b76bc869568e99a3f32871940ab221f51dc666edf9ce9d80bd45b1c817dbbc
 product: cline
 product_name: Cline
 record:
@@ -54,12 +54,12 @@ record:
   title: 'accessibility: screen reader support for slash and context menus'
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-10-22-show-notification-in-screen-reader-mode-by-chrstnb-in-https-github-com-google-ge|Show
-  notification in screen reader mode]]'
-- '[[Changes/Gemini CLI/2025-11-04-cherry-pick-screen-reader-nudge-changes-by-chrstnb-in-https-github-com-google-ge|Cherry
-  pick screen reader nudge changes]]'
-- '[[Changes/Gemini CLI/2025-11-07-only-show-screen-reader-notice-once-by-chrstnb-in-https-github-com-google-gemini|Only
-  show screen reader notice once]]'
+- '[[Changes/Open WebUI/2025-11-24-prompt-autocompletion-is-now-available-independently-of-the-rich-text-input-sett|✍️
+  Prompt autocompletion is now available independently of the rich text input…]]'
+- "[[Changes/Open WebUI/2025-11-24-ui-scale-adjustment-is-now-available-in-interface-settings-allowing-users-to-inc|\U0001F3A8
+  UI scale adjustment is now available in interface settings, allowing users…]]"
+- "[[Changes/Open WebUI/2025-11-25-localization-improvements-were-made-for-german-de-de-and-portuguese-brazil-trans|\U0001F310
+  Localization improvements were made for German (de-DE) and Portuguese (Brazil)…]]"
 source_release: '[[Releases/Cline/cline-2025-12-12-v3-42-0-github-270042562-021fbb79|cline-2025-12-12-v3-42-0-github-270042562-021fbb79]]'
 source_type: github_releases
 theme: accessibility-localization
@@ -89,7 +89,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Accessibility and Localization
 
-- Earlier: 2025-11-07 · Gemini CLI · [[Changes/Gemini CLI/2025-11-07-only-show-screen-reader-notice-once-by-chrstnb-in-https-github-com-google-gemini|Only show screen reader notice once]]
+- Earlier: 2025-11-25 · Open WebUI · [[Changes/Open WebUI/2025-11-25-localization-improvements-were-made-for-german-de-de-and-portuguese-brazil-trans|🌐 Localization improvements were made for German (de-DE) and Portuguese (Brazil)…]]
 - Later: 2025-12-18 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-12-18-ensure-animated-or-non-animated-banner-is-displayed-based-on-banner-and-screen-r|Ensure animated or non-animated banner is displayed based on banner and screen…]]
 <!-- chronolog:end -->
 

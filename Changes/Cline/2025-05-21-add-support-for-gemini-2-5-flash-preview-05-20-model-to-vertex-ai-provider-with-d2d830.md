@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 4944567a414731ef0d831b2bfc550bd4c0ba66282a4f7e2684bd44836a2f9078
+machine_hash: 2f17e83e35f6155842edea063fbbc15322d947163ca56666a05917ac549f4b7d
 product: cline
 product_name: Cline
 record:
@@ -56,10 +56,10 @@ record:
   title: Add support for Gemini 2.5 Flash Preview 05-20 model to Vertex AI provider…
   type: change
 related_changes:
-- '[[Changes/Aider/2025-05-09-2-context-window-changes-in-v0-83-0|2 Context Window
-  changes in v0.83.0]]'
-- '[[Changes/Cursor/2025-05-15-include-your-entire-codebase-in-context|Include your
-  entire codebase in context]]'
+- '[[Changes/Gemini/2025-05-20-introducing-google-ai-ultra-our-plan-to-access-the-best-of-gemini-app-and-google|Introducing
+  Google AI Ultra, our plan to access the best of Gemini app and Google AI]]'
+- '[[Changes/Gemini/2025-05-20-gemini-in-chrome-your-personal-ai-assistant-for-the-web|Gemini
+  in Chrome, your personal AI assistant for the web]]'
 - '[[Changes/Cline/2025-05-21-add-support-for-gemini-2-5-flash-preview-05-20-model-to-vertex-ai-provider-with|Add
   support for Gemini 2.5 Flash Preview 05-20 model to Vertex AI provider…]]'
 source_release: '[[Releases/Cline/cline-2025-05-21-v3-16-3-github-220188760-3dddbf0f|cline-2025-05-21-v3-16-3-github-220188760-3dddbf0f]]'
@@ -92,7 +92,7 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2025-05-21 · Cline · [[Changes/Cline/2025-05-21-add-support-for-gemini-2-5-flash-preview-05-20-model-to-vertex-ai-provider-with|Add support for Gemini 2.5 Flash Preview 05-20 model to Vertex AI provider…]]
-- Later: 2025-05-30 · Aider · [[Changes/Aider/2025-05-30-2-context-window-changes-in-v0-84-0|2 Context Window changes in v0.84.0]]
+- Later: 2025-05-28 · Open WebUI · [[Changes/Open WebUI/2025-05-28-localization-translation-enhancements-improved-and-expanded-simplified-tradition|🌍 Localization & Translation Enhancements]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

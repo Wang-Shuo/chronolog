@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: fd3a4b762fbe16e7dd27bd2e6eabb44ffed051702245cec399192886be69cb66
+machine_hash: 49461a672f8bba6eeb4a01ac9bbfd7008b8d35598b44b96553562cc1a2ffc5da
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -148,7 +148,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.158.0
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-09-28 · Claude Code · [[Changes/Claude Code/2026-09-28-changed-recap-to-decline-with-a-short-notice-when-it-arrives-relayed-from-a-chat|Changed /recap to decline with a short notice when it arrives relayed from a chat…]]
-- Later: 2026-09-28 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-28-3-developer-workflow-changes-in-v1-0-89|3 Developer Workflow changes in v1.0.89]]
+- Later: 2026-09-28 · ElevenLabs · [[Changes/ElevenLabs/2026-09-28-flows-ffc074|Flows]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

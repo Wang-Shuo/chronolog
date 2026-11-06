@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ec5b3f3815877e07fed91229696810e5f84a8b59835c71a14309b6429bddb362
+machine_hash: f5d3cb5fb8fb0ba3db55ed800fcdad3b2a4df71c99190f529b2ad07c38c2eb4e
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,8 +43,8 @@ record:
   title: Text selection persists after copying to clipboard in alt screen
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-03-2-interface-experience-changes-in-v0-0-421|2
-  Interface Experience changes in v0.0.421]]'
+- '[[Changes/v0/2026-03-04-improved-diff-navigation-with-clickable-file-stats-and-auto-scrolling|Improved
+  diff navigation with clickable file stats and auto-scrolling]]'
 - '[[Changes/Claude Code/2026-03-05-3-interface-experience-changes-in-v2-1-69|3 Interface
   Experience changes in v2.1.69]]'
 - '[[Changes/Codex CLI/2026-03-05-13313-renaming-team-to-business-plan-during-tui-onboarding-bwanner-oai|♯13313

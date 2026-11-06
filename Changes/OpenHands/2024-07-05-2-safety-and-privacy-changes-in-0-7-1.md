@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 81c4330a3fb18bdc1b11260e1215d59936b6c71b9510c6af09f7c3f0b75b4f2c
+machine_hash: 0c8577c35095c7ab6da8f7dfe29263c7024b567520373a569ab653acebc02ff0
 product: openhands
 product_name: OpenHands
 record:
@@ -44,12 +44,12 @@ record:
   title: 2 Safety and Privacy changes in 0.7.1
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-08-30-api-key-input-box-is-now-a-password-type|API Key input
-  box is now a password type]]'
-- '[[Changes/OpenHands/2024-06-04-2-safety-and-privacy-changes-in-0-6-1|2 Safety and
-  Privacy changes in 0.6.1]]'
+- '[[Changes/Dify/2024-06-28-feat-permission-and-security-fixes-by-chazzhou-in-https-github-com-langgenius-di|feat:
+  permission and security fixes]]'
 - '[[Changes/OpenHands/2024-06-29-12-safety-and-privacy-changes-in-0-7-0|12 Safety
   and Privacy changes in 0.7.0]]'
+- "[[Changes/Open WebUI/2024-06-30-dependency-update-upgraded-authlib-from-version-1-3-0-to-1-3-1-to-ensure-better|\U0001F4E6
+  Dependency Update]]"
 source_release: '[[Releases/OpenHands/openhands-2024-07-05-0-7-1-github-164186278-78b5a72a|openhands-2024-07-05-0-7-1-github-164186278-78b5a72a]]'
 source_type: github_releases
 theme: safety-privacy
@@ -87,8 +87,8 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/0.7.1
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2024-06-29 · OpenHands · [[Changes/OpenHands/2024-06-29-12-safety-and-privacy-changes-in-0-7-0|12 Safety and Privacy changes in 0.7.0]]
-- Later: 2024-07-13 · OpenHands · [[Changes/OpenHands/2024-07-13-6-safety-and-privacy-changes-in-0-8-0|6 Safety and Privacy changes in 0.8.0]]
+- Earlier: 2024-06-30 · Open WebUI · [[Changes/Open WebUI/2024-06-30-dependency-update-upgraded-authlib-from-version-1-3-0-to-1-3-1-to-ensure-better|📦 Dependency Update]]
+- Later: 2024-07-08 · Dify · [[Changes/Dify/2024-07-08-2-safety-and-privacy-changes-in-0-6-13|2 Safety and Privacy changes in 0.6.13]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

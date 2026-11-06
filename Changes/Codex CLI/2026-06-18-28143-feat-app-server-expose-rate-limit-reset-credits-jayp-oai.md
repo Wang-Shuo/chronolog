@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 4a63d3f9a73dd9baa0a8feb98d88bb704051397939ca4ce925681895f9928275
+machine_hash: 736f4ffb50ca2e31ad9cfcd56dbd551233ffa4896d2bfc7bc378e88ddb51a5e3
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,10 +43,9 @@ record:
   title: '#28143 feat(app-server): expose rate-limit reset credits @jayp-oai'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-04-the-subscription-switch-suggestion-now-shows-in-the-startup-announcement-slot-in|The
-  subscription-switch suggestion now shows in the startup announcement slot…]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-05-add-billing-help-topic-with-an-overview-of-ai-credit-usage-features|Add
   billing help topic with an overview of AI credit usage features]]'
+- '[[Changes/Replit/2026-06-05-billing|Billing]]'
 - '[[Changes/Windsurf/2026-06-06-simplified-model-picker-pricing-view-for-select-enterprise-customers|Simplified
   model picker pricing view for select enterprise customers]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-06-18-rust-v0-141-0-github-341160952-94bdbd75|codex-cli-2026-06-18-rust-v0-141-0-github-341160952-94bdbd75]]'
@@ -86,7 +85,7 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2026-06-06 · Windsurf · [[Changes/Windsurf/2026-06-06-simplified-model-picker-pricing-view-for-select-enterprise-customers|Simplified model picker pricing view for select enterprise customers]]
-- Later: 2026-06-22 · Codex CLI · [[Changes/Codex CLI/2026-06-22-usage-can-now-show-and-redeem-earned-usage-limit-reset-credits-with-confirmation|/usage can now show and redeem earned usage-limit reset credits…]]
+- Later: 2026-06-18 · Lovable · [[Changes/Lovable/2026-06-18-one-credit-balance-and-clearer-usage-insights|One credit balance and clearer usage insights]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

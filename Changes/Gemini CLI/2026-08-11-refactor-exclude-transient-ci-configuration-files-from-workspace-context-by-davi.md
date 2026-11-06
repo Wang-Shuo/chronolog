@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3882ee41f99a143c5e48465a552913219f666be2bf0f12f2792a606b6b610a3b
+machine_hash: 3e260742c440f74fb6b0a8f2b1ce6dc1cd79247d3634423ac5a882e78ad9877f
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -82,7 +82,7 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2026-08-11 · Cline · [[Changes/Cline/2026-08-11-respect-your-configured-max-output-tokens-when-the-compaction-summarizer-request|Respect your configured max output tokens when the compaction summarizer requests…]]
-- Later: 2026-08-12 · Claude Code · [[Changes/Claude Code/2026-08-12-improved-prompt-is-too-long-errors-to-explain-why-automatic-compaction-could-not|Improved "prompt is too long" errors to explain why automatic compaction could not…]]
+- Later: 2026-08-11 · Lovable · [[Changes/Lovable/2026-08-11-readable-previews-for-attached-files|Readable previews for attached files]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

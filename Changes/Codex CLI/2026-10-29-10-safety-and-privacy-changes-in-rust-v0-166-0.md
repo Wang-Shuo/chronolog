@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e49901939b5d9c41f48476b4c615e87593586958611d58032abcebf3845fd6ce
+machine_hash: abd40852bf3efdb0362bdba4b3d3747fa721af9c9a5b7f2940aae6779dd6e33c
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -133,7 +133,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.166.0
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-10-28 · ChatGPT · [[Changes/ChatGPT/2026-10-28-texting-your-dot-is-starting-to-roll-out-in-beta-to-pro-users-in-the-u-s|Texting your dot]]
-- Later: 2026-10-30 · Claude Code · [[Changes/Claude Code/2026-10-30-10-safety-and-privacy-changes-in-v2-1-314|10 Safety and Privacy changes in v2.1.314]]
+- Later: 2026-10-29 · Lovable · [[Changes/Lovable/2026-10-29-run-a-deep-scan-from-the-project-chat|Run a Deep scan from the project chat]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 445efe16f92570b09fde257a681110f776d6356d7775e2e5d2e0e529a1eca8db
+machine_hash: 29d310072348d9812361cdf5867e7c4d3161e391f9f318926dcb18abe748c48f
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -44,10 +44,8 @@ record:
   title: 'feat(a2a): Urgent fix - Process modelInfo agent message'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-12-02-powershell-apply-patch-parsing-is-corrected-and-apply-patch-tests-now-cover-shel|PowerShell
-  apply_patch parsing is corrected, and apply_patch tests now cover…]]'
-- '[[Changes/GitHub Copilot CLI/2025-12-03-add-infer-property-to-control-custom-agent-tool-visibility|Add
-  infer property to control custom agent tool visibility]]'
+- '[[Changes/ElevenLabs/2025-12-08-agents-platform-d0503f|Agents Platform]]'
+- '[[Changes/ElevenLabs/2025-12-08-lists-and-sorting|Lists and Sorting]]'
 - '[[Changes/Codex CLI/2025-12-09-7729-feat-add-is-mutating-detection-for-shell-command-handler-jif-oai|♯7729
   feat: add is-mutating detection for shell command handler @jif-oai]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-12-09-v0-20-0-github-268880631-841db492|gemini-cli-2025-12-09-v0-20-0-github-268880631-841db492]]'
@@ -84,7 +82,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2025-12-09 · Codex CLI · [[Changes/Codex CLI/2025-12-09-7729-feat-add-is-mutating-detection-for-shell-command-handler-jif-oai|♯7729 feat: add is-mutating detection for shell command handler @jif-oai]]
-- Later: 2025-12-10 · Cursor · [[Changes/Cursor/2025-12-10-plan-mode-now-supports-inline-mermaid-diagrams-allowing-the-agent-to-automatical|Plan Mode improvements]]
+- Later: 2025-12-09 · v0 · [[Changes/v0/2025-12-09-v0-has-now-automatically-updated-every-react2shell-vulnerable-project-deployed-w|React2Shell Vulnerability Patch]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b6c5d75770b90d0fba917c29c93714bb3f1de3bc12e3ce5bc417591a0fa1fd3e
+machine_hash: d21d8adeda692f4322b7d439fe16ed4ef9b40e6bedb835de4e2f30e267e1b199
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -41,12 +41,12 @@ record:
   title: '#12947 feat: add local date/timezone to turn environment context @celia-oai'
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-02-25-2-context-window-changes-in-v0-30-0|2 Context Window
-  changes in v0.30.0]]'
 - '[[Changes/Cline/2026-02-27-resolve-could-not-find-the-file-context-error-in-explain-changes|Resolve
   "Could not find the file context" error in Explain Changes]]'
 - '[[Changes/Gemini CLI/2026-02-27-feat-telemetry-add-context-breakdown-to-api-response-event-by-sandytao520-in-htt|feat(telemetry):
   Add context breakdown to API response event]]'
+- "[[Changes/Open WebUI/2026-03-01-oauth-session-token-decryption-oauth-sessions-are-now-properly-detached-from-the|\U0001F513
+  OAuth session token decryption. OAuth sessions are now properly detached…]]"
 source_release: '[[Releases/Codex CLI/codex-cli-2026-03-02-rust-v0-107-0-github-292187522-c29f3a8f|codex-cli-2026-03-02-rust-v0-107-0-github-292187522-c29f3a8f]]'
 source_type: github_releases
 theme: context-window
@@ -86,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-02-27 · Gemini CLI · [[Changes/Gemini CLI/2026-02-27-feat-telemetry-add-context-breakdown-to-api-response-event-by-sandytao520-in-htt|feat(telemetry): Add context breakdown to API response event]]
+- Earlier: 2026-03-01 · Open WebUI · [[Changes/Open WebUI/2026-03-01-oauth-session-token-decryption-oauth-sessions-are-now-properly-detached-from-the|🔓 OAuth session token decryption. OAuth sessions are now properly detached…]]
 - Later: 2026-03-03 · Cline · [[Changes/Cline/2026-03-03-trigger-auto-compaction-on-openrouter-context-overflow-errors|Trigger auto-compaction on OpenRouter context overflow errors]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 58fe7b36d1d816d062761d299f732569c0483f9f977b1b63b08323ef898c3d5e
+machine_hash: 751baba62a87cb5408e5a84f3a63b88b4f076c40bb9ab58c73f870c19421469c
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
   title: Added an announcement when fast mode changes as a result of switching models…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-07-18-3-model-support-changes-in-rust-v0-144-6|3 Model
-  Support changes in rust-v0.144.6]]'
-- '[[Changes/GitHub Copilot CLI/2026-07-20-preserve-pasted-prompt-content-when-changing-models-through-ctrl-x-model|Preserve
-  pasted prompt content when changing models through Ctrl+X /model]]'
 - '[[Changes/Codex CLI/2026-07-21-22-model-support-changes-in-rust-v0-145-0|22 Model
   Support changes in rust-v0.145.0]]'
+- '[[Changes/Gemini/2026-07-21-3-6-flash-an-upgraded-model-for-your-daily-life|3.6
+  Flash: An upgraded model for your daily life]]'
+- '[[Changes/Lovable/2026-07-21-gemini-3-6-flash-for-your-app-s-ai-features|Gemini
+  3.6 Flash for your app''s AI features]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-22-v2-1-218-github-358276841-57d73db4|claude-code-2026-07-22-v2-1-218-github-358276841-57d73db4]]'
 source_type: github_releases
 theme: model-support
@@ -87,7 +87,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-07-21 · Codex CLI · [[Changes/Codex CLI/2026-07-21-22-model-support-changes-in-rust-v0-145-0|22 Model Support changes in rust-v0.145.0]]
+- Earlier: 2026-07-21 · Lovable · [[Changes/Lovable/2026-07-21-gemini-3-6-flash-for-your-app-s-ai-features|Gemini 3.6 Flash for your app's AI features]]
 - Later: 2026-07-22 · Cursor · [[Changes/Cursor/2026-07-22-cursor-router-is-our-intelligent-model-router-it-analyzes-each-request-and-sends|Cursor Router is our intelligent model router]]
 <!-- chronolog:end -->
 

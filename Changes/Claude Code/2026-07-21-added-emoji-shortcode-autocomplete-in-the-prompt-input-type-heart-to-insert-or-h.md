@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 255134f943c1a96c768f9c1655e597179e5a0889fd9c14ee65ad0133857d2290
+machine_hash: 049292ab99496a0945a116b3d053a73d381d7f6dfceaebb24c085fa4d528b5c9
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,8 +44,8 @@ record:
   title: Added emoji shortcode autocomplete in the prompt input
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-16-5-editor-experience-changes-in-v1-0-71|5
-  Editor Experience changes in v1.0.71]]'
+- '[[Changes/Dify/2026-07-17-4-editor-experience-changes-in-1-16-0|4 Editor Experience
+  changes in 1.16.0]]'
 - '[[Changes/Claude Code/2026-07-20-improved-the-ultrareview-diff-too-large-error-to-show-configured-limits-measured|Improved
   the /ultrareview diff-too-large error to show configured limits, measured…]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-20-2-editor-experience-changes-in-v1-0-72|2

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: accessibility-localization
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: acd69710cab71c9817cce1d34e74bfa9d0bdf907172ee4dfa28983e2090089d8
+machine_hash: 781d0abdeac5d5f557bfd848c641777c7377f007da193d4802bbd7b42a2e5ea0
 product: aider
 product_name: Aider
 record:
@@ -42,10 +42,10 @@ record:
   title: Big upgrade in [programming languages…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2023-09-11-chatgpt-now-supports-a-limited-selection-of-languages-in-the-interface|ChatGPT
-  now supports a limited selection of languages in the interface]]'
 - '[[Changes/Aider/2025-03-04-added-support-for-tree-sitter-language-pack|Added support
   for tree-sitter language pack]]'
+- "[[Changes/Open WebUI/2025-03-05-updated-translations-refined-multilingual-support-for-better-localization-and-ac|\U0001F30D
+  Updated Translations]]"
 - '[[Changes/Aider/2025-03-10-switch-to-tree-sitter-language-pack-for-tree-sitter-support|Switch
   to tree-sitter-language-pack for tree sitter support]]'
 source_release: '[[Releases/Aider/aider-2025-03-13-v0-77-0-github-205707771-facc801d|aider-2025-03-13-v0-77-0-github-205707771-facc801d]]'
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Accessibility and Localization
 
 - Earlier: 2025-03-10 · Aider · [[Changes/Aider/2025-03-10-switch-to-tree-sitter-language-pack-for-tree-sitter-support|Switch to tree-sitter-language-pack for tree sitter support]]
-- Later: 2025-06-20 · Cline · [[Changes/Cline/2025-06-20-2-accessibility-and-localization-changes-in-v3-17-15|2 Accessibility and Localization changes in v3.17.15]]
+- Later: 2025-04-01 · Open WebUI · [[Changes/Open WebUI/2025-04-01-internationalization-language-support-updates-added-estonian-and-galician-langua|🌍 Internationalization Language Support Updates]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

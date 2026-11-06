@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4e30772b11e6a30c39e6541074882c07b99a66c40b9a49ee192305dddc1e3ecd
+machine_hash: bb6d5164b82d35dd9b0a42d9ef2bdb24b40fbf3c138d629aa420a77d1f188530
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -45,8 +45,8 @@ record:
     workflow'
   type: change
 related_changes:
-- '[[Changes/Cline/2026-10-26-starting-or-resuming-a-cloud-sandbox-shows-a-progress-card-with-the-repo-branch|Starting
-  or resuming a cloud sandbox shows a progress card with the repo, branch…]]'
+- '[[Changes/ElevenLabs/2026-10-26-voice-cloning-permissions-members-without-the-create-instant-voice-clone-or-crea|Voice
+  cloning permissions]]'
 - '[[Changes/Claude Code/2026-10-27-changed-claude-code-to-stop-sending-the-claude-code-safety-event-opentelemetry-e|Changed
   Claude Code to stop sending the claude_code.safety_event OpenTelemetry event]]'
 - '[[Changes/Codex CLI/2026-10-27-3-safety-and-privacy-changes-in-rust-v0-165-0|3

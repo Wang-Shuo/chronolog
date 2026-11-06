@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3dea27eee8b15b76fbcbddc82998b4dd3476975f17968cead95595caeea26303
+machine_hash: fe073e6edaf9b927cb00bca15a9771c74ff182d33fb90c3bc54a327118b430fb
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -44,10 +44,9 @@ record:
     you do…
   type: change
 related_changes:
-- '[[Changes/Cline/2025-05-22-add-support-for-global-workflows-allowing-workflows-to-be-shared-across-workspac|Add
-  support for global workflows, allowing workflows to be shared across workspaces…]]'
-- '[[Changes/Cursor/2025-06-04-admin-api-for-teams-to-access-usage-metrics-and-spend-data|Admin
-  API for teams to access usage metrics and spend data]]'
+- '[[Changes/Replit/2025-06-06-teams-viewer-seat-management|Teams viewer seat management]]'
+- "[[Changes/Open WebUI/2025-06-10-dedicated-user-role-edit-modal-updating-user-roles-now-reliably-opens-a-dedicate|\U0001F4DD
+  Dedicated User Role Edit Modal]]"
 - '[[Changes/ChatGPT/2025-06-12-sharing-chats-from-projects|Sharing chats from projects]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-06-12-adding-more-capabilities-to-projects-a384b6f8|chatgpt-2025-06-12-adding-more-capabilities-to-projects-a384b6f8]]'
 source_type: chatgpt_changelog
@@ -82,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2025-06-04 · Cursor · [[Changes/Cursor/2025-06-04-admin-api-for-teams-to-access-usage-metrics-and-spend-data|Admin API for teams to access usage metrics and spend data]]
+- Earlier: 2025-06-10 · Open WebUI · [[Changes/Open WebUI/2025-06-10-dedicated-user-role-edit-modal-updating-user-roles-now-reliably-opens-a-dedicate|📝 Dedicated User Role Edit Modal]]
 - Later: 2025-06-12 · Cursor · [[Changes/Cursor/2025-06-12-use-cursor-where-your-team-works-3e7ca8|Use Cursor where your team works]]
 <!-- chronolog:end -->
 

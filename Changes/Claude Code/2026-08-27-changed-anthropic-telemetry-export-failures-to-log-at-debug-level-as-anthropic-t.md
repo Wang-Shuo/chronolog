@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 06310b3adaeec9cfdfcded8dbcd379c6b5fb67c1d735cb68dd2b61b60ee81b89
+machine_hash: 19efab8cad66b5e814ad348226525cbfe70858088b97594c5d01c48aa371ad38
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,8 +45,8 @@ record:
   title: Changed Anthropic telemetry export failures to log at debug level…
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-08-25-ssr-agent-issue-fix-24935-force-terminal-buffer-rerender-after-exiting-external|SSR
-  Agent Issue Fix (24935)]]'
+- '[[Changes/Open WebUI/2026-08-25-73-developer-workflow-changes-in-v0-11-1|73 Developer
+  Workflow changes in v0.11.1]]'
 - '[[Changes/Claude Code/2026-08-26-changed-terminal-hyperlinks-in-rendered-markdown-link-targets-that-point-at-a-ne|Changed
   terminal hyperlinks in rendered markdown]]'
 - '[[Changes/Codex CLI/2026-08-26-15-developer-workflow-changes-in-rust-v0-150-0|15

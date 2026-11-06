@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: df4a6bae37df1a490dc2cc9fff16db165d843258f2a3ac1c3ca1f5bf0e369ba3
+machine_hash: 35018d7043763feee3e0d0b5b2a422ec986ea853d6dc7da2d40c5608b62fb76a
 product: cursor
 product_name: Cursor
 record:
@@ -58,8 +58,7 @@ record:
   title: Plan Mode in Background
   type: change
 related_changes:
-- '[[Changes/Cline/2025-10-27-3-model-support-changes-in-v3-34-1|3 Model Support changes
-  in v3.34.1]]'
+- '[[Changes/ElevenLabs/2025-10-27-supported-llm-models|Supported LLM Models]]'
 - '[[Changes/GitHub Copilot CLI/2025-10-27-improve-error-message-from-model-model-command-when-using-an-unsupported-model|Improve
   error message from /model model command when using an unsupported model]]'
 - '[[Changes/Cursor/2025-10-29-introducing-our-first-agentic-coding-model-composer-is-a-frontier-model-that-is|Composer]]'

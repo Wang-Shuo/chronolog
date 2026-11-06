@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d1413a00201ba7ec41a6406e3521820959354fbad5a04a02ce2e52128999e6e8
+machine_hash: cf6909704c9946c04f463557867fdca902e54e5854d374b885ac2df7ffb6ae46
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,10 +43,10 @@ record:
   title: '#12758 feat: include available decisions in command approval requests @bolinfest'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-02-25-15-developer-workflow-changes-in-rust-v0-105-0|15
-  Developer Workflow changes in rust-v0.105.0]]'
 - '[[Changes/Gemini CLI/2026-02-25-3-developer-workflow-changes-in-v0-30-0|3 Developer
   Workflow changes in v0.30.0]]'
+- '[[Changes/v0/2026-02-25-added-repository-information-to-first-message-in-git-connected-chats|Added
+  repository information to first message in git-connected chats]]'
 - '[[Changes/Claude Code/2026-02-26-improved-always-allow-prefix-suggestions-for-compound-bash-commands-e-g-cd-tmp-g|Improved
   "always allow" prefix suggestions for compound bash commands…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-02-26-rust-v0-106-0-github-291146451-379358db|codex-cli-2026-02-26-rust-v0-106-0-github-291146451-379358db]]'

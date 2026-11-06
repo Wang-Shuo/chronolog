@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 84c5574e30f5dc199160e8e7b339dfef362e38eb4640082b9326079f0f62edb7
+machine_hash: dfa1408f98ff85141e0935a13f137462be9031ac7ebbc553abb35ee6582dfad6
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -76,7 +76,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-01-19 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-19-2-developer-workflow-changes-in-v0-0-385|2 Developer Workflow changes in v0.0.385]]
-- Later: 2026-01-20 · Claude Code · [[Changes/Claude Code/2026-01-20-vscode-added-usage-command-to-display-current-plan-usage|VSCode Added /usage command to display current plan usage]]
+- Later: 2026-01-19 · v0 · [[Changes/v0/2026-01-19-improved-pull-request-creation-with-option-to-push-latest-changes|Improved pull request creation with option to push latest changes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

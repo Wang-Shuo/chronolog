@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 5741ef0072c4f5eb5600f83834761dc4d0ad83aee31daf2c09e4980b20ab9092
+machine_hash: a6b203ab2ecbabe4923fc0e919a8a2bf0a5ea37da45249b519a8856ff49d9d18
 product: cursor
 product_name: Cursor
 record:
@@ -55,8 +55,8 @@ record:
   title: Multi-repo environment support
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-16-16-apps-and-integrations-changes-in-v1-0-71|16
-  Apps and Integrations changes in v1.0.71]]'
+- '[[Changes/Lovable/2026-07-16-connect-your-app-to-apollo-io|Connect your app to
+  Apollo.io]]'
 - '[[Changes/Claude Code/2026-07-17-mcp-tool-calls-running-longer-than-2-minutes-now-move-to-the-background-automati|MCP
   tool calls running longer than 2 minutes now move to the background…]]'
 - '[[Changes/Cursor/2026-07-17-cursor-in-slack-now-shares-a-plan-before-it-starts-runs-in-multi-repo-environmen|Cursor
@@ -94,7 +94,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-07-17 · Claude Code · [[Changes/Claude Code/2026-07-17-mcp-tool-calls-running-longer-than-2-minutes-now-move-to-the-background-automati|MCP tool calls running longer than 2 minutes now move to the background…]]
-- Later: 2026-07-18 · Claude Code · [[Changes/Claude Code/2026-07-18-changed-sessionstart-hooks-to-report-source-fork-when-a-session-begins-as-a-fork|Changed SessionStart hooks to report source "fork" when a session begins as a fork…]]
+- Later: 2026-07-17 · Dify · [[Changes/Dify/2026-07-17-24-apps-and-integrations-changes-in-1-16-0|24 Apps and Integrations changes in 1.16.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

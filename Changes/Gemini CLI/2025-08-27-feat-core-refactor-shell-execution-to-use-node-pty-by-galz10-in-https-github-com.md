@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c3566ab932e1190df6d135d8b2d250165b2590de70248402153aecfe42ac940f
+machine_hash: 6b509b5f7ce7b4a821106a4e12638d89a2e42d4880e367dff01e7a810e6403c4
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -42,12 +42,12 @@ record:
   title: 'feat(core): refactor shell execution to use node-pty'
   type: change
 related_changes:
-- '[[Changes/Cline/2025-08-21-when-packaging-cline-core-for-debug-builds-include-map-files-by-sjf-in-https-git|When
-  packaging cline-core for debug builds include map files]]'
-- '[[Changes/Cursor/2025-08-21-the-terminal-now-opens-on-the-left-with-a-clear-backdrop-and-border-animation-to|Improved
-  review flow in Agent terminal]]'
+- "[[Changes/Open WebUI/2025-08-21-resolved-code-block-input-issue-with-shift-enter-fixed-a-bug-where-typing-three|\U0001F4DD
+  Resolved Code Block Input Issue with Shift+Enter]]"
 - '[[Changes/Codex CLI/2025-08-26-11-developer-workflow-changes-in-rust-v0-24-0|11
   Developer Workflow changes in rust-v0.24.0]]'
+- '[[Changes/Dify/2025-08-27-3-developer-workflow-changes-in-1-8-0|3 Developer Workflow
+  changes in 1.8.0]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-08-27-v0-2-0-github-242746793-f18a717d|gemini-cli-2025-08-27-v0-2-0-github-242746793-f18a717d]]'
 source_type: github_releases
 theme: developer-workflow
@@ -78,8 +78,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2025-08-26 · Codex CLI · [[Changes/Codex CLI/2025-08-26-11-developer-workflow-changes-in-rust-v0-24-0|11 Developer Workflow changes in rust-v0.24.0]]
-- Later: 2025-08-29 · Codex CLI · [[Changes/Codex CLI/2025-08-29-2852-following-up-on-2371-post-commit-feedback|♯2852 Following up on ♯2371 post commit feedback]]
+- Earlier: 2025-08-27 · Dify · [[Changes/Dify/2025-08-27-3-developer-workflow-changes-in-1-8-0|3 Developer Workflow changes in 1.8.0]]
+- Later: 2025-08-28 · Open WebUI · [[Changes/Open WebUI/2025-08-28-code-block-copy-button-content-fixed-fixed-an-issue-where-the-copy-button-in-cod|📋 Code Block Copy Button Content Fixed]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 7e9394038df0aa6cdeb6d14bff5fc27803dbf499a4011d1bc3a08eedb0c8d6f0
+machine_hash: 537a3039590101ae348a5bea187d33a80035986eb3ee86155ede7fcdc985af14
 product: cline
 product_name: Cline
 record:
@@ -43,10 +43,9 @@ record:
   title: supporting buy_credits_url response from backend
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-05-15-introducing-unified-request-based-pricing-max-mode-for-all-top-models-and-backgr|Introducing
-  unified request-based pricing, Max Mode for all top models…]]'
 - '[[Changes/Gemini CLI/2025-07-01-docs-add-a-page-detailing-quota-and-cost-information-by-ptone-in-https-github-co|Docs:
   Add a page detailing quota and cost information]]'
+- '[[Changes/Replit/2025-07-04-effort-based-billing|Effort-based billing]]'
 - '[[Changes/Cline/2025-07-09-remove-incorrect-pricing-display-for-sap-ai-core-provider-since-it-uses-non-usd|Remove
   incorrect pricing display for SAP AI Core provider since it uses non-USD…]]'
 source_release: '[[Releases/Cline/cline-2025-07-11-v3-18-12-github-231654662-57423044|cline-2025-07-11-v3-18-12-github-231654662-57423044]]'

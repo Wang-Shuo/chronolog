@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ddc50a759f1136263a5fadeeb06f0f830512fef76f8795978613366325362d2f
+machine_hash: 7b6d355fe52b868ac58bc3e529fba1159484498aefbf44a3dc80653a93bd7105
 product: claude-code
 product_name: Claude Code
 record:
@@ -86,7 +86,7 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2026-03-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-13-add-precompact-hook-to-run-commands-before-context-compaction-starts|Add preCompact hook to run commands before context compaction starts]]
-- Later: 2026-03-16 · Codex CLI · [[Changes/Codex CLI/2026-03-16-2-context-window-changes-in-rust-v0-115-0|2 Context Window changes in rust-v0.115.0]]
+- Later: 2026-03-14 · Ollama · [[Changes/Ollama/2026-03-14-ollama-will-now-ensure-context-compaction-occurs-at-the-correct-context-length-f|Ollama will now ensure context compaction occurs at the correct context length…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

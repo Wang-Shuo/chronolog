@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 06c58dc7e00eb90c1e0aa267e3b541f1a6858e906fdb03df8eb43b44a5e0611a
+machine_hash: fc6a7e8af05d84aaeef483250e87c8067fa56d3838fe310fc9545a27bb3d2502
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -51,10 +51,10 @@ record:
   title: General-purpose subagents use GPT-5.4 or GPT-5.5 when available
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-20-shell-tool-calls-succeed-even-when-the-model-omits-the-description-parameter|Shell
-  tool calls succeed even when the model omits the description parameter]]'
 - '[[Changes/Codex CLI/2026-05-21-18868-add-mitm-hook-config-model-evawong-oai|♯18868
   Add MITM hook config model @evawong-oai]]'
+- '[[Changes/Lovable/2026-05-21-gemini-3-5-flash-for-ai-features-in-your-app|Gemini
+  3.5 Flash for AI features in your app]]'
 - '[[Changes/Gemini CLI/2026-05-22-2-model-support-changes-in-v0-43-0|2 Model Support
   changes in v0.43.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-05-23-v1-0-52-github-328402909-801444d4|github-copilot-cli-2026-05-23-v1-0-52-github-328402909-801444d4]]'

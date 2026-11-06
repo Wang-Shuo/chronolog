@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5626b55eb4692b0722b01bac2257890e45c32c23cfee7cb34b80b230cee9a815
+machine_hash: edd64d0e7824576d125ff2d7779e34e21560635da6982c99ab8d0b4a3de5ca2f
 product: openhands
 product_name: OpenHands
 record:
@@ -41,12 +41,11 @@ record:
   title: 'feat(apps): add authenticated backend view helper'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-08-14-apps-and-integrations-changes-in-v2-1-295|14
-  Apps and Integrations changes in v2.1.295]]'
-- '[[Changes/Codex CLI/2026-10-08-20-apps-and-integrations-changes-in-rust-v0-162-0|20
-  Apps and Integrations changes in rust-v0.162.0]]'
-- '[[Changes/GitHub Copilot CLI/2026-10-08-2-apps-and-integrations-changes-in-v1-0-94|2
-  Apps and Integrations changes in v1.0.94]]'
+- '[[Changes/Lovable/2026-10-08-app-chat-connectors-zendesk-neon-motherduck-oracle-autonomous-ai-database-ibm-db|App
+  + chat connectors]]'
+- '[[Changes/Lovable/2026-10-08-chat-connectors-loom|Chat connectors: Loom]]'
+- '[[Changes/Ollama/2026-10-08-readme-add-oxi-to-community-integrations-by-maziluiosif-in-https-github-com-olla|README:
+  add oxi to community integrations]]'
 source_release: '[[Releases/OpenHands/openhands-2026-10-08-v1-26-0-github-407241649-7e646875|openhands-2026-10-08-v1-26-0-github-407241649-7e646875]]'
 source_type: github_releases
 theme: apps-integrations
@@ -80,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-10-08 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-08-2-apps-and-integrations-changes-in-v1-0-94|2 Apps and Integrations changes in v1.0.94]]
+- Earlier: 2026-10-08 · Ollama · [[Changes/Ollama/2026-10-08-readme-add-oxi-to-community-integrations-by-maziluiosif-in-https-github-com-olla|README: add oxi to community integrations]]
 - Later: 2026-10-09 · Claude Code · [[Changes/Claude Code/2026-10-09-3-apps-and-integrations-changes-in-v2-1-296|3 Apps and Integrations changes in v2.1.296]]
 <!-- chronolog:end -->
 

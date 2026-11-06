@@ -4,20 +4,20 @@ date: '2026-03-26'
 description: 'Codex CLI · 2026-03-26 · Enterprise and Administration: #15789 Treat
   ChatGPT `hc` plan as Enterprise @arnavdugar-openai'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin
-    improvements: Team admins can now mark themselves as unpaid users and can see…]]'
+  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
+    for Google Workspace accounts]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 736
+  lag_days: 1056
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b80e7b1518535e366dbb3896f2abe66d97325bafd1e568cfcf9a3983dcf26dfb
+machine_hash: 77e2ae3e5f021a1cf47648d8e50b26449959cdc40860bb6deaa4af888a90d879
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -41,10 +41,8 @@ record:
   title: '#15789 Treat ChatGPT `hc` plan as Enterprise @arnavdugar-openai'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-14-added-session-quality-survey-enterprise-admins-can-configure-the-sample-rate-via|Added
-  session quality survey]]'
-- '[[Changes/ChatGPT/2026-03-17-we-ve-simplified-the-model-picker-to-make-it-easier-to-choose-the-right-level-of-a3fc77|We’ve
-  simplified the model picker to make it easier to choose the right level of reasoning]]'
+- '[[Changes/Replit/2026-03-20-enterprise-audit-log-portal|Enterprise Audit Log Portal]]'
+- '[[Changes/ElevenLabs/2026-03-25-workspace|Workspace]]'
 - '[[Changes/Claude Code/2026-03-26-added-allowedchannelplugins-managed-setting-for-team-enterprise-admins-to-define|Added
   allowedChannelPlugins managed setting for team/enterprise admins to define…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-03-26-rust-v0-117-0-github-302123790-7cb322b6|codex-cli-2026-03-26-rust-v0-117-0-github-302123790-7cb322b6]]'
@@ -93,13 +91,13 @@ type: change
 ## Nearby in Enterprise and Administration
 
 - Earlier: 2026-03-26 · Claude Code · [[Changes/Claude Code/2026-03-26-added-allowedchannelplugins-managed-setting-for-team-enterprise-admins-to-define|Added allowedChannelPlugins managed setting for team/enterprise admins to define…]]
-- Later: 2026-04-02 · Cursor · [[Changes/Cursor/2026-04-02-added-an-enterprise-admin-control-for-disabling-made-with-cursor-code-attributio|Added an Enterprise Admin control for disabling "Made with Cursor" code attribution…]]
+- Later: 2026-03-27 · Dify · [[Changes/Dify/2026-03-27-refactor-workspace-optimize-workspaces-plan-resolution-for-saas-and-enterprise-w|refactor(workspace): optimize /workspaces plan resolution for SaaS and enterprise…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-03-20 · Cursor · [[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin improvements: Team admins can now mark themselves as unpaid users and can see…]]
+- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

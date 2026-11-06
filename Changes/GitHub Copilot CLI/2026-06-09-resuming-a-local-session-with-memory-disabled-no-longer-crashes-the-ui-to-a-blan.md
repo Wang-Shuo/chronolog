@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a3fb4724f39166b1cc211f1bd9a91da447f6c5cbedf3511809a53ae00faa15da
+machine_hash: 547ff0392c028d727cca0c2daa3ee4e4a0300bc7c2ed5f937e04298f47fc6579
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,10 +43,10 @@ record:
     a blank screen
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-01-2-memory-and-personalization-changes-in-rust-v0-136-0|2
-  Memory and Personalization changes in rust-v0.136.0]]'
 - '[[Changes/ChatGPT/2026-06-04-we-ve-upgraded-memory-so-chatgpt-can-better-keep-your-context-up-to-date-helping-9a48f3|Memory
   that stays more up to date]]'
+- '[[Changes/v0/2026-06-08-team-plan-members-can-set-custom-instructions|Team plan
+  members can set custom instructions]]'
 - '[[Changes/Codex CLI/2026-06-09-26821-codex-exclude-external-tool-output-from-memories-rka-oai|♯26821
   codex Exclude external tool output from memories @rka-oai]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-06-09-v1-0-61-github-336905979-4d0a69f2|github-copilot-cli-2026-06-09-v1-0-61-github-336905979-4d0a69f2]]'

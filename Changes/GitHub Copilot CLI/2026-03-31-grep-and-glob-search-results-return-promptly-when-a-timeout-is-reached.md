@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a4b2f5b8e4714ec0d305041ca038c847bf48f8ca6698e2a16c5f256c815a0260
+machine_hash: 6d55c706aa9343e760864affc73e808303d907ab24f7d60ca27424a3493e8202
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -41,10 +41,10 @@ record:
   title: Grep and glob search results return promptly when a timeout is reached
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-03-24-we-ve-improved-shopping-in-chatgpt-to-make-it-easier-to-discover-compare-and-dec|Shopping
-  updates in ChatGPT]]'
 - '[[Changes/Codex CLI/2026-03-26-plugins-are-now-a-first-class-workflow-codex-can-sync-product-scoped-plugins-at|Plugins
   are now a first-class workflow]]'
+- '[[Changes/Ollama/2026-03-27-ollama-launch-pi-now-includes-web-search-plugin-that-uses-ollama-s-web-search|ollama
+  launch pi now includes web search plugin that uses Ollama''s web search]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-30-grep-and-glob-search-results-return-promptly-when-a-timeout-is-reached|Grep
   and glob search results return promptly when a timeout is reached]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-03-31-v1-0-14-github-303495089-79909e3a|github-copilot-cli-2026-03-31-v1-0-14-github-303495089-79909e3a]]'

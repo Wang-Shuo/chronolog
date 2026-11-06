@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: bf7df122fa6927b76ced477fbab51ff7275b63d91e617fb29ed13ab131fe7f02
+machine_hash: b3bc61e06468ba6cca107378831e1384b3f5db60b36c4962f381832c41fa1049
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,8 +42,8 @@ record:
   title: '#7931 chore: persist comments in edit'
   type: change
 related_changes:
-- '[[Changes/Cline/2025-12-11-display-completion-messages-in-processstateupdate-by-maxpaulus43-in-https-github|display
-  completion messages in processStateUpdate]]'
+- '[[Changes/Dify/2025-12-11-3-editor-experience-changes-in-1-11-0|3 Editor Experience
+  changes in 1.11.0]]'
 - '[[Changes/Gemini CLI/2025-12-16-3-editor-experience-changes-in-v0-21-0|3 Editor
   Experience changes in v0.21.0]]'
 - '[[Changes/ChatGPT/2025-12-17-edit-and-review-tasks-in-pulse-anytime-after-you-create-them-please-note-that-pu|Edit

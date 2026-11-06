@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 877b65cd55543f212d5a96517c8f16b1274dac4ccd0c364bc6229348406f0a09
+machine_hash: 17ef420b46e89d6cf4abe89aae0e10d715e02c02a75c44796ff7d921c6f33f31
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -96,12 +96,12 @@ record:
   title: 20 Apps and Integrations changes in v1.0.85
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-14-5-apps-and-integrations-changes-in-v2-1-271|5
-  Apps and Integrations changes in v2.1.271]]'
-- '[[Changes/Claude Code/2026-09-15-3-apps-and-integrations-changes-in-v2-1-273|3
-  Apps and Integrations changes in v2.1.273]]'
 - '[[Changes/Gemini CLI/2026-09-15-feat-extensions-harden-path-resolution-and-boundary-validation-in-extension-load|feat(extensions):
   harden path resolution and boundary validation in extension loader]]'
+- '[[Changes/Lovable/2026-09-15-connect-your-app-to-power-bi|Connect your app to Power
+  BI]]'
+- '[[Changes/Claude/2026-09-16-claude-cowork-comes-to-every-conversation|Claude Cowork
+  comes to every conversation]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-09-16-v1-0-85-github-389603482-889a46d9|github-copilot-cli-2026-09-16-v1-0-85-github-389603482-889a46d9]]'
 source_type: github_releases
 theme: apps-integrations
@@ -186,7 +186,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.85
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-09-15 · Gemini CLI · [[Changes/Gemini CLI/2026-09-15-feat-extensions-harden-path-resolution-and-boundary-validation-in-extension-load|feat(extensions): harden path resolution and boundary validation in extension loader]]
+- Earlier: 2026-09-16 · Claude · [[Changes/Claude/2026-09-16-claude-cowork-comes-to-every-conversation|Claude Cowork comes to every conversation]]
 - Later: 2026-09-16 · OpenHands · [[Changes/OpenHands/2026-09-16-9-apps-and-integrations-changes-in-v1-19-0|9 Apps and Integrations changes in v1.19.0]]
 <!-- chronolog:end -->
 

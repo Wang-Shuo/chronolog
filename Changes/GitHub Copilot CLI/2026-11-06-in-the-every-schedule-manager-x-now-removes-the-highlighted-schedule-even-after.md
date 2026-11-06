@@ -4,20 +4,20 @@ date: '2026-11-06'
 description: 'GitHub Copilot CLI · 2026-11-06 · Automation and Scheduling: In the
   /every schedule manager, x now removes the highlighted schedule even after a one-shot…'
 diffusion:
-  first_in_tracked: '[[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better
-    syntax error loop detection]]'
+  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
+    data clean schedule]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 793
+  lag_days: 1039
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4d9802e38b509f44803e3d615ba1a1b9b8bbc48a76fcef9df8229715ba597265
+machine_hash: fe7e48b1c3c88dba452eaac58a3034b3b98ebe4c5c2aff3d0c3b7c41808bdeb0
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -47,10 +47,10 @@ record:
     after…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-31-2-automation-and-scheduling-changes-in-v2-1-316|2
-  Automation and Scheduling changes in v2.1.316]]'
 - '[[Changes/OpenHands/2026-11-03-6-automation-and-scheduling-changes-in-v1-35-0|6
   Automation and Scheduling changes in v1.35.0]]'
+- '[[Changes/Dify/2026-11-04-3-automation-and-scheduling-changes-in-1-19-0|3 Automation
+  and Scheduling changes in 1.19.0]]'
 - '[[Changes/OpenHands/2026-11-05-11-automation-and-scheduling-changes-in-v1-36-0|11
   Automation and Scheduling changes in v1.36.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-11-06-v1-0-106-github-435988160-ec5b15d4|github-copilot-cli-2026-11-06-v1-0-106-github-435988160-ec5b15d4]]'
@@ -107,7 +107,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-09-04 · OpenHands · [[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better syntax error loop detection]]
+- Earliest same-theme entry in the tracked set: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

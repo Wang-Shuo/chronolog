@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2c5f3e5e95c77523b854aa23473c758586b3f84044ffda4fd5b683eeb4f85076
+machine_hash: c39bbd624b943406816f68189edfe9acc702e590c58e96e0a8a0394fd4328e6d
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -53,12 +53,12 @@ record:
     @LaelLuo'
   type: change
 related_changes:
-- '[[Changes/Cline/2025-11-13-feat-add-oauth-2-1-authentication-support-for-remote-mcp-servers-by-saoudrizwan|feat:
-  Add OAuth 2.1 authentication support for remote MCP servers]]'
-- '[[Changes/Codex CLI/2025-11-13-6419-support-exiting-from-the-login-menu-b46012e48|♯6419
-  — Support exiting from the login menu (b46012e48)]]'
+- '[[Changes/Dify/2025-11-13-chore-improve-the-user-experience-of-not-login-into-apps-by-iamjoel-in-https-git|chore:
+  improve the user experience of not login into apps]]'
 - '[[Changes/Cline/2025-11-18-retire-firebase-authentication-by-tseglevskiy-in-https-github-com-cline-cline-pu|Retire
   firebase authentication]]'
+- '[[Changes/v0/2025-11-18-the-v0-ios-app-now-supports-sign-in-with-apple|Sign in
+  with Apple]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-11-19-rust-v0-59-0-github-263735550-757042e7|codex-cli-2025-11-19-rust-v0-59-0-github-263735550-757042e7]]'
 source_type: github_releases
 theme: account-access
@@ -99,8 +99,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2025-11-18 · Cline · [[Changes/Cline/2025-11-18-retire-firebase-authentication-by-tseglevskiy-in-https-github-com-cline-cline-pu|Retire firebase authentication]]
-- Later: 2025-11-24 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-11-24-add-support-for-github-askpass-environment-variable-for-authentication|Add support for GITHUB_ASKPASS environment variable for authentication]]
+- Earlier: 2025-11-18 · v0 · [[Changes/v0/2025-11-18-the-v0-ios-app-now-supports-sign-in-with-apple|Sign in with Apple]]
+- Later: 2025-11-21 · Replit · [[Changes/Replit/2025-11-21-replit-auth-ui-improvements|Replit Auth UI improvements]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

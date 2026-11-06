@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 76dfdecb09e0642d66001050f53e9bb36d9c013840b03b5d2abcf03f76584789
+machine_hash: c52b0a8b32929637d6a5f336433680416698073f6cf901ea5ed407aa1a7734d1
 product: cline
 product_name: Cline
 record:
@@ -41,12 +41,12 @@ record:
   title: Pass max_tokens to moonshot provider
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-09-12-cursor-automatically-summarizes-long-conversation-for-you-when-reaching-the-cont|Summarization
-  triggers]]'
 - '[[Changes/Codex CLI/2025-09-15-3-context-window-changes-in-rust-v0-36-0|3 Context
   Window changes in rust-v0.36.0]]'
 - '[[Changes/Gemini CLI/2025-09-17-2-context-window-changes-in-v0-5-3|2 Context Window
   changes in v0.5.3]]'
+- '[[Changes/Open WebUI/2025-09-17-2-context-window-changes-in-v0-6-29|2 Context Window
+  changes in v0.6.29]]'
 source_release: '[[Releases/Cline/cline-2025-09-18-v3-29-2-github-248452238-4d5bfb04|cline-2025-09-18-v3-29-2-github-248452238-4d5bfb04]]'
 source_type: github_releases
 theme: context-window
@@ -75,7 +75,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2025-09-17 · Gemini CLI · [[Changes/Gemini CLI/2025-09-17-2-context-window-changes-in-v0-5-3|2 Context Window changes in v0.5.3]]
+- Earlier: 2025-09-17 · Open WebUI · [[Changes/Open WebUI/2025-09-17-2-context-window-changes-in-v0-6-29|2 Context Window changes in v0.6.29]]
 - Later: 2025-09-18 · Codex CLI · [[Changes/Codex CLI/2025-09-18-3857-make-esc-button-work-when-auto-compaction-3857|♯3857 Make ESC button work when auto-compaction (♯3857)]]
 <!-- chronolog:end -->
 

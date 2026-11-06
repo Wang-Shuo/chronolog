@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a44e42f606cdb7b2dbda8e2bee495d739e7baf5aa7ecff6fcc1a81726a14b401
+machine_hash: 2aa26fe80ab940898c6b98f9985948be2d3d60a57afb9e77ddfed3aa8fbe18ae
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -85,7 +85,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v0.0.403
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-02-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-05-2-apps-and-integrations-changes-in-v0-0-404|2 Apps and Integrations changes in v0.0.404]]
-- Later: 2026-02-06 · Claude Code · [[Changes/Claude Code/2026-02-06-added-plugin-name-to-skill-descriptions-and-skills-menu-for-better-discoverabili|Added plugin name to skill descriptions and /skills menu for better discoverability]]
+- Later: 2026-02-05 · Lovable · [[Changes/Lovable/2026-02-05-custom-mcp-servers-on-all-paid-plans|Custom MCP servers on all paid plans]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

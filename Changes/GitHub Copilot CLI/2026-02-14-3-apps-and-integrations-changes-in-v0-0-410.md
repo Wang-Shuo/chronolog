@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 53a0a07a4ba7815a2ad4df0c77030bca001f98405639a879bb1340d8c8d6c15d
+machine_hash: 286b3eb08adf97c04dfe1cb664673c5e8c15c1bbe1b50416be5e42a9289373ec
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,12 +44,11 @@ record:
   title: 3 Apps and Integrations changes in v0.0.410
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-02-12-5-apps-and-integrations-changes-in-rust-v0-100-0|5
-  Apps and Integrations changes in rust-v0.100.0]]'
-- '[[Changes/GitHub Copilot CLI/2026-02-12-mcp-servers-respect-the-cwd-working-directory-property|MCP
-  servers respect the cwd working directory property]]'
-- '[[Changes/GitHub Copilot CLI/2026-02-12-2-apps-and-integrations-changes-in-v0-0-409|2
-  Apps and Integrations changes in v0.0.409]]'
+- '[[Changes/Replit/2026-02-13-bitbucket-integration-improvements|Bitbucket integration
+  improvements]]'
+- '[[Changes/Replit/2026-02-13-open-in-replit-button-beta|Open in Replit button (Beta)]]'
+- '[[Changes/Replit/2026-02-13-connection-reliability-improvements|Connection reliability
+  improvements]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-02-14-v0-0-410-github-286297809-871b7096|github-copilot-cli-2026-02-14-v0-0-410-github-286297809-871b7096]]'
 source_type: github_releases
 theme: apps-integrations
@@ -89,8 +88,8 @@ Source: https://github.com/github/copilot-cli/releases/tag/v0.0.410
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-02-12 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-12-2-apps-and-integrations-changes-in-v0-0-409|2 Apps and Integrations changes in v0.0.409]]
-- Later: 2026-02-17 · Claude Code · [[Changes/Claude Code/2026-02-17-2-apps-and-integrations-changes-in-v2-1-45|2 Apps and Integrations changes in v2.1.45]]
+- Earlier: 2026-02-13 · Replit · [[Changes/Replit/2026-02-13-connection-reliability-improvements|Connection reliability improvements]]
+- Later: 2026-02-14 · Open WebUI · [[Changes/Open WebUI/2026-02-14-2-apps-and-integrations-changes-in-v0-8-1|2 Apps and Integrations changes in v0.8.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

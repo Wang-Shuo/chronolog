@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a692b011e6921bb061f6ff1b6cd704d86dda7211e61ccca0efc9d279954e44ce
+machine_hash: 0e6900057a7c2229869953e98ea6c2fe7f41120d32233bc38dfe1338da2665df
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,10 +42,10 @@ record:
   title: '#9543 fix: memory leak issue @jif-oai'
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-01-14-2-reliability-and-performance-changes-in-v1-13-8|2
-  Reliability and Performance changes in v1.13.8]]'
 - '[[Changes/Cursor/2026-01-16-faster-message-queueing-and-ux|Faster message queueing
   and UX]]'
+- '[[Changes/Ollama/2026-01-16-glm-4-7-flash-https-ollama-com-library-glm-4-7-flash-as-the-strongest-model-in-t|GLM-4.7-Flash((source
+  link) As the strongest model…]]'
 - '[[Changes/Claude Code/2026-01-21-improved-ui-rendering-performance-with-react-compiler|Improved
   UI rendering performance with React Compiler]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-01-21-rust-v0-88-0-github-278754265-4d0aa1b4|codex-cli-2026-01-21-rust-v0-88-0-github-278754265-4d0aa1b4]]'

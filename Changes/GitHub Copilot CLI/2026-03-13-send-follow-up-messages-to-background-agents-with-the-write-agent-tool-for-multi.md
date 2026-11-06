@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 159811a97a0805719fe737269ac6157384970918ef06d878c71ac50d74f24a70
+machine_hash: 1cc415d3624bd570aaaf8278ef820e99180f29642afe9daf29f81c5603e22d78
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -89,7 +89,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-03-12 · Cline · [[Changes/Cline/2026-03-12-added-github-copilot-instructions-md-for-coding-agents|Added .github/copilot-instructions.md for coding agents]]
-- Later: 2026-03-14 · Claude Code · [[Changes/Claude Code/2026-03-14-improved-background-agent-behavior-killing-a-background-agent-now-preserves-its|Improved background agent behavior]]
+- Later: 2026-03-13 · Replit · [[Changes/Replit/2026-03-13-agent|Agent]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

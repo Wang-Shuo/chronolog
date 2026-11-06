@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f728ebec9bff021cecc742f9b518f757d5f635560039c350a4d8ea4615353a2a
+machine_hash: 2b16f2e0cf57de3ef1dd666aae36728d97a294c829220ca56a16816b0bdbc972
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -42,12 +42,12 @@ record:
   title: Interactive sessions in git repositories reach the input prompt sooner
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-08-added-a-line-on-stderr-when-it-is-a-terminal-that-says-what-a-claude-p-run-is-wa|Added
-  a line on stderr, when it is a terminal, that says what a claude -p run…]]'
 - '[[Changes/Codex CLI/2026-10-08-12-developer-workflow-changes-in-rust-v0-162-0|12
   Developer Workflow changes in rust-v0.162.0]]'
 - '[[Changes/Claude Code/2026-10-09-3-developer-workflow-changes-in-v2-1-296|3 Developer
   Workflow changes in v2.1.296]]'
+- '[[Changes/Open WebUI/2026-10-10-27-developer-workflow-changes-in-v0-12-0|27 Developer
+  Workflow changes in v0.12.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-10-12-v1-0-96-github-410909545-b0f77f14|github-copilot-cli-2026-10-12-v1-0-96-github-410909545-b0f77f14]]'
 source_type: github_releases
 theme: developer-workflow
@@ -79,8 +79,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-10-09 · Claude Code · [[Changes/Claude Code/2026-10-09-3-developer-workflow-changes-in-v2-1-296|3 Developer Workflow changes in v2.1.296]]
-- Later: 2026-10-13 · Cline · [[Changes/Cline/2026-10-13-deleting-a-slash-command-from-the-input-keeps-the-spacing-of-the-text-around-it|Deleting a slash command from the input keeps the spacing of the text around it]]
+- Earlier: 2026-10-10 · Open WebUI · [[Changes/Open WebUI/2026-10-10-27-developer-workflow-changes-in-v0-12-0|27 Developer Workflow changes in v0.12.0]]
+- Later: 2026-10-12 · Ollama · [[Changes/Ollama/2026-10-12-decision-models-can-now-be-used-directly-from-the-terminal-with-ollama-run-ask-y|Decision models can now be used directly from the terminal with ollama run]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

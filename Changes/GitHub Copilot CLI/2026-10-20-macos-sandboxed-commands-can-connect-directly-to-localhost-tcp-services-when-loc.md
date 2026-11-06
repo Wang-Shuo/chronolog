@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 86c6cd49b400a034003c87482996a2b70df8ddc5b64f54ae94a3a069cef84eb1
+machine_hash: 311972a56deb7b6f5a9a727a75453c830b1bdb97008cfb62b091b5cc450ed1ad
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,10 +45,10 @@ record:
     local…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-15-3-mobile-and-desktop-changes-in-rust-v0-163-0|3
-  Mobile and Desktop changes in rust-v0.163.0]]'
-- '[[Changes/ChatGPT/2026-10-16-present-or-export-present-directly-from-chatgpt-on-the-web-export-to-powerpoint|Present
-  or export. Present directly from ChatGPT]]'
+- '[[Changes/Lovable/2026-10-16-removed-tabs-in-the-desktop-app|Removed: tabs in the
+  desktop app]]'
+- '[[Changes/Lovable/2026-10-17-jump-to-your-last-chat-in-the-desktop-app|Jump to
+  your last chat in the desktop app]]'
 - '[[Changes/Claude Code/2026-10-19-windows-improved-git-command-start-up-with-a-standard-git-for-windows-install-by|Windows:
   Improved git command start-up with a standard Git for Windows install…]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-10-20-v1-0-101-github-418747415-a1bf6298|github-copilot-cli-2026-10-20-v1-0-101-github-418747415-a1bf6298]]'

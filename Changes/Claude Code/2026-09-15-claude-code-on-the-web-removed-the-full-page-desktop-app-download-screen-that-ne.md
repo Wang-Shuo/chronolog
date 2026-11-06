@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 034efc6da4abb432c4b3efeb3edc435e1d910c4ba58d563897e8f392c0e212b5
+machine_hash: 9bc99c4c6d4b28add45c4dc7265384197aa06b8ae7bfc6adcda5b17c2d1fe211
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,11 +47,11 @@ record:
     that new…'
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-09-10-devin-desktop|Devin Desktop]]'
 - '[[Changes/Claude Code/2026-09-11-changed-skills-synced-from-claude-ai-in-cloud-sessions-to-be-named-anthropic-ski|Changed
   skills synced from claude.ai in cloud sessions to be named…]]'
 - '[[Changes/Claude Code/2026-09-14-improved-mobile-to-show-a-single-qr-code-for-claude-ai-mobile-which-opens-the-ri|Improved
   /mobile to show a single QR code for claude.ai/mobile, which opens…]]'
+- '[[Changes/ElevenLabs/2026-09-14-ios-sdk|iOS SDK]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-15-v2-1-273-github-389362239-6ea37826|claude-code-2026-09-15-v2-1-273-github-389362239-6ea37826]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -92,8 +92,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-09-14 · Claude Code · [[Changes/Claude Code/2026-09-14-improved-mobile-to-show-a-single-qr-code-for-claude-ai-mobile-which-opens-the-ri|Improved /mobile to show a single QR code for claude.ai/mobile, which opens…]]
-- Later: 2026-09-15 · Windsurf · [[Changes/Windsurf/2026-09-15-devin-desktop|Devin Desktop]]
+- Earlier: 2026-09-14 · ElevenLabs · [[Changes/ElevenLabs/2026-09-14-ios-sdk|iOS SDK]]
+- Later: 2026-09-15 · Lovable · [[Changes/Lovable/2026-09-15-connect-your-app-to-whatsapp-business|Connect your app to WhatsApp Business]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

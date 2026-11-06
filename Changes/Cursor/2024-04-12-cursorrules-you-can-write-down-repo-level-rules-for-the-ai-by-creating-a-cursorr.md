@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8c00e2085009e449a1ab4b235eb1fe15bd11d7a512007b536f1fd7c5cbff72c2
+machine_hash: f26602ac5a062debc50a17c069d6a65187d61e6d17f151c8ea366a3e8209e145
 product: cursor
 product_name: Cursor
 record:
@@ -46,10 +46,10 @@ record:
   title: '.cursorrules: You can write down repo-level rules for the AI by creating…'
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-11-27-folders-you-can-now-use-the-symbol-to-reference-specific-folders-we-ll-try-to-pi|@
-  folders: You can now use the @ symbol to reference specific folders!]]'
-- '[[Changes/Cursor/2023-11-30-better-context-chat-in-particular-followups-are-now-smarter|Better
-  context chat: in particular, followups are now smarter!]]'
+- '[[Changes/Dify/2024-03-19-add-max-tokens-parameter-rule-for-zhipuai-glm4-and-glm4v-by-orangeclk-in-https-g|add
+  max_tokens parameter rule for zhipuai glm4 and glm4v]]'
+- '[[Changes/Ollama/2024-03-26-command-r-https-ollama-com-library-command-r-a-large-language-model-optimized-fo|Command
+  R((source link) a Large Language Model optimized…]]'
 - '[[Changes/Cursor/2024-04-01-long-context-chat-beta-this-is-a-new-experimental-feature-that-lets-you-talk-wit|Long
   Context Chat (Beta)]]'
 source_release: '[[Releases/Cursor/cursor-2024-04-12-0-32-x-https-cursor-com-changelog-0-32-x-ce3690fc|cursor-2024-04-12-0-32-x-https-cursor-com-changelog-0-32-x-ce3690fc]]'
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2024-04-01 · Cursor · [[Changes/Cursor/2024-04-01-long-context-chat-beta-this-is-a-new-experimental-feature-that-lets-you-talk-wit|Long Context Chat (Beta)]]
-- Later: 2024-06-08 · Cursor · [[Changes/Cursor/2024-06-08-adds-context-pills-to-chat-messages-so-you-can-see-what-will-be-was-used-a324a3|Adds context pills to chat messages, so you can see what will be/was used]]
+- Later: 2024-04-28 · Ollama · [[Changes/Ollama/2024-04-28-llama-3-gradient-1048k-https-ollama-com-library-llama3-gradient-a-llama-3-fine-t|Llama 3 Gradient 1048K((source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

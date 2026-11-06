@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7ddd7abb208f498f2abb76e82969314ad332a1a0ba549fe837f492e6207d3aa4
+machine_hash: 4290a8451f2ee4e2d16d7f5669a136c8eb25e20ee37b617268f4edf666c679f7
 product: openhands
 product_name: OpenHands
 record:
@@ -42,10 +42,9 @@ record:
   title: 'feat: test remote MCP servers on cloud backends via the app server'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-22-42-apps-and-integrations-changes-in-rust-v0-156-0|42
-  Apps and Integrations changes in rust-v0.156.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-22-6-apps-and-integrations-changes-in-v1-0-88|6
   Apps and Integrations changes in v1.0.88]]'
+- '[[Changes/Lovable/2026-09-22-connect-your-app-to-parallel|Connect your app to Parallel]]'
 - '[[Changes/OpenHands/2026-09-22-test-cover-mcp-config-utilities-by-aivong-openhands-in-https-github-com-openhand|test:
   cover MCP config utilities]]'
 source_release: '[[Releases/OpenHands/openhands-2026-09-22-v1-22-0-github-393931062-937a5827|openhands-2026-09-22-v1-22-0-github-393931062-937a5827]]'

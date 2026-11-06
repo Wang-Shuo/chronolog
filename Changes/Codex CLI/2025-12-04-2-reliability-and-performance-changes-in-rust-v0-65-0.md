@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e59b7446f4d99699b89425fb1b72c4bea6a9de222a24aa5a1e42e087c5547cf5
+machine_hash: 1445cfae6a4fcc28ea47fa437251471ea3a314cdca8f6a869b44c1964bce3972
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,11 +43,12 @@ record:
   title: 2 Reliability and Performance changes in rust-v0.65.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-11-19-native-compaction-support-added-first-class-support-for-compaction-improving-per|Native
-  Compaction Support]]'
-- '[[Changes/Windsurf/2025-11-21-general-improvements|General Improvements]]'
+- '[[Changes/Dify/2025-11-26-4-reliability-and-performance-changes-in-1-10-1|4 Reliability
+  and Performance changes in 1.10.1]]'
 - '[[Changes/Cline/2025-11-27-feat-update-cerebras-models-and-speed-by-sebastiand-cerebras-in-https-github-com|feat:
   update Cerebras models and speed]]'
+- '[[Changes/Open WebUI/2025-12-02-4-reliability-and-performance-changes-in-v0-6-41|4
+  Reliability and Performance changes in v0.6.41]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-12-04-rust-v0-65-0-github-267537191-959c7b4d|codex-cli-2025-12-04-rust-v0-65-0-github-267537191-959c7b4d]]'
 source_type: github_releases
 theme: reliability-performance
@@ -86,8 +87,8 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.65.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-11-27 · Cline · [[Changes/Cline/2025-11-27-feat-update-cerebras-models-and-speed-by-sebastiand-cerebras-in-https-github-com|feat: update Cerebras models and speed]]
-- Later: 2025-12-10 · Cursor · [[Changes/Cursor/2025-12-10-2-reliability-and-performance-changes-in-2-2|2 Reliability and Performance changes in 2.2]]
+- Earlier: 2025-12-02 · Open WebUI · [[Changes/Open WebUI/2025-12-02-4-reliability-and-performance-changes-in-v0-6-41|4 Reliability and Performance changes in v0.6.41]]
+- Later: 2025-12-04 · Ollama · [[Changes/Ollama/2025-12-04-qwen3-next-https-ollama-com-library-qwen3-next-the-first-installment-in-the-qwen|Qwen3-Next((source link) The first installment…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

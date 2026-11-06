@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0b59be77da44758143af8a2fbe5289ccb0447e4c278f1972820af4c7b73d669d
+machine_hash: 8e94e08fa234d42afc720cf16a58bcdbcbad2c44ba65210c50242afcd5a34608
 product: openhands
 product_name: OpenHands
 record:
@@ -52,8 +52,7 @@ record:
   title: 'feat: land the Canvas Extensions frontend (load pages, sidebar, customize)'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-08-26-24-apps-and-integrations-changes-in-rust-v0-150-0|24
-  Apps and Integrations changes in rust-v0.150.0]]'
+- '[[Changes/Lovable/2026-08-26-chat-with-lovable-in-slack|Chat with Lovable in Slack]]'
 - '[[Changes/Claude Code/2026-08-27-improved-managed-settings-client-side-timeout-mcp-startup-mode-and-stream-watchd|Improved
   managed settings]]'
 - '[[Changes/GitHub Copilot CLI/2026-08-27-12-apps-and-integrations-changes-in-v1-0-81|12

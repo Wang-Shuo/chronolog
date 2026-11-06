@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: bb69aa204f6fdcc5d54b065bbc027bed59f74a492d1afc8d82ef8f40c6086645
+machine_hash: f96c04049fe672600a4a9b31bb86fd6f12a081cda4ea4fc0b87de1be139bc216
 product: cline
 product_name: Cline
 record:
@@ -45,12 +45,11 @@ record:
     main AI…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-06-04-admins-and-users-can-now-build-and-deploy-custom-connectors-to-proprietary-syste|Admins
-  and users can now build and deploy custom connectors to proprietary systems…]]'
-- '[[Changes/Cline/2025-06-05-add-support-for-streamable-mcp-servers|Add support for
-  streamable MCP servers]]'
 - '[[Changes/OpenHands/2025-06-05-2-apps-and-integrations-changes-in-0-41-0|2 Apps
   and Integrations changes in 0.41.0]]'
+- '[[Changes/ElevenLabs/2025-06-08-sdks|SDKs]]'
+- '[[Changes/Ollama/2025-06-09-if-you-have-feedback-please-create-an-issue-on-github-with-the-app-label-these-a|If
+  you have feedback, please create an issue on GitHub with the app label]]'
 source_release: '[[Releases/Cline/cline-2025-06-10-v3-17-12-github-224397391-8b81633a|cline-2025-06-10-v3-17-12-github-224397391-8b81633a]]'
 source_type: github_releases
 theme: apps-integrations
@@ -81,8 +80,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-06-05 · OpenHands · [[Changes/OpenHands/2025-06-05-2-apps-and-integrations-changes-in-0-41-0|2 Apps and Integrations changes in 0.41.0]]
-- Later: 2025-06-12 · Cline · [[Changes/Cline/2025-06-12-2-apps-and-integrations-changes-in-v3-17-13|2 Apps and Integrations changes in v3.17.13]]
+- Earlier: 2025-06-09 · Ollama · [[Changes/Ollama/2025-06-09-if-you-have-feedback-please-create-an-issue-on-github-with-the-app-label-these-a|If you have feedback, please create an issue on GitHub with the app label]]
+- Later: 2025-06-10 · Open WebUI · [[Changes/Open WebUI/2025-06-10-openai-compatible-embeddings-endpoint-introducing-a-fully-openai-style-api-embed|🧩 OpenAI-Compatible Embeddings Endpoint]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

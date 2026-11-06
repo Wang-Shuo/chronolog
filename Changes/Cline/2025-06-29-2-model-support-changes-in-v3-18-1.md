@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7ac54e53ba6f15fb619749ed825c9b9b91edf30704318908d5037113ca81f3d4
+machine_hash: deef36369ed16e9df5e6ce6cf96ea7239c30f44c392b713be03e15f17e558874
 product: cline
 product_name: Cline
 record:
@@ -42,8 +42,8 @@ record:
   title: 2 Model Support changes in v3.18.1
   type: change
 related_changes:
-- '[[Changes/Aider/2025-06-27-5-model-support-changes-in-v0-85-0|5 Model Support changes
-  in v0.85.0]]'
+- '[[Changes/Ollama/2025-06-27-the-directory-in-which-models-are-stored-can-now-be-modified-this-allows-models|The
+  directory in which models are stored can now be modified!]]'
 - '[[Changes/Gemini CLI/2025-06-28-release-notes-at-https-github-com-google-gemini-gemini-cli-discussions-2301|Release
   notes at: (source link)]]'
 - '[[Changes/Gemini CLI/2025-06-28-release-notes-for-0-1-6-at-https-github-com-google-gemini-gemini-cli-discussions|Release

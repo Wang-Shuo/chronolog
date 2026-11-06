@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: d798ddaf4e6d7dfdd273ee07e50e17573f8cdf28c3f17b12f95e308a95a69911
+machine_hash: c21987c8229679d3895dce032a6c407b89f9d55eea96d0115c495d682b255bf2
 product: cursor
 product_name: Cursor
 record:
@@ -44,10 +44,10 @@ record:
   title: Team rules
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-09-04-2-collaboration-changes-in-v0-3-0|2 Collaboration
-  changes in v0.3.0]]'
 - '[[Changes/Codex CLI/2025-09-23-3878-move-responses-mocking-helpers-to-a-shared-lib-3878|♯3878
   Move responses mocking helpers to a shared lib (♯3878)]]'
+- '[[Changes/Open WebUI/2025-09-25-editor-collaboration-functionality-was-refactored-to-reduce-package-size-by-390k|⚡
+  Editor collaboration functionality was refactored to reduce package size by 390KB…]]'
 - '[[Changes/Cursor/2025-09-29-share-prompts-with-deeplinks-beta|Share prompts with
   deeplinks (beta)]]'
 source_release: '[[Releases/Cursor/cursor-2025-09-29-1-7-https-cursor-com-changelog-1-7-0a03c0ae|cursor-2025-09-29-1-7-https-cursor-com-changelog-1-7-0a03c0ae]]'
@@ -96,7 +96,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2025-09-23 · Codex CLI · [[Changes/Codex CLI/2025-09-23-3878-move-responses-mocking-helpers-to-a-shared-lib-3878|♯3878 Move responses mocking helpers to a shared lib (♯3878)]]
+- Earlier: 2025-09-25 · Open WebUI · [[Changes/Open WebUI/2025-09-25-editor-collaboration-functionality-was-refactored-to-reduce-package-size-by-390k|⚡ Editor collaboration functionality was refactored to reduce package size by 390KB…]]
 - Later: 2025-10-01 · Gemini CLI · [[Changes/Gemini CLI/2025-10-01-support-rendering-function-calls-and-responses-when-sharing-chat-to-markdown-by|Support rendering function calls and responses when sharing chat to markdown]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1ca0a5abbe9706e9a11500c54db169fe55bef8844d2799d0a8c3734f2a85e15c
+machine_hash: 3304621c3976aa3bc38f9a3c7d43437eed080ba12b286fd2660df5562b38f2de
 product: openhands
 product_name: OpenHands
 record:
@@ -42,8 +42,8 @@ record:
   title: Enhanced security by ensuring redirect URI is HTTPS unless it is for localhost
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-06-04-team-admins-can-now-disable-privacy-mode|Team admins
-  can now disable Privacy Mode]]'
+- '[[Changes/Open WebUI/2025-06-16-2-safety-and-privacy-changes-in-v0-6-15|2 Safety
+  and Privacy changes in v0.6.15]]'
 - '[[Changes/OpenHands/2025-06-20-daytona-runtime-sandbox-handling-by-idagelic-in-https-github-com-all-hands-ai-op|Daytona
   Runtime sandbox handling]]'
 - '[[Changes/OpenHands/2025-06-20-support-for-dev-container-networking-without-host-mode-by-llamantino-in-https-gi|Support
@@ -80,7 +80,7 @@ type: change
 ## Nearby in Safety and Privacy
 
 - Earlier: 2025-06-20 · OpenHands · [[Changes/OpenHands/2025-06-20-support-for-dev-container-networking-without-host-mode-by-llamantino-in-https-gi|Support for dev container networking without host mode by @llamantino…]]
-- Later: 2025-07-01 · Gemini CLI · [[Changes/Gemini CLI/2025-07-01-esc-to-exit-privacy-screen-in-error-state-by-scidomino-in-https-github-com-googl|Esc to exit privacy screen in error state]]
+- Later: 2025-06-20 · Replit · [[Changes/Replit/2025-06-20-deployment-prevention|Deployment prevention]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

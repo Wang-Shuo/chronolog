@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: d818de2a6c46a30f91e6a037a7727868041db6937ec5a8137647fa341e642c59
+machine_hash: 866c6a545db19a50feeaa859f401ca372f288bf8b079ab6b168274a63ea96392
 product: claude-code
 product_name: Claude Code
 record:
@@ -56,8 +56,8 @@ record:
   title: '[VSCode] Improved startup'
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-10-12-feat-add-compact-section-navigation-on-tablets-by-enyst-in-https-github-com-open|feat:
-  add compact section navigation on tablets]]'
+- '[[Changes/Lovable/2026-10-13-search-for-individual-settings|Search for individual
+  settings]]'
 - '[[Changes/Claude Code/2026-10-14-changed-exit-to-force-kill-background-commands-still-running-1-5-seconds-after-b|Changed
   exit to force-kill background commands still running 1.5 seconds after being…]]'
 - '[[Changes/Claude Code/2026-10-14-added-effort-and-fast-in-agent-view-to-set-what-new-sessions-start-with-a-bare-m|Added
@@ -103,7 +103,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-10-14 · Claude Code · [[Changes/Claude Code/2026-10-14-changed-exit-to-force-kill-background-commands-still-running-1-5-seconds-after-b|Changed exit to force-kill background commands still running 1.5 seconds after being…]]
-- Later: 2026-10-15 · Claude Code · [[Changes/Claude Code/2026-10-15-2-interface-experience-changes-in-v2-1-301|2 Interface Experience changes in v2.1.301]]
+- Later: 2026-10-14 · Lovable · [[Changes/Lovable/2026-10-14-restore-a-deleted-project-yourself|Restore a deleted project yourself]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

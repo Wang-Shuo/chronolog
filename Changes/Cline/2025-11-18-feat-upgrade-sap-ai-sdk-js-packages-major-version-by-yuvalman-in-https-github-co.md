@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 809784035e1fab429a64f1a042dad0c32ae4104646ee11e67c4d93d2c4850ac0
+machine_hash: db0fa10d045311dd8247c24414bdeceb8fbb52b98800d70d07ca39ee7e249842
 product: cline
 product_name: Cline
 record:
@@ -45,10 +45,10 @@ record:
   title: 'feat: upgrade sap ai-sdk-js packages major version'
   type: change
 related_changes:
-- '[[Changes/Windsurf/2025-11-13-cascade-hooks|Cascade Hooks]]'
 - '[[Changes/Windsurf/2025-11-13-mcp-improvements|MCP Improvements]]'
 - '[[Changes/Gemini CLI/2025-11-14-3-apps-and-integrations-changes-in-v0-15-0|3 Apps
   and Integrations changes in v0.15.0]]'
+- '[[Changes/Replit/2025-11-16-azure-marketplace-integration|Azure Marketplace integration]]'
 source_release: '[[Releases/Cline/cline-2025-11-18-v3-38-0-github-263429874-ca504559|cline-2025-11-18-v3-38-0-github-263429874-ca504559]]'
 source_type: github_releases
 theme: apps-integrations
@@ -80,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-11-14 · Gemini CLI · [[Changes/Gemini CLI/2025-11-14-3-apps-and-integrations-changes-in-v0-15-0|3 Apps and Integrations changes in v0.15.0]]
+- Earlier: 2025-11-16 · Replit · [[Changes/Replit/2025-11-16-azure-marketplace-integration|Azure Marketplace integration]]
 - Later: 2025-11-19 · Codex CLI · [[Changes/Codex CLI/2025-11-19-5-apps-and-integrations-changes-in-rust-v0-59-0|5 Apps and Integrations changes in rust-v0.59.0]]
 <!-- chronolog:end -->
 

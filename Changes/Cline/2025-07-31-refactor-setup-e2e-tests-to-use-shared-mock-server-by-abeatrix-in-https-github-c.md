@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7e7aec08e621a07d949478763b23529675d15cefe80595bd01b3ae467d0bd341
+machine_hash: 6143413e9f2ea78b0352ecd9d066764cb54d0926ee37fa2160ff80c7f1382ae4
 product: cline
 product_name: Cline
 record:
@@ -42,10 +42,10 @@ record:
   title: 'refactor: setup e2e tests to use shared mock server'
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-06-12-use-cursor-where-your-team-works-3e7ca8|Use Cursor
-  where your team works]]'
-- '[[Changes/Cline/2025-07-11-request-validation-and-remove-credit-balance-for-cline-team-by-abeatrix-in-https|Request
-  validation and remove credit balance for cline team]]'
+- '[[Changes/Open WebUI/2025-07-14-4-collaboration-changes-in-v0-6-16|4 Collaboration
+  changes in v0.6.16]]'
+- "[[Changes/Open WebUI/2025-07-19-user-group-add-remove-endpoints-effortlessly-add-or-remove-users-from-groups-wit|\U0001F465
+  User Group Add/Remove Endpoints]]"
 - '[[Changes/Cline/2025-07-22-move-duplicated-code-for-loading-the-protobuf-descriptor-set-into-a-shared-util|Move
   duplicated code for loading the protobuf descriptor set into a shared util file]]'
 source_release: '[[Releases/Cline/cline-2025-07-31-v3-20-3-github-236462952-0ca11a50|cline-2025-07-31-v3-20-3-github-236462952-0ca11a50]]'
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2025-07-22 · Cline · [[Changes/Cline/2025-07-22-move-duplicated-code-for-loading-the-protobuf-descriptor-set-into-a-shared-util|Move duplicated code for loading the protobuf descriptor set into a shared util file]]
-- Later: 2025-08-06 · Cursor · [[Changes/Cursor/2025-08-06-ai-code-tracking-api-get-commit-level-visibility-into-ai-usage-and-accepted-chan|AI code tracking API]]
+- Later: 2025-08-01 · Claude · [[Changes/Claude/2025-08-01-project-sharing|Project Sharing]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

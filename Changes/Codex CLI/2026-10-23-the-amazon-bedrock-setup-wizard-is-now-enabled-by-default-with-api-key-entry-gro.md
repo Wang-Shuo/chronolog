@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 64008918d5e0b0f4b48f61242105c72f542025803d90ae4aa5587913d976a82f
+machine_hash: b9032f64f0bf2ec7ea072782059f0d4885389f19d6051c4daf69a37766942686
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -94,7 +94,7 @@ type: change
 ## Nearby in Account and Access
 
 - Earlier: 2026-10-21 · Claude Code · [[Changes/Claude Code/2026-10-21-2-account-and-access-changes-in-v2-1-307|2 Account and Access changes in v2.1.307]]
-- Later: 2026-10-24 · Windsurf · [[Changes/Windsurf/2026-10-24-a-saved-sign-in-keeps-working-after-updating-on-machines-where-the-editor-s-own|A saved sign-in keeps working after updating on machines where the editor's own…]]
+- Later: 2026-10-23 · Dify · [[Changes/Dify/2026-10-23-6-account-and-access-changes-in-1-18-0|6 Account and Access changes in 1.18.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

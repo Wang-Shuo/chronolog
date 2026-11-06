@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 1909e70cc3e120e419045b11cafa67b12576136af1ba80239a9ec70eb2f9877b
+machine_hash: df23b812c0fbd09ef23443b908924094d0971942b5322fcc279cc0b38868e31b
 product: claude-code
 product_name: Claude Code
 record:
@@ -57,12 +57,12 @@ record:
   title: Added support for organization default models
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-25-4-model-support-changes-in-rust-v0-142-2|4 Model
-  Support changes in rust-v0.142.2]]'
 - '[[Changes/ChatGPT/2026-06-26-as-of-june-26-2026-gpt-4-5-is-no-longer-available-in-chatgpt-including-for-custo|Retiring
   GPT-4.5]]'
 - '[[Changes/Cline/2026-06-26-2-model-support-changes-in-v4-0-0|2 Model Support changes
   in v4.0.0]]'
+- '[[Changes/v0/2026-06-26-a-saved-model-selection-no-longer-briefly-flips-to-a-default-while-the-page-load|A
+  saved model selection no longer briefly flips to a default while the page loads]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-29-v2-1-196-github-346482381-e21be272|claude-code-2026-06-29-v2-1-196-github-346482381-e21be272]]'
 source_type: github_releases
 theme: model-support
@@ -98,7 +98,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-06-26 · Cline · [[Changes/Cline/2026-06-26-2-model-support-changes-in-v4-0-0|2 Model Support changes in v4.0.0]]
+- Earlier: 2026-06-26 · v0 · [[Changes/v0/2026-06-26-a-saved-model-selection-no-longer-briefly-flips-to-a-default-while-the-page-load|A saved model selection no longer briefly flips to a default while the page loads]]
 - Later: 2026-06-29 · Cline · [[Changes/Cline/2026-06-29-4-model-support-changes-in-v4-0-2|4 Model Support changes in v4.0.2]]
 <!-- chronolog:end -->
 

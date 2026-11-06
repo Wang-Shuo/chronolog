@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: eb671088af115948d5b5cc3693b70efd6f23fc47a117e0243810d790770aacf6
+machine_hash: b783bc3d8728b679c2926dcff0dd1516ead46ba7fa1ef3b2a975a3e61e35f6ba
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -49,9 +49,10 @@ record:
   title: 5 Developer Workflow changes in rust-v0.148.0
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-08-13-build-history-and-debugging|Build history and debugging]]'
 - '[[Changes/Claude Code/2026-08-14-added-gitlab-merge-request-url-support-to-the-worktree-flag-and-the-claude-agent|Added
   GitLab merge request URL support to the --worktree flag…]]'
+- '[[Changes/v0/2026-08-14-4-developer-workflow-changes-in-a-redesigned-sidebar-a-richer|4
+  Developer Workflow changes in A redesigned sidebar, a richer…]]'
 - '[[Changes/Claude Code/2026-08-17-remote-control-effort-picks-made-on-a-phone-or-on-claude-ai-code-now-apply-to-te|Remote
   Control: effort picks made on a phone or on claude.ai/code now apply…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-08-18-rust-v0-148-0-github-372686337-4265c0ae|codex-cli-2026-08-18-rust-v0-148-0-github-372686337-4265c0ae]]'

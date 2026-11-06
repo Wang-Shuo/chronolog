@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 40878b4a8f7faf9acc75ba731ebaeae91d146e9c7b22c8e6ddd6d39565be2121
+machine_hash: 4af87e5768a6b130716446b0d894e12446c3002f10873137aa5d7591f4db646d
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -47,12 +47,12 @@ record:
   title: 4 Model Support changes in v1.0.81
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-26-added-claude-api-cost-optimize-to-profile-an-existing-project-s-claude-api-spend|Added
-  /claude-api cost-optimize to profile an existing project''s Claude API spend…]]'
 - '[[Changes/Cline/2026-08-26-credentials-embedded-in-git-remote-urls-are-now-redacted-from-the-workspace-info|Credentials
   embedded in git remote URLs are now redacted from the workspace…]]'
 - '[[Changes/Codex CLI/2026-08-26-10-model-support-changes-in-rust-v0-150-0|10 Model
   Support changes in rust-v0.150.0]]'
+- '[[Changes/Ollama/2026-08-26-mlxrunner-avoid-metal-gpu-timeouts-when-loading-models-from-slow-storage|mlxrunner:
+  avoid Metal GPU timeouts when loading models from slow storage]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-08-27-v1-0-81-github-377993714-523d567a|github-copilot-cli-2026-08-27-v1-0-81-github-377993714-523d567a]]'
 source_type: github_releases
 theme: model-support
@@ -104,8 +104,8 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.81
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-08-26 · Codex CLI · [[Changes/Codex CLI/2026-08-26-10-model-support-changes-in-rust-v0-150-0|10 Model Support changes in rust-v0.150.0]]
-- Later: 2026-08-27 · OpenHands · [[Changes/OpenHands/2026-08-27-2-model-support-changes-in-v1-16-0|2 Model Support changes in v1.16.0]]
+- Earlier: 2026-08-26 · Ollama · [[Changes/Ollama/2026-08-26-mlxrunner-avoid-metal-gpu-timeouts-when-loading-models-from-slow-storage|mlxrunner: avoid Metal GPU timeouts when loading models from slow storage]]
+- Later: 2026-08-27 · Ollama · [[Changes/Ollama/2026-08-27-the-claude-desktop-proxy-no-longer-interrupts-in-flight-requests-when-the-model|The Claude Desktop proxy no longer interrupts in-flight requests when the model…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

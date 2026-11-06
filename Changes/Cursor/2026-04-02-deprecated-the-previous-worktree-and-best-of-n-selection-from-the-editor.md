@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: policy
-machine_hash: 6f85960da715c7bb390b75934444e7daf77ce2a6afea7de228c4512e6f513412
+machine_hash: 59b53973c3533cb5110ad8034dd9395053201886407337e1c5bae8d8a1863227
 product: cursor
 product_name: Cursor
 record:
@@ -98,7 +98,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-04-02 · Claude Code · [[Changes/Claude Code/2026-04-02-feedback-now-explains-why-it-s-unavailable-instead-of-disappearing-from-the-slas|/feedback now explains why it's unavailable instead of disappearing from the slash menu]]
-- Later: 2026-04-03 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-03-resume-session-picker-loads-significantly-faster-especially-with-large-session-h|/resume session picker loads significantly faster, especially with large session histories]]
+- Later: 2026-04-02 · Lovable · [[Changes/Lovable/2026-04-02-workspace-onboarding-and-discovery|Workspace onboarding and discovery]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -4,20 +4,20 @@ date: '2026-07-30'
 description: 'OpenHands · 2026-07-30 · Automation and Scheduling: chore: bump agent-server
   1.39.1, automation 1.5.0, typescript-client 1.36.1 by @hieptl in…'
 diffusion:
-  first_in_tracked: '[[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better
-    syntax error loop detection]]'
+  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
+    data clean schedule]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 694
+  lag_days: 940
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 3db8b973be30531c4a2f0e9515b94bea5dd4d1245306d2c7e649acc9ee79da61
+machine_hash: c7bea62f966044439bc72fb6435b23c8b9b550d90ff84cdc0fd1c0405a8b1d9f
 product: openhands
 product_name: OpenHands
 record:
@@ -54,10 +54,10 @@ record:
   title: 'chore: bump agent-server 1.39.1, automation 1.5.0, typescript-client 1.36.1'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-07-09-work-can-also-keep-projects-moving-through-scheduled-tasks-that-run-once-repeat-2d6910|Work
-  can also keep projects moving through Scheduled Tasks that run once, repeat…]]'
 - '[[Changes/Gemini CLI/2026-07-22-feat-caretaker-triage-implement-main-worker-execution-loop-and-egress-action-pub|feat(caretaker-triage):
   implement main worker execution loop and egress action publisher]]'
+- '[[Changes/Open WebUI/2026-07-27-9-automation-and-scheduling-changes-in-v0-11-0|9
+  Automation and Scheduling changes in v0.11.0]]'
 - '[[Changes/OpenHands/2026-07-29-chore-bump-software-agent-sdk-to-1-38-0-and-automation-to-1-4-1-by-hieptl-in-htt|chore:
   bump software-agent-sdk to 1.38.0 and automation to 1.4.1]]'
 source_release: '[[Releases/OpenHands/openhands-2026-07-30-v1-8-0-github-362592144-c13618f5|openhands-2026-07-30-v1-8-0-github-362592144-c13618f5]]'
@@ -95,7 +95,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-09-04 · OpenHands · [[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better syntax error loop detection]]
+- Earliest same-theme entry in the tracked set: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

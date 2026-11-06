@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2a016ca93aa7816cb8411e126d741f1084ced4d191dd37ba051bab47fc1f99c2
+machine_hash: 419c00872353e3be3348b7967366b7b0ff3efe7c4d9f233239f67bb34216761e
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -41,12 +41,10 @@ record:
   title: '#8084 chore(ci): drop Homebrew origin/main workaround for macOS runners'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-12-02-execution-gains-an-experimental-exp-model-unified-exec-pruning-to-limit-session|Execution
-  gains an experimental “exp” model, unified exec pruning to limit session…]]'
-- '[[Changes/Codex CLI/2025-12-09-4-mobile-and-desktop-changes-in-rust-v0-66-0|4 Mobile
-  and Desktop changes in rust-v0.66.0]]'
+- '[[Changes/Lovable/2025-12-10-chat-suggestions-on-mobile|Chat suggestions on mobile]]'
 - '[[Changes/Codex CLI/2025-12-13-2-mobile-and-desktop-changes-in-rust-v0-72-0|2 Mobile
   and Desktop changes in rust-v0.72.0]]'
+- '[[Changes/ElevenLabs/2025-12-15-android-sdk|Android SDK]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-12-18-rust-v0-74-0-github-271533952-972d825a|codex-cli-2025-12-18-rust-v0-74-0-github-271533952-972d825a]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -87,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2025-12-13 · Codex CLI · [[Changes/Codex CLI/2025-12-13-2-mobile-and-desktop-changes-in-rust-v0-72-0|2 Mobile and Desktop changes in rust-v0.72.0]]
+- Earlier: 2025-12-15 · ElevenLabs · [[Changes/ElevenLabs/2025-12-15-android-sdk|Android SDK]]
 - Later: 2025-12-19 · Codex CLI · [[Changes/Codex CLI/2025-12-19-4-mobile-and-desktop-changes-in-rust-v0-76-0|4 Mobile and Desktop changes in rust-v0.76.0]]
 <!-- chronolog:end -->
 

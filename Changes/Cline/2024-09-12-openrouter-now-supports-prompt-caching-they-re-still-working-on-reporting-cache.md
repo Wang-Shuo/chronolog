@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: d506e4f0e048c3bdfd38cffca9fb87b9cdb59c96e0b74fbd9e8efdb8c516bc8b
+machine_hash: 68311fad7e1c81b2606ff3a7abb90e81cb8853dc6e98fab9b5410784ebd9a692
 product: cline
 product_name: Cline
 record:
@@ -44,12 +44,12 @@ record:
   title: OpenRouter now supports prompt caching!
   type: change
 related_changes:
-- '[[Changes/Aider/2024-07-29-enhanced-token-usage-and-cost-reporting-now-works-when-streaming-too|Enhanced
-  token usage and cost reporting]]'
-- '[[Changes/Aider/2024-08-13-improved-token-and-cost-reporting-for-infinite-output|Improved
-  token and cost reporting for infinite output]]'
-- '[[Changes/Aider/2024-08-20-improved-cost-estimate-logic-for-caching|Improved cost
-  estimate logic for caching]]'
+- '[[Changes/Dify/2024-09-03-4-pricing-model-changes-in-0-7-3|4 Pricing Model changes
+  in 0.7.3]]'
+- '[[Changes/Gemini/2024-09-04-access-to-related-content-now-available-for-gemini-for-google-workspace-add-on-s|Access
+  to related content now available for Gemini for Google Workspace add-on subscribers]]'
+- '[[Changes/Dify/2024-09-10-2-pricing-model-changes-in-0-8-0|2 Pricing Model changes
+  in 0.8.0]]'
 source_release: '[[Releases/Cline/cline-2024-09-12-v1-6-5-github-174813626-863c9e42|cline-2024-09-12-v1-6-5-github-174813626-863c9e42]]'
 source_type: github_releases
 theme: pricing-model
@@ -79,8 +79,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2024-08-20 · Aider · [[Changes/Aider/2024-08-20-improved-cost-estimate-logic-for-caching|Improved cost estimate logic for caching]]
-- Later: 2025-03-23 · Cline · [[Changes/Cline/2025-03-23-2-pricing-model-changes-in-v3-8-0|2 Pricing Model changes in v3.8.0]]
+- Earlier: 2024-09-10 · Dify · [[Changes/Dify/2024-09-10-2-pricing-model-changes-in-0-8-0|2 Pricing Model changes in 0.8.0]]
+- Later: 2024-10-21 · Gemini · [[Changes/Gemini/2024-10-21-access-to-imagen-3-now-available-for-google-workspace-customers|Access to Imagen 3 now available for Google Workspace customers]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

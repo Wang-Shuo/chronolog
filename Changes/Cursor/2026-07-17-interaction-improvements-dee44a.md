@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 05f0503eba377c3a0279086955450b625e1ace92bc57334869e443ff7c26dfa8
+machine_hash: 7edc25933daf9d08c7ff93b872295e589f926885c0551cb460954399a792adff
 product: cursor
 product_name: Cursor
 record:
@@ -89,7 +89,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-07-17 · Claude Code · [[Changes/Claude Code/2026-07-17-typing-resume-in-the-agent-view-now-opens-a-picker-of-past-sessions-including-se|Typing /resume in the agent view now opens a picker of past sessions]]
-- Later: 2026-07-17 · Windsurf · [[Changes/Windsurf/2026-07-17-devin-local|Devin Local]]
+- Later: 2026-07-17 · Dify · [[Changes/Dify/2026-07-17-2-interface-experience-changes-in-1-16-0|2 Interface Experience changes in 1.16.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

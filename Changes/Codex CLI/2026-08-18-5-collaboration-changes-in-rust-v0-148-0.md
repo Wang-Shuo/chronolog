@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b1c08a5a8c8b78bfc5b9570df4fda774e518140fdd6d7b388ec735513a3a01a7
+machine_hash: d8796a4fbf79231ba7275b1deb1883d254fb4a59e47bac7f9f2358c06782a666
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -47,9 +47,9 @@ record:
   title: 5 Collaboration changes in rust-v0.148.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-13-hardened-the-auto-generated-cross-session-messaging-socket-directory-on-shared-t|Hardened
-  the auto-generated cross-session messaging socket directory on shared /tmp]]'
 - '[[Changes/Windsurf/2026-08-13-devin-local|Devin Local]]'
+- '[[Changes/v0/2026-08-14-4-collaboration-changes-in-a-redesigned-sidebar-a-richer|4
+  Collaboration changes in A redesigned sidebar, a richer…]]'
 - '[[Changes/Claude Code/2026-08-17-removed-the-default-teammate-model-setting-from-config-agent-team-teammates-now|Removed
   the "Default teammate model" setting from /config]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-08-18-rust-v0-148-0-github-372686337-4265c0ae|codex-cli-2026-08-18-rust-v0-148-0-github-372686337-4265c0ae]]'

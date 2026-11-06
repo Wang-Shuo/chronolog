@@ -4,20 +4,20 @@ date: '2025-07-11'
 description: 'Gemini CLI · 2025-07-11 · Automation and Scheduling: feat: Handle inline
   content modification in tool scheduler by @adamfweidman in…'
 diffusion:
-  first_in_tracked: '[[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better
-    syntax error loop detection]]'
+  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
+    data clean schedule]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 310
+  lag_days: 556
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1554f3248ecd623f56f47e702aae80e8d91d32cee26481cc0dcb77dc4c1c5277
+machine_hash: e5c86b49006d57c67a1cff547e8a611ca5f32d0956f9cfcf7ebfda792bdc4449
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -42,8 +42,8 @@ record:
   title: 'feat: Handle inline content modification in tool scheduler'
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-05-07-made-proactive-conversation-starters-for-cloud-resolver-configurable-on-a-per-us|Made
-  proactive conversation starters for Cloud Resolver configurable on a per-user basis]]'
+- '[[Changes/Gemini/2025-06-19-plan-ahead-with-scheduled-actions|Plan ahead with scheduled
+  actions]]'
 - '[[Changes/Gemini CLI/2025-07-01-refactor-use-for-of-loop-instead-of-traditional-for-loop-by-noritaka1166-in-http|refactor:
   use for...of loop instead of traditional for loop]]'
 - '[[Changes/Gemini CLI/2025-07-02-feat-core-add-infinite-loop-protection-to-client-by-allenhutchison-in-https-gith|feat(core):
@@ -84,13 +84,13 @@ type: change
 ## Nearby in Automation and Scheduling
 
 - Earlier: 2025-07-02 · Gemini CLI · [[Changes/Gemini CLI/2025-07-02-feat-core-add-infinite-loop-protection-to-client-by-allenhutchison-in-https-gith|feat(core): Add infinite loop protection to client]]
-- Later: 2025-07-19 · Gemini CLI · [[Changes/Gemini CLI/2025-07-19-2-automation-and-scheduling-changes-in-v0-1-13|2 Automation and Scheduling changes in v0.1.13]]
+- Later: 2025-07-14 · Open WebUI · [[Changes/Open WebUI/2025-07-14-2-automation-and-scheduling-changes-in-v0-6-16|2 Automation and Scheduling changes in v0.6.16]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-09-04 · OpenHands · [[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better syntax error loop detection]]
+- Earliest same-theme entry in the tracked set: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

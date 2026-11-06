@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f80e5e6002cc89ebfced16630ed5909bc44ae8f20020e4c21be8349151465425
+machine_hash: 61b56aec5d8a67b79600af5ae7972858fb26c80977bb094808cf7e8a2e63a186
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,8 +42,8 @@ record:
   title: Share photos to discuss them out loud
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-10-29-refactor-logging-centralize-all-console-messaging-to-a-shared-logger-part-1-by-a|refactor(logging):
-  Centralize all console messaging to a shared logger (part 1)]]'
+- '[[Changes/Lovable/2025-11-05-request-access-to-private-projects|Request access
+  to private projects]]'
 - '[[Changes/Cline/2025-11-07-share-provider-information-by-barreirot-in-https-github-com-cline-cline-pull-733|Share
   provider information]]'
 - '[[Changes/Codex CLI/2025-11-19-promote-shared-helpers-for-suite-tests-6460-aibrahim|Promote
@@ -77,7 +77,7 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2025-11-19 · Codex CLI · [[Changes/Codex CLI/2025-11-19-promote-shared-helpers-for-suite-tests-6460-aibrahim|Promote shared helpers for suite tests (♯6460) — @aibrahim]]
-- Later: 2025-12-09 · Codex CLI · [[Changes/Codex CLI/2025-12-09-7547-use-shared-check-sandboxing-pakrym-oai|♯7547 Use shared check sandboxing @pakrym-oai]]
+- Later: 2025-11-26 · Dify · [[Changes/Dify/2025-11-26-2-collaboration-changes-in-1-10-1|2 Collaboration changes in 1.10.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: fix
-machine_hash: 919fb292b2444f028d9b5ae2cb71c3fe06d96afaebe107a14d6e75921680f3e3
+machine_hash: 5b7f1be8c4d0ed45e3c509fe4787076cd7a55f259e8c9a6e5d34393c1940bdf3
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,10 +43,9 @@ record:
   title: Fixed permission dialogs stealing focus while actively typing
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-01-30-acp-server-support-permission-flags-yolo-allow-all-etc-and-permissions-config|ACP
-  server support permission flags: --yolo, --allow-all, etc. and permissions config]]'
 - '[[Changes/Codex CLI/2026-01-31-4-safety-and-privacy-changes-in-rust-v0-93-0|4 Safety
   and Privacy changes in rust-v0.93.0]]'
+- '[[Changes/ElevenLabs/2026-02-02-workspaces|Workspaces]]'
 - '[[Changes/OpenHands/2026-02-02-2-safety-and-privacy-changes-in-1-3-0|2 Safety and
   Privacy changes in 1.3.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-03-v2-1-30-github-282673902-7b2e46f2|claude-code-2026-02-03-v2-1-30-github-282673902-7b2e46f2]]'
@@ -85,7 +84,7 @@ type: change
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-02-02 · OpenHands · [[Changes/OpenHands/2026-02-02-2-safety-and-privacy-changes-in-1-3-0|2 Safety and Privacy changes in 1.3.0]]
-- Later: 2026-02-04 · Codex CLI · [[Changes/Codex CLI/2026-02-04-6-safety-and-privacy-changes-in-rust-v0-95-0|6 Safety and Privacy changes in rust-v0.95.0]]
+- Later: 2026-02-03 · Dify · [[Changes/Dify/2026-02-03-9-safety-and-privacy-changes-in-1-12-0|9 Safety and Privacy changes in 1.12.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

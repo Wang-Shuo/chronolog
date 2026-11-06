@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: fa01a9a2cd0a936cd9a38d271fc0c60d5e6b5713f00ddff62aeb3978f65cf332
+machine_hash: 9d42edbc38c0cba0ce97e003e97322de634e6ab0931eda6644c2492f10da8706
 product: aider
 product_name: Aider
 record:
@@ -50,10 +50,10 @@ record:
   title: 5 Model Support changes in v0.86.0
   type: change
 related_changes:
-- '[[Changes/Cline/2025-08-07-pashpashpash-gpt-5-release-by-pashpashpash-in-https-github-com-cline-cline-pull|Pashpashpash/gpt
-  5 release]]'
 - '[[Changes/Codex CLI/2025-08-07-2-model-support-changes-in-rust-v0-15-0|2 Model
   Support changes in rust-v0.15.0]]'
+- '[[Changes/Ollama/2025-08-07-openai-always-provide-reasoning-by-drifkin-in-https-github-com-ollama-ollama-pul|openai:
+  always provide reasoning]]'
 - '[[Changes/Windsurf/2025-08-07-gpt-5-available|GPT-5 Available]]'
 source_release: '[[Releases/Aider/aider-2025-08-09-v0-86-0-github-238790002-787ef322|aider-2025-08-09-v0-86-0-github-238790002-787ef322]]'
 source_type: github_releases
@@ -96,7 +96,7 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.86.0
 ## Nearby in Model Support
 
 - Earlier: 2025-08-07 · Windsurf · [[Changes/Windsurf/2025-08-07-gpt-5-available|GPT-5 Available]]
-- Later: 2025-08-12 · ChatGPT · [[Changes/ChatGPT/2025-08-12-gmail-google-calendar-and-google-contacts-are-now-available-to-connect-and-use-i-9ea6d6|Gmail, Google Calendar, and Google Contacts Connectors in ChatGPT (Pro)]]
+- Later: 2025-08-09 · Open WebUI · [[Changes/Open WebUI/2025-08-09-11-model-support-changes-in-v0-6-19|11 Model Support changes in v0.6.19]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

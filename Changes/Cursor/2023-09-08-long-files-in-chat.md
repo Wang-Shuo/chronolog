@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 0559ca91873780254498cf19ef4decbb07f94607f549299c919fdfc7355f328c
+machine_hash: 1f25167d01ea861901b2ba3a036b897329d2eae1d8a1f2c5c06005243b162180
 product: cursor
 product_name: Cursor
 record:
@@ -60,8 +60,8 @@ record:
   title: Long files in chat
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-08-22-if-you-reference-a-long-file-that-will-be-cutoff-by-the-context-limit-you-ll-be|If
-  you @ reference a long file that will be cutoff by the context limit, you''ll…]]'
+- '[[Changes/Dify/2023-08-24-feat-adjust-hf-max-tokens-by-takatost-in-https-github-com-langgenius-dify-pull-9|feat:
+  adjust hf max tokens]]'
 - '[[Changes/Cursor/2023-08-26-have-the-advanced-context-button-show-up-for-non-git-repos|Advanced
   Button]]'
 - '[[Changes/Cursor/2023-08-30-for-with-codebase-chats-you-can-now-see-the-codebase-context-that-cursor-shows-g|For

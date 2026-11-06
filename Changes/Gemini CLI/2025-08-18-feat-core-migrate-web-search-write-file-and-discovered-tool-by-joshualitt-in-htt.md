@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7a817e8eb57703434c4121bb164924a4e20db3a2d6285f4fc08d66b0baa6ce98
+machine_hash: 05f4303a33618f6279aa1ab68de98b6bd436fbec436e41095e070bbb9a473c83
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -42,12 +42,12 @@ record:
   title: 'feat(core): Migrate web-search, write-file, and discovered-tool'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-06-13-we-ve-upgraded-chatgpt-search-for-all-users-to-provide-even-more-comprehensive-u|We’ve
-  upgraded ChatGPT search for all users to provide even more comprehensive…]]'
-- '[[Changes/ChatGPT/2025-07-24-pro-users-can-now-connect-to-canva-and-notion-for-both-chat-search-and-deep-rese-bd2af2|Canva
-  and Notion connectors (Pro)]]'
+- '[[Changes/Open WebUI/2025-08-09-2-search-and-browsing-changes-in-v0-6-19|2 Search
+  and Browsing changes in v0.6.19]]'
 - '[[Changes/ChatGPT/2025-08-11-now-connect-even-more-tools-in-chatgpt-for-useful-relevant-responses-in-chat-the|Now
   connect even more tools in ChatGPT for useful, relevant responses in chat]]'
+- '[[Changes/Ollama/2025-08-15-ollama-s-new-app-will-now-remember-default-selections-for-default-model-turbo-an|Ollama''s
+  new app will now remember default selections for default model, Turbo…]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-08-18-v0-1-22-github-240728052-5b8812ab|gemini-cli-2025-08-18-v0-1-22-github-240728052-5b8812ab]]'
 source_type: github_releases
 theme: search-browsing
@@ -83,8 +83,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Search and Browsing
 
-- Earlier: 2025-08-11 · ChatGPT · [[Changes/ChatGPT/2025-08-11-now-connect-even-more-tools-in-chatgpt-for-useful-relevant-responses-in-chat-the|Now connect even more tools in ChatGPT for useful, relevant responses in chat]]
-- Later: 2025-08-26 · Codex CLI · [[Changes/Codex CLI/2025-08-26-2-search-and-browsing-changes-in-rust-v0-24-0|2 Search and Browsing changes in rust-v0.24.0]]
+- Earlier: 2025-08-15 · Ollama · [[Changes/Ollama/2025-08-15-ollama-s-new-app-will-now-remember-default-selections-for-default-model-turbo-an|Ollama's new app will now remember default selections for default model, Turbo…]]
+- Later: 2025-08-21 · Open WebUI · [[Changes/Open WebUI/2025-08-21-3-search-and-browsing-changes-in-v0-6-23|3 Search and Browsing changes in v0.6.23]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

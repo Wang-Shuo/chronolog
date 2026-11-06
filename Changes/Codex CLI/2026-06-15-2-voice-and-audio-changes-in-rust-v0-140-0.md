@@ -5,20 +5,20 @@ description: 'Codex CLI · 2026-06-15 · Voice and Audio: 2 changes in 0.140.0 �
   the experimental `/realtime` voice controls and related audio dependencies from
   the…'
 diffusion:
-  first_in_tracked: '[[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source
-    link) support, which allows you…]]'
+  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
+    Voice and Audio changes in 0.3.7]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1039
+  lag_days: 1071
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ac851ec93b40b79f9f71e98cbc3d38a51e262691c83b6ad4bb9e8af21257869b
+machine_hash: d9f89bdb883ad9bc6ca86f3b6354c3a1601c9af2f3868ae53d64be9fed26060e
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,10 +44,8 @@ record:
   title: 2 Voice and Audio changes in rust-v0.140.0
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-06-05-narrate-changes-through-the-design-mode-overlay-the-mic-stays-available-while-an|Voice
-  input]]'
-- '[[Changes/Cursor/2026-06-05-with-design-mode-in-the-cursor-browser-you-can-click-draw-or-describe-changes-by|With
-  Design Mode in the Cursor browser, you can click, draw, or describe changes…]]'
+- '[[Changes/ElevenLabs/2026-06-08-speech-to-text|Speech to Text]]'
+- '[[Changes/ElevenLabs/2026-06-08-packages|Packages]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-13-voice-runtime-download-dialog-no-longer-reopens-in-a-loop-after-an-install-failu|Voice
   runtime download dialog no longer reopens in a loop after an install failure]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-06-15-rust-v0-140-0-github-339797498-eb64f8cb|codex-cli-2026-06-15-rust-v0-140-0-github-339797498-eb64f8cb]]'
@@ -100,13 +98,13 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.140.0
 ## Nearby in Voice and Audio
 
 - Earlier: 2026-06-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-13-voice-runtime-download-dialog-no-longer-reopens-in-a-loop-after-an-install-failu|Voice runtime download dialog no longer reopens in a loop after an install failure]]
-- Later: 2026-06-18 · ChatGPT · [[Changes/ChatGPT/2026-06-18-help-with-pronunciations-chatgpt-can-now-include-text-and-audio-pronunciation-gu|Help with pronunciations]]
+- Later: 2026-06-15 · ElevenLabs · [[Changes/ElevenLabs/2026-06-15-voices|Voices]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-08-11 · Aider · [[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source link) support, which allows you…]]
+- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

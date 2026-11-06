@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0f2e3ef6ccfdb210553cbc1fabcb463bf7081d0af9c0d03106ea3caf865a1d64
+machine_hash: 21ce3083ba287346530af84395c3a310007a388cdc71edb457183e79c96fe9e6
 product: cursor
 product_name: Cursor
 record:
@@ -90,7 +90,7 @@ Source: https://cursor.com/changelog/1-6
 ## Nearby in Apps and Integrations
 
 - Earlier: 2025-09-11 · Cline · [[Changes/Cline/2025-09-11-added-dify-ai-api-integration|Added Dify.ai API Integration]]
-- Later: 2025-09-15 · Codex CLI · [[Changes/Codex CLI/2025-09-15-5-apps-and-integrations-changes-in-rust-v0-36-0|5 Apps and Integrations changes in rust-v0.36.0]]
+- Later: 2025-09-12 · Replit · [[Changes/Replit/2025-09-12-app-connectors-and-integrations|App connectors and integrations]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

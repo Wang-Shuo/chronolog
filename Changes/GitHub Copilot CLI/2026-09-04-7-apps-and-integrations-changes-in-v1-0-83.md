@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 811e06264fb593a92c0898c6dfdd9a2234f86b22bb845601841da091d7226b3e
+machine_hash: d9733b283f4855fa3f0bfd1fe6a9719ce2a7c339686ec6ebb131172bc311fc9d
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -122,7 +122,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.83
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-09-04 · Claude Code · [[Changes/Claude Code/2026-09-04-vscode-added-an-add-server-form-and-a-remove-action-to-the-mcp-servers-dialog-so|VSCode Added an Add server form and a Remove action to the MCP servers dialog…]]
-- Later: 2026-09-08 · Claude Code · [[Changes/Claude Code/2026-09-08-4-apps-and-integrations-changes-in-v2-1-265|4 Apps and Integrations changes in v2.1.265]]
+- Later: 2026-09-07 · ElevenLabs · [[Changes/ElevenLabs/2026-09-07-sdk-releases|SDK releases]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

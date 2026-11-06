@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3084cc96a1aebff6360e96d3f9e8f4aa837e669dcf438a878e3c5807c3f657bf
+machine_hash: 5c1f70d9dccb149bafe29ee8075860e7b9043a21256f211a30c1d3827fc4526a
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,8 +45,7 @@ record:
   title: 2 Safety and Privacy changes in v2.1.211
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-11-2-safety-and-privacy-changes-in-v2-1-207|2 Safety
-  and Privacy changes in v2.1.207]]'
+- '[[Changes/Lovable/2026-07-13-redesigned-settings|Redesigned settings]]'
 - '[[Changes/Claude Code/2026-07-14-3-safety-and-privacy-changes-in-v2-1-210|3 Safety
   and Privacy changes in v2.1.210]]'
 - '[[Changes/Claude Code/2026-07-14-fixed-multi-second-per-turn-slowdowns-in-sessions-with-many-permission-deny-ask|Fixed
@@ -90,7 +89,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.211
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-07-14 · Claude Code · [[Changes/Claude Code/2026-07-14-fixed-multi-second-per-turn-slowdowns-in-sessions-with-many-permission-deny-ask|Fixed multi-second per-turn slowdowns in sessions with many permission deny/ask rules]]
-- Later: 2026-07-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-16-2-safety-and-privacy-changes-in-v1-0-71|2 Safety and Privacy changes in v1.0.71]]
+- Later: 2026-07-15 · Lovable · [[Changes/Lovable/2026-07-15-automatically-delete-abandoned-projects|Automatically delete abandoned projects]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b5068a122ff709d9fe9e33eba199d783585933a99de6658043459d6e54aa57d0
+machine_hash: 35177e818c9f63dc1e0595d7ab7acedcf77db1011c31df03f1dea380c2bd888c
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -48,8 +48,8 @@ record:
   title: 4 Editor Experience changes in v0.0.348
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2025-10-21-for-more-information-see-https-github-com-github-copilot-cli-issues-351-issuecom|For
-  more information, see…]]'
+- '[[Changes/Dify/2025-10-22-improve-explicitly-delete-task-redis-key-on-completion-in-appqueuemanager-by-bla|improve:
+  Explicitly delete task Redis key on completion in AppQueueManager]]'
 - '[[Changes/Gemini CLI/2025-10-22-4-editor-experience-changes-in-v0-10-0|4 Editor
   Experience changes in v0.10.0]]'
 - '[[Changes/GitHub Copilot CLI/2025-10-22-run-npm-install-g-github-copilot-latest-to-update|Run

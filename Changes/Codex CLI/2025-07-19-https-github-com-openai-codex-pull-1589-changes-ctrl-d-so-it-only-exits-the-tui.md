@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 5bf64664a4e6c6d3cc5c34e54810b706c75f4695b8abf085569972878efcb221
+machine_hash: 4fc3e3df30b436a66efa84838fe029a29bf87f2639fe56f01360f0e4bb2ec774
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -47,11 +47,10 @@ record:
     the TUI…
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-07-03-you-can-now-queue-follow-up-messages-for-agent-once-it-s-done-with-current-task|Queued
-  messages]]'
-- '[[Changes/Cursor/2025-07-03-2-agent-mode-changes-in-1-2|2 Agent Mode changes in
-  1.2]]'
-- '[[Changes/Cursor/2025-07-03-background-agent-improvements|Background Agent improvements]]'
+- '[[Changes/Replit/2025-07-11-agent-multi-tool-calling-upgrade|Agent multi-tool calling
+  upgrade]]'
+- '[[Changes/ElevenLabs/2025-07-14-agents-platform|Agents Platform]]'
+- '[[Changes/ElevenLabs/2025-07-14-agents-platform-d9d1f0|Agents Platform]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-07-19-rust-v0-8-0-github-233643033-2038cb65|codex-cli-2025-07-19-rust-v0-8-0-github-233643033-2038cb65]]'
 source_type: github_releases
 theme: agent-mode
@@ -84,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2025-07-03 · Cursor · [[Changes/Cursor/2025-07-03-background-agent-improvements|Background Agent improvements]]
+- Earlier: 2025-07-14 · ElevenLabs · [[Changes/ElevenLabs/2025-07-14-agents-platform-d9d1f0|Agents Platform]]
 - Later: 2025-07-19 · Gemini CLI · [[Changes/Gemini CLI/2025-07-19-3-agent-mode-changes-in-v0-1-13|3 Agent Mode changes in v0.1.13]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2ed498ab65edc5be2da095cf85666da641aa433adf31e9000c235f65babaf488
+machine_hash: 40ced225ab4b49600cbb41b5cf6cad1a0476719350f1c76ff62912a8c59308fc
 product: claude-code
 product_name: Claude Code
 record:
@@ -87,11 +87,11 @@ record:
   title: 14 Apps and Integrations changes in v2.1.283
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-23-17-apps-and-integrations-changes-in-v2-1-281|17
-  Apps and Integrations changes in v2.1.281]]'
-- '[[Changes/Cursor/2026-09-23-integrations|Integrations]]'
 - '[[Changes/Claude Code/2026-09-24-8-apps-and-integrations-changes-in-v2-1-282|8
   Apps and Integrations changes in v2.1.282]]'
+- '[[Changes/Lovable/2026-09-24-create-update-and-publish-storyblok-content-from-your-app|Create,
+  update, and publish Storyblok content from your app]]'
+- '[[Changes/Claude/2026-09-25-build-plugins-for-claude|Build plugins for Claude]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-25-v2-1-283-github-396845205-9a5a07f8|claude-code-2026-09-25-v2-1-283-github-396845205-9a5a07f8]]'
 source_type: github_releases
 theme: apps-integrations
@@ -158,7 +158,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.283
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-09-24 · Claude Code · [[Changes/Claude Code/2026-09-24-8-apps-and-integrations-changes-in-v2-1-282|8 Apps and Integrations changes in v2.1.282]]
+- Earlier: 2026-09-25 · Claude · [[Changes/Claude/2026-09-25-build-plugins-for-claude|Build plugins for Claude]]
 - Later: 2026-09-25 · Codex CLI · [[Changes/Codex CLI/2026-09-25-9-apps-and-integrations-changes-in-rust-v0-157-0|9 Apps and Integrations changes in rust-v0.157.0]]
 <!-- chronolog:end -->
 

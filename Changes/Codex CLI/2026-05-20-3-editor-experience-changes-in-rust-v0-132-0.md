@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 80bcaaa9eb0ad01cb70f5725641a7783fdc3f2cbddbb21fe1e336c88c1275afe
+machine_hash: 4134ef955eb15fe67c9edc784b8e1004b32d682d028674db746d1219820a0fca
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -46,10 +46,10 @@ record:
   title: 3 Editor Experience changes in rust-v0.132.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-05-18-21954-fix-goal-update-and-add-goal-edit-command-in-tui-etraut-openai|♯21954
-  Fix goal update and add /goal edit command in TUI @etraut-openai]]'
 - '[[Changes/Claude Code/2026-05-19-fewer-spurious-tool-errors-during-search-head-tail-file-views-now-satisfy-the-re|Fewer
   spurious tool errors during search]]'
+- '[[Changes/Dify/2026-05-19-feat-messagelogmodal-refactor-modal-structure-and-improve-tab-handling-by-coding|feat(MessageLogModal):
+  refactor modal structure and improve tab handling]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-19-file-diffs-are-correctly-reported-to-acp-clients-for-all-edit-tool-types|File
   diffs are correctly reported to ACP clients for all edit tool types]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-05-20-rust-v0-132-0-github-325545332-3345c1c4|codex-cli-2026-05-20-rust-v0-132-0-github-325545332-3345c1c4]]'

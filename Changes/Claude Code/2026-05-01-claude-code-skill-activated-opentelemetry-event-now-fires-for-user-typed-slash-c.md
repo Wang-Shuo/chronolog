@@ -4,20 +4,20 @@ date: '2026-05-01'
 description: 'Claude Code · 2026-05-01 · Automation and Scheduling: `claude_code.skill_activated`
   OpenTelemetry event now fires for user-typed slash commands and carries a…'
 diffusion:
-  first_in_tracked: '[[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better
-    syntax error loop detection]]'
+  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
+    data clean schedule]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 604
+  lag_days: 850
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 7341e60d9864b6dfbedd3d9b2d00feff877f6df276d4853695f38f787d2d950c
+machine_hash: 2f2b999892d415f119983eb125785d17528fbeb28f37f281d0b9b477d029d511
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,12 +49,12 @@ record:
     slash…'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-15-resume-continue-now-resurrects-unexpired-scheduled-tasks|--resume/--continue
-  now resurrects unexpired scheduled tasks]]'
-- '[[Changes/Claude Code/2026-04-17-improved-loop-pressing-esc-now-cancels-pending-wakeups-and-wakeups-display-as-cl|Improved
-  /loop: pressing Esc now cancels pending wakeups, and wakeups display…]]'
 - '[[Changes/Gemini CLI/2026-04-23-feat-cli-extract-quotacontext-and-resolve-infinite-render-loop-by-adib234-in-htt|feat(cli):
   extract QuotaContext and resolve infinite render loop]]'
+- "[[Changes/Open WebUI/2026-04-24-automation-model-detection-the-create-automation-tool-now-correctly-detects-the|\U0001F9E9
+  Automation model detection. The create_automation tool now correctly detects…]]"
+- '[[Changes/Dify/2026-04-29-3-automation-and-scheduling-changes-in-1-14-0|3 Automation
+  and Scheduling changes in 1.14.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-01-v2-1-126-github-316244540-de18d9bb|claude-code-2026-05-01-v2-1-126-github-316244540-de18d9bb]]'
 source_type: github_releases
 theme: automation-scheduling
@@ -89,14 +89,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2026-04-23 · Gemini CLI · [[Changes/Gemini CLI/2026-04-23-feat-cli-extract-quotacontext-and-resolve-infinite-render-loop-by-adib234-in-htt|feat(cli): extract QuotaContext and resolve infinite render loop]]
-- Later: 2026-05-20 · Codex CLI · [[Changes/Codex CLI/2026-05-20-codex-exec-resume-now-accepts-output-schema-so-resumed-automations-can-keep-sess|codex exec resume now accepts --output-schema, so resumed automations can keep…]]
+- Earlier: 2026-04-29 · Dify · [[Changes/Dify/2026-04-29-3-automation-and-scheduling-changes-in-1-14-0|3 Automation and Scheduling changes in 1.14.0]]
+- Later: 2026-05-09 · Open WebUI · [[Changes/Open WebUI/2026-05-09-2-automation-and-scheduling-changes-in-v0-9-3|2 Automation and Scheduling changes in v0.9.3]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-09-04 · OpenHands · [[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better syntax error loop detection]]
+- Earliest same-theme entry in the tracked set: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

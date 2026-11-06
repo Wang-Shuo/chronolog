@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8ce8303e64b222a0d3c7e57d97e9ef8783e8960ede88efb182f17b3b258fedad
+machine_hash: 6ad5e42e6b9fa7276c4a4967d6c07c1def9307adfd36e67cf9b26c66b805b9b2
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,10 +44,10 @@ record:
   title: 2 Model Support changes in v2.1.73
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-08-13617-update-models-json-aibrahim-oai|♯13617 Update
-  models.json @aibrahim-oai]]'
 - '[[Changes/Codex CLI/2026-03-10-14123-pass-on-save-info-to-model-ui-tweaks-won-openai|♯14123
   pass on save info to model + ui tweaks @won-openai]]'
+- '[[Changes/v0/2026-03-10-updated-auto-model-icon-to-new-radial-design|Updated auto
+  model icon to new radial design]]'
 - '[[Changes/ChatGPT/2026-03-11-as-of-march-11-2026-gpt-5-1-models-are-no-longer-available-in-chatgpt-this-appli|Retiring
   GPT-5.1 models]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-11-v2-1-73-github-295814700-0abb054f|claude-code-2026-03-11-v2-1-73-github-295814700-0abb054f]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 4936885736165e0e9538c5b1140660884bef73e67550763dc9d0c200545e0a4a
+machine_hash: 816427b11e844d96ef6672d4e8d532d1e1464ae6a4b5509869d721a2c126e0ce
 product: openhands
 product_name: OpenHands
 record:
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-08-07 · Codex CLI · [[Changes/Codex CLI/2026-08-07-17-agent-mode-changes-in-rust-v0-147-0|17 Agent Mode changes in rust-v0.147.0]]
-- Later: 2026-08-11 · Claude Code · [[Changes/Claude Code/2026-08-11-removed-the-outdated-note-about-auto-mode-sessions-costing-slightly-more-from-th|Removed the outdated note about auto mode sessions costing slightly more…]]
+- Later: 2026-08-07 · Replit · [[Changes/Replit/2026-08-07-agent|Agent]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

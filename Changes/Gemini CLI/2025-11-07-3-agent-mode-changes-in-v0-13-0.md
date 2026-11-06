@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 98600d3fec6a1238add5fa5adcfd7d57a5ac787f91894d6b7dae5fd2aa7bdb50
+machine_hash: 0777f8a2bb946a26b6c31a200b7f107c027cfa2773e5a8515893bb699c724139
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -46,12 +46,10 @@ record:
   title: 3 Agent Mode changes in v0.13.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-10-30-3-agent-mode-changes-in-rust-v0-52-0|3 Agent Mode
-  changes in rust-v0.52.0]]'
-- '[[Changes/GitHub Copilot CLI/2025-11-03-custom-agents-with-special-characters-in-filenames-no-longer-fail|Custom
-  agents with special characters in filenames no longer fail]]'
-- '[[Changes/Gemini CLI/2025-11-04-add-regression-tests-for-shell-command-parsing-by-cornmander-in-https-github-com|Add
-  regression tests for shell command parsing]]'
+- '[[Changes/ElevenLabs/2025-11-05-agents-platform-acf28a|Agents Platform]]'
+- '[[Changes/ElevenLabs/2025-11-05-agents-packages|Agents Packages]]'
+- '[[Changes/Lovable/2025-11-05-show-the-agent-what-you-mean|Show the agent what you
+  mean]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-11-07-v0-13-0-github-260462305-15cfa0b7|gemini-cli-2025-11-07-v0-13-0-github-260462305-15cfa0b7]]'
 source_type: github_releases
 theme: agent-mode
@@ -99,8 +97,8 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.13.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2025-11-04 · Gemini CLI · [[Changes/Gemini CLI/2025-11-04-add-regression-tests-for-shell-command-parsing-by-cornmander-in-https-github-com|Add regression tests for shell command parsing]]
-- Later: 2025-11-12 · Gemini CLI · [[Changes/Gemini CLI/2025-11-12-2-agent-mode-changes-in-v0-14-0|2 Agent Mode changes in v0.14.0]]
+- Earlier: 2025-11-05 · Lovable · [[Changes/Lovable/2025-11-05-show-the-agent-what-you-mean|Show the agent what you mean]]
+- Later: 2025-11-07 · Replit · [[Changes/Replit/2025-11-07-animated-agent-icon|Animated agent icon]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

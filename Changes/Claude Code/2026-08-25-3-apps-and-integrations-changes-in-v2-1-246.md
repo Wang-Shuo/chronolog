@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4814bb3487d76c9ac949bfcea0c36ea0d32d6d2cf4a9ec4beed4fa1c592bf7a0
+machine_hash: 22b5e45765f14582a8c9f3db4eaabadf5a0446a2c26f73068d894d46af176c32
 product: claude-code
 product_name: Claude Code
 record:
@@ -50,12 +50,11 @@ record:
   title: 3 Apps and Integrations changes in v2.1.246
   type: change
 related_changes:
-- '[[Changes/Cline/2026-08-22-everything-here-lands-through-the-sdk-bundle-so-it-applies-to-windows-running-th|Everything
-  here lands through the SDK bundle, so it applies to windows running that bundle]]'
-- '[[Changes/Cline/2026-08-23-everything-here-lands-through-the-sdk-bundle-so-it-applies-to-windows-running-th|Everything
-  here lands through the SDK bundle, so it applies to windows running that bundle]]'
-- '[[Changes/Cline/2026-08-23-2-apps-and-integrations-changes-in-v4-1-15|2 Apps and
-  Integrations changes in v4.1.15]]'
+- '[[Changes/ElevenLabs/2026-08-24-javascript-sdk|JavaScript SDK]]'
+- '[[Changes/Lovable/2026-08-24-add-an-mcp-registry-from-the-catalog-header|Add an
+  MCP registry from the catalog header]]'
+- '[[Changes/Lovable/2026-08-24-let-your-app-s-users-connect-their-own-github-account|Let
+  your app''s users connect their own GitHub account]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-25-v2-1-246-github-376644211-dd9805a0|claude-code-2026-08-25-v2-1-246-github-376644211-dd9805a0]]'
 source_type: github_releases
 theme: apps-integrations
@@ -97,8 +96,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.246
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-08-23 · Cline · [[Changes/Cline/2026-08-23-2-apps-and-integrations-changes-in-v4-1-15|2 Apps and Integrations changes in v4.1.15]]
-- Later: 2026-08-25 · Gemini CLI · [[Changes/Gemini CLI/2026-08-25-ssr-agent-issue-fix-21919-fix-typescript-strict-null-errors-in-integration-tests|SSR Agent Issue Fix (21919): Fix TypeScript strict-null errors in integration tests]]
+- Earlier: 2026-08-24 · Lovable · [[Changes/Lovable/2026-08-24-let-your-app-s-users-connect-their-own-github-account|Let your app's users connect their own GitHub account]]
+- Later: 2026-08-25 · Dify · [[Changes/Dify/2026-08-25-28-apps-and-integrations-changes-in-1-17-0|28 Apps and Integrations changes in 1.17.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

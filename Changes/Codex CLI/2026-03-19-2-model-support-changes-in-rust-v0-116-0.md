@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 942728a61edf3da83c090c4481442c6fb2807288df589e977516c2072d8c52a5
+machine_hash: bb81f97f251004820f7ba1d87b1c795b7163d00c1ef17a3e402406a80a3dbcca
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,8 +44,8 @@ record:
   title: 2 Model Support changes in rust-v0.116.0
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-03-18-we-re-rolling-out-gpt-5-4-mini-in-chatgpt-gpt-5-4-mini-is-available-to-free-and|GPT-5.4
-  mini in ChatGPT]]'
+- '[[Changes/Dify/2026-03-18-llm-related-nodes-including-llm-and-question-classifier|LLM-related
+  nodes, including LLM and Question Classifier]]'
 - '[[Changes/Claude Code/2026-03-19-added-effort-frontmatter-support-for-skills-and-slash-commands-to-override-the-m|Added
   effort frontmatter support for skills and slash commands to override…]]'
 - '[[Changes/Cline/2026-03-19-3-model-support-changes-in-v3-74-0|3 Model Support changes

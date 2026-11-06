@@ -4,20 +4,20 @@ date: '2025-06-12'
 description: 'ChatGPT · 2025-06-12 · Voice and Audio: Deep research and voice mode
   support'
 diffusion:
-  first_in_tracked: '[[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source
-    link) support, which allows you…]]'
+  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
+    Voice and Audio changes in 0.3.7]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 671
+  lag_days: 703
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 84443cd16d0b5538f4a777c4399d6ab86d4a24d2ed9f7bf16b398510a4903c93
+machine_hash: dbe5275acd0a864203ab4cbc6317f3cf385778e4757bc808ca19a8c39e7e86d2
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -52,12 +52,12 @@ record:
   title: Deep research and voice mode support
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-05-01-launched-on-april-1-as-a-one-month-surprise-our-monday-personality-available-in|Sunsetting
-  Monday GPT]]'
 - '[[Changes/ChatGPT/2025-06-07-we-re-upgrading-advanced-voice-in-chatgpt-for-paid-users-with-significant-enhanc-ad0b3e|We''re
   upgrading Advanced Voice in ChatGPT for paid users with significant…]]'
 - '[[Changes/ChatGPT/2025-06-07-in-testing-we-ve-observed-that-this-update-may-occasionally-cause-minor-decrease-ca0630|In
   testing, we''ve observed that this update may occasionally cause minor decreases…]]'
+- '[[Changes/Open WebUI/2025-06-10-2-voice-and-audio-changes-in-v0-6-14|2 Voice and
+  Audio changes in v0.6.14]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-06-12-adding-more-capabilities-to-projects-a384b6f8|chatgpt-2025-06-12-adding-more-capabilities-to-projects-a384b6f8]]'
 source_type: chatgpt_changelog
 theme: voice
@@ -90,14 +90,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2025-06-07 · ChatGPT · [[Changes/ChatGPT/2025-06-07-in-testing-we-ve-observed-that-this-update-may-occasionally-cause-minor-decrease-ca0630|In testing, we've observed that this update may occasionally cause minor decreases…]]
-- Later: 2025-06-18 · ChatGPT · [[Changes/ChatGPT/2025-06-18-chatgpt-will-transcribe-summarize-and-turn-them-into-helpful-outputs-like-follow|ChatGPT will transcribe, summarize, and turn them into helpful outputs like…]]
+- Earlier: 2025-06-10 · Open WebUI · [[Changes/Open WebUI/2025-06-10-2-voice-and-audio-changes-in-v0-6-14|2 Voice and Audio changes in v0.6.14]]
+- Later: 2025-06-16 · Open WebUI · [[Changes/Open WebUI/2025-06-16-custom-speech-to-text-content-type-for-transcription-define-custom-content-types|🎤 Custom Speech-to-Text Content-Type for Transcription]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-08-11 · Aider · [[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source link) support, which allows you…]]
+- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

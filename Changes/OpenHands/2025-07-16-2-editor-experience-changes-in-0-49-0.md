@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 72aea4caf11e06f0a5a660d4943c7a38a5532634b3bb9bd2a12641d7fd2ec3a6
+machine_hash: 53eafba848d7aa7f5220db8fc64cf41f8b3c177f18f162c65fa0a91f6d01bf7f
 product: openhands
 product_name: OpenHands
 record:
@@ -42,10 +42,10 @@ record:
   title: 2 Editor Experience changes in 0.49.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-07-09-add-a-completion-subcommand-to-the-cli-in-https-github-com-openai-codex-pull-149|Add
-  a completion subcommand to the CLI…]]'
 - '[[Changes/Gemini CLI/2025-07-11-help-add-shift-tab-tip-by-abhipatel12-in-https-github-com-google-gemini-gemini-c|help:
   add shift+tab tip]]'
+- '[[Changes/Open WebUI/2025-07-14-3-editor-experience-changes-in-v0-6-16|3 Editor
+  Experience changes in v0.6.16]]'
 - '[[Changes/Cline/2025-07-16-2-editor-experience-changes-in-v3-19-5|2 Editor Experience
   changes in v3.19.5]]'
 source_release: '[[Releases/OpenHands/openhands-2025-07-16-0-49-0-github-232847111-e4746322|openhands-2025-07-16-0-49-0-github-232847111-e4746322]]'

@@ -4,20 +4,20 @@ date: '2026-10-20'
 description: 'GitHub Copilot CLI · 2026-10-20 · Enterprise and Administration: Model
   picker marks your administrator-managed model as the default when it is available'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin
-    improvements: Team admins can now mark themselves as unpaid users and can see…]]'
+  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
+    for Google Workspace accounts]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 944
+  lag_days: 1264
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 1b154d64b3f9cbd0f598d1eb5e41d61042635261480604e86280a4c7b0d19a1e
+machine_hash: 56220aa5fe28bf7186d6d6873802bd2b139d710a42bc848319be4dac45461801
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -59,8 +59,7 @@ record:
     is available
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-10-15-applications-are-now-open-to-labs-at-u-s-universities-if-you-re-a-principal-inve|Applications
-  are now open to labs at U.S. universities]]'
+- '[[Changes/ElevenLabs/2026-10-19-realtime-translation|Realtime Translation]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-19-2-enterprise-and-administration-changes-in-v1-0-100|2
   Enterprise and Administration changes in v1.0.100]]'
 - '[[Changes/Claude Code/2026-10-20-claude-tag-added-public-slack-channels-claude-hasn-t-joined-to-the-claude-tag-ad|Claude
@@ -102,13 +101,13 @@ type: change
 ## Nearby in Enterprise and Administration
 
 - Earlier: 2026-10-20 · Claude Code · [[Changes/Claude Code/2026-10-20-claude-tag-added-public-slack-channels-claude-hasn-t-joined-to-the-claude-tag-ad|Claude Tag Added public Slack channels Claude hasn't joined to the Claude Tag…]]
-- Later: 2026-10-23 · Claude Code · [[Changes/Claude Code/2026-10-23-cloud-sessions-added-claude-code-cloud-sessions-and-remote-control-permissions-t|Cloud sessions Added Claude Code cloud sessions and Remote Control permissions…]]
+- Later: 2026-10-20 · Lovable · [[Changes/Lovable/2026-10-20-group-your-workspaces-into-an-organization|Group your workspaces into an organization]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-03-20 · Cursor · [[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin improvements: Team admins can now mark themselves as unpaid users and can see…]]
+- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

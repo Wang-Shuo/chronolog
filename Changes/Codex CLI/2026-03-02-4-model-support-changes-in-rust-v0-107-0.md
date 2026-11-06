@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: cb9d36b39f4aca4346c2c05a7f0c78435b06497b9c7bd51ae656cfd1591ba703
+machine_hash: 23d1ee79a100744bd5cd61dc8a5a2b544f5ffbb56c302ccbc71b39aa34a959d7
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -49,12 +49,12 @@ record:
   title: 4 Model Support changes in rust-v0.107.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-02-26-4-model-support-changes-in-rust-v0-106-0|4 Model
-  Support changes in rust-v0.106.0]]'
-- '[[Changes/Cline/2026-02-27-4-model-support-changes-in-v3-68-0|4 Model Support changes
-  in v3.68.0]]'
 - '[[Changes/Gemini CLI/2026-02-27-11-model-support-changes-in-v0-31-0|11 Model Support
   changes in v0.31.0]]'
+- '[[Changes/Ollama/2026-02-27-lfm-2-https-ollama-com-library-lfm2-lfm2-is-a-family-of-hybrid-models-designed-f|LFM
+  2((source link) LFM2 is a family of hybrid models designed…]]'
+- '[[Changes/Open WebUI/2026-03-01-8-model-support-changes-in-v0-8-6|8 Model Support
+  changes in v0.8.6]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-03-02-rust-v0-107-0-github-292187522-c29f3a8f|codex-cli-2026-03-02-rust-v0-107-0-github-292187522-c29f3a8f]]'
 source_type: github_releases
 theme: model-support
@@ -102,8 +102,8 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.107.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-02-27 · Gemini CLI · [[Changes/Gemini CLI/2026-02-27-11-model-support-changes-in-v0-31-0|11 Model Support changes in v0.31.0]]
-- Later: 2026-03-03 · ChatGPT · [[Changes/ChatGPT/2026-03-03-gpt-5-3-instant-delivers-more-accurate-answers-richer-and-better-contextualized|GPT-5.3 Instant Update]]
+- Earlier: 2026-03-01 · Open WebUI · [[Changes/Open WebUI/2026-03-01-8-model-support-changes-in-v0-8-6|8 Model Support changes in v0.8.6]]
+- Later: 2026-03-02 · Ollama · [[Changes/Ollama/2026-03-02-qwen3-5-https-ollama-com-library-qwen3-5-the-small-qwen-3-5-model-series-is-now|Qwen3.5((source link) the small Qwen 3.5 model series…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

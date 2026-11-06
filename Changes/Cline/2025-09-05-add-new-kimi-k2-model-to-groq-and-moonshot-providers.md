@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: ee8c423722ca60d32dd4ce6dad3f050a3fd4a44ba5054c81b87f53dba79d223f
+machine_hash: 6b233209589cab6005a9bd5064d3d4216d2af052b53ffebb247e96c86c041bad
 product: cline
 product_name: Cline
 record:
@@ -42,10 +42,10 @@ record:
   title: Add new Kimi K2 model to Groq and Moonshot providers
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-09-02-added-llm-risk-analyzer-by-xingyaoww-in-https-github-com-all-hands-ai-openhands|Added
-  LLM risk analyzer]]'
 - '[[Changes/Codex CLI/2025-09-03-3071-use-experimental-reasoning-summary|♯3071 Use
   experimental reasoning summary]]'
+- '[[Changes/Dify/2025-09-03-5-model-support-changes-in-1-8-1|5 Model Support changes
+  in 1.8.1]]'
 - '[[Changes/Gemini CLI/2025-09-04-5-model-support-changes-in-v0-3-0|5 Model Support
   changes in v0.3.0]]'
 source_release: '[[Releases/Cline/cline-2025-09-05-v3-27-1-github-244962693-0351a916|cline-2025-09-05-v3-27-1-github-244962693-0351a916]]'

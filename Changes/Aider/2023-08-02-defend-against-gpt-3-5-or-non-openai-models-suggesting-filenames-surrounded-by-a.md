@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: cfc8f93d46d7a28a097d6001461dfe1d5a2490891d7edf0c155e1088d4154889
+machine_hash: b358e8ba1e7be808e5b7295847110c76e696e14e56c193450419ee23ce385465
 product: aider
 product_name: Aider
 record:
@@ -43,10 +43,10 @@ record:
     by asterisks
   type: change
 related_changes:
-- '[[Changes/Aider/2023-07-22-benchmarked-https-aider-chat-docs-benchmarks-html-at-64-7-for-gpt-4-diff-no-regr|Benchmarked((source
-  link) at 64.7% for gpt-4/diff…]]'
-- '[[Changes/Aider/2023-07-24-benchmarked-https-aider-chat-docs-benchmarks-html-at-64-7-for-gpt-4-diff-no-regr|Benchmarked((source
-  link) at 64.7% for gpt-4/diff…]]'
+- '[[Changes/Ollama/2023-07-26-3-model-support-changes-in-v0-0-12|3 Model Support
+  changes in v0.0.12]]'
+- '[[Changes/Ollama/2023-07-26-you-can-now-rename-models-you-ve-pulled-or-created-with-ollama-cp|Rename
+  models you''ve pulled or created with ollama cp]]'
 - '[[Changes/Cursor/2023-07-28-long-ai-completions-8c21b2|Long AI completions]]'
 source_release: '[[Releases/Aider/aider-2023-08-02-v0-11-0-github-114871173-07ca5a65|aider-2023-08-02-v0-11-0-github-114871173-07ca5a65]]'
 source_type: github_releases
@@ -79,7 +79,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2023-07-28 · Cursor · [[Changes/Cursor/2023-07-28-long-ai-completions-8c21b2|Long AI completions]]
-- Later: 2023-08-03 · ChatGPT · [[Changes/ChatGPT/2023-08-03-we-re-rolling-out-a-bunch-of-small-updates-to-improve-the-chatgpt-experience-shi|Updates to ChatGPT]]
+- Later: 2023-08-02 · Ollama · [[Changes/Ollama/2023-08-02-when-running-ollama-run-the-show-command-can-be-used-to-inspect-the-current-mode|When running ollama run, the /show command can be used to inspect the current model]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

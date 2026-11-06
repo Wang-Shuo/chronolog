@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 769cc6a7680c4de24679aaf707d893b68cc3ca90221b504a5c854b3024286c10
+machine_hash: e73235156d995c2506ba6f61fffc795e2e2ca987a87a39f5e7e6c91b8db7f393
 product: aider
 product_name: Aider
 record:
@@ -43,10 +43,10 @@ record:
   title: Improved token and cost reporting for infinite output
   type: change
 related_changes:
-- '[[Changes/Aider/2024-02-10-updated-all-openai-model-names-pricing-info|Updated
-  all OpenAI model names, pricing info]]'
-- '[[Changes/OpenHands/2024-06-04-add-cost-metrics-to-evaluation-outputs-for-all-benchmarks-by-ryanhoangt-in-https|Add
-  cost metrics to evaluation outputs for all benchmarks]]'
+- '[[Changes/Dify/2024-06-14-feat-pricing-page-add-llm-load-balancing-info-by-iamjoel-in-https-github-com-lan|feat:
+  pricing page add llm load balancing info]]'
+- '[[Changes/Gemini/2024-07-15-workspace-extensions-now-available-in-beta-for-gemini-for-google-workspace-add-o|Workspace
+  Extensions now available in Beta for Gemini for Google Workspace add-on…]]'
 - '[[Changes/Aider/2024-07-29-enhanced-token-usage-and-cost-reporting-now-works-when-streaming-too|Enhanced
   token usage and cost reporting]]'
 source_release: '[[Releases/Aider/aider-2024-08-13-v0-50-0-github-170044522-4391dc3d|aider-2024-08-13-v0-50-0-github-170044522-4391dc3d]]'

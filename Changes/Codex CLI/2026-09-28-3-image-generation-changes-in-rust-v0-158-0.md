@@ -5,20 +5,20 @@ description: 'Codex CLI · 2026-09-28 · Image Generation: 3 changes in 0.158.0 
   generation and editing can explicitly request transparent backgrounds, and edits
   now…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2024-08-08-we-re-rolling-out-the-ability-for-chatgpt-free-users-to-create-up-to-two-images-2c505c|DALL·E
-    3 for ChatGPT Free users]]'
+  first_in_tracked: "[[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|\U0001F3A8
+    DALL-E Integration]]"
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 781
+  lag_days: 932
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: adeeae980db4f2eac789bcf5f29985f42aaa04f8b844c06d75af3d0d4a70c660
+machine_hash: 61ba2b259f580fa497d0c0dea476f453ecbd01a474a1a8068f95812d60a5c2ea
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -47,8 +47,8 @@ record:
   title: 3 Image Generation changes in rust-v0.158.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-17-43953-preserve-per-image-generation-ids-in-image-generation-analytics-copyberry|♯43953
-  Preserve per-image generation IDs in image generation analytics @copyberry]]'
+- '[[Changes/Open WebUI/2026-09-21-2-image-generation-changes-in-v0-11-4|2 Image Generation
+  changes in v0.11.4]]'
 - '[[Changes/Codex CLI/2026-09-22-45544-discourage-logging-full-image-generation-results-gan-tu|♯45544
   Discourage logging full image generation results @Gan-Tu]]'
 - '[[Changes/Codex CLI/2026-09-25-47327-preserve-image-generation-request-ids-on-failure-chrisdong-oai|♯47327
@@ -102,13 +102,13 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.158.0
 ## Nearby in Image Generation
 
 - Earlier: 2026-09-25 · Codex CLI · [[Changes/Codex CLI/2026-09-25-47327-preserve-image-generation-request-ids-on-failure-chrisdong-oai|♯47327 Preserve image generation request IDs on failure @chrisdong-oai]]
-- Later: 2026-10-23 · Codex CLI · [[Changes/Codex CLI/2026-10-23-2-image-generation-changes-in-rust-v0-164-0|2 Image Generation changes in rust-v0.164.0]]
+- Later: 2026-09-28 · ElevenLabs · [[Changes/ElevenLabs/2026-09-28-flows|Flows]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-08-08 · ChatGPT · [[Changes/ChatGPT/2024-08-08-we-re-rolling-out-the-ability-for-chatgpt-free-users-to-create-up-to-two-images-2c505c|DALL·E 3 for ChatGPT Free users]]
+- Earliest same-theme entry in the tracked set: 2024-03-10 · Open WebUI · [[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|🎨 DALL-E Integration]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

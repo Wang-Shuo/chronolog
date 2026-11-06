@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ab20867fc41ce4278cdf2975c5381ce7458d5878cb94e6ef589856433d1297ad
+machine_hash: 74219483e49559c155f2cafc836e4bdd6a7a53496fd5a5612558f918bbb8b662
 product: cline
 product_name: Cline
 record:
@@ -41,12 +41,12 @@ record:
   title: 'Hooks: Added a `Notification` hook for attention and completion boundaries'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-03-2-editor-experience-changes-in-v0-0-421|2
-  Editor Experience changes in v0.0.421]]'
-- '[[Changes/Cursor/2026-03-04-install-the-cursor-acp-directly-in-your-jetbrains-ide-from-the-acp-registry-and|Install
-  the Cursor ACP directly in your JetBrains IDE from the ACP Registry…]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-05-6-editor-experience-changes-in-v0-0-422|6
   Editor Experience changes in v0.0.422]]'
+- '[[Changes/v0/2026-03-05-added-summary-header-to-diff-tab-showing-file-changes|Added
+  summary header to diff tab showing file changes]]'
+- '[[Changes/v0/2026-03-05-added-diff-code-tab-toggle-with-hover-expand-functionality|Added
+  diff/code tab toggle with hover-expand functionality]]'
 source_release: '[[Releases/Cline/cline-2026-03-06-v3-71-0-github-294051339-3a3148c3|cline-2026-03-06-v3-71-0-github-294051339-3a3148c3]]'
 source_type: github_releases
 theme: editor-experience
@@ -76,7 +76,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-03-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-05-6-editor-experience-changes-in-v0-0-422|6 Editor Experience changes in v0.0.422]]
+- Earlier: 2026-03-05 · v0 · [[Changes/v0/2026-03-05-added-diff-code-tab-toggle-with-hover-expand-functionality|Added diff/code tab toggle with hover-expand functionality]]
 - Later: 2026-03-06 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-06-to-commemorate-github-copilot-cli-reaching-general-availability-last-week-we-re|To commemorate GitHub Copilot CLI reaching general availability last week, we're…]]
 <!-- chronolog:end -->
 

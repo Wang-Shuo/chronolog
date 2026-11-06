@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: afb61fc333fb0de1bf6f6c1728de1a8af20ef7e6f6d98bb624b3597b9f813ea7
+machine_hash: 085c7122dbee85cd8905983cce169aab0720152a98cafd3629fd9523908e3b90
 product: cursor
 product_name: Cursor
 record:
@@ -41,10 +41,10 @@ record:
   title: '"Apply Diffs" from chat should be a bit faster'
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-11-03-shipped-better-error-logging-which-should-help-us-improve-stability|Shipped
-  better error logging, which should help us improve stability]]'
-- '[[Changes/Cursor/2023-11-30-faster-copilot-a-few-hundred-milliseconds-faster-through-various-networking-opti|Faster
-  Copilot++: a few hundred milliseconds faster, through various networking…]]'
+- '[[Changes/Ollama/2024-01-20-2-reliability-and-performance-changes-in-v0-1-21|2
+  Reliability and Performance changes in v0.1.21]]'
+- '[[Changes/Dify/2024-01-25-refine-faster-rsa-implement-by-yeuoly-in-https-github-com-langgenius-dify-pull-2|refine:
+  faster rsa implement]]'
 - '[[Changes/Cursor/2024-02-02-0-25-2-copilot-performance-improvements|0.25.2: Copilot++
   performance improvements]]'
 source_release: '[[Releases/Cursor/cursor-2024-02-02-0-25-x-https-cursor-com-changelog-0-25-x-29976ab7|cursor-2024-02-02-0-25-x-https-cursor-com-changelog-0-25-x-29976ab7]]'
@@ -77,8 +77,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2023-11-30 · Cursor · [[Changes/Cursor/2023-11-30-faster-copilot-a-few-hundred-milliseconds-faster-through-various-networking-opti|Faster Copilot++: a few hundred milliseconds faster, through various networking…]]
-- Later: 2024-03-20 · Cursor · [[Changes/Cursor/2024-03-20-faster-copilot-we-ve-made-copilot-2x-faster-this-speed-bump-comes-from-a-new-mod|Faster Copilot++: We've made Copilot++ ~2x faster!]]
+- Earlier: 2024-01-25 · Dify · [[Changes/Dify/2024-01-25-refine-faster-rsa-implement-by-yeuoly-in-https-github-com-langgenius-dify-pull-2|refine: faster rsa implement]]
+- Later: 2024-02-02 · Ollama · [[Changes/Ollama/2024-02-02-when-making-api-requests-the-new-keep-alive-parameter-can-be-used-to-control-how|When making API requests, the new keep_alive parameter can be used to control how…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

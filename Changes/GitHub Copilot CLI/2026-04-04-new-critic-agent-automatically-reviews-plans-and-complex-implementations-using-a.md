@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 109c99e7e49fb20ddf019f7a64dcb62910dbd299cc80f137e873767238b60917
+machine_hash: ad9c6e1bffcfcd1839dcf3db4c2a89f1656185f6dab3df33a4065b846ed91965
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -57,12 +57,12 @@ record:
     using…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-01-usage-now-hides-redundant-current-week-sonnet-only-bar-for-pro-and-enterprise-pl|/usage
-  now hides redundant "Current week (Sonnet only)" bar for Pro and Enterprise plans]]'
 - '[[Changes/Gemini CLI/2026-04-01-7-model-support-changes-in-v0-36-0|7 Model Support
   changes in v0.36.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-01-remove-support-for-gpt-5-1-codex-gpt-5-1-codex-mini-and-gpt-5-1-codex-max-models|Remove
   support for gpt-5.1-codex, gpt-5.1-codex-mini, and gpt-5.1-codex-max models]]'
+- '[[Changes/Ollama/2026-04-02-26b-mixture-of-experts-model-with-4b-active-parameters|26B
+  (Mixture of Experts model with 4B active parameters)]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-04-04-v1-0-18-github-305219965-5e5d3492|github-copilot-cli-2026-04-04-v1-0-18-github-305219965-5e5d3492]]'
 source_type: github_releases
 theme: model-support
@@ -93,7 +93,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-04-01 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-01-remove-support-for-gpt-5-1-codex-gpt-5-1-codex-mini-and-gpt-5-1-codex-max-models|Remove support for gpt-5.1-codex, gpt-5.1-codex-mini, and gpt-5.1-codex-max models]]
+- Earlier: 2026-04-02 · Ollama · [[Changes/Ollama/2026-04-02-26b-mixture-of-experts-model-with-4b-active-parameters|26B (Mixture of Experts model with 4B active parameters)]]
 - Later: 2026-04-06 · Windsurf · [[Changes/Windsurf/2026-04-06-adaptive-model-router|Adaptive Model Router]]
 <!-- chronolog:end -->
 

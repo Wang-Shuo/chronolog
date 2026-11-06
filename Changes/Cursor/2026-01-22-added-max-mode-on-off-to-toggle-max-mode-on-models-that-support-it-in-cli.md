@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 12cc72e42978c125a4435204c1a1ec99ea9c7736995a4843793d6075d6aee6a2
+machine_hash: 29be63ff4715bedb3405a9461d1a8efbd9b0660c26eaf54d28b1516402dd8f86
 product: cursor
 product_name: Cursor
 record:
@@ -45,8 +45,8 @@ record:
     CLI
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-01-21-6-model-support-changes-in-v0-25-0|6 Model Support
-  changes in v0.25.0]]'
+- '[[Changes/Ollama/2026-01-21-a-new-ollama-launch-command-to-use-ollama-s-models-with-claude-code-codex-openco|A
+  new ollama launch command to use Ollama''s models with Claude Code, Codex…]]'
 - '[[Changes/ChatGPT/2026-01-22-we-re-updating-gpt-5-2-instant-s-default-personality-to-be-more-conversational-a|5.2
   Personality System Prompt Update]]'
 - '[[Changes/Codex CLI/2026-01-22-9597-feat-core-modelinfo-model-instructions-template-dylan-hurd-oai|♯9597

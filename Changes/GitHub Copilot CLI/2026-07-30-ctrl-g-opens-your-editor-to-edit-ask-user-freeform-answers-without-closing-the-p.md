@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8e3e21ce8673d802b75f1d16e817ef608db7a2cec2365b61f170d3741fabe525
+machine_hash: 451648ed8fed131b2395c123f2f4290ab282788349afa1d43127cc6b21d3f58f
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,8 +43,8 @@ record:
     the prompt
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-23-show-tab-in-settings-footer-to-switch-scope-tabs|Show
-  Tab in /settings footer to switch scope tabs]]'
+- '[[Changes/Dify/2026-07-28-feat-web-locate-workflow-nodes-by-node-id-in-the-workflow-editor-by-ruanimal-in|feat(web):
+  locate workflow nodes by node_id in the workflow editor]]'
 - '[[Changes/Codex CLI/2026-07-29-3-editor-experience-changes-in-rust-v0-146-0|3 Editor
   Experience changes in rust-v0.146.0]]'
 - '[[Changes/OpenHands/2026-07-29-feat-allow-overwriting-a-secret-value-from-the-edit-form-by-hieptl-in-https-gith|feat:

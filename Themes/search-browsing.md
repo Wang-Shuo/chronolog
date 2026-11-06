@@ -2,8 +2,8 @@
 created: '2023-03-23'
 date: '2026-11-06'
 description: Cross-product timeline of Search and Browsing changes in ChatGPT, Claude
-  Code, Cline, Codex CLI, Cursor, Gemini CLI, GitHub Copilot CLI and OpenHands.
-machine_hash: bf4e4b4395ff23790560f2adc69cbd2df846a7c7fa5c8a2c2c9c666aeae375fc
+  Code, Cline, Codex CLI, Cursor, DeepSeek API, Dify, Gemini, Gemini CLI, GitHub Copilot…
+machine_hash: 4003b0713d2965d0ec039f5665c6e1290a7dc178c8c9a91285c54804b544e420
 modified: '2026-11-06'
 products_involved:
 - ChatGPT
@@ -11,9 +11,17 @@ products_involved:
 - Cline
 - Codex CLI
 - Cursor
+- DeepSeek API
+- Dify
+- Gemini
 - Gemini CLI
 - GitHub Copilot CLI
+- Lovable
+- Ollama
+- Open WebUI
 - OpenHands
+- Replit
+- v0
 publication: active
 status: official
 tags:
@@ -26,7 +34,7 @@ title: Search and Browsing
 <!-- chronolog:begin region="header" -->
 # Search and Browsing
 
-103 tracked changes across ChatGPT, Claude Code, Cline, Codex CLI, Cursor, Gemini CLI, GitHub Copilot CLI and OpenHands · 2023-03-23 → 2026-11-06 · Codex CLI averages 8.0 cards per release, Gemini CLI 7.5, Claude Code 7.0, GitHub Copilot CLI 6.3, Cursor 4.0, OpenHands 3.8, Cline 3.0, ChatGPT 1.7
+193 tracked changes across ChatGPT, Claude Code, Cline, Codex CLI, Cursor, DeepSeek API, Dify, Gemini, Gemini CLI, GitHub Copilot CLI, Lovable, Ollama, Open WebUI, OpenHands, Replit and v0 · 2023-03-23 → 2026-11-06 · Codex CLI averages 8.0 cards per release, Open WebUI 7.6, Gemini CLI 7.5, Dify 7.2, Claude Code 7.0, GitHub Copilot CLI 6.3, Replit 4.9, Cursor 4.0, Lovable 3.9, OpenHands 3.8, Cline 3.0, Ollama 3.0, v0 2.9, ChatGPT 1.7, Gemini 1.5, DeepSeek API 1.1
 <!-- chronolog:end -->
 
 ## Research summary
@@ -38,14 +46,19 @@ Explore the dated evidence below.
 <!-- chronolog:begin region="moments" -->
 Selected automatically from launches and standalone announcements.
 
-| Quarter | ChatGPT | Claude Code | Cline | Codex CLI | Cursor | Gemini CLI | GitHub Copilot CLI | OpenHands |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **First in archive** | <time datetime="2023-03-23">2023-03-23</time> [[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet\|Browsing: An experimental model that knows when and how to browse the internet]] | <time datetime="2026-05-19">2026-05-19</time> [[Changes/Claude Code/2026-05-19-the-plugin-browse-and-discover-panes-now-show-when-a-plugin-was-last-updated\|The /plugin browse and discover panes now show when a plugin was last updated]] | <time datetime="2024-12-12">2024-12-12</time> [[Changes/Cline/2024-12-12-the-model-context-protocol-https-github-com-modelcontextprotocol-allows-agents-l\|The Model Context Protocol((source link) allows agents…]] | <time datetime="2025-08-26">2025-08-26</time> [[Changes/Codex CLI/2025-08-26-2-search-and-browsing-changes-in-rust-v0-24-0\|2 Search and Browsing changes in rust-v0.24.0]] | <time datetime="2024-01-25">2024-01-25</time> [[Changes/Cursor/2024-01-25-using-web-in-chat-will-give-the-ai-the-ability-to-crawl-the-web-the-tools-it-can\|Using @Web in chat will give the AI the ability to crawl the web!]] | <time datetime="2025-08-18">2025-08-18</time> [[Changes/Gemini CLI/2025-08-18-feat-core-migrate-web-search-write-file-and-discovered-tool-by-joshualitt-in-htt\|feat(core): Migrate web-search, write-file, and discovered-tool]] | <time datetime="2026-02-25">2026-02-25</time> [[Changes/GitHub Copilot CLI/2026-02-25-add-research-command-for-deep-research-with-exportable-reports\|Add /research command for deep research with exportable reports]] | <time datetime="2024-06-29">2024-06-29</time> [[Changes/OpenHands/2024-06-29-5-search-and-browsing-changes-in-0-7-0\|5 Search and Browsing changes in 0.7.0]] |
-| 2026 Q3 | · | · | <time datetime="2026-09-17">2026-09-17</time> [[Changes/Cline/2026-09-17-web-search-is-now-enabled-by-default-on-models-that-support-it-outside-yolo-mode\|Web search is now enabled by default on models that support it, outside YOLO mode]] | · | · | · | · | · |
-| 2025 Q3 → 2026 Q2 | · | archive begins <time datetime="2025-12-19">2025-12-19</time> | · | · | · | · | archive begins <time datetime="2025-09-26">2025-09-26</time> | · |
-| 2025 Q2 | <time datetime="2025-05-12">2025-05-12</time> [[Changes/ChatGPT/2025-05-12-you-can-now-export-your-deep-research-reports-as-well-formatted-pdfs-complete-wi-87a3fa\|Export Deep Research as PDF for Plus/Pro/Team]] | <span class="not-archived">not archived</span> | · | archive begins <time datetime="2025-06-30">2025-06-30</time> | · | archive begins <time datetime="2025-06-28">2025-06-28</time> | <span class="not-archived">not archived</span> | · |
+| Quarter | ChatGPT | Claude Code | Cline | Codex CLI | Cursor | DeepSeek API | Dify | Gemini | Gemini CLI | GitHub Copilot CLI | Lovable | Ollama | Open WebUI | OpenHands | Replit | v0 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **First in archive** | <time datetime="2023-03-23">2023-03-23</time> [[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet\|Browsing: An experimental model that knows when and how to browse the internet]] | <time datetime="2026-05-19">2026-05-19</time> [[Changes/Claude Code/2026-05-19-the-plugin-browse-and-discover-panes-now-show-when-a-plugin-was-last-updated\|The /plugin browse and discover panes now show when a plugin was last updated]] | <time datetime="2024-12-12">2024-12-12</time> [[Changes/Cline/2024-12-12-the-model-context-protocol-https-github-com-modelcontextprotocol-allows-agents-l\|The Model Context Protocol((source link) allows agents…]] | <time datetime="2025-08-26">2025-08-26</time> [[Changes/Codex CLI/2025-08-26-2-search-and-browsing-changes-in-rust-v0-24-0\|2 Search and Browsing changes in rust-v0.24.0]] | <time datetime="2024-01-25">2024-01-25</time> [[Changes/Cursor/2024-01-25-using-web-in-chat-will-give-the-ai-the-ability-to-crawl-the-web-the-tools-it-can\|Using @Web in chat will give the AI the ability to crawl the web!]] | <time datetime="2026-10-17">2026-10-17</time> [[Changes/DeepSeek API/2026-10-17-opening-up-the-in-house-search-api\|Opening up the in-house search API]] | <time datetime="2023-11-21">2023-11-21</time> [[Changes/Dify/2023-11-21-current-version-adds-full-text-search-and-hybrid-search-functions-for-datasets-s\|Current version adds full-text search and hybrid search functions for datasets…]] | <time datetime="2026-01-28">2026-01-28</time> [[Changes/Gemini/2026-01-28-meet-your-new-ai-browsing-assistant-gemini-in-chrome\|Meet your new AI browsing assistant: Gemini in Chrome]] | <time datetime="2025-08-18">2025-08-18</time> [[Changes/Gemini CLI/2025-08-18-feat-core-migrate-web-search-write-file-and-discovered-tool-by-joshualitt-in-htt\|feat(core): Migrate web-search, write-file, and discovered-tool]] | <time datetime="2026-02-25">2026-02-25</time> [[Changes/GitHub Copilot CLI/2026-02-25-add-research-command-for-deep-research-with-exportable-reports\|Add /research command for deep research with exportable reports]] | <time datetime="2025-11-26">2025-11-26</time> [[Changes/Lovable/2025-11-26-better-commit-messages\|Better commit messages]] | <time datetime="2024-07-25">2024-07-25</time> [[Changes/Ollama/2024-07-25-web-browsing\|Web browsing]] | <time datetime="2024-06-02">2024-06-02</time> [[Changes/Open WebUI/2024-06-02-web-search-support-introducing-built-in-web-search-capabilities-via-rag-api-allo\|🔍 Web Search Support]] | <time datetime="2024-06-29">2024-06-29</time> [[Changes/OpenHands/2024-06-29-5-search-and-browsing-changes-in-0-7-0\|5 Search and Browsing changes in 0.7.0]] | <time datetime="2025-01-31">2025-01-31</time> [[Changes/Replit/2025-01-31-object-storage-improvements\|Object Storage improvements]] | <time datetime="2026-01-08">2026-01-08</time> [[Changes/v0/2026-01-08-improved-the-speed-and-token-use-of-the-web-search-tool\|Improved the speed and token use of the Web Search tool]] |
+| 2026 Q4 | · | · | · | · | · | <time datetime="2026-10-17">2026-10-17</time> [[Changes/DeepSeek API/2026-10-17-opening-up-the-in-house-search-api\|Opening up the in-house search API]] | · | · | · | · | · | · | · | · | <time datetime="2026-10-16">2026-10-16</time> [[Changes/Replit/2026-10-16-find-a-replit-solutions-partner\|Find a Replit Solutions Partner]] | · |
+| 2026 Q3 | · | · | <time datetime="2026-09-17">2026-09-17</time> [[Changes/Cline/2026-09-17-web-search-is-now-enabled-by-default-on-models-that-support-it-outside-yolo-mode\|Web search is now enabled by default on models that support it, outside YOLO mode]] | · | · | · | · | · | · | · | <time datetime="2026-09-18">2026-09-18</time> [[Changes/Lovable/2026-09-18-try-the-lovable-api-in-postman\|Try the Lovable API in Postman]]<br><time datetime="2026-09-17">2026-09-17</time> [[Changes/Lovable/2026-09-17-perplexity-web-search-without-your-own-api-key\|Perplexity web search without your own API key]]<br><time datetime="2026-09-09">2026-09-09</time> [[Changes/Lovable/2026-09-09-compare-and-restore-earlier-versions-of-a-plan\|Compare and restore earlier versions of a plan]]<br><time datetime="2026-08-26">2026-08-26</time> [[Changes/Lovable/2026-08-26-see-how-each-app-page-appears-in-search-results-and-link-previews\|See how each app page appears in search results and link previews]] | · | · | · | · | · |
+| 2026 Q2 | · | · | · | · | · | · | · | · | · | · | · | · | · | · | · | · |
+| 2026 Q1 | · | · | · | · | · | · | · | <time datetime="2026-01-28">2026-01-28</time> [[Changes/Gemini/2026-01-28-meet-your-new-ai-browsing-assistant-gemini-in-chrome\|Meet your new AI browsing assistant: Gemini in Chrome]] | · | · | · | · | · | · | <time datetime="2026-02-20">2026-02-20</time> [[Changes/Replit/2026-02-20-skills-search\|Skills Search]] | · |
+| 2025 Q4 | · | archive begins <time datetime="2025-12-19">2025-12-19</time> | · | · | · | · | · | · | · | · | · | · | · | · | <time datetime="2025-10-03">2025-10-03</time> [[Changes/Replit/2025-10-03-app-themes-font-improvements\|App Themes font improvements]] | archive begins <time datetime="2025-10-01">2025-10-01</time> |
+| 2025 Q3 | · | <span class="not-archived">not archived</span> | · | · | · | · | · | · | · | archive begins <time datetime="2025-09-26">2025-09-26</time> | · | · | · | · | <time datetime="2025-07-04">2025-07-04</time> [[Changes/Replit/2025-07-04-gallery\|Gallery]] | <span class="not-archived">not archived</span> |
+| 2025 Q2 | <time datetime="2025-05-12">2025-05-12</time> [[Changes/ChatGPT/2025-05-12-you-can-now-export-your-deep-research-reports-as-well-formatted-pdfs-complete-wi-87a3fa\|Export Deep Research as PDF for Plus/Pro/Team]] | <span class="not-archived">not archived</span> | · | archive begins <time datetime="2025-06-30">2025-06-30</time> | · | · | · | · | archive begins <time datetime="2025-06-28">2025-06-28</time> | <span class="not-archived">not archived</span> | · | · | · | · | · | <span class="not-archived">not archived</span> |
+| 2025 Q1 | · | <span class="not-archived">not archived</span> | · | <span class="not-archived">not archived</span> | · | · | · | · | <span class="not-archived">not archived</span> | <span class="not-archived">not archived</span> | · | · | · | · | <time datetime="2025-01-31">2025-01-31</time> [[Changes/Replit/2025-01-31-object-storage-improvements\|Object Storage improvements]] | <span class="not-archived">not archived</span> |
 
-First in archive: each product's earliest tracked change in this theme. "·" marks a quarter without a key moment, and "not archived" a quarter before the product's archive begins. Archives begin: ChatGPT 2022-12-15 · Claude Code 2025-12-19 · Cline 2024-07-28 · Codex CLI 2025-06-30 · Cursor 2023-03-14 · Gemini CLI 2025-06-28 · GitHub Copilot CLI 2025-09-26 · OpenHands 2024-06-04.
+First in archive: each product's earliest tracked change in this theme. "·" marks a quarter without a key moment, and "not archived" a quarter before the product's archive begins. Archives begin: ChatGPT 2022-12-15 · Claude Code 2025-12-19 · Cline 2024-07-28 · Codex CLI 2025-06-30 · Cursor 2023-03-14 · DeepSeek API 2024-05-17 · Dify 2023-05-15 · Gemini 2023-04-10 · Gemini CLI 2025-06-28 · GitHub Copilot CLI 2025-09-26 · Lovable 2024-12-03 · Ollama 2023-07-08 · Open WebUI 2024-02-23 · OpenHands 2024-06-04 · Replit 2024-12-13 · v0 2025-10-01.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="scope" -->
@@ -71,17 +84,37 @@ Launches, expansions, pricing and policy changes and standalone announcements co
 <label><input type="radio" name="timeline-product" id="tl-only-3"> Cline</label>
 <label><input type="radio" name="timeline-product" id="tl-only-4"> Codex CLI</label>
 <label><input type="radio" name="timeline-product" id="tl-only-5"> Cursor</label>
-<label><input type="radio" name="timeline-product" id="tl-only-6"> Gemini CLI</label>
-<label><input type="radio" name="timeline-product" id="tl-only-7"> GitHub Copilot CLI</label>
-<label><input type="radio" name="timeline-product" id="tl-only-8"> OpenHands</label>
+<label><input type="radio" name="timeline-product" id="tl-only-6"> DeepSeek API</label>
+<label><input type="radio" name="timeline-product" id="tl-only-7"> Dify</label>
+<label><input type="radio" name="timeline-product" id="tl-only-8"> Gemini</label>
+<label><input type="radio" name="timeline-product" id="tl-only-9"> Gemini CLI</label>
+<label><input type="radio" name="timeline-product" id="tl-only-10"> GitHub Copilot CLI</label>
+<label><input type="radio" name="timeline-product" id="tl-only-11"> Lovable</label>
+<label><input type="radio" name="timeline-product" id="tl-only-12"> Ollama</label>
+<label><input type="radio" name="timeline-product" id="tl-only-13"> Open WebUI</label>
+<label><input type="radio" name="timeline-product" id="tl-only-14"> OpenHands</label>
+<label><input type="radio" name="timeline-product" id="tl-only-15"> Replit</label>
+<label><input type="radio" name="timeline-product" id="tl-only-16"> v0</label>
 </fieldset>
 
 <details class="disclosure">
-<summary>2026 · 69 entries (ChatGPT 8 · Claude Code 7 · Cline 2 · Codex CLI 31 · Cursor 3 · Gemini CLI 1 · GitHub Copilot CLI 16 · OpenHands 1)</summary>
+<summary>2026 · 110 entries (ChatGPT 8 · Claude Code 7 · Cline 2 · Codex CLI 31 · Cursor 3 · DeepSeek API 1 · Dify 1 · Gemini 1 · Gemini CLI 1 · GitHub Copilot CLI 16 · Lovable 4 · Ollama 10 · Open WebUI 21 · OpenHands 1 · Replit 2 · v0 1)</summary>
+
+**2026-10**
+
+- 2026-10-17 · <span class="tl-product tl-p6">**DeepSeek API**</span> · [[Changes/DeepSeek API/2026-10-17-opening-up-the-in-house-search-api|Opening up the in-house search API]] · Launch
+- 2026-10-16 · <span class="tl-product tl-p15">**Replit**</span> · [[Changes/Replit/2026-10-16-find-a-replit-solutions-partner|Find a Replit Solutions Partner]] · Launch
 
 **2026-09**
 
+- 2026-09-18 · <span class="tl-product tl-p11">**Lovable**</span> · [[Changes/Lovable/2026-09-18-try-the-lovable-api-in-postman|Try the Lovable API in Postman]] · Launch
 - 2026-09-17 · <span class="tl-product tl-p3">**Cline**</span> · [[Changes/Cline/2026-09-17-web-search-is-now-enabled-by-default-on-models-that-support-it-outside-yolo-mode|Web search is now enabled by default on models that support it, outside YOLO mode]] · Change
+- 2026-09-17 · <span class="tl-product tl-p11">**Lovable**</span> · [[Changes/Lovable/2026-09-17-perplexity-web-search-without-your-own-api-key|Perplexity web search without your own API key]] · Launch
+- 2026-09-09 · <span class="tl-product tl-p11">**Lovable**</span> · [[Changes/Lovable/2026-09-09-compare-and-restore-earlier-versions-of-a-plan|Compare and restore earlier versions of a plan]] · Launch
+
+**2026-08**
+
+- 2026-08-26 · <span class="tl-product tl-p11">**Lovable**</span> · [[Changes/Lovable/2026-08-26-see-how-each-app-page-appears-in-search-results-and-link-previews|See how each app page appears in search results and link previews]] · Launch
 
 **2026-03**
 
@@ -89,19 +122,31 @@ Launches, expansions, pricing and policy changes and standalone announcements co
 
 **2026-02**
 
+- 2026-02-20 · <span class="tl-product tl-p15">**Replit**</span> · [[Changes/Replit/2026-02-20-skills-search|Skills Search]] · Launch
 - 2026-02-17 · <span class="tl-product tl-p4">**Codex CLI**</span> · [[Changes/Codex CLI/2026-02-17-11224-chore-clarify-web-search-deprecation-notices-and-consolidate-tests-sayan-o|♯11224 chore: clarify web_search deprecation notices and consolidate tests @sayan-oai]] · Policy
 
+**2026-01**
+
+- 2026-01-28 · <span class="tl-product tl-p8">**Gemini**</span> · [[Changes/Gemini/2026-01-28-meet-your-new-ai-browsing-assistant-gemini-in-chrome|Meet your new AI browsing assistant: Gemini in Chrome]] · Launch
+
 <details class="disclosure">
-<summary>Fixes, digests and other changes · 66 (ChatGPT 7 · Claude Code 7 · Cline 1 · Codex CLI 30 · Cursor 3 · Gemini CLI 1 · GitHub Copilot CLI 16 · OpenHands 1)</summary>
+<summary>Fixes, digests and other changes · 99 (ChatGPT 7 · Claude Code 7 · Cline 1 · Codex CLI 30 · Cursor 3 · Dify 1 · Gemini CLI 1 · GitHub Copilot CLI 16 · Ollama 10 · Open WebUI 21 · OpenHands 1 · v0 1)</summary>
 
 **2026-11**
 
 - 2026-11-06 · <span class="tl-product tl-p4">**Codex CLI**</span> · [[Changes/Codex CLI/2026-11-06-3-search-and-browsing-changes-in-rust-v0-167-0|3 Search and Browsing changes in rust-v0.167.0]] · Digest
+- 2026-11-03 · <span class="tl-product tl-p12">**Ollama**</span> · [[Changes/Ollama/2026-11-03-cloud-web-search-responses-on-api-chat-are-now-decoded-correctly-including-compr|Cloud web search responses on /api/chat are now decoded correctly, including…]] · Change
+- 2026-11-03 · <span class="tl-product tl-p13">**Open WebUI**</span> · [[Changes/Open WebUI/2026-11-03-2-search-and-browsing-changes-in-v0-13-0|2 Search and Browsing changes in v0.13.0]] · Digest
 
 **2026-10**
 
 - 2026-10-29 · <span class="tl-product tl-p4">**Codex CLI**</span> · [[Changes/Codex CLI/2026-10-29-57542-add-model-gated-literature-search-to-standalone-web-search-rhan-oai|♯57542 Add model-gated literature search to standalone web search @rhan-oai]] · Change
-- 2026-10-19 · <span class="tl-product tl-p7">**GitHub Copilot CLI**</span> · [[Changes/GitHub Copilot CLI/2026-10-19-2-search-and-browsing-changes-in-v1-0-100|2 Search and Browsing changes in v1.0.100]] · Digest
+- 2026-10-25 · <span class="tl-product tl-p13">**Open WebUI**</span> · [[Changes/Open WebUI/2026-10-25-web-search-settings-save-admins-can-now-save-web-search-settings-such-as-the-web|🌍 Web Search settings save. Admins can now save Web Search settings such…]] · Change
+- 2026-10-22 · <span class="tl-product tl-p12">**Ollama**</span> · [[Changes/Ollama/2026-10-22-anthropic-compatible-web-search-now-uses-the-model-s-supported-thinking-setting|Anthropic-compatible web search now uses the model's supported thinking setting…]] · Change
+- 2026-10-19 · <span class="tl-product tl-p10">**GitHub Copilot CLI**</span> · [[Changes/GitHub Copilot CLI/2026-10-19-2-search-and-browsing-changes-in-v1-0-100|2 Search and Browsing changes in v1.0.100]] · Digest
+- 2026-10-16 · <span class="tl-product tl-p13">**Open WebUI**</span> · [[Changes/Open WebUI/2026-10-16-built-in-tools-with-a-custom-tools-parameter-a-model-with-a-custom-parameter-nam|🧩 Built-in tools with a custom tools parameter. A model with a custom parameter…]] · Change
+- 2026-10-14 · <span class="tl-product tl-p13">**Open WebUI**</span> · [[Changes/Open WebUI/2026-10-14-tools-picked-in-new-chats-tools-picked-from-the-integrations-menu-the-web-search|🧰 Tools picked in new chats. Tools picked from the Integrations menu, the Web…]] · Change
+- 2026-10-10 · <span class="tl-product tl-p13">**Open WebUI**</span> · [[Changes/Open WebUI/2026-10-10-4-search-and-browsing-changes-in-v0-12-0|4 Search and Browsing changes in v0.12.0]] · Digest
 - 2026-10-07 · <span class="tl-product tl-p4">**Codex CLI**</span> · [[Changes/Codex CLI/2026-10-07-3-search-and-browsing-changes-in-rust-v0-161-0|3 Search and Browsing changes in rust-v0.161.0]] · Digest
 - 2026-10-05 · <span class="tl-product tl-p2">**Claude Code**</span> · [[Changes/Claude Code/2026-10-05-changed-the-interactive-session-s-websearch-budget-to-refill-over-time-100-calls|Changed the interactive session's WebSearch budget to refill over time (100 calls/hour]] · Change
 - 2026-10-01 · <span class="tl-product tl-p2">**Claude Code**</span> · [[Changes/Claude Code/2026-10-01-improved-sdk-sessions-so-a-message-sent-with-priority-now-no-longer-cancels-a-ru|Improved SDK sessions so a message sent with priority "now" no longer cancels…]] · Change
@@ -109,55 +154,67 @@ Launches, expansions, pricing and policy changes and standalone announcements co
 
 **2026-09**
 
+- 2026-09-29 · <span class="tl-product tl-p12">**Ollama**</span> · [[Changes/Ollama/2026-09-29-models-using-web-search-can-now-perform-up-to-ten-searches-per-response-up-from|Models using web search can now perform up to ten searches per response, up from three]] · Change
 - 2026-09-25 · <span class="tl-product tl-p4">**Codex CLI**</span> · [[Changes/Codex CLI/2026-09-25-2-search-and-browsing-changes-in-rust-v0-157-0|2 Search and Browsing changes in rust-v0.157.0]] · Digest
 - 2026-09-24 · <span class="tl-product tl-p3">**Cline**</span> · [[Changes/Cline/2026-09-24-on-windows-mention-search-results-now-show-the-right-file-names-nested-files-suc|On Windows, @-mention search results now show the right file names]] · Change
 - 2026-09-23 · <span class="tl-product tl-p2">**Claude Code**</span> · [[Changes/Claude Code/2026-09-23-improved-deep-research-reliability-on-long-research-briefs-by-removing-unused-re|Improved /deep-research reliability on long research briefs by removing unused…]] · Change
 - 2026-09-22 · <span class="tl-product tl-p4">**Codex CLI**</span> · [[Changes/Codex CLI/2026-09-22-2-search-and-browsing-changes-in-rust-v0-156-0|2 Search and Browsing changes in rust-v0.156.0]] · Digest
-- 2026-09-21 · <span class="tl-product tl-p7">**GitHub Copilot CLI**</span> · [[Changes/GitHub Copilot CLI/2026-09-21-consecutive-steering-prompts-in-the-same-mode-combine-into-one-pending-message-p|Consecutive steering prompts in the same mode combine into one pending message]] · Change
-- 2026-09-16 · <span class="tl-product tl-p7">**GitHub Copilot CLI**</span> · [[Changes/GitHub Copilot CLI/2026-09-16-add-json-to-copilot-plugin-list-copilot-plugin-marketplace-list-and-copilot-plug|Add --json to copilot plugin list, copilot plugin marketplace list…]] · Change
-- 2026-09-16 · <span class="tl-product tl-p8">**OpenHands**</span> · [[Changes/OpenHands/2026-09-16-2-search-and-browsing-changes-in-v1-19-0|2 Search and Browsing changes in v1.19.0]] · Digest
+- 2026-09-21 · <span class="tl-product tl-p10">**GitHub Copilot CLI**</span> · [[Changes/GitHub Copilot CLI/2026-09-21-consecutive-steering-prompts-in-the-same-mode-combine-into-one-pending-message-p|Consecutive steering prompts in the same mode combine into one pending message]] · Change
+- 2026-09-21 · <span class="tl-product tl-p13">**Open WebUI**</span> · [[Changes/Open WebUI/2026-09-21-6-search-and-browsing-changes-in-v0-11-4|6 Search and Browsing changes in v0.11.4]] · Digest
+- 2026-09-16 · <span class="tl-product tl-p10">**GitHub Copilot CLI**</span> · [[Changes/GitHub Copilot CLI/2026-09-16-add-json-to-copilot-plugin-list-copilot-plugin-marketplace-list-and-copilot-plug|Add --json to copilot plugin list, copilot plugin marketplace list…]] · Change
+- 2026-09-16 · <span class="tl-product tl-p14">**OpenHands**</span> · [[Changes/OpenHands/2026-09-16-2-search-and-browsing-changes-in-v1-19-0|2 Search and Browsing changes in v1.19.0]] · Digest
 - 2026-09-10 · <span class="tl-product tl-p1">**ChatGPT**</span> · [[Changes/ChatGPT/2026-09-10-box-dropbox-and-sharepoint-now-join-google-drive-in-chatgpt-library-once-connect|Box, Dropbox, and SharePoint now join Google Drive in ChatGPT Library]] · Change
 - 2026-09-09 · <span class="tl-product tl-p4">**Codex CLI**</span> · [[Changes/Codex CLI/2026-09-09-experimental-worktree-support-lets-you-create-isolated-checkouts-for-new-or-fork|Experimental worktree support lets you create isolated checkouts for new or forked…]] · Change
 - 2026-09-01 · <span class="tl-product tl-p2">**Claude Code**</span> · [[Changes/Claude Code/2026-09-01-changed-btw-history-browsing-from-to-shift-shift-or-stepping-through-your-recent|Changed /btw history browsing from ←/→ to Shift+←/Shift+→ (or /)…]] · Change
 
 **2026-08**
 
+- 2026-08-25 · <span class="tl-product tl-p13">**Open WebUI**</span> · [[Changes/Open WebUI/2026-08-25-5-search-and-browsing-changes-in-v0-11-1|5 Search and Browsing changes in v0.11.1]] · Digest
 - 2026-08-17 · <span class="tl-product tl-p5">**Cursor**</span> · [[Changes/Cursor/2026-08-17-cursor-can-now-host-your-code|Cursor can now host your code]] · Change
+- 2026-08-14 · <span class="tl-product tl-p12">**Ollama**</span> · [[Changes/Ollama/2026-08-14-the-openai-compatible-responses-api-now-supports-web-search|The OpenAI-compatible Responses API now supports web search]] · Change
 - 2026-08-13 · <span class="tl-product tl-p1">**ChatGPT**</span> · [[Changes/ChatGPT/2026-08-13-if-you-have-the-google-drive-plugin-connected-you-can-now-see-and-browse-your-go-97f18f|If you have the Google Drive plugin connected, you can now see and browse…]] · Change
-- 2026-08-10 · <span class="tl-product tl-p7">**GitHub Copilot CLI**</span> · [[Changes/GitHub Copilot CLI/2026-08-10-improve-teleported-subagent-tasks-navigation-with-nested-tree-browsing-current-a|Improve teleported subagent /tasks navigation with nested tree browsing, current/all…]] · Change
+- 2026-08-10 · <span class="tl-product tl-p10">**GitHub Copilot CLI**</span> · [[Changes/GitHub Copilot CLI/2026-08-10-improve-teleported-subagent-tasks-navigation-with-nested-tree-browsing-current-a|Improve teleported subagent /tasks navigation with nested tree browsing, current/all…]] · Change
 - 2026-08-07 · <span class="tl-product tl-p4">**Codex CLI**</span> · [[Changes/Codex CLI/2026-08-07-3-search-and-browsing-changes-in-rust-v0-147-0|3 Search and Browsing changes in rust-v0.147.0]] · Digest
 
 **2026-07**
 
 - 2026-07-29 · <span class="tl-product tl-p4">**Codex CLI**</span> · [[Changes/Codex CLI/2026-07-29-2-search-and-browsing-changes-in-rust-v0-146-0|2 Search and Browsing changes in rust-v0.146.0]] · Digest
+- 2026-07-27 · <span class="tl-product tl-p13">**Open WebUI**</span> · [[Changes/Open WebUI/2026-07-27-7-search-and-browsing-changes-in-v0-11-0|7 Search and Browsing changes in v0.11.0]] · Digest
 - 2026-07-22 · <span class="tl-product tl-p2">**Claude Code**</span> · [[Changes/Claude Code/2026-07-22-changed-deep-research-to-start-only-when-invoked-manually-claude-no-longer-launc|Changed /deep-research to start only when invoked manually]] · Change
 - 2026-07-21 · <span class="tl-product tl-p4">**Codex CLI**</span> · [[Changes/Codex CLI/2026-07-21-3-search-and-browsing-changes-in-rust-v0-145-0|3 Search and Browsing changes in rust-v0.145.0]] · Digest
 - 2026-07-17 · <span class="tl-product tl-p2">**Claude Code**</span> · [[Changes/Claude Code/2026-07-17-3-search-and-browsing-changes-in-v2-1-212|3 Search and Browsing changes in v2.1.212]] · Digest
-- 2026-07-16 · <span class="tl-product tl-p7">**GitHub Copilot CLI**</span> · [[Changes/GitHub Copilot CLI/2026-07-16-add-plugins-marketplace-browse-and-update-commands|Add plugins marketplace browse and update commands]] · Change
+- 2026-07-16 · <span class="tl-product tl-p10">**GitHub Copilot CLI**</span> · [[Changes/GitHub Copilot CLI/2026-07-16-add-plugins-marketplace-browse-and-update-commands|Add plugins marketplace browse and update commands]] · Change
 - 2026-07-09 · <span class="tl-product tl-p4">**Codex CLI**</span> · [[Changes/Codex CLI/2026-07-09-31525-core-migrate-standalone-web-search-to-extension-owned-turn-items-owenlin0|♯31525 core: migrate standalone web search to extension-owned turn items @owenlin0]] · Change
-- 2026-07-01 · <span class="tl-product tl-p7">**GitHub Copilot CLI**</span> · [[Changes/GitHub Copilot CLI/2026-07-01-browse-resume-and-switch-between-sessions-from-the-agents-screen|Browse, resume, and switch between sessions from the agents screen]] · Change
+- 2026-07-01 · <span class="tl-product tl-p10">**GitHub Copilot CLI**</span> · [[Changes/GitHub Copilot CLI/2026-07-01-browse-resume-and-switch-between-sessions-from-the-agents-screen|Browse, resume, and switch between sessions from the agents screen]] · Change
+- 2026-07-01 · <span class="tl-product tl-p13">**Open WebUI**</span> · [[Changes/Open WebUI/2026-07-01-web-search-domain-filtering-domain-allow-and-block-rules-for-web-search-results|🔒 Web search domain filtering. Domain allow and block rules for web search…]] · Change
 
 **2026-06**
 
-- 2026-06-23 · <span class="tl-product tl-p7">**GitHub Copilot CLI**</span> · [[Changes/GitHub Copilot CLI/2026-06-23-add-mcp-registry-installation-for-browsing-and-installing-mcp-servers|Add /mcp registry installation for browsing and installing MCP servers]] · Change
+- 2026-06-29 · <span class="tl-product tl-p13">**Open WebUI**</span> · [[Changes/Open WebUI/2026-06-29-8-search-and-browsing-changes-in-v0-10-0|8 Search and Browsing changes in v0.10.0]] · Digest
+- 2026-06-23 · <span class="tl-product tl-p10">**GitHub Copilot CLI**</span> · [[Changes/GitHub Copilot CLI/2026-06-23-add-mcp-registry-installation-for-browsing-and-installing-mcp-servers|Add /mcp registry installation for browsing and installing MCP servers]] · Change
 - 2026-06-22 · <span class="tl-product tl-p4">**Codex CLI**</span> · [[Changes/Codex CLI/2026-06-22-2-search-and-browsing-changes-in-rust-v0-142-0|2 Search and Browsing changes in rust-v0.142.0]] · Digest
 - 2026-06-15 · <span class="tl-product tl-p4">**Codex CLI**</span> · [[Changes/Codex CLI/2026-06-15-27501-codex-expand-hosted-web-search-citation-guidance-yuning-oai|♯27501 codex Expand hosted web search citation guidance @yuning-oai]] · Change
 - 2026-06-09 · <span class="tl-product tl-p4">**Codex CLI**</span> · [[Changes/Codex CLI/2026-06-09-3-search-and-browsing-changes-in-rust-v0-139-0|3 Search and Browsing changes in rust-v0.139.0]] · Digest
-- 2026-06-09 · <span class="tl-product tl-p7">**GitHub Copilot CLI**</span> · [[Changes/GitHub Copilot CLI/2026-06-09-2-search-and-browsing-changes-in-v1-0-61|2 Search and Browsing changes in v1.0.61]] · Digest
+- 2026-06-09 · <span class="tl-product tl-p10">**GitHub Copilot CLI**</span> · [[Changes/GitHub Copilot CLI/2026-06-09-2-search-and-browsing-changes-in-v1-0-61|2 Search and Browsing changes in v1.0.61]] · Digest
 - 2026-06-04 · <span class="tl-product tl-p4">**Codex CLI**</span> · [[Changes/Codex CLI/2026-06-04-25702-codex-enable-parallel-standalone-web-search-calls-sayan-oai|♯25702 codex enable parallel standalone web search calls @sayan-oai]] · Change
+- 2026-06-03 · <span class="tl-product tl-p12">**Ollama**</span> · [[Changes/Ollama/2026-06-03-pi-web-search-setup-now-updates-only-when-a-newer-package-is-available|Pi web search setup now updates only when a newer package is available]] · Change
 - 2026-06-01 · <span class="tl-product tl-p1">**ChatGPT**</span> · [[Changes/ChatGPT/2026-06-01-chatgpt-can-now-help-with-more-of-the-job-search-process-from-finding-relevant-l|Find live jobs and format your resume in ChatGPT]] · Change
 - 2026-06-01 · <span class="tl-product tl-p4">**Codex CLI**</span> · [[Changes/Codex CLI/2026-06-01-3-search-and-browsing-changes-in-rust-v0-136-0|3 Search and Browsing changes in rust-v0.136.0]] · Digest
-- 2026-06-01 · <span class="tl-product tl-p7">**GitHub Copilot CLI**</span> · [[Changes/GitHub Copilot CLI/2026-06-01-2-search-and-browsing-changes-in-v1-0-57|2 Search and Browsing changes in v1.0.57]] · Digest
+- 2026-06-01 · <span class="tl-product tl-p10">**GitHub Copilot CLI**</span> · [[Changes/GitHub Copilot CLI/2026-06-01-2-search-and-browsing-changes-in-v1-0-57|2 Search and Browsing changes in v1.0.57]] · Digest
+- 2026-06-01 · <span class="tl-product tl-p13">**Open WebUI**</span> · [[Changes/Open WebUI/2026-06-01-9-search-and-browsing-changes-in-v0-9-6|9 Search and Browsing changes in v0.9.6]] · Digest
 
 **2026-05**
 
-- 2026-05-20 · <span class="tl-product tl-p7">**GitHub Copilot CLI**</span> · [[Changes/GitHub Copilot CLI/2026-05-20-github-mcp-web-search-tool-is-available-immediately-without-requiring-tool-searc|GitHub MCP web search tool is available immediately without requiring tool search]] · Change
+- 2026-05-20 · <span class="tl-product tl-p10">**GitHub Copilot CLI**</span> · [[Changes/GitHub Copilot CLI/2026-05-20-github-mcp-web-search-tool-is-available-immediately-without-requiring-tool-searc|GitHub MCP web search tool is available immediately without requiring tool search]] · Change
 - 2026-05-19 · <span class="tl-product tl-p2">**Claude Code**</span> · [[Changes/Claude Code/2026-05-19-the-plugin-browse-and-discover-panes-now-show-when-a-plugin-was-last-updated|The /plugin browse and discover panes now show when a plugin was last updated]] · Change
+- 2026-05-09 · <span class="tl-product tl-p13">**Open WebUI**</span> · [[Changes/Open WebUI/2026-05-09-5-search-and-browsing-changes-in-v0-9-3|5 Search and Browsing changes in v0.9.3]] · Digest
 - 2026-05-07 · <span class="tl-product tl-p4">**Codex CLI**</span> · [[Changes/Codex CLI/2026-05-07-21054-rollout-store-web-search-and-mcp-tool-calls-owenlin0|♯21054 rollout: store web search and mcp tool calls @owenlin0]] · Change
-- 2026-05-01 · <span class="tl-product tl-p7">**GitHub Copilot CLI**</span> · [[Changes/GitHub Copilot CLI/2026-05-01-research-uses-an-orchestrator-subagent-model-for-more-thorough-and-reliable-deep|/research uses an orchestrator/subagent model for more thorough and reliable deep…]] · Change
+- 2026-05-03 · <span class="tl-product tl-p12">**Ollama**</span> · [[Changes/Ollama/2026-05-03-web-search-coming-soon|Web Search (coming soon)]] · Change
+- 2026-05-01 · <span class="tl-product tl-p10">**GitHub Copilot CLI**</span> · [[Changes/GitHub Copilot CLI/2026-05-01-research-uses-an-orchestrator-subagent-model-for-more-thorough-and-reliable-deep|/research uses an orchestrator/subagent model for more thorough and reliable deep…]] · Change
 
 **2026-04**
 
+- 2026-04-21 · <span class="tl-product tl-p13">**Open WebUI**</span> · [[Changes/Open WebUI/2026-04-21-4-search-and-browsing-changes-in-v0-9-0|4 Search and Browsing changes in v0.9.0]] · Digest
 - 2026-04-20 · <span class="tl-product tl-p4">**Codex CLI**</span> · [[Changes/Codex CLI/2026-04-20-plugin-workflows-now-include-tabbed-browsing-inline-enable-disable-toggles-marke|Plugin workflows now include tabbed browsing, inline enable/disable toggles…]] · Change
 - 2026-04-15 · <span class="tl-product tl-p4">**Codex CLI**</span> · [[Changes/Codex CLI/2026-04-15-17684-adjust-default-tool-search-result-caps-malone-oai|♯17684 Adjust default tool search result caps @malone-oai]] · Change
 - 2026-04-11 · <span class="tl-product tl-p4">**Codex CLI**</span> · [[Changes/Codex CLI/2026-04-11-2-search-and-browsing-changes-in-rust-v0-120-0|2 Search and Browsing changes in rust-v0.120.0]] · Digest
@@ -166,24 +223,36 @@ Launches, expansions, pricing and policy changes and standalone announcements co
 
 **2026-03**
 
-- 2026-03-31 · <span class="tl-product tl-p7">**GitHub Copilot CLI**</span> · [[Changes/GitHub Copilot CLI/2026-03-31-grep-and-glob-search-results-return-promptly-when-a-timeout-is-reached|Grep and glob search results return promptly when a timeout is reached]] · Change
-- 2026-03-30 · <span class="tl-product tl-p7">**GitHub Copilot CLI**</span> · [[Changes/GitHub Copilot CLI/2026-03-30-grep-and-glob-search-results-return-promptly-when-a-timeout-is-reached|Grep and glob search results return promptly when a timeout is reached]] · Change
+- 2026-03-31 · <span class="tl-product tl-p10">**GitHub Copilot CLI**</span> · [[Changes/GitHub Copilot CLI/2026-03-31-grep-and-glob-search-results-return-promptly-when-a-timeout-is-reached|Grep and glob search results return promptly when a timeout is reached]] · Change
+- 2026-03-30 · <span class="tl-product tl-p10">**GitHub Copilot CLI**</span> · [[Changes/GitHub Copilot CLI/2026-03-30-grep-and-glob-search-results-return-promptly-when-a-timeout-is-reached|Grep and glob search results return promptly when a timeout is reached]] · Change
+- 2026-03-27 · <span class="tl-product tl-p12">**Ollama**</span> · [[Changes/Ollama/2026-03-27-ollama-launch-pi-now-includes-web-search-plugin-that-uses-ollama-s-web-search|ollama launch pi now includes web search plugin that uses Ollama's web search]] · Change
 - 2026-03-26 · <span class="tl-product tl-p4">**Codex CLI**</span> · [[Changes/Codex CLI/2026-03-26-plugins-are-now-a-first-class-workflow-codex-can-sync-product-scoped-plugins-at|Plugins are now a first-class workflow]] · Change
+- 2026-03-25 · <span class="tl-product tl-p13">**Open WebUI**</span> · [[Changes/Open WebUI/2026-03-25-2-search-and-browsing-changes-in-v0-8-11|2 Search and Browsing changes in v0.8.11]] · Digest
 - 2026-03-24 · <span class="tl-product tl-p1">**ChatGPT**</span> · [[Changes/ChatGPT/2026-03-24-we-ve-improved-shopping-in-chatgpt-to-make-it-easier-to-discover-compare-and-dec|Shopping updates in ChatGPT]] · Change
 - 2026-03-23 · <span class="tl-product tl-p1">**ChatGPT**</span> · [[Changes/ChatGPT/2026-03-23-now-it-s-easier-to-find-reuse-and-build-on-your-files-over-time-when-you-upload|File Library in ChatGPT]] · Change
-- 2026-03-13 · <span class="tl-product tl-p7">**GitHub Copilot CLI**</span> · [[Changes/GitHub Copilot CLI/2026-03-13-changelog-supports-last-n-since-version-and-summarize-to-browse-and-summarize-mu|/changelog supports last N, since version, and summarize to browse…]] · Change
+- 2026-03-17 · <span class="tl-product tl-p7">**Dify**</span> · [[Changes/Dify/2026-03-17-test-add-integration-tests-for-app-card-operations-list-browsing-and-create-app|test: add integration tests for app card operations, list browsing, and create app flows]] · Change
+- 2026-03-17 · <span class="tl-product tl-p12">**Ollama**</span> · [[Changes/Ollama/2026-03-17-3-search-and-browsing-changes-in-v0-18-1|3 Search and Browsing changes in v0.18.1]] · Digest
+- 2026-03-13 · <span class="tl-product tl-p10">**GitHub Copilot CLI**</span> · [[Changes/GitHub Copilot CLI/2026-03-13-changelog-supports-last-n-since-version-and-summarize-to-browse-and-summarize-mu|/changelog supports last N, since version, and summarize to browse…]] · Change
 - 2026-03-11 · <span class="tl-product tl-p4">**Codex CLI**</span> · [[Changes/Codex CLI/2026-03-11-14136-fix-core-use-dedicated-types-for-responsesapi-web-search-tool-config-owenl|♯14136 fix(core): use dedicated types for responsesapi web search tool config @owenlin0]] · Change
 - 2026-03-10 · <span class="tl-product tl-p4">**Codex CLI**</span> · [[Changes/Codex CLI/2026-03-10-2-search-and-browsing-changes-in-rust-v0-113-0|2 Search and Browsing changes in rust-v0.113.0]] · Digest
-- 2026-03-06 · <span class="tl-product tl-p7">**GitHub Copilot CLI**</span> · [[Changes/GitHub Copilot CLI/2026-03-06-elicitation-enum-and-boolean-fields-now-require-enter-to-confirm-a-selection-wit|Elicitation enum and boolean fields now require Enter to confirm a selection…]] · Change
+- 2026-03-09 · <span class="tl-product tl-p13">**Open WebUI**</span> · [[Changes/Open WebUI/2026-03-09-2-search-and-browsing-changes-in-v0-8-10|2 Search and Browsing changes in v0.8.10]] · Digest
+- 2026-03-08 · <span class="tl-product tl-p13">**Open WebUI**</span> · [[Changes/Open WebUI/2026-03-08-2-search-and-browsing-changes-in-v0-8-9|2 Search and Browsing changes in v0.8.9]] · Digest
+- 2026-03-06 · <span class="tl-product tl-p10">**GitHub Copilot CLI**</span> · [[Changes/GitHub Copilot CLI/2026-03-06-elicitation-enum-and-boolean-fields-now-require-enter-to-confirm-a-selection-wit|Elicitation enum and boolean fields now require Enter to confirm a selection…]] · Change
 - 2026-03-05 · <span class="tl-product tl-p4">**Codex CLI**</span> · [[Changes/Codex CLI/2026-03-05-13538-chore-add-web-search-tool-type-for-image-support-sayan-oai|♯13538 chore: add web_search_tool_type for image support @sayan-oai]] · Change
+- 2026-03-01 · <span class="tl-product tl-p13">**Open WebUI**</span> · [[Changes/Open WebUI/2026-03-01-2-search-and-browsing-changes-in-v0-8-6|2 Search and Browsing changes in v0.8.6]] · Digest
 
 **2026-02**
 
 - 2026-02-27 · <span class="tl-product tl-p1">**ChatGPT**</span> · [[Changes/ChatGPT/2026-02-27-open-search-results-in-a-new-tab-cmd-click-in-the-search-panel-now-opens-results|Open search results in a new tab]] · Change
-- 2026-02-25 · <span class="tl-product tl-p6">**Gemini CLI**</span> · [[Changes/Gemini CLI/2026-02-25-introduce-limits-for-search-results-by-gundermanc-in-https-github-com-google-gem|Introduce limits for search results]] · Change
-- 2026-02-25 · <span class="tl-product tl-p7">**GitHub Copilot CLI**</span> · [[Changes/GitHub Copilot CLI/2026-02-25-add-research-command-for-deep-research-with-exportable-reports|Add /research command for deep research with exportable reports]] · Change
+- 2026-02-25 · <span class="tl-product tl-p9">**Gemini CLI**</span> · [[Changes/Gemini CLI/2026-02-25-introduce-limits-for-search-results-by-gundermanc-in-https-github-com-google-gem|Introduce limits for search results]] · Change
+- 2026-02-25 · <span class="tl-product tl-p10">**GitHub Copilot CLI**</span> · [[Changes/GitHub Copilot CLI/2026-02-25-add-research-command-for-deep-research-with-exportable-reports|Add /research command for deep research with exportable reports]] · Change
+- 2026-02-24 · <span class="tl-product tl-p12">**Ollama**</span> · [[Changes/Ollama/2026-02-24-ollama-s-app-will-now-allow-models-that-support-tools-to-use-web-search-capabili|Ollama's app will now allow models that support tools to use web search capabilities]] · Change
+- 2026-02-23 · <span class="tl-product tl-p13">**Open WebUI**</span> · [[Changes/Open WebUI/2026-02-23-4-search-and-browsing-changes-in-v0-8-4|4 Search and Browsing changes in v0.8.4]] · Digest
+- 2026-02-14 · <span class="tl-product tl-p13">**Open WebUI**</span> · [[Changes/Open WebUI/2026-02-14-web-search-result-count-the-built-in-search-web-tool-now-respects-the-admin-conf|🔍 Web search result count. The built-in search_web tool now respects…]] · Change
+- 2026-02-12 · <span class="tl-product tl-p13">**Open WebUI**</span> · [[Changes/Open WebUI/2026-02-12-5-search-and-browsing-changes-in-v0-8-0|5 Search and Browsing changes in v0.8.0]] · Digest
 - 2026-02-11 · <span class="tl-product tl-p4">**Codex CLI**</span> · [[Changes/Codex CLI/2026-02-11-3-search-and-browsing-changes-in-rust-v0-99-0|3 Search and Browsing changes in rust-v0.99.0]] · Digest
 - 2026-02-04 · <span class="tl-product tl-p4">**Codex CLI**</span> · [[Changes/Codex CLI/2026-02-04-2-search-and-browsing-changes-in-rust-v0-95-0|2 Search and Browsing changes in rust-v0.95.0]] · Digest
+- 2026-02-03 · <span class="tl-product tl-p12">**Ollama**</span> · [[Changes/Ollama/2026-02-03-sub-agent-support-for-ollama-launch-for-planning-deep-research-and-similar-tasks|Sub-agent support for ollama launch for planning, deep research, and similar tasks]] · Change
 
 **2026-01**
 
@@ -191,6 +260,8 @@ Launches, expansions, pricing and policy changes and standalone announcements co
 - 2026-01-27 · <span class="tl-product tl-p4">**Codex CLI**</span> · [[Changes/Codex CLI/2026-01-27-5-search-and-browsing-changes-in-rust-v0-92-0|5 Search and Browsing changes in rust-v0.92.0]] · Digest
 - 2026-01-16 · <span class="tl-product tl-p4">**Codex CLI**</span> · [[Changes/Codex CLI/2026-01-16-2-search-and-browsing-changes-in-rust-v0-86-0|2 Search and Browsing changes in rust-v0.86.0]] · Digest
 - 2026-01-16 · <span class="tl-product tl-p5">**Cursor**</span> · [[Changes/Cursor/2026-01-16-added-webfetch-websearch-tools-approval-options-for-granular-controls-over-web-s|Added WebFetch, WebSearch tools, & approval options for granular controls over web…]] · Change
+- 2026-01-09 · <span class="tl-product tl-p13">**Open WebUI**</span> · [[Changes/Open WebUI/2026-01-09-4-search-and-browsing-changes-in-v0-7-0|4 Search and Browsing changes in v0.7.0]] · Digest
+- 2026-01-08 · <span class="tl-product tl-p16">**v0**</span> · [[Changes/v0/2026-01-08-improved-the-speed-and-token-use-of-the-web-search-tool|Improved the speed and token use of the Web Search tool]] · Change
 - 2026-01-07 · <span class="tl-product tl-p4">**Codex CLI**</span> · [[Changes/Codex CLI/2026-01-07-4-search-and-browsing-changes-in-rust-v0-79-0|4 Search and Browsing changes in rust-v0.79.0]] · Digest
 
 </details>
@@ -198,84 +269,159 @@ Launches, expansions, pricing and policy changes and standalone announcements co
 </details>
 
 <details class="disclosure">
-<summary>2025 · 24 entries (ChatGPT 12 · Cline 1 · Codex CLI 5 · Cursor 3 · Gemini CLI 2 · OpenHands 1)</summary>
+<summary>2025 · 58 entries (ChatGPT 12 · Cline 1 · Codex CLI 5 · Cursor 3 · Dify 2 · Gemini CLI 2 · Lovable 1 · Ollama 3 · Open WebUI 23 · OpenHands 1 · Replit 5)</summary>
+
+**2025-10**
+
+- 2025-10-03 · <span class="tl-product tl-p15">**Replit**</span> · [[Changes/Replit/2025-10-03-app-themes-font-improvements|App Themes font improvements]] · Launch
+
+**2025-07**
+
+- 2025-07-04 · <span class="tl-product tl-p15">**Replit**</span> · [[Changes/Replit/2025-07-04-gallery|Gallery]] · Launch
+- 2025-07-04 · <span class="tl-product tl-p15">**Replit**</span> · [[Changes/Replit/2025-07-04-web-search-for-agent|Web Search for Agent]] · Launch
 
 **2025-05**
 
 - 2025-05-12 · <span class="tl-product tl-p1">**ChatGPT**</span> · [[Changes/ChatGPT/2025-05-12-you-can-now-export-your-deep-research-reports-as-well-formatted-pdfs-complete-wi-87a3fa|Export Deep Research as PDF for Plus/Pro/Team]] · Change
 
+**2025-01**
+
+- 2025-01-31 · <span class="tl-product tl-p15">**Replit**</span> · [[Changes/Replit/2025-01-31-object-storage-improvements|Object Storage improvements]] · Launch
+
 <details class="disclosure">
-<summary>Fixes, digests and other changes · 23 (ChatGPT 11 · Cline 1 · Codex CLI 5 · Cursor 3 · Gemini CLI 2 · OpenHands 1)</summary>
+<summary>Fixes, digests and other changes · 53 (ChatGPT 11 · Cline 1 · Codex CLI 5 · Cursor 3 · Dify 2 · Gemini CLI 2 · Lovable 1 · Ollama 3 · Open WebUI 23 · OpenHands 1 · Replit 1)</summary>
+
+**2025-12**
+
+- 2025-12-21 · <span class="tl-product tl-p13">**Open WebUI**</span> · [[Changes/Open WebUI/2025-12-21-3-search-and-browsing-changes-in-v0-6-42|3 Search and Browsing changes in v0.6.42]] · Digest
+- 2025-12-02 · <span class="tl-product tl-p13">**Open WebUI**</span> · [[Changes/Open WebUI/2025-12-02-web-search-domain-filtering-was-corrected-to-properly-block-results-when-any-res|🛡️ Web search domain filtering was corrected to properly block results when any…]] · Change
 
 **2025-11**
 
+- 2025-11-26 · <span class="tl-product tl-p11">**Lovable**</span> · [[Changes/Lovable/2025-11-26-better-commit-messages|Better commit messages]] · Change
+- 2025-11-26 · <span class="tl-product tl-p15">**Replit**</span> · [[Changes/Replit/2025-11-26-better-search-rankings-for-custom-domains|Better search rankings for Custom Domains]] · Change
+- 2025-11-24 · <span class="tl-product tl-p13">**Open WebUI**</span> · [[Changes/Open WebUI/2025-11-24-3-search-and-browsing-changes-in-v0-6-37|3 Search and Browsing changes in v0.6.37]] · Digest
 - 2025-11-13 · <span class="tl-product tl-p4">**Codex CLI**</span> · [[Changes/Codex CLI/2025-11-13-2-search-and-browsing-changes-in-rust-v0-58-0|2 Search and Browsing changes in rust-v0.58.0]] · Digest
 - 2025-11-09 · <span class="tl-product tl-p4">**Codex CLI**</span> · [[Changes/Codex CLI/2025-11-09-6367-sdk-add-network-access-and-web-search-options-to-typescript-sdk|♯6367 – SDK: add network_access and web_search options to TypeScript SDK]] · Change
+- 2025-11-06 · <span class="tl-product tl-p13">**Open WebUI**</span> · [[Changes/Open WebUI/2025-11-06-4-search-and-browsing-changes-in-v0-6-35|4 Search and Browsing changes in v0.6.35]] · Digest
 
 **2025-10**
 
-- 2025-10-22 · <span class="tl-product tl-p6">**Gemini CLI**</span> · [[Changes/Gemini CLI/2025-10-22-refactor-core-migrate-web-search-tool-to-tool-names-by-abhipatel12-in-https-gith|refactor(core): migrate web search tool to tool-names]] · Change
+- 2025-10-22 · <span class="tl-product tl-p9">**Gemini CLI**</span> · [[Changes/Gemini CLI/2025-10-22-refactor-core-migrate-web-search-tool-to-tool-names-by-abhipatel12-in-https-gith|refactor(core): migrate web search tool to tool-names]] · Change
+- 2025-10-07 · <span class="tl-product tl-p13">**Open WebUI**</span> · [[Changes/Open WebUI/2025-10-07-2-search-and-browsing-changes-in-v0-6-33|2 Search and Browsing changes in v0.6.33]] · Digest
 - 2025-10-03 · <span class="tl-product tl-p4">**Codex CLI**</span> · [[Changes/Codex CLI/2025-10-03-4511-wire-up-web-search-item|♯4511 Wire up web search item]] · Change
 
 **2025-09**
 
 - 2025-09-29 · <span class="tl-product tl-p5">**Cursor**</span> · [[Changes/Cursor/2025-09-29-1-7-20-web-search-auto-accept-setting|1.7.20: Web search auto-accept setting]] · Change
+- 2025-09-25 · <span class="tl-product tl-p13">**Open WebUI**</span> · [[Changes/Open WebUI/2025-09-25-2-search-and-browsing-changes-in-v0-6-31|2 Search and Browsing changes in v0.6.31]] · Digest
+- 2025-09-24 · <span class="tl-product tl-p12">**Ollama**</span> · [[Changes/Ollama/2025-09-24-2-search-and-browsing-changes-in-v0-12-2|2 Search and Browsing changes in v0.12.2]] · Digest
 - 2025-09-16 · <span class="tl-product tl-p1">**ChatGPT**</span> · [[Changes/ChatGPT/2025-09-16-we-ve-made-further-improvements-to-search-in-chatgpt-making-results-more-accurat|ChatGPT makes further improvements to search, making results more accurate…]] · Change
 - 2025-09-16 · <span class="tl-product tl-p1">**ChatGPT**</span> · [[Changes/ChatGPT/2025-09-16-shopping-search-is-better-at-detecting-shopping-intent-showing-products-when-you|Shopping: Search is better at detecting shopping intent, showing products when you…]] · Change
+- 2025-09-09 · <span class="tl-product tl-p13">**Open WebUI**</span> · [[Changes/Open WebUI/2025-09-09-web-search-result-display-was-enhanced-to-include-titles-and-favicons-providing|💬 Web search result display was enhanced to include titles and favicons, providing…]] · Change
 - 2025-09-03 · <span class="tl-product tl-p4">**Codex CLI**</span> · [[Changes/Codex CLI/2025-09-03-3061-show-loading-state-when-search-results-are-pending|♯3061 Show loading state when @ search results are pending]] · Change
 
 **2025-08**
 
+- 2025-08-28 · <span class="tl-product tl-p13">**Open WebUI**</span> · [[Changes/Open WebUI/2025-08-28-2-search-and-browsing-changes-in-v0-6-26|2 Search and Browsing changes in v0.6.26]] · Digest
 - 2025-08-26 · <span class="tl-product tl-p4">**Codex CLI**</span> · [[Changes/Codex CLI/2025-08-26-2-search-and-browsing-changes-in-rust-v0-24-0|2 Search and Browsing changes in rust-v0.24.0]] · Digest
-- 2025-08-18 · <span class="tl-product tl-p6">**Gemini CLI**</span> · [[Changes/Gemini CLI/2025-08-18-feat-core-migrate-web-search-write-file-and-discovered-tool-by-joshualitt-in-htt|feat(core): Migrate web-search, write-file, and discovered-tool]] · Change
+- 2025-08-21 · <span class="tl-product tl-p13">**Open WebUI**</span> · [[Changes/Open WebUI/2025-08-21-3-search-and-browsing-changes-in-v0-6-23|3 Search and Browsing changes in v0.6.23]] · Digest
+- 2025-08-18 · <span class="tl-product tl-p9">**Gemini CLI**</span> · [[Changes/Gemini CLI/2025-08-18-feat-core-migrate-web-search-write-file-and-discovered-tool-by-joshualitt-in-htt|feat(core): Migrate web-search, write-file, and discovered-tool]] · Change
+- 2025-08-15 · <span class="tl-product tl-p12">**Ollama**</span> · [[Changes/Ollama/2025-08-15-ollama-s-new-app-will-now-remember-default-selections-for-default-model-turbo-an|Ollama's new app will now remember default selections for default model, Turbo…]] · Change
 - 2025-08-11 · <span class="tl-product tl-p1">**ChatGPT**</span> · [[Changes/ChatGPT/2025-08-11-now-connect-even-more-tools-in-chatgpt-for-useful-relevant-responses-in-chat-the|Now connect even more tools in ChatGPT for useful, relevant responses in chat]] · Change
+- 2025-08-09 · <span class="tl-product tl-p13">**Open WebUI**</span> · [[Changes/Open WebUI/2025-08-09-2-search-and-browsing-changes-in-v0-6-19|2 Search and Browsing changes in v0.6.19]] · Digest
+- 2025-08-05 · <span class="tl-product tl-p12">**Ollama**</span> · [[Changes/Ollama/2025-08-05-agentic-capabilities-use-the-models-native-capabilities-for-function-calling-web|Agentic capabilities: Use the models’ native capabilities for function calling…]] · Change
 
 **2025-07**
 
 - 2025-07-24 · <span class="tl-product tl-p1">**ChatGPT**</span> · [[Changes/ChatGPT/2025-07-24-pro-users-can-now-connect-to-canva-and-notion-for-both-chat-search-and-deep-rese-bd2af2|Canva and Notion connectors (Pro)]] · Change
+- 2025-07-19 · <span class="tl-product tl-p13">**Open WebUI**</span> · [[Changes/Open WebUI/2025-07-19-file-deletion-now-removes-related-vector-data-when-files-are-deleted-from-storag|🧑💻 File Deletion Now Removes Related Vector Data]] · Change
 
 **2025-06**
 
+- 2025-06-16 · <span class="tl-product tl-p13">**Open WebUI**</span> · [[Changes/Open WebUI/2025-06-16-bypass-webloader-now-works-as-expected-resolved-an-issue-where-the-bypass-webloa|🌐 Bypass Webloader Now Works as Expected]] · Change
 - 2025-06-13 · <span class="tl-product tl-p1">**ChatGPT**</span> · [[Changes/ChatGPT/2025-06-13-we-ve-upgraded-chatgpt-search-for-all-users-to-provide-even-more-comprehensive-u|We’ve upgraded ChatGPT search for all users to provide even more comprehensive…]] · Change
+- 2025-06-11 · <span class="tl-product tl-p7">**Dify**</span> · [[Changes/Dify/2025-06-11-marketplace-ui-update-easier-browsing-with-improved-sorting-for-app-types-20685|Marketplace UI Update]] · Change
 - 2025-06-04 · <span class="tl-product tl-p1">**ChatGPT**</span> · [[Changes/ChatGPT/2025-06-04-combines-internal-web-sources-for-synthesis|Combines internal + web sources for synthesis]] · Change
 - 2025-06-04 · <span class="tl-product tl-p1">**ChatGPT**</span> · [[Changes/ChatGPT/2025-06-04-chatgpt-team-enterprise-and-edu-customers-globally-can-use-connectors-in-deep-re|ChatGPT Team, Enterprise, and Edu customers globally can use connectors in deep…]] · Change
 - 2025-06-04 · <span class="tl-product tl-p5">**Cursor**</span> · [[Changes/Cursor/2025-06-04-link-and-web-search-can-now-parse-pdfs-and-include-in-context|@Link and web search can now parse PDFs and include in context]] · Change
 
 **2025-05**
 
+- 2025-05-26 · <span class="tl-product tl-p13">**Open WebUI**</span> · [[Changes/Open WebUI/2025-05-26-3-search-and-browsing-changes-in-v0-6-11|3 Search and Browsing changes in v0.6.11]] · Digest
 - 2025-05-15 · <span class="tl-product tl-p1">**ChatGPT**</span> · [[Changes/ChatGPT/2025-05-15-chatgpt-deep-research-with-dropbox-is-available-globally-to-team-users-it-is-als-eaf8af|Dropbox connector for deep research for Plus/Pro/Team]] · Change
 - 2025-05-12 · <span class="tl-product tl-p1">**ChatGPT**</span> · [[Changes/ChatGPT/2025-05-12-chatgpt-deep-research-with-sharepoint-and-onedrive-is-available-globally-to-team-c5147c|Microsoft SharePoint and OneDrive connector for deep research for Plus/Pro/Team]] · Change
+- 2025-05-10 · <span class="tl-product tl-p13">**Open WebUI**</span> · [[Changes/Open WebUI/2025-05-10-duplicate-web-search-urls-eliminated-search-results-now-reliably-filter-out-url|🔂 Duplicate Web Search URLs Eliminated]] · Change
 - 2025-05-08 · <span class="tl-product tl-p1">**ChatGPT**</span> · [[Changes/ChatGPT/2025-05-08-chatgpt-deep-research-with-github-is-available-globally-to-team-users-it-is-also-ad2e25|GitHub connector for deep research for Plus/Pro/Team]] · Change
+- 2025-05-05 · <span class="tl-product tl-p13">**Open WebUI**</span> · [[Changes/Open WebUI/2025-05-05-optimized-faster-web-search-multi-threaded-queries-enjoy-dramatically-faster-web|🚀 Optimized Faster Web Search & Multi-Threaded Queries]] · Change
 
 **2025-04**
 
+- 2025-04-13 · <span class="tl-product tl-p13">**Open WebUI**</span> · [[Changes/Open WebUI/2025-04-13-sougou-web-search-integration-new-search-engine-option-added-enhancing-global-re|🧭 Sougou Web Search Integration]] · Change
 - 2025-04-08 · <span class="tl-product tl-p3">**Cline**</span> · [[Changes/Cline/2025-04-08-use-your-local-chrome-browser-for-session-based-browsing-enabling-debugging-and|Use your local Chrome browser for session-based browsing, enabling debugging…]] · Change
-- 2025-04-02 · <span class="tl-product tl-p8">**OpenHands**</span> · [[Changes/OpenHands/2025-04-02-turn-on-vision-based-browsing-by-default-and-allow-openhands-to-see-pdf-images-i|Turn on vision-based browsing by default and allow OpenHands to see PDF / images…]] · Change
+- 2025-04-07 · <span class="tl-product tl-p13">**Open WebUI**</span> · [[Changes/Open WebUI/2025-04-07-2-search-and-browsing-changes-in-v0-6-2|2 Search and Browsing changes in v0.6.2]] · Digest
+- 2025-04-02 · <span class="tl-product tl-p14">**OpenHands**</span> · [[Changes/OpenHands/2025-04-02-turn-on-vision-based-browsing-by-default-and-allow-openhands-to-see-pdf-images-i|Turn on vision-based browsing by default and allow OpenHands to see PDF / images…]] · Change
+
+**2025-03**
+
+- 2025-03-11 · <span class="tl-product tl-p7">**Dify**</span> · [[Changes/Dify/2025-03-11-for-a-more-detailed-dive-into-each-update-feel-free-to-browse-through-the-prs-we|For a more detailed dive into each update, feel free to browse through the PRs]] · Change
 
 **2025-02**
 
+- 2025-02-27 · <span class="tl-product tl-p13">**Open WebUI**</span> · [[Changes/Open WebUI/2025-02-27-full-context-mode-renamed-for-clarity-the-full-context-mode-toggle-in-web-search|📝 "Full Context Mode" Renamed for Clarity]] · Change
+- 2025-02-20 · <span class="tl-product tl-p13">**Open WebUI**</span> · [[Changes/Open WebUI/2025-02-20-smarter-web-search-with-agentic-workflows-web-searches-now-intelligently-gather|🌍 Smarter Web Search with Agentic Workflows]] · Change
+- 2025-02-20 · <span class="tl-product tl-p13">**Open WebUI**</span> · [[Changes/Open WebUI/2025-02-20-web-search-retrieval-restored-resolved-a-critical-issue-that-broke-web-search-re|🔍 Web Search Retrieval Restored]] · Change
 - 2025-02-19 · <span class="tl-product tl-p5">**Cursor**</span> · [[Changes/Cursor/2025-02-19-web-search-agent-can-now-automatically-search-the-web-for-up-to-date-information|Web search: Agent can now automatically search the web for up-to-date information…]] · Change
+- 2025-02-18 · <span class="tl-product tl-p13">**Open WebUI**</span> · [[Changes/Open WebUI/2025-02-18-2-search-and-browsing-changes-in-v0-5-13|2 Search and Browsing changes in v0.5.13]] · Digest
 - 2025-02-14 · <span class="tl-product tl-p1">**ChatGPT**</span> · [[Changes/ChatGPT/2025-02-14-set-chatgpt-as-default-search-engine-in-safari|Set ChatGPT as default search engine in Safari]] · Change
+- 2025-02-13 · <span class="tl-product tl-p13">**Open WebUI**</span> · [[Changes/Open WebUI/2025-02-13-2-search-and-browsing-changes-in-v0-5-11|2 Search and Browsing changes in v0.5.11]] · Digest
+- 2025-02-05 · <span class="tl-product tl-p13">**Open WebUI**</span> · [[Changes/Open WebUI/2025-02-05-3-search-and-browsing-changes-in-v0-5-8|3 Search and Browsing changes in v0.5.8]] · Digest
 
 </details>
 
 </details>
 
-<details class="disclosure" open>
-<summary>2024 · 5 entries (Cline 1 · Cursor 1 · OpenHands 3)</summary>
+<details class="disclosure">
+<summary>2024 · 19 entries (Cline 1 · Cursor 1 · Dify 1 · Ollama 1 · Open WebUI 12 · OpenHands 3)</summary>
+
+**2024-09**
+
+- 2024-09-07 · <span class="tl-product tl-p13">**Open WebUI**</span> · [[Changes/Open WebUI/2024-09-07-refined-web-search-integration-deprecated-the-search-query-generation-prompt-thr|🌐 Refined Web Search Integration]] · Policy
+
+<details class="disclosure">
+<summary>Fixes, digests and other changes · 18 (Cline 1 · Cursor 1 · Dify 1 · Ollama 1 · Open WebUI 11 · OpenHands 3)</summary>
 
 **2024-12**
 
 - 2024-12-12 · <span class="tl-product tl-p3">**Cline**</span> · [[Changes/Cline/2024-12-12-the-model-context-protocol-https-github-com-modelcontextprotocol-allows-agents-l|The Model Context Protocol((source link) allows agents…]] · Change
-- 2024-12-04 · <span class="tl-product tl-p8">**OpenHands**</span> · [[Changes/OpenHands/2024-12-04-added-alignment-checker-for-browsing-agent-by-s-aniruddha-in-https-github-com-al|Added Alignment checker for browsing agent]] · Change
+- 2024-12-04 · <span class="tl-product tl-p14">**OpenHands**</span> · [[Changes/OpenHands/2024-12-04-added-alignment-checker-for-browsing-agent-by-s-aniruddha-in-https-github-com-al|Added Alignment checker for browsing agent]] · Change
 
 **2024-11**
 
-- 2024-11-04 · <span class="tl-product tl-p8">**OpenHands**</span> · [[Changes/OpenHands/2024-11-04-allow-codeact-agent-to-perform-web-browsing-by-itself-no-more-delegation-to-brow|Allow CodeAct agent to perform web browsing by itself…]] · Change
+- 2024-11-26 · <span class="tl-product tl-p13">**Open WebUI**</span> · [[Changes/Open WebUI/2024-11-26-query-generation-issue-resolved-an-error-in-web-search-query-generation-enhancin|🔍 Query Generation Issue]] · Change
+- 2024-11-19 · <span class="tl-product tl-p13">**Open WebUI**</span> · [[Changes/Open WebUI/2024-11-19-2-search-and-browsing-changes-in-v0-4-0|2 Search and Browsing changes in v0.4.0]] · Digest
+- 2024-11-04 · <span class="tl-product tl-p14">**OpenHands**</span> · [[Changes/OpenHands/2024-11-04-allow-codeact-agent-to-perform-web-browsing-by-itself-no-more-delegation-to-brow|Allow CodeAct agent to perform web browsing by itself…]] · Change
+
+**2024-09**
+
+- 2024-09-30 · <span class="tl-product tl-p7">**Dify**</span> · [[Changes/Dify/2024-09-30-add-zhipuai-web-search-by-aaee86-in-https-github-com-langgenius-dify-pull-8668|add zhipuai web search]] · Change
+- 2024-09-24 · <span class="tl-product tl-p13">**Open WebUI**</span> · [[Changes/Open WebUI/2024-09-24-web-search-functionality-corrected-an-issue-where-the-web-search-option-was-not|🔍 Web Search Functionality]] · Change
+- 2024-09-04 · <span class="tl-product tl-p13">**Open WebUI**</span> · [[Changes/Open WebUI/2024-09-04-2-search-and-browsing-changes-in-v0-3-17|2 Search and Browsing changes in v0.3.17]] · Digest
+
+**2024-07**
+
+- 2024-07-25 · <span class="tl-product tl-p12">**Ollama**</span> · [[Changes/Ollama/2024-07-25-web-browsing|Web browsing]] · Change
 
 **2024-06**
 
-- 2024-06-29 · <span class="tl-product tl-p8">**OpenHands**</span> · [[Changes/OpenHands/2024-06-29-5-search-and-browsing-changes-in-0-7-0|5 Search and Browsing changes in 0.7.0]] · Digest
+- 2024-06-29 · <span class="tl-product tl-p14">**OpenHands**</span> · [[Changes/OpenHands/2024-06-29-5-search-and-browsing-changes-in-0-7-0|5 Search and Browsing changes in 0.7.0]] · Digest
+- 2024-06-27 · <span class="tl-product tl-p13">**Open WebUI**</span> · [[Changes/Open WebUI/2024-06-27-new-web-search-provider-added-jina-search-as-a-new-option|🔍 New Web Search Provider: Added jina_search as a new option]] · Change
+- 2024-06-17 · <span class="tl-product tl-p13">**Open WebUI**</span> · [[Changes/Open WebUI/2024-06-17-tavily-web-search-includes-tavily-as-a-web-search-provider-option|🌐 Tavily Web Search: Includes Tavily as a web search provider option]] · Change
+- 2024-06-12 · <span class="tl-product tl-p13">**Open WebUI**</span> · [[Changes/Open WebUI/2024-06-12-web-search-issue-addressed-the-problem-where-web-search-functionality-was-not-wo|🔍 Web Search Issue]] · Change
+- 2024-06-12 · <span class="tl-product tl-p13">**Open WebUI**</span> · [[Changes/Open WebUI/2024-06-12-3-search-and-browsing-changes-in-v0-3-3|3 Search and Browsing changes in v0.3.3]] · Digest
+- 2024-06-10 · <span class="tl-product tl-p13">**Open WebUI**</span> · [[Changes/Open WebUI/2024-06-10-2-search-and-browsing-changes-in-v0-3-2|2 Search and Browsing changes in v0.3.2]] · Digest
+- 2024-06-04 · <span class="tl-product tl-p13">**Open WebUI**</span> · [[Changes/Open WebUI/2024-06-04-searxng-web-search-fixed-the-issue-where-the-searxng-web-search-functionality-wa|🔍 SearxNG Web Search]] · Change
+- 2024-06-02 · <span class="tl-product tl-p13">**Open WebUI**</span> · [[Changes/Open WebUI/2024-06-02-web-search-support-introducing-built-in-web-search-capabilities-via-rag-api-allo|🔍 Web Search Support]] · Change
 
 **2024-01**
 
@@ -283,8 +429,14 @@ Launches, expansions, pricing and policy changes and standalone announcements co
 
 </details>
 
-<details class="disclosure" open>
-<summary>2023 · 5 entries (ChatGPT 5)</summary>
+</details>
+
+<details class="disclosure">
+<summary>2023 · 6 entries (ChatGPT 5 · Dify 1)</summary>
+
+**2023-11**
+
+- 2023-11-21 · <span class="tl-product tl-p7">**Dify**</span> · [[Changes/Dify/2023-11-21-current-version-adds-full-text-search-and-hybrid-search-functions-for-datasets-s|Current version adds full-text search and hybrid search functions for datasets…]] · Change
 
 **2023-09**
 

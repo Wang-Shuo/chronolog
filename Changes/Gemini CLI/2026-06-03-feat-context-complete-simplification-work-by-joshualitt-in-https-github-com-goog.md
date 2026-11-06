@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: bbf83e8950216ee598093024673bab030800ac40b9700e9a7eeaefe7e7f82e62
+machine_hash: 576b518b6b66f68f88c65db079ac54f522f421fc2d484ba347188be9c7dececa
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -41,12 +41,12 @@ record:
   title: 'feat(context): Complete simplification work'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-28-2-context-window-changes-in-v1-0-55|2 Context
-  Window changes in v1.0.55]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-29-2-context-window-changes-in-v1-0-56|2 Context
   Window changes in v1.0.56]]'
 - '[[Changes/Codex CLI/2026-06-01-9-context-window-changes-in-rust-v0-136-0|9 Context
   Window changes in rust-v0.136.0]]'
+- '[[Changes/Open WebUI/2026-06-01-4-context-window-changes-in-v0-9-6|4 Context Window
+  changes in v0.9.6]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-06-03-v0-45-0-github-333446430-371faa63|gemini-cli-2026-06-03-v0-45-0-github-333446430-371faa63]]'
 source_type: github_releases
 theme: context-window
@@ -75,8 +75,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-06-01 · Codex CLI · [[Changes/Codex CLI/2026-06-01-9-context-window-changes-in-rust-v0-136-0|9 Context Window changes in rust-v0.136.0]]
-- Later: 2026-06-04 · Codex CLI · [[Changes/Codex CLI/2026-06-04-3-context-window-changes-in-rust-v0-137-0|3 Context Window changes in rust-v0.137.0]]
+- Earlier: 2026-06-01 · Open WebUI · [[Changes/Open WebUI/2026-06-01-4-context-window-changes-in-v0-9-6|4 Context Window changes in v0.9.6]]
+- Later: 2026-06-03 · Ollama · [[Changes/Ollama/2026-06-03-the-llama-cpp-backend-now-includes-cached-prompt-tokens-in-token-accounting-impr|The llama.cpp backend now includes cached prompt tokens in token accounting…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

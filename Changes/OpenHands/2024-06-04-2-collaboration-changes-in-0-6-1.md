@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7fdbeba8e8f2982f9317101bfc509a5afd5ead4fe9fa7d43be839b9e317ed150
+machine_hash: 33ff9c590e874afacb85f7027959d579b83d809cac90a48f1fd19735a233871d
 product: openhands
 product_name: OpenHands
 record:
@@ -41,9 +41,12 @@ record:
   title: 2 Collaboration changes in 0.6.1
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
-- '[[Changes/ChatGPT/2024-01-10-we-re-launching-a-new-chatgpt-plan-for-teams-of-all-sizes-which-provides-a-secur-c68432|Use
-  ChatGPT alongside your team]]'
+- "[[Changes/Open WebUI/2024-04-21-share-link-copy-button-fixed-bug-where-the-copy-button-wasn-t-copying-links-in-s|\U0001F517
+  Share Link Copy Button]]"
+- "[[Changes/Open WebUI/2024-05-19-shared-chat-update-shared-chat-now-includes-creator-user-information|\U0001F464
+  Shared Chat Update: Shared chat now includes creator user information]]"
+- '[[Changes/Open WebUI/2024-06-02-2-collaboration-changes-in-v0-2-0|2 Collaboration
+  changes in v0.2.0]]'
 source_release: '[[Releases/OpenHands/openhands-2024-06-04-0-6-1-github-158811079-9345253b|openhands-2024-06-04-0-6-1-github-158811079-9345253b]]'
 source_type: github_releases
 theme: collaboration
@@ -80,8 +83,8 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/0.6.1
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2024-01-10 · ChatGPT · [[Changes/ChatGPT/2024-01-10-we-re-launching-a-new-chatgpt-plan-for-teams-of-all-sizes-which-provides-a-secur-c68432|Use ChatGPT alongside your team]]
-- Later: 2024-06-29 · OpenHands · [[Changes/OpenHands/2024-06-29-add-links-to-a-feedback-sharing-site-by-neubig-in-https-github-com-opendevin-ope|Add links to a feedback sharing site]]
+- Earlier: 2024-06-02 · Open WebUI · [[Changes/Open WebUI/2024-06-02-2-collaboration-changes-in-v0-2-0|2 Collaboration changes in v0.2.0]]
+- Later: 2024-06-14 · Dify · [[Changes/Dify/2024-06-14-note-support-add-notes-directly-into-your-workflows-to-enhance-documentation-and|Note Support: Add notes directly into your workflows to enhance documentation…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

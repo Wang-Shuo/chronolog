@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 55283659409dc26d80772a2ed83b114301459eb894f30ed86500ca39f7619b1f
+machine_hash: 12743a41117cc7992a3cc216fa9bc3e02aa8e57baabdf3a005558edcbb531b0f
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,8 +48,7 @@ record:
   title: 3 Agent Mode changes in v2.1.145
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-05-18-composer-2-5-is-now-available-in-cursor|Composer 2.5
-  is now available in Cursor]]'
+- '[[Changes/Lovable/2026-05-18-build-and-plan-mode-switch|Build and Plan mode switch]]'
 - '[[Changes/Claude Code/2026-05-19-added-resume-support-for-background-sessions-sessions-started-via-claude-bg-or-a|Added
   /resume support for background sessions]]'
 - '[[Changes/Claude Code/2026-05-19-3-agent-mode-changes-in-v2-1-144|3 Agent Mode

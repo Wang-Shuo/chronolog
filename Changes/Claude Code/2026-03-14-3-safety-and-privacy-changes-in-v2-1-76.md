@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9ec6abdc126c3d4ab25a3c84e5ffaec80a993409f7a73c2f873f83629ab2edea
+machine_hash: fdb09216c3dfc070508e140c33cf1000b7601363d79079fb555e3e05b0e5dd5d
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,12 +48,12 @@ record:
   title: 3 Safety and Privacy changes in v2.1.76
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-11-2-safety-and-privacy-changes-in-v1-0-4|2
-  Safety and Privacy changes in v1.0.4]]'
 - '[[Changes/Claude Code/2026-03-12-fixed-voice-mode-silently-failing-on-the-macos-native-binary-for-users-whose-ter|Fixed
   voice mode silently failing on the macOS native binary for users whose…]]'
 - '[[Changes/Cline/2026-03-12-markdown-image-loading-now-requires-user-consent|Markdown
   image loading now requires user consent]]'
+- '[[Changes/v0/2026-03-12-improved-snowflake-deployment-error-messages-for-permission-issues|Improved
+  Snowflake deployment error messages for permission issues]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-14-v2-1-76-github-296929324-94cd2ffc|claude-code-2026-03-14-v2-1-76-github-296929324-94cd2ffc]]'
 source_type: github_releases
 theme: safety-privacy
@@ -96,7 +96,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.76
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-03-12 · Cline · [[Changes/Cline/2026-03-12-markdown-image-loading-now-requires-user-consent|Markdown image loading now requires user consent]]
+- Earlier: 2026-03-12 · v0 · [[Changes/v0/2026-03-12-improved-snowflake-deployment-error-messages-for-permission-issues|Improved Snowflake deployment error messages for permission issues]]
 - Later: 2026-03-16 · Codex CLI · [[Changes/Codex CLI/2026-03-16-9-safety-and-privacy-changes-in-rust-v0-115-0|9 Safety and Privacy changes in rust-v0.115.0]]
 <!-- chronolog:end -->
 

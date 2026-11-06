@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 7ac13e64cff6c9d8ec8ea33e591e5bbca59b0b589428da407b015378ca5415a1
+machine_hash: 624c3ab7de9e3a67e625fe1ac75ac99ecacb340488307f6092bf24b37f86c498
 product: aider
 product_name: Aider
 record:
@@ -41,12 +41,12 @@ record:
   title: Default GPT 3.5 model is now `gpt-3.5-turbo-0125`
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-01-18-cursor-fast-this-is-a-new-model-available-in-command-k-and-chat-expect-it-to-be|"cursor-fast":
-  This is a new model available in command-k and chat]]'
-- '[[Changes/Cursor/2024-01-25-both-pro-and-api-key-users-can-also-try-out-gpt-4-0125-preview-by-configuring-th|Both
-  pro and API key users can also try out gpt-4-0125-preview by configuring…]]'
-- '[[Changes/Aider/2024-02-03-added-support-for-model-gpt-4-0125-preview-and-openai-s-alias-model-gpt-4-turbo|Added
-  support for --model gpt-4-0125-preview and OpenAI''s alias…]]'
+- '[[Changes/Dify/2024-02-06-2-model-support-changes-in-0-5-4|2 Model Support changes
+  in 0.5.4]]'
+- '[[Changes/Gemini/2024-02-08-try-gemini-advanced-to-access-google-s-most-capable-ai-model-1-0-ultra|Try
+  Gemini Advanced to access Google’s most capable AI model, 1.0 Ultra]]'
+- '[[Changes/Ollama/2024-02-08-qwen-1-5-https-ollama-ai-library-qwen-qwen-1-5-is-a-new-family-of-large-language|Qwen
+  1.5((source link) Qwen 1.5 is a new family of large…]]'
 source_release: '[[Releases/Aider/aider-2024-02-10-v0-24-0-github-141383144-b580d44c|aider-2024-02-10-v0-24-0-github-141383144-b580d44c]]'
 source_type: github_releases
 theme: model-support
@@ -76,8 +76,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2024-02-03 · Aider · [[Changes/Aider/2024-02-03-added-support-for-model-gpt-4-0125-preview-and-openai-s-alias-model-gpt-4-turbo|Added support for --model gpt-4-0125-preview and OpenAI's alias…]]
-- Later: 2024-03-08 · Aider · [[Changes/Aider/2024-03-08-2-model-support-changes-in-v0-26-0|2 Model Support changes in v0.26.0]]
+- Earlier: 2024-02-08 · Ollama · [[Changes/Ollama/2024-02-08-qwen-1-5-https-ollama-ai-library-qwen-qwen-1-5-is-a-new-family-of-large-language|Qwen 1.5((source link) Qwen 1.5 is a new family of large…]]
+- Later: 2024-02-14 · Ollama · [[Changes/Ollama/2024-02-14-setting-a-negative-keep-alive-value-e-g-1-will-now-correctly-keep-the-model-load|Setting a negative keep_alive value (e.g. -1) will now correctly keep the model…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

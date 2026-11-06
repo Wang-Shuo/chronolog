@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: policy
-machine_hash: 5bc932b44fa2eabdc392cb3bebe2ae36c97bae636f62b204162d0ca5a329738f
+machine_hash: 20e71d65e9f6a9fb4db2ed62fc1673ead3ea66087a992e3617887fb0a6e990a2
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -55,12 +55,12 @@ record:
   title: Retiring OpenAI o3 and GPT-4.5
   type: change
 related_changes:
-- '[[Changes/Cline/2026-05-25-4-model-support-changes-in-v3-85-0|4 Model Support changes
-  in v3.85.0]]'
 - '[[Changes/Claude Code/2026-05-27-2-model-support-changes-in-v2-1-152|2 Model Support
   changes in v2.1.152]]'
 - '[[Changes/Gemini CLI/2026-05-27-refactor-decouple-auto-model-description-and-configuration-from-releasechannel-b|refactor:
   decouple auto model description and configuration from releaseChannel]]'
+- '[[Changes/Lovable/2026-05-27-new-openai-image-models-for-ai-features-in-your-app|New
+  OpenAI image models for AI features in your app]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-05-28-retiring-openai-o3-and-gpt-4-5-bb3c534d|chatgpt-2026-05-28-retiring-openai-o3-and-gpt-4-5-bb3c534d]]'
 source_type: chatgpt_changelog
 theme: model-support
@@ -87,7 +87,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-05-27 · Gemini CLI · [[Changes/Gemini CLI/2026-05-27-refactor-decouple-auto-model-description-and-configuration-from-releasechannel-b|refactor: decouple auto model description and configuration from releaseChannel]]
+- Earlier: 2026-05-27 · Lovable · [[Changes/Lovable/2026-05-27-new-openai-image-models-for-ai-features-in-your-app|New OpenAI image models for AI features in your app]]
 - Later: 2026-05-28 · ChatGPT · [[Changes/ChatGPT/2026-05-28-we-re-updating-gpt-5-5-instant-in-chatgpt-and-the-api-to-improve-response-style|GPT-5.5 Instant Update]]
 <!-- chronolog:end -->
 

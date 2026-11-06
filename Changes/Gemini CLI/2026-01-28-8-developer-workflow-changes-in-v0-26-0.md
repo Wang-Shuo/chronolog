@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9802a2400135f4b61047dba7f8894f073b963f71a347c5a59eacc4f6630e95b9
+machine_hash: 11e1924d47392ef6195d8400a1442316f8c54e514f3fc9e65038190a9529db70
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -54,10 +54,10 @@ record:
   title: 8 Developer Workflow changes in v0.26.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-01-27-2-developer-workflow-changes-in-rust-v0-92-0|2 Developer
-  Workflow changes in rust-v0.92.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-27-2-developer-workflow-changes-in-v0-0-396|2
   Developer Workflow changes in v0.0.396]]'
+- '[[Changes/v0/2026-01-27-projects-connected-to-your-actual-app-with-code-environment-variables-deployment|Projects
+  : connected to your actual app, with code, environment variables…]]'
 - '[[Changes/Claude Code/2026-01-28-vscode-added-automatic-python-virtual-environment-activation-ensuring-python-and|VSCode
   Added automatic Python virtual environment activation, ensuring python…]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-01-28-v0-26-0-github-280517876-a39d31c9|gemini-cli-2026-01-28-v0-26-0-github-280517876-a39d31c9]]'

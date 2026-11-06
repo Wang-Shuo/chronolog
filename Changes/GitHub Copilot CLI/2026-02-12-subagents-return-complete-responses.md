@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3e0e7c857c107b7f8fab342ea3e4328c124719eeb7b50f5c93ccb0afea4695fc
+machine_hash: 896a58522b5b5c77a461638f5c01e66d164f20e0f894a1cf249df61c541b2f34
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -80,7 +80,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-02-12 · Cursor · [[Changes/Cursor/2026-02-12-cursor-can-now-work-autonomously-over-longer-horizons-to-complete-larger-more-co-48843c|Long-running Agents in Research Preview]]
-- Later: 2026-02-17 · Codex CLI · [[Changes/Codex CLI/2026-02-17-7-agent-mode-changes-in-rust-v0-102-0|7 Agent Mode changes in rust-v0.102.0]]
+- Later: 2026-02-13 · Replit · [[Changes/Replit/2026-02-13-agent-production-sql-database-access|Agent production SQL database access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

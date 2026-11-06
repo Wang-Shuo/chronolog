@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 39301099f7b3fc2d576d50eacbc12545e1f626e8d28de00e08658a1895f304cd
+machine_hash: 9e0d5f15cdb8cdc5b6340aa419857f2f27298de5708aa5ae1255f2a62ecbd1d8
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,12 +47,11 @@ record:
     paths…
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-08-27-feat-add-linux-desktop-installer-build-ci-deb-maintainer-fix-by-georgeglarson-in|feat:
-  add linux desktop installer build (CI + deb maintainer fix)]]'
-- '[[Changes/ChatGPT/2026-08-31-share-your-stickers-in-messaging-apps-download-your-pack-or-add-it-to-imessage-o|Share
-  your stickers in messaging apps]]'
 - '[[Changes/ChatGPT/2026-08-31-chatgpt-work-and-codex-can-now-use-tools-that-supported-websites-provide-directl|ChatGPT
   Work and Codex can now use tools that supported websites provide directly…]]'
+- '[[Changes/ElevenLabs/2026-08-31-android-sdk|Android SDK]]'
+- "[[Changes/Open WebUI/2026-08-31-code-interpreter-starts-on-windows-the-built-in-code-interpreter-now-serves-its|\U0001F40D
+  Code interpreter starts on Windows. The built-in code interpreter now serves…]]"
 source_release: '[[Releases/Claude Code/claude-code-2026-09-01-v2-1-257-github-380686035-b86855a6|claude-code-2026-09-01-v2-1-257-github-380686035-b86855a6]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -91,8 +90,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-08-31 · ChatGPT · [[Changes/ChatGPT/2026-08-31-chatgpt-work-and-codex-can-now-use-tools-that-supported-websites-provide-directl|ChatGPT Work and Codex can now use tools that supported websites provide directly…]]
-- Later: 2026-09-03 · Claude Code · [[Changes/Claude Code/2026-09-03-3-mobile-and-desktop-changes-in-v2-1-260|3 Mobile and Desktop changes in v2.1.260]]
+- Earlier: 2026-08-31 · Open WebUI · [[Changes/Open WebUI/2026-08-31-code-interpreter-starts-on-windows-the-built-in-code-interpreter-now-serves-its|🐍 Code interpreter starts on Windows. The built-in code interpreter now serves…]]
+- Later: 2026-09-02 · Lovable · [[Changes/Lovable/2026-09-02-download-the-mobile-app-from-your-settings|Download the mobile app from your settings]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

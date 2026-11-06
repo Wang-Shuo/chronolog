@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2395f8d4e87c8650483e2e63bc95c54df519bc66eb06ccc2e903944bf4e687f4
+machine_hash: ede42ab248e8be60de776c237cfca873bab6916b1c9e797a4aa46e807dc4dd57
 product: cline
 product_name: Cline
 record:
@@ -60,8 +60,8 @@ record:
   title: 4 Model Support changes in v4.1.25
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-15-6-model-support-changes-in-rust-v0-163-0|6 Model
-  Support changes in rust-v0.163.0]]'
+- '[[Changes/Lovable/2026-10-15-gpt-6-1-sol-for-your-app-s-ai-features|GPT-6.1 Sol
+  for your app''s AI features]]'
 - '[[Changes/ChatGPT/2026-10-16-gpt-6-pro-in-the-chat-tab-now-offers|GPT-6 Pro in
   the chat tab now offers]]'
 - '[[Changes/Claude Code/2026-10-16-improved-the-message-when-a-background-session-reopened-from-another-folder-has|Improved
@@ -105,7 +105,7 @@ Source: https://github.com/cline/cline/releases/tag/v4.1.25
 ## Nearby in Model Support
 
 - Earlier: 2026-10-16 · Claude Code · [[Changes/Claude Code/2026-10-16-improved-the-message-when-a-background-session-reopened-from-another-folder-has|Improved the message when a background session reopened from another folder has no…]]
-- Later: 2026-10-19 · Claude Code · [[Changes/Claude Code/2026-10-19-2-model-support-changes-in-v2-1-304|2 Model Support changes in v2.1.304]]
+- Later: 2026-10-16 · Open WebUI · [[Changes/Open WebUI/2026-10-16-3-model-support-changes-in-v0-12-3|3 Model Support changes in v0.12.3]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

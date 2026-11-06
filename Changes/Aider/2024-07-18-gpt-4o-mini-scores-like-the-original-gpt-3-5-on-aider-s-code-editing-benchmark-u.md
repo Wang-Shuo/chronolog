@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 018b714dd66c11ee04edd01dd81157d9108430732bf7cc144aff1f970bd1ba66
+machine_hash: ce7e47ce13f17fa115f659f3589dac6b535696e3f1bfcd447b3a863160a3a24e
 product: aider
 product_name: Aider
 record:
@@ -44,11 +44,11 @@ record:
   title: GPT 4o mini scores like the original GPT 3.5 on aider's code editing benchmark…
   type: change
 related_changes:
-- '[[Changes/OpenHands/2024-07-05-3-model-support-changes-in-0-7-1|3 Model Support
-  changes in 0.7.1]]'
-- '[[Changes/Aider/2024-07-07-2-model-support-changes-in-v0-43-0|2 Model Support changes
-  in v0.43.0]]'
+- '[[Changes/Dify/2024-07-15-update-model-provider-configuration-for-triton-inference-server-and-x-by-benjami|Update
+  model provider configuration for Triton Inference Server and X…]]'
 - '[[Changes/Aider/2024-07-16-simplified-output-of-models|Simplified output of --models]]'
+- '[[Changes/Open WebUI/2024-07-17-2-model-support-changes-in-v0-3-9|2 Model Support
+  changes in v0.3.9]]'
 source_release: '[[Releases/Aider/aider-2024-07-18-v0-45-0-github-166117451-6702cfa2|aider-2024-07-18-v0-45-0-github-166117451-6702cfa2]]'
 source_type: github_releases
 theme: model-support
@@ -78,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2024-07-16 · Aider · [[Changes/Aider/2024-07-16-simplified-output-of-models|Simplified output of --models]]
+- Earlier: 2024-07-17 · Open WebUI · [[Changes/Open WebUI/2024-07-17-2-model-support-changes-in-v0-3-9|2 Model Support changes in v0.3.9]]
 - Later: 2024-07-18 · ChatGPT · [[Changes/ChatGPT/2024-07-18-we-re-introducing-gpt-4o-mini-the-most-capable-and-cost-efficient-small-model-av-af297b|Introducing GPT-4o mini]]
 <!-- chronolog:end -->
 

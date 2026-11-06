@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b3b8818b97088e5fae4863d8edeb731a1e3d959c9b67242d9b5c2c3d4f591859
+machine_hash: 64140b644537e04f981bb31ef5bcc2e5cf8ebaeb88507d5694bfbee950d85713
 product: aider
 product_name: Aider
 record:
@@ -43,10 +43,10 @@ record:
   title: On Windows, `/run` correctly uses PowerShell or cmd.exe
   type: change
 related_changes:
-- '[[Changes/OpenHands/2024-06-29-2-mobile-and-desktop-changes-in-0-7-0|2 Mobile and
-  Desktop changes in 0.7.0]]'
-- '[[Changes/Aider/2024-07-18-aider-is-better-at-offering-to-add-files-to-the-chat-on-windows|Aider
-  is better at offering to add files to the chat on Windows]]'
+- '[[Changes/Gemini/2024-08-26-contextual-and-convenient-help-from-gemini|Contextual
+  and convenient help from Gemini]]'
+- "[[Changes/Open WebUI/2024-08-27-call-mode-activation-via-url-added-a-call-true-url-search-parameter-enabling-dir|\U0001F517
+  Call Mode Activation via URL]]"
 - '[[Changes/Aider/2024-09-04-only-print-the-pip-command-when-self-updating-on-windows-without-running-it|Only
   print the pip command when self updating on Windows, without running it]]'
 source_release: '[[Releases/Aider/aider-2024-09-21-v0-57-0-github-176248363-c44e2603|aider-2024-09-21-v0-57-0-github-176248363-c44e2603]]'
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2024-09-04 · Aider · [[Changes/Aider/2024-09-04-only-print-the-pip-command-when-self-updating-on-windows-without-running-it|Only print the pip command when self updating on Windows, without running it]]
-- Later: 2024-11-19 · ChatGPT · [[Changes/ChatGPT/2024-11-19-starting-today-we-re-beginning-to-roll-out-advanced-voice-mode-on-web-already-av-3d4db6|Advanced Voice for ChatGPT Web]]
+- Later: 2024-09-24 · Open WebUI · [[Changes/Open WebUI/2024-09-24-temporary-file-handling-on-windows-fixed-an-issue-causing-errors-when-accessing|🗑️ Temporary File Handling On Windows]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

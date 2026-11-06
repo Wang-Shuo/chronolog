@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 7a91a3cb7c8d1335905528fe9f9255746ef2e19ee0070474731134e3cfc359d1
+machine_hash: d1dff96f98becdc58ce96005050c7460f0748e99dd5dd9bce4aef191197f1ce1
 product: cline
 product_name: Cline
 record:
@@ -44,10 +44,10 @@ record:
   title: Cost estimates no longer appear in task history for subscription-billed tasks…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-27-added-usage-credits-for-enterprise-organizations-billed-through-aws-marketplace|Added
-  /usage-credits for Enterprise organizations billed through AWS Marketplace…]]'
 - '[[Changes/Claude Code/2026-08-28-added-a-per-session-prompt-cache-line-to-cost-hit-ratio-misses-tokens-re-cached|Added
   a per-session prompt-cache line to /cost…]]'
+- '[[Changes/v0/2026-08-28-4-pricing-model-changes-in-gpt-5-6-sol-sign-in-inside-previews|4
+  Pricing Model changes in GPT-5.6 Sol, sign-in inside previews…]]'
 - '[[Changes/Codex CLI/2026-09-01-rate-limit-banners-offer-actions-for-checking-usage-managing-credits-resetting-l|Rate-limit
   banners offer actions for checking usage, managing credits, resetting…]]'
 source_release: '[[Releases/Cline/cline-2026-09-02-v4-1-17-github-381000681-694bbda2|cline-2026-09-02-v4-1-17-github-381000681-694bbda2]]'

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 10cdf44b196e888928c0c3894c58cd69d8a2efa270c3189249c07dda2e40bdce
+machine_hash: 1512e3736994c8b195435306959317c40def174db09510a4912fc3c28d487d5e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -94,7 +94,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2025-09-11 · Cline · [[Changes/Cline/2025-09-11-deep-planning-improvements-optimized-prompts-for-windows-powershell-environments|Deep Planning Improvements]]
-- Later: 2025-10-01 · Cline · [[Changes/Cline/2025-10-01-2-mobile-and-desktop-changes-in-v3-32-6|2 Mobile and Desktop changes in v3.32.6]]
+- Later: 2025-09-29 · Claude · [[Changes/Claude/2025-09-29-creating-and-editing-files-with-claude-for-pro-plans-and-mobile|Creating and editing files with Claude for Pro plans and mobile]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

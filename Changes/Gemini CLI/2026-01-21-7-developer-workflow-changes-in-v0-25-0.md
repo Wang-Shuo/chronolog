@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5ca99b09a5884079aca362201e37806b0ecf70ed0f5015600fed65d096ea28ab
+machine_hash: f67368d36e9f13ac4c62238ba77b4d8fb74354e3dd94363220cabc6141a47399
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -114,7 +114,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.25.0
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-01-21 · Codex CLI · [[Changes/Codex CLI/2026-01-21-9-developer-workflow-changes-in-rust-v0-88-0|9 Developer Workflow changes in rust-v0.88.0]]
-- Later: 2026-01-22 · Claude Code · [[Changes/Claude Code/2026-01-22-added-new-task-management-system-including-new-capabilities-like-dependency-trac|Added new task management system, including new capabilities like dependency tracking]]
+- Later: 2026-01-21 · Ollama · [[Changes/Ollama/2026-01-21-new-ollama-launch-command-for-claude-code-codex-opencode-and-droid|New ollama launch command for Claude Code, Codex, OpenCode, and Droid]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

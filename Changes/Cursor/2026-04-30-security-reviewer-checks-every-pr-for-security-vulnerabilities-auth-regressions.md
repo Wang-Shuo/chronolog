@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 210d14e44373a015f51605ea5aa5c62cb1cf3cc0829d418878776d8e88cd3c6d
+machine_hash: 27b9687b16fbdfda744be4b20dd39914262cbea6d337f1c3cb55606de360d54c
 product: cursor
 product_name: Cursor
 record:
@@ -48,8 +48,8 @@ record:
   title: Security Reviewer
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-28-allow-acp-clients-to-toggle-allow-all-permission-mode-via-session-configuration|Allow
-  ACP clients to toggle allow-all permission mode via session configuration]]'
+- '[[Changes/Dify/2026-04-29-7-safety-and-privacy-changes-in-1-14-0|7 Safety and Privacy
+  changes in 1.14.0]]'
 - '[[Changes/Codex CLI/2026-04-30-21-safety-and-privacy-changes-in-rust-v0-128-0|21
   Safety and Privacy changes in rust-v0.128.0]]'
 - '[[Changes/Cursor/2026-04-30-cursor-security-review-is-now-in-beta-on-teams-and-enterprise-plans-you-can-run|Cursor

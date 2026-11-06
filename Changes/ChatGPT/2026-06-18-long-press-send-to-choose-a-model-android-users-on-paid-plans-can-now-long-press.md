@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 8085236195e8977086f3a6b5aa0fba976ef6e9142bbad92e4851d095e2406275
+machine_hash: 591189a74bef5655f51d1279c948ff28b97b379290af64f74a5548ebcc4b0efb
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -48,12 +48,11 @@ record:
   title: Long-press send to choose a model
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-13-3-model-support-changes-in-v1-0-62|3 Model
-  Support changes in v1.0.62]]'
-- '[[Changes/Claude Code/2026-06-15-bug-now-requires-a-description-before-submitting-and-no-longer-uses-model-refusa|/bug
-  now requires a description before submitting, and no longer uses…]]'
 - '[[Changes/Codex CLI/2026-06-15-4-model-support-changes-in-rust-v0-140-0|4 Model
   Support changes in rust-v0.140.0]]'
+- '[[Changes/ElevenLabs/2026-06-15-introducing-music-v2|Introducing Music v2]]'
+- '[[Changes/Ollama/2026-06-17-command-a-and-north-family-models-now-run-on-apple-silicon-with-the-mlx-engine|Command
+  A and North family models now run on Apple Silicon with the MLX engine]]'
 scope: Android
 source_release: '[[Releases/ChatGPT/chatgpt-2026-06-18-chatgpt-app-experience-updates-d15f55c5|chatgpt-2026-06-18-chatgpt-app-experience-updates-d15f55c5]]'
 source_type: chatgpt_changelog
@@ -90,7 +89,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-06-15 · Codex CLI · [[Changes/Codex CLI/2026-06-15-4-model-support-changes-in-rust-v0-140-0|4 Model Support changes in rust-v0.140.0]]
+- Earlier: 2026-06-17 · Ollama · [[Changes/Ollama/2026-06-17-command-a-and-north-family-models-now-run-on-apple-silicon-with-the-mlx-engine|Command A and North family models now run on Apple Silicon with the MLX engine]]
 - Later: 2026-06-18 · Gemini CLI · [[Changes/Gemini CLI/2026-06-18-vertex-ai-model-mapping-fix-by-davidapierce-in-https-github-com-google-gemini-ge|Vertex ai model mapping fix]]
 <!-- chronolog:end -->
 

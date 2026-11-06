@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: bdeea152e9fb3020e0d48e4528601c8df8d61d1a8f64f9ccd0e1290f76bee38e
+machine_hash: 37d1300907665e19656daf3e2aa97833e726e018c497d72da5716de3d0ecc4f3
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,12 +45,9 @@ record:
   title: 2 Agent Mode changes in v1.0.11
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-03-17-7-agent-mode-changes-in-v0-34-0|7 Agent Mode changes
-  in v0.34.0]]'
-- '[[Changes/GitHub Copilot CLI/2026-03-18-2-agent-mode-changes-in-v1-0-8|2 Agent
-  Mode changes in v1.0.8]]'
-- '[[Changes/Codex CLI/2026-03-19-5-agent-mode-changes-in-rust-v0-116-0|5 Agent Mode
-  changes in rust-v0.116.0]]'
+- '[[Changes/Replit/2026-03-20-empty-project-creation|Empty project creation]]'
+- '[[Changes/ElevenLabs/2026-03-23-elevenagents|ElevenAgents]]'
+- '[[Changes/ElevenLabs/2026-03-23-python-sdk|Python SDK]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-03-23-v1-0-11-github-300392949-b4741619|github-copilot-cli-2026-03-23-v1-0-11-github-300392949-b4741619]]'
 source_type: github_releases
 theme: agent-mode
@@ -87,7 +84,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.11
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-03-19 · Codex CLI · [[Changes/Codex CLI/2026-03-19-5-agent-mode-changes-in-rust-v0-116-0|5 Agent Mode changes in rust-v0.116.0]]
+- Earlier: 2026-03-23 · ElevenLabs · [[Changes/ElevenLabs/2026-03-23-python-sdk|Python SDK]]
 - Later: 2026-03-24 · Gemini CLI · [[Changes/Gemini CLI/2026-03-24-10-agent-mode-changes-in-v0-35-0|10 Agent Mode changes in v0.35.0]]
 <!-- chronolog:end -->
 

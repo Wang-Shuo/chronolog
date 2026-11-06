@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a3fb7d768498bfe91a2a2eafb77539829efb7f191e00e1a896cc1392f681a468
+machine_hash: 898e79bdec1bd529fbdda5aa2977aff6377bd1bc85dcc3f8a422ed989aead014
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,8 +42,7 @@ record:
   title: Improved context-low warning to show as a transient footer notification instead…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-02-2-context-window-changes-in-v2-1-91|2 Context
-  Window changes in v2.1.91]]'
+- '[[Changes/Lovable/2026-04-02-image-tools|Image tools]]'
 - '[[Changes/Claude Code/2026-04-04-pro-users-now-see-a-footer-hint-when-returning-to-a-session-after-the-prompt-cac|Pro
   users now see a footer hint when returning to a session after the prompt cache…]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-06-slash-command-timeline-entries-now-include-the-command-name-e-g-review-plan-for|Slash

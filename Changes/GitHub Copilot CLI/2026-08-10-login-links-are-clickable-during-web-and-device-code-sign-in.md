@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a255c7b72f969169d598a7e13a841c250ec648a82a2dbe3b695d9d79bb6eebbf
+machine_hash: 5970fb704197da053d06ba4ff8bd4015f1eb30a3b22c7d8ba3f9b56db6365d7c
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -41,10 +41,9 @@ record:
   title: Login links are clickable during web and device-code sign-in
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-07-changed-managed-settings-the-approval-prompt-no-longer-re-appears-after-re-login|Changed
-  managed settings]]'
 - '[[Changes/Codex CLI/2026-08-07-8-account-and-access-changes-in-rust-v0-147-0|8
   Account and Access changes in rust-v0.147.0]]'
+- '[[Changes/Replit/2026-08-07-build-with-sso|Build with SSO]]'
 - '[[Changes/Cline/2026-08-09-2-account-and-access-changes-in-v4-1-7|2 Account and
   Access changes in v4.1.7]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-08-10-v1-0-79-github-368051224-d4fdfd9a|github-copilot-cli-2026-08-10-v1-0-79-github-368051224-d4fdfd9a]]'

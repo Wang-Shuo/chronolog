@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8a39b732af67eebf16534d81737cd7017bc9851905ba213f53870631f2f3e532
+machine_hash: 4340751aa00a541cc71b35576772f18ebe1289a230e89c14200fbf0cb5326aa5
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -52,8 +52,7 @@ record:
   title: 7 Agent Mode changes in rust-v0.121.0
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-04-13-3-agent-mode-changes-in-3-1|3 Agent Mode changes in
-  3.1]]'
+- '[[Changes/ElevenLabs/2026-04-13-elevenagents|ElevenAgents]]'
 - '[[Changes/Cursor/2026-04-14-ask-a-quick-side-question-without-derailing-the-agent-s-main-task-btw-allows-you|/btw
   support in CLI]]'
 - '[[Changes/Gemini CLI/2026-04-14-6-agent-mode-changes-in-v0-38-0|6 Agent Mode changes

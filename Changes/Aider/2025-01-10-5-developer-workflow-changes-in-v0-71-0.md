@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f97a4ab879a543dc140e090948a26eb0a48535e8cfbaa2f0d19eb758716eef94
+machine_hash: 31de88c5301fd9706b49f8e89571d7b4cd73138af000bb98d032520c4aadc028
 product: aider
 product_name: Aider
 record:
@@ -47,12 +47,12 @@ record:
   title: 5 Developer Workflow changes in v0.71.0
   type: change
 related_changes:
-- '[[Changes/OpenHands/2024-12-17-add-color-to-the-line-next-to-ran-a-command-based-on-return-value-by-openhands-a|Add
-  color to the line next to Ran a Command based on return value]]'
-- '[[Changes/Aider/2024-12-26-2-developer-workflow-changes-in-v0-70-0|2 Developer
-  Workflow changes in v0.70.0]]'
 - '[[Changes/Cline/2025-01-06-under-the-hood-the-extension-uses-git-to-efficiently-track-changes-which-uses-ad|Under
   the hood, the extension uses git to efficiently track changes, which uses…]]'
+- '[[Changes/Dify/2025-01-07-stop-the-service-command-please-execute-in-the-docker-directory|Stop
+  the service，Command, please execute in the docker directory]]'
+- '[[Changes/Ollama/2025-01-08-command-r7b-https-ollama-com-library-command-r7b-the-smallest-model-in-cohere-s|Command
+  R7B((source link) the smallest model…]]'
 source_release: '[[Releases/Aider/aider-2025-01-10-v0-71-0-github-194204140-359c53f2|aider-2025-01-10-v0-71-0-github-194204140-359c53f2]]'
 source_type: github_releases
 theme: developer-workflow
@@ -96,8 +96,8 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.71.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2025-01-06 · Cline · [[Changes/Cline/2025-01-06-under-the-hood-the-extension-uses-git-to-efficiently-track-changes-which-uses-ad|Under the hood, the extension uses git to efficiently track changes, which uses…]]
-- Later: 2025-01-13 · OpenHands · [[Changes/OpenHands/2025-01-13-2-developer-workflow-changes-in-0-20-0|2 Developer Workflow changes in 0.20.0]]
+- Earlier: 2025-01-08 · Ollama · [[Changes/Ollama/2025-01-08-command-r7b-https-ollama-com-library-command-r7b-the-smallest-model-in-cohere-s|Command R7B((source link) the smallest model…]]
+- Later: 2025-01-13 · Dify · [[Changes/Dify/2025-01-13-stop-the-service-command-please-execute-in-the-docker-directory|Stop the service，Command, please execute in the docker directory]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

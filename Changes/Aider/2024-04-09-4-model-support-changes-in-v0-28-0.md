@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 81caac217b451cdb1093a28c83cf66a7ae8e31b3a35f455ef1e0291dbe4c2cfa
+machine_hash: 7dca84168e64dac4ccd2d0a22eb95b044605e8ad7757dcd4ad3f720e11d3d4a1
 product: aider
 product_name: Aider
 record:
@@ -50,12 +50,12 @@ record:
   title: 4 Model Support changes in v0.28.0
   type: change
 related_changes:
-- '[[Changes/Aider/2024-03-08-2-model-support-changes-in-v0-26-0|2 Model Support changes
-  in v0.26.0]]'
-- '[[Changes/Cursor/2024-03-12-if-you-re-a-pro-or-business-user-you-can-add-claude-3-opus-as-a-custom-model-in|Claude
-  Support]]'
-- '[[Changes/Cursor/2024-03-20-stable-claude-support-all-the-newest-claude-models-are-available-for-pro-and-api|Stable
-  Claude Support]]'
+- '[[Changes/Open WebUI/2024-03-31-3-model-support-changes-in-v0-1-116|3 Model Support
+  changes in v0.1.116]]'
+- '[[Changes/Ollama/2024-04-05-4-model-support-changes-in-v0-1-31|4 Model Support
+  changes in v0.1.31]]'
+- '[[Changes/Dify/2024-04-08-feat-new-llm-add-support-for-openrouter-by-korayem-in-https-github-com-langgeniu|feat
+  (new llm): add support for openrouter]]'
 source_release: '[[Releases/Aider/aider-2024-04-09-v0-28-0-github-150484726-2eafb381|aider-2024-04-09-v0-28-0-github-150484726-2eafb381]]'
 source_type: github_releases
 theme: model-support
@@ -90,8 +90,8 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.28.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2024-03-20 · Cursor · [[Changes/Cursor/2024-03-20-stable-claude-support-all-the-newest-claude-models-are-available-for-pro-and-api|Stable Claude Support]]
-- Later: 2024-04-12 · Cursor · [[Changes/Cursor/2024-04-12-new-gpt-4-model-as-of-a-couple-of-days-ago-you-can-try-out-gpt-4-turbo-2024-04-0|New GPT-4 model: As of a couple of days ago, you can try out gpt-4-turbo-2024-04-09…]]
+- Earlier: 2024-04-08 · Dify · [[Changes/Dify/2024-04-08-feat-new-llm-add-support-for-openrouter-by-korayem-in-https-github-com-langgeniu|feat (new llm): add support for openrouter]]
+- Later: 2024-04-09 · Dify · [[Changes/Dify/2024-04-09-2-model-support-changes-in-0-6-1|2 Model Support changes in 0.6.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

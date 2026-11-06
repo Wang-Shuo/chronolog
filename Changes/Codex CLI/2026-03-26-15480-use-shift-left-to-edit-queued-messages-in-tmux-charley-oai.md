@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6fab572060cc9ff92ae33680b6a9e964ff391811a64f8bb7a855d69ca2d6174f
+machine_hash: 30aa9ce62e432e4e8127346bd89854787b64b35f581646a38c9fdedaac17426b
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,12 +43,12 @@ record:
   title: '#15480 Use Shift+Left to edit queued messages in tmux @charley-oai'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-19-improved-permissions-tab-and-arrow-keys-now-switch-tabs-from-within-a-list|Improved
-  /permissions — Tab and arrow keys now switch tabs from within a list]]'
-- '[[Changes/GitHub Copilot CLI/2026-03-20-elicitation-form-shows-shift-tab-hint-for-navigating-between-fields-in-reverse|Elicitation
-  form shows Shift+Tab hint for navigating between fields in reverse]]'
 - '[[Changes/Claude Code/2026-03-25-3-editor-experience-changes-in-v2-1-83|3 Editor
   Experience changes in v2.1.83]]'
+- '[[Changes/Ollama/2026-03-25-microsoft-visual-studio-code-now-directly-integrates-with-ollama-via-github-copi|Microsoft
+  Visual Studio Code now directly integrates with Ollama via GitHub Copilot]]'
+- '[[Changes/Open WebUI/2026-03-25-4-editor-experience-changes-in-v0-8-11|4 Editor
+  Experience changes in v0.8.11]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-03-26-rust-v0-117-0-github-302123790-7cb322b6|codex-cli-2026-03-26-rust-v0-117-0-github-302123790-7cb322b6]]'
 source_type: github_releases
 theme: editor-experience
@@ -94,7 +94,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-03-25 · Claude Code · [[Changes/Claude Code/2026-03-25-3-editor-experience-changes-in-v2-1-83|3 Editor Experience changes in v2.1.83]]
+- Earlier: 2026-03-25 · Open WebUI · [[Changes/Open WebUI/2026-03-25-4-editor-experience-changes-in-v0-8-11|4 Editor Experience changes in v0.8.11]]
 - Later: 2026-03-26 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-26-diff-view-correctly-renders-all-lines-when-intra-line-highlighting-is-present|/diff view correctly renders all lines when intra-line highlighting is present]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: b26c2c2f937d71434edde106ee88135b208edb210631d17f86c5c48db8635e67
+machine_hash: c22a12b3c48f66accf52708264326c45db7043564eba12c2803b5d455cf9f1b6
 product: cline
 product_name: Cline
 record:
@@ -57,12 +57,12 @@ record:
   title: Adds support for [Prompt Caching](https://www.anthropic.com/news/prompt-caching)…
   type: change
 related_changes:
-- '[[Changes/Aider/2024-08-10-5-model-support-changes-in-v0-49-0|5 Model Support changes
-  in v0.49.0]]'
-- '[[Changes/Cline/2024-08-11-adds-option-to-choose-other-claude-models-gpt-4o-deepseek-and-mistral-if-you-use|Adds
-  option to choose other Claude models…]]'
 - '[[Changes/Aider/2024-08-13-infinite-output-for-deepseek-coder-mistral-models-in-addition-to-anthropic-s-mod|Infinite
   output for DeepSeek Coder, Mistral models in addition to Anthropic''s models]]'
+- '[[Changes/Ollama/2024-08-13-ollama-create-can-now-import-phi-3-models-from-safetensors|ollama
+  create can now import Phi-3 models from Safetensors]]'
+- '[[Changes/Dify/2024-08-14-15-model-support-changes-in-0-7-0|15 Model Support changes
+  in 0.7.0]]'
 source_release: '[[Releases/Cline/cline-2024-08-15-v1-2-0-github-170317303-920d4774|cline-2024-08-15-v1-2-0-github-170317303-920d4774]]'
 source_type: github_releases
 theme: model-support
@@ -89,8 +89,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2024-08-13 · Aider · [[Changes/Aider/2024-08-13-infinite-output-for-deepseek-coder-mistral-models-in-addition-to-anthropic-s-mod|Infinite output for DeepSeek Coder, Mistral models in addition to Anthropic's models]]
-- Later: 2024-08-20 · Aider · [[Changes/Aider/2024-08-20-prompt-caching-for-anthropic-models-with-cache-prompts|Prompt caching for Anthropic models with --cache-prompts]]
+- Earlier: 2024-08-14 · Dify · [[Changes/Dify/2024-08-14-15-model-support-changes-in-0-7-0|15 Model Support changes in 0.7.0]]
+- Later: 2024-08-15 · Gemini · [[Changes/Gemini/2024-08-15-gemini-1-5-pro-in-gemini-advanced-just-became-more-capable|Gemini 1.5 Pro in Gemini Advanced just became more capable]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

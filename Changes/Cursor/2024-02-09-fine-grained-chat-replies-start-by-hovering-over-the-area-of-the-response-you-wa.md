@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c5d77580e338db6a07f9aa3c0a4cd2be67d83b4c494c767bac1f2b52941afee3
+machine_hash: d725e1e7c664b50a6dcbdaf5dd1cd488bfe6f254b7cff88fbc7a0844a758c000
 product: cursor
 product_name: Cursor
 record:
@@ -44,10 +44,9 @@ record:
   title: Fine-grained chat replies…
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-12-16-previews-we-made-it-easier-to-see-what-codeblock-you-re-ing|@
-  previews: We made it easier to see what codeblock you''re @''ing]]'
 - '[[Changes/Cursor/2024-02-02-you-can-now-drag-images-into-the-command-k-prompt-bar|Drag
   images into the Command-K prompt bar!]]'
+- '[[Changes/Gemini/2024-02-08-bard-is-now-gemini|Bard is now Gemini]]'
 - '[[Changes/Cursor/2024-02-09-smoother-onboarding-fix-windows-settings-import-option-to-import-folder-window-s|Smoother
   onboarding (fix Windows settings import, option to import folder/window state)]]'
 source_release: '[[Releases/Cursor/cursor-2024-02-09-0-26-https-cursor-com-changelog-0-26-9569782c|cursor-2024-02-09-0-26-https-cursor-com-changelog-0-26-9569782c]]'
@@ -80,8 +79,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2024-02-02 · Cursor · [[Changes/Cursor/2024-02-02-you-can-now-drag-images-into-the-command-k-prompt-bar|Drag images into the Command-K prompt bar!]]
-- Later: 2024-03-01 · Cursor · [[Changes/Cursor/2024-03-01-ai-notes-enabled-by-default-hold-shift-on-any-symbol-better-in-editor-chat-auto|Polish]]
+- Earlier: 2024-02-08 · Gemini · [[Changes/Gemini/2024-02-08-bard-is-now-gemini|Bard is now Gemini]]
+- Later: 2024-02-20 · Gemini · [[Changes/Gemini/2024-02-20-exclusive-to-gemini-advanced-edit-and-run-python-code|Exclusive to Gemini Advanced: Edit and run Python code]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

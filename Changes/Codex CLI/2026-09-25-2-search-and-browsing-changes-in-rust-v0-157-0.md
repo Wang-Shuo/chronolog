@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 32824cdbc428f3d77f6785b40212443ebe2aceda275692c0d15bd8953dded060
+machine_hash: b892b9d023b9817662b6d23b92c1c538195544ffce19fca34c543a73112dc9e6
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -94,7 +94,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.157.0
 ## Nearby in Search and Browsing
 
 - Earlier: 2026-09-24 · Cline · [[Changes/Cline/2026-09-24-on-windows-mention-search-results-now-show-the-right-file-names-nested-files-suc|On Windows, @-mention search results now show the right file names]]
-- Later: 2026-10-01 · Claude Code · [[Changes/Claude Code/2026-10-01-improved-sdk-sessions-so-a-message-sent-with-priority-now-no-longer-cancels-a-ru|Improved SDK sessions so a message sent with priority "now" no longer cancels…]]
+- Later: 2026-09-29 · Ollama · [[Changes/Ollama/2026-09-29-models-using-web-search-can-now-perform-up-to-ten-searches-per-response-up-from|Models using web search can now perform up to ten searches per response, up from three]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

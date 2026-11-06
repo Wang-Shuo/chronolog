@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: be361ddd322272e763b2f14e9f92c3a339879b72c0afa1ee48dcf589c8c748d5
+machine_hash: 8a878de2f3b3a696ac7cdfa76f1dd55b8d33a9258a70dd04f4f8db32aee4c1b7
 product: openhands
 product_name: OpenHands
 record:
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-06-10 · Cursor · [[Changes/Cursor/2026-06-10-run-bugbot-before-you-push-3e5964|Run Bugbot before you push]]
-- Later: 2026-06-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-13-2-safety-and-privacy-changes-in-v1-0-62|2 Safety and Privacy changes in v1.0.62]]
+- Later: 2026-06-12 · Replit · [[Changes/Replit/2026-06-12-choose-which-production-alerts-reach-your-inbox|Choose which production alerts reach your inbox]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

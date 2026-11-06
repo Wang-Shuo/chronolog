@@ -4,20 +4,20 @@ date: '2026-09-01'
 description: 'Codex CLI · 2026-09-01 · Automation and Scheduling: #41457 Source proactive
   multi-agent instructions from the model catalog @copyberry'
 diffusion:
-  first_in_tracked: '[[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better
-    syntax error loop detection]]'
+  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
+    data clean schedule]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 727
+  lag_days: 973
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 2d0356bb714953209a21473ad57daad23c1895fe9fa5a58c5c8634faaa9f04c3
+machine_hash: 7e9129dad66edde7a602b03ce253402375339c06d08c419094b22c3a3d5a342b
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -55,12 +55,12 @@ record:
     @copyberry'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-27-changed-loop-self-paced-dynamic-mode-and-the-no-prompt-autonomous-default-are-no|Changed
-  /loop: self-paced dynamic mode and the no-prompt autonomous default…]]'
 - '[[Changes/GitHub Copilot CLI/2026-08-27-use-x-to-remove-scheduled-every-and-after-prompts-in-schedule-manager|Use
   x to remove scheduled /every and /after prompts in Schedule Manager]]'
 - '[[Changes/OpenHands/2026-08-27-2-automation-and-scheduling-changes-in-v1-16-0|2
   Automation and Scheduling changes in v1.16.0]]'
+- '[[Changes/Open WebUI/2026-08-31-3-automation-and-scheduling-changes-in-v0-11-2|3
+  Automation and Scheduling changes in v0.11.2]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-09-01-rust-v0-152-0-github-380164108-cd339544|codex-cli-2026-09-01-rust-v0-152-0-github-380164108-cd339544]]'
 source_type: github_releases
 theme: automation-scheduling
@@ -99,14 +99,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2026-08-27 · OpenHands · [[Changes/OpenHands/2026-08-27-2-automation-and-scheduling-changes-in-v1-16-0|2 Automation and Scheduling changes in v1.16.0]]
+- Earlier: 2026-08-31 · Open WebUI · [[Changes/Open WebUI/2026-08-31-3-automation-and-scheduling-changes-in-v0-11-2|3 Automation and Scheduling changes in v0.11.2]]
 - Later: 2026-09-09 · OpenHands · [[Changes/OpenHands/2026-09-09-9-automation-and-scheduling-changes-in-v1-17-0|9 Automation and Scheduling changes in v1.17.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-09-04 · OpenHands · [[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better syntax error loop detection]]
+- Earliest same-theme entry in the tracked set: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

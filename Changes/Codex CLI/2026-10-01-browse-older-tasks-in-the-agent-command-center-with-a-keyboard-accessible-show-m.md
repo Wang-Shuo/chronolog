@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 9b102abff0b6fe7208d7e2cc1512eae91d78cd8304c445dec49d0db07460f8f1
+machine_hash: c12efb0f4fa2184cee4cab61c71c396497a6c267cf1045990510ce49de470793
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -54,10 +54,10 @@ record:
   title: Browse older tasks in the agent command center with a keyboard-accessible…
   type: change
 related_changes:
-- '[[Changes/Cline/2026-09-24-on-windows-mention-search-results-now-show-the-right-file-names-nested-files-suc|On
-  Windows, @-mention search results now show the right file names]]'
 - '[[Changes/Codex CLI/2026-09-25-2-search-and-browsing-changes-in-rust-v0-157-0|2
   Search and Browsing changes in rust-v0.157.0]]'
+- '[[Changes/Ollama/2026-09-29-models-using-web-search-can-now-perform-up-to-ten-searches-per-response-up-from|Models
+  using web search can now perform up to ten searches per response, up from three]]'
 - '[[Changes/Claude Code/2026-10-01-improved-sdk-sessions-so-a-message-sent-with-priority-now-no-longer-cancels-a-ru|Improved
   SDK sessions so a message sent with priority "now" no longer cancels…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-10-01-rust-v0-160-0-github-401312540-620e0269|codex-cli-2026-10-01-rust-v0-160-0-github-401312540-620e0269]]'

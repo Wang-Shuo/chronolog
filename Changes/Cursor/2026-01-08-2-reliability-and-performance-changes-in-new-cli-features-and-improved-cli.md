@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c5134495ac8833438d3dcb9c80bc7962885f3de5d3dab10f6c18433666dd66cf
+machine_hash: 533e3c3ff45697c2bc26f78c6710cae2adbcf29fd78c0a17957faa3517aa7f07
 product: cursor
 product_name: Cursor
 record:
@@ -44,7 +44,7 @@ record:
   title: 2 Reliability and Performance changes in New CLI Features and Improved CLI…
   type: change
 related_changes:
-- '[[Changes/Windsurf/2025-12-24-swe-1-5-free|SWE-1.5 Free]]'
+- '[[Changes/Replit/2025-12-26-fast-build|Fast Build]]'
 - '[[Changes/Windsurf/2025-12-27-various-bug-fixes-and-performance-improvements|Various
   bug fixes and performance improvements]]'
 - '[[Changes/Codex CLI/2026-01-06-performance-tuning-for-tuis-cap-redraw-scheduling-and-reduce-unnecessary-rerende|Performance

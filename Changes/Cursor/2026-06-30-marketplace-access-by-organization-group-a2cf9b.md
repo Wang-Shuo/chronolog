@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: b7c538e36f78a78f48c49c9e78e841922797954caed3a83c56c45790aa3486d6
+machine_hash: 0421f1ddcc87583c5ea5d0e668a1305c2d991dc0a0e6cee9de07ae9e77e3ed71
 product: cursor
 product_name: Cursor
 record:
@@ -49,10 +49,10 @@ record:
   title: Marketplace access by organization group
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-23-preserve-markdown-blockquotes-in-share-exports|Preserve
-  Markdown blockquotes in /share exports]]'
-- '[[Changes/Cline/2026-06-26-simplify-provider-settings-ui-by-replacing-many-provider-specific-views-with-sha|Simplify
-  provider settings UI by replacing many provider-specific views with shared…]]'
+- '[[Changes/v0/2026-06-26-snowflake-gets-fewer-first-deploy-failures-creates-a-missing-snowflake-yml-for-y|Snowflake
+  gets fewer first deploy failures, creates a missing snowflake.yml for you…]]'
+- '[[Changes/Open WebUI/2026-06-29-4-collaboration-changes-in-v0-10-0|4 Collaboration
+  changes in v0.10.0]]'
 - '[[Changes/Cursor/2026-06-30-team-mcps-in-team-marketplaces-27f9ef|Team MCPs in
   team marketplaces]]'
 source_release: '[[Releases/Cursor/cursor-2026-06-30-3-10-https-cursor-com-changelog-team-marketplace-updates-eb3caab2|cursor-2026-06-30-3-10-https-cursor-com-changelog-team-marketplace-updates-eb3caab2]]'
@@ -88,7 +88,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-06-26 · Cline · [[Changes/Cline/2026-06-26-simplify-provider-settings-ui-by-replacing-many-provider-specific-views-with-sha|Simplify provider settings UI by replacing many provider-specific views with shared…]]
+- Earlier: 2026-06-29 · Open WebUI · [[Changes/Open WebUI/2026-06-29-4-collaboration-changes-in-v0-10-0|4 Collaboration changes in v0.10.0]]
 - Later: 2026-06-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-30-2-collaboration-changes-in-v1-0-66|2 Collaboration changes in v1.0.66]]
 <!-- chronolog:end -->
 

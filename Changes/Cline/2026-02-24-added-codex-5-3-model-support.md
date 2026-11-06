@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: e8ddbfa105c0411145b641860edbb281c017de85ece928f6e646c3c2e7f0715c
+machine_hash: 30f8cc0b252ad0e5b0ac7b239e79550716195ef251b75e2b130054577bff978b
 product: cline
 product_name: Cline
 record:
@@ -41,10 +41,10 @@ record:
   title: Added Codex 5.3 model support
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-02-20-2-model-support-changes-in-v0-0-413|2 Model
-  Support changes in v0.0.413]]'
-- '[[Changes/GitHub Copilot CLI/2026-02-23-plan-approval-menu-shows-model-curated-actions-with-a-recommended-option-highlig|Plan
-  approval menu shows model-curated actions with a recommended option highlighted…]]'
+- "[[Changes/Open WebUI/2026-02-23-model-access-keyerror-fix-the-api-models-endpoint-no-longer-crashes-with-a-500-e|\U0001F6AB
+  Model access KeyError fix. The /api/models endpoint no longer crashes…]]"
+- '[[Changes/Open WebUI/2026-02-23-16-model-support-changes-in-v0-8-4|16 Model Support
+  changes in v0.8.4]]'
 - '[[Changes/Claude Code/2026-02-24-the-model-picker-now-shows-human-readable-labels-e-g-sonnet-4-5-instead-of-raw-m|The
   /model picker now shows human-readable labels (e.g., "Sonnet 4.5") instead…]]'
 source_release: '[[Releases/Cline/cline-2026-02-24-v3-67-1-github-290090579-9116621b|cline-2026-02-24-v3-67-1-github-290090579-9116621b]]'

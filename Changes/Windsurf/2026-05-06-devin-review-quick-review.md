@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: e754924f75433576aa9892b8b4eb06c122f16f8e12a4246c78553e9097516bb3
+machine_hash: 38bcceaabc2bed5e199a1bcef3279a7282f7a058c2f30a6e8e8e9b9de6120eaf
 product: windsurf
 product_name: Windsurf
 record:
@@ -58,12 +58,10 @@ record:
   title: Devin Review & Quick Review
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-04-09-pro-200-month-our-highest-usage-option-remains-available-and-continues-on-its-cu|Pro
-  ($200/month): Our highest-usage option remains available and continues…]]'
-- '[[Changes/ChatGPT/2026-04-09-you-can-upgrade-switch-or-cancel-your-plan-from-settings-my-plan-or-from-the-pri|You
-  can upgrade, switch, or cancel your plan from Settings  My Plan or…]]'
-- '[[Changes/Claude Code/2026-04-22-opentelemetry-user-prompt-events-now-include-command-name-and-command-source-for|OpenTelemetry:
-  user_prompt events now include command_name and command_source…]]'
+- '[[Changes/Lovable/2026-04-24-add-payments-to-your-app|Add payments to your app]]'
+- '[[Changes/Dify/2026-04-29-7-pricing-model-changes-in-1-14-0|7 Pricing Model changes
+  in 1.14.0]]'
+- '[[Changes/ElevenLabs/2026-05-04-workspaces|Workspaces]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-05-06-v2-2-17-cdf424d7|windsurf-2026-05-06-v2-2-17-cdf424d7]]'
 source_type: windsurf_changelog
 theme: pricing-model
@@ -98,7 +96,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-04-22 · Claude Code · [[Changes/Claude Code/2026-04-22-opentelemetry-user-prompt-events-now-include-command-name-and-command-source-for|OpenTelemetry: user_prompt events now include command_name and command_source…]]
+- Earlier: 2026-05-04 · ElevenLabs · [[Changes/ElevenLabs/2026-05-04-workspaces|Workspaces]]
 - Later: 2026-05-11 · Cursor · [[Changes/Cursor/2026-05-11-customers-must-be-on-usage-based-billing-for-bugbot-to-customize-effort-levels-l|Customers must be on usage-based billing for Bugbot to customize effort levels]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ee5eb97942b4ad15dd29a93b437e9dec4f7a3ea9bf6862de19c458984da91acb
+machine_hash: bef4e9cd539eda44678085acb08de50cf2efadd63e60009582c4046e1bf9c2d7
 product: cursor
 product_name: Cursor
 record:
@@ -52,11 +52,12 @@ record:
   title: 5 Reliability and Performance changes in 0.47.x
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-02-14-ios-performance-fixes|iOS performance fixes]]'
-- '[[Changes/Cursor/2025-02-19-2-reliability-and-performance-changes-in-0-46-x|2 Reliability
-  and Performance changes in 0.46.x]]'
-- '[[Changes/ChatGPT/2025-02-21-text-selection-improvements-you-can-now-select-text-across-horizontal-rulers-3-p|Text
-  selection improvements: you can now select text across horizontal rulers]]'
+- '[[Changes/Open WebUI/2025-02-27-general-stability-enhancements-backend-and-frontend-refactoring-improves-perform|⚙️
+  General Stability Enhancements]]'
+- '[[Changes/Replit/2025-02-28-database-performance-improvement|Database performance
+  improvement]]'
+- '[[Changes/Open WebUI/2025-03-05-general-reliability-enhancements-various-stability-improvements-across-the-webui|⚙️
+  General Reliability Enhancements]]'
 source_release: '[[Releases/Cursor/cursor-2025-03-11-0-47-x-https-cursor-com-changelog-0-47-x-eebf8f2e|cursor-2025-03-11-0-47-x-https-cursor-com-changelog-0-47-x-eebf8f2e]]'
 source_type: cursor_changelog
 theme: reliability-performance
@@ -102,8 +103,8 @@ Source: https://cursor.com/changelog/0-47-x
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-02-21 · ChatGPT · [[Changes/ChatGPT/2025-02-21-text-selection-improvements-you-can-now-select-text-across-horizontal-rulers-3-p|Text selection improvements: you can now select text across horizontal rulers]]
-- Later: 2025-03-15 · Cline · [[Changes/Cline/2025-03-15-improve-checkpoints-loading-performance-and-display-warning-for-large-projects-n|Improve checkpoints loading performance and display warning for large projects not…]]
+- Earlier: 2025-03-05 · Open WebUI · [[Changes/Open WebUI/2025-03-05-general-reliability-enhancements-various-stability-improvements-across-the-webui|⚙️ General Reliability Enhancements]]
+- Later: 2025-03-11 · Dify · [[Changes/Dify/2025-03-11-stability-reliability-tackled-pesky-bugs-be-it-with-document-extracts-chat-compo|Stability & Reliability]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

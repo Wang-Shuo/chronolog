@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 611446400443f75f418722c76ef43e54412b7df49cb795a22a814f425e4aa9ee
+machine_hash: 738f981535b453a100cf89b50fb92577d23a209270c4f09ff97888921444a53c
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -100,7 +100,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.80.0
 ## Nearby in Model Support
 
 - Earlier: 2026-01-09 · Cline · [[Changes/Cline/2026-01-09-2-model-support-changes-in-v3-48-0|2 Model Support changes in v3.48.0]]
-- Later: 2026-01-10 · Cline · [[Changes/Cline/2026-01-10-removing-minimax-2-1-from-free-model-list-as-the-free-trial-has-ended|Removing Minimax-2.1 from free model list as the free trial has ended]]
+- Later: 2026-01-09 · Open WebUI · [[Changes/Open WebUI/2026-01-09-11-model-support-changes-in-v0-7-0|11 Model Support changes in v0.7.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

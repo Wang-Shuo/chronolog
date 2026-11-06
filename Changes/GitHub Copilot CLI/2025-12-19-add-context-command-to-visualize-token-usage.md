@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3cb9d0ea002677ede93d0bea0d8b542c3b9935cdffd29a3e23d100c2167ce5cc
+machine_hash: d917b2f106cc3d009c7686fe57ca2b12a8d56ea08ef5ff1514e0c75abd9de0e1
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -77,7 +77,7 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2025-12-19 · Claude Code · [[Changes/Claude Code/2025-12-19-improved-context-command-visualization-with-grouped-skills-and-agents-by-source|Improved /context command visualization with grouped skills and agents by source…]]
-- Later: 2025-12-24 · Windsurf · [[Changes/Windsurf/2025-12-24-context-window-indicator|Context Window Indicator]]
+- Later: 2025-12-22 · v0 · [[Changes/v0/2025-12-22-you-can-now-connect-v0-to-your-glean-workspace-and-build-directly-from-your-comp|Build with Glean via MCP]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

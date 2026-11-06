@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8c38aa6f98e910d6d0fa2832aca16ded20445d2f919ecf5d0502330c2ef7ab9d
+machine_hash: 3b47d32103d91947878f06f5dfcf907b5c38d88f5552f819ecf32cd551bb01f9
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,12 +43,12 @@ record:
   title: 3 Developer Workflow changes in rust-v0.102.0
   type: change
 related_changes:
-- '[[Changes/Cline/2026-02-12-terminal-surface-command-exit-codes-in-results-and-improve-long-running-execute|Terminal:
-  surface command exit codes in results and improve long-running…]]'
-- '[[Changes/Codex CLI/2026-02-12-11412-tui-show-non-file-layer-content-in-debug-config-bolinfest|♯11412
-  tui: show non-file layer content in /debug-config @bolinfest]]'
-- '[[Changes/GitHub Copilot CLI/2026-02-12-change-run-command-shortcut-from-ctrl-p-to-ctrl-s|Change
-  run command shortcut from ctrl+p to ctrl+s]]'
+- '[[Changes/Open WebUI/2026-02-12-27-developer-workflow-changes-in-v0-8-0|27 Developer
+  Workflow changes in v0.8.0]]'
+- '[[Changes/Open WebUI/2026-02-14-2-developer-workflow-changes-in-v0-8-1|2 Developer
+  Workflow changes in v0.8.1]]'
+- '[[Changes/Open WebUI/2026-02-16-4-developer-workflow-changes-in-v0-8-2|4 Developer
+  Workflow changes in v0.8.2]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-02-17-rust-v0-102-0-github-287401154-1bf3dbd0|codex-cli-2026-02-17-rust-v0-102-0-github-287401154-1bf3dbd0]]'
 source_type: github_releases
 theme: developer-workflow
@@ -93,7 +93,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.102.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-02-12 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-12-change-run-command-shortcut-from-ctrl-p-to-ctrl-s|Change run command shortcut from ctrl+p to ctrl+s]]
+- Earlier: 2026-02-16 · Open WebUI · [[Changes/Open WebUI/2026-02-16-4-developer-workflow-changes-in-v0-8-2|4 Developer Workflow changes in v0.8.2]]
 - Later: 2026-02-17 · Codex CLI · [[Changes/Codex CLI/2026-02-17-commit-co-author-attribution-now-uses-a-codex-managed-prepare-commit-msg-hook-wi|Commit co-author attribution now uses a Codex-managed prepare-commit-msg hook…]]
 <!-- chronolog:end -->
 

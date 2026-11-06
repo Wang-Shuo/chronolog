@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7eb9670c3716e2bcaf32f888e783e2f2dbb3fddd3dfd6b83a0a1e826400fb40f
+machine_hash: f963459e0c5f1438eb8e909ed4d7f8676589e41c95cd1aa3ddec5c650c396cb2
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -100,7 +100,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.93.0
 ## Nearby in Interface Experience
 
 - Earlier: 2026-01-30 · Windsurf · [[Changes/Windsurf/2026-01-30-close-model-picker-when-selecting-a-battle-group|Close model picker when selecting a battle group]]
-- Later: 2026-02-02 · Codex CLI · [[Changes/Codex CLI/2026-02-02-2-interface-experience-changes-in-rust-v0-94-0|2 Interface Experience changes in rust-v0.94.0]]
+- Later: 2026-02-01 · Ollama · [[Changes/Ollama/2026-02-01-ollama-launch-openclaw-will-now-enter-the-standard-openclaw-onboarding-flow-if-t|ollama launch openclaw will now enter the standard OpenClaw onboarding flow if…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

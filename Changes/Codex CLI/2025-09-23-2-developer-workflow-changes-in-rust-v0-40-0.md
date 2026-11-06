@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 02159ad55db963e23c3f822abb543e6399765a67dfcdb655a3dc67ef029906fe
+machine_hash: b2c178bf4352f3f77af86a5da32851f6ddcd15debcdac58d9da5d0d06c3b8df5
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -41,11 +41,12 @@ record:
   title: 2 Developer Workflow changes in rust-v0.40.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-09-17-45bccd36-https-github-com-openai-codex-commit-45bccd36b038a28b23663189cc6f7557e4|45bccd36…]]'
-- '[[Changes/Gemini CLI/2025-09-17-feat-commands-add-new-commands-for-docs-git-and-pr-review-by-allenhutchison-in-h|feat(commands):
-  Add new commands for docs, git, and PR review]]'
+- '[[Changes/Open WebUI/2025-09-17-12-developer-workflow-changes-in-v0-6-29|12 Developer
+  Workflow changes in v0.6.29]]'
 - '[[Changes/Codex CLI/2025-09-18-new-review-command-introduced-in-3774|new /review
   command introduced in ♯3774]]'
+- '[[Changes/Dify/2025-09-22-12-developer-workflow-changes-in-1-9-0|12 Developer Workflow
+  changes in 1.9.0]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-09-23-rust-v0-40-0-github-249412506-64037925|codex-cli-2025-09-23-rust-v0-40-0-github-249412506-64037925]]'
 source_type: github_releases
 theme: developer-workflow
@@ -84,7 +85,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.40.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2025-09-18 · Codex CLI · [[Changes/Codex CLI/2025-09-18-new-review-command-introduced-in-3774|new /review command introduced in ♯3774]]
+- Earlier: 2025-09-22 · Dify · [[Changes/Dify/2025-09-22-12-developer-workflow-changes-in-1-9-0|12 Developer Workflow changes in 1.9.0]]
 - Later: 2025-09-24 · Gemini CLI · [[Changes/Gemini CLI/2025-09-24-10-developer-workflow-changes-in-v0-6-0|10 Developer Workflow changes in v0.6.0]]
 <!-- chronolog:end -->
 

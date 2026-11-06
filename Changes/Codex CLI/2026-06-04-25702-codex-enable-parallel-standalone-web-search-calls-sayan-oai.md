@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1e7814ec071f69799bcf8bc105ecc0a7bf278c3db10841f3db26ae73faba5540
+machine_hash: 178ef8c9c177f156cdc157c085d67114022ae9210fb729b24f701bedc4963c26
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -41,12 +41,12 @@ record:
   title: '#25702 [codex] enable parallel standalone web search calls @sayan-oai'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-06-01-chatgpt-can-now-help-with-more-of-the-job-search-process-from-finding-relevant-l|Find
-  live jobs and format your resume in ChatGPT]]'
-- '[[Changes/Codex CLI/2026-06-01-3-search-and-browsing-changes-in-rust-v0-136-0|3
-  Search and Browsing changes in rust-v0.136.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-01-2-search-and-browsing-changes-in-v1-0-57|2
   Search and Browsing changes in v1.0.57]]'
+- '[[Changes/Open WebUI/2026-06-01-9-search-and-browsing-changes-in-v0-9-6|9 Search
+  and Browsing changes in v0.9.6]]'
+- '[[Changes/Ollama/2026-06-03-pi-web-search-setup-now-updates-only-when-a-newer-package-is-available|Pi
+  web search setup now updates only when a newer package is available]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-06-04-rust-v0-137-0-github-334076532-fadfeece|codex-cli-2026-06-04-rust-v0-137-0-github-334076532-fadfeece]]'
 source_type: github_releases
 theme: search-browsing
@@ -88,7 +88,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Search and Browsing
 
-- Earlier: 2026-06-01 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-01-2-search-and-browsing-changes-in-v1-0-57|2 Search and Browsing changes in v1.0.57]]
+- Earlier: 2026-06-03 · Ollama · [[Changes/Ollama/2026-06-03-pi-web-search-setup-now-updates-only-when-a-newer-package-is-available|Pi web search setup now updates only when a newer package is available]]
 - Later: 2026-06-09 · Codex CLI · [[Changes/Codex CLI/2026-06-09-3-search-and-browsing-changes-in-rust-v0-139-0|3 Search and Browsing changes in rust-v0.139.0]]
 <!-- chronolog:end -->
 

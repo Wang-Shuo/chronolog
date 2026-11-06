@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0cf0d4a2c6890de33166d62405fdba976a6970c59c86b9badef7573fee2ab26a
+machine_hash: ebc142a2230c0dadeaf595933fe5b845e99e0aaf0e4bf850769eba31350d0167
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -47,10 +47,10 @@ record:
   title: 4 Apps and Integrations changes in v0.0.406
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-02-05-2-apps-and-integrations-changes-in-v0-0-404|2
-  Apps and Integrations changes in v0.0.404]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-05-2-apps-and-integrations-changes-in-v0-0-403|2
   Apps and Integrations changes in v0.0.403]]'
+- '[[Changes/Lovable/2026-02-05-custom-mcp-servers-on-all-paid-plans|Custom MCP servers
+  on all paid plans]]'
 - '[[Changes/Claude Code/2026-02-06-added-plugin-name-to-skill-descriptions-and-skills-menu-for-better-discoverabili|Added
   plugin name to skill descriptions and /skills menu for better discoverability]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-02-07-v0-0-406-github-284060687-b4a44242|github-copilot-cli-2026-02-07-v0-0-406-github-284060687-b4a44242]]'
@@ -93,7 +93,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v0.0.406
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-02-06 · Claude Code · [[Changes/Claude Code/2026-02-06-added-plugin-name-to-skill-descriptions-and-skills-menu-for-better-discoverabili|Added plugin name to skill descriptions and /skills menu for better discoverability]]
-- Later: 2026-02-10 · Gemini CLI · [[Changes/Gemini CLI/2026-02-10-7-apps-and-integrations-changes-in-v0-28-0|7 Apps and Integrations changes in v0.28.0]]
+- Later: 2026-02-09 · ElevenLabs · [[Changes/ElevenLabs/2026-02-09-sdk-releases|SDK Releases]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

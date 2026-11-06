@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d81f0fad183fc69391ad3e9fe71a15f4698ff003dc4726de205ab6a8e91cba3e
+machine_hash: e09302d4d7314694d266f286f2ceb2590e3fff195d728ae7fa4addd7996fa03d
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -127,7 +127,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.162.0
 ## Nearby in Context Window
 
 - Earlier: 2026-10-08 · Claude Code · [[Changes/Claude Code/2026-10-08-improved-token-counts-behind-a-claude-apps-gateway-on-amazon-bedrock-which-conte|Improved token counts behind a Claude apps gateway on Amazon Bedrock…]]
-- Later: 2026-10-09 · Claude Code · [[Changes/Claude Code/2026-10-09-2-context-window-changes-in-v2-1-296|2 Context Window changes in v2.1.296]]
+- Later: 2026-10-08 · Ollama · [[Changes/Ollama/2026-10-08-ollama-launch-claude-uses-the-model-s-full-context-length-by-jberg5-in-https-git|ollama launch claude uses the model's full context length]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

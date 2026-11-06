@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 85d5ed424b52f5a2530d0ab9d16dafba682b0d8ff20664271c41c8fc8d8fa014
+machine_hash: 50d6881063fb44991d604360e4c6114e0d98b48c7af3b7e36d9c5abde256ecac
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -52,9 +52,9 @@ record:
   title: 6 Developer Workflow changes in rust-v0.78.0
   type: change
 related_changes:
-- '[[Changes/Windsurf/2025-12-24-2-developer-workflow-changes-in-v1-13-3|2 Developer
-  Workflow changes in v1.13.3]]'
 - '[[Changes/Windsurf/2025-12-24-wave-13-merry-shipmas|Wave 13: Merry Shipmas]]'
+- '[[Changes/Dify/2025-12-25-2-developer-workflow-changes-in-1-11-2|2 Developer Workflow
+  changes in 1.11.2]]'
 - '[[Changes/GitHub Copilot CLI/2025-12-30-kill-command-filtering-now-allows-commands-when-kill-appears-as-an-argument|Kill
   command filtering now allows commands when ''kill'' appears as an argument]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-01-06-rust-v0-78-0-github-274610568-c3df153a|codex-cli-2026-01-06-rust-v0-78-0-github-274610568-c3df153a]]'

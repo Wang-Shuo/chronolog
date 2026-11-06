@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 875f087a8846bb71bff8ccb502f7b6f83d01a81a4109b0fb85ac021695d5bc38
+machine_hash: d13dc4f4fefc5d726a3de22aa27c571a6c401a9513e2c861cf4f0eac9e25aa88
 product: claude-code
 product_name: Claude Code
 record:
@@ -87,7 +87,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.90
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-04-01 · Claude Code · [[Changes/Claude Code/2026-04-01-3-apps-and-integrations-changes-in-v2-1-89|3 Apps and Integrations changes in v2.1.89]]
-- Later: 2026-04-01 · Gemini CLI · [[Changes/Gemini CLI/2026-04-01-5-apps-and-integrations-changes-in-v0-36-0|5 Apps and Integrations changes in v0.36.0]]
+- Later: 2026-04-01 · ElevenLabs · [[Changes/ElevenLabs/2026-04-01-elevenagents-2b20f8|ElevenAgents]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

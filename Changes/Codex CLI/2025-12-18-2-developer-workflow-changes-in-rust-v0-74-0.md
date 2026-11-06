@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5cb91fe05e3e80a8dc51b0a4648098dab21e8d241120e8e907788240554f37ee
+machine_hash: 9f6935b329901783bb28b7c72403a92d039fb223413eff64c2b939ae6cbba0d7
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,10 +42,10 @@ record:
   title: 2 Developer Workflow changes in rust-v0.74.0
   type: change
 related_changes:
-- '[[Changes/Cline/2025-12-11-6-developer-workflow-changes-in-v3-41-0|6 Developer
-  Workflow changes in v3.41.0]]'
 - '[[Changes/Cline/2025-12-12-refactor-terminal-module-by-arafatkatze-in-https-github-com-cline-cline-pull-796|Refactor
   Terminal Module]]'
+- '[[Changes/Dify/2025-12-12-please-use-the-following-command-instead-for-details-please-read-this-https-gith|
+  Please use the following command instead]]'
 - '[[Changes/Gemini CLI/2025-12-16-5-developer-workflow-changes-in-v0-21-0|5 Developer
   Workflow changes in v0.21.0]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-12-18-rust-v0-74-0-github-271533952-972d825a|codex-cli-2025-12-18-rust-v0-74-0-github-271533952-972d825a]]'

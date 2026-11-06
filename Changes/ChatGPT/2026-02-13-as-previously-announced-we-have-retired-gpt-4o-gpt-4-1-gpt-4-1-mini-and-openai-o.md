@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: policy
-machine_hash: 397ecc34f235fda3cba1c6c7752321bd31c27494f307d3a64116428d6228c032
+machine_hash: 54a9bf8ba3f98702cea3d9848f7fc38af78d4e3e6025c9f93de5d4abf6532e50
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -48,12 +48,12 @@ record:
   title: Retiring GPT-4o and other legacy models
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-02-12-3-model-support-changes-in-rust-v0-101-0|3 Model
-  Support changes in rust-v0.101.0]]'
-- '[[Changes/Codex CLI/2026-02-12-4-model-support-changes-in-rust-v0-100-0|4 Model
-  Support changes in rust-v0.100.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-12-add-streamer-mode-to-hide-preview-model-names-and-quota-details-for-streaming|Add
   /streamer-mode to hide preview model names and quota details for streaming]]'
+- '[[Changes/Ollama/2026-02-12-3-model-support-changes-in-v0-16-0|3 Model Support
+  changes in v0.16.0]]'
+- '[[Changes/Open WebUI/2026-02-12-19-model-support-changes-in-v0-8-0|19 Model Support
+  changes in v0.8.0]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-02-13-retiring-gpt-4o-and-other-legacy-models-71b41b16|chatgpt-2026-02-13-retiring-gpt-4o-and-other-legacy-models-71b41b16]]'
 source_type: chatgpt_changelog
 theme: model-support
@@ -80,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-02-12 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-12-add-streamer-mode-to-hide-preview-model-names-and-quota-details-for-streaming|Add /streamer-mode to hide preview model names and quota details for streaming]]
+- Earlier: 2026-02-12 · Open WebUI · [[Changes/Open WebUI/2026-02-12-19-model-support-changes-in-v0-8-0|19 Model Support changes in v0.8.0]]
 - Later: 2026-02-13 · Cline · [[Changes/Cline/2026-02-13-ui-ux-fixes-with-minimax-model-family|UI/UX fixes with minimax model family]]
 <!-- chronolog:end -->
 

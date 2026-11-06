@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 25a17195426974d4251e56ae3d2ecfdabd7c992d3d1d6f79d97d9fb4158d170a
+machine_hash: 05a4529ebf64f7a8914ef32b0f4426e11108a4112a2e9e7bcbefda687be6104b
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -58,9 +58,9 @@ record:
   title: 9 Apps and Integrations changes in rust-v0.157.0
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-09-23-integrations|Integrations]]'
-- '[[Changes/Claude Code/2026-09-24-8-apps-and-integrations-changes-in-v2-1-282|8
-  Apps and Integrations changes in v2.1.282]]'
+- '[[Changes/Lovable/2026-09-24-create-update-and-publish-storyblok-content-from-your-app|Create,
+  update, and publish Storyblok content from your app]]'
+- '[[Changes/Claude/2026-09-25-build-plugins-for-claude|Build plugins for Claude]]'
 - '[[Changes/Claude Code/2026-09-25-14-apps-and-integrations-changes-in-v2-1-283|14
   Apps and Integrations changes in v2.1.283]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-09-25-rust-v0-157-0-github-396234532-e8248ab3|codex-cli-2026-09-25-rust-v0-157-0-github-396234532-e8248ab3]]'
@@ -123,7 +123,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.157.0
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-09-25 · Claude Code · [[Changes/Claude Code/2026-09-25-14-apps-and-integrations-changes-in-v2-1-283|14 Apps and Integrations changes in v2.1.283]]
-- Later: 2026-09-25 · OpenHands · [[Changes/OpenHands/2026-09-25-chore-deps-bump-openhands-extensions-to-0-24-0-by-devinvinson-in-https-github-co|chore(deps): bump @openhands/extensions to 0.24.0]]
+- Later: 2026-09-25 · Lovable · [[Changes/Lovable/2026-09-25-app-chat-connectors-discord-and-google-business-profile|App + chat connectors: Discord and Google Business Profile]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

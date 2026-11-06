@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f35520c163ce3a3a315eb52e44f51eb2185ee7090d2ffe2f616fec72907d7c52
+machine_hash: 837888c18ebe6a898d7a0cb92ff30a7add7ca5686efc372dc27972c3f7321068
 product: cline
 product_name: Cline
 record:
@@ -41,11 +41,12 @@ record:
   title: Add improvements to file mention searching for faster searching
   type: change
 related_changes:
-- '[[Changes/Cline/2025-03-23-add-sort-underlying-provider-routing-setting-to-cline-openrouter-allowing-you-to|Add
-  ''Sort underlying provider routing'' setting to Cline/OpenRouter allowing you…]]'
-- '[[Changes/Cursor/2025-03-23-2-reliability-and-performance-changes-in-0-48-x|2 Reliability
-  and Performance changes in 0.48.x]]'
-- '[[Changes/Cursor/2025-03-23-faster-indexing|Faster indexing]]'
+- '[[Changes/Open WebUI/2025-04-01-3-reliability-and-performance-changes-in-v0-6-0|3
+  Reliability and Performance changes in v0.6.0]]'
+- '[[Changes/Replit/2025-04-04-assistant-performance-improvements|Assistant performance
+  improvements]]'
+- '[[Changes/Open WebUI/2025-04-05-2-reliability-and-performance-changes-in-v0-6-1|2
+  Reliability and Performance changes in v0.6.1]]'
 source_release: '[[Releases/Cline/cline-2025-04-06-v3-9-2-github-210579054-7c606c67|cline-2025-04-06-v3-9-2-github-210579054-7c606c67]]'
 source_type: github_releases
 theme: reliability-performance
@@ -76,8 +77,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-03-23 · Cursor · [[Changes/Cursor/2025-03-23-faster-indexing|Faster indexing]]
-- Later: 2025-04-10 · Cline · [[Changes/Cline/2025-04-10-add-more-robust-error-tracking-for-users-opted-in-to-telemetry-thank-you-for-hel|Add more robust error tracking for users opted in to telemetry…]]
+- Earlier: 2025-04-05 · Open WebUI · [[Changes/Open WebUI/2025-04-05-2-reliability-and-performance-changes-in-v0-6-1|2 Reliability and Performance changes in v0.6.1]]
+- Later: 2025-04-07 · Open WebUI · [[Changes/Open WebUI/2025-04-07-general-backend-refactoring-multiple-behind-the-scenes-improvements-streamline-b|🧰 General Backend Refactoring]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

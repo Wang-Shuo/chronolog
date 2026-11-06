@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 32e4a73008f2167bb15ee50d5ecd2b1bced0dad9f82616661d80b7f929952dae
+machine_hash: eda1aa46083712a7ae91afe3656b95b136ca9bddbc66023688a84c1bc014eded
 product: cursor
 product_name: Cursor
 record:
@@ -106,7 +106,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-04-01 · Gemini CLI · [[Changes/Gemini CLI/2026-04-01-10-agent-mode-changes-in-v0-36-0|10 Agent Mode changes in v0.36.0]]
-- Later: 2026-04-03 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-03-built-in-skills-are-now-included-with-the-cli-starting-with-a-guide-for-customiz|Built-in skills are now included with the CLI, starting with a guide for customizing…]]
+- Later: 2026-04-02 · Lovable · [[Changes/Lovable/2026-04-02-ai-powered-visual-edits|AI-powered visual edits]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -1,0 +1,124 @@
+---
+card_id: open-webui-2025-06-16-72b917
+date: '2025-06-16'
+description: "Open WebUI · 2025-06-16 · Accessibility and Localization: \U0001F310
+  **New Accessibility Enhancements Across the Interface**: Benefit from significant
+  accessibility…"
+diffusion:
+  first_in_tracked: '[[Changes/ChatGPT/2023-09-11-chatgpt-now-supports-a-limited-selection-of-languages-in-the-interface|ChatGPT
+    now supports a limited selection of languages in the interface]]'
+  inference: No adoption, equivalence, or causation claim.
+  lag_days: 644
+  relation: same-theme-chronology
+  role: later-observed
+  scope: tracked-products-only
+  theme: accessibility-localization
+  tracked_products_count: 20
+evolves_from: []
+extractor_version: fallback-v5
+impact: significant
+kind: change
+machine_hash: ca165bb64b40c3f24c05178431976d77abe1ceef1dbb830a9c6821a26e90c611
+product: open-webui
+product_name: Open WebUI
+record:
+  ai_generated: true
+  card_id: open-webui-2025-06-16-72b917
+  comparison: ''
+  confidence: low
+  date: '2025-06-16'
+  description: "Open WebUI — v0.6.15: \U0001F310 **New Accessibility Enhancements
+    Across the Interface**: Benefit from significant accessibility improvements—tab
+    navigation, ARIA roles/labels, better high-contrast text/modes, accessible modals,
+    and more—making Open WebUI more usable and equitable for everyone, including those
+    using assistive technologies."
+  evidence:
+  - quote: "\U0001F310 **New Accessibility Enhancements Across the Interface**: Benefit
+      from significant accessibility improvements—tab navigation, ARIA roles/labels,
+      better high-contrast text/modes, accessible modals, and more—making Open WebUI
+      more usable and equitable for everyone, including those using assistive technologies."
+    source_release: https://github.com/open-webui/open-webui/releases/tag/v0.6.15
+  extractor_version: fallback-v5
+  impact: significant
+  kind: change
+  product: open-webui
+  product_name: Open WebUI
+  slug: new-accessibility-enhancements-across-the-interface-benefit-from-significant-acc
+  source_release: open-webui-2025-06-16-v0-6-15-github-225589258-f1066959
+  source_type: github_releases
+  theme: accessibility-localization
+  theme_matches:
+  - matched_terms:
+    - accessibility
+    score: 50
+    theme: accessibility-localization
+  - matched_terms:
+    - tab
+    score: 50
+    theme: editor-experience
+  - matched_terms:
+    - navigation
+    score: 50
+    theme: interface-experience
+  theme_resolution: manual-semantic-rule-v1
+  title: "\U0001F310 **New Accessibility Enhancements Across the Interface**"
+  type: change
+related_changes:
+- "[[Changes/Open WebUI/2025-05-28-stable-message-input-box-fixed-an-issue-where-the-message-input-box-would-shift|\U0001F4AC
+  Stable Message Input Box]]"
+- '[[Changes/Open WebUI/2025-06-10-3-accessibility-and-localization-changes-in-v0-6-14|3
+  Accessibility and Localization changes in v0.6.14]]'
+- '[[Changes/Dify/2025-06-16-localized-documentation-updates-documentation-link-updates-now-support-localizat|Localized
+  Documentation Updates]]'
+source_release: '[[Releases/Open WebUI/open-webui-2025-06-16-v0-6-15-github-225589258-f1066959|open-webui-2025-06-16-v0-6-15-github-225589258-f1066959]]'
+source_type: github_releases
+theme: accessibility-localization
+title: "\U0001F310 New Accessibility Enhancements Across the Interface"
+type: change
+---
+
+<!-- chronolog:begin region="header" -->
+# 🌐 **New Accessibility Enhancements Across the Interface**
+
+**Open WebUI** · 2025-06-16 · [[Themes/accessibility-localization|Accessibility and Localization]] · [Official source](https://github.com/open-webui/open-webui/releases/tag/v0.6.15) · from [[Releases/Open WebUI/open-webui-2025-06-16-v0-6-15-github-225589258-f1066959|v0.6.15]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="evidence" -->
+> 🌐 **New Accessibility Enhancements Across the Interface**: Benefit from significant accessibility improvements—tab navigation, ARIA roles/labels, better high-contrast text/modes, accessible modals, and more—making Open WebUI more usable and equitable for everyone, including those using assistive technologies.
+>
+> Source: https://github.com/open-webui/open-webui/releases/tag/v0.6.15
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Open WebUI/2025-06-16-bypass-webloader-now-works-as-expected-resolved-an-issue-where-the-bypass-webloa|🌐 Bypass Webloader Now Works as Expected]] · Search and Browsing
+- [[Changes/Open WebUI/2025-06-16-looking-for-an-enterprise-plan-https-docs-openwebui-com-enterprise-speak-with-ou| Looking for an Enterprise Plan((source link)]] · Enterprise and Administration
+- [[Changes/Open WebUI/2025-06-16-4-reliability-and-performance-changes-in-v0-6-15|4 Reliability and Performance changes in v0.6.15]] · Reliability and Performance
+- [[Changes/Open WebUI/2025-06-16-2-account-and-access-changes-in-v0-6-15|2 Account and Access changes in v0.6.15]] · Account and Access
+- [[Changes/Open WebUI/2025-06-16-2-safety-and-privacy-changes-in-v0-6-15|2 Safety and Privacy changes in v0.6.15]] · Safety and Privacy
+- [[Changes/Open WebUI/2025-06-16-custom-speech-to-text-content-type-for-transcription-define-custom-content-types|🎤 Custom Speech-to-Text Content-Type for Transcription]] · Voice and Audio
+- [[Changes/Open WebUI/2025-06-16-ldap-group-synchronization-experimental-automatically-sync-user-groups-from-your|🗂️ LDAP Group Synchronization (Experimental)]] · Apps and Integrations
+- [[Changes/Open WebUI/2025-06-16-3-files-and-data-changes-in-v0-6-15|3 Files and Data changes in v0.6.15]] · Files and Data
+- [[Changes/Open WebUI/2025-06-16-global-image-compression-option-effortlessly-set-image-compression-globally-so-a|🖼️ Global Image Compression Option]] · Collaboration
+- [[Changes/Open WebUI/2025-06-16-2-model-support-changes-in-v0-6-15|2 Model Support changes in v0.6.15]] · Model Support
+- [[Changes/Open WebUI/2025-06-16-direct-tool-server-input-accepts-empty-strings-you-can-now-submit-direct-tool-se|⚙️ Direct Tool Server Input Accepts Empty Strings]] · Automation and Scheduling
+- [[Changes/Open WebUI/2025-06-16-13-other-changes-in-v0-6-15|13 other changes in v0.6.15]] · Other changes
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Accessibility and Localization
+
+- Earlier: 2025-06-16 · Dify · [[Changes/Dify/2025-06-16-localized-documentation-updates-documentation-link-updates-now-support-localizat|Localized Documentation Updates]]
+- Later: 2025-06-20 · Cline · [[Changes/Cline/2025-06-20-2-accessibility-and-localization-changes-in-v3-17-15|2 Accessibility and Localization changes in v3.17.15]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-09-11 · ChatGPT · [[Changes/ChatGPT/2023-09-11-chatgpt-now-supports-a-limited-selection-of-languages-in-the-interface|ChatGPT now supports a limited selection of languages in the interface]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20open-webui-2025-06-16-72b917&body=Card%3A%20Changes%2FOpen%20WebUI%2F2025-06-16-new-accessibility-enhancements-across-the-interface-benefit-from-significant-acc.md%0ACard%20ID%3A%20open-webui-2025-06-16-72b917%0ASource%3A%20https%3A%2F%2Fgithub.com%2Fopen-webui%2Fopen-webui%2Freleases%2Ftag%2Fv0.6.15%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

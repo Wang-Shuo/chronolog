@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 02e5cd675efaac31c208e8b5a69dcd46ed2aa695381db1452062bb04358f79ce
+machine_hash: bef8f8b164ca6f82d9fb10c8e8120244d22d8a95a49eb022dfe229f8e08cbbc1
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,12 +42,12 @@ record:
   title: 2 Account and Access changes in rust-v0.113.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-06-vscode-added-native-mcp-server-management-dialog-use-mcp-in-the-chat-panel-to-en|VSCode
-  Added native MCP server management dialog]]'
-- '[[Changes/GitHub Copilot CLI/2026-03-06-mcp-servers-can-now-request-users-to-visit-a-url-for-out-of-band-interactions-su|MCP
-  servers can now request users to visit a URL for out-of-band interactions such…]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-09-login-flow-no-longer-hangs-on-ubuntu-when-system-keyring-is-unresponsive|Login
   flow no longer hangs on Ubuntu when system keyring is unresponsive]]'
+- '[[Changes/Open WebUI/2026-03-09-2-account-and-access-changes-in-v0-8-10|2 Account
+  and Access changes in v0.8.10]]'
+- '[[Changes/v0/2026-03-09-improved-error-messages-when-project-creation-or-oauth-flows-fail|Improved
+  error messages when project creation or OAuth flows fail]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-03-10-rust-v0-113-0-github-294999501-e594ccb6|codex-cli-2026-03-10-rust-v0-113-0-github-294999501-e594ccb6]]'
 source_type: github_releases
 theme: account-access
@@ -91,7 +91,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.113.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-03-09 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-09-login-flow-no-longer-hangs-on-ubuntu-when-system-keyring-is-unresponsive|Login flow no longer hangs on Ubuntu when system keyring is unresponsive]]
+- Earlier: 2026-03-09 · v0 · [[Changes/v0/2026-03-09-improved-error-messages-when-project-creation-or-oauth-flows-fail|Improved error messages when project creation or OAuth flows fail]]
 - Later: 2026-03-11 · Claude Code · [[Changes/Claude Code/2026-03-11-added-actionable-guidance-when-oauth-login-or-connectivity-checks-fail-due-to-ss|Added actionable guidance when OAuth login or connectivity checks fail due to SSL…]]
 <!-- chronolog:end -->
 

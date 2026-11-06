@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3b9ac6da608eaa5193ed1707f89847a383c8e5b132b284ae2fd9cd707b0932e6
+machine_hash: ab7fd3373523caa345c29162352f00360d0746b52120114965e45a5cf2c80f45
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -42,12 +42,10 @@ record:
   title: 2 Safety and Privacy changes in v0.3.0
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-08-14-7-safety-and-privacy-changes-in-v0-1-21|7 Safety
-  and Privacy changes in v0.1.21]]'
-- '[[Changes/Codex CLI/2025-08-20-2464-https-github-com-openai-codex-pull-2464-docs-document-writable-roots-for-sa|♯2464((source
-  link) docs: document writable_roots…]]'
-- '[[Changes/Codex CLI/2025-08-26-2587-do-not-show-timeouts-as-sandbox-error-s|♯2587
-  do not show timeouts as "sandbox error"s]]'
+- '[[Changes/Replit/2025-08-29-security-rating-improvement|Security rating improvement]]'
+- '[[Changes/Lovable/2025-09-01-security-upgrades|Security upgrades]]'
+- '[[Changes/Dify/2025-09-03-3-safety-and-privacy-changes-in-1-8-1|3 Safety and Privacy
+  changes in 1.8.1]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-09-04-v0-3-0-github-244870431-556b0abc|gemini-cli-2025-09-04-v0-3-0-github-244870431-556b0abc]]'
 source_type: github_releases
 theme: safety-privacy
@@ -93,7 +91,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.3.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2025-08-26 · Codex CLI · [[Changes/Codex CLI/2025-08-26-2587-do-not-show-timeouts-as-sandbox-error-s|♯2587 do not show timeouts as "sandbox error"s]]
+- Earlier: 2025-09-03 · Dify · [[Changes/Dify/2025-09-03-3-safety-and-privacy-changes-in-1-8-1|3 Safety and Privacy changes in 1.8.1]]
 - Later: 2025-09-05 · Codex CLI · [[Changes/Codex CLI/2025-09-05-3128-mcp-sandbox-call|♯3128 MCP sandbox call]]
 <!-- chronolog:end -->
 

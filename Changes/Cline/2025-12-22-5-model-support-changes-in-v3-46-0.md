@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8acae0eb9268ab49d45294958931a3f0577b2fa2dd7ae4d1ae701d97e19ad128
+machine_hash: 7e9a91970f35d62e15060ea5e982345ddce2b34e0d3766b1436b8d186b4e2fa0
 product: cline
 product_name: Cline
 record:
@@ -48,10 +48,10 @@ record:
   title: 5 Model Support changes in v3.46.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2025-12-19-enable-disabled-models-directly-in-cli-when-selecting-or-specifying-them|Enable
-  disabled models directly in CLI when selecting or specifying them]]'
 - '[[Changes/Codex CLI/2025-12-21-3-model-support-changes-in-rust-v0-77-0|3 Model
   Support changes in rust-v0.77.0]]'
+- '[[Changes/Open WebUI/2025-12-21-11-model-support-changes-in-v0-6-42|11 Model Support
+  changes in v0.6.42]]'
 - '[[Changes/Cline/2025-12-22-remove-glm-4-6-from-free-models|Remove GLM 4.6 from
   free models]]'
 source_release: '[[Releases/Cline/cline-2025-12-22-v3-46-0-github-272325612-60808136|cline-2025-12-22-v3-46-0-github-272325612-60808136]]'

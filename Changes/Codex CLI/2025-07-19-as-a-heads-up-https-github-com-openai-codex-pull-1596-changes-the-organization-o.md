@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 77c3a7d729aa76fc782511efded485841c7ef4c727d96acd32222fc61ae7151a
+machine_hash: 2245921396a1131374b94313309be94e573b082b621170621c35c8435d5463e3
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -48,11 +48,12 @@ record:
   title: As a heads up, https://github.com/openai/codex/pull/1596 changes the organization…
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-07-03-faster-tab|Faster Tab]]'
-- '[[Changes/Cursor/2025-07-03-4-reliability-and-performance-changes-in-1-2|4 Reliability
-  and Performance changes in 1.2]]'
-- '[[Changes/Cline/2025-07-08-optimize-provider-switching-performance-with-batched-storage-operations-by-arafa|Optimize
-  provider switching performance with batched storage operations]]'
+- '[[Changes/Dify/2025-07-10-optimize-the-memory-usage-of-tencent-vector-database-by-wlleiiwang-in-https-gith|Optimize
+  the memory usage of Tencent Vector Database]]'
+- '[[Changes/Open WebUI/2025-07-14-4-reliability-and-performance-changes-in-v0-6-16|4
+  Reliability and Performance changes in v0.6.16]]'
+- '[[Changes/Ollama/2025-07-18-2-reliability-and-performance-changes-in-v0-10-0|2
+  Reliability and Performance changes in v0.10.0]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-07-19-rust-v0-8-0-github-233643033-2038cb65|codex-cli-2025-07-19-rust-v0-8-0-github-233643033-2038cb65]]'
 source_type: github_releases
 theme: reliability-performance
@@ -85,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-07-08 · Cline · [[Changes/Cline/2025-07-08-optimize-provider-switching-performance-with-batched-storage-operations-by-arafa|Optimize provider switching performance with batched storage operations]]
+- Earlier: 2025-07-18 · Ollama · [[Changes/Ollama/2025-07-18-2-reliability-and-performance-changes-in-v0-10-0|2 Reliability and Performance changes in v0.10.0]]
 - Later: 2025-07-19 · Gemini CLI · [[Changes/Gemini CLI/2025-07-19-run-model-availability-check-in-the-background-to-speed-up-startup-by-sandytao52|Run model availability check in the background to speed up startup]]
 <!-- chronolog:end -->
 

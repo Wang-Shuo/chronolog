@@ -5,20 +5,20 @@ description: 'ChatGPT · 2026-10-27 · Automation and Scheduling: iCloud users c
   connect Mail and Calendar to ChatGPT to find emails, catch up on your inbox, check
   your…'
 diffusion:
-  first_in_tracked: '[[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better
-    syntax error loop detection]]'
+  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
+    data clean schedule]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 783
+  lag_days: 1029
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5d17658e2f884d2065a0abb5559d9f4072a6fea6ee140bf4b08f7d8b7ec9474f
+machine_hash: 152ceddf6ac38903f72a43104ba8cfe1cfddc6f2d755d3a4b0a29cbe2ec7d5e9
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -47,8 +47,8 @@ record:
     catch up…
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-10-22-feat-automations-reflect-the-built-in-integration-s-connection-state-in-the-setu|feat(automations):
-  reflect the built-in integration''s connection state in the setup…]]'
+- '[[Changes/Dify/2026-10-23-2-automation-and-scheduling-changes-in-1-18-0|2 Automation
+  and Scheduling changes in 1.18.0]]'
 - '[[Changes/OpenHands/2026-10-23-3-automation-and-scheduling-changes-in-v1-32-0|3
   Automation and Scheduling changes in v1.32.0]]'
 - '[[Changes/OpenHands/2026-10-23-2-automation-and-scheduling-changes-in-v1-33-0|2
@@ -89,7 +89,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-09-04 · OpenHands · [[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better syntax error loop detection]]
+- Earliest same-theme entry in the tracked set: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

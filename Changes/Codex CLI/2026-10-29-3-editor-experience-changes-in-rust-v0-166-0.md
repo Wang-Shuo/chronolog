@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b3cb0d4b0b6ecfc697806d251b7adba887937f7e0d739616d3d3c166830c70bc
+machine_hash: 348ac6ce5f3ed427d5ec0cb42dcce93f337edfb5ad6a53caf5f476a9b2d33f50
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,8 +44,8 @@ record:
   title: 3 Editor Experience changes in rust-v0.166.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-26-vscode-changed-the-session-list-side-bar-to-load-web-sessions-when-the-web-tab-i|VSCode
-  Changed the session list side bar to load Web sessions when the Web tab…]]'
+- '[[Changes/Lovable/2026-10-26-scroll-through-all-files-in-the-files-tab|Scroll through
+  all files in the Files tab]]'
 - '[[Changes/Claude Code/2026-10-27-cloud-sessions-added-a-bash-editor-with-colors-line-numbers-and-a-copy-button-to|Cloud
   sessions Added a Bash editor with colors, line numbers and a Copy button…]]'
 - '[[Changes/Windsurf/2026-10-28-in-devin-local-some-tool-requests-such-as-web-fetches-and-multi-file-edits-now-c|In
@@ -100,7 +100,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.166.0
 ## Nearby in Editor Experience
 
 - Earlier: 2026-10-28 · Windsurf · [[Changes/Windsurf/2026-10-28-in-devin-local-some-tool-requests-such-as-web-fetches-and-multi-file-edits-now-c|In Devin Local, some tool requests, such as web fetches and multi-file edits, now…]]
-- Later: 2026-10-30 · Claude Code · [[Changes/Claude Code/2026-10-30-2-editor-experience-changes-in-v2-1-314|2 Editor Experience changes in v2.1.314]]
+- Later: 2026-10-29 · Lovable · [[Changes/Lovable/2026-10-29-updated-visit-counting-in-analytics-and-insights|Updated visit counting in Analytics and Insights]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

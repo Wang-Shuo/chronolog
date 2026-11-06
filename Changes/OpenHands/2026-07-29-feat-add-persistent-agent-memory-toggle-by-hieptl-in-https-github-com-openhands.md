@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 09659deb06a302366d31f74d72507862b15b2acd7d747f8d2c825a37be8930a6
+machine_hash: f31d3ebf1ad43d756899bd075e4fece9497dce2b54ef692764daeb38353bd705
 product: openhands
 product_name: OpenHands
 record:
@@ -52,10 +52,10 @@ record:
   title: 'feat: add persistent agent memory toggle'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-18-added-an-iso-modified-timestamp-to-memory-file-frontmatter|Added
-  an ISO modified timestamp to memory file frontmatter]]'
-- '[[Changes/Codex CLI/2026-07-21-11-memory-and-personalization-changes-in-rust-v0-145-0|11
-  Memory and Personalization changes in rust-v0.145.0]]'
+- '[[Changes/Open WebUI/2026-07-27-7-memory-and-personalization-changes-in-v0-11-0|7
+  Memory and Personalization changes in v0.11.0]]'
+- '[[Changes/Dify/2026-07-28-test-use-sqlite-sessions-in-core-memory-by-asukaminato0721-in-https-github-com-l|test:
+  use SQLite sessions in core memory]]'
 - '[[Changes/Codex CLI/2026-07-29-35530-track-model-and-personality-in-world-state-copyberry|♯35530
   Track model and personality in world state @copyberry]]'
 source_release: '[[Releases/OpenHands/openhands-2026-07-29-v1-7-0-github-362088149-8fdb1e1c|openhands-2026-07-29-v1-7-0-github-362088149-8fdb1e1c]]'

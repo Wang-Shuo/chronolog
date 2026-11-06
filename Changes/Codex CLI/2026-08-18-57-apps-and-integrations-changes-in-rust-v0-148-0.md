@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6fe01a96000a3de34660dcd4cb94bf399771028ca4f54916a80d61c4570209c5
+machine_hash: cffc6fafd784a38b89cfb0ee8c3c7d4f3cdaa99c3d10fc2222c6da65a4733482
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -154,11 +154,10 @@ record:
   title: 57 Apps and Integrations changes in rust-v0.148.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-17-remote-control-signing-this-computer-in-to-a-different-claude-ai-account-or-orga|Remote
-  Control: signing this computer in to a different claude.ai account…]]'
 - '[[Changes/Cursor/2026-08-17-app-extensions-for-cursor-repos|App extensions for
   Cursor repos]]'
 - '[[Changes/Cursor/2026-08-17-settings|Settings]]'
+- '[[Changes/ElevenLabs/2026-08-17-sdk-releases|SDK Releases]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-08-18-rust-v0-148-0-github-372686337-4265c0ae|codex-cli-2026-08-18-rust-v0-148-0-github-372686337-4265c0ae]]'
 source_type: github_releases
 theme: apps-integrations
@@ -313,7 +312,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.148.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-08-17 · Cursor · [[Changes/Cursor/2026-08-17-settings|Settings]]
+- Earlier: 2026-08-17 · ElevenLabs · [[Changes/ElevenLabs/2026-08-17-sdk-releases|SDK Releases]]
 - Later: 2026-08-19 · Claude Code · [[Changes/Claude Code/2026-08-19-sigterm-in-print-sdk-mode-no-longer-records-an-interrupted-turn-or-synthetic-too|SIGTERM in print/SDK mode no longer records an interrupted turn or synthetic tool…]]
 <!-- chronolog:end -->
 

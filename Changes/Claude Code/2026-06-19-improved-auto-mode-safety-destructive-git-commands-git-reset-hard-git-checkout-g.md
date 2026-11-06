@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 63420b98957ffce908b9ef9445553eef9be68b8df192ba6ea5f393b728b7cd90
+machine_hash: bc3c89ea21aeb7f0e420080381b94df8b5752d3be71582557e04c90fe4170d5c
 product: claude-code
 product_name: Claude Code
 record:
@@ -100,7 +100,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-06-18 · Gemini CLI · [[Changes/Gemini CLI/2026-06-18-2-agent-mode-changes-in-v0-47-0|2 Agent Mode changes in v0.47.0]]
-- Later: 2026-06-22 · Claude Code · [[Changes/Claude Code/2026-06-22-2-agent-mode-changes-in-v2-1-186|2 Agent Mode changes in v2.1.186]]
+- Later: 2026-06-19 · Replit · [[Changes/Replit/2026-06-19-agent|Agent]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

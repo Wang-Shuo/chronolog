@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: bcd1d75131b128da4e7eb5539c3c68c945197519ef46be9c7651acfe12802c53
+machine_hash: 1f605f9fffd6beb226584ef6b00d1417982f62c604b41e84fbb24e35e922dca0
 product: aider
 product_name: Aider
 record:
@@ -42,12 +42,12 @@ record:
     with no…
   type: change
 related_changes:
-- '[[Changes/OpenHands/2024-07-27-2-collaboration-changes-in-0-8-2|2 Collaboration
-  changes in 0.8.2]]'
-- '[[Changes/Cursor/2024-08-22-composer-is-now-default-on-and-available-to-all-pro-business-users-by-hitting-cm|Composer
-  is now default-on and available to all Pro/Business users by hitting cmd+I]]'
+- '[[Changes/Dify/2024-09-30-with-this-release-we-re-truly-showcasing-the-power-of-dify-we-appreciate-your-co|With
+  this release, we’re truly showcasing the power of Dify!]]'
 - '[[Changes/Cline/2024-10-09-new-readme-and-got-a-cool-domain-for-the-project-https-cline-bot-wip-on-a-final|New
   README and got a cool domain for the project (source link) (wip)]]'
+- "[[Changes/Open WebUI/2024-10-24-folders-support-for-chats-organize-your-chats-better-by-grouping-them-into-folde|\U0001F4C1
+  Folders Support for Chats: Organize your chats better by grouping them into folders]]"
 source_release: '[[Releases/Aider/aider-2024-11-01-v0-61-0-github-183132939-fbce404d|aider-2024-11-01-v0-61-0-github-183132939-fbce404d]]'
 source_type: github_releases
 theme: collaboration
@@ -78,8 +78,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2024-10-09 · Cline · [[Changes/Cline/2024-10-09-new-readme-and-got-a-cool-domain-for-the-project-https-cline-bot-wip-on-a-final|New README and got a cool domain for the project (source link) (wip)]]
-- Later: 2024-11-26 · Aider · [[Changes/Aider/2024-11-26-skip-suggesting-files-that-share-names-with-files-already-in-chat|Skip suggesting files that share names with files already in chat]]
+- Earlier: 2024-10-24 · Open WebUI · [[Changes/Open WebUI/2024-10-24-folders-support-for-chats-organize-your-chats-better-by-grouping-them-into-folde|📁 Folders Support for Chats: Organize your chats better by grouping them into folders]]
+- Later: 2024-11-19 · Open WebUI · [[Changes/Open WebUI/2024-11-19-2-collaboration-changes-in-v0-4-0|2 Collaboration changes in v0.4.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2427f661968b8c07e5e063d96d499b7a8aafa594c2219ee6b073a6ef8110245f
+machine_hash: a538a08b886137c31684b9dc82af35a2242b5abae3af239fb094992feb18f6c7
 product: cursor
 product_name: Cursor
 record:
@@ -41,8 +41,8 @@ record:
   title: Jupyter CMD-k Context Building
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-07-12-semantic-search-in-cmd-shift-f-842ecc|Semantic search
-  in Cmd-Shift-F]]'
+- "[[Changes/Dify/2023-07-14-completion-apps-can-batch-generate-results-and-export-them-as-files|Completion
+  apps can batch generate results and export them as files \U0001F4C1]]"
 - '[[Changes/Cursor/2023-07-19-a-better-flow-for-getting-cmd-k-to-produce-code-with-no-linter-errors-you-should-8eb878|A
   better flow for getting CMD-k to produce code with no linter errors…]]'
 - '[[Changes/Aider/2023-07-22-provide-gpt-with-detailed-error-if-it-makes-a-bad-edit-block-ask-for-a-retry|Provide

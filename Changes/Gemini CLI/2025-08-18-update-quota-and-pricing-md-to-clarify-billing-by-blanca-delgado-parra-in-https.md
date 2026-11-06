@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: policy
-machine_hash: 5fe4f02c94a9382ee0b34612fac0a086d35f935f4c27b52e18a03d14c21b975d
+machine_hash: d6a8a3e4434d4587b44c5af939244a7e4fb05c46b373e52de3c7ad43aae13279
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -44,9 +44,9 @@ record:
   title: Update quota-and-pricing.md to clarify billing
   type: change
 related_changes:
-- '[[Changes/Cline/2025-07-31-adding-redirecturl-to-credits-purchasing-experience-by-pashpashpash-in-https-git|adding
-  redirectUrl to credits purchasing experience]]'
-- '[[Changes/Cursor/2025-08-06-usage-and-pricing-visibility|Usage and pricing visibility]]'
+- '[[Changes/Lovable/2025-08-11-unified-credits-bar|Unified credits bar]]'
+- '[[Changes/Claude/2025-08-15-ability-to-change-monthly-team-plan-billing-to-annual|Ability
+  to change monthly Team plan billing to annual]]'
 - '[[Changes/ChatGPT/2025-08-18-we-re-launching-chatgpt-go-a-new-low-cost-subscription-plan-this-will-initially-e5f740|ChatGPT
   launches ChatGPT Go, a new low-cost subscription plan]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-08-18-v0-1-22-github-240728052-5b8812ab|gemini-cli-2025-08-18-v0-1-22-github-240728052-5b8812ab]]'
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2025-08-18 · ChatGPT · [[Changes/ChatGPT/2025-08-18-we-re-launching-chatgpt-go-a-new-low-cost-subscription-plan-this-will-initially-e5f740|ChatGPT launches ChatGPT Go, a new low-cost subscription plan]]
-- Later: 2025-09-22 · ChatGPT · [[Changes/ChatGPT/2025-09-22-we-re-launching-chatgpt-go-our-low-cost-subscription-plan-in-indonesia-for-rp-75|ChatGPT launches ChatGPT Go, our low cost subscription plan, in Indonesia]]
+- Later: 2025-08-29 · Replit · [[Changes/Replit/2025-08-29-organization-subscription-cancellation|Organization subscription cancellation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

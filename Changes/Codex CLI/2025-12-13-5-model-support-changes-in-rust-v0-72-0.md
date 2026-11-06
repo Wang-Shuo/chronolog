@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ab737468bc5115c50e0ea8faffaa145ec971f350bb5be00f9ea509a3883cb987
+machine_hash: 33862e25986ac25799f768085bae998797ddb4727d19dad5310bb0cc4550f001
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -49,11 +49,11 @@ record:
   title: 5 Model Support changes in rust-v0.72.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2025-12-11-add-support-for-gpt-5-2|Add support for
-  GPT-5.2]]'
 - '[[Changes/Windsurf/2025-12-11-1-12-43-gpt-5-2-changelog-banner|1.12.43 GPT-5.2
   changelog banner]]'
 - '[[Changes/Windsurf/2025-12-11-gpt-5-2|GPT-5.2]]'
+- '[[Changes/v0/2025-12-12-you-can-now-select-from-three-different-models-in-v0|Select
+  from three different models in v0]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-12-13-rust-v0-72-0-github-270052666-cf6fbee8|codex-cli-2025-12-13-rust-v0-72-0-github-270052666-cf6fbee8]]'
 source_type: github_releases
 theme: model-support
@@ -95,8 +95,8 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.72.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-12-11 · Windsurf · [[Changes/Windsurf/2025-12-11-gpt-5-2|GPT-5.2]]
-- Later: 2025-12-16 · Cline · [[Changes/Cline/2025-12-16-3-model-support-changes-in-v3-43-1|3 Model Support changes in v3.43.1]]
+- Earlier: 2025-12-12 · v0 · [[Changes/v0/2025-12-12-you-can-now-select-from-three-different-models-in-v0|Select from three different models in v0]]
+- Later: 2025-12-13 · Ollama · [[Changes/Ollama/2025-12-13-2-model-support-changes-in-v0-13-4|2 Model Support changes in v0.13.4]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

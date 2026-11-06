@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: ac9899d722ba029d5521e5047f84111525b3724135e4aa18f4c6d974815c4c00
+machine_hash: 13ce0d3e065afe0d650a8dc1505c0e092e90e00e5be8c2360dcc6e4052fae7d2
 product: cursor
 product_name: Cursor
 record:
@@ -47,9 +47,9 @@ record:
   title: Shared agent transcripts
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-12-16-new-openhands-1-0-0-using-the-new-software-agent-sdk-https-github-com-openhands|New
-  OpenHands 1.0.0 using the new…]]'
 - '[[Changes/Windsurf/2025-12-16-agents-tool-execution|Agents & Tool Execution]]'
+- '[[Changes/Claude/2025-12-18-skills-for-organizations-partners-and-the-ecosystem|Skills
+  for organizations, partners, and the ecosystem]]'
 - '[[Changes/Codex CLI/2025-12-18-3-agent-mode-changes-in-rust-v0-74-0|3 Agent Mode
   changes in rust-v0.74.0]]'
 source_release: '[[Releases/Cursor/cursor-2025-12-18-enterprise-insights-billing-groups-service-accounts-and-improved-23eccccb|cursor-2025-12-18-enterprise-insights-billing-groups-service-accounts-and-improved-23eccccb]]'

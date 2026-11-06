@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0949ae59c0c5961dfae4366d39b783487781ab99a583f5a614e1aedf30897601
+machine_hash: 47a8bdf3ce5ffaf7b26b8ac1b27328bb5a749fff7d9d1f0582c1bf47221ec067
 product: cline
 product_name: Cline
 record:
@@ -50,12 +50,12 @@ record:
     creates…'
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-08-02-cursor-tab-previously-called-copilot-defaults-to-chunked-streaming-this-build-al|Cursor
-  Tab (previously called Copilot++) defaults to chunked streaming]]'
-- '[[Changes/Aider/2024-08-10-diff-now-shows-diffs-of-all-changes-resulting-from-your-request-including-lint-a|/diff
-  now shows diffs of all changes resulting from your request, including lint…]]'
 - '[[Changes/Aider/2024-08-13-new-code-message-command-request-a-code-edit-while-in-ask-mode|New
   /code message command request a code edit while in ask mode]]'
+- "[[Changes/Open WebUI/2024-08-14-deprecated-frontend-functions-removed-frontend-functions-that-were-migrated-to-b|\U0001F5D1️
+  Deprecated Frontend Functions]]"
+- '[[Changes/Dify/2024-08-19-3-editor-experience-changes-in-0-7-1|3 Editor Experience
+  changes in 0.7.1]]'
 source_release: '[[Releases/Cline/cline-2024-08-31-v1-5-6-github-172889705-f40afa8f|cline-2024-08-31-v1-5-6-github-172889705-f40afa8f]]'
 source_type: github_releases
 theme: editor-experience
@@ -82,8 +82,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2024-08-13 · Aider · [[Changes/Aider/2024-08-13-new-code-message-command-request-a-code-edit-while-in-ask-mode|New /code message command request a code edit while in ask mode]]
-- Later: 2024-09-05 · Cline · [[Changes/Cline/2024-09-05-claude-s-changes-now-appear-in-your-file-s-timeline-allowing-you-to-easily-view|Claude's changes now appear in your file's Timeline, allowing you to easily view…]]
+- Earlier: 2024-08-19 · Dify · [[Changes/Dify/2024-08-19-3-editor-experience-changes-in-0-7-1|3 Editor Experience changes in 0.7.1]]
+- Later: 2024-09-04 · Open WebUI · [[Changes/Open WebUI/2024-09-04-missing-chat-completion-response-headers-ensured-proper-return-of-proxied-respon|🔄 Missing Chat Completion Response Headers]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

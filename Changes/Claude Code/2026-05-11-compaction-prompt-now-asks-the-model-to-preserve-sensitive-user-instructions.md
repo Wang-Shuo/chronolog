@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: a5b1e57f2a4c1b81da474a324a52f5185eadcb89c38134bc1b648f878469c85e
+machine_hash: c28610c0ae773f7db80334e1f0174d9d1b99d901d4b42c787ee73995c5429709
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,12 +43,12 @@ record:
   title: Compaction prompt now asks the model to preserve sensitive user instructions
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-05-07-4-model-support-changes-in-rust-v0-129-0|4 Model
-  Support changes in rust-v0.129.0]]'
-- '[[Changes/Cursor/2026-05-07-added-support-for-general-model-names-for-subagent-configuration-i-e-set-model-o|Added
-  support for general model names for subagent configuration (i.e., set model]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-08-3-model-support-changes-in-v1-0-44|3 Model
   Support changes in v1.0.44]]'
+- '[[Changes/Open WebUI/2026-05-09-9-model-support-changes-in-v0-9-3|9 Model Support
+  changes in v0.9.3]]'
+- '[[Changes/Open WebUI/2026-05-10-3-model-support-changes-in-v0-9-5|3 Model Support
+  changes in v0.9.5]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-11-v2-1-139-github-320692766-5e65de7d|claude-code-2026-05-11-v2-1-139-github-320692766-5e65de7d]]'
 source_type: github_releases
 theme: model-support
@@ -86,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-05-08 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-08-3-model-support-changes-in-v1-0-44|3 Model Support changes in v1.0.44]]
+- Earlier: 2026-05-10 · Open WebUI · [[Changes/Open WebUI/2026-05-10-3-model-support-changes-in-v0-9-5|3 Model Support changes in v0.9.5]]
 - Later: 2026-05-11 · Cursor · [[Changes/Cursor/2026-05-11-high-bugbot-spends-more-time-reasoning-reviews-are-more-expensive-and-take-longe|High: Bugbot spends more time reasoning]]
 <!-- chronolog:end -->
 

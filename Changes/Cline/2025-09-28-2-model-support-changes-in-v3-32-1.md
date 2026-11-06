@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 37c761164b706810275c7998c7475e9fe70bfa4eea8757e12505e7b865560ad5
+machine_hash: 4a86ff2c2683834dae29e7828d267c52acaa98ad89bc6da890afec2c0bf9ca7d
 product: cline
 product_name: Cline
 record:
@@ -44,12 +44,12 @@ record:
   title: 2 Model Support changes in v3.32.1
   type: change
 related_changes:
-- '[[Changes/Cline/2025-09-25-refactor-append-stealth-models-on-readopenroutermodels-refreshopenroutermodels-b|refactor:
-  append stealth models on readOpenRouterModels & refreshOpenRouterModels]]'
 - '[[Changes/OpenHands/2025-09-25-set-claude-sonnet-output-token-limit|Set Claude
   Sonnet output token limit]]'
 - '[[Changes/Codex CLI/2025-09-26-4195-send-text-parameter-for-non-gpt-5-models-4195|♯4195
   Send text parameter for non-gpt-5 models (♯4195)]]'
+- '[[Changes/Ollama/2025-09-26-2-model-support-changes-in-v0-12-3|2 Model Support
+  changes in v0.12.3]]'
 source_release: '[[Releases/Cline/cline-2025-09-28-v3-32-1-github-250554515-640a088d|cline-2025-09-28-v3-32-1-github-250554515-640a088d]]'
 source_type: github_releases
 theme: model-support
@@ -84,7 +84,7 @@ Source: https://github.com/cline/cline/releases/tag/v3.32.1
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-09-26 · Codex CLI · [[Changes/Codex CLI/2025-09-26-4195-send-text-parameter-for-non-gpt-5-models-4195|♯4195 Send text parameter for non-gpt-5 models (♯4195)]]
+- Earlier: 2025-09-26 · Ollama · [[Changes/Ollama/2025-09-26-2-model-support-changes-in-v0-12-3|2 Model Support changes in v0.12.3]]
 - Later: 2025-09-29 · ChatGPT · [[Changes/ChatGPT/2025-09-29-opt-out-of-model-training-so-their-teen-s-conversations-won-t-be-used-to-improve|Opt out of model training, so their teen’s conversations won’t be used to improve…]]
 <!-- chronolog:end -->
 

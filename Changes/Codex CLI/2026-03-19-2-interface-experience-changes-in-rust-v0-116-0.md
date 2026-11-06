@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 85d3478a424545eb0a6affeb7ae2fbde274cee7db2cde977ce37be17a2795b4c
+machine_hash: 893ef7d356d3fdde9f952770bee64e95da808e4ef8561a8ffd265edc0241730e
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -92,7 +92,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.116.0
 ## Nearby in Interface Experience
 
 - Earlier: 2026-03-19 · Cline · [[Changes/Cline/2026-03-19-add-feature-tips-tooltip-during-thinking-state|Add feature tips tooltip during thinking state]]
-- Later: 2026-03-24 · Gemini CLI · [[Changes/Gemini CLI/2026-03-24-docs-cli-add-custom-keybinding-documentation-by-scidomino-in-https-github-com-go|docs(cli): add custom keybinding documentation]]
+- Later: 2026-03-20 · v0 · [[Changes/v0/2026-03-20-improved-git-sync-workflow-with-simplified-pr-menu|Improved git sync workflow with simplified PR menu]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 8b5c6011fbcd43158eb4ed5f45aef10f624f6ec3b71f5b8a0fb98f3a96915507
+machine_hash: 5bf93501afcde28375d8f1d6b8dc5546711056767847ac3223593f1e15a4597e
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -53,12 +53,12 @@ record:
   title: '#35530 Track model and personality in world state @copyberry'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-16-refresh-memory-context-after-30-minutes-in-long-lived-sessions|Refresh
-  memory context after 30 minutes in long-lived sessions]]'
-- '[[Changes/Claude Code/2026-07-18-added-an-iso-modified-timestamp-to-memory-file-frontmatter|Added
-  an ISO modified timestamp to memory file frontmatter]]'
-- '[[Changes/Codex CLI/2026-07-21-11-memory-and-personalization-changes-in-rust-v0-145-0|11
-  Memory and Personalization changes in rust-v0.145.0]]'
+- '[[Changes/v0/2026-07-21-design-systems-personal-scope-imports-save-to-your-own-memory-the-selector-reset|Design
+  systems: personal-scope imports save to your own memory, the selector resets…]]'
+- '[[Changes/Open WebUI/2026-07-27-7-memory-and-personalization-changes-in-v0-11-0|7
+  Memory and Personalization changes in v0.11.0]]'
+- '[[Changes/Dify/2026-07-28-test-use-sqlite-sessions-in-core-memory-by-asukaminato0721-in-https-github-com-l|test:
+  use SQLite sessions in core memory]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-07-29-rust-v0-146-0-github-361463950-6d491983|codex-cli-2026-07-29-rust-v0-146-0-github-361463950-6d491983]]'
 source_type: github_releases
 theme: memory
@@ -102,7 +102,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2026-07-21 · Codex CLI · [[Changes/Codex CLI/2026-07-21-11-memory-and-personalization-changes-in-rust-v0-145-0|11 Memory and Personalization changes in rust-v0.145.0]]
+- Earlier: 2026-07-28 · Dify · [[Changes/Dify/2026-07-28-test-use-sqlite-sessions-in-core-memory-by-asukaminato0721-in-https-github-com-l|test: use SQLite sessions in core memory]]
 - Later: 2026-07-29 · OpenHands · [[Changes/OpenHands/2026-07-29-feat-add-persistent-agent-memory-toggle-by-hieptl-in-https-github-com-openhands|feat: add persistent agent memory toggle]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3cd3887c6017b6a98b67c3a13ee1f5c04ddfbf828f1efb15fa1b12221a4de1b2
+machine_hash: faaf6cd8f9260f203e402da721c5b956e844d7108d791aa6acd9c6eb8b2eff67
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -58,10 +58,10 @@ record:
   title: 3 Memory and Personalization changes in More controls in temporary chat
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-20-updated-the-bundled-claude-api-skill-for-the-managed-agents-aug-19-release-web-s|Updated
-  the bundled claude-api skill for the Managed Agents Aug 19 release]]'
-- '[[Changes/Codex CLI/2026-08-20-2-memory-and-personalization-changes-in-rust-v0-149-0|2
-  Memory and Personalization changes in rust-v0.149.0]]'
+- '[[Changes/Claude/2026-08-25-memory-in-claude-cowork-editable-topics-and-a-sensitive-topics-setting|Memory
+  in Claude Cowork, editable topics, and a sensitive topics setting]]'
+- '[[Changes/Open WebUI/2026-08-25-8-memory-and-personalization-changes-in-v0-11-1|8
+  Memory and Personalization changes in v0.11.1]]'
 - '[[Changes/Codex CLI/2026-08-26-3-memory-and-personalization-changes-in-rust-v0-150-0|3
   Memory and Personalization changes in rust-v0.150.0]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-27-more-controls-in-temporary-chat-5ca95d13|chatgpt-2026-08-27-more-controls-in-temporary-chat-5ca95d13]]'

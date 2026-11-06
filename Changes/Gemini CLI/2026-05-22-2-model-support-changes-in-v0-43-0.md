@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d9eb47480ccd61118f61f74f2bf4b45e9003fdb02bb2f0986a5f892cea119f5c
+machine_hash: 1562aba0f67fa5eee7eff05c6f2d8e3ae2e46bd45d76f21d3a4a3a26a8d62999
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -44,12 +44,12 @@ record:
   title: 2 Model Support changes in v0.43.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-05-20-23069-multiagent-trim-model-visible-description-cap-to-5-models-sayan-oai|♯23069
-  multiagent: trim model-visible description, cap to 5 models @sayan-oai]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-20-shell-tool-calls-succeed-even-when-the-model-omits-the-description-parameter|Shell
   tool calls succeed even when the model omits the description parameter]]'
 - '[[Changes/Codex CLI/2026-05-21-18868-add-mitm-hook-config-model-evawong-oai|♯18868
   Add MITM hook config model @evawong-oai]]'
+- '[[Changes/Lovable/2026-05-21-gemini-3-5-flash-for-ai-features-in-your-app|Gemini
+  3.5 Flash for AI features in your app]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-05-22-v0-43-0-github-327485557-9b4df16a|gemini-cli-2026-05-22-v0-43-0-github-327485557-9b4df16a]]'
 source_type: github_releases
 theme: model-support
@@ -91,7 +91,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.43.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-05-21 · Codex CLI · [[Changes/Codex CLI/2026-05-21-18868-add-mitm-hook-config-model-evawong-oai|♯18868 Add MITM hook config model @evawong-oai]]
+- Earlier: 2026-05-21 · Lovable · [[Changes/Lovable/2026-05-21-gemini-3-5-flash-for-ai-features-in-your-app|Gemini 3.5 Flash for AI features in your app]]
 - Later: 2026-05-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-23-general-purpose-subagents-use-gpt-5-4-or-gpt-5-5-when-available|General-purpose subagents use GPT-5.4 or GPT-5.5 when available]]
 <!-- chronolog:end -->
 

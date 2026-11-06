@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f2273ad05bf4860c90c0be3375ca543022b3092de54492bda23dcf262b689a82
+machine_hash: d7e3e9b220b707e465a2084f56c0922c9b39b35957d03addb5577b9ed0e159b9
 product: cline
 product_name: Cline
 record:
@@ -56,8 +56,8 @@ record:
     read the rest
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-06-9-apps-and-integrations-changes-in-v2-1-292|9
-  Apps and Integrations changes in v2.1.292]]'
+- '[[Changes/Lovable/2026-10-06-redesigned-model-list-for-the-built-in-ai-connector|Redesigned
+  model list for the built-in AI connector]]'
 - '[[Changes/OpenHands/2026-10-06-chore-consume-extensions-0-27-0-by-henriquehirako-in-https-github-com-openhands|chore:
   consume Extensions 0.27.0]]'
 - '[[Changes/Claude Code/2026-10-07-3-apps-and-integrations-changes-in-v2-1-293|3

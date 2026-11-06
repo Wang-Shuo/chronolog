@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 69df90de8942d1f018086ae43d7aab65d73caf5d0aa92af3a7c8d6505039f196
+machine_hash: bc05454adcb85e663b18c7adfaf0fc7c1baf4cd73eee2d75d19bfae6a09bc2bc
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -41,12 +41,12 @@ record:
   title: 2 Model Support changes in v0.1.9
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-06-28-release-notes-for-0-1-6-at-https-github-com-google-gemini-gemini-cli-discussions|Release
-  Notes for 0.1.6 at (source link)]]'
 - '[[Changes/Cline/2025-06-29-2-model-support-changes-in-v3-18-1|2 Model Support changes
   in v3.18.1]]'
 - '[[Changes/Gemini CLI/2025-07-01-5-model-support-changes-in-v0-1-8|5 Model Support
   changes in v0.1.8]]'
+- '[[Changes/Dify/2025-07-02-4-model-support-changes-in-1-5-1|4 Model Support changes
+  in 1.5.1]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-07-02-v0-1-9-github-229261098-c313e569|gemini-cli-2025-07-02-v0-1-9-github-229261098-c313e569]]'
 source_type: github_releases
 theme: model-support
@@ -81,8 +81,8 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.1.9
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-07-01 · Gemini CLI · [[Changes/Gemini CLI/2025-07-01-5-model-support-changes-in-v0-1-8|5 Model Support changes in v0.1.8]]
-- Later: 2025-07-02 · OpenHands · [[Changes/OpenHands/2025-07-02-updating-llm-settings-are-now-applied-to-existing-conversations-after-stopping-a|Updating LLM settings are now applied to existing conversations after stopping…]]
+- Earlier: 2025-07-02 · Dify · [[Changes/Dify/2025-07-02-4-model-support-changes-in-1-5-1|4 Model Support changes in 1.5.1]]
+- Later: 2025-07-02 · Ollama · [[Changes/Ollama/2025-07-02-the-directory-in-which-models-are-stored-can-now-be-modified-this-allows-models|The directory in which models are stored can now be modified!]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

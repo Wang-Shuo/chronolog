@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1cffbcc9b97b11db3efd29c4592cc50d0480a2cb8ee4523b2db5b3999cb34505
+machine_hash: aaadc56055992791598f1512387b03ee816ea4267e2f9b540c0f261aec2ec640
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -48,8 +48,8 @@ record:
   title: 4 Apps and Integrations changes in v1.0.5
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-11-4-apps-and-integrations-changes-in-v1-0-4|4
-  Apps and Integrations changes in v1.0.4]]'
+- '[[Changes/v0/2026-03-11-added-one-click-marketplace-integration-installation-for-ios-app|Added
+  one-click marketplace integration installation for iOS app]]'
 - '[[Changes/Claude Code/2026-03-12-changed-plugin-dir-so-local-dev-copies-now-override-installed-marketplace-plugin|Changed
   --plugin-dir so local dev copies now override installed marketplace…]]'
 - '[[Changes/Cline/2026-03-12-hooks-reintroduced-feature-toggle|Hooks: reintroduced

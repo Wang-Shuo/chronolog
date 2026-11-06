@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: e873b3882b37c5f39b127937620581ca99b6cda1587302d6057e7c6eb4af40c3
+machine_hash: 9cb1383fc3d0827712584b8730733ba72d355448e70ef42ef0f97ad9a4a095d9
 product: cline
 product_name: Cline
 record:
@@ -60,12 +60,12 @@ record:
   title: Rules are found and shown consistently
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-17-2-mobile-and-desktop-changes-in-rust-v0-155-0|2
-  Mobile and Desktop changes in rust-v0.155.0]]'
-- '[[Changes/Claude Code/2026-09-18-claude-code-on-the-web-changed-the-admin-claude-code-setting-labeled-web-to-clou|Claude
-  Code on the web Changed the admin Claude Code setting labeled…]]'
+- '[[Changes/Ollama/2026-09-19-ollama-s-macos-app-will-now-no-longer-reopen-windows-you-ve-closed-when-activati|Ollama''s
+  macOS app will now no longer reopen windows you''ve closed when activating it]]'
 - '[[Changes/ChatGPT/2026-09-21-you-can-now-track-your-credit-score-in-chatgpt-securely-connect-your-experian-cr|Credit
   scores in Finances]]'
+- "[[Changes/Open WebUI/2026-09-21-apple-device-replies-an-assistant-reply-no-longer-comes-up-blank-in-a-home-scree|\U0001F4F1
+  Apple device replies. An assistant reply no longer comes up blank in a home…]]"
 source_release: '[[Releases/Cline/cline-2026-09-22-v4-1-20-github-394105689-95df91cb|cline-2026-09-22-v4-1-20-github-394105689-95df91cb]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -99,7 +99,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-09-21 · ChatGPT · [[Changes/ChatGPT/2026-09-21-you-can-now-track-your-credit-score-in-chatgpt-securely-connect-your-experian-cr|Credit scores in Finances]]
+- Earlier: 2026-09-21 · Open WebUI · [[Changes/Open WebUI/2026-09-21-apple-device-replies-an-assistant-reply-no-longer-comes-up-blank-in-a-home-scree|📱 Apple device replies. An assistant reply no longer comes up blank in a home…]]
 - Later: 2026-09-22 · Codex CLI · [[Changes/Codex CLI/2026-09-22-11-mobile-and-desktop-changes-in-rust-v0-156-0|11 Mobile and Desktop changes in rust-v0.156.0]]
 <!-- chronolog:end -->
 

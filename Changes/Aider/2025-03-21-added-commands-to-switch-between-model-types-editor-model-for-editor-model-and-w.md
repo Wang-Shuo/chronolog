@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 9923825e02480811ee08937345886546fe1a59ad6521f88bad3c6cd344db6324
+machine_hash: adc87d3720208b76b8f191422b25ca3543216e1578c0696674e4a9926cb0edc3
 product: aider
 product_name: Aider
 record:
@@ -55,12 +55,12 @@ record:
   title: Added commands to switch between model types
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-02-19-ignore-files-cursorignore-now-blocks-files-from-being-added-in-chat-or-sent-up-f|Ignore
-  files: .cursorignore now blocks files from being added in chat or sent up…]]'
-- '[[Changes/Cursor/2025-02-19-tab-rebinding-tab-suggestions-can-now-be-rebound-to-a-different-keybinding-using|Tab
-  rebinding: Tab suggestions can now be rebound to a different keybinding using…]]'
+- '[[Changes/Lovable/2025-03-07-dev-mode-https-x-com-lovable-dev-status-1897693825767768542-easily-edit-any-code|Dev
+  Mode:((source link) Easily edit any…]]'
 - '[[Changes/Cursor/2025-03-11-0-47-2-cursor-tab-accepts-work-with-single-line-selections|0.47.2:
   Cursor Tab accepts work with single-line selections]]'
+- '[[Changes/Gemini/2025-03-13-ask-gemini-to-remember-the-things-you-care-about-now-rolling-out-to-more-users-a|Ask
+  Gemini to remember the things you care about]]'
 source_release: '[[Releases/Aider/aider-2025-03-21-v0-78-0-github-207521806-fc6d03b9|aider-2025-03-21-v0-78-0-github-207521806-fc6d03b9]]'
 source_type: github_releases
 theme: editor-experience
@@ -92,8 +92,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2025-03-11 · Cursor · [[Changes/Cursor/2025-03-11-0-47-2-cursor-tab-accepts-work-with-single-line-selections|0.47.2: Cursor Tab accepts work with single-line selections]]
-- Later: 2025-03-23 · Cline · [[Changes/Cline/2025-03-23-add-fix-with-cline-code-action-when-you-see-a-lightbulb-icon-in-your-editor-you|Add Fix with Cline code action - when you see a lightbulb icon in your editor, you…]]
+- Earlier: 2025-03-13 · Gemini · [[Changes/Gemini/2025-03-13-ask-gemini-to-remember-the-things-you-care-about-now-rolling-out-to-more-users-a|Ask Gemini to remember the things you care about]]
+- Later: 2025-03-21 · Replit · [[Changes/Replit/2025-03-21-visual-editor|Visual Editor]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 9037b378524860697926bfba222f545926d43d57f6ac798803480467a03ca07c
+machine_hash: 38045935cec6e7a7ef1b1c84781abc29c7ac20eebc1c65e799696ca1b27d2c4d
 product: cursor
 product_name: Cursor
 record:
@@ -43,10 +43,10 @@ record:
   title: Default-on Cursor Prediction with a new UI
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-05-26-merges-vs-code-1-89-into-cursor-38031f|Merges VS Code
-  1.89 into Cursor]]'
 - '[[Changes/Cursor/2024-05-26-accept-partial-completions-with-copilot-ce6049|Accept
   partial completions with Copilot++]]'
+- '[[Changes/Open WebUI/2024-06-03-edit-titles-with-double-click-double-click-on-titles-to-rename-them-quickly-and|✏️
+  Edit Titles with Double Click]]'
 - '[[Changes/Aider/2024-06-04-properly-override-git-editor-env-for-commits-if-it-is-already-set|Properly
   override GIT_EDITOR env for commits if it is already set]]'
 source_release: '[[Releases/Cursor/cursor-2024-06-08-0-35-x-https-cursor-com-changelog-0-35-x-b4216e90|cursor-2024-06-08-0-35-x-https-cursor-com-changelog-0-35-x-b4216e90]]'
@@ -80,7 +80,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2024-06-04 · Aider · [[Changes/Aider/2024-06-04-properly-override-git-editor-env-for-commits-if-it-is-already-set|Properly override GIT_EDITOR env for commits if it is already set]]
-- Later: 2024-06-29 · OpenHands · [[Changes/OpenHands/2024-06-29-3-editor-experience-changes-in-0-7-0|3 Editor Experience changes in 0.7.0]]
+- Later: 2024-06-10 · Open WebUI · [[Changes/Open WebUI/2024-06-10-editable-search-query-prompt-you-can-now-edit-the-search-query-generation-prompt|🔍 Editable Search Query Prompt]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

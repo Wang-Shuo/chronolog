@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 80774f77cfed2f269e754ef79e291b92a373d3d97eae25e05e6030596ac671b9
+machine_hash: 701d23e6a299ea7832a1f469b81807eed52725439452d03825d70b9564d4f8fb
 product: cursor
 product_name: Cursor
 record:
@@ -74,7 +74,7 @@ type: change
 ## Nearby in Account and Access
 
 - Earlier: 2023-07-25 · Cursor · [[Changes/Cursor/2023-07-25-you-can-now-chat-with-any-codebase-no-need-to-have-a-github-repo-login-through-g|"with codebase" for all codebases!]]
-- Later: 2024-04-01 · ChatGPT · [[Changes/ChatGPT/2024-04-01-we-re-making-it-easier-for-people-to-experience-the-benefits-of-ai-without-needi|Start using ChatGPT instantly]]
+- Later: 2023-10-10 · Dify · [[Changes/Dify/2023-10-10-feat-move-login-required-wrapper-outside-by-takatost-in-https-github-com-langgen|feat: move login_required wrapper outside]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

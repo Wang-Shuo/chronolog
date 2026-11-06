@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 0e85f1e2220bd2465f21a0103d379b84ef84dc69a5b0670fc62334c80222dabf
+machine_hash: aceddfccad6d88e60863e95f2279b474150dd6ef64f7521af67c8cf9b33af9eb
 product: claude-code
 product_name: Claude Code
 record:
@@ -63,12 +63,10 @@ record:
   title: Introducing Claude Sonnet 5
   type: change
 related_changes:
-- '[[Changes/Cline/2026-06-26-2-model-support-changes-in-v4-0-0|2 Model Support changes
-  in v4.0.0]]'
-- '[[Changes/Claude Code/2026-06-29-added-support-for-organization-default-models-admins-set-it-in-the-org-console-i|Added
-  support for organization default models]]'
-- '[[Changes/Cline/2026-06-29-4-model-support-changes-in-v4-0-2|4 Model Support changes
-  in v4.0.2]]'
+- '[[Changes/ElevenLabs/2026-06-29-workspaces-e487d5|Workspaces]]'
+- '[[Changes/Open WebUI/2026-06-29-25-model-support-changes-in-v0-10-0|25 Model Support
+  changes in v0.10.0]]'
+- '[[Changes/Claude/2026-06-30-claude-sonnet-5-launch|Claude Sonnet 5 launch]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-30-v2-1-197-github-346856026-11e4aa1f|claude-code-2026-06-30-v2-1-197-github-346856026-11e4aa1f]]'
 source_type: github_releases
 theme: model-support
@@ -95,7 +93,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-06-29 · Cline · [[Changes/Cline/2026-06-29-4-model-support-changes-in-v4-0-2|4 Model Support changes in v4.0.2]]
+- Earlier: 2026-06-30 · Claude · [[Changes/Claude/2026-06-30-claude-sonnet-5-launch|Claude Sonnet 5 launch]]
 - Later: 2026-06-30 · Cline · [[Changes/Cline/2026-06-30-add-support-for-claude-sonnet-5-across-the-anthropic-bedrock-vertex-claude-code|Add support for Claude Sonnet 5 across the Anthropic, Bedrock, Vertex, Claude Code…]]
 <!-- chronolog:end -->
 

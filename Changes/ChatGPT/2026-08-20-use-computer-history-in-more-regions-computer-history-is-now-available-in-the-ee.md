@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 35cc1fd5d087c58b976b28ea41af1ab499adcd0fac5237d22e9ed0e3bc618e4b
+machine_hash: e502990dd1b385b1dd0889d15ea346d71a4dd444c7d800c5048874284e8ef634
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -47,12 +47,12 @@ record:
   title: Use Computer History in more regions
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-13-cowork-sessions-no-longer-inline-external-imports-from-user-scope-memory-files|Cowork
-  sessions no longer inline external @-imports from user-scope memory files]]'
 - '[[Changes/ChatGPT/2026-08-14-we-ve-made-it-easier-to-study-with-interactive-quizzes-manage-project-memory-and|ChatGPT
   makes it easier to study with interactive quizzes, manage project memory…]]'
 - '[[Changes/ChatGPT/2026-08-14-you-can-now-change-a-project-s-memory-setting-after-you-create-it-open-the-proje-b36ffe|Edit
   memory settings for existing projects]]'
+- '[[Changes/v0/2026-08-14-reduced-the-web-client-s-memory-use-by-clearing-preview-iframes-blob-and-audio-u|Reduced
+  the web client''s memory use by clearing preview iframes, blob and audio…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-20-codex-and-chatgpt-feature-updates-c987f574|chatgpt-2026-08-20-codex-and-chatgpt-feature-updates-c987f574]]'
 source_type: chatgpt_changelog
 theme: memory
@@ -83,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2026-08-14 · ChatGPT · [[Changes/ChatGPT/2026-08-14-you-can-now-change-a-project-s-memory-setting-after-you-create-it-open-the-proje-b36ffe|Edit memory settings for existing projects]]
+- Earlier: 2026-08-14 · v0 · [[Changes/v0/2026-08-14-reduced-the-web-client-s-memory-use-by-clearing-preview-iframes-blob-and-audio-u|Reduced the web client's memory use by clearing preview iframes, blob and audio…]]
 - Later: 2026-08-20 · Claude Code · [[Changes/Claude Code/2026-08-20-updated-the-bundled-claude-api-skill-for-the-managed-agents-aug-19-release-web-s|Updated the bundled claude-api skill for the Managed Agents Aug 19 release]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c7c6f2c4f40a094fc4876bcb4028c8afab185c0dc144a749c75c0d96b4bff1ec
+machine_hash: 0987dba4eadb1fe90ba475e2170b13704b591b6f7e012fc0727c2343358b882e
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -97,7 +97,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.90.0
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-01-22 · Cursor · [[Changes/Cursor/2026-01-22-unified-cli-permissions-with-the-editor-including-run-everything-auto-run-in-san|Unified CLI permissions with the editor, including Run Everything, Auto-Run…]]
-- Later: 2026-01-27 · Claude Code · [[Changes/Claude Code/2026-01-27-2-safety-and-privacy-changes-in-v2-1-20|2 Safety and Privacy changes in v2.1.20]]
+- Later: 2026-01-26 · ElevenLabs · [[Changes/ElevenLabs/2026-01-26-workspaces|Workspaces]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a35fe83975d3acf044db6a2b9185f909ca8573689710b6bc78c319855411e956
+machine_hash: 460cf53fbe4d0bf29a12170a904169c257f158fbad2c14470db399ab7dd7ea4d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -43,11 +43,11 @@ record:
   title: Memory with Search
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-02-19-0-46-9-memory-and-performances-fixes-composer-chat-remembers-your-last-mode-sele|0.46.9:
-  Memory and performances fixes, composer/chat remembers your last mode…]]'
 - '[[Changes/OpenHands/2025-02-24-enable-memory-condensation-from-settings-page-by-csmith49-in-https-github-com-al|Enable
   memory condensation from settings page]]'
 - '[[Changes/Windsurf/2025-04-02-improvements-to-memories|Improvements to Memories]]'
+- '[[Changes/Dify/2025-04-09-feat-agent-node-add-memory-by-nov1c444-in-https-github-com-langgenius-dify-pull|feat:
+  agent node add memory]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-04-16-memory-with-search-0b018fd4|chatgpt-2025-04-16-memory-with-search-0b018fd4]]'
 source_type: chatgpt_changelog
 theme: memory
@@ -74,7 +74,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2025-04-02 · Windsurf · [[Changes/Windsurf/2025-04-02-improvements-to-memories|Improvements to Memories]]
+- Earlier: 2025-04-09 · Dify · [[Changes/Dify/2025-04-09-feat-agent-node-add-memory-by-nov1c444-in-https-github-com-langgenius-dify-pull|feat: agent node add memory]]
 - Later: 2025-05-08 · ChatGPT · [[Changes/ChatGPT/2025-05-08-saved-memories-and-chat-history-are-offered-only-to-plus-and-pro-accounts-free-t|Saved memories and Chat history are offered only to Plus and Pro…]]
 <!-- chronolog:end -->
 

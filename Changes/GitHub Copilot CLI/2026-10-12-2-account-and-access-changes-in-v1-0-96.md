@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a0afc7997c6910b0efda5eabae0009ad4d38ab33740c2f21d75454faac96a52b
+machine_hash: d84999f5d81fa014add54258ecd9a461d658cba07cf9af34c8c2f4eb10eb01dd
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,12 +43,12 @@ record:
   title: 2 Account and Access changes in v1.0.96
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-08-2-account-and-access-changes-in-rust-v0-162-0|2
-  Account and Access changes in rust-v0.162.0]]'
 - '[[Changes/Claude Code/2026-10-09-improved-the-errors-for-a-refused-cloud-session-they-now-say-why-your-organizati|Improved
   the errors for a refused cloud session]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-09-use-native-microsoft-entra-broker-authentication-on-macos-when-available-with-br|Use
   native Microsoft Entra broker authentication on macOS when available…]]'
+- '[[Changes/Open WebUI/2026-10-10-19-account-and-access-changes-in-v0-12-0|19 Account
+  and Access changes in v0.12.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-10-12-v1-0-96-github-410909545-b0f77f14|github-copilot-cli-2026-10-12-v1-0-96-github-410909545-b0f77f14]]'
 source_type: github_releases
 theme: account-access
@@ -84,7 +84,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.96
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-10-09 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-09-use-native-microsoft-entra-broker-authentication-on-macos-when-available-with-br|Use native Microsoft Entra broker authentication on macOS when available…]]
+- Earlier: 2026-10-10 · Open WebUI · [[Changes/Open WebUI/2026-10-10-19-account-and-access-changes-in-v0-12-0|19 Account and Access changes in v0.12.0]]
 - Later: 2026-10-13 · Cline · [[Changes/Cline/2026-10-13-2-account-and-access-changes-in-v4-1-24|2 Account and Access changes in v4.1.24]]
 <!-- chronolog:end -->
 

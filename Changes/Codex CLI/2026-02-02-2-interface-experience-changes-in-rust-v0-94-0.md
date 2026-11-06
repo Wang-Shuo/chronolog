@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: fa6bd3e0a60bfa3d4c460d40588ccaaafe9b3a4ab4a19eb8c56aff71d361edb7
+machine_hash: def21c039cd4f66eb648784b13ffd75af90e583b2e165a42e3f76fa2113be0aa
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,12 +44,12 @@ record:
   title: 2 Interface Experience changes in rust-v0.94.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-01-30-4-interface-experience-changes-in-v0-0-400|4
-  Interface Experience changes in v0.0.400]]'
 - '[[Changes/Windsurf/2026-01-30-close-model-picker-when-selecting-a-battle-group|Close
   model picker when selecting a battle group]]'
 - '[[Changes/Codex CLI/2026-01-31-3-interface-experience-changes-in-rust-v0-93-0|3
   Interface Experience changes in rust-v0.93.0]]'
+- '[[Changes/Ollama/2026-02-01-ollama-launch-openclaw-will-now-enter-the-standard-openclaw-onboarding-flow-if-t|ollama
+  launch openclaw will now enter the standard OpenClaw onboarding flow if…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-02-02-rust-v0-94-0-github-282298678-d5cec340|codex-cli-2026-02-02-rust-v0-94-0-github-282298678-d5cec340]]'
 source_type: github_releases
 theme: interface-experience
@@ -87,8 +87,8 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.94.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-01-31 · Codex CLI · [[Changes/Codex CLI/2026-01-31-3-interface-experience-changes-in-rust-v0-93-0|3 Interface Experience changes in rust-v0.93.0]]
-- Later: 2026-02-03 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-03-inserting-new-line-with-shift-enter-keybinding-in-vs-code-integrated-terminal|Inserting new line with shift+enter keybinding in VS Code integrated terminal]]
+- Earlier: 2026-02-01 · Ollama · [[Changes/Ollama/2026-02-01-ollama-launch-openclaw-will-now-enter-the-standard-openclaw-onboarding-flow-if-t|ollama launch openclaw will now enter the standard OpenClaw onboarding flow if…]]
+- Later: 2026-02-03 · Dify · [[Changes/Dify/2026-02-03-test-enhance-hittestingpage-tests-with-additional-coverage-for-rendering-and-sta|test: enhance HitTestingPage tests with additional coverage for rendering and state…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

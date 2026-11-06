@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 103596a08e24b460432c6b6102d4b0ad6031392c3d1fc589348919daa88dd67a
+machine_hash: 8b0367bce35f51294e2277a0a200505bc93201cda0ea49199e6b174561497df4
 product: windsurf
 product_name: Windsurf
 record:
@@ -42,12 +42,12 @@ record:
   title: Stability & Performance
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-05-13446-tui-show-speed-in-session-header-pash-openai|♯13446
-  tui Show speed in session header @pash-openai]]'
-- '[[Changes/GitHub Copilot CLI/2026-03-05-reduce-memory-usage-in-alt-screen-mode-for-long-sessions|Reduce
-  memory usage in alt-screen mode for long sessions]]'
 - '[[Changes/Claude Code/2026-03-06-3-reliability-and-performance-changes-in-v2-1-70|3
   Reliability and Performance changes in v2.1.70]]'
+- '[[Changes/Open WebUI/2026-03-08-13-reliability-and-performance-changes-in-v0-8-9|13
+  Reliability and Performance changes in v0.8.9]]'
+- '[[Changes/Open WebUI/2026-03-09-2-reliability-and-performance-changes-in-v0-8-10|2
+  Reliability and Performance changes in v0.8.10]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-03-09-v1-9577-24-77454302|windsurf-2026-03-09-v1-9577-24-77454302]]'
 source_type: windsurf_changelog
 theme: reliability-performance
@@ -79,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-03-06 · Claude Code · [[Changes/Claude Code/2026-03-06-3-reliability-and-performance-changes-in-v2-1-70|3 Reliability and Performance changes in v2.1.70]]
+- Earlier: 2026-03-09 · Open WebUI · [[Changes/Open WebUI/2026-03-09-2-reliability-and-performance-changes-in-v0-8-10|2 Reliability and Performance changes in v0.8.10]]
 - Later: 2026-03-10 · Claude Code · [[Changes/Claude Code/2026-03-10-improved-bash-command-parsing-by-switching-to-a-native-module-faster-initializat|Improved bash command parsing by switching to a native module]]
 <!-- chronolog:end -->
 

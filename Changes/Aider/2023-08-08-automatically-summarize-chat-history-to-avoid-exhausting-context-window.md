@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4fce86842688051578bdf2ffd7dc978d9eaf9df0d68d6fc84b549ec70463579c
+machine_hash: 9a5dc0b7a2f29a8b6fc2001713298ad9c5418c27bdb17962fc8dc92924d9f98e
 product: aider
 product_name: Aider
 record:
@@ -79,7 +79,7 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2023-08-02 · Aider · [[Changes/Aider/2023-08-02-automatically-summarize-chat-history-to-avoid-exhausting-context-window|Automatically summarize chat history to avoid exhausting context window]]
-- Later: 2023-08-22 · Cursor · [[Changes/Cursor/2023-08-22-follow-up-chat-messages-to-with-codebase-will-keep-the-codebase-context|Follow-up chat messages to "with codebase" will keep the codebase context]]
+- Later: 2023-08-18 · Ollama · [[Changes/Ollama/2023-08-18-add-context-to-api-documentation-for-api-generate|Add context to api documentation for /api/generate]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

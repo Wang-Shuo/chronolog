@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: e56ae7be762dc39e479ef66e9a3ffec96cecdf5466175567eb9bbdbcf3c640b7
+machine_hash: 35e4caadbca500c6ba17e8be00f3ea252cecaa022fcbbc3a469a07fd0e5ad5b5
 product: aider
 product_name: Aider
 record:
@@ -43,10 +43,10 @@ record:
   title: Added `/reasoning-effort` command to control model reasoning level
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-03-11-sonnet-3-7-thinking-we-ve-made-a-few-improvements-to-3-7-prompting-thinking-will|Sonnet
-  3.7 thinking: We''ve made a few improvements to 3.7 prompting]]'
 - '[[Changes/Cursor/2025-03-11-3-model-support-changes-in-0-47-x|3 Model Support changes
   in 0.47.x]]'
+- '[[Changes/Ollama/2025-03-11-gemma-3-https-ollama-com-library-gemma3-google-gemma-3-model-is-now-available-in|Gemma
+  3((source link) Google Gemma 3 model is now available…]]'
 - '[[Changes/Aider/2025-03-13-2-model-support-changes-in-v0-77-0|2 Model Support changes
   in v0.77.0]]'
 source_release: '[[Releases/Aider/aider-2025-03-13-v0-77-0-github-205707771-facc801d|aider-2025-03-13-v0-77-0-github-205707771-facc801d]]'
@@ -83,8 +83,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-03-11 · Cursor · [[Changes/Cursor/2025-03-11-3-model-support-changes-in-0-47-x|3 Model Support changes in 0.47.x]]
-- Later: 2025-03-18 · ChatGPT · [[Changes/ChatGPT/2025-03-18-o1-and-o3-mini-now-offer-python-powered-data-analysis-in-chatgpt-you-can-now-ask-bfa530|o1 and o3-mini now offer Python-powered data analysis in ChatGPT]]
+- Earlier: 2025-03-11 · Ollama · [[Changes/Ollama/2025-03-11-gemma-3-https-ollama-com-library-gemma3-google-gemma-3-model-is-now-available-in|Gemma 3((source link) Google Gemma 3 model is now available…]]
+- Later: 2025-03-13 · Gemini · [[Changes/Gemini/2025-03-13-deep-research-is-now-powered-by-gemini-2-0-flash-thinking-experimental-and-avail|Deep Research is now powered by Gemini 2.0 Flash Thinking (experimental)…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

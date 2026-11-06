@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 29bded48f5166c382e68927c3292663add48b56d5591d9350365c4c7f3c38a0c
+machine_hash: a42fefcf2eaf57023975c7c54d2cd494719004bc5c864641a5722ef62e77bc5b
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,11 +44,11 @@ record:
   title: 2 Reliability and Performance changes in v2.1.283
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-17-added-a-visible-warning-when-memory-usage-is-critical-with-steps-to-free-memory|Added
-  a visible warning when memory usage is critical, with steps to free memory…]]'
 - '[[Changes/Codex CLI/2026-09-22-45960-tag-memory-usage-telemetry-with-the-memory-version-jif-oai|♯45960
   Tag memory usage telemetry with the memory version @jif-oai]]'
 - '[[Changes/Cursor/2026-09-23-deploy-tracking|Deploy tracking]]'
+- '[[Changes/Ollama/2026-09-23-2-reliability-and-performance-changes-in-v0-34-4|2
+  Reliability and Performance changes in v0.34.4]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-25-v2-1-283-github-396845205-9a5a07f8|claude-code-2026-09-25-v2-1-283-github-396845205-9a5a07f8]]'
 source_type: github_releases
 theme: reliability-performance
@@ -91,7 +91,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.283
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-09-23 · Cursor · [[Changes/Cursor/2026-09-23-deploy-tracking|Deploy tracking]]
+- Earlier: 2026-09-23 · Ollama · [[Changes/Ollama/2026-09-23-2-reliability-and-performance-changes-in-v0-34-4|2 Reliability and Performance changes in v0.34.4]]
 - Later: 2026-09-28 · Claude Code · [[Changes/Claude Code/2026-09-28-improved-startup-time-and-memory-use-by-building-only-the-parts-of-the-settings|Improved startup time and memory use by building only the parts of the settings…]]
 <!-- chronolog:end -->
 

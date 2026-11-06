@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 2179bd4cb24378ad8120db532b08c5adb5fdaa7324f7978e6bf4778be6e8f53a
+machine_hash: cf93556eba75a84422809c2b39b1c3c6d66f321c4bd870fe345c52a79d9ff54c
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -50,8 +50,7 @@ record:
     out to all…
   type: change
 related_changes:
-- '[[Changes/Cline/2025-09-29-add-claude-sonnet-4-5-by-saoudrizwan-in-https-github-com-cline-cline-pull-6544|Add
-  Claude Sonnet 4.5]]'
+- '[[Changes/ElevenLabs/2025-09-29-v1-tts-model-deprecation|v1 TTS model deprecation]]'
 - '[[Changes/GitHub Copilot CLI/2025-09-29-3-model-support-changes-in-v0-0-329|3 Model
   Support changes in v0.0.329]]'
 - '[[Changes/GitHub Copilot CLI/2025-09-29-added-model-slash-command-to-easily-change-the-model-fixes-https-github-com-gith|Added
@@ -86,7 +85,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2025-09-29 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-09-29-added-model-slash-command-to-easily-change-the-model-fixes-https-github-com-gith|Added /model slash command to easily change the model…]]
-- Later: 2025-09-29 · Windsurf · [[Changes/Windsurf/2025-09-29-claude-sonnet-4-5|Claude Sonnet 4.5]]
+- Later: 2025-09-29 · Open WebUI · [[Changes/Open WebUI/2025-09-29-the-set-as-default-option-is-now-reliably-clickable-in-model-and-filter-selectio|🐛 The "Set as default" option is now reliably clickable in model and filter…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

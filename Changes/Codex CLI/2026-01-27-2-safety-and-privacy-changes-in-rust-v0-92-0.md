@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6cce6bb4b0248360a8b27e927a347728b56f0d39d8af618574b694d84095d88c
+machine_hash: 19aadcfb69923b3bff4e6b1cc4cc6fa69e19bd9436d60387721633ceb85b92df
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,10 +43,9 @@ record:
   title: 2 Safety and Privacy changes in rust-v0.92.0
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-01-22-unified-cli-permissions-with-the-editor-including-run-everything-auto-run-in-san|Unified
-  CLI permissions with the editor, including Run Everything, Auto-Run…]]'
 - '[[Changes/Codex CLI/2026-01-25-4-safety-and-privacy-changes-in-rust-v0-90-0|4 Safety
   and Privacy changes in rust-v0.90.0]]'
+- '[[Changes/ElevenLabs/2026-01-26-workspaces|Workspaces]]'
 - '[[Changes/Claude Code/2026-01-27-2-safety-and-privacy-changes-in-v2-1-20|2 Safety
   and Privacy changes in v2.1.20]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-01-27-rust-v0-92-0-github-280265755-5634ff7c|codex-cli-2026-01-27-rust-v0-92-0-github-280265755-5634ff7c]]'

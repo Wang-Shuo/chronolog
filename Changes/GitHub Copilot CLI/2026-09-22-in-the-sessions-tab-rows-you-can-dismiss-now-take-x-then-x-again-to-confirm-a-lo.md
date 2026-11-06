@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: bb373a2f16f1b3d76237bf61d754dc21d6a43b93de140b3afb4705d157914aa5
+machine_hash: 6cfc3f152ced292b57af16efa7da75012ad094be2ddaa095ff9bfb682533c8ee
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -48,8 +48,8 @@ record:
   title: In the Sessions tab, rows you can dismiss now take x then x again to confirm
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-18-2-editor-experience-changes-in-v2-1-277|2 Editor
-  Experience changes in v2.1.277]]'
+- '[[Changes/Open WebUI/2026-09-21-21-editor-experience-changes-in-v0-11-4|21 Editor
+  Experience changes in v0.11.4]]'
 - '[[Changes/Claude Code/2026-09-22-vscode-changed-open-in-new-tab-to-open-claude-beside-the-editor-group-you-are-wo|VSCode
   Changed "Open in New Tab" to open Claude beside the editor group you…]]'
 - '[[Changes/Codex CLI/2026-09-22-6-editor-experience-changes-in-rust-v0-156-0|6 Editor
@@ -90,7 +90,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-09-22 · Codex CLI · [[Changes/Codex CLI/2026-09-22-6-editor-experience-changes-in-rust-v0-156-0|6 Editor Experience changes in rust-v0.156.0]]
-- Later: 2026-09-28 · ChatGPT · [[Changes/ChatGPT/2026-09-28-you-can-now-select-a-chart-metric-or-record-in-the-health-tab-to-get-personalize|Explore your health data with personalized summaries]]
+- Later: 2026-09-25 · Lovable · [[Changes/Lovable/2026-09-25-open-cited-web-sources-from-an-answer|Open cited web sources from an answer]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

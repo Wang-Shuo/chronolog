@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b17558e452930e098fbc7c73c8965bf2785370f5d31f143cc2a990af0ca3d8ae
+machine_hash: acb954549cfa6e036cdc10884cf3d8cefc43912e207627d1fab8a2d38bd8a698
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -55,10 +55,10 @@ record:
   title: 7 Account and Access changes in v0.1.21
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-08-06-6-account-and-access-changes-in-v0-1-18|6 Account
-  and Access changes in v0.1.18]]'
 - '[[Changes/Codex CLI/2025-08-09-https-github-com-openai-codex-pull-2042-should-help-fix-the-python-certificates|(source
   link) should help/fix the Python certificates…]]'
+- '[[Changes/Open WebUI/2025-08-09-4-account-and-access-changes-in-v0-6-19|4 Account
+  and Access changes in v0.6.19]]'
 - '[[Changes/Gemini CLI/2025-08-12-feat-cli-allow-exiting-authentication-menu-with-ctrl-c-sigint-by-dizzydroid-in-h|feat(cli):
   Allow Exiting Authentication Menu with CTRL+C (SIGINT)]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-08-14-v0-1-21-github-239867721-f576cbaa|gemini-cli-2025-08-14-v0-1-21-github-239867721-f576cbaa]]'
