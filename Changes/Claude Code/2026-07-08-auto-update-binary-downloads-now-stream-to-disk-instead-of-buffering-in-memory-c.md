@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 83e458e89007256a394fa9319e7360b8139de8d497c8f0d1692445118ad681f6
+machine_hash: ab2e039dc9e19483b3a8b6aaa5824ad2968a40918ee7e377f6f2d617ca2d3f50
 product: claude-code
 product_name: Claude Code
 record:

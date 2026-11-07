@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: bb43f67946dee687d4174847ead97620f112ed51c528ed695cb511c58d8e8760
+machine_hash: b8deb6b1e68168f356a213106a79f901c79d7e5fc07be56db14dbe2ecc9e76e5
 product: dify
 product_name: Dify
 record:
@@ -48,12 +48,12 @@ record:
   title: 3 Reliability and Performance changes in 0.11.0
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2024-10-24-4-reliability-and-performance-changes-in-v0-3-33|4
-  Reliability and Performance changes in v0.3.33]]'
 - "[[Changes/Open WebUI/2024-10-26-tool-parameters-issue-fixed-an-error-where-tools-were-not-functioning-correctly|\U0001F6E0️
   Tool Parameters Issue]]"
 - '[[Changes/Dify/2024-10-28-improved-file-handling-in-http-requests-your-http-requests-within-workflows-are|Improved
   File Handling in HTTP Requests: Your HTTP requests within workflows…]]'
+- '[[Changes/Superwhisper/2024-10-28-performance-improvements-for-shorter-recordings|Performance
+  improvements for shorter recordings]]'
 source_release: '[[Releases/Dify/dify-2024-11-05-0-11-0-github-183549613-86c3ffa3|dify-2024-11-05-0-11-0-github-183549613-86c3ffa3]]'
 source_type: github_releases
 theme: reliability-performance
@@ -97,8 +97,8 @@ Source: https://github.com/langgenius/dify/releases/tag/0.11.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2024-10-28 · Dify · [[Changes/Dify/2024-10-28-improved-file-handling-in-http-requests-your-http-requests-within-workflows-are|Improved File Handling in HTTP Requests: Your HTTP requests within workflows…]]
-- Later: 2024-11-11 · Dify · [[Changes/Dify/2024-11-11-chore-ci-bring-back-poetry-cache-to-speed-up-ci-jobs-by-bowenliang123-in-https-g|chore(ci): bring back poetry cache to speed up CI jobs]]
+- Earlier: 2024-10-28 · Superwhisper · [[Changes/Superwhisper/2024-10-28-performance-improvements-for-shorter-recordings|Performance improvements for shorter recordings]]
+- Later: 2024-11-08 · Superwhisper · [[Changes/Superwhisper/2024-11-08-faster-event-handling-and-performance-improvements|Faster event handling and performance improvements]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

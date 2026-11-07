@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 3ad0dad0de0b82fed72e49309379927c7d703fb9cae87b0ee7a1fbbaaca1558b
+machine_hash: 41cbc57c59885bc04899dc7ba91e4b43634164bc9e302df796f36d3f701e42a4
 product: lovable
 product_name: Lovable
 record:
@@ -48,12 +48,12 @@ record:
   title: Redesigned sidebar
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-27-added-a-repository-filter-to-the-session-picker-and-directory-grouping-to-the-ag|Added
-  a repository filter to the session picker and directory grouping to the agent…]]'
 - '[[Changes/Google Antigravity/2026-10-27-you-can-now-move-the-open-conversation-up-or-down-in-the-sidebar-with-alt-shift|Move
   the open conversation up or down in the sidebar with Alt+Shift+Up…]]'
 - '[[Changes/Google Antigravity/2026-10-27-3-interface-experience-changes-in-hub-v2-28-0-built-in-browser|3
   Interface Experience changes in HUB v2.28.0 — Built-in browser…]]'
+- '[[Changes/Krea/2026-10-27-polished-the-mobile-model-picker-and-sidebar|Polished
+  the mobile model picker and sidebar]]'
 source_release: '[[Releases/Lovable/lovable-2026-10-27-2026-10-27-6c2f097b|lovable-2026-10-27-2026-10-27-6c2f097b]]'
 source_type: lovable_changelog
 theme: interface-experience
@@ -83,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-10-27 · Google Antigravity · [[Changes/Google Antigravity/2026-10-27-3-interface-experience-changes-in-hub-v2-28-0-built-in-browser|3 Interface Experience changes in HUB v2.28.0 — Built-in browser…]]
+- Earlier: 2026-10-27 · Krea · [[Changes/Krea/2026-10-27-polished-the-mobile-model-picker-and-sidebar|Polished the mobile model picker and sidebar]]
 - Later: 2026-10-27 · OpenClaw · [[Changes/OpenClaw/2026-10-27-on-linux-doctor-can-repair-a-managed-gateway-that-is-using-an-unsupported-node-v|On Linux, Doctor can repair a managed Gateway that is using an unsupported Node…]]
 <!-- chronolog:end -->
 

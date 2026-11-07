@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e61af0fd1ad02cb1690d2483cdad0dcf40a5e7b3120d7418ca8d7689adb6fba8
+machine_hash: 842769deff11b9ef2adc8c8523a5f5d110f7b0eaa8b7023bb980eb9aecf4c07f
 product: openclaw
 product_name: OpenClaw
 record:
@@ -114,7 +114,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-11-03 · Open WebUI · [[Changes/Open WebUI/2026-11-03-general-improvements-various-improvements-were-implemented-across-the-applicatio|🔄 General improvements. Various improvements were implemented across…]]
-- Later: 2026-11-06 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-11-06-3-reliability-and-performance-changes-in-v1-0-106|3 Reliability and Performance changes in v1.0.106]]
+- Later: 2026-11-04 · Raycast · [[Changes/Raycast/2026-11-04-2-reliability-and-performance-changes-in-raycast-windows-2-11|2 Reliability and Performance changes in Raycast windows 2.11]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

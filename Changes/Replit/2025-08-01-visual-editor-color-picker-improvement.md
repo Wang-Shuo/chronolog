@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 24100d0fa499810ac89f6b5a67611fd62b2d31b358a7e5acaed832f3cd8854c3
+machine_hash: a6e61defa8e9635d8f71b10fc02f3203bcd8f29be339d3652e51c85b5e395326
 product: replit
 product_name: Replit
 record:
@@ -60,10 +60,8 @@ record:
   title: Visual editor color picker improvement
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-07-30-2-interface-experience-changes-in-v0-1-15|2 Interface
-  Experience changes in v0.1.15]]'
-- '[[Changes/Cline/2025-07-31-feat-adds-navigation-bar-component-and-restructure-app-layout-by-abeatrix-in-htt|feat:
-  adds navigation bar component and restructure app layout]]'
+- '[[Changes/Devin/2025-07-31-primary-org-session-sidebar|Primary Org Session Sidebar]]'
+- '[[Changes/Devin/2025-07-31-organization-switcher-search|Organization Switcher Search]]'
 - "[[Changes/Gamma/2025-07-31-style-your-visuals|Style Your Visuals \U0001F58C️]]"
 source_release: '[[Releases/Replit/replit-2025-08-01-2025-08-01-3bbceb1a|replit-2025-08-01-2025-08-01-3bbceb1a]]'
 source_type: replit_changelog

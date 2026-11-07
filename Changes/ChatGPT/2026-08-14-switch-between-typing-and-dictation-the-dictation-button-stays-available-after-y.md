@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5382815e42ac4b17a04f6035b4579f526c8e379d034ad055f99a68098f5bd839
+machine_hash: 1a7460096c81315960ed226bbdb4545e068d874977e05b05e5e92363bc569930
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -44,8 +44,8 @@ record:
   title: Switch between typing and dictation
   type: change
 related_changes:
-- '[[Changes/HeyGen/2026-08-11-videos-that-look-and-sound-like-you-with-your-face-your-voice-and-your-market-kn|Videos
-  that look and sound like you, with your face, your voice, and your market…]]'
+- '[[Changes/AnythingLLM/2026-08-13-add-input-audio-support-for-audio-attachments-on-generic-openai-provider-by-shat|Add
+  input_audio support for audio attachments on generic OpenAI provider]]'
 - '[[Changes/Suno/2026-08-13-we-have-totally-overhauled-suno-studio-our-browser-based-generative-daw-with-fea|We
   have totally overhauled Suno Studio, our browser-based generative DAW…]]'
 - '[[Changes/Suno/2026-08-13-audio-effects-dial-in-your-mix-with-high-quality-audio-effects-including-sidecha|Audio

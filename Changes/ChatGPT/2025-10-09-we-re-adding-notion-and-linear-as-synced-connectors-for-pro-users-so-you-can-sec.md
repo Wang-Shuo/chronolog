@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 889218662ab14e2a0ef518efd6982b5e24edd5fe9fa5971ca2d9e1425c2a65b5
+machine_hash: effe9f48bcdae67557e27d51767843cc08890e69f1eaa0d1db9a60986b63c5b8
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -52,12 +52,12 @@ record:
   title: Adding Notion & Linear synced connectors
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2025-10-07-3-apps-and-integrations-changes-in-v0-6-33|3 Apps
-  and Integrations changes in v0.6.33]]'
 - '[[Changes/Cline/2025-10-08-move-mcp-marketplace-catalog-from-global-state-to-disk-cache-by-celestial-vault|Move
   MCP marketplace catalog from global state to disk cache]]'
 - '[[Changes/GitHub Copilot CLI/2025-10-08-added-validation-for-mcp-server-names-fixes-https-github-com-github-copilot-cli|Added
   validation for MCP server names…]]'
+- '[[Changes/AnythingLLM/2025-10-09-2-apps-and-integrations-changes-in-v1-9-0|2 Apps
+  and Integrations changes in v1.9.0]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-10-09-adding-notion-linear-synced-connectors-8b3828f2|chatgpt-2025-10-09-adding-notion-linear-synced-connectors-8b3828f2]]'
 source_type: chatgpt_changelog
 theme: apps-integrations
@@ -84,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-10-08 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-10-08-added-validation-for-mcp-server-names-fixes-https-github-com-github-copilot-cli|Added validation for MCP server names…]]
+- Earlier: 2025-10-09 · AnythingLLM · [[Changes/AnythingLLM/2025-10-09-2-apps-and-integrations-changes-in-v1-9-0|2 Apps and Integrations changes in v1.9.0]]
 - Later: 2025-10-09 · Codex CLI · [[Changes/Codex CLI/2025-10-09-6-apps-and-integrations-changes-in-rust-v0-46-0|6 Apps and Integrations changes in rust-v0.46.0]]
 <!-- chronolog:end -->
 

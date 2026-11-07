@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 92213ce67f509288dac7d642579127f423942a08c1df416888976443d52e687e
+machine_hash: 87e1c8cbac2b86d4ddf31904fb5b428fea2732e8793d83fd4726c608248f73b1
 product: cursor
 product_name: Cursor
 record:
@@ -48,10 +48,11 @@ record:
   title: 4 Agent Mode changes in 3.0
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-04-01-packages|Packages]]'
 - '[[Changes/ElevenLabs/2026-04-01-new-endpoints|New Endpoints]]'
 - '[[Changes/Gemini CLI/2026-04-01-10-agent-mode-changes-in-v0-36-0|10 Agent Mode
   changes in v0.36.0]]'
+- '[[Changes/AnythingLLM/2026-04-02-8-agent-mode-changes-in-v1-12-0|8 Agent Mode changes
+  in v1.12.0]]'
 source_release: '[[Releases/Cursor/cursor-2026-04-02-3-0-https-cursor-com-changelog-3-0-c58cd2ad|cursor-2026-04-02-3-0-https-cursor-com-changelog-3-0-c58cd2ad]]'
 source_type: cursor_changelog
 theme: agent-mode
@@ -100,7 +101,7 @@ Source: https://cursor.com/changelog/3-0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-04-01 · Gemini CLI · [[Changes/Gemini CLI/2026-04-01-10-agent-mode-changes-in-v0-36-0|10 Agent Mode changes in v0.36.0]]
+- Earlier: 2026-04-02 · AnythingLLM · [[Changes/AnythingLLM/2026-04-02-8-agent-mode-changes-in-v1-12-0|8 Agent Mode changes in v1.12.0]]
 - Later: 2026-04-02 · Lovable · [[Changes/Lovable/2026-04-02-ai-powered-visual-edits|AI-powered visual edits]]
 <!-- chronolog:end -->
 

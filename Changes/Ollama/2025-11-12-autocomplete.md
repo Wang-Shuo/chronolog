@@ -10,12 +10,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 56b3d72188ef4c9019999d4248904ac093c78f09de6da49958f7273f5969a57b
+machine_hash: 7c9929b5cfcfc236d5c00e4dd3a8a3d0d3b0ecbc09a59619b8def81a9ac99ef8
 product: ollama
 product_name: Ollama
 record:
@@ -38,8 +38,7 @@ record:
   title: Autocomplete
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2025-11-06-the-comfyui-image-edit-workflow-editor-modal-now-opens-correctly-when-clicking-t|\U0001F5BC️
-  The ComfyUI image edit workflow editor modal now opens correctly when clicking…]]"
+- '[[Changes/Devin/2025-11-07-wiki-edit-button-improvements|Wiki Edit Button Improvements]]'
 - '[[Changes/Gemini CLI/2025-11-07-enable-codebase-investigator-by-default-for-preview-by-silviojr-in-https-github|enable
   codebase investigator by default for preview]]'
 - '[[Changes/GitHub Copilot CLI/2025-11-12-3-editor-experience-changes-in-v0-0-355|3

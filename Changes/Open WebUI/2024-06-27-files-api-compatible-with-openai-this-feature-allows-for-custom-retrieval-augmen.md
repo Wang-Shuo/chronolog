@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5fb3a4fbd5d8a325fec64ab38a8fa367bf7e2b01a77dd969060cd52260ef8439
+machine_hash: 6e86949ef755358690b06adbe5b6a771ccd0b338defa6423da07e07ba09e0dd2
 product: open-webui
 product_name: Open WebUI
 record:
@@ -50,8 +50,7 @@ record:
     custom…"
   type: change
 related_changes:
-- '[[Changes/Dify/2024-06-14-note-support-add-notes-directly-into-your-workflows-to-enhance-documentation-and|Note
-  Support: Add notes directly into your workflows to enhance documentation…]]'
+- '[[Changes/Raycast/2024-06-19-ai-chat-attachments|AI Chat Attachments]]'
 - '[[Changes/Notion/2024-06-26-the-evolution-of-the-plus-plan|The evolution of the
   Plus plan]]'
 - '[[Changes/Ollama/2024-06-27-a-special-thank-you-to-the-google-cloud-and-deepmind-team-members-for-gemma-2-su|A

@@ -5,20 +5,20 @@ description: 'OpenClaw · 2026-09-03 · Accessibility and Localization: 3 change
   v2026.9.1 — Localized recovery text explains when the completed session cannot be
   opened…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-09-11-chatgpt-now-supports-a-limited-selection-of-languages-in-the-interface|ChatGPT
-    now supports a limited selection of languages in the interface]]'
+  first_in_tracked: '[[Changes/Raycast/2020-11-19-improved-searching-for-localized-application-and-preference-names|Improved
+    searching for localized application and preference names]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1088
+  lag_days: 2114
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: accessibility-localization
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 102744764ffe6374b5bd4f093da7cf92e32b2c80a02fa91d80fde53668dfc288
+machine_hash: e390ad569fb61797004940590aaaf1e914660da60ea6eb7ea2590a5d64e9392b
 product: openclaw
 product_name: OpenClaw
 record:
@@ -119,7 +119,7 @@ Source: https://docs.openclaw.ai/releases/2026.9.1
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-11 · ChatGPT · [[Changes/ChatGPT/2023-09-11-chatgpt-now-supports-a-limited-selection-of-languages-in-the-interface|ChatGPT now supports a limited selection of languages in the interface]]
+- Earliest same-theme entry in the tracked set: 2020-11-19 · Raycast · [[Changes/Raycast/2020-11-19-improved-searching-for-localized-application-and-preference-names|Improved searching for localized application and preference names]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

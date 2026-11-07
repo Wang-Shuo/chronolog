@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 7d693e8e49d5f0e6e8d03e79846b3cd4938695b36fa7c2800113387986b4708d
+machine_hash: 4e129cdf3d75eef3addc74c5f8685f4fe52a580cba0e399cd57a506d41983956
 product: notion
 product_name: Notion
 record:
@@ -58,12 +58,12 @@ record:
   title: Zapier integration
   type: change
 related_changes:
-- '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
-  you have a recording with each speaker with a different microphone, or saved…]]'
-- '[[Changes/Descript/2020-05-28-publishing-integrations-enjoy-quicker-exports-with-one-click-integrations-to-thi|Publishing
-  Integrations: Enjoy quicker exports with one-click integrations…]]'
-- '[[Changes/Synthesia/2020-11-02-zapier-enables-you-to-hook-up-synthesia-to-other-apps-and-send-users-personalize|Our
-  Zapier integration is ready!]]'
+- '[[Changes/Raycast/2021-03-08-added-an-action-to-show-info-in-finder-for-apps-in-the-root-search|Added
+  an action to show info in Finder for apps in the root search]]'
+- '[[Changes/Raycast/2021-04-13-2-apps-and-integrations-changes-in-raycast-macos-v1-1-12-0|2
+  Apps and Integrations changes in Raycast macos-v1 1.12.0]]'
+- '[[Changes/Raycast/2021-04-28-root-search-added-ability-to-hide-individual-applications-in-preferences-extensi|Root
+  Search : Added ability to hide individual applications in Preferences…]]'
 source_release: '[[Releases/Notion/notion-2021-05-13-https-www-notion-com-releases-2021-05-13-33c4406d|notion-2021-05-13-https-www-notion-com-releases-2021-05-13-33c4406d]]'
 source_type: notion_changelog
 theme: apps-integrations
@@ -108,8 +108,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2020-11-02 · Synthesia · [[Changes/Synthesia/2020-11-02-zapier-enables-you-to-hook-up-synthesia-to-other-apps-and-send-users-personalize|Our Zapier integration is ready!]]
-- Later: 2021-06-29 · Notion · [[Changes/Notion/2021-06-29-new-api-integrations-with-ifttt-atspoke-more|New API integrations with IFTTT, atSpoke & more]]
+- Earlier: 2021-04-28 · Raycast · [[Changes/Raycast/2021-04-28-root-search-added-ability-to-hide-individual-applications-in-preferences-extensi|Root Search : Added ability to hide individual applications in Preferences…]]
+- Later: 2021-05-26 · Raycast · [[Changes/Raycast/2021-05-26-4-apps-and-integrations-changes-in-raycast-macos-v1-1-16-0|4 Apps and Integrations changes in Raycast macos-v1 1.16.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

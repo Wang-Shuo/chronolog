@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 502dfdb49dcba67b24f25fdcb288c7c3ee9a51fac248207eb7c2c8f493542fa6
+machine_hash: af4d73e679fd82e85841fb5cd2016955dcd181efc46fdc70f3d535c3181ffe7f
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,12 +44,12 @@ record:
   title: 2 Search and Browsing changes in rust-v0.142.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-15-27501-codex-expand-hosted-web-search-citation-guidance-yuning-oai|♯27501
-  codex Expand hosted web search citation guidance @yuning-oai]]'
 - '[[Changes/Kimi Code/2026-06-15-add-an-all-sessions-picker-view-with-name-search-paginated-browsing-and-clipboar|Add
   an all-sessions picker view with name search, paginated browsing…]]'
 - '[[Changes/Microsoft 365 Copilot/2026-06-16-infinite-scroll-chat-history-web-microsoft-365-copilot-chat|Infinite
   scroll chat history Web (Microsoft 365 Copilot Chat)]]'
+- '[[Changes/AnythingLLM/2026-06-22-feat-add-fastcrw-web-search-provider-by-us-in-https-github-com-mintplex-labs-any|feat:
+  add fastCRW web search provider]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-06-22-rust-v0-142-0-github-343189954-a218ab4e|codex-cli-2026-06-22-rust-v0-142-0-github-343189954-a218ab4e]]'
 source_type: github_releases
 theme: search-browsing
@@ -98,7 +98,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.142.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Search and Browsing
 
-- Earlier: 2026-06-16 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-06-16-infinite-scroll-chat-history-web-microsoft-365-copilot-chat|Infinite scroll chat history Web (Microsoft 365 Copilot Chat)]]
+- Earlier: 2026-06-22 · AnythingLLM · [[Changes/AnythingLLM/2026-06-22-feat-add-fastcrw-web-search-provider-by-us-in-https-github-com-mintplex-labs-any|feat: add fastCRW web search provider]]
 - Later: 2026-06-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-23-add-mcp-registry-installation-for-browsing-and-installing-mcp-servers|Add /mcp registry installation for browsing and installing MCP servers]]
 <!-- chronolog:end -->
 

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: eec537717187a4718ace4afc83c8d267813bd60f9a4ec88ea4171f497d17c298
+machine_hash: d92d8c7bff4500715c36a4e89e8d85d1ba006cdd6c34c6a77b5c08b0752f2f5f
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -41,10 +41,8 @@ record:
   title: SDK Releases
   type: change
 related_changes:
-- '[[Changes/Replit/2026-05-15-four-new-mcp-servers-in-the-directory|Four new MCP
-  servers in the directory]]'
-- '[[Changes/v0/2026-05-15-the-built-with-v0-badge-respects-branding-settings-on-deployed-apps-and-the-prev|The
-  "built with v0" badge respects branding settings on deployed apps…]]'
+- '[[Changes/Devin/2026-05-17-mcp-oauth-client-credentials|MCP OAuth Client Credentials]]'
+- '[[Changes/Devin/2026-05-17-tavily-mcp-in-marketplace|Tavily MCP in Marketplace]]'
 - '[[Changes/Codex CLI/2026-05-18-56-apps-and-integrations-changes-in-rust-v0-131-0|56
   Apps and Integrations changes in rust-v0.131.0]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-05-18-2026-05-18-640aaf83|elevenlabs-2026-05-18-2026-05-18-640aaf83]]'

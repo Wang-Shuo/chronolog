@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 338441ff6287f90a703589dd83179d09b8da7bae52f0164eb58c401769fb4cba
+machine_hash: db0dd8b667ae78009897f481ee78c7672fe71ca20c9e7846e890a4ca7841960e
 product: openhands
 product_name: OpenHands
 record:
@@ -77,7 +77,7 @@ type: change
 ## Nearby in Memory and Personalization
 
 - Earlier: 2025-02-19 · Cursor · [[Changes/Cursor/2025-02-19-0-46-9-memory-and-performances-fixes-composer-chat-remembers-your-last-mode-sele|0.46.9: Memory and performances fixes, composer/chat remembers your last mode…]]
-- Later: 2025-03-31 · Midjourney · [[Changes/Midjourney/2025-03-31-we-re-now-in-round-3-of-the-v7-image-rating-party|We're now in ROUND 3 of the V7 image rating party]]
+- Later: 2025-03-27 · LM Studio · [[Changes/LM Studio/2025-03-27-2-memory-and-personalization-changes-in-lm-studio-0-3-14|2 Memory and Personalization changes in LM Studio 0.3.14]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

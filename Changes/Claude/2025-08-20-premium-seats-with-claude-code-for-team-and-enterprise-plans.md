@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 0f1eba1a22f247f5dce0c6a986844915d45db43aa5ecfc5dd0c632d54f3f6cdb
+machine_hash: 162ff40f1110af0f2fd6a1b361d6d1d3670456b21943e57bf8fdc0278003d095
 product: claude
 product_name: Claude
 record:
@@ -58,9 +58,9 @@ record:
   title: Premium seats with Claude Code for Team and Enterprise plans
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2025-08-09-3-enterprise-and-administration-changes-in-v0-6-19|3
-  Enterprise and Administration changes in v0.6.19]]'
-- '[[Changes/Lovable/2025-08-11-lovable-business-plan|Lovable Business plan]]'
+- '[[Changes/Devin/2025-08-12-enhanced-enterprise-consumption-dashboard|Enhanced Enterprise
+  Consumption Dashboard]]'
+- '[[Changes/Devin/2025-08-12-enterprise-logout-access|Enterprise Logout Access]]'
 - '[[Changes/Notion/2025-08-19-download-pages-for-offline-use|Download pages for offline
   use]]'
 source_release: '[[Releases/Claude/claude-2025-08-20-2025-08-20-8e826e02|claude-2025-08-20-2025-08-20-8e826e02]]'

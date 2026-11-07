@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: video-generation
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 6eb417c1fabf8eb59e339565471a567c34cfbd74f62e1c5f26389408c32cdbaa
+machine_hash: 4e9944354fb49f585023dac610cdcb85280c21c5772b0af3997a670ae095ff2e
 product: runway
 product_name: Runway
 record:
@@ -47,10 +47,10 @@ record:
   title: Wan 3.0
   type: change
 related_changes:
-- '[[Changes/Runway/2026-08-05-minimax-hailuo-3-0-is-now-live-on-runway-dev-generate-video-from-text-image-or-v|MiniMax
-  Hailuo 3.0]]'
 - '[[Changes/HeyGen/2026-08-07-we-ve-added-new-customization-options-to-generate-script-with-ai-in-the-ppt-pdf|HeyGen
   adds new customization options to Generate Script with AI in the PPT/PDF…]]'
+- '[[Changes/Recraft/2026-08-13-we-ve-added-seedance-2-5-for-video-generation-in-recraft-studio-generate-clips-u|Recraft
+  adds Seedance 2.5 for video generation in Recraft Studio]]'
 - '[[Changes/Runway/2026-08-13-xai-s-grok-imagine-1-5-is-now-available-in-runway-mcp-as-grok-imagine-1-5-suppor|Grok
   Imagine 1.5 Video]]'
 source_release: '[[Releases/Runway/runway-2026-08-24-2026-08-24-wan-3-0-b031e5e3|runway-2026-08-24-2026-08-24-wan-3-0-b031e5e3]]'

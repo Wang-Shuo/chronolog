@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: da78c85e6b58c92721ea24457e3e75af3a816414f2d9808b9f87c1f385bbfcae
+machine_hash: 10eba65a15412717efea1edaceba75cc06c25d447dc304ec826e0683c377b6a1
 product: descript
 product_name: Descript
 record:
@@ -50,12 +50,12 @@ record:
   title: Instant speaker creation
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2023-09-25-we-are-beginning-to-roll-out-new-voice-and-image-capabilities-in-chatgpt-they-of|We
-  are beginning to roll out new voice and image capabilities in ChatGPT]]'
 - '[[Changes/Descript/2023-09-28-this-tool-can-be-used-to-address-problems-with-audio-drift-in-an-audio-or-video|This
   tool can be used to address problems with audio drift in an audio or video file…]]'
 - '[[Changes/Descript/2023-09-28-repair-audio-drift-added-a-new-file-repair-tool-https-help-descript-com-hc-en-us|
   Repair audio drift: Added a new file repair…]]'
+- '[[Changes/Superwhisper/2023-10-11-realtime-audio-soundwave-visualization|Realtime
+  audio soundwave visualization]]'
 source_release: '[[Releases/Descript/descript-2023-10-17-6529b7089d86ac6046817e11-eb5c0e53|descript-2023-10-17-6529b7089d86ac6046817e11-eb5c0e53]]'
 source_type: canny_changelog
 theme: voice
@@ -92,8 +92,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2023-09-28 · Descript · [[Changes/Descript/2023-09-28-repair-audio-drift-added-a-new-file-repair-tool-https-help-descript-com-hc-en-us| Repair audio drift: Added a new file repair…]]
-- Later: 2023-10-31 · Descript · [[Changes/Descript/2023-10-31-filler-words-remove-from-transcript|Filler words: Remove from transcript]]
+- Earlier: 2023-10-11 · Superwhisper · [[Changes/Superwhisper/2023-10-11-realtime-audio-soundwave-visualization|Realtime audio soundwave visualization]]
+- Later: 2023-10-25 · Superwhisper · [[Changes/Superwhisper/2023-10-25-make-size-of-audio-wave-larger|Make size of audio wave larger]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

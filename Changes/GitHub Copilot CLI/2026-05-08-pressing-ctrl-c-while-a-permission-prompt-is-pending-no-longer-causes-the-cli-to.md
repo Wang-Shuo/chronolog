@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f9414f9e309bd250de1c73014149cc4df88a3dab9898011f932e66fef785b15a
+machine_hash: 969f2353a778d4a9dbf42aced768e29ad0ca8d54949943fe2d773fdaad8b577b
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,12 +45,12 @@ record:
     CLI to hang
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-05-07-desktop-allow-trusted-app-windows-to-write-to-the-clipboard-without-permission-f|Desktop
-  Allow trusted app windows to write to the clipboard without permission failures]]'
 - '[[Changes/Claude Code/2026-05-08-2-safety-and-privacy-changes-in-v2-1-136|2 Safety
   and Privacy changes in v2.1.136]]'
 - '[[Changes/Codex CLI/2026-05-08-2-safety-and-privacy-changes-in-rust-v0-130-0|2
   Safety and Privacy changes in rust-v0.130.0]]'
+- '[[Changes/Devin/2026-05-08-service-user-permission-management|Service User Permission
+  Management]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-05-08-v1-0-44-github-319701730-20ae02a8|github-copilot-cli-2026-05-08-v1-0-44-github-319701730-20ae02a8]]'
 source_type: github_releases
 theme: safety-privacy
@@ -85,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-05-08 · Codex CLI · [[Changes/Codex CLI/2026-05-08-2-safety-and-privacy-changes-in-rust-v0-130-0|2 Safety and Privacy changes in rust-v0.130.0]]
+- Earlier: 2026-05-08 · Devin · [[Changes/Devin/2026-05-08-service-user-permission-management|Service User Permission Management]]
 - Later: 2026-05-08 · Replit · [[Changes/Replit/2026-05-08-workspace-security-center-2-0|Workspace Security Center 2.0]]
 <!-- chronolog:end -->
 

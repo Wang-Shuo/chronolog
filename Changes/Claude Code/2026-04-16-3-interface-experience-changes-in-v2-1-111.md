@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5ade464ba4e3031ed7b00dc0e65269e1d26674ecc6a384e0903e9e7b6ca8db40
+machine_hash: 738249e8e3ac991242cf43c1c96df9a756b790897a2a9cb52e572e4857c2c749
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,12 +47,11 @@ record:
   title: 3 Interface Experience changes in v2.1.111
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-15-2-interface-experience-changes-in-v2-1-110|2 Interface
-  Experience changes in v2.1.110]]'
-- '[[Changes/Claude Code/2026-04-15-improved-the-extended-thinking-indicator-with-a-rotating-progress-hint|Improved
-  the extended-thinking indicator with a rotating progress hint]]'
+- '[[Changes/Devin/2026-04-15-inline-session-rename|Inline Session Rename]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-15-status-bar-shows-files-and-issues-hints-while-typing-and-help-hint-when-the-slas|Status
   bar shows @files and ♯issues hints while typing, and /help hint…]]'
+- '[[Changes/Raycast/2026-04-15-introducing-hyperkey-it-turns-a-single-key-into-a-powerful-shortcut-modifier-so|Introducing
+  Hyperkey: it turns a single key into a powerful shortcut modifier…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-16-v2-1-111-github-309911692-a3025e78|claude-code-2026-04-16-v2-1-111-github-309911692-a3025e78]]'
 source_type: github_releases
 theme: interface-experience
@@ -97,7 +96,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.111
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-04-15 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-15-status-bar-shows-files-and-issues-hints-while-typing-and-help-hint-when-the-slas|Status bar shows @files and ♯issues hints while typing, and /help hint…]]
+- Earlier: 2026-04-15 · Raycast · [[Changes/Raycast/2026-04-15-introducing-hyperkey-it-turns-a-single-key-into-a-powerful-shortcut-modifier-so|Introducing Hyperkey: it turns a single key into a powerful shortcut modifier…]]
 - Later: 2026-04-16 · Descript · [[Changes/Descript/2026-04-16-drive-media-in-the-media-sidebar|Drive media in the media sidebar]]
 <!-- chronolog:end -->
 

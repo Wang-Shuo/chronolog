@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 48994085bfbc4737850f43ec1319802c478503997ce2b80befbe718af3353e68
+machine_hash: 7cc9509c5171199d1ef4fa8fd25dc392692f32f98f4bed5e7cff1d2cbe2c6062
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -111,7 +111,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.35
 ## Nearby in Editor Experience
 
 - Earlier: 2026-04-23 · Gemini CLI · [[Changes/Gemini CLI/2026-04-23-chore-core-increase-codebase-investigator-turn-limits-to-50-by-abhipatel12-in-ht|chore(core): increase codebase investigator turn limits to 50]]
-- Later: 2026-04-24 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-24-2-editor-experience-changes-in-v1-0-36|2 Editor Experience changes in v1.0.36]]
+- Later: 2026-04-24 · Devin · [[Changes/Devin/2026-04-24-merged-multi-edits-in-progress-tab|Merged Multi-Edits in Progress Tab]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

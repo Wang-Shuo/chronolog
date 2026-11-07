@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 5cb19a0bb2f2b7dcaf52934615e99a0dc6a90369b51d5adedfb9a29d9470026f
+machine_hash: 529e399f611c44aaaad03b00f6d6d768933e980c9670777f751f0bca9ea7faba
 product: opencode
 product_name: OpenCode
 record:
@@ -43,8 +43,8 @@ record:
   title: Core Expose session model and mode config options through ACP
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-04-02-26b-mixture-of-experts-model-with-4b-active-parameters|26B
-  (Mixture of Experts model with 4B active parameters)]]'
+- '[[Changes/Recraft/2026-04-03-we-ve-added-veo-3-1-lite-a-cost-efficient-video-model-for-fast-generation-and-hi|Recraft
+  adds Veo 3.1 Lite, a cost-efficient video model for fast generation…]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-04-new-critic-agent-automatically-reviews-plans-and-complex-implementations-using-a|New
   Critic agent automatically reviews plans and complex implementations using…]]'
 - '[[Changes/OpenCode/2026-04-04-2-model-support-changes-in-v1-3-15-1|2 Model Support

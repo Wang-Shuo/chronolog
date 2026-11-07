@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 445c4240b5b7b0e59a13aa408b6543eca3b167a8d1c22490c76a37797302aa65
+machine_hash: 5decea1edad5d0532a3e7d094a6f8befc500796715c0e691664844ae0675cc51
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,12 +46,12 @@ record:
   title: 2 Developer Workflow changes in v2.1.292
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-02-3-developer-workflow-changes-in-v2-1-288|3 Developer
-  Workflow changes in v2.1.288]]'
-- '[[Changes/Claude Code/2026-10-05-5-developer-workflow-changes-in-v2-1-290|5 Developer
-  Workflow changes in v2.1.290]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-05-4-developer-workflow-changes-in-v1-0-92|4
   Developer Workflow changes in v1.0.92]]'
+- '[[Changes/Raycast/2026-10-05-2-developer-workflow-changes-in-raycast-macos-2-6|2
+  Developer Workflow changes in Raycast macos 2.6]]'
+- '[[Changes/Raycast/2026-10-05-ai-permissions-reduced-approval-interruptions-for-routine-git-and-github-workflo|AI
+  Permissions : Reduced approval interruptions for routine Git and GitHub…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-06-v2-1-292-github-404958910-b2fd21ab|claude-code-2026-10-06-v2-1-292-github-404958910-b2fd21ab]]'
 source_type: github_releases
 theme: developer-workflow
@@ -92,7 +92,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.292
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-10-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-05-4-developer-workflow-changes-in-v1-0-92|4 Developer Workflow changes in v1.0.92]]
+- Earlier: 2026-10-05 · Raycast · [[Changes/Raycast/2026-10-05-ai-permissions-reduced-approval-interruptions-for-routine-git-and-github-workflo|AI Permissions : Reduced approval interruptions for routine Git and GitHub…]]
 - Later: 2026-10-07 · Claude Code · [[Changes/Claude Code/2026-10-07-code-review-improved-code-review-s-add-a-repository-dialog-to-list-each-reposito|Code Review Improved Code Review's Add a repository dialog to list each repository…]]
 <!-- chronolog:end -->
 

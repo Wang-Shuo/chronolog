@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 30a49d236ba9895ff1d2a4a8ead811b3e442ad67a73b5c9ee48f7ce8a65e7a53
+machine_hash: c204af9cb8e4609fe4efee1baa601a25fbe1f8f3376001e889db083faf0b0275
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -97,12 +97,12 @@ record:
   title: 17 Safety and Privacy changes in v1.0.85
   type: change
 related_changes:
-- '[[Changes/Kimi Code/2026-09-14-add-the-kimi-code-permission-mode-reminder-environment-variable-set-it-to-0-to-s|Add
-  the KIMI_CODE_PERMISSION_MODE_REMINDER environment variable]]'
 - '[[Changes/Claude Code/2026-09-15-5-safety-and-privacy-changes-in-v2-1-273|5 Safety
   and Privacy changes in v2.1.273]]'
 - '[[Changes/Gemini CLI/2026-09-15-2-safety-and-privacy-changes-in-v0-60-0|2 Safety
   and Privacy changes in v0.60.0]]'
+- '[[Changes/Devin/2026-09-16-security-bugs-are-always-checked-in-devin-review|Security
+  Bugs Are Always Checked in Devin Review]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-09-16-v1-0-85-github-389603482-889a46d9|github-copilot-cli-2026-09-16-v1-0-85-github-389603482-889a46d9]]'
 source_type: github_releases
 theme: safety-privacy
@@ -181,7 +181,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.85
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-09-15 · Gemini CLI · [[Changes/Gemini CLI/2026-09-15-2-safety-and-privacy-changes-in-v0-60-0|2 Safety and Privacy changes in v0.60.0]]
+- Earlier: 2026-09-16 · Devin · [[Changes/Devin/2026-09-16-security-bugs-are-always-checked-in-devin-review|Security Bugs Are Always Checked in Devin Review]]
 - Later: 2026-09-16 · OpenHands · [[Changes/OpenHands/2026-09-16-test-cover-telemetry-consent-banner-by-aivong-openhands-in-https-github-com-open|test: cover telemetry consent banner]]
 <!-- chronolog:end -->
 

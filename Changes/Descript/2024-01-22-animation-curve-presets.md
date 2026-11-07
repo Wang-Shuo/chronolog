@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 8fe2b5f01891a913d5d7c53d5108163c5c91682a680ade89ac203ddd79259165
+machine_hash: f4d15bda1cd724571131f2632ccbdfa58cf1afe5694fb5adc14da06341ea3e2f
 product: descript
 product_name: Descript
 record:
@@ -62,12 +62,12 @@ record:
   title: Animation Curve Presets
   type: change
 related_changes:
-- '[[Changes/Descript/2023-12-18-speaker-label-and-speaker-menu-changes|Speaker Label
-  and Speaker Menu changes]]'
-- '[[Changes/Descript/2024-01-10-removed-a-confusing-tooltip-in-the-media-library-showing-in-point-selection-when|Removed
-  a confusing tooltip in the media library showing In-point selection…]]'
+- '[[Changes/Raycast/2024-01-10-3-interface-experience-changes-in-raycast-macos-v1-1-65-0|3
+  Interface Experience changes in Raycast macos-v1 1.65.0]]'
 - '[[Changes/Dify/2024-01-12-feat-app-sidebar-support-collapse-by-zxhlyh-in-https-github-com-langgenius-dify|feat:
   app sidebar support collapse]]'
+- '[[Changes/Superwhisper/2024-01-14-onboarding-flow-activation-bug-fix|Onboarding
+  flow activation bug fix]]'
 source_release: '[[Releases/Descript/descript-2024-01-22-65aeb159eabe4be38d093be8-7f81df0a|descript-2024-01-22-65aeb159eabe4be38d093be8-7f81df0a]]'
 source_type: canny_changelog
 theme: interface-experience
@@ -110,7 +110,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2024-01-12 · Dify · [[Changes/Dify/2024-01-12-feat-app-sidebar-support-collapse-by-zxhlyh-in-https-github-com-langgenius-dify|feat: app sidebar support collapse]]
+- Earlier: 2024-01-14 · Superwhisper · [[Changes/Superwhisper/2024-01-14-onboarding-flow-activation-bug-fix|Onboarding flow activation bug fix]]
 - Later: 2024-01-24 · Dify · [[Changes/Dify/2024-01-24-for-ease-of-use-tools-has-been-relocated-to-the-main-product-menu-centralizing-c|For ease of use, "Tools" has been relocated to the main product menu, centralizing…]]
 <!-- chronolog:end -->
 

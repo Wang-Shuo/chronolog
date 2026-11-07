@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 087da914327c0b8bd09d940c93acdda46c5fa56c34fe5d64604ef583b5a0ff5d
+machine_hash: b1b560fbaae6795ae98b224740ed5d039b25187941f71eb8c6e44f8d32a6c4b7
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -45,12 +45,12 @@ record:
   title: Longer memory for more personalized responses
   type: change
 related_changes:
-- '[[Changes/Dify/2025-08-11-chore-remove-unused-variable-pruned-memory-by-hyongtao-db-in-https-github-com-la|Chore:
-  remove unused variable pruned_memory]]'
 - '[[Changes/Gemini CLI/2025-08-12-feat-drop-load-memory-from-include-directories-option-from-cli-args-by-y-okt-in|feat:
   drop load-memory-from-include-directories option from cli args]]'
 - '[[Changes/Gemini CLI/2025-08-14-3-memory-and-personalization-changes-in-v0-1-21|3
   Memory and Personalization changes in v0.1.21]]'
+- '[[Changes/AnythingLLM/2025-08-15-well-now-we-have-the-best-of-both-worlds-documents-are-scoped-to-a-workspace-thr|Well,
+  now we have the best of both worlds]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-08-18-introducing-chatgpt-go-fbc1ef7a|chatgpt-2025-08-18-introducing-chatgpt-go-fbc1ef7a]]'
 source_type: chatgpt_changelog
 theme: memory
@@ -82,7 +82,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2025-08-14 · Gemini CLI · [[Changes/Gemini CLI/2025-08-14-3-memory-and-personalization-changes-in-v0-1-21|3 Memory and Personalization changes in v0.1.21]]
+- Earlier: 2025-08-15 · AnythingLLM · [[Changes/AnythingLLM/2025-08-15-well-now-we-have-the-best-of-both-worlds-documents-are-scoped-to-a-workspace-thr|Well, now we have the best of both worlds]]
 - Later: 2025-08-22 · ChatGPT · [[Changes/ChatGPT/2025-08-22-an-improvement-to-projects-is-now-available-when-creating-a-project-users-have-t-87f79a|An improvement to projects is now available]]
 <!-- chronolog:end -->
 

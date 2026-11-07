@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 53ba4217b15783b0d75ae39261e65021e66ad7776773481a7178c494e7b6aae7
+machine_hash: 00b4661d9b51507c369ff73ad9844128cadb86920ad69879fcc6827a8d32ef0c
 product: qoder
 product_name: Qoder
 record:
@@ -51,8 +51,8 @@ record:
   title: 'Real-time voice: Improved connection stability, reducing the likelihood…'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-09-20-voice-and-audio-changes-in-rust-v0-154-0|20 Voice
-  and Audio changes in rust-v0.154.0]]'
+- '[[Changes/Raycast/2026-09-10-dictation-improved-reliability-when-the-active-audio-device-changes|Dictation:
+  Improved reliability when the active audio device changes]]'
 - '[[Changes/OpenClaw/2026-09-11-you-can-now-choose-deepgram-flux-to-turn-incoming-voice-notes-into-text-your-cla|Choose
   Deepgram Flux to turn incoming voice notes into text your Claw can use…]]'
 - '[[Changes/OpenClaw/2026-09-11-8-voice-and-audio-changes-in-v2026-9-4|8 Voice and

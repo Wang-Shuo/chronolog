@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 3723cafa08502c057a8949c9ff051a3fac2741f5f3d23bcc8302c52c60404049
+machine_hash: 9dc174cdd99b6ba4bcb470ba3798bb3df3b4c7b4753dd2a05f72c000fb99805a
 product: gemini
 product_name: Gemini
 record:
@@ -56,8 +56,8 @@ record:
   title: Introducing Bard’s most capable model yet
   type: change
 related_changes:
-- '[[Changes/Ollama/2023-09-06-5-model-support-changes-in-v0-0-18|5 Model Support
-  changes in v0.0.18]]'
+- '[[Changes/Raycast/2023-09-06-ai-chat-now-inherits-model-and-creativity-when-opening-a-command-in-ai-chat|AI:
+  Chat now inherits model and creativity when opening a command in AI Chat]]'
 - '[[Changes/Ollama/2023-09-11-ability-to-import-and-use-gguf-file-type-models|Ability
   to import and use GGUF file type models]]'
 - '[[Changes/Dify/2023-09-19-3-model-support-changes-in-0-3-23|3 Model Support changes

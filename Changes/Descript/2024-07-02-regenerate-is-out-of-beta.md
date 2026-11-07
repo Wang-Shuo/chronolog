@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 9ec2ecff4d2e650f81a31d97d460a4bbb96ab6d068cd3a67dc68017f7e3df266
+machine_hash: 9c07de1ace77ca5f8617dfdc04f6eeeb715d323b58624b6f14ad64ad4100aeea
 product: descript
 product_name: Descript
 record:
@@ -91,7 +91,7 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2024-06-28 · Suno · [[Changes/Suno/2024-06-28-audio-input-is-now-available-to-everyone-including-those-with-free-accounts|Audio Input is now available to everyone, including those with free accounts!]]
-- Later: 2024-07-15 · Dify · [[Changes/Dify/2024-07-15-tts-streaming-config-text-to-speech-support-automatic-voice-playback-and-streami|TTS Streaming Config]]
+- Later: 2024-07-09 · Superwhisper · [[Changes/Superwhisper/2024-07-09-deepgram-realtime-speaker-separation-system-audio|Deepgram realtime speaker separation & system audio]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

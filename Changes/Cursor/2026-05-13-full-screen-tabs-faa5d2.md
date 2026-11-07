@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: ca71ecff1bb8492e428002bbe39b101294b3308bc0fa9346e795543b20e238d4
+machine_hash: 6defef21aae848f900c89a32edc4fbea28e0c09f48d53c008cd168623e940e48
 product: cursor
 product_name: Cursor
 record:
@@ -93,7 +93,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-05-13 · Cline · [[Changes/Cline/2026-05-13-show-a-clear-searching-state-in-the-mention-file-picker|Show a clear "Searching..." state in the @-mention file picker]]
-- Later: 2026-05-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-13-support-j-k-keys-for-up-down-navigation-in-the-diff-view|Support j/k keys for up/down navigation in the /diff view]]
+- Later: 2026-05-13 · Devin · [[Changes/Devin/2026-05-13-snapshot-build-delete|Snapshot Build Delete]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

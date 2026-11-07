@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: expansion
-machine_hash: 963c611d5c9a3c9e4b90200e633874ab3d4f62e0bc1434bdaae82b846cdd9222
+machine_hash: 412550a77a243c0f2363e982d98c75f70fa22102399aeb7d25772bb0613ca0a1
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -60,10 +60,9 @@ record:
     Pro…
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-09-05-4-enterprise-and-administration-changes-in-v2026-9-2|4
-  Enterprise and Administration changes in v2026.9.2]]'
-- '[[Changes/OpenClaw/2026-09-08-ordinary-model-changes-now-apply-to-the-current-chat-by-default-including-admini|Ordinary
-  model changes now apply to the current chat by default, including…]]'
+- '[[Changes/Raycast/2026-09-08-run-added-run-in-shell-and-run-in-shell-as-administrator-actions-plus-a-shell-pr|Run
+  : Added Run in Shell and Run in Shell as Administrator actions, plus a Shell…]]'
+- '[[Changes/Devin/2026-09-09-environment-build-attention|Environment Build Attention]]'
 - '[[Changes/Notion/2026-09-09-what-s-on-your-team-s-model-roster-that-s-up-to-you-with-model-controls-workspac|Control
   which AI models your agents can use]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-10-box-dropbox-and-sharepoint-are-now-in-library-e089c018|chatgpt-2026-09-10-box-dropbox-and-sharepoint-are-now-in-library-e089c018]]'

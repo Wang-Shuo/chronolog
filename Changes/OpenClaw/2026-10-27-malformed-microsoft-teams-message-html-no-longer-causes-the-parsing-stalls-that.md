@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5ba4f833ffe6e46e14ec160ba3e312a860e761544bf2c027691085c5632e9290
+machine_hash: 4ba3520f0fa84eb8a9ca3121fcccc85ff6710bb146bc012105e0db0c0e4fb2df
 product: openclaw
 product_name: OpenClaw
 record:
@@ -42,9 +42,10 @@ record:
   title: Malformed Microsoft Teams message HTML no longer causes the parsing stalls…
   type: change
 related_changes:
-- '[[Changes/Replit/2026-10-23-chat-and-asset-sharing|Chat and asset sharing]]'
 - '[[Changes/Windsurf/2026-10-26-ide-mode-now-offers-devin-cloud-whenever-your-account-has-cloud-access-the-same|IDE
   mode now offers Devin Cloud whenever your account has Cloud access, the same…]]'
+- '[[Changes/Krea/2026-10-27-share-nodes-projects-with-your-organization|Share Nodes
+  projects with your organization]]'
 - '[[Changes/Microsoft 365 Copilot/2026-10-27-use-copilot-chat-after-a-call-in-queues-app-windows-mac-teams|Use
   Copilot Chat after a call in Queues app Windows, Mac (Teams)]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-10-27-v2026-10-8-9d674f40|openclaw-2026-10-27-v2026-10-8-9d674f40]]'

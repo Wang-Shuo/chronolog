@@ -4,20 +4,20 @@ date: '2025-10-07'
 description: 'Gemini CLI · 2025-10-07 · Accessibility and Localization: Reapply "feat(accessibility):
   implement centralized screen reader layout by @chrstnb in…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-09-11-chatgpt-now-supports-a-limited-selection-of-languages-in-the-interface|ChatGPT
-    now supports a limited selection of languages in the interface]]'
+  first_in_tracked: '[[Changes/Raycast/2020-11-19-improved-searching-for-localized-application-and-preference-names|Improved
+    searching for localized application and preference names]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 757
+  lag_days: 1783
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: accessibility-localization
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b71c144ba172fce123e90c7a2eddaff3dc9a54fe46bd798d0e380542b28a864f
+machine_hash: a92449050cac1921a8be1e898785a8688a8c630fc731ffb951d2d73b0f43ebc4
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -93,7 +93,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-11 · ChatGPT · [[Changes/ChatGPT/2023-09-11-chatgpt-now-supports-a-limited-selection-of-languages-in-the-interface|ChatGPT now supports a limited selection of languages in the interface]]
+- Earliest same-theme entry in the tracked set: 2020-11-19 · Raycast · [[Changes/Raycast/2020-11-19-improved-searching-for-localized-application-and-preference-names|Improved searching for localized application and preference names]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

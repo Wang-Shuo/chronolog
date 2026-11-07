@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 959c30bc77367b5268d7ac21a14a738841908a2962022e07b9536a000d802723
+machine_hash: bc0a8ed3c737a9898cbb132d37f54897f19bbebd48f12472a99a5723c41c66e2
 product: dify
 product_name: Dify
 record:
@@ -52,10 +52,10 @@ record:
   title: 5 Model Support changes in 0.6.6
   type: change
 related_changes:
-- '[[Changes/Dify/2024-04-25-6-model-support-changes-in-0-6-5|6 Model Support changes
-  in 0.6.5]]'
 - '[[Changes/Ollama/2024-04-28-6-model-support-changes-in-v0-1-33|6 Model Support
   changes in v0.1.33]]'
+- '[[Changes/Superwhisper/2024-04-30-add-support-for-ollama-unlocks-using-all-latest-offline-ai-models-llama-8b-phi-3|Add
+  support for Ollama, unlocks using all latest offline AI models (Llama 8b, Phi-3)]]'
 - '[[Changes/Aider/2024-05-02-switch-models-during-the-chat-with-model-name-and-search-the-list-of-available-m|Switch
   models during the chat with /model name and search the list of available…]]'
 source_release: '[[Releases/Dify/dify-2024-05-02-0-6-6-github-153776816-f9d55236|dify-2024-05-02-0-6-6-github-153776816-f9d55236]]'

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2748148adb1b91d31fa520ebdd822a8b5aced514eb602410f83c247e60b57bf4
+machine_hash: 5c94a88300116bdbed13a1943a39bab25d36d05c711d2d089895e4f272c630c0
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -92,7 +92,7 @@ type: change
 ## Nearby in Files and Data
 
 - Earlier: 2026-09-25 · Claude Code · [[Changes/Claude Code/2026-09-25-improved-prompt-audit-on-claude-code-configuration-stale-paths-stale-commands-an|Improved prompt-audit on Claude Code configuration]]
-- Later: 2026-09-29 · Synthesia · [[Changes/Synthesia/2026-09-29-bring-webp-files-straight-into-the-editor-use-still-or-animated-webp-on-the-canv|Upload WebP images to your videos]]
+- Later: 2026-09-25 · Devin · [[Changes/Devin/2026-09-25-slack-canvas-and-user-group-permissions|Slack: Canvas and User-Group Permissions]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

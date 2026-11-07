@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2a1e64d4c34e4c27f5bf4e6eeb8026f37c17f1e0c31f0ac090c1a02d6ff91b3f
+machine_hash: c4c311000fe8ad87c64fe78edb10e0fcf7a71e8c9ccc86ece6ba42aa22893d38
 product: dify
 product_name: Dify
 record:
@@ -44,8 +44,8 @@ record:
   title: '**Improved Housekeeping Command**'
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-06-05-added-support-on-windows-without-wsl-by-neubig-in-https-github-com-all-hands-ai|Added
-  support on windows without WSL]]'
+- '[[Changes/AnythingLLM/2025-06-10-warn-bad-docker-command-by-timothycarambat-in-https-github-com-mintplex-labs-any|Warn
+  bad docker command]]'
 - '[[Changes/Windsurf/2025-06-10-theme-aware-codeblocks-with-refreshed-design|Theme-aware
   codeblocks with refreshed design]]'
 - '[[Changes/Windsurf/2025-06-10-terminal-improvements|Terminal Improvements]]'
@@ -88,7 +88,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2025-06-10 · Windsurf · [[Changes/Windsurf/2025-06-10-terminal-improvements|Terminal Improvements]]
-- Later: 2025-06-16 · Dify · [[Changes/Dify/2025-06-16-keep-those-pull-requests-coming-as-we-aim-to-make-your-user-experience-as-seamle|Keep those pull requests coming as we aim to make your user experience as seamless…]]
+- Later: 2025-06-11 · Raycast · [[Changes/Raycast/2025-06-11-spotlight-added-new-replace-spotlight-with-raycast-command-for-a-smoother-transi|Spotlight: Added new “Replace Spotlight with Raycast” command for a smoother…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

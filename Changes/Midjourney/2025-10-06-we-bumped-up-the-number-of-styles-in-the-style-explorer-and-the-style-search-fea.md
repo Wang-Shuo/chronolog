@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6e308eea20ed8e60456e1029fb2deb8f1ac7ba49b12311a967f447b6864121e5
+machine_hash: 22307ad1cb7eeb1d33c8478a1efbb258b9b9cdfe3950abcc135dc50bc8e4547b
 product: midjourney
 product_name: Midjourney
 record:
@@ -93,7 +93,7 @@ type: change
 ## Nearby in Multimodal Input
 
 - Earlier: 2025-09-26 · Synthesia · [[Changes/Synthesia/2025-09-26-time-for-the-next-chapter-in-our-story-synthesia-3-0-on-october-1st-our-ceo-vict|Synthesia 3.0: you're invited]]
-- Later: 2025-10-14 · Descript · [[Changes/Descript/2025-10-14-changing-camera-angles|Changing camera angles]]
+- Later: 2025-10-09 · AnythingLLM · [[Changes/AnythingLLM/2025-10-09-video-src-https-github-com-user-attachments-assets-fbbfab37-e1b0-442b-b7d4-277aa|video…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

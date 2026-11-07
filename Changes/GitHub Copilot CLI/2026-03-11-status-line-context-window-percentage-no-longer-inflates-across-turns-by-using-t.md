@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2a08b709e3f37e1f585d8eedc5b76cb1ed3d2f3ae2953b895dd1fc1022ae57fd
+machine_hash: 65b32e1bb1652d42c090ee60d560298615af8a3afd8d5e3d29097c0dac63fa62
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -101,7 +101,7 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2026-03-11 · Gemini CLI · [[Changes/Gemini CLI/2026-03-11-feat-cli-invert-context-window-display-to-show-usage-by-keithguerin-in-https-git|feat(cli): invert context window display to show usage]]
-- Later: 2026-03-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-13-add-precompact-hook-to-run-commands-before-context-compaction-starts|Add preCompact hook to run commands before context compaction starts]]
+- Later: 2026-03-12 · Superwhisper · [[Changes/Superwhisper/2026-03-12-added-mode-activation-to-mode-card-context-menu|Added mode activation to mode card context menu]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

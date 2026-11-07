@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 271974f9061f15519ddd780bf0925deaa3b6205d5d9f7864b5175b378aabb06a
+machine_hash: cfa5adfb8877079a690eff9aaa0cfd62d5886bce45f15bc486b6ccad9b47ab84
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,12 @@ record:
   title: 2 Editor Experience changes in v2.1.257
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-08-28-fewer-preview-reloads-while-you-edit|Fewer preview
-  reloads while you edit]]'
 - '[[Changes/v0/2026-08-28-2-editor-experience-changes-in-gpt-5-6-sol-sign-in-inside-previews|2
   Editor Experience changes in GPT-5.6 Sol, sign-in inside previews…]]'
 - "[[Changes/Open WebUI/2026-08-31-chat-branches-stay-connected-after-reloads-a-reply-saved-under-an-earlier-messag|\U0001F4A5
   Chat branches stay connected after reloads. A reply saved under an earlier…]]"
+- '[[Changes/Raycast/2026-08-31-notes-choose-a-custom-editor-text-size-from-12-to-32-pt-or-keep-following-your-d|Notes
+  : Choose a custom editor text size from 12 to 32 pt, or keep following…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-01-v2-1-257-github-380686035-b86855a6|claude-code-2026-09-01-v2-1-257-github-380686035-b86855a6]]'
 source_type: github_releases
 theme: editor-experience
@@ -92,7 +92,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.257
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-08-31 · Open WebUI · [[Changes/Open WebUI/2026-08-31-chat-branches-stay-connected-after-reloads-a-reply-saved-under-an-earlier-messag|💥 Chat branches stay connected after reloads. A reply saved under an earlier…]]
+- Earlier: 2026-08-31 · Raycast · [[Changes/Raycast/2026-08-31-notes-choose-a-custom-editor-text-size-from-12-to-32-pt-or-keep-following-your-d|Notes : Choose a custom editor text size from 12 to 32 pt, or keep following…]]
 - Later: 2026-09-01 · OpenClaw · [[Changes/OpenClaw/2026-09-01-5-editor-experience-changes-in-v2026-8-2|5 Editor Experience changes in v2026.8.2]]
 <!-- chronolog:end -->
 

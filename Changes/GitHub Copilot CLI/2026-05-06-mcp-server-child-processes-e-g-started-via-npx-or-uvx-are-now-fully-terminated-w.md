@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: fb71bd62d9d49b94d520077c399e3c241f9d1edb883eb7e6fcaa81383ba6b137
+machine_hash: 461ed671e581a24f5c461d82c0d82e984c7a4f8e36e453a3e22e04f793631ce3
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,12 +43,11 @@ record:
   title: MCP server child processes (e.g. started via npx or uvx) are now fully terminated…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-05-2-apps-and-integrations-changes-in-v1-0-41|2
-  Apps and Integrations changes in v1.0.41]]'
 - '[[Changes/Claude Code/2026-05-06-added-claude-code-session-id-environment-variable-to-the-bash-tool-subprocess-en|Added
   CLAUDE_CODE_SESSION_ID environment variable to the Bash tool subprocess…]]'
 - '[[Changes/Claude Code/2026-05-06-3-apps-and-integrations-changes-in-v2-1-129|3
   Apps and Integrations changes in v2.1.129]]'
+- '[[Changes/Devin/2026-05-06-slack-tool-use-in-worklog|Slack Tool Use in Worklog]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-05-06-v1-0-43-github-318656242-c81efbcc|github-copilot-cli-2026-05-06-v1-0-43-github-318656242-c81efbcc]]'
 source_type: github_releases
 theme: apps-integrations
@@ -80,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-05-06 · Claude Code · [[Changes/Claude Code/2026-05-06-3-apps-and-integrations-changes-in-v2-1-129|3 Apps and Integrations changes in v2.1.129]]
+- Earlier: 2026-05-06 · Devin · [[Changes/Devin/2026-05-06-slack-tool-use-in-worklog|Slack Tool Use in Worklog]]
 - Later: 2026-05-06 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-06-2-apps-and-integrations-changes-in-v1-0-42|2 Apps and Integrations changes in v1.0.42]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: da3a8276d0588d00e92d3c702766baadc2ef5db516c3d1ad0373a493043625e1
+machine_hash: c19bb508653316051663ed910f9f55f603aa47c8aa5001d303f8c7368a62180e
 product: gemini
 product_name: Gemini
 record:
@@ -88,7 +88,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2024-02-20 · Descript · [[Changes/Descript/2024-02-20-speaker-labeling-updates|Speaker Labeling Updates]]
-- Later: 2024-02-23 · Descript · [[Changes/Descript/2024-02-23-reverts-changes-to-the-selection-toolbar|Reverts changes to the selection toolbar]]
+- Later: 2024-02-21 · Raycast · [[Changes/Raycast/2024-02-21-search-menu-items-you-can-now-pin-menu-items|Search Menu Items: You can now pin menu items]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

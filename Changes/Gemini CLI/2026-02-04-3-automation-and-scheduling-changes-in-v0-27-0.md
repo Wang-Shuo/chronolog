@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: cc6700d6052343d540da918fe1f0a2b5e9cbe42f77fbca5e858d85476093d709
+machine_hash: f8077205d6f56a1a1f3e89435b06aadf6dea9ea424e4df99da687d5b029a1b95
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -47,12 +47,11 @@ record:
   title: 3 Automation and Scheduling changes in v0.27.0
   type: change
 related_changes:
-- '[[Changes/Replit/2026-01-23-web-search-in-agent-automations|Web search in Agent
-  automations]]'
 - '[[Changes/Suno/2026-01-27-sounds-is-a-new-create-mode-that-lets-you-create-individual-one-shot-samples-and|Sounds
   is a new Create mode that lets you create individual one-shot samples…]]'
 - '[[Changes/Gemini CLI/2026-01-28-12-automation-and-scheduling-changes-in-v0-26-0|12
   Automation and Scheduling changes in v0.26.0]]'
+- '[[Changes/Devin/2026-02-03-scheduled-devins|Scheduled Devins]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-02-04-v0-27-0-github-282779403-9d866835|gemini-cli-2026-02-04-v0-27-0-github-282779403-9d866835]]'
 source_type: github_releases
 theme: automation-scheduling
@@ -94,8 +93,8 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.27.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2026-01-28 · Gemini CLI · [[Changes/Gemini CLI/2026-01-28-12-automation-and-scheduling-changes-in-v0-26-0|12 Automation and Scheduling changes in v0.26.0]]
-- Later: 2026-02-10 · Gemini CLI · [[Changes/Gemini CLI/2026-02-10-feat-core-add-setting-to-disable-loop-detection-by-sandytao520-in-https-github-c|feat(core): add setting to disable loop detection]]
+- Earlier: 2026-02-03 · Devin · [[Changes/Devin/2026-02-03-scheduled-devins|Scheduled Devins]]
+- Later: 2026-02-06 · Devin · [[Changes/Devin/2026-02-06-schedule-from-the-input-box|Schedule from the Input Box]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

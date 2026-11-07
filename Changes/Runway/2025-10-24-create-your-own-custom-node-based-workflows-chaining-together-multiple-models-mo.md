@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 74e70ce5729899c887d1bfaa09b8dd3e176ebaa258a9b05572214176b0287f00
+machine_hash: df4bafc106d248b804f739a2c285f42c8e45dfd27f5b696f35e632015b859799
 product: runway
 product_name: Runway
 record:
@@ -78,7 +78,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2025-10-24 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-10-24-improved-prompting-for-sonnet-4-5-to-reduce-the-number-of-intermediate-markdown|Improved prompting for Sonnet 4.5 to reduce the number of intermediate markdown…]]
-- Later: 2025-10-27 · Cline · [[Changes/Cline/2025-10-27-3-model-support-changes-in-v3-34-1|3 Model Support changes in v3.34.1]]
+- Later: 2025-10-24 · Superwhisper · [[Changes/Superwhisper/2025-10-24-3-model-support-changes-in-superwhisper-macos-2-6-3|3 Model Support changes in Superwhisper macOS 2.6.3]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

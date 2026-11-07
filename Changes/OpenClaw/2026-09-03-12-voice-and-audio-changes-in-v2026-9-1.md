@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 361ee6b8e17a72355e0a17a331961db2f2a9792e968a9fa642efb76876566342
+machine_hash: caed9f4f35f5ee5d0d911280bd9ea441883aae1fc6959a1f7638625dcd64919b
 product: openclaw
 product_name: OpenClaw
 record:
@@ -201,7 +201,7 @@ Source: https://docs.openclaw.ai/releases/2026.9.1
 ## Nearby in Voice and Audio
 
 - Earlier: 2026-09-03 · Codex CLI · [[Changes/Codex CLI/2026-09-03-5-voice-and-audio-changes-in-rust-v0-153-0|5 Voice and Audio changes in rust-v0.153.0]]
-- Later: 2026-09-04 · HeyGen · [[Changes/HeyGen/2026-09-04-template-controls|Template controls]]
+- Later: 2026-09-03 · Superwhisper · [[Changes/Superwhisper/2026-09-03-your-clipboard-contents-are-now-preserved-after-dictation-by-default|Your clipboard contents are now preserved after dictation by default]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

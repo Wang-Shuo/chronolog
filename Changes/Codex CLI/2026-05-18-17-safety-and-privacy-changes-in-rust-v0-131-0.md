@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f8ad508e8a14500b01664fe99a0ac04f9654ea128159b9b46317778871a62c96
+machine_hash: 083cad1783cd135c4a7d2581e78fcf93bec9d97c5b59643ccfaa087efa80f105
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -76,12 +76,10 @@ record:
   title: 17 Safety and Privacy changes in rust-v0.131.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-14-added-new-claude-agents-flags-add-dir-settings-mcp-config-plugin-dir-permission|Added
-  new claude agents flags]]'
-- '[[Changes/Claude Code/2026-05-15-3-safety-and-privacy-changes-in-v2-1-143|3 Safety
-  and Privacy changes in v2.1.143]]'
 - '[[Changes/v0/2026-05-15-added-docs-for-the-project-sandbox-terminal-commands-and-permission-modes|Added
   docs for the project sandbox , terminal commands , and permission modes]]'
+- '[[Changes/Devin/2026-05-17-miscellaneous-improvements|Miscellaneous Improvements]]'
+- '[[Changes/Devin/2026-05-17-slack-security-hardening|Slack Security Hardening]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-05-18-rust-v0-131-0-github-324452638-5f16ff1d|codex-cli-2026-05-18-rust-v0-131-0-github-324452638-5f16ff1d]]'
 source_type: github_releases
 theme: safety-privacy
@@ -155,7 +153,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.131.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-05-15 · v0 · [[Changes/v0/2026-05-15-added-docs-for-the-project-sandbox-terminal-commands-and-permission-modes|Added docs for the project sandbox , terminal commands , and permission modes]]
+- Earlier: 2026-05-17 · Devin · [[Changes/Devin/2026-05-17-slack-security-hardening|Slack Security Hardening]]
 - Later: 2026-05-18 · Lovable · [[Changes/Lovable/2026-05-18-wiz-security-scanning|Wiz security scanning]]
 <!-- chronolog:end -->
 

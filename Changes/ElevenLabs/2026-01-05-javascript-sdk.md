@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: cb6f196e30b93e841377209e3470606e1437658833bc8729fa009e9799f79e15
+machine_hash: 9db9e1c8ce363d7da4cba6229eceabd600de2c5cb9ab9689cbd3e5af5fba79b2
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -93,7 +93,7 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2025-12-25 · Dify · [[Changes/Dify/2025-12-25-refactor-split-changes-for-api-controllers-web-audio-py-by-asukaminato0721-in-ht|refactor: split changes for api/controllers/web/audio.py]]
-- Later: 2026-01-07 · OpenCode · [[Changes/OpenCode/2026-01-07-desktop-add-audio-input-and-camera-permissions-to-entitlements|Desktop Add audio input and camera permissions to entitlements]]
+- Later: 2026-01-05 · Superwhisper · [[Changes/Superwhisper/2026-01-05-improved-empty-transcription-handling|Improved empty transcription handling]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

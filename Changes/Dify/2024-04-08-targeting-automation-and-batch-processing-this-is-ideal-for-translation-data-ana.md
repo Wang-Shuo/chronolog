@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4aa10d840ad10b479d2b0129f63da5fb00d6dc989e082a307a082c00b099d901
+machine_hash: bf53f6e363933e60d05efdd8e2417b8327b3f0e9fe124a41903aff0ba3ae6357
 product: dify
 product_name: Dify
 record:
@@ -53,12 +53,12 @@ record:
   title: Targeting Automation and Batch Processing
   type: change
 related_changes:
-- '[[Changes/Dify/2024-01-19-as-per-the-planned-schedule-these-deprecated-envs-are-being-removed|As
-  per the planned schedule, these deprecated envs are being removed]]'
-- '[[Changes/Notion/2024-02-26-automate-with-database-buttons|Automate with database
-  buttons]]'
+- '[[Changes/Raycast/2024-03-07-my-schedule-show-the-conference-provider-icon-in-the-event-item|My
+  Schedule: Show the conference provider icon in the event item]]'
 - '[[Changes/Midjourney/2024-03-13-hey-everyone-here-we-need-to-halt-our-free-gpu-rewards-for-image-ranking-until-f|Hey
   @everyone @here we need to halt our free-gpu rewards for image-ranking until…]]'
+- '[[Changes/Raycast/2024-03-20-my-schedule-add-action-to-list-and-copy-information-about-specific-attendees|My
+  Schedule: Add action to list and copy information about specific attendees]]'
 source_release: '[[Releases/Dify/dify-2024-04-08-0-6-0-github-150191925-0ce534e4|dify-2024-04-08-0-6-0-github-150191925-0ce534e4]]'
 source_type: github_releases
 theme: automation-scheduling
@@ -95,7 +95,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2024-03-13 · Midjourney · [[Changes/Midjourney/2024-03-13-hey-everyone-here-we-need-to-halt-our-free-gpu-rewards-for-image-ranking-until-f|Hey @everyone @here we need to halt our free-gpu rewards for image-ranking until…]]
+- Earlier: 2024-03-20 · Raycast · [[Changes/Raycast/2024-03-20-my-schedule-add-action-to-list-and-copy-information-about-specific-attendees|My Schedule: Add action to list and copy information about specific attendees]]
 - Later: 2024-04-30 · Notion · [[Changes/Notion/2024-04-30-automate-notifications-for-projects|Automate notifications for projects]]
 <!-- chronolog:end -->
 

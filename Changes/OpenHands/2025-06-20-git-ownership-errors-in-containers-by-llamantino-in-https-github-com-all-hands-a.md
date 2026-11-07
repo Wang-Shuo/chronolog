@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e715bd519f934730ba2b22e16f53f9720f1eb5b97ba6e62a22e1e11d7fdfc9e1
+machine_hash: 97d750de1469a6cd04c4cdb45b84c11efffa80cb17af76f1fe1ea2bec5b0cddb
 product: openhands
 product_name: OpenHands
 record:
@@ -43,10 +43,10 @@ record:
   title: '**Git Ownership Errors** in containers'
   type: change
 related_changes:
-- '[[Changes/Dify/2025-06-11-improved-housekeeping-command-now-preserves-avatar-images-and-app-icons-correctl|Improved
-  Housekeeping Command]]'
 - '[[Changes/Dify/2025-06-16-keep-those-pull-requests-coming-as-we-aim-to-make-your-user-experience-as-seamle|Keep
   those pull requests coming as we aim to make your user experience as seamless…]]'
+- '[[Changes/Raycast/2025-06-17-misc-added-command-to-open-last-note|Misc: Added command
+  to Open Last Note]]'
 - '[[Changes/Midjourney/2025-06-18-what-s-that-basically-imagine-an-ai-system-that-generates-imagery-in-real-time-y|What’s
   that? Basically; imagine an AI system that generates imagery in real-time]]'
 source_release: '[[Releases/OpenHands/openhands-2025-06-20-0-45-0-github-226789367-b83ab16d|openhands-2025-06-20-0-45-0-github-226789367-b83ab16d]]'

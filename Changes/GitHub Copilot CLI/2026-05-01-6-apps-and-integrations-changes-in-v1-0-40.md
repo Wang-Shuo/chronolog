@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5fd9b17be883a650cb367a071ffd55c8687f2c2d1b158afbd3e1f1d9a875990c
+machine_hash: b8786a198054c5660e7af614bdd1c3889b7cbadfbc080311eecf5479d72250bf
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -57,12 +57,10 @@ record:
   title: 6 Apps and Integrations changes in v1.0.40
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-04-29-run-npm-install-cursor-sdk-to-get-started-you-can-also-use-cursor-s-native-sdk-s-76fb76|Run
-  npm install @cursor/sdk to get started]]'
-- '[[Changes/Dify/2026-04-29-48-apps-and-integrations-changes-in-1-14-0|48 Apps and
-  Integrations changes in 1.14.0]]'
 - '[[Changes/Codex CLI/2026-04-30-37-apps-and-integrations-changes-in-rust-v0-128-0|37
   Apps and Integrations changes in rust-v0.128.0]]'
+- '[[Changes/Devin/2026-05-01-session-origin-in-api|Session Origin in API]]'
+- '[[Changes/Devin/2026-05-01-jira-project-mapping-redesign|Jira Project Mapping Redesign]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-05-01-v1-0-40-github-316385532-9c4aec71|github-copilot-cli-2026-05-01-v1-0-40-github-316385532-9c4aec71]]'
 source_type: github_releases
 theme: apps-integrations
@@ -113,7 +111,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.40
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-04-30 · Codex CLI · [[Changes/Codex CLI/2026-04-30-37-apps-and-integrations-changes-in-rust-v0-128-0|37 Apps and Integrations changes in rust-v0.128.0]]
+- Earlier: 2026-05-01 · Devin · [[Changes/Devin/2026-05-01-jira-project-mapping-redesign|Jira Project Mapping Redesign]]
 - Later: 2026-05-01 · Notion · [[Changes/Notion/2026-05-01-custom-agents-can-now-read-and-reply-in-private-slack-channels-get-started-from|Add Custom Agents to private Slack channels]]
 <!-- chronolog:end -->
 

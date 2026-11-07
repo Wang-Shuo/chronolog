@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b7b5493eec790af4269a99005bb3abc37485a8ab482fc5ad3f994022252b6120
+machine_hash: 6d94a7ff325b9da5106f68c34973068ba5c63613227d0d1a9d5151b7289faee0
 product: opencode
 product_name: OpenCode
 record:
@@ -83,7 +83,7 @@ Source: https://opencode.ai/changelog/v1.18.10
 ## Nearby in Editor Experience
 
 - Earlier: 2026-07-30 · Lovable · [[Changes/Lovable/2026-07-30-change-the-owner-of-several-projects-at-once|Change the owner of several projects at once]]
-- Later: 2026-08-01 · OpenCode · [[Changes/OpenCode/2026-08-01-2-editor-experience-changes-in-v1-18-11|2 Editor Experience changes in v1.18.11]]
+- Later: 2026-07-31 · Devin · [[Changes/Devin/2026-07-31-redesigned-changes-tab|Redesigned Changes Tab]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

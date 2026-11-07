@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8c93cd5a62d769247acbde252edfcda6dc284a893599010e65a0ccfe25c23e65
+machine_hash: fd3f6da43f285de86d01fd07d1c38020f76eb7ff6d4e47c0bef2c7618785fe4b
 product: gemini-cli
 product_name: Gemini CLI
 record:

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 80c11392b6e9192147cffe5613dae3ff343f6fe2d4c413993f8d5ddd59ab0b14
+machine_hash: 4d9ab17cff6e54803f7fbfcc6d2ecbc3ec4368c739543c9222835af352040ea5
 product: ollama
 product_name: Ollama
 record:
@@ -56,12 +56,11 @@ record:
     context…'
   type: change
 related_changes:
-- '[[Changes/Cline/2026-10-26-auto-compaction-no-longer-runs-for-models-with-an-unknown-context-limit-and-it-n|Auto-compaction
-  no longer runs for models with an unknown context limit, and it no…]]'
-- '[[Changes/Claude Code/2026-10-27-changed-a-subagent-s-autocompactwindow-to-lower-the-window-set-by-claude-code-au|Changed
-  a subagent''s autoCompactWindow to lower the window set…]]'
 - '[[Changes/Codex CLI/2026-10-27-2-context-window-changes-in-rust-v0-165-0|2 Context
   Window changes in rust-v0.165.0]]'
+- '[[Changes/Krea/2026-10-27-api-usage-page|API Usage page]]'
+- '[[Changes/Krea/2026-10-27-personal-and-service-api-tokens|Personal and service
+  API tokens]]'
 source_release: '[[Releases/Ollama/ollama-2026-10-27-v0-40-12-github-424898500-14e64d40|ollama-2026-10-27-v0-40-12-github-424898500-14e64d40]]'
 source_type: github_releases
 theme: context-window
@@ -93,7 +92,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-10-27 · Codex CLI · [[Changes/Codex CLI/2026-10-27-2-context-window-changes-in-rust-v0-165-0|2 Context Window changes in rust-v0.165.0]]
+- Earlier: 2026-10-27 · Krea · [[Changes/Krea/2026-10-27-personal-and-service-api-tokens|Personal and service API tokens]]
 - Later: 2026-10-27 · OpenCode · [[Changes/OpenCode/2026-10-27-3-context-window-changes-in-v2-2-0|3 Context Window changes in v2.2.0]]
 <!-- chronolog:end -->
 

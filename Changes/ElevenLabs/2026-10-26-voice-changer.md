@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: e81cca31b62e693281ca339933fac350f84483a17d202607ac24258d4cced631
+machine_hash: 623df8ebe90bfb6125f593dbc71410c3ec3e63cf9b750223977a6273d42f7d9f
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -101,8 +101,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-10-25 · Open WebUI · [[Changes/Open WebUI/2026-10-25-4-voice-and-audio-changes-in-v0-12-4|4 Voice and Audio changes in v0.12.4]]
-- Later: 2026-10-27 · Ollama · [[Changes/Ollama/2026-10-27-3-voice-and-audio-changes-in-v0-40-12|3 Voice and Audio changes in v0.40.12]]
+- Earlier: 2026-10-26 · AnythingLLM · [[Changes/AnythingLLM/2026-10-26-support-mov-files-for-transcription-by-shatfield4-in-https-github-com-mintplex-l|Support .mov files for transcription]]
+- Later: 2026-10-26 · Superwhisper · [[Changes/Superwhisper/2026-10-26-resolve-spoken-self-corrections-in-message-preset|Resolve spoken self-corrections in Message preset]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

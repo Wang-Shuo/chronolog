@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b51e8beaae4a69da858acb687cbaa760251e9d31d1f5edf9279e8f474c882ec9
+machine_hash: 233c123e67b9f2b5fa7322a19d4d36f02271ae618c031114fae48ea705a1349e
 product: open-webui
 product_name: Open WebUI
 record:
@@ -50,10 +50,10 @@ record:
   title: 3 Model Support changes in v0.3.34
   type: change
 related_changes:
-- '[[Changes/Dify/2024-10-23-6-model-support-changes-in-0-10-1|6 Model Support changes
-  in 0.10.1]]'
 - '[[Changes/Open WebUI/2024-10-24-2-model-support-changes-in-v0-3-33|2 Model Support
   changes in v0.3.33]]'
+- '[[Changes/AnythingLLM/2024-10-25-3-model-support-changes-in-v1-2-4|3 Model Support
+  changes in v1.2.4]]'
 - "[[Changes/Open WebUI/2024-10-26-merged-response-loss-in-multi-model-chats-addressed-an-issue-where-responses-in|\U0001F517
   Merged Response Loss in Multi-Model Chats]]"
 source_release: '[[Releases/Open WebUI/open-webui-2024-10-26-v0-3-34-github-182069894-6839b1c4|open-webui-2024-10-26-v0-3-34-github-182069894-6839b1c4]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 31ef1e127517d0148c1c67308f96132aa445e18610cf2f0302a136bd390be096
+machine_hash: addc141d7f1639da2013dfb90416e596673a83808e6768b04b6dbd90c3a6f352
 product: aider
 product_name: Aider
 record:
@@ -50,10 +50,10 @@ record:
   title: 5 Model Support changes in v0.85.0
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-06-24-2-model-support-changes-in-0-46-0|2 Model Support
-  changes in 0.46.0]]'
 - '[[Changes/Dify/2025-06-25-2-model-support-changes-in-1-5-0|2 Model Support changes
   in 1.5.0]]'
+- '[[Changes/LM Studio/2025-06-25-2-model-support-changes-in-lm-studio-0-3-17|2 Model
+  Support changes in LM Studio 0.3.17]]'
 - '[[Changes/Cline/2025-06-26-3-model-support-changes-in-v3-18-0|3 Model Support changes
   in v3.18.0]]'
 source_release: '[[Releases/Aider/aider-2025-06-27-v0-85-0-github-228491827-20a4ecc7|aider-2025-06-27-v0-85-0-github-228491827-20a4ecc7]]'

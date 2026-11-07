@@ -12,12 +12,12 @@ diffusion:
   role: first-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d15c993679afd4dc130fe95e2d94340ccddc7d8e92de16282b34304140f9a59e
+machine_hash: f35ed2514d39f2763fcc57f6648b5608327d956e3bc084f4af7a7913dbb4b254
 product: descript
 product_name: Descript
 record:
@@ -73,7 +73,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry among the 37 tracked products.
+- Earliest same-theme entry among the 45 tracked products.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

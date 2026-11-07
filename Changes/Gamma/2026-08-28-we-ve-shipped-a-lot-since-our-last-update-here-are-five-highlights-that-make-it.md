@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: decd2bd965fc7edfebed496cc6f069f81c071581f1aef5a030266fe97fd5f551
+machine_hash: ad613cb4b320c3e79e8f0aec04cdcb622094c2ef31cc980d387f8c09189b1e5c
 product: gamma
 product_name: Gamma
 record:
@@ -46,10 +46,10 @@ record:
   title: We’ve shipped a lot since our last update
   type: change
 related_changes:
-- '[[Changes/Dify/2026-08-25-5-collaboration-changes-in-1-17-0|5 Collaboration changes
-  in 1.17.0]]'
-- '[[Changes/Open WebUI/2026-08-25-6-collaboration-changes-in-v0-11-1|6 Collaboration
-  changes in v0.11.1]]'
+- '[[Changes/Devin/2026-08-26-allow-prs-to-be-opened-by-session-participants-configuration|Allow
+  PRs to Be Opened by Session Participants Configuration]]'
+- '[[Changes/AnythingLLM/2026-08-27-2-collaboration-changes-in-v1-16-1|2 Collaboration
+  changes in v1.16.1]]'
 - '[[Changes/Qoder/2026-08-27-an-ecosystem-that-connects-with-70-plugins-20-000-skills-and-40-connectors-qoder|An
   ecosystem that connects]]'
 source_release: '[[Releases/Gamma/gamma-2026-08-28-6a91d076c7db3a7f05cc7f12-5820041f|gamma-2026-08-28-6a91d076c7db3a7f05cc7f12-5820041f]]'

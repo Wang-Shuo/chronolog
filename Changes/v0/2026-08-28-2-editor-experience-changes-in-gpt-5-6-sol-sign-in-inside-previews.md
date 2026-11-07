@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a70962527d3f2c2e9f6e66ef7f61f67ed11682d06c54b29e737f5d34ea6fc942
+machine_hash: 925377b5f776ba66e488e2aa588b5c0d415fbea56e07a5accdee2438300f43e9
 product: v0
 product_name: v0
 record:
@@ -43,8 +43,8 @@ record:
   title: 2 Editor Experience changes in GPT-5.6 Sol, sign-in inside previews…
   type: change
 related_changes:
-- '[[Changes/Midjourney/2026-08-27-click-the-edit-tab-on-the-left-and-upload-an-image|Click
-  the ‘edit’ tab on the left and upload an image]]'
+- '[[Changes/Devin/2026-08-28-code-scan-validation-severities|Code Scan Validation
+  Severities]]'
 - '[[Changes/Gamma/2026-08-28-keep-charts-synced-with-google-sheets|Keep charts synced
   with Google Sheets]]'
 - '[[Changes/Lovable/2026-08-28-fewer-preview-reloads-while-you-edit|Fewer preview

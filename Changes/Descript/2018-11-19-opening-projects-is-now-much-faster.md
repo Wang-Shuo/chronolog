@@ -12,12 +12,12 @@ diffusion:
   role: first-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 30f4a8f872959fa21f5a9e80be9e1d30a951cc7a1d4845338090705dc2ac99bc
+machine_hash: 2d561220289a85968b89d44966f5db333289d3b20c0f978a621c97095d5dcd90
 product: descript
 product_name: Descript
 record:
@@ -71,7 +71,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry among the 37 tracked products.
+- Earliest same-theme entry among the 45 tracked products.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

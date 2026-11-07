@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1c193f709b169bc2aaa279bdcd62493bf6a7684c2ca0631c65e0e2733a6897c7
+machine_hash: 57e0804bdb6e803ab283065e38af2df97d4c7ca9dd1e138b074d2e5bdc63c6dc
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,9 +45,9 @@ record:
   title: Improved MCP error messages
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-07-02-connectors-page-in-projects|Connectors page in projects]]'
-- '[[Changes/Lovable/2026-07-02-app-connector-wordpress-self-hosted|App connector:
-  WordPress (self-hosted)]]'
+- '[[Changes/Devin/2026-07-03-mcp-run-as-creator-warning|MCP Run-As-Creator Warning]]'
+- '[[Changes/Raycast/2026-07-03-store-added-ability-to-filter-by-extensions-which-have-ai-extensions|Store
+  : Added ability to filter by extensions which have AI extensions]]'
 - '[[Changes/Replit/2026-07-03-integrations|Integrations]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-06-v2-1-202-github-349856235-58e6d3e8|claude-code-2026-07-06-v2-1-202-github-349856235-58e6d3e8]]'
 source_type: github_releases

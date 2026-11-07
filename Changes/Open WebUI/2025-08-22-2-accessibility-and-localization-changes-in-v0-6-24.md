@@ -5,20 +5,20 @@ description: 'Open WebUI · 2025-08-22 · Accessibility and Localization: 2 chan
   in v0.6.24 — ♿ **High Contrast Mode in Chat Messages**: Implemented enhanced High
   Contrast…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-09-11-chatgpt-now-supports-a-limited-selection-of-languages-in-the-interface|ChatGPT
-    now supports a limited selection of languages in the interface]]'
+  first_in_tracked: '[[Changes/Raycast/2020-11-19-improved-searching-for-localized-application-and-preference-names|Improved
+    searching for localized application and preference names]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 711
+  lag_days: 1737
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: accessibility-localization
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 94a3478a3f94871cf829f65f3ce28e173dbd6e9511d1d2e9f51abdee8d8a9f8c
+machine_hash: b8776a91ed7216d2791cc4597c86539f800f7eadbe56451c8653123330771e00
 product: open-webui
 product_name: Open WebUI
 record:
@@ -94,7 +94,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.6.24
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-11 · ChatGPT · [[Changes/ChatGPT/2023-09-11-chatgpt-now-supports-a-limited-selection-of-languages-in-the-interface|ChatGPT now supports a limited selection of languages in the interface]]
+- Earliest same-theme entry in the tracked set: 2020-11-19 · Raycast · [[Changes/Raycast/2020-11-19-improved-searching-for-localized-application-and-preference-names|Improved searching for localized application and preference names]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

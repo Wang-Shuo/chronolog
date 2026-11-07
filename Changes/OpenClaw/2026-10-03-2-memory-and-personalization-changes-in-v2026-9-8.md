@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7839a396e56f53abe70de0161c85cce930ec9b1539d2f99f752731242643721e
+machine_hash: f2749d9c8a9ad45d76dcda154a521c03eb1abc979d7ca9ee8834c8b4ce7c046c
 product: openclaw
 product_name: OpenClaw
 record:
@@ -92,7 +92,7 @@ Source: https://docs.openclaw.ai/releases/2026.9.8
 ## Nearby in Memory and Personalization
 
 - Earlier: 2026-10-01 · Codex CLI · [[Changes/Codex CLI/2026-10-01-49000-isolate-the-memory-startup-metadata-test-from-git-enrichment-jif-oai|♯49000 Isolate the memory startup metadata test from Git enrichment @jif-oai]]
-- Later: 2026-10-07 · Codex CLI · [[Changes/Codex CLI/2026-10-07-49876-remove-personality-plumbing-from-the-tui-etraut-openai|♯49876 Remove personality plumbing from the TUI @etraut-openai]]
+- Later: 2026-10-05 · Raycast · [[Changes/Raycast/2026-10-05-file-search-the-file-indexer-uses-about-60-less-memory-when-it-updates-its-index|File Search : The file indexer uses about 60% less memory when it updates its index]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2fc812029b7c9a609a77321b8e2eb475985a0ab0e5cf7cc4d972f19220e6287d
+machine_hash: 6649a086773e89aec90cf07dea0a2d12b6f454f2d3d0c40b4d74d9aacae5b7d0
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -46,12 +46,10 @@ record:
   title: 3 Context Window changes in v0.1.18
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-08-02-3-context-window-changes-in-v0-1-16|3 Context Window
-  changes in v0.1.16]]'
-- '[[Changes/Gemini CLI/2025-08-05-3-context-window-changes-in-v0-1-17|3 Context Window
-  changes in v0.1.17]]'
 - '[[Changes/Cursor/2025-08-06-admin-api-for-blocklists-block-specific-files-or-directories-from-being-indexed|Admin
   API for blocklists]]'
+- '[[Changes/Devin/2025-08-06-linear-org-auto-switch|Linear Org Auto-Switch]]'
+- '[[Changes/Devin/2025-08-06-idp-groups-settings-page|IdP Groups Settings Page]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-08-06-v0-1-18-github-237823435-7c1f8990|gemini-cli-2025-08-06-v0-1-18-github-237823435-7c1f8990]]'
 source_type: github_releases
 theme: context-window
@@ -99,8 +97,8 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.1.18
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2025-08-06 · Cursor · [[Changes/Cursor/2025-08-06-admin-api-for-blocklists-block-specific-files-or-directories-from-being-indexed|Admin API for blocklists]]
-- Later: 2025-08-08 · Replit · [[Changes/Replit/2025-08-08-improved-filesystem-search|Improved filesystem search]]
+- Earlier: 2025-08-06 · Devin · [[Changes/Devin/2025-08-06-idp-groups-settings-page|IdP Groups Settings Page]]
+- Later: 2025-08-06 · LM Studio · [[Changes/LM Studio/2025-08-06-gpt-oss-openai-compat-api-remove-structural-tokens-etc-from-v1-chat-completions|gpt-oss OpenAI-compat API Remove structural tokens (, , etc...)…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

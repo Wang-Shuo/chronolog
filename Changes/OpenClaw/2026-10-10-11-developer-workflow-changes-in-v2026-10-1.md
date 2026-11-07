@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4ddbcaabdcb33223e543b79a33239a8bb365430b2333b2d5552d2f05956f181a
+machine_hash: d6a850d1629377b8d0d97afcc9fb7f268cce816e77e3bbe04c01dfa0a3502a1d
 product: openclaw
 product_name: OpenClaw
 record:
@@ -100,10 +100,9 @@ record:
   title: 11 Developer Workflow changes in v2026.10.1
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-10-08-3-developer-workflow-changes-in-v2026-9-9|3 Developer
-  Workflow changes in v2026.9.9]]'
-- '[[Changes/Claude Code/2026-10-09-3-developer-workflow-changes-in-v2-1-296|3 Developer
-  Workflow changes in v2.1.296]]'
+- '[[Changes/Devin/2026-10-09-command-palette-and-find|Command palette and Find]]'
+- '[[Changes/Raycast/2026-10-09-4-developer-workflow-changes-in-raycast-windows-2-7|4
+  Developer Workflow changes in Raycast windows 2.7]]'
 - '[[Changes/Open WebUI/2026-10-10-27-developer-workflow-changes-in-v0-12-0|27 Developer
   Workflow changes in v0.12.0]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-10-10-v2026-10-1-d64e4e93|openclaw-2026-10-10-v2026-10-1-d64e4e93]]'

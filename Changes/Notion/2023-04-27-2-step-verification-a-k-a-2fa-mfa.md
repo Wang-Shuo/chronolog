@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 9b9b169d849bd35e3edcdd94688879e9c3fb57b2cc79e7354ddcfe03378c9195
+machine_hash: f82fdf87f22a9c8066835f6a05cff10c6ea76e698f322dc92d383d56fb6a02af
 product: notion
 product_name: Notion
 record:
@@ -55,9 +55,9 @@ record:
   title: 2-step verification (a.k.a
   type: change
 related_changes:
-- '[[Changes/Notion/2022-02-08-can-edit-content-permission-level|Can Edit Content
-  permission level]]'
 - '[[Changes/Notion/2022-06-29-request-access-to-pages|Request access to pages]]'
+- '[[Changes/Raycast/2023-02-01-file-search-the-authorisation-prompt-should-no-longer-appear-after-denying-permi|File
+  Search: The authorisation prompt should no longer appear after denying permissions]]'
 - '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
   mode for opting out of storing any kind of data on our servers]]'
 source_release: '[[Releases/Notion/notion-2023-04-27-https-www-notion-com-releases-2023-04-27-8f30da0c|notion-2023-04-27-https-www-notion-com-releases-2023-04-27-8f30da0c]]'

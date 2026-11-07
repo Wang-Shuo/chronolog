@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0b9b565667621123237cc0a984bd37b29566072c89b519f3a9317b8285d3a308
+machine_hash: 32960cb84fd8351bf7384b66c8a95e36cc8f91ad38b41c7b021e17d46fb41c7e
 product: opencode
 product_name: OpenCode
 record:
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-04-29 · Dify · [[Changes/Dify/2026-04-29-3-reliability-and-performance-changes-in-1-14-0|3 Reliability and Performance changes in 1.14.0]]
-- Later: 2026-05-01 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-01-improve-cli-startup-speed-by-loading-custom-ca-certificates-asynchronously|Improve CLI startup speed by loading custom CA certificates asynchronously]]
+- Later: 2026-04-30 · Raycast · [[Changes/Raycast/2026-04-30-ai-significant-performance-and-stability-improvements-when-streaming-in-chat|AI: Significant performance and stability improvements when streaming in chat]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8d24576e58c4fd3c8707e41725c1c7b0bb551015ff45a27f79f9e8fa3ae287e0
+machine_hash: e4e0b1a15a496788b45a82559ca830fa352c32a17414c310f11e1151901aa00d
 product: dify
 product_name: Dify
 record:
@@ -92,7 +92,7 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2026-03-25 · Open WebUI · [[Changes/Open WebUI/2026-03-25-shared-chat-viewing-crash-shared-chats-can-now-be-viewed-by-unauthenticated-user|🐛 Shared chat viewing crash. Shared chats can now be viewed by unauthenticated…]]
-- Later: 2026-03-31 · Codex CLI · [[Changes/Codex CLI/2026-03-31-4-collaboration-changes-in-rust-v0-118-0|4 Collaboration changes in rust-v0.118.0]]
+- Later: 2026-03-27 · Raycast · [[Changes/Raycast/2026-03-27-teams-create-and-manage-webhook-commands|Teams : Create and Manage Webhook Commands]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

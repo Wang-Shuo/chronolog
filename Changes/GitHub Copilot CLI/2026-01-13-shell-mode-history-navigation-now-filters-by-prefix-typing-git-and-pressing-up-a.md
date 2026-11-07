@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c965f5d7bfdf439cfef786d6d3f81e6589ac8d3afd52f26337dde9f121517f08
+machine_hash: b02d1f09439381ca7e0a1eee5263ca7c6da45d3a084897da99daf71f7cc02978
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,10 +44,10 @@ record:
     up…
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-01-12-3-interface-experience-changes-in-v1-1-14|3 Interface
-  Experience changes in v1.1.14]]'
 - '[[Changes/OpenCode/2026-01-12-terminal-fix-autocomplete-reopening-after-backspace-deletes-space-in-terminal-ui|Terminal
   Fix autocomplete reopening after backspace deletes space in terminal UI]]'
+- '[[Changes/Raycast/2026-01-12-ai-quickly-jump-to-questions-in-the-chat-from-the-title-menu|AI:
+  Quickly jump to questions in the chat from the title menu]]'
 - '[[Changes/Claude Code/2026-01-13-added-updates-section-to-doctor-showing-auto-update-channel-and-available-npm-ve|Added
   Updates section to /doctor showing auto-update channel and available npm…]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-01-13-v0-0-381-github-276485455-00f2509f|github-copilot-cli-2026-01-13-v0-0-381-github-276485455-00f2509f]]'

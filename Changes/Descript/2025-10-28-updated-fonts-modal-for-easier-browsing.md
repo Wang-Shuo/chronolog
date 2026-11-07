@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 552a4bb92479bea6412a559908cb068c858f69b140067d7556cd5468982a1fde
+machine_hash: fe55c86c1a9a9d6ec7688a34d688a0a688f032a035aa3e6883414cbc3ba79bf7
 product: descript
 product_name: Descript
 record:

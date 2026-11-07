@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 1ba44fb9649359e2a3edea188f06b778d55bcf3013c6c729692e1b0c14a6caa3
+machine_hash: 2e6b3e4b8f1e440e459665772678f71283530e62f841d152aea248361b5e6086
 product: lovable
 product_name: Lovable
 record:
@@ -49,8 +49,7 @@ record:
   title: Connect your app to Firebase Cloud Messaging
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-28-4-apps-and-integrations-changes-in-v2-1-251|4
-  Apps and Integrations changes in v2.1.251]]'
+- '[[Changes/Devin/2026-08-28-clearer-mcp-install-approvals|Clearer MCP Install Approvals]]'
 - '[[Changes/Gamma/2026-08-28-build-more-with-gamma-s-api-and-connectors|Build more
   with Gamma’s API and connectors]]'
 - '[[Changes/Lovable/2026-08-28-connect-your-app-to-gitlab-api|Connect your app to

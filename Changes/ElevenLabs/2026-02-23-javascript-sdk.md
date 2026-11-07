@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 90029d2aaca67cb0318ee9cca0b5664c36f7287d5c73929437bb04d3f7f49a73
+machine_hash: 818d5b2ef9f5ea90b8fbb6000f10ce3c27e24d34c824a658914ab35f5c679c53
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -67,10 +67,10 @@ record:
   title: JavaScript SDK
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-02-12-we-re-making-an-update-to-chatgpt-voice-that-improves-its-ability-to-follow-user|ChatGPT
-  Voice Update]]'
 - "[[Changes/Open WebUI/2026-02-12-audio-service-timeout-handling-audio-transcription-and-text-to-speech-requests-n|\U0001F50C
   Audio service timeout handling. Audio transcription and text-to-speech…]]"
+- '[[Changes/Superwhisper/2026-02-13-add-microphone-select-to-tray-menu-only-available-with-enhanced-audio-enabled|Add
+  microphone select to tray menu (only available with Enhanced Audio enabled)]]'
 - '[[Changes/Open WebUI/2026-02-16-resource-handle-cleanup-file-handles-are-now-properly-closed-during-audio-transc|♻️
   Resource handle cleanup. File handles are now properly closed during audio…]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-02-23-2026-02-23-19067983|elevenlabs-2026-02-23-2026-02-23-19067983]]'

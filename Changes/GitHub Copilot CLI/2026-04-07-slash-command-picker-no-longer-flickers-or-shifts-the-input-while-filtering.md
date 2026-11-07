@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f816ad8fbeb56674e1cbc905d724593a35070dca75150c4e825f875041094883
+machine_hash: f618ddd233d5c1b43918bd1a964ecb9ad7413e3c5f8a73bad3e125ea8af0112c
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-04-04 · OpenCode · [[Changes/OpenCode/2026-04-04-desktop-added-keyboard-navigation-and-shortcuts-to-the-question-dock|Desktop Added keyboard navigation and shortcuts to the question dock]]
-- Later: 2026-04-08 · Claude Code · [[Changes/Claude Code/2026-04-08-2-interface-experience-changes-in-v2-1-97|2 Interface Experience changes in v2.1.97]]
+- Later: 2026-04-07 · Raycast · [[Changes/Raycast/2026-04-07-misc-added-keyboard-shortcut-for-create-new-inside-list-views-n|Misc : Added keyboard shortcut for create new inside list views (⌘+N)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

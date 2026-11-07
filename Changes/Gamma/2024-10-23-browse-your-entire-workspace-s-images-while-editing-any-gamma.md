@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ea2abed8280ba8604d9a8fc9a192fd9b4c04b155d0bedc26e219cd7e7b938365
+machine_hash: bfb7a7795144e9dc95b0ef21eeb3b45d3b267ca54019a1e5496989aae4e61337
 product: gamma
 product_name: Gamma
 record:
@@ -41,12 +41,12 @@ record:
   title: Browse your entire workspace’s images while editing any gamma
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2024-09-07-refined-web-search-integration-deprecated-the-search-query-generation-prompt-thr|\U0001F310
-  Refined Web Search Integration]]"
 - "[[Changes/Open WebUI/2024-09-24-web-search-functionality-corrected-an-issue-where-the-web-search-option-was-not|\U0001F50D
   Web Search Functionality]]"
 - '[[Changes/Dify/2024-09-30-add-zhipuai-web-search-by-aaee86-in-https-github-com-langgenius-dify-pull-8668|add
   zhipuai web search]]'
+- '[[Changes/AnythingLLM/2024-10-03-tavily-search-web-search-agent-support-by-shatfield4-in-https-github-com-mintple|Tavily
+  search web search agent support]]'
 source_release: '[[Releases/Gamma/gamma-2024-10-23-67193a9920732f7ead00385b-f74bea0c|gamma-2024-10-23-67193a9920732f7ead00385b-f74bea0c]]'
 source_type: gamma_changelog
 theme: search-browsing
@@ -77,7 +77,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Search and Browsing
 
-- Earlier: 2024-09-30 · Dify · [[Changes/Dify/2024-09-30-add-zhipuai-web-search-by-aaee86-in-https-github-com-langgenius-dify-pull-8668|add zhipuai web search]]
+- Earlier: 2024-10-03 · AnythingLLM · [[Changes/AnythingLLM/2024-10-03-tavily-search-web-search-agent-support-by-shatfield4-in-https-github-com-mintple|Tavily search web search agent support]]
 - Later: 2024-11-04 · OpenHands · [[Changes/OpenHands/2024-11-04-allow-codeact-agent-to-perform-web-browsing-by-itself-no-more-delegation-to-brow|Allow CodeAct agent to perform web browsing by itself…]]
 <!-- chronolog:end -->
 

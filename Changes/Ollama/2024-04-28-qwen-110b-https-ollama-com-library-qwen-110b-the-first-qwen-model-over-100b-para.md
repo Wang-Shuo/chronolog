@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: b704e9cc44cce22caf6c3d2aa9d3b6ba3d34da242820aaab35fc40c62a02276b
+machine_hash: 2e9671cd0e07386d4f3365d246d29359a21d244de4c8dff70be8fe98a2aed1f9
 product: ollama
 product_name: Ollama
 record:
@@ -56,10 +56,10 @@ record:
     over 100B…'
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2024-04-16-docker-optimization-updated-docker-image-build-process-to-utilize-uv-for-signifi|\U0001F433
-  Docker Optimization]]"
 - '[[Changes/Dify/2024-04-22-this-update-primarily-focuses-on-enhancing-system-stability-and-improving-user-e|This
   update primarily focuses on enhancing system stability and improving user experience]]'
+- '[[Changes/Raycast/2024-04-24-ai-commands-improve-text-selection-reliability-and-speed|AI
+  Commands: Improve text selection reliability and speed]]'
 - '[[Changes/Dify/2024-04-25-this-update-primarily-focuses-on-enhancing-system-stability-and-improving-user-e|This
   update primarily focuses on enhancing system stability and improving user experience]]'
 source_release: '[[Releases/Ollama/ollama-2024-04-28-v0-1-33-github-153066497-45406eb5|ollama-2024-04-28-v0-1-33-github-153066497-45406eb5]]'

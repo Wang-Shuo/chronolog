@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 1707f1c1a3b9f2a360bfc4ea40b6d549a03b3a9912b9f1452360f725a7cbde2d
+machine_hash: 23566798b4686f2c432d70766435c375e56c439778513d79bb6783df3012a092
 product: cline
 product_name: Cline
 record:
@@ -57,8 +57,8 @@ record:
   title: Only treat an Anthropic `invalid_request_error` as a context-overflow…
   type: change
 related_changes:
-- '[[Changes/Notion/2026-08-19-manage-your-workers-connections-and-personal-access-tokens-from-the-new-develope|Your
-  Developer Portal, now in the sidebar]]'
+- '[[Changes/Raycast/2026-08-19-3-context-window-changes-in-raycast-windows-0-71|3
+  Context Window changes in Raycast windows 0.71]]'
 - '[[Changes/Codex CLI/2026-08-20-9-context-window-changes-in-rust-v0-149-0|9 Context
   Window changes in rust-v0.149.0]]'
 - '[[Changes/Claude Code/2026-08-21-improved-the-reminder-shown-after-compaction-so-a-skill-s-original-arguments-are|Improved

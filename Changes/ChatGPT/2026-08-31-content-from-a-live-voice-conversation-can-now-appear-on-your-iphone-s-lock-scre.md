@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9d909e2ece80a7addef7db4a1b136010ea610ce532fe3a4b37c2a2ccb2971cc1
+machine_hash: 37dd207c9c4d670a2a1afef9adc2edabf24086fb5c1e4e2b25d48210c134aa84
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -44,12 +44,11 @@ record:
     Screen…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-08-26-39953-support-voice-aware-configuration-and-version-skew-builds-copyberry|♯39953
-  Support voice-aware configuration and version-skew builds @copyberry]]'
-- '[[Changes/GitHub Copilot CLI/2026-08-27-use-ctrl-space-to-toggle-voice-dictation|Use
-  Ctrl+Space to toggle voice dictation]]'
 - '[[Changes/Qoder/2026-08-27-improved-live-voice-usage-alerts-and-draft-handling|Improved
   live voice usage alerts and draft handling]]'
+- '[[Changes/Krea/2026-08-28-wan-3-0|Wan 3.0]]'
+- '[[Changes/Superwhisper/2026-08-28-faster-launch-and-time-to-transcription-ready|Faster
+  launch and time to transcription-ready]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-31-see-live-voice-content-on-your-lock-screen-3b9abebd|chatgpt-2026-08-31-see-live-voice-content-on-your-lock-screen-3b9abebd]]'
 source_type: chatgpt_changelog
 theme: voice
@@ -80,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-08-27 · Qoder · [[Changes/Qoder/2026-08-27-improved-live-voice-usage-alerts-and-draft-handling|Improved live voice usage alerts and draft handling]]
+- Earlier: 2026-08-28 · Superwhisper · [[Changes/Superwhisper/2026-08-28-faster-launch-and-time-to-transcription-ready|Faster launch and time to transcription-ready]]
 - Later: 2026-08-31 · OpenClaw · [[Changes/OpenClaw/2026-08-31-2-voice-and-audio-changes-in-v2026-8-1|2 Voice and Audio changes in v2026.8.1]]
 <!-- chronolog:end -->
 

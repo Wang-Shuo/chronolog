@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: pricing
-machine_hash: 142f6765d4ae649cac594935ddeb0005cce93de40a3e3333c5770bb4330e1c5b
+machine_hash: be440b5b43f026faf63cbbd739af5da1a7f3e1ac3e03b8c0f95066e9dc5d3181
 product: openclaw
 product_name: OpenClaw
 record:
@@ -65,10 +65,10 @@ record:
     Claude CLI
   type: change
 related_changes:
-- '[[Changes/Microsoft 365 Copilot/2026-10-06-copilot-analytics-cowork-adoption-and-impact-web-viva-insights|Copilot
-  Analytics - Cowork adoption and impact Web (Viva Insights)]]'
 - '[[Changes/Lovable/2026-10-07-set-credit-usage-limits-and-alerts-for-your-workspace|Set
   credit usage limits and alerts for your workspace]]'
+- '[[Changes/Krea/2026-10-08-let-krea-know-which-workspace-reports-open-source-usage|Let
+  Krea know which workspace reports open-source usage]]'
 - '[[Changes/Midjourney/2026-10-08-polish-bugs|POLISH & BUGS]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-10-08-v2026-9-9-933614cc|openclaw-2026-10-08-v2026-9-9-933614cc]]'
 source_type: openclaw_changelog

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 344737c1e84cfafd79eec89b0fb408230cb247f083a7389485cf379e6b2f4d84
+machine_hash: 44c4abc935803da3159183f4c2de5d4bcfe53c6dc9f2b961ef5e71696662fecd
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -112,10 +112,10 @@ record:
   title: 32 Interface Experience changes in rust-v0.156.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-09-21-number-key-selection-in-the-question-dialog-works-for-choices-10-and-beyond|Number-key
-  selection in the question dialog works for choices 10 and beyond]]'
 - '[[Changes/Open WebUI/2026-09-21-13-interface-experience-changes-in-v0-11-4|13 Interface
   Experience changes in v0.11.4]]'
+- '[[Changes/AnythingLLM/2026-09-22-add-openrouter-service-tier-selection-by-shatfield4-in-https-github-com-mintplex|Add
+  OpenRouter service tier selection]]'
 - '[[Changes/Claude Code/2026-09-22-5-interface-experience-changes-in-v2-1-280|5 Interface
   Experience changes in v2.1.280]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-09-22-rust-v0-156-0-github-394061815-b23dd5f4|codex-cli-2026-09-22-rust-v0-156-0-github-394061815-b23dd5f4]]'

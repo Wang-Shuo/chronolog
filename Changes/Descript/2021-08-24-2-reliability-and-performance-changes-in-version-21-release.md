@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ce7da5dd25b735cc89f05b696238d0a6833068824e748be08f650c04b2ce3a08
+machine_hash: 32615aa85698c466b4ac3a02f158ea9f04af4b9b27e370a96b807854af5b1a5a
 product: descript
 product_name: Descript
 record:
@@ -42,11 +42,12 @@ record:
   title: 2 Reliability and Performance changes in Version 21 Release
   type: change
 related_changes:
-- '[[Changes/Notion/2021-04-21-improved-the-speed-of-displaying-page-history-versions-with-a-lot-of-content|Improved
-  the speed of displaying page history versions with a lot of content]]'
-- "[[Changes/Notion/2021-04-21-pages-load-50-faster|Pages load 50% faster \U0001F955]]"
+- '[[Changes/Raycast/2021-06-16-my-schedule-improved-performance-by-fetching-only-events-of-the-next-month-inste|My
+  Schedule: Improved performance by fetching only events of the next month instead…]]'
 - '[[Changes/Synthesia/2021-07-16-automatically-speed-up-or-slow-down-the-background-video-so-that-it-s-duration-m|Match
   to script]]'
+- '[[Changes/Raycast/2021-07-29-improve-cold-start-performance-enhance-in-app-updates|Improve
+  cold start performance, enhance in-app updates]]'
 source_release: '[[Releases/Descript/descript-2021-08-24-6390c9bd4a4a0d64fa56454c-6699b120|descript-2021-08-24-6390c9bd4a4a0d64fa56454c-6699b120]]'
 source_type: canny_changelog
 theme: reliability-performance
@@ -83,7 +84,7 @@ Source: https://feedback.descript.com/changelog/version-21-release
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2021-07-16 · Synthesia · [[Changes/Synthesia/2021-07-16-automatically-speed-up-or-slow-down-the-background-video-so-that-it-s-duration-m|Match to script]]
+- Earlier: 2021-07-29 · Raycast · [[Changes/Raycast/2021-07-29-improve-cold-start-performance-enhance-in-app-updates|Improve cold start performance, enhance in-app updates]]
 - Later: 2021-09-03 · Descript · [[Changes/Descript/2021-09-03-improved-speed-of-uploaded-files-to-descript-servers|Improved speed of uploaded files to Descript servers]]
 <!-- chronolog:end -->
 

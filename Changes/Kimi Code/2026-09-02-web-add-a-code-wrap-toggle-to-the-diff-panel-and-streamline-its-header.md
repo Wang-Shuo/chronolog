@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e3573d44f11b1c00b11a54d36ec2a4f62fd1cbd454664154ca47cdb238a96a23
+machine_hash: ddc9b681e4c8b8fb35872ee635691faad2504d7e0c5407649ed0f74fc83f5b51
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -42,12 +42,11 @@ record:
   title: 'web: Add a code wrap toggle to the diff panel and streamline its header'
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-09-01-5-editor-experience-changes-in-v2026-8-2|5 Editor
-  Experience changes in v2026.8.2]]'
-- '[[Changes/OpenCode/2026-09-01-desktop-session-renames-now-save-reliably-from-the-title-editor-and-tab-context|Desktop
-  Session renames now save reliably from the title editor and tab context menu]]'
+- '[[Changes/Raycast/2026-09-01-root-search-tab-now-performs-primary-action-if-ai-or-tab-to-quick-ai-is-disabled-2c4967|Root
+  Search : Tab now performs primary action if AI or Tab to Quick AI is disabled]]'
 - '[[Changes/v0/2026-09-01-review-the-code-diff-against-the-base-branch|Review the
   code diff against the base branch]]'
+- '[[Changes/Devin/2026-09-02-redesigned-findings-tab|Redesigned Findings Tab]]'
 source_release: '[[Releases/Kimi Code/kimi-code-2026-09-02-0-40-0-d3ae6ef8|kimi-code-2026-09-02-0-40-0-d3ae6ef8]]'
 source_type: kimi_code_changelog
 theme: editor-experience
@@ -80,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-09-01 · v0 · [[Changes/v0/2026-09-01-review-the-code-diff-against-the-base-branch|Review the code diff against the base branch]]
+- Earlier: 2026-09-02 · Devin · [[Changes/Devin/2026-09-02-redesigned-findings-tab|Redesigned Findings Tab]]
 - Later: 2026-09-02 · Synthesia · [[Changes/Synthesia/2026-09-02-design-any-scene-with-layouts-a-library-of-100-ready-made-designs-right-in-the-e|Design any scene with Layouts]]
 <!-- chronolog:end -->
 

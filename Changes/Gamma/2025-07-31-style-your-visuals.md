@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: aa22cd7e6f44acc9d4f65c8d9bcfbac8b95e9e3ad7340e53a1b254aa4fd15482
+machine_hash: 77a236c46cd6e986f63d399ad40c5f7d6556012cb827021d047b745d43687fd1
 product: gamma
 product_name: Gamma
 record:
@@ -54,12 +54,10 @@ record:
   title: "Style Your Visuals \U0001F58C️"
   type: change
 related_changes:
-- '[[Changes/Dify/2025-07-28-3-interface-experience-changes-in-1-7-1|3 Interface Experience
-  changes in 1.7.1]]'
-- '[[Changes/Gemini CLI/2025-07-30-2-interface-experience-changes-in-v0-1-15|2 Interface
-  Experience changes in v0.1.15]]'
 - '[[Changes/Cline/2025-07-31-feat-adds-navigation-bar-component-and-restructure-app-layout-by-abeatrix-in-htt|feat:
   adds navigation bar component and restructure app layout]]'
+- '[[Changes/Devin/2025-07-31-primary-org-session-sidebar|Primary Org Session Sidebar]]'
+- '[[Changes/Devin/2025-07-31-organization-switcher-search|Organization Switcher Search]]'
 source_release: '[[Releases/Gamma/gamma-2025-07-31-688bc96c0a9c28a3d3acb3b1-82b8c5ff|gamma-2025-07-31-688bc96c0a9c28a3d3acb3b1-82b8c5ff]]'
 source_type: gamma_changelog
 theme: interface-experience
@@ -94,7 +92,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2025-07-31 · Cline · [[Changes/Cline/2025-07-31-feat-adds-navigation-bar-component-and-restructure-app-layout-by-abeatrix-in-htt|feat: adds navigation bar component and restructure app layout]]
+- Earlier: 2025-07-31 · Devin · [[Changes/Devin/2025-07-31-organization-switcher-search|Organization Switcher Search]]
 - Later: 2025-08-01 · Replit · [[Changes/Replit/2025-08-01-visual-editor-color-picker-improvement|Visual editor color picker improvement]]
 <!-- chronolog:end -->
 

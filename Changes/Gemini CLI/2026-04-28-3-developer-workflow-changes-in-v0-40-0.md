@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d3ef1a75a8f32d8376244ce60097fe3ce261c86426c6281406e3c898d9feaf02
+machine_hash: d57b8a78d78556d44152ddf2bda149cab648683e9b47d5953ed1ce459f9f30e3
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -46,8 +46,8 @@ record:
   title: 3 Developer Workflow changes in v0.40.0
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-04-27-reduced-extra-terminal-noise-while-creating-tui-workspaces|Reduced
-  extra terminal noise while creating TUI workspaces]]'
+- '[[Changes/Raycast/2026-04-27-theme-studio-swiftly-change-your-current-theme-using-our-new-switch-theme-comman|Theme
+  Studio : Swiftly change your current theme using our new Switch Theme command]]'
 - '[[Changes/Claude Code/2026-04-28-opentelemetry-added-claude-code-at-mention-log-event-for-mention-resolution|OpenTelemetry:
   added claude_code.at_mention log event for @-mention resolution]]'
 - '[[Changes/Claude Code/2026-04-28-4-developer-workflow-changes-in-v2-1-121|4 Developer

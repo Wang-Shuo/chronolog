@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: music-generation
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 42addde627471e7f6d31267b74b45dfd88280a516c5333234a40c342b1a8aa94
+machine_hash: 228c5ab1567b3a89ecc9b44bf764df4d773a9e33fd595dacb5373104e22985d6
 product: suno
 product_name: Suno
 record:
@@ -71,12 +71,12 @@ record:
   title: Introducing Hooks!
   type: change
 related_changes:
-- '[[Changes/Suno/2025-06-03-stem-extraction-splits-your-track-into-up-to-12-clean-stems-vocals-drums-bass-an|Stem
-  Extraction : splits your track into up to 12 clean stems—vocals, drums, bass…]]'
 - '[[Changes/Suno/2025-06-03-extended-uploads-lets-you-bring-in-full-songs-up-to-8-mins-and-start-building-fr|Extended
   Uploads : lets you bring in full songs (up to 8 mins) and start building…]]'
 - '[[Changes/Suno/2025-06-03-song-editor-you-can-reorder-rewrite-and-remake-your-track-section-by-section-dir|Song
   Editor : you can reorder, rewrite, and remake your track section by section…]]'
+- '[[Changes/Superwhisper/2025-08-20-media-pause-super-mode-improvements|Media Pause
+  & Super Mode Improvements]]'
 source_release: '[[Releases/Suno/suno-2025-09-22-e-introducing-hooks-eea05f09|suno-2025-09-22-e-introducing-hooks-eea05f09]]'
 source_type: suno_changelog
 theme: music-generation
@@ -103,7 +103,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Music Generation
 
-- Earlier: 2025-06-03 · Suno · [[Changes/Suno/2025-06-03-song-editor-you-can-reorder-rewrite-and-remake-your-track-section-by-section-dir|Song Editor : you can reorder, rewrite, and remake your track section by section…]]
+- Earlier: 2025-08-20 · Superwhisper · [[Changes/Superwhisper/2025-08-20-media-pause-super-mode-improvements|Media Pause & Super Mode Improvements]]
 - Later: 2025-09-23 · Suno · [[Changes/Suno/2025-09-23-here-s-what-s-better|Here’s what’s better]]
 <!-- chronolog:end -->
 

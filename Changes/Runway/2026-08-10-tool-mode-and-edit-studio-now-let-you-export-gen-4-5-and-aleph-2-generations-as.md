@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8ffbe16d77f53c2c13e354ed6257c65885c8e66032a8bc81fb943af025b0dbfc
+machine_hash: 0232d1ddefeb82a706488a78b8ed9344bb45be112f89b3de6b4b37fef1cc1738
 product: runway
 product_name: Runway
 record:
@@ -77,7 +77,7 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2026-08-10 · ElevenLabs · [[Changes/ElevenLabs/2026-08-10-voices|Voices]]
-- Later: 2026-08-11 · HeyGen · [[Changes/HeyGen/2026-08-11-videos-that-look-and-sound-like-you-with-your-face-your-voice-and-your-market-kn|Videos that look and sound like you, with your face, your voice, and your market…]]
+- Later: 2026-08-10 · Superwhisper · [[Changes/Superwhisper/2026-08-10-elevenlabs-scribe-real-time-no-voice-found-fix|Elevenlabs Scribe real-time "no voice found" fix]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

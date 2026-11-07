@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a8cf156f870d58127f032196045d061853aa288ac8710ffe8ed969feaf1a3864
+machine_hash: 2de34f65f487d64dfb2d6b59c7bc4b8345c33b225cac4e0c39cb17f4ec93bac1
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,10 +44,9 @@ record:
   title: 2 Context Window changes in rust-v0.23.0
   type: change
 related_changes:
-- '[[Changes/Cline/2025-08-15-auto-compact-context-management-by-0xtoshii-in-https-github-com-cline-cline-pull|auto
-  compact - context management]]'
 - '[[Changes/Cline/2025-08-16-2-context-window-changes-in-v3-25-3|2 Context Window
   changes in v3.25.3]]'
+- '[[Changes/Devin/2025-08-16-github-connection-management|GitHub Connection Management]]'
 - '[[Changes/Gemini CLI/2025-08-18-5-context-window-changes-in-v0-1-22|5 Context Window
   changes in v0.1.22]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-08-20-rust-v0-23-0-github-241091696-29f8dece|codex-cli-2025-08-20-rust-v0-23-0-github-241091696-29f8dece]]'

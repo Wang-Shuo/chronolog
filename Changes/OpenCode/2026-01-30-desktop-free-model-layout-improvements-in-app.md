@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: cd6e4f7d88395083d1c2c41275bc2ebcf0269bfaf6f72930263966f4a29a2f51
+machine_hash: 251b7a727422b509b5196e1dd3796bab486df201e77ba88d90d5f16263d9dbf9
 product: opencode
 product_name: OpenCode
 record:
@@ -43,12 +43,12 @@ record:
   title: Desktop Free model layout improvements in app
   type: change
 related_changes:
-- '[[Changes/Cline/2026-01-30-litellm-fixed-thinking-configuration-not-appearing-for-reasoning-capable-models-c6cd73|LiteLLM:
-  Fixed thinking configuration not appearing for reasoning-capable models]]'
 - '[[Changes/Cline/2026-01-30-litellm-fixed-thinking-configuration-not-appearing-for-reasoning-capable-models-cb84ce|LiteLLM:
   Fixed thinking configuration not appearing for reasoning-capable models]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-30-acp-server-supports-changing-models-during-a-session|ACP
   server supports changing models during a session]]'
+- '[[Changes/LM Studio/2026-01-30-added-parallel-flag-to-lms-load-command-to-allow-loading-a-model-with-specified|Added
+  --parallel  flag to lms load command to allow loading a model…]]'
 source_release: '[[Releases/OpenCode/opencode-2026-01-30-v1-1-47-7739446b|opencode-2026-01-30-v1-1-47-7739446b]]'
 source_type: opencode_changelog
 theme: model-support
@@ -79,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-01-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-30-acp-server-supports-changing-models-during-a-session|ACP server supports changing models during a session]]
+- Earlier: 2026-01-30 · LM Studio · [[Changes/LM Studio/2026-01-30-added-parallel-flag-to-lms-load-command-to-allow-loading-a-model-with-specified|Added --parallel  flag to lms load command to allow loading a model…]]
 - Later: 2026-01-30 · Windsurf · [[Changes/Windsurf/2026-01-30-arena-mode|Arena Mode]]
 <!-- chronolog:end -->
 

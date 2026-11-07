@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8f681e7d04d76b51685084d4051daa847183ae15f293a2c2274b9afc673fbbd6
+machine_hash: 6bc6b115c50e5de7111b3df46141d803789ff49dc252b5496c4c1f9662f56a84
 product: midjourney
 product_name: Midjourney
 record:
@@ -41,8 +41,7 @@ record:
   title: Ranking goes fastest if you use the 1/2 hotkeys on PC or use it on mobile
   type: change
 related_changes:
-- '[[Changes/Ollama/2024-03-01-2-mobile-and-desktop-changes-in-v0-1-28|2 Mobile and
-  Desktop changes in v0.1.28]]'
+- '[[Changes/Raycast/2024-03-07-new-ai-chat|New AI Chat]]'
 - '[[Changes/Ollama/2024-03-10-2-mobile-and-desktop-changes-in-v0-1-29|2 Mobile and
   Desktop changes in v0.1.29]]'
 - '[[Changes/Dify/2024-03-12-2-mobile-and-desktop-changes-in-0-5-9|2 Mobile and Desktop

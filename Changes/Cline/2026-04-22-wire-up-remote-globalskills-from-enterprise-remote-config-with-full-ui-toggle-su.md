@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 6ab5ce8bdc3540f21aeecc042939c7a6647f571a19a1ee7da30ef5ada28e1273
+machine_hash: 1c45c86d639bbb50fe32734284ba967450421fe3a4078295232bc9d2b42aa08c
 product: cline
 product_name: Cline
 record:
@@ -49,10 +49,10 @@ record:
     toggle…
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-04-21-4-apps-and-integrations-changes-in-v0-9-0|4 Apps
-  and Integrations changes in v0.9.0]]'
 - '[[Changes/OpenCode/2026-04-21-2-apps-and-integrations-changes-in-v1-14-20|2 Apps
   and Integrations changes in v1.14.20]]'
+- '[[Changes/AnythingLLM/2026-04-22-3-apps-and-integrations-changes-in-v1-12-1|3 Apps
+  and Integrations changes in v1.12.1]]'
 - '[[Changes/Claude Code/2026-04-22-4-apps-and-integrations-changes-in-v2-1-117|4
   Apps and Integrations changes in v2.1.117]]'
 source_release: '[[Releases/Cline/cline-2026-04-22-v3-80-0-github-312385304-eee3574e|cline-2026-04-22-v3-80-0-github-312385304-eee3574e]]'
@@ -86,7 +86,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-04-22 · Claude Code · [[Changes/Claude Code/2026-04-22-4-apps-and-integrations-changes-in-v2-1-117|4 Apps and Integrations changes in v2.1.117]]
-- Later: 2026-04-23 · Claude Code · [[Changes/Claude Code/2026-04-23-3-apps-and-integrations-changes-in-v2-1-119|3 Apps and Integrations changes in v2.1.119]]
+- Later: 2026-04-22 · Devin · [[Changes/Devin/2026-04-22-mcp-auth-status-feedback|MCP Auth Status Feedback]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

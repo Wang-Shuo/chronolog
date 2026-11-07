@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: af46ac3f308ecea9e2fa4fdd97105ec6af2246bb936150cf2b9ea128a4bcba86
+machine_hash: 6c912b20cd2666e663fe1fd5e00b0dddcee9fd4f82baee01353cd4d513af1b3d
 product: cline
 product_name: Cline
 record:
@@ -88,7 +88,7 @@ Source: https://github.com/cline/cline/releases/tag/v3.8.3
 ## Nearby in Model Support
 
 - Earlier: 2025-03-25 · Gemini · [[Changes/Gemini/2025-03-25-priority-access-with-gemini-advanced-try-our-latest-2-5-pro-experimental-model|Priority access with Gemini Advanced: Try our latest 2.5 Pro (experimental) model]]
-- Later: 2025-03-27 · ChatGPT · [[Changes/ChatGPT/2025-03-27-we-ve-made-improvements-to-gpt-4o-it-now-feels-more-intuitive-creative-and-colla|ChatGPT makes improvements to GPT-4o—it now feels more intuitive, creative…]]
+- Later: 2025-03-26 · Superwhisper · [[Changes/Superwhisper/2025-03-26-translation-model-clarity|Translation Model Clarity]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

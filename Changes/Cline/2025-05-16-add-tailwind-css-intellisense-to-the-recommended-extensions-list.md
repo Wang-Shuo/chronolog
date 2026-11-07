@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ff4b6be25363a8d85679cdce9d72bc135236d6688e9e80eb74c9628dd404d772
+machine_hash: 0f196b42bf850d5ee6497908d2926432d2be2c68d43e3dc855e20d40f57486c7
 product: cline
 product_name: Cline
 record:
@@ -43,10 +43,10 @@ record:
   title: Add Tailwind CSS IntelliSense to the recommended extensions list
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-05-15-the-github-connector-is-now-available-globally-to-plus-pro-team-users-including|GitHub
-  connector for deep research]]'
 - '[[Changes/Cursor/2025-05-15-refreshed-inline-edit-cmd-ctrl-k-with-agent-integration|Refreshed
   Inline Edit (Cmd/Ctrl+K) with Agent integration]]'
+- '[[Changes/Devin/2025-05-15-upgrades-to-linear-jira-integrations|Upgrades to Linear
+  & Jira Integrations]]'
 - '[[Changes/Dify/2025-05-15-5-apps-and-integrations-changes-in-1-4-0|5 Apps and Integrations
   changes in 1.4.0]]'
 source_release: '[[Releases/Cline/cline-2025-05-16-v3-16-0-github-219219393-255497c4|cline-2025-05-16-v3-16-0-github-219219393-255497c4]]'

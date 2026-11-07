@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5955df7709169891811c297db02fe7125d161f228b894305d065dec4035afbaa
+machine_hash: a86243daf7ac8ff10969ba4398586ee8343ee1740cf10d1b8486a67361cdd2d6
 product: cline
 product_name: Cline
 record:
@@ -44,10 +44,10 @@ record:
   title: 2 Apps and Integrations changes in v4.1.17
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-09-01-connect-a-tool-from-a-pasted-api-key|Connect a tool
-  from a pasted API key]]'
 - '[[Changes/OpenClaw/2026-09-01-9-apps-and-integrations-changes-in-v2026-8-2|9 Apps
   and Integrations changes in v2026.8.2]]'
+- '[[Changes/Raycast/2026-09-01-extensions-restored-raycast-api-1-x-compatibility|Extensions
+  : Restored @raycast/api 1.x compatibility]]'
 - '[[Changes/Claude Code/2026-09-02-5-apps-and-integrations-changes-in-v2-1-259|5
   Apps and Integrations changes in v2.1.259]]'
 source_release: '[[Releases/Cline/cline-2026-09-02-v4-1-17-github-381000681-694bbda2|cline-2026-09-02-v4-1-17-github-381000681-694bbda2]]'
@@ -88,7 +88,7 @@ Source: https://github.com/cline/cline/releases/tag/v4.1.17
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-09-02 · Claude Code · [[Changes/Claude Code/2026-09-02-5-apps-and-integrations-changes-in-v2-1-259|5 Apps and Integrations changes in v2.1.259]]
-- Later: 2026-09-02 · Kimi Code · [[Changes/Kimi Code/2026-09-02-web-add-a-plugins-panel-to-settings-for-browsing-the-plugin-marketplace-and-inst|web: Add a Plugins panel to Settings for browsing the plugin marketplace…]]
+- Later: 2026-09-02 · Devin · [[Changes/Devin/2026-09-02-clearer-reply-delivery|Clearer Reply Delivery]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

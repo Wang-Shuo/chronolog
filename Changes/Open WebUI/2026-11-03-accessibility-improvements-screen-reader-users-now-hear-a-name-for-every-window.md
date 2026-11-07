@@ -4,20 +4,20 @@ date: '2026-11-03'
 description: 'Open WebUI · 2026-11-03 · Accessibility and Localization: ♿ **Accessibility
   improvements.** Screen reader users now hear a name for every window, form field…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-09-11-chatgpt-now-supports-a-limited-selection-of-languages-in-the-interface|ChatGPT
-    now supports a limited selection of languages in the interface]]'
+  first_in_tracked: '[[Changes/Raycast/2020-11-19-improved-searching-for-localized-application-and-preference-names|Improved
+    searching for localized application and preference names]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1149
+  lag_days: 2175
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: accessibility-localization
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 211eb4cfa1ae63277c2e7cde1680491e4abd753777601adb13a30f3a292654c1
+machine_hash: d0877b33196c5598549150eab9ca70745ac77fd1055f39afdb2b67b1db7a82d0
 product: open-webui
 product_name: Open WebUI
 record:
@@ -99,10 +99,10 @@ record:
     every…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-26-3-accessibility-and-localization-changes-in-v2-1-311|3
-  Accessibility and Localization changes in v2.1.311]]'
 - '[[Changes/Synthesia/2026-10-27-dub-videos-into-up-to-20-languages-straight-from-your-own-systems-with-the-new-l|Dub
   videos at scale with the Localization API]]'
+- '[[Changes/Devin/2026-10-28-transcript-and-composer-refinements|Transcript and Composer
+  Refinements]]'
 - '[[Changes/Open WebUI/2026-10-29-improved-ui-accessibility-screen-reader-and-keyboard-users-can-now-move-through|♿
   Improved UI accessibility. Screen reader and keyboard users can now move…]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-11-03-v0-13-0-github-432661497-44290c10|open-webui-2026-11-03-v0-13-0-github-432661497-44290c10]]'
@@ -157,7 +157,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-11 · ChatGPT · [[Changes/ChatGPT/2023-09-11-chatgpt-now-supports-a-limited-selection-of-languages-in-the-interface|ChatGPT now supports a limited selection of languages in the interface]]
+- Earliest same-theme entry in the tracked set: 2020-11-19 · Raycast · [[Changes/Raycast/2020-11-19-improved-searching-for-localized-application-and-preference-names|Improved searching for localized application and preference names]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 588015d7bb8d3c20c950f869c38d26635f2dab789dc5f4d8b8fb442c0ca7fe69
+machine_hash: 8df7baa69f099f1ecbdab2e45824ad7b26bff281ab11ae5172715237abafbbb8
 product: dify
 product_name: Dify
 record:
@@ -52,10 +52,10 @@ record:
   title: Enabled up/down arrow key navigation for group questions, improving debugging…
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2024-10-24-3-interface-experience-changes-in-v0-3-33|3 Interface
-  Experience changes in v0.3.33]]'
-- '[[Changes/Dify/2024-10-28-feat-regenerate-history-switch-navigation-by-xuzuodong-in-https-github-com-langg|feat:
-  regenerate history switch navigation]]'
+- '[[Changes/Superwhisper/2024-11-08-new-keyboard-shortcut-system-with-improved-reliability|New
+  keyboard shortcut system with improved reliability]]'
+- '[[Changes/Superwhisper/2024-11-12-3-interface-experience-changes-in-superwhisper-macos-1-42-0|3
+  Interface Experience changes in Superwhisper macOS 1.42.0]]'
 - '[[Changes/Ollama/2024-11-15-athene-v2-https-ollama-com-library-athene-v2-a-72b-parameter-model-which-excels|Athene
   V2((source link) a 72B parameter model…]]'
 source_release: '[[Releases/Dify/dify-2024-11-18-0-11-2-github-185892448-8c6602e8|dify-2024-11-18-0-11-2-github-185892448-8c6602e8]]'

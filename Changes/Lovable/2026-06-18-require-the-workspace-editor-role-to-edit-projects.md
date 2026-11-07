@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 21f3ee2a345509dda1ac351031a901540aa1bb4d102216a12fec68f6568e1bcc
+machine_hash: 5af237bead46a36e7094ae38612c46eb714694b68172f9a19b429c06140f3498
 product: lovable
 product_name: Lovable
 record:
@@ -51,9 +51,9 @@ record:
   title: Require the workspace editor role to edit projects
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-06-16-removed-the-explain-sparkle-button-from-the-editor-breadcrumbs|Removed
-  the Explain sparkle button from the editor breadcrumbs]]'
 - '[[Changes/Windsurf/2026-06-16-agent-and-editor-modes|Agent and Editor modes]]'
+- '[[Changes/Devin/2026-06-17-cmd-k-switch-organization-copy-org-id|Cmd+K: Switch
+  Organization & Copy Org ID]]'
 - '[[Changes/OpenCode/2026-06-17-desktop-added-a-home-tab-toggle-so-you-can-quickly-switch-between-home-and-your|Desktop
   Added a Home tab toggle so you can quickly switch between Home and your last tab]]'
 source_release: '[[Releases/Lovable/lovable-2026-06-18-2026-06-18-3e62b64d|lovable-2026-06-18-2026-06-18-3e62b64d]]'
@@ -93,7 +93,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-06-17 · OpenCode · [[Changes/OpenCode/2026-06-17-desktop-added-a-home-tab-toggle-so-you-can-quickly-switch-between-home-and-your|Desktop Added a Home tab toggle so you can quickly switch between Home and your last tab]]
-- Later: 2026-06-19 · v0 · [[Changes/v0/2026-06-19-inspect-on-vercel-and-analytics-stay-disabled-until-a-deployment-has-an-inspecto|Inspect on Vercel and Analytics stay disabled until a deployment has an inspector…]]
+- Later: 2026-06-18 · Raycast · [[Changes/Raycast/2026-06-18-ai-browser-extension-improvements-for-fetching-the-currently-active-tab|AI : Browser extension improvements for fetching the currently active tab]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

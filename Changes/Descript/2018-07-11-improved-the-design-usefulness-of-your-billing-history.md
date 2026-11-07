@@ -12,12 +12,12 @@ diffusion:
   role: first-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 23a4b9cc67f0d476535221078a9e87f8b87ba7543cf3df30e21ee247e7fce1a2
+machine_hash: 5ee624e179dfb7a50143d60c9412e0df5e2bf598e1fbe933376c2df91713a3b4
 product: descript
 product_name: Descript
 record:
@@ -72,7 +72,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry among the 37 tracked products.
+- Earliest same-theme entry among the 45 tracked products.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

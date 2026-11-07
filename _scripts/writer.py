@@ -9,7 +9,7 @@ from collections import Counter, defaultdict
 from datetime import date, timedelta
 from pathlib import Path
 from typing import Any
-from urllib.parse import quote, urlencode
+from urllib.parse import quote, urlencode, urljoin, urlsplit
 
 import frontmatter
 
@@ -882,12 +882,29 @@ def change_description(
 TAG_LIKE_RE = re.compile(r"<(?=[A-Za-z/!?])")
 CODE_SPAN_RE = re.compile(r"(`+[^`]*`+)")
 WWW_LINK_RE = re.compile(r"(\]\(\s*)(www\.[^\s)]+)")
+SOURCE_LINK_RE = re.compile(r"(\]\(\s*)([^\s)]+)")
 
 
-def quote_markdown(quote: str) -> str:
-    """A source quote with tag-like ``<`` escaped outside inline code spans."""
+def quote_markdown(quote: str, source_url: str = "") -> str:
+    """Keep quote text literal and resolve source links in their original context."""
+    def source_link(match: re.Match) -> str:
+        target = match[2]
+        if not source_url or urlsplit(target).scheme:
+            return match[0]
+        source = urlsplit(source_url)
+        github = re.fullmatch(r"/([^/]+/[^/]+)/releases/tag/(.+)", source.path)
+        if source.netloc == "github.com" and github and not target.startswith(("#", "?", "//")):
+            # GitHub renders release-note paths relative to the tagged repository,
+            # including root-relative paths; they are not ChronoLog vault links.
+            base = f"{source.scheme}://{source.netloc}/{github[1]}/blob/{github[2]}/"
+            target = urljoin(base, target.lstrip("/"))
+        else:
+            target = urljoin(source_url, target)
+        return match[1] + target
+
     return "".join(
-        part if part.startswith("`") else WWW_LINK_RE.sub(r"\1https://\2", TAG_LIKE_RE.sub(r"\\<", part))
+        part if part.startswith("`") else SOURCE_LINK_RE.sub(
+            source_link, WWW_LINK_RE.sub(r"\1https://\2", TAG_LIKE_RE.sub(r"\\<", part)))
         for part in CODE_SPAN_RE.split(str(quote))
     )
 
@@ -897,15 +914,15 @@ def render_evidence(card: dict[str, Any]) -> str:
     evidence = card["evidence"]
     sources = list(dict.fromkeys(str(item["source_release"]) for item in evidence))
     if card.get("kind") == "digest":
-        quotes = "\n\n".join(f"> {quote_markdown(item['quote'])}" for item in evidence)
+        quotes = "\n\n".join(f"> {quote_markdown(item['quote'], item['source_release'])}" for item in evidence)
         return f"## Changes in this digest\n\n{quotes}\n\n" + "\n".join(
             f"Source: {source}" for source in sources
         )
     if len(evidence) > 1 and len(sources) == 1:
-        quotes = "\n>\n".join(f"> {quote_markdown(item['quote'])}" for item in evidence)
+        quotes = "\n>\n".join(f"> {quote_markdown(item['quote'], item['source_release'])}" for item in evidence)
         return f"{quotes}\n>\n> Source: {sources[0]}"
     return "\n\n".join(
-        f"> {quote_markdown(item['quote'])}\n>\n> Source: {item['source_release']}"
+        f"> {quote_markdown(item['quote'], item['source_release'])}\n>\n> Source: {item['source_release']}"
         for item in evidence
     )
 

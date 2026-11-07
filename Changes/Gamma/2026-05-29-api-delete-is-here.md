@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: e2089bc37c82883b6013e2129a5afd9f4b862b497291c897c46a6525eb91cf30
+machine_hash: bc2a9902e6706a6c124c0d957c03964d15f82052aef0b8f78b2ab3177a1fcb0d
 product: gamma
 product_name: Gamma
 record:
@@ -43,9 +43,9 @@ record:
   title: API delete is here
   type: change
 related_changes:
-- '[[Changes/Dify/2026-05-19-chore-enchance-copywriting-in-none-education-plan-warning-modal-by-iamjoel-in-ht|chore:
-  enchance copywriting in none education plan warning modal]]'
-- '[[Changes/Lovable/2026-05-21-branded-app-urls|Branded app URLs]]'
+- '[[Changes/Devin/2026-05-22-enterprise-max-concurrent-snapshot-builds|Enterprise
+  Max Concurrent Snapshot Builds]]'
+- '[[Changes/Devin/2026-05-22-pr-review-status-api|PR Review Status API]]'
 - '[[Changes/Codex CLI/2026-05-26-23736-add-new-enterprise-requirement-gate-adams-oai|♯23736
   Add new enterprise requirement gate @adams-oai]]'
 source_release: '[[Releases/Gamma/gamma-2026-05-29-6a0c9b3c7fd2e7ae2339a213-8ddc732b|gamma-2026-05-29-6a0c9b3c7fd2e7ae2339a213-8ddc732b]]'

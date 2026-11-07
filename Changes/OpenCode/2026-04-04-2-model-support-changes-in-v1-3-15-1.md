@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9fae3b4625fbe26a122594dbdd1105adcf398e6480f1c53c966166a5d9b8a7be
+machine_hash: 21b1dbe1eeab139a2fe3397edc8fc1751a6e48cfe3b225cb19c9446fc9864307
 product: opencode
 product_name: OpenCode
 record:
@@ -42,10 +42,10 @@ record:
   title: 2 Model Support changes in v1.3.15 + 1
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-01-remove-support-for-gpt-5-1-codex-gpt-5-1-codex-mini-and-gpt-5-1-codex-max-models|Remove
-  support for gpt-5.1-codex, gpt-5.1-codex-mini, and gpt-5.1-codex-max models]]'
 - '[[Changes/Ollama/2026-04-02-26b-mixture-of-experts-model-with-4b-active-parameters|26B
   (Mixture of Experts model with 4B active parameters)]]'
+- '[[Changes/Recraft/2026-04-03-we-ve-added-veo-3-1-lite-a-cost-efficient-video-model-for-fast-generation-and-hi|Recraft
+  adds Veo 3.1 Lite, a cost-efficient video model for fast generation…]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-04-new-critic-agent-automatically-reviews-plans-and-complex-implementations-using-a|New
   Critic agent automatically reviews plans and complex implementations using…]]'
 source_release: '[[Releases/OpenCode/opencode-2026-04-04-v1-3-15-6f7be106|opencode-2026-04-04-v1-3-15-6f7be106]]'

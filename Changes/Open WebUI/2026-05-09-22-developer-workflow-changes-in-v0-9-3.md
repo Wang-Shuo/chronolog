@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 34f9601e4ab9ad06090afd244018eaecb8c1c6ea944997a73a36afc342343a6c
+machine_hash: 8694f9f7db4657e3174600c44bc7dfa9acfdc6a8692c522f70dfc6069b6bcf73
 product: open-webui
 product_name: Open WebUI
 record:
@@ -151,12 +151,12 @@ record:
   title: 22 Developer Workflow changes in v0.9.3
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-08-2-developer-workflow-changes-in-v2-1-136|2 Developer
-  Workflow changes in v2.1.136]]'
-- '[[Changes/Codex CLI/2026-05-08-added-configurable-opentelemetry-trace-metadata-and-richer-review-feedback-analy|Added
-  configurable OpenTelemetry trace metadata and richer review/feedback analytics…]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-08-2-developer-workflow-changes-in-v1-0-44|2
   Developer Workflow changes in v1.0.44]]'
+- '[[Changes/Raycast/2026-05-08-ai-commands-improved-summarize-webpage-command-giving-responses-that-were-too-sh|AI
+  Commands : Improved summarize webpage command giving responses that were too short]]'
+- '[[Changes/Raycast/2026-05-08-2-developer-workflow-changes-in-raycast-windows-0-56|2
+  Developer Workflow changes in Raycast windows 0.56]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-05-09-v0-9-3-github-319872270-bb8aabca|open-webui-2026-05-09-v0-9-3-github-319872270-bb8aabca]]'
 source_type: github_releases
 theme: developer-workflow
@@ -242,7 +242,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.9.3
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-05-08 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-08-2-developer-workflow-changes-in-v1-0-44|2 Developer Workflow changes in v1.0.44]]
+- Earlier: 2026-05-08 · Raycast · [[Changes/Raycast/2026-05-08-2-developer-workflow-changes-in-raycast-windows-0-56|2 Developer Workflow changes in Raycast windows 0.56]]
 - Later: 2026-05-09 · OpenCode · [[Changes/OpenCode/2026-05-09-3-developer-workflow-changes-in-v1-14-44-2|3 Developer Workflow changes in v1.14.44 + 2]]
 <!-- chronolog:end -->
 

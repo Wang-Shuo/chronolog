@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: a74051bc67d312b87de6023eb0ac2c1b6df4a505c55c286bfc7e44bbbc1df90b
+machine_hash: 049326333692599e6c32599337d650b06736fcd8506244ad5b36b6dda8dc3280
 product: descript
 product_name: Descript
 record:
@@ -56,10 +56,10 @@ record:
   title: Editor improvements
   type: change
 related_changes:
-- '[[Changes/Notion/2021-08-10-buttons-across-the-notion-interface-can-now-be-highlighted-with-the-tab-key-and|Buttons
-  across the Notion interface can now be highlighted with the tab key…]]'
 - '[[Changes/Notion/2021-09-08-better-url-properties-in-databases|Better URL properties
   in databases]]'
+- '[[Changes/Raycast/2021-09-10-scripts-invalid-script-encoding-is-now-detected-by-raycast-letting-the-user-re-e|Scripts
+  : Invalid script encoding is now detected by Raycast, letting the user…]]'
 - '[[Changes/Descript/2021-09-21-word-gap-toolbar-control|Word Gap toolbar control]]'
 source_release: '[[Releases/Descript/descript-2021-10-07-6390c9cd4a4a0d64fa56472c-f35f9385|descript-2021-10-07-6390c9cd4a4a0d64fa56472c-f35f9385]]'
 source_type: canny_changelog

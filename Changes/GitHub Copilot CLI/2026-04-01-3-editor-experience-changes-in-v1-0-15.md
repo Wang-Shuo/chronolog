@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: bf8bba90b4c721501741bc158f456b19da0aa4287c42a68fff64f82d6a31b39b
+machine_hash: a06b78e86b23091b7bfcb622fc15a22fbcb5f259bffe62c5ecba78fc8385f5e8
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,10 +44,9 @@ record:
   title: 3 Editor Experience changes in v1.0.15
   type: change
 related_changes:
-- '[[Changes/HeyGen/2026-03-31-where-to-find-it-apps-tab-upscale-video|Where to find
-  it: Apps tab → Upscale Video]]'
 - '[[Changes/Claude Code/2026-04-01-changed-edit-to-work-on-files-viewed-via-bash-with-sed-n-or-cat-without-requirin|Changed
   Edit to work on files viewed via Bash with sed -n or cat, without…]]'
+- '[[Changes/Devin/2026-04-01-tab-title-simplification|Tab Title Simplification]]'
 - '[[Changes/Gemini CLI/2026-04-01-refactor-ide-replace-dynamic-undici-import-with-static-fetch-import-by-cocosheng|refactor(ide):
   replace dynamic undici import with static fetch import]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-04-01-v1-0-15-github-304307238-4db7dc28|github-copilot-cli-2026-04-01-v1-0-15-github-304307238-4db7dc28]]'

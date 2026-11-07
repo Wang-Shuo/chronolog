@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ea0d7f3dddbd0d84287c0fc0a0fef152522432a445da0e0dc8d8500d0c6b52d3
+machine_hash: 758c75f9f448bf638536de19bc46727efe5b741df40d2ac04b9c20f51b854aef
 product: cline
 product_name: Cline
 record:
@@ -92,7 +92,7 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2026-07-22 · Kimi Code · [[Changes/Kimi Code/2026-07-22-send-the-session-prompt-cache-key-to-openai-and-openai-responses-providers|Send the session prompt cache key to OpenAI and OpenAI Responses providers]]
-- Later: 2026-07-25 · Lovable · [[Changes/Lovable/2026-07-25-leaked-api-keys-are-revoked-automatically|Leaked API keys are revoked automatically]]
+- Later: 2026-07-24 · Devin · [[Changes/Devin/2026-07-24-oidc-identity-tokens|OIDC Identity Tokens]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

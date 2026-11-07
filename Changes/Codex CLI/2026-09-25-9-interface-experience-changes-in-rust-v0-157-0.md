@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9cc7151a24c71b716b5801bad05482eb48751f660935c0a111316eefb38518ae
+machine_hash: 6b3d69b3241689ed474396d3599e3629968aa7cbba3065ea141f74ab07171781
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -124,7 +124,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.157.0
 ## Nearby in Interface Experience
 
 - Earlier: 2026-09-25 · Claude Code · [[Changes/Claude Code/2026-09-25-2-interface-experience-changes-in-v2-1-283|2 Interface Experience changes in v2.1.283]]
-- Later: 2026-09-28 · Claude Code · [[Changes/Claude Code/2026-09-28-added-effortslider-decreaseeffort-increaseeffort-and-toggleultracode-keybinding|Added effortSlider:decreaseEffort, increaseEffort and toggleUltracode…]]
+- Later: 2026-09-25 · Devin · [[Changes/Devin/2026-09-25-keyboard-next-previous-session-and-cmd-enter-to-submit-dialogs|Keyboard: Next/Previous Session and Cmd+Enter to Submit Dialogs]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

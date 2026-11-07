@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: eaaeb9f181cd03d6c5f2ac283abc179e3b8bdca6f42d910ab8779ace29592f7e
+machine_hash: 7f7404a88d5b473cff11d9bba4e9a2b5240d496f29fa63f863f54641ab300f76
 product: claude-code
 product_name: Claude Code
 record:
@@ -96,7 +96,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.299
 ## Nearby in Editor Experience
 
 - Earlier: 2026-10-14 · Claude Code · [[Changes/Claude Code/2026-10-14-3-editor-experience-changes-in-v2-1-300|3 Editor Experience changes in v2.1.300]]
-- Later: 2026-10-14 · Open WebUI · [[Changes/Open WebUI/2026-10-14-open-attached-knowledge-from-its-preview-clicking-the-name-in-the-preview-of-an|📚 Open attached knowledge from its preview. Clicking the name in the preview…]]
+- Later: 2026-10-14 · Devin · [[Changes/Devin/2026-10-14-filenames-on-diff-and-patch-attachments|Filenames on Diff and Patch Attachments]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

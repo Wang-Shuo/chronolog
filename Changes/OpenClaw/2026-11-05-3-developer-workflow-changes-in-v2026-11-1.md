@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: dbac0b06872f23543af7ca992a72704d8d6ee5be692d9adedb59c888fd1452db
+machine_hash: bbf4476f0efcb46d4065b5e376302d29985d294719b72a0ed7bb07b7d1a8341f
 product: openclaw
 product_name: OpenClaw
 record:
@@ -48,12 +48,12 @@ record:
   title: 3 Developer Workflow changes in v2026.11.1
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-11-03-18-developer-workflow-changes-in-v2026-10-10|18 Developer
-  Workflow changes in v2026.10.10]]'
 - '[[Changes/Dify/2026-11-04-2-developer-workflow-changes-in-1-19-0|2 Developer Workflow
   changes in 1.19.0]]'
 - '[[Changes/Kimi Code/2026-11-04-create-remote-sessions-in-ssh-docker-or-custom-command-environments|Create
   remote sessions in SSH, Docker, or custom-command environments]]'
+- '[[Changes/Raycast/2026-11-04-2-developer-workflow-changes-in-raycast-windows-2-11|2
+  Developer Workflow changes in Raycast windows 2.11]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-11-05-v2026-11-1-7d3de823|openclaw-2026-11-05-v2026-11-1-7d3de823]]'
 source_type: openclaw_changelog
 theme: developer-workflow
@@ -102,7 +102,7 @@ Source: https://docs.openclaw.ai/releases/2026.11.1
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-11-04 · Kimi Code · [[Changes/Kimi Code/2026-11-04-create-remote-sessions-in-ssh-docker-or-custom-command-environments|Create remote sessions in SSH, Docker, or custom-command environments]]
+- Earlier: 2026-11-04 · Raycast · [[Changes/Raycast/2026-11-04-2-developer-workflow-changes-in-raycast-windows-2-11|2 Developer Workflow changes in Raycast windows 2.11]]
 - Later: 2026-11-06 · Codex CLI · [[Changes/Codex CLI/2026-11-06-6-developer-workflow-changes-in-rust-v0-167-0|6 Developer Workflow changes in rust-v0.167.0]]
 <!-- chronolog:end -->
 

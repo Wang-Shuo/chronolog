@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 9bf0b46ee50c5751874a5856ba0a64e018e5031c712369b66ebf5ef37e467be9
+machine_hash: e804441edf8408906cd661816e1e0f61c3701d047233c71c6131acbb90447e57
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2025-11-26 · Dify · [[Changes/Dify/2025-11-26-3-developer-workflow-changes-in-1-10-1|3 Developer Workflow changes in 1.10.1]]
-- Later: 2025-12-02 · Cline · [[Changes/Cline/2025-12-02-2-developer-workflow-changes-in-v3-39-0|2 Developer Workflow changes in v3.39.0]]
+- Later: 2025-11-27 · Raycast · [[Changes/Raycast/2025-11-27-confetti|Confetti]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

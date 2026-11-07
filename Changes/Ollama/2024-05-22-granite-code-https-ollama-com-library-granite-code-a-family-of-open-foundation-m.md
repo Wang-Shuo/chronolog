@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ecbe408405c8c8e1d996233468763aa133c2e9a1297032615fdd2ca0ddd1a648
+machine_hash: 1834f533860488ae58641f4608f108be92b632dd04cee2e46683edcdd13b592b
 product: ollama
 product_name: Ollama
 record:
@@ -53,8 +53,8 @@ record:
     foundation…'
   type: change
 related_changes:
-- '[[Changes/Aider/2024-05-10-2-developer-workflow-changes-in-v0-34-0|2 Developer
-  Workflow changes in v0.34.0]]'
+- '[[Changes/Devin/2024-05-13-open-vs-code-access-devin-s-machine|Open VS Code: Access
+  Devin''s machine]]'
 - '[[Changes/Dify/2024-05-13-feat-support-copy-run-text-result-in-debug-panel-in-workflow-by-iamjoel-in-https|feat:
   support copy run text result in debug panel in workflow]]'
 - '[[Changes/Aider/2024-05-22-4-developer-workflow-changes-in-v0-36-0|4 Developer

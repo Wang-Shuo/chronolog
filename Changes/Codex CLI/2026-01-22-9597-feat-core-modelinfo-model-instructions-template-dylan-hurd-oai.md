@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 9c3909ce1286c885f475e0e5fa6f1d28540ba44e3c20e1ffdb6936f882a35137
+machine_hash: f583d5eb1dd1b2259b147237277eac9c2f74a670d39238839a58a725846706fb
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,10 +43,10 @@ record:
   title: '#9597 feat(core) ModelInfo.model_instructions_template @dylan-hurd-oai'
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-01-21-3-model-support-changes-in-v1-1-29|3 Model Support
-  changes in v1.1.29]]'
 - '[[Changes/OpenCode/2026-01-21-4-model-support-changes-in-v1-1-30|4 Model Support
   changes in v1.1.30]]'
+- '[[Changes/AnythingLLM/2026-01-22-3-model-support-changes-in-v1-10-0|3 Model Support
+  changes in v1.10.0]]'
 - '[[Changes/ChatGPT/2026-01-22-we-re-updating-gpt-5-2-instant-s-default-personality-to-be-more-conversational-a|5.2
   Personality System Prompt Update]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-01-22-rust-v0-89-0-github-279171728-1aea28c3|codex-cli-2026-01-22-rust-v0-89-0-github-279171728-1aea28c3]]'

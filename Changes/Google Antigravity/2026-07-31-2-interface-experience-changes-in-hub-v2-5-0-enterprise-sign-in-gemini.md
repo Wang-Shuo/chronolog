@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ad660749a4032c2da65b04f0750a768f8c5faed96638317fd55f4efebb19a13e
+machine_hash: 5ae641fbdb3bf5fcc13c155f9681c8f0016581dd02b7643d2be2bda81261f6e5
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -43,12 +43,11 @@ record:
   title: '2 Interface Experience changes in HUB v2.5.0 — Enterprise sign-in: Gemini…'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-07-29-8-interface-experience-changes-in-rust-v0-146-0|8
-  Interface Experience changes in rust-v0.146.0]]'
-- '[[Changes/Kimi Code/2026-07-29-add-a-customizable-footer-status-line-configured-via-status-line-in-tui-toml|Add
-  a customizable footer status line, configured via status_line in tui.toml]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-30-4-interface-experience-changes-in-v1-0-76|4
   Interface Experience changes in v1.0.76]]'
+- '[[Changes/Superwhisper/2026-07-30-2-interface-experience-changes-in-superwhisper-windows-1-5-8|2
+  Interface Experience changes in Superwhisper Windows 1.5.8]]'
+- '[[Changes/Devin/2026-07-31-session-sidebar-improvements|Session Sidebar Improvements]]'
 source_release: '[[Releases/Google Antigravity/google-antigravity-2026-07-31-rel-hub-2-5-0-d3956b02|google-antigravity-2026-07-31-rel-hub-2-5-0-d3956b02]]'
 source_type: antigravity_changelog
 theme: interface-experience
@@ -91,7 +90,7 @@ Source: https://antigravity.google/releases?tab=hub&version=2.5.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-07-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-30-4-interface-experience-changes-in-v1-0-76|4 Interface Experience changes in v1.0.76]]
+- Earlier: 2026-07-31 · Devin · [[Changes/Devin/2026-07-31-session-sidebar-improvements|Session Sidebar Improvements]]
 - Later: 2026-07-31 · Kimi Code · [[Changes/Kimi Code/2026-07-31-reduce-frequent-full-screen-redraws-in-the-tui|Reduce frequent full-screen redraws in the TUI]]
 <!-- chronolog:end -->
 

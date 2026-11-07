@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 111fb98df2c285a3060ebcd0ecde1830239ffb76ad8b9b8cf3b636317a850df5
+machine_hash: dc2587d4d240cc7f67168f92aa44948ed6f972d48b36b6fef86c2c811c0f561d
 product: opencode
 product_name: OpenCode
 record:
@@ -41,12 +41,12 @@ record:
   title: Core Enabled web search when using the OpenCode Go provider
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-08-13-if-you-have-the-google-drive-plugin-connected-you-can-now-see-and-browse-your-go-97f18f|If
-  you have the Google Drive plugin connected, you can now see and browse…]]'
 - '[[Changes/Ollama/2026-08-14-the-openai-compatible-responses-api-now-supports-web-search|The
   OpenAI-compatible Responses API now supports web search]]'
 - '[[Changes/Cursor/2026-08-17-cursor-can-now-host-your-code|Cursor can now host your
   code]]'
+- '[[Changes/Raycast/2026-08-19-game-launcher-new-game-launcher-command-to-browse-every-installed-game-and-launc|Game
+  Launcher : New Game Launcher command to browse every installed game…]]'
 source_release: '[[Releases/OpenCode/opencode-2026-08-20-v1-18-19-508fcbd5|opencode-2026-08-20-v1-18-19-508fcbd5]]'
 source_type: opencode_changelog
 theme: search-browsing
@@ -78,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Search and Browsing
 
-- Earlier: 2026-08-17 · Cursor · [[Changes/Cursor/2026-08-17-cursor-can-now-host-your-code|Cursor can now host your code]]
+- Earlier: 2026-08-19 · Raycast · [[Changes/Raycast/2026-08-19-game-launcher-new-game-launcher-command-to-browse-every-installed-game-and-launc|Game Launcher : New Game Launcher command to browse every installed game…]]
 - Later: 2026-08-21 · OpenCode · [[Changes/OpenCode/2026-08-21-desktop-keep-file-search-results-visible-while-the-next-search-is-loading|Desktop Keep file search results visible while the next search is loading]]
 <!-- chronolog:end -->
 

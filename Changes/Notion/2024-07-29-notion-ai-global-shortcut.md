@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 84fe1a2c4d2548aafa4ef06ea552267bbec11a2addcd7eac0f493094fe120f26
+machine_hash: 62ae58f6d51ee7ecd6be22233be2ed91bb2d4d952d8e9389b3c9c23a17c06f8d
 product: notion
 product_name: Notion
 record:
@@ -49,12 +49,12 @@ record:
   title: Notion AI global shortcut
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2024-07-09-font-change-for-windows-replaced-arimo-with-inter-font-for-windows-users-improvi|\U0001F504
-  Font Change for Windows]]"
 - '[[Changes/Notion/2024-07-17-use-notion-calendar-on-android|Use Notion Calendar
   on Android]]'
 - '[[Changes/Aider/2024-07-18-aider-is-better-at-offering-to-add-files-to-the-chat-on-windows|Aider
   is better at offering to add files to the chat on Windows]]'
+- '[[Changes/AnythingLLM/2024-07-26-4-mobile-and-desktop-changes-in-v1-0-0|4 Mobile
+  and Desktop changes in v1.0.0]]'
 source_release: '[[Releases/Notion/notion-2024-07-29-https-www-notion-com-releases-2024-07-29-6cd461d8|notion-2024-07-29-https-www-notion-com-releases-2024-07-29-6cd461d8]]'
 source_type: notion_changelog
 theme: mobile-desktop
@@ -87,7 +87,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2024-07-18 · Aider · [[Changes/Aider/2024-07-18-aider-is-better-at-offering-to-add-files-to-the-chat-on-windows|Aider is better at offering to add files to the chat on Windows]]
+- Earlier: 2024-07-26 · AnythingLLM · [[Changes/AnythingLLM/2024-07-26-4-mobile-and-desktop-changes-in-v1-0-0|4 Mobile and Desktop changes in v1.0.0]]
 - Later: 2024-07-30 · Ollama · [[Changes/Ollama/2024-07-30-ollama-on-windows-will-now-show-better-error-messages-if-required-files-are-miss|Ollama on Windows will now show better error messages if required files are missing]]
 <!-- chronolog:end -->
 

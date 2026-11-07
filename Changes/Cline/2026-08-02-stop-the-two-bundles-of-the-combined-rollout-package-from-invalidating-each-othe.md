@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: a52cbc607e7e76b8cdbd30c8d9b6278ca351c8dcb792f026926b9cc4638a345e
+machine_hash: a68c3dbfef6865f483aa74a1e94b66c16e436dac33452c3b79414a77b9422557
 product: cline
 product_name: Cline
 record:
@@ -55,10 +55,10 @@ record:
     other's…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-07-29-switch-between-teams-that-you-belong-to-directly-in-the-app|Switch
-  between teams that you belong to directly in the app]]'
 - '[[Changes/HeyGen/2026-07-29-two-ai-hosts-share-a-real-studio-scene-reacting-to-each-other-rather-than-appear|Two
   AI hosts share a real studio scene, reacting to each other rather than appearing…]]'
+- '[[Changes/Devin/2026-07-31-this-release-also-includes-many-smaller-fixes-and-improvements-including-slack-a|This
+  release also includes many smaller fixes and improvements, including Slack…]]'
 - '[[Changes/Notion/2026-07-31-turn-feedback-into-tickets-for-your-engineering-team|Turn
   feedback into tickets for your engineering team]]'
 source_release: '[[Releases/Cline/cline-2026-08-02-v4-1-3-github-363709138-84b1555e|cline-2026-08-02-v4-1-3-github-363709138-84b1555e]]'

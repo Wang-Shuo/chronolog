@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: ff79a9068dc176d66c8403ed22259637035c31cb010479c4e70691803fe795c1
+machine_hash: 8b10c77b09b8bf037006ec0fefb6c4d85e97221fabe9de1bbe522d3a7361aa73
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -41,8 +41,8 @@ record:
   title: '#38650 Canonicalize default namespaces in gRPC subscription filters @copyberry'
   type: change
 related_changes:
-- '[[Changes/Microsoft 365 Copilot/2026-08-11-consumption-dashboard-tracks-copilot-credit-usage-web-viva-insights|Consumption
-  Dashboard tracks Copilot credit usage Web (Viva Insights)]]'
+- '[[Changes/Recraft/2026-08-13-cost-18-credits-per-generation-for-480p-and-41-credits-for-720p|Cost:
+  18 credits per generation for 480p and 41 credits for 720p]]'
 - '[[Changes/v0/2026-08-14-billing-and-checkout-show-actionable-payment-errors-scope-appropriate-upgrade-pl|Billing
   and checkout show actionable payment errors, scope-appropriate upgrade…]]'
 - '[[Changes/Lovable/2026-08-17-credit-check-ins-for-long-running-messages-beta|Credit

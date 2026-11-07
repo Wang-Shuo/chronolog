@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6d2e9a0a31dc2cecbcc7afb21afc02b41e5fd57b0f3c0655fec243945366450a
+machine_hash: 374b14c7b618c115bc883a3dc97eaef8bb338c0d72b94701ce9761cb7a85eca8
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -88,7 +88,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v0.0.396
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-01-27 · Codex CLI · [[Changes/Codex CLI/2026-01-27-2-developer-workflow-changes-in-rust-v0-92-0|2 Developer Workflow changes in rust-v0.92.0]]
-- Later: 2026-01-27 · v0 · [[Changes/v0/2026-01-27-projects-connected-to-your-actual-app-with-code-environment-variables-deployment|Projects : connected to your actual app, with code, environment variables…]]
+- Later: 2026-01-27 · Raycast · [[Changes/Raycast/2026-01-27-2-developer-workflow-changes-in-raycast-windows-0-43|2 Developer Workflow changes in Raycast windows 0.43]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

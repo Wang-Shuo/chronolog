@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 8177e39eb1555a8c1b116e7ac63663a1c01173e1266d5deced9ab3faac0412d9
+machine_hash: ea6a029a52baa0f519980a4b4ca38e4ec3f6dfbd712a28217c2e78786f5c9d4a
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,12 +47,12 @@ record:
     support…
   type: change
 related_changes:
-- '[[Changes/Kimi Code/2026-07-20-2-developer-workflow-changes-in-kimi-code-0-28-0|2
-  Developer Workflow changes in Kimi Code 0.28.0]]'
 - '[[Changes/Kimi Code/2026-07-20-run-web-servers-foreground-only-end-to-end-the-web-slash-command-now-always-star|Run
   web servers foreground-only end to end]]'
 - '[[Changes/OpenCode/2026-07-20-sync-the-embedded-terminal-theme-with-the-app-theme|Sync
   the embedded terminal theme with the app theme]]'
+- '[[Changes/Raycast/2026-07-20-notes-exit-a-code-block-by-tapping-the-empty-area-below-it|Notes
+  : Exit a code block by tapping the empty area below it]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-21-v2-1-217-github-357601516-b5c19f5d|claude-code-2026-07-21-v2-1-217-github-357601516-b5c19f5d]]'
 source_type: github_releases
 theme: developer-workflow
@@ -87,7 +87,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-07-20 · OpenCode · [[Changes/OpenCode/2026-07-20-sync-the-embedded-terminal-theme-with-the-app-theme|Sync the embedded terminal theme with the app theme]]
+- Earlier: 2026-07-20 · Raycast · [[Changes/Raycast/2026-07-20-notes-exit-a-code-block-by-tapping-the-empty-area-below-it|Notes : Exit a code block by tapping the empty area below it]]
 - Later: 2026-07-21 · Codex CLI · [[Changes/Codex CLI/2026-07-21-12-developer-workflow-changes-in-rust-v0-145-0|12 Developer Workflow changes in rust-v0.145.0]]
 <!-- chronolog:end -->
 

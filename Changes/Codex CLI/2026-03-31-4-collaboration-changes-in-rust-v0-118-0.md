@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9d5cde6ae429f2c10b93a8e6f7046eef7e755e5e016f183244bfede0da848671
+machine_hash: 4c99ce11822ddcf06cbed97c301ca965467d40a6ac6a6dcb0b943b4e39ab4dd3
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -46,12 +46,12 @@ record:
   title: 4 Collaboration changes in rust-v0.118.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-25-added-managed-settings-d-drop-in-directory-alongside-managed-settings-json-letti|Added
-  managed-settings.d/ drop-in directory alongside managed-settings.json…]]'
 - "[[Changes/Open WebUI/2026-03-25-shared-chat-viewing-crash-shared-chats-can-now-be-viewed-by-unauthenticated-user|\U0001F41B
   Shared chat viewing crash. Shared chats can now be viewed by unauthenticated…]]"
 - '[[Changes/Dify/2026-03-27-test-workflow-reorganize-specs-into-tests-and-align-with-shared-test-infrastruct|test(workflow):
   reorganize specs into tests and align with shared test infrastructure]]'
+- '[[Changes/Raycast/2026-03-27-teams-create-and-manage-webhook-commands|Teams : Create
+  and Manage Webhook Commands]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-03-31-rust-v0-118-0-github-303805427-02df59b6|codex-cli-2026-03-31-rust-v0-118-0-github-303805427-02df59b6]]'
 source_type: github_releases
 theme: collaboration
@@ -100,8 +100,8 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.118.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-03-27 · Dify · [[Changes/Dify/2026-03-27-test-workflow-reorganize-specs-into-tests-and-align-with-shared-test-infrastruct|test(workflow): reorganize specs into tests and align with shared test infrastructure]]
-- Later: 2026-04-02 · Cursor · [[Changes/Cursor/2026-04-02-2-collaboration-changes-in-3-0|2 Collaboration changes in 3.0]]
+- Earlier: 2026-03-27 · Raycast · [[Changes/Raycast/2026-03-27-teams-create-and-manage-webhook-commands|Teams : Create and Manage Webhook Commands]]
+- Later: 2026-04-01 · Devin · [[Changes/Devin/2026-04-01-add-or-create-team|Add or Create Team]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

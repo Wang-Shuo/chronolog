@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 05b8b8fa7628f062cc6172d679e5a5b99a78f2a171785c0d1d555a86df918e9f
+machine_hash: 62f994a55944d807f6c124ee4562cc8b93ce6ea4824f160b736177478455fabf
 product: claude-code
 product_name: Claude Code
 record:
@@ -55,12 +55,12 @@ record:
   title: Improved responsiveness in long sessions
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-09-11-2-reliability-and-performance-changes-in-v2026-9-4|2
-  Reliability and Performance changes in v2026.9.4]]'
-- '[[Changes/Claude Code/2026-09-14-improved-terminal-rendering-performance-large-diffs-and-long-transcripts-render|Improved
-  terminal rendering performance]]'
 - '[[Changes/Ollama/2026-09-14-2-reliability-and-performance-changes-in-v0-34-1|2
   Reliability and Performance changes in v0.34.1]]'
+- '[[Changes/Raycast/2026-09-14-2-reliability-and-performance-changes-in-raycast-macos-2-4|2
+  Reliability and Performance changes in Raycast macos 2.4]]'
+- '[[Changes/Superwhisper/2026-09-14-faster-offline-model-startup|Faster offline model
+  startup]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-15-v2-1-273-github-389362239-6ea37826|claude-code-2026-09-15-v2-1-273-github-389362239-6ea37826]]'
 source_type: github_releases
 theme: reliability-performance
@@ -100,7 +100,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-09-14 · Ollama · [[Changes/Ollama/2026-09-14-2-reliability-and-performance-changes-in-v0-34-1|2 Reliability and Performance changes in v0.34.1]]
+- Earlier: 2026-09-14 · Superwhisper · [[Changes/Superwhisper/2026-09-14-faster-offline-model-startup|Faster offline model startup]]
 - Later: 2026-09-15 · Google Antigravity · [[Changes/Google Antigravity/2026-09-15-removed-a-redundant-scan-of-your-skills-rules-and-other-customization-files-that|Removed a redundant scan of your skills, rules, and other customization files…]]
 <!-- chronolog:end -->
 

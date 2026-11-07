@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 825718087d27b8be3f9b27cfa3c39cc6d3c60faabb1984e5e8faae43ecd4deec
+machine_hash: d455dc4e29cdf7b28c8f2da8ff347372a477719e3f1d9fc6c1a1b4c5e40a06a1
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,11 +43,12 @@ record:
   title: '#45960 Tag memory usage telemetry with the memory version @jif-oai'
   type: change
 related_changes:
-- '[[Changes/Descript/2026-09-17-faster-aaf-and-sesx-exports|Faster AAF and SESX exports]]'
 - '[[Changes/OpenClaw/2026-09-19-5-reliability-and-performance-changes-in-v2026-9-5|5
   Reliability and Performance changes in v2026.9.5]]'
 - "[[Changes/Open WebUI/2026-09-21-general-improvements-various-improvements-were-implemented-across-the-applicatio|\U0001F504
   General improvements. Various improvements were implemented across…]]"
+- '[[Changes/AnythingLLM/2026-09-22-x-mistral-embeddings-are-now-batched-making-large-document-embedding-significant|x
+  Mistral embeddings are now batched, making large document embedding…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-09-22-rust-v0-156-0-github-394061815-b23dd5f4|codex-cli-2026-09-22-rust-v0-156-0-github-394061815-b23dd5f4]]'
 source_type: github_releases
 theme: reliability-performance
@@ -94,7 +95,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-09-21 · Open WebUI · [[Changes/Open WebUI/2026-09-21-general-improvements-various-improvements-were-implemented-across-the-applicatio|🔄 General improvements. Various improvements were implemented across…]]
+- Earlier: 2026-09-22 · AnythingLLM · [[Changes/AnythingLLM/2026-09-22-x-mistral-embeddings-are-now-batched-making-large-document-embedding-significant|x Mistral embeddings are now batched, making large document embedding…]]
 - Later: 2026-09-22 · Google Antigravity · [[Changes/Google Antigravity/2026-09-22-discovering-skills-and-other-customizations-is-now-dramatically-faster-on-large|Discovering skills and other customizations is now dramatically faster on large…]]
 <!-- chronolog:end -->
 

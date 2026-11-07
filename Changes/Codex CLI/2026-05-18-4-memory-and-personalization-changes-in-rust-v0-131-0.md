@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 29939e40bc4971f84c522a08c817803bc3bc70e6a033d8b4faf5414b6b23dac8
+machine_hash: 312a435e74c9cbf9fcc71f1e89f28668a5e2e4ff350ae857d79e2d22d3b4befe
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -48,8 +48,8 @@ record:
   title: 4 Memory and Personalization changes in rust-v0.131.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-05-07-16-memory-and-personalization-changes-in-rust-v0-129-0|16
-  Memory and Personalization changes in rust-v0.129.0]]'
+- '[[Changes/Raycast/2026-05-08-import-add-support-for-importing-ai-extension-custom-instructions|Import
+  : Add support for importing AI extension custom instructions]]'
 - '[[Changes/Open WebUI/2026-05-09-faster-memory-query-performance-per-user-memory-lookups-and-deletions-now-run-mu|⚡
   Faster memory query performance. Per-user memory lookups and deletions now run…]]'
 - '[[Changes/Gemini CLI/2026-05-12-feat-memory-add-auto-memory-inbox-flow-with-canonical-patch-contract-by-sandytao|feat(memory):

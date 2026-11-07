@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: d41e0869d6a9184009792cc4894fc795135521013ce58ba4b58474a04f569a44
+machine_hash: c2860f40336bdfbdd405393e354c657f8a8d4cb4db3af6440bf9f9034bb8d1c6
 product: suno
 product_name: Suno
 record:
@@ -45,8 +45,8 @@ record:
   title: Pro / Premier creators now get 50 credits per day
   type: change
 related_changes:
-- '[[Changes/Gemini/2024-07-15-workspace-extensions-now-available-in-beta-for-gemini-for-google-workspace-add-o|Workspace
-  Extensions now available in Beta for Gemini for Google Workspace add-on…]]'
+- '[[Changes/Superwhisper/2024-07-22-add-billing-link-to-license-view|Add Billing
+  link to License View]]'
 - '[[Changes/Aider/2024-07-29-enhanced-token-usage-and-cost-reporting-now-works-when-streaming-too|Enhanced
   token usage and cost reporting]]'
 - '[[Changes/Descript/2024-07-31-underlord-usage-limits|Underlord usage limits]]'

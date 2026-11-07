@@ -14,12 +14,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: fdf29790c2e9f342a9b72cfc0a0398402554060aa4cf17ab72ccf80538bd3f39
+machine_hash: 8506eca50fff0edf42e1d373fd4a054148976cba146bfa74474b8c9cb805b953
 product: claude-code
 product_name: Claude Code
 record:
@@ -50,10 +50,10 @@ record:
   title: 3 Account and Access changes in v2.1.290
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-01-2-account-and-access-changes-in-rust-v0-160-0|2
-  Account and Access changes in rust-v0.160.0]]'
-- '[[Changes/Claude Code/2026-10-02-added-a-re-authenticate-prompt-when-an-mcp-server-asks-for-more-oauth-scope-duri|Added
-  a re-authenticate prompt when an MCP server asks for more OAuth scope during…]]'
+- '[[Changes/Devin/2026-10-02-bitbucket-data-center-oauth-apps|Bitbucket Data Center
+  OAuth Apps]]'
+- '[[Changes/Devin/2026-10-02-organization-and-enterprise-mcp-authentication-editors|Organization
+  and Enterprise MCP Authentication Editors]]'
 - '[[Changes/OpenClaw/2026-10-03-2-account-and-access-changes-in-v2026-9-8|2 Account
   and Access changes in v2026.9.8]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-05-v2-1-290-github-403993621-ae06f2b6|claude-code-2026-10-05-v2-1-290-github-403993621-ae06f2b6]]'

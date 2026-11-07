@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5e80198908db7dbd44e92d1feb9023001943f3e2a540c5a697c97f380172c534
+machine_hash: d03c56b61148813bd91345ec9350e5cf18ff968d21aa30acdc7442b8acb8e287
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,8 +43,8 @@ record:
   title: 'Type # to reference GitHub issues, pull requests and discussions'
   type: change
 related_changes:
-- '[[Changes/Cline/2026-02-27-generate-commit-message-from-staged-changes-only-when-staging-exists|Generate
-  commit message from staged changes only when staging exists]]'
+- '[[Changes/Devin/2026-02-27-devin-review-github-commit-status-checks|Devin Review:
+  GitHub Commit Status Checks]]'
 - '[[Changes/Gemini CLI/2026-02-27-4-developer-workflow-changes-in-v0-31-0|4 Developer
   Workflow changes in v0.31.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-27-auto-theme-now-uses-the-terminal-s-actual-ansi-color-palette-for-more-accurate-c|AUTO

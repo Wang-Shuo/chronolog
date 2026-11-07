@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c6c6fe2fcb6d083f994ae2de924e38fc45132da2c97bdb1850395e5a7aa11e0b
+machine_hash: bd43cb674468dcefd07b360c1e52803505cac12721a50859161b7f96b82a8010
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,8 +45,8 @@ record:
     reviews'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-09-7-developer-workflow-changes-in-rust-v0-154-0|7
-  Developer Workflow changes in rust-v0.154.0]]'
+- '[[Changes/Devin/2026-09-09-archiving-closes-child-sessions-prs|Archiving Closes
+  Child Sessions'' PRs]]'
 - '[[Changes/Google Antigravity/2026-09-09-2-developer-workflow-changes-in-hub-v2-13-0-introducing-new-documents|2
   Developer Workflow changes in HUB v2.13.0 — Introducing new Documents…]]'
 - '[[Changes/OpenHands/2026-09-09-2-developer-workflow-changes-in-v1-17-0|2 Developer

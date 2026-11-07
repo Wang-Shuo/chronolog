@@ -4,20 +4,20 @@ date: '2025-08-27'
 description: 'Dify · 2025-08-27 · Accessibility and Localization: **Localized Documentation**:
   Updated localized README files to link to corresponding localized…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-09-11-chatgpt-now-supports-a-limited-selection-of-languages-in-the-interface|ChatGPT
-    now supports a limited selection of languages in the interface]]'
+  first_in_tracked: '[[Changes/Raycast/2020-11-19-improved-searching-for-localized-application-and-preference-names|Improved
+    searching for localized application and preference names]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 716
+  lag_days: 1742
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: accessibility-localization
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3aa34e9c378b0a3ddc834952995a05566fa2ff2add9c29a305835b1408807185
+machine_hash: cfa48f663daa28c2532281b947e610b3f706d412d3c8926e73846cc22c60f7c3
 product: dify
 product_name: Dify
 record:
@@ -97,7 +97,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-11 · ChatGPT · [[Changes/ChatGPT/2023-09-11-chatgpt-now-supports-a-limited-selection-of-languages-in-the-interface|ChatGPT now supports a limited selection of languages in the interface]]
+- Earliest same-theme entry in the tracked set: 2020-11-19 · Raycast · [[Changes/Raycast/2020-11-19-improved-searching-for-localized-application-and-preference-names|Improved searching for localized application and preference names]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

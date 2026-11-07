@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b6e0672c0ddbddb104900a130204d02ffcecbf38618719ba77f07371a911c7f7
+machine_hash: 7f8f6e903e5b40d84a7ff66817e97da546e41c04b95864e6813b3011b500c625
 product: openclaw
 product_name: OpenClaw
 record:
@@ -67,12 +67,11 @@ record:
   title: 4 Model Support changes in v2026.8.2
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-01-6-model-support-changes-in-v2-1-257|6 Model Support
-  changes in v2.1.257]]'
 - '[[Changes/Codex CLI/2026-09-01-6-model-support-changes-in-rust-v0-152-0|6 Model
   Support changes in rust-v0.152.0]]'
 - '[[Changes/Codex CLI/2026-09-01-guardian-approval-review-now-honors-node-repl-policies-provided-through-model-me|Guardian
   approval review now honors Node REPL policies provided through model metadata]]'
+- '[[Changes/Krea/2026-09-01-reve-retired|Reve retired]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-09-01-v2026-8-2-cca64187|openclaw-2026-09-01-v2026-8-2-cca64187]]'
 source_type: openclaw_changelog
 theme: model-support
@@ -124,7 +123,7 @@ Source: https://docs.openclaw.ai/releases/2026.8.2
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-09-01 · Codex CLI · [[Changes/Codex CLI/2026-09-01-guardian-approval-review-now-honors-node-repl-policies-provided-through-model-me|Guardian approval review now honors Node REPL policies provided through model metadata]]
+- Earlier: 2026-09-01 · Krea · [[Changes/Krea/2026-09-01-reve-retired|Reve retired]]
 - Later: 2026-09-01 · OpenCode · [[Changes/OpenCode/2026-09-01-2-model-support-changes-in-v1-18-26|2 Model Support changes in v1.18.26]]
 <!-- chronolog:end -->
 

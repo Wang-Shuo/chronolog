@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6c8a6e9e9dcf5420367124be231193014ca91b0f06fe5d9fdd020885dcfac6f0
+machine_hash: cbaa35f71eb5afd681ec409a15360e0297602b7b3aaeef6780c8451537ddb6f3
 product: v0
 product_name: v0
 record:
@@ -42,12 +42,11 @@ record:
   title: View-only members can download a chat's code as a ZIP from the project menu
   type: change
 related_changes:
-- '[[Changes/Kimi Code/2026-06-18-2-interface-experience-changes-in-kimi-code-0-18-0|2
-  Interface Experience changes in Kimi Code 0.18.0]]'
-- '[[Changes/Claude Code/2026-06-19-added-config-help-to-list-all-available-shorthand-keys-for-config-key-value|Added
-  /config --help to list all available shorthand keys for /config key=value]]'
 - '[[Changes/Claude Code/2026-06-19-changed-config-toggle-behavior-enter-and-space-both-change-the-selected-setting|Changed
   /config toggle behavior]]'
+- '[[Changes/Devin/2026-06-19-public-repos-shown-as-disabled-in-repo-picker|Public
+  Repos Shown as Disabled in Repo Picker]]'
+- '[[Changes/Devin/2026-06-19-devin-review-for-gitlab|Devin Review for GitLab]]'
 source_release: '[[Releases/v0/v0-2026-06-19-2026-06-19-ff036602|v0-2026-06-19-2026-06-19-ff036602]]'
 source_type: v0_changelog
 theme: interface-experience
@@ -83,7 +82,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-06-19 · Claude Code · [[Changes/Claude Code/2026-06-19-changed-config-toggle-behavior-enter-and-space-both-change-the-selected-setting|Changed /config toggle behavior]]
+- Earlier: 2026-06-19 · Devin · [[Changes/Devin/2026-06-19-devin-review-for-gitlab|Devin Review for GitLab]]
 - Later: 2026-06-22 · Codex CLI · [[Changes/Codex CLI/2026-06-22-4-interface-experience-changes-in-rust-v0-142-0|4 Interface Experience changes in rust-v0.142.0]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: dd290c0eecf29231d4b25ccfdbd618d1a2e2c9f01f551d832c303a5e39e9e30c
+machine_hash: 5626579b06e7267dd3b83ecc0f00d13032dbdcb4cdced5a3c677ae9cb971f1ce
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,8 +46,8 @@ record:
     context…'
   type: change
 related_changes:
-- '[[Changes/Kimi Code/2026-07-16-2-context-window-changes-in-kimi-code-0-26-0-2026-07-16-say-hi|2
-  Context Window changes in Kimi Code 0.26.0 (2026-07-16) Say hi…]]'
+- '[[Changes/Raycast/2026-07-16-file-search-improved-index-compaction-checkpoints-to-reduce-index-size-on-disk-9d6f1f|File
+  Search: Improved index compaction checkpoints to reduce index size on disk]]'
 - '[[Changes/Cursor/2026-07-17-cross-channel-workflows|Cross-channel workflows]]'
 - '[[Changes/Dify/2026-07-17-16-context-window-changes-in-1-16-0|16 Context Window
   changes in 1.16.0]]'

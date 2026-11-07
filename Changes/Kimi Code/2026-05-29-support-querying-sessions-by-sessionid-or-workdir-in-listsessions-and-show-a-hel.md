@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 284ddec015a75dabfe5e9ba2c890c73216116ac6a97db9c9a4d34c8bb96db350
+machine_hash: 6207994ab0c54a1b7b6c67e6a81dec910d133a528e6449711c59d054866e251e
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -48,10 +48,10 @@ record:
   title: Support querying sessions by sessionId or workDir in listSessions, and show…
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-05-28-4-developer-workflow-changes-in-v1-15-12|4 Developer
-  Workflow changes in v1.15.12]]'
 - '[[Changes/Claude Code/2026-05-29-3-developer-workflow-changes-in-v2-1-157|3 Developer
   Workflow changes in v2.1.157]]'
+- '[[Changes/Devin/2026-05-29-disable-review-analysis-for-merged-and-closed-prs|Disable
+  Review/Analysis for Merged and Closed PRs]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-29-4-developer-workflow-changes-in-v1-0-56|4
   Developer Workflow changes in v1.0.56]]'
 source_release: '[[Releases/Kimi Code/kimi-code-2026-05-29-0-6-0-a089212f|kimi-code-2026-05-29-0-6-0-a089212f]]'

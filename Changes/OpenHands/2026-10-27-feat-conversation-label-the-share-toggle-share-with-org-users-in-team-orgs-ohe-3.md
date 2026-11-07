@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6203bbec4d16a1f0063f7ea3313528b3d09f5526fd5b505f2cb76976d3107ab9
+machine_hash: db592595c2aedb230c9e2b5849ea7d0c004d8c77a4fd1a426c2f501fb2a48f01
 product: openhands
 product_name: OpenHands
 record:
@@ -88,7 +88,7 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2026-10-27 · OpenCode · [[Changes/OpenCode/2026-10-27-core-honor-shared-parallel-tool-call-and-service-tier-settings-for-groq|Core Honor shared parallel tool-call and service-tier settings for Groq]]
-- Later: 2026-10-29 · Codex CLI · [[Changes/Codex CLI/2026-10-29-57226-allow-nfs-database-migration-with-shared-file-permissions-dkovalenko-oai|♯57226 Allow NFS database migration with shared file permissions @dkovalenko-oai]]
+- Later: 2026-10-28 · Raycast · [[Changes/Raycast/2026-10-28-notes-hide-while-screen-recording-is-back-on-golden-gate-only-macos-27-this-will|Notes : Hide while screen recording is back on Golden Gate only (macOS 27+)…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

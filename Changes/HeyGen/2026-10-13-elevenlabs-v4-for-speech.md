@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 67a5b55721c21f43886164c5b6c8a432ef8b149524e104a0ed05955ec8faa081
+machine_hash: 97f0f111aeedee7785f20f6002ff68d904cd311e6d7c4c9161cfd478c94614ba
 product: heygen
 product_name: HeyGen
 record:
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-10-13 · HeyGen · [[Changes/HeyGen/2026-10-13-one-elevenlabs-engine-with-a-model-picker|One ElevenLabs engine, with a model picker]]
-- Later: 2026-10-13 · Lovable · [[Changes/Lovable/2026-10-13-gemini-4-argon-for-your-app-s-ai-features|Gemini 4 Argon for your app's AI features]]
+- Later: 2026-10-13 · LM Studio · [[Changes/LM Studio/2026-10-13-coexistence-with-bionic-run-both-apps-together-bionic-uses-lm-studio-for-local-m|Coexistence with Bionic]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

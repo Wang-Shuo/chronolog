@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f4f4e2bcec4dc325ccfba6165148016ead4c17fd25ab1f9bd3da331edc7ca354
+machine_hash: 18a3a9448d9a1788670ea7168e6c48dc2058d29f1df91e3781e9fcc41dcbe184
 product: opencode
 product_name: OpenCode
 record:
@@ -42,12 +42,12 @@ record:
   title: 2 Interface Experience changes in v1.3.6 + 2
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-27-changed-skills-menu-to-sort-alphabetically-for-easier-scanning|Changed
-  /skills menu to sort alphabetically for easier scanning]]'
-- '[[Changes/Dify/2026-03-27-3-interface-experience-changes-in-1-13-3|3 Interface
-  Experience changes in 1.13.3]]'
 - '[[Changes/Notion/2026-03-27-archived-pages-have-a-banner-showing-who-archived-them-and-when-and-they-re-hidd|Archived
   pages have a banner showing who archived them and when, and they’re hidden…]]'
+- '[[Changes/Raycast/2026-03-27-5-interface-experience-changes-in-raycast-macos-0-51|5
+  Interface Experience changes in Raycast macos 0.51]]'
+- '[[Changes/Raycast/2026-03-27-translator-use-selected-text-as-source-setting-when-enabled-triggering-the-trans|Translator:
+  "Use Selected Text as Source" setting]]'
 source_release: '[[Releases/OpenCode/opencode-2026-03-29-v1-3-6-6f35969f|opencode-2026-03-29-v1-3-6-6f35969f]]'
 source_type: opencode_changelog
 theme: interface-experience
@@ -86,7 +86,7 @@ Source: https://opencode.ai/changelog/v1.3.6
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-03-27 · Notion · [[Changes/Notion/2026-03-27-archived-pages-have-a-banner-showing-who-archived-them-and-when-and-they-re-hidd|Archived pages have a banner showing who archived them and when, and they’re hidden…]]
+- Earlier: 2026-03-27 · Raycast · [[Changes/Raycast/2026-03-27-translator-use-selected-text-as-source-setting-when-enabled-triggering-the-trans|Translator: "Use Selected Text as Source" setting]]
 - Later: 2026-03-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-30-2-interface-experience-changes-in-v1-0-13|2 Interface Experience changes in v1.0.13]]
 <!-- chronolog:end -->
 

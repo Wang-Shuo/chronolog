@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: fb65a92dd40563a4e4dbb6ee6947f92227fbe842f5d7f4e2979fa9dd9c4cfc64
+machine_hash: 988c2daef05603e37f92295a1501ddc604130bc62fc885581583ff3c3600bbf5
 product: descript
 product_name: Descript
 record:
@@ -50,11 +50,11 @@ record:
   title: These upgrades also bring faster text-to-speech generation, and add support…
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-01-23-also-adds-mcp-support-team-configurable-blocklists-fixes-composer-stuck-on-gener|Also
-  adds MCP support, team-configurable blocklists, fixes Composer stuck…]]'
 - '[[Changes/Replit/2025-01-24-autoscale-deployment-optimizations|Autoscale deployment
   optimizations]]'
 - '[[Changes/Replit/2025-01-24-better-zips|Better Zips]]'
+- '[[Changes/AnythingLLM/2025-01-29-2-reliability-and-performance-changes-in-v1-4-0|2
+  Reliability and Performance changes in v1.4.0]]'
 source_release: '[[Releases/Descript/descript-2025-02-04-67a23b91579cdd7886863af8-b12796a1|descript-2025-02-04-67a23b91579cdd7886863af8-b12796a1]]'
 source_type: canny_changelog
 theme: reliability-performance
@@ -85,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-01-24 · Replit · [[Changes/Replit/2025-01-24-better-zips|Better Zips]]
+- Earlier: 2025-01-29 · AnythingLLM · [[Changes/AnythingLLM/2025-01-29-2-reliability-and-performance-changes-in-v1-4-0|2 Reliability and Performance changes in v1.4.0]]
 - Later: 2025-02-04 · Gamma · [[Changes/Gamma/2025-02-04-now-you-can-multi-select-from-the-filmstrip-and-take-action-cut-copy-duplicate-a|Updated Filmstrip Experience]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: policy
-machine_hash: 1c4aea544df95c1f36bad004582d00b0000ad78c1d021a309c75818c92227aff
+machine_hash: df2e5af86f7cff4ae559b07d82d902b0b7caf898bacea6b3af85765b5b8cb77a
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -44,12 +44,12 @@ record:
   title: 'docs: document npm deprecation warnings as safe to ignore'
   type: change
 related_changes:
-- '[[Changes/Microsoft 365 Copilot/2026-03-10-summarize-and-explain-pdfs-with-copilot-in-microsoft-edge-web-microsoft-365-copi|Summarize
-  and explain PDFs with Copilot in Microsoft Edge…]]'
-- '[[Changes/Dify/2026-03-17-16-files-and-data-changes-in-1-13-1|16 Files and Data
-  changes in 1.13.1]]'
 - '[[Changes/Gemini CLI/2026-03-17-docs-document-planning-workflows-with-conductor-example-by-jerop-in-https-github|docs:
   document planning workflows with Conductor example]]'
+- '[[Changes/AnythingLLM/2026-03-18-feat-add-document-count-indicators-to-workspace-document-management-modal-by-ang|feat:
+  Add document count indicators to workspace document management modal]]'
+- '[[Changes/Recraft/2026-03-19-we-ve-added-node-based-workflows-in-beta-each-step-is-a-node-connect-nodes-to-de|Beta:
+  Node-based workflows]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-03-24-v0-35-0-github-300868580-f6f9b621|gemini-cli-2026-03-24-v0-35-0-github-300868580-f6f9b621]]'
 source_type: github_releases
 theme: file-data
@@ -89,7 +89,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2026-03-17 · Gemini CLI · [[Changes/Gemini CLI/2026-03-17-docs-document-planning-workflows-with-conductor-example-by-jerop-in-https-github|docs: document planning workflows with Conductor example]]
+- Earlier: 2026-03-19 · Recraft · [[Changes/Recraft/2026-03-19-we-ve-added-node-based-workflows-in-beta-each-step-is-a-node-connect-nodes-to-de|Beta: Node-based workflows]]
 - Later: 2026-03-25 · Open WebUI · [[Changes/Open WebUI/2026-03-25-2-files-and-data-changes-in-v0-8-11|2 Files and Data changes in v0.8.11]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: dd66fb62d0e88555cdaef8ad998f367270d72d7577a1c38c0c86a6dc982f680c
+machine_hash: 4e084575b0b246088b7badc5174cc4879e2b7777bebb956e1505a52e5ed9504b
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -106,10 +106,10 @@ record:
   title: 30 Apps and Integrations changes in rust-v0.164.0
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-10-22-chore-bump-openhands-extensions-to-0-33-0-by-neubig-in-https-github-com-openhand|chore:
-  bump @openhands/extensions to 0.33.0]]'
-- '[[Changes/Qoder/2026-10-22-3-apps-and-integrations-changes-in-qoder-0-4-9|3 Apps
-  and Integrations changes in Qoder 0.4.9]]'
+- '[[Changes/Raycast/2026-10-22-mcp-added-connection-error-details-to-manage-mcp-servers|MCP
+  : Added connection error details to Manage MCP Servers]]'
+- '[[Changes/Raycast/2026-10-22-mcp-added-connection-error-details-to-manage-mcp-servers-86f1e4|MCP
+  : Added connection error details to Manage MCP Servers]]'
 - '[[Changes/Claude Code/2026-10-23-2-apps-and-integrations-changes-in-v2-1-310|2
   Apps and Integrations changes in v2.1.310]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-10-23-rust-v0-164-0-github-421457270-d867151d|codex-cli-2026-10-23-rust-v0-164-0-github-421457270-d867151d]]'
@@ -215,7 +215,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.164.0
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-10-23 · Claude Code · [[Changes/Claude Code/2026-10-23-2-apps-and-integrations-changes-in-v2-1-310|2 Apps and Integrations changes in v2.1.310]]
-- Later: 2026-10-23 · Dify · [[Changes/Dify/2026-10-23-14-apps-and-integrations-changes-in-1-18-0|14 Apps and Integrations changes in 1.18.0]]
+- Later: 2026-10-23 · Devin · [[Changes/Devin/2026-10-23-redesigned-customize-page|Redesigned Customize Page]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

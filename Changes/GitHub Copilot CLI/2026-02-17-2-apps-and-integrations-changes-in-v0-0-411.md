@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2f99f4c1772373a010f1cde77cdb3cefba316c5cde97d90b4dd86393f23646cf
+machine_hash: 61251a4f18e5703884b24f6c729a72ffeaf200472c7179d8db9cde02d5750001
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -88,7 +88,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v0.0.411
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-02-17 · Cursor · [[Changes/Cursor/2026-02-17-plugins-on-the-cursor-marketplace-0cef65|Plugins on the Cursor Marketplace]]
-- Later: 2026-02-18 · Claude Code · [[Changes/Claude Code/2026-02-18-added-last-assistant-message-field-to-stop-and-subagentstop-hook-inputs-providin|Added last_assistant_message field to Stop and SubagentStop hook inputs, providing…]]
+- Later: 2026-02-18 · AnythingLLM · [[Changes/AnythingLLM/2026-02-18-3-apps-and-integrations-changes-in-v1-11-0|3 Apps and Integrations changes in v1.11.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

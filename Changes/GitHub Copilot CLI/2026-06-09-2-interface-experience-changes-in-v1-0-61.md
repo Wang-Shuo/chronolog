@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 189454d7ec9abcd7292f3d76a829db450c14dc37500aae5bb912601e174c5697
+machine_hash: b7414314598ae172415e61d0987ce90e70448d3e60147bfcf314cb0aa0acaff8
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -42,12 +42,12 @@ record:
   title: 2 Interface Experience changes in v1.0.61
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-06-08-cleaned-up-logged-out-mobile-web-experience-logged-out-users-now-see-a-composer|Cleaned
-  up logged-out mobile web experience]]'
 - '[[Changes/Claude Code/2026-06-08-2-interface-experience-changes-in-v2-1-169|2 Interface
   Experience changes in v2.1.169]]'
 - '[[Changes/v0/2026-06-08-3-interface-experience-changes-in-changelog-update|3 Interface
   Experience changes in Changelog update]]'
+- '[[Changes/AnythingLLM/2026-06-09-x-better-latex-rendering-support|x Better LaTex
+  rendering support]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-06-09-v1-0-61-github-336905979-4d0a69f2|github-copilot-cli-2026-06-09-v1-0-61-github-336905979-4d0a69f2]]'
 source_type: github_releases
 theme: interface-experience
@@ -91,7 +91,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.61
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-06-08 · v0 · [[Changes/v0/2026-06-08-3-interface-experience-changes-in-changelog-update|3 Interface Experience changes in Changelog update]]
+- Earlier: 2026-06-09 · AnythingLLM · [[Changes/AnythingLLM/2026-06-09-x-better-latex-rendering-support|x Better LaTex rendering support]]
 - Later: 2026-06-09 · Kimi Code · [[Changes/Kimi Code/2026-06-09-2-interface-experience-changes-in-kimi-code-0-12-0|2 Interface Experience changes in Kimi Code 0.12.0]]
 <!-- chronolog:end -->
 

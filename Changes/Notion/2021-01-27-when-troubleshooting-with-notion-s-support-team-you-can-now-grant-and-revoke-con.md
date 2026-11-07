@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 11a932722479320314171c6453c8ce87eee2a07a2b8c8202156a400b7d428e26
+machine_hash: 9345353a679bb0cbcd563266f86b9852a848c4f427339b3ab593dfcce53982d1
 product: notion
 product_name: Notion
 record:
@@ -49,10 +49,11 @@ record:
   title: When troubleshooting with Notion's support team, you can now grant and revoke…
   type: change
 related_changes:
-- '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
-  Application Access]]'
 - "[[Changes/Notion/2020-11-11-flexible-sub-page-permissions|Flexible sub-page permissions
   \U0001F4D1]]"
+- '[[Changes/Raycast/2020-12-02-script-commands-improvements|Script Commands Improvements]]'
+- '[[Changes/Raycast/2020-12-02-fixed-a-bug-where-permission-windows-appeared-behind-raycast|Fixed
+  a bug where permission windows appeared behind Raycast]]'
 source_release: '[[Releases/Notion/notion-2021-01-27-https-www-notion-com-releases-2021-01-27-a5e61124|notion-2021-01-27-https-www-notion-com-releases-2021-01-27-a5e61124]]'
 source_type: notion_changelog
 theme: safety-privacy
@@ -83,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2020-11-11 · Notion · [[Changes/Notion/2020-11-11-flexible-sub-page-permissions|Flexible sub-page permissions 📑]]
+- Earlier: 2020-12-02 · Raycast · [[Changes/Raycast/2020-12-02-fixed-a-bug-where-permission-windows-appeared-behind-raycast|Fixed a bug where permission windows appeared behind Raycast]]
 - Later: 2021-08-10 · Descript · [[Changes/Descript/2021-08-10-soc-2-type-ii-compliance|SOC 2 Type II Compliance]]
 <!-- chronolog:end -->
 

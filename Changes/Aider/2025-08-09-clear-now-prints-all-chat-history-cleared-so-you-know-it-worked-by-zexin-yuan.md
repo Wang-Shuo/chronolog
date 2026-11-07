@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c0bdc8d1caf0d19c188ab6741af7a5fedb9523bf929cec424511a385c66527d6
+machine_hash: e1f8c9bd8473c32be808d2d995856905c4cbbc7562883d2fda35631a788f6f97
 product: aider
 product_name: Aider
 record:
@@ -45,10 +45,10 @@ record:
     Zexin Yuan'
   type: change
 related_changes:
-- '[[Changes/Cline/2025-08-05-update-chatview-footer-background-to-use-sidebar-theme-by-abeatrix-in-https-gith|Update
-  ChatView footer background to use sidebar theme]]'
 - '[[Changes/Gemini CLI/2025-08-05-2-interface-experience-changes-in-v0-1-17|2 Interface
   Experience changes in v0.1.17]]'
+- '[[Changes/LM Studio/2025-08-05-2-interface-experience-changes-in-lm-studio-0-3-21|2
+  Interface Experience changes in LM Studio 0.3.21]]'
 - '[[Changes/Gemini CLI/2025-08-06-2-interface-experience-changes-in-v0-1-18|2 Interface
   Experience changes in v0.1.18]]'
 source_release: '[[Releases/Aider/aider-2025-08-09-v0-86-0-github-238790002-787ef322|aider-2025-08-09-v0-86-0-github-238790002-787ef322]]'

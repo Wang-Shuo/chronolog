@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9974121c4d6381e40974dd781898ecadd855e02e7c3f8309d56fc5ec1bd5b105
+machine_hash: 26deda315c9228dee9b7a86bf795f4beea40dd791d0327ccf14a70aca6a7db5e
 product: cline
 product_name: Cline
 record:
@@ -43,8 +43,7 @@ record:
   title: added telemetry for auto compact toggle in menu
   type: change
 related_changes:
-- '[[Changes/Cline/2025-08-16-2-context-window-changes-in-v3-25-3|2 Context Window
-  changes in v3.25.3]]'
+- '[[Changes/Devin/2025-08-16-github-connection-management|GitHub Connection Management]]'
 - '[[Changes/Gemini CLI/2025-08-18-5-context-window-changes-in-v0-1-22|5 Context Window
   changes in v0.1.22]]'
 - '[[Changes/Codex CLI/2025-08-20-2-context-window-changes-in-rust-v0-23-0|2 Context

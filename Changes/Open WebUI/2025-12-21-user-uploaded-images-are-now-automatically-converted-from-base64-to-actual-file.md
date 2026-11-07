@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e7ee99f154b5c2824cd94744ee8f5a3fc64e7975805c42bc0d4bf085ec546555
+machine_hash: 81a98496e1898d0eb6fb08c7c2b58d314c51c8b6054d09c8bb2c771e71bc708b
 product: open-webui
 product_name: Open WebUI
 record:
@@ -49,10 +49,10 @@ record:
     to actual file…"
   type: change
 related_changes:
-- '[[Changes/Cline/2025-12-16-migrate-whatsnewmodal-to-new-shared-dialogue-component|Migrate
-  WhatsNewModal to new shared dialogue component]]'
-- '[[Changes/v0/2025-12-16-pull-in-info-from-your-projects-teams-and-users|Pull in
-  info from your projects, teams, and users]]'
+- '[[Changes/Raycast/2025-12-17-share-your-favorite-holiday-gifs-straight-from-the-keyboard|Share
+  your favorite holiday GIFs straight from the keyboard!]]'
+- '[[Changes/Raycast/2025-12-17-keyboard-share-gifs-from-the-keyboard|Keyboard: Share
+  GIFs from the keyboard]]'
 - '[[Changes/Codex CLI/2025-12-18-8221-change-team-to-buisness-and-add-education|♯8221
   Change “Team” to “Buisness” and add Education]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-12-21-v0-6-42-github-272053915-b8e46ad9|open-webui-2025-12-21-v0-6-42-github-272053915-b8e46ad9]]'

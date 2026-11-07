@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5b2e230d3feaf1c5366d0f649faeb34f97c7e882e50d0d74cf452425a2f7221b
+machine_hash: 792b3aed4819272ecec71fcc88486df62aa7cdd712056195ce001881a4c93d8d
 product: dify
 product_name: Dify
 record:
@@ -101,10 +101,10 @@ record:
   title: 22 Model Support changes in 0.15.3
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2025-02-05-think-tag-display-issue-resolved-a-bug-where-the-think-tag-was-not-functioning-c|\U0001F4A1
-  \"Think\" Tag Display Issue]]"
 - "[[Changes/Open WebUI/2025-02-05-max-tokens-issue-fixes-cases-where-max-tokens-were-not-applied-correctly-ensurin|\U0001F527
   Max Tokens Issue]]"
+- '[[Changes/Raycast/2025-02-05-7-model-support-changes-in-raycast-macos-v1-1-91-0|7
+  Model Support changes in Raycast macos-v1 1.91.0]]'
 - '[[Changes/Aider/2025-02-06-4-model-support-changes-in-v0-74-0|4 Model Support changes
   in v0.74.0]]'
 source_release: '[[Releases/Dify/dify-2025-02-07-0-15-3-github-198990350-49c4f467|dify-2025-02-07-0-15-3-github-198990350-49c4f467]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 89ba5aa8b063e870139965c708456418076c17c703b3cf22f68b931ede925b49
+machine_hash: 666312d52aed6d0b11d557cbb7bd2a9dee91ea136b28f25669681eb7700c5eab
 product: openhands
 product_name: OpenHands
 record:
@@ -76,7 +76,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2025-04-28 · ElevenLabs · [[Changes/ElevenLabs/2025-04-28-agents-platform-6b1e4d|Agents Platform]]
-- Later: 2025-05-12 · ElevenLabs · [[Changes/ElevenLabs/2025-05-12-agents-platform|Agents Platform]]
+- Later: 2025-05-06 · AnythingLLM · [[Changes/AnythingLLM/2025-05-06-improve-japanese-translation-to-maintain-agent-by-suzuki-shm-in-https-github-com|Improve Japanese translation to maintain @agent]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

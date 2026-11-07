@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3ef59e21a817b2c2045589dd5dc941af641ddf699c50532328c1920b1fee8142
+machine_hash: bf972c6d8b8fca78ad7885ba24143346a49074cab01bc484d876ca9fa07d4eda
 product: synthesia
 product_name: Synthesia
 record:
@@ -44,12 +44,12 @@ record:
   title: Correct dubbing transcripts seamlessly
   type: change
 related_changes:
-- '[[Changes/Microsoft 365 Copilot/2026-05-05-copilot-configuration-insights-in-the-copilot-dashboard-readiness-page-web-viva|Copilot
-  configuration insights in the Copilot Dashboard Readiness page…]]'
 - '[[Changes/Microsoft 365 Copilot/2026-05-05-expanded-published-report-recipients-web-viva-insights|Expanded
   published report recipients Web (Viva Insights)]]'
 - '[[Changes/Microsoft 365 Copilot/2026-05-05-contextual-nudges-in-edge-offer-quick-page-summaries-in-copilot-chat-web-microso|Contextual
   nudges in Edge offer quick page summaries in Copilot Chat…]]'
+- '[[Changes/Raycast/2026-05-06-ai-haptics-for-stream-completion|AI: Haptics for stream
+  completion]]'
 source_release: '[[Releases/Synthesia/synthesia-2026-05-06-https-www-synthesia-io-updates-correct-dubbing-transcripts-seaml-c00cdabd|synthesia-2026-05-06-https-www-synthesia-io-updates-correct-dubbing-transcripts-seaml-c00cdabd]]'
 source_type: synthesia_changelog
 theme: editor-experience
@@ -76,7 +76,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-05-05 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-05-05-contextual-nudges-in-edge-offer-quick-page-summaries-in-copilot-chat-web-microso|Contextual nudges in Edge offer quick page summaries in Copilot Chat…]]
+- Earlier: 2026-05-06 · Raycast · [[Changes/Raycast/2026-05-06-ai-haptics-for-stream-completion|AI: Haptics for stream completion]]
 - Later: 2026-05-07 · Codex CLI · [[Changes/Codex CLI/2026-05-07-4-editor-experience-changes-in-rust-v0-129-0|4 Editor Experience changes in rust-v0.129.0]]
 <!-- chronolog:end -->
 

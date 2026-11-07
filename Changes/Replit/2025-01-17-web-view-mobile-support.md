@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 11721322c1fbd565d376b7a7b65b9717b280e9d701e303d6302c71013f53ebb1
+machine_hash: 3bb21ddb5f9bcfcd893c290beebe4fa3113b4058c1188fcfddb54e3de3809e78
 product: replit
 product_name: Replit
 record:
@@ -50,8 +50,7 @@ record:
   title: Web view mobile support
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2025-01-05-native-notifications-for-channel-messages-stay-informed-with-integrated-desktop|\U0001F4E3
-  Native Notifications for Channel Messages]]"
+- '[[Changes/LM Studio/2025-01-06-new-and-improved-installer|New and improved installer]]'
 - '[[Changes/Replit/2025-01-10-teams-mobile-search|Teams mobile search]]'
 - '[[Changes/ChatGPT/2025-01-17-we-ve-updated-custom-instructions-to-make-it-easier-to-customize-how-chatgpt-res-e42760|More
   personalization in Custom Instructions]]'
@@ -87,7 +86,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2025-01-17 · ChatGPT · [[Changes/ChatGPT/2025-01-17-we-ve-updated-custom-instructions-to-make-it-easier-to-customize-how-chatgpt-res-e42760|More personalization in Custom Instructions]]
-- Later: 2025-01-22 · Open WebUI · [[Changes/Open WebUI/2025-01-22-desktop-app-preparations-ongoing-work-to-support-the-upcoming-open-webui-desktop|🖥️ Desktop App Preparations]]
+- Later: 2025-01-21 · LM Studio · [[Changes/LM Studio/2025-01-21-show-incompatible-status-on-windows-linux-avx-only-machines-in-cpu-section-of-ha|Show "Incompatible" status on Windows/Linux AVX-only machines in CPU section…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

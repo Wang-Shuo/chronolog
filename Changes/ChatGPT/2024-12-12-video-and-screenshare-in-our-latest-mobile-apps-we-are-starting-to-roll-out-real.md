@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 11d320178ae40c6e840a24b3baea7c2b328848fcee1171e04501acc4b5472498
+machine_hash: 5091b27ae5b9f424aa8becf91f0f874a21cdfb4aa47cd91b026e06fbbe5f897f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -64,10 +64,10 @@ record:
   title: Video and screenshare
   type: change
 related_changes:
-- '[[Changes/Dify/2024-11-18-2-voice-and-audio-changes-in-0-11-2|2 Voice and Audio
-  changes in 0.11.2]]'
 - '[[Changes/Dify/2024-11-25-the-new-version-extends-support-for-multi-modal-tasks-for-example-you-can-upload|The
   new version extends support for multi-modal tasks]]'
+- '[[Changes/AnythingLLM/2024-11-26-handle-openai-whisper-transcription-edge-case-by-shatfield4-in-https-github-com|Handle
+  OpenAI whisper transcription edge case]]'
 - '[[Changes/Aider/2024-12-01-added-voice-input-device-to-select-audio-input-device-for-voice-recording-by-pre|Added
   --voice-input-device to select audio input device for voice recording, by @preynal]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2024-12-12-santa-voice-and-video-and-screen-share-in-voice-chats-89eb483d|chatgpt-2024-12-12-santa-voice-and-video-and-screen-share-in-voice-chats-89eb483d]]'

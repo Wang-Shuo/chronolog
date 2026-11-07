@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 47dd3da65e0876240c864224926cf55fbe6c1a4a9f0907c110c35ea5d11f1b8f
+machine_hash: 83a895c2b717bcce01608012c9c57842e89c0767b75ed69ff371d281b6d809f4
 product: aider
 product_name: Aider
 record:
@@ -79,7 +79,7 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2024-08-10 · Aider · [[Changes/Aider/2024-08-10-add-read-only-files-to-the-chat-context-with-read-and-read-including-from-outsid|Add read-only files to the chat context with /read and --read, including…]]
-- Later: 2024-08-22 · Cursor · [[Changes/Cursor/2024-08-22-we-ve-also-trained-a-new-cursor-tab-model-that-s-smarter-and-more-context-aware-56db10|We've also trained a new Cursor Tab model that's smarter and more context-aware]]
+- Later: 2024-08-19 · AnythingLLM · [[Changes/AnythingLLM/2024-08-19-agent-context-window-context-window-refactor-by-timothycarambat-in-https-github|Agent Context window + context window refactor]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 4773209bdcd8f79521d613b7ba70f3c7bb71781528ced9d55ca247116612940c
+machine_hash: dc5b599a6dd0566b207ec8898947dfd3e3f676e1f13e5785ea0c934cecc2a6fe
 product: ollama
 product_name: Ollama
 record:
@@ -47,9 +47,10 @@ record:
   title: Ollama 0.24 includes support for the Codex App, OpenAI's desktop experience…
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-05-13-elevenagents|ElevenAgents]]'
 - '[[Changes/OpenCode/2026-05-13-7-developer-workflow-changes-in-v1-14-49|7 Developer
   Workflow changes in v1.14.49]]'
+- '[[Changes/Raycast/2026-05-13-hyper-key-e-nsure-shift-isn-t-suppressed-when-hyper-key-is-using-another-modifie|Hyper
+  Key: E nsure Shift isn’t suppressed when Hyper Key is using another modifier…]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-14-terminal-cursor-positions-correctly-on-the-input-field-instead-of-on-decorative|Terminal
   cursor positions correctly on the input field instead of on decorative…]]'
 source_release: '[[Releases/Ollama/ollama-2026-05-14-v0-24-0-github-322272827-9537ae42|ollama-2026-05-14-v0-24-0-github-322272827-9537ae42]]'

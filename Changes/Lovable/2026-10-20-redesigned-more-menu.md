@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 75d5f5cb38a5351dadf72d2ef0474fa01a5431fe46b114c58d650e48a15c72e0
+machine_hash: 56d4a7d882102b07eafb73787d326868a2617db7ff068b94299a61e8d080c28f
 product: lovable
 product_name: Lovable
 record:
@@ -88,7 +88,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-10-20 · Google Antigravity · [[Changes/Google Antigravity/2026-10-20-2-interface-experience-changes-in-hub-v2-25-0-plugin-sidebar-badges|2 Interface Experience changes in HUB v2.25.0 — Plugin sidebar badges…]]
-- Later: 2026-10-22 · Google Antigravity · [[Changes/Google Antigravity/2026-10-22-the-more-actions-menu-on-conversations-in-the-sidebar-now-includes-pin-and-archi|The more-actions menu on conversations in the sidebar now includes Pin and Archive…]]
+- Later: 2026-10-20 · Superwhisper · [[Changes/Superwhisper/2026-10-20-glass-buttons-in-the-history-selection-bar-with-select-multiple-now-working-dire|Glass buttons in the History selection bar, with "Select Multiple" now working…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

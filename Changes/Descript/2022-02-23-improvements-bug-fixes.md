@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0efe6f58e914e2b2dc422716be9f63ed318fc21be1b8a64d9f2b16b17c504053
+machine_hash: 6e17b6f06c00fc9d0a573ba495135ed55c2ad7796ab90f7d021272927dddb03c
 product: descript
 product_name: Descript
 record:
@@ -51,11 +51,12 @@ record:
   title: Improvements & bug fixes
   type: change
 related_changes:
-- '[[Changes/Descript/2021-11-02-progress-bar-clips|Progress bar clips]]'
 - '[[Changes/Notion/2021-12-23-hey-you-thanks-for-supporting-notion-this-year-for-our-last-update-of-2021-the-t|Hey,
   you! Thanks for supporting Notion this year]]'
 - '[[Changes/Notion/2022-02-08-embed-content-from-hex-deepnote|Embed content from
   Hex & Deepnote]]'
+- '[[Changes/Raycast/2022-02-09-store-discover-top-extensions|Store: Discover top
+  extensions]]'
 source_release: '[[Releases/Descript/descript-2022-02-23-6390c9e64a4a0d64fa564a5c-b4f457db|descript-2022-02-23-6390c9e64a4a0d64fa564a5c-b4f457db]]'
 source_type: canny_changelog
 theme: collaboration
@@ -84,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2022-02-08 · Notion · [[Changes/Notion/2022-02-08-embed-content-from-hex-deepnote|Embed content from Hex & Deepnote]]
+- Earlier: 2022-02-09 · Raycast · [[Changes/Raycast/2022-02-09-store-discover-top-extensions|Store: Discover top extensions]]
 - Later: 2022-03-15 · Notion · [[Changes/Notion/2022-03-15-streamlined-new-design|Streamlined new design]]
 <!-- chronolog:end -->
 

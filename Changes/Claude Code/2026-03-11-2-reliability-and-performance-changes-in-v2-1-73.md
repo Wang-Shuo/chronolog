@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4ddc07c69aea577ca18461e1ea60bb98887170f336c1e09c91edf8d460791766
+machine_hash: c178f420a8aa1c26f5e8074b507d6e47958d86f4ce55b4a008e4c73597dedb9f
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,8 +42,8 @@ record:
   title: 2 Reliability and Performance changes in v2.1.73
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-03-09-2-reliability-and-performance-changes-in-v0-8-10|2
-  Reliability and Performance changes in v0.8.10]]'
+- '[[Changes/Raycast/2026-03-09-system-improved-app-launch-times-up-to-10-faster-on-lower-end-systems|System
+  : Improved app launch times, up to 10× faster on lower-end systems]]'
 - '[[Changes/Windsurf/2026-03-09-stability-performance|Stability & Performance]]'
 - '[[Changes/Claude Code/2026-03-10-improved-bash-command-parsing-by-switching-to-a-native-module-faster-initializat|Improved
   bash command parsing by switching to a native module]]'
@@ -86,7 +86,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.73
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-03-10 · Claude Code · [[Changes/Claude Code/2026-03-10-improved-bash-command-parsing-by-switching-to-a-native-module-faster-initializat|Improved bash command parsing by switching to a native module]]
-- Later: 2026-03-11 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-11-faster-shell-commands-on-windows-by-skipping-powershell-profile-loading|Faster shell commands on Windows by skipping PowerShell profile loading]]
+- Later: 2026-03-11 · Devin · [[Changes/Devin/2026-03-11-various-bug-fixes-performance-improvements-and-visual-polish-across-the-platform|Various bug fixes, performance improvements, and visual polish across the platform]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

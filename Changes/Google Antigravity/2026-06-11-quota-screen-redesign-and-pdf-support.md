@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: policy
-machine_hash: 6e04e7ba3fbf314c192a57e29acb912ba354080fe3eb5cdff2b7f2113d1dfd7e
+machine_hash: 2f523dd7a542b30763207c9eeef0c234d4ad76a76db5feb5731a3e2ee1444e5a
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -47,12 +47,12 @@ record:
   title: Quota Screen Redesign and PDF Support
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-06-04-0-1-6-release-and-analytics-cursor-sdk-0-1-6-documents-the-buildkite-release-pat|0.1.6
-  release and analytics]]'
 - '[[Changes/ChatGPT/2026-06-08-interactive-charts-in-answers-chatgpt-can-now-turn-some-answers-into-rich-and-in|Interactive
   charts in answers]]'
 - '[[Changes/ChatGPT/2026-06-08-full-screen-writing-blocks-for-longer-form-work-writing-blocks-now-cover-long-fo|Full-screen
   writing blocks for longer-form work]]'
+- '[[Changes/AnythingLLM/2026-06-09-feat-make-document-sync-stale-after-interval-configurable-by-sanidhyasin-in-http|feat:
+  make document sync stale-after interval configurable]]'
 source_release: '[[Releases/Google Antigravity/google-antigravity-2026-06-11-rel-hub-2-1-4-62efd910|google-antigravity-2026-06-11-rel-hub-2-1-4-62efd910]]'
 source_type: antigravity_changelog
 theme: file-data
@@ -87,7 +87,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2026-06-08 · ChatGPT · [[Changes/ChatGPT/2026-06-08-full-screen-writing-blocks-for-longer-form-work-writing-blocks-now-cover-long-fo|Full-screen writing blocks for longer-form work]]
+- Earlier: 2026-06-09 · AnythingLLM · [[Changes/AnythingLLM/2026-06-09-feat-make-document-sync-stale-after-interval-configurable-by-sanidhyasin-in-http|feat: make document sync stale-after interval configurable]]
 - Later: 2026-06-12 · Replit · [[Changes/Replit/2026-06-12-add-visual-references-when-you-generate-media-on-canvas|Add visual references when you generate media on Canvas]]
 <!-- chronolog:end -->
 

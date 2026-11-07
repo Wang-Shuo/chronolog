@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 84de8123a16ab9c958dc2994678bfc6133c0ba139d9a4ef11ed72912401f1dc1
+machine_hash: 22ef7279310488f6e666402c3820ae741137e4d69d4a7c6ea8440ec514d6353d
 product: cline
 product_name: Cline
 record:
@@ -50,12 +50,12 @@ record:
     work more…"
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2024-11-19-2-safety-and-privacy-changes-in-v0-4-0|2 Safety
-  and Privacy changes in v0.4.0]]'
 - '[[Changes/Ollama/2024-11-26-strong-typing-throughout-the-library-for-improved-reliability-and-type-safety|Strong
   typing throughout the library for improved reliability and type safety]]'
 - '[[Changes/OpenHands/2024-12-04-support-custom-sandbox-for-resolver-by-malhotra5-in-https-github-com-all-hands-a|Support
   custom sandbox for resolver]]'
+- '[[Changes/Raycast/2024-12-04-deeplinks-removed-security-alert-showing-when-opening-a-deeplink-from-quicklink|Deeplinks:
+  Removed security alert showing when opening a deeplink from quicklink]]'
 source_release: '[[Releases/Cline/cline-2024-12-18-v3-0-0-github-191549962-04b25c94|cline-2024-12-18-v3-0-0-github-191549962-04b25c94]]'
 source_type: github_releases
 theme: safety-privacy
@@ -88,7 +88,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2024-12-04 · OpenHands · [[Changes/OpenHands/2024-12-04-support-custom-sandbox-for-resolver-by-malhotra5-in-https-github-com-all-hands-a|Support custom sandbox for resolver]]
+- Earlier: 2024-12-04 · Raycast · [[Changes/Raycast/2024-12-04-deeplinks-removed-security-alert-showing-when-opening-a-deeplink-from-quicklink|Deeplinks: Removed security alert showing when opening a deeplink from quicklink]]
 - Later: 2024-12-25 · Open WebUI · [[Changes/Open WebUI/2024-12-25-api-key-authentication-restriction-narrowed-api-key-auth-permissions-to-api-mode|💡 API Key Authentication Restriction]]
 <!-- chronolog:end -->
 

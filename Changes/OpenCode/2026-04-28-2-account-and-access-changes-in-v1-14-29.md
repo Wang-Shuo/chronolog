@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 60099695fb42077c9a053964352f858c465abdc01b1e46dd1359965e3a9963bc
+machine_hash: 98d5271c608123aed255d5417b25216774719235c1f2921e14ebd44642f81225
 product: opencode
 product_name: OpenCode
 record:
@@ -43,8 +43,8 @@ record:
   title: 2 Account and Access changes in v1.14.29
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-04-24-3-account-and-access-changes-in-v0-9-2|3 Account
-  and Access changes in v0.9.2]]'
+- '[[Changes/Raycast/2026-04-27-ai-models-are-now-refreshed-after-sign-in|AI: Models
+  are now refreshed after sign-in]]'
 - '[[Changes/Claude Code/2026-04-28-clarified-the-mcp-message-shown-when-an-mcp-server-is-still-unauthorized-after-t|Clarified
   the /mcp message shown when an MCP server is still unauthorized after…]]'
 - '[[Changes/Gemini CLI/2026-04-28-docs-migrate-installation-and-authentication-to-mdx-with-tabbed-layouts-by-g-sam|docs:
@@ -87,7 +87,7 @@ Source: https://opencode.ai/changelog/v1.14.29
 ## Nearby in Account and Access
 
 - Earlier: 2026-04-28 · Gemini CLI · [[Changes/Gemini CLI/2026-04-28-docs-migrate-installation-and-authentication-to-mdx-with-tabbed-layouts-by-g-sam|docs: migrate installation and authentication to mdx with tabbed layouts]]
-- Later: 2026-04-29 · Dify · [[Changes/Dify/2026-04-29-8-account-and-access-changes-in-1-14-0|8 Account and Access changes in 1.14.0]]
+- Later: 2026-04-29 · Devin · [[Changes/Devin/2026-04-29-auth-type-badges-in-git-connections|Auth-Type Badges in Git Connections]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

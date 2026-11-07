@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 95c57aaa7aa0b2d4417f6224774e19f20d94f95f5607d861972bf99992a24be0
+machine_hash: e2536d0e22cc141030bc21153f5ba427b8efcd5473d316d0146b0b50f870b6d7
 product: open-webui
 product_name: Open WebUI
 record:
@@ -61,10 +61,9 @@ record:
   title: 5 Interface Experience changes in v0.6.37
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-11-21-set-origin-allowlist-from-dashboard-to-restrict-browser-tools-browser-tools-and|Set
-  origin allowlist from dashboard to restrict browser tools]]'
 - '[[Changes/Descript/2025-11-21-improved-loading-state-for-translation|Improved loading
   state for translation]]'
+- '[[Changes/Devin/2025-11-21-wiki-branch-selection|Wiki Branch Selection]]'
 - '[[Changes/GitHub Copilot CLI/2025-11-24-improved-timeline-rendering-of-shell-tool-names|Improved
   timeline rendering of shell tool names]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-11-24-v0-6-37-github-264669867-8b715894|open-webui-2025-11-24-v0-6-37-github-264669867-8b715894]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 606674ccf859ef7ce91c7b8093861b25a1db8af0464fc53e2c9b25dc9c4028d5
+machine_hash: 84f82daa700b03f5f245c630cc5ab66e1e14da277ec4308136b08f42a4780249
 product: claude-code
 product_name: Claude Code
 record:
@@ -92,7 +92,7 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2026-10-13 · Synthesia · [[Changes/Synthesia/2026-10-13-make-refine-and-share-syren-videos-without-leaving-chatgpt-or-claude-using-the-d|Create Syren videos in ChatGPT and Claude]]
-- Later: 2026-10-14 · Open WebUI · [[Changes/Open WebUI/2026-10-14-save-hidden-on-others-messages-in-a-chat-shared-with-allow-replies-editing-a-mes|💾 Save hidden on others' messages. In a chat shared with Allow replies, editing…]]
+- Later: 2026-10-14 · Devin · [[Changes/Devin/2026-10-14-microsoft-teams|Microsoft Teams]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

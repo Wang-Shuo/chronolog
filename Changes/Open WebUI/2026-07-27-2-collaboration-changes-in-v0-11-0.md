@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ec203044335164c40a36deda994bbef7c90888aaca7e7fa5eed4ca0212ae6e1c
+machine_hash: 039b03fce690297f13082d18b0c925dcf1aa394e3cac1d28c6d3ed2577f741d7
 product: open-webui
 product_name: Open WebUI
 record:
@@ -48,10 +48,10 @@ record:
   title: 2 Collaboration changes in v0.11.0
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-07-22-admin-controls-per-team-and-per-group-enablement-mode-restrictions-default-mode|Admin
-  controls: per-team and per-group enablement, mode restrictions, default mode…]]'
-- '[[Changes/Midjourney/2026-07-23-as-a-kid-all-i-wanted-was-a-cool-place-to-work-on-cool-projects-with-cool-people|Midjourney’s
-  First Acquisition]]'
+- '[[Changes/Raycast/2026-07-23-2-collaboration-changes-in-raycast-macos-0-70|2 Collaboration
+  changes in Raycast macos 0.70]]'
+- '[[Changes/Raycast/2026-07-23-ai-chat-added-right-click-actions-for-links-and-files-making-it-easier-to-open-c|AI
+  Chat : Added right-click actions for links and files, making it easier to open…]]'
 - '[[Changes/ElevenLabs/2026-07-27-studio|Studio]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-07-27-v0-11-0-github-360322252-5f18424f|open-webui-2026-07-27-v0-11-0-github-360322252-5f18424f]]'
 source_type: github_releases

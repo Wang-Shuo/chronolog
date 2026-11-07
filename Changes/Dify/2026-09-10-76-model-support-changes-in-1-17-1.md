@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 97425297ab0a7fb7785c5803683b71e04904b837fb698a0ec20f031c2eb3f3d2
+machine_hash: a0bf5b972a68cfdcd9b4bb7473c695529c6bfdf791800cc62652be73565f8371
 product: dify
 product_name: Dify
 record:
@@ -500,7 +500,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.17.1
 ## Nearby in Model Support
 
 - Earlier: 2026-09-10 · Claude Code · [[Changes/Claude Code/2026-09-10-2-model-support-changes-in-v2-1-268|2 Model Support changes in v2.1.268]]
-- Later: 2026-09-11 · Claude Code · [[Changes/Claude Code/2026-09-11-added-claude-code-gateway-model-discovery-timeout-ms-to-extend-the-llm-gateway-v|Added CLAUDE_CODE_GATEWAY_MODEL_DISCOVERY_TIMEOUT_MS to extend the LLM gateway…]]
+- Later: 2026-09-10 · Raycast · [[Changes/Raycast/2026-09-10-ai-models-are-now-grouped-more-consistently-by-provider-including-models-from-ve|AI: Models are now grouped more consistently by provider, including models…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

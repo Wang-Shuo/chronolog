@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 976f765463d142bf66d6c757803b6243cb97485db8cb6804cb95d00a008aac97
+machine_hash: 96317da0f76795b73d2eb937d9e0d29565b443f85bddb9532ae793e82749d98f
 product: lovable
 product_name: Lovable
 record:
@@ -57,10 +57,9 @@ record:
   title: Configure who can create app connector connections
   type: change
 related_changes:
-- '[[Changes/Microsoft 365 Copilot/2026-06-02-federated-copilot-connectors-are-now-generally-available-web-microsoft-365-copil|Federated
-  Copilot Connectors are now generally available…]]'
 - '[[Changes/Claude Code/2026-06-03-remote-control-now-shows-as-a-persistent-footer-pill-with-a-link-to-the-session|Remote
   Control now shows as a persistent footer pill (with a link to the session)…]]'
+- '[[Changes/Devin/2026-06-03-child-sessions-tree-connector|Child Sessions: Tree Connector]]'
 - '[[Changes/Kimi Code/2026-06-03-allow-sdk-runtime-creation-to-use-a-separate-rpc-client-while-preserving-local-c|Allow
   SDK runtime creation to use a separate RPC client while preserving local CLI startup]]'
 source_release: '[[Releases/Lovable/lovable-2026-06-03-2026-06-03-0baffe3f|lovable-2026-06-03-2026-06-03-0baffe3f]]'
@@ -101,7 +100,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-06-03 · Kimi Code · [[Changes/Kimi Code/2026-06-03-allow-sdk-runtime-creation-to-use-a-separate-rpc-client-while-preserving-local-c|Allow SDK runtime creation to use a separate RPC client while preserving local CLI startup]]
-- Later: 2026-06-04 · Claude Code · [[Changes/Claude Code/2026-06-04-2-apps-and-integrations-changes-in-v2-1-163|2 Apps and Integrations changes in v2.1.163]]
+- Later: 2026-06-03 · Raycast · [[Changes/Raycast/2026-06-03-store-added-support-for-filtering-by-installed-extensions|Store : Added support for filtering by “Installed” extensions]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 4888f9696ec749a7bed60242698711fc820c9aa1d948bbc1292dfb3470a45735
+machine_hash: 752881fc43100bd24aaacc3011311ec01c59624a02b39200013f94116e9ba189
 product: open-webui
 product_name: Open WebUI
 record:
@@ -68,8 +68,7 @@ record:
     the menu…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-28-added-a-spend-limit-bar-to-usage-and-a-rate-limits-spend-limit-status-line-field|Added
-  a Spend limit bar to /usage and a rate_limits.spend_limit status line…]]'
+- '[[Changes/Devin/2026-08-28-multi-select-tag-filters|Multi-Select Tag Filters]]'
 - '[[Changes/v0/2026-08-28-6-interface-experience-changes-in-gpt-5-6-sol-sign-in-inside-previews|6
   Interface Experience changes in GPT-5.6 Sol, sign-in inside previews…]]'
 - '[[Changes/Lovable/2026-08-30-set-a-goal-for-lovable|Set a goal for Lovable]]'

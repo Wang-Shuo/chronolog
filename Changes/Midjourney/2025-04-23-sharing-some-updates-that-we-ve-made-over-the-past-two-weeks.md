@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6e6cc98e4828bb83dd4ac82a7a7032a303f5f270617d99f1c40d51c413bd8d01
+machine_hash: 05e314c3e45f2ea3737b0cb77030ba3ed4bf4ffeff4f566c250ab9bc4ad60f90
 product: midjourney
 product_name: Midjourney
 record:
@@ -77,7 +77,7 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2025-04-23 · Dify · [[Changes/Dify/2025-04-23-workflow-export-delight-ever-wanted-to-share-your-workflow-effortlessly-you-can|Workflow Export Delight: Ever wanted to share your workflow effortlessly?]]
-- Later: 2025-04-25 · Lovable · [[Changes/Lovable/2025-04-25-lovable-2-0|Lovable 2.0]]
+- Later: 2025-04-25 · Devin · [[Changes/Devin/2025-04-25-share-wikis-and-answers-to-keep-everyone-on-the-same-page|Share wikis and answers to keep everyone on the same page]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

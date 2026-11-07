@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e2749c6cb33f5a43b49ff081cbecce9be5438ed1f31e9a066c933eabc91a62e9
+machine_hash: e07a6b1c2ac46afed21a9b1427f3435b22e5578e7ccc8ce65f3287c83c91fb43
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -75,10 +75,10 @@ record:
   title: Advanced Account Security in ChatGPT
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-04-28-docs-migrate-installation-and-authentication-to-mdx-with-tabbed-layouts-by-g-sam|docs:
-  migrate installation and authentication to mdx with tabbed layouts]]'
 - '[[Changes/OpenCode/2026-04-28-2-account-and-access-changes-in-v1-14-29|2 Account
   and Access changes in v1.14.29]]'
+- '[[Changes/Devin/2026-04-29-auth-type-badges-in-git-connections|Auth-Type Badges
+  in Git Connections]]'
 - '[[Changes/Dify/2026-04-29-8-account-and-access-changes-in-1-14-0|8 Account and
   Access changes in 1.14.0]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-04-30-advanced-account-security-in-chatgpt-d81bf569|chatgpt-2026-04-30-advanced-account-security-in-chatgpt-d81bf569]]'

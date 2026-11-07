@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 52c3ada7ab4bce06f3d99864300bd12239297a6d6c0e42167997a18f748b4891
+machine_hash: f146ea9ff81944355a97202480bb4905ccb0a851c7ffd8db0a67166f527bf757
 product: open-webui
 product_name: Open WebUI
 record:
@@ -275,10 +275,9 @@ record:
   title: 39 Developer Workflow changes in v0.11.4
   type: change
 related_changes:
-- '[[Changes/Qoder/2026-09-18-worktree-improved-starting-point-list-loading-and-creation-preparation-for-large|Worktree:
-  Improved starting-point list loading and creation preparation…]]'
-- '[[Changes/OpenClaw/2026-09-19-29-developer-workflow-changes-in-v2026-9-5|29 Developer
-  Workflow changes in v2026.9.5]]'
+- '[[Changes/Devin/2026-09-21-devin-review-for-bitbucket-data-center|Devin Review
+  for Bitbucket Data Center]]'
+- '[[Changes/Devin/2026-09-21-azure-devops-improvements|Azure DevOps Improvements]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-21-5-developer-workflow-changes-in-v1-0-87|5
   Developer Workflow changes in v1.0.87]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-09-21-v0-11-4-github-393232555-90de9130|open-webui-2026-09-21-v0-11-4-github-393232555-90de9130]]'

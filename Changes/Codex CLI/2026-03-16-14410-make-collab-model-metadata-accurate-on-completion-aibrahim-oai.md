@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 5550fdf5e0d3cfc5cc04cdd139546bc87daa6f6f35e02d4d453858c324522a1f
+machine_hash: 3617c6db6907bc020d7cbbb19d7a68919d829112e2138dfb4642cdbc0d6c8bd9
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -53,8 +53,7 @@ record:
   title: '#14410 Make collab model metadata accurate on completion @aibrahim-oai'
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-03-12-2-interface-experience-changes-in-v1-2-25|2 Interface
-  Experience changes in v1.2.25]]'
+- '[[Changes/Devin/2026-03-13-structured-output-modal|Structured Output Modal]]'
 - '[[Changes/OpenCode/2026-03-13-6-interface-experience-changes-in-v1-2-26|6 Interface
   Experience changes in v1.2.26]]'
 - '[[Changes/Ollama/2026-03-14-or-using-openclaw-s-onboarding|Or using OpenClaw’s

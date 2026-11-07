@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: eb69866c04f66134f6991ece3f7c6539269b2a0c6e352623c09e8e355e8d985b
+machine_hash: ae0e4272cdb090bbb14e0427bc199bc91114778caf3388cd2f86fb303f228e74
 product: open-webui
 product_name: Open WebUI
 record:
@@ -49,8 +49,8 @@ record:
   title: 2 Interface Experience changes in v0.9.5
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-08-project-info-remains-visible-in-slash-command-picker-when-no-results-match|Project
-  info remains visible in slash command picker when no results match]]'
+- '[[Changes/Raycast/2026-05-08-subtle-suggestions-of-hotkey-types-to-record|Subtle
+  suggestions of hotkey types to record]]'
 - '[[Changes/Open WebUI/2026-05-09-8-interface-experience-changes-in-v0-9-3|8 Interface
   Experience changes in v0.9.3]]'
 - '[[Changes/OpenCode/2026-05-09-3-interface-experience-changes-in-v1-14-44-2|3 Interface

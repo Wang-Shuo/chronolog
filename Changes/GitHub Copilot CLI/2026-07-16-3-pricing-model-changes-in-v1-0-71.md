@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0c1e6827c800822cd9765dcd7fe0d9fdcbe64b6120ddac09f162a83e7c9682ad
+machine_hash: 8facedda9ffe5ffabeaa108aa180cc163079ea99e020ea95aeec845c15499205
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -46,12 +46,12 @@ record:
   title: 3 Pricing Model changes in v1.0.71
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-07-09-core-prevent-crashes-and-bad-pricing-data-when-github-copilot-returns-models-wit|Core
-  Prevent crashes and bad pricing data when GitHub Copilot returns models…]]'
 - '[[Changes/Lovable/2026-07-13-functions-usage-is-now-labeled-compute|Functions usage
   is now labeled Compute]]'
 - '[[Changes/OpenClaw/2026-07-13-18-pricing-model-changes-in-v2026-7-1|18 Pricing
   Model changes in v2026.7.1]]'
+- '[[Changes/Recraft/2026-07-15-cost-22-credits-per-generation|Cost: 22 credits per
+  generation]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-07-16-v1-0-71-github-354824472-a089f622|github-copilot-cli-2026-07-16-v1-0-71-github-354824472-a089f622]]'
 source_type: github_releases
 theme: pricing-model
@@ -100,7 +100,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.71
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-07-13 · OpenClaw · [[Changes/OpenClaw/2026-07-13-18-pricing-model-changes-in-v2026-7-1|18 Pricing Model changes in v2026.7.1]]
+- Earlier: 2026-07-15 · Recraft · [[Changes/Recraft/2026-07-15-cost-22-credits-per-generation|Cost: 22 credits per generation]]
 - Later: 2026-07-17 · Dify · [[Changes/Dify/2026-07-17-5-pricing-model-changes-in-1-16-0|5 Pricing Model changes in 1.16.0]]
 <!-- chronolog:end -->
 

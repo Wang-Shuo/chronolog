@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 6c7bd070206ad6a9ba6a2adb0e900dc3c43847c877e35c63b3c547c7312972c4
+machine_hash: 30d0d344e2942607b3c3127ce7f63cfc8f3e23d3198e3e5f068072a4ebc15aac
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -43,12 +43,12 @@ record:
   title: Allocated and auto-assigned license seats against GE-Standard & GE-Plus organization…
   type: change
 related_changes:
-- '[[Changes/Dify/2026-07-28-2-pricing-model-changes-in-1-16-1|2 Pricing Model changes
-  in 1.16.1]]'
 - '[[Changes/ChatGPT/2026-07-29-research-rarely-happens-alone-chatgpt-for-academic-researchers-gives-faculty-and|ChatGPT
   for Academic Researchers]]'
 - '[[Changes/Runway/2026-07-30-api-responses-now-include-the-credit-cost-of-each-task-both-while-running-as-an|Task
   Cost API]]'
+- '[[Changes/Devin/2026-07-31-primary-billing-organization-attribution|Primary Billing
+  Organization Attribution]]'
 source_release: '[[Releases/Google Antigravity/google-antigravity-2026-07-31-rel-hub-2-5-0-d3956b02|google-antigravity-2026-07-31-rel-hub-2-5-0-d3956b02]]'
 source_type: antigravity_changelog
 theme: pricing-model
@@ -87,7 +87,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-07-30 · Runway · [[Changes/Runway/2026-07-30-api-responses-now-include-the-credit-cost-of-each-task-both-while-running-as-an|Task Cost API]]
+- Earlier: 2026-07-31 · Devin · [[Changes/Devin/2026-07-31-primary-billing-organization-attribution|Primary Billing Organization Attribution]]
 - Later: 2026-07-31 · Replit · [[Changes/Replit/2026-07-31-billing|Billing]]
 <!-- chronolog:end -->
 

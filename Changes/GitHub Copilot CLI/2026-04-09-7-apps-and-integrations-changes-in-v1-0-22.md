@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 013c3bca7127d874123c12f20ae4192088c8ec433fffe4d5d49ca82299697486
+machine_hash: 6cacea9ce7f676ea52b4c81be92a396d2413335f0220e0d1815fa7f217b6041d
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -58,8 +58,7 @@ record:
   title: 7 Apps and Integrations changes in v1.0.22
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-04-08-this-release-introduces-updates-to-bugbot-including-the-ability-to-self-improve|Cursor
-  introduces updates to Bugbot including the ability to self-improve in real…]]'
+- '[[Changes/Devin/2026-04-08-mcp-audit-logs|MCP Audit Logs]]'
 - '[[Changes/Gemini CLI/2026-04-08-3-apps-and-integrations-changes-in-v0-37-0|3 Apps
   and Integrations changes in v0.37.0]]'
 - '[[Changes/Claude Code/2026-04-09-2-apps-and-integrations-changes-in-v2-1-98|2 Apps

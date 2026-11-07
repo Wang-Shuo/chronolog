@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8ff45cc86d56a43a49a893908294f5e2161a8b2b9bffb12d49d7f69ed3f62651
+machine_hash: 8e707342e9ea3613db1b97966cbcf9cee03598b188afa6a2c01e859b8b8cce47
 product: opencode
 product_name: OpenCode
 record:
@@ -42,12 +42,12 @@ record:
   title: 2 Model Support changes in v1.15.9
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-05-21-gemini-3-5-flash-for-ai-features-in-your-app|Gemini
-  3.5 Flash for AI features in your app]]'
 - '[[Changes/OpenCode/2026-05-21-core-restored-openai-reasoning-streams|Core Restored
   OpenAI reasoning streams]]'
 - '[[Changes/Gemini CLI/2026-05-22-2-model-support-changes-in-v0-43-0|2 Model Support
   changes in v0.43.0]]'
+- '[[Changes/LM Studio/2026-05-22-3-model-support-changes-in-lm-studio-0-4-14|3 Model
+  Support changes in LM Studio 0.4.14]]'
 source_release: '[[Releases/OpenCode/opencode-2026-05-22-v1-15-9-488e3668|opencode-2026-05-22-v1-15-9-488e3668]]'
 source_type: opencode_changelog
 theme: model-support
@@ -88,8 +88,8 @@ Source: https://opencode.ai/changelog/v1.15.9
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-05-22 · Gemini CLI · [[Changes/Gemini CLI/2026-05-22-2-model-support-changes-in-v0-43-0|2 Model Support changes in v0.43.0]]
-- Later: 2026-05-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-23-general-purpose-subagents-use-gpt-5-4-or-gpt-5-5-when-available|General-purpose subagents use GPT-5.4 or GPT-5.5 when available]]
+- Earlier: 2026-05-22 · LM Studio · [[Changes/LM Studio/2026-05-22-3-model-support-changes-in-lm-studio-0-4-14|3 Model Support changes in LM Studio 0.4.14]]
+- Later: 2026-05-22 · Superwhisper · [[Changes/Superwhisper/2026-05-22-2-model-support-changes-in-superwhisper-windows-1-3-13|2 Model Support changes in Superwhisper Windows 1.3.13]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

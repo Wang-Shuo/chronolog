@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7993621a83a726c034a269a5af206b9a409d2faa180d9f283477c12b112c7178
+machine_hash: 5c28ea07be844179bface94e8f0c4055981a3fe584facb876d35c48b7e1075d2
 product: open-webui
 product_name: Open WebUI
 record:
@@ -45,12 +45,12 @@ record:
   title: "**\U0001F4C4 Enhanced PDF Citations**"
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2024-09-07-pdf-download-resolved-a-configuration-issue-with-fonts-directory-ensuring-pdfs-a|\U0001F4C4
-  PDF Download]]"
 - "[[Changes/Open WebUI/2024-09-07-document-count-display-now-displays-the-total-number-of-documents-directly-withi|\U0001F4CA
   Document Count Display]]"
 - '[[Changes/Dify/2024-09-10-feat-return-page-number-of-pdf-documents-upon-retrieval-by-jasonkang14-in-https|feat:
   return page number of pdf documents upon retrieval]]'
+- '[[Changes/AnythingLLM/2024-09-11-feature-use-escape-key-to-close-documents-modal-by-timothycarambat-in-https-gith|Feature/use
+  escape key to close documents modal]]'
 source_release: '[[Releases/Open WebUI/open-webui-2024-09-24-v0-3-24-github-176599575-c46b93e9|open-webui-2024-09-24-v0-3-24-github-176599575-c46b93e9]]'
 source_type: github_releases
 theme: file-data
@@ -86,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2024-09-10 · Dify · [[Changes/Dify/2024-09-10-feat-return-page-number-of-pdf-documents-upon-retrieval-by-jasonkang14-in-https|feat: return page number of pdf documents upon retrieval]]
+- Earlier: 2024-09-11 · AnythingLLM · [[Changes/AnythingLLM/2024-09-11-feature-use-escape-key-to-close-documents-modal-by-timothycarambat-in-https-gith|Feature/use escape key to close documents modal]]
 - Later: 2024-09-25 · Descript · [[Changes/Descript/2024-09-25-new-scene-toolbar-under-the-canvas|New scene toolbar under the Canvas]]
 <!-- chronolog:end -->
 

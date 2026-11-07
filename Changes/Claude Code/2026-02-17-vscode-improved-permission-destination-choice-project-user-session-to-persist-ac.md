@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: fc92cddc8c8f993176ac0258ab032e340f6d54c4b5191271a1ae168deddab27c
+machine_hash: 262e5672b608782374b30117736465ff69cca205458c12a3c46aff8f4c9a89db
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,10 @@ record:
     persist…'
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-02-12-5-safety-and-privacy-changes-in-v0-8-0|5 Safety
-  and Privacy changes in v0.8.0]]'
 - '[[Changes/Claude Code/2026-02-13-2-safety-and-privacy-changes-in-v2-1-41|2 Safety
   and Privacy changes in v2.1.41]]'
+- '[[Changes/Devin/2026-02-13-secure-mode-for-all-organizations|Secure Mode for All
+  Organizations]]'
 - "[[Changes/Open WebUI/2026-02-14-public-sharing-security-fix-fixed-a-security-issue-where-users-with-write-access|\U0001F6E1️
   Public sharing security fix. Fixed a security issue where users with write…]]"
 source_release: '[[Releases/Claude Code/claude-code-2026-02-17-v2-1-45-github-287379410-d0651fb6|claude-code-2026-02-17-v2-1-45-github-287379410-d0651fb6]]'

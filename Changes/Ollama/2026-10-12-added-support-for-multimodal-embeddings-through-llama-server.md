@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 1234bd5224e6e586daca91f08f9b1ddec27272509881137cbea447092c411a87
+machine_hash: d8e61b838a897080607453d3e474dd6b948cac02caff101c02735b55d70a5083
 product: ollama
 product_name: Ollama
 record:
@@ -43,8 +43,8 @@ record:
   title: Added support for multimodal embeddings through llama-server
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-10-08-feishu-attachments-files-sent-with-captions-or-together-in-feishu-lark-posts-rea|Feishu
-  attachments]]'
+- '[[Changes/Raycast/2026-10-09-system-actions-new-toggle-camera-mute-command-to-quickly-block-or-restore-camera|System
+  Actions : New Toggle Camera Mute command to quickly block or restore camera…]]'
 - '[[Changes/OpenClaw/2026-10-10-video-previews-new-video-previews-can-download-media-before-play|Video
   previews: New video previews can download media before Play]]'
 - '[[Changes/ElevenLabs/2026-10-12-music|Music]]'

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3f66f5f935f51eaf8a6e8fa918190f488914c4997a67eab7ac8ca9c7374a2d2e
+machine_hash: d9f18a38187ba33454ffd1a2cd9a35722133abb4b416a4bb61a44259f5f5a34f
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,10 +43,10 @@ record:
   title: 3 Editor Experience changes in rust-v0.166.0
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-10-27-the-control-ui-now-reconnects-when-a-visible-tab-has-lost-contact-but-still-show|The
-  Control UI now reconnects when a visible tab has lost contact but still shows…]]'
-- '[[Changes/OpenCode/2026-10-27-5-editor-experience-changes-in-v2-2-0|5 Editor Experience
-  changes in v2.2.0]]'
+- '[[Changes/Raycast/2026-10-28-ai-chat-improved-attachment-layout-and-keyboard-tab-order-in-composer|AI
+  Chat : Improved attachment layout and keyboard tab order in composer]]'
+- '[[Changes/Superwhisper/2026-10-28-modes-tab-renamed-to-transcribe|Modes tab renamed
+  to Transcribe]]'
 - '[[Changes/Windsurf/2026-10-28-in-devin-local-some-tool-requests-such-as-web-fetches-and-multi-file-edits-now-c|In
   Devin Local, some tool requests, such as web fetches and multi-file edits, now…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-10-29-rust-v0-166-0-github-428320524-44f8c24a|codex-cli-2026-10-29-rust-v0-166-0-github-428320524-44f8c24a]]'

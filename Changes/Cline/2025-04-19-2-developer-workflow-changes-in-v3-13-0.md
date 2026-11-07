@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 722ee97cbb604feeb8a724849b59fee09ac404ad1500183bed9a86eaa7154228
+machine_hash: 28a2ea4d1a9dd8e573abe663eb1ae55923c19d7b001d53a7dd9ba2eebcc0c712
 product: cline
 product_name: Cline
 record:
@@ -43,10 +43,10 @@ record:
   title: 2 Developer Workflow changes in v3.13.0
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-04-15-improved-agent-terminal-control|Improved agent terminal
-  control]]'
-- '[[Changes/OpenHands/2025-04-16-converted-the-terminal-panel-from-a-fixed-bottom-panel-to-a-tab-by-rbren-in-http|Converted
-  the Terminal panel from a fixed bottom panel to a tab]]'
+- '[[Changes/Raycast/2025-04-16-the-send-feedback-command-now-opens-a-separate-window-and-accepts-file-uploads|The
+  “Send Feedback” command now opens a separate window and accepts file uploads]]'
+- '[[Changes/AnythingLLM/2025-04-18-apply-git-logic-handler-for-repo-urls-by-timothycarambat-in-https-github-com-min|Apply
+  .git logic handler for repo URLs]]'
 - '[[Changes/Replit/2025-04-18-clearer-checkpoint-titles|Clearer checkpoint titles]]'
 source_release: '[[Releases/Cline/cline-2025-04-19-v3-13-0-github-213455478-f5b1cb21|cline-2025-04-19-v3-13-0-github-213455478-f5b1cb21]]'
 source_type: github_releases

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ae631f12b1e73e293ebc24c9755450833f248141a350c9aaa95449db1334f439
+machine_hash: c2f16c097a9af958e6d99627b846bba573337319612b6e332883c4522dad20ce
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -50,12 +50,12 @@ record:
   title: 4 Developer Workflow changes in v1.0.56
   type: change
 related_changes:
-- '[[Changes/Kimi Code/2026-05-28-2-developer-workflow-changes-in-kimi-code-0-5-0|2
-  Developer Workflow changes in Kimi Code 0.5.0]]'
 - '[[Changes/OpenCode/2026-05-28-4-developer-workflow-changes-in-v1-15-12|4 Developer
   Workflow changes in v1.15.12]]'
 - '[[Changes/Claude Code/2026-05-29-3-developer-workflow-changes-in-v2-1-157|3 Developer
   Workflow changes in v2.1.157]]'
+- '[[Changes/Devin/2026-05-29-disable-review-analysis-for-merged-and-closed-prs|Disable
+  Review/Analysis for Merged and Closed PRs]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-05-29-v1-0-56-github-331744068-421e2448|github-copilot-cli-2026-05-29-v1-0-56-github-331744068-421e2448]]'
 source_type: github_releases
 theme: developer-workflow
@@ -98,7 +98,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.56
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-05-29 · Claude Code · [[Changes/Claude Code/2026-05-29-3-developer-workflow-changes-in-v2-1-157|3 Developer Workflow changes in v2.1.157]]
+- Earlier: 2026-05-29 · Devin · [[Changes/Devin/2026-05-29-disable-review-analysis-for-merged-and-closed-prs|Disable Review/Analysis for Merged and Closed PRs]]
 - Later: 2026-05-29 · Kimi Code · [[Changes/Kimi Code/2026-05-29-support-querying-sessions-by-sessionid-or-workdir-in-listsessions-and-show-a-hel|Support querying sessions by sessionId or workDir in listSessions, and show…]]
 <!-- chronolog:end -->
 

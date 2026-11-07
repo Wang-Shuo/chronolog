@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: b60ea020f67d954494985a878bed3ad67c79c6b94a13db47ecb1b022ec587a11
+machine_hash: 99817b42dd8c089006677d3e20d3692b6b840e2569c0efef0cd29c4c6c966318
 product: ollama
 product_name: Ollama
 record:
@@ -43,10 +43,10 @@ record:
   title: Ollama's app will now no longer incorrectly show "model is out of date"
   type: change
 related_changes:
-- '[[Changes/Suno/2026-03-26-custom-models-upload-at-least-6-tracks-from-your-catalog-to-train-a-personalized|Custom
-  Models Upload at least 6 tracks from your catalog to train a personalized…]]'
 - '[[Changes/Suno/2026-03-26-today-we-launched-v5-5-our-best-and-most-personal-model-yet-it-powers-three-new|Today
   we launched v5.5, our best and most personal model yet]]'
+- '[[Changes/Superwhisper/2026-03-26-parakeet-english-only-model-with-real-time-support-added|Parakeet
+  English only model with real-time support added]]'
 - '[[Changes/Dify/2026-03-27-7-model-support-changes-in-1-13-3|7 Model Support changes
   in 1.13.3]]'
 source_release: '[[Releases/Ollama/ollama-2026-03-27-v0-19-0-github-302442479-29abac08|ollama-2026-03-27-v0-19-0-github-302442479-29abac08]]'

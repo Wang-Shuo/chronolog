@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 547078762f9845a96e4422b2e3031dd3d25451144af3a4ddb850100586ccc717
+machine_hash: 90c532cee640c8a5f174cee8262126c0bfbc984fd9eec85298026677e4798720
 product: dify
 product_name: Dify
 record:
@@ -46,8 +46,8 @@ record:
   title: 3 Reliability and Performance changes in 1.14.0
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-04-24-3-reliability-and-performance-changes-in-v0-9-2|3
-  Reliability and Performance changes in v0.9.2]]'
+- '[[Changes/Raycast/2026-04-27-search-menu-bar-items-added-fuzzy-search-to-find-menu-items-faster|Search
+  Menu Bar Items : Added fuzzy search to find menu items faster]]'
 - '[[Changes/Claude Code/2026-04-28-faster-startup-after-upgrading-removed-the-recent-activity-panel-from-the-releas|Faster
   startup after upgrading]]'
 - '[[Changes/Gemini CLI/2026-04-28-2-reliability-and-performance-changes-in-v0-40-0|2

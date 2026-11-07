@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: cebf8bbb8eb44794053b0342855d61f7ec6ae3fff327954be3497ce0c4cc8a0a
+machine_hash: 16cf41d7c709132b1112b3989bbf34e62850acdeef157fd306c124d1fa580d20
 product: openclaw
 product_name: OpenClaw
 record:
@@ -92,12 +92,12 @@ record:
   title: 11 Automation and Scheduling changes in v2026.9.7
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-09-25-3-automation-and-scheduling-changes-in-v1-24-0|3
-  Automation and Scheduling changes in v1.24.0]]'
 - '[[Changes/Manus/2026-09-28-a-new-architecture-new-products-and-new-capabilities-manus-studio-with-video-edi|Introducing
   Manus 2.0]]'
 - '[[Changes/ChatGPT/2026-09-29-site-owners-can-also-create-recurring-cloud-schedules-from-automations-these-upd|Site
   owners can also create recurring cloud schedules from Automations]]'
+- '[[Changes/Devin/2026-09-30-preflight-checks-for-automations|Preflight Checks for
+  Automations]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-09-30-v2026-9-7-3d25d2bd|openclaw-2026-09-30-v2026-9-7-3d25d2bd]]'
 source_type: openclaw_changelog
 theme: automation-scheduling
@@ -168,8 +168,8 @@ Source: https://docs.openclaw.ai/releases/2026.9.7
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2026-09-29 · ChatGPT · [[Changes/ChatGPT/2026-09-29-site-owners-can-also-create-recurring-cloud-schedules-from-automations-these-upd|Site owners can also create recurring cloud schedules from Automations]]
-- Later: 2026-10-05 · Claude Code · [[Changes/Claude Code/2026-10-05-changed-background-sessions-whose-scheduled-task-is-gone-they-now-move-to-comple|Changed background sessions whose scheduled task is gone]]
+- Earlier: 2026-09-30 · Devin · [[Changes/Devin/2026-09-30-preflight-checks-for-automations|Preflight Checks for Automations]]
+- Later: 2026-10-02 · Devin · [[Changes/Devin/2026-10-02-compact-automation-cards-in-chat|Compact Automation Cards in Chat]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

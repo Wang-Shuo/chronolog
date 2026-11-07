@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 27f5f6ea60a923c4e61f2224b69aebb329ae404d08650ac58cafe0cdacf3343d
+machine_hash: e4199ac7557f1a5c7068f0b6948dbab84972a7c7b76fe93c5eaadc8c5c4684ea
 product: descript
 product_name: Descript
 record:
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2023-04-04 · Synthesia · [[Changes/Synthesia/2023-04-04-cool-updates-for-the-studio-library-one-stop-shop-for-all-assets-easy-template-p|STUDIO Library update]]
-- Later: 2023-05-03 · ChatGPT · [[Changes/ChatGPT/2023-05-03-you-can-now-turn-off-chat-history-and-export-your-data-from-the-chatgpt-settings|Turn off chat history and export your data from the ChatGPT settings]]
+- Later: 2023-04-28 · Raycast · [[Changes/Raycast/2023-04-28-ai-chat-opens-now-in-the-resizable-floating-window-by-default-ai-commands-open-i|AI Chat : Opens now in the resizable, floating window by default]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

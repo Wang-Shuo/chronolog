@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: cfb026db4c4978c0d2ec8322959dd56c4f3607921daa0a9840c2ad921c1cfbfc
+machine_hash: 294eb59630b0525436d8900e572592be9f2da67c289f18a3bd45e34175483f23
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -54,12 +54,11 @@ record:
   title: Reasoning effort picker respects model capabilities
   type: change
 related_changes:
-- '[[Changes/Kimi Code/2026-05-28-show-file-content-and-diff-in-write-and-edit-approval-prompts-and-open-them-in-a|Show
-  file content and diff in Write and Edit approval prompts, and open them…]]'
 - '[[Changes/OpenCode/2026-05-28-terminal-kept-session-navigation-working-while-prompt-modes-are-open|Terminal
   Kept session navigation working while prompt modes are open]]'
 - '[[Changes/Claude Code/2026-05-29-claude-agents-slash-command-autocomplete-in-the-dispatch-input-now-matches-subst|claude
   agents: slash-command autocomplete in the dispatch input now matches substrings]]'
+- '[[Changes/Devin/2026-05-29-pr-review-sidebar-restructure|PR Review Sidebar Restructure]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-05-29-v1-0-56-github-331744068-421e2448|github-copilot-cli-2026-05-29-v1-0-56-github-331744068-421e2448]]'
 source_type: github_releases
 theme: interface-experience
@@ -94,8 +93,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-05-29 · Claude Code · [[Changes/Claude Code/2026-05-29-claude-agents-slash-command-autocomplete-in-the-dispatch-input-now-matches-subst|claude agents: slash-command autocomplete in the dispatch input now matches substrings]]
-- Later: 2026-06-01 · Codex CLI · [[Changes/Codex CLI/2026-06-01-2-interface-experience-changes-in-rust-v0-136-0|2 Interface Experience changes in rust-v0.136.0]]
+- Earlier: 2026-05-29 · Devin · [[Changes/Devin/2026-05-29-pr-review-sidebar-restructure|PR Review Sidebar Restructure]]
+- Later: 2026-05-29 · Raycast · [[Changes/Raycast/2026-05-29-2-interface-experience-changes-in-raycast-ios-1-2-13|2 Interface Experience changes in Raycast ios 1.2.13]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

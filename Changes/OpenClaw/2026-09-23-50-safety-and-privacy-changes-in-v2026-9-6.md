@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5748099e7d5f4c4a31b0547969f37ce17c10f7f786b410780c66e9a4dc00aaaf
+machine_hash: 4a96140c5f6459788542162d7e61e2a12a064a31d95e5a36018b580b14923c27
 product: openclaw
 product_name: OpenClaw
 record:
@@ -409,7 +409,8 @@ record:
   title: 50 Safety and Privacy changes in v2026.9.6
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-09-23-findings|Findings]]'
+- '[[Changes/Devin/2026-09-23-devin-resumes-right-after-permission-responses|Devin
+  Resumes Right After Permission Responses]]'
 - '[[Changes/Kimi Code/2026-09-23-harden-workspace-security-block-file-tools-from-accessing-files-outside-the-work|Harden
   workspace security]]'
 - '[[Changes/Lovable/2026-09-23-redesigned-project-security-view|Redesigned project

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: pricing
-machine_hash: ef15fe9461a78178e4143784eb5fa0f2560e25bb5d376d72aec589380fe9f4b4
+machine_hash: c71097eddc3ab3ac99e9189782eea06b41c35665227d2a253581f1a4d3e0fe86
 product: gemini
 product_name: Gemini
 record:
@@ -107,7 +107,7 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2024-07-02 · Descript · [[Changes/Descript/2024-07-02-plans-and-pricing-update|Plans and Pricing Update]]
-- Later: 2024-07-29 · Aider · [[Changes/Aider/2024-07-29-enhanced-token-usage-and-cost-reporting-now-works-when-streaming-too|Enhanced token usage and cost reporting]]
+- Later: 2024-07-22 · Superwhisper · [[Changes/Superwhisper/2024-07-22-add-billing-link-to-license-view|Add Billing link to License View]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

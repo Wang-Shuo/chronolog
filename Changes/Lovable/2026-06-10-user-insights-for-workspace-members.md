@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: c695e9e677775af411030366c27e54d5c047079d3ff82b0ebf5ce4a41a8d1545
+machine_hash: f4b1b1e2054211e4291f702ebb86eebcd43d719e70bf8ee7c7111e9fe2275e66
 product: lovable
 product_name: Lovable
 record:
@@ -52,11 +52,11 @@ record:
   title: User insights for workspace members
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-06-08-send-an-email-directly-from-within-a-chat-if-you-ve-connected-gmail-or-outlook-y|Send
-  an email directly from within a chat]]'
 - '[[Changes/ElevenLabs/2026-06-08-text-to-dialogue|Text to Dialogue]]'
 - '[[Changes/Lovable/2026-06-08-transfer-a-domain-to-lovable|Transfer a domain to
   Lovable]]'
+- '[[Changes/Devin/2026-06-10-success-confirmation-after-org-creation|Success Confirmation
+  After Org Creation]]'
 source_release: '[[Releases/Lovable/lovable-2026-06-10-2026-06-10-11cd5a10|lovable-2026-06-10-2026-06-10-11cd5a10]]'
 source_type: lovable_changelog
 theme: enterprise-admin
@@ -90,7 +90,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-06-08 · Lovable · [[Changes/Lovable/2026-06-08-transfer-a-domain-to-lovable|Transfer a domain to Lovable]]
+- Earlier: 2026-06-10 · Devin · [[Changes/Devin/2026-06-10-success-confirmation-after-org-creation|Success Confirmation After Org Creation]]
 - Later: 2026-06-11 · Descript · [[Changes/Descript/2026-06-11-creator-pro-and-enterprise-plans-up-to-5-concurrent-generations|Creator, Pro, and Enterprise plans: up to 5 concurrent generations]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 7faefc0e3a4094883a6df3d571be3cff753f7cb705c40977e17c8ead579c97ae
+machine_hash: 94e491d08081aa73b377c6a512c630f93acb891b86484c1b1ee794eb6191a3b9
 product: descript
 product_name: Descript
 record:
@@ -66,8 +66,8 @@ record:
   title: The new Screen recorder—in Beta this week
   type: change
 related_changes:
-- '[[Changes/Notion/2025-04-15-write-beautiful-emails-faster|Write beautiful emails,
-  faster]]'
+- '[[Changes/Devin/2025-04-17-use-devin-s-analysis-to-get-up-to-speed-devin-has-the-self-awareness-to-report-c|Use
+  Devin''s analysis to get up to speed]]'
 - '[[Changes/Ollama/2025-04-17-2-reliability-and-performance-changes-in-v0-6-6|2 Reliability
   and Performance changes in v0.6.6]]'
 - '[[Changes/Replit/2025-04-18-faster-ai-responses|Faster AI responses]]'

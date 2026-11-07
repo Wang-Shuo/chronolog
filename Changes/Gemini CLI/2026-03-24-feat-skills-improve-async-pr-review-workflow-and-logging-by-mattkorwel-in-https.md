@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 05dc70b9b32b5f8d8ff23785e7a00a966020d95e89f56450fa488101b16129f1
+machine_hash: 634395887bd62f29d75bc2cda9610d6a5fffa01c19d7d6a39304043f2f914668
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -44,12 +44,12 @@ record:
   title: 'feat(skills): improve async-pr-review workflow and logging'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-20-2-developer-workflow-changes-in-v1-0-10|2
-  Developer Workflow changes in v1.0.10]]'
 - '[[Changes/OpenCode/2026-03-22-2-developer-workflow-changes-in-v1-3-0|2 Developer
   Workflow changes in v1.3.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-23-2-developer-workflow-changes-in-v1-0-11|2
   Developer Workflow changes in v1.0.11]]'
+- '[[Changes/Devin/2026-03-24-streaming-shell-output-in-worklog|Streaming Shell Output
+  in Worklog]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-03-24-v0-35-0-github-300868580-f6f9b621|gemini-cli-2026-03-24-v0-35-0-github-300868580-f6f9b621]]'
 source_type: github_releases
 theme: developer-workflow
@@ -89,7 +89,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-03-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-23-2-developer-workflow-changes-in-v1-0-11|2 Developer Workflow changes in v1.0.11]]
+- Earlier: 2026-03-24 · Devin · [[Changes/Devin/2026-03-24-streaming-shell-output-in-worklog|Streaming Shell Output in Worklog]]
 - Later: 2026-03-25 · Open WebUI · [[Changes/Open WebUI/2026-03-25-34-developer-workflow-changes-in-v0-8-11|34 Developer Workflow changes in v0.8.11]]
 <!-- chronolog:end -->
 

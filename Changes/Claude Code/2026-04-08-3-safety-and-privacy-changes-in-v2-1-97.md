@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7e70e7ffbe5328508afb01fc76c8ef8e187b4858cdc06299ee8431a8fcbc648d
+machine_hash: 5535f4455eaeece327a3d50ba613859bd4fad23d939fce38581c411743a207a9
 product: claude-code
 product_name: Claude Code
 record:
@@ -93,7 +93,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.97
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-04-07 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-04-07-fewer-confirmation-prompts-for-copilot-actions-web-microsoft-365-copilot-extensi|Fewer confirmation prompts for Copilot actions Web (Microsoft 365 Copilot extensibility)]]
-- Later: 2026-04-08 · Gemini CLI · [[Changes/Gemini CLI/2026-04-08-16-safety-and-privacy-changes-in-v0-37-0|16 Safety and Privacy changes in v0.37.0]]
+- Later: 2026-04-08 · Devin · [[Changes/Devin/2026-04-08-us-privacy-controls|US Privacy Controls]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

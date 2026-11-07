@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ddccb7e67a3c5a693c6d91b4225569a4daca471d7afea04f09d1552c08136731
+machine_hash: b5cd9803edb7c37e1c12d408a520c85dd810e87fd3556cee0974262bb59244b6
 product: opencode
 product_name: OpenCode
 record:
@@ -44,10 +44,10 @@ record:
   title: 2 Reliability and Performance changes in v1.3.2 + 1
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-03-22-providers-models-xai-responses-api-improved-xai-reasoning-models-performance-in|Providers
-  & Models xAI Responses API]]'
 - '[[Changes/ElevenLabs/2026-03-23-packages-v1-0-0-release-candidate|Packages v1.0.0
   Release Candidate]]'
+- '[[Changes/Devin/2026-03-24-various-bug-fixes-and-performance-improvements-across-the-platform|Various
+  bug fixes and performance improvements across the platform]]'
 - '[[Changes/Microsoft 365 Copilot/2026-03-24-summarize-and-explain-actions-in-pdf-reader-web-microsoft-365-copilot-chat|Summarize
   and Explain actions in PDF reader Web (Microsoft 365 Copilot Chat)]]'
 source_release: '[[Releases/OpenCode/opencode-2026-03-24-v1-3-2-70706e91|opencode-2026-03-24-v1-3-2-70706e91]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7111dc29fff15d99b75213c3d30ac9fe6e5496b4666a5d4fde43e16225a5a427
+machine_hash: da4ea197d539250ba281567224e35cd1e063627e451d14c3939c3c15f339b556
 product: openclaw
 product_name: OpenClaw
 record:
@@ -150,10 +150,10 @@ record:
   title: 17 Model Support changes in v2026.9.2
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-09-04-core-fixes-issue-of-gpt-6-astra-not-showing-up-for-openai-subscription-users|Core
-  Fixes issue of gpt-6-astra not showing up for openai subscription users]]'
 - '[[Changes/OpenCode/2026-09-04-allow-codex-oauth-model-filtering-to-recognize-integer-gpt-versions-like-gpt-6|Allow
   Codex OAuth model filtering to recognize integer GPT versions like gpt-6]]'
+- '[[Changes/Superwhisper/2026-09-04-significant-mode-model-switching-improvements|Significant
+  mode/model switching improvements]]'
 - '[[Changes/Ollama/2026-09-05-ollama-models-can-now-be-used-directly-in-chatgpt-desktop-so-you-can-keep-your-e|Ollama
   models can now be used directly in ChatGPT Desktop, so you can keep…]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-09-05-v2026-9-2-377f6d77|openclaw-2026-09-05-v2026-9-2-377f6d77]]'

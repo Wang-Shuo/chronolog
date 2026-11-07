@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: b2455b9918130c8f156cbfd5fd8a026c23ff7f7452c0da1bf82669425d287ed4
+machine_hash: 7a92f9137967d4cb3bc03af74d4d30cb3c615bf2060bbdb68a7d4b13ffa51b16
 product: heygen
 product_name: HeyGen
 record:
@@ -44,12 +44,11 @@ record:
   title: Long-form stability
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-04-improved-write-tool-diff-computation-speed-for-large-files-60-faster-on-files-wi|Improved
-  Write tool diff computation speed for large files…]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-07-reduce-memory-usage-by-automatically-shutting-down-shell-sessions-that-are-no-lo|Reduce
   memory usage by automatically shutting down shell sessions that are no longer…]]'
 - '[[Changes/Ollama/2026-04-07-mlx-improve-m5-performance-with-nax|mlx: Improve M5
   performance with NAX]]'
+- '[[Changes/Devin/2026-04-08-faster-syntax-highlighting|Faster Syntax Highlighting]]'
 source_release: '[[Releases/HeyGen/heygen-2026-04-08-https-heygen-noticeable-news-publications-introducing-avatar-v-d73d6177|heygen-2026-04-08-https-heygen-noticeable-news-publications-introducing-avatar-v-d73d6177]]'
 source_type: heygen_changelog
 theme: reliability-performance
@@ -78,7 +77,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-04-07 · Ollama · [[Changes/Ollama/2026-04-07-mlx-improve-m5-performance-with-nax|mlx: Improve M5 performance with NAX]]
+- Earlier: 2026-04-08 · Devin · [[Changes/Devin/2026-04-08-faster-syntax-highlighting|Faster Syntax Highlighting]]
 - Later: 2026-04-09 · Claude Code · [[Changes/Claude Code/2026-04-09-fixed-a-memory-leak-where-remote-control-permission-handler-entries-were-retaine|Fixed a memory leak where Remote Control permission handler entries were retained…]]
 <!-- chronolog:end -->
 

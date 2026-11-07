@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: d1b12ce18fb28a5a6672434ee96932a744c58da309c4994ce746ad29637933cd
+machine_hash: 5ef77a405629fb49c49619242e6d6021d94a575a0fabcb6cf7bc65cf5e1ffedb
 product: dify
 product_name: Dify
 record:
@@ -43,12 +43,11 @@ record:
   title: 'feat: support login by given mail'
   type: change
 related_changes:
-- '[[Changes/Suno/2024-04-12-1-sign-in-and-click-your-avatar-in-the-bottom-left-on-desktop-or-the-menu-icon-i|1️⃣
-  Sign in, and click your avatar in the bottom left on desktop or the menu icon…]]'
 - "[[Changes/Open WebUI/2024-05-08-auth-disable-option-introducing-the-ability-to-disable-authentication-set-webui|\U0001F512
   Auth Disable Option: Introducing the ability to disable authentication]]"
 - '[[Changes/Dify/2024-05-09-support-for-aliyun-oss-authentication-v4-by-s96ea-in-3886|Support
   for Aliyun OSS authentication V4 by @S96EA in ♯3886]]'
+- '[[Changes/Devin/2024-05-29-interactive-browser|Interactive Browser]]'
 source_release: '[[Releases/Dify/dify-2024-06-14-0-6-11-github-160555165-620e243a|dify-2024-06-14-0-6-11-github-160555165-620e243a]]'
 source_type: github_releases
 theme: account-access
@@ -86,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2024-05-09 · Dify · [[Changes/Dify/2024-05-09-support-for-aliyun-oss-authentication-v4-by-s96ea-in-3886|Support for Aliyun OSS authentication V4 by @S96EA in ♯3886]]
+- Earlier: 2024-05-29 · Devin · [[Changes/Devin/2024-05-29-interactive-browser|Interactive Browser]]
 - Later: 2024-06-17 · Open WebUI · [[Changes/Open WebUI/2024-06-17-federated-auth-usernames-ability-to-set-user-names-for-federated-authentication|🖊️ Federated Auth Usernames: Ability to set user names for federated authentication]]
 <!-- chronolog:end -->
 

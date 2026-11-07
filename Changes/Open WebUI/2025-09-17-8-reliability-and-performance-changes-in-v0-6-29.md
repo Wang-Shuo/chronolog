@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: fd300a2ce0cb1e53fc914db98bcce7c138df1dbb9a869e884bcb4605230ddc47
+machine_hash: 46c8c85b4242b937592ec5e1c6d80577bcd3a66f95394c4569ccdf0c6df73c5c
 product: open-webui
 product_name: Open WebUI
 record:
@@ -129,7 +129,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.6.29
 ## Nearby in Reliability and Performance
 
 - Earlier: 2025-09-17 · ChatGPT · [[Changes/ChatGPT/2025-09-17-2-reliability-and-performance-changes-in-toggle-thinking-time-in-the-message|2 Reliability and Performance changes in Toggle thinking time in the message…]]
-- Later: 2025-09-19 · Replit · [[Changes/Replit/2025-09-19-faster-user-deletion-in-clui|Faster user deletion in CLUI]]
+- Later: 2025-09-19 · Devin · [[Changes/Devin/2025-09-19-git-permissions-performance-improvements|Git permissions performance improvements]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

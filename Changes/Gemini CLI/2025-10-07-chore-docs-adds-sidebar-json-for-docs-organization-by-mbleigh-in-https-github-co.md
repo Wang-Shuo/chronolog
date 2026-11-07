@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ca5cf252a541205fc369b679fb71e3cac959f6108561b17f32aa653b98cc1664
+machine_hash: 44009e3280f6c902b80e4e4147e12531dc2b67d467dc879fcc464b750a51ca75
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -41,10 +41,10 @@ record:
   title: 'chore(docs): adds sidebar.json for docs organization'
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-10-01-converted-settings-to-vertical-sidebar-layout|Converted
-  settings to vertical sidebar layout]]'
 - '[[Changes/Codex CLI/2025-10-03-3-interface-experience-changes-in-rust-v0-44-0|3
   Interface Experience changes in rust-v0.44.0]]'
+- '[[Changes/Devin/2025-10-03-enhanced-member-page-tabs-and-navigation|Enhanced member
+  page tabs and navigation]]'
 - '[[Changes/GitHub Copilot CLI/2025-10-06-reduced-the-number-of-colors-and-improved-the-spacing-of-markdown-rendering|Reduced
   the number of colors and improved the spacing of Markdown rendering]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-10-07-v0-8-0-github-252858757-2ecdc728|gemini-cli-2025-10-07-v0-8-0-github-252858757-2ecdc728]]'

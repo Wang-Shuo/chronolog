@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d8500658c22535ea41fa0e355bc2f957167884871042688a88051d0ef46cfcd9
+machine_hash: fa490062de4cd67c4ff6c7e8f3cc801765e991a7cffda9cbd5f5088b95f6ed01
 product: openhands
 product_name: OpenHands
 record:
@@ -43,12 +43,12 @@ record:
   title: 2 Developer Workflow changes in 0.8.1
   type: change
 related_changes:
-- '[[Changes/OpenHands/2024-07-13-feat-implement-user-confirmation-mode-request-confirmation-when-running-bash-pyt|feat:
-  Implement user confirmation mode, request confirmation when running…]]'
 - '[[Changes/Dify/2024-07-15-2-developer-workflow-changes-in-0-6-14|2 Developer Workflow
   changes in 0.6.14]]'
 - "[[Changes/Open WebUI/2024-07-17-debug-logs-fixed-an-issue-where-debug-logs-were-not-being-logged-properly|\U0001FAB2
   Debug Logs: Fixed an issue where debug logs were not being logged properly]]"
+- '[[Changes/Raycast/2024-07-17-4-developer-workflow-changes-in-raycast-macos-v1-1-79-0|4
+  Developer Workflow changes in Raycast macos-v1 1.79.0]]'
 source_release: '[[Releases/OpenHands/openhands-2024-07-19-0-8-1-github-166290483-3fde9148|openhands-2024-07-19-0-8-1-github-166290483-3fde9148]]'
 source_type: github_releases
 theme: developer-workflow
@@ -85,7 +85,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/0.8.1
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2024-07-17 · Open WebUI · [[Changes/Open WebUI/2024-07-17-debug-logs-fixed-an-issue-where-debug-logs-were-not-being-logged-properly|🪲 Debug Logs: Fixed an issue where debug logs were not being logged properly]]
+- Earlier: 2024-07-17 · Raycast · [[Changes/Raycast/2024-07-17-4-developer-workflow-changes-in-raycast-macos-v1-1-79-0|4 Developer Workflow changes in Raycast macos-v1 1.79.0]]
 - Later: 2024-07-23 · Dify · [[Changes/Dify/2024-07-23-stop-the-service-command-please-execute-in-the-docker-directory|Stop the service，Command, please execute in the docker directory]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9ea10f36bc779adcc611fdd31baff84d7a3beb4d1008f3feadbef537de1f47b4
+machine_hash: adf5c5fd20293f2818010ce02197385fc9561ab2688c14fba328c9ef8df47bb0
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -42,10 +42,10 @@ record:
   title: 'feat(memory): add Auto Memory inbox flow with canonical-patch contract'
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-05-05-feat-memory-persist-auto-memory-scratchpad-for-skill-extraction-by-sandytao520-i|feat(memory):
-  persist auto-memory scratchpad for skill extraction]]'
 - '[[Changes/Codex CLI/2026-05-07-16-memory-and-personalization-changes-in-rust-v0-129-0|16
   Memory and Personalization changes in rust-v0.129.0]]'
+- '[[Changes/Raycast/2026-05-08-import-add-support-for-importing-ai-extension-custom-instructions|Import
+  : Add support for importing AI extension custom instructions]]'
 - '[[Changes/Open WebUI/2026-05-09-faster-memory-query-performance-per-user-memory-lookups-and-deletions-now-run-mu|⚡
   Faster memory query performance. Per-user memory lookups and deletions now run…]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-05-12-v0-42-0-github-321461714-faa5f8a3|gemini-cli-2026-05-12-v0-42-0-github-321461714-faa5f8a3]]'

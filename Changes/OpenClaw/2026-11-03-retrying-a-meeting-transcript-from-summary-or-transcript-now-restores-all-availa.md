@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: meeting-notes
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b8fdb918b9c26edd754a38fd9ea3dcd99af042713aedbfc1deab6a5d6ce8fdaf
+machine_hash: 459dcb2fd6e6f3bd3f2d8f7651d7412e84744c5d0ac9d5ae960ad1b8d67492d5
 product: openclaw
 product_name: OpenClaw
 record:
@@ -47,12 +47,12 @@ record:
     available pages
   type: change
 related_changes:
-- '[[Changes/Notion/2026-07-01-and-there-s-a-lot-more-ai-meeting-notes-now-include-speaker-labels-a-top-request|And
-  there’s a lot more]]'
-- '[[Changes/Notion/2026-07-01-smarter-meeting-summaries-with-speaker-labels|Smarter
-  meeting summaries with speaker labels]]'
+- '[[Changes/Wispr Flow/2026-10-09-mention-people-in-your-meeting-notes-notetaker|Mention
+  people in your meeting notes (Notetaker)]]'
 - '[[Changes/Notion/2026-10-13-reintroducing-synced-databases|Reintroducing synced
   databases]]'
+- '[[Changes/Superwhisper/2026-10-20-meeting-summaries-now-detect-the-correct-language-even-when-speech-recognition-m|Meeting
+  summaries now detect the correct language even when speech recognition…]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-11-03-v2026-10-10-c26ff355|openclaw-2026-11-03-v2026-10-10-c26ff355]]'
 source_type: openclaw_changelog
 theme: meeting-notes
@@ -103,7 +103,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Meeting Notes
 
-- Earlier: 2026-10-13 · Notion · [[Changes/Notion/2026-10-13-reintroducing-synced-databases|Reintroducing synced databases]]
+- Earlier: 2026-10-20 · Superwhisper · [[Changes/Superwhisper/2026-10-20-meeting-summaries-now-detect-the-correct-language-even-when-speech-recognition-m|Meeting summaries now detect the correct language even when speech recognition…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 706b6e25eba37d147c83034dd8777a68dac7d5b5e1867f4b11193ce468bb255d
+machine_hash: bcd0aa77867e6205e6544ddfb4c5df11d82552d145eb64e4d1ddf356b745ac47
 product: dify
 product_name: Dify
 record:
@@ -54,7 +54,8 @@ record:
   title: 6 Collaboration changes in 1.15.0
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-06-22-new-team-marketplaces|New Team Marketplaces]]'
+- '[[Changes/Raycast/2026-06-22-3-collaboration-changes-in-raycast-ios-1-3-0|3 Collaboration
+  changes in Raycast ios 1.3.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-23-preserve-markdown-blockquotes-in-share-exports|Preserve
   Markdown blockquotes in /share exports]]'
 - '[[Changes/Lovable/2026-06-23-a-more-compact-show-toolbar-button|A more compact

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 3239d719d10bb5ccce06bb68c18121dd04dea5e11cbb2b3b9341cea8c3be81b7
+machine_hash: 2861b8c59e000cd0aec211b092ebc228b11845ee3e2b8e04b4107f1f8406fd5f
 product: ollama
 product_name: Ollama
 record:
@@ -46,8 +46,8 @@ record:
     series…'
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-03-01-8-model-support-changes-in-v0-8-6|8 Model Support
-  changes in v0.8.6]]'
+- '[[Changes/AnythingLLM/2026-03-02-you-can-now-run-complex-multi-step-tool-calls-with-your-llm-provider-and-model|Run
+  complex, multi-step tool calls with your LLM provider and model]]'
 - '[[Changes/Codex CLI/2026-03-02-4-model-support-changes-in-rust-v0-107-0|4 Model
   Support changes in rust-v0.107.0]]'
 - '[[Changes/Descript/2026-03-02-claude-sonnet-4-6-and-google-gemini-3-1-pro-now-in-underlord|Claude

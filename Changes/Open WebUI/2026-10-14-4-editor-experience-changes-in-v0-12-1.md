@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 91b6350252a906f5f2a4814f6c922d2b88efa069292040de91586ef683657659
+machine_hash: 45530ccc2b37759213ea5ce5a1c8024c114f2053710806d0cce0a677954a34e0
 product: open-webui
 product_name: Open WebUI
 record:
@@ -90,10 +90,10 @@ record:
   title: 4 Editor Experience changes in v0.12.1
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-14-3-editor-experience-changes-in-v2-1-300|3 Editor
-  Experience changes in v2.1.300]]'
 - '[[Changes/Claude Code/2026-10-14-2-editor-experience-changes-in-v2-1-299|2 Editor
   Experience changes in v2.1.299]]'
+- '[[Changes/Devin/2026-10-14-filenames-on-diff-and-patch-attachments|Filenames on
+  Diff and Patch Attachments]]'
 - "[[Changes/Open WebUI/2026-10-14-open-attached-knowledge-from-its-preview-clicking-the-name-in-the-preview-of-an|\U0001F4DA
   Open attached knowledge from its preview. Clicking the name in the preview…]]"
 source_release: '[[Releases/Open WebUI/open-webui-2026-10-14-v0-12-1-github-412917560-ae297772|open-webui-2026-10-14-v0-12-1-github-412917560-ae297772]]'

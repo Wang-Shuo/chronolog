@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d93aec25cd83a2dfa319047e67b4814ff9e2694b79120b97339f77d85e92389e
+machine_hash: 7b059914149a42ec2b2539709dd0fb14d446deaae2f016ba4ea763284fe2a488
 product: opencode
 product_name: OpenCode
 record:
@@ -49,8 +49,7 @@ record:
   title: 4 Apps and Integrations changes in v1.4.4
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-04-15-9-apps-and-integrations-changes-in-rust-v0-121-0|9
-  Apps and Integrations changes in rust-v0.121.0]]'
+- '[[Changes/Devin/2026-04-15-datadog-remote-mcp-server|Datadog Remote MCP Server]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-15-add-copilot-plugin-marketplace-update-command-to-refresh-plugin-catalogs|Add
   copilot plugin marketplace update command to refresh plugin catalogs]]'
 - '[[Changes/OpenCode/2026-04-15-export-ai-sdk-telemetry-spans-to-otlp-trace-backends|Export
@@ -97,7 +96,7 @@ Source: https://opencode.ai/changelog/v1.4.4
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-04-15 · OpenCode · [[Changes/OpenCode/2026-04-15-export-ai-sdk-telemetry-spans-to-otlp-trace-backends|Export AI SDK telemetry spans to OTLP trace backends]]
-- Later: 2026-04-15 · Windsurf · [[Changes/Windsurf/2026-04-15-additional-changes|Additional Changes]]
+- Later: 2026-04-15 · Raycast · [[Changes/Raycast/2026-04-15-applications-added-a-recursive-search-option-for-portable-apps|Applications : Added a recursive search option for portable apps]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 4f67683d6fa45bdd680ae7001c5fa08e4601f6160401a4336e013f55b5436811
+machine_hash: feebeddd4584a26164ea5e7291342dae1ab594150e5daa934e07d8471322a294
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -46,10 +46,10 @@ record:
   title: Python SDK
   type: change
 related_changes:
-- '[[Changes/Suno/2026-03-26-voices-record-or-upload-your-own-audio-and-suno-will-let-you-sing-on-your-creati|Voices
-  Record or upload your own audio and Suno will let you sing on your creations]]'
-- '[[Changes/Codex CLI/2026-03-31-16114-remove-tui-voice-transcription-feature-etraut-openai|♯16114
-  Remove TUI voice transcription feature @etraut-openai]]'
+- '[[Changes/Superwhisper/2026-03-31-add-vad-state-reset-should-resolve-repeated-no-voice-found-errors|Add
+  VAD state reset, should resolve repeated "no voice found" errors]]'
+- '[[Changes/Wispr Flow/2026-03-31-context-aware-dictation-android|Context-Aware Dictation
+  (Android)]]'
 - '[[Changes/ElevenLabs/2026-04-01-speech-to-text|Speech to Text]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-04-01-2026-04-01-d4336c3f|elevenlabs-2026-04-01-2026-04-01-d4336c3f]]'
 source_type: elevenlabs_changelog
@@ -89,8 +89,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-03-31 · Codex CLI · [[Changes/Codex CLI/2026-03-31-16114-remove-tui-voice-transcription-feature-etraut-openai|♯16114 Remove TUI voice transcription feature @etraut-openai]]
-- Later: 2026-04-06 · Notion · [[Changes/Notion/2026-04-06-voice-input-for-notion-ai-is-now-on-desktop-whether-you-are-dictating-a-longer-p|Voice input on desktop]]
+- Earlier: 2026-03-31 · Wispr Flow · [[Changes/Wispr Flow/2026-03-31-context-aware-dictation-android|Context-Aware Dictation (Android)]]
+- Later: 2026-04-02 · AnythingLLM · [[Changes/AnythingLLM/2026-04-02-voice-messages-attachments|Voice messages & Attachments]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

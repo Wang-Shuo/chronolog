@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8ac57da7d7a749f3bce19b1257a361482a074030c9f9e5faa2ea44b9d573c612
+machine_hash: ffe6bf8d7a07652dc2eee45b07626b156fd9097642952dbfa066432a32302bdc
 product: descript
 product_name: Descript
 record:
@@ -45,10 +45,9 @@ record:
   title: Edit Page names on the page
   type: change
 related_changes:
-- '[[Changes/Descript/2020-05-06-published-tab-shows-all-published-pages-by-default|"Published"
-  tab shows all published pages by default]]'
-- '[[Changes/Descript/2020-11-10-we-ve-made-it-so-that-you-can-now-single-click-to-edit-a-file-name-in-the-media|Single-click
-  to edit filenames]]'
+- '[[Changes/Raycast/2020-11-11-preferences-we-ve-added-a-new-shiny-about-tab|Preferences:
+  We’ve added a new shiny About tab]]'
+- '[[Changes/Raycast/2020-11-19-feature-previews|Feature Previews]]'
 - '[[Changes/Descript/2020-12-17-previously-descript-only-corrected-capitalization-and-punctuation-while-making-e|Auto-correct
   capitalization and punctuation while editing]]'
 source_release: '[[Releases/Descript/descript-2020-12-17-5fdb6a7f751aa3699b220713-d737c0e6|descript-2020-12-17-5fdb6a7f751aa3699b220713-d737c0e6]]'
@@ -78,7 +77,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2020-12-17 · Descript · [[Changes/Descript/2020-12-17-previously-descript-only-corrected-capitalization-and-punctuation-while-making-e|Auto-correct capitalization and punctuation while editing]]
-- Later: 2021-02-18 · Descript · [[Changes/Descript/2021-02-18-descript-automatically-optimizes-the-edit-boundaries-in-your-composition-after-r|Optimized Edit Boundaries with Filler Word Removal]]
+- Later: 2020-12-22 · Raycast · [[Changes/Raycast/2020-12-22-auto-switch-keyboard-layout-now-you-can-enforce-raycast-to-always-switch-to-engl|Auto-switch Keyboard Layout]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

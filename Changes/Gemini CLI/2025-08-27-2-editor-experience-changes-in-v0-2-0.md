@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c1e3299870995c416b1d0bccdb0354461cb3092347fe27a42e3c7ad97a6ee76c
+machine_hash: d3bb6b0baf7ec13f41a1df52bd6509a9615e56653b0021b96568cb74ef9479b1
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -85,7 +85,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.2.0
 ## Nearby in Editor Experience
 
 - Earlier: 2025-08-27 · Dify · [[Changes/Dify/2025-08-27-2-editor-experience-changes-in-1-8-0|2 Editor Experience changes in 1.8.0]]
-- Later: 2025-08-29 · Descript · [[Changes/Descript/2025-08-29-what-s-new|What’s new?]]
+- Later: 2025-08-28 · LM Studio · [[Changes/LM Studio/2025-08-28-added-ability-to-edit-chat-name-from-chat-tab-dropdown-or-double-clicking-chat-t|Added ability to edit chat name from chat tab dropdown, or double clicking chat tab]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

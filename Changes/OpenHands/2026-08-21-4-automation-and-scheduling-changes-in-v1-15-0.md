@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a651676770582d600c6ebf21e2721c70bef54da18953d89cf5dbc24928d99fae
+machine_hash: 08a1d40d8894fc2367607c170ef78f2f03e1c37bc35729c432a8428f7775f7ff
 product: openhands
 product_name: OpenHands
 record:
@@ -49,12 +49,10 @@ record:
   title: 4 Automation and Scheduling changes in v1.15.0
   type: change
 related_changes:
-- '[[Changes/Suno/2026-08-13-automation-change-your-effect-parameters-over-time-to-breathe-life-into-your-fin|Automation:
-  Change your effect parameters over time to breathe life into your final mix]]'
-- '[[Changes/Cline/2026-08-14-stop-two-cline-installations-on-different-builds-from-shutting-each-other-s-hub|Stop
-  two Cline installations on different builds from shutting each other''s Hub…]]'
-- '[[Changes/OpenHands/2026-08-17-feat-automations-add-a-git-sync-page-by-vascosch92-in-https-github-com-openhands|feat(automations):
-  add a Git Sync page]]'
+- '[[Changes/Devin/2026-08-19-automation-schedule-timezones|Automation Schedule Timezones]]'
+- '[[Changes/Devin/2026-08-21-bearer-secrets-for-automation-webhooks|Bearer Secrets
+  for Automation Webhooks]]'
+- '[[Changes/Devin/2026-08-21-finding-resolution-notes|Finding Resolution Notes]]'
 source_release: '[[Releases/OpenHands/openhands-2026-08-21-v1-15-0-github-374444037-909e5dfc|openhands-2026-08-21-v1-15-0-github-374444037-909e5dfc]]'
 source_type: github_releases
 theme: automation-scheduling
@@ -96,7 +94,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/v1.15.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2026-08-17 · OpenHands · [[Changes/OpenHands/2026-08-17-feat-automations-add-a-git-sync-page-by-vascosch92-in-https-github-com-openhands|feat(automations): add a Git Sync page]]
+- Earlier: 2026-08-21 · Devin · [[Changes/Devin/2026-08-21-finding-resolution-notes|Finding Resolution Notes]]
 - Later: 2026-08-21 · Replit · [[Changes/Replit/2026-08-21-automate-recurring-work-with-routines|Automate recurring work with Routines]]
 <!-- chronolog:end -->
 

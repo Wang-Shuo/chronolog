@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8eec2500c7ddac70e7bc966f01f5487459b4cf88862e35695947ce535e3277a9
+machine_hash: deb12f67886f0fd064eec2f6fce3c29e65d36a9300676e2b3b8a14c6664af486
 product: open-webui
 product_name: Open WebUI
 record:
@@ -44,8 +44,8 @@ record:
   title: "**\U0001F522 Workspace Enhancements**"
   type: change
 related_changes:
-- '[[Changes/Gemini/2024-10-02-gemini-1-5-pro-in-gemini-advanced-just-became-more-capable|Gemini
-  1.5 Pro in Gemini Advanced just became more capable]]'
+- '[[Changes/AnythingLLM/2024-10-03-2-model-support-changes-in-v1-2-3|2 Model Support
+  changes in v1.2.3]]'
 - '[[Changes/Aider/2024-10-04-sanity-checks-the-editor-model-on-launch-now-same-as-main-and-weak-models|Sanity
   checks the --editor-model on launch now, same as main and weak models]]'
 - '[[Changes/Open WebUI/2024-10-07-3-model-support-changes-in-v0-3-31|3 Model Support

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5199836e81e0adeb8830847347d231300ca4c4f38d103a9f42dbac5f24d43979
+machine_hash: 82489c5398af2b5f8a763741d3dd04cd71bf3949df691341a5dc2ed8c8827707
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -44,12 +44,11 @@ record:
   title: 2 Interface Experience changes in v0.36.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-31-2-interface-experience-changes-in-v1-0-14|2
-  Interface Experience changes in v1.0.14]]'
 - '[[Changes/Claude Code/2026-04-01-changed-resume-picker-to-no-longer-show-sessions-created-by-claude-p-or-sdk-invo|Changed
   --resume picker to no longer show sessions created by claude -p or SDK…]]'
 - '[[Changes/Claude Code/2026-04-01-added-claude-code-no-flicker-1-environment-variable-to-opt-into-flicker-free-alt|Added
   CLAUDE_CODE_NO_FLICKER=1 environment variable to opt into flicker-free…]]'
+- '[[Changes/Devin/2026-04-01-sticky-sidebar-headers|Sticky Sidebar Headers]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-04-01-v0-36-0-github-304395807-bc719eb1|gemini-cli-2026-04-01-v0-36-0-github-304395807-bc719eb1]]'
 source_type: github_releases
 theme: interface-experience
@@ -94,7 +93,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.36.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-04-01 · Claude Code · [[Changes/Claude Code/2026-04-01-added-claude-code-no-flicker-1-environment-variable-to-opt-into-flicker-free-alt|Added CLAUDE_CODE_NO_FLICKER=1 environment variable to opt into flicker-free…]]
+- Earlier: 2026-04-01 · Devin · [[Changes/Devin/2026-04-01-sticky-sidebar-headers|Sticky Sidebar Headers]]
 - Later: 2026-04-01 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-01-4-interface-experience-changes-in-v1-0-15|4 Interface Experience changes in v1.0.15]]
 <!-- chronolog:end -->
 

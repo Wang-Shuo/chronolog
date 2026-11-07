@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 11d694952ff429b423defb236611cac12b6de8b1fcf8ec3c8f5aad709287911a
+machine_hash: 499a28460c887c84f38f561107f57f4c57fa703e2da0f82b96b2dbc669550dea
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -54,12 +54,12 @@ record:
   title: GPT-5.3 Instant Update
   type: change
 related_changes:
-- '[[Changes/Descript/2026-03-02-claude-sonnet-4-6-and-google-gemini-3-1-pro-now-in-underlord|Claude
-  Sonnet 4.6 and Google Gemini 3.1 Pro now in Underlord]]'
 - '[[Changes/Ollama/2026-03-02-qwen3-5-https-ollama-com-library-qwen3-5-the-small-qwen-3-5-model-series-is-now|Qwen3.5((source
   link) the small Qwen 3.5 model series…]]'
 - "[[Changes/Open WebUI/2026-03-02-temporary-chat-params-preservation-model-parameters-are-now-correctly-saved-when|\U0001F4BE
   Temporary chat params preservation. Model parameters are now correctly saved…]]"
+- '[[Changes/Raycast/2026-03-02-misc-updated-design-for-reasoning-creativity-setting|Misc
+  : Updated design for reasoning / creativity setting]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-03-03-gpt-5-3-instant-update-a32de9bf|chatgpt-2026-03-03-gpt-5-3-instant-update-a32de9bf]]'
 source_type: chatgpt_changelog
 theme: model-support
@@ -86,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-03-02 · Open WebUI · [[Changes/Open WebUI/2026-03-02-temporary-chat-params-preservation-model-parameters-are-now-correctly-saved-when|💾 Temporary chat params preservation. Model parameters are now correctly saved…]]
+- Earlier: 2026-03-02 · Raycast · [[Changes/Raycast/2026-03-02-misc-updated-design-for-reasoning-creativity-setting|Misc : Updated design for reasoning / creativity setting]]
 - Later: 2026-03-03 · Cline · [[Changes/Cline/2026-03-03-restore-gpt-oss-native-file-editing-on-openai-compatible-models|Restore GPT-OSS native file editing on OpenAI-compatible models]]
 <!-- chronolog:end -->
 

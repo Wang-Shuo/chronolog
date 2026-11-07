@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: a258642981cffeee733dd9f5ae49a625d531091eb31e532b782252936b09c9c7
+machine_hash: d462e251eda6a04675a74caaa2cde8a0e33bb3a7fdab32a100c7adb2849cbcef
 product: lovable
 product_name: Lovable
 record:
@@ -53,12 +53,12 @@ record:
   title: Let your app's users sign in with their Lovable account
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-10-13-power-bi-and-bluebird-mcp-servers-accept-their-published-resource-scopes-during|Power
-  BI and Bluebird MCP servers accept their published resource scopes during sign-in]]'
 - '[[Changes/OpenClaw/2026-10-13-2-account-and-access-changes-in-v2026-10-3|2 Account
   and Access changes in v2026.10.3]]'
 - '[[Changes/Claude Code/2026-10-14-improved-the-error-shown-when-a-cloud-session-is-refused-because-your-claude-ai|Improved
   the error shown when a cloud session is refused because your claude.ai…]]'
+- '[[Changes/Devin/2026-10-14-sso-only-enterprise-members-are-routed-to-their-enterprise-sign-in|SSO-only
+  Enterprise Members are Routed to Their Enterprise Sign-in]]'
 source_release: '[[Releases/Lovable/lovable-2026-10-14-2026-10-14-aff165c6|lovable-2026-10-14-2026-10-14-aff165c6]]'
 source_type: lovable_changelog
 theme: account-access
@@ -92,7 +92,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-10-14 · Claude Code · [[Changes/Claude Code/2026-10-14-improved-the-error-shown-when-a-cloud-session-is-refused-because-your-claude-ai|Improved the error shown when a cloud session is refused because your claude.ai…]]
+- Earlier: 2026-10-14 · Devin · [[Changes/Devin/2026-10-14-sso-only-enterprise-members-are-routed-to-their-enterprise-sign-in|SSO-only Enterprise Members are Routed to Their Enterprise Sign-in]]
 - Later: 2026-10-14 · Ollama · [[Changes/Ollama/2026-10-14-clearer-error-messages-when-cloud-access-fails-sign-in-problems-payment-issues-i|Clearer error messages when cloud access fails]]
 <!-- chronolog:end -->
 

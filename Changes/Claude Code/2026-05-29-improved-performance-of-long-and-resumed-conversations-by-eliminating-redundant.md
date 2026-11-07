@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7887da8f91909f97a7ecc615c9bc9605085a451994c201b3e0c068953a0de10f
+machine_hash: 5877e15f853c88704a959e625477d152f9474b6877fcf5e89aee1054688d9d54
 product: claude-code
 product_name: Claude Code
 record:
@@ -82,7 +82,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-05-28 · Lovable · [[Changes/Lovable/2026-05-28-improvements-and-bug-fixes|Improvements and bug fixes]]
-- Later: 2026-06-01 · Open WebUI · [[Changes/Open WebUI/2026-06-01-5-reliability-and-performance-changes-in-v0-9-6|5 Reliability and Performance changes in v0.9.6]]
+- Later: 2026-05-29 · Superwhisper · [[Changes/Superwhisper/2026-05-29-improved-waveform-display-performance|Improved waveform display performance]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

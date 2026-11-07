@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f1dbf51157687ea090a0cd09c4117383c18a0ed3196e7005a918b36b861ab117
+machine_hash: 8bb9960ba220f1fa5c6e9107f5ce3a0995bbf5407dd24c6ec6e9b8b472feac05
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -41,12 +41,12 @@ record:
   title: Add /voice devices to choose and persist the microphone for voice mode
   type: change
 related_changes:
-- '[[Changes/Synthesia/2026-07-09-explore-stock-voices-by-language-preview-with-your-own-script-and-download-audio|Explore
-  the new Voices page]]'
-- '[[Changes/ChatGPT/2026-07-13-chatgpt-is-available-again-on-whatsapp-in-the-european-economic-area-eea-you-can-f60c71|ChatGPT
-  returns to WhatsApp in the EEA]]'
 - '[[Changes/OpenClaw/2026-07-13-83-voice-and-audio-changes-in-v2026-7-1|83 Voice
   and Audio changes in v2026.7.1]]'
+- '[[Changes/Superwhisper/2026-07-13-improved-the-audio-input-device-picker-to-favorite-and-exlude-audio-devices|Improved
+  the audio input device picker to favorite and exlude audio devices]]'
+- '[[Changes/Superwhisper/2026-07-13-parakeet-japanese-voice-model|Parakeet Japanese
+  voice model]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-07-16-v1-0-71-github-354824472-a089f622|github-copilot-cli-2026-07-16-v1-0-71-github-354824472-a089f622]]'
 source_type: github_releases
 theme: voice
@@ -89,8 +89,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-07-13 · OpenClaw · [[Changes/OpenClaw/2026-07-13-83-voice-and-audio-changes-in-v2026-7-1|83 Voice and Audio changes in v2026.7.1]]
-- Later: 2026-07-17 · Dify · [[Changes/Dify/2026-07-17-3-voice-and-audio-changes-in-1-16-0|3 Voice and Audio changes in 1.16.0]]
+- Earlier: 2026-07-13 · Superwhisper · [[Changes/Superwhisper/2026-07-13-parakeet-japanese-voice-model|Parakeet Japanese voice model]]
+- Later: 2026-07-16 · Raycast · [[Changes/Raycast/2026-07-16-applications-improve-audio-playing-detection-for-auto-quit-apps|Applications : Improve audio playing detection for Auto-Quit apps]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

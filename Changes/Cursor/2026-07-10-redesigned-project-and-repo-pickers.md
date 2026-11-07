@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 111e7e78c7cda2138d7c505ec212413fec416175b2663da1d92bb580882b09e7
+machine_hash: f17aa0a485f3f156e60547e952a00fc943b0211df79b975fa7ad62f76af4df5e
 product: cursor
 product_name: Cursor
 record:
@@ -90,7 +90,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-07-09 · Suno · [[Changes/Suno/2026-07-09-real-writing-environment|Real writing environment]]
-- Later: 2026-07-10 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-10-4-interface-experience-changes-in-v1-0-70|4 Interface Experience changes in v1.0.70]]
+- Later: 2026-07-10 · Devin · [[Changes/Devin/2026-07-10-streamlined-copy-actions|Streamlined Copy Actions]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

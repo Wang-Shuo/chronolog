@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 1962f395bc0bd90ea63c63d73d42f6b2fbe3a8044f846e5ec99c3e17e4fee6c7
+machine_hash: 4e839b79863c59431ba9e7e04ab7519e3a3134cafbeffa889460d6e42a66eb97
 product: notion
 product_name: Notion
 record:
@@ -51,8 +51,8 @@ record:
   title: SOC 2 Type 2 certification
   type: change
 related_changes:
-- '[[Changes/Descript/2021-06-15-we-ve-improved-the-comments-feature-so-that-when-you-type-you-will-now-get-a-lis|Improved
-  Comments for Drive Members]]'
+- '[[Changes/Raycast/2021-07-13-linear-add-support-for-the-new-issue-triage-set-the-triage-status-in-the-create|Linear:
+  Add support for the new Issue Triage]]'
 - '[[Changes/Notion/2021-07-14-public-pages-are-now-hosted-at-yourdomain-notion-site|Public
   pages are now hosted at yourdomain.notion.site]]'
 - '[[Changes/Notion/2021-07-27-introducing-notion-for-non-profits|Introducing: Notion

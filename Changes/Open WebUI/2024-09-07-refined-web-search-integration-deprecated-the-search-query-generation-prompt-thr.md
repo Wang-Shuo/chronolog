@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: policy
-machine_hash: 7e423c8ea0a7504da02c58921a10ca100bd1398b0c4e91371324ea91553a7329
+machine_hash: 88840d4e9a3bad6ba2f9427fb6fd3b84671bc2ed8a1b76eb5b2207b0bd21fa4e
 product: open-webui
 product_name: Open WebUI
 record:
@@ -58,9 +58,9 @@ record:
   title: "**\U0001F310 Refined Web Search Integration**"
   type: change
 related_changes:
-- '[[Changes/OpenHands/2024-06-29-5-search-and-browsing-changes-in-0-7-0|5 Search
-  and Browsing changes in 0.7.0]]'
 - '[[Changes/Ollama/2024-07-25-web-browsing|Web browsing]]'
+- '[[Changes/AnythingLLM/2024-07-26-feat-bing-search-api-web-search-provider-by-shatfield4-in-https-github-com-mintp|FEAT
+  Bing Search API web search provider]]'
 - '[[Changes/Open WebUI/2024-09-04-2-search-and-browsing-changes-in-v0-3-17|2 Search
   and Browsing changes in v0.3.17]]'
 source_release: '[[Releases/Open WebUI/open-webui-2024-09-07-v0-3-20-github-173953368-dacaadce|open-webui-2024-09-07-v0-3-20-github-173953368-dacaadce]]'
@@ -96,7 +96,7 @@ type: change
 ## Nearby in Search and Browsing
 
 - Earlier: 2024-09-04 · Open WebUI · [[Changes/Open WebUI/2024-09-04-2-search-and-browsing-changes-in-v0-3-17|2 Search and Browsing changes in v0.3.17]]
-- Later: 2024-09-24 · Open WebUI · [[Changes/Open WebUI/2024-09-24-web-search-functionality-corrected-an-issue-where-the-web-search-option-was-not|🔍 Web Search Functionality]]
+- Later: 2024-09-11 · AnythingLLM · [[Changes/AnythingLLM/2024-09-11-feature-add-searchapi-web-browsing-by-timothycarambat-in-https-github-com-mintpl|Feature/add searchapi web browsing]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

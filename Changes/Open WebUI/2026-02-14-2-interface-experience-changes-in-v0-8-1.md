@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 77d2f6e0429db82897b6ce32c8c3a309a692061561e659b1a4c1dc9c754a1a12
+machine_hash: 9ff9f155ae41928bf358a105f35f9f15ca41282fc690a6d897b46ab13627ecd5
 product: open-webui
 product_name: Open WebUI
 record:
@@ -48,12 +48,10 @@ record:
   title: 2 Interface Experience changes in v0.8.1
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-02-13-quick-tools-in-the-composer-a-new-quick-tools-menu-in-the-message-composer-makes|Quick
-  tools in the composer]]'
-- '[[Changes/ChatGPT/2026-02-13-simplified-composer-the-message-composer-has-been-streamlined-to-reduce-visual-c|Simplified
-  composer]]'
 - '[[Changes/Claude Code/2026-02-13-improved-narrow-terminal-layout-for-prompt-footer|Improved
   narrow terminal layout for prompt footer]]'
+- '[[Changes/Devin/2026-02-13-devin-fast-mode|Devin Fast Mode]]'
+- '[[Changes/Devin/2026-02-13-settings-search|Settings Search]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-02-14-v0-8-1-github-286288526-aa333d77|open-webui-2026-02-14-v0-8-1-github-286288526-aa333d77]]'
 source_type: github_releases
 theme: interface-experience
@@ -94,7 +92,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.8.1
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-02-13 · Claude Code · [[Changes/Claude Code/2026-02-13-improved-narrow-terminal-layout-for-prompt-footer|Improved narrow terminal layout for prompt footer]]
+- Earlier: 2026-02-13 · Devin · [[Changes/Devin/2026-02-13-settings-search|Settings Search]]
 - Later: 2026-02-16 · Open WebUI · [[Changes/Open WebUI/2026-02-16-strikethrough-shortcut-conflict-fix-pressing-ctrl-shift-s-to-toggle-the-sidebar|⌨️ Strikethrough shortcut conflict fix. Pressing Ctrl+Shift+S to toggle…]]
 <!-- chronolog:end -->
 

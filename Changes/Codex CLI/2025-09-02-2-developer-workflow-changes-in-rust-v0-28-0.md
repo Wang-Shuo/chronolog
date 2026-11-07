@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f4663ddf59d36e074d8bb6cafb68bff440c964475662658e595d700d67b5cf95
+machine_hash: ea6daaef898aa925bc0ae18da5519294ccfaf2394ab6fa9f7c6843303200a4dd
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,8 +43,8 @@ record:
   title: 2 Developer Workflow changes in rust-v0.28.0
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-08-27-feat-core-refactor-shell-execution-to-use-node-pty-by-galz10-in-https-github-com|feat(core):
-  refactor shell execution to use node-pty]]'
+- '[[Changes/LM Studio/2025-08-28-improved-lms-lm-studio-cli-command-output-style|Improved
+  lms (LM Studio CLI) command output style]]'
 - "[[Changes/Open WebUI/2025-08-28-code-block-copy-button-content-fixed-fixed-an-issue-where-the-copy-button-in-cod|\U0001F4CB
   Code Block Copy Button Content Fixed]]"
 - '[[Changes/Codex CLI/2025-08-29-2852-following-up-on-2371-post-commit-feedback|♯2852

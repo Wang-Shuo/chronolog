@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 90c45d8e4b37bd7846e014c9821200bd50fe96b39ac8d15dde26e9c2265e0dea
+machine_hash: d171ed718bcd310ee7787b64398a14cd9f91658416d7fba4482cf3151ad11b1c
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,9 +44,10 @@ record:
   title: 3 Reliability and Performance changes in rust-v0.145.0
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-07-17-devin-cloud|Devin Cloud]]'
 - '[[Changes/Claude Code/2026-07-18-added-a-periodic-progress-heartbeat-for-long-running-tool-calls-that-previously|Added
   a periodic progress heartbeat for long-running tool calls that previously went…]]'
+- '[[Changes/Superwhisper/2026-07-20-refined-the-typing-speed-test-and-stat-sharing-controls|Refined
+  the typing speed test and stat sharing controls]]'
 - '[[Changes/Claude Code/2026-07-21-added-warnings-when-transcript-writes-are-failing-e-g-disk-full-or-when-session|Added
   warnings when transcript writes are failing (e.g. disk full) or when session…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-07-21-rust-v0-145-0-github-357545274-7be4454f|codex-cli-2026-07-21-rust-v0-145-0-github-357545274-7be4454f]]'
@@ -101,7 +102,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.145.0
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-07-21 · Claude Code · [[Changes/Claude Code/2026-07-21-added-warnings-when-transcript-writes-are-failing-e-g-disk-full-or-when-session|Added warnings when transcript writes are failing (e.g. disk full) or when session…]]
-- Later: 2026-07-22 · Kimi Code · [[Changes/Kimi Code/2026-07-22-improve-tui-performance-and-resume-speed-for-long-running-sessions|Improve TUI performance and resume speed for long-running sessions]]
+- Later: 2026-07-22 · Devin · [[Changes/Devin/2026-07-22-performance-improvements|Performance Improvements]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

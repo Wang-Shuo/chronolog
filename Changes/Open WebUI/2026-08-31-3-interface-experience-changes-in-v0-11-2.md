@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 513b21b37a182566e40c8bf81afa9c92adc37dc551d25a3bf008a0e1fc0ad064
+machine_hash: ce482988fa3ace576ee2cd988e01c839c845d642e4d61c5956cb9ef8542c688b
 product: open-webui
 product_name: Open WebUI
 record:
@@ -111,7 +111,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.11.2
 ## Nearby in Interface Experience
 
 - Earlier: 2026-08-31 · Open WebUI · [[Changes/Open WebUI/2026-08-31-accessibility-mode-reaches-the-menus-accessibility-mode-now-marks-the-menu-entry|♿ Accessibility mode reaches the menus. Accessibility mode now marks the menu…]]
-- Later: 2026-09-01 · Claude Code · [[Changes/Claude Code/2026-09-01-2-interface-experience-changes-in-v2-1-257|2 Interface Experience changes in v2.1.257]]
+- Later: 2026-08-31 · Raycast · [[Changes/Raycast/2026-08-31-2-interface-experience-changes-in-raycast-ios-1-3-6|2 Interface Experience changes in Raycast ios 1.3.6]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

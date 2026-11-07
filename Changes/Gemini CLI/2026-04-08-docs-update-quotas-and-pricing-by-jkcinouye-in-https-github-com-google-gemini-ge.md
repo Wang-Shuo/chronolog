@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: policy
-machine_hash: 1a070ddcc8e66266a56fb0430155486de0ef21067b7dfe8e6e7ecde0c376c7d1
+machine_hash: 105707090a10421ab184104bf2c9743e5aa056ed47ce1a33966468b3ce6dbfb9
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -43,12 +43,12 @@ record:
   title: 'Docs: Update quotas and pricing'
   type: change
 related_changes:
-- '[[Changes/HeyGen/2026-03-31-available-on-all-plans-credits-required|Available on:
-  All plans]]'
 - '[[Changes/Claude Code/2026-04-04-added-per-model-and-cache-hit-breakdown-to-cost-for-subscription-users|Added
   per-model and cache-hit breakdown to /cost for subscription users]]'
 - '[[Changes/Windsurf/2026-04-06-updated-model-picker-with-pricing-context|Updated
   Model Picker with Pricing Context]]'
+- '[[Changes/Devin/2026-04-08-numerous-smaller-fixes-and-polish-including-sidebar-collapse-state-persistence-s|Numerous
+  smaller fixes and polish, including sidebar collapse state persistence…]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-04-08-v0-37-0-github-306699346-f88de07d|gemini-cli-2026-04-08-v0-37-0-github-306699346-f88de07d]]'
 source_type: github_releases
 theme: pricing-model
@@ -87,7 +87,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-04-06 · Windsurf · [[Changes/Windsurf/2026-04-06-updated-model-picker-with-pricing-context|Updated Model Picker with Pricing Context]]
+- Earlier: 2026-04-08 · Devin · [[Changes/Devin/2026-04-08-numerous-smaller-fixes-and-polish-including-sidebar-collapse-state-persistence-s|Numerous smaller fixes and polish, including sidebar collapse state persistence…]]
 - Later: 2026-04-09 · ChatGPT · [[Changes/ChatGPT/2026-04-09-pro-100-month-built-for-longer-high-intensity-codex-sessions-it-includes-unlimit|Pro ($100/month): Built for longer, high-intensity Codex sessions]]
 <!-- chronolog:end -->
 

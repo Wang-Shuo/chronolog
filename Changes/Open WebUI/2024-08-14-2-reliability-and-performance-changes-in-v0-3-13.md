@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1ef1c1a336b8b0dd785c321260ea65c05c25f07c2b1b9608a41e18faab1ce75d
+machine_hash: 7d1b14fb5c0ecbcb7dc1b11569748dd9edb4f27fbf24a43651fa5b86e3c0e844
 product: open-webui
 product_name: Open WebUI
 record:
@@ -47,8 +47,8 @@ record:
   title: 2 Reliability and Performance changes in v0.3.13
   type: change
 related_changes:
-- '[[Changes/Ollama/2024-08-11-ollama-will-now-provide-an-error-instead-of-crashing-on-windows-when-running-mod|Ollama
-  will now provide an error instead of crashing on Windows when running models…]]'
+- '[[Changes/Superwhisper/2024-08-12-faster-history-window-load-time|Faster history
+  window load time]]'
 - '[[Changes/Aider/2024-08-13-web-scraper-is-more-robust-if-page-never-idles|Web scraper
   is more robust if page never idles]]'
 - '[[Changes/Ollama/2024-08-13-ollama-will-now-import-gguf-files-faster-by-minimizing-file-copies|Ollama

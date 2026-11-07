@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 579c6755e9fcd6fbf89426fdd7283d198ab2638f9b3ab1b9a4d06894a0195a79
+machine_hash: 9aeef67bea476f425f8fe7b73e079b9104eaf5b9d428afd2c698fdb19f5327be
 product: opencode
 product_name: OpenCode
 record:
@@ -96,7 +96,7 @@ Source: https://opencode.ai/changelog/v1.1.30
 ## Nearby in Model Support
 
 - Earlier: 2026-01-21 · OpenCode · [[Changes/OpenCode/2026-01-21-3-model-support-changes-in-v1-1-29|3 Model Support changes in v1.1.29]]
-- Later: 2026-01-22 · ChatGPT · [[Changes/ChatGPT/2026-01-22-we-re-updating-gpt-5-2-instant-s-default-personality-to-be-more-conversational-a|5.2 Personality System Prompt Update]]
+- Later: 2026-01-22 · AnythingLLM · [[Changes/AnythingLLM/2026-01-22-3-model-support-changes-in-v1-10-0|3 Model Support changes in v1.10.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

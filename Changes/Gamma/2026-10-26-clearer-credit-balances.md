@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: e8df7e601eb19ff2553f8a2d2497fd1037ff1355e6914b2c5068a9f20440629f
+machine_hash: de560c0b622ba44f36999da32211617c93ce9caec23942d52566390e7a6450d8
 product: gamma
 product_name: Gamma
 record:
@@ -44,10 +44,9 @@ record:
   title: Clearer credit balances
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-10-21-you-can-now-use-momo-to-pay-for-chatgpt-go-plus-and-pro-subscriptions-purchased|MoMo
-  payments in Vietnam]]'
 - '[[Changes/Synthesia/2026-10-21-set-a-monthly-credit-limit-for-every-user-on-your-enterprise-plan-so-spend-stays|Set
   per-user limits with Credit controls]]'
+- '[[Changes/Krea/2026-10-24-workspace-usage-by-member|Workspace usage by member]]'
 - '[[Changes/ElevenLabs/2026-10-26-2-pricing-model-changes-in-elevenlabs-updates-2026-10-26|2
   Pricing Model changes in ElevenLabs updates — 2026-10-26]]'
 source_release: '[[Releases/Gamma/gamma-2026-10-26-6adfa60dfb9f73d63d1f52fd-593d6949|gamma-2026-10-26-6adfa60dfb9f73d63d1f52fd-593d6949]]'
@@ -81,7 +80,7 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2026-10-26 · ElevenLabs · [[Changes/ElevenLabs/2026-10-26-2-pricing-model-changes-in-elevenlabs-updates-2026-10-26|2 Pricing Model changes in ElevenLabs updates — 2026-10-26]]
-- Later: 2026-10-27 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-10-27-work-iq-apis-usage-based-billing-windows-linux-mac-web-microsoft-365-copilot-ext|Work IQ APIs: Usage-based billing Windows, Linux, Mac…]]
+- Later: 2026-10-26 · Krea · [[Changes/Krea/2026-10-26-billing-is-fixed-for-accounts-subscribed-on-both-web-and-ios|Billing is fixed for accounts subscribed on both web and iOS]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

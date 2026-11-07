@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 58d0eaf2336621df72e4413322faef5f3bbbde504ab3ae405639269d708954e6
+machine_hash: 36d80c904d0d065eb59346ebeea23ba6fe40c4ba625e4a4baf723ee797f00b6c
 product: cursor
 product_name: Cursor
 record:
@@ -95,7 +95,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2025-09-11 · Cline · [[Changes/Cline/2025-09-11-added-dify-ai-api-integration|Added Dify.ai API Integration]]
-- Later: 2025-09-12 · Replit · [[Changes/Replit/2025-09-12-app-connectors-and-integrations|App connectors and integrations]]
+- Later: 2025-09-12 · Devin · [[Changes/Devin/2025-09-12-integrations-page-access|Integrations page access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

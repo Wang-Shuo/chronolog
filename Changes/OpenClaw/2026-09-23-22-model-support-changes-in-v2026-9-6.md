@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1387a692f4a7dc106081305645a969727277820948cae04b0bdc27b215795f59
+machine_hash: 5abce6b84b7d09abae4df55b3e1a22bffc0336d1460a6228b005436571bfbad3
 product: openclaw
 product_name: OpenClaw
 record:
@@ -278,7 +278,7 @@ Source: https://docs.openclaw.ai/releases/2026.9.6
 ## Nearby in Model Support
 
 - Earlier: 2026-09-23 · Lovable · [[Changes/Lovable/2026-09-23-enable-extended-retention-models-in-your-enterprise-workspace|Enable extended-retention models in your Enterprise workspace]]
-- Later: 2026-09-24 · Claude Code · [[Changes/Claude Code/2026-09-24-2-model-support-changes-in-v2-1-282|2 Model Support changes in v2.1.282]]
+- Later: 2026-09-23 · Recraft · [[Changes/Recraft/2026-09-23-finally-zero-lag-in-your-workflow-recraft-v4-1-flash-generates-images-in-1-3-sec|V4.1 Flash: The Fastest Model on the Market]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

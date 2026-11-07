@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2b481ff254218af331e8427801d0d4d95ac0e626d05cc4b2e14bd05cd0e18434
+machine_hash: 2dbda5837b25e876b2b12ef7ab516a060423d05b2b431acec075b8278904d464
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -135,7 +135,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.1.15
 ## Nearby in Model Support
 
 - Earlier: 2025-07-28 · Dify · [[Changes/Dify/2025-07-28-2-model-support-changes-in-1-7-1|2 Model Support changes in 1.7.1]]
-- Later: 2025-07-31 · Cline · [[Changes/Cline/2025-07-31-4-model-support-changes-in-v3-20-3|4 Model Support changes in v3.20.3]]
+- Later: 2025-07-30 · Raycast · [[Changes/Raycast/2025-07-30-auto-transcribe-with-granola-auto-models-bring-your-own-models|Auto Transcribe with Granola, Auto Models & Bring Your Own Models]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

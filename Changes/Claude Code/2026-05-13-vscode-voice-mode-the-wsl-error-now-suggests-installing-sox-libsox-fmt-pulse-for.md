@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1ecf96e3f8342eb19a3f376a1c701cf351b07c28fb1a031a6b0695caa5f971d9
+machine_hash: 8a0bd248cd0b6ac1c408645284d465ccb9b7f3bd457ee8c4efb46a00bf689a83
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,12 +51,12 @@ record:
   title: '[VSCode] Voice mode'
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-05-09-10-voice-and-audio-changes-in-v0-9-3|10 Voice and
-  Audio changes in v0.9.3]]'
 - '[[Changes/Dify/2026-05-12-audio-and-transcript-behavior-explicitly-resume-audiocontext-and-play-audio-on-f|Audio
   and transcript behavior]]'
 - '[[Changes/Gemini CLI/2026-05-12-2-voice-and-audio-changes-in-v0-42-0|2 Voice and
   Audio changes in v0.42.0]]'
+- '[[Changes/Raycast/2026-05-12-dictation-added-support-for-function-keys-and-single-tap-modifiers-as-hotkeys|Dictation
+  : Added support for function keys and single-tap modifiers as hotkeys]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-13-v2-1-141-github-322186176-9f8e2e22|claude-code-2026-05-13-v2-1-141-github-322186176-9f8e2e22]]'
 source_type: github_releases
 theme: voice
@@ -94,8 +94,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-05-12 · Gemini CLI · [[Changes/Gemini CLI/2026-05-12-2-voice-and-audio-changes-in-v0-42-0|2 Voice and Audio changes in v0.42.0]]
-- Later: 2026-05-13 · ElevenLabs · [[Changes/ElevenLabs/2026-05-13-javascript-sdk|JavaScript SDK]]
+- Earlier: 2026-05-12 · Raycast · [[Changes/Raycast/2026-05-12-dictation-added-support-for-function-keys-and-single-tap-modifiers-as-hotkeys|Dictation : Added support for function keys and single-tap modifiers as hotkeys]]
+- Later: 2026-05-13 · Devin · [[Changes/Devin/2026-05-13-voice-recording-while-devin-is-working|Voice Recording While Devin Is Working]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9448fb316c8bbb81fa488850cd8b21656d4f5005be2ab963b1770c4d4fd778ba
+machine_hash: 9b22f13f28befc189a3bbd861e3cb2b3fa22e13f79307809dc75c4140aa3c4b0
 product: claude-code
 product_name: Claude Code
 record:
@@ -98,7 +98,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.218
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-07-21 · v0 · [[Changes/v0/2026-07-21-3-apps-and-integrations-changes-in-slash-commands-the-shopify|3 Apps and Integrations changes in Slash commands, the Shopify…]]
-- Later: 2026-07-22 · Kimi Code · [[Changes/Kimi Code/2026-07-22-reconnect-a-dropped-mcp-server-connection-automatically-when-one-of-its-tools-is|Reconnect a dropped MCP server connection automatically when one of its tools…]]
+- Later: 2026-07-22 · Devin · [[Changes/Devin/2026-07-22-safer-mcp-access-changes|Safer MCP Access Changes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

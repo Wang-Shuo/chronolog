@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 11d7aaf476d50dca8d85e0f7c55ca79815f6b14afcd0fbd1e8851fc112f1814b
+machine_hash: 781b007cbdb8a4886b949cc633da02e3e70688d2984c7fef8daa4d85ffc38f12
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,11 +45,11 @@ record:
     changes
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-19-changed-auto-mode-for-claude-api-and-enterprise-users-and-on-bedrock-vertex-foun|Changed
-  auto mode for Claude API and Enterprise users, and on Bedrock, Vertex…]]'
 - '[[Changes/OpenClaw/2026-09-19-6-pricing-model-changes-in-v2026-9-5|6 Pricing Model
   changes in v2026.9.5]]'
 - '[[Changes/ElevenLabs/2026-09-21-user|User]]'
+- '[[Changes/AnythingLLM/2026-09-22-x-openrouter-service-tier-selection-for-controlling-routing-cost-and-priority|x
+  OpenRouter service tier selection for controlling routing cost and priority]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-22-v2-1-280-github-393879189-1cf5db2b|claude-code-2026-09-22-v2-1-280-github-393879189-1cf5db2b]]'
 source_type: github_releases
 theme: pricing-model
@@ -87,7 +87,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-09-21 · ElevenLabs · [[Changes/ElevenLabs/2026-09-21-user|User]]
+- Earlier: 2026-09-22 · AnythingLLM · [[Changes/AnythingLLM/2026-09-22-x-openrouter-service-tier-selection-for-controlling-routing-cost-and-priority|x OpenRouter service tier selection for controlling routing cost and priority]]
 - Later: 2026-09-22 · Cline · [[Changes/Cline/2026-09-22-models-that-advertise-a-large-output-limit-now-get-a-bigger-default-output-budge|Models that advertise a large output limit now get a bigger default output budget]]
 <!-- chronolog:end -->
 

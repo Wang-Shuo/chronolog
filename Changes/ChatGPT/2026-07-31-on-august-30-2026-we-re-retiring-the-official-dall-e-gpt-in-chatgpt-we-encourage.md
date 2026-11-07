@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: policy
-machine_hash: 583c86884d9da22a893f4ba18af08bce9c99ef8c053b754ed72113ad0b103271
+machine_hash: 7a98323a85aebfb6f8269213ca5c861ebb799f087da457219a3a301ec747a72f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -47,8 +47,8 @@ record:
   title: Retiring the DALL·E GPT
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-07-21-3-image-generation-changes-in-rust-v0-145-0|3 Image
-  Generation changes in rust-v0.145.0]]'
+- '[[Changes/Raycast/2026-07-23-ai-generated-images-can-be-dragged-and-dropped-into-other-apps-3f50b8|AI
+  : Generated images can be dragged and dropped into other apps]]'
 - "[[Changes/Open WebUI/2026-07-27-shared-image-checkpoint-changes-only-administrators-can-now-change-the-instance|\U0001F58C️
   Shared image checkpoint changes. Only administrators can now change…]]"
 - '[[Changes/Codex CLI/2026-07-29-34850-disable-image-generation-for-free-plan-accounts-copyberry|♯34850

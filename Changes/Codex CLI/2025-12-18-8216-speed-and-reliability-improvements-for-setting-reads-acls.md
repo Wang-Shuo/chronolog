@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d3ff03eb8189f802224323ba9ca7091a8dc85c79a34c12a0364e7d0d5fbe403c
+machine_hash: 7cc3cc46de75f0f55f7943db6ab5e80dcaccd273dfa97425a437bce981b36eb1
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -88,7 +88,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2025-12-17 · Gamma · [[Changes/Gamma/2025-12-17-for-faster-results-submit-your-url-through-google-search-console|For faster results, submit your URL through Google Search Console]]
-- Later: 2025-12-21 · Codex CLI · [[Changes/Codex CLI/2025-12-21-8295-coalesce-transcript-scroll-redraws-tui2-performance-https-github-com-openai|♯8295 Coalesce transcript scroll redraws (TUI2 performance)]]
+- Later: 2025-12-19 · Devin · [[Changes/Devin/2025-12-19-various-bug-fixes-and-performance-improvements-across-the-platform|Various bug fixes and performance improvements across the platform]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

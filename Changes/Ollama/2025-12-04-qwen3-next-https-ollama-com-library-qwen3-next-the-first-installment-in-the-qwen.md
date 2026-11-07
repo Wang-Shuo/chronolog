@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c621b49c851203075efb9b98be7bdc493d1ac8d8745cbdc494a3c268132c3202
+machine_hash: 7abc6b16d6bc4c13403e3aa8607134c9e1057940b763c5fc1ce243e8b1c64186
 product: ollama
 product_name: Ollama
 record:
@@ -79,7 +79,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2025-12-04 · Descript · [[Changes/Descript/2025-12-04-get-a-creative-plan-before-underlord-starts-editing|Get a creative plan before Underlord starts editing]]
-- Later: 2025-12-05 · Replit · [[Changes/Replit/2025-12-05-connect-third-party-services-faster|Connect third-party services faster]]
+- Later: 2025-12-05 · Raycast · [[Changes/Raycast/2025-12-05-chat-and-home-are-now-faster-and-smoother-rebuilt-for-performance|Chat and Home are now faster and smoother, rebuilt for performance]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

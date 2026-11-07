@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f748ca2ed97987084213a32988c89f1879ea85b186630b50ab45495d3cccf680
+machine_hash: 189dee4f813137ae8f3f4b12664f59c2af37fce0b6f8cafe8ddd6e41296df342
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -55,11 +55,11 @@ record:
     the sidebar list
   type: change
 related_changes:
-- '[[Changes/Descript/2026-08-05-schedule-a-room|Schedule a Room]]'
-- '[[Changes/OpenHands/2026-08-05-3-automation-and-scheduling-changes-in-v1-10-0|3
-  Automation and Scheduling changes in v1.10.0]]'
-- '[[Changes/Codex CLI/2026-08-07-36228-support-enterprise-automation-account-plans-copyberry|♯36228
-  Support Enterprise automation account plans @copyberry]]'
+- '[[Changes/Devin/2026-08-07-queueing-support-for-automations|Queueing Support for
+  Automations]]'
+- '[[Changes/Devin/2026-08-07-gitlab-support-in-automations|GitLab Support in Automations]]'
+- '[[Changes/Devin/2026-08-07-automations-api-and-terraform-provider|Automations API
+  and Terraform Provider]]'
 source_release: '[[Releases/Google Antigravity/google-antigravity-2026-08-07-rel-hub-2-6-0-1cc55d28|google-antigravity-2026-08-07-rel-hub-2-6-0-1cc55d28]]'
 source_type: antigravity_changelog
 theme: automation-scheduling
@@ -97,7 +97,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2026-08-07 · Codex CLI · [[Changes/Codex CLI/2026-08-07-36228-support-enterprise-automation-account-plans-copyberry|♯36228 Support Enterprise automation account plans @copyberry]]
+- Earlier: 2026-08-07 · Devin · [[Changes/Devin/2026-08-07-automations-api-and-terraform-provider|Automations API and Terraform Provider]]
 - Later: 2026-08-07 · OpenHands · [[Changes/OpenHands/2026-08-07-2-automation-and-scheduling-changes-in-v1-11-0|2 Automation and Scheduling changes in v1.11.0]]
 <!-- chronolog:end -->
 

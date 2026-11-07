@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 27a10c29d5a7fca16b694b87a6c283dbf2ee4d56772a8359b0585cf0aee1a11a
+machine_hash: f9964339cdb9ed7fe26fee3f65f46af720071e9cc4c2de9fe9ad121c409be787
 product: midjourney
 product_name: Midjourney
 record:
@@ -100,7 +100,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2025-11-20 · Gemini · [[Changes/Gemini/2025-11-20-drive-with-gemini-in-android-auto|Drive with Gemini in Android Auto]]
-- Later: 2025-11-24 · Open WebUI · [[Changes/Open WebUI/2025-11-24-pwa-installations-on-ios-now-properly-refresh-after-server-container-restarts-re|📱 PWA installations on iOS now properly refresh after server container restarts…]]
+- Later: 2025-11-21 · Devin · [[Changes/Devin/2025-11-21-mobile-wiki-improvements|Mobile Wiki Improvements]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

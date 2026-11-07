@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 13f15ff805db821307694ea7fb44723562175e85a93761540440b1f20820ab26
+machine_hash: 0ec1d30da38e9e29fe7ac9c74c0b4dffc552153615e6781ff1ee58b999a0e31c
 product: dify
 product_name: Dify
 record:
@@ -60,8 +60,9 @@ record:
   title: 7 Files and Data changes in 1.12.0
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-01-19-knowledge-base|Knowledge Base]]'
 - '[[Changes/ElevenLabs/2026-01-26-knowledge-base|Knowledge Base]]'
+- '[[Changes/LM Studio/2026-01-28-improved-pdf-rendering-quality-for-tool-requests-and-responses|Improved
+  PDF rendering quality for tool requests and responses]]'
 - '[[Changes/Codex CLI/2026-01-31-10191-chore-app-server-document-authmode-owenlin0|♯10191
   chore(app-server): document AuthMode @owenlin0]]'
 source_release: '[[Releases/Dify/dify-2026-02-03-1-12-0-github-282591953-290f70e4|dify-2026-02-03-1-12-0-github-282591953-290f70e4]]'

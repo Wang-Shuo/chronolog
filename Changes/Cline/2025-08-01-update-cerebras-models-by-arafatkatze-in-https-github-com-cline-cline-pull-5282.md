@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d55b6a51bf69e5368e3593a463c7b570ee43552395a92b3a2a2a5a5ca0ef3942
+machine_hash: 1e43a388891b17d592964fb6a80927aa849a173712753a539b9d31f75d5b1957
 product: cline
 product_name: Cline
 record:
@@ -40,10 +40,9 @@ record:
   title: Update Cerebras models
   type: change
 related_changes:
-- '[[Changes/Dify/2025-07-28-2-model-support-changes-in-1-7-1|2 Model Support changes
-  in 1.7.1]]'
-- '[[Changes/Gemini CLI/2025-07-30-11-model-support-changes-in-v0-1-15|11 Model Support
-  changes in v0.1.15]]'
+- '[[Changes/Raycast/2025-07-30-byom-do-not-pass-temperature-if-not-supported-by-the-model|BYOM:
+  Do not pass temperature if not supported by the model]]'
+- '[[Changes/Raycast/2025-07-30-new-ai-experiments|New AI Experiments]]'
 - '[[Changes/Cline/2025-07-31-4-model-support-changes-in-v3-20-3|4 Model Support changes
   in v3.20.3]]'
 source_release: '[[Releases/Cline/cline-2025-08-01-v3-20-4-github-236999164-495945d8|cline-2025-08-01-v3-20-4-github-236999164-495945d8]]'

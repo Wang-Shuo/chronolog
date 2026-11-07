@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 674e4e4882e7bb7bd5308222dba2f4786efde734d4eccf1d43d6faa3cc5e76b9
+machine_hash: 56cfbf0d1bc02823e1abe9980577fc28edc4f7dcdab45d2c1e4e42f3753a4fec
 product: midjourney
 product_name: Midjourney
 record:
@@ -44,12 +44,12 @@ record:
   title: Niji V7 features improved anime coherence, prompt understanding, text rendering…
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-01-06-3-reliability-and-performance-changes-in-v1-1-4|3
-  Reliability and Performance changes in v1.1.4]]'
 - '[[Changes/Cursor/2026-01-08-2-reliability-and-performance-changes-in-new-cli-features-and-improved-cli|2
   Reliability and Performance changes in New CLI Features and Improved CLI…]]'
 - '[[Changes/Codex CLI/2026-01-09-codex-cli-subprocesses-again-inherit-env-vars-like-ld-library-path-dyld-library|Codex
   CLI subprocesses again inherit env vars like…]]'
+- '[[Changes/Devin/2026-01-09-various-bug-fixes-and-performance-improvements-across-the-platform|Various
+  bug fixes and performance improvements across the platform]]'
 source_release: '[[Releases/Midjourney/midjourney-2026-01-09-https-updates-midjourney-com-niji-v7-59c57267|midjourney-2026-01-09-https-updates-midjourney-com-niji-v7-59c57267]]'
 source_type: midjourney_changelog
 theme: reliability-performance
@@ -80,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-01-09 · Codex CLI · [[Changes/Codex CLI/2026-01-09-codex-cli-subprocesses-again-inherit-env-vars-like-ld-library-path-dyld-library|Codex CLI subprocesses again inherit env vars like…]]
+- Earlier: 2026-01-09 · Devin · [[Changes/Devin/2026-01-09-various-bug-fixes-and-performance-improvements-across-the-platform|Various bug fixes and performance improvements across the platform]]
 - Later: 2026-01-09 · Open WebUI · [[Changes/Open WebUI/2026-01-09-9-reliability-and-performance-changes-in-v0-7-0|9 Reliability and Performance changes in v0.7.0]]
 <!-- chronolog:end -->
 

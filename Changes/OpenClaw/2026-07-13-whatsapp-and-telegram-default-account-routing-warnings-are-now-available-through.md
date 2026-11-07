@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 417ef8f1a8e36b597c6b6e2a87c1845a32dd4e76ed47ba22e7fa1c3dae1e9e90
+machine_hash: 00e321dbf84b7cf2b4013515efbade51620cd804f31ec2374fce92247828bbad
 product: openclaw
 product_name: OpenClaw
 record:
@@ -45,12 +45,11 @@ record:
     through…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-07-09-ensured-macos-package-installs-expose-the-code-mode-host-alongside-the-codex-exe|Ensured
-  macOS package installs expose the code-mode host alongside the codex executable]]'
-- '[[Changes/OpenCode/2026-07-09-2-mobile-and-desktop-changes-in-v1-17-18-1|2 Mobile
-  and Desktop changes in v1.17.18 + 1]]'
 - '[[Changes/OpenCode/2026-07-09-12-mobile-and-desktop-changes-in-v1-17-16|12 Mobile
   and Desktop changes in v1.17.16]]'
+- '[[Changes/Wispr Flow/2026-07-09-canadian-english-desktop|Canadian English (Desktop)]]'
+- '[[Changes/Wispr Flow/2026-07-09-put-the-flow-bar-wherever-works-best-for-you-desktop|Put
+  the Flow Bar wherever works best for you (Desktop)]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-07-13-v2026-7-1-c2063718|openclaw-2026-07-13-v2026-7-1-c2063718]]'
 source_type: openclaw_changelog
 theme: mobile-desktop
@@ -106,7 +105,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-07-09 · OpenCode · [[Changes/OpenCode/2026-07-09-12-mobile-and-desktop-changes-in-v1-17-16|12 Mobile and Desktop changes in v1.17.16]]
+- Earlier: 2026-07-09 · Wispr Flow · [[Changes/Wispr Flow/2026-07-09-put-the-flow-bar-wherever-works-best-for-you-desktop|Put the Flow Bar wherever works best for you (Desktop)]]
 - Later: 2026-07-13 · OpenCode · [[Changes/OpenCode/2026-07-13-9-mobile-and-desktop-changes-in-v1-17-20-1|9 Mobile and Desktop changes in v1.17.20 + 1]]
 <!-- chronolog:end -->
 

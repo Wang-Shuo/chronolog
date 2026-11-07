@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f2edd3b58f3eaad64f6df201601df0febf33b6564bb9992073a02e5f53bdf0d8
+machine_hash: cc09d7faf03c734cbaef87b9fd8371374a123d4cb27da3f10880e4d32930d75d
 product: open-webui
 product_name: Open WebUI
 record:
@@ -44,12 +44,12 @@ record:
   title: '**⚡ Improved General Reliability**'
   type: change
 related_changes:
-- '[[Changes/Runway/2024-11-23-you-can-now-use-act-one-in-gen-3-alpha-turbo-for-faster-more-affordable-generati|Act-One
-  in Gen-3 Alpha Turbo]]'
 - '[[Changes/Cursor/2024-11-24-several-performance-improvements|Several performance
   improvements]]'
 - '[[Changes/Dify/2024-11-25-performance-optimization-the-weightrerankrunner-logic-has-been-optimized-to-achi|Performance
   Optimization: The WeightRerankRunner logic has been optimized…]]'
+- '[[Changes/AnythingLLM/2024-11-26-frontend-performance-improvements-by-timothycarambat-in-https-github-com-mintple|Frontend
+  performance improvements]]'
 source_release: '[[Releases/Open WebUI/open-webui-2024-11-27-v0-4-6-github-187733642-d2c3e053|open-webui-2024-11-27-v0-4-6-github-187733642-d2c3e053]]'
 source_type: github_releases
 theme: reliability-performance
@@ -79,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2024-11-25 · Dify · [[Changes/Dify/2024-11-25-performance-optimization-the-weightrerankrunner-logic-has-been-optimized-to-achi|Performance Optimization: The WeightRerankRunner logic has been optimized…]]
+- Earlier: 2024-11-26 · AnythingLLM · [[Changes/AnythingLLM/2024-11-26-frontend-performance-improvements-by-timothycarambat-in-https-github-com-mintple|Frontend performance improvements]]
 - Later: 2024-12-01 · Open WebUI · [[Changes/Open WebUI/2024-12-01-ollama-embed-endpoint-addressed-the-ollama-embed-endpoint-malfunction-ensuring-c|🔧 Ollama Embed Endpoint]]
 <!-- chronolog:end -->
 

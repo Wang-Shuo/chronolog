@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a382024d8bbf587b585032c284e72242d9e76b1841dbbaa9b9796aece6b97e32
+machine_hash: 4f0f3ae4175a265794b23f852953b08bd8746f23f9efcd4242bf07b53217276e
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -80,7 +80,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2025-10-01 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-10-01-2-editor-experience-changes-in-v0-0-331|2 Editor Experience changes in v0.0.331]]
-- Later: 2025-10-02 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-10-02-3-editor-experience-changes-in-v0-0-333|3 Editor Experience changes in v0.0.333]]
+- Later: 2025-10-01 · Superwhisper · [[Changes/Superwhisper/2025-10-01-mode-edit-fix|Mode edit fix]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

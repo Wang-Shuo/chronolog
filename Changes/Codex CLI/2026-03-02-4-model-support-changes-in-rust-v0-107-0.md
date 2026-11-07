@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c12f366d6b20c1a6cfe4ae8fd1739cd02f8cde61df40c3c3ea90d8eaff9a30ff
+machine_hash: d1a20147832c0c5bef2e28d24201951356e29b53e69945893fa275d60c0105a9
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -49,12 +49,12 @@ record:
   title: 4 Model Support changes in rust-v0.107.0
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-02-27-11-model-support-changes-in-v0-31-0|11 Model Support
-  changes in v0.31.0]]'
-- '[[Changes/Ollama/2026-02-27-lfm-2-https-ollama-com-library-lfm2-lfm2-is-a-family-of-hybrid-models-designed-f|LFM
-  2((source link) LFM2 is a family of hybrid models designed…]]'
 - '[[Changes/Open WebUI/2026-03-01-8-model-support-changes-in-v0-8-6|8 Model Support
   changes in v0.8.6]]'
+- '[[Changes/AnythingLLM/2026-03-02-11-model-support-changes-in-v1-11-1|11 Model Support
+  changes in v1.11.1]]'
+- '[[Changes/AnythingLLM/2026-03-02-you-can-now-run-complex-multi-step-tool-calls-with-your-llm-provider-and-model|Run
+  complex, multi-step tool calls with your LLM provider and model]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-03-02-rust-v0-107-0-github-292187522-c29f3a8f|codex-cli-2026-03-02-rust-v0-107-0-github-292187522-c29f3a8f]]'
 source_type: github_releases
 theme: model-support
@@ -102,7 +102,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.107.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-03-01 · Open WebUI · [[Changes/Open WebUI/2026-03-01-8-model-support-changes-in-v0-8-6|8 Model Support changes in v0.8.6]]
+- Earlier: 2026-03-02 · AnythingLLM · [[Changes/AnythingLLM/2026-03-02-you-can-now-run-complex-multi-step-tool-calls-with-your-llm-provider-and-model|Run complex, multi-step tool calls with your LLM provider and model]]
 - Later: 2026-03-02 · Descript · [[Changes/Descript/2026-03-02-claude-sonnet-4-6-and-google-gemini-3-1-pro-now-in-underlord|Claude Sonnet 4.6 and Google Gemini 3.1 Pro now in Underlord]]
 <!-- chronolog:end -->
 

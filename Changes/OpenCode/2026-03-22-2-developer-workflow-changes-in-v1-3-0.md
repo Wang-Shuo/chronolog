@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 860f687a9ecb9f8e87d490ab99af976992255dbebc3bdb1798c58ec973c12793
+machine_hash: ae0d066fd9e4bc28bec1502b539a8cb4bbd7732e6501cba3601b6b51214315c1
 product: opencode
 product_name: OpenCode
 record:
@@ -46,12 +46,12 @@ record:
   title: 2 Developer Workflow changes in v1.3.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-19-2-developer-workflow-changes-in-v1-0-9|2
-  Developer Workflow changes in v1.0.9]]'
 - '[[Changes/Claude Code/2026-03-20-4-developer-workflow-changes-in-v2-1-81|4 Developer
   Workflow changes in v2.1.81]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-20-2-developer-workflow-changes-in-v1-0-10|2
   Developer Workflow changes in v1.0.10]]'
+- '[[Changes/Raycast/2026-03-20-misc-access-command-details-from-search-home|Misc:
+  Access command details from search/home]]'
 source_release: '[[Releases/OpenCode/opencode-2026-03-22-v1-3-0-00955596|opencode-2026-03-22-v1-3-0-00955596]]'
 source_type: opencode_changelog
 theme: developer-workflow
@@ -94,7 +94,7 @@ Source: https://opencode.ai/changelog/v1.3.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-03-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-20-2-developer-workflow-changes-in-v1-0-10|2 Developer Workflow changes in v1.0.10]]
+- Earlier: 2026-03-20 · Raycast · [[Changes/Raycast/2026-03-20-misc-access-command-details-from-search-home|Misc: Access command details from search/home]]
 - Later: 2026-03-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-23-2-developer-workflow-changes-in-v1-0-11|2 Developer Workflow changes in v1.0.11]]
 <!-- chronolog:end -->
 

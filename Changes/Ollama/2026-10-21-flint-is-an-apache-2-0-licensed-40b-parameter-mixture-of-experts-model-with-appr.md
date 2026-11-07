@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 553eb1b9829e7a0f28a292ce7ca821dc4e386859c43140404eb4850129908255
+machine_hash: e6985d6970ff33703f4aa10cfc6de80520cdf8b924141a1d59aa2aab0870b9ee
 product: ollama
 product_name: Ollama
 record:
@@ -57,10 +57,10 @@ record:
   title: Flint is an Apache 2.0-licensed, 40B-parameter mixture-of-experts model…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-10-20-2-developer-workflow-changes-in-v1-0-101|2
-  Developer Workflow changes in v1.0.101]]'
-- '[[Changes/Claude Code/2026-10-21-2-developer-workflow-changes-in-v2-1-307|2 Developer
-  Workflow changes in v2.1.307]]'
+- '[[Changes/Devin/2026-10-21-quote-a-devin-review-finding-into-the-chat|Quote a Devin
+  Review Finding into the Chat]]'
+- '[[Changes/Devin/2026-10-21-received-feedback-rows-open-the-pr-comment|"Received
+  Feedback" Rows Open the PR Comment]]'
 - '[[Changes/Kimi Code/2026-10-21-2-developer-workflow-changes-in-kimi-code-2-3-0|2
   Developer Workflow changes in Kimi Code 2.3.0]]'
 source_release: '[[Releases/Ollama/ollama-2026-10-21-v0-40-8-github-419777982-6a81f0ff|ollama-2026-10-21-v0-40-8-github-419777982-6a81f0ff]]'

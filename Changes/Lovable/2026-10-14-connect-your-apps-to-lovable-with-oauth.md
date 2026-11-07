@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 9fa9633728c6b894ae280489bd8952bad93e207d19af79fce64747ec841be3b5
+machine_hash: a900db3ef4ec3bc346d0c37a2008144ae13ff244a7074986a09e219d30d6ab7d
 product: lovable
 product_name: Lovable
 record:
@@ -53,10 +53,10 @@ record:
   title: Connect your apps to Lovable with OAuth
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-10-13-2-account-and-access-changes-in-v2026-10-3|2 Account
-  and Access changes in v2026.10.3]]'
 - '[[Changes/Claude Code/2026-10-14-improved-the-error-shown-when-a-cloud-session-is-refused-because-your-claude-ai|Improved
   the error shown when a cloud session is refused because your claude.ai…]]'
+- '[[Changes/Devin/2026-10-14-sso-only-enterprise-members-are-routed-to-their-enterprise-sign-in|SSO-only
+  Enterprise Members are Routed to Their Enterprise Sign-in]]'
 - '[[Changes/Lovable/2026-10-14-let-your-app-s-users-sign-in-with-their-lovable-account|Let
   your app''s users sign in with their Lovable account]]'
 source_release: '[[Releases/Lovable/lovable-2026-10-14-2026-10-14-aff165c6|lovable-2026-10-14-2026-10-14-aff165c6]]'
@@ -92,7 +92,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-10-14 · Claude Code · [[Changes/Claude Code/2026-10-14-improved-the-error-shown-when-a-cloud-session-is-refused-because-your-claude-ai|Improved the error shown when a cloud session is refused because your claude.ai…]]
+- Earlier: 2026-10-14 · Devin · [[Changes/Devin/2026-10-14-sso-only-enterprise-members-are-routed-to-their-enterprise-sign-in|SSO-only Enterprise Members are Routed to Their Enterprise Sign-in]]
 - Later: 2026-10-14 · Ollama · [[Changes/Ollama/2026-10-14-clearer-error-messages-when-cloud-access-fails-sign-in-problems-payment-issues-i|Clearer error messages when cloud access fails]]
 <!-- chronolog:end -->
 

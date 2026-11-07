@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c6ae63244bb1d79dc16b75d0543245889f8757b92fcb24ad4c8945aa8cd25cba
+machine_hash: b29095df47490fd20c2b58f33f1bdffa0f87b2ce550e06b055fa6bdf147a5d2a
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -127,7 +127,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.116.0
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-03-19 · Claude Code · [[Changes/Claude Code/2026-03-19-4-apps-and-integrations-changes-in-v2-1-80|4 Apps and Integrations changes in v2.1.80]]
-- Later: 2026-03-19 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-19-marketplace-and-plugin-installs-from-shortened-urls-e-g-aka-ms-links-now-work-co|Marketplace and plugin installs from shortened URLs (e.g., aka.ms links) now work…]]
+- Later: 2026-03-19 · Devin · [[Changes/Devin/2026-03-19-redesigned-integration-pages|Redesigned Integration Pages]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

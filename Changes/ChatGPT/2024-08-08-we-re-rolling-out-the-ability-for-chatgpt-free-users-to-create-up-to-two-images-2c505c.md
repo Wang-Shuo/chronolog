@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8e60479f8562db49e12cd51bf35d4ab4bff6ab6f54f54dfd91736658602ec08f
+machine_hash: f369b9312dbb3450f53b341dad4198f65645fa58abc21395d53738fbccc0890b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -46,8 +46,8 @@ record:
   title: DALL·E 3 for ChatGPT Free users
   type: change
 related_changes:
-- '[[Changes/Gamma/2024-06-05-ai-images-are-more-powerful-than-ever-in-gamma-you-can-now-generate-in-a-consist|AI
-  image improvements]]'
+- '[[Changes/Raycast/2024-06-06-2-image-generation-changes-in-raycast-macos-v1-1-76-0|2
+  Image Generation changes in Raycast macos-v1 1.76.0]]'
 - '[[Changes/Dify/2024-06-28-2-image-generation-changes-in-0-6-12|2 Image Generation
   changes in 0.6.12]]'
 - "[[Changes/Open WebUI/2024-08-02-comfyui-flux-image-generation-added-support-for-the-new-flux-image-gen-model-int|\U0001F579️

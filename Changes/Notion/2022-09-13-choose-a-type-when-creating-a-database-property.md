@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 1a95884d855a06c3c2337d8257cb4bb1d3e2a9a93ae76d41875b9964105a698a
+machine_hash: ce097e7b91a09ee0ed692fefc39b5f1052ad96a8cb77b667e776d5f1e8534fb0
 product: notion
 product_name: Notion
 record:
@@ -48,8 +48,8 @@ record:
   title: Choose a type when creating a database property
   type: change
 related_changes:
-- '[[Changes/Notion/2022-08-11-1-page-limit-for-database-relations|1-page limit for
-  database relations]]'
+- '[[Changes/Raycast/2022-08-18-2-collaboration-changes-in-raycast-macos-v1-1-39-0|2
+  Collaboration changes in Raycast macos-v1 1.39.0]]'
 - '[[Changes/Notion/2022-08-29-see-when-pages-were-last-updated|See when pages were
   last updated]]'
 - '[[Changes/Notion/2022-08-29-organize-your-company-with-teamspaces|Organize your

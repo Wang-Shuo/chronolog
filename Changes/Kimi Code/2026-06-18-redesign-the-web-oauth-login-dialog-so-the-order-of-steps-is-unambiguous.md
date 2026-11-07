@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 561447f9c2c977c0488e84665aa2c19065a2c352386065cebbfbc01e748cdac2
+machine_hash: bdd00e72ee4b7b73ad1a367c568137f7867f8f6ac2c6073f6da8192e75509c90
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -79,7 +79,7 @@ type: change
 ## Nearby in Account and Access
 
 - Earlier: 2026-06-18 · Codex CLI · [[Changes/Codex CLI/2026-06-18-28257-support-staging-oauth-client-id-overrides-apanasenko-oai|♯28257 Support staging OAuth client ID overrides @apanasenko-oai]]
-- Later: 2026-06-19 · v0 · [[Changes/v0/2026-06-19-anonymous-users-opening-a-shared-or-public-chat-are-no-longer-redirected-to-sign|Anonymous users opening a shared or public chat are no longer redirected to sign…]]
+- Later: 2026-06-19 · Devin · [[Changes/Devin/2026-06-19-gitlab-user-identity-linking|GitLab User Identity Linking]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

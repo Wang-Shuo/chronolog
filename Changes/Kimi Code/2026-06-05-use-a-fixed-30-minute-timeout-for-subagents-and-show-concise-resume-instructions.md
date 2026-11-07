@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ba922a7c2e398459f1f3838d660287d4602cf00f4e245d7183ce2b3307c1e8c1
+machine_hash: 4f99cdeb5938d74ec6424456956efdad403eaf4dc52f9cb7970a58926f39cf38
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -42,8 +42,8 @@ record:
   title: Use a fixed 30-minute timeout for subagents and show concise resume instructions…
   type: change
 related_changes:
-- '[[Changes/Kimi Code/2026-06-04-users-now-can-prepare-several-goals-for-the-agent-to-work-on-sequentially-the-ag|Users
-  now can prepare several goals for the agent to work on sequentially]]'
+- '[[Changes/Raycast/2026-06-04-teams-share-ai-agents-across-your-organization|Teams:
+  Share AI Agents across your organization]]'
 - '[[Changes/Cursor/2026-06-05-ask-the-agent-to-make-one-match-the-other-remove-repeated-content-or-adjust-a-gr|Multi-select
   elements]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-05-2-agent-mode-changes-in-v1-0-60|2 Agent

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8bd57a249a447b94cc75753ee385824072bf1dafbcc4ff89e4344550c5f2a285
+machine_hash: ab6f8a0fc9bb5c0120857f1d4c69955398a5e894465337d090dbdf21bb160e5b
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -41,12 +41,12 @@ record:
   title: Slash command picker appears above the text input for a more stable layout
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-04-08-refine-onboarding-metrics-to-log-the-duration-explicitly-and-use-the-tier-name-b|Refine
-  onboarding metrics to log the duration explicitly and use the tier name]]'
 - '[[Changes/Notion/2026-04-08-keep-your-notifications-clean-by-muting-replies-to-discussions-you-no-longer-fin|Mute
   discussion replies]]'
 - '[[Changes/OpenCode/2026-04-08-terminal-added-a-keybinding-option-for-switch-model-variant|Terminal
   Added a keybinding option for "Switch model variant"]]'
+- '[[Changes/Superwhisper/2026-04-08-added-help-menu-with-quick-links-to-documentation-and-support|Added
+  Help menu with quick links to documentation and support]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-04-09-v1-0-22-github-307239074-a988a80d|github-copilot-cli-2026-04-09-v1-0-22-github-307239074-a988a80d]]'
 source_type: github_releases
 theme: interface-experience
@@ -81,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-04-08 · OpenCode · [[Changes/OpenCode/2026-04-08-terminal-added-a-keybinding-option-for-switch-model-variant|Terminal Added a keybinding option for "Switch model variant"]]
+- Earlier: 2026-04-08 · Superwhisper · [[Changes/Superwhisper/2026-04-08-added-help-menu-with-quick-links-to-documentation-and-support|Added Help menu with quick links to documentation and support]]
 - Later: 2026-04-10 · Claude Code · [[Changes/Claude Code/2026-04-10-improved-focus-mode-claude-now-writes-more-self-contained-summaries-since-it-kno|Improved focus mode]]
 <!-- chronolog:end -->
 

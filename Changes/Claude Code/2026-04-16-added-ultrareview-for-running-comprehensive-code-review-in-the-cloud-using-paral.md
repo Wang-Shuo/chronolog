@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 56487cf3ef53eb3b3bae8d8fbd76b146f52b6832db35e1ef8ee8c07e3afd01c2
+machine_hash: 8fec3c8cf969107ccfe313ca4124be67d784d1b94fa3efd54ff378c9f82ca265
 product: claude-code
 product_name: Claude Code
 record:
@@ -59,10 +59,10 @@ record:
   title: Added `/ultrareview` for running comprehensive code review in the cloud using…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-15-2-developer-workflow-changes-in-v1-0-27|2
-  Developer Workflow changes in v1.0.27]]'
 - '[[Changes/OpenCode/2026-04-15-2-developer-workflow-changes-in-v1-4-4|2 Developer
   Workflow changes in v1.4.4]]'
+- '[[Changes/Raycast/2026-04-15-general-send-feedback-tray-command-now-opens-the-feedback-window-directly|General
+  : "Send Feedback" tray command now opens the feedback window directly]]'
 - '[[Changes/Claude Code/2026-04-16-2-developer-workflow-changes-in-v2-1-111|2 Developer
   Workflow changes in v2.1.111]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-16-v2-1-111-github-309911692-a3025e78|claude-code-2026-04-16-v2-1-111-github-309911692-a3025e78]]'
@@ -103,7 +103,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-04-15 · OpenCode · [[Changes/OpenCode/2026-04-15-2-developer-workflow-changes-in-v1-4-4|2 Developer Workflow changes in v1.4.4]]
+- Earlier: 2026-04-15 · Raycast · [[Changes/Raycast/2026-04-15-general-send-feedback-tray-command-now-opens-the-feedback-window-directly|General : "Send Feedback" tray command now opens the feedback window directly]]
 - Later: 2026-04-16 · Descript · [[Changes/Descript/2026-04-16-descript-api-in-open-beta|Descript API in open beta]]
 <!-- chronolog:end -->
 

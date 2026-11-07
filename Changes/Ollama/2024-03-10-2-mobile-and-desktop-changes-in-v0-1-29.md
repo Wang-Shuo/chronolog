@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7478612e2a53ed5b71f6ded4edd60e5de195526a56279d42d189f75315b2f702
+machine_hash: 6943d4724d452812d8780f6e1fd84cdc522187c6ce57bf54fbe78a5088b25b87
 product: ollama
 product_name: Ollama
 record:
@@ -46,12 +46,11 @@ record:
   title: 2 Mobile and Desktop changes in v0.1.29
   type: change
 related_changes:
-- '[[Changes/Ollama/2024-02-22-reduced-likelihood-of-false-positive-windows-defender-alerts-on-windows|Reduced
-  likelihood of false positive Windows Defender alerts on Windows]]'
 - '[[Changes/Notion/2024-02-26-take-actions-from-mobile-notifications|Take actions
   from mobile notifications]]'
 - '[[Changes/Ollama/2024-03-01-2-mobile-and-desktop-changes-in-v0-1-28|2 Mobile and
   Desktop changes in v0.1.28]]'
+- '[[Changes/Raycast/2024-03-07-new-ai-chat|New AI Chat]]'
 source_release: '[[Releases/Ollama/ollama-2024-03-10-v0-1-29-github-145649608-bc5ebf86|ollama-2024-03-10-v0-1-29-github-145649608-bc5ebf86]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -86,7 +85,7 @@ Source: https://github.com/ollama/ollama/releases/tag/v0.1.29
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2024-03-01 · Ollama · [[Changes/Ollama/2024-03-01-2-mobile-and-desktop-changes-in-v0-1-28|2 Mobile and Desktop changes in v0.1.28]]
+- Earlier: 2024-03-07 · Raycast · [[Changes/Raycast/2024-03-07-new-ai-chat|New AI Chat]]
 - Later: 2024-03-12 · Dify · [[Changes/Dify/2024-03-12-2-mobile-and-desktop-changes-in-0-5-9|2 Mobile and Desktop changes in 0.5.9]]
 <!-- chronolog:end -->
 

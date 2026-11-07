@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 812f15d68642accf2a02fa23abcdb5262e51248bc704770e369fe1c378af809a
+machine_hash: 1249db840c253764281bfccb90d2401f8704a8d11064ef8cbc46d126cd1ef137
 product: opencode
 product_name: OpenCode
 record:
@@ -87,7 +87,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-02-19 · OpenCode · [[Changes/OpenCode/2026-02-19-5-apps-and-integrations-changes-in-v1-2-7|5 Apps and Integrations changes in v1.2.7]]
-- Later: 2026-02-20 · Claude Code · [[Changes/Claude Code/2026-02-20-claude-code-simple-mode-now-also-disables-mcp-tools-attachments-hooks-and-claude|CLAUDE_CODE_SIMPLE mode now also disables MCP tools, attachments, hooks…]]
+- Later: 2026-02-19 · Raycast · [[Changes/Raycast/2026-02-19-2-apps-and-integrations-changes-in-raycast-windows-0-46|2 Apps and Integrations changes in Raycast windows 0.46]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a35b5bd57aafd3ce74639b7a8078e40460b590d8e498121866d4b50bcb65074b
+machine_hash: 2bfc89c5f7a79e608b45fc3a510c6b4db419320fcc60b20a6ef5df2953fb4234
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,11 +46,12 @@ record:
   title: 2 Reliability and Performance changes in v2.1.176
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-06-10-preview-toolbar|Preview toolbar]]'
 - '[[Changes/Lovable/2026-06-10-find-and-fix-database-performance-problems|Find and
   fix database performance problems]]'
 - '[[Changes/OpenCode/2026-06-10-faster-file-search-across-large-projects-with-the-new-fff-backed-search-tools|Faster
   file search across large projects with the new fff -backed search tools]]'
+- '[[Changes/Superwhisper/2026-06-11-2-reliability-and-performance-changes-in-superwhisper-windows-1-4-13|2
+  Reliability and Performance changes in Superwhisper Windows 1.4.13]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-12-v2-1-176-github-338777362-91e3deb6|claude-code-2026-06-12-v2-1-176-github-338777362-91e3deb6]]'
 source_type: github_releases
 theme: reliability-performance
@@ -84,8 +85,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.176
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-06-10 · OpenCode · [[Changes/OpenCode/2026-06-10-faster-file-search-across-large-projects-with-the-new-fff-backed-search-tools|Faster file search across large projects with the new fff -backed search tools]]
-- Later: 2026-06-12 · Replit · [[Changes/Replit/2026-06-12-faster-slide-import-and-export|Faster slide import and export]]
+- Earlier: 2026-06-11 · Superwhisper · [[Changes/Superwhisper/2026-06-11-2-reliability-and-performance-changes-in-superwhisper-windows-1-4-13|2 Reliability and Performance changes in Superwhisper Windows 1.4.13]]
+- Later: 2026-06-12 · Raycast · [[Changes/Raycast/2026-06-12-snippets-improved-snippet-expansion-reliability-and-accuracy-faster-expansion-wh|Snippets: Improved snippet expansion reliability and accuracy]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

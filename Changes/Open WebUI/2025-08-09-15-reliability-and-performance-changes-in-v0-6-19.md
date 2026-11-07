@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a3f993f069a5a8528fa2d5383fb9c6346351df21ede748448a8f903546b5db47
+machine_hash: 5828932b86f2e5b742ed94e406a367c5b629db47b66bf1ebcd3d36c9b3759049
 product: open-webui
 product_name: Open WebUI
 record:
@@ -119,11 +119,12 @@ record:
   title: 15 Reliability and Performance changes in v0.6.19
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-08-06-1-4-5-improved-performance|1.4.5: Improved performance]]'
 - '[[Changes/Gemini/2025-08-06-understand-complex-topics-faster-with-integrated-visuals-and-youtube-videos|Understand
   Complex Topics Faster with Integrated Visuals and YouTube videos]]'
 - '[[Changes/Gemini CLI/2025-08-06-4-reliability-and-performance-changes-in-v0-1-18|4
   Reliability and Performance changes in v0.1.18]]'
+- '[[Changes/Devin/2025-08-08-various-reliability-performance-and-usability-improvements-across-the-app|Various
+  reliability, performance, and usability improvements across the app]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-08-09-v0-6-19-github-238805134-e05b9243|open-webui-2025-08-09-v0-6-19-github-238805134-e05b9243]]'
 source_type: github_releases
 theme: reliability-performance
@@ -199,7 +200,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.6.19
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-08-06 · Gemini CLI · [[Changes/Gemini CLI/2025-08-06-4-reliability-and-performance-changes-in-v0-1-18|4 Reliability and Performance changes in v0.1.18]]
+- Earlier: 2025-08-08 · Devin · [[Changes/Devin/2025-08-08-various-reliability-performance-and-usability-improvements-across-the-app|Various reliability, performance, and usability improvements across the app]]
 - Later: 2025-08-11 · Dify · [[Changes/Dify/2025-08-11-testcontainers-tests-we-re-serious-about-stability-neatguycoding-and-others-have|Testcontainers Tests: We're serious about stability!]]
 <!-- chronolog:end -->
 

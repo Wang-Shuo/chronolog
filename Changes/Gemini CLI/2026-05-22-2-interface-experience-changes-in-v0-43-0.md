@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: edf0891b035d0412cafb8b471da37b6692f150738690a489db6557b3a914e2b4
+machine_hash: de3389d745c2abd5525ab6812f95ed2ebb5936a2726443a39bba82766c54ff0f
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -45,8 +45,8 @@ record:
   title: 2 Interface Experience changes in v0.43.0
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-05-20-2-interface-experience-changes-in-v1-15-6|2 Interface
-  Experience changes in v1.15.6]]'
+- '[[Changes/Raycast/2026-05-20-introducing-the-quick-fix-command-it-takes-your-selected-text-fixes-spelling-and-dfb3be|Introducing
+  the Quick Fix command]]'
 - '[[Changes/Claude Code/2026-05-21-prompt-history-no-longer-records-consecutive-duplicate-entries-recalling-a-promp|Prompt
   history no longer records consecutive duplicate entries]]'
 - '[[Changes/Claude Code/2026-05-22-markdown-output-now-renders-gfm-task-list-checkboxes-todo-x-done-instead-of-plai|Markdown

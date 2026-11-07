@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4a07a383b7db709c6cb4e448824e5e5c460565a74533f181efe9f7baef2c563b
+machine_hash: 21d9ca428557760ab4ad9f71fccf7763be304d66b1561dc5b6a63e01b31883a3
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -88,7 +88,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-09-28 · Codex CLI · [[Changes/Codex CLI/2026-09-28-3-mobile-and-desktop-changes-in-rust-v0-158-0|3 Mobile and Desktop changes in rust-v0.158.0]]
-- Later: 2026-09-29 · ChatGPT · [[Changes/ChatGPT/2026-09-29-site-owners-and-editors-on-plus-and-pro-can-select-edit-site-from-a-published-si|Site owners and editors on Plus and Pro can select Edit site from a published Site…]]
+- Later: 2026-09-28 · Wispr Flow · [[Changes/Wispr Flow/2026-09-28-a-reminder-to-add-the-languages-you-speak-desktop|A reminder to add the languages you speak (Desktop)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

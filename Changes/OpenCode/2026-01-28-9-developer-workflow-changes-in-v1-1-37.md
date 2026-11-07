@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 367159eba3e5911edb4ec4f03cc72c17f597ea1c367452e98aef3122805ddbb6
+machine_hash: 421ae3162b2e3067a042d57fd6cc66a75a2d4f0faee791678a0d1d9a567e39ed
 product: opencode
 product_name: OpenCode
 record:
@@ -58,10 +58,10 @@ record:
   title: 9 Developer Workflow changes in v1.1.37
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-01-28-skills-from-parent-directories-are-now-invocable-and-work-in-non-git-directories|Skills
-  from parent directories are now invocable and work in non-git directories]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-28-header-layout-adapts-better-to-narrow-terminal-widths|Header
   layout adapts better to narrow terminal widths]]'
+- '[[Changes/LM Studio/2026-01-28-4-developer-workflow-changes-in-lm-studio-0-4-0|4
+  Developer Workflow changes in LM Studio 0.4.0]]'
 - '[[Changes/OpenCode/2026-01-28-terminal-add-streaming-prop-to-markdown-element|Terminal
   Add streaming prop to markdown element]]'
 source_release: '[[Releases/OpenCode/opencode-2026-01-28-v1-1-37-997d5baa|opencode-2026-01-28-v1-1-37-997d5baa]]'

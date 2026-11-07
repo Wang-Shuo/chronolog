@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e6e97f984c3f4cef0e605c372602593eee934ed5c754b603e2ca41fe2aca995f
+machine_hash: 4292da86a86a1747055b20b564d854ecf637c609187fe2c96e713963f39eacfe
 product: claude-code
 product_name: Claude Code
 record:
@@ -53,8 +53,8 @@ record:
   title: 4 Interface Experience changes in v2.1.286
   type: change
 related_changes:
-- '[[Changes/Google Antigravity/2026-09-28-3-interface-experience-changes-in-hub-v2-18-1-manage-install-plugins|3
-  Interface Experience changes in HUB v2.18.1 — Manage & Install plugins…]]'
+- '[[Changes/Raycast/2026-09-28-open-with-fixed-the-menu-initially-selecting-an-unrelated-app-before-recommended-e7ef59|Open
+  With… : Fixed the menu initially selecting an unrelated app before recommended…]]'
 - '[[Changes/Claude Code/2026-09-29-improved-responsiveness-when-leaving-the-ctrl-o-transcript-view-in-long-sessions|Improved
   responsiveness when leaving the ctrl+o transcript view in long sessions…]]'
 - '[[Changes/Codex CLI/2026-09-29-4-interface-experience-changes-in-rust-v0-159-0|4
@@ -103,7 +103,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.286
 ## Nearby in Interface Experience
 
 - Earlier: 2026-09-29 · Codex CLI · [[Changes/Codex CLI/2026-09-29-4-interface-experience-changes-in-rust-v0-159-0|4 Interface Experience changes in rust-v0.159.0]]
-- Later: 2026-09-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-30-2-interface-experience-changes-in-v1-0-90|2 Interface Experience changes in v1.0.90]]
+- Later: 2026-09-30 · Devin · [[Changes/Devin/2026-09-30-session-menu-polish|Session Menu Polish]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

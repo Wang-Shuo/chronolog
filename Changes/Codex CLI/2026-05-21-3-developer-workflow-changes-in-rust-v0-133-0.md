@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6969dc1d0871960765c1a00ccbe2f951538a1c8efaac4e57e74b72bfb3516682
+machine_hash: fa093464e49d3a54b1475a236f0e2cfd0a7568e4c43d315da4926faad3583e3a
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,8 +44,8 @@ record:
   title: 3 Developer Workflow changes in rust-v0.133.0
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-05-20-3-developer-workflow-changes-in-v1-15-6|3 Developer
-  Workflow changes in v1.15.6]]'
+- '[[Changes/Raycast/2026-05-20-2-developer-workflow-changes-in-raycast-macos-0-61|2
+  Developer Workflow changes in Raycast macos 0.61]]'
 - '[[Changes/Claude Code/2026-05-21-renamed-simplify-to-code-review-with-an-optional-effort-level-e-g-code-review-hi|Renamed
   /simplify to /code-review with an optional effort level…]]'
 - '[[Changes/Claude Code/2026-05-21-renamed-simplify-to-code-review-it-now-reports-correctness-bugs-at-a-chosen-effo|Renamed

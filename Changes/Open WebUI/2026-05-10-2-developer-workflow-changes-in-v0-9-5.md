@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: eff355443104caca32dc10f6352e2d7b5fa9c3f466c1bd4d073c62d4239263ba
+machine_hash: 183fde023018b3fd59de60044aa94556c31d0db4c23e1207d2bf9b73363b66b1
 product: open-webui
 product_name: Open WebUI
 record:
@@ -50,8 +50,8 @@ record:
   title: 2 Developer Workflow changes in v0.9.5
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-08-2-developer-workflow-changes-in-v1-0-44|2
-  Developer Workflow changes in v1.0.44]]'
+- '[[Changes/Raycast/2026-05-08-2-developer-workflow-changes-in-raycast-windows-0-56|2
+  Developer Workflow changes in Raycast windows 0.56]]'
 - '[[Changes/Open WebUI/2026-05-09-22-developer-workflow-changes-in-v0-9-3|22 Developer
   Workflow changes in v0.9.3]]'
 - '[[Changes/OpenCode/2026-05-09-3-developer-workflow-changes-in-v1-14-44-2|3 Developer

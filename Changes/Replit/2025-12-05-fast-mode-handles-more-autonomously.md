@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 59fd9e072fb9afae1e40ebd68efa1a970d950d78f4a5ad61631e1dc78b565988
+machine_hash: 2eed0a5b57af48d8ff043bb18fa5a72105e2949f08476aed56b94b3c0320e5a8
 product: replit
 product_name: Replit
 record:
@@ -56,10 +56,10 @@ record:
   title: Fast Mode handles more autonomously
   type: change
 related_changes:
-- '[[Changes/Ollama/2025-12-04-qwen3-next-https-ollama-com-library-qwen3-next-the-first-installment-in-the-qwen|Qwen3-Next((source
-  link) The first installment…]]'
-- '[[Changes/Ollama/2025-12-04-flash-attention-is-now-enabled-by-default-for-vision-models-such-as-mistral-3-ge|Flash
-  attention is now enabled by default for vision models such as mistral-3…]]'
+- '[[Changes/Raycast/2025-12-05-chat-and-home-are-now-faster-and-smoother-rebuilt-for-performance|Chat
+  and Home are now faster and smoother, rebuilt for performance]]'
+- '[[Changes/Raycast/2025-12-05-ai-significantly-improved-performance-when-streaming-responses|AI:
+  Significantly improved performance when streaming responses]]'
 - '[[Changes/Replit/2025-12-05-connect-third-party-services-faster|Connect third-party
   services faster]]'
 source_release: '[[Releases/Replit/replit-2025-12-05-2025-12-05-a5f5ba3b|replit-2025-12-05-2025-12-05-a5f5ba3b]]'
@@ -92,8 +92,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-12-04 · Ollama · [[Changes/Ollama/2025-12-04-flash-attention-is-now-enabled-by-default-for-vision-models-such-as-mistral-3-ge|Flash attention is now enabled by default for vision models such as mistral-3…]]
-- Later: 2025-12-09 · v0 · [[Changes/v0/2025-12-09-optimized-preview-loading-performance-when-using-design-mode|Optimized preview loading performance when using Design Mode]]
+- Earlier: 2025-12-05 · Raycast · [[Changes/Raycast/2025-12-05-ai-significantly-improved-performance-when-streaming-responses|AI: Significantly improved performance when streaming responses]]
+- Later: 2025-12-08 · Superwhisper · [[Changes/Superwhisper/2025-12-08-stats-view-with-typing-speed-and-time-saved|Stats view with typing speed and time saved]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

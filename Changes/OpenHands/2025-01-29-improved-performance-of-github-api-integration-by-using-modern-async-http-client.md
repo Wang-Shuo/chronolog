@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 4e0668a87ef89bc7b2c3b39648ea5bead070281c0ad15f66743b8d37f59e991b
+machine_hash: 63ef7e76f9012244b8ee2813d89a9bd3494c98d8cffb28296eace0ad5f69af28
 product: openhands
 product_name: OpenHands
 record:
@@ -55,11 +55,11 @@ record:
     client
   type: change
 related_changes:
-- '[[Changes/Cline/2025-01-21-add-on-off-toggle-for-mcp-servers-to-disable-them-when-not-in-use-and-auto-appro|Add
-  on/off toggle for MCP servers to disable them when not in use, and auto-approve…]]'
 - '[[Changes/Replit/2025-01-24-assistant-workflows|Assistant + Workflows]]'
 - '[[Changes/Lovable/2025-01-28-support-for-resend-has-improved-with-the-transition-to-the-node-sdk|Support
   for Resend has improved with the transition to the Node SDK]]'
+- '[[Changes/AnythingLLM/2025-01-29-breakout-latex-plugin-for-delims-by-timothycarambat-in-https-github-com-mintplex|breakout
+  latex plugin for delims]]'
 source_release: '[[Releases/OpenHands/openhands-2025-01-29-0-22-0-github-197443017-47ca858b|openhands-2025-01-29-0-22-0-github-197443017-47ca858b]]'
 source_type: github_releases
 theme: apps-integrations
@@ -88,7 +88,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-01-28 · Lovable · [[Changes/Lovable/2025-01-28-support-for-resend-has-improved-with-the-transition-to-the-node-sdk|Support for Resend has improved with the transition to the Node SDK]]
+- Earlier: 2025-01-29 · AnythingLLM · [[Changes/AnythingLLM/2025-01-29-breakout-latex-plugin-for-delims-by-timothycarambat-in-https-github-com-mintplex|breakout latex plugin for delims]]
 - Later: 2025-01-30 · Cline · [[Changes/Cline/2025-01-30-add-advanced-settings-to-remove-mcp-prompts-from-requests-to-save-tokens-enable|Add Advanced Settings to remove MCP prompts from requests to save tokens…]]
 <!-- chronolog:end -->
 

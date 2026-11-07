@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 306f6091b22f69b3a484921c4c49ef7bbe9e0a6be6b68fe660e59e77b5450480
+machine_hash: b9285f40ffcaa2fd4fc3c315ac70c266844f0972c5c52147b35d43d9949677dd
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -51,12 +51,12 @@ record:
   title: General-purpose subagents use GPT-5.4 or GPT-5.5 when available
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-05-21-core-restored-openai-reasoning-streams|Core Restored
-  OpenAI reasoning streams]]'
-- '[[Changes/Gemini CLI/2026-05-22-2-model-support-changes-in-v0-43-0|2 Model Support
-  changes in v0.43.0]]'
+- '[[Changes/LM Studio/2026-05-22-3-model-support-changes-in-lm-studio-0-4-14|3 Model
+  Support changes in LM Studio 0.4.14]]'
 - '[[Changes/OpenCode/2026-05-22-2-model-support-changes-in-v1-15-9|2 Model Support
   changes in v1.15.9]]'
+- '[[Changes/Superwhisper/2026-05-22-2-model-support-changes-in-superwhisper-windows-1-3-13|2
+  Model Support changes in Superwhisper Windows 1.3.13]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-05-23-v1-0-52-github-328402909-801444d4|github-copilot-cli-2026-05-23-v1-0-52-github-328402909-801444d4]]'
 source_type: github_releases
 theme: model-support
@@ -94,7 +94,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-05-22 · OpenCode · [[Changes/OpenCode/2026-05-22-2-model-support-changes-in-v1-15-9|2 Model Support changes in v1.15.9]]
+- Earlier: 2026-05-22 · Superwhisper · [[Changes/Superwhisper/2026-05-22-2-model-support-changes-in-superwhisper-windows-1-3-13|2 Model Support changes in Superwhisper Windows 1.3.13]]
 - Later: 2026-05-25 · Cline · [[Changes/Cline/2026-05-25-4-model-support-changes-in-v3-85-0|4 Model Support changes in v3.85.0]]
 <!-- chronolog:end -->
 

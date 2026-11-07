@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 8dfcb1f2a4148001a2d36f85585cc05143bcd3018b1562ac95b746650f0b9dcb
+machine_hash: ee7c3861396de1a6ca8c573ed15ee47bcd3eafb901a5dfb27198a310bcdee116
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -81,8 +81,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-05-14 · Descript · [[Changes/Descript/2026-05-14-improved-transcription-with-elevenlabs-scribe-v2|Improved transcription with ElevenLabs Scribe v2]]
-- Later: 2026-05-25 · ElevenLabs · [[Changes/ElevenLabs/2026-05-25-elevencreative-studio|ElevenCreative Studio]]
+- Earlier: 2026-05-15 · Superwhisper · [[Changes/Superwhisper/2026-05-15-enhanced-audio-processing-with-improved-dynamic-normalization-and-live-waveform|Enhanced audio processing with improved dynamic normalization and live waveform gating]]
+- Later: 2026-05-20 · Raycast · [[Changes/Raycast/2026-05-20-3-voice-and-audio-changes-in-raycast-macos-0-61|3 Voice and Audio changes in Raycast macos 0.61]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

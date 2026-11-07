@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1eeb5ebfe56c2c2aa3f5feb524c9f43f93b71a343c428a1a477efdaa0e8c4efc
+machine_hash: b07dba4f095e28539705941562456cee005a79f9b905f21fcc599f0c7089a48b
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,9 +45,10 @@ record:
   title: 2 Apps and Integrations changes in v2.1.122
   type: change
 related_changes:
-- '[[Changes/Replit/2026-04-24-integrations|Integrations]]'
 - '[[Changes/Replit/2026-04-24-plaid-connector-is-live|Plaid connector is live]]'
 - '[[Changes/ElevenLabs/2026-04-27-sdk-releases|SDK Releases]]'
+- '[[Changes/Raycast/2026-04-27-extensions-restored-ability-to-delete-tokens-by-clicking-in-tag-picker|Extensions
+  : Restored ability to delete tokens by clicking × in tag picker]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-28-v2-1-122-github-314740479-0cc42196|claude-code-2026-04-28-v2-1-122-github-314740479-0cc42196]]'
 source_type: github_releases
 theme: apps-integrations
@@ -83,7 +84,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.122
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-04-27 · ElevenLabs · [[Changes/ElevenLabs/2026-04-27-sdk-releases|SDK Releases]]
+- Earlier: 2026-04-27 · Raycast · [[Changes/Raycast/2026-04-27-extensions-restored-ability-to-delete-tokens-by-clicking-in-tag-picker|Extensions : Restored ability to delete tokens by clicking × in tag picker]]
 - Later: 2026-04-28 · Claude Code · [[Changes/Claude Code/2026-04-28-6-apps-and-integrations-changes-in-v2-1-121|6 Apps and Integrations changes in v2.1.121]]
 <!-- chronolog:end -->
 

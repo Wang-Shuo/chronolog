@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2bed344c5d7daa1bb6399d3342d88dd898145ba04b058233a56059fa07e7622e
+machine_hash: 77a13ba4f202825e01ef0b78111db18ecd5bb0be97cb33074c03af20f8f245b6
 product: open-webui
 product_name: Open WebUI
 record:
@@ -86,7 +86,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.5.7
 ## Nearby in Model Support
 
 - Earlier: 2025-01-23 · Cursor · [[Changes/Cursor/2025-01-23-better-codebase-understanding-we-ve-trained-a-new-model-for-codebase-understandi|Better Codebase Understanding: We've trained a new model for Codebase Understanding]]
-- Later: 2025-01-30 · Cline · [[Changes/Cline/2025-01-30-save-last-used-api-model-when-switching-between-plan-and-act-for-users-that-like|Save last used API/model when switching between Plan and Act, for users that like…]]
+- Later: 2025-01-29 · AnythingLLM · [[Changes/AnythingLLM/2025-01-29-13-model-support-changes-in-v1-4-0|13 Model Support changes in v1.4.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

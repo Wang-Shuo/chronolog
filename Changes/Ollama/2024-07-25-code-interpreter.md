@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f7d688d09e650b9bab90def0624768b8eecca3fd889e8bff5eabba7d3c4c569d
+machine_hash: 97bbd39a7e9a0f86031dea5fc21547993660844a441210d07cc15ba1c8df1637
 product: ollama
 product_name: Ollama
 record:
@@ -79,7 +79,7 @@ type: change
 ## Nearby in Files and Data
 
 - Earlier: 2024-07-23 · Gamma · [[Changes/Gamma/2024-07-23-import-pdf-to-convert-existing-documents|Import PDF to convert existing documents]]
-- Later: 2024-08-02 · Open WebUI · [[Changes/Open WebUI/2024-08-02-2-files-and-data-changes-in-v0-3-11|2 Files and Data changes in v0.3.11]]
+- Later: 2024-07-26 · AnythingLLM · [[Changes/AnythingLLM/2024-07-26-23-files-and-data-changes-in-v1-0-0|23 Files and Data changes in v1.0.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

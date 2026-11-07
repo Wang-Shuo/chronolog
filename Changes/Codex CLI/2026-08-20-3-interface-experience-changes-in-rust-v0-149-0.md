@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: cfe67f0794a4aecda5f484c7e1b1ad7fc3cc10579b5b5e27f88c2bdff666c1af
+machine_hash: bd39b01b608129bf5c5d9708e537fe0406caa327b3ab8abb204be7b932d82911
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,10 +44,10 @@ record:
   title: 3 Interface Experience changes in rust-v0.149.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-19-changed-the-model-picker-to-highlight-only-the-newest-model-s-name-so-the-highli|Changed
-  the /model picker to highlight only the newest model''s name…]]'
-- '[[Changes/Kimi Code/2026-08-19-web-settings-gains-a-lab-tab-with-a-new-multi-tab-sidebar-toggle-when-enabled-th|web:
-  Settings gains a Lab tab with a new multi-tab sidebar toggle]]'
+- '[[Changes/Raycast/2026-08-19-use-the-send-focused-window-to-ai-command-choose-screen-awareness-from-the-menu-e3a747|Use
+  the Send Focused Window to AI command, choose Screen Awareness from the @ menu…]]'
+- '[[Changes/Raycast/2026-08-19-2-interface-experience-changes-in-raycast-windows-0-71|2
+  Interface Experience changes in Raycast windows 0.71]]'
 - '[[Changes/Claude Code/2026-08-20-changed-ctrl-l-and-cmd-k-in-fullscreen-to-always-just-repaint-the-double-press-c|Changed
   Ctrl+L and Cmd+K in fullscreen to always just repaint]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-08-20-rust-v0-149-0-github-374028976-829da944|codex-cli-2026-08-20-rust-v0-149-0-github-374028976-829da944]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: be187e16dd3c26657a1f219b42233e863fb3790dd18d9818f1bb8190b49a1364
+machine_hash: 6e00d0f903f00305fa0a92a7d2384ed09956e4a7fdef6d8ea9e14386cbe81b67
 product: replit
 product_name: Replit
 record:
@@ -48,11 +48,11 @@ record:
   title: De-cluttered diffs
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-01-13-added-new-app-tab-which-allows-users-to-interact-with-the-web-app-run-in-openhan|Added
-  new App tab which allows users to interact with the web app run in OpenHands…]]'
-- '[[Changes/OpenHands/2025-01-22-users-can-now-define-a-different-llm-as-a-custom-llm-config-named-with-a-predefi|Users
-  can now define a different LLM as a custom LLM config named with a predefined name]]'
 - '[[Changes/ElevenLabs/2025-01-27-api|API]]'
+- '[[Changes/Devin/2025-01-30-devin-s-thoughts-and-editor-diagnostics-are-now-visible-in-the-follow-devin-tab|Devin''s
+  thoughts and editor diagnostics are now visible]]'
+- '[[Changes/LM Studio/2025-01-30-new-experimental-api-send-reasoning-content-in-a-separate-field-in-chat-completi|New
+  Experimental API]]'
 source_release: '[[Releases/Replit/replit-2025-01-31-2025-01-31-879df024|replit-2025-01-31-2025-01-31-879df024]]'
 source_type: replit_changelog
 theme: editor-experience
@@ -86,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2025-01-27 · ElevenLabs · [[Changes/ElevenLabs/2025-01-27-api|API]]
+- Earlier: 2025-01-30 · LM Studio · [[Changes/LM Studio/2025-01-30-new-experimental-api-send-reasoning-content-in-a-separate-field-in-chat-completi|New Experimental API]]
 - Later: 2025-02-07 · Dify · [[Changes/Dify/2025-02-07-feat-prompt-editor-dark-theme-by-zxhlyh-in-https-github-com-langgenius-dify-pull|Feat/prompt editor dark theme]]
 <!-- chronolog:end -->
 

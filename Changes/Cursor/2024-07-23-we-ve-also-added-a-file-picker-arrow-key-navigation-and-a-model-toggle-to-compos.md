@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 0c739f8ee44870e30fe3f587e84740b35021809e85315bb54b54abe268032a3a
+machine_hash: 12e6d847bdb1065da4520961683c6ee8cbaa675c2b8bc2b12e13498244f7d27c
 product: cursor
 product_name: Cursor
 record:
@@ -56,12 +56,12 @@ record:
   title: Cursor adds a file picker, arrow key navigation, and a model toggle to Composer
   type: change
 related_changes:
-- '[[Changes/Runway/2024-07-09-a-newly-designed-navigation-sidebar-makes-it-easier-to-access-commonly-used-tool|Redesigned
-  Sidebar]]'
 - '[[Changes/Descript/2024-07-16-move-projects-to-starred-folders|Move projects to
   starred folders]]'
 - "[[Changes/Open WebUI/2024-07-17-styling-refactor-various-styling-updates-for-a-cleaner-and-more-cohesive-user-in|\U0001F3A8
   Styling Refactor]]"
+- '[[Changes/Raycast/2024-07-17-search-menu-items-addressed-issue-where-menu-titles-were-truncated-early|Search
+  Menu Items: Addressed issue where menu titles were truncated early]]'
 source_release: '[[Releases/Cursor/cursor-2024-07-23-0-38-x-https-cursor-com-changelog-0-38-x-e6d087df|cursor-2024-07-23-0-38-x-https-cursor-com-changelog-0-38-x-e6d087df]]'
 source_type: cursor_changelog
 theme: interface-experience
@@ -92,7 +92,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2024-07-17 · Open WebUI · [[Changes/Open WebUI/2024-07-17-styling-refactor-various-styling-updates-for-a-cleaner-and-more-cohesive-user-in|🎨 Styling Refactor]]
+- Earlier: 2024-07-17 · Raycast · [[Changes/Raycast/2024-07-17-search-menu-items-addressed-issue-where-menu-titles-were-truncated-early|Search Menu Items: Addressed issue where menu titles were truncated early]]
 - Later: 2024-07-23 · Gamma · [[Changes/Gamma/2024-07-23-we-ve-also-improved-our-gradient-picker|Gamma improves our gradient picker 👍]]
 <!-- chronolog:end -->
 

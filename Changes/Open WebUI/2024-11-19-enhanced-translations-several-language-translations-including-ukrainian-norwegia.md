@@ -5,20 +5,20 @@ description: "Open WebUI · 2024-11-19 · Accessibility and Localization: **\U00
   Enhanced Translations**: Several language translations, including Ukrainian, Norwegian,
   and…"
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-09-11-chatgpt-now-supports-a-limited-selection-of-languages-in-the-interface|ChatGPT
-    now supports a limited selection of languages in the interface]]'
+  first_in_tracked: '[[Changes/Raycast/2020-11-19-improved-searching-for-localized-application-and-preference-names|Improved
+    searching for localized application and preference names]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 435
+  lag_days: 1461
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: accessibility-localization
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3778bc54e982b82282a3ed86e6236ad13ca5cfe9b9c72c45ff6b49ac84c61cea
+machine_hash: a3814f4a47df9f58f85fe61a2422125ed6a9a16ef7d505e736cc7fa2e3ba6a13
 product: open-webui
 product_name: Open WebUI
 record:
@@ -44,8 +44,8 @@ record:
   title: "**\U0001F310 Enhanced Translations**"
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2024-10-07-enhanced-accessibility-for-floating-buttons-implemented-the-ability-to-close-flo|\U0001F527
-  Enhanced Accessibility for Floating Buttons]]"
+- '[[Changes/LM Studio/2024-10-22-2-accessibility-and-localization-changes-in-lm-studio-0-3-5|2
+  Accessibility and Localization changes in LM Studio 0.3.5]]'
 - "[[Changes/Open WebUI/2024-10-26-new-language-support-introduced-hungarian-translations-and-updated-french-transl|\U0001F30D
   New Language Support]]"
 - "[[Changes/Open WebUI/2024-10-26-globalization-enhancements-updates-to-internationalization-i18n-support-further|\U0001F310
@@ -97,7 +97,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-11 · ChatGPT · [[Changes/ChatGPT/2023-09-11-chatgpt-now-supports-a-limited-selection-of-languages-in-the-interface|ChatGPT now supports a limited selection of languages in the interface]]
+- Earliest same-theme entry in the tracked set: 2020-11-19 · Raycast · [[Changes/Raycast/2020-11-19-improved-searching-for-localized-application-and-preference-names|Improved searching for localized application and preference names]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

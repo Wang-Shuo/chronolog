@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8817a68ad6a4e6f68fd11b99164659ebbf60e4dc23d2fc1491f085de5e5929fb
+machine_hash: 2d97a130d5d942707ce55b01e1d3acfb97eb0737925d8f50003331d69489cc12
 product: cline
 product_name: Cline
 record:
@@ -42,12 +42,12 @@ record:
   title: Use the editor's foreground color for diff block text, so diffs stay legible…
   type: change
 related_changes:
-- '[[Changes/Cline/2026-08-11-remove-the-stale-double-check-completion-feature-tip|Remove
-  the stale "Double-Check Completion" feature tip]]'
 - '[[Changes/Microsoft 365 Copilot/2026-08-11-parallel-content-and-identity-crawl-improves-content-freshness-web-microsoft-365|Parallel
   content and identity crawl improves content freshness…]]'
 - '[[Changes/Microsoft 365 Copilot/2026-08-11-sharepoint-authoritative-sites-windows-web-microsoft-365-sharepoint|SharePoint:
   Authoritative Sites Windows, Web (Microsoft 365 SharePoint)]]'
+- '[[Changes/AnythingLLM/2026-08-13-this-flow-also-allows-image-attachments-for-edits-followups-or-combination-promp|This
+  flow also allows image attachments for edits, followups, or combination prompts…]]'
 source_release: '[[Releases/Cline/cline-2026-08-13-v4-1-9-github-369742457-b48c0c59|cline-2026-08-13-v4-1-9-github-369742457-b48c0c59]]'
 source_type: github_releases
 theme: editor-experience
@@ -78,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-08-11 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-08-11-sharepoint-authoritative-sites-windows-web-microsoft-365-sharepoint|SharePoint: Authoritative Sites Windows, Web (Microsoft 365 SharePoint)]]
+- Earlier: 2026-08-13 · AnythingLLM · [[Changes/AnythingLLM/2026-08-13-this-flow-also-allows-image-attachments-for-edits-followups-or-combination-promp|This flow also allows image attachments for edits, followups, or combination prompts…]]
 - Later: 2026-08-13 · Lovable · [[Changes/Lovable/2026-08-13-open-projects-from-links-in-the-command-palette|Open projects from links in the command palette]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7f8aef66f7ebb879a87f51affdf2b4048fe1e9bd425092b948e8cfe612cbd42b
+machine_hash: 042e468d87dada3a5f53dbe23d2c2b01f6bc1f62bf37d7379d9af621b2d1c92e
 product: openclaw
 product_name: OpenClaw
 record:
@@ -73,12 +73,12 @@ record:
   title: 7 Automation and Scheduling changes in v2026.9.4
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-09-08-7-automation-and-scheduling-changes-in-v2026-9-3|7
-  Automation and Scheduling changes in v2026.9.3]]'
 - '[[Changes/OpenHands/2026-09-09-9-automation-and-scheduling-changes-in-v1-17-0|9
   Automation and Scheduling changes in v1.17.0]]'
 - '[[Changes/Dify/2026-09-10-3-automation-and-scheduling-changes-in-1-17-1|3 Automation
   and Scheduling changes in 1.17.1]]'
+- '[[Changes/Devin/2026-09-11-pagerduty-integration-for-oncall-and-automations|PagerDuty
+  Integration for Oncall and Automations]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-09-11-v2026-9-4-6cdeafb2|openclaw-2026-09-11-v2026-9-4-6cdeafb2]]'
 source_type: openclaw_changelog
 theme: automation-scheduling
@@ -147,7 +147,7 @@ Source: https://docs.openclaw.ai/releases/2026.9.4
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2026-09-10 · Dify · [[Changes/Dify/2026-09-10-3-automation-and-scheduling-changes-in-1-17-1|3 Automation and Scheduling changes in 1.17.1]]
+- Earlier: 2026-09-11 · Devin · [[Changes/Devin/2026-09-11-pagerduty-integration-for-oncall-and-automations|PagerDuty Integration for Oncall and Automations]]
 - Later: 2026-09-11 · OpenHands · [[Changes/OpenHands/2026-09-11-3-automation-and-scheduling-changes-in-v1-18-0|3 Automation and Scheduling changes in v1.18.0]]
 <!-- chronolog:end -->
 

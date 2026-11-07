@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: presentation-creation
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: b956ba281b8bd8f4610275fb4167bd21af2c4b53b45d77cb798995c3b7b2a266
+machine_hash: da4e771848b9eae890521c90b3b4aa6e39889381bf297746ffe86ecbd52488df
 product: microsoft-365-copilot
 product_name: Microsoft 365 Copilot
 record:

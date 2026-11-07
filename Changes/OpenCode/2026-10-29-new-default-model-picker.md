@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 5484ebaa9f8f65fd666d43b60ae51585a014a9bc5ceb46e7529aea30b8f229e4
+machine_hash: f605001cb427ad34d0cdafe7e2cb0fd847ce511dc656f5165556bbfd55f7713e
 product: opencode
 product_name: OpenCode
 record:
@@ -55,8 +55,8 @@ record:
   title: New Default Model Picker
   type: change
 related_changes:
-- '[[Changes/Kimi Code/2026-10-28-add-provider-refresh-providerid-to-re-fetch-provider-model-lists-at-runtime|Add
-  /provider refresh providerId to re-fetch provider model lists at runtime]]'
+- '[[Changes/Raycast/2026-10-28-ai-added-the-same-reasoning-effort-shortcut-to-model-preference-838a1e|AI:
+  Added the same reasoning effort shortcut to model preference]]'
 - '[[Changes/Codex CLI/2026-10-29-10-model-support-changes-in-rust-v0-166-0|10 Model
   Support changes in rust-v0.166.0]]'
 - '[[Changes/Open WebUI/2026-10-29-7-model-support-changes-in-v0-12-5|7 Model Support

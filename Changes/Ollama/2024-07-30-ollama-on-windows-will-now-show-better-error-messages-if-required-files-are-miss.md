@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e7bd8f568d803b81240ea63c961899e0dcf6b52194141ef25c69f5f751f1e89e
+machine_hash: a45ef0c1d26e7265aaa11b8532ebe4c47d453cab4cc8641502fad659145a7f95
 product: ollama
 product_name: Ollama
 record:
@@ -45,10 +45,10 @@ record:
     missing
   type: change
 related_changes:
-- '[[Changes/Notion/2024-07-17-use-notion-calendar-on-android|Use Notion Calendar
-  on Android]]'
 - '[[Changes/Aider/2024-07-18-aider-is-better-at-offering-to-add-files-to-the-chat-on-windows|Aider
   is better at offering to add files to the chat on Windows]]'
+- '[[Changes/AnythingLLM/2024-07-26-4-mobile-and-desktop-changes-in-v1-0-0|4 Mobile
+  and Desktop changes in v1.0.0]]'
 - '[[Changes/Notion/2024-07-29-notion-ai-global-shortcut|Notion AI global shortcut]]'
 source_release: '[[Releases/Ollama/ollama-2024-07-30-v0-3-1-github-167744592-27db223d|ollama-2024-07-30-v0-3-1-github-167744592-27db223d]]'
 source_type: github_releases

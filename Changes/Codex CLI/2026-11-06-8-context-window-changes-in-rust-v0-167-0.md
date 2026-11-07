@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a10d5565c96a105825a853d9d286132f76286e56a1f11c7c411f6ff1a7470947
+machine_hash: ec7dd3261678e2c2853af48e5ee900dd26bd7c4c86e9d775f16f4a510eca929f
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -57,10 +57,10 @@ record:
   title: 8 Context Window changes in rust-v0.167.0
   type: change
 related_changes:
-- '[[Changes/Dify/2026-11-04-6-context-window-changes-in-1-19-0|6 Context Window changes
-  in 1.19.0]]'
-- '[[Changes/Microsoft 365 Copilot/2026-11-04-account-selector-in-outlook-copilot-side-pane-web-outlook|Account
-  Selector in Outlook Copilot Side Pane Web (Outlook)]]'
+- '[[Changes/Raycast/2026-11-04-today-we-re-introducing-dictate-to-ai-a-new-command-that-combines-what-you-say-w|Raycast
+  introduces Dictate to AI, a new command that combines what you say…]]'
+- '[[Changes/Raycast/2026-11-04-today-we-re-introducing-dictate-to-ai-a-new-command-that-combines-what-you-say-w-9ef173|Raycast
+  introduces Dictate to AI, a new command that combines what you say…]]'
 - '[[Changes/OpenClaw/2026-11-05-3-context-window-changes-in-v2026-11-1|3 Context
   Window changes in v2026.11.1]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-11-06-rust-v0-167-0-github-435979892-a2e140bc|codex-cli-2026-11-06-rust-v0-167-0-github-435979892-a2e140bc]]'

@@ -4,20 +4,20 @@ date: '2024-03-05'
 description: 'Suno · 2024-03-05 · Accessibility and Localization: Miscellaneous accessibility
   fixes'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-09-11-chatgpt-now-supports-a-limited-selection-of-languages-in-the-interface|ChatGPT
-    now supports a limited selection of languages in the interface]]'
+  first_in_tracked: '[[Changes/Raycast/2020-11-19-improved-searching-for-localized-application-and-preference-names|Improved
+    searching for localized application and preference names]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 176
+  lag_days: 1202
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: accessibility-localization
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3c925c1892bca20d0b3e6f2b652b06b4b7a336dfe1b7332e47e1c4d2dd630c2c
+machine_hash: 4c3a9f496614297a51101144d18bdbd6e56fefe7ac18780259a4d618aef2710d
 product: suno
 product_name: Suno
 record:
@@ -40,8 +40,12 @@ record:
   title: Miscellaneous accessibility fixes
   type: change
 related_changes:
+- '[[Changes/Superwhisper/2023-08-17-new-accessibility-installation-dialog-and-confirmation-flow|New
+  accessibility installation dialog and confirmation flow]]'
 - '[[Changes/ChatGPT/2023-09-11-chatgpt-now-supports-a-limited-selection-of-languages-in-the-interface|ChatGPT
   now supports a limited selection of languages in the interface]]'
+- '[[Changes/Raycast/2024-01-10-calculator-disabled-localized-capitalization-for-spelled-out-numbers-which-resul|Calculator:
+  Disabled localized capitalization for spelled out numbers which resulted…]]'
 source_release: '[[Releases/Suno/suno-2024-03-05-e-playlists-59145766|suno-2024-03-05-e-playlists-59145766]]'
 source_type: suno_changelog
 theme: accessibility-localization
@@ -72,14 +76,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Accessibility and Localization
 
-- Earlier: 2023-09-11 · ChatGPT · [[Changes/ChatGPT/2023-09-11-chatgpt-now-supports-a-limited-selection-of-languages-in-the-interface|ChatGPT now supports a limited selection of languages in the interface]]
+- Earlier: 2024-01-10 · Raycast · [[Changes/Raycast/2024-01-10-calculator-disabled-localized-capitalization-for-spelled-out-numbers-which-resul|Calculator: Disabled localized capitalization for spelled out numbers which resulted…]]
 - Later: 2024-03-18 · Open WebUI · [[Changes/Open WebUI/2024-03-18-localization-you-can-now-change-the-ui-language-in-settings-general-we-support-u|🌍 Localization: You can now change the UI language in Settings  General]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-11 · ChatGPT · [[Changes/ChatGPT/2023-09-11-chatgpt-now-supports-a-limited-selection-of-languages-in-the-interface|ChatGPT now supports a limited selection of languages in the interface]]
+- Earliest same-theme entry in the tracked set: 2020-11-19 · Raycast · [[Changes/Raycast/2020-11-19-improved-searching-for-localized-application-and-preference-names|Improved searching for localized application and preference names]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

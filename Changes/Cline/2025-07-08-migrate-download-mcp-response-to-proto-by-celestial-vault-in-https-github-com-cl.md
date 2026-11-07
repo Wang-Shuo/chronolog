@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e2a480c6b32cc9fd8e46b7579e7f95792c8862701233e9b449ac37a52571b990
+machine_hash: 6ae74398667e9239d567333d1264796c5df9f3f7b26d66da64535ae8bde131e5
 product: cline
 product_name: Cline
 record:
@@ -77,7 +77,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2025-07-08 · Cline · [[Changes/Cline/2025-07-08-update-the-no-vscode-postmessage-eslint-rule-to-check-for-any-of-the-vscode-sdk|Update the no-vscode-postmessage eslint rule to check for any of the vscode SDK…]]
-- Later: 2025-07-10 · Dify · [[Changes/Dify/2025-07-10-10-apps-and-integrations-changes-in-1-6-0|10 Apps and Integrations changes in 1.6.0]]
+- Later: 2025-07-09 · Recraft · [[Changes/Recraft/2025-07-09-with-mcp-ai-agents-like-claude-don-t-just-suggest-ideas-they-can-execute-them-di|With MCP, AI agents like Claude don’t just suggest ideas]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

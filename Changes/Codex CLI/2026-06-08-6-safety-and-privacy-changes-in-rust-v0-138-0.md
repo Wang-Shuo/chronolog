@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 32e22bac4ad05b178044131285330a9d9e29f01d97fbf89172c6dae737c36c24
+machine_hash: b7b3fd44dee23729dd276e404983643a7359c1148d4c45df9c811869df008cd4
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -106,7 +106,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.138.0
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-06-08 · Claude Code · [[Changes/Claude Code/2026-06-08-2-safety-and-privacy-changes-in-v2-1-169|2 Safety and Privacy changes in v2.1.169]]
-- Later: 2026-06-09 · Codex CLI · [[Changes/Codex CLI/2026-06-09-5-safety-and-privacy-changes-in-rust-v0-139-0|5 Safety and Privacy changes in rust-v0.139.0]]
+- Later: 2026-06-08 · LM Studio · [[Changes/LM Studio/2026-06-08-security-hardening|Security hardening]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

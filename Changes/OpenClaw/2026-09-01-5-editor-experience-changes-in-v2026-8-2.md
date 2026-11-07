@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 66b0b8fd8127fbc564edd1f1f3414b16e906e4f272a8836e54b6d19c2e2de939
+machine_hash: c2740c678ef146214d5f77a254aa75a3fa022062709c6e59710ef1cb72a03ea0
 product: openclaw
 product_name: OpenClaw
 record:
@@ -67,10 +67,10 @@ record:
   title: 5 Editor Experience changes in v2026.8.2
   type: change
 related_changes:
-- '[[Changes/v0/2026-08-28-2-editor-experience-changes-in-gpt-5-6-sol-sign-in-inside-previews|2
-  Editor Experience changes in GPT-5.6 Sol, sign-in inside previews…]]'
 - "[[Changes/Open WebUI/2026-08-31-chat-branches-stay-connected-after-reloads-a-reply-saved-under-an-earlier-messag|\U0001F4A5
   Chat branches stay connected after reloads. A reply saved under an earlier…]]"
+- '[[Changes/Raycast/2026-08-31-notes-choose-a-custom-editor-text-size-from-12-to-32-pt-or-keep-following-your-d|Notes
+  : Choose a custom editor text size from 12 to 32 pt, or keep following…]]'
 - '[[Changes/Claude Code/2026-09-01-2-editor-experience-changes-in-v2-1-257|2 Editor
   Experience changes in v2.1.257]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-09-01-v2026-8-2-cca64187|openclaw-2026-09-01-v2026-8-2-cca64187]]'

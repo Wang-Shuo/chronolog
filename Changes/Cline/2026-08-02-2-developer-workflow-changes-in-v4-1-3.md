@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 136eb34e10234844da10a81b13c8c9a0bd6b8f7291afbf52479e0449cec22d80
+machine_hash: a909b19ec9bde9b4d71f4d2ad73af8788da8910b8ce62b9ff954bc367c0e259c
 product: cline
 product_name: Cline
 record:
@@ -43,8 +43,8 @@ record:
   title: 2 Developer Workflow changes in v4.1.3
   type: change
 related_changes:
-- '[[Changes/Kimi Code/2026-07-30-add-the-secondary-model-slash-command-to-configure-the-secondary-model-used-by-s|Add
-  the /secondary_model slash command to configure the secondary model used…]]'
+- '[[Changes/Devin/2026-07-31-approval-progress-at-a-glance|Approval Progress at a
+  Glance]]'
 - '[[Changes/Google Antigravity/2026-07-31-2-developer-workflow-changes-in-hub-v2-5-0-enterprise-sign-in-gemini|2
   Developer Workflow changes in HUB v2.5.0 — Enterprise sign-in: Gemini…]]'
 - '[[Changes/v0/2026-07-31-duplicating-a-git-backed-chat-produces-a-working-copy-instead-of-one-that-fails|Duplicating

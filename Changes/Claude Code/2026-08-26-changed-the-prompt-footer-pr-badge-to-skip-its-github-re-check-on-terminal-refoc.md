@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 91279b017052d56a8d8b2330b8e88757c7110c81c14f09d7ae62cdb4be7f68ec
+machine_hash: 17c005254ea5f22a21b1f63326f8defab9268d6de1e3991144396f58ce3244ff
 product: claude-code
 product_name: Claude Code
 record:
@@ -54,12 +54,12 @@ record:
     refocus…
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-08-25-see-time-and-cost-while-lovable-works|See time and
-  cost while Lovable works]]'
-- '[[Changes/Microsoft 365 Copilot/2026-08-25-simplified-design-for-the-microsoft-365-copilot-app-windows-mac-web-microsoft-36|Simplified
-  design for the Microsoft 365 Copilot app Windows, Mac…]]'
 - '[[Changes/Open WebUI/2026-08-25-24-interface-experience-changes-in-v0-11-1|24 Interface
   Experience changes in v0.11.1]]'
+- '[[Changes/Raycast/2026-08-25-window-management-center-hotkey-now-truly-centers-a-window-when-respect-stage-ma|Window
+  Management : Center hotkey now truly centers a window…]]'
+- '[[Changes/Raycast/2026-08-25-general-added-add-to-dictionary-to-the-right-click-menu-on-text-fields|General
+  : Added Add to dictionary to the right-click menu on text fields]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-26-v2-1-247-github-377320078-fc507178|claude-code-2026-08-26-v2-1-247-github-377320078-fc507178]]'
 source_type: github_releases
 theme: interface-experience
@@ -95,7 +95,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-08-25 · Open WebUI · [[Changes/Open WebUI/2026-08-25-24-interface-experience-changes-in-v0-11-1|24 Interface Experience changes in v0.11.1]]
+- Earlier: 2026-08-25 · Raycast · [[Changes/Raycast/2026-08-25-general-added-add-to-dictionary-to-the-right-click-menu-on-text-fields|General : Added Add to dictionary to the right-click menu on text fields]]
 - Later: 2026-08-26 · Codex CLI · [[Changes/Codex CLI/2026-08-26-6-interface-experience-changes-in-rust-v0-150-0|6 Interface Experience changes in rust-v0.150.0]]
 <!-- chronolog:end -->
 

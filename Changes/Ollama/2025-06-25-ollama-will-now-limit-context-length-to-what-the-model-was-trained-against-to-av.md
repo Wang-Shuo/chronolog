@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 946a3672bf06d2dba1b82889a3195b4671e7f34527595145be683ba8081aa9c3
+machine_hash: f8cea4a93d29cbe7933129fb49eae3126de2fa9646b51fd34fd9a25eb8d3eee6
 product: ollama
 product_name: Ollama
 record:
@@ -55,12 +55,12 @@ record:
     to avoid…
   type: change
 related_changes:
-- '[[Changes/Dify/2025-06-11-refactor-replaces-direct-db-session-usage-with-context-managers-by-laipz8200-in|refactor:
-  Replaces direct DB session usage with context managers]]'
 - '[[Changes/OpenHands/2025-06-20-2-context-window-changes-in-0-43-0|2 Context Window
   changes in 0.43.0]]'
 - '[[Changes/Dify/2025-06-25-feat-add-a-flask-context-manager-by-laipz8200-in-https-github-com-langgenius-dif|feat:
   add a flask_context_manager]]'
+- '[[Changes/LM Studio/2025-06-25-stream-tool-call-argument-tokens-to-the-ui-as-they-are-generated|Stream
+  tool call argument tokens to the UI as they are generated]]'
 source_release: '[[Releases/Ollama/ollama-2025-06-25-v0-9-3-github-227503130-2fa7ce35|ollama-2025-06-25-v0-9-3-github-227503130-2fa7ce35]]'
 source_type: github_releases
 theme: context-window
@@ -90,7 +90,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2025-06-25 · Dify · [[Changes/Dify/2025-06-25-feat-add-a-flask-context-manager-by-laipz8200-in-https-github-com-langgenius-dif|feat: add a flask_context_manager]]
+- Earlier: 2025-06-25 · LM Studio · [[Changes/LM Studio/2025-06-25-stream-tool-call-argument-tokens-to-the-ui-as-they-are-generated|Stream tool call argument tokens to the UI as they are generated]]
 - Later: 2025-06-27 · Aider · [[Changes/Aider/2025-06-27-enhanced-thinking-tokens-support-can-now-be-disabled-by-setting-to-0-and-improve|Enhanced thinking tokens support]]
 <!-- chronolog:end -->
 

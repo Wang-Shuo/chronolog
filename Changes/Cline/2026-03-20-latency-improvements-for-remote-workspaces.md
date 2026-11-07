@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0d5214e69fc7558b7b56e8b3bba05a457baf525e7fc1ad0c511280e6269025a9
+machine_hash: 5ae23f71936a00e4e66e1ee851b04b07fb2bf152afa9efdb46b436667c0095a7
 product: cline
 product_name: Cline
 record:
@@ -40,10 +40,10 @@ record:
   title: Latency improvements for remote workspaces
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-19-reduced-memory-usage-on-startup-in-large-repositories-80-mb-saved-on-250k-file-r|Reduced
-  memory usage on startup in large repositories (~80 MB saved on 250k-file repos)]]'
 - '[[Changes/Cursor/2026-03-19-composer-2-is-now-available-in-cursor-frontier-level-coding-performance-with-str|Composer
   2 is now available in Cursor]]'
+- '[[Changes/Devin/2026-03-19-various-bug-fixes-and-performance-improvements-across-the-platform|Various
+  bug fixes and performance improvements across the platform]]'
 - '[[Changes/Windsurf/2026-03-19-various-bug-fixes-and-performance-improvements|Various
   bug fixes and performance improvements]]'
 source_release: '[[Releases/Cline/cline-2026-03-20-v3-75-0-github-299635451-bdc74f9a|cline-2026-03-20-v3-75-0-github-299635451-bdc74f9a]]'

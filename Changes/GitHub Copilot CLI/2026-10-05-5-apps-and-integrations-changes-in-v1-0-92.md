@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b6c69241f019af5872ef3e0d990b7f61581805294cb413f8fdbd3e5bfa138787
+machine_hash: 610a4eb1c5125e3f352e7d6af2912e039f9834d3f8ae47f54da40651e94c0285
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -50,8 +50,8 @@ record:
   title: 5 Apps and Integrations changes in v1.0.92
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-05-2-apps-and-integrations-changes-in-rust-v0-160-1|2
-  Apps and Integrations changes in rust-v0.160.1]]'
+- '[[Changes/Devin/2026-10-05-fetch-a-single-code-scan-via-api-and-mcp|Fetch a Single
+  Code Scan via API and MCP]]'
 - '[[Changes/ElevenLabs/2026-10-05-swift-sdk|Swift SDK]]'
 - '[[Changes/ElevenLabs/2026-10-05-sdk-releases|SDK releases]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-10-05-v1-0-92-github-404054639-a6ba3455|github-copilot-cli-2026-10-05-v1-0-92-github-404054639-a6ba3455]]'

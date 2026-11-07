@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: dff3d1583bf70ead19144e0b608a7347114e1cbd41153a36ec3a580b6e192dbb
+machine_hash: b8ac82abba34ec362464e93a7194c691f67f178681588d888d691f17bd7ceb80
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -82,7 +82,7 @@ Source: https://github.com/MoonshotAI/kimi-code/blob/main/docs/en/release-notes/
 ## Nearby in Agent Mode
 
 - Earlier: 2026-10-24 · OpenClaw · [[Changes/OpenClaw/2026-10-24-8-agent-mode-changes-in-v2026-10-7|8 Agent Mode changes in v2026.10.7]]
-- Later: 2026-10-26 · Claude Code · [[Changes/Claude Code/2026-10-26-2-agent-mode-changes-in-v2-1-311|2 Agent Mode changes in v2.1.311]]
+- Later: 2026-10-26 · AnythingLLM · [[Changes/AnythingLLM/2026-10-26-apply-workspace-model-changes-to-agent-sessions-mid-thread-by-shatfield4-in-http|Apply workspace model changes to agent sessions mid-thread]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

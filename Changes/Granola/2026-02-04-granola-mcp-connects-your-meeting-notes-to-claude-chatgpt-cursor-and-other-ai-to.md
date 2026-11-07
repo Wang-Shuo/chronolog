@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: meeting-notes
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 56be0e766f63da0fd0a2c560fdf13738934deaeb007146d151124ca576e439ca
+machine_hash: b7ca2db58147793b04e24699e39e400a5c95578290770a1991700c67e559b8d2
 product: granola
 product_name: Granola
 record:
@@ -97,7 +97,7 @@ type: change
 ## Nearby in Meeting Notes
 
 - Earlier: 2025-12-04 · Granola · [[Changes/Granola/2025-12-04-a-celebration-of-your-year-as-told-by-your-meeting-notes|Granola Crunched]]
-- Later: 2026-03-05 · Notion · [[Changes/Notion/2026-03-05-let-s-imagine-a-meetings-database-where-a-teammate-should-be-able-to-access-thei|Let’s imagine a meetings database where a teammate should be able to access…]]
+- Later: 2026-02-19 · Raycast · [[Changes/Raycast/2026-02-19-raycast-notes-is-a-lightweight-tool-that-helps-you-capture-ideas-quickly-without|Raycast Notes is a lightweight tool that helps you capture ideas quickly without…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

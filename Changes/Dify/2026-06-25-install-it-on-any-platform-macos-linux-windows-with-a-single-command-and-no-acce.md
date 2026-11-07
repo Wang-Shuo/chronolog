@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e15b747d9045e2373b1b9411ca3df03b579c262eb211b209d69c5df9cf746287
+machine_hash: b07c35bcbf2b83aae8727e5a2b2b4dc5fbf5cd3bd468d645878024d9420dc57f
 product: dify
 product_name: Dify
 record:
@@ -45,10 +45,10 @@ record:
     and no…
   type: change
 related_changes:
-- '[[Changes/Kimi Code/2026-06-24-reorganize-the-web-app-s-components-into-area-subdirectories-chat-settings-dialo|Reorganize
-  the web app''s components into area subdirectories…]]'
-- '[[Changes/OpenCode/2026-06-24-15-mobile-and-desktop-changes-in-v1-17-10|15 Mobile
-  and Desktop changes in v1.17.10]]'
+- '[[Changes/Wispr Flow/2026-06-24-keep-dictating-when-you-dock-your-laptop-clamshell-mode-desktop|Keep
+  dictating when you dock your laptop (clamshell mode) (Desktop)]]'
+- '[[Changes/Wispr Flow/2026-06-24-let-flow-pick-the-right-microphone-automatically-desktop|Let
+  Flow pick the right microphone automatically (Desktop)]]'
 - '[[Changes/Codex CLI/2026-06-25-26709-pac-4-add-macos-system-proxy-resolver-canvrno-oai|♯26709
   PAC 4 - Add macOS system proxy resolver @canvrno-oai]]'
 source_release: '[[Releases/Dify/dify-2026-06-25-1-15-0-github-344699591-4dd01045|dify-2026-06-25-1-15-0-github-344699591-4dd01045]]'

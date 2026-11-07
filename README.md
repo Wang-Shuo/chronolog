@@ -55,11 +55,27 @@ python -m pytest -q
 - Manus: [official public updates](https://www.manus.im/updates)
 - OpenClaw: [official curated release summaries](https://docs.openclaw.ai/releases)
 - OpenCode: [official paginated changelog](https://opencode.ai/changelog)
+- Descript: [official public changelog](https://feedback.descript.com/changelog)
+- HeyGen: [official public updates](https://heygen.noticeable.news/)
+- Synthesia: [official product updates](https://www.synthesia.io/updates)
+- Qoder: [unified app changelog](https://changelog.qoder.com/app)
+- Kimi Code: [official English changelog](https://github.com/MoonshotAI/kimi-code/blob/main/docs/en/release-notes/changelog.md)
+- Microsoft 365 Copilot: [official release notes](https://learn.microsoft.com/en-us/microsoft-365/copilot/release-notes)
+- Notion: [official release archive](https://www.notion.com/releases)
+- Z.ai API: [official model announcements](https://docs.z.ai/release-notes/new-released)
+- Krea: [official changelog](https://www.krea.ai/docs/changelog)
+- Recraft: [official public changelog](https://feedback.recraft.ai/changelog)
+- Raycast: [official platform changelogs](https://www.raycast.com/changelog)
+- Devin: [official annual release archives](https://docs.devin.ai/release-notes/overview)
+- LM Studio: [official stable changelog](https://lmstudio.ai/changelog/lmstudio)
+- AnythingLLM: [official application releases](https://github.com/Mintplex-Labs/anything-llm/releases)
+- Superwhisper: [official platform changelogs](https://superwhisper.com/changelog)
+- Wispr Flow: [official What's New archive](https://wisprflow.ai/whats-new)
 
 `_scripts/sources.yaml` is the shared product catalog for collection, public pages,
-search, graph and timeline filters. It now tracks 29 products across consumer
+search, graph and timeline filters. It now tracks 45 products across consumer
 assistants, music, image and video generation, presentations, meeting notes,
-agents, app building, local-model tools and developer tools.
+agents, app building, dictation, local-model tools and developer tools.
 GitHub sources use `include_prereleases: false` and `tag_pattern` to exclude preview
 builds, separately tagged packages and temporary CI uploads. Larger asset feeds use
 smaller API pages to avoid timeouts.
@@ -78,6 +94,19 @@ OpenClaw collects the curated documentation index and dates each version from th
 matching stable GitHub release, rather than interpreting its version as a date.
 Granola records the dated summaries on its update index. Antigravity covers its
 App and original IDE; separately versioned CLI, SDK and editor extensions are excluded.
+
+Descript, Recraft, HeyGen, Synthesia and Notion traverse their public archives;
+title-only or summary-only coverage is labeled per source. Notion's explicit
+coming-soon blocks are excluded from shipped-change cards. Microsoft 365 Copilot
+uses the all-features tab and preserves app scope. Qoder covers its unified app;
+Kimi Code and Z.ai API use their dated official notes.
+
+Krea preserves same-day announcements separately. Raycast and Superwhisper retain
+platform-qualified versions across all configured platform archives. Devin reads
+the annual archives and verifies that they cover every recent overview date;
+Desktop remains under the existing Windsurf entry. LM Studio checks its stable
+API's pagination and reported total, retaining builds under their version date.
+Wispr Flow uses visible publication dates and preserves platform scope.
 
 Coverage limits are carried into each product page and About. Claude and Gemini
 app histories are distinct from their coding tools; DeepSeek API represents its API

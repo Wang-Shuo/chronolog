@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 248b0cdb63c596783807893315868860c3ff82501fa1320f20f9f87dac68c721
+machine_hash: 2344dedda0720995222128cca6a38309908589de22a9acaafef8931e1256c8ad
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,10 +44,10 @@ record:
   title: Changed `/btw` history browsing from `←`/`→` to `Shift+←`/`Shift+→` (or `[`/`]`)…
   type: change
 related_changes:
-- '[[Changes/Microsoft 365 Copilot/2026-08-25-open-outlook-emails-within-copilot-chat-windows-mac-web-microsoft-365-copilot|Open
-  Outlook emails within Copilot Chat Windows, Mac, Web (Microsoft 365 Copilot)]]'
-- '[[Changes/Open WebUI/2026-08-25-5-search-and-browsing-changes-in-v0-11-1|5 Search
-  and Browsing changes in v0.11.1]]'
+- '[[Changes/Raycast/2026-08-25-ai-ask-user-question-tool-can-be-collapsed-to-make-browsing-conversation-easier|AI
+  : Ask User Question tool can be collapsed to make browsing conversation easier…]]'
+- '[[Changes/Raycast/2026-08-25-ai-ask-user-question-tool-can-be-collapsed-to-make-browsing-conversation-easier-72fc8d|AI
+  : Ask User Question tool can be collapsed to make browsing conversation easier…]]'
 - '[[Changes/Lovable/2026-08-26-see-how-each-app-page-appears-in-search-results-and-link-previews|See
   how each app page appears in search results and link previews]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-01-v2-1-257-github-380686035-b86855a6|claude-code-2026-09-01-v2-1-257-github-380686035-b86855a6]]'

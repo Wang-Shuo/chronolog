@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: af1f35b34725983cbf148822aba6b7c2d5cd0c5370873f1756eaea9dce52e07b
+machine_hash: 400a049bc58b7538309bb47b5195242a798cba6e33661b4285c691d55980772f
 product: cline
 product_name: Cline
 record:
@@ -47,12 +47,12 @@ record:
   title: 3 Model Support changes in v3.18.0
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-06-20-deprecation-warnings-in-cli-and-during-llm-api-calls-by-xingyaoww-in-https-githu|Deprecation
-  Warnings in CLI and during LLM API calls by @xingyaoww…]]'
-- '[[Changes/OpenHands/2025-06-24-2-model-support-changes-in-0-46-0|2 Model Support
-  changes in 0.46.0]]'
+- '[[Changes/Recraft/2025-06-24-introducing-prompt-based-image-editing-https-www-recraft-ai-blog-describe-a-chan|Introducing
+  prompt-based image editing((source link)]]'
 - '[[Changes/Dify/2025-06-25-2-model-support-changes-in-1-5-0|2 Model Support changes
   in 1.5.0]]'
+- '[[Changes/LM Studio/2025-06-25-2-model-support-changes-in-lm-studio-0-3-17|2 Model
+  Support changes in LM Studio 0.3.17]]'
 source_release: '[[Releases/Cline/cline-2025-06-26-v3-18-0-github-227867988-139993ff|cline-2025-06-26-v3-18-0-github-227867988-139993ff]]'
 source_type: github_releases
 theme: model-support
@@ -88,7 +88,7 @@ Source: https://github.com/cline/cline/releases/tag/v3.18.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-06-25 · Dify · [[Changes/Dify/2025-06-25-2-model-support-changes-in-1-5-0|2 Model Support changes in 1.5.0]]
+- Earlier: 2025-06-25 · LM Studio · [[Changes/LM Studio/2025-06-25-2-model-support-changes-in-lm-studio-0-3-17|2 Model Support changes in LM Studio 0.3.17]]
 - Later: 2025-06-27 · Aider · [[Changes/Aider/2025-06-27-5-model-support-changes-in-v0-85-0|5 Model Support changes in v0.85.0]]
 <!-- chronolog:end -->
 

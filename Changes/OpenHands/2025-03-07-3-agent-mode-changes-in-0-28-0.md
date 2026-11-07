@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 908b98d4c72070109ac4f835b400a4febce644af379a36fe86ee2308f16d83c1
+machine_hash: e7c2fb00c365c98d6780c62465597ac6b7eda8f948103fcb0bac162851604660
 product: openhands
 product_name: OpenHands
 record:
@@ -46,9 +46,10 @@ record:
   title: 3 Agent Mode changes in 0.28.0
   type: change
 related_changes:
-- '[[Changes/Replit/2025-02-28-deployment-improvements|Deployment improvements]]'
 - '[[Changes/Replit/2025-02-28-agent-v2|Agent v2]]'
 - '[[Changes/ElevenLabs/2025-03-03-agents-platform|Agents Platform]]'
+- '[[Changes/AnythingLLM/2025-03-04-new-thinking-agent-animation-ui-by-shatfield4-in-https-github-com-mintplex-labs|New
+  thinking/agent animation + UI]]'
 source_release: '[[Releases/OpenHands/openhands-2025-03-07-0-28-0-github-204383834-ab2a02bd|openhands-2025-03-07-0-28-0-github-204383834-ab2a02bd]]'
 source_type: github_releases
 theme: agent-mode
@@ -85,7 +86,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/0.28.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2025-03-03 · ElevenLabs · [[Changes/ElevenLabs/2025-03-03-agents-platform|Agents Platform]]
+- Earlier: 2025-03-04 · AnythingLLM · [[Changes/AnythingLLM/2025-03-04-new-thinking-agent-animation-ui-by-shatfield4-in-https-github-com-mintplex-labs|New thinking/agent animation + UI]]
 - Later: 2025-03-10 · ElevenLabs · [[Changes/ElevenLabs/2025-03-10-agents-platform|Agents Platform]]
 <!-- chronolog:end -->
 

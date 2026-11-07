@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ae55605dd3b3fa17925ae0a8c26b017c32b675037790b6f040273fbaecb0acf1
+machine_hash: e3cfb9f27d6ece8044ef18d5e137bed91010e7d33bce18e0948fbe0527ad6abe
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,10 +44,9 @@ record:
   title: 3 Developer Workflow changes in v0.0.350
   type: change
 related_changes:
-- '[[Changes/Cline/2025-10-23-4-developer-workflow-changes-in-v3-34-0|4 Developer
-  Workflow changes in v3.34.0]]'
 - '[[Changes/Codex CLI/2025-10-23-4-developer-workflow-changes-in-rust-v0-48-0|4 Developer
   Workflow changes in rust-v0.48.0]]'
+- '[[Changes/Devin/2025-10-24-gitlab-pr-comments|GitLab PR Comments]]'
 - '[[Changes/GitHub Copilot CLI/2025-10-24-running-many-standard-bash-powershell-commands-that-are-known-to-be-readonly|Running
   many standard bash/PowerShell commands that are known to be readonly]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2025-10-24-v0-0-350-github-256864744-709fc85c|github-copilot-cli-2025-10-24-v0-0-350-github-256864744-709fc85c]]'

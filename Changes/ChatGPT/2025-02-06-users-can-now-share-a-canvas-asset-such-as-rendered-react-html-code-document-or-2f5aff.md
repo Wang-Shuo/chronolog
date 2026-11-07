@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f955bac30319939be6d12224fae0c4d372686c5cf4e14ade467f02fbad859168
+machine_hash: a73644ecee37617bc5fbcf9e60b7183919d173354afa089b04e30519367227b9
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -49,9 +49,10 @@ record:
   title: Canvas sharing
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-01-15-edit-a-code-block-in-canvas|Edit a code block in Canvas]]'
 - '[[Changes/Dify/2025-01-22-3-files-and-data-changes-in-0-15-2|3 Files and Data changes
   in 0.15.2]]'
+- '[[Changes/AnythingLLM/2025-01-29-2-files-and-data-changes-in-v1-4-0|2 Files and
+  Data changes in v1.4.0]]'
 - "[[Changes/Open WebUI/2025-02-05-code-interpreter-models-can-now-execute-code-in-real-time-to-refine-their-answer|\U0001F5A5️
   Code Interpreter]]"
 source_release: '[[Releases/ChatGPT/chatgpt-2025-02-06-canvas-sharing-5abe3818|chatgpt-2025-02-06-canvas-sharing-5abe3818]]'

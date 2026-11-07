@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a3b2e117804dd72e99c987bdecdd018dbde6bef13ca3e52bde44a24c17b9a847
+machine_hash: ba6c8e68e5806f5ff483d6e7abd30c3b03f59c0997c134ae12709c30d82482b9
 product: opencode
 product_name: OpenCode
 record:
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-04-21 · Open WebUI · [[Changes/Open WebUI/2026-04-21-17-interface-experience-changes-in-v0-9-0|17 Interface Experience changes in v0.9.0]]
-- Later: 2026-04-23 · Claude Code · [[Changes/Claude Code/2026-04-23-3-interface-experience-changes-in-v2-1-119|3 Interface Experience changes in v2.1.119]]
+- Later: 2026-04-22 · Devin · [[Changes/Devin/2026-04-22-sso-connection-picker|SSO Connection Picker]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

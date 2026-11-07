@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 080dc404bde1a0ea5076f27e97c8ab4114e9e729cc320a704fc964cf940eb6a7
+machine_hash: c550b4d208b3467062ce58e7bc821ef3d7a792cdf6bb3ab6f14282bc3a914247
 product: opencode
 product_name: OpenCode
 record:
@@ -46,10 +46,10 @@ record:
   title: 3 Model Support changes in v1.18.17
   type: change
 related_changes:
-- '[[Changes/Microsoft 365 Copilot/2026-08-11-choose-anthropic-models-when-editing-with-copilot-in-word-web-word|Choose
-  Anthropic models when editing with Copilot in Word Web (Word)]]'
 - '[[Changes/Google Antigravity/2026-08-12-improved-the-model-selector-dropdown-to-choose-thinking-levels-per-model-low-med|Improved
   the model selector dropdown to choose thinking levels per-model…]]'
+- '[[Changes/LM Studio/2026-08-12-improved-llama-cpp-model-load-error-messages|Improved
+  llama.cpp model-load error messages]]'
 - '[[Changes/OpenCode/2026-08-12-made-session-compaction-keep-complete-recent-turns-and-produce-clearer-summaries|Made
   session compaction keep complete recent turns and produce clearer summaries…]]'
 source_release: '[[Releases/OpenCode/opencode-2026-08-12-v1-18-17-b94d17fb|opencode-2026-08-12-v1-18-17-b94d17fb]]'
@@ -89,8 +89,8 @@ Source: https://opencode.ai/changelog/v1.18.17
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-08-12 · Google Antigravity · [[Changes/Google Antigravity/2026-08-12-improved-the-model-selector-dropdown-to-choose-thinking-levels-per-model-low-med|Improved the model selector dropdown to choose thinking levels per-model…]]
-- Later: 2026-08-13 · DeepSeek API · [[Changes/DeepSeek API/2026-08-13-deepseek-v4-pro-update|DeepSeek-V4-Pro Update]]
+- Earlier: 2026-08-12 · LM Studio · [[Changes/LM Studio/2026-08-12-improved-llama-cpp-model-load-error-messages|Improved llama.cpp model-load error messages]]
+- Later: 2026-08-13 · AnythingLLM · [[Changes/AnythingLLM/2026-08-13-5-model-support-changes-in-v1-16-0|5 Model Support changes in v1.16.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

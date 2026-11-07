@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: fc2511740b511162688b41d1c50d7f60535e8572be76a4ea349fade6b1815d33
+machine_hash: 53dcccbd0f0da58f51f4461b5b642b35269ec1bf4a8b05129e6dd09eafaac36d
 product: open-webui
 product_name: Open WebUI
 record:
@@ -46,8 +46,8 @@ record:
   title: '**✅ Structured Output for Ollama**'
   type: change
 related_changes:
-- '[[Changes/Notion/2024-10-24-automations-can-now-send-emails|Automations can now
-  send emails]]'
+- '[[Changes/Devin/2024-11-01-programmatically-create-devin-sessions-and-retrieve-results-including-structured|Programmatically
+  create Devin sessions and retrieve results…]]'
 - '[[Changes/Dify/2024-12-03-update-the-scheduler-of-update-tidb-serverless-status-task-to-1-10min-by-johnjyo|update
   the scheduler of update_tidb_serverless_status_task to 1/10min]]'
 - '[[Changes/Notion/2024-12-05-automate-1-000-workflows-with-webhook-actions|Automate

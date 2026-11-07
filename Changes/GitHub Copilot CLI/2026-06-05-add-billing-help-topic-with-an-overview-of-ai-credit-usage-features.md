@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 1f1b8910f0c45d599a818f2913dce806ea52457fae82c9980889550e650a8764
+machine_hash: fe31cfc0acbbe02f2f6daf8346049519f6a5671a35ed76f2886a11fca0432dce
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,12 +43,12 @@ record:
   title: Add `billing` help topic with an overview of AI credit usage features
   type: change
 related_changes:
-- '[[Changes/Replit/2026-05-29-generate-3d-models-with-the-tripo3d-connector|Generate
-  3D models with the Tripo3D connector]]'
-- '[[Changes/Microsoft 365 Copilot/2026-06-02-organizational-messages-usage-based-targeting-is-now-generally-available-in-the|Organizational
-  Messages Usage‑based targeting is now generally available…]]'
 - '[[Changes/Claude Code/2026-06-04-the-subscription-switch-suggestion-now-shows-in-the-startup-announcement-slot-in|The
   subscription-switch suggestion now shows in the startup announcement slot…]]'
+- '[[Changes/Recraft/2026-06-04-credit-cost-is-20-to-33-credits-per-second-of-video-depending-on-the-selected-se|Credit
+  cost is 20 to 33 credits per second of video, depending on the selected settings]]'
+- '[[Changes/Devin/2026-06-05-configurable-auto-reload-threshold|Configurable Auto-Reload
+  Threshold]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-06-05-v1-0-60-github-335046279-6a5628d4|github-copilot-cli-2026-06-05-v1-0-60-github-335046279-6a5628d4]]'
 source_type: github_releases
 theme: pricing-model
@@ -89,7 +89,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-06-04 · Claude Code · [[Changes/Claude Code/2026-06-04-the-subscription-switch-suggestion-now-shows-in-the-startup-announcement-slot-in|The subscription-switch suggestion now shows in the startup announcement slot…]]
+- Earlier: 2026-06-05 · Devin · [[Changes/Devin/2026-06-05-configurable-auto-reload-threshold|Configurable Auto-Reload Threshold]]
 - Later: 2026-06-05 · OpenCode · [[Changes/OpenCode/2026-06-05-core-updated-github-copilot-usage-tracking-for-token-based-billing|Core Updated GitHub Copilot usage tracking for token-based billing]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 2d35191bf4622d5c121bf6b8d1c0c85167c23c8747990b2f61f539ac984b8101
+machine_hash: 799bb622d017501ab64fe92d68e4c1b8fd4ab167bb1c23b6919f8b3928161837
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -54,12 +54,12 @@ record:
   title: 'Browsing: An experimental model that knows when and how to browse the internet'
   type: change
 related_changes:
-- '[[Changes/Descript/2021-01-27-we-ve-updated-public-project-links-to-not-be-indexed-by-search-engines-anymore-t|Public
-  projects are no longer indexable by search engines]]'
-- '[[Changes/Notion/2022-05-10-integrate-your-workspace-with-census-rootly-bardeen-ai|Integrate
-  your workspace with Census, Rootly & Bardeen.ai]]'
 - '[[Changes/Notion/2022-09-13-browse-through-a-page-s-images-from-one-place|Browse
   through a page’s images from one place]]'
+- '[[Changes/Raycast/2022-09-28-root-search-search-index-is-partially-rebuilt-after-each-triggered-search-result|Root
+  Search : Search index is partially rebuilt after each triggered search result]]'
+- '[[Changes/Raycast/2023-02-01-flight-tracker-don-t-show-it-when-the-flight-number-matches-aliases-quicklinks-n|Flight
+  Tracker: Don’t show it when the flight number matches aliases, Quicklinks…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2023-03-23-introducing-plugins-in-chatgpt-8c6badc8|chatgpt-2023-03-23-introducing-plugins-in-chatgpt-8c6badc8]]'
 source_type: chatgpt_changelog
 theme: search-browsing
@@ -90,7 +90,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Search and Browsing
 
-- Earlier: 2022-09-13 · Notion · [[Changes/Notion/2022-09-13-browse-through-a-page-s-images-from-one-place|Browse through a page’s images from one place]]
+- Earlier: 2023-02-01 · Raycast · [[Changes/Raycast/2023-02-01-flight-tracker-don-t-show-it-when-the-flight-number-matches-aliases-quicklinks-n|Flight Tracker: Don’t show it when the flight number matches aliases, Quicklinks…]]
 - Later: 2023-05-01 · Descript · [[Changes/Descript/2023-05-01-smaller-tweaks|Smaller tweaks]]
 <!-- chronolog:end -->
 

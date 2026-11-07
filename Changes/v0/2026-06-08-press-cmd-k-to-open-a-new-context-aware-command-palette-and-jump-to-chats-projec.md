@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 1bec55e6bcd0c93e175d32583912870a6117d62da4d58873bd8335bb2988a4cb
+machine_hash: b7a60aa7ca31d5b1fb09496087b9821f2a65c6dbacc83719cce3d762dfc30cd6
 product: v0
 product_name: v0
 record:
@@ -55,12 +55,12 @@ record:
     projects…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-08-the-claude-md-is-too-long-warning-threshold-now-scales-with-the-model-s-context|The
-  "CLAUDE.md is too long" warning threshold now scales with the model''s context window]]'
 - '[[Changes/Claude Code/2026-06-08-added-cd-command-to-move-a-session-to-a-new-working-directory-without-breaking-t|Added
   /cd command to move a session to a new working directory without breaking…]]'
 - '[[Changes/Codex CLI/2026-06-08-4-context-window-changes-in-rust-v0-138-0|4 Context
   Window changes in rust-v0.138.0]]'
+- '[[Changes/LM Studio/2026-06-08-updated-default-context-length-to-8k-tokens|Updated
+  default context length to 8k tokens]]'
 source_release: '[[Releases/v0/v0-2026-06-08-2026-06-08-4f50e6b2|v0-2026-06-08-2026-06-08-4f50e6b2]]'
 source_type: v0_changelog
 theme: context-window
@@ -98,8 +98,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-06-08 · Codex CLI · [[Changes/Codex CLI/2026-06-08-4-context-window-changes-in-rust-v0-138-0|4 Context Window changes in rust-v0.138.0]]
-- Later: 2026-06-09 · Codex CLI · [[Changes/Codex CLI/2026-06-09-3-context-window-changes-in-rust-v0-139-0|3 Context Window changes in rust-v0.139.0]]
+- Earlier: 2026-06-08 · LM Studio · [[Changes/LM Studio/2026-06-08-updated-default-context-length-to-8k-tokens|Updated default context length to 8k tokens]]
+- Later: 2026-06-09 · AnythingLLM · [[Changes/AnythingLLM/2026-06-09-2-context-window-changes-in-v1-14-0|2 Context Window changes in v1.14.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

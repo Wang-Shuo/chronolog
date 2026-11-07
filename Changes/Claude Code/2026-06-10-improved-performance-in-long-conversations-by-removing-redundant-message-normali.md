@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6d05be194f3426d071788ae53e46576c802696fa81f36cf307b24d341ac934c8
+machine_hash: f648e89ea315de0a4e6acb1b43a0b8dc378cb909e51ecbd353fff1aa83acad95
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,8 +44,8 @@ record:
   title: Improved performance in long conversations by removing redundant message…
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-06-05-gemma-4-qat-weights-https-ollama-com-library-gemma4-the-gemma-4-family-is-now-op|Gemma
-  4 QAT weights((source link)]]'
+- '[[Changes/AnythingLLM/2026-06-09-x-all-model-providers-are-now-opt-out-of-tool-calling-by-default-everything-will|x
+  All model providers are now opt-out of tool calling by default]]'
 - '[[Changes/Codex CLI/2026-06-09-26637-codex-speed-up-external-agent-session-imports-stefanstokic-oai|♯26637
   codex Speed up external agent session imports @stefanstokic-oai]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-09-grep-searches-in-large-monorepos-use-an-indexed-search-engine-for-significantly|Grep

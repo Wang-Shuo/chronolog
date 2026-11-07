@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: f607c7d57c61318337516aa5f0168851416df30796413312ae997034425b1528
+machine_hash: fa3c5171ccebeda4da1b66d5377af5ccbadbbe661cd1ab0a1b54205c20a7d05a
 product: descript
 product_name: Descript
 record:
@@ -59,10 +59,12 @@ record:
   title: Studio Sound improvements
   type: change
 related_changes:
-- '[[Changes/Descript/2021-07-13-re-size-tutorial-videos|Re-size Tutorial Videos]]'
-- '[[Changes/Notion/2021-07-14-better-quote-blocks|Better quote blocks]]'
 - '[[Changes/Notion/2021-07-14-we-now-have-hand-picked-sans-and-serif-typefaces-for-chinese-simplified-traditio|We
   now have hand-picked sans and serif typefaces for Chinese…]]'
+- '[[Changes/Raycast/2021-07-29-2-interface-experience-changes-in-raycast-macos-v1-1-21-0|2
+  Interface Experience changes in Raycast macos-v1 1.21.0]]'
+- '[[Changes/Raycast/2021-08-25-3-interface-experience-changes-in-raycast-macos-v1-1-22-0|3
+  Interface Experience changes in Raycast macos-v1 1.22.0]]'
 source_release: '[[Releases/Descript/descript-2021-09-08-6390c9c64a4a0d64fa56466c-ad41d82d|descript-2021-09-08-6390c9c64a4a0d64fa56466c-ad41d82d]]'
 source_type: canny_changelog
 theme: interface-experience
@@ -94,7 +96,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2021-07-14 · Notion · [[Changes/Notion/2021-07-14-we-now-have-hand-picked-sans-and-serif-typefaces-for-chinese-simplified-traditio|We now have hand-picked sans and serif typefaces for Chinese…]]
+- Earlier: 2021-08-25 · Raycast · [[Changes/Raycast/2021-08-25-3-interface-experience-changes-in-raycast-macos-v1-1-22-0|3 Interface Experience changes in Raycast macos-v1 1.22.0]]
 - Later: 2021-09-08 · Notion · [[Changes/Notion/2021-09-08-now-it-s-much-easier-to-download-copy-share-images-from-ios-while-you-re-on-the|Now it's much easier to download, copy & share images from iOS while you're on the go]]
 <!-- chronolog:end -->
 

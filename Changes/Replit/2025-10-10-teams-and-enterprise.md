@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 22ebb089cce394188490e968eba9d26e92e4a5a48e0120962e838d7741966ea1
+machine_hash: 502a337d3345a05a2515d7b8ee5846ab88e040a89cd40e5597e395bd795de804
 product: replit
 product_name: Replit
 record:
@@ -49,10 +49,10 @@ record:
   title: Teams and Enterprise
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2025-09-25-looking-for-an-enterprise-plan-https-docs-openwebui-com-enterprise-speak-with-ou|
-  Looking for an Enterprise Plan((source link)]]'
-- '[[Changes/Replit/2025-09-26-teams-and-enterprise|Teams and Enterprise]]'
 - '[[Changes/Replit/2025-10-03-teams-and-enterprise|Teams and Enterprise]]'
+- '[[Changes/Devin/2025-10-10-enterprise-knowledge-management|Enterprise Knowledge
+  Management]]'
+- '[[Changes/Devin/2025-10-10-enterprise-playbooks|Enterprise Playbooks]]'
 source_release: '[[Releases/Replit/replit-2025-10-10-2025-10-10-6e646996|replit-2025-10-10-2025-10-10-6e646996]]'
 source_type: replit_changelog
 theme: enterprise-admin
@@ -87,8 +87,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2025-10-03 · Replit · [[Changes/Replit/2025-10-03-teams-and-enterprise|Teams and Enterprise]]
-- Later: 2025-10-17 · Replit · [[Changes/Replit/2025-10-17-teams-and-enterprise|Teams and Enterprise]]
+- Earlier: 2025-10-10 · Devin · [[Changes/Devin/2025-10-10-enterprise-playbooks|Enterprise Playbooks]]
+- Later: 2025-10-17 · Devin · [[Changes/Devin/2025-10-17-slack-enterprise-grid-support|Slack Enterprise Grid Support]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

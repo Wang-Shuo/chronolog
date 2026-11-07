@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 58b76e70a9f304b126504bab35a82b00d677f882376174b1e61cc79895b6921c
+machine_hash: 6fb81337826c35d4b3c2c7c61d9b3087b14d40a58971dc991b3a0285f1dd75c1
 product: descript
 product_name: Descript
 record:
@@ -48,10 +48,10 @@ record:
   title: '**Quicker default effects**'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2023-02-13-we-ve-updated-performance-of-the-chatgpt-model-on-our-free-plan-in-order-to-serv|ChatGPT
-  updates performance of the ChatGPT model on our free plan in order to serve…]]'
 - '[[Changes/Descript/2023-02-21-big-projects-load-quicker-we-ve-significantly-improved-the-loading-times-for-lar|Big
   projects load quicker]]'
+- '[[Changes/Raycast/2023-02-22-raycast-ai-beta-magic-at-your-fingertips|Raycast AI
+  Beta - Magic at Your Fingertips]]'
 - '[[Changes/Notion/2023-04-27-search-on-mobile-now-loads-60-faster|Search on mobile
   now loads 60%+ faster]]'
 source_release: '[[Releases/Descript/descript-2023-05-31-647676233b52ad094d8a2d93-3440a3c3|descript-2023-05-31-647676233b52ad094d8a2d93-3440a3c3]]'
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2023-04-27 · Notion · [[Changes/Notion/2023-04-27-search-on-mobile-now-loads-60-faster|Search on mobile now loads 60%+ faster]]
-- Later: 2023-07-08 · Aider · [[Changes/Aider/2023-07-08-more-robust-handling-of-filepaths-to-avoid-8-3-windows-filenames|More robust handling of filepaths, to avoid 8.3 windows filenames]]
+- Later: 2023-07-06 · Raycast · [[Changes/Raycast/2023-07-06-ai-chat-performance-improvements-when-loading-the-chat-actions-menu|AI Chat: Performance improvements when loading the chat actions menu]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

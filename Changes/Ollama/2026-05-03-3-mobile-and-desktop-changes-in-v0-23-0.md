@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d297d996d67ac562e7d62854a93e9eaacb519ee9bb1b1e79dc14999e9abd31ab
+machine_hash: 0bf2ed077058fa53ba4b1a4a8a510370a8f1c301d4b18019dfbc41347e574ead
 product: ollama
 product_name: Ollama
 record:
@@ -44,12 +44,12 @@ record:
   title: 3 Mobile and Desktop changes in v0.23.0
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-04-28-desktop-per-workspace-icon-overrides-now-stay-applied-for-subdirectories-in-the|Desktop
-  Per-workspace icon overrides now stay applied for subdirectories in the same repo]]'
-- '[[Changes/Cursor/2026-04-29-the-agents-that-run-in-the-cursor-desktop-app-cli-and-web-app-are-now-accessible|The
-  agents that run in the Cursor desktop app, CLI, and web app are now accessible…]]'
 - '[[Changes/Codex CLI/2026-04-30-3-mobile-and-desktop-changes-in-rust-v0-128-0|3
   Mobile and Desktop changes in rust-v0.128.0]]'
+- '[[Changes/Wispr Flow/2026-05-01-scratchpad-a-notepad-that-lives-on-top-of-everything-beta-desktop|Scratchpad:
+  A notepad that lives on top of everything (Beta) (Desktop)]]'
+- '[[Changes/Wispr Flow/2026-05-01-transforms-rewrite-any-text-with-ai-beta-desktop|Transforms:
+  Rewrite any text with AI (Beta) (Desktop)]]'
 source_release: '[[Releases/Ollama/ollama-2026-05-03-v0-23-0-github-316795929-a73ed73c|ollama-2026-05-03-v0-23-0-github-316795929-a73ed73c]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -87,7 +87,7 @@ Source: https://github.com/ollama/ollama/releases/tag/v0.23.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-04-30 · Codex CLI · [[Changes/Codex CLI/2026-04-30-3-mobile-and-desktop-changes-in-rust-v0-128-0|3 Mobile and Desktop changes in rust-v0.128.0]]
+- Earlier: 2026-05-01 · Wispr Flow · [[Changes/Wispr Flow/2026-05-01-transforms-rewrite-any-text-with-ai-beta-desktop|Transforms: Rewrite any text with AI (Beta) (Desktop)]]
 - Later: 2026-05-04 · ElevenLabs · [[Changes/ElevenLabs/2026-05-04-android-sdk|Android SDK]]
 <!-- chronolog:end -->
 

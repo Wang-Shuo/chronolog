@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d989b0ef47e27b1a7f52efeaa2aedf0c0f4b5cb4fab505fc6d222a95bdeec112
+machine_hash: 1d39ae4176f45c880050ea83fd51cead6caf9cf40d7133cf9e7354d365334ea4
 product: openclaw
 product_name: OpenClaw
 record:
@@ -55,12 +55,12 @@ record:
     search…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-15-codex-can-run-independent-read-only-tools-in-parallel-including-skill-memory-and|Codex
-  can run independent read-only tools in parallel, including skill, memory…]]'
-- "[[Changes/Open WebUI/2026-10-16-built-in-tools-turned-back-on-stay-on-a-built-in-tool-such-as-memory-that-is-off|\U0001F9F0
-  Built-in tools turned back on stay on. A built-in tool such as Memory…]]"
-- '[[Changes/OpenClaw/2026-10-16-schedule-inspection-during-recovery-updates-and-doctor-can-continue-when-optiona|Schedule
-  inspection during recovery]]'
+- '[[Changes/Raycast/2026-10-16-this-update-is-about-speed-file-search-returns-results-up-to-6-faster-and-handle-838564|This
+  update is about speed]]'
+- '[[Changes/Raycast/2026-10-16-lighter-at-startup-raycast-uses-about-20-less-memory-at-launch-and-starts-faster|Lighter
+  at startup : Raycast uses about 20% less memory at launch and starts faster]]'
+- '[[Changes/Raycast/2026-10-16-lighter-at-startup-raycast-uses-about-20-less-memory-at-launch-and-starts-faster-bbc58a|Lighter
+  at startup : Raycast uses about 20% less memory at launch and starts faster]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-10-18-v2026-10-5-fdda4c73|openclaw-2026-10-18-v2026-10-5-fdda4c73]]'
 source_type: openclaw_changelog
 theme: memory
@@ -97,8 +97,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2026-10-16 · OpenClaw · [[Changes/OpenClaw/2026-10-16-schedule-inspection-during-recovery-updates-and-doctor-can-continue-when-optiona|Schedule inspection during recovery]]
-- Later: 2026-10-22 · OpenClaw · [[Changes/OpenClaw/2026-10-22-4-memory-and-personalization-changes-in-v2026-10-6|4 Memory and Personalization changes in v2026.10.6]]
+- Earlier: 2026-10-16 · Raycast · [[Changes/Raycast/2026-10-16-lighter-at-startup-raycast-uses-about-20-less-memory-at-launch-and-starts-faster-bbc58a|Lighter at startup : Raycast uses about 20% less memory at launch and starts faster]]
+- Later: 2026-10-19 · Devin · [[Changes/Devin/2026-10-19-turn-off-nightly-memory-dreaming|Turn Off Nightly Memory Dreaming]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

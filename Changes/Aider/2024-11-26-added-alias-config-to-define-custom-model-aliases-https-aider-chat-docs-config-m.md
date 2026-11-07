@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: e0d59e535ea541155c26742a7b4db7fe70687c985f1a54e3ffd32d9cac6a04d0
+machine_hash: 4c83ba6e11b007949557173610d90f998b48e1651d845eeb69d3352e896cb5b3
 product: aider
 product_name: Aider
 record:
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2024-11-25 · Dify · [[Changes/Dify/2024-11-25-17-model-support-changes-in-0-12-0|17 Model Support changes in 0.12.0]]
-- Later: 2024-11-26 · Dify · [[Changes/Dify/2024-11-26-feat-allow-to-contains-files-in-the-system-prompt-even-model-not-support-by-laip|feat: Allow to contains files in the system prompt even model not support]]
+- Later: 2024-11-26 · AnythingLLM · [[Changes/AnythingLLM/2024-11-26-2-model-support-changes-in-v1-3-0|2 Model Support changes in v1.3.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

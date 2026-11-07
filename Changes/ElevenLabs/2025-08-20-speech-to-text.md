@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 30111f3530455c864dd34be21761285bbf20cbbf136cbd3a274324dc39b8eec9
+machine_hash: aed03ac426bfb56ce5eac351c9431962f0731e59e71794cb96a01c52ab8f65d3
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -43,9 +43,10 @@ record:
   title: Speech to Text
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-08-07-you-can-now-choose-from-four-distinct-personalities-or-use-the-default-personali-b6826c|Personalities]]'
 - "[[Changes/Open WebUI/2025-08-09-admin-first-whisper-language-priority-the-global-whisper-language-setting-now-ac|\U0001F5E3️
   Admin-First Whisper Language Priority]]"
+- '[[Changes/AnythingLLM/2025-08-15-stt-append-spoken-text-by-timothycarambat-in-https-github-com-mintplex-labs-anyt|STT
+  append spoken text]]'
 - '[[Changes/ElevenLabs/2025-08-20-voice-management|Voice Management]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2025-08-20-2025-08-20-8e826e02|elevenlabs-2025-08-20-2025-08-20-8e826e02]]'
 source_type: elevenlabs_changelog
@@ -78,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2025-08-09 · Open WebUI · [[Changes/Open WebUI/2025-08-09-admin-first-whisper-language-priority-the-global-whisper-language-setting-now-ac|🗣️ Admin-First Whisper Language Priority]]
+- Earlier: 2025-08-15 · AnythingLLM · [[Changes/AnythingLLM/2025-08-15-stt-append-spoken-text-by-timothycarambat-in-https-github-com-mintplex-labs-anyt|STT append spoken text]]
 - Later: 2025-08-20 · Runway · [[Changes/Runway/2025-08-20-change-the-voice-of-your-performances-directly-from-within-the-act-two-interface|Voices]]
 <!-- chronolog:end -->
 

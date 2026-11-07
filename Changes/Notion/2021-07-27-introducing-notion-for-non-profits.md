@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 9e4ae65256d1836a31f449193fcb2b4ac181c601d43953341ee84bc0a11d3561
+machine_hash: d13be771d61f4b731e87bffd6660b1d0fa6817605a727c3c65e53b0f1990b141
 product: notion
 product_name: Notion
 record:
@@ -48,9 +48,10 @@ record:
   title: 'Introducing: Notion for non-profits'
   type: change
 related_changes:
-- "[[Changes/Notion/2021-04-29-report-page-option|Report page option \U0001F6A9]]"
 - '[[Changes/Descript/2021-06-15-we-ve-improved-the-comments-feature-so-that-when-you-type-you-will-now-get-a-lis|Improved
   Comments for Drive Members]]'
+- '[[Changes/Raycast/2021-07-13-linear-add-support-for-the-new-issue-triage-set-the-triage-status-in-the-create|Linear:
+  Add support for the new Issue Triage]]'
 - '[[Changes/Notion/2021-07-14-public-pages-are-now-hosted-at-yourdomain-notion-site|Public
   pages are now hosted at yourdomain.notion.site]]'
 source_release: '[[Releases/Notion/notion-2021-07-27-https-www-notion-com-releases-2021-07-27-7f038e82|notion-2021-07-27-https-www-notion-com-releases-2021-07-27-7f038e82]]'

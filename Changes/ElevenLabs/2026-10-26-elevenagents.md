@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 48d5415955af6f96c60406516fbcd7c11cd4f318f5c3b971c18de2ba18c94671
+machine_hash: b054efde8240cf656f7b8282a1b1a1524995d48d0f65562450a1ce5a7a8c4c5a
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -95,8 +95,8 @@ record:
   title: ElevenAgents
   type: change
 related_changes:
-- '[[Changes/Kimi Code/2026-10-25-2-agent-mode-changes-in-kimi-code-2-3-2|2 Agent
-  Mode changes in Kimi Code 2.3.2]]'
+- '[[Changes/AnythingLLM/2026-10-26-apply-workspace-model-changes-to-agent-sessions-mid-thread-by-shatfield4-in-http|Apply
+  workspace model changes to agent sessions mid-thread]]'
 - '[[Changes/Claude Code/2026-10-26-2-agent-mode-changes-in-v2-1-311|2 Agent Mode
   changes in v2.1.311]]'
 - '[[Changes/ElevenLabs/2026-10-26-knowledge-base-crawl-exclusions|Knowledge base

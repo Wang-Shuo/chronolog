@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 0bfdedb5e5794ad7c8abfc531706151fb928b656fdc05c1593b365f56fdc0248
+machine_hash: f065e0db045a284c5951b5c3d1cac95f41bdebb1854e62415436d975ade586d9
 product: cursor
 product_name: Cursor
 record:
@@ -56,8 +56,7 @@ record:
   title: Context Usage Breakdown
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-04-30-19805-add-multiagentv2-root-and-subagent-context-hints-jif-oai|♯19805
-  Add MultiAgentV2 root and subagent context hints @jif-oai]]'
+- '[[Changes/Devin/2026-05-01-auto-fix-includes-ci-checks|Auto-Fix Includes CI Checks]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-01-remote-session-statusline-shows-the-remote-working-directory-and-branch-instead|Remote
   session statusline shows the remote working directory and branch instead…]]'
 - '[[Changes/OpenCode/2026-05-05-core-improved-v2-session-rendering-with-cleaner-tool-states-better-compaction-su|Core

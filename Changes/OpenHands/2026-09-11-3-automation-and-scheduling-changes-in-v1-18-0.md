@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: bd642722591755fae93679efb94d6ec26d8e51dbb8680825dd1943e0eb3b7a35
+machine_hash: e7c90bc9545753f10c24ccc7a61916987baf43b537a5170406e00eab2fb91dc2
 product: openhands
 product_name: OpenHands
 record:
@@ -44,10 +44,10 @@ record:
   title: 3 Automation and Scheduling changes in v1.18.0
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-09-09-9-automation-and-scheduling-changes-in-v1-17-0|9
-  Automation and Scheduling changes in v1.17.0]]'
 - '[[Changes/Dify/2026-09-10-3-automation-and-scheduling-changes-in-1-17-1|3 Automation
   and Scheduling changes in 1.17.1]]'
+- '[[Changes/Devin/2026-09-11-pagerduty-integration-for-oncall-and-automations|PagerDuty
+  Integration for Oncall and Automations]]'
 - '[[Changes/OpenClaw/2026-09-11-7-automation-and-scheduling-changes-in-v2026-9-4|7
   Automation and Scheduling changes in v2026.9.4]]'
 source_release: '[[Releases/OpenHands/openhands-2026-09-11-v1-18-0-github-387253056-164e51d7|openhands-2026-09-11-v1-18-0-github-387253056-164e51d7]]'
@@ -86,7 +86,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/v1.18.0
 ## Nearby in Automation and Scheduling
 
 - Earlier: 2026-09-11 · OpenClaw · [[Changes/OpenClaw/2026-09-11-7-automation-and-scheduling-changes-in-v2026-9-4|7 Automation and Scheduling changes in v2026.9.4]]
-- Later: 2026-09-14 · Kimi Code · [[Changes/Kimi Code/2026-09-14-add-the-loop-control-compaction-max-attempts-config-option-to-set-the-maximum-to|Add the loop_control.compaction_max_attempts config option to set the maximum…]]
+- Later: 2026-09-11 · Raycast · [[Changes/Raycast/2026-09-11-automations|Automations]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

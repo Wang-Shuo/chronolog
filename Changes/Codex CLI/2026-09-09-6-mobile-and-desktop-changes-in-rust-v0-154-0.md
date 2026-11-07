@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c11ac7e7ffd72e170305cdb890f431cb06eec6b72e68ef4c980fbb35e1d9869e
+machine_hash: 6c8f8187221bf9192f04fb3bbcb485c6bcb3042c9208359e4cb6f20753f9ce67
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -112,7 +112,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.154.0
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-09-08 · Windsurf · [[Changes/Windsurf/2026-09-08-devin-desktop|Devin Desktop]]
-- Later: 2026-09-09 · Google Antigravity · [[Changes/Google Antigravity/2026-09-09-quote-or-add-selected-text-to-chat-using-cmd-l-or-cmd-i-on-macos-or-ctrl-l-and-c|Quote or add selected text to chat using Cmd+L or Cmd+I on macOS, or Ctrl+L…]]
+- Later: 2026-09-09 · Devin · [[Changes/Devin/2026-09-09-git-bash-on-windows|Git Bash on Windows]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

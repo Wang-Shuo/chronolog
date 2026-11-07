@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 22bec258b162b1303995e12b64a05675d0fc1402d93939b227168bbf5c9b3ad1
+machine_hash: 8166046112f049e0c3875bea070ee17c1589cb3ca909a03540c3609f80e07543
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,10 +46,10 @@ record:
     repository…'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-05-5-developer-workflow-changes-in-v2-1-290|5 Developer
-  Workflow changes in v2.1.290]]'
-- '[[Changes/GitHub Copilot CLI/2026-10-05-4-developer-workflow-changes-in-v1-0-92|4
-  Developer Workflow changes in v1.0.92]]'
+- '[[Changes/Raycast/2026-10-05-2-developer-workflow-changes-in-raycast-macos-2-6|2
+  Developer Workflow changes in Raycast macos 2.6]]'
+- '[[Changes/Raycast/2026-10-05-ai-permissions-reduced-approval-interruptions-for-routine-git-and-github-workflo|AI
+  Permissions : Reduced approval interruptions for routine Git and GitHub…]]'
 - '[[Changes/Claude Code/2026-10-06-2-developer-workflow-changes-in-v2-1-292|2 Developer
   Workflow changes in v2.1.292]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-07-v2-1-293-github-405988533-66d1bb8d|claude-code-2026-10-07-v2-1-293-github-405988533-66d1bb8d]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 18f413024f400711b507ac8f0f20af4fa73a2f20d43ab2760f33743dd35eae7d
+machine_hash: 8c9428768c51d6d66bc218f6724c6a1d6ddc8d1589e01e83a5e5462c0f48b232
 product: cline
 product_name: Cline
 record:
@@ -49,9 +49,10 @@ record:
     view…
   type: change
 related_changes:
-- '[[Changes/Descript/2024-08-27-general-editor-updates|General Editor updates]]'
 - '[[Changes/Cline/2024-08-31-you-can-now-edit-claude-s-changes-before-accepting-when-he-edits-or-creates-a-fi|You
   can now edit Claude''s changes before accepting! When he edits or creates…]]'
+- '[[Changes/Devin/2024-09-03-send-devin-code-reviews-in-product|Send Devin code reviews
+  in product]]'
 - "[[Changes/Open WebUI/2024-09-04-missing-chat-completion-response-headers-ensured-proper-return-of-proxied-respon|\U0001F504
   Missing Chat Completion Response Headers]]"
 source_release: '[[Releases/Cline/cline-2024-09-05-v1-5-27-github-173592068-f67d96e6|cline-2024-09-05-v1-5-27-github-173592068-f67d96e6]]'

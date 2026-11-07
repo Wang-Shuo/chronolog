@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 48afe80d5bda3e52faa77cdaeb92673d6e5a8e882998e431780b9145618f56d1
+machine_hash: 3965ff70889da93b8913eb2d2069244c7ec535ffee2e1caaa0b6771343d041e6
 product: open-webui
 product_name: Open WebUI
 record:
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2025-02-13 · Open WebUI · [[Changes/Open WebUI/2025-02-13-gguf-model-upload-stability-fixed-upload-inconsistencies-for-gguf-models-ensurin|📂 GGUF Model Upload Stability]]
-- Later: 2025-02-19 · OpenHands · [[Changes/OpenHands/2025-02-19-better-error-when-llm-settings-do-not-exist-by-amanape-in-https-github-com-all-h|Better error when LLM settings do not exist]]
+- Later: 2025-02-18 · AnythingLLM · [[Changes/AnythingLLM/2025-02-18-3-model-support-changes-in-v1-7-4|3 Model Support changes in v1.7.4]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

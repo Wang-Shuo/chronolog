@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 88911121802c340e728e3a5e490e47982aad2c88b179f2b0b49c459905622c04
+machine_hash: 77036151aff2e706521f29ec878ed718f0bc820de1e058036ba98b81c1853545
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -45,9 +45,10 @@ record:
     tasks
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-06-15-elevenagents|ElevenAgents]]'
 - '[[Changes/Kimi Code/2026-06-15-3-agent-mode-changes-in-kimi-code-0-15-0|3 Agent
   Mode changes in Kimi Code 0.15.0]]'
+- '[[Changes/AnythingLLM/2026-06-16-2-agent-mode-changes-in-v1-14-1|2 Agent Mode changes
+  in v1.14.1]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-16-agent-mode-is-tracked-per-session-so-it-no-longer-carries-over-when-you-create-c|Agent
   mode is tracked per session, so it no longer carries over when you create…]]'
 source_release: '[[Releases/Kimi Code/kimi-code-2026-06-16-0-16-0-340aad9e|kimi-code-2026-06-16-0-16-0-340aad9e]]'
@@ -81,7 +82,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-06-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-16-agent-mode-is-tracked-per-session-so-it-no-longer-carries-over-when-you-create-c|Agent mode is tracked per session, so it no longer carries over when you create…]]
-- Later: 2026-06-17 · Claude Code · [[Changes/Claude Code/2026-06-17-improved-the-subagent-panel-idle-subagents-auto-hide-after-30s-the-list-caps-at|Improved the subagent panel]]
+- Later: 2026-06-16 · Superwhisper · [[Changes/Superwhisper/2026-06-16-4-agent-mode-changes-in-superwhisper-macos-2-16-1|4 Agent Mode changes in Superwhisper macOS 2.16.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2c3f74816079808838c092775085c1a1186c4afed88f022db913f9afd63bbc2c
+machine_hash: f5fcbbba2e40d89bdf9110f8b5a468c9ffc375c34f317ca06f4e7294475b459b
 product: claude-code
 product_name: Claude Code
 record:
@@ -116,7 +116,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.299
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-10-14 · Claude Code · [[Changes/Claude Code/2026-10-14-2-safety-and-privacy-changes-in-v2-1-300|2 Safety and Privacy changes in v2.1.300]]
-- Later: 2026-10-14 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-14-resuming-a-session-now-respects-abandoned-pending-permission-work-and-continues|Resuming a session now respects abandoned pending-permission work and continues only…]]
+- Later: 2026-10-14 · Devin · [[Changes/Devin/2026-10-14-manage-devin-review-permission|Manage Devin Review Permission]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

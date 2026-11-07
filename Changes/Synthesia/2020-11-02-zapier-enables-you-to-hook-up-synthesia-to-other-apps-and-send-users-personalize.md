@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9c9ef0eb7ff0ee937a5052f3581fed0ba0bd5f28a12d9177c8c597512499ebf7
+machine_hash: a85b8cb713a4b812cfd8463e027c559fd39c321409d4aadb0932c8277cfe44c7
 product: synthesia
 product_name: Synthesia
 record:
@@ -42,10 +42,12 @@ record:
   title: Our Zapier integration is ready!
   type: change
 related_changes:
-- '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
-  you have a recording with each speaker with a different microphone, or saved…]]'
-- '[[Changes/Descript/2020-05-28-publishing-integrations-enjoy-quicker-exports-with-one-click-integrations-to-thi|Publishing
-  Integrations: Enjoy quicker exports with one-click integrations…]]'
+- '[[Changes/Raycast/2020-10-16-jira-projects-and-filters-are-now-searchable-and-not-limited-to-a-fixed-number-o|Jira
+  : Projects and filters are now searchable and not limited to a fixed number…]]'
+- '[[Changes/Raycast/2020-10-21-root-search-installed-chrome-apps-can-now-also-be-found-and-launched-via-root-se|Root
+  Search : Installed Chrome apps can now also be found and launched via root search]]'
+- '[[Changes/Raycast/2020-10-27-2-apps-and-integrations-changes-in-raycast-macos-v1-0-33-3|2
+  Apps and Integrations changes in Raycast macos-v1 0.33.3]]'
 source_release: '[[Releases/Synthesia/synthesia-2020-11-02-https-www-synthesia-io-updates-our-zapier-integration-is-ready-f7f30eb6|synthesia-2020-11-02-https-www-synthesia-io-updates-our-zapier-integration-is-ready-f7f30eb6]]'
 source_type: synthesia_changelog
 theme: apps-integrations
@@ -72,8 +74,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2020-05-28 · Descript · [[Changes/Descript/2020-05-28-publishing-integrations-enjoy-quicker-exports-with-one-click-integrations-to-thi|Publishing Integrations: Enjoy quicker exports with one-click integrations…]]
-- Later: 2021-05-13 · Notion · [[Changes/Notion/2021-05-13-zapier-integration|Zapier integration]]
+- Earlier: 2020-10-27 · Raycast · [[Changes/Raycast/2020-10-27-2-apps-and-integrations-changes-in-raycast-macos-v1-0-33-3|2 Apps and Integrations changes in Raycast macos-v1 0.33.3]]
+- Later: 2020-11-11 · Raycast · [[Changes/Raycast/2020-11-11-app-search-in-addition-to-their-localized-display-name-apps-can-now-be-found-via|App Search: In addition to their localized display name, apps can now be found…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

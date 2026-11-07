@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: expansion
-machine_hash: d247d6297e4d4109b435ef7e31ca146f1e89c90d141d2c0033ee062f047ed10f
+machine_hash: 820b3017e68cdc8762d50d7ede756312fbdac7dcd49d03d0eb94b973d1df30d3
 product: gemini
 product_name: Gemini
 record:
@@ -55,10 +55,10 @@ record:
   title: The Gemini mobile app is available in Europe
   type: change
 related_changes:
-- '[[Changes/Gemini/2024-04-30-the-gemini-mobile-app-is-available-in-more-languages|The
-  Gemini mobile app is available in more languages]]'
 - "[[Changes/Open WebUI/2024-05-02-ios-pwa-icon-fix-corrected-ios-pwa-home-screen-icon-shape|\U0001F4F1
   iOS PWA Icon Fix: Corrected iOS PWA home screen icon shape]]"
+- '[[Changes/Raycast/2024-05-22-custom-window-management-commands|Custom Window Management
+  Commands]]'
 - '[[Changes/Descript/2024-06-04-descript-for-web-is-here|Descript for Web is here]]'
 source_release: '[[Releases/Gemini/gemini-2024-06-05-2024-06-05-34d6bc2b|gemini-2024-06-05-2024-06-05-34d6bc2b]]'
 source_type: gemini_changelog

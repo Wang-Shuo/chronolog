@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 42e19d478ef7b03022effdd279743c22276d37999d0a1d61973a00ef9738a7ba
+machine_hash: 28ce7f5dbb9d61c737c50eb1d8c99c22c26f8a7c8ee566d006d5e9133b01e576
 product: gamma
 product_name: Gamma
 record:
@@ -47,9 +47,7 @@ record:
   title: We just launched a new **step-by-step theme builder**!
   type: change
 related_changes:
-- '[[Changes/Cline/2024-07-31-new-or-edited-files-open-up-in-the-editor-to-more-easily-see-the-changes-claude|New
-  or edited files open up in the editor to more easily see the changes Claude Dev
-  makes]]'
+- '[[Changes/Raycast/2024-07-31-window-layout-improvements|Window Layout Improvements]]'
 - '[[Changes/Cline/2024-08-01-shows-diff-view-of-new-or-edited-files-right-in-the-editor|Shows
   diff view of new or edited files right in the editor]]'
 - '[[Changes/Cursor/2024-08-02-cursor-tab-previously-called-copilot-defaults-to-chunked-streaming-this-build-al|Cursor

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 553e30f1d9f8c9ae985c897b85343d6dba1f842cf46691d0a5eef37429125658
+machine_hash: 0fdc6ef53789688017a41ac8a4dc92827568bfe0a25452e683060811d299eb94
 product: cursor
 product_name: Cursor
 record:
@@ -44,9 +44,9 @@ record:
   title: VS Code 1.85.1
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-12-16-update-0-20-1-0-20-2-we-added-tldrs-to-make-it-easier-to-sort-through-the-bugs-f|UPDATE
-  (0.20.1-0.20.2): We added TLDRs to make it easier to sort through the bugs…]]'
 - '[[Changes/Notion/2023-12-20-upgrades-to-web-publishing|Upgrades to web publishing]]'
+- '[[Changes/Superwhisper/2023-12-26-enabled-cmd-v-paste-shortcut-into-prompt-editor|Enabled
+  cmd + v paste shortcut into prompt editor]]'
 - '[[Changes/Cursor/2023-12-29-you-can-now-run-multiple-command-k-s-in-parallel-also-it-should-now-be-easier-to|Multiple
   Command-K, Copilot++ UI]]'
 source_release: '[[Releases/Cursor/cursor-2023-12-30-0-21-3-nightly-https-cursor-com-changelog-0-21-3-nightly-0516160f|cursor-2023-12-30-0-21-3-nightly-https-cursor-com-changelog-0-21-3-nightly-0516160f]]'

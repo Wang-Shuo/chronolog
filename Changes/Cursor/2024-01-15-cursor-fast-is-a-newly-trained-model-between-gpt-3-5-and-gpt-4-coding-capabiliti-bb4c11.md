@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 430f01ca6ac68aaefbde9588e2642bda169b833be6f2df71f580933eb49560a4
+machine_hash: 57104fc0a670c02e9df52707d990f19cf6966a6f87eb0a08dfcc830fe4f7c3ac
 product: cursor
 product_name: Cursor
 record:
@@ -59,12 +59,12 @@ record:
   title: Cursor-Fast is a newly trained model between gpt-3.5 and gpt-4 coding capabilities…
   type: change
 related_changes:
-- '[[Changes/Dify/2024-01-05-add-together-ai-model-provider-and-fix-some-bugs|Add
-  Together.ai model provider and fix some bugs]]'
-- '[[Changes/Ollama/2024-01-11-megadolphin-https-ollama-ai-library-megadolphin-a-new-120b-version-of-the-dolphi|MegaDolphin((source
-  link) A new 120B version…]]'
-- '[[Changes/Dify/2024-01-12-support-for-models-integration-provided-by-the-ollama-details-https-docs-dify-ai|Support
-  for Models Integration Provided by the Ollama, details]]'
+- '[[Changes/Superwhisper/2024-01-12-3-new-experimental-language-models-v2-german-and-nano|3
+  new experimental language models (v2, German and Nano)]]'
+- '[[Changes/Superwhisper/2024-01-12-3-new-experimental-language-models-v2-german-and-nano-d4cadb|3
+  new experimental language models (v2, German and Nano)]]'
+- '[[Changes/Superwhisper/2024-01-13-3-new-experimental-language-models-v2-german-and-nano|3
+  new experimental language models (v2, German and Nano)]]'
 source_release: '[[Releases/Cursor/cursor-2024-01-15-0-22-1-nightly-https-cursor-com-changelog-0-22-1-nightly-a39dbb5c|cursor-2024-01-15-0-22-1-nightly-https-cursor-com-changelog-0-22-1-nightly-a39dbb5c]]'
 source_type: cursor_changelog
 theme: model-support
@@ -96,7 +96,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2024-01-12 · Dify · [[Changes/Dify/2024-01-12-support-for-models-integration-provided-by-the-ollama-details-https-docs-dify-ai|Support for Models Integration Provided by the Ollama, details]]
+- Earlier: 2024-01-13 · Superwhisper · [[Changes/Superwhisper/2024-01-13-3-new-experimental-language-models-v2-german-and-nano|3 new experimental language models (v2, German and Nano)]]
 - Later: 2024-01-15 · Dify · [[Changes/Dify/2024-01-15-2-model-support-changes-in-0-4-7|2 Model Support changes in 0.4.7]]
 <!-- chronolog:end -->
 

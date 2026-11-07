@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ea77e22986982a44fc6dff75e071f1d056c0d476f15dea75cb769c6e62c7da2b
+machine_hash: 33e25ec4412b770be184fe48aa05e449c625c65f894c1ab274743638c9c4414d
 product: ollama
 product_name: Ollama
 record:
@@ -42,8 +42,8 @@ record:
   title: 2 Mobile and Desktop changes in v0.1.28
   type: change
 related_changes:
-- '[[Changes/Ollama/2024-02-21-quotes-will-now-be-trimmed-around-the-value-of-the-ollama-host-on-windows|Quotes
-  will now be trimmed around the value of the OLLAMA_HOST on Windows]]'
+- '[[Changes/Raycast/2024-02-21-clipboard-history-added-a-new-action-to-share-an-item-with-the-native-macos-shar|Clipboard
+  History : Added a new action to share an item with the native macOS Share…]]'
 - '[[Changes/Ollama/2024-02-22-reduced-likelihood-of-false-positive-windows-defender-alerts-on-windows|Reduced
   likelihood of false positive Windows Defender alerts on Windows]]'
 - '[[Changes/Notion/2024-02-26-take-actions-from-mobile-notifications|Take actions
@@ -82,7 +82,7 @@ Source: https://github.com/ollama/ollama/releases/tag/v0.1.28
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2024-02-26 · Notion · [[Changes/Notion/2024-02-26-take-actions-from-mobile-notifications|Take actions from mobile notifications]]
-- Later: 2024-03-10 · Ollama · [[Changes/Ollama/2024-03-10-2-mobile-and-desktop-changes-in-v0-1-29|2 Mobile and Desktop changes in v0.1.29]]
+- Later: 2024-03-07 · Raycast · [[Changes/Raycast/2024-03-07-new-ai-chat|New AI Chat]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

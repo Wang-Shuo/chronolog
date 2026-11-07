@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6ef4a9ff459cfa8ae1ab2cd90704076a55fd11a767ece0124fdef9d1e2097cfb
+machine_hash: 483f617c9f7bc8fc194034e67285cf85f0136527d12b3c6412dddcff7256c0b7
 product: notion
 product_name: Notion
 record:
@@ -80,7 +80,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2022-02-09 · Synthesia · [[Changes/Synthesia/2022-02-09-we-ve-updated-our-selection-of-shapes-and-added-smart-controls-for-additional-ed|Updated Shapes]]
-- Later: 2022-03-03 · Notion · [[Changes/Notion/2022-03-03-better-databases-with-quick-filters-the-redesigned-teams-sidebar-and-synced-data|Better Databases with quick filters, the redesigned Teams sidebar, and Synced…]]
+- Later: 2022-02-23 · Raycast · [[Changes/Raycast/2022-02-23-emoji-picker|Emoji Picker 🎉 🥳]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

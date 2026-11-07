@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8312184a71295fb9eac3930f4f3c11845a3963db95aa635715ac458024e7b792
+machine_hash: a985eb1d12a377423907d31deb92b2f84b3ca646d8130014f03725c88e337c83
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -51,12 +51,12 @@ record:
   title: 4 Collaboration changes in Share files and folders…
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-09-05-9-collaboration-changes-in-v2026-9-2|9 Collaboration
-  changes in v2026.9.2]]'
-- '[[Changes/ChatGPT/2026-09-08-share-a-prompt-share-the-prompt-for-a-generated-image-so-others-can-create-their|Share
-  a prompt]]'
 - '[[Changes/OpenClaw/2026-09-08-4-collaboration-changes-in-v2026-9-3|4 Collaboration
   changes in v2026.9.3]]'
+- '[[Changes/Raycast/2026-09-08-root-search-apps-can-now-be-found-by-their-executable-name-or-execution-alias-e|Root
+  Search : Apps can now be found by their executable name or execution alias…]]'
+- '[[Changes/Raycast/2026-09-08-root-search-apps-sharing-a-name-are-now-disambiguated-in-search-and-app-pickers|Root
+  Search : Apps sharing a name are now disambiguated in search and app pickers]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-09-share-files-and-folders-from-your-library-37c26e4d|chatgpt-2026-09-09-share-files-and-folders-from-your-library-37c26e4d]]'
 source_type: chatgpt_changelog
 theme: collaboration
@@ -94,7 +94,7 @@ Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#share-
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-09-08 · OpenClaw · [[Changes/OpenClaw/2026-09-08-4-collaboration-changes-in-v2026-9-3|4 Collaboration changes in v2026.9.3]]
+- Earlier: 2026-09-08 · Raycast · [[Changes/Raycast/2026-09-08-root-search-apps-sharing-a-name-are-now-disambiguated-in-search-and-app-pickers|Root Search : Apps sharing a name are now disambiguated in search and app pickers]]
 - Later: 2026-09-09 · Codex CLI · [[Changes/Codex CLI/2026-09-09-6-collaboration-changes-in-rust-v0-154-0|6 Collaboration changes in rust-v0.154.0]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: efc0eb0c32195fbf81a6aa9725fb382df844dd3d31fdd6eb5dff21469caf62da
+machine_hash: c387e12155af6456922b3792e67e4de8eec4d1c563cf2ffc78bba5ff2710c3d8
 product: aider
 product_name: Aider
 record:
@@ -90,7 +90,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2024-09-25 · Open WebUI · [[Changes/Open WebUI/2024-09-25-katex-rendering-improvement-resolved-specific-corner-cases-in-katex-rendering-to|🔧 KaTeX Rendering Improvement]]
-- Later: 2024-10-08 · Descript · [[Changes/Descript/2024-10-08-help-center-overhaul|Help center overhaul]]
+- Later: 2024-10-03 · AnythingLLM · [[Changes/AnythingLLM/2024-10-03-export-embedded-chat-history-by-shatfield4-in-https-github-com-mintplex-labs-any|Export embedded chat history]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

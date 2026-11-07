@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 7682cabb81c77f67cab2ceb35f1e89ca75500f8d9fc2e6bcdec82dcf01fad3e1
+machine_hash: f1f6b9d79d9dcc6d30208e1c0748d95e6b23bdb363fcc49a775333e841dc9664
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -43,10 +43,11 @@ record:
   title: JavaScript SDK
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2025-09-08-text-to-speech|Text to Speech]]'
 - '[[Changes/ElevenLabs/2025-09-08-new-endpoints|New Endpoints]]'
 - '[[Changes/ChatGPT/2025-09-09-last-month-we-announced-that-everyone-now-has-access-to-advanced-voice-mode-with-d861d2|ChatGPT
   Voice Update]]'
+- '[[Changes/Superwhisper/2025-09-10-custom-mode-icons-audio-device-enhancements|Custom
+  Mode Icons & Audio Device Enhancements]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2025-09-15-2025-09-15-0a9f0a8a|elevenlabs-2025-09-15-2025-09-15-0a9f0a8a]]'
 source_type: elevenlabs_changelog
 theme: voice
@@ -81,7 +82,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2025-09-09 · ChatGPT · [[Changes/ChatGPT/2025-09-09-last-month-we-announced-that-everyone-now-has-access-to-advanced-voice-mode-with-d861d2|ChatGPT Voice Update]]
+- Earlier: 2025-09-10 · Superwhisper · [[Changes/Superwhisper/2025-09-10-custom-mode-icons-audio-device-enhancements|Custom Mode Icons & Audio Device Enhancements]]
 - Later: 2025-09-23 · Suno · [[Changes/Suno/2025-09-23-clearer-more-immersive-audio|Clearer, more immersive audio]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3af6121b791a402d0324bc0c6830e77466280c1f7ba18e006050d33c8ef911bc
+machine_hash: da476bbf758d2546715c1cb2daca886ae71f5a631840f62219faf2e0f8c6a201
 product: dify
 product_name: Dify
 record:
@@ -42,10 +42,10 @@ record:
   title: 2 Voice and Audio changes in 0.6.7
   type: change
 related_changes:
-- '[[Changes/Midjourney/2024-04-27-a-few-cool-features-in-rooms|A few cool features
-  in rooms]]'
-- '[[Changes/Midjourney/2024-04-27-room-plans-hopefully-next-week|Room plans (hopefully
-  next week)]]'
+- '[[Changes/Superwhisper/2024-04-30-add-mute-while-recording-options-in-audio-settings|Add
+  "Mute while recording" options in audio settings]]'
+- '[[Changes/Superwhisper/2024-04-30-make-sure-system-audio-recording-is-stopped-when-recording-is-completed|Make
+  sure system audio recording is stopped when recording is completed]]'
 - '[[Changes/Synthesia/2024-05-07-clone-your-voice-in-english-and-use-it-in-29-other-languages-the-recording-takes|Voice
   Cloning: your voice in 29 languages]]'
 source_release: '[[Releases/Dify/dify-2024-05-09-0-6-7-github-154885497-ccce31f0|dify-2024-05-09-0-6-7-github-154885497-ccce31f0]]'

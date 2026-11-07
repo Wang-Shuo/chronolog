@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 21d07ab347e4c309881cf1d187d48014f2e5531f928d5f7ef8e2b0cae2f8fcda
+machine_hash: 1ace5d6dc612d121520ab4f5982daadd622fb7d6f44f885f85b282a9ae88a84d
 product: microsoft-365-copilot
 product_name: Microsoft 365 Copilot
 record:
@@ -44,10 +44,10 @@ record:
     App)
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-07-08-27714-app-server-document-thread-and-turn-ids-are-uuid7-owenlin0|♯27714
-  app-server: document thread and turn IDs are UUID7 @owenlin0]]'
 - '[[Changes/OpenClaw/2026-07-13-13-files-and-data-changes-in-v2026-7-1|13 Files and
   Data changes in v2026.7.1]]'
+- '[[Changes/Superwhisper/2026-07-13-new-installations-now-use-superwhisper-instead-of-documents-superwhisper-as-thei|New
+  installations now use ~/superwhisper instead of ~/Documents/superwhisper…]]'
 - '[[Changes/Claude Code/2026-07-15-claude-in-chrome-hardened-file-upload-path-validation|Claude
   in Chrome: hardened file-upload path validation]]'
 source_release: '[[Releases/Microsoft 365 Copilot/microsoft-365-copilot-2026-07-15-2026-07-15-41bc4811|microsoft-365-copilot-2026-07-15-2026-07-15-41bc4811]]'

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8eca4da80b909380dd5dd49b48765b19bffc91c909d4ffec4171f8f4aac2f68f
+machine_hash: 87d928a2b06c8177b4e5bb8556c29091bdad5600ebe618e9a8267ff4a69273bd
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,12 @@ record:
   title: 2 Interface Experience changes in v2.1.163
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-02-2-interface-experience-changes-in-v2-1-161|2 Interface
-  Experience changes in v2.1.161]]'
-- '[[Changes/Claude Code/2026-06-03-clicking-a-slash-command-in-the-autocomplete-menu-now-fills-it-into-your-prompt|Clicking
-  a slash command in the autocomplete menu now fills it into your prompt…]]'
-- '[[Changes/Kimi Code/2026-06-03-2-interface-experience-changes-in-kimi-code-0-9-0|2
-  Interface Experience changes in Kimi Code 0.9.0]]'
+- '[[Changes/Krea/2026-06-03-ideogram-v4-0-is-now-available-in-krea|Ideogram v4.0
+  is now available in Krea]]'
+- '[[Changes/Raycast/2026-06-03-emoji-picker-search-screenshots-add-zoom-support-to-customize-grid-size|Emoji
+  Picker & Search Screenshots: Add zoom support to customize grid size]]'
+- '[[Changes/Raycast/2026-06-03-2-interface-experience-changes-in-raycast-windows-0-62|2
+  Interface Experience changes in Raycast windows 0.62]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-04-v2-1-163-github-334509318-c6b9f988|claude-code-2026-06-04-v2-1-163-github-334509318-c6b9f988]]'
 source_type: github_releases
 theme: interface-experience
@@ -88,7 +88,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.163
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-06-03 · Kimi Code · [[Changes/Kimi Code/2026-06-03-2-interface-experience-changes-in-kimi-code-0-9-0|2 Interface Experience changes in Kimi Code 0.9.0]]
+- Earlier: 2026-06-03 · Raycast · [[Changes/Raycast/2026-06-03-2-interface-experience-changes-in-raycast-windows-0-62|2 Interface Experience changes in Raycast windows 0.62]]
 - Later: 2026-06-04 · Codex CLI · [[Changes/Codex CLI/2026-06-04-2-interface-experience-changes-in-rust-v0-137-0|2 Interface Experience changes in rust-v0.137.0]]
 <!-- chronolog:end -->
 

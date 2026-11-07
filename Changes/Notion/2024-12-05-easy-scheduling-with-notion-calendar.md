@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: e5f40e4812868a027d8852c4d8f3242e6b1a132059c1f7b6df58e46bbf25c829
+machine_hash: 132efd3657f8328cd1827420dcf88a9a6ee9cc4cf59f8d8cdbdc29c6d5b1306a
 product: notion
 product_name: Notion
 record:
@@ -50,12 +50,12 @@ record:
   title: Easy scheduling with Notion Calendar
   type: change
 related_changes:
-- '[[Changes/Gamma/2024-11-06-until-now-there-hasn-t-been-a-way-to-share-custom-themes-anyone-outside-your-wor|Theme
-  sharing link]]'
 - '[[Changes/Open WebUI/2024-11-19-2-collaboration-changes-in-v0-4-0|2 Collaboration
   changes in v0.4.0]]'
 - '[[Changes/Aider/2024-11-26-skip-suggesting-files-that-share-names-with-files-already-in-chat|Skip
   suggesting files that share names with files already in chat]]'
+- '[[Changes/AnythingLLM/2024-11-26-2-collaboration-changes-in-v1-3-0|2 Collaboration
+  changes in v1.3.0]]'
 source_release: '[[Releases/Notion/notion-2024-12-05-https-www-notion-com-releases-2024-12-05-73ff5e1f|notion-2024-12-05-https-www-notion-com-releases-2024-12-05-73ff5e1f]]'
 source_type: notion_changelog
 theme: collaboration
@@ -88,7 +88,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2024-11-26 · Aider · [[Changes/Aider/2024-11-26-skip-suggesting-files-that-share-names-with-files-already-in-chat|Skip suggesting files that share names with files already in chat]]
+- Earlier: 2024-11-26 · AnythingLLM · [[Changes/AnythingLLM/2024-11-26-2-collaboration-changes-in-v1-3-0|2 Collaboration changes in v1.3.0]]
 - Later: 2024-12-11 · Midjourney · [[Changes/Midjourney/2024-12-11-tips|Tips]]
 <!-- chronolog:end -->
 

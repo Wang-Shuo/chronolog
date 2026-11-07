@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: pricing
-machine_hash: 02bde6bd6d61abbcf13bed201040f1dadfb2eba490dbea90f2dbd7147536bc74
+machine_hash: a1008ad1481b5f636cd5867f5355c53f89af7de0f4162be51ee0503bd6e037be
 product: midjourney
 product_name: Midjourney
 record:
@@ -43,8 +43,7 @@ record:
   title: We're doing another pricing survey today.
   type: change
 related_changes:
-- '[[Changes/Gemini/2025-05-20-get-more-from-the-gemini-app-with-the-google-ai-pro-subscription|Get
-  more from the Gemini app with the Google AI Pro subscription]]'
+- '[[Changes/Raycast/2025-06-11-bring-your-own-key|Bring Your Own Key]]'
 - '[[Changes/Midjourney/2025-06-16-we-also-need-your-help-figuring-out-how-to-price-this-release-we-are-extremely-c|We
   also need your help figuring out how to price this release!]]'
 - '[[Changes/Midjourney/2025-06-16-this-first-survey-is-also-a-little-weird-but-it-s-focused-on-helping-us-figure-o|This

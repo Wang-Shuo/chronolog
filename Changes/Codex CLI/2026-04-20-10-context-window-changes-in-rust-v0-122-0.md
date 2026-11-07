@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 90660bb983ef2eabac99447be004d7ce7c2cfee4fe310d36ffb6f93aae93dfd3
+machine_hash: 01d8e25bf85d66b81decda120fdfce14efa6a57c922cbe8ef10d35a56e899a08
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -62,10 +62,10 @@ record:
   title: 10 Context Window changes in rust-v0.122.0
   type: change
 related_changes:
-- '[[Changes/Descript/2026-04-16-click-here-https-web-descript-com-view-settings-account-active-api-to-get-your-a|Click
-  here((source link) to get…]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-16-add-statusline-command-with-footer-alias-to-customize-which-items-appear-in-the|Add
   /statusline command (with /footer alias) to customize which items appear…]]'
+- '[[Changes/Devin/2026-04-17-this-release-also-includes-a-range-of-smaller-fixes-and-polish-sessions-now-indi|This
+  release also includes a range of smaller fixes and polish]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-17-3-context-window-changes-in-v1-0-32|3 Context
   Window changes in v1.0.32]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-04-20-rust-v0-122-0-github-311361536-9a010c0e|codex-cli-2026-04-20-rust-v0-122-0-github-311361536-9a010c0e]]'

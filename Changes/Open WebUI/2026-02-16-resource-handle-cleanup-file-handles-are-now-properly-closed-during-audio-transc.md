@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1e9cf52cb24e857e449f655347ae7f4a81921a803443b0311ad6f3363e2d834c
+machine_hash: d13166fa41e39f447bdde3b6ff7bd0ad83c0988bac151afe91bde579d2fbffc5
 product: open-webui
 product_name: Open WebUI
 record:
@@ -45,12 +45,12 @@ record:
     audio…
   type: change
 related_changes:
-- '[[Changes/Descript/2026-02-10-better-lip-sync-and-timing-for-translations|Better
-  lip sync and timing for translations]]'
 - '[[Changes/ChatGPT/2026-02-12-we-re-making-an-update-to-chatgpt-voice-that-improves-its-ability-to-follow-user|ChatGPT
   Voice Update]]'
 - "[[Changes/Open WebUI/2026-02-12-audio-service-timeout-handling-audio-transcription-and-text-to-speech-requests-n|\U0001F50C
   Audio service timeout handling. Audio transcription and text-to-speech…]]"
+- '[[Changes/Superwhisper/2026-02-13-add-microphone-select-to-tray-menu-only-available-with-enhanced-audio-enabled|Add
+  microphone select to tray menu (only available with Enhanced Audio enabled)]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-02-16-v0-8-2-github-286715828-a462c4be|open-webui-2026-02-16-v0-8-2-github-286715828-a462c4be]]'
 source_type: github_releases
 theme: voice
@@ -86,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-02-12 · Open WebUI · [[Changes/Open WebUI/2026-02-12-audio-service-timeout-handling-audio-transcription-and-text-to-speech-requests-n|🔌 Audio service timeout handling. Audio transcription and text-to-speech…]]
+- Earlier: 2026-02-13 · Superwhisper · [[Changes/Superwhisper/2026-02-13-add-microphone-select-to-tray-menu-only-available-with-enhanced-audio-enabled|Add microphone select to tray menu (only available with Enhanced Audio enabled)]]
 - Later: 2026-02-23 · ElevenLabs · [[Changes/ElevenLabs/2026-02-23-javascript-sdk|JavaScript SDK]]
 <!-- chronolog:end -->
 

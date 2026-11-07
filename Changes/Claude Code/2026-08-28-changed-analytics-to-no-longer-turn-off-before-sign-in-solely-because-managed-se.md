@@ -14,12 +14,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 61731bf8c319190a349fcde353d2a3b5c8550104b7e79c66466c71cd57aba2c6
+machine_hash: 57b890461010d02da1b7c58b936d52f3189cf38b8888d93eb0240f72759fd2d4
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,10 +46,10 @@ record:
   title: Changed analytics to no longer turn off before sign-in solely because managed…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-26-3-account-and-access-changes-in-v2-1-247|3 Account
-  and Access changes in v2.1.247]]'
 - '[[Changes/Codex CLI/2026-08-26-2-account-and-access-changes-in-rust-v0-150-0|2
   Account and Access changes in rust-v0.150.0]]'
+- '[[Changes/Devin/2026-08-26-streamlined-mcp-marketplace-install-and-oauth-connect|Streamlined
+  MCP Marketplace Install and OAuth Connect]]'
 - '[[Changes/GitHub Copilot CLI/2026-08-27-2-account-and-access-changes-in-v1-0-81|2
   Account and Access changes in v1.0.81]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-28-v2-1-251-github-378586104-42ac2f96|claude-code-2026-08-28-v2-1-251-github-378586104-42ac2f96]]'
@@ -89,7 +89,7 @@ type: change
 ## Nearby in Account and Access
 
 - Earlier: 2026-08-27 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-08-27-2-account-and-access-changes-in-v1-0-81|2 Account and Access changes in v1.0.81]]
-- Later: 2026-08-28 · OpenCode · [[Changes/OpenCode/2026-08-28-2-account-and-access-changes-in-v1-18-25-1|2 Account and Access changes in v1.18.25 + 1]]
+- Later: 2026-08-28 · Devin · [[Changes/Devin/2026-08-28-authentication|Authentication]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

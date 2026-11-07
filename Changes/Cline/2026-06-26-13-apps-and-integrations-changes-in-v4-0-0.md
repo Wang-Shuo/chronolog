@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 13167433a8723e36a4c1c885a420a7b93d3861ba16493d7afdcc088702c72a65
+machine_hash: 73641c389b49cc6ad1704f75c9d27433f30bbf320da56251c643d0b7b3b22433
 product: cline
 product_name: Cline
 record:
@@ -156,7 +156,7 @@ Source: https://github.com/cline/cline/releases/tag/v4.0.0
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-06-25 · Ollama · [[Changes/Ollama/2026-06-25-docs-redesign-docs-landing-and-integrations-overview-by-hoyyeva-in-https-github|docs: redesign docs landing and integrations overview]]
-- Later: 2026-06-26 · Kimi Code · [[Changes/Kimi Code/2026-06-26-plugins-now-support-declaring-lifecycle-hooks-in-kimi-plugin-json-to-run-scripts|Plugins now support declaring lifecycle hooks in kimi.plugin.json to run scripts…]]
+- Later: 2026-06-26 · Devin · [[Changes/Devin/2026-06-26-mcp-installation-out-of-date-banner|MCP "Installation Out of Date" Banner]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

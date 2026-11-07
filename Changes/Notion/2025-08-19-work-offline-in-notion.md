@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: d3322888ca28a6d19512c1816b252eb66651b8d04c40ac00ba1122c1293b56e5
+machine_hash: 83c36fab03cdc92a81d4af5f52ef5de975f4b52196324bc0769177cc04f538ce
 product: notion
 product_name: Notion
 record:
@@ -49,8 +49,8 @@ record:
   title: Work offline in Notion
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-08-14-2-mobile-and-desktop-changes-in-v0-1-21|2 Mobile
-  and Desktop changes in v0.1.21]]'
+- '[[Changes/AnythingLLM/2025-08-15-mobile-sync-support-by-timothycarambat-in-https-github-com-mintplex-labs-anythin|Mobile
+  sync support]]'
 - '[[Changes/Ollama/2025-08-15-reduced-size-of-installation-on-windows-and-linux|Reduced
   size of installation on Windows and Linux]]'
 - '[[Changes/Notion/2025-08-19-notion-mail-is-now-on-ios|Notion Mail is now on iOS]]'

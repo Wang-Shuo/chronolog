@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 407de14bcedb4425feda9a38e49b8bc29348672117fa83c6b9a529b9311a0d5b
+machine_hash: fdc276725ad4bc60d4642cb6fe0ec5864b8d9f26df23ece310199411402fa646
 product: cline
 product_name: Cline
 record:
@@ -49,8 +49,8 @@ record:
     creates…'
   type: change
 related_changes:
-- '[[Changes/Midjourney/2024-08-16-we-re-releasing-a-new-web-editor-today|We''re releasing
-  a new web editor today!]]'
+- '[[Changes/AnythingLLM/2024-08-19-slash-commands-edit-bug-fix-by-shatfield4-in-https-github-com-mintplex-labs-anyt|Slash
+  commands edit bug fix]]'
 - '[[Changes/Dify/2024-08-19-3-editor-experience-changes-in-0-7-1|3 Editor Experience
   changes in 0.7.1]]'
 - '[[Changes/Descript/2024-08-27-general-editor-updates|General Editor updates]]'
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2024-08-27 · Descript · [[Changes/Descript/2024-08-27-general-editor-updates|General Editor updates]]
-- Later: 2024-09-04 · Open WebUI · [[Changes/Open WebUI/2024-09-04-missing-chat-completion-response-headers-ensured-proper-return-of-proxied-respon|🔄 Missing Chat Completion Response Headers]]
+- Later: 2024-09-03 · Devin · [[Changes/Devin/2024-09-03-send-devin-code-reviews-in-product|Send Devin code reviews in product]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

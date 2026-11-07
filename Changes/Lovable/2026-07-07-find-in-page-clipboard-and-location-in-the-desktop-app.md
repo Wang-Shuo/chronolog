@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 0c0687b9d32fb9df062965e973414747329aac3d2446c79ea3729f7e0f41f318
+machine_hash: c8665eb5b047412d2d8584d587ee7350769716a8f5babf107e6740a83bf9bb84
 product: lovable
 product_name: Lovable
 record:
@@ -50,8 +50,8 @@ record:
   title: Find in page, clipboard, and location in the desktop app
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-07-06-14-mobile-and-desktop-changes-in-v1-17-14|14 Mobile
-  and Desktop changes in v1.17.14]]'
+- '[[Changes/Superwhisper/2026-07-06-now-requires-macos-14-or-later|Now requires macOS
+  14 or later]]'
 - '[[Changes/Claude/2026-07-07-claude-cowork-on-web-and-mobile|Claude Cowork on web
   and mobile]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-07-3-mobile-and-desktop-changes-in-v1-0-69|3

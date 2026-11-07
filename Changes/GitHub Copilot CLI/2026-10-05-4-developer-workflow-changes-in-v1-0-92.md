@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3f2fca18d447f098bf7a6ac3618f24180d37ea207345adf8da56d472aad7a648
+machine_hash: 1ffacb14492cf5061fee91a5ea45c2283fbaebd7c89612c1e85f02af576ddfa1
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -50,12 +50,12 @@ record:
   title: 4 Developer Workflow changes in v1.0.92
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-10-01-complete-statically-analyzable-read-only-shell-pipelines-can-now-enter-execution|Complete,
-  statically analyzable read-only shell pipelines can now enter…]]'
-- '[[Changes/Claude Code/2026-10-02-3-developer-workflow-changes-in-v2-1-288|3 Developer
-  Workflow changes in v2.1.288]]'
-- '[[Changes/Claude Code/2026-10-05-5-developer-workflow-changes-in-v2-1-290|5 Developer
-  Workflow changes in v2.1.290]]'
+- '[[Changes/Devin/2026-10-05-terminal-tab-in-the-session-workspace|Terminal Tab in
+  the Session Workspace]]'
+- '[[Changes/Devin/2026-10-05-bitbucket-data-center-pr-reviewers|Bitbucket Data Center
+  PR Reviewers]]'
+- '[[Changes/Devin/2026-10-05-pr-hover-cards-in-the-owning-session|PR Hover Cards
+  in the Owning Session]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-10-05-v1-0-92-github-404054639-a6ba3455|github-copilot-cli-2026-10-05-v1-0-92-github-404054639-a6ba3455]]'
 source_type: github_releases
 theme: developer-workflow
@@ -105,8 +105,8 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.92
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-10-05 · Claude Code · [[Changes/Claude Code/2026-10-05-5-developer-workflow-changes-in-v2-1-290|5 Developer Workflow changes in v2.1.290]]
-- Later: 2026-10-06 · Claude Code · [[Changes/Claude Code/2026-10-06-2-developer-workflow-changes-in-v2-1-292|2 Developer Workflow changes in v2.1.292]]
+- Earlier: 2026-10-05 · Devin · [[Changes/Devin/2026-10-05-pr-hover-cards-in-the-owning-session|PR Hover Cards in the Owning Session]]
+- Later: 2026-10-05 · Raycast · [[Changes/Raycast/2026-10-05-2-developer-workflow-changes-in-raycast-macos-2-6|2 Developer Workflow changes in Raycast macos 2.6]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

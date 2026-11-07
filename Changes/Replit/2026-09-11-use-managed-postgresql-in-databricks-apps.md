@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 3376be813ad391bbe42d6fe4fc457ec4bafb94e68e69fb117f68566cb3534e86
+machine_hash: 3dce9730640454d7fbbcc92523bbd68c16939707bb178730c56487c37eb25c39
 product: replit
 product_name: Replit
 record:
@@ -46,12 +46,12 @@ record:
   title: Use managed PostgreSQL in Databricks Apps
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-09-11-connect-other-mcp-clients-to-the-lovable-mcp-server|Connect
-  other MCP clients to the Lovable MCP server]]'
-- '[[Changes/OpenClaw/2026-09-11-22-apps-and-integrations-changes-in-v2026-9-4|22
-  Apps and Integrations changes in v2026.9.4]]'
-- '[[Changes/OpenClaw/2026-09-11-you-can-now-search-installed-and-available-plugins-together-browse-by-purpose-an|Search
-  installed and available plugins together, browse by purpose, and keep…]]'
+- '[[Changes/Raycast/2026-09-11-we-rebuilt-the-core-of-raycast-ai-you-can-now-give-ai-chat-a-task-and-it-works-o|We
+  rebuilt the core of Raycast AI]]'
+- '[[Changes/Raycast/2026-09-11-2-apps-and-integrations-changes-in-raycast-macos-2-3|2
+  Apps and Integrations changes in Raycast macos 2.3]]'
+- '[[Changes/Raycast/2026-09-11-we-rebuilt-the-core-of-raycast-ai-you-can-now-give-ai-chat-a-task-and-it-works-o-ee32d8|We
+  rebuilt the core of Raycast AI]]'
 source_release: '[[Releases/Replit/replit-2026-09-11-2026-09-11-fe1ab3d8|replit-2026-09-11-2026-09-11-fe1ab3d8]]'
 source_type: replit_changelog
 theme: apps-integrations
@@ -81,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-09-11 · OpenClaw · [[Changes/OpenClaw/2026-09-11-you-can-now-search-installed-and-available-plugins-together-browse-by-purpose-an|Search installed and available plugins together, browse by purpose, and keep…]]
+- Earlier: 2026-09-11 · Raycast · [[Changes/Raycast/2026-09-11-we-rebuilt-the-core-of-raycast-ai-you-can-now-give-ai-chat-a-task-and-it-works-o-ee32d8|We rebuilt the core of Raycast AI]]
 - Later: 2026-09-14 · ChatGPT · [[Changes/ChatGPT/2026-09-14-for-new-health-plugin-connections-chatgpt-will-now-default-to-each-user-s-global|For new Health plugin connections, ChatGPT will now default to each user’s global…]]
 <!-- chronolog:end -->
 

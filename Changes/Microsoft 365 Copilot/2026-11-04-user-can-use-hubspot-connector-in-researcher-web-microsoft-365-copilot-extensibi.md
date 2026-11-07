@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 1a2508a8f79a25596ab12c2dc5f7530278e7ec4f671112832bf25d9162c8b662
+machine_hash: 54d0067bb321cea57119fbac2fd701588a05bcba9226a09012b5d1b33751e3a2
 product: microsoft-365-copilot
 product_name: Microsoft 365 Copilot
 record:
@@ -91,7 +91,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-11-04 · Dify · [[Changes/Dify/2026-11-04-15-apps-and-integrations-changes-in-1-19-0|15 Apps and Integrations changes in 1.19.0]]
-- Later: 2026-11-05 · OpenClaw · [[Changes/OpenClaw/2026-11-05-5-apps-and-integrations-changes-in-v2026-11-1|5 Apps and Integrations changes in v2026.11.1]]
+- Later: 2026-11-04 · Raycast · [[Changes/Raycast/2026-11-04-2-apps-and-integrations-changes-in-raycast-macos-2-11|2 Apps and Integrations changes in Raycast macos 2.11]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

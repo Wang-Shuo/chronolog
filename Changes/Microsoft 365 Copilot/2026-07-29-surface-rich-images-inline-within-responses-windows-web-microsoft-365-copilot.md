@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 942c4c7f0c4f09b14dcfd4a5f2adc7e51ca96e18c061ec4c10a5af86e05b557f
+machine_hash: eba72a060a941e11575a8fb5706ed9efa81b49951787afe807148c7337d85dfe
 product: microsoft-365-copilot
 product_name: Microsoft 365 Copilot
 record:
@@ -45,10 +45,8 @@ record:
     Copilot)
   type: change
 related_changes:
-- '[[Changes/Google Antigravity/2026-07-28-added-preview-temporary-tabs-to-the-auxiliary-pane-allowing-files-to-open-in-a-t|Added
-  preview (temporary) tabs to the auxiliary pane, allowing files to open…]]'
-- '[[Changes/Codex CLI/2026-07-29-3-editor-experience-changes-in-rust-v0-146-0|3 Editor
-  Experience changes in rust-v0.146.0]]'
+- '[[Changes/Devin/2026-07-29-word-level-diff-highlights|Word-Level Diff Highlights]]'
+- '[[Changes/Devin/2026-07-29-idp-group-improvements|IdP Group Improvements]]'
 - '[[Changes/Microsoft 365 Copilot/2026-07-29-redesign-overview-experience-in-copilot-notebooks-in-onenote-windows-mac-web-one|Redesign
   Overview experience in Copilot notebooks in OneNote Windows, Mac, Web (OneNote)]]'
 source_release: '[[Releases/Microsoft 365 Copilot/microsoft-365-copilot-2026-07-29-2026-07-29-599fab6b|microsoft-365-copilot-2026-07-29-2026-07-29-599fab6b]]'
@@ -87,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-07-29 · Codex CLI · [[Changes/Codex CLI/2026-07-29-3-editor-experience-changes-in-rust-v0-146-0|3 Editor Experience changes in rust-v0.146.0]]
+- Earlier: 2026-07-29 · Devin · [[Changes/Devin/2026-07-29-idp-group-improvements|IdP Group Improvements]]
 - Later: 2026-07-29 · OpenHands · [[Changes/OpenHands/2026-07-29-feat-allow-overwriting-a-secret-value-from-the-edit-form-by-hieptl-in-https-gith|feat: allow overwriting a secret value from the edit form]]
 <!-- chronolog:end -->
 

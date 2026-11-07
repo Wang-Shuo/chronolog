@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 8180b6791c80e92a4f282ea9f23eaa50c1f0f550d0d28b992c7816cdfe911393
+machine_hash: 9dfe78af703ad3c6087e81b4ca208f32e66468c6dc96a0373ca8e5b34871b8c9
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -57,12 +57,12 @@ record:
   title: Introducing GPT-6 Astra
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-09-02-honor-gguf-model-defined-default-parameters|Honor GGUF
-  model defined default parameters]]'
 - '[[Changes/OpenCode/2026-09-02-core-limit-anthropic-thinking-block-binding-to-claude-5-1-models-so-older-deploy|Core
   Limit Anthropic thinking block binding to Claude 5.1+ models so older…]]'
 - '[[Changes/OpenCode/2026-09-02-default-provider-header-timeouts-to-five-minutes-so-slow-model-startups-fail-les|Default
   provider header timeouts to five minutes so slow model startups fail less often]]'
+- '[[Changes/Superwhisper/2026-09-02-2-model-support-changes-in-superwhisper-windows-1-6-5|2
+  Model Support changes in Superwhisper Windows 1.6.5]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-03-introducing-gpt-6-astra-d055fc02|chatgpt-2026-09-03-introducing-gpt-6-astra-d055fc02]]'
 source_type: chatgpt_changelog
 theme: model-support
@@ -93,7 +93,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-09-02 · OpenCode · [[Changes/OpenCode/2026-09-02-default-provider-header-timeouts-to-five-minutes-so-slow-model-startups-fail-les|Default provider header timeouts to five minutes so slow model startups fail less often]]
+- Earlier: 2026-09-02 · Superwhisper · [[Changes/Superwhisper/2026-09-02-2-model-support-changes-in-superwhisper-windows-1-6-5|2 Model Support changes in Superwhisper Windows 1.6.5]]
 - Later: 2026-09-03 · Claude Code · [[Changes/Claude Code/2026-09-03-2-model-support-changes-in-v2-1-260|2 Model Support changes in v2.1.260]]
 <!-- chronolog:end -->
 

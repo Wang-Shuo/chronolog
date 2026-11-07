@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 45bde4903f875836fdb17bc2b2d07b20b5b986623024f952081b1559de962027
+machine_hash: 0d6afbea5ea1481a866ceed989c52b0cd8c52ba57bc1ff0920a0f19279c772dc
 product: open-webui
 product_name: Open WebUI
 record:
@@ -98,7 +98,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2025-02-05 · Open WebUI · [[Changes/Open WebUI/2025-02-05-think-tag-display-issue-resolved-a-bug-where-the-think-tag-was-not-functioning-c|💡 "Think" Tag Display Issue]]
-- Later: 2025-02-06 · Aider · [[Changes/Aider/2025-02-06-4-model-support-changes-in-v0-74-0|4 Model Support changes in v0.74.0]]
+- Later: 2025-02-05 · Raycast · [[Changes/Raycast/2025-02-05-7-model-support-changes-in-raycast-macos-v1-1-91-0|7 Model Support changes in Raycast macos-v1 1.91.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c5377063b3ac3643583bf9e180744da982223453fe6a671310a172cb4847e3a0
+machine_hash: e22e5f0fe19a6ad61d338879deef6724fb6068f91799acc0b50226b5529adf43
 product: opencode
 product_name: OpenCode
 record:
@@ -93,7 +93,7 @@ Source: https://opencode.ai/changelog/v1.18.4
 ## Nearby in Model Support
 
 - Earlier: 2026-07-20 · Kimi Code · [[Changes/Kimi Code/2026-07-20-2-model-support-changes-in-kimi-code-0-28-0|2 Model Support changes in Kimi Code 0.28.0]]
-- Later: 2026-07-21 · Codex CLI · [[Changes/Codex CLI/2026-07-21-22-model-support-changes-in-rust-v0-145-0|22 Model Support changes in rust-v0.145.0]]
+- Later: 2026-07-20 · Superwhisper · [[Changes/Superwhisper/2026-07-20-experimental-s1-mini-model-and-tone-settings-for-more-control-over-your-transcri|Experimental S1-mini model and Tone settings for more control over your transcriptions]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

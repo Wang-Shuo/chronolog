@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a632f9cc3c12157b4fc9bf46367fc33eea93a952c1dc7b41c63be4cec91907df
+machine_hash: 8e248aa1656603096adaf3b906fc544f6355952e2fcb7722124d595e51771653
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -99,11 +99,11 @@ record:
   title: 26 Apps and Integrations changes in v0.1.18
   type: change
 related_changes:
-- '[[Changes/Cline/2025-08-04-refactor-use-mcp-icon-in-the-navbar-and-update-styling-by-sjf-in-https-github-co|refactor:
-  Use MCP icon in the navbar and update styling]]'
 - '[[Changes/ElevenLabs/2025-08-04-sdk-releases|SDK Releases]]'
 - '[[Changes/Gemini CLI/2025-08-05-24-apps-and-integrations-changes-in-v0-1-17|24
   Apps and Integrations changes in v0.1.17]]'
+- '[[Changes/LM Studio/2025-08-05-add-confirmation-toast-after-adding-an-mcp-server|Add
+  confirmation toast after adding an MCP server]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-08-06-v0-1-18-github-237823435-7c1f8990|gemini-cli-2025-08-06-v0-1-18-github-237823435-7c1f8990]]'
 source_type: github_releases
 theme: apps-integrations
@@ -197,8 +197,8 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.1.18
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-08-05 · Gemini CLI · [[Changes/Gemini CLI/2025-08-05-24-apps-and-integrations-changes-in-v0-1-17|24 Apps and Integrations changes in v0.1.17]]
-- Later: 2025-08-08 · Gamma · [[Changes/Gamma/2025-08-08-we-ve-just-launched-our-generate-api-in-beta-for-gamma-pro-users-now-you-can-cre|We’ve just launched our Generate API in beta for Gamma Pro users! Now you can…]]
+- Earlier: 2025-08-05 · LM Studio · [[Changes/LM Studio/2025-08-05-add-confirmation-toast-after-adding-an-mcp-server|Add confirmation toast after adding an MCP server]]
+- Later: 2025-08-08 · Devin · [[Changes/Devin/2025-08-08-perplexity-mcp-server|Perplexity MCP Server]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

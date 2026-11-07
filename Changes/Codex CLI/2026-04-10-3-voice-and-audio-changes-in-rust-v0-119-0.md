@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 04a2c1aa3aac21d5942ee39dd8853367a5260e3a9fd6ab73ca592f0c1b9e5d5f
+machine_hash: 05c6c63049b204800946f8f66f87a723eaa87d2265dd81a378fa9f90fa946f2b
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -47,9 +47,10 @@ record:
   title: 3 Voice and Audio changes in rust-v0.119.0
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-04-07-voices-5fda10|Voices]]'
 - '[[Changes/ElevenLabs/2026-04-07-swift-sdk|Swift SDK]]'
 - '[[Changes/ElevenLabs/2026-04-07-speech-to-text-f6e004|Speech to Text]]'
+- '[[Changes/Superwhisper/2026-04-08-2-voice-and-audio-changes-in-superwhisper-macos-2-12-0|2
+  Voice and Audio changes in Superwhisper macOS 2.12.0]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-04-10-rust-v0-119-0-github-307754801-19f169d1|codex-cli-2026-04-10-rust-v0-119-0-github-307754801-19f169d1]]'
 source_type: github_releases
 theme: voice
@@ -98,7 +99,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.119.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-04-07 · ElevenLabs · [[Changes/ElevenLabs/2026-04-07-speech-to-text-f6e004|Speech to Text]]
+- Earlier: 2026-04-08 · Superwhisper · [[Changes/Superwhisper/2026-04-08-2-voice-and-audio-changes-in-superwhisper-macos-2-12-0|2 Voice and Audio changes in Superwhisper macOS 2.12.0]]
 - Later: 2026-04-13 · Cursor · [[Changes/Cursor/2026-04-13-prompt-buttons-now-stay-in-place-while-voice-input-is-processing|Prompt buttons now stay in place while voice input is processing]]
 <!-- chronolog:end -->
 

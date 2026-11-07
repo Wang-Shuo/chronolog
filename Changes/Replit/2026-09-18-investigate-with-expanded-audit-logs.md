@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: f7833929267cb664b9ccea8beb8e34fa332e343f293fe4c695b6cc5dad4f2e3b
+machine_hash: d9022e256286dbd59c7f35bbbc304fbfb24dbe6f34367bf91349fe1230126327
 product: replit
 product_name: Replit
 record:
@@ -78,8 +78,8 @@ record:
   title: Investigate with expanded audit logs
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-18-4-safety-and-privacy-changes-in-v2-1-277|4 Safety
-  and Privacy changes in v2.1.277]]'
+- '[[Changes/Devin/2026-09-18-email-notifications-for-enterprise-and-security-profile-organizations|Email
+  Notifications for Enterprise and Security-Profile Organizations]]'
 - '[[Changes/Google Antigravity/2026-09-18-fixed-an-issue-where-permission-settings-accumulated-duplicate-entries-which-mad|Fixed
   an issue where permission settings accumulated duplicate entries, which made…]]'
 - '[[Changes/Kimi Code/2026-09-18-stop-asking-for-approval-of-bash-commands-that-cannot-be-statically-analyzed-in|Stop

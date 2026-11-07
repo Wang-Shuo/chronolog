@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: d54f99ed874913c20af4abc353889ad58ed242141b32c0da46ed892919373b6e
+machine_hash: 287f04ae96d5d022e017562549ef2b8530fcddf016c03e36422e3bc12f6976ad
 product: notion
 product_name: Notion
 record:
@@ -46,10 +46,10 @@ record:
   title: Build with Replit, manage with Notion
   type: change
 related_changes:
-- '[[Changes/Cline/2025-07-08-update-the-no-vscode-postmessage-eslint-rule-to-check-for-any-of-the-vscode-sdk|Update
-  the no-vscode-postmessage eslint rule to check for any of the vscode SDK…]]'
 - '[[Changes/Cline/2025-07-08-migrate-download-mcp-response-to-proto-by-celestial-vault-in-https-github-com-cl|migrate
   download MCP response to proto]]'
+- '[[Changes/Recraft/2025-07-09-with-mcp-ai-agents-like-claude-don-t-just-suggest-ideas-they-can-execute-them-di|With
+  MCP, AI agents like Claude don’t just suggest ideas]]'
 - '[[Changes/Dify/2025-07-10-10-apps-and-integrations-changes-in-1-6-0|10 Apps and
   Integrations changes in 1.6.0]]'
 source_release: '[[Releases/Notion/notion-2025-07-10-https-www-notion-com-releases-2025-07-10-ecf58afd|notion-2025-07-10-https-www-notion-com-releases-2025-07-10-ecf58afd]]'

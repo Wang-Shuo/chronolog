@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 589928058a0ac4b9acdfb5f6138b7a67b868d7557e11cd4312cad555d3e7ba54
+machine_hash: f13e4abbb18c12fe2d32a8674074cf41a3f0ff3ee0f6a74ff770c6474be094a7
 product: claude-code
 product_name: Claude Code
 record:
@@ -110,7 +110,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.251
 ## Nearby in Model Support
 
 - Earlier: 2026-08-27 · Qoder · [[Changes/Qoder/2026-08-27-frontier-models-smart-routing-qoder-brings-together-leading-models-without-locki|Frontier models, smart routing]]
-- Later: 2026-08-28 · OpenCode · [[Changes/OpenCode/2026-08-28-core-bedrock-reasoning-responses-no-longer-get-cached-into-unreplayable-empty-me|Core Bedrock reasoning responses no longer get cached into unreplayable empty messages]]
+- Later: 2026-08-28 · Krea · [[Changes/Krea/2026-08-28-veo-2-and-veo-3-sunset|Veo 2 and Veo 3 sunset]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

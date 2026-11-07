@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f4241cb3d4587d466c1e9e5c526bdb71f109ec8633d98b2e5374cbf6288905b7
+machine_hash: 3331b1b2474a66ccaba2b9a23fa74851da6f28417ecd7a9f985f9ecb0d078aa6
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,10 +45,10 @@ record:
     or shrinks
   type: change
 related_changes:
-- '[[Changes/Google Antigravity/2026-09-30-rendered-markdown-in-artifacts-and-in-files-opened-in-the-side-pane-can-now-be-e|Rendered
-  Markdown in artifacts and in files opened in the side pane can now…]]'
 - '[[Changes/OpenClaw/2026-09-30-17-interface-experience-changes-in-v2026-9-7|17 Interface
   Experience changes in v2026.9.7]]'
+- '[[Changes/AnythingLLM/2026-10-01-add-keyboard-navigation-and-autofocus-to-provider-search-menus-by-shatfield4-in|Add
+  keyboard navigation and autofocus to provider search menus]]'
 - '[[Changes/Codex CLI/2026-10-01-2-interface-experience-changes-in-rust-v0-160-0|2
   Interface Experience changes in rust-v0.160.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-10-01-v1-0-91-github-401192726-48b90d0c|github-copilot-cli-2026-10-01-v1-0-91-github-401192726-48b90d0c]]'

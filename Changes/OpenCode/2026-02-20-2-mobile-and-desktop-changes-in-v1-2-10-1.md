@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: cb5995e6ba794a2d16516db6f1cb402e6120efee0fa1dbd2b32697adc9baccf8
+machine_hash: 2688d4f0eb220c5d250b9d6972c78b03d70447017ab239bd8556e61dc5709503
 product: opencode
 product_name: OpenCode
 record:
@@ -42,12 +42,12 @@ record:
   title: 2 Mobile and Desktop changes in v1.2.10 + 1
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-02-19-terminal-editor-is-now-supported-on-windows|Terminal
-  editor is now supported on Windows]]'
 - '[[Changes/OpenCode/2026-02-19-46-mobile-and-desktop-changes-in-v1-2-7|46 Mobile
   and Desktop changes in v1.2.7]]'
 - '[[Changes/OpenCode/2026-02-19-2-mobile-and-desktop-changes-in-v1-2-8|2 Mobile and
   Desktop changes in v1.2.8]]'
+- '[[Changes/Raycast/2026-02-19-import-settings-and-data-importing-from-macos-raycast-now-includes-hotkeys-alias|Import
+  Settings and Data]]'
 source_release: '[[Releases/OpenCode/opencode-2026-02-20-v1-2-10-a71ccd57|opencode-2026-02-20-v1-2-10-a71ccd57]]'
 source_type: opencode_changelog
 theme: mobile-desktop
@@ -84,7 +84,7 @@ Source: https://opencode.ai/changelog/v1.2.10
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-02-19 · OpenCode · [[Changes/OpenCode/2026-02-19-2-mobile-and-desktop-changes-in-v1-2-8|2 Mobile and Desktop changes in v1.2.8]]
+- Earlier: 2026-02-19 · Raycast · [[Changes/Raycast/2026-02-19-import-settings-and-data-importing-from-macos-raycast-now-includes-hotkeys-alias|Import Settings and Data]]
 - Later: 2026-02-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-23-skill-files-saved-with-a-utf-8-bom-common-on-windows-editors-now-load-correctly|Skill files saved with a UTF-8 BOM (common on Windows editors) now load correctly…]]
 <!-- chronolog:end -->
 

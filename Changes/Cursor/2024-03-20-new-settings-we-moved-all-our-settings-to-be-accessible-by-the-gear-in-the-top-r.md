@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 049b2b5b1c7c351ad5f6655ff544e2ab2b126f10ab05855b2cb91dd646296801
+machine_hash: cff3cbfc888baa9e40d064e369ff589263eb59797b65a7f5216328093cefa007
 product: cursor
 product_name: Cursor
 record:
@@ -47,9 +47,9 @@ record:
     the top right'
   type: change
 related_changes:
-- '[[Changes/Descript/2024-03-12-we-ve-made-backend-changes-to-how-exports-and-publishes-are-processed-these-chan|Descript
-  makes backend changes to how Exports and Publishes are processed]]'
 - '[[Changes/Descript/2024-03-12-color-rendering-issues|Color rendering issues]]'
+- '[[Changes/Superwhisper/2024-03-13-global-shortcut-and-navigation-keys-for-mode-switch|Global
+  shortcut and navigation keys for mode switch]]'
 - "[[Changes/Open WebUI/2024-03-18-sidebar-ui-update-updated-sidebar-ui-to-feature-a-chat-menu-dropdown-replacing-t|\U0001F504
   Sidebar UI Update]]"
 source_release: '[[Releases/Cursor/cursor-2024-03-20-0-30-x-https-cursor-com-changelog-0-30-x-e7e3c53e|cursor-2024-03-20-0-30-x-https-cursor-com-changelog-0-30-x-e7e3c53e]]'
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2024-03-18 · Open WebUI · [[Changes/Open WebUI/2024-03-18-sidebar-ui-update-updated-sidebar-ui-to-feature-a-chat-menu-dropdown-replacing-t|🔄 Sidebar UI Update]]
-- Later: 2024-04-01 · Cursor · [[Changes/Cursor/2024-04-01-update-0-31-1-0-31-3-adds-back-in-ai-review-alpha-fixes-the-cursor-settings-menu|UPDATE (0.31.1–0.31.3): Adds back in AI Review (alpha), fixes…]]
+- Later: 2024-03-20 · Raycast · [[Changes/Raycast/2024-03-20-2-interface-experience-changes-in-raycast-macos-v1-1-70-0|2 Interface Experience changes in Raycast macos-v1 1.70.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

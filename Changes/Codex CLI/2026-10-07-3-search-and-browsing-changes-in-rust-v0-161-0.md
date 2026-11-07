@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 14851d9b73826e21351e6dc1a47343a5025f98bfee7d515a4298d1f6316d4753
+machine_hash: 35931f369900c106c373143c94905146ad2da524b72a95c64c7ac5a49464b6f6
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -101,7 +101,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.161.0
 ## Nearby in Search and Browsing
 
 - Earlier: 2026-10-05 · Claude Code · [[Changes/Claude Code/2026-10-05-changed-the-interactive-session-s-websearch-budget-to-refill-over-time-100-calls|Changed the interactive session's WebSearch budget to refill over time (100 calls/hour]]
-- Later: 2026-10-10 · Open WebUI · [[Changes/Open WebUI/2026-10-10-4-search-and-browsing-changes-in-v0-12-0|4 Search and Browsing changes in v0.12.0]]
+- Later: 2026-10-09 · Raycast · [[Changes/Raycast/2026-10-09-custom-ai-providers-you-can-now-give-custom-provider-models-raycast-s-web-search|Custom AI Providers]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

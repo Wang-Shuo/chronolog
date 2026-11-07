@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b19276a8248197a0e25594691daaba0ed24f4f6a1bae6d7e417a23c507adc9ce
+machine_hash: 4455d51741ca88fb185bd503aa96dd57a7f71754d871de83f5316fd67e03b6f2
 product: openclaw
 product_name: OpenClaw
 record:
@@ -140,12 +140,11 @@ record:
   title: 18 Developer Workflow changes in v2026.9.4
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-10-code-review-added-a-note-under-the-still-open-findings-list-in-follow-up-reviews|Code
-  Review Added a note under the still-open findings list in follow-up reviews]]'
 - '[[Changes/Dify/2026-09-10-4-developer-workflow-changes-in-1-17-1|4 Developer Workflow
   changes in 1.17.1]]'
 - '[[Changes/Claude Code/2026-09-11-added-otel-metrics-include-repository-to-tag-opentelemetry-metrics-and-events-wi|Added
   OTEL_METRICS_INCLUDE_REPOSITORY to tag OpenTelemetry metrics and events…]]'
+- '[[Changes/Devin/2026-09-11-azure-devops-citations|Azure DevOps Citations]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-09-11-v2026-9-4-6cdeafb2|openclaw-2026-09-11-v2026-9-4-6cdeafb2]]'
 source_type: openclaw_changelog
 theme: developer-workflow
@@ -236,7 +235,7 @@ Source: https://docs.openclaw.ai/releases/2026.9.4
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-09-11 · Claude Code · [[Changes/Claude Code/2026-09-11-added-otel-metrics-include-repository-to-tag-opentelemetry-metrics-and-events-wi|Added OTEL_METRICS_INCLUDE_REPOSITORY to tag OpenTelemetry metrics and events…]]
+- Earlier: 2026-09-11 · Devin · [[Changes/Devin/2026-09-11-azure-devops-citations|Azure DevOps Citations]]
 - Later: 2026-09-12 · Qoder · [[Changes/Qoder/2026-09-12-file-review-reduced-cpu-usage-when-multiple-code-diffs-are-expanded-alongside-an|File review: Reduced CPU usage when multiple code diffs are expanded alongside…]]
 <!-- chronolog:end -->
 

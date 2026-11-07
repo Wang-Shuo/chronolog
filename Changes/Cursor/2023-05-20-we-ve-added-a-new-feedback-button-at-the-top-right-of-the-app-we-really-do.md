@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 4e4092c95c5cf8b290252586f45dd3b5d679f1a6bfd6d18bad0ae93073a40ed3
+machine_hash: b4608c8e02c6b03b69c05cdbdbece200153f6b7e35f381c8ee8554ea786ebeb6
 product: cursor
 product_name: Cursor
 record:
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2023-05-17 · Cursor · [[Changes/Cursor/2023-05-17-a-better-cursor-tutor-onboarding|A better Cursor Tutor onboarding!]]
-- Later: 2023-05-30 · Dify · [[Changes/Dify/2023-05-30-chore-input-area-highlight-and-moblie-hide-tooltip-by-iamjoel-in-https-github-co|chore: input area highlight and moblie hide tooltip]]
+- Later: 2023-05-24 · Raycast · [[Changes/Raycast/2023-05-24-emoji-the-inline-emoji-picker-now-uses-the-same-alias-names-as-slack-and-github|Emoji: The inline emoji picker now uses the same alias names as Slack and Github…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

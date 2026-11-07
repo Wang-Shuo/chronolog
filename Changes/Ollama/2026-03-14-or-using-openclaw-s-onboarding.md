@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0b39f4fa1b8d39d0899fff928c90734fb405c728a2ce7355aeb0ca6ec37694a8
+machine_hash: ce54416accb1bd68e4ad77ecf59256c0f0ce8cb45863acffabf7d955a9325d1e
 product: ollama
 product_name: Ollama
 record:
@@ -41,10 +41,8 @@ record:
   title: Or using OpenClaw’s onboarding
   type: change
 related_changes:
-- '[[Changes/v0/2026-03-11-added-tooltip-to-disabled-new-chat-button-for-view-only-access|Added
-  tooltip to disabled New Chat button for view-only access]]'
-- '[[Changes/OpenCode/2026-03-12-2-interface-experience-changes-in-v1-2-25|2 Interface
-  Experience changes in v1.2.25]]'
+- '[[Changes/Devin/2026-03-13-session-list-improvements|Session List Improvements]]'
+- '[[Changes/Devin/2026-03-13-structured-output-modal|Structured Output Modal]]'
 - '[[Changes/OpenCode/2026-03-13-6-interface-experience-changes-in-v1-2-26|6 Interface
   Experience changes in v1.2.26]]'
 source_release: '[[Releases/Ollama/ollama-2026-03-14-v0-18-0-github-296861801-d01e9dff|ollama-2026-03-14-v0-18-0-github-296861801-d01e9dff]]'

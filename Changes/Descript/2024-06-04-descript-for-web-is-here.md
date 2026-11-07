@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: b56f8f81aa26dc22dd20e414c868c9077f69c808fb60831d1877fdac75e9f42c
+machine_hash: c7dcb1875b2ca942f1697ba5f37799d27999de3485164cb456910090deebe119
 product: descript
 product_name: Descript
 record:
@@ -49,12 +49,12 @@ record:
   title: Descript for Web is here
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2024-04-28-prompt-input-behavior-on-mobile-enter-key-prompt-submission-disabled-on-mobile-d|⌨️
-  Prompt Input Behavior on Mobile]]'
 - '[[Changes/Gemini/2024-04-30-the-gemini-mobile-app-is-available-in-more-languages|The
   Gemini mobile app is available in more languages]]'
 - "[[Changes/Open WebUI/2024-05-02-ios-pwa-icon-fix-corrected-ios-pwa-home-screen-icon-shape|\U0001F4F1
   iOS PWA Icon Fix: Corrected iOS PWA home screen icon shape]]"
+- '[[Changes/Raycast/2024-05-22-custom-window-management-commands|Custom Window Management
+  Commands]]'
 source_release: '[[Releases/Descript/descript-2024-06-04-665e365f94fa1d97d3fc73dc-63f9523b|descript-2024-06-04-665e365f94fa1d97d3fc73dc-63f9523b]]'
 source_type: canny_changelog
 theme: mobile-desktop
@@ -96,7 +96,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2024-05-02 · Open WebUI · [[Changes/Open WebUI/2024-05-02-ios-pwa-icon-fix-corrected-ios-pwa-home-screen-icon-shape|📱 iOS PWA Icon Fix: Corrected iOS PWA home screen icon shape]]
+- Earlier: 2024-05-22 · Raycast · [[Changes/Raycast/2024-05-22-custom-window-management-commands|Custom Window Management Commands]]
 - Later: 2024-06-05 · Gemini · [[Changes/Gemini/2024-06-05-the-gemini-mobile-app-is-available-in-europe|The Gemini mobile app is available in Europe]]
 <!-- chronolog:end -->
 

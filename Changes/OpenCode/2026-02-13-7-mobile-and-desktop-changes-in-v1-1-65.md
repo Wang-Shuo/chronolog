@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3340d46794c11caebf31ebd4cbc56f31ee8dc6ec6ae3eac99a818a44616fa57d
+machine_hash: 2b0b2121c59d94530cd6aca78fbcd37bfce4ffac1d199f07007439ee004a1db9
 product: opencode
 product_name: OpenCode
 record:
@@ -104,7 +104,7 @@ Source: https://opencode.ai/changelog/v1.1.65
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-02-13 · Claude Code · [[Changes/Claude Code/2026-02-13-added-windows-arm64-win32-arm64-native-binary-support|Added Windows ARM64 (win32-arm64) native binary support]]
-- Later: 2026-02-14 · OpenCode · [[Changes/OpenCode/2026-02-14-5-mobile-and-desktop-changes-in-v1-2-0|5 Mobile and Desktop changes in v1.2.0]]
+- Later: 2026-02-13 · Raycast · [[Changes/Raycast/2026-02-13-raycast-on-windows-now-supports-script-commands|Raycast on Windows now supports Script Commands!]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

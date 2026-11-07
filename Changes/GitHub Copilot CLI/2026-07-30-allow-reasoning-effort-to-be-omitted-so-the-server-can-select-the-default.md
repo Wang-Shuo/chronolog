@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: cd57cdf359a8420dfcd3128799b8dcdfcd12926477c02d28b95973c70e8634c9
+machine_hash: 9e108ef1aa2b584377d7c2abd248862dac6c3a04729b583bb7e40e752efa1782
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,12 +43,12 @@ record:
   title: Allow reasoning effort to be omitted so the server can select the default
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-07-28-core-stops-sending-deprecated-sampling-defaults-to-newer-gemini-models|Core
-  Stops sending deprecated sampling defaults to newer Gemini models]]'
 - '[[Changes/OpenCode/2026-07-28-desktop-added-collapsible-model-provider-sections-in-v2-settings|Desktop
   Added collapsible model provider sections in V2 settings]]'
 - '[[Changes/Codex CLI/2026-07-29-3-model-support-changes-in-rust-v0-146-0|3 Model
   Support changes in rust-v0.146.0]]'
+- '[[Changes/Superwhisper/2026-07-29-2-model-support-changes-in-superwhisper-macos-2-17-0|2
+  Model Support changes in Superwhisper macOS 2.17.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-07-30-v1-0-77-github-362775700-9504fbee|github-copilot-cli-2026-07-30-v1-0-77-github-362775700-9504fbee]]'
 source_type: github_releases
 theme: model-support
@@ -79,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-07-29 · Codex CLI · [[Changes/Codex CLI/2026-07-29-3-model-support-changes-in-rust-v0-146-0|3 Model Support changes in rust-v0.146.0]]
+- Earlier: 2026-07-29 · Superwhisper · [[Changes/Superwhisper/2026-07-29-2-model-support-changes-in-superwhisper-macos-2-17-0|2 Model Support changes in Superwhisper macOS 2.17.0]]
 - Later: 2026-07-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-30-2-model-support-changes-in-v1-0-76|2 Model Support changes in v1.0.76]]
 <!-- chronolog:end -->
 

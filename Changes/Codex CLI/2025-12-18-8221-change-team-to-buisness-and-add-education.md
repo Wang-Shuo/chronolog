@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 80b80e73f3dddbaf1dc2bf62281a5d4e49722d8a7aad96ceaeeed871a3392ba7
+machine_hash: a1d69e000455572f288c612633ec24a31ba3b9004bef12db317e9f6cafc7f0a2
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -40,12 +40,12 @@ record:
   title: '#8221 Change “Team” to “Buisness” and add Education'
   type: change
 related_changes:
-- '[[Changes/v0/2025-12-10-added-default-design-systems-for-teams|Added default design
-  systems for Teams]]'
-- '[[Changes/Cline/2025-12-16-migrate-whatsnewmodal-to-new-shared-dialogue-component|Migrate
-  WhatsNewModal to new shared dialogue component]]'
 - '[[Changes/v0/2025-12-16-pull-in-info-from-your-projects-teams-and-users|Pull in
   info from your projects, teams, and users]]'
+- '[[Changes/Raycast/2025-12-17-share-your-favorite-holiday-gifs-straight-from-the-keyboard|Share
+  your favorite holiday GIFs straight from the keyboard!]]'
+- '[[Changes/Raycast/2025-12-17-keyboard-share-gifs-from-the-keyboard|Keyboard: Share
+  GIFs from the keyboard]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-12-18-rust-v0-74-0-github-271533952-972d825a|codex-cli-2025-12-18-rust-v0-74-0-github-271533952-972d825a]]'
 source_type: github_releases
 theme: collaboration
@@ -86,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2025-12-16 · v0 · [[Changes/v0/2025-12-16-pull-in-info-from-your-projects-teams-and-users|Pull in info from your projects, teams, and users]]
+- Earlier: 2025-12-17 · Raycast · [[Changes/Raycast/2025-12-17-keyboard-share-gifs-from-the-keyboard|Keyboard: Share GIFs from the keyboard]]
 - Later: 2025-12-21 · Open WebUI · [[Changes/Open WebUI/2025-12-21-user-uploaded-images-are-now-automatically-converted-from-base64-to-actual-file|🖼️ User-uploaded images are now automatically converted from base64 to actual file…]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5600c64a08cdb73b0fb747270be9597dacd1e67c4fc10d379effba9e255321b3
+machine_hash: becd433568e0bc2f68d352d1f9f65a7590ef8b2aa3374c254c5ef76c109f083f
 product: opencode
 product_name: OpenCode
 record:
@@ -49,8 +49,8 @@ record:
   title: 4 Apps and Integrations changes in v1.17.4
   type: change
 related_changes:
-- '[[Changes/Claude/2026-06-12-edit-claude-s-drafts-in-place|Edit Claude’s drafts
-  in place]]'
+- '[[Changes/Devin/2026-06-12-custom-oauth-for-marketplace-mcp-servers|Custom OAuth
+  for Marketplace MCP Servers]]'
 - '[[Changes/Kimi Code/2026-06-12-add-runtime-support-for-dynamic-mcp-server-updates-reference-skills-replay-times|Add
   runtime support for dynamic MCP server updates, reference skills, replay…]]'
 - '[[Changes/OpenCode/2026-06-12-added-cwd-support-for-local-mcp-servers-so-they-can-start-from-a-workspace-relat|Added
@@ -96,7 +96,7 @@ Source: https://opencode.ai/changelog/v1.17.4
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-06-12 · Kimi Code · [[Changes/Kimi Code/2026-06-12-add-runtime-support-for-dynamic-mcp-server-updates-reference-skills-replay-times|Add runtime support for dynamic MCP server updates, reference skills, replay…]]
-- Later: 2026-06-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-13-8-apps-and-integrations-changes-in-v1-0-62|8 Apps and Integrations changes in v1.0.62]]
+- Later: 2026-06-12 · Raycast · [[Changes/Raycast/2026-06-12-2-apps-and-integrations-changes-in-raycast-windows-0-64|2 Apps and Integrations changes in Raycast windows 0.64]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

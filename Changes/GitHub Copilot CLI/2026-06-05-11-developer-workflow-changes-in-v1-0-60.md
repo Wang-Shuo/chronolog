@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5642f7d07bdb3d47c83a8c92fe2eb2f32a685d40027d52f4bc836b31fea6e13c
+machine_hash: 8f2432453b8a119f9be4633cd4bd91e51e014a58bf9672ab86847e764cb3b0d4
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -68,12 +68,12 @@ record:
   title: 11 Developer Workflow changes in v1.0.60
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-04-skills-added-escape-syntax-to-include-a-literal-before-a-digit-in-command-bodies|Skills:
-  added \$ escape syntax to include a literal $ before a digit in command bodies]]'
 - '[[Changes/Codex CLI/2026-06-04-6-developer-workflow-changes-in-rust-v0-137-0|6
   Developer Workflow changes in rust-v0.137.0]]'
 - '[[Changes/Kimi Code/2026-06-04-3-developer-workflow-changes-in-kimi-code-0-10-0|3
   Developer Workflow changes in Kimi Code 0.10.0]]'
+- '[[Changes/Devin/2026-06-05-devin-review-action-required-flags-on-prs-by-default|Devin
+  Review: Action-Required Flags on PRs by Default]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-06-05-v1-0-60-github-335046279-6a5628d4|github-copilot-cli-2026-06-05-v1-0-60-github-335046279-6a5628d4]]'
 source_type: github_releases
 theme: developer-workflow
@@ -136,7 +136,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.60
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-06-04 · Kimi Code · [[Changes/Kimi Code/2026-06-04-3-developer-workflow-changes-in-kimi-code-0-10-0|3 Developer Workflow changes in Kimi Code 0.10.0]]
+- Earlier: 2026-06-05 · Devin · [[Changes/Devin/2026-06-05-devin-review-action-required-flags-on-prs-by-default|Devin Review: Action-Required Flags on PRs by Default]]
 - Later: 2026-06-05 · Kimi Code · [[Changes/Kimi Code/2026-06-05-show-unknown-command-instead-of-too-many-arguments-when-an-invalid-subcommand-is|Show "unknown command" instead of "too many arguments" when an invalid subcommand…]]
 <!-- chronolog:end -->
 

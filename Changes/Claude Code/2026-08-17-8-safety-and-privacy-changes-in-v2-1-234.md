@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d502d79b41d487facfc0770a342ba2af0b7ac092a654efe424db6bb3540ec5f3
+machine_hash: b821e8273425a82dc92438ebfa334e47706fac85c975e26243e4e1cf8f0f9d6a
 product: claude-code
 product_name: Claude Code
 record:
@@ -68,12 +68,12 @@ record:
   title: 8 Safety and Privacy changes in v2.1.234
   type: change
 related_changes:
-- '[[Changes/Kimi Code/2026-08-13-show-project-mcp-launch-targets-in-the-workspace-trust-prompt-default-to-declini|Show
-  project MCP launch targets in the workspace trust prompt, default to declining…]]'
 - '[[Changes/Claude Code/2026-08-14-3-safety-and-privacy-changes-in-v2-1-233|3 Safety
   and Privacy changes in v2.1.233]]'
 - '[[Changes/Cline/2026-08-14-reclaim-idle-plugin-sandbox-processes-instead-of-leaving-them-running-for-the-li|Reclaim
   idle plugin sandbox processes instead of leaving them running for the life…]]'
+- '[[Changes/Devin/2026-08-14-unified-workflow-permission-preview|Unified Workflow
+  Permission Preview]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-17-v2-1-234-github-371864218-2ca32673|claude-code-2026-08-17-v2-1-234-github-371864218-2ca32673]]'
 source_type: github_releases
 theme: safety-privacy
@@ -126,7 +126,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.234
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-08-14 · Cline · [[Changes/Cline/2026-08-14-reclaim-idle-plugin-sandbox-processes-instead-of-leaving-them-running-for-the-li|Reclaim idle plugin sandbox processes instead of leaving them running for the life…]]
+- Earlier: 2026-08-14 · Devin · [[Changes/Devin/2026-08-14-unified-workflow-permission-preview|Unified Workflow Permission Preview]]
 - Later: 2026-08-17 · Lovable · [[Changes/Lovable/2026-08-17-workspace-insights-is-now-security-insights|Workspace insights is now Security insights]]
 <!-- chronolog:end -->
 

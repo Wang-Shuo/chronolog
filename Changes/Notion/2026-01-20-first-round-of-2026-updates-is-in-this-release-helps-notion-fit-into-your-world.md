@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: bf50aaf150ebedef49e883ee8fb129ca8934bada941fca803bfa95e366c1b689
+machine_hash: 431e15db60218d3e20d2b363b164ee2ac6b7300272f04a52f10a9c772914f1a4
 product: notion
 product_name: Notion
 record:
@@ -45,10 +45,10 @@ record:
   title: First round of 2026 updates is in!
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-01-19-model-switching-from-codex-to-opus-preserves-conversation-history-correctly|Model
-  switching from Codex to Opus preserves conversation history correctly]]'
 - '[[Changes/OpenCode/2026-01-19-4-model-support-changes-in-v1-1-26|4 Model Support
   changes in v1.1.26]]'
+- '[[Changes/Superwhisper/2026-01-19-add-gpt-5-1-language-model|Add GPT 5.1 language
+  model]]'
 - '[[Changes/ChatGPT/2026-01-20-we-re-rolling-out-an-age-prediction-model-on-chatgpt-consumer-plans-to-help-dete|Rolling
   out age prediction]]'
 source_release: '[[Releases/Notion/notion-2026-01-20-https-www-notion-com-releases-2026-01-20-e5d5e3a0|notion-2026-01-20-https-www-notion-com-releases-2026-01-20-e5d5e3a0]]'
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-01-20 · ChatGPT · [[Changes/ChatGPT/2026-01-20-we-re-rolling-out-an-age-prediction-model-on-chatgpt-consumer-plans-to-help-dete|Rolling out age prediction]]
-- Later: 2026-01-21 · Codex CLI · [[Changes/Codex CLI/2026-01-21-5-model-support-changes-in-rust-v0-88-0|5 Model Support changes in rust-v0.88.0]]
+- Later: 2026-01-20 · Raycast · [[Changes/Raycast/2026-01-20-quick-ai-disabled-ai-model-selects-when-there-is-only-a-single-model-available|Quick AI : Disabled AI model selects when there is only a single model available]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

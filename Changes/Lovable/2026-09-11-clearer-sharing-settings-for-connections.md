@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: f317ddc2524b213aea087b848d257a89ee76a4f216ab72fe8ef311b7d96a5187
+machine_hash: 3ad5d447a92f1b8be6ef7eb074066f69dbb0af543bfb5dccf9b9ffc1f7eea825
 product: lovable
 product_name: Lovable
 record:
@@ -48,12 +48,11 @@ record:
   title: Clearer sharing settings for connections
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-09-6-collaboration-changes-in-rust-v0-154-0|6 Collaboration
-  changes in rust-v0.154.0]]'
 - '[[Changes/Dify/2026-09-10-3-collaboration-changes-in-1-17-1|3 Collaboration changes
   in 1.17.1]]'
 - '[[Changes/v0/2026-09-10-new-chats-created-in-a-team-workspace-are-now-visible-to-the-team-by-default-mak|Team
   chats are easier to discover and collaborate on]]'
+- '[[Changes/Devin/2026-09-11-teams-parity-improvements|Teams Parity Improvements]]'
 source_release: '[[Releases/Lovable/lovable-2026-09-11-2026-09-11-fe1ab3d8|lovable-2026-09-11-2026-09-11-fe1ab3d8]]'
 source_type: lovable_changelog
 theme: collaboration
@@ -88,7 +87,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-09-10 · v0 · [[Changes/v0/2026-09-10-new-chats-created-in-a-team-workspace-are-now-visible-to-the-team-by-default-mak|Team chats are easier to discover and collaborate on]]
+- Earlier: 2026-09-11 · Devin · [[Changes/Devin/2026-09-11-teams-parity-improvements|Teams Parity Improvements]]
 - Later: 2026-09-11 · OpenClaw · [[Changes/OpenClaw/2026-09-11-3-collaboration-changes-in-v2026-9-4|3 Collaboration changes in v2026.9.4]]
 <!-- chronolog:end -->
 

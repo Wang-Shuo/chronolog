@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: projects-workspaces
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3131ea51fc5c6c9667939925af1cfe4b98ef80945820cb8583d3102e2c90d5e7
+machine_hash: 19fcf6a21b4b0b68fa4d6db081b09488325664163f928258a68c4daa2d3c0c97
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,10 +43,10 @@ record:
   title: '#57342 Separate TUI session resume preparation from activation @bc-openai'
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-10-12-older-session-history-doctor-can-continue-repairing-leftover-session-files-while|Older
-  session history]]'
 - '[[Changes/OpenClaw/2026-10-13-claude-cli-session-tools-later-turns-keep-their-authorized-session-history-and-a|Claude
   CLI session tools]]'
+- '[[Changes/Krea/2026-10-26-krea-3-edit-keeps-your-session-history|Krea 3 Edit keeps
+  your session history]]'
 - '[[Changes/OpenCode/2026-10-27-3-projects-and-workspaces-changes-in-v2-2-0|3 Projects
   and Workspaces changes in v2.2.0]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-10-29-rust-v0-166-0-github-428320524-44f8c24a|codex-cli-2026-10-29-rust-v0-166-0-github-428320524-44f8c24a]]'

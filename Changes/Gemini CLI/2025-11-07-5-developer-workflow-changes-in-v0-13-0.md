@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ca434458ca3e25ee0b7d24a7c1371a6f44c11cf1d616db9d21b4f31896bb2746
+machine_hash: 34f5e8322d3bf5b16d1da2fd4172ac3f4575a7ffd01cfb415521d7f75154faed
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -50,12 +50,11 @@ record:
   title: 5 Developer Workflow changes in v0.13.0
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-11-05-made-terminal-tab-read-only-by-amanape-in-https-github-com-openhands-openhands-p|Made
-  terminal tab read-only]]'
-- "[[Changes/Open WebUI/2025-11-06-socket-io-cors-warning-is-resolved-by-properly-configuring-cors-origins-for-sock|\U0001F50C
-  Socket.IO CORS warning is resolved by properly configuring CORS origins for Socket]]"
 - '[[Changes/Open WebUI/2025-11-06-3-developer-workflow-changes-in-v0-6-35|3 Developer
   Workflow changes in v0.6.35]]'
+- '[[Changes/Raycast/2025-11-06-preferences-added-environment-variables-preference-command|Preferences
+  : Added Environment Variables preference command]]'
+- '[[Changes/Devin/2025-11-07-git-commit-authoring|Git Commit Authoring]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-11-07-v0-13-0-github-260462305-15cfa0b7|gemini-cli-2025-11-07-v0-13-0-github-260462305-15cfa0b7]]'
 source_type: github_releases
 theme: developer-workflow
@@ -107,7 +106,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.13.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2025-11-06 · Open WebUI · [[Changes/Open WebUI/2025-11-06-3-developer-workflow-changes-in-v0-6-35|3 Developer Workflow changes in v0.6.35]]
+- Earlier: 2025-11-07 · Devin · [[Changes/Devin/2025-11-07-git-commit-authoring|Git Commit Authoring]]
 - Later: 2025-11-09 · Codex CLI · [[Changes/Codex CLI/2025-11-09-4-developer-workflow-changes-in-rust-v0-57-0|4 Developer Workflow changes in rust-v0.57.0]]
 <!-- chronolog:end -->
 

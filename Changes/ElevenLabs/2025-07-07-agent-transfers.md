@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: f582f262a6ecd110e33ca8504f202491e9da7d2d1670399dc3b8046fad6a744f
+machine_hash: 1cd79d0d7921e5cfd3254ad5024e8da4941caa009983be0179206cf0cacd2f6b
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -91,7 +91,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2025-07-04 · Replit · [[Changes/Replit/2025-07-04-custom-agent-instructions|Custom Agent Instructions]]
-- Later: 2025-07-10 · Dify · [[Changes/Dify/2025-07-10-feat-retain-llm-setting-for-agent-node-by-fdb02983rhy-in-https-github-com-langge|feat: Retain llm setting for agent node]]
+- Later: 2025-07-09 · AnythingLLM · [[Changes/AnythingLLM/2025-07-09-3-agent-mode-changes-in-v1-8-3|3 Agent Mode changes in v1.8.3]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

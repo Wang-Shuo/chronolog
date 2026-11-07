@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 55135a72ef6ccf3a090ea07cc42f2f203042d1f9dd05a0cba40ca7fcfc4eb4d7
+machine_hash: 7df2b83f99c1980f6a9873acfc53c0750fa72823b0bada248e94688b2f72d066
 product: cline
 product_name: Cline
 record:
@@ -42,12 +42,11 @@ record:
   title: Restore tool calling for custom OpenAI-Compatible models whose stored capability…
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-08-20-gemini-embedding-2-is-the-default-for-search-and-recommendations|Gemini
-  Embedding 2 is the default for search and recommendations]]'
 - '[[Changes/OpenCode/2026-08-20-added-native-openai-and-anthropic-passthroughs-for-cloudflare-ai-gateway-models|Added
   native OpenAI and Anthropic passthroughs for Cloudflare AI Gateway models]]'
 - '[[Changes/Runway/2026-08-20-transform-any-sdr-video-into-true-hdr-with-runway-ruby-a-native-color-grading-mo|Runway
   Ruby]]'
+- '[[Changes/Superwhisper/2026-08-20-improvements-fixes|Improvements & Fixes]]'
 source_release: '[[Releases/Cline/cline-2026-08-21-v4-1-12-github-374708481-1b15d60b|cline-2026-08-21-v4-1-12-github-374708481-1b15d60b]]'
 source_type: github_releases
 theme: model-support
@@ -76,7 +75,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-08-20 · Runway · [[Changes/Runway/2026-08-20-transform-any-sdr-video-into-true-hdr-with-runway-ruby-a-native-color-grading-mo|Runway Ruby]]
+- Earlier: 2026-08-20 · Superwhisper · [[Changes/Superwhisper/2026-08-20-improvements-fixes|Improvements & Fixes]]
 - Later: 2026-08-21 · Cline · [[Changes/Cline/2026-08-21-3-model-support-changes-in-v4-1-11|3 Model Support changes in v4.1.11]]
 <!-- chronolog:end -->
 

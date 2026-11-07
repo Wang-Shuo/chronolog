@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 2f874b4bc69b36b15a225eb202ee1ff8f364e66a378c6ae6627bdb652aad6d0b
+machine_hash: 2676739e64895f3f6084a1175b4999866288ba5a45befe5fb3c184bfdf0e746a
 product: openhands
 product_name: OpenHands
 record:
@@ -62,11 +62,12 @@ record:
     predefined name
   type: change
 related_changes:
-- '[[Changes/Dify/2025-01-07-2-editor-experience-changes-in-0-15-0|2 Editor Experience
-  changes in 0.15.0]]'
-- '[[Changes/Replit/2025-01-10-shell-bash-completion|Shell bash completion]]'
 - '[[Changes/OpenHands/2025-01-13-added-new-app-tab-which-allows-users-to-interact-with-the-web-app-run-in-openhan|Added
   new App tab which allows users to interact with the web app run in OpenHands…]]'
+- '[[Changes/Devin/2025-01-16-devin-is-now-more-likely-to-find-all-relevant-files-to-edit-will-notice-and-re-u|Devin
+  is now more likely to find all relevant files to edit, will notice and re-use…]]'
+- '[[Changes/LM Studio/2025-01-20-new-hardware-tab-in-mission-control-open-with-cmd-ctrl-shift-h|New:
+  Hardware tab in Mission Control]]'
 source_release: '[[Releases/OpenHands/openhands-2025-01-22-0-21-0-github-196131705-25b6d08c|openhands-2025-01-22-0-21-0-github-196131705-25b6d08c]]'
 source_type: github_releases
 theme: editor-experience
@@ -98,7 +99,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2025-01-13 · OpenHands · [[Changes/OpenHands/2025-01-13-added-new-app-tab-which-allows-users-to-interact-with-the-web-app-run-in-openhan|Added new App tab which allows users to interact with the web app run in OpenHands…]]
+- Earlier: 2025-01-20 · LM Studio · [[Changes/LM Studio/2025-01-20-new-hardware-tab-in-mission-control-open-with-cmd-ctrl-shift-h|New: Hardware tab in Mission Control]]
 - Later: 2025-01-27 · ElevenLabs · [[Changes/ElevenLabs/2025-01-27-api|API]]
 <!-- chronolog:end -->
 

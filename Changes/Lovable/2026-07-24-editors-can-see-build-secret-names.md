@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 2cbc72a47eb77887de5b6a3a5352ff9be96326814f87d79046ee01aa72966980
+machine_hash: bafb84bfe426f40b08b2e9401e17cb24201a5f5012d8cd42b4a119585297f98e
 product: lovable
 product_name: Lovable
 record:
@@ -47,11 +47,10 @@ record:
   title: Editors can see build secret names
   type: change
 related_changes:
-- '[[Changes/Dify/2026-07-17-2-enterprise-and-administration-changes-in-1-16-0|2 Enterprise
-  and Administration changes in 1.16.0]]'
-- '[[Changes/v0/2026-07-21-enterprise-managed-users-are-surfaced-in-the-web-ui-and-their-profiles-are-alway|Enterprise
-  Managed Users are surfaced in the web UI, and their profiles are always private]]'
-- '[[Changes/Cursor/2026-07-22-admin-controls|Admin controls]]'
+- '[[Changes/Devin/2026-07-22-api-additions|API Additions]]'
+- '[[Changes/Devin/2026-07-22-quicker-access-to-enterprise-settings|Quicker Access
+  to Enterprise Settings]]'
+- '[[Changes/Devin/2026-07-24-api-additions|API Additions]]'
 source_release: '[[Releases/Lovable/lovable-2026-07-24-2026-07-24-b0f18b89|lovable-2026-07-24-2026-07-24-b0f18b89]]'
 source_type: lovable_changelog
 theme: enterprise-admin
@@ -81,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-07-22 · Cursor · [[Changes/Cursor/2026-07-22-admin-controls|Admin controls]]
+- Earlier: 2026-07-24 · Devin · [[Changes/Devin/2026-07-24-api-additions|API Additions]]
 - Later: 2026-07-27 · Open WebUI · [[Changes/Open WebUI/2026-07-27-3-enterprise-and-administration-changes-in-v0-11-0|3 Enterprise and Administration changes in v0.11.0]]
 <!-- chronolog:end -->
 

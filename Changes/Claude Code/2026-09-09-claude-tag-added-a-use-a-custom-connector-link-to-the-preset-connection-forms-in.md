@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: deb9f48b98f2cd7e771f91db1f2d3762ba31cfc26963ff9729b7bf89e16094c5
+machine_hash: ba4dc381a52f9310996dd02e75d1318d53e2664743f98dc36ca4e4559bf14e27
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
     forms…'
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-09-07-connector-forms-are-split-into-collapsible-sections|Connector
-  forms are split into collapsible sections]]'
-- '[[Changes/Claude Code/2026-09-08-4-apps-and-integrations-changes-in-v2-1-265|4
-  Apps and Integrations changes in v2.1.265]]'
 - '[[Changes/OpenClaw/2026-09-08-23-apps-and-integrations-changes-in-v2026-9-3|23
   Apps and Integrations changes in v2026.9.3]]'
+- '[[Changes/Raycast/2026-09-08-window-management-apps-launched-by-a-custom-layout-can-now-be-given-command-line|Window
+  Management : Apps launched by a custom layout can now be given command-line…]]'
+- '[[Changes/Raycast/2026-09-08-window-management-apps-launched-by-a-custom-layout-can-now-be-given-command-line-f3e19b|Window
+  Management : Apps launched by a custom layout can now be given command-line…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-09-v2-1-267-github-385748811-6409148e|claude-code-2026-09-09-v2-1-267-github-385748811-6409148e]]'
 source_type: github_releases
 theme: apps-integrations
@@ -85,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-09-08 · OpenClaw · [[Changes/OpenClaw/2026-09-08-23-apps-and-integrations-changes-in-v2026-9-3|23 Apps and Integrations changes in v2026.9.3]]
+- Earlier: 2026-09-08 · Raycast · [[Changes/Raycast/2026-09-08-window-management-apps-launched-by-a-custom-layout-can-now-be-given-command-line-f3e19b|Window Management : Apps launched by a custom layout can now be given command-line…]]
 - Later: 2026-09-09 · Codex CLI · [[Changes/Codex CLI/2026-09-09-19-apps-and-integrations-changes-in-rust-v0-154-0|19 Apps and Integrations changes in rust-v0.154.0]]
 <!-- chronolog:end -->
 

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6d16425407dfdf1c2108a9ee4f8988cab5c15750de099ead4ec15b0eaa37e04b
+machine_hash: e9b69958b517996332a94ccd0d23417375b133d70c193c3f41f1b92e78d509b2
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -48,8 +48,8 @@ record:
   title: 4 Editor Experience changes in rust-v0.163.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-14-2-editor-experience-changes-in-v2-1-299|2 Editor
-  Experience changes in v2.1.299]]'
+- '[[Changes/Devin/2026-10-14-filenames-on-diff-and-patch-attachments|Filenames on
+  Diff and Patch Attachments]]'
 - "[[Changes/Open WebUI/2026-10-14-open-attached-knowledge-from-its-preview-clicking-the-name-in-the-preview-of-an|\U0001F4DA
   Open attached knowledge from its preview. Clicking the name in the preview…]]"
 - '[[Changes/Open WebUI/2026-10-14-4-editor-experience-changes-in-v0-12-1|4 Editor

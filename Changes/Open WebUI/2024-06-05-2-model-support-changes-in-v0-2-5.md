@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: aceb8f8925b532d800e209d55eea33f0ba8c8d77910b3cd8d80746e6e8c240bd
+machine_hash: 0fdf8826f8a830a37cdc506e54ef5447bee504f136b3218a5d42257e661711a4
 product: open-webui
 product_name: Open WebUI
 record:
@@ -87,7 +87,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.2.5
 ## Nearby in Model Support
 
 - Earlier: 2024-06-04 · Dify · [[Changes/Dify/2024-06-04-9-model-support-changes-in-0-6-10|9 Model Support changes in 0.6.10]]
-- Later: 2024-06-07 · Ollama · [[Changes/Ollama/2024-06-07-2-model-support-changes-in-v0-1-42|2 Model Support changes in v0.1.42]]
+- Later: 2024-06-06 · Superwhisper · [[Changes/Superwhisper/2024-06-06-vocabulary-support-for-all-models-whisperkit-deepgram|Vocabulary support for all models (whisperkit/deepgram)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

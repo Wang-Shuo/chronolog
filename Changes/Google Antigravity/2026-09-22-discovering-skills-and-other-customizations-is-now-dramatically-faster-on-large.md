@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a7d181e39fb7a980afdf3b0ad9ea40af48216a1b89206f4b7a720e8ac22896d8
+machine_hash: 6b4188597c8e680beead6b309b6f967d6b8676a3ec160b4161aa54ec927dacb6
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -46,10 +46,10 @@ record:
     large…
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-09-19-5-reliability-and-performance-changes-in-v2026-9-5|5
-  Reliability and Performance changes in v2026.9.5]]'
 - "[[Changes/Open WebUI/2026-09-21-general-improvements-various-improvements-were-implemented-across-the-applicatio|\U0001F504
   General improvements. Various improvements were implemented across…]]"
+- '[[Changes/AnythingLLM/2026-09-22-x-mistral-embeddings-are-now-batched-making-large-document-embedding-significant|x
+  Mistral embeddings are now batched, making large document embedding…]]'
 - '[[Changes/Codex CLI/2026-09-22-45960-tag-memory-usage-telemetry-with-the-memory-version-jif-oai|♯45960
   Tag memory usage telemetry with the memory version @jif-oai]]'
 source_release: '[[Releases/Google Antigravity/google-antigravity-2026-09-22-rel-hub-2-16-0-5fa56be3|google-antigravity-2026-09-22-rel-hub-2-16-0-5fa56be3]]'

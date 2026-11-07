@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: d23230cb8ea9eea9090b9c8a9cfc0382a7efaf32f84b743adf633717cbf0f0d5
+machine_hash: e789758c7bfef4df451b72f6d981d83a7e5091be296ed3a78e4925c6aac8f703
 product: descript
 product_name: Descript
 record:
@@ -91,7 +91,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2025-03-24 · Dify · [[Changes/Dify/2025-03-24-ui-ux-fixes-addressed-various-style-and-interaction-issues-like-sidebar-width-on|UI/UX Fixes: Addressed various style and interaction issues, like sidebar width…]]
-- Later: 2025-03-31 · Aider · [[Changes/Aider/2025-03-31-2-interface-experience-changes-in-v0-80-0|2 Interface Experience changes in v0.80.0]]
+- Later: 2025-03-27 · AnythingLLM · [[Changes/AnythingLLM/2025-03-27-persist-images-attached-in-api-requests-to-the-ui-for-rendering-by-timothycaramb|Persist images attached in API requests to the UI for rendering]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

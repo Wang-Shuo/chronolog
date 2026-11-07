@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 354ee9868f60f5cf135b1cfdef5943725f0f7597ae5fc242fba113f68a09a769
+machine_hash: 521f0eedc2c0c03e1648ab64f21c61b1b05bec6c9dce2a4e6cf00b38ca925ede
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -48,8 +48,8 @@ record:
   title: 4 Voice and Audio changes in rust-v0.161.0
   type: change
 related_changes:
-- '[[Changes/HeyGen/2026-10-05-a-great-script-can-fall-flat-when-the-voice-doesn-t-sound-like-it-means-it-eleve|A
-  great script can fall flat when the voice doesn''t sound like it means it]]'
+- '[[Changes/Raycast/2026-10-05-2-voice-and-audio-changes-in-raycast-windows-2-6|2
+  Voice and Audio changes in Raycast windows 2.6]]'
 - '[[Changes/ChatGPT/2026-10-06-upload-audio-files-to-chatgpt-to-create-transcripts-summarize-recordings-and-ask|Audio
   uploads in ChatGPT]]'
 - '[[Changes/OpenHands/2026-10-06-feat-chat-add-optional-voice-dictation-to-the-chat-input-by-vascosch92-in-https|feat(chat):

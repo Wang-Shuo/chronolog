@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 70e634271aa30484f00cb0f55481e4501429ee8fd33c76ff89ce6fc4c3bd3781
+machine_hash: 4ebf9d517a69cef025deb1e7a271ce3372d1239be17cd39c7f374d6f9d07cf0b
 product: lovable
 product_name: Lovable
 record:
@@ -49,12 +49,12 @@ record:
   title: Private registry is now Managed registry
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-07-27-3-enterprise-and-administration-changes-in-v0-11-0|3
-  Enterprise and Administration changes in v0.11.0]]'
-- '[[Changes/Dify/2026-07-28-2-enterprise-and-administration-changes-in-1-16-1|2 Enterprise
-  and Administration changes in 1.16.1]]'
-- '[[Changes/Codex CLI/2026-07-29-2-enterprise-and-administration-changes-in-rust-v0-146-0|2
-  Enterprise and Administration changes in rust-v0.146.0]]'
+- '[[Changes/Devin/2026-07-29-audit-logging-for-devin-local-settings|Audit Logging
+  for Devin Local Settings]]'
+- '[[Changes/Wispr Flow/2026-07-29-teams-invite-multiple-teammates-at-once-desktop|Teams:
+  Invite multiple teammates at once (Desktop)]]'
+- '[[Changes/Wispr Flow/2026-07-29-pro-teams-now-get-a-leaderboard-desktop|Pro teams
+  now get a leaderboard (Desktop)]]'
 source_release: '[[Releases/Lovable/lovable-2026-07-30-2026-07-30-760d02f2|lovable-2026-07-30-2026-07-30-760d02f2]]'
 source_type: lovable_changelog
 theme: enterprise-admin
@@ -84,8 +84,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-07-29 · Codex CLI · [[Changes/Codex CLI/2026-07-29-2-enterprise-and-administration-changes-in-rust-v0-146-0|2 Enterprise and Administration changes in rust-v0.146.0]]
-- Later: 2026-07-31 · Replit · [[Changes/Replit/2026-07-31-teams-and-enterprise|Teams and Enterprise]]
+- Earlier: 2026-07-29 · Wispr Flow · [[Changes/Wispr Flow/2026-07-29-pro-teams-now-get-a-leaderboard-desktop|Pro teams now get a leaderboard (Desktop)]]
+- Later: 2026-07-31 · Devin · [[Changes/Devin/2026-07-31-control-where-legacy-cascade-is-available|Control Where Legacy Cascade Is Available]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

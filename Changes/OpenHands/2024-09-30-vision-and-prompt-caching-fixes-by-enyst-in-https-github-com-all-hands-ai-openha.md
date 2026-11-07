@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f9255a8258b097ecc6212d9b6e2a35737369c01be8ed94ac198b77328717f1d2
+machine_hash: ae8c866f04d2d29773433bdbcf34408d5151720fb87749fdef7cb683bdabbb79
 product: openhands
 product_name: OpenHands
 record:
@@ -76,7 +76,7 @@ type: change
 ## Nearby in Multimodal Input
 
 - Earlier: 2024-09-26 · Runway · [[Changes/Runway/2024-09-26-iterate-faster-than-ever-before-with-video-to-video-in-gen-3-alpha-turbo|Video to Video in Gen-3 Alpha Turbo]]
-- Later: 2024-10-10 · Suno · [[Changes/Suno/2024-10-10-tips-for-effective-use|Tips for Effective Use]]
+- Later: 2024-10-03 · AnythingLLM · [[Changes/AnythingLLM/2024-10-03-enable-mistral-multimodal-by-timothycarambat-in-https-github-com-mintplex-labs-a|Enable Mistral Multimodal]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

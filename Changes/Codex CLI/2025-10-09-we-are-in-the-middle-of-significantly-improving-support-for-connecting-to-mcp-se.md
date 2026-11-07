@@ -14,12 +14,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 8c6c03e5ef84c0baf8c09c0057aae4d79f224529fdc027728588a95c815ac755
+machine_hash: 910fb816d99e609e51436a17e04d3d767db7e1401734bb2cf4074972a969cd5c
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -59,12 +59,12 @@ record:
     MCP…
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2025-10-07-10-account-and-access-changes-in-v0-6-33|10 Account
-  and Access changes in v0.6.33]]'
 - "[[Changes/Open WebUI/2025-10-07-redis-session-storage-is-now-available-as-an-experimental-option-for-oauth-authe|\U0001F5C4️
   Redis session storage is now available as an experimental option for OAuth…]]"
 - '[[Changes/GitHub Copilot CLI/2025-10-08-updated-the-oauth-login-ui-to-begin-polling-as-soon-as-the-device-code-is-genera|Updated
   the OAuth login UI to begin polling as soon as the device code is generated…]]'
+- '[[Changes/AnythingLLM/2025-10-09-add-support-for-simple-sso-no-login-redirect-config-setting-by-timothycarambat-i|Add
+  support for SIMPLE_SSO_NO_LOGIN_REDIRECT config setting]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-10-09-rust-v0-46-0-github-253202599-fb352044|codex-cli-2025-10-09-rust-v0-46-0-github-253202599-fb352044]]'
 source_type: github_releases
 theme: account-access
@@ -97,7 +97,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2025-10-08 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-10-08-updated-the-oauth-login-ui-to-begin-polling-as-soon-as-the-device-code-is-genera|Updated the OAuth login UI to begin polling as soon as the device code is generated…]]
+- Earlier: 2025-10-09 · AnythingLLM · [[Changes/AnythingLLM/2025-10-09-add-support-for-simple-sso-no-login-redirect-config-setting-by-timothycarambat-i|Add support for SIMPLE_SSO_NO_LOGIN_REDIRECT config setting]]
 - Later: 2025-10-16 · Cline · [[Changes/Cline/2025-10-16-feat-cli-fixes-cli-authentication-redirect-error-by-arafatkatze-in-https-github|feat(cli): Fixes CLI authentication redirect error]]
 <!-- chronolog:end -->
 

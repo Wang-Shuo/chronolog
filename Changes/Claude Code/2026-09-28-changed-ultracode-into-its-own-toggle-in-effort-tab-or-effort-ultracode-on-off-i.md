@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e79ac395c56aee253daa52dbbbc58bd88adf000bf4f5af93f8116fb1c073dc28
+machine_hash: b84c6c145440417a73e2f133d5882619d1f4852f2be9b141574e37b7ec76aa07
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,7 +44,8 @@ record:
     [on|off]`)
   type: change
 related_changes:
-- '[[Changes/Midjourney/2026-09-24-editing|EDITING]]'
+- '[[Changes/Devin/2026-09-25-progress-tab-names-the-sender|Progress Tab Names the
+  Sender]]'
 - '[[Changes/Lovable/2026-09-25-open-cited-web-sources-from-an-answer|Open cited web
   sources from an answer]]'
 - '[[Changes/ChatGPT/2026-09-28-you-can-now-select-a-chart-metric-or-record-in-the-health-tab-to-get-personalize|Explore

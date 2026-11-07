@@ -14,12 +14,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ac321b70b4367306820d8382c18ea104f8ed1a9a732760950c9cc59e0d4e9f09
+machine_hash: 68240f9b757528599fb9a614e018f9ca1169e47f9768c37ebaee19051d21c6b2
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -56,11 +56,12 @@ record:
     clients…'
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-10-30-use-claude-code-in-opencode|Use Claude Code in OpenCode]]'
 - '[[Changes/OpenCode/2026-10-30-core-replaced-claude-code-s-misleading-login-instruction-with-claude-auth-login|Core
   Replaced Claude Code’s misleading /login instruction with claude auth login]]'
 - '[[Changes/Claude Code/2026-10-31-vscode-added-sign-in-to-a-claude-apps-gateway-from-the-chat-panel-with-no-termin|VSCode
   Added sign-in to a Claude apps gateway from the chat panel, with no…]]'
+- '[[Changes/Devin/2026-11-02-oauth-discovery-from-the-server-s-401|OAuth Discovery
+  from the Server''s 401]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-11-02-2026-11-02-7efe9660|elevenlabs-2026-11-02-2026-11-02-7efe9660]]'
 source_type: elevenlabs_changelog
 theme: account-access
@@ -115,7 +116,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-10-31 · Claude Code · [[Changes/Claude Code/2026-10-31-vscode-added-sign-in-to-a-claude-apps-gateway-from-the-chat-panel-with-no-termin|VSCode Added sign-in to a Claude apps gateway from the chat panel, with no…]]
+- Earlier: 2026-11-02 · Devin · [[Changes/Devin/2026-11-02-oauth-discovery-from-the-server-s-401|OAuth Discovery from the Server's 401]]
 - Later: 2026-11-03 · Open WebUI · [[Changes/Open WebUI/2026-11-03-saved-oauth-provider-settings-oauth-providers-now-load-their-saved-connection-se|🔑 Saved OAuth provider settings. OAuth providers now load their saved connection…]]
 <!-- chronolog:end -->
 

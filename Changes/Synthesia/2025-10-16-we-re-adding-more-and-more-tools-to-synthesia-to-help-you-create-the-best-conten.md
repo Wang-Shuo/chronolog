@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 866a405ddb9b28cc08cd2a52f9d9aa17b2c8936eb74a00c01f6e9f4ef99e9ba7
+machine_hash: 290c3a7a2c4176e4b794b1d5637ec24b3d6f0d8fa5c18b26a507dfcced085226
 product: synthesia
 product_name: Synthesia
 record:
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2025-10-16 · Cline · [[Changes/Cline/2025-10-16-9-apps-and-integrations-changes-in-v3-33-0|9 Apps and Integrations changes in v3.33.0]]
-- Later: 2025-10-17 · Replit · [[Changes/Replit/2025-10-17-build-mode-redesign-for-react-apps|Build mode redesign for React apps]]
+- Later: 2025-10-17 · Devin · [[Changes/Devin/2025-10-17-gitlab-ci-cd-integration|GitLab CI/CD Integration]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

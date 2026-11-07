@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3843eef3a293f4ff88f70c8f7046a1e06273d67707a54874481c56c8a053567a
+machine_hash: f041190c5cd690cc7230a1a20c3f20ca003072968f51c8792a12db3a814dca00
 product: cursor
 product_name: Cursor
 record:
@@ -46,8 +46,7 @@ record:
   title: '.cursorrules: You can write down repo-level rules for the AI by creating…'
   type: change
 related_changes:
-- '[[Changes/Dify/2024-03-19-add-max-tokens-parameter-rule-for-zhipuai-glm4-and-glm4v-by-orangeclk-in-https-g|add
-  max_tokens parameter rule for zhipuai glm4 and glm4v]]'
+- '[[Changes/Raycast/2024-03-20-companion-browser-extension|Companion Browser Extension]]'
 - '[[Changes/Ollama/2024-03-26-command-r-https-ollama-com-library-command-r-a-large-language-model-optimized-fo|Command
   R((source link) a Large Language Model optimized…]]'
 - '[[Changes/Cursor/2024-04-01-long-context-chat-beta-this-is-a-new-experimental-feature-that-lets-you-talk-wit|Long

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0c511173179446239e989305eb2905ada2ae31c4ecd976b4efe0fafd62ca6ce1
+machine_hash: 4e09a00a1b4de30af547855a554955a67524fb1f0d6b0b9bf19b350da4eefec9
 product: opencode
 product_name: OpenCode
 record:
@@ -63,10 +63,10 @@ record:
   title: 10 Mobile and Desktop changes in v2.2.2
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-10-27-refreshed-the-desktop-app-experience|Refreshed the
-  desktop app experience]]'
 - '[[Changes/OpenHands/2026-10-27-the-app-isn-t-signed-with-an-apple-developer-id-yet-so-macos-may-call-a|The
   app isn''t signed with an Apple Developer ID yet, so macOS may call a]]'
+- '[[Changes/Superwhisper/2026-10-28-updated-app-icon-style-to-match-macos-dark-mode|Updated
+  app icon style to match macOS dark mode]]'
 - '[[Changes/Codex CLI/2026-10-29-57503-fix-macos-standalone-release-pruning-etraut-openai|♯57503
   Fix macOS standalone release pruning @etraut-openai]]'
 source_release: '[[Releases/OpenCode/opencode-2026-10-29-v2-2-2-2b757877|opencode-2026-10-29-v2-2-2-2b757877]]'

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9347b98a6af06f157cebc53e4f2a9747611a694114f1f5165e9d15b68699ff32
+machine_hash: 8cbd1996df602c997b12437b3b3ba524d2581c57df7fdf3a7bbe275d03f74fac
 product: lovable
 product_name: Lovable
 record:
@@ -45,9 +45,10 @@ record:
   title: Faster command palette
   type: change
 related_changes:
-- '[[Changes/Dify/2026-08-25-workflow-runtime-stability|Workflow & Runtime Stability]]'
-- '[[Changes/Open WebUI/2026-08-25-10-reliability-and-performance-changes-in-v0-11-1|10
-  Reliability and Performance changes in v0.11.1]]'
+- '[[Changes/Recraft/2026-08-25-create-at-the-speed-of-thought|Create at the speed
+  of thought!]]'
+- '[[Changes/AnythingLLM/2026-08-27-this-replaces-our-previous-snapdragon-npu-engine-any-previous-models-from-the-ol|
+  This replaces our previous Snapdragon NPU engine]]'
 - '[[Changes/GitHub Copilot CLI/2026-08-27-resume-large-sessions-faster-by-showing-recent-history-first-while-older-message|Resume
   large sessions faster by showing recent history first while older messages load]]'
 source_release: '[[Releases/Lovable/lovable-2026-08-27-2026-08-27-825db483|lovable-2026-08-27-2026-08-27-825db483]]'

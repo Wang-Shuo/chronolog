@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7a077666e5982fb8db358a79ebd15d774c057cc5bb409f721a5100c1a39a97b8
+machine_hash: 8497a36b6a8239cb32a9722f3ba3ae88cccd26b0856b6457c95860a4e0be223f
 product: cursor
 product_name: Cursor
 record:
@@ -102,7 +102,7 @@ type: change
 ## Nearby in Search and Browsing
 
 - Earlier: 2026-01-16 · Codex CLI · [[Changes/Codex CLI/2026-01-16-2-search-and-browsing-changes-in-rust-v0-86-0|2 Search and Browsing changes in rust-v0.86.0]]
-- Later: 2026-01-27 · Codex CLI · [[Changes/Codex CLI/2026-01-27-5-search-and-browsing-changes-in-rust-v0-92-0|5 Search and Browsing changes in rust-v0.92.0]]
+- Later: 2026-01-20 · Raycast · [[Changes/Raycast/2026-01-20-new-run-command-a-modern-replacement-for-the-classic-windows-run-dialog-instead|New Run command, a modern replacement for the classic Windows Run dialog]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

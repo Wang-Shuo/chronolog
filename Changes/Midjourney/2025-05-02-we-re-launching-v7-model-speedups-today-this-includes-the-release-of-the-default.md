@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 6a1e47649fed73b7a3be12d036fef7ab7e2888bbb519c47c2191db14dd4473b9
+machine_hash: 373318773c396fa5388a3c031a7d28b71807dedb052405c48e7ab27ad4237b07
 product: midjourney
 product_name: Midjourney
 record:
@@ -58,11 +58,11 @@ record:
   title: Midjourney launches V7 model speedups today
   type: change
 related_changes:
-- '[[Changes/Dify/2025-04-28-chore-disabled-struct-output-not-show-model-not-support-warning-by-iamjoel-in-ht|chore:
-  disabled struct output not show model not support warning]]'
-- '[[Changes/ChatGPT/2025-04-29-we-ve-reverted-the-most-recent-update-to-gpt-4o-due-to-issues-with-overly-agreea-097503|Updates
-  to GPT-4o]]'
-- '[[Changes/Midjourney/2025-04-30-new-v7-image-model-update|New V7 image model update]]'
+- '[[Changes/Raycast/2025-04-30-3-model-support-changes-in-raycast-macos-v1-1-97-0|3
+  Model Support changes in Raycast macos-v1 1.97.0]]'
+- '[[Changes/Recraft/2025-04-30-cost-per-generation|Cost per generation]]'
+- '[[Changes/Recraft/2025-04-30-you-can-now-generate-and-edit-with-gpt-4o-available-for-paid-subscribers-inside|Generate
+  and edit with GPT-4o (available for paid subscribers) inside Recraft]]'
 source_release: '[[Releases/Midjourney/midjourney-2025-05-02-https-updates-midjourney-com-fast-mode-for-v7-23289fba|midjourney-2025-05-02-https-updates-midjourney-com-fast-mode-for-v7-23289fba]]'
 source_type: midjourney_changelog
 theme: model-support
@@ -99,7 +99,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-04-30 · Midjourney · [[Changes/Midjourney/2025-04-30-new-v7-image-model-update|New V7 image model update]]
+- Earlier: 2025-04-30 · Recraft · [[Changes/Recraft/2025-04-30-you-can-now-generate-and-edit-with-gpt-4o-available-for-paid-subscribers-inside|Generate and edit with GPT-4o (available for paid subscribers) inside Recraft]]
 - Later: 2025-05-03 · Cline · [[Changes/Cline/2025-05-03-5-model-support-changes-in-v3-14-0|5 Model Support changes in v3.14.0]]
 <!-- chronolog:end -->
 

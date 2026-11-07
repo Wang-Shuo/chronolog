@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b036fa671a53b60674e5b8b4beefb1df2a96e23d099e8733d0387521d6d437d1
+machine_hash: 1e38d89bc43d805d64576954706de890cc8ac69de3dfc1bb364ebb72fde012e8
 product: aider
 product_name: Aider
 record:
@@ -90,7 +90,7 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.75.0
 ## Nearby in Model Support
 
 - Earlier: 2025-03-03 · Cline · [[Changes/Cline/2025-03-03-add-gemini-flash-models-to-vertex-provider-thanks-jpaodev|Add Gemini Flash models to Vertex provider (thanks @jpaodev!)]]
-- Later: 2025-03-05 · Open WebUI · [[Changes/Open WebUI/2025-03-05-2-model-support-changes-in-v0-5-19|2 Model Support changes in v0.5.19]]
+- Later: 2025-03-04 · AnythingLLM · [[Changes/AnythingLLM/2025-03-04-4-model-support-changes-in-v1-7-5|4 Model Support changes in v1.7.5]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: fad9e5d53ca4560b08a6c33fbce6e73bc416d330d7a271e2ca2df9d6d103a119
+machine_hash: 3f9c893c1dd570ef918b68313ba3dc6e70835acab6b87ff118daa3962b551945
 product: v0
 product_name: v0
 record:
@@ -52,12 +52,9 @@ record:
   title: 4 Collaboration changes in A redesigned sidebar, a richer…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-08-13-the-initial-experience-includes-my-drive-and-files-and-folders-shared-directly-w|The
-  initial experience includes My Drive and files and folders shared directly with
-  you]]'
-- '[[Changes/Claude Code/2026-08-13-hardened-the-auto-generated-cross-session-messaging-socket-directory-on-shared-t|Hardened
-  the auto-generated cross-session messaging socket directory on shared /tmp]]'
 - '[[Changes/Windsurf/2026-08-13-devin-local|Devin Local]]'
+- '[[Changes/Devin/2026-08-14-preview-toolbar-improvements|Preview Toolbar Improvements]]'
+- '[[Changes/Devin/2026-08-14-teams-polish|Teams Polish]]'
 source_release: '[[Releases/v0/v0-2026-08-14-2026-08-14-e5550355|v0-2026-08-14-2026-08-14-e5550355]]'
 source_type: v0_changelog
 theme: collaboration
@@ -104,7 +101,7 @@ Source: https://v0.app/changelog#2026-08-14
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-08-13 · Windsurf · [[Changes/Windsurf/2026-08-13-devin-local|Devin Local]]
+- Earlier: 2026-08-14 · Devin · [[Changes/Devin/2026-08-14-teams-polish|Teams Polish]]
 - Later: 2026-08-17 · Claude Code · [[Changes/Claude Code/2026-08-17-removed-the-default-teammate-model-setting-from-config-agent-team-teammates-now|Removed the "Default teammate model" setting from /config]]
 <!-- chronolog:end -->
 

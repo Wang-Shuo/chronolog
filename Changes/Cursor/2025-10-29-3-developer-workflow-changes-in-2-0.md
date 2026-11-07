@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c55e67fae219e7a7edc9a12161cec2c6e917308fd0bced0769a35064b42f634d
+machine_hash: 7bc368617e9e605aef577a03bc68c3875fc8f568925540c0d8cbb14ddb037f67
 product: cursor
 product_name: Cursor
 record:
@@ -45,10 +45,10 @@ record:
   title: 3 Developer Workflow changes in 2.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2025-10-24-3-developer-workflow-changes-in-v0-0-350|3
-  Developer Workflow changes in v0.0.350]]'
 - '[[Changes/Cline/2025-10-27-add-linter-check-for-proto-files-and-add-auto-formatting-by-sjf-in-https-github|Add
   linter check for proto files and add auto-formatting]]'
+- '[[Changes/Raycast/2025-10-27-file-search-added-a-new-open-in-terminal-action|File
+  Search : Added a new Open in Terminal action]]'
 - '[[Changes/Cursor/2025-10-29-improved-code-review|Improved Code Review]]'
 source_release: '[[Releases/Cursor/cursor-2025-10-29-2-0-https-cursor-com-changelog-2-0-66a8e76e|cursor-2025-10-29-2-0-https-cursor-com-changelog-2-0-66a8e76e]]'
 source_type: cursor_changelog
@@ -104,7 +104,7 @@ Source: https://cursor.com/changelog/2-0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2025-10-27 · Cline · [[Changes/Cline/2025-10-27-add-linter-check-for-proto-files-and-add-auto-formatting-by-sjf-in-https-github|Add linter check for proto files and add auto-formatting]]
+- Earlier: 2025-10-27 · Raycast · [[Changes/Raycast/2025-10-27-file-search-added-a-new-open-in-terminal-action|File Search : Added a new Open in Terminal action]]
 - Later: 2025-10-29 · Gemini CLI · [[Changes/Gemini CLI/2025-10-29-11-developer-workflow-changes-in-v0-11-0|11 Developer Workflow changes in v0.11.0]]
 <!-- chronolog:end -->
 

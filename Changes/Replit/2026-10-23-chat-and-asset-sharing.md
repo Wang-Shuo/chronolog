@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 307abb98bce3260321c9f839bd93ded359f4ad1305f7b359212524a7703d251d
+machine_hash: cf4a3c2fbd826b247c521bc74e0959d4fc9f0e98f5477b8c9076d1d5f0236bfc
 product: replit
 product_name: Replit
 record:
@@ -48,10 +48,10 @@ record:
   title: Chat and asset sharing
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-10-22-session-share-now-shows-an-error-when-it-can-t-discover-receivers-instead-of-an|Session
-  Share now shows an error when it can’t discover receivers, instead…]]'
 - '[[Changes/Codex CLI/2026-10-23-8-collaboration-changes-in-rust-v0-164-0|8 Collaboration
   changes in rust-v0.164.0]]'
+- '[[Changes/Devin/2026-10-23-private-sessions-from-microsoft-teams-channels|Private
+  Sessions from Microsoft Teams Channels]]'
 - '[[Changes/Dify/2026-10-23-5-collaboration-changes-in-1-18-0|5 Collaboration changes
   in 1.18.0]]'
 source_release: '[[Releases/Replit/replit-2026-10-23-2026-10-23-22527b8b|replit-2026-10-23-2026-10-23-22527b8b]]'
@@ -88,7 +88,7 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2026-10-23 · Dify · [[Changes/Dify/2026-10-23-5-collaboration-changes-in-1-18-0|5 Collaboration changes in 1.18.0]]
-- Later: 2026-10-26 · Windsurf · [[Changes/Windsurf/2026-10-26-ide-mode-now-offers-devin-cloud-whenever-your-account-has-cloud-access-the-same|IDE mode now offers Devin Cloud whenever your account has Cloud access, the same…]]
+- Later: 2026-10-26 · Superwhisper · [[Changes/Superwhisper/2026-10-26-switch-a-recording-between-the-original-and-ai-text-and-share-either-one|Switch a recording between the original and AI text, and share either one]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

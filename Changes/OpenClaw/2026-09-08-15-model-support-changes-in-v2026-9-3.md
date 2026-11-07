@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: fb3a08a75e62bbd9cafad10297e6f8fa874e3aef9983aaf4975f96ccbb868c4d
+machine_hash: e80cca8907cc72efedf4c44539099c86055b173e2273c4997aa6ef9e13e02ab5
 product: openclaw
 product_name: OpenClaw
 record:
@@ -200,7 +200,7 @@ Source: https://docs.openclaw.ai/releases/2026.9.3
 ## Nearby in Model Support
 
 - Earlier: 2026-09-08 · Lovable · [[Changes/Lovable/2026-09-08-gpt-6-astra-gemini-3-8-flash-and-gemini-3-5-transcribe-for-your-app-s-ai-feature|GPT-6 Astra, Gemini 3.8 Flash, and Gemini 3.5 Transcribe for your app's AI features]]
-- Later: 2026-09-09 · ChatGPT · [[Changes/ChatGPT/2026-09-09-chatgpt-voice-can-now-use-gpt-5-6-or-gpt-6-astra-when-it-needs-to-search-or-reas-848954|ChatGPT Voice can now use GPT-5.6 or GPT-6 Astra when it needs to search or reason…]]
+- Later: 2026-09-08 · Raycast · [[Changes/Raycast/2026-09-08-ai-added-support-openai-compatible-custom-providers-local-models-via-ollama-and|AI : Added support OpenAI-compatible custom providers, local models via Ollama…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

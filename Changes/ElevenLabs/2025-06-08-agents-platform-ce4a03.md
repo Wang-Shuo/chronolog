@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: a8edb4e17cc8deb8bea843abeea98553f35c04d07dd4013f890233368787bed9
+machine_hash: ca6009bbeb3f507514dc82e06cb0bb0090e3c3f9bef46335410d175ddc745143
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -114,7 +114,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2025-06-06 · Replit · [[Changes/Replit/2025-06-06-new-agent-entrypoints-in-workspace|New Agent entrypoints in workspace]]
-- Later: 2025-06-10 · OpenHands · [[Changes/OpenHands/2025-06-10-ensured-prs-opened-by-agent-is-properly-tracked-in-conversation-metadata-by-malh|Ensured PRs opened by agent is properly tracked in conversation metadata]]
+- Later: 2025-06-10 · AnythingLLM · [[Changes/AnythingLLM/2025-06-10-4-agent-mode-changes-in-v1-8-2|4 Agent Mode changes in v1.8.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

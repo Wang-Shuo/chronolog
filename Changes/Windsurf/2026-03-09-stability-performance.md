@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 30dbe7e73ca271ec54d739b28f557a2b1906272cefe332684797161065dfc09d
+machine_hash: 2aa1ee7a2a6d03a871ad78ca2b6e70baf8e7f9bd3070fe716001615739e21e79
 product: windsurf
 product_name: Windsurf
 record:
@@ -42,12 +42,12 @@ record:
   title: Stability & Performance
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-03-08-13-reliability-and-performance-changes-in-v0-8-9|13
-  Reliability and Performance changes in v0.8.9]]'
 - '[[Changes/Google Antigravity/2026-03-09-stability-and-ui-improvements|Stability
   and UI improvements]]'
 - '[[Changes/Open WebUI/2026-03-09-2-reliability-and-performance-changes-in-v0-8-10|2
   Reliability and Performance changes in v0.8.10]]'
+- '[[Changes/Raycast/2026-03-09-system-improved-app-launch-times-up-to-10-faster-on-lower-end-systems|System
+  : Improved app launch times, up to 10× faster on lower-end systems]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-03-09-v1-9577-24-77454302|windsurf-2026-03-09-v1-9577-24-77454302]]'
 source_type: windsurf_changelog
 theme: reliability-performance
@@ -79,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-03-09 · Open WebUI · [[Changes/Open WebUI/2026-03-09-2-reliability-and-performance-changes-in-v0-8-10|2 Reliability and Performance changes in v0.8.10]]
+- Earlier: 2026-03-09 · Raycast · [[Changes/Raycast/2026-03-09-system-improved-app-launch-times-up-to-10-faster-on-lower-end-systems|System : Improved app launch times, up to 10× faster on lower-end systems]]
 - Later: 2026-03-10 · Claude Code · [[Changes/Claude Code/2026-03-10-improved-bash-command-parsing-by-switching-to-a-native-module-faster-initializat|Improved bash command parsing by switching to a native module]]
 <!-- chronolog:end -->
 

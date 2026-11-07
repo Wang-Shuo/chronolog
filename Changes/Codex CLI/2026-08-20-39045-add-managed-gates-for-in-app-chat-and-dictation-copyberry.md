@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c7c43fcace696924048d7f4acb4fa2a3f973b6f88c95e0421559aaa93d63a9c7
+machine_hash: 33741072af20fc3fa44ac11452bd7415345bb3d7b38ec439d8538e8ab6500567
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -41,11 +41,12 @@ record:
   title: '#39045 Add managed gates for in-app chat and dictation @copyberry'
   type: change
 related_changes:
-- '[[Changes/Suno/2026-08-13-audio-effects-dial-in-your-mix-with-high-quality-audio-effects-including-sidecha|Audio
-  effects: Dial in your mix with high-quality audio effects, including sidechain…]]'
-- '[[Changes/ChatGPT/2026-08-14-switch-between-typing-and-dictation-the-dictation-button-stays-available-after-y|Switch
-  between typing and dictation]]'
-- '[[Changes/ElevenLabs/2026-08-17-packages|Packages]]'
+- '[[Changes/Raycast/2026-08-19-2-voice-and-audio-changes-in-raycast-macos-0-71|2
+  Voice and Audio changes in Raycast macos 0.71]]'
+- '[[Changes/Raycast/2026-08-19-2-voice-and-audio-changes-in-raycast-windows-0-71|2
+  Voice and Audio changes in Raycast windows 0.71]]'
+- '[[Changes/Superwhisper/2026-08-19-local-mode-is-now-suggested-automatically-when-your-keyboard-is-set-to-english-m|Local
+  Mode is now suggested automatically when your keyboard is set to English…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-08-20-rust-v0-149-0-github-374028976-829da944|codex-cli-2026-08-20-rust-v0-149-0-github-374028976-829da944]]'
 source_type: github_releases
 theme: voice
@@ -90,7 +91,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-08-17 · ElevenLabs · [[Changes/ElevenLabs/2026-08-17-packages|Packages]]
+- Earlier: 2026-08-19 · Superwhisper · [[Changes/Superwhisper/2026-08-19-local-mode-is-now-suggested-automatically-when-your-keyboard-is-set-to-english-m|Local Mode is now suggested automatically when your keyboard is set to English…]]
 - Later: 2026-08-20 · Google Antigravity · [[Changes/Google Antigravity/2026-08-20-large-binary-attachments-returned-by-connected-mcp-tools-images-pdfs-and-audio-a|Large binary attachments returned by connected MCP tools]]
 <!-- chronolog:end -->
 

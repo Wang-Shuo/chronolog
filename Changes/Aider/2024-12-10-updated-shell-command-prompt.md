@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: dc1467849449330c24cf22216ced6cf7ad2aacdea37c59a7551df1786127f2e1
+machine_hash: f5222300ef5412e881a2a05bc7fdf47a31cce39d163c73a9e273ec65fd23bfb5
 product: aider
 product_name: Aider
 record:
@@ -39,8 +39,8 @@ record:
   title: Updated shell command prompt
   type: change
 related_changes:
-- '[[Changes/Dify/2024-11-25-for-instance-you-can-upload-a-pdf-report-and-let-the-agent-automatically-analyze|For
-  instance, you can upload a PDF report and let the Agent automatically analyze…]]'
+- '[[Changes/AnythingLLM/2024-11-26-the-anythingllm-community-hub-https-hub-anythingllm-com-is-a-platform-that-works|The
+  AnythingLLM Community Hub((source link) is a platform…]]'
 - '[[Changes/ElevenLabs/2024-11-29-api|API]]'
 - '[[Changes/OpenHands/2024-12-06-2-agent-mode-changes-in-0-15-1|2 Agent Mode changes
   in 0.15.1]]'

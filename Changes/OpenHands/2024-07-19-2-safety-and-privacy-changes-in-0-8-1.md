@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1b8a202cdc92ca6077c6ec6cf0a86c911764131d2499cd6ece086830b2d2b4b8
+machine_hash: 48878399f5d73e2a266e0a355fc8fa3030bb10526593dca3b79fe8163ca3bdbb
 product: openhands
 product_name: OpenHands
 record:
@@ -86,7 +86,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/0.8.1
 ## Nearby in Safety and Privacy
 
 - Earlier: 2024-07-13 · OpenHands · [[Changes/OpenHands/2024-07-13-6-safety-and-privacy-changes-in-0-8-0|6 Safety and Privacy changes in 0.8.0]]
-- Later: 2024-07-27 · OpenHands · [[Changes/OpenHands/2024-07-27-fix-update-swebenchsshbox-after-global-config-was-removed-from-sandbox-by-rajwor|FIX Update SWEBenchSSHBox after global config was removed…]]
+- Later: 2024-07-26 · AnythingLLM · [[Changes/AnythingLLM/2024-07-26-3-safety-and-privacy-changes-in-v1-0-0|3 Safety and Privacy changes in v1.0.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

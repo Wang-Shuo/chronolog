@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ac2687a825ab84327c7508b561cfc1555b57c4141c84895eb9efc3755bcf3b76
+machine_hash: 4a5d2dbebbc9567f701ddfa089abe445700a00e5872ae5202891a61e9b5ae9c7
 product: open-webui
 product_name: Open WebUI
 record:
@@ -93,10 +93,10 @@ record:
   title: 11 Model Support changes in v0.6.42
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-12-19-2-model-support-changes-in-rust-v0-76-0|2 Model
-  Support changes in rust-v0.76.0]]'
 - '[[Changes/GitHub Copilot CLI/2025-12-19-enable-disabled-models-directly-in-cli-when-selecting-or-specifying-them|Enable
   disabled models directly in CLI when selecting or specifying them]]'
+- '[[Changes/Superwhisper/2025-12-19-ollama-provider-for-custom-models|Ollama provider
+  for custom models]]'
 - '[[Changes/Codex CLI/2025-12-21-3-model-support-changes-in-rust-v0-77-0|3 Model
   Support changes in rust-v0.77.0]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-12-21-v0-6-42-github-272053915-b8e46ad9|open-webui-2025-12-21-v0-6-42-github-272053915-b8e46ad9]]'

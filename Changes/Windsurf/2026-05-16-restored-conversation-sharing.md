@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 94e88c08534192a724eb8e196ea2d7421eb69fc34e527979246c015d9d2980a3
+machine_hash: 74f722eba2076cffd448fe3d448ef0b51134a5bdcb6d66a40c6c30689416f212
 product: windsurf
 product_name: Windsurf
 record:
@@ -39,8 +39,7 @@ record:
   title: Restored conversation sharing
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-05-11-cursor-is-now-available-in-microsoft-teams|Cursor is
-  now available in Microsoft Teams]]'
+- '[[Changes/Krea/2026-05-13-moodboard-sharing|Moodboard Sharing]]'
 - '[[Changes/Descript/2026-05-14-the-descript-telethon-kicks-off-today-may-14-at-10-00-am-pt-https-www-youtube-co|The
   Descript Telethon kicks off today, May 14 at 10:00 AM…]]'
 - '[[Changes/v0/2026-05-15-snowflake-teams-with-multiple-accounts-can-pick-which-account-a-chat-connects-to|Snowflake
@@ -74,7 +73,7 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2026-05-15 · v0 · [[Changes/v0/2026-05-15-snowflake-teams-with-multiple-accounts-can-pick-which-account-a-chat-connects-to|Snowflake teams with multiple accounts can pick which account a chat connects…]]
-- Later: 2026-05-18 · Codex CLI · [[Changes/Codex CLI/2026-05-18-3-collaboration-changes-in-rust-v0-131-0|3 Collaboration changes in rust-v0.131.0]]
+- Later: 2026-05-17 · Devin · [[Changes/Devin/2026-05-17-copyable-organization-id|Copyable Organization ID]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

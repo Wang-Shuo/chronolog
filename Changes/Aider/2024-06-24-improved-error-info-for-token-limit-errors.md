@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9eaa314451712376c358917f618b4cd4ade4c2ab9c59dcb9ac90ff6596745a4f
+machine_hash: 71249a5c177bbe9596fcd9aeb84d47977dbf379a42ce6465a458f34f3795a30a
 product: aider
 product_name: Aider
 record:
@@ -78,7 +78,7 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2024-06-18 · Gemini · [[Changes/Gemini/2024-06-18-gemini-advanced-features-available-in-india|Gemini Advanced features available in India]]
-- Later: 2024-07-21 · Ollama · [[Changes/Ollama/2024-07-21-mistral-nemo-https-ollama-com-library-mistral-nemo-a-state-of-the-art-12b-model|Mistral Nemo((source link) A state-of-the-art 12B…]]
+- Later: 2024-07-12 · Superwhisper · [[Changes/Superwhisper/2024-07-12-show-clipboard-context-update-in-realtime|Show clipboard context update in realtime]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

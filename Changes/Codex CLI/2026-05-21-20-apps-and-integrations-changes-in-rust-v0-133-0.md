@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c604f149f9da5237fcd4a079816a7d321410764c5083a40c27a3285eafa03d66
+machine_hash: ccb5044125ca03d81de1356f7481812440bf0c063be72681d2fd78111f99a0ad
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -86,12 +86,12 @@ record:
   title: 20 Apps and Integrations changes in rust-v0.133.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-05-20-9-apps-and-integrations-changes-in-rust-v0-132-0|9
-  Apps and Integrations changes in rust-v0.132.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-20-4-apps-and-integrations-changes-in-v1-0-51|4
   Apps and Integrations changes in v1.0.51]]'
 - '[[Changes/OpenCode/2026-05-20-3-apps-and-integrations-changes-in-v1-15-6|3 Apps
   and Integrations changes in v1.15.6]]'
+- '[[Changes/Raycast/2026-05-20-applications-use-alternate-name-for-creator-studio-apps|Applications:
+  Use alternate name for Creator Studio apps]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-05-21-rust-v0-133-0-github-327109656-130a26bc|codex-cli-2026-05-21-rust-v0-133-0-github-327109656-130a26bc]]'
 source_type: github_releases
 theme: apps-integrations
@@ -167,7 +167,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.133.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-05-20 · OpenCode · [[Changes/OpenCode/2026-05-20-3-apps-and-integrations-changes-in-v1-15-6|3 Apps and Integrations changes in v1.15.6]]
+- Earlier: 2026-05-20 · Raycast · [[Changes/Raycast/2026-05-20-applications-use-alternate-name-for-creator-studio-apps|Applications: Use alternate name for Creator Studio apps]]
 - Later: 2026-05-21 · Google Antigravity · [[Changes/Google Antigravity/2026-05-21-added-a-migration-flow-that-allows-users-to-import-settings-extensions-and-keybi|Added a migration flow that allows users to import settings, extensions…]]
 <!-- chronolog:end -->
 

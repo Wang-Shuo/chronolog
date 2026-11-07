@@ -5,20 +5,20 @@ description: "Open WebUI · 2025-05-19 · Accessibility and Localization: 2 chan
   in v0.6.10 — \U0001F9BB **Screen Reader Support for Response Messages**: All chat
   responses are now…"
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-09-11-chatgpt-now-supports-a-limited-selection-of-languages-in-the-interface|ChatGPT
-    now supports a limited selection of languages in the interface]]'
+  first_in_tracked: '[[Changes/Raycast/2020-11-19-improved-searching-for-localized-application-and-preference-names|Improved
+    searching for localized application and preference names]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 616
+  lag_days: 1642
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: accessibility-localization
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5a0a3bdfb4e3fb2005b6358fd48edbdab2546fd636e9238fb2603e8dbfe62168
+machine_hash: f7dbc7853b50fe76041b68705fd62f1fb8076357459082c607f2224204d3c68e
 product: open-webui
 product_name: Open WebUI
 record:
@@ -103,7 +103,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.6.10
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-11 · ChatGPT · [[Changes/ChatGPT/2023-09-11-chatgpt-now-supports-a-limited-selection-of-languages-in-the-interface|ChatGPT now supports a limited selection of languages in the interface]]
+- Earliest same-theme entry in the tracked set: 2020-11-19 · Raycast · [[Changes/Raycast/2020-11-19-improved-searching-for-localized-application-and-preference-names|Improved searching for localized application and preference names]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 081b666d0cbc1e4dacb4c81ff3d981623e1096b1502b790824ed6c575095967a
+machine_hash: b9d731e66e0eef702f2ce1f1272070591a33dc414e6a517d7cb5bf5c18ccec13
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -46,12 +46,11 @@ record:
     cargo, go…
   type: change
 related_changes:
-- '[[Changes/Microsoft 365 Copilot/2026-08-25-teams-meetings-in-copilot-notebooks-android-windows-ios-web-onenote|Teams
-  Meetings in Copilot Notebooks Android, Windows, iOS, Web (OneNote)]]'
-- "[[Changes/Open WebUI/2026-08-25-starting-up-on-windows-the-windows-start-script-now-creates-the-secret-key-it-ne|\U0001FA9F
-  Starting up on Windows. The Windows start script now creates the secret key…]]"
+- '[[Changes/Raycast/2026-08-25-raycast-2-0-is-out-of-beta|Raycast 2.0 is out of Beta!]]'
 - '[[Changes/Codex CLI/2026-08-26-39811-restrict-macos-preference-reads-to-full-disk-policies-copyberry|♯39811
   Restrict macOS preference reads to full-disk policies @copyberry]]'
+- '[[Changes/AnythingLLM/2026-08-27-3-mobile-and-desktop-changes-in-v1-16-1|3 Mobile
+  and Desktop changes in v1.16.1]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-08-27-v1-0-81-github-377993714-523d567a|github-copilot-cli-2026-08-27-v1-0-81-github-377993714-523d567a]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -96,7 +95,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-08-26 · Codex CLI · [[Changes/Codex CLI/2026-08-26-39811-restrict-macos-preference-reads-to-full-disk-policies-copyberry|♯39811 Restrict macOS preference reads to full-disk policies @copyberry]]
+- Earlier: 2026-08-27 · AnythingLLM · [[Changes/AnythingLLM/2026-08-27-3-mobile-and-desktop-changes-in-v1-16-1|3 Mobile and Desktop changes in v1.16.1]]
 - Later: 2026-08-27 · Kimi Code · [[Changes/Kimi Code/2026-08-27-web-improve-mobile-ui-styling|web: Improve mobile UI styling]]
 <!-- chronolog:end -->
 

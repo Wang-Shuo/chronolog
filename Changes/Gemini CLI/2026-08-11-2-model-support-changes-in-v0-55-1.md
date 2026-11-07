@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4f212949e64bfeb8de0298ebce6a49d0a7b17d8edf8b0e588c521018945e0e0f
+machine_hash: d7eccb8c8edb9f8dc18a52c5fc0a723b4e4ead38e28461b900d590c4571df05e
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -45,8 +45,8 @@ record:
   title: 2 Model Support changes in v0.55.1
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-08-10-3-model-support-changes-in-v1-0-79|3 Model
-  Support changes in v1.0.79]]'
+- '[[Changes/Superwhisper/2026-08-10-3-model-support-changes-in-superwhisper-windows-1-5-10|3
+  Model Support changes in Superwhisper Windows 1.5.10]]'
 - '[[Changes/Claude Code/2026-08-11-changed-the-write-tool-so-newer-models-can-overwrite-an-existing-file-they-haven|Changed
   the Write tool so newer models can overwrite an existing file they haven''t…]]'
 - '[[Changes/Cline/2026-08-11-2-model-support-changes-in-v4-1-8|2 Model Support changes

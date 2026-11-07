@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9b3b944c3e330c0513bc959026a27e5c1136ca9eae5f6023a7669c7274a122b8
+machine_hash: afee16ec30436acac38df121ec360e2efb9bd94ea1265664df12993904316758
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,10 +43,10 @@ record:
   title: '#27714 app-server: document thread and turn IDs are UUID7 @owenlin0'
   type: change
 related_changes:
-- '[[Changes/Microsoft 365 Copilot/2026-07-01-create-word-documents-from-copilot-notebooks-windows-web-microsoft-365-copilot-a|Create
-  Word documents from Copilot Notebooks Windows, Web (Microsoft 365 Copilot app)]]'
-- '[[Changes/Microsoft 365 Copilot/2026-07-01-create-excel-spreadsheets-from-copilot-notebooks-windows-web-microsoft-365-copil|Create
-  Excel spreadsheets from Copilot Notebooks Windows…]]'
+- '[[Changes/Raycast/2026-07-03-file-search-can-now-help-you-find-files-by-their-text-contents-662015|File
+  Search can now help you find files by their text contents]]'
+- '[[Changes/Raycast/2026-07-03-file-search-you-can-now-search-contents-of-text-documents-from-within-file-searc-8dbcea|File
+  Search : You can now search contents of text documents from within File Search…]]'
 - '[[Changes/OpenHands/2026-07-06-docs-bring-readme-md-over-from-agent-canvas-by-rbren-in-https-github-com-openhan|docs:
   Bring README.md over from Agent Canvas]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-07-08-rust-v0-143-0-github-350650561-9eba805c|codex-cli-2026-07-08-rust-v0-143-0-github-350650561-9eba805c]]'

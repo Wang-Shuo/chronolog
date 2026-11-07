@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a04d13b3556bf38c889412be7be5e07b825ab66c4d4681c66fca062a08ee74d0
+machine_hash: 3371768a324f7a64d3d43f64da5d8d7c1282b68f896f7acb1add566db5b51bdf
 product: openclaw
 product_name: OpenClaw
 record:
@@ -195,8 +195,8 @@ record:
   title: 29 Developer Workflow changes in v2026.9.5
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-18-improved-ultrareview-when-there-s-nothing-to-review-messages-say-which-case-you|Improved
-  /ultrareview when there''s nothing to review]]'
+- '[[Changes/Devin/2026-09-18-perforce-workspace-follows-connection-changes|Perforce:
+  Workspace Follows Connection Changes]]'
 - '[[Changes/Google Antigravity/2026-09-18-a-command-that-is-killed-when-the-app-restarts-is-now-reported-as-canceled-inste|A
   command that is killed when the app restarts is now reported as canceled instead…]]'
 - '[[Changes/Qoder/2026-09-18-worktree-improved-starting-point-list-loading-and-creation-preparation-for-large|Worktree:
@@ -314,7 +314,7 @@ Source: https://docs.openclaw.ai/releases/2026.9.5
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-09-18 · Qoder · [[Changes/Qoder/2026-09-18-worktree-improved-starting-point-list-loading-and-creation-preparation-for-large|Worktree: Improved starting-point list loading and creation preparation…]]
-- Later: 2026-09-21 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-21-5-developer-workflow-changes-in-v1-0-87|5 Developer Workflow changes in v1.0.87]]
+- Later: 2026-09-21 · Devin · [[Changes/Devin/2026-09-21-devin-review-for-bitbucket-data-center|Devin Review for Bitbucket Data Center]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a33f32941dbf7e427cfe8bf5e6f075ffd8263e026a827000f0efc2ffae5bd58f
+machine_hash: 9f3169390492e881e6c5f1598494bc176136b1d9269d2c45bb26ec1d54ec6ed9
 product: open-webui
 product_name: Open WebUI
 record:
@@ -60,12 +60,12 @@ record:
   title: 4 Search and Browsing changes in v0.12.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-01-browse-older-tasks-in-the-agent-command-center-with-a-keyboard-accessible-show-m|Browse
-  older tasks in the agent command center with a keyboard-accessible…]]'
-- '[[Changes/Claude Code/2026-10-05-changed-the-interactive-session-s-websearch-budget-to-refill-over-time-100-calls|Changed
-  the interactive session''s WebSearch budget to refill over time (100 calls/hour]]'
 - '[[Changes/Codex CLI/2026-10-07-3-search-and-browsing-changes-in-rust-v0-161-0|3
   Search and Browsing changes in rust-v0.161.0]]'
+- '[[Changes/Raycast/2026-10-09-custom-ai-providers-you-can-now-give-custom-provider-models-raycast-s-web-search|Custom
+  AI Providers]]'
+- '[[Changes/Raycast/2026-10-09-custom-ai-providers-you-can-now-give-custom-provider-models-raycast-s-web-search-a80f41|Custom
+  AI Providers]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-10-10-v0-12-0-github-409209575-f076e92b|open-webui-2026-10-10-v0-12-0-github-409209575-f076e92b]]'
 source_type: github_releases
 theme: search-browsing
@@ -120,7 +120,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.12.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Search and Browsing
 
-- Earlier: 2026-10-07 · Codex CLI · [[Changes/Codex CLI/2026-10-07-3-search-and-browsing-changes-in-rust-v0-161-0|3 Search and Browsing changes in rust-v0.161.0]]
+- Earlier: 2026-10-09 · Raycast · [[Changes/Raycast/2026-10-09-custom-ai-providers-you-can-now-give-custom-provider-models-raycast-s-web-search-a80f41|Custom AI Providers]]
 - Later: 2026-10-10 · OpenClaw · [[Changes/OpenClaw/2026-10-10-3-search-and-browsing-changes-in-v2026-10-1|3 Search and Browsing changes in v2026.10.1]]
 <!-- chronolog:end -->
 

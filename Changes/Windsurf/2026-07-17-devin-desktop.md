@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: b09bcebf0528963c6a1502b4c68a83d9cfab5c55c99e0d0069af5081eee7dafa
+machine_hash: 4715c080b7bf42d10da8edf458edadc431f73f13bc5ce0959d173946f000e501
 product: windsurf
 product_name: Windsurf
 record:
@@ -61,12 +61,12 @@ record:
   title: Devin Desktop
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-07-16-we-ve-updated-the-chatgpt-desktop-app-to-make-it-easier-to-choose-between-chat-a|ChatGPT
-  updates the ChatGPT desktop app to make it easier to choose between Chat…]]'
-- '[[Changes/ChatGPT/2026-07-16-continue-work-across-devices-cloud-work-conversations-now-sync-across-web-mobile|Continue
-  Work across devices]]'
-- '[[Changes/OpenCode/2026-07-16-3-mobile-and-desktop-changes-in-v1-18-3|3 Mobile
-  and Desktop changes in v1.18.3]]'
+- '[[Changes/Raycast/2026-07-16-the-wait-is-over-cloud-sync-beta-is-here-you-can-now-keep-your-raycast-data-in-s|The
+  wait is over. Cloud Sync beta is here]]'
+- '[[Changes/Raycast/2026-07-16-cloud-sync-sync-your-data-across-macos-v1-macos-v2-beta-windows-beta-and-ios|Cloud
+  Sync : Sync your data across macOS V1, macOS V2 beta, Windows beta and iOS]]'
+- '[[Changes/Raycast/2026-07-16-the-wait-is-over-cloud-sync-public-beta-is-here-you-can-now-keep-your-raycast-da|The
+  wait is over. Cloud Sync public beta is here]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-07-17-v3-5-17-c6033639|windsurf-2026-07-17-v3-5-17-c6033639]]'
 source_type: windsurf_changelog
 theme: mobile-desktop
@@ -110,7 +110,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-07-16 · OpenCode · [[Changes/OpenCode/2026-07-16-3-mobile-and-desktop-changes-in-v1-18-3|3 Mobile and Desktop changes in v1.18.3]]
+- Earlier: 2026-07-16 · Raycast · [[Changes/Raycast/2026-07-16-the-wait-is-over-cloud-sync-public-beta-is-here-you-can-now-keep-your-raycast-da|The wait is over. Cloud Sync public beta is here]]
 - Later: 2026-07-20 · ElevenLabs · [[Changes/ElevenLabs/2026-07-20-android-sdk|Android SDK]]
 <!-- chronolog:end -->
 

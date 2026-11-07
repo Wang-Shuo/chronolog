@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a5c40bf596a87577899b2f4039a2353a60f2a7bb396f942b090f8a6935bdf80d
+machine_hash: e750b40f68c461aad428298a8a84bfe32094ffaab882ed1ac9ec538dabbe2d4b
 product: midjourney
 product_name: Midjourney
 record:
@@ -90,7 +90,7 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2026-05-25 · ElevenLabs · [[Changes/ElevenLabs/2026-05-25-introducing-speech-engine|Introducing Speech Engine]]
-- Later: 2026-06-01 · ElevenLabs · [[Changes/ElevenLabs/2026-06-01-dubbing|Dubbing]]
+- Later: 2026-05-29 · Superwhisper · [[Changes/Superwhisper/2026-05-29-3-voice-and-audio-changes-in-superwhisper-macos-2-15-0|3 Voice and Audio changes in Superwhisper macOS 2.15.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 633ac6789bdb92ac1527f55802579bf3bc25e1d5ddae443be6c884424d943725
+machine_hash: bfa89017266c7d7d69b76ca47740f7419c948bde9e3b30ace0554772bc8e7bb7
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -47,8 +47,8 @@ record:
   title: 3 Image Generation changes in rust-v0.136.0
   type: change
 related_changes:
-- '[[Changes/Descript/2026-05-14-gpt-image-2-in-image-generation|GPT Image 2 in image
-  generation]]'
+- '[[Changes/Recraft/2026-05-14-we-ve-just-launched-v4-1-our-latest-image-generation-model-it-carries-v4-s-visua|We’ve
+  just launched V4.1, our latest image generation model]]'
 - '[[Changes/Gamma/2026-05-15-brainstorm-generate-and-edit-images-in-chat|Brainstorm,
   generate, and edit images in chat]]'
 - '[[Changes/Lovable/2026-05-18-improvements-and-bug-fixes|Improvements and bug fixes]]'

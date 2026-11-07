@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 9bc66d93f774b848bf6bf5e3730591d5619d7f0d9ff7350b8cf2715f1bf93f90
+machine_hash: 84417de4e6f48cc2eaddc7d37d700164d8cd2346dc736b19a8244d5a78b6b28c
 product: lovable
 product_name: Lovable
 record:
@@ -48,9 +48,9 @@ record:
   title: Lovable gift cards
   type: change
 related_changes:
-- '[[Changes/v0/2025-12-12-v0-mini-fastest-and-most-cost-efficient|v0 Mini : Fastest
-  and most cost-efficient]]'
 - '[[Changes/ElevenLabs/2025-12-15-text-to-speech|Text to Speech]]'
+- '[[Changes/Recraft/2025-12-16-flux-2-max-has-been-added-to-recraft-and-is-now-available-for-all-paid-subscribe|New
+  external model: Flux 2 Max]]'
 - '[[Changes/Cursor/2025-12-18-billing-groups|Billing groups]]'
 source_release: '[[Releases/Lovable/lovable-2025-12-23-2025-12-23-0131be4a|lovable-2025-12-23-2025-12-23-0131be4a]]'
 source_type: lovable_changelog

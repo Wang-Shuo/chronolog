@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 83ff7365e3462d2c2bdb2d60de8d92a5d7e41f33878c5c471db906e59b9970b0
+machine_hash: 65296c72cc5f13d885bf38c413eac1661b0cba3d8458ede09a5e3917a835816c
 product: cline
 product_name: Cline
 record:
@@ -47,11 +47,9 @@ record:
     Vertex AI…
   type: change
 related_changes:
-- '[[Changes/Gemini/2025-05-20-students-get-a-free-upgrade-of-gemini-in-select-countries|Students
-  get a free upgrade of Gemini in select countries]]'
-- '[[Changes/Gemini/2025-05-20-add-your-own-files-to-deep-research-and-bring-reports-to-life-in-canvas-all-on-g|Add
-  your own files to Deep Research and bring reports to life in Canvas, all on Gemini
-  2.5]]'
+- '[[Changes/Raycast/2025-05-21-2-model-support-changes-in-raycast-macos-v1-1-99-0|2
+  Model Support changes in Raycast macos-v1 1.99.0]]'
+- '[[Changes/Raycast/2025-05-21-local-models|Local Models]]'
 - '[[Changes/Cline/2025-05-22-add-support-for-anthropic-claude-sonnet-4-and-claude-opus-4-in-both-anthropic-an|Add
   support for Anthropic Claude Sonnet 4 and Claude Opus 4 in both Anthropic…]]'
 source_release: '[[Releases/Cline/cline-2025-05-22-v3-17-2-github-220508945-79432c34|cline-2025-05-22-v3-17-2-github-220508945-79432c34]]'

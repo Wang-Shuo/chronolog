@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: bb07edd363aaa6c568946e4d222efb096cd3c409e5ecb734d9f4c86ac4721d06
+machine_hash: 7a04767359e0c8bed8186a78a6f44b267e123824d74cefc5d9c865e1f916e8d0
 product: open-webui
 product_name: Open WebUI
 record:
@@ -48,9 +48,10 @@ record:
   title: 2 Apps and Integrations changes in v0.8.1
   type: change
 related_changes:
-- '[[Changes/Replit/2026-02-13-open-in-replit-button-beta|Open in Replit button (Beta)]]'
 - '[[Changes/Replit/2026-02-13-connection-reliability-improvements|Connection reliability
   improvements]]'
+- '[[Changes/Superwhisper/2026-02-13-handle-paste-error-when-pasting-into-apps-with-elevated-privileges|Handle
+  paste error when pasting into apps with elevated privileges]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-14-3-apps-and-integrations-changes-in-v0-0-410|3
   Apps and Integrations changes in v0.0.410]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-02-14-v0-8-1-github-286288526-aa333d77|open-webui-2026-02-14-v0-8-1-github-286288526-aa333d77]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3ce7b0f497792cafee66892eb94a0b82466996daf135b3eeb8686e6f86c70e27
+machine_hash: 66fb5f172ba89d300db9f548311916e3dba5626ce153f6d5b316bad71bc4617a
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -58,8 +58,8 @@ record:
   title: 10 Context Window changes in rust-v0.142.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-18-2-context-window-changes-in-rust-v0-141-0|2 Context
-  Window changes in rust-v0.141.0]]'
+- '[[Changes/Devin/2026-06-19-pr-context-visible-while-waiting-for-ci|PR Context Visible
+  While Waiting for CI]]'
 - '[[Changes/ChatGPT/2026-06-22-starting-today-for-chatgpt-free-and-go-users-long-pastes-are-handled-differently|Large
   pastes are now handled as attachments for more plans]]'
 - '[[Changes/Claude Code/2026-06-22-bash-commands-now-trigger-claude-to-respond-to-the-output-automatically-set-resp|!

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f2675a621ed903b79dd2936c4adc725e37d37d702b72b9b90a3ba748fdf9c651
+machine_hash: c4dc89d8b8d729579717b1db1f8c4de621f3fe7816fccc8621d3096ac539cd91
 product: open-webui
 product_name: Open WebUI
 record:
@@ -388,10 +388,10 @@ record:
   title: 62 Developer Workflow changes in v0.11.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-22-changed-code-review-to-run-as-a-background-subagent-so-review-work-no-longer-fil|Changed
-  /code-review to run as a background subagent, so review work no longer…]]'
-- '[[Changes/GitHub Copilot CLI/2026-07-23-2-developer-workflow-changes-in-v1-0-74|2
-  Developer Workflow changes in v1.0.74]]'
+- '[[Changes/Devin/2026-07-24-slash-commands-in-the-message-box|Slash Commands in
+  the Message Box]]'
+- '[[Changes/Devin/2026-07-24-required-approvals-at-a-glance|Required Approvals at
+  a Glance]]'
 - '[[Changes/OpenCode/2026-07-24-support-the-current-server-terminal-transport|Support
   the current server terminal transport]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-07-27-v0-11-0-github-360322252-5f18424f|open-webui-2026-07-27-v0-11-0-github-360322252-5f18424f]]'

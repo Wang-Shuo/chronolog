@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 66f0e0bf7c9d06b349b7f3c3d3ca53ab15f2b5aa25cd1ddad3e99d3bf3ee93b2
+machine_hash: e548d232519eeb9ccfce7c90228e6677f5d7ebeae0f537852478935a4be61058
 product: ollama
 product_name: Ollama
 record:
@@ -43,12 +43,12 @@ record:
   title: 2 Model Support changes in v0.0.16
   type: change
 related_changes:
-- '[[Changes/Dify/2023-08-14-5-model-support-changes-in-0-3-13|5 Model Support changes
-  in 0.3.13]]'
 - '[[Changes/Ollama/2023-08-18-4-model-support-changes-in-v0-0-15|4 Model Support
   changes in v0.0.15]]'
 - '[[Changes/Dify/2023-08-23-6-model-support-changes-in-0-3-15|6 Model Support changes
   in 0.3.15]]'
+- '[[Changes/Superwhisper/2023-08-24-2-model-support-changes-in-superwhisper-macos-1-13-1|2
+  Model Support changes in Superwhisper macOS 1.13.1]]'
 source_release: '[[Releases/Ollama/ollama-2023-08-26-v0-0-16-github-118058970-1b019f19|ollama-2023-08-26-v0-0-16-github-118058970-1b019f19]]'
 source_type: github_releases
 theme: model-support
@@ -81,8 +81,8 @@ Source: https://github.com/ollama/ollama/releases/tag/v0.0.16
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2023-08-23 · Dify · [[Changes/Dify/2023-08-23-6-model-support-changes-in-0-3-15|6 Model Support changes in 0.3.15]]
-- Later: 2023-08-30 · Ollama · [[Changes/Ollama/2023-08-30-2-model-support-changes-in-v0-0-17|2 Model Support changes in v0.0.17]]
+- Earlier: 2023-08-24 · Superwhisper · [[Changes/Superwhisper/2023-08-24-2-model-support-changes-in-superwhisper-macos-1-13-1|2 Model Support changes in Superwhisper macOS 1.13.1]]
+- Later: 2023-08-28 · Superwhisper · [[Changes/Superwhisper/2023-08-28-display-alert-if-model-fails-to-initialize|Display alert if model fails to initialize]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

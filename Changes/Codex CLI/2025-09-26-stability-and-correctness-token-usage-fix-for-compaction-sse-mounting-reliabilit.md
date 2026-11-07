@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 375585ce880bf989aa6e7941888f9db621c1044ecaede65a5e6ad7524b4db8e3
+machine_hash: 12430288e8b7462733ef4eba1568e481e0eeac36a2c1a115a7080198f7b49168
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -45,10 +45,10 @@ record:
   title: Stability and correctness
   type: change
 related_changes:
-- '[[Changes/Dify/2025-09-22-5-reliability-and-performance-changes-in-1-9-0|5 Reliability
-  and Performance changes in 1.9.0]]'
 - '[[Changes/Gemini CLI/2025-09-24-feat-add-cached-string-width-function-for-performance-optimization-by-jacob314-i|feat:
   add cached string width function for performance optimization]]'
+- '[[Changes/LM Studio/2025-09-24-improved-memory-usage-estimation-used-for-model-loading-guardrails|Improved
+  memory usage estimation used for model loading guardrails]]'
 - '[[Changes/Open WebUI/2025-09-25-5-reliability-and-performance-changes-in-v0-6-31|5
   Reliability and Performance changes in v0.6.31]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-09-26-rust-v0-42-0-github-250387883-27046aff|codex-cli-2025-09-26-rust-v0-42-0-github-250387883-27046aff]]'

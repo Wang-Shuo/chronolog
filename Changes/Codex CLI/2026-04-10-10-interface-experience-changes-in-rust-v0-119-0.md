@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ebc89ba6f9401445d3c0f5a6594edd9a6ac4fedfb687b28335e5df85b42d775c
+machine_hash: 26f7fbd97331e0ffc57732edd159e2931f9b30a1dc57374682208c2aa1608cf9
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -66,8 +66,8 @@ record:
   title: 10 Interface Experience changes in rust-v0.119.0
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-04-08-terminal-added-a-keybinding-option-for-switch-model-variant|Terminal
-  Added a keybinding option for "Switch model variant"]]'
+- '[[Changes/Superwhisper/2026-04-08-added-help-menu-with-quick-links-to-documentation-and-support|Added
+  Help menu with quick links to documentation and support]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-09-slash-command-picker-appears-above-the-text-input-for-a-more-stable-layout|Slash
   command picker appears above the text input for a more stable layout]]'
 - '[[Changes/Claude Code/2026-04-10-improved-focus-mode-claude-now-writes-more-self-contained-summaries-since-it-kno|Improved

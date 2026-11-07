@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: f30945e96eee4809903a99b707c7f80f9d0ff0e9e07e09ee698b2b57c6b93a07
+machine_hash: a5d9021b84ca114fe511167441f5d61e5db92030022b6ab704361db929a87c91
 product: opencode
 product_name: OpenCode
 record:
@@ -42,8 +42,8 @@ record:
   title: Add db command for database inspection and querying
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-02-13-core-remove-worktree-delete-functionality|Core Remove
-  worktree delete functionality]]'
+- '[[Changes/Raycast/2026-02-13-quickly-create-a-new-script-with-create-script-command-or-import-existing-script|Quickly
+  create a new script with Create Script Command or import existing scripts…]]'
 - '[[Changes/Open WebUI/2026-02-14-2-developer-workflow-changes-in-v0-8-1|2 Developer
   Workflow changes in v0.8.1]]'
 - '[[Changes/OpenCode/2026-02-14-3-developer-workflow-changes-in-v1-2-0|3 Developer

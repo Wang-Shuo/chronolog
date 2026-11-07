@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: ad28287c6055d9a6d03baec14e44a6ca3769a7f95e91aaec7a1c3607ad15108a
+machine_hash: 03fa24f521a244d8191b0c63f847cd8dab75c548579c97d8de9ad61e2468eb2b
 product: ollama
 product_name: Ollama
 record:
@@ -82,7 +82,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2024-07-19 · OpenHands · [[Changes/OpenHands/2024-07-19-4-model-support-changes-in-0-8-1|4 Model Support changes in 0.8.1]]
-- Later: 2024-07-23 · Cursor · [[Changes/Cursor/2024-07-23-new-default-model-we-ve-made-claude-3-5-sonnet-the-default-model-for-users|New Default Model: We've made Claude 3.5 Sonnet the default model for users]]
+- Later: 2024-07-22 · Superwhisper · [[Changes/Superwhisper/2024-07-22-gpt-4o-mini-now-available|GPT-4o mini now available]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

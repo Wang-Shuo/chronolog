@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 67634f4d277dda714bdf351e254d4e3f3903db618d98794e65b5823a009c1981
+machine_hash: d0f5930c92f970fc12b03dc90f02268fc863cb031bff50e35b51990d4dd465f5
 product: notion
 product_name: Notion
 record:
@@ -39,10 +39,10 @@ record:
   title: Notion Mail is now on iOS
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2025-08-09-2-mobile-and-desktop-changes-in-v0-6-19|2 Mobile
-  and Desktop changes in v0.6.19]]'
 - '[[Changes/Gemini CLI/2025-08-14-2-mobile-and-desktop-changes-in-v0-1-21|2 Mobile
   and Desktop changes in v0.1.21]]'
+- '[[Changes/AnythingLLM/2025-08-15-mobile-sync-support-by-timothycarambat-in-https-github-com-mintplex-labs-anythin|Mobile
+  sync support]]'
 - '[[Changes/Ollama/2025-08-15-reduced-size-of-installation-on-windows-and-linux|Reduced
   size of installation on Windows and Linux]]'
 source_release: '[[Releases/Notion/notion-2025-08-19-https-www-notion-com-releases-2025-08-19-87113ed0|notion-2025-08-19-https-www-notion-com-releases-2025-08-19-87113ed0]]'

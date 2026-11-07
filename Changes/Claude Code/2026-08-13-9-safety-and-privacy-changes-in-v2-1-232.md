@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3f868e267da457357e77522672afa1dbea364efe093cd82047e6aabb16c2385b
+machine_hash: 1b5b7abcce98d084ba2712f19fb243cdf32ee090d69aef12cf6e1ca30f38a516
 product: claude-code
 product_name: Claude Code
 record:
@@ -70,11 +70,11 @@ record:
   title: 9 Safety and Privacy changes in v2.1.232
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-08-11-fix-a2a-server-enforce-workspace-trust-and-task-isolation-to-prevent-rce-by-luis|fix(a2a-server):
-  enforce workspace trust and task isolation to prevent RCE]]'
 - '[[Changes/Lovable/2026-08-11-limit-on-free-fixes|Limit on free fixes]]'
 - '[[Changes/Claude Code/2026-08-12-improved-sandbox-ipv6-literals-in-network-domain-lists-are-now-bracketed-1-443-a|Improved
   sandbox: IPv6 literals in network domain lists are now bracketed…]]'
+- '[[Changes/Devin/2026-08-12-security-profile-safeguards-in-the-automation-editor|Security
+  Profile Safeguards in the Automation Editor]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-13-v2-1-232-github-370225682-71e478db|claude-code-2026-08-13-v2-1-232-github-370225682-71e478db]]'
 source_type: github_releases
 theme: safety-privacy
@@ -133,7 +133,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.232
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-08-12 · Claude Code · [[Changes/Claude Code/2026-08-12-improved-sandbox-ipv6-literals-in-network-domain-lists-are-now-bracketed-1-443-a|Improved sandbox: IPv6 literals in network domain lists are now bracketed…]]
+- Earlier: 2026-08-12 · Devin · [[Changes/Devin/2026-08-12-security-profile-safeguards-in-the-automation-editor|Security Profile Safeguards in the Automation Editor]]
 - Later: 2026-08-13 · Cline · [[Changes/Cline/2026-08-13-fix-the-claude-code-provider-being-unusable-for-agentic-work-it-now-runs-its-own|Fix the Claude Code provider being unusable for agentic work]]
 <!-- chronolog:end -->
 

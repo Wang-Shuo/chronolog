@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: cca2e298c4fcd300ad841786a460d05b5a275330165b1cc23e4a8fcc9cb975b6
+machine_hash: d9c177cdecca4830386e924a0423170b9025a457dff2a040b7172b62533ce3ab
 product: claude-code
 product_name: Claude Code
 record:
@@ -114,7 +114,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.286
 ## Nearby in Agent Mode
 
 - Earlier: 2026-09-29 · Codex CLI · [[Changes/Codex CLI/2026-09-29-48190-bound-agent-message-board-sse-frames-before-parsing-jif-oai|♯48190 Bound agent message board SSE frames before parsing @jif-oai]]
-- Later: 2026-09-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-30-auto-approval-now-takes-into-account-messages-you-type-while-the-agent-is-workin|Auto-approval now takes into account messages you type while the agent is working…]]
+- Later: 2026-09-30 · Devin · [[Changes/Devin/2026-09-30-devin-as-a-native-jira-agent|Devin as a Native Jira Agent]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

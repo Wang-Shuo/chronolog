@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 59e892d28602bb375648e4941446db8794eb950cb10214b53f499a6981dff3a7
+machine_hash: 2d31cbfd2530f1692ef45cae95bf5f5460432897829492bde75dba799c207968
 product: ollama
 product_name: Ollama
 record:
@@ -43,12 +43,12 @@ record:
   title: Reduced likelihood of false positive Windows Defender alerts on Windows
   type: change
 related_changes:
-- '[[Changes/Ollama/2024-02-14-ollama-on-windows-is-now-available-in-preview|Ollama
-  on Windows is now available in preview]]'
 - '[[Changes/Descript/2024-02-20-quick-recorder-issues-when-using-screen-time-on-macos|Quick
   Recorder issues when using Screen Time on MacOS]]'
 - '[[Changes/Ollama/2024-02-21-quotes-will-now-be-trimmed-around-the-value-of-the-ollama-host-on-windows|Quotes
   will now be trimmed around the value of the OLLAMA_HOST on Windows]]'
+- '[[Changes/Raycast/2024-02-21-clipboard-history-added-a-new-action-to-share-an-item-with-the-native-macos-shar|Clipboard
+  History : Added a new action to share an item with the native macOS Share…]]'
 source_release: '[[Releases/Ollama/ollama-2024-02-22-v0-1-27-github-143272149-4d2bee97|ollama-2024-02-22-v0-1-27-github-143272149-4d2bee97]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -79,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2024-02-21 · Ollama · [[Changes/Ollama/2024-02-21-quotes-will-now-be-trimmed-around-the-value-of-the-ollama-host-on-windows|Quotes will now be trimmed around the value of the OLLAMA_HOST on Windows]]
+- Earlier: 2024-02-21 · Raycast · [[Changes/Raycast/2024-02-21-clipboard-history-added-a-new-action-to-share-an-item-with-the-native-macos-shar|Clipboard History : Added a new action to share an item with the native macOS Share…]]
 - Later: 2024-02-26 · Notion · [[Changes/Notion/2024-02-26-take-actions-from-mobile-notifications|Take actions from mobile notifications]]
 <!-- chronolog:end -->
 

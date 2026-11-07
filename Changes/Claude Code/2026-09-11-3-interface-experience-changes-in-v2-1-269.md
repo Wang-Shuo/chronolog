@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c81500e85868014c8c1cd3a5137c05a207889f27193efb7e5b967e81630e6257
+machine_hash: 7470deb377111e62fdd2399df1954858de23e756d12555c7ecc80c555e9be091
 product: claude-code
 product_name: Claude Code
 record:
@@ -99,7 +99,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.269
 ## Nearby in Interface Experience
 
 - Earlier: 2026-09-10 · Dify · [[Changes/Dify/2026-09-10-8-interface-experience-changes-in-1-17-1|8 Interface Experience changes in 1.17.1]]
-- Later: 2026-09-11 · Lovable · [[Changes/Lovable/2026-09-11-preview-a-remixable-project-without-signing-in|Preview a remixable project without signing in]]
+- Later: 2026-09-11 · Devin · [[Changes/Devin/2026-09-11-nested-sidebar-groups-stay-expanded|Nested Sidebar Groups Stay Expanded]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 9e3fac56275a23648a4eca1e847a57701bea2f6b8cda97493d1951b86d4c3f37
+machine_hash: bf73c26377d53fe330f31f7a53328b4525c9ff49f790358362fc63d56b1e345f
 product: replit
 product_name: Replit
 record:
@@ -45,10 +45,10 @@ record:
   title: Stripe Atlas on Replit
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-23-2-agent-mode-changes-in-v2-1-310|2 Agent Mode
-  changes in v2.1.310]]'
 - '[[Changes/Codex CLI/2026-10-23-13-agent-mode-changes-in-rust-v0-164-0|13 Agent
   Mode changes in rust-v0.164.0]]'
+- '[[Changes/Devin/2026-10-23-choose-your-own-default-agent|Choose Your Own Default
+  Agent]]'
 - '[[Changes/Dify/2026-10-23-32-agent-mode-changes-in-1-18-0|32 Agent Mode changes
   in 1.18.0]]'
 source_release: '[[Releases/Replit/replit-2026-10-23-2026-10-23-22527b8b|replit-2026-10-23-2026-10-23-22527b8b]]'

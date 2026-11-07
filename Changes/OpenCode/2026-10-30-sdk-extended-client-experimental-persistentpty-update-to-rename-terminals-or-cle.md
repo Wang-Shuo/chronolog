@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6f0d8430066ed33edac8eacae5d704dfa253d80f5593f81c4fdce395ff7579c5
+machine_hash: c34b75e3933e097538373c3245027a3ecf05e23864f41d37f945643c138571b5
 product: opencode
 product_name: OpenCode
 record:
@@ -46,10 +46,10 @@ record:
     or clear…
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-10-29-5-apps-and-integrations-changes-in-v2-2-1|5 Apps
-  and Integrations changes in v2.2.1]]'
-- '[[Changes/Claude Code/2026-10-30-3-apps-and-integrations-changes-in-v2-1-314|3
-  Apps and Integrations changes in v2.1.314]]'
+- '[[Changes/Devin/2026-10-30-personal-plugins-live-reload-into-running-sessions|Personal
+  Plugins Live-Reload into Running Sessions]]'
+- '[[Changes/Devin/2026-10-30-header-scripts-for-mcp-servers-on-the-session-machine|Header
+  Scripts for MCP Servers on the Session Machine]]'
 - '[[Changes/OpenCode/2026-10-30-4-apps-and-integrations-changes-in-v2-2-5|4 Apps
   and Integrations changes in v2.2.5]]'
 source_release: '[[Releases/OpenCode/opencode-2026-10-30-v2-2-4-aa4b8502|opencode-2026-10-30-v2-2-4-aa4b8502]]'

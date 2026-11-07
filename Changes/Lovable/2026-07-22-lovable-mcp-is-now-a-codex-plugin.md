@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 8eafd671bf98f17e9245f4a035396e1f0141eaeccf5c1e5cad3df108594b5abf
+machine_hash: d40a823d7e4f7151ca34bf6f219e1a547ede0998ffcd84f458c8620cd778ff03
 product: lovable
 product_name: Lovable
 record:
@@ -44,8 +44,7 @@ record:
   title: Lovable MCP is now a Codex plugin
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-22-3-apps-and-integrations-changes-in-v2-1-218|3
-  Apps and Integrations changes in v2.1.218]]'
+- '[[Changes/Devin/2026-07-22-safer-mcp-access-changes|Safer MCP Access Changes]]'
 - '[[Changes/Kimi Code/2026-07-22-reconnect-a-dropped-mcp-server-connection-automatically-when-one-of-its-tools-is|Reconnect
   a dropped MCP server connection automatically when one of its tools…]]'
 - '[[Changes/Lovable/2026-07-22-bulk-edit-your-shopify-catalog-in-one-approval|Bulk-edit

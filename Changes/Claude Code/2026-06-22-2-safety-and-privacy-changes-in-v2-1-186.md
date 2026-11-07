@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 72e1df678cea7e01bbe9218b278973fc2daff2759d95306bb4107339cb2ce7a0
+machine_hash: 629041b441b3dd36a1aa1913c55e8a09105077f1d598bfd0c14600fd9fe1e74d
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,11 +45,10 @@ record:
   title: 2 Safety and Privacy changes in v2.1.186
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-06-18-app-permission-controls-you-can-now-choose-when-chatgpt-asks-before-using-connec|App
-  permission controls: You can now choose when ChatGPT asks before using connected
-  apps]]'
 - '[[Changes/Codex CLI/2026-06-18-7-safety-and-privacy-changes-in-rust-v0-141-0|7
   Safety and Privacy changes in rust-v0.141.0]]'
+- '[[Changes/Raycast/2026-06-18-apple-shortcuts-fixed-missing-apple-shortcuts-and-improve-fallback-when-shortcut|Apple
+  Shortcuts : Fixed missing Apple Shortcuts and improve fallback when Shortcuts…]]'
 - '[[Changes/v0/2026-06-19-responding-to-an-agent-prompt-for-an-environment-variable-permission-question-or|Responding
   to an agent prompt for an environment variable, permission, question…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-22-v2-1-186-github-343079393-93ecc37b|claude-code-2026-06-22-v2-1-186-github-343079393-93ecc37b]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 80ff5af1728e88c144cd9af1e0ae4b1ce14c6947abd241a672b1147c8200f669
+machine_hash: 1d00df33f850f92a7e7128e69beffa63df352bc006a2ed3825bdaf4261ee4cda
 product: manus
 product_name: Manus
 record:

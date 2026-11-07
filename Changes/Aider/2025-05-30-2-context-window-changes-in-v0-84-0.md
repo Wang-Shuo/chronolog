@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9882c11f6e73b85c6d67e752b1885e398822075161e2ae7988b29aded71a2040
+machine_hash: 88999116317726bdf4b056149701aeeb9357fb68ee4d4aed23277ca3dbd2ccdb
 product: aider
 product_name: Aider
 record:
@@ -86,7 +86,7 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.84.0
 ## Nearby in Context Window
 
 - Earlier: 2025-05-28 · Open WebUI · [[Changes/Open WebUI/2025-05-28-localization-translation-enhancements-improved-and-expanded-simplified-tradition|🌍 Localization & Translation Enhancements]]
-- Later: 2025-06-10 · Cline · [[Changes/Cline/2025-06-10-prioritize-active-files-open-tabs-at-the-top-of-the-file-context-menu-when-using|Prioritize active files (open tabs) at the top of the file context menu when using…]]
+- Later: 2025-06-10 · AnythingLLM · [[Changes/AnythingLLM/2025-06-10-automatic-context-window-detection-by-timothycarambat-in-https-github-com-mintpl|Automatic Context window detection]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

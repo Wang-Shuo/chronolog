@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 7237af866dc9ddb79439d13a610261ae1fa2828a0ae0f0900ed857e27d47b1ae
+machine_hash: 5e76923a9e813497531894d99263fdfcfd982346f65ae5af9e6fa24668cdf276
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,10 +45,9 @@ record:
     runs
   type: change
 related_changes:
-- "[[Changes/Notion/2026-10-19-meet-auto-our-upgraded-model-router|Meet Auto, our
-  upgraded model router \U0001F500]]"
 - '[[Changes/GitHub Copilot CLI/2026-10-20-8-model-support-changes-in-v1-0-101|8 Model
   Support changes in v1.0.101]]'
+- '[[Changes/Krea/2026-10-20-krea-3-in-the-chatgpt-app|Krea 3 in the ChatGPT app]]'
 - '[[Changes/Lovable/2026-10-20-seedream-5-pro-and-seedance-2-5-for-your-app-s-ai-features|Seedream
   5 Pro and Seedance 2.5 for your app''s AI features]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-10-21-v1-0-102-github-419886241-eab5a98d|github-copilot-cli-2026-10-21-v1-0-102-github-419886241-eab5a98d]]'

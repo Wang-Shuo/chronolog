@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a47c2ba1d1b34b35a091caab45c38b05c5ab14e11e526a067d5cf4d7f1473a95
+machine_hash: eec7617782f217cbc2375a44b1cb13c0be42ffcb04355039ed231b70f7529739
 product: suno
 product_name: Suno
 record:
@@ -43,10 +43,10 @@ record:
   title: Custom Models Upload at least 6 tracks from your catalog to train a personalized…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-26-3-model-support-changes-in-rust-v0-117-0|3 Model
-  Support changes in rust-v0.117.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-26-model-display-header-shows-the-active-reasoning-effort-level-e-g-high-next-to-th|Model
   display header shows the active reasoning effort level (e.g. "(high)") next…]]'
+- '[[Changes/LM Studio/2026-03-26-adds-a-reasoning-field-to-the-api-v1-models-api-response-indicating-each-model-s|Adds
+  a reasoning field to the /api/v1/models API response, indicating each…]]'
 - '[[Changes/Suno/2026-03-26-v5-5-our-newest-model-richer-arrangements-sharper-vocals-and-more-dynamic-sound|v5.5
   Our newest model]]'
 source_release: '[[Releases/Suno/suno-2026-03-26-e-introducing-v5-5-voices-custom-models-and-my-taste-e9756704|suno-2026-03-26-e-introducing-v5-5-voices-custom-models-and-my-taste-e9756704]]'
@@ -79,8 +79,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-03-26 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-26-model-display-header-shows-the-active-reasoning-effort-level-e-g-high-next-to-th|Model display header shows the active reasoning effort level (e.g. "(high)") next…]]
-- Later: 2026-03-27 · Dify · [[Changes/Dify/2026-03-27-7-model-support-changes-in-1-13-3|7 Model Support changes in 1.13.3]]
+- Earlier: 2026-03-26 · LM Studio · [[Changes/LM Studio/2026-03-26-adds-a-reasoning-field-to-the-api-v1-models-api-response-indicating-each-model-s|Adds a reasoning field to the /api/v1/models API response, indicating each…]]
+- Later: 2026-03-26 · Superwhisper · [[Changes/Superwhisper/2026-03-26-parakeet-english-only-model-with-real-time-support-added|Parakeet English only model with real-time support added]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

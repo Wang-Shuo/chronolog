@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 580747df0c800bd52ef6be490269b1f301813a44c5f8c445b84331114029ef12
+machine_hash: 1603bb1e935f5d0c0982b139ca71611c4fa26016742fa50dd1b1a11acd04289a
 product: openhands
 product_name: OpenHands
 record:
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Safety and Privacy
 
 - Earlier: 2024-11-26 · Ollama · [[Changes/Ollama/2024-11-26-strong-typing-throughout-the-library-for-improved-reliability-and-type-safety|Strong typing throughout the library for improved reliability and type safety]]
-- Later: 2024-12-18 · Cline · [[Changes/Cline/2024-12-18-cline-s-most-requested-feature-is-here-you-can-now-let-cline-work-more-autonomou|Cline's most requested feature is here 🎉 You can now let Cline work more…]]
+- Later: 2024-12-04 · Raycast · [[Changes/Raycast/2024-12-04-deeplinks-removed-security-alert-showing-when-opening-a-deeplink-from-quicklink|Deeplinks: Removed security alert showing when opening a deeplink from quicklink]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

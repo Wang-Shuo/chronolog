@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 90d94816c18c0eea27ab25d09a16e0e6de1956acdb538f5b8484ecaf945a6f59
+machine_hash: 39eeba95d0eb4b2541c6a31d669b137726d37a5c07096c9b6978e575dee303cd
 product: descript
 product_name: Descript
 record:
@@ -67,11 +67,11 @@ record:
   title: Canvas becomes Scene Editor
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-02-06-users-can-now-share-a-canvas-asset-such-as-rendered-react-html-code-document-or-2f5aff|Canvas
-  sharing]]'
 - '[[Changes/Descript/2025-02-11-scene-toolbar|Scene toolbar]]'
 - "[[Changes/Open WebUI/2025-02-13-jupyter-notebook-support-in-code-interpreter-now-you-can-configure-code-interpre|\U0001F40D
   Jupyter Notebook Support in Code Interpreter]]"
+- '[[Changes/AnythingLLM/2025-02-18-2-files-and-data-changes-in-v1-7-4|2 Files and
+  Data changes in v1.7.4]]'
 source_release: '[[Releases/Descript/descript-2025-02-25-67bde093ca243fdab541e3f6-d25f4f75|descript-2025-02-25-67bde093ca243fdab541e3f6-d25f4f75]]'
 source_type: canny_changelog
 theme: file-data
@@ -110,7 +110,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2025-02-13 · Open WebUI · [[Changes/Open WebUI/2025-02-13-jupyter-notebook-support-in-code-interpreter-now-you-can-configure-code-interpre|🐍 Jupyter Notebook Support in Code Interpreter]]
+- Earlier: 2025-02-18 · AnythingLLM · [[Changes/AnythingLLM/2025-02-18-2-files-and-data-changes-in-v1-7-4|2 Files and Data changes in v1.7.4]]
 - Later: 2025-02-26 · Gamma · [[Changes/Gamma/2025-02-26-sharing-your-ideas-just-got-easier-you-can-now-post-directly-to-linkedin-from-ga|Post directly to LinkedIn 🚀]]
 <!-- chronolog:end -->
 

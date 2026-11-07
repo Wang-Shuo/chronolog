@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6ad60b1beb1f88e95271f42b596409f5400b7359e74fe1f50ac47dfe829a8aff
+machine_hash: 5c81f0bd3cb7b7c4006c5abfa3f67f34969a512fa049722792c38bf43cad1047
 product: cursor
 product_name: Cursor
 record:
@@ -41,8 +41,7 @@ record:
   title: 2 Editor Experience changes in 3.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-01-changed-edit-to-work-on-files-viewed-via-bash-with-sed-n-or-cat-without-requirin|Changed
-  Edit to work on files viewed via Bash with sed -n or cat, without…]]'
+- '[[Changes/Devin/2026-04-01-tab-title-simplification|Tab Title Simplification]]'
 - '[[Changes/Gemini CLI/2026-04-01-refactor-ide-replace-dynamic-undici-import-with-static-fetch-import-by-cocosheng|refactor(ide):
   replace dynamic undici import with static fetch import]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-01-3-editor-experience-changes-in-v1-0-15|3
@@ -92,7 +91,7 @@ Source: https://cursor.com/changelog/3-0
 ## Nearby in Editor Experience
 
 - Earlier: 2026-04-01 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-01-3-editor-experience-changes-in-v1-0-15|3 Editor Experience changes in v1.0.15]]
-- Later: 2026-04-04 · Claude Code · [[Changes/Claude Code/2026-04-04-removed-vim-command-toggle-vim-mode-via-config-editor-mode|Removed /vim command (toggle vim mode via /config → Editor mode)]]
+- Later: 2026-04-03 · Raycast · [[Changes/Raycast/2026-04-03-quicklinks-added-edit-duplicate-disable-delete-actions-in-settings|Quicklinks: Added Edit , Duplicate , Disable , Delete actions in settings]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

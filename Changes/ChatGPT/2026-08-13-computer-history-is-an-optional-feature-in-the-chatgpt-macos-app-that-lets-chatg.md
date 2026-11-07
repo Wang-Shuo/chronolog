@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f33f6aa14c3f46fdb40b2654e9628cc23a91a4226f2070c02c75176fea6e5af3
+machine_hash: fd6d3f7fd4c888c1ae6e2b083ce50e98a4456ddc353e51ecc1c4b98ea47b4d82
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -71,11 +71,11 @@ record:
   title: Computer History for macOS
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-08-07-unlimited-email-invites-on-paid-plans|Unlimited email
-  invites on paid plans]]'
 - '[[Changes/Replit/2026-08-07-teams-and-enterprise|Teams and Enterprise]]'
 - '[[Changes/GitHub Copilot CLI/2026-08-10-2-enterprise-and-administration-changes-in-v1-0-79|2
   Enterprise and Administration changes in v1.0.79]]'
+- '[[Changes/LM Studio/2026-08-12-support-for-local-server-api-key-in-enterprise-internal-network-endpoint-mode|Support
+  for local server API key in enterprise internal network endpoint mode]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-13-computer-history-for-macos-4b03e9a3|chatgpt-2026-08-13-computer-history-for-macos-4b03e9a3]]'
 source_type: chatgpt_changelog
 theme: enterprise-admin
@@ -102,7 +102,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-08-10 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-08-10-2-enterprise-and-administration-changes-in-v1-0-79|2 Enterprise and Administration changes in v1.0.79]]
+- Earlier: 2026-08-12 · LM Studio · [[Changes/LM Studio/2026-08-12-support-for-local-server-api-key-in-enterprise-internal-network-endpoint-mode|Support for local server API key in enterprise internal network endpoint mode]]
 - Later: 2026-08-13 · Claude Code · [[Changes/Claude Code/2026-08-13-enterprise-policy-a-url-typed-blockedmarketplaces-entry-for-a-bare-repo-url-keep|Enterprise policy: a url-typed blockedMarketplaces entry for a bare repo URL keeps…]]
 <!-- chronolog:end -->
 

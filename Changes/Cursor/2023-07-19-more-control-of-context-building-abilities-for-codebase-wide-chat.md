@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a01a29c13711ec99786656310c1abd8c8789942a6cc82b1b5554a0db80304426
+machine_hash: b10c3fe03c0e4ebf6e7479ed0d1958452ac6e41b3f106a8cf015e1a100a64a89
 product: cursor
 product_name: Cursor
 record:
@@ -76,7 +76,7 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2023-07-19 · Cursor · [[Changes/Cursor/2023-07-19-advanced-context-controls-only-show-up-if-you-have-indexed-your-codebase|Advanced context controls only show up if you have indexed your codebase]]
-- Later: 2023-08-02 · Aider · [[Changes/Aider/2023-08-02-automatically-summarize-chat-history-to-avoid-exhausting-context-window|Automatically summarize chat history to avoid exhausting context window]]
+- Later: 2023-07-27 · Raycast · [[Changes/Raycast/2023-07-27-ai-commands-built-in-commands-now-use-gpt-3-5-turbo-model-with-up-to-16k-context|AI-Commands: Built-in commands now use gpt-3.5-turbo model with up to 16k context]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

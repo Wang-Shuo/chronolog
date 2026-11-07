@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 696e77f2432d4b495612263a2c8faef9374f8e94e73c13678863d1964a98e269
+machine_hash: 5db669d306d782f9c5e5c1f4aa3d0f96605c8fff979fc4329eacfb3d10972cd2
 product: cursor
 product_name: Cursor
 record:
@@ -46,12 +46,12 @@ record:
   title: One-Click Extension Import from VS Code (beta)
   type: change
 related_changes:
-- '[[Changes/Notion/2023-03-23-embed-content-from-2-000-apps-like-mixpanel-and-twitch|Embed
-  content from 2,000 apps like Mixpanel and Twitch]]'
 - '[[Changes/Descript/2023-04-17-edit-in-descript-projects-created-via-edit-in-descript-integrations-https-help-d|Edit
   in Descript]]'
 - '[[Changes/Notion/2023-04-27-slack-integration-2-0-save-messages-and-configure-notifications|Slack
   integration 2.0: save messages and configure notifications]]'
+- '[[Changes/Raycast/2023-04-28-the-default-search-scope-for-apps-from-parallels-vms-can-now-be-removed-preferen|The
+  default search scope for apps from Parallels VMs can now be removed…]]'
 source_release: '[[Releases/Cursor/cursor-2023-05-04-0-2-9-https-cursor-com-changelog-0-2-9-fbb1587c|cursor-2023-05-04-0-2-9-https-cursor-com-changelog-0-2-9-fbb1587c]]'
 source_type: cursor_changelog
 theme: apps-integrations
@@ -83,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2023-04-27 · Notion · [[Changes/Notion/2023-04-27-slack-integration-2-0-save-messages-and-configure-notifications|Slack integration 2.0: save messages and configure notifications]]
+- Earlier: 2023-04-28 · Raycast · [[Changes/Raycast/2023-04-28-the-default-search-scope-for-apps-from-parallels-vms-can-now-be-removed-preferen|The default search scope for apps from Parallels VMs can now be removed…]]
 - Later: 2023-05-12 · ChatGPT · [[Changes/ChatGPT/2023-05-12-plugins-try-a-new-version-of-chatgpt-that-knows-when-and-how-to-use-third-party|Plugins: Try a new version of ChatGPT that knows when and how to use third-party…]]
 <!-- chronolog:end -->
 

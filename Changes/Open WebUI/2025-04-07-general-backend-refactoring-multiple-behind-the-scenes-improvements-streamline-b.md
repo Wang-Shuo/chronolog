@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f52a91a5f5401746d7c5c0b068330186ff4def4898700abbfed3821039789e1d
+machine_hash: 420d39693f2402e85075f25366f66e584c376dbf8b11d402c7c188b2f42216d9
 product: open-webui
 product_name: Open WebUI
 record:
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2025-04-06 · Cline · [[Changes/Cline/2025-04-06-add-improvements-to-file-mention-searching-for-faster-searching|Add improvements to file mention searching for faster searching]]
-- Later: 2025-04-09 · Dify · [[Changes/Dify/2025-04-09-2-reliability-and-performance-changes-in-1-2-0|2 Reliability and Performance changes in 1.2.0]]
+- Later: 2025-04-08 · Devin · [[Changes/Devin/2025-04-08-use-devin-s-analysis-to-get-up-to-speed-or-just-click-the-provided-link-to-have|Use Devin's analysis to get up to speed, or just click the provided link to have…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4bb648cea9a14ae9ea59c01a2fe86cc9fa1ab2c01a75e774ae08b49debb3231a
+machine_hash: 1e8c3de1055eb591bb7871d67bac3992024ab5490dedcaa8e35341d71122bb80
 product: cursor
 product_name: Cursor
 record:
@@ -43,8 +43,8 @@ record:
   title: Includes some updates to "Option+Enter" in the chat
   type: change
 related_changes:
-- '[[Changes/Descript/2023-04-17-duplicate-to-now-copies-over-the-layout-and-all-overlapping-layers-from-the-orig|Duplicate
-  to…: Now copies over the layout and all overlapping layers…]]'
+- '[[Changes/Raycast/2023-04-28-ai-chat-opens-now-in-the-resizable-floating-window-by-default-ai-commands-open-i|AI
+  Chat : Opens now in the resizable, floating window by default]]'
 - '[[Changes/ChatGPT/2023-05-03-you-can-now-turn-off-chat-history-and-export-your-data-from-the-chatgpt-settings|Turn
   off chat history and export your data from the ChatGPT settings]]'
 - '[[Changes/Cursor/2023-05-04-added-the-ability-to-hide-the-tooltip-cursor-config-advanced-chat-edit-tooltip|Added

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 20611fc4140e33c2c9e1d9f3bffe1e779c5b1c3d51b6b8a7b3f012ea43a396b9
+machine_hash: 5829b0586eef601ba51861221c1ff9d9efcd7dc97a9cea04d001dc8c81b97cac
 product: claude
 product_name: Claude
 record:
@@ -56,11 +56,12 @@ record:
   title: Delegate work to Claude in Slack with Claude Tag
   type: change
 related_changes:
-- '[[Changes/Google Antigravity/2026-06-22-2-apps-and-integrations-changes-in-ide-v2-1-1-model-quota-screen|2
-  Apps and Integrations changes in IDE v2.1.1 — Model quota screen…]]'
-- '[[Changes/Lovable/2026-06-22-lovable-mcp-updates|Lovable MCP updates]]'
 - '[[Changes/Lovable/2026-06-22-aikido-penetration-testing-is-now-available-on-all-plans|Aikido
   penetration testing is now available on all plans]]'
+- '[[Changes/Raycast/2026-06-22-ai-extensions-and-mcps-unlock-smarter-workflows-while-on-the-go-connect-and-call|AI
+  Extensions and MCPs unlock smarter workflows while on the go]]'
+- '[[Changes/Raycast/2026-06-22-ai-tool-calling-in-chat-with-local-and-custom-mcp-tools|AI:
+  Tool calling in chat with local and custom MCP tools]]'
 source_release: '[[Releases/Claude/claude-2026-06-23-2026-06-23-478b64ef|claude-2026-06-23-2026-06-23-478b64ef]]'
 source_type: claude_changelog
 theme: apps-integrations
@@ -87,7 +88,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-06-22 · Lovable · [[Changes/Lovable/2026-06-22-aikido-penetration-testing-is-now-available-on-all-plans|Aikido penetration testing is now available on all plans]]
+- Earlier: 2026-06-22 · Raycast · [[Changes/Raycast/2026-06-22-ai-tool-calling-in-chat-with-local-and-custom-mcp-tools|AI: Tool calling in chat with local and custom MCP tools]]
 - Later: 2026-06-23 · Claude Code · [[Changes/Claude Code/2026-06-23-2-apps-and-integrations-changes-in-v2-1-187|2 Apps and Integrations changes in v2.1.187]]
 <!-- chronolog:end -->
 

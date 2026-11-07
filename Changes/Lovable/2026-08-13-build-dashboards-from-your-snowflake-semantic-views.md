@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 23ffbbec1a63f1469410f113b584fd6c9a3443a5bb266a5ae640d9e77a59a100
+machine_hash: a1bec77bdaba601f3924c5ba0f0bfeab9b5367144444250db081585a3b558bfd
 product: lovable
 product_name: Lovable
 record:
@@ -55,8 +55,8 @@ record:
   title: Build dashboards from your Snowflake semantic views
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-08-12-unpublish-several-projects-at-once|Unpublish several
-  projects at once]]'
+- '[[Changes/AnythingLLM/2026-08-13-4-apps-and-integrations-changes-in-v1-16-0|4 Apps
+  and Integrations changes in v1.16.0]]'
 - '[[Changes/Claude Code/2026-08-13-4-apps-and-integrations-changes-in-v2-1-232|4
   Apps and Integrations changes in v2.1.232]]'
 - '[[Changes/Cline/2026-08-13-these-land-through-sdk-v0-0-74-and-therefore-apply-to-windows-running-the-sdk-bu|These

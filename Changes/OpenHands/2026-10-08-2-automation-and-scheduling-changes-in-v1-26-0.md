@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b014103a3cd03d36f3421ceafae25bbfee01441aab6b8fa196f701c5ee9b2989
+machine_hash: 8f1962ed7bc75cf4c373e5fbdf437feb319ed5859eac52e78531bd3c0460479f
 product: openhands
 product_name: OpenHands
 record:
@@ -87,7 +87,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/v1.26.0
 ## Nearby in Automation and Scheduling
 
 - Earlier: 2026-10-08 · OpenClaw · [[Changes/OpenClaw/2026-10-08-2-automation-and-scheduling-changes-in-v2026-9-9|2 Automation and Scheduling changes in v2026.9.9]]
-- Later: 2026-10-09 · Replit · [[Changes/Replit/2026-10-09-create-and-manage-tiktok-ads|Create and manage TikTok Ads]]
+- Later: 2026-10-09 · Devin · [[Changes/Devin/2026-10-09-slack-write-back-posts-attachments-inline|Slack write-back posts attachments inline]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

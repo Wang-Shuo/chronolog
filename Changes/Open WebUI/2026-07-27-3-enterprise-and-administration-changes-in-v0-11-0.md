@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: bdd979434ae56ac5d842ff80bcbd9e3a1e1fc4e8f5d8ba9fb5dada50d195b67e
+machine_hash: 346fd0567d423bc96881ff6e86cf493044d350bb4e46d949bf191d7be8d0f966
 product: open-webui
 product_name: Open WebUI
 record:
@@ -53,9 +53,9 @@ record:
   title: 3 Enterprise and Administration changes in v0.11.0
   type: change
 related_changes:
-- '[[Changes/v0/2026-07-21-enterprise-managed-users-are-surfaced-in-the-web-ui-and-their-profiles-are-alway|Enterprise
-  Managed Users are surfaced in the web UI, and their profiles are always private]]'
-- '[[Changes/Cursor/2026-07-22-admin-controls|Admin controls]]'
+- '[[Changes/Devin/2026-07-22-quicker-access-to-enterprise-settings|Quicker Access
+  to Enterprise Settings]]'
+- '[[Changes/Devin/2026-07-24-api-additions|API Additions]]'
 - '[[Changes/Lovable/2026-07-24-editors-can-see-build-secret-names|Editors can see
   build secret names]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-07-27-v0-11-0-github-360322252-5f18424f|open-webui-2026-07-27-v0-11-0-github-360322252-5f18424f]]'

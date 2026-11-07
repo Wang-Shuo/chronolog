@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: a481b8b26630ffee31ace4caa9ad82534a886f1f85c8d571e696018c0faf2cc8
+machine_hash: cc897e9f9593a4464a0d20d87e0ff6a8bbf6b6265af9ccc2613b212e3f6c78d9
 product: windsurf
 product_name: Windsurf
 record:
@@ -43,11 +43,12 @@ record:
   title: Deeper Browser integration
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2025-07-14-sdks|SDKs]]'
 - '[[Changes/Cline/2025-07-15-add-markdown-parsing-to-mcp-responses-by-celestial-vault-in-https-github-com-cli|Add
   markdown parsing to MCP responses]]'
 - '[[Changes/OpenHands/2025-07-16-added-cli-vscode-integration-by-enyst-in-https-github-com-all-hands-ai-openhands|Added
   CLI/VSCode integration]]'
+- '[[Changes/Raycast/2025-07-16-3-apps-and-integrations-changes-in-raycast-macos-v1-1-101-0|3
+  Apps and Integrations changes in Raycast macos-v1 1.101.0]]'
 source_release: '[[Releases/Windsurf/windsurf-2025-07-17-v1-11-0-705f6ab2|windsurf-2025-07-17-v1-11-0-705f6ab2]]'
 source_type: windsurf_changelog
 theme: apps-integrations
@@ -81,7 +82,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-07-16 · OpenHands · [[Changes/OpenHands/2025-07-16-added-cli-vscode-integration-by-enyst-in-https-github-com-all-hands-ai-openhands|Added CLI/VSCode integration]]
+- Earlier: 2025-07-16 · Raycast · [[Changes/Raycast/2025-07-16-3-apps-and-integrations-changes-in-raycast-macos-v1-1-101-0|3 Apps and Integrations changes in Raycast macos-v1 1.101.0]]
 - Later: 2025-07-19 · Codex CLI · [[Changes/Codex CLI/2025-07-19-https-github-com-openai-codex-pull-1571-fixes-a-longstanding-issue-where-we-fail|(source link) fixes a longstanding issue where we failed…]]
 <!-- chronolog:end -->
 

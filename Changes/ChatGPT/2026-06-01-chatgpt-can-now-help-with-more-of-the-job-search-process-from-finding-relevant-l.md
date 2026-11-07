@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 939bccbe381ea2b0ebd872b739e85730e1d8229c71a30971545dcef2141d924c
+machine_hash: 5c8570bd45f0019b6de68104479e53819ad8a6af0986c1e6fbd778be6916dc9e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -58,11 +58,12 @@ record:
   title: Find live jobs and format your resume in ChatGPT
   type: change
 related_changes:
-- '[[Changes/Suno/2026-05-13-browse-your-library|Browse your library]]'
-- '[[Changes/Claude Code/2026-05-19-the-plugin-browse-and-discover-panes-now-show-when-a-plugin-was-last-updated|The
-  /plugin browse and discover panes now show when a plugin was last updated]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-20-github-mcp-web-search-tool-is-available-immediately-without-requiring-tool-searc|GitHub
   MCP web search tool is available immediately without requiring tool search]]'
+- '[[Changes/Superwhisper/2026-05-25-models-library-view-for-browsing-downloading-and-creating-your-own-custom-models|Models
+  Library view for browsing, downloading and creating your own custom models]]'
+- '[[Changes/AnythingLLM/2026-05-26-feat-add-native-baidu-search-provider-for-agent-web-browsing-by-jimmyzhuu-in-htt|FEAT
+  Add native Baidu Search provider for Agent web browsing]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-06-01-find-live-jobs-and-format-your-resume-in-chatgpt-69ee518e|chatgpt-2026-06-01-find-live-jobs-and-format-your-resume-in-chatgpt-69ee518e]]'
 source_type: chatgpt_changelog
 theme: search-browsing
@@ -89,7 +90,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Search and Browsing
 
-- Earlier: 2026-05-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-20-github-mcp-web-search-tool-is-available-immediately-without-requiring-tool-searc|GitHub MCP web search tool is available immediately without requiring tool search]]
+- Earlier: 2026-05-26 · AnythingLLM · [[Changes/AnythingLLM/2026-05-26-feat-add-native-baidu-search-provider-for-agent-web-browsing-by-jimmyzhuu-in-htt|FEAT Add native Baidu Search provider for Agent web browsing]]
 - Later: 2026-06-01 · Codex CLI · [[Changes/Codex CLI/2026-06-01-3-search-and-browsing-changes-in-rust-v0-136-0|3 Search and Browsing changes in rust-v0.136.0]]
 <!-- chronolog:end -->
 

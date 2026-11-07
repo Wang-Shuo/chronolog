@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: b90b9b5197eaec38018cfef28197357a1e6cdea652bfdc6919cf09da9b87353a
+machine_hash: 4cc495f78ca63ae6d24afc04cf09222738ea394293d3b2d0d86e4139e07a34f7
 product: cursor
 product_name: Cursor
 record:
@@ -53,10 +53,10 @@ record:
   title: Environment configuration as code
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-05-12-2-developer-workflow-changes-in-v0-42-0|2 Developer
-  Workflow changes in v0.42.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-12-long-lines-in-diff-view-wrap-at-terminal-width-instead-of-being-truncated|Long
   lines in diff view wrap at terminal width instead of being truncated]]'
+- '[[Changes/Raycast/2026-05-12-core-raycast-no-longer-uses-powershell-for-startup-task-so-users-don-t-see-termi|Core
+  : Raycast no longer uses Powershell for startup task, so users don’t see…]]'
 - '[[Changes/Claude Code/2026-05-13-added-terminalsequence-field-to-hook-json-output-so-hooks-can-emit-desktop-notif|Added
   terminalSequence field to hook JSON output so hooks can emit desktop…]]'
 source_release: '[[Releases/Cursor/cursor-2026-05-13-3-4-https-cursor-com-changelog-05-13-26-685b1c4c|cursor-2026-05-13-3-4-https-cursor-com-changelog-05-13-26-685b1c4c]]'

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: bb86bcf56c0103703ebba5bbe7e553bd18843b9d40081efd98a53bb2595103c4
+machine_hash: 58fcd283c048e849cee6a86f4b2cc53a0108df7118f918cf7013eb436cb689a0
 product: v0
 product_name: v0
 record:
@@ -63,11 +63,11 @@ record:
     routed…
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-08-28-core-bedrock-reasoning-responses-no-longer-get-cached-into-unreplayable-empty-me|Core
-  Bedrock reasoning responses no longer get cached into unreplayable empty messages]]'
 - '[[Changes/Replit/2026-08-28-intelligent-model-routing|Intelligent model routing]]'
 - '[[Changes/Replit/2026-08-28-intelligent-model-routing-for-enterprise|Intelligent
   model routing for Enterprise]]'
+- '[[Changes/Superwhisper/2026-08-28-4-model-support-changes-in-superwhisper-windows-1-6-2|4
+  Model Support changes in Superwhisper Windows 1.6.2]]'
 source_release: '[[Releases/v0/v0-2026-08-28-2026-08-28-1fac4f32|v0-2026-08-28-2026-08-28-1fac4f32]]'
 source_type: v0_changelog
 theme: model-support
@@ -106,7 +106,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-08-28 · Replit · [[Changes/Replit/2026-08-28-intelligent-model-routing-for-enterprise|Intelligent model routing for Enterprise]]
+- Earlier: 2026-08-28 · Superwhisper · [[Changes/Superwhisper/2026-08-28-4-model-support-changes-in-superwhisper-windows-1-6-2|4 Model Support changes in Superwhisper Windows 1.6.2]]
 - Later: 2026-08-29 · Codex CLI · [[Changes/Codex CLI/2026-08-29-3-model-support-changes-in-rust-v0-151-0|3 Model Support changes in rust-v0.151.0]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 59af4f492ac87a619d259a92831465b98b2f0ce69102eb1c26640ea0ff9473e2
+machine_hash: f98b130a13d83ed0103baebd154c299ec2da46ab9788d84df112f3173caea666
 product: runway
 product_name: Runway
 record:
@@ -41,11 +41,11 @@ record:
   title: Assets page is ~1.5x faster
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-02-02-apply-diffs-from-chat-should-be-a-bit-faster|"Apply
-  Diffs" from chat should be a bit faster]]'
 - '[[Changes/Ollama/2024-02-02-when-making-api-requests-the-new-keep-alive-parameter-can-be-used-to-control-how|When
   making API requests, the new keep_alive parameter can be used to control how…]]'
 - '[[Changes/Descript/2024-02-05-ai-action-updates|AI Action Updates]]'
+- '[[Changes/Superwhisper/2024-02-08-stability-improvements-for-local-language-models|Stability
+  improvements for local language models]]'
 source_release: '[[Releases/Runway/runway-2024-02-09-2024-02-09-assets-page-is-1-5x-faster-dc9e2539|runway-2024-02-09-2024-02-09-assets-page-is-1-5x-faster-dc9e2539]]'
 source_type: runway_changelog
 theme: reliability-performance
@@ -72,7 +72,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2024-02-05 · Descript · [[Changes/Descript/2024-02-05-ai-action-updates|AI Action Updates]]
+- Earlier: 2024-02-08 · Superwhisper · [[Changes/Superwhisper/2024-02-08-stability-improvements-for-local-language-models|Stability improvements for local language models]]
 - Later: 2024-02-13 · Dify · [[Changes/Dify/2024-02-13-pref-optimize-add-hit-count-query-performance-when-dataset-hit-by-takatost-in-ht|pref: optimize add hit count query performance when dataset hit]]
 <!-- chronolog:end -->
 

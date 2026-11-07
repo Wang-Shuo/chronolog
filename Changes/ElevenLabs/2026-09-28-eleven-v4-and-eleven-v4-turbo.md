@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 828d8fde2e47a0a44f0f420a34b85157a2e8566c8b6b2349c3ccb96afc19fbc3
+machine_hash: 6541349e7c1e3549f1dba049ed2a2c8f3770fc6dd0ffd29b270a95830a3e8a4a
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -115,7 +115,7 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2026-09-28 · Codex CLI · [[Changes/Codex CLI/2026-09-28-47975-prevent-stale-voice-answers-from-reappearing-during-speech-recovery-etraut|♯47975 Prevent stale voice answers from reappearing during speech recovery @etraut-openai]]
-- Later: 2026-09-29 · ChatGPT · [[Changes/ChatGPT/2026-09-29-audio-is-deleted-once-your-notes-are-ready-and-can-t-be-accessed-or-replayed-ava|Audio is deleted once your notes are ready and can’t be accessed or replayed]]
+- Later: 2026-09-28 · Raycast · [[Changes/Raycast/2026-09-28-ai-chat-dictation-with-ctrl-m-in-the-ai-chat-and-quick-ai-composers-now-uses-the|AI Chat : Dictation with Ctrl + M in the AI Chat and Quick AI composers now uses…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

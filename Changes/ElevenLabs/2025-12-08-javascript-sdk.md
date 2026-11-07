@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: e3c576268f44773b83afc73f8b2ab29cb3a3dfe76374ed697fbc337aea564f92
+machine_hash: 5dc03bd571d70bc44f471c09a332db710f8ad04c80f2e0801d25dcaca103ad02
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -49,9 +49,9 @@ record:
   title: JavaScript SDK
   type: change
 related_changes:
-- '[[Changes/Google Antigravity/2025-12-04-google-one-integration|Google One integration]]'
-- '[[Changes/Runway/2025-12-04-turn-your-workflows-into-apps-you-can-share-with-your-workspace|Publish
-  Workflows as Apps]]'
+- '[[Changes/Devin/2025-12-05-various-bug-fixes-and-performance-improvements-across-the-webapp-ui-slack-integr|Various
+  bug fixes and performance improvements across the webapp UI, Slack…]]'
+- '[[Changes/Devin/2025-12-05-data-analyst-devin-dana|Data Analyst Devin (Dana)]]'
 - '[[Changes/ElevenLabs/2025-12-08-sdk-releases|SDK Releases]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2025-12-08-2025-12-08-7be8ac95|elevenlabs-2025-12-08-2025-12-08-7be8ac95]]'
 source_type: elevenlabs_changelog
@@ -97,8 +97,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-12-04 · Runway · [[Changes/Runway/2025-12-04-turn-your-workflows-into-apps-you-can-share-with-your-workspace|Publish Workflows as Apps]]
-- Later: 2025-12-09 · Codex CLI · [[Changes/Codex CLI/2025-12-09-3-apps-and-integrations-changes-in-rust-v0-66-0|3 Apps and Integrations changes in rust-v0.66.0]]
+- Earlier: 2025-12-05 · Devin · [[Changes/Devin/2025-12-05-data-analyst-devin-dana|Data Analyst Devin (Dana)]]
+- Later: 2025-12-09 · AnythingLLM · [[Changes/AnythingLLM/2025-12-09-2-apps-and-integrations-changes-in-v1-9-1|2 Apps and Integrations changes in v1.9.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

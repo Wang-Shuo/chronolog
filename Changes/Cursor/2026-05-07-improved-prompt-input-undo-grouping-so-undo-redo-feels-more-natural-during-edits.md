@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 76c73710aa09b16061ce1821fe3cf08b4f479150ab88d2930a962f21a7be3a30
+machine_hash: 9be791dd519ab2aa000ed58cffd9daac36a4d4d530ef6a7061381c2e5346771b
 product: cursor
 product_name: Cursor
 record:
@@ -44,8 +44,8 @@ record:
     edits
   type: change
 related_changes:
-- '[[Changes/Microsoft 365 Copilot/2026-05-05-contextual-nudges-in-edge-offer-quick-page-summaries-in-copilot-chat-web-microso|Contextual
-  nudges in Edge offer quick page summaries in Copilot Chat…]]'
+- '[[Changes/Raycast/2026-05-06-ai-haptics-for-stream-completion|AI: Haptics for stream
+  completion]]'
 - '[[Changes/Synthesia/2026-05-06-edit-original-and-translated-dubbing-transcripts-without-validation-blockers-wit|Correct
   dubbing transcripts seamlessly]]'
 - '[[Changes/Codex CLI/2026-05-07-4-editor-experience-changes-in-rust-v0-129-0|4 Editor

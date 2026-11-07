@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a6afe496ae35055acb2d4acbeeff551779c2411936fd9a191cd0a7e734c2510b
+machine_hash: 457b9218dd0fe999f3e8a3569ca98dda65d1fe53a83a75bbe91bfac82fb758fd
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,10 +45,10 @@ record:
   title: 2 Interface Experience changes in v1.0.13
   type: change
 related_changes:
-- '[[Changes/Dify/2026-03-27-3-interface-experience-changes-in-1-13-3|3 Interface
-  Experience changes in 1.13.3]]'
-- '[[Changes/Notion/2026-03-27-archived-pages-have-a-banner-showing-who-archived-them-and-when-and-they-re-hidd|Archived
-  pages have a banner showing who archived them and when, and they’re hidden…]]'
+- '[[Changes/Raycast/2026-03-27-5-interface-experience-changes-in-raycast-macos-0-51|5
+  Interface Experience changes in Raycast macos 0.51]]'
+- '[[Changes/Raycast/2026-03-27-translator-use-selected-text-as-source-setting-when-enabled-triggering-the-trans|Translator:
+  "Use Selected Text as Source" setting]]'
 - '[[Changes/OpenCode/2026-03-29-2-interface-experience-changes-in-v1-3-6-2|2 Interface
   Experience changes in v1.3.6 + 2]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-03-30-v1-0-13-github-303313822-db3397e2|github-copilot-cli-2026-03-30-v1-0-13-github-303313822-db3397e2]]'

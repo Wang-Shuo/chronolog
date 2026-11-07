@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 31bcef15202e3c101cb8d93173186837c1a265c39a87cf60e956137e9515771d
+machine_hash: 9079fef934a062a54f46c29891a135e58c185a45023a2c79b985189ed5b371ad
 product: descript
 product_name: Descript
 record:
@@ -48,8 +48,8 @@ record:
   title: Record in a scheduled Room without the host
   type: change
 related_changes:
-- '[[Changes/Kimi Code/2026-09-14-add-the-loop-control-compaction-max-attempts-config-option-to-set-the-maximum-to|Add
-  the loop_control.compaction_max_attempts config option to set the maximum…]]'
+- '[[Changes/Devin/2026-09-16-slack-user-group-mention-triggers-for-automations-and-oncall|Slack
+  User-Group Mention Triggers for Automations and Oncall]]'
 - '[[Changes/OpenHands/2026-09-16-4-automation-and-scheduling-changes-in-v1-19-0|4
   Automation and Scheduling changes in v1.19.0]]'
 - '[[Changes/Descript/2026-09-17-how-to-find-it-231db5|How to find it]]'

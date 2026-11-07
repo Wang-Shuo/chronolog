@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0f3485e7afcb0b0393af5d0f8c7e990529e32ae12a4ab18c14b73b14e1b84699
+machine_hash: 6583206b9f5d43c9e58549a23d90ff5a9f68f29ce119b90ba18b36a7457cf090
 product: cline
 product_name: Cline
 record:
@@ -41,10 +41,10 @@ record:
   title: Restore GPT-OSS native file editing on OpenAI-compatible models
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-03-02-qwen3-5-https-ollama-com-library-qwen3-5-the-small-qwen-3-5-model-series-is-now|Qwen3.5((source
-  link) the small Qwen 3.5 model series…]]'
 - "[[Changes/Open WebUI/2026-03-02-temporary-chat-params-preservation-model-parameters-are-now-correctly-saved-when|\U0001F4BE
   Temporary chat params preservation. Model parameters are now correctly saved…]]"
+- '[[Changes/Raycast/2026-03-02-misc-updated-design-for-reasoning-creativity-setting|Misc
+  : Updated design for reasoning / creativity setting]]'
 - '[[Changes/ChatGPT/2026-03-03-gpt-5-3-instant-delivers-more-accurate-answers-richer-and-better-contextualized|GPT-5.3
   Instant Update]]'
 source_release: '[[Releases/Cline/cline-2026-03-03-v3-69-0-github-292321177-f95c432e|cline-2026-03-03-v3-69-0-github-292321177-f95c432e]]'

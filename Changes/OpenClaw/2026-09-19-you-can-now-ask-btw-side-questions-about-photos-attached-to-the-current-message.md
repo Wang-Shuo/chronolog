@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 383a1801485bfe108208ae17c68c6fa0800a01d022f7f9e27c6ca02942441298
+machine_hash: 0c195b0d97baaca2c72a7f11b719ff04de5a46866ddf6658b247b4e9db72a93b
 product: openclaw
 product_name: OpenClaw
 record:
@@ -68,10 +68,10 @@ record:
     using…
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-09-17-connect-your-app-to-the-lovable-api|Connect your app
-  to the Lovable API]]'
-- '[[Changes/Claude Code/2026-09-18-6-apps-and-integrations-changes-in-v2-1-277|6
-  Apps and Integrations changes in v2.1.277]]'
+- '[[Changes/Devin/2026-09-18-grafana-oauth-plugin-support|Grafana (OAuth) Plugin
+  Support]]'
+- '[[Changes/Devin/2026-09-18-knowledge-is-moving-to-skills|Knowledge Is Moving to
+  Skills]]'
 - '[[Changes/Qoder/2026-09-18-remote-control-automatically-sync-local-conversation-history-updated-within-the|Remote
   Control: Automatically sync local conversation history updated within…]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-09-19-v2026-9-5-506f537c|openclaw-2026-09-19-v2026-9-5-506f537c]]'
@@ -129,7 +129,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-09-18 · Qoder · [[Changes/Qoder/2026-09-18-remote-control-automatically-sync-local-conversation-history-updated-within-the|Remote Control: Automatically sync local conversation history updated within…]]
-- Later: 2026-09-21 · ElevenLabs · [[Changes/ElevenLabs/2026-09-21-sdk-releases|SDK releases]]
+- Later: 2026-09-21 · Devin · [[Changes/Devin/2026-09-21-required-and-available-to-install-plugins|Required and Available-to-Install Plugins]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

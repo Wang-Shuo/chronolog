@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 57933f95d9724560de79e1fe2cd027ec0d5d2b3fabd67f7b6fcd411be7d1b137
+machine_hash: 0555a2325372a821820ad967091b0b9f0be6ff4ad95624e640d9c744659f10a5
 product: descript
 product_name: Descript
 record:
@@ -52,10 +52,10 @@ record:
   title: Introducing Workspaces
   type: change
 related_changes:
-- '[[Changes/Notion/2020-12-02-had-it-with-confluence-import-your-workspace-to-notion-in-minutes|Had
-  it with Confluence?]]'
 - '[[Changes/Descript/2020-12-17-thanks-for-reporting-any-issues-you-find-to-the-team-and-keep-em-coming|Thanks
   for reporting any issues you find to the team and keep em coming!]]'
+- '[[Changes/Raycast/2021-02-18-calendar-added-support-to-launch-microsoft-teams-skype-cisco-webex-jitsi-bluejea|Calendar:
+  Added support to launch Microsoft Teams , Skype , Cisco Webex , Jitsi…]]'
 - '[[Changes/Notion/2021-03-10-introducing-tools-craft-the-notion-blog|Introducing:
   Tools & Craft, the Notion blog]]'
 source_release: '[[Releases/Descript/descript-2021-03-23-6390c9904a4a0d64fa563fac-3f0b664d|descript-2021-03-23-6390c9904a4a0d64fa563fac-3f0b664d]]'

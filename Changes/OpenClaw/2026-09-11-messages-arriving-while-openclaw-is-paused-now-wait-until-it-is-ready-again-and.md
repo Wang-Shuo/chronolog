@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0ec18caed370395aa4c801a10c424661ad785be8694664efc9addab1fdda05b7
+machine_hash: bc6b7f091595420573641a7db4597c3c72ea841345edb8ec76f62321fc905707
 product: openclaw
 product_name: OpenClaw
 record:
@@ -49,7 +49,8 @@ record:
   title: Messages arriving while OpenClaw is paused now wait until it is ready again…
   type: change
 related_changes:
-- '[[Changes/Claude/2026-09-10-smart-reports-beta|Smart reports (beta)]]'
+- '[[Changes/Devin/2026-09-11-effective-membership-in-member-lists|Effective Membership
+  in Member Lists]]'
 - '[[Changes/Lovable/2026-09-11-lock-workspace-membership-to-your-identity-provider|Lock
   workspace membership to your identity provider]]'
 - '[[Changes/Lovable/2026-09-11-edit-an-sso-provider-s-connection-settings|Edit an

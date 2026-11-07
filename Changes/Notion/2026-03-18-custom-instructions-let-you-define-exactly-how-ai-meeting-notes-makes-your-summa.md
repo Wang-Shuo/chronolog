@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: meeting-notes
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9057d0c105dc8a635148f937b11f9a11d895cb1f2af19d1747d1af20569e921c
+machine_hash: fceac71d7ac5b8f7d0d2c9efdbba29be392b8bc4636e1d905f8e1536f87f82d8
 product: notion
 product_name: Notion
 record:
@@ -59,10 +59,10 @@ record:
   title: Custom instructions for AI Meeting Notes
   type: change
 related_changes:
-- '[[Changes/Granola/2025-12-04-a-celebration-of-your-year-as-told-by-your-meeting-notes|Granola
-  Crunched]]'
 - '[[Changes/Granola/2026-02-04-granola-mcp-connects-your-meeting-notes-to-claude-chatgpt-cursor-and-other-ai-to|Introducing
   Granola MCP]]'
+- '[[Changes/Raycast/2026-02-19-raycast-notes-is-a-lightweight-tool-that-helps-you-capture-ideas-quickly-without|Raycast
+  Notes is a lightweight tool that helps you capture ideas quickly without…]]'
 - '[[Changes/Notion/2026-03-05-let-s-imagine-a-meetings-database-where-a-teammate-should-be-able-to-access-thei|Let’s
   imagine a meetings database where a teammate should be able to access…]]'
 source_release: '[[Releases/Notion/notion-2026-03-18-https-www-notion-com-releases-2026-03-18-663fa816|notion-2026-03-18-https-www-notion-com-releases-2026-03-18-663fa816]]'

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0fd2bd8600bfc0483ebc7ec1936a0a80cf899a75d9a9f27811911c744b8b19a0
+machine_hash: 6ebfce68d8ba3f11577377d6d828eebbc7ca1b88bfd4d70210494046ff880e58
 product: aider
 product_name: Aider
 record:
@@ -41,9 +41,10 @@ record:
   title: https://aider.chat/HISTORY.html
   type: change
 related_changes:
-- '[[Changes/Midjourney/2024-12-11-action-bar|Action Bar]]'
 - '[[Changes/Descript/2024-12-13-when-you-re-ready-to-swap-in-your-final-content-just-select-the-placeholder-laye|When
   you’re ready to swap in your final content, just select the Placeholder layer…]]'
+- '[[Changes/Devin/2024-12-24-more-options-to-customize-devin|More options to customize
+  Devin]]'
 - "[[Changes/Open WebUI/2024-12-25-quick-screen-capture-button-effortlessly-capture-your-screen-with-a-single-click|\U0001F4F8
   Quick Screen Capture Button]]"
 source_release: '[[Releases/Aider/aider-2024-12-26-v0-70-0-github-192422417-0fd50011|aider-2024-12-26-v0-70-0-github-192422417-0fd50011]]'

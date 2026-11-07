@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: cd75f60d14f66611ea8bf0cd5629edaacf4028959f51e1d791e0f937738a9651
+machine_hash: fb94c906f39b4fe2573dea946e33b96590d2c28f4e3c1467c13b63a3f82dc9e3
 product: ollama
 product_name: Ollama
 record:
@@ -79,7 +79,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2024-09-17 · Cursor · [[Changes/Cursor/2024-09-17-composer-can-now-be-added-to-the-ai-pane-this-release-also-includes-many-stabili-7b4c37|Composer can now be added to the AI pane]]
-- Later: 2024-09-19 · Cline · [[Changes/Cline/2024-09-19-folder-adds-folder-s-files-all-at-once-to-speed-up-your-workflow-even-more|@folder: Adds folder's files all at once to speed up your workflow even more]]
+- Later: 2024-09-18 · Raycast · [[Changes/Raycast/2024-09-18-sequoia-ready|Sequoia Ready]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

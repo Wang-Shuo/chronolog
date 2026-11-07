@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: d65b63774e1583d3d246e538967f964a8b77c03e01e70b4ee51004ee47dce7e6
+machine_hash: b2f83efbed821dd0aba9d299ec6fb114b345b5667d4cfd169a36e1c1d19599de
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -59,8 +59,10 @@ record:
     session…
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2025-11-27-client|Client]]'
-- '[[Changes/ElevenLabs/2025-11-27-react|React]]'
+- '[[Changes/Raycast/2025-11-27-import-settings-data-you-can-now-import-your-settings-and-data-from-macos-in-win|Import
+  Settings & Data : You can now import your settings and data from macOS in Windows]]'
+- '[[Changes/Raycast/2025-11-27-we-re-live-today-we-re-making-raycast-for-windows-available-for-everyone-while-w|We’re
+  live! Today, we’re making Raycast for Windows available for everyone]]'
 - '[[Changes/HeyGen/2025-11-30-for-course-creators-coaches-and-anyone-who-needs-to-move-fast-the-android-app-pu|For
   course creators, coaches, and anyone who needs to move fast, the Android app…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-12-02-rust-v0-64-0-github-266901625-82376886|codex-cli-2025-12-02-rust-v0-64-0-github-266901625-82376886]]'
@@ -102,7 +104,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2025-11-30 · HeyGen · [[Changes/HeyGen/2025-11-30-for-course-creators-coaches-and-anyone-who-needs-to-move-fast-the-android-app-pu|For course creators, coaches, and anyone who needs to move fast, the Android app…]]
-- Later: 2025-12-08 · ElevenLabs · [[Changes/ElevenLabs/2025-12-08-android-sdk|Android SDK]]
+- Later: 2025-12-05 · Raycast · [[Changes/Raycast/2025-12-05-misc-glassified-toast-message-to-match-ios-26|Misc: Glassified toast message to match iOS 26]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

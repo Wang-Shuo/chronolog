@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 757841c6bb3bcb6f2074f234d47b848932fa779ec7c0e1dd1e53f79d95f27244
+machine_hash: 858c835c44f0f6473e3b82a78a922af0d2747decf318d2e6a09c4131d4df0ac6
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -53,9 +53,8 @@ record:
     search
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-05-09-core-limited-openai-deep-research-models-to-the-reasoning-level-they-actually-su|Core
-  Limited OpenAI deep research models to the reasoning level they actually support]]'
 - '[[Changes/Suno/2026-05-13-browse-your-library|Browse your library]]'
+- '[[Changes/Krea/2026-05-14-a-new-gallery-feed|A new gallery feed]]'
 - '[[Changes/Claude Code/2026-05-19-the-plugin-browse-and-discover-panes-now-show-when-a-plugin-was-last-updated|The
   /plugin browse and discover panes now show when a plugin was last updated]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-05-20-v1-0-51-github-326293635-21098fc1|github-copilot-cli-2026-05-20-v1-0-51-github-326293635-21098fc1]]'
@@ -98,7 +97,7 @@ type: change
 ## Nearby in Search and Browsing
 
 - Earlier: 2026-05-19 · Claude Code · [[Changes/Claude Code/2026-05-19-the-plugin-browse-and-discover-panes-now-show-when-a-plugin-was-last-updated|The /plugin browse and discover panes now show when a plugin was last updated]]
-- Later: 2026-06-01 · ChatGPT · [[Changes/ChatGPT/2026-06-01-chatgpt-can-now-help-with-more-of-the-job-search-process-from-finding-relevant-l|Find live jobs and format your resume in ChatGPT]]
+- Later: 2026-05-25 · Superwhisper · [[Changes/Superwhisper/2026-05-25-models-library-view-for-browsing-downloading-and-creating-your-own-custom-models|Models Library view for browsing, downloading and creating your own custom models]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

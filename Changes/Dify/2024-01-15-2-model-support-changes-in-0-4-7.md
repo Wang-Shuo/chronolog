@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8afa6209e05754cbf976131d863e09fed8f21a95bd31b7e1d1a8542bec8508a0
+machine_hash: 53a85fea2df1b65ddfef88d175a3d96c540b8fbd01a43dbf9385477767936ec8
 product: dify
 product_name: Dify
 record:
@@ -43,10 +43,10 @@ record:
   title: 2 Model Support changes in 0.4.7
   type: change
 related_changes:
-- '[[Changes/Ollama/2024-01-11-megadolphin-https-ollama-ai-library-megadolphin-a-new-120b-version-of-the-dolphi|MegaDolphin((source
-  link) A new 120B version…]]'
-- '[[Changes/Dify/2024-01-12-support-for-models-integration-provided-by-the-ollama-details-https-docs-dify-ai|Support
-  for Models Integration Provided by the Ollama, details]]'
+- '[[Changes/Superwhisper/2024-01-12-3-new-experimental-language-models-v2-german-and-nano-d4cadb|3
+  new experimental language models (v2, German and Nano)]]'
+- '[[Changes/Superwhisper/2024-01-13-3-new-experimental-language-models-v2-german-and-nano|3
+  new experimental language models (v2, German and Nano)]]'
 - '[[Changes/Cursor/2024-01-15-cursor-fast-is-a-newly-trained-model-between-gpt-3-5-and-gpt-4-coding-capabiliti-bb4c11|Cursor-Fast
   is a newly trained model between gpt-3.5 and gpt-4 coding capabilities…]]'
 source_release: '[[Releases/Dify/dify-2024-01-15-0-4-7-github-137098543-04eac319|dify-2024-01-15-0-4-7-github-137098543-04eac319]]'

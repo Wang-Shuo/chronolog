@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 49264bde56abc5aa8fdf00445bab0a84d516ac1960dce879bfaa64949811234f
+machine_hash: 67ad3ea93c969cc9d0d710bfedf8f135858e05f2efc14fccfd9f92d2faf79d54
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -44,10 +44,10 @@ record:
   title: Show "unknown command" instead of "too many arguments" when an invalid subcommand…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-04-6-developer-workflow-changes-in-rust-v0-137-0|6
-  Developer Workflow changes in rust-v0.137.0]]'
 - '[[Changes/Kimi Code/2026-06-04-3-developer-workflow-changes-in-kimi-code-0-10-0|3
   Developer Workflow changes in Kimi Code 0.10.0]]'
+- '[[Changes/Devin/2026-06-05-devin-review-action-required-flags-on-prs-by-default|Devin
+  Review: Action-Required Flags on PRs by Default]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-05-11-developer-workflow-changes-in-v1-0-60|11
   Developer Workflow changes in v1.0.60]]'
 source_release: '[[Releases/Kimi Code/kimi-code-2026-06-05-0-11-0-96565a16|kimi-code-2026-06-05-0-11-0-96565a16]]'

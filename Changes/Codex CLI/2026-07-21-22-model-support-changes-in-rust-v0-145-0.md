@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6c1e420db5a85305898cfcf465234a5e70b08cd3c61ba887473dfb8880bfa07c
+machine_hash: cf4d6988e1c4ff2567d068574d52a34e2e5c0fd931b563b329449d683de49510
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -87,12 +87,12 @@ record:
   title: 22 Model Support changes in rust-v0.145.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-20-preserve-pasted-prompt-content-when-changing-models-through-ctrl-x-model|Preserve
-  pasted prompt content when changing models through Ctrl+X /model]]'
 - '[[Changes/Kimi Code/2026-07-20-2-model-support-changes-in-kimi-code-0-28-0|2 Model
   Support changes in Kimi Code 0.28.0]]'
 - '[[Changes/OpenCode/2026-07-20-3-model-support-changes-in-v1-18-4|3 Model Support
   changes in v1.18.4]]'
+- '[[Changes/Superwhisper/2026-07-20-experimental-s1-mini-model-and-tone-settings-for-more-control-over-your-transcri|Experimental
+  S1-mini model and Tone settings for more control over your transcriptions]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-07-21-rust-v0-145-0-github-357545274-7be4454f|codex-cli-2026-07-21-rust-v0-145-0-github-357545274-7be4454f]]'
 source_type: github_releases
 theme: model-support
@@ -182,7 +182,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.145.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-07-20 · OpenCode · [[Changes/OpenCode/2026-07-20-3-model-support-changes-in-v1-18-4|3 Model Support changes in v1.18.4]]
+- Earlier: 2026-07-20 · Superwhisper · [[Changes/Superwhisper/2026-07-20-experimental-s1-mini-model-and-tone-settings-for-more-control-over-your-transcri|Experimental S1-mini model and Tone settings for more control over your transcriptions]]
 - Later: 2026-07-21 · Gemini · [[Changes/Gemini/2026-07-21-3-6-flash-an-upgraded-model-for-your-daily-life|3.6 Flash: An upgraded model for your daily life]]
 <!-- chronolog:end -->
 

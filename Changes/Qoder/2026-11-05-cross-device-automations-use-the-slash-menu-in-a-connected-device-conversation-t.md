@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d719d24d80e130a3dc9ed4e748e3a15c61c74e3aca1651e4cb757930d13fa348
+machine_hash: b673d2a874f78dd2732e0fa58198962fb6d0881c73ce2bce2e6ddbf7a0721ecc
 product: qoder
 product_name: Qoder
 record:

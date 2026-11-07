@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4bd05f23d13239c2a06303c68fd54e961dd0381c9b8b51a561e566c2a8788cb3
+machine_hash: 21f2c8f7ecd5acdd9bb4d9a350600550f616c2fa30934966777397dca9416c38
 product: open-webui
 product_name: Open WebUI
 record:
@@ -45,11 +45,12 @@ record:
   title: "\U0001F9F9 **Cleaner Database Credentials**"
   type: change
 related_changes:
-- '[[Changes/Windsurf/2025-07-17-deeper-browser-integration|Deeper Browser integration]]'
 - '[[Changes/Codex CLI/2025-07-19-https-github-com-openai-codex-pull-1571-fixes-a-longstanding-issue-where-we-fail|(source
   link) fixes a longstanding issue where we failed…]]'
 - '[[Changes/Gemini CLI/2025-07-19-12-apps-and-integrations-changes-in-v0-1-13|12
   Apps and Integrations changes in v0.1.13]]'
+- '[[Changes/LM Studio/2025-07-19-5-apps-and-integrations-changes-in-lm-studio-0-3-18|5
+  Apps and Integrations changes in LM Studio 0.3.18]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-07-19-v0-6-17-github-233695159-4b5cb15b|open-webui-2025-07-19-v0-6-17-github-233695159-4b5cb15b]]'
 source_type: github_releases
 theme: apps-integrations
@@ -92,7 +93,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-07-19 · Gemini CLI · [[Changes/Gemini CLI/2025-07-19-12-apps-and-integrations-changes-in-v0-1-13|12 Apps and Integrations changes in v0.1.13]]
+- Earlier: 2025-07-19 · LM Studio · [[Changes/LM Studio/2025-07-19-5-apps-and-integrations-changes-in-lm-studio-0-3-18|5 Apps and Integrations changes in LM Studio 0.3.18]]
 - Later: 2025-07-23 · Codex CLI · [[Changes/Codex CLI/2025-07-23-numerous-fixes-to-codex-mcp|Numerous fixes to codex mcp]]
 <!-- chronolog:end -->
 

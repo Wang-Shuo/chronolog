@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: presentation-creation
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 065df09ad6b83ed5e6e558ab8a508393693aaf62b4d53e1ce2bfdc270f413d62
+machine_hash: 65e46d568bc5c9b01f7f2d3784a3414b0b57530cdefff68c66c0babc99b73fdc
 product: manus
 product_name: Manus
 record:

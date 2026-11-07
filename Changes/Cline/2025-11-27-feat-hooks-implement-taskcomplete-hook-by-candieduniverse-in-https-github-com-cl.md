@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d10418acee5ce4428ae0c12fcfc1d07746e8b39a386fc318795117a5342d8bf4
+machine_hash: 8c45e69fc1ce2b749edfc0c3819d9fbfb0d1c2f57fa1d9fe535fd5c76eb27944
 product: cline
 product_name: Cline
 record:
@@ -43,10 +43,10 @@ record:
   title: 'feat(hooks): Implement `TaskComplete` hook'
   type: change
 related_changes:
-- '[[Changes/Lovable/2025-11-26-shopify-integration-improvements|Shopify integration
-  improvements]]'
 - '[[Changes/Lovable/2025-11-26-mcp-servers|MCP servers]]'
 - '[[Changes/Lovable/2025-11-26-integrations-hub|Integrations hub]]'
+- '[[Changes/Superwhisper/2025-11-26-allow-override-of-mode-set-by-activation-apps|Allow
+  override of mode set by activation apps]]'
 source_release: '[[Releases/Cline/cline-2025-11-27-v3-38-3-github-265611552-4d743450|cline-2025-11-27-v3-38-3-github-265611552-4d743450]]'
 source_type: github_releases
 theme: apps-integrations
@@ -82,7 +82,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-11-26 · Lovable · [[Changes/Lovable/2025-11-26-integrations-hub|Integrations hub]]
+- Earlier: 2025-11-26 · Superwhisper · [[Changes/Superwhisper/2025-11-26-allow-override-of-mode-set-by-activation-apps|Allow override of mode set by activation apps]]
 - Later: 2025-11-27 · ElevenLabs · [[Changes/ElevenLabs/2025-11-27-workspaces-88d227|Workspaces]]
 <!-- chronolog:end -->
 

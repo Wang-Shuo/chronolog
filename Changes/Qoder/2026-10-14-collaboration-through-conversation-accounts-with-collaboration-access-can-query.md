@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8eec0d6c89604b9b687a9fe5b06476a014b5323d5eaf922c456c5b8e83013834
+machine_hash: 43247005ae461661f8a88f5bade470f6475fc5741240cac1002ff978201dae59
 product: qoder
 product_name: Qoder
 record:
@@ -44,10 +44,9 @@ record:
   title: '**Collaboration through conversation**'
   type: change
 related_changes:
-- '[[Changes/Synthesia/2026-10-13-make-refine-and-share-syren-videos-without-leaving-chatgpt-or-claude-using-the-d|Create
-  Syren videos in ChatGPT and Claude]]'
 - '[[Changes/Claude Code/2026-10-14-changed-local-session-transcripts-to-also-record-each-api-request-s-system-promp|Changed
   local session transcripts to also record each API request''s system prompt…]]'
+- '[[Changes/Devin/2026-10-14-microsoft-teams|Microsoft Teams]]'
 - "[[Changes/Open WebUI/2026-10-14-save-hidden-on-others-messages-in-a-chat-shared-with-allow-replies-editing-a-mes|\U0001F4BE
   Save hidden on others' messages. In a chat shared with Allow replies, editing…]]"
 source_release: '[[Releases/Qoder/qoder-2026-10-14-0-4-7-c98dae8c|qoder-2026-10-14-0-4-7-c98dae8c]]'

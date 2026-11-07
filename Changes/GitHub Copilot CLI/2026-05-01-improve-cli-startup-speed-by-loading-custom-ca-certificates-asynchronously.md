@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9cf623049ec23afedca09a267ea72335bed568da28c077386958fb87d8c99afd
+machine_hash: 28ae22c5167d424f7d955878148060cf97f555d5fb57522a23e703a2ce186e10
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -41,12 +41,12 @@ record:
   title: Improve CLI startup speed by loading custom CA certificates asynchronously
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-04-28-2-reliability-and-performance-changes-in-v0-40-0|2
-  Reliability and Performance changes in v0.40.0]]'
 - '[[Changes/Dify/2026-04-29-3-reliability-and-performance-changes-in-1-14-0|3 Reliability
   and Performance changes in 1.14.0]]'
 - '[[Changes/OpenCode/2026-04-29-core-reduced-memory-growth-in-long-running-bash-tool-usage|Core
   Reduced memory growth in long-running bash tool usage]]'
+- '[[Changes/Raycast/2026-04-30-ai-significant-performance-and-stability-improvements-when-streaming-in-chat|AI:
+  Significant performance and stability improvements when streaming in chat]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-05-01-v1-0-40-github-316385532-9c4aec71|github-copilot-cli-2026-05-01-v1-0-40-github-316385532-9c4aec71]]'
 source_type: github_releases
 theme: reliability-performance
@@ -85,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-04-29 · OpenCode · [[Changes/OpenCode/2026-04-29-core-reduced-memory-growth-in-long-running-bash-tool-usage|Core Reduced memory growth in long-running bash tool usage]]
+- Earlier: 2026-04-30 · Raycast · [[Changes/Raycast/2026-04-30-ai-significant-performance-and-stability-improvements-when-streaming-in-chat|AI: Significant performance and stability improvements when streaming in chat]]
 - Later: 2026-05-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-05-improve-stability-on-windows-by-working-around-a-v8-crash-in-node-24-x|Improve stability on Windows by working around a V8 crash in Node 24.x]]
 <!-- chronolog:end -->
 

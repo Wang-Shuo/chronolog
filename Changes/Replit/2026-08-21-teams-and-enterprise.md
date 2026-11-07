@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 51ccc36294fb5b9793e7318d14f2da0bf978bbc6b518f1354558b969786fcf92
+machine_hash: 72bb2dd6af018cd40c3b6461c9f4bf08ddb928e99a4e620cbc38319b24aa3919
 product: replit
 product_name: Replit
 record:
@@ -49,12 +49,12 @@ record:
   title: Teams and Enterprise
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-08-16-set-member-credit-limits-in-bulk-with-a-csv|Set member
-  credit limits in bulk with a CSV]]'
 - '[[Changes/Lovable/2026-08-17-trust-center-is-now-disabled-by-default|Trust center
   is now disabled by default]]'
 - '[[Changes/Claude Code/2026-08-18-remote-control-claude-rc-now-applies-the-same-enterprise-gateway-availability-ch|Remote
   Control: claude rc now applies the same enterprise-gateway availability…]]'
+- '[[Changes/Devin/2026-08-21-replace-secret-values-in-place|Replace Secret Values
+  in Place]]'
 source_release: '[[Releases/Replit/replit-2026-08-21-2026-08-21-07917b7e|replit-2026-08-21-2026-08-21-07917b7e]]'
 source_type: replit_changelog
 theme: enterprise-admin
@@ -89,8 +89,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-08-18 · Claude Code · [[Changes/Claude Code/2026-08-18-remote-control-claude-rc-now-applies-the-same-enterprise-gateway-availability-ch|Remote Control: claude rc now applies the same enterprise-gateway availability…]]
-- Later: 2026-08-24 · Lovable · [[Changes/Lovable/2026-08-24-contact-enterprise-support-from-your-project|Contact Enterprise support from your project]]
+- Earlier: 2026-08-21 · Devin · [[Changes/Devin/2026-08-21-replace-secret-values-in-place|Replace Secret Values in Place]]
+- Later: 2026-08-21 · Wispr Flow · [[Changes/Wispr Flow/2026-08-21-for-teams-enterprise-desktop|For Teams & Enterprise (Desktop)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

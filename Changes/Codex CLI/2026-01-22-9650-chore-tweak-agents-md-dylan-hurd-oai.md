@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 98dcf24011ba19fb3835458a2c34e0141ce2229d0cbed12a44403d4dff21cefe
+machine_hash: 8e9c5916505af7a4e6e7eb356bd37569de0e2c9da2ed21c3c877f1265e8b270e
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -39,12 +39,12 @@ record:
   title: '#9650 chore: tweak AGENTS.md @dylan-hurd-oai'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-01-21-2-agent-mode-changes-in-rust-v0-88-0|2 Agent Mode
-  changes in rust-v0.88.0]]'
 - '[[Changes/Gemini CLI/2026-01-21-13-agent-mode-changes-in-v0-25-0|13 Agent Mode
   changes in v0.25.0]]'
 - '[[Changes/v0/2026-01-21-added-ai-sdk-v6-support-for-agents|Added AI SDK v6 support
   for agents]]'
+- '[[Changes/AnythingLLM/2026-01-22-4-agent-mode-changes-in-v1-10-0|4 Agent Mode changes
+  in v1.10.0]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-01-22-rust-v0-89-0-github-279171728-1aea28c3|codex-cli-2026-01-22-rust-v0-89-0-github-279171728-1aea28c3]]'
 source_type: github_releases
 theme: agent-mode
@@ -80,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-01-21 · v0 · [[Changes/v0/2026-01-21-added-ai-sdk-v6-support-for-agents|Added AI SDK v6 support for agents]]
+- Earlier: 2026-01-22 · AnythingLLM · [[Changes/AnythingLLM/2026-01-22-4-agent-mode-changes-in-v1-10-0|4 Agent Mode changes in v1.10.0]]
 - Later: 2026-01-22 · Cursor · [[Changes/Cursor/2026-01-22-skills|Skills]]
 <!-- chronolog:end -->
 

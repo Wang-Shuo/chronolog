@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a1f35b1afbcf4dc2d052ae6d35458f39f092deb9eb067906df96c2e3c6faae7e
+machine_hash: 433fdb3f541ccde96b295ca0d6cd94606bd4d83bca9723ab6a172dd2f2d09b24
 product: opencode
 product_name: OpenCode
 record:
@@ -186,10 +186,10 @@ record:
   title: 73 Mobile and Desktop changes in v1.1.37
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-01-25-3-mobile-and-desktop-changes-in-v1-1-36|3 Mobile
-  and Desktop changes in v1.1.36]]'
 - '[[Changes/OpenCode/2026-01-25-66-mobile-and-desktop-changes-in-v1-1-35|66 Mobile
   and Desktop changes in v1.1.35]]'
+- '[[Changes/Raycast/2026-01-27-we-re-thrilled-to-bring-our-typing-practice-extension-to-raycast-for-windows-sta|Raycast
+  brings our Typing Practice extension to Raycast for Windows!]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-28-homebrew-tools-work-correctly-on-macos-with-zsh-as-default-shell|Homebrew
   tools work correctly on macOS with zsh as default shell]]'
 source_release: '[[Releases/OpenCode/opencode-2026-01-28-v1-1-37-997d5baa|opencode-2026-01-28-v1-1-37-997d5baa]]'

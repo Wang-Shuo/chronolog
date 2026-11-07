@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9a54ed45a03480c6d6c1d21ce56f52abf5529185db9866e1f20462bba3198756
+machine_hash: 9cf0048de37aafc86c803bd4f238866d36d71439cfa60be289a588786c5597c1
 product: open-webui
 product_name: Open WebUI
 record:
@@ -64,8 +64,8 @@ record:
   title: 5 Interface Experience changes in v0.6.29
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-09-15-5-interface-experience-changes-in-rust-v0-36-0|5
-  Interface Experience changes in rust-v0.36.0]]'
+- '[[Changes/Raycast/2025-09-15-ai-chat-window-can-now-be-made-full-screen-again|AI
+  Chat: Window can now be made full-screen again]]'
 - '[[Changes/ChatGPT/2025-09-16-formatting-answers-are-better-formatted-for-quick-understanding-without-losing-d|Formatting:
   Answers are better formatted for quick understanding without losing…]]'
 - '[[Changes/Windsurf/2025-09-16-made-improvements-to-the-sign-up-onboarding-flow|Made

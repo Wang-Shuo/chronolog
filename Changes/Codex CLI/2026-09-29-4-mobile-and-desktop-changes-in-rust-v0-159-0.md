@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5d3bee5010ef6e39a36f0357af1bc834a66b3a8797f7f2486a7e7e4fcbe9e3b1
+machine_hash: c546f7d01a2952dd4022226292c4d5b28418e499fd9163d15f03cf0e4a212802
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -48,8 +48,8 @@ record:
   title: 4 Mobile and Desktop changes in rust-v0.159.0
   type: change
 related_changes:
-- '[[Changes/Google Antigravity/2026-09-28-press-option-command-p-on-macos-or-alt-shift-p-on-windows-and-linux-to-pin-or-un|Press
-  Option+Command+P on macOS or Alt+Shift+P on Windows and Linux to pin or unpin…]]'
+- '[[Changes/Wispr Flow/2026-09-28-a-reminder-to-add-the-languages-you-speak-desktop|A
+  reminder to add the languages you speak (Desktop)]]'
 - '[[Changes/ChatGPT/2026-09-29-site-owners-and-editors-on-plus-and-pro-can-select-edit-site-from-a-published-si|Site
   owners and editors on Plus and Pro can select Edit site from a published Site…]]'
 - '[[Changes/Claude Code/2026-09-29-6-mobile-and-desktop-changes-in-v2-1-285|6 Mobile

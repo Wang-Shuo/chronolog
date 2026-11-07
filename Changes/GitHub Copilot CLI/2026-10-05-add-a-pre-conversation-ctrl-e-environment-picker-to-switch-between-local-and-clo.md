@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 97a08371b5f8888d4fd03b8fd9ea17950a9d786e42eda41231bbe2537798979c
+machine_hash: e339fee6ac2abe461f8716ba5b3a87a3a25308ab8b57b1be9733f6a960a7f415
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,11 +43,12 @@ record:
     and cloud runs
   type: change
 related_changes:
-- '[[Changes/Replit/2026-10-02-new-settings-page|New Settings page]]'
 - '[[Changes/Synthesia/2026-10-02-a-new-progress-tracker-keeps-long-running-tasks-visible-across-refreshes-and-nav|Track
   long-running tasks with Progress Tracker]]'
 - '[[Changes/OpenClaw/2026-10-03-session-assignment-moving-the-pointer-over-assign-to-and-then-pressing-enter-now|Session
   assignment]]'
+- '[[Changes/Devin/2026-10-05-keyboard-shortcuts-and-command-palette|Keyboard Shortcuts
+  and Command Palette]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-10-05-v1-0-92-github-404054639-a6ba3455|github-copilot-cli-2026-10-05-v1-0-92-github-404054639-a6ba3455]]'
 source_type: github_releases
 theme: interface-experience
@@ -90,8 +91,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-10-03 · OpenClaw · [[Changes/OpenClaw/2026-10-03-session-assignment-moving-the-pointer-over-assign-to-and-then-pressing-enter-now|Session assignment]]
-- Later: 2026-10-06 · Claude Code · [[Changes/Claude Code/2026-10-06-improved-the-focus-tip-it-now-invites-you-to-try-focus-view-mid-turn-and-shows-h|Improved the /focus tip]]
+- Earlier: 2026-10-05 · Devin · [[Changes/Devin/2026-10-05-keyboard-shortcuts-and-command-palette|Keyboard Shortcuts and Command Palette]]
+- Later: 2026-10-05 · Raycast · [[Changes/Raycast/2026-10-05-2-interface-experience-changes-in-raycast-windows-2-6|2 Interface Experience changes in Raycast windows 2.6]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

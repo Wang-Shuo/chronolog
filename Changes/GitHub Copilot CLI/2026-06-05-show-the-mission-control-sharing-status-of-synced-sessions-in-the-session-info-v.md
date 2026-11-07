@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 19450a6ca88210ca572d8482cb7d1f2b2a295c45d5801cf24b79478a26c3b3ad
+machine_hash: 813818d1dc9d224a02d7cb8ba24f6a3b2d3338bc22b864845c270c0f1cf110dc
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,10 +43,12 @@ record:
     info view
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-06-03-groups-are-a-lightweight-collection-of-users-that-can-sit-across-or-within-teams|Groups]]'
-- '[[Changes/Cursor/2026-06-03-teams|Teams]]'
 - '[[Changes/Codex CLI/2026-06-04-4-collaboration-changes-in-rust-v0-137-0|4 Collaboration
   changes in rust-v0.137.0]]'
+- '[[Changes/Raycast/2026-06-04-teams-share-ai-commands-with-your-whole-team|Teams:
+  Share AI Commands with your whole team]]'
+- '[[Changes/Raycast/2026-06-04-teams-share-ai-commands-with-your-whole-team-cb10ee|Teams:
+  Share AI Commands with your whole team]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-06-05-v1-0-60-github-335046279-6a5628d4|github-copilot-cli-2026-06-05-v1-0-60-github-335046279-6a5628d4]]'
 source_type: github_releases
 theme: collaboration
@@ -88,7 +90,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-06-04 · Codex CLI · [[Changes/Codex CLI/2026-06-04-4-collaboration-changes-in-rust-v0-137-0|4 Collaboration changes in rust-v0.137.0]]
+- Earlier: 2026-06-04 · Raycast · [[Changes/Raycast/2026-06-04-teams-share-ai-commands-with-your-whole-team-cb10ee|Teams: Share AI Commands with your whole team]]
 - Later: 2026-06-05 · Replit · [[Changes/Replit/2026-06-05-use-stripe-in-collaborative-workspaces|Use Stripe in collaborative workspaces]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5ed0d4d76a12bad681f8cf157e46971ecded6cffac9cd01621416a75a3ffbe8c
+machine_hash: 8db7d397b50d67e3031648216bd836083058947db8dcd64689b2b2cc2200a2b8
 product: cline
 product_name: Cline
 record:
@@ -46,10 +46,10 @@ record:
   title: 2 Model Support changes in v4.1.8
   type: change
 related_changes:
-- '[[Changes/Cline/2026-08-09-retry-network-interruptions-that-happen-mid-stream-but-before-any-model-output-i|Retry
-  network interruptions that happen mid-stream but before any model output…]]'
-- '[[Changes/GitHub Copilot CLI/2026-08-10-3-model-support-changes-in-v1-0-79|3 Model
-  Support changes in v1.0.79]]'
+- '[[Changes/Superwhisper/2026-08-10-2-model-support-changes-in-superwhisper-ios-2-20|2
+  Model Support changes in Superwhisper iOS 2.20]]'
+- '[[Changes/Superwhisper/2026-08-10-3-model-support-changes-in-superwhisper-windows-1-5-10|3
+  Model Support changes in Superwhisper Windows 1.5.10]]'
 - '[[Changes/Claude Code/2026-08-11-changed-the-write-tool-so-newer-models-can-overwrite-an-existing-file-they-haven|Changed
   the Write tool so newer models can overwrite an existing file they haven''t…]]'
 source_release: '[[Releases/Cline/cline-2026-08-11-v4-1-8-github-368323449-3edb942e|cline-2026-08-11-v4-1-8-github-368323449-3edb942e]]'

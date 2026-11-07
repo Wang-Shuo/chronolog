@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: bbf7a132ba8bee8cda86c05470faaae005f5d5d7a9e68069f52bbd1a88821bf2
+machine_hash: 01506bb7a797d59ee7faaff020e8ee6d80b1329fbd64e2a24b8a6df96db30167
 product: notion
 product_name: Notion
 record:
@@ -53,11 +53,11 @@ record:
   title: Can Edit Content permission level
   type: change
 related_changes:
-- "[[Changes/Notion/2020-11-11-flexible-sub-page-permissions|Flexible sub-page permissions
-  \U0001F4D1]]"
 - '[[Changes/Notion/2021-01-27-when-troubleshooting-with-notion-s-support-team-you-can-now-grant-and-revoke-con|When
   troubleshooting with Notion''s support team, you can now grant and revoke…]]'
 - '[[Changes/Descript/2021-08-10-soc-2-type-ii-compliance|SOC 2 Type II Compliance]]'
+- '[[Changes/Raycast/2021-08-25-file-search-now-prompts-for-removable-volume-access-permission-if-required-this|File
+  search: Now prompts for "Removable Volume" access permission if required]]'
 source_release: '[[Releases/Notion/notion-2022-02-08-https-www-notion-com-releases-2022-02-08-786c2af6|notion-2022-02-08-https-www-notion-com-releases-2022-02-08-786c2af6]]'
 source_type: notion_changelog
 theme: safety-privacy
@@ -91,8 +91,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2021-08-10 · Descript · [[Changes/Descript/2021-08-10-soc-2-type-ii-compliance|SOC 2 Type II Compliance]]
-- Later: 2022-06-29 · Notion · [[Changes/Notion/2022-06-29-request-access-to-pages|Request access to pages]]
+- Earlier: 2021-08-25 · Raycast · [[Changes/Raycast/2021-08-25-file-search-now-prompts-for-removable-volume-access-permission-if-required-this|File search: Now prompts for "Removable Volume" access permission if required]]
+- Later: 2022-04-06 · Raycast · [[Changes/Raycast/2022-04-06-app-updater-added-flow-to-help-fix-permission-problems-for-non-root-users-added|App Updater: added flow to help fix permission problems for non-root users, added…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

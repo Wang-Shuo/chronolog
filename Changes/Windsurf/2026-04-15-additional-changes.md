@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 7baed133b05c245348d2c7838231b10699e4364a8cebd51e1905a7f29636b015
+machine_hash: e30ad8d955f224c9e76f35eaaf028e50dfe0f1cb371b7294fec031467387710a
 product: windsurf
 product_name: Windsurf
 record:
@@ -52,12 +52,12 @@ record:
   title: Additional Changes
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-15-add-copilot-plugin-marketplace-update-command-to-refresh-plugin-catalogs|Add
-  copilot plugin marketplace update command to refresh plugin catalogs]]'
 - '[[Changes/OpenCode/2026-04-15-export-ai-sdk-telemetry-spans-to-otlp-trace-backends|Export
   AI SDK telemetry spans to OTLP trace backends]]'
 - '[[Changes/OpenCode/2026-04-15-4-apps-and-integrations-changes-in-v1-4-4|4 Apps
   and Integrations changes in v1.4.4]]'
+- '[[Changes/Raycast/2026-04-15-applications-added-a-recursive-search-option-for-portable-apps|Applications
+  : Added a recursive search option for portable apps]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-04-15-v2-0-44-3f004a0d|windsurf-2026-04-15-v2-0-44-3f004a0d]]'
 source_type: windsurf_changelog
 theme: apps-integrations
@@ -95,7 +95,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-04-15 · OpenCode · [[Changes/OpenCode/2026-04-15-4-apps-and-integrations-changes-in-v1-4-4|4 Apps and Integrations changes in v1.4.4]]
+- Earlier: 2026-04-15 · Raycast · [[Changes/Raycast/2026-04-15-applications-added-a-recursive-search-option-for-portable-apps|Applications : Added a recursive search option for portable apps]]
 - Later: 2026-04-16 · Claude Code · [[Changes/Claude Code/2026-04-16-2-apps-and-integrations-changes-in-v2-1-111|2 Apps and Integrations changes in v2.1.111]]
 <!-- chronolog:end -->
 

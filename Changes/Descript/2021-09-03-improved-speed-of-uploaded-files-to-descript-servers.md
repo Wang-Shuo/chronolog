@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e765a99bf2f3abecd6f11f2a1375bcb72d1b726ae715992b24df646f3dbdd16e
+machine_hash: 28cbc1acc70e5fb14a2e3d199f86ad08e84196b2b09cc4a30e8a47e9935abe65
 product: descript
 product_name: Descript
 record:
@@ -41,9 +41,10 @@ record:
   title: Improved speed of uploaded files to Descript servers
   type: change
 related_changes:
-- "[[Changes/Notion/2021-04-21-pages-load-50-faster|Pages load 50% faster \U0001F955]]"
 - '[[Changes/Synthesia/2021-07-16-automatically-speed-up-or-slow-down-the-background-video-so-that-it-s-duration-m|Match
   to script]]'
+- '[[Changes/Raycast/2021-07-29-improve-cold-start-performance-enhance-in-app-updates|Improve
+  cold start performance, enhance in-app updates]]'
 - '[[Changes/Descript/2021-08-24-2-reliability-and-performance-changes-in-version-21-release|2
   Reliability and Performance changes in Version 21 Release]]'
 source_release: '[[Releases/Descript/descript-2021-09-03-6390c9c34a4a0d64fa56460c-f34b6517|descript-2021-09-03-6390c9c34a4a0d64fa56460c-f34b6517]]'

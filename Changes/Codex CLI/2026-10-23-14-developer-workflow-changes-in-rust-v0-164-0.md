@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 362e45fb9e24160b7f005b59ea718b46294e0ebc02232be9a6eba8ca5b9e3dcd
+machine_hash: 69a3b9967f7ccf6074a180fadf703a4b57d6ea7905dc5a993b717189d9deb8d0
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -70,10 +70,10 @@ record:
   title: 14 Developer Workflow changes in rust-v0.164.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-10-22-clicking-a-completed-response-code-block-copies-its-original-code-when-enabled|Clicking
-  a completed response code block copies its original code when enabled]]'
-- '[[Changes/OpenClaw/2026-10-22-7-developer-workflow-changes-in-v2026-10-6|7 Developer
-  Workflow changes in v2026.10.6]]'
+- '[[Changes/Raycast/2026-10-22-restart-frontmost-app-new-command-that-quits-and-reopens-the-app-you-re-currentl|Restart
+  Frontmost App : New command that quits and reopens the app you''re currently using]]'
+- '[[Changes/Raycast/2026-10-22-restart-frontmost-app-new-command-that-quits-and-reopens-the-app-you-re-currentl-de4944|Restart
+  Frontmost App : New command that quits and reopens the app you''re currently using]]'
 - '[[Changes/Claude Code/2026-10-23-code-review-improved-the-code-review-admin-section-to-retry-the-first-load-and-s|Code
   Review Improved the Code Review admin section to retry the first load…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-10-23-rust-v0-164-0-github-421457270-d867151d|codex-cli-2026-10-23-rust-v0-164-0-github-421457270-d867151d]]'
@@ -147,7 +147,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.164.0
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-10-23 · Claude Code · [[Changes/Claude Code/2026-10-23-code-review-improved-the-code-review-admin-section-to-retry-the-first-load-and-s|Code Review Improved the Code Review admin section to retry the first load…]]
-- Later: 2026-10-23 · Dify · [[Changes/Dify/2026-10-23-respect-xforward-headers-enabled-standalone-api-default-remains-false-bundled-co| /  RESPECT_XFORWARD_HEADERS_ENABLED  /  Standalone API default remains false]]
+- Later: 2026-10-23 · Devin · [[Changes/Devin/2026-10-23-turn-on-automatic-reviews-from-a-pull-request|Turn on Automatic Reviews from a Pull Request]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

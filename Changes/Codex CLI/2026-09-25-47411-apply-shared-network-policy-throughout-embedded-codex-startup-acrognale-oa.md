@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 59980684defff1ae36ceb43bc0acf6df5ced7558cdadb10735a04b86b6b69309
+machine_hash: 7175aa667c8c5fc98dab487ac22962db727794950c2758840c441d94cd83a410
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -91,7 +91,7 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2026-09-24 · Midjourney · [[Changes/Midjourney/2026-09-24-a-few-updates-to-share-with-you-today|A few updates to share with you today]]
-- Later: 2026-09-28 · Claude Code · [[Changes/Claude Code/2026-09-28-2-collaboration-changes-in-v2-1-284|2 Collaboration changes in v2.1.284]]
+- Later: 2026-09-25 · Devin · [[Changes/Devin/2026-09-25-microsoft-teams-group-chats|Microsoft Teams: Group Chats]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0fa16cf468adfbfa61e23f7273e299abec61dfe657ddb987611b33709a41c80e
+machine_hash: 108f0cc8c9628d200f5a5f468eff74483f521ff43f140ee838264073caf96ba2
 product: dify
 product_name: Dify
 record:
@@ -44,10 +44,10 @@ record:
   title: 3 Pricing Model changes in 0.3.33
   type: change
 related_changes:
-- '[[Changes/Descript/2023-08-15-squadcast-is-now-part-of-descript-which-means-if-you-re-a-descript-subscriber-yo|Remote
-  Recording now in Descript]]'
 - '[[Changes/Dify/2023-08-23-feat-record-price-unit-in-messages-by-takatost-in-https-github-com-langgenius-di|feat:
   record price unit in messages]]'
+- '[[Changes/Raycast/2023-09-06-pro-plan-added-hints-for-subscription-related-problems|Pro
+  Plan: Added hints for subscription-related problems]]'
 - '[[Changes/Cursor/2023-11-03-pro-plan-if-you-hit-your-fast-request-limit-and-prefer-to-purchase-more-you-now|Pro++
   plan: if you hit your fast request limit and prefer to purchase more, you now can]]'
 source_release: '[[Releases/Dify/dify-2023-12-08-0-3-33-github-133127964-bf22df9f|dify-2023-12-08-0-3-33-github-133127964-bf22df9f]]'

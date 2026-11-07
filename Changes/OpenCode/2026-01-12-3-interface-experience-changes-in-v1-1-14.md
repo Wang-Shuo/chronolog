@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c4e0f2e455dc85b1c41f0a273ddcb98128108261f5fd1bdb92b6037149768b89
+machine_hash: 7312b467aeda63689abaec226d43306eed1b6563b987f0864aa318e0b7c14268
 product: opencode
 product_name: OpenCode
 record:
@@ -44,8 +44,7 @@ record:
   title: 3 Interface Experience changes in v1.1.14
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-01-09-3-interface-experience-changes-in-rust-v0-80-0|3
-  Interface Experience changes in rust-v0.80.0]]'
+- '[[Changes/Devin/2026-01-09-machine-setup-ux-improvements|Machine Setup UX Improvements]]'
 - '[[Changes/Open WebUI/2026-01-09-5-interface-experience-changes-in-v0-7-0|5 Interface
   Experience changes in v0.7.0]]'
 - '[[Changes/OpenCode/2026-01-09-2-interface-experience-changes-in-v1-1-8|2 Interface

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 177e72321c7da5f386f5539c02668690ce86eb7e7414659b608c4822160e328c
+machine_hash: 2e8f88918aa3c0d2dfcf0b5b386a4ea665c34b0e86987e6046ce2ce270c24e17
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,10 +43,10 @@ record:
     `rust-v0.144.2`
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-07-09-6-developer-workflow-changes-in-rust-v0-144-0|6
-  Developer Workflow changes in rust-v0.144.0]]'
 - '[[Changes/Claude Code/2026-07-10-4-developer-workflow-changes-in-v2-1-206|4 Developer
   Workflow changes in v2.1.206]]'
+- '[[Changes/Devin/2026-07-10-copy-commands-from-the-worklog|Copy Commands from the
+  Worklog]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-10-3-developer-workflow-changes-in-v1-0-70|3
   Developer Workflow changes in v1.0.70]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-07-13-rust-v0-144-3-github-352954174-38c990aa|codex-cli-2026-07-13-rust-v0-144-3-github-352954174-38c990aa]]'

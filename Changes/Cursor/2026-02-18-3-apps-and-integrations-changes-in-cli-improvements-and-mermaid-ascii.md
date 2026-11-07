@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d461d7343623abe5c3c3b328dd52d3824c72b6fdb93985697f04d9ce8a1985c5
+machine_hash: 596025589dea2b889b0e7f512c63f3282fe4593963ffd81a647e5bb452854ddc
 product: cursor
 product_name: Cursor
 record:
@@ -48,10 +48,10 @@ record:
   title: 3 Apps and Integrations changes in CLI Improvements and Mermaid ASCII…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-02-17-plugins-on-the-cursor-marketplace-0cef65|Plugins on
-  the Cursor Marketplace]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-17-2-apps-and-integrations-changes-in-v0-0-411|2
   Apps and Integrations changes in v0.0.411]]'
+- '[[Changes/AnythingLLM/2026-02-18-3-apps-and-integrations-changes-in-v1-11-0|3 Apps
+  and Integrations changes in v1.11.0]]'
 - '[[Changes/Claude Code/2026-02-18-added-last-assistant-message-field-to-stop-and-subagentstop-hook-inputs-providin|Added
   last_assistant_message field to Stop and SubagentStop hook inputs, providing…]]'
 source_release: '[[Releases/Cursor/cursor-2026-02-18-cli-improvements-and-mermaid-ascii-diagrams-https-cursor-com-cha-a75d36c7|cursor-2026-02-18-cli-improvements-and-mermaid-ascii-diagrams-https-cursor-com-cha-a75d36c7]]'

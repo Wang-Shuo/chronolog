@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a30c301eab5d56c719430ebdc0ad16d3f505762c7471107ac9116a0f627d60b7
+machine_hash: e818f81849b7ca58ff9875410d1bb86f569a76f9fef6a506243bcc69f5a94485
 product: open-webui
 product_name: Open WebUI
 record:
@@ -80,7 +80,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2024-04-23 · Descript · [[Changes/Descript/2024-04-23-range-selection-behavior|Range selection behavior]]
-- Later: 2024-04-30 · Notion · [[Changes/Notion/2024-04-30-simplified-sidebar|Simplified sidebar]]
+- Later: 2024-04-24 · Raycast · [[Changes/Raycast/2024-04-24-ai-model-picker-the-model-information-popover-now-only-appears-after-changing-th|AI Model Picker: The model information popover now only appears after changing…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

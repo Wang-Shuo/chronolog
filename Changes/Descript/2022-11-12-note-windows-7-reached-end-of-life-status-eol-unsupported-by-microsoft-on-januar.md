@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: policy
-machine_hash: a4d883037f89df2ad1e0d25ff8d51d08f037d2d9668b7ec43fb352e10ecf3812
+machine_hash: 7fd3d96744375706a99b4990c22f3e31d381359c5e30505cdef8d26eaea3c8d5
 product: descript
 product_name: Descript
 record:
@@ -54,12 +54,11 @@ record:
     Microsoft…'
   type: change
 related_changes:
-- '[[Changes/Notion/2022-04-14-if-you-think-of-notion-like-a-kitchen-our-engineers-are-constantly-cooking-up-ne|If
-  you think of Notion like a kitchen, our engineers are constantly cooking up new…]]'
-- '[[Changes/Notion/2022-04-14-large-databases-load-2-5-faster|Large databases load
-  2.5× faster]]'
+- '[[Changes/Raycast/2022-06-29-you-can-now-opt-in-to-create-a-quicklink-even-faster-as-we-automatically-fill-th|Opt-in
+  to create a Quicklink even faster as we automatically fill the form based…]]'
 - '[[Changes/Notion/2022-08-11-lots-of-performance-reliability-improvements-across-the-ios-android-apps|Lots
   of performance & reliability improvements across the iOS & Android apps]]'
+- '[[Changes/Raycast/2022-09-28-improved-calculator|Improved Calculator]]'
 source_release: '[[Releases/Descript/descript-2022-11-12-6390ca224a4a0d64fa5651b3-44453883|descript-2022-11-12-6390ca224a4a0d64fa5651b3-44453883]]'
 source_type: canny_changelog
 theme: reliability-performance
@@ -88,7 +87,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2022-08-11 · Notion · [[Changes/Notion/2022-08-11-lots-of-performance-reliability-improvements-across-the-ios-android-apps|Lots of performance & reliability improvements across the iOS & Android apps]]
+- Earlier: 2022-09-28 · Raycast · [[Changes/Raycast/2022-09-28-improved-calculator|Improved Calculator]]
 - Later: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
 <!-- chronolog:end -->
 

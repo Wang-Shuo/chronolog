@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 917c3c6420ce0560d623872f43055063d7587edc6757feb61836d45cf5063698
+machine_hash: 22a52dd39d638c712d707536ac8b73c0a0d6fb82c91716121319fd1e5a6e6cce
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -61,8 +61,8 @@ record:
   title: 9 Safety and Privacy changes in rust-v0.102.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-13-2-safety-and-privacy-changes-in-v2-1-41|2 Safety
-  and Privacy changes in v2.1.41]]'
+- '[[Changes/Devin/2026-02-13-secure-mode-for-all-organizations|Secure Mode for All
+  Organizations]]'
 - "[[Changes/Open WebUI/2026-02-14-public-sharing-security-fix-fixed-a-security-issue-where-users-with-write-access|\U0001F6E1️
   Public sharing security fix. Fixed a security issue where users with write…]]"
 - '[[Changes/Claude Code/2026-02-17-vscode-improved-permission-destination-choice-project-user-session-to-persist-ac|VSCode

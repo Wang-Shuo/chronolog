@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8676451a78f4fb979188969e7d39721b8f5415e23568a93ad417fa5672c97950
+machine_hash: 034a222a0dc59b86f774f9b4a7c320285c558e9d9191408ac6c480ac5af8b8db
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,8 +44,8 @@ record:
   title: 2 Interface Experience changes in v1.0.100
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-10-16-4-interface-experience-changes-in-v0-12-3|4 Interface
-  Experience changes in v0.12.3]]'
+- '[[Changes/Raycast/2026-10-16-3-interface-experience-changes-in-raycast-macos-2-8|3
+  Interface Experience changes in Raycast macos 2.8]]'
 - '[[Changes/v0/2026-10-16-2-interface-experience-changes-in-downloads-in-the-code-tab-new-ios|2
   Interface Experience changes in Downloads in the Code tab, new iOS…]]'
 - '[[Changes/OpenClaw/2026-10-18-openclaw-2026-10-5-refreshes-the-sidebar-adds-saved-versions-and-undo-to-skill-w|OpenClaw

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: projects-workspaces
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5269d3714adc62c6cb8ee3919dddf06a70d5b2544574d9623c72f90c9c06d547
+machine_hash: 538e9af8b2c9bc151f1d131eade43a10f39c0dd5573193f0a8f43e42246a841c
 product: openclaw
 product_name: OpenClaw
 record:
@@ -48,10 +48,10 @@ record:
   title: Older session history
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-09-30-withdrawn-running-prompts-stay-removed-after-session-resume|Withdrawn
-  running prompts stay removed after session resume]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-05-remote-session-resume-now-uses-your-configured-github-auth-for-resume-and-connec|Remote
   session resume now uses your configured GitHub auth for --resume and --connect]]'
+- '[[Changes/Devin/2026-10-09-session-resume-window-is-now-14-days|Session resume
+  window is now 14 days]]'
 - '[[Changes/OpenClaw/2026-10-10-plugin-authors-can-await-session-history-extension-changes-and-replay-metadata-t|Plugin
   authors can await session history, extension changes and replay metadata]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-10-12-v2026-10-2-9abf70fc|openclaw-2026-10-12-v2026-10-2-9abf70fc]]'

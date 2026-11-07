@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 95867fcad2543b568647274b1268468a5aeaef4e6497e93b5b238748aeaac955
+machine_hash: dac64cd0cad58c1b21f3740a9f504705a4876240da4f160d18a654853262c6e3
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -72,12 +72,12 @@ record:
   title: GPT-6.1 Terra
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-10-24-d3-https-ollama-com-library-d3-brings-vllm-semantic-router-s-decision-models-to|d3((source
-  link) brings vLLM Semantic Router''s decision models…]]'
 - '[[Changes/OpenClaw/2026-10-24-2-model-support-changes-in-v2026-10-7|2 Model Support
   changes in v2026.10.7]]'
 - '[[Changes/Open WebUI/2026-10-25-16-model-support-changes-in-v0-12-4|16 Model Support
   changes in v0.12.4]]'
+- '[[Changes/AnythingLLM/2026-10-26-6-model-support-changes-in-v1-19-0|6 Model Support
+  changes in v1.19.0]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-10-26-gpt-6-1-terra-d321b573|chatgpt-2026-10-26-gpt-6-1-terra-d321b573]]'
 source_type: chatgpt_changelog
 theme: model-support
@@ -104,7 +104,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-10-25 · Open WebUI · [[Changes/Open WebUI/2026-10-25-16-model-support-changes-in-v0-12-4|16 Model Support changes in v0.12.4]]
+- Earlier: 2026-10-26 · AnythingLLM · [[Changes/AnythingLLM/2026-10-26-6-model-support-changes-in-v1-19-0|6 Model Support changes in v1.19.0]]
 - Later: 2026-10-26 · Claude Code · [[Changes/Claude Code/2026-10-26-5-model-support-changes-in-v2-1-311|5 Model Support changes in v2.1.311]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b921ecb62b1b3c06565de4988b293d004ca6753c89c02ee53eb8d654d65dceae
+machine_hash: f84ce399c90e03b7579f81b100dcefed9b856d87e1214d4d20f620d65dfad1aa
 product: ollama
 product_name: Ollama
 record:
@@ -95,7 +95,7 @@ Source: https://github.com/ollama/ollama/releases/tag/v0.18.1
 ## Nearby in Search and Browsing
 
 - Earlier: 2026-03-17 · Dify · [[Changes/Dify/2026-03-17-test-add-integration-tests-for-app-card-operations-list-browsing-and-create-app|test: add integration tests for app card operations, list browsing, and create app flows]]
-- Later: 2026-03-19 · ChatGPT · [[Changes/ChatGPT/2026-03-19-the-legacy-deep-research-mode-will-be-removed-on-thursday-march-26-2026-this-cha|Legacy deep research mode deprecation notice]]
+- Later: 2026-03-18 · AnythingLLM · [[Changes/AnythingLLM/2026-03-18-3-search-and-browsing-changes-in-v1-11-2|3 Search and Browsing changes in v1.11.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

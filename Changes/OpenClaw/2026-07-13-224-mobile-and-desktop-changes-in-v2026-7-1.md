@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f94b7152e92ccc7acac00faa39255b03ea025a8518d10ef401064660a7b6ff02
+machine_hash: c0020c239e6f30865558bcb7af2c0343796d1eb11316aef70990cf5bb0852754
 product: openclaw
 product_name: OpenClaw
 record:
@@ -893,10 +893,9 @@ record:
   title: 224 Mobile and Desktop changes in v2026.7.1
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-07-09-2-mobile-and-desktop-changes-in-v1-17-18-1|2 Mobile
-  and Desktop changes in v1.17.18 + 1]]'
-- '[[Changes/OpenCode/2026-07-09-12-mobile-and-desktop-changes-in-v1-17-16|12 Mobile
-  and Desktop changes in v1.17.16]]'
+- '[[Changes/Wispr Flow/2026-07-09-canadian-english-desktop|Canadian English (Desktop)]]'
+- '[[Changes/Wispr Flow/2026-07-09-put-the-flow-bar-wherever-works-best-for-you-desktop|Put
+  the Flow Bar wherever works best for you (Desktop)]]'
 - '[[Changes/OpenClaw/2026-07-13-whatsapp-and-telegram-default-account-routing-warnings-are-now-available-through|WhatsApp
   and Telegram default-account routing warnings are now available through…]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-07-13-v2026-7-1-c2063718|openclaw-2026-07-13-v2026-7-1-c2063718]]'
@@ -1402,7 +1401,7 @@ Source: https://docs.openclaw.ai/releases/2026.7.1
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-07-09 · OpenCode · [[Changes/OpenCode/2026-07-09-12-mobile-and-desktop-changes-in-v1-17-16|12 Mobile and Desktop changes in v1.17.16]]
+- Earlier: 2026-07-09 · Wispr Flow · [[Changes/Wispr Flow/2026-07-09-put-the-flow-bar-wherever-works-best-for-you-desktop|Put the Flow Bar wherever works best for you (Desktop)]]
 - Later: 2026-07-13 · OpenCode · [[Changes/OpenCode/2026-07-13-9-mobile-and-desktop-changes-in-v1-17-20-1|9 Mobile and Desktop changes in v1.17.20 + 1]]
 <!-- chronolog:end -->
 

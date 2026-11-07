@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3b4b83009a897ea0fcc53e89991b3af946d39ff174a3f6a6109ad09025621ea8
+machine_hash: 795e7d79fc03820824a6124880c5a9dc3bfc992047ef3e673ca1f85f784d693f
 product: openclaw
 product_name: OpenClaw
 record:
@@ -56,12 +56,12 @@ record:
   title: 3 Pricing Model changes in v2026.9.4
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-10-2-pricing-model-changes-in-v2-1-268|2 Pricing
-  Model changes in v2.1.268]]'
-- '[[Changes/Dify/2026-09-10-4-pricing-model-changes-in-1-17-1|4 Pricing Model changes
-  in 1.17.1]]'
 - '[[Changes/Lovable/2026-09-10-share-your-lovable-invite-link-from-your-phone|Share
   your Lovable invite link from your phone]]'
+- '[[Changes/Raycast/2026-09-10-ai-credits-and-new-pro-plans|AI Credits and New Pro
+  Plans]]'
+- '[[Changes/Raycast/2026-09-10-2-pricing-model-changes-in-raycast-ios-1-3-7|2 Pricing
+  Model changes in Raycast ios 1.3.7]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-09-11-v2026-9-4-6cdeafb2|openclaw-2026-09-11-v2026-9-4-6cdeafb2]]'
 source_type: openclaw_changelog
 theme: pricing-model
@@ -122,8 +122,8 @@ Source: https://docs.openclaw.ai/releases/2026.9.4
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-09-10 · Lovable · [[Changes/Lovable/2026-09-10-share-your-lovable-invite-link-from-your-phone|Share your Lovable invite link from your phone]]
-- Later: 2026-09-12 · Qoder · [[Changes/Qoder/2026-09-12-creative-achievements-your-profile-now-includes-credits-and-activity-stats-along|Creative achievements: Your profile now includes Credits and activity stats, along…]]
+- Earlier: 2026-09-10 · Raycast · [[Changes/Raycast/2026-09-10-2-pricing-model-changes-in-raycast-ios-1-3-7|2 Pricing Model changes in Raycast ios 1.3.7]]
+- Later: 2026-09-11 · Raycast · [[Changes/Raycast/2026-09-11-tasks-like-these-cost-more-to-run-than-a-single-question-which-is-why-this-relea|Tasks like these cost more to run than a single question, which is why this release…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

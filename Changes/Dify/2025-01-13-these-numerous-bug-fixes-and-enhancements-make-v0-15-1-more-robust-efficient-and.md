@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e54ea5381a4d7e367c2c76f100867dc5e63ccce4235f10afb10e02f116ecb8ee
+machine_hash: 26e23aba68a860f7968815e892d583c7e270093a2e91f9930def603fe97c69ef
 product: dify
 product_name: Dify
 record:
@@ -86,7 +86,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2025-01-10 · Aider · [[Changes/Aider/2025-01-10-2-reliability-and-performance-changes-in-v0-71-0|2 Reliability and Performance changes in v0.71.0]]
-- Later: 2025-01-22 · Open WebUI · [[Changes/Open WebUI/2025-01-22-2-reliability-and-performance-changes-in-v0-5-5|2 Reliability and Performance changes in v0.5.5]]
+- Later: 2025-01-16 · Devin · [[Changes/Devin/2025-01-16-solution-for-docker-storage-performance-issues|Solution for Docker storage & performance issues]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

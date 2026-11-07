@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: fce4f5a4b388b0df19ee6c5eb6d81aaef77d0a050efc2548ec4b4a7f1fe01675
+machine_hash: 16de99c28db0fe72faa09c9bd8c1f59e657eb7d32ac4f5f82ccc5dd9b7402c26
 product: notion
 product_name: Notion
 record:
@@ -59,8 +59,8 @@ record:
   title: New API integrations with Neeva & n8n
   type: change
 related_changes:
-- '[[Changes/Notion/2021-06-29-new-api-integrations-with-ifttt-atspoke-more|New API
-  integrations with IFTTT, atSpoke & more]]'
+- '[[Changes/Raycast/2021-07-01-window-management-use-presets-to-assign-default-hotkeys-of-magnet-rectangle-or-s|Window
+  Management: Use presets to assign default hotkeys of Magnet, Rectangle…]]'
 - '[[Changes/Notion/2021-07-14-new-api-integration-with-back|New API integration with
   Back]]'
 - '[[Changes/Notion/2021-07-27-better-access-management-for-your-api-integrations|Better
@@ -100,7 +100,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2021-07-14 · Notion · [[Changes/Notion/2021-07-14-new-api-integration-with-back|New API integration with Back]]
-- Later: 2021-08-24 · Notion · [[Changes/Notion/2021-08-24-new-api-integration-with-tactiq|New API integration with Tactiq]]
+- Later: 2021-07-29 · Raycast · [[Changes/Raycast/2021-07-29-root-search-add-support-for-detecting-apps-or-preferences-via-symlinked-folders|Root Search : Add support for detecting apps or preferences via symlinked folders]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9d260abf36b2151d0d595451253af6b511c1d0648e1a9f94a35aaf12b323e1a1
+machine_hash: 9c9c0d5f5d93bff64529d3aed738d86439d0bdb264662da518e889aab4f01a1d
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,8 +42,8 @@ record:
   title: 2 Model Support changes in rust-v0.54.0
   type: change
 related_changes:
-- '[[Changes/Cline/2025-10-31-4-model-support-changes-in-v3-35-0|4 Model Support changes
-  in v3.35.0]]'
+- '[[Changes/Raycast/2025-10-31-2-model-support-changes-in-raycast-ios-1-1-2|2 Model
+  Support changes in Raycast ios 1.1.2]]'
 - '[[Changes/GitHub Copilot CLI/2025-11-03-2-model-support-changes-in-v0-0-354|2 Model
   Support changes in v0.0.354]]'
 - '[[Changes/Cline/2025-11-04-feat-add-support-for-claude-4-5-sonnet-in-sap-ai-core-provider-by-wahajahmedkhan|feat:

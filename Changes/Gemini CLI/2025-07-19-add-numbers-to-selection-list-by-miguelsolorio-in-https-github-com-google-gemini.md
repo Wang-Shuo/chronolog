@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8b5255cf3f05d72885e609fefbe5b0d30ca3b3f5fd83cb1ddf82c0fb9245cf7f
+machine_hash: 8fc210a68e99b6847448d17a780bfad90da4619f0c4a64178f2081d82c8b79ab
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -43,11 +43,11 @@ record:
   title: Add numbers to selection list
   type: change
 related_changes:
-- '[[Changes/Dify/2025-07-10-2-interface-experience-changes-in-1-6-0|2 Interface Experience
-  changes in 1.6.0]]'
-- '[[Changes/Notion/2025-07-10-databases-got-a-makeover|Databases got a makeover]]'
-- '[[Changes/Open WebUI/2025-07-14-4-interface-experience-changes-in-v0-6-16|4 Interface
-  Experience changes in v0.6.16]]'
+- '[[Changes/AnythingLLM/2025-07-16-2-interface-experience-changes-in-v1-8-4|2 Interface
+  Experience changes in v1.8.4]]'
+- '[[Changes/Raycast/2025-07-16-2-interface-experience-changes-in-raycast-macos-v1-1-101-0|2
+  Interface Experience changes in Raycast macos-v1 1.101.0]]'
+- '[[Changes/Raycast/2025-07-16-chat-branching-experimental|Chat Branching (Experimental)]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-07-19-v0-1-13-github-233708271-319aa8dd|gemini-cli-2025-07-19-v0-1-13-github-233708271-319aa8dd]]'
 source_type: github_releases
 theme: interface-experience
@@ -86,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2025-07-14 · Open WebUI · [[Changes/Open WebUI/2025-07-14-4-interface-experience-changes-in-v0-6-16|4 Interface Experience changes in v0.6.16]]
+- Earlier: 2025-07-16 · Raycast · [[Changes/Raycast/2025-07-16-chat-branching-experimental|Chat Branching (Experimental)]]
 - Later: 2025-07-19 · Open WebUI · [[Changes/Open WebUI/2025-07-19-3-interface-experience-changes-in-v0-6-17|3 Interface Experience changes in v0.6.17]]
 <!-- chronolog:end -->
 

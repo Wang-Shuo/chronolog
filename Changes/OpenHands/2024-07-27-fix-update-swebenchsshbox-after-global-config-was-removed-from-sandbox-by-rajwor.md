@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e15c265288519570dc1197d4ea0fb2e9c1ee05a54e94dea785b70059e88bd49c
+machine_hash: 1d904600cb343db50b4dae33319c68df1a6cf3089ae287b8b63f1049c15a39b1
 product: openhands
 product_name: OpenHands
 record:
@@ -44,12 +44,12 @@ record:
   title: '[FIX] Update SWEBenchSSHBox after global config was removed…'
   type: change
 related_changes:
-- '[[Changes/Dify/2024-07-08-2-safety-and-privacy-changes-in-0-6-13|2 Safety and Privacy
-  changes in 0.6.13]]'
 - '[[Changes/OpenHands/2024-07-13-6-safety-and-privacy-changes-in-0-8-0|6 Safety and
   Privacy changes in 0.8.0]]'
 - '[[Changes/OpenHands/2024-07-19-2-safety-and-privacy-changes-in-0-8-1|2 Safety and
   Privacy changes in 0.8.1]]'
+- '[[Changes/AnythingLLM/2024-07-26-3-safety-and-privacy-changes-in-v1-0-0|3 Safety
+  and Privacy changes in v1.0.0]]'
 source_release: '[[Releases/OpenHands/openhands-2024-07-27-0-8-2-github-167485944-4c47e7ce|openhands-2024-07-27-0-8-2-github-167485944-4c47e7ce]]'
 source_type: github_releases
 theme: safety-privacy
@@ -83,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2024-07-19 · OpenHands · [[Changes/OpenHands/2024-07-19-2-safety-and-privacy-changes-in-0-8-1|2 Safety and Privacy changes in 0.8.1]]
+- Earlier: 2024-07-26 · AnythingLLM · [[Changes/AnythingLLM/2024-07-26-3-safety-and-privacy-changes-in-v1-0-0|3 Safety and Privacy changes in v1.0.0]]
 - Later: 2024-07-31 · Aider · [[Changes/Aider/2024-07-31-resolved-permission-issues-when-using-docker-run-user-xxx|Resolved permission issues when using docker run --user xxx]]
 <!-- chronolog:end -->
 

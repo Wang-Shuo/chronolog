@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6d814b1dbdafafc8cedc3445d0e3503279fd4d7f0029e6cdc3655a207aaddb73
+machine_hash: fc3c71c926b3e5f24f693d162011db68e73abc36a9883473a4ebc2827384e01a
 product: open-webui
 product_name: Open WebUI
 record:
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2024-04-30 · Gemini · [[Changes/Gemini/2024-04-30-the-gemini-mobile-app-is-available-in-more-languages|The Gemini mobile app is available in more languages]]
-- Later: 2024-06-04 · Descript · [[Changes/Descript/2024-06-04-descript-for-web-is-here|Descript for Web is here]]
+- Later: 2024-05-22 · Raycast · [[Changes/Raycast/2024-05-22-custom-window-management-commands|Custom Window Management Commands]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 6d5d1994ea9d28187719b6a18759b7e421041a1c0e931f864ce4efd6d8a73bcd
+machine_hash: a0615cfbe1b87af6607b3bd9164a27a4c63f49b9ae186ba6b851a9b119233d0b
 product: descript
 product_name: Descript
 record:
@@ -89,7 +89,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2025-08-29 · Codex CLI · [[Changes/Codex CLI/2025-08-29-major-readme-docs-refactor-and-navigation-2724|Major README/docs refactor and navigation (♯2724)]]
-- Later: 2025-09-04 · Gemini CLI · [[Changes/Gemini CLI/2025-09-04-2-interface-experience-changes-in-v0-3-0|2 Interface Experience changes in v0.3.0]]
+- Later: 2025-09-03 · Raycast · [[Changes/Raycast/2025-09-03-quick-ai-improved-rendering-of-partial-response-while-it-is-streaming-in-especia|Quick AI: Improved rendering of partial response while it is streaming…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

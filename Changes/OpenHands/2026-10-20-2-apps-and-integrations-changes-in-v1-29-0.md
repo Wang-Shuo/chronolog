@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c5724e9870ce8fa7de5586723bff161f0185bec44dde5677233a8449f907d3ec
+machine_hash: a7d7f82f8947c899b2a224158d34acbf58c13a5ca7eeee8b3a84cfa3da3a47e2
 product: openhands
 product_name: OpenHands
 record:
@@ -85,7 +85,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/v1.29.0
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-10-20 · Lovable · [[Changes/Lovable/2026-10-20-app-chat-connectors-llamaparse-platform-and-n8n|App + chat connectors: LlamaParse Platform and n8n]]
-- Later: 2026-10-21 · Claude Code · [[Changes/Claude Code/2026-10-21-3-apps-and-integrations-changes-in-v2-1-307|3 Apps and Integrations changes in v2.1.307]]
+- Later: 2026-10-20 · Superwhisper · [[Changes/Superwhisper/2026-10-20-opencode-plugin-detection-now-supports-opencode-1-3-and-2-0|OpenCode plugin detection now supports OpenCode 1.3 and 2.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

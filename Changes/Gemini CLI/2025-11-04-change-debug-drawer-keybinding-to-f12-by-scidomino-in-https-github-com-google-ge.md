@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 58e4437c207dc7459aac1b0a4250827215213bfa19bdfd483f22c75fa8add711
+machine_hash: 8986878bf859e7d7b8f94bdc9a5fb4c83ae1ae7f0c69de1eb78f46942229306a
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -41,8 +41,8 @@ record:
   title: Change debug drawer keybinding to F12
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-10-29-improve-rendering-of-todo-lists-by-scidomino-in-https-github-com-google-gemini-g|Improve
-  rendering of ToDo lists]]'
+- '[[Changes/Raycast/2025-10-29-general-all-menu-components-action-panel-navigation-filter-select-etc-now-suppor|General
+  : All menu components (action panel, navigation filter, select, etc) now…]]'
 - '[[Changes/v0/2025-10-30-we-redesigned-the-chat-sidebar-with-better-organization-faster-navigation-and-a|Redesigned
   Chat Sidebar]]'
 - '[[Changes/Cline/2025-10-31-2-interface-experience-changes-in-v3-35-0|2 Interface

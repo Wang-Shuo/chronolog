@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 530934e5975a5531e46a569d116ba0074c553cbe157ce74f67c19411525ba897
+machine_hash: 102d1f56ce9faee2eaabcdd584711af9fa1d51a53ff4642ae4eff5407abc0f72
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,11 +43,11 @@ record:
   title: '[#3878] Move responses mocking helpers to a shared lib (#3878)'
   type: change
 related_changes:
-- '[[Changes/Replit/2025-09-19-email-copying-from-members-page|Email copying from
-  members page]]'
 - '[[Changes/Replit/2025-09-19-deploy-is-now-publish|''Deploy'' is now ''Publish'']]'
 - "[[Changes/Dify/2025-09-22-customize-and-share-pipelines-by-importing-exporting-via-dsl-for-easier-reusabil|\U0001F504
   Customize and share pipelines by importing/exporting via DSL for easier…]]"
+- '[[Changes/Recraft/2025-09-22-we-ve-launched-a-substack-to-share-practical-ai-tutorials-design-best-practices|Recraft
+  is now on Substack: Follow for creative tips and inspiration]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-09-23-rust-v0-40-0-github-249412506-64037925|codex-cli-2025-09-23-rust-v0-40-0-github-249412506-64037925]]'
 source_type: github_releases
 theme: collaboration
@@ -82,7 +82,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2025-09-22 · Dify · [[Changes/Dify/2025-09-22-customize-and-share-pipelines-by-importing-exporting-via-dsl-for-easier-reusabil|🔄 Customize and share pipelines by importing/exporting via DSL for easier…]]
+- Earlier: 2025-09-22 · Recraft · [[Changes/Recraft/2025-09-22-we-ve-launched-a-substack-to-share-practical-ai-tutorials-design-best-practices|Recraft is now on Substack: Follow for creative tips and inspiration]]
 - Later: 2025-09-25 · Open WebUI · [[Changes/Open WebUI/2025-09-25-editor-collaboration-functionality-was-refactored-to-reduce-package-size-by-390k|⚡ Editor collaboration functionality was refactored to reduce package size by 390KB…]]
 <!-- chronolog:end -->
 

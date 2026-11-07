@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4f93afed15ac1295b653f9e14384c917cf574f5ed9203b9b9bb8d7d32c0f0f38
+machine_hash: 9743a51abdebbef5991e73fdd5ab32965a439e6b5d0e7f2a74a5e0a5cd2ce063
 product: qoder
 product_name: Qoder
 record:
@@ -44,7 +44,8 @@ record:
   title: '**Locked use (Beta)**'
   type: change
 related_changes:
-- '[[Changes/HeyGen/2026-10-13-look-packs-over-the-api|Look Packs over the API]]'
+- '[[Changes/Devin/2026-10-14-github-enterprise-server-app-permissions|GitHub Enterprise
+  Server App Permissions]]'
 - "[[Changes/Open WebUI/2026-10-14-translated-model-prompt-suggestions-editing-the-prompt-suggestions-of-a-model-th|\U0001F4AC
   Translated model prompt suggestions. Editing the prompt suggestions of a model…]]"
 - "[[Changes/Open WebUI/2026-10-14-scim-cannot-delete-admins-an-identity-provider-can-no-longer-delete-administrato|\U0001F46E
@@ -83,7 +84,7 @@ type: change
 ## Nearby in Enterprise and Administration
 
 - Earlier: 2026-10-14 · Open WebUI · [[Changes/Open WebUI/2026-10-14-scim-cannot-delete-admins-an-identity-provider-can-no-longer-delete-administrato|👮 SCIM cannot delete admins. An identity provider can no longer delete…]]
-- Later: 2026-10-15 · ChatGPT · [[Changes/ChatGPT/2026-10-15-applications-are-now-open-to-labs-at-u-s-universities-if-you-re-a-principal-inve|Applications are now open to labs at U.S. universities]]
+- Later: 2026-10-14 · Superwhisper · [[Changes/Superwhisper/2026-10-14-improved-paste-reliability-notification-when-attempting-to-paste-into-apps-runni|Improved paste reliability + notification when attempting to paste into apps running…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

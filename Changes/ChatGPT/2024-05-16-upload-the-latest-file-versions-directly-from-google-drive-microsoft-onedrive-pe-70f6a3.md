@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: bad86ee2e61564cc7bf0864558b882795743b64a29eefd86163afeb37637c6b3
+machine_hash: dec5f81b88731b4943387d1f72b8dabc490e9e1b22dbece1d5a8dd11f7e21c6f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -49,10 +49,10 @@ record:
   title: Upload the latest file versions directly from Google Drive, Microsoft OneDrive…
   type: change
 related_changes:
-- '[[Changes/Dify/2024-05-02-2-apps-and-integrations-changes-in-0-6-6|2 Apps and Integrations
-  changes in 0.6.6]]'
 - '[[Changes/Dify/2024-05-09-3-apps-and-integrations-changes-in-0-6-7|3 Apps and Integrations
   changes in 0.6.7]]'
+- '[[Changes/Devin/2024-05-13-organizations-integration-for-slack|Organizations Integration
+  for Slack]]'
 - '[[Changes/Dify/2024-05-13-4-apps-and-integrations-changes-in-0-6-8|4 Apps and Integrations
   changes in 0.6.8]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2024-05-16-improvements-to-data-analysis-in-chatgpt-a2e63572|chatgpt-2024-05-16-improvements-to-data-analysis-in-chatgpt-a2e63572]]'

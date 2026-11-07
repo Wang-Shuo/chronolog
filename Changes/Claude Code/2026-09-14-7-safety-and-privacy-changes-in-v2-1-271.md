@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4f0f2e2fcfa9b53fd1549cb31232b4efd995b29bdd1a315d29269eb69a810a09
+machine_hash: 3d2b4a3fc484bc60539e967ea9dfb743c030033c103716a98c21e63059f811eb
 product: claude-code
 product_name: Claude Code
 record:
@@ -65,8 +65,8 @@ record:
   title: 7 Safety and Privacy changes in v2.1.271
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-09-11-12-safety-and-privacy-changes-in-v2026-9-4|12 Safety
-  and Privacy changes in v2026.9.4]]'
+- '[[Changes/Raycast/2026-09-11-ai-tool-confirmations-now-default-to-auto-so-sessions-no-longer-ask-for-permissi-9e970d|AI
+  : Tool confirmations now default to Auto, so sessions no longer ask…]]'
 - '[[Changes/Claude Code/2026-09-12-fixed-read-only-git-commands-in-bash-unexpectedly-asking-for-permission-after-a|Fixed
   read-only git commands in Bash unexpectedly asking for permission after…]]'
 - '[[Changes/ChatGPT/2026-09-14-if-you-make-no-changes-to-your-plugins-settings-the-default-permission-setting-i|If

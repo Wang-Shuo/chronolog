@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: pricing
-machine_hash: a88f41019a823274729a8312e6d3ab170898ba11accd4dd7aeab99c66e1e02bb
+machine_hash: 12d6e3158f2c05bc85bb8b3aa9061da6b535304c873d9b2db60e1c893e9a732c
 product: aider
 product_name: Aider
 record:
@@ -43,9 +43,9 @@ record:
   title: Enables display of cost info based on OpenAI advertised pricing
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-04-19-150k-gpt-4-tokens-included|150k GPT-4 tokens included]]'
-- '[[Changes/Notion/2023-04-27-extended-free-access-for-startups-including-unlimited-ai|Extended
-  free access for startups — including unlimited AI]]'
+- '[[Changes/Raycast/2023-05-10-cloud-sync|Cloud Sync]]'
+- '[[Changes/Raycast/2023-05-10-today-we-re-introducing-raycast-pro-a-paid-plan-that-unlocks-a-new-level-of-prod|Raycast
+  introduces Raycast Pro , a paid plan that unlocks a new level of productivity]]'
 - '[[Changes/Dify/2023-06-14-feat-add-gpt-3-5-turbo-16k-support-and-update-openai-gpt-3-5-turbo-embedding-ada|feat:
   add gpt-3.5-turbo-16k support and update openai gpt-3.5-turbo & Embedding Ada…]]'
 source_release: '[[Releases/Aider/aider-2023-06-25-v0-7-0-github-109821323-5656ee24|aider-2023-06-25-v0-7-0-github-109821323-5656ee24]]'

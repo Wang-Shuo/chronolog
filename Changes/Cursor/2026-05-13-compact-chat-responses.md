@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 77df07776243158e135688339ad0871ef5250af09cc84c1fe58256b326c4c2bf
+machine_hash: 285c03f0aff8f9b15f5ece5e0451f8eee830cc274dd077389305fb98fafc33bf
 product: cursor
 product_name: Cursor
 record:
@@ -113,7 +113,7 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2026-05-13 · Claude Code · [[Changes/Claude Code/2026-05-13-rewind-menu-added-summarize-up-to-here-to-compress-earlier-context-while-keeping|Rewind menu: added "Summarize up to here" to compress earlier context while keeping…]]
-- Later: 2026-05-13 · Notion · [[Changes/Notion/2026-05-13-sync-any-data-source-beta|Sync any data source (Beta)]]
+- Later: 2026-05-13 · Devin · [[Changes/Devin/2026-05-13-rename-context-to-skills-rules|Rename Context to Skills & Rules]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

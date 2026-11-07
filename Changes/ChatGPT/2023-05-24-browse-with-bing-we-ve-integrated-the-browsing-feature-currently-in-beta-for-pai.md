@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 12130fde8b3d5762f8acade2f6567699453edf4882f26593b9bde003146f6dae
+machine_hash: 15862f20fc8f2255a1ec0b0d31ebde33b2c4ea14fd90e2f97ea22e7fd222e141
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -86,7 +86,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2023-05-17 · Cursor · [[Changes/Cursor/2023-05-17-you-can-pin-custom-extensions-to-your-activity-bar-in-the-top-left|Activity Bar pinning]]
-- Later: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-3-apps-and-integrations-changes-in-0-2-2|3 Apps and Integrations changes in 0.2.2]]
+- Later: 2023-05-24 · Raycast · [[Changes/Raycast/2023-05-24-ai-commands-more-reliable-capturing-of-selected-text-in-apps-like-spark|AI Commands: More reliable capturing of selected text in apps like Spark]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

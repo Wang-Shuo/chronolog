@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 252c2c8fae11c4a683bf93636dfd50c91fd5e7b00828e7921f65146f3a03e29d
+machine_hash: 5c42f6dce4681686d79d9bd0e31c19bd9ee82d01bcae0f2ace6390a926a05d59
 product: heygen
 product_name: HeyGen
 record:

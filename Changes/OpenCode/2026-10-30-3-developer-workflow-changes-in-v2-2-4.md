@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 37a7f410b4095309a009d3b773cfdeca986d87d34336f6a290cf75e68eb79905
+machine_hash: 7565899444985e8c0fbeab325da0c87708c11814152828f7cf2112ecdc4d12eb
 product: opencode
 product_name: OpenCode
 record:
@@ -46,10 +46,10 @@ record:
   title: 3 Developer Workflow changes in v2.2.4
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-10-29-5-developer-workflow-changes-in-v2-2-1|5 Developer
-  Workflow changes in v2.2.1]]'
 - '[[Changes/Claude Code/2026-10-30-4-developer-workflow-changes-in-v2-1-314|4 Developer
   Workflow changes in v2.1.314]]'
+- '[[Changes/Devin/2026-10-30-github-file-anchors-open-the-review-at-that-file|GitHub
+  File Anchors Open the Review at That File]]'
 - '[[Changes/OpenCode/2026-10-30-worktree-and-shell-mode-shortcuts|Worktree and Shell
   Mode Shortcuts]]'
 source_release: '[[Releases/OpenCode/opencode-2026-10-30-v2-2-4-aa4b8502|opencode-2026-10-30-v2-2-4-aa4b8502]]'

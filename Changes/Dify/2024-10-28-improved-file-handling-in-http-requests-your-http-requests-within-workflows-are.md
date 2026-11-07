@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e722c4351107b12fd40a87e457f3a2f3a48be368ed89fcd53f96ee149bd4c928
+machine_hash: acda125d86d9eefe9f420ebb1f6c207d647756155ce9d19d8bd3abee58cb4d60
 product: dify
 product_name: Dify
 record:
@@ -45,9 +45,10 @@ record:
   title: '**Improved File Handling in HTTP Requests:** Your HTTP requests within workflows…'
   type: change
 related_changes:
-- '[[Changes/Notion/2024-10-24-a-few-more-improvements|A few more improvements]]'
 - '[[Changes/Open WebUI/2024-10-24-4-reliability-and-performance-changes-in-v0-3-33|4
   Reliability and Performance changes in v0.3.33]]'
+- '[[Changes/Superwhisper/2024-10-25-massive-performance-improvements-for-recording-window-waveform|Massive
+  performance improvements for Recording Window waveform]]'
 - "[[Changes/Open WebUI/2024-10-26-tool-parameters-issue-fixed-an-error-where-tools-were-not-functioning-correctly|\U0001F6E0️
   Tool Parameters Issue]]"
 source_release: '[[Releases/Dify/dify-2024-10-28-0-10-2-github-182221061-a0360387|dify-2024-10-28-0-10-2-github-182221061-a0360387]]'
@@ -86,7 +87,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2024-10-26 · Open WebUI · [[Changes/Open WebUI/2024-10-26-tool-parameters-issue-fixed-an-error-where-tools-were-not-functioning-correctly|🛠️ Tool Parameters Issue]]
-- Later: 2024-11-05 · Dify · [[Changes/Dify/2024-11-05-3-reliability-and-performance-changes-in-0-11-0|3 Reliability and Performance changes in 0.11.0]]
+- Later: 2024-10-28 · Superwhisper · [[Changes/Superwhisper/2024-10-28-performance-improvements-for-shorter-recordings|Performance improvements for shorter recordings]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

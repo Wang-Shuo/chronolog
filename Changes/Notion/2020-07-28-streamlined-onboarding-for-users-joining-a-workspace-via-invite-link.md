@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f7fde9e72cc383d995bc2ed6949f893a110208283a2a1f00f1560f973d35de57
+machine_hash: 1c99b346f93f266235f40b9aa85569632b9683bd75025da100496b1d326bcfc8
 product: notion
 product_name: Notion
 record:
@@ -79,7 +79,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2020-07-07 · Descript · [[Changes/Descript/2020-07-07-clicking-in-timeline-will-cancel-range-selection|Timeline]]
-- Later: 2020-08-18 · Notion · [[Changes/Notion/2020-08-18-switch-between-your-work-account-personal-account-use-notion-with-multiple-email|Switch between your work account & personal account 🔄 Use Notion with multiple emails?]]
+- Later: 2020-08-03 · Raycast · [[Changes/Raycast/2020-08-03-preferences|Preferences]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

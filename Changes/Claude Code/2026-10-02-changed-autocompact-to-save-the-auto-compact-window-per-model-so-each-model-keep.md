@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 595be94ed6e10a271a1f2580e9afc4bfd431af3afbbe5f487b7c75a58bf64cc0
+machine_hash: 4003f98aeb2e770bcfca5306c1ca522ce877aaa79e0a5e83f8d39d86bab6bddd
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,8 +48,8 @@ record:
     model…
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-09-30-4-context-window-changes-in-v2026-9-7|4 Context Window
-  changes in v2026.9.7]]'
+- '[[Changes/AnythingLLM/2026-10-01-2-context-window-changes-in-v1-17-0|2 Context
+  Window changes in v1.17.0]]'
 - '[[Changes/Claude Code/2026-10-01-changed-opus-4-7-and-fable-to-use-a-1m-context-window-by-default-on-bedrock-vert|Changed
   Opus 4.7+ and Fable to use a 1M context window by default on Bedrock…]]'
 - '[[Changes/Codex CLI/2026-10-01-3-context-window-changes-in-rust-v0-160-0|3 Context
@@ -92,7 +92,7 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2026-10-01 · Codex CLI · [[Changes/Codex CLI/2026-10-01-3-context-window-changes-in-rust-v0-160-0|3 Context Window changes in rust-v0.160.0]]
-- Later: 2026-10-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-05-2-context-window-changes-in-v1-0-92|2 Context Window changes in v1.0.92]]
+- Later: 2026-10-02 · Raycast · [[Changes/Raycast/2026-10-02-ai-improved-context-handling-in-very-long-conversations|AI: Improved context handling in very long conversations]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

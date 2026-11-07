@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: dc3a17657f7e9ad918ebdc57f5eb015a757954e77a24174e8a84b7b2809620ea
+machine_hash: 1d3470fc6b317d04912d35e03acff90c351623e5726289504f77a7b7d34297a3
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,11 +44,12 @@ record:
   title: 2 Reliability and Performance changes in v2.1.304
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-10-16-larger-faster-environments|Larger, faster environments]]'
-- "[[Changes/Open WebUI/2026-10-16-general-improvements-various-improvements-were-implemented-across-the-applicatio|\U0001F504
-  General improvements. Various improvements were implemented across…]]"
 - '[[Changes/OpenClaw/2026-10-16-node-worker-memory-limits-node-workers-can-honor-their-configured-javascript-hea|Node
   worker memory limits]]'
+- '[[Changes/Raycast/2026-10-16-3-reliability-and-performance-changes-in-raycast-macos-2-8|3
+  Reliability and Performance changes in Raycast macos 2.8]]'
+- '[[Changes/Raycast/2026-10-16-4-reliability-and-performance-changes-in-raycast-windows-2-8|4
+  Reliability and Performance changes in Raycast windows 2.8]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-19-v2-1-304-github-417677344-46c4d994|claude-code-2026-10-19-v2-1-304-github-417677344-46c4d994]]'
 source_type: github_releases
 theme: reliability-performance
@@ -90,7 +91,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.304
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-10-16 · OpenClaw · [[Changes/OpenClaw/2026-10-16-node-worker-memory-limits-node-workers-can-honor-their-configured-javascript-hea|Node worker memory limits]]
+- Earlier: 2026-10-16 · Raycast · [[Changes/Raycast/2026-10-16-4-reliability-and-performance-changes-in-raycast-windows-2-8|4 Reliability and Performance changes in Raycast windows 2.8]]
 - Later: 2026-10-19 · Notion · [[Changes/Notion/2026-10-19-they-can-work-on-tasks-for-up-to-24-hours-and-chats-load-up-to-50-faster-on-mobi|They can work on tasks for up to 24 hours]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 312aaa12a876d195aa548d010dcba9909771b745fcae5e83af909b7644b537d6
+machine_hash: cb4f9ac1101eec065b9c3a8f193e0e49d34ca39e4301707d4a94da122da2af3d
 product: gemini
 product_name: Gemini
 record:
@@ -59,12 +59,12 @@ record:
   title: Bard is getting its biggest upgrade yet with Gemini Pro
   type: change
 related_changes:
-- '[[Changes/Dify/2023-11-25-3-model-support-changes-in-0-3-32|3 Model Support changes
-  in 0.3.32]]'
-- '[[Changes/Ollama/2023-11-26-yi-chat-https-ollama-ai-library-yi-the-chat-variant-of-the-popular-yi-34b-model|Yi
-  Chat((source link) the chat variant of the popular Yi 34b…]]'
+- '[[Changes/Superwhisper/2023-11-29-enable-recording-window-and-disable-auto-close-when-llm-is-enabled|Enable
+  recording window and disable auto close when LLM is enabled]]'
 - '[[Changes/Ollama/2023-11-30-3-model-support-changes-in-v0-1-13|3 Model Support
   changes in v0.1.13]]'
+- '[[Changes/Superwhisper/2023-12-04-3-model-support-changes-in-superwhisper-macos-1-18-3|3
+  Model Support changes in Superwhisper macOS 1.18.3]]'
 source_release: '[[Releases/Gemini/gemini-2023-12-06-2023-12-06-c2b91f56|gemini-2023-12-06-2023-12-06-c2b91f56]]'
 source_type: gemini_changelog
 theme: model-support
@@ -93,7 +93,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2023-11-30 · Ollama · [[Changes/Ollama/2023-11-30-3-model-support-changes-in-v0-1-13|3 Model Support changes in v0.1.13]]
+- Earlier: 2023-12-04 · Superwhisper · [[Changes/Superwhisper/2023-12-04-3-model-support-changes-in-superwhisper-macos-1-18-3|3 Model Support changes in Superwhisper macOS 1.18.3]]
 - Later: 2023-12-08 · Ollama · [[Changes/Ollama/2023-12-08-2-model-support-changes-in-v0-1-14|2 Model Support changes in v0.1.14]]
 <!-- chronolog:end -->
 

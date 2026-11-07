@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e75e1266089f399573a617003bf778e6ccbdde8fa1cf68709acf074614a25c7a
+machine_hash: fbce66c564ac7d75ff947d80abbd78e014afac79b3efd5f9f4399442880fe4ee
 product: cursor
 product_name: Cursor
 record:
@@ -45,8 +45,8 @@ record:
     you'll…
   type: change
 related_changes:
-- '[[Changes/Aider/2023-08-08-automatically-summarize-chat-history-to-avoid-exhausting-context-window|Automatically
-  summarize chat history to avoid exhausting context window]]'
+- '[[Changes/Raycast/2023-08-09-ai-continue-your-translate-command-translations-in-the-ai-chat-to-add-more-conte|AI
+  : Continue your “Translate” command translations in the AI Chat to add more context]]'
 - '[[Changes/Ollama/2023-08-18-add-context-to-api-documentation-for-api-generate|Add
   context to api documentation for /api/generate]]'
 - '[[Changes/Cursor/2023-08-22-follow-up-chat-messages-to-with-codebase-will-keep-the-codebase-context|Follow-up

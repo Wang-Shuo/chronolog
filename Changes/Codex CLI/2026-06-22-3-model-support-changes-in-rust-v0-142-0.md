@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 071da73ff65fee422886d18ffb65cb2435d3ab298a22815bda1b681e18436797
+machine_hash: 43bc7883e3aa38980dd406639364c55b3f016fbc78066ae0db2f26cb7f87fa3d
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,8 +44,8 @@ record:
   title: 3 Model Support changes in rust-v0.142.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-19-added-a-warning-when-the-requested-model-is-deprecated-or-automatically-updated|Added
-  a warning when the requested model is deprecated or automatically updated…]]'
+- '[[Changes/Recraft/2026-06-19-recraft-v4-1-models-now-generate-twice-as-fast-in-as-little-as-6-seconds-v4-1-pr|Faster
+  generations]]'
 - '[[Changes/v0/2026-06-19-removed-the-enhance-prompt-button-from-the-composer-since-the-models-ask-clarify|Removed
   the Enhance Prompt button from the composer, since the models ask clarifying…]]'
 - '[[Changes/OpenCode/2026-06-21-2-model-support-changes-in-v1-17-9|2 Model Support

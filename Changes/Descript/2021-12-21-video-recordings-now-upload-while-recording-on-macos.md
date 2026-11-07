@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 8b6735c84c2a61641e6f3f6b35677d6c1c160e568850dc822e422f47376f266d
+machine_hash: ab5b345076d4b5ff048c4287f600c182e0d032393cef23fb713e6878adc72c3d
 product: descript
 product_name: Descript
 record:
@@ -44,9 +44,10 @@ record:
   title: Video recordings now upload while recording on macOS
   type: change
 related_changes:
-- '[[Changes/Notion/2021-10-19-better-comments-on-mobile|Better comments on mobile]]'
 - '[[Changes/Descript/2021-11-16-pause-screen-recordings-on-macos|Pause screen recordings
   on macOS]]'
+- '[[Changes/Raycast/2021-11-30-window-management-added-previous-desktop-next-desktop-and-reasonable-size-comman|Window
+  Management: Added "Previous Desktop", "Next Desktop" and "Reasonable Size" commands]]'
 - '[[Changes/Descript/2021-12-21-webcam-recording-now-supported-on-windows-early-access-feature|Webcam
   recording now supported on Windows (early access feature)]]'
 source_release: '[[Releases/Descript/descript-2021-12-21-6390c9dd4a4a0d64fa56493c-14de707a|descript-2021-12-21-6390c9dd4a4a0d64fa56493c-14de707a]]'
@@ -78,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2021-11-16 · Descript · [[Changes/Descript/2021-11-16-pause-screen-recordings-on-macos|Pause screen recordings on macOS]]
+- Earlier: 2021-11-30 · Raycast · [[Changes/Raycast/2021-11-30-window-management-added-previous-desktop-next-desktop-and-reasonable-size-comman|Window Management: Added "Previous Desktop", "Next Desktop" and "Reasonable Size" commands]]
 - Later: 2021-12-23 · Notion · [[Changes/Notion/2021-12-23-create-page-columns-on-ipad-android-tablets|Create page columns on iPad & Android tablets]]
 <!-- chronolog:end -->
 

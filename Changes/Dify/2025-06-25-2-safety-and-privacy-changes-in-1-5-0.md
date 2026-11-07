@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4d4d4fea9b91e9d46f1c7b8d85658cb7f7e990e165c60a694ad8065ffcd8c74d
+machine_hash: dec4d240ea8c6bb3e200344efa1d0cd8216e9f13a9b2c85d39ff23d2dfc3ced6
 product: dify
 product_name: Dify
 record:
@@ -87,7 +87,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.5.0
 ## Nearby in Safety and Privacy
 
 - Earlier: 2025-06-23 · ElevenLabs · [[Changes/ElevenLabs/2025-06-23-sip-trunking|SIP Trunking]]
-- Later: 2025-06-27 · Replit · [[Changes/Replit/2025-06-27-security-scanner-updates|Security scanner updates]]
+- Later: 2025-06-25 · LM Studio · [[Changes/LM Studio/2025-06-25-fixed-a-bug-where-tool-permission-dialog-wouldn-t-auto-scroll-to-the-bottom-of-t|Fixed a bug where tool permission dialog wouldn't auto-scroll to the bottom of the chat]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

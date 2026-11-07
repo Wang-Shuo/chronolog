@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: af643fea9dbd14f093f456e00991b708df0b6b906faf5fbc64ae1089a40fbd92
+machine_hash: 67cc35807918180a1dfeb808f84f8da7f2a66dd25111577710bad546e760f76f
 product: notion
 product_name: Notion
 record:
@@ -65,11 +65,12 @@ record:
   title: The API is out of beta
   type: change
 related_changes:
-- "[[Changes/Notion/2020-11-19-automate-user-and-group-provisioning-with-notion-s-scim-api|Automate
-  user and group provisioning with Notion's SCIM API \U0001F501]]"
-- '[[Changes/Notion/2021-05-13-automate-io-integration|Automate.io integration]]'
-- '[[Changes/Notion/2021-09-08-exciting-news-we-re-acquiring-automate-io|Exciting
-  news! We''re acquiring Automate.io!]]'
+- '[[Changes/Raycast/2022-01-12-calendar-added-support-for-cron-as-a-default-calendar-when-opening-events-from-r|Calendar:
+  Added support for Cron as a default calendar when opening events from Raycast]]'
+- '[[Changes/Raycast/2022-02-09-my-schedule-google-meet-links-will-now-open-with-the-account-associated-with-the|My
+  Schedule: Google Meet links will now open with the account associated with the event]]'
+- '[[Changes/Raycast/2022-02-23-my-schedule-google-extension-adds-the-ability-to-override-which-browser-google-s|My
+  Schedule & Google Extension]]'
 source_release: '[[Releases/Notion/notion-2022-03-03-https-www-notion-com-releases-2022-03-03-d0d45a81|notion-2022-03-03-https-www-notion-com-releases-2022-03-03-d0d45a81]]'
 source_type: notion_changelog
 theme: automation-scheduling
@@ -107,8 +108,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2021-09-08 · Notion · [[Changes/Notion/2021-09-08-exciting-news-we-re-acquiring-automate-io|Exciting news! We're acquiring Automate.io!]]
-- Later: 2023-03-23 · Notion · [[Changes/Notion/2023-03-23-automate-manual-tasks-with-buttons|Automate manual tasks with buttons]]
+- Earlier: 2022-02-23 · Raycast · [[Changes/Raycast/2022-02-23-my-schedule-google-extension-adds-the-ability-to-override-which-browser-google-s|My Schedule & Google Extension]]
+- Later: 2022-06-07 · Raycast · [[Changes/Raycast/2022-06-07-my-schedule-you-can-now-search-for-events-by-participants-or-only-organizer-if-t|My Schedule: You can now search for events by participants or only organizer if…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

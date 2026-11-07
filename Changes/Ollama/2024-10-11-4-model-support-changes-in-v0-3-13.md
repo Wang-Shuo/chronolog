@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e581dc7367daaba7d4b6145ebbf1caeb6a436e1fb054c1c993f24b43b03c8ee5
+machine_hash: 8dccca9d742f0dff76439d3b1e792ae90a1acaa9912ae1696fcca2d1614d1455
 product: ollama
 product_name: Ollama
 record:
@@ -52,11 +52,12 @@ record:
   title: 4 Model Support changes in v0.3.13
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2024-10-07-workspace-enhancements-added-a-display-count-for-models-prompts-tools-and-functi|\U0001F522
-  Workspace Enhancements]]"
-- '[[Changes/Cline/2024-10-09-4-model-support-changes-in-v2-0-0|4 Model Support changes
-  in v2.0.0]]'
-- '[[Changes/Gemini/2024-10-09-introducing-imagen-3|Introducing Imagen 3]]'
+- '[[Changes/Raycast/2024-10-09-quick-ai-regenerating-after-changing-the-model-should-now-utilize-the-new-model|Quick
+  AI: Regenerating after changing the model should now utilize the new model]]'
+- '[[Changes/Superwhisper/2024-10-09-removed-realtime-option-for-offline-models-this-is-currently-a-wip-stay-tuned|Removed
+  realtime option for offline models (this is currently a WIP, stay tuned)]]'
+- '[[Changes/Superwhisper/2024-10-09-history-speakers-separation|History & Speakers
+  separation]]'
 source_release: '[[Releases/Ollama/ollama-2024-10-11-v0-3-13-github-179444955-6d78c25a|ollama-2024-10-11-v0-3-13-github-179444955-6d78c25a]]'
 source_type: github_releases
 theme: model-support
@@ -93,7 +94,7 @@ Source: https://github.com/ollama/ollama/releases/tag/v0.3.13
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2024-10-09 · Gemini · [[Changes/Gemini/2024-10-09-introducing-imagen-3|Introducing Imagen 3]]
+- Earlier: 2024-10-09 · Superwhisper · [[Changes/Superwhisper/2024-10-09-history-speakers-separation|History & Speakers separation]]
 - Later: 2024-10-13 · ElevenLabs · [[Changes/ElevenLabs/2024-10-13-model|Model]]
 <!-- chronolog:end -->
 

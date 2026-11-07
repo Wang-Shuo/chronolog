@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9034e461d8bc84797786ecde15e0212ae849e497041eeb853c298742cfc4fa6a
+machine_hash: ed9e91e16a8fcd7a9b6908b625a0d509410d85e52b224134f0891128ffc0a776
 product: openclaw
 product_name: OpenClaw
 record:
@@ -218,7 +218,7 @@ Source: https://docs.openclaw.ai/releases/2026.9.4
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-09-11 · Claude Code · [[Changes/Claude Code/2026-09-11-changed-skills-synced-from-claude-ai-in-cloud-sessions-to-be-named-anthropic-ski|Changed skills synced from claude.ai in cloud sessions to be named…]]
-- Later: 2026-09-12 · Qoder · [[Changes/Qoder/2026-09-12-file-openin-choose-whether-to-open-each-file-type-in-the-desktop-app-or-its-asso|File openin: Choose whether to open each file type in the desktop app…]]
+- Later: 2026-09-11 · Raycast · [[Changes/Raycast/2026-09-11-window-management-added-minimize-on-this-display-a-per-monitor-show-desktop-that|Window Management : Added Minimize on This Display , a per-monitor Show Desktop…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

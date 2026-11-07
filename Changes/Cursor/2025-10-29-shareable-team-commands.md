@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: d9aa7f561cc6026f93538c4d8cdbd9f8342ddbd09c6279bb1608a252d398ef16
+machine_hash: 04e73a722198a182618453ac230c9b0eda2fd1e6d9fc522f9b270717b018a918
 product: cursor
 product_name: Cursor
 record:
@@ -43,8 +43,8 @@ record:
   title: Shareable Team Commands
   type: change
 related_changes:
-- '[[Changes/Descript/2025-10-14-join-ceo-laura-and-the-team-for-a-live-demonstration-of-descript-s-generative-vi|Join
-  CEO Laura and the team for a live demonstration of Descript''s generative video…]]'
+- '[[Changes/Devin/2025-10-17-steerable-wiki-for-github-and-gitlab|Steerable Wiki
+  for GitHub and Gitlab]]'
 - '[[Changes/Midjourney/2025-10-17-for-the-next-three-weekends-we-re-renting-a-big-catamaran-sailboat-to-take-midjo|Midjourney
   sailboat trips]]'
 - '[[Changes/ChatGPT/2025-10-23-content-creation-apply-project-specific-instructions-to-keep-tone-and-style-cons|Content

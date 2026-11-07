@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 59f35a05b7d9840238483766187609a8f08898c50229263be31e8d1b9146a0ab
+machine_hash: eb15c375a5ea1fe1522682301e73aca268400f88b65d37bb73ab337b62903a07
 product: cline
 product_name: Cline
 record:
@@ -41,10 +41,10 @@ record:
   title: Added Codex 5.3 model support
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2026-02-23-model-access-keyerror-fix-the-api-models-endpoint-no-longer-crashes-with-a-500-e|\U0001F6AB
-  Model access KeyError fix. The /api/models endpoint no longer crashes…]]"
 - '[[Changes/Open WebUI/2026-02-23-16-model-support-changes-in-v0-8-4|16 Model Support
   changes in v0.8.4]]'
+- '[[Changes/Superwhisper/2026-02-23-added-search-field-to-language-model-dropdown|Added
+  search field to language model dropdown]]'
 - '[[Changes/Claude Code/2026-02-24-the-model-picker-now-shows-human-readable-labels-e-g-sonnet-4-5-instead-of-raw-m|The
   /model picker now shows human-readable labels (e.g., "Sonnet 4.5") instead…]]'
 source_release: '[[Releases/Cline/cline-2026-02-24-v3-67-1-github-290090579-9116621b|cline-2026-02-24-v3-67-1-github-290090579-9116621b]]'

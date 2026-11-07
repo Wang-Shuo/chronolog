@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6075c269f39216cfe9a0f4bbc92c70d33ce448c17ecb88d53fa78296d47e23ed
+machine_hash: 000778747cbd557f747cbb2066d20eceed629c34a6194c6e4d9198d1923844eb
 product: openclaw
 product_name: OpenClaw
 record:
@@ -58,12 +58,12 @@ record:
   title: 4 Pricing Model changes in v2026.10.1
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-10-08-claude-haiku-5-5-you-can-select-haiku-5-5-through-the-anthropic-api-and-claude-c|Claude
-  Haiku 5.5. You can select Haiku 5.5 through the Anthropic API and Claude CLI]]'
-- '[[Changes/Claude Code/2026-10-09-updated-cost-the-status-line-max-budget-usd-and-the-sdk-s-cost-figures-to-price|Updated
-  /cost, the status line, --max-budget-usd and the SDK''s cost figures…]]'
 - '[[Changes/Lovable/2026-10-09-get-a-warning-before-your-credits-run-out|Get a warning
   before your credits run out]]'
+- '[[Changes/Raycast/2026-10-09-ai-made-ai-requests-smaller-so-local-models-reply-to-a-simple-message-much-faste|AI
+  : Made AI requests smaller, so local models reply to a simple message much faster…]]'
+- '[[Changes/Raycast/2026-10-09-ai-made-ai-requests-smaller-so-local-models-reply-to-a-simple-message-much-faste-aebf65|AI
+  : Made AI requests smaller, so local models reply to a simple message much faster…]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-10-10-v2026-10-1-d64e4e93|openclaw-2026-10-10-v2026-10-1-d64e4e93]]'
 source_type: openclaw_changelog
 theme: pricing-model
@@ -122,7 +122,7 @@ Source: https://docs.openclaw.ai/releases/2026.10.1
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-10-09 · Lovable · [[Changes/Lovable/2026-10-09-get-a-warning-before-your-credits-run-out|Get a warning before your credits run out]]
+- Earlier: 2026-10-09 · Raycast · [[Changes/Raycast/2026-10-09-ai-made-ai-requests-smaller-so-local-models-reply-to-a-simple-message-much-faste-aebf65|AI : Made AI requests smaller, so local models reply to a simple message much faster…]]
 - Later: 2026-10-12 · Lovable · [[Changes/Lovable/2026-10-12-see-how-much-usage-your-free-allowances-cover|See how much usage your free allowances cover]]
 <!-- chronolog:end -->
 

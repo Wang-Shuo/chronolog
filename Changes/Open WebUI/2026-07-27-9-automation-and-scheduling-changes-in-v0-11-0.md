@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e52e7724e2c17c507a382b9d25af077a0e1f93b399b0f634c982b64bf3e006b8
+machine_hash: 27fa8600f2c1a5706f64a54fa72f79a1e72776da964132b9f742d9e37cd2b483
 product: open-webui
 product_name: Open WebUI
 record:
@@ -158,7 +158,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.11.0
 ## Nearby in Automation and Scheduling
 
 - Earlier: 2026-07-24 · Notion · [[Changes/Notion/2026-07-24-notion-workers-run-custom-code-on-notion-s-infrastructure-to-sync-data-power-too|Notion Workers run custom code on Notion's infrastructure to sync data, power tools…]]
-- Later: 2026-07-29 · OpenHands · [[Changes/OpenHands/2026-07-29-chore-bump-software-agent-sdk-to-1-38-0-and-automation-to-1-4-1-by-hieptl-in-htt|chore: bump software-agent-sdk to 1.38.0 and automation to 1.4.1]]
+- Later: 2026-07-29 · Devin · [[Changes/Devin/2026-07-29-slack-dms-with-automation-devins|Slack DMs with Automation Devins]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

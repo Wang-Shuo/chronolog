@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f86be9c30e83f3eae384118d2f63a1c5085cd62e4a175fd1da0dab6c9624f917
+machine_hash: aa66ac2a240850a95b29a65791b91eeb0254e8770d89f872f1e0b9a6ccaa59ef
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -43,7 +43,8 @@ record:
   title: Improve rendering of ToDo lists
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2025-10-24-code-repo-navigation|Code & Repo navigation]]'
+- '[[Changes/Raycast/2025-10-27-the-keyboard-shortcut-infrastructure-has-been-revamped-to-support-more-shortcut|The
+  Keyboard Shortcut infrastructure has been revamped to support more shortcut…]]'
 - '[[Changes/Descript/2025-10-28-drag-and-drop-now-works-from-brand-studio-and-editor-sidebar|Drag
   and drop now works from Brand Studio and Editor sidebar]]'
 - '[[Changes/Cursor/2025-10-29-optimized-text-parsing-for-chat-rendering|Optimized
@@ -86,7 +87,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2025-10-29 · Cursor · [[Changes/Cursor/2025-10-29-optimized-text-parsing-for-chat-rendering|Optimized text parsing for chat rendering]]
-- Later: 2025-10-30 · v0 · [[Changes/v0/2025-10-30-we-redesigned-the-chat-sidebar-with-better-organization-faster-navigation-and-a|Redesigned Chat Sidebar]]
+- Later: 2025-10-29 · Raycast · [[Changes/Raycast/2025-10-29-general-all-menu-components-action-panel-navigation-filter-select-etc-now-suppor|General : All menu components (action panel, navigation filter, select, etc) now…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

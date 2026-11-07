@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: faf8ef64e64a9c2c8ba9fc9fed3d3be18e79b7c0459835c873c7e9a226d4ee67
+machine_hash: 94d4b3020714a4409a9156d143a6b9e43540e9cc860ce0d225d88b1f0afca23d
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -45,8 +45,8 @@ record:
     action publisher'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-08-07-36228-support-enterprise-automation-account-plans-copyberry|♯36228
-  Support Enterprise automation account plans @copyberry]]'
+- '[[Changes/Devin/2026-08-07-automations-api-and-terraform-provider|Automations API
+  and Terraform Provider]]'
 - '[[Changes/Google Antigravity/2026-08-07-conversations-started-by-background-automations-no-longer-disappear-from-the-sid|Conversations
   started by background automations no longer disappear from the sidebar list]]'
 - '[[Changes/OpenHands/2026-08-07-2-automation-and-scheduling-changes-in-v1-11-0|2
@@ -86,7 +86,7 @@ type: change
 ## Nearby in Automation and Scheduling
 
 - Earlier: 2026-08-07 · OpenHands · [[Changes/OpenHands/2026-08-07-2-automation-and-scheduling-changes-in-v1-11-0|2 Automation and Scheduling changes in v1.11.0]]
-- Later: 2026-08-13 · Claude Code · [[Changes/Claude Code/2026-08-13-pasted-and-clipboard-images-are-read-without-blocking-the-event-loop|Pasted and clipboard images are read without blocking the event loop]]
+- Later: 2026-08-12 · Devin · [[Changes/Devin/2026-08-12-negated-string-operators-in-automation-conditions|Negated String Operators in Automation Conditions]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

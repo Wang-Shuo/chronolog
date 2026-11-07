@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a348994844b27e3039b9567d9fd81fb0f7e609d15ec8824a1d077c83bd7c129e
+machine_hash: a6fc1db301b7a7f505371ce77e74888b4c0066a1131711e266ab8866297422e9
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,10 +47,9 @@ record:
   title: 2 Context Window changes in v2.1.108
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-10-improved-tool-not-available-errors-to-explain-why-and-how-to-proceed-when-the-mo|Improved
-  tool-not-available errors to explain why and how to proceed when the model…]]'
 - '[[Changes/Codex CLI/2026-04-10-4-context-window-changes-in-rust-v0-119-0|4 Context
   Window changes in rust-v0.119.0]]'
+- '[[Changes/Devin/2026-04-10-knowledge-search-auto-expand|Knowledge Search Auto-Expand]]'
 - '[[Changes/Codex CLI/2026-04-11-3-context-window-changes-in-rust-v0-120-0|3 Context
   Window changes in rust-v0.120.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-14-v2-1-108-github-309009167-35123bd5|claude-code-2026-04-14-v2-1-108-github-309009167-35123bd5]]'

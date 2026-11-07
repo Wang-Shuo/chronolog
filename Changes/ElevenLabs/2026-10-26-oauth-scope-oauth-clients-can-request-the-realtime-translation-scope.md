@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b6618e3a5b260079c533808644b2c14ae418d6ac1b96141ccfbc81f39b0ec3a3
+machine_hash: 14826598840787069ca511c222bd2adfc6b9403e08915c2c04e4c0a227541f97
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -98,7 +98,7 @@ type: change
 ## Nearby in Account and Access
 
 - Earlier: 2026-10-26 · Claude Code · [[Changes/Claude Code/2026-10-26-improved-the-message-shown-when-a-pasted-sign-in-code-is-refused-it-now-says-the|Improved the message shown when a pasted sign-in code is refused]]
-- Later: 2026-10-26 · Windsurf · [[Changes/Windsurf/2026-10-26-a-dropped-connection-during-sign-in-no-longer-signs-you-out-devin-desktop-retrie|A dropped connection during sign-in no longer signs you out]]
+- Later: 2026-10-26 · Krea · [[Changes/Krea/2026-10-26-try-any-tool-before-signing-up|Try any tool before signing up]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

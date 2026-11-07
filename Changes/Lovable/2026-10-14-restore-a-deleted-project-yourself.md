@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 3ce023da57ad9e7ef6f23db1f109a28ac7ab2ec968d86cd0910104fceaac6344
+machine_hash: f6cadd62d8400d262a44851d95e94aa9e5794bf00831a4204fcd1bb6fe350179
 product: lovable
 product_name: Lovable
 record:
@@ -54,10 +54,9 @@ record:
   title: Restore a deleted project yourself
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-14-added-effort-and-fast-in-agent-view-to-set-what-new-sessions-start-with-a-bare-m|Added
-  /effort and /fast in agent view to set what new sessions start with]]'
-- '[[Changes/Claude Code/2026-10-14-vscode-improved-startup-the-model-picker-and-slash-command-menu-now-fill-in-righ|VSCode
-  Improved startup]]'
+- '[[Changes/Devin/2026-10-14-virtual-environment-picker-uses-your-starred-default|Virtual
+  Environment Picker Uses Your Starred Default]]'
+- '[[Changes/Devin/2026-10-14-export-findings-as-sarif|Export Findings as SARIF]]'
 - '[[Changes/Kimi Code/2026-10-14-add-sticky-user-message-summaries-in-fullscreen-mode-when-a-user-message-scrolls|Add
   sticky user message summaries in fullscreen mode]]'
 source_release: '[[Releases/Lovable/lovable-2026-10-14-2026-10-14-aff165c6|lovable-2026-10-14-2026-10-14-aff165c6]]'

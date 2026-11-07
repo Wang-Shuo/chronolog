@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3b5d2b80873682d7eaf05618115ede69853af1de61de47322dd9e50658d4eb99
+machine_hash: 0a7c09f4407f0e379610c2bdad6c678f785062d81923d191a850d895a678f1ba
 product: opencode
 product_name: OpenCode
 record:
@@ -43,8 +43,7 @@ record:
   title: Core Filter out empty messages and reasoning for Anthropic API compatibility
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-01-02-model-picker-shows-clearer-message-with-settings-link-when-models-are-unavailabl|Model
-  picker shows clearer message with settings link when models are unavailable]]'
+- '[[Changes/Superwhisper/2026-01-02-model-library|Model Library]]'
 - '[[Changes/OpenCode/2026-01-04-3-model-support-changes-in-v1-1-1|3 Model Support
   changes in v1.1.1]]'
 - '[[Changes/OpenCode/2026-01-05-2-model-support-changes-in-v1-1-2|2 Model Support
@@ -87,7 +86,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-01-05 · OpenCode · [[Changes/OpenCode/2026-01-05-2-model-support-changes-in-v1-1-2|2 Model Support changes in v1.1.2]]
-- Later: 2026-01-06 · Cline · [[Changes/Cline/2026-01-06-3-model-support-changes-in-v3-47-0|3 Model Support changes in v3.47.0]]
+- Later: 2026-01-05 · Superwhisper · [[Changes/Superwhisper/2026-01-05-new-parakeet-multi-language-model-experimental-feature|NEW Parakeet Multi-language model (Experimental feature)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

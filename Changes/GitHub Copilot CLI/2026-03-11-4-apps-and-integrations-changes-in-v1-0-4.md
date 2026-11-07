@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ebe465d736bcad16475477a2505eccbf1b6841bba3d9fe73df977a56db862a9a
+machine_hash: d9fc1ba33e2a1daf9e54eb8ab33e0c44247a3e5edd202444da2fef92953f9e81
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -47,10 +47,9 @@ record:
   title: 4 Apps and Integrations changes in v1.0.4
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-11-8-apps-and-integrations-changes-in-rust-v0-114-0|8
-  Apps and Integrations changes in rust-v0.114.0]]'
 - '[[Changes/Cursor/2026-03-11-we-ve-added-more-than-30-new-plugins-from-partners-such-as-atlassian-datadog-git-901313|New
   Plugins on the Cursor Marketplace]]'
+- '[[Changes/Devin/2026-03-11-datadog-mcp-integration|Datadog MCP Integration]]'
 - '[[Changes/Gemini CLI/2026-03-11-4-apps-and-integrations-changes-in-v0-33-0|4 Apps
   and Integrations changes in v0.33.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-03-11-v1-0-4-github-295850245-f6b8c4f1|github-copilot-cli-2026-03-11-v1-0-4-github-295850245-f6b8c4f1]]'

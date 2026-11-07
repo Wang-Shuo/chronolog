@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 0ed7e5d6124412c986b3b4e8e3b9766a96313f78fcd29e26bc1fd5db0d7384a7
+machine_hash: 88d4f540d0e06e8614127193db83bb633072dbc0e0973b8bdcab9c1bf34754be
 product: claude-code
 product_name: Claude Code
 record:
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2026-06-02 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-06-02-organizational-messages-usage-based-targeting-is-now-generally-available-in-the|Organizational Messages Usage‑based targeting is now generally available…]]
-- Later: 2026-06-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-05-add-billing-help-topic-with-an-overview-of-ai-credit-usage-features|Add billing help topic with an overview of AI credit usage features]]
+- Later: 2026-06-04 · Recraft · [[Changes/Recraft/2026-06-04-credit-cost-is-20-to-33-credits-per-second-of-video-depending-on-the-selected-se|Credit cost is 20 to 33 credits per second of video, depending on the selected settings]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

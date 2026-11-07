@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 1b2cab578ba1332ba623d0bf56a38f22b15185e83773827c915ed1e080b462c9
+machine_hash: 108bcca47a091f60bb9164601bc2ad526bfbd95776fd666e3802a339ffddb752
 product: cursor
 product_name: Cursor
 record:
@@ -44,10 +44,10 @@ record:
   title: Customers must be on usage-based billing for Bugbot to customize effort levels
   type: change
 related_changes:
-- '[[Changes/Dify/2026-04-29-7-pricing-model-changes-in-1-14-0|7 Pricing Model changes
-  in 1.14.0]]'
 - '[[Changes/ElevenLabs/2026-05-04-workspaces|Workspaces]]'
 - '[[Changes/Windsurf/2026-05-06-devin-review-quick-review|Devin Review & Quick Review]]'
+- '[[Changes/Raycast/2026-05-08-bring-your-own-key-connect-your-own-api-key-from-anthropic-google-or-openai-to-u|Bring
+  Your Own Key]]'
 source_release: '[[Releases/Cursor/cursor-2026-05-11-bugbot-effort-levels-https-cursor-com-changelog-05-11-26-b41d8617|cursor-2026-05-11-bugbot-effort-levels-https-cursor-com-changelog-05-11-26-b41d8617]]'
 source_type: cursor_changelog
 theme: pricing-model
@@ -80,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-05-06 · Windsurf · [[Changes/Windsurf/2026-05-06-devin-review-quick-review|Devin Review & Quick Review]]
+- Earlier: 2026-05-08 · Raycast · [[Changes/Raycast/2026-05-08-bring-your-own-key-connect-your-own-api-key-from-anthropic-google-or-openai-to-u|Bring Your Own Key]]
 - Later: 2026-05-12 · Dify · [[Changes/Dify/2026-05-12-refactor-web-migrate-subscription-create-modal-to-dialog-by-lyzno1-in-https-gith|refactor(web): migrate subscription create modal to dialog]]
 <!-- chronolog:end -->
 

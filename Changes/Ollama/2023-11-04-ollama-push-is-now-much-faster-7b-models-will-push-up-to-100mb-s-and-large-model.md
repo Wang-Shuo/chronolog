@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0c9b72ad3b30e25a3aba3eaef930f64403d31b0ee08e3177084afb230245b420
+machine_hash: 5099fbbd78cbdfd9e58ed1f7bb46c254ac93995e58925b3adfc0f3a69d115638
 product: ollama
 product_name: Ollama
 record:
@@ -53,10 +53,10 @@ record:
   title: '`ollama push` is now much faster'
   type: change
 related_changes:
-- '[[Changes/Ollama/2023-10-20-ollama-run-will-now-show-more-descriptive-errors-when-encountering-runtime-issue|ollama
-  run will now show more descriptive errors when encountering runtime issues…]]'
 - '[[Changes/Ollama/2023-10-27-2-reliability-and-performance-changes-in-v0-1-6|2 Reliability
   and Performance changes in v0.1.6]]'
+- '[[Changes/Raycast/2023-11-02-clipboard-improved-performance-on-clipboard-entries-filtering|Clipboard:
+  Improved performance on clipboard entries filtering]]'
 - '[[Changes/Cursor/2023-11-03-shipped-better-error-logging-which-should-help-us-improve-stability|Shipped
   better error logging, which should help us improve stability]]'
 source_release: '[[Releases/Ollama/ollama-2023-11-04-v0-1-8-github-127767805-9874ffa1|ollama-2023-11-04-v0-1-8-github-127767805-9874ffa1]]'

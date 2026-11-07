@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: d80be8f69d3341ed62f2482e23474155d831b2c258733fabd74cfa3a1408c475
+machine_hash: 9622911bfacdfa568331b77dc234fd4fd7b1e35bec0b577712649a0bdb880c53
 product: opencode
 product_name: OpenCode
 record:
@@ -53,9 +53,9 @@ record:
   title: Terminal Fixed opencode run --agent resolving project-local agents
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-05-15-added-experimental-background-subagents-so-tasks-can-keep-running-while-you-cont|Added
-  experimental background subagents so tasks can keep running while you continue…]]'
 - '[[Changes/Replit/2026-05-15-agent|Agent]]'
+- '[[Changes/Superwhisper/2026-05-15-restored-missing-questions-functionality-in-claude-agent|Restored
+  missing questions functionality in Claude agent]]'
 - '[[Changes/v0/2026-05-15-2-agent-mode-changes-in-claude-opus-4-7-fast-agent-browser|2
   Agent Mode changes in Claude Opus 4.7 Fast, agent browser…]]'
 source_release: '[[Releases/OpenCode/opencode-2026-05-16-v1-15-3-68b0bf26|opencode-2026-05-16-v1-15-3-68b0bf26]]'
@@ -90,7 +90,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-05-15 · v0 · [[Changes/v0/2026-05-15-2-agent-mode-changes-in-claude-opus-4-7-fast-agent-browser|2 Agent Mode changes in Claude Opus 4.7 Fast, agent browser…]]
-- Later: 2026-05-17 · OpenCode · [[Changes/OpenCode/2026-05-17-core-hid-background-subagent-task-instructions-unless-experimental-background-mo|Core Hid background subagent task instructions unless experimental background mode…]]
+- Later: 2026-05-17 · Devin · [[Changes/Devin/2026-05-17-pr-actions-auto-review-settings|PR Actions & Auto-Review Settings]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

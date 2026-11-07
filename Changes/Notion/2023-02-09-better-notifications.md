@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2ab174a48b245b8a484587d88d63b71408eb1355a192a7658276fad770119233
+machine_hash: fefadff01f1be7bbfdf6a7387e432a99a0f52ba26b573562032dc6537d79111b
 product: notion
 product_name: Notion
 record:
@@ -46,9 +46,9 @@ record:
   title: Better notifications
   type: change
 related_changes:
-- '[[Changes/Notion/2022-12-15-easier-edits-for-databases-in-list-view|Easier edits
-  for databases in List view]]'
 - '[[Changes/Notion/2022-12-15-dependencies|Dependencies]]'
+- '[[Changes/Raycast/2022-12-15-system-settings-are-now-grouped-separately-from-applications-under-the-extension|System
+  Settings are now grouped separately from Applications under the Extensions…]]'
 - '[[Changes/Synthesia/2023-01-24-we-ve-given-our-video-editor-a-complete-redesign-not-only-does-it-look-great-but|Synthesia
   STUDIO got a fresh new look!]]'
 source_release: '[[Releases/Notion/notion-2023-02-09-https-www-notion-com-releases-2023-02-09-cab04881|notion-2023-02-09-https-www-notion-com-releases-2023-02-09-cab04881]]'

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b17ce754c3bf421dcc0efff041851bfdcc5058749b111d0f5a217b70df6fdf4c
+machine_hash: 9d9868d696a33e1f824e7ea34dc38dedbfc65ded322700373144acbc79c16b31
 product: open-webui
 product_name: Open WebUI
 record:
@@ -49,10 +49,10 @@ record:
   title: 3 Model Support changes in v0.3.31
   type: change
 related_changes:
-- '[[Changes/Dify/2024-09-30-stream-for-gemini-now-available-aaee86-in-8678-https-github-com-langgenius-dify|Stream
-  for Gemini now available…]]'
 - '[[Changes/Gemini/2024-10-02-gemini-1-5-pro-in-gemini-advanced-just-became-more-capable|Gemini
   1.5 Pro in Gemini Advanced just became more capable]]'
+- '[[Changes/AnythingLLM/2024-10-03-2-model-support-changes-in-v1-2-3|2 Model Support
+  changes in v1.2.3]]'
 - '[[Changes/Aider/2024-10-04-sanity-checks-the-editor-model-on-launch-now-same-as-main-and-weak-models|Sanity
   checks the --editor-model on launch now, same as main and weak models]]'
 source_release: '[[Releases/Open WebUI/open-webui-2024-10-07-v0-3-31-github-178593547-fa0ff4e2|open-webui-2024-10-07-v0-3-31-github-178593547-fa0ff4e2]]'

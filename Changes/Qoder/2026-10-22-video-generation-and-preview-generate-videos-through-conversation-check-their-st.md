@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: video-generation
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 60ae7d1790d81beb5545ac771a09ff99c7b35839058ed560daf1f5cc1583b7df
+machine_hash: 883c7e2c5f0fc743c9e5da983d4756da4aeae453b86a1051f4a3f8494e8542e2
 product: qoder
 product_name: Qoder
 record:
@@ -46,9 +46,9 @@ record:
   title: '**Video generation and preview**'
   type: change
 related_changes:
-- '[[Changes/HeyGen/2026-10-13-folders|Folders]]'
-- '[[Changes/HeyGen/2026-10-13-video-plan-redesigned|Video Plan, redesigned]]'
 - '[[Changes/HeyGen/2026-10-13-heygen-video-1-0-api|HeyGen Video 1.0 API]]'
+- '[[Changes/Krea/2026-10-16-flux-3-video-in-2k-and-4k|FLUX 3 Video in 2K and 4K]]'
+- '[[Changes/Krea/2026-10-17-wan-3-0-prime-for-video|Wan 3.0 Prime for video]]'
 source_release: '[[Releases/Qoder/qoder-2026-10-22-0-4-9-ce83161d|qoder-2026-10-22-0-4-9-ce83161d]]'
 source_type: qoder_changelog
 theme: video-generation
@@ -82,8 +82,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Video Generation
 
-- Earlier: 2026-10-13 · HeyGen · [[Changes/HeyGen/2026-10-13-heygen-video-1-0-api|HeyGen Video 1.0 API]]
-- Later: 2026-10-29 · OpenClaw · [[Changes/OpenClaw/2026-10-29-video-generation-results-now-show-options-that-the-provider-ignored-in-both-text|Video-generation results now show options that the provider ignored, in both text…]]
+- Earlier: 2026-10-17 · Krea · [[Changes/Krea/2026-10-17-wan-3-0-prime-for-video|Wan 3.0 Prime for video]]
+- Later: 2026-10-26 · Krea · [[Changes/Krea/2026-10-26-kling-4-0-for-video|Kling 4.0 for video]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

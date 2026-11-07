@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1ee82a6e93fc1753bbe14dd691c958a0220f3cea6a3aaf1a9f970af457d797ba
+machine_hash: 2ff84d9d93ce46522b6345eecaadab06c4787f691e20f80385ddf7a2e1846c50
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -47,10 +47,11 @@ record:
   title: World Cup updates
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-06-15-clearer-inbox-notifications|Clearer inbox notifications]]'
-- '[[Changes/Lovable/2026-06-16-cleaner-preview-links|Cleaner preview links]]'
 - '[[Changes/Microsoft 365 Copilot/2026-06-16-connect-15five-data-to-surface-team-priorities-and-recognition-web-microsoft-365|Connect
   15Five data to surface team priorities and recognition…]]'
+- '[[Changes/Devin/2026-06-17-wiki-clean-page-urls|Wiki: Clean Page URLs]]'
+- '[[Changes/Devin/2026-06-17-default-sync-with-slack-per-session|Default Sync with
+  Slack Per Session]]'
 scope: Web, iOS, and Android
 source_release: '[[Releases/ChatGPT/chatgpt-2026-06-18-chatgpt-app-experience-updates-d15f55c5|chatgpt-2026-06-18-chatgpt-app-experience-updates-d15f55c5]]'
 source_type: chatgpt_changelog
@@ -87,8 +88,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-06-16 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-06-16-connect-15five-data-to-surface-team-priorities-and-recognition-web-microsoft-365|Connect 15Five data to surface team priorities and recognition…]]
-- Later: 2026-06-19 · v0 · [[Changes/v0/2026-06-19-4-collaboration-changes-in-annotations-mode-in-form-questions|4 Collaboration changes in Annotations mode, in-form questions…]]
+- Earlier: 2026-06-17 · Devin · [[Changes/Devin/2026-06-17-default-sync-with-slack-per-session|Default Sync with Slack Per Session]]
+- Later: 2026-06-19 · Devin · [[Changes/Devin/2026-06-19-improved-feedback-controls|Improved Feedback Controls]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

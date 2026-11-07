@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d225e6017480a42b17361f979504e473c59720ffb7d10022149d3cc614515b3e
+machine_hash: da0b55a0deafeaa8df7ec72eaae4e5018d38cac0b9b3b10939276b3d7a6acff4
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,10 +43,8 @@ record:
   title: '#30508 Revert "Make auto-review on-request prompt more proactive" @dylan-hurd-oai'
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-06-30-15-automation-and-scheduling-changes-in-v2026-6-11|15
-  Automation and Scheduling changes in v2026.6.11]]'
-- "[[Changes/Open WebUI/2026-07-01-models-with-null-capabilities-chatting-with-a-model-whose-capabilities-are-unset|\U0001F916
-  Models with null capabilities. Chatting with a model whose capabilities…]]"
+- '[[Changes/Devin/2026-07-03-service-user-automations|Service User Automations]]'
+- '[[Changes/Devin/2026-07-03-snapshot-build-trigger|Snapshot Build Trigger]]'
 - '[[Changes/OpenHands/2026-07-06-2-automation-and-scheduling-changes-in-1-9-0|2 Automation
   and Scheduling changes in 1.9.0]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-07-08-rust-v0-143-0-github-350650561-9eba805c|codex-cli-2026-07-08-rust-v0-143-0-github-350650561-9eba805c]]'

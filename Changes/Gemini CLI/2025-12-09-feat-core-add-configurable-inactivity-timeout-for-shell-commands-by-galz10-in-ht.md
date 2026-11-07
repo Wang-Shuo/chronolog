@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 209df34fe00342cf6395639b1db467f749479027ab63436b19316fa38c656ee0
+machine_hash: bc13e9a68c8bf2428502dfa7ea40f788e9500a6497e3847a1e5eb043417902af
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -44,10 +44,10 @@ record:
   title: 'feat(core): Add configurable inactivity timeout for shell commands'
   type: change
 related_changes:
-- '[[Changes/Cline/2025-12-04-docs-remove-advanced-patterns-and-testing-debugging-from-hooks-docs-by-jl-codes|docs:
-  remove Advanced Patterns and Testing & Debugging from Hooks docs]]'
-- '[[Changes/Codex CLI/2025-12-04-chore-make-create-approval-requirement-for-command-an-async-fn-7501-michael-boli|chore:
-  make create_approval_requirement_for_command an async fn ♯7501 @Michael Bolin]]'
+- '[[Changes/Raycast/2025-12-05-2-developer-workflow-changes-in-raycast-ios-1-2-0|2
+  Developer Workflow changes in Raycast ios 1.2.0]]'
+- '[[Changes/AnythingLLM/2025-12-09-disable-prisma-cli-telemetry-in-entrypoint-shell-script-by-angelplusultra-in-htt|Disable
+  Prisma CLI Telemetry in Entrypoint Shell Script]]'
 - '[[Changes/Codex CLI/2025-12-09-2-developer-workflow-changes-in-rust-v0-66-0|2 Developer
   Workflow changes in rust-v0.66.0]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-12-09-v0-20-0-github-268880631-841db492|gemini-cli-2025-12-09-v0-20-0-github-268880631-841db492]]'

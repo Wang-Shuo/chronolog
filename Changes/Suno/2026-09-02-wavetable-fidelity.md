@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 88f5af45ab1a66c17c8026d4914e3f29a0a9e04789de8e6911fbfacb88642853
+machine_hash: 93de6fb944bd3d3f84c0a9dfbc218af07f2cfbf9ffc7104e8b01a1b985864beb
 product: suno
 product_name: Suno
 record:
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-09-01 · Claude Code · [[Changes/Claude Code/2026-09-01-improved-prompt-input-responsiveness-by-reducing-per-keystroke-rendering-work|Improved prompt input responsiveness by reducing per-keystroke rendering work]]
-- Later: 2026-09-03 · OpenClaw · [[Changes/OpenClaw/2026-09-03-on-linux-managed-local-model-and-embedding-services-are-preferred-as-the-out-of|On Linux, managed local model and embedding services are preferred…]]
+- Later: 2026-09-02 · Superwhisper · [[Changes/Superwhisper/2026-09-02-other-bug-fixes-and-performance-improvements|Other bug fixes and performance improvements]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

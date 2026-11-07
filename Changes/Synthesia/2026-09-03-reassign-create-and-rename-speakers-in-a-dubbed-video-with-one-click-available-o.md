@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: video-generation
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 313cd1f202ea5d12614087dd5b9e06dea50c82dc2fd308dcf1ab3bc49939e01c
+machine_hash: ca8878088dee0eb7ad63662419b4a8e75892708e801b8deb58b5d0a57e3ebd83
 product: synthesia
 product_name: Synthesia
 record:
@@ -45,8 +45,8 @@ record:
   title: Adjust speaker attribution for dubbed videos
   type: change
 related_changes:
-- '[[Changes/HeyGen/2026-08-07-we-ve-added-new-customization-options-to-generate-script-with-ai-in-the-ppt-pdf|HeyGen
-  adds new customization options to Generate Script with AI in the PPT/PDF…]]'
+- '[[Changes/Recraft/2026-08-13-we-ve-added-seedance-2-5-for-video-generation-in-recraft-studio-generate-clips-u|Recraft
+  adds Seedance 2.5 for video generation in Recraft Studio]]'
 - '[[Changes/Runway/2026-08-13-xai-s-grok-imagine-1-5-is-now-available-in-runway-mcp-as-grok-imagine-1-5-suppor|Grok
   Imagine 1.5 Video]]'
 - '[[Changes/Runway/2026-08-24-wan-3-0-is-now-available-in-runway-in-tool-mode-and-workflows-generate-near-stat|Wan
@@ -78,7 +78,7 @@ type: change
 ## Nearby in Video Generation
 
 - Earlier: 2026-08-24 · Runway · [[Changes/Runway/2026-08-24-wan-3-0-is-now-available-in-runway-in-tool-mode-and-workflows-generate-near-stat|Wan 3.0]]
-- Later: 2026-09-08 · Runway · [[Changes/Runway/2026-09-08-runway-now-runs-in-a-panel-inside-adobe-premiere-pro-and-after-effects-generate|Introducing Runway Plugins for Adobe]]
+- Later: 2026-09-07 · Krea · [[Changes/Krea/2026-09-07-compute-estimates-before-you-generate|Compute estimates before you generate]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

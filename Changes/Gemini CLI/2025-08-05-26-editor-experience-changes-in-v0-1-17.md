@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e8ca80c66ecc42daf084a2ad603a36880ccd7fe8e40fb3ba2bccf81a3c3fe425
+machine_hash: 7a4eecc4c9f9476e10f13ecfd2a5ecbcceda0499aee95d51b40e291a4ef9ad18
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -103,8 +103,7 @@ record:
   title: 26 Editor Experience changes in v0.1.17
   type: change
 related_changes:
-- '[[Changes/Cline/2025-07-31-e2e-test-add-mock-service-for-cline-api-new-test-for-diff-editor-by-abeatrix-in|e2e
-  test: add mock service for cline API & new test for diff editor]]'
+- '[[Changes/Devin/2025-07-31-knowledge-title-editing|Knowledge Title Editing]]'
 - '[[Changes/Gemini CLI/2025-08-02-23-editor-experience-changes-in-v0-1-16|23 Editor
   Experience changes in v0.1.16]]'
 - '[[Changes/Cline/2025-08-05-2-editor-experience-changes-in-v3-20-9|2 Editor Experience

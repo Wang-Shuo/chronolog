@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5a18b11faef0e39ddd4f3521f92cebc42ad9e428bbbfb4f5c3f6041cc2f1e9af
+machine_hash: 79d5972da808ce73a12edc6dd3b9f2ceff0395e6c8089d6ead56f13f6b2d35ba
 product: claude-code
 product_name: Claude Code
 record:
@@ -105,7 +105,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.314
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-10-29 · OpenCode · [[Changes/OpenCode/2026-10-29-5-developer-workflow-changes-in-v2-2-1|5 Developer Workflow changes in v2.2.1]]
-- Later: 2026-10-30 · OpenCode · [[Changes/OpenCode/2026-10-30-worktree-and-shell-mode-shortcuts|Worktree and Shell Mode Shortcuts]]
+- Later: 2026-10-30 · Devin · [[Changes/Devin/2026-10-30-github-file-anchors-open-the-review-at-that-file|GitHub File Anchors Open the Review at That File]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

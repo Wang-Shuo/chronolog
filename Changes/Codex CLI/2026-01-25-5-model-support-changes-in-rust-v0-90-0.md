@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d27b8ad81a722e9547f79e669f0f66f461ed5e4bb08160be07e3351f758bbb93
+machine_hash: 1d4da7cd8c2f7e2a2305369460cd30bdbbb5f82a6270151c114f3f7476502c00
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -49,10 +49,9 @@ record:
   title: 5 Model Support changes in rust-v0.90.0
   type: change
 related_changes:
-- '[[Changes/Cline/2026-01-23-removed-grok-model-from-free-tier|Removed grok model
-  from free tier]]'
-- '[[Changes/OpenCode/2026-01-23-core-added-support-for-openai-based-gitlab-duo-models|Core
-  Added support for OpenAI-based GitLab Duo models]]'
+- '[[Changes/Superwhisper/2026-01-23-new-remote-cloud-models|New Remote Cloud Models]]'
+- '[[Changes/Superwhisper/2026-01-23-added-skip-button-to-onboarding-model-download-screen|Added
+  skip button to onboarding model download screen]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-24-directory-path-uses-consistent-muted-text-color-with-git-branch-and-model-displa|Directory
   path uses consistent muted text color with git branch and model display]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-01-25-rust-v0-90-0-github-279750097-d3f5736c|codex-cli-2026-01-25-rust-v0-90-0-github-279750097-d3f5736c]]'

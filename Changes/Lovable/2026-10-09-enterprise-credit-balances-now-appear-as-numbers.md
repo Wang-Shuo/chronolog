@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 3ec84c0e9fef2ab1844cdd4774dd0b8deaf9db62f650ace3f07cfe482206935e
+machine_hash: 704fe75ef1e4592051762c861105c0eaf3470805ce6164fa207cc1f5efba918c
 product: lovable
 product_name: Lovable
 record:
@@ -51,12 +51,10 @@ record:
   title: Enterprise credit balances now appear as numbers
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-10-08-publish-to-invited-people-only-on-free-and-pro-plans|Publish
-  to invited people only on Free and Pro plans]]'
-- '[[Changes/OpenClaw/2026-10-08-2-enterprise-and-administration-changes-in-v2026-9-9|2
-  Enterprise and Administration changes in v2026.9.9]]'
-- '[[Changes/OpenHands/2026-10-08-feat-onboarding-show-the-super-admin-setup-guide-on-enterprise-backends-by-hiept|feat(onboarding):
-  show the Super Admin setup guide on enterprise backends]]'
+- '[[Changes/Devin/2026-10-09-only-allow-connecting-admin-configured-mcps|Only allow
+  connecting admin-configured MCPs]]'
+- '[[Changes/Devin/2026-10-09-attachment-links-in-prs|Attachment links in PRs]]'
+- '[[Changes/Devin/2026-10-09-devin-wiki-in-thai|Devin Wiki in Thai]]'
 source_release: '[[Releases/Lovable/lovable-2026-10-09-2026-10-09-58884c93|lovable-2026-10-09-2026-10-09-58884c93]]'
 source_type: lovable_changelog
 theme: enterprise-admin
@@ -87,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-10-08 · OpenHands · [[Changes/OpenHands/2026-10-08-feat-onboarding-show-the-super-admin-setup-guide-on-enterprise-backends-by-hiept|feat(onboarding): show the Super Admin setup guide on enterprise backends]]
+- Earlier: 2026-10-09 · Devin · [[Changes/Devin/2026-10-09-devin-wiki-in-thai|Devin Wiki in Thai]]
 - Later: 2026-10-09 · Runway · [[Changes/Runway/2026-10-09-workspace-admins-can-now-set-a-credit-cap-on-any-project-giving-each-team-or-cli|Project Credit Caps]]
 <!-- chronolog:end -->
 

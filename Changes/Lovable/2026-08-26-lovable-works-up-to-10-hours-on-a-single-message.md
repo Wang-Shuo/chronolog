@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: pricing
-machine_hash: 170ed191a842634996fde72be0ff1ef5f997d978d832aac1b62af7f6a8c0a623
+machine_hash: 874001e2bcb4b4cb7bcfcafb6cf2a726dde94d6df575e70638e4d7f9b3718144
 product: lovable
 product_name: Lovable
 record:
@@ -95,7 +95,7 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2026-08-26 · Codex CLI · [[Changes/Codex CLI/2026-08-26-40488-export-turn-cost-as-an-otel-metric-copyberry|♯40488 Export turn cost as an OTEL metric @copyberry]]
-- Later: 2026-08-27 · Claude Code · [[Changes/Claude Code/2026-08-27-added-usage-credits-for-enterprise-organizations-billed-through-aws-marketplace|Added /usage-credits for Enterprise organizations billed through AWS Marketplace…]]
+- Later: 2026-08-27 · AnythingLLM · [[Changes/AnythingLLM/2026-08-27-feat-cost-tracking-by-timothycarambat-in-https-github-com-mintplex-labs-anything|Feat/cost tracking]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

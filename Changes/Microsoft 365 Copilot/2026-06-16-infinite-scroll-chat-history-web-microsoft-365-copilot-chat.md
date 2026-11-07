@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 53e7a88a3051ee73436376c4a65237d872d116d55a9884b6919a9141d843b9f0
+machine_hash: 019700c8260d7afa53655c35b240c69d15c354d3a73810bb47f532056dec4c33
 product: microsoft-365-copilot
 product_name: Microsoft 365 Copilot
 record:
@@ -43,7 +43,8 @@ record:
   title: Infinite scroll chat history [Web] (Microsoft 365 Copilot Chat)
   type: change
 related_changes:
-- '[[Changes/Descript/2026-06-11-descript-api-cli-v0-11-0|Descript API CLI v0.11.0]]'
+- '[[Changes/Raycast/2026-06-12-file-search-paths-ending-with-a-slash-in-browsing-mode-no-longer-display-the-fol-84df3c|File
+  Search: Paths ending with a slash in Browsing mode no longer display the folder…]]'
 - '[[Changes/Codex CLI/2026-06-15-27501-codex-expand-hosted-web-search-citation-guidance-yuning-oai|♯27501
   codex Expand hosted web search citation guidance @yuning-oai]]'
 - '[[Changes/Kimi Code/2026-06-15-add-an-all-sessions-picker-view-with-name-search-paginated-browsing-and-clipboar|Add
@@ -82,7 +83,7 @@ type: change
 ## Nearby in Search and Browsing
 
 - Earlier: 2026-06-15 · Kimi Code · [[Changes/Kimi Code/2026-06-15-add-an-all-sessions-picker-view-with-name-search-paginated-browsing-and-clipboar|Add an all-sessions picker view with name search, paginated browsing…]]
-- Later: 2026-06-22 · Codex CLI · [[Changes/Codex CLI/2026-06-22-2-search-and-browsing-changes-in-rust-v0-142-0|2 Search and Browsing changes in rust-v0.142.0]]
+- Later: 2026-06-22 · AnythingLLM · [[Changes/AnythingLLM/2026-06-22-feat-add-fastcrw-web-search-provider-by-us-in-https-github-com-mintplex-labs-any|feat: add fastCRW web search provider]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

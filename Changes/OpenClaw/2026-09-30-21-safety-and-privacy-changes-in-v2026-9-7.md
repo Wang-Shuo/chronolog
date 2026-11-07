@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: aab1772c386cafb1da953c84f5b9730204daa627dc49b16686f824698d5cd497
+machine_hash: bb66aba2709ed9e17ef6b3ca01441c7dba0b29e070d64e42742af39dc27b0f4c
 product: openclaw
 product_name: OpenClaw
 record:
@@ -146,8 +146,8 @@ record:
   title: 21 Safety and Privacy changes in v2026.9.7
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-30-2-safety-and-privacy-changes-in-rust-v0-159-3|2
-  Safety and Privacy changes in rust-v0.159.3]]'
+- '[[Changes/Devin/2026-09-30-hardware-accelerated-emulators-in-sessions|Hardware-Accelerated
+  Emulators in Sessions]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-30-permission-prompts-remain-answerable-after-resuming-interrupted-sessions|Permission
   prompts remain answerable after resuming interrupted sessions]]'
 - '[[Changes/Lovable/2026-09-30-rotate-your-cloud-database-password-from-chat|Rotate

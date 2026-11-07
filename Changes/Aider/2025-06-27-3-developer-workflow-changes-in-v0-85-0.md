@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 51b6f7d272a4ccc41cb20753c1c8daf2544dc72494759456136a5a0ea7c4cd21
+machine_hash: e102d7912915b923a18ef6641fdea47ab8a25bcfdb2597f90de17b2d131490dc
 product: aider
 product_name: Aider
 record:
@@ -47,12 +47,12 @@ record:
   title: 3 Developer Workflow changes in v0.85.0
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-06-20-example-code-review-microagent-by-jpelletier1-in-https-github-com-all-hands-ai-o|Example
-  code review microagent]]'
-- '[[Changes/OpenHands/2025-06-24-introduced-optional-vi-style-keybindings-for-confirmation-prompts-navigating-men|Introduced
-  optional vi-style keybindings for confirmation prompts navigating menus…]]'
 - '[[Changes/Dify/2025-06-25-2-developer-workflow-changes-in-1-5-0|2 Developer Workflow
   changes in 1.5.0]]'
+- '[[Changes/LM Studio/2025-06-25-added-stats-command-to-lms-chat-command-to-show-prediction-statistics-thanks-yor|Added
+  --stats command to lms chat command to show prediction statistics…]]'
+- '[[Changes/Raycast/2025-06-26-2-developer-workflow-changes-in-raycast-windows-0-25|2
+  Developer Workflow changes in Raycast windows 0.25]]'
 source_release: '[[Releases/Aider/aider-2025-06-27-v0-85-0-github-228491827-20a4ecc7|aider-2025-06-27-v0-85-0-github-228491827-20a4ecc7]]'
 source_type: github_releases
 theme: developer-workflow
@@ -93,7 +93,7 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.85.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2025-06-25 · Dify · [[Changes/Dify/2025-06-25-2-developer-workflow-changes-in-1-5-0|2 Developer Workflow changes in 1.5.0]]
+- Earlier: 2025-06-26 · Raycast · [[Changes/Raycast/2025-06-26-2-developer-workflow-changes-in-raycast-windows-0-25|2 Developer Workflow changes in Raycast windows 0.25]]
 - Later: 2025-06-27 · OpenHands · [[Changes/OpenHands/2025-06-27-changed-terminal-truncation-to-trim-middle-of-long-outputs-instead-of-suffix-by|Changed terminal truncation to trim middle of long outputs instead of suffix]]
 <!-- chronolog:end -->
 

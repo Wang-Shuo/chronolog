@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 010b975180ca7a59d0aad21fcfcb6d27d994d64c918fbb133b3fab7ae90f6b20
+machine_hash: 47be86cc51e886fb262970c2e1a0c3ea2245388cc033bdedb21e7a423242f6db
 product: lovable
 product_name: Lovable
 record:
@@ -109,7 +109,7 @@ type: change
 ## Nearby in Automation and Scheduling
 
 - Earlier: 2026-04-02 · Cursor · [[Changes/Cursor/2026-04-02-reduced-the-browser-automation-tool-surface-and-tightened-the-subagent-to-use-br|Reduced the browser automation tool surface and tightened the subagent to use…]]
-- Later: 2026-04-07 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-04-07-edit-scheduled-prompts-for-copilot-windows-mac-web-microsoft-365-copilot-chat|Edit scheduled prompts for Copilot Windows, Mac, Web (Microsoft 365 Copilot chat)]]
+- Later: 2026-04-03 · Devin · [[Changes/Devin/2026-04-03-linear-assignee-filter|Linear Assignee Filter]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

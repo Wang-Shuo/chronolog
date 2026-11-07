@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: eb51cf70ce9d1e96cffac97e776ed64c16d45f3d258c6652eb85ff0d2ef8e7e9
+machine_hash: 0af85ba613e71b676d2946f1d6669609c961020b2f5668e960c639c2eee233b7
 product: descript
 product_name: Descript
 record:
@@ -42,8 +42,8 @@ record:
   title: Spacebar now toggles playback / pause
   type: change
 related_changes:
-- '[[Changes/Descript/2020-12-17-now-you-can-edit-the-name-of-a-page-directly-on-the-page-just-open-up-the-share|Edit
-  Page names on the page]]'
+- '[[Changes/Raycast/2020-12-22-auto-switch-keyboard-layout-now-you-can-enforce-raycast-to-always-switch-to-engl|Auto-switch
+  Keyboard Layout]]'
 - '[[Changes/Descript/2021-02-18-descript-automatically-optimizes-the-edit-boundaries-in-your-composition-after-r|Optimized
   Edit Boundaries with Filler Word Removal]]'
 - '[[Changes/Descript/2021-02-18-we-ve-combined-the-correct-text-and-edit-media-modes-into-a-single-editing-exper|Correct
@@ -75,7 +75,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2021-02-18 · Descript · [[Changes/Descript/2021-02-18-we-ve-combined-the-correct-text-and-edit-media-modes-into-a-single-editing-exper|Correct Text and Edit Media modes have been combined]]
-- Later: 2021-05-11 · Descript · [[Changes/Descript/2021-05-11-we-re-happy-to-announce-the-launch-of-quick-editor-https-help-descript-com-hc-en|Quick Editor]]
+- Later: 2021-02-18 · Raycast · [[Changes/Raycast/2021-02-18-file-search-folders-can-be-opened-with-text-editor-apps-via-open-with-action|File Search: Folders can be opened with text editor apps via "Open with..." action]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

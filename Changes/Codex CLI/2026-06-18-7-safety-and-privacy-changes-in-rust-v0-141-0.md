@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: aa267f4b79db9354e62311191673a5c3979e26da54b29fad060e23363965e5a4
+machine_hash: dbbf2115c75a9cc5190ce60c48d1ea5da7273bddef96fc14eb4b3eccc1ee9dfb
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -56,10 +56,10 @@ record:
   title: 7 Safety and Privacy changes in rust-v0.141.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-15-27490-remove-tui-legacy-windows-sandbox-dependency-etraut-openai|♯27490
-  Remove TUI legacy Windows sandbox dependency @etraut-openai]]'
 - '[[Changes/Claude Code/2026-06-17-added-sandbox-allowappleevents-opt-in-setting-that-lets-sandboxed-commands-send|Added
   sandbox.allowAppleEvents opt-in setting that lets sandboxed commands send…]]'
+- '[[Changes/Devin/2026-06-17-devin-review-security-findings|Devin Review: Security
+  Findings]]'
 - '[[Changes/ChatGPT/2026-06-18-app-permission-controls-you-can-now-choose-when-chatgpt-asks-before-using-connec|App
   permission controls: You can now choose when ChatGPT asks before using connected
   apps]]'
@@ -114,7 +114,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.141.0
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-06-18 · ChatGPT · [[Changes/ChatGPT/2026-06-18-app-permission-controls-you-can-now-choose-when-chatgpt-asks-before-using-connec|App permission controls: You can now choose when ChatGPT asks before using connected apps]]
-- Later: 2026-06-19 · v0 · [[Changes/v0/2026-06-19-responding-to-an-agent-prompt-for-an-environment-variable-permission-question-or|Responding to an agent prompt for an environment variable, permission, question…]]
+- Later: 2026-06-18 · Raycast · [[Changes/Raycast/2026-06-18-apple-shortcuts-fixed-missing-apple-shortcuts-and-improve-fallback-when-shortcut|Apple Shortcuts : Fixed missing Apple Shortcuts and improve fallback when Shortcuts…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

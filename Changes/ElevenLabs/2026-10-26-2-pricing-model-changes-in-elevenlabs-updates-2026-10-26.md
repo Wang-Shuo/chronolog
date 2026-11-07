@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3459951922642589583c478727a16ec554984bc1bd98dc9ea90f70fb8bff8817
+machine_hash: 7d13e12be9526032357c505db9cda92ae087b28b04703e873852cfb5a7b44a0b
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -47,12 +47,11 @@ record:
   title: 2 Pricing Model changes in ElevenLabs updates — 2026-10-26
   type: change
 related_changes:
-- '[[Changes/Notion/2026-10-19-your-credits-go-about-10-further|Your credits go about
-  10× further]]'
 - '[[Changes/ChatGPT/2026-10-21-you-can-now-use-momo-to-pay-for-chatgpt-go-plus-and-pro-subscriptions-purchased|MoMo
   payments in Vietnam]]'
 - '[[Changes/Synthesia/2026-10-21-set-a-monthly-credit-limit-for-every-user-on-your-enterprise-plan-so-spend-stays|Set
   per-user limits with Credit controls]]'
+- '[[Changes/Krea/2026-10-24-workspace-usage-by-member|Workspace usage by member]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-10-26-2026-10-26-ca7c552d|elevenlabs-2026-10-26-2026-10-26-ca7c552d]]'
 source_type: elevenlabs_changelog
 theme: pricing-model
@@ -106,7 +105,7 @@ Source: https://elevenlabs.io/docs/changelog/2026/10/26
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-10-21 · Synthesia · [[Changes/Synthesia/2026-10-21-set-a-monthly-credit-limit-for-every-user-on-your-enterprise-plan-so-spend-stays|Set per-user limits with Credit controls]]
+- Earlier: 2026-10-24 · Krea · [[Changes/Krea/2026-10-24-workspace-usage-by-member|Workspace usage by member]]
 - Later: 2026-10-26 · Gamma · [[Changes/Gamma/2026-10-26-clearer-credit-balances|Clearer credit balances]]
 <!-- chronolog:end -->
 

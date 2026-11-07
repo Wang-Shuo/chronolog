@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 23cdfc8dccece7d7225a89d3ff19c6710795da6d68933963f58871d733e64df5
+machine_hash: f73b98a57e3c2ac72c2d1806e0a9177bb20e8ef0530ed04ef3fb2ed47c2b1b35
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -46,12 +46,10 @@ record:
   title: Add an `Interrupt` hook event that fires when the user interrupts a turn…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-09-8-apps-and-integrations-changes-in-rust-v0-139-0|8
-  Apps and Integrations changes in rust-v0.139.0]]'
-- '[[Changes/GitHub Copilot CLI/2026-06-09-4-apps-and-integrations-changes-in-v1-0-61|4
-  Apps and Integrations changes in v1.0.61]]'
-- '[[Changes/Claude Code/2026-06-10-3-apps-and-integrations-changes-in-v2-1-172|3
-  Apps and Integrations changes in v2.1.172]]'
+- '[[Changes/Devin/2026-06-10-improved-slack-message-rendering|Improved Slack Message
+  Rendering]]'
+- '[[Changes/Devin/2026-06-10-echo-message-to-slack-toggle|Echo Message to Slack Toggle]]'
+- '[[Changes/Devin/2026-06-10-official-figma-mcp-integration|Official Figma MCP Integration]]'
 source_release: '[[Releases/Kimi Code/kimi-code-2026-06-10-0-14-0-3f5643a6|kimi-code-2026-06-10-0-14-0-3f5643a6]]'
 source_type: kimi_code_changelog
 theme: apps-integrations
@@ -80,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-06-10 · Claude Code · [[Changes/Claude Code/2026-06-10-3-apps-and-integrations-changes-in-v2-1-172|3 Apps and Integrations changes in v2.1.172]]
+- Earlier: 2026-06-10 · Devin · [[Changes/Devin/2026-06-10-official-figma-mcp-integration|Official Figma MCP Integration]]
 - Later: 2026-06-10 · Kimi Code · [[Changes/Kimi Code/2026-06-10-2-apps-and-integrations-changes-in-kimi-code-0-13-0|2 Apps and Integrations changes in Kimi Code 0.13.0]]
 <!-- chronolog:end -->
 

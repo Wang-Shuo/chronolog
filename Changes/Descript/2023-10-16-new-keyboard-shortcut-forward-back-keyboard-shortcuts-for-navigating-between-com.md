@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 5e7fefffaf9f40fe0694e6f0d7b4dd9543cc1d44eed42e932ae42d888e7523a9
+machine_hash: 42ab300bfda2f2190da67105b09f05e4cb9f6675430390a6b1adf583abe5b995
 product: descript
 product_name: Descript
 record:
@@ -44,8 +44,8 @@ record:
   title: New Keyboard Shortcut
   type: change
 related_changes:
-- '[[Changes/Dify/2023-09-19-mermaid-front-end-rendering-by-charli117-in-https-github-com-langgenius-dify-pul|Mermaid
-  front end rendering]]'
+- '[[Changes/Raycast/2023-09-21-dynamic-placeholders-automatically-set-the-selection-in-the-right-place-when-ins|Dynamic
+  Placeholders : Automatically set the selection in the right place…]]'
 - '[[Changes/Descript/2023-10-02-new-view-options-in-drive-view|New View Options in
   Drive View]]'
 - '[[Changes/Descript/2023-10-16-docked-panels-are-now-remembered|Docked panels are

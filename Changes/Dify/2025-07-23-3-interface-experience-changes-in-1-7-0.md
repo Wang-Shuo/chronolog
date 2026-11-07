@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3bf206939a0965c21899d04d29db0211a9851431cad46fb5bebce130cd310924
+machine_hash: 4fa262af66c8b01a210749bbe567b1f78d1b291ddaa6ea5105c6e83df7969114
 product: dify
 product_name: Dify
 record:
@@ -48,10 +48,10 @@ record:
   title: 3 Interface Experience changes in 1.7.0
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-07-19-add-numbers-to-selection-list-by-miguelsolorio-in-https-github-com-google-gemini|Add
-  numbers to selection list]]'
 - '[[Changes/Open WebUI/2025-07-19-3-interface-experience-changes-in-v0-6-17|3 Interface
   Experience changes in v0.6.17]]'
+- '[[Changes/Raycast/2025-07-21-ai-added-ability-to-delete-chat-from-within-the-chat-via-title-menu|AI
+  : Added ability to delete chat from within the chat via title menu]]'
 - '[[Changes/Descript/2025-07-23-updates-to-the-sidebar|Updates to the sidebar]]'
 source_release: '[[Releases/Dify/dify-2025-07-23-1-7-0-github-234517527-27158f09|dify-2025-07-23-1-7-0-github-234517527-27158f09]]'
 source_type: github_releases

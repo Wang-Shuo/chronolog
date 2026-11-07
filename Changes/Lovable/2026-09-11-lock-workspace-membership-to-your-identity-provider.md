@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 7480187a905e315481aace2a020827b6d6c6a64fb273d9f830937af512a37c77
+machine_hash: 6c4e002e0e90c6aa64685a2a1b656fb1090991f36407fa147d9beb0f48262606
 product: lovable
 product_name: Lovable
 record:
@@ -50,11 +50,10 @@ record:
   title: Lock workspace membership to your identity provider
   type: change
 related_changes:
-- '[[Changes/Notion/2026-09-09-what-s-on-your-team-s-model-roster-that-s-up-to-you-with-model-controls-workspac|Control
-  which AI models your agents can use]]'
-- '[[Changes/ChatGPT/2026-09-10-box-dropbox-and-sharepoint-integrations-are-now-rolling-out-to-go-plus-pro-busin|Box,
-  Dropbox, and SharePoint integrations are now rolling out to Go, Plus, Pro…]]'
 - '[[Changes/Claude/2026-09-10-smart-reports-beta|Smart reports (beta)]]'
+- '[[Changes/Devin/2026-09-11-safer-secret-defaults|Safer Secret Defaults]]'
+- '[[Changes/Devin/2026-09-11-effective-membership-in-member-lists|Effective Membership
+  in Member Lists]]'
 source_release: '[[Releases/Lovable/lovable-2026-09-11-2026-09-11-fe1ab3d8|lovable-2026-09-11-2026-09-11-fe1ab3d8]]'
 source_type: lovable_changelog
 theme: enterprise-admin
@@ -89,7 +88,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-09-10 · Claude · [[Changes/Claude/2026-09-10-smart-reports-beta|Smart reports (beta)]]
+- Earlier: 2026-09-11 · Devin · [[Changes/Devin/2026-09-11-effective-membership-in-member-lists|Effective Membership in Member Lists]]
 - Later: 2026-09-11 · OpenClaw · [[Changes/OpenClaw/2026-09-11-messages-arriving-while-openclaw-is-paused-now-wait-until-it-is-ready-again-and|Messages arriving while OpenClaw is paused now wait until it is ready again…]]
 <!-- chronolog:end -->
 

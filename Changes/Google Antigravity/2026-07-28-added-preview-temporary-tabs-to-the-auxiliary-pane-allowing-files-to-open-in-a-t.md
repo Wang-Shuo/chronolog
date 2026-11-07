@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e17b367825382e95ebf2e856e212d6621d5de2b4fc176dc1599f0e7848f2f71f
+machine_hash: 1caa03271edfc9eee643b5b5a9789eefdcd317b3a58113078fac9332ac921ca8
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -44,8 +44,8 @@ record:
   title: Added preview (temporary) tabs to the auxiliary pane, allowing files to open…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-23-show-tab-in-settings-footer-to-switch-scope-tabs|Show
-  Tab in /settings footer to switch scope tabs]]'
+- '[[Changes/Devin/2026-07-24-this-release-also-includes-many-smaller-fixes-and-improvements-including-faster|This
+  release also includes many smaller fixes and improvements, including faster…]]'
 - '[[Changes/Open WebUI/2026-07-27-7-editor-experience-changes-in-v0-11-0|7 Editor
   Experience changes in v0.11.0]]'
 - '[[Changes/Dify/2026-07-28-feat-web-locate-workflow-nodes-by-node-id-in-the-workflow-editor-by-ruanimal-in|feat(web):

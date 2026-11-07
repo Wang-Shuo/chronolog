@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: fac8943d66a7f40cdcf49fd85ba8ddb7e980014031a1d5baf7584441f6f2520c
+machine_hash: a89c0bb1e55daba29e4021254c9daa5079ce4be2d18fdf5637b2d3faf013a437
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Search and Browsing
 
 - Earlier: 2026-07-02 · Kimi Code · [[Changes/Kimi Code/2026-07-02-save-shell-commands-to-input-history-and-recall-them-in-bash-mode-press-up-on-an|Save shell commands to input history and recall them in bash mode]]
-- Later: 2026-07-09 · Codex CLI · [[Changes/Codex CLI/2026-07-09-31525-core-migrate-standalone-web-search-to-extension-owned-turn-items-owenlin0|♯31525 core: migrate standalone web search to extension-owned turn items @owenlin0]]
+- Later: 2026-07-08 · Devin · [[Changes/Devin/2026-07-08-redesigned-review-comment-composer|Redesigned Review Comment Composer]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

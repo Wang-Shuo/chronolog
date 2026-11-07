@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2f92535ba1f4fbbcca61e01fb8bf98de7090df4e370e980738ea9fc17b3b2c69
+machine_hash: 5b564cfce372c398fbdee35e3427c5bfd2a8f8fbf25611b0da20f7ef9b461c03
 product: open-webui
 product_name: Open WebUI
 record:
@@ -70,10 +70,10 @@ record:
   title: 5 Apps and Integrations changes in v0.12.4
   type: change
 related_changes:
-- '[[Changes/Replit/2026-10-23-keep-your-apps-running-when-credits-run-out|Keep your
-  apps running when credits run out]]'
-- '[[Changes/Windsurf/2026-10-23-5-apps-and-integrations-changes-in-v3-11-212|5 Apps
-  and Integrations changes in v3.11.212]]'
+- '[[Changes/Krea/2026-10-24-more-agent-nodes-and-plugin-polish|More Agent, Nodes,
+  and plugin polish]]'
+- '[[Changes/Krea/2026-10-24-sort-filter-and-delete-nodes-apps|Sort, filter, and delete
+  Nodes Apps]]'
 - '[[Changes/OpenClaw/2026-10-24-7-apps-and-integrations-changes-in-v2026-10-7|7 Apps
   and Integrations changes in v2026.10.7]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-10-25-v0-12-4-github-423239437-ffa84a79|open-webui-2026-10-25-v0-12-4-github-423239437-ffa84a79]]'

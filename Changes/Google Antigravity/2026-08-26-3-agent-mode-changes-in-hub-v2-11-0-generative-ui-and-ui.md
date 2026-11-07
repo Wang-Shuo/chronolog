@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 40ffcf585f1882766b89fa96a831f59f91eea7cb58432f5ed508e28c355c6e5a
+machine_hash: f8fa71b9f51dca38991c45232854d053bd8cb5b0e943753259a2e1e67218a1fd
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -49,10 +49,10 @@ record:
   title: 3 Agent Mode changes in HUB v2.11.0 — Generative UI and UI…
   type: change
 related_changes:
-- '[[Changes/Microsoft 365 Copilot/2026-08-25-work-iq-apis-unified-rest-endpoint-for-agents-and-workflows-developer-web-micros|Work
-  IQ APIs – Unified REST Endpoint for Agents and Workflows Developer…]]'
-- "[[Changes/Open WebUI/2026-08-25-files-for-delegated-tasks-a-task-handed-to-a-sub-agent-can-now-carry-the-attachm|\U0001F91D
-  Files for delegated tasks. A task handed to a sub-agent can now carry…]]"
+- '[[Changes/Raycast/2026-08-25-2-agent-mode-changes-in-raycast-windows-2-0|2 Agent
+  Mode changes in Raycast windows 2.0]]'
+- '[[Changes/Raycast/2026-08-25-2-agent-mode-changes-in-raycast-macos-2-0|2 Agent
+  Mode changes in Raycast macos 2.0]]'
 - '[[Changes/Codex CLI/2026-08-26-14-agent-mode-changes-in-rust-v0-150-0|14 Agent
   Mode changes in rust-v0.150.0]]'
 source_release: '[[Releases/Google Antigravity/google-antigravity-2026-08-26-rel-hub-2-11-0-9dbc2d81|google-antigravity-2026-08-26-rel-hub-2-11-0-9dbc2d81]]'

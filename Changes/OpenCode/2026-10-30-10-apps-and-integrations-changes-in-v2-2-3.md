@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 97ed094528bb2a6a5763032a054c79af14cdf67e60143f7154ff9bc085925393
+machine_hash: a32bb56a9f0dfe1523a9ba042159286726428d0f9c04ebc600fbf7ab51adff27
 product: opencode
 product_name: OpenCode
 record:
@@ -66,8 +66,8 @@ record:
   title: 10 Apps and Integrations changes in v2.2.3
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-30-3-apps-and-integrations-changes-in-v2-1-314|3
-  Apps and Integrations changes in v2.1.314]]'
+- '[[Changes/Devin/2026-10-30-header-scripts-for-mcp-servers-on-the-session-machine|Header
+  Scripts for MCP Servers on the Session Machine]]'
 - '[[Changes/OpenCode/2026-10-30-4-apps-and-integrations-changes-in-v2-2-5|4 Apps
   and Integrations changes in v2.2.5]]'
 - '[[Changes/OpenCode/2026-10-30-sdk-extended-client-experimental-persistentpty-update-to-rename-terminals-or-cle|SDK

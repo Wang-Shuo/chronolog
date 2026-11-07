@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 608ba95bece6dfa4882287e3af4f52799a66948f6c99d41e34ecd81153130b87
+machine_hash: 4c0fb02f5086ca8b2998a678e700ac0535e0a2cadfd74166dc8b24a1153c93f8
 product: opencode
 product_name: OpenCode
 record:
@@ -112,7 +112,7 @@ Source: https://opencode.ai/changelog/v1.17.12
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-06-30 · OpenClaw · [[Changes/OpenClaw/2026-06-30-15-mobile-and-desktop-changes-in-v2026-6-11|15 Mobile and Desktop changes in v2026.6.11]]
-- Later: 2026-07-01 · Granola · [[Changes/Granola/2026-07-01-now-android-users-can-take-notes-anywhere-leave-the-laptop-behind-and-take-notes|Granola for Android is here!]]
+- Later: 2026-07-01 · Devin · [[Changes/Devin/2026-07-01-cross-platform-repository-cloning|Cross-Platform Repository Cloning]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

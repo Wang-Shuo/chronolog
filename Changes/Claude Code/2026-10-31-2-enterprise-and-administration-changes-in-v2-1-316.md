@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 42604724c6817f753ec51137da5d574706a1570e1c0d6ed2f07b734a3ca4f9c6
+machine_hash: fc08631e03a5d6f4a9181330d8437c073c3b2c352b416e1676de5a1534e52321
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,9 @@ record:
   title: 2 Enterprise and Administration changes in v2.1.316
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2026-10-29-admins-manage-user-api-keys-administrators-can-now-rotate-or-delete-a-user-s-api|\U0001F5DD️
-  Admins manage user API keys. Administrators can now rotate or delete a user's…]]"
-- '[[Changes/Claude Code/2026-10-30-3-enterprise-and-administration-changes-in-v2-1-314|3
-  Enterprise and Administration changes in v2.1.314]]'
+- '[[Changes/Devin/2026-10-30-budgets|Budgets]]'
+- '[[Changes/Devin/2026-10-30-opt-out-of-access-request-dms|Opt Out of Access-Request
+  DMs]]'
 - '[[Changes/Windsurf/2026-10-30-members-an-enterprise-admin-has-listed-for-anthropic-s-cyber-verification-progra|Members
   an enterprise admin has listed for Anthropic''s Cyber Verification Program…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-31-v2-1-316-github-429617179-a30f32c9|claude-code-2026-10-31-v2-1-316-github-429617179-a30f32c9]]'

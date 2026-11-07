@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 21d9e8db46295fe6ff7eda20d8dd75704fe20565847823f8cf370fed09ddc798
+machine_hash: c3e09a3cc95c2ce5fde14e33b8dcfaf23ef1e40fc06914869edc11907157451c
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -58,12 +58,12 @@ record:
   title: 7 Model Support changes in rust-v0.167.0
   type: change
 related_changes:
-- '[[Changes/Dify/2026-11-04-4-model-support-changes-in-1-19-0|4 Model Support changes
-  in 1.19.0]]'
-- '[[Changes/Gemini CLI/2026-11-04-feat-cli-add-models-command-and-list-models-flag-for-model-discovery-by-urielefr|feat(cli):
-  add models command and --list-models flag for model discovery]]'
+- '[[Changes/Raycast/2026-11-04-ai-chat-improved-handling-of-unavailable-models-fd1d45|AI
+  Chat : Improved handling of unavailable models]]'
 - '[[Changes/OpenClaw/2026-11-05-4-model-support-changes-in-v2026-11-1|4 Model Support
   changes in v2026.11.1]]'
+- '[[Changes/Recraft/2026-11-05-gpt-image-2-6-openai-s-newest-image-model-is-now-in-recraft-studio-in-two-versio|GPT
+  Image 2.6, OpenAI''s newest image model, is now in Recraft Studio in two versions]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-11-06-rust-v0-167-0-github-435979892-a2e140bc|codex-cli-2026-11-06-rust-v0-167-0-github-435979892-a2e140bc]]'
 source_type: github_releases
 theme: model-support
@@ -118,7 +118,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.167.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-11-05 · OpenClaw · [[Changes/OpenClaw/2026-11-05-4-model-support-changes-in-v2026-11-1|4 Model Support changes in v2026.11.1]]
+- Earlier: 2026-11-05 · Recraft · [[Changes/Recraft/2026-11-05-gpt-image-2-6-openai-s-newest-image-model-is-now-in-recraft-studio-in-two-versio|GPT Image 2.6, OpenAI's newest image model, is now in Recraft Studio in two versions]]
 - Later: 2026-11-06 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-11-06-33-model-support-changes-in-v1-0-106|33 Model Support changes in v1.0.106]]
 <!-- chronolog:end -->
 

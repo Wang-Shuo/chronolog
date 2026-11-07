@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c84f8504df3fd6bd81a2a381bcdea04aec174d99baf9d077273f812134cfcad7
+machine_hash: de857f031ba58968acfca131527e519e767d7adf7778954f1b60a66b9773821d
 product: gamma
 product_name: Gamma
 record:

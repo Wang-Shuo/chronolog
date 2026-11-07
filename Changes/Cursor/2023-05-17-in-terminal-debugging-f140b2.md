@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 1937e096c638dd38a4ae91e794b374add538067bcc30020c20bc65dcff3170f5
+machine_hash: 0646d603d7e66570ecae0c83b4f5ab0a894d8688638d5593d90128f6c588a886
 product: cursor
 product_name: Cursor
 record:
@@ -43,8 +43,8 @@ record:
   title: In-terminal Debugging
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-04-14-don-t-install-cursor-command-on-startup|Don''t install
-  "cursor" command on startup]]'
+- '[[Changes/Raycast/2023-04-28-3-developer-workflow-changes-in-raycast-macos-v1-1-50-0|3
+  Developer Workflow changes in Raycast macos-v1 1.50.0]]'
 - "[[Changes/Cursor/2023-04-29-working-remote-ssh-support-through-the-openremote-ssh-extension|\U0001F310
   Working remote ssh support through the \"OpenRemote - SSH\" extension]]"
 - '[[Changes/Cursor/2023-05-17-remote-ssh-is-easier-to-use|Remote SSH is easier to
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2023-04-29 · Cursor · [[Changes/Cursor/2023-04-29-working-remote-ssh-support-through-the-openremote-ssh-extension|🌐 Working remote ssh support through the "OpenRemote - SSH" extension]]
-- Later: 2023-06-07 · Aider · [[Changes/Aider/2023-06-07-added-in-chat-command-clear-to-clear-the-conversation-history|Added in-chat command /clear to clear the conversation history]]
+- Later: 2023-05-24 · Raycast · [[Changes/Raycast/2023-05-24-theme-studio-added-markdown-example-with-a-code-block-in-the-preview|Theme Studio: Added markdown example with a code block in the preview]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

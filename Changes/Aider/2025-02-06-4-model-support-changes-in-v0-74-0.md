@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7c9bd3e3532c386d4861c1eb71406457cdfb1e730eca57b155d8a81eb232b0ba
+machine_hash: 11b2af171ec1800a09d59084842449922e0069621067c571aadf9c2ad126de90
 product: aider
 product_name: Aider
 record:
@@ -50,12 +50,12 @@ record:
   title: 4 Model Support changes in v0.74.0
   type: change
 related_changes:
-- '[[Changes/Gemini/2025-02-05-priority-access-with-gemini-advanced-try-our-2-0-pro-experimental-model|Priority
-  access with Gemini Advanced: Try our 2.0 Pro Experimental model]]'
 - "[[Changes/Open WebUI/2025-02-05-think-tag-display-issue-resolved-a-bug-where-the-think-tag-was-not-functioning-c|\U0001F4A1
   \"Think\" Tag Display Issue]]"
 - "[[Changes/Open WebUI/2025-02-05-max-tokens-issue-fixes-cases-where-max-tokens-were-not-applied-correctly-ensurin|\U0001F527
   Max Tokens Issue]]"
+- '[[Changes/Raycast/2025-02-05-7-model-support-changes-in-raycast-macos-v1-1-91-0|7
+  Model Support changes in Raycast macos-v1 1.91.0]]'
 source_release: '[[Releases/Aider/aider-2025-02-06-v0-74-0-github-198937852-317852a7|aider-2025-02-06-v0-74-0-github-198937852-317852a7]]'
 source_type: github_releases
 theme: model-support
@@ -94,7 +94,7 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.74.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-02-05 · Open WebUI · [[Changes/Open WebUI/2025-02-05-max-tokens-issue-fixes-cases-where-max-tokens-were-not-applied-correctly-ensurin|🔧 Max Tokens Issue]]
+- Earlier: 2025-02-05 · Raycast · [[Changes/Raycast/2025-02-05-7-model-support-changes-in-raycast-macos-v1-1-91-0|7 Model Support changes in Raycast macos-v1 1.91.0]]
 - Later: 2025-02-07 · Dify · [[Changes/Dify/2025-02-07-22-model-support-changes-in-0-15-3|22 Model Support changes in 0.15.3]]
 <!-- chronolog:end -->
 

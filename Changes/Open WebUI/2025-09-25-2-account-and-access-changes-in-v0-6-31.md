@@ -14,12 +14,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5c88535887c6b9e7df29f0b43a9336731b0ccd93053a6c63edf4df9a8b43a5f9
+machine_hash: 672630cd37db762571689b7f88038fd48c3d41ad5d33f926ef56d3eab8c4609a
 product: open-webui
 product_name: Open WebUI
 record:
@@ -50,10 +50,10 @@ record:
   title: 2 Account and Access changes in v0.6.31
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-09-17-refactor-authentication-components-and-hooks-by-scidomino-in-https-github-com-go|Refactor
-  Authentication Components and Hooks]]'
 - "[[Changes/Open WebUI/2025-09-17-oauth-token-retrieval-logic-was-refactored-improving-the-reliability-and-consist|\U0001F512
   OAuth token retrieval logic was refactored, improving the reliability…]]"
+- '[[Changes/Devin/2025-09-19-removed-login-hint-in-new-user-authentication-flow-due-to-inconsistent-behavior|Removed
+  login\hint in new user authentication flow due to inconsistent behavior…]]'
 - '[[Changes/Dify/2025-09-22-chore-remove-weird-account-login-by-zalcit-in-https-github-com-langgenius-dify-p|chore:
   remove weird account login]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-09-25-v0-6-31-github-250127383-773b3ead|open-webui-2025-09-25-v0-6-31-github-250127383-773b3ead]]'

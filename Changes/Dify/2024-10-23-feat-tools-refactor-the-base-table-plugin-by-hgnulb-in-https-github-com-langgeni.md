@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 01a0b8bca9e125d7128ed931ae649df1680c1f48ddd682343b37ff2cc7ec3b07
+machine_hash: 4fbf6e4bab67729efa795523a877cc953de694b93cb1e6571912dcbb11731d59
 product: dify
 product_name: Dify
 record:
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2024-10-14 · Dify · [[Changes/Dify/2024-10-14-4-apps-and-integrations-changes-in-0-9-2|4 Apps and Integrations changes in 0.9.2]]
-- Later: 2024-10-26 · Open WebUI · [[Changes/Open WebUI/2024-10-26-feedback-export-enhancements-feedback-history-data-can-now-be-exported-to-json-a|🔧 Feedback Export Enhancements]]
+- Later: 2024-10-25 · AnythingLLM · [[Changes/AnythingLLM/2024-10-25-github-data-connector-improvements-by-shatfield4-in-https-github-com-mintplex-la|Github data connector improvements]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

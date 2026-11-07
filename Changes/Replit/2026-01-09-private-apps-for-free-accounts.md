@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: a56d72f3754dde69a3a742d330424bfbbaf7aa6d8f5facc9c60beac3ad30cd06
+machine_hash: 7a04965ce05417e0f77c61482de48971a47c6166137c7597a80b3195c108296e
 product: replit
 product_name: Replit
 record:
@@ -43,8 +43,7 @@ record:
   title: Private apps for free accounts
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-01-09-2-apps-and-integrations-changes-in-rust-v0-80-0|2
-  Apps and Integrations changes in rust-v0.80.0]]'
+- '[[Changes/Devin/2026-01-09-native-linear-integration|Native Linear Integration]]'
 - '[[Changes/Open WebUI/2026-01-09-3-apps-and-integrations-changes-in-v0-7-0|3 Apps
   and Integrations changes in v0.7.0]]'
 - '[[Changes/OpenCode/2026-01-09-2-apps-and-integrations-changes-in-v1-1-10|2 Apps

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 585590ee38f4824d7641c8129e13cabe69944f5d539145e5e9a8cded84b1b194
+machine_hash: 2d7b975f1fb35582e0ddf4f100e91b3e454848e0929606f7fb4c9dbd1da9fce8
 product: dify
 product_name: Dify
 record:
@@ -70,9 +70,9 @@ record:
   title: 9 Apps and Integrations changes in 1.0.0
   type: change
 related_changes:
-- '[[Changes/Replit/2025-02-21-one-click-deploy-for-assistant|One-click deploy for
-  Assistant]]'
-- "[[Changes/Replit/2025-02-21-replit-grok|Replit \U0001F91D Grok]]"
+- '[[Changes/Raycast/2025-02-26-raycast-focus-added-an-option-to-define-apps-websites-you-want-to-allow-instead|Raycast
+  Focus: Added an option to define apps & websites you want to allow instead…]]'
+- '[[Changes/Raycast/2025-02-26-introducing-ai-extensions|Introducing: AI Extensions]]'
 - '[[Changes/Open WebUI/2025-02-27-2-apps-and-integrations-changes-in-v0-5-17|2 Apps
   and Integrations changes in v0.5.17]]'
 source_release: '[[Releases/Dify/dify-2025-02-28-1-0-0-github-202962689-d5695ce1|dify-2025-02-28-1-0-0-github-202962689-d5695ce1]]'

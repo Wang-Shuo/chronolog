@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: c10dae626685995fb29b4e57bb7e44c714df5b4ec9e4e04a237870c0648aabf4
+machine_hash: 5fd350bbbb01601d20084303bf764beca273ad9cf1f8256881267f3aea2733e7
 product: descript
 product_name: Descript
 record:
@@ -93,7 +93,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2023-08-08 · Notion · [[Changes/Notion/2023-08-08-little-fixes-big-improvements|Little fixes = big improvements]]
-- Later: 2023-08-14 · Descript · [[Changes/Descript/2023-08-14-added-selection-options-to-the-new-button-in-drive-view|Added selection options to the New button in Drive view]]
+- Later: 2023-08-12 · Superwhisper · [[Changes/Superwhisper/2023-08-12-new-settings-layout-and-ui-improvements|New settings layout and UI improvements]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

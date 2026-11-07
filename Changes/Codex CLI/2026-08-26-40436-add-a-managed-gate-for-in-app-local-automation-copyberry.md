@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 49db2ce046dd334129fef6c0997eddd2143db5561f8da170c03b843d89c114f6
+machine_hash: 3362af3ff5397b450d6c1bbb320ce4690d7a296598491f3d60b8c5c8e9758015
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -89,7 +89,7 @@ type: change
 ## Nearby in Automation and Scheduling
 
 - Earlier: 2026-08-25 · Open WebUI · [[Changes/Open WebUI/2026-08-25-11-automation-and-scheduling-changes-in-v0-11-1|11 Automation and Scheduling changes in v0.11.1]]
-- Later: 2026-08-27 · Claude Code · [[Changes/Claude Code/2026-08-27-changed-loop-self-paced-dynamic-mode-and-the-no-prompt-autonomous-default-are-no|Changed /loop: self-paced dynamic mode and the no-prompt autonomous default…]]
+- Later: 2026-08-26 · Devin · [[Changes/Devin/2026-08-26-improve-existing-automations-with-devin|Improve Existing Automations with Devin]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

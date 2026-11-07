@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b6bac3c35d13b97e56db7eacdb30bc939e8456c3893207f73d8ea0c00b2e8514
+machine_hash: 86df7cefe9a4989c3767f8430d5937646554e643e0ed8fd9342a3017822b8792
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -44,10 +44,12 @@ record:
   title: Audio is deleted once your notes are ready and can’t be accessed or replayed
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-09-28-voice-design|Voice Design]]'
-- '[[Changes/ElevenLabs/2026-09-28-eleven-v4-and-eleven-v4-turbo|Eleven v4 and Eleven
-  v4 Turbo]]'
-- '[[Changes/ElevenLabs/2026-09-28-speech-to-text-d0afb0|Speech to Text]]'
+- '[[Changes/Raycast/2026-09-28-ai-chat-dictation-with-ctrl-m-in-the-ai-chat-and-quick-ai-composers-now-uses-the|AI
+  Chat : Dictation with Ctrl + M in the AI Chat and Quick AI composers now uses…]]'
+- '[[Changes/Raycast/2026-09-28-ai-chat-dictation-with-ctrl-m-in-the-ai-chat-and-quick-ai-composers-now-uses-the-d03715|AI
+  Chat : Dictation with Ctrl + M in the AI Chat and Quick AI composers now uses…]]'
+- '[[Changes/Wispr Flow/2026-09-28-scratchpad-sync-works-independently-of-dictation-storage-desktop|Scratchpad
+  sync works independently of dictation storage (Desktop)]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-29-meetings-plugin-157dcc24|chatgpt-2026-09-29-meetings-plugin-157dcc24]]'
 source_type: chatgpt_changelog
 theme: voice
@@ -76,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-09-28 · ElevenLabs · [[Changes/ElevenLabs/2026-09-28-speech-to-text-d0afb0|Speech to Text]]
+- Earlier: 2026-09-28 · Wispr Flow · [[Changes/Wispr Flow/2026-09-28-scratchpad-sync-works-independently-of-dictation-storage-desktop|Scratchpad sync works independently of dictation storage (Desktop)]]
 - Later: 2026-09-29 · Codex CLI · [[Changes/Codex CLI/2026-09-29-48824-keep-voice-rtp-timestamps-aligned-to-20-ms-packets-bc-openai|♯48824 Keep voice RTP timestamps aligned to 20 ms packets @bc-openai]]
 <!-- chronolog:end -->
 

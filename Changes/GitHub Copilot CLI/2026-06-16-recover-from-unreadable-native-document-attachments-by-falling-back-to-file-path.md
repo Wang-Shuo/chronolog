@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1b5b0fcca8b8513f8c9bd501a3019aec79ca5273053fd0dc7df26cb60b71f0b1
+machine_hash: 7b8ce2c750668300ef14d423c4a23d04fab2a75aa08402284de3695f1f1d53dc
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,12 +45,12 @@ record:
     uploads
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-06-08-full-screen-writing-blocks-for-longer-form-work-writing-blocks-now-cover-long-fo|Full-screen
-  writing blocks for longer-form work]]'
 - '[[Changes/Google Antigravity/2026-06-11-quota-screen-redesign-and-pdf-support|Quota
   Screen Redesign and PDF Support]]'
 - '[[Changes/Replit/2026-06-12-add-visual-references-when-you-generate-media-on-canvas|Add
   visual references when you generate media on Canvas]]'
+- '[[Changes/AnythingLLM/2026-06-16-2-files-and-data-changes-in-v1-14-1|2 Files and
+  Data changes in v1.14.1]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-06-16-v1-0-63-github-339856552-a4891c49|github-copilot-cli-2026-06-16-v1-0-63-github-339856552-a4891c49]]'
 source_type: github_releases
 theme: file-data
@@ -85,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2026-06-12 · Replit · [[Changes/Replit/2026-06-12-add-visual-references-when-you-generate-media-on-canvas|Add visual references when you generate media on Canvas]]
+- Earlier: 2026-06-16 · AnythingLLM · [[Changes/AnythingLLM/2026-06-16-2-files-and-data-changes-in-v1-14-1|2 Files and Data changes in v1.14.1]]
 - Later: 2026-06-22 · Codex CLI · [[Changes/Codex CLI/2026-06-22-29086-document-raw-response-item-compatibility-jif-oai|♯29086 Document raw response item compatibility @jif-oai]]
 <!-- chronolog:end -->
 

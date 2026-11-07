@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: cd07408069432634444dd80d18f15f2f54dde699cd06de4646d69825855bfce6
+machine_hash: 6fe93d67f8f925c610198169b9f8982aed44b94c88bd78608cf28d3f4f1c3067
 product: cursor
 product_name: Cursor
 record:
@@ -48,7 +48,8 @@ record:
   title: Upgraded voice input
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-04-07-speech-to-text-f6e004|Speech to Text]]'
+- '[[Changes/Superwhisper/2026-04-08-2-voice-and-audio-changes-in-superwhisper-macos-2-12-0|2
+  Voice and Audio changes in Superwhisper macOS 2.12.0]]'
 - '[[Changes/Codex CLI/2026-04-10-3-voice-and-audio-changes-in-rust-v0-119-0|3 Voice
   and Audio changes in rust-v0.119.0]]'
 - '[[Changes/Cursor/2026-04-13-prompt-buttons-now-stay-in-place-while-voice-input-is-processing|Prompt

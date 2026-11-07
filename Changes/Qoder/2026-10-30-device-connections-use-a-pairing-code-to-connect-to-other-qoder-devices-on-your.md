@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9d35692c9a5cecc3b449a579d511d7943db54cf308c633506a2bb4bbd5e16358
+machine_hash: 39bf10ac15db211c392f5e055ced87946adbf30490ce7466d742531de2ecf5d0
 product: qoder
 product_name: Qoder
 record:
@@ -47,8 +47,8 @@ record:
   title: '**Device connections**: Use a pairing code to connect to other Qoder devices…'
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-10-27-2-search-and-browsing-changes-in-v2-2-0|2 Search
-  and Browsing changes in v2.2.0]]'
+- '[[Changes/Raycast/2026-10-28-ai-chat-improved-ctrl-p-search-and-show-chat-statuses-while-browsing|AI
+  Chat : Improved ctrl+P search and show chat statuses while browsing]]'
 - '[[Changes/Codex CLI/2026-10-29-57542-add-model-gated-literature-search-to-standalone-web-search-rhan-oai|♯57542
   Add model-gated literature search to standalone web search @rhan-oai]]'
 - '[[Changes/OpenCode/2026-10-29-2-search-and-browsing-changes-in-v2-2-1|2 Search

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 10a6767ba4209191366d304c3582823455336291fd411c335ae18efa0260afd9
+machine_hash: 5fe11a45232816f8c915108edd778f0320833de418b935cffbd6af5d3f9a2b35
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -69,10 +69,12 @@ record:
   title: Python SDK
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-04-20-speech-to-text-c85018|Speech to Text]]'
-- '[[Changes/ElevenLabs/2026-04-20-other|Other]]'
-- '[[Changes/Open WebUI/2026-04-21-4-voice-and-audio-changes-in-v0-9-0|4 Voice and
-  Audio changes in v0.9.0]]'
+- '[[Changes/Superwhisper/2026-04-22-progress-indicator-for-file-decoding-and-transcription-progress-applies-to-whisp|Progress
+  indicator for file decoding and transcription progress…]]'
+- '[[Changes/Wispr Flow/2026-04-24-quick-dictation-to-notes-shortcut-ios|Quick Dictation
+  to Notes shortcut (iOS)]]'
+- '[[Changes/Wispr Flow/2026-04-24-copy-button-after-dictation-android|Copy button
+  after dictation (Android)]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-04-27-2026-04-27-7b6333fc|elevenlabs-2026-04-27-2026-04-27-7b6333fc]]'
 source_type: elevenlabs_changelog
 theme: voice
@@ -112,7 +114,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-04-21 · Open WebUI · [[Changes/Open WebUI/2026-04-21-4-voice-and-audio-changes-in-v0-9-0|4 Voice and Audio changes in v0.9.0]]
+- Earlier: 2026-04-24 · Wispr Flow · [[Changes/Wispr Flow/2026-04-24-copy-button-after-dictation-android|Copy button after dictation (Android)]]
 - Later: 2026-04-28 · Claude Code · [[Changes/Claude Code/2026-04-28-vscode-voice-dictation-now-respects-the-accessibility-voice-speechlanguage-setti|VSCode Voice dictation now respects the accessibility.voice.speechLanguage…]]
 <!-- chronolog:end -->
 

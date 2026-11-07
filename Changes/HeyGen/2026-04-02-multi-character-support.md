@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: presentation-creation
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: d763d094e3460a844305a17f07256ff998d0aa90f955babff5b1864d13d414e2
+machine_hash: 21e450abce94fb7723cde9a57faba4c467d121e95e574d3593d402b8fdc42b6b
 product: heygen
 product_name: HeyGen
 record:
@@ -45,12 +45,12 @@ record:
   title: Multi-character support
   type: change
 related_changes:
-- '[[Changes/Microsoft 365 Copilot/2026-02-24-use-copilot-to-get-a-detailed-and-contextual-explanation-web-windows-mac-powerpo|Use
-  Copilot to get a detailed and contextual explanation Web, Windows, Mac (PowerPoint)]]'
 - '[[Changes/OpenCode/2026-03-12-core-adjust-skill-presentation-to-reduce-token-usage|Core
   Adjust skill presentation to reduce token usage]]'
 - '[[Changes/Notion/2026-03-26-finally-a-proper-presentation-mode|Finally, a proper
   presentation mode!]]'
+- '[[Changes/AnythingLLM/2026-04-02-we-have-added-a-new-built-in-agent-for-document-generation-https-docs-anythingll|AnythingLLM
+  adds a new built-in agent for Document…]]'
 source_release: '[[Releases/HeyGen/heygen-2026-04-02-https-heygen-noticeable-news-publications-heygen-x-seedance-2-0-c0a2dc4e|heygen-2026-04-02-https-heygen-noticeable-news-publications-heygen-x-seedance-2-0-c0a2dc4e]]'
 source_type: heygen_changelog
 theme: presentation-creation
@@ -80,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Presentation Creation
 
-- Earlier: 2026-03-26 · Notion · [[Changes/Notion/2026-03-26-finally-a-proper-presentation-mode|Finally, a proper presentation mode!]]
+- Earlier: 2026-04-02 · AnythingLLM · [[Changes/AnythingLLM/2026-04-02-we-have-added-a-new-built-in-agent-for-document-generation-https-docs-anythingll|AnythingLLM adds a new built-in agent for Document…]]
 - Later: 2026-05-15 · Gamma · [[Changes/Gamma/2026-05-15-your-fonts-travel-with-your-cards-now|Your fonts travel with your cards now]]
 <!-- chronolog:end -->
 

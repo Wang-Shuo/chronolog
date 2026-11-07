@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d92c4406566c2d0520796abdfda1865651d4c8c35e5a63e68bcb4a76e88ba1a2
+machine_hash: ad1539ff102d32075f3696cf6f27170bb7492c0ec0f579a8d4c447d676cac895
 product: openclaw
 product_name: OpenClaw
 record:
@@ -90,12 +90,12 @@ record:
   title: 9 Voice and Audio changes in v2026.8.2
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-08-31-follow-along-outside-the-app-live-activities-can-show-content-from-your-voice-co|Follow
-  along outside the app]]'
-- '[[Changes/ChatGPT/2026-08-31-to-continue-a-voice-conversation-outside-chatgpt-turn-on-background-conversation|To
-  continue a Voice conversation outside ChatGPT, turn on Background conversations…]]'
 - '[[Changes/OpenClaw/2026-08-31-2-voice-and-audio-changes-in-v2026-8-1|2 Voice and
   Audio changes in v2026.8.1]]'
+- '[[Changes/Raycast/2026-08-31-dictation-improved-connection-reliability-automatically-stops-when-leaving-a-cha|Dictation
+  : Improved connection reliability, automatically stops when leaving…]]'
+- '[[Changes/Krea/2026-09-01-reference-to-video-for-minimax-h3-max|Reference-to-video
+  for MiniMax H3 Max]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-09-01-v2026-8-2-cca64187|openclaw-2026-09-01-v2026-8-2-cca64187]]'
 source_type: openclaw_changelog
 theme: voice
@@ -157,7 +157,7 @@ Source: https://docs.openclaw.ai/releases/2026.8.2
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-08-31 · OpenClaw · [[Changes/OpenClaw/2026-08-31-2-voice-and-audio-changes-in-v2026-8-1|2 Voice and Audio changes in v2026.8.1]]
+- Earlier: 2026-09-01 · Krea · [[Changes/Krea/2026-09-01-reference-to-video-for-minimax-h3-max|Reference-to-video for MiniMax H3 Max]]
 - Later: 2026-09-01 · Synthesia · [[Changes/Synthesia/2026-09-01-browse-featured-voices-filter-by-language-or-accent-and-preview-instantly-all-in|Find the right voice faster with the refreshed voice picker]]
 <!-- chronolog:end -->
 

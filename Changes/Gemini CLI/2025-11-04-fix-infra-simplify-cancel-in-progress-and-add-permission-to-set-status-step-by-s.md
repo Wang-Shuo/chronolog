@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 225aa99566ea91eabc271827823a730266d8f61b6dd976531351dfaa8b87aa13
+machine_hash: 4dc67f5762c32f6615cc4ffc624150fe93d98599878d31e667eff01d73b46303
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -45,10 +45,10 @@ record:
     step
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-10-29-3-safety-and-privacy-changes-in-0-60-0|3 Safety
-  and Privacy changes in 0.60.0]]'
 - '[[Changes/Codex CLI/2025-10-30-3-safety-and-privacy-changes-in-rust-v0-52-0|3 Safety
   and Privacy changes in rust-v0.52.0]]'
+- '[[Changes/Raycast/2025-10-31-keyboard-privacy-statement-accessible-from-settings-in-the-app|Keyboard:
+  Privacy statement, accessible from settings in the app]]'
 - '[[Changes/Codex CLI/2025-11-04-3-safety-and-privacy-changes-in-rust-v0-54-0|3 Safety
   and Privacy changes in rust-v0.54.0]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-11-04-v0-12-0-github-259722512-acf05c2e|gemini-cli-2025-11-04-v0-12-0-github-259722512-acf05c2e]]'

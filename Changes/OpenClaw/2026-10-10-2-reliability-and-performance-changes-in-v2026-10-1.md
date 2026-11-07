@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ba93f16cd8722a29e7ab0ef3504a7dfd8dbfd07c63cada400e91bc3a76d95873
+machine_hash: 427c8d70a117ebd86bfb9c50729621cd4a98d8d39714a2ba3602a4874b782725
 product: openclaw
 product_name: OpenClaw
 record:
@@ -51,10 +51,10 @@ record:
   title: 2 Reliability and Performance changes in v2026.10.1
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-10-08-models-downloaded-with-earlier-versions-of-ollama-are-upgraded-in-the-background|Models
-  downloaded with earlier versions of Ollama are upgraded in the background…]]'
-- '[[Changes/Claude Code/2026-10-09-improved-transcript-toggle-ctrl-o-responsiveness-in-code-heavy-conversations-by|Improved
-  transcript toggle (ctrl+o) responsiveness in code-heavy conversations…]]'
+- '[[Changes/Raycast/2026-10-09-ai-improved-quick-fix-performance|AI: Improved Quick
+  Fix performance]]'
+- '[[Changes/Raycast/2026-10-09-3-reliability-and-performance-changes-in-raycast-macos-2-7|3
+  Reliability and Performance changes in Raycast macos 2.7]]'
 - '[[Changes/Open WebUI/2026-10-10-5-reliability-and-performance-changes-in-v0-12-0|5
   Reliability and Performance changes in v0.12.0]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-10-10-v2026-10-1-d64e4e93|openclaw-2026-10-10-v2026-10-1-d64e4e93]]'

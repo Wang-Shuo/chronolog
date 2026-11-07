@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e79c6a3df99889a4b4474d4ef14bc291e50cc691b19f39d58c25ed67133d49a2
+machine_hash: 698643c54f847e2b6cdf598c620a2d9157fb57b09ba42b8e06ebe5376e0d5cc4
 product: open-webui
 product_name: Open WebUI
 record:
@@ -51,8 +51,8 @@ record:
   title: 3 Model Support changes in v0.6.14
   type: change
 related_changes:
-- '[[Changes/Ollama/2025-06-09-6-model-support-changes-in-v0-9-1|6 Model Support changes
-  in v0.9.1]]'
+- '[[Changes/AnythingLLM/2025-06-10-3-model-support-changes-in-v1-8-2|3 Model Support
+  changes in v1.8.2]]'
 - '[[Changes/ChatGPT/2025-06-10-like-o1-pro-o3-pro-is-a-version-of-our-most-intelligent-model-o3-designed-to-thi-32668a|ChatGPT
   launches OpenAI o3-pro—available now for Pro users and in our API]]'
 - '[[Changes/Cline/2025-06-10-free-grok-model-available-access-grok-3-completely-free-through-the-cline-provid|Free

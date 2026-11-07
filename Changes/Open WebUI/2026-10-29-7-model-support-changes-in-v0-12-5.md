@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a6c3247f35aedd91f5a172093864fa3c3f641f0d0d41de85a2d0f1c32d7fba52
+machine_hash: 056de485c129ee4b235602f0f07f64484765a75665b5248d49c16dccb9ad5850
 product: open-webui
 product_name: Open WebUI
 record:
@@ -74,10 +74,10 @@ record:
   title: 7 Model Support changes in v0.12.5
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-10-27-refactor-settings-use-existing-model-profile-theme-aliases-by-enyst-in-https-git|refactor(settings):
-  use existing model-profile theme aliases]]'
-- '[[Changes/Kimi Code/2026-10-28-add-provider-refresh-providerid-to-re-fetch-provider-model-lists-at-runtime|Add
-  /provider refresh providerId to re-fetch provider model lists at runtime]]'
+- '[[Changes/Raycast/2026-10-28-ai-added-the-same-reasoning-effort-shortcut-to-model-preference|AI:
+  Added the same reasoning effort shortcut to model preference]]'
+- '[[Changes/Raycast/2026-10-28-ai-added-the-same-reasoning-effort-shortcut-to-model-preference-838a1e|AI:
+  Added the same reasoning effort shortcut to model preference]]'
 - '[[Changes/Codex CLI/2026-10-29-10-model-support-changes-in-rust-v0-166-0|10 Model
   Support changes in rust-v0.166.0]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-10-29-v0-12-5-github-427647877-d6957e2e|open-webui-2026-10-29-v0-12-5-github-427647877-d6957e2e]]'

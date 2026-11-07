@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7495d5658bbc76a8e873e1349514eeb3a8dbfedbd33a445d1c830b4e53c3a08c
+machine_hash: 992da5ee733d4c06227cead739b46304fba6c1c20f9be69e121ce9abb3589400
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -43,10 +43,11 @@ record:
   title: Improved response display of nested blockquote content
   type: change
 related_changes:
-- '[[Changes/Dify/2025-03-11-2-interface-experience-changes-in-1-0-1|2 Interface Experience
-  changes in 1.0.1]]'
-- '[[Changes/Lovable/2025-03-14-we-ve-made-some-improvement-to-lovable-s-project-settings-layout-for-a-more-intu|Lovable
-  makes some improvement to Lovable’s project settings layout for a more…]]'
+- '[[Changes/Raycast/2025-03-14-alias-set-for-the-emoji-picker-should-now-be-correctly-saved|Alias
+  set for the Emoji Picker should now be correctly saved]]'
+- "[[Changes/Raycast/2025-03-14-today-we-are-releasing-the-first-iteration-of-our-emoji-picker-to-help-you-expre|Today
+  we are releasing the first iteration of our Emoji Picker \U0001F389 to help you
+  express…]]"
 - '[[Changes/ChatGPT/2025-03-18-added-long-press-on-your-message-to-open-menu-actions-copy-edit|Added
   long press on your message to open menu actions: Copy, Edit]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-03-18-ios-app-6a42bb0f|chatgpt-2025-03-18-ios-app-6a42bb0f]]'
@@ -79,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2025-03-14 · Lovable · [[Changes/Lovable/2025-03-14-we-ve-made-some-improvement-to-lovable-s-project-settings-layout-for-a-more-intu|Lovable makes some improvement to Lovable’s project settings layout for a more…]]
+- Earlier: 2025-03-14 · Raycast · [[Changes/Raycast/2025-03-14-today-we-are-releasing-the-first-iteration-of-our-emoji-picker-to-help-you-expre|Today we are releasing the first iteration of our Emoji Picker 🎉 to help you express…]]
 - Later: 2025-03-21 · Aider · [[Changes/Aider/2025-03-21-3-interface-experience-changes-in-v0-78-0|3 Interface Experience changes in v0.78.0]]
 <!-- chronolog:end -->
 

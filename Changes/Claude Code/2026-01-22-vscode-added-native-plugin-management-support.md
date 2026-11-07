@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 9b1f2bb8a82a7bc86778b82aae17ae0d07b775ca458808f80f5937e0a86e1334
+machine_hash: 263d1c2fb29048bb1e7d1812f9646d96e5fff995da4488d9e787ae0723f7c038
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,12 +42,12 @@ record:
   title: '[VSCode] Added native plugin management support'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-01-21-3-apps-and-integrations-changes-in-rust-v0-88-0|3
-  Apps and Integrations changes in rust-v0.88.0]]'
 - '[[Changes/Gemini CLI/2026-01-21-10-apps-and-integrations-changes-in-v0-25-0|10
   Apps and Integrations changes in v0.25.0]]'
 - '[[Changes/v0/2026-01-21-improved-integration-card-design-with-less-prominent-skip-button|Improved
   integration card design with less prominent skip button]]'
+- '[[Changes/AnythingLLM/2026-01-22-5-apps-and-integrations-changes-in-v1-10-0|5 Apps
+  and Integrations changes in v1.10.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-22-v2-1-16-github-279146529-0e5b3428|claude-code-2026-01-22-v2-1-16-github-279146529-0e5b3428]]'
 source_type: github_releases
 theme: apps-integrations
@@ -77,7 +77,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-01-21 · v0 · [[Changes/v0/2026-01-21-improved-integration-card-design-with-less-prominent-skip-button|Improved integration card design with less prominent skip button]]
+- Earlier: 2026-01-22 · AnythingLLM · [[Changes/AnythingLLM/2026-01-22-5-apps-and-integrations-changes-in-v1-10-0|5 Apps and Integrations changes in v1.10.0]]
 - Later: 2026-01-22 · Codex CLI · [[Changes/Codex CLI/2026-01-22-2-apps-and-integrations-changes-in-rust-v0-89-0|2 Apps and Integrations changes in rust-v0.89.0]]
 <!-- chronolog:end -->
 

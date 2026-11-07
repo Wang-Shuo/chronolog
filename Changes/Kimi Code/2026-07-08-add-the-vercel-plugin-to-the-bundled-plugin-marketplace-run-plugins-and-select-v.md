@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 39aa8967761f68d319945eb7d9ce80cdb8c8b66644e69d754e72874e01eba4f7
+machine_hash: 9376af2aad9057076b4a191a3c0702431e31b2f296de4153f6f7cfddb7d1f83c
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -44,12 +44,11 @@ record:
   title: Add the Vercel plugin to the bundled plugin marketplace
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-08-reserved-the-claude-browser-mcp-server-name-alongside-claude-preview-ahead-of-th|Reserved
-  the "Claude Browser" MCP server name (alongside "Claude Preview") ahead…]]'
-- '[[Changes/Codex CLI/2026-07-08-66-apps-and-integrations-changes-in-rust-v0-143-0|66
-  Apps and Integrations changes in rust-v0.143.0]]'
 - '[[Changes/Codex CLI/2026-07-08-remote-plugins-are-now-enabled-by-default-with-richer-catalog-rows-npm-marketpla|Remote
   plugins are now enabled by default, with richer catalog rows, npm marketplace…]]'
+- '[[Changes/Devin/2026-07-08-mobbin-mcp-server|Mobbin MCP Server]]'
+- '[[Changes/Devin/2026-07-08-apply-environment-config-suggestions-from-slack|Apply
+  Environment Config Suggestions from Slack]]'
 source_release: '[[Releases/Kimi Code/kimi-code-2026-07-08-0-23-2-9a81d837|kimi-code-2026-07-08-0-23-2-9a81d837]]'
 source_type: kimi_code_changelog
 theme: apps-integrations
@@ -82,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-07-08 · Codex CLI · [[Changes/Codex CLI/2026-07-08-remote-plugins-are-now-enabled-by-default-with-richer-catalog-rows-npm-marketpla|Remote plugins are now enabled by default, with richer catalog rows, npm marketplace…]]
+- Earlier: 2026-07-08 · Devin · [[Changes/Devin/2026-07-08-apply-environment-config-suggestions-from-slack|Apply Environment Config Suggestions from Slack]]
 - Later: 2026-07-08 · Lovable · [[Changes/Lovable/2026-07-08-reference-a-connector-in-chat|Reference a connector in chat]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 50dc6349316602b721b32378f337eefb1e01ef9040800b73969ef5024bff9ea8
+machine_hash: b8909262817f2b2ab514aa183c7a71ca64372e5809f6b66c07710c575ca683c9
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,8 +43,7 @@ record:
     such…'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-29-changed-memory-so-that-auto-memory-can-no-longer-be-turned-on-from-a-background|Changed
-  /memory so that Auto-memory can no longer be turned on from a background…]]'
+- '[[Changes/Devin/2026-09-30-context-tab|Context Tab]]'
 - '[[Changes/OpenClaw/2026-09-30-15-memory-and-personalization-changes-in-v2026-9-7|15
   Memory and Personalization changes in v2026.9.7]]'
 - '[[Changes/ChatGPT/2026-10-01-virtually-try-on-clothing-and-accessories-a-try-on-button-will-appear-on-product|Virtually

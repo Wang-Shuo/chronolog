@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: policy
-machine_hash: daa954b7fe7309ce7492af68c2af05b88ff21420c11c130ca2b007cd11e57efb
+machine_hash: d0e99ae4c225e743100299e508d24425e3d22ffa909a649733d1970905d45c86
 product: gemini
 product_name: Gemini
 record:
@@ -107,7 +107,7 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2025-05-19 · ElevenLabs · [[Changes/ElevenLabs/2025-05-19-billing|Billing]]
-- Later: 2025-06-16 · Midjourney · [[Changes/Midjourney/2025-06-16-we-also-need-your-help-figuring-out-how-to-price-this-release-we-are-extremely-c|We also need your help figuring out how to price this release!]]
+- Later: 2025-05-22 · Recraft · [[Changes/Recraft/2025-05-22-cost-per-generation|Cost per generation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

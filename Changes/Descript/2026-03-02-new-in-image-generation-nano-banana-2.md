@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 69603057530a5f6d29da8edbe3dba9945b68796a3be41dd138d4a393c15e1239
+machine_hash: 73380b2fc72a1a6bd0e0f9d88f08ae882b03def5251f468767e0c11a6fd71e23
 product: descript
 product_name: Descript
 record:
@@ -47,8 +47,8 @@ record:
   title: New in image generation—Nano Banana 2**
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-02-16-chat-toggles-now-control-built-in-tools-users-can-now-disable-web-search-image-g|⚙️
-  Chat toggles now control built-in tools. Users can now disable web search…]]'
+- '[[Changes/Recraft/2026-02-18-we-ve-just-launched-recraft-v4-our-most-advanced-image-generation-model-yet-it-s|We’ve
+  just launched Recraft V4, our most advanced image generation model yet]]'
 - '[[Changes/Replit/2026-02-20-video-stack|Video Stack]]'
 - '[[Changes/Runway/2026-02-27-the-most-advanced-and-consistent-image-generation-and-editing-model-now-availabl|Nano
   Banana 2]]'

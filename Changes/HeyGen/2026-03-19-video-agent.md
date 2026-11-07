@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: f36b24269aa4ae5713f7a055d1057e82a3cf8ab927406a2ecb672638644b4b11
+machine_hash: 3ff4cd52ec397748d41f9da206f0f38a773cd5e9cc36edefb087a6b4b213f13d
 product: heygen
 product_name: HeyGen
 record:
@@ -46,8 +46,8 @@ record:
   title: Video Agent
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-03-17-you-can-ask-your-openclaw-to-run-tasks-using-claude-with-subagents|You
-  can ask your OpenClaw to run tasks using claude with subagents]]'
+- '[[Changes/AnythingLLM/2026-03-18-5-agent-mode-changes-in-v1-11-2|5 Agent Mode changes
+  in v1.11.2]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-18-2-agent-mode-changes-in-v1-0-8|2 Agent
   Mode changes in v1.0.8]]'
 - '[[Changes/Codex CLI/2026-03-19-5-agent-mode-changes-in-rust-v0-116-0|5 Agent Mode

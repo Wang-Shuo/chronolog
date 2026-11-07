@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 152d6536b7e2953aa73624cb97387bfee808ffedf05ca246e70a13086c45714d
+machine_hash: f97b80a2769cc7447ac8439828398a9209c88194e10ce2ef24009cd75a5b7824
 product: gemini
 product_name: Gemini
 record:
@@ -56,9 +56,10 @@ record:
   title: Try the new Gemini app on your iPhone
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2024-10-07-apple-touch-icon-support-optimizes-the-display-of-icons-for-web-bookmarks-on-app|\U0001F34F
-  Apple Touch Icon Support]]"
-- '[[Changes/Suno/2024-10-16-download-suno-on-ios|Download Suno on iOS]]'
+- '[[Changes/Superwhisper/2024-10-25-use-macos-native-text-rendering-no-longer-renders-markdown|Use
+  macOS native text rendering (no longer renders Markdown)]]'
+- '[[Changes/Raycast/2024-11-06-misc-addressed-the-issue-with-macos-sequoia-15-0-beta-1-to-4-and-15-1-beta-1-whe|Misc:
+  Addressed the issue with macOS Sequoia 15.0 Beta 1 to 4 and 15.1 Beta 1, where…]]'
 - '[[Changes/Suno/2024-11-07-the-wait-is-almost-over-we-re-thrilled-to-announce-that-suno-is-coming-to-androi|Suno
   on Android is finally open to pre-registration!]]'
 source_release: '[[Releases/Gemini/gemini-2024-11-14-2024-11-14-ef982cd1|gemini-2024-11-14-2024-11-14-ef982cd1]]'

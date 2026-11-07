@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: cdd239b343d7e9c2f003f8afa5a3f2725e920766fd6f4a5577006adb8b5a573e
+machine_hash: 408f95602cd299494b53bd4fce7e831e782419a5896fef5e213212b447fda022
 product: claude-code
 product_name: Claude Code
 record:
@@ -79,7 +79,7 @@ type: change
 ## Nearby in Enterprise and Administration
 
 - Earlier: 2026-08-17 · Lovable · [[Changes/Lovable/2026-08-17-trust-center-is-now-disabled-by-default|Trust center is now disabled by default]]
-- Later: 2026-08-21 · Replit · [[Changes/Replit/2026-08-21-teams-and-enterprise|Teams and Enterprise]]
+- Later: 2026-08-21 · Devin · [[Changes/Devin/2026-08-21-replace-secret-values-in-place|Replace Secret Values in Place]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

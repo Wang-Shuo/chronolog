@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f17ef8c1a2b30b63a9943a559cff70743e887fad8313cad93ce8de3b0c246ed5
+machine_hash: eddd00ae944782db7756bd27bae4eaf1c98bcad92ffe3980f44687b022ba9543
 product: ollama
 product_name: Ollama
 record:
@@ -44,12 +44,11 @@ record:
   title: To clear the chat history for a session when running `ollama run`, use `/clear`
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2024-05-08-improved-chat-sidebar-now-conveniently-displays-time-ranges-and-organizes-chats|\U0001F5BC️
-  Improved Chat Sidebar]]"
-- '[[Changes/Dify/2024-05-09-improve-menu-collapse-readability-by-junice-in-https-github-com-langgenius-dify|improve:
-  menu collapse readability]]'
 - '[[Changes/Aider/2024-05-13-added-restore-chat-history-to-restore-prior-chat-history-on-launch-so-you-can-co|Added
   --restore-chat-history to restore prior chat history on launch, so you can…]]'
+- '[[Changes/Devin/2024-05-13-organizations-unlist-sessions|Organizations Unlist Sessions]]'
+- '[[Changes/Superwhisper/2024-05-13-major-improvements-to-messages-prompt-template-in-create-mode-menu|Major
+  improvements to messages prompt template in create mode menu]]'
 source_release: '[[Releases/Ollama/ollama-2024-05-15-v0-1-38-github-155764609-cc812676|ollama-2024-05-15-v0-1-38-github-155764609-cc812676]]'
 source_type: github_releases
 theme: interface-experience
@@ -80,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2024-05-13 · Aider · [[Changes/Aider/2024-05-13-added-restore-chat-history-to-restore-prior-chat-history-on-launch-so-you-can-co|Added --restore-chat-history to restore prior chat history on launch, so you can…]]
+- Earlier: 2024-05-13 · Superwhisper · [[Changes/Superwhisper/2024-05-13-major-improvements-to-messages-prompt-template-in-create-mode-menu|Major improvements to messages prompt template in create mode menu]]
 - Later: 2024-05-19 · Open WebUI · [[Changes/Open WebUI/2024-05-19-enhanced-sidebar-ui-model-files-documents-prompts-and-playground-merged-into-wor|📂 Enhanced Sidebar UI]]
 <!-- chronolog:end -->
 

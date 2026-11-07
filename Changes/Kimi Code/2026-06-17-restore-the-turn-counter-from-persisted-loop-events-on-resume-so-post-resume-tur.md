@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: faaa8bb26b10fd44ab97cc67ad61c929ebf38dfb6562414e0367f3613b5de3f6
+machine_hash: 12ffd623c951b07405f783cfefd9f8eb2a0105e7531b84301ec974e1a8a252b4
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -47,11 +47,11 @@ record:
     turns…
   type: change
 related_changes:
-- '[[Changes/Kimi Code/2026-06-15-do-not-carry-obsolete-legacy-loop-background-plan-yolo-or-unknown-experimental-f|Do
-  not carry obsolete legacy loop, background, plan, yolo, or unknown experimental…]]'
-- '[[Changes/ChatGPT/2026-06-17-users-can-schedule-work-for-specific-times-or-broader-windows-such-as-morning-af|Users
-  can schedule work for specific times or broader windows, such as morning…]]'
-- '[[Changes/ChatGPT/2026-06-17-update-on-pulse|Update on Pulse]]'
+- '[[Changes/Devin/2026-06-17-automations-slack-channel-updates|Automations: Slack
+  Channel Updates]]'
+- '[[Changes/Devin/2026-06-17-linear-projects-filter-for-triggers|Linear: Projects
+  Filter for Triggers]]'
+- '[[Changes/Devin/2026-06-17-automations-sidebar|Automations Sidebar]]'
 source_release: '[[Releases/Kimi Code/kimi-code-2026-06-17-0-17-0-a46ebdd4|kimi-code-2026-06-17-0-17-0-a46ebdd4]]'
 source_type: kimi_code_changelog
 theme: automation-scheduling
@@ -83,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2026-06-17 · ChatGPT · [[Changes/ChatGPT/2026-06-17-update-on-pulse|Update on Pulse]]
+- Earlier: 2026-06-17 · Devin · [[Changes/Devin/2026-06-17-automations-sidebar|Automations Sidebar]]
 - Later: 2026-06-18 · Cursor · [[Changes/Cursor/2026-06-18-computer-use-tool-for-automations|Computer use tool for automations]]
 <!-- chronolog:end -->
 

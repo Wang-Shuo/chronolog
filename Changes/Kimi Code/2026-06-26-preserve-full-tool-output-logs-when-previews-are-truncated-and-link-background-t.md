@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a95c6e79c7b5e00c0834516a205add30cdd362333c24d2bb24e93452cf722531
+machine_hash: 5410e783531b4c267c04ee28424473f0703ec7e519bdb30fc4e160f96ae6e2f0
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -44,12 +44,11 @@ record:
     task…
   type: change
 related_changes:
-- '[[Changes/Google Antigravity/2026-06-25-2-editor-experience-changes-in-hub-v2-2-1-antigravity-guide-audio|2
-  Editor Experience changes in HUB v2.2.1 — Antigravity Guide, audio…]]'
-- '[[Changes/OpenCode/2026-06-25-2-editor-experience-changes-in-v1-17-11|2 Editor
-  Experience changes in v1.17.11]]'
-- '[[Changes/Cline/2026-06-26-add-edit-and-regenerate-support-for-previous-user-messages-with-clearer-reset-ch|Add
-  edit-and-regenerate support for previous user messages, with clearer Reset Chat…]]'
+- '[[Changes/Devin/2026-06-26-post-build-section-for-blueprints|Post-Build Section
+  for Blueprints]]'
+- '[[Changes/Devin/2026-06-26-archive-unarchive-sessions-from-command-palette|Archive/Unarchive
+  Sessions from Command Palette]]'
+- '[[Changes/Devin/2026-06-26-usage-analytics-improvements|Usage Analytics Improvements]]'
 source_release: '[[Releases/Kimi Code/kimi-code-2026-06-26-0-20-0-920cae87|kimi-code-2026-06-26-0-20-0-920cae87]]'
 source_type: kimi_code_changelog
 theme: editor-experience
@@ -86,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-06-26 · Cline · [[Changes/Cline/2026-06-26-add-edit-and-regenerate-support-for-previous-user-messages-with-clearer-reset-ch|Add edit-and-regenerate support for previous user messages, with clearer Reset Chat…]]
+- Earlier: 2026-06-26 · Devin · [[Changes/Devin/2026-06-26-usage-analytics-improvements|Usage Analytics Improvements]]
 - Later: 2026-06-26 · Kimi Code · [[Changes/Kimi Code/2026-06-26-make-the-web-chat-input-grow-with-its-content-and-add-an-expandable-editor-for-l|Make the web chat input grow with its content and add an expandable editor…]]
 <!-- chronolog:end -->
 

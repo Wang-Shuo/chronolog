@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 77aeab8a559c5c95b0da9d82180e1617d7a19629fbee29f47e94b5418248b8f8
+machine_hash: 1cffc1c056591fc21830e2ac23d059808dacb1e0421f1d9ca5b889098b904485
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -45,8 +45,8 @@ record:
   title: 3 Interface Experience changes in rust-v0.92.0
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-01-22-2-interface-experience-changes-in-v1-1-32|2 Interface
-  Experience changes in v1.1.32]]'
+- '[[Changes/Raycast/2026-01-23-ai-commands-automate-repetitive-tasks-and-eliminate-chores-by-creating-ai-comman|AI
+  Commands: Automate repetitive tasks and eliminate chores by creating AI Commands…]]'
 - '[[Changes/Codex CLI/2026-01-25-9512-fix-resume-picker-when-user-event-appears-after-head-jdsalasca|♯9512
   Fix resume picker when user event appears after head @jdsalasca]]'
 - '[[Changes/Claude Code/2026-01-27-2-interface-experience-changes-in-v2-1-20|2 Interface

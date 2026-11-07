@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c5a7480f7e51bbc3ce5bacfe85fb7a2c63a61fd4eb02fdb6826b17a70f45c52a
+machine_hash: fef81edc689e4e0134bba9672fb27a39ac6815c67c0ffecea8c6084663c4f284
 product: claude-code
 product_name: Claude Code
 record:
@@ -87,7 +87,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-02-02 · ElevenLabs · [[Changes/ElevenLabs/2026-02-02-eleven-v3|Eleven v3]]
-- Later: 2026-02-03 · Dify · [[Changes/Dify/2026-02-03-feat-use-xdist-to-make-make-test-faster-by-yihong0618-in-https-github-com-langge|feat: use xdist to make make test faster]]
+- Later: 2026-02-03 · Devin · [[Changes/Devin/2026-02-03-various-bug-fixes-and-performance-improvements-across-the-platform|Various bug fixes and performance improvements across the platform]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

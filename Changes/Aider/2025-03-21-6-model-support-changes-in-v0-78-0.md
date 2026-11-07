@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b00055eb6aa79bbffb0f22da1954168ea951af534fd02490b740367ed95d3c69
+machine_hash: bc0aa240e30a08a82f2d5b562050a09d0167ca112bb412ae9ded425845f95975
 product: aider
 product_name: Aider
 record:
@@ -54,12 +54,11 @@ record:
   title: 6 Model Support changes in v0.78.0
   type: change
 related_changes:
-- '[[Changes/Dify/2025-03-18-2-model-support-changes-in-1-1-0|2 Model Support changes
-  in 1.1.0]]'
 - '[[Changes/OpenHands/2025-03-18-make-microagents-available-in-the-event-stream-as-recall-observations-accessible|Make
   microagents available in the event stream as recall observations…]]'
 - '[[Changes/Dify/2025-03-20-2-model-support-changes-in-1-1-1|2 Model Support changes
   in 1.1.1]]'
+- '[[Changes/Superwhisper/2025-03-20-speed-model-improvements|Speed & Model Improvements]]'
 source_release: '[[Releases/Aider/aider-2025-03-21-v0-78-0-github-207521806-fc6d03b9|aider-2025-03-21-v0-78-0-github-207521806-fc6d03b9]]'
 source_type: github_releases
 theme: model-support
@@ -103,7 +102,7 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.78.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-03-20 · Dify · [[Changes/Dify/2025-03-20-2-model-support-changes-in-1-1-1|2 Model Support changes in 1.1.1]]
+- Earlier: 2025-03-20 · Superwhisper · [[Changes/Superwhisper/2025-03-20-speed-model-improvements|Speed & Model Improvements]]
 - Later: 2025-03-23 · Cursor · [[Changes/Cursor/2025-03-23-2-model-support-changes-in-0-48-x|2 Model Support changes in 0.48.x]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 6a7da4679f281e6634ebb982ede3dac0386b50b53ec67014bff8bf80f416b1de
+machine_hash: 619ccb042ccc6601ee9fd02d0927ae6731e27cde6b4e8382dd96fd716eee6269
 product: cursor
 product_name: Cursor
 record:
@@ -74,10 +74,10 @@ record:
   title: Conversation search
   type: change
 related_changes:
-- '[[Changes/Cline/2026-07-09-2-interface-experience-changes-in-v4-0-7|2 Interface
-  Experience changes in v4.0.7]]'
-- '[[Changes/Codex CLI/2026-07-09-3-interface-experience-changes-in-rust-v0-144-0|3
-  Interface Experience changes in rust-v0.144.0]]'
+- '[[Changes/Raycast/2026-07-09-you-can-now-edit-any-message-you-ve-sent-in-ai-chat-just-hit-the-edit-button-use-a64a2e|Edit
+  any message you''ve sent in AI Chat]]'
+- '[[Changes/Raycast/2026-07-09-ai-chat-edit-previously-sent-messages-via-the-edit-button-hotkey-or-by-pressing|AI
+  Chat : Edit previously sent messages via the edit button, hotkey, or by pressing…]]'
 - '[[Changes/Suno/2026-07-09-real-writing-environment|Real writing environment]]'
 source_release: '[[Releases/Cursor/cursor-2026-07-10-3-11-https-cursor-com-changelog-side-chat-c762410d|cursor-2026-07-10-3-11-https-cursor-com-changelog-side-chat-c762410d]]'
 source_type: cursor_changelog
@@ -115,7 +115,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-07-09 · Suno · [[Changes/Suno/2026-07-09-real-writing-environment|Real writing environment]]
-- Later: 2026-07-10 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-10-4-interface-experience-changes-in-v1-0-70|4 Interface Experience changes in v1.0.70]]
+- Later: 2026-07-10 · Devin · [[Changes/Devin/2026-07-10-streamlined-copy-actions|Streamlined Copy Actions]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

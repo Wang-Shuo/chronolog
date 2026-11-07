@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: ce9a6c2cef209bd5b3dad7bd821db7c6fe46cfcd30aa280fe0985f17b3b8e343
+machine_hash: b902215d1b7229cb0d02039d415f3408baf9af0dfb992544ebfa0a0b74aed189
 product: descript
 product_name: Descript
 record:
@@ -71,11 +71,11 @@ record:
   title: Other tweaks & fixes
   type: change
 related_changes:
-- '[[Changes/Dify/2023-07-14-convert-audio-wav-to-mp3-by-zxhlyh-in-https-github-com-langgenius-dify-pull-552|convert
-  audio wav to mp3]]'
 - '[[Changes/Descript/2023-07-24-regenerate-beta|Regenerate (beta)]]'
 - '[[Changes/Dify/2023-07-27-feat-application-api-add-speech-to-text-by-zxhlyh-in-https-github-com-langgenius|Feat/application
   api add speech to text]]'
+- '[[Changes/Superwhisper/2023-08-03-added-support-for-100-different-spoken-languages|Added
+  support for 100+ different spoken languages]]'
 source_release: '[[Releases/Descript/descript-2023-08-10-64c1d8ac5108a209947a7b85-26767a6a|descript-2023-08-10-64c1d8ac5108a209947a7b85-26767a6a]]'
 source_type: canny_changelog
 theme: voice
@@ -118,7 +118,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2023-07-27 · Dify · [[Changes/Dify/2023-07-27-feat-application-api-add-speech-to-text-by-zxhlyh-in-https-github-com-langgenius|Feat/application api add speech to text]]
+- Earlier: 2023-08-03 · Superwhisper · [[Changes/Superwhisper/2023-08-03-added-support-for-100-different-spoken-languages|Added support for 100+ different spoken languages]]
 - Later: 2023-08-11 · Aider · [[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source link) support, which allows you…]]
 <!-- chronolog:end -->
 

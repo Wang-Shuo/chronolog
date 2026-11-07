@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: cae7c4760f6dadaced910d7bab6e00f63e8cdb52adc720499e31d67fffb06952
+machine_hash: 21d487b7306524f0c85188d1f2414715146efd411fbf6f37dff4310dc2811713
 product: lovable
 product_name: Lovable
 record:
@@ -67,10 +67,10 @@ record:
   title: Images Lovable generates are labeled as AI-generated
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2026-06-29-usable-chat-input-on-mobile-with-many-tools-when-skills-tools-terminal-web-searc|\U0001F4F1
-  Usable chat input on mobile with many tools. When skills, tools, terminal, web…]]"
 - '[[Changes/OpenClaw/2026-06-30-generated-images-from-a-remote-codex-app-server-now-arrive-as-attachments-instea|Generated
   images from a remote Codex app-server now arrive as attachments instead…]]'
+- '[[Changes/Recraft/2026-07-01-we-ve-added-nano-banana-2-lite-for-image-generation-in-recraft-studio-available|Recraft
+  adds Nano Banana 2 Lite for image generation in Recraft Studio]]'
 - '[[Changes/Codex CLI/2026-07-08-3-image-generation-changes-in-rust-v0-143-0|3 Image
   Generation changes in rust-v0.143.0]]'
 source_release: '[[Releases/Lovable/lovable-2026-07-08-2026-07-08-6cd655f7|lovable-2026-07-08-2026-07-08-6cd655f7]]'

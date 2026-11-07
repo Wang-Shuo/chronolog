@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 15a8d7315f929bb602524f3e97f7744ed6172948221ca6c355b7ba800c8176d2
+machine_hash: 79947fdf12a1f12f65904f598026078ff9efa90964630bb5ac06fc8b349a3c19
 product: cline
 product_name: Cline
 record:
@@ -42,8 +42,8 @@ record:
   title: 2 Apps and Integrations changes in v3.75.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-19-10-apps-and-integrations-changes-in-rust-v0-116-0|10
-  Apps and Integrations changes in rust-v0.116.0]]'
+- '[[Changes/Devin/2026-03-19-redesigned-integration-pages|Redesigned Integration
+  Pages]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-19-marketplace-and-plugin-installs-from-shortened-urls-e-g-aka-ms-links-now-work-co|Marketplace
   and plugin installs from shortened URLs (e.g., aka.ms links) now work…]]'
 - '[[Changes/Claude Code/2026-03-20-3-apps-and-integrations-changes-in-v2-1-81|3 Apps

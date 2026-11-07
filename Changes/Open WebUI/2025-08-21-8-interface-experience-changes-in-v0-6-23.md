@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 494cb08d7309893a26d22c1033f46e5eb81d29560d6f67198d55770e6c4c5366
+machine_hash: 3076408b3b7472ff3d731157bcd7cf75dd4461cdea77840b954fbb088831ff27
 product: open-webui
 product_name: Open WebUI
 record:
@@ -150,7 +150,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.6.23
 ## Nearby in Interface Experience
 
 - Earlier: 2025-08-21 · Gemini · [[Changes/Gemini/2025-08-21-revisit-your-conversations-you-can-now-search-your-gemini-chat-history|Revisit your conversations: You can now search your Gemini chat history]]
-- Later: 2025-08-26 · Codex CLI · [[Changes/Codex CLI/2025-08-26-3-interface-experience-changes-in-rust-v0-24-0|3 Interface Experience changes in rust-v0.24.0]]
+- Later: 2025-08-22 · Devin · [[Changes/Devin/2025-08-22-settings-navigation-enhancement|Settings Navigation Enhancement]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

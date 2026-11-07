@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5b534c5442b932b1ade7ba141e532b170185ee526d05383c23086e84f80bccad
+machine_hash: 6311dfe9c6bf2b5dd56b452daaebee5f5ca3949c7cc28059f576cd566d5319e5
 product: lovable
 product_name: Lovable
 record:
@@ -45,10 +45,10 @@ record:
     including…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-03-18-improved-display-and-faster-streaming-of-conversations-and-message-menu-actions|Improved
-  display and faster streaming of conversations and message menu actions]]'
-- '[[Changes/OpenHands/2025-03-18-improve-the-stability-of-openhands-application-and-evaluation-harness-by-retry-o|Improve
-  the stability of OpenHands application and evaluation harness by retry…]]'
+- '[[Changes/Raycast/2025-03-19-ai-chat-improved-overall-performance-with-long-messages-and-attachments|AI
+  Chat: Improved overall performance with long messages and attachments]]'
+- '[[Changes/Superwhisper/2025-03-20-massive-speed-improvements-new-models|Massive
+  Speed Improvements & New Models]]'
 - '[[Changes/Lovable/2025-03-21-chat-mode-is-faster-than-ever-fixing-the-bug-where-it-sometimes-just-stopped|Chat
   mode is faster than ever, fixing the bug where it sometimes just stopped]]'
 source_release: '[[Releases/Lovable/lovable-2025-03-21-2025-03-21-245c8626|lovable-2025-03-21-2025-03-21-245c8626]]'
@@ -82,7 +82,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-03-18 · OpenHands · [[Changes/OpenHands/2025-03-18-improve-the-stability-of-openhands-application-and-evaluation-harness-by-retry-o|Improve the stability of OpenHands application and evaluation harness by retry…]]
+- Earlier: 2025-03-20 · Superwhisper · [[Changes/Superwhisper/2025-03-20-massive-speed-improvements-new-models|Massive Speed Improvements & New Models]]
 - Later: 2025-03-22 · Ollama · [[Changes/Ollama/2025-03-22-2-reliability-and-performance-changes-in-v0-6-3|2 Reliability and Performance changes in v0.6.3]]
 <!-- chronolog:end -->
 

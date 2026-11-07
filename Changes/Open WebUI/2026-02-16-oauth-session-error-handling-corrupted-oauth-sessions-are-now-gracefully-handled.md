@@ -14,12 +14,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4d416f84f519c542de9b58118bd147555509a17abe2a8556d1593cfa4c8b24d4
+machine_hash: df7dd13cb6369d188cc2927a291e67b696c4ca5b754a8b4d848f531b26fde9f9
 product: open-webui
 product_name: Open WebUI
 record:
@@ -90,7 +90,7 @@ type: change
 ## Nearby in Account and Access
 
 - Earlier: 2026-02-13 · Claude Code · [[Changes/Claude Code/2026-02-13-added-claude-auth-login-claude-auth-status-and-claude-auth-logout-cli-subcommand|Added claude auth login, claude auth status, and claude auth logout CLI subcommands]]
-- Later: 2026-02-19 · Claude Code · [[Changes/Claude Code/2026-02-19-improved-performance-by-caching-authentication-failures-for-http-and-sse-mcp-ser|Improved performance by caching authentication failures for HTTP and SSE MCP…]]
+- Later: 2026-02-18 · AnythingLLM · [[Changes/AnythingLLM/2026-02-18-new-login-page-ui-by-shatfield4-in-https-github-com-mintplex-labs-anything-llm-p|New login page UI]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

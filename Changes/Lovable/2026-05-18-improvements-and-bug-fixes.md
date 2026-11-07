@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4ae6db8eea35b3e09d152b810b84758ca2047bc80047c9c5a022c4b8d802f458
+machine_hash: f5d1b03336a10db5263eda2ada3b10b91ab09628d7e54a2b72d2fe3fe2442167
 product: lovable
 product_name: Lovable
 record:
@@ -77,10 +77,10 @@ record:
   title: Improvements and bug fixes
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-05-10-2-image-generation-changes-in-v0-9-5|2 Image Generation
-  changes in v0.9.5]]'
 - '[[Changes/Descript/2026-05-14-gpt-image-2-in-image-generation|GPT Image 2 in image
   generation]]'
+- '[[Changes/Recraft/2026-05-14-we-ve-just-launched-v4-1-our-latest-image-generation-model-it-carries-v4-s-visua|We’ve
+  just launched V4.1, our latest image generation model]]'
 - '[[Changes/Gamma/2026-05-15-brainstorm-generate-and-edit-images-in-chat|Brainstorm,
   generate, and edit images in chat]]'
 source_release: '[[Releases/Lovable/lovable-2026-05-18-2026-05-18-640aaf83|lovable-2026-05-18-2026-05-18-640aaf83]]'

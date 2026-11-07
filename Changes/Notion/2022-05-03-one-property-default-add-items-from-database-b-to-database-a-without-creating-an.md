@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: af17c902be2b8918db51adfd2a77e28915a9fa34faabced90482c4ebf9a45dbf
+machine_hash: 973e90b8a303d43c983461145f174e1f243fbc4480010cc49112075d8d5e966a
 product: notion
 product_name: Notion
 record:
@@ -46,10 +46,10 @@ record:
   title: One property (default)
   type: change
 related_changes:
-- '[[Changes/Notion/2022-02-15-now-you-can-copy-links-to-multiple-pages-or-blocks-simultaneously-just-click-the|Now
-  you can copy links to multiple pages or blocks simultaneously]]'
-- '[[Changes/Notion/2022-03-03-better-databases-with-quick-filters-the-redesigned-teams-sidebar-and-synced-data|Better
-  Databases with quick filters, the redesigned Teams sidebar, and Synced…]]'
+- '[[Changes/Raycast/2022-03-24-2-interface-experience-changes-in-raycast-macos-v1-1-31-0|2
+  Interface Experience changes in Raycast macos-v1 1.31.0]]'
+- '[[Changes/Raycast/2022-04-06-upcoming-calendar-events-in-the-menu-bar|Upcoming
+  calendar events in the menu bar]]'
 - '[[Changes/Notion/2022-04-14-2-interface-experience-changes-in-notion-2-16-now-with-faster-databases|2
   Interface Experience changes in Notion 2.16, now with faster databases]]'
 source_release: '[[Releases/Notion/notion-2022-05-03-https-www-notion-com-releases-2022-05-03-985e1b9a|notion-2022-05-03-https-www-notion-com-releases-2022-05-03-985e1b9a]]'
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2022-04-14 · Notion · [[Changes/Notion/2022-04-14-2-interface-experience-changes-in-notion-2-16-now-with-faster-databases|2 Interface Experience changes in Notion 2.16, now with faster databases]]
-- Later: 2022-08-11 · Notion · [[Changes/Notion/2022-08-11-align-images-and-other-embedded-content|Align images and other embedded content]]
+- Later: 2022-05-04 · Raycast · [[Changes/Raycast/2022-05-04-2-interface-experience-changes-in-raycast-macos-v1-1-34-0|2 Interface Experience changes in Raycast macos-v1 1.34.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 85ec34d7f6ea8fc9da2e02c16d68963d53c1f6ca38016ff285662c887476600a
+machine_hash: 9b2661321562e51c770522972de33fd6b35a5b9b76bc5ebad7775918227ff339
 product: open-webui
 product_name: Open WebUI
 record:
@@ -124,7 +124,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.11.1
 ## Nearby in Voice and Audio
 
 - Earlier: 2026-08-25 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-08-25-use-voice-for-q-a-during-read-aloud-in-word-windows-word|Use voice for Q&A during Read Aloud in Word Windows (Word)]]
-- Later: 2026-08-26 · Codex CLI · [[Changes/Codex CLI/2026-08-26-39953-support-voice-aware-configuration-and-version-skew-builds-copyberry|♯39953 Support voice-aware configuration and version-skew builds @copyberry]]
+- Later: 2026-08-25 · Raycast · [[Changes/Raycast/2026-08-25-dictation-added-a-word-count-to-the-details-of-each-entry-in-dictation-history|Dictation : Added a word count to the details of each entry in dictation history]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

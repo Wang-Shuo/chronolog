@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 25b4e1def22d9851e117965f7548264f60f30ebb43b5cbace580baca25bf5a66
+machine_hash: 861986369c4bdfb27905e4461a42d2d5fb2c1bd5f850bdacd9ea27f853cf6b61
 product: heygen
 product_name: HeyGen
 record:
@@ -111,7 +111,7 @@ type: change
 ## Nearby in Multimodal Input
 
 - Earlier: 2026-09-03 · OpenClaw · [[Changes/OpenClaw/2026-09-03-several-less-visible-repairs-keep-the-apps-from-failing-around-dependencies-and|Several less visible repairs keep the apps from failing around dependencies…]]
-- Later: 2026-09-08 · OpenClaw · [[Changes/OpenClaw/2026-09-08-provider-adapters-preserve-initial-anthropic-text-and-thinking-keep-images-with|Provider adapters preserve initial Anthropic text and thinking, keep images…]]
+- Later: 2026-09-07 · Krea · [[Changes/Krea/2026-09-07-realtime-director|Realtime Director]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

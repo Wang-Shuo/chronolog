@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3ce2df4e308cdf60555a26a9d851075761cbc67527b2dc106a40ddde40f2904a
+machine_hash: 6a39a1f3a3fb3881e65c5c1b716290dda1bc17efdde1da2a5e5471892438fd61
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,10 @@ record:
     sessions)…'
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-04-16-various-bug-fixes-and-performance-improvements-for-improving-windsurf-2-0-auth-e|Various
-  bug fixes and performance improvements for improving Windsurf 2.0 auth experience]]'
 - '[[Changes/Claude Code/2026-04-17-improved-ultrareview-faster-launch-with-parallelized-checks-diffstat-in-the-laun|Improved
   /ultrareview: faster launch with parallelized checks, diffstat…]]'
+- '[[Changes/LM Studio/2026-04-17-improved-qwen-3-5-performance-with-openai-compatible-v1-chat-completions-v1-resp|Improved
+  Qwen 3.5 performance with OpenAI-compatible /v1/chat/completions…]]'
 - '[[Changes/Windsurf/2026-04-17-various-bug-fixes-and-performance-improvements|Various
   bug fixes and performance improvements]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-20-v2-1-116-github-311446114-3b24dc7e|claude-code-2026-04-20-v2-1-116-github-311446114-3b24dc7e]]'

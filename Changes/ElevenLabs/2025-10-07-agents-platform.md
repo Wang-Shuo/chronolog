@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 8c7399460be3b8665432f4e53a6412e06b4c68ccb046bc037baaf99cef4306b6
+machine_hash: eddab1d71cfee96f799d9eb5891b1f82d0f55604596dc6918b7c2ab225fbc6d9
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -56,11 +56,9 @@ record:
   title: Agents Platform
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2025-09-29-agents-platform-7144f6|Agents Platform]]'
-- '[[Changes/GitHub Copilot CLI/2025-10-01-improved-the-experience-of-writing-prompts-while-the-agent-is-running-up-down-ar|Improved
-  the experience of writing prompts while the agent is running -- up/down…]]'
-- '[[Changes/Codex CLI/2025-10-03-5-agent-mode-changes-in-rust-v0-44-0|5 Agent Mode
-  changes in rust-v0.44.0]]'
+- '[[Changes/Devin/2025-10-03-agent-default-setting-hints|Agent Default Setting Hints]]'
+- '[[Changes/Devin/2025-10-03-slack-default-agent-tips|Slack Default Agent Tips]]'
+- '[[Changes/Devin/2025-10-03-agent-dropdown-improvements|Agent Dropdown Improvements]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2025-10-07-2025-10-07-a74f7acb|elevenlabs-2025-10-07-2025-10-07-a74f7acb]]'
 source_type: elevenlabs_changelog
 theme: agent-mode
@@ -104,7 +102,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2025-10-03 · Codex CLI · [[Changes/Codex CLI/2025-10-03-5-agent-mode-changes-in-rust-v0-44-0|5 Agent Mode changes in rust-v0.44.0]]
+- Earlier: 2025-10-03 · Devin · [[Changes/Devin/2025-10-03-agent-dropdown-improvements|Agent Dropdown Improvements]]
 - Later: 2025-10-07 · Gemini CLI · [[Changes/Gemini CLI/2025-10-07-2-agent-mode-changes-in-v0-8-0|2 Agent Mode changes in v0.8.0]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0f9e3a0e59a57736e4d44e594db9b8a0c9e173ff217a0a91ead39f5ff5dbaf3c
+machine_hash: 7c56ad4babe6a92df95067d4bbba9ce5fca4700f5d12dd6952022cc4776c2bd2
 product: descript
 product_name: Descript
 record:
@@ -41,9 +41,10 @@ record:
   title: '**Creator, Pro, and Enterprise plans:** up to 5 concurrent generations'
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-06-08-text-to-dialogue|Text to Dialogue]]'
 - '[[Changes/Lovable/2026-06-08-transfer-a-domain-to-lovable|Transfer a domain to
   Lovable]]'
+- '[[Changes/Devin/2026-06-10-success-confirmation-after-org-creation|Success Confirmation
+  After Org Creation]]'
 - '[[Changes/Lovable/2026-06-10-user-insights-for-workspace-members|User insights
   for workspace members]]'
 source_release: '[[Releases/Descript/descript-2026-06-11-6a2b3bab1b3cd1eee09fe520-f254003b|descript-2026-06-11-6a2b3bab1b3cd1eee09fe520-f254003b]]'
@@ -90,7 +91,7 @@ type: change
 ## Nearby in Enterprise and Administration
 
 - Earlier: 2026-06-10 · Lovable · [[Changes/Lovable/2026-06-10-user-insights-for-workspace-members|User insights for workspace members]]
-- Later: 2026-06-18 · Codex CLI · [[Changes/Codex CLI/2026-06-18-tls-connections-now-support-p-521-certificate-signatures-commonly-used-by-enterp|TLS connections now support P-521 certificate signatures commonly used by enterprise…]]
+- Later: 2026-06-16 · Krea · [[Changes/Krea/2026-06-16-zero-data-retention-available-for-krea-enterprise-api|Zero Data Retention available for Krea enterprise API]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

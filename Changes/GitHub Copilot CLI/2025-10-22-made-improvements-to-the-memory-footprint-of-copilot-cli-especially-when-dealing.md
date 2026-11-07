@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d16ac076ea62a78f692e3f0653ace1946718740cf9465c0dfc9bce38724e6338
+machine_hash: 2944b84d4632ea28ac55141199b48d0891ca4c964c0085ecc24e2e272cee88c5
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -47,8 +47,8 @@ record:
     dealing…
   type: change
 related_changes:
-- '[[Changes/Windsurf/2025-10-16-various-stability-improvements-and-minor-bug-fixes|Various
-  stability improvements and minor bug fixes]]'
+- '[[Changes/Superwhisper/2025-10-17-wave-rendering-performance-improvements|Wave
+  rendering performance improvements]]'
 - '[[Changes/Gamma/2025-10-21-need-to-create-similar-content-with-a-consistent-structure-and-formatting|Need
   to create similar content with a consistent structure and formatting?]]'
 - '[[Changes/Dify/2025-10-22-5-reliability-and-performance-changes-in-1-9-2|5 Reliability
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2025-10-22 · Dify · [[Changes/Dify/2025-10-22-5-reliability-and-performance-changes-in-1-9-2|5 Reliability and Performance changes in 1.9.2]]
-- Later: 2025-10-23 · ChatGPT · [[Changes/ChatGPT/2025-10-23-group-work-upload-notes-proposals-and-contracts-so-collaborators-can-draft-deliv|Group work: Upload notes, proposals, and contracts so collaborators can draft…]]
+- Later: 2025-10-22 · Superwhisper · [[Changes/Superwhisper/2025-10-22-parakeet-vocabulary-scrollbars-in-settings-stability-improvements|Parakeet Vocabulary, Scrollbars in settings, Stability improvements]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 5a42972782edb42fc906b3684281af84f606ed3888169eabb1f2e2623686a0ef
+machine_hash: 11f0bec87ce51989daf1a3018c1bf4952727390243816998d4c83655ca583069
 product: claude-code
 product_name: Claude Code
 record:
@@ -56,9 +56,8 @@ record:
   title: Removed the "Default teammate model" setting from `/config`
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-13-hardened-the-auto-generated-cross-session-messaging-socket-directory-on-shared-t|Hardened
-  the auto-generated cross-session messaging socket directory on shared /tmp]]'
-- '[[Changes/Windsurf/2026-08-13-devin-local|Devin Local]]'
+- '[[Changes/Devin/2026-08-14-preview-toolbar-improvements|Preview Toolbar Improvements]]'
+- '[[Changes/Devin/2026-08-14-teams-polish|Teams Polish]]'
 - '[[Changes/v0/2026-08-14-4-collaboration-changes-in-a-redesigned-sidebar-a-richer|4
   Collaboration changes in A redesigned sidebar, a richer…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-17-v2-1-234-github-371864218-2ca32673|claude-code-2026-08-17-v2-1-234-github-371864218-2ca32673]]'

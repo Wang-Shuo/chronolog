@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f5992cd8508f62f3dcf1d89bf2a4ecbcc77bfe69549670bd2da7ddecd506ef98
+machine_hash: d910d70c72c9951aff3b277736363bd94dd074626bbdd462db5e50a317529719
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,12 +43,12 @@ record:
     or SDK…
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-03-30-added-the-new-slash-command-to-the-slash-command-menu-by-karanjaxyz-in-https-git|Added
-  the /new slash command to the slash command menu]]'
 - '[[Changes/Codex CLI/2026-03-31-3-interface-experience-changes-in-rust-v0-118-0|3
   Interface Experience changes in rust-v0.118.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-31-2-interface-experience-changes-in-v1-0-14|2
   Interface Experience changes in v1.0.14]]'
+- '[[Changes/Wispr Flow/2026-03-31-language-picker-in-the-flow-bar-desktop|Language
+  Picker in the Flow Bar (Desktop)]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-01-v2-1-90-github-304453197-996aad1b|claude-code-2026-04-01-v2-1-90-github-304453197-996aad1b]]'
 source_type: github_releases
 theme: interface-experience
@@ -82,7 +82,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-03-31 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-31-2-interface-experience-changes-in-v1-0-14|2 Interface Experience changes in v1.0.14]]
+- Earlier: 2026-03-31 · Wispr Flow · [[Changes/Wispr Flow/2026-03-31-language-picker-in-the-flow-bar-desktop|Language Picker in the Flow Bar (Desktop)]]
 - Later: 2026-04-01 · Claude Code · [[Changes/Claude Code/2026-04-01-added-claude-code-no-flicker-1-environment-variable-to-opt-into-flicker-free-alt|Added CLAUDE_CODE_NO_FLICKER=1 environment variable to opt into flicker-free…]]
 <!-- chronolog:end -->
 

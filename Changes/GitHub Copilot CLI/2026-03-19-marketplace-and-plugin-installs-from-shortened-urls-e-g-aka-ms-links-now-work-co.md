@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f8ec67f20c7a3a8942ed55633524ea1646f264a29205848c0373b957352538db
+machine_hash: b7ca52b57762ebfaded7e9d7449adae4ae3203233adb003b041706d6258f71d7
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,12 +43,12 @@ record:
     now work…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-18-3-apps-and-integrations-changes-in-v1-0-8|3
-  Apps and Integrations changes in v1.0.8]]'
 - '[[Changes/Claude Code/2026-03-19-4-apps-and-integrations-changes-in-v2-1-80|4 Apps
   and Integrations changes in v2.1.80]]'
 - '[[Changes/Codex CLI/2026-03-19-10-apps-and-integrations-changes-in-rust-v0-116-0|10
   Apps and Integrations changes in rust-v0.116.0]]'
+- '[[Changes/Devin/2026-03-19-redesigned-integration-pages|Redesigned Integration
+  Pages]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-03-19-v1-0-9-github-298772514-55d909ee|github-copilot-cli-2026-03-19-v1-0-9-github-298772514-55d909ee]]'
 source_type: github_releases
 theme: apps-integrations
@@ -79,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-03-19 · Codex CLI · [[Changes/Codex CLI/2026-03-19-10-apps-and-integrations-changes-in-rust-v0-116-0|10 Apps and Integrations changes in rust-v0.116.0]]
+- Earlier: 2026-03-19 · Devin · [[Changes/Devin/2026-03-19-redesigned-integration-pages|Redesigned Integration Pages]]
 - Later: 2026-03-20 · Claude Code · [[Changes/Claude Code/2026-03-20-3-apps-and-integrations-changes-in-v2-1-81|3 Apps and Integrations changes in v2.1.81]]
 <!-- chronolog:end -->
 

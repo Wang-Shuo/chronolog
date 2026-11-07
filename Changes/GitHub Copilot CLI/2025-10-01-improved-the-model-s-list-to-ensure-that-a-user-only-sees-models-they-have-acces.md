@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 76a5b8f6d69f7f56b11fd75c33c27f15e498023f10dbb2681b313663ab4dd41c
+machine_hash: 680a6720bd48da319b8da27ff634c103734c7f6b922191203df5d94f61a5c21b
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -92,7 +92,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2025-10-01 · Gemini CLI · [[Changes/Gemini CLI/2025-10-01-4-model-support-changes-in-v0-7-0|4 Model Support changes in v0.7.0]]
-- Later: 2025-10-01 · OpenHands · [[Changes/OpenHands/2025-10-01-added-claude-sonnet-4-5-model-support|Added claude-sonnet-4-5 model support]]
+- Later: 2025-10-01 · LM Studio · [[Changes/LM Studio/2025-10-01-4-model-support-changes-in-lm-studio-0-3-28|4 Model Support changes in LM Studio 0.3.28]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: bea26e0d39eec13a1be798ddbeece68a28234461b629a86d0d2a4ef3f6e89bdf
+machine_hash: 6b86d196609b0bac0098edbacb3746dc09048bfbba03ca225a0c1c0193524dca
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,12 +44,12 @@ record:
   title: '[#2464](https://github.com/openai/codex/pull/2464) docs: document writable_roots…'
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-08-12-2-safety-and-privacy-changes-in-v0-1-19|2 Safety
-  and Privacy changes in v0.1.19]]'
 - '[[Changes/Gemini CLI/2025-08-13-ensure-sandbox-build-script-is-cross-platform-by-wldoooon-in-https-github-com-go|ensure
   sandbox build script is cross-platform]]'
 - '[[Changes/Gemini CLI/2025-08-14-7-safety-and-privacy-changes-in-v0-1-21|7 Safety
   and Privacy changes in v0.1.21]]'
+- '[[Changes/AnythingLLM/2025-08-15-update-security-ui-to-match-all-other-settings-by-ashikaanand12-in-https-github|Update
+  Security UI to match all other Settings]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-08-20-rust-v0-23-0-github-241091696-29f8dece|codex-cli-2025-08-20-rust-v0-23-0-github-241091696-29f8dece]]'
 source_type: github_releases
 theme: safety-privacy
@@ -87,7 +87,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2025-08-14 · Gemini CLI · [[Changes/Gemini CLI/2025-08-14-7-safety-and-privacy-changes-in-v0-1-21|7 Safety and Privacy changes in v0.1.21]]
+- Earlier: 2025-08-15 · AnythingLLM · [[Changes/AnythingLLM/2025-08-15-update-security-ui-to-match-all-other-settings-by-ashikaanand12-in-https-github|Update Security UI to match all other Settings]]
 - Later: 2025-08-21 · Open WebUI · [[Changes/Open WebUI/2025-08-21-6-safety-and-privacy-changes-in-v0-6-23|6 Safety and Privacy changes in v0.6.23]]
 <!-- chronolog:end -->
 

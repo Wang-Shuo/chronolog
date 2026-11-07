@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 02a9229e3d619550e5ce4d6b4bfdad17297cf54057846c2ea9752a3a607e4dea
+machine_hash: 5fbe035306cabe3a1cbb160cf243f71f3435e4f318d8e8ae8591cbc3df73c8e3
 product: descript
 product_name: Descript
 record:
@@ -53,10 +53,10 @@ record:
   title: New scene toolbar under the Canvas
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2024-09-07-document-count-display-now-displays-the-total-number-of-documents-directly-withi|\U0001F4CA
-  Document Count Display]]"
 - '[[Changes/Dify/2024-09-10-feat-return-page-number-of-pdf-documents-upon-retrieval-by-jasonkang14-in-https|feat:
   return page number of pdf documents upon retrieval]]'
+- '[[Changes/AnythingLLM/2024-09-11-feature-use-escape-key-to-close-documents-modal-by-timothycarambat-in-https-gith|Feature/use
+  escape key to close documents modal]]'
 - "[[Changes/Open WebUI/2024-09-24-enhanced-pdf-citations-pdf-citations-now-open-at-the-associated-page-streamlinin|\U0001F4C4
   Enhanced PDF Citations]]"
 source_release: '[[Releases/Descript/descript-2024-09-25-66f1ed3467f5b0cbdcc0d155-14be1212|descript-2024-09-25-66f1ed3467f5b0cbdcc0d155-14be1212]]'

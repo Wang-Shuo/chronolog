@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b788517a08efac9a9683e04271600d03b88bfab20b2748dab1ff77c75558c684
+machine_hash: c44f0d3addcfdca7686bea4de363e4a62d3d79344d504a9c688034a3b69b5d3f
 product: opencode
 product_name: OpenCode
 record:
@@ -44,12 +44,12 @@ record:
   title: 2 Context Window changes in v2.2.5
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-29-13-context-window-changes-in-rust-v0-166-0|13 Context
-  Window changes in rust-v0.166.0]]'
 - "[[Changes/Open WebUI/2026-10-29-provider-details-for-models-administrators-editing-a-model-now-see-a-provider-de|\U0001F4C7
   Provider details for models. Administrators editing a model now see a Provider…]]"
 - '[[Changes/OpenCode/2026-10-29-2-context-window-changes-in-v2-2-1|2 Context Window
   changes in v2.2.1]]'
+- '[[Changes/Devin/2026-10-30-personal-access-tokens-default-to-approval-required|Personal
+  Access Tokens Default to Approval Required]]'
 source_release: '[[Releases/OpenCode/opencode-2026-10-30-v2-2-5-7ac090eb|opencode-2026-10-30-v2-2-5-7ac090eb]]'
 source_type: opencode_changelog
 theme: context-window
@@ -89,7 +89,7 @@ Source: https://opencode.ai/changelog/v2.2.5
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-10-29 · OpenCode · [[Changes/OpenCode/2026-10-29-2-context-window-changes-in-v2-2-1|2 Context Window changes in v2.2.1]]
+- Earlier: 2026-10-30 · Devin · [[Changes/Devin/2026-10-30-personal-access-tokens-default-to-approval-required|Personal Access Tokens Default to Approval Required]]
 - Later: 2026-11-03 · Ollama · [[Changes/Ollama/2026-11-03-qwen3-and-qwen3-5-models-using-long-context-yarn-scaling|Qwen3 and Qwen3.5 models using long-context (YaRN) scaling]]
 <!-- chronolog:end -->
 

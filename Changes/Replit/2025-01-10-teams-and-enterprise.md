@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 0221744c04ebe16ea314abdd3207eb4dcc9549e30437bac74dfef34590410036
+machine_hash: cc7fffcd662e0fddd9e789e9bf4532755ecb3f646924951e005f8a2c48aae9a3
 product: replit
 product_name: Replit
 record:
@@ -86,7 +86,7 @@ type: change
 ## Nearby in Enterprise and Administration
 
 - Earlier: 2025-01-03 · Replit · [[Changes/Replit/2025-01-03-teams-and-enterprise|Teams and Enterprise]]
-- Later: 2025-01-22 · Open WebUI · [[Changes/Open WebUI/2025-01-22-chat-controls-permissions-admins-can-now-disable-chat-controls-access-for-users|🔒 Chat Controls Permissions]]
+- Later: 2025-01-16 · Devin · [[Changes/Devin/2025-01-16-introducing-devin-enterprise-accounts|Introducing Devin enterprise accounts]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

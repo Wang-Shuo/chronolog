@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 68f27a831f434eb6e8c9fc31964d3ad67e6a5c872c9e4211da9cff5bf8a72602
+machine_hash: 56b607bcef223b5bd57eae2c7cbbaa285a07444d301e64e6a6505ced4d53fd42
 product: openhands
 product_name: OpenHands
 record:
@@ -43,10 +43,9 @@ record:
   title: 2 Model Support changes in 0.23.0
   type: change
 related_changes:
-- '[[Changes/Cline/2025-01-30-save-last-used-api-model-when-switching-between-plan-and-act-for-users-that-like|Save
-  last used API/model when switching between Plan and Act, for users that like…]]'
-- '[[Changes/Gemini/2025-01-30-introducing-gemini-2-0-flash-to-gemini|Introducing
-  Gemini 2.0 Flash to Gemini]]'
+- '[[Changes/Raycast/2025-01-30-6-model-support-changes-in-raycast-macos-v1-1-90-0|6
+  Model Support changes in Raycast macos-v1 1.90.0]]'
+- '[[Changes/Raycast/2025-01-30-more-ai-models|More AI Models]]'
 - '[[Changes/Aider/2025-01-31-5-model-support-changes-in-v0-73-0|5 Model Support changes
   in v0.73.0]]'
 source_release: '[[Releases/OpenHands/openhands-2025-02-04-0-23-0-github-198436178-41034f22|openhands-2025-02-04-0-23-0-github-198436178-41034f22]]'

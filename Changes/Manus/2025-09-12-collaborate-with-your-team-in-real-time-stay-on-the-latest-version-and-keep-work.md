@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 1cebdba4982b89b9a269ee2666bc151064eed61be7ad4c5c08a0f30feaf83c60
+machine_hash: 29437392d48c1476a6e62c0a94e26e57fd5f34b26836d5bac0caaae6d865b722
 product: manus
 product_name: Manus
 record:
@@ -43,11 +43,11 @@ record:
   title: Introducing Manus collaboration
   type: change
 related_changes:
-- '[[Changes/Replit/2025-08-29-app-themes|App themes]]'
 - '[[Changes/Gemini CLI/2025-09-04-2-collaboration-changes-in-v0-3-0|2 Collaboration
   changes in v0.3.0]]'
 - '[[Changes/ElevenLabs/2025-09-08-backward-compatible-changes|Backward Compatible
   Changes]]'
+- '[[Changes/Devin/2025-09-12-api-v2-knowledge-sharing|API v2 knowledge sharing]]'
 source_release: '[[Releases/Manus/manus-2025-09-12-mux5rnw2mzxtuhcdmhbjvo-934dabdc|manus-2025-09-12-mux5rnw2mzxtuhcdmhbjvo-934dabdc]]'
 source_type: manus_changelog
 theme: collaboration
@@ -74,8 +74,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2025-09-08 · ElevenLabs · [[Changes/ElevenLabs/2025-09-08-backward-compatible-changes|Backward Compatible Changes]]
-- Later: 2025-09-16 · Gamma · [[Changes/Gamma/2025-09-16-gamma-for-teams-effortlessly-on-brand|Gamma for teams: Effortlessly on-brand]]
+- Earlier: 2025-09-12 · Devin · [[Changes/Devin/2025-09-12-api-v2-knowledge-sharing|API v2 knowledge sharing]]
+- Later: 2025-09-12 · Recraft · [[Changes/Recraft/2025-09-12-we-ve-added-the-ability-to-seamlessly-switch-between-a-personal-account-and-a-te|Personal & Team Workspace switcher]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: eaf6b93891b1b70a176e7666a7f5e703b1ef54e7ab8e67b040350a1e42209c0f
+machine_hash: f0830d7091a3b0705fa75db37140fbc8de1c2bc31a32d7a05c2f688e65cc8486
 product: descript
 product_name: Descript
 record:
@@ -41,11 +41,11 @@ record:
   title: Google Auth
   type: change
 related_changes:
-- "[[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign
-  into Notion with your Apple ID \U0001F5DD️ The perfect combination of speedy and
-  secure]]"
 - '[[Changes/Notion/2020-08-10-finished-rolling-out-sign-in-with-apple-to-100-of-devices-across-ios-android-web|Finished
   rolling out Sign in with Apple to 100% of devices across iOS, Android, web…]]'
+- '[[Changes/Raycast/2020-08-17-added-login-for-jira-via-the-preferences-window|Added
+  login for Jira via the preferences window]]'
+- '[[Changes/Raycast/2021-02-03-new-linear-features|New Linear Features]]'
 source_release: '[[Releases/Descript/descript-2021-03-08-6042cbf995c51c5bbff12425-391884f1|descript-2021-03-08-6042cbf995c51c5bbff12425-391884f1]]'
 source_type: canny_changelog
 theme: account-access
@@ -72,8 +72,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2020-08-10 · Notion · [[Changes/Notion/2020-08-10-finished-rolling-out-sign-in-with-apple-to-100-of-devices-across-ios-android-web|Finished rolling out Sign in with Apple to 100% of devices across iOS, Android, web…]]
-- Later: 2022-06-29 · Notion · [[Changes/Notion/2022-06-29-synced-databases-now-in-open-beta|Synced Databases, now in open beta]]
+- Earlier: 2021-02-03 · Raycast · [[Changes/Raycast/2021-02-03-new-linear-features|New Linear Features]]
+- Later: 2021-08-25 · Raycast · [[Changes/Raycast/2021-08-25-improve-on-login-start-performance|Improve on-login start performance]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

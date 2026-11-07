@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d2fff74773ca1c3b03abd4674cf4bbaaba26bcd9049ae52e929823ac9dd3121e
+machine_hash: a7c5d74885af08b79333ee46a41a4094313bf95d17e8c4c83cba04cfaa8cd707
 product: claude-code
 product_name: Claude Code
 record:
@@ -84,7 +84,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.41
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-02-12 · Open WebUI · [[Changes/Open WebUI/2026-02-12-5-safety-and-privacy-changes-in-v0-8-0|5 Safety and Privacy changes in v0.8.0]]
-- Later: 2026-02-14 · Open WebUI · [[Changes/Open WebUI/2026-02-14-public-sharing-security-fix-fixed-a-security-issue-where-users-with-write-access|🛡️ Public sharing security fix. Fixed a security issue where users with write…]]
+- Later: 2026-02-13 · Devin · [[Changes/Devin/2026-02-13-secure-mode-for-all-organizations|Secure Mode for All Organizations]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

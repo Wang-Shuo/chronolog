@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: b85d97f67aeb232d9bb3748bf63287fd5bd6a0c85b75b6ea112f01ea5e322c73
+machine_hash: d22721211291f64a7a94a1a71a96e332d5503eb400062615bafd1dd3e7b3aebd
 product: opencode
 product_name: OpenCode
 record:
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-07-20 · Kimi Code · [[Changes/Kimi Code/2026-07-20-run-web-servers-foreground-only-end-to-end-the-web-slash-command-now-always-star|Run web servers foreground-only end to end]]
-- Later: 2026-07-21 · Claude Code · [[Changes/Claude Code/2026-07-21-improved-footer-pr-badge-links-to-be-clickable-hyperlinks-even-when-terminal-sup|Improved footer PR badge links to be clickable hyperlinks even when terminal support…]]
+- Later: 2026-07-20 · Raycast · [[Changes/Raycast/2026-07-20-notes-exit-a-code-block-by-tapping-the-empty-area-below-it|Notes : Exit a code block by tapping the empty area below it]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: bdedb57452d2e194882bba9b41ee9a2527b42a5285c10b97cc5a3ee6ce81cff4
+machine_hash: f63876236ee30275d62efe62b8ec50cb5d89d7da49c0b7b5c2b92a35288e4769
 product: ollama
 product_name: Ollama
 record:
@@ -50,12 +50,12 @@ record:
   title: 4 Model Support changes in v0.1.11
   type: change
 related_changes:
-- '[[Changes/Dify/2023-11-13-2-model-support-changes-in-0-3-30|2 Model Support changes
-  in 0.3.30]]'
 - '[[Changes/Aider/2023-11-17-3-model-support-changes-in-v0-18-0|3 Model Support changes
   in v0.18.0]]'
 - '[[Changes/Ollama/2023-11-17-4-model-support-changes-in-v0-1-10|4 Model Support
   changes in v0.1.10]]'
+- '[[Changes/Superwhisper/2023-11-17-experiments-moved-to-ai-models-settings|Experiments
+  moved to AI models settings]]'
 source_release: '[[Releases/Ollama/ollama-2023-11-20-v0-1-11-github-130205995-7381d27b|ollama-2023-11-20-v0-1-11-github-130205995-7381d27b]]'
 source_type: github_releases
 theme: model-support
@@ -93,7 +93,7 @@ Source: https://github.com/ollama/ollama/releases/tag/v0.1.11
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2023-11-17 · Ollama · [[Changes/Ollama/2023-11-17-4-model-support-changes-in-v0-1-10|4 Model Support changes in v0.1.10]]
+- Earlier: 2023-11-17 · Superwhisper · [[Changes/Superwhisper/2023-11-17-experiments-moved-to-ai-models-settings|Experiments moved to AI models settings]]
 - Later: 2023-11-21 · Dify · [[Changes/Dify/2023-11-21-2-model-support-changes-in-0-3-31|2 Model Support changes in 0.3.31]]
 <!-- chronolog:end -->
 

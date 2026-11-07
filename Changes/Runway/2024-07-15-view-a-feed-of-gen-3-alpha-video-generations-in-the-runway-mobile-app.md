@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: video-generation
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4766686c617f5d65db8b1e196be06d909e39517b2e8aaf1eeb33ed0f60d3add2
+machine_hash: b8aae32bac3a74709f6d3c3e232bce9eb692b50d2ebbf75e613f77517951fb57
 product: runway
 product_name: Runway
 record:

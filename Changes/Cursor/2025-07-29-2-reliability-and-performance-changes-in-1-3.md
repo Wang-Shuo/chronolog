@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c8c86cc66ea1b28713555e14300f9e8997ceb40e4f6d1d125070ada6d27483da
+machine_hash: c45ec6252e41b9a756dfa1cdfaa23c96ae60dd2cadff5cc92a249d52f2ed156f
 product: cursor
 product_name: Cursor
 record:
@@ -43,8 +43,8 @@ record:
   title: 2 Reliability and Performance changes in 1.3
   type: change
 related_changes:
-- '[[Changes/Dify/2025-07-23-5-reliability-and-performance-changes-in-1-7-0|5 Reliability
-  and Performance changes in 1.7.0]]'
+- '[[Changes/Superwhisper/2025-07-24-faster-parakeet-long-recording-support|Faster
+  Parakeet & Long Recording Support]]'
 - '[[Changes/Gemini CLI/2025-07-25-run-model-availability-check-in-the-background-to-speed-up-startup-by-sandytao52|Run
   model availability check in the background to speed up startup]]'
 - '[[Changes/Cursor/2025-07-29-agent-edits-are-now-faster-by-lazy-loading-linter-errors-search-replace-edit-lat|Faster

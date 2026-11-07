@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: fix
-machine_hash: a7a9a78311e1feed382aec9ff9fdad7ba3c3fc1b449852166f61215c4855ddc7
+machine_hash: cac8b219d6d9fcf0cf0770377332b01d05a5feb928c26f6d5c64f4c4d4c0625d
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,8 +45,8 @@ record:
     permission…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-05-19-safety-and-privacy-changes-in-v2-1-290|19 Safety
-  and Privacy changes in v2.1.290]]'
+- '[[Changes/Devin/2026-10-05-repository-access-without-devin-review-permission|Repository
+  Access Without Devin Review Permission]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-05-4-safety-and-privacy-changes-in-v1-0-92|4
   Safety and Privacy changes in v1.0.92]]'
 - '[[Changes/Claude Code/2026-10-06-6-safety-and-privacy-changes-in-v2-1-292|6 Safety

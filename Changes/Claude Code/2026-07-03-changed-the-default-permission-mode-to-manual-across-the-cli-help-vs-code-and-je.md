@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1bb398218b01d8110404bec1a97723a5153d55be9e86502cc3afa0ecf9195528
+machine_hash: 3a8b89d4cc93245a43586c4a352ffe6fd17f8815a0725c875eb0842a1967efe2
 product: claude-code
 product_name: Claude Code
 record:
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-07-01 · Open WebUI · [[Changes/Open WebUI/2026-07-01-3-safety-and-privacy-changes-in-v0-10-2|3 Safety and Privacy changes in v0.10.2]]
-- Later: 2026-07-06 · Claude Code · [[Changes/Claude Code/2026-07-06-fixed-remote-control-sessions-showing-the-wrong-permission-mode-in-the-mobile-an|Fixed /remote-control sessions showing the wrong permission mode in the mobile…]]
+- Later: 2026-07-03 · Devin · [[Changes/Devin/2026-07-03-security-scan-remediation-api|Security Scan Remediation API]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

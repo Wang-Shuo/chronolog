@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 6bf91eb7bfab5e28db28ff2f895d3451260ecf6ae473d6c3510c12d1c586c3a8
+machine_hash: 56c86fb844dccc288055d698ddfe77bfec7515d2b12711d24b4d51d2d6c21831
 product: synthesia
 product_name: Synthesia
 record:
@@ -44,12 +44,12 @@ record:
   title: Buy credits and set auto top-ups
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-09-08-4-pricing-model-changes-in-v2026-9-3|4 Pricing Model
-  changes in v2026.9.3]]'
 - '[[Changes/ChatGPT/2026-09-09-pro-200-month-unlimited-gpt-live-1-usage|Pro ($200/month):
   Unlimited GPT-Live-1 usage]]'
 - '[[Changes/ChatGPT/2026-09-09-pro-100-month-up-to-15-hours-with-gpt-live-1|Pro ($100/month):
   Up to 15 hours with GPT-Live-1]]'
+- '[[Changes/Krea/2026-09-09-postpaid-invoicing-for-enterprise-billing-accounts|Postpaid
+  invoicing for enterprise billing accounts]]'
 source_release: '[[Releases/Synthesia/synthesia-2026-09-09-https-www-synthesia-io-updates-buy-credits-and-set-auto-top-ups-79258047|synthesia-2026-09-09-https-www-synthesia-io-updates-buy-credits-and-set-auto-top-ups-79258047]]'
 source_type: synthesia_changelog
 theme: pricing-model
@@ -76,7 +76,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-09-09 · ChatGPT · [[Changes/ChatGPT/2026-09-09-pro-100-month-up-to-15-hours-with-gpt-live-1|Pro ($100/month): Up to 15 hours with GPT-Live-1]]
+- Earlier: 2026-09-09 · Krea · [[Changes/Krea/2026-09-09-postpaid-invoicing-for-enterprise-billing-accounts|Postpaid invoicing for enterprise billing accounts]]
 - Later: 2026-09-09 · Synthesia · [[Changes/Synthesia/2026-09-09-get-a-clear-breakdown-of-credit-usage-with-a-new-billing-api-endpoint-so-you-can|Track credit usage with the Billing API]]
 <!-- chronolog:end -->
 

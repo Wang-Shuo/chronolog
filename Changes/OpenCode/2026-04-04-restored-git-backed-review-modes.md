@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 324af791001dcd6a18e8432da90f794422312a78168d314b1be6beef4072ad24
+machine_hash: 9239e3649f52816116ec5dac1a74b5fd871c4c5f22940ee6571c08becbdaeca6
 product: opencode
 product_name: OpenCode
 record:
@@ -43,10 +43,8 @@ record:
   title: Restored git-backed review modes
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-01-2-developer-workflow-changes-in-v1-0-15|2
-  Developer Workflow changes in v1.0.15]]'
-- '[[Changes/Cursor/2026-04-02-2-developer-workflow-changes-in-3-0|2 Developer Workflow
-  changes in 3.0]]'
+- '[[Changes/Devin/2026-04-03-new-slash-command|/new Slash Command]]'
+- '[[Changes/Devin/2026-04-03-pr-review-chat-ci-tools|PR Review Chat CI Tools]]'
 - '[[Changes/Claude Code/2026-04-04-removed-tag-command|Removed /tag command]]'
 source_release: '[[Releases/OpenCode/opencode-2026-04-04-v1-3-15-6f7be106|opencode-2026-04-04-v1-3-15-6f7be106]]'
 source_type: opencode_changelog

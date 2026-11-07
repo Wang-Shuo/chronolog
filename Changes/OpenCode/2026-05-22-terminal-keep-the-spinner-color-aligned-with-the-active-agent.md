@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 5b3a65386ada334d885f88b1aaeab56f7128232f68c4fa8897c7db3cba7cce31
+machine_hash: 7e856d52d260492ed54350e0061ea38a7050de342be989cddf014307365e5a7d
 product: opencode
 product_name: OpenCode
 record:
@@ -96,7 +96,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-05-22 · Gemini CLI · [[Changes/Gemini CLI/2026-05-22-2-interface-experience-changes-in-v0-43-0|2 Interface Experience changes in v0.43.0]]
-- Later: 2026-05-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-23-6-interface-experience-changes-in-v1-0-52|6 Interface Experience changes in v1.0.52]]
+- Later: 2026-05-22 · Superwhisper · [[Changes/Superwhisper/2026-05-22-mode-change-keyboard-shortcut-helper-at-bottom-of-modes-list|Mode change keyboard shortcut helper at bottom of modes list]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

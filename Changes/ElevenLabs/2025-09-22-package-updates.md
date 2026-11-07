@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 99f5decadd6edb14d4c82ca6be80aa2cd57c2672d6e66a2e551a6337b712574e
+machine_hash: 68430dc6e9b8bed6fb3e5b66d08bf51cfe93b4694cd74609c1ee9e3985d0f3f2
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -97,7 +97,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2025-09-19 · Replit · [[Changes/Replit/2025-09-19-autonomy-level-control-for-agent|Autonomy level control for Agent]]
-- Later: 2025-09-26 · Replit · [[Changes/Replit/2025-09-26-agent-playground-testing-improvements|Agent playground testing improvements]]
+- Later: 2025-09-26 · Devin · [[Changes/Devin/2025-09-26-inline-plan-display-for-ask-devin|Inline Plan Display for Ask Devin]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

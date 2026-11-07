@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7f34f0832fa04cfa926801507ea89dd86b588765fa91e783693dfc99434c52ab
+machine_hash: 362fbc1605b1f96106be90d4c466661a90b1d19b5c4ad494bd1f3c42c9bd25e5
 product: aider
 product_name: Aider
 record:
@@ -88,7 +88,7 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.77.0
 ## Nearby in Developer Workflow
 
 - Earlier: 2025-03-11 · Dify · [[Changes/Dify/2025-03-11-stop-the-service-command-please-execute-in-the-docker-directory|Stop the service，Command, please execute in the docker directory]]
-- Later: 2025-03-18 · Dify · [[Changes/Dify/2025-03-18-3-developer-workflow-changes-in-1-1-0|3 Developer Workflow changes in 1.1.0]]
+- Later: 2025-03-14 · Raycast · [[Changes/Raycast/2025-03-14-the-email-field-in-the-send-feedback-command-is-being-pre-populated|The email field in the Send Feedback Command is being pre-populated]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

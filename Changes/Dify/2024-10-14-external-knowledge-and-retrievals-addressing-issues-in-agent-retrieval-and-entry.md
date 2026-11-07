@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: a1dd2ae18f0d44897cb19c9382772a35ea4288901ff33bb6fc3282bf5dc337c3
+machine_hash: ced35f08fd24b52d76827116d29a4eae118b673e10cd36829ce03d44976b638c
 product: dify
 product_name: Dify
 record:
@@ -46,10 +46,10 @@ record:
   title: '**External Knowledge and Retrievals:** Addressing issues in agent retrieval…'
   type: change
 related_changes:
-- '[[Changes/Dify/2024-09-10-refactor-api-core-improve-type-hints-and-apply-ruff-formatter-in-agent-runner-an|refactor(api/core):
-  Improve type hints and apply ruff formatter in agent runner…]]'
 - '[[Changes/Dify/2024-09-30-2-agent-mode-changes-in-0-9-0|2 Agent Mode changes in
   0.9.0]]'
+- '[[Changes/AnythingLLM/2024-10-03-2-agent-mode-changes-in-v1-2-3|2 Agent Mode changes
+  in v1.2.3]]'
 - '[[Changes/ElevenLabs/2024-10-13-agents-platform-beta-agents-platform-is-now-in-beta|Agents
   Platform Beta: Agents Platform is now in beta]]'
 source_release: '[[Releases/Dify/dify-2024-10-14-0-9-2-github-179747449-3e58ccc7|dify-2024-10-14-0-9-2-github-179747449-3e58ccc7]]'

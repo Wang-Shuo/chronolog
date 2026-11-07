@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 31396e3ec5d8e5c0e398a4952a20acf43e66e7a78a5325369574fc14000c7ef8
+machine_hash: 0bfc269947bb6532d753a60bf9b7d11ec3e271725520878ded50d5006020d03c
 product: open-webui
 product_name: Open WebUI
 record:
@@ -43,11 +43,11 @@ record:
   title: "**\U0001F4F8 Quick Screen Capture Button**"
   type: change
 related_changes:
-- '[[Changes/Dify/2024-12-09-4-interface-experience-changes-in-0-13-2|4 Interface
-  Experience changes in 0.13.2]]'
 - '[[Changes/Midjourney/2024-12-11-action-bar|Action Bar]]'
 - '[[Changes/Descript/2024-12-13-when-you-re-ready-to-swap-in-your-final-content-just-select-the-placeholder-laye|When
   you’re ready to swap in your final content, just select the Placeholder layer…]]'
+- '[[Changes/Devin/2024-12-24-more-options-to-customize-devin|More options to customize
+  Devin]]'
 source_release: '[[Releases/Open WebUI/open-webui-2024-12-25-v0-5-0-github-192314599-7712f16c|open-webui-2024-12-25-v0-5-0-github-192314599-7712f16c]]'
 source_type: github_releases
 theme: interface-experience
@@ -86,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2024-12-13 · Descript · [[Changes/Descript/2024-12-13-when-you-re-ready-to-swap-in-your-final-content-just-select-the-placeholder-laye|When you’re ready to swap in your final content, just select the Placeholder layer…]]
+- Earlier: 2024-12-24 · Devin · [[Changes/Devin/2024-12-24-more-options-to-customize-devin|More options to customize Devin]]
 - Later: 2024-12-26 · Aider · [[Changes/Aider/2024-12-26-https-aider-chat-history-html|(source link)]]
 <!-- chronolog:end -->
 

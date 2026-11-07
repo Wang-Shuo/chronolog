@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f404a91ca3dd00b0016c93e13ee88845b98bf1f79721c8fe50b066073fdf1fc7
+machine_hash: 9dce58af7d45a80055a02af41c81133cc88d0b62227423f247bb0667652d9acd
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -41,10 +41,10 @@ record:
   title: Sessions with large conversation history load faster on startup
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2026-01-10-the-evaluations-page-now-loads-faster-by-eliminating-duplicate-api-calls-to-the|\U0001F4CA
-  The Evaluations page now loads faster by eliminating duplicate API calls…]]"
 - '[[Changes/OpenCode/2026-01-10-terminal-fix-instance-disposal-to-prevent-memory-leaks-and-dangling-references|Terminal
   Fix instance disposal to prevent memory leaks and dangling references]]'
+- '[[Changes/Raycast/2026-01-12-ai-improved-streaming-performance|AI: Improved streaming
+  performance]]'
 - '[[Changes/Dify/2026-01-13-4-reliability-and-performance-changes-in-1-11-3|4 Reliability
   and Performance changes in 1.11.3]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-01-13-v0-0-380-github-276209240-1033f81a|github-copilot-cli-2026-01-13-v0-0-380-github-276209240-1033f81a]]'
@@ -82,7 +82,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-01-13 · Dify · [[Changes/Dify/2026-01-13-4-reliability-and-performance-changes-in-1-11-3|4 Reliability and Performance changes in 1.11.3]]
-- Later: 2026-01-13 · Windsurf · [[Changes/Windsurf/2026-01-13-2-reliability-and-performance-changes-in-v1-13-6|2 Reliability and Performance changes in v1.13.6]]
+- Later: 2026-01-13 · LM Studio · [[Changes/LM Studio/2026-01-13-mac-m5-enable-auto-upgrade-to-mlx-nax-engine-to-fix-mlx-model-crashes-and-improv|MacM5 Enable auto-upgrade to MLX NAX engine to fix MLX model crashes and improve…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

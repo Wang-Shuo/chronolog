@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 05f32df4afd1f5b58467402ece482fea09a0b783b0a0cee2af5ad7375e94036a
+machine_hash: ba5ecfb903d31971993c0cec2e0029e61b4a147de4747420d0ef3d04b2594514
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -41,8 +41,8 @@ record:
   title: Preserve open canvas instances across reconnects and restarts
   type: change
 related_changes:
-- '[[Changes/Replit/2026-06-12-add-visual-references-when-you-generate-media-on-canvas|Add
-  visual references when you generate media on Canvas]]'
+- '[[Changes/AnythingLLM/2026-06-16-2-files-and-data-changes-in-v1-14-1|2 Files and
+  Data changes in v1.14.1]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-16-recover-from-unreadable-native-document-attachments-by-falling-back-to-file-path|Recover
   from unreadable native document attachments by falling back to file-path uploads]]'
 - '[[Changes/Codex CLI/2026-06-22-29086-document-raw-response-item-compatibility-jif-oai|♯29086

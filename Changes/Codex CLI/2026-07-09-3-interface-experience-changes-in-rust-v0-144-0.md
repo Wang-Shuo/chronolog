@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3514cf43be7f6ff5f6fadeebdd3a0f7f050f4635628cb0867bcc89b72930cb3d
+machine_hash: 0fbd3feb43869c7df0f9c9fe34ae94705de8b8f3af245db9d82eb449b1a62d39
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -100,7 +100,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.144.0
 ## Nearby in Interface Experience
 
 - Earlier: 2026-07-09 · Cline · [[Changes/Cline/2026-07-09-2-interface-experience-changes-in-v4-0-7|2 Interface Experience changes in v4.0.7]]
-- Later: 2026-07-09 · Suno · [[Changes/Suno/2026-07-09-real-writing-environment|Real writing environment]]
+- Later: 2026-07-09 · Raycast · [[Changes/Raycast/2026-07-09-you-can-now-edit-any-message-you-ve-sent-in-ai-chat-just-hit-the-edit-button-use|Edit any message you've sent in AI Chat]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c7701e4dbb9a8395809f5c05b69498a73b6208468f1ddfe8a4e10f9eb20c220f
+machine_hash: 4d8de79e92d160bf11f84845f3d39c4d30c6a2cd66842afddfdd2ed7ec7bcdd1
 product: opencode
 product_name: OpenCode
 record:
@@ -43,10 +43,10 @@ record:
   title: 2 Apps and Integrations changes in v1.14.18 + 1
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-04-16-2-apps-and-integrations-changes-in-v1-4-7|2 Apps
-  and Integrations changes in v1.4.7]]'
-- '[[Changes/OpenCode/2026-04-17-core-let-plugin-tools-return-metadata-in-execute-results|Core
-  Let plugin tools return metadata in execute results]]'
+- '[[Changes/Recraft/2026-04-17-we-ve-added-recraft-plugins-for-figma-framer-and-chrome-generate-visuals-edit-im|Recraft
+  adds Recraft plugins for Figma, Framer, and Chrome]]'
+- '[[Changes/Recraft/2026-04-17-framer-plugin-https-www-framer-com-marketplace-plugins-recraft|Framer
+  plugin((source link)]]'
 - '[[Changes/Replit/2026-04-17-integrations|Integrations]]'
 source_release: '[[Releases/OpenCode/opencode-2026-04-19-v1-14-18-ba7bad5b|opencode-2026-04-19-v1-14-18-ba7bad5b]]'
 source_type: opencode_changelog

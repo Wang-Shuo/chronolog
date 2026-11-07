@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4c93f6764191d8c3c67878bd90fd1e18ce8156cc20b6337d28204197749e5c8d
+machine_hash: a3575da291827a80b8bc960ca2b730c95889d8cfac6ba149c928dc903287d40a
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,8 +44,7 @@ record:
     to let…
   type: change
 related_changes:
-- '[[Changes/Dify/2026-04-29-2-enterprise-and-administration-changes-in-1-14-0|2 Enterprise
-  and Administration changes in 1.14.0]]'
+- '[[Changes/Devin/2026-05-01-stacked-review-permissions|Stacked Review Permissions]]'
 - '[[Changes/Cursor/2026-05-04-this-release-introduces-updates-for-enterprise-admins-a-new-system-for-model-con|Cursor
   introduces updates for Enterprise admins]]'
 - '[[Changes/Cursor/2026-05-04-soft-spend-limits-and-intelligent-alerts|Soft spend

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: be6a618ef758d648f94b4a00ce4a09c013b7db41b464f79ecea3a9f78dde434b
+machine_hash: 32f7fd5743b645158a3c80ca22757a0ab2878581cd0ee7402792cde1b392ce00
 product: lovable
 product_name: Lovable
 record:
@@ -45,12 +45,11 @@ record:
   title: Larger document previews in the Files tab
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-15-4-editor-experience-changes-in-rust-v0-163-0|4 Editor
-  Experience changes in rust-v0.163.0]]'
-- '[[Changes/ChatGPT/2026-10-16-create-and-refine-edit-text-images-shapes-and-charts-directly-or-ask-chatgpt-to|Create
-  and refine]]'
-- '[[Changes/ChatGPT/2026-10-16-work-together-invite-teammates-to-edit-the-same-deck-in-real-time-and-leave-shar|Work
-  together]]'
+- '[[Changes/Devin/2026-10-16-command-palette-finds-archived-sessions|Command Palette
+  Finds Archived Sessions]]'
+- '[[Changes/Devin/2026-10-16-open-chat-images-in-a-tab|Open Chat Images in a Tab]]'
+- '[[Changes/Krea/2026-10-16-try-tools-before-you-log-in|Try tools before you log
+  in]]'
 source_release: '[[Releases/Lovable/lovable-2026-10-16-2026-10-16-3443a38d|lovable-2026-10-16-2026-10-16-3443a38d]]'
 source_type: lovable_changelog
 theme: editor-experience
@@ -86,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-10-16 · ChatGPT · [[Changes/ChatGPT/2026-10-16-work-together-invite-teammates-to-edit-the-same-deck-in-real-time-and-leave-shar|Work together]]
+- Earlier: 2026-10-16 · Krea · [[Changes/Krea/2026-10-16-try-tools-before-you-log-in|Try tools before you log in]]
 - Later: 2026-10-16 · Open WebUI · [[Changes/Open WebUI/2026-10-16-2-editor-experience-changes-in-v0-12-3|2 Editor Experience changes in v0.12.3]]
 <!-- chronolog:end -->
 

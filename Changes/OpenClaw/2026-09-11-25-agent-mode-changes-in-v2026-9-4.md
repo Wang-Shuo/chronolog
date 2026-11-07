@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b3a5aee3cc7bba1960dfd28e7c58a538c75fd2156216d5e2871ff592e5d4cee8
+machine_hash: fddb1161bd390d894e434f936d30f0b7f1c73e75f31ce3ab58ed5fa40a4aad9b
 product: openclaw
 product_name: OpenClaw
 record:
@@ -190,8 +190,8 @@ record:
   title: 25 Agent Mode changes in v2026.9.4
   type: change
 related_changes:
-- '[[Changes/Dify/2026-09-10-42-agent-mode-changes-in-1-17-1|42 Agent Mode changes
-  in 1.17.1]]'
+- '[[Changes/Krea/2026-09-10-free-agent-credits-through-september-15|Free Agent credits
+  through September 15]]'
 - '[[Changes/Runway/2026-09-10-agent-can-now-create-and-edit-brand-kits-for-you-right-in-the-conversation-group|Agent
   Brand Kits]]'
 - '[[Changes/Claude Code/2026-09-11-2-agent-mode-changes-in-v2-1-269|2 Agent Mode
@@ -301,7 +301,7 @@ Source: https://docs.openclaw.ai/releases/2026.9.4
 ## Nearby in Agent Mode
 
 - Earlier: 2026-09-11 · Claude Code · [[Changes/Claude Code/2026-09-11-2-agent-mode-changes-in-v2-1-269|2 Agent Mode changes in v2.1.269]]
-- Later: 2026-09-14 · Claude Code · [[Changes/Claude Code/2026-09-14-7-agent-mode-changes-in-v2-1-271|7 Agent Mode changes in v2.1.271]]
+- Later: 2026-09-11 · Raycast · [[Changes/Raycast/2026-09-11-ai-added-auto-review-rules-for-greater-control-over-how-auto-mode-behaves|AI : Added Auto-review rules for greater control over how Auto mode behaves]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

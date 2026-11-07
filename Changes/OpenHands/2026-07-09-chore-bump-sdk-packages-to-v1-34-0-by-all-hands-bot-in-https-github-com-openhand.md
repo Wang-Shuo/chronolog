@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9fbff04cd7643ad0eaaaa15c119bab6e99e0dc2fcf8467f00cb15767dfe74521
+machine_hash: d7c51e07fa438d7aff8c23ff22643ae362e1a2965edd2cc39d1eca26d395b7b0
 product: openhands
 product_name: OpenHands
 record:
@@ -79,7 +79,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-07-09 · Lovable · [[Changes/Lovable/2026-07-09-connect-bigquery-with-your-google-account|Connect BigQuery with your Google account]]
-- Later: 2026-07-10 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-10-9-apps-and-integrations-changes-in-v1-0-70|9 Apps and Integrations changes in v1.0.70]]
+- Later: 2026-07-09 · Raycast · [[Changes/Raycast/2026-07-09-applications-app-search-scopes-now-discover-shortcut-files-lnk-so-apps-reference|Applications : App search scopes now discover shortcut files (.lnk), so apps…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

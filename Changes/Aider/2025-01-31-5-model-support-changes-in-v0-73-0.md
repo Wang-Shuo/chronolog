@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 605c468260124219f8e834de6d24b121c496bf2733952ffdd9590341b552bd69
+machine_hash: 494a793daf905d0098c005ecf7f296cbee4e8cf53d3b120495f569ff71893c06
 product: aider
 product_name: Aider
 record:
@@ -49,12 +49,11 @@ record:
   title: 5 Model Support changes in v0.73.0
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2025-01-23-2-model-support-changes-in-v0-5-7|2 Model Support
-  changes in v0.5.7]]'
-- '[[Changes/Cline/2025-01-30-save-last-used-api-model-when-switching-between-plan-and-act-for-users-that-like|Save
-  last used API/model when switching between Plan and Act, for users that like…]]'
-- '[[Changes/Gemini/2025-01-30-introducing-gemini-2-0-flash-to-gemini|Introducing
-  Gemini 2.0 Flash to Gemini]]'
+- '[[Changes/LM Studio/2025-01-30-new-kv-cache-quantization-for-mlx-models-requires-mlx-engine-0-3-0|New:
+  KV Cache Quantization for MLX models (requires mlx-engine/0.3.0)]]'
+- '[[Changes/Raycast/2025-01-30-6-model-support-changes-in-raycast-macos-v1-1-90-0|6
+  Model Support changes in Raycast macos-v1 1.90.0]]'
+- '[[Changes/Raycast/2025-01-30-more-ai-models|More AI Models]]'
 source_release: '[[Releases/Aider/aider-2025-01-31-v0-73-0-github-197873362-8d9f245d|aider-2025-01-31-v0-73-0-github-197873362-8d9f245d]]'
 source_type: github_releases
 theme: model-support
@@ -95,7 +94,7 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.73.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-01-30 · Gemini · [[Changes/Gemini/2025-01-30-introducing-gemini-2-0-flash-to-gemini|Introducing Gemini 2.0 Flash to Gemini]]
+- Earlier: 2025-01-30 · Raycast · [[Changes/Raycast/2025-01-30-more-ai-models|More AI Models]]
 - Later: 2025-02-04 · OpenHands · [[Changes/OpenHands/2025-02-04-2-model-support-changes-in-0-23-0|2 Model Support changes in 0.23.0]]
 <!-- chronolog:end -->
 

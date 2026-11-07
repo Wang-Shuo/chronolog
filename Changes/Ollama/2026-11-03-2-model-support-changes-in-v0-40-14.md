@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ffc4edee27927e84638afa9fb48697578cca3a56a4133949c75a727a18a523c9
+machine_hash: 6cf5291155aae39e3a82aabfa81290ff51b5f1e5e70e260c5b120e65e46233c7
 product: ollama
 product_name: Ollama
 record:
@@ -46,8 +46,8 @@ record:
   title: 2 Model Support changes in v0.40.14
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-11-02-7-model-support-changes-in-elevenlabs-updates-2026-11-02|7
-  Model Support changes in ElevenLabs updates — 2026-11-02]]'
+- '[[Changes/Recraft/2026-11-02-review-four-different-directions-each-generated-with-the-model-best-suited-to-it|Review
+  four different directions, each generated with the model best suited to it]]'
 - '[[Changes/Google Antigravity/2026-11-03-voice-mode-enabled-by-gemini-live-lets-you-talk-to-antigravity-and-hand-requests|Voice
   mode, enabled by Gemini Live, lets you talk to Antigravity and hand requests…]]'
 - '[[Changes/Ollama/2026-11-03-2-model-support-changes-in-v0-40-15|2 Model Support

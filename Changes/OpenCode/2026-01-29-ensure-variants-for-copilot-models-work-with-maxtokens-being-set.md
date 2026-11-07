@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 4217670e967c39f0987b81a0147e29f81ab0a92a19c08ae7a38ae56ba2d873b3
+machine_hash: 21419c72f2c1947a998f13f02a6203069d6e99d219df49968b86de650fb8c27b
 product: opencode
 product_name: OpenCode
 record:
@@ -41,8 +41,8 @@ record:
   title: Ensure variants for Copilot models work with maxTokens being set
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-01-28-4-model-support-changes-in-v0-26-0|4 Model Support
-  changes in v0.26.0]]'
+- '[[Changes/LM Studio/2026-01-28-19-model-support-changes-in-lm-studio-0-4-0|19 Model
+  Support changes in LM Studio 0.4.0]]'
 - '[[Changes/OpenCode/2026-01-28-8-model-support-changes-in-v1-1-37|8 Model Support
   changes in v1.1.37]]'
 - '[[Changes/ChatGPT/2026-01-29-on-february-13-2026-alongside-the-previously-announced-retirement-of-gpt-5-insta|Retiring

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 4a7d4eae97d62da6f208af6f5bc31dd92a1559fdba205ced7f8fd4193c0d5f19
+machine_hash: 903f312490ca5fd46228a8a8568e12f3de10925afae2e633cc62e09f6e0373d2
 product: lovable
 product_name: Lovable
 record:
@@ -101,7 +101,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-06-18 · Kimi Code · [[Changes/Kimi Code/2026-06-18-add-reload-suggestion-in-plugin-change-hints|Add /reload suggestion in plugin-change hints]]
-- Later: 2026-06-18 · Windsurf · [[Changes/Windsurf/2026-06-18-made-mcp-registry-parsing-more-tolerant-of-old-and-inconsistent-schemas|Made MCP registry parsing more tolerant of old and inconsistent schemas]]
+- Later: 2026-06-18 · Raycast · [[Changes/Raycast/2026-06-18-mcp-you-can-now-install-mcp-servers-and-use-them-in-quick-ai-and-ai-chat|MCP : You can now install MCP servers and use them in Quick AI and AI Chat]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

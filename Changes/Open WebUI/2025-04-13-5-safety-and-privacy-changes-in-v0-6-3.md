@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3141611cc694c1db344b66d3f1f1aba09e2765da0d18eb835d19a41364b052d8
+machine_hash: b820b6af7586d2679269d6da8344726ee377a4400a980982a5140a717d39abce
 product: open-webui
 product_name: Open WebUI
 record:
@@ -59,12 +59,12 @@ record:
   title: 5 Safety and Privacy changes in v0.6.3
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2025-04-01-2-safety-and-privacy-changes-in-v0-6-0|2 Safety
-  and Privacy changes in v0.6.0]]'
 - '[[Changes/Open WebUI/2025-04-05-3-safety-and-privacy-changes-in-v0-6-1|3 Safety
   and Privacy changes in v0.6.1]]'
 - '[[Changes/Dify/2025-04-09-4-safety-and-privacy-changes-in-1-2-0|4 Safety and Privacy
   changes in 1.2.0]]'
+- '[[Changes/Raycast/2025-04-09-favicon-provider-we-added-a-new-setting-to-let-you-pick-your-favicon-provider-or|Favicon
+  Provider: We added a new setting to let you pick your favicon provider…]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-04-13-v0-6-3-github-212047861-826c6203|open-webui-2025-04-13-v0-6-3-github-212047861-826c6203]]'
 source_type: github_releases
 theme: safety-privacy
@@ -113,7 +113,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.6.3
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2025-04-09 · Dify · [[Changes/Dify/2025-04-09-4-safety-and-privacy-changes-in-1-2-0|4 Safety and Privacy changes in 1.2.0]]
+- Earlier: 2025-04-09 · Raycast · [[Changes/Raycast/2025-04-09-favicon-provider-we-added-a-new-setting-to-let-you-pick-your-favicon-provider-or|Favicon Provider: We added a new setting to let you pick your favicon provider…]]
 - Later: 2025-04-14 · ElevenLabs · [[Changes/ElevenLabs/2025-04-14-pronunciation-dictionaries|Pronunciation Dictionaries]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 292c5d4cfeda684069b9fbd2940c1f60e7774be956867d802a2a61a662516b75
+machine_hash: 0f88359034d1bbb27e8c17d2158c4dc851128309708a9ffeb85b549964854457
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -53,8 +53,7 @@ record:
   title: '#47984 Add multi-agent spawn latency and failure metrics @owenlin0'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-25-2-reliability-and-performance-changes-in-v2-1-283|2
-  Reliability and Performance changes in v2.1.283]]'
+- '[[Changes/Devin/2026-09-25-performance-improvements|Performance Improvements]]'
 - '[[Changes/Synthesia/2026-09-25-pick-720p-1080p-or-4k-when-generating-b-roll-so-you-can-iterate-faster-control-q|Improved
   resolution options for generated B-roll]]'
 - '[[Changes/Claude Code/2026-09-28-improved-startup-time-and-memory-use-by-building-only-the-parts-of-the-settings|Improved

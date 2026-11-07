@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9cc4d4795460a3de05ca2f945cb41b5fb4abcf048804715572431c0eb50894dc
+machine_hash: c4c0e7667d83d9fdbe535b5b11a5a527fd0d394222f0bebca8ac859ab57a6b99
 product: openhands
 product_name: OpenHands
 record:
@@ -58,10 +58,10 @@ record:
   title: 9 Apps and Integrations changes in v1.19.0
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-09-15-connect-your-app-to-power-bi|Connect your app to Power
-  BI]]'
-- '[[Changes/Claude/2026-09-16-claude-cowork-comes-to-every-conversation|Claude Cowork
-  comes to every conversation]]'
+- '[[Changes/Devin/2026-09-16-skipped-questions-are-shown-as-skipped|Skipped Questions
+  Are Shown as Skipped]]'
+- '[[Changes/Devin/2026-09-16-install-a-personal-plugin-from-a-directory|Install a
+  Personal Plugin from a Directory]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-16-20-apps-and-integrations-changes-in-v1-0-85|20
   Apps and Integrations changes in v1.0.85]]'
 source_release: '[[Releases/OpenHands/openhands-2026-09-16-v1-19-0-github-390206611-a05af427|openhands-2026-09-16-v1-19-0-github-390206611-a05af427]]'

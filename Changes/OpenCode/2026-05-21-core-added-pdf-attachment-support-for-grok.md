@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 2a97f6cf5f17781cb73e3c1db357de8adb7f7496d7dcc2bf43f935193d84e4fa
+machine_hash: 74e8fc5e95d8992d335f36759d835826c5113485d255d8b4247f859525dc09e4
 product: opencode
 product_name: OpenCode
 record:
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Files and Data
 
 - Earlier: 2026-05-15 · Replit · [[Changes/Replit/2026-05-15-export-canvas-frames-as-pngs|Export Canvas frames as PNGs]]
-- Later: 2026-05-28 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-28-canvas-tools-with-optional-object-input-schemas-open-correctly-without-validatio|Canvas tools with optional object input schemas open correctly without validation errors]]
+- Later: 2026-05-26 · AnythingLLM · [[Changes/AnythingLLM/2026-05-26-support-pulling-generated-documents-from-api-calls-by-timothycarambat-in-https-g|Support pulling generated documents from API calls]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

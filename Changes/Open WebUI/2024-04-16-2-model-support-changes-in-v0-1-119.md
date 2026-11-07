@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: df92427650d2cc90a6d8035699b259035b08900a17815a7cda86003591a89170
+machine_hash: 4bdc4509472f889a7825f5e4c39b67e8e5043c6e003eff37dac8cdfffa521f5a
 product: open-webui
 product_name: Open WebUI
 record:
@@ -87,7 +87,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.1.119
 ## Nearby in Model Support
 
 - Earlier: 2024-04-16 · Dify · [[Changes/Dify/2024-04-16-7-model-support-changes-in-0-6-3|7 Model Support changes in 0.6.3]]
-- Later: 2024-04-21 · Aider · [[Changes/Aider/2024-04-21-4-model-support-changes-in-v0-29-0|4 Model Support changes in v0.29.0]]
+- Later: 2024-04-20 · Superwhisper · [[Changes/Superwhisper/2024-04-20-add-images-for-models|Add images for models]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

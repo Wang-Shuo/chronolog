@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 0836d6a09d9331698fc6c7c1e652a000d014962e34aa959f3c9f8aca4356faa4
+machine_hash: 8b4a2f746467f9e7160eb0774645aef962722e9f5c80a3636f537e959b161b3b
 product: gemini
 product_name: Gemini
 record:
@@ -60,8 +60,7 @@ record:
   title: Gemini Omni is your creative partner for video creation
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-05-14-kimi-k2-6-with-vision-support|kimi-k2.6 (with vision
-  support)]]'
+- '[[Changes/Devin/2026-05-17-video-recording-download|Video Recording Download]]'
 - '[[Changes/HeyGen/2026-05-18-the-thing-that-makes-a-video-feel-real-isn-t-just-the-camera-or-the-lighting-it|The
   thing that makes a video feel real isn''t just the camera or the lighting]]'
 - '[[Changes/HeyGen/2026-05-18-look-at-the-camera-lean-in-stay-serious|"Look at the

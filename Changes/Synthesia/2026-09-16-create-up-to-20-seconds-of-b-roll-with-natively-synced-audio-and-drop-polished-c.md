@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e6bb494f5447633f41d677f16dfd6b6fdbf5a51f1cc70bd222f071a61550dd3c
+machine_hash: 5275b4559ae4ce7325bb0843c1f51e9308f70e6179a57a4b02624cd045d7d671
 product: synthesia
 product_name: Synthesia
 record:
@@ -43,9 +43,9 @@ record:
   title: Generate B-roll with Flux 3 from Black Forest Labs
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-09-14-packages|Packages]]'
 - '[[Changes/ElevenLabs/2026-09-14-elevenagents-bdb11f|ElevenAgents]]'
 - '[[Changes/ElevenLabs/2026-09-14-elevenagents-dab1d0|ElevenAgents]]'
+- '[[Changes/Devin/2026-09-16-live-voice-mode|Live Voice Mode]]'
 source_release: '[[Releases/Synthesia/synthesia-2026-09-16-https-www-synthesia-io-updates-generate-b-roll-with-flux-3-from-64112231|synthesia-2026-09-16-https-www-synthesia-io-updates-generate-b-roll-with-flux-3-from-64112231]]'
 source_type: synthesia_changelog
 theme: voice
@@ -72,7 +72,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-09-14 · ElevenLabs · [[Changes/ElevenLabs/2026-09-14-elevenagents-dab1d0|ElevenAgents]]
+- Earlier: 2026-09-16 · Devin · [[Changes/Devin/2026-09-16-live-voice-mode|Live Voice Mode]]
 - Later: 2026-09-17 · Codex CLI · [[Changes/Codex CLI/2026-09-17-20-voice-and-audio-changes-in-rust-v0-155-0|20 Voice and Audio changes in rust-v0.155.0]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3812072d45eb5505c0d0b205a58eb383a69b5848538240a1958185334cbece19
+machine_hash: e6ab439cc079f9fef68ff5cbbc05984865151f9b4aaad515e075a65e9448d4de
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -45,10 +45,9 @@ record:
   title: 2 Agent Mode changes in v0.47.0
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-06-17-this-release-introduces-updates-to-cloud-agents-in-the-agents-window-of-the-curs|Cursor
-  introduces updates to cloud agents in the Agents Window of the Cursor desktop app]]'
 - '[[Changes/Cursor/2026-06-17-cloud-subagents-with-in-cloud-eb7958|Cloud subagents
   with /in-cloud]]'
+- '[[Changes/Devin/2026-06-17-slack-agent-bang-command|Slack: !agent Bang Command]]'
 - '[[Changes/Codex CLI/2026-06-18-5-agent-mode-changes-in-rust-v0-141-0|5 Agent Mode
   changes in rust-v0.141.0]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-06-18-v0-47-0-github-341124036-8462e30e|gemini-cli-2026-06-18-v0-47-0-github-341124036-8462e30e]]'

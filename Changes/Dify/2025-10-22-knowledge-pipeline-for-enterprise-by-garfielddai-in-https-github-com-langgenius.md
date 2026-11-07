@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3e4783a0b9f0ff2bb13575764d8ed77388f2c579a631ddc56572df3c7495aad3
+machine_hash: 5fff5385e760a38ac5737ea76a9158f6193b4733759f59e54c9c89521701fbbd
 product: dify
 product_name: Dify
 record:
@@ -41,8 +41,10 @@ record:
   title: knowledge-pipeline-for-enterprise
   type: change
 related_changes:
-- '[[Changes/Replit/2025-10-03-teams-and-enterprise|Teams and Enterprise]]'
-- '[[Changes/Replit/2025-10-10-teams-and-enterprise|Teams and Enterprise]]'
+- '[[Changes/Devin/2025-10-17-slack-enterprise-grid-support|Slack Enterprise Grid
+  Support]]'
+- '[[Changes/Devin/2025-10-17-enterprise-playbooks-api-v2|Enterprise Playbooks API
+  v2]]'
 - '[[Changes/Replit/2025-10-17-teams-and-enterprise|Teams and Enterprise]]'
 source_release: '[[Releases/Dify/dify-2025-10-22-1-9-2-github-255984243-4bd350a7|dify-2025-10-22-1-9-2-github-255984243-4bd350a7]]'
 source_type: github_releases

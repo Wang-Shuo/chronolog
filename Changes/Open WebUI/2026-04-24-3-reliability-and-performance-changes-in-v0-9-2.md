@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 746dbeeb3a52f0aa7643179bd10f4cd684c550d9d4da5ce2609e856f914b886e
+machine_hash: 506b8f6416b08ba8e88c10b7f4d635a323d7bfff7f33730459eab9756a86835b
 product: open-webui
 product_name: Open WebUI
 record:
@@ -100,7 +100,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.9.2
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-04-24 · Cline · [[Changes/Cline/2026-04-24-add-periodic-memory-usage-logging|add periodic memory usage logging]]
-- Later: 2026-04-28 · Claude Code · [[Changes/Claude Code/2026-04-28-faster-startup-after-upgrading-removed-the-recent-activity-panel-from-the-releas|Faster startup after upgrading]]
+- Later: 2026-04-27 · Raycast · [[Changes/Raycast/2026-04-27-search-menu-bar-items-added-fuzzy-search-to-find-menu-items-faster|Search Menu Bar Items : Added fuzzy search to find menu items faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

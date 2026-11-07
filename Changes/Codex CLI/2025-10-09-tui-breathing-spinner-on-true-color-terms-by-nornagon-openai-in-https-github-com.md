@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 217ee60c6199ef4c55dc40d0df1151f776f95d149a8556addf442efc78499413
+machine_hash: ae5e92645bb62433b0e16d620de33a198eccf06c46a36f54f65439718cee6e9f
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -82,7 +82,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2025-10-07 · Open WebUI · [[Changes/Open WebUI/2025-10-07-8-interface-experience-changes-in-v0-6-33|8 Interface Experience changes in v0.6.33]]
-- Later: 2025-10-10 · Windsurf · [[Changes/Windsurf/2025-10-10-codemaps|Codemaps]]
+- Later: 2025-10-10 · Raycast · [[Changes/Raycast/2025-10-10-2-interface-experience-changes-in-raycast-windows-0-32|2 Interface Experience changes in Raycast windows 0.32]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

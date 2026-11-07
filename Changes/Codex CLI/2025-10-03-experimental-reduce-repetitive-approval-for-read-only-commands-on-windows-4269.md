@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c5740ff65152d2b4f9c8a3129ffc509f9de609eb7ca730aa9d879abdb3a48b1d
+machine_hash: d9763947986f7f508368853654425e7c9c45ef4386670ecf952f342b0d636b9f
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -45,8 +45,8 @@ record:
     (#4269)
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-09-17-the-thinking-time-toggle-is-live-today-on-chatgpt-com-settings-you-choose-on-the|The
-  thinking-time toggle is live today on chatgpt.com]]'
+- '[[Changes/Superwhisper/2025-09-23-macos-26-design-ultra-translation-updates|macOS
+  26 Design & Ultra Translation Updates]]'
 - '[[Changes/Claude/2025-09-29-creating-and-editing-files-with-claude-for-pro-plans-and-mobile|Creating
   and editing files with Claude for Pro plans and mobile]]'
 - '[[Changes/Cline/2025-10-01-2-mobile-and-desktop-changes-in-v3-32-6|2 Mobile and

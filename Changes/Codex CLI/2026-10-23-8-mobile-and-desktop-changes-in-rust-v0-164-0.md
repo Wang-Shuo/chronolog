@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1bbd3f9387b8f722367f2c3d54d6495ceb91aca9aec3854266920420e522a410
+machine_hash: 82ecf4055712ac0fd989a4c757e316562f880a0e1bc5a055685e5492d41593f3
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -55,12 +55,12 @@ record:
   title: 8 Mobile and Desktop changes in rust-v0.164.0
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-10-22-the-app-isn-t-signed-with-an-apple-developer-id-yet-so-macos-may-call-a-431833|The
-  app isn''t signed with an Apple Developer ID yet, so macOS may call a]]'
 - '[[Changes/OpenHands/2026-10-22-the-app-isn-t-signed-with-an-apple-developer-id-yet-so-macos-may-call-a-75a2b3|The
   app isn''t signed with an Apple Developer ID yet, so macOS may call a]]'
 - '[[Changes/Qoder/2026-10-22-linux-desktop-support-added-a-linux-arm64-desktop-version-and-improved-compatibi|Linux
   desktop support]]'
+- '[[Changes/Raycast/2026-10-22-restart-shut-down-the-confirmation-now-has-a-reopen-windows-when-logging-back-in|Restart
+  / Shut Down]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-10-23-rust-v0-164-0-github-421457270-d867151d|codex-cli-2026-10-23-rust-v0-164-0-github-421457270-d867151d]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -119,7 +119,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.164.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-10-22 · Qoder · [[Changes/Qoder/2026-10-22-linux-desktop-support-added-a-linux-arm64-desktop-version-and-improved-compatibi|Linux desktop support]]
+- Earlier: 2026-10-22 · Raycast · [[Changes/Raycast/2026-10-22-restart-shut-down-the-confirmation-now-has-a-reopen-windows-when-logging-back-in|Restart / Shut Down]]
 - Later: 2026-10-23 · OpenHands · [[Changes/OpenHands/2026-10-23-the-app-isn-t-signed-with-an-apple-developer-id-yet-so-macos-may-call-a|The app isn't signed with an Apple Developer ID yet, so macOS may call a]]
 <!-- chronolog:end -->
 

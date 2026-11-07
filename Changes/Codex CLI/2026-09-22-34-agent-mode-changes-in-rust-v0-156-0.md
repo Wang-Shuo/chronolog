@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7c0f00325220c8bdce1c53d47dadb610946ed3136c9556299437e8bb657d726b
+machine_hash: af9a84b1ce4a08c68d1cc1cfedce2f4165db19f8ff8237feeb6f3bedce5eb316
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -112,8 +112,8 @@ record:
   title: 34 Agent Mode changes in rust-v0.156.0
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-09-21-manage-agent-permissions-from-your-account-settings|Manage
-  agent permissions from your account settings]]'
+- '[[Changes/AnythingLLM/2026-09-22-5-agent-mode-changes-in-v1-16-2|5 Agent Mode changes
+  in v1.16.2]]'
 - '[[Changes/Claude Code/2026-09-22-2-agent-mode-changes-in-v2-1-280|2 Agent Mode
   changes in v2.1.280]]'
 - '[[Changes/Cline/2026-09-22-2-agent-mode-changes-in-v4-1-20|2 Agent Mode changes

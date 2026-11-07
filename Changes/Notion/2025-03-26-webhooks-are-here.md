@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 919057cf031454513662396dc60ee7360744499184c0129037af89bcc8dc0916
+machine_hash: 82029866c7cefc886a02754d365f345859d96b45f4074ace306c0b82d44ced12
 product: notion
 product_name: Notion
 record:
@@ -88,7 +88,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2025-03-23 · Cursor · [[Changes/Cursor/2025-03-23-3-apps-and-integrations-changes-in-0-48-x|3 Apps and Integrations changes in 0.48.x]]
-- Later: 2025-04-01 · Cline · [[Changes/Cline/2025-04-01-3-apps-and-integrations-changes-in-v3-8-5|3 Apps and Integrations changes in v3.8.5]]
+- Later: 2025-03-27 · LM Studio · [[Changes/LM Studio/2025-03-27-3-apps-and-integrations-changes-in-lm-studio-0-3-14|3 Apps and Integrations changes in LM Studio 0.3.14]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

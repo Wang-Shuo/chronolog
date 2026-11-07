@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9223eebfba0480097a48634407108898b582865120b1359430951558983e9bd1
+machine_hash: aa127a3d721e64023fe614f3f247d47fba4ca59774e281f6c01241de82f07de4
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,10 +43,10 @@ record:
   title: 2 Interface Experience changes in rust-v0.128.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-28-4-interface-experience-changes-in-v2-1-121|4 Interface
-  Experience changes in v2.1.121]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-28-2-interface-experience-changes-in-v1-0-39|2
   Interface Experience changes in v1.0.39]]'
+- '[[Changes/Devin/2026-04-29-double-click-file-attachment-picker|Double-Click File
+  Attachment Picker]]'
 - '[[Changes/Dify/2026-04-29-10-interface-experience-changes-in-1-14-0|10 Interface
   Experience changes in 1.14.0]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-04-30-rust-v0-128-0-github-315916672-1708ab89|codex-cli-2026-04-30-rust-v0-128-0-github-315916672-1708ab89]]'
@@ -94,7 +94,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.128.0
 ## Nearby in Interface Experience
 
 - Earlier: 2026-04-29 · Dify · [[Changes/Dify/2026-04-29-10-interface-experience-changes-in-1-14-0|10 Interface Experience changes in 1.14.0]]
-- Later: 2026-05-01 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-01-3-interface-experience-changes-in-v1-0-40|3 Interface Experience changes in v1.0.40]]
+- Later: 2026-04-30 · Raycast · [[Changes/Raycast/2026-04-30-snippets-quickly-create-snippets-from-ai-chat-composer-or-notes-through-the-edit|Snippets: Quickly create snippets from AI chat, composer or notes through the edit menu]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

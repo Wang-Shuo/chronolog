@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 48841b3045abd842aa7d5aac09a3c285fbb7bff59909d231abecdb9236c2600a
+machine_hash: e3ce86111d10bb19c0ce0d3b54705aa2033175bed4cbd7fa4535b0a61a3e9230
 product: windsurf
 product_name: Windsurf
 record:
@@ -57,11 +57,11 @@ record:
     same…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-23-8-collaboration-changes-in-rust-v0-164-0|8 Collaboration
-  changes in rust-v0.164.0]]'
 - '[[Changes/Dify/2026-10-23-5-collaboration-changes-in-1-18-0|5 Collaboration changes
   in 1.18.0]]'
 - '[[Changes/Replit/2026-10-23-chat-and-asset-sharing|Chat and asset sharing]]'
+- '[[Changes/Superwhisper/2026-10-26-switch-a-recording-between-the-original-and-ai-text-and-share-either-one|Switch
+  a recording between the original and AI text, and share either one]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-10-26-v3-11-228-40b60cc1|windsurf-2026-10-26-v3-11-228-40b60cc1]]'
 source_type: windsurf_changelog
 theme: collaboration
@@ -95,8 +95,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-10-23 · Replit · [[Changes/Replit/2026-10-23-chat-and-asset-sharing|Chat and asset sharing]]
-- Later: 2026-10-27 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-10-27-use-copilot-chat-after-a-call-in-queues-app-windows-mac-teams|Use Copilot Chat after a call in Queues app Windows, Mac (Teams)]]
+- Earlier: 2026-10-26 · Superwhisper · [[Changes/Superwhisper/2026-10-26-switch-a-recording-between-the-original-and-ai-text-and-share-either-one|Switch a recording between the original and AI text, and share either one]]
+- Later: 2026-10-27 · Krea · [[Changes/Krea/2026-10-27-share-nodes-projects-with-your-organization|Share Nodes projects with your organization]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

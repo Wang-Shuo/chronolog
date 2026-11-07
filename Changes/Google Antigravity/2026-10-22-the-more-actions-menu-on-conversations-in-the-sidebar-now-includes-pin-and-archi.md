@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3d6ce2b7c14956cdf9882067b6233199205f7f973c12b1e9feea5b1c12e91792
+machine_hash: 88f09cdcde8b04b2903c48039e6ea1aafc222da75a0fc3ef129b6a2eeca535d9
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -55,11 +55,11 @@ record:
     Archive…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-20-improved-a-mod-s-image-to-draw-its-picture-in-iterm2-3-5-and-later-with-fullscre|Improved
-  a mod''s Image to draw its picture in iTerm2 3.5 and later with fullscreen…]]'
 - '[[Changes/Google Antigravity/2026-10-20-2-interface-experience-changes-in-hub-v2-25-0-plugin-sidebar-badges|2
   Interface Experience changes in HUB v2.25.0 — Plugin sidebar badges…]]'
 - '[[Changes/Lovable/2026-10-20-redesigned-more-menu|Redesigned More menu]]'
+- '[[Changes/Superwhisper/2026-10-20-glass-buttons-in-the-history-selection-bar-with-select-multiple-now-working-dire|Glass
+  buttons in the History selection bar, with "Select Multiple" now working…]]'
 source_release: '[[Releases/Google Antigravity/google-antigravity-2026-10-22-rel-hub-2-26-0-335d6d26|google-antigravity-2026-10-22-rel-hub-2-26-0-335d6d26]]'
 source_type: antigravity_changelog
 theme: interface-experience
@@ -94,7 +94,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-10-20 · Lovable · [[Changes/Lovable/2026-10-20-redesigned-more-menu|Redesigned More menu]]
+- Earlier: 2026-10-20 · Superwhisper · [[Changes/Superwhisper/2026-10-20-glass-buttons-in-the-history-selection-bar-with-select-multiple-now-working-dire|Glass buttons in the History selection bar, with "Select Multiple" now working…]]
 - Later: 2026-10-22 · Qoder · [[Changes/Qoder/2026-10-22-sidebar-customization-reorder-navigation-entries-move-them-between-sections-and|Sidebar customization: Reorder navigation entries, move them between sections…]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 7e1a81022fcf05fe6f9aef2348001770ad40be5e81eab31f7c92ba1e09fe656d
+machine_hash: 01e46aff5ab6c7a4ad03256d4cd104a7f987b1eb307335ef81e19a7821b911e1
 product: notion
 product_name: Notion
 record:
@@ -59,11 +59,11 @@ record:
   title: Improvements to Synced Databases with Jira and GitHub
   type: change
 related_changes:
-- '[[Changes/Notion/2021-10-19-any-workspace-member-can-add-integrations|Any workspace
-  member can add integrations]]'
-- '[[Changes/Notion/2021-11-02-create-dynamic-previews-of-github-prs-slack-messages-jira-issues-more|Create
-  dynamic previews of GitHub PRs, Slack messages, Jira issues & more]]'
+- '[[Changes/Raycast/2022-03-24-root-search-running-app-activity-indicator-now-respects-dock-s-show-indicator-fo|Root
+  Search: Running app activity indicator now respects Dock’s…]]'
 - '[[Changes/Notion/2022-07-20-better-inline-link-previews|Better inline link previews]]'
+- '[[Changes/Raycast/2022-08-18-extensions-updater-parallelize-updates-and-provide-more-information-on-toast-whe|Extensions
+  Updater: Parallelize updates and provide more information on toast…]]'
 source_release: '[[Releases/Notion/notion-2022-08-25-https-www-notion-com-releases-2022-08-25-3c4bbec4|notion-2022-08-25-https-www-notion-com-releases-2022-08-25-3c4bbec4]]'
 source_type: notion_changelog
 theme: apps-integrations
@@ -99,8 +99,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2022-07-20 · Notion · [[Changes/Notion/2022-07-20-better-inline-link-previews|Better inline link previews]]
-- Later: 2022-11-08 · Notion · [[Changes/Notion/2022-11-08-connect-notion-s-people-property-in-synced-databases-for-github-and-jira|Connect Notion’s “People” property in Synced Databases for GitHub and Jira]]
+- Earlier: 2022-08-18 · Raycast · [[Changes/Raycast/2022-08-18-extensions-updater-parallelize-updates-and-provide-more-information-on-toast-whe|Extensions Updater: Parallelize updates and provide more information on toast…]]
+- Later: 2022-09-28 · Raycast · [[Changes/Raycast/2022-09-28-2-apps-and-integrations-changes-in-raycast-macos-v1-1-40-0|2 Apps and Integrations changes in Raycast macos-v1 1.40.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

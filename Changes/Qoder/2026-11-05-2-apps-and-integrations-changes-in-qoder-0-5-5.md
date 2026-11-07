@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4547512625f65a279a46a1978e617da4f448eb72cdec53e4528e168fc88a7eec
+machine_hash: ea705a90b29c56467843d79d2c8bce91305d27818623b42e1c304bc30afc5d53
 product: qoder
 product_name: Qoder
 record:
@@ -46,8 +46,8 @@ record:
   title: 2 Apps and Integrations changes in Qoder 0.5.5
   type: change
 related_changes:
-- '[[Changes/Microsoft 365 Copilot/2026-11-04-user-can-use-hubspot-connector-in-researcher-web-microsoft-365-copilot-extensibi|User
-  can use HubSpot Connector in Researcher Web (Microsoft 365 Copilot extensibility)]]'
+- '[[Changes/Raycast/2026-11-04-2-apps-and-integrations-changes-in-raycast-windows-2-11|2
+  Apps and Integrations changes in Raycast windows 2.11]]'
 - '[[Changes/OpenClaw/2026-11-05-5-apps-and-integrations-changes-in-v2026-11-1|5 Apps
   and Integrations changes in v2026.11.1]]'
 - '[[Changes/OpenHands/2026-11-05-3-apps-and-integrations-changes-in-v1-36-0|3 Apps

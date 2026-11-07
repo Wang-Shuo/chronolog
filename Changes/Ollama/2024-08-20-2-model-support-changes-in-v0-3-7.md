@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 69b6b5571868c2a718c844cf35059deffde33618951ad07e15651a4c5bf16984
+machine_hash: 4332e817f9ab32deffb7682a9d017791f281debf65407c2864bae02bc18dee6f
 product: ollama
 product_name: Ollama
 record:
@@ -45,8 +45,8 @@ record:
   title: 2 Model Support changes in v0.3.7
   type: change
 related_changes:
-- '[[Changes/Gemini/2024-08-15-gemini-1-5-pro-in-gemini-advanced-just-became-more-capable|Gemini
-  1.5 Pro in Gemini Advanced just became more capable]]'
+- '[[Changes/AnythingLLM/2024-08-19-2-model-support-changes-in-v1-2-1|2 Model Support
+  changes in v1.2.1]]'
 - '[[Changes/Dify/2024-08-19-7-model-support-changes-in-0-7-1|7 Model Support changes
   in 0.7.1]]'
 - '[[Changes/Aider/2024-08-20-prompt-caching-for-anthropic-models-with-cache-prompts|Prompt

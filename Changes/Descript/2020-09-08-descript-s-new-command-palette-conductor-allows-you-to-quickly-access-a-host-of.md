@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 0afad35c603be5739e883493694719290a0cc540b6ba5ea26e9f9a67b062b689
+machine_hash: fc3c6bf2785ac7afe5f57774fa4f9c70a18ad881c74af133e4b9f09dfd6a7101
 product: descript
 product_name: Descript
 record:
@@ -48,10 +48,9 @@ record:
   title: Speed Up Your Editing Workflow with the Conductor
   type: change
 related_changes:
-- '[[Changes/Notion/2020-06-23-improved-keyboard-and-slash-command-support-for-inline-math|Improved
-  keyboard and slash command support for inline math]]'
-- '[[Changes/Notion/2020-07-02-added-grey-as-an-alternative-spelling-for-the-slash-command-gray|Added
-  /grey as an alternative spelling for the slash command /gray]]'
+- '[[Changes/Raycast/2020-08-03-new-the-update-flow-got-nicely-integrated-in-raycast-new-updates-show-up-on-the|New:
+  The update flow got nicely integrated in Raycast]]'
+- '[[Changes/Raycast/2020-08-25-fallback-search-suggestions|Fallback search suggestions]]'
 - '[[Changes/Notion/2020-09-02-new-slash-command-shortcut-create-a-link-to-page-block-with-the-slash-command-lt|New
   slash command shortcut]]'
 source_release: '[[Releases/Descript/descript-2020-09-08-5f57b16543718c425cd6e356-c730ae56|descript-2020-09-08-5f57b16543718c425cd6e356-c730ae56]]'
@@ -81,7 +80,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2020-09-02 · Notion · [[Changes/Notion/2020-09-02-new-slash-command-shortcut-create-a-link-to-page-block-with-the-slash-command-lt|New slash command shortcut]]
-- Later: 2020-11-19 · Notion · [[Changes/Notion/2020-11-19-add-captions-to-code-blocks|Add captions to code blocks 💾]]
+- Later: 2020-09-08 · Raycast · [[Changes/Raycast/2020-09-08-added-the-lock-screen-command-to-the-raycast-system-extension-simply-execute-the|Added the Lock Screen command to the Raycast System extension]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

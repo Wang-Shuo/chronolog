@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 57f54b4e4cbd0150e21ae638929aba7e5374e58c197fa4b6b7403a10668f6e6c
+machine_hash: d33d6ff9c71bb20961c032d764cf47f7441874ed328acac283abae9c3bbb3aa6
 product: midjourney
 product_name: Midjourney
 record:
@@ -59,12 +59,12 @@ record:
     until…
   type: change
 related_changes:
-- '[[Changes/Dify/2024-01-04-alter-schedule-timedelta-by-johnjyong-in-https-github-com-langgenius-dify-pull-1|alter
-  schedule timedelta]]'
 - '[[Changes/Dify/2024-01-19-as-per-the-planned-schedule-these-deprecated-envs-are-being-removed|As
   per the planned schedule, these deprecated envs are being removed]]'
 - '[[Changes/Notion/2024-02-26-automate-with-database-buttons|Automate with database
   buttons]]'
+- '[[Changes/Raycast/2024-03-07-my-schedule-show-the-conference-provider-icon-in-the-event-item|My
+  Schedule: Show the conference provider icon in the event item]]'
 source_release: '[[Releases/Midjourney/midjourney-2024-03-13-https-updates-midjourney-com-halting-free-gpu-rewards-1ae59e99|midjourney-2024-03-13-https-updates-midjourney-com-halting-free-gpu-rewards-1ae59e99]]'
 source_type: midjourney_changelog
 theme: automation-scheduling
@@ -102,8 +102,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2024-02-26 · Notion · [[Changes/Notion/2024-02-26-automate-with-database-buttons|Automate with database buttons]]
-- Later: 2024-04-08 · Dify · [[Changes/Dify/2024-04-08-targeting-automation-and-batch-processing-this-is-ideal-for-translation-data-ana|Targeting Automation and Batch Processing]]
+- Earlier: 2024-03-07 · Raycast · [[Changes/Raycast/2024-03-07-my-schedule-show-the-conference-provider-icon-in-the-event-item|My Schedule: Show the conference provider icon in the event item]]
+- Later: 2024-03-20 · Raycast · [[Changes/Raycast/2024-03-20-my-schedule-add-action-to-list-and-copy-information-about-specific-attendees|My Schedule: Add action to list and copy information about specific attendees]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

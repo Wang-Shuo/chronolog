@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2c96f74eb8ab6cc0da32dd746213a09349e75c962d98889e26e86e34d0a05ba4
+machine_hash: d969e91eb337b1339cc12ec5197c2b8df2213c6322efef1660149c7c5de4737f
 product: cline
 product_name: Cline
 record:
@@ -51,10 +51,10 @@ record:
   title: 2 Context Window changes in v4.1.20
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-09-18-type-or-to-add-context-and-skills-where-you-type|Type
-  @ or / to add context and skills where you type]]'
 - '[[Changes/OpenClaw/2026-09-19-20-context-window-changes-in-v2026-9-5|20 Context
   Window changes in v2026.9.5]]'
+- '[[Changes/Devin/2026-09-21-rotate-bitbucket-data-center-tokens|Rotate Bitbucket
+  Data Center Tokens]]'
 - '[[Changes/Open WebUI/2026-09-21-3-context-window-changes-in-v0-11-4|3 Context Window
   changes in v0.11.4]]'
 source_release: '[[Releases/Cline/cline-2026-09-22-v4-1-20-github-394105689-95df91cb|cline-2026-09-22-v4-1-20-github-394105689-95df91cb]]'

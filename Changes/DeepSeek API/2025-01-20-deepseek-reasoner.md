@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 1c08762dc6673e921d1d435fe91f42718d0b39b44f59a328fa3c91ea1948fb36
+machine_hash: fa8314117cf1c0cbad82e37820a474085551889b0d164888a0adfd16fe19fd32
 product: deepseek-api
 product_name: DeepSeek API
 record:
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2025-01-20 · Aider · [[Changes/Aider/2025-01-20-4-model-support-changes-in-v0-72-0|4 Model Support changes in v0.72.0]]
-- Later: 2025-01-21 · Cline · [[Changes/Cline/2025-01-21-add-vs-code-lm-api-provider-to-run-models-provided-by-other-vs-code-extensions-e|Add VS Code LM API provider to run models provided by other VS Code extensions…]]
+- Later: 2025-01-20 · LM Studio · [[Changes/LM Studio/2025-01-20-new-kv-cache-quantization-for-llama-cpp-models-requires-llama-cpp-1-9-0-runtime|New: KV Cache quantization for llama.cpp models (requires llama.cpp/1.9.0+ runtime)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

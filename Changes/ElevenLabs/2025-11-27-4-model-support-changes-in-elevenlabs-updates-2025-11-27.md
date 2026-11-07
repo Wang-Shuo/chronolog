@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 971c2488ed7b4afa95acabe72bbd20e9be9cd91007e269987d594f94739b7cad
+machine_hash: d721df69add35dfa1060adcc8545249e7d5b111a81d1c216f2e437d7e8c7b260
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -46,10 +46,10 @@ record:
   title: 4 Model Support changes in ElevenLabs updates — 2025-11-27
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-11-26-6-model-support-changes-in-v0-18-0|6 Model Support
-  changes in v0.18.0]]'
 - '[[Changes/Lovable/2025-11-26-gemini-3-pro-image-generation-support|Gemini 3 Pro
   & image generation support]]'
+- '[[Changes/Superwhisper/2025-11-26-2-model-support-changes-in-superwhisper-macos-2-7-0|2
+  Model Support changes in Superwhisper macOS 2.7.0]]'
 - '[[Changes/Cline/2025-11-27-12-model-support-changes-in-v3-38-3|12 Model Support
   changes in v3.38.3]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2025-11-27-2025-11-27-698fd842|elevenlabs-2025-11-27-2025-11-27-698fd842]]'
@@ -99,7 +99,7 @@ Source: https://elevenlabs.io/docs/changelog/2025/11/27
 ## Nearby in Model Support
 
 - Earlier: 2025-11-27 · Cline · [[Changes/Cline/2025-11-27-12-model-support-changes-in-v3-38-3|12 Model Support changes in v3.38.3]]
-- Later: 2025-12-02 · Cline · [[Changes/Cline/2025-12-02-4-model-support-changes-in-v3-39-0|4 Model Support changes in v3.39.0]]
+- Later: 2025-11-28 · Recraft · [[Changes/Recraft/2025-11-28-we-ve-added-a-new-external-model-flux-2-available-to-paid-subscribers-only|Recraft adds a new external model — Flux 2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

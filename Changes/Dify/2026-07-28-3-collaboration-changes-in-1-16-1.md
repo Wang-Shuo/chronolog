@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 32616260522fee5264d31a80e12a4ce79cc5e228ea9534a77aa8b196f51e8aaa
+machine_hash: 53a64c0a05973fef426b9fd77520c5154510caab3f5467d157eab583e2006198
 product: dify
 product_name: Dify
 record:
@@ -45,8 +45,8 @@ record:
   title: 3 Collaboration changes in 1.16.1
   type: change
 related_changes:
-- '[[Changes/Midjourney/2026-07-23-as-a-kid-all-i-wanted-was-a-cool-place-to-work-on-cool-projects-with-cool-people|Midjourney’s
-  First Acquisition]]'
+- '[[Changes/Raycast/2026-07-23-ai-chat-added-right-click-actions-for-links-and-files-making-it-easier-to-open-c|AI
+  Chat : Added right-click actions for links and files, making it easier to open…]]'
 - '[[Changes/ElevenLabs/2026-07-27-studio|Studio]]'
 - '[[Changes/Open WebUI/2026-07-27-2-collaboration-changes-in-v0-11-0|2 Collaboration
   changes in v0.11.0]]'

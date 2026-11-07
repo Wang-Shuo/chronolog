@@ -1,0 +1,15 @@
+{
+  "checked": "tl-only-22",
+  "filterCount": 43,
+  "allowedProducts": [
+    "LM Studio"
+  ],
+  "viewport": 1440,
+  "documentWidth": 1440,
+  "tables": [
+    {
+      "width": 790,
+      "scrollWidth": 7976
+    }
+  ]
+}

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: d6d1522ded4560f5bba2d18e56fb2b03154550c46161a1f8374fb355805efb9a
+machine_hash: 7796eaa96a3749643c5f29014653db3d2d731373fef0518a2d16f03aaf9bebb0
 product: lovable
 product_name: Lovable
 record:
@@ -47,8 +47,7 @@ record:
   title: Require two-factor authentication for your workspace
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-09-5-account-and-access-changes-in-rust-v0-154-0|5
-  Account and Access changes in rust-v0.154.0]]'
+- '[[Changes/LM Studio/2026-09-09-improved-sign-in-reliability|Improved sign-in reliability]]'
 - '[[Changes/Claude Code/2026-09-10-2-account-and-access-changes-in-v2-1-268|2 Account
   and Access changes in v2.1.268]]'
 - '[[Changes/Dify/2026-09-10-6-account-and-access-changes-in-1-17-1|6 Account and

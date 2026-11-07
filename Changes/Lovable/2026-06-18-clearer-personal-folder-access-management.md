@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 4cc507e3f35bb1b5c3b4ef18da6944bde1d62bc13120ef0b39cc42c7054da5ad
+machine_hash: d7b08c5427e276d66c69bd8f910645705761cdcd54e1fd115c183551c74306e7
 product: lovable
 product_name: Lovable
 record:
@@ -49,10 +49,10 @@ record:
   title: Clearer personal folder access management
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-06-10-user-insights-for-workspace-members|User insights
-  for workspace members]]'
-- '[[Changes/Descript/2026-06-11-creator-pro-and-enterprise-plans-up-to-5-concurrent-generations|Creator,
-  Pro, and Enterprise plans: up to 5 concurrent generations]]'
+- '[[Changes/Krea/2026-06-16-zero-data-retention-available-for-krea-enterprise-api|Zero
+  Data Retention available for Krea enterprise API]]'
+- '[[Changes/Devin/2026-06-17-enterprise-knowledge-limit-increased-to-300|Enterprise
+  Knowledge Limit Increased to 300]]'
 - '[[Changes/Codex CLI/2026-06-18-tls-connections-now-support-p-521-certificate-signatures-commonly-used-by-enterp|TLS
   connections now support P-521 certificate signatures commonly used by enterprise…]]'
 source_release: '[[Releases/Lovable/lovable-2026-06-18-2026-06-18-3e62b64d|lovable-2026-06-18-2026-06-18-3e62b64d]]'
@@ -90,7 +90,7 @@ type: change
 ## Nearby in Enterprise and Administration
 
 - Earlier: 2026-06-18 · Codex CLI · [[Changes/Codex CLI/2026-06-18-tls-connections-now-support-p-521-certificate-signatures-commonly-used-by-enterp|TLS connections now support P-521 certificate signatures commonly used by enterprise…]]
-- Later: 2026-06-19 · Replit · [[Changes/Replit/2026-06-19-teams-and-enterprise|Teams and Enterprise]]
+- Later: 2026-06-19 · Devin · [[Changes/Devin/2026-06-19-user-only-pr-author-enforcement|"User Only" PR Author Enforcement]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

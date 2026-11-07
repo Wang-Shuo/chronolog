@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 97b5705b27871e1eda547bcb1f88c298cf46a08331090fa794b0de52e2ea29da
+machine_hash: 5418e4e79bea8203c4db77a317d8d33b16ca3754d8805244c8e34ccac1de1e61
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -69,12 +69,11 @@ record:
   title: 13 Interface Experience changes in rust-v0.167.0
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-11-03-13-interface-experience-changes-in-v2026-10-10|13
-  Interface Experience changes in v2026.10.10]]'
-- '[[Changes/OpenHands/2026-11-03-12-interface-experience-changes-in-v1-35-0|12 Interface
-  Experience changes in v1.35.0]]'
-- '[[Changes/Dify/2026-11-04-2-interface-experience-changes-in-1-19-0|2 Interface
-  Experience changes in 1.19.0]]'
+- '[[Changes/Raycast/2026-11-04-ai-usage|AI Usage]]'
+- '[[Changes/Raycast/2026-11-04-tip-assign-a-hotkey-like-control-a-to-dictate-to-ai-for-even-quicker-access|Tip:
+  Assign a hotkey like Control + A to Dictate to AI for even quicker access]]'
+- '[[Changes/Superwhisper/2026-11-05-2-interface-experience-changes-in-superwhisper-macos-3-2-0|2
+  Interface Experience changes in Superwhisper macOS 3.2.0]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-11-06-rust-v0-167-0-github-435979892-a2e140bc|codex-cli-2026-11-06-rust-v0-167-0-github-435979892-a2e140bc]]'
 source_type: github_releases
 theme: interface-experience
@@ -141,7 +140,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.167.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-11-04 · Dify · [[Changes/Dify/2026-11-04-2-interface-experience-changes-in-1-19-0|2 Interface Experience changes in 1.19.0]]
+- Earlier: 2026-11-05 · Superwhisper · [[Changes/Superwhisper/2026-11-05-2-interface-experience-changes-in-superwhisper-macos-3-2-0|2 Interface Experience changes in Superwhisper macOS 3.2.0]]
 - Later: 2026-11-06 · Descript · [[Changes/Descript/2026-11-06-get-a-deleted-project-back|Get a deleted project back]]
 <!-- chronolog:end -->
 

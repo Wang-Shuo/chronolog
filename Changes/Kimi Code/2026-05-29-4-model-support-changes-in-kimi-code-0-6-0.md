@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9fea25baf00407eb7535062dd16a813028750f3b4439d7ddf8220aa4adeffc51
+machine_hash: 34cde9cce9431de74825a379da13b611258065d8f17c71fa6297b55ef832507b
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -95,7 +95,7 @@ Source: https://github.com/MoonshotAI/kimi-code/blob/main/docs/en/release-notes/
 ## Nearby in Model Support
 
 - Earlier: 2026-05-29 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-29-2-model-support-changes-in-v1-0-56|2 Model Support changes in v1.0.56]]
-- Later: 2026-05-30 · Claude Code · [[Changes/Claude Code/2026-05-30-auto-mode-is-now-available-on-bedrock-vertex-and-foundry-for-opus-4-7-and-opus-4|Auto mode is now available on Bedrock, Vertex, and Foundry for Opus 4.7 and Opus 4.8]]
+- Later: 2026-05-29 · LM Studio · [[Changes/LM Studio/2026-05-29-cuda-added-tensor-parallelism-support-for-multi-gpu-model-loading|CUDA Added tensor parallelism support for multi-GPU model loading]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

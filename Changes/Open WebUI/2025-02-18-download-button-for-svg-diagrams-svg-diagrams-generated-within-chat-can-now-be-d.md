@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5150c8908fc991c03f0229f9ea49d4c4f076f0c613f023bf93f5ac6e1bed556e
+machine_hash: 015cd5b9016d865da91db39829099819888075d9d1a610c13eb7807a39c148f9
 product: open-webui
 product_name: Open WebUI
 record:
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2025-02-04 · Descript · [[Changes/Descript/2025-02-04-if-you-prefer-to-opt-out-you-can-let-us-know-by-submitting-a-ticket-to-our-suppo|If you prefer to opt out you can let us know by submitting a ticket to our support…]]
-- Later: 2025-02-28 · Dify · [[Changes/Dify/2025-02-28-we-are-glad-to-share-that-we-re-launching-dify-v1-0-0|We are glad to share that we're launching Dify v1.0.0]]
+- Later: 2025-02-26 · Recraft · [[Changes/Recraft/2025-02-26-keeping-visuals-consistent-just-got-easier-introducing-style-sharing-a-simple-wa|Keeping visuals consistent just got easier]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

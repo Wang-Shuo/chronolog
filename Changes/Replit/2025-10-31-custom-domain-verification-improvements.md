@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: d2fcd85400f9498a24f40aa798cb4756df24a792d1aa3110d469ccc0b05a57c4
+machine_hash: c878123dbd6d5bf1a1c0f03eecab886e669329d73e41bb5284e854f2c8700f48
 product: replit
 product_name: Replit
 record:
@@ -45,12 +45,12 @@ record:
   title: Custom domain verification improvements
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-10-30-chore-speed-up-pipeline-in-https-github-com-openai-codex-pull-5812|chore:
-  speed-up pipeline in (source link)]]'
 - '[[Changes/Ollama/2025-10-30-qwen3-vl-performance-improvements-including-flash-attention-support-by-default|qwen3-vl
   performance improvements, including flash attention support by default]]'
 - '[[Changes/Cline/2025-10-31-refactor-ui-improve-tooltip-and-task-header-responsiveness-by-abeatrix-in-https|refactor(ui):
   improve tooltip and task header responsiveness]]'
+- '[[Changes/Devin/2025-10-31-various-bug-fixes-and-performance-improvements-across-the-platform|Various
+  bug fixes and performance improvements across the platform]]'
 source_release: '[[Releases/Replit/replit-2025-10-31-2025-10-31-6a35f9ae|replit-2025-10-31-2025-10-31-6a35f9ae]]'
 source_type: replit_changelog
 theme: reliability-performance
@@ -84,8 +84,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-10-31 · Cline · [[Changes/Cline/2025-10-31-refactor-ui-improve-tooltip-and-task-header-responsiveness-by-abeatrix-in-https|refactor(ui): improve tooltip and task header responsiveness]]
-- Later: 2025-11-04 · Windsurf · [[Changes/Windsurf/2025-11-04-performance-improvements|Performance Improvements]]
+- Earlier: 2025-10-31 · Devin · [[Changes/Devin/2025-10-31-various-bug-fixes-and-performance-improvements-across-the-platform|Various bug fixes and performance improvements across the platform]]
+- Later: 2025-11-04 · LM Studio · [[Changes/LM Studio/2025-11-04-increase-image-resize-limits-to-1024x1024-for-improved-image-processing-performa|Increase image resize limits to 1024x1024 for improved image processing performance…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

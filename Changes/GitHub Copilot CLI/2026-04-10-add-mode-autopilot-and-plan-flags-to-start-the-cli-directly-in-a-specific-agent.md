@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 94938f862c3c6ebfed80f7512e53bdba9232d2255a83c7b656c7992d3f425d72
+machine_hash: 88cc0cff326e1cef857b8b40458561fc07909c96a682b170e6e6ce850b24e5de
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,12 +45,12 @@ record:
     specific…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-09-3-agent-mode-changes-in-v1-0-22|3 Agent
-  Mode changes in v1.0.22]]'
 - '[[Changes/Claude Code/2026-04-10-ultraplan-and-other-remote-session-features-now-auto-create-a-default-cloud-envi|/ultraplan
   and other remote-session features now auto-create a default cloud…]]'
 - '[[Changes/Codex CLI/2026-04-10-13-agent-mode-changes-in-rust-v0-119-0|13 Agent
   Mode changes in rust-v0.119.0]]'
+- '[[Changes/Devin/2026-04-10-richer-acp-methods-and-mentions|Richer ACP Methods and
+  @-Mentions]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-04-10-v1-0-23-github-307566282-7106e30b|github-copilot-cli-2026-04-10-v1-0-23-github-307566282-7106e30b]]'
 source_type: github_releases
 theme: agent-mode
@@ -85,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-04-10 · Codex CLI · [[Changes/Codex CLI/2026-04-10-13-agent-mode-changes-in-rust-v0-119-0|13 Agent Mode changes in rust-v0.119.0]]
+- Earlier: 2026-04-10 · Devin · [[Changes/Devin/2026-04-10-richer-acp-methods-and-mentions|Richer ACP Methods and @-Mentions]]
 - Later: 2026-04-10 · Replit · [[Changes/Replit/2026-04-10-agent|Agent]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 584132f2ef19ac5f94f5364fec4857223212ec45eba17f154c3274eb95972563
+machine_hash: 28d4512381441af5ddfda3ade6bd0eae25fd146b345097863a32d291c593360f
 product: openhands
 product_name: OpenHands
 record:
@@ -43,8 +43,8 @@ record:
   title: '**Daytona Runtime** sandbox handling'
   type: change
 related_changes:
-- '[[Changes/Dify/2025-06-11-2-safety-and-privacy-changes-in-1-4-2|2 Safety and Privacy
-  changes in 1.4.2]]'
+- '[[Changes/Raycast/2025-06-11-this-release-aims-to-fix-a-number-of-instability-issues-that-you-have-experience|This
+  release aims to fix a number of instability issues that you have experienced…]]'
 - '[[Changes/Open WebUI/2025-06-16-2-safety-and-privacy-changes-in-v0-6-15|2 Safety
   and Privacy changes in v0.6.15]]'
 - '[[Changes/Manus/2025-06-20-open-the-browser-in-a-session-log-in-manually-once-we-encrypt-save-your-login-st|Introducing

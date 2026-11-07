@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 63512890b96ddb3c253e8fdd171aeb83ad890e3cd92ac4a8d3f5d37f9694526a
+machine_hash: 5f544afe01402f9bbb560b4a52b82d9749c0491304b440a22d670b604f03c8c3
 product: openclaw
 product_name: OpenClaw
 record:
@@ -129,7 +129,7 @@ Source: https://docs.openclaw.ai/releases/2026.10.6
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-10-22 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-22-clicking-a-completed-response-code-block-copies-its-original-code-when-enabled|Clicking a completed response code block copies its original code when enabled]]
-- Later: 2026-10-23 · Claude Code · [[Changes/Claude Code/2026-10-23-code-review-improved-the-code-review-admin-section-to-retry-the-first-load-and-s|Code Review Improved the Code Review admin section to retry the first load…]]
+- Later: 2026-10-22 · Raycast · [[Changes/Raycast/2026-10-22-restart-frontmost-app-new-command-that-quits-and-reopens-the-app-you-re-currentl|Restart Frontmost App : New command that quits and reopens the app you're currently using]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 05cb7dacdab620a8de3cc7d3666b672ecd482698cf50df2bf9d58cdbaf142a02
+machine_hash: dba3a9d8cacf414ba436bc25834d84f21198bf37a181fd966c0706f28aa29e69
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -41,10 +41,10 @@ record:
   title: Speed up branch and HEAD detection in warm sessions
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-06-10-faster-file-search-across-large-projects-with-the-new-fff-backed-search-tools|Faster
-  file search across large projects with the new fff -backed search tools]]'
 - '[[Changes/Claude Code/2026-06-12-2-reliability-and-performance-changes-in-v2-1-176|2
   Reliability and Performance changes in v2.1.176]]'
+- '[[Changes/Raycast/2026-06-12-snippets-improved-snippet-expansion-reliability-and-accuracy-faster-expansion-wh|Snippets:
+  Improved snippet expansion reliability and accuracy]]'
 - '[[Changes/Replit/2026-06-12-faster-slide-import-and-export|Faster slide import
   and export]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-06-13-v1-0-62-github-339039020-f6ff7e5e|github-copilot-cli-2026-06-13-v1-0-62-github-339039020-f6ff7e5e]]'

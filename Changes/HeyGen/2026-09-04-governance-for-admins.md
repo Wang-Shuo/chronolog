@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 236681cb846e4a116a2db66c5584f5c8ae3ba592f9d39fcabcd1a00c32c5a2bd
+machine_hash: 4c6708d06d0ccfa2461b0d761f2033386e45063a5af7aa2f6676b644ee4d09f2
 product: heygen
 product_name: HeyGen
 record:
@@ -49,8 +49,8 @@ record:
   title: Governance for admins
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-09-03-see-how-your-workspace-adopts-lovable|See how your
-  workspace adopts Lovable]]'
+- '[[Changes/Devin/2026-09-04-partial-snapshot-builds-on-clone-failures|Partial Snapshot
+  Builds on Clone Failures]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-04-enterprise-admins-can-pin-sign-in-to-approved-github-organizations-with-the-forc|Enterprise
   admins can pin sign-in to approved GitHub organizations…]]'
 - '[[Changes/HeyGen/2026-09-04-projects-page-organized-for-scale|Projects page, organized

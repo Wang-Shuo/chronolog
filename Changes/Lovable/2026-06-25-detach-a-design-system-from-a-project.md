@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 557882c53d059a9f9e346db20df1b29b7f84df2db9cf24939aa5541be97516b5
+machine_hash: 3fca2549915ad0fb3a3f1b73edacae1295819acd6e5704822a785937a13482f0
 product: lovable
 product_name: Lovable
 record:
@@ -51,10 +51,10 @@ record:
   title: Detach a design system from a project
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-06-22-tanstack-start-is-now-the-default-for-enterprise-apps|TanStack
-  Start is now the default for Enterprise apps]]'
-- '[[Changes/Lovable/2026-06-23-workspace-insights-for-enterprise-governance|Workspace
-  insights for Enterprise governance]]'
+- '[[Changes/Devin/2026-06-24-add-enterprise-members-when-sso-is-required|Add Enterprise
+  Members When SSO Is Required]]'
+- '[[Changes/Devin/2026-06-24-enterprise-wide-snapshot-build-schedule|Enterprise Wide
+  Snapshot Build Schedule]]'
 - '[[Changes/Claude/2026-06-25-enable-trusted-devices-for-remote-control|Enable Trusted
   Devices for Remote Control]]'
 source_release: '[[Releases/Lovable/lovable-2026-06-25-2026-06-25-9cc4e699|lovable-2026-06-25-2026-06-25-9cc4e699]]'

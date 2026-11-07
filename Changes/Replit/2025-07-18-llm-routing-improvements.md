@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 8608c9e3b7d8734d47d910ab23c65eabf26ddf921b05e569f9a7a1bf4f24b415
+machine_hash: 0939ad232df53da9059e3f897955373d2eaa6935d7aba6d3b036e474dedaf07b
 product: replit
 product_name: Replit
 record:
@@ -44,10 +44,10 @@ record:
   title: LLM routing improvements
   type: change
 related_changes:
-- '[[Changes/Cline/2025-07-15-add-kimi-k2-as-trending-model-by-celestial-vault-in-https-github-com-cline-cline|Add
-  kimi-k2 as trending model]]'
 - '[[Changes/OpenHands/2025-07-16-added-openhands-provider-for-llm-through-openhands-cloud-by-xingyaoww-in-https-g|Added
   OpenHands provider for LLM through OpenHands Cloud]]'
+- '[[Changes/Raycast/2025-07-16-3-model-support-changes-in-raycast-macos-v1-1-101-0|3
+  Model Support changes in Raycast macos-v1 1.101.0]]'
 - '[[Changes/Runway/2025-07-17-next-generation-motion-capture-model-with-major-improvements-in-generation-quali|Act-Two]]'
 source_release: '[[Releases/Replit/replit-2025-07-18-2025-07-18-829a891d|replit-2025-07-18-2025-07-18-829a891d]]'
 source_type: replit_changelog

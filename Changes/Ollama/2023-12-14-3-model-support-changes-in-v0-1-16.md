@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4113037fe8d4e642ef41c40b2e4141c4f268b246f8afbbe9f067d7c98ed91e06
+machine_hash: 8de4f789aa02a2bb5cc6c06dc3c60a42e6d7dd882ee3bf04856cb28be60587e5
 product: ollama
 product_name: Ollama
 record:
@@ -48,12 +48,12 @@ record:
   title: 3 Model Support changes in v0.1.16
   type: change
 related_changes:
-- '[[Changes/Gemini/2023-12-06-bard-is-getting-its-biggest-upgrade-yet-with-gemini-pro|Bard
-  is getting its biggest upgrade yet with Gemini Pro]]'
-- '[[Changes/Ollama/2023-12-08-2-model-support-changes-in-v0-1-14|2 Model Support
-  changes in v0.1.14]]'
+- '[[Changes/Superwhisper/2023-12-10-4-model-support-changes-in-superwhisper-macos-1-19-0|4
+  Model Support changes in Superwhisper macOS 1.19.0]]'
 - '[[Changes/Ollama/2023-12-12-2-model-support-changes-in-v0-1-15|2 Model Support
   changes in v0.1.15]]'
+- '[[Changes/Superwhisper/2023-12-13-show-recording-window-while-model-is-initializing|Show
+  Recording window while model is initializing]]'
 source_release: '[[Releases/Ollama/ollama-2023-12-14-v0-1-16-github-133879039-fcdcc323|ollama-2023-12-14-v0-1-16-github-133879039-fcdcc323]]'
 source_type: github_releases
 theme: model-support
@@ -88,7 +88,7 @@ Source: https://github.com/ollama/ollama/releases/tag/v0.1.16
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2023-12-12 · Ollama · [[Changes/Ollama/2023-12-12-2-model-support-changes-in-v0-1-15|2 Model Support changes in v0.1.15]]
+- Earlier: 2023-12-13 · Superwhisper · [[Changes/Superwhisper/2023-12-13-show-recording-window-while-model-is-initializing|Show Recording window while model is initializing]]
 - Later: 2023-12-16 · Cursor · [[Changes/Cursor/2023-12-16-ai-review-beta-this-is-a-new-experimental-feature-that-let-s-gpt-4-scan-your-git|AI Review (beta)]]
 <!-- chronolog:end -->
 

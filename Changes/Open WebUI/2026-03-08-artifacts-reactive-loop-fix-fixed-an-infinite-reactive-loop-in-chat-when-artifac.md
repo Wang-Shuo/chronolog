@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3139b7135bd1364543995a3fc92197d9bd2b26f9cf1755645664fa530fe4cb82
+machine_hash: a0e21c332225285aeea061005dfff978b4ee2e35119d71058f2690ad959fc08d
 product: open-webui
 product_name: Open WebUI
 record:
@@ -97,7 +97,7 @@ type: change
 ## Nearby in Automation and Scheduling
 
 - Earlier: 2026-03-07 · Claude Code · [[Changes/Claude Code/2026-03-07-added-loop-command-to-run-a-prompt-or-slash-command-on-a-recurring-interval-e-g|Added /loop command to run a prompt or slash command on a recurring interval…]]
-- Later: 2026-03-10 · Claude Code · [[Changes/Claude Code/2026-03-10-added-claude-code-disable-cron-environment-variable-to-immediately-stop-schedule|Added CLAUDE_CODE_DISABLE_CRON environment variable to immediately stop scheduled…]]
+- Later: 2026-03-09 · Raycast · [[Changes/Raycast/2026-03-09-scheduled-export-you-can-now-backup-your-raycast-settings-and-data-on-a-schedule|Scheduled Export: You can now backup your Raycast settings and data on a schedule…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

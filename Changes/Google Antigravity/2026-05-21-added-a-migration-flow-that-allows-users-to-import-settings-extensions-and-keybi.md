@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3fb6ffe16fe97138aa2d332e85f2f03e70b3d48a2f9514d7e7f0d65b65ad3dc8
+machine_hash: 9896bea8031f858dc90fe3c0a28eb8bc23d09d5710a8aed5de08189bd65bdc78
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -45,10 +45,10 @@ record:
   title: Added a migration flow that allows users to import settings, extensions…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-20-4-apps-and-integrations-changes-in-v1-0-51|4
-  Apps and Integrations changes in v1.0.51]]'
 - '[[Changes/OpenCode/2026-05-20-3-apps-and-integrations-changes-in-v1-15-6|3 Apps
   and Integrations changes in v1.15.6]]'
+- '[[Changes/Raycast/2026-05-20-applications-use-alternate-name-for-creator-studio-apps|Applications:
+  Use alternate name for Creator Studio apps]]'
 - '[[Changes/Codex CLI/2026-05-21-20-apps-and-integrations-changes-in-rust-v0-133-0|20
   Apps and Integrations changes in rust-v0.133.0]]'
 source_release: '[[Releases/Google Antigravity/google-antigravity-2026-05-21-rel-ide-2-0-3-ed3bf55b|google-antigravity-2026-05-21-rel-ide-2-0-3-ed3bf55b]]'

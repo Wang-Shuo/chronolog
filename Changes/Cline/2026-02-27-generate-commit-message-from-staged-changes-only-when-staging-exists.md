@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8ee6c820dda5c448ef7e9fe09e0fd5961f89d1dd697761a034c9c9a7c3a4bf2f
+machine_hash: 33ab2ff993ba73ba0f845c98c77c063f06b89debbdf0e8c7f794d9fe2e9cadc3
 product: cline
 product_name: Cline
 record:
@@ -43,12 +43,12 @@ record:
   title: Generate commit message from staged changes only when staging exists
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-02-26-12758-feat-include-available-decisions-in-command-approval-requests-bolinfest|♯12758
-  feat: include available decisions in command approval requests @bolinfest]]'
 - '[[Changes/Cursor/2026-02-26-bugbot-will-post-a-comment-on-the-original-pr-with-a-preview-of-the-autofix-chan|Bugbot
   will post a comment on the original PR with a preview of the autofix changes…]]'
 - '[[Changes/Cursor/2026-02-26-bugbot-can-automatically-fix-issues-it-finds-in-pull-requests|Bugbot
   can automatically fix issues it finds in pull requests]]'
+- '[[Changes/Raycast/2026-02-26-2-developer-workflow-changes-in-raycast-windows-0-47|2
+  Developer Workflow changes in Raycast windows 0.47]]'
 source_release: '[[Releases/Cline/cline-2026-02-27-v3-68-0-github-291160626-3850ed1e|cline-2026-02-27-v3-68-0-github-291160626-3850ed1e]]'
 source_type: github_releases
 theme: developer-workflow
@@ -79,8 +79,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-02-26 · Cursor · [[Changes/Cursor/2026-02-26-bugbot-can-automatically-fix-issues-it-finds-in-pull-requests|Bugbot can automatically fix issues it finds in pull requests]]
-- Later: 2026-02-27 · Gemini CLI · [[Changes/Gemini CLI/2026-02-27-4-developer-workflow-changes-in-v0-31-0|4 Developer Workflow changes in v0.31.0]]
+- Earlier: 2026-02-26 · Raycast · [[Changes/Raycast/2026-02-26-2-developer-workflow-changes-in-raycast-windows-0-47|2 Developer Workflow changes in Raycast windows 0.47]]
+- Later: 2026-02-27 · Devin · [[Changes/Devin/2026-02-27-devin-review-github-commit-status-checks|Devin Review: GitHub Commit Status Checks]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: policy
-machine_hash: e1e84822fa87aa77d366e12a881a4fd4469f84987daf03656dd0e06cb606d4f6
+machine_hash: c0f5ba947ebff0c51bd50e3a813fec7226c30d67b811522a3be4cd5d0b2eb560
 product: lovable
 product_name: Lovable
 record:
@@ -55,10 +55,8 @@ record:
   title: Gemini 3.6 Flash is deprecated for your app's AI features
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-10-05-2-model-support-changes-in-v1-0-92|2 Model
-  Support changes in v1.0.92]]'
-- '[[Changes/Lovable/2026-10-05-lyria-3-music-models-for-your-app-s-ai-features|Lyria
-  3 music models for your app''s AI features]]'
+- '[[Changes/Raycast/2026-10-05-auto-model|Auto Model]]'
+- '[[Changes/Raycast/2026-10-05-auto-model-7d9429|Auto Model]]'
 - '[[Changes/Claude Code/2026-10-06-added-prompt-caching-to-model-complete-for-mods-prompt-and-system-take-blocks-of|Added
   prompt caching to $.model.complete for mods]]'
 source_release: '[[Releases/Lovable/lovable-2026-10-06-2026-10-06-b5a5d383|lovable-2026-10-06-2026-10-06-b5a5d383]]'

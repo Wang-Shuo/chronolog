@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c8970a6cc6f2b6584d18d5bd2b4b90607cec9ed916867c5eeb20e46fcacd8af7
+machine_hash: 93e9e3481da92fa77e6dc06cab793040319be3beb2c64ed323f85b4cf0e43d09
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -78,7 +78,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2025-12-19 · Codex CLI · [[Changes/Codex CLI/2025-12-19-2-model-support-changes-in-rust-v0-76-0|2 Model Support changes in rust-v0.76.0]]
-- Later: 2025-12-21 · Codex CLI · [[Changes/Codex CLI/2025-12-21-3-model-support-changes-in-rust-v0-77-0|3 Model Support changes in rust-v0.77.0]]
+- Later: 2025-12-19 · Superwhisper · [[Changes/Superwhisper/2025-12-19-ollama-provider-for-custom-models|Ollama provider for custom models]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

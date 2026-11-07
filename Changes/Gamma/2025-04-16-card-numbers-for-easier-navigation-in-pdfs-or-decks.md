@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2e228644df85c191fcd99d852a22b3f9bd4512576344ae3647b73852f7e58032
+machine_hash: 6d9acc8d4d0df30fc9766b8810c0510e31fe8910510152e46b1a64656bf5059a
 product: gamma
 product_name: Gamma
 record:
@@ -74,7 +74,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2025-04-15 · Cursor · [[Changes/Cursor/2025-04-15-chat-history-has-moved-into-the-command-palette-you-can-access-it-from-the-show|More accessible history]]
-- Later: 2025-04-19 · Cline · [[Changes/Cline/2025-04-19-add-new-slash-command-menu-letting-you-type-to-do-quick-actions-like-creating-ne|Add new slash command menu letting you type…]]
+- Later: 2025-04-18 · AnythingLLM · [[Changes/AnythingLLM/2025-04-18-2-interface-experience-changes-in-v1-8-0|2 Interface Experience changes in v1.8.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

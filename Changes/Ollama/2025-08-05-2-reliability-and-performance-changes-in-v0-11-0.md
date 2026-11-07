@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 991af5992efe51179bdf28123ef85e34d8b4d25a1ecb9132c201f38721a8495c
+machine_hash: b8e879a6ab5d899088b1c9c5167066c0634e81a8cc9f7ad2ac06b4dff5ebc8f1
 product: ollama
 product_name: Ollama
 record:
@@ -49,10 +49,9 @@ record:
   title: 2 Reliability and Performance changes in v0.11.0
   type: change
 related_changes:
-- '[[Changes/Descript/2025-07-31-avatars-new-ui-for-faster-access|Avatars: New UI
-  for faster access]]'
 - '[[Changes/Gemini CLI/2025-08-02-2-reliability-and-performance-changes-in-v0-1-16|2
   Reliability and Performance changes in v0.1.16]]'
+- '[[Changes/Devin/2025-08-04-performance-optimizations|Performance Optimizations]]'
 - '[[Changes/Gemini CLI/2025-08-05-2-reliability-and-performance-changes-in-v0-1-17|2
   Reliability and Performance changes in v0.1.17]]'
 source_release: '[[Releases/Ollama/ollama-2025-08-05-v0-11-0-github-237715736-1e21e755|ollama-2025-08-05-v0-11-0-github-237715736-1e21e755]]'

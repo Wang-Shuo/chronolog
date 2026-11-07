@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c8116a4f28b6913b9ed5325b31d0319695aff9e2ed78cd8a84039e631bd38756
+machine_hash: 97acc69234006280696118d7e3249491d8b31650d23193e109861f8f3a72edd5
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,8 +44,8 @@ record:
   title: 2 Model Support changes in rust-v0.15.0
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-08-06-20-model-support-changes-in-v0-1-18|20 Model Support
-  changes in v0.1.18]]'
+- "[[Changes/LM Studio/2025-08-06-support-for-openai-s-gpt-oss-models|\U0001F389 Support
+  for OpenAI's gpt-oss models!]]"
 - '[[Changes/ChatGPT/2025-08-07-gpt-5-is-slowly-rolling-out-to-all-users-on-chatgpt-plus-pro-team-and-free-plans-64a08c|GPT-5]]'
 - '[[Changes/Cline/2025-08-07-pashpashpash-gpt-5-release-by-pashpashpash-in-https-github-com-cline-cline-pull|Pashpashpash/gpt
   5 release]]'

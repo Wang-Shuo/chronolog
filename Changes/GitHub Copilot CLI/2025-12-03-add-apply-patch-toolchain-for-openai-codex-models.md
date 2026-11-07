@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2c0ce84596ee613646ae2a16abe215d11a1d73a22154e160ef0af86220fa757b
+machine_hash: 9daf6477bc13a380361290a4673469ee8da43c1555fe17f105402a70616b8a6e
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -41,10 +41,10 @@ record:
   title: Add apply_patch toolchain for OpenAI Codex models
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-12-02-2-model-support-changes-in-rust-v0-64-0|2 Model
-  Support changes in rust-v0.64.0]]'
 - '[[Changes/Gemini CLI/2025-12-02-5-model-support-changes-in-v0-19-0|5 Model Support
   changes in v0.19.0]]'
+- '[[Changes/LM Studio/2025-12-02-support-for-mistralai-s-ministral-models-3b-8b-13b|Support
+  for MistralAI''s Ministral models (3B, 8B, 13B)]]'
 - '[[Changes/Open WebUI/2025-12-02-9-model-support-changes-in-v0-6-41|9 Model Support
   changes in v0.6.41]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2025-12-03-v0-0-366-github-267255475-d2d2ee8e|github-copilot-cli-2025-12-03-v0-0-366-github-267255475-d2d2ee8e]]'

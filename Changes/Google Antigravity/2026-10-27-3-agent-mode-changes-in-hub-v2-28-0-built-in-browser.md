@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1c652136eaa49381c5d5911c5780f7be65abc56d27717787bac7e53db1ec2ec3
+machine_hash: 783de7d04786f7fe2859d9f066b9c0e42da5605b5734f00588766c6ce98eaf19
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -102,7 +102,7 @@ Source: https://antigravity.google/releases?tab=hub&version=2.28.0
 ## Nearby in Agent Mode
 
 - Earlier: 2026-10-27 · Codex CLI · [[Changes/Codex CLI/2026-10-27-4-agent-mode-changes-in-rust-v0-165-0|4 Agent Mode changes in rust-v0.165.0]]
-- Later: 2026-10-27 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-10-27-learning-agent-in-microsoft-365-copilot-windows-microsoft-365-copilot|Learning Agent in Microsoft 365 Copilot Windows (Microsoft 365 Copilot)]]
+- Later: 2026-10-27 · Krea · [[Changes/Krea/2026-10-27-nodes-and-promo-updates|Nodes and promo updates]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

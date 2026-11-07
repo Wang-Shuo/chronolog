@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c915e110c12d335b5b92e3172dac1b9038ef62743ec1c2a65257a2ff433a7e26
+machine_hash: 2bfe71f4266671a811266d5af1b444c990c53e394670fd578ecbb484d1c434a2
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -52,11 +52,12 @@ record:
   title: Record live conversations like team meetings or voice notes, and turn those…
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2025-07-14-text-to-voice-f4167d|Text to Voice]]'
 - "[[Changes/Open WebUI/2025-07-14-audio-mime-type-registration-issues-with-audio-file-content-types-have-been-reso|\U0001F504
   Audio MIME Type Registration]]"
 - '[[Changes/Descript/2025-07-15-ducking-is-now-lower-audio-of-other-layers|Ducking
   is now “Lower audio of other layers”]]'
+- '[[Changes/AnythingLLM/2025-07-16-sanitize-youtube-transcription-file-paths-by-shatfield4-in-https-github-com-mint|Sanitize
+  youtube transcription file paths]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-07-16-record-mode-in-chatgpt-macos-desktop-app-plus-3cdaccb1|chatgpt-2025-07-16-record-mode-in-chatgpt-macos-desktop-app-plus-3cdaccb1]]'
 source_type: chatgpt_changelog
 theme: voice
@@ -85,8 +86,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2025-07-15 · Descript · [[Changes/Descript/2025-07-15-ducking-is-now-lower-audio-of-other-layers|Ducking is now “Lower audio of other layers”]]
-- Later: 2025-07-17 · ChatGPT · [[Changes/ChatGPT/2025-07-17-the-advanced-voice-upgrades-we-announced-on-june-7th-are-now-rolling-out-to-chat|Updates to Advanced Voice Mode for Free tier users]]
+- Earlier: 2025-07-16 · AnythingLLM · [[Changes/AnythingLLM/2025-07-16-sanitize-youtube-transcription-file-paths-by-shatfield4-in-https-github-com-mint|Sanitize youtube transcription file paths]]
+- Later: 2025-07-16 · Superwhisper · [[Changes/Superwhisper/2025-07-16-new-audio-backend-device-switching|New Audio Backend & Device Switching]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

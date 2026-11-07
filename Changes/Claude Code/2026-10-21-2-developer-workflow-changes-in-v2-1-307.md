@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a8476f9ecb78cf6eae3de25b9d8807de8d275ba5a8b18683e8faab96abdb95a9
+machine_hash: 82063f3b2459ec9c89705bae42a9e2a884e6d06a6bc3e31b2edb01c941142ad0
 product: claude-code
 product_name: Claude Code
 record:
@@ -93,7 +93,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.307
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-10-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-20-2-developer-workflow-changes-in-v1-0-101|2 Developer Workflow changes in v1.0.101]]
-- Later: 2026-10-21 · Kimi Code · [[Changes/Kimi Code/2026-10-21-2-developer-workflow-changes-in-kimi-code-2-3-0|2 Developer Workflow changes in Kimi Code 2.3.0]]
+- Later: 2026-10-21 · Devin · [[Changes/Devin/2026-10-21-reactions-on-devin-review-comments|Reactions on /devin Review Comments]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

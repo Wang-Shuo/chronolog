@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c7cd200fb5f44f95e824de60f34d2291be48343725d2cc54127d3235bffa70e1
+machine_hash: e16ba94079882a6bed178f43aaa220e810f7005e3557163221e095de9facecae
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -88,8 +88,8 @@ record:
   title: 24 Apps and Integrations changes in rust-v0.150.0
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-08-25-4-apps-and-integrations-changes-in-v0-11-1|4 Apps
-  and Integrations changes in v0.11.1]]'
+- '[[Changes/Raycast/2026-08-25-2-apps-and-integrations-changes-in-raycast-windows-2-0|2
+  Apps and Integrations changes in Raycast windows 2.0]]'
 - '[[Changes/Claude Code/2026-08-26-2-apps-and-integrations-changes-in-v2-1-247|2
   Apps and Integrations changes in v2.1.247]]'
 - '[[Changes/Cline/2026-08-26-4-apps-and-integrations-changes-in-v4-1-16|4 Apps and
@@ -184,7 +184,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.150.0
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-08-26 · Cline · [[Changes/Cline/2026-08-26-4-apps-and-integrations-changes-in-v4-1-16|4 Apps and Integrations changes in v4.1.16]]
-- Later: 2026-08-26 · Lovable · [[Changes/Lovable/2026-08-26-connect-github-api-by-signing-in-with-your-github-account|Connect GitHub API by signing in with your GitHub account]]
+- Later: 2026-08-26 · Devin · [[Changes/Devin/2026-08-26-smarter-mention-routing-in-slack-threads|Smarter @mention Routing in Slack Threads]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

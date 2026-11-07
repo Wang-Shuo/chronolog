@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a4d3e4284c702370f7611890567976dd36f57e0ceb876ec287e3e4fa8743d3e4
+machine_hash: f71a16de0163a1f94617d7d1e6b3f743df27146ca2e3f36bc6484c0a21903e8f
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,8 +45,8 @@ record:
   title: 2 Model Support changes in v1.0.96
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-09-claude-tag-changed-claude-in-slack-to-show-the-footer-with-the-session-link-mode|Claude
-  Tag Changed Claude in Slack to show the footer with the session link, model…]]'
+- '[[Changes/Raycast/2026-10-09-2-model-support-changes-in-raycast-macos-2-7|2 Model
+  Support changes in Raycast macos 2.7]]'
 - '[[Changes/Open WebUI/2026-10-10-49-model-support-changes-in-v0-12-0|49 Model Support
   changes in v0.12.0]]'
 - '[[Changes/OpenClaw/2026-10-10-18-model-support-changes-in-v2026-10-1|18 Model Support

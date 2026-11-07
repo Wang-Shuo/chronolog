@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c1c9c518bbeebaa39d55f23b094ab041dc4a94b17b8ef4e3c7039bd3f22b573c
+machine_hash: 48bb09e7dcbc21e9f2a5eecc1861bbfae40c68674e0052d5c1d015411bbd4b7b
 product: heygen
 product_name: HeyGen
 record:
@@ -43,12 +43,12 @@ record:
   title: 'Supported file types: PPT, PPTX, PDF (max 50MB)'
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-03-24-docs-document-npm-deprecation-warnings-as-safe-to-ignore-by-h30s-in-https-github|docs:
-  document npm deprecation warnings as safe to ignore]]'
 - '[[Changes/Open WebUI/2026-03-25-2-files-and-data-changes-in-v0-8-11|2 Files and
   Data changes in v0.8.11]]'
 - '[[Changes/Dify/2026-03-27-4-files-and-data-changes-in-1-13-3|4 Files and Data changes
   in 1.13.3]]'
+- '[[Changes/AnythingLLM/2026-04-02-feat-auto-select-newly-uploaded-docs-urls-in-my-documents-list-by-nehaaprasad-in|feat
+  : auto-select newly uploaded docs/URLs in my documents list]]'
 source_release: '[[Releases/HeyGen/heygen-2026-04-02-https-heygen-noticeable-news-publications-new-heygen-x-gamma-int-28b99281|heygen-2026-04-02-https-heygen-noticeable-news-publications-new-heygen-x-gamma-int-28b99281]]'
 source_type: heygen_changelog
 theme: file-data
@@ -78,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2026-03-27 · Dify · [[Changes/Dify/2026-03-27-4-files-and-data-changes-in-1-13-3|4 Files and Data changes in 1.13.3]]
+- Earlier: 2026-04-02 · AnythingLLM · [[Changes/AnythingLLM/2026-04-02-feat-auto-select-newly-uploaded-docs-urls-in-my-documents-list-by-nehaaprasad-in|feat : auto-select newly uploaded docs/URLs in my documents list]]
 - Later: 2026-04-02 · Lovable · [[Changes/Lovable/2026-04-02-generate-files-and-analyze-data|Generate files and analyze data]]
 <!-- chronolog:end -->
 

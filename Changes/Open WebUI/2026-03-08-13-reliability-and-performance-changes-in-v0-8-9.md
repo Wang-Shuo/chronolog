@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ca13f641a8cc8dbd26414182d889c1c5cbacf836192fe3a7e37c1c07666e11eb
+machine_hash: f557144483243d08106f615d3cc6079b3485e239134187063164a1f870d831bc
 product: open-webui
 product_name: Open WebUI
 record:
@@ -96,10 +96,10 @@ record:
   title: 13 Reliability and Performance changes in v0.8.9
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-06-3-reliability-and-performance-changes-in-v2-1-70|3
-  Reliability and Performance changes in v2.1.70]]'
 - '[[Changes/OpenCode/2026-03-06-core-stop-leaking-fsmonitor-daemons-that-caused-60gb-of-committed-memory-after-r|Core
   Stop leaking fsmonitor daemons that caused 60GB+ of committed memory after…]]'
+- '[[Changes/Devin/2026-03-07-various-bug-fixes-performance-improvements-and-visual-polish-across-the-platform|Various
+  bug fixes, performance improvements, and visual polish across the platform]]'
 - '[[Changes/OpenCode/2026-03-07-core-speed-up-share-loads|Core Speed up share loads]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-03-08-v0-8-9-github-294335564-7bdc11cb|open-webui-2026-03-08-v0-8-9-github-294335564-7bdc11cb]]'
 source_type: github_releases

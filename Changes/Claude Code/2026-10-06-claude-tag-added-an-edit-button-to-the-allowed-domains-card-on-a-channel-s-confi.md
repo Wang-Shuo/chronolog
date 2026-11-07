@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 88dca51fc1260074216b70c74da916e5a413e5f807bf4f5cbfb79e7dc8d9cccb
+machine_hash: 3c516143f4f232fd7da9f4c5015fd7f7470c3f5fd949869a9b1d153281ce0958
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,11 +45,10 @@ record:
   title: '[Claude Tag] Added an Edit button to the Allowed domains card on a channel''s…'
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-10-01-restrict-an-api-key-to-approved-ip-addresses|Restrict
-  an API key to approved IP addresses]]'
 - '[[Changes/Lovable/2026-10-02-show-an-announcement-banner-to-everyone-in-your-workspace|Show
   an announcement banner to everyone in your workspace]]'
 - '[[Changes/Replit/2026-10-02-workspace-settings|Workspace settings]]'
+- '[[Changes/Devin/2026-10-05-devin-review-effort-levels|Devin Review Effort Levels]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-06-v2-1-292-github-404958910-b2fd21ab|claude-code-2026-10-06-v2-1-292-github-404958910-b2fd21ab]]'
 source_type: github_releases
 theme: enterprise-admin
@@ -86,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-10-02 · Replit · [[Changes/Replit/2026-10-02-workspace-settings|Workspace settings]]
+- Earlier: 2026-10-05 · Devin · [[Changes/Devin/2026-10-05-devin-review-effort-levels|Devin Review Effort Levels]]
 - Later: 2026-10-06 · Cursor · [[Changes/Cursor/2026-10-06-remote-control-is-on-by-default-for-everyone-except-enterprise-organizations|Remote Control is on by default for everyone except Enterprise organizations]]
 <!-- chronolog:end -->
 

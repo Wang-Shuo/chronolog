@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2aab584f05c19e1da201c14a2abd2b7139e251d0885f7caca1c79191874d1cb1
+machine_hash: da4fc43e795d4c35c513a7d7d8d775ba21a73c3ca4ec09bbeabcd19006ead346
 product: open-webui
 product_name: Open WebUI
 record:
@@ -45,8 +45,8 @@ record:
   title: "**\U0001F4F1 Mobile View Improvements**"
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2024-05-02-ios-pwa-icon-fix-corrected-ios-pwa-home-screen-icon-shape|\U0001F4F1
-  iOS PWA Icon Fix: Corrected iOS PWA home screen icon shape]]"
+- '[[Changes/Raycast/2024-05-22-custom-window-management-commands|Custom Window Management
+  Commands]]'
 - '[[Changes/Descript/2024-06-04-descript-for-web-is-here|Descript for Web is here]]'
 - '[[Changes/Gemini/2024-06-05-the-gemini-mobile-app-is-available-in-europe|The Gemini
   mobile app is available in Europe]]'

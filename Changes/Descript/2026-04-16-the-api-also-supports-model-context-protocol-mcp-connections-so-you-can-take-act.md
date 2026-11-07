@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: d197c76b5f74b478a5018b7ce644ba031c8f0b012cc7dffa1d2b65e74d1fed0d
+machine_hash: d407fc78f905720d1b380d7635be6f3ac8da88ff227f3f254ed170496924504b
 product: descript
 product_name: Descript
 record:
@@ -60,8 +60,8 @@ record:
     take…
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-04-15-4-apps-and-integrations-changes-in-v1-4-4|4 Apps
-  and Integrations changes in v1.4.4]]'
+- '[[Changes/Raycast/2026-04-15-applications-added-a-recursive-search-option-for-portable-apps|Applications
+  : Added a recursive search option for portable apps]]'
 - '[[Changes/Windsurf/2026-04-15-additional-changes|Additional Changes]]'
 - '[[Changes/Claude Code/2026-04-16-2-apps-and-integrations-changes-in-v2-1-111|2
   Apps and Integrations changes in v2.1.111]]'

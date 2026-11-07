@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 07cfae3df21e751a9d212d28e9b054aa64abd2af8fb08534ad4989848fe3e01a
+machine_hash: e8d531beb0b638b2028df3082b133659f99797dda4fa29ffa2b735f0980f2c88
 product: descript
 product_name: Descript
 record:
@@ -45,8 +45,8 @@ record:
     video file…
   type: change
 related_changes:
-- '[[Changes/Descript/2023-08-22-layer-list-we-ve-made-a-number-of-improvements-to-the-layer-list-in-the-properti|Layer
-  list: We’ve made a number of improvements to the layer list…]]'
+- '[[Changes/Superwhisper/2023-09-09-2-voice-and-audio-changes-in-superwhisper-macos-1-14-2|2
+  Voice and Audio changes in Superwhisper macOS 1.14.2]]'
 - '[[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|Voice
   (Beta) is now rolling out to Plus users on iOS and Android]]'
 - '[[Changes/ChatGPT/2023-09-25-we-are-beginning-to-roll-out-new-voice-and-image-capabilities-in-chatgpt-they-of|We
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2023-09-25 · ChatGPT · [[Changes/ChatGPT/2023-09-25-we-are-beginning-to-roll-out-new-voice-and-image-capabilities-in-chatgpt-they-of|We are beginning to roll out new voice and image capabilities in ChatGPT]]
-- Later: 2023-10-17 · Descript · [[Changes/Descript/2023-10-17-instant-speaker-creation|Instant speaker creation]]
+- Later: 2023-10-11 · Superwhisper · [[Changes/Superwhisper/2023-10-11-realtime-audio-soundwave-visualization|Realtime audio soundwave visualization]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

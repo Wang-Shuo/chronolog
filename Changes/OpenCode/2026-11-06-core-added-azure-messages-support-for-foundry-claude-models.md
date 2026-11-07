@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 7ced00099fed2827a2df09cd5946733df162671a4694ec3fe3c87bac3e7aeb7c
+machine_hash: 901735ff2b2f6827956fc0965553dff529d73aac307bd4914d489f1b24edf9d0
 product: opencode
 product_name: OpenCode
 record:
@@ -43,8 +43,8 @@ record:
   title: Core Added Azure Messages support for Foundry Claude models
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-11-05-4-model-support-changes-in-v2026-11-1|4 Model Support
-  changes in v2026.11.1]]'
+- '[[Changes/Recraft/2026-11-05-gpt-image-2-6-openai-s-newest-image-model-is-now-in-recraft-studio-in-two-versio|GPT
+  Image 2.6, OpenAI''s newest image model, is now in Recraft Studio in two versions]]'
 - '[[Changes/Codex CLI/2026-11-06-7-model-support-changes-in-rust-v0-167-0|7 Model
   Support changes in rust-v0.167.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-11-06-33-model-support-changes-in-v1-0-106|33

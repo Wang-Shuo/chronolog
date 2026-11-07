@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 48048be2c65feb26f3c99ccf1aae56a8148c2256f27dcc4ee257ed36466042cc
+machine_hash: b613572be9517dfe8a6d1618416f8dd421c7bcb8721ee522bf90114d25062693
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,12 +46,12 @@ record:
   title: 2 Collaboration changes in v2.1.284
   type: change
 related_changes:
-- '[[Changes/Qoder/2026-09-23-a-new-space-for-human-and-agent-collaboration|A New
-  Space for Human and Agent Collaboration]]'
-- '[[Changes/Midjourney/2026-09-24-a-few-updates-to-share-with-you-today|A few updates
-  to share with you today]]'
-- '[[Changes/Codex CLI/2026-09-25-47411-apply-shared-network-policy-throughout-embedded-codex-startup-acrognale-oa|♯47411
-  Apply shared network policy throughout embedded Codex startup @acrognale-oai]]'
+- '[[Changes/Devin/2026-09-25-microsoft-teams-attachments-links-and-defaults|Microsoft
+  Teams: Attachments, Links and Defaults]]'
+- '[[Changes/Devin/2026-09-25-microsoft-teams-one-tap-answers-and-reactions|Microsoft
+  Teams: One-Tap Answers and Reactions]]'
+- '[[Changes/Devin/2026-09-25-microsoft-teams-approve-network-access-from-the-card|Microsoft
+  Teams: Approve Network Access from the Card]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-28-v2-1-284-github-398457074-cbb49e49|claude-code-2026-09-28-v2-1-284-github-398457074-cbb49e49]]'
 source_type: github_releases
 theme: collaboration
@@ -98,7 +98,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.284
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-09-25 · Codex CLI · [[Changes/Codex CLI/2026-09-25-47411-apply-shared-network-policy-throughout-embedded-codex-startup-acrognale-oa|♯47411 Apply shared network policy throughout embedded Codex startup @acrognale-oai]]
+- Earlier: 2026-09-25 · Devin · [[Changes/Devin/2026-09-25-microsoft-teams-approve-network-access-from-the-card|Microsoft Teams: Approve Network Access from the Card]]
 - Later: 2026-09-28 · Codex CLI · [[Changes/Codex CLI/2026-09-28-2-collaboration-changes-in-rust-v0-158-0|2 Collaboration changes in rust-v0.158.0]]
 <!-- chronolog:end -->
 

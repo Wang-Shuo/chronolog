@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 301df4c9c6d32e1444d3653755de72834e06b340d78ab2afefdad6e7b4d7e7c4
+machine_hash: 7454ea257cd8b671a3a500388841546f8ca1e897fbb3beb90090a0956a92871a
 product: cursor
 product_name: Cursor
 record:
@@ -56,10 +56,10 @@ record:
   title: Agents understand context
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2025-06-10-openai-compatible-embeddings-endpoint-introducing-a-fully-openai-style-api-embed|\U0001F9E9
-  OpenAI-Compatible Embeddings Endpoint]]"
 - '[[Changes/Dify/2025-06-11-6-apps-and-integrations-changes-in-1-4-2|6 Apps and Integrations
   changes in 1.4.2]]'
+- "[[Changes/Raycast/2025-06-11-mcp-http-servers-support-for-http-mcp-servers-using-the-sse-server-sent-events-a|\U0001F38F
+  MCP HTTP Servers]]"
 - '[[Changes/Cline/2025-06-12-2-apps-and-integrations-changes-in-v3-17-13|2 Apps and
   Integrations changes in v3.17.13]]'
 source_release: '[[Releases/Cursor/cursor-2025-06-12-1-1-https-cursor-com-changelog-1-1-0f0190fc|cursor-2025-06-12-1-1-https-cursor-com-changelog-1-1-0f0190fc]]'

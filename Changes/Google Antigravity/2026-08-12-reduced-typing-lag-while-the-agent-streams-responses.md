@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 74b74f2b4d64a4642bcab127312c5d41fff045e489e66f2ad118fc6b61f10c23
+machine_hash: e791eea17307547cc72e078fd379663b07d03b23c686e2e8cba5b89b46a7bdfe
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -43,12 +43,12 @@ record:
   title: Reduced typing lag while the agent streams responses
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-08-11-nvidia-nemotron-3-5-lightning-https-ollama-com-library-nemotron-3-5-lightning-is|NVIDIA
-  Nemotron 3.5 Lightning((source link)]]'
 - '[[Changes/Runway/2026-08-11-agent-sessions-now-live-inside-projects-so-you-can-start-a-session-directly-from|Projects
   + Brand Kits in Agent]]'
 - '[[Changes/Claude Code/2026-08-12-improved-workflow-fan-outs-to-stagger-same-prefix-sibling-agents-so-subsequent-a|Improved
   workflow fan-outs to stagger same-prefix sibling agents so subsequent…]]'
+- '[[Changes/Devin/2026-08-12-agent-mode-selector-improvements-in-automations|Agent
+  Mode Selector Improvements in Automations]]'
 source_release: '[[Releases/Google Antigravity/google-antigravity-2026-08-12-rel-ide-2-5-2-37e14a82|google-antigravity-2026-08-12-rel-ide-2-5-2-37e14a82]]'
 source_type: antigravity_changelog
 theme: agent-mode
@@ -82,7 +82,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-08-12 · Claude Code · [[Changes/Claude Code/2026-08-12-improved-workflow-fan-outs-to-stagger-same-prefix-sibling-agents-so-subsequent-a|Improved workflow fan-outs to stagger same-prefix sibling agents so subsequent…]]
+- Earlier: 2026-08-12 · Devin · [[Changes/Devin/2026-08-12-agent-mode-selector-improvements-in-automations|Agent Mode Selector Improvements in Automations]]
 - Later: 2026-08-12 · Kimi Code · [[Changes/Kimi Code/2026-08-12-show-the-live-work-progress-of-background-subagents-in-the-tasks-panel|Show the live work progress of background subagents in the /tasks panel]]
 <!-- chronolog:end -->
 

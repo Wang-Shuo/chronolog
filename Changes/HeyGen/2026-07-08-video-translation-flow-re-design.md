@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 3d7a4e99e0ca9c67afafc59260a78da6694dca52437e7fd61206779998a3d952
+machine_hash: a89a91e508d4cbd70bca0c8c3ec573c95f29d865105b9644b86272029716e9b2
 product: heygen
 product_name: HeyGen
 record:
@@ -64,8 +64,8 @@ record:
   title: Video Translation Flow Re-Design
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-23-clear-queued-tool-images-when-vision-is-disabled|Clear
-  queued tool images when vision is disabled]]'
+- '[[Changes/AnythingLLM/2026-06-25-3-multimodal-input-changes-in-v1-15-0|3 Multimodal
+  Input changes in v1.15.0]]'
 - '[[Changes/Kimi Code/2026-06-29-support-the-anthropic-compatible-protocol-for-kimi-code-including-video-input|Support
   the Anthropic-compatible protocol for Kimi Code, including video input]]'
 - '[[Changes/Microsoft 365 Copilot/2026-07-01-multimodal-capture-in-copilot-notebooks-iphone-ios-onenote|Multimodal

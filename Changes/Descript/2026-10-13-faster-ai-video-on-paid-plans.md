@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1085b8450f518e8dae563c53808c77d2c46e7ec93b8fbcfb5d01b17dfa14c1a6
+machine_hash: bc768d1c782762994aadc49f78428befd01520d1cab350b486bed473c089b6b5
 product: descript
 product_name: Descript
 record:
@@ -44,12 +44,12 @@ record:
   title: Faster AI video on paid plans
   type: change
 related_changes:
-- '[[Changes/Qoder/2026-10-10-fast-models-faster-responses-less-waiting|Fast Models:
-  Faster Responses, Less Waiting]]'
 - '[[Changes/Ollama/2026-10-11-paused-background-model-upgrade-for-embedding-and-other-request-performance-by-j|Paused
   background model upgrade for embedding and other request performance,]]'
 - '[[Changes/Ollama/2026-10-12-2-reliability-and-performance-changes-in-v0-40-4|2
   Reliability and Performance changes in v0.40.4]]'
+- '[[Changes/Raycast/2026-10-12-performance-improved-app-launch-responsiveness-especially-with-larger-collection|Performance
+  : Improved app launch responsiveness, especially with larger collections]]'
 source_release: '[[Releases/Descript/descript-2026-10-13-6acd9a3948cc9979847dd5eb-0215acfe|descript-2026-10-13-6acd9a3948cc9979847dd5eb-0215acfe]]'
 source_type: canny_changelog
 theme: reliability-performance
@@ -83,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-10-12 · Ollama · [[Changes/Ollama/2026-10-12-2-reliability-and-performance-changes-in-v0-40-4|2 Reliability and Performance changes in v0.40.4]]
+- Earlier: 2026-10-12 · Raycast · [[Changes/Raycast/2026-10-12-performance-improved-app-launch-responsiveness-especially-with-larger-collection|Performance : Improved app launch responsiveness, especially with larger collections]]
 - Later: 2026-10-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-13-emergency-memory-relief-in-long-sessions-can-now-bypass-its-cooldown-before-v8-a|Emergency memory relief in long sessions can now bypass its cooldown before V8…]]
 <!-- chronolog:end -->
 

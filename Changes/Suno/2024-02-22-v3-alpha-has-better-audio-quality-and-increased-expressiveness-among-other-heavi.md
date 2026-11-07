@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ccdccd92511947e5bf8c6ac500697d2389fc262a7be6b03c669ffdf606ca5c15
+machine_hash: 450fc109308baa36eaf27d4391b1db4d0de974d452b660c47cb8ad269f4c1f2a
 product: suno
 product_name: Suno
 record:
@@ -45,11 +45,11 @@ record:
     heavily…
   type: change
 related_changes:
-- '[[Changes/Gemini/2024-02-08-chat-to-supercharge-your-ideas-in-the-gemini-app|Chat
-  to supercharge your ideas in the Gemini app]]'
 - '[[Changes/Dify/2024-02-19-5-voice-and-audio-changes-in-0-5-6|5 Voice and Audio
   changes in 0.5.6]]'
 - '[[Changes/Descript/2024-02-20-new-stock-voice|New Stock Voice]]'
+- '[[Changes/Superwhisper/2024-02-20-cloud-voice-model-added-deepgram-nova-2|Cloud
+  voice model added (Deepgram Nova 2)]]'
 source_release: '[[Releases/Suno/suno-2024-02-22-e-v3-alpha-access-for-pro-premier-members-a35c7878|suno-2024-02-22-e-v3-alpha-access-for-pro-premier-members-a35c7878]]'
 source_type: suno_changelog
 theme: voice
@@ -82,7 +82,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2024-02-20 · Descript · [[Changes/Descript/2024-02-20-new-stock-voice|New Stock Voice]]
+- Earlier: 2024-02-20 · Superwhisper · [[Changes/Superwhisper/2024-02-20-cloud-voice-model-added-deepgram-nova-2|Cloud voice model added (Deepgram Nova 2)]]
 - Later: 2024-02-28 · Dify · [[Changes/Dify/2024-02-28-voice-audition-by-charli117-in-https-github-com-langgenius-dify-pull-2504|Voice audition]]
 <!-- chronolog:end -->
 

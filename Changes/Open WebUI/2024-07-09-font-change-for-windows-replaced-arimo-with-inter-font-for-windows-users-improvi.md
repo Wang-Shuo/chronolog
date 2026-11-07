@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0c37cb016d93216880b288f4f752e9ea3cd90f6f81ae5a8bd083ad3a8451e7c0
+machine_hash: dddc3dc6d069975fc4aeae51cdc0e9d9e4a7d0e319aecd55fe4f5da98e0f62f9
 product: open-webui
 product_name: Open WebUI
 record:
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2024-07-09 · Descript · [[Changes/Descript/2024-07-09-desktop-preview|Desktop Preview]]
-- Later: 2024-07-17 · Notion · [[Changes/Notion/2024-07-17-use-notion-calendar-on-android|Use Notion Calendar on Android]]
+- Later: 2024-07-15 · Devin · [[Changes/Devin/2024-07-15-general-ui-improvements|General UI Improvements]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

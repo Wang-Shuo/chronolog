@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a5f01d57a0553c88664610c820177b0a98449312e27e5159967d9dd210590ad4
+machine_hash: 732afe99312b7ea5b8eba5aa4e114c39a094e1fa62cc0796173da7b18466d6de
 product: open-webui
 product_name: Open WebUI
 record:
@@ -44,9 +44,10 @@ record:
   title: "**\U0001F4DC FileReader Optimization**"
   type: change
 related_changes:
-- '[[Changes/Suno/2024-04-12-2-click-edit-profile|2️⃣ Click Edit Profile]]'
 - '[[Changes/Dify/2024-04-16-3-editor-experience-changes-in-0-6-3|3 Editor Experience
   changes in 0.6.3]]'
+- '[[Changes/Superwhisper/2024-04-19-rename-speakers-tab-to-segments|Rename speakers
+  tab to Segments]]'
 - '[[Changes/Aider/2024-04-24-allow-repo-map-for-whole-edit-format|Allow repo map
   for "whole" edit format]]'
 source_release: '[[Releases/Open WebUI/open-webui-2024-04-24-v0-1-121-github-152683529-10530e03|open-webui-2024-04-24-v0-1-121-github-152683529-10530e03]]'

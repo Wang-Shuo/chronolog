@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3eaab9c14f0924bcaff4d06577c05c09cc79f73f928b5968e0263d96193632e4
+machine_hash: 50053a42871eefc971b2f071a2f121e25c7b47855dc4b23231531335f31492c4
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -59,12 +59,12 @@ record:
   title: 8 Interface Experience changes in rust-v0.105.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-02-20-add-configurable-status-line-support-to-display-dynamic-session-information-via|Add
-  configurable status line support to display dynamic session information…]]'
-- '[[Changes/Lovable/2026-02-23-drag-and-drop-reordering-of-pinned-tools-in-the-project-navigation-bar-has-been|Drag
-  and drop reordering of pinned tools in the project navigation bar has been…]]'
 - '[[Changes/Open WebUI/2026-02-23-8-interface-experience-changes-in-v0-8-4|8 Interface
   Experience changes in v0.8.4]]'
+- '[[Changes/Superwhisper/2026-02-23-new-input-device-auto-selection|New input device
+  auto-selection]]'
+- '[[Changes/Superwhisper/2026-02-24-add-keyboard-shortcut-support-for-intlyen-intlro-convert-fix-keyf-binding-confli|Add
+  keyboard shortcut support for IntlYen, IntlRo, Convert + Fix KeyF binding conflict]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-02-25-rust-v0-105-0-github-290476287-0c72d1ed|codex-cli-2026-02-25-rust-v0-105-0-github-290476287-0c72d1ed]]'
 source_type: github_releases
 theme: interface-experience
@@ -123,7 +123,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.105.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-02-23 · Open WebUI · [[Changes/Open WebUI/2026-02-23-8-interface-experience-changes-in-v0-8-4|8 Interface Experience changes in v0.8.4]]
+- Earlier: 2026-02-24 · Superwhisper · [[Changes/Superwhisper/2026-02-24-add-keyboard-shortcut-support-for-intlyen-intlro-convert-fix-keyf-binding-confli|Add keyboard shortcut support for IntlYen, IntlRo, Convert + Fix KeyF binding conflict]]
 - Later: 2026-02-25 · Gemini CLI · [[Changes/Gemini CLI/2026-02-25-perf-ui-optimize-table-rendering-by-memoizing-styled-characters-by-devr0306-in-h|perf(ui): optimize table rendering by memoizing styled characters]]
 <!-- chronolog:end -->
 

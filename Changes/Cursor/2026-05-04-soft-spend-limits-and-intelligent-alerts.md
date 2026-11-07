@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: e4bb1493520f7f8f1f334a10f5c097afc84e6500d87e827bcebcf3554cd12ce7
+machine_hash: 7d23dfed4c198fca8e09e742d15781bb9115beec86a75a8bb93a7472a807d7cd
 product: cursor
 product_name: Cursor
 record:
@@ -49,10 +49,9 @@ record:
   title: Soft spend limits and intelligent alerts
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-28-pasting-a-pr-url-into-the-resume-search-box-now-finds-the-session-that-created-t|Pasting
-  a PR URL into the /resume search box now finds the session that created…]]'
-- '[[Changes/Dify/2026-04-29-2-enterprise-and-administration-changes-in-1-14-0|2 Enterprise
-  and Administration changes in 1.14.0]]'
+- '[[Changes/Devin/2026-05-01-deleted-orgs-in-enterprise-sessions-api|Deleted Orgs
+  in Enterprise Sessions API]]'
+- '[[Changes/Devin/2026-05-01-stacked-review-permissions|Stacked Review Permissions]]'
 - '[[Changes/Cursor/2026-05-04-this-release-introduces-updates-for-enterprise-admins-a-new-system-for-model-con|Cursor
   introduces updates for Enterprise admins]]'
 source_release: '[[Releases/Cursor/cursor-2026-05-04-model-controls-spend-management-and-usage-analytics-https-cursor-1ab41047|cursor-2026-05-04-model-controls-spend-management-and-usage-analytics-https-cursor-1ab41047]]'
@@ -87,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-04-29 · Dify · [[Changes/Dify/2026-04-29-2-enterprise-and-administration-changes-in-1-14-0|2 Enterprise and Administration changes in 1.14.0]]
+- Earlier: 2026-05-01 · Devin · [[Changes/Devin/2026-05-01-stacked-review-permissions|Stacked Review Permissions]]
 - Later: 2026-05-07 · Claude Code · [[Changes/Claude Code/2026-05-07-added-parentsettingsbehavior-admin-tier-key-first-wins-merge-to-let-admins-opt-s|Added parentSettingsBehavior admin-tier key ('first-wins'  /  'merge') to let…]]
 <!-- chronolog:end -->
 

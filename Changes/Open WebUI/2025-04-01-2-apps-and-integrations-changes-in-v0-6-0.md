@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5320e03f2043421b310fa7afe02fba574ba82b18be427df5c83a10e149ea5f83
+machine_hash: 496cad9a0cf7206a1b11aef6da90e903544c4d804ff7f7341f23cf261862248d
 product: open-webui
 product_name: Open WebUI
 record:
@@ -48,9 +48,9 @@ record:
   title: 2 Apps and Integrations changes in v0.6.0
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-03-23-3-apps-and-integrations-changes-in-0-48-x|3 Apps and
-  Integrations changes in 0.48.x]]'
 - '[[Changes/Notion/2025-03-26-webhooks-are-here|Webhooks are here!]]'
+- '[[Changes/LM Studio/2025-03-27-3-apps-and-integrations-changes-in-lm-studio-0-3-14|3
+  Apps and Integrations changes in LM Studio 0.3.14]]'
 - '[[Changes/Cline/2025-04-01-3-apps-and-integrations-changes-in-v3-8-5|3 Apps and
   Integrations changes in v3.8.5]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-04-01-v0-6-0-github-209478336-af8a2de0|open-webui-2025-04-01-v0-6-0-github-209478336-af8a2de0]]'

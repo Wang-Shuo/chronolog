@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 555788a79b5c1ca9d1e8cf05adc3f19a33e80d7f78bf8b71825ac0de745adac4
+machine_hash: 714b3948daa733b73c86ed02bfa10cbd8cdb079f35ea47207f3c1d50ffdb3c8a
 product: openhands
 product_name: OpenHands
 record:
@@ -44,10 +44,10 @@ record:
   title: Limit resource usage of command to avoid OOM Runtime Kill
   type: change
 related_changes:
-- '[[Changes/Dify/2025-01-22-stop-the-service-command-please-execute-in-the-docker-directory|Stop
-  the service，Command, please execute in the docker directory]]'
-- '[[Changes/Cursor/2025-01-23-update-0-45-12-13-update-infrastructure-improvements-the-f1-check-for-updates-co|UPDATE
-  (0.45.12-13): Update infrastructure improvements]]'
+- '[[Changes/Devin/2025-01-30-this-information-helps-you-debug-why-devin-is-stuck-or-taking-a-long-time-use-it|This
+  information helps you debug why Devin is stuck or taking a long time]]'
+- '[[Changes/LM Studio/2025-01-30-for-command-line-use-lms-load-ttl|For command line
+  use: lms load --ttl ]]'
 - '[[Changes/Dify/2025-02-07-stop-the-service-command-please-execute-in-the-docker-directory|Stop
   the service，Command, please execute in the docker directory]]'
 source_release: '[[Releases/OpenHands/openhands-2025-02-13-0-24-0-github-200146983-89f4a101|openhands-2025-02-13-0-24-0-github-200146983-89f4a101]]'

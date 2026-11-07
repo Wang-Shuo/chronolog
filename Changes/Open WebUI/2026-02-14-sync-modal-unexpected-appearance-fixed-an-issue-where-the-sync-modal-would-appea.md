@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6f8d908314d7759a93a637779c475e65d0e3b4e7d2429e7644b348b54130c872
+machine_hash: 33beeb5aa60ef11ffe165869e68bb6b6a71f296c2cd5b903279e24f81b3a19bf
 product: open-webui
 product_name: Open WebUI
 record:
@@ -48,9 +48,9 @@ record:
     Sync Modal would…"
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-02-12-enterprise-team-improvements|Enterprise & Team Improvements]]'
 - '[[Changes/ChatGPT/2026-02-13-cleaner-select-all-behavior-cmd-a-cmd-a-now-selects-only-the-conversation-conten|Cleaner
   “Select All” behavior (Cmd+A)]]'
+- '[[Changes/Devin/2026-02-13-skills-support|Skills Support]]'
 - '[[Changes/Midjourney/2026-02-14-thank-you-so-much-for-your-help-we-can-t-wait-to-share-v8-with-you-soon|Thank
   you so much for your help!]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-02-14-v0-8-1-github-286288526-aa333d77|open-webui-2026-02-14-v0-8-1-github-286288526-aa333d77]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 33a01d2892e2d3518a92755fd5c94588505d89cb142faf4b1ff7d6571cfbaffb
+machine_hash: 1bc241f2943d882ac045f15379366d1068fe7cb9e9c0b0bac65bc85703bb98b6
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,9 +45,9 @@ record:
     extension''s…'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-10-19-voice-dictation-no-longer-inserts-language-markers-like-en-us-into-transcript-te|Voice
-  dictation no longer inserts language markers like en-US into transcript text]]'
-- '[[Changes/Lovable/2026-10-19-faster-dictation|Faster dictation]]'
+- '[[Changes/Krea/2026-10-20-flux-3-max-for-video|FLUX 3 Max for video]]'
+- '[[Changes/Superwhisper/2026-10-20-3-voice-and-audio-changes-in-superwhisper-macos-3-0-2|3
+  Voice and Audio changes in Superwhisper macOS 3.0.2]]'
 - '[[Changes/Claude Code/2026-10-21-2-voice-and-audio-changes-in-v2-1-307|2 Voice
   and Audio changes in v2.1.307]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-22-v2-1-309-github-421170674-b2394d99|claude-code-2026-10-22-v2-1-309-github-421170674-b2394d99]]'

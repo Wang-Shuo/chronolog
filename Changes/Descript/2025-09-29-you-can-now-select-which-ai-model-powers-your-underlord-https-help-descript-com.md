@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: f228752ce49686bc385d42face675879a8e9d094ff3636f45c0a4ef0ce0f7493
+machine_hash: ab1d0dd017aedb925f48850ac02eabdd7e711d919ab06f5b8a391069af56b759
 product: descript
 product_name: Descript
 record:
@@ -103,7 +103,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2025-09-29 · Cline · [[Changes/Cline/2025-09-29-add-claude-sonnet-4-5-by-saoudrizwan-in-https-github-com-cline-cline-pull-6544|Add Claude Sonnet 4.5]]
-- Later: 2025-09-29 · ElevenLabs · [[Changes/ElevenLabs/2025-09-29-v1-tts-model-deprecation|v1 TTS model deprecation]]
+- Later: 2025-09-29 · Devin · [[Changes/Devin/2025-09-29-new-agent-preview-using-sonnet-4-5|New Agent Preview using Sonnet 4.5]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

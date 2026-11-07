@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 96dc5078311253a3f94fd2132fe7107ddedd5aec7d49e3c398630ba5d0658ee7
+machine_hash: 71943e00e01d2d923eaae76d06e4e74ab44d44c0e5f1fe1d82549cd4930e6264
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -87,7 +87,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.130.0
 ## Nearby in Editor Experience
 
 - Earlier: 2026-05-07 · Cursor · [[Changes/Cursor/2026-05-07-multitask-is-now-available-in-the-editor-for-running-async-subagents-to-parallel|/multitask is now available in the editor for running async subagents to parallelize…]]
-- Later: 2026-05-08 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-08-2-editor-experience-changes-in-v1-0-44|2 Editor Experience changes in v1.0.44]]
+- Later: 2026-05-08 · Devin · [[Changes/Devin/2026-05-08-clickable-diff-stats-in-worklog|Clickable Diff Stats in Worklog]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

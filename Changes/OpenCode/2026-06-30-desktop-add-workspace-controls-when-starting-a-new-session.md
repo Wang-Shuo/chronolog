@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: efe524f9e29cae524f9c854c23b45fc0fdb36e2bad6d770ac322dfe9d193ecc8
+machine_hash: 854def4153842f767463a1b2e8654485351533466ad14daa69f23321e80a455f
 product: opencode
 product_name: OpenCode
 record:
@@ -87,7 +87,7 @@ type: change
 ## Nearby in Enterprise and Administration
 
 - Earlier: 2026-06-30 · OpenClaw · [[Changes/OpenClaw/2026-06-30-qqbot-group-admins-can-choose-how-broadly-slash-commands-are-available-and-priva|QQBot group admins can choose how broadly slash commands are available…]]
-- Later: 2026-07-01 · Lovable · [[Changes/Lovable/2026-07-01-restrict-who-can-download-project-code|Restrict who can download project code]]
+- Later: 2026-07-01 · Devin · [[Changes/Devin/2026-07-01-acu-limit-audit-trail|ACU Limit Audit Trail]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

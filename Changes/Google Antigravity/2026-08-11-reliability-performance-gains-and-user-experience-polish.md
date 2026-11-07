@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 08251c188760d0ae3a57370a0a4db776f8810ed9bc2b570cb64e935d334169e6
+machine_hash: 86803ef90d4f950c9dab9286701bbb6138ca961fe88aa8905d3ce3b96bd7ff89
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -47,11 +47,12 @@ record:
   title: Reliability, Performance Gains, and User Experience Polish
   type: change
 related_changes:
-- '[[Changes/Descript/2026-08-05-improved-timeline-performance|Improved timeline performance]]'
 - '[[Changes/Google Antigravity/2026-08-07-2-reliability-and-performance-changes-in-hub-v2-6-0-faster-long-conversations|2
   Reliability and Performance changes in HUB v2.6.0 — Faster long conversations…]]'
 - '[[Changes/Claude Code/2026-08-10-improved-performance-fewer-event-loop-stalls-on-file-not-found-suggestions-and-a|Improved
   performance: fewer event-loop stalls on file-not-found suggestions…]]'
+- '[[Changes/Superwhisper/2026-08-10-significant-performance-boost-for-local-whisper-models|Significant
+  performance boost for local Whisper models]]'
 source_release: '[[Releases/Google Antigravity/google-antigravity-2026-08-11-rel-hub-2-7-1-5a73fafb|google-antigravity-2026-08-11-rel-hub-2-7-1-5a73fafb]]'
 source_type: antigravity_changelog
 theme: reliability-performance
@@ -83,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-08-10 · Claude Code · [[Changes/Claude Code/2026-08-10-improved-performance-fewer-event-loop-stalls-on-file-not-found-suggestions-and-a|Improved performance: fewer event-loop stalls on file-not-found suggestions…]]
+- Earlier: 2026-08-10 · Superwhisper · [[Changes/Superwhisper/2026-08-10-significant-performance-boost-for-local-whisper-models|Significant performance boost for local Whisper models]]
 - Later: 2026-08-12 · Google Antigravity · [[Changes/Google Antigravity/2026-08-12-queued-messages-file-attachments-and-performance-improvements|Queued Messages, File Attachments, and Performance Improvements]]
 <!-- chronolog:end -->
 

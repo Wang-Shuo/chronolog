@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 23b0dbea761196e7bb44d2cf872a9df12d8d069998d98205c6126569da5b653b
+machine_hash: 2e1ce673da73914dda4b1c8596c73f485a1aa92f5e1396d41be6a316c30f4666
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -45,8 +45,8 @@ record:
     to SDK…
   type: change
 related_changes:
-- '[[Changes/Kimi Code/2026-05-28-you-can-now-ask-the-agent-to-remind-you-at-a-specific-time-run-a-task-on-a-recur|Ask
-  the agent to remind you at a specific time, run a task on a recurring cron…]]'
+- '[[Changes/Devin/2026-05-29-automations-files-changed-trigger|Automations: Files-Changed
+  Trigger]]'
 - "[[Changes/Open WebUI/2026-06-01-bulk-enable-or-disable-automations-automations-can-now-be-enabled-or-disabled-in|\U0001F518
   Bulk enable or disable automations. Automations can now be enabled or disabled…]]"
 - '[[Changes/GitHub Copilot CLI/2026-06-02-experimental-schedule-prompts-with-every-and-after|/experimental
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Automation and Scheduling
 
 - Earlier: 2026-06-02 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-02-experimental-schedule-prompts-with-every-and-after|/experimental schedule prompts with /every and /after]]
-- Later: 2026-06-04 · Cursor · [[Changes/Cursor/2026-06-04-reliable-wait-on-local-runs-local-runs-no-longer-resolve-wait-before-the-termina|Reliable wait() on local runs]]
+- Later: 2026-06-03 · Devin · [[Changes/Devin/2026-06-03-personal-automations|Personal Automations]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

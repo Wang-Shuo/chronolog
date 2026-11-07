@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c67b4d72f9618f6aec2c22465904c6804b8a27a30360d9f7af9bd1efeca7f708
+machine_hash: 13543802d6028a72e7843e9273aa0da18e1d05e688adafa6ea6ed49d004a262e
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,12 +43,12 @@ record:
   title: Reduced the number of colors and improved the spacing of Markdown rendering
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2025-10-01-added-a-scrollbar-to-the-file-mentioning-picker-and-increased-the-size-of-the-ac|Added
-  a scrollbar to the @ file mentioning picker and increased the size…]]'
 - '[[Changes/OpenHands/2025-10-01-converted-settings-to-vertical-sidebar-layout|Converted
   settings to vertical sidebar layout]]'
 - '[[Changes/Codex CLI/2025-10-03-3-interface-experience-changes-in-rust-v0-44-0|3
   Interface Experience changes in rust-v0.44.0]]'
+- '[[Changes/Devin/2025-10-03-enhanced-member-page-tabs-and-navigation|Enhanced member
+  page tabs and navigation]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2025-10-06-v0-0-335-github-252550092-d9aa0132|github-copilot-cli-2025-10-06-v0-0-335-github-252550092-d9aa0132]]'
 source_type: github_releases
 theme: interface-experience
@@ -80,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2025-10-03 · Codex CLI · [[Changes/Codex CLI/2025-10-03-3-interface-experience-changes-in-rust-v0-44-0|3 Interface Experience changes in rust-v0.44.0]]
+- Earlier: 2025-10-03 · Devin · [[Changes/Devin/2025-10-03-enhanced-member-page-tabs-and-navigation|Enhanced member page tabs and navigation]]
 - Later: 2025-10-07 · Gemini CLI · [[Changes/Gemini CLI/2025-10-07-chore-docs-adds-sidebar-json-for-docs-organization-by-mbleigh-in-https-github-co|chore(docs): adds sidebar.json for docs organization]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 22922b6e426c2b6c09b6a03c430c8291b8f362680abdc12e742046935a252e82
+machine_hash: e135d85fa62dd42eae4af2518060533067814a439a5b00d01397ecf86f1947f3
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -48,7 +48,8 @@ record:
   title: JavaScript SDK
   type: change
 related_changes:
-- '[[Changes/Suno/2026-10-08-clip-fade-curves|Clip fade curves]]'
+- '[[Changes/Wispr Flow/2026-10-09-meeting-recordings-recover-from-save-and-upload-errors-notetaker|Meeting
+  recordings recover from save and upload errors (Notetaker)]]'
 - '[[Changes/Open WebUI/2026-10-10-12-voice-and-audio-changes-in-v0-12-0|12 Voice
   and Audio changes in v0.12.0]]'
 - '[[Changes/OpenClaw/2026-10-10-8-voice-and-audio-changes-in-v2026-10-1|8 Voice and

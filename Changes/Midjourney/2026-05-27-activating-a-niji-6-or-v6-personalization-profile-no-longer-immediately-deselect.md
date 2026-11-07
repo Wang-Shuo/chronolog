@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f8effed8f510634d86f30799f953c7299892f89bd4831d73468495a0139e29c9
+machine_hash: bbe655539c75b450f42abf0d72ab85993f9a72f482878e8133740d37c392c863
 product: midjourney
 product_name: Midjourney
 record:
@@ -43,8 +43,8 @@ record:
     it
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-05-22-2-memory-and-personalization-changes-in-v0-43-0|2
-  Memory and Personalization changes in v0.43.0]]'
+- '[[Changes/AnythingLLM/2026-05-26-10-memory-and-personalization-changes-in-v1-13-0|10
+  Memory and Personalization changes in v1.13.0]]'
 - '[[Changes/Codex CLI/2026-05-26-22915-3-of-4-tui-route-feature-and-memory-toggles-through-app-server-etraut-open|♯22915
   3 of 4 tui: route feature and memory toggles through app server @etraut-openai]]'
 - '[[Changes/Gemini CLI/2026-05-27-chore-clean-up-launched-memory-features-by-sandytao520-in-https-github-com-googl|chore:

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f0cd82a45537798299018d3058f959bbcb37fd36702d773e884cc6ff55230760
+machine_hash: 38b73a27150b2478dce1bdf725c1d79d2761e24a4dd7581c53c28407ed624f4d
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -54,12 +54,11 @@ record:
     can keep…'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-01-claude-code-skill-activated-opentelemetry-event-now-fires-for-user-typed-slash-c|claude_code.skill_activated
-  OpenTelemetry event now fires for user-typed slash…]]'
-- '[[Changes/Open WebUI/2026-05-09-2-automation-and-scheduling-changes-in-v0-9-3|2
-  Automation and Scheduling changes in v0.9.3]]'
 - '[[Changes/Dify/2026-05-12-human-input-exposed-selected-action-values-for-human-in-the-loop-flows-thanks-bl|Human
   input — exposed selected action values for Human-in-the-loop flows]]'
+- '[[Changes/Devin/2026-05-13-miscellaneous-improvements|Miscellaneous Improvements]]'
+- '[[Changes/Raycast/2026-05-13-my-schedule-date-formatting-now-respects-the-current-locale|My
+  Schedule: Date formatting now respects the current locale]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-05-20-rust-v0-132-0-github-325545332-3345c1c4|codex-cli-2026-05-20-rust-v0-132-0-github-325545332-3345c1c4]]'
 source_type: github_releases
 theme: automation-scheduling
@@ -98,7 +97,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2026-05-12 · Dify · [[Changes/Dify/2026-05-12-human-input-exposed-selected-action-values-for-human-in-the-loop-flows-thanks-bl|Human input — exposed selected action values for Human-in-the-loop flows]]
+- Earlier: 2026-05-13 · Raycast · [[Changes/Raycast/2026-05-13-my-schedule-date-formatting-now-respects-the-current-locale|My Schedule: Date formatting now respects the current locale]]
 - Later: 2026-05-20 · Cursor · [[Changes/Cursor/2026-05-20-no-repo-automations|No-repo automations]]
 <!-- chronolog:end -->
 

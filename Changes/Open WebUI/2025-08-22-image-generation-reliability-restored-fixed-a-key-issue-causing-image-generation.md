@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 69e133512b6a2500cb93c8cc4a7ae5e7f0531c7a6ef920adff0a348da435ec68
+machine_hash: 96db7b0e9b7dbc3cef483d4e20acaf217f67507326710b4c85d4af767abff706
 product: open-webui
 product_name: Open WebUI
 record:
@@ -42,8 +42,8 @@ record:
   title: "\U0001F5BC️ **Image Generation Reliability Restored**"
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-08-18-more-messages-larger-file-uploads-and-expanded-image-generation|More
-  messages, larger file uploads, and expanded image generation]]'
+- '[[Changes/Recraft/2025-08-20-ever-wanted-to-just-describe-what-you-want-instead-of-scrolling-through-a-list-o|Ever
+  wanted to just describe what you want instead of scrolling through a list…]]'
 - "[[Changes/Open WebUI/2025-08-21-resolved-image-generation-api-size-parameter-issue-fixed-a-bug-where-the-api-v1|\U0001F5BC️
   Resolved Image Generation API Size Parameter Issue]]"
 - "[[Changes/Open WebUI/2025-08-22-comfyui-image-generation-restored-fixed-a-critical-bug-where-comfyui-based-image|\U0001F5BC️

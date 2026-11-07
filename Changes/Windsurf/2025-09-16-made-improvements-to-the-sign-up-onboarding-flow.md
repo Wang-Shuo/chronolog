@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 68e8862dba58bdb4351d992609196d8e2ef8b667865c62a131911c7ffd1ab24e
+machine_hash: f0dd751eca7372561bd837ec8b65e4912462ba53722c237bb7b991e2eee134b2
 product: windsurf
 product_name: Windsurf
 record:
@@ -42,10 +42,10 @@ record:
   title: Made improvements to the sign up onboarding flow
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-09-12-1-6-27-native-menu-notification-badge|1.6.27: Native
-  menu notification badge]]'
 - '[[Changes/Codex CLI/2025-09-15-5-interface-experience-changes-in-rust-v0-36-0|5
   Interface Experience changes in rust-v0.36.0]]'
+- '[[Changes/Raycast/2025-09-15-ai-chat-window-can-now-be-made-full-screen-again|AI
+  Chat: Window can now be made full-screen again]]'
 - '[[Changes/ChatGPT/2025-09-16-formatting-answers-are-better-formatted-for-quick-understanding-without-losing-d|Formatting:
   Answers are better formatted for quick understanding without losing…]]'
 source_release: '[[Releases/Windsurf/windsurf-2025-09-16-v1-12-6-bf864e8d|windsurf-2025-09-16-v1-12-6-bf864e8d]]'

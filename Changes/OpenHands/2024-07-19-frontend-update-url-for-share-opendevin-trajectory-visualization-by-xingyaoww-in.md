@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f9bc7aadbcd1d40897ece125028d170da0105a0e284481ec8b8937cba3291f94
+machine_hash: e3549382651abd0e4ee40e5108e78c9fcdfee018b3679bb71563c0b6526f0bdb
 product: openhands
 product_name: OpenHands
 record:
@@ -44,10 +44,10 @@ record:
   title: 'frontend: update url for share opendevin trajectory visualization'
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2024-06-27-files-api-compatible-with-openai-this-feature-allows-for-custom-retrieval-augmen|\U0001F4C1
-  Files API: Compatible with OpenAI, this feature allows for custom…]]"
 - '[[Changes/OpenHands/2024-06-29-add-links-to-a-feedback-sharing-site-by-neubig-in-https-github-com-opendevin-ope|Add
   links to a feedback sharing site]]'
+- '[[Changes/Raycast/2024-07-03-affiliate-program-you-can-now-earn-30-commission-by-joining-our-affiliate-progra|Affiliate
+  Program: You can now earn 30% commission by joining our Affiliate Program…]]'
 - '[[Changes/OpenHands/2024-07-13-refractor-move-image-agnostic-util-to-shared-runtime-util-by-xingyaoww-in-https|Refractor:
   move image agnostic util to shared runtime util]]'
 source_release: '[[Releases/OpenHands/openhands-2024-07-19-0-8-1-github-166290483-3fde9148|openhands-2024-07-19-0-8-1-github-166290483-3fde9148]]'

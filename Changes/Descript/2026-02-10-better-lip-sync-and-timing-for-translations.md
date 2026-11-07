@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: aff050246669f933a8772a842ae9f94d13ba1cb6265767521b702b440a75553e
+machine_hash: 22eb32c3e4d6d7c1f4a737d9be28358599c26824e39dd75e9ce1aae38cdd1f70
 product: descript
 product_name: Descript
 record:
@@ -47,7 +47,8 @@ record:
   title: Better lip sync and timing for translations**
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-02-02-react-and-client-sdks|React and Client SDKs]]'
+- '[[Changes/Raycast/2026-02-04-voice-transcription-now-filters-out-silence|Voice
+  : Transcription now filters out silence]]'
 - '[[Changes/HeyGen/2026-02-06-5-audio-translation-is-now-unlimited|Audio translation
   is now unlimited]]'
 - '[[Changes/Descript/2026-02-10-transcribe-into-uk-english|Transcribe into UK English]]'

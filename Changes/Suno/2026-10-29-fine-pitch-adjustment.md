@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 09ebf6835248dcd710f92dc85d2aa296e8e7666b02f4035b2274cca21808035e
+machine_hash: b6ecd7eaff8cecc17c8faf74979bb05036dc97a517eb5d83814ecaffd14510d2
 product: suno
 product_name: Suno
 record:
@@ -47,11 +47,11 @@ record:
   title: Fine Pitch Adjustment
   type: change
 related_changes:
-- '[[Changes/HeyGen/2026-10-28-why-it-matters|Why it matters]]'
-- '[[Changes/Ollama/2026-10-28-liquid-ai-s-lfm3-https-ollama-com-library-lfm3-models-including-text-to-speech-i|Liquid
-  AI''s LFM3((source link) models, including text-to-speech…]]'
-- "[[Changes/Open WebUI/2026-10-29-read-aloud-with-kokoro-js-read-aloud-now-speaks-with-the-chosen-kokoro-voice-whe|\U0001F50A
-  Read Aloud with Kokoro.js. Read Aloud now speaks with the chosen Kokoro voice…]]"
+- '[[Changes/Raycast/2026-10-29-meet-your-new-keyboard-type-or-swipe-in-english-with-autocorrection-and-word-sug|Meet
+  your new keyboard]]'
+- '[[Changes/Raycast/2026-10-29-dictation-export-recordings-from-dictation-history|Dictation
+  : Export recordings from Dictation History]]'
+- '[[Changes/Raycast/2026-10-29-dictation-improved-stability|Dictation: Improved stability]]'
 source_release: '[[Releases/Suno/suno-2026-10-29-e-more-studio-updates-oct26-37e23464|suno-2026-10-29-e-more-studio-updates-oct26-37e23464]]'
 source_type: suno_changelog
 theme: voice
@@ -81,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-10-29 · Open WebUI · [[Changes/Open WebUI/2026-10-29-read-aloud-with-kokoro-js-read-aloud-now-speaks-with-the-chosen-kokoro-voice-whe|🔊 Read Aloud with Kokoro.js. Read Aloud now speaks with the chosen Kokoro voice…]]
+- Earlier: 2026-10-29 · Raycast · [[Changes/Raycast/2026-10-29-dictation-improved-stability|Dictation: Improved stability]]
 - Later: 2026-11-02 · ElevenLabs · [[Changes/ElevenLabs/2026-11-02-python-sdk|Python SDK]]
 <!-- chronolog:end -->
 

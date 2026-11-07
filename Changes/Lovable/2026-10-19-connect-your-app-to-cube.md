@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: b6f52dfc0e7fab3c328c1ab2d33dbf4a55b7a85fd227158459162eeb11131970
+machine_hash: 0a7016075e7eb6f793c9b6c1b2585160bb92f6902fd28a15206eccc20aab17e6
 product: lovable
 product_name: Lovable
 record:
@@ -50,10 +50,11 @@ record:
   title: Connect your app to Cube
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-10-19-sdk-releases|SDK releases]]'
 - '[[Changes/ElevenLabs/2026-10-19-python-sdk|Python SDK]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-19-10-apps-and-integrations-changes-in-v1-0-100|10
   Apps and Integrations changes in v1.0.100]]'
+- '[[Changes/Krea/2026-10-19-quote-a-generation-with-mcp-preflight|Quote a generation
+  with MCP preflight]]'
 source_release: '[[Releases/Lovable/lovable-2026-10-19-2026-10-19-dd219c14|lovable-2026-10-19-2026-10-19-dd219c14]]'
 source_type: lovable_changelog
 theme: apps-integrations
@@ -82,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-10-19 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-19-10-apps-and-integrations-changes-in-v1-0-100|10 Apps and Integrations changes in v1.0.100]]
+- Earlier: 2026-10-19 · Krea · [[Changes/Krea/2026-10-19-quote-a-generation-with-mcp-preflight|Quote a generation with MCP preflight]]
 - Later: 2026-10-19 · v0 · [[Changes/v0/2026-10-19-connect-your-slack-workspace-to-v0-to-bring-team-conversations-into-your-work-wi|Connect your Slack workspace to v0 to bring team conversations into your work]]
 <!-- chronolog:end -->
 

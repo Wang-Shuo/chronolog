@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: eb06482986179d382e5984695bc5866a1749058945878a43afac48c65e491b14
+machine_hash: 9ce45d424e8252ebd7b72b57a549ac03387c0b8b296194da1101b758ab2f626f
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -46,12 +46,11 @@ record:
   title: Steps waiting on your input now show the icon for the tool involved, including…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-06-3-safety-and-privacy-changes-in-v2-1-223|3 Safety
-  and Privacy changes in v2.1.223]]'
 - '[[Changes/Claude Code/2026-08-07-2-safety-and-privacy-changes-in-v2-1-224|2 Safety
   and Privacy changes in v2.1.224]]'
 - '[[Changes/Codex CLI/2026-08-07-9-safety-and-privacy-changes-in-rust-v0-147-0|9
   Safety and Privacy changes in rust-v0.147.0]]'
+- '[[Changes/Devin/2026-08-07-security-profiles|Security Profiles]]'
 source_release: '[[Releases/Google Antigravity/google-antigravity-2026-08-07-rel-hub-2-6-0-1cc55d28|google-antigravity-2026-08-07-rel-hub-2-6-0-1cc55d28]]'
 source_type: antigravity_changelog
 theme: safety-privacy
@@ -88,7 +87,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-08-07 · Codex CLI · [[Changes/Codex CLI/2026-08-07-9-safety-and-privacy-changes-in-rust-v0-147-0|9 Safety and Privacy changes in rust-v0.147.0]]
+- Earlier: 2026-08-07 · Devin · [[Changes/Devin/2026-08-07-security-profiles|Security Profiles]]
 - Later: 2026-08-07 · HeyGen · [[Changes/HeyGen/2026-08-07-why-it-matters-c18403|Why it matters]]
 <!-- chronolog:end -->
 

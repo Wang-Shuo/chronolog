@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ab65a487ccdd0e98fd149bf5d41ea68400114dcb67303cae444eb283e4dcb97d
+machine_hash: 9d56043c98e3bc46558c1674e6c0774e047b60899111f4ebe93a1d25c8c863dd
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -51,10 +51,10 @@ record:
   title: 6 Interface Experience changes in rust-v0.150.0
   type: change
 related_changes:
-- '[[Changes/Microsoft 365 Copilot/2026-08-25-simplified-design-for-the-microsoft-365-copilot-app-windows-mac-web-microsoft-36|Simplified
-  design for the Microsoft 365 Copilot app Windows, Mac…]]'
-- '[[Changes/Open WebUI/2026-08-25-24-interface-experience-changes-in-v0-11-1|24 Interface
-  Experience changes in v0.11.1]]'
+- '[[Changes/Raycast/2026-08-25-window-management-center-hotkey-now-truly-centers-a-window-when-respect-stage-ma|Window
+  Management : Center hotkey now truly centers a window…]]'
+- '[[Changes/Raycast/2026-08-25-general-added-add-to-dictionary-to-the-right-click-menu-on-text-fields|General
+  : Added Add to dictionary to the right-click menu on text fields]]'
 - '[[Changes/Claude Code/2026-08-26-changed-the-prompt-footer-pr-badge-to-skip-its-github-re-check-on-terminal-refoc|Changed
   the prompt-footer PR badge to skip its GitHub re-check on terminal refocus…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-08-26-rust-v0-150-0-github-377374683-d950f84c|codex-cli-2026-08-26-rust-v0-150-0-github-377374683-d950f84c]]'

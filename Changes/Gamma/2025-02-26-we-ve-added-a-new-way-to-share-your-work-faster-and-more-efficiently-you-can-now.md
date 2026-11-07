@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: b621b8070c93abb432f7242ac738a098287847112c20c9174c8e18d53fed6924
+machine_hash: e603745564e6a5d29d0cfaa7053e003f9b099ad4a3f62ee4aebbdd53f6550172
 product: gamma
 product_name: Gamma
 record:
@@ -61,11 +61,11 @@ record:
   title: Export to Google Slides
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2025-02-20-general-backend-frontend-stability-enhancements-extensive-refactoring-improves-r|⚙️
-  General Backend & Frontend Stability Enhancements]]'
 - '[[Changes/ChatGPT/2025-02-21-text-selection-improvements-you-can-now-select-text-across-horizontal-rulers-3-p|Text
   selection improvements: you can now select text across horizontal rulers]]'
 - '[[Changes/ElevenLabs/2025-02-25-text-to-speech|Text to Speech]]'
+- '[[Changes/Devin/2025-02-26-3-reliability-and-performance-changes-in-devin-updates-2025-02-26|3
+  Reliability and Performance changes in Devin updates — 2025-02-26]]'
 source_release: '[[Releases/Gamma/gamma-2025-02-26-67bf52950e489a4f31d4932c-3c964ea9|gamma-2025-02-26-67bf52950e489a4f31d4932c-3c964ea9]]'
 source_type: gamma_changelog
 theme: reliability-performance
@@ -94,8 +94,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-02-25 · ElevenLabs · [[Changes/ElevenLabs/2025-02-25-text-to-speech|Text to Speech]]
-- Later: 2025-02-27 · Open WebUI · [[Changes/Open WebUI/2025-02-27-general-stability-enhancements-backend-and-frontend-refactoring-improves-perform|⚙️ General Stability Enhancements]]
+- Earlier: 2025-02-26 · Devin · [[Changes/Devin/2025-02-26-3-reliability-and-performance-changes-in-devin-updates-2025-02-26|3 Reliability and Performance changes in Devin updates — 2025-02-26]]
+- Later: 2025-02-26 · Raycast · [[Changes/Raycast/2025-02-26-improved-the-loading-speed-of-our-settings-window|Improved the loading speed of our Settings window]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

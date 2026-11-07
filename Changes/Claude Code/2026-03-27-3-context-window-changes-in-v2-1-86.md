@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 72f757f7962ebe5d7b8443a1def258e03f73bbb440a4a53df96519a661cb80a8
+machine_hash: 03c29843e6bdb66a387ee7d771dc013d6f07ba292d6b715e82759b8bda3c0f43
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,12 +47,12 @@ record:
   title: 3 Context Window changes in v2.1.86
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-26-2-context-window-changes-in-v2-1-84|2 Context
-  Window changes in v2.1.84]]'
-- '[[Changes/Cline/2026-03-26-add-repeated-tool-call-loop-detection-to-prevent-infinite-loops-wasting-tokens|Add
-  repeated tool call loop detection to prevent infinite loops wasting tokens]]'
 - '[[Changes/Codex CLI/2026-03-26-5-context-window-changes-in-rust-v0-117-0|5 Context
   Window changes in rust-v0.117.0]]'
+- '[[Changes/LM Studio/2026-03-26-add-support-for-reasoning-effort-and-reasoning-tokens-in-openai-compatible-v1-ch|Add
+  support for reasoning_effort and reasoning_tokens in OpenAI-compatible…]]'
+- '[[Changes/Superwhisper/2026-03-26-recording-window-right-click-context-menu-with-settings-and-resize-options|Recording
+  window right-click context menu with Settings and Resize options]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-27-v2-1-86-github-302569462-d6b30859|claude-code-2026-03-27-v2-1-86-github-302569462-d6b30859]]'
 source_type: github_releases
 theme: context-window
@@ -94,7 +94,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.86
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-03-26 · Codex CLI · [[Changes/Codex CLI/2026-03-26-5-context-window-changes-in-rust-v0-117-0|5 Context Window changes in rust-v0.117.0]]
+- Earlier: 2026-03-26 · Superwhisper · [[Changes/Superwhisper/2026-03-26-recording-window-right-click-context-menu-with-settings-and-resize-options|Recording window right-click context menu with Settings and Resize options]]
 - Later: 2026-03-27 · Dify · [[Changes/Dify/2026-03-27-feat-workflow-add-selection-context-menu-helpers-and-integrate-with-context-menu|feat(workflow): add selection context menu helpers and integrate with context menu…]]
 <!-- chronolog:end -->
 

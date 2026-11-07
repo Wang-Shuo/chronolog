@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 867c3d0de9b359ce07b5f0e9ff6abeb2027bf7983ba86ab2dfad86788f5c1dc7
+machine_hash: 4db3a815ee8b979c9df3a092294ed6000e1701ab8178485dba451db85b322e1e
 product: dify
 product_name: Dify
 record:
@@ -54,12 +54,12 @@ record:
   title: 5 Files and Data changes in 1.11.0
   type: change
 related_changes:
-- '[[Changes/Dify/2025-11-26-3-files-and-data-changes-in-1-10-1|3 Files and Data changes
-  in 1.10.1]]'
 - '[[Changes/Cline/2025-11-27-docs-document-proxy-settings-by-dominiccooney-in-https-github-com-cline-cline-pu|docs:
   Document proxy settings]]'
 - "[[Changes/Open WebUI/2025-12-02-sentencetransformers-embedding-initialization-was-fixed-by-updating-the-transfor|\U0001F40D
   SentenceTransformers embedding initialization was fixed by updating…]]"
+- '[[Changes/AnythingLLM/2025-12-09-feat-add-base64-document-attachment-support-to-api-chat-endpoints-by-naaa760-in|feat:
+  add base64 document attachment support to API chat endpoints]]'
 source_release: '[[Releases/Dify/dify-2025-12-11-1-11-0-github-269442254-945416fa|dify-2025-12-11-1-11-0-github-269442254-945416fa]]'
 source_type: github_releases
 theme: file-data
@@ -111,7 +111,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.11.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2025-12-02 · Open WebUI · [[Changes/Open WebUI/2025-12-02-sentencetransformers-embedding-initialization-was-fixed-by-updating-the-transfor|🐍 SentenceTransformers embedding initialization was fixed by updating…]]
+- Earlier: 2025-12-09 · AnythingLLM · [[Changes/AnythingLLM/2025-12-09-feat-add-base64-document-attachment-support-to-api-chat-endpoints-by-naaa760-in|feat: add base64 document attachment support to API chat endpoints]]
 - Later: 2025-12-12 · Dify · [[Changes/Dify/2025-12-12-perf-optimize-save-document-with-dataset-id-by-fatelei-in-https-github-com-langg|perf: optimize save_document_with_dataset_id]]
 <!-- chronolog:end -->
 

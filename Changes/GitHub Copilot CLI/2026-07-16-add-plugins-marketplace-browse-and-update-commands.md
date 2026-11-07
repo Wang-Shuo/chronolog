@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4f23018cf7f24b08e712612a00f5b607ab0c457be9ab1f9874211da23dc8863b
+machine_hash: 3d006a5ffa2fb847b8f7b8a1802485cc8107ba574afda2ae217bc85fe934357e
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -51,8 +51,8 @@ record:
   title: Add plugins marketplace browse and update commands
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-07-09-31525-core-migrate-standalone-web-search-to-extension-owned-turn-items-owenlin0|♯31525
-  core: migrate standalone web search to extension-owned turn items @owenlin0]]'
+- '[[Changes/Raycast/2026-07-09-root-search-removed-tab-to-browse-on-file-search-items-to-improve-consistency-ar-fe8486|Root
+  Search : Removed Tab to browse on file search items to improve consistency…]]'
 - '[[Changes/OpenClaw/2026-07-13-8-search-and-browsing-changes-in-v2026-7-1|8 Search
   and Browsing changes in v2026.7.1]]'
 - '[[Changes/OpenCode/2026-07-13-desktop-updated-the-review-panel-with-persistent-file-browsing-better-file-tabs|Desktop

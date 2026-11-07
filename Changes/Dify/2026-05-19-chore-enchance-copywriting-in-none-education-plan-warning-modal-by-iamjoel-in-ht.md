@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4d974c05443e6fd6a951c62d8c6f9bf73ab83f2f7ec4b6af6834491e99277d9a
+machine_hash: a58b10228f5b9f39617509ef5fc1f088d56ad59d7901ffb5cb5a43c86b136bae
 product: dify
 product_name: Dify
 record:
@@ -43,11 +43,10 @@ record:
   title: 'chore: enchance copywriting in none education plan warning modal'
   type: change
 related_changes:
-- '[[Changes/Replit/2026-05-15-buy-enterprise-online-with-automated-sso-setup|Buy
-  Enterprise online with automated SSO setup]]'
-- '[[Changes/Replit/2026-05-15-per-user-spend-limits-for-enterprise-workspaces|Per-user
-  spend limits for Enterprise workspaces]]'
 - '[[Changes/Replit/2026-05-15-teams-and-enterprise|Teams and Enterprise]]'
+- '[[Changes/Devin/2026-05-17-default-member-roles|Default Member Roles]]'
+- '[[Changes/Devin/2026-05-17-ghes-app-registration-restriction|GHES App Registration
+  Restriction]]'
 source_release: '[[Releases/Dify/dify-2026-05-19-1-14-2-github-324730496-11d48ace|dify-2026-05-19-1-14-2-github-324730496-11d48ace]]'
 source_type: github_releases
 theme: enterprise-admin
@@ -84,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-05-15 · Replit · [[Changes/Replit/2026-05-15-teams-and-enterprise|Teams and Enterprise]]
+- Earlier: 2026-05-17 · Devin · [[Changes/Devin/2026-05-17-ghes-app-registration-restriction|GHES App Registration Restriction]]
 - Later: 2026-05-21 · Lovable · [[Changes/Lovable/2026-05-21-branded-app-urls|Branded app URLs]]
 <!-- chronolog:end -->
 

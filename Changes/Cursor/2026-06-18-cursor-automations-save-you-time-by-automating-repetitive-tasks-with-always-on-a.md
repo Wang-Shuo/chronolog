@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: a17a67b3a6414e2cce9c738cd9c0b4c0f7c0cf4eb4dc80357ab8568c8b912842
+machine_hash: 0ebc7b58a6f13650ffa3d5de724f393ea260d04eaa2ad9ee855233c40afb5460
 product: cursor
 product_name: Cursor
 record:
@@ -99,7 +99,7 @@ type: change
 ## Nearby in Automation and Scheduling
 
 - Earlier: 2026-06-17 · Kimi Code · [[Changes/Kimi Code/2026-06-17-restore-the-turn-counter-from-persisted-loop-events-on-resume-so-post-resume-tur|Restore the turn counter from persisted loop events on resume so post-resume turns…]]
-- Later: 2026-06-22 · Codex CLI · [[Changes/Codex CLI/2026-06-22-26496-make-auto-review-on-request-prompt-more-proactive-maja-openai|♯26496 Make auto-review on-request prompt more proactive @maja-openai]]
+- Later: 2026-06-19 · Devin · [[Changes/Devin/2026-06-19-incremental-generation-steps-in-automation-input|Incremental Generation Steps in Automation Input]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

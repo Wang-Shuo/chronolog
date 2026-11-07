@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7d6aa287f7067aa296d7e00889446ccbc625b20bd6e203256e4613286a84fcbb
+machine_hash: ccf808c1c1ca324c4bf39edd8c414992ea0cb9a8d1516efea9399d22a89b9b50
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -100,7 +100,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.101
 ## Nearby in Account and Access
 
 - Earlier: 2026-10-20 · Claude Code · [[Changes/Claude Code/2026-10-20-vscode-changed-the-message-shown-when-a-session-does-not-start-in-time-and-no-ho|VSCode Changed the message shown when a session does not start in time and no hook…]]
-- Later: 2026-10-21 · Claude Code · [[Changes/Claude Code/2026-10-21-2-account-and-access-changes-in-v2-1-307|2 Account and Access changes in v2.1.307]]
+- Later: 2026-10-20 · Krea · [[Changes/Krea/2026-10-20-krea-cli-with-browser-sign-in|Krea CLI with browser sign-in]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: ea4f457e47fe96174834a3968c0c78289e496f3491270f394f28bde70f93ff2b
+machine_hash: 00710692a21a96a2f58788b60d53b20fb47e38e2cbb3875fcb1aa75e42cdb3ae
 product: ollama
 product_name: Ollama
 record:
@@ -59,10 +59,10 @@ record:
   title: '[Mistral Large 2](https://ollama.com/library/mistral-large)'
   type: change
 related_changes:
-- '[[Changes/Gemini/2024-06-18-gemini-advanced-features-available-in-india|Gemini
-  Advanced features available in India]]'
 - '[[Changes/Aider/2024-06-24-improved-error-info-for-token-limit-errors|Improved
   error info for token limit errors]]'
+- '[[Changes/Superwhisper/2024-07-12-show-clipboard-context-update-in-realtime|Show
+  clipboard context update in realtime]]'
 - '[[Changes/Ollama/2024-07-21-mistral-nemo-https-ollama-com-library-mistral-nemo-a-state-of-the-art-12b-model|Mistral
   Nemo((source link) A state-of-the-art 12B…]]'
 source_release: '[[Releases/Ollama/ollama-2024-07-25-v0-3-0-github-167034492-97511760|ollama-2024-07-25-v0-3-0-github-167034492-97511760]]'
@@ -97,7 +97,7 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2024-07-21 · Ollama · [[Changes/Ollama/2024-07-21-mistral-nemo-https-ollama-com-library-mistral-nemo-a-state-of-the-art-12b-model|Mistral Nemo((source link) A state-of-the-art 12B…]]
-- Later: 2024-07-27 · OpenHands · [[Changes/OpenHands/2024-07-27-fix-colima-use-a-docker-context-specific-to-runner-prevent-duplicate-start-by-to|(fix) colima: use a docker context specific to runner; prevent duplicate start]]
+- Later: 2024-07-26 · AnythingLLM · [[Changes/AnythingLLM/2024-07-26-6-context-window-changes-in-v1-0-0|6 Context Window changes in v1.0.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

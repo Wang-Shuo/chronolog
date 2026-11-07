@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: f808b58ad08aac836e7b25f7abed54582df5e16bbd536cedd81f8247d4a96ddf
+machine_hash: c1fe9d29e8c5acae8e714d4bb95b4a08abe48fa002ee23dc5c024870ccd7ca9f
 product: cline
 product_name: Cline
 record:
@@ -42,12 +42,12 @@ record:
   title: Add new Kimi K2 model to Groq and Moonshot providers
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-09-03-3071-use-experimental-reasoning-summary|♯3071 Use
-  experimental reasoning summary]]'
-- '[[Changes/Dify/2025-09-03-5-model-support-changes-in-1-8-1|5 Model Support changes
-  in 1.8.1]]'
+- '[[Changes/Raycast/2025-09-03-quick-ai-when-changing-the-ai-model-models-are-grouped-by-brand|Quick
+  AI: When changing the AI model, models are grouped by brand]]'
 - '[[Changes/Gemini CLI/2025-09-04-5-model-support-changes-in-v0-3-0|5 Model Support
   changes in v0.3.0]]'
+- '[[Changes/LM Studio/2025-09-04-when-selecting-a-chat-that-uses-a-different-model-auto-switch-to-that-model-if-i|When
+  selecting a chat that uses a different model, auto switch to that model if it''s…]]'
 source_release: '[[Releases/Cline/cline-2025-09-05-v3-27-1-github-244962693-0351a916|cline-2025-09-05-v3-27-1-github-244962693-0351a916]]'
 source_type: github_releases
 theme: model-support
@@ -74,7 +74,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-09-04 · Gemini CLI · [[Changes/Gemini CLI/2025-09-04-5-model-support-changes-in-v0-3-0|5 Model Support changes in v0.3.0]]
+- Earlier: 2025-09-04 · LM Studio · [[Changes/LM Studio/2025-09-04-when-selecting-a-chat-that-uses-a-different-model-auto-switch-to-that-model-if-i|When selecting a chat that uses a different model, auto switch to that model if it's…]]
 - Later: 2025-09-05 · Codex CLI · [[Changes/Codex CLI/2025-09-05-2-model-support-changes-in-rust-v0-30-0|2 Model Support changes in rust-v0.30.0]]
 <!-- chronolog:end -->
 

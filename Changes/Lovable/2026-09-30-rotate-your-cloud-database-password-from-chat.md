@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 7740b4a75c9bccfa384d30fa60fed95aec90ccf48ce5fdd2072035aa971404b9
+machine_hash: 4b3aaca6d148eaa7210cadf70b4a4d0b1f36706edecb60e57481b6abb52a8cea
 product: lovable
 product_name: Lovable
 record:
@@ -47,10 +47,10 @@ record:
   title: Rotate your Cloud database password from chat
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-30-4-safety-and-privacy-changes-in-v2-1-286|4 Safety
-  and Privacy changes in v2.1.286]]'
 - '[[Changes/Codex CLI/2026-09-30-2-safety-and-privacy-changes-in-rust-v0-159-3|2
   Safety and Privacy changes in rust-v0.159.3]]'
+- '[[Changes/Devin/2026-09-30-hardware-accelerated-emulators-in-sessions|Hardware-Accelerated
+  Emulators in Sessions]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-30-permission-prompts-remain-answerable-after-resuming-interrupted-sessions|Permission
   prompts remain answerable after resuming interrupted sessions]]'
 source_release: '[[Releases/Lovable/lovable-2026-09-30-2026-09-30-863545c9|lovable-2026-09-30-2026-09-30-863545c9]]'

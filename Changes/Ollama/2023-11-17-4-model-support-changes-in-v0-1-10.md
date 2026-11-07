@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 45b06192e940855ab7c50ce0271dbed831756bd75f7e4223ce897670c168e5f5
+machine_hash: 8e63e53337993d1ae4bd2ed4dc0221cd0765e4bd2b534a861496f68b708ed6cd
 product: ollama
 product_name: Ollama
 record:
@@ -50,8 +50,8 @@ record:
   title: 4 Model Support changes in v0.1.10
   type: change
 related_changes:
-- '[[Changes/Ollama/2023-11-10-3-model-support-changes-in-v0-1-9|3 Model Support changes
-  in v0.1.9]]'
+- '[[Changes/Superwhisper/2023-11-12-2-model-support-changes-in-superwhisper-macos-1-16-6|2
+  Model Support changes in Superwhisper macOS 1.16.6]]'
 - '[[Changes/Dify/2023-11-13-2-model-support-changes-in-0-3-30|2 Model Support changes
   in 0.3.30]]'
 - '[[Changes/Aider/2023-11-17-3-model-support-changes-in-v0-18-0|3 Model Support changes
@@ -94,7 +94,7 @@ Source: https://github.com/ollama/ollama/releases/tag/v0.1.10
 ## Nearby in Model Support
 
 - Earlier: 2023-11-17 · Aider · [[Changes/Aider/2023-11-17-3-model-support-changes-in-v0-18-0|3 Model Support changes in v0.18.0]]
-- Later: 2023-11-20 · Ollama · [[Changes/Ollama/2023-11-20-4-model-support-changes-in-v0-1-11|4 Model Support changes in v0.1.11]]
+- Later: 2023-11-17 · Superwhisper · [[Changes/Superwhisper/2023-11-17-experiments-moved-to-ai-models-settings|Experiments moved to AI models settings]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

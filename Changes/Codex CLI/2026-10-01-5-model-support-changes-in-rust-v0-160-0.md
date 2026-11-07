@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 73c2c782fe113add0f0bf4ab630c472b04e89aaa7e5175f3e225e058e2ed36f9
+machine_hash: e5f0526c1112c95db0b124b71a513181a7caf5155ca2ad78ae53d416eed15857
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -51,10 +51,10 @@ record:
   title: 5 Model Support changes in rust-v0.160.0
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-09-30-22-model-support-changes-in-v2026-9-7|22 Model Support
-  changes in v2026.9.7]]'
 - '[[Changes/OpenCode/2026-09-30-send-namespaced-session-and-parent-session-identity-headers-with-model-requests|Send
   namespaced session and parent-session identity headers with model requests]]'
+- '[[Changes/AnythingLLM/2026-10-01-3-model-support-changes-in-v1-17-0|3 Model Support
+  changes in v1.17.0]]'
 - '[[Changes/Claude Code/2026-10-01-4-model-support-changes-in-v2-1-287|4 Model Support
   changes in v2.1.287]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-10-01-rust-v0-160-0-github-401312540-620e0269|codex-cli-2026-10-01-rust-v0-160-0-github-401312540-620e0269]]'
@@ -110,7 +110,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.160.0
 ## Nearby in Model Support
 
 - Earlier: 2026-10-01 · Claude Code · [[Changes/Claude Code/2026-10-01-4-model-support-changes-in-v2-1-287|4 Model Support changes in v2.1.287]]
-- Later: 2026-10-01 · Suno · [[Changes/Suno/2026-10-01-meet-the-first-model-to-create-a-speech-and-its-soundtrack-together-in-one-take|Introducing Speech (beta)]]
+- Later: 2026-10-01 · Krea · [[Changes/Krea/2026-10-01-model-access-replaces-workspace-model-controls|Model Access replaces workspace model controls]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

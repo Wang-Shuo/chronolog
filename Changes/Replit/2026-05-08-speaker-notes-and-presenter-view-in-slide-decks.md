@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 283142ddcdb05015ffe061aceb6a3ecdb3f7cbb579b0ee7594b063f0e7f4b922
+machine_hash: 27b56fc728501210c153fc5a2f868b7ad8267f0231342c6012338f3a57199df7
 product: replit
 product_name: Replit
 record:
@@ -63,12 +63,12 @@ record:
   title: Speaker notes and Presenter view in Slide Decks
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-05-07-2-apps-and-integrations-changes-in-v0-23-2|2 Apps and
-  Integrations changes in v0.23.2]]'
-- '[[Changes/Claude Code/2026-05-08-changed-plugin-marketplace-removal-key-to-d-matching-delete-elsewhere-instead-of|Changed
-  plugin marketplace removal key to d (matching delete elsewhere) instead…]]'
-- '[[Changes/Codex CLI/2026-05-08-8-apps-and-integrations-changes-in-rust-v0-130-0|8
-  Apps and Integrations changes in rust-v0.130.0]]'
+- '[[Changes/Raycast/2026-05-08-ai-extensions-built-in-and-third-party-extensions-are-now-available-in-quick-ai|AI
+  Extensions : Built-in and third-party extensions are now available in Quick AI…]]'
+- '[[Changes/Raycast/2026-05-08-3-apps-and-integrations-changes-in-raycast-macos-0-56|3
+  Apps and Integrations changes in Raycast macos 0.56]]'
+- '[[Changes/Raycast/2026-05-08-extensions-restored-ability-to-delete-tokens-by-clicking-in-tag-picker|Extensions
+  : Restored ability to delete tokens by clicking × in tag picker]]'
 source_release: '[[Releases/Replit/replit-2026-05-08-2026-05-08-5ea341bc|replit-2026-05-08-2026-05-08-5ea341bc]]'
 source_type: replit_changelog
 theme: apps-integrations
@@ -102,7 +102,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-05-08 · Codex CLI · [[Changes/Codex CLI/2026-05-08-8-apps-and-integrations-changes-in-rust-v0-130-0|8 Apps and Integrations changes in rust-v0.130.0]]
+- Earlier: 2026-05-08 · Raycast · [[Changes/Raycast/2026-05-08-extensions-restored-ability-to-delete-tokens-by-clicking-in-tag-picker|Extensions : Restored ability to delete tokens by clicking × in tag picker]]
 - Later: 2026-05-09 · Open WebUI · [[Changes/Open WebUI/2026-05-09-3-apps-and-integrations-changes-in-v0-9-3|3 Apps and Integrations changes in v0.9.3]]
 <!-- chronolog:end -->
 

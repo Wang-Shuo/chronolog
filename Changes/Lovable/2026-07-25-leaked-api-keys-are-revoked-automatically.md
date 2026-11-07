@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 93718bae0a09b4995e7605ab2aa6db6ab89c59e75ba0accc7eb95f36f576c805
+machine_hash: ef2b9ae236562d363415a0a42620b75d8cc1730e910bb6eaae90ce476ec9465d
 product: lovable
 product_name: Lovable
 record:
@@ -57,12 +57,11 @@ record:
   title: Leaked API keys are revoked automatically
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-07-22-refactor-exclude-transient-ci-configuration-files-from-workspace-context-by-davi|Refactor:
-  exclude transient CI configuration files from workspace context]]'
 - '[[Changes/Kimi Code/2026-07-22-send-the-session-prompt-cache-key-to-openai-and-openai-responses-providers|Send
   the session prompt cache key to OpenAI and OpenAI Responses providers]]'
 - '[[Changes/Cline/2026-07-24-add-claude-opus-5-across-the-anthropic-claude-code-bedrock-vertex-cline-and-open|Add
   Claude Opus 5 across the Anthropic, Claude Code, Bedrock, Vertex, Cline…]]'
+- '[[Changes/Devin/2026-07-24-oidc-identity-tokens|OIDC Identity Tokens]]'
 source_release: '[[Releases/Lovable/lovable-2026-07-25-2026-07-25-f2b969c3|lovable-2026-07-25-2026-07-25-f2b969c3]]'
 source_type: lovable_changelog
 theme: context-window
@@ -89,7 +88,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-07-24 · Cline · [[Changes/Cline/2026-07-24-add-claude-opus-5-across-the-anthropic-claude-code-bedrock-vertex-cline-and-open|Add Claude Opus 5 across the Anthropic, Claude Code, Bedrock, Vertex, Cline…]]
+- Earlier: 2026-07-24 · Devin · [[Changes/Devin/2026-07-24-oidc-identity-tokens|OIDC Identity Tokens]]
 - Later: 2026-07-27 · Open WebUI · [[Changes/Open WebUI/2026-07-27-9-context-window-changes-in-v0-11-0|9 Context Window changes in v0.11.0]]
 <!-- chronolog:end -->
 

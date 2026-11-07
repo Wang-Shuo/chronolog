@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4fcad0656153a26b0c9195b7d27ad8bf4e8464ad69492d0fecafc4af42b3be92
+machine_hash: f5a2e60970a43fd636dd0a7cf75c8de80507784d28a0650d704fd66f86bcf4a0
 product: v0
 product_name: v0
 record:
@@ -43,11 +43,12 @@ record:
   title: The "built with v0" badge respects branding settings on deployed apps…
   type: change
 related_changes:
-- '[[Changes/Replit/2026-05-15-integrations|Integrations]]'
 - '[[Changes/Replit/2026-05-15-nine-new-connectors-ready-to-use-out-of-the-box|Nine
   new connectors ready to use out of the box]]'
 - '[[Changes/Replit/2026-05-15-four-new-mcp-servers-in-the-directory|Four new MCP
   servers in the directory]]'
+- '[[Changes/Superwhisper/2026-05-15-2-apps-and-integrations-changes-in-superwhisper-macos-2-14-0|2
+  Apps and Integrations changes in Superwhisper macOS 2.14.0]]'
 source_release: '[[Releases/v0/v0-2026-05-15-2026-05-15-d142aa2e|v0-2026-05-15-2026-05-15-d142aa2e]]'
 source_type: v0_changelog
 theme: apps-integrations
@@ -84,8 +85,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-05-15 · Replit · [[Changes/Replit/2026-05-15-four-new-mcp-servers-in-the-directory|Four new MCP servers in the directory]]
-- Later: 2026-05-18 · Codex CLI · [[Changes/Codex CLI/2026-05-18-56-apps-and-integrations-changes-in-rust-v0-131-0|56 Apps and Integrations changes in rust-v0.131.0]]
+- Earlier: 2026-05-15 · Superwhisper · [[Changes/Superwhisper/2026-05-15-2-apps-and-integrations-changes-in-superwhisper-macos-2-14-0|2 Apps and Integrations changes in Superwhisper macOS 2.14.0]]
+- Later: 2026-05-17 · Devin · [[Changes/Devin/2026-05-17-slack-improvements|Slack Improvements]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

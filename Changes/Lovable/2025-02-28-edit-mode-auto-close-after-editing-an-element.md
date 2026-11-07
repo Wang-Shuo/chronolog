@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8c99860bd1dc284078aec83696c621acf01583e568103b31d2957fc1777165f9
+machine_hash: 257c3a1e70144269ed5566e65f4d1090f5077aa49d02bcaf88538ed3ac29f293
 product: lovable
 product_name: Lovable
 record:
@@ -42,11 +42,11 @@ record:
   title: '''*Edit*'' mode auto close after editing an element'
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-02-19-tab-rebinding-tab-suggestions-can-now-be-rebound-to-a-different-keybinding-using|Tab
-  rebinding: Tab suggestions can now be rebound to a different keybinding using…]]'
 - '[[Changes/Lovable/2025-02-21-improvements-in-visual-edits-https-x-com-lovable-dev-status-1892249059718484100|Improvements
   in visual edits((source link)]]'
 - '[[Changes/Descript/2025-02-25-editor-updates|Editor updates]]'
+- '[[Changes/Devin/2025-02-26-customize-chat-vs-workspace-width-drag-to-make-the-chat-as-narrow-or-wide-as-you|Customize
+  chat vs workspace width]]'
 source_release: '[[Releases/Lovable/lovable-2025-02-28-2025-02-28-81625fa9|lovable-2025-02-28-2025-02-28-81625fa9]]'
 source_type: lovable_changelog
 theme: editor-experience
@@ -76,7 +76,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2025-02-25 · Descript · [[Changes/Descript/2025-02-25-editor-updates|Editor updates]]
+- Earlier: 2025-02-26 · Devin · [[Changes/Devin/2025-02-26-customize-chat-vs-workspace-width-drag-to-make-the-chat-as-narrow-or-wide-as-you|Customize chat vs workspace width]]
 - Later: 2025-03-07 · Lovable · [[Changes/Lovable/2025-03-07-dev-mode-https-x-com-lovable-dev-status-1897693825767768542-easily-edit-any-code|Dev Mode:((source link) Easily edit any…]]
 <!-- chronolog:end -->
 

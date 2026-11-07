@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: ce6a023eb24c6437cb4bfb0d8f65ba914a603c60a8195c026e266a568b9deb91
+machine_hash: 258a67e0430a1cfa1dd322428b4ae90e6ddc1c64ad80dba41883acbb6f95ef6e
 product: aider
 product_name: Aider
 record:
@@ -46,10 +46,10 @@ record:
   title: Added explicit model settings for `openrouter/anthropic/claude-3-opus`, `gpt-3.5-turbo`
   type: change
 related_changes:
-- '[[Changes/Aider/2024-05-08-added-native-support-for-deepseek-models-https-aider-chat-docs-llms-html-deepsee|Added
-  native support for Deepseek…]]'
-- '[[Changes/Open WebUI/2024-05-08-2-model-support-changes-in-v0-1-124|2 Model Support
-  changes in v0.1.124]]'
+- '[[Changes/Superwhisper/2024-05-08-recommend-smaller-model-to-intel-users|Recommend
+  smaller model to Intel users]]'
+- '[[Changes/Superwhisper/2024-05-08-help-text-for-adding-gpt-4-and-ollama-model-connections|Help
+  text for adding GPT-4 and Ollama model connections]]'
 - '[[Changes/Dify/2024-05-09-11-model-support-changes-in-0-6-7|11 Model Support changes
   in 0.6.7]]'
 source_release: '[[Releases/Aider/aider-2024-05-10-v0-34-0-github-155287564-5b4274fa|aider-2024-05-10-v0-34-0-github-155287564-5b4274fa]]'

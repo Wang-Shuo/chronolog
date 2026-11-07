@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b2861ce0c9cec901dbbcf10c8a2e3255f079cc057bdfee6540b57c550e96ed80
+machine_hash: b974820d162c31ef026b2e7436c16b1a10d3636a48c366ca68baf97bae371d0e
 product: openclaw
 product_name: OpenClaw
 record:
@@ -52,8 +52,8 @@ record:
   title: 4 Mobile and Desktop changes in v2026.10.10
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-10-30-14-mobile-and-desktop-changes-in-v2-2-3|14 Mobile
-  and Desktop changes in v2.2.3]]'
+- '[[Changes/Superwhisper/2026-10-30-optimized-for-iphone-duo|Optimized for iPhone
+  Duo!]]'
 - '[[Changes/ElevenLabs/2026-11-02-android-sdk|Android SDK]]'
 - "[[Changes/Open WebUI/2026-11-03-image-drops-from-photo-apps-images-dropped-into-chats-and-channels-are-now-recog|\U0001F5BC️
   Image drops from photo apps. Images dropped into chats and channels are now…]]"

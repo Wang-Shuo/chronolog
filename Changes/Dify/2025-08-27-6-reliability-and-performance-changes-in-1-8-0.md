@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7e4f377bd30dc882c0b66f3de2d62eed6846a392a4599d2b092d0fda66140b53
+machine_hash: 948fdea35f574a014f14ad2971ffc5ee58ae7910d5b890d60959286082eac24a
 product: dify
 product_name: Dify
 record:
@@ -64,10 +64,10 @@ record:
   title: 6 Reliability and Performance changes in 1.8.0
   type: change
 related_changes:
-- '[[Changes/Descript/2025-08-21-introducing-templates-your-shortcut-to-professional-videos-with-underlord|Introducing
-  Templates—Your shortcut to professional videos with Underlord]]'
-- '[[Changes/Open WebUI/2025-08-21-6-reliability-and-performance-changes-in-v0-6-23|6
-  Reliability and Performance changes in v0.6.23]]'
+- '[[Changes/Devin/2025-08-22-various-reliability-performance-and-usability-improvements-across-the-app|Various
+  reliability, performance, and usability improvements across the app]]'
+- '[[Changes/Raycast/2025-08-25-we-are-happy-to-introduce-a-new-and-faster-file-system-indexer-for-windows-by-en|Raycast
+  introduces a new and faster file system indexer for Windows]]'
 - '[[Changes/Codex CLI/2025-08-26-2-reliability-and-performance-changes-in-rust-v0-24-0|2
   Reliability and Performance changes in rust-v0.24.0]]'
 source_release: '[[Releases/Dify/dify-2025-08-27-1-8-0-github-242787340-c7104f29|dify-2025-08-27-1-8-0-github-242787340-c7104f29]]'

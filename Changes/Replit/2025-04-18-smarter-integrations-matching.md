@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: bc037765a55c5e381657947f57460e7274f0478c2666ac76460b016b47c41e4e
+machine_hash: a7f68b7af7c61d3bf211e689ccdd9ec85e96ea28340aff718e86695635d2c65c
 product: replit
 product_name: Replit
 record:
@@ -50,11 +50,12 @@ record:
   title: Smarter integrations matching
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2025-04-13-openapi-yaml-format-support-external-tools-can-now-use-yaml-format-openapi-specs|\U0001F4C4
-  OpenAPI YAML Format Support]]"
-- '[[Changes/Cursor/2025-04-15-images-in-mcp|Images in MCP]]'
-- '[[Changes/OpenHands/2025-04-16-added-support-for-mcp-servers-natively-via-codeactagent-by-ducphamle2-in-https-g|Added
-  support for MCP servers natively via CodeActAgent]]'
+- '[[Changes/Devin/2025-04-17-we-now-support-jira-in-addition-to-linear-the-best-workflow|We
+  now support Jira, in addition to Linear!]]'
+- '[[Changes/Devin/2025-04-17-devin-will-now-link-to-devin-spaces-in-its-comment-on-jira-and-linear-use-spaces|Devin
+  will now link to Devin Spaces in its comment on Jira and Linear - use Spaces…]]'
+- '[[Changes/AnythingLLM/2025-04-18-3-apps-and-integrations-changes-in-v1-8-0|3 Apps
+  and Integrations changes in v1.8.0]]'
 source_release: '[[Releases/Replit/replit-2025-04-18-2025-04-18-24c8e895|replit-2025-04-18-2025-04-18-24c8e895]]'
 source_type: replit_changelog
 theme: apps-integrations
@@ -93,7 +94,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-04-16 · OpenHands · [[Changes/OpenHands/2025-04-16-added-support-for-mcp-servers-natively-via-codeactagent-by-ducphamle2-in-https-g|Added support for MCP servers natively via CodeActAgent]]
+- Earlier: 2025-04-18 · AnythingLLM · [[Changes/AnythingLLM/2025-04-18-3-apps-and-integrations-changes-in-v1-8-0|3 Apps and Integrations changes in v1.8.0]]
 - Later: 2025-04-19 · Cline · [[Changes/Cline/2025-04-19-add-ability-for-models-that-support-it-to-receive-image-responses-from-mcp-serve|Add ability for models that support it to receive image responses from MCP servers…]]
 <!-- chronolog:end -->
 

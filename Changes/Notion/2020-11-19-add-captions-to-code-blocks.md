@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 6834ddefb04a7528cb8e43077c734c6bb29c9d81359c851c480ae7e232a7da3a
+machine_hash: edb869672299120af0c00bf26eea5a3af30434ab972332187dc4be4a22ac168d
 product: notion
 product_name: Notion
 record:
@@ -48,12 +48,11 @@ record:
   title: "Add captions to code blocks \U0001F4BE"
   type: change
 related_changes:
-- '[[Changes/Notion/2020-07-02-added-grey-as-an-alternative-spelling-for-the-slash-command-gray|Added
-  /grey as an alternative spelling for the slash command /gray]]'
-- '[[Changes/Notion/2020-09-02-new-slash-command-shortcut-create-a-link-to-page-block-with-the-slash-command-lt|New
-  slash command shortcut]]'
-- '[[Changes/Descript/2020-09-08-descript-s-new-command-palette-conductor-allows-you-to-quickly-access-a-host-of|Speed
-  Up Your Editing Workflow with the Conductor]]'
+- '[[Changes/Raycast/2020-10-27-3-developer-workflow-changes-in-raycast-macos-v1-0-33-3|3
+  Developer Workflow changes in Raycast macos-v1 0.33.3]]'
+- '[[Changes/Raycast/2020-10-29-media-hacker-news|Media: Hacker News]]'
+- '[[Changes/Raycast/2020-11-11-github-perform-more-actions-on-pull-requests-and-issues-add-assignee-request-rev|GitHub:
+  Perform more actions on pull requests and issues]]'
 source_release: '[[Releases/Notion/notion-2020-11-19-https-www-notion-com-releases-2020-11-19-b4b1ddbb|notion-2020-11-19-https-www-notion-com-releases-2020-11-19-b4b1ddbb]]'
 source_type: notion_changelog
 theme: developer-workflow
@@ -86,8 +85,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2020-09-08 · Descript · [[Changes/Descript/2020-09-08-descript-s-new-command-palette-conductor-allows-you-to-quickly-access-a-host-of|Speed Up Your Editing Workflow with the Conductor]]
-- Later: 2021-03-10 · Notion · [[Changes/Notion/2021-03-10-improved-slash-command-support-for-japanese-keyboards|Improved slash command support for Japanese keyboards]]
+- Earlier: 2020-11-11 · Raycast · [[Changes/Raycast/2020-11-11-github-perform-more-actions-on-pull-requests-and-issues-add-assignee-request-rev|GitHub: Perform more actions on pull requests and issues]]
+- Later: 2020-11-19 · Raycast · [[Changes/Raycast/2020-11-19-github-repository-search|GitHub Repository Search]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

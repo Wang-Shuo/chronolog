@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ed6a9f7cdfdbf24d81a8112a3c4a411acf066dd5ff2f57e3e44429508c91304b
+machine_hash: eb502a67b5cd28965eefa0f01f49b448aca9d6d8933bc81762e333838c6bdd2d
 product: descript
 product_name: Descript
 record:
@@ -44,12 +44,12 @@ record:
   title: Playback Speed controls on embedded videos
   type: change
 related_changes:
-- '[[Changes/Descript/2020-11-10-we-ve-now-increased-the-maximum-playback-speed-from-2x-to-3x|Increased
-  playback speed]]'
-- '[[Changes/Notion/2020-12-08-the-api-is-now-in-private-beta-sign-up-for-access-to-the-public-beta-in-early-20|The
-  API is now in private beta!]]'
 - '[[Changes/Descript/2020-12-17-we-ve-added-a-bunch-of-performance-and-playback-improvements-especially-on-longe|Descript
   adds a bunch of performance and playback improvements, especially on longer…]]'
+- '[[Changes/Raycast/2020-12-22-file-search-improved-preview-display-performance-for-certain-file-types|File
+  Search : Improved preview display performance for certain file types]]'
+- '[[Changes/Raycast/2021-01-20-calculator-a-lot-of-improvements-around-fractions-time-unit-phrases-clock-times|Calculator
+  : A lot of improvements around fractions, time unit phrases, clock times…]]'
 source_release: '[[Releases/Descript/descript-2021-02-18-602be6210e8cb4392dc33aac-b13a864a|descript-2021-02-18-602be6210e8cb4392dc33aac-b13a864a]]'
 source_type: canny_changelog
 theme: reliability-performance
@@ -76,8 +76,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2020-12-17 · Descript · [[Changes/Descript/2020-12-17-we-ve-added-a-bunch-of-performance-and-playback-improvements-especially-on-longe|Descript adds a bunch of performance and playback improvements, especially on longer…]]
-- Later: 2021-04-21 · Notion · [[Changes/Notion/2021-04-21-improved-the-speed-of-displaying-page-history-versions-with-a-lot-of-content|Improved the speed of displaying page history versions with a lot of content]]
+- Earlier: 2021-01-20 · Raycast · [[Changes/Raycast/2021-01-20-calculator-a-lot-of-improvements-around-fractions-time-unit-phrases-clock-times|Calculator : A lot of improvements around fractions, time unit phrases, clock times…]]
+- Later: 2021-04-06 · Raycast · [[Changes/Raycast/2021-04-06-file-search-finds-more-results-for-partial-search-terms-and-has-improved-perform|File Search : Finds more results for partial search terms and has improved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

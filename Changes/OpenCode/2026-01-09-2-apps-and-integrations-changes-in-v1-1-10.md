@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e315ddb5d7a3c91a0ce07f803c82ed486c2e8e0c847c1b0015aee94f0a11e355
+machine_hash: b2edc81f568a84793900cf17bb004c0eb41296a978625862c630a045ea0aa58f
 product: opencode
 product_name: OpenCode
 record:
@@ -42,10 +42,9 @@ record:
   title: 2 Apps and Integrations changes in v1.1.10
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-09-2-apps-and-integrations-changes-in-v2-1-2|2 Apps
-  and Integrations changes in v2.1.2]]'
 - '[[Changes/Codex CLI/2026-01-09-2-apps-and-integrations-changes-in-rust-v0-80-0|2
   Apps and Integrations changes in rust-v0.80.0]]'
+- '[[Changes/Devin/2026-01-09-native-linear-integration|Native Linear Integration]]'
 - '[[Changes/Open WebUI/2026-01-09-3-apps-and-integrations-changes-in-v0-7-0|3 Apps
   and Integrations changes in v0.7.0]]'
 source_release: '[[Releases/OpenCode/opencode-2026-01-09-v1-1-10-b186aaaf|opencode-2026-01-09-v1-1-10-b186aaaf]]'

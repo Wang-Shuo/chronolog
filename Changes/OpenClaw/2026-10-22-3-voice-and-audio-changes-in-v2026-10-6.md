@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 591fc3a73e8c1d0a8f6a4da5e46f9e1317235b3d252cf6aeea2128504e540f64
+machine_hash: 9baa20ce2ae8a63dc798a9369bed70b7254cd4048c2800797cc62b8bdb238d79
 product: openclaw
 product_name: OpenClaw
 record:
@@ -48,7 +48,8 @@ record:
   title: 3 Voice and Audio changes in v2026.10.6
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-10-19-faster-dictation|Faster dictation]]'
+- '[[Changes/Superwhisper/2026-10-20-3-voice-and-audio-changes-in-superwhisper-macos-3-0-2|3
+  Voice and Audio changes in Superwhisper macOS 3.0.2]]'
 - '[[Changes/Claude Code/2026-10-21-2-voice-and-audio-changes-in-v2-1-307|2 Voice
   and Audio changes in v2.1.307]]'
 - '[[Changes/Claude Code/2026-10-22-vscode-added-a-log-warning-that-says-what-to-do-when-dictation-or-the-extension|VSCode
@@ -106,7 +107,7 @@ Source: https://docs.openclaw.ai/releases/2026.10.6
 ## Nearby in Voice and Audio
 
 - Earlier: 2026-10-22 · Claude Code · [[Changes/Claude Code/2026-10-22-vscode-added-a-log-warning-that-says-what-to-do-when-dictation-or-the-extension|VSCode Added a log warning that says what to do when dictation or the extension's…]]
-- Later: 2026-10-23 · Codex CLI · [[Changes/Codex CLI/2026-10-23-3-voice-and-audio-changes-in-rust-v0-164-0|3 Voice and Audio changes in rust-v0.164.0]]
+- Later: 2026-10-22 · Raycast · [[Changes/Raycast/2026-10-22-ai-chat-commands-sent-to-ai-chat-such-as-send-to-ai-chat-or-dictation-now-respec|AI Chat : Commands sent to AI Chat (such as Send to AI Chat or Dictation) now…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f2ffae751ce58a5da9c25ad478ac5c8f7539e1462f26cf8e5185c70d7cb6fe9b
+machine_hash: bd4e15a5e18e1b1c29ea520bff354e0d0953f6c4965ea2c42ea298b38beacb43
 product: dify
 product_name: Dify
 record:
@@ -42,11 +42,12 @@ record:
   title: 2 Editor Experience changes in 0.6.1
   type: change
 related_changes:
-- '[[Changes/Descript/2024-03-18-editor-updates|Editor Updates]]'
-- '[[Changes/Cursor/2024-03-20-team-invites-we-made-it-a-bit-easier-for-you-to-invite-your-colleagues-to-your-c|Team
-  invites: We made it a bit easier for you to invite your colleagues…]]'
+- '[[Changes/Superwhisper/2024-03-28-activate-mode-based-on-active-website-focused-tab-in-frontmost-browser|Activate
+  mode based on active website (focused tab in frontmost browser)]]'
 - "[[Changes/Open WebUI/2024-03-31-tag-autocomplete-dropdown-feature-added-for-effortless-chat-tagging|\U0001F3F7️
   Tag Autocomplete: Dropdown feature added for effortless chat tagging]]"
+- '[[Changes/Superwhisper/2024-04-02-move-clipboard-feature-to-prompt-edit-view|Move
+  clipboard feature to prompt edit view]]'
 source_release: '[[Releases/Dify/dify-2024-04-09-0-6-1-github-150402892-7b8c560b|dify-2024-04-09-0-6-1-github-150402892-7b8c560b]]'
 source_type: github_releases
 theme: editor-experience
@@ -81,8 +82,8 @@ Source: https://github.com/langgenius/dify/releases/tag/0.6.1
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2024-03-31 · Open WebUI · [[Changes/Open WebUI/2024-03-31-tag-autocomplete-dropdown-feature-added-for-effortless-chat-tagging|🏷️ Tag Autocomplete: Dropdown feature added for effortless chat tagging]]
-- Later: 2024-04-12 · Cursor · [[Changes/Cursor/2024-04-12-copilot-ux-suggestion-previews-now-have-syntax-highlighting-which-we-find-makes|Copilot++ UX: Suggestion previews now have syntax highlighting, which we find makes…]]
+- Earlier: 2024-04-02 · Superwhisper · [[Changes/Superwhisper/2024-04-02-move-clipboard-feature-to-prompt-edit-view|Move clipboard feature to prompt edit view]]
+- Later: 2024-04-10 · Raycast · [[Changes/Raycast/2024-04-10-added-an-action-to-edit-a-siri-shortcut|Added an action to edit a Siri Shortcut]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

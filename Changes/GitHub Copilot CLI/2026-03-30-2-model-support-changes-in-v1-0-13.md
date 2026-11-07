@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 50cbc515efc4e5a271ce788b0bfb883faf9a0254cd4550350625e8bd8ee6d14e
+machine_hash: efc596ab6658de119e94471b6b6501544b04040e2824bbab7e007aa0c9f5b0c8
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,10 +44,10 @@ record:
   title: 2 Model Support changes in v1.0.13
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-03-27-ollama-s-app-will-now-no-longer-incorrectly-show-model-is-out-of-date|Ollama''s
-  app will now no longer incorrectly show "model is out of date"]]'
 - "[[Changes/Open WebUI/2026-03-27-admin-model-visibility-administrators-can-now-see-models-even-when-no-access-con|\U0001F451
   Admin model visibility. Administrators can now see models even when no access…]]"
+- '[[Changes/Raycast/2026-03-27-2-model-support-changes-in-raycast-macos-0-51|2 Model
+  Support changes in Raycast macos 0.51]]'
 - '[[Changes/OpenCode/2026-03-29-2-model-support-changes-in-v1-3-6-2|2 Model Support
   changes in v1.3.6 + 2]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-03-30-v1-0-13-github-303313822-db3397e2|github-copilot-cli-2026-03-30-v1-0-13-github-303313822-db3397e2]]'

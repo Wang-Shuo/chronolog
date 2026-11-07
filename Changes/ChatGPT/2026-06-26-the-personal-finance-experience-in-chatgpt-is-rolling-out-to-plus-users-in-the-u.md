@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8708bb95a995fce84447b27d7f713b6b85b32060558337e05ac9b48bf72c95d8
+machine_hash: 7e3476f5f34a7010a2a0204d4eece1ed7c84939f82b55fc10c41803e82dd99ed
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Files and Data
 
 - Earlier: 2026-06-25 · Ollama · [[Changes/Ollama/2026-06-25-docs-document-max-think-level-by-parthsareen-in-https-github-com-ollama-ollama-p|docs: document max think level]]
-- Later: 2026-06-29 · Claude Code · [[Changes/Claude Code/2026-06-29-added-clickable-file-attachments-in-chat-cmd-ctrl-click-reveals-the-file-in-find|Added clickable file attachments in chat]]
+- Later: 2026-06-26 · LM Studio · [[Changes/LM Studio/2026-06-26-chat-to-pdf-export-updated-to-include-styled-markdown|Chat to PDF export updated to include styled markdown]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

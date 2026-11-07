@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 78ffb2f31d0db9fbf4ebc8396efb36c690ec2d3447d413b970bdc54413819c4c
+machine_hash: 783038e82212d8dab56bace55ce236aa6a0158301a39fcbe880da3e9b2a2d88e
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -89,7 +89,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-04-01 · Gemini CLI · [[Changes/Gemini CLI/2026-04-01-7-model-support-changes-in-v0-36-0|7 Model Support changes in v0.36.0]]
-- Later: 2026-04-02 · Ollama · [[Changes/Ollama/2026-04-02-26b-mixture-of-experts-model-with-4b-active-parameters|26B (Mixture of Experts model with 4B active parameters)]]
+- Later: 2026-04-02 · AnythingLLM · [[Changes/AnythingLLM/2026-04-02-2-model-support-changes-in-v1-12-0|2 Model Support changes in v1.12.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

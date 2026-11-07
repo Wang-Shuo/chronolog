@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: policy
-machine_hash: 66f06108d0dd2089f52c73f20c77cf19fed170504a133fcf3f8fb76061cde566
+machine_hash: 29c5e281a426d0215fcbcfd15b1b521702fc5da03dfec9e5c3a17e194122dcb2
 product: cursor
 product_name: Cursor
 record:
@@ -46,9 +46,10 @@ record:
     fast…
   type: change
 related_changes:
-- '[[Changes/Lovable/2025-03-14-announcing-the-10k-lovable-s-build-competition-https-build-launch-win-lovable-ap|Announcing
-  the \$10K Lovable''s Build…]]'
-- '[[Changes/Replit/2025-03-14-neon-db-history-retention|Neon DB history retention]]'
+- '[[Changes/Recraft/2025-03-20-crisp-upscale-0-004-was-0-04|Crisp Upscale – $0.004
+  (was $0.04)]]'
+- '[[Changes/Recraft/2025-03-20-vectorization-0-01-was-0-04|Vectorization – $0.01
+  (was $0.04)]]'
 - '[[Changes/Cline/2025-03-23-2-pricing-model-changes-in-v3-8-0|2 Pricing Model changes
   in v3.8.0]]'
 source_release: '[[Releases/Cursor/cursor-2025-03-23-0-48-x-https-cursor-com-changelog-0-48-x-7b3e771b|cursor-2025-03-23-0-48-x-https-cursor-com-changelog-0-48-x-7b3e771b]]'

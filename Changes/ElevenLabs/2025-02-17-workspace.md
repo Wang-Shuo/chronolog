@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 12ca124ec47bd4c3f91e80477c7a1883c69abe19f4983a3ef000c9a407bbc9a6
+machine_hash: 76599cc52e7912068b0aa47eb57a1ee644f79b7b34a15b0cf7480b58f614c83b
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -48,8 +48,8 @@ record:
   title: Workspace
   type: change
 related_changes:
-- '[[Changes/Dify/2025-01-13-2-pricing-model-changes-in-0-15-1|2 Pricing Model changes
-  in 0.15.1]]'
+- '[[Changes/Devin/2025-01-16-introducing-usage-based-billing|Introducing usage based
+  billing]]'
 - '[[Changes/ElevenLabs/2025-01-27-projects|Projects]]'
 - '[[Changes/Replit/2025-02-14-social-coding-challenges|Social coding challenges]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2025-02-17-2025-02-17-f1b00eac|elevenlabs-2025-02-17-2025-02-17-f1b00eac]]'

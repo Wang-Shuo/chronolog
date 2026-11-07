@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 39dae33f7ca2f89b0b297ea0272505f13c063c8cc14214a0ef216663a1615cb2
+machine_hash: 19fb83563fbb6c6a8f8109858244be090aaa0bebaeaf1ca511aebf436b3d0dd9
 product: openclaw
 product_name: OpenClaw
 record:
@@ -107,12 +107,11 @@ record:
   title: 15 Memory and Personalization changes in v2026.9.7
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-09-29-pages-follow-space-s-availability-and-sharing-settings-sharing-a-page-does-not-g|Pages
-  follow Space’s availability and sharing settings]]'
 - '[[Changes/ChatGPT/2026-09-29-you-can-use-your-chatgpt-account-to-sign-in-to-participating-products-without-cr|Sign
   in to other products with ChatGPT]]'
 - '[[Changes/Claude Code/2026-09-29-changed-memory-so-that-auto-memory-can-no-longer-be-turned-on-from-a-background|Changed
   /memory so that Auto-memory can no longer be turned on from a background…]]'
+- '[[Changes/Devin/2026-09-30-context-tab|Context Tab]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-09-30-v2026-9-7-3d25d2bd|openclaw-2026-09-30-v2026-9-7-3d25d2bd]]'
 source_type: openclaw_changelog
 theme: memory
@@ -191,7 +190,7 @@ Source: https://docs.openclaw.ai/releases/2026.9.7
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2026-09-29 · Claude Code · [[Changes/Claude Code/2026-09-29-changed-memory-so-that-auto-memory-can-no-longer-be-turned-on-from-a-background|Changed /memory so that Auto-memory can no longer be turned on from a background…]]
+- Earlier: 2026-09-30 · Devin · [[Changes/Devin/2026-09-30-context-tab|Context Tab]]
 - Later: 2026-10-01 · ChatGPT · [[Changes/ChatGPT/2026-10-01-virtually-try-on-clothing-and-accessories-a-try-on-button-will-appear-on-product|Virtually try on clothing and accessories]]
 <!-- chronolog:end -->
 

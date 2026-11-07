@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a4d5c42958b59021fe1522a27a5249a2c5db7005b81886729e9b8502451c8d7c
+machine_hash: a3e602ffa8dc1bb6842390f736fd7f36d3cce38074bbe93f3d1bf977217bd170
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,7 +43,8 @@ record:
   title: Improved reactive compaction
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-05-13-compact-chat-responses|Compact chat responses]]'
+- '[[Changes/Devin/2026-05-13-rename-context-to-skills-rules|Rename Context to Skills
+  & Rules]]'
 - '[[Changes/Notion/2026-05-13-sync-any-data-source-beta|Sync any data source (Beta)]]'
 - '[[Changes/OpenCode/2026-05-13-core-keep-recent-turns-after-compaction-instead-of-folding-them-into-the-summary|Core
   Keep recent turns after compaction instead of folding them into the summary]]'

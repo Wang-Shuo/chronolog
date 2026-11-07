@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 94485343ad5df8cc7d59aaf2dd1ef2b01caaf79cc4ad98d9f2c55bbdb0d1c1f8
+machine_hash: ed7964bfbd28fa0dcf82fc0ac7e9bb97a92eb1b45225dba0f79404d83d622e32
 product: kimi-code
 product_name: Kimi Code
 record:

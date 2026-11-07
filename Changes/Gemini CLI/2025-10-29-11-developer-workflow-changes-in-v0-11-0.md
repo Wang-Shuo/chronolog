@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8799375a605fc44a4cd32ee6025c02b708d9fc7110771b26a9968a54d3652fc3
+machine_hash: f887e54b520420c65e7f42a144b55b66c445a062c408f67229a7c33afaccb6db
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -68,8 +68,8 @@ record:
   title: 11 Developer Workflow changes in v0.11.0
   type: change
 related_changes:
-- '[[Changes/Cline/2025-10-27-add-linter-check-for-proto-files-and-add-auto-formatting-by-sjf-in-https-github|Add
-  linter check for proto files and add auto-formatting]]'
+- '[[Changes/Raycast/2025-10-27-file-search-added-a-new-open-in-terminal-action|File
+  Search : Added a new Open in Terminal action]]'
 - '[[Changes/Cursor/2025-10-29-improved-code-review|Improved Code Review]]'
 - '[[Changes/Cursor/2025-10-29-3-developer-workflow-changes-in-2-0|3 Developer Workflow
   changes in 2.0]]'
@@ -133,7 +133,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.11.0
 ## Nearby in Developer Workflow
 
 - Earlier: 2025-10-29 · Cursor · [[Changes/Cursor/2025-10-29-3-developer-workflow-changes-in-2-0|3 Developer Workflow changes in 2.0]]
-- Later: 2025-10-30 · Codex CLI · [[Changes/Codex CLI/2025-10-30-5-developer-workflow-changes-in-rust-v0-52-0|5 Developer Workflow changes in rust-v0.52.0]]
+- Later: 2025-10-29 · Raycast · [[Changes/Raycast/2025-10-29-clipboard-history-added-a-new-paste-sequentially-command|Clipboard History : Added a new Paste Sequentially command]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

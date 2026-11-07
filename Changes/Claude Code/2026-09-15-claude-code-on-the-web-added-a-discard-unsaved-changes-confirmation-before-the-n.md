@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 13e0e0ada12ed95db8330fe9642e09e40a4a9485c694ef46dc969344e03cae62
+machine_hash: eb71ab578d4eb69a1b870ed4f569e40c174ce480c567780ed8046b5d21cea8fa
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,8 +49,7 @@ record:
     before…'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-11-3-editor-experience-changes-in-v2-1-269|3 Editor
-  Experience changes in v2.1.269]]'
+- '[[Changes/Devin/2026-09-11-customize-editor-improvements|Customize Editor Improvements]]'
 - '[[Changes/OpenClaw/2026-09-11-5-editor-experience-changes-in-v2026-9-4|5 Editor
   Experience changes in v2026.9.4]]'
 - '[[Changes/Claude Code/2026-09-14-3-editor-experience-changes-in-v2-1-271|3 Editor

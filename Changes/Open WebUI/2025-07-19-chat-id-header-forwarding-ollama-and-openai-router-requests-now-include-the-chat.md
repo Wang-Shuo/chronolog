@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 4b4f7b201eec6ce215960163c7857c21b0efa25201920e038c974650cff32885
+machine_hash: 1302d11d1f284cc1363a6f034fbe72d300162976ae64bb61bc9611abaf67cd3a
 product: open-webui
 product_name: Open WebUI
 record:
@@ -61,11 +61,12 @@ record:
   title: "\U0001F4E1 **Chat ID Header Forwarding**"
   type: change
 related_changes:
-- '[[Changes/Replit/2025-07-18-llm-routing-improvements|LLM routing improvements]]'
 - '[[Changes/Codex CLI/2025-07-19-as-of-https-github-com-openai-codex-pull-1594-we-now-stream-the-response-from-th|As
   of (source link) we now stream the response…]]'
 - '[[Changes/Gemini CLI/2025-07-19-4-model-support-changes-in-v0-1-13|4 Model Support
   changes in v0.1.13]]'
+- '[[Changes/LM Studio/2025-07-19-added-tool-calling-support-for-mistral-v13-tokenizer-models-with-proper-chat-tem|Added
+  tool calling support for Mistral v13 tokenizer models (with proper chat templates)]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-07-19-v0-6-17-github-233695159-4b5cb15b|open-webui-2025-07-19-v0-6-17-github-233695159-4b5cb15b]]'
 source_type: github_releases
 theme: model-support
@@ -108,7 +109,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-07-19 · Gemini CLI · [[Changes/Gemini CLI/2025-07-19-4-model-support-changes-in-v0-1-13|4 Model Support changes in v0.1.13]]
+- Earlier: 2025-07-19 · LM Studio · [[Changes/LM Studio/2025-07-19-added-tool-calling-support-for-mistral-v13-tokenizer-models-with-proper-chat-tem|Added tool calling support for Mistral v13 tokenizer models (with proper chat templates)]]
 - Later: 2025-07-22 · Cline · [[Changes/Cline/2025-07-22-separate-plan-act-model-settings-by-celestial-vault-in-https-github-com-cline-cl|Separate plan act model settings]]
 <!-- chronolog:end -->
 

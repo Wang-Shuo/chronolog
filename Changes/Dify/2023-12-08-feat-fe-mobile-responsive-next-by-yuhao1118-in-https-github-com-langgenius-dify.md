@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0aa2745dfe00a290016803854b553cc4c3c0e2e659f5f8dfd372c12eb29ccb23
+machine_hash: b51ef439ba5c2fac9620c4b199b4ce72052b97e5d35af1d87920803cf0a2606f
 product: dify
 product_name: Dify
 record:
@@ -76,7 +76,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2023-10-16 · Descript · [[Changes/Descript/2023-10-16-simplified-script-tools|Simplified Script tools]]
-- Later: 2024-01-04 · Aider · [[Changes/Aider/2024-01-04-prevent-false-auto-commits-on-windows-by-ctoth|Prevent false auto-commits on Windows, by @ctoth]]
+- Later: 2023-12-10 · Superwhisper · [[Changes/Superwhisper/2023-12-10-app-icon-has-been-matched-to-macos-standards|App icon has been matched to macOS standards]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

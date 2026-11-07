@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: c108506b330f529689ca59c262d93a7264a8015c3fdee6062107e61f9d16c9b1
+machine_hash: f12bbd46264f8de897b4e9d62418875431eb0bb3f78ac8765dd92291aa616d63
 product: notion
 product_name: Notion
 record:
@@ -58,8 +58,8 @@ record:
   title: Database row permissions are here!
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2025-09-09-looking-for-an-enterprise-plan-https-docs-openwebui-com-enterprise-speak-with-ou|
-  Looking for an Enterprise Plan((source link)]]'
+- '[[Changes/Devin/2025-09-12-enterprise-settings-reorganization|Enterprise Settings
+  reorganization]]'
 - '[[Changes/Open WebUI/2025-09-17-looking-for-an-enterprise-plan-https-docs-openwebui-com-enterprise-speak-with-ou|
   Looking for an Enterprise Plan((source link)]]'
 - '[[Changes/Notion/2025-09-18-give-ai-the-context-it-needs-with-ai-connectors|Give

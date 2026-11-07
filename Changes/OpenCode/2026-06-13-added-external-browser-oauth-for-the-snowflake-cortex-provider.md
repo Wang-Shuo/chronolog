@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: e3a8b02047d62d621b6d1ebecfc3046281489f8862f37d187ebf61117a30ed55
+machine_hash: 79dbf70e87e48f1d51f4464d4df8eca6a6313ccbcd5639e76d14cbbf0f7349da
 product: opencode
 product_name: OpenCode
 record:
@@ -42,12 +42,12 @@ record:
   title: Added external browser OAuth for the Snowflake Cortex provider
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-09-mcp-oauth-re-authentication-correctly-uses-the-saved-oauth-client-id-for-remote|MCP
-  OAuth re-authentication correctly uses the saved OAuth client ID for remote servers]]'
 - '[[Changes/OpenCode/2026-06-12-core-added-connector-based-authentication-flows-and-support-for-stored-provider|Core
   Added connector-based authentication flows and support for stored provider…]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-13-remote-mcp-oauth-servers-start-only-once-per-matching-config-instead-of-restarti|Remote
   MCP OAuth servers start only once per matching config instead of restarting…]]'
+- '[[Changes/Krea/2026-06-13-oauth-sign-in-for-the-krea-mcp-server|OAuth sign-in for
+  the Krea MCP server]]'
 source_release: '[[Releases/OpenCode/opencode-2026-06-13-v1-17-6-50d6a123|opencode-2026-06-13-v1-17-6-50d6a123]]'
 source_type: opencode_changelog
 theme: account-access
@@ -80,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-06-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-13-remote-mcp-oauth-servers-start-only-once-per-matching-config-instead-of-restarti|Remote MCP OAuth servers start only once per matching config instead of restarting…]]
+- Earlier: 2026-06-13 · Krea · [[Changes/Krea/2026-06-13-oauth-sign-in-for-the-krea-mcp-server|OAuth sign-in for the Krea MCP server]]
 - Later: 2026-06-15 · Codex CLI · [[Changes/Codex CLI/2026-06-15-5-account-and-access-changes-in-rust-v0-140-0|5 Account and Access changes in rust-v0.140.0]]
 <!-- chronolog:end -->
 

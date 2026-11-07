@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 65f777fb91d76394ffebca82acb0f02905f8ba1698059ab5b039d1bf07285ad9
+machine_hash: 804b561001f1413ccc874ae388efb0bbed33073a409036b0c8a4fbfc4a32406b
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,12 +43,12 @@ record:
   title: '#6249 stop capturing r when environment selection modal is open'
   type: change
 related_changes:
-- '[[Changes/Cline/2025-10-31-2-interface-experience-changes-in-v3-35-0|2 Interface
-  Experience changes in v3.35.0]]'
 - '[[Changes/Gemini CLI/2025-11-04-change-debug-drawer-keybinding-to-f12-by-scidomino-in-https-github-com-google-ge|Change
   debug drawer keybinding to F12]]'
 - '[[Changes/Open WebUI/2025-11-06-10-interface-experience-changes-in-v0-6-35|10 Interface
   Experience changes in v0.6.35]]'
+- '[[Changes/Raycast/2025-11-06-general-improved-main-window-background-rendering-it-no-longer-displays-stale-ui|General
+  : Improved main window background rendering]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-11-07-rust-v0-56-0-github-260721835-230209f8|codex-cli-2025-11-07-rust-v0-56-0-github-260721835-230209f8]]'
 source_type: github_releases
 theme: interface-experience
@@ -82,8 +82,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2025-11-06 · Open WebUI · [[Changes/Open WebUI/2025-11-06-10-interface-experience-changes-in-v0-6-35|10 Interface Experience changes in v0.6.35]]
-- Later: 2025-11-07 · Gemini CLI · [[Changes/Gemini CLI/2025-11-07-4-interface-experience-changes-in-v0-13-0|4 Interface Experience changes in v0.13.0]]
+- Earlier: 2025-11-06 · Raycast · [[Changes/Raycast/2025-11-06-general-improved-main-window-background-rendering-it-no-longer-displays-stale-ui|General : Improved main window background rendering]]
+- Later: 2025-11-07 · Devin · [[Changes/Devin/2025-11-07-breadcrumb-navigation-redesign|Breadcrumb Navigation Redesign]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

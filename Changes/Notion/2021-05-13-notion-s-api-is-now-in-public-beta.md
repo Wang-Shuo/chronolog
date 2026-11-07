@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 28d9d8ccc60813d0f2fa4402d38a895e42bff57bac8e075218dc735f1109c467
+machine_hash: 563525a021566ec6666d3a1d8537a568b27b3c6f062b63ffc1e3b3f74cffc8e9
 product: notion
 product_name: Notion
 record:

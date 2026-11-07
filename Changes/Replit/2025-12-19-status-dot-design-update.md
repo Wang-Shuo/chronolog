@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 8d0b406942adca8276988d029479a394c33f7be93f0e4fe63fd19af9d93415f6
+machine_hash: cf77e67c940720680c46559d2356da6a74339f60c60508e873c2520bd524c5ee
 product: replit
 product_name: Replit
 record:
@@ -44,10 +44,9 @@ record:
   title: Status Dot Design Update
   type: change
 related_changes:
-- '[[Changes/Claude Code/2025-12-19-2-interface-experience-changes-in-v2-0-74|2 Interface
-  Experience changes in v2.0.74]]'
 - '[[Changes/Codex CLI/2025-12-19-2-interface-experience-changes-in-rust-v0-76-0|2
   Interface Experience changes in rust-v0.76.0]]'
+- '[[Changes/Devin/2025-12-19-child-session-indentation|Child Session Indentation]]'
 - '[[Changes/OpenCode/2025-12-19-terminal-implement-smooth-scrolling-for-autocomplete-dropdown-navigation|Terminal
   Implement smooth scrolling for autocomplete dropdown navigation]]'
 source_release: '[[Releases/Replit/replit-2025-12-19-2025-12-19-cb186cb0|replit-2025-12-19-2025-12-19-cb186cb0]]'
@@ -79,7 +78,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2025-12-19 · OpenCode · [[Changes/OpenCode/2025-12-19-terminal-implement-smooth-scrolling-for-autocomplete-dropdown-navigation|Terminal Implement smooth scrolling for autocomplete dropdown navigation]]
-- Later: 2025-12-21 · Open WebUI · [[Changes/Open WebUI/2025-12-21-8-interface-experience-changes-in-v0-6-42|8 Interface Experience changes in v0.6.42]]
+- Later: 2025-12-20 · Raycast · [[Changes/Raycast/2025-12-20-you-ve-probably-seen-these-in-raycast-when-your-search-term-doesn-t-have-any-mat|You've probably seen these in Raycast, when your search term doesn't have any…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

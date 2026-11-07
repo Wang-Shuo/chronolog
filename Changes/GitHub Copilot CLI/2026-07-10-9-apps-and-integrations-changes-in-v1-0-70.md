@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d5ddad2530818eb053a124b1741acde2f91a764e7b73abf31a9983e75a3c2e26
+machine_hash: c2408b92f7fa93126c7d11d7ceda21cdf315489381ed02f9b01e27d36715686b
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -59,12 +59,12 @@ record:
   title: 9 Apps and Integrations changes in v1.0.70
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-07-09-approve-connector-actions-before-they-run|Approve
-  connector actions before they run]]'
 - '[[Changes/Lovable/2026-07-09-connect-bigquery-with-your-google-account|Connect
   BigQuery with your Google account]]'
 - '[[Changes/OpenHands/2026-07-09-chore-bump-sdk-packages-to-v1-34-0-by-all-hands-bot-in-https-github-com-openhand|chore:
   bump SDK packages to v1.34.0]]'
+- '[[Changes/Raycast/2026-07-09-applications-app-search-scopes-now-discover-shortcut-files-lnk-so-apps-reference|Applications
+  : App search scopes now discover shortcut files (.lnk), so apps…]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-07-10-v1-0-70-github-351853788-0192ae35|github-copilot-cli-2026-07-10-v1-0-70-github-351853788-0192ae35]]'
 source_type: github_releases
 theme: apps-integrations
@@ -120,7 +120,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.70
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-07-09 · OpenHands · [[Changes/OpenHands/2026-07-09-chore-bump-sdk-packages-to-v1-34-0-by-all-hands-bot-in-https-github-com-openhand|chore: bump SDK packages to v1.34.0]]
+- Earlier: 2026-07-09 · Raycast · [[Changes/Raycast/2026-07-09-applications-app-search-scopes-now-discover-shortcut-files-lnk-so-apps-reference|Applications : App search scopes now discover shortcut files (.lnk), so apps…]]
 - Later: 2026-07-10 · Replit · [[Changes/Replit/2026-07-10-integrations|Integrations]]
 <!-- chronolog:end -->
 

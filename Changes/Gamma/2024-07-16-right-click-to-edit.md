@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 756a41365052c71b82240575b9beea56af73b83d026ff379ec2462827da45d11
+machine_hash: f9bdba1ef599a5bc39040b3d7bfec9186e4facc814777cf0a2dfa8af0b9c765a
 product: gamma
 product_name: Gamma
 record:
@@ -42,8 +42,8 @@ record:
   title: Right-click to edit
   type: change
 related_changes:
-- '[[Changes/OpenHands/2024-06-29-3-editor-experience-changes-in-0-7-0|3 Editor Experience
-  changes in 0.7.0]]'
+- '[[Changes/Devin/2024-06-30-playbooks-library-past-runs|Playbooks Library & Past
+  Runs]]'
 - '[[Changes/Descript/2024-07-02-editor-updates|Editor updates]]'
 - '[[Changes/Cursor/2024-07-13-this-build-comes-with-a-new-experimental-multi-file-editing-feature-to-enable-it|Composer
   (beta)]]'

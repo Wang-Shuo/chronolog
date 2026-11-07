@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: cbc609b39e80511d08fe9230a36b275c4603f432db6c979af85111e2bad1f756
+machine_hash: a8ed342a05b2b7e6ff4c67bdbff675176b95899275624fb8b7002456ed85ce0a
 product: dify
 product_name: Dify
 record:
@@ -43,11 +43,12 @@ record:
   title: 2 Enterprise and Administration changes in 1.14.0
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-04-24-group-based-access-and-granular-publishing|Group-based
-  access and granular publishing]]'
-- '[[Changes/Lovable/2026-04-24-workspace-provisioning|Workspace provisioning]]'
+- '[[Changes/Wispr Flow/2026-04-24-share-an-invite-link-to-grow-your-team-desktop|Share
+  an invite link to grow your team (Desktop)]]'
 - '[[Changes/Claude Code/2026-04-28-pasting-a-pr-url-into-the-resume-search-box-now-finds-the-session-that-created-t|Pasting
   a PR URL into the /resume search box now finds the session that created…]]'
+- '[[Changes/Devin/2026-04-29-enterprise-commit-email-lock|Enterprise Commit Email
+  Lock]]'
 source_release: '[[Releases/Dify/dify-2026-04-29-1-14-0-github-314986233-63073e86|dify-2026-04-29-1-14-0-github-314986233-63073e86]]'
 source_type: github_releases
 theme: enterprise-admin
@@ -95,8 +96,8 @@ Source: https://github.com/langgenius/dify/releases/tag/1.14.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-04-28 · Claude Code · [[Changes/Claude Code/2026-04-28-pasting-a-pr-url-into-the-resume-search-box-now-finds-the-session-that-created-t|Pasting a PR URL into the /resume search box now finds the session that created…]]
-- Later: 2026-05-04 · Cursor · [[Changes/Cursor/2026-05-04-this-release-introduces-updates-for-enterprise-admins-a-new-system-for-model-con|Cursor introduces updates for Enterprise admins]]
+- Earlier: 2026-04-29 · Devin · [[Changes/Devin/2026-04-29-enterprise-commit-email-lock|Enterprise Commit Email Lock]]
+- Later: 2026-05-01 · Devin · [[Changes/Devin/2026-05-01-deleted-orgs-in-enterprise-sessions-api|Deleted Orgs in Enterprise Sessions API]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

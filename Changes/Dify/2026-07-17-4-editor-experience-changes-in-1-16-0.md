@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d01e13f584a33f8978e57e173324c6514feaff8195e4a6c0dd3e1418dd9a29ce
+machine_hash: c89782f04a3e617f79406665d3f024cd55b34013003ba66cd8c2bd9727ae4b54
 product: dify
 product_name: Dify
 record:
@@ -48,12 +48,11 @@ record:
   title: 4 Editor Experience changes in 1.16.0
   type: change
 related_changes:
-- '[[Changes/Microsoft 365 Copilot/2026-07-15-copilot-prompt-gallery-company-wide-prompt-publishing-windows-web-microsoft-365|Copilot
-  Prompt Gallery - Company-wide prompt publishing Windows…]]'
 - '[[Changes/OpenCode/2026-07-15-added-mod-n-as-another-shortcut-for-opening-a-new-tab|Added
   Mod+N as another shortcut for opening a new tab]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-16-5-editor-experience-changes-in-v1-0-71|5
   Editor Experience changes in v1.0.71]]'
+- '[[Changes/Devin/2026-07-17-tasks-tab-in-the-workspace|Tasks Tab in the Workspace]]'
 source_release: '[[Releases/Dify/dify-2026-07-17-1-16-0-github-355594285-636849e9|dify-2026-07-17-1-16-0-github-355594285-636849e9]]'
 source_type: github_releases
 theme: editor-experience
@@ -108,7 +107,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.16.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-07-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-16-5-editor-experience-changes-in-v1-0-71|5 Editor Experience changes in v1.0.71]]
+- Earlier: 2026-07-17 · Devin · [[Changes/Devin/2026-07-17-tasks-tab-in-the-workspace|Tasks Tab in the Workspace]]
 - Later: 2026-07-20 · Claude Code · [[Changes/Claude Code/2026-07-20-improved-the-ultrareview-diff-too-large-error-to-show-configured-limits-measured|Improved the /ultrareview diff-too-large error to show configured limits, measured…]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f442e3c1559c65d510d8b0bb020805a77b4b56b46913d1cc5e43710c26484793
+machine_hash: 6a46daf269e7a66ddecd267268aed5cdafbde3c95c44ddd5b9061a8c956c3125
 product: openclaw
 product_name: OpenClaw
 record:
@@ -58,9 +58,10 @@ record:
   title: 6 Voice and Audio changes in v2026.10.8
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-10-26-14-voice-and-audio-changes-in-elevenlabs-updates-2026-10-26|14
-  Voice and Audio changes in ElevenLabs updates — 2026-10-26]]'
-- '[[Changes/ElevenLabs/2026-10-26-javascript-sdk|JavaScript SDK]]'
+- '[[Changes/Superwhisper/2026-10-26-resolve-spoken-self-corrections-in-message-preset|Resolve
+  spoken self-corrections in Message preset]]'
+- '[[Changes/Superwhisper/2026-10-26-transcribe-audio-files-shared-from-other-apps|Transcribe
+  audio files shared from other apps]]'
 - '[[Changes/Ollama/2026-10-27-3-voice-and-audio-changes-in-v0-40-12|3 Voice and Audio
   changes in v0.40.12]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-10-27-v2026-10-8-9d674f40|openclaw-2026-10-27-v2026-10-8-9d674f40]]'

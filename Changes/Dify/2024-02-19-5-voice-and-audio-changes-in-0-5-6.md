@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f70f642bec16e8a0050963afe717e77050654b6914a3c50f3d27f78651b027ce
+machine_hash: f411ba005351361b5c72e037c294806af64aab30ae74b8d093114467c9b5a913
 product: dify
 product_name: Dify
 record:
@@ -48,12 +48,12 @@ record:
   title: 5 Voice and Audio changes in 0.5.6
   type: change
 related_changes:
-- '[[Changes/Descript/2024-01-10-descript-for-web-beta-adds-video-audio-and-gif-exports|Descript
-  for Web (Beta) adds Video, Audio, and GIF exports]]'
-- '[[Changes/Descript/2024-01-10-white-glove-transcription-sunset|White Glove Transcription
-  Sunset]]'
+- '[[Changes/Superwhisper/2024-01-25-explanations-of-difference-between-voice-and-language-models|Explanations
+  of difference between voice and language models]]'
 - '[[Changes/Gemini/2024-02-08-chat-to-supercharge-your-ideas-in-the-gemini-app|Chat
   to supercharge your ideas in the Gemini app]]'
+- '[[Changes/Superwhisper/2024-02-08-audio-settings-moved-to-their-own-settings-tab|Audio
+  settings moved to their own settings tab]]'
 source_release: '[[Releases/Dify/dify-2024-02-19-0-5-6-github-142556067-45a96eb6|dify-2024-02-19-0-5-6-github-142556067-45a96eb6]]'
 source_type: github_releases
 theme: voice
@@ -94,7 +94,7 @@ Source: https://github.com/langgenius/dify/releases/tag/0.5.6
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2024-02-08 · Gemini · [[Changes/Gemini/2024-02-08-chat-to-supercharge-your-ideas-in-the-gemini-app|Chat to supercharge your ideas in the Gemini app]]
+- Earlier: 2024-02-08 · Superwhisper · [[Changes/Superwhisper/2024-02-08-audio-settings-moved-to-their-own-settings-tab|Audio settings moved to their own settings tab]]
 - Later: 2024-02-20 · Descript · [[Changes/Descript/2024-02-20-new-stock-voice|New Stock Voice]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2fc3002842d0160aeca5565fbdf63349a6e315b832c5e3bf7285fce68f56fd6c
+machine_hash: 9d4cf3d436a04d83f922736a040d907d2aaaa370c330de2680e9e4fc0938e6c3
 product: dify
 product_name: Dify
 record:
@@ -43,11 +43,11 @@ record:
   title: 2 Files and Data changes in 1.1.0
   type: change
 related_changes:
-- '[[Changes/Ollama/2025-02-27-granite-3-2-vision-https-ollama-com-library-granite3-2-vision-a-compact-and-effi|Granite-3.2-Vision((source
-  link) A compact…]]'
 - "[[Changes/Open WebUI/2025-02-27-deduplication-for-retrieved-documents-documents-retrieved-during-searches-are-no|\U0001F5C2️
   Deduplication for Retrieved Documents]]"
 - '[[Changes/ElevenLabs/2025-03-03-updated-endpoints|Updated Endpoints]]'
+- '[[Changes/AnythingLLM/2025-03-04-2-files-and-data-changes-in-v1-7-5|2 Files and
+  Data changes in v1.7.5]]'
 source_release: '[[Releases/Dify/dify-2025-03-18-1-1-0-github-206514946-497d593d|dify-2025-03-18-1-1-0-github-206514946-497d593d]]'
 source_type: github_releases
 theme: file-data
@@ -86,7 +86,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.1.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2025-03-03 · ElevenLabs · [[Changes/ElevenLabs/2025-03-03-updated-endpoints|Updated Endpoints]]
+- Earlier: 2025-03-04 · AnythingLLM · [[Changes/AnythingLLM/2025-03-04-2-files-and-data-changes-in-v1-7-5|2 Files and Data changes in v1.7.5]]
 - Later: 2025-03-18 · Gemini · [[Changes/Gemini/2025-03-18-try-canvas-a-new-way-to-collaborate-with-gemini|Try Canvas, a new way to collaborate with Gemini]]
 <!-- chronolog:end -->
 

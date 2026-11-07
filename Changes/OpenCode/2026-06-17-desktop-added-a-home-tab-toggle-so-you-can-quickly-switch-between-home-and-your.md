@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 64411b30594570bfe65b0502c4c82df1cc311fcf8497592911e69b22e17f1f81
+machine_hash: 97bf719eff3abf196aac78284a87ee57b938e7099635d77f8b65cdf596386b9f
 product: opencode
 product_name: OpenCode
 record:
@@ -42,11 +42,11 @@ record:
     your last tab
   type: change
 related_changes:
-- '[[Changes/Microsoft 365 Copilot/2026-06-16-modern-unified-and-updated-look-and-feel-in-microsoft-edge-web-microsoft-365-cop|Modern,
-  unified, and updated look and feel in Microsoft Edge…]]'
 - '[[Changes/Windsurf/2026-06-16-removed-the-explain-sparkle-button-from-the-editor-breadcrumbs|Removed
   the Explain sparkle button from the editor breadcrumbs]]'
 - '[[Changes/Windsurf/2026-06-16-agent-and-editor-modes|Agent and Editor modes]]'
+- '[[Changes/Devin/2026-06-17-cmd-k-switch-organization-copy-org-id|Cmd+K: Switch
+  Organization & Copy Org ID]]'
 source_release: '[[Releases/OpenCode/opencode-2026-06-17-v1-17-8-b3531749|opencode-2026-06-17-v1-17-8-b3531749]]'
 source_type: opencode_changelog
 theme: editor-experience
@@ -80,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-06-16 · Windsurf · [[Changes/Windsurf/2026-06-16-agent-and-editor-modes|Agent and Editor modes]]
+- Earlier: 2026-06-17 · Devin · [[Changes/Devin/2026-06-17-cmd-k-switch-organization-copy-org-id|Cmd+K: Switch Organization & Copy Org ID]]
 - Later: 2026-06-18 · Lovable · [[Changes/Lovable/2026-06-18-require-the-workspace-editor-role-to-edit-projects|Require the workspace editor role to edit projects]]
 <!-- chronolog:end -->
 

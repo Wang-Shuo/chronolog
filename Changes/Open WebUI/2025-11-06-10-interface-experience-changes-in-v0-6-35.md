@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e1af55214f959d6e7b1e8940e46d1406216eeed1c346fb47433232e06c1888ec
+machine_hash: 14d95877a8693b34a5d6123867005ac459e137fa79b398594038eefc9753eab1
 product: open-webui
 product_name: Open WebUI
 record:
@@ -142,7 +142,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.6.35
 ## Nearby in Interface Experience
 
 - Earlier: 2025-11-04 · Gemini CLI · [[Changes/Gemini CLI/2025-11-04-change-debug-drawer-keybinding-to-f12-by-scidomino-in-https-github-com-google-ge|Change debug drawer keybinding to F12]]
-- Later: 2025-11-07 · Codex CLI · [[Changes/Codex CLI/2025-11-07-6249-stop-capturing-r-when-environment-selection-modal-is-open|♯6249 stop capturing r when environment selection modal is open]]
+- Later: 2025-11-06 · Raycast · [[Changes/Raycast/2025-11-06-general-improved-main-window-background-rendering-it-no-longer-displays-stale-ui|General : Improved main window background rendering]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

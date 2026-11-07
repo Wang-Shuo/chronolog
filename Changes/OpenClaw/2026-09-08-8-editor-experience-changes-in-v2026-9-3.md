@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 51ae19b950543e7762dd056393a0b01fdfce1a32c6f4c2b5b6bb7f55b6117dfb
+machine_hash: a4194b125e3bf5aaf7ffd2d3f151311c906d0990dc382f2146b412859991cc43
 product: openclaw
 product_name: OpenClaw
 record:
@@ -151,7 +151,7 @@ Source: https://docs.openclaw.ai/releases/2026.9.3
 ## Nearby in Editor Experience
 
 - Earlier: 2026-09-08 · Lovable · [[Changes/Lovable/2026-09-08-project-files-no-longer-copy-automatically-during-a-remix|Project files no longer copy automatically during a remix]]
-- Later: 2026-09-08 · Runway · [[Changes/Runway/2026-09-08-runway-is-now-available-directly-inside-premiere-pro-and-after-effects-bring-the|Runway Adobe Plugins]]
+- Later: 2026-09-08 · Raycast · [[Changes/Raycast/2026-09-08-window-management-added-create-layout-from-current-windows-command-allowing-for|Window Management : Added Create Layout From Current Windows command allowing…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

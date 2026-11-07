@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0c60548429eaf4a9baebd8d847a952fe1b3370d000258f2016f73c215b5ab883
+machine_hash: 9c94d292ee4b71f463982176b0d80bfc0260482c05f95b8400a316ca93ca90ea
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -74,8 +74,8 @@ record:
   title: Shopping updates in ChatGPT
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-03-17-3-search-and-browsing-changes-in-v0-18-1|3 Search and
-  Browsing changes in v0.18.1]]'
+- '[[Changes/AnythingLLM/2026-03-18-3-search-and-browsing-changes-in-v1-11-2|3 Search
+  and Browsing changes in v1.11.2]]'
 - '[[Changes/ChatGPT/2026-03-19-the-legacy-deep-research-mode-will-be-removed-on-thursday-march-26-2026-this-cha|Legacy
   deep research mode deprecation notice]]'
 - '[[Changes/ChatGPT/2026-03-23-now-it-s-easier-to-find-reuse-and-build-on-your-files-over-time-when-you-upload|File

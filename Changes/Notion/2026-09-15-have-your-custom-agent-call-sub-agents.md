@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 1d7439f908972db1b56e8eafe1f890a6fdd77e906f6293e3abb203dff46fa2ba
+machine_hash: 10b648609de85293b7f5e1b4af3179262ec2a38ee8c612656df62f25a4d0dd26
 product: notion
 product_name: Notion
 record:
@@ -98,7 +98,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-09-15 · Kimi Code · [[Changes/Kimi Code/2026-09-15-reduce-event-loop-stalls-and-gc-churn-in-sessions-with-many-concurrent-subagents|Reduce event-loop stalls and GC churn in sessions with many concurrent subagents]]
-- Later: 2026-09-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-16-2-agent-mode-changes-in-v1-0-85|2 Agent Mode changes in v1.0.85]]
+- Later: 2026-09-16 · Devin · [[Changes/Devin/2026-09-16-agent-mode-icons-in-the-sidebar|Agent Mode Icons in the Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

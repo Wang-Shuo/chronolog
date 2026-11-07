@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 2ce63840d3160bf6bf201093848542572375fdd2ad3b1d5f1b87d3934b6996e5
+machine_hash: 92f529aae26ae31f9a3733f96c1ad781086ee1cd4d8ef7ccfe620f694ccccc63
 product: notion
 product_name: Notion
 record:
@@ -88,7 +88,7 @@ type: change
 ## Nearby in Automation and Scheduling
 
 - Earlier: 2024-09-19 · Open WebUI · [[Changes/Open WebUI/2024-09-19-enhanced-automatic1111-settings-users-can-now-configure-cfg-scale-sampler-and-sc|🔧 Enhanced AUTOMATIC1111 Settings]]
-- Later: 2024-12-03 · Dify · [[Changes/Dify/2024-12-03-update-the-scheduler-of-update-tidb-serverless-status-task-to-1-10min-by-johnjyo|update the scheduler of update_tidb_serverless_status_task to 1/10min]]
+- Later: 2024-11-01 · Devin · [[Changes/Devin/2024-11-01-programmatically-create-devin-sessions-and-retrieve-results-including-structured|Programmatically create Devin sessions and retrieve results…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

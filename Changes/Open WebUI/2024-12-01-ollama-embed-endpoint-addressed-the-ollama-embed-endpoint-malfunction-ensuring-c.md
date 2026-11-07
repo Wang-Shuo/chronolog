@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a557dea1504da2631a8b98276300134088de9c66d60ede733a60393267adeb09
+machine_hash: 923980d2e2ae62a196f57c142ccf393e4a06abd2341acbdbdbe6fe31dbc3550a
 product: open-webui
 product_name: Open WebUI
 record:
@@ -43,10 +43,10 @@ record:
   title: "**\U0001F527 Ollama Embed Endpoint**"
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-11-24-several-performance-improvements|Several performance
-  improvements]]'
 - '[[Changes/Dify/2024-11-25-performance-optimization-the-weightrerankrunner-logic-has-been-optimized-to-achi|Performance
   Optimization: The WeightRerankRunner logic has been optimized…]]'
+- '[[Changes/AnythingLLM/2024-11-26-frontend-performance-improvements-by-timothycarambat-in-https-github-com-mintple|Frontend
+  performance improvements]]'
 - '[[Changes/Open WebUI/2024-11-27-improved-general-reliability-various-minor-fixes-improve-platform-stability-and|⚡
   Improved General Reliability]]'
 source_release: '[[Releases/Open WebUI/open-webui-2024-12-01-v0-4-7-github-188338272-fe1e6690|open-webui-2024-12-01-v0-4-7-github-188338272-fe1e6690]]'

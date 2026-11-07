@@ -4,20 +4,20 @@ date: '2025-03-10'
 description: 'Aider · 2025-03-10 · Accessibility and Localization: Switch to `tree-sitter-language-pack`
   for tree sitter support.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-09-11-chatgpt-now-supports-a-limited-selection-of-languages-in-the-interface|ChatGPT
-    now supports a limited selection of languages in the interface]]'
+  first_in_tracked: '[[Changes/Raycast/2020-11-19-improved-searching-for-localized-application-and-preference-names|Improved
+    searching for localized application and preference names]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 546
+  lag_days: 1572
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: accessibility-localization
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 3f4d8ab4dae2fd07734fa6d3c23cad1794502109c73195374867a3178fdb23d5
+machine_hash: 356795296f13ea3670c33e7d2771f66d254cf5b168b855c9a1f2222fe74a5be5
 product: aider
 product_name: Aider
 record:
@@ -43,10 +43,10 @@ record:
   title: Switch to `tree-sitter-language-pack` for tree sitter support
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2025-02-27-updated-translations-refined-multilingual-support-for-better-localization-and-ac|\U0001F30D
-  Updated Translations]]"
 - '[[Changes/Aider/2025-03-04-added-support-for-tree-sitter-language-pack|Added support
   for tree-sitter language pack]]'
+- '[[Changes/AnythingLLM/2025-03-04-more-localization-and-language-support|More localization
+  and language support]]'
 - "[[Changes/Open WebUI/2025-03-05-updated-translations-refined-multilingual-support-for-better-localization-and-ac|\U0001F30D
   Updated Translations]]"
 source_release: '[[Releases/Aider/aider-2025-03-10-v0-76-0-github-204781393-e828f532|aider-2025-03-10-v0-76-0-github-204781393-e828f532]]'
@@ -87,7 +87,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-11 · ChatGPT · [[Changes/ChatGPT/2023-09-11-chatgpt-now-supports-a-limited-selection-of-languages-in-the-interface|ChatGPT now supports a limited selection of languages in the interface]]
+- Earliest same-theme entry in the tracked set: 2020-11-19 · Raycast · [[Changes/Raycast/2020-11-19-improved-searching-for-localized-application-and-preference-names|Improved searching for localized application and preference names]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 045a745b2339578d120cd96607728136e9ec033879ccecaae80d7ed2300ccfca
+machine_hash: 17d3f18f8f88c3a39804dd3f9ecd3be59b082d9f99ed9cb5ffa88dd11c1e6ecc
 product: descript
 product_name: Descript
 record:
@@ -45,9 +45,9 @@ record:
   title: Improved lip sync quality for translated videos
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-16-4-voice-and-audio-changes-in-rust-v0-115-0|4 Voice
-  and Audio changes in rust-v0.115.0]]'
 - '[[Changes/ElevenLabs/2026-03-16-packages|Packages]]'
+- '[[Changes/Raycast/2026-03-16-translator-added-voice-pack-installation-prompt-when-needed-download-may-take-a|Translator
+  : Added voice pack installation prompt when needed…]]'
 - '[[Changes/Descript/2026-03-17-media-library-files-now-transcribe-automatically|Media
   Library files now transcribe automatically]]'
 source_release: '[[Releases/Descript/descript-2026-03-17-69b3257b60b225e10f6a3a28-246aeffc|descript-2026-03-17-69b3257b60b225e10f6a3a28-246aeffc]]'
@@ -95,7 +95,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-03-16 · ElevenLabs · [[Changes/ElevenLabs/2026-03-16-packages|Packages]]
+- Earlier: 2026-03-16 · Raycast · [[Changes/Raycast/2026-03-16-translator-added-voice-pack-installation-prompt-when-needed-download-may-take-a|Translator : Added voice pack installation prompt when needed…]]
 - Later: 2026-03-17 · Gemini CLI · [[Changes/Gemini CLI/2026-03-17-feat-voice-implement-speech-friendly-response-formatter-by-ayush31010-in-https-g|feat(voice): implement speech-friendly response formatter]]
 <!-- chronolog:end -->
 

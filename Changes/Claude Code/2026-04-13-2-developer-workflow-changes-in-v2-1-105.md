@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 09c3eca5b48091d90835eee098de5edf0729356caadbba42aa1d686346b99de4
+machine_hash: bbcb5a9a758e19e19e04db699e6f494f2d1f22ed9f80ededcf00caf77829181e
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
   title: 2 Developer Workflow changes in v2.1.105
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-10-terminal-state-alt-screen-cursor-raw-mode-is-restored-correctly-after-cli-crashe|Terminal
-  state (alt screen, cursor, raw mode) is restored correctly after CLI…]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-10-2-developer-workflow-changes-in-v1-0-23|2
   Developer Workflow changes in v1.0.23]]'
 - '[[Changes/OpenCode/2026-04-10-2-developer-workflow-changes-in-v1-4-3|2 Developer
   Workflow changes in v1.4.3]]'
+- '[[Changes/Raycast/2026-04-10-what-s-new-added-a-setting-to-the-changelog-command-to-disable-what-s-new-items|What’s
+  New : Added a setting to the Changelog command to disable “What’s new?” items…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-13-v2-1-105-github-308569432-65a12cd3|claude-code-2026-04-13-v2-1-105-github-308569432-65a12cd3]]'
 source_type: github_releases
 theme: developer-workflow
@@ -88,7 +88,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.105
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-04-10 · OpenCode · [[Changes/OpenCode/2026-04-10-2-developer-workflow-changes-in-v1-4-3|2 Developer Workflow changes in v1.4.3]]
+- Earlier: 2026-04-10 · Raycast · [[Changes/Raycast/2026-04-10-what-s-new-added-a-setting-to-the-changelog-command-to-disable-what-s-new-items|What’s New : Added a setting to the Changelog command to disable “What’s new?” items…]]
 - Later: 2026-04-14 · Cursor · [[Changes/Cursor/2026-04-14-use-debug-to-find-root-causes-and-fix-tricky-bugs-that-are-hard-to-reproduce-or|Debug Mode in CLI]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ad7552de4e293d6e92024705f0ad099772e2988c7caaf7030fa357ee9b5db16f
+machine_hash: d56dcdd95954b618b22a50e2e45d60b335e28f15617a1bffa2d4a7d17a1961d7
 product: open-webui
 product_name: Open WebUI
 record:
@@ -46,10 +46,10 @@ record:
   title: 2 Reliability and Performance changes in v0.5.3
   type: change
 related_changes:
-- '[[Changes/Dify/2024-12-18-4-reliability-and-performance-changes-in-0-14-1|4 Reliability
-  and Performance changes in 0.14.1]]'
 - '[[Changes/Dify/2024-12-23-memory-optimization-reduced-memory-usage-from-800-mb-to-500-mb-thanks-to-the-opt|Memory
   Optimization: Reduced memory usage from 800+ MB to 500+ MB, thanks…]]'
+- '[[Changes/Devin/2024-12-24-devin-is-now-faster-and-more-cost-efficient|Devin is
+  now faster and more cost-efficient]]'
 - '[[Changes/Open WebUI/2024-12-25-2-reliability-and-performance-changes-in-v0-5-0|2
   Reliability and Performance changes in v0.5.0]]'
 source_release: '[[Releases/Open WebUI/open-webui-2024-12-31-v0-5-3-github-192816215-b98e97f2|open-webui-2024-12-31-v0-5-3-github-192816215-b98e97f2]]'

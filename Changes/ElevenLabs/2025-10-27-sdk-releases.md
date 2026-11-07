@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 053d0b0d5a3fcaf5315183e24bd5296713d605056d98fcbad04358b622e51b8d
+machine_hash: 3bc364be34fd2ba548a40c52ec9414163996473c6adc26159477fb7179aee133
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -41,8 +41,7 @@ record:
   title: SDK Releases
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-10-23-11-apps-and-integrations-changes-in-rust-v0-48-0|11
-  Apps and Integrations changes in rust-v0.48.0]]'
+- '[[Changes/Devin/2025-10-24-searchable-channel-dropdown|Searchable Channel Dropdown]]'
 - '[[Changes/Codex CLI/2025-10-25-3-apps-and-integrations-changes-in-rust-v0-50-0|3
   Apps and Integrations changes in rust-v0.50.0]]'
 - '[[Changes/ElevenLabs/2025-10-27-mcp-servers|MCP Servers]]'

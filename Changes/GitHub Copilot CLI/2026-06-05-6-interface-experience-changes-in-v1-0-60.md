@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1066c0953168093cdcedf76649b33c962684b521f3dff568734edc3cb28bff80
+machine_hash: 573f33583b97894d486d6f343b7343ccf4fd829568f894c6fec19b8c6e540111
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -55,12 +55,11 @@ record:
   title: 6 Interface Experience changes in v1.0.60
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-04-2-interface-experience-changes-in-rust-v0-137-0|2
-  Interface Experience changes in rust-v0.137.0]]'
-- '[[Changes/Cursor/2026-06-04-shared-canvases-can-now-be-opened-full-screen-in-the-browser-making-them-easier|Shared
-  canvases can now be opened full-screen in the browser, making them easier…]]'
-- '[[Changes/Lovable/2026-06-04-transfer-a-domain-out-to-another-registrar|Transfer
-  a domain out to another registrar]]'
+- '[[Changes/Devin/2026-06-05-session-counts-on-collapsed-sidebar|Session Counts on
+  Collapsed Sidebar]]'
+- '[[Changes/Devin/2026-06-05-start-a-new-session-with-this-prompt|Start a New Session
+  with This Prompt]]'
+- '[[Changes/Devin/2026-06-05-playbook-devin-mode|Playbook Devin Mode]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-06-05-v1-0-60-github-335046279-6a5628d4|github-copilot-cli-2026-06-05-v1-0-60-github-335046279-6a5628d4]]'
 source_type: github_releases
 theme: interface-experience
@@ -113,7 +112,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.60
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-06-04 · Lovable · [[Changes/Lovable/2026-06-04-transfer-a-domain-out-to-another-registrar|Transfer a domain out to another registrar]]
+- Earlier: 2026-06-05 · Devin · [[Changes/Devin/2026-06-05-playbook-devin-mode|Playbook Devin Mode]]
 - Later: 2026-06-05 · OpenCode · [[Changes/OpenCode/2026-06-05-terminal-mo-now-prefers-the-models-command-in-slash-autocomplete|Terminal /mo now prefers the models command in slash autocomplete]]
 <!-- chronolog:end -->
 

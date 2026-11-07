@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1b9dc42c72c6c688072e6146dbea2a936ac4073cf74fe6afbed94d8e25de9e25
+machine_hash: a19fe6b3691e616ec2fe1a38fdf692ccad82d5791d20327d50ccae38bc74ef56
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -95,7 +95,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-07-08 · Claude Code · [[Changes/Claude Code/2026-07-08-reserved-the-claude-browser-mcp-server-name-alongside-claude-preview-ahead-of-th|Reserved the "Claude Browser" MCP server name (alongside "Claude Preview") ahead…]]
-- Later: 2026-07-08 · Kimi Code · [[Changes/Kimi Code/2026-07-08-add-the-vercel-plugin-to-the-bundled-plugin-marketplace-run-plugins-and-select-v|Add the Vercel plugin to the bundled plugin marketplace]]
+- Later: 2026-07-08 · Devin · [[Changes/Devin/2026-07-08-mobbin-mcp-server|Mobbin MCP Server]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

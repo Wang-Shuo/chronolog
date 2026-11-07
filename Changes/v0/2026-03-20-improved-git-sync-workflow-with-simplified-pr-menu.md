@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 78832ad858ca527dc5662eaafe91a62d7a32fd3c33712387966c6bfb741f74dd
+machine_hash: 1185b6f3ad209f259c243c1dfcb9b928567a2094e54705ee3a24bc2645971c3e
 product: v0
 product_name: v0
 record:
@@ -41,10 +41,9 @@ record:
   title: Improved git sync workflow with simplified PR menu
   type: change
 related_changes:
-- '[[Changes/Cline/2026-03-19-add-feature-tips-tooltip-during-thinking-state|Add feature
-  tips tooltip during thinking state]]'
 - '[[Changes/Codex CLI/2026-03-19-2-interface-experience-changes-in-rust-v0-116-0|2
   Interface Experience changes in rust-v0.116.0]]'
+- '[[Changes/Devin/2026-03-19-parent-child-session-grouping|Parent/Child Session Grouping]]'
 - '[[Changes/Notion/2026-03-20-custom-skills-let-you-turn-any-repetitive-ai-task-into-an-easily-accessible-comm|Custom
   skills for Notion AI]]'
 source_release: '[[Releases/v0/v0-2026-03-20-2026-03-20-d0928006|v0-2026-03-20-2026-03-20-d0928006]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 163cf0a6baea76ad547194776bee1f4bde1665a0416af1f3ffd00b9d2d53c621
+machine_hash: b100d22ad946ed215f6fef2e86d364f8d75fa07bd47f0625de8644ac90d6fad6
 product: lovable
 product_name: Lovable
 record:
@@ -91,7 +91,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-10-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-05-5-apps-and-integrations-changes-in-v1-0-92|5 Apps and Integrations changes in v1.0.92]]
-- Later: 2026-10-06 · Claude Code · [[Changes/Claude Code/2026-10-06-9-apps-and-integrations-changes-in-v2-1-292|9 Apps and Integrations changes in v2.1.292]]
+- Later: 2026-10-05 · Raycast · [[Changes/Raycast/2026-10-05-extensions-clarified-how-uninstalling-an-extension-affects-its-settings-and-data|Extensions : Clarified how uninstalling an extension affects its settings and data…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

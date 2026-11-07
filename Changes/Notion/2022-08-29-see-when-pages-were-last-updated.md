@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 92b618802db31ce3d7d7c0274643952ab1d589253b0299d712fa05b23242cebf
+machine_hash: 6f03a0f829e129b140859812152864d6a5a1238b2f320015ac95d75913da16fb
 product: notion
 product_name: Notion
 record:
@@ -48,10 +48,11 @@ record:
   title: See when pages were last updated
   type: change
 related_changes:
-- '[[Changes/Descript/2022-02-23-improvements-bug-fixes|Improvements & bug fixes]]'
-- '[[Changes/Notion/2022-03-15-streamlined-new-design|Streamlined new design]]'
+- '[[Changes/Raycast/2022-06-29-shared-snippets|Shared Snippets]]'
 - '[[Changes/Notion/2022-08-11-1-page-limit-for-database-relations|1-page limit for
   database relations]]'
+- '[[Changes/Raycast/2022-08-18-2-collaboration-changes-in-raycast-macos-v1-1-39-0|2
+  Collaboration changes in Raycast macos-v1 1.39.0]]'
 source_release: '[[Releases/Notion/notion-2022-08-29-https-www-notion-com-releases-2022-08-29-2326b51c|notion-2022-08-29-https-www-notion-com-releases-2022-08-29-2326b51c]]'
 source_type: notion_changelog
 theme: collaboration
@@ -86,7 +87,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2022-08-11 · Notion · [[Changes/Notion/2022-08-11-1-page-limit-for-database-relations|1-page limit for database relations]]
+- Earlier: 2022-08-18 · Raycast · [[Changes/Raycast/2022-08-18-2-collaboration-changes-in-raycast-macos-v1-1-39-0|2 Collaboration changes in Raycast macos-v1 1.39.0]]
 - Later: 2022-09-13 · Notion · [[Changes/Notion/2022-09-13-choose-a-type-when-creating-a-database-property|Choose a type when creating a database property]]
 <!-- chronolog:end -->
 

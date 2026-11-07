@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: d72fae548fb636c0649ae8b38736bbf93f3f541dbf2cf8ccd17e4c0c395c9b73
+machine_hash: dd08604654848155306ed6d574bcaabf9b3fc5e8a7738f402aab1acaa0ef7fa3
 product: notion
 product_name: Notion
 record:
@@ -49,11 +49,11 @@ record:
   title: Deeply nested sub-pages load 50% faster
   type: change
 related_changes:
-- "[[Changes/Notion/2021-09-08-pages-load-faster-on-android|Pages load faster on Android
-  \U0001F4C8]]"
-- '[[Changes/Notion/2021-09-21-pages-with-large-images-now-load-faster-on-mobile|Pages
-  with large images now load faster on mobile]]'
+- '[[Changes/Raycast/2022-01-12-performance-significantly-increased-startup-speed-for-those-with-links-on-the-ap|Performance:
+  Significantly increased startup speed for those with links…]]'
 - '[[Changes/Descript/2022-01-26-blazing-fast-publishing|Blazing fast publishing]]'
+- '[[Changes/Raycast/2022-02-23-store-extensions-now-load-faster-when-you-scroll|Store:
+  Extensions now load faster when you scroll]]'
 source_release: '[[Releases/Notion/notion-2022-03-15-https-www-notion-com-releases-2022-03-15-19f1dccb|notion-2022-03-15-https-www-notion-com-releases-2022-03-15-19f1dccb]]'
 source_type: notion_changelog
 theme: reliability-performance
@@ -86,8 +86,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2022-01-26 · Descript · [[Changes/Descript/2022-01-26-blazing-fast-publishing|Blazing fast publishing]]
-- Later: 2022-04-14 · Notion · [[Changes/Notion/2022-04-14-if-you-think-of-notion-like-a-kitchen-our-engineers-are-constantly-cooking-up-ne|If you think of Notion like a kitchen, our engineers are constantly cooking up new…]]
+- Earlier: 2022-02-23 · Raycast · [[Changes/Raycast/2022-02-23-store-extensions-now-load-faster-when-you-scroll|Store: Extensions now load faster when you scroll]]
+- Later: 2022-03-24 · Raycast · [[Changes/Raycast/2022-03-24-memory-set-a-lower-cache-size-for-images-this-may-reduce-the-app-s-memory-footpr|Memory: Set a lower cache size for images]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

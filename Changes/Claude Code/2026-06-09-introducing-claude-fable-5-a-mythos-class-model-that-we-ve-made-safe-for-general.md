@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 5fbe17b2539905b1bd7c630f00bb66451ae63a0b1027cbf906c0931fdaf2cc00
+machine_hash: 76448838ac4f195440b13d045049e9e1d48bbf49db61cf1cbbb2e95fdc352752
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,9 +51,10 @@ record:
     general use'
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-06-08-javascript-sdk|JavaScript SDK]]'
 - '[[Changes/v0/2026-06-08-v0-max-now-runs-on-claude-opus-4-8-and-max-fast-on-opus-4-8-fast-at-about-a-thir|v0
   Max now runs on Claude Opus 4.8, and Max Fast on Opus 4.8 Fast at about a third…]]'
+- '[[Changes/AnythingLLM/2026-06-09-4-model-support-changes-in-v1-14-0|4 Model Support
+  changes in v1.14.0]]'
 - '[[Changes/Claude/2026-06-09-claude-fable-5-launch|Claude Fable 5 launch]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-09-v2-1-170-github-336724522-461fd3b3|claude-code-2026-06-09-v2-1-170-github-336724522-461fd3b3]]'
 source_type: github_releases

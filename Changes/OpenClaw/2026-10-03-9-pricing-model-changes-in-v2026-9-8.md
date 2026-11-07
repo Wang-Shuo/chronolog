@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 019494c682652382dee992f61ec09022d2e4e9799f062889511fc751bf97fd67
+machine_hash: 4450edc2625a309f55f46557949dba4df056427b6952df4834272f9cf699918b
 product: openclaw
 product_name: OpenClaw
 record:
@@ -77,12 +77,12 @@ record:
   title: 9 Pricing Model changes in v2026.9.8
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-09-30-3-pricing-model-changes-in-v2026-9-7|3 Pricing Model
-  changes in v2026.9.7]]'
 - '[[Changes/Codex CLI/2026-10-01-49079-update-and-centralize-tui-subscription-labels-etraut-openai|♯49079
   Update and centralize TUI subscription labels @etraut-openai]]'
 - '[[Changes/Claude Code/2026-10-02-improved-the-usage-credits-message-shown-to-team-and-enterprise-members-whose-or|Improved
   the /usage-credits message shown to Team and Enterprise members whose…]]'
+- '[[Changes/Raycast/2026-10-02-ai-purchase-additional-ai-credits-directly-in-the-app-on-eligible-individual-pla|AI:
+  Purchase additional AI credits directly in the app on eligible individual plans]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-10-03-v2026-9-8-0844d8d3|openclaw-2026-10-03-v2026-9-8-0844d8d3]]'
 source_type: openclaw_changelog
 theme: pricing-model
@@ -136,7 +136,7 @@ Source: https://docs.openclaw.ai/releases/2026.9.8
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-10-02 · Claude Code · [[Changes/Claude Code/2026-10-02-improved-the-usage-credits-message-shown-to-team-and-enterprise-members-whose-or|Improved the /usage-credits message shown to Team and Enterprise members whose…]]
+- Earlier: 2026-10-02 · Raycast · [[Changes/Raycast/2026-10-02-ai-purchase-additional-ai-credits-directly-in-the-app-on-eligible-individual-pla|AI: Purchase additional AI credits directly in the app on eligible individual plans]]
 - Later: 2026-10-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-05-plan-usage-reflects-the-current-billing-period-after-quota-resets|Plan usage reflects the current billing period after quota resets]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: first-observed
   scope: tracked-products-only
   theme: presentation-creation
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6c3b0e5ef73f99c454675776d4f8e95e6d3f1ec7a99c527a8a1c611ed882757e
+machine_hash: 318d9a363374ec32f537d93d344abe7e402afb3f3154b2a1cdf5b21547bb46ad
 product: synthesia
 product_name: Synthesia
 record:
@@ -73,7 +73,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry among the 37 tracked products.
+- Earliest same-theme entry among the 45 tracked products.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

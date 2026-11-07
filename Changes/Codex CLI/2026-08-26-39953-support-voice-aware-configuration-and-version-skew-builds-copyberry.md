@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 76889bb3782e414040b40a95c12f2fd61a4209d762eaf78e75da422f51f39094
+machine_hash: deca52a98dc817abc231b2e850e9392a1e8cca49b6e5e10a44ce1db6deed6a7c
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,12 +43,12 @@ record:
   title: '#39953 Support voice-aware configuration and version-skew builds @copyberry'
   type: change
 related_changes:
-- '[[Changes/Dify/2026-08-25-audio-asr-now-accepts-audio-x-m4a-and-audio-mime-types-are-validated-more-accura|Audio
-  ASR now accepts audio/x-m4a, and audio MIME types are validated more…]]'
-- '[[Changes/Microsoft 365 Copilot/2026-08-25-use-voice-for-q-a-during-read-aloud-in-word-windows-word|Use
-  voice for Q&A during Read Aloud in Word Windows (Word)]]'
-- '[[Changes/Open WebUI/2026-08-25-4-voice-and-audio-changes-in-v0-11-1|4 Voice and
-  Audio changes in v0.11.1]]'
+- '[[Changes/Raycast/2026-08-25-during-the-beta-all-of-our-pro-features-were-available-for-free-while-we-tested|During
+  the beta, all of our Pro features were available for free while we tested…]]'
+- '[[Changes/Raycast/2026-08-25-5-voice-and-audio-changes-in-raycast-windows-2-0|5
+  Voice and Audio changes in Raycast windows 2.0]]'
+- '[[Changes/Recraft/2026-08-25-whether-you-re-refining-a-concept-at-your-desk-or-capturing-inspiration-on-the-g|Whether
+  you''re refining a concept at your desk or capturing inspiration on the go…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-08-26-rust-v0-150-0-github-377374683-d950f84c|codex-cli-2026-08-26-rust-v0-150-0-github-377374683-d950f84c]]'
 source_type: github_releases
 theme: voice
@@ -90,8 +90,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-08-25 · Open WebUI · [[Changes/Open WebUI/2026-08-25-4-voice-and-audio-changes-in-v0-11-1|4 Voice and Audio changes in v0.11.1]]
-- Later: 2026-08-27 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-08-27-use-ctrl-space-to-toggle-voice-dictation|Use Ctrl+Space to toggle voice dictation]]
+- Earlier: 2026-08-25 · Recraft · [[Changes/Recraft/2026-08-25-whether-you-re-refining-a-concept-at-your-desk-or-capturing-inspiration-on-the-g|Whether you're refining a concept at your desk or capturing inspiration on the go…]]
+- Later: 2026-08-26 · Superwhisper · [[Changes/Superwhisper/2026-08-26-all-local-whisper-models-are-now-free-on-macos-giving-you-high-quality-voice-to|All local Whisper models are now free on macOS, giving you high-quality voice…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

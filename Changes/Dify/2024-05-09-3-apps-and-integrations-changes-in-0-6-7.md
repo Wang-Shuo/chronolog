@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d2597d7770549f4629484d963a0697e1e775005e3199665834e7fad5d4c62d5b
+machine_hash: 8dbe3dd6f5494d890ab410fdd7703afc5a89831ab885c459f8d4c7adac1f0857
 product: dify
 product_name: Dify
 record:
@@ -92,7 +92,7 @@ Source: https://github.com/langgenius/dify/releases/tag/0.6.7
 ## Nearby in Apps and Integrations
 
 - Earlier: 2024-05-02 · Dify · [[Changes/Dify/2024-05-02-2-apps-and-integrations-changes-in-0-6-6|2 Apps and Integrations changes in 0.6.6]]
-- Later: 2024-05-13 · Dify · [[Changes/Dify/2024-05-13-4-apps-and-integrations-changes-in-0-6-8|4 Apps and Integrations changes in 0.6.8]]
+- Later: 2024-05-13 · Devin · [[Changes/Devin/2024-05-13-organizations-integration-for-slack|Organizations Integration for Slack]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

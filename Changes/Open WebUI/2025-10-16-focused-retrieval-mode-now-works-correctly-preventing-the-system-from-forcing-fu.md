@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f60e835409a014fbcce4aac9f04d1ad97f554b4924097eb4280c77b8bb0e1cf5
+machine_hash: ba791fe52c4fc12874b320a8ef515273de68adc5e6d2760b9cf1c801739691f2
 product: open-webui
 product_name: Open WebUI
 record:
@@ -56,8 +56,8 @@ record:
     from forcing…"
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2025-10-06-updated-the-context-truncation-message-s-color-from-an-error-color-to-a-warning|Updated
-  the context truncation message''s color from an error color to a warning color]]'
+- '[[Changes/AnythingLLM/2025-10-09-agent-system-prompt-passthrough-user-context-awareness|Agent
+  system prompt passthrough + user context awareness]]'
 - '[[Changes/Codex CLI/2025-10-09-make-context-line-permanent-by-dedrisian-oai-in-https-github-com-openai-codex-pu|Make
   context line permanent]]'
 - '[[Changes/Cline/2025-10-16-fixing-issue-where-checkpoint-restore-doesn-t-work-with-auto-compact-by-0xtoshii|fixing

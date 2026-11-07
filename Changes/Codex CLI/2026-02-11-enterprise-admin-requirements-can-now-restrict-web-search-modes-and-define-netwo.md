@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 27c3daca41314e651a9f777f1e89880d892e9055eaf057460191a4c9963f41c2
+machine_hash: 66138a00d41fa9ef2e6491e60b797538ed589c6a71ceb3152f3dc0c538eb0a2f
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -54,12 +54,12 @@ record:
     network…
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-01-28-feat-admin-implement-admin-controls-polling-and-restart-prompt-by-skeshive-in-ht|feat(admin):
-  implement admin controls polling and restart prompt]]'
 - '[[Changes/Dify/2026-02-03-2-enterprise-and-administration-changes-in-1-12-0|2 Enterprise
   and Administration changes in 1.12.0]]'
 - '[[Changes/Lovable/2026-02-05-default-design-templates-business-and-enterprise|Default
   design templates (Business and Enterprise)]]'
+- '[[Changes/Devin/2026-02-06-enterprise-organization-selection|Enterprise Organization
+  Selection]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-02-11-rust-v0-99-0-github-285424682-f7f48016|codex-cli-2026-02-11-rust-v0-99-0-github-285424682-f7f48016]]'
 source_type: github_releases
 theme: enterprise-admin
@@ -103,7 +103,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-02-05 · Lovable · [[Changes/Lovable/2026-02-05-default-design-templates-business-and-enterprise|Default design templates (Business and Enterprise)]]
+- Earlier: 2026-02-06 · Devin · [[Changes/Devin/2026-02-06-enterprise-organization-selection|Enterprise Organization Selection]]
 - Later: 2026-02-12 · Claude · [[Changes/Claude/2026-02-12-self-serve-enterprise-plans|Self-serve Enterprise plans]]
 <!-- chronolog:end -->
 

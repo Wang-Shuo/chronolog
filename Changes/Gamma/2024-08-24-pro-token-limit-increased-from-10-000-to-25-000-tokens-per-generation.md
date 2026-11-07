@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c5c6c245498c1fcc97ad49279c318c367fdfe267552a9867dc91da60eb7f8815
+machine_hash: 8c4b5e94b32163cddaa9b713ac224915146fb8b8491d5233ac3d8ed00a9429b1
 product: gamma
 product_name: Gamma
 record:
@@ -41,8 +41,8 @@ record:
   title: '**Pro:** Token limit increased from 10,000 to **25,000** tokens per generation'
   type: change
 related_changes:
-- '[[Changes/Aider/2024-08-13-bug-fix-for-chat-history-size-in-tokens|Bug fix for
-  chat history size in /tokens]]'
+- '[[Changes/AnythingLLM/2024-08-19-agent-context-window-context-window-refactor-by-timothycarambat-in-https-github|Agent
+  Context window + context window refactor]]'
 - '[[Changes/Cursor/2024-08-22-we-ve-also-trained-a-new-cursor-tab-model-that-s-smarter-and-more-context-aware-56db10|We''ve
   also trained a new Cursor Tab model that''s smarter and more context-aware]]'
 - '[[Changes/Gamma/2024-08-24-plus-token-limit-increased-from-5-000-to-10-000-tokens-per-generation|Plus:

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d6cfdec54f56f3b15057f4c727ecfe58a5f2c9fb079d2f5ebfe8a0b1fd2d800a
+machine_hash: cd98307d55c4012f7020d2e9c3277facf45aa13e2fa4fba54f8913d40c9b035e
 product: open-webui
 product_name: Open WebUI
 record:
@@ -45,8 +45,8 @@ record:
   title: 2 Interface Experience changes in v0.3.20
   type: change
 related_changes:
-- '[[Changes/Dify/2024-09-03-2-interface-experience-changes-in-0-7-3|2 Interface Experience
-  changes in 0.7.3]]'
+- '[[Changes/Superwhisper/2024-09-03-potential-fix-for-crash-on-language-selection-in-onboarding|Potential
+  fix for crash on language selection in onboarding]]'
 - '[[Changes/OpenHands/2024-09-04-codeactagent-recovers-upon-a-llm-completion-exception-by-shubhamofbce-in-https-g|CodeActAgent
   recovers upon a llm completion exception]]'
 - "[[Changes/Open WebUI/2024-09-05-ui-styling-refined-the-user-interface-styling-for-enhanced-visual-coherence-and|\U0001F3A8

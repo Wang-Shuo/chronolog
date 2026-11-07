@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4ad5d2885e8e5f5f64aa85375adfc4fe3d068eb29983d4f3839cb11e7ce54dec
+machine_hash: af9b0c75dfe445ba07451976066f70d1f7694a63879a5b406be5ccce87377971
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,7 +44,8 @@ record:
     and examples
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-04-02-agent-tabs-in-the-editor|Agent Tabs in the Editor]]'
+- '[[Changes/Raycast/2026-04-03-quicklinks-added-edit-duplicate-disable-delete-actions-in-settings-caf281|Quicklinks
+  : Added Edit, Duplicate, Disable, Delete actions in settings]]'
 - '[[Changes/Claude Code/2026-04-04-removed-vim-command-toggle-vim-mode-via-config-editor-mode|Removed
   /vim command (toggle vim mode via /config → Editor mode)]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-06-skip-ide-auto-connect-when-session-is-already-in-use-by-another-client|Skip

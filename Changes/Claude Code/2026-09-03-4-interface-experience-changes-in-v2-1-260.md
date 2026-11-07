@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 041a1025910519eef244a3d367abf01e336d49b66e04b1751a2b8c5f4c6794bc
+machine_hash: c8859596f9e72354e0a9468375a86df7db54c7fe997eca2440aad30def720248
 product: claude-code
 product_name: Claude Code
 record:
@@ -50,8 +50,8 @@ record:
   title: 4 Interface Experience changes in v2.1.260
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-02-vscode-added-an-active-quick-filter-and-a-status-filter-menu-needs-input-working|VSCode
-  Added an Active quick filter and a status filter menu…]]'
+- '[[Changes/Devin/2026-09-02-new-sidebar-grouping-and-filters|New Sidebar Grouping
+  and Filters]]'
 - '[[Changes/Google Antigravity/2026-09-02-dragging-to-select-a-region-of-an-image-for-a-comment-now-updates-the-selection|Dragging
   to select a region of an image for a comment now updates the selection…]]'
 - '[[Changes/Google Antigravity/2026-09-02-quoting-boost-and-improved-settings|Quoting,

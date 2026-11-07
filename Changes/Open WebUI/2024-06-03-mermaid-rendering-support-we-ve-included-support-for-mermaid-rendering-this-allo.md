@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: f19baa27c5c434fbacb68c56cb873e47ba950a5ef5778898f6b5a10cb52d2cd2
+machine_hash: a8b3f493e3944ad4fc5ea612a5031560cdd28485e1070310491f94f4d66cade3
 product: open-webui
 product_name: Open WebUI
 record:
@@ -50,7 +50,8 @@ record:
     rendering"
   type: change
 related_changes:
-- '[[Changes/Descript/2024-05-22-automatic-speaker-detection|Automatic Speaker Detection]]'
+- '[[Changes/Raycast/2024-05-22-typing-practice-source-now-fits-2-lines-on-the-scorecard-and-has-a-tooltip-when|Typing
+  Practice: Source now fits 2 lines on the scorecard and has a tooltip when hovering]]'
 - '[[Changes/Dify/2024-05-27-improved-variable-assigner-supports-more-flexible-variable-selection-additionall|Improved
   Variable Assigner supports more flexible variable selection]]'
 - "[[Changes/Open WebUI/2024-06-02-ui-enhancement-fixed-the-scrollbar-overlapping-issue-with-the-message-box-in-the|\U0001F5A5️

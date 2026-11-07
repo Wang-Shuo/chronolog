@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: c76bafe879d6189d5695b475826b4dcad8f5830011666102b245f0810d09c96c
+machine_hash: daee690f44e479ed0b331036cf3e0bd806279e1b4d05b59fef40713b96e52145
 product: opencode
 product_name: OpenCode
 record:
@@ -42,12 +42,12 @@ record:
   title: Support the current server terminal transport
   type: change
 related_changes:
-- '[[Changes/v0/2026-07-21-2-developer-workflow-changes-in-slash-commands-the-shopify|2
-  Developer Workflow changes in Slash commands, the Shopify…]]'
-- '[[Changes/Claude Code/2026-07-22-changed-code-review-to-run-as-a-background-subagent-so-review-work-no-longer-fil|Changed
-  /code-review to run as a background subagent, so review work no longer…]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-23-2-developer-workflow-changes-in-v1-0-74|2
   Developer Workflow changes in v1.0.74]]'
+- '[[Changes/Devin/2026-07-24-slash-commands-in-the-message-box|Slash Commands in
+  the Message Box]]'
+- '[[Changes/Devin/2026-07-24-required-approvals-at-a-glance|Required Approvals at
+  a Glance]]'
 source_release: '[[Releases/OpenCode/opencode-2026-07-24-v1-18-5-afa44289|opencode-2026-07-24-v1-18-5-afa44289]]'
 source_type: opencode_changelog
 theme: developer-workflow
@@ -82,7 +82,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-07-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-23-2-developer-workflow-changes-in-v1-0-74|2 Developer Workflow changes in v1.0.74]]
+- Earlier: 2026-07-24 · Devin · [[Changes/Devin/2026-07-24-required-approvals-at-a-glance|Required Approvals at a Glance]]
 - Later: 2026-07-27 · Open WebUI · [[Changes/Open WebUI/2026-07-27-62-developer-workflow-changes-in-v0-11-0|62 Developer Workflow changes in v0.11.0]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 6e48f5663489a2d2cb1a7b028e732114193cab033a1379b06e473b34e8e02d16
+machine_hash: b0910869ae0db73b379b7258f61630e915d107e162ef0caf87af1cdbe4190f62
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,12 +47,12 @@ record:
   title: Improved the Bash/PowerShell tool message when a command hits its timeout…
   type: change
 related_changes:
-- '[[Changes/Kimi Code/2026-07-12-3-model-support-changes-in-kimi-code-0-23-6|3 Model
-  Support changes in Kimi Code 0.23.6]]'
 - '[[Changes/OpenClaw/2026-07-13-130-model-support-changes-in-v2026-7-1|130 Model
   Support changes in v2026.7.1]]'
 - '[[Changes/OpenCode/2026-07-13-4-model-support-changes-in-v1-17-20-1|4 Model Support
   changes in v1.17.20 + 1]]'
+- '[[Changes/Superwhisper/2026-07-13-smarter-vocabulary-for-offline-whisper-models|Smarter
+  vocabulary for offline whisper models]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-14-v2-1-210-github-354034085-7eba9ec7|claude-code-2026-07-14-v2-1-210-github-354034085-7eba9ec7]]'
 source_type: github_releases
 theme: model-support
@@ -85,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-07-13 · OpenCode · [[Changes/OpenCode/2026-07-13-4-model-support-changes-in-v1-17-20-1|4 Model Support changes in v1.17.20 + 1]]
+- Earlier: 2026-07-13 · Superwhisper · [[Changes/Superwhisper/2026-07-13-smarter-vocabulary-for-offline-whisper-models|Smarter vocabulary for offline whisper models]]
 - Later: 2026-07-14 · Kimi Code · [[Changes/Kimi Code/2026-07-14-2-model-support-changes-in-kimi-code-0-24-1|2 Model Support changes in Kimi Code 0.24.1]]
 <!-- chronolog:end -->
 

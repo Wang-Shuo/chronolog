@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 14171049ae58c03fdb47965147780bfad338157023cd3dc2eb6b372b4d2762f1
+machine_hash: 483a21ea6e1339a962e11e391da41a32ca95b7f72b3d4833439cf878778ecac5
 product: lovable
 product_name: Lovable
 record:
@@ -53,9 +53,9 @@ record:
   title: Connect your app to WhatsApp Business
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-14-improved-mobile-to-show-a-single-qr-code-for-claude-ai-mobile-which-opens-the-ri|Improved
-  /mobile to show a single QR code for claude.ai/mobile, which opens…]]'
 - '[[Changes/ElevenLabs/2026-09-14-ios-sdk|iOS SDK]]'
+- '[[Changes/Raycast/2026-09-14-ui-updated-all-user-interfaces-to-support-macos-golden-gate|UI
+  : Updated all user interfaces to support macOS Golden Gate]]'
 - '[[Changes/Claude Code/2026-09-15-claude-code-on-the-web-removed-the-full-page-desktop-app-download-screen-that-ne|Claude
   Code on the web Removed the full-page desktop-app download screen that new…]]'
 source_release: '[[Releases/Lovable/lovable-2026-09-15-2026-09-15-6e6a8d9f|lovable-2026-09-15-2026-09-15-6e6a8d9f]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: fce5c7b83acdc2e183ea04d09d8a570a32c1b2c99b4602bd565df5795fba390b
+machine_hash: 44745b226dced7bcb300d4ad9963f78e76e855c2ec79d619cef3c99120f92f3c
 product: dify
 product_name: Dify
 record:
@@ -43,12 +43,11 @@ record:
   title: 'chore: input area highlight and moblie hide tooltip'
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-05-09-includes-some-updates-to-option-enter-in-the-chat|Includes
-  some updates to "Option+Enter" in the chat]]'
-- '[[Changes/Cursor/2023-05-17-a-better-cursor-tutor-onboarding|A better Cursor Tutor
-  onboarding!]]'
 - '[[Changes/Cursor/2023-05-20-we-ve-added-a-new-feedback-button-at-the-top-right-of-the-app-we-really-do|Cursor
   adds a new feedback button at the top right of the app]]'
+- '[[Changes/Raycast/2023-05-24-emoji-the-inline-emoji-picker-now-uses-the-same-alias-names-as-slack-and-github|Emoji:
+  The inline emoji picker now uses the same alias names as Slack and Github…]]'
+- '[[Changes/Raycast/2023-05-24-new-emojis|New Emojis]]'
 source_release: '[[Releases/Dify/dify-2023-05-30-0-3-1-github-105299301-5a08cbf8|dify-2023-05-30-0-3-1-github-105299301-5a08cbf8]]'
 source_type: github_releases
 theme: interface-experience
@@ -77,7 +76,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2023-05-20 · Cursor · [[Changes/Cursor/2023-05-20-we-ve-added-a-new-feedback-button-at-the-top-right-of-the-app-we-really-do|Cursor adds a new feedback button at the top right of the app]]
+- Earlier: 2023-05-24 · Raycast · [[Changes/Raycast/2023-05-24-new-emojis|New Emojis]]
 - Later: 2023-05-31 · Descript · [[Changes/Descript/2023-05-31-font-weights-the-font-weight-is-now-a-separate-section-under-text-properties-htt|Font weights: The font weight is now a separate section under Text…]]
 <!-- chronolog:end -->
 

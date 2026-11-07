@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6967bca1719b3cdb3e97ff5dbf6e092b851232251d1c1b5f0ec463cbdab85efb
+machine_hash: f47af9c1869b423339353b04cffe0e81f0f1f4291bc219726e2bd75519fe4753
 product: claude-code
 product_name: Claude Code
 record:
@@ -40,11 +40,11 @@ record:
   title: Removed `/vim` command (toggle vim mode via `/config` → Editor mode)
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-01-3-editor-experience-changes-in-v1-0-15|3
-  Editor Experience changes in v1.0.15]]'
-- '[[Changes/Cursor/2026-04-02-2-editor-experience-changes-in-3-0|2 Editor Experience
-  changes in 3.0]]'
 - '[[Changes/Cursor/2026-04-02-agent-tabs-in-the-editor|Agent Tabs in the Editor]]'
+- '[[Changes/Raycast/2026-04-03-quicklinks-added-edit-duplicate-disable-delete-actions-in-settings|Quicklinks:
+  Added Edit , Duplicate , Disable , Delete actions in settings]]'
+- '[[Changes/Raycast/2026-04-03-quicklinks-added-edit-duplicate-disable-delete-actions-in-settings-caf281|Quicklinks
+  : Added Edit, Duplicate, Disable, Delete actions in settings]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-04-v2-1-92-github-305189904-2eb020f5|claude-code-2026-04-04-v2-1-92-github-305189904-2eb020f5]]'
 source_type: github_releases
 theme: editor-experience
@@ -81,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-04-02 · Cursor · [[Changes/Cursor/2026-04-02-agent-tabs-in-the-editor|Agent Tabs in the Editor]]
+- Earlier: 2026-04-03 · Raycast · [[Changes/Raycast/2026-04-03-quicklinks-added-edit-duplicate-disable-delete-actions-in-settings-caf281|Quicklinks : Added Edit, Duplicate, Disable, Delete actions in settings]]
 - Later: 2026-04-06 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-06-skip-ide-auto-connect-when-session-is-already-in-use-by-another-client|Skip IDE auto-connect when session is already in use by another client]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: fe2ebf5b615d5f30009e14c780242fa349edf41081f4f4f44f5bb8c90d90ee82
+machine_hash: 6a9dde7e3c1590d2320c3764b8b95f00bcbbfd9b346d72c927034ad8110a2ddf
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-01-30 · Cline · [[Changes/Cline/2026-01-30-litellm-fixed-thinking-configuration-not-appearing-for-reasoning-capable-models-cb84ce|LiteLLM: Fixed thinking configuration not appearing for reasoning-capable models]]
-- Later: 2026-01-30 · OpenCode · [[Changes/OpenCode/2026-01-30-desktop-free-model-layout-improvements-in-app|Desktop Free model layout improvements in app]]
+- Later: 2026-01-30 · LM Studio · [[Changes/LM Studio/2026-01-30-added-parallel-flag-to-lms-load-command-to-allow-loading-a-model-with-specified|Added --parallel  flag to lms load command to allow loading a model…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

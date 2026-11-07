@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2efce891bc09342a968d8c5f5f04bef9528b793a6b13dbf31436b8468ac1d10c
+machine_hash: ea77cdd865aae6d4496edef1339e1cd9fc087d9b5b8f300ef4b97b5d8b811b5c
 product: opencode
 product_name: OpenCode
 record:
@@ -45,10 +45,10 @@ record:
   title: 3 Mobile and Desktop changes in v1.4.0
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-04-01-feat-core-implement-strict-macos-sandboxing-using-seatbelt-allowlist-by-ehedlund|feat(core):
-  implement strict macOS sandboxing using Seatbelt allowlist]]'
-- '[[Changes/ChatGPT/2026-04-02-we-re-rolling-out-chatgpt-in-carplay-giving-you-access-to-a-hands-free-chatgpt-e|ChatGPT
-  in Apple CarPlay]]'
+- '[[Changes/Raycast/2026-04-03-introducing-virtual-desktop-commands-a-full-suite-of-commands-that-turns-your-de|Introducing
+  Virtual Desktop commands a full suite of commands that turns…]]'
+- '[[Changes/Raycast/2026-04-03-4-mobile-and-desktop-changes-in-raycast-windows-0-52|4
+  Mobile and Desktop changes in Raycast windows 0.52]]'
 - '[[Changes/OpenCode/2026-04-04-4-mobile-and-desktop-changes-in-v1-3-15-1|4 Mobile
   and Desktop changes in v1.3.15 + 1]]'
 source_release: '[[Releases/OpenCode/opencode-2026-04-08-v1-4-0-d8caa806|opencode-2026-04-08-v1-4-0-d8caa806]]'

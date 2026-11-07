@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: eb3a07b16fa97d13582e2e031c83d9fc86786499a6478a57da6ee089e4d39747
+machine_hash: ab7c5dd1fbd4747e3e7ad04a5e47f42127b85fded928bd2cf26aaa0211a918c7
 product: opencode
 product_name: OpenCode
 record:
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2026-06-30 · OpenClaw · [[Changes/OpenClaw/2026-06-30-when-a-codex-subscription-reaches-its-usage-limit-openclaw-now-moves-to-configur|When a Codex subscription reaches its usage limit, OpenClaw now moves to configured…]]
-- Later: 2026-07-02 · Kimi Code · [[Changes/Kimi Code/2026-07-02-automatically-compress-oversized-images-before-they-reach-the-model-downsampling|Automatically compress oversized images before they reach the model, downsampling…]]
+- Later: 2026-07-01 · Recraft · [[Changes/Recraft/2026-07-01-credit-cost-is-21-credits-per-second|Credit cost is 21 credits per second]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

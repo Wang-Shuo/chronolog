@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 976e52e99abe2a8064fce8ad6272b68b52cf0392b7d2769f7267ab559155c905
+machine_hash: d4e3e6bfde901a6ee3666528f429c2350b6e34fcae9365f06c72b753f336c65e
 product: lovable
 product_name: Lovable
 record:
@@ -43,8 +43,8 @@ record:
   title: Addressed **main regressions** introduced with [Sonnet…
   type: change
 related_changes:
-- '[[Changes/Aider/2025-03-04-4-model-support-changes-in-v0-75-0|4 Model Support changes
-  in v0.75.0]]'
+- '[[Changes/AnythingLLM/2025-03-04-4-model-support-changes-in-v1-7-5|4 Model Support
+  changes in v1.7.5]]'
 - '[[Changes/Open WebUI/2025-03-05-2-model-support-changes-in-v0-5-19|2 Model Support
   changes in v0.5.19]]'
 - '[[Changes/Cline/2025-03-06-add-new-gemini-models-to-gcp-vertex-thanks-shohei-ihaya-and-claude-models-asksag|Add

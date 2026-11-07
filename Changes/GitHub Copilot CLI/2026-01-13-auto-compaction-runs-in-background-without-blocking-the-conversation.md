@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: eeea0d85f33a3f4751bfda51573088add877672d763cb64097b59fc412f6581c
+machine_hash: a1889e26aa9ecf9581322e033fe09308d2e4a3e5f95ff43ca75ad0ef2cec15d3
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,10 +43,10 @@ record:
   title: Auto-compaction runs in background without blocking the conversation
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-01-09-3-context-window-changes-in-v0-7-0|3 Context Window
-  changes in v0.7.0]]'
 - '[[Changes/OpenCode/2026-01-09-desktop-cache-session-scoped-stores-and-add-optional-context-gating|Desktop
   Cache session-scoped stores and add optional context gating]]'
+- '[[Changes/Raycast/2026-01-12-ai-adjusted-chat-title-logic-to-use-chat-context-instead-of-device-language|AI:
+  Adjusted chat title logic to use chat context instead of device language]]'
 - '[[Changes/Claude Code/2026-01-13-added-context-window-used-percentage-and-context-window-remaining-percentage-fie|Added
   context_window.used_percentage and context_window.remaining_percentage…]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-01-13-v0-0-380-github-276209240-1033f81a|github-copilot-cli-2026-01-13-v0-0-380-github-276209240-1033f81a]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2e4092598cfd394702ec494c57760f5a7c8cc38b11c972a433156e0528436b37
+machine_hash: 73ed9b7ec483164457159edf348f73a0817d7cbcceba32c0b7c1ec22e3573c2d
 product: ollama
 product_name: Ollama
 record:
@@ -40,12 +40,11 @@ record:
   title: '**Better MLX thread safety** for array management'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-04-20-9-safety-and-privacy-changes-in-rust-v0-122-0|9
-  Safety and Privacy changes in rust-v0.122.0]]'
 - '[[Changes/Open WebUI/2026-04-21-11-safety-and-privacy-changes-in-v0-9-0|11 Safety
   and Privacy changes in v0.9.0]]'
 - '[[Changes/OpenCode/2026-04-21-terminal-fixed-permission-replies-using-remote-workspaces-so-they-are-sent-to-th|Terminal
   Fixed permission replies using remote workspaces so they are sent…]]'
+- '[[Changes/Devin/2026-04-22-view-consumption-permission|View Consumption Permission]]'
 source_release: '[[Releases/Ollama/ollama-2026-04-22-v0-21-1-github-311489814-9e26ae27|ollama-2026-04-22-v0-21-1-github-311489814-9e26ae27]]'
 source_type: github_releases
 theme: safety-privacy
@@ -79,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-04-21 · OpenCode · [[Changes/OpenCode/2026-04-21-terminal-fixed-permission-replies-using-remote-workspaces-so-they-are-sent-to-th|Terminal Fixed permission replies using remote workspaces so they are sent…]]
+- Earlier: 2026-04-22 · Devin · [[Changes/Devin/2026-04-22-view-consumption-permission|View Consumption Permission]]
 - Later: 2026-04-23 · Claude Code · [[Changes/Claude Code/2026-04-23-fixed-mcp-step-up-authorization-silently-refreshing-instead-of-prompting-for-re|Fixed MCP step-up authorization silently refreshing instead of prompting…]]
 <!-- chronolog:end -->
 

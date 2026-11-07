@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a4f556929e560a2c97c66d9b2f4899bfd3978934af20b4501c34eb0677d34422
+machine_hash: 93bb61b73edc06f551ff1e5e368440137400f0d5f89b244b6f4dbdd43a2848d4
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,12 +43,12 @@ record:
     the slash menu'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-01-added-claude-code-no-flicker-1-environment-variable-to-opt-into-flicker-free-alt|Added
-  CLAUDE_CODE_NO_FLICKER=1 environment variable to opt into flicker-free…]]'
 - '[[Changes/Gemini CLI/2026-04-01-2-interface-experience-changes-in-v0-36-0|2 Interface
   Experience changes in v0.36.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-01-4-interface-experience-changes-in-v1-0-15|4
   Interface Experience changes in v1.0.15]]'
+- '[[Changes/AnythingLLM/2026-04-02-4-interface-experience-changes-in-v1-12-0|4 Interface
+  Experience changes in v1.12.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-02-v2-1-91-github-304899951-a56266fc|claude-code-2026-04-02-v2-1-91-github-304899951-a56266fc]]'
 source_type: github_releases
 theme: interface-experience
@@ -81,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-04-01 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-01-4-interface-experience-changes-in-v1-0-15|4 Interface Experience changes in v1.0.15]]
+- Earlier: 2026-04-02 · AnythingLLM · [[Changes/AnythingLLM/2026-04-02-4-interface-experience-changes-in-v1-12-0|4 Interface Experience changes in v1.12.0]]
 - Later: 2026-04-02 · Cursor · [[Changes/Cursor/2026-04-02-deprecated-the-previous-worktree-and-best-of-n-selection-from-the-editor|Deprecated the previous worktree and best-of-n selection from the Editor]]
 <!-- chronolog:end -->
 

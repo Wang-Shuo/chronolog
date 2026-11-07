@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 0d06f2c8dbd9198e87d47de452376d0d66c82c81cb5906e98c833c703ef8f52f
+machine_hash: db4d506b51c9dca75e78b7d7bdf5fe1253120c0bd704673e9915670688f9c08e
 product: claude-code
 product_name: Claude Code
 record:
@@ -93,7 +93,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-10-08 · OpenHands · [[Changes/OpenHands/2026-10-08-test-e2e-launch-the-same-model-profile-test-from-the-beta-profile-by-enyst-in-ht|test(e2e): launch the same-model profile test from the BETA profile]]
-- Later: 2026-10-10 · Open WebUI · [[Changes/Open WebUI/2026-10-10-49-model-support-changes-in-v0-12-0|49 Model Support changes in v0.12.0]]
+- Later: 2026-10-09 · Raycast · [[Changes/Raycast/2026-10-09-2-model-support-changes-in-raycast-windows-2-7|2 Model Support changes in Raycast windows 2.7]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

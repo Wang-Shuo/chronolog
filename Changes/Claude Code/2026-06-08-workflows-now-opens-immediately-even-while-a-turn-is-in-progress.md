@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e87b990b20ac32981263b05c6e4279c0e42c8abc41cff2fcd32bfbea9d96ba7c
+machine_hash: 83e976babc3bd8ef43ff739ef18784275d9de44397c267645230ff71d5cd97ea
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,12 +43,11 @@ record:
   title: '`/workflows` now opens immediately even while a turn is in progress'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-02-experimental-schedule-prompts-with-every-and-after|/experimental
-  schedule prompts with /every and /after]]'
-- '[[Changes/Kimi Code/2026-06-02-render-scheduled-reminders-distinctly-in-the-tui-expose-cron-fired-events-to-sdk|Render
-  scheduled reminders distinctly in the TUI, expose cron fired events to SDK…]]'
-- '[[Changes/Cursor/2026-06-04-reliable-wait-on-local-runs-local-runs-no-longer-resolve-wait-before-the-termina|Reliable
-  wait() on local runs]]'
+- '[[Changes/Devin/2026-06-05-lower-minimum-per-session-limit-for-automations|Lower
+  Minimum Per-Session Limit for Automations]]'
+- '[[Changes/Devin/2026-06-05-webhook-url-in-automation-editor|Webhook URL in Automation
+  Editor]]'
+- '[[Changes/Devin/2026-06-05-prompt-to-reconnect-linear|Prompt to Reconnect Linear]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-08-v2-1-169-github-336158564-d513d69d|claude-code-2026-06-08-v2-1-169-github-336158564-d513d69d]]'
 source_type: github_releases
 theme: automation-scheduling
@@ -87,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2026-06-04 · Cursor · [[Changes/Cursor/2026-06-04-reliable-wait-on-local-runs-local-runs-no-longer-resolve-wait-before-the-termina|Reliable wait() on local runs]]
+- Earlier: 2026-06-05 · Devin · [[Changes/Devin/2026-06-05-prompt-to-reconnect-linear|Prompt to Reconnect Linear]]
 - Later: 2026-06-09 · Codex CLI · [[Changes/Codex CLI/2026-06-09-plugin-marketplace-automation-is-more-informative-and-responsive-codex-plugin-ma|Plugin marketplace automation is more informative and responsive]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: adbba9cdb563ef19fd27ccefb053c6d343dcf6b45ef27f9992afbc2e13f2389d
+machine_hash: d0c9ce2f22684898fbab6703d5ebe6ba837081a377a85fbd8677be9bb2c487e2
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -57,10 +57,10 @@ record:
   title: 5 Interface Experience changes in HUB v2.29.0 — Voice mode, remote…
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-10-30-desktop-kept-the-current-and-command-menu-selection-stable-while-results-update|Desktop
-  Kept the current @ and command-menu selection stable while results update…]]'
 - '[[Changes/OpenCode/2026-10-30-desktop-added-the-missing-top-inset-to-the-search-field-in-the-recently-closed-m|Desktop
   Added the missing top inset to the search field in the recently closed menu]]'
+- '[[Changes/Raycast/2026-10-31-onboarding-added-a-new-onboarding-experience|Onboarding:
+  Added a new onboarding experience]]'
 - '[[Changes/ElevenLabs/2026-11-02-2-interface-experience-changes-in-elevenlabs-updates-2026-11-02|2
   Interface Experience changes in ElevenLabs updates — 2026-11-02]]'
 source_release: '[[Releases/Google Antigravity/google-antigravity-2026-11-03-rel-hub-2-29-0-801b565e|google-antigravity-2026-11-03-rel-hub-2-29-0-801b565e]]'

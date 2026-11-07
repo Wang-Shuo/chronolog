@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 55832448d7331cc86725dd854b05bb63cfc369919f8e5bc50614e7ffe529d59d
+machine_hash: 9492fb71d6fa1d7e72343758c16539f8638f14cea20ecaeea38dd60fe83aaccc
 product: opencode
 product_name: OpenCode
 record:
@@ -40,10 +40,10 @@ record:
   title: Core Improve app startup performance
   type: change
 related_changes:
-- '[[Changes/Dify/2026-03-27-2-reliability-and-performance-changes-in-1-13-3|2 Reliability
-  and Performance changes in 1.13.3]]'
 - '[[Changes/Ollama/2026-03-27-ollama-on-apple-silicon-is-now-built-https-ollama-com-blog-mlx-on-top-of-apple-s|Ollama
   on Apple silicon is now built((source link) on top…]]'
+- '[[Changes/Raycast/2026-03-27-file-search-using-a-new-indexing-engine-for-faster-search-results-and-more-filte|File
+  Search: Using a new indexing engine for faster search results and more…]]'
 - '[[Changes/Replit/2026-03-27-application-level-analytics|Application-level analytics]]'
 source_release: '[[Releases/OpenCode/opencode-2026-03-29-v1-3-6-6f35969f|opencode-2026-03-29-v1-3-6-6f35969f]]'
 source_type: opencode_changelog

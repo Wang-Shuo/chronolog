@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: e6b5b5418b53a3c8a0be56604833983b23c80524421d70b6f4b17873d507efc0
+machine_hash: 6a91cdaba240a9552f43401b17dd6c6f40c507154cedcd35e04ecb1c3e581a30
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-10-27 · OpenHands · [[Changes/OpenHands/2026-10-27-refactor-settings-use-existing-model-profile-theme-aliases-by-enyst-in-https-git|refactor(settings): use existing model-profile theme aliases]]
-- Later: 2026-10-29 · Codex CLI · [[Changes/Codex CLI/2026-10-29-10-model-support-changes-in-rust-v0-166-0|10 Model Support changes in rust-v0.166.0]]
+- Later: 2026-10-28 · Raycast · [[Changes/Raycast/2026-10-28-ai-added-the-same-reasoning-effort-shortcut-to-model-preference|AI: Added the same reasoning effort shortcut to model preference]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

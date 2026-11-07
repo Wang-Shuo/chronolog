@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5bb0aa14bb4e810be3f41018698441f2035c20105031d038a039c4e332518a12
+machine_hash: a81737597ac7ec92fd94d55fa99d5904e8c8a56eccfa397ea337257862fd00f4
 product: opencode
 product_name: OpenCode
 record:
@@ -90,7 +90,7 @@ Source: https://opencode.ai/changelog/v1.17.10
 ## Nearby in Interface Experience
 
 - Earlier: 2026-06-24 · Kimi Code · [[Changes/Kimi Code/2026-06-24-7-interface-experience-changes-in-kimi-code-0-19-2|7 Interface Experience changes in Kimi Code 0.19.2]]
-- Later: 2026-06-25 · Dify · [[Changes/Dify/2026-06-25-6-interface-experience-changes-in-1-15-0|6 Interface Experience changes in 1.15.0]]
+- Later: 2026-06-24 · Raycast · [[Changes/Raycast/2026-06-24-ai-chat-pressing-esc-only-closes-history-sidebar-when-in-overlay-mode|AI Chat : Pressing Esc only closes history sidebar when in overlay mode]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

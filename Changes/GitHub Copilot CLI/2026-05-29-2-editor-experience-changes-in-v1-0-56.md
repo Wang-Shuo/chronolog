@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d55bbd3809fbe12f212a872316200934b0634e9138112a0256404190b78a9205
+machine_hash: 267c1412862df36b6a5584bd82c9332b61dff7b24de398be122ab9d86f4af1ba
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -87,7 +87,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.56
 ## Nearby in Editor Experience
 
 - Earlier: 2026-05-29 · Claude Code · [[Changes/Claude Code/2026-05-29-removed-the-ide-for-startup-hint-toast|Removed the "/ide for …" startup hint toast]]
-- Later: 2026-06-01 · Codex CLI · [[Changes/Codex CLI/2026-06-01-2-editor-experience-changes-in-rust-v0-136-0|2 Editor Experience changes in rust-v0.136.0]]
+- Later: 2026-05-29 · Raycast · [[Changes/Raycast/2026-05-29-ai-sorted-out-large-inset-when-searching-in-ai-tab|AI: Sorted out large inset when searching in AI tab]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

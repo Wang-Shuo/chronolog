@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 30e6840e60808a726f1787a5e42226148da60871d79784db2a775687f683297a
+machine_hash: 1d66250fdb7f7f782c344c146e6c0fdb87cc9d759e2930cbaff781ff48888323
 product: open-webui
 product_name: Open WebUI
 record:
@@ -80,10 +80,10 @@ record:
   title: 6 Safety and Privacy changes in v0.6.23
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-08-13-ensure-sandbox-build-script-is-cross-platform-by-wldoooon-in-https-github-com-go|ensure
-  sandbox build script is cross-platform]]'
 - '[[Changes/Gemini CLI/2025-08-14-7-safety-and-privacy-changes-in-v0-1-21|7 Safety
   and Privacy changes in v0.1.21]]'
+- '[[Changes/AnythingLLM/2025-08-15-update-security-ui-to-match-all-other-settings-by-ashikaanand12-in-https-github|Update
+  Security UI to match all other Settings]]'
 - '[[Changes/Codex CLI/2025-08-20-2464-https-github-com-openai-codex-pull-2464-docs-document-writable-roots-for-sa|♯2464((source
   link) docs: document writable_roots…]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-08-21-v0-6-23-github-241603918-5e4a7f46|open-webui-2025-08-21-v0-6-23-github-241603918-5e4a7f46]]'

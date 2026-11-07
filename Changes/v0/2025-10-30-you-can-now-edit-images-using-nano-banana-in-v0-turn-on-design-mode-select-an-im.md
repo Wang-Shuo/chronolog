@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f66eeba0ad01561f77235753a6414cb17c692b6a94e28c3e56fc578357b4c128
+machine_hash: 4b07584b9df88019e6055e83e0dc47c7c49bb7d3f156b878bdf8b8a5e0677ea2
 product: v0
 product_name: v0
 record:
@@ -43,10 +43,10 @@ record:
   title: Image Editing with Nano Banana
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2025-10-24-3-editor-experience-changes-in-v0-0-351|3
-  Editor Experience changes in v0.0.351]]'
 - '[[Changes/Gemini CLI/2025-10-29-5-editor-experience-changes-in-v0-11-0|5 Editor
   Experience changes in v0.11.0]]'
+- '[[Changes/Raycast/2025-10-29-clipboard-history-added-a-new-edit-content-action|Clipboard
+  History : Added a new Edit Content action]]'
 - '[[Changes/Codex CLI/2025-10-30-chore-config-editor-in-https-github-com-openai-codex-pull-5878|chore:
   config editor in (source link)]]'
 source_release: '[[Releases/v0/v0-2025-10-30-2025-10-30-image-editing-nano-banana-12982633|v0-2025-10-30-2025-10-30-image-editing-nano-banana-12982633]]'

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: f61aaa618743a07f0960ddf48fc794a98ad0e67941390eed803ac50cc2793c81
+machine_hash: 68e42c26434a1c687a74a95644103ef32dcb329d1d5111bf6b254f7d19a42725
 product: replit
 product_name: Replit
 record:
@@ -47,12 +47,12 @@ record:
   title: Faster user deletion in CLUI
   type: change
 related_changes:
-- '[[Changes/Windsurf/2025-09-16-various-bug-fixes-and-stability-improvements|Various
-  bug fixes and stability improvements]]'
 - '[[Changes/ChatGPT/2025-09-17-2-reliability-and-performance-changes-in-toggle-thinking-time-in-the-message|2
   Reliability and Performance changes in Toggle thinking time in the message…]]'
 - '[[Changes/Open WebUI/2025-09-17-8-reliability-and-performance-changes-in-v0-6-29|8
   Reliability and Performance changes in v0.6.29]]'
+- '[[Changes/Devin/2025-09-19-git-permissions-performance-improvements|Git permissions
+  performance improvements]]'
 source_release: '[[Releases/Replit/replit-2025-09-19-2025-09-19-b0d6c042|replit-2025-09-19-2025-09-19-b0d6c042]]'
 source_type: replit_changelog
 theme: reliability-performance
@@ -88,7 +88,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-09-17 · Open WebUI · [[Changes/Open WebUI/2025-09-17-8-reliability-and-performance-changes-in-v0-6-29|8 Reliability and Performance changes in v0.6.29]]
+- Earlier: 2025-09-19 · Devin · [[Changes/Devin/2025-09-19-git-permissions-performance-improvements|Git permissions performance improvements]]
 - Later: 2025-09-22 · Dify · [[Changes/Dify/2025-09-22-5-reliability-and-performance-changes-in-1-9-0|5 Reliability and Performance changes in 1.9.0]]
 <!-- chronolog:end -->
 

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a807adc2e9c3b38159421b2e0366c0b54cee10ce3abfac650884fa46ed005798
+machine_hash: 86c6eacee7fcb2ea50d41f6ceb3b1ddf1222c697b2acb1954ae45c7c9570e4e6
 product: cursor
 product_name: Cursor
 record:
@@ -40,8 +40,7 @@ record:
   title: '1.4.5: Improved performance'
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-08-02-2-reliability-and-performance-changes-in-v0-1-16|2
-  Reliability and Performance changes in v0.1.16]]'
+- '[[Changes/Devin/2025-08-04-performance-optimizations|Performance Optimizations]]'
 - '[[Changes/Gemini CLI/2025-08-05-2-reliability-and-performance-changes-in-v0-1-17|2
   Reliability and Performance changes in v0.1.17]]'
 - '[[Changes/Ollama/2025-08-05-2-reliability-and-performance-changes-in-v0-11-0|2
@@ -84,7 +83,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2025-08-05 · Ollama · [[Changes/Ollama/2025-08-05-2-reliability-and-performance-changes-in-v0-11-0|2 Reliability and Performance changes in v0.11.0]]
-- Later: 2025-08-06 · Gemini · [[Changes/Gemini/2025-08-06-understand-complex-topics-faster-with-integrated-visuals-and-youtube-videos|Understand Complex Topics Faster with Integrated Visuals and YouTube videos]]
+- Later: 2025-08-06 · Devin · [[Changes/Devin/2025-08-06-various-reliability-performance-and-usability-improvements-across-the-app|Various reliability, performance, and usability improvements across the app]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

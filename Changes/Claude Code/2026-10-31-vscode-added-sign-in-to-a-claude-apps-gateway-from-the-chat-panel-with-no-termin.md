@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 823aae4ccb32d14ee68f79919948df3e902435ff64f4b9f752f1c0df2a4ac57c
+machine_hash: 994697dcbb9f7a6449fbaf0efe5a95a8eabb8911accdb4db45608246eb238da7
 product: claude-code
 product_name: Claude Code
 record:
@@ -95,7 +95,7 @@ type: change
 ## Nearby in Account and Access
 
 - Earlier: 2026-10-30 · OpenCode · [[Changes/OpenCode/2026-10-30-core-replaced-claude-code-s-misleading-login-instruction-with-claude-auth-login|Core Replaced Claude Code’s misleading /login instruction with claude auth login]]
-- Later: 2026-11-02 · ElevenLabs · [[Changes/ElevenLabs/2026-11-02-fixes-oauth-discovery-names-the-host-the-client-connected-to-so-mcp-clients-such|Fixes: OAuth discovery names the host the client connected to, so MCP clients…]]
+- Later: 2026-11-02 · Devin · [[Changes/Devin/2026-11-02-oauth-discovery-from-the-server-s-401|OAuth Discovery from the Server's 401]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

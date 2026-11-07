@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 19030285a6c4dfd9c4bf2e0e9bef32e2adad4ffedd833209d2c71900e728582d
+machine_hash: 7856e0965df0b16c0af5f89270d79909586019a48053cf57af7913a4fa6f8591
 product: openclaw
 product_name: OpenClaw
 record:
@@ -67,10 +67,8 @@ record:
   title: 5 Interface Experience changes in v2026.9.4
   type: change
 related_changes:
-- '[[Changes/Dify/2026-09-10-8-interface-experience-changes-in-1-17-1|8 Interface
-  Experience changes in 1.17.1]]'
-- '[[Changes/Claude Code/2026-09-11-3-interface-experience-changes-in-v2-1-269|3 Interface
-  Experience changes in v2.1.269]]'
+- '[[Changes/Devin/2026-09-11-sidebar-keyboard-navigation|Sidebar Keyboard Navigation]]'
+- '[[Changes/Devin/2026-09-11-jira-site-picker|Jira Site Picker]]'
 - '[[Changes/Lovable/2026-09-11-preview-a-remixable-project-without-signing-in|Preview
   a remixable project without signing in]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-09-11-v2026-9-4-6cdeafb2|openclaw-2026-09-11-v2026-9-4-6cdeafb2]]'
@@ -138,7 +136,7 @@ Source: https://docs.openclaw.ai/releases/2026.9.4
 ## Nearby in Interface Experience
 
 - Earlier: 2026-09-11 · Lovable · [[Changes/Lovable/2026-09-11-preview-a-remixable-project-without-signing-in|Preview a remixable project without signing in]]
-- Later: 2026-09-14 · Claude Code · [[Changes/Claude Code/2026-09-14-3-interface-experience-changes-in-v2-1-271|3 Interface Experience changes in v2.1.271]]
+- Later: 2026-09-11 · Raycast · [[Changes/Raycast/2026-09-11-2-interface-experience-changes-in-raycast-windows-2-3|2 Interface Experience changes in Raycast windows 2.3]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

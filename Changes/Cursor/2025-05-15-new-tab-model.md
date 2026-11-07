@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: de6ca11a828da3c13c2bb13e51306495dcb69e7d70043fa502477a522486ec6a
+machine_hash: f679189c12f45dfba1938ba2c4ddc2d3cb8816b60ad904dc04c181043a91bc2f
 product: cursor
 product_name: Cursor
 record:
@@ -104,7 +104,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2025-05-09 · Aider · [[Changes/Aider/2025-05-09-2-editor-experience-changes-in-v0-83-0|2 Editor Experience changes in v0.83.0]]
-- Later: 2025-05-15 · Dify · [[Changes/Dify/2025-05-15-ci-add-diff-to-lint-ci-by-yihong0618-in-https-github-com-langgenius-dify-pull-17|ci: add diff to lint ci]]
+- Later: 2025-05-15 · Devin · [[Changes/Devin/2025-05-15-devin-2-1-confidence-scores-and-enhanced-codebase-intelligence|Devin 2.1: Confidence Scores 🟢 🟡 🔴 and enhanced codebase intelligence]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

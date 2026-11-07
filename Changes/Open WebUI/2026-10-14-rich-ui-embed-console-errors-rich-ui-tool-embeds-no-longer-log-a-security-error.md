@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3ec93c644fbac6329097e7635719205ce0da8db3b4b72956e23b94d36ebace69
+machine_hash: 68160d0830c07710eb78cbeb08c3aeb98b13f6bce99f44e70043ecc3c01e45f8
 product: open-webui
 product_name: Open WebUI
 record:
@@ -51,10 +51,9 @@ record:
     log a security…"
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-14-2-safety-and-privacy-changes-in-v2-1-300|2 Safety
-  and Privacy changes in v2.1.300]]'
 - '[[Changes/Claude Code/2026-10-14-6-safety-and-privacy-changes-in-v2-1-299|6 Safety
   and Privacy changes in v2.1.299]]'
+- '[[Changes/Devin/2026-10-14-manage-devin-review-permission|Manage Devin Review Permission]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-14-resuming-a-session-now-respects-abandoned-pending-permission-work-and-continues|Resuming
   a session now respects abandoned pending-permission work and continues only…]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-10-14-v0-12-1-github-412917560-ae297772|open-webui-2026-10-14-v0-12-1-github-412917560-ae297772]]'

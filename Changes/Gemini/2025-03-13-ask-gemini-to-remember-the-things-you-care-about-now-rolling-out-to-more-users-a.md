@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: fd2c62de0eedc45532bccfedc875e08a6219fb326cdf7aa509fa9e5df78063b9
+machine_hash: 1a8435d983fcb1d9e909a1e07d46f39d810ef5548d49bba2868cd6c7fbc6fc60
 product: gemini
 product_name: Gemini
 record:
@@ -96,7 +96,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2025-03-11 · Descript · [[Changes/Descript/2025-03-11-editor-updates|Editor updates]]
-- Later: 2025-03-21 · Aider · [[Changes/Aider/2025-03-21-added-commands-to-switch-between-model-types-editor-model-for-editor-model-and-w|Added commands to switch between model types]]
+- Later: 2025-03-19 · Devin · [[Changes/Devin/2025-03-19-tag-sessions-with-custom-tags-that-you-can-filter-by-in-the-session-manager-clic|Tag sessions with custom tags that you can filter by in the Session Manager]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

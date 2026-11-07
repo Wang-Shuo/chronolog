@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 80a45cb6e86df81dbf6faa81fddc17f4db6302f6de3864658f8f5b1ef0dbc5f4
+machine_hash: 8d6368d5908872471198c02141903e3daa826154f6ec849bffae00bf17d8d866
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,7 +45,9 @@ record:
   title: 2 Mobile and Desktop changes in v2.1.181
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-06-15-ios-sdk|iOS SDK]]'
+- '[[Changes/AnythingLLM/2026-06-16-x-desktop-assistant-setting-hd-screenshots-now-available-for-screenshot-capture|x
+  Desktop Assistant Setting - HD screenshots now available for screenshot capture
+  area]]'
 - '[[Changes/Microsoft 365 Copilot/2026-06-16-anthropic-s-claude-now-available-in-microsoft-365-copilot-android-windows-ios-ma|Anthropic''s
   Claude now available in Microsoft 365 Copilot Android, Windows, iOS…]]'
 - '[[Changes/Windsurf/2026-06-16-the-3-2-series-brings-devin-local-enhancements-and-continued-devin-desktop-polis|The

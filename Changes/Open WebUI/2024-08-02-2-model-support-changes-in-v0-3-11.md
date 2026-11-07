@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0b0429d6d80da8917c5be9bd23b6cdb56df4208b56bd2dbdefa47d6d8d3f9b0f
+machine_hash: f3fd2163ca16da84d35837f143bc8351c35e68280cd90452da5bc2ac1fe94d54
 product: open-webui
 product_name: Open WebUI
 record:
@@ -44,12 +44,12 @@ record:
   title: 2 Model Support changes in v0.3.11
   type: change
 related_changes:
-- '[[Changes/Ollama/2024-07-30-3-model-support-changes-in-v0-3-1|3 Model Support changes
-  in v0.3.1]]'
 - '[[Changes/Aider/2024-07-31-added-strong-model-as-a-fallback-for-commit-messages-and-chat-summaries|Added
   strong model as a fallback for commit messages (and chat summaries)]]'
 - '[[Changes/OpenHands/2024-08-01-add-unit-tests-for-llm-init-function-by-neubig-in-https-github-com-opendevin-ope|Add
   unit tests for LLM init function]]'
+- '[[Changes/AnythingLLM/2024-08-02-gemini-pro-1-5-api-support-for-2m-context-and-new-experimental-model-by-rahswe-i|Gemini
+  Pro 1.5, API support for 2M context and new experimental model]]'
 source_release: '[[Releases/Open WebUI/open-webui-2024-08-02-v0-3-11-github-168514684-1f88ba87|open-webui-2024-08-02-v0-3-11-github-168514684-1f88ba87]]'
 source_type: github_releases
 theme: model-support
@@ -89,7 +89,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.3.11
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2024-08-01 · OpenHands · [[Changes/OpenHands/2024-08-01-add-unit-tests-for-llm-init-function-by-neubig-in-https-github-com-opendevin-ope|Add unit tests for LLM init function]]
+- Earlier: 2024-08-02 · AnythingLLM · [[Changes/AnythingLLM/2024-08-02-gemini-pro-1-5-api-support-for-2m-context-and-new-experimental-model-by-rahswe-i|Gemini Pro 1.5, API support for 2M context and new experimental model]]
 - Later: 2024-08-06 · Aider · [[Changes/Aider/2024-08-06-3-model-support-changes-in-v0-48-0|3 Model Support changes in v0.48.0]]
 <!-- chronolog:end -->
 

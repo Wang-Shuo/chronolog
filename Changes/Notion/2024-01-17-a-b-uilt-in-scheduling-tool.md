@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 5a4c18a1a7ed83a121838ddbe4f0fa21555d99a9c4e720fec4a3bc18a1b9f5f3
+machine_hash: 29998b50257105432a0ddd379bfedbf21a52d23d24806e7a8008a6ee6ac8894e
 product: notion
 product_name: Notion
 record:
@@ -54,11 +54,11 @@ record:
   title: A b uilt-in scheduling tool
   type: change
 related_changes:
-- '[[Changes/Gemini/2023-10-23-your-shared-conversations-now-support-uploaded-images|Your
-  shared conversations now support uploaded images]]'
 - "[[Changes/Dify/2024-01-02-the-dify-team|The Dify Team \U0001F6E0️]]"
 - '[[Changes/ChatGPT/2024-01-10-we-re-launching-a-new-chatgpt-plan-for-teams-of-all-sizes-which-provides-a-secur-c68432|Use
   ChatGPT alongside your team]]'
+- '[[Changes/Raycast/2024-01-10-changelog-added-an-action-to-copy-a-link-for-sharing-the-release-notes|Changelog:
+  Added an action to copy a link for sharing the release notes]]'
 source_release: '[[Releases/Notion/notion-2024-01-17-https-www-notion-com-releases-2024-01-17-1839a699|notion-2024-01-17-https-www-notion-com-releases-2024-01-17-1839a699]]'
 source_type: notion_changelog
 theme: collaboration
@@ -97,7 +97,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2024-01-10 · ChatGPT · [[Changes/ChatGPT/2024-01-10-we-re-launching-a-new-chatgpt-plan-for-teams-of-all-sizes-which-provides-a-secur-c68432|Use ChatGPT alongside your team]]
+- Earlier: 2024-01-10 · Raycast · [[Changes/Raycast/2024-01-10-changelog-added-an-action-to-copy-a-link-for-sharing-the-release-notes|Changelog: Added an action to copy a link for sharing the release notes]]
 - Later: 2024-01-26 · Runway · [[Changes/Runway/2024-01-26-share-custom-voices-with-a-workspace|Share Custom Voices with workspace]]
 <!-- chronolog:end -->
 

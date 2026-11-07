@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 430d9621a4f1cb71656366e4c1f177037237f5fa62c7a0a509a9b48fb8724b56
+machine_hash: 983d60f05e8b9c5a12c5ee472a2252a8ededb339d4ec66a67d916f6932357837
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -104,7 +104,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.76
 ## Nearby in Interface Experience
 
 - Earlier: 2026-07-29 · Kimi Code · [[Changes/Kimi Code/2026-07-29-add-a-customizable-footer-status-line-configured-via-status-line-in-tui-toml|Add a customizable footer status line, configured via status_line in tui.toml]]
-- Later: 2026-07-31 · Google Antigravity · [[Changes/Google Antigravity/2026-07-31-2-interface-experience-changes-in-hub-v2-5-0-enterprise-sign-in-gemini|2 Interface Experience changes in HUB v2.5.0 — Enterprise sign-in: Gemini…]]
+- Later: 2026-07-30 · Superwhisper · [[Changes/Superwhisper/2026-07-30-2-interface-experience-changes-in-superwhisper-windows-1-5-8|2 Interface Experience changes in Superwhisper Windows 1.5.8]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

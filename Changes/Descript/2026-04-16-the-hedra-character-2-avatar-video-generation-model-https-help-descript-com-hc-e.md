@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: video-generation
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: e1dd54c0ff35fd99b52af80814a6b38d5723a6209b1f7a5d294aa77f766fdedc
+machine_hash: efb65ed25a2c10ee365078fd49f04f5996462e5c0231d786dc62455b8ade6488
 product: descript
 product_name: Descript
 record:
@@ -58,11 +58,12 @@ record:
   title: The Hedra Character 2 [avatar video generation…
   type: change
 related_changes:
-- '[[Changes/HeyGen/2026-04-02-cinematic-avatar-scenes|Cinematic avatar scenes]]'
 - '[[Changes/HeyGen/2026-04-06-video-agent-now-generates-cinematic-footage-around-your-digital-twin-what-this-m|Video
   Agent now generates cinematic footage around your Digital Twin]]'
 - '[[Changes/Runway/2026-04-07-use-anything-text-image-video-or-audio-to-generate-or-edit-videos-with-seedance|Seedance
   2.0]]'
+- '[[Changes/Recraft/2026-04-14-we-ve-added-new-video-generation-models-seedance-2-0-seedance-2-0-fast-pixverse|Recraft
+  adds new video generation models]]'
 source_release: '[[Releases/Descript/descript-2026-04-16-69e11a9bcbb8c43b6e38c002-bf103ab2|descript-2026-04-16-69e11a9bcbb8c43b6e38c002-bf103ab2]]'
 source_type: canny_changelog
 theme: video-generation
@@ -103,7 +104,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Video Generation
 
-- Earlier: 2026-04-07 · Runway · [[Changes/Runway/2026-04-07-use-anything-text-image-video-or-audio-to-generate-or-edit-videos-with-seedance|Seedance 2.0]]
+- Earlier: 2026-04-14 · Recraft · [[Changes/Recraft/2026-04-14-we-ve-added-new-video-generation-models-seedance-2-0-seedance-2-0-fast-pixverse|Recraft adds new video generation models]]
 - Later: 2026-04-21 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-04-21-copilot-setting-for-video-generation-microsoft-365-copilot-admin-center|Copilot setting for video generation (Microsoft 365 Copilot admin center)]]
 <!-- chronolog:end -->
 

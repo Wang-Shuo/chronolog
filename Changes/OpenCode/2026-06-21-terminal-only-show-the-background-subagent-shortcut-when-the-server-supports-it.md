@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 026d28bea8bef09ef004c516481f0df343b31e05f7f1384810009f16972b6e30
+machine_hash: a201c4a28f3d5963688631b77ff138a104373a75ef0c9a1d89fa2d26948f9771
 product: opencode
 product_name: OpenCode
 record:
@@ -53,10 +53,10 @@ record:
     it
   type: change
 related_changes:
-- '[[Changes/Kimi Code/2026-06-17-skip-debug-tps-when-the-output-stream-is-too-short-to-measure-reliably|Skip
-  debug TPS when the output stream is too short to measure reliably]]'
 - '[[Changes/Codex CLI/2026-06-18-7-developer-workflow-changes-in-rust-v0-141-0|7
   Developer Workflow changes in rust-v0.141.0]]'
+- '[[Changes/Raycast/2026-06-18-ai-extensions-use-built-in-ai-extensions-like-file-explorer-selected-text-termin|AI
+  Extensions : Use built-in AI extensions like @file-explorer , @selected-text…]]'
 - '[[Changes/Claude Code/2026-06-19-removed-the-startup-setup-issues-line-under-the-logo-run-doctor-to-see-configura|Removed
   the startup "setup issues" line under the logo]]'
 source_release: '[[Releases/OpenCode/opencode-2026-06-21-v1-17-9-47e8ce83|opencode-2026-06-21-v1-17-9-47e8ce83]]'

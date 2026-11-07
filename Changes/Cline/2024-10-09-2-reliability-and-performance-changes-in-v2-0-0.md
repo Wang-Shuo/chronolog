@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2aced9091b8f597c910c875722d2b1bff37a10227d48c87a420b1580ce45f421
+machine_hash: dd04a71af2adaa9c5f9d86a81619c509d026a471774467f4f96f3787a747a396
 product: cline
 product_name: Cline
 record:
@@ -91,7 +91,7 @@ Source: https://github.com/cline/cline/releases/tag/v2.0.0
 ## Nearby in Reliability and Performance
 
 - Earlier: 2024-10-07 · Open WebUI · [[Changes/Open WebUI/2024-10-07-2-reliability-and-performance-changes-in-v0-3-31|2 Reliability and Performance changes in v0.3.31]]
-- Later: 2024-10-10 · Descript · [[Changes/Descript/2024-10-10-improved-ui-responsiveness-when-in-a-room-with-only-1-participant|Improved UI responsiveness when in a Room with only 1 participant]]
+- Later: 2024-10-09 · Superwhisper · [[Changes/Superwhisper/2024-10-09-performance-new-models|Performance & new Models]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

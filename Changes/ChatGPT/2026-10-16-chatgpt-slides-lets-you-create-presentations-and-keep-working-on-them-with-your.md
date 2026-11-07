@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2edfb01171811dbfedf41324431a112923638342923c48fcb6dddc3155b5dc12
+machine_hash: 3dcd214518a8390f33a9bfcc7d0b111c7e586a4369b10d22f02c386828ffa821
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2026-10-15 · OpenCode · [[Changes/OpenCode/2026-10-15-session-sharing-has-been-discontinued|Session sharing has been discontinued]]
-- Later: 2026-10-16 · Open WebUI · [[Changes/Open WebUI/2026-10-16-2-collaboration-changes-in-v0-12-3|2 Collaboration changes in v0.12.3]]
+- Later: 2026-10-16 · Devin · [[Changes/Devin/2026-10-16-microsoft-teams-separate-direct-messages-and-group-chats-access-settings|Microsoft Teams: Separate Direct Messages and Group Chats Access Settings]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

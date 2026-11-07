@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 14b4101f5086a5b5280d892596d4c2cc38e76618f2208beac25122c0ff9975c6
+machine_hash: 2948522d9f2360fc5c1010e90a1fe9afaed0a11cccf6f6158c0d6f29e9a089de
 product: descript
 product_name: Descript
 record:
@@ -45,8 +45,8 @@ record:
   title: Join CEO Andrew and the team for a live demonstration of Avatars
   type: change
 related_changes:
-- '[[Changes/Midjourney/2025-04-23-sharing-some-updates-that-we-ve-made-over-the-past-two-weeks|Sharing
-  some updates that we''ve made over the past two weeks]]'
+- '[[Changes/Devin/2025-04-25-share-wikis-and-answers-to-keep-everyone-on-the-same-page|Share
+  wikis and answers to keep everyone on the same page]]'
 - '[[Changes/Lovable/2025-04-25-lovable-2-0|Lovable 2.0]]'
 - '[[Changes/Replit/2025-04-25-team-invitation-improvements|Team invitation improvements]]'
 source_release: '[[Releases/Descript/descript-2025-04-29-6810fa96108000cd0e90472a-888e9880|descript-2025-04-29-6810fa96108000cd0e90472a-888e9880]]'

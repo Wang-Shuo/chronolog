@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ce14a8cf2462764d255c3ae24cbd03d947c7d1759bc8861f2d9a23c3f13819b0
+machine_hash: e2b9a2550dd27ed64eea1cd8d42808cf637c92aeda35262c61595463e20fd29e
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -45,8 +45,8 @@ record:
   title: 2 Agent Mode changes in Kimi Code 2.2.0
   type: change
 related_changes:
-- '[[Changes/Notion/2026-10-13-column-permissions-in-databases|Column permissions
-  in databases]]'
+- '[[Changes/Superwhisper/2026-10-13-the-agent-chat-no-longer-pops-up-over-an-agent-session-you-re-already-in|The
+  agent chat no longer pops up over an agent session you''re already in]]'
 - '[[Changes/Claude Code/2026-10-14-5-agent-mode-changes-in-v2-1-299|5 Agent Mode
   changes in v2.1.299]]'
 - '[[Changes/Claude Code/2026-10-14-3-agent-mode-changes-in-v2-1-300|3 Agent Mode

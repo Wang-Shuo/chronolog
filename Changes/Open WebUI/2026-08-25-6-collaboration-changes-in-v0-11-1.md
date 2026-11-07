@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e0dc97432101ecde91297216ada2b16e055a898f4ae03d284f8adcefde883919
+machine_hash: 486e60b09ae3d58972edae62e2d510dedf402546f5f81a1c6c194adb545c30a9
 product: open-webui
 product_name: Open WebUI
 record:
@@ -139,7 +139,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.11.1
 ## Nearby in Collaboration
 
 - Earlier: 2026-08-25 · Dify · [[Changes/Dify/2026-08-25-5-collaboration-changes-in-1-17-0|5 Collaboration changes in 1.17.0]]
-- Later: 2026-08-27 · Qoder · [[Changes/Qoder/2026-08-27-an-ecosystem-that-connects-with-70-plugins-20-000-skills-and-40-connectors-qoder|An ecosystem that connects]]
+- Later: 2026-08-26 · Devin · [[Changes/Devin/2026-08-26-allow-prs-to-be-opened-by-session-participants-configuration|Allow PRs to Be Opened by Session Participants Configuration]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: e4a9be7a8f4e08577c35686964ae807e3fa47af0e211b867a9b7f2eb300da1e7
+machine_hash: b7852fe2eea76ad54e7470a4ae69751d8b4cb983b5e859d9474cf1e6407db5ac
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -58,9 +58,9 @@ record:
     sound…
   type: change
 related_changes:
-- '[[Changes/Google Antigravity/2026-10-20-2-interface-experience-changes-in-hub-v2-25-0-plugin-sidebar-badges|2
-  Interface Experience changes in HUB v2.25.0 — Plugin sidebar badges…]]'
 - '[[Changes/Lovable/2026-10-20-redesigned-more-menu|Redesigned More menu]]'
+- '[[Changes/Superwhisper/2026-10-20-glass-buttons-in-the-history-selection-bar-with-select-multiple-now-working-dire|Glass
+  buttons in the History selection bar, with "Select Multiple" now working…]]'
 - '[[Changes/Google Antigravity/2026-10-22-the-more-actions-menu-on-conversations-in-the-sidebar-now-includes-pin-and-archi|The
   more-actions menu on conversations in the sidebar now includes Pin and Archive…]]'
 source_release: '[[Releases/Google Antigravity/google-antigravity-2026-10-22-rel-hub-2-26-0-335d6d26|google-antigravity-2026-10-22-rel-hub-2-26-0-335d6d26]]'
@@ -97,7 +97,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-10-20 · Lovable · [[Changes/Lovable/2026-10-20-redesigned-more-menu|Redesigned More menu]]
+- Earlier: 2026-10-20 · Superwhisper · [[Changes/Superwhisper/2026-10-20-glass-buttons-in-the-history-selection-bar-with-select-multiple-now-working-dire|Glass buttons in the History selection bar, with "Select Multiple" now working…]]
 - Later: 2026-10-22 · Qoder · [[Changes/Qoder/2026-10-22-sidebar-customization-reorder-navigation-entries-move-them-between-sections-and|Sidebar customization: Reorder navigation entries, move them between sections…]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 07404b9761827a28abc9c139ca2dbed201b8867d27663c7e0a15f2195637e953
+machine_hash: e68f690176b7393170d8afc0e178e1fd3942e60fdd76e7003c12737dbec35e85
 product: claude-code
 product_name: Claude Code
 record:
@@ -55,12 +55,12 @@ record:
   title: Changed Ctrl+L and Cmd+K in fullscreen to always just repaint
   type: change
 related_changes:
-- '[[Changes/Kimi Code/2026-08-18-2-interface-experience-changes-in-kimi-code-0-37-0|2
-  Interface Experience changes in Kimi Code 0.37.0]]'
-- '[[Changes/Claude Code/2026-08-19-changed-the-model-picker-to-highlight-only-the-newest-model-s-name-so-the-highli|Changed
-  the /model picker to highlight only the newest model''s name…]]'
-- '[[Changes/Kimi Code/2026-08-19-web-settings-gains-a-lab-tab-with-a-new-multi-tab-sidebar-toggle-when-enabled-th|web:
-  Settings gains a Lab tab with a new multi-tab sidebar toggle]]'
+- '[[Changes/Raycast/2026-08-19-3-interface-experience-changes-in-raycast-macos-0-71|3
+  Interface Experience changes in Raycast macos 0.71]]'
+- '[[Changes/Raycast/2026-08-19-use-the-send-focused-window-to-ai-command-choose-screen-awareness-from-the-menu-e3a747|Use
+  the Send Focused Window to AI command, choose Screen Awareness from the @ menu…]]'
+- '[[Changes/Raycast/2026-08-19-2-interface-experience-changes-in-raycast-windows-0-71|2
+  Interface Experience changes in Raycast windows 0.71]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-20-v2-1-238-github-373927029-c96744e2|claude-code-2026-08-20-v2-1-238-github-373927029-c96744e2]]'
 source_type: github_releases
 theme: interface-experience
@@ -95,7 +95,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-08-19 · Kimi Code · [[Changes/Kimi Code/2026-08-19-web-settings-gains-a-lab-tab-with-a-new-multi-tab-sidebar-toggle-when-enabled-th|web: Settings gains a Lab tab with a new multi-tab sidebar toggle]]
+- Earlier: 2026-08-19 · Raycast · [[Changes/Raycast/2026-08-19-2-interface-experience-changes-in-raycast-windows-0-71|2 Interface Experience changes in Raycast windows 0.71]]
 - Later: 2026-08-20 · Codex CLI · [[Changes/Codex CLI/2026-08-20-3-interface-experience-changes-in-rust-v0-149-0|3 Interface Experience changes in rust-v0.149.0]]
 <!-- chronolog:end -->
 

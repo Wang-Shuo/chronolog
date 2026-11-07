@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f1b4136b4110be2b516671f393f8a789e0855703fd629efb8344ce6514d593fe
+machine_hash: 1ea5dca6264b93371e24395b9d8339fc9b74ff1a66581f4c565adfe9efe5769f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,8 +42,8 @@ record:
   title: Pro Standard [Pro plans only]
   type: change
 related_changes:
-- '[[Changes/Kimi Code/2026-06-09-pass-through-xhigh-reasoning-effort-for-openai-compatible-chat-completions-reque|Pass
-  through xhigh reasoning effort for OpenAI-compatible chat completions requests]]'
+- '[[Changes/Superwhisper/2026-06-09-3-model-support-changes-in-superwhisper-macos-2-16-0|3
+  Model Support changes in Superwhisper macOS 2.16.0]]'
 - '[[Changes/ChatGPT/2026-06-10-pro-extended-pro-plans-only|Pro Extended Pro plans
   only]]'
 - '[[Changes/ChatGPT/2026-06-10-extra-high-pro-plans-only|Extra High Pro plans only]]'
@@ -77,7 +77,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-06-09 · Kimi Code · [[Changes/Kimi Code/2026-06-09-pass-through-xhigh-reasoning-effort-for-openai-compatible-chat-completions-reque|Pass through xhigh reasoning effort for OpenAI-compatible chat completions requests]]
+- Earlier: 2026-06-09 · Superwhisper · [[Changes/Superwhisper/2026-06-09-3-model-support-changes-in-superwhisper-macos-2-16-0|3 Model Support changes in Superwhisper macOS 2.16.0]]
 - Later: 2026-06-10 · Claude Code · [[Changes/Claude Code/2026-06-10-2-model-support-changes-in-v2-1-172|2 Model Support changes in v2.1.172]]
 <!-- chronolog:end -->
 

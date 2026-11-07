@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a5a9bb6d83c9fe46d4b588bc22e832e939f6b75cf86b6419c94eaa82a08db920
+machine_hash: de25afbd772649ca8a5d6594e9d4829f2713af64f8b9e5bc62bc1c59c56211bd
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -116,7 +116,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.1.21
 ## Nearby in Context Window
 
 - Earlier: 2025-08-13 · OpenHands · [[Changes/OpenHands/2025-08-13-2-context-window-changes-in-0-52-0|2 Context Window changes in 0.52.0]]
-- Later: 2025-08-15 · Cline · [[Changes/Cline/2025-08-15-auto-compact-context-management-by-0xtoshii-in-https-github-com-cline-cline-pull|auto compact - context management]]
+- Later: 2025-08-15 · AnythingLLM · [[Changes/AnythingLLM/2025-08-15-3-context-window-changes-in-v1-8-5|3 Context Window changes in v1.8.5]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

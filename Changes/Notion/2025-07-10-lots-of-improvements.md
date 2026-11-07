@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: d65f7798a79ac7a6820490fe77ec213576f112074ef88a26321eba4f4449890e
+machine_hash: f11f3cd8013dbb2b774aa5f23ff8db20972fbea71128b6245237599b2588eab4
 product: notion
 product_name: Notion
 record:
@@ -57,10 +57,10 @@ record:
   title: Lots of improvements!
   type: change
 related_changes:
-- '[[Changes/Ollama/2025-07-02-a-new-version-of-ollama-s-macos-and-windows-applications-are-now-available-new-i|A
-  new version of Ollama''s macOS and Windows applications are now available]]'
 - '[[Changes/Ollama/2025-07-02-3-mobile-and-desktop-changes-in-v0-9-5|3 Mobile and
   Desktop changes in v0.9.5]]'
+- '[[Changes/AnythingLLM/2025-07-09-2-mobile-and-desktop-changes-in-v1-8-3|2 Mobile
+  and Desktop changes in v1.8.3]]'
 - '[[Changes/Codex CLI/2025-07-10-thanks-to-pchuri-so-that-when-running-codex-installed-via-npm-process-platform-a|Thanks
   to @pchuri so that when running Codex installed via npm…]]'
 source_release: '[[Releases/Notion/notion-2025-07-10-https-www-notion-com-releases-2025-07-10-ecf58afd|notion-2025-07-10-https-www-notion-com-releases-2025-07-10-ecf58afd]]'

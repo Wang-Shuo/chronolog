@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: bb5e4a1e2d828a9052082fa7a4f9ef39afc71668bd2eeedc072b70dca01550cb
+machine_hash: 79cbcc1cdc7c44524c82ce22121c4a06543736a706f17a57e8d08f25545cd9f8
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -103,7 +103,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.119.0
 ## Nearby in Context Window
 
 - Earlier: 2026-04-10 · Claude Code · [[Changes/Claude Code/2026-04-10-improved-tool-not-available-errors-to-explain-why-and-how-to-proceed-when-the-mo|Improved tool-not-available errors to explain why and how to proceed when the model…]]
-- Later: 2026-04-11 · Codex CLI · [[Changes/Codex CLI/2026-04-11-3-context-window-changes-in-rust-v0-120-0|3 Context Window changes in rust-v0.120.0]]
+- Later: 2026-04-10 · Devin · [[Changes/Devin/2026-04-10-knowledge-search-auto-expand|Knowledge Search Auto-Expand]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

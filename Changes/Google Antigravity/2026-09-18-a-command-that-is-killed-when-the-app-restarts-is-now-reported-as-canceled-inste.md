@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1283a0c6d78757ffb39394ac9194dec59762cc2c57f6b9d732f58186913cc76c
+machine_hash: 9c4562b4373655ed77335a0cb1c9b05efe47e771b5a617946584bb79136d86fb
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -47,12 +47,12 @@ record:
     instead…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-09-17-the-status-row-now-says-it-is-waiting-for-background-shells-instead-of-working-w|The
-  status row now says it is waiting for background shells, instead…]]'
 - '[[Changes/Kimi Code/2026-09-17-render-mermaid-code-blocks-as-diagrams-in-the-terminal-turn-it-off-under-setting|Render
   mermaid code blocks as diagrams in the terminal]]'
 - '[[Changes/Claude Code/2026-09-18-improved-ultrareview-when-there-s-nothing-to-review-messages-say-which-case-you|Improved
   /ultrareview when there''s nothing to review]]'
+- '[[Changes/Devin/2026-09-18-perforce-workspace-follows-connection-changes|Perforce:
+  Workspace Follows Connection Changes]]'
 source_release: '[[Releases/Google Antigravity/google-antigravity-2026-09-18-rel-hub-2-15-0-48b37e09|google-antigravity-2026-09-18-rel-hub-2-15-0-48b37e09]]'
 source_type: antigravity_changelog
 theme: developer-workflow
@@ -87,7 +87,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-09-18 · Claude Code · [[Changes/Claude Code/2026-09-18-improved-ultrareview-when-there-s-nothing-to-review-messages-say-which-case-you|Improved /ultrareview when there's nothing to review]]
+- Earlier: 2026-09-18 · Devin · [[Changes/Devin/2026-09-18-perforce-workspace-follows-connection-changes|Perforce: Workspace Follows Connection Changes]]
 - Later: 2026-09-18 · Qoder · [[Changes/Qoder/2026-09-18-worktree-improved-starting-point-list-loading-and-creation-preparation-for-large|Worktree: Improved starting-point list loading and creation preparation…]]
 <!-- chronolog:end -->
 

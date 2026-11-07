@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 671827a9fd4444e2073886e5171f3fcfbc60982848af35ab4b459046164573a2
+machine_hash: 5747236ab9ad8e0eb9c89c5ea1bee03a363c333ea4bd8f38d6db12f69284b263
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -91,7 +91,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2025-12-31 · OpenCode · [[Changes/OpenCode/2025-12-31-5-model-support-changes-in-v1-0-219|5 Model Support changes in v1.0.219]]
-- Later: 2026-01-04 · OpenCode · [[Changes/OpenCode/2026-01-04-3-model-support-changes-in-v1-1-1|3 Model Support changes in v1.1.1]]
+- Later: 2026-01-02 · Superwhisper · [[Changes/Superwhisper/2026-01-02-model-library|Model Library]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

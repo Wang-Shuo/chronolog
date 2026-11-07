@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: bd301a32fa6b16c1d53f3419e2ee35eaa027e8ffb7bbe50226f89641d945e857
+machine_hash: 6bd812b0105e960692419f09af56fb59d9bc53ade47b4c0c36069da6db426a2b
 product: openclaw
 product_name: OpenClaw
 record:
@@ -101,9 +101,10 @@ record:
   title: 8 Voice and Audio changes in v2026.10.1
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-10-08-2-voice-and-audio-changes-in-v2026-9-9|2 Voice and
-  Audio changes in v2026.9.9]]'
-- '[[Changes/Suno/2026-10-08-clip-fade-curves|Clip fade curves]]'
+- '[[Changes/Raycast/2026-10-09-2-voice-and-audio-changes-in-raycast-windows-2-7|2
+  Voice and Audio changes in Raycast windows 2.7]]'
+- '[[Changes/Wispr Flow/2026-10-09-meeting-recordings-recover-from-save-and-upload-errors-notetaker|Meeting
+  recordings recover from save and upload errors (Notetaker)]]'
 - '[[Changes/Open WebUI/2026-10-10-12-voice-and-audio-changes-in-v0-12-0|12 Voice
   and Audio changes in v0.12.0]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-10-10-v2026-10-1-d64e4e93|openclaw-2026-10-10-v2026-10-1-d64e4e93]]'

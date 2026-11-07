@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: dfa23f4a3188af81013e36d04e86e303b13353824609b7e346cb53e69b671d42
+machine_hash: a171bdeedaf6dd4b665a8db1494948f3a363d69c43c8c3ea78e134f16b9c5bbf
 product: replit
 product_name: Replit
 record:
@@ -47,8 +47,8 @@ record:
   title: SOC 2 Type II certification
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-08-14-7-safety-and-privacy-changes-in-v0-1-21|7 Safety
-  and Privacy changes in v0.1.21]]'
+- '[[Changes/AnythingLLM/2025-08-15-update-security-ui-to-match-all-other-settings-by-ashikaanand12-in-https-github|Update
+  Security UI to match all other Settings]]'
 - '[[Changes/Codex CLI/2025-08-20-2464-https-github-com-openai-codex-pull-2464-docs-document-writable-roots-for-sa|♯2464((source
   link) docs: document writable_roots…]]'
 - '[[Changes/Open WebUI/2025-08-21-6-safety-and-privacy-changes-in-v0-6-23|6 Safety

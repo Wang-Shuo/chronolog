@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 2047b2a1b455c4c41f4078eab77a32c71b6d9373cdd7c36cb9db4b86b30ab236
+machine_hash: 71be0626161fc4440adfa2d639d48f18f49625c450f219c6b551c6773c9fa16f
 product: claude
 product_name: Claude
 record:
@@ -46,10 +46,12 @@ record:
   title: Claude Fable 5 launch
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-06-08-text-to-speech|Text to Speech]]'
-- '[[Changes/ElevenLabs/2026-06-08-javascript-sdk|JavaScript SDK]]'
+- '[[Changes/LM Studio/2026-06-08-use-lm-link-in-locally-to-take-your-largest-lm-studio-models-on-the-go|Use
+  LM Link in Locally to take your largest LM Studio models on the go]]'
 - '[[Changes/v0/2026-06-08-v0-max-now-runs-on-claude-opus-4-8-and-max-fast-on-opus-4-8-fast-at-about-a-thir|v0
   Max now runs on Claude Opus 4.8, and Max Fast on Opus 4.8 Fast at about a third…]]'
+- '[[Changes/AnythingLLM/2026-06-09-4-model-support-changes-in-v1-14-0|4 Model Support
+  changes in v1.14.0]]'
 source_release: '[[Releases/Claude/claude-2026-06-09-2026-06-09-9ed8ab97|claude-2026-06-09-2026-06-09-9ed8ab97]]'
 source_type: claude_changelog
 theme: model-support
@@ -76,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-06-08 · v0 · [[Changes/v0/2026-06-08-v0-max-now-runs-on-claude-opus-4-8-and-max-fast-on-opus-4-8-fast-at-about-a-thir|v0 Max now runs on Claude Opus 4.8, and Max Fast on Opus 4.8 Fast at about a third…]]
+- Earlier: 2026-06-09 · AnythingLLM · [[Changes/AnythingLLM/2026-06-09-4-model-support-changes-in-v1-14-0|4 Model Support changes in v1.14.0]]
 - Later: 2026-06-09 · Claude Code · [[Changes/Claude Code/2026-06-09-introducing-claude-fable-5-a-mythos-class-model-that-we-ve-made-safe-for-general|Introducing Claude Fable 5: a Mythos-class model that we’ve made safe for general use]]
 <!-- chronolog:end -->
 

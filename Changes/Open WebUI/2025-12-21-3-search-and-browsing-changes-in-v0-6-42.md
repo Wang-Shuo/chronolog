@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0b5a7bfc4acd36e54858170a71e613d49300e2fae7c4ce0ea5c54df1c2b4f228
+machine_hash: 906a4cde3988d3815231a13e7030c7d87bdfb1dedca78d37fc610454bf285b80
 product: open-webui
 product_name: Open WebUI
 record:
@@ -55,8 +55,8 @@ record:
   title: 3 Search and Browsing changes in v0.6.42
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2025-12-02-web-search-domain-filtering-was-corrected-to-properly-block-results-when-any-res|\U0001F6E1️
-  Web search domain filtering was corrected to properly block results when any…]]"
+- '[[Changes/AnythingLLM/2025-12-09-add-serpapi-web-search-by-alexbarron-in-https-github-com-mintplex-labs-anything|Add
+  SerpApi web search]]'
 - '[[Changes/Gamma/2025-12-17-want-your-site-to-show-up-in-search-results-now-you-can-enable-indexing-to-help|Want
   your site to show up in search results?]]'
 - "[[Changes/HeyGen/2025-12-19-heygen-moves-fast-until-now-keeping-track-of-those-changes-could-be-a-challenge|We're

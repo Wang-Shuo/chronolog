@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 47049a4cfe64b96234a56013a8ae5883f380dc83487037296f2d44490e372c78
+machine_hash: 2c3d790aa1d811b7ab890b6e93b476d00b00d83991955113af707cfd21d9b5c7
 product: ollama
 product_name: Ollama
 record:
@@ -59,8 +59,7 @@ record:
     coding…'
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-06-04-added-cline-cli-integration-docs|Added Cline CLI integration
-  docs]]'
+- '[[Changes/Devin/2026-06-05-jira-webhook-failure-recovery|Jira Webhook Failure Recovery]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-05-mcp-tools-added-or-removed-by-a-server-mid-turn-are-now-available-immediately-in|MCP
   tools added or removed by a server mid-turn are now available immediately…]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-05-10-apps-and-integrations-changes-in-v1-0-60|10

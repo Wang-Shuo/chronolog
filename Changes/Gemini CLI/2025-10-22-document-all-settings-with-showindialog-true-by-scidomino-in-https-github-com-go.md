@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 48477b31b288081302d9f08e45e51bc261f1c249886ce330735776efa26aec57
+machine_hash: 0134a166e6091267ebc74be2ff1055ba1c8270db0156de394a36229dd7a51076
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -43,10 +43,10 @@ record:
   title: 'document all settings with showInDialog: true'
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-10-07-2-files-and-data-changes-in-v0-8-0|2 Files and
-  Data changes in v0.8.0]]'
 - '[[Changes/Open WebUI/2025-10-07-2-files-and-data-changes-in-v0-6-33|2 Files and
   Data changes in v0.6.33]]'
+- '[[Changes/AnythingLLM/2025-10-09-2-files-and-data-changes-in-v1-9-0|2 Files and
+  Data changes in v1.9.0]]'
 - '[[Changes/Open WebUI/2025-10-16-2-files-and-data-changes-in-v0-6-34|2 Files and
   Data changes in v0.6.34]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-10-22-v0-10-0-github-256434073-b3dd91c0|gemini-cli-2025-10-22-v0-10-0-github-256434073-b3dd91c0]]'

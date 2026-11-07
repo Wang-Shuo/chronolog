@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 22df341d56cbd42f3f6eb9352359ad9ab602dfc6158d402deb272fbb5320b0bd
+machine_hash: 6f9fd50ddc6100ccdfda9d91e035ce0792ef3ae9ee7f09844d0fbf9c0924af93
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -51,8 +51,8 @@ record:
   title: 5 Model Support changes in rust-v0.118.0
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2026-03-27-admin-model-visibility-administrators-can-now-see-models-even-when-no-access-con|\U0001F451
-  Admin model visibility. Administrators can now see models even when no access…]]"
+- '[[Changes/Raycast/2026-03-27-2-model-support-changes-in-raycast-macos-0-51|2 Model
+  Support changes in Raycast macos 0.51]]'
 - '[[Changes/OpenCode/2026-03-29-2-model-support-changes-in-v1-3-6-2|2 Model Support
   changes in v1.3.6 + 2]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-30-2-model-support-changes-in-v1-0-13|2 Model

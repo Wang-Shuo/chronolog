@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 79ab7f1190bd28df520ded0caa22243dcc118f02242f9214d2be0c1c1d9d8155
+machine_hash: 5fb5065d9e73008afd51962bd5093b581fbfdd3d545c2f683256b57f2c7b1878
 product: open-webui
 product_name: Open WebUI
 record:
@@ -48,8 +48,8 @@ record:
   title: 2 Image Generation changes in v0.9.5
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-04-21-4-image-generation-changes-in-v0-9-0|4 Image Generation
-  changes in v0.9.0]]'
+- '[[Changes/Recraft/2026-04-24-we-ve-added-gpt-image-2-now-available-to-all-paid-subscribers|Recraft
+  adds GPT Image 2, now available to all paid subscribers]]'
 - '[[Changes/Codex CLI/2026-04-30-19443-add-gpt-image-2-to-bundled-openai-docs-skill-kkahadze-oai|♯19443
   Add gpt-image-2 to bundled OpenAI Docs skill @kkahadze-oai]]'
 - '[[Changes/Ollama/2026-05-07-cleaner-image-generation-layout-in-the-mlx-runner|Cleaner

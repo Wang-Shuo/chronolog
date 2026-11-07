@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 246a536985f7a65d6814f7a1e4658e64fc984f1219709b0de4cf0b636ff7429a
+machine_hash: 2e33b9886f846e328b9929fc0b87979ae4e40e2b82482cd215002dcc36629388
 product: openclaw
 product_name: OpenClaw
 record:
@@ -69,12 +69,12 @@ record:
   title: 8 Search and Browsing changes in v2026.7.1
   type: change
 related_changes:
-- '[[Changes/Kimi Code/2026-07-02-save-shell-commands-to-input-history-and-recall-them-in-bash-mode-press-up-on-an|Save
-  shell commands to input history and recall them in bash mode]]'
-- '[[Changes/Kimi Code/2026-07-06-web-add-an-archived-sessions-page-in-settings-to-browse-and-restore-archived-ses|web:
-  Add an Archived sessions page in Settings to browse and restore archived sessions]]'
 - '[[Changes/Codex CLI/2026-07-09-31525-core-migrate-standalone-web-search-to-extension-owned-turn-items-owenlin0|♯31525
   core: migrate standalone web search to extension-owned turn items @owenlin0]]'
+- '[[Changes/Raycast/2026-07-09-root-search-removed-tab-to-browse-on-file-search-items-to-improve-consistency-ar|Root
+  Search : Removed Tab to browse on file search items to improve consistency…]]'
+- '[[Changes/Raycast/2026-07-09-root-search-removed-tab-to-browse-on-file-search-items-to-improve-consistency-ar-fe8486|Root
+  Search : Removed Tab to browse on file search items to improve consistency…]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-07-13-v2026-7-1-c2063718|openclaw-2026-07-13-v2026-7-1-c2063718]]'
 source_type: openclaw_changelog
 theme: search-browsing
@@ -146,7 +146,7 @@ Source: https://docs.openclaw.ai/releases/2026.7.1
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Search and Browsing
 
-- Earlier: 2026-07-09 · Codex CLI · [[Changes/Codex CLI/2026-07-09-31525-core-migrate-standalone-web-search-to-extension-owned-turn-items-owenlin0|♯31525 core: migrate standalone web search to extension-owned turn items @owenlin0]]
+- Earlier: 2026-07-09 · Raycast · [[Changes/Raycast/2026-07-09-root-search-removed-tab-to-browse-on-file-search-items-to-improve-consistency-ar-fe8486|Root Search : Removed Tab to browse on file search items to improve consistency…]]
 - Later: 2026-07-13 · OpenCode · [[Changes/OpenCode/2026-07-13-desktop-updated-the-review-panel-with-persistent-file-browsing-better-file-tabs|Desktop Updated the review panel with persistent file browsing, better file tabs…]]
 <!-- chronolog:end -->
 

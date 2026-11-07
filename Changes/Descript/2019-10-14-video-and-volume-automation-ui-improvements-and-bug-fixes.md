@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 66d32536edef99a351b2a3e24e9f99a5a668e2dea2649609eda926442cb72544
+machine_hash: 2c12d2eea9078ba5c83f4cf899142f440dbdd78a454677c192e3e8713dd3bb74
 product: descript
 product_name: Descript
 record:
@@ -70,7 +70,7 @@ type: change
 ## Nearby in Automation and Scheduling
 
 - Earlier: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change gain, with volume automation]]
-- Later: 2020-11-19 · Notion · [[Changes/Notion/2020-11-19-automate-user-and-group-provisioning-with-notion-s-scim-api|Automate user and group provisioning with Notion's SCIM API 🔁]]
+- Later: 2020-09-08 · Raycast · [[Changes/Raycast/2020-09-08-calendar-check-your-schedule-and-join-conference-calls|Calendar: Check your schedule and join conference calls]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

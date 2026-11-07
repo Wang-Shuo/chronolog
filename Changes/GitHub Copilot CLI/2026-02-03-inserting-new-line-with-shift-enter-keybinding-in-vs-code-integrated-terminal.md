@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 5fa4b789d953fe2f006bc90c720bc5d1ed26737266bdaf3e5b15fb5e579ccfc1
+machine_hash: b0c5597dad27f6c55c3f8e6271be9738f32019a90a801e6683efcd0e0e7c1a94
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -53,10 +53,9 @@ record:
   title: Inserting new line with shift+enter keybinding in VS Code integrated terminal
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-02-01-ollama-launch-openclaw-will-now-enter-the-standard-openclaw-onboarding-flow-if-t|ollama
-  launch openclaw will now enter the standard OpenClaw onboarding flow if…]]'
-- '[[Changes/Codex CLI/2026-02-02-2-interface-experience-changes-in-rust-v0-94-0|2
-  Interface Experience changes in rust-v0.94.0]]'
+- '[[Changes/Devin/2026-02-03-settings-sidebar-reorganization|Settings Sidebar Reorganization]]'
+- '[[Changes/Devin/2026-02-03-devin-review-file-comments-and-mentions|Devin Review:
+  File Comments and @Mentions]]'
 - '[[Changes/Dify/2026-02-03-test-enhance-hittestingpage-tests-with-additional-coverage-for-rendering-and-sta|test:
   enhance HitTestingPage tests with additional coverage for rendering and state…]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-02-03-v0-0-401-github-282605019-24696a01|github-copilot-cli-2026-02-03-v0-0-401-github-282605019-24696a01]]'

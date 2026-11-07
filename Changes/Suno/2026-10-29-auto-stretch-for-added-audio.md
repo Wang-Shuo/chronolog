@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 80c9b88ef0d970432ee0fde8a4f6414322a3364decda4c6a8c4c57139f30c9cb
+machine_hash: b6387a5b7b872ef96b160c675b8401571903a80e424e0185881b6b8629b1d323
 product: suno
 product_name: Suno
 record:
@@ -50,10 +50,9 @@ record:
   title: Auto-stretch for Added Audio
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-10-28-liquid-ai-s-lfm3-https-ollama-com-library-lfm3-models-including-text-to-speech-i|Liquid
-  AI''s LFM3((source link) models, including text-to-speech…]]'
-- "[[Changes/Open WebUI/2026-10-29-read-aloud-with-kokoro-js-read-aloud-now-speaks-with-the-chosen-kokoro-voice-whe|\U0001F50A
-  Read Aloud with Kokoro.js. Read Aloud now speaks with the chosen Kokoro voice…]]"
+- '[[Changes/Raycast/2026-10-29-dictation-export-recordings-from-dictation-history|Dictation
+  : Export recordings from Dictation History]]'
+- '[[Changes/Raycast/2026-10-29-dictation-improved-stability|Dictation: Improved stability]]'
 - '[[Changes/Suno/2026-10-29-fine-pitch-adjustment|Fine Pitch Adjustment]]'
 source_release: '[[Releases/Suno/suno-2026-10-29-e-more-studio-updates-oct26-37e23464|suno-2026-10-29-e-more-studio-updates-oct26-37e23464]]'
 source_type: suno_changelog
@@ -84,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-10-29 · Open WebUI · [[Changes/Open WebUI/2026-10-29-read-aloud-with-kokoro-js-read-aloud-now-speaks-with-the-chosen-kokoro-voice-whe|🔊 Read Aloud with Kokoro.js. Read Aloud now speaks with the chosen Kokoro voice…]]
+- Earlier: 2026-10-29 · Raycast · [[Changes/Raycast/2026-10-29-dictation-improved-stability|Dictation: Improved stability]]
 - Later: 2026-11-02 · ElevenLabs · [[Changes/ElevenLabs/2026-11-02-python-sdk|Python SDK]]
 <!-- chronolog:end -->
 

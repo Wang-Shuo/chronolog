@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1e7e7cfe17407a99fdbd5596c4a808d4b6d7be957c4c4de1d1a732d15eed2002
+machine_hash: 0b5a4ef4c0729deaf1a7bb2e4a8b39e1446a6600c13aed025f8aab5599f6e5f6
 product: opencode
 product_name: OpenCode
 record:
@@ -53,10 +53,10 @@ record:
     Policy'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-01-27-2-safety-and-privacy-changes-in-rust-v0-92-0|2 Safety
-  and Privacy changes in rust-v0.92.0]]'
 - '[[Changes/Gemini CLI/2026-01-28-3-safety-and-privacy-changes-in-v0-26-0|3 Safety
   and Privacy changes in v0.26.0]]'
+- '[[Changes/LM Studio/2026-01-28-allow-creating-permission-tokens-without-allowed-mcp-permissions|Allow
+  creating permission tokens without allowed MCP permissions]]'
 - '[[Changes/Claude Code/2026-01-29-fixed-per-user-temp-directory-isolation-to-prevent-permission-conflicts-on-share|Fixed
   per-user temp directory isolation to prevent permission conflicts on shared systems]]'
 source_release: '[[Releases/OpenCode/opencode-2026-01-29-v1-1-41-80cd651c|opencode-2026-01-29-v1-1-41-80cd651c]]'

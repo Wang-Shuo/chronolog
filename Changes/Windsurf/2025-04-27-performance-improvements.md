@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 80e35a544f4da8894bba26b1e2c393269f77021850959a11b4269ee8071f47ec
+machine_hash: 767aba56733614b502f4e5b627a192dbba8f94a26f7b05da80bf3c9795979e5d
 product: windsurf
 product_name: Windsurf
 record:
@@ -50,11 +50,12 @@ record:
   title: Performance Improvements
   type: change
 related_changes:
-- '[[Changes/Replit/2025-04-18-faster-ai-responses|Faster AI responses]]'
 - '[[Changes/Descript/2025-04-22-the-new-screen-recorder-in-beta-this-week|The new
   Screen recorder—in Beta this week]]'
 - '[[Changes/Dify/2025-04-23-chore-speed-up-git-checkout-by-removing-fetch-depth-0-to-avoid-pulling-all-tags|chore:
   speed up git checkout by removing fetch-depth 0 to avoid pulling all tags…]]'
+- '[[Changes/LM Studio/2025-04-24-dramatically-faster-first-time-model-load-times-on-rtx-50-series-gpus|Dramatically
+  faster first-time model load times on RTX 50-series GPUs]]'
 source_release: '[[Releases/Windsurf/windsurf-2025-04-27-v1-7-2-dbe56aee|windsurf-2025-04-27-v1-7-2-dbe56aee]]'
 source_type: windsurf_changelog
 theme: reliability-performance
@@ -91,7 +92,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-04-23 · Dify · [[Changes/Dify/2025-04-23-chore-speed-up-git-checkout-by-removing-fetch-depth-0-to-avoid-pulling-all-tags|chore: speed up git checkout by removing fetch-depth 0 to avoid pulling all tags…]]
+- Earlier: 2025-04-24 · LM Studio · [[Changes/LM Studio/2025-04-24-dramatically-faster-first-time-model-load-times-on-rtx-50-series-gpus|Dramatically faster first-time model load times on RTX 50-series GPUs]]
 - Later: 2025-05-01 · Suno · [[Changes/Suno/2025-05-01-faster-creation-speed-is-substantially-improved-for-your-creative-process|Faster creation — Speed is substantially improved for your creative process]]
 <!-- chronolog:end -->
 

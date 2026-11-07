@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: cdcec81ae375343adeb7c887fd85f1db500c8c8e2b17472df0bce977c056e044
+machine_hash: 441cecfde5cf7c801f08f325b3c406e4a19e5ad74bb6b30877126b40d18b8cb2
 product: descript
 product_name: Descript
 record:
@@ -80,7 +80,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2024-12-11 · Midjourney · [[Changes/Midjourney/2024-12-11-action-bar|Action Bar]]
-- Later: 2024-12-25 · Open WebUI · [[Changes/Open WebUI/2024-12-25-quick-screen-capture-button-effortlessly-capture-your-screen-with-a-single-click|📸 Quick Screen Capture Button]]
+- Later: 2024-12-24 · Devin · [[Changes/Devin/2024-12-24-more-options-to-customize-devin|More options to customize Devin]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: dcd5ee164d7416097a4af6144622df45f0627f2d824e04725f580a24f07f23a0
+machine_hash: 20671c01b42d0a3ca3fe83cfd8a91c70c51c47e524df2c554e6026a259a36bc8
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -46,12 +46,11 @@ record:
   title: Enrich PATH from the user's login shell at startup, so shell commands find…
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-07-01-desktop-streamline-wsl-server-setup-with-clearer-distro-checks-and-install-flows|Desktop
-  Streamline WSL server setup with clearer distro checks and install flows]]'
-- '[[Changes/Claude Code/2026-07-02-claude-agents-session-rows-now-show-pull-request-links-as-bare-n-without-the-red|claude
-  agents session rows now show pull-request links as bare ♯N without…]]'
 - '[[Changes/Kimi Code/2026-07-02-show-draft-pull-requests-with-a-distinct-draft-status-instead-of-displaying-them|Show
   draft pull requests with a distinct draft status instead of displaying them as open]]'
+- '[[Changes/Devin/2026-07-03-git-backed-blueprints|Git-Backed Blueprints]]'
+- '[[Changes/Devin/2026-07-03-this-release-also-includes-fixes-for-virtualized-review-comments-hijacking-scrol|This
+  release also includes fixes for virtualized Review comments hijacking scroll…]]'
 source_release: '[[Releases/Kimi Code/kimi-code-2026-07-03-0-22-2-40f69b2e|kimi-code-2026-07-03-0-22-2-40f69b2e]]'
 source_type: kimi_code_changelog
 theme: developer-workflow
@@ -84,8 +83,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-07-02 · Kimi Code · [[Changes/Kimi Code/2026-07-02-show-draft-pull-requests-with-a-distinct-draft-status-instead-of-displaying-them|Show draft pull requests with a distinct draft status instead of displaying them as open]]
-- Later: 2026-07-06 · Claude Code · [[Changes/Claude Code/2026-07-06-changed-review-pr-back-to-a-fast-single-pass-review-use-code-review-level-pr-for|Changed /review pr back to a fast single-pass review]]
+- Earlier: 2026-07-03 · Devin · [[Changes/Devin/2026-07-03-this-release-also-includes-fixes-for-virtualized-review-comments-hijacking-scrol|This release also includes fixes for virtualized Review comments hijacking scroll…]]
+- Later: 2026-07-03 · Raycast · [[Changes/Raycast/2026-07-03-windows-management-you-can-now-minimize-current-window-with-the-minimize-command|Windows Management : You can now minimize current window with the Minimize command]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

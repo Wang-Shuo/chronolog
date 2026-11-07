@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1097266eff1b909caa672a293b5779a170f7c62d829829669a1639089368965c
+machine_hash: fab328db701c6d282b7266b3ae8aa927677d9e5c5d9f8b81cd3c6444760594b7
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,10 +44,10 @@ record:
     HTTPS…
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-05-12-5-apps-and-integrations-changes-in-v0-42-0|5 Apps
-  and Integrations changes in v0.42.0]]'
 - '[[Changes/Ollama/2026-05-12-test-integration-test-hardening-by-dhiltgen-in-https-github-com-ollama-ollama-pu|test:
   integration test hardening]]'
+- '[[Changes/Raycast/2026-05-12-clipboard-history-improved-color-categorization-when-copying-unqualified-hex-cod|Clipboard
+  History : Improved color categorization when copying unqualified hex codes…]]'
 - '[[Changes/v0/2026-05-12-custom-auth-headers-for-connected-mcp-servers-no-longer-get-stripped-after-the-f|Custom
   auth headers for connected MCP servers no longer get stripped after the first…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-13-v2-1-141-github-322186176-9f8e2e22|claude-code-2026-05-13-v2-1-141-github-322186176-9f8e2e22]]'

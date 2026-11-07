@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a450f16e61d464259fce5f78b6cda634ad4e811c691b41e323f873c99e6ba4c0
+machine_hash: 544c485d033a6008121db202604a0639cf6e13d57d8a14df2833fd1d93eae17b
 product: descript
 product_name: Descript
 record:
@@ -43,12 +43,12 @@ record:
   title: Fullscreen webcam recording (Mac)
   type: change
 related_changes:
-- '[[Changes/Notion/2020-11-19-added-a-duplicate-button-to-the-menu-for-pages-within-databases-it-s-now-possibl|Added
-  a Duplicate button to the ••• menu for pages within databases]]'
 - '[[Changes/Descript/2021-01-27-you-can-now-export-animated-gif-s-in-addition-to-mp4-files-from-the-video-export|Descript
   now supports exporting animated GIF''s]]'
 - '[[Changes/Notion/2021-01-27-added-a-copy-link-button-to-the-menu-that-appears-when-selecting-text-with-an-in|Added
   a Copy link button to the menu that appears when selecting text with an inline…]]'
+- '[[Changes/Raycast/2021-02-03-browser-bookmarks-a-new-dropdown-menu-in-the-bookmarks-list-allows-you-to-select|Browser
+  Bookmarks : A new dropdown menu in the bookmarks list allows you to select…]]'
 source_release: '[[Releases/Descript/descript-2021-02-18-602b89bbbbf7d71130e81335-139a34d8|descript-2021-02-18-602b89bbbbf7d71130e81335-139a34d8]]'
 source_type: canny_changelog
 theme: interface-experience
@@ -75,7 +75,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2021-01-27 · Notion · [[Changes/Notion/2021-01-27-added-a-copy-link-button-to-the-menu-that-appears-when-selecting-text-with-an-in|Added a Copy link button to the menu that appears when selecting text with an inline…]]
+- Earlier: 2021-02-03 · Raycast · [[Changes/Raycast/2021-02-03-browser-bookmarks-a-new-dropdown-menu-in-the-bookmarks-list-allows-you-to-select|Browser Bookmarks : A new dropdown menu in the bookmarks list allows you to select…]]
 - Later: 2021-02-18 · Descript · [[Changes/Descript/2021-02-18-now-when-performing-rendering-operations-such-as-export-publishing-or-flatten-fi|Use original media when rendering files (by default)]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a9f855e7cc721bcb3718900e5bb8d626ac1c3669f8bbb7014ba68186ca5bdf1a
+machine_hash: c5bc6dacf0327b88ca0890b02894ade4669379f992a8644ee588750bff0e9a36
 product: open-webui
 product_name: Open WebUI
 record:
@@ -47,12 +47,12 @@ record:
   title: 2 Model Support changes in v0.5.19
   type: change
 related_changes:
-- '[[Changes/Cline/2025-03-01-add-enable-extended-thinking-option-for-claude-3-7-sonnet-with-ability-to-set-di|Add
-  ''Enable extended thinking'' option for Claude 3.7 Sonnet, with ability to set…]]'
 - '[[Changes/Cline/2025-03-03-add-gemini-flash-models-to-vertex-provider-thanks-jpaodev|Add
   Gemini Flash models to Vertex provider (thanks @jpaodev!)]]'
 - '[[Changes/Aider/2025-03-04-4-model-support-changes-in-v0-75-0|4 Model Support changes
   in v0.75.0]]'
+- '[[Changes/AnythingLLM/2025-03-04-4-model-support-changes-in-v1-7-5|4 Model Support
+  changes in v1.7.5]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-03-05-v0-5-19-github-203781301-c4fd28ba|open-webui-2025-03-05-v0-5-19-github-203781301-c4fd28ba]]'
 source_type: github_releases
 theme: model-support
@@ -88,7 +88,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.5.19
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-03-04 · Aider · [[Changes/Aider/2025-03-04-4-model-support-changes-in-v0-75-0|4 Model Support changes in v0.75.0]]
+- Earlier: 2025-03-04 · AnythingLLM · [[Changes/AnythingLLM/2025-03-04-4-model-support-changes-in-v1-7-5|4 Model Support changes in v1.7.5]]
 - Later: 2025-03-06 · Cline · [[Changes/Cline/2025-03-06-add-new-gemini-models-to-gcp-vertex-thanks-shohei-ihaya-and-claude-models-asksag|Add new Gemini models to GCP Vertex (thanks @shohei-ihaya!) and Claude models…]]
 <!-- chronolog:end -->
 

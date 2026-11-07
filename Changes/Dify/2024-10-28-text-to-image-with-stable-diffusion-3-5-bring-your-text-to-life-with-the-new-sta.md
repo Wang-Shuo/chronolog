@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: b35a8841bb3687810bc064b0b1b01261a789fd7b6db6b16bc4815795a0fecd82
+machine_hash: 8db2f03d502794db45bc6c3f7d80dc697ad86e34bd9dc0063b1b775ae7567c19
 product: dify
 product_name: Dify
 record:
@@ -47,10 +47,10 @@ record:
     the new…'
   type: change
 related_changes:
-- '[[Changes/Dify/2024-10-14-4-apps-and-integrations-changes-in-0-9-2|4 Apps and Integrations
-  changes in 0.9.2]]'
 - '[[Changes/Dify/2024-10-23-feat-tools-refactor-the-base-table-plugin-by-hgnulb-in-https-github-com-langgeni|feat(Tools):
   Refactor the base table plugin]]'
+- '[[Changes/AnythingLLM/2024-10-25-github-data-connector-improvements-by-shatfield4-in-https-github-com-mintplex-la|Github
+  data connector improvements]]'
 - "[[Changes/Open WebUI/2024-10-26-feedback-export-enhancements-feedback-history-data-can-now-be-exported-to-json-a|\U0001F527
   Feedback Export Enhancements]]"
 source_release: '[[Releases/Dify/dify-2024-10-28-0-10-2-github-182221061-a0360387|dify-2024-10-28-0-10-2-github-182221061-a0360387]]'

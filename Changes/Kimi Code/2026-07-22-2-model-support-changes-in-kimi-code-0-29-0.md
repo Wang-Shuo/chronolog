@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: fa35a9ddb4c024345690bdd11e67edf83e212713d189d4b2ad15936524a457db
+machine_hash: e3c40ab273fdec91019c956d2dbcd9ea416cc5f7b9480b9a1897dc2359e0830b
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -88,7 +88,7 @@ Source: https://github.com/MoonshotAI/kimi-code/blob/main/docs/en/release-notes/
 ## Nearby in Model Support
 
 - Earlier: 2026-07-22 · Cursor · [[Changes/Cursor/2026-07-22-optimization-modes-e62142|Optimization modes]]
-- Later: 2026-07-22 · Lovable · [[Changes/Lovable/2026-07-22-gemini-3-6-flash-is-now-the-default-model-for-your-app-s-ai|Gemini 3.6 Flash is now the default model for your app's AI]]
+- Later: 2026-07-22 · LM Studio · [[Changes/LM Studio/2026-07-22-2-model-support-changes-in-lm-studio-0-4-20|2 Model Support changes in LM Studio 0.4.20]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

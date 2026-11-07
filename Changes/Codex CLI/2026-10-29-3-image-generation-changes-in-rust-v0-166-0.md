@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 346c1fcb7b093da1a488548f675aff653455c25c661c85a968572ee6ab58243a
+machine_hash: 351f2852930253ba1ea1d8a77fd8e7480abf45825712ff46e444487a5a9dfbde
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -45,10 +45,9 @@ record:
   title: 3 Image Generation changes in rust-v0.166.0
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2026-10-16-clear-input-selections-shortcut-clearing-the-model-override-selected-tools-and-f|\U0001F9F9
-  Clear Input Selections shortcut. Clearing the model override, selected tools…]]"
 - '[[Changes/Codex CLI/2026-10-23-2-image-generation-changes-in-rust-v0-164-0|2 Image
   Generation changes in rust-v0.164.0]]'
+- '[[Changes/Krea/2026-10-24-chatgpt-image-retired|ChatGPT Image retired]]'
 - "[[Changes/Open WebUI/2026-10-25-images-settings-save-admins-can-now-save-images-settings-while-image-generation|\U0001F58C️
   Images settings save. Admins can now save Images settings while Image…]]"
 source_release: '[[Releases/Codex CLI/codex-cli-2026-10-29-rust-v0-166-0-github-428320524-44f8c24a|codex-cli-2026-10-29-rust-v0-166-0-github-428320524-44f8c24a]]'

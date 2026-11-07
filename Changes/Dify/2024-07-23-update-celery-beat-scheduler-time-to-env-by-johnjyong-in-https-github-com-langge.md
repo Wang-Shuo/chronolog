@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d11fee8ccd497187fe391d30b9c9cb0d76ecedc4065a211cffa1c5d88336459d
+machine_hash: d3fe445790d987f23d2802b3bf17a3b8a8394dc367da3584a20a1b4074a73553
 product: dify
 product_name: Dify
 record:
@@ -41,12 +41,12 @@ record:
   title: update celery beat scheduler time to env
   type: change
 related_changes:
-- '[[Changes/Notion/2024-04-30-automate-notifications-for-projects|Automate notifications
-  for projects]]'
 - "[[Changes/Open WebUI/2024-06-02-pipelines-support-open-webui-now-includes-a-plugin-framework-for-enhanced-custom|\U0001F527
   Pipelines Support]]"
 - '[[Changes/Dify/2024-07-15-refactor-api-switch-to-dify-config-with-pydantic-in-controllers-and-schedule-by|refactor(api):
   switch to dify_config with Pydantic in controllers and schedule]]'
+- '[[Changes/Raycast/2024-07-17-my-schedule-improved-link-detection-reliability-when-the-event-contains-html|My
+  Schedule: Improved link detection reliability when the event contains HTML]]'
 source_release: '[[Releases/Dify/dify-2024-07-23-0-6-15-github-166727210-9df490d0|dify-2024-07-23-0-6-15-github-166727210-9df490d0]]'
 source_type: github_releases
 theme: automation-scheduling
@@ -81,8 +81,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2024-07-15 · Dify · [[Changes/Dify/2024-07-15-refactor-api-switch-to-dify-config-with-pydantic-in-controllers-and-schedule-by|refactor(api): switch to dify_config with Pydantic in controllers and schedule]]
-- Later: 2024-08-13 · Notion · [[Changes/Notion/2024-08-13-smarter-more-flexible-automations|Smarter, more flexible automations]]
+- Earlier: 2024-07-17 · Raycast · [[Changes/Raycast/2024-07-17-my-schedule-improved-link-detection-reliability-when-the-event-contains-html|My Schedule: Improved link detection reliability when the event contains HTML]]
+- Later: 2024-07-26 · AnythingLLM · [[Changes/AnythingLLM/2024-07-26-refactor-convert-insert-loop-to-1-insert-stmt-by-jwaltz-in-https-github-com-mint|refactor: convert insert loop to 1 insert stmt]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

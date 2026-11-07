@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0665aadb7afed9a0aa1cb03aac81eab71944cbb56770bb55fcbb4e27d5c966c7
+machine_hash: 2a8883651939ead5580bd51eb21e3c50b479a3208eec842f89ad1bb7d151bf43
 product: v0
 product_name: v0
 record:
@@ -44,12 +44,12 @@ record:
     instead…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-06-18-updated-composer-and-tools-menu-the-composer-in-android-now-has-inline-mentions|Updated
-  composer and tools menu]]'
 - '[[Changes/ChatGPT/2026-06-18-improved-camera-and-photo-uploads-taking-and-uploading-photos-in-chatgpt-on-ios|Improved
   camera and photo uploads]]'
 - '[[Changes/ChatGPT/2026-06-18-chatgpt-now-has-more-ways-to-help-with-common-questions-from-pronunciation-guida|ChatGPT
   now has more ways to help with common questions, from pronunciation guidance…]]'
+- '[[Changes/Raycast/2026-06-18-ai-chat-is-now-available-on-windows|AI Chat is now
+  available on Windows]]'
 source_release: '[[Releases/v0/v0-2026-06-19-2026-06-19-ff036602|v0-2026-06-19-2026-06-19-ff036602]]'
 source_type: v0_changelog
 theme: mobile-desktop
@@ -86,8 +86,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-06-18 · ChatGPT · [[Changes/ChatGPT/2026-06-18-chatgpt-now-has-more-ways-to-help-with-common-questions-from-pronunciation-guida|ChatGPT now has more ways to help with common questions, from pronunciation guidance…]]
-- Later: 2026-06-22 · Codex CLI · [[Changes/Codex CLI/2026-06-22-28791-bazel-refresh-expired-macos-sdk-pin-anp-oai|♯28791 bazel: refresh expired macOS SDK pin @anp-oai]]
+- Earlier: 2026-06-18 · Raycast · [[Changes/Raycast/2026-06-18-ai-chat-is-now-available-on-windows|AI Chat is now available on Windows]]
+- Later: 2026-06-22 · AnythingLLM · [[Changes/AnythingLLM/2026-06-22-just-some-small-patches-for-the-upcoming-1-15-0-2-0-0-preview-initial-release-fo|Just some small patches for the upcoming 1.15.0 / 2.0.0-preview initial release…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

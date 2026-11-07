@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 8b95dd68d8fc2156077cf5e3fb59e056d90c84cbb220e17ecd9306c9f788f61c
+machine_hash: d72af78bd23fcc840600145f78c3598ff040b1d4c18af3b858ab5468e8bc729b
 product: ollama
 product_name: Ollama
 record:
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2025-04-17 · Gemini · [[Changes/Gemini/2025-04-17-try-our-2-5-flash-experimental-model|Try our 2.5 Flash (experimental) model]]
-- Later: 2025-04-19 · Cline · [[Changes/Cline/2025-04-19-4-model-support-changes-in-v3-13-0|4 Model Support changes in v3.13.0]]
+- Later: 2025-04-18 · AnythingLLM · [[Changes/AnythingLLM/2025-04-18-4-model-support-changes-in-v1-8-0|4 Model Support changes in v1.8.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

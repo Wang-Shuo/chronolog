@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 315d631e476f4f3d5f263c7527c661db47bf7a661705ba9bfed35958edc92eb5
+machine_hash: 754d68dca90e1e3aa01cb3143dd3f17f7a9f6d624394aa850004934ad0002987
 product: opencode
 product_name: OpenCode
 record:
@@ -44,10 +44,9 @@ record:
     or resume…
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-10-29-desktop-preserved-pending-model-labels-only-when-a-queued-prompt-actually-change|Desktop
-  Preserved pending model labels only when a queued prompt actually changes models]]'
 - '[[Changes/Claude Code/2026-10-30-2-model-support-changes-in-v2-1-314|2 Model Support
   changes in v2.1.314]]'
+- '[[Changes/Devin/2026-10-30-typed-finding-tags|Typed Finding Tags]]'
 - '[[Changes/OpenCode/2026-10-30-2-model-support-changes-in-v2-2-3|2 Model Support
   changes in v2.2.3]]'
 source_release: '[[Releases/OpenCode/opencode-2026-10-30-v2-2-5-7ac090eb|opencode-2026-10-30-v2-2-5-7ac090eb]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: e6f36e79c35dad6bb9e8fa7b817c9740fc4598c3e011309b9ce721f2bee23e9e
+machine_hash: ac4c8b44745b1c5d650f36e596402b2a3ddb47799de505d00fc8cd4d3f283314
 product: lovable
 product_name: Lovable
 record:
@@ -93,7 +93,7 @@ type: change
 ## Nearby in Enterprise and Administration
 
 - Earlier: 2026-06-08 · ElevenLabs · [[Changes/ElevenLabs/2026-06-08-text-to-dialogue|Text to Dialogue]]
-- Later: 2026-06-10 · Lovable · [[Changes/Lovable/2026-06-10-user-insights-for-workspace-members|User insights for workspace members]]
+- Later: 2026-06-10 · Devin · [[Changes/Devin/2026-06-10-success-confirmation-after-org-creation|Success Confirmation After Org Creation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

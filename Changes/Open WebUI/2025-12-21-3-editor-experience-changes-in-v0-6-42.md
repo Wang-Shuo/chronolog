@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 50f6bb3ece2921bd0ba3df51e45caf7162d3e36cb209ec6f6221157bb32eb1ba
+machine_hash: 86c4ff87adf99a36275ddca795f307ef63a0f0edca7346be67d6d38b19a96f40
 product: open-webui
 product_name: Open WebUI
 record:
@@ -52,11 +52,11 @@ record:
   title: 3 Editor Experience changes in v0.6.42
   type: change
 related_changes:
-- '[[Changes/Claude Code/2025-12-19-vscode-added-tab-icon-badges-showing-pending-permissions-blue-and-unread-complet|VSCode
-  Added tab icon badges showing pending permissions (blue) and unread…]]'
 - '[[Changes/Descript/2025-12-20-play-your-script-while-recording-b-roll|Play your
   script while recording B-roll]]'
 - '[[Changes/Descript/2025-12-20-editor|Editor]]'
+- '[[Changes/Raycast/2025-12-20-2-editor-experience-changes-in-raycast-windows-0-40|2
+  Editor Experience changes in Raycast windows 0.40]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-12-21-v0-6-42-github-272053915-b8e46ad9|open-webui-2025-12-21-v0-6-42-github-272053915-b8e46ad9]]'
 source_type: github_releases
 theme: editor-experience
@@ -107,7 +107,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.6.42
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2025-12-20 · Descript · [[Changes/Descript/2025-12-20-editor|Editor]]
+- Earlier: 2025-12-20 · Raycast · [[Changes/Raycast/2025-12-20-2-editor-experience-changes-in-raycast-windows-0-40|2 Editor Experience changes in Raycast windows 0.40]]
 - Later: 2025-12-22 · Cline · [[Changes/Cline/2025-12-22-duplicate-error-messages-during-streaming-for-diff-edit-tool-when-parallel-tool|Duplicate error messages during streaming for Diff Edit tool when Parallel Tool…]]
 <!-- chronolog:end -->
 

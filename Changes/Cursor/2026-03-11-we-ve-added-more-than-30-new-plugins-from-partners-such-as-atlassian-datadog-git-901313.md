@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 058a0f9ff4dcd21bd4a088d0ea84ee7a8beab7b58d34ff7a419328ccc6879fb3
+machine_hash: 11c8d92735093dc6dfacb3340a9255b87ef6028ba768ad9af19b33088c318e91
 product: cursor
 product_name: Cursor
 record:
@@ -91,7 +91,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-03-11 · Codex CLI · [[Changes/Codex CLI/2026-03-11-8-apps-and-integrations-changes-in-rust-v0-114-0|8 Apps and Integrations changes in rust-v0.114.0]]
-- Later: 2026-03-11 · Gemini CLI · [[Changes/Gemini CLI/2026-03-11-4-apps-and-integrations-changes-in-v0-33-0|4 Apps and Integrations changes in v0.33.0]]
+- Later: 2026-03-11 · Devin · [[Changes/Devin/2026-03-11-datadog-mcp-integration|Datadog MCP Integration]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

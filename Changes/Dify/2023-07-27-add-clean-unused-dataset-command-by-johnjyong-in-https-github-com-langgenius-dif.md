@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: bfa64e797281270162f99957ae8630edc468a24c248a2cc771c6ac9eccb0e624
+machine_hash: 01da0c9f867bdafc92ee196ded582bd64d144781a65b50e334d28d98bb4b2dc6
 product: dify
 product_name: Dify
 record:
@@ -79,7 +79,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2023-07-27 · Cursor · [[Changes/Cursor/2023-07-27-linter-is-back|Linter is back!]]
-- Later: 2023-07-28 · Cursor · [[Changes/Cursor/2023-07-28-better-support-for-remote-ssh|Better support for remote-ssh]]
+- Later: 2023-07-27 · Raycast · [[Changes/Raycast/2023-07-27-flight-tracker-terminal-info-is-now-displayed-in-the-flight-tracker-detail-view|Flight Tracker: Terminal info is now displayed in the flight tracker detail view]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f9b2bb8483f0d40efa6cb0ba6fb91c3b4c0200fdac0b20fa6e69f59f1c0e68b0
+machine_hash: ca21431fe79125eec0769e219784c952da3c0e229c0b899681ff29626894d186
 product: open-webui
 product_name: Open WebUI
 record:
@@ -58,10 +58,10 @@ record:
   title: 5 Reliability and Performance changes in v0.6.27
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-09-04-chore-remove-cli-flags-all-files-and-show-memory-usage-by-jackwotherspoon-in-htt|chore:
-  remove CLI flags all_files and show_memory_usage]]'
 - '[[Changes/Ollama/2025-09-04-embeddinggemma-https-ollama-com-library-embeddinggemma-a-new-open-embedding-mode|EmbeddingGemma((source
   link) a new open embedding…]]'
+- '[[Changes/Devin/2025-09-05-various-reliability-performance-and-usability-improvements-across-the-app|Various
+  reliability, performance, and usability improvements across the app]]'
 - '[[Changes/Gemini CLI/2025-09-09-improve-performance-of-shell-commands-with-lots-of-output-by-jakemac53-in-https|improve
   performance of shell commands with lots of output]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-09-09-v0-6-27-github-245869039-35ab9819|open-webui-2025-09-09-v0-6-27-github-245869039-35ab9819]]'

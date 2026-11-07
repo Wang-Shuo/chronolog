@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: aa29f7614cb416007876f39f45b0d8c6a7376513ed8145753df762afa1c98db1
+machine_hash: a3f2a3f284c713b2be299f10a95112120dead8f089b4583a4e336b30f31615a2
 product: replit
 product_name: Replit
 record:
@@ -48,9 +48,10 @@ record:
   title: Social coding challenges
   type: change
 related_changes:
-- '[[Changes/Replit/2025-01-03-neon-database-improvements|Neon database improvements]]'
 - '[[Changes/Dify/2025-01-13-2-pricing-model-changes-in-0-15-1|2 Pricing Model changes
   in 0.15.1]]'
+- '[[Changes/Devin/2025-01-16-introducing-usage-based-billing|Introducing usage based
+  billing]]'
 - '[[Changes/ElevenLabs/2025-01-27-projects|Projects]]'
 source_release: '[[Releases/Replit/replit-2025-02-14-2025-02-14-179ef4c1|replit-2025-02-14-2025-02-14-179ef4c1]]'
 source_type: replit_changelog

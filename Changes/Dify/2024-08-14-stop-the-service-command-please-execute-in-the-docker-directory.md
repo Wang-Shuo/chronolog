@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 95ef85fdc74339682387df5f35172f21c15f6beb52fd6a27198bd53b5d5b2f12
+machine_hash: 55133e97adf71df3a0406b07314c620d5b148b3b5b05c40ab85148ffc9170369
 product: dify
 product_name: Dify
 record:
@@ -43,10 +43,10 @@ record:
   title: Stop the service，Command, please execute in the docker directory
   type: change
 related_changes:
-- '[[Changes/OpenHands/2024-08-01-4-developer-workflow-changes-in-0-8-3|4 Developer
-  Workflow changes in 0.8.3]]'
 - '[[Changes/Dify/2024-08-06-2-developer-workflow-changes-in-0-6-16|2 Developer Workflow
   changes in 0.6.16]]'
+- '[[Changes/AnythingLLM/2024-08-08-multiple-slash-command-expansion-in-prompts-by-shatfield4|Multiple
+  /slash command expansion in prompts by @shatfield4]]'
 - '[[Changes/Aider/2024-08-10-5-developer-workflow-changes-in-v0-49-0|5 Developer
   Workflow changes in v0.49.0]]'
 source_release: '[[Releases/Dify/dify-2024-08-14-0-7-0-github-170141477-acb406bb|dify-2024-08-14-0-7-0-github-170141477-acb406bb]]'

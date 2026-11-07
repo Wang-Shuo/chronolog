@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: f17d67adbe5d3f21f12e2fcd8b1371cf230d5c899554f0963a5a16d3a3d50de4
+machine_hash: 0f9354916fe0b6802af4069ac208d04bf6173f4772f8a22ad7da74d8ecaa0f17
 product: microsoft-365-copilot
 product_name: Microsoft 365 Copilot
 record:
@@ -53,10 +53,8 @@ record:
   title: Edit capability for selecting permission reading option for existing ServiceNow…
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-06-30-6-safety-and-privacy-changes-in-v2026-6-11|6 Safety
-  and Privacy changes in v2026.6.11]]'
-- '[[Changes/OpenCode/2026-06-30-sdk-add-session-permission-request-create-and-fetch-endpoints|SDK
-  Add session permission request create and fetch endpoints]]'
+- '[[Changes/Devin/2026-07-01-read-only-scan-profiles|Read-Only Scan Profiles]]'
+- '[[Changes/Devin/2026-07-01-no-access-permission-popover|No-Access Permission Popover]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-01-4-safety-and-privacy-changes-in-v1-0-68|4
   Safety and Privacy changes in v1.0.68]]'
 source_release: '[[Releases/Microsoft 365 Copilot/microsoft-365-copilot-2026-07-01-2026-07-01-070e4e1f|microsoft-365-copilot-2026-07-01-2026-07-01-070e4e1f]]'

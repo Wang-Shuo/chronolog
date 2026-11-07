@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 15451492fff3f2658f346b264e280a2ac4a79427d2351eaa4554319edfcecfff
+machine_hash: 2f64d6b94ee0fdf49f005a740fb85feeea29e6c90fdcd145fa5723197a148b05
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -82,7 +82,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-04-15 · Codex CLI · [[Changes/Codex CLI/2026-04-15-added-realtime-and-app-server-apis-for-output-modality-transcript-completion-eve|Added realtime and app-server APIs for output modality, transcript completion…]]
-- Later: 2026-04-16 · Claude Code · [[Changes/Claude Code/2026-04-16-transcript-view-footer-now-shows-dump-to-scrollback-and-v-open-in-editor-shortcu|Transcript view footer now shows  (dump to scrollback) and v (open in editor)…]]
+- Later: 2026-04-15 · Raycast · [[Changes/Raycast/2026-04-15-general-improve-keyboard-handling-for-ime-input-method-editor-commonly-used-for|General : Improve keyboard handling for IME (Input Method Editor) commonly used…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

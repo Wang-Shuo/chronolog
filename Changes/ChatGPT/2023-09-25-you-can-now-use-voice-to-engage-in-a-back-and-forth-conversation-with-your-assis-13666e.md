@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: expansion
-machine_hash: 32c83c5862f2c1b596c97d0da1138be0131a63dc076fab1410b5430bd1f9dee4
+machine_hash: 17fa732cb9658ad97d82f2270d862c0d38ba8be80e2e2bcef50fe014b6b77a24
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -53,12 +53,12 @@ record:
   title: Voice (Beta) is now rolling out to Plus users on iOS and Android
   type: change
 related_changes:
-- '[[Changes/Aider/2023-08-22-2-voice-and-audio-changes-in-v0-13-0|2 Voice and Audio
-  changes in v0.13.0]]'
-- '[[Changes/Descript/2023-08-22-using-overdub-regenerate-with-videos-overdub-https-help-descript-com-hc-en-us-ar|Using
-  Overdub & Regenerate with Videos]]'
-- '[[Changes/Descript/2023-08-22-layer-list-we-ve-made-a-number-of-improvements-to-the-layer-list-in-the-properti|Layer
-  list: We’ve made a number of improvements to the layer list…]]'
+- '[[Changes/Superwhisper/2023-08-22-option-to-translate-any-spoken-language-to-english|Option
+  to translate any spoken language to English]]'
+- '[[Changes/Superwhisper/2023-09-08-dictation-history-view-beta|Dictation history
+  view (Beta)]]'
+- '[[Changes/Superwhisper/2023-09-09-2-voice-and-audio-changes-in-superwhisper-macos-1-14-2|2
+  Voice and Audio changes in Superwhisper macOS 1.14.2]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2023-09-25-new-voice-and-image-capabilities-in-chatgpt-e8c88ec7|chatgpt-2023-09-25-new-voice-and-image-capabilities-in-chatgpt-e8c88ec7]]'
 source_type: chatgpt_changelog
 theme: voice
@@ -88,7 +88,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2023-08-22 · Descript · [[Changes/Descript/2023-08-22-layer-list-we-ve-made-a-number-of-improvements-to-the-layer-list-in-the-properti|Layer list: We’ve made a number of improvements to the layer list…]]
+- Earlier: 2023-09-09 · Superwhisper · [[Changes/Superwhisper/2023-09-09-2-voice-and-audio-changes-in-superwhisper-macos-1-14-2|2 Voice and Audio changes in Superwhisper macOS 1.14.2]]
 - Later: 2023-09-28 · Descript · [[Changes/Descript/2023-09-28-this-tool-can-be-used-to-address-problems-with-audio-drift-in-an-audio-or-video|This tool can be used to address problems with audio drift in an audio or video file…]]
 <!-- chronolog:end -->
 

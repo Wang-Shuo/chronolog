@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: a28dda843e1c6115395c50a15f1f80f3f2328dd00e405e46303a97fa211a1613
+machine_hash: f74a1f8a7e4d792f1a2dd4154f773f8f3a362ae41ab2ab966fab0e2b8447a9ec
 product: claude-code
 product_name: Claude Code
 record:
@@ -57,12 +57,12 @@ record:
   title: Typing `/resume` in the agent view now opens a picker of past sessions
   type: change
 related_changes:
-- '[[Changes/Kimi Code/2026-07-15-kimi-p-now-stays-alive-by-default-while-background-tasks-are-pending-with-no-eff|kimi
-  -p now stays alive by default while background tasks are pending, with no…]]'
-- '[[Changes/GitHub Copilot CLI/2026-07-16-5-interface-experience-changes-in-v1-0-71|5
-  Interface Experience changes in v1.0.71]]'
 - '[[Changes/OpenCode/2026-07-16-added-an-up-arrow-shortcut-to-close-the-subagent-picker-when-the-first-item-is-s|Added
   an Up Arrow shortcut to close the subagent picker when the first item is selected]]'
+- '[[Changes/Raycast/2026-07-16-ai-mentions-get-preserved-when-copying-a-selection-in-the-ui|AI
+  : @-mentions get preserved when copying a selection in the UI]]'
+- '[[Changes/Raycast/2026-07-16-2-interface-experience-changes-in-raycast-windows-0-69|2
+  Interface Experience changes in Raycast windows 0.69]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-17-v2-1-212-github-355310036-d94b4e11|claude-code-2026-07-17-v2-1-212-github-355310036-d94b4e11]]'
 source_type: github_releases
 theme: interface-experience
@@ -98,7 +98,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-07-16 · OpenCode · [[Changes/OpenCode/2026-07-16-added-an-up-arrow-shortcut-to-close-the-subagent-picker-when-the-first-item-is-s|Added an Up Arrow shortcut to close the subagent picker when the first item is selected]]
+- Earlier: 2026-07-16 · Raycast · [[Changes/Raycast/2026-07-16-2-interface-experience-changes-in-raycast-windows-0-69|2 Interface Experience changes in Raycast windows 0.69]]
 - Later: 2026-07-17 · Cursor · [[Changes/Cursor/2026-07-17-interaction-improvements-dee44a|Interaction improvements]]
 <!-- chronolog:end -->
 

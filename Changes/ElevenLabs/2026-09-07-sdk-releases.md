@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 0f0013074dfc47dacd13d5588c2d66e648cc9ff0d0b145f0dd8af2685a6d10d1
+machine_hash: 5b3d96a48d11defd333be7c01f25b1a3129a4c079cd3d70d47f4d36103b8eca0
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -41,8 +41,8 @@ record:
   title: SDK releases
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-04-vscode-added-an-add-server-form-and-a-remove-action-to-the-mcp-servers-dialog-so|VSCode
-  Added an Add server form and a Remove action to the MCP servers dialog…]]'
+- '[[Changes/Devin/2026-09-04-aws-and-braintrust-mcp-servers-in-the-marketplace|AWS
+  and Braintrust MCP Servers in the Marketplace]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-04-7-apps-and-integrations-changes-in-v1-0-83|7
   Apps and Integrations changes in v1.0.83]]'
 - '[[Changes/OpenClaw/2026-09-05-35-apps-and-integrations-changes-in-v2026-9-2|35

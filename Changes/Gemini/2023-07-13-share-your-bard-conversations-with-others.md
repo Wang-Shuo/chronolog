@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 30dd1414cadeadc1db9cbac51a4c4db2bec9eb6c326527c85753e30505bf3610
+machine_hash: 8921f81c8c2a111383d25d31397d0f44494829ed1d3476e760ea7def21ac3ce5
 product: gemini
 product_name: Gemini
 record:
@@ -52,7 +52,7 @@ record:
   title: Share your Bard conversations with others
   type: change
 related_changes:
-- '[[Changes/Notion/2023-03-23-new-page-icons|New page icons]]'
+- '[[Changes/Raycast/2023-05-10-custom-themes|Custom Themes]]'
 - '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
 - '[[Changes/Notion/2023-05-31-import-projects-from-asana|Import projects from Asana]]'
 source_release: '[[Releases/Gemini/gemini-2023-07-13-2023-07-13-2b718b64|gemini-2023-07-13-2023-07-13-2b718b64]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 400ae568bd7d40a171cdac58a4eeff60b8c372943f245dd546fbf78761b85253
+machine_hash: e0831ed471b1598b6be74c1ee63cc69ecae5f4ff3e787f427ffda3337fc43ebb
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,11 +43,12 @@ record:
   title: '#26496 Make auto-review on-request prompt more proactive @maja-openai'
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-06-18-automate-skill-6bab3b|/automate skill]]'
 - '[[Changes/Cursor/2026-06-18-react-to-any-slack-message-with-a-designated-emoji-to-kick-off-an-automation-at|An
   emoji trigger for Slack]]'
 - '[[Changes/Cursor/2026-06-18-2-automation-and-scheduling-changes-in-06-18-26|2 Automation
   and Scheduling changes in 06.18.26]]'
+- '[[Changes/Devin/2026-06-19-incremental-generation-steps-in-automation-input|Incremental
+  Generation Steps in Automation Input]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-06-22-rust-v0-142-0-github-343189954-a218ab4e|codex-cli-2026-06-22-rust-v0-142-0-github-343189954-a218ab4e]]'
 source_type: github_releases
 theme: automation-scheduling
@@ -92,7 +93,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2026-06-18 · Cursor · [[Changes/Cursor/2026-06-18-2-automation-and-scheduling-changes-in-06-18-26|2 Automation and Scheduling changes in 06.18.26]]
+- Earlier: 2026-06-19 · Devin · [[Changes/Devin/2026-06-19-incremental-generation-steps-in-automation-input|Incremental Generation Steps in Automation Input]]
 - Later: 2026-06-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-23-add-loop-alias-for-the-every-command|Add /loop alias for the /every command]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0222826fb4013f0f6120e88729084873ded422f4e6c259a9b28557c1a2787a7c
+machine_hash: 7aab73637963b4dcd17f7c6c510004851f7b776457b0d1cfc1573882765d1e0a
 product: claude-code
 product_name: Claude Code
 record:
@@ -97,7 +97,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.286
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-09-29 · Codex CLI · [[Changes/Codex CLI/2026-09-29-5-developer-workflow-changes-in-rust-v0-159-0|5 Developer Workflow changes in rust-v0.159.0]]
-- Later: 2026-09-30 · Google Antigravity · [[Changes/Google Antigravity/2026-09-30-pressing-cmd-a-or-ctrl-a-now-selects-only-the-content-pane-or-terminal-you-are-f|Pressing Cmd+A or Ctrl+A now selects only the content pane or terminal you…]]
+- Later: 2026-09-30 · Devin · [[Changes/Devin/2026-09-30-read-only-live-shell-preview|Read-Only Live Shell Preview]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

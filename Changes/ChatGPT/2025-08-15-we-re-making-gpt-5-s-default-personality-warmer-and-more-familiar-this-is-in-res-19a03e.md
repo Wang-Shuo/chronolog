@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3354d67dde6b71494e34c66260535cd1341829f804a3eeabeaa5c3c7992cf3b7
+machine_hash: 0c8e8533a8873e33445de707fb4080fb01a7cc50b5649d8f03267a42b8003635
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -75,12 +75,12 @@ record:
   title: GPT-5 Updates
   type: change
 related_changes:
-- '[[Changes/Cline/2025-08-13-4-model-support-changes-in-v3-24-0|4 Model Support changes
-  in v3.24.0]]'
-- '[[Changes/OpenHands/2025-08-13-3-model-support-changes-in-0-52-0|3 Model Support
-  changes in 0.52.0]]'
 - '[[Changes/Gemini CLI/2025-08-14-28-model-support-changes-in-v0-1-21|28 Model Support
   changes in v0.1.21]]'
+- '[[Changes/Raycast/2025-08-14-ai-access-qwen-models-with-the-added-preset|AI : Access
+  Qwen models with the added preset]]'
+- '[[Changes/AnythingLLM/2025-08-15-2-model-support-changes-in-v1-8-5|2 Model Support
+  changes in v1.8.5]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-08-15-gpt-5-updates-9aaeee46|chatgpt-2025-08-15-gpt-5-updates-9aaeee46]]'
 source_type: chatgpt_changelog
 theme: model-support
@@ -107,7 +107,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-08-14 · Gemini CLI · [[Changes/Gemini CLI/2025-08-14-28-model-support-changes-in-v0-1-21|28 Model Support changes in v0.1.21]]
+- Earlier: 2025-08-15 · AnythingLLM · [[Changes/AnythingLLM/2025-08-15-2-model-support-changes-in-v1-8-5|2 Model Support changes in v1.8.5]]
 - Later: 2025-08-15 · Cline · [[Changes/Cline/2025-08-15-add-support-for-200k-context-for-claude-sonnet-4-using-openrouter-cline-by-saoud|Add support for 200k context for claude sonnet 4 using openrouter/cline]]
 <!-- chronolog:end -->
 

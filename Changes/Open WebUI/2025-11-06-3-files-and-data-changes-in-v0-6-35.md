@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f8843e3c120f4e0857b06ad6f86e8a2a52b0c36950207aedfa2bdc3472968d78
+machine_hash: a86c8c187682685415fa6839ee365949a3df1ba42098194a0d789ddac50b2021
 product: open-webui
 product_name: Open WebUI
 record:
@@ -111,7 +111,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.6.35
 ## Nearby in Files and Data
 
 - Earlier: 2025-11-04 · Gemini CLI · [[Changes/Gemini CLI/2025-11-04-document-todo-tool-by-scidomino-in-https-github-com-google-gemini-gemini-cli-pul|Document todo tool]]
-- Later: 2025-11-19 · Ollama · [[Changes/Ollama/2025-11-19-deepseek-ocr-https-ollama-com-library-deepseek-ocr-deepseek-ocr-uses-optical-2d|DeepSeek-OCR((source link) DeepSeek-OCR uses optical…]]
+- Later: 2025-11-18 · Recraft · [[Changes/Recraft/2025-11-18-you-can-now-enhance-any-layer-directly-on-the-canvas-with-drop-shadow-stroke-and|Layer effects: Shadows, strokes, and blurs]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

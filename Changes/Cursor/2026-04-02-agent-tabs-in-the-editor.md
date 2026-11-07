@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 177c35de4d67604e017cda8d541ed6e688ee00a75226f8d8f35f6eb9059844fb
+machine_hash: e4f70971f772d242273c77a0e1770d3e6334b3dccc36ed531e32b62d3765db25
 product: cursor
 product_name: Cursor
 record:
@@ -100,7 +100,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-04-01 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-01-3-editor-experience-changes-in-v1-0-15|3 Editor Experience changes in v1.0.15]]
-- Later: 2026-04-04 · Claude Code · [[Changes/Claude Code/2026-04-04-removed-vim-command-toggle-vim-mode-via-config-editor-mode|Removed /vim command (toggle vim mode via /config → Editor mode)]]
+- Later: 2026-04-03 · Raycast · [[Changes/Raycast/2026-04-03-quicklinks-added-edit-duplicate-disable-delete-actions-in-settings|Quicklinks: Added Edit , Duplicate , Disable , Delete actions in settings]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

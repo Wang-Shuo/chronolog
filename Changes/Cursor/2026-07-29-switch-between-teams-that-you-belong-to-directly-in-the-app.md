@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 847722cc4c10866a0d98af0bc243991247170fa1350146c2c827312ff7fbe721
+machine_hash: f3ca1aa017b763f41c3d29228de7c61e6e3e104b61af978577d2f715b988403f
 product: cursor
 product_name: Cursor
 record:
@@ -80,7 +80,7 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2026-07-29 · Codex CLI · [[Changes/Codex CLI/2026-07-29-3-collaboration-changes-in-rust-v0-146-0|3 Collaboration changes in rust-v0.146.0]]
-- Later: 2026-07-29 · HeyGen · [[Changes/HeyGen/2026-07-29-two-ai-hosts-share-a-real-studio-scene-reacting-to-each-other-rather-than-appear|Two AI hosts share a real studio scene, reacting to each other rather than appearing…]]
+- Later: 2026-07-29 · Devin · [[Changes/Devin/2026-07-29-link-preview-cards-in-chat|Link Preview Cards in Chat]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

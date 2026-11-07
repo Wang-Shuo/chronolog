@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 553db3346d61ba34ef5e22e74e2ac0972ad128e2920278cd8f67168178698e8a
+machine_hash: 733a231ef45c629b229a5236c8d72f580a6011806063ce8bab2ff9fc85a8049e
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -43,10 +43,10 @@ record:
   title: 2 Agent Mode changes in Kimi Code 0.31.0
   type: change
 related_changes:
-- '[[Changes/Microsoft 365 Copilot/2026-07-29-sharepoint-list-support-in-agent-builder-windows-web-microsoft-365-copilot-exten|SharePoint
-  list support in Agent Builder Windows…]]'
-- '[[Changes/OpenHands/2026-07-29-feat-always-show-the-llm-selector-move-agent-profile-switching-to-the-tools-menu|feat:
-  always show the LLM selector; move agent-profile switching to the tools menu]]'
+- '[[Changes/Recraft/2026-07-29-meet-the-design-agent-in-recraft-studio|Recraft Design
+  Agent]]'
+- '[[Changes/Superwhisper/2026-07-29-grok-build-is-now-supported-as-a-coding-agent-in-the-app|Grok
+  build is now supported as a coding agent in the app]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-30-2-agent-mode-changes-in-v1-0-76|2 Agent
   Mode changes in v1.0.76]]'
 source_release: '[[Releases/Kimi Code/kimi-code-2026-07-30-0-31-0-8a1e748f|kimi-code-2026-07-30-0-31-0-8a1e748f]]'

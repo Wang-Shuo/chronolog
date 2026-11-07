@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f73d275b5c8718a17fad3e6232a7555f48cd5e8839e1f11661a9b7aa8264af3e
+machine_hash: 31837c08994cc154f1d4936815ff3d8675a7c4c7005c3ea3a851793bc77ce0b7
 product: opencode
 product_name: OpenCode
 record:
@@ -91,7 +91,7 @@ Source: https://opencode.ai/changelog/v1.4.7
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-04-16 · Ollama · [[Changes/Ollama/2026-04-16-2-apps-and-integrations-changes-in-v0-21-0|2 Apps and Integrations changes in v0.21.0]]
-- Later: 2026-04-17 · OpenCode · [[Changes/OpenCode/2026-04-17-core-let-plugin-tools-return-metadata-in-execute-results|Core Let plugin tools return metadata in execute results]]
+- Later: 2026-04-17 · Devin · [[Changes/Devin/2026-04-17-wikigenerationitem-card|WikiGenerationItem Card]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

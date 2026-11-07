@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 15a2adfab0c4b9d50326a71e4761210908cc777ee767b0bb5fbdafebdffedec3
+machine_hash: ac7092288c966afb576505f8f308c319d1b0f2e84ed203355791a85e122c4b44
 product: claude-code
 product_name: Claude Code
 record:
@@ -54,8 +54,8 @@ record:
   title: Added GitLab merge request URL support to the `--worktree` flag…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-12-changed-commit-push-pr-so-git-gh-commands-with-dangerous-flags-force-amend-no-ve|Changed
-  /commit-push-pr so git/gh commands with dangerous flags…]]'
+- '[[Changes/Devin/2026-08-12-command-palette-session-search-pagination|Command Palette
+  Session Search Pagination]]'
 - '[[Changes/Claude Code/2026-08-13-remote-control-the-terminal-now-says-whether-a-session-was-taken-over-by-another|Remote
   Control: the terminal now says whether a session was taken over by another…]]'
 - '[[Changes/Cursor/2026-08-13-build-history-and-debugging|Build history and debugging]]'
@@ -96,7 +96,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-08-13 · Cursor · [[Changes/Cursor/2026-08-13-build-history-and-debugging|Build history and debugging]]
-- Later: 2026-08-14 · v0 · [[Changes/v0/2026-08-14-4-developer-workflow-changes-in-a-redesigned-sidebar-a-richer|4 Developer Workflow changes in A redesigned sidebar, a richer…]]
+- Later: 2026-08-14 · Devin · [[Changes/Devin/2026-08-14-command-palette-improvements|Command Palette Improvements]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

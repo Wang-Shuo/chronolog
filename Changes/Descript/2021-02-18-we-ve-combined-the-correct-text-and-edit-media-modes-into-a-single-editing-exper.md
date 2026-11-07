@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5ab3057433cdfacbae78e86741421a1469cd1beeb4f8c2102ba3f9e4791a91a2
+machine_hash: 142f19ae7f4c1f013aa267bb1fe1eaf176ead5a1ec415e7ae6d2d9d7f385e619
 product: descript
 product_name: Descript
 record:
@@ -44,10 +44,10 @@ record:
   title: Correct Text and Edit Media modes have been combined
   type: change
 related_changes:
-- '[[Changes/Descript/2020-12-17-previously-descript-only-corrected-capitalization-and-punctuation-while-making-e|Auto-correct
-  capitalization and punctuation while editing]]'
 - '[[Changes/Descript/2020-12-17-now-you-can-edit-the-name-of-a-page-directly-on-the-page-just-open-up-the-share|Edit
   Page names on the page]]'
+- '[[Changes/Raycast/2020-12-22-auto-switch-keyboard-layout-now-you-can-enforce-raycast-to-always-switch-to-engl|Auto-switch
+  Keyboard Layout]]'
 - '[[Changes/Descript/2021-02-18-descript-automatically-optimizes-the-edit-boundaries-in-your-composition-after-r|Optimized
   Edit Boundaries with Filler Word Removal]]'
 source_release: '[[Releases/Descript/descript-2021-02-18-602b937724ab490accd72284-b65c9fde|descript-2021-02-18-602b937724ab490accd72284-b65c9fde]]'

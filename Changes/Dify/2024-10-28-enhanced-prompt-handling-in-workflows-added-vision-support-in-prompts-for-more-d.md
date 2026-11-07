@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: c309cd6e639f55bb0213b58dabf67b80724c9dbe647ad5754b838f0473c35bd3
+machine_hash: 37f87711938963ab5c19fd7c59b406763132339839c1a7d219c9a9df4531af14
 product: dify
 product_name: Dify
 record:
@@ -47,10 +47,10 @@ record:
     for more…'
   type: change
 related_changes:
-- '[[Changes/Dify/2024-10-21-if-you-have-a-basic-chatbot-or-text-generator-app-with-the-vision-feature-enable|
-  If you have a Basic Chatbot or Text Generator App with the ‘Vision’ feature…]]'
-- '[[Changes/Ollama/2024-10-21-3-multimodal-input-changes-in-v0-4-0|3 Multimodal Input
-  changes in v0.4.0]]'
+- '[[Changes/LM Studio/2024-10-22-mac-mlx-vision-bump-mlx-vlm-version-to-0-0-15-support-qwen2vl|MacMLX
+  Vision Bump mlx-vlm version to 0.0.15, support Qwen2VL]]'
+- '[[Changes/AnythingLLM/2024-10-25-add-groq-vision-preview-support-by-timothycarambat-in-https-github-com-mintplex|Add
+  Groq vision preview support]]'
 - '[[Changes/Runway/2024-10-25-introducing-act-one-a-new-way-to-generate-expressive-character-performances-insi|Act-One
   in Gen-3 Alpha]]'
 source_release: '[[Releases/Dify/dify-2024-10-28-0-10-2-github-182221061-a0360387|dify-2024-10-28-0-10-2-github-182221061-a0360387]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3169d7014e316888e004f188be3d826e1f55659b3f039f4f7bca3343676240c0
+machine_hash: 71ef4c26c7888cb808dcbbfdfbd20bb0ed904bb75025c203dea0028d475c549c
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-05-07 · OpenCode · [[Changes/OpenCode/2026-05-07-desktop-added-a-macos-settings-menu-entry|Desktop Added a macOS Settings menu entry]]
-- Later: 2026-05-08 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-08-project-info-remains-visible-in-slash-command-picker-when-no-results-match|Project info remains visible in slash command picker when no results match]]
+- Later: 2026-05-08 · Devin · [[Changes/Devin/2026-05-08-mermaid-diagram-rendering|Mermaid Diagram Rendering]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

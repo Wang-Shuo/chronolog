@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8d78723da56f6a059ce75e596fe8c20ef79d8d99602b71b8930770675848c9cc
+machine_hash: 1e795224c095dc7b1c8d0011a89ec5d9be1ecabf1fba90f9819acce5ad9b1e08
 product: opencode
 product_name: OpenCode
 record:
@@ -41,8 +41,8 @@ record:
   title: Core Remove unnecessary deep clones from session loop and LLM stream
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-02-19-3-model-support-changes-in-v1-2-7|3 Model Support
-  changes in v1.2.7]]'
+- '[[Changes/Superwhisper/2026-02-19-2-model-support-changes-in-superwhisper-windows-1-2-5|2
+  Model Support changes in Superwhisper Windows 1.2.5]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-20-2-model-support-changes-in-v0-0-413|2 Model
   Support changes in v0.0.413]]'
 - '[[Changes/Midjourney/2026-02-20-please-note|Please Note]]'

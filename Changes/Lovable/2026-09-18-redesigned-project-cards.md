@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 202325625fe0d3949d80a01c7d3fceac4e5fc524e2ddb1fad2858d5dc4c15dc9
+machine_hash: 333121915c38a7a274155747f3f3b6315cb370a17286420bcea8aa552dcc81e8
 product: lovable
 product_name: Lovable
 record:
@@ -47,8 +47,7 @@ record:
   title: Redesigned project cards
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-18-vscode-added-a-sign-out-row-to-the-panel-menu-with-logout-in-the-typed-command-m|VSCode
-  Added a Sign out row to the panel menu, with /logout in the typed command menu]]'
+- '[[Changes/Devin/2026-09-18-filter-sessions-by-origin|Filter Sessions by Origin]]'
 - '[[Changes/Google Antigravity/2026-09-18-custom-agent-controls-and-keyboard-navigation|Custom
   agent controls and keyboard navigation]]'
 - '[[Changes/Google Antigravity/2026-09-18-3-interface-experience-changes-in-hub-v2-15-0-custom-agent-controls|3

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: e3683955599e39b63b490acaf6b9f38587f20a5d94c3b1ef554446e186ab5a4d
+machine_hash: d5341a14f3797ab24c4e129ee29a3bab0c9381f301f3b09f40de493da710d7f6
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -59,10 +59,10 @@ record:
   title: Scheduled Tasks are now called Automations
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-05-changed-background-sessions-whose-scheduled-task-is-gone-they-now-move-to-comple|Changed
-  background sessions whose scheduled task is gone]]'
 - '[[Changes/OpenHands/2026-10-06-5-automation-and-scheduling-changes-in-v1-25-0|5
   Automation and Scheduling changes in v1.25.0]]'
+- '[[Changes/Devin/2026-10-07-settings-dialogs-use-the-updated-form-styling|Settings
+  Dialogs Use the Updated Form Styling]]'
 - '[[Changes/Google Antigravity/2026-10-07-advanced-search-automations-and-grouped-agent-actions|Advanced
   Search, Automations, and grouped agent actions]]'
 source_release: '[[Releases/Google Antigravity/google-antigravity-2026-10-07-rel-hub-2-21-1-b2504405|google-antigravity-2026-10-07-rel-hub-2-21-1-b2504405]]'
@@ -99,7 +99,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2026-10-06 · OpenHands · [[Changes/OpenHands/2026-10-06-5-automation-and-scheduling-changes-in-v1-25-0|5 Automation and Scheduling changes in v1.25.0]]
+- Earlier: 2026-10-07 · Devin · [[Changes/Devin/2026-10-07-settings-dialogs-use-the-updated-form-styling|Settings Dialogs Use the Updated Form Styling]]
 - Later: 2026-10-08 · Claude Code · [[Changes/Claude Code/2026-10-08-changed-ctrl-c-at-the-idle-prompt-of-an-attached-background-session-to-leave-a-p|Changed Ctrl+C at the idle prompt of an attached background session to leave…]]
 <!-- chronolog:end -->
 

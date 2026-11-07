@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 107b141a8ea471cf9fa9491fda347a0f19fd7d317f81157fbd8a360527e725db
+machine_hash: 75fec60010f49b2e3294e0a8f9e19f973f780a6f2f07b42e64979789f748be7c
 product: cursor
 product_name: Cursor
 record:
@@ -45,10 +45,10 @@ record:
     make…
   type: change
 related_changes:
-- '[[Changes/Replit/2025-02-28-database-performance-improvement|Database performance
-  improvement]]'
 - '[[Changes/Open WebUI/2025-03-05-general-reliability-enhancements-various-stability-improvements-across-the-webui|⚙️
   General Reliability Enhancements]]'
+- '[[Changes/LM Studio/2025-03-07-significantly-increased-the-speed-of-chunking-files-for-retrieval|Significantly
+  increased the speed of chunking files for retrieval]]'
 - '[[Changes/Cursor/2025-03-11-5-reliability-and-performance-changes-in-0-47-x|5 Reliability
   and Performance changes in 0.47.x]]'
 source_release: '[[Releases/Cursor/cursor-2025-03-11-0-47-x-https-cursor-com-changelog-0-47-x-eebf8f2e|cursor-2025-03-11-0-47-x-https-cursor-com-changelog-0-47-x-eebf8f2e]]'
@@ -86,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-03-05 · Open WebUI · [[Changes/Open WebUI/2025-03-05-general-reliability-enhancements-various-stability-improvements-across-the-webui|⚙️ General Reliability Enhancements]]
+- Earlier: 2025-03-07 · LM Studio · [[Changes/LM Studio/2025-03-07-significantly-increased-the-speed-of-chunking-files-for-retrieval|Significantly increased the speed of chunking files for retrieval]]
 - Later: 2025-03-11 · Descript · [[Changes/Descript/2025-03-11-local-file-storage|Local file storage]]
 <!-- chronolog:end -->
 

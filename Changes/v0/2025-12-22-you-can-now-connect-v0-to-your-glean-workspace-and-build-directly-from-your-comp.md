@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4f422ce3edf43fce2701df410d50fef0c90af40bfdf753f2d0d557d6d272dcde
+machine_hash: 5515302c3ed154751a5d54871ebcb9fd5f4ac6f3000db74aa9acc2a0c65033e1
 product: v0
 product_name: v0
 record:
@@ -52,9 +52,9 @@ record:
   title: Build with Glean via MCP
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-12-18-conversation-insights-2efafc|Conversation insights]]'
 - '[[Changes/Claude Code/2025-12-19-improved-context-command-visualization-with-grouped-skills-and-agents-by-source|Improved
   /context command visualization with grouped skills and agents by source…]]'
+- '[[Changes/Devin/2025-12-19-copy-pr-context-button|Copy PR Context Button]]'
 - '[[Changes/GitHub Copilot CLI/2025-12-19-add-context-command-to-visualize-token-usage|Add
   /context command to visualize token usage]]'
 source_release: '[[Releases/v0/v0-2025-12-22-2025-12-22-glean-mcp-b6692389|v0-2025-12-22-2025-12-22-glean-mcp-b6692389]]'

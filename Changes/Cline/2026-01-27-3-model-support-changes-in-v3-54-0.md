@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 20230378c0b4a05352117c15ec8d6adb1d6286aabaa0f697bfbbf46330c116e9
+machine_hash: c17e53f067d8d3669b7e6ea6087ab53aca69595f3a2490140a295141e11fe33f
 product: cline
 product_name: Cline
 record:
@@ -44,11 +44,11 @@ record:
   title: 3 Model Support changes in v3.54.0
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-01-25-9-model-support-changes-in-v1-1-35|9 Model Support
-  changes in v1.1.35]]'
 - '[[Changes/OpenCode/2026-01-25-desktop-fixed-crash-when-no-default-model-is-set|Desktop
   Fixed crash when no default model is set]]'
 - '[[Changes/ElevenLabs/2026-01-26-elevencreative-studio|ElevenCreative Studio]]'
+- '[[Changes/Superwhisper/2026-01-26-api-models-fixed-groq-byok-and-custom-model-endpoint-issues|API
+  & Models: Fixed Groq BYOK and custom model endpoint issues]]'
 source_release: '[[Releases/Cline/cline-2026-01-27-v3-54-0-github-280361451-f31b8c09|cline-2026-01-27-v3-54-0-github-280361451-f31b8c09]]'
 source_type: github_releases
 theme: model-support
@@ -86,7 +86,7 @@ Source: https://github.com/cline/cline/releases/tag/v3.54.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-01-26 · ElevenLabs · [[Changes/ElevenLabs/2026-01-26-elevencreative-studio|ElevenCreative Studio]]
+- Earlier: 2026-01-26 · Superwhisper · [[Changes/Superwhisper/2026-01-26-api-models-fixed-groq-byok-and-custom-model-endpoint-issues|API & Models: Fixed Groq BYOK and custom model endpoint issues]]
 - Later: 2026-01-27 · Codex CLI · [[Changes/Codex CLI/2026-01-27-2-model-support-changes-in-rust-v0-92-0|2 Model Support changes in rust-v0.92.0]]
 <!-- chronolog:end -->
 

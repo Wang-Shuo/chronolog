@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: eba137b480a298c24e8c3f0acd8e1ec9c4bcade7c5d8ef6204f2310c29ed86ae
+machine_hash: 683461b09802a3aee0e2cdf579dd56a0e48dcb63e6f2edda19071ee3aba3e653
 product: replit
 product_name: Replit
 record:
@@ -49,9 +49,9 @@ record:
   title: Teams and Enterprise
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-10-29-hooks-cloud-distribution|Hooks: Cloud Distribution]]'
-- '[[Changes/Cursor/2025-10-29-sandboxed-terminals-admin-controls|Sandboxed Terminals:
-  Admin Controls]]'
+- '[[Changes/Devin/2025-10-31-enterprise-knowledge-folder-management|Enterprise Knowledge
+  Folder Management]]'
+- '[[Changes/Devin/2025-10-31-clone-repository-via-api|Clone Repository via API]]'
 - '[[Changes/Replit/2025-10-31-bulk-delete-for-organizations|Bulk delete for organizations]]'
 source_release: '[[Releases/Replit/replit-2025-10-31-2025-10-31-6a35f9ae|replit-2025-10-31-2025-10-31-6a35f9ae]]'
 source_type: replit_changelog
@@ -86,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2025-10-29 · Cursor · [[Changes/Cursor/2025-10-29-sandboxed-terminals-admin-controls|Sandboxed Terminals: Admin Controls]]
+- Earlier: 2025-10-31 · Devin · [[Changes/Devin/2025-10-31-clone-repository-via-api|Clone Repository via API]]
 - Later: 2025-11-05 · Lovable · [[Changes/Lovable/2025-11-05-workspace-only-publishing-business-enterprise-plans|Workspace-only publishing (Business & Enterprise plans)]]
 <!-- chronolog:end -->
 

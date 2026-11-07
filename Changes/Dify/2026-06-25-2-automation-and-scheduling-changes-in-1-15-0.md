@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 67b6a72258a2033ba1e3fc40696903d8a6381e34c87e9eadbc30ba764e717144
+machine_hash: b363b7d0bc3e83d59b5f391be37c75e94a569be3adf16f0e22f4039d190f00d8
 product: dify
 product_name: Dify
 record:
@@ -98,7 +98,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.15.0
 ## Nearby in Automation and Scheduling
 
 - Earlier: 2026-06-24 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-24-handle-wakeup-misfires-with-a-graceful-message-when-no-self-paced-schedule-is-ac|Handle wakeup misfires with a graceful message when no self-paced schedule is active]]
-- Later: 2026-06-26 · Kimi Code · [[Changes/Kimi Code/2026-06-26-add-a-hint-to-the-per-turn-step-limit-error-pointing-users-to-the-loop-control-m|Add a hint to the per-turn step limit error pointing users…]]
+- Later: 2026-06-26 · Devin · [[Changes/Devin/2026-06-26-run-once-automation-schedules|Run-Once Automation Schedules]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

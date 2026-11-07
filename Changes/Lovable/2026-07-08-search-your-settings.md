@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 733f32360a0fa496b547f920a9dfc81b88925fc4402289c80e809fc825caa38e
+machine_hash: dbd69b3d66429d6d191384736e3b54cc62c79eef186eb02d2b645528d75b873b
 product: lovable
 product_name: Lovable
 record:
@@ -49,8 +49,8 @@ record:
   title: Search your settings
   type: change
 related_changes:
-- '[[Changes/v0/2026-07-07-3-interface-experience-changes-in-grouped-tool-approvals-richer-mcp|3
-  Interface Experience changes in Grouped tool approvals, richer MCP…]]'
+- '[[Changes/Devin/2026-07-08-reorganized-settings-navigation|Reorganized Settings
+  Navigation]]'
 - '[[Changes/HeyGen/2026-07-08-colors-primary-secondary-accent-and-tertiary-colors-are-automatically-detected-f|Colors
   — primary, secondary, accent, and tertiary colors are automatically detected…]]'
 - '[[Changes/Kimi Code/2026-07-08-web-show-session-skills-in-the-slash-menu-as-skill-so-they-are-distinguishable-f|web:

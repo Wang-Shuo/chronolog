@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a0ef7a55b821e6646b49fddc1a7d47bba8b9822e8a8784e153e23f9c2bea4f2a
+machine_hash: 6d7ab11bbe86fca19b74d069bcd28f92f23302a43bd6fc3f0e38e4862572076e
 product: aider
 product_name: Aider
 record:
@@ -50,11 +50,10 @@ record:
   title: 5 Model Support changes in v0.86.0
   type: change
 related_changes:
-- '[[Changes/Midjourney/2025-08-07-heya-everyone-we-re-releasing-a-hd-mode-for-our-video-model-today|Heya
-  everyone, we''re releasing a HD mode for our video model today!]]'
-- '[[Changes/Ollama/2025-08-07-openai-always-provide-reasoning-by-drifkin-in-https-github-com-ollama-ollama-pul|openai:
-  always provide reasoning]]'
+- '[[Changes/Superwhisper/2025-08-07-gpt-5-models-application-support|GPT-5 Models
+  & Application Support]]'
 - '[[Changes/Windsurf/2025-08-07-gpt-5-available|GPT-5 Available]]'
+- '[[Changes/Devin/2025-08-08-gpt-5-preview-access|GPT-5 Preview Access]]'
 source_release: '[[Releases/Aider/aider-2025-08-09-v0-86-0-github-238790002-787ef322|aider-2025-08-09-v0-86-0-github-238790002-787ef322]]'
 source_type: github_releases
 theme: model-support
@@ -95,7 +94,7 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.86.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-08-07 · Windsurf · [[Changes/Windsurf/2025-08-07-gpt-5-available|GPT-5 Available]]
+- Earlier: 2025-08-08 · Devin · [[Changes/Devin/2025-08-08-gpt-5-preview-access|GPT-5 Preview Access]]
 - Later: 2025-08-09 · Open WebUI · [[Changes/Open WebUI/2025-08-09-11-model-support-changes-in-v0-6-19|11 Model Support changes in v0.6.19]]
 <!-- chronolog:end -->
 

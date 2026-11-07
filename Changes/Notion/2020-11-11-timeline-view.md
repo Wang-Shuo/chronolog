@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 928791d06172d344e56bd3787673c1ef77bc855480280d8a6784ee1d7a0129e4
+machine_hash: bbaf2211374554b9149ca2b684be6c0a27ff87c23065b30527feaad107d9a613
 product: notion
 product_name: Notion
 record:
@@ -71,12 +71,12 @@ record:
   title: Timeline View ⏳
   type: change
 related_changes:
-- '[[Changes/Descript/2020-08-18-easily-share-your-published-project-by-easily-copying-an-embed-code-for-featurin|Embeddable
-  Player]]'
 - '[[Changes/Descript/2020-08-18-share-access-to-custom-overdub-voices-between-team-members-on-the-same-descript|Overdub
   Voice Sharing]]'
 - '[[Changes/Notion/2020-09-02-you-can-no-longer-leave-a-shared-workspace-if-you-are-the-only-remaining-admin-y|You
   can no longer leave a shared workspace if you are the only remaining admin]]'
+- '[[Changes/Raycast/2020-10-21-github-clear-your-notifications|GitHub: Clear your
+  notifications]]'
 source_release: '[[Releases/Notion/notion-2020-11-11-https-www-notion-com-releases-2020-11-11-02a5341a|notion-2020-11-11-https-www-notion-com-releases-2020-11-11-02a5341a]]'
 source_type: notion_changelog
 theme: collaboration
@@ -128,7 +128,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2020-09-02 · Notion · [[Changes/Notion/2020-09-02-you-can-no-longer-leave-a-shared-workspace-if-you-are-the-only-remaining-admin-y|You can no longer leave a shared workspace if you are the only remaining admin]]
+- Earlier: 2020-10-21 · Raycast · [[Changes/Raycast/2020-10-21-github-clear-your-notifications|GitHub: Clear your notifications]]
 - Later: 2020-11-24 · Notion · [[Changes/Notion/2020-11-24-introducing-certified-notion-consultants|Introducing: Certified Notion Consultants ✔️]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d510b5c924b6e926bbf78149c1c87e49e809324e78b364f694c6cb5489a470f5
+machine_hash: 1739493e9f9670cf50d10c6b6d1ef8ee81299f81ac38199e874af395ca44af95
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -45,8 +45,8 @@ record:
   title: 2 Reliability and Performance changes in v0.39.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-22-2-reliability-and-performance-changes-in-v2-1-117|2
-  Reliability and Performance changes in v2.1.117]]'
+- '[[Changes/Devin/2026-04-22-merge-time-reduction-in-review|Merge Time Reduction
+  in Review]]'
 - '[[Changes/Ollama/2026-04-22-2-reliability-and-performance-changes-in-v0-21-1|2
   Reliability and Performance changes in v0.21.1]]'
 - '[[Changes/Codex CLI/2026-04-23-18662-feat-add-metric-to-track-the-number-of-turns-with-memory-usage-jif-oai|♯18662

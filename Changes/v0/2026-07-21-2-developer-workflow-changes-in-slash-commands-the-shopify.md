@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4bf713666b3fee9911028ebae678db19ec34afb0d0850383b187391b9ceae256
+machine_hash: bd429238033931caed8d2d3268480f524b49dd6cf1f6c27ba29b52a12fb25992
 product: v0
 product_name: v0
 record:
@@ -46,8 +46,8 @@ record:
   title: 2 Developer Workflow changes in Slash commands, the Shopify…
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-07-20-sync-the-embedded-terminal-theme-with-the-app-theme|Sync
-  the embedded terminal theme with the app theme]]'
+- '[[Changes/Raycast/2026-07-20-notes-exit-a-code-block-by-tapping-the-empty-area-below-it|Notes
+  : Exit a code block by tapping the empty area below it]]'
 - '[[Changes/Claude Code/2026-07-21-improved-footer-pr-badge-links-to-be-clickable-hyperlinks-even-when-terminal-sup|Improved
   footer PR badge links to be clickable hyperlinks even when terminal support…]]'
 - '[[Changes/Codex CLI/2026-07-21-12-developer-workflow-changes-in-rust-v0-145-0|12

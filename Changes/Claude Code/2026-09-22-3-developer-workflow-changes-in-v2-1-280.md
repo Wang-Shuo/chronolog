@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f17a9a4f0c103cba5ae167a6772e71832a7f2e553c19dec2c588b8e0cd00a05a
+machine_hash: 43043ab24c9cdcf411dd7207c4e7cbc2dc96b3f99ff7dce38c5a1a70f67cf5f6
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,8 +49,7 @@ record:
   title: 3 Developer Workflow changes in v2.1.280
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-09-19-29-developer-workflow-changes-in-v2026-9-5|29 Developer
-  Workflow changes in v2026.9.5]]'
+- '[[Changes/Devin/2026-09-21-azure-devops-improvements|Azure DevOps Improvements]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-21-5-developer-workflow-changes-in-v1-0-87|5
   Developer Workflow changes in v1.0.87]]'
 - '[[Changes/Open WebUI/2026-09-21-39-developer-workflow-changes-in-v0-11-4|39 Developer

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 37a247550caed4d319a1082ae41ddb0ccdd5286ee8cedd57b4634b05ae7d7d92
+machine_hash: bf6c5f3e587f83fbba97320378c80dfcc64b8682c71ebd023a14cbe6724d6edb
 product: openclaw
 product_name: OpenClaw
 record:
@@ -44,8 +44,8 @@ record:
   title: Guide the same running conversation from the Control UI or an administrator-linked…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-30-3-enterprise-and-administration-changes-in-v2-1-314|3
-  Enterprise and Administration changes in v2.1.314]]'
+- '[[Changes/Devin/2026-10-30-opt-out-of-access-request-dms|Opt Out of Access-Request
+  DMs]]'
 - '[[Changes/Windsurf/2026-10-30-members-an-enterprise-admin-has-listed-for-anthropic-s-cyber-verification-progra|Members
   an enterprise admin has listed for Anthropic''s Cyber Verification Program…]]'
 - '[[Changes/Claude Code/2026-10-31-2-enterprise-and-administration-changes-in-v2-1-316|2

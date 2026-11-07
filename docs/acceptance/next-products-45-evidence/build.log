@@ -1,0 +1,25 @@
+
+> chronolog@0.1.0 build
+> quartz build --directory /var/folders/l_/zfv9sxqn3v16__82whff46ym0000gp/T/chronolog-build-jh_0tbsw/vault --output /Users/wangshuo/SideProjects/chronolog/_pipeline/next-products-2026-11-07-r3/site
+
+
+ Quartz v0.1.0
+
+(node:5374) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+Cleaned output directory `/Users/wangshuo/SideProjects/chronolog/_pipeline/next-products-2026-11-07-r3/site` in 4ms
+Found 29235 input files from `/var/folders/l_/zfv9sxqn3v16__82whff46ym0000gp/T/chronolog-build-jh_0tbsw/vault` in 911ms
+Parsing input files using 4 threads
+(node:5374) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+(node:5374) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+(node:5374) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+(node:5374) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+Parsed 29235 Markdown files in 8m
+Filtered out 1359 files in 203ms
+Emitting files
+Emitted 28040 files to `/Users/wangshuo/SideProjects/chronolog/_pipeline/next-products-2026-11-07-r3/site` in 7m
+Done processing 29235 files in 15m

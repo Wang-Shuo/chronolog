@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: c312e0921091983c798cc3dcebe30e3a93dcbdcdc18f36cf2b9e93dd9ea3ed1e
+machine_hash: 00746c704e0f0798d0610997cb7dff5e813dcd0149e47e41d150ce1e325b820d
 product: ollama
 product_name: Ollama
 record:
@@ -44,12 +44,11 @@ record:
   title: 'Note: Flint is supported on MacOS'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-19-windows-improved-git-command-start-up-with-a-standard-git-for-windows-install-by|Windows:
-  Improved git command start-up with a standard Git for Windows install…]]'
-- '[[Changes/GitHub Copilot CLI/2026-10-20-macos-sandboxed-commands-can-connect-directly-to-localhost-tcp-services-when-loc|macOS
-  sandboxed commands can connect directly to localhost TCP services when local…]]'
 - '[[Changes/OpenHands/2026-10-20-2-mobile-and-desktop-changes-in-v1-29-0|2 Mobile
   and Desktop changes in v1.29.0]]'
+- '[[Changes/Superwhisper/2026-10-20-iphone-duo-compatibility|iPhone Duo compatibility]]'
+- '[[Changes/Superwhisper/2026-10-20-traffic-light-buttons-now-match-native-spacing-and-shape-across-all-macos-versio|Traffic
+  light buttons now match native spacing and shape across all macOS versions]]'
 source_release: '[[Releases/Ollama/ollama-2026-10-21-v0-40-8-github-419777982-6a81f0ff|ollama-2026-10-21-v0-40-8-github-419777982-6a81f0ff]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -80,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-10-20 · OpenHands · [[Changes/OpenHands/2026-10-20-2-mobile-and-desktop-changes-in-v1-29-0|2 Mobile and Desktop changes in v1.29.0]]
+- Earlier: 2026-10-20 · Superwhisper · [[Changes/Superwhisper/2026-10-20-traffic-light-buttons-now-match-native-spacing-and-shape-across-all-macos-versio|Traffic light buttons now match native spacing and shape across all macOS versions]]
 - Later: 2026-10-22 · Claude Code · [[Changes/Claude Code/2026-10-22-changed-the-dangerous-rm-and-rmdir-prompt-in-bypass-permissions-mode-in-the-desk|Changed the dangerous rm and rmdir prompt in bypass permissions mode…]]
 <!-- chronolog:end -->
 

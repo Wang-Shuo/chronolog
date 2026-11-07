@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4cdd1302912e60fb614908257da60c894558330dda47a2650eec82993d9e22b0
+machine_hash: 2e213b59438b3bb829b7d63af2f902601e8cb20d857bcd3e8d396ac92e48628d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -57,10 +57,10 @@ record:
   title: If you make no changes to your Plugins settings, the default permission setting…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-11-5-safety-and-privacy-changes-in-v2-1-269|5 Safety
-  and Privacy changes in v2.1.269]]'
-- '[[Changes/OpenClaw/2026-09-11-12-safety-and-privacy-changes-in-v2026-9-4|12 Safety
-  and Privacy changes in v2026.9.4]]'
+- '[[Changes/Raycast/2026-09-11-ai-tool-confirmations-now-default-to-auto-so-sessions-no-longer-ask-for-permissi|AI
+  : Tool confirmations now default to Auto, so sessions no longer ask…]]'
+- '[[Changes/Raycast/2026-09-11-ai-tool-confirmations-now-default-to-auto-so-sessions-no-longer-ask-for-permissi-9e970d|AI
+  : Tool confirmations now default to Auto, so sessions no longer ask…]]'
 - '[[Changes/Claude Code/2026-09-12-fixed-read-only-git-commands-in-bash-unexpectedly-asking-for-permission-after-a|Fixed
   read-only git commands in Bash unexpectedly asking for permission after…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-14-updated-permissions-for-new-health-connections-8bc634b7|chatgpt-2026-09-14-updated-permissions-for-new-health-connections-8bc634b7]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: feaa473ac460040efc131715112727bc5237b91b7053ad105c6bb89ef9c4b531
+machine_hash: fcc3bca03726bc6c520e09653f15baaa28f96e646e0082ca2eed7f9e05a47109
 product: dify
 product_name: Dify
 record:
@@ -48,10 +48,10 @@ record:
   title: '**Lightweight recent apps endpoint**'
   type: change
 related_changes:
-- '[[Changes/Kimi Code/2026-07-22-improve-tui-performance-and-resume-speed-for-long-running-sessions|Improve
-  TUI performance and resume speed for long-running sessions]]'
-- '[[Changes/Ollama/2026-07-23-expanded-gpu-support-with-cuda-on-windows-arm64-b200-support-through-cuda-12-and|Expanded
-  GPU support with CUDA on Windows ARM64, B200 support through CUDA 12…]]'
+- '[[Changes/Raycast/2026-07-23-2-reliability-and-performance-changes-in-raycast-windows-0-70|2
+  Reliability and Performance changes in Raycast windows 0.70]]'
+- '[[Changes/Raycast/2026-07-23-2-reliability-and-performance-changes-in-raycast-macos-0-70|2
+  Reliability and Performance changes in Raycast macos 0.70]]'
 - '[[Changes/Open WebUI/2026-07-27-12-reliability-and-performance-changes-in-v0-11-0|12
   Reliability and Performance changes in v0.11.0]]'
 source_release: '[[Releases/Dify/dify-2026-07-28-1-16-1-github-360820489-855a9365|dify-2026-07-28-1-16-1-github-360820489-855a9365]]'

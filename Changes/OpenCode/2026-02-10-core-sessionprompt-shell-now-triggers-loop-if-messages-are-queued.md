@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0a2cd6f7b2ece1a12fc4e4b8394b4a318a01831bc306766a66668b7162eb8e21
+machine_hash: 77db394a6cd0dc06e4303f5c713e4049b4bc577070bbd60e4023349ee5c1c134
 product: opencode
 product_name: OpenCode
 record:
@@ -43,10 +43,10 @@ record:
   title: Core SessionPrompt.shell() now triggers loop if messages are queued
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-01-28-12-automation-and-scheduling-changes-in-v0-26-0|12
-  Automation and Scheduling changes in v0.26.0]]'
 - '[[Changes/Gemini CLI/2026-02-04-3-automation-and-scheduling-changes-in-v0-27-0|3
   Automation and Scheduling changes in v0.27.0]]'
+- '[[Changes/Devin/2026-02-06-schedule-from-the-input-box|Schedule from the Input
+  Box]]'
 - '[[Changes/Gemini CLI/2026-02-10-feat-core-add-setting-to-disable-loop-detection-by-sandytao520-in-https-github-c|feat(core):
   add setting to disable loop detection]]'
 source_release: '[[Releases/OpenCode/opencode-2026-02-10-v1-1-54-df764791|opencode-2026-02-10-v1-1-54-df764791]]'

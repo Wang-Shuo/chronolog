@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 321a43bcf3f8ec63c88cd1950a8b0ea3bc6dcbbe4dca3918b945e99f5b13cfd8
+machine_hash: 8fe791c346cea612c3e7005675d2c0e42609e5fb0aa35424f72612dac81441af
 product: cline
 product_name: Cline
 record:
@@ -41,10 +41,10 @@ record:
   title: Add settings button to MCP popover to easily modify installed servers
   type: change
 related_changes:
-- '[[Changes/Cline/2025-04-08-add-modal-in-the-chat-area-to-more-easily-enable-or-disable-mcp-servers|Add
-  modal in the chat area to more easily enable or disable MCP servers]]'
-- '[[Changes/Dify/2025-04-09-6-apps-and-integrations-changes-in-1-2-0|6 Apps and Integrations
-  changes in 1.2.0]]'
+- '[[Changes/Raycast/2025-04-09-quit-all-apps-except-frontmost-improved-handling-when-finder-or-raycast-are-fron|Quit
+  All Apps Except Frontmost]]'
+- '[[Changes/Raycast/2025-04-10-following-snippets-we-re-now-releasing-the-first-iteration-of-quicklinks-a-power|Following
+  snippets, we’re now releasing the first iteration of Quicklinks]]'
 - '[[Changes/Replit/2025-04-11-app-idea-generator-for-logged-out-visitors|App idea
   generator for logged-out visitors]]'
 source_release: '[[Releases/Cline/cline-2025-04-12-v3-12-0-github-212001434-6cc8f535|cline-2025-04-12-v3-12-0-github-212001434-6cc8f535]]'

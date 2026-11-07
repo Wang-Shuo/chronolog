@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 213bf7563aa514a999d96dc4d589af1d524a191b9a91a3fa4bbd05d255530143
+machine_hash: 637a25e09777abe1d5379d4fc5fdf439677b960ae64741f3eeedab3b7e126eab
 product: dify
 product_name: Dify
 record:
@@ -72,8 +72,8 @@ record:
   title: 14 Model Support changes in 0.6.12
   type: change
 related_changes:
-- '[[Changes/Aider/2024-06-24-2-model-support-changes-in-v0-40-0|2 Model Support changes
-  in v0.40.0]]'
+- '[[Changes/Superwhisper/2024-06-24-add-anthropic-claude-3-5-sonnet-to-superwhisper-pro-models|Add
+  Anthropic Claude 3.5 Sonnet to Superwhisper Pro models]]'
 - '[[Changes/Ollama/2024-06-27-added-support-for-google-gemma-2-models-9b-and-27b|Added
   support for Google Gemma 2 models (9B and 27B)]]'
 - '[[Changes/DeepSeek API/2024-06-28-deepseek-chat|deepseek-chat]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: f0bea4dbbc4b2fe032810126be4a529dd99e1495b5f06c6a4c4a4fd41078f06e
+machine_hash: 27bbb7b701270b8eb1eaa25724bf4ce413f879cc5412286d5a824b879182b7f5
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -61,10 +61,9 @@ record:
     you…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-07-3-safety-and-privacy-changes-in-v2-1-293|3 Safety
-  and Privacy changes in v2.1.293]]'
-- '[[Changes/Codex CLI/2026-10-07-9-safety-and-privacy-changes-in-rust-v0-161-0|9
-  Safety and Privacy changes in rust-v0.161.0]]'
+- '[[Changes/Devin/2026-10-07-security-profiles-teams-group-chats|Security Profiles:
+  Teams Group Chats]]'
+- '[[Changes/Devin/2026-10-07-devin-review-permissions|Devin Review Permissions]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-07-2-safety-and-privacy-changes-in-v1-0-93|2
   Safety and Privacy changes in v1.0.93]]'
 source_release: '[[Releases/Google Antigravity/google-antigravity-2026-10-07-rel-hub-2-21-1-b2504405|google-antigravity-2026-10-07-rel-hub-2-21-1-b2504405]]'

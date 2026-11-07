@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 142de34956b34e9f4e0f84e17ff1139da4e07f3ace820cc62c3ce55a0ddca737
+machine_hash: dd6b70eb5e6a69fb9b4286e3ff62418b6866245e57e3fdd326440dc8b5f0705c
 product: open-webui
 product_name: Open WebUI
 record:
@@ -49,8 +49,7 @@ record:
   title: "\U0001F7E6 **Azure OpenAI Embedding Support**"
   type: change
 related_changes:
-- '[[Changes/Cline/2025-05-22-add-integration-with-nebius-ai-studio-as-a-new-provider-thanks-aktsvigun|Add
-  integration with Nebius AI Studio as a new provider (Thanks @Aktsvigun!)]]'
+- '[[Changes/Devin/2025-05-22-deepwiki-mcp-server|DeepWiki MCP Server]]'
 - '[[Changes/Open WebUI/2025-05-26-4-apps-and-integrations-changes-in-v0-6-11|4 Apps
   and Integrations changes in v0.6.11]]'
 - '[[Changes/Dify/2025-05-27-5-apps-and-integrations-changes-in-1-4-1|5 Apps and Integrations

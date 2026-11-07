@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8194ba25c6f6dc1c9e26c05f966382c61cc7d1136827614deb1826d33319b556
+machine_hash: 87b16271456aebfeabaebf23309c8d6b040ee6472131470531567b3835fa705e
 product: opencode
 product_name: OpenCode
 record:
@@ -82,7 +82,7 @@ Source: https://opencode.ai/changelog/v1.2.8
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-02-19 · OpenCode · [[Changes/OpenCode/2026-02-19-46-mobile-and-desktop-changes-in-v1-2-7|46 Mobile and Desktop changes in v1.2.7]]
-- Later: 2026-02-20 · OpenCode · [[Changes/OpenCode/2026-02-20-2-mobile-and-desktop-changes-in-v1-2-10-1|2 Mobile and Desktop changes in v1.2.10 + 1]]
+- Later: 2026-02-19 · Raycast · [[Changes/Raycast/2026-02-19-import-settings-and-data-importing-from-macos-raycast-now-includes-hotkeys-alias|Import Settings and Data]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

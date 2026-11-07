@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 67f33446fad2d836d587f79a2bebee56e7f88e936c7bb36465ff912d907b2473
+machine_hash: 9bcb4496d34fb2dbef377cae30827cd23cb6580fbb4c63ac375750405c9d6f4b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -53,8 +53,8 @@ record:
   title: Sidebar redesign
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2024-11-19-user-settings-search-quickly-search-for-settings-fields-improving-ease-of-use-an|\U0001F50D
-  User Settings Search]]"
+- '[[Changes/Raycast/2024-11-20-search-menu-items-added-missing-globe-modifier-key-icon|Search
+  Menu Items: Added missing globe modifier key icon]]'
 - '[[Changes/Aider/2024-11-21-improved-model-settings-configuration-https-aider-chat-docs-config-adv-model-set|Improved
   model settings…]]'
 - '[[Changes/ChatGPT/2024-11-22-the-new-chat-button-has-been-moved-to-the-left-of-the-model-picker-to-be-easier|The
@@ -100,7 +100,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2024-11-21 · Aider · [[Changes/Aider/2024-11-21-improved-model-settings-configuration-https-aider-chat-docs-config-adv-model-set|Improved model settings…]]
-- Later: 2024-11-23 · Open WebUI · [[Changes/Open WebUI/2024-11-23-mobile-controls-visibility-resolved-an-issue-where-the-controls-button-was-not-d|📱 Mobile Controls Visibility]]
+- Later: 2024-11-22 · Devin · [[Changes/Devin/2024-11-22-bulk-import-secrets|Bulk import secrets]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

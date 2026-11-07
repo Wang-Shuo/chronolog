@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8c26e735ad297f40d8e11aa81e2770936f8a08701fb63e69ad210bc9339b760b
+machine_hash: 08eb0c05f5d1bf1b81112d3764182ad6f3f7c325b80e289237ad0c7bb1486759
 product: claude-code
 product_name: Claude Code
 record:
@@ -41,12 +41,10 @@ record:
   title: Removed `/tag` command
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-04-01-3-developer-workflow-changes-in-v0-36-0|3 Developer
-  Workflow changes in v0.36.0]]'
-- '[[Changes/GitHub Copilot CLI/2026-04-01-2-developer-workflow-changes-in-v1-0-15|2
-  Developer Workflow changes in v1.0.15]]'
 - '[[Changes/Cursor/2026-04-02-2-developer-workflow-changes-in-3-0|2 Developer Workflow
   changes in 3.0]]'
+- '[[Changes/Devin/2026-04-03-new-slash-command|/new Slash Command]]'
+- '[[Changes/Devin/2026-04-03-pr-review-chat-ci-tools|PR Review Chat CI Tools]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-04-v2-1-92-github-305189904-2eb020f5|claude-code-2026-04-04-v2-1-92-github-305189904-2eb020f5]]'
 source_type: github_releases
 theme: developer-workflow
@@ -83,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-04-02 · Cursor · [[Changes/Cursor/2026-04-02-2-developer-workflow-changes-in-3-0|2 Developer Workflow changes in 3.0]]
+- Earlier: 2026-04-03 · Devin · [[Changes/Devin/2026-04-03-pr-review-chat-ci-tools|PR Review Chat CI Tools]]
 - Later: 2026-04-04 · OpenCode · [[Changes/OpenCode/2026-04-04-restored-git-backed-review-modes|Restored git-backed review modes]]
 <!-- chronolog:end -->
 

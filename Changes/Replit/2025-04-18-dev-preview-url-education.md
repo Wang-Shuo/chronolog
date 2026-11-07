@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: e66f76242b9f8a8d5a3fa04c9afa094d6380364b74c984fb0ebab98a3b7be3c0
+machine_hash: bace2b3ba18f99b441e210a0f5b01a637c07cd9d1c31f90f999f323c818b786a
 product: replit
 product_name: Replit
 record:
@@ -45,12 +45,12 @@ record:
   title: Dev preview URL education
   type: change
 related_changes:
-- '[[Changes/Dify/2025-04-09-chore-slider-fix-the-slider-lint-error-by-nov1c444-in-https-github-com-langgeniu|chore(slider):
-  fix the slider lint error]]'
 - '[[Changes/Cline/2025-04-12-3-editor-experience-changes-in-v3-12-0|3 Editor Experience
   changes in v3.12.0]]'
 - '[[Changes/Aider/2025-04-14-added-new-editor-diff-editor-whole-and-editor-diff-fenced-edit-formats|Added
   new editor-diff, editor-whole, and editor-diff-fenced edit formats]]'
+- '[[Changes/Devin/2025-04-17-devin-knows-your-codebase-and-will-comment-on-each-ticket-in-minutes-with-a-summ|Devin
+  knows your codebase and will comment on each ticket in minutes with a summary…]]'
 source_release: '[[Releases/Replit/replit-2025-04-18-2025-04-18-24c8e895|replit-2025-04-18-2025-04-18-24c8e895]]'
 source_type: replit_changelog
 theme: editor-experience
@@ -85,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2025-04-14 · Aider · [[Changes/Aider/2025-04-14-added-new-editor-diff-editor-whole-and-editor-diff-fenced-edit-formats|Added new editor-diff, editor-whole, and editor-diff-fenced edit formats]]
+- Earlier: 2025-04-17 · Devin · [[Changes/Devin/2025-04-17-devin-knows-your-codebase-and-will-comment-on-each-ticket-in-minutes-with-a-summ|Devin knows your codebase and will comment on each ticket in minutes with a summary…]]
 - Later: 2025-04-19 · Cline · [[Changes/Cline/2025-04-19-add-ability-to-edit-past-messages-with-options-to-restore-your-workspace-back-to|Add ability to edit past messages, with options to restore your workspace back…]]
 <!-- chronolog:end -->
 

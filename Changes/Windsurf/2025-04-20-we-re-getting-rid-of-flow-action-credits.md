@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: pricing
-machine_hash: 2771d1a8598a398aec213f85ae3242cd979b361077859246ade468079a138e90
+machine_hash: f4127cbf8f98174f8306cd0e7d9122289c2f28782094685f625b112f9d014415
 product: windsurf
 product_name: Windsurf
 record:
@@ -57,11 +57,11 @@ record:
   title: We're getting rid of Flow Action Credits
   type: change
 related_changes:
-- '[[Changes/Aider/2025-04-04-prevent-retrying-api-calls-when-the-provider-reports-insufficient-credits|Prevent
-  retrying API calls when the provider reports insufficient credits]]'
-- '[[Changes/ElevenLabs/2025-04-07-user-subscription|User Subscription]]'
-- '[[Changes/Cline/2025-04-15-eng-435-xai-provider-cost-issue-by-canvrno-in-https-github-com-cline-cline-pull|ENG-435/xAI
-  provider cost issue]]'
+- '[[Changes/Recraft/2025-04-15-recraft-s-subscription-options-have-expanded-alongside-individual-plans-teams-ca|Recraft’s
+  subscription options have expanded]]'
+- '[[Changes/Recraft/2025-04-15-with-a-teams-subscription-teams-will-receive|With
+  a Teams subscription, teams will receive]]'
+- '[[Changes/Raycast/2025-04-16-try-raycast-ai-for-free|Try Raycast AI For Free]]'
 source_release: '[[Releases/Windsurf/windsurf-2025-04-20-v1-7-0-55878bca|windsurf-2025-04-20-v1-7-0-55878bca]]'
 source_type: windsurf_changelog
 theme: pricing-model
@@ -96,7 +96,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2025-04-15 · Cline · [[Changes/Cline/2025-04-15-eng-435-xai-provider-cost-issue-by-canvrno-in-https-github-com-cline-cline-pull|ENG-435/xAI provider cost issue]]
+- Earlier: 2025-04-16 · Raycast · [[Changes/Raycast/2025-04-16-try-raycast-ai-for-free|Try Raycast AI For Free]]
 - Later: 2025-05-02 · Lovable · [[Changes/Lovable/2025-05-02-improvements|Improvements]]
 <!-- chronolog:end -->
 

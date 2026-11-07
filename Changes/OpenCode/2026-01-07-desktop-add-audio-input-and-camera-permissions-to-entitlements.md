@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 90eb5bd05045a008246ef4c3c36f2cdbd9ff645096af871e339332cb2e944089
+machine_hash: 1c833157493e49fb608213f4608f81ac94f5c1714eae2daa21c9592f53427985
 product: opencode
 product_name: OpenCode
 record:
@@ -51,9 +51,10 @@ record:
   title: Desktop Add audio input and camera permissions to entitlements
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-01-05-python-sdk|Python SDK]]'
 - '[[Changes/ElevenLabs/2026-01-05-javascript-sdk|JavaScript SDK]]'
 - '[[Changes/ElevenLabs/2026-01-05-voices|Voices]]'
+- '[[Changes/Superwhisper/2026-01-05-improved-empty-transcription-handling|Improved
+  empty transcription handling]]'
 source_release: '[[Releases/OpenCode/opencode-2026-01-07-v1-1-6-b60a582d|opencode-2026-01-07-v1-1-6-b60a582d]]'
 source_type: opencode_changelog
 theme: voice
@@ -87,7 +88,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-01-05 · ElevenLabs · [[Changes/ElevenLabs/2026-01-05-voices|Voices]]
+- Earlier: 2026-01-05 · Superwhisper · [[Changes/Superwhisper/2026-01-05-improved-empty-transcription-handling|Improved empty transcription handling]]
 - Later: 2026-01-09 · Open WebUI · [[Changes/Open WebUI/2026-01-09-3-voice-and-audio-changes-in-v0-7-0|3 Voice and Audio changes in v0.7.0]]
 <!-- chronolog:end -->
 

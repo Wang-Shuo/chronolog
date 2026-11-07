@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1f4197f92e3864bca7f5b2af71355c3f0db60dca31741546c743440f742dae0b
+machine_hash: 5e8a7caaa01569e6682e9dddce593ddfc9c03cf7fd48f0995657c0b7760802d6
 product: openclaw
 product_name: OpenClaw
 record:
@@ -351,8 +351,8 @@ record:
   title: 52 Apps and Integrations changes in v2026.9.5
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-18-6-apps-and-integrations-changes-in-v2-1-277|6
-  Apps and Integrations changes in v2.1.277]]'
+- '[[Changes/Devin/2026-09-18-knowledge-is-moving-to-skills|Knowledge Is Moving to
+  Skills]]'
 - '[[Changes/Qoder/2026-09-18-remote-control-automatically-sync-local-conversation-history-updated-within-the|Remote
   Control: Automatically sync local conversation history updated within…]]'
 - '[[Changes/OpenClaw/2026-09-19-you-can-now-ask-btw-side-questions-about-photos-attached-to-the-current-message|Ask
@@ -516,7 +516,7 @@ Source: https://docs.openclaw.ai/releases/2026.9.5
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-09-18 · Qoder · [[Changes/Qoder/2026-09-18-remote-control-automatically-sync-local-conversation-history-updated-within-the|Remote Control: Automatically sync local conversation history updated within…]]
-- Later: 2026-09-21 · ElevenLabs · [[Changes/ElevenLabs/2026-09-21-sdk-releases|SDK releases]]
+- Later: 2026-09-21 · Devin · [[Changes/Devin/2026-09-21-required-and-available-to-install-plugins|Required and Available-to-Install Plugins]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

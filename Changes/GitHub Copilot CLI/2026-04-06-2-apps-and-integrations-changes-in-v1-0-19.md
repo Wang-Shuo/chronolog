@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7c89fe52a805d2c7233890564a92ad4e9970a0e36c9725ad9b656caca3383af7
+machine_hash: 109a2eb4fa8bc4d22961fd9feb03556ccf01050864179fa33aabced57e8b8985
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,8 +43,8 @@ record:
   title: 2 Apps and Integrations changes in v1.0.19
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-04-02-chat-connectors-hex-confidence-and-posthog|Chat connectors:
-  Hex, Confidence, and PostHog]]'
+- '[[Changes/Devin/2026-04-03-enterprise-mcp-registry-enforcement|Enterprise MCP Registry
+  Enforcement]]'
 - '[[Changes/Claude Code/2026-04-04-remote-control-session-names-now-use-your-hostname-as-the-default-prefix-e-g-myh|Remote
   Control session names now use your hostname as the default prefix…]]'
 - '[[Changes/OpenCode/2026-04-04-3-apps-and-integrations-changes-in-v1-3-15-1|3 Apps

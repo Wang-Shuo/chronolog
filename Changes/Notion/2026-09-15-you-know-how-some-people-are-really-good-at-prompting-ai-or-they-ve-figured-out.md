@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 78c4b6e73e5a2013e7fb28e655d70fe438054bfa2e12df78ad20ee9d65e32c52
+machine_hash: 774e69ba6751ce8d57d2579f86781bbd1dc3341b0dd4c303183b26a8accb8747
 product: notion
 product_name: Notion
 record:
@@ -50,8 +50,8 @@ record:
   title: You know how some people are really good at prompting AI?
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-09-11-3-collaboration-changes-in-v2026-9-4|3 Collaboration
-  changes in v2026.9.4]]'
+- '[[Changes/Raycast/2026-09-11-2-collaboration-changes-in-raycast-macos-2-3|2 Collaboration
+  changes in Raycast macos 2.3]]'
 - '[[Changes/Notion/2026-09-15-every-ai-skill-your-team-needs-in-one-library|Every
   AI skill your team needs, in one library]]'
 - '[[Changes/Notion/2026-09-15-take-your-team-s-skills-to-claude-code-codex-cursor-and-more|Take
@@ -95,8 +95,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-09-11 · OpenClaw · [[Changes/OpenClaw/2026-09-11-3-collaboration-changes-in-v2026-9-4|3 Collaboration changes in v2026.9.4]]
-- Later: 2026-09-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-16-share-notes-md-now-writes-the-exported-session-to-your-home-directory-instead-of|--share=~/notes.md now writes the exported session to your home directory instead…]]
+- Earlier: 2026-09-11 · Raycast · [[Changes/Raycast/2026-09-11-2-collaboration-changes-in-raycast-macos-2-3|2 Collaboration changes in Raycast macos 2.3]]
+- Later: 2026-09-16 · Devin · [[Changes/Devin/2026-09-16-teams-improvements|Teams Improvements]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

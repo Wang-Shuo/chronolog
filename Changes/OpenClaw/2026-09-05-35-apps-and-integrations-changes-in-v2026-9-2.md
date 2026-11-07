@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 68331f64d3cdbb559671c9b5658ec565a6adf57da906fc82f7cad386945608d9
+machine_hash: 441192d9c14c00d01208dd08fcd7872bdd516831ec23234d8da668d5944b9164
 product: openclaw
 product_name: OpenClaw
 record:
@@ -264,10 +264,10 @@ record:
   title: 35 Apps and Integrations changes in v2026.9.2
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-09-03-26-apps-and-integrations-changes-in-v2026-9-1|26
-  Apps and Integrations changes in v2026.9.1]]'
-- '[[Changes/Claude Code/2026-09-04-vscode-added-an-add-server-form-and-a-remove-action-to-the-mcp-servers-dialog-so|VSCode
-  Added an Add server form and a Remove action to the MCP servers dialog…]]'
+- '[[Changes/Devin/2026-09-04-google-workspace-mcp-setup-guidance|Google Workspace
+  MCP Setup Guidance]]'
+- '[[Changes/Devin/2026-09-04-aws-and-braintrust-mcp-servers-in-the-marketplace|AWS
+  and Braintrust MCP Servers in the Marketplace]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-04-7-apps-and-integrations-changes-in-v1-0-83|7
   Apps and Integrations changes in v1.0.83]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-09-05-v2026-9-2-377f6d77|openclaw-2026-09-05-v2026-9-2-377f6d77]]'

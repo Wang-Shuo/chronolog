@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 128f9e69a25fc81f2b94b7622fba86eeee69ee366ea9b62e6886ab03bf6c1910
+machine_hash: e006001d2f18f7aaa0bfef2cfb6658ecfd34b7ba224c553aa64780757ab91441
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,10 +44,9 @@ record:
   title: Improved startup time and memory use by building only the parts of the settings…
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-09-23-5-reliability-and-performance-changes-in-v2026-9-6|5
-  Reliability and Performance changes in v2026.9.6]]'
 - '[[Changes/Claude Code/2026-09-25-2-reliability-and-performance-changes-in-v2-1-283|2
   Reliability and Performance changes in v2.1.283]]'
+- '[[Changes/Devin/2026-09-25-performance-improvements|Performance Improvements]]'
 - '[[Changes/Synthesia/2026-09-25-pick-720p-1080p-or-4k-when-generating-b-roll-so-you-can-iterate-faster-control-q|Improved
   resolution options for generated B-roll]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-28-v2-1-284-github-398457074-cbb49e49|claude-code-2026-09-28-v2-1-284-github-398457074-cbb49e49]]'

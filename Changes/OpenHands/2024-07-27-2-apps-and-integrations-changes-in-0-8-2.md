@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5b03ad34440a359bcdd9cc5cd14dca33e2480db0a78181dcd9b78e788b92cb1b
+machine_hash: d7cf1a92106282f5eceebe774b2f5be163ca3eff72e74dc31e314368c0220fcf
 product: openhands
 product_name: OpenHands
 record:
@@ -44,12 +44,12 @@ record:
   title: 2 Apps and Integrations changes in 0.8.2
   type: change
 related_changes:
-- '[[Changes/Dify/2024-07-15-2-apps-and-integrations-changes-in-0-6-14|2 Apps and
-  Integrations changes in 0.6.14]]'
 - '[[Changes/OpenHands/2024-07-19-5-apps-and-integrations-changes-in-0-8-1|5 Apps
   and Integrations changes in 0.8.1]]'
 - '[[Changes/Dify/2024-07-23-3-apps-and-integrations-changes-in-0-6-15|3 Apps and
   Integrations changes in 0.6.15]]'
+- '[[Changes/AnythingLLM/2024-07-26-11-apps-and-integrations-changes-in-v1-0-0|11
+  Apps and Integrations changes in v1.0.0]]'
 source_release: '[[Releases/OpenHands/openhands-2024-07-27-0-8-2-github-167485944-4c47e7ce|openhands-2024-07-27-0-8-2-github-167485944-4c47e7ce]]'
 source_type: github_releases
 theme: apps-integrations
@@ -87,7 +87,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/0.8.2
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2024-07-23 · Dify · [[Changes/Dify/2024-07-23-3-apps-and-integrations-changes-in-0-6-15|3 Apps and Integrations changes in 0.6.15]]
+- Earlier: 2024-07-26 · AnythingLLM · [[Changes/AnythingLLM/2024-07-26-11-apps-and-integrations-changes-in-v1-0-0|11 Apps and Integrations changes in v1.0.0]]
 - Later: 2024-07-29 · Notion · [[Changes/Notion/2024-07-29-more-new-features|More new features!]]
 <!-- chronolog:end -->
 

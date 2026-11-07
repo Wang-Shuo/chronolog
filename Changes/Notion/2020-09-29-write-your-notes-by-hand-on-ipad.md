@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: adaba20bd8449266afa48b7950c89912f8551f30042e49862d0c6fb64e968796
+machine_hash: b4107c95f45d43e2c3a989b24255802a87019b79d5f2a7d120983b5ca4ee594c
 product: notion
 product_name: Notion
 record:
@@ -52,10 +52,9 @@ record:
   title: Write your notes by hand on iPad ✍️
   type: change
 related_changes:
-- '[[Changes/Notion/2020-09-02-reduced-vibration-intensity-for-haptic-feedback-on-android-and-disabled-vibratio|Reduced
-  vibration intensity for haptic feedback on Android, and disabled vibration…]]'
 - '[[Changes/Notion/2020-09-17-shift-return-is-now-supported-on-ipad-use-this-to-create-a-line-break-within-the|Shift
   + return is now supported on iPad!]]'
+- '[[Changes/Raycast/2020-09-22-asana|Asana]]'
 - '[[Changes/Descript/2020-09-29-descript-for-windows-now-supports-the-ability-to-select-from-various-microphone|(Windows)
   Additional Support for ASIO and DirectSound driver options]]'
 source_release: '[[Releases/Notion/notion-2020-09-29-https-www-notion-com-releases-2020-09-29-aa9896a3|notion-2020-09-29-https-www-notion-com-releases-2020-09-29-aa9896a3]]'
@@ -90,7 +89,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2020-09-29 · Descript · [[Changes/Descript/2020-09-29-descript-for-windows-now-supports-the-ability-to-select-from-various-microphone|(Windows) Additional Support for ASIO and DirectSound driver options]]
-- Later: 2020-10-15 · Notion · [[Changes/Notion/2020-10-15-better-keyboard-trackpad-mouse-support-for-ipad|Better keyboard, trackpad & mouse support for iPad 🐭]]
+- Later: 2020-09-30 · Raycast · [[Changes/Raycast/2020-09-30-with-macos-big-sur-around-the-corner-with-its-new-shiny-design-we-decided-to-fol|🌊With macOS Big Sur around the corner with its new shiny design, we decided…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

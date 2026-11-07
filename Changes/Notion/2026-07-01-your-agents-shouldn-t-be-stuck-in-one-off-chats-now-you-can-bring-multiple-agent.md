@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2e5356b842d6463c11655ce00e15df358fc226891f5b8922578d6a04a7f32c6c
+machine_hash: 633321b3d232405dc700b50fb2584ccda84241f6c0e3b7f84d9b2e9b22429aff
 product: notion
 product_name: Notion
 record:
@@ -56,12 +56,11 @@ record:
   title: Your agents shouldn’t be stuck in one-off chats
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-06-30-we-ve-expanded-team-marketplaces-to-support-team-mcps-and-organization-groups|Cursor
-  expands team marketplaces to support Team MCPs and organization groups]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-30-2-collaboration-changes-in-v1-0-66|2 Collaboration
   changes in v1.0.66]]'
 - '[[Changes/OpenClaw/2026-06-30-5-collaboration-changes-in-v2026-6-11|5 Collaboration
   changes in v2026.6.11]]'
+- '[[Changes/Devin/2026-07-01-gitlab-mention-only-comments|GitLab Mention-Only Comments]]'
 source_release: '[[Releases/Notion/notion-2026-07-01-https-www-notion-com-releases-2026-07-01-6813fa59|notion-2026-07-01-https-www-notion-com-releases-2026-07-01-6813fa59]]'
 source_type: notion_changelog
 theme: collaboration
@@ -99,8 +98,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-06-30 · OpenClaw · [[Changes/OpenClaw/2026-06-30-5-collaboration-changes-in-v2026-6-11|5 Collaboration changes in v2026.6.11]]
-- Later: 2026-07-07 · Lovable · [[Changes/Lovable/2026-07-07-the-last-owner-cannot-leave-a-shared-folder|The last owner cannot leave a shared folder]]
+- Earlier: 2026-07-01 · Devin · [[Changes/Devin/2026-07-01-gitlab-mention-only-comments|GitLab Mention-Only Comments]]
+- Later: 2026-07-02 · Raycast · [[Changes/Raycast/2026-07-02-ai-share-code-blocks-to-ray-so|AI : Share code blocks to ray.so]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

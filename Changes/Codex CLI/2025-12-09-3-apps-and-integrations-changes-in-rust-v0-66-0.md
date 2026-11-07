@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ead0e09709f8eb3684c6398f693b85410fe2aa47d49d4380b28f6291eb585835
+machine_hash: 9c1b07111bb5099013c3bbbf87ac741fb64b3499873f664dd896c29ac4d1fa20
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -45,9 +45,10 @@ record:
   title: 3 Apps and Integrations changes in rust-v0.66.0
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2025-12-08-sdk-releases|SDK Releases]]'
 - '[[Changes/ElevenLabs/2025-12-08-javascript-sdk|JavaScript SDK]]'
 - '[[Changes/ElevenLabs/2025-12-08-python-sdk|Python SDK]]'
+- '[[Changes/AnythingLLM/2025-12-09-2-apps-and-integrations-changes-in-v1-9-1|2 Apps
+  and Integrations changes in v1.9.1]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-12-09-rust-v0-66-0-github-268559734-698ec8f9|codex-cli-2025-12-09-rust-v0-66-0-github-268559734-698ec8f9]]'
 source_type: github_releases
 theme: apps-integrations
@@ -92,7 +93,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.66.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-12-08 · ElevenLabs · [[Changes/ElevenLabs/2025-12-08-python-sdk|Python SDK]]
+- Earlier: 2025-12-09 · AnythingLLM · [[Changes/AnythingLLM/2025-12-09-2-apps-and-integrations-changes-in-v1-9-1|2 Apps and Integrations changes in v1.9.1]]
 - Later: 2025-12-09 · Gemini CLI · [[Changes/Gemini CLI/2025-12-09-8-apps-and-integrations-changes-in-v0-20-0|8 Apps and Integrations changes in v0.20.0]]
 <!-- chronolog:end -->
 

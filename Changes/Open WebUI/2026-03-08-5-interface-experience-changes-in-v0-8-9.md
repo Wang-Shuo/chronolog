@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 337497575464586022716124f3f258978c13072d5386240621332abb872d3d92
+machine_hash: 5d53e033d908d1dad4f9d5a301c7006e044ee0541d878117506b18d818a74b9f
 product: open-webui
 product_name: Open WebUI
 record:
@@ -62,7 +62,7 @@ record:
   title: 5 Interface Experience changes in v0.8.9
   type: change
 related_changes:
-- '[[Changes/Replit/2026-03-06-ai-chat-message-truncation|AI Chat message truncation]]'
+- '[[Changes/Devin/2026-03-07-install-devin-as-an-app|Install Devin as an App]]'
 - '[[Changes/OpenCode/2026-03-07-2-interface-experience-changes-in-v1-2-21|2 Interface
   Experience changes in v1.2.21]]'
 - '[[Changes/Codex CLI/2026-03-08-added-a-new-model-selection-surface-update-so-the-latest-model-catalog-changes-a|Added

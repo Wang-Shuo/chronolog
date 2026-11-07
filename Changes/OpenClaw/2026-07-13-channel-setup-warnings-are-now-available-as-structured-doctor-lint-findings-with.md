@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 02c887931597669df59134b7467366e90be1ca4b04144c5ac15b191ba931e65c
+machine_hash: 33f90b4803444a2f72c0655970ef069910ce2e043952b7414f0508733f3ab066
 product: openclaw
 product_name: OpenClaw
 record:
@@ -44,8 +44,8 @@ record:
   title: Channel setup warnings are now available as structured Doctor lint findings…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-07-09-work-can-also-keep-projects-moving-through-scheduled-tasks-that-run-once-repeat-2d6910|Work
-  can also keep projects moving through Scheduled Tasks that run once, repeat…]]'
+- '[[Changes/Superwhisper/2026-07-10-added-new-deep-links-to-start-and-stop-recording-making-it-easier-to-control-sup|Added
+  new deep links to start and stop recording, making it easier to control…]]'
 - '[[Changes/Kimi Code/2026-07-12-keep-kimi-p-runs-alive-after-a-turn-ends-while-a-goal-is-still-active-or-a-cron|Keep
   kimi -p runs alive after a turn ends while a goal is still active or a cron…]]'
 - '[[Changes/OpenClaw/2026-07-13-79-automation-and-scheduling-changes-in-v2026-7-1|79

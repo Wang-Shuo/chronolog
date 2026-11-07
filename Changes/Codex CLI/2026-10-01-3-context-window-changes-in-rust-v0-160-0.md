@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 699d10f583c82702260ae600354bd949e4153d3cdf82b553c6b299b03c410270
+machine_hash: 3fe405942a3d8318093eb4762b33218042f175a43f8c8c4331f968e0853872c7
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -45,10 +45,10 @@ record:
   title: 3 Context Window changes in rust-v0.160.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-09-30-compaction-now-returns-a-summary-even-when-instructions-ask-for-tool-use|Compaction
-  now returns a summary even when instructions ask for tool use]]'
 - '[[Changes/OpenClaw/2026-09-30-4-context-window-changes-in-v2026-9-7|4 Context Window
   changes in v2026.9.7]]'
+- '[[Changes/AnythingLLM/2026-10-01-2-context-window-changes-in-v1-17-0|2 Context
+  Window changes in v1.17.0]]'
 - '[[Changes/Claude Code/2026-10-01-changed-opus-4-7-and-fable-to-use-a-1m-context-window-by-default-on-bedrock-vert|Changed
   Opus 4.7+ and Fable to use a 1M context window by default on Bedrock…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-10-01-rust-v0-160-0-github-401312540-620e0269|codex-cli-2026-10-01-rust-v0-160-0-github-401312540-620e0269]]'

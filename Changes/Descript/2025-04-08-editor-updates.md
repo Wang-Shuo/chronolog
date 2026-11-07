@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 1321468a28f5445359af2796539dcc1e34d282db8c727af784872678839f3743
+machine_hash: 9f44538a3f6f74180a2806c8799037e973eb3b417605df88ce578c05d1830369
 product: descript
 product_name: Descript
 record:
@@ -98,7 +98,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2025-04-07 · Windsurf · [[Changes/Windsurf/2025-04-07-ability-to-edit-subdomain-on-website-deploy|Ability to edit subdomain on website deploy]]
-- Later: 2025-04-09 · Dify · [[Changes/Dify/2025-04-09-chore-slider-fix-the-slider-lint-error-by-nov1c444-in-https-github-com-langgeniu|chore(slider): fix the slider lint error]]
+- Later: 2025-04-08 · Devin · [[Changes/Devin/2025-04-08-devin-knows-your-codebase-and-will-comment-on-each-ticket-in-minutes-with|Devin knows your codebase and will comment on each ticket in minutes with]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: f6be3ebb128e784be5210dbf4aee3c7f58d8381c6faadbc0ded06026d3ff415e
+machine_hash: e4729b5e1f094bf38463318203a01e3d2d227579c87f923f25741a06ed136088
 product: dify
 product_name: Dify
 record:
@@ -53,8 +53,10 @@ record:
   title: 'feat: Add Audio Content Support for MCP Tools'
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2025-11-12-elevencreative-studio|ElevenCreative Studio]]'
-- '[[Changes/ElevenLabs/2025-11-12-python-sdk|Python SDK]]'
+- '[[Changes/Raycast/2025-11-12-dictation-is-now-faster-more-reliable-and-better-than-ever-powered-by-elevenlabs|Dictation
+  is now faster, more reliable, and better than ever]]'
+- '[[Changes/Raycast/2025-11-12-dictation-faster-improved-dictation-in-90-languages-available-from-the-keyboard|Dictation:
+  Faster & improved dictation in 90+ languages]]'
 - '[[Changes/Cline/2025-11-13-2-voice-and-audio-changes-in-v3-37-0|2 Voice and Audio
   changes in v3.37.0]]'
 source_release: '[[Releases/Dify/dify-2025-11-13-1-10-0-github-262130588-ef271481|dify-2025-11-13-1-10-0-github-262130588-ef271481]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 34f00497f78d8ee42937610fe8b2f8c3cc763c994ee7381bc4d3d4889eb28c84
+machine_hash: c9b53232ac1617b6fc182360652aaca2f5e49939f0115a1c7edad32add0c292d
 product: lovable
 product_name: Lovable
 record:
@@ -56,8 +56,10 @@ record:
   title: Add voice to your app with text-to-speech and speech-to-text
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-06-15-speech-to-text-d2421e|Speech to Text]]'
-- '[[Changes/ElevenLabs/2026-06-15-elevencreative-studio-f3d23d|ElevenCreative Studio]]'
+- '[[Changes/Wispr Flow/2026-06-17-always-on-live-dictation-timer-ios|Always-On Live
+  Dictation Timer (iOS)]]'
+- '[[Changes/Wispr Flow/2026-06-17-never-lose-a-dictation-again-ios|Never Lose a Dictation
+  Again (iOS)]]'
 - '[[Changes/ChatGPT/2026-06-18-help-with-pronunciations-chatgpt-can-now-include-text-and-audio-pronunciation-gu|Help
   with pronunciations]]'
 source_release: '[[Releases/Lovable/lovable-2026-06-18-2026-06-18-3e62b64d|lovable-2026-06-18-2026-06-18-3e62b64d]]'
@@ -97,7 +99,7 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2026-06-18 · ChatGPT · [[Changes/ChatGPT/2026-06-18-help-with-pronunciations-chatgpt-can-now-include-text-and-audio-pronunciation-gu|Help with pronunciations]]
-- Later: 2026-06-19 · Replit · [[Changes/Replit/2026-06-19-voice-mode|Voice Mode]]
+- Later: 2026-06-18 · Raycast · [[Changes/Raycast/2026-06-18-2-voice-and-audio-changes-in-raycast-macos-0-65|2 Voice and Audio changes in Raycast macos 0.65]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

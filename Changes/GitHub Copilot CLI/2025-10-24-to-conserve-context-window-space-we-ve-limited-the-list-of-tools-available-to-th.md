@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 783f4cc56feb3dd4fbec411cec632cf5ed77e53eaa2db42019ed82cae7b0b57c
+machine_hash: 5a0d11f11147b02aa376ab48018cd39780ce5f7cea952c2c02ef61d2d4a26af1
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -66,12 +66,11 @@ record:
   title: To conserve context window space, we've limited the list of tools available…
   type: change
 related_changes:
-- '[[Changes/Cline/2025-10-23-auto-compact-updates-by-0xtoshii-in-https-github-com-cline-cline-pull-6909|auto
-  compact updates]]'
 - '[[Changes/Codex CLI/2025-10-23-auto-compact-at-90-by-aibrahim-oai-in-https-github-com-openai-codex-pull-5292|Auto
   compact at ~90%]]'
 - '[[Changes/Windsurf/2025-10-23-improvements-to-fast-context-enterprises-can-opt-in-using-the-windsurf-team-sett|Improvements
   to Fast Context]]'
+- '[[Changes/Devin/2025-10-24-pre-selected-user-roles|Pre-selected User Roles]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2025-10-24-v0-0-350-github-256864744-709fc85c|github-copilot-cli-2025-10-24-v0-0-350-github-256864744-709fc85c]]'
 source_type: github_releases
 theme: context-window
@@ -104,7 +103,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2025-10-23 · Windsurf · [[Changes/Windsurf/2025-10-23-improvements-to-fast-context-enterprises-can-opt-in-using-the-windsurf-team-sett|Improvements to Fast Context]]
+- Earlier: 2025-10-24 · Devin · [[Changes/Devin/2025-10-24-pre-selected-user-roles|Pre-selected User Roles]]
 - Later: 2025-10-29 · Cursor · [[Changes/Cursor/2025-10-29-improved-prompt-ui|Improved Prompt UI]]
 <!-- chronolog:end -->
 

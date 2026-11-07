@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2f6e442a869ad6fb71302a00e5609779eb0ce7abd11c136c11a5fab6d24062d8
+machine_hash: 4120edd7fe825a3190a3ebafc88029ea9e440e5963f319cc31dea0963cae6821
 product: open-webui
 product_name: Open WebUI
 record:
@@ -43,10 +43,10 @@ record:
   title: "**\U0001F50D SearxNG Web Search**"
   type: change
 related_changes:
-- '[[Changes/Notion/2023-12-20-quickly-find-pages-with-better-search|Quickly find
-  pages with better search]]'
 - '[[Changes/Cursor/2024-01-25-using-web-in-chat-will-give-the-ai-the-ability-to-crawl-the-web-the-tools-it-can|Using
   @Web in chat will give the AI the ability to crawl the web!]]'
+- '[[Changes/Raycast/2024-03-07-ai-chat-automatic-web-search-preference-is-remembered-across-new-chats|AI
+  Chat: Automatic Web Search preference is remembered across new chats]]'
 - "[[Changes/Open WebUI/2024-06-02-web-search-support-introducing-built-in-web-search-capabilities-via-rag-api-allo|\U0001F50D
   Web Search Support]]"
 source_release: '[[Releases/Open WebUI/open-webui-2024-06-04-v0-2-4-github-158723630-a8af45db|open-webui-2024-06-04-v0-2-4-github-158723630-a8af45db]]'

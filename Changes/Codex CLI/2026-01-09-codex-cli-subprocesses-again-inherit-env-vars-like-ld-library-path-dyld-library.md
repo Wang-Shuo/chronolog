@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: aa4ced1de1da81f28f0bf273bd3425af339e93eb495df8459b94af0511e8f2d9
+machine_hash: 138761bb2abbbee40a41ab2a787840aaf0d084fac0435993454a3359b9632ca3
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -93,7 +93,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-01-08 · Cursor · [[Changes/Cursor/2026-01-08-2-reliability-and-performance-changes-in-new-cli-features-and-improved-cli|2 Reliability and Performance changes in New CLI Features and Improved CLI…]]
-- Later: 2026-01-09 · Midjourney · [[Changes/Midjourney/2026-01-09-niji-v7-features-improved-anime-coherence-prompt-understanding-text-rendering-an|Niji V7 features improved anime coherence, prompt understanding, text rendering…]]
+- Later: 2026-01-09 · Devin · [[Changes/Devin/2026-01-09-various-bug-fixes-and-performance-improvements-across-the-platform|Various bug fixes and performance improvements across the platform]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

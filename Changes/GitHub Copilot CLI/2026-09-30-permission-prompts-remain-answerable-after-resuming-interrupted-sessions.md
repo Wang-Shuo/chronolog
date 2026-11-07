@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f1c1194b1b573fed4363e918028f04aeb306477d087d84df61397d404beae03e
+machine_hash: b42898ebe1f637ec24c3fcb9535b4cafc35b538e41b0ec4b4111655946710de3
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,12 +43,12 @@ record:
   title: Permission prompts remain answerable after resuming interrupted sessions
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-29-3-safety-and-privacy-changes-in-rust-v0-159-0|3
-  Safety and Privacy changes in rust-v0.159.0]]'
 - '[[Changes/Claude Code/2026-09-30-4-safety-and-privacy-changes-in-v2-1-286|4 Safety
   and Privacy changes in v2.1.286]]'
 - '[[Changes/Codex CLI/2026-09-30-2-safety-and-privacy-changes-in-rust-v0-159-3|2
   Safety and Privacy changes in rust-v0.159.3]]'
+- '[[Changes/Devin/2026-09-30-hardware-accelerated-emulators-in-sessions|Hardware-Accelerated
+  Emulators in Sessions]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-09-30-v1-0-90-github-400456416-452b5a7d|github-copilot-cli-2026-09-30-v1-0-90-github-400456416-452b5a7d]]'
 source_type: github_releases
 theme: safety-privacy
@@ -85,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-09-30 · Codex CLI · [[Changes/Codex CLI/2026-09-30-2-safety-and-privacy-changes-in-rust-v0-159-3|2 Safety and Privacy changes in rust-v0.159.3]]
+- Earlier: 2026-09-30 · Devin · [[Changes/Devin/2026-09-30-hardware-accelerated-emulators-in-sessions|Hardware-Accelerated Emulators in Sessions]]
 - Later: 2026-09-30 · Lovable · [[Changes/Lovable/2026-09-30-rotate-your-cloud-database-password-from-chat|Rotate your Cloud database password from chat]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: cc534633f09e815532a1f967e8dbd59cd72779a0112412f88c50a3d7bba33b83
+machine_hash: 8c6f93bedc2b98a0938cc5cf8cbf7e89eaf83454a53e1ddcb8c49dd4b9b351d4
 product: descript
 product_name: Descript
 record:
@@ -48,12 +48,12 @@ record:
   title: Word Gap toolbar control
   type: change
 related_changes:
-- '[[Changes/Descript/2021-08-10-tab-and-shift-tab-now-work-to-cycle-through-fields-in-the-inspector|TAB
-  and Shift-TAB now work to cycle through fields in the inspector]]'
-- '[[Changes/Notion/2021-08-10-buttons-across-the-notion-interface-can-now-be-highlighted-with-the-tab-key-and|Buttons
-  across the Notion interface can now be highlighted with the tab key…]]'
+- '[[Changes/Raycast/2021-08-25-the-configure-command-action-panel-item-on-the-root-search-will-now-always-take|The
+  Configure Command action panel item ( ⌘ ⇧ , ) on the root search will now always…]]'
 - '[[Changes/Notion/2021-09-08-better-url-properties-in-databases|Better URL properties
   in databases]]'
+- '[[Changes/Raycast/2021-09-10-scripts-invalid-script-encoding-is-now-detected-by-raycast-letting-the-user-re-e|Scripts
+  : Invalid script encoding is now detected by Raycast, letting the user…]]'
 source_release: '[[Releases/Descript/descript-2021-09-21-6390c9c94a4a0d64fa5646cc-3e2ec472|descript-2021-09-21-6390c9c94a4a0d64fa5646cc-3e2ec472]]'
 source_type: canny_changelog
 theme: editor-experience
@@ -85,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2021-09-08 · Notion · [[Changes/Notion/2021-09-08-better-url-properties-in-databases|Better URL properties in databases]]
+- Earlier: 2021-09-10 · Raycast · [[Changes/Raycast/2021-09-10-scripts-invalid-script-encoding-is-now-detected-by-raycast-letting-the-user-re-e|Scripts : Invalid script encoding is now detected by Raycast, letting the user…]]
 - Later: 2021-10-07 · Descript · [[Changes/Descript/2021-10-07-editor-improvements|Editor improvements]]
 <!-- chronolog:end -->
 

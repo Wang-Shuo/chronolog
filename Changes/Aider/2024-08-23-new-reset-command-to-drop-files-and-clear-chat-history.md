@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 121b1e9db76d87c76ed0c6583e2b969c9d04fab5510582df4e9a71d768b27aaa
+machine_hash: 4ae0d937f4caf434299ac6ac98d9275bf09736cc44c780e3a758ded9a94f9f0d
 product: aider
 product_name: Aider
 record:
@@ -45,8 +45,8 @@ record:
   title: New `/reset` command to `/drop` files and `/clear` chat history
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2024-08-14-enhanced-markdown-rendering-significant-improvements-in-rendering-markdown-ensur|\U0001F3A8
-  Enhanced Markdown Rendering]]"
+- '[[Changes/AnythingLLM/2024-08-19-improve-search-of-document-picker-by-shatfield4-in-https-github-com-mintplex-lab|Improve
+  search of document picker]]'
 - '[[Changes/Open WebUI/2024-08-21-3-interface-experience-changes-in-v0-3-14|3 Interface
   Experience changes in v0.3.14]]'
 - '[[Changes/Cursor/2024-08-22-we-have-a-new-chat-ux-excited-for-you-to-try-it-out-and-share-your-thoughts|We

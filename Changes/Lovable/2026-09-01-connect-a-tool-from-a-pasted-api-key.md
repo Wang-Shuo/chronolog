@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 6ba55685eba46e87f8d7cc10e64c34e41a60f7bc9304b0f44c9fdfef71a048a3
+machine_hash: debdc5132d814ed8a2974a455f1bb9157f4f22e18bac521a9af75aed0683bd49
 product: lovable
 product_name: Lovable
 record:
@@ -50,12 +50,11 @@ record:
   title: Connect a tool from a pasted API key
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-09-01-eligible-chatgpt-for-clinicians-users-in-the-united-states-can-now-use-healthcar|Healthcare
-  Public Data in ChatGPT for Clinicians]]'
 - '[[Changes/Claude Code/2026-09-01-2-apps-and-integrations-changes-in-v2-1-257|2
   Apps and Integrations changes in v2.1.257]]'
 - '[[Changes/Codex CLI/2026-09-01-16-apps-and-integrations-changes-in-rust-v0-152-0|16
   Apps and Integrations changes in rust-v0.152.0]]'
+- '[[Changes/Krea/2026-09-01-krea-plugin-for-chatgpt|Krea plugin for ChatGPT]]'
 source_release: '[[Releases/Lovable/lovable-2026-09-01-2026-09-01-13cb07e2|lovable-2026-09-01-2026-09-01-13cb07e2]]'
 source_type: lovable_changelog
 theme: apps-integrations
@@ -86,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-09-01 · Codex CLI · [[Changes/Codex CLI/2026-09-01-16-apps-and-integrations-changes-in-rust-v0-152-0|16 Apps and Integrations changes in rust-v0.152.0]]
+- Earlier: 2026-09-01 · Krea · [[Changes/Krea/2026-09-01-krea-plugin-for-chatgpt|Krea plugin for ChatGPT]]
 - Later: 2026-09-01 · OpenClaw · [[Changes/OpenClaw/2026-09-01-9-apps-and-integrations-changes-in-v2026-8-2|9 Apps and Integrations changes in v2026.8.2]]
 <!-- chronolog:end -->
 

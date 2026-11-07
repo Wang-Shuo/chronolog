@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 08d5a35cf7580e5940faa11ccaf6c38df84feff03339ea6d3a1e4b2fd72b732b
+machine_hash: de57ab4c48e15ccdc44e3272b0ed34152de86e285b3f632a3f4d10ae788f0237
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,8 @@ record:
   title: 2 Apps and Integrations changes in v2.1.98
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-04-08-give-bugbot-access-to-mcp-servers-for-additional-context-during-code-reviews-on|Bugbot
-  MCP Support]]'
-- '[[Changes/Cursor/2026-04-08-this-release-introduces-updates-to-bugbot-including-the-ability-to-self-improve|Cursor
-  introduces updates to Bugbot including the ability to self-improve in real…]]'
+- '[[Changes/Devin/2026-04-08-mcp-marketplace-upgrades|MCP Marketplace Upgrades]]'
+- '[[Changes/Devin/2026-04-08-mcp-audit-logs|MCP Audit Logs]]'
 - '[[Changes/Gemini CLI/2026-04-08-3-apps-and-integrations-changes-in-v0-37-0|3 Apps
   and Integrations changes in v0.37.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-09-v2-1-98-github-307232194-a0774436|claude-code-2026-04-09-v2-1-98-github-307232194-a0774436]]'

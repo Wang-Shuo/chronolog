@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: fa7e6580b640dd7abc183726abb9d53e1d2362a5142cab8828f44ddbd73f9a81
+machine_hash: 068c718ab27fb142c133ae417645bcb211b0595a75222d625b514386c91397f8
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,12 +42,11 @@ record:
   title: Improved `/voice` to show your dictation language on enable and warn…
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2026-03-09-azure-speech-transcription-errors-improved-azure-ai-speech-error-handling-to-dis|\U0001F3A4
-  Azure speech transcription errors. Improved Azure AI Speech error handling…]]"
-- '[[Changes/Claude Code/2026-03-10-improved-voice-input-transcription-accuracy-for-repo-names-and-common-dev-terms|Improved
-  voice input transcription accuracy for repo names and common dev terms…]]'
-- '[[Changes/Claude Code/2026-03-11-improved-voice-mode-to-automatically-retry-transient-connection-failures-during|Improved
-  voice mode to automatically retry transient connection failures during…]]'
+- '[[Changes/Superwhisper/2026-03-11-2-voice-and-audio-changes-in-superwhisper-windows-1-2-32|2
+  Voice and Audio changes in Superwhisper Windows 1.2.32]]'
+- '[[Changes/Superwhisper/2026-03-11-2-voice-and-audio-changes-in-superwhisper-windows-1-2-30|2
+  Voice and Audio changes in Superwhisper Windows 1.2.30]]'
+- '[[Changes/Devin/2026-03-13-new-session-inputs|New Session Inputs]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-14-v2-1-76-github-296929324-94cd2ffc|claude-code-2026-03-14-v2-1-76-github-296929324-94cd2ffc]]'
 source_type: github_releases
 theme: voice
@@ -84,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-03-11 · Claude Code · [[Changes/Claude Code/2026-03-11-improved-voice-mode-to-automatically-retry-transient-connection-failures-during|Improved voice mode to automatically retry transient connection failures during…]]
+- Earlier: 2026-03-13 · Devin · [[Changes/Devin/2026-03-13-new-session-inputs|New Session Inputs]]
 - Later: 2026-03-16 · Codex CLI · [[Changes/Codex CLI/2026-03-16-4-voice-and-audio-changes-in-rust-v0-115-0|4 Voice and Audio changes in rust-v0.115.0]]
 <!-- chronolog:end -->
 

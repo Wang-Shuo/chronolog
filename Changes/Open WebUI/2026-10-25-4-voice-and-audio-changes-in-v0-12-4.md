@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 822b7cbcbd4e7d53d01ff8fecbdd7d2b3e458ae2586c2ca8da09306697c8a7c4
+machine_hash: 1bfef8e5c97701e0e102c1277f92c96bd4d81a4c599992ada964822579193adc
 product: open-webui
 product_name: Open WebUI
 record:
@@ -63,10 +63,10 @@ record:
   title: 4 Voice and Audio changes in v0.12.4
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-10-22-3-voice-and-audio-changes-in-v2026-10-6|3 Voice and
-  Audio changes in v2026.10.6]]'
 - '[[Changes/Codex CLI/2026-10-23-3-voice-and-audio-changes-in-rust-v0-164-0|3 Voice
   and Audio changes in rust-v0.164.0]]'
+- '[[Changes/Krea/2026-10-24-audio-tool-and-voice-cloning-for-everyone|Audio tool
+  and voice cloning for everyone]]'
 - '[[Changes/Ollama/2026-10-24-ollama-can-now-generate-speech-https-docs-ollama-com-capabilities-speech-on-maco|Ollama
   can now generate speech((source link) on macOS]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-10-25-v0-12-4-github-423239437-ffa84a79|open-webui-2026-10-25-v0-12-4-github-423239437-ffa84a79]]'
@@ -119,7 +119,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.12.4
 ## Nearby in Voice and Audio
 
 - Earlier: 2026-10-24 · Ollama · [[Changes/Ollama/2026-10-24-ollama-can-now-generate-speech-https-docs-ollama-com-capabilities-speech-on-maco|Ollama can now generate speech((source link) on macOS]]
-- Later: 2026-10-26 · ElevenLabs · [[Changes/ElevenLabs/2026-10-26-python-sdk|Python SDK]]
+- Later: 2026-10-26 · AnythingLLM · [[Changes/AnythingLLM/2026-10-26-support-mov-files-for-transcription-by-shatfield4-in-https-github-com-mintplex-l|Support .mov files for transcription]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

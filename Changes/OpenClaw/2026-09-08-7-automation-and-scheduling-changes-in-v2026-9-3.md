@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5ef3113e2a99dc6ca51a0847f24d5b40451df30f5e38d6aa50a67e22d7f1cb77
+machine_hash: 4c5884e1652477cb2090c84b79405599b3bbbaf31a966e153ac6b34063cdb8e7
 product: openclaw
 product_name: OpenClaw
 record:
@@ -72,10 +72,10 @@ record:
   title: 7 Automation and Scheduling changes in v2026.9.3
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-09-01-2-automation-and-scheduling-changes-in-v2026-8-2|2
-  Automation and Scheduling changes in v2026.8.2]]'
 - '[[Changes/OpenClaw/2026-09-03-13-automation-and-scheduling-changes-in-v2026-9-1|13
   Automation and Scheduling changes in v2026.9.1]]'
+- '[[Changes/Devin/2026-09-04-code-scan-no-op-runs-when-there-are-no-new-commits|Code
+  Scan No-Op Runs When There Are No New Commits]]'
 - '[[Changes/OpenClaw/2026-09-05-8-automation-and-scheduling-changes-in-v2026-9-2|8
   Automation and Scheduling changes in v2026.9.2]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-09-08-v2026-9-3-dfcfef48|openclaw-2026-09-08-v2026-9-3-dfcfef48]]'
@@ -141,7 +141,7 @@ Source: https://docs.openclaw.ai/releases/2026.9.3
 ## Nearby in Automation and Scheduling
 
 - Earlier: 2026-09-05 · OpenClaw · [[Changes/OpenClaw/2026-09-05-8-automation-and-scheduling-changes-in-v2026-9-2|8 Automation and Scheduling changes in v2026.9.2]]
-- Later: 2026-09-09 · OpenHands · [[Changes/OpenHands/2026-09-09-9-automation-and-scheduling-changes-in-v1-17-0|9 Automation and Scheduling changes in v1.17.0]]
+- Later: 2026-09-09 · Devin · [[Changes/Devin/2026-09-09-automations-page-refresh|Automations Page Refresh]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

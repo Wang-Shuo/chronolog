@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: edfcf13ca964f474a1895d1dfdc715ad5e05b3894528c3bff691964d7c0f134c
+machine_hash: ef60eaaf8b17b7272a80f79692eeae2bfaee4ddd2d114b33730a39d781ad1971
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,8 +47,8 @@ record:
   title: 2 Apps and Integrations changes in v2.1.207
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-07-09-chore-bump-sdk-packages-to-v1-34-0-by-all-hands-bot-in-https-github-com-openhand|chore:
-  bump SDK packages to v1.34.0]]'
+- '[[Changes/Raycast/2026-07-09-applications-app-search-scopes-now-discover-shortcut-files-lnk-so-apps-reference|Applications
+  : App search scopes now discover shortcut files (.lnk), so apps…]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-10-9-apps-and-integrations-changes-in-v1-0-70|9
   Apps and Integrations changes in v1.0.70]]'
 - '[[Changes/Replit/2026-07-10-integrations|Integrations]]'

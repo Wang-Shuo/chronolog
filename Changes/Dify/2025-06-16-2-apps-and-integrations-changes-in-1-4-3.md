@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d56f7808079793acecca3290c11a889ff8788ec1be70238becfc10d20b5f5654
+machine_hash: 5f63a990009343f2846ba3d205c737e6ea09a6a3f75b382c4eadb66f013d21b3
 product: dify
 product_name: Dify
 record:
@@ -46,8 +46,8 @@ record:
   title: 2 Apps and Integrations changes in 1.4.3
   type: change
 related_changes:
-- '[[Changes/Dify/2025-06-11-6-apps-and-integrations-changes-in-1-4-2|6 Apps and Integrations
-  changes in 1.4.2]]'
+- "[[Changes/Raycast/2025-06-11-mcp-http-servers-support-for-http-mcp-servers-using-the-sse-server-sent-events-a|\U0001F38F
+  MCP HTTP Servers]]"
 - '[[Changes/Cline/2025-06-12-2-apps-and-integrations-changes-in-v3-17-13|2 Apps and
   Integrations changes in v3.17.13]]'
 - '[[Changes/Cursor/2025-06-12-agents-understand-context-6b73fc|Agents understand

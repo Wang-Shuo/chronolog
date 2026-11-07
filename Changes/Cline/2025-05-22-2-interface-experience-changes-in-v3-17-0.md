@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 524687c98429aba88cd8a40d458d1f47306ab3df2d903760ae52995d3ac30aec
+machine_hash: 89e4470f36381e9b3f7ae4d285e8ccc2d950b726b0d414ac5285070719e20aa4
 product: cline
 product_name: Cline
 record:
@@ -85,7 +85,7 @@ Source: https://github.com/cline/cline/releases/tag/v3.17.0
 ## Nearby in Interface Experience
 
 - Earlier: 2025-05-21 · Cline · [[Changes/Cline/2025-05-21-add-keyboard-shortcut-cmd-to-quickly-focus-cline-from-anywhere-in-vs-code-d699eb|Add keyboard shortcut (Cmd+') to quickly focus Cline from anywhere in VS Code]]
-- Later: 2025-05-24 · Lovable · [[Changes/Lovable/2025-05-24-improvements|Improvements]]
+- Later: 2025-05-23 · LM Studio · [[Changes/LM Studio/2025-05-23-3-interface-experience-changes-in-lm-studio-0-3-16|3 Interface Experience changes in LM Studio 0.3.16]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6322f9801dcec0f7eaeb2789fde012df539d00aef7f0e37e513675fa53843c07
+machine_hash: 4c4b00524016b352fe74ca70742e2451d9d844edf456f519a2d242d03813a130
 product: ollama
 product_name: Ollama
 record:
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-03-17 · Gemini CLI · [[Changes/Gemini CLI/2026-03-17-7-agent-mode-changes-in-v0-34-0|7 Agent Mode changes in v0.34.0]]
-- Later: 2026-03-18 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-18-2-agent-mode-changes-in-v1-0-8|2 Agent Mode changes in v1.0.8]]
+- Later: 2026-03-18 · AnythingLLM · [[Changes/AnythingLLM/2026-03-18-5-agent-mode-changes-in-v1-11-2|5 Agent Mode changes in v1.11.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

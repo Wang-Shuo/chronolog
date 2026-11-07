@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d13c225dc5b7ac7739e2ad51b6cae46aed4f6d4d88a436864225fa0581a9e728
+machine_hash: 0acb47a4972ce72cbce08d31c60dcc2651a44304882688647e5867d085fa5413
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,12 @@ record:
   title: '[Claude Code on the web] Improved the routine detail page'
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-09-11-5-interface-experience-changes-in-v2026-9-4|5 Interface
-  Experience changes in v2026.9.4]]'
 - '[[Changes/Claude Code/2026-09-14-3-interface-experience-changes-in-v2-1-271|3 Interface
   Experience changes in v2.1.271]]'
 - '[[Changes/Kimi Code/2026-09-14-delete-sessions-from-the-session-picker-press-ctrl-x-on-a-session-then-y-to-conf|Delete
   sessions from the session picker: press Ctrl+X on a session, then y to confirm]]'
+- '[[Changes/Raycast/2026-09-14-macos-golden-gate-is-out-bringing-many-user-interface-changes-while-there-are-no|macOS
+  Golden Gate is out, bringing many user interface changes]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-15-v2-1-273-github-389362239-6ea37826|claude-code-2026-09-15-v2-1-273-github-389362239-6ea37826]]'
 source_type: github_releases
 theme: interface-experience
@@ -89,7 +89,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-09-14 · Kimi Code · [[Changes/Kimi Code/2026-09-14-delete-sessions-from-the-session-picker-press-ctrl-x-on-a-session-then-y-to-conf|Delete sessions from the session picker: press Ctrl+X on a session, then y to confirm]]
+- Earlier: 2026-09-14 · Raycast · [[Changes/Raycast/2026-09-14-macos-golden-gate-is-out-bringing-many-user-interface-changes-while-there-are-no|macOS Golden Gate is out, bringing many user interface changes]]
 - Later: 2026-09-15 · Google Antigravity · [[Changes/Google Antigravity/2026-09-15-reorganized-the-conversation-menu-so-archive-and-delete-sit-together-at-the-bott|Reorganized the conversation menu so Archive and Delete sit together at the bottom…]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0420bdb82dbbc7bd7cd4f1d7c14f9d258cae7ac1b5c59898056addb9b372063e
+machine_hash: 4ee1ab60a37bac54f2aad63839d0b99f12ecb4bcc0d114bbaba5b792335eeee6
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -94,7 +94,7 @@ type: change
 ## Nearby in Files and Data
 
 - Earlier: 2026-06-04 · Cursor · [[Changes/Cursor/2026-06-04-0-1-6-release-and-analytics-cursor-sdk-0-1-6-documents-the-buildkite-release-pat|0.1.6 release and analytics]]
-- Later: 2026-06-11 · Google Antigravity · [[Changes/Google Antigravity/2026-06-11-quota-screen-redesign-and-pdf-support|Quota Screen Redesign and PDF Support]]
+- Later: 2026-06-09 · AnythingLLM · [[Changes/AnythingLLM/2026-06-09-feat-make-document-sync-stale-after-interval-configurable-by-sanidhyasin-in-http|feat: make document sync stale-after interval configurable]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: d8ce14e8ccf0b0c35c054bc022cb02f515ba16a45b2c446df1ba056cda479a8e
+machine_hash: a08f86d6afec040ac41a40ae856358a2c826476f319477d9edf41f101f131860
 product: openhands
 product_name: OpenHands
 record:
@@ -53,8 +53,8 @@ record:
   title: 'docs(codereview): clarify Agent Canvas checkpoints'
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-09-21-10-files-and-data-changes-in-v0-11-4|10 Files and
-  Data changes in v0.11.4]]'
+- '[[Changes/AnythingLLM/2026-09-22-3-files-and-data-changes-in-v1-16-2|3 Files and
+  Data changes in v1.16.2]]'
 - '[[Changes/Codex CLI/2026-09-22-46027-document-and-test-wildcards-in-network-proxy-domain-patterns-viyatb-oai|♯46027
   Document and test ? wildcards in network proxy domain patterns @viyatb-oai]]'
 - '[[Changes/Google Antigravity/2026-09-22-fewer-link-cards-you-did-not-ask-for-the-agent-surfaces-a-link-card-in-the-conve|Fewer

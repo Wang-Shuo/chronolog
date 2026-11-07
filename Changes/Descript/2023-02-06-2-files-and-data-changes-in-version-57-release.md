@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1729ace0f6040808cd2adfda0e2779bb7ace907dd4eb0b715ee4831fa68a9086
+machine_hash: a625fd820f1f0ce4969a2cabd35f614b30a99fef1430bff8e775af9b8353d097
 product: descript
 product_name: Descript
 record:
@@ -45,10 +45,9 @@ record:
   title: 2 Files and Data changes in Version 57 Release
   type: change
 related_changes:
-- '[[Changes/Synthesia/2021-04-20-a-few-small-but-mighty-features-to-help-you-be-even-more-efficient-while-using-o|Rounded
-  corners & line/character spacing]]'
 - "[[Changes/Notion/2021-12-23-4-files-and-data-changes-in-hack-week|4 Files and Data
   changes in Hack week \U0001F469\U0001F3FC\U0001F4BB\U0001F468\U0001F3FF\U0001F4BB\U0001F9D1\U0001F3FD\U0001F4BB]]"
+- '[[Changes/Raycast/2022-05-04-emoji-search|Emoji Search]]'
 - '[[Changes/Descript/2022-12-06-quality-of-life-improvements-with-storyboard-having-just-launched-to-everyone-we|Quality
   of life improvements]]'
 source_release: '[[Releases/Descript/descript-2023-02-06-63e191b91594c8609e9d9b1c-28d5324a|descript-2023-02-06-63e191b91594c8609e9d9b1c-28d5324a]]'

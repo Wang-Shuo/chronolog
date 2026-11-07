@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f45fec7812534863f8796c74ed6a1593ca80157a76cbc736af216c4ddd1568aa
+machine_hash: 04bc762870c4741f15cce6ec371dd478f6ad8e1f9477984a7e640a5ed2b100bc
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -117,7 +117,7 @@ Source: https://elevenlabs.io/docs/changelog/2026/11/2
 ## Nearby in Pricing Model
 
 - Earlier: 2026-10-29 · Codex CLI · [[Changes/Codex CLI/2026-10-29-56495-add-paginated-channel-subscription-queries-to-the-local-message-board-feli|♯56495 Add paginated channel subscription queries to the local message board @felixxia-oai]]
-- Later: 2026-11-03 · Open WebUI · [[Changes/Open WebUI/2026-11-03-context-compaction-and-prompt-caching-when-the-same-model-handles-the-conversati|🧠 Context compaction and prompt caching. When the same model handles…]]
+- Later: 2026-11-02 · Recraft · [[Changes/Recraft/2026-11-02-preview-it-on-packaging-apparel-and-storefronts-at-no-extra-generation-cost|Preview it on packaging, apparel, and storefronts at no extra generation cost]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

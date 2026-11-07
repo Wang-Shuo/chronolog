@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: cc7398cfcafd50975e6713da4e6498bf1865ea56ca11ad69ecbeb9680c53e55b
+machine_hash: bc42e49e3cf57bba60c2f2fdced43c02697dd97f8d2669d570ab3779b9738c8b
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-01-28 · Claude Code · [[Changes/Claude Code/2026-01-28-improved-read-search-progress-indicators-to-show-reading-while-in-progress-and-r|Improved read/search progress indicators to show "Reading…" while in progress…]]
-- Later: 2026-01-28 · OpenCode · [[Changes/OpenCode/2026-01-28-desktop-enable-ctrl-n-and-ctrl-p-for-popover-navigation-in-desktop-app|Desktop Enable ctrl+n and ctrl+p for popover navigation in desktop app]]
+- Later: 2026-01-28 · LM Studio · [[Changes/LM Studio/2026-01-28-7-interface-experience-changes-in-lm-studio-0-4-0|7 Interface Experience changes in LM Studio 0.4.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

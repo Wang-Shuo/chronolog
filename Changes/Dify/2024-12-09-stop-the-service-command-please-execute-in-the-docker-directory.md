@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 69bc00c6b933d821500e7a13089fe650f2b43b81afcd8d4282e75efef6a062eb
+machine_hash: 0b1b10365588cf3db34688c7f456c4fa733ee4b1e324af4575b92f5d0fb46a54
 product: dify
 product_name: Dify
 record:
@@ -43,10 +43,10 @@ record:
   title: Stop the service，Command, please execute in the docker directory
   type: change
 related_changes:
-- '[[Changes/Aider/2024-12-01-2-developer-workflow-changes-in-v0-66-0|2 Developer
-  Workflow changes in v0.66.0]]'
 - '[[Changes/Dify/2024-12-03-2-developer-workflow-changes-in-0-13-0|2 Developer Workflow
   changes in 0.13.0]]'
+- '[[Changes/Raycast/2024-12-04-browser-extension-when-clicking-on-the-raycast-icon-in-your-browser-the-ask-abou|Browser
+  Extension : When clicking on the Raycast icon in your browser…]]'
 - '[[Changes/Dify/2024-12-05-stop-the-service-command-please-execute-in-the-docker-directory|Stop
   the service，Command, please execute in the docker directory]]'
 source_release: '[[Releases/Dify/dify-2024-12-09-0-13-2-github-189680293-b531c555|dify-2024-12-09-0-13-2-github-189680293-b531c555]]'

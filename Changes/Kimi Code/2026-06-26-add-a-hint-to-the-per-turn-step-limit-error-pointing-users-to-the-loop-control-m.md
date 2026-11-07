@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ac9571449ba102ce56a59ae693bd94e36eb7dd0495857bb4e249f424b1b2affd
+machine_hash: f46ba9a8c26892c42de443edda9f2b8359ff01ae8ec6b038ce3ae591eb6631de
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -46,12 +46,11 @@ record:
   title: Add a hint to the per-turn step limit error pointing users…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-23-add-loop-alias-for-the-every-command|Add
-  /loop alias for the /every command]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-24-handle-wakeup-misfires-with-a-graceful-message-when-no-self-paced-schedule-is-ac|Handle
   wakeup misfires with a graceful message when no self-paced schedule is active]]'
 - '[[Changes/Dify/2026-06-25-2-automation-and-scheduling-changes-in-1-15-0|2 Automation
   and Scheduling changes in 1.15.0]]'
+- '[[Changes/Devin/2026-06-26-run-once-automation-schedules|Run-Once Automation Schedules]]'
 source_release: '[[Releases/Kimi Code/kimi-code-2026-06-26-0-20-0-920cae87|kimi-code-2026-06-26-0-20-0-920cae87]]'
 source_type: kimi_code_changelog
 theme: automation-scheduling
@@ -87,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2026-06-25 · Dify · [[Changes/Dify/2026-06-25-2-automation-and-scheduling-changes-in-1-15-0|2 Automation and Scheduling changes in 1.15.0]]
+- Earlier: 2026-06-26 · Devin · [[Changes/Devin/2026-06-26-run-once-automation-schedules|Run-Once Automation Schedules]]
 - Later: 2026-06-29 · Open WebUI · [[Changes/Open WebUI/2026-06-29-6-automation-and-scheduling-changes-in-v0-10-0|6 Automation and Scheduling changes in v0.10.0]]
 <!-- chronolog:end -->
 

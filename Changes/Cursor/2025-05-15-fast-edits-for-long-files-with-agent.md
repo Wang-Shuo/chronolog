@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 78f21dd016f444805f573c87f3687efb9348c2055745a40caa520d9ed5c6f7a9
+machine_hash: 8a6b0a88dcedcb7c47ee35885a931633f9de78d3409f3a501ada906e593bb03b
 product: cursor
 product_name: Cursor
 record:
@@ -54,8 +54,8 @@ record:
   title: Fast edits for long files with Agent
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-05-01-added-support-for-agent-pause-and-resume-functionality-in-the-cli-by-pandukamudi|Added
-  support for agent pause and resume functionality in the CLI]]'
+- '[[Changes/AnythingLLM/2025-05-06-improve-japanese-translation-to-maintain-agent-by-suzuki-shm-in-https-github-com|Improve
+  Japanese translation to maintain @agent]]'
 - '[[Changes/ElevenLabs/2025-05-12-agents-platform|Agents Platform]]'
 - '[[Changes/OpenHands/2025-05-12-added-the-ability-for-the-agent-to-save-browser-screenshots-as-image-files-by-xi|Added
   the ability for the agent to save browser screenshots as image files]]'
@@ -95,7 +95,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2025-05-12 · OpenHands · [[Changes/OpenHands/2025-05-12-added-the-ability-for-the-agent-to-save-browser-screenshots-as-image-files-by-xi|Added the ability for the agent to save browser screenshots as image files]]
-- Later: 2025-05-15 · Dify · [[Changes/Dify/2025-05-15-imagine-if-every-idea-could-become-an-ai-agent-with-dify-if-you-can-ask-it-you-c|Imagine if every idea could become an AI agent]]
+- Later: 2025-05-15 · Devin · [[Changes/Devin/2025-05-15-it-s-true-coding-agents-can-be-overconfident-that-s-why-devin-2-1-now-provides-c|It's true: coding agents can be overconfident]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

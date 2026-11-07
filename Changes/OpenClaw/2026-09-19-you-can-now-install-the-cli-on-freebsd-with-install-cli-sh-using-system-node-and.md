@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 50c520bf03fcd57d8d16ef3d051d0686fd39446e2160dbec7d722dbb8034bd34
+machine_hash: 7ce680f72dca2e704e4508ab063ecbd92c8591bf3f7ad3aa4770f81cfa1c0cae
 product: openclaw
 product_name: OpenClaw
 record:
@@ -50,10 +50,10 @@ record:
   title: Install the CLI on FreeBSD with install-cli.sh using system Node and npm
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-17-claude-tag-improved-claude-s-notices-in-enterprise-grid-channels-shared-across-w|Claude
-  Tag Improved Claude''s notices in Enterprise Grid channels shared across…]]'
-- '[[Changes/Claude Code/2026-09-18-2-enterprise-and-administration-changes-in-v2-1-277|2
-  Enterprise and Administration changes in v2.1.277]]'
+- '[[Changes/Devin/2026-09-18-enterprise-api-audit-logs-pagination|Enterprise API:
+  Audit-Logs Pagination]]'
+- '[[Changes/Devin/2026-09-18-connect-enterprise-mcps-with-your-own-account|Connect
+  Enterprise MCPs with Your Own Account]]'
 - '[[Changes/OpenClaw/2026-09-19-2-enterprise-and-administration-changes-in-v2026-9-5|2
   Enterprise and Administration changes in v2026.9.5]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-09-19-v2026-9-5-506f537c|openclaw-2026-09-19-v2026-9-5-506f537c]]'
@@ -110,7 +110,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-09-18 · Claude Code · [[Changes/Claude Code/2026-09-18-2-enterprise-and-administration-changes-in-v2-1-277|2 Enterprise and Administration changes in v2.1.277]]
+- Earlier: 2026-09-18 · Devin · [[Changes/Devin/2026-09-18-connect-enterprise-mcps-with-your-own-account|Connect Enterprise MCPs with Your Own Account]]
 - Later: 2026-09-21 · Lovable · [[Changes/Lovable/2026-09-21-set-a-default-design-system-for-each-group|Set a default design system for each group]]
 <!-- chronolog:end -->
 

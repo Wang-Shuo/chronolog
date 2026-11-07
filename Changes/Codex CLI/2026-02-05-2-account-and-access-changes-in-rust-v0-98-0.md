@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ecb7b6c111bf2591cf660a1dc0a02defa35ae0c9a1a4b9ee1b2f445ff3baed34
+machine_hash: e88c3ecacbdde51fe76febf642535fd92448b52c47f1c8e1248b193a253d2192
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,12 +44,12 @@ record:
   title: 2 Account and Access changes in rust-v0.98.0
   type: change
 related_changes:
-- '[[Changes/Dify/2026-02-03-3-account-and-access-changes-in-1-12-0|3 Account and
-  Access changes in 1.12.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-03-2-account-and-access-changes-in-v0-0-401|2
   Account and Access changes in v0.0.401]]'
 - '[[Changes/OpenCode/2026-02-03-terminal-enable-password-authentication-for-remote-session-attachment|Terminal
   Enable password authentication for remote session attachment]]'
+- '[[Changes/Raycast/2026-02-04-login-sorted-out-a-json-response-that-could-fail-when-creating-an-account|Login:
+  Sorted out a JSON response that could fail when creating an account]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-02-05-rust-v0-98-0-github-283440153-81972c92|codex-cli-2026-02-05-rust-v0-98-0-github-283440153-81972c92]]'
 source_type: github_releases
 theme: account-access
@@ -88,7 +88,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.98.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-02-03 · OpenCode · [[Changes/OpenCode/2026-02-03-terminal-enable-password-authentication-for-remote-session-attachment|Terminal Enable password authentication for remote session attachment]]
+- Earlier: 2026-02-04 · Raycast · [[Changes/Raycast/2026-02-04-login-sorted-out-a-json-response-that-could-fail-when-creating-an-account|Login: Sorted out a JSON response that could fail when creating an account]]
 - Later: 2026-02-05 · Lovable · [[Changes/Lovable/2026-02-05-seamless-google-and-apple-authentication|Seamless Google and Apple authentication]]
 <!-- chronolog:end -->
 

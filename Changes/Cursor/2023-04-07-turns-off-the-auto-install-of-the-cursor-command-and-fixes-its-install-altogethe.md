@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b5311e65dc011df8722eb1c0a3daec7e899e23b2536a16c977b237217fa24c3e
+machine_hash: 10dc0f6054cea0d3a93c954e99011121c2ca71cd00eef70df820cf6f71655702
 product: cursor
 product_name: Cursor
 record:
@@ -45,11 +45,12 @@ record:
     altogether)
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
 - '[[Changes/Cursor/2023-03-23-terminal-no-longer-interferes-with-chat|Terminal no
   longer interferes with chat]]'
 - '[[Changes/Cursor/2023-03-27-opens-the-terminal-in-your-current-folder|Opens the
   terminal in your current folder]]'
+- '[[Changes/Raycast/2023-03-29-script-command-deeplinks-launch-any-script-command-from-outside-of-raycast-using|Script
+  Command Deeplinks]]'
 source_release: '[[Releases/Cursor/cursor-2023-04-07-0-2-2-https-cursor-com-changelog-0-2-2-23ce5594|cursor-2023-04-07-0-2-2-https-cursor-com-changelog-0-2-2-23ce5594]]'
 source_type: cursor_changelog
 theme: developer-workflow
@@ -77,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2023-03-27 · Cursor · [[Changes/Cursor/2023-03-27-opens-the-terminal-in-your-current-folder|Opens the terminal in your current folder]]
+- Earlier: 2023-03-29 · Raycast · [[Changes/Raycast/2023-03-29-script-command-deeplinks-launch-any-script-command-from-outside-of-raycast-using|Script Command Deeplinks]]
 - Later: 2023-04-14 · Cursor · [[Changes/Cursor/2023-04-14-don-t-install-cursor-command-on-startup|Don't install "cursor" command on startup]]
 <!-- chronolog:end -->
 

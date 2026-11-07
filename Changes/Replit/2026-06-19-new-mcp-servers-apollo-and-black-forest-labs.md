@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: e57adf6bae0185d1c8a1052a3089ec1e02396f5204f4dfd3cc757efdfce597e5
+machine_hash: 550e01b549c91b908bcdf665882fc4c50a5c5ded68f8356c955426aa303b502b
 product: replit
 product_name: Replit
 record:
@@ -49,10 +49,9 @@ record:
   title: 'New MCP servers: Apollo and Black Forest Labs'
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-06-18-made-mcp-registry-parsing-more-tolerant-of-old-and-inconsistent-schemas|Made
-  MCP registry parsing more tolerant of old and inconsistent schemas]]'
-- '[[Changes/Claude Code/2026-06-19-added-attribution-sessionurl-setting-to-omit-the-claude-ai-session-link-from-com|Added
-  attribution.sessionUrl setting to omit the claude.ai session link…]]'
+- '[[Changes/Devin/2026-06-19-mcp-marketplace-expansion|MCP Marketplace Expansion]]'
+- '[[Changes/Devin/2026-06-19-slack-formatting-in-webapp-comments|Slack Formatting
+  in Webapp Comments]]'
 - '[[Changes/Replit/2026-06-19-integrations|Integrations]]'
 source_release: '[[Releases/Replit/replit-2026-06-19-2026-06-19-ff036602|replit-2026-06-19-2026-06-19-ff036602]]'
 source_type: replit_changelog
@@ -87,8 +86,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-06-19 · Claude Code · [[Changes/Claude Code/2026-06-19-added-attribution-sessionurl-setting-to-omit-the-claude-ai-session-link-from-com|Added attribution.sessionUrl setting to omit the claude.ai session link…]]
-- Later: 2026-06-22 · Claude Code · [[Changes/Claude Code/2026-06-22-2-apps-and-integrations-changes-in-v2-1-186|2 Apps and Integrations changes in v2.1.186]]
+- Earlier: 2026-06-19 · Devin · [[Changes/Devin/2026-06-19-slack-formatting-in-webapp-comments|Slack Formatting in Webapp Comments]]
+- Later: 2026-06-22 · AnythingLLM · [[Changes/AnythingLLM/2026-06-22-migrate-aws-sdk-to-openai-by-timothycarambat-in-https-github-com-mintplex-labs-a|Migrate AWS Sdk to OpenAI]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8c28c1b68a92eb658b95c141cb02879f9f32ad545920ec1431a9bf1be883ab51
+machine_hash: 9ef1f85c53fcbf3ffd0cfffde470d974b74117f42b4512c6ed6c9878bc1f8bc0
 product: opencode
 product_name: OpenCode
 record:
@@ -43,8 +43,8 @@ record:
   title: Core Show file path in apply_patch request permission screen
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-01-22-unified-cli-permissions-with-the-editor-including-run-everything-auto-run-in-san|Unified
-  CLI permissions with the editor, including Run Everything, Auto-Run…]]'
+- '[[Changes/Devin/2026-01-22-devin-review-launch-https-docs-devin-ai-work-with-devin-devin-review-md|Devin
+  Review Launch((source link)]]'
 - '[[Changes/OpenCode/2026-01-22-core-ensure-cat-command-triggers-external-directory-permission-check-in-bash-too|Core
   Ensure cat command triggers external directory permission check in Bash tool]]'
 - '[[Changes/Google Antigravity/2026-01-23-terminal-commands-can-now-be-executed-within-a-sandbox-for-macos-users|Terminal

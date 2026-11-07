@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 57cf2a00a42b731c68bdd7e1388c039c59950328f76380eda1a38ee1936e5551
+machine_hash: e35dc80e6f279abdc9c7220b3ca332bd7eebd36b4c589c70777e3c44125d9c9f
 product: openhands
 product_name: OpenHands
 record:
@@ -44,9 +44,10 @@ record:
   title: Ensured PRs opened by agent is properly tracked in conversation metadata
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2025-06-08-agents-platform|Agents Platform]]'
 - '[[Changes/ElevenLabs/2025-06-08-agents-platform-5c0653|Agents Platform]]'
 - '[[Changes/ElevenLabs/2025-06-08-agents-platform-ce4a03|Agents Platform]]'
+- '[[Changes/AnythingLLM/2025-06-10-4-agent-mode-changes-in-v1-8-2|4 Agent Mode changes
+  in v1.8.2]]'
 source_release: '[[Releases/OpenHands/openhands-2025-06-10-0-42-0-github-224437594-6a2ec2b8|openhands-2025-06-10-0-42-0-github-224437594-6a2ec2b8]]'
 source_type: github_releases
 theme: agent-mode
@@ -77,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2025-06-08 · ElevenLabs · [[Changes/ElevenLabs/2025-06-08-agents-platform-ce4a03|Agents Platform]]
+- Earlier: 2025-06-10 · AnythingLLM · [[Changes/AnythingLLM/2025-06-10-4-agent-mode-changes-in-v1-8-2|4 Agent Mode changes in v1.8.2]]
 - Later: 2025-06-11 · Dify · [[Changes/Dify/2025-06-11-4-agent-mode-changes-in-1-4-2|4 Agent Mode changes in 1.4.2]]
 <!-- chronolog:end -->
 

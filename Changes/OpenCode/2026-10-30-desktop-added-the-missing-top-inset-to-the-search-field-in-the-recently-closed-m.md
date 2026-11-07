@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a2230997d207dfb5d5fdc9f90ebd82701e43f1c92f598fde68a89b14aa875c47
+machine_hash: c380bf566789713582442672bd55230a093e545ef83be4a1e3171639bfeec889
 product: opencode
 product_name: OpenCode
 record:
@@ -43,8 +43,8 @@ record:
     menu
   type: change
 related_changes:
-- '[[Changes/Suno/2026-10-29-clearer-clip-settings-info-panel|Clearer Clip Settings
-  & Info Panel]]'
+- '[[Changes/Superwhisper/2026-10-29-ctrl-win-can-now-be-used-for-push-to-talk-toggle-recording-and-mode-shortcuts-an|Ctrl+Win
+  can now be used for push to talk, toggle recording, and mode shortcuts…]]'
 - '[[Changes/OpenCode/2026-10-30-desktop-restored-copying-user-messages-from-an-open-actions-menu|Desktop
   Restored copying user messages from an open actions menu]]'
 - '[[Changes/OpenCode/2026-10-30-desktop-kept-the-current-and-command-menu-selection-stable-while-results-update|Desktop
@@ -86,7 +86,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-10-30 · OpenCode · [[Changes/OpenCode/2026-10-30-desktop-kept-the-current-and-command-menu-selection-stable-while-results-update|Desktop Kept the current @ and command-menu selection stable while results update…]]
-- Later: 2026-11-02 · ElevenLabs · [[Changes/ElevenLabs/2026-11-02-2-interface-experience-changes-in-elevenlabs-updates-2026-11-02|2 Interface Experience changes in ElevenLabs updates — 2026-11-02]]
+- Later: 2026-10-31 · Raycast · [[Changes/Raycast/2026-10-31-onboarding-added-a-new-onboarding-experience|Onboarding: Added a new onboarding experience]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

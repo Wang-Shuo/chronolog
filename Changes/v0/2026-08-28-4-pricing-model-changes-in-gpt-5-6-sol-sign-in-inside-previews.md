@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0975ca577cac8dc44121774e5d75b080d3fb05b8f9ffa6f1eb184ec8d527a34f
+machine_hash: 0101c94ada2263c417bfde88feccb3266b62da275f8fe99b716e6ae05f58a839
 product: v0
 product_name: v0
 record:
@@ -52,12 +52,11 @@ record:
   title: 4 Pricing Model changes in GPT-5.6 Sol, sign-in inside previews…
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-08-26-lovable-works-up-to-10-hours-on-a-single-message|Lovable
-  works up to 10 hours on a single message]]'
 - '[[Changes/Claude Code/2026-08-27-added-usage-credits-for-enterprise-organizations-billed-through-aws-marketplace|Added
   /usage-credits for Enterprise organizations billed through AWS Marketplace…]]'
 - '[[Changes/Claude Code/2026-08-28-added-a-per-session-prompt-cache-line-to-cost-hit-ratio-misses-tokens-re-cached|Added
   a per-session prompt-cache line to /cost…]]'
+- '[[Changes/Devin/2026-08-28-code-scan-history|Code Scan History]]'
 source_release: '[[Releases/v0/v0-2026-08-28-2026-08-28-1fac4f32|v0-2026-08-28-2026-08-28-1fac4f32]]'
 source_type: v0_changelog
 theme: pricing-model
@@ -104,7 +103,7 @@ Source: https://v0.app/changelog#2026-08-28
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-08-28 · Claude Code · [[Changes/Claude Code/2026-08-28-added-a-per-session-prompt-cache-line-to-cost-hit-ratio-misses-tokens-re-cached|Added a per-session prompt-cache line to /cost…]]
+- Earlier: 2026-08-28 · Devin · [[Changes/Devin/2026-08-28-code-scan-history|Code Scan History]]
 - Later: 2026-09-01 · Codex CLI · [[Changes/Codex CLI/2026-09-01-rate-limit-banners-offer-actions-for-checking-usage-managing-credits-resetting-l|Rate-limit banners offer actions for checking usage, managing credits, resetting…]]
 <!-- chronolog:end -->
 

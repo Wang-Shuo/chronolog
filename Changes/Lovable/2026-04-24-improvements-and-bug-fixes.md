@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 138d8cacc59c954fe596722dfc1daf0528e6ef9078e970847910fcc9e780f1b3
+machine_hash: d8d6547577d9f43e3e2a30155163bc2c885048a48b016d2da6f53a21a24cff4c
 product: lovable
 product_name: Lovable
 record:
@@ -78,8 +78,7 @@ record:
   title: Improvements and bug fixes
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-04-16-we-re-beginning-to-roll-out-ads-for-users-on-free-and-go-plans-in-australia-new|Rolling
-  out ads in Australia, New Zealand, and Canada]]'
+- '[[Changes/Devin/2026-04-17-secure-mode-description|Secure Mode Description]]'
 - '[[Changes/Replit/2026-04-17-teams-and-enterprise|Teams and Enterprise]]'
 - '[[Changes/Claude Code/2026-04-23-added-disable-updates-env-var-to-completely-block-all-update-paths-including-man|Added
   DISABLE_UPDATES env var to completely block all update paths including…]]'
@@ -149,7 +148,7 @@ type: change
 ## Nearby in Enterprise and Administration
 
 - Earlier: 2026-04-23 · Claude Code · [[Changes/Claude Code/2026-04-23-added-disable-updates-env-var-to-completely-block-all-update-paths-including-man|Added DISABLE_UPDATES env var to completely block all update paths including…]]
-- Later: 2026-04-28 · Claude Code · [[Changes/Claude Code/2026-04-28-pasting-a-pr-url-into-the-resume-search-box-now-finds-the-session-that-created-t|Pasting a PR URL into the /resume search box now finds the session that created…]]
+- Later: 2026-04-24 · Wispr Flow · [[Changes/Wispr Flow/2026-04-24-share-an-invite-link-to-grow-your-team-desktop|Share an invite link to grow your team (Desktop)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3453abf15ea8ae5163ecdf5ed830b58319fd45c049fbd2ca7d7a6ca1e544ce4c
+machine_hash: d74fe4ed6dc0fefb0cb3f22a7e82326b65e2a4cec290f3abbd4940d04a4ab739
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,12 @@ record:
   title: Improved the Workflow tool's prompt footprint
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-08-25-4-context-window-changes-in-v0-11-1|4 Context Window
-  changes in v0.11.1]]'
 - '[[Changes/Claude Code/2026-08-26-changed-sonnet-5-s-default-auto-compact-window-to-its-full-1m-context-so-session|Changed
   Sonnet 5''s default auto-compact window to its full 1M context, so sessions…]]'
 - '[[Changes/Codex CLI/2026-08-26-14-context-window-changes-in-rust-v0-150-0|14 Context
   Window changes in rust-v0.150.0]]'
+- '[[Changes/AnythingLLM/2026-08-27-3-context-window-changes-in-v1-16-1|3 Context
+  Window changes in v1.16.1]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-27-v2-1-248-github-378106990-677106e3|claude-code-2026-08-27-v2-1-248-github-378106990-677106e3]]'
 source_type: github_releases
 theme: context-window
@@ -85,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-08-26 · Codex CLI · [[Changes/Codex CLI/2026-08-26-14-context-window-changes-in-rust-v0-150-0|14 Context Window changes in rust-v0.150.0]]
+- Earlier: 2026-08-27 · AnythingLLM · [[Changes/AnythingLLM/2026-08-27-3-context-window-changes-in-v1-16-1|3 Context Window changes in v1.16.1]]
 - Later: 2026-08-27 · Codex CLI · [[Changes/Codex CLI/2026-08-27-2-context-window-changes-in-rust-v0-150-1|2 Context Window changes in rust-v0.150.1]]
 <!-- chronolog:end -->
 

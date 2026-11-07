@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: cc7ffe93497fe1614e83dfa43f81962fdec2637790b1f509fd8748ed068d43cb
+machine_hash: d0e67a32d293330dcc5a8be257e3587c23caeb483d9aa24688e182c951e46299
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -100,7 +100,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2025-01-23 · Cursor · [[Changes/Cursor/2025-01-23-cursor-rules-users-can-write-several-repository-level-rules-to-disk-in-the-curso|.cursor/rules: Users can write several repository-level rules to disk…]]
-- Later: 2025-01-31 · Replit · [[Changes/Replit/2025-01-31-more-performant-agent-in-asia|More performant Agent in Asia]]
+- Later: 2025-01-29 · AnythingLLM · [[Changes/AnythingLLM/2025-01-29-4-agent-mode-changes-in-v1-4-0|4 Agent Mode changes in v1.4.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

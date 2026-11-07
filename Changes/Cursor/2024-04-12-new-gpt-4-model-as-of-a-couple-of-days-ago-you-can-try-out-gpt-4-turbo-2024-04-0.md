@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: a0fe2f7b3c8f18e342f2762329d421d70aa10ec72011525c659d6373ba0d63a0
+machine_hash: 0efdff651adcaf7741a94c8796dd592ca478e9530cecc36b28b81933e12faf20
 product: cursor
 product_name: Cursor
 record:
@@ -48,10 +48,9 @@ record:
   title: 'New GPT-4 model: As of a couple of days ago, you can try out gpt-4-turbo-2024-04-09…'
   type: change
 related_changes:
-- '[[Changes/Ollama/2024-04-10-6-model-support-changes-in-v0-1-32|6 Model Support
-  changes in v0.1.32]]'
 - "[[Changes/Open WebUI/2024-04-10-update-rag-embedding-model-customize-rag-embedding-model-directly-in-document-se|\U0001F50D
   Update RAG Embedding Model]]"
+- '[[Changes/Raycast/2024-04-10-more-ai-models|More AI Models]]'
 - '[[Changes/Dify/2024-04-11-9-model-support-changes-in-0-6-2|9 Model Support changes
   in 0.6.2]]'
 source_release: '[[Releases/Cursor/cursor-2024-04-12-0-32-x-https-cursor-com-changelog-0-32-x-ce3690fc|cursor-2024-04-12-0-32-x-https-cursor-com-changelog-0-32-x-ce3690fc]]'

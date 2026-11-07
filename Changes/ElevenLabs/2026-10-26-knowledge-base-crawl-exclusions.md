@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 95e9a93a8640904a5191e443d5595ecbb046d2be94a6bdbebbc848e82dd0f4ec
+machine_hash: 90cfd162e017b8b8f705283f9a5208132b67b93bf83a7c5ef74b3c3e3838cf2b
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -52,10 +52,10 @@ record:
   title: Knowledge base crawl exclusions
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-10-24-8-agent-mode-changes-in-v2026-10-7|8 Agent Mode changes
-  in v2026.10.7]]'
 - '[[Changes/Kimi Code/2026-10-25-2-agent-mode-changes-in-kimi-code-2-3-2|2 Agent
   Mode changes in Kimi Code 2.3.2]]'
+- '[[Changes/AnythingLLM/2026-10-26-apply-workspace-model-changes-to-agent-sessions-mid-thread-by-shatfield4-in-http|Apply
+  workspace model changes to agent sessions mid-thread]]'
 - '[[Changes/Claude Code/2026-10-26-2-agent-mode-changes-in-v2-1-311|2 Agent Mode
   changes in v2.1.311]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-10-26-2026-10-26-ca7c552d|elevenlabs-2026-10-26-2026-10-26-ca7c552d]]'

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: bbbc9f25f97be6ab89fb6b210639a92d3ba84e5c0e0453012213c19853153c95
+machine_hash: 9de7bde30caaa351e6aa0ffe5b6dab7c91cc9cd7d72d5b7fcb5fa31ab7cc45af
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -46,10 +46,10 @@ record:
   title: Skill files saved with a UTF-8 BOM (common on Windows editors) now load correctly…
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-02-19-46-mobile-and-desktop-changes-in-v1-2-7|46 Mobile
-  and Desktop changes in v1.2.7]]'
 - '[[Changes/OpenCode/2026-02-19-2-mobile-and-desktop-changes-in-v1-2-8|2 Mobile and
   Desktop changes in v1.2.8]]'
+- '[[Changes/Raycast/2026-02-19-import-settings-and-data-importing-from-macos-raycast-now-includes-hotkeys-alias|Import
+  Settings and Data]]'
 - '[[Changes/OpenCode/2026-02-20-2-mobile-and-desktop-changes-in-v1-2-10-1|2 Mobile
   and Desktop changes in v1.2.10 + 1]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-02-23-v0-0-415-github-289607575-3b8d8d7c|github-copilot-cli-2026-02-23-v0-0-415-github-289607575-3b8d8d7c]]'
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-02-20 · OpenCode · [[Changes/OpenCode/2026-02-20-2-mobile-and-desktop-changes-in-v1-2-10-1|2 Mobile and Desktop changes in v1.2.10 + 1]]
-- Later: 2026-02-24 · OpenCode · [[Changes/OpenCode/2026-02-24-24-mobile-and-desktop-changes-in-v1-2-11|24 Mobile and Desktop changes in v1.2.11]]
+- Later: 2026-02-24 · Devin · [[Changes/Devin/2026-02-24-full-desktop-testing|Full Desktop Testing]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

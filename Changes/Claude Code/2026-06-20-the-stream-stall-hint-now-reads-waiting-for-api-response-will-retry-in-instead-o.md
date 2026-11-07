@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 795854e0d26d3fe29c372bdf2b249eef616057d82906620ce09e8af036fde41a
+machine_hash: 904381827ad4ca591b674d4f90c30913ac3ff23c2a1251d2d74f7306a21a77e8
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,12 +47,12 @@ record:
     …" instead…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-17-improved-auto-retry-api-connection-drops-mid-thinking-now-automatically-retry-in|Improved
-  auto-retry: API connection drops mid-thinking now automatically retry…]]'
-- '[[Changes/OpenCode/2026-06-17-session-timelines-load-much-faster-and-avoid-flicker-or-scroll-jumps|Session
-  timelines load much faster and avoid flicker or scroll jumps]]'
-- '[[Changes/ChatGPT/2026-06-18-easier-conversation-sharing-sharing-a-conversation-is-now-faster-with-a-one-clic|Easier
-  conversation sharing]]'
+- '[[Changes/Raycast/2026-06-18-introducing-in-place-behavior-for-custom-commands-in-raycast-choose-whether-to-o|Introducing
+  in-place behavior for custom commands in Raycast]]'
+- '[[Changes/Raycast/2026-06-18-root-search-improved-search-latency-when-contacts-are-included-in-root-search|Root
+  Search : Improved search latency when Contacts are included in root search]]'
+- '[[Changes/Raycast/2026-06-18-core-improve-pasting-action-reliability-and-performance|Core:
+  improve pasting action reliability and performance]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-20-v2-1-185-github-342367004-9ddb0cf9|claude-code-2026-06-20-v2-1-185-github-342367004-9ddb0cf9]]'
 source_type: github_releases
 theme: reliability-performance
@@ -80,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-06-18 · ChatGPT · [[Changes/ChatGPT/2026-06-18-easier-conversation-sharing-sharing-a-conversation-is-now-faster-with-a-one-clic|Easier conversation sharing]]
+- Earlier: 2026-06-18 · Raycast · [[Changes/Raycast/2026-06-18-core-improve-pasting-action-reliability-and-performance|Core: improve pasting action reliability and performance]]
 - Later: 2026-06-22 · Codex CLI · [[Changes/Codex CLI/2026-06-22-2-reliability-and-performance-changes-in-rust-v0-142-0|2 Reliability and Performance changes in rust-v0.142.0]]
 <!-- chronolog:end -->
 

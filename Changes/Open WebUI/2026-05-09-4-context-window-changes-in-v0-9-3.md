@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e397e8f3771dd8273759323650086f4c6f1e46092650cc1a220c423c412748cf
+machine_hash: 9edf9860dd8596e95d7295d4397dc176d2ff5c7f382c16712382aebd8a366ca1
 product: open-webui
 product_name: Open WebUI
 record:
@@ -60,10 +60,10 @@ record:
   title: 4 Context Window changes in v0.9.3
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-05-07-2-context-window-changes-in-v1-14-40|2 Context Window
-  changes in v1.14.40]]'
 - '[[Changes/Codex CLI/2026-05-08-2-context-window-changes-in-rust-v0-130-0|2 Context
   Window changes in rust-v0.130.0]]'
+- '[[Changes/Raycast/2026-05-08-ai-model-picker-details-the-model-picker-now-has-a-beautiful-new-detail-panel-fo|AI
+  Model Picker Details]]'
 - '[[Changes/Replit/2026-05-08-external-access-tokens-for-private-deployments|External
   access tokens for Private Deployments]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-05-09-v0-9-3-github-319872270-bb8aabca|open-webui-2026-05-09-v0-9-3-github-319872270-bb8aabca]]'

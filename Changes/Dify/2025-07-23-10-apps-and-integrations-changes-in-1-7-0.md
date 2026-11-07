@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 47801a06916ff7d48aed552092dc4921d819f18577d5a4e8e69c54e3365af21c
+machine_hash: 2a15e92b91a10a29d5d757ea9e7da0b4da9310bcc70cb478895aeab1d3f40b49
 product: dify
 product_name: Dify
 record:
@@ -68,8 +68,8 @@ record:
   title: 10 Apps and Integrations changes in 1.7.0
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-07-19-12-apps-and-integrations-changes-in-v0-1-13|12
-  Apps and Integrations changes in v0.1.13]]'
+- '[[Changes/LM Studio/2025-07-19-5-apps-and-integrations-changes-in-lm-studio-0-3-18|5
+  Apps and Integrations changes in LM Studio 0.3.18]]'
 - "[[Changes/Open WebUI/2025-07-19-cleaner-database-credentials-database-connection-no-longer-duplicates-in-credent|\U0001F9F9
   Cleaner Database Credentials]]"
 - '[[Changes/Codex CLI/2025-07-23-numerous-fixes-to-codex-mcp|Numerous fixes to codex

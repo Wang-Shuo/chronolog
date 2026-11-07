@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: cbbe8b0e34d11f18e39eac520861e50879388a917330f855e16b9f8c9f42b902
+machine_hash: 4ccf30607c6961ba0969477b693da460e20746b775d19c76c97f44b02d2a9976
 product: openhands
 product_name: OpenHands
 record:
@@ -82,7 +82,7 @@ type: change
 ## Nearby in Enterprise and Administration
 
 - Earlier: 2026-10-08 · OpenClaw · [[Changes/OpenClaw/2026-10-08-2-enterprise-and-administration-changes-in-v2026-9-9|2 Enterprise and Administration changes in v2026.9.9]]
-- Later: 2026-10-09 · Lovable · [[Changes/Lovable/2026-10-09-enterprise-credit-balances-now-appear-as-numbers|Enterprise credit balances now appear as numbers]]
+- Later: 2026-10-09 · Devin · [[Changes/Devin/2026-10-09-only-allow-connecting-admin-configured-mcps|Only allow connecting admin-configured MCPs]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

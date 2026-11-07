@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e1b3270ba8a2bdeb92a8095ab86c736be71b4b247ac4d14a748f80a3ebddbd3f
+machine_hash: aca25c2a6179b58e4d89fd7b6daeb077ac4afda90636e49dab912c29e07f031e
 product: cline
 product_name: Cline
 record:
@@ -48,10 +48,9 @@ record:
   title: 3 Model Support changes in v4.1.11
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-08-20-added-native-openai-and-anthropic-passthroughs-for-cloudflare-ai-gateway-models|Added
-  native OpenAI and Anthropic passthroughs for Cloudflare AI Gateway models]]'
 - '[[Changes/Runway/2026-08-20-transform-any-sdr-video-into-true-hdr-with-runway-ruby-a-native-color-grading-mo|Runway
   Ruby]]'
+- '[[Changes/Superwhisper/2026-08-20-improvements-fixes|Improvements & Fixes]]'
 - '[[Changes/Cline/2026-08-21-restore-tool-calling-for-custom-openai-compatible-models-whose-stored-capability|Restore
   tool calling for custom OpenAI-Compatible models whose stored capability…]]'
 source_release: '[[Releases/Cline/cline-2026-08-21-v4-1-11-github-374187578-938b5fa5|cline-2026-08-21-v4-1-11-github-374187578-938b5fa5]]'

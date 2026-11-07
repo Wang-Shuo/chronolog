@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e538a13ba9825d8f50b1684ea9bc3f8a63039f7cda19b34a6513bb7996a1b5f4
+machine_hash: 315c926a6a0f75bd5553218a6652be6984ddf413476741457cd01fa6c0cd80d3
 product: opencode
 product_name: OpenCode
 record:
@@ -124,7 +124,7 @@ Source: https://opencode.ai/changelog/v2.2.0
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-10-27 · Ollama · [[Changes/Ollama/2026-10-27-faster-prompt-processing-on-apple-silicon-for-gemma-4-flint-and-laguna-models|Faster prompt processing on Apple silicon for Gemma 4, Flint and Laguna models]]
-- Later: 2026-10-29 · Open WebUI · [[Changes/Open WebUI/2026-10-29-2-reliability-and-performance-changes-in-v0-12-5|2 Reliability and Performance changes in v0.12.5]]
+- Later: 2026-10-28 · Raycast · [[Changes/Raycast/2026-10-28-2-reliability-and-performance-changes-in-raycast-windows-2-10|2 Reliability and Performance changes in Raycast windows 2.10]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

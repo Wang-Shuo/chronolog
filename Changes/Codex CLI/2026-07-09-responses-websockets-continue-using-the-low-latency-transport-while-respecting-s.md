@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: bebbb7e228086e5917003d8e8b33554253f1cf3a95cbe398668c93fbe9a52de8
+machine_hash: d7fe8d5f1161d11aed1ec5bd6d57d2ca979083131587fdbdf496bbcae92341f0
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -92,7 +92,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-07-08 · Claude Code · [[Changes/Claude Code/2026-07-08-auto-update-binary-downloads-now-stream-to-disk-instead-of-buffering-in-memory-c|Auto-update binary downloads now stream to disk instead of buffering in memory…]]
-- Later: 2026-07-13 · ElevenLabs · [[Changes/ElevenLabs/2026-07-13-packages|Packages]]
+- Later: 2026-07-09 · Raycast · [[Changes/Raycast/2026-07-09-2-reliability-and-performance-changes-in-raycast-windows-0-68|2 Reliability and Performance changes in Raycast windows 0.68]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

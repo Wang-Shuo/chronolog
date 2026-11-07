@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 81c7b28bb5214bdf726a2ba82acec78b75272d6094c4c0ef2055742caf675efe
+machine_hash: d08d9b4053899f5797e026b55c45293700c9f37579b0e139e50418208559dc3b
 product: openclaw
 product_name: OpenClaw
 record:
@@ -68,7 +68,7 @@ record:
   title: 5 Reliability and Performance changes in v2026.9.6
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-09-23-deploy-tracking|Deploy tracking]]'
+- '[[Changes/Devin/2026-09-23-performance-improvements|Performance Improvements]]'
 - '[[Changes/Kimi Code/2026-09-23-reduce-the-cli-s-startup-time-and-memory-usage|Reduce
   the CLI''s startup time and memory usage]]'
 - '[[Changes/Ollama/2026-09-23-2-reliability-and-performance-changes-in-v0-34-4|2

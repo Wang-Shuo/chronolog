@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2fe27f7ea34e321e94d618d6baedb77eed9d5be33f1d400f4f39467d7c7d078b
+machine_hash: 3a31c00b405151c4feeeda4306425196b438f332706a0247c1f331d2185fc3eb
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -43,8 +43,8 @@ record:
   title: 2 Context Window changes in v0.6.0
   type: change
 related_changes:
-- '[[Changes/Gemini/2025-09-18-your-custom-gems-are-now-shareable|Your Custom Gems
-  are Now Shareable]]'
+- '[[Changes/Devin/2025-09-19-session-analysis-knowledge-management|Session Analysis
+  & Knowledge Management]]'
 - '[[Changes/Dify/2025-09-22-example-of-no-unstable-context-value-by-asukaminato0721-in-https-github-com-lang|example
   of no-unstable-context-value]]'
 - '[[Changes/Codex CLI/2025-09-23-4093-chore-enable-auto-compaction-for-gpt-5-codex-4093|♯4093

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9c464fc284a98668a2638f1bc4e620878edb14b9244c838418c842d4bd74d22a
+machine_hash: 71da65bc5fc9316c2b55d3e7e2e71fecd1a24f8a4a7b38e07403337409c98888
 product: claude-code
 product_name: Claude Code
 record:
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Account and Access
 
 - Earlier: 2026-07-16 · Ollama · [[Changes/Ollama/2026-07-16-agent-web-search-and-fetch-now-tell-users-to-run-ollama-signin-when-authenticati|Agent web search and fetch now tell users to run ollama signin when authentication…]]
-- Later: 2026-07-17 · Dify · [[Changes/Dify/2026-07-17-8-account-and-access-changes-in-1-16-0|8 Account and Access changes in 1.16.0]]
+- Later: 2026-07-17 · Devin · [[Changes/Devin/2026-07-17-this-release-also-includes-improved-bulk-secret-import-with-name-validation-expa|This release also includes improved bulk secret import with name validation…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

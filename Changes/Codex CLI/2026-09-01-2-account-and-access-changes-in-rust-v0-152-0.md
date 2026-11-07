@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8a8265f0993727f8eeff90556e3809767b9856221d5c2f4560f4101b30156e05
+machine_hash: 97d8bb4cb176c2ed8090efa3dac940f8526b3ee90264be6f0c4228aafd42e501
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,10 +44,10 @@ record:
   title: 2 Account and Access changes in rust-v0.152.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-08-29-show-the-specific-authentication-failure-such-as-401-bad-credentials-instead-of|Show
-  the specific authentication failure (such as 401 Bad credentials) instead…]]'
 - "[[Changes/Open WebUI/2026-08-31-disconnect-oauth-only-where-there-is-oauth-the-disconnect-control-on-a-tool-serv|\U0001F50C
   Disconnect OAuth only where there is OAuth. The disconnect control on a tool…]]"
+- '[[Changes/Raycast/2026-08-31-mcp-support-for-servers-that-use-https-redirects-during-oauth|MCP
+  : Support for servers that use HTTPS redirects during OAuth]]'
 - '[[Changes/Claude Code/2026-09-01-2-account-and-access-changes-in-v2-1-257|2 Account
   and Access changes in v2.1.257]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-09-01-rust-v0-152-0-github-380164108-cd339544|codex-cli-2026-09-01-rust-v0-152-0-github-380164108-cd339544]]'

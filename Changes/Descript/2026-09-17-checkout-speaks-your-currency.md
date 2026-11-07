@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 0ba1c85c0b8fcebbb9aa4b660c11d2ef359733028cb373ab4e3043dad403e6d9
+machine_hash: c3127f41dde8faf3a85bc59cb37f627185e094addae13e628a2f122c0bf0b378
 product: descript
 product_name: Descript
 record:

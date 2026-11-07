@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 212b6df3dcaf33b01d0bd3e9751dc4d9c6f41bb514e0130d2a6243a30ecc0f64
+machine_hash: a193eac8712ddb1fca50b6c870b69bfbd4d0d6251cd85e93e6a6825616804807
 product: open-webui
 product_name: Open WebUI
 record:
@@ -47,12 +47,12 @@ record:
   title: 2 Reliability and Performance changes in v0.5.0
   type: change
 related_changes:
-- '[[Changes/Cline/2024-12-18-when-cline-needs-to-make-targeted-edits-to-large-files-he-now-uses-a-search-repl|When
-  Cline needs to make targeted edits to large files, he now uses a search…]]'
 - '[[Changes/Dify/2024-12-18-4-reliability-and-performance-changes-in-0-14-1|4 Reliability
   and Performance changes in 0.14.1]]'
 - '[[Changes/Dify/2024-12-23-memory-optimization-reduced-memory-usage-from-800-mb-to-500-mb-thanks-to-the-opt|Memory
   Optimization: Reduced memory usage from 800+ MB to 500+ MB, thanks…]]'
+- '[[Changes/Devin/2024-12-24-devin-is-now-faster-and-more-cost-efficient|Devin is
+  now faster and more cost-efficient]]'
 source_release: '[[Releases/Open WebUI/open-webui-2024-12-25-v0-5-0-github-192314599-7712f16c|open-webui-2024-12-25-v0-5-0-github-192314599-7712f16c]]'
 source_type: github_releases
 theme: reliability-performance
@@ -95,7 +95,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.5.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2024-12-23 · Dify · [[Changes/Dify/2024-12-23-memory-optimization-reduced-memory-usage-from-800-mb-to-500-mb-thanks-to-the-opt|Memory Optimization: Reduced memory usage from 800+ MB to 500+ MB, thanks…]]
+- Earlier: 2024-12-24 · Devin · [[Changes/Devin/2024-12-24-devin-is-now-faster-and-more-cost-efficient|Devin is now faster and more cost-efficient]]
 - Later: 2024-12-31 · Open WebUI · [[Changes/Open WebUI/2024-12-31-2-reliability-and-performance-changes-in-v0-5-3|2 Reliability and Performance changes in v0.5.3]]
 <!-- chronolog:end -->
 

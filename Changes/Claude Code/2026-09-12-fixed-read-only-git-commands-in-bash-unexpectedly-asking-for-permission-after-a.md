@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: fix
-machine_hash: 4e7a040fa11682af5279d2271b5c63635b85c751a0404960cb8bd6b8ccc7950c
+machine_hash: ccbd2e287cf2767b5b7a096b7877e0aa1ed78a1b518cb6046c38d678bb75b033
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,11 +46,12 @@ record:
   title: Fixed read-only git commands in Bash unexpectedly asking for permission after…
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-09-10-devin-cloud|Devin Cloud]]'
-- '[[Changes/Claude Code/2026-09-11-5-safety-and-privacy-changes-in-v2-1-269|5 Safety
-  and Privacy changes in v2.1.269]]'
 - '[[Changes/OpenClaw/2026-09-11-12-safety-and-privacy-changes-in-v2026-9-4|12 Safety
   and Privacy changes in v2026.9.4]]'
+- '[[Changes/Raycast/2026-09-11-ai-tool-confirmations-now-default-to-auto-so-sessions-no-longer-ask-for-permissi|AI
+  : Tool confirmations now default to Auto, so sessions no longer ask…]]'
+- '[[Changes/Raycast/2026-09-11-ai-tool-confirmations-now-default-to-auto-so-sessions-no-longer-ask-for-permissi-9e970d|AI
+  : Tool confirmations now default to Auto, so sessions no longer ask…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-12-v2-1-270-github-387670363-32c73094|claude-code-2026-09-12-v2-1-270-github-387670363-32c73094]]'
 source_type: github_releases
 theme: safety-privacy
@@ -77,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-09-11 · OpenClaw · [[Changes/OpenClaw/2026-09-11-12-safety-and-privacy-changes-in-v2026-9-4|12 Safety and Privacy changes in v2026.9.4]]
+- Earlier: 2026-09-11 · Raycast · [[Changes/Raycast/2026-09-11-ai-tool-confirmations-now-default-to-auto-so-sessions-no-longer-ask-for-permissi-9e970d|AI : Tool confirmations now default to Auto, so sessions no longer ask…]]
 - Later: 2026-09-14 · ChatGPT · [[Changes/ChatGPT/2026-09-14-if-you-make-no-changes-to-your-plugins-settings-the-default-permission-setting-i|If you make no changes to your Plugins settings, the default permission setting…]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 09520eeeb668480a8185b80ee372b12c27985947af754e81dd5c48e45757038d
+machine_hash: 0cbb07197d0db52acd98840e8792ccc99a3bf994f8eedcc312dcb49149dd8d51
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -54,8 +54,8 @@ record:
   title: New LLM Models
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-10-06-2-model-support-changes-in-rust-v0-45-0|2 Model
-  Support changes in rust-v0.45.0]]'
+- '[[Changes/LM Studio/2025-10-06-2-model-support-changes-in-lm-studio-0-3-29|2 Model
+  Support changes in LM Studio 0.3.29]]'
 - '[[Changes/Lovable/2025-10-06-sonnet-4-5|Sonnet 4.5]]'
 - '[[Changes/Lovable/2025-10-06-lovable-ai|Lovable AI]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2025-10-07-2025-10-07-a74f7acb|elevenlabs-2025-10-07-2025-10-07-a74f7acb]]'

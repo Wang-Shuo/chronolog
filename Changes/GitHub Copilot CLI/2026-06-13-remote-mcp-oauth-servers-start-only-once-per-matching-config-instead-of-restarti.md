@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f987b1076ae72796389da6f807cb0851160876a846e6f21c2fd8a453aa54f949
+machine_hash: 435d738a397356089f2a4194933c69ce5bbe352147589a08986ce2f0137b1fc0
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -106,7 +106,7 @@ type: change
 ## Nearby in Account and Access
 
 - Earlier: 2026-06-12 · OpenCode · [[Changes/OpenCode/2026-06-12-core-added-connector-based-authentication-flows-and-support-for-stored-provider|Core Added connector-based authentication flows and support for stored provider…]]
-- Later: 2026-06-13 · OpenCode · [[Changes/OpenCode/2026-06-13-added-external-browser-oauth-for-the-snowflake-cortex-provider|Added external browser OAuth for the Snowflake Cortex provider]]
+- Later: 2026-06-13 · Krea · [[Changes/Krea/2026-06-13-oauth-sign-in-for-the-krea-mcp-server|OAuth sign-in for the Krea MCP server]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

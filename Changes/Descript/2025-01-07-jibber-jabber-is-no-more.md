@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: policy
-machine_hash: 1280036a873c0670ac1f7e4f422dfa645b3b77d42227f56bd6b013a0cdb2b674
+machine_hash: 2c811680f79d33426a6e978873ecb03dd10d4f531ee0aa1609a4ed9ded1eaefd
 product: descript
 product_name: Descript
 record:
@@ -57,11 +57,10 @@ record:
   title: Jibber Jabber is no more
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-01-02-add-loading-spinner-to-task-form-during-conversation-creation-by-rbren-in-https|Add
-  loading spinner to task form during conversation creation]]'
 - '[[Changes/Replit/2025-01-03-menu-search-feature|Menu search feature]]'
 - '[[Changes/Open WebUI/2025-01-05-2-interface-experience-changes-in-v0-5-4|2 Interface
   Experience changes in v0.5.4]]'
+- '[[Changes/LM Studio/2025-01-06-ui-improvements|UI improvements]]'
 source_release: '[[Releases/Descript/descript-2025-01-07-677d554eb70df614fe452c9a-10738fe7|descript-2025-01-07-677d554eb70df614fe452c9a-10738fe7]]'
 source_type: canny_changelog
 theme: interface-experience
@@ -94,7 +93,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2025-01-05 · Open WebUI · [[Changes/Open WebUI/2025-01-05-2-interface-experience-changes-in-v0-5-4|2 Interface Experience changes in v0.5.4]]
+- Earlier: 2025-01-06 · LM Studio · [[Changes/LM Studio/2025-01-06-ui-improvements|UI improvements]]
 - Later: 2025-01-10 · Aider · [[Changes/Aider/2025-01-10-https-aider-chat-history-html|(source link)]]
 <!-- chronolog:end -->
 

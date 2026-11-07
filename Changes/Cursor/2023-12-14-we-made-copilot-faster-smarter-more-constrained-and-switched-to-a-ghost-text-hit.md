@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c69fa140b4d8a273b677fbbff77b68d5c1a06f7679b268b3f0903be9a9e2eabc
+machine_hash: a16c802413f3746392fa92c0afb42683500518c1055c3581cc9b756ad6b8c0b1
 product: cursor
 product_name: Cursor
 record:
@@ -52,12 +52,12 @@ record:
   title: Copilot++ Improvements
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-12-02-running-cmd-enter-on-followups-should-result-in-much-better-codebase-results|Smarter
-  Followups]]'
 - '[[Changes/Descript/2023-12-06-sometimes-you-need-a-few-sometimes-you-need-a-few-tries-before-sometimes-you-nee|New
   AI Action: Remove Retakes]]'
 - '[[Changes/Dify/2023-12-08-chore-deps-bump-word-wrap-from-1-2-3-to-1-2-5-in-web-by-dependabot-in-https-gith|chore(deps):
   bump word-wrap from 1.2.3 to 1.2.5 in /web]]'
+- '[[Changes/Raycast/2023-12-13-ai-commands-highlight-edits-in-the-ai-response-by-enabling-this-option-via-creat|AI
+  Commands: Highlight edits in the AI response by enabling this option…]]'
 source_release: '[[Releases/Cursor/cursor-2023-12-14-0-19-0-https-cursor-com-changelog-0-19-0-d991f76e|cursor-2023-12-14-0-19-0-https-cursor-com-changelog-0-19-0-d991f76e]]'
 source_type: cursor_changelog
 theme: editor-experience
@@ -84,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2023-12-08 · Dify · [[Changes/Dify/2023-12-08-chore-deps-bump-word-wrap-from-1-2-3-to-1-2-5-in-web-by-dependabot-in-https-gith|chore(deps): bump word-wrap from 1.2.3 to 1.2.5 in /web]]
+- Earlier: 2023-12-13 · Raycast · [[Changes/Raycast/2023-12-13-ai-commands-highlight-edits-in-the-ai-response-by-enabling-this-option-via-creat|AI Commands: Highlight edits in the AI response by enabling this option…]]
 - Later: 2023-12-16 · Cursor · [[Changes/Cursor/2023-12-16-update-0-20-1-0-20-2-we-added-tldrs-to-make-it-easier-to-sort-through-the-bugs-f|UPDATE (0.20.1-0.20.2): We added TLDRs to make it easier to sort through the bugs…]]
 <!-- chronolog:end -->
 

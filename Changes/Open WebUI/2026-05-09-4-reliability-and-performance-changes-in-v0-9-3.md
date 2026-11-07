@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2049b1a2da27d462eb5b41ed4874c6b372c602edd39658db06a13ffa321f4427
+machine_hash: f240685e7e1a8519faa1165dc05c5a3300d392e819efbddaa9a11bc32419911f
 product: open-webui
 product_name: Open WebUI
 record:
@@ -57,12 +57,12 @@ record:
   title: 4 Reliability and Performance changes in v0.9.3
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-05-07-api-show-responses-are-now-cached-improving-median-latency-by-6-7x-which-will-in|/api/show
-  responses are now cached, improving median latency…]]'
-- '[[Changes/Codex CLI/2026-05-08-added-a-faster-cargo-profiling-build-profile-and-disabled-empty-doctest-targets|Added
-  a faster Cargo profiling build profile and disabled empty doctest targets…]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-08-faster-user-list-and-user-switch-for-multi-account-users|Faster
   /user list and /user switch for multi-account users]]'
+- '[[Changes/Raycast/2026-05-08-performance-improved-cold-start-latency-for-the-action-panel-and-search-emoji-sy|Performance:
+  Improved cold start latency for the Action Panel and Search Emoji & Symbols]]'
+- '[[Changes/Raycast/2026-05-08-core-improved-overall-stability-with-hardening-against-third-party-hooks|Core
+  : Improved overall stability with hardening against third-party hooks]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-05-09-v0-9-3-github-319872270-bb8aabca|open-webui-2026-05-09-v0-9-3-github-319872270-bb8aabca]]'
 source_type: github_releases
 theme: reliability-performance
@@ -112,7 +112,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.9.3
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-05-08 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-08-faster-user-list-and-user-switch-for-multi-account-users|Faster /user list and /user switch for multi-account users]]
+- Earlier: 2026-05-08 · Raycast · [[Changes/Raycast/2026-05-08-core-improved-overall-stability-with-hardening-against-third-party-hooks|Core : Improved overall stability with hardening against third-party hooks]]
 - Later: 2026-05-11 · Claude Code · [[Changes/Claude Code/2026-05-11-added-scroll-speed-command-to-tune-mouse-wheel-scroll-speed-with-a-live-preview|Added /scroll-speed command to tune mouse wheel scroll speed with a live preview]]
 <!-- chronolog:end -->
 

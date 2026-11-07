@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7a0db282ccc1a00d1d01c4954f4a005d211feac7b5284a1fb9086c055949de9b
+machine_hash: e48906d1d581856779e1788be6de4253bd3846fae16ad12fc0eb6effab808265
 product: dify
 product_name: Dify
 record:
@@ -43,10 +43,10 @@ record:
   title: 2 Model Support changes in 0.3.31
   type: change
 related_changes:
-- '[[Changes/Aider/2023-11-17-3-model-support-changes-in-v0-18-0|3 Model Support changes
-  in v0.18.0]]'
 - '[[Changes/Ollama/2023-11-17-4-model-support-changes-in-v0-1-10|4 Model Support
   changes in v0.1.10]]'
+- '[[Changes/Superwhisper/2023-11-17-experiments-moved-to-ai-models-settings|Experiments
+  moved to AI models settings]]'
 - '[[Changes/Ollama/2023-11-20-4-model-support-changes-in-v0-1-11|4 Model Support
   changes in v0.1.11]]'
 source_release: '[[Releases/Dify/dify-2023-11-21-0-3-31-github-130614518-7f099d89|dify-2023-11-21-0-3-31-github-130614518-7f099d89]]'
@@ -86,7 +86,7 @@ Source: https://github.com/langgenius/dify/releases/tag/0.3.31
 ## Nearby in Model Support
 
 - Earlier: 2023-11-20 · Ollama · [[Changes/Ollama/2023-11-20-4-model-support-changes-in-v0-1-11|4 Model Support changes in v0.1.11]]
-- Later: 2023-11-25 · Dify · [[Changes/Dify/2023-11-25-3-model-support-changes-in-0-3-32|3 Model Support changes in 0.3.32]]
+- Later: 2023-11-24 · Superwhisper · [[Changes/Superwhisper/2023-11-24-experimental-llm-post-processing|Experimental LLM post processing]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

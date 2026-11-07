@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b66c803b4968d0e40b8dfebf545a441cf14d27aa177aa4051528671ec95028b9
+machine_hash: 6d86115cf13d6792bfa4ce7001ebcf0f192e582c551483fb3b46eb55ab5c10c9
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,8 +42,8 @@ record:
     Web tab…'
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-10-23-in-ide-mode-a-chat-tab-whose-agent-could-not-start-a-session-says-why-and-offers|In
-  IDE mode, a chat tab whose agent could not start a session says why and offers…]]'
+- '[[Changes/Krea/2026-10-24-bounding-boxes-and-regional-edits-work-with-krea-3-ultra|Bounding
+  boxes and regional edits work with Krea 3 Ultra]]'
 - '[[Changes/OpenClaw/2026-10-24-a-suspiciously-truncated-configuration-no-longer-replaces-the-healthy-recovery-c|A
   suspiciously truncated configuration no longer replaces the healthy recovery copy…]]'
 - '[[Changes/Open WebUI/2026-10-25-4-editor-experience-changes-in-v0-12-4|4 Editor
@@ -88,7 +88,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-10-25 · Open WebUI · [[Changes/Open WebUI/2026-10-25-4-editor-experience-changes-in-v0-12-4|4 Editor Experience changes in v0.12.4]]
-- Later: 2026-10-26 · ElevenLabs · [[Changes/ElevenLabs/2026-10-26-2-editor-experience-changes-in-elevenlabs-updates-2026-10-26|2 Editor Experience changes in ElevenLabs updates — 2026-10-26]]
+- Later: 2026-10-26 · Devin · [[Changes/Devin/2026-10-26-new-activity-tab-replaces-progress-and-shell|New Activity Tab Replaces Progress and Shell]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

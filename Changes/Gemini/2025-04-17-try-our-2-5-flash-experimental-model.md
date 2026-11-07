@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 9167f59bf6e0c043e7189cb0a454e34a91a3cb91dd6fe87a63b7836e0e064659
+machine_hash: 7a42069cee7b314a65f95723476da00d66cde4ae218d7a06806b9d12e32099a3
 product: gemini
 product_name: Gemini
 record:
@@ -56,8 +56,8 @@ record:
   title: Try our 2.5 Flash (experimental) model
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-04-16-today-we-re-releasing-openai-o3-and-o4-mini-the-latest-in-our-o-series-of-models|o3
-  and o4-mini in ChatGPT]]'
+- '[[Changes/Raycast/2025-04-16-3-model-support-changes-in-raycast-macos-v1-1-96-0|3
+  Model Support changes in Raycast macos-v1 1.96.0]]'
 - '[[Changes/Windsurf/2025-04-16-new-o4-mini-models-available-and-free-limited-time|New
   o4-mini models available and Free (Limited Time)]]'
 - '[[Changes/Windsurf/2025-04-16-o4-mini-available|o4-mini Available]]'

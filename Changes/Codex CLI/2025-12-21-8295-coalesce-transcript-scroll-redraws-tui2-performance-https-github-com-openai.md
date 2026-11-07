@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3a38da4276a540431c3d47255085eb4834405e78078cce8c8fc63355947735e4
+machine_hash: 7c4d9c4701b0991fd4840b444a2e132a3fd3d18629db4a30d7478e8d402cea90
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -41,12 +41,12 @@ record:
   title: '#8295 Coalesce transcript scroll redraws (TUI2 performance)'
   type: change
 related_changes:
-- '[[Changes/Cline/2025-12-17-improved-whatsnew-modal-responsiveness-and-cleaned-up-redundant-ui-elements|Improved
-  WhatsNew modal responsiveness and cleaned up redundant UI elements]]'
 - '[[Changes/Gamma/2025-12-17-for-faster-results-submit-your-url-through-google-search-console|For
   faster results, submit your URL through Google Search Console]]'
 - '[[Changes/Codex CLI/2025-12-18-8216-speed-and-reliability-improvements-for-setting-reads-acls|♯8216
   speed and reliability improvements for setting reads ACLs]]'
+- '[[Changes/Devin/2025-12-19-various-bug-fixes-and-performance-improvements-across-the-platform|Various
+  bug fixes and performance improvements across the platform]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-12-21-rust-v0-77-0-github-271997317-8c159931|codex-cli-2025-12-21-rust-v0-77-0-github-271997317-8c159931]]'
 source_type: github_releases
 theme: reliability-performance
@@ -78,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-12-18 · Codex CLI · [[Changes/Codex CLI/2025-12-18-8216-speed-and-reliability-improvements-for-setting-reads-acls|♯8216 speed and reliability improvements for setting reads ACLs]]
+- Earlier: 2025-12-19 · Devin · [[Changes/Devin/2025-12-19-various-bug-fixes-and-performance-improvements-across-the-platform|Various bug fixes and performance improvements across the platform]]
 - Later: 2025-12-21 · Open WebUI · [[Changes/Open WebUI/2025-12-21-7-reliability-and-performance-changes-in-v0-6-42|7 Reliability and Performance changes in v0.6.42]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 879697775a9aed37d24dc3232290ecdc9539a216e629e3decef3f53009c9c9ae
+machine_hash: 7820ab2368329ddbbd01c2ec1e0f9ca29869622c19cfa68527e2bbbac4210bfc
 product: replit
 product_name: Replit
 record:
@@ -48,8 +48,8 @@ record:
   title: Database now generally available
   type: change
 related_changes:
-- '[[Changes/Ollama/2025-12-04-flash-attention-is-now-enabled-by-default-for-vision-models-such-as-mistral-3-ge|Flash
-  attention is now enabled by default for vision models such as mistral-3…]]'
+- '[[Changes/Raycast/2025-12-05-ai-significantly-improved-performance-when-streaming-responses|AI:
+  Significantly improved performance when streaming responses]]'
 - '[[Changes/Replit/2025-12-05-connect-third-party-services-faster|Connect third-party
   services faster]]'
 - '[[Changes/Replit/2025-12-05-fast-mode-handles-more-autonomously|Fast Mode handles
@@ -84,8 +84,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-12-04 · Ollama · [[Changes/Ollama/2025-12-04-flash-attention-is-now-enabled-by-default-for-vision-models-such-as-mistral-3-ge|Flash attention is now enabled by default for vision models such as mistral-3…]]
-- Later: 2025-12-09 · v0 · [[Changes/v0/2025-12-09-optimized-preview-loading-performance-when-using-design-mode|Optimized preview loading performance when using Design Mode]]
+- Earlier: 2025-12-05 · Raycast · [[Changes/Raycast/2025-12-05-ai-significantly-improved-performance-when-streaming-responses|AI: Significantly improved performance when streaming responses]]
+- Later: 2025-12-08 · Superwhisper · [[Changes/Superwhisper/2025-12-08-stats-view-with-typing-speed-and-time-saved|Stats view with typing speed and time saved]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

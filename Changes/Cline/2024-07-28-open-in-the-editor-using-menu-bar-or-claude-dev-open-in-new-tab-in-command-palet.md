@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 666ea12e6a626ba66df482e2eb2632a1ff2efe12d76fc5f3236d1b361fe17ca4
+machine_hash: b45177a06abeaf2206f869ff888bad2c7f808c57036fd6eefd177a37d4ed2b7a
 product: cline
 product_name: Cline
 record:
@@ -55,8 +55,8 @@ record:
   title: Open in the editor…
   type: change
 related_changes:
-- '[[Changes/Gamma/2024-07-23-we-ve-added-16-new-themes-to-gamma-with-a-focus-on-professional-designs-that-kee|Gamma
-  adds 16 new themes to Gamma, with a focus on professional designs that keep…]]'
+- '[[Changes/AnythingLLM/2024-07-26-4-editor-experience-changes-in-v1-0-0|4 Editor
+  Experience changes in v1.0.0]]'
 - '[[Changes/OpenHands/2024-07-27-validate-to-replace-in-edit-file-by-replace-agentskill-by-li-boxuan-in-https-git|Validate
   to_replace in edit_file_by_replace AgentSkill]]'
 - '[[Changes/Cline/2024-07-28-updated-view-id-for-tab-panels-for-better-internal-caching|Updated

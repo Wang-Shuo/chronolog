@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f255e8d6e3f850da7f71ef1eafa757262c3950a6bb7e644644814bfdbcdb4f01
+machine_hash: 88b01919bd70a2370a406155a241aa046dbf27c954d49b55fc689ec14445449b
 product: openclaw
 product_name: OpenClaw
 record:
@@ -46,8 +46,8 @@ record:
     work…
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-08-25-5-search-and-browsing-changes-in-v0-11-1|5 Search
-  and Browsing changes in v0.11.1]]'
+- '[[Changes/Raycast/2026-08-25-ai-ask-user-question-tool-can-be-collapsed-to-make-browsing-conversation-easier-72fc8d|AI
+  : Ask User Question tool can be collapsed to make browsing conversation easier…]]'
 - '[[Changes/Lovable/2026-08-26-see-how-each-app-page-appears-in-search-results-and-link-previews|See
   how each app page appears in search results and link previews]]'
 - '[[Changes/Claude Code/2026-09-01-changed-btw-history-browsing-from-to-shift-shift-or-stepping-through-your-recent|Changed

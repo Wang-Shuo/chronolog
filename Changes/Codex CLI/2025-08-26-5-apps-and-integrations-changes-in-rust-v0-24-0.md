@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a29bdb775d19459c7ced3571956ba29cd172e1ea0044c4dfa9d5086cedc2195c
+machine_hash: 6ad8ca8952cbbf2354e128e91894c143a5dc6acaa7290ec875de9957a1513f7c
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -49,10 +49,9 @@ record:
   title: 5 Apps and Integrations changes in rust-v0.24.0
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-08-21-cursor-now-supports-mcp-elicitation-a-new-feature-in-the-mcp-spec-that-allows-se|Support
-  for MCP elicitation]]'
 - '[[Changes/Open WebUI/2025-08-21-5-apps-and-integrations-changes-in-v0-6-23|5 Apps
   and Integrations changes in v0.6.23]]'
+- '[[Changes/Devin/2025-08-22-self-hosted-gitlab-access|Self-Hosted GitLab Access]]'
 - "[[Changes/Open WebUI/2025-08-22-tool-server-loading-and-visibility-restored-resolved-an-issue-where-connected-to|\U0001F6E0️
   Tool Server Loading and Visibility Restored]]"
 source_release: '[[Releases/Codex CLI/codex-cli-2025-08-26-rust-v0-24-0-github-242647588-70fa432e|codex-cli-2025-08-26-rust-v0-24-0-github-242647588-70fa432e]]'

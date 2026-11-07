@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d4067e46e8b3abbf146467609ea04048e607a514a1ce808bd2b6c1a9298e27c2
+machine_hash: ba78053d7138bae61aa291f7cf3bde17af890443cc82ca52317faae8e715bcef
 product: claude-code
 product_name: Claude Code
 record:
@@ -91,7 +91,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.198
 ## Nearby in Interface Experience
 
 - Earlier: 2026-06-30 · OpenClaw · [[Changes/OpenClaw/2026-06-30-3-interface-experience-changes-in-v2026-6-11|3 Interface Experience changes in v2026.6.11]]
-- Later: 2026-07-01 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-01-2-interface-experience-changes-in-v1-0-68|2 Interface Experience changes in v1.0.68]]
+- Later: 2026-07-01 · Devin · [[Changes/Devin/2026-07-01-analytics-page-improvements|Analytics Page Improvements]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 75d19cb271f346a960eece1b78d2fa3e6ba8e7e829c91d99a2a5e388b36f3ad7
+machine_hash: cd8c3a7d549640fd730875db93cfa0139fba97216d14ec72b1ac2d4af0e0ff4d
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -41,10 +41,10 @@ record:
   title: Show the live work progress of background subagents in the `/tasks` panel
   type: change
 related_changes:
-- '[[Changes/Runway/2026-08-11-agent-sessions-now-live-inside-projects-so-you-can-start-a-session-directly-from|Projects
-  + Brand Kits in Agent]]'
 - '[[Changes/Claude Code/2026-08-12-improved-workflow-fan-outs-to-stagger-same-prefix-sibling-agents-so-subsequent-a|Improved
   workflow fan-outs to stagger same-prefix sibling agents so subsequent…]]'
+- '[[Changes/Devin/2026-08-12-agent-mode-selector-improvements-in-automations|Agent
+  Mode Selector Improvements in Automations]]'
 - '[[Changes/Google Antigravity/2026-08-12-reduced-typing-lag-while-the-agent-streams-responses|Reduced
   typing lag while the agent streams responses]]'
 source_release: '[[Releases/Kimi Code/kimi-code-2026-08-12-0-35-0-ad4cbfb7|kimi-code-2026-08-12-0-35-0-ad4cbfb7]]'
@@ -76,7 +76,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-08-12 · Google Antigravity · [[Changes/Google Antigravity/2026-08-12-reduced-typing-lag-while-the-agent-streams-responses|Reduced typing lag while the agent streams responses]]
-- Later: 2026-08-13 · Claude Code · [[Changes/Claude Code/2026-08-13-4-agent-mode-changes-in-v2-1-232|4 Agent Mode changes in v2.1.232]]
+- Later: 2026-08-13 · AnythingLLM · [[Changes/AnythingLLM/2026-08-13-6-agent-mode-changes-in-v1-16-0|6 Agent Mode changes in v1.16.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

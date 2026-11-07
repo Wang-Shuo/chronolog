@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1b1ac2fc7b2d4959cbcc789ac13eb3c340b5e94f94d0730a3b8990aed37fa717
+machine_hash: d994edaf968ab6ac1679fc5af41efd9fa82af7d646817a1fd6bfd23ec696a283
 product: heygen
 product_name: HeyGen
 record:
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2026-01-20 · ChatGPT · [[Changes/ChatGPT/2026-01-20-we-re-making-an-update-to-chatgpt-voice-for-paid-users-that-improves-its-ability|Voice Updates]]
-- Later: 2026-01-23 · Replit · [[Changes/Replit/2026-01-23-audio-support-in-ai-integrations|Audio support in AI integrations]]
+- Later: 2026-01-23 · Raycast · [[Changes/Raycast/2026-01-23-keyboard-make-sure-last-ai-command-used-is-remembered-dictation|Keyboard: Make sure last AI Command used is remembered dictation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

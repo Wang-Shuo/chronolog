@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 6c75e31874ee77b0669d1168af49acd9ea3eb8521e83285b49de5a9ee208c18a
+machine_hash: 084287d92d42eec98621469ce5607963969e9ea622d67b212546311fdaa303ee
 product: replit
 product_name: Replit
 record:
@@ -50,11 +50,12 @@ record:
   title: Voice Mode
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-06-15-elevencreative-studio-f3d23d|ElevenCreative Studio]]'
-- '[[Changes/ChatGPT/2026-06-18-help-with-pronunciations-chatgpt-can-now-include-text-and-audio-pronunciation-gu|Help
-  with pronunciations]]'
 - '[[Changes/Lovable/2026-06-18-add-voice-to-your-app-with-text-to-speech-and-speech-to-text|Add
   voice to your app with text-to-speech and speech-to-text]]'
+- '[[Changes/Raycast/2026-06-18-2-voice-and-audio-changes-in-raycast-macos-0-65|2
+  Voice and Audio changes in Raycast macos 0.65]]'
+- '[[Changes/Raycast/2026-06-18-3-voice-and-audio-changes-in-raycast-windows-0-65|3
+  Voice and Audio changes in Raycast windows 0.65]]'
 source_release: '[[Releases/Replit/replit-2026-06-19-2026-06-19-ff036602|replit-2026-06-19-2026-06-19-ff036602]]'
 source_type: replit_changelog
 theme: voice
@@ -88,8 +89,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-06-18 · Lovable · [[Changes/Lovable/2026-06-18-add-voice-to-your-app-with-text-to-speech-and-speech-to-text|Add voice to your app with text-to-speech and speech-to-text]]
-- Later: 2026-06-25 · Dify · [[Changes/Dify/2026-06-25-refactor-inject-session-into-audio-tts-by-myshkin451-in-https-github-com-langgen|refactor: inject session into audio TTS]]
+- Earlier: 2026-06-18 · Raycast · [[Changes/Raycast/2026-06-18-3-voice-and-audio-changes-in-raycast-windows-0-65|3 Voice and Audio changes in Raycast windows 0.65]]
+- Later: 2026-06-22 · Raycast · [[Changes/Raycast/2026-06-22-dictation-you-can-now-retry-failed-transcriptions-more-often-in-ai-chat-notes-an|Dictation : You can now retry failed transcriptions more often in AI Chat, Notes…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

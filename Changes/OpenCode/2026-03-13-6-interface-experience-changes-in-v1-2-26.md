@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 834d5aa4cb4858f3c7904343366723da2604d59a2a69209757f5a79cdc125e3c
+machine_hash: f7498911ab0bda4ed88a5ca83dfe01fe0051d129f2a1e5278b9e95fda82a7059
 product: opencode
 product_name: OpenCode
 record:
@@ -50,12 +50,10 @@ record:
   title: 6 Interface Experience changes in v1.2.26
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-11-2-interface-experience-changes-in-v1-0-4|2
-  Interface Experience changes in v1.0.4]]'
-- '[[Changes/v0/2026-03-11-added-tooltip-to-disabled-new-chat-button-for-view-only-access|Added
-  tooltip to disabled New Chat button for view-only access]]'
 - '[[Changes/OpenCode/2026-03-12-2-interface-experience-changes-in-v1-2-25|2 Interface
   Experience changes in v1.2.25]]'
+- '[[Changes/Devin/2026-03-13-session-list-improvements|Session List Improvements]]'
+- '[[Changes/Devin/2026-03-13-structured-output-modal|Structured Output Modal]]'
 source_release: '[[Releases/OpenCode/opencode-2026-03-13-v1-2-26-936b97fb|opencode-2026-03-13-v1-2-26-936b97fb]]'
 source_type: opencode_changelog
 theme: interface-experience
@@ -102,7 +100,7 @@ Source: https://opencode.ai/changelog/v1.2.26
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-03-12 · OpenCode · [[Changes/OpenCode/2026-03-12-2-interface-experience-changes-in-v1-2-25|2 Interface Experience changes in v1.2.25]]
+- Earlier: 2026-03-13 · Devin · [[Changes/Devin/2026-03-13-structured-output-modal|Structured Output Modal]]
 - Later: 2026-03-14 · Ollama · [[Changes/Ollama/2026-03-14-or-using-openclaw-s-onboarding|Or using OpenClaw’s onboarding]]
 <!-- chronolog:end -->
 

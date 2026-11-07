@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c6f6eef2e86c00f762e10133918069fa0d7555a12114ff7b383477eaaf40cc7d
+machine_hash: 8f28d6e9ac949c83b10eef75af1ec5e842be88348933af57e45bcad36ee26a6c
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -40,8 +40,8 @@ record:
   title: '#23578 fix(app-server): speed up shutdown @fcoury-oai'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-05-20-windows-installs-are-more-robust-codex-doctor-now-detects-npm-managed-installs-c|Windows
-  installs are more robust]]'
+- '[[Changes/Raycast/2026-05-20-3-reliability-and-performance-changes-in-raycast-macos-0-61|3
+  Reliability and Performance changes in Raycast macos 0.61]]'
 - '[[Changes/Claude Code/2026-05-21-2-reliability-and-performance-changes-in-v2-1-146|2
   Reliability and Performance changes in v2.1.146]]'
 - '[[Changes/Claude Code/2026-05-21-3-reliability-and-performance-changes-in-v2-1-147|3

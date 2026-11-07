@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6b7ed451669f698f064fa8c3dbcf76688483483a64375969a03611a8623d3ab8
+machine_hash: cb4f10895673cf80abbef62f41158b6391d3c437a695c2311e8fa7309b4d4603
 product: cline
 product_name: Cline
 record:
@@ -45,8 +45,8 @@ record:
     that bundle
   type: change
 related_changes:
-- '[[Changes/Cline/2026-08-21-2-apps-and-integrations-changes-in-v4-1-11|2 Apps and
-  Integrations changes in v4.1.11]]'
+- '[[Changes/Devin/2026-08-21-enterprise-mcp-servers-support|Enterprise MCP Servers
+  Support]]'
 - '[[Changes/Lovable/2026-08-21-export-designs-from-figma-with-the-lovable-plugin|Export
   designs from Figma with the Lovable plugin]]'
 - '[[Changes/OpenHands/2026-08-21-2-apps-and-integrations-changes-in-v1-15-0|2 Apps

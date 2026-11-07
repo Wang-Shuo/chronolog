@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e133def547a8bf5a6f935c4ca518dba20834b4f596a820130f9bfe878aad80e3
+machine_hash: a2aa186582ae2ffdbea08848a56c1ec9da03bee60d33645e32cf247d96626b31
 product: openclaw
 product_name: OpenClaw
 record:
@@ -44,10 +44,10 @@ record:
   title: Oversized macOS camera clips and screen recordings now return an error instead…
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-10-22-linux-camera-discovery-now-reports-an-unreadable-device-folder-as-an-error-inste|Linux
-  camera discovery now reports an unreadable device folder as an error instead…]]'
 - '[[Changes/ElevenLabs/2026-10-26-video-to-music-studio-s-video-to-music-workflow-uses-music-v2-5-by-default|Video
   to music: Studio''s video to music workflow uses Music v2.5 by default]]'
+- '[[Changes/Krea/2026-10-26-the-krea-3-home-page-no-longer-crashes-when-you-open-image-video-or-enhancer|The
+  Krea 3 home page no longer crashes when you open Image, Video, or Enhancer]]'
 - '[[Changes/Microsoft 365 Copilot/2026-10-27-multimodal-capture-in-copilot-notebooks-android-onenote|Multimodal
   capture in Copilot Notebooks Android (OneNote)]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-10-27-v2026-10-8-9d674f40|openclaw-2026-10-27-v2026-10-8-9d674f40]]'

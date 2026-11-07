@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0b22dacf11dc9025abf38c547351d1aeb193a95d2bd64269ed0727cae206b933
+machine_hash: 17d444a9410450ad9581d890558ffe8184bd8e339497969fd72b6f1b4edbedc8
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -47,10 +47,10 @@ record:
   title: Rename two `[loop_control]` keys
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-07-29-chore-bump-software-agent-sdk-to-1-38-0-and-automation-to-1-4-1-by-hieptl-in-htt|chore:
-  bump software-agent-sdk to 1.38.0 and automation to 1.4.1]]'
-- '[[Changes/OpenHands/2026-07-30-chore-bump-agent-server-1-39-1-automation-1-5-0-typescript-client-1-36-1-by-hiep|chore:
-  bump agent-server 1.39.1, automation 1.5.0, typescript-client 1.36.1]]'
+- '[[Changes/Devin/2026-07-31-opt-in-public-github-repo-support-in-automations|Opt-In
+  Public GitHub Repo Support in Automations]]'
+- '[[Changes/Devin/2026-07-31-ip-allowlists-cover-automation-webhooks|IP Allowlists
+  Cover Automation Webhooks]]'
 - '[[Changes/OpenHands/2026-08-03-feat-drive-the-automation-ui-from-the-interface-manifest-by-hieptl-in-https-gith|feat:
   drive the automation UI from the interface manifest]]'
 source_release: '[[Releases/Kimi Code/kimi-code-2026-08-04-0-32-0-b28d4366|kimi-code-2026-08-04-0-32-0-b28d4366]]'

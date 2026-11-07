@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2a25fd9fef0feb382e7d9896586ca144b7d4cbd64c6533ba0c9cac0eb0b16448
+machine_hash: 5a7c5bceaafff8e1b480b3b72fa047f1bdc0598eac3f92bb65256250ae7a66dc
 product: opencode
 product_name: OpenCode
 record:
@@ -99,7 +99,7 @@ Source: https://opencode.ai/changelog/v1.1.26
 ## Nearby in Model Support
 
 - Earlier: 2026-01-19 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-19-model-switching-from-codex-to-opus-preserves-conversation-history-correctly|Model switching from Codex to Opus preserves conversation history correctly]]
-- Later: 2026-01-20 · ChatGPT · [[Changes/ChatGPT/2026-01-20-we-re-rolling-out-an-age-prediction-model-on-chatgpt-consumer-plans-to-help-dete|Rolling out age prediction]]
+- Later: 2026-01-19 · Superwhisper · [[Changes/Superwhisper/2026-01-19-add-gpt-5-1-language-model|Add GPT 5.1 language model]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

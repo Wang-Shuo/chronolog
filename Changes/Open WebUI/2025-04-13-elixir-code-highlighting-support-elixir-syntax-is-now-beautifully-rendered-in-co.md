@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: cd222401a38522bb61cf76fd428e149a5d76da955b70536f346d03aba3f0e1e6
+machine_hash: 1d28bb7d6ff6853f28a059cb334950db5ad49431fe88da256d5900f0a4f0ea65
 product: open-webui
 product_name: Open WebUI
 record:
@@ -46,8 +46,8 @@ record:
   title: "\U0001F9E0 **Elixir Code Highlighting Support**"
   type: change
 related_changes:
-- '[[Changes/Notion/2025-02-18-more-reasons-to-replace-your-scheduling-app|More reasons
-  to replace your scheduling app]]'
+- '[[Changes/Devin/2025-02-26-misc-brain-improvements-devin-is-less-likely-to-loop-while-trying-to-fix-ci-lint|Misc
+  brain improvements]]'
 - '[[Changes/Dify/2025-03-11-feature-newnew-workflow-loop-node-by-woo0ood-in-https-github-com-langgenius-dify|Feature/newnew
   workflow loop node]]'
 - '[[Changes/Dify/2025-04-09-5-automation-and-scheduling-changes-in-1-2-0|5 Automation

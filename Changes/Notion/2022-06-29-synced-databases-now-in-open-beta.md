@@ -14,12 +14,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 64868d434138d149897c44c5d8c811d32be9d36fc40b42023420dce340d45ae7
+machine_hash: 93a9536ac5cb68c2f3b58e081e4eeadbad9929c042a7538cf949463e3a77f0aa
 product: notion
 product_name: Notion
 record:
@@ -57,12 +57,10 @@ record:
   title: Synced Databases, now in open beta
   type: change
 related_changes:
-- "[[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign
-  into Notion with your Apple ID \U0001F5DD️ The perfect combination of speedy and
-  secure]]"
-- '[[Changes/Notion/2020-08-10-finished-rolling-out-sign-in-with-apple-to-100-of-devices-across-ios-android-web|Finished
-  rolling out Sign in with Apple to 100% of devices across iOS, Android, web…]]'
+- '[[Changes/Raycast/2021-02-03-new-linear-features|New Linear Features]]'
 - '[[Changes/Descript/2021-03-08-descript-now-supports-google-sign-in|Google Auth]]'
+- '[[Changes/Raycast/2021-08-25-improve-on-login-start-performance|Improve on-login
+  start performance]]'
 source_release: '[[Releases/Notion/notion-2022-06-29-https-www-notion-com-releases-2022-06-29-e1db44dd|notion-2022-06-29-https-www-notion-com-releases-2022-06-29-e1db44dd]]'
 source_type: notion_changelog
 theme: account-access
@@ -96,7 +94,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2021-03-08 · Descript · [[Changes/Descript/2021-03-08-descript-now-supports-google-sign-in|Google Auth]]
+- Earlier: 2021-08-25 · Raycast · [[Changes/Raycast/2021-08-25-improve-on-login-start-performance|Improve on-login start performance]]
 - Later: 2022-08-11 · Notion · [[Changes/Notion/2022-08-11-improved-reliability-of-sign-in-with-apple-on-ios|Improved reliability of Sign in with Apple on iOS]]
 <!-- chronolog:end -->
 

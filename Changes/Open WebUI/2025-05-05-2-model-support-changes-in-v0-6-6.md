@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8f6977901789d70afa52599706317b9adee1d8abafc6844ce2a7450b7a21b446
+machine_hash: d0958b557ddcb4ef7dc35925ea1333c16a7d8896d777987b232be4a6c4087ca0
 product: open-webui
 product_name: Open WebUI
 record:
@@ -47,7 +47,8 @@ record:
   title: 2 Model Support changes in v0.6.6
   type: change
 related_changes:
-- '[[Changes/Midjourney/2025-04-30-new-v7-image-model-update|New V7 image model update]]'
+- '[[Changes/Recraft/2025-04-30-you-can-now-generate-and-edit-with-gpt-4o-available-for-paid-subscribers-inside|Generate
+  and edit with GPT-4o (available for paid subscribers) inside Recraft]]'
 - '[[Changes/Midjourney/2025-05-02-we-re-launching-v7-model-speedups-today-this-includes-the-release-of-the-default|Midjourney
   launches V7 model speedups today]]'
 - '[[Changes/Cline/2025-05-03-5-model-support-changes-in-v3-14-0|5 Model Support changes
@@ -95,7 +96,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.6.6
 ## Nearby in Model Support
 
 - Earlier: 2025-05-03 · Cline · [[Changes/Cline/2025-05-03-5-model-support-changes-in-v3-14-0|5 Model Support changes in v3.14.0]]
-- Later: 2025-05-06 · Gemini · [[Changes/Gemini/2025-05-06-2-5-pro-experimental-got-a-major-upgrade-for-coding|2.5 Pro (experimental) got a major upgrade for coding]]
+- Later: 2025-05-06 · AnythingLLM · [[Changes/AnythingLLM/2025-05-06-2-model-support-changes-in-v1-8-1|2 Model Support changes in v1.8.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

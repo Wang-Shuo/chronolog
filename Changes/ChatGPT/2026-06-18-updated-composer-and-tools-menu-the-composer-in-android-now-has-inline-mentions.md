@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 159f614a01518f83cad1249a5ed9aceba9b0dc1837a63a8bc650382ba415cd96
+machine_hash: 76d37f2558619ff8cf93b5e30b51c970d6ae030a6c971bb445e6cdbfa62f60d0
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -54,12 +54,12 @@ record:
   title: Updated composer and tools menu
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-06-16-the-3-2-series-brings-devin-local-enhancements-and-continued-devin-desktop-polis|The
-  3.2 series brings Devin Local enhancements and continued Devin Desktop polish]]'
-- '[[Changes/Claude Code/2026-06-17-2-mobile-and-desktop-changes-in-v2-1-181|2 Mobile
-  and Desktop changes in v2.1.181]]'
-- '[[Changes/OpenCode/2026-06-17-desktop-the-new-desktop-file-and-folder-picker-is-faster-and-easier-to-navigate|Desktop
-  The new desktop file and folder picker is faster and easier to navigate…]]'
+- '[[Changes/Wispr Flow/2026-06-17-updated-data-controls-desktop|Updated data controls
+  (Desktop)]]'
+- '[[Changes/Wispr Flow/2026-06-17-a-more-reliable-wispr-flow-desktop|A more reliable
+  Wispr Flow (Desktop)]]'
+- '[[Changes/Wispr Flow/2026-06-17-one-tap-retry-for-failed-transcripts-ios|One-Tap
+  Retry for Failed Transcripts (iOS)]]'
 scope: Android
 source_release: '[[Releases/ChatGPT/chatgpt-2026-06-18-chatgpt-app-experience-updates-d15f55c5|chatgpt-2026-06-18-chatgpt-app-experience-updates-d15f55c5]]'
 source_type: chatgpt_changelog
@@ -96,8 +96,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-06-17 · OpenCode · [[Changes/OpenCode/2026-06-17-desktop-the-new-desktop-file-and-folder-picker-is-faster-and-easier-to-navigate|Desktop The new desktop file and folder picker is faster and easier to navigate…]]
-- Later: 2026-06-19 · v0 · [[Changes/v0/2026-06-19-on-mobile-an-expired-session-while-sending-opens-the-re-authenticate-flow-instea|On mobile, an expired session while sending opens the re-authenticate flow instead…]]
+- Earlier: 2026-06-17 · Wispr Flow · [[Changes/Wispr Flow/2026-06-17-one-tap-retry-for-failed-transcripts-ios|One-Tap Retry for Failed Transcripts (iOS)]]
+- Later: 2026-06-18 · Raycast · [[Changes/Raycast/2026-06-18-ai-chat-is-now-available-on-windows|AI Chat is now available on Windows]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7aafe7345c606a34752345a89be4d5e28af5a6f11d7ca8bb115d1edc83e65e54
+machine_hash: 6f8731503985bd8d1fa670f08c704b0aaf2eadf839188006a85e0d8ae8b59a06
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -63,12 +63,10 @@ record:
   title: 10 Developer Workflow changes in rust-v0.166.0
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-10-27-2-developer-workflow-changes-in-v2026-10-8|2 Developer
-  Workflow changes in v2026.10.8]]'
-- '[[Changes/OpenCode/2026-10-27-13-developer-workflow-changes-in-v2-2-0|13 Developer
-  Workflow changes in v2.2.0]]'
-- '[[Changes/OpenHands/2026-10-27-chore-bump-shell-quote-and-dompurify-dependencies-by-devinvinson-in-https-github|chore:
-  bump shell-quote and DOMPurify dependencies]]'
+- '[[Changes/Devin/2026-10-28-azure-devops-and-bitbucket|Azure DevOps and Bitbucket]]'
+- '[[Changes/Devin/2026-10-28-pull-request-tabs|Pull Request Tabs]]'
+- '[[Changes/Raycast/2026-10-28-system-actions-added-an-auto-dark-mode-command-that-switches-windows-between-lig|System
+  Actions : Added an Auto Dark Mode command that switches Windows between light…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-10-29-rust-v0-166-0-github-428320524-44f8c24a|codex-cli-2026-10-29-rust-v0-166-0-github-428320524-44f8c24a]]'
 source_type: github_releases
 theme: developer-workflow
@@ -132,7 +130,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.166.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-10-27 · OpenHands · [[Changes/OpenHands/2026-10-27-chore-bump-shell-quote-and-dompurify-dependencies-by-devinvinson-in-https-github|chore: bump shell-quote and DOMPurify dependencies]]
+- Earlier: 2026-10-28 · Raycast · [[Changes/Raycast/2026-10-28-system-actions-added-an-auto-dark-mode-command-that-switches-windows-between-lig|System Actions : Added an Auto Dark Mode command that switches Windows between light…]]
 - Later: 2026-10-29 · Open WebUI · [[Changes/Open WebUI/2026-10-29-35-developer-workflow-changes-in-v0-12-5|35 Developer Workflow changes in v0.12.5]]
 <!-- chronolog:end -->
 

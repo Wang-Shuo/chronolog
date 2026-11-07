@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: fcfb958f198d8e631eb2e6bc1dfe22807348c44ae4e055fa2f8a1a6069237cf5
+machine_hash: efceb62f506f3f5ca7fa12d32e42937088f4bc02ee5ecc154d25bcca8c3ac98a
 product: midjourney
 product_name: Midjourney
 record:
@@ -60,10 +60,9 @@ record:
   title: How to Use Omni-Reference
   type: change
 related_changes:
-- '[[Changes/Gamma/2025-04-22-just-right-click-from-the-filmstrip-or-tap-the-menu-on-a-card-and-choose-copy-to|Just
-  right-click from the filmstrip or tap the ... menu on a card and choose…]]'
-- '[[Changes/Dify/2025-04-23-2-interface-experience-changes-in-1-3-0|2 Interface Experience
-  changes in 1.3.0]]'
+- '[[Changes/Recraft/2025-04-23-precision-matters-when-editing-specific-parts-of-an-image-with-recraft-s-updated|Updated
+  selection panel]]'
+- '[[Changes/LM Studio/2025-04-24-slimmer-app-sidebar|Slimmer app sidebar]]'
 - '[[Changes/Cline/2025-04-25-add-tooltips-to-bottom-row-menu|Add tooltips to bottom
   row menu]]'
 source_release: '[[Releases/Midjourney/midjourney-2025-05-01-https-updates-midjourney-com-omni-reference-oref-eb82cb4b|midjourney-2025-05-01-https-updates-midjourney-com-omni-reference-oref-eb82cb4b]]'

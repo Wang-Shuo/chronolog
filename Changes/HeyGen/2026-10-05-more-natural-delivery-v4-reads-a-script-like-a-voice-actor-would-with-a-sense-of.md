@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 37999ded07b4e60f7e6c4af5e990012ea8a0030c87c948fbd9abd98611205a5d
+machine_hash: 0e9a45bda152f9395d3f82ee4fb39f7343558e6f49ad76e3c0852213d9a947e8
 product: heygen
 product_name: HeyGen
 record:
@@ -44,8 +44,8 @@ record:
   title: More natural delivery
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-10-01-add-live-voice-conversations-to-your-app-with-gpt-live|Add
-  live voice conversations to your app with GPT Live]]'
+- '[[Changes/Superwhisper/2026-10-02-2-voice-and-audio-changes-in-superwhisper-macos-2-19-0|2
+  Voice and Audio changes in Superwhisper macOS 2.19.0]]'
 - '[[Changes/ElevenLabs/2026-10-05-packages|Packages]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-05-voice-runtime-install-errors-name-why-the-download-from-nuget-org-failed-not-onl|Voice
   runtime install errors name why the download from nuget.org failed, not only…]]'
@@ -79,7 +79,7 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2026-10-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-05-voice-runtime-install-errors-name-why-the-download-from-nuget-org-failed-not-onl|Voice runtime install errors name why the download from nuget.org failed, not only…]]
-- Later: 2026-10-06 · ChatGPT · [[Changes/ChatGPT/2026-10-06-upload-audio-files-to-chatgpt-to-create-transcripts-summarize-recordings-and-ask|Audio uploads in ChatGPT]]
+- Later: 2026-10-05 · Raycast · [[Changes/Raycast/2026-10-05-2-voice-and-audio-changes-in-raycast-windows-2-6|2 Voice and Audio changes in Raycast windows 2.6]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

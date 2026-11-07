@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d31b7d81f60a8f5f55f391ab7497dff37dc01e5eda6caa700e3f2a0822ba0f0d
+machine_hash: d0deb51977b490b8363b777056bf3354fa6eafd3319456769f8a0f3ddf35c9ea
 product: dify
 product_name: Dify
 record:
@@ -77,10 +77,10 @@ record:
   title: 16 Context Window changes in 1.16.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-16-2-context-window-changes-in-v1-0-71|2 Context
-  Window changes in v1.0.71]]'
-- '[[Changes/Kimi Code/2026-07-16-2-context-window-changes-in-kimi-code-0-26-0-2026-07-16-say-hi|2
-  Context Window changes in Kimi Code 0.26.0 (2026-07-16) Say hi…]]'
+- '[[Changes/Raycast/2026-07-16-file-search-improved-index-compaction-checkpoints-to-reduce-index-size-on-disk|File
+  Search: Improved index compaction checkpoints to reduce index size on disk]]'
+- '[[Changes/Raycast/2026-07-16-file-search-improved-index-compaction-checkpoints-to-reduce-index-size-on-disk-9d6f1f|File
+  Search: Improved index compaction checkpoints to reduce index size on disk]]'
 - '[[Changes/Cursor/2026-07-17-cross-channel-workflows|Cross-channel workflows]]'
 source_release: '[[Releases/Dify/dify-2026-07-17-1-16-0-github-355594285-636849e9|dify-2026-07-17-1-16-0-github-355594285-636849e9]]'
 source_type: github_releases

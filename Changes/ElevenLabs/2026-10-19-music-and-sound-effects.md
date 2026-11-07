@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 195971d2da0bd7ef25879ab79d6e1b0d5d1e3466446f5a884b55953abdaf1b1c
+machine_hash: ad9114c5ad2cf7674b89b7e20b20bcc4b2fc0f90168a19b8910b0c485f1125a7
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -53,12 +53,12 @@ record:
   title: Music and Sound Effects
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-10-16-2-enterprise-and-administration-changes-in-v0-12-3|2
-  Enterprise and Administration changes in v0.12.3]]'
 - '[[Changes/Replit/2026-10-16-bring-your-own-cloud-to-replit|Bring Your Own Cloud
   to Replit]]'
 - '[[Changes/Lovable/2026-10-18-request-edit-access-to-a-project-you-can-only-view|Request
   edit access to a project you can only view]]'
+- '[[Changes/Devin/2026-10-19-attachment-classification-by-sensitivity-label|Attachment
+  Classification by Sensitivity Label]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-10-19-2026-10-19-dd219c14|elevenlabs-2026-10-19-2026-10-19-dd219c14]]'
 source_type: elevenlabs_changelog
 theme: enterprise-admin
@@ -101,7 +101,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-10-18 · Lovable · [[Changes/Lovable/2026-10-18-request-edit-access-to-a-project-you-can-only-view|Request edit access to a project you can only view]]
+- Earlier: 2026-10-19 · Devin · [[Changes/Devin/2026-10-19-attachment-classification-by-sensitivity-label|Attachment Classification by Sensitivity Label]]
 - Later: 2026-10-19 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-19-2-enterprise-and-administration-changes-in-v1-0-100|2 Enterprise and Administration changes in v1.0.100]]
 <!-- chronolog:end -->
 

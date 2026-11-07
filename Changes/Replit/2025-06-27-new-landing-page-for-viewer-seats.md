@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 4a64534b8d247628bc0c9072ea76ccbb21c80e06f0316d65bc5d53f7af8dc7d8
+machine_hash: 4aaed2b63dc170832b9f9d690dae7eb7a5cbefcbb66afb35bc37c98dc993c38b
 product: replit
 product_name: Replit
 record:
@@ -48,12 +48,11 @@ record:
   title: New landing page for viewer seats
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-06-20-2-apps-and-integrations-changes-in-0-45-0|2 Apps
-  and Integrations changes in 0.45.0]]'
-- '[[Changes/ChatGPT/2025-06-24-pro-users-are-now-able-to-use-chat-search-connectors-in-addition-to-deep-researc-9d5a85|Chat
-  search connectors (Pro)]]'
 - '[[Changes/Dify/2025-06-25-11-apps-and-integrations-changes-in-1-5-0|11 Apps and
   Integrations changes in 1.5.0]]'
+- '[[Changes/LM Studio/2025-06-25-lm-studio-is-now-an-mcp-host-you-can-connect-your-favorite-mcp-servers-to-the-ap|LM
+  Studio is now an MCP host! You can connect your favorite MCP servers…]]'
+- '[[Changes/LM Studio/2025-06-25-enable-mcp-by-default|Enable MCP by default]]'
 source_release: '[[Releases/Replit/replit-2025-06-27-2025-06-27-b39448c0|replit-2025-06-27-2025-06-27-b39448c0]]'
 source_type: replit_changelog
 theme: apps-integrations
@@ -87,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-06-25 · Dify · [[Changes/Dify/2025-06-25-11-apps-and-integrations-changes-in-1-5-0|11 Apps and Integrations changes in 1.5.0]]
+- Earlier: 2025-06-25 · LM Studio · [[Changes/LM Studio/2025-06-25-enable-mcp-by-default|Enable MCP by default]]
 - Later: 2025-06-30 · ElevenLabs · [[Changes/ElevenLabs/2025-06-30-sdks|SDKs]]
 <!-- chronolog:end -->
 

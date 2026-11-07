@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 31279710a7ffcebd8c687adf777f7ac08e2c3d63090c3deedf17bf2b10bcfd95
+machine_hash: 96448c8950b3a71bcf213cca5320d5db7c00134123806c82cc42d975ae60b4f1
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,10 +45,9 @@ record:
     closes
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-08-2-safety-and-privacy-changes-in-v2-1-169|2 Safety
-  and Privacy changes in v2.1.169]]'
 - '[[Changes/Codex CLI/2026-06-08-6-safety-and-privacy-changes-in-rust-v0-138-0|6
   Safety and Privacy changes in rust-v0.138.0]]'
+- '[[Changes/LM Studio/2026-06-08-security-hardening|Security hardening]]'
 - '[[Changes/Codex CLI/2026-06-09-5-safety-and-privacy-changes-in-rust-v0-139-0|5
   Safety and Privacy changes in rust-v0.139.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-06-09-v1-0-61-github-336905979-4d0a69f2|github-copilot-cli-2026-06-09-v1-0-61-github-336905979-4d0a69f2]]'

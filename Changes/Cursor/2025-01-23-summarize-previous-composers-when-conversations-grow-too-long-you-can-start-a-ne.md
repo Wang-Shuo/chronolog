@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: d0621bfecdb659479208c0b9d4578196aeb33346137e25994a81c1ee44e83690
+machine_hash: 07cbdc92845306d71b0408a4d8da0dcd1b9d777bab6d93337ad80b65439a5433
 product: cursor
 product_name: Cursor
 record:
@@ -48,8 +48,7 @@ record:
   title: Summarize Previous Composers
   type: change
 related_changes:
-- '[[Changes/Aider/2025-01-10-increased-max-chat-history-tokens-limit-from-4k-to-8k|Increased
-  max chat history tokens limit from 4k to 8k]]'
+- '[[Changes/Raycast/2025-01-16-raycast-focus|Raycast Focus]]'
 - '[[Changes/Gamma/2025-01-22-we-ve-raised-the-limits-for-card-generation-on-our-plus-and-pro-plans-to-give-yo|Generate
   up to 50 cards!]]'
 - '[[Changes/Cursor/2025-01-23-fusion-model-we-ve-trained-a-new-tab-model-that-is-substantially-better-at-jumps|Fusion

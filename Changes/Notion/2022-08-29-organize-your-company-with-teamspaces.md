@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 1b033cd377db1af0d02f1d1c06f055c17d61a1bcb5a920a20ea1b242b807277f
+machine_hash: e3001bf71a6d9159b8a97b611d2a0f90ec15c1b6d987230a0648d12b7ed3af0e
 product: notion
 product_name: Notion
 record:
@@ -71,9 +71,10 @@ record:
   title: Organize your company with teamspaces
   type: change
 related_changes:
-- '[[Changes/Notion/2022-03-15-streamlined-new-design|Streamlined new design]]'
 - '[[Changes/Notion/2022-08-11-1-page-limit-for-database-relations|1-page limit for
   database relations]]'
+- '[[Changes/Raycast/2022-08-18-2-collaboration-changes-in-raycast-macos-v1-1-39-0|2
+  Collaboration changes in Raycast macos-v1 1.39.0]]'
 - '[[Changes/Notion/2022-08-29-see-when-pages-were-last-updated|See when pages were
   last updated]]'
 source_release: '[[Releases/Notion/notion-2022-08-29-https-www-notion-com-releases-2022-08-29-2326b51c|notion-2022-08-29-https-www-notion-com-releases-2022-08-29-2326b51c]]'
@@ -118,7 +119,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2022-08-11 · Notion · [[Changes/Notion/2022-08-11-1-page-limit-for-database-relations|1-page limit for database relations]]
+- Earlier: 2022-08-18 · Raycast · [[Changes/Raycast/2022-08-18-2-collaboration-changes-in-raycast-macos-v1-1-39-0|2 Collaboration changes in Raycast macos-v1 1.39.0]]
 - Later: 2022-09-13 · Notion · [[Changes/Notion/2022-09-13-choose-a-type-when-creating-a-database-property|Choose a type when creating a database property]]
 <!-- chronolog:end -->
 

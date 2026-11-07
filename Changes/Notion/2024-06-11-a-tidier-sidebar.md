@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 84ff8f99af259c1ef9049af632546ed00a8d19be2ddbf5ad181afa5be6bb613c
+machine_hash: 884e593a8eef0e92aa5791e02894c729cd50c21cad5e07dbc76886268f88e091
 product: notion
 product_name: Notion
 record:
@@ -48,10 +48,10 @@ record:
   title: A tidier sidebar
   type: change
 related_changes:
-- '[[Changes/Descript/2024-06-04-the-new-and-improved-sidebar|The new and improved
-  sidebar]]'
-- '[[Changes/Descript/2024-06-04-create-clips-and-highlight-reels|Create Clips and
-  Highlight reels]]'
+- '[[Changes/Superwhisper/2024-06-06-use-system-preferred-language-in-onboarding|Use
+  system preferred language in onboarding]]'
+- '[[Changes/Superwhisper/2024-06-06-simplify-onboarding-steps|Simplify onboarding
+  steps]]'
 - '[[Changes/Open WebUI/2024-06-10-various-ui-styling-issues-fixed-numerous-user-interface-styling-problems-for-a-m|✨
   Various UI Styling Issues]]'
 source_release: '[[Releases/Notion/notion-2024-06-11-https-www-notion-com-releases-2024-06-11-cf9f7bb3|notion-2024-06-11-https-www-notion-com-releases-2024-06-11-cf9f7bb3]]'

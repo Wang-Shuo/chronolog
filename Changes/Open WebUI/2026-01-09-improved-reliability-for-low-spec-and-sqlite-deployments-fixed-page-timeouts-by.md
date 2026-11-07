@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1b00cc63b50590d13d61af41110196cd5908cac5766a9074a8b5c3a74b7ba382
+machine_hash: 22a53a476e486ebc56ad553eab8eeb571c22b3f00e517892df4fc4433b787db3
 product: open-webui
 product_name: Open WebUI
 record:
@@ -57,8 +57,8 @@ record:
     timeouts…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-01-09-codex-cli-subprocesses-again-inherit-env-vars-like-ld-library-path-dyld-library|Codex
-  CLI subprocesses again inherit env vars like…]]'
+- '[[Changes/Devin/2026-01-09-various-bug-fixes-and-performance-improvements-across-the-platform|Various
+  bug fixes and performance improvements across the platform]]'
 - '[[Changes/Midjourney/2026-01-09-niji-v7-features-improved-anime-coherence-prompt-understanding-text-rendering-an|Niji
   V7 features improved anime coherence, prompt understanding, text rendering…]]'
 - '[[Changes/Open WebUI/2026-01-09-9-reliability-and-performance-changes-in-v0-7-0|9

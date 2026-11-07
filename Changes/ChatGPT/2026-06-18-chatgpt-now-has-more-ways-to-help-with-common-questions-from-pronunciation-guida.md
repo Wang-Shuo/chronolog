@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b79adf0ef1b78d0844d8e739c460759c82881f54641116bb5a181cbfa575b32a
+machine_hash: 2c68a14451fa4152bf6c0b846a1c6ed5bb98ba7db1da4b5fe02ea34017f9fd0a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -58,8 +58,8 @@ record:
     guidance…
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-06-17-desktop-the-new-desktop-file-and-folder-picker-is-faster-and-easier-to-navigate|Desktop
-  The new desktop file and folder picker is faster and easier to navigate…]]'
+- '[[Changes/Wispr Flow/2026-06-17-one-tap-retry-for-failed-transcripts-ios|One-Tap
+  Retry for Failed Transcripts (iOS)]]'
 - '[[Changes/ChatGPT/2026-06-18-updated-composer-and-tools-menu-the-composer-in-android-now-has-inline-mentions|Updated
   composer and tools menu]]'
 - '[[Changes/ChatGPT/2026-06-18-improved-camera-and-photo-uploads-taking-and-uploading-photos-in-chatgpt-on-ios|Improved
@@ -100,8 +100,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-06-17 · OpenCode · [[Changes/OpenCode/2026-06-17-desktop-the-new-desktop-file-and-folder-picker-is-faster-and-easier-to-navigate|Desktop The new desktop file and folder picker is faster and easier to navigate…]]
-- Later: 2026-06-19 · v0 · [[Changes/v0/2026-06-19-on-mobile-an-expired-session-while-sending-opens-the-re-authenticate-flow-instea|On mobile, an expired session while sending opens the re-authenticate flow instead…]]
+- Earlier: 2026-06-17 · Wispr Flow · [[Changes/Wispr Flow/2026-06-17-one-tap-retry-for-failed-transcripts-ios|One-Tap Retry for Failed Transcripts (iOS)]]
+- Later: 2026-06-18 · Raycast · [[Changes/Raycast/2026-06-18-ai-chat-is-now-available-on-windows|AI Chat is now available on Windows]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

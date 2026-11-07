@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8bb86f48df92c229384786a952c24f650acbcfe7aa72394fc01fbd392f6afd85
+machine_hash: 068d8240a4288daddc930f8ebbe06e3e9d2d7b7d1915605a677a28241f387d42
 product: opencode
 product_name: OpenCode
 record:
@@ -86,7 +86,7 @@ Source: https://opencode.ai/changelog/v1.14.20
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-04-21 · Open WebUI · [[Changes/Open WebUI/2026-04-21-4-apps-and-integrations-changes-in-v0-9-0|4 Apps and Integrations changes in v0.9.0]]
-- Later: 2026-04-22 · Claude Code · [[Changes/Claude Code/2026-04-22-4-apps-and-integrations-changes-in-v2-1-117|4 Apps and Integrations changes in v2.1.117]]
+- Later: 2026-04-22 · AnythingLLM · [[Changes/AnythingLLM/2026-04-22-3-apps-and-integrations-changes-in-v1-12-1|3 Apps and Integrations changes in v1.12.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 85d4e90d01b51ec768e619ed1532bc580e5e74a5ecc932e49334d2e9bb504f56
+machine_hash: 4cff0d2514b2581f6118abdf3a357784e36d2e1cbfc9ee680ae35db9b477698f
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -42,12 +42,11 @@ record:
   title: 2 Developer Workflow changes in v1.0.44
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-05-07-2-developer-workflow-changes-in-v1-14-40|2 Developer
-  Workflow changes in v1.14.40]]'
 - '[[Changes/Claude Code/2026-05-08-2-developer-workflow-changes-in-v2-1-136|2 Developer
   Workflow changes in v2.1.136]]'
 - '[[Changes/Codex CLI/2026-05-08-added-configurable-opentelemetry-trace-metadata-and-richer-review-feedback-analy|Added
   configurable OpenTelemetry trace metadata and richer review/feedback analytics…]]'
+- '[[Changes/Devin/2026-05-08-close-prs-on-session-archive|Close PRs on Session Archive]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-05-08-v1-0-44-github-319701730-20ae02a8|github-copilot-cli-2026-05-08-v1-0-44-github-319701730-20ae02a8]]'
 source_type: github_releases
 theme: developer-workflow
@@ -85,8 +84,8 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.44
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-05-08 · Codex CLI · [[Changes/Codex CLI/2026-05-08-added-configurable-opentelemetry-trace-metadata-and-richer-review-feedback-analy|Added configurable OpenTelemetry trace metadata and richer review/feedback analytics…]]
-- Later: 2026-05-09 · Open WebUI · [[Changes/Open WebUI/2026-05-09-22-developer-workflow-changes-in-v0-9-3|22 Developer Workflow changes in v0.9.3]]
+- Earlier: 2026-05-08 · Devin · [[Changes/Devin/2026-05-08-close-prs-on-session-archive|Close PRs on Session Archive]]
+- Later: 2026-05-08 · Raycast · [[Changes/Raycast/2026-05-08-ai-commands-improved-summarize-webpage-command-giving-responses-that-were-too-sh|AI Commands : Improved summarize webpage command giving responses that were too short]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

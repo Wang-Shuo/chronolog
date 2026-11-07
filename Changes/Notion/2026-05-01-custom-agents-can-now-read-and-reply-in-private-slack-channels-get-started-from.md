@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f0c8adc658130db21a6779c156387e4112d3deae87b6861ce89f88bb56afecf1
+machine_hash: 9fd35924fb44f8d9b660c956e8b266f3f994d8e0042afa8ce9a7e7980e0cf225
 product: notion
 product_name: Notion
 record:
@@ -56,10 +56,8 @@ record:
   title: Add Custom Agents to private Slack channels
   type: change
 related_changes:
-- '[[Changes/Dify/2026-04-29-48-apps-and-integrations-changes-in-1-14-0|48 Apps and
-  Integrations changes in 1.14.0]]'
-- '[[Changes/Codex CLI/2026-04-30-37-apps-and-integrations-changes-in-rust-v0-128-0|37
-  Apps and Integrations changes in rust-v0.128.0]]'
+- '[[Changes/Devin/2026-05-01-session-origin-in-api|Session Origin in API]]'
+- '[[Changes/Devin/2026-05-01-jira-project-mapping-redesign|Jira Project Mapping Redesign]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-01-6-apps-and-integrations-changes-in-v1-0-40|6
   Apps and Integrations changes in v1.0.40]]'
 source_release: '[[Releases/Notion/notion-2026-05-01-https-www-notion-com-releases-2026-05-01-d0e54917|notion-2026-05-01-https-www-notion-com-releases-2026-05-01-d0e54917]]'

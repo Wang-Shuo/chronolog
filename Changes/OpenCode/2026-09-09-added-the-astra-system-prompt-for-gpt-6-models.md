@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 952b3920a74fa8f707315db1caad0ac6826195d0a9eef24c89baa79210b630e6
+machine_hash: 6abe0a719330bc5b3f7a1adaf53212f47d059bc794ac07f5b92b539463297765
 product: opencode
 product_name: OpenCode
 record:
@@ -42,12 +42,11 @@ record:
   title: Added the Astra system prompt for GPT-6 models
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-09-gpt-6-astra-is-now-available-in-the-model-picker-and-amazon-bedrock-catalogs-428|GPT-6-Astra
-  is now available in the model picker and Amazon Bedrock catalogs]]'
-- '[[Changes/Google Antigravity/2026-09-09-2-model-support-changes-in-hub-v2-13-0-introducing-new-documents|2
-  Model Support changes in HUB v2.13.0 — Introducing new Documents…]]'
 - '[[Changes/Kimi Code/2026-09-09-2-model-support-changes-in-kimi-code-0-42-0|2 Model
   Support changes in Kimi Code 0.42.0]]'
+- '[[Changes/Krea/2026-09-09-kling-1-0-through-2-1-retired|Kling 1.0 through 2.1 retired]]'
+- '[[Changes/LM Studio/2026-09-09-lm-studio-engine-protocol-added-advanced-llama-cpp-argument-overrides-for-gguf-m|LM
+  Studio Engine Protocol Added advanced llama.cpp argument overrides for GGUF…]]'
 source_release: '[[Releases/OpenCode/opencode-2026-09-09-v1-18-30-1b9960bc|opencode-2026-09-09-v1-18-30-1b9960bc]]'
 source_type: opencode_changelog
 theme: model-support
@@ -77,7 +76,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-09-09 · Kimi Code · [[Changes/Kimi Code/2026-09-09-2-model-support-changes-in-kimi-code-0-42-0|2 Model Support changes in Kimi Code 0.42.0]]
+- Earlier: 2026-09-09 · LM Studio · [[Changes/LM Studio/2026-09-09-lm-studio-engine-protocol-added-advanced-llama-cpp-argument-overrides-for-gguf-m|LM Studio Engine Protocol Added advanced llama.cpp argument overrides for GGUF…]]
 - Later: 2026-09-09 · OpenHands · [[Changes/OpenHands/2026-09-09-feat-enable-llm-provider-connections-on-cloud-by-juanmichelini-in-https-github-c|feat: enable LLM provider connections on cloud]]
 <!-- chronolog:end -->
 

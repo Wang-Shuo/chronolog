@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 019990ed7df335c7f2662215b910638f915e2f0b7f079e14088784d87b11b33d
+machine_hash: ef7cd7df076e03a313525fa2ddd84341a3432112acde798545965939f0ff4381
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -63,12 +63,12 @@ record:
   title: 7 Apps and Integrations changes in v1.0.83
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-03-18-apps-and-integrations-changes-in-rust-v0-153-0|18
-  Apps and Integrations changes in rust-v0.153.0]]'
-- '[[Changes/OpenClaw/2026-09-03-26-apps-and-integrations-changes-in-v2026-9-1|26
-  Apps and Integrations changes in v2026.9.1]]'
 - '[[Changes/Claude Code/2026-09-04-vscode-added-an-add-server-form-and-a-remove-action-to-the-mcp-servers-dialog-so|VSCode
   Added an Add server form and a Remove action to the MCP servers dialog…]]'
+- '[[Changes/Devin/2026-09-04-google-workspace-mcp-setup-guidance|Google Workspace
+  MCP Setup Guidance]]'
+- '[[Changes/Devin/2026-09-04-aws-and-braintrust-mcp-servers-in-the-marketplace|AWS
+  and Braintrust MCP Servers in the Marketplace]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-09-04-v1-0-83-github-382838246-6f996d9c|github-copilot-cli-2026-09-04-v1-0-83-github-382838246-6f996d9c]]'
 source_type: github_releases
 theme: apps-integrations
@@ -121,7 +121,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.83
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-09-04 · Claude Code · [[Changes/Claude Code/2026-09-04-vscode-added-an-add-server-form-and-a-remove-action-to-the-mcp-servers-dialog-so|VSCode Added an Add server form and a Remove action to the MCP servers dialog…]]
+- Earlier: 2026-09-04 · Devin · [[Changes/Devin/2026-09-04-aws-and-braintrust-mcp-servers-in-the-marketplace|AWS and Braintrust MCP Servers in the Marketplace]]
 - Later: 2026-09-05 · OpenClaw · [[Changes/OpenClaw/2026-09-05-35-apps-and-integrations-changes-in-v2026-9-2|35 Apps and Integrations changes in v2026.9.2]]
 <!-- chronolog:end -->
 

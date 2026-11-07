@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 98b2b022853fd2b51a6a1f398b6522d41ad17318b0fa2d689ff9b4569c21c864
+machine_hash: 288a20d04a0d4deb3d9356942ee921ff88fb81b8943ddd764f66ff74101c617d
 product: cline
 product_name: Cline
 record:
@@ -42,10 +42,10 @@ record:
   title: 'refactor: append stealth models on readOpenRouterModels & refreshOpenRouterModels'
   type: change
 related_changes:
-- '[[Changes/Descript/2025-09-24-new-media-generation-model-selection-in-settings|New
-  media generation model selection in Settings]]'
 - '[[Changes/Gemini CLI/2025-09-24-6-model-support-changes-in-v0-6-0|6 Model Support
   changes in v0.6.0]]'
+- '[[Changes/LM Studio/2025-09-24-4-model-support-changes-in-lm-studio-0-3-27|4 Model
+  Support changes in LM Studio 0.3.27]]'
 - '[[Changes/Ollama/2025-09-24-models-with-qwen3-s-architecture-including-moe-now-run-in-ollama-s-new-engine|Models
   with Qwen3''s architecture including MoE now run in Ollama''s new engine]]'
 source_release: '[[Releases/Cline/cline-2025-09-25-v3-31-0-github-249851716-699f2598|cline-2025-09-25-v3-31-0-github-249851716-699f2598]]'

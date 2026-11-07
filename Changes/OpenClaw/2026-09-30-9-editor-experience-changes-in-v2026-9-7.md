@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 37ba8cb3fd8dc7eb481fc70b3ef61eab3035d9e23ad1d5b2d906926ed0057a3e
+machine_hash: a276b5f7f89a885ea868f7c34d0b48b6eb20915963b6ad7b0e0e974d273d1079
 product: openclaw
 product_name: OpenClaw
 record:
@@ -84,12 +84,12 @@ record:
   title: 9 Editor Experience changes in v2026.9.7
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-29-2-editor-experience-changes-in-v2-1-285|2 Editor
-  Experience changes in v2.1.285]]'
-- '[[Changes/Codex CLI/2026-09-29-3-editor-experience-changes-in-rust-v0-159-0|3 Editor
-  Experience changes in rust-v0.159.0]]'
 - '[[Changes/Claude Code/2026-09-30-improved-the-external-editor-ctrl-g-editors-that-take-a-line-number-now-open-on|Improved
   the external editor (Ctrl+G)]]'
+- '[[Changes/Devin/2026-09-30-messages-are-no-longer-lost-when-the-connection-drops|Messages
+  Are No Longer Lost When the Connection Drops]]'
+- '[[Changes/Devin/2026-09-30-devin-mono-for-code-and-terminals|Devin Mono for Code
+  and Terminals]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-09-30-v2026-9-7-3d25d2bd|openclaw-2026-09-30-v2026-9-7-3d25d2bd]]'
 source_type: openclaw_changelog
 theme: editor-experience
@@ -156,8 +156,8 @@ Source: https://docs.openclaw.ai/releases/2026.9.7
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-09-30 · Claude Code · [[Changes/Claude Code/2026-09-30-improved-the-external-editor-ctrl-g-editors-that-take-a-line-number-now-open-on|Improved the external editor (Ctrl+G)]]
-- Later: 2026-10-01 · Claude Code · [[Changes/Claude Code/2026-10-01-vscode-changed-the-claude-in-chrome-enabled-by-default-switch-to-also-connect-th|VSCode Changed the Claude in Chrome "Enabled by default" switch to also connect…]]
+- Earlier: 2026-09-30 · Devin · [[Changes/Devin/2026-09-30-devin-mono-for-code-and-terminals|Devin Mono for Code and Terminals]]
+- Later: 2026-10-01 · AnythingLLM · [[Changes/AnythingLLM/2026-10-01-autosave-workspace-settings-on-edit-by-shatfield4-in-https-github-com-mintplex-l|Autosave workspace settings on edit]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

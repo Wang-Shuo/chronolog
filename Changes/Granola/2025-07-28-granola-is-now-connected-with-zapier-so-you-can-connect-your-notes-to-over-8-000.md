@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ac877f16cc184fe3fae4627591e19c14b521d479862cb33ea598ca93b89f613b
+machine_hash: 997cde1f869087414fb2dbb4f5f84701578a334b8a885076e3c4954c0d18cbed
 product: granola
 product_name: Granola
 record:

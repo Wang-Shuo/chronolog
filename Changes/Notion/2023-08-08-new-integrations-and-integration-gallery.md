@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 30a993f8028f950f807060e0b27520f989c9a2e9924bd0efc5ba14af01be9849
+machine_hash: fa2d1dccd4a03e9c8e79b07f4b4b175eef189b5ced86891e50f265cfa627b5cf
 product: notion
 product_name: Notion
 record:
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2023-07-28 · Cursor · [[Changes/Cursor/2023-07-28-more-robust-extension-handling-you-can-now-use-pre-release-extensions-again|More robust extension handling]]
-- Later: 2023-08-10 · Ollama · [[Changes/Ollama/2023-08-10-ollama-langchain-integration-https-python-langchain-com-docs-integrations-llms-o|Ollama 🦜️🔗 LangChain…]]
+- Later: 2023-08-09 · Raycast · [[Changes/Raycast/2023-08-09-root-search-improved-app-running-indicator-to-properly-differentiate-between-app|Root Search : Improved app running indicator to properly differentiate between apps…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

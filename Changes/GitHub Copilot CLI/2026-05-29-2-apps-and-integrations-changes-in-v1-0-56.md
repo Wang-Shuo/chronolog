@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e2e2fc33b694aaf823dba196f53bbc308e702a81ae93de4087bfd11b1fc20efc
+machine_hash: bca7b30fc098d946e956a22599933687fcccabf039b2ff5f75690f3374534fb5
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -46,10 +46,8 @@ record:
   title: 2 Apps and Integrations changes in v1.0.56
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-05-28-acp-integrations-can-now-send-prompts-slash-commands-and-usage-updates-through-a|ACP
-  integrations can now send prompts, slash commands, and usage updates through acp-next]]'
-- '[[Changes/Claude Code/2026-05-29-4-apps-and-integrations-changes-in-v2-1-157|4
-  Apps and Integrations changes in v2.1.157]]'
+- '[[Changes/Devin/2026-05-29-raindrop-ai-mcp-in-marketplace|Raindrop.ai MCP in Marketplace]]'
+- '[[Changes/Devin/2026-05-29-new-command-palette|New Command Palette]]'
 - '[[Changes/Gamma/2026-05-29-claude-and-chatgpt-connectors-just-got-smarter|Claude
   and ChatGPT connectors just got smarter]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-05-29-v1-0-56-github-331744068-421e2448|github-copilot-cli-2026-05-29-v1-0-56-github-331744068-421e2448]]'

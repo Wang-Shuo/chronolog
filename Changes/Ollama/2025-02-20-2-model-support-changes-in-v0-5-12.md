@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 78a69b5ead0961a22c3dd8bf39b2d60ce5154b4a1ec47331c3000bcc437c1a8f
+machine_hash: f88537a018f1410c9459fd56628e4a7233b55e7fb4e562e28d05181b3c58abe3
 product: ollama
 product_name: Ollama
 record:
@@ -46,12 +46,12 @@ record:
   title: 2 Model Support changes in v0.5.12
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2025-02-13-gguf-model-upload-stability-fixed-upload-inconsistencies-for-gguf-models-ensurin|\U0001F4C2
-  GGUF Model Upload Stability]]"
-- "[[Changes/Open WebUI/2025-02-14-direct-connections-now-work-for-regular-users-fixed-a-bug-where-users-with-the-u|\U0001F517
-  Direct Connections Now Work for Regular Users]]"
+- '[[Changes/LM Studio/2025-02-18-6-model-support-changes-in-lm-studio-0-3-10|6 Model
+  Support changes in LM Studio 0.3.10]]'
 - '[[Changes/OpenHands/2025-02-19-better-error-when-llm-settings-do-not-exist-by-amanape-in-https-github-com-all-h|Better
   error when LLM settings do not exist]]'
+- '[[Changes/Raycast/2025-02-19-raycast-ai-remembers-your-recently-used-models-and-shows-them-on-the-top-in-the|Raycast
+  AI: Remembers your recently used models and shows them on the top…]]'
 source_release: '[[Releases/Ollama/ollama-2025-02-20-v0-5-12-github-201458894-d35b3e98|ollama-2025-02-20-v0-5-12-github-201458894-d35b3e98]]'
 source_type: github_releases
 theme: model-support
@@ -86,8 +86,8 @@ Source: https://github.com/ollama/ollama/releases/tag/v0.5.12
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-02-19 · OpenHands · [[Changes/OpenHands/2025-02-19-better-error-when-llm-settings-do-not-exist-by-amanape-in-https-github-com-all-h|Better error when LLM settings do not exist]]
-- Later: 2025-02-27 · Ollama · [[Changes/Ollama/2025-02-27-2-model-support-changes-in-v0-5-13|2 Model Support changes in v0.5.13]]
+- Earlier: 2025-02-19 · Raycast · [[Changes/Raycast/2025-02-19-raycast-ai-remembers-your-recently-used-models-and-shows-them-on-the-top-in-the|Raycast AI: Remembers your recently used models and shows them on the top…]]
+- Later: 2025-02-26 · Devin · [[Changes/Devin/2025-02-26-sonnet-3-7-in-devin-we-incorporated-sonnet-3-7-in-devin-on-2-24-with-optimizatio|Sonnet 3.7 in Devin]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

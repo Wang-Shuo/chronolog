@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 67787afd5e56955303233d5ceb8a3b596948573bc5157504a2786bef3b46f9e7
+machine_hash: 0bbfea01abcf5e121d2503e4314c979a7c1f1c969f8182e14e3830f4e6bc8536
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,8 +46,8 @@ record:
   title: 2 Interface Experience changes in v2.1.268
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-09-4-interface-experience-changes-in-rust-v0-154-0|4
-  Interface Experience changes in rust-v0.154.0]]'
+- '[[Changes/Devin/2026-09-09-multi-pr-dropdown-in-the-sidebar|Multi-PR Dropdown in
+  the Sidebar]]'
 - '[[Changes/Google Antigravity/2026-09-09-5-interface-experience-changes-in-hub-v2-13-0-introducing-new-documents|5
   Interface Experience changes in HUB v2.13.0 — Introducing new Documents…]]'
 - '[[Changes/Lovable/2026-09-09-redesigned-chat-actions-menu-in-projects|Redesigned

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 97b8e93422f982d1c9743cd7afd848efd6b7843af1759056f1e7d437a5209bc6
+machine_hash: 8bb080ddb695661c37cd0c0faa23c0072e7a9323caae058b5ecf2125fd482c7a
 product: windsurf
 product_name: Windsurf
 record:
@@ -41,12 +41,12 @@ record:
   title: Made MCP registry parsing more tolerant of old and inconsistent schemas
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-18-17-apps-and-integrations-changes-in-rust-v0-141-0|17
-  Apps and Integrations changes in rust-v0.141.0]]'
-- '[[Changes/Kimi Code/2026-06-18-add-reload-suggestion-in-plugin-change-hints|Add
-  /reload suggestion in plugin-change hints]]'
 - '[[Changes/Lovable/2026-06-18-inspect-your-app-s-ai-activity|Inspect your app''s
   AI activity]]'
+- '[[Changes/Raycast/2026-06-18-mcp-you-can-now-install-mcp-servers-and-use-them-in-quick-ai-and-ai-chat|MCP
+  : You can now install MCP servers and use them in Quick AI and AI Chat]]'
+- '[[Changes/Raycast/2026-06-18-it-s-your-space-for-real-back-and-forth-conversations-with-ai-quick-ai-is-great|It''s
+  your space for real, back-and-forth conversations with AI]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-06-18-v3-2-23-68d9cc8e|windsurf-2026-06-18-v3-2-23-68d9cc8e]]'
 source_type: windsurf_changelog
 theme: apps-integrations
@@ -73,7 +73,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-06-18 · Lovable · [[Changes/Lovable/2026-06-18-inspect-your-app-s-ai-activity|Inspect your app's AI activity]]
+- Earlier: 2026-06-18 · Raycast · [[Changes/Raycast/2026-06-18-it-s-your-space-for-real-back-and-forth-conversations-with-ai-quick-ai-is-great|It's your space for real, back-and-forth conversations with AI]]
 - Later: 2026-06-19 · Claude Code · [[Changes/Claude Code/2026-06-19-added-attribution-sessionurl-setting-to-omit-the-claude-ai-session-link-from-com|Added attribution.sessionUrl setting to omit the claude.ai session link…]]
 <!-- chronolog:end -->
 

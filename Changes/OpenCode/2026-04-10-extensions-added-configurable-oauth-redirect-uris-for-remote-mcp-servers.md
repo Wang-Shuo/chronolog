@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f8f27c9cf4fdbc5a09498a4f9b2a73b486aff710b266e6dee2de8adee29dcb9c
+machine_hash: e2150d37585fd785d87c9f9cd21803fa56e26d4fd96a9d163b9c1e4722273bd8
 product: opencode
 product_name: OpenCode
 record:
@@ -52,12 +52,11 @@ record:
   title: Extensions Added configurable OAuth redirect URIs for remote MCP servers
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-09-added-interactive-google-vertex-ai-setup-wizard-accessible-from-the-login-screen|Added
-  interactive Google Vertex AI setup wizard accessible from the login screen…]]'
-- '[[Changes/GitHub Copilot CLI/2026-04-09-support-bearer-token-authentication-for-byok-anthropic-models|Support
-  bearer token authentication for BYOK Anthropic models]]'
-- '[[Changes/Codex CLI/2026-04-10-2-account-and-access-changes-in-rust-v0-119-0|2
-  Account and Access changes in rust-v0.119.0]]'
+- '[[Changes/Devin/2026-04-10-unlink-github-enterprise-server-oauth|Unlink GitHub
+  Enterprise Server OAuth]]'
+- '[[Changes/Devin/2026-04-10-one-click-mcp-oauth-install|One-Click MCP OAuth Install]]'
+- '[[Changes/Devin/2026-04-10-this-release-also-includes-a-range-of-smaller-fixes-and-polish-across-the-webapp|This
+  release also includes a range of smaller fixes and polish across the webapp…]]'
 source_release: '[[Releases/OpenCode/opencode-2026-04-10-v1-4-3-46044a32|opencode-2026-04-10-v1-4-3-46044a32]]'
 source_type: opencode_changelog
 theme: account-access
@@ -87,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-04-10 · Codex CLI · [[Changes/Codex CLI/2026-04-10-2-account-and-access-changes-in-rust-v0-119-0|2 Account and Access changes in rust-v0.119.0]]
+- Earlier: 2026-04-10 · Devin · [[Changes/Devin/2026-04-10-this-release-also-includes-a-range-of-smaller-fixes-and-polish-across-the-webapp|This release also includes a range of smaller fixes and polish across the webapp…]]
 - Later: 2026-04-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-13-logout-shows-a-warning-when-signed-in-via-gh-cli-pat-api-key-or-environment-vari|/logout shows a warning when signed in via gh CLI, PAT, API key, or environment…]]
 <!-- chronolog:end -->
 

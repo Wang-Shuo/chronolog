@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 83509aecc03a739d39dd4ed06342dcd48de3da60fe4b6e7156a13d95126d5db6
+machine_hash: e9534b1650a722247b0a16e7a8879e6c1173c4529e13a86305df4e019f070c1a
 product: v0
 product_name: v0
 record:
@@ -45,10 +45,10 @@ record:
   title: 2 Apps and Integrations changes in GPT-5.6 Sol, sign-in inside previews…
   type: change
 related_changes:
-- '[[Changes/Qoder/2026-08-28-added-enterprise-policy-controls-for-extensions-and-mcp-servers|Added
-  enterprise policy controls for extensions and MCP servers]]'
 - '[[Changes/Replit/2026-08-28-customize-connectors|Customize connectors]]'
 - '[[Changes/Replit/2026-08-28-integrations|Integrations]]'
+- '[[Changes/Superwhisper/2026-08-28-windows-context-menu-integration-open-with-and-show-more-options-transcribe-with|Windows
+  context menu integration "Open with..." and Show more options…]]'
 source_release: '[[Releases/v0/v0-2026-08-28-2026-08-28-1fac4f32|v0-2026-08-28-2026-08-28-1fac4f32]]'
 source_type: v0_changelog
 theme: apps-integrations
@@ -91,7 +91,7 @@ Source: https://v0.app/changelog#2026-08-28
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-08-28 · Replit · [[Changes/Replit/2026-08-28-integrations|Integrations]]
+- Earlier: 2026-08-28 · Superwhisper · [[Changes/Superwhisper/2026-08-28-windows-context-menu-integration-open-with-and-show-more-options-transcribe-with|Windows context menu integration "Open with..." and Show more options…]]
 - Later: 2026-08-29 · Codex CLI · [[Changes/Codex CLI/2026-08-29-11-apps-and-integrations-changes-in-rust-v0-151-0|11 Apps and Integrations changes in rust-v0.151.0]]
 <!-- chronolog:end -->
 

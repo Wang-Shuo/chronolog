@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 737e9c26bf9d2583e106df66a89755321fe3c36bf796ed737579171d2c7c80c8
+machine_hash: 079bf9a50c9d191704cc41df904c170d31deb3b93527a990bb388dff12d1ccad
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,12 +47,12 @@ record:
   title: 2 Developer Workflow changes in v2.1.238
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-08-18-5-developer-workflow-changes-in-rust-v0-148-0|5
-  Developer Workflow changes in rust-v0.148.0]]'
-- '[[Changes/Z.ai API/2026-08-18-stronger-coding-capabilities-glm-5-3-delivers-a-significant-improvement-in-codin|Stronger
-  Coding Capabilities]]'
 - '[[Changes/Claude Code/2026-08-19-2-developer-workflow-changes-in-v2-1-236|2 Developer
   Workflow changes in v2.1.236]]'
+- '[[Changes/Devin/2026-08-19-git-provider-connection-details|Git Provider Connection
+  Details]]'
+- '[[Changes/Raycast/2026-08-19-quick-ai-send-message-ai-setting-is-now-respected-by-quick-ai-as-well-which-allo|Quick
+  AI : “Send Message” AI setting is now respected by Quick AI as well…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-20-v2-1-238-github-373927029-c96744e2|claude-code-2026-08-20-v2-1-238-github-373927029-c96744e2]]'
 source_type: github_releases
 theme: developer-workflow
@@ -91,7 +91,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.238
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-08-19 · Claude Code · [[Changes/Claude Code/2026-08-19-2-developer-workflow-changes-in-v2-1-236|2 Developer Workflow changes in v2.1.236]]
+- Earlier: 2026-08-19 · Raycast · [[Changes/Raycast/2026-08-19-quick-ai-send-message-ai-setting-is-now-respected-by-quick-ai-as-well-which-allo|Quick AI : “Send Message” AI setting is now respected by Quick AI as well…]]
 - Later: 2026-08-20 · Codex CLI · [[Changes/Codex CLI/2026-08-20-18-developer-workflow-changes-in-rust-v0-149-0|18 Developer Workflow changes in rust-v0.149.0]]
 <!-- chronolog:end -->
 

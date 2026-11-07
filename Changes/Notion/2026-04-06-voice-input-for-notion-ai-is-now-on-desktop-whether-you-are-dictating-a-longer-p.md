@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 66c936609284a35ad8df5e79d1dfa52da30645d7ab83d9c2a5546fbb818bd976
+machine_hash: 6db3bfb0a63061ed1c6f207549770a41183abd90be388636c4a94eee46e5af74
 product: notion
 product_name: Notion
 record:
@@ -56,9 +56,9 @@ record:
   title: Voice input on desktop
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-04-01-voices|Voices]]'
 - '[[Changes/ElevenLabs/2026-04-01-voices-7b77ff|Voices]]'
 - '[[Changes/ElevenLabs/2026-04-01-speech-to-text-8868d1|Speech to Text]]'
+- '[[Changes/AnythingLLM/2026-04-02-voice-messages-attachments|Voice messages & Attachments]]'
 source_release: '[[Releases/Notion/notion-2026-04-06-https-www-notion-com-releases-2026-04-06-1af2cde6|notion-2026-04-06-https-www-notion-com-releases-2026-04-06-1af2cde6]]'
 source_type: notion_changelog
 theme: voice
@@ -85,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-04-01 · ElevenLabs · [[Changes/ElevenLabs/2026-04-01-speech-to-text-8868d1|Speech to Text]]
+- Earlier: 2026-04-02 · AnythingLLM · [[Changes/AnythingLLM/2026-04-02-voice-messages-attachments|Voice messages & Attachments]]
 - Later: 2026-04-07 · ElevenLabs · [[Changes/ElevenLabs/2026-04-07-speech-to-text|Speech to Text]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 55d1ce012d8995a89d829d149bd4370cc71d2a6e7fe5a4586a0249e54adc15e0
+machine_hash: d0d4f2dfbc009a7dba99ae117013db953dfded0c24df04df6bf6f0c9cd08d10c
 product: opencode
 product_name: OpenCode
 record:
@@ -43,8 +43,8 @@ record:
   title: Core Honor shared parallel tool-call and service-tier settings for Groq
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-10-26-ide-mode-now-offers-devin-cloud-whenever-your-account-has-cloud-access-the-same|IDE
-  mode now offers Devin Cloud whenever your account has Cloud access, the same…]]'
+- '[[Changes/Krea/2026-10-27-share-nodes-projects-with-your-organization|Share Nodes
+  projects with your organization]]'
 - '[[Changes/Microsoft 365 Copilot/2026-10-27-use-copilot-chat-after-a-call-in-queues-app-windows-mac-teams|Use
   Copilot Chat after a call in Queues app Windows, Mac (Teams)]]'
 - '[[Changes/OpenClaw/2026-10-27-malformed-microsoft-teams-message-html-no-longer-causes-the-parsing-stalls-that|Malformed

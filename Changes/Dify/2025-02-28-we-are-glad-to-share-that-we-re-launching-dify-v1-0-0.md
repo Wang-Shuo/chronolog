@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ec1c8f4b1221d55671dd470be234d8dd54638f4ac22a91bb7bc2861ee2358139
+machine_hash: f1bb795a908e9bdbbc8536b6793b8e9d63cc7f560cc4a0cc9be7038ce3a0388f
 product: dify
 product_name: Dify
 record:
@@ -42,12 +42,11 @@ record:
   title: We are glad to share that we're launching Dify **v1.0.0**
   type: change
 related_changes:
-- '[[Changes/Gamma/2025-01-23-gamma-now-offers-social-formats-in-addition-to-standard-presentations-and-docume|Introducing
-  social content]]'
-- '[[Changes/Descript/2025-02-04-if-you-prefer-to-opt-out-you-can-let-us-know-by-submitting-a-ticket-to-our-suppo|If
-  you prefer to opt out you can let us know by submitting a ticket to our support…]]'
 - "[[Changes/Open WebUI/2025-02-18-download-button-for-svg-diagrams-svg-diagrams-generated-within-chat-can-now-be-d|\U0001F4E5
   Download Button for SVG Diagrams]]"
+- '[[Changes/Recraft/2025-02-26-keeping-visuals-consistent-just-got-easier-introducing-style-sharing-a-simple-wa|Keeping
+  visuals consistent just got easier]]'
+- '[[Changes/Recraft/2025-02-26-here-s-how-it-works|Here’s how it works]]'
 source_release: '[[Releases/Dify/dify-2025-02-28-1-0-0-github-202962689-d5695ce1|dify-2025-02-28-1-0-0-github-202962689-d5695ce1]]'
 source_type: github_releases
 theme: collaboration
@@ -81,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2025-02-18 · Open WebUI · [[Changes/Open WebUI/2025-02-18-download-button-for-svg-diagrams-svg-diagrams-generated-within-chat-can-now-be-d|📥 Download Button for SVG Diagrams]]
+- Earlier: 2025-02-26 · Recraft · [[Changes/Recraft/2025-02-26-here-s-how-it-works|Here’s how it works]]
 - Later: 2025-03-05 · Gamma · [[Changes/Gamma/2025-03-05-add-a-comment-for-feedback-or-collaboration|💬 Add a Comment for feedback or collaboration]]
 <!-- chronolog:end -->
 

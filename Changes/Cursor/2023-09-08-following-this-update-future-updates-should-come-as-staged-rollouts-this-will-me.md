@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 3b8867ba8286dbe0296c2437606338cb5284afee299e57ab98daa82bd6322f13
+machine_hash: 40a0d9839a9d17b36c90e5a55afdab186fa2261507371fb815ee63cd034f6464
 product: cursor
 product_name: Cursor
 record:
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2023-09-07 · Cursor · [[Changes/Cursor/2023-09-07-we-no-longer-store-any-full-files-in-memory-and-prevent-users-from-ing-very-larg-8d6c31|Better State Management]]
-- Later: 2023-09-20 · Cursor · [[Changes/Cursor/2023-09-20-we-ship-a-new-version-of-indexing-which-should-be-significantly-more-stable-than|More Stable Codebase Indexing]]
+- Later: 2023-09-15 · Superwhisper · [[Changes/Superwhisper/2023-09-15-resolve-performance-regression|Resolve performance regression]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

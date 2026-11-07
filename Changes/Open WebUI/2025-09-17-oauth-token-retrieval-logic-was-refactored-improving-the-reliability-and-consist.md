@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f09c79aa0f8e38aadf0353ca84d77ea65b838ecf2f504ad4a56ae7589eaca592
+machine_hash: 17d547d1ea875b3a00acb3e67c4477383f85f3252f25acf439fcc51af98a85ba
 product: open-webui
 product_name: Open WebUI
 record:
@@ -91,7 +91,7 @@ type: change
 ## Nearby in Account and Access
 
 - Earlier: 2025-09-17 · Gemini CLI · [[Changes/Gemini CLI/2025-09-17-refactor-authentication-components-and-hooks-by-scidomino-in-https-github-com-go|Refactor Authentication Components and Hooks]]
-- Later: 2025-09-22 · Dify · [[Changes/Dify/2025-09-22-chore-remove-weird-account-login-by-zalcit-in-https-github-com-langgenius-dify-p|chore: remove weird account login]]
+- Later: 2025-09-19 · Devin · [[Changes/Devin/2025-09-19-removed-login-hint-in-new-user-authentication-flow-due-to-inconsistent-behavior|Removed login\hint in new user authentication flow due to inconsistent behavior…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

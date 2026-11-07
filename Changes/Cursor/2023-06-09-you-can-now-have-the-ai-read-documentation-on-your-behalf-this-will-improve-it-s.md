@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3528b66e04a9266c30cc03d17dea391f58387b07b5527b9871ea22aa295f6b94
+machine_hash: 2753d79bd247ea8d4c32f814b4734a9855a1290dd2641af7e2a30c71f690c135
 product: cursor
 product_name: Cursor
 record:
@@ -47,8 +47,8 @@ record:
   title: Show the AI documentation
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2023-05-24-browse-with-bing-we-ve-integrated-the-browsing-feature-currently-in-beta-for-pai|Bing
-  Plugin]]'
+- '[[Changes/Raycast/2023-05-24-ai-commands-more-reliable-capturing-of-selected-text-in-apps-like-spark|AI
+  Commands: More reliable capturing of selected text in apps like Spark]]'
 - '[[Changes/Dify/2023-05-25-3-apps-and-integrations-changes-in-0-2-2|3 Apps and Integrations
   changes in 0.2.2]]'
 - '[[Changes/Notion/2023-05-31-real-time-github-integration|Real-time GitHub integration]]'

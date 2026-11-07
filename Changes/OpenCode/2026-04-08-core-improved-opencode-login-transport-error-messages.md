@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3f267a6eadb11590ffce224a5df9258d0c15130d9370344990c046509b3c2a0f
+machine_hash: 66dc6b388cf40168e9c01d512650937c996dc9a36bba9362313354ccbb1a0513
 product: opencode
 product_name: OpenCode
 record:
@@ -41,12 +41,12 @@ record:
   title: Core Improved opencode login transport error messages
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-03-mcp-oauth-flows-now-support-https-redirect-uris-via-a-self-signed-certificate-fa|MCP
-  OAuth flows now support HTTPS redirect URIs via a self-signed certificate…]]'
 - '[[Changes/Claude Code/2026-04-04-added-interactive-bedrock-setup-wizard-accessible-from-the-login-screen-when-sel|Added
   interactive Bedrock setup wizard accessible from the login screen…]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-07-enterprise-github-url-input-in-the-login-flow-now-accepts-keyboard-input-and-sub|Enterprise
   GitHub URL input in the login flow now accepts keyboard input and submits…]]'
+- '[[Changes/Devin/2026-04-08-pinned-organizations-sync-across-devices|Pinned Organizations
+  Sync Across Devices]]'
 source_release: '[[Releases/OpenCode/opencode-2026-04-08-v1-4-0-d8caa806|opencode-2026-04-08-v1-4-0-d8caa806]]'
 source_type: opencode_changelog
 theme: account-access
@@ -82,8 +82,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-04-07 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-07-enterprise-github-url-input-in-the-login-flow-now-accepts-keyboard-input-and-sub|Enterprise GitHub URL input in the login flow now accepts keyboard input and submits…]]
-- Later: 2026-04-09 · Claude Code · [[Changes/Claude Code/2026-04-09-added-interactive-google-vertex-ai-setup-wizard-accessible-from-the-login-screen|Added interactive Google Vertex AI setup wizard accessible from the login screen…]]
+- Earlier: 2026-04-08 · Devin · [[Changes/Devin/2026-04-08-pinned-organizations-sync-across-devices|Pinned Organizations Sync Across Devices]]
+- Later: 2026-04-08 · Superwhisper · [[Changes/Superwhisper/2026-04-08-added-enterprise-login-support-for-business-users|Added Enterprise login support for business users]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

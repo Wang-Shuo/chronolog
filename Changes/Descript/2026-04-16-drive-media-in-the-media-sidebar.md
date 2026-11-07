@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 3e395a49a7cfe2463baeb7a33273390d59e84b593de1fe86f52b0a6eaba674e5
+machine_hash: 67212f3e890752fdde9cf04661b77eceda697926e8e8f6c17fd33c478fa2b60f
 product: descript
 product_name: Descript
 record:
@@ -47,10 +47,10 @@ record:
   title: Drive media in the media sidebar
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-15-improved-the-extended-thinking-indicator-with-a-rotating-progress-hint|Improved
-  the extended-thinking indicator with a rotating progress hint]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-15-status-bar-shows-files-and-issues-hints-while-typing-and-help-hint-when-the-slas|Status
   bar shows @files and ♯issues hints while typing, and /help hint…]]'
+- '[[Changes/Raycast/2026-04-15-introducing-hyperkey-it-turns-a-single-key-into-a-powerful-shortcut-modifier-so|Introducing
+  Hyperkey: it turns a single key into a powerful shortcut modifier…]]'
 - '[[Changes/Claude Code/2026-04-16-3-interface-experience-changes-in-v2-1-111|3 Interface
   Experience changes in v2.1.111]]'
 source_release: '[[Releases/Descript/descript-2026-04-16-69e11a9bcbb8c43b6e38c002-bf103ab2|descript-2026-04-16-69e11a9bcbb8c43b6e38c002-bf103ab2]]'

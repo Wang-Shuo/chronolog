@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 610168d298bf79f14714ca10dccf14c91399c97c030658c987c0246d8334bdb4
+machine_hash: 59641a9a7a16fa68b8dea7cbf5707d46ba854d13e0faf6e37c761d5943954f2e
 product: dify
 product_name: Dify
 record:
@@ -55,12 +55,12 @@ record:
   title: 7 Model Support changes in 0.7.1
   type: change
 related_changes:
-- '[[Changes/Dify/2024-08-14-15-model-support-changes-in-0-7-0|15 Model Support changes
-  in 0.7.0]]'
 - '[[Changes/Cline/2024-08-15-adds-support-for-prompt-caching-https-www-anthropic-com-news-prompt-caching-to-r|Adds
   support for Prompt Caching((source link)]]'
 - '[[Changes/Gemini/2024-08-15-gemini-1-5-pro-in-gemini-advanced-just-became-more-capable|Gemini
   1.5 Pro in Gemini Advanced just became more capable]]'
+- '[[Changes/AnythingLLM/2024-08-19-2-model-support-changes-in-v1-2-1|2 Model Support
+  changes in v1.2.1]]'
 source_release: '[[Releases/Dify/dify-2024-08-19-0-7-1-github-170870367-4677435e|dify-2024-08-19-0-7-1-github-170870367-4677435e]]'
 source_type: github_releases
 theme: model-support
@@ -110,7 +110,7 @@ Source: https://github.com/langgenius/dify/releases/tag/0.7.1
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2024-08-15 · Gemini · [[Changes/Gemini/2024-08-15-gemini-1-5-pro-in-gemini-advanced-just-became-more-capable|Gemini 1.5 Pro in Gemini Advanced just became more capable]]
+- Earlier: 2024-08-19 · AnythingLLM · [[Changes/AnythingLLM/2024-08-19-2-model-support-changes-in-v1-2-1|2 Model Support changes in v1.2.1]]
 - Later: 2024-08-20 · Aider · [[Changes/Aider/2024-08-20-prompt-caching-for-anthropic-models-with-cache-prompts|Prompt caching for Anthropic models with --cache-prompts]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: pricing
-machine_hash: a40d9d54493ee614f79eba65950fad6847d8959f032ca995ed24c92a77d5ab46
+machine_hash: 8ef210a7f1cf039b8623e7df2dfd8b487c5dd16cb47d7bb940012eb4ec183c81
 product: aider
 product_name: Aider
 record:
@@ -43,8 +43,8 @@ record:
   title: Enables display of cost info based on OpenAI advertised pricing
   type: change
 related_changes:
-- '[[Changes/Notion/2023-04-27-extended-free-access-for-startups-including-unlimited-ai|Extended
-  free access for startups — including unlimited AI]]'
+- '[[Changes/Raycast/2023-05-10-today-we-re-introducing-raycast-pro-a-paid-plan-that-unlocks-a-new-level-of-prod|Raycast
+  introduces Raycast Pro , a paid plan that unlocks a new level of productivity]]'
 - '[[Changes/Dify/2023-06-14-feat-add-gpt-3-5-turbo-16k-support-and-update-openai-gpt-3-5-turbo-embedding-ada|feat:
   add gpt-3.5-turbo-16k support and update openai gpt-3.5-turbo & Embedding Ada…]]'
 - '[[Changes/Aider/2023-06-25-enables-display-of-cost-info-based-on-openai-advertised-pricing|Enables

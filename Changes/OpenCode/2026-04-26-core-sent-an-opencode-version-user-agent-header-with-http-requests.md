@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 7b1066fc6091b6407ddf44b268785099178674166f078fb419a805f5badaeb8b
+machine_hash: 80820f5d69f2205c4044dd922503dc776a8100100248d277f69f308f02252e71
 product: opencode
 product_name: OpenCode
 record:
@@ -43,11 +43,11 @@ record:
   title: Core Sent an opencode/<version> User-Agent header with HTTP requests
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-24-custom-agents-skills-and-commands-from-claude-are-no-longer-loaded-by-the-copilo|Custom
-  agents, skills, and commands from ~/.claude/ are no longer loaded…]]'
 - '[[Changes/Replit/2026-04-24-agent|Agent]]'
 - '[[Changes/Replit/2026-04-24-cve-auto-protect-patches-critical-vulnerabilities-automatically|CVE
   Auto-Protect patches critical vulnerabilities automatically]]'
+- '[[Changes/Superwhisper/2026-04-24-integrated-claude-code-and-open-code-agents-for-enhanced-ai-assistance|Integrated
+  Claude Code and Open Code agents for enhanced AI assistance]]'
 source_release: '[[Releases/OpenCode/opencode-2026-04-26-v1-14-26-aeb5dc13|opencode-2026-04-26-v1-14-26-aeb5dc13]]'
 source_type: opencode_changelog
 theme: agent-mode
@@ -79,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-04-24 · Replit · [[Changes/Replit/2026-04-24-cve-auto-protect-patches-critical-vulnerabilities-automatically|CVE Auto-Protect patches critical vulnerabilities automatically]]
+- Earlier: 2026-04-24 · Superwhisper · [[Changes/Superwhisper/2026-04-24-integrated-claude-code-and-open-code-agents-for-enhanced-ai-assistance|Integrated Claude Code and Open Code agents for enhanced AI assistance]]
 - Later: 2026-04-27 · ElevenLabs · [[Changes/ElevenLabs/2026-04-27-swift-sdk|Swift SDK]]
 <!-- chronolog:end -->
 

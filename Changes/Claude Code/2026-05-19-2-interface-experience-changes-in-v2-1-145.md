@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 926b75d580af2719bde2855b44cf26cdb94e06e9b7807e5f2c9ea22e66ecf8c5
+machine_hash: 5894b895796164984e67d42f8e0b360e508da59c87c08bf9a4616c3eb3107f0f
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,8 +44,7 @@ record:
   title: 2 Interface Experience changes in v2.1.145
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-05-16-terminal-added-pinned-sessions-with-quick-switch-slots-in-the-session-picker|Terminal
-  Added pinned sessions with quick-switch slots in the session picker]]'
+- '[[Changes/Devin/2026-05-17-archive-all-sessions|Archive All Sessions]]'
 - '[[Changes/Codex CLI/2026-05-18-5-interface-experience-changes-in-rust-v0-131-0|5
   Interface Experience changes in rust-v0.131.0]]'
 - '[[Changes/Lovable/2026-05-18-github-button-in-editor-top-navigation-the-github-https-docs-lovable-dev-integra|GitHub

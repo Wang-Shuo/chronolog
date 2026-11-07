@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e04ff0922bfa8ff115f000a097960c457993427bb76704161041a98f33978fc5
+machine_hash: 3b040def5c66f6c1e106396a96d76cb32cdd191ce89e007e44752c4ba4ee09f5
 product: open-webui
 product_name: Open WebUI
 record:
@@ -49,9 +49,10 @@ record:
   title: 2 Image Generation changes in v0.8.0
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-01-22-image-generation|Image generation]]'
 - '[[Changes/HeyGen/2026-01-26-smarter-decision-making-small-requests-quick-clips-avatar-tweaks-image-generatio|Smarter
   decision-making Small requests…]]'
+- '[[Changes/LM Studio/2026-01-28-adds-download-copy-and-reveal-in-working-directory-buttons-to-generated-images-i|Adds
+  download, copy, and reveal in working directory buttons to generated images in chat]]'
 - '[[Changes/Ollama/2026-02-12-image-generation-models-will-now-respect-the-ollama-load-timeout-variable|Image
   generation models will now respect the OLLAMA_LOAD_TIMEOUT variable]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-02-12-v0-8-0-github-285910626-490914ba|open-webui-2026-02-12-v0-8-0-github-285910626-490914ba]]'

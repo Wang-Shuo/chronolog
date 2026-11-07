@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: a05511ed0fca2c2d59b77183ec2d79d54402ca8141c249fbad6fbdd009de6289
+machine_hash: 929b36d55d332a07326d20873f50c7315f7e053df67cf003cd01d2dedaf7077d
 product: microsoft-365-copilot
 product_name: Microsoft 365 Copilot
 record:
@@ -47,11 +47,11 @@ record:
     app)
   type: change
 related_changes:
-- '[[Changes/Replit/2026-03-20-replit-pwa-on-microsoft-app-store|Replit PWA on Microsoft
-  App Store]]'
 - '[[Changes/OpenCode/2026-03-22-5-mobile-and-desktop-changes-in-v1-3-0|5 Mobile and
   Desktop changes in v1.3.0]]'
 - '[[Changes/ElevenLabs/2026-03-23-ios-sdk|iOS SDK]]'
+- '[[Changes/Raycast/2026-03-23-raycast-on-windows-now-supports-quick-look|Raycast
+  on Windows now supports Quick Look!]]'
 source_release: '[[Releases/Microsoft 365 Copilot/microsoft-365-copilot-2026-03-24-2026-03-24-bbda4f48|microsoft-365-copilot-2026-03-24-2026-03-24-bbda4f48]]'
 source_type: m365_copilot_changelog
 theme: mobile-desktop
@@ -93,7 +93,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-03-23 · ElevenLabs · [[Changes/ElevenLabs/2026-03-23-ios-sdk|iOS SDK]]
+- Earlier: 2026-03-23 · Raycast · [[Changes/Raycast/2026-03-23-raycast-on-windows-now-supports-quick-look|Raycast on Windows now supports Quick Look!]]
 - Later: 2026-03-25 · Claude · [[Changes/Claude/2026-03-25-interactive-apps-in-claude-for-ios-and-android|Interactive apps in Claude for iOS and Android]]
 <!-- chronolog:end -->
 

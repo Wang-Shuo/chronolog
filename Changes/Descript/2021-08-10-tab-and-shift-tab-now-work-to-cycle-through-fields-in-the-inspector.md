@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 01db392f773f05a80263e7229ce9bac21e529dcfdb4a40fab6561cbc45313844
+machine_hash: 69f58db171b310aa2a4fe8c3014e7201c85c859bd5c5aa02a06905a1c21abe46
 product: descript
 product_name: Descript
 record:
@@ -40,8 +40,8 @@ record:
   title: TAB and Shift-TAB now work to cycle through fields in the inspector
   type: change
 related_changes:
-- '[[Changes/Notion/2021-05-13-un-indenting-nested-bullets-and-numbered-lists-with-shift-tab-or-the-button-on-m|Un-indenting
-  nested bullets and numbered lists with Shift + Tab or the  / ← button…]]'
+- '[[Changes/Raycast/2021-06-03-snippets-expansion-preserves-the-delimiter-if-entered-to-trigger-completion|Snippets:
+  Expansion preserves the delimiter, if entered to trigger completion]]'
 - '[[Changes/Descript/2021-07-07-released-a-fix-for-an-issue-where-the-editor-text-would-flicker-after-scrolling|Released
   a fix for an issue where the editor text would flicker after scrolling…]]'
 - '[[Changes/Notion/2021-07-27-write-run-code-in-notion-with-the-replit-embed|Write

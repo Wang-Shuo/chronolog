@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 02400e44c5082d603fc66be07e2009cb626b10f4977a4d51e911256da5e875a0
+machine_hash: 94f823d80415ea7e3f18da8fc3c69c8b1ac5d37bcd22ded4b3a87680dd7dd4f5
 product: dify
 product_name: Dify
 record:
@@ -46,10 +46,10 @@ record:
   title: 3 Model Support changes in 0.7.3
   type: change
 related_changes:
-- '[[Changes/Aider/2024-08-28-4-model-support-changes-in-v0-54-0|4 Model Support changes
-  in v0.54.0]]'
 - '[[Changes/OpenHands/2024-08-29-2-model-support-changes-in-0-9-1|2 Model Support
   changes in 0.9.1]]'
+- '[[Changes/Superwhisper/2024-08-30-utility-to-download-model-if-not-installed-prompt-on-recording-start|Utility
+  to download model if not installed prompt on recording start]]'
 - '[[Changes/Ollama/2024-08-31-ollama-will-now-show-an-improved-error-message-when-attempting-to-run-unsupporte|Ollama
   will now show an improved error message when attempting to run unsupported models]]'
 source_release: '[[Releases/Dify/dify-2024-09-03-0-7-3-github-173123686-c526228f|dify-2024-09-03-0-7-3-github-173123686-c526228f]]'
@@ -93,7 +93,7 @@ Source: https://github.com/langgenius/dify/releases/tag/0.7.3
 ## Nearby in Model Support
 
 - Earlier: 2024-08-31 · Ollama · [[Changes/Ollama/2024-08-31-ollama-will-now-show-an-improved-error-message-when-attempting-to-run-unsupporte|Ollama will now show an improved error message when attempting to run unsupported models]]
-- Later: 2024-09-04 · Aider · [[Changes/Aider/2024-09-04-3-model-support-changes-in-v0-55-0|3 Model Support changes in v0.55.0]]
+- Later: 2024-09-03 · Superwhisper · [[Changes/Superwhisper/2024-09-03-utility-to-download-model-if-not-installed-prompt-on-recording-start|Utility to download model if not installed prompt on recording start]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

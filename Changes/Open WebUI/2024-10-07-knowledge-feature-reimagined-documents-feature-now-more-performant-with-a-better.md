@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 497636539188a1cc545383e3ea0209ab86a488d5e1f5e093728dbc1aa3798f07
+machine_hash: e981d4e42d2bb3a894cd445c903c6dfdf70bb2ec0d6f77b19fe8d7a892d4c20b
 product: open-webui
 product_name: Open WebUI
 record:
@@ -59,10 +59,10 @@ record:
   title: "**\U0001F4DA Knowledge Feature**"
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2024-09-26-ollama-embed-form-data-adjusted-the-integration-inaccuracies-in-the-embed-form-d|\U0001F4CB
-  Ollama /embed Form Data]]"
 - '[[Changes/Dify/2024-09-30-3-apps-and-integrations-changes-in-0-9-0|3 Apps and Integrations
   changes in 0.9.0]]'
+- '[[Changes/AnythingLLM/2024-10-03-3-apps-and-integrations-changes-in-v1-2-3|3 Apps
+  and Integrations changes in v1.2.3]]'
 - '[[Changes/Gemini/2024-10-06-gemini-can-access-helpful-information-from-more-apps-and-services|Gemini
   can access helpful information from more apps and services]]'
 source_release: '[[Releases/Open WebUI/open-webui-2024-10-07-v0-3-31-github-178593547-fa0ff4e2|open-webui-2024-10-07-v0-3-31-github-178593547-fa0ff4e2]]'

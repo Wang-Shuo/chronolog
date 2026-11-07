@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a4a0b91930e0231e76ad905f0c6db8bd16b94d8b1ff0f099c109b6fe1c5cac00
+machine_hash: 99f823e4c5a004c28f6c8a2a0de8ceb2d53f6aeef04c4e55f92fdd7a52345e47
 product: claude-code
 product_name: Claude Code
 record:
@@ -112,7 +112,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.288
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-10-01 · Codex CLI · [[Changes/Codex CLI/2026-10-01-4-apps-and-integrations-changes-in-rust-v0-160-0|4 Apps and Integrations changes in rust-v0.160.0]]
-- Later: 2026-10-02 · Replit · [[Changes/Replit/2026-10-02-jev-is-now-available-through-replit-ai-integrations|Jev is now available through Replit AI Integrations]]
+- Later: 2026-10-02 · Devin · [[Changes/Devin/2026-10-02-azure-devops-bitbucket-gerrit-and-perforce|Azure DevOps, Bitbucket, Gerrit and Perforce]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 39a9909689531b9cdb4385f8f4719f27cec66ec93bbe56a1e04dc505d72e0272
+machine_hash: 147b9f9d968cf14d4757b5e64eaa382152e391b983a9611197e1e0d214747868
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,8 +43,7 @@ record:
   title: 2 Editor Experience changes in v0.0.334
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2025-10-01-run-npm-install-g-github-copilot-latest-to-update|Run
-  npm install -g @github/copilot@latest to update!]]'
+- '[[Changes/Superwhisper/2025-10-01-mode-edit-fix|Mode edit fix]]'
 - '[[Changes/GitHub Copilot CLI/2025-10-02-3-editor-experience-changes-in-v0-0-333|3
   Editor Experience changes in v0.0.333]]'
 - '[[Changes/Codex CLI/2025-10-03-2-editor-experience-changes-in-rust-v0-44-0|2 Editor

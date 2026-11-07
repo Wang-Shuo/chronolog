@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: da8c04247262f4ca9165812c987b1cbe68f2aba2d6b53183fdcaf7b1c479c2fd
+machine_hash: 79984240a17667e252e39cfcfd6ad30a9bf90556e67ce5cf0c542ea6ded8e644
 product: open-webui
 product_name: Open WebUI
 record:
@@ -50,10 +50,10 @@ record:
   title: 3 Search and Browsing changes in v0.5.8
   type: change
 related_changes:
-- '[[Changes/OpenHands/2024-12-04-added-alignment-checker-for-browsing-agent-by-s-aniruddha-in-https-github-com-al|Added
-  Alignment checker for browsing agent]]'
 - '[[Changes/Cline/2024-12-12-the-model-context-protocol-https-github-com-modelcontextprotocol-allows-agents-l|The
   Model Context Protocol((source link) allows agents…]]'
+- '[[Changes/AnythingLLM/2025-01-29-add-vector-search-api-endpoint-by-timothycarambat-in-https-github-com-mintplex-l|Add
+  vector search API endpoint]]'
 - '[[Changes/Replit/2025-01-31-object-storage-improvements|Object Storage improvements]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-02-05-v0-5-8-github-198528853-726db0ce|open-webui-2025-02-05-v0-5-8-github-198528853-726db0ce]]'
 source_type: github_releases

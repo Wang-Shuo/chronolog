@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b69e1a9d86a7632898db076c58bc768ab88d2e13801d3ebcd9eac51bf03cb0f0
+machine_hash: d3ae71a1784afc71a2c2a27b92bb8e1b728e84f888d8a25eac56de6e8c81c4b8
 product: open-webui
 product_name: Open WebUI
 record:
@@ -47,12 +47,12 @@ record:
   title: "\U0001F5BC️ **Tika Loader Image Extraction Problem Resolved**"
   type: change
 related_changes:
-- '[[Changes/Dify/2025-04-23-chore-skip-document-segments-fetching-with-non-existed-dataset-of-datasetdocumen|chore:
-  skip document segments fetching with non-existed dataset of DatasetDocument…]]'
 - '[[Changes/Dify/2025-04-28-3-files-and-data-changes-in-1-3-1|3 Files and Data changes
   in 1.3.1]]'
 - '[[Changes/Open WebUI/2025-05-05-2-files-and-data-changes-in-v0-6-6|2 Files and
   Data changes in v0.6.6]]'
+- '[[Changes/AnythingLLM/2025-05-06-add-support-for-v1-document-upload-endpoints-to-support-auto-add-to-workspace-by|Add
+  support for /v1/document/upload endpoints to support auto-add to workspace]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-05-06-v0-6-7-github-216889065-023e7527|open-webui-2025-05-06-v0-6-7-github-216889065-023e7527]]'
 source_type: github_releases
 theme: file-data
@@ -89,7 +89,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2025-05-05 · Open WebUI · [[Changes/Open WebUI/2025-05-05-2-files-and-data-changes-in-v0-6-6|2 Files and Data changes in v0.6.6]]
+- Earlier: 2025-05-06 · AnythingLLM · [[Changes/AnythingLLM/2025-05-06-add-support-for-v1-document-upload-endpoints-to-support-auto-add-to-workspace-by|Add support for /v1/document/upload endpoints to support auto-add to workspace]]
 - Later: 2025-05-10 · Open WebUI · [[Changes/Open WebUI/2025-05-10-4-files-and-data-changes-in-v0-6-8|4 Files and Data changes in v0.6.8]]
 <!-- chronolog:end -->
 

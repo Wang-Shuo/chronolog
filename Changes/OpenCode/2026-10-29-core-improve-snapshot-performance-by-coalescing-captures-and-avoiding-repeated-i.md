@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d12874003082d9cdc65fb7125dcaea557875f49e0ffe1485c38b157261646157
+machine_hash: b515c850aaef52f692fa4dbf7c55e5026a8d49cda3242d3769432a893824e35e
 product: opencode
 product_name: OpenCode
 record:
@@ -42,10 +42,10 @@ record:
   title: Core Improve snapshot performance by coalescing captures and avoiding repeated…
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-10-27-faster-prompt-processing-on-apple-silicon-for-gemma-4-flint-and-laguna-models|Faster
-  prompt processing on Apple silicon for Gemma 4, Flint and Laguna models]]'
-- '[[Changes/OpenCode/2026-10-27-6-reliability-and-performance-changes-in-v2-2-0|6
-  Reliability and Performance changes in v2.2.0]]'
+- '[[Changes/Raycast/2026-10-28-2-reliability-and-performance-changes-in-raycast-windows-2-10|2
+  Reliability and Performance changes in Raycast windows 2.10]]'
+- '[[Changes/Raycast/2026-10-28-search-improved-performance-of-translation-queries|Search
+  : Improved performance of translation queries]]'
 - '[[Changes/Open WebUI/2026-10-29-2-reliability-and-performance-changes-in-v0-12-5|2
   Reliability and Performance changes in v0.12.5]]'
 source_release: '[[Releases/OpenCode/opencode-2026-10-29-v2-2-1-8378da57|opencode-2026-10-29-v2-2-1-8378da57]]'

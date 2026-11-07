@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: f072a8cc497c2cd8c330adac37ee733af4547fbd55f4d26105c811eb7e9d1195
+machine_hash: e4bac8cdf5447dd2452c2b36633ee0404ad0c104e0526aa3cc264230383bd16b
 product: lovable
 product_name: Lovable
 record:
@@ -44,11 +44,11 @@ record:
   title: Build in Lovable from Claude
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-06-16-devin-local|Devin Local]]'
-- '[[Changes/ChatGPT/2026-06-17-monitoring-tasks-can-search-the-web-and-check-connected-apps-for-changes-and-not|Monitoring
-  tasks can search the web and check connected apps for changes and notify…]]'
 - '[[Changes/Claude Code/2026-06-17-added-config-key-value-syntax-to-set-any-setting-from-the-prompt-e-g-config-thin|Added
   /config key=value syntax to set any setting from the prompt…]]'
+- '[[Changes/Devin/2026-06-17-axiom-mcp-server|Axiom MCP Server]]'
+- '[[Changes/Devin/2026-06-17-mcp-server-view-logs-on-error|MCP Server: View Logs
+  on Error]]'
 source_release: '[[Releases/Lovable/lovable-2026-06-17-2026-06-17-95ed7bc8|lovable-2026-06-17-2026-06-17-95ed7bc8]]'
 source_type: lovable_changelog
 theme: apps-integrations
@@ -78,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-06-17 · Claude Code · [[Changes/Claude Code/2026-06-17-added-config-key-value-syntax-to-set-any-setting-from-the-prompt-e-g-config-thin|Added /config key=value syntax to set any setting from the prompt…]]
+- Earlier: 2026-06-17 · Devin · [[Changes/Devin/2026-06-17-mcp-server-view-logs-on-error|MCP Server: View Logs on Error]]
 - Later: 2026-06-17 · OpenCode · [[Changes/OpenCode/2026-06-17-4-apps-and-integrations-changes-in-v1-17-8|4 Apps and Integrations changes in v1.17.8]]
 <!-- chronolog:end -->
 

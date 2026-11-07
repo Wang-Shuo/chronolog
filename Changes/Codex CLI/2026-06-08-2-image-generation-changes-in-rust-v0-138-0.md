@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 34d787f135fae4a1c97f11e95509f70ab7099c40e8e8a5fe3986d5ad1f708eac
+machine_hash: 29815fe10f13daea1eb07896b4e1372327b6a856afb98e2dc074e139613740d0
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -91,7 +91,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.138.0
 ## Nearby in Image Generation
 
 - Earlier: 2026-06-04 · Codex CLI · [[Changes/Codex CLI/2026-06-04-3-image-generation-changes-in-rust-v0-137-0|3 Image Generation changes in rust-v0.137.0]]
-- Later: 2026-06-15 · Codex CLI · [[Changes/Codex CLI/2026-06-15-27920-handle-standalone-image-generation-failures-as-terminal-items-won-openai|♯27920 Handle standalone image generation failures as terminal items @won-openai]]
+- Later: 2026-06-12 · Recraft · [[Changes/Recraft/2026-06-12-we-ve-added-three-new-image-generation-models-to-recraft-available-to-paid-subsc|Recraft adds three new image generation models to Recraft]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

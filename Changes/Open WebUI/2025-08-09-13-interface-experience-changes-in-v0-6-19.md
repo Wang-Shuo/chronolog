@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: cfbc20fe541678c012f9e3789b720d0185778f247093118b786795fbc40efca2
+machine_hash: 5751975318f00a205334733f517e2e311ed052a274986192a76f55231522b74e
 product: open-webui
 product_name: Open WebUI
 record:
@@ -107,8 +107,8 @@ record:
   title: 13 Interface Experience changes in v0.6.19
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-08-05-2-interface-experience-changes-in-v0-1-17|2 Interface
-  Experience changes in v0.1.17]]'
+- '[[Changes/LM Studio/2025-08-05-2-interface-experience-changes-in-lm-studio-0-3-21|2
+  Interface Experience changes in LM Studio 0.3.21]]'
 - '[[Changes/Gemini CLI/2025-08-06-2-interface-experience-changes-in-v0-1-18|2 Interface
   Experience changes in v0.1.18]]'
 - '[[Changes/Aider/2025-08-09-clear-now-prints-all-chat-history-cleared-so-you-know-it-worked-by-zexin-yuan|/clear

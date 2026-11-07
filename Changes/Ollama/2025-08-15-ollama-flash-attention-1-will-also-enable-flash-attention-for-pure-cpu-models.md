@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 095b07f8e13e0eec9307262f347e060e83e7cb5e961ab6b12f8f7f233564cfe2
+machine_hash: a37194648a64f9f5e32edf924a7b86f0fdfe7d08be43516b111b18049c029d59
 product: ollama
 product_name: Ollama
 record:
@@ -43,8 +43,8 @@ record:
     models'
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-08-14-28-model-support-changes-in-v0-1-21|28 Model Support
-  changes in v0.1.21]]'
+- '[[Changes/AnythingLLM/2025-08-15-2-model-support-changes-in-v1-8-5|2 Model Support
+  changes in v1.8.5]]'
 - '[[Changes/ChatGPT/2025-08-15-we-re-making-gpt-5-s-default-personality-warmer-and-more-familiar-this-is-in-res-19a03e|GPT-5
   Updates]]'
 - '[[Changes/Cline/2025-08-15-add-support-for-200k-context-for-claude-sonnet-4-using-openrouter-cline-by-saoud|Add

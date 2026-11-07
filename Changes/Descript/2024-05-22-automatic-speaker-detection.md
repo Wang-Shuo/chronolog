@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 578f12b76da8769ecd7641aa41d2319ebb696d59ece3a1bbffb342ad5c7b6f7d
+machine_hash: 0f62dd1021515f93eebf0926a905e188ebc7e31fbd3a8f32824e755173139b92
 product: descript
 product_name: Descript
 record:
@@ -52,8 +52,8 @@ record:
   title: Automatic Speaker Detection
   type: change
 related_changes:
-- '[[Changes/Aider/2024-05-13-added-restore-chat-history-to-restore-prior-chat-history-on-launch-so-you-can-co|Added
-  --restore-chat-history to restore prior chat history on launch, so you can…]]'
+- '[[Changes/Superwhisper/2024-05-13-major-improvements-to-messages-prompt-template-in-create-mode-menu|Major
+  improvements to messages prompt template in create mode menu]]'
 - '[[Changes/Ollama/2024-05-15-to-clear-the-chat-history-for-a-session-when-running-ollama-run-use-clear|To
   clear the chat history for a session when running ollama run, use /clear]]'
 - "[[Changes/Open WebUI/2024-05-19-enhanced-sidebar-ui-model-files-documents-prompts-and-playground-merged-into-wor|\U0001F4C2
@@ -91,7 +91,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2024-05-19 · Open WebUI · [[Changes/Open WebUI/2024-05-19-enhanced-sidebar-ui-model-files-documents-prompts-and-playground-merged-into-wor|📂 Enhanced Sidebar UI]]
-- Later: 2024-05-27 · Dify · [[Changes/Dify/2024-05-27-improved-variable-assigner-supports-more-flexible-variable-selection-additionall|Improved Variable Assigner supports more flexible variable selection]]
+- Later: 2024-05-22 · Raycast · [[Changes/Raycast/2024-05-22-typing-practice-source-now-fits-2-lines-on-the-scorecard-and-has-a-tooltip-when|Typing Practice: Source now fits 2 lines on the scorecard and has a tooltip when hovering]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

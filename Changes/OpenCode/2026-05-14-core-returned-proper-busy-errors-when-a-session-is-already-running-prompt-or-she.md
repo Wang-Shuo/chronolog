@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 945f7d559a8acfa134a72e36317b97d6bcb3f14ad3baf9794b6c71eb19b1475a
+machine_hash: caf92320c6c2ac69b89da8793afc065042fa67cff140620c93b669b6a91399d3
 product: opencode
 product_name: OpenCode
 record:
@@ -45,8 +45,8 @@ record:
     or shell work
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-05-13-7-developer-workflow-changes-in-v1-14-49|7 Developer
-  Workflow changes in v1.14.49]]'
+- '[[Changes/Raycast/2026-05-13-hyper-key-e-nsure-shift-isn-t-suppressed-when-hyper-key-is-using-another-modifie|Hyper
+  Key: E nsure Shift isn’t suppressed when Hyper Key is using another modifier…]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-14-terminal-cursor-positions-correctly-on-the-input-field-instead-of-on-decorative|Terminal
   cursor positions correctly on the input field instead of on decorative…]]'
 - '[[Changes/Ollama/2026-05-14-ollama-0-24-includes-support-for-the-codex-app-openai-s-desktop-experience-for-w|Ollama

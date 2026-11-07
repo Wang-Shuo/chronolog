@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: pricing
-machine_hash: b6c96792c978e5ba2aadca65bd2669944dece8e3f075499769f93387500fcee6
+machine_hash: c91119bfafe845d4d046ee46c2fdf3a68c265ec162da9182560922ec6915334a
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -56,12 +56,12 @@ record:
   title: Automatically compress oversized images before they reach the model, downsampling…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-30-require-session-limits-to-be-at-least-30-ai-credits|Require
-  session limits to be at least 30 AI credits]]'
-- '[[Changes/OpenClaw/2026-06-30-when-a-codex-subscription-reaches-its-usage-limit-openclaw-now-moves-to-configur|When
-  a Codex subscription reaches its usage limit, OpenClaw now moves to configured…]]'
 - '[[Changes/OpenCode/2026-06-30-sdk-add-a-live-event-subscription-stream|SDK Add
   a live event subscription stream]]'
+- '[[Changes/Recraft/2026-07-01-credit-cost-is-21-credits-per-second|Credit cost is
+  21 credits per second]]'
+- '[[Changes/Recraft/2026-07-01-cost-7-credits-per-generation|Cost: 7 credits per
+  generation]]'
 source_release: '[[Releases/Kimi Code/kimi-code-2026-07-02-0-22-0-964e2a9d|kimi-code-2026-07-02-0-22-0-964e2a9d]]'
 source_type: kimi_code_changelog
 theme: pricing-model
@@ -96,7 +96,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-06-30 · OpenCode · [[Changes/OpenCode/2026-06-30-sdk-add-a-live-event-subscription-stream|SDK Add a live event subscription stream]]
+- Earlier: 2026-07-01 · Recraft · [[Changes/Recraft/2026-07-01-cost-7-credits-per-generation|Cost: 7 credits per generation]]
 - Later: 2026-07-03 · Replit · [[Changes/Replit/2026-07-03-downgrade-from-pro-to-core-in-one-step|Downgrade from Pro to Core in one step]]
 <!-- chronolog:end -->
 

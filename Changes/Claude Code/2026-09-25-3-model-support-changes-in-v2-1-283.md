@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 696217be4e783c223e03935589dd1850b64e85ced6bb924f7164e9e5f3ec714c
+machine_hash: 437cdf14efd22f4138cfc8da27dc95385b03a65288f41afc6276cc2d000d2acc
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,8 +49,8 @@ record:
   title: 3 Model Support changes in v2.1.283
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-09-23-22-model-support-changes-in-v2026-9-6|22 Model Support
-  changes in v2026.9.6]]'
+- '[[Changes/Superwhisper/2026-09-23-bring-your-own-key-byok-setups-now-respect-your-organization-s-cloud-model-setti|Bring-your-own-key
+  (BYOK) setups now respect your organization''s cloud model settings]]'
 - '[[Changes/Claude Code/2026-09-24-2-model-support-changes-in-v2-1-282|2 Model Support
   changes in v2.1.282]]'
 - '[[Changes/Cline/2026-09-24-3-model-support-changes-in-v4-1-21|3 Model Support changes

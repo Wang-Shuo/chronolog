@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: ce60c74799c5c721d3fa244d8426d6cb062ac74957204f90428f349ab4a59499
+machine_hash: aa5d7226fcf449cfb5be3fb0f36f51e63fc8ea378a0b39d9cd2b0711b504296d
 product: dify
 product_name: Dify
 record:
@@ -46,12 +46,11 @@ record:
   title: 'feat: support copy run text result in debug panel in workflow'
   type: change
 related_changes:
-- '[[Changes/Dify/2024-03-29-some-optimization-for-admin-api-key-create-tenant-and-reset-encrypt-key-pair-com|some
-  optimization for admin api key, create tenant and reset-encrypt-key-pair command]]'
-- '[[Changes/Dify/2024-04-08-chore-replace-outdated-config-in-vscode-debug-settings-by-lng2020-in-https-githu|chore:
-  replace outdated config in vscode debug settings]]'
 - '[[Changes/Aider/2024-05-10-2-developer-workflow-changes-in-v0-34-0|2 Developer
   Workflow changes in v0.34.0]]'
+- '[[Changes/Devin/2024-05-13-command-history|Command History]]'
+- '[[Changes/Devin/2024-05-13-open-vs-code-access-devin-s-machine|Open VS Code: Access
+  Devin''s machine]]'
 source_release: '[[Releases/Dify/dify-2024-05-13-0-6-8-github-155567404-54e0e464|dify-2024-05-13-0-6-8-github-155567404-54e0e464]]'
 source_type: github_releases
 theme: developer-workflow
@@ -83,7 +82,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2024-05-10 · Aider · [[Changes/Aider/2024-05-10-2-developer-workflow-changes-in-v0-34-0|2 Developer Workflow changes in v0.34.0]]
+- Earlier: 2024-05-13 · Devin · [[Changes/Devin/2024-05-13-open-vs-code-access-devin-s-machine|Open VS Code: Access Devin's machine]]
 - Later: 2024-05-22 · Aider · [[Changes/Aider/2024-05-22-4-developer-workflow-changes-in-v0-36-0|4 Developer Workflow changes in v0.36.0]]
 <!-- chronolog:end -->
 

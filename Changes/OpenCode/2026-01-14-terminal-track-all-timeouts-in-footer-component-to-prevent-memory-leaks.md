@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f33cb83f61bdfc2ba7c508e3991f23ae484441424b5508dc1a4050522d02a9f6
+machine_hash: 7c949fd3edb365c2c5ff3bcc5857cc746f08f0a8704924194bbdf11df1a89fb8
 product: opencode
 product_name: OpenCode
 record:
@@ -51,8 +51,8 @@ record:
   title: Terminal Track all timeouts in Footer component to prevent memory leaks
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-01-13-sessions-with-large-conversation-history-load-faster-on-startup|Sessions
-  with large conversation history load faster on startup]]'
+- '[[Changes/LM Studio/2026-01-13-mac-m5-enable-auto-upgrade-to-mlx-nax-engine-to-fix-mlx-model-crashes-and-improv|MacM5
+  Enable auto-upgrade to MLX NAX engine to fix MLX model crashes and improve…]]'
 - '[[Changes/Windsurf/2026-01-13-2-reliability-and-performance-changes-in-v1-13-6|2
   Reliability and Performance changes in v1.13.6]]'
 - '[[Changes/Claude Code/2026-01-14-improved-typing-responsiveness-by-reducing-memory-allocation-overhead-in-termina|Improved

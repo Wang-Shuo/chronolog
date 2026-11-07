@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 22d7d33bdb1640d17eaed7af57aef18ef609718914fb17db04f11bf6f0af12f1
+machine_hash: f75fc99bdf788e93686f0ce2d126df56ce250ba41e0e7dfda8f6499a8b32fe89
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -41,8 +41,8 @@ record:
   title: Update colors tokens for inputer/footer
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-08-27-2-context-window-changes-in-rust-v0-25-0|2 Context
-  Window changes in rust-v0.25.0]]'
+- '[[Changes/LM Studio/2025-08-28-3-context-window-changes-in-lm-studio-0-3-24|3 Context
+  Window changes in LM Studio 0.3.24]]'
 - '[[Changes/Open WebUI/2025-08-28-2-context-window-changes-in-v0-6-26|2 Context Window
   changes in v0.6.26]]'
 - '[[Changes/Cline/2025-08-29-add-200k-context-window-variant-for-claude-sonnet-4-to-openrouter-and-cline-prov|Add

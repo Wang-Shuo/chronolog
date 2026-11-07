@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a8e73aa66db50143478a4b1938bce6e87a8a37bfe3d93c82f0a9940e39abd165
+machine_hash: 6b501c9b738c323335d103713ea189036afab24a64485f8469928786b44fbbb4
 product: ollama
 product_name: Ollama
 record:
@@ -43,12 +43,12 @@ record:
     models
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2024-08-27-show-knowledge-search-status-enhanced-model-usage-transparency-by-displaying-sta|\U0001F604
-  Show Knowledge Search Status]]"
 - '[[Changes/Aider/2024-08-28-4-model-support-changes-in-v0-54-0|4 Model Support changes
   in v0.54.0]]'
 - '[[Changes/OpenHands/2024-08-29-2-model-support-changes-in-0-9-1|2 Model Support
   changes in 0.9.1]]'
+- '[[Changes/Superwhisper/2024-08-30-utility-to-download-model-if-not-installed-prompt-on-recording-start|Utility
+  to download model if not installed prompt on recording start]]'
 source_release: '[[Releases/Ollama/ollama-2024-08-31-v0-3-9-github-172905379-a5778b85|ollama-2024-08-31-v0-3-9-github-172905379-a5778b85]]'
 source_type: github_releases
 theme: model-support
@@ -78,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2024-08-29 · OpenHands · [[Changes/OpenHands/2024-08-29-2-model-support-changes-in-0-9-1|2 Model Support changes in 0.9.1]]
+- Earlier: 2024-08-30 · Superwhisper · [[Changes/Superwhisper/2024-08-30-utility-to-download-model-if-not-installed-prompt-on-recording-start|Utility to download model if not installed prompt on recording start]]
 - Later: 2024-09-03 · Dify · [[Changes/Dify/2024-09-03-3-model-support-changes-in-0-7-3|3 Model Support changes in 0.7.3]]
 <!-- chronolog:end -->
 

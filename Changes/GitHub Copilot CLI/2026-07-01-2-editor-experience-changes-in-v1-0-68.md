@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 31342b13ffe70b97b5f5772087e7909b878e029c40407d01239e3cf07d9eb643
+machine_hash: c2e65d88e0019261d9142ac369c45e667d90dcec6ae1ca407c0fca2298e5cd36
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -42,12 +42,11 @@ record:
   title: 2 Editor Experience changes in v1.0.68
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-30-ctrl-q-now-enqueues-the-highlighted-slash-command-argument-completion|Ctrl+Q
-  now enqueues the highlighted slash-command argument completion]]'
-- '[[Changes/OpenClaw/2026-06-30-7-editor-experience-changes-in-v2026-6-11|7 Editor
-  Experience changes in v2026.6.11]]'
 - '[[Changes/OpenCode/2026-06-30-desktop-autocomplete-configured-references-in-prompts|Desktop
   Autocomplete configured references in prompts]]'
+- '[[Changes/Devin/2026-07-01-pr-link-preference|PR-Link Preference]]'
+- '[[Changes/Devin/2026-07-01-usage-analytics-pr-ratio-chart|Usage Analytics: PR Ratio
+  Chart]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-07-01-v1-0-68-github-347721762-7219d583|github-copilot-cli-2026-07-01-v1-0-68-github-347721762-7219d583]]'
 source_type: github_releases
 theme: editor-experience
@@ -88,7 +87,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.68
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-06-30 · OpenCode · [[Changes/OpenCode/2026-06-30-desktop-autocomplete-configured-references-in-prompts|Desktop Autocomplete configured references in prompts]]
+- Earlier: 2026-07-01 · Devin · [[Changes/Devin/2026-07-01-usage-analytics-pr-ratio-chart|Usage Analytics: PR Ratio Chart]]
 - Later: 2026-07-01 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-07-01-copilot-analytics-all-licensed-user-page-copilot-dashboard-web-viva-insights|Copilot Analytics: "All"- licensed user page Copilot dashboard Web (Viva Insights)]]
 <!-- chronolog:end -->
 

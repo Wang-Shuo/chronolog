@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 261e0206c775b74bfb26022c08bfe20a70b3ab7ba7efe8b5112c616c4871d537
+machine_hash: 10fa515aaab3844d69797c3f30d21b9698433a40021c35a164005ff602a0725c
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,12 +41,13 @@ record:
   title: 'Added long press on your message to open menu actions: Copy, Edit'
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-03-11-0-47-11-release-track-picker-prerelease-or-standard-fix-for-dmg-installer-not-wo|0.47.11:
-  Release track picker (prerelease or standard), fix for dmg installer not…]]'
-- '[[Changes/Dify/2025-03-11-2-interface-experience-changes-in-1-0-1|2 Interface Experience
-  changes in 1.0.1]]'
 - '[[Changes/Lovable/2025-03-14-we-ve-made-some-improvement-to-lovable-s-project-settings-layout-for-a-more-intu|Lovable
   makes some improvement to Lovable’s project settings layout for a more…]]'
+- '[[Changes/Raycast/2025-03-14-alias-set-for-the-emoji-picker-should-now-be-correctly-saved|Alias
+  set for the Emoji Picker should now be correctly saved]]'
+- "[[Changes/Raycast/2025-03-14-today-we-are-releasing-the-first-iteration-of-our-emoji-picker-to-help-you-expre|Today
+  we are releasing the first iteration of our Emoji Picker \U0001F389 to help you
+  express…]]"
 source_release: '[[Releases/ChatGPT/chatgpt-2025-03-18-ios-app-6a42bb0f|chatgpt-2025-03-18-ios-app-6a42bb0f]]'
 source_type: chatgpt_changelog
 theme: interface-experience
@@ -77,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2025-03-14 · Lovable · [[Changes/Lovable/2025-03-14-we-ve-made-some-improvement-to-lovable-s-project-settings-layout-for-a-more-intu|Lovable makes some improvement to Lovable’s project settings layout for a more…]]
+- Earlier: 2025-03-14 · Raycast · [[Changes/Raycast/2025-03-14-today-we-are-releasing-the-first-iteration-of-our-emoji-picker-to-help-you-expre|Today we are releasing the first iteration of our Emoji Picker 🎉 to help you express…]]
 - Later: 2025-03-21 · Aider · [[Changes/Aider/2025-03-21-3-interface-experience-changes-in-v0-78-0|3 Interface Experience changes in v0.78.0]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c9d262f810ee58e6c05d25d86b13134e3e2e80fb2887c5c753e7900a82421b50
+machine_hash: e9bd64e4aa87bf455df9f990679a19aeb799f87386ea03f694734bf5baeba207
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -53,8 +53,8 @@ record:
   title: 6 Interface Experience changes in rust-v0.158.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-25-9-interface-experience-changes-in-rust-v0-157-0|9
-  Interface Experience changes in rust-v0.157.0]]'
+- '[[Changes/Devin/2026-09-25-view-preferences-follow-you-across-devices|View Preferences
+  Follow You Across Devices]]'
 - '[[Changes/Claude Code/2026-09-28-added-effortslider-decreaseeffort-increaseeffort-and-toggleultracode-keybinding|Added
   effortSlider:decreaseEffort, increaseEffort and toggleUltracode…]]'
 - '[[Changes/Claude Code/2026-09-28-added-rate-limit-options-to-help-and-the-command-menu-for-claude-ai-subscribers|Added

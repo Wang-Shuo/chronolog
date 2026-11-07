@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 34e8d4a02f92b50f3be2ba1d0d9d62ab27fc8d7fd02f9864912a468accf68b9f
+machine_hash: cfa61614493acc73ee4c22c90587f95d03b615cce4c75ba5b140d183cb6053c1
 product: google-antigravity
 product_name: Google Antigravity
 record:

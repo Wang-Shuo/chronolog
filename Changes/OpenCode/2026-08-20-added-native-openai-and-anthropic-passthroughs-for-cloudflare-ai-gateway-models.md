@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: c1de69f611fed68cb74ba13e7ea7548ca061ebf8036f0471b7f397247d1a5130
+machine_hash: 089e5f98be7ac97b65d33861f248708f8ff89d2b208b409a4044facd45fccf28
 product: opencode
 product_name: OpenCode
 record:
@@ -43,8 +43,8 @@ record:
     models
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-08-19-caches-resolved-model-metadata-between-requests-cutting-time-to-first-token-by-r|Caches
-  resolved model metadata between requests, cutting time-to-first-token…]]'
+- '[[Changes/Superwhisper/2026-08-19-improved-model-status-notices|Improved model
+  status notices]]'
 - '[[Changes/Codex CLI/2026-08-20-6-model-support-changes-in-rust-v0-149-0|6 Model
   Support changes in rust-v0.149.0]]'
 - '[[Changes/Lovable/2026-08-20-gemini-embedding-2-is-the-default-for-search-and-recommendations|Gemini

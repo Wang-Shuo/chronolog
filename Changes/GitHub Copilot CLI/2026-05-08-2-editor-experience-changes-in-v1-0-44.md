@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 848a2321c68dcf7a2719617b168c3dadb9b678f14e89a6d87e92c9b6c3ab1629
+machine_hash: 82dbc83e99d0193f092890b1d283f220abac356526e89f79732676e4595707f3
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,12 +44,11 @@ record:
   title: 2 Editor Experience changes in v1.0.44
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-05-07-improved-prompt-input-undo-grouping-so-undo-redo-feels-more-natural-during-edits|Improved
-  prompt input undo grouping, so undo/redo feels more natural during edits]]'
-- '[[Changes/Cursor/2026-05-07-multitask-is-now-available-in-the-editor-for-running-async-subagents-to-parallel|/multitask
-  is now available in the editor for running async subagents to parallelize…]]'
 - '[[Changes/Codex CLI/2026-05-08-2-editor-experience-changes-in-rust-v0-130-0|2 Editor
   Experience changes in rust-v0.130.0]]'
+- '[[Changes/Devin/2026-05-08-clickable-diff-stats-in-worklog|Clickable Diff Stats
+  in Worklog]]'
+- '[[Changes/Devin/2026-05-08-ask-devin-in-pr-discussions|Ask Devin in PR Discussions]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-05-08-v1-0-44-github-319701730-20ae02a8|github-copilot-cli-2026-05-08-v1-0-44-github-319701730-20ae02a8]]'
 source_type: github_releases
 theme: editor-experience
@@ -87,8 +86,8 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.44
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-05-08 · Codex CLI · [[Changes/Codex CLI/2026-05-08-2-editor-experience-changes-in-rust-v0-130-0|2 Editor Experience changes in rust-v0.130.0]]
-- Later: 2026-05-09 · Open WebUI · [[Changes/Open WebUI/2026-05-09-5-editor-experience-changes-in-v0-9-3|5 Editor Experience changes in v0.9.3]]
+- Earlier: 2026-05-08 · Devin · [[Changes/Devin/2026-05-08-ask-devin-in-pr-discussions|Ask Devin in PR Discussions]]
+- Later: 2026-05-08 · Raycast · [[Changes/Raycast/2026-05-08-quick-ai-gets-a-major-refresh-in-this-release-bringing-it-closer-to-the-ai-chat|Quick AI gets a major refresh in this release, bringing it closer to the AI Chat…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

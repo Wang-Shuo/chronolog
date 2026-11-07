@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 17b79a5199585bd9e6581ee3630645db5f6f46ea3235a0916b0911e2de585e27
+machine_hash: 0b91e0a1b85b2a4e2a2df373828168332ea8528e8f72389d79d5a70f682fe86d
 product: claude
 product_name: Claude
 record:
@@ -47,11 +47,11 @@ record:
   title: Claude Duet research preview for Pro and Max plans
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-10-20-agents-as-code|Agents as code]]'
-- '[[Changes/Cursor/2026-10-20-the-agent-sdk-is-available-today-it-allows-you-to-define-an-agent-as-a-folder-of|The
-  Agent SDK is available today]]'
+- '[[Changes/Krea/2026-10-20-3d-in-agent|3D in Agent]]'
 - '[[Changes/OpenHands/2026-10-20-5-agent-mode-changes-in-v1-29-0|5 Agent Mode changes
   in v1.29.0]]'
+- '[[Changes/Superwhisper/2026-10-20-added-a-grok-bot-meetings-agent|Added a Grok
+  Bot meetings agent]]'
 source_release: '[[Releases/Claude/claude-2026-10-21-2026-10-21-0cb42267|claude-2026-10-21-2026-10-21-0cb42267]]'
 source_type: claude_changelog
 theme: agent-mode
@@ -78,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-10-20 · OpenHands · [[Changes/OpenHands/2026-10-20-5-agent-mode-changes-in-v1-29-0|5 Agent Mode changes in v1.29.0]]
+- Earlier: 2026-10-20 · Superwhisper · [[Changes/Superwhisper/2026-10-20-added-a-grok-bot-meetings-agent|Added a Grok Bot meetings agent]]
 - Later: 2026-10-21 · Claude Code · [[Changes/Claude Code/2026-10-21-improved-fork-subagents-launched-together-each-is-now-told-which-launch-is-its-o|Improved fork subagents launched together]]
 <!-- chronolog:end -->
 

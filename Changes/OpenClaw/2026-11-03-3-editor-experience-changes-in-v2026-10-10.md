@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: afa3a74e2d3534f67fb6bbf2c1a7ff195ea35879e954610f3b9d5537d9102d43
+machine_hash: 4ee5c47955da1d813f739b7cb189334b53cf6f2f3940d1288d64f97caa609e4f
 product: openclaw
 product_name: OpenClaw
 record:
@@ -48,8 +48,8 @@ record:
   title: 3 Editor Experience changes in v2026.10.10
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-11-02-project-monitoring-catches-errors-in-your-visitors-browsers|Project
-  monitoring catches errors in your visitors'' browsers]]'
+- '[[Changes/Recraft/2026-11-02-edit-your-favorite-change-its-colors-or-ask-for-variations|Edit
+  your favorite, change its colors, or ask for variations]]'
 - '[[Changes/Google Antigravity/2026-11-03-the-overview-panel-s-review-row-and-the-review-tab-header-now-show-total-added-a|The
   Overview panel''s Review row and the Review tab header now show total added…]]'
 - '[[Changes/Open WebUI/2026-11-03-4-editor-experience-changes-in-v0-13-0|4 Editor

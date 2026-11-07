@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ccf11db58200f60947f8187a4ceb4a2482ebb5a328b163305ec04338365c740a
+machine_hash: bf9869cbc1f7b55114ad94c86433d9544d0b1fdca611d60caf3919ab19f0f64d
 product: claude-code
 product_name: Claude Code
 record:
@@ -102,7 +102,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.89
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-03-31 · OpenCode · [[Changes/OpenCode/2026-03-31-2-developer-workflow-changes-in-v1-3-12-2|2 Developer Workflow changes in v1.3.12 + 2]]
-- Later: 2026-04-01 · Gemini CLI · [[Changes/Gemini CLI/2026-04-01-3-developer-workflow-changes-in-v0-36-0|3 Developer Workflow changes in v0.36.0]]
+- Later: 2026-04-01 · Devin · [[Changes/Devin/2026-04-01-pr-resuming|PR Resuming]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

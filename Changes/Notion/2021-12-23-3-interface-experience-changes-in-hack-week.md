@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a4b961619e7684e36425916cd0e7cadbeceeec5cd956608ac7a53fccd84685f1
+machine_hash: 22c6456889c208711e623eb4c4ac72cd4b59e7decfb9d54c71fb31b5704390c0
 product: notion
 product_name: Notion
 record:
@@ -49,8 +49,7 @@ record:
   title: "3 Interface Experience changes in Hack week \U0001F469\U0001F3FC\U0001F4BB\U0001F468\U0001F3FF\U0001F4BB\U0001F9D1\U0001F3FD\U0001F4BB"
   type: change
 related_changes:
-- '[[Changes/Notion/2021-11-16-the-slash-command-dropdown-menu-now-returns-more-relevant-results-i-e-table-disp|The
-  slash command dropdown menu now returns more relevant results…]]'
+- '[[Changes/Raycast/2021-11-30-new-onboarding-experience|New Onboarding Experience]]'
 - '[[Changes/Synthesia/2021-12-14-you-can-now-use-color-picker-to-match-the-colors-on-your-video-slides|Color
   picker]]'
 - '[[Changes/Notion/2021-12-23-add-background-colors-to-simple-table-rows-columns|Add
@@ -99,7 +98,7 @@ Source: https://www.notion.com/releases/2021-12-23
 ## Nearby in Interface Experience
 
 - Earlier: 2021-12-14 · Synthesia · [[Changes/Synthesia/2021-12-14-you-can-now-use-color-picker-to-match-the-colors-on-your-video-slides|Color picker]]
-- Later: 2022-01-19 · Notion · [[Changes/Notion/2022-01-19-customize-which-page-opens-first-when-you-launch-notion|Customize which page opens first when you launch Notion]]
+- Later: 2022-01-12 · Raycast · [[Changes/Raycast/2022-01-12-quick-search|Quick Search]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

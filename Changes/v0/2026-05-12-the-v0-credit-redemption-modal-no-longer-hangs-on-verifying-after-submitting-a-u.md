@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 09a112e2b118d223d80265b0e0810f2891e1bdff2ad99e9b0a561074b066b1eb
+machine_hash: b9ce143ab336727f491159003cab2343d223a4cc0a11b8e4a507844636a9cfd0
 product: v0
 product_name: v0
 record:
@@ -45,7 +45,8 @@ record:
   title: The v0 credit redemption modal no longer hangs on "Verifying" after submitting…
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-05-06-devin-review-quick-review|Devin Review & Quick Review]]'
+- '[[Changes/Raycast/2026-05-08-bring-your-own-key-connect-your-own-api-key-from-anthropic-google-or-openai-to-u|Bring
+  Your Own Key]]'
 - '[[Changes/Cursor/2026-05-11-customers-must-be-on-usage-based-billing-for-bugbot-to-customize-effort-levels-l|Customers
   must be on usage-based billing for Bugbot to customize effort levels]]'
 - '[[Changes/Dify/2026-05-12-refactor-web-migrate-subscription-create-modal-to-dialog-by-lyzno1-in-https-gith|refactor(web):

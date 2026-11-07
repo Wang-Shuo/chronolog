@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d1d67752e9dc4dab9d0efc8e6a18e908c7ccff6b4caa5ea7dbdaac626f2c551f
+machine_hash: 40e342132f27a4c9e54d544793a942d7019924e1c335158454594c69809d0ca9
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -87,7 +87,7 @@ type: change
 ## Nearby in Account and Access
 
 - Earlier: 2025-06-25 · Dify · [[Changes/Dify/2025-06-25-3-account-and-access-changes-in-1-5-0|3 Account and Access changes in 1.5.0]]
-- Later: 2025-07-11 · Gemini CLI · [[Changes/Gemini CLI/2025-07-11-add-no-browser-environment-variable-to-trigger-offline-oauth-flow-by-sethtroisi|Add NO_BROWSER environment variable to trigger offline oauth flow]]
+- Later: 2025-07-02 · Raycast · [[Changes/Raycast/2025-07-02-login-support-for-2fa|Login: Support for 2FA]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

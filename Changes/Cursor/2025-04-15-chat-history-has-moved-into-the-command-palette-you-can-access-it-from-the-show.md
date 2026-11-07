@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 0ace023a449d412b3ffcb05b7f408e43ac77caadc7cde1d78827a82d6a800ca2
+machine_hash: b84d9ddcd326fcb23866cdabb061df4f788659f2b410353c42eb81a16542e299
 product: cursor
 product_name: Cursor
 record:
@@ -46,7 +46,8 @@ record:
   title: More accessible history
   type: change
 related_changes:
-- '[[Changes/Aider/2025-04-04-https-aider-chat-history-html|(source link)]]'
+- '[[Changes/Superwhisper/2025-04-04-full-screen-support-stability-improvements|Full-screen
+  Support & Stability Improvements]]'
 - '[[Changes/Cline/2025-04-09-add-cmd-keyboard-shortcut-to-add-selected-text-to-cline|Add
   CMD+'' keyboard shortcut to add selected text to Cline]]'
 - "[[Changes/Open WebUI/2025-04-13-translation-updates-across-multiple-languages-refined-catalan-russian-chinese-si|\U0001F30D

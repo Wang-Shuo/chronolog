@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 21163907476a2d9467167ddcdb679f1c0989eb1730268de540c23fe22002ce01
+machine_hash: f40a175acdeedec700ace2084aa2e1df6cbcc80659451ce96f18f63dbffa4273
 product: midjourney
 product_name: Midjourney
 record:
@@ -47,11 +47,10 @@ record:
   title: We also need your help figuring out how to price this release!
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-05-15-introducing-unified-request-based-pricing-max-mode-for-all-top-models-and-backgr|Introducing
-  unified request-based pricing, Max Mode for all top models…]]'
-- '[[Changes/ElevenLabs/2025-05-19-billing|Billing]]'
 - '[[Changes/Gemini/2025-05-20-get-more-from-the-gemini-app-with-the-google-ai-pro-subscription|Get
   more from the Gemini app with the Google AI Pro subscription]]'
+- '[[Changes/Recraft/2025-05-22-cost-per-generation|Cost per generation]]'
+- '[[Changes/Raycast/2025-06-11-bring-your-own-key|Bring Your Own Key]]'
 source_release: '[[Releases/Midjourney/midjourney-2025-06-16-https-updates-midjourney-com-real-video-ranking-17b59fd1|midjourney-2025-06-16-https-updates-midjourney-com-real-video-ranking-17b59fd1]]'
 source_type: midjourney_changelog
 theme: pricing-model
@@ -84,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2025-05-20 · Gemini · [[Changes/Gemini/2025-05-20-get-more-from-the-gemini-app-with-the-google-ai-pro-subscription|Get more from the Gemini app with the Google AI Pro subscription]]
+- Earlier: 2025-06-11 · Raycast · [[Changes/Raycast/2025-06-11-bring-your-own-key|Bring Your Own Key]]
 - Later: 2025-06-16 · Midjourney · [[Changes/Midjourney/2025-06-16-we-re-doing-another-pricing-survey-today|We're doing another pricing survey today.]]
 <!-- chronolog:end -->
 

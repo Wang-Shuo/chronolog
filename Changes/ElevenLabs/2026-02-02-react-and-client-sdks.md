@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: e1aaff07460f3eefcf6091b3c4259e73c90aba3bc6a0de46272c9e969f03ac70
+machine_hash: 69ace12918a61a3c6a03882f71b1f64acd9a2d6a06d2c87bb2d108d3ef5e3b66
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -119,7 +119,7 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2026-01-26 · HeyGen · [[Changes/HeyGen/2026-01-26-blueprint-first-creation-see-your-full-video-plan-before-anything-renders-avatar|Blueprint-first creation See your full video plan before anything renders—avatar…]]
-- Later: 2026-02-06 · HeyGen · [[Changes/HeyGen/2026-02-06-5-audio-translation-is-now-unlimited|Audio translation is now unlimited]]
+- Later: 2026-02-04 · Raycast · [[Changes/Raycast/2026-02-04-voice-transcription-now-filters-out-silence|Voice : Transcription now filters out silence]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

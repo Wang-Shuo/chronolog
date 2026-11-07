@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: bdb4396b7b5667334bdf6182f68c19212e9a4ffad2abbe7448e08f6a7972f659
+machine_hash: c9542698440a276729ba5a3adcba00a7778ecf73bfa5780386dca18c60fd5dc9
 product: cline
 product_name: Cline
 record:
@@ -95,7 +95,7 @@ Source: https://github.com/cline/cline/releases/tag/v3.35.0
 ## Nearby in Model Support
 
 - Earlier: 2025-10-30 · Ollama · [[Changes/Ollama/2025-10-30-ollama-will-now-stop-running-a-model-before-removing-it-via-ollama-rm|Ollama will now stop running a model before removing it via ollama rm]]
-- Later: 2025-11-03 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-11-03-2-model-support-changes-in-v0-0-354|2 Model Support changes in v0.0.354]]
+- Later: 2025-10-31 · Raycast · [[Changes/Raycast/2025-10-31-2-model-support-changes-in-raycast-ios-1-1-2|2 Model Support changes in Raycast ios 1.1.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

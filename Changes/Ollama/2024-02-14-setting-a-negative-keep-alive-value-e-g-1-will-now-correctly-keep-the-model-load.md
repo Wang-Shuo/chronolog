@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 3b1265e7ab9b6e71e607855e5b7ef2c858affec92164be43744191a893a7bb8d
+machine_hash: 666793712df8950fb338e455f43af57eb5393a19fb5c08e29b03053fa5ba03a6
 product: ollama
 product_name: Ollama
 record:
@@ -82,7 +82,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2024-02-10 · Aider · [[Changes/Aider/2024-02-10-default-gpt-3-5-model-is-now-gpt-3-5-turbo-0125|Default GPT 3.5 model is now gpt-3.5-turbo-0125]]
-- Later: 2024-02-21 · Ollama · [[Changes/Ollama/2024-02-21-support-for-bert-and-nomic-bert-embedding-models|Support for bert and nomic-bert embedding models]]
+- Later: 2024-02-20 · Superwhisper · [[Changes/Superwhisper/2024-02-20-cloud-language-model-added-claude-instant-1-2|Cloud language model added (Claude Instant 1.2)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

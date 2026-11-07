@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 4fc4da2aad9f2c8897b8c5e10c45d6463e31daa5979f3339c204d901f71d9cdc
+machine_hash: 7d9ac3994de4339fb00bfe8a5d15da86bfa99b209a053a8c4b277c3a21546ea9
 product: lovable
 product_name: Lovable
 record:
@@ -45,12 +45,12 @@ record:
   title: Empty project groups no longer show in the sidebar
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-08-31-3-interface-experience-changes-in-v0-11-2|3 Interface
-  Experience changes in v0.11.2]]'
 - '[[Changes/Claude Code/2026-09-01-2-interface-experience-changes-in-v2-1-257|2 Interface
   Experience changes in v2.1.257]]'
 - '[[Changes/Codex CLI/2026-09-01-3-interface-experience-changes-in-rust-v0-152-0|3
   Interface Experience changes in rust-v0.152.0]]'
+- '[[Changes/Krea/2026-09-01-open-docs-pages-in-chatgpt-claude-or-perplexity|Open
+  docs pages in ChatGPT, Claude, or Perplexity]]'
 source_release: '[[Releases/Lovable/lovable-2026-09-01-2026-09-01-13cb07e2|lovable-2026-09-01-2026-09-01-13cb07e2]]'
 source_type: lovable_changelog
 theme: interface-experience
@@ -81,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-09-01 · Codex CLI · [[Changes/Codex CLI/2026-09-01-3-interface-experience-changes-in-rust-v0-152-0|3 Interface Experience changes in rust-v0.152.0]]
+- Earlier: 2026-09-01 · Krea · [[Changes/Krea/2026-09-01-open-docs-pages-in-chatgpt-claude-or-perplexity|Open docs pages in ChatGPT, Claude, or Perplexity]]
 - Later: 2026-09-01 · OpenClaw · [[Changes/OpenClaw/2026-09-01-3-interface-experience-changes-in-v2026-8-2|3 Interface Experience changes in v2026.8.2]]
 <!-- chronolog:end -->
 

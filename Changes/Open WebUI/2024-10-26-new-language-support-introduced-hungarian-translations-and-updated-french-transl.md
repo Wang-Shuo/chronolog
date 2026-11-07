@@ -4,20 +4,20 @@ date: '2024-10-26'
 description: "Open WebUI · 2024-10-26 · Accessibility and Localization: **\U0001F30D
   New Language Support**: Introduced Hungarian translations and updated French translations…"
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-09-11-chatgpt-now-supports-a-limited-selection-of-languages-in-the-interface|ChatGPT
-    now supports a limited selection of languages in the interface]]'
+  first_in_tracked: '[[Changes/Raycast/2020-11-19-improved-searching-for-localized-application-and-preference-names|Improved
+    searching for localized application and preference names]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 411
+  lag_days: 1437
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: accessibility-localization
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 7c52ddb8a384e23c51eb098a26815de798512883f9223f38b5b0465ae3b4276b
+machine_hash: 8d34a4b1dc6ce594094eb06a97e9bd582c746d7139e42d400b73d586d49d86c4
 product: open-webui
 product_name: Open WebUI
 record:
@@ -46,12 +46,12 @@ record:
   title: "**\U0001F30D New Language Support**"
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2024-09-19-i18n-updates-enhanced-translations-for-chinese-ukrainian-russian-and-french-fost|\U0001F30D
-  i18n Updates]]"
 - '[[Changes/Dify/2024-09-30-added-english-versions-for-customizable-model-scale-documentation-to-broaden-acc|Added
   English versions for customizable model scale documentation to broaden…]]'
 - "[[Changes/Open WebUI/2024-10-07-enhanced-accessibility-for-floating-buttons-implemented-the-ability-to-close-flo|\U0001F527
   Enhanced Accessibility for Floating Buttons]]"
+- '[[Changes/LM Studio/2024-10-22-2-accessibility-and-localization-changes-in-lm-studio-0-3-5|2
+  Accessibility and Localization changes in LM Studio 0.3.5]]'
 source_release: '[[Releases/Open WebUI/open-webui-2024-10-26-v0-3-35-github-182094418-98702ef0|open-webui-2024-10-26-v0-3-35-github-182094418-98702ef0]]'
 source_type: github_releases
 theme: accessibility-localization
@@ -83,14 +83,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Accessibility and Localization
 
-- Earlier: 2024-10-07 · Open WebUI · [[Changes/Open WebUI/2024-10-07-enhanced-accessibility-for-floating-buttons-implemented-the-ability-to-close-flo|🔧 Enhanced Accessibility for Floating Buttons]]
+- Earlier: 2024-10-22 · LM Studio · [[Changes/LM Studio/2024-10-22-2-accessibility-and-localization-changes-in-lm-studio-0-3-5|2 Accessibility and Localization changes in LM Studio 0.3.5]]
 - Later: 2024-10-26 · Open WebUI · [[Changes/Open WebUI/2024-10-26-globalization-enhancements-updates-to-internationalization-i18n-support-further|🌐 Globalization Enhancements]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-11 · ChatGPT · [[Changes/ChatGPT/2023-09-11-chatgpt-now-supports-a-limited-selection-of-languages-in-the-interface|ChatGPT now supports a limited selection of languages in the interface]]
+- Earliest same-theme entry in the tracked set: 2020-11-19 · Raycast · [[Changes/Raycast/2020-11-19-improved-searching-for-localized-application-and-preference-names|Improved searching for localized application and preference names]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

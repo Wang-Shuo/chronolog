@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6f0c97a0f82768de6bdb5043f292a8e8f63c78df3a9286ccc72aa19230302063
+machine_hash: 20febc2e04f760fafb9f9d3b8e4528f18da8e5bf05d1922fab574dcb3adfd45b
 product: cursor
 product_name: Cursor
 record:
@@ -48,8 +48,8 @@ record:
   title: 3 Interface Experience changes in 3.4
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-05-12-test-evals-add-behavioral-eval-for-file-creation-and-write-file-tool-selection-b|test(evals):
-  add behavioral eval for file creation and write_file tool selection]]'
+- '[[Changes/Raycast/2026-05-12-extensions-improved-affordance-of-tag-picker-component|Extensions
+  : Improved affordance of tag picker component]]'
 - '[[Changes/Claude Code/2026-05-13-2-interface-experience-changes-in-v2-1-141|2 Interface
   Experience changes in v2.1.141]]'
 - '[[Changes/Cline/2026-05-13-show-a-clear-searching-state-in-the-mention-file-picker|Show
@@ -95,7 +95,7 @@ Source: https://cursor.com/changelog/3-4
 ## Nearby in Interface Experience
 
 - Earlier: 2026-05-13 · Cline · [[Changes/Cline/2026-05-13-show-a-clear-searching-state-in-the-mention-file-picker|Show a clear "Searching..." state in the @-mention file picker]]
-- Later: 2026-05-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-13-support-j-k-keys-for-up-down-navigation-in-the-diff-view|Support j/k keys for up/down navigation in the /diff view]]
+- Later: 2026-05-13 · Devin · [[Changes/Devin/2026-05-13-snapshot-build-delete|Snapshot Build Delete]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: c0629f958b76061f783b6320ce5701f4717750b665d3acc4acb5101f7d3a61ce
+machine_hash: c2e386af8c1677e60c375fa6176c7034cf37738f430c4d0cca8990de104a6bf7
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -56,8 +56,8 @@ record:
   title: 'Enterprise sign-in: Gemini Enterprise accounts and Workforce Identity Federation'
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-07-30-desktop-hide-the-model-variant-selector-until-model-data-finishes-loading|Desktop
-  Hide the model variant selector until model data finishes loading]]'
+- '[[Changes/Superwhisper/2026-07-30-3-model-support-changes-in-superwhisper-windows-1-5-8|3
+  Model Support changes in Superwhisper Windows 1.5.8]]'
 - '[[Changes/Cline/2026-07-31-legacy-bundle-legacy-extension-3fdc186f1-4-0-12-free-model-button-wording|Legacy
   bundle: legacy-extension @ 3fdc186f1 (4.0.12 + free-model button wording)]]'
 - '[[Changes/DeepSeek API/2026-07-31-deepseek-v4-flash-update|DeepSeek-V4-Flash Update]]'

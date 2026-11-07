@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 007b6c822c2df86ae309f34d57f067aedb5fa081ef623315d0b09189338b5387
+machine_hash: 6345c529acf9a2fa7ac3ec58006dd1145ceaba4971f065945e35ab9f7f27dc19
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -43,8 +43,8 @@ record:
   title: Reorganize the web app's components into area subdirectories…
   type: change
 related_changes:
-- '[[Changes/v0/2026-06-19-on-mobile-an-expired-session-while-sending-opens-the-re-authenticate-flow-instea|On
-  mobile, an expired session while sending opens the re-authenticate flow instead…]]'
+- '[[Changes/AnythingLLM/2026-06-22-just-some-small-patches-for-the-upcoming-1-15-0-2-0-0-preview-initial-release-fo|Just
+  some small patches for the upcoming 1.15.0 / 2.0.0-preview initial release…]]'
 - '[[Changes/Codex CLI/2026-06-22-28791-bazel-refresh-expired-macos-sdk-pin-anp-oai|♯28791
   bazel: refresh expired macOS SDK pin @anp-oai]]'
 - '[[Changes/Windsurf/2026-06-23-devin-desktop|Devin Desktop]]'

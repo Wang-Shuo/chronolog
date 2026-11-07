@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 85b3e2706ba51bf29e90403749fccad25e32e4bd611788b8058370a06c388b08
+machine_hash: f49f30a0c53efd2adabab757e9ef14620a0e0c1639af2a43a8b55f4ea5c37b57
 product: dify
 product_name: Dify
 record:
@@ -90,7 +90,7 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2025-09-19 · Replit · [[Changes/Replit/2025-09-19-deploy-is-now-publish|'Deploy' is now 'Publish']]
-- Later: 2025-09-23 · Codex CLI · [[Changes/Codex CLI/2025-09-23-3878-move-responses-mocking-helpers-to-a-shared-lib-3878|♯3878 Move responses mocking helpers to a shared lib (♯3878)]]
+- Later: 2025-09-22 · Recraft · [[Changes/Recraft/2025-09-22-we-ve-launched-a-substack-to-share-practical-ai-tutorials-design-best-practices|Recraft is now on Substack: Follow for creative tips and inspiration]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

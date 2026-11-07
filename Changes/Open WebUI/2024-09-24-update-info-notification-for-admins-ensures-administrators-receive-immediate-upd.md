@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 19b154a394d3b0ea3aa6c494a4d3702d718a14d901515cfd6b02de993954a508
+machine_hash: 9fba5b00bb88876b1f0a58f4842bb84f8357481c79ed6369021be195e5c97ef1
 product: open-webui
 product_name: Open WebUI
 record:
@@ -97,7 +97,7 @@ type: change
 ## Nearby in Account and Access
 
 - Earlier: 2024-09-21 · Open WebUI · [[Changes/Open WebUI/2024-09-21-downgrade-authlib-reverted-authlib-to-version-1-3-1-to-address-and-resolve-issue|🔓 Downgrade Authlib]]
-- Later: 2024-10-21 · Dify · [[Changes/Dify/2024-10-21-2-account-and-access-changes-in-0-10-0|2 Account and Access changes in 0.10.0]]
+- Later: 2024-10-10 · Devin · [[Changes/Devin/2024-10-10-we-ve-migrated-our-authentication-system-to-auth0|We've migrated our authentication system to Auth0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

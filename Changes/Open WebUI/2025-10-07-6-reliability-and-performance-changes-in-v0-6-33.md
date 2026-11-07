@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 612b69c87a85df768740ee8b09dd4e35c981cf8c24e86e52e20b6cc67e6a89f0
+machine_hash: 99ba0c645ec49930a956d92735fa8f08dddf2d46b39ffdec4cf9049b6b6cf258
 product: open-webui
 product_name: Open WebUI
 record:
@@ -60,8 +60,8 @@ record:
   title: 6 Reliability and Performance changes in v0.6.33
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-10-01-2-reliability-and-performance-changes-in-v0-7-0|2
-  Reliability and Performance changes in v0.7.0]]'
+- '[[Changes/Devin/2025-10-03-ongoing-stability-improvements-and-bug-fixes|Ongoing
+  stability improvements and bug fixes]]'
 - '[[Changes/Lovable/2025-10-06-updated-community-resources|Updated community resources]]'
 - '[[Changes/Gemini CLI/2025-10-07-part-3-6-feat-telemetry-enhance-metrics-with-performance-monitoring-apis-by-elyi|Part
   3/6 feat(telemetry): enhance metrics with performance monitoring APIs]]'
@@ -116,7 +116,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.6.33
 ## Nearby in Reliability and Performance
 
 - Earlier: 2025-10-07 · Gemini CLI · [[Changes/Gemini CLI/2025-10-07-part-3-6-feat-telemetry-enhance-metrics-with-performance-monitoring-apis-by-elyi|Part 3/6 feat(telemetry): enhance metrics with performance monitoring APIs]]
-- Later: 2025-10-10 · Replit · [[Changes/Replit/2025-10-10-github-import-improvements|GitHub import improvements]]
+- Later: 2025-10-08 · Superwhisper · [[Changes/Superwhisper/2025-10-08-more-stability-improvements|More stability improvements]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

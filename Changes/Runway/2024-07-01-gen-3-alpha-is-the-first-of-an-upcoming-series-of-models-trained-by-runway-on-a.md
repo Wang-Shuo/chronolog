@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 51ac5b4f52f17fddfaae1e03de059a585f18c6f88a91b7e33c280494cbb64dfe
+machine_hash: 5e17f3bbc1210da6c8ee6625ca6f40ee1260250977bec321f49e0fb17d7be24a
 product: runway
 product_name: Runway
 record:
@@ -57,11 +57,11 @@ record:
   title: Gen-3 Alpha Text to Video
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2024-05-02-youtube-rag-pipeline-introduces-dedicated-rag-pipeline-for-youtube-videos-enabli|\U0001F4F9
-  Youtube RAG Pipeline]]"
-- '[[Changes/Descript/2024-06-04-import-media-from-a-youtube-and-giphy|Import media
-  from a YouTube and GIPHY]]'
 - '[[Changes/Descript/2024-06-04-media|Media]]'
+- '[[Changes/Superwhisper/2024-06-06-new-super-mode-experimental-still-see-launch-video|New
+  Super mode (experimental still - see launch video)]]'
+- '[[Changes/Raycast/2024-06-19-calendar-you-can-now-join-facetime-and-chorus-ai-video-meetings-right-from-rayca|Calendar:
+  You can now join FaceTime and chorus.ai video meetings right from Raycast]]'
 source_release: '[[Releases/Runway/runway-2024-07-01-2024-07-01-gen-3-alpha-text-to-video-e16db971|runway-2024-07-01-2024-07-01-gen-3-alpha-text-to-video-e16db971]]'
 source_type: runway_changelog
 theme: multimodal
@@ -88,8 +88,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Multimodal Input
 
-- Earlier: 2024-06-04 · Descript · [[Changes/Descript/2024-06-04-media|Media]]
-- Later: 2024-08-14 · Descript · [[Changes/Descript/2024-08-14-regenerate-with-sequences|Regenerate with Sequences]]
+- Earlier: 2024-06-19 · Raycast · [[Changes/Raycast/2024-06-19-calendar-you-can-now-join-facetime-and-chorus-ai-video-meetings-right-from-rayca|Calendar: You can now join FaceTime and chorus.ai video meetings right from Raycast]]
+- Later: 2024-07-31 · Raycast · [[Changes/Raycast/2024-07-31-auto-quit-apps-will-not-be-automatically-terminated-while-actively-playing-music|Auto Quit: Apps will not be automatically terminated while actively playing music…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

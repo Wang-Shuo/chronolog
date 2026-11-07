@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 3dcc0778d3b77b210442f9622ee48161bd0f37ec12951aa10f03275494bf05a1
+machine_hash: 8739198994ce9b5ef197d3a8722563a04d21782d1f4b64eab5b955e71fab8621
 product: qoder
 product_name: Qoder
 record:

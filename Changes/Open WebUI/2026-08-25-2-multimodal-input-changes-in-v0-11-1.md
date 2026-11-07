@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1d5e402b0654f4b0108a357f7588a6c1ed02610b38ba23a379e50c5c2bc042f3
+machine_hash: e630bc7f9cda6d3d0cfee861b0caf5fe30ad7a42777814b3e6b8b716bcead787
 product: open-webui
 product_name: Open WebUI
 record:
@@ -49,9 +49,10 @@ record:
   title: 2 Multimodal Input changes in v0.11.1
   type: change
 related_changes:
-- '[[Changes/HeyGen/2026-08-20-why-it-matters|Why it matters]]'
 - '[[Changes/DeepSeek API/2026-08-21-deepseek-v4-flash-vision-exp-release|DeepSeek-V4-Flash-Vision-Exp
   Release]]'
+- '[[Changes/Recraft/2026-08-21-create-for-starting-from-scratch-or-working-with-references-including-ai-editing|Create,
+  for starting from scratch or working with references, including AI…]]'
 - '[[Changes/Dify/2026-08-25-3-multimodal-input-changes-in-1-17-0|3 Multimodal Input
   changes in 1.17.0]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-08-25-v0-11-1-github-376725636-ce7e3a4c|open-webui-2026-08-25-v0-11-1-github-376725636-ce7e3a4c]]'
@@ -108,7 +109,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.11.1
 ## Nearby in Multimodal Input
 
 - Earlier: 2026-08-25 · Dify · [[Changes/Dify/2026-08-25-3-multimodal-input-changes-in-1-17-0|3 Multimodal Input changes in 1.17.0]]
-- Later: 2026-08-28 · Runway · [[Changes/Runway/2026-08-28-runway-mcp-now-supports-upgrading-your-video-content-to-hdr-wherever-your-agents|HDR Video Conversion on Runway MCP]]
+- Later: 2026-08-27 · Krea · [[Changes/Krea/2026-08-27-seedance-studio|Seedance Studio]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

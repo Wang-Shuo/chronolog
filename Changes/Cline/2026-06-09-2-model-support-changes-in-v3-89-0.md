@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8a68d6a698e43efc10536abb2ff7ac36f1716c892bcdcf9fc8984d6539bf6eb7
+machine_hash: 97be9182dddd6d0ffd016b3fd88b3ecc40e27d5a82b9f476adcfe1fad2d41fcc
 product: cline
 product_name: Cline
 record:
@@ -42,8 +42,8 @@ record:
   title: 2 Model Support changes in v3.89.0
   type: change
 related_changes:
-- '[[Changes/v0/2026-06-08-v0-max-now-runs-on-claude-opus-4-8-and-max-fast-on-opus-4-8-fast-at-about-a-thir|v0
-  Max now runs on Claude Opus 4.8, and Max Fast on Opus 4.8 Fast at about a third…]]'
+- '[[Changes/AnythingLLM/2026-06-09-4-model-support-changes-in-v1-14-0|4 Model Support
+  changes in v1.14.0]]'
 - '[[Changes/Claude/2026-06-09-claude-fable-5-launch|Claude Fable 5 launch]]'
 - '[[Changes/Claude Code/2026-06-09-introducing-claude-fable-5-a-mythos-class-model-that-we-ve-made-safe-for-general|Introducing
   Claude Fable 5: a Mythos-class model that we’ve made safe for general use]]'

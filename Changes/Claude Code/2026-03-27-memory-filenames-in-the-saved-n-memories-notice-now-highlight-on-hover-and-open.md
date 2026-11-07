@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4346de5c1e9d9773749751b0dc87aafa9ff6d6a214bd96d4f63e90c24dda10b3
+machine_hash: 2419ece3a234c043e97024f4ca95b4d8a72a9fa112a7b97c1ba873fb457c1836
 product: claude-code
 product_name: Claude Code
 record:
@@ -86,7 +86,7 @@ type: change
 ## Nearby in Memory and Personalization
 
 - Earlier: 2026-03-26 · Gemini · [[Changes/Gemini/2026-03-26-make-the-switch-seamlessly-bring-your-ai-memories-and-chat-history-to-gemini|Make the switch: Seamlessly bring your AI memories and chat history to Gemini]]
-- Later: 2026-04-01 · Gemini CLI · [[Changes/Gemini CLI/2026-04-01-3-memory-and-personalization-changes-in-v0-36-0|3 Memory and Personalization changes in v0.36.0]]
+- Later: 2026-03-27 · Raycast · [[Changes/Raycast/2026-03-27-ai-chat-added-memory-to-make-chats-more-personal|AI Chat: Added memory to make chats more personal]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

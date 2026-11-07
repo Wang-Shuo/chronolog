@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 58965ddc1f6f04bf0cb1c19e5014a7ec970a01d117e86cb80275d0fc772fd066
+machine_hash: 04fdbc84feee3c766d7d95ab4e9288cf9ea52cf6f4933061895e23894b3e078a
 product: dify
 product_name: Dify
 record:
@@ -101,7 +101,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.19.0
 ## Nearby in Voice and Audio
 
 - Earlier: 2026-11-03 · OpenClaw · [[Changes/OpenClaw/2026-11-03-6-voice-and-audio-changes-in-v2026-10-10|6 Voice and Audio changes in v2026.10.10]]
-- Later: 2026-11-05 · OpenClaw · [[Changes/OpenClaw/2026-11-05-7-voice-and-audio-changes-in-v2026-11-1|7 Voice and Audio changes in v2026.11.1]]
+- Later: 2026-11-04 · Raycast · [[Changes/Raycast/2026-11-04-3-voice-and-audio-changes-in-raycast-macos-2-11|3 Voice and Audio changes in Raycast macos 2.11]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

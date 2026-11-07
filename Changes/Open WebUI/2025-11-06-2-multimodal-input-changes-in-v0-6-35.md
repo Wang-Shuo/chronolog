@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: aa81e1621c5f5695c34d603c88b917a825a6a030f4d37ae498f63f86a4830652
+machine_hash: a9f0582af061d5474029d55cb8c1d1f5ad82737f815bba8a3935d2fdbc53fc1e
 product: open-webui
 product_name: Open WebUI
 record:
@@ -46,11 +46,10 @@ record:
   title: 2 Multimodal Input changes in v0.6.35
   type: change
 related_changes:
-- '[[Changes/Synthesia/2025-09-26-time-for-the-next-chapter-in-our-story-synthesia-3-0-on-october-1st-our-ceo-vict|Synthesia
-  3.0: you''re invited]]'
-- '[[Changes/Midjourney/2025-10-06-we-bumped-up-the-number-of-styles-in-the-style-explorer-and-the-style-search-fea|10x
-  more styles]]'
+- '[[Changes/AnythingLLM/2025-10-09-video-src-https-github-com-user-attachments-assets-fbbfab37-e1b0-442b-b7d4-277aa|video…]]'
 - '[[Changes/Descript/2025-10-14-changing-camera-angles|Changing camera angles]]'
+- '[[Changes/LM Studio/2025-11-04-2-multimodal-input-changes-in-lm-studio-0-3-31|2
+  Multimodal Input changes in LM Studio 0.3.31]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-11-06-v0-6-35-github-260376122-7fa65234|open-webui-2025-11-06-v0-6-35-github-260376122-7fa65234]]'
 source_type: github_releases
 theme: multimodal
@@ -100,7 +99,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.6.35
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Multimodal Input
 
-- Earlier: 2025-10-14 · Descript · [[Changes/Descript/2025-10-14-changing-camera-angles|Changing camera angles]]
+- Earlier: 2025-11-04 · LM Studio · [[Changes/LM Studio/2025-11-04-2-multimodal-input-changes-in-lm-studio-0-3-31|2 Multimodal Input changes in LM Studio 0.3.31]]
 - Later: 2025-11-21 · Descript · [[Changes/Descript/2025-11-21-extend-video-with-ai|Extend video with AI]]
 <!-- chronolog:end -->
 

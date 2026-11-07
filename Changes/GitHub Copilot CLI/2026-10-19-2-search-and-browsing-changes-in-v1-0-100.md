@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 540587aaeeb1978c4665381f335fdbfecb8ca32281d3a0a61aab23341fb8dfb5
+machine_hash: 2b88698d19f39c472222fad932d8694a6af23721bafca8c36e085faee00b14c1
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,8 +45,8 @@ record:
   title: 2 Search and Browsing changes in v1.0.100
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2026-10-16-built-in-tools-with-a-custom-tools-parameter-a-model-with-a-custom-parameter-nam|\U0001F9E9
-  Built-in tools with a custom tools parameter. A model with a custom parameter…]]"
+- '[[Changes/Raycast/2026-10-16-ai-skills-browse-installed-extension-skills-in-ai-settings-8d0d0e|AI
+  Skills : Browse installed extension skills in AI settings]]'
 - '[[Changes/Replit/2026-10-16-find-a-replit-solutions-partner|Find a Replit Solutions
   Partner]]'
 - '[[Changes/DeepSeek API/2026-10-17-opening-up-the-in-house-search-api|Opening up

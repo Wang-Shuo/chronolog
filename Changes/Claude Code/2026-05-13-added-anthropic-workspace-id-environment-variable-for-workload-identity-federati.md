@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 767f4fa07454f58b1f77c8f0d8ac6309192b0a49ff8721649c60a23c42171e2e
+machine_hash: 44d33891846f8498d27a5d905c3a4bf54cd967ff917759e9c32391aa2d67e88c
 product: claude-code
 product_name: Claude Code
 record:
@@ -91,7 +91,7 @@ type: change
 ## Nearby in Enterprise and Administration
 
 - Earlier: 2026-05-12 · Dify · [[Changes/Dify/2026-05-12-2-enterprise-and-administration-changes-in-1-14-1|2 Enterprise and Administration changes in 1.14.1]]
-- Later: 2026-05-15 · Replit · [[Changes/Replit/2026-05-15-buy-enterprise-online-with-automated-sso-setup|Buy Enterprise online with automated SSO setup]]
+- Later: 2026-05-13 · Devin · [[Changes/Devin/2026-05-13-enterprise-member-invite-acknowledgement|Enterprise Member Invite Acknowledgement]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

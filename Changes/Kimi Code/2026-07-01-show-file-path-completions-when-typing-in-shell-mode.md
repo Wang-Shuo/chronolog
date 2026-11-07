@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 358b1b84a8e8c9855ada55ace163833d89ade8a8ccf608f451466bc73ab235e9
+machine_hash: 54db8a2b6cf59d6be6ddef8b5773ce7f402143d83127bb452983488ac2fd58bf
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -43,10 +43,10 @@ record:
   title: Show file path completions when typing `/` in shell mode (`!`)
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-06-30-2-developer-workflow-changes-in-v1-17-12|2 Developer
-  Workflow changes in v1.17.12]]'
 - '[[Changes/Claude Code/2026-07-01-background-agents-launched-from-claude-agents-now-commit-push-and-open-a-draft-p|Background
   agents launched from claude agents now commit, push, and open a draft…]]'
+- '[[Changes/Devin/2026-07-01-auto-review-scoped-to-your-prs|Auto-Review Scoped to
+  Your PRs]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-01-6-developer-workflow-changes-in-v1-0-68|6
   Developer Workflow changes in v1.0.68]]'
 source_release: '[[Releases/Kimi Code/kimi-code-2026-07-01-0-21-0-c7d001d2|kimi-code-2026-07-01-0-21-0-c7d001d2]]'

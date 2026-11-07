@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ec4b5810c88d8d22c87f9dab8e22e843f2d099ba3b1d0a2e4f5367341eb2fb2c
+machine_hash: 06e683912e4d1492c5e865f23a1cfe7a69dc7ab6dca0128f7dc8b322cceb2352
 product: dify
 product_name: Dify
 record:
@@ -112,8 +112,8 @@ record:
   title: 27 Apps and Integrations changes in 1.15.0
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-06-24-9-apps-and-integrations-changes-in-v1-17-10|9 Apps
-  and Integrations changes in v1.17.10]]'
+- '[[Changes/Raycast/2026-06-24-mcp-add-support-for-cimd-c00169|MCP : Add support
+  for CIMD]]'
 - '[[Changes/Claude Code/2026-06-25-2-apps-and-integrations-changes-in-v2-1-193|2
   Apps and Integrations changes in v2.1.193]]'
 - '[[Changes/Codex CLI/2026-06-25-9-apps-and-integrations-changes-in-rust-v0-142-2|9

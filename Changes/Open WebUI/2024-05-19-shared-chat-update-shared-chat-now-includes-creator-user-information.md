@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9cb20913112d814ed9eb5ee19dd3a3126a00250c3a3f9869e0608266ed263e74
+machine_hash: b262130dd56a24cfe461b98aa25145ee5dd06a51b34a2d2903d2786a185119c3
 product: open-webui
 product_name: Open WebUI
 record:
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2024-04-21 · Open WebUI · [[Changes/Open WebUI/2024-04-21-share-link-copy-button-fixed-bug-where-the-copy-button-wasn-t-copying-links-in-s|🔗 Share Link Copy Button]]
-- Later: 2024-05-30 · Suno · [[Changes/Suno/2024-05-30-thanks-as-always-for-your-support-heart-team-suno|Thanks, as always, for your support]]
+- Later: 2024-05-29 · Devin · [[Changes/Devin/2024-05-29-playbooks-library|Playbooks Library]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

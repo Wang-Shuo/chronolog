@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: abb804586f50d955a57e5e829b9f7810ada9005d5583b21d9adb097bc5fc33ea
+machine_hash: d87cd8fff74a95f6d96b64753ae6af88fd6f1462708d81a815677193279e741c
 product: notion
 product_name: Notion
 record:
@@ -55,8 +55,8 @@ record:
     tools…
   type: change
 related_changes:
-- '[[Changes/Dify/2026-07-17-2-automation-and-scheduling-changes-in-1-16-0|2 Automation
-  and Scheduling changes in 1.16.0]]'
+- '[[Changes/Devin/2026-07-22-automations-consumption-visibility|Automations Consumption
+  Visibility]]'
 - '[[Changes/Gemini CLI/2026-07-22-feat-caretaker-triage-implement-main-worker-execution-loop-and-egress-action-pub|feat(caretaker-triage):
   implement main worker execution loop and egress action publisher]]'
 - '[[Changes/Kimi Code/2026-07-22-remove-references-to-the-non-existent-kimi-resume-command-from-the-scheduled-tas|Remove

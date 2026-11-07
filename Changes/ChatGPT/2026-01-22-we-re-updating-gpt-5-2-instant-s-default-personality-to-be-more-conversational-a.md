@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 47bfe623f3db7d2515567699560f13546b5ad6c42cf7d5e810d2717e4e037685
+machine_hash: d0cb29cc51d7677372d70251386d9afdbbb3ea97e1cf549544b44b4b62d2cd1b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -64,12 +64,12 @@ record:
   title: 5.2 Personality System Prompt Update
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-01-21-a-new-ollama-launch-command-to-use-ollama-s-models-with-claude-code-codex-openco|A
-  new ollama launch command to use Ollama''s models with Claude Code, Codex…]]'
 - '[[Changes/OpenCode/2026-01-21-3-model-support-changes-in-v1-1-29|3 Model Support
   changes in v1.1.29]]'
 - '[[Changes/OpenCode/2026-01-21-4-model-support-changes-in-v1-1-30|4 Model Support
   changes in v1.1.30]]'
+- '[[Changes/AnythingLLM/2026-01-22-3-model-support-changes-in-v1-10-0|3 Model Support
+  changes in v1.10.0]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-01-22-5-2-personality-system-prompt-update-efbe6e4b|chatgpt-2026-01-22-5-2-personality-system-prompt-update-efbe6e4b]]'
 source_type: chatgpt_changelog
 theme: model-support
@@ -96,7 +96,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-01-21 · OpenCode · [[Changes/OpenCode/2026-01-21-4-model-support-changes-in-v1-1-30|4 Model Support changes in v1.1.30]]
+- Earlier: 2026-01-22 · AnythingLLM · [[Changes/AnythingLLM/2026-01-22-3-model-support-changes-in-v1-10-0|3 Model Support changes in v1.10.0]]
 - Later: 2026-01-22 · Codex CLI · [[Changes/Codex CLI/2026-01-22-9597-feat-core-modelinfo-model-instructions-template-dylan-hurd-oai|♯9597 feat(core) ModelInfo.model_instructions_template @dylan-hurd-oai]]
 <!-- chronolog:end -->
 

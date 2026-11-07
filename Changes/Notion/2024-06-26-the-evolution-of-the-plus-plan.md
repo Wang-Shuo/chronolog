@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 737e221327c7dd7bfec25bb42db6682205b3c2a47053daf1435c6433d732d543
+machine_hash: b4e34bdfc717f0ba4ce0b23662da4c70fdcfda94390584ecd1bb427a864eb67a
 product: notion
 product_name: Notion
 record:
@@ -70,11 +70,11 @@ record:
   title: The evolution of the Plus plan
   type: change
 related_changes:
-- '[[Changes/Descript/2024-06-04-publish-to-google-drive|Publish to Google Drive]]'
 - '[[Changes/OpenHands/2024-06-04-2-collaboration-changes-in-0-6-1|2 Collaboration
   changes in 0.6.1]]'
 - '[[Changes/Dify/2024-06-14-note-support-add-notes-directly-into-your-workflows-to-enhance-documentation-and|Note
   Support: Add notes directly into your workflows to enhance documentation…]]'
+- '[[Changes/Raycast/2024-06-19-ai-chat-attachments|AI Chat Attachments]]'
 source_release: '[[Releases/Notion/notion-2024-06-26-https-www-notion-com-releases-2024-06-26-8fee5f63|notion-2024-06-26-https-www-notion-com-releases-2024-06-26-8fee5f63]]'
 source_type: notion_changelog
 theme: collaboration
@@ -121,7 +121,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2024-06-14 · Dify · [[Changes/Dify/2024-06-14-note-support-add-notes-directly-into-your-workflows-to-enhance-documentation-and|Note Support: Add notes directly into your workflows to enhance documentation…]]
+- Earlier: 2024-06-19 · Raycast · [[Changes/Raycast/2024-06-19-ai-chat-attachments|AI Chat Attachments]]
 - Later: 2024-06-27 · Ollama · [[Changes/Ollama/2024-06-27-a-special-thank-you-to-the-google-cloud-and-deepmind-team-members-for-gemma-2-su|A special thank you to the Google Cloud and DeepMind team members for Gemma 2 support]]
 <!-- chronolog:end -->
 

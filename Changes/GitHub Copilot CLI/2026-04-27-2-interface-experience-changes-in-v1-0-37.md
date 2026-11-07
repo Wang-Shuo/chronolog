@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 71ac8e8384d0b0fc850629c80dd80fa55812198c546894874ec692ebc9412772
+machine_hash: 69d94943a21301b967334ce776ceff55a77a12c35706090dd12ac03513781f1e
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,12 +43,12 @@ record:
   title: 2 Interface Experience changes in v1.0.37
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-04-23-desktop-keep-project-avatar-previews-consistent-between-the-sidebar-and-edit-dia|Desktop
-  Keep project avatar previews consistent between the sidebar and edit dialog]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-24-subcommand-picker-shows-a-selection-indicator-next-to-the-highlighted-item|Subcommand
   picker shows a selection indicator (❯) next to the highlighted item]]'
 - '[[Changes/Lovable/2026-04-24-dashboard-organization-and-navigation|Dashboard organization
   and navigation]]'
+- '[[Changes/Superwhisper/2026-04-24-added-onboarding-toasts-to-help-new-users-get-started|Added
+  onboarding toasts to help new users get started]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-04-27-v1-0-37-github-314304065-a4bb7d0c|github-copilot-cli-2026-04-27-v1-0-37-github-314304065-a4bb7d0c]]'
 source_type: github_releases
 theme: interface-experience
@@ -84,8 +84,8 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.37
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-04-24 · Lovable · [[Changes/Lovable/2026-04-24-dashboard-organization-and-navigation|Dashboard organization and navigation]]
-- Later: 2026-04-28 · Claude Code · [[Changes/Claude Code/2026-04-28-4-interface-experience-changes-in-v2-1-121|4 Interface Experience changes in v2.1.121]]
+- Earlier: 2026-04-24 · Superwhisper · [[Changes/Superwhisper/2026-04-24-added-onboarding-toasts-to-help-new-users-get-started|Added onboarding toasts to help new users get started]]
+- Later: 2026-04-27 · Raycast · [[Changes/Raycast/2026-04-27-emoji-picker-new-emojis-introduced-in-macos-26-4-are-available-in-the-search-emo|Emoji Picker: New emojis introduced in macOS 26.4 are available in the Search Emojis…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

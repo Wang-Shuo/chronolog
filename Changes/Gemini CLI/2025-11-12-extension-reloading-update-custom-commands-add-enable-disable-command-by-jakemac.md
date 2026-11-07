@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a7d69179eb79277b6c5b9de65ced74a579a5d846a47e87bdc6913b685a7496e6
+machine_hash: c2e699ca0edce55f2f2ef879ef46494567488f0cb931dceae30e9f3f3cd650e6
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -44,8 +44,7 @@ record:
   title: '[Extension Reloading]: Update custom commands, add enable/disable command'
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2025-11-06-3-developer-workflow-changes-in-v0-6-35|3 Developer
-  Workflow changes in v0.6.35]]'
+- '[[Changes/Devin/2025-11-07-git-commit-authoring|Git Commit Authoring]]'
 - '[[Changes/Gemini CLI/2025-11-07-5-developer-workflow-changes-in-v0-13-0|5 Developer
   Workflow changes in v0.13.0]]'
 - '[[Changes/Codex CLI/2025-11-09-4-developer-workflow-changes-in-rust-v0-57-0|4 Developer

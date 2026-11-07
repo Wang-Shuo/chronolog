@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: e2d39ba64eb025d26d15e7991dcaf327c55a6d6ad9f519aae2046a57bf7a7161
+machine_hash: 084bc14425272d23591432023e6c710fad727348f726f4a8159b2e7062f80ed9
 product: midjourney
 product_name: Midjourney
 record:
@@ -47,8 +47,8 @@ record:
   title: V7 is an amazing model
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-04-02-2-model-support-changes-in-0-31-0|2 Model Support
-  changes in 0.31.0]]'
+- '[[Changes/Recraft/2025-04-03-creativity-thrives-on-options-that-s-why-we-re-expanding-recraft-to-support-exte|Creativity
+  thrives on options]]'
 - '[[Changes/Aider/2025-04-04-4-model-support-changes-in-v0-81-0|4 Model Support changes
   in v0.81.0]]'
 - '[[Changes/Cline/2025-04-04-add-gemini-2-5-pro-preview-03-25-to-google-provider|Add

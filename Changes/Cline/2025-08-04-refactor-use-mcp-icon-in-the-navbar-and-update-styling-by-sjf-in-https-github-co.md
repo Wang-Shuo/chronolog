@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e43a20ec10e94a54512e1a8bc12798c67869f836ba99b0964100da033eef7bf0
+machine_hash: 387185001d2e2f8806241ac334a63757c2deab9d1b7a7bbbdcdceedfe9cf7ac7
 product: cline
 product_name: Cline
 record:
@@ -41,8 +41,7 @@ record:
   title: 'refactor: Use MCP icon in the navbar and update styling'
   type: change
 related_changes:
-- '[[Changes/Cline/2025-07-31-2-apps-and-integrations-changes-in-v3-20-3|2 Apps and
-  Integrations changes in v3.20.3]]'
+- '[[Changes/Devin/2025-07-31-linear-mapping-ux-improvements|Linear Mapping UX Improvements]]'
 - '[[Changes/OpenHands/2025-07-31-add-mcp-support-for-cli-by-ryanhoangt-in-https-github-com-all-hands-ai-openhands|Add
   MCP support for CLI]]'
 - '[[Changes/Gemini CLI/2025-08-02-21-apps-and-integrations-changes-in-v0-1-16|21
@@ -76,7 +75,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2025-08-02 · Gemini CLI · [[Changes/Gemini CLI/2025-08-02-21-apps-and-integrations-changes-in-v0-1-16|21 Apps and Integrations changes in v0.1.16]]
-- Later: 2025-08-04 · ElevenLabs · [[Changes/ElevenLabs/2025-08-04-sdk-releases|SDK Releases]]
+- Later: 2025-08-04 · Devin · [[Changes/Devin/2025-08-04-linear-integration-enhancements|Linear Integration Enhancements]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: expansion
-machine_hash: 86d246ec23f8339fe903d0bfb51528ff054e4a3ac1c0b3331ec1893c1a0e689e
+machine_hash: 640128af9a45b544ef641622ae1c249dd422f2ffb316b40e0a92ed71dbbe998f
 product: lovable
 product_name: Lovable
 record:
@@ -55,8 +55,7 @@ record:
   title: Lovable MCP server (research preview)
   type: change
 related_changes:
-- '[[Changes/v0/2026-05-15-the-built-with-v0-badge-respects-branding-settings-on-deployed-apps-and-the-prev|The
-  "built with v0" badge respects branding settings on deployed apps…]]'
+- '[[Changes/Devin/2026-05-17-tavily-mcp-in-marketplace|Tavily MCP in Marketplace]]'
 - '[[Changes/Codex CLI/2026-05-18-56-apps-and-integrations-changes-in-rust-v0-131-0|56
   Apps and Integrations changes in rust-v0.131.0]]'
 - '[[Changes/ElevenLabs/2026-05-18-sdk-releases|SDK Releases]]'

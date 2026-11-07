@@ -14,12 +14,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 74be65ffee1292fa109fed47277a89889f4deb3efa427b7206112dfc895b5b1c
+machine_hash: 0b851a85175c99a3f660a42ceabb187d8bdeb64f79c5c6425d10a14545e865d6
 product: openclaw
 product_name: OpenClaw
 record:
@@ -55,10 +55,9 @@ record:
     fix…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-20-vscode-changed-the-message-shown-when-a-session-does-not-start-in-time-and-no-ho|VSCode
-  Changed the message shown when a session does not start in time and no hook…]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-20-4-account-and-access-changes-in-v1-0-101|4
   Account and Access changes in v1.0.101]]'
+- '[[Changes/Krea/2026-10-20-krea-cli-with-browser-sign-in|Krea CLI with browser sign-in]]'
 - '[[Changes/Claude Code/2026-10-21-2-account-and-access-changes-in-v2-1-307|2 Account
   and Access changes in v2.1.307]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-10-22-v2026-10-6-56379f53|openclaw-2026-10-22-v2026-10-6-56379f53]]'

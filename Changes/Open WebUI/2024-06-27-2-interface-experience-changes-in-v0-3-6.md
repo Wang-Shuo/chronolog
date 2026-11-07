@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e590f2ba9b5e87b81751bf53870ac2e5f8aee8e9b682f8911a9f832a700f116c
+machine_hash: 440a292118fc0cf8f934288c36e04c78a9df3fdde4bc2d97ef9a05366ec175c9
 product: open-webui
 product_name: Open WebUI
 record:
@@ -94,7 +94,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.3.6
 ## Nearby in Interface Experience
 
 - Earlier: 2024-06-14 · Dify · [[Changes/Dify/2024-06-14-update-tooltip-by-guchenhe-in-https-github-com-langgenius-dify-pull-5235|update tooltip]]
-- Later: 2024-07-02 · Ollama · [[Changes/Ollama/2024-07-02-2-interface-experience-changes-in-v0-2-0|2 Interface Experience changes in v0.2.0]]
+- Later: 2024-06-30 · Devin · [[Changes/Devin/2024-06-30-start-duplicate-sessions|Start Duplicate Sessions]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

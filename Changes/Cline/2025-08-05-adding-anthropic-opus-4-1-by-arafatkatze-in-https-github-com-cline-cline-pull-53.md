@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e7f645e5ec8442e6b4c9e5eb496e73c71cb6ecedcd9336860cac0675caf24df9
+machine_hash: 6b855ce12e9ea6ca6befd936baf7db66229201ee9b94d6ebd357cd0f7adac032
 product: cline
 product_name: Cline
 record:
@@ -42,10 +42,10 @@ record:
   title: Adding Anthropic opus 4.1
   type: change
 related_changes:
-- '[[Changes/Gemini/2025-08-01-solve-your-most-complex-problems-with-gemini-2-5-deep-think|Solve
-  your most complex problems with Gemini 2.5 Deep Think]]'
 - '[[Changes/Gemini CLI/2025-08-02-20-model-support-changes-in-v0-1-16|20 Model Support
   changes in v0.1.16]]'
+- '[[Changes/Recraft/2025-08-04-we-ve-added-qwen-image-as-a-new-external-model-in-recraft|Recraft
+  adds Qwen Image as a new external model]]'
 - '[[Changes/Claude/2025-08-05-claude-opus-4-1|Claude Opus 4.1]]'
 source_release: '[[Releases/Cline/cline-2025-08-05-v3-20-9-github-237738774-2aa14d1a|cline-2025-08-05-v3-20-9-github-237738774-2aa14d1a]]'
 source_type: github_releases

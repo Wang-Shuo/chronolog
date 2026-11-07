@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b5c66d076e173b6386beea305b98adce3dec953ebbe5327cc50da440a84838d7
+machine_hash: 7fa70efd772343fd0b4354b935428e54198d4e230ef2c0728aa5473e393f057c
 product: windsurf
 product_name: Windsurf
 record:
@@ -46,10 +46,9 @@ record:
     now…
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-07-30-change-the-owner-of-several-projects-at-once|Change
-  the owner of several projects at once]]'
 - '[[Changes/OpenCode/2026-07-30-2-editor-experience-changes-in-v1-18-10|2 Editor
   Experience changes in v1.18.10]]'
+- '[[Changes/Devin/2026-07-31-redesigned-changes-tab|Redesigned Changes Tab]]'
 - '[[Changes/OpenCode/2026-08-01-2-editor-experience-changes-in-v1-18-11|2 Editor
   Experience changes in v1.18.11]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-08-01-v3-6-27-9624899b|windsurf-2026-08-01-v3-6-27-9624899b]]'

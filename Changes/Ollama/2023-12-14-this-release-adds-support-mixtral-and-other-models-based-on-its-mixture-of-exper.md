@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 217ba0d03d490fe2569df367e841ddb897f34410fd3317a5d5fdd85f04193cb4
+machine_hash: f6a1d610e92591decf39f730f32b391402cf1f4cf18a2071c36578999b644635
 product: ollama
 product_name: Ollama
 record:
@@ -58,11 +58,11 @@ record:
     (MoE)…
   type: change
 related_changes:
-- '[[Changes/Ollama/2023-11-30-improved-progress-bar-when-running-ollama-pull-with-a-simpler-design-that-displa|Improved
-  progress bar when running ollama pull with a simpler design that displays…]]'
 - '[[Changes/Descript/2023-12-05-we-ve-fixed-several-bugs-related-to-the-new-wordless-media-in-the-script-that-sh|Descript
   fixes several bugs related to the new wordless media in the script…]]'
 - '[[Changes/Descript/2023-12-05-general-updates|General Updates]]'
+- '[[Changes/Superwhisper/2023-12-13-performance-improvements-for-file-reading|Performance
+  improvements for file reading]]'
 source_release: '[[Releases/Ollama/ollama-2023-12-14-v0-1-16-github-133879039-fcdcc323|ollama-2023-12-14-v0-1-16-github-133879039-fcdcc323]]'
 source_type: github_releases
 theme: reliability-performance
@@ -92,7 +92,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2023-12-05 · Descript · [[Changes/Descript/2023-12-05-general-updates|General Updates]]
+- Earlier: 2023-12-13 · Superwhisper · [[Changes/Superwhisper/2023-12-13-performance-improvements-for-file-reading|Performance improvements for file reading]]
 - Later: 2023-12-20 · Notion · [[Changes/Notion/2023-12-20-pages-load-15-20-faster|Pages load 15-20% faster]]
 <!-- chronolog:end -->
 

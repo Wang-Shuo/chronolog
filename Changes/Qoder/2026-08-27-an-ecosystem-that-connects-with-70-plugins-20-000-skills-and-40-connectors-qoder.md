@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: aa844200dfc797ec33827b81a4f05354971c933d7670ab6f364d2cf44514d77c
+machine_hash: ba0365ad9d4c0dbf35b7c96c2ff029b8f9601ef3d6fd72fe649ca3b48cbb561a
 product: qoder
 product_name: Qoder
 record:
@@ -62,12 +62,12 @@ record:
   title: '**An ecosystem that connects**'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-08-20-2-collaboration-changes-in-rust-v0-149-0|2 Collaboration
-  changes in rust-v0.149.0]]'
-- '[[Changes/Dify/2026-08-25-5-collaboration-changes-in-1-17-0|5 Collaboration changes
-  in 1.17.0]]'
 - '[[Changes/Open WebUI/2026-08-25-6-collaboration-changes-in-v0-11-1|6 Collaboration
   changes in v0.11.1]]'
+- '[[Changes/Devin/2026-08-26-allow-prs-to-be-opened-by-session-participants-configuration|Allow
+  PRs to Be Opened by Session Participants Configuration]]'
+- '[[Changes/AnythingLLM/2026-08-27-2-collaboration-changes-in-v1-16-1|2 Collaboration
+  changes in v1.16.1]]'
 source_release: '[[Releases/Qoder/qoder-2026-08-27-0-1-0-908a5947|qoder-2026-08-27-0-1-0-908a5947]]'
 source_type: qoder_changelog
 theme: collaboration
@@ -102,7 +102,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-08-25 · Open WebUI · [[Changes/Open WebUI/2026-08-25-6-collaboration-changes-in-v0-11-1|6 Collaboration changes in v0.11.1]]
+- Earlier: 2026-08-27 · AnythingLLM · [[Changes/AnythingLLM/2026-08-27-2-collaboration-changes-in-v1-16-1|2 Collaboration changes in v1.16.1]]
 - Later: 2026-08-28 · Gamma · [[Changes/Gamma/2026-08-28-we-ve-shipped-a-lot-since-our-last-update-here-are-five-highlights-that-make-it|We’ve shipped a lot since our last update]]
 <!-- chronolog:end -->
 

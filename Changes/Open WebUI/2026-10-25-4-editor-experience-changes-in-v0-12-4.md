@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8ecba686a727f312952377be9e012b466b322119a661e6a3f5af87f00c8df13e
+machine_hash: 2579d24ffb07ac3f5a9403bc667dace26a260e14c330c2d4ce49121e59f4c017
 product: open-webui
 product_name: Open WebUI
 record:
@@ -63,10 +63,10 @@ record:
   title: 4 Editor Experience changes in v0.12.4
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-10-23-chore-verify-openhands-time-network-responses-and-order-them-by-completion-by-en|chore(verify-openhands):
-  time network responses and order them by completion]]'
 - '[[Changes/Windsurf/2026-10-23-in-ide-mode-a-chat-tab-whose-agent-could-not-start-a-session-says-why-and-offers|In
   IDE mode, a chat tab whose agent could not start a session says why and offers…]]'
+- '[[Changes/Krea/2026-10-24-bounding-boxes-and-regional-edits-work-with-krea-3-ultra|Bounding
+  boxes and regional edits work with Krea 3 Ultra]]'
 - '[[Changes/OpenClaw/2026-10-24-a-suspiciously-truncated-configuration-no-longer-replaces-the-healthy-recovery-c|A
   suspiciously truncated configuration no longer replaces the healthy recovery copy…]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-10-25-v0-12-4-github-423239437-ffa84a79|open-webui-2026-10-25-v0-12-4-github-423239437-ffa84a79]]'

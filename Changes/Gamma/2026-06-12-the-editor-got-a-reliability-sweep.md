@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: b39bc0037829eafe54687af3d43029c6c47c968eed153f6009701bfacd62e27c
+machine_hash: 9651ec364c855e69c433a64ced1852c5f2eb3d2ec92a434f0032095a69300d39
 product: gamma
 product_name: Gamma
 record:
@@ -47,9 +47,10 @@ record:
   title: The editor got a reliability sweep
   type: change
 related_changes:
-- '[[Changes/Descript/2026-06-11-letterboxing-detection|Letterboxing detection]]'
 - '[[Changes/Descript/2026-06-11-how-to-find-it-81f3a4|How to find it]]'
 - '[[Changes/Descript/2026-06-11-editor|Editor]]'
+- '[[Changes/Devin/2026-06-12-users-tab-renamed-to-members|"Users" Tab Renamed to
+  "Members"]]'
 source_release: '[[Releases/Gamma/gamma-2026-06-12-6a2c5b290b6832df92986227-3446f559|gamma-2026-06-12-6a2c5b290b6832df92986227-3446f559]]'
 source_type: gamma_changelog
 theme: editor-experience
@@ -81,7 +82,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-06-11 · Descript · [[Changes/Descript/2026-06-11-editor|Editor]]
+- Earlier: 2026-06-12 · Devin · [[Changes/Devin/2026-06-12-users-tab-renamed-to-members|"Users" Tab Renamed to "Members"]]
 - Later: 2026-06-12 · Kimi Code · [[Changes/Kimi Code/2026-06-12-find-slash-commands-by-their-aliases-in-autocomplete-typing-clear-now-suggests-n|Find slash commands by their aliases in autocomplete]]
 <!-- chronolog:end -->
 

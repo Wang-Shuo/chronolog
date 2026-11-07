@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d203942f4500e23784307ea5a9510656ad93106bed7b01cbcd8ace442e53bf5c
+machine_hash: b75f05c920a7e16247bab58824e0c8377eb8bebd8c376a934342f8850eaec703
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,12 +46,12 @@ record:
   title: PowerShell tool on Windows
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-03-29-10-mobile-and-desktop-changes-in-v1-3-6-2|10 Mobile
-  and Desktop changes in v1.3.6 + 2]]'
-- '[[Changes/OpenCode/2026-03-30-added-first-class-powershell-support-on-windows|Added
-  first-class PowerShell support on Windows]]'
-- '[[Changes/Codex CLI/2026-03-31-7-mobile-and-desktop-changes-in-rust-v0-118-0|7
-  Mobile and Desktop changes in rust-v0.118.0]]'
+- '[[Changes/Wispr Flow/2026-03-31-dictionary-upgrades-desktop|Dictionary Upgrades
+  (Desktop)]]'
+- '[[Changes/Wispr Flow/2026-03-31-more-desktop-updates-desktop|More Desktop Updates
+  (Desktop)]]'
+- '[[Changes/Wispr Flow/2026-03-31-smarter-notifications-desktop|Smarter Notifications
+  (Desktop)]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-01-v2-1-89-github-303967782-358023f0|claude-code-2026-04-01-v2-1-89-github-303967782-358023f0]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -88,7 +88,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-03-31 · Codex CLI · [[Changes/Codex CLI/2026-03-31-7-mobile-and-desktop-changes-in-rust-v0-118-0|7 Mobile and Desktop changes in rust-v0.118.0]]
+- Earlier: 2026-03-31 · Wispr Flow · [[Changes/Wispr Flow/2026-03-31-smarter-notifications-desktop|Smarter Notifications (Desktop)]]
 - Later: 2026-04-01 · Gemini CLI · [[Changes/Gemini CLI/2026-04-01-feat-core-implement-strict-macos-sandboxing-using-seatbelt-allowlist-by-ehedlund|feat(core): implement strict macOS sandboxing using Seatbelt allowlist]]
 <!-- chronolog:end -->
 

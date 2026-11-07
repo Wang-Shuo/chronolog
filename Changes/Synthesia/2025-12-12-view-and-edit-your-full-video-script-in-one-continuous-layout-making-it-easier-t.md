@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2114bb4a92ca2f0dde50e0a36608caa61eae617eab5ac9842ffe35002b094f1b
+machine_hash: f6536ce261a4a4efd8ddd94ce4753f094961204a9ab049e517042bdc7a60efe9
 product: synthesia
 product_name: Synthesia
 record:
@@ -45,8 +45,9 @@ record:
   title: Review your whole script in Storyboard
   type: change
 related_changes:
-- '[[Changes/HeyGen/2025-11-30-better-control|Better control]]'
 - '[[Changes/HeyGen/2025-11-30-intelligent-render-selection|Intelligent render selection]]'
+- '[[Changes/AnythingLLM/2025-12-09-2-multimodal-input-changes-in-v1-9-1|2 Multimodal
+  Input changes in v1.9.1]]'
 - '[[Changes/Dify/2025-12-11-11-multimodal-input-changes-in-1-11-0|11 Multimodal Input
   changes in 1.11.0]]'
 source_release: '[[Releases/Synthesia/synthesia-2025-12-12-https-www-synthesia-io-updates-review-your-whole-script-in-story-e40e60a0|synthesia-2025-12-12-https-www-synthesia-io-updates-review-your-whole-script-in-story-e40e60a0]]'

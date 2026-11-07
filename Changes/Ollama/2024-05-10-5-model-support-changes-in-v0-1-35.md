@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 34d69b519bd5cd5cf6e6924612d4714605f00a018e0abe598248c4dfa330e5a0
+machine_hash: eeedfafd22fc33ff67c81065fca8a134e36cebcecc9ab1fd78cc3329653cd8d8
 product: ollama
 product_name: Ollama
 record:
@@ -52,8 +52,8 @@ record:
   title: 5 Model Support changes in v0.1.35
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2024-05-08-2-model-support-changes-in-v0-1-124|2 Model Support
-  changes in v0.1.124]]'
+- '[[Changes/Superwhisper/2024-05-08-help-text-for-adding-gpt-4-and-ollama-model-connections|Help
+  text for adding GPT-4 and Ollama model connections]]'
 - '[[Changes/Dify/2024-05-09-11-model-support-changes-in-0-6-7|11 Model Support changes
   in 0.6.7]]'
 - '[[Changes/Aider/2024-05-10-added-explicit-model-settings-for-openrouter-anthropic-claude-3-opus-gpt-3-5-tur|Added

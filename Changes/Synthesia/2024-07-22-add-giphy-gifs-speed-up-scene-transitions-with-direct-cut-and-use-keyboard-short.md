@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1504e2e61845d0ccf33fe345afa284ac8b8adb32c1bba3e994a05e6f49f814c3
+machine_hash: 4bcb44120730c1a182104b182294bfc03c679f37dc43a1e4bec5bf1f0473f855
 product: synthesia
 product_name: Synthesia
 record:
@@ -43,12 +43,10 @@ record:
   title: Edit faster with GIFs, Direct Cut, and Shortcuts
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2024-07-09-3-reliability-and-performance-changes-in-v0-3-8|3
-  Reliability and Performance changes in v0.3.8]]'
-- '[[Changes/Ollama/2024-07-11-glm4-models-will-no-longer-fail-to-load-from-out-of-memory-errors|glm4
-  models will no longer fail to load from out of memory errors]]'
-- '[[Changes/Ollama/2024-07-13-ollama-will-no-longer-error-if-loading-models-larger-than-system-memory-if-disk|Ollama
-  will no longer error if loading models larger than system memory if disk…]]'
+- '[[Changes/Devin/2024-07-15-devin-got-smarter|Devin got smarter!]]'
+- '[[Changes/Devin/2024-07-15-devin-is-now-faster|Devin is now faster!]]'
+- '[[Changes/Raycast/2024-07-17-misc-reduced-memory-footprint-added-a-cache-diagnostics-tool-to-gather-logs-abou|Misc:
+  Reduced memory footprint]]'
 source_release: '[[Releases/Synthesia/synthesia-2024-07-22-https-www-synthesia-io-updates-edit-faster-with-gifs-direct-cut-fc55830f|synthesia-2024-07-22-https-www-synthesia-io-updates-edit-faster-with-gifs-direct-cut-fc55830f]]'
 source_type: synthesia_changelog
 theme: reliability-performance
@@ -75,7 +73,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2024-07-13 · Ollama · [[Changes/Ollama/2024-07-13-ollama-will-no-longer-error-if-loading-models-larger-than-system-memory-if-disk|Ollama will no longer error if loading models larger than system memory if disk…]]
+- Earlier: 2024-07-17 · Raycast · [[Changes/Raycast/2024-07-17-misc-reduced-memory-footprint-added-a-cache-diagnostics-tool-to-gather-logs-abou|Misc: Reduced memory footprint]]
 - Later: 2024-07-23 · Cursor · [[Changes/Cursor/2024-07-23-copilot-now-has-chunked-streaming-currently-in-beta-it-will-surface-edits-faster|Copilot++ now has chunked streaming (currently in Beta)!]]
 <!-- chronolog:end -->
 

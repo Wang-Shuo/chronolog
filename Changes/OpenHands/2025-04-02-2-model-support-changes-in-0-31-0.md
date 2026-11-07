@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a3efa95f9511ccb199ca98c9df316751b845686f0828f634479e5aa78924f214
+machine_hash: c019981b51939b3a83fbfe45fde1fa043d505f6e6c9f60546d3bfe12e6c74481
 product: openhands
 product_name: OpenHands
 record:
@@ -84,7 +84,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/0.31.0
 ## Nearby in Model Support
 
 - Earlier: 2025-04-02 · Ollama · [[Changes/Ollama/2025-04-02-api-show-will-now-include-model-capabilities-such-as-vision|/api/show will now include model capabilities such as vision]]
-- Later: 2025-04-04 · Aider · [[Changes/Aider/2025-04-04-4-model-support-changes-in-v0-81-0|4 Model Support changes in v0.81.0]]
+- Later: 2025-04-03 · Recraft · [[Changes/Recraft/2025-04-03-creativity-thrives-on-options-that-s-why-we-re-expanding-recraft-to-support-exte|Creativity thrives on options]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

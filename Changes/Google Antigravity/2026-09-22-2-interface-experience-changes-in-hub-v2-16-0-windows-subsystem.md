@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: aaa82bf81c3de19ce2fe88d1a45c4c3f3bb1ae9f9a67a75e4e490186a2bf20bd
+machine_hash: e3320633860708380ea255f1a5b9a233a2690519f9499553b98641f13d91bfde
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -48,8 +48,8 @@ record:
   title: 2 Interface Experience changes in HUB v2.16.0 — Windows Subsystem…
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-09-21-13-interface-experience-changes-in-v0-11-4|13 Interface
-  Experience changes in v0.11.4]]'
+- '[[Changes/AnythingLLM/2026-09-22-add-openrouter-service-tier-selection-by-shatfield4-in-https-github-com-mintplex|Add
+  OpenRouter service tier selection]]'
 - '[[Changes/Claude Code/2026-09-22-5-interface-experience-changes-in-v2-1-280|5 Interface
   Experience changes in v2.1.280]]'
 - '[[Changes/Codex CLI/2026-09-22-32-interface-experience-changes-in-rust-v0-156-0|32

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 5172b735e88bd18c28040e5ca3888bdf2b1215441e960146d707261c656c733e
+machine_hash: 6d6a0fc7b2b1428ab4f4ea393c1a139039347eafaa12fdbad473ab17c7adf1dc
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -99,7 +99,7 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2026-06-15 · Codex CLI · [[Changes/Codex CLI/2026-06-15-2-voice-and-audio-changes-in-rust-v0-140-0|2 Voice and Audio changes in rust-v0.140.0]]
-- Later: 2026-06-18 · ChatGPT · [[Changes/ChatGPT/2026-06-18-help-with-pronunciations-chatgpt-can-now-include-text-and-audio-pronunciation-gu|Help with pronunciations]]
+- Later: 2026-06-16 · AnythingLLM · [[Changes/AnythingLLM/2026-06-16-3-voice-and-audio-changes-in-v1-14-1|3 Voice and Audio changes in v1.14.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

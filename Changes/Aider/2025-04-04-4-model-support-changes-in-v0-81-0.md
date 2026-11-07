@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 09f622068257161f8e2d1c76f916debe3c8e8be16cd2498bd0a3adaa587d8096
+machine_hash: 143fb3c2323de6dc27c84644c36f756d189d1f0d8d70730c7c2e802c0312e181
 product: aider
 product_name: Aider
 record:
@@ -47,12 +47,12 @@ record:
   title: 4 Model Support changes in v0.81.0
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2025-04-01-3-model-support-changes-in-v0-6-0|3 Model Support
-  changes in v0.6.0]]'
 - '[[Changes/Ollama/2025-04-02-api-show-will-now-include-model-capabilities-such-as-vision|/api/show
   will now include model capabilities such as vision]]'
 - '[[Changes/OpenHands/2025-04-02-2-model-support-changes-in-0-31-0|2 Model Support
   changes in 0.31.0]]'
+- '[[Changes/Recraft/2025-04-03-creativity-thrives-on-options-that-s-why-we-re-expanding-recraft-to-support-exte|Creativity
+  thrives on options]]'
 source_release: '[[Releases/Aider/aider-2025-04-04-v0-81-0-github-210314163-f0912302|aider-2025-04-04-v0-81-0-github-210314163-f0912302]]'
 source_type: github_releases
 theme: model-support
@@ -92,7 +92,7 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.81.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-04-02 · OpenHands · [[Changes/OpenHands/2025-04-02-2-model-support-changes-in-0-31-0|2 Model Support changes in 0.31.0]]
+- Earlier: 2025-04-03 · Recraft · [[Changes/Recraft/2025-04-03-creativity-thrives-on-options-that-s-why-we-re-expanding-recraft-to-support-exte|Creativity thrives on options]]
 - Later: 2025-04-04 · Cline · [[Changes/Cline/2025-04-04-add-gemini-2-5-pro-preview-03-25-to-google-provider|Add Gemini 2.5 Pro Preview 03-25 to Google Provider]]
 <!-- chronolog:end -->
 

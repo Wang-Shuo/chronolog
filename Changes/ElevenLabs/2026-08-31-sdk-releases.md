@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 5d9a19243d147ae72280b4b4aa3db5a88ba2a6f59b904c13d43a3d9cb44cef70
+machine_hash: 9e0b2e56f7170b0c0f8ca5e62da6d53201f0eda5f7c30b4889fcc29b5141b1fc
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -41,7 +41,8 @@ record:
   title: SDK releases
   type: change
 related_changes:
-- '[[Changes/Replit/2026-08-28-integrations|Integrations]]'
+- '[[Changes/Superwhisper/2026-08-28-windows-context-menu-integration-open-with-and-show-more-options-transcribe-with|Windows
+  context menu integration "Open with..." and Show more options…]]'
 - '[[Changes/v0/2026-08-28-2-apps-and-integrations-changes-in-gpt-5-6-sol-sign-in-inside-previews|2
   Apps and Integrations changes in GPT-5.6 Sol, sign-in inside previews…]]'
 - '[[Changes/Codex CLI/2026-08-29-11-apps-and-integrations-changes-in-rust-v0-151-0|11

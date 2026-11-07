@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: dc38ce45d07fc8d42104e8f7391946bc46dfbebc66972e99f580769040c72e56
+machine_hash: 590b166f5874e1b2fb95018d6caabd509d7be8e2ec0e2d5e4d62a0ac64f839a4
 product: ollama
 product_name: Ollama
 record:
@@ -42,12 +42,12 @@ record:
   title: 2 Model Support changes in v0.0.17
   type: change
 related_changes:
-- '[[Changes/Ollama/2023-08-18-4-model-support-changes-in-v0-0-15|4 Model Support
-  changes in v0.0.15]]'
-- '[[Changes/Dify/2023-08-23-6-model-support-changes-in-0-3-15|6 Model Support changes
-  in 0.3.15]]'
+- '[[Changes/Superwhisper/2023-08-24-2-model-support-changes-in-superwhisper-macos-1-13-1|2
+  Model Support changes in Superwhisper macOS 1.13.1]]'
 - '[[Changes/Ollama/2023-08-26-2-model-support-changes-in-v0-0-16|2 Model Support
   changes in v0.0.16]]'
+- '[[Changes/Superwhisper/2023-08-28-display-alert-if-model-fails-to-initialize|Display
+  alert if model fails to initialize]]'
 source_release: '[[Releases/Ollama/ollama-2023-08-30-v0-0-17-github-119101486-4a0f1606|ollama-2023-08-30-v0-0-17-github-119101486-4a0f1606]]'
 source_type: github_releases
 theme: model-support
@@ -80,7 +80,7 @@ Source: https://github.com/ollama/ollama/releases/tag/v0.0.17
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2023-08-26 · Ollama · [[Changes/Ollama/2023-08-26-2-model-support-changes-in-v0-0-16|2 Model Support changes in v0.0.16]]
+- Earlier: 2023-08-28 · Superwhisper · [[Changes/Superwhisper/2023-08-28-display-alert-if-model-fails-to-initialize|Display alert if model fails to initialize]]
 - Later: 2023-08-31 · Dify · [[Changes/Dify/2023-08-31-3-model-support-changes-in-0-3-19|3 Model Support changes in 0.3.19]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 99fb56b9304c4e79d01024c7e3f6844a56ba0a7f204fc7dfcb2bc414a349506c
+machine_hash: 20659c73756d3d5b500d2b537ae6c1aa6848b967facd9f16d0816604a45f9387
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -49,8 +49,8 @@ record:
     declining…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-12-improved-sandbox-ipv6-literals-in-network-domain-lists-are-now-bracketed-1-443-a|Improved
-  sandbox: IPv6 literals in network domain lists are now bracketed…]]'
+- '[[Changes/Devin/2026-08-12-security-profile-safeguards-in-the-automation-editor|Security
+  Profile Safeguards in the Automation Editor]]'
 - '[[Changes/Claude Code/2026-08-13-9-safety-and-privacy-changes-in-v2-1-232|9 Safety
   and Privacy changes in v2.1.232]]'
 - '[[Changes/Cline/2026-08-13-fix-the-claude-code-provider-being-unusable-for-agentic-work-it-now-runs-its-own|Fix

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 56979aa33c006110dcd11f42b9104be001e739120d5871b0265698caab0da6bd
+machine_hash: c7054a7f93eabac07e81d1a6b43d2b9990d4f69d58547d775f9faf6890f58b2e
 product: dify
 product_name: Dify
 record:
@@ -90,7 +90,7 @@ type: change
 ## Nearby in Enterprise and Administration
 
 - Earlier: 2026-03-26 · Codex CLI · [[Changes/Codex CLI/2026-03-26-15789-treat-chatgpt-hc-plan-as-enterprise-arnavdugar-openai|♯15789 Treat ChatGPT hc plan as Enterprise @arnavdugar-openai]]
-- Later: 2026-04-02 · Cursor · [[Changes/Cursor/2026-04-02-added-an-enterprise-admin-control-for-disabling-made-with-cursor-code-attributio|Added an Enterprise Admin control for disabling "Made with Cursor" code attribution…]]
+- Later: 2026-04-01 · Devin · [[Changes/Devin/2026-04-01-ghes-improvements|GHES Improvements]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

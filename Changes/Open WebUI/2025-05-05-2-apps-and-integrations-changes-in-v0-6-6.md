@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c10dc3cd971dfbc5205d3218654ebe2645394a1181d42d72247f175e747bb55f
+machine_hash: a8e329a904db2eee460c8148045982f2c66b5e27520e8148be387910a464bacf
 product: open-webui
 product_name: Open WebUI
 record:
@@ -96,7 +96,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.6.6
 ## Nearby in Apps and Integrations
 
 - Earlier: 2025-05-03 · Cline · [[Changes/Cline/2025-05-03-refactor-message-handling-to-not-show-the-mcp-view-of-the-server-modal|Refactor message handling to not show the MCP View of the server modal]]
-- Later: 2025-05-07 · Windsurf · [[Changes/Windsurf/2025-05-07-cascade-plugins|Cascade Plugins]]
+- Later: 2025-05-06 · AnythingLLM · [[Changes/AnythingLLM/2025-05-06-4-apps-and-integrations-changes-in-v1-8-1|4 Apps and Integrations changes in v1.8.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

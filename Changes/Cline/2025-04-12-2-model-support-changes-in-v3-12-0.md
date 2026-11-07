@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 89631dace4cad292524e1590705daf6e07f3bc5bdef76b247337bf79a2453d4d
+machine_hash: 0388b89496d0db6835caecf7e31fac09f8ac06da78e61fadba96fd66891b7afd
 product: cline
 product_name: Cline
 record:
@@ -42,12 +42,12 @@ record:
   title: 2 Model Support changes in v3.12.0
   type: change
 related_changes:
-- '[[Changes/Dify/2025-04-09-6-model-support-changes-in-1-2-0|6 Model Support changes
-  in 1.2.0]]'
 - '[[Changes/ChatGPT/2025-04-10-effective-april-30-2025-gpt-4-will-be-retired-from-chatgpt-and-fully-replaced-by-d03b3b|Sunsetting
   GPT‑4 in ChatGPT]]'
 - '[[Changes/Cline/2025-04-10-add-support-for-xai-s-provider-s-grok-3-models|Add support
   for xAI''s provider''s Grok 3 models]]'
+- '[[Changes/Recraft/2025-04-11-we-ve-added-imagen-3-as-the-latest-external-model-for-recraft-available-to-all-p|Recraft
+  adds Imagen 3 as the latest external model for Recraft, available to all…]]'
 source_release: '[[Releases/Cline/cline-2025-04-12-v3-12-0-github-212001434-6cc8f535|cline-2025-04-12-v3-12-0-github-212001434-6cc8f535]]'
 source_type: github_releases
 theme: model-support
@@ -82,7 +82,7 @@ Source: https://github.com/cline/cline/releases/tag/v3.12.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-04-10 · Cline · [[Changes/Cline/2025-04-10-add-support-for-xai-s-provider-s-grok-3-models|Add support for xAI's provider's Grok 3 models]]
+- Earlier: 2025-04-11 · Recraft · [[Changes/Recraft/2025-04-11-we-ve-added-imagen-3-as-the-latest-external-model-for-recraft-available-to-all-p|Recraft adds Imagen 3 as the latest external model for Recraft, available to all…]]
 - Later: 2025-04-13 · Open WebUI · [[Changes/Open WebUI/2025-04-13-2-model-support-changes-in-v0-6-3|2 Model Support changes in v0.6.3]]
 <!-- chronolog:end -->
 

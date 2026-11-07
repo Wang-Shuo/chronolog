@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 2d5e16d87c22298a8a5f4c12e64264f77b1943dc10bdf058a1fb2c219cdaf269
+machine_hash: afdb3768485c9cab7eae65e50dfca92c0153dca66ff4b8cdfc620061aa311f67
 product: cursor
 product_name: Cursor
 record:
@@ -86,7 +86,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2025-12-18 · Codex CLI · [[Changes/Codex CLI/2025-12-18-3-agent-mode-changes-in-rust-v0-74-0|3 Agent Mode changes in rust-v0.74.0]]
-- Later: 2025-12-22 · Cursor · [[Changes/Cursor/2025-12-22-2-agent-mode-changes-in-2-3|2 Agent Mode changes in 2.3]]
+- Later: 2025-12-19 · Devin · [[Changes/Devin/2025-12-19-new-agent-upgrade|New Agent Upgrade]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

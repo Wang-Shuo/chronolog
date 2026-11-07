@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 35d9bdf1c1d39ebf75b8375431e4d6e791723413683e60bb8242b30e80bb6fa8
+machine_hash: fb4d72114ef4435f8de089ccfafbbe608ccf42b7dec0a6127150c38c9cf12168
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -47,9 +47,10 @@ record:
   title: 4 Apps and Integrations changes in v1.0.61
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-06-08-sdk-releases|SDK Releases]]'
 - '[[Changes/v0/2026-06-08-4-apps-and-integrations-changes-in-changelog-update|4 Apps
   and Integrations changes in Changelog update]]'
+- '[[Changes/AnythingLLM/2026-06-09-apply-universal-sdk-timeout-by-timothycarambat-in-https-github-com-mintplex-labs|apply
+  universal sdk timeout]]'
 - '[[Changes/Codex CLI/2026-06-09-8-apps-and-integrations-changes-in-rust-v0-139-0|8
   Apps and Integrations changes in rust-v0.139.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-06-09-v1-0-61-github-336905979-4d0a69f2|github-copilot-cli-2026-06-09-v1-0-61-github-336905979-4d0a69f2]]'

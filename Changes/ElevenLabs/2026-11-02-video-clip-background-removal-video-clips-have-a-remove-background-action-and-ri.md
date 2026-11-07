@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: cc8407429a03a89eeea2085b82a02a1bac5aca3d9e5743ec36a93c52db33b9eb
+machine_hash: 032a147a1fee51efdb8b0ebe273c8ec60323325fe56cae8c105e3390fcd13f89
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -46,8 +46,8 @@ record:
   title: '**Video clip background removal**'
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-10-26-video-to-music-studio-s-video-to-music-workflow-uses-music-v2-5-by-default|Video
-  to music: Studio''s video to music workflow uses Music v2.5 by default]]'
+- '[[Changes/Krea/2026-10-26-the-krea-3-home-page-no-longer-crashes-when-you-open-image-video-or-enhancer|The
+  Krea 3 home page no longer crashes when you open Image, Video, or Enhancer]]'
 - '[[Changes/Microsoft 365 Copilot/2026-10-27-multimodal-capture-in-copilot-notebooks-android-onenote|Multimodal
   capture in Copilot Notebooks Android (OneNote)]]'
 - '[[Changes/OpenClaw/2026-10-27-oversized-macos-camera-clips-and-screen-recordings-now-return-an-error-instead-o|Oversized

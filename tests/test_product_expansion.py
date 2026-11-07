@@ -196,6 +196,21 @@ def test_source_links_without_scheme_are_external_but_code_quotes_stay_verbatim(
     )
 
 
+@pytest.mark.parametrize('kind', ['change', 'digest'])
+def test_source_relative_links_use_upstream_context_without_changing_evidence(kind):
+    from _scripts.writer import render_evidence
+    source = 'https://github.com/Mintplex-Labs/anything-llm/releases/tag/v1.11.1'
+    quote = 'Set [`PROVIDER_SUPPORTS_NATIVE_TOOL_CALLING`](/configuration#native-tool-calling-for-llm-providers); sample: `[local](./config)`.'
+    card = {'kind': kind, 'evidence': [{'quote': quote, 'source_release': source}]}
+    rendered = render_evidence(card)
+    assert '[`PROVIDER_SUPPORTS_NATIVE_TOOL_CALLING`](https://github.com/Mintplex-Labs/anything-llm/blob/v1.11.1/configuration#native-tool-calling-for-llm-providers)' in rendered
+    assert '`[local](./config)`' in rendered
+    assert card['evidence'][0]['quote'] == quote
+    assert quote_markdown('[details](#notes)', source) == f'[details]({source}#notes)'
+    assert quote_markdown('[guide](../guide) and [root](/docs)', 'https://official.example/news/update') == (
+        '[guide](https://official.example/guide) and [root](https://official.example/docs)')
+
+
 def test_publication_scope_comes_from_catalog_and_keeps_fixtures_private(tmp_path):
     # Execute the real Quartz filter with a new, arbitrary catalog entry. A second
     # run disables it without editing TypeScript or rebuilding the bundled code.

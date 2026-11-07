@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 21df5d627a12dfc77624c2ad08bddc0d6bf9e4e1028728ccf72ff57a99fa98ca
+machine_hash: 1c3aeb40e9412b55e1ca3a7aac9936f25eee9cebe918ea87fa006df48d9b5462
 product: opencode
 product_name: OpenCode
 record:
@@ -98,7 +98,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-10-29 · OpenCode · [[Changes/OpenCode/2026-10-29-core-send-image-edit-references-and-image-sizes-in-the-formats-expected-by-openr|Core Send image-edit references and image sizes in the formats expected…]]
-- Later: 2026-10-30 · Claude Code · [[Changes/Claude Code/2026-10-30-2-editor-experience-changes-in-v2-1-314|2 Editor Experience changes in v2.1.314]]
+- Later: 2026-10-29 · Raycast · [[Changes/Raycast/2026-10-29-ai-chat-edit-and-resend-earlier-messages-or-delete-a-message-and-the-conversatio|AI Chat : Edit and resend earlier messages, or delete a message and the conversation…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

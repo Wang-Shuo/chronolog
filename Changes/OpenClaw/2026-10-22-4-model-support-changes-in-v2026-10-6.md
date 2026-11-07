@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: bfb7377892175fe453a47ed5005120718526ae8a6c6ec083272433bff62544af
+machine_hash: 6eae95ee8f3941bf85625bb413979978e731001fc6a5cdd985410bd42a69aa5f
 product: openclaw
 product_name: OpenClaw
 record:
@@ -112,7 +112,7 @@ Source: https://docs.openclaw.ai/releases/2026.10.6
 ## Nearby in Model Support
 
 - Earlier: 2026-10-22 · Lovable · [[Changes/Lovable/2026-10-22-gemini-2-5-chat-models-are-retired-for-your-app-s-ai-features|Gemini 2.5 chat models are retired for your app's AI features]]
-- Later: 2026-10-23 · Codex CLI · [[Changes/Codex CLI/2026-10-23-9-model-support-changes-in-rust-v0-164-0|9 Model Support changes in rust-v0.164.0]]
+- Later: 2026-10-22 · Raycast · [[Changes/Raycast/2026-10-22-ai-newly-installed-extension-provided-models-are-now-searchable-in-model-pickers|AI : Newly installed Extension-provided models are now searchable in model pickers]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2683010fb4d6a89c97e47feec0af36737f391130df2d3aea7aef008ef7e04cd8
+machine_hash: 7a0b949b7ac7cfb2a088cb0ad1488da206129ac4a9fcef6b43319989e93deed3
 product: descript
 product_name: Descript
 record:
@@ -41,8 +41,8 @@ record:
   title: Panels - Quick access for panels on the sidebar like Project, and Elements
   type: change
 related_changes:
-- '[[Changes/Midjourney/2025-06-19-when-saving-an-video-to-share-please-right-click-your-video-and-press-save-for-s|When
-  saving an video to share, please right click your video and press…]]'
+- '[[Changes/Raycast/2025-06-20-4-interface-experience-changes-in-raycast-windows-0-24|4
+  Interface Experience changes in Raycast windows 0.24]]'
 - '[[Changes/Descript/2025-06-25-new-art-style-in-ai-video-maker-and-quick-design|New
   art style in AI video maker and Quick design]]'
 - '[[Changes/Dify/2025-06-25-4-interface-experience-changes-in-1-5-0|4 Interface Experience
@@ -82,7 +82,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2025-06-25 · Dify · [[Changes/Dify/2025-06-25-4-interface-experience-changes-in-1-5-0|4 Interface Experience changes in 1.5.0]]
-- Later: 2025-06-27 · Aider · [[Changes/Aider/2025-06-27-2-interface-experience-changes-in-v0-85-0|2 Interface Experience changes in v0.85.0]]
+- Later: 2025-06-26 · Raycast · [[Changes/Raycast/2025-06-26-2-interface-experience-changes-in-raycast-windows-0-25|2 Interface Experience changes in Raycast windows 0.25]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

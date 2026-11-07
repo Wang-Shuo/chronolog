@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d8dc5a3b1371e0a2d35c0a098005a61c9e4a013fe1c1c74590fbaaa439d22bdf
+machine_hash: 13ed5dce6829f51cb41ad7a7877c5639214ed0950cc17144ba5248cfe03683b4
 product: open-webui
 product_name: Open WebUI
 record:
@@ -43,10 +43,11 @@ record:
   title: "\U0001F504 **Sidebar UI Update**"
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-03-01-ai-notes-enabled-by-default-hold-shift-on-any-symbol-better-in-editor-chat-auto|Polish]]'
 - '[[Changes/Descript/2024-03-12-we-ve-made-backend-changes-to-how-exports-and-publishes-are-processed-these-chan|Descript
   makes backend changes to how Exports and Publishes are processed]]'
 - '[[Changes/Descript/2024-03-12-color-rendering-issues|Color rendering issues]]'
+- '[[Changes/Superwhisper/2024-03-13-global-shortcut-and-navigation-keys-for-mode-switch|Global
+  shortcut and navigation keys for mode switch]]'
 source_release: '[[Releases/Open WebUI/open-webui-2024-03-18-v0-1-113-github-147090544-f0029140|open-webui-2024-03-18-v0-1-113-github-147090544-f0029140]]'
 source_type: github_releases
 theme: interface-experience
@@ -76,7 +77,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2024-03-12 · Descript · [[Changes/Descript/2024-03-12-color-rendering-issues|Color rendering issues]]
+- Earlier: 2024-03-13 · Superwhisper · [[Changes/Superwhisper/2024-03-13-global-shortcut-and-navigation-keys-for-mode-switch|Global shortcut and navigation keys for mode switch]]
 - Later: 2024-03-20 · Cursor · [[Changes/Cursor/2024-03-20-new-settings-we-moved-all-our-settings-to-be-accessible-by-the-gear-in-the-top-r|New Settings: We moved all our settings to be accessible by the gear in the top right]]
 <!-- chronolog:end -->
 

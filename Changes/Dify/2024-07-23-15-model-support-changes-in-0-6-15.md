@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0345ff988d9099cb472bf2623c123dbf03b0b4553e0297ddd4a88eeebaa92912
+machine_hash: 11bb9843d88d26ec8fb689686d4b5546f740e556bd0df96a64543f3b5aebdb01
 product: dify
 product_name: Dify
 record:
@@ -73,8 +73,7 @@ record:
   title: 15 Model Support changes in 0.6.15
   type: change
 related_changes:
-- '[[Changes/Ollama/2024-07-21-nuextract-https-ollama-com-library-nuextract-a-3-8b-model-fine-tuned-on-a-privat|NuExtract((source
-  link) A 3.8B model fine-tuned…]]'
+- '[[Changes/Superwhisper/2024-07-22-gpt-4o-mini-now-available|GPT-4o mini now available]]'
 - '[[Changes/Cursor/2024-07-23-new-default-model-we-ve-made-claude-3-5-sonnet-the-default-model-for-users|New
   Default Model: We''ve made Claude 3.5 Sonnet the default model for users]]'
 - '[[Changes/Dify/2024-07-23-openai-gpt-4o-mini-support-now-available-by-takatost-in-6442|OpenAI

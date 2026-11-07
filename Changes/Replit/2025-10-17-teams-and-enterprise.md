@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: a55e538a373c9e22246455ac37c85a72aaa7d0917fdf0ed3b131eef140640d91
+machine_hash: 012dd7d7d58924d7f52cfaaca90589629c926e79996fdfc48660a7f1c70f2876
 product: replit
 product_name: Replit
 record:
@@ -49,9 +49,11 @@ record:
   title: Teams and Enterprise
   type: change
 related_changes:
-- '[[Changes/Replit/2025-09-26-teams-and-enterprise|Teams and Enterprise]]'
-- '[[Changes/Replit/2025-10-03-teams-and-enterprise|Teams and Enterprise]]'
 - '[[Changes/Replit/2025-10-10-teams-and-enterprise|Teams and Enterprise]]'
+- '[[Changes/Devin/2025-10-17-slack-enterprise-grid-support|Slack Enterprise Grid
+  Support]]'
+- '[[Changes/Devin/2025-10-17-enterprise-playbooks-api-v2|Enterprise Playbooks API
+  v2]]'
 source_release: '[[Releases/Replit/replit-2025-10-17-2025-10-17-32d063da|replit-2025-10-17-2025-10-17-32d063da]]'
 source_type: replit_changelog
 theme: enterprise-admin
@@ -81,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2025-10-10 · Replit · [[Changes/Replit/2025-10-10-teams-and-enterprise|Teams and Enterprise]]
+- Earlier: 2025-10-17 · Devin · [[Changes/Devin/2025-10-17-enterprise-playbooks-api-v2|Enterprise Playbooks API v2]]
 - Later: 2025-10-22 · Dify · [[Changes/Dify/2025-10-22-knowledge-pipeline-for-enterprise-by-garfielddai-in-https-github-com-langgenius|knowledge-pipeline-for-enterprise]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ced99f5e8d4deb53cd5d6690caae036b5de0ddbca690e9f3383491e24a863dee
+machine_hash: 1fe8e6d422e1758c271279563f2bc9a2d9e830d9974a14f13254329cef7e1a73
 product: open-webui
 product_name: Open WebUI
 record:
@@ -58,10 +58,9 @@ record:
   title: 2 Automation and Scheduling changes in v0.13.0
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-10-30-core-made-enabled-schedules-run-under-opencode-serve-and-coordinated-multiple-se|Core
-  Made enabled schedules run under opencode serve and coordinated multiple server…]]'
-- '[[Changes/Claude Code/2026-10-31-2-automation-and-scheduling-changes-in-v2-1-316|2
-  Automation and Scheduling changes in v2.1.316]]'
+- '[[Changes/Devin/2026-11-02-automations-settings-refresh|Automations Settings Refresh]]'
+- '[[Changes/Devin/2026-11-02-auto-scan-controls-and-schedules|Auto-scan Controls
+  and Schedules]]'
 - '[[Changes/Google Antigravity/2026-11-03-2-automation-and-scheduling-changes-in-hub-v2-29-0-voice-mode-remote|2
   Automation and Scheduling changes in HUB v2.29.0 — Voice mode, remote…]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-11-03-v0-13-0-github-432661497-44290c10|open-webui-2026-11-03-v0-13-0-github-432661497-44290c10]]'

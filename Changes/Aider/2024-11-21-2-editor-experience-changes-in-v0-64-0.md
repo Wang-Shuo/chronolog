@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 63e211797ceec20b2992530e22cde8eebac7b830058efc1538f5d97ec8979023
+machine_hash: e300ad2973687ea6a55adfd9a0748dc5e6fff329b8f3963ed4843f5765b786a7
 product: aider
 product_name: Aider
 record:
@@ -85,7 +85,7 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.64.0
 ## Nearby in Editor Experience
 
 - Earlier: 2024-11-20 · Open WebUI · [[Changes/Open WebUI/2024-11-20-usage-capability-selector-fixed-the-broken-usage-capabilities-selector-in-the-mo|🔧 Usage Capability Selector]]
-- Later: 2024-11-25 · Dify · [[Changes/Dify/2024-11-25-feat-add-japanese-translations-for-api-documentation-chat-advanced-chat-completi|feat : Add Japanese translations for API documentation: chat, advanced-chat…]]
+- Later: 2024-11-22 · Devin · [[Changes/Devin/2024-11-22-use-macros-to-easily-attach-playbooks-https-docs-devin-ai-product-guides-creatin|Use macros to easily attach…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

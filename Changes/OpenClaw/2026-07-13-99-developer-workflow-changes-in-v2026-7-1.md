@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5d3bdf2947b72263fe631d89bccaa5cb7ff13849eb07b20e39100ec89712faa8
+machine_hash: c98c35e79cc2b409623ecc4c6262978dc9aaad40cfb59554c805476477f24eb7
 product: openclaw
 product_name: OpenClaw
 record:
@@ -401,8 +401,8 @@ record:
   title: 99 Developer Workflow changes in v2026.7.1
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-10-4-developer-workflow-changes-in-v2-1-206|4 Developer
-  Workflow changes in v2.1.206]]'
+- '[[Changes/Devin/2026-07-10-copy-commands-from-the-worklog|Copy Commands from the
+  Worklog]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-10-3-developer-workflow-changes-in-v1-0-70|3
   Developer Workflow changes in v1.0.70]]'
 - '[[Changes/Codex CLI/2026-07-13-published-a-version-only-release-with-no-merged-pull-request-changes-since-rust|Published

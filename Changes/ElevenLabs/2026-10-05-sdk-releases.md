@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 585353fffeba0272c6a2ed5461bcc2523496c07202ffa6e85379135060d1387d
+machine_hash: 9ba2d8cc979f56897de43498273ecb1dd4b1e8df55e035c6bf5f9838ea603ef5
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -41,10 +41,9 @@ record:
   title: SDK releases
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-05-14-apps-and-integrations-changes-in-v2-1-290|14
-  Apps and Integrations changes in v2.1.290]]'
-- '[[Changes/Codex CLI/2026-10-05-2-apps-and-integrations-changes-in-rust-v0-160-1|2
-  Apps and Integrations changes in rust-v0.160.1]]'
+- '[[Changes/Devin/2026-10-05-slack-user-group-mentions|Slack User-Group Mentions]]'
+- '[[Changes/Devin/2026-10-05-fetch-a-single-code-scan-via-api-and-mcp|Fetch a Single
+  Code Scan via API and MCP]]'
 - '[[Changes/ElevenLabs/2026-10-05-swift-sdk|Swift SDK]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-10-05-2026-10-05-4039c076|elevenlabs-2026-10-05-2026-10-05-4039c076]]'
 source_type: elevenlabs_changelog
@@ -80,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-10-05 · Codex CLI · [[Changes/Codex CLI/2026-10-05-2-apps-and-integrations-changes-in-rust-v0-160-1|2 Apps and Integrations changes in rust-v0.160.1]]
+- Earlier: 2026-10-05 · Devin · [[Changes/Devin/2026-10-05-fetch-a-single-code-scan-via-api-and-mcp|Fetch a Single Code Scan via API and MCP]]
 - Later: 2026-10-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-05-5-apps-and-integrations-changes-in-v1-0-92|5 Apps and Integrations changes in v1.0.92]]
 <!-- chronolog:end -->
 

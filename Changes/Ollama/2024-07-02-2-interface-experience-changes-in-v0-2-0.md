@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 18592e93ae5ffe11f49ccd997705274b804b5e44b6c87b6d4db1aacb29272480
+machine_hash: 1653926e46529a6b2e4b15fdd17ea3ed19254698151fa25a32b9159afe00350b
 product: ollama
 product_name: Ollama
 record:
@@ -43,12 +43,11 @@ record:
   title: 2 Interface Experience changes in v0.2.0
   type: change
 related_changes:
-- '[[Changes/Midjourney/2024-06-12-the-sidebar-is-simpler-rank-images-and-rank-ideas-can-now-be-found-under-the-tas|The
-  sidebar is simpler]]'
 - '[[Changes/Dify/2024-06-14-update-tooltip-by-guchenhe-in-https-github-com-langgenius-dify-pull-5235|update
   tooltip]]'
 - '[[Changes/Open WebUI/2024-06-27-2-interface-experience-changes-in-v0-3-6|2 Interface
   Experience changes in v0.3.6]]'
+- '[[Changes/Devin/2024-06-30-start-duplicate-sessions|Start Duplicate Sessions]]'
 source_release: '[[Releases/Ollama/ollama-2024-07-02-v0-2-0-github-163643882-25f7f395|ollama-2024-07-02-v0-2-0-github-163643882-25f7f395]]'
 source_type: github_releases
 theme: interface-experience
@@ -85,7 +84,7 @@ Source: https://github.com/ollama/ollama/releases/tag/v0.2.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2024-06-27 · Open WebUI · [[Changes/Open WebUI/2024-06-27-2-interface-experience-changes-in-v0-3-6|2 Interface Experience changes in v0.3.6]]
+- Earlier: 2024-06-30 · Devin · [[Changes/Devin/2024-06-30-start-duplicate-sessions|Start Duplicate Sessions]]
 - Later: 2024-07-08 · Dify · [[Changes/Dify/2024-07-08-2-interface-experience-changes-in-0-6-13|2 Interface Experience changes in 0.6.13]]
 <!-- chronolog:end -->
 

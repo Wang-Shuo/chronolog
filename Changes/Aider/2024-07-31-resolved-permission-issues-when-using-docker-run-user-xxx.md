@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a9d4f8718d2700e283bf18ff65541a4a1afcdf455decdf0feae51badd54ee591
+machine_hash: 15bbe8caa5f787d530c66ccdf7a79e504662538e420635eea9814b7172300f93
 product: aider
 product_name: Aider
 record:
@@ -43,10 +43,10 @@ record:
   title: Resolved permission issues when using `docker run --user xxx`
   type: change
 related_changes:
-- '[[Changes/OpenHands/2024-07-13-6-safety-and-privacy-changes-in-0-8-0|6 Safety and
-  Privacy changes in 0.8.0]]'
 - '[[Changes/OpenHands/2024-07-19-2-safety-and-privacy-changes-in-0-8-1|2 Safety and
   Privacy changes in 0.8.1]]'
+- '[[Changes/AnythingLLM/2024-07-26-3-safety-and-privacy-changes-in-v1-0-0|3 Safety
+  and Privacy changes in v1.0.0]]'
 - '[[Changes/OpenHands/2024-07-27-fix-update-swebenchsshbox-after-global-config-was-removed-from-sandbox-by-rajwor|FIX
   Update SWEBenchSSHBox after global config was removed…]]'
 source_release: '[[Releases/Aider/aider-2024-07-31-v0-47-0-github-168059187-28da6242|aider-2024-07-31-v0-47-0-github-168059187-28da6242]]'

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6d1bf6bc107c97d0cf602175992b5ee2bea6fb88b22d260aa85408b090e170f8
+machine_hash: 1c762e979d76a954f5f575327fe9c80a389832101c3346e7a2b8d56f77d749c5
 product: open-webui
 product_name: Open WebUI
 record:
@@ -47,12 +47,12 @@ record:
   title: 2 Search and Browsing changes in v0.5.13
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2025-02-05-3-search-and-browsing-changes-in-v0-5-8|3 Search
-  and Browsing changes in v0.5.8]]'
 - '[[Changes/Open WebUI/2025-02-13-2-search-and-browsing-changes-in-v0-5-11|2 Search
   and Browsing changes in v0.5.11]]'
 - '[[Changes/ChatGPT/2025-02-14-set-chatgpt-as-default-search-engine-in-safari|Set
   ChatGPT as default search engine in Safari]]'
+- '[[Changes/AnythingLLM/2025-02-18-add-improved-logging-and-introspection-to-web-browsing-by-timothycarambat-in-htt|Add
+  improved logging and introspection to web-browsing]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-02-18-v0-5-13-github-200829556-33b45e61|open-webui-2025-02-18-v0-5-13-github-200829556-33b45e61]]'
 source_type: github_releases
 theme: search-browsing
@@ -88,7 +88,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.5.13
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Search and Browsing
 
-- Earlier: 2025-02-14 · ChatGPT · [[Changes/ChatGPT/2025-02-14-set-chatgpt-as-default-search-engine-in-safari|Set ChatGPT as default search engine in Safari]]
+- Earlier: 2025-02-18 · AnythingLLM · [[Changes/AnythingLLM/2025-02-18-add-improved-logging-and-introspection-to-web-browsing-by-timothycarambat-in-htt|Add improved logging and introspection to web-browsing]]
 - Later: 2025-02-19 · Cursor · [[Changes/Cursor/2025-02-19-web-search-agent-can-now-automatically-search-the-web-for-up-to-date-information|Web search: Agent can now automatically search the web for up-to-date information…]]
 <!-- chronolog:end -->
 

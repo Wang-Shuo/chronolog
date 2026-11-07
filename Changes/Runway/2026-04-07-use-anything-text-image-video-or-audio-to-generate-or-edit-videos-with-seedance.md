@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: video-generation
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: feb8c4ee83ad85e79030ffae1834f119619258b7ca9a8f3527e0e56d22a54545
+machine_hash: 9a4d010f689a4ea80d9de1c51088264218fa5693fca5d892bea32a20f046fb01
 product: runway
 product_name: Runway
 record:
@@ -46,8 +46,8 @@ record:
   title: Seedance 2.0
   type: change
 related_changes:
-- '[[Changes/Descript/2026-03-17-media-generation-a-single-place-to-generate-images-and-video|Media
-  generation: a single place to generate images and video]]'
+- '[[Changes/Recraft/2026-03-20-we-ve-added-video-generation-to-recraft|Video generation
+  now available]]'
 - '[[Changes/HeyGen/2026-04-02-cinematic-avatar-scenes|Cinematic avatar scenes]]'
 - '[[Changes/HeyGen/2026-04-06-video-agent-now-generates-cinematic-footage-around-your-digital-twin-what-this-m|Video
   Agent now generates cinematic footage around your Digital Twin]]'
@@ -78,7 +78,7 @@ type: change
 ## Nearby in Video Generation
 
 - Earlier: 2026-04-06 · HeyGen · [[Changes/HeyGen/2026-04-06-video-agent-now-generates-cinematic-footage-around-your-digital-twin-what-this-m|Video Agent now generates cinematic footage around your Digital Twin]]
-- Later: 2026-04-16 · Descript · [[Changes/Descript/2026-04-16-the-hedra-character-2-avatar-video-generation-model-https-help-descript-com-hc-e|The Hedra Character 2 avatar video generation…]]
+- Later: 2026-04-14 · Recraft · [[Changes/Recraft/2026-04-14-we-ve-added-new-video-generation-models-seedance-2-0-seedance-2-0-fast-pixverse|Recraft adds new video generation models]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

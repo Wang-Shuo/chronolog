@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 62ceb9665f12dbf02ee0a4437356003a25d92c9ce5275395add3594d3d470be2
+machine_hash: f2e06bc565766bd3d3afb876c0f3bf0660c259f11e5283d19f3e8f3cb9bbeae7
 product: openhands
 product_name: OpenHands
 record:
@@ -42,8 +42,8 @@ record:
   title: 'feat: add linux desktop installer build (CI + deb maintainer fix)'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-08-26-39811-restrict-macos-preference-reads-to-full-disk-policies-copyberry|♯39811
-  Restrict macOS preference reads to full-disk policies @copyberry]]'
+- '[[Changes/AnythingLLM/2026-08-27-3-mobile-and-desktop-changes-in-v1-16-1|3 Mobile
+  and Desktop changes in v1.16.1]]'
 - '[[Changes/GitHub Copilot CLI/2026-08-27-sandboxed-builds-on-windows-create-their-scratch-caches-on-first-run-so-cargo-go|Sandboxed
   builds on Windows create their scratch caches on first run, so cargo, go…]]'
 - '[[Changes/Kimi Code/2026-08-27-web-improve-mobile-ui-styling|web: Improve mobile

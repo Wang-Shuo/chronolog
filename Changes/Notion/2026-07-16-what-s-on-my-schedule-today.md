@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: fe9720b61f345d2075453d9b6ba88b3926e8b65996e58a963e79091e78119813
+machine_hash: 508a2c740671fa8035874a0f24d35da6373cb6313df64db7479eea740cd4d339
 product: notion
 product_name: Notion
 record:
@@ -78,7 +78,7 @@ type: change
 ## Nearby in Automation and Scheduling
 
 - Earlier: 2026-07-13 · OpenClaw · [[Changes/OpenClaw/2026-07-13-channel-setup-warnings-are-now-available-as-structured-doctor-lint-findings-with|Channel setup warnings are now available as structured Doctor lint findings…]]
-- Later: 2026-07-17 · Dify · [[Changes/Dify/2026-07-17-2-automation-and-scheduling-changes-in-1-16-0|2 Automation and Scheduling changes in 1.16.0]]
+- Later: 2026-07-17 · Devin · [[Changes/Devin/2026-07-17-revamped-automations-pages|Revamped Automations Pages]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

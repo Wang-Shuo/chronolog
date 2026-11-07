@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f721a08c80d6cfd90a5c8e4837445aadefbab0d6722f5dd70d5f9137ac607c5f
+machine_hash: 55c1993427eeaca6cf062bd0f565ffa3ff9eb1770f475c2ad28555697846902d
 product: opencode
 product_name: OpenCode
 record:
@@ -41,10 +41,9 @@ record:
   title: Desktop Cache session-scoped stores and add optional context gating
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-01-06-2-context-window-changes-in-rust-v0-78-0|2 Context
-  Window changes in rust-v0.78.0]]'
 - '[[Changes/Gemini CLI/2026-01-07-add-core-tool-that-adds-all-context-from-the-core-package-by-jacob314-in-https-g|Add
   core tool that adds all context from the core package]]'
+- '[[Changes/Devin/2026-01-09-copy-context-button|Copy Context Button]]'
 - '[[Changes/Open WebUI/2026-01-09-3-context-window-changes-in-v0-7-0|3 Context Window
   changes in v0.7.0]]'
 source_release: '[[Releases/OpenCode/opencode-2026-01-09-v1-1-8-f98d35e8|opencode-2026-01-09-v1-1-8-f98d35e8]]'
@@ -81,7 +80,7 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2026-01-09 · Open WebUI · [[Changes/Open WebUI/2026-01-09-3-context-window-changes-in-v0-7-0|3 Context Window changes in v0.7.0]]
-- Later: 2026-01-13 · Claude Code · [[Changes/Claude Code/2026-01-13-added-context-window-used-percentage-and-context-window-remaining-percentage-fie|Added context_window.used_percentage and context_window.remaining_percentage…]]
+- Later: 2026-01-12 · Raycast · [[Changes/Raycast/2026-01-12-ai-adjusted-chat-title-logic-to-use-chat-context-instead-of-device-language|AI: Adjusted chat title logic to use chat context instead of device language]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

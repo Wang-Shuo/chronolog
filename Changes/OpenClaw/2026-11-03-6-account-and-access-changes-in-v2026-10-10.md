@@ -14,12 +14,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5fbe56f741e8369149f926fed5c547c48d23d6625f8bbbf54de8e2252e4739cd
+machine_hash: 87949b6a2cf238deb9c4e18f95bdca3d6421a9e91c68c88c1d540751433bb9ea
 product: openclaw
 product_name: OpenClaw
 record:
@@ -70,8 +70,8 @@ record:
   title: 6 Account and Access changes in v2026.10.10
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-31-vscode-added-sign-in-to-a-claude-apps-gateway-from-the-chat-panel-with-no-termin|VSCode
-  Added sign-in to a Claude apps gateway from the chat panel, with no…]]'
+- '[[Changes/Devin/2026-11-02-oauth-discovery-from-the-server-s-401|OAuth Discovery
+  from the Server''s 401]]'
 - '[[Changes/ElevenLabs/2026-11-02-fixes-oauth-discovery-names-the-host-the-client-connected-to-so-mcp-clients-such|Fixes:
   OAuth discovery names the host the client connected to, so MCP clients…]]'
 - "[[Changes/Open WebUI/2026-11-03-saved-oauth-provider-settings-oauth-providers-now-load-their-saved-connection-se|\U0001F511

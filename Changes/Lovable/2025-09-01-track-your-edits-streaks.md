@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: f99280c0ed733ffba918979038809a1ff4765280067d40b0a7f6ef15853563d6
+machine_hash: db9bc381195c457ddbd133e902e05a96ec4c7ece60eeaa63253620ed2400ff80
 product: lovable
 product_name: Lovable
 record:
@@ -47,10 +47,10 @@ record:
   title: Track your edits + streaks**
   type: change
 related_changes:
-- '[[Changes/Dify/2025-08-27-2-editor-experience-changes-in-1-8-0|2 Editor Experience
-  changes in 1.8.0]]'
 - '[[Changes/Gemini CLI/2025-08-27-2-editor-experience-changes-in-v0-2-0|2 Editor
   Experience changes in v0.2.0]]'
+- '[[Changes/LM Studio/2025-08-28-added-ability-to-edit-chat-name-from-chat-tab-dropdown-or-double-clicking-chat-t|Added
+  ability to edit chat name from chat tab dropdown, or double clicking chat tab]]'
 - '[[Changes/Descript/2025-08-29-what-s-new|What’s new?]]'
 source_release: '[[Releases/Lovable/lovable-2025-09-01-2025-09-01-b1665f28|lovable-2025-09-01-2025-09-01-b1665f28]]'
 source_type: lovable_changelog

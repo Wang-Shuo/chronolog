@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 131b686ebdace82f698e61ae2ff7c9be8be3208bd77c4e1cf64ae1a5e37dfa74
+machine_hash: bf3e0c69d9e800339a137d9b7b5ee11d3b9bb80cbf943d8debcec3cc8e0aca3d
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -53,8 +53,8 @@ record:
   title: Client Packages
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-10-07-2-agent-mode-changes-in-v0-8-0|2 Agent Mode changes
-  in v0.8.0]]'
+- '[[Changes/AnythingLLM/2025-10-09-10-agent-mode-changes-in-v1-9-0|10 Agent Mode
+  changes in v1.9.0]]'
 - '[[Changes/Replit/2025-10-10-webview-logging-experience|Webview logging experience]]'
 - '[[Changes/Replit/2025-10-10-agent-usage-cost-visibility|Agent usage cost visibility]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2025-10-14-2025-10-14-d7a82a24|elevenlabs-2025-10-14-2025-10-14-d7a82a24]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: bc0cc9b2689976693637fd0a4255f878593e75d51f81e127c643d8f26dc7a8c6
+machine_hash: 69f5ae4ad3caff0e53c67a5c998d11979bce21c14bc79c50cd21d9ab2bfd1961
 product: notion
 product_name: Notion
 record:
@@ -49,12 +49,12 @@ record:
   title: "New widgets for iOS 14 \U0001F4CC"
   type: change
 related_changes:
-- '[[Changes/Notion/2020-09-29-write-your-notes-by-hand-on-ipad|Write your notes by
-  hand on iPad ✍️]]'
-- "[[Changes/Notion/2020-10-15-better-keyboard-trackpad-mouse-support-for-ipad|Better
-  keyboard, trackpad & mouse support for iPad \U0001F42D]]"
 - '[[Changes/Descript/2020-10-21-with-descript-s-new-screen-recording-utility-you-can-now-take-screen-recordings|Screen
   Recorder]]'
+- '[[Changes/Raycast/2020-10-21-file-search-added-more-actions-to-copy-files-and-file-names-show-info-in-the-fin|File
+  Search: Added more actions to copy files and file names, show info…]]'
+- '[[Changes/Raycast/2020-11-19-we-now-prevent-the-app-from-silently-being-terminated-by-macos-under-certain-con|We
+  now prevent the app from silently being terminated by macOS under certain conditions]]'
 source_release: '[[Releases/Notion/notion-2020-11-24-https-www-notion-com-releases-2020-11-24-a3bd5b3b|notion-2020-11-24-https-www-notion-com-releases-2020-11-24-a3bd5b3b]]'
 source_type: notion_changelog
 theme: mobile-desktop
@@ -87,7 +87,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2020-10-21 · Descript · [[Changes/Descript/2020-10-21-with-descript-s-new-screen-recording-utility-you-can-now-take-screen-recordings|Screen Recorder]]
+- Earlier: 2020-11-19 · Raycast · [[Changes/Raycast/2020-11-19-we-now-prevent-the-app-from-silently-being-terminated-by-macos-under-certain-con|We now prevent the app from silently being terminated by macOS under certain conditions]]
 - Later: 2020-12-02 · Notion · [[Changes/Notion/2020-12-02-mac-app-for-apple-silicon|Mac App for Apple Silicon 💻]]
 <!-- chronolog:end -->
 

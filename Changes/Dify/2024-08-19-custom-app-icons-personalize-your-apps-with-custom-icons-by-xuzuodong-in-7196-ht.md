@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 71d267e56b9d70e2c9f4ec45fc5456568dbba088f5567c5f902483aeb5547522
+machine_hash: a858cfc758246087a0d5a372bb78c006c04a65f65d2fa7ae6395621a7a114618
 product: dify
 product_name: Dify
 record:
@@ -42,12 +42,12 @@ record:
   title: '**Custom App Icons**'
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2024-08-07-non-streaming-support-for-functions-plugin-fixed-a-functionality-issue-with-the|\U0001F527
-  Non-Streaming Support for Functions Plugin]]"
 - '[[Changes/Notion/2024-08-13-use-multiple-charts-to-track-everything|Use multiple
   charts to track everything]]'
 - "[[Changes/Open WebUI/2024-08-14-integration-testing-improvements-modified-how-cypress-integration-tests-detect-c|\U0001F6A7
   Integration Testing Improvements]]"
+- '[[Changes/Raycast/2024-08-14-window-management-increased-timeout-period-to-15-s-for-apps-that-take-very-long|Window
+  Management: Increased timeout period to 15 s for apps that take very long to open]]'
 source_release: '[[Releases/Dify/dify-2024-08-19-0-7-1-github-170870367-4677435e|dify-2024-08-19-0-7-1-github-170870367-4677435e]]'
 source_type: github_releases
 theme: apps-integrations
@@ -83,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2024-08-14 · Open WebUI · [[Changes/Open WebUI/2024-08-14-integration-testing-improvements-modified-how-cypress-integration-tests-detect-c|🚧 Integration Testing Improvements]]
+- Earlier: 2024-08-14 · Raycast · [[Changes/Raycast/2024-08-14-window-management-increased-timeout-period-to-15-s-for-apps-that-take-very-long|Window Management: Increased timeout period to 15 s for apps that take very long to open]]
 - Later: 2024-09-03 · Dify · [[Changes/Dify/2024-09-03-4-apps-and-integrations-changes-in-0-7-3|4 Apps and Integrations changes in 0.7.3]]
 <!-- chronolog:end -->
 

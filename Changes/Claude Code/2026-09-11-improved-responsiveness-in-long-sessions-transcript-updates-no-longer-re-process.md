@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: fcbf71f5d40270f8b7e6a01ba32d4ab522ca84cb50fc1596596c52d387e913d1
+machine_hash: 8b48f4d554afe7c70863eb0bccc12bc69eb4390942af83e9cea19c99057557da
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,8 +43,8 @@ record:
   title: Improved responsiveness in long sessions
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-09-improved-prompt-input-responsiveness-keystrokes-no-longer-occasionally-wait-a-fr|Improved
-  prompt input responsiveness]]'
+- '[[Changes/Superwhisper/2026-09-09-keyboard-x-local-model-speed-improvements|Keyboard
+  x Local Model speed improvements]]'
 - '[[Changes/Claude Code/2026-09-10-2-reliability-and-performance-changes-in-v2-1-268|2
   Reliability and Performance changes in v2.1.268]]'
 - '[[Changes/Dify/2026-09-10-a-plugin-could-exhaust-worker-memory-with-one-declared-number-the-blob-chunk-mer|A

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: be35caeac4a5368c2fe524995002c56a48d5d258975659f3ae430763aacebbfc
+machine_hash: 30474d782514343821e5cc00ecdfc523e412b9fa4e13d45dc116e833f11f666d
 product: microsoft-365-copilot
 product_name: Microsoft 365 Copilot
 record:
@@ -48,12 +48,12 @@ record:
   title: SharePoint list agent [Web] (Microsoft 365 Copilot)
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-11-03-3-agent-mode-changes-in-v1-35-0|3 Agent Mode changes
-  in v1.35.0]]'
 - '[[Changes/Dify/2026-11-04-14-agent-mode-changes-in-1-19-0|14 Agent Mode changes
   in 1.19.0]]'
 - '[[Changes/Kimi Code/2026-11-04-3-agent-mode-changes-in-kimi-code-2-5-0|3 Agent
   Mode changes in Kimi Code 2.5.0]]'
+- '[[Changes/Krea/2026-11-04-turn-agent-on-or-off-with-access-controls|Turn Agent
+  on or off with Access Controls]]'
 source_release: '[[Releases/Microsoft 365 Copilot/microsoft-365-copilot-2026-11-04-2026-11-04-22f6b059|microsoft-365-copilot-2026-11-04-2026-11-04-22f6b059]]'
 source_type: m365_copilot_changelog
 theme: agent-mode
@@ -90,7 +90,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-11-04 · Kimi Code · [[Changes/Kimi Code/2026-11-04-3-agent-mode-changes-in-kimi-code-2-5-0|3 Agent Mode changes in Kimi Code 2.5.0]]
+- Earlier: 2026-11-04 · Krea · [[Changes/Krea/2026-11-04-turn-agent-on-or-off-with-access-controls|Turn Agent on or off with Access Controls]]
 - Later: 2026-11-05 · OpenClaw · [[Changes/OpenClaw/2026-11-05-4-agent-mode-changes-in-v2026-11-1|4 Agent Mode changes in v2026.11.1]]
 <!-- chronolog:end -->
 

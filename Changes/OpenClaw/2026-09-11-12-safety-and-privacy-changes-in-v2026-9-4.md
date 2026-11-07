@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9951167de2639cb3160a4b850af5aa119053fbb6ef11819328ec2e21e7ebb2af
+machine_hash: b75dfed5ad33919b368077fef4c36da48a960a4b0ae83baa6ba4bcf84c5c52a3
 product: openclaw
 product_name: OpenClaw
 record:
@@ -190,7 +190,7 @@ Source: https://docs.openclaw.ai/releases/2026.9.4
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-09-11 · Claude Code · [[Changes/Claude Code/2026-09-11-5-safety-and-privacy-changes-in-v2-1-269|5 Safety and Privacy changes in v2.1.269]]
-- Later: 2026-09-12 · Claude Code · [[Changes/Claude Code/2026-09-12-fixed-read-only-git-commands-in-bash-unexpectedly-asking-for-permission-after-a|Fixed read-only git commands in Bash unexpectedly asking for permission after…]]
+- Later: 2026-09-11 · Raycast · [[Changes/Raycast/2026-09-11-ai-tool-confirmations-now-default-to-auto-so-sessions-no-longer-ask-for-permissi|AI : Tool confirmations now default to Auto, so sessions no longer ask…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

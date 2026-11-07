@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c23f7b6d0d104960452960bbe9887bcadc544654af187eb31dd929d724a7b845
+machine_hash: 3e31b7d8c14dd1409860338c1896410dd2f15081cf5ae2e97b96f2d29bbc225f
 product: claude-code
 product_name: Claude Code
 record:
@@ -50,8 +50,7 @@ record:
   title: 3 Apps and Integrations changes in v2.1.225
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-08-07-65-apps-and-integrations-changes-in-rust-v0-147-0|65
-  Apps and Integrations changes in rust-v0.147.0]]'
+- '[[Changes/Devin/2026-08-07-mcp-connection-improvements|MCP Connection Improvements]]'
 - '[[Changes/Google Antigravity/2026-08-07-2-apps-and-integrations-changes-in-hub-v2-6-0-faster-long-conversations|2
   Apps and Integrations changes in HUB v2.6.0 — Faster long conversations…]]'
 - '[[Changes/Google Antigravity/2026-08-07-faster-long-conversations-more-reliable-hooks-and-subagents|Faster

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 24bed7aab818a12eedf97da5696505c2d56ebcedc736e9c54baec149d480a357
+machine_hash: c2aa8e14297e55fbd35a880561b79f62fe89d17300a10b570089434ae2c6cf2d
 product: lovable
 product_name: Lovable
 record:
@@ -49,12 +49,9 @@ record:
   title: Project details when you hover the sidebar
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-08-21-keep-recent-chats-easier-to-browse-your-sidebar-now-shows-up-to-eight-recent-con|Keep
-  recent chats easier to browse]]'
-- '[[Changes/ChatGPT/2026-08-21-generated-images-are-easier-to-view-and-your-recent-conversations-are-easier-to|Generated
-  images are easier to view, and your recent conversations are easier to browse]]'
-- '[[Changes/Claude Code/2026-08-21-3-interface-experience-changes-in-v2-1-239|3 Interface
-  Experience changes in v2.1.239]]'
+- '[[Changes/Devin/2026-08-21-redesigned-sessions-sidebar|Redesigned Sessions Sidebar]]'
+- '[[Changes/Devin/2026-08-21-scan-effort-selection|Scan Effort Selection]]'
+- '[[Changes/Devin/2026-08-21-session-subscribers|Session Subscribers]]'
 source_release: '[[Releases/Lovable/lovable-2026-08-21-2026-08-21-07917b7e|lovable-2026-08-21-2026-08-21-07917b7e]]'
 source_type: lovable_changelog
 theme: interface-experience
@@ -84,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-08-21 · Claude Code · [[Changes/Claude Code/2026-08-21-3-interface-experience-changes-in-v2-1-239|3 Interface Experience changes in v2.1.239]]
+- Earlier: 2026-08-21 · Devin · [[Changes/Devin/2026-08-21-session-subscribers|Session Subscribers]]
 - Later: 2026-08-21 · Midjourney · [[Changes/Midjourney/2026-08-21-folders-and-organizing|Folders and organizing]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: eab100cf6864c0a85ca059730c6926ea81f944e0767cf9c9b98faf5b277d3a5f
+machine_hash: 419e063975a97be8f0790176afaffb65e799561d1f2215a14f3d9bd0fc7d6308
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,8 +45,7 @@ record:
     left edge
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-07-improved-the-bash-edit-diff-note-to-say-the-listed-files-changed-while-the-comma|Improved
-  the Bash edit diff note to say the listed files changed while the command…]]'
+- '[[Changes/Devin/2026-10-07-preview-chips-are-links|Preview Chips Are Links]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-07-read-user-settings-only-from-copilot-settings-json-user-setting-keys-in-copilot|Read
   user settings only from ~/.copilot/settings.json]]'
 - '[[Changes/Google Antigravity/2026-10-07-file-edits-terminal-commands-and-file-reads-between-agent-replies-now-group-into|File

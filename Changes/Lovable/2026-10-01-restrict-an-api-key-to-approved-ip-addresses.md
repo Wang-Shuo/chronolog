@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 9be50e87359368f591f02fc71037a87b1364af7109bc62efb41c7b07191b6100
+machine_hash: 9d36538d0a021de2e5e1c158fb47b212e1084807054298147ed9db836fc08d4b
 product: lovable
 product_name: Lovable
 record:
@@ -58,10 +58,8 @@ record:
   title: Restrict an API key to approved IP addresses
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-28-claude-tag-improved-notify-members-now-in-admin-settings-one-press-reaches-every|Claude
-  Tag Improved "Notify members now" in admin settings]]'
-- '[[Changes/ChatGPT/2026-09-29-for-the-next-month-dots-usage-won-t-count-toward-eligible-pro-business-and-enter|For
-  the next month, dots usage won’t count toward eligible Pro, Business…]]'
+- '[[Changes/Devin/2026-09-30-environments-and-analytics|Environments and Analytics]]'
+- '[[Changes/Devin/2026-09-30-outposts|Outposts]]'
 - '[[Changes/OpenClaw/2026-09-30-2-enterprise-and-administration-changes-in-v2026-9-7|2
   Enterprise and Administration changes in v2026.9.7]]'
 source_release: '[[Releases/Lovable/lovable-2026-10-01-2026-10-01-a783b57b|lovable-2026-10-01-2026-10-01-a783b57b]]'

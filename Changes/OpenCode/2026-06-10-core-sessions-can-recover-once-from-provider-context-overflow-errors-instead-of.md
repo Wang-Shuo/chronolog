@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3d86336541de493e0f5b8128b7b1b5c4d186794f8993e47fbdee9bf9b6a7ca87
+machine_hash: 78a5768c65f5ec348df251818d7f75085fee439a6f0ecb73e4b9eac350ed14c7
 product: opencode
 product_name: OpenCode
 record:
@@ -42,8 +42,8 @@ record:
   title: Core Sessions can recover once from provider context-overflow errors instead…
   type: change
 related_changes:
-- '[[Changes/v0/2026-06-08-press-cmd-k-to-open-a-new-context-aware-command-palette-and-jump-to-chats-projec|Press
-  Cmd+K to open a new context-aware command palette and jump to chats, projects…]]'
+- '[[Changes/AnythingLLM/2026-06-09-2-context-window-changes-in-v1-14-0|2 Context
+  Window changes in v1.14.0]]'
 - '[[Changes/Codex CLI/2026-06-09-3-context-window-changes-in-rust-v0-139-0|3 Context
   Window changes in rust-v0.139.0]]'
 - '[[Changes/Kimi Code/2026-06-09-2-context-window-changes-in-kimi-code-0-12-0|2 Context

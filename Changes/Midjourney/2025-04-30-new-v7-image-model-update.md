@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 236d47c627125aa43353fe699776a64f13c87f6b62f3303d7fe8d82bb95012fc
+machine_hash: 62899d20f2dc9981c5f3bd8a1ba317951d3cc18f0e73d90d6adcd19abbd3c3de
 product: midjourney
 product_name: Midjourney
 record:
@@ -48,11 +48,12 @@ record:
   title: New V7 image model update
   type: change
 related_changes:
-- '[[Changes/Windsurf/2025-04-27-misc|Misc]]'
 - '[[Changes/Dify/2025-04-28-chore-disabled-struct-output-not-show-model-not-support-warning-by-iamjoel-in-ht|chore:
   disabled struct output not show model not support warning]]'
 - '[[Changes/ChatGPT/2025-04-29-we-ve-reverted-the-most-recent-update-to-gpt-4o-due-to-issues-with-overly-agreea-097503|Updates
   to GPT-4o]]'
+- '[[Changes/Superwhisper/2025-04-29-background-model-loading-nova-3-fixes|Background
+  Model Loading & Nova 3 Fixes]]'
 source_release: '[[Releases/Midjourney/midjourney-2025-04-30-https-updates-midjourney-com-v7-update-editor-and-exp-0b50b695|midjourney-2025-04-30-https-updates-midjourney-com-v7-update-editor-and-exp-0b50b695]]'
 source_type: midjourney_changelog
 theme: model-support
@@ -83,8 +84,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-04-29 · ChatGPT · [[Changes/ChatGPT/2025-04-29-we-ve-reverted-the-most-recent-update-to-gpt-4o-due-to-issues-with-overly-agreea-097503|Updates to GPT-4o]]
-- Later: 2025-05-02 · Midjourney · [[Changes/Midjourney/2025-05-02-we-re-launching-v7-model-speedups-today-this-includes-the-release-of-the-default|Midjourney launches V7 model speedups today]]
+- Earlier: 2025-04-29 · Superwhisper · [[Changes/Superwhisper/2025-04-29-background-model-loading-nova-3-fixes|Background Model Loading & Nova 3 Fixes]]
+- Later: 2025-04-30 · Raycast · [[Changes/Raycast/2025-04-30-3-model-support-changes-in-raycast-macos-v1-1-97-0|3 Model Support changes in Raycast macos-v1 1.97.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

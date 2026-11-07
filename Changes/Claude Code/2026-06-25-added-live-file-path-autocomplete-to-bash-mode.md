@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 83e4f6f1b05da0f93e47e58fe1d0a4581bd57208e84274dc6a5e8f8bed2d0153
+machine_hash: d9d6ed9c00fb58b5664f2414a4078ede2022a00480fb125275b974bf8440e6a5
 product: claude-code
 product_name: Claude Code
 record:
@@ -40,12 +40,12 @@ record:
   title: Added live file path autocomplete to bash mode (`!`)
   type: change
 related_changes:
-- '[[Changes/Kimi Code/2026-06-24-show-subcommand-suggestions-after-tab-completing-a-slash-command-name|Show
-  subcommand suggestions after Tab-completing a slash command name]]'
-- '[[Changes/Lovable/2026-06-24-manage-scheduled-jobs-in-lovable-cloud|Manage scheduled
-  jobs in Lovable Cloud]]'
-- '[[Changes/OpenCode/2026-06-24-desktop-kept-draft-prompt-state-per-tab|Desktop Kept
-  draft prompt state per tab]]'
+- '[[Changes/Raycast/2026-06-24-ai-show-richer-error-messages-when-completion-fails-in-certain-cases|AI
+  : Show richer error messages when completion fails in certain cases]]'
+- '[[Changes/Raycast/2026-06-24-ai-show-richer-error-messages-when-completion-fails-in-certain-cases-895f6d|AI
+  : Show richer error messages when completion fails in certain cases]]'
+- '[[Changes/AnythingLLM/2026-06-25-2-editor-experience-changes-in-v1-15-0|2 Editor
+  Experience changes in v1.15.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-25-v2-1-193-github-344922230-0655000d|claude-code-2026-06-25-v2-1-193-github-344922230-0655000d]]'
 source_type: github_releases
 theme: editor-experience
@@ -79,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-06-24 · OpenCode · [[Changes/OpenCode/2026-06-24-desktop-kept-draft-prompt-state-per-tab|Desktop Kept draft prompt state per tab]]
+- Earlier: 2026-06-25 · AnythingLLM · [[Changes/AnythingLLM/2026-06-25-2-editor-experience-changes-in-v1-15-0|2 Editor Experience changes in v1.15.0]]
 - Later: 2026-06-25 · Dify · [[Changes/Dify/2026-06-25-3-editor-experience-changes-in-1-15-0|3 Editor Experience changes in 1.15.0]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 937e2b8ed872312a1fa0f5b5f5a8eff725aa71de340ceba26a613f28f7493256
+machine_hash: 4e087fc4d70d63b6e718178e8022ac4e21affad895a8f7831486231acf5ac396
 product: open-webui
 product_name: Open WebUI
 record:
@@ -160,7 +160,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.11.4
 ## Nearby in Files and Data
 
 - Earlier: 2026-09-19 · OpenClaw · [[Changes/OpenClaw/2026-09-19-7-files-and-data-changes-in-v2026-9-5|7 Files and Data changes in v2026.9.5]]
-- Later: 2026-09-22 · Codex CLI · [[Changes/Codex CLI/2026-09-22-46027-document-and-test-wildcards-in-network-proxy-domain-patterns-viyatb-oai|♯46027 Document and test ? wildcards in network proxy domain patterns @viyatb-oai]]
+- Later: 2026-09-22 · AnythingLLM · [[Changes/AnythingLLM/2026-09-22-3-files-and-data-changes-in-v1-16-2|3 Files and Data changes in v1.16.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

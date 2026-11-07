@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a186d329dac32b59db985f77c1f80ec7ae495d611a77f0d222cc53e22376be63
+machine_hash: bbd618be33380595f06dfc67b661ce8a2e3f7c33b822cdf58c3d8b808c5a4fb6
 product: dify
 product_name: Dify
 record:
@@ -102,7 +102,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.6.0
 ## Nearby in Model Support
 
 - Earlier: 2025-07-10 · Codex CLI · [[Changes/Codex CLI/2025-07-10-added-new-config-option-model-supports-reasoning-summaries-https-github-com-open|Added new config option]]
-- Later: 2025-07-11 · Gemini CLI · [[Changes/Gemini CLI/2025-07-11-5-model-support-changes-in-v0-1-10|5 Model Support changes in v0.1.10]]
+- Later: 2025-07-10 · Recraft · [[Changes/Recraft/2025-07-10-we-ve-added-ideogram-v3-as-a-new-external-model-in-recraft|Recraft adds Ideogram V3 as a new external model]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

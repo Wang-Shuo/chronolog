@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 195bfd33dafff42694f527833e4c3de58406b550237b3ec6430667212c1d1f33
+machine_hash: 8f0a4cdbb82f1b98a5d7e7990548e1d6e535aa28bf77897a8471e3b262b009c4
 product: cline
 product_name: Cline
 record:
@@ -44,9 +44,9 @@ record:
     Tool…
   type: change
 related_changes:
-- '[[Changes/Descript/2025-12-20-play-your-script-while-recording-b-roll|Play your
-  script while recording B-roll]]'
 - '[[Changes/Descript/2025-12-20-editor|Editor]]'
+- '[[Changes/Raycast/2025-12-20-2-editor-experience-changes-in-raycast-windows-0-40|2
+  Editor Experience changes in Raycast windows 0.40]]'
 - '[[Changes/Open WebUI/2025-12-21-3-editor-experience-changes-in-v0-6-42|3 Editor
   Experience changes in v0.6.42]]'
 source_release: '[[Releases/Cline/cline-2025-12-22-v3-46-0-github-272325612-60808136|cline-2025-12-22-v3-46-0-github-272325612-60808136]]'

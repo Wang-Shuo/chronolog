@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 524b3e3774398538e4c093d2211d54612e3138b9d04fb9d0de71cb04af2e29ea
+machine_hash: f1ff365e0bd3b84f7d6fccc0b720c0fa38d05c8928f74298af8c7090cdd6b977
 product: openhands
 product_name: OpenHands
 record:
@@ -79,7 +79,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2025-06-20 · OpenHands · [[Changes/OpenHands/2025-06-20-2-developer-workflow-changes-in-0-44-0|2 Developer Workflow changes in 0.44.0]]
-- Later: 2025-06-24 · OpenHands · [[Changes/OpenHands/2025-06-24-introduced-optional-vi-style-keybindings-for-confirmation-prompts-navigating-men|Introduced optional vi-style keybindings for confirmation prompts navigating menus…]]
+- Later: 2025-06-20 · Raycast · [[Changes/Raycast/2025-06-20-2-developer-workflow-changes-in-raycast-windows-0-24|2 Developer Workflow changes in Raycast windows 0.24]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

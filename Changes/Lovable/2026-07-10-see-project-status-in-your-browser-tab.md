@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 0d89404b6526de581b68b92341a384add516f18202b5bdbd413c31ed07d71502
+machine_hash: 4be7f717a19965ae35d48d0b609431b133e44177b052a19a9c883f9d49149210
 product: lovable
 product_name: Lovable
 record:
@@ -45,8 +45,8 @@ record:
   title: See project status in your browser tab
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-07-09-improved-image-gallery-in-the-files-tab|Improved image
-  gallery in the Files tab]]'
+- '[[Changes/Raycast/2026-07-09-ai-chat-reorder-and-edit-queued-messages-before-they-re-sent-675bba|AI
+  Chat : Reorder and edit queued messages before they''re sent]]'
 - '[[Changes/Claude Code/2026-07-10-added-a-doctor-check-that-proposes-trimming-checked-in-claude-md-files-by-cuttin|Added
   a /doctor check that proposes trimming checked-in CLAUDE.md files…]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-10-2-editor-experience-changes-in-v1-0-70|2

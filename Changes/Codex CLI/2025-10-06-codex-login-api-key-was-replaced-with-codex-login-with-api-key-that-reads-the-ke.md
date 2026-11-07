@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 60cadf2bc1cd60dc56019ec8e3ac2d107b658828e55ffcbc45abcb0ee829fd2a
+machine_hash: 6f106e36d01e689c7daa0d5c5d2f13bce379e7c7cfb53c24aa4d6ce00e86f7f1
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -54,12 +54,12 @@ record:
     reads…'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2025-10-01-improved-how-we-extract-paths-from-shell-commands-for-permission-handling-might|Improved
-  how we extract paths from shell commands for permission handling…]]'
 - '[[Changes/OpenHands/2025-10-01-significantly-improved-the-security-of-the-openhands-enterprise-docker-image-by|Significantly
   improved the security of the OpenHands enterprise Docker image…]]'
 - '[[Changes/Codex CLI/2025-10-03-3-safety-and-privacy-changes-in-rust-v0-44-0|3 Safety
   and Privacy changes in rust-v0.44.0]]'
+- '[[Changes/Devin/2025-10-03-enterprise-api-v2-git-permissions-endpoint-now-returns-permission-names-dict-map|Enterprise
+  API v2 git permissions endpoint now returns permission\names dict…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-10-06-rust-v0-45-0-github-252516377-0c83cb4a|codex-cli-2025-10-06-rust-v0-45-0-github-252516377-0c83cb4a]]'
 source_type: github_releases
 theme: safety-privacy
@@ -92,7 +92,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2025-10-03 · Codex CLI · [[Changes/Codex CLI/2025-10-03-3-safety-and-privacy-changes-in-rust-v0-44-0|3 Safety and Privacy changes in rust-v0.44.0]]
+- Earlier: 2025-10-03 · Devin · [[Changes/Devin/2025-10-03-enterprise-api-v2-git-permissions-endpoint-now-returns-permission-names-dict-map|Enterprise API v2 git permissions endpoint now returns permission\names dict…]]
 - Later: 2025-10-06 · Lovable · [[Changes/Lovable/2025-10-06-better-workspace-management|Better workspace management]]
 <!-- chronolog:end -->
 

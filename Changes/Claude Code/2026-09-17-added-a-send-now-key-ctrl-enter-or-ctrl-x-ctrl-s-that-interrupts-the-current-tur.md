@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: ef75b3e2e668550a5755d8e06447a1a07da432f9b8eb5f0cfedc1f2af6eda619
+machine_hash: cf475eb71fb900a315d2940a112ce139b8e386f522b1ac34eedba6b777d6a72a
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,8 +48,7 @@ record:
     turn…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-09-16-13-model-support-changes-in-v1-0-85|13
-  Model Support changes in v1.0.85]]'
+- '[[Changes/Krea/2026-09-16-org-wide-usage-reporting|Org-wide Usage reporting]]'
 - '[[Changes/OpenHands/2026-09-16-feat-add-gpt-6-astra-model-support-by-neubig-in-https-github-com-openhands-openh|feat:
   add GPT-6 Astra model support]]'
 - '[[Changes/Claude Code/2026-09-17-2-model-support-changes-in-v2-1-274|2 Model Support

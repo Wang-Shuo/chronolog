@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9769640c8defea90c8e2334f3646d3f4573051655d5f0d6aa1b993162c509888
+machine_hash: b995422c549299934f5c9a7435df032231320be9638580842ecbaeeb2a1d3cda
 product: heygen
 product_name: HeyGen
 record:
@@ -46,12 +46,11 @@ record:
     appearing…
   type: change
 related_changes:
-- '[[Changes/Dify/2026-07-28-3-collaboration-changes-in-1-16-1|3 Collaboration changes
-  in 1.16.1]]'
 - '[[Changes/Codex CLI/2026-07-29-3-collaboration-changes-in-rust-v0-146-0|3 Collaboration
   changes in rust-v0.146.0]]'
 - '[[Changes/Cursor/2026-07-29-switch-between-teams-that-you-belong-to-directly-in-the-app|Switch
   between teams that you belong to directly in the app]]'
+- '[[Changes/Devin/2026-07-29-link-preview-cards-in-chat|Link Preview Cards in Chat]]'
 source_release: '[[Releases/HeyGen/heygen-2026-07-29-https-heygen-noticeable-news-publications-introducing-video-podc-65edd984|heygen-2026-07-29-https-heygen-noticeable-news-publications-introducing-video-podc-65edd984]]'
 source_type: heygen_changelog
 theme: collaboration
@@ -85,8 +84,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-07-29 · Cursor · [[Changes/Cursor/2026-07-29-switch-between-teams-that-you-belong-to-directly-in-the-app|Switch between teams that you belong to directly in the app]]
-- Later: 2026-07-31 · Notion · [[Changes/Notion/2026-07-31-turn-feedback-into-tickets-for-your-engineering-team|Turn feedback into tickets for your engineering team]]
+- Earlier: 2026-07-29 · Devin · [[Changes/Devin/2026-07-29-link-preview-cards-in-chat|Link Preview Cards in Chat]]
+- Later: 2026-07-31 · Devin · [[Changes/Devin/2026-07-31-this-release-also-includes-many-smaller-fixes-and-improvements-including-slack-a|This release also includes many smaller fixes and improvements, including Slack…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

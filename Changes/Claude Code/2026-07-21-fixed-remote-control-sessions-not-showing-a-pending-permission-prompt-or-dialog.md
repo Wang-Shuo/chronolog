@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: fix
-machine_hash: 1db71c3f95e20b1590a225ec7fda6512dfde619f20ae08162789957852ef6610
+machine_hash: 7eb44a9cc56a3d1a37218751aa32fc8bba2c0e073920a6445732f1df6af0d7cc
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,12 +46,12 @@ record:
     dialog…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-20-4-safety-and-privacy-changes-in-v1-0-72|4
-  Safety and Privacy changes in v1.0.72]]'
 - '[[Changes/Kimi Code/2026-07-20-correct-the-yolo-and-auto-permission-mode-descriptions-yolo-auto-approves-tool-a|Correct
   the YOLO and Auto permission mode descriptions]]'
 - '[[Changes/Kimi Code/2026-07-20-fix-running-subagents-not-observing-permission-mode-switches-made-after-they-sta|Fix
   running subagents not observing permission mode switches made after they started]]'
+- '[[Changes/Raycast/2026-07-20-dictation-fixed-microphone-permission-issues-when-starting-dictation|Dictation
+  : Fixed microphone permission issues when starting dictation]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-21-v2-1-217-github-357601516-b5c19f5d|claude-code-2026-07-21-v2-1-217-github-357601516-b5c19f5d]]'
 source_type: github_releases
 theme: safety-privacy
@@ -85,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-07-20 · Kimi Code · [[Changes/Kimi Code/2026-07-20-fix-running-subagents-not-observing-permission-mode-switches-made-after-they-sta|Fix running subagents not observing permission mode switches made after they started]]
+- Earlier: 2026-07-20 · Raycast · [[Changes/Raycast/2026-07-20-dictation-fixed-microphone-permission-issues-when-starting-dictation|Dictation : Fixed microphone permission issues when starting dictation]]
 - Later: 2026-07-21 · Codex CLI · [[Changes/Codex CLI/2026-07-21-17-safety-and-privacy-changes-in-rust-v0-145-0|17 Safety and Privacy changes in rust-v0.145.0]]
 <!-- chronolog:end -->
 

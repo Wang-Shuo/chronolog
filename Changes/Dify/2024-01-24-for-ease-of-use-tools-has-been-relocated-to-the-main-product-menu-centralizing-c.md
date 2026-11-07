@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7de99192415e112848306103bd50178509c49b6fa51b7da381327b84e9a6f380
+machine_hash: d3c89d65ef71036053817023c89e10bee90dc41e494cc3c853df6dad1d589978
 product: dify
 product_name: Dify
 record:
@@ -43,10 +43,10 @@ record:
   title: For ease of use, "Tools" has been relocated to the main product menu, centralizing…
   type: change
 related_changes:
-- '[[Changes/Descript/2024-01-10-removed-a-confusing-tooltip-in-the-media-library-showing-in-point-selection-when|Removed
-  a confusing tooltip in the media library showing In-point selection…]]'
 - '[[Changes/Dify/2024-01-12-feat-app-sidebar-support-collapse-by-zxhlyh-in-https-github-com-langgenius-dify|feat:
   app sidebar support collapse]]'
+- '[[Changes/Superwhisper/2024-01-14-onboarding-flow-activation-bug-fix|Onboarding
+  flow activation bug fix]]'
 - '[[Changes/Descript/2024-01-22-animation-curve-presets|Animation Curve Presets]]'
 source_release: '[[Releases/Dify/dify-2024-01-24-0-5-0-github-138266522-f37b973b|dify-2024-01-24-0-5-0-github-138266522-f37b973b]]'
 source_type: github_releases

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: efda47cf66c1a3440f6a9d05dc5dcf37a5593f8163a2271ab78d5bd4d0b17348
+machine_hash: 1422d5ac634a667b726c7308e56a742137c57b951b83c068c3b24d9f1fa6060e
 product: open-webui
 product_name: Open WebUI
 record:
@@ -190,7 +190,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.11.4
 ## Nearby in Interface Experience
 
 - Earlier: 2026-09-21 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-21-number-key-selection-in-the-question-dialog-works-for-choices-10-and-beyond|Number-key selection in the question dialog works for choices 10 and beyond]]
-- Later: 2026-09-22 · Claude Code · [[Changes/Claude Code/2026-09-22-5-interface-experience-changes-in-v2-1-280|5 Interface Experience changes in v2.1.280]]
+- Later: 2026-09-22 · AnythingLLM · [[Changes/AnythingLLM/2026-09-22-add-openrouter-service-tier-selection-by-shatfield4-in-https-github-com-mintplex|Add OpenRouter service tier selection]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

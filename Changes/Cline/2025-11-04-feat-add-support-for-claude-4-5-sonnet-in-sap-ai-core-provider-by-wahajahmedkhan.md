@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: be8657a5a11122d823171419bc9d2584258e3c88e6bbaebfd85e189448c86341
+machine_hash: 529cfee223e0d1215dec6ad7b4342f0e1ceae1e3be468d60bcda1eb648676e69
 product: cline
 product_name: Cline
 record:
@@ -46,10 +46,10 @@ record:
   title: 'feat: Add support for Claude 4.5 Sonnet in SAP AI Core provider'
   type: change
 related_changes:
-- '[[Changes/Ollama/2025-10-30-ollama-will-now-stop-running-a-model-before-removing-it-via-ollama-rm|Ollama
-  will now stop running a model before removing it via ollama rm]]'
 - '[[Changes/Cline/2025-10-31-4-model-support-changes-in-v3-35-0|4 Model Support changes
   in v3.35.0]]'
+- '[[Changes/Raycast/2025-10-31-2-model-support-changes-in-raycast-ios-1-1-2|2 Model
+  Support changes in Raycast ios 1.1.2]]'
 - '[[Changes/GitHub Copilot CLI/2025-11-03-2-model-support-changes-in-v0-0-354|2 Model
   Support changes in v0.0.354]]'
 source_release: '[[Releases/Cline/cline-2025-11-04-v3-35-1-github-259444613-fa15e807|cline-2025-11-04-v3-35-1-github-259444613-fa15e807]]'

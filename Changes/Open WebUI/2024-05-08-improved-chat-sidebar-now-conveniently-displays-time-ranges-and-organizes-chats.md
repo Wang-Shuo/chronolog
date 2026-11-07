@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7cb9aef44e9840c7c3d13b19c14d2ae0c24f2c678afb936e52ad5f39c4e97466
+machine_hash: b09944c454efaf6a3bb6bbcef0c79a2a8af567e6ab55821cb345fefef724bdc2
 product: open-webui
 product_name: Open WebUI
 record:
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2024-05-07 · Descript · [[Changes/Descript/2024-05-07-speaker-labeling-update-coming-soon|Speaker Labeling Update Coming Soon]]
-- Later: 2024-05-09 · Dify · [[Changes/Dify/2024-05-09-improve-menu-collapse-readability-by-junice-in-https-github-com-langgenius-dify|improve: menu collapse readability]]
+- Later: 2024-05-08 · Raycast · [[Changes/Raycast/2024-05-08-date-pickers-you-can-now-enter-things-like-in-1h-and-10min-and-the-date-picker-w|Date Pickers : You can now enter things like “in 1h and 10min” and the Date Picker…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

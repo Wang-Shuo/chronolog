@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 49f88271246d7d2d665d407dddfc6bd1335ffe0ef1e1923a6ff64812871847af
+machine_hash: 1ee4861225c944e666b923e2cc364c9f800a961efc8cdedc1b1ebbeb2a63b09d
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -87,7 +87,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-07-02 · Claude Code · [[Changes/Claude Code/2026-07-02-claude-agents-session-rows-now-show-pull-request-links-as-bare-n-without-the-red|claude agents session rows now show pull-request links as bare ♯N without…]]
-- Later: 2026-07-03 · Kimi Code · [[Changes/Kimi Code/2026-07-03-enrich-path-from-the-user-s-login-shell-at-startup-so-shell-commands-find-user-i|Enrich PATH from the user's login shell at startup, so shell commands find…]]
+- Later: 2026-07-03 · Devin · [[Changes/Devin/2026-07-03-git-backed-blueprints|Git-Backed Blueprints]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

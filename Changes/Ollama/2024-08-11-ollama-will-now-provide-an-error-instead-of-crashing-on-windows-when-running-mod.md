@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: cb7dbff964cd783608f14c146523a601226ce1e66a2110ee23274b340e98aa88
+machine_hash: d063cd5c081aee647168dd93266e42a8eac598d43860ba06e0ea1be5e90933e7
 product: ollama
 product_name: Ollama
 record:
@@ -87,7 +87,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2024-08-10 · Aider · [[Changes/Aider/2024-08-10-performance-improvements-for-repo-map-calculation|Performance improvements for repo map calculation]]
-- Later: 2024-08-13 · Aider · [[Changes/Aider/2024-08-13-web-scraper-is-more-robust-if-page-never-idles|Web scraper is more robust if page never idles]]
+- Later: 2024-08-12 · Superwhisper · [[Changes/Superwhisper/2024-08-12-faster-history-window-load-time|Faster history window load time]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

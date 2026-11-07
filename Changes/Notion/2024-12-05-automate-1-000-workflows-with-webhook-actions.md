@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 605ca99286504cb9e680d0b011d9157625783a8c0a39001936a83ba55ea4ada2
+machine_hash: b0ad722cc652ef35912ca7f2bed1d56165d5f7954d7fdac2206b9e4751d003df
 product: notion
 product_name: Notion
 record:
@@ -51,10 +51,10 @@ record:
   title: Automate 1,000+ workflows with webhook actions
   type: change
 related_changes:
-- '[[Changes/Notion/2024-10-24-automate-more-actions-with-formulas|Automate more actions
-  with formulas]]'
 - '[[Changes/Notion/2024-10-24-automations-can-now-send-emails|Automations can now
   send emails]]'
+- '[[Changes/Devin/2024-11-01-programmatically-create-devin-sessions-and-retrieve-results-including-structured|Programmatically
+  create Devin sessions and retrieve results…]]'
 - '[[Changes/Dify/2024-12-03-update-the-scheduler-of-update-tidb-serverless-status-task-to-1-10min-by-johnjyo|update
   the scheduler of update_tidb_serverless_status_task to 1/10min]]'
 source_release: '[[Releases/Notion/notion-2024-12-05-https-www-notion-com-releases-2024-12-05-73ff5e1f|notion-2024-12-05-https-www-notion-com-releases-2024-12-05-73ff5e1f]]'

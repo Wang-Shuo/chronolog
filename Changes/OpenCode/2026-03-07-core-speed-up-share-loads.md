@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d3704799cb37dca2be9bd4b8d6ead156529a652571db8c98cf74ec13eca11da8
+machine_hash: bb484722122c8fab2f6e51c5916180225920383a33feba59df8d8f8664a4e9ea
 product: opencode
 product_name: OpenCode
 record:
@@ -40,12 +40,12 @@ record:
   title: Core Speed up share loads
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-05-reduce-memory-usage-in-alt-screen-mode-for-long-sessions|Reduce
-  memory usage in alt-screen mode for long sessions]]'
 - '[[Changes/Claude Code/2026-03-06-3-reliability-and-performance-changes-in-v2-1-70|3
   Reliability and Performance changes in v2.1.70]]'
 - '[[Changes/OpenCode/2026-03-06-core-stop-leaking-fsmonitor-daemons-that-caused-60gb-of-committed-memory-after-r|Core
   Stop leaking fsmonitor daemons that caused 60GB+ of committed memory after…]]'
+- '[[Changes/Devin/2026-03-07-various-bug-fixes-performance-improvements-and-visual-polish-across-the-platform|Various
+  bug fixes, performance improvements, and visual polish across the platform]]'
 source_release: '[[Releases/OpenCode/opencode-2026-03-07-v1-2-21-72375855|opencode-2026-03-07-v1-2-21-72375855]]'
 source_type: opencode_changelog
 theme: reliability-performance
@@ -81,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-03-06 · OpenCode · [[Changes/OpenCode/2026-03-06-core-stop-leaking-fsmonitor-daemons-that-caused-60gb-of-committed-memory-after-r|Core Stop leaking fsmonitor daemons that caused 60GB+ of committed memory after…]]
+- Earlier: 2026-03-07 · Devin · [[Changes/Devin/2026-03-07-various-bug-fixes-performance-improvements-and-visual-polish-across-the-platform|Various bug fixes, performance improvements, and visual polish across the platform]]
 - Later: 2026-03-08 · Open WebUI · [[Changes/Open WebUI/2026-03-08-13-reliability-and-performance-changes-in-v0-8-9|13 Reliability and Performance changes in v0.8.9]]
 <!-- chronolog:end -->
 

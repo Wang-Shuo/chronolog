@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: adbf05bdf92aa79818f575f09ac64ae22435fd5d025dbc16dedb770394cd9def
+machine_hash: bd8e659b4695806e6bfd6681e3dd45609c7f92edcb9822377294b300eaed679d
 product: descript
 product_name: Descript
 record:
@@ -42,10 +42,10 @@ record:
   title: Script text no longer shakes up and down while you edit
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-11-05-reduces-prompt-cache-misses-across-completion-heartbeat-and-background-turns-by|Reduces
-  prompt-cache misses across completion, heartbeat and background turns…]]'
 - '[[Changes/OpenHands/2026-11-05-chore-deps-bump-monaco-editor-from-0-56-0-to-0-57-0-in-the-monaco-group-by-depen|chore(deps):
   bump monaco-editor from 0.56.0 to 0.57.0 in the monaco group…]]'
+- '[[Changes/Recraft/2026-11-05-sunburst-keeps-edits-consistent-so-the-details-you-didn-t-ask-to-change-stay-unt|Sunburst
+  keeps edits consistent, so the details you didn''t ask to change stay…]]'
 - '[[Changes/Codex CLI/2026-11-06-2-editor-experience-changes-in-rust-v0-167-0|2 Editor
   Experience changes in rust-v0.167.0]]'
 source_release: '[[Releases/Descript/descript-2026-11-06-6aee4d89b5b0a5f95c0b0cc2-f54c26f4|descript-2026-11-06-6aee4d89b5b0a5f95c0b0cc2-f54c26f4]]'

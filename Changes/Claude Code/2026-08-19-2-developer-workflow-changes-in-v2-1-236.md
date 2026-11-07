@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 40e18514e5e17809ddda57ad6ef48c0da366b2f8e10daf8614374fac67781887
+machine_hash: 021b1972d9d5a1505aa1006fb7ea000481a878b725c8028166d33ee964eef39f
 product: claude-code
 product_name: Claude Code
 record:
@@ -93,7 +93,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.236
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-08-18 · Z.ai API · [[Changes/Z.ai API/2026-08-18-stronger-coding-capabilities-glm-5-3-delivers-a-significant-improvement-in-codin|Stronger Coding Capabilities]]
-- Later: 2026-08-20 · Claude Code · [[Changes/Claude Code/2026-08-20-2-developer-workflow-changes-in-v2-1-238|2 Developer Workflow changes in v2.1.238]]
+- Later: 2026-08-19 · Devin · [[Changes/Devin/2026-08-19-git-provider-connection-details|Git Provider Connection Details]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

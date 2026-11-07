@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 90fa5da00e24f0ee3f9a048d037a30ed0c18e60a1eec9cfdb16eb5ce1ecc71f9
+machine_hash: 817fffd6bd3d3e0194e99d3ea41480f1509a36fa92b34269f4e0dc850ef2da62
 product: claude-code
 product_name: Claude Code
 record:
@@ -86,7 +86,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.199
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-07-01 · Runway · [[Changes/Runway/2026-07-01-nano-banana-2-lite-is-now-available-in-runway-create-images-at-warp-speed-withou|Nano Banana 2 Lite]]
-- Later: 2026-07-03 · Claude Code · [[Changes/Claude Code/2026-07-03-improved-the-install-script-to-explain-when-installation-is-killed-by-the-system|Improved the install script to explain when installation is killed by the system…]]
+- Later: 2026-07-02 · Wispr Flow · [[Changes/Wispr Flow/2026-07-02-reliability-stability-android|Reliability & Stability (Android)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

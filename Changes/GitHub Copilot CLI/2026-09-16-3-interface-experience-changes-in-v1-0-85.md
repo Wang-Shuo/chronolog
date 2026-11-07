@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1d18370ace87a00e5935f36115efa1c9df090dccc84c87ecadfbcf27845bd9a8
+machine_hash: d1da316cf46515fa4ef6a832577bc73765838e31228237330ec73e1b0de367e3
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,12 +45,11 @@ record:
   title: 3 Interface Experience changes in v1.0.85
   type: change
 related_changes:
-- '[[Changes/Kimi Code/2026-09-14-delete-sessions-from-the-session-picker-press-ctrl-x-on-a-session-then-y-to-conf|Delete
-  sessions from the session picker: press Ctrl+X on a session, then y to confirm]]'
 - '[[Changes/Claude Code/2026-09-15-claude-code-on-the-web-improved-the-routine-detail-page-menu-and-rename-in-the-b|Claude
   Code on the web Improved the routine detail page]]'
 - '[[Changes/Google Antigravity/2026-09-15-reorganized-the-conversation-menu-so-archive-and-delete-sit-together-at-the-bott|Reorganized
   the conversation menu so Archive and Delete sit together at the bottom…]]'
+- '[[Changes/Devin/2026-09-16-reboot-vm-from-the-sidebar|Reboot VM from the Sidebar]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-09-16-v1-0-85-github-389603482-889a46d9|github-copilot-cli-2026-09-16-v1-0-85-github-389603482-889a46d9]]'
 source_type: github_releases
 theme: interface-experience
@@ -101,7 +100,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.85
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-09-15 · Google Antigravity · [[Changes/Google Antigravity/2026-09-15-reorganized-the-conversation-menu-so-archive-and-delete-sit-together-at-the-bott|Reorganized the conversation menu so Archive and Delete sit together at the bottom…]]
+- Earlier: 2026-09-16 · Devin · [[Changes/Devin/2026-09-16-reboot-vm-from-the-sidebar|Reboot VM from the Sidebar]]
 - Later: 2026-09-16 · Lovable · [[Changes/Lovable/2026-09-16-updated-chat-actions-menu-in-projects|Updated Chat actions menu in projects]]
 <!-- chronolog:end -->
 

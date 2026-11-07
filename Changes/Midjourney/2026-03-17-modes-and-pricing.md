@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: pricing
-machine_hash: 198889f2043cf55fd739bb8cfa0f5836129402e429601d5d5b44a0594c5951e7
+machine_hash: 97d1b9037eaf9e6deedf5f07676eedc075c22d9765d282fa81731fe8de6ba41a
 product: midjourney
 product_name: Midjourney
 record:

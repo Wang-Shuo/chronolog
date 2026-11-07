@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e86781577ae8cbd4fcf54d25ba55084b6f5132befce493a8594b9d262edbeea7
+machine_hash: 03234996a5546735c480204a559e84c192316b7336d7f8a443df9e7706017d9d
 product: open-webui
 product_name: Open WebUI
 record:
@@ -188,7 +188,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.11.1
 ## Nearby in Editor Experience
 
 - Earlier: 2026-08-25 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-08-25-unified-web-and-work-chat-experience-with-dedicated-work-iq-button-windows-web-m|Unified web and work chat experience with dedicated Work IQ button Windows…]]
-- Later: 2026-08-27 · Cursor · [[Changes/Cursor/2026-08-27-once-the-agent-s-build-is-to-your-liking-click-the-create-repo-button-to-save-yo|Turn it into a real repo, whenever you want]]
+- Later: 2026-08-27 · AnythingLLM · [[Changes/AnythingLLM/2026-08-27-however-this-had-the-unintended-side-effect-of-canceling-inference-when-navigati|However, this had the unintended side effect of canceling inference when navigating…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

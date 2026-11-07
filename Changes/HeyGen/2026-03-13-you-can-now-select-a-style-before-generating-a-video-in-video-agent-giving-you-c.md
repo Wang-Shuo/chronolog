@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: e8d4b56a969c249e3e8436c5e13cf4465f7acf64aff5a5c63be5da7a08dff98b
+machine_hash: a057ce3ad18ea7eebe72ad8b77ede4bd699ea2f2cec8d0fcc95c321145a3d4cf
 product: heygen
 product_name: HeyGen
 record:

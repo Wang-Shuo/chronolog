@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 7e4d099710e74e8dc79ffe5ba32b9b0a33149183d3d4f75a699520fa78777285
+machine_hash: 0929e45f9d248fc091ef5a85b14d1923b5d444d2d1e46647968f5af9ec7cae1f
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -57,12 +57,11 @@ record:
   title: MCP OAuth flows now support HTTPS redirect URIs via a self-signed certificate…
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-04-01-feat-core-change-user-facing-auth-type-from-oauth2-to-oauth-by-adamfweidman-in-h|feat(core):
-  change user-facing auth type from oauth2 to oauth]]'
-- '[[Changes/GitHub Copilot CLI/2026-04-01-2-account-and-access-changes-in-v1-0-15|2
-  Account and Access changes in v1.0.15]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-02-2-account-and-access-changes-in-v1-0-16|2
   Account and Access changes in v1.0.16]]'
+- '[[Changes/Devin/2026-04-03-azure-devops-service-principal|Azure DevOps Service
+  Principal]]'
+- '[[Changes/Devin/2026-04-03-linear-token-refresh|Linear Token Refresh]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-04-03-v1-0-17-github-304907611-d6837ced|github-copilot-cli-2026-04-03-v1-0-17-github-304907611-d6837ced]]'
 source_type: github_releases
 theme: account-access
@@ -92,7 +91,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-04-02 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-02-2-account-and-access-changes-in-v1-0-16|2 Account and Access changes in v1.0.16]]
+- Earlier: 2026-04-03 · Devin · [[Changes/Devin/2026-04-03-linear-token-refresh|Linear Token Refresh]]
 - Later: 2026-04-04 · Claude Code · [[Changes/Claude Code/2026-04-04-added-interactive-bedrock-setup-wizard-accessible-from-the-login-screen-when-sel|Added interactive Bedrock setup wizard accessible from the login screen…]]
 <!-- chronolog:end -->
 

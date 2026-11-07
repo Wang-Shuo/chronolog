@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6f3118e44e056d88567eb3c877a68b8baeaa754f99d0ed1a4be5ff7867b4c6e7
+machine_hash: 6df46c67d64121860691452f0efb00057e3ebfb611fed9093c0d86feb5dcd92b
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -51,9 +51,9 @@ record:
   title: 4 Reliability and Performance changes in v0.1.18
   type: change
 related_changes:
-- '[[Changes/Ollama/2025-08-05-2-reliability-and-performance-changes-in-v0-11-0|2
-  Reliability and Performance changes in v0.11.0]]'
-- '[[Changes/Cursor/2025-08-06-1-4-5-improved-performance|1.4.5: Improved performance]]'
+- '[[Changes/Devin/2025-08-06-various-reliability-performance-and-usability-improvements-across-the-app|Various
+  reliability, performance, and usability improvements across the app]]'
+- '[[Changes/Devin/2025-08-06-diff-file-header-copy|Diff File Header Copy]]'
 - '[[Changes/Gemini/2025-08-06-understand-complex-topics-faster-with-integrated-visuals-and-youtube-videos|Understand
   Complex Topics Faster with Integrated Visuals and YouTube videos]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-08-06-v0-1-18-github-237823435-7c1f8990|gemini-cli-2025-08-06-v0-1-18-github-237823435-7c1f8990]]'
@@ -106,7 +106,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.1.18
 ## Nearby in Reliability and Performance
 
 - Earlier: 2025-08-06 · Gemini · [[Changes/Gemini/2025-08-06-understand-complex-topics-faster-with-integrated-visuals-and-youtube-videos|Understand Complex Topics Faster with Integrated Visuals and YouTube videos]]
-- Later: 2025-08-09 · Open WebUI · [[Changes/Open WebUI/2025-08-09-15-reliability-and-performance-changes-in-v0-6-19|15 Reliability and Performance changes in v0.6.19]]
+- Later: 2025-08-08 · Devin · [[Changes/Devin/2025-08-08-various-reliability-performance-and-usability-improvements-across-the-app|Various reliability, performance, and usability improvements across the app]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

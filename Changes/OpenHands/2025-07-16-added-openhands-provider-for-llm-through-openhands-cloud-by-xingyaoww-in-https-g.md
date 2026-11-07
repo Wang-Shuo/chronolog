@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d31dc7540d3dc8518b575e72e81349cdff7a8792d92392028abb1f5190b465f3
+machine_hash: 42e147bb0005920471fbce968870910c5ef50cad6feccee861e2ea12a0178661
 product: openhands
 product_name: OpenHands
 record:
@@ -42,8 +42,7 @@ record:
   title: Added OpenHands provider for LLM through OpenHands Cloud
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-07-11-5-model-support-changes-in-v0-1-10|5 Model Support
-  changes in v0.1.10]]'
+- '[[Changes/Superwhisper/2025-07-11-custom-api-model-fixes|Custom API Model Fixes]]'
 - '[[Changes/Open WebUI/2025-07-14-6-model-support-changes-in-v0-6-16|6 Model Support
   changes in v0.6.16]]'
 - '[[Changes/Cline/2025-07-15-add-kimi-k2-as-trending-model-by-celestial-vault-in-https-github-com-cline-cline|Add
@@ -81,7 +80,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2025-07-15 · Cline · [[Changes/Cline/2025-07-15-add-kimi-k2-as-trending-model-by-celestial-vault-in-https-github-com-cline-cline|Add kimi-k2 as trending model]]
-- Later: 2025-07-17 · Runway · [[Changes/Runway/2025-07-17-next-generation-motion-capture-model-with-major-improvements-in-generation-quali|Act-Two]]
+- Later: 2025-07-16 · Raycast · [[Changes/Raycast/2025-07-16-3-model-support-changes-in-raycast-macos-v1-1-101-0|3 Model Support changes in Raycast macos-v1 1.101.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 1effeacb02eb228207487010442d06da776cbe007ebe56368d3ab712e9d917e9
+machine_hash: bb709240931e7eddc0ce7457aa0a3fe8b08b038a5fb31cb783bc3f36abae2143
 product: dify
 product_name: Dify
 record:
@@ -43,8 +43,9 @@ record:
   title: 'refactor(web): migrate subscription create modal to dialog'
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-05-04-workspaces|Workspaces]]'
 - '[[Changes/Windsurf/2026-05-06-devin-review-quick-review|Devin Review & Quick Review]]'
+- '[[Changes/Raycast/2026-05-08-bring-your-own-key-connect-your-own-api-key-from-anthropic-google-or-openai-to-u|Bring
+  Your Own Key]]'
 - '[[Changes/Cursor/2026-05-11-customers-must-be-on-usage-based-billing-for-bugbot-to-customize-effort-levels-l|Customers
   must be on usage-based billing for Bugbot to customize effort levels]]'
 source_release: '[[Releases/Dify/dify-2026-05-12-1-14-1-github-321018473-9e9e1d9e|dify-2026-05-12-1-14-1-github-321018473-9e9e1d9e]]'

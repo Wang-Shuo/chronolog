@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: dab1faca7539ce7a75f2c279ae46a8393ef999ec257ed990208d2c9dc684f48b
+machine_hash: f5993eb0e75f6af6efe6358d5cce994a89d8794c6b177036390e77721bd2cb60
 product: descript
 product_name: Descript
 record:
@@ -49,12 +49,11 @@ record:
   title: 2 Interface Experience changes in Version 17 Release
   type: change
 related_changes:
-- '[[Changes/Notion/2021-05-13-you-can-now-set-the-language-of-a-code-block-without-leaving-your-keyboard-by-us|You
-  can now set the language of a code block without leaving your keyboard, by using…]]'
 - '[[Changes/Descript/2021-06-15-we-ve-combined-the-composition-sidebar-and-media-library-into-a-unified-project|We''ve
   combined the Composition Sidebar and Media Library into a unified Project…]]'
 - '[[Changes/Descript/2021-06-15-we-ve-added-the-ability-to-auto-level-https-help-descript-com-hc-en-us-articles|Auto-leveling
   for multi-clip selection]]'
+- '[[Changes/Raycast/2021-06-16-file-search|File Search]]'
 source_release: '[[Releases/Descript/descript-2021-06-30-6390c9b14a4a0d64fa5643cc-82f9a4de|descript-2021-06-30-6390c9b14a4a0d64fa5643cc-82f9a4de]]'
 source_type: canny_changelog
 theme: interface-experience
@@ -89,7 +88,7 @@ Source: https://feedback.descript.com/changelog/version-17-release
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2021-06-15 · Descript · [[Changes/Descript/2021-06-15-we-ve-added-the-ability-to-auto-level-https-help-descript-com-hc-en-us-articles|Auto-leveling for multi-clip selection]]
+- Earlier: 2021-06-16 · Raycast · [[Changes/Raycast/2021-06-16-file-search|File Search]]
 - Later: 2021-07-13 · Descript · [[Changes/Descript/2021-07-13-re-size-tutorial-videos|Re-size Tutorial Videos]]
 <!-- chronolog:end -->
 

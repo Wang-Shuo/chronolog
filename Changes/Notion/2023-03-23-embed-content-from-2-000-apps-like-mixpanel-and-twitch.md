@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 8f7d20da851dfbc40c24d62b6e181493352da3ce40d8b88c5afce00837ccc5c1
+machine_hash: 8be5f7b84fdc2cc7650e48c85dc95c02f5484b41266915d24946156e7bf46bc9
 product: notion
 product_name: Notion
 record:
@@ -49,8 +49,8 @@ record:
   title: Embed content from 2,000 apps like Mixpanel and Twitch
   type: change
 related_changes:
-- '[[Changes/Notion/2022-11-08-connect-notion-s-people-property-in-synced-databases-for-github-and-jira|Connect
-  Notion’s “People” property in Synced Databases for GitHub and Jira]]'
+- '[[Changes/Raycast/2023-02-22-flight-tracker-you-can-now-enable-disable-flight-tracker-detection-in-settings-y|Flight
+  Tracker: You can now enable/disable Flight Tracker detection in settings]]'
 - '[[Changes/Descript/2023-03-21-projects-created-using-our-zapier-integration-now-create-storyboard-projects|Projects
   created using our Zapier integration now create Storyboard projects]]'
 - '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
@@ -87,7 +87,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
-- Later: 2023-04-17 · Descript · [[Changes/Descript/2023-04-17-edit-in-descript-projects-created-via-edit-in-descript-integrations-https-help-d|Edit in Descript]]
+- Later: 2023-03-29 · Raycast · [[Changes/Raycast/2023-03-29-separate-window|Separate Window]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

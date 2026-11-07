@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e95b73a4f0e50fb1791771d56e7be1b419403b489ef1448a84f4b0ca70ffeb04
+machine_hash: ac8b3411c16df501e0dba856a0a9c20b807ee32160dafa1a046da4fbf2a755e6
 product: dify
 product_name: Dify
 record:
@@ -44,10 +44,10 @@ record:
   title: 3 Model Support changes in 0.3.23
   type: change
 related_changes:
-- '[[Changes/Dify/2023-08-31-3-model-support-changes-in-0-3-19|3 Model Support changes
-  in 0.3.19]]'
 - '[[Changes/Ollama/2023-09-06-5-model-support-changes-in-v0-0-18|5 Model Support
   changes in v0.0.18]]'
+- '[[Changes/Raycast/2023-09-06-ai-chat-now-inherits-model-and-creativity-when-opening-a-command-in-ai-chat|AI:
+  Chat now inherits model and creativity when opening a command in AI Chat]]'
 - '[[Changes/Ollama/2023-09-11-ability-to-import-and-use-gguf-file-type-models|Ability
   to import and use GGUF file type models]]'
 source_release: '[[Releases/Dify/dify-2023-09-19-0-3-23-github-121733755-0e2f942d|dify-2023-09-19-0-3-23-github-121733755-0e2f942d]]'

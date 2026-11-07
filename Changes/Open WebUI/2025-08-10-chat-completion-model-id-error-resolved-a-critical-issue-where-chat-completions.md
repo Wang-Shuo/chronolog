@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 46d1e51063a00146f1fcf2f67609ebed3867614b9fa22aea3eb82e3ecfaa977d
+machine_hash: eda84beab4238946fea47ee89cc0e86d05e2ac619d733804625d12c88e0f2a46
 product: open-webui
 product_name: Open WebUI
 record:
@@ -58,7 +58,7 @@ record:
   title: "\U0001F41E **Chat Completion 'model_id' Error**"
   type: change
 related_changes:
-- '[[Changes/Windsurf/2025-08-07-gpt-5-available|GPT-5 Available]]'
+- '[[Changes/Devin/2025-08-08-gpt-5-preview-access|GPT-5 Preview Access]]'
 - '[[Changes/Aider/2025-08-09-5-model-support-changes-in-v0-86-0|5 Model Support changes
   in v0.86.0]]'
 - '[[Changes/Open WebUI/2025-08-09-11-model-support-changes-in-v0-6-19|11 Model Support

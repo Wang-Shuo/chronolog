@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: ff6b8fcf0665306261d103325641dc732de35a8d40ab6753166195c667173093
+machine_hash: 3a401e06fc486882334b8d05a636ddf420c80c57822ba9023b4a860b1d645135
 product: lovable
 product_name: Lovable
 record:
@@ -76,7 +76,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-05-25 · ElevenLabs · [[Changes/ElevenLabs/2026-05-25-sdk-releases|SDK Releases]]
-- Later: 2026-05-26 · Codex CLI · [[Changes/Codex CLI/2026-05-26-11-apps-and-integrations-changes-in-rust-v0-134-0|11 Apps and Integrations changes in rust-v0.134.0]]
+- Later: 2026-05-26 · AnythingLLM · [[Changes/AnythingLLM/2026-05-26-2-apps-and-integrations-changes-in-v1-13-0|2 Apps and Integrations changes in v1.13.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

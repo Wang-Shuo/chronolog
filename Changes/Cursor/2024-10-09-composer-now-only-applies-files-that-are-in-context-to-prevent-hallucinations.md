@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 68995840dbc8e1850994762aa861bfe7b91b35ce14241a65c7748c3ea75093b9
+machine_hash: 403f5a189dc99f131ac7aa3c55d519fd4548fa88c4e11b170f13c0425d510826
 product: cursor
 product_name: Cursor
 record:
@@ -41,12 +41,12 @@ record:
   title: Composer now only applies files that are in context to prevent hallucinations
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2024-09-19-improved-rag-template-enhanced-retrieval-augmented-generation-template-optimizin|\U0001F4DD
-  Improved RAG Template]]"
 - '[[Changes/Aider/2024-09-21-improvements-to-prompt-cache-chunking-strategy|Improvements
   to prompt cache chunking strategy]]'
 - '[[Changes/Gemini/2024-09-30-priority-access-with-gemini-advanced-upload-your-code-files|Priority
   access with Gemini Advanced: Upload your code files]]'
+- '[[Changes/AnythingLLM/2024-10-03-add-select-unselect-all-context-menu-to-directory-component-by-shatfield4-in-htt|Add
+  select/unselect all context menu to directory component]]'
 source_release: '[[Releases/Cursor/cursor-2024-10-09-0-42-x-https-cursor-com-changelog-0-42-x-71ecd9d1|cursor-2024-10-09-0-42-x-https-cursor-com-changelog-0-42-x-71ecd9d1]]'
 source_type: cursor_changelog
 theme: context-window
@@ -79,8 +79,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2024-09-30 · Gemini · [[Changes/Gemini/2024-09-30-priority-access-with-gemini-advanced-upload-your-code-files|Priority access with Gemini Advanced: Upload your code files]]
-- Later: 2024-10-14 · Dify · [[Changes/Dify/2024-10-14-feat-implement-refresh-tokens-by-laipz8200-in-https-github-com-langgenius-dify-p|Feat/implement-refresh-tokens]]
+- Earlier: 2024-10-03 · AnythingLLM · [[Changes/AnythingLLM/2024-10-03-add-select-unselect-all-context-menu-to-directory-component-by-shatfield4-in-htt|Add select/unselect all context menu to directory component]]
+- Later: 2024-10-10 · Devin · [[Changes/Devin/2024-10-10-a-new-home-page-designed-for-longer-prompts-and-smaller-screens|A new home page, designed for longer prompts and smaller screens]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

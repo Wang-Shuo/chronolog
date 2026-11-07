@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 96450c7142fffed179d5f0aa9227236d0b04ca443689c743f4850d481c9d9886
+machine_hash: 3516146b19d081df3d775bc2539e06606281f9193d7f9cfba4bb743ec2b5081d
 product: claude
 product_name: Claude
 record:
@@ -54,8 +54,8 @@ record:
   title: Claude Cowork generally available
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-04-02-we-re-rolling-out-chatgpt-in-carplay-giving-you-access-to-a-hands-free-chatgpt-e|ChatGPT
-  in Apple CarPlay]]'
+- '[[Changes/Raycast/2026-04-03-4-mobile-and-desktop-changes-in-raycast-windows-0-52|4
+  Mobile and Desktop changes in Raycast windows 0.52]]'
 - '[[Changes/OpenCode/2026-04-04-4-mobile-and-desktop-changes-in-v1-3-15-1|4 Mobile
   and Desktop changes in v1.3.15 + 1]]'
 - '[[Changes/OpenCode/2026-04-08-3-mobile-and-desktop-changes-in-v1-4-0|3 Mobile and

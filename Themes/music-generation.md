@@ -2,8 +2,8 @@
 created: '2019-12-18'
 date: '2026-11-06'
 description: Cross-product timeline of Music Generation changes in Descript, HeyGen,
-  OpenClaw, Runway, Suno and Synthesia.
-machine_hash: 1a17f5fdcbc39a36bdbe3fa0d87ce9b4792512667c4fc10c9a1f2f96fefef2b5
+  OpenClaw, Runway, Suno, Superwhisper and Synthesia.
+machine_hash: 75f9f7ec1a6602306556c5b1a511eab95bc9a5801d6ad405a0b8b9bfb4d1875f
 modified: '2026-11-06'
 products_involved:
 - Descript
@@ -11,6 +11,7 @@ products_involved:
 - OpenClaw
 - Runway
 - Suno
+- Superwhisper
 - Synthesia
 publication: active
 status: official
@@ -24,7 +25,7 @@ title: Music Generation
 <!-- chronolog:begin region="header" -->
 # Music Generation
 
-99 tracked changes across Descript, HeyGen, OpenClaw, Runway, Suno and Synthesia · 2019-12-18 → 2026-11-06 · OpenClaw averages 18.4 cards per release, HeyGen 5.3, Descript 2.9, Suno 2.1, Runway 1.0, Synthesia 1.0
+101 tracked changes across Descript, HeyGen, OpenClaw, Runway, Suno, Superwhisper and Synthesia · 2019-12-18 → 2026-11-06 · OpenClaw averages 18.4 cards per release, HeyGen 5.3, Descript 2.9, Suno 2.1, Superwhisper 2.1, Runway 1.0, Synthesia 1.0
 <!-- chronolog:end -->
 
 ## Research summary
@@ -36,23 +37,23 @@ Explore the dated evidence below.
 <!-- chronolog:begin region="moments" -->
 Selected automatically from launches and standalone announcements.
 
-| Quarter | Descript | HeyGen | OpenClaw | Runway | Suno | Synthesia |
-| --- | --- | --- | --- | --- | --- | --- |
-| **First in archive** | <time datetime="2019-12-18">2019-12-18</time> [[Changes/Descript/2019-12-18-makes-it-easier-to-work-with-music-at-the-top-of-a-composition\|Drag pinned tracks into negative time -]] | <time datetime="2026-07-23">2026-07-23</time> [[Changes/HeyGen/2026-07-23-result-one-prompt-produces-a-complete-video-presenter-b-roll-captions-music-and\|Result: One prompt produces a complete video: presenter, B-roll, captions, music…]] | <time datetime="2026-06-30">2026-06-30</time> [[Changes/OpenClaw/2026-06-30-background-image-video-and-music-results-now-return-to-the-chat-that-requested-t\|Background image, video, and music results now return to the chat that requested…]] | <time datetime="2026-06-29">2026-06-29</time> [[Changes/Runway/2026-06-29-generate-up-to-120-seconds-of-dynamic-speech-sound-design-and-music-with-simple\|Seed Audio 1.0]] | <time datetime="2023-12-23">2023-12-23</time> [[Changes/Suno/2023-12-23-make-a-holiday-song-a-limited-time-mode-for-the-holidays-meant-to-be-fun-and-whi\|Make a Holiday Song   - A limited-time mode for the holidays…]] | <time datetime="2023-04-19">2023-04-19</time> [[Changes/Synthesia/2023-04-19-you-can-now-control-the-volume-of-music-and-videos-files-in-studio\|AUDIO controls are here!]] |
-| 2026 Q4 | · | · | · | · | <time datetime="2026-11-06">2026-11-06</time> [[Changes/Suno/2026-11-06-a-new-prompt-every-day-to-inspire-your-next-song\|A new prompt every day, to inspire your next song]] | · |
-| 2026 Q3 | <time datetime="2026-09-17">2026-09-17</time> [[Changes/Descript/2026-09-17-generate-music-and-sound-effects\|Generate music and sound effects]] | · | · | · | <time datetime="2026-08-19">2026-08-19</time> [[Changes/Suno/2026-08-19-playlists-that-look-as-good-as-they-sound\|Playlists that look as good as they sound]]<br><time datetime="2026-07-31">2026-07-31</time> [[Changes/Suno/2026-07-31-songs-that-look-as-good-as-they-sound\|Songs that look as good as they sound]]<br><time datetime="2026-07-09">2026-07-09</time> [[Changes/Suno/2026-07-09-nothing-gets-lost\|Nothing gets lost]] | · |
-| 2025 Q4 → 2026 Q2 | · | archive begins <time datetime="2025-11-29">2025-11-29</time> | archive begins <time datetime="2026-06-30">2026-06-30</time> | · | · | · |
-| 2025 Q3 | · | <span class="not-archived">not archived</span> | <span class="not-archived">not archived</span> | · | <time datetime="2025-09-22">2025-09-22</time> [[Changes/Suno/2025-09-22-introducing-hooks-a-new-way-to-bring-your-suno-songs-to-life-through-short-form\|Introducing Hooks!]] | · |
-| 2025 Q1 → 2025 Q2 | · | <span class="not-archived">not archived</span> | <span class="not-archived">not archived</span> | · | · | · |
-| 2024 Q4 | · | <span class="not-archived">not archived</span> | <span class="not-archived">not archived</span> | · | <time datetime="2024-11-19">2024-11-19</time> [[Changes/Suno/2024-11-19-today-we-re-thrilled-to-introduce-v4-the-next-step-toward-enabling-you-to-make-m\|🚨 v4 is here!]]<br><time datetime="2024-10-31">2024-10-31</time> [[Changes/Suno/2024-10-31-we-re-excited-to-introduce-personas-personas-let-you-save-the-essence-of-a-song\|Introducing Personas 🎤]]<br><time datetime="2024-10-16">2024-10-16</time> [[Changes/Suno/2024-10-16-we-re-excited-to-introduce-suno-scenes-a-brand-new-way-to-create-music-now-you-c\|Suno introduces Suno Scenes, a brand new way to create music]] | · |
-| 2024 Q3 | · | <span class="not-archived">not archived</span> | <span class="not-archived">not archived</span> | · | · | · |
-| 2024 Q2 | <time datetime="2024-06-04">2024-06-04</time> [[Changes/Descript/2024-06-04-music\|Music]] | <span class="not-archived">not archived</span> | <span class="not-archived">not archived</span> | · | <time datetime="2024-06-07">2024-06-07</time> [[Changes/Suno/2024-06-07-introducing-song-radio-now-by-just-clicking-on-of-any-song-you-can-start-a-song\|Introducing Song Radio!]]<br><time datetime="2024-05-22">2024-05-22</time> [[Changes/Suno/2024-05-22-we-re-excited-to-announce-that-you-can-search-for-any-public-song-on-suno-you-ca\|You can search for any public song on Suno]] | · |
-| 2023 Q3 → 2024 Q1 | · | <span class="not-archived">not archived</span> | <span class="not-archived">not archived</span> | archive begins <time datetime="2024-01-08">2024-01-08</time> | archive begins <time datetime="2023-12-23">2023-12-23</time> | · |
-| 2023 Q2 | · | <span class="not-archived">not archived</span> | <span class="not-archived">not archived</span> | <span class="not-archived">not archived</span> | <span class="not-archived">not archived</span> | <time datetime="2023-04-19">2023-04-19</time> [[Changes/Synthesia/2023-04-19-you-can-now-control-the-volume-of-music-and-videos-files-in-studio\|AUDIO controls are here!]] |
-| 2022 Q3 → 2023 Q1 | · | <span class="not-archived">not archived</span> | <span class="not-archived">not archived</span> | <span class="not-archived">not archived</span> | <span class="not-archived">not archived</span> | · |
-| 2022 Q2 | <time datetime="2022-06-02">2022-06-02</time> [[Changes/Descript/2022-06-02-replace-script-track\|Replace script track]] | <span class="not-archived">not archived</span> | <span class="not-archived">not archived</span> | <span class="not-archived">not archived</span> | <span class="not-archived">not archived</span> | · |
+| Quarter | Descript | HeyGen | OpenClaw | Runway | Suno | Superwhisper | Synthesia |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| **First in archive** | <time datetime="2019-12-18">2019-12-18</time> [[Changes/Descript/2019-12-18-makes-it-easier-to-work-with-music-at-the-top-of-a-composition\|Drag pinned tracks into negative time -]] | <time datetime="2026-07-23">2026-07-23</time> [[Changes/HeyGen/2026-07-23-result-one-prompt-produces-a-complete-video-presenter-b-roll-captions-music-and\|Result: One prompt produces a complete video: presenter, B-roll, captions, music…]] | <time datetime="2026-06-30">2026-06-30</time> [[Changes/OpenClaw/2026-06-30-background-image-video-and-music-results-now-return-to-the-chat-that-requested-t\|Background image, video, and music results now return to the chat that requested…]] | <time datetime="2026-06-29">2026-06-29</time> [[Changes/Runway/2026-06-29-generate-up-to-120-seconds-of-dynamic-speech-sound-design-and-music-with-simple\|Seed Audio 1.0]] | <time datetime="2023-12-23">2023-12-23</time> [[Changes/Suno/2023-12-23-make-a-holiday-song-a-limited-time-mode-for-the-holidays-meant-to-be-fun-and-whi\|Make a Holiday Song   - A limited-time mode for the holidays…]] | <time datetime="2025-08-20">2025-08-20</time> [[Changes/Superwhisper/2025-08-20-media-pause-super-mode-improvements\|Media Pause & Super Mode Improvements]] | <time datetime="2023-04-19">2023-04-19</time> [[Changes/Synthesia/2023-04-19-you-can-now-control-the-volume-of-music-and-videos-files-in-studio\|AUDIO controls are here!]] |
+| 2026 Q4 | · | · | · | · | <time datetime="2026-11-06">2026-11-06</time> [[Changes/Suno/2026-11-06-a-new-prompt-every-day-to-inspire-your-next-song\|A new prompt every day, to inspire your next song]] | · | · |
+| 2026 Q3 | <time datetime="2026-09-17">2026-09-17</time> [[Changes/Descript/2026-09-17-generate-music-and-sound-effects\|Generate music and sound effects]] | · | · | · | <time datetime="2026-08-19">2026-08-19</time> [[Changes/Suno/2026-08-19-playlists-that-look-as-good-as-they-sound\|Playlists that look as good as they sound]]<br><time datetime="2026-07-31">2026-07-31</time> [[Changes/Suno/2026-07-31-songs-that-look-as-good-as-they-sound\|Songs that look as good as they sound]]<br><time datetime="2026-07-09">2026-07-09</time> [[Changes/Suno/2026-07-09-nothing-gets-lost\|Nothing gets lost]] | · | · |
+| 2025 Q4 → 2026 Q2 | · | archive begins <time datetime="2025-11-29">2025-11-29</time> | archive begins <time datetime="2026-06-30">2026-06-30</time> | · | · | · | · |
+| 2025 Q3 | · | <span class="not-archived">not archived</span> | <span class="not-archived">not archived</span> | · | <time datetime="2025-09-22">2025-09-22</time> [[Changes/Suno/2025-09-22-introducing-hooks-a-new-way-to-bring-your-suno-songs-to-life-through-short-form\|Introducing Hooks!]] | <time datetime="2025-08-20">2025-08-20</time> [[Changes/Superwhisper/2025-08-20-media-pause-super-mode-improvements\|Media Pause & Super Mode Improvements]] | · |
+| 2025 Q1 → 2025 Q2 | · | <span class="not-archived">not archived</span> | <span class="not-archived">not archived</span> | · | · | · | · |
+| 2024 Q4 | · | <span class="not-archived">not archived</span> | <span class="not-archived">not archived</span> | · | <time datetime="2024-11-19">2024-11-19</time> [[Changes/Suno/2024-11-19-today-we-re-thrilled-to-introduce-v4-the-next-step-toward-enabling-you-to-make-m\|🚨 v4 is here!]]<br><time datetime="2024-10-31">2024-10-31</time> [[Changes/Suno/2024-10-31-we-re-excited-to-introduce-personas-personas-let-you-save-the-essence-of-a-song\|Introducing Personas 🎤]]<br><time datetime="2024-10-16">2024-10-16</time> [[Changes/Suno/2024-10-16-we-re-excited-to-introduce-suno-scenes-a-brand-new-way-to-create-music-now-you-c\|Suno introduces Suno Scenes, a brand new way to create music]] | · | · |
+| 2024 Q3 | · | <span class="not-archived">not archived</span> | <span class="not-archived">not archived</span> | · | · | · | · |
+| 2024 Q2 | <time datetime="2024-06-04">2024-06-04</time> [[Changes/Descript/2024-06-04-music\|Music]] | <span class="not-archived">not archived</span> | <span class="not-archived">not archived</span> | · | <time datetime="2024-06-07">2024-06-07</time> [[Changes/Suno/2024-06-07-introducing-song-radio-now-by-just-clicking-on-of-any-song-you-can-start-a-song\|Introducing Song Radio!]]<br><time datetime="2024-05-22">2024-05-22</time> [[Changes/Suno/2024-05-22-we-re-excited-to-announce-that-you-can-search-for-any-public-song-on-suno-you-ca\|You can search for any public song on Suno]] | · | · |
+| 2023 Q3 → 2024 Q1 | · | <span class="not-archived">not archived</span> | <span class="not-archived">not archived</span> | archive begins <time datetime="2024-01-08">2024-01-08</time> | archive begins <time datetime="2023-12-23">2023-12-23</time> | archive begins <time datetime="2023-08-03">2023-08-03</time> | · |
+| 2023 Q2 | · | <span class="not-archived">not archived</span> | <span class="not-archived">not archived</span> | <span class="not-archived">not archived</span> | <span class="not-archived">not archived</span> | <span class="not-archived">not archived</span> | <time datetime="2023-04-19">2023-04-19</time> [[Changes/Synthesia/2023-04-19-you-can-now-control-the-volume-of-music-and-videos-files-in-studio\|AUDIO controls are here!]] |
+| 2022 Q3 → 2023 Q1 | · | <span class="not-archived">not archived</span> | <span class="not-archived">not archived</span> | <span class="not-archived">not archived</span> | <span class="not-archived">not archived</span> | <span class="not-archived">not archived</span> | · |
+| 2022 Q2 | <time datetime="2022-06-02">2022-06-02</time> [[Changes/Descript/2022-06-02-replace-script-track\|Replace script track]] | <span class="not-archived">not archived</span> | <span class="not-archived">not archived</span> | <span class="not-archived">not archived</span> | <span class="not-archived">not archived</span> | <span class="not-archived">not archived</span> | · |
 
-First in archive: each product's earliest tracked change in this theme. "·" marks a quarter without a key moment, and "not archived" a quarter before the product's archive begins. Archives begin: Descript 2018-07-07 · HeyGen 2025-11-29 · OpenClaw 2026-06-30 · Runway 2024-01-08 · Suno 2023-12-23 · Synthesia 2020-10-13.
+First in archive: each product's earliest tracked change in this theme. "·" marks a quarter without a key moment, and "not archived" a quarter before the product's archive begins. Archives begin: Descript 2018-07-07 · HeyGen 2025-11-29 · OpenClaw 2026-06-30 · Runway 2024-01-08 · Suno 2023-12-23 · Superwhisper 2023-08-03 · Synthesia 2020-10-13.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="scope" -->
@@ -78,11 +79,12 @@ Launches, expansions, pricing and policy changes and standalone announcements co
 <label><input type="radio" name="timeline-product" id="tl-only-3"> OpenClaw</label>
 <label><input type="radio" name="timeline-product" id="tl-only-4"> Runway</label>
 <label><input type="radio" name="timeline-product" id="tl-only-5"> Suno</label>
-<label><input type="radio" name="timeline-product" id="tl-only-6"> Synthesia</label>
+<label><input type="radio" name="timeline-product" id="tl-only-6"> Superwhisper</label>
+<label><input type="radio" name="timeline-product" id="tl-only-7"> Synthesia</label>
 </fieldset>
 
 <details class="disclosure">
-<summary>2026 · 32 entries (Descript 2 · HeyGen 1 · OpenClaw 5 · Runway 1 · Suno 22 · Synthesia 1)</summary>
+<summary>2026 · 33 entries (Descript 2 · HeyGen 1 · OpenClaw 5 · Runway 1 · Suno 22 · Superwhisper 1 · Synthesia 1)</summary>
 
 **2026-11**
 
@@ -104,15 +106,16 @@ Launches, expansions, pricing and policy changes and standalone announcements co
 - 2026-07-09 · <span class="tl-product tl-p5">**Suno**</span> · [[Changes/Suno/2026-07-09-we-ve-redesigned-lyrics-so-that-it-s-even-easier-to-draft-and-iterate|We've redesigned lyrics so that it's even easier to draft and iterate]] · Launch
 
 <details class="disclosure">
-<summary>Fixes, digests and other changes · 25 (Descript 1 · HeyGen 1 · OpenClaw 5 · Runway 1 · Suno 16 · Synthesia 1)</summary>
+<summary>Fixes, digests and other changes · 26 (Descript 1 · HeyGen 1 · OpenClaw 5 · Runway 1 · Suno 16 · Superwhisper 1 · Synthesia 1)</summary>
 
 **2026-10**
 
 - 2026-10-28 · <span class="tl-product tl-p5">**Suno**</span> · [[Changes/Suno/2026-10-28-create-songs-conversationally-describe-it-in-plain-words-ideate-on-lyrics-and-st|Create songs conversationally]] · Change
 - 2026-10-28 · <span class="tl-product tl-p5">**Suno**</span> · [[Changes/Suno/2026-10-28-remix-anything-create-covers-extensions-and-mashups-of-songs-from-your-library|Remix anything: Create covers, extensions, and mashups of songs from your library]] · Change
 - 2026-10-28 · <span class="tl-product tl-p5">**Suno**</span> · [[Changes/Suno/2026-10-28-start-from-your-audio-upload-a-voice-memo-or-a-loop-and-turn-into-a-full-song|Start from your audio: Upload a voice memo or a loop and turn into a full song]] · Change
+- 2026-10-28 · <span class="tl-product tl-p6">**Superwhisper**</span> · [[Changes/Superwhisper/2026-10-28-muffle-now-works-alongside-finetune-and-soundsource-and-steps-aside-for-backgrou|Muffle now works alongside FineTune and SoundSource, and steps aside for Background Music]] · Change
 - 2026-10-23 · <span class="tl-product tl-p5">**Suno**</span> · [[Changes/Suno/2026-10-23-iphone-duo-support-new-phone-same-suno-the-app-is-now-built-to-fit-the-iphone-du|Updates for Suno on iOS]] · Change
-- 2026-10-21 · <span class="tl-product tl-p6">**Synthesia**</span> · [[Changes/Synthesia/2026-10-21-preview-three-creative-directions-in-syren-before-generating-a-video-so-you-can|Choose a creative direction with Moodboards]] · Change
+- 2026-10-21 · <span class="tl-product tl-p7">**Synthesia**</span> · [[Changes/Synthesia/2026-10-21-preview-three-creative-directions-in-syren-before-generating-a-video-so-you-can|Choose a creative direction with Moodboards]] · Change
 - 2026-10-15 · <span class="tl-product tl-p5">**Suno**</span> · [[Changes/Suno/2026-10-15-shareable-workspaces-share-a-library-of-songs-that-you-can-share-across-a-team-o|Shareable Workspaces Share a library of songs that you can share across a team]] · Change
 
 **2026-09**
@@ -157,11 +160,15 @@ Launches, expansions, pricing and policy changes and standalone announcements co
 </details>
 
 <details class="disclosure">
-<summary>2025 · 12 entries (Suno 12)</summary>
+<summary>2025 · 13 entries (Suno 12 · Superwhisper 1)</summary>
 
 **2025-09**
 
 - 2025-09-22 · <span class="tl-product tl-p5">**Suno**</span> · [[Changes/Suno/2025-09-22-introducing-hooks-a-new-way-to-bring-your-suno-songs-to-life-through-short-form|Introducing Hooks!]] · Launch
+
+**2025-08**
+
+- 2025-08-20 · <span class="tl-product tl-p6">**Superwhisper**</span> · [[Changes/Superwhisper/2025-08-20-media-pause-super-mode-improvements|Media Pause & Super Mode Improvements]] · Launch
 
 <details class="disclosure">
 <summary>Fixes, digests and other changes · 11 (Suno 11)</summary>
@@ -309,7 +316,7 @@ Launches, expansions, pricing and policy changes and standalone announcements co
 
 **2023-04**
 
-- 2023-04-19 · <span class="tl-product tl-p6">**Synthesia**</span> · [[Changes/Synthesia/2023-04-19-you-can-now-control-the-volume-of-music-and-videos-files-in-studio|AUDIO controls are here!]] · Change
+- 2023-04-19 · <span class="tl-product tl-p7">**Synthesia**</span> · [[Changes/Synthesia/2023-04-19-you-can-now-control-the-volume-of-music-and-videos-files-in-studio|AUDIO controls are here!]] · Change
 
 <details class="disclosure">
 <summary>Fixes, digests and other changes · 1 (Suno 1)</summary>

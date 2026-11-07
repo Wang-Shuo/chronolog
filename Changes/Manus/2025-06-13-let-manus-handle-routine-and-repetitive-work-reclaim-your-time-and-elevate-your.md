@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 4c427262c252a419b0389a25adecd1a86753e477ad2897e41e98d4c400adcd58
+machine_hash: 71df44b06ddf85fcc1d81be1695d050acf77176ec42e61105e5b2a1ac39c8dbe
 product: manus
 product_name: Manus
 record:

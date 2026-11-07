@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 5c746cc642d38667e95e1e2b1a14af0eede84928689e4afe84e832a397a2117f
+machine_hash: dbd67e8c96c1ce2dfcdb4e95399c0373f8ed6bdc6914961dcfcb9ad247b00d23
 product: replit
 product_name: Replit
 record:
@@ -46,12 +46,11 @@ record:
   title: Support seat access for teams
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-09-29-1-7-24-team-deeplinks-and-hooks-improvements|1.7.24:
-  Team deeplinks and hooks improvements]]'
 - '[[Changes/Gemini CLI/2025-10-01-support-rendering-function-calls-and-responses-when-sharing-chat-to-markdown-by|Support
   rendering function calls and responses when sharing chat to markdown]]'
 - '[[Changes/GitHub Copilot CLI/2025-10-07-significantly-reduced-token-consumption-round-trips-per-problem-and-time-to-resu|Significantly
   reduced token consumption, round trips per problem, and time to result]]'
+- '[[Changes/Devin/2025-10-10-knowledge-sharing-by-default|Knowledge Sharing by Default]]'
 source_release: '[[Releases/Replit/replit-2025-10-10-2025-10-10-6e646996|replit-2025-10-10-2025-10-10-6e646996]]'
 source_type: replit_changelog
 theme: collaboration
@@ -86,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2025-10-07 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-10-07-significantly-reduced-token-consumption-round-trips-per-problem-and-time-to-resu|Significantly reduced token consumption, round trips per problem, and time to result]]
+- Earlier: 2025-10-10 · Devin · [[Changes/Devin/2025-10-10-knowledge-sharing-by-default|Knowledge Sharing by Default]]
 - Later: 2025-10-14 · Descript · [[Changes/Descript/2025-10-14-join-ceo-laura-and-the-team-for-a-live-demonstration-of-descript-s-generative-vi|Join CEO Laura and the team for a live demonstration of Descript's generative video…]]
 <!-- chronolog:end -->
 

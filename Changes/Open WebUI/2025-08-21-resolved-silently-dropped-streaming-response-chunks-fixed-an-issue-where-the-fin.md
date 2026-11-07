@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8ea28358026a3144a3f1436805db61dd7368a36583e66d5f27c787f95db101ff
+machine_hash: f539a9e7c92f0f8a93bf78fb3b58941f50305c3d6ba59eba8ae9698c7eac8f24
 product: open-webui
 product_name: Open WebUI
 record:
@@ -53,12 +53,12 @@ record:
   title: "\U0001F4AC **Resolved Silently Dropped Streaming Response Chunks**"
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2025-08-09-2-files-and-data-changes-in-v0-6-19|2 Files and
-  Data changes in v0.6.19]]'
-- '[[Changes/Dify/2025-08-11-minor-fix-wrong-position-of-retry-document-indexing-task-time-elapsed-by-neatguy|minor
-  fix: wrong position of retry_document_indexing_task time elapsed]]'
 - '[[Changes/Gemini CLI/2025-08-14-document-certificate-issue-workaround-by-scidomino-in-https-github-com-google-ge|Document
   certificate issue workaround]]'
+- '[[Changes/AnythingLLM/2025-08-15-workspace-chat-with-documents-overhaul-by-timothycarambat-in-https-github-com-mi|Workspace
+  Chat with documents overhaul]]'
+- '[[Changes/Recraft/2025-08-15-you-can-now-export-your-projects-in-pdf-format-directly-from-recraft|PDF
+  export]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-08-21-v0-6-23-github-241603918-5e4a7f46|open-webui-2025-08-21-v0-6-23-github-241603918-5e4a7f46]]'
 source_type: github_releases
 theme: file-data
@@ -101,7 +101,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2025-08-14 · Gemini CLI · [[Changes/Gemini CLI/2025-08-14-document-certificate-issue-workaround-by-scidomino-in-https-github-com-google-ge|Document certificate issue workaround]]
+- Earlier: 2025-08-15 · Recraft · [[Changes/Recraft/2025-08-15-you-can-now-export-your-projects-in-pdf-format-directly-from-recraft|PDF export]]
 - Later: 2025-08-27 · Dify · [[Changes/Dify/2025-08-27-4-files-and-data-changes-in-1-8-0|4 Files and Data changes in 1.8.0]]
 <!-- chronolog:end -->
 

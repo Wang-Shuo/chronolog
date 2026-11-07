@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f100523796a2808c645e5916ff989e25f2e2a3690fa17c5afd527d9ec6760b44
+machine_hash: 4d30add19378e92918d7fc1ca1231f1bc977b72742956772ef9555289f610da5
 product: v0
 product_name: v0
 record:
@@ -87,7 +87,7 @@ type: change
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-05-15 · Claude Code · [[Changes/Claude Code/2026-05-15-3-safety-and-privacy-changes-in-v2-1-143|3 Safety and Privacy changes in v2.1.143]]
-- Later: 2026-05-18 · Codex CLI · [[Changes/Codex CLI/2026-05-18-17-safety-and-privacy-changes-in-rust-v0-131-0|17 Safety and Privacy changes in rust-v0.131.0]]
+- Later: 2026-05-17 · Devin · [[Changes/Devin/2026-05-17-miscellaneous-improvements|Miscellaneous Improvements]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

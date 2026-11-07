@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 4383fe1882b443970b2f632fd0e2f6c34a39004508ff5aa21e33a3eb55c7b1ae
+machine_hash: 1602d60e1541eea956f54cb894b1098d1e5707b7c68954ce5300696c6aed9617
 product: replit
 product_name: Replit
 record:
@@ -52,10 +52,10 @@ record:
   title: Add visual references when you generate media on Canvas
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-06-08-interactive-charts-in-answers-chatgpt-can-now-turn-some-answers-into-rich-and-in|Interactive
-  charts in answers]]'
 - '[[Changes/ChatGPT/2026-06-08-full-screen-writing-blocks-for-longer-form-work-writing-blocks-now-cover-long-fo|Full-screen
   writing blocks for longer-form work]]'
+- '[[Changes/AnythingLLM/2026-06-09-feat-make-document-sync-stale-after-interval-configurable-by-sanidhyasin-in-http|feat:
+  make document sync stale-after interval configurable]]'
 - '[[Changes/Google Antigravity/2026-06-11-quota-screen-redesign-and-pdf-support|Quota
   Screen Redesign and PDF Support]]'
 source_release: '[[Releases/Replit/replit-2026-06-12-2026-06-12-d92f034f|replit-2026-06-12-2026-06-12-d92f034f]]'
@@ -94,7 +94,7 @@ type: change
 ## Nearby in Files and Data
 
 - Earlier: 2026-06-11 · Google Antigravity · [[Changes/Google Antigravity/2026-06-11-quota-screen-redesign-and-pdf-support|Quota Screen Redesign and PDF Support]]
-- Later: 2026-06-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-16-recover-from-unreadable-native-document-attachments-by-falling-back-to-file-path|Recover from unreadable native document attachments by falling back to file-path uploads]]
+- Later: 2026-06-16 · AnythingLLM · [[Changes/AnythingLLM/2026-06-16-2-files-and-data-changes-in-v1-14-1|2 Files and Data changes in v1.14.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

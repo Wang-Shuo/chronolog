@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 78c63b022dbf506872bb4212bdb29fbb6fa823ab83cf40fbf5fefcdd339baa2e
+machine_hash: 814b71818fa7781192120144ebf4e073a4a55d3429cc0433e220e3d4a1ca7e2e
 product: open-webui
 product_name: Open WebUI
 record:
@@ -47,8 +47,8 @@ record:
   title: "**\U0001F3A8 Model Order/Defaults Reintroduced**"
   type: change
 related_changes:
-- '[[Changes/Aider/2024-11-26-added-alias-config-to-define-custom-model-aliases-https-aider-chat-docs-config-m|Added
-  --alias config to define custom model…]]'
+- '[[Changes/AnythingLLM/2024-11-26-2-model-support-changes-in-v1-3-0|2 Model Support
+  changes in v1.3.0]]'
 - '[[Changes/Dify/2024-11-26-feat-allow-to-contains-files-in-the-system-prompt-even-model-not-support-by-laip|feat:
   Allow to contains files in the system prompt even model not support]]'
 - '[[Changes/Ollama/2024-11-26-2-model-support-changes-in-v0-4-5|2 Model Support changes

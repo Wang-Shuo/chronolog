@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0ddae847a6eb795d856649413823b2b3c00d843a9030e2e987941b7361b3c8f4
+machine_hash: 8c5ce6d527fc6d34a85cb6b5b5f02405671a35125be1f96224e91c7cc828ea84
 product: lovable
 product_name: Lovable
 record:
@@ -44,11 +44,11 @@ record:
     UIs…
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2024-12-25-oauth-management-for-user-groups-enable-group-level-management-via-oauth-integra|\U0001F6E0️
-  OAuth Management for User Groups]]"
 - "[[Changes/Open WebUI/2024-12-27-configurable-api-key-authentication-restrictions-flexibly-configure-endpoint-res|\U0001F512
   Configurable API Key Authentication Restrictions]]"
 - '[[Changes/Replit/2025-01-03-replit-teams-login|Replit Teams login]]'
+- '[[Changes/Devin/2025-01-08-use-devin-s-browser-when-setting-up-devin-s-workspace-i-e-machine-snapshot|Use
+  Devin''s Browser when setting up Devin''s workspace (i.e. machine snapshot)]]'
 source_release: '[[Releases/Lovable/lovable-2025-01-28-2025-01-28-4ade2f04|lovable-2025-01-28-2025-01-28-4ade2f04]]'
 source_type: lovable_changelog
 theme: account-access
@@ -78,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2025-01-03 · Replit · [[Changes/Replit/2025-01-03-replit-teams-login|Replit Teams login]]
+- Earlier: 2025-01-08 · Devin · [[Changes/Devin/2025-01-08-use-devin-s-browser-when-setting-up-devin-s-workspace-i-e-machine-snapshot|Use Devin's Browser when setting up Devin's workspace (i.e. machine snapshot)]]
 - Later: 2025-01-31 · Replit · [[Changes/Replit/2025-01-31-x-login|X login]]
 <!-- chronolog:end -->
 

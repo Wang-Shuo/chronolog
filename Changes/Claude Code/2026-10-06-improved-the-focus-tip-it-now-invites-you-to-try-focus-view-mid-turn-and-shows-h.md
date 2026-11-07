@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 49a9f0015a15f8516457e8a21dda60799f70c264db661dc764be448163faeeec
+machine_hash: 42e5ab88f644de080440c2ef413d6ae92a792f77a8373de38eefb6521d8d0381
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,12 @@ record:
   title: Improved the /focus tip
   type: change
 related_changes:
-- '[[Changes/Synthesia/2026-10-02-a-new-progress-tracker-keeps-long-running-tasks-visible-across-refreshes-and-nav|Track
-  long-running tasks with Progress Tracker]]'
-- '[[Changes/OpenClaw/2026-10-03-session-assignment-moving-the-pointer-over-assign-to-and-then-pressing-enter-now|Session
-  assignment]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-05-add-a-pre-conversation-ctrl-e-environment-picker-to-switch-between-local-and-clo|Add
   a pre-conversation Ctrl+E environment picker to switch between local and cloud runs]]'
+- '[[Changes/Raycast/2026-10-05-2-interface-experience-changes-in-raycast-windows-2-6|2
+  Interface Experience changes in Raycast windows 2.6]]'
+- '[[Changes/Raycast/2026-10-05-3-interface-experience-changes-in-raycast-macos-2-6|3
+  Interface Experience changes in Raycast macos 2.6]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-06-v2-1-292-github-404958910-b2fd21ab|claude-code-2026-10-06-v2-1-292-github-404958910-b2fd21ab]]'
 source_type: github_releases
 theme: interface-experience
@@ -86,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-10-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-05-add-a-pre-conversation-ctrl-e-environment-picker-to-switch-between-local-and-clo|Add a pre-conversation Ctrl+E environment picker to switch between local and cloud runs]]
+- Earlier: 2026-10-05 · Raycast · [[Changes/Raycast/2026-10-05-3-interface-experience-changes-in-raycast-macos-2-6|3 Interface Experience changes in Raycast macos 2.6]]
 - Later: 2026-10-06 · OpenHands · [[Changes/OpenHands/2026-10-06-feat-outline-the-back-navigation-control-on-settings-sub-pages-by-errmakov-in-ht|feat: outline the back navigation control on settings sub-pages]]
 <!-- chronolog:end -->
 

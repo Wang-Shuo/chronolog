@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9a2ac3c63d21ace85fdc426f435ff65af796e11b439e8325380d445a1e817c32
+machine_hash: cd2d45d63e0076e38546604adc8e7f223b4a42421dee6ad8f2bed508b7cce290
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,10 +43,9 @@ record:
     for long…
   type: change
 related_changes:
-- '[[Changes/HeyGen/2026-03-31-choose-between-standard-faster-fewer-credits-and-precise-sharper-results-upscali|Choose
-  between Standard (faster, fewer credits) and Precise (sharper results)…]]'
-- '[[Changes/Claude Code/2026-04-01-2-reliability-and-performance-changes-in-v2-1-90|2
-  Reliability and Performance changes in v2.1.90]]'
+- '[[Changes/Devin/2026-04-01-devin-review-improvements|Devin Review Improvements]]'
+- '[[Changes/Devin/2026-04-01-various-bug-fixes-performance-improvements-and-visual-polish-across-the-platform|Various
+  bug fixes, performance improvements, and visual polish across the platform]]'
 - '[[Changes/Gemini CLI/2026-04-01-perf-cli-background-ide-client-to-speed-up-initialization-by-sehoon38-in-https-g|perf(cli):
   background IDE client to speed up initialization]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-04-01-v1-0-15-github-304307238-4db7dc28|github-copilot-cli-2026-04-01-v1-0-15-github-304307238-4db7dc28]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0f70624a2d793e6bde2e5c96600e0101386a007cf703e76922f01e9ad7901b84
+machine_hash: 935bda271ca1132d8d95fe0bcbd0a428c7e1fa38275334daf97937d7bad34531
 product: open-webui
 product_name: Open WebUI
 record:
@@ -45,10 +45,10 @@ record:
     tab, CR, and LF…"
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-05-08-2-editor-experience-changes-in-rust-v0-130-0|2 Editor
-  Experience changes in rust-v0.130.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-08-2-editor-experience-changes-in-v1-0-44|2
   Editor Experience changes in v1.0.44]]'
+- '[[Changes/Raycast/2026-05-08-quick-ai-gets-a-major-refresh-in-this-release-bringing-it-closer-to-the-ai-chat|Quick
+  AI gets a major refresh in this release, bringing it closer to the AI Chat…]]'
 - '[[Changes/Open WebUI/2026-05-09-5-editor-experience-changes-in-v0-9-3|5 Editor
   Experience changes in v0.9.3]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-05-10-v0-9-5-github-320167431-c515d0a2|open-webui-2026-05-10-v0-9-5-github-320167431-c515d0a2]]'

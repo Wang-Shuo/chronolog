@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6c80a1ff6e7ecaaad766de9efce23ad85ab2563983f71547464a3dd9474a99ed
+machine_hash: 173bff165fd57718734c6a40dc757b0e09c974236e849f82d76bf0cd51a5037e
 product: opencode
 product_name: OpenCode
 record:
@@ -47,10 +47,9 @@ record:
   title: 3 Context Window changes in v2.2.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-27-changed-a-subagent-s-autocompactwindow-to-lower-the-window-set-by-claude-code-au|Changed
-  a subagent''s autoCompactWindow to lower the window set…]]'
-- '[[Changes/Codex CLI/2026-10-27-2-context-window-changes-in-rust-v0-165-0|2 Context
-  Window changes in rust-v0.165.0]]'
+- '[[Changes/Krea/2026-10-27-api-usage-page|API Usage page]]'
+- '[[Changes/Krea/2026-10-27-personal-and-service-api-tokens|Personal and service
+  API tokens]]'
 - '[[Changes/Ollama/2026-10-27-lfm3-https-ollama-com-library-lfm3-a-1-7b-text-model-with-a-256k-token-context-w|lfm3((source
   link) a 1.7B text model with a 256K-token context…]]'
 source_release: '[[Releases/OpenCode/opencode-2026-10-27-v2-2-0-f60b51f1|opencode-2026-10-27-v2-2-0-f60b51f1]]'

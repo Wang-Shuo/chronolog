@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: e522d5d1c94aeb2d414ed4d9678f6952f8dfdbf7189644cfa9511f57a8e83222
+machine_hash: 134ab27c57080954036dbad31b9ac189785e0fcf5860d51961baf5bc591207a4
 product: notion
 product_name: Notion
 record:
@@ -52,10 +52,9 @@ record:
   title: 'Slack integration 2.0: save messages and configure notifications'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-  are announcing experimental support for AI plugins in ChatGPT]]'
-- '[[Changes/Notion/2023-03-23-embed-content-from-2-000-apps-like-mixpanel-and-twitch|Embed
-  content from 2,000 apps like Mixpanel and Twitch]]'
+- '[[Changes/Raycast/2023-03-29-separate-window|Separate Window]]'
+- '[[Changes/Raycast/2023-03-29-root-search-parallels-apps-are-now-automatically-discovered-and-can-be-opened-in|Root
+  Search: Parallels apps are now automatically discovered and can be opened…]]'
 - '[[Changes/Descript/2023-04-17-edit-in-descript-projects-created-via-edit-in-descript-integrations-https-help-d|Edit
   in Descript]]'
 source_release: '[[Releases/Notion/notion-2023-04-27-https-www-notion-com-releases-2023-04-27-8f30da0c|notion-2023-04-27-https-www-notion-com-releases-2023-04-27-8f30da0c]]'
@@ -94,7 +93,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2023-04-17 · Descript · [[Changes/Descript/2023-04-17-edit-in-descript-projects-created-via-edit-in-descript-integrations-https-help-d|Edit in Descript]]
-- Later: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-one-click-extension-import-from-vs-code-beta-as-a-highly-requested-feature-we-re|One-Click Extension Import from VS Code (beta)]]
+- Later: 2023-04-28 · Raycast · [[Changes/Raycast/2023-04-28-the-default-search-scope-for-apps-from-parallels-vms-can-now-be-removed-preferen|The default search scope for apps from Parallels VMs can now be removed…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

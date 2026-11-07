@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 58218010b4ba7779d3336177dab5f01a647502b3e022effc42338bee05f6cc6c
+machine_hash: 8b994d0d2b838d516863e090958adacb19e7271c377342c76a66a1c00ffeb804
 product: replit
 product_name: Replit
 record:
@@ -48,8 +48,9 @@ record:
   title: Agent multi-tool calling upgrade
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2025-07-07-agent-transfers|Agent Transfers]]'
 - '[[Changes/ElevenLabs/2025-07-07-sdks|SDKs]]'
+- '[[Changes/AnythingLLM/2025-07-09-3-agent-mode-changes-in-v1-8-3|3 Agent Mode changes
+  in v1.8.3]]'
 - '[[Changes/Dify/2025-07-10-feat-retain-llm-setting-for-agent-node-by-fdb02983rhy-in-https-github-com-langge|feat:
   Retain llm setting for agent node]]'
 source_release: '[[Releases/Replit/replit-2025-07-11-2025-07-11-7720b5c2|replit-2025-07-11-2025-07-11-7720b5c2]]'

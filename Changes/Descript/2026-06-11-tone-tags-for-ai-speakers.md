@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: d95e3b34e00bfd70d4e26b2346bd512cc0181dbfad50a178a9a91129609a0cb1
+machine_hash: a0b556e5569f203906fde4ee30f08d647db76062856260061db444da41ba95d2
 product: descript
 product_name: Descript
 record:
@@ -58,9 +58,10 @@ record:
   title: Tone Tags for AI speakers
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-06-08-packages|Packages]]'
 - '[[Changes/HeyGen/2026-06-08-unlike-most-video-tools-which-cut-the-audio-and-leave-the-video-jumping-at-every|Unlike
   most video tools, which cut the audio and leave the video jumping at every…]]'
+- '[[Changes/AnythingLLM/2026-06-09-feat-add-server-side-speech-to-text-with-openai-provider-by-shatfield4-in-https|feat:
+  add server-side speech-to-text with OpenAI provider]]'
 - '[[Changes/Descript/2026-06-11-transcription|Transcription]]'
 source_release: '[[Releases/Descript/descript-2026-06-11-6a2b3bab1b3cd1eee09fe520-f254003b|descript-2026-06-11-6a2b3bab1b3cd1eee09fe520-f254003b]]'
 source_type: canny_changelog
@@ -109,8 +110,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-06-08 · HeyGen · [[Changes/HeyGen/2026-06-08-unlike-most-video-tools-which-cut-the-audio-and-leave-the-video-jumping-at-every|Unlike most video tools, which cut the audio and leave the video jumping at every…]]
-- Later: 2026-06-12 · Kimi Code · [[Changes/Kimi Code/2026-06-12-degrade-unsupported-audio-video-to-placeholder-text-and-reattach-tool-result-med|Degrade unsupported audio/video to placeholder text and reattach tool result media…]]
+- Earlier: 2026-06-09 · AnythingLLM · [[Changes/AnythingLLM/2026-06-09-feat-add-server-side-speech-to-text-with-openai-provider-by-shatfield4-in-https|feat: add server-side speech-to-text with OpenAI provider]]
+- Later: 2026-06-11 · Superwhisper · [[Changes/Superwhisper/2026-06-11-implement-smooth-scrolling-for-long-transcription-results-in-recording-window|Implement smooth scrolling for long transcription results in recording window]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

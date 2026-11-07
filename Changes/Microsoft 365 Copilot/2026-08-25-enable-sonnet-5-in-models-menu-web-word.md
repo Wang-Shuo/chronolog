@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 61197305aede8fb0560c3cbc0461d692f9867f82ce174cee5ab7399233488a07
+machine_hash: ef3fb4fdc6d9b5b284e30ffe131187c61310467ddb4f45f1197cc0506c620591
 product: microsoft-365-copilot
 product_name: Microsoft 365 Copilot
 record:
@@ -54,8 +54,8 @@ record:
   title: Enable Sonnet 5 in models menu [Web] (Word)
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-08-24-chat-latest-for-your-app-s-ai-features|Chat Latest
-  for your app''s AI features]]'
+- '[[Changes/Recraft/2026-08-24-take-total-control-over-your-output-before-you-hit-generate-choose-your-batch-si|Multi-Generation
+  & Model Comparison]]'
 - '[[Changes/Dify/2026-08-25-93-model-support-changes-in-1-17-0|93 Model Support changes
   in 1.17.0]]'
 - '[[Changes/Microsoft 365 Copilot/2026-08-25-select-models-when-using-researcher-in-copilot-chat-windows-web-microsoft-365-co|Select

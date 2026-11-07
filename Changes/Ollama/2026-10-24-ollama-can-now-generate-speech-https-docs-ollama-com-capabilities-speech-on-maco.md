@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: f3079257843d39e5470776779534b9a0919f1e930c5e8bf8043f920414cc4063
+machine_hash: e8b1cb335835bcbff8760b3c4979052514a2bc99844a21b727cb75896f978553
 product: ollama
 product_name: Ollama
 record:
@@ -59,12 +59,12 @@ record:
     on macOS
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-22-vscode-added-a-log-warning-that-says-what-to-do-when-dictation-or-the-extension|VSCode
-  Added a log warning that says what to do when dictation or the extension''s…]]'
-- '[[Changes/OpenClaw/2026-10-22-3-voice-and-audio-changes-in-v2026-10-6|3 Voice and
-  Audio changes in v2026.10.6]]'
+- '[[Changes/Raycast/2026-10-22-ai-chat-commands-sent-to-ai-chat-such-as-send-to-ai-chat-or-dictation-now-respec-d0fe95|AI
+  Chat : Commands sent to AI Chat (such as Send to AI Chat or Dictation) now…]]'
 - '[[Changes/Codex CLI/2026-10-23-3-voice-and-audio-changes-in-rust-v0-164-0|3 Voice
   and Audio changes in rust-v0.164.0]]'
+- '[[Changes/Krea/2026-10-24-audio-tool-and-voice-cloning-for-everyone|Audio tool
+  and voice cloning for everyone]]'
 source_release: '[[Releases/Ollama/ollama-2026-10-24-v0-40-11-github-422414238-db17e15f|ollama-2026-10-24-v0-40-11-github-422414238-db17e15f]]'
 source_type: github_releases
 theme: voice
@@ -93,7 +93,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-10-23 · Codex CLI · [[Changes/Codex CLI/2026-10-23-3-voice-and-audio-changes-in-rust-v0-164-0|3 Voice and Audio changes in rust-v0.164.0]]
+- Earlier: 2026-10-24 · Krea · [[Changes/Krea/2026-10-24-audio-tool-and-voice-cloning-for-everyone|Audio tool and voice cloning for everyone]]
 - Later: 2026-10-25 · Open WebUI · [[Changes/Open WebUI/2026-10-25-4-voice-and-audio-changes-in-v0-12-4|4 Voice and Audio changes in v0.12.4]]
 <!-- chronolog:end -->
 

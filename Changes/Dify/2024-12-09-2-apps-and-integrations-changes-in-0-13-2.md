@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 82726e0a31b83d9ba9e624a7b965012d7b9e2a2af8c106b367baf72b85aba52d
+machine_hash: 465379588f46680092cad94df288e85cfbb900c28a180436ffca5b89b8c00754
 product: dify
 product_name: Dify
 record:
@@ -44,10 +44,9 @@ record:
   title: 2 Apps and Integrations changes in 0.13.2
   type: change
 related_changes:
-- '[[Changes/Dify/2024-12-03-you-can-now-use-github-com-links-directly-for-dsls-instead-of-relying-on-raw-git|Use
-  github.com links directly for DSLs instead of relying on raw.githubusercontent.com]]'
 - '[[Changes/Lovable/2024-12-03-introducing-feedback-lovable-dev-for-feature-and-integration-request|Introducing
   feedback.lovable.dev for feature and integration request]]'
+- '[[Changes/Raycast/2024-12-04-manage-auto-quits|Manage Auto Quits]]'
 - '[[Changes/Notion/2024-12-05-get-answers-from-github-beta|Get answers from GitHub
   Beta]]'
 source_release: '[[Releases/Dify/dify-2024-12-09-0-13-2-github-189680293-b531c555|dify-2024-12-09-0-13-2-github-189680293-b531c555]]'

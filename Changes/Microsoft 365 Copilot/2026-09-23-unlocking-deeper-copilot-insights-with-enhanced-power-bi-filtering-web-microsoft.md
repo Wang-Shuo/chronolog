@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: c4ee38c90b3473318c059b9fc08d3cb1396b608f159e527e52597a1825e3c783
+machine_hash: 54a6d3f89412e80139adc6474bf10aff13b1567de9e705f3abf768477d3548c4
 product: microsoft-365-copilot
 product_name: Microsoft 365 Copilot
 record:
@@ -48,8 +48,8 @@ record:
   title: Unlocking Deeper Copilot Insights with Enhanced Power BI Filtering…
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-09-22-feat-open-git-sync-to-org-admins-on-cloud-backends-by-hieptl-in-https-github-com|feat:
-  open Git Sync to org admins on cloud backends]]'
+- '[[Changes/Devin/2026-09-23-github-app-permissions-update|GitHub App Permissions
+  Update]]'
 - '[[Changes/Microsoft 365 Copilot/2026-09-23-people-skills-removal-and-deletion-admin-control-web-microsoft-365-copilot|People
   Skills - removal and deletion admin control Web (Microsoft 365 Copilot)]]'
 - '[[Changes/Microsoft 365 Copilot/2026-09-23-new-dedicated-license-requests-page-in-microsoft-365-admin-center-web-microsoft|New
@@ -106,7 +106,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-09-22 · OpenHands · [[Changes/OpenHands/2026-09-22-feat-open-git-sync-to-org-admins-on-cloud-backends-by-hieptl-in-https-github-com|feat: open Git Sync to org admins on cloud backends]]
+- Earlier: 2026-09-23 · Devin · [[Changes/Devin/2026-09-23-github-app-permissions-update|GitHub App Permissions Update]]
 - Later: 2026-09-23 · OpenClaw · [[Changes/OpenClaw/2026-09-23-2-enterprise-and-administration-changes-in-v2026-9-6|2 Enterprise and Administration changes in v2026.9.6]]
 <!-- chronolog:end -->
 

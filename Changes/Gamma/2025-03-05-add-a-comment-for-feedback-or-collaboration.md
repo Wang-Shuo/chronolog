@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0aa59d74a3768733821fb77c10cf914bd7604bbd59f3467192c5ca4b69fea2ea
+machine_hash: 6da5e6939072c511df475c04c04c467349fd191385ec6725fde2daffdeca0ea6
 product: gamma
 product_name: Gamma
 record:
@@ -43,10 +43,9 @@ record:
   title: "\U0001F4AC Add a Comment for feedback or collaboration"
   type: change
 related_changes:
-- '[[Changes/Descript/2025-02-04-if-you-prefer-to-opt-out-you-can-let-us-know-by-submitting-a-ticket-to-our-suppo|If
-  you prefer to opt out you can let us know by submitting a ticket to our support…]]'
-- "[[Changes/Open WebUI/2025-02-18-download-button-for-svg-diagrams-svg-diagrams-generated-within-chat-can-now-be-d|\U0001F4E5
-  Download Button for SVG Diagrams]]"
+- '[[Changes/Recraft/2025-02-26-keeping-visuals-consistent-just-got-easier-introducing-style-sharing-a-simple-wa|Keeping
+  visuals consistent just got easier]]'
+- '[[Changes/Recraft/2025-02-26-here-s-how-it-works|Here’s how it works]]'
 - '[[Changes/Dify/2025-02-28-we-are-glad-to-share-that-we-re-launching-dify-v1-0-0|We
   are glad to share that we''re launching Dify v1.0.0]]'
 source_release: '[[Releases/Gamma/gamma-2025-03-05-67bcf7507957f25a122606e2-47744809|gamma-2025-03-05-67bcf7507957f25a122606e2-47744809]]'

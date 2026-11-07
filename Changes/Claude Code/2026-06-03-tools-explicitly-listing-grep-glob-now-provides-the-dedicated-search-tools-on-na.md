@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 24765506cba22453787cba462ed2a8f1085d9c76ef70c027d288633f7e64fc69
+machine_hash: 24c4ad9ca5e83038729bc68482e7910e934c70cc00565bd1eb37b4e0dbc99394
 product: claude-code
 product_name: Claude Code
 record:
@@ -89,7 +89,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-06-02 · Kimi Code · [[Changes/Kimi Code/2026-06-02-3-developer-workflow-changes-in-kimi-code-0-8-0|3 Developer Workflow changes in Kimi Code 0.8.0]]
-- Later: 2026-06-04 · Claude Code · [[Changes/Claude Code/2026-06-04-skills-added-escape-syntax-to-include-a-literal-before-a-digit-in-command-bodies|Skills: added \$ escape syntax to include a literal $ before a digit in command bodies]]
+- Later: 2026-06-03 · Raycast · [[Changes/Raycast/2026-06-03-file-search-added-open-in-file-explorer-command-when-entering-a-file-path-in-the|File Search : Added “Open In File Explorer” command when entering a file path…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

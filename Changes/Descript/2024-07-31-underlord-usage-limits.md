@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: policy
-machine_hash: 1bf8cfc9353c45db7b92f3d98976e5dcb00481da2fb8e72a122987429ae0ea7c
+machine_hash: 7fb94b230c6927ca3642c524f2fbf69dea55497e114770f83ea998deb781a0fb
 product: descript
 product_name: Descript
 record:
@@ -59,9 +59,10 @@ record:
   title: Underlord usage limits
   type: change
 related_changes:
-- '[[Changes/Descript/2024-07-02-plans-and-pricing-update|Plans and Pricing Update]]'
 - '[[Changes/Gemini/2024-07-15-workspace-extensions-now-available-in-beta-for-gemini-for-google-workspace-add-o|Workspace
   Extensions now available in Beta for Gemini for Google Workspace add-on…]]'
+- '[[Changes/Superwhisper/2024-07-22-add-billing-link-to-license-view|Add Billing
+  link to License View]]'
 - '[[Changes/Aider/2024-07-29-enhanced-token-usage-and-cost-reporting-now-works-when-streaming-too|Enhanced
   token usage and cost reporting]]'
 source_release: '[[Releases/Descript/descript-2024-07-31-66a9024dc946150601c712a1-ebef7dcf|descript-2024-07-31-66a9024dc946150601c712a1-ebef7dcf]]'

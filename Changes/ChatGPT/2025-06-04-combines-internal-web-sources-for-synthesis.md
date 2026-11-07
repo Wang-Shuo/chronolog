@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ea4502fa7048700db0f4f9e563b761e47c8428dfe960a8cf6c34fb4dba9b26a5
+machine_hash: 1a21032d571af1b5688b33f36eb0ea25d123bdb8a009d043264e4edb834c1c9f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -43,10 +43,10 @@ record:
   title: Combines internal + web sources for synthesis
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-05-12-chatgpt-deep-research-with-sharepoint-and-onedrive-is-available-globally-to-team-c5147c|Microsoft
-  SharePoint and OneDrive connector for deep research for Plus/Pro/Team]]'
-- '[[Changes/ChatGPT/2025-05-15-chatgpt-deep-research-with-dropbox-is-available-globally-to-team-users-it-is-als-eaf8af|Dropbox
-  connector for deep research for Plus/Pro/Team]]'
+- '[[Changes/Raycast/2025-05-21-ai-the-ai-chat-quick-ai-web-search-setting-now-works-even-if-the-ask-web-command|AI:
+  The AI Chat/Quick AI Web Search setting now works even if the Ask Web command…]]'
+- '[[Changes/LM Studio/2025-05-23-share-links-with-others-directly-or-on-discord-reddit-x-no-way-to-browse-presets|Share
+  links with others directly, or on Discord / Reddit / X…]]'
 - '[[Changes/Open WebUI/2025-05-26-3-search-and-browsing-changes-in-v0-6-11|3 Search
   and Browsing changes in v0.6.11]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-06-04-connectors-in-beta-for-deep-research-plus-pro-team-enterprise-ed-6bb21f0f|chatgpt-2025-06-04-connectors-in-beta-for-deep-research-plus-pro-team-enterprise-ed-6bb21f0f]]'

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e20016fb533ba96eb917655b073c805b9744383edc64393fca0592103dd868d3
+machine_hash: 3bc46a22b57e1786ca545713c06c34470d5a216813ba12ac119c1ce492d592f4
 product: open-webui
 product_name: Open WebUI
 record:
@@ -45,9 +45,9 @@ record:
   title: "**\U0001F527 Critical Import Error Resolved**"
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2025-02-14-landing-page-input-no-longer-lags-with-long-text-improved-input-responsiveness-o|⚡
-  Landing Page Input No Longer Lags with Long Text]]'
 - '[[Changes/Replit/2025-02-14-object-storage|Object Storage]]'
+- '[[Changes/LM Studio/2025-02-18-speculative-decoding-is-a-technique-that-can-speed-up-token-generation-by-up-to|Speculative
+  Decoding is a technique that can speed up token generation by up…]]'
 - '[[Changes/Open WebUI/2025-02-18-2-reliability-and-performance-changes-in-v0-5-13|2
   Reliability and Performance changes in v0.5.13]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-02-18-v0-5-14-github-200837063-fef60299|open-webui-2025-02-18-v0-5-14-github-200837063-fef60299]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: e9e287c11f774d0962ae3c5990402ad2e916b0db169cfa9f5d6f6005ceaf80cd
+machine_hash: adcd1e856fefb81cdd6032774f52db487b539d07d1de35c573099ae26218ebf4
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -63,11 +63,11 @@ record:
     requests…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-31-deprecated-fast-mode-for-opus-4-8-as-of-october-30-2026-it-will-be-removed-on-no|Deprecated
-  fast mode for Opus 4.8 as of October 30, 2026]]'
 - '[[Changes/ElevenLabs/2026-11-02-sfx-v3|SFX v3]]'
 - '[[Changes/ElevenLabs/2026-11-02-7-model-support-changes-in-elevenlabs-updates-2026-11-02|7
   Model Support changes in ElevenLabs updates — 2026-11-02]]'
+- '[[Changes/Recraft/2026-11-02-review-four-different-directions-each-generated-with-the-model-best-suited-to-it|Review
+  four different directions, each generated with the model best suited to it]]'
 source_release: '[[Releases/Google Antigravity/google-antigravity-2026-11-03-rel-hub-2-29-0-801b565e|google-antigravity-2026-11-03-rel-hub-2-29-0-801b565e]]'
 source_type: antigravity_changelog
 theme: model-support
@@ -106,7 +106,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-11-02 · ElevenLabs · [[Changes/ElevenLabs/2026-11-02-7-model-support-changes-in-elevenlabs-updates-2026-11-02|7 Model Support changes in ElevenLabs updates — 2026-11-02]]
+- Earlier: 2026-11-02 · Recraft · [[Changes/Recraft/2026-11-02-review-four-different-directions-each-generated-with-the-model-best-suited-to-it|Review four different directions, each generated with the model best suited to it]]
 - Later: 2026-11-03 · Ollama · [[Changes/Ollama/2026-11-03-2-model-support-changes-in-v0-40-15|2 Model Support changes in v0.40.15]]
 <!-- chronolog:end -->
 

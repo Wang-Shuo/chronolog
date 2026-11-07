@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ebdd6736281f43cb3f36634f44ecc97ffd2698972a6812f726031db3fc997483
+machine_hash: 0b53f431eeaa57223e937ea7fbf00c026113af511d3fe71e5ab1a9e87cc6dda2
 product: claude-code
 product_name: Claude Code
 record:
@@ -93,7 +93,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.283
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-09-23 · OpenClaw · [[Changes/OpenClaw/2026-09-23-5-reliability-and-performance-changes-in-v2026-9-6|5 Reliability and Performance changes in v2026.9.6]]
-- Later: 2026-09-25 · Synthesia · [[Changes/Synthesia/2026-09-25-pick-720p-1080p-or-4k-when-generating-b-roll-so-you-can-iterate-faster-control-q|Improved resolution options for generated B-roll]]
+- Later: 2026-09-25 · Devin · [[Changes/Devin/2026-09-25-performance-improvements|Performance Improvements]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

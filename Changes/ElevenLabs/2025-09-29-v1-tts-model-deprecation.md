@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: policy
-machine_hash: e42e746836bab1a46b5c3c30fe9a1aa07eaaf2fe1f513c7f6dd6e46f2f7aa982
+machine_hash: b7f78050ced49ae85774c3a75e9d73884fc9fb250a36cbb720a7e8956b31e461
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -48,12 +48,12 @@ record:
   title: v1 TTS model deprecation
   type: change
 related_changes:
-- '[[Changes/Cline/2025-09-29-add-claude-sonnet-4-5-by-saoudrizwan-in-https-github-com-cline-cline-pull-6544|Add
-  Claude Sonnet 4.5]]'
 - '[[Changes/Descript/2025-09-29-why-choose-different-models|Why choose different
   models?]]'
 - '[[Changes/Descript/2025-09-29-you-can-now-select-which-ai-model-powers-your-underlord-https-help-descript-com|Select
   which AI model powers…]]'
+- '[[Changes/Devin/2025-09-29-new-agent-preview-using-sonnet-4-5|New Agent Preview
+  using Sonnet 4.5]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2025-09-29-2025-09-29-3f5c7c91|elevenlabs-2025-09-29-2025-09-29-3f5c7c91]]'
 source_type: elevenlabs_changelog
 theme: model-support
@@ -90,7 +90,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-09-29 · Descript · [[Changes/Descript/2025-09-29-you-can-now-select-which-ai-model-powers-your-underlord-https-help-descript-com|Select which AI model powers…]]
+- Earlier: 2025-09-29 · Devin · [[Changes/Devin/2025-09-29-new-agent-preview-using-sonnet-4-5|New Agent Preview using Sonnet 4.5]]
 - Later: 2025-09-29 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-09-29-3-model-support-changes-in-v0-0-329|3 Model Support changes in v0.0.329]]
 <!-- chronolog:end -->
 

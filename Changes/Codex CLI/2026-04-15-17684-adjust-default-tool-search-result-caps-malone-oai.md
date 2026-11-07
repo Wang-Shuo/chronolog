@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3905dae632a8528896e22c9949a5cd8e3a673cee7bf925bf48c4c440a321927c
+machine_hash: 12ba445d14540cfbbd15f884cc803e425db8273981731be375d5ba1f3cbca29c
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,10 +43,10 @@ record:
   title: '#17684 Adjust default tool search result caps @malone-oai'
   type: change
 related_changes:
-- '[[Changes/Microsoft 365 Copilot/2026-04-07-code-interpreter-now-works-on-files-found-via-chat-search-microsoft-365-copilot|Code
-  interpreter now works on files found via Chat search…]]'
 - '[[Changes/ChatGPT/2026-04-08-the-outlook-email-and-calendar-apps-for-chatgpt-can-now-help-with-delegated-or-s|Outlook
   shared mailboxes and calendars in ChatGPT]]'
+- '[[Changes/Devin/2026-04-10-browser-tool-parity-improvements|Browser Tool Parity
+  Improvements]]'
 - '[[Changes/Codex CLI/2026-04-11-2-search-and-browsing-changes-in-rust-v0-120-0|2
   Search and Browsing changes in rust-v0.120.0]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-04-15-rust-v0-121-0-github-309557036-bb698f03|codex-cli-2026-04-15-rust-v0-121-0-github-309557036-bb698f03]]'
@@ -89,7 +89,7 @@ type: change
 ## Nearby in Search and Browsing
 
 - Earlier: 2026-04-11 · Codex CLI · [[Changes/Codex CLI/2026-04-11-2-search-and-browsing-changes-in-rust-v0-120-0|2 Search and Browsing changes in rust-v0.120.0]]
-- Later: 2026-04-20 · Codex CLI · [[Changes/Codex CLI/2026-04-20-plugin-workflows-now-include-tabbed-browsing-inline-enable-disable-toggles-marke|Plugin workflows now include tabbed browsing, inline enable/disable toggles…]]
+- Later: 2026-04-16 · Krea · [[Changes/Krea/2026-04-16-introducing-seedance-effects|Introducing Seedance Effects]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

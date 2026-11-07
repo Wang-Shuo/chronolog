@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 21d8e54a01001080c730fb4b5f37e84283802849babd0b225f9f012c7e8f0459
+machine_hash: 9315cd1af221f414610ca628a242f79633e123d856d5c9cd824ff14d6cb30dc1
 product: lovable
 product_name: Lovable
 record:
@@ -100,7 +100,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-08-06 · Kimi Code · [[Changes/Kimi Code/2026-08-06-2-model-support-changes-in-kimi-code-0-34-0|2 Model Support changes in Kimi Code 0.34.0]]
-- Later: 2026-08-07 · Claude Code · [[Changes/Claude Code/2026-08-07-changed-the-bash-tool-description-to-always-note-that-command-output-is-displaye|Changed the Bash tool description to always note that command output is displayed…]]
+- Later: 2026-08-06 · Superwhisper · [[Changes/Superwhisper/2026-08-06-introducing-the-s1-family-of-models|Introducing the S1 family of models]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

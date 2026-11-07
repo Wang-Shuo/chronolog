@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2800795f0c356d336fc66c53aea3438090f64076352e5e47e79afc5ca7b4409e
+machine_hash: 1b7316638a3238f12a0fb95a85353428675209d1d03eab47b98c2565f50bd84d
 product: open-webui
 product_name: Open WebUI
 record:
@@ -114,11 +114,11 @@ record:
   title: 13 Collaboration changes in v0.12.0
   type: change
 related_changes:
-- '[[Changes/Midjourney/2026-10-08-shared-folders|SHARED FOLDERS]]'
-- '[[Changes/Midjourney/2026-10-08-here-s-this-week-s-round-of-changes-on-alpha-midjourney-com-the-highlight-this-w|here''s
-  this week''s round of changes on alpha.midjourney.com]]'
-- '[[Changes/OpenClaw/2026-10-08-september-database-compatibility-upgrading-from-september-stable-keeps-shared-da|September
-  database compatibility]]'
+- '[[Changes/Devin/2026-10-09-microsoft-teams|Microsoft Teams]]'
+- '[[Changes/Wispr Flow/2026-10-09-speaker-detection-in-teams-gallery-view-and-google-meet-notetaker|Speaker
+  detection in Teams gallery view and Google Meet (Notetaker)]]'
+- '[[Changes/Wispr Flow/2026-10-09-an-idle-teams-window-no-longer-triggers-meeting-pop-ups-notetaker|An
+  idle Teams window no longer triggers meeting pop-ups (Notetaker)]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-10-10-v0-12-0-github-409209575-f076e92b|open-webui-2026-10-10-v0-12-0-github-409209575-f076e92b]]'
 source_type: github_releases
 theme: collaboration
@@ -191,7 +191,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.12.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-10-08 · OpenClaw · [[Changes/OpenClaw/2026-10-08-september-database-compatibility-upgrading-from-september-stable-keeps-shared-da|September database compatibility]]
+- Earlier: 2026-10-09 · Wispr Flow · [[Changes/Wispr Flow/2026-10-09-an-idle-teams-window-no-longer-triggers-meeting-pop-ups-notetaker|An idle Teams window no longer triggers meeting pop-ups (Notetaker)]]
 - Later: 2026-10-10 · OpenClaw · [[Changes/OpenClaw/2026-10-10-12-collaboration-changes-in-v2026-10-1|12 Collaboration changes in v2026.10.1]]
 <!-- chronolog:end -->
 

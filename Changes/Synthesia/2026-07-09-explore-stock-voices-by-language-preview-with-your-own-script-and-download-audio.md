@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 58247090c520044659484f63cac1df440e06ec8093149ef7332ab9adf552733b
+machine_hash: 55331f78b3943477049574a114f0c981acd835def00a3d3f0bd7b93c14c5b543
 product: synthesia
 product_name: Synthesia
 record:
@@ -45,8 +45,9 @@ record:
   title: Explore the new Voices page
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-07-06-music|Music]]'
 - '[[Changes/ElevenLabs/2026-07-06-workspaces-9376f0|Workspaces]]'
+- '[[Changes/Superwhisper/2026-07-06-improved-transcription-accuracy-with-enhanced-vocabulary-support-and-forced-alig|Improved
+  transcription accuracy with enhanced vocabulary support and forced…]]'
 - '[[Changes/ChatGPT/2026-07-08-we-re-rolling-out-a-new-chatgpt-voice-experience-chatgpt-voice-is-now-powered-by|Introducing
   GPT-Live-1 in ChatGPT Voice]]'
 source_release: '[[Releases/Synthesia/synthesia-2026-07-09-https-www-synthesia-io-updates-explore-the-new-voices-page-f6e74808|synthesia-2026-07-09-https-www-synthesia-io-updates-explore-the-new-voices-page-f6e74808]]'
@@ -76,7 +77,7 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2026-07-08 · ChatGPT · [[Changes/ChatGPT/2026-07-08-we-re-rolling-out-a-new-chatgpt-voice-experience-chatgpt-voice-is-now-powered-by|Introducing GPT-Live-1 in ChatGPT Voice]]
-- Later: 2026-07-13 · ChatGPT · [[Changes/ChatGPT/2026-07-13-chatgpt-is-available-again-on-whatsapp-in-the-european-economic-area-eea-you-can-f60c71|ChatGPT returns to WhatsApp in the EEA]]
+- Later: 2026-07-10 · Superwhisper · [[Changes/Superwhisper/2026-07-10-improved-sound-effects-with-cleaner-audio-now-sounds-good-even-at-high-volume-on|Improved sound effects with cleaner audio, now sounds good even at high volume…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

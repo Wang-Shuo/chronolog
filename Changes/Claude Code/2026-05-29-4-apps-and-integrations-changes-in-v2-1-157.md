@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a601636aca190aa090ec9d5c55c7b59ee4f58ba655e967fd0747b851d58f7ae1
+machine_hash: 2f251fc79807c77a06d9d7c2916166ad44cf5a0e0570e5a898c311dc1c1c3b46
 product: claude-code
 product_name: Claude Code
 record:
@@ -98,7 +98,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.157
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-05-28 · OpenCode · [[Changes/OpenCode/2026-05-28-acp-integrations-can-now-send-prompts-slash-commands-and-usage-updates-through-a|ACP integrations can now send prompts, slash commands, and usage updates through acp-next]]
-- Later: 2026-05-29 · Gamma · [[Changes/Gamma/2026-05-29-claude-and-chatgpt-connectors-just-got-smarter|Claude and ChatGPT connectors just got smarter]]
+- Later: 2026-05-29 · Devin · [[Changes/Devin/2026-05-29-raindrop-ai-mcp-in-marketplace|Raindrop.ai MCP in Marketplace]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

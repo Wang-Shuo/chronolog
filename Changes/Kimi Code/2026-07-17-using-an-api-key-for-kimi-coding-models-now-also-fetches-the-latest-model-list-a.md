@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 84a4d6249d36d14a047509f2362583374d6e171e6d0a3e975b4c4103271a1953
+machine_hash: 2ecdc2acffc3c5820c672f07e7417119faaa8ad210ad22833adea8b3aa75e132
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -45,8 +45,8 @@ record:
     list…
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-07-16-2-model-support-changes-in-v0-32-1|2 Model Support
-  changes in v0.32.1]]'
+- '[[Changes/Raycast/2026-07-16-ai-settings-added-default-reasoning-effort-settings-to-models-view-a8b1e4|AI
+  Settings : Added default reasoning effort settings to models view]]'
 - '[[Changes/Claude Code/2026-07-17-3-model-support-changes-in-v2-1-212|3 Model Support
   changes in v2.1.212]]'
 - '[[Changes/Dify/2026-07-17-12-model-support-changes-in-1-16-0|12 Model Support changes
@@ -82,7 +82,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-07-17 · Dify · [[Changes/Dify/2026-07-17-12-model-support-changes-in-1-16-0|12 Model Support changes in 1.16.0]]
-- Later: 2026-07-18 · Codex CLI · [[Changes/Codex CLI/2026-07-18-3-model-support-changes-in-rust-v0-144-6|3 Model Support changes in rust-v0.144.6]]
+- Later: 2026-07-17 · Superwhisper · [[Changes/Superwhisper/2026-07-17-new-model-availability-status-indicators|New model availability status indicators]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

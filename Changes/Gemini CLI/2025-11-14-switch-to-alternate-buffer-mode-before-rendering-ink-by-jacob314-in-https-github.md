@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2e55843460f0a17e9ef2165797b75b2ab9a8ef3d04459205ef66e276efe8de01
+machine_hash: 75bb6d340cd74aabbccf4abbde52979a48118d22349d443800af60faed1a31bd
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -82,7 +82,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2025-11-13 · Codex CLI · [[Changes/Codex CLI/2025-11-13-2-interface-experience-changes-in-rust-v0-58-0|2 Interface Experience changes in rust-v0.58.0]]
-- Later: 2025-11-19 · Codex CLI · [[Changes/Codex CLI/2025-11-19-handle-don-t-trust-directory-selection-in-onboarding-4941-viniciusmotta8|Handle "Don't Trust" directory selection in onboarding (♯4941) — @viniciusmotta8]]
+- Later: 2025-11-15 · Raycast · [[Changes/Raycast/2025-11-15-there-is-a-brand-new-way-to-set-shortcuts-for-your-favourite-commands-and-apps-a|There is a brand new way to set shortcuts for your favourite commands and apps…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

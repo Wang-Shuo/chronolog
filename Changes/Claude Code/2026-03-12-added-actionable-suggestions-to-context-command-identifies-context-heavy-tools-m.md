@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1e4487d1cce1bd7aa5e7b0776059487825c613895ff66dfa9e8f8403e5ca6298
+machine_hash: c402d7c8421e30d8f645573b4ced7dfc7ee10eb3376ed1873100b3384c030d04
 product: claude-code
 product_name: Claude Code
 record:
@@ -54,10 +54,10 @@ record:
   title: Added actionable suggestions to `/context` command
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-10-improved-bash-command-parsing-by-switching-to-a-native-module-faster-initializat|Improved
-  bash command parsing by switching to a native module]]'
 - '[[Changes/Claude Code/2026-03-11-2-reliability-and-performance-changes-in-v2-1-73|2
   Reliability and Performance changes in v2.1.73]]'
+- '[[Changes/Devin/2026-03-11-various-bug-fixes-performance-improvements-and-visual-polish-across-the-platform|Various
+  bug fixes, performance improvements, and visual polish across the platform]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-11-faster-shell-commands-on-windows-by-skipping-powershell-profile-loading|Faster
   shell commands on Windows by skipping PowerShell profile loading]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-12-v2-1-74-github-295929475-2ee971ae|claude-code-2026-03-12-v2-1-74-github-295929475-2ee971ae]]'

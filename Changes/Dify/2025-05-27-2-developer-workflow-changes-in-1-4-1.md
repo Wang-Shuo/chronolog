@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 06820ec5592dc83357996501d1ce68998aef382f78680eceb4e6970f78862471
+machine_hash: 52b083d3c32e506cca5907322f79d7cee73acb3339b8414e028722cbaa5be0e6
 product: dify
 product_name: Dify
 record:
@@ -45,12 +45,12 @@ record:
   title: 2 Developer Workflow changes in 1.4.1
   type: change
 related_changes:
-- '[[Changes/Aider/2025-05-09-5-developer-workflow-changes-in-v0-83-0|5 Developer
-  Workflow changes in v0.83.0]]'
-- '[[Changes/Cline/2025-05-10-add-ability-to-generate-commit-message-via-cline-thanks-zapp88|Add
-  ability to generate commit message via cline (Thanks zapp88!)]]'
 - "[[Changes/Open WebUI/2025-05-19-preview-button-for-code-artifacts-instantly-jump-from-an-html-code-block-to-its|\U0001F4DD
   Preview Button for Code Artifacts]]"
+- '[[Changes/LM Studio/2025-05-23-add-lms-chat-command-to-the-cli-to-chat-with-a-model-in-the-terminal-thanks-mayf|Add
+  lms chat command to the CLI to chat with a model in the terminal (Thanks @mayfer!)]]'
+- '[[Changes/LM Studio/2025-05-23-add-lms-chat-command-to-the-cli-to-chat-with-a-model-in-the-terminal-thanks-mayf-55f0b8|Add
+  lms chat command to the CLI to chat with a model in the terminal…]]'
 source_release: '[[Releases/Dify/dify-2025-05-27-1-4-1-github-221175130-8bd5e73e|dify-2025-05-27-1-4-1-github-221175130-8bd5e73e]]'
 source_type: github_releases
 theme: developer-workflow
@@ -91,7 +91,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.4.1
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2025-05-19 · Open WebUI · [[Changes/Open WebUI/2025-05-19-preview-button-for-code-artifacts-instantly-jump-from-an-html-code-block-to-its|📝 Preview Button for Code Artifacts]]
+- Earlier: 2025-05-23 · LM Studio · [[Changes/LM Studio/2025-05-23-add-lms-chat-command-to-the-cli-to-chat-with-a-model-in-the-terminal-thanks-mayf-55f0b8|Add lms chat command to the CLI to chat with a model in the terminal…]]
 - Later: 2025-06-01 · OpenHands · [[Changes/OpenHands/2025-06-01-added-a-dev-container-setup-for-development-by-kentyman23-in-https-github-com-al|Added a dev container setup for development]]
 <!-- chronolog:end -->
 

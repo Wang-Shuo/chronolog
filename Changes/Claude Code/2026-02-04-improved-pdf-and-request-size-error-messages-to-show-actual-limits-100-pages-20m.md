@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d44b00c4c2670eafcb1551662fa03e8034454b7e10d6d008f50fe74b8767086b
+machine_hash: 53be5cdbb82fceb924b9ed32dead013d5cc933d6e13671f620cf7ae3d4857b61
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,7 +45,8 @@ record:
     20MB)
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-01-26-knowledge-base|Knowledge Base]]'
+- '[[Changes/LM Studio/2026-01-28-improved-pdf-rendering-quality-for-tool-requests-and-responses|Improved
+  PDF rendering quality for tool requests and responses]]'
 - '[[Changes/Codex CLI/2026-01-31-10191-chore-app-server-document-authmode-owenlin0|♯10191
   chore(app-server): document AuthMode @owenlin0]]'
 - '[[Changes/Dify/2026-02-03-7-files-and-data-changes-in-1-12-0|7 Files and Data changes

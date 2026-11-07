@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6ea3c39a5ae8b7305efd3451caafc823c76f8fe1460997c20b7a93eb101b3827
+machine_hash: 564aeda3b653c3d0504444bf570baf2160582675d512784b2da1b55990023399
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -45,12 +45,12 @@ record:
     losing…'
   type: change
 related_changes:
-- '[[Changes/Cline/2025-09-11-2-interface-experience-changes-in-v3-28-0|2 Interface
-  Experience changes in v3.28.0]]'
 - '[[Changes/Cursor/2025-09-12-1-6-27-native-menu-notification-badge|1.6.27: Native
   menu notification badge]]'
 - '[[Changes/Codex CLI/2025-09-15-5-interface-experience-changes-in-rust-v0-36-0|5
   Interface Experience changes in rust-v0.36.0]]'
+- '[[Changes/Raycast/2025-09-15-ai-chat-window-can-now-be-made-full-screen-again|AI
+  Chat: Window can now be made full-screen again]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-09-16-improvements-to-search-in-chatgpt-2ec68690|chatgpt-2025-09-16-improvements-to-search-in-chatgpt-2ec68690]]'
 source_type: chatgpt_changelog
 theme: interface-experience
@@ -81,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2025-09-15 · Codex CLI · [[Changes/Codex CLI/2025-09-15-5-interface-experience-changes-in-rust-v0-36-0|5 Interface Experience changes in rust-v0.36.0]]
+- Earlier: 2025-09-15 · Raycast · [[Changes/Raycast/2025-09-15-ai-chat-window-can-now-be-made-full-screen-again|AI Chat: Window can now be made full-screen again]]
 - Later: 2025-09-16 · Windsurf · [[Changes/Windsurf/2025-09-16-made-improvements-to-the-sign-up-onboarding-flow|Made improvements to the sign up onboarding flow]]
 <!-- chronolog:end -->
 

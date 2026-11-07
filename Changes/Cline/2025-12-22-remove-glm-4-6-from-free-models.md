@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 135632e7eafe035b8ea8c0b94ff234238a4a10a7dccb14ff964a914180368743
+machine_hash: 8c11ac3b271322b8b7e625a5fa594e1cbf90a44ba42eb6e4f5ffd82474727447
 product: cline
 product_name: Cline
 record:
@@ -39,8 +39,8 @@ record:
   title: Remove GLM 4.6 from free models
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2025-12-19-enable-disabled-models-directly-in-cli-when-selecting-or-specifying-them|Enable
-  disabled models directly in CLI when selecting or specifying them]]'
+- '[[Changes/Superwhisper/2025-12-19-ollama-provider-for-custom-models|Ollama provider
+  for custom models]]'
 - '[[Changes/Codex CLI/2025-12-21-3-model-support-changes-in-rust-v0-77-0|3 Model
   Support changes in rust-v0.77.0]]'
 - '[[Changes/Open WebUI/2025-12-21-11-model-support-changes-in-v0-6-42|11 Model Support

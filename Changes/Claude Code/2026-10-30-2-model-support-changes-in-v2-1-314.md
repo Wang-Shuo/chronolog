@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8378fae0fdc6e7e658397256a3864cb182890858dcf1e546dd12e167e2178851
+machine_hash: 9616fea9868d0d59da8b97238b920f4f33bcbf75a63cf5565aee35c620b57834
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,11 +46,12 @@ record:
   title: 2 Model Support changes in v2.1.314
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-10-29-new-default-model-picker|New Default Model Picker]]'
 - '[[Changes/OpenCode/2026-10-29-2-model-support-changes-in-v2-2-1|2 Model Support
   changes in v2.2.1]]'
 - '[[Changes/OpenCode/2026-10-29-desktop-preserved-pending-model-labels-only-when-a-queued-prompt-actually-change|Desktop
   Preserved pending model labels only when a queued prompt actually changes models]]'
+- '[[Changes/Superwhisper/2026-10-29-3-model-support-changes-in-superwhisper-windows-1-6-11|3
+  Model Support changes in Superwhisper Windows 1.6.11]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-30-v2-1-314-github-428518421-b7ac83d7|claude-code-2026-10-30-v2-1-314-github-428518421-b7ac83d7]]'
 source_type: github_releases
 theme: model-support
@@ -92,8 +93,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.314
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-10-29 · OpenCode · [[Changes/OpenCode/2026-10-29-desktop-preserved-pending-model-labels-only-when-a-queued-prompt-actually-change|Desktop Preserved pending model labels only when a queued prompt actually changes models]]
-- Later: 2026-10-30 · OpenCode · [[Changes/OpenCode/2026-10-30-2-model-support-changes-in-v2-2-3|2 Model Support changes in v2.2.3]]
+- Earlier: 2026-10-29 · Superwhisper · [[Changes/Superwhisper/2026-10-29-3-model-support-changes-in-superwhisper-windows-1-6-11|3 Model Support changes in Superwhisper Windows 1.6.11]]
+- Later: 2026-10-30 · Devin · [[Changes/Devin/2026-10-30-typed-finding-tags|Typed Finding Tags]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

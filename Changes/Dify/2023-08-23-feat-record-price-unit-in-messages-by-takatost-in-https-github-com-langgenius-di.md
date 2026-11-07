@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 6ac90578144609b9d5ed895cfb8d00a827b19df16680c3a7da147a85de2cbc1b
+machine_hash: ac65d66c82ed786544dcbe9925ce6c4e7b21f127709a0ddf38d50a7aabc19619
 product: dify
 product_name: Dify
 record:
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2023-08-15 · Descript · [[Changes/Descript/2023-08-15-squadcast-is-now-part-of-descript-which-means-if-you-re-a-descript-subscriber-yo|Remote Recording now in Descript]]
-- Later: 2023-11-03 · Cursor · [[Changes/Cursor/2023-11-03-pro-plan-if-you-hit-your-fast-request-limit-and-prefer-to-purchase-more-you-now|Pro++ plan: if you hit your fast request limit and prefer to purchase more, you now can]]
+- Later: 2023-09-06 · Raycast · [[Changes/Raycast/2023-09-06-pro-plan-added-hints-for-subscription-related-problems|Pro Plan: Added hints for subscription-related problems]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

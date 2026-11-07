@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 2f2f531d6c28e5c7c6992508fd68f89be78165b713b140cead29cfb5d034eaff
+machine_hash: b0ce39a946e2fd7c59c9b61ee906a84cd738f03935aeefd11a89386855353571
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -88,7 +88,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-03-26 · Codex CLI · [[Changes/Codex CLI/2026-03-26-3-model-support-changes-in-rust-v0-117-0|3 Model Support changes in rust-v0.117.0]]
-- Later: 2026-03-26 · Suno · [[Changes/Suno/2026-03-26-v5-5-our-newest-model-richer-arrangements-sharper-vocals-and-more-dynamic-sound|v5.5 Our newest model]]
+- Later: 2026-03-26 · LM Studio · [[Changes/LM Studio/2026-03-26-adds-a-reasoning-field-to-the-api-v1-models-api-response-indicating-each-model-s|Adds a reasoning field to the /api/v1/models API response, indicating each…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

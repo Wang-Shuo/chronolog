@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 9f4dea0c642375047338c2fc823495846725be2894991e44d5b94f23327fc923
+machine_hash: 1c314f889ea4accc4933c101a41677d9c4d12d13e1017778f0bca210492b30d5
 product: replit
 product_name: Replit
 record:
@@ -49,11 +49,11 @@ record:
   title: Teams and Enterprise
   type: change
 related_changes:
-- '[[Changes/Dify/2025-11-13-chore-remove-unused-enterprise-bot-from-the-readme-by-crazywoola-in-https-github|chore:
-  remove unused enterprise bot from the readme]]'
-- '[[Changes/v0/2025-11-17-we-launched-a-new-enterprise-page|Enterprise]]'
 - '[[Changes/Cursor/2025-11-21-3-enterprise-and-administration-changes-in-2-1|3 Enterprise
   and Administration changes in 2.1]]'
+- '[[Changes/Devin/2025-11-21-enterprise-api-v2-pagination-limit-update|Enterprise
+  API v2 Pagination Limit Update]]'
+- '[[Changes/Devin/2025-11-21-prefix-based-git-permissions|Prefix-based Git Permissions]]'
 source_release: '[[Releases/Replit/replit-2025-11-21-2025-11-21-d3d6b6ca|replit-2025-11-21-2025-11-21-d3d6b6ca]]'
 source_type: replit_changelog
 theme: enterprise-admin
@@ -88,7 +88,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2025-11-21 · Cursor · [[Changes/Cursor/2025-11-21-3-enterprise-and-administration-changes-in-2-1|3 Enterprise and Administration changes in 2.1]]
+- Earlier: 2025-11-21 · Devin · [[Changes/Devin/2025-11-21-prefix-based-git-permissions|Prefix-based Git Permissions]]
 - Later: 2025-11-24 · Open WebUI · [[Changes/Open WebUI/2025-11-24-looking-for-an-enterprise-plan-https-docs-openwebui-com-enterprise-speak-with-ou| Looking for an Enterprise Plan((source link)]]
 <!-- chronolog:end -->
 

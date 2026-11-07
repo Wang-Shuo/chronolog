@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: expansion
-machine_hash: 107329f170d9bc672320ac88af35603b04088344d4a73f32c8ef9c0d9eae06e5
+machine_hash: ac606afe43553dfabf912b4eea8fa81e9e4de1071c09e8e597ab82bd5e0c1447
 product: claude
 product_name: Claude
 record:
@@ -62,8 +62,8 @@ record:
   title: Claude for Excel beta release
   type: change
 related_changes:
-- '[[Changes/Ollama/2025-11-19-3-reliability-and-performance-changes-in-v0-13-0|3
-  Reliability and Performance changes in v0.13.0]]'
+- '[[Changes/Devin/2025-11-21-various-bug-fixes-and-performance-improvements-across-the-platform|Various
+  bug fixes and performance improvements across the platform]]'
 - '[[Changes/Replit/2025-11-21-fast-mode-now-available-to-everyone|Fast Mode now available
   to everyone]]'
 - '[[Changes/Windsurf/2025-11-21-general-improvements|General Improvements]]'

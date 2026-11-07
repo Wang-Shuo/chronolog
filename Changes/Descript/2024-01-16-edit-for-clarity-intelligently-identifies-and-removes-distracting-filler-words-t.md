@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 10ce914e9d91a7c16bb309040bcaab7f9f743b0032f509663f51af351191a1a7
+machine_hash: a3eb1f71a0bddf743715c40df17392cc95d9cfbad4278250279852e82bf25a1a
 product: descript
 product_name: Descript
 record:
@@ -50,10 +50,10 @@ record:
     words…
   type: change
 related_changes:
-- '[[Changes/Descript/2023-11-30-after-a-long-session-of-recording-producing-and-editing-the-last-thing-you-want|New
-  AI Action: Find Good Clips]]'
 - '[[Changes/Ollama/2023-12-12-3-multimodal-input-changes-in-v0-1-15|3 Multimodal
   Input changes in v0.1.15]]'
+- '[[Changes/Raycast/2023-12-13-camera-preview-the-window-will-remain-visible-even-when-losing-focus|Camera
+  preview : The window will remain visible even when losing focus]]'
 - '[[Changes/Synthesia/2023-12-20-upload-a-document-or-paste-a-link-and-transform-it-into-an-eye-catching-video-wi|Introducing:
   AI Video Assistant]]'
 source_release: '[[Releases/Descript/descript-2024-01-16-65a6d658491f6c29a0aecc79-738324e3|descript-2024-01-16-65a6d658491f6c29a0aecc79-738324e3]]'

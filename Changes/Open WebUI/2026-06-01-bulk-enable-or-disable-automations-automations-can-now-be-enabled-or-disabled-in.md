@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c100119f00cbd8cf1d17f70ac9f7e7e6b444782c2574d39614c31004fefb19ab
+machine_hash: e1baa4adf6e79fb5a2e36c0501a4165364c89d55a04575bd9af7eefd06347daf
 product: open-webui
 product_name: Open WebUI
 record:
@@ -56,12 +56,12 @@ record:
     enabled or disabled…"
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-28-schedule-manager-hint-bar-text-no-longer-wraps-over-dialog-borders-when-entries|Schedule
-  manager hint bar text no longer wraps over dialog borders when entries are added]]'
 - '[[Changes/Kimi Code/2026-05-28-2-automation-and-scheduling-changes-in-kimi-code-0-5-0|2
   Automation and Scheduling changes in Kimi Code 0.5.0]]'
 - '[[Changes/Kimi Code/2026-05-28-you-can-now-ask-the-agent-to-remind-you-at-a-specific-time-run-a-task-on-a-recur|Ask
   the agent to remind you at a specific time, run a task on a recurring cron…]]'
+- '[[Changes/Devin/2026-05-29-automations-files-changed-trigger|Automations: Files-Changed
+  Trigger]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-06-01-v0-9-6-github-332798378-d8dc258e|open-webui-2026-06-01-v0-9-6-github-332798378-d8dc258e]]'
 source_type: github_releases
 theme: automation-scheduling
@@ -110,7 +110,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2026-05-28 · Kimi Code · [[Changes/Kimi Code/2026-05-28-you-can-now-ask-the-agent-to-remind-you-at-a-specific-time-run-a-task-on-a-recur|Ask the agent to remind you at a specific time, run a task on a recurring cron…]]
+- Earlier: 2026-05-29 · Devin · [[Changes/Devin/2026-05-29-automations-files-changed-trigger|Automations: Files-Changed Trigger]]
 - Later: 2026-06-02 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-02-experimental-schedule-prompts-with-every-and-after|/experimental schedule prompts with /every and /after]]
 <!-- chronolog:end -->
 

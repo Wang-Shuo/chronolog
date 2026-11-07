@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9a26478a1dc4f130a3438b1a3855c7d92fda011d6dd9ad96d46f4096303ac2d1
+machine_hash: bc8b85aa28fce7b9ebad848b90139a7534d228db516e4c6981e8dc6a6d9292ec
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -42,10 +42,10 @@ record:
   title: 'feat(core): implement strict macOS sandboxing using Seatbelt allowlist'
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-03-30-added-first-class-powershell-support-on-windows|Added
-  first-class PowerShell support on Windows]]'
-- '[[Changes/Codex CLI/2026-03-31-7-mobile-and-desktop-changes-in-rust-v0-118-0|7
-  Mobile and Desktop changes in rust-v0.118.0]]'
+- '[[Changes/Wispr Flow/2026-03-31-more-desktop-updates-desktop|More Desktop Updates
+  (Desktop)]]'
+- '[[Changes/Wispr Flow/2026-03-31-smarter-notifications-desktop|Smarter Notifications
+  (Desktop)]]'
 - '[[Changes/Claude Code/2026-04-01-powershell-tool-on-windows-external-command-arguments-containing-both-a-double-q|PowerShell
   tool on Windows]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-04-01-v0-36-0-github-304395807-bc719eb1|gemini-cli-2026-04-01-v0-36-0-github-304395807-bc719eb1]]'
@@ -89,7 +89,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-04-01 · Claude Code · [[Changes/Claude Code/2026-04-01-powershell-tool-on-windows-external-command-arguments-containing-both-a-double-q|PowerShell tool on Windows]]
-- Later: 2026-04-02 · ChatGPT · [[Changes/ChatGPT/2026-04-02-we-re-rolling-out-chatgpt-in-carplay-giving-you-access-to-a-hands-free-chatgpt-e|ChatGPT in Apple CarPlay]]
+- Later: 2026-04-02 · AnythingLLM · [[Changes/AnythingLLM/2026-04-02-anythingllm-docker-and-desktop-now-support-a-telegram-bot-https-docs-anythingllm|AnythingLLM Docker and Desktop now support a Telegram…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

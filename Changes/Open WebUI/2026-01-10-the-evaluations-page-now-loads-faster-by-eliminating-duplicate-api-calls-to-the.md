@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0d890c5f639112b805847654647c04ba7ff44a837d08eb84ab1faff16fd76406
+machine_hash: 6505572ad5978574344111f36950d0076fc1be5e022148bbfb0779782d8a353e
 product: open-webui
 product_name: Open WebUI
 record:
@@ -45,10 +45,10 @@ record:
     API calls…"
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-01-09-improved-reliability-for-low-spec-and-sqlite-deployments-fixed-page-timeouts-by|⚡
-  Improved reliability for low-spec and SQLite deployments. Fixed page timeouts…]]'
 - '[[Changes/OpenCode/2026-01-09-desktop-implement-chunked-message-loading-and-lazy-diff-loading-for-improved-per|Desktop
   Implement chunked message loading and lazy diff loading for improved performance]]'
+- '[[Changes/Superwhisper/2026-01-09-dependency-updates-including-some-model-runtime-performance-improvements|Dependency
+  updates, including some model runtime performance improvements]]'
 - '[[Changes/Ollama/2026-01-10-for-older-models-ollama-will-avoid-an-integer-underflow-on-low-vram-systems-duri|For
   older models, Ollama will avoid an integer underflow on low VRAM systems during…]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-01-10-v0-7-2-github-275747448-c26f5316|open-webui-2026-01-10-v0-7-2-github-275747448-c26f5316]]'

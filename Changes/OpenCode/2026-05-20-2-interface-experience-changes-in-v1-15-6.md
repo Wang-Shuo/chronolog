@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b17585ed50a014d9bcd1917f365ed95d9f4f712186c1d9cb95f32c2eaf52097c
+machine_hash: d33edddf31934f7e3a6e4f6ce23974b4a0dbb5e3fc60d33723a429770e46cb34
 product: opencode
 product_name: OpenCode
 record:
@@ -42,10 +42,11 @@ record:
   title: 2 Interface Experience changes in v1.15.6
   type: change
 related_changes:
-- '[[Changes/Dify/2026-05-19-app-creation-and-onboarding-tracked-app-creation-source-and-template-id-initiali|App
-  creation and onboarding]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-19-3-interface-experience-changes-in-v1-0-49|3
   Interface Experience changes in v1.0.49]]'
+- "[[Changes/Raycast/2026-05-19-the-next-generation-of-raycast-is-here-a-new-foundation-redesigned-from-the-insi|The
+  next generation of Raycast is here \U0001F389 A new foundation, redesigned from
+  the inside out]]"
 - '[[Changes/Codex CLI/2026-05-20-3-interface-experience-changes-in-rust-v0-132-0|3
   Interface Experience changes in rust-v0.132.0]]'
 source_release: '[[Releases/OpenCode/opencode-2026-05-20-v1-15-6-eb9820d5|opencode-2026-05-20-v1-15-6-eb9820d5]]'
@@ -91,7 +92,7 @@ Source: https://opencode.ai/changelog/v1.15.6
 ## Nearby in Interface Experience
 
 - Earlier: 2026-05-20 · Codex CLI · [[Changes/Codex CLI/2026-05-20-3-interface-experience-changes-in-rust-v0-132-0|3 Interface Experience changes in rust-v0.132.0]]
-- Later: 2026-05-21 · Claude Code · [[Changes/Claude Code/2026-05-21-prompt-history-no-longer-records-consecutive-duplicate-entries-recalling-a-promp|Prompt history no longer records consecutive duplicate entries]]
+- Later: 2026-05-20 · Raycast · [[Changes/Raycast/2026-05-20-2-interface-experience-changes-in-raycast-windows-0-61|2 Interface Experience changes in Raycast windows 0.61]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3ea33b55abc3576e3efbad5c1dfbfba1042745cebb3371d367007983041b76a5
+machine_hash: 4e6e0ebffa0a8638a6e5488c0b1ed60d7045ce33826d3afec5a9fa84e4b37544
 product: opencode
 product_name: OpenCode
 record:
@@ -41,8 +41,7 @@ record:
   title: Desktop Remove the extra titlebar inset in fullscreen on macOS
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-24-2-interface-experience-changes-in-v2-1-219|2 Interface
-  Experience changes in v2.1.219]]'
+- '[[Changes/Devin/2026-07-24-redesigned-model-picker|Redesigned Model Picker]]'
 - '[[Changes/OpenCode/2026-07-24-core-fix-minimax-m3-thinking-variant-selection|Core
   Fix MiniMax M3 thinking variant selection]]'
 - '[[Changes/Open WebUI/2026-07-27-19-interface-experience-changes-in-v0-11-0|19 Interface

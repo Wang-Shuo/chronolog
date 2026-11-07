@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: c5e135624be4c1feff3c26c46a79d2bde0607a6cf57ee5b228683ee159cef3ce
+machine_hash: faf54dd03470e81bc90616f3a0be459e6732bf2d84325e439102543e4c9bbd5f
 product: notion
 product_name: Notion
 record:
@@ -51,11 +51,10 @@ record:
   title: Better quote blocks
   type: change
 related_changes:
-- '[[Changes/Descript/2021-06-30-2-interface-experience-changes-in-version-17-release|2
-  Interface Experience changes in Version 17 Release]]'
 - '[[Changes/Descript/2021-06-30-you-can-now-increase-decrease-the-size-of-text-controls-are-in-the-view-menu|Increase/decrease
   the size of text]]'
 - '[[Changes/Descript/2021-07-13-re-size-tutorial-videos|Re-size Tutorial Videos]]'
+- '[[Changes/Raycast/2021-07-13-menu-items-search|Menu Items Search]]'
 source_release: '[[Releases/Notion/notion-2021-07-14-https-www-notion-com-releases-2021-07-14-f11936cb|notion-2021-07-14-https-www-notion-com-releases-2021-07-14-f11936cb]]'
 source_type: notion_changelog
 theme: interface-experience
@@ -88,8 +87,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2021-07-13 · Descript · [[Changes/Descript/2021-07-13-re-size-tutorial-videos|Re-size Tutorial Videos]]
-- Later: 2021-09-08 · Descript · [[Changes/Descript/2021-09-08-studio-sound-improvements|Studio Sound improvements]]
+- Earlier: 2021-07-13 · Raycast · [[Changes/Raycast/2021-07-13-menu-items-search|Menu Items Search]]
+- Later: 2021-07-29 · Raycast · [[Changes/Raycast/2021-07-29-2-interface-experience-changes-in-raycast-macos-v1-1-21-0|2 Interface Experience changes in Raycast macos-v1 1.21.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

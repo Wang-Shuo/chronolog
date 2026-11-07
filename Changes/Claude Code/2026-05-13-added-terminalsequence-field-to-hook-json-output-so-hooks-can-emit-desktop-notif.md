@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3e99f19a51ac59a80a5e116c7f5ccc533ca82dd968062ea7b6bd96cc9fa98c12
+machine_hash: 832f1183916eebbda8e41fb036cc2fec51bf838d2a9ca09cc2a22170b3509340
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,12 @@ record:
   title: Added `terminalSequence` field to hook JSON output so hooks can emit desktop…
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-05-11-terminal-file-and-directory-paths-now-render-relative-to-the-session-directory-w|Terminal
-  File and directory paths now render relative to the session directory…]]'
 - '[[Changes/Gemini CLI/2026-05-12-2-developer-workflow-changes-in-v0-42-0|2 Developer
   Workflow changes in v0.42.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-12-long-lines-in-diff-view-wrap-at-terminal-width-instead-of-being-truncated|Long
   lines in diff view wrap at terminal width instead of being truncated]]'
+- '[[Changes/Raycast/2026-05-12-core-raycast-no-longer-uses-powershell-for-startup-task-so-users-don-t-see-termi|Core
+  : Raycast no longer uses Powershell for startup task, so users don’t see…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-13-v2-1-141-github-322186176-9f8e2e22|claude-code-2026-05-13-v2-1-141-github-322186176-9f8e2e22]]'
 source_type: github_releases
 theme: developer-workflow
@@ -87,7 +87,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-05-12 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-12-long-lines-in-diff-view-wrap-at-terminal-width-instead-of-being-truncated|Long lines in diff view wrap at terminal width instead of being truncated]]
+- Earlier: 2026-05-12 · Raycast · [[Changes/Raycast/2026-05-12-core-raycast-no-longer-uses-powershell-for-startup-task-so-users-don-t-see-termi|Core : Raycast no longer uses Powershell for startup task, so users don’t see…]]
 - Later: 2026-05-13 · Cursor · [[Changes/Cursor/2026-05-13-environment-configuration-as-code-827fd1|Environment configuration as code]]
 <!-- chronolog:end -->
 

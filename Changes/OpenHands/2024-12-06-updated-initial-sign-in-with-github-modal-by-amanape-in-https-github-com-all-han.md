@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8ff7a47cdfde404113e297bdb9b290f4b146689b87afabe42d68d2c5b53e6c3f
+machine_hash: 8315df89ec4498b8f78aa81305ace334c2cafd32e27a0a56505da330bb9b1cb4
 product: openhands
 product_name: OpenHands
 record:
@@ -42,10 +42,10 @@ record:
   title: Updated initial Sign in with Github modal
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2024-11-23-ldap-profile-image-issue-fixed-an-ldap-integration-bug-related-to-profile-images|\U0001F4F7
-  LDAP Profile Image Issue]]"
 - '[[Changes/Dify/2024-11-25-2-account-and-access-changes-in-0-12-0|2 Account and
   Access changes in 0.12.0]]'
+- '[[Changes/AnythingLLM/2024-11-26-2-account-and-access-changes-in-v1-3-0|2 Account
+  and Access changes in v1.3.0]]'
 - "[[Changes/Open WebUI/2024-11-26-ollama-authentication-corrected-an-issue-with-ollama-s-authorization-headers-gua|\U0001F511
   Ollama Authentication]]"
 source_release: '[[Releases/OpenHands/openhands-2024-12-06-0-15-1-github-189468969-ea2e2af5|openhands-2024-12-06-0-15-1-github-189468969-ea2e2af5]]'

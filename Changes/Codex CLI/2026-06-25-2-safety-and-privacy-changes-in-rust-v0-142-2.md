@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: dc0d0d71306287eaea9294e4b97aeae5bbec0c63c439db07b0c08ad021c09ce2
+machine_hash: 36b445b15e295e6bc9d59137fa8f8a1c98a7960cef8d130d8fab52c2a8742067
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,10 +44,10 @@ record:
   title: 2 Safety and Privacy changes in rust-v0.142.2
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-06-23-restrict-external-collaborators-without-enforcing-sso|Restrict
-  external collaborators without enforcing SSO]]'
 - '[[Changes/Claude Code/2026-06-24-improved-sandbox-network-permission-dialog-hosts-you-allow-with-yes-are-now-reme|Improved
   sandbox network permission dialog]]'
+- '[[Changes/Devin/2026-06-24-security-findings-in-ask-devin|Security Findings in
+  Ask Devin]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-24-commands-with-slash-prefixed-string-arguments-e-g-body-azp-run-no-longer-trigger|Commands
   with slash-prefixed string arguments (e.g. --body "/azp run") no longer…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-06-25-rust-v0-142-2-github-344540546-8fdabe3c|codex-cli-2026-06-25-rust-v0-142-2-github-344540546-8fdabe3c]]'

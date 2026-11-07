@@ -14,12 +14,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: becdda0181f4c46f4534c3d8e4e4fb5a4f5836d5634e6d5872be052404b8ecbf
+machine_hash: 57f7ef50d2e9e8bd71af56d59314929f80419de2e94b931929cbed389376fbb7
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,8 +47,8 @@ record:
     say why…'
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-09-19-28-account-and-access-changes-in-v2026-9-5|28 Account
-  and Access changes in v2026.9.5]]'
+- '[[Changes/Devin/2026-09-21-link-your-bitbucket-data-center-account|Link Your Bitbucket
+  Data Center Account]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-21-managed-plugin-commands-load-organization-marketplace-policy-with-environment-gi|Managed
   plugin commands load organization marketplace policy with environment…]]'
 - '[[Changes/Open WebUI/2026-09-21-6-account-and-access-changes-in-v0-11-4|6 Account

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 04f4fd87a7add64b6f433004f8a969d5b38b92f8a835326882954d14968f93e0
+machine_hash: c5febd62608f80f6665229a044b474fdf28d572330d0aebbef89f28c69b9590c
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -48,9 +48,10 @@ record:
   title: Workspaces
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2025-06-23-sip-trunking|SIP Trunking]]'
-- '[[Changes/Dify/2025-06-25-2-safety-and-privacy-changes-in-1-5-0|2 Safety and Privacy
-  changes in 1.5.0]]'
+- '[[Changes/LM Studio/2025-06-25-fixed-a-bug-where-tool-permission-dialog-wouldn-t-auto-scroll-to-the-bottom-of-t|Fixed
+  a bug where tool permission dialog wouldn''t auto-scroll to the bottom of the chat]]'
+- '[[Changes/Raycast/2025-06-26-favicon-provider-we-added-a-new-setting-to-let-you-pick-your-favicon-provider-or|Favicon
+  Provider: We added a new setting to let you pick your favicon provider…]]'
 - '[[Changes/Replit/2025-06-27-security-scanner-updates|Security scanner updates]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2025-06-30-2025-06-30-46fa8d5a|elevenlabs-2025-06-30-2025-06-30-46fa8d5a]]'
 source_type: elevenlabs_changelog

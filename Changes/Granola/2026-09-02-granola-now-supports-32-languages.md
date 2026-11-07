@@ -4,20 +4,20 @@ date: '2026-09-02'
 description: 'Granola · 2026-09-02 · Accessibility and Localization: Granola now supports
   32 languages'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-09-11-chatgpt-now-supports-a-limited-selection-of-languages-in-the-interface|ChatGPT
-    now supports a limited selection of languages in the interface]]'
+  first_in_tracked: '[[Changes/Raycast/2020-11-19-improved-searching-for-localized-application-and-preference-names|Improved
+    searching for localized application and preference names]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1087
+  lag_days: 2113
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: accessibility-localization
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2abddc56cffd2fb0fe48c8f9a2a6dc20c09fee663540e58a858ccaa86a81d311
+machine_hash: 23da92c770c8755ec476ba750ba481fe3f173f39a8904ceba4559d77f4c9c0aa
 product: granola
 product_name: Granola
 record:
@@ -42,8 +42,7 @@ record:
   title: More languages are here!
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-08-25-improved-ui-accessibility-a-closed-sidebar-is-no-longer-reachable-by-keyboard-or|♿
-  Improved UI accessibility. A closed sidebar is no longer reachable by keyboard…]]'
+- '[[Changes/Devin/2026-08-26-accessibility-improvements|Accessibility Improvements]]'
 - '[[Changes/Google Antigravity/2026-08-26-several-overall-ux-improvements-for-performance-accessibility-and-project-config|Several
   overall UX improvements for performance, accessibility, and project configurations]]'
 - "[[Changes/Open WebUI/2026-08-31-high-contrast-mode-is-now-accessibility-mode-the-interface-setting-previously-ca|\U0001F3F7️
@@ -81,7 +80,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-11 · ChatGPT · [[Changes/ChatGPT/2023-09-11-chatgpt-now-supports-a-limited-selection-of-languages-in-the-interface|ChatGPT now supports a limited selection of languages in the interface]]
+- Earliest same-theme entry in the tracked set: 2020-11-19 · Raycast · [[Changes/Raycast/2020-11-19-improved-searching-for-localized-application-and-preference-names|Improved searching for localized application and preference names]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

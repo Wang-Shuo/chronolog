@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 13477829051ba4fd6eeb824415cf77103e6e1d530fe214a9f5589556d50c1e26
+machine_hash: 9009b46386478e24ccadcb7b44bb6bf1467884ebf7a5250b077ebf7fa37faa59
 product: ollama
 product_name: Ollama
 record:
@@ -105,7 +105,7 @@ Source: https://github.com/ollama/ollama/releases/tag/v0.3.11
 ## Nearby in Model Support
 
 - Earlier: 2024-09-16 · Runway · [[Changes/Runway/2024-09-16-use-our-simple-to-integrate-api-to-access-our-latest-and-most-powerful-video-mod|Runway API]]
-- Later: 2024-09-19 · Open WebUI · [[Changes/Open WebUI/2024-09-19-2-model-support-changes-in-v0-3-22|2 Model Support changes in v0.3.22]]
+- Later: 2024-09-18 · Raycast · [[Changes/Raycast/2024-09-18-ai-commands-built-in-commands-previously-using-the-open-ai-gpt-3-5-turbo-model-n|AI Commands: Built-in commands previously using the Open AI GPT-3.5 Turbo model now…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

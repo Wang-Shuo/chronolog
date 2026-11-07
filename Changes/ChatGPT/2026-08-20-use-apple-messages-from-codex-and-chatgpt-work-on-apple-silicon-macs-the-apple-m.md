@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 532d60d6dce407d98b10ba524eb331b637060c0aa8b57993f768f0feec2dd61f
+machine_hash: 2c9403d125724761f5cfdabd676b2dd32ad809f55d33892793e27f9459c8a14d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -50,12 +50,12 @@ record:
   title: Use Apple Messages from Codex and ChatGPT Work
   type: change
 related_changes:
-- '[[Changes/Kimi Code/2026-08-19-make-several-refinements-and-internal-improvements-see-the-changelog-on-github-h|Make
-  several refinements and internal improvements]]'
 - '[[Changes/Lovable/2026-08-19-per-user-access-for-amazon-redshift|Per-user access
   for Amazon Redshift]]'
 - '[[Changes/Lovable/2026-08-19-lovable-can-use-your-connected-service-account-while-building|Lovable
   can use your connected service account while building]]'
+- '[[Changes/Raycast/2026-08-19-2-apps-and-integrations-changes-in-raycast-windows-0-71|2
+  Apps and Integrations changes in Raycast windows 0.71]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-20-codex-and-chatgpt-feature-updates-c987f574|chatgpt-2026-08-20-codex-and-chatgpt-feature-updates-c987f574]]'
 source_type: chatgpt_changelog
 theme: apps-integrations
@@ -86,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-08-19 · Lovable · [[Changes/Lovable/2026-08-19-lovable-can-use-your-connected-service-account-while-building|Lovable can use your connected service account while building]]
+- Earlier: 2026-08-19 · Raycast · [[Changes/Raycast/2026-08-19-2-apps-and-integrations-changes-in-raycast-windows-0-71|2 Apps and Integrations changes in Raycast windows 0.71]]
 - Later: 2026-08-20 · Claude Code · [[Changes/Claude Code/2026-08-20-6-apps-and-integrations-changes-in-v2-1-238|6 Apps and Integrations changes in v2.1.238]]
 <!-- chronolog:end -->
 

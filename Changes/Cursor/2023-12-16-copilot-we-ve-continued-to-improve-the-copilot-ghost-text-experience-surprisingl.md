@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 81800fb62bff71744351eba4bf8de83f4ae180ac31b4fd695f56f88e08602b91
+machine_hash: 5c942fd401f55a26a6d9aa8a5f7a91095814fc29b812bae290042005a7020dec
 product: cursor
 product_name: Cursor
 record:
@@ -54,12 +54,11 @@ record:
   title: 'Copilot++: We''ve continued to improve the Copilot++ ghost text experience'
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-11-15-now-based-on-vs-code-1-84-2-notably-this-fixes-a-few-notebook-bugs-and-ensures-t|New
-  upstream]]'
-- '[[Changes/Cursor/2023-11-15-cursor-is-now-based-on-vs-code-1-84-2-notably-this-fixes-a-few-notebook-bugs-and|Cursor
-  is now based on VS Code 1.84.2]]'
-- '[[Changes/Dify/2023-11-21-feat-remove-plugin-page-by-zxhlyh-in-https-github-com-langgenius-dify-pull-1544|feat:
-  remove plugin page]]'
+- '[[Changes/Raycast/2023-11-29-preferences-extensions-that-use-space-as-an-alias-will-no-longer-appear-as-empty|Preferences:
+  Extensions that use space as an alias will no longer appear as empty space]]'
+- '[[Changes/Raycast/2023-12-13-raycast-wrapped-2023|Raycast Wrapped 2023]]'
+- '[[Changes/Raycast/2023-12-13-script-commands-deprecate-argument-secure-true-in-favor-of-argument-type-passwor|Script
+  Commands : Deprecate Argument.secure = true in favor of Argument.type…]]'
 source_release: '[[Releases/Cursor/cursor-2023-12-16-0-20-0-https-cursor-com-changelog-0-20-0-fecb080e|cursor-2023-12-16-0-20-0-https-cursor-com-changelog-0-20-0-fecb080e]]'
 source_type: cursor_changelog
 theme: apps-integrations
@@ -90,8 +89,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2023-11-21 · Dify · [[Changes/Dify/2023-11-21-feat-remove-plugin-page-by-zxhlyh-in-https-github-com-langgenius-dify-pull-1544|feat: remove plugin page]]
-- Later: 2024-01-10 · ChatGPT · [[Changes/ChatGPT/2024-01-10-the-store-features-a-diverse-range-of-gpts-developed-by-our-partners-and-the-com-71db32|Discover what’s trending in the GPT Store]]
+- Earlier: 2023-12-13 · Raycast · [[Changes/Raycast/2023-12-13-script-commands-deprecate-argument-secure-true-in-favor-of-argument-type-passwor|Script Commands : Deprecate Argument.secure = true in favor of Argument.type…]]
+- Later: 2023-12-18 · Superwhisper · [[Changes/Superwhisper/2023-12-18-deeper-integration-with-macos-dock-icon-main-menu-bar-etc|Deeper integration with macOS (dock icon, main menu bar) etc]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: fb687bdc57eab478ccc8f12738aeec920213be12f7d31922306ccbfee4601f89
+machine_hash: 6249fac19a1c7f1cc338b8c0184b76c60ec2c9e9d565cae62d16e585c04159d6
 product: open-webui
 product_name: Open WebUI
 record:
@@ -52,7 +52,8 @@ record:
   title: 3 Model Support changes in v0.6.11
   type: change
 related_changes:
-- '[[Changes/Windsurf/2025-05-22-byok-anthropic-key|BYOK (Anthropic Key)]]'
+- '[[Changes/LM Studio/2025-05-23-custom-settings-for-models-a-new-way-for-model-authors-to-define-custom-capabili|Custom
+  Settings for models]]'
 - '[[Changes/Midjourney/2025-05-23-we-re-getting-ready-to-make-our-v7-model-the-default-model-but-a-lot-of-us-still|We''re
   getting ready to make our V7 model the ''default'' model but a lot of us still…]]'
 - '[[Changes/Replit/2025-05-23-sonnet-4-in-agent|Sonnet 4 in Agent]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: af5ac2f5faed7398c2e8eb576252ec77f425931f813bac034e24668ae8895876
+machine_hash: a88615eec1651a1b90d18e778e1063a99e5f5cde5a36aaa4590c6894915fab76
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -101,7 +101,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-02-26 · Midjourney · [[Changes/Midjourney/2026-02-26-this-should-noticeably-increase-the-general-speed-and-performance-across-the-ent|This should noticeably increase the general speed and performance across the entire…]]
-- Later: 2026-02-27 · Replit · [[Changes/Replit/2026-02-27-agent-performance-improvements|Agent performance improvements]]
+- Later: 2026-02-27 · LM Studio · [[Changes/LM Studio/2026-02-27-dgx-spark-enable-direct-i-o-to-improve-model-load-latency|DGX Spark Enable Direct I/O to improve model load latency]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

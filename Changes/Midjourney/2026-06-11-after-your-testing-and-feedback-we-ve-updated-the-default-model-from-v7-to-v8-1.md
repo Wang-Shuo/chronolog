@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 5ee711b8b78cb8a8cdccf4001f33bf4789922a5c134eabd1ea210007a17de778
+machine_hash: 322780aa4991b62d6e7e5da147d682812accd6deec7e5237eacd421ed915a7c6
 product: midjourney
 product_name: Midjourney
 record:
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-06-11 · Google Antigravity · [[Changes/Google Antigravity/2026-06-11-support-for-pdf-attachments-to-messages-to-gemini-models-drag-and-drop-pdfs-from|Support for PDF attachments to messages to Gemini models]]
-- Later: 2026-06-12 · ChatGPT · [[Changes/ChatGPT/2026-06-12-as-of-june-12-2026-gpt-5-2-models-are-no-longer-available-in-chatgpt-this-applie|Retiring GPT-5.2 models]]
+- Later: 2026-06-11 · Superwhisper · [[Changes/Superwhisper/2026-06-11-2-model-support-changes-in-superwhisper-windows-1-4-13|2 Model Support changes in Superwhisper Windows 1.4.13]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

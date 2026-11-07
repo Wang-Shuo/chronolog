@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ebaccb8efcec1a3c65d65fd259d5aa48f68e38a7cc0795c9fac1c3a05cddeed6
+machine_hash: 54ca6c98cfac6eddb73959ce861c5274294a91a964cb916fc13f8bee1262e43b
 product: notion
 product_name: Notion
 record:
@@ -46,12 +46,11 @@ record:
   title: Better Databases with quick filters, the redesigned Teams sidebar, and Synced…
   type: change
 related_changes:
-- '[[Changes/Notion/2022-02-08-the-current-block-type-is-now-indicated-with-a-checkmark-in-the-turn-into-menu|The
-  current block type is now indicated with a checkmark in the “Turn into” menu]]'
 - '[[Changes/Synthesia/2022-02-09-we-ve-updated-our-selection-of-shapes-and-added-smart-controls-for-additional-ed|Updated
   Shapes]]'
 - '[[Changes/Notion/2022-02-15-now-you-can-copy-links-to-multiple-pages-or-blocks-simultaneously-just-click-the|Now
   you can copy links to multiple pages or blocks simultaneously]]'
+- "[[Changes/Raycast/2022-02-23-emoji-picker|Emoji Picker \U0001F389 \U0001F973]]"
 source_release: '[[Releases/Notion/notion-2022-03-03-https-www-notion-com-releases-2022-03-03-d0d45a81|notion-2022-03-03-https-www-notion-com-releases-2022-03-03-d0d45a81]]'
 source_type: notion_changelog
 theme: interface-experience
@@ -81,8 +80,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2022-02-15 · Notion · [[Changes/Notion/2022-02-15-now-you-can-copy-links-to-multiple-pages-or-blocks-simultaneously-just-click-the|Now you can copy links to multiple pages or blocks simultaneously]]
-- Later: 2022-04-14 · Notion · [[Changes/Notion/2022-04-14-2-interface-experience-changes-in-notion-2-16-now-with-faster-databases|2 Interface Experience changes in Notion 2.16, now with faster databases]]
+- Earlier: 2022-02-23 · Raycast · [[Changes/Raycast/2022-02-23-emoji-picker|Emoji Picker 🎉 🥳]]
+- Later: 2022-03-24 · Raycast · [[Changes/Raycast/2022-03-24-2-interface-experience-changes-in-raycast-macos-v1-1-31-0|2 Interface Experience changes in Raycast macos-v1 1.31.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

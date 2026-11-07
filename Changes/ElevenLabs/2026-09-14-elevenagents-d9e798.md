@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 4dc061677a6be2132bedfc7a832cc6966a67ff0a2be42bf231d12eaa66353db1
+machine_hash: c903399b6d6522774f7c03b631f509194f105494f1a90e524f35817fabe9cdaa
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -68,8 +68,8 @@ record:
   title: ElevenAgents
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-09-11-25-agent-mode-changes-in-v2026-9-4|25 Agent Mode
-  changes in v2026.9.4]]'
+- '[[Changes/Raycast/2026-09-11-2-agent-mode-changes-in-raycast-macos-2-3|2 Agent
+  Mode changes in Raycast macos 2.3]]'
 - '[[Changes/Claude Code/2026-09-14-7-agent-mode-changes-in-v2-1-271|7 Agent Mode
   changes in v2.1.271]]'
 - '[[Changes/ElevenLabs/2026-09-14-elevenagents|ElevenAgents]]'

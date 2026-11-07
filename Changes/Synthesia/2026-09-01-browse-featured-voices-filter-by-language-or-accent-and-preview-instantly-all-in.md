@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4289bc5aa80a2e6e9f381940e447ae5c4e2d63f95416003014c8fdc6a646a695
+machine_hash: 65e1bcbbcb5e86e7fd2666e5ae095afeb2b42707e5ca54a795dcbbed197ee7ee
 product: synthesia
 product_name: Synthesia
 record:
@@ -56,10 +56,10 @@ record:
   title: Find the right voice faster with the refreshed voice picker
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-08-31-to-continue-a-voice-conversation-outside-chatgpt-turn-on-background-conversation|To
-  continue a Voice conversation outside ChatGPT, turn on Background conversations…]]'
-- '[[Changes/OpenClaw/2026-08-31-2-voice-and-audio-changes-in-v2026-8-1|2 Voice and
-  Audio changes in v2026.8.1]]'
+- '[[Changes/Raycast/2026-08-31-dictation-improved-connection-reliability-automatically-stops-when-leaving-a-cha|Dictation
+  : Improved connection reliability, automatically stops when leaving…]]'
+- '[[Changes/Krea/2026-09-01-reference-to-video-for-minimax-h3-max|Reference-to-video
+  for MiniMax H3 Max]]'
 - '[[Changes/OpenClaw/2026-09-01-9-voice-and-audio-changes-in-v2026-8-2|9 Voice and
   Audio changes in v2026.8.2]]'
 source_release: '[[Releases/Synthesia/synthesia-2026-09-01-https-www-synthesia-io-updates-find-the-right-voice-faster-with-ea566115|synthesia-2026-09-01-https-www-synthesia-io-updates-find-the-right-voice-faster-with-ea566115]]'

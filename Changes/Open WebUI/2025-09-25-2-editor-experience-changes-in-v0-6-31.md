@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0b93863bd853dc43daa23923c9842dd03c5a6b09ac91bf6e20914ec21026ad09
+machine_hash: 6999f90a65e932f152a12d78547ee4299c3ee4e42c1b8624fb3fa122d97ae98a
 product: open-webui
 product_name: Open WebUI
 record:
@@ -47,8 +47,8 @@ record:
   title: 2 Editor Experience changes in v0.6.31
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2025-09-17-2-editor-experience-changes-in-v0-6-29|2 Editor
-  Experience changes in v0.6.29]]'
+- '[[Changes/Raycast/2025-09-18-2-editor-experience-changes-in-raycast-ios-1-0-15|2
+  Editor Experience changes in Raycast ios 1.0.15]]'
 - '[[Changes/Replit/2025-09-19-soc-2-pentest-completion|SOC 2 pentest completion]]'
 - '[[Changes/Gemini CLI/2025-09-24-8-editor-experience-changes-in-v0-6-0|8 Editor
   Experience changes in v0.6.0]]'

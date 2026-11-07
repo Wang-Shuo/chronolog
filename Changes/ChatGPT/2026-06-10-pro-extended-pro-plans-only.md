@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 30127d1d17dc5209694a34bbabff31a44dc383616a1c78c2741cf30fa55a133d
+machine_hash: c5e1332e02e4f8b3717e729b17e72aef93e6f12c9bf649edcd7faf614c606a34
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,12 +42,12 @@ record:
   title: Pro Extended [Pro plans only]
   type: change
 related_changes:
-- '[[Changes/Cline/2026-06-09-2-model-support-changes-in-v3-89-0|2 Model Support changes
-  in v3.89.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-09-3-model-support-changes-in-v1-0-61|3 Model
   Support changes in v1.0.61]]'
 - '[[Changes/Kimi Code/2026-06-09-pass-through-xhigh-reasoning-effort-for-openai-compatible-chat-completions-reque|Pass
   through xhigh reasoning effort for OpenAI-compatible chat completions requests]]'
+- '[[Changes/Superwhisper/2026-06-09-3-model-support-changes-in-superwhisper-macos-2-16-0|3
+  Model Support changes in Superwhisper macOS 2.16.0]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-06-10-simplified-controls-in-the-model-picker-32a1fdba|chatgpt-2026-06-10-simplified-controls-in-the-model-picker-32a1fdba]]'
 source_type: chatgpt_changelog
 theme: model-support
@@ -78,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-06-09 · Kimi Code · [[Changes/Kimi Code/2026-06-09-pass-through-xhigh-reasoning-effort-for-openai-compatible-chat-completions-reque|Pass through xhigh reasoning effort for OpenAI-compatible chat completions requests]]
+- Earlier: 2026-06-09 · Superwhisper · [[Changes/Superwhisper/2026-06-09-3-model-support-changes-in-superwhisper-macos-2-16-0|3 Model Support changes in Superwhisper macOS 2.16.0]]
 - Later: 2026-06-10 · Claude Code · [[Changes/Claude Code/2026-06-10-2-model-support-changes-in-v2-1-172|2 Model Support changes in v2.1.172]]
 <!-- chronolog:end -->
 

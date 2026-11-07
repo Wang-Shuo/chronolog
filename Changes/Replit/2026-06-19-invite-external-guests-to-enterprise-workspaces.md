@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: f541bc0b959466b3dc584094d6154dd577e2bbf9ee152d5021aad66621f59e2e
+machine_hash: 5a38cbf4a12aee04824892739330b2a2227c3352f089d40bf445713956686513
 product: replit
 product_name: Replit
 record:
@@ -48,10 +48,10 @@ record:
   title: Invite external guests to Enterprise workspaces
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-06-18-change-nameservers-for-a-domain-bought-through-lovable|Change
-  nameservers for a domain bought through Lovable]]'
-- '[[Changes/Lovable/2026-06-18-publish-and-install-private-npm-packages|Publish and
-  install private npm packages]]'
+- '[[Changes/Devin/2026-06-19-user-only-pr-author-enforcement|"User Only" PR Author
+  Enforcement]]'
+- '[[Changes/Krea/2026-06-19-organizations-in-private-beta-for-enterprise|Organizations
+  in private beta for enterprise]]'
 - '[[Changes/Replit/2026-06-19-teams-and-enterprise|Teams and Enterprise]]'
 source_release: '[[Releases/Replit/replit-2026-06-19-2026-06-19-ff036602|replit-2026-06-19-2026-06-19-ff036602]]'
 source_type: replit_changelog
@@ -86,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-06-18 · Lovable · [[Changes/Lovable/2026-06-18-publish-and-install-private-npm-packages|Publish and install private npm packages]]
+- Earlier: 2026-06-19 · Krea · [[Changes/Krea/2026-06-19-organizations-in-private-beta-for-enterprise|Organizations in private beta for enterprise]]
 - Later: 2026-06-22 · Lovable · [[Changes/Lovable/2026-06-22-verified-domain-teammates-now-join-projects-with-the-right-workspace-role|Verified-domain teammates now join projects with the right workspace role]]
 <!-- chronolog:end -->
 

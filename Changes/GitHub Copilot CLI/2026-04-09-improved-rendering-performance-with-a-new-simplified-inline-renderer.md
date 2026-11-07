@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 538514aea6936bf14cd0d16aae9fe79a1e596a75e338393746ee360a18dceeed
+machine_hash: 2a64eec7a357f069104bef05d03a5ca56e4f75f38652f4a81a8b18285ccae8d6
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,8 +43,7 @@ record:
   title: Improved rendering performance with a new simplified inline renderer
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-04-07-mlx-improve-m5-performance-with-nax|mlx: Improve M5
-  performance with NAX]]'
+- '[[Changes/Devin/2026-04-08-faster-syntax-highlighting|Faster Syntax Highlighting]]'
 - '[[Changes/HeyGen/2026-04-08-long-form-stability|Long-form stability]]'
 - '[[Changes/Claude Code/2026-04-09-fixed-a-memory-leak-where-remote-control-permission-handler-entries-were-retaine|Fixed
   a memory leak where Remote Control permission handler entries were retained…]]'

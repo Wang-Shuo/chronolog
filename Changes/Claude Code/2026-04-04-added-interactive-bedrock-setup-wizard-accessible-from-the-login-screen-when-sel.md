@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 1787c06d979b4f25dfdb4da8ee4d2a5ccbab109cd077c32c1e5147726c8a14b8
+machine_hash: 7bdb3dceb34fb7aeec63c9419ca82727b4447e50204b45a2eef41e59469c84a0
 product: claude-code
 product_name: Claude Code
 record:
@@ -57,10 +57,9 @@ record:
   title: Added interactive Bedrock setup wizard accessible from the login screen…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-01-2-account-and-access-changes-in-v1-0-15|2
-  Account and Access changes in v1.0.15]]'
-- '[[Changes/GitHub Copilot CLI/2026-04-02-2-account-and-access-changes-in-v1-0-16|2
-  Account and Access changes in v1.0.16]]'
+- '[[Changes/Devin/2026-04-03-azure-devops-service-principal|Azure DevOps Service
+  Principal]]'
+- '[[Changes/Devin/2026-04-03-linear-token-refresh|Linear Token Refresh]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-03-mcp-oauth-flows-now-support-https-redirect-uris-via-a-self-signed-certificate-fa|MCP
   OAuth flows now support HTTPS redirect URIs via a self-signed certificate…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-04-v2-1-92-github-305189904-2eb020f5|claude-code-2026-04-04-v2-1-92-github-305189904-2eb020f5]]'

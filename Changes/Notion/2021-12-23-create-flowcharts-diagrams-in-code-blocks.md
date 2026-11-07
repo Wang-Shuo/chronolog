@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: b3c34e2c6b66566ea57488c6f2d615afe778c923218bd372aeb529981ada3e2d
+machine_hash: f09db27460d7a7cdf8c2ec3d218017fc0488cf0f9b12b292d9d37d70c49c0db8
 product: notion
 product_name: Notion
 record:
@@ -53,12 +53,12 @@ record:
   title: Create flowcharts & diagrams in code blocks
   type: change
 related_changes:
-- '[[Changes/Descript/2020-09-08-descript-s-new-command-palette-conductor-allows-you-to-quickly-access-a-host-of|Speed
-  Up Your Editing Workflow with the Conductor]]'
-- "[[Changes/Notion/2020-11-19-add-captions-to-code-blocks|Add captions to code blocks
-  \U0001F4BE]]"
-- '[[Changes/Notion/2021-03-10-improved-slash-command-support-for-japanese-keyboards|Improved
-  slash command support for Japanese keyboards]]'
+- '[[Changes/Raycast/2021-09-23-the-calendars-you-have-enabled-will-now-be-backed-up-as-expected-when-you-using|The
+  calendars you have enabled will now be backed up as expected when you using…]]'
+- '[[Changes/Raycast/2021-10-13-you-can-now-use-search-browser-bookmark-as-a-fallback-command|Use
+  Search Browser Bookmark as a Fallback Command]]'
+- '[[Changes/Raycast/2021-11-30-support-white-spaces-on-create-extension-command-s-location|Support
+  white spaces on "Create Extension" command''s location]]'
 source_release: '[[Releases/Notion/notion-2021-12-23-https-www-notion-com-releases-2021-12-23-326bf15d|notion-2021-12-23-https-www-notion-com-releases-2021-12-23-326bf15d]]'
 source_type: notion_changelog
 theme: developer-workflow
@@ -98,8 +98,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2021-03-10 · Notion · [[Changes/Notion/2021-03-10-improved-slash-command-support-for-japanese-keyboards|Improved slash command support for Japanese keyboards]]
-- Later: 2022-04-14 · Notion · [[Changes/Notion/2022-04-14-code-blocks-on-public-notion-pages-now-include-a-copy-button-to-copy-everything|Code blocks on public Notion pages now include a Copy button to copy everything…]]
+- Earlier: 2021-11-30 · Raycast · [[Changes/Raycast/2021-11-30-support-white-spaces-on-create-extension-command-s-location|Support white spaces on "Create Extension" command's location]]
+- Later: 2022-01-12 · Raycast · [[Changes/Raycast/2022-01-12-api|API]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

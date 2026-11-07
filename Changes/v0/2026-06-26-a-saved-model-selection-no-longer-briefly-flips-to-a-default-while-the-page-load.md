@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 568af92a29fec5234b6c387f9b2e9145a407e98c5e8b6ee014d51ff64b2e7883
+machine_hash: 622e0b2372140b4f0bcad8ca20cbc54c746482d5962ebc9d114a4f38377d1369
 product: v0
 product_name: v0
 record:
@@ -45,12 +45,12 @@ record:
     loads
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-06-25-3-model-support-changes-in-v0-30-11|3 Model Support
-  changes in v0.30.11]]'
 - '[[Changes/ChatGPT/2026-06-26-as-of-june-26-2026-gpt-4-5-is-no-longer-available-in-chatgpt-including-for-custo|Retiring
   GPT-4.5]]'
 - '[[Changes/Cline/2026-06-26-2-model-support-changes-in-v4-0-0|2 Model Support changes
   in v4.0.0]]'
+- '[[Changes/LM Studio/2026-06-26-4-model-support-changes-in-lm-studio-0-4-17|4 Model
+  Support changes in LM Studio 0.4.17]]'
 source_release: '[[Releases/v0/v0-2026-06-26-2026-06-26-0ee85750|v0-2026-06-26-2026-06-26-0ee85750]]'
 source_type: v0_changelog
 theme: model-support
@@ -87,8 +87,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-06-26 · Cline · [[Changes/Cline/2026-06-26-2-model-support-changes-in-v4-0-0|2 Model Support changes in v4.0.0]]
-- Later: 2026-06-29 · Claude Code · [[Changes/Claude Code/2026-06-29-added-support-for-organization-default-models-admins-set-it-in-the-org-console-i|Added support for organization default models]]
+- Earlier: 2026-06-26 · LM Studio · [[Changes/LM Studio/2026-06-26-4-model-support-changes-in-lm-studio-0-4-17|4 Model Support changes in LM Studio 0.4.17]]
+- Later: 2026-06-27 · LM Studio · [[Changes/LM Studio/2026-06-27-added-guidance-in-model-settings-for-llama-cpp-options-that-move-when-lm-studio|Added guidance in model settings for llama.cpp options that move when LM Studio…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

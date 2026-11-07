@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 518b4212186d84cb1874b0194907c265404b297d276a24922ef546a180a77742
+machine_hash: ed3796436df843ee522be286027e7e90db9f32e8f9ff8b1ca4b4c398962b56e3
 product: synthesia
 product_name: Synthesia
 record:
@@ -44,12 +44,12 @@ record:
   title: The EDIT Button is here!
   type: change
 related_changes:
-- '[[Changes/Descript/2023-02-21-updated-the-icons-for-buttons-to-open-the-share-page-and-unpublish-the-video|Updated
-  the icons for buttons to open the share page and unpublish the video]]'
 - '[[Changes/Descript/2023-02-21-we-now-make-the-first-frame-of-your-video-the-default-thumbnail|We
   now make the first frame of your video the default thumbnail]]'
 - '[[Changes/Descript/2023-02-21-you-can-easily-change-your-video-thumbnail-to-any-frame-from-your-video|You
   can easily change your video thumbnail to any frame from your video]]'
+- '[[Changes/Raycast/2023-02-22-2-multimodal-input-changes-in-raycast-macos-v1-1-48-0|2
+  Multimodal Input changes in Raycast macos-v1 1.48.0]]'
 source_release: '[[Releases/Synthesia/synthesia-2023-03-09-https-www-synthesia-io-updates-the-edit-button-is-here-c356a57e|synthesia-2023-03-09-https-www-synthesia-io-updates-the-edit-button-is-here-c356a57e]]'
 source_type: synthesia_changelog
 theme: multimodal
@@ -76,7 +76,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Multimodal Input
 
-- Earlier: 2023-02-21 · Descript · [[Changes/Descript/2023-02-21-you-can-easily-change-your-video-thumbnail-to-any-frame-from-your-video|You can easily change your video thumbnail to any frame from your video]]
+- Earlier: 2023-02-22 · Raycast · [[Changes/Raycast/2023-02-22-2-multimodal-input-changes-in-raycast-macos-v1-1-48-0|2 Multimodal Input changes in Raycast macos-v1 1.48.0]]
 - Later: 2023-03-29 · Descript · [[Changes/Descript/2023-03-29-optimized-video-files-for-playback|Optimized video files for playback]]
 <!-- chronolog:end -->
 

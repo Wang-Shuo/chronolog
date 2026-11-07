@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c64c1641e52c6b054edfaf6a900bfe970d6a51b8bbf5d032a4651b4453ce300d
+machine_hash: eff05c3a27078787e5925b52404496d7d42bb6116cd45e2812ca2e1548e4b462
 product: open-webui
 product_name: Open WebUI
 record:
@@ -42,8 +42,7 @@ record:
   title: '**↔️ Sideways Scrolling in Settings**'
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2024-06-27-2-interface-experience-changes-in-v0-3-6|2 Interface
-  Experience changes in v0.3.6]]'
+- '[[Changes/Devin/2024-06-30-start-duplicate-sessions|Start Duplicate Sessions]]'
 - '[[Changes/Ollama/2024-07-02-2-interface-experience-changes-in-v0-2-0|2 Interface
   Experience changes in v0.2.0]]'
 - '[[Changes/Dify/2024-07-08-2-interface-experience-changes-in-0-6-13|2 Interface

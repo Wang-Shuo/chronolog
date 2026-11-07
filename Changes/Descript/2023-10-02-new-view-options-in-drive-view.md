@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 033daec06a73153d19f72eebfdc6b0a1ae418e401bf2103eb917648db1ed0fcd
+machine_hash: 4ad863743944afe81c4b3d6f7cb31db53cd61446770bea26024324c2bb4704f4
 product: descript
 product_name: Descript
 record:
@@ -56,12 +56,11 @@ record:
   title: New View Options in Drive View
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-08-30-you-can-now-switch-to-the-vs-code-sidebar-orientation|Switch
-  to the VS Code sidebar orientation]]'
-- '[[Changes/ChatGPT/2023-09-11-if-you-ve-configured-your-browser-to-use-one-of-these-supported-languages-you-ll-e4857e|If
-  you''ve configured your browser to use one of these supported languages, you''ll…]]'
 - '[[Changes/Dify/2023-09-19-mermaid-front-end-rendering-by-charli117-in-https-github-com-langgenius-dify-pul|Mermaid
   front end rendering]]'
+- '[[Changes/Raycast/2023-09-21-sonoma-ready|Sonoma ready]]'
+- '[[Changes/Raycast/2023-09-21-dynamic-placeholders-automatically-set-the-selection-in-the-right-place-when-ins|Dynamic
+  Placeholders : Automatically set the selection in the right place…]]'
 source_release: '[[Releases/Descript/descript-2023-10-02-651af1e2879b48093bb6f63c-fca4417e|descript-2023-10-02-651af1e2879b48093bb6f63c-fca4417e]]'
 source_type: canny_changelog
 theme: interface-experience
@@ -92,7 +91,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2023-09-19 · Dify · [[Changes/Dify/2023-09-19-mermaid-front-end-rendering-by-charli117-in-https-github-com-langgenius-dify-pul|Mermaid front end rendering]]
+- Earlier: 2023-09-21 · Raycast · [[Changes/Raycast/2023-09-21-dynamic-placeholders-automatically-set-the-selection-in-the-right-place-when-ins|Dynamic Placeholders : Automatically set the selection in the right place…]]
 - Later: 2023-10-16 · Descript · [[Changes/Descript/2023-10-16-docked-panels-are-now-remembered|Docked panels are now remembered]]
 <!-- chronolog:end -->
 

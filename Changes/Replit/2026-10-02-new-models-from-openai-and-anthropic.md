@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 9521e43080a74a8bb9474402c241873ae689612c8303326766dbe94643df174f
+machine_hash: 1b010d1d1c406a357773bc512be525fe3d8681b18099520ee1e17a88bd17e82d
 product: replit
 product_name: Replit
 record:
@@ -49,8 +49,8 @@ record:
   title: New models from OpenAI and Anthropic
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-01-5-model-support-changes-in-rust-v0-160-0|5 Model
-  Support changes in rust-v0.160.0]]'
+- '[[Changes/Krea/2026-10-01-changes-for-existing-model-access-rules|Changes for existing
+  model access rules]]'
 - '[[Changes/Suno/2026-10-01-meet-the-first-model-to-create-a-speech-and-its-soundtrack-together-in-one-take|Introducing
   Speech (beta)]]'
 - '[[Changes/Claude Code/2026-10-02-changed-the-client-side-auto-mode-classifier-to-ignore-an-anthropic-default-sonn|Changed

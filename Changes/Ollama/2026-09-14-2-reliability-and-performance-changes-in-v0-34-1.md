@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e67bc0fab6e9796ebe8e78a303bf6e70f79d1f0b127ba98e67b33b4ada02e300
+machine_hash: 70f3fd94c83079e1a491ed460e3b5af152c0593be304974742551546a13ea74a
 product: ollama
 product_name: Ollama
 record:
@@ -43,10 +43,10 @@ record:
   title: 2 Reliability and Performance changes in v0.34.1
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-11-improved-responsiveness-in-long-sessions-transcript-updates-no-longer-re-process|Improved
-  responsiveness in long sessions]]'
-- '[[Changes/OpenClaw/2026-09-11-2-reliability-and-performance-changes-in-v2026-9-4|2
-  Reliability and Performance changes in v2026.9.4]]'
+- '[[Changes/Raycast/2026-09-11-extensions-improved-performance-when-displaying-large-extension-views|Extensions
+  : Improved performance when displaying large extension views]]'
+- '[[Changes/Raycast/2026-09-11-extensions-improved-performance-when-displaying-large-extension-views-7b924f|Extensions
+  : Improved performance when displaying large extension views]]'
 - '[[Changes/Claude Code/2026-09-14-improved-terminal-rendering-performance-large-diffs-and-long-transcripts-render|Improved
   terminal rendering performance]]'
 source_release: '[[Releases/Ollama/ollama-2026-09-14-v0-34-1-github-388717036-07219146|ollama-2026-09-14-v0-34-1-github-388717036-07219146]]'
@@ -84,7 +84,7 @@ Source: https://github.com/ollama/ollama/releases/tag/v0.34.1
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-09-14 · Claude Code · [[Changes/Claude Code/2026-09-14-improved-terminal-rendering-performance-large-diffs-and-long-transcripts-render|Improved terminal rendering performance]]
-- Later: 2026-09-15 · Claude Code · [[Changes/Claude Code/2026-09-15-improved-responsiveness-in-long-sessions-hook-progress-and-sub-agent-activity-no|Improved responsiveness in long sessions]]
+- Later: 2026-09-14 · Raycast · [[Changes/Raycast/2026-09-14-2-reliability-and-performance-changes-in-raycast-macos-2-4|2 Reliability and Performance changes in Raycast macos 2.4]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -31,6 +31,8 @@ def test_project_configs_and_fixture_are_present():
         "openclaw_changelog", "opencode_changelog",
         "canny_changelog", "heygen_changelog", "synthesia_changelog", "notion_changelog",
         "qoder_changelog", "kimi_code_changelog", "m365_copilot_changelog", "zai_changelog",
+        "krea_changelog", "raycast_changelog", "devin_changelog", "lmstudio_changelog",
+        "superwhisper_changelog", "wispr_flow_changelog",
     }
     assert {"agent-mode", "context-window", "pricing-model"} <= {
         theme["slug"] for theme in themes["themes"]

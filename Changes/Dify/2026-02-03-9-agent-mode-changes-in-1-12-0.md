@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 05805fa0bfcb828145a9aa9f26f8b50f2f821ebf96aa1ddd6066bfcc0a36f413
+machine_hash: 7c405506321ca9ccc606fca283a51416d0383caf7e1ce6c2f723d6a038364f2c
 product: dify
 product_name: Dify
 record:
@@ -66,10 +66,11 @@ record:
   title: 9 Agent Mode changes in 1.12.0
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-02-02-agents-platform|Agents Platform]]'
 - '[[Changes/ElevenLabs/2026-02-02-agents-platform-fb792c|Agents Platform]]'
 - '[[Changes/Claude Code/2026-02-03-added-token-count-tool-uses-and-duration-metrics-to-task-tool-results|Added
   token count, tool uses, and duration metrics to Task tool results]]'
+- '[[Changes/Devin/2026-02-03-per-product-consumption-analytics-api|Per-Product Consumption
+  Analytics API]]'
 source_release: '[[Releases/Dify/dify-2026-02-03-1-12-0-github-282591953-290f70e4|dify-2026-02-03-1-12-0-github-282591953-290f70e4]]'
 source_type: github_releases
 theme: agent-mode
@@ -130,7 +131,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.12.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-02-03 · Claude Code · [[Changes/Claude Code/2026-02-03-added-token-count-tool-uses-and-duration-metrics-to-task-tool-results|Added token count, tool uses, and duration metrics to Task tool results]]
+- Earlier: 2026-02-03 · Devin · [[Changes/Devin/2026-02-03-per-product-consumption-analytics-api|Per-Product Consumption Analytics API]]
 - Later: 2026-02-03 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-03-4-agent-mode-changes-in-v0-0-402|4 Agent Mode changes in v0.0.402]]
 <!-- chronolog:end -->
 

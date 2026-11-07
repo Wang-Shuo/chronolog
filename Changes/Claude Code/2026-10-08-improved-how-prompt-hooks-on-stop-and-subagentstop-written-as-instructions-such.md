@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 262c592edf8e08d15b4a195c55c42b3a24a35cd759d1e5e738755e6f76b24b44
+machine_hash: e6d9eec2e6771876ae36b0aac8f16eb48fe7cba373f1262c497decea26eca6ee
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,10 +47,10 @@ record:
   title: Improved how `prompt` hooks on Stop and SubagentStop written as instructions…
   type: change
 related_changes:
-- '[[Changes/Cline/2026-10-07-when-an-mcp-tool-returns-more-output-than-fits-in-context-cline-can-now-read-the|When
-  an MCP tool returns more output than fits in context, Cline can now read the rest]]'
-- '[[Changes/Codex CLI/2026-10-07-5-apps-and-integrations-changes-in-rust-v0-161-0|5
-  Apps and Integrations changes in rust-v0.161.0]]'
+- '[[Changes/Devin/2026-10-07-issue-card-titles-link-to-the-issue|Issue Card Titles
+  Link to the Issue]]'
+- '[[Changes/Devin/2026-10-07-refreshed-plugin-rows-and-logos|Refreshed Plugin Rows
+  and Logos]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-07-2-apps-and-integrations-changes-in-v1-0-93|2
   Apps and Integrations changes in v1.0.93]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-08-v2-1-294-github-406385982-681de204|claude-code-2026-10-08-v2-1-294-github-406385982-681de204]]'

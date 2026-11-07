@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: cdf1db37a0b4d260753a6f194527476bba98101f00218170372d5634a1ca37ca
+machine_hash: 6100b418a810dfe0fae8ffb25daac761cef406c2ffd86ab052e0ec6e30aea333
 product: open-webui
 product_name: Open WebUI
 record:
@@ -96,10 +96,9 @@ record:
   title: 9 Context Window changes in v0.11.0
   type: change
 related_changes:
-- '[[Changes/Kimi Code/2026-07-22-send-the-session-prompt-cache-key-to-openai-and-openai-responses-providers|Send
-  the session prompt cache key to OpenAI and OpenAI Responses providers]]'
 - '[[Changes/Cline/2026-07-24-add-claude-opus-5-across-the-anthropic-claude-code-bedrock-vertex-cline-and-open|Add
   Claude Opus 5 across the Anthropic, Claude Code, Bedrock, Vertex, Cline…]]'
+- '[[Changes/Devin/2026-07-24-oidc-identity-tokens|OIDC Identity Tokens]]'
 - '[[Changes/Lovable/2026-07-25-leaked-api-keys-are-revoked-automatically|Leaked API
   keys are revoked automatically]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-07-27-v0-11-0-github-360322252-5f18424f|open-webui-2026-07-27-v0-11-0-github-360322252-5f18424f]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c6954d9a01b9c7fe092cfaa55b01dc7fffd6f66138433650dee33f31ddc7a9cd
+machine_hash: 579523dde6e04b7c182dc756228a8d70944b2fa090a262560d62671f04aecfd3
 product: ollama
 product_name: Ollama
 record:
@@ -83,7 +83,7 @@ Source: https://github.com/ollama/ollama/releases/tag/v0.1.21
 ## Nearby in Developer Workflow
 
 - Earlier: 2024-01-15 · Cursor · [[Changes/Cursor/2024-01-15-working-wsl-codebase-search|Working WSL codebase search]]
-- Later: 2024-02-01 · Dify · [[Changes/Dify/2024-02-01-2-developer-workflow-changes-in-0-5-3|2 Developer Workflow changes in 0.5.3]]
+- Later: 2024-01-24 · Raycast · [[Changes/Raycast/2024-01-24-another-new-action-this-time-to-disable-commands-from-the-root-search-search-for|Another new action, this time to disable commands from the root search]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

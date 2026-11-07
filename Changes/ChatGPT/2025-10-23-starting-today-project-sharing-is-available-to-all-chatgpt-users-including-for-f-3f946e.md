@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b4ebdd90ae6ca8b0d322c4047fcc1d7d83fdede6563d5794169811099dec8359
+machine_hash: 07eb2f931f31759b6af5340f6c7d3bba174f4a842df94a404d6591d3f05f89e5
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -76,12 +76,12 @@ record:
   title: Starting today, project sharing is available to all ChatGPT users, including…
   type: change
 related_changes:
-- '[[Changes/Ollama/2025-10-10-macos-12-monterey-and-macos-13-ventura-are-no-longer-supported|macOS
-  12 Monterey and macOS 13 Ventura are no longer supported]]'
 - '[[Changes/GitHub Copilot CLI/2025-10-13-removed-the-windows-support-is-experimental-warning-we-ve-made-some-big-strides|Removed
   the "Windows support is experimental" warning -- we''ve made some big strides…]]'
 - '[[Changes/Codex CLI/2025-10-17-3-mobile-and-desktop-changes-in-rust-v0-47-0|3 Mobile
   and Desktop changes in rust-v0.47.0]]'
+- '[[Changes/Raycast/2025-10-17-keyboard-added-keyboard-button-switch-for-iphone-se|Keyboard
+  : Added keyboard button switch for iPhone SE]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-10-23-shared-projects-217fa07d|chatgpt-2025-10-23-shared-projects-217fa07d]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
@@ -123,7 +123,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2025-10-17 · Codex CLI · [[Changes/Codex CLI/2025-10-17-3-mobile-and-desktop-changes-in-rust-v0-47-0|3 Mobile and Desktop changes in rust-v0.47.0]]
+- Earlier: 2025-10-17 · Raycast · [[Changes/Raycast/2025-10-17-keyboard-added-keyboard-button-switch-for-iphone-se|Keyboard : Added keyboard button switch for iPhone SE]]
 - Later: 2025-10-23 · Cline · [[Changes/Cline/2025-10-23-fixing-banner-to-not-show-cli-release-for-windows-users-by-arafatkatze-in-https|Fixing banner to not show CLI release for windows users]]
 <!-- chronolog:end -->
 

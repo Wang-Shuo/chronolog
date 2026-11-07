@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 968d4c8420b77299b81688518d0b0c11ceffe9dc7834482c176d206b48c9410d
+machine_hash: d887939b32c15815a5abad3e2ce337561838ae41452b4c9adac4e4d02f30a6ba
 product: notion
 product_name: Notion
 record:
@@ -57,10 +57,10 @@ record:
   title: The API is now in private beta!
   type: change
 related_changes:
-- '[[Changes/Notion/2020-06-23-navigating-databases-is-much-faster-thanks-to-improved-caching|Navigating
-  databases is much faster, thanks to improved caching]]'
-- '[[Changes/Notion/2020-07-28-reduced-animation-speed-for-hover-states-in-the-web-and-desktop-apps-to-make-the|Reduced
-  animation speed for hover states in the web and desktop apps to make the app…]]'
+- '[[Changes/Raycast/2020-09-02-improved-the-scrolling-performance-in-jira-lists|Improved
+  the scrolling performance in Jira lists]]'
+- '[[Changes/Raycast/2020-10-16-improved-performance-of-the-root-search|Improved performance
+  of the root search]]'
 - '[[Changes/Descript/2020-11-10-we-ve-now-increased-the-maximum-playback-speed-from-2x-to-3x|Increased
   playback speed]]'
 source_release: '[[Releases/Notion/notion-2020-12-08-https-www-notion-com-releases-2020-12-08-3b9fce38|notion-2020-12-08-https-www-notion-com-releases-2020-12-08-3b9fce38]]'
@@ -96,7 +96,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2020-11-10 · Descript · [[Changes/Descript/2020-11-10-we-ve-now-increased-the-maximum-playback-speed-from-2x-to-3x|Increased playback speed]]
-- Later: 2020-12-17 · Descript · [[Changes/Descript/2020-12-17-we-ve-added-a-bunch-of-performance-and-playback-improvements-especially-on-longe|Descript adds a bunch of performance and playback improvements, especially on longer…]]
+- Later: 2020-12-10 · Raycast · [[Changes/Raycast/2020-12-10-performance-general-improvements-to-make-the-app-snappier|Performance : General improvements to make the app snappier]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: f2d45e48de697129682d592836d716a91d2df74b4e9f5a02cec3e58801fe1caf
+machine_hash: 6dbe42865deac122eaaa0ddc074708eacff1761ade4c0b6c08b13dc7b6c1cb77
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -95,7 +95,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2025-10-29 · Cursor · [[Changes/Cursor/2025-10-29-voice-mode|Voice Mode]]
+- Earlier: 2025-10-31 · Raycast · [[Changes/Raycast/2025-10-31-2-voice-and-audio-changes-in-raycast-ios-1-1-2|2 Voice and Audio changes in Raycast ios 1.1.2]]
 - Later: 2025-11-06 · Open WebUI · [[Changes/Open WebUI/2025-11-06-3-voice-and-audio-changes-in-v0-6-35|3 Voice and Audio changes in v0.6.35]]
 <!-- chronolog:end -->
 

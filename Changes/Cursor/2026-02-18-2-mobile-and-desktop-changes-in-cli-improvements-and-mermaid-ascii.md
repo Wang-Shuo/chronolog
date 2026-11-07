@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 68853ab8a31b8961e9d26fb98efce13c1b5395e959fc8398d27eb0b5d06f1bcc
+machine_hash: f4abd091f4c6dd00d117bf7a7d64f626203ae8179f02a96b2ca4a66087394bdc
 product: cursor
 product_name: Cursor
 record:
@@ -44,12 +44,12 @@ record:
   title: 2 Mobile and Desktop changes in CLI Improvements and Mermaid ASCII…
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-02-15-5-mobile-and-desktop-changes-in-v1-2-5-1|5 Mobile
-  and Desktop changes in v1.2.5 + 1]]'
 - '[[Changes/OpenCode/2026-02-16-2-mobile-and-desktop-changes-in-v1-2-6|2 Mobile and
   Desktop changes in v1.2.6]]'
 - '[[Changes/Codex CLI/2026-02-17-2-mobile-and-desktop-changes-in-rust-v0-102-0|2
   Mobile and Desktop changes in rust-v0.102.0]]'
+- '[[Changes/AnythingLLM/2026-02-18-this-is-a-free-desktop-specific-feature| this
+  is a free & desktop specific feature!]]'
 source_release: '[[Releases/Cursor/cursor-2026-02-18-cli-improvements-and-mermaid-ascii-diagrams-https-cursor-com-cha-a75d36c7|cursor-2026-02-18-cli-improvements-and-mermaid-ascii-diagrams-https-cursor-com-cha-a75d36c7]]'
 source_type: cursor_changelog
 theme: mobile-desktop
@@ -93,7 +93,7 @@ Source: https://cursor.com/changelog/cli-feb-18-2026
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-02-17 · Codex CLI · [[Changes/Codex CLI/2026-02-17-2-mobile-and-desktop-changes-in-rust-v0-102-0|2 Mobile and Desktop changes in rust-v0.102.0]]
+- Earlier: 2026-02-18 · AnythingLLM · [[Changes/AnythingLLM/2026-02-18-this-is-a-free-desktop-specific-feature| this is a free & desktop specific feature!]]
 - Later: 2026-02-18 · Gemini CLI · [[Changes/Gemini CLI/2026-02-18-feat-expand-verify-release-to-macos-and-windows-by-yunaseoul-in-https-github-com|feat: expand verify-release to macOS and Windows]]
 <!-- chronolog:end -->
 

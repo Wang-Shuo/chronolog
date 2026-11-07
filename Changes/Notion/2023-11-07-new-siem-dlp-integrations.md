@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 336093b0c4e80a0df8fa6d1c929684a7c825110c439a0a08264209648f28282d
+machine_hash: a910fb983bfeba155658b6a33528fd22ddb52765d0fc2cdbc23ab1d23f7878eb
 product: notion
 product_name: Notion
 record:
@@ -44,10 +44,9 @@ record:
   title: New SIEM & DLP integrations
   type: change
 related_changes:
-- '[[Changes/Gemini/2023-09-19-bard-can-now-access-helpful-information-from-google-apps-and-services|Bard
-  can now access helpful information from Google apps and services]]'
 - '[[Changes/Cursor/2023-10-20-cursor-is-now-based-on-vs-code-1-83-1-this-ensures-that-the-newest-versions-of-a|Cursor
   is now based on VS Code 1.83.1]]'
+- '[[Changes/Raycast/2023-11-02-shortcuts-improvements|Shortcuts Improvements]]'
 - '[[Changes/ChatGPT/2023-11-06-you-can-now-create-custom-versions-of-chatgpt-that-combine-instructions-extra-kn-5c0997|Introducing
   GPTs]]'
 source_release: '[[Releases/Notion/notion-2023-11-07-https-www-notion-com-releases-2023-11-07-2a65e390|notion-2023-11-07-https-www-notion-com-releases-2023-11-07-2a65e390]]'

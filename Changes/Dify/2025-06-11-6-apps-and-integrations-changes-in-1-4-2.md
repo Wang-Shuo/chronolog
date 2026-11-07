@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8fec2abc81bc4c1c12b4b44f414f06b72b627645a7ece8c1f8074d8eaeaf4848
+machine_hash: a3f9ed759df18673dcd6c1b5908f3d80f82a6ccfbc181fd69b795e4b5632db52
 product: dify
 product_name: Dify
 record:
@@ -55,12 +55,12 @@ record:
   title: 6 Apps and Integrations changes in 1.4.2
   type: change
 related_changes:
-- '[[Changes/Ollama/2025-06-09-if-you-have-feedback-please-create-an-issue-on-github-with-the-app-label-these-a|If
-  you have feedback, please create an issue on GitHub with the app label]]'
 - '[[Changes/Cline/2025-06-10-add-collapsible-mcp-response-panels-to-keep-conversations-focused-on-the-main-ai|Add
   collapsible MCP response panels to keep conversations focused on the main AI…]]'
 - "[[Changes/Open WebUI/2025-06-10-openai-compatible-embeddings-endpoint-introducing-a-fully-openai-style-api-embed|\U0001F9E9
   OpenAI-Compatible Embeddings Endpoint]]"
+- '[[Changes/Devin/2025-06-11-devin-can-now-open-prs-using-your-github-username|Devin
+  can now open PRs using your GitHub username]]'
 source_release: '[[Releases/Dify/dify-2025-06-11-1-4-2-github-224523610-641ce698|dify-2025-06-11-1-4-2-github-224523610-641ce698]]'
 source_type: github_releases
 theme: apps-integrations
@@ -111,8 +111,8 @@ Source: https://github.com/langgenius/dify/releases/tag/1.4.2
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-06-10 · Open WebUI · [[Changes/Open WebUI/2025-06-10-openai-compatible-embeddings-endpoint-introducing-a-fully-openai-style-api-embed|🧩 OpenAI-Compatible Embeddings Endpoint]]
-- Later: 2025-06-12 · Cline · [[Changes/Cline/2025-06-12-2-apps-and-integrations-changes-in-v3-17-13|2 Apps and Integrations changes in v3.17.13]]
+- Earlier: 2025-06-11 · Devin · [[Changes/Devin/2025-06-11-devin-can-now-open-prs-using-your-github-username|Devin can now open PRs using your GitHub username]]
+- Later: 2025-06-11 · Raycast · [[Changes/Raycast/2025-06-11-mcp-http-servers-support-for-http-mcp-servers-using-the-sse-server-sent-events-a|🎏 MCP HTTP Servers]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

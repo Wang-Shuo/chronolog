@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9a06a753b8a01035fb467b9247ef632c7fbaf55c9eef3aa24576b874d414c55e
+machine_hash: 14c720ec6d919b4115848d88193f4088486a95f584ff761d12e5a5e3e97be93c
 product: windsurf
 product_name: Windsurf
 record:
@@ -42,8 +42,8 @@ record:
   title: Reduced memory usage for large Devin Local sessions
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-10-27-6-reliability-and-performance-changes-in-v2-2-0|6
-  Reliability and Performance changes in v2.2.0]]'
+- '[[Changes/Raycast/2026-10-28-search-improved-performance-of-translation-queries|Search
+  : Improved performance of translation queries]]'
 - '[[Changes/Open WebUI/2026-10-29-2-reliability-and-performance-changes-in-v0-12-5|2
   Reliability and Performance changes in v0.12.5]]'
 - '[[Changes/OpenCode/2026-10-29-core-improve-snapshot-performance-by-coalescing-captures-and-avoiding-repeated-i|Core

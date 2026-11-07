@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: b42582c84f4d0e5009fe41aadc4989997dd7703900e87a7002e283d0164133e7
+machine_hash: e2766ecc602e81e87d26a3c5ea140fc615d73402d430e1550e3a18532cf23b99
 product: lovable
 product_name: Lovable
 record:
@@ -71,12 +71,12 @@ record:
   title: Account settings have moved to their own dialog
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-09-25-we-re-introducing-security-history-a-new-way-to-review-recent-security-activity-6f32cc|Security
-  history in ChatGPT]]'
-- '[[Changes/Claude Code/2026-09-25-3-safety-and-privacy-changes-in-v2-1-283|3 Safety
-  and Privacy changes in v2.1.283]]'
 - '[[Changes/Codex CLI/2026-09-25-2-safety-and-privacy-changes-in-rust-v0-157-0|2
   Safety and Privacy changes in rust-v0.157.0]]'
+- '[[Changes/Devin/2026-09-25-github-enterprise-server-role-mirroring-and-team-sync|GitHub
+  Enterprise Server: Role Mirroring and Team Sync]]'
+- '[[Changes/Devin/2026-09-25-runtime-validation-evidence-in-scan-reports|Runtime-Validation
+  Evidence in Scan Reports]]'
 source_release: '[[Releases/Lovable/lovable-2026-09-25-2026-09-25-5a45f4f9|lovable-2026-09-25-2026-09-25-5a45f4f9]]'
 source_type: lovable_changelog
 theme: safety-privacy
@@ -107,7 +107,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-09-25 · Codex CLI · [[Changes/Codex CLI/2026-09-25-2-safety-and-privacy-changes-in-rust-v0-157-0|2 Safety and Privacy changes in rust-v0.157.0]]
+- Earlier: 2026-09-25 · Devin · [[Changes/Devin/2026-09-25-runtime-validation-evidence-in-scan-reports|Runtime-Validation Evidence in Scan Reports]]
 - Later: 2026-09-25 · OpenHands · [[Changes/OpenHands/2026-09-25-fix-mcp-keep-oauth-credentials-on-cloud-saves-and-skip-consent-when-tokens-still|fix(mcp): keep OAuth credentials on cloud saves and skip consent when tokens still work]]
 <!-- chronolog:end -->
 

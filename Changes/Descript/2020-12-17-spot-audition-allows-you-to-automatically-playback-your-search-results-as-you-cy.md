@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c9a2e0f1cabefaee5635ddc06f9572b809578dd0cce8ee3116082fa30d0b8b24
+machine_hash: dc2282a9ca73b71593299e8c63458dd848f3960bd07dccaa77757647f8b25585
 product: descript
 product_name: Descript
 record:
@@ -46,6 +46,8 @@ related_changes:
   ability to batch delete/ignore search results]]'
 - '[[Changes/Descript/2020-12-10-we-ve-updated-pages-to-not-be-indexed-by-search-engines-anymore-this-will-preven|Pages
   are not indexable by search engines]]'
+- '[[Changes/Raycast/2020-12-10-root-search-results-with-aliases-set-are-downranked-when-the-alias-is-not-matche|Root
+  Search : Results with aliases set are downranked when the alias is not matched]]'
 source_release: '[[Releases/Descript/descript-2020-12-17-5fdb6490afc7d65b0f5b1018-119423e7|descript-2020-12-17-5fdb6490afc7d65b0f5b1018-119423e7]]'
 source_type: canny_changelog
 theme: search-browsing
@@ -72,8 +74,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Search and Browsing
 
-- Earlier: 2020-12-10 · Descript · [[Changes/Descript/2020-12-10-we-ve-updated-pages-to-not-be-indexed-by-search-engines-anymore-this-will-preven|Pages are not indexable by search engines]]
-- Later: 2021-01-27 · Descript · [[Changes/Descript/2021-01-27-we-ve-updated-public-project-links-to-not-be-indexed-by-search-engines-anymore-t|Public projects are no longer indexable by search engines]]
+- Earlier: 2020-12-10 · Raycast · [[Changes/Raycast/2020-12-10-root-search-results-with-aliases-set-are-downranked-when-the-alias-is-not-matche|Root Search : Results with aliases set are downranked when the alias is not matched]]
+- Later: 2020-12-22 · Raycast · [[Changes/Raycast/2020-12-22-browser-bookmarks|Browser Bookmarks]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

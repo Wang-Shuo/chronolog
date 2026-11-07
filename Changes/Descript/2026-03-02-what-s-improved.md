@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: a5041f9353482a3a00e25cc29aea633311e5198541a2cc893281f0d65fc08074
+machine_hash: 922a53e8fb8c3b7a4540717add2db42c1774e7fc3e5d2aa65cbbebf8e53e184f
 product: descript
 product_name: Descript
 record:
@@ -50,10 +50,10 @@ record:
   title: What's improved
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-28-added-always-copy-full-response-option-to-the-copy-picker-when-selected-future-c|Added
-  "Always copy full response" option to the /copy picker]]'
 - '[[Changes/Open WebUI/2026-03-01-4-interface-experience-changes-in-v0-8-6|4 Interface
   Experience changes in v0.8.6]]'
+- '[[Changes/AnythingLLM/2026-03-02-2-interface-experience-changes-in-v1-11-1|2 Interface
+  Experience changes in v1.11.1]]'
 - '[[Changes/Descript/2026-03-02-note-files-you-import-directly-into-a-project-won-t-appear-in-the-media-library|Note:
   Files you import directly into a project won''t appear in the Media…]]'
 source_release: '[[Releases/Descript/descript-2026-03-02-69a5fea964720fb1ccd2c350-123a08f0|descript-2026-03-02-69a5fea964720fb1ccd2c350-123a08f0]]'
@@ -102,7 +102,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-03-01 · Open WebUI · [[Changes/Open WebUI/2026-03-01-4-interface-experience-changes-in-v0-8-6|4 Interface Experience changes in v0.8.6]]
+- Earlier: 2026-03-02 · AnythingLLM · [[Changes/AnythingLLM/2026-03-02-2-interface-experience-changes-in-v1-11-1|2 Interface Experience changes in v1.11.1]]
 - Later: 2026-03-02 · ElevenLabs · [[Changes/ElevenLabs/2026-03-02-elevenagents|ElevenAgents]]
 <!-- chronolog:end -->
 

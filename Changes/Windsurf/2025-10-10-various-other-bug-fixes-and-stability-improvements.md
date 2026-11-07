@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: eff8f0b2c8bd39070cccabf8a7010e94bb5ded7523578d2e6f98a2fbbcbcc320
+machine_hash: b987f1ec50331f2cb3516f095ebea6e0a89976fdff66da47ac932d66e74d8e9f
 product: windsurf
 product_name: Windsurf
 record:
@@ -40,8 +40,8 @@ record:
   title: Various other bug fixes and stability improvements
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2025-10-07-6-reliability-and-performance-changes-in-v0-6-33|6
-  Reliability and Performance changes in v0.6.33]]'
+- '[[Changes/Raycast/2025-10-10-general-improved-raycast-memory-consumption-by-not-keeping-the-settings-window-i|General:
+  Improved Raycast memory consumption by not keeping the Settings Window in memory]]'
 - '[[Changes/Replit/2025-10-10-github-import-improvements|GitHub import improvements]]'
 - '[[Changes/Replit/2025-10-10-faster-agent-stopping|Faster agent stopping]]'
 source_release: '[[Releases/Windsurf/windsurf-2025-10-10-v1-12-16-06d06d57|windsurf-2025-10-10-v1-12-16-06d06d57]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9368854f762ae874ac499c298022db6c2367100bf7fcf60c14b00666c4d1449e
+machine_hash: cc29f556e683c9f5d7cff7f5dc0e4f0839c8b2c6d72706dbdb1f43c102eefbbf
 product: heygen
 product_name: HeyGen
 record:
@@ -42,10 +42,10 @@ record:
   title: Getting started is easy
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-13-added-claude-code-plugin-prefer-https-to-clone-github-plugin-sources-over-https|Added
-  CLAUDE_CODE_PLUGIN_PREFER_HTTPS to clone GitHub plugin sources over HTTPS…]]'
 - '[[Changes/Cursor/2026-05-13-improved-mcp-auth-token-lifecycle-handling|Improved
   MCP auth token lifecycle handling]]'
+- '[[Changes/Devin/2026-05-13-mcp-multiline-environment-variables|MCP Multiline Environment
+  Variables]]'
 - '[[Changes/ElevenLabs/2026-05-13-sdk-releases|SDK Releases]]'
 source_release: '[[Releases/HeyGen/heygen-2026-05-13-https-heygen-noticeable-news-publications-heygen-is-now-built-in-a80d4768|heygen-2026-05-13-https-heygen-noticeable-news-publications-heygen-is-now-built-in-a80d4768]]'
 source_type: heygen_changelog
@@ -79,7 +79,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-05-13 · ElevenLabs · [[Changes/ElevenLabs/2026-05-13-sdk-releases|SDK Releases]]
-- Later: 2026-05-14 · Claude Code · [[Changes/Claude Code/2026-05-14-3-apps-and-integrations-changes-in-v2-1-142|3 Apps and Integrations changes in v2.1.142]]
+- Later: 2026-05-13 · Raycast · [[Changes/Raycast/2026-05-13-ai-extensions-added-raycast-notes-ai-extension|AI Extensions : Added Raycast Notes AI Extension]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

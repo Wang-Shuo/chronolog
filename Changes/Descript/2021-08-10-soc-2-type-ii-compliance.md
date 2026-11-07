@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 5f082e27f7eea6bfcab965783cc40a49ca1efd7e947471a281a4a1dcb03437db
+machine_hash: ab59ace845b46095aa77829fb738b3d6a8c6449de2502c71cced2ab543e97b58
 product: descript
 product_name: Descript
 record:
@@ -44,10 +44,9 @@ record:
   title: SOC 2 Type II Compliance
   type: change
 related_changes:
-- '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
-  Application Access]]'
-- "[[Changes/Notion/2020-11-11-flexible-sub-page-permissions|Flexible sub-page permissions
-  \U0001F4D1]]"
+- '[[Changes/Raycast/2020-12-02-script-commands-improvements|Script Commands Improvements]]'
+- '[[Changes/Raycast/2020-12-02-fixed-a-bug-where-permission-windows-appeared-behind-raycast|Fixed
+  a bug where permission windows appeared behind Raycast]]'
 - '[[Changes/Notion/2021-01-27-when-troubleshooting-with-notion-s-support-team-you-can-now-grant-and-revoke-con|When
   troubleshooting with Notion''s support team, you can now grant and revoke…]]'
 source_release: '[[Releases/Descript/descript-2021-08-10-6390c9ba4a4a0d64fa5644ec-d10babc5|descript-2021-08-10-6390c9ba4a4a0d64fa5644ec-d10babc5]]'
@@ -84,7 +83,7 @@ type: change
 ## Nearby in Safety and Privacy
 
 - Earlier: 2021-01-27 · Notion · [[Changes/Notion/2021-01-27-when-troubleshooting-with-notion-s-support-team-you-can-now-grant-and-revoke-con|When troubleshooting with Notion's support team, you can now grant and revoke…]]
-- Later: 2022-02-08 · Notion · [[Changes/Notion/2022-02-08-can-edit-content-permission-level|Can Edit Content permission level]]
+- Later: 2021-08-25 · Raycast · [[Changes/Raycast/2021-08-25-file-search-now-prompts-for-removable-volume-access-permission-if-required-this|File search: Now prompts for "Removable Volume" access permission if required]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

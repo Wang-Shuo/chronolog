@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: cc342021d6fedb3c3e28ce714a8097d4adb1d9233ebe8dfe1808aed75d87fded
+machine_hash: 89f1e09846f97d1a4aeeb1bd4f960f6fbda31d932593e493fbb638037adf3d30
 product: qoder
 product_name: Qoder
 record:
@@ -40,10 +40,10 @@ record:
   title: Improved live voice usage alerts and draft handling
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-08-25-4-voice-and-audio-changes-in-v0-11-1|4 Voice and
-  Audio changes in v0.11.1]]'
 - '[[Changes/Codex CLI/2026-08-26-39953-support-voice-aware-configuration-and-version-skew-builds-copyberry|♯39953
   Support voice-aware configuration and version-skew builds @copyberry]]'
+- '[[Changes/Superwhisper/2026-08-26-all-local-whisper-models-are-now-free-on-macos-giving-you-high-quality-voice-to|All
+  local Whisper models are now free on macOS, giving you high-quality voice…]]'
 - '[[Changes/GitHub Copilot CLI/2026-08-27-use-ctrl-space-to-toggle-voice-dictation|Use
   Ctrl+Space to toggle voice dictation]]'
 source_release: '[[Releases/Qoder/qoder-2026-08-27-0-1-1-3497a8d1|qoder-2026-08-27-0-1-1-3497a8d1]]'
@@ -78,7 +78,7 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2026-08-27 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-08-27-use-ctrl-space-to-toggle-voice-dictation|Use Ctrl+Space to toggle voice dictation]]
-- Later: 2026-08-31 · ChatGPT · [[Changes/ChatGPT/2026-08-31-content-from-a-live-voice-conversation-can-now-appear-on-your-iphone-s-lock-scre|Content from a Live voice conversation can now appear on your iPhone’s Lock Screen…]]
+- Later: 2026-08-28 · Krea · [[Changes/Krea/2026-08-28-wan-3-0|Wan 3.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

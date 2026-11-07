@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: d89b60489ceb5088120fba1ce577c1b286a25d7efd34b79959532ddf591ec28a
+machine_hash: b45745bf18032d649d00e0293ff0e11cdf43166dccba39003ff7086afee00643
 product: lovable
 product_name: Lovable
 record:
@@ -50,10 +50,10 @@ record:
   title: Workspace insights is now Security insights
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-14-3-safety-and-privacy-changes-in-v2-1-233|3 Safety
-  and Privacy changes in v2.1.233]]'
 - '[[Changes/Cline/2026-08-14-reclaim-idle-plugin-sandbox-processes-instead-of-leaving-them-running-for-the-li|Reclaim
   idle plugin sandbox processes instead of leaving them running for the life…]]'
+- '[[Changes/Devin/2026-08-14-unified-workflow-permission-preview|Unified Workflow
+  Permission Preview]]'
 - '[[Changes/Claude Code/2026-08-17-8-safety-and-privacy-changes-in-v2-1-234|8 Safety
   and Privacy changes in v2.1.234]]'
 source_release: '[[Releases/Lovable/lovable-2026-08-17-2026-08-17-6196d42b|lovable-2026-08-17-2026-08-17-6196d42b]]'

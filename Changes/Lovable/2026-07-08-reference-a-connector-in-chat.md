@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 56270a0e05a4bd23b729a41ac8acbbd89bce348727670e5017b6f34521141976
+machine_hash: 52021e424f437ea43d44182a9d209cca30206eadb40ddfc7cb78623b1f05a684
 product: lovable
 product_name: Lovable
 record:
@@ -49,10 +49,9 @@ record:
   title: Reference a connector in chat
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-07-08-66-apps-and-integrations-changes-in-rust-v0-143-0|66
-  Apps and Integrations changes in rust-v0.143.0]]'
-- '[[Changes/Codex CLI/2026-07-08-remote-plugins-are-now-enabled-by-default-with-richer-catalog-rows-npm-marketpla|Remote
-  plugins are now enabled by default, with richer catalog rows, npm marketplace…]]'
+- '[[Changes/Devin/2026-07-08-mobbin-mcp-server|Mobbin MCP Server]]'
+- '[[Changes/Devin/2026-07-08-apply-environment-config-suggestions-from-slack|Apply
+  Environment Config Suggestions from Slack]]'
 - '[[Changes/Kimi Code/2026-07-08-add-the-vercel-plugin-to-the-bundled-plugin-marketplace-run-plugins-and-select-v|Add
   the Vercel plugin to the bundled plugin marketplace]]'
 source_release: '[[Releases/Lovable/lovable-2026-07-08-2026-07-08-6cd655f7|lovable-2026-07-08-2026-07-08-6cd655f7]]'

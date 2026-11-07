@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a2c75f0c278e4b0d7888afa6404974ff3b7430b61ff24bb4d7deac2ff3774cf8
+machine_hash: 368b260ecef96ecb989fafa210feadc443e44d2f4259029e55ea4de9d3468d07
 product: openclaw
 product_name: OpenClaw
 record:
@@ -45,10 +45,10 @@ record:
   title: 2 Enterprise and Administration changes in v2026.10.6
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-10-20-model-picker-marks-your-administrator-managed-model-as-the-default-when-it-is-av|Model
-  picker marks your administrator-managed model as the default when it is available]]'
 - '[[Changes/Lovable/2026-10-20-group-your-workspaces-into-an-organization|Group your
   workspaces into an organization]]'
+- '[[Changes/Devin/2026-10-21-request-access-link-for-repositories-not-yet-in-devin|Request-access
+  Link for Repositories Not Yet in Devin]]'
 - '[[Changes/Lovable/2026-10-21-see-adoption-by-department-without-scim|See adoption
   by department without SCIM]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-10-22-v2026-10-6-56379f53|openclaw-2026-10-22-v2026-10-6-56379f53]]'

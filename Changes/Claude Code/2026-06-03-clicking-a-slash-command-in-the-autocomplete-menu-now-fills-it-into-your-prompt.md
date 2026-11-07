@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: af182848218fdb4025c7362d6f5ef7bff8b494cbe7d2b9d61992441644002870
+machine_hash: 5d9759a5908f46ddfe599ce4a237e0a903e2e2df5fcf55fbbebb37a302efea06
 product: claude-code
 product_name: Claude Code
 record:
@@ -95,7 +95,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-06-02 · Claude Code · [[Changes/Claude Code/2026-06-02-2-interface-experience-changes-in-v2-1-161|2 Interface Experience changes in v2.1.161]]
-- Later: 2026-06-03 · Kimi Code · [[Changes/Kimi Code/2026-06-03-2-interface-experience-changes-in-kimi-code-0-9-0|2 Interface Experience changes in Kimi Code 0.9.0]]
+- Later: 2026-06-03 · Devin · [[Changes/Devin/2026-06-03-persisted-orange-sidebar-indicator-for-quota-suspended-sessions-made-question-an|Persisted orange sidebar indicator for quota-suspended sessions]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

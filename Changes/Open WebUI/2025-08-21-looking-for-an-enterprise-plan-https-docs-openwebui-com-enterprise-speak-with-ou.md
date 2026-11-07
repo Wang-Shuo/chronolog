@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 75967321a78f8b382601c5e6ef27eed02ba8e5383473d642c6817a8f82e3afa9
+machine_hash: 373d193d21e8c17e11a1a29d77bcde5f3a4b45b9558182c2c19dbadf9d554691
 product: open-webui
 product_name: Open WebUI
 record:
@@ -102,7 +102,7 @@ type: change
 ## Nearby in Enterprise and Administration
 
 - Earlier: 2025-08-21 · Claude · [[Changes/Claude/2025-08-21-admin-controls-for-desktop-extensions|Admin controls for desktop extensions]]
-- Later: 2025-08-22 · Replit · [[Changes/Replit/2025-08-22-multiple-sso-providers-for-enterprise|Multiple SSO providers for Enterprise]]
+- Later: 2025-08-22 · Devin · [[Changes/Devin/2025-08-22-enterprise-api-key-management|Enterprise API Key Management]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

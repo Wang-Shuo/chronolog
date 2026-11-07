@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 297d5827e30155f25ef90fbff81c3fcfefe39002599b61dd5c151997a073a653
+machine_hash: 8bbc8f7d11613ea50ffce0b9332d2fe4c12bfc033666722ed775c0a901cb1714
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -50,12 +50,12 @@ record:
   title: Share a read-only snapshot of a Codex chat
   type: change
 related_changes:
-- '[[Changes/v0/2026-08-14-4-collaboration-changes-in-a-redesigned-sidebar-a-richer|4
-  Collaboration changes in A redesigned sidebar, a richer…]]'
-- '[[Changes/Claude Code/2026-08-17-removed-the-default-teammate-model-setting-from-config-agent-team-teammates-now|Removed
-  the "Default teammate model" setting from /config]]'
 - '[[Changes/Codex CLI/2026-08-18-5-collaboration-changes-in-rust-v0-148-0|5 Collaboration
   changes in rust-v0.148.0]]'
+- '[[Changes/Raycast/2026-08-19-feedback-new-ask-feedback-ai-extension-to-contact-the-raycast-team|Feedback
+  : New Ask Feedback AI Extension to contact the Raycast team]]'
+- '[[Changes/Raycast/2026-08-19-feedback-new-ask-feedback-ai-extension-to-contact-the-raycast-team-fdcf2e|Feedback
+  : New Ask Feedback AI Extension to contact the Raycast team]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-20-codex-and-chatgpt-feature-updates-c987f574|chatgpt-2026-08-20-codex-and-chatgpt-feature-updates-c987f574]]'
 source_type: chatgpt_changelog
 theme: collaboration
@@ -86,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-08-18 · Codex CLI · [[Changes/Codex CLI/2026-08-18-5-collaboration-changes-in-rust-v0-148-0|5 Collaboration changes in rust-v0.148.0]]
+- Earlier: 2026-08-19 · Raycast · [[Changes/Raycast/2026-08-19-feedback-new-ask-feedback-ai-extension-to-contact-the-raycast-team-fdcf2e|Feedback : New Ask Feedback AI Extension to contact the Raycast team]]
 - Later: 2026-08-20 · Codex CLI · [[Changes/Codex CLI/2026-08-20-2-collaboration-changes-in-rust-v0-149-0|2 Collaboration changes in rust-v0.149.0]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b85b8f372fa3e8de645438bc75134dca5a4ac44a1b67cb499e385c1946a7f289
+machine_hash: 5035b878a28af64f1b1c000e2c4622fb6f452c60255da11a6c448f45f733053c
 product: claude-code
 product_name: Claude Code
 record:
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2026-03-10 · Claude Code · [[Changes/Claude Code/2026-03-10-improved-voice-input-transcription-accuracy-for-repo-names-and-common-dev-terms|Improved voice input transcription accuracy for repo names and common dev terms…]]
-- Later: 2026-03-14 · Claude Code · [[Changes/Claude Code/2026-03-14-improved-voice-to-show-your-dictation-language-on-enable-and-warn-when-your-lang|Improved /voice to show your dictation language on enable and warn…]]
+- Later: 2026-03-11 · Superwhisper · [[Changes/Superwhisper/2026-03-11-2-voice-and-audio-changes-in-superwhisper-windows-1-2-32|2 Voice and Audio changes in Superwhisper Windows 1.2.32]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

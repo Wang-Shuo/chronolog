@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 3c25a68637cda608e2e2d27a64a64ce1ab8533e23160ff24c40a60d15b7bc9f8
+machine_hash: adb2719d5a31b765b1e8b9e5765f054267d6a887c66ba88680d966bfd46eb2f7
 product: descript
 product_name: Descript
 record:
@@ -58,10 +58,11 @@ record:
   title: Improved transcription with ElevenLabs Scribe v2
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-05-13-voice-design-b2b3bd|Voice Design]]'
 - '[[Changes/ElevenLabs/2026-05-13-voice-changer-cdfc87|Voice Changer]]'
 - '[[Changes/HeyGen/2026-05-13-a-roll-b-roll-audio-captions-and-motion-graphics-are-no-longer-separate-steps-in|A-Roll,
   B-Roll, audio, captions, and motion graphics are no longer separate steps…]]'
+- '[[Changes/Raycast/2026-05-13-7-voice-and-audio-changes-in-raycast-macos-0-59|7
+  Voice and Audio changes in Raycast macos 0.59]]'
 source_release: '[[Releases/Descript/descript-2026-05-14-6a05e75cbbef22ce4b0633c9-b87fafc2|descript-2026-05-14-6a05e75cbbef22ce4b0633c9-b87fafc2]]'
 source_type: canny_changelog
 theme: voice
@@ -108,8 +109,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-05-13 · HeyGen · [[Changes/HeyGen/2026-05-13-a-roll-b-roll-audio-captions-and-motion-graphics-are-no-longer-separate-steps-in|A-Roll, B-Roll, audio, captions, and motion graphics are no longer separate steps…]]
-- Later: 2026-05-18 · ElevenLabs · [[Changes/ElevenLabs/2026-05-18-javascript-sdk|JavaScript SDK]]
+- Earlier: 2026-05-13 · Raycast · [[Changes/Raycast/2026-05-13-7-voice-and-audio-changes-in-raycast-macos-0-59|7 Voice and Audio changes in Raycast macos 0.59]]
+- Later: 2026-05-15 · Superwhisper · [[Changes/Superwhisper/2026-05-15-enhanced-audio-processing-with-improved-dynamic-normalization-and-live-waveform|Enhanced audio processing with improved dynamic normalization and live waveform gating]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

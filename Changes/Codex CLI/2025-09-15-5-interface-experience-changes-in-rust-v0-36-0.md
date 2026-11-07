@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3ec9cfc10384daef421e0f65304cf035862d99cbc229379204c914b07f023c55
+machine_hash: ce9547c4dc32dac64df1151f3c4a45ed493d2b760f917c63ca2be471605530ea
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -103,7 +103,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.36.0
 ## Nearby in Interface Experience
 
 - Earlier: 2025-09-12 · Cursor · [[Changes/Cursor/2025-09-12-1-6-27-native-menu-notification-badge|1.6.27: Native menu notification badge]]
-- Later: 2025-09-16 · ChatGPT · [[Changes/ChatGPT/2025-09-16-formatting-answers-are-better-formatted-for-quick-understanding-without-losing-d|Formatting: Answers are better formatted for quick understanding without losing…]]
+- Later: 2025-09-15 · Raycast · [[Changes/Raycast/2025-09-15-ai-chat-window-can-now-be-made-full-screen-again|AI Chat: Window can now be made full-screen again]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

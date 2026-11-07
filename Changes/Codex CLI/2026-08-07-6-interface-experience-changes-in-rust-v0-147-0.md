@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 11ebcdba33ab98a3c1d5104ae55413f32e04dc782fe2c19adcf534a5cfec2a41
+machine_hash: f8f1e68afcca0502467123a1218d743cc3fa6bc49a71c3f750dc0692529362eb
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -52,10 +52,10 @@ record:
   title: 6 Interface Experience changes in rust-v0.147.0
   type: change
 related_changes:
-- '[[Changes/Kimi Code/2026-08-05-web-pin-sessions-to-the-top-of-the-sidebar|web:
-  Pin sessions to the top of the sidebar]]'
 - '[[Changes/Kimi Code/2026-08-06-web-add-a-flat-view-to-the-sidebar-session-list|web:
   Add a flat view to the sidebar session list]]'
+- '[[Changes/Superwhisper/2026-08-06-faster-smoother-settings-window-with-refined-picker-disclosure-and-appearance-ca|Faster,
+  smoother settings window with refined picker, disclosure, and Appearance…]]'
 - '[[Changes/Claude Code/2026-08-07-improved-fullscreen-mode-to-keep-the-full-pre-compaction-history-in-scrollback-a|Improved
   fullscreen mode to keep the full pre-compaction history in scrollback…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-08-07-rust-v0-147-0-github-366471016-f6cfdee2|codex-cli-2026-08-07-rust-v0-147-0-github-366471016-f6cfdee2]]'
@@ -113,7 +113,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.147.0
 ## Nearby in Interface Experience
 
 - Earlier: 2026-08-07 · Claude Code · [[Changes/Claude Code/2026-08-07-improved-fullscreen-mode-to-keep-the-full-pre-compaction-history-in-scrollback-a|Improved fullscreen mode to keep the full pre-compaction history in scrollback…]]
-- Later: 2026-08-07 · Google Antigravity · [[Changes/Google Antigravity/2026-08-07-you-can-now-copy-an-image-to-your-clipboard-from-an-artifact-or-the-file-viewer|Copy an image to your clipboard from an artifact or the file viewer, using the menu…]]
+- Later: 2026-08-07 · Devin · [[Changes/Devin/2026-08-07-command-palette-improvements|Command Palette Improvements]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

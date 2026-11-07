@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 221793cb2eef496096097a001a87e10a901f46d8f8511e3f9fd34b0fa5fa75db
+machine_hash: a1dbed383907b9001625029a706bb5a1319224e5903bc8fcf7b3d2a27bbb5b06
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -76,7 +76,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2025-11-26 · Dify · [[Changes/Dify/2025-11-26-4-reliability-and-performance-changes-in-1-10-1|4 Reliability and Performance changes in 1.10.1]]
-- Later: 2025-11-27 · Cline · [[Changes/Cline/2025-11-27-feat-update-cerebras-models-and-speed-by-sebastiand-cerebras-in-https-github-com|feat: update Cerebras models and speed]]
+- Later: 2025-11-26 · Superwhisper · [[Changes/Superwhisper/2025-11-26-performance-improvements-for-all-local-models|Performance improvements for all Local models]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

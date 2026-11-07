@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2ba1b8a9a19c785fb87aab412193ad90dc6fd93cc816adf3fa4d939237a553b3
+machine_hash: 95780c1ec49bd722af9fdfc45e8554c56e1933011bea90bd205b9f0e136e22a8
 product: cursor
 product_name: Cursor
 record:
@@ -44,8 +44,8 @@ record:
   title: More chat symbol links
   type: change
 related_changes:
-- '[[Changes/Aider/2024-01-08-improvements-to-unified-diff-editing-format|Improvements
-  to unified diff editing format]]'
+- '[[Changes/Raycast/2024-01-10-clipboard-history-added-an-action-to-edit-the-content-of-a-history-item|Clipboard
+  History: Added an action to edit the content of a history item]]'
 - '[[Changes/Descript/2024-01-16-save-on-editing-costs-and-save-time-for-both-yourself-and-your-audience-by-letti|Save
   on editing costs, and save time for both yourself and your audience by letting…]]'
 - '[[Changes/Descript/2024-01-16-introducing-our-newest-ai-action-edit-for-clarity-https-help-descript-com-hc-en|Introducing

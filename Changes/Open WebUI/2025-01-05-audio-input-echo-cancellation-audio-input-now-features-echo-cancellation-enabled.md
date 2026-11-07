@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5695c240ccfb00c6cab5424c54758d8160e035edefab40b88941400a8402dee4
+machine_hash: 16189e9c3ebfaede881241fabf8da9aa025fdddc384a4520c19f882d778ab75d
 product: open-webui
 product_name: Open WebUI
 record:
@@ -86,7 +86,7 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2024-12-27 · Replit · [[Changes/Replit/2024-12-27-build-notifications|Build notifications]]
-- Later: 2025-01-10 · Aider · [[Changes/Aider/2025-01-10-2-voice-and-audio-changes-in-v0-71-0|2 Voice and Audio changes in v0.71.0]]
+- Later: 2025-01-08 · Devin · [[Changes/Devin/2025-01-08-talk-to-devin-in-slack-devin-can-now-respond-to-audio-messages|Talk to Devin in Slack - Devin can now respond to audio messages]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a0f2b7a87eb41850378fac4297a805553dffdfc4ab070dd04f0dced3c705da4d
+machine_hash: b0e9367ceae7a3bbdab163373aec50e99174383f9a54928688cc077718e9b1d2
 product: claude-code
 product_name: Claude Code
 record:
@@ -100,7 +100,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.314
 ## Nearby in Enterprise and Administration
 
 - Earlier: 2026-10-29 · Open WebUI · [[Changes/Open WebUI/2026-10-29-admins-manage-user-api-keys-administrators-can-now-rotate-or-delete-a-user-s-api|🗝️ Admins manage user API keys. Administrators can now rotate or delete a user's…]]
-- Later: 2026-10-30 · Windsurf · [[Changes/Windsurf/2026-10-30-members-an-enterprise-admin-has-listed-for-anthropic-s-cyber-verification-progra|Members an enterprise admin has listed for Anthropic's Cyber Verification Program…]]
+- Later: 2026-10-30 · Devin · [[Changes/Devin/2026-10-30-code-channel-as-the-default-thread-mode|Code Channel as the Default Thread Mode]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

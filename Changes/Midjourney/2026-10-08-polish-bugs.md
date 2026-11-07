@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: pricing
-machine_hash: 0649d1cd6d1fd245d99d30af8b0559f081e91c765c953c834285ce2473facfca
+machine_hash: c978b33d27ea8b978cae4811db5a3cc96230bbb168568b7d903c0c8f7614f4d6
 product: midjourney
 product_name: Midjourney
 record:
@@ -56,12 +56,12 @@ record:
   title: POLISH & BUGS
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-10-05-plan-usage-reflects-the-current-billing-period-after-quota-resets|Plan
-  usage reflects the current billing period after quota resets]]'
 - '[[Changes/Microsoft 365 Copilot/2026-10-06-copilot-analytics-cowork-adoption-and-impact-web-viva-insights|Copilot
   Analytics - Cowork adoption and impact Web (Viva Insights)]]'
 - '[[Changes/Lovable/2026-10-07-set-credit-usage-limits-and-alerts-for-your-workspace|Set
   credit usage limits and alerts for your workspace]]'
+- '[[Changes/Krea/2026-10-08-let-krea-know-which-workspace-reports-open-source-usage|Let
+  Krea know which workspace reports open-source usage]]'
 source_release: '[[Releases/Midjourney/midjourney-2026-10-08-https-updates-midjourney-com-alpha-changelog-10-7-26-cf436888|midjourney-2026-10-08-https-updates-midjourney-com-alpha-changelog-10-7-26-cf436888]]'
 source_type: midjourney_changelog
 theme: pricing-model
@@ -94,7 +94,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-10-07 · Lovable · [[Changes/Lovable/2026-10-07-set-credit-usage-limits-and-alerts-for-your-workspace|Set credit usage limits and alerts for your workspace]]
+- Earlier: 2026-10-08 · Krea · [[Changes/Krea/2026-10-08-let-krea-know-which-workspace-reports-open-source-usage|Let Krea know which workspace reports open-source usage]]
 - Later: 2026-10-08 · OpenClaw · [[Changes/OpenClaw/2026-10-08-claude-haiku-5-5-you-can-select-haiku-5-5-through-the-anthropic-api-and-claude-c|Claude Haiku 5.5. You can select Haiku 5.5 through the Anthropic API and Claude CLI]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 74989d4cf622b4823a2ebd06516439f6a96e58b35e95daca601dedbf89bf644d
+machine_hash: 5d1df9cf811ee300391888832c2b7db30f79879f82e2e82c0881453f9541c624
 product: cursor
 product_name: Cursor
 record:
@@ -41,8 +41,8 @@ record:
   title: Improved MCP auth token lifecycle handling
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-05-12-test-integration-test-hardening-by-dhiltgen-in-https-github-com-ollama-ollama-pu|test:
-  integration test hardening]]'
+- '[[Changes/Raycast/2026-05-12-clipboard-history-improved-color-categorization-when-copying-unqualified-hex-cod|Clipboard
+  History : Improved color categorization when copying unqualified hex codes…]]'
 - '[[Changes/v0/2026-05-12-custom-auth-headers-for-connected-mcp-servers-no-longer-get-stripped-after-the-f|Custom
   auth headers for connected MCP servers no longer get stripped after the first…]]'
 - '[[Changes/Claude Code/2026-05-13-added-claude-code-plugin-prefer-https-to-clone-github-plugin-sources-over-https|Added
@@ -82,7 +82,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-05-13 · Claude Code · [[Changes/Claude Code/2026-05-13-added-claude-code-plugin-prefer-https-to-clone-github-plugin-sources-over-https|Added CLAUDE_CODE_PLUGIN_PREFER_HTTPS to clone GitHub plugin sources over HTTPS…]]
-- Later: 2026-05-13 · ElevenLabs · [[Changes/ElevenLabs/2026-05-13-sdk-releases|SDK Releases]]
+- Later: 2026-05-13 · Devin · [[Changes/Devin/2026-05-13-mcp-multiline-environment-variables|MCP Multiline Environment Variables]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

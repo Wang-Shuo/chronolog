@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 23e67d7d89fdd2de7fd7339fa7a537e959e089cfc21e19722929ea40cf78a986
+machine_hash: 2f6d2df9272100380f74542e8937c16454c0c5250497fe39972ca61b6f98907e
 product: replit
 product_name: Replit
 record:
@@ -49,11 +49,12 @@ record:
   title: Teams and Enterprise
   type: change
 related_changes:
-- '[[Changes/Replit/2025-06-13-teams-and-enterprise|Teams and Enterprise]]'
 - '[[Changes/Open WebUI/2025-06-16-looking-for-an-enterprise-plan-https-docs-openwebui-com-enterprise-speak-with-ou|
   Looking for an Enterprise Plan((source link)]]'
 - '[[Changes/Synthesia/2025-06-25-we-re-super-excited-to-introduce-interactivity-to-our-enterprise-customer-and-cr|Make
   your videos interactive]]'
+- '[[Changes/Devin/2025-06-26-enterprise-connected-accounts-ui|Enterprise Connected
+  Accounts UI]]'
 source_release: '[[Releases/Replit/replit-2025-06-27-2025-06-27-b39448c0|replit-2025-06-27-2025-06-27-b39448c0]]'
 source_type: replit_changelog
 theme: enterprise-admin
@@ -87,7 +88,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2025-06-25 · Synthesia · [[Changes/Synthesia/2025-06-25-we-re-super-excited-to-introduce-interactivity-to-our-enterprise-customer-and-cr|Make your videos interactive]]
+- Earlier: 2025-06-26 · Devin · [[Changes/Devin/2025-06-26-enterprise-connected-accounts-ui|Enterprise Connected Accounts UI]]
 - Later: 2025-07-04 · Replit · [[Changes/Replit/2025-07-04-teams-and-enterprise|Teams and Enterprise]]
 <!-- chronolog:end -->
 

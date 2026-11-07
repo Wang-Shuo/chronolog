@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 54f53e95ec1b747f5c306d571ddb8b345576ac81f9b4018ff5782f3983bfe097
+machine_hash: 8bc7d99fd309982b23002dc772a3a422217e44432ecb7f7d3497ee703b0d25d7
 product: openclaw
 product_name: OpenClaw
 record:
@@ -122,7 +122,7 @@ Source: https://docs.openclaw.ai/releases/2026.9.3
 ## Nearby in Collaboration
 
 - Earlier: 2026-09-08 · ChatGPT · [[Changes/ChatGPT/2026-09-08-share-a-prompt-share-the-prompt-for-a-generated-image-so-others-can-create-their|Share a prompt]]
-- Later: 2026-09-09 · ChatGPT · [[Changes/ChatGPT/2026-09-09-4-collaboration-changes-in-share-files-and-folders|4 Collaboration changes in Share files and folders…]]
+- Later: 2026-09-08 · Raycast · [[Changes/Raycast/2026-09-08-root-search-apps-can-now-be-found-by-their-executable-name-or-execution-alias-e|Root Search : Apps can now be found by their executable name or execution alias…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

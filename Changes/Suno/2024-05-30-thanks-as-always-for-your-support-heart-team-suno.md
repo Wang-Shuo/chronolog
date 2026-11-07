@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 629c5382c93a351aee54d2ddd9f4740e195f8adb9371a4066fbb1a98f31c2470
+machine_hash: ddcc14890f5b33df1784e17743af81789c8368b211f18f3a32dfa6594ed35b78
 product: suno
 product_name: Suno
 record:
@@ -43,12 +43,11 @@ record:
   title: Thanks, as always, for your support
   type: change
 related_changes:
-- '[[Changes/Suno/2024-04-12-5-click-save-you-can-now-share-your-suno-creations-with-the-world-more-easily|5️⃣
-  Click Save]]'
 - "[[Changes/Open WebUI/2024-04-21-share-link-copy-button-fixed-bug-where-the-copy-button-wasn-t-copying-links-in-s|\U0001F517
   Share Link Copy Button]]"
 - "[[Changes/Open WebUI/2024-05-19-shared-chat-update-shared-chat-now-includes-creator-user-information|\U0001F464
   Shared Chat Update: Shared chat now includes creator user information]]"
+- '[[Changes/Devin/2024-05-29-playbooks-library|Playbooks Library]]'
 source_release: '[[Releases/Suno/suno-2024-05-30-e-v3-5-is-available-to-everyone-dd89fd7b|suno-2024-05-30-e-v3-5-is-available-to-everyone-dd89fd7b]]'
 source_type: suno_changelog
 theme: collaboration
@@ -80,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2024-05-19 · Open WebUI · [[Changes/Open WebUI/2024-05-19-shared-chat-update-shared-chat-now-includes-creator-user-information|👤 Shared Chat Update: Shared chat now includes creator user information]]
+- Earlier: 2024-05-29 · Devin · [[Changes/Devin/2024-05-29-playbooks-library|Playbooks Library]]
 - Later: 2024-06-02 · Open WebUI · [[Changes/Open WebUI/2024-06-02-2-collaboration-changes-in-v0-2-0|2 Collaboration changes in v0.2.0]]
 <!-- chronolog:end -->
 

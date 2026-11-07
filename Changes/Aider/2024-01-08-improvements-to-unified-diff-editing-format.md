@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 42d4a642e77ea2ecc6e8fcac01f99dc0edfbc768abe8422b2236b787d07794ce
+machine_hash: f6679839410ebb0540b3e6f477e38e80c92cb5c972776f84ecf94a19cb1f700c
 product: aider
 product_name: Aider
 record:
@@ -76,7 +76,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2024-01-06 · Cursor · [[Changes/Cursor/2024-01-06-upgrades-cursor-to-vs-code-1-85-which-comes-with-support-for-dragging-out-tabs-i|Upgrades Cursor to VS Code 1.85, which comes with support for dragging out tabs…]]
-- Later: 2024-01-16 · Descript · [[Changes/Descript/2024-01-16-save-on-editing-costs-and-save-time-for-both-yourself-and-your-audience-by-letti|Save on editing costs, and save time for both yourself and your audience by letting…]]
+- Later: 2024-01-10 · Raycast · [[Changes/Raycast/2024-01-10-clipboard-history-added-an-action-to-edit-the-content-of-a-history-item|Clipboard History: Added an action to edit the content of a history item]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

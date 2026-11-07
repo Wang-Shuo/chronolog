@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8c5ebb641aad830b32a32e17d21136ce3e2f2cd9e59639bce8c6126cc1000e90
+machine_hash: 9c4b9fc45dd09fcb1cf907a4735e9a49418c8e4551c763b8e03711d35998b46c
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -66,11 +66,11 @@ record:
   title: 10 Apps and Integrations changes in v0.31.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-02-25-plugin-agents-specified-as-file-paths-in-plugin-json-load-correctly|Plugin
-  agents specified as file paths in plugin.json load correctly]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-25-3-apps-and-integrations-changes-in-v0-0-417|3
   Apps and Integrations changes in v0.0.417]]'
 - '[[Changes/Windsurf/2026-02-25-mcp-improvements|MCP Improvements]]'
+- '[[Changes/Raycast/2026-02-26-2-apps-and-integrations-changes-in-raycast-windows-0-47|2
+  Apps and Integrations changes in Raycast windows 0.47]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-02-27-v0-31-0-github-291545882-debd3ec1|gemini-cli-2026-02-27-v0-31-0-github-291545882-debd3ec1]]'
 source_type: github_releases
 theme: apps-integrations
@@ -129,7 +129,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.31.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-02-25 · Windsurf · [[Changes/Windsurf/2026-02-25-mcp-improvements|MCP Improvements]]
+- Earlier: 2026-02-26 · Raycast · [[Changes/Raycast/2026-02-26-2-apps-and-integrations-changes-in-raycast-windows-0-47|2 Apps and Integrations changes in Raycast windows 0.47]]
 - Later: 2026-02-27 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-27-plugin-and-marketplace-git-repos-update-correctly-after-force-pushes-and-tag-bas|Plugin and marketplace git repos update correctly after force-pushes and tag-based…]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 2a1eb60af5a9d372671da76fd599a9a3e3c46f42823da39c519c04099fe5008d
+machine_hash: 61aea0763e9038b0c6e026f9ebd08dedfe811f6625438033a33917c5ae761ad8
 product: lovable
 product_name: Lovable
 record:
@@ -56,8 +56,8 @@ record:
   title: Reworked AI model training settings
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-08-06-show-the-ai-s-thinking-in-your-app|Show the AI''s
-  thinking in your app]]'
+- '[[Changes/Superwhisper/2026-08-06-introducing-the-s1-family-of-models|Introducing
+  the S1 family of models]]'
 - '[[Changes/Claude Code/2026-08-07-changed-the-bash-tool-description-to-always-note-that-command-output-is-displaye|Changed
   the Bash tool description to always note that command output is displayed…]]'
 - '[[Changes/Codex CLI/2026-08-07-13-model-support-changes-in-rust-v0-147-0|13 Model

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: af835d75758654d367710149bd2eef4b115905bebefab0d85af3fb30f9fcb2cc
+machine_hash: f52d8fad8b7c72d1951d31538aef16886b4e71bf24db5ce82ab20a4247b7f884
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -63,12 +63,11 @@ record:
   title: Introducing GPTs
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-09-17-we-point-to-a-different-marketplace-for-downloading-extensions-and-use-a-fork-of|Cursor
-  Python and Cursor Marketplace]]'
-- '[[Changes/Gemini/2023-09-19-bard-can-now-access-helpful-information-from-google-apps-and-services|Bard
-  can now access helpful information from Google apps and services]]'
+- '[[Changes/Raycast/2023-09-21-root-search-support-searching-apps-by-english-names-when-using-a-non-english-lan|Root
+  Search: Support searching apps by English names when using a non-English language]]'
 - '[[Changes/Cursor/2023-10-20-cursor-is-now-based-on-vs-code-1-83-1-this-ensures-that-the-newest-versions-of-a|Cursor
   is now based on VS Code 1.83.1]]'
+- '[[Changes/Raycast/2023-11-02-shortcuts-improvements|Shortcuts Improvements]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2023-11-06-introducing-gpts-3721c457|chatgpt-2023-11-06-introducing-gpts-3721c457]]'
 source_type: chatgpt_changelog
 theme: apps-integrations
@@ -95,7 +94,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2023-10-20 · Cursor · [[Changes/Cursor/2023-10-20-cursor-is-now-based-on-vs-code-1-83-1-this-ensures-that-the-newest-versions-of-a|Cursor is now based on VS Code 1.83.1]]
+- Earlier: 2023-11-02 · Raycast · [[Changes/Raycast/2023-11-02-shortcuts-improvements|Shortcuts Improvements]]
 - Later: 2023-11-07 · Notion · [[Changes/Notion/2023-11-07-new-siem-dlp-integrations|New SIEM & DLP integrations]]
 <!-- chronolog:end -->
 

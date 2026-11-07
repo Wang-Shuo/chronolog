@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 453bfc01ca8b41782ee52186b1c8c6e57375fa641a859903c4ad48c6c8bd50a9
+machine_hash: d8b33ab4c93ddf71db080be0a11089d73746f198f92f7bd4f63279b54bbfb5ef
 product: open-webui
 product_name: Open WebUI
 record:
@@ -175,10 +175,9 @@ record:
   title: 19 Interface Experience changes in v0.11.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-23-add-model-plan-or-model-plan-to-pick-a-model-used-while-in-plan-mode-pass-a-mode|Add
-  /model plan (or /model --plan) to pick a model used while in plan mode]]'
 - '[[Changes/Claude Code/2026-07-24-2-interface-experience-changes-in-v2-1-219|2 Interface
   Experience changes in v2.1.219]]'
+- '[[Changes/Devin/2026-07-24-redesigned-model-picker|Redesigned Model Picker]]'
 - '[[Changes/OpenCode/2026-07-24-core-fix-minimax-m3-thinking-variant-selection|Core
   Fix MiniMax M3 thinking variant selection]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-07-27-v0-11-0-github-360322252-5f18424f|open-webui-2026-07-27-v0-11-0-github-360322252-5f18424f]]'

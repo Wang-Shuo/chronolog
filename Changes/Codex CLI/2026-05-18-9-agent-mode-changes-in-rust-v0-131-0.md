@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 594e91f6e7c44d80dbee12ac0d4ca0174bc279f806de7af2296441f8c0f42b1a
+machine_hash: 857caab7ed8f13ac1d99c3e1ef444b91f1a3365f21ed2da8407bc1f184d7939f
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -58,10 +58,10 @@ record:
   title: 9 Agent Mode changes in rust-v0.131.0
   type: change
 related_changes:
-- '[[Changes/v0/2026-05-15-2-agent-mode-changes-in-claude-opus-4-7-fast-agent-browser|2
-  Agent Mode changes in Claude Opus 4.7 Fast, agent browser…]]'
 - '[[Changes/OpenCode/2026-05-16-terminal-fixed-opencode-run-agent-resolving-project-local-agents|Terminal
   Fixed opencode run --agent resolving project-local agents]]'
+- '[[Changes/Devin/2026-05-17-pr-actions-auto-review-settings|PR Actions & Auto-Review
+  Settings]]'
 - '[[Changes/OpenCode/2026-05-17-core-hid-background-subagent-task-instructions-unless-experimental-background-mo|Core
   Hid background subagent task instructions unless experimental background mode…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-05-18-rust-v0-131-0-github-324452638-5f16ff1d|codex-cli-2026-05-18-rust-v0-131-0-github-324452638-5f16ff1d]]'

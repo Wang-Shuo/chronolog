@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d740869186ae54f1173c6a9cbff8097122ce33f8bed26ad11b511882ca85cbdf
+machine_hash: be4c7e778e72f8c69e5912f8bbd3f044414b8ff0795ca8640fe000d642742f67
 product: dify
 product_name: Dify
 record:
@@ -47,12 +47,10 @@ record:
   title: 3 Interface Experience changes in 1.13.3
   type: change
 related_changes:
-- '[[Changes/Notion/2026-03-26-archive-pages-for-better-search-ai-results|Archive
-  pages for better search & AI results]]'
-- '[[Changes/OpenCode/2026-03-26-2-interface-experience-changes-in-v1-3-3|2 Interface
-  Experience changes in v1.3.3]]'
 - '[[Changes/Claude Code/2026-03-27-changed-skills-menu-to-sort-alphabetically-for-easier-scanning|Changed
   /skills menu to sort alphabetically for easier scanning]]'
+- '[[Changes/Devin/2026-03-27-focus-mode|Focus Mode]]'
+- '[[Changes/Devin/2026-03-27-inline-file-previews|Inline File Previews]]'
 source_release: '[[Releases/Dify/dify-2026-03-27-1-13-3-github-302258183-3ff73e84|dify-2026-03-27-1-13-3-github-302258183-3ff73e84]]'
 source_type: github_releases
 theme: interface-experience
@@ -99,7 +97,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.13.3
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-03-27 · Claude Code · [[Changes/Claude Code/2026-03-27-changed-skills-menu-to-sort-alphabetically-for-easier-scanning|Changed /skills menu to sort alphabetically for easier scanning]]
+- Earlier: 2026-03-27 · Devin · [[Changes/Devin/2026-03-27-inline-file-previews|Inline File Previews]]
 - Later: 2026-03-27 · Notion · [[Changes/Notion/2026-03-27-archived-pages-have-a-banner-showing-who-archived-them-and-when-and-they-re-hidd|Archived pages have a banner showing who archived them and when, and they’re hidden…]]
 <!-- chronolog:end -->
 

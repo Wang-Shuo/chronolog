@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: aad0101d05922bd3738770c2060dc85a8147b1f93648dc613183f52cc15dad82
+machine_hash: 8436a95706ca15169e55796862db1bf8a5ebfb9e4148aa90580809c50f8a9565
 product: claude
 product_name: Claude
 record:
@@ -106,7 +106,7 @@ type: change
 ## Nearby in Files and Data
 
 - Earlier: 2026-09-15 · Claude Code · [[Changes/Claude Code/2026-09-15-improved-artifact-database-writes-an-update-can-now-remove-a-single-field-instea|Improved artifact database writes]]
-- Later: 2026-09-16 · OpenHands · [[Changes/OpenHands/2026-09-16-feat-track-authenticated-canvas-arrivals-by-neubig-in-https-github-com-openhands|feat: track authenticated Canvas arrivals]]
+- Later: 2026-09-16 · Devin · [[Changes/Devin/2026-09-16-copied-messages-keep-their-formatting|Copied Messages Keep Their Formatting]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

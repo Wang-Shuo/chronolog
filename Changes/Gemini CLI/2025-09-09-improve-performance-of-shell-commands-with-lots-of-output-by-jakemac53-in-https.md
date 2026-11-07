@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e42802f6df772b371220f472d5832aaa764330f821122226be5dcf4e2f365460
+machine_hash: ebfa3ac09400d0de0647b449a6436945fcd58562868cbfe97130929a30dc4594
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -42,12 +42,12 @@ record:
   title: improve performance of shell commands with lots of output
   type: change
 related_changes:
-- '[[Changes/Dify/2025-09-03-3-reliability-and-performance-changes-in-1-8-1|3 Reliability
-  and Performance changes in 1.8.1]]'
 - '[[Changes/Gemini CLI/2025-09-04-chore-remove-cli-flags-all-files-and-show-memory-usage-by-jackwotherspoon-in-htt|chore:
   remove CLI flags all_files and show_memory_usage]]'
 - '[[Changes/Ollama/2025-09-04-embeddinggemma-https-ollama-com-library-embeddinggemma-a-new-open-embedding-mode|EmbeddingGemma((source
   link) a new open embedding…]]'
+- '[[Changes/Devin/2025-09-05-various-reliability-performance-and-usability-improvements-across-the-app|Various
+  reliability, performance, and usability improvements across the app]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-09-09-v0-4-0-github-245990585-546fee8b|gemini-cli-2025-09-09-v0-4-0-github-245990585-546fee8b]]'
 source_type: github_releases
 theme: reliability-performance
@@ -84,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-09-04 · Ollama · [[Changes/Ollama/2025-09-04-embeddinggemma-https-ollama-com-library-embeddinggemma-a-new-open-embedding-mode|EmbeddingGemma((source link) a new open embedding…]]
+- Earlier: 2025-09-05 · Devin · [[Changes/Devin/2025-09-05-various-reliability-performance-and-usability-improvements-across-the-app|Various reliability, performance, and usability improvements across the app]]
 - Later: 2025-09-09 · Open WebUI · [[Changes/Open WebUI/2025-09-09-5-reliability-and-performance-changes-in-v0-6-27|5 Reliability and Performance changes in v0.6.27]]
 <!-- chronolog:end -->
 

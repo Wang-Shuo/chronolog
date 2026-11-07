@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 53abffe04d90e02ed70003027d4dca807be9f90a1c5af1f9578237a9d8a8d1d2
+machine_hash: 1f742e94001b0ec4baee71b921bf4f031b21ac861f3281ea0c2baf8b94bb6565
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,12 +51,12 @@ record:
   title: 3 Interface Experience changes in v2.1.271
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-11-3-interface-experience-changes-in-v2-1-269|3 Interface
-  Experience changes in v2.1.269]]'
-- '[[Changes/Lovable/2026-09-11-preview-a-remixable-project-without-signing-in|Preview
-  a remixable project without signing in]]'
 - '[[Changes/OpenClaw/2026-09-11-5-interface-experience-changes-in-v2026-9-4|5 Interface
   Experience changes in v2026.9.4]]'
+- '[[Changes/Raycast/2026-09-11-2-interface-experience-changes-in-raycast-windows-2-3|2
+  Interface Experience changes in Raycast windows 2.3]]'
+- '[[Changes/Raycast/2026-09-11-2-interface-experience-changes-in-raycast-macos-2-3|2
+  Interface Experience changes in Raycast macos 2.3]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-14-v2-1-271-github-388664071-570fd44f|claude-code-2026-09-14-v2-1-271-github-388664071-570fd44f]]'
 source_type: github_releases
 theme: interface-experience
@@ -102,7 +102,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.271
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-09-11 · OpenClaw · [[Changes/OpenClaw/2026-09-11-5-interface-experience-changes-in-v2026-9-4|5 Interface Experience changes in v2026.9.4]]
+- Earlier: 2026-09-11 · Raycast · [[Changes/Raycast/2026-09-11-2-interface-experience-changes-in-raycast-macos-2-3|2 Interface Experience changes in Raycast macos 2.3]]
 - Later: 2026-09-14 · Kimi Code · [[Changes/Kimi Code/2026-09-14-delete-sessions-from-the-session-picker-press-ctrl-x-on-a-session-then-y-to-conf|Delete sessions from the session picker: press Ctrl+X on a session, then y to confirm]]
 <!-- chronolog:end -->
 

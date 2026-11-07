@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b62f5ada5c73e430de416b67d3d13713694438dc82afb4f955a03b67209f5efe
+machine_hash: 5a06202b17cc9ac0ff2b589e58d8a601a44c04eddc6c2b79472960e24b53db8b
 product: open-webui
 product_name: Open WebUI
 record:
@@ -90,7 +90,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.8.10
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-03-09 · Google Antigravity · [[Changes/Google Antigravity/2026-03-09-stability-and-ui-improvements|Stability and UI improvements]]
-- Later: 2026-03-09 · Windsurf · [[Changes/Windsurf/2026-03-09-stability-performance|Stability & Performance]]
+- Later: 2026-03-09 · Raycast · [[Changes/Raycast/2026-03-09-system-improved-app-launch-times-up-to-10-faster-on-lower-end-systems|System : Improved app launch times, up to 10× faster on lower-end systems]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

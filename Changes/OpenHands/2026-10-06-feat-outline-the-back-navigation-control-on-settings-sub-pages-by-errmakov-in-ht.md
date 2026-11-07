@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: bf61de833afbbe6d3b74f59b2732d617b7f7576b485a944ae5735c5abd77e741
+machine_hash: 3d83df987ee87e836d4bcd03d8a5a99b1e78be6c827f75372edb89593c75ce78
 product: openhands
 product_name: OpenHands
 record:
@@ -42,10 +42,10 @@ record:
   title: 'feat: outline the back navigation control on settings sub-pages'
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-10-03-session-assignment-moving-the-pointer-over-assign-to-and-then-pressing-enter-now|Session
-  assignment]]'
-- '[[Changes/GitHub Copilot CLI/2026-10-05-add-a-pre-conversation-ctrl-e-environment-picker-to-switch-between-local-and-clo|Add
-  a pre-conversation Ctrl+E environment picker to switch between local and cloud runs]]'
+- '[[Changes/Raycast/2026-10-05-2-interface-experience-changes-in-raycast-windows-2-6|2
+  Interface Experience changes in Raycast windows 2.6]]'
+- '[[Changes/Raycast/2026-10-05-3-interface-experience-changes-in-raycast-macos-2-6|3
+  Interface Experience changes in Raycast macos 2.6]]'
 - '[[Changes/Claude Code/2026-10-06-improved-the-focus-tip-it-now-invites-you-to-try-focus-view-mid-turn-and-shows-h|Improved
   the /focus tip]]'
 source_release: '[[Releases/OpenHands/openhands-2026-10-06-v1-25-0-github-404205170-7fe522ed|openhands-2026-10-06-v1-25-0-github-404205170-7fe522ed]]'

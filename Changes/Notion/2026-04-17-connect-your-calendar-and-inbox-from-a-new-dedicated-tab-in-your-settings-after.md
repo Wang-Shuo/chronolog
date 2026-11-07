@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 09d3f0c7eaf2d95aabb1003094dc22ef65942056d43487f4b7903fa90ca6010c
+machine_hash: d432c0e0e312b7bb8873cf4f03b02147c8307c5fffb615d9c4566e34fd7da222
 product: notion
 product_name: Notion
 record:
@@ -78,7 +78,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-04-17 · Claude Code · [[Changes/Claude Code/2026-04-17-remote-control-clients-can-now-query-file-autocomplete-suggestions|Remote Control clients can now query @-file autocomplete suggestions]]
-- Later: 2026-04-19 · OpenCode · [[Changes/OpenCode/2026-04-19-core-fix-github-copilot-anthropic-haiku-requests-by-disabling-unsupported-tool-s|Core Fix GitHub Copilot Anthropic Haiku requests by disabling unsupported tool streaming]]
+- Later: 2026-04-17 · Recraft · [[Changes/Recraft/2026-04-17-edit-images-with-ai-directly-in-your-browser-from-any-webpage-generate-visuals-r|Edit images with AI directly in your browser, from any webpage]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

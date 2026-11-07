@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: bb78648159dfbde20f87e95079f071f950ea2de58b32e9d1aa2fe5d2737aeff4
+machine_hash: 46c38e31496abee922fdea1f2fd6c2347e4c7f167151944c99d72b8d4c7d87b7
 product: openclaw
 product_name: OpenClaw
 record:
@@ -48,8 +48,8 @@ record:
     reports…
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-11-02-3-pricing-model-changes-in-elevenlabs-updates-2026-11-02|3
-  Pricing Model changes in ElevenLabs updates — 2026-11-02]]'
+- '[[Changes/Recraft/2026-11-02-preview-it-on-packaging-apparel-and-storefronts-at-no-extra-generation-cost|Preview
+  it on packaging, apparel, and storefronts at no extra generation cost]]'
 - "[[Changes/Open WebUI/2026-11-03-context-compaction-and-prompt-caching-when-the-same-model-handles-the-conversati|\U0001F9E0
   Context compaction and prompt caching. When the same model handles…]]"
 - '[[Changes/Dify/2026-11-04-3-pricing-model-changes-in-1-19-0|3 Pricing Model changes

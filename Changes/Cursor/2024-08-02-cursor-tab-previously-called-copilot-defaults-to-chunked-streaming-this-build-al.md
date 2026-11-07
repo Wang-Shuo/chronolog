@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ca92c09457f617ea5a2eea9f0966e44634fd6646a8345550cb0a9996436a69e1
+machine_hash: 326a2a30b40f580bee92dd337b9e8e094ef52f11bca331d3ae410bcf9373ab50
 product: cursor
 product_name: Cursor
 record:
@@ -44,11 +44,10 @@ record:
   title: Cursor Tab (previously called Copilot++) defaults to chunked streaming
   type: change
 related_changes:
-- '[[Changes/Aider/2024-07-31-2-editor-experience-changes-in-v0-47-0|2 Editor Experience
-  changes in v0.47.0]]'
 - '[[Changes/Cline/2024-07-31-new-or-edited-files-open-up-in-the-editor-to-more-easily-see-the-changes-claude|New
   or edited files open up in the editor to more easily see the changes Claude Dev
   makes]]'
+- '[[Changes/Raycast/2024-07-31-window-layout-improvements|Window Layout Improvements]]'
 - '[[Changes/Cline/2024-08-01-shows-diff-view-of-new-or-edited-files-right-in-the-editor|Shows
   diff view of new or edited files right in the editor]]'
 source_release: '[[Releases/Cursor/cursor-2024-08-02-0-39-x-https-cursor-com-changelog-0-39-x-db22c405|cursor-2024-08-02-0-39-x-https-cursor-com-changelog-0-39-x-db22c405]]'

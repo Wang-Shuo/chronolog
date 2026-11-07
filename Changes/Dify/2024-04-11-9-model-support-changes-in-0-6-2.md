@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9b253c3c4dceb73dcd272ae14fbd0dfe161226be2ed99b5a9ec22d8d6b36aacd
+machine_hash: 72e228635766e942492f91f4cfebb4033f0d4c99d643a7366b7fe0b3f9f4bd40
 product: dify
 product_name: Dify
 record:
@@ -57,12 +57,11 @@ record:
   title: 9 Model Support changes in 0.6.2
   type: change
 related_changes:
-- '[[Changes/Dify/2024-04-09-2-model-support-changes-in-0-6-1|2 Model Support changes
-  in 0.6.1]]'
 - '[[Changes/Ollama/2024-04-10-6-model-support-changes-in-v0-1-32|6 Model Support
   changes in v0.1.32]]'
 - "[[Changes/Open WebUI/2024-04-10-update-rag-embedding-model-customize-rag-embedding-model-directly-in-document-se|\U0001F50D
   Update RAG Embedding Model]]"
+- '[[Changes/Raycast/2024-04-10-more-ai-models|More AI Models]]'
 source_release: '[[Releases/Dify/dify-2024-04-11-0-6-2-github-150787794-6e4c067b|dify-2024-04-11-0-6-2-github-150787794-6e4c067b]]'
 source_type: github_releases
 theme: model-support
@@ -113,7 +112,7 @@ Source: https://github.com/langgenius/dify/releases/tag/0.6.2
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2024-04-10 · Open WebUI · [[Changes/Open WebUI/2024-04-10-update-rag-embedding-model-customize-rag-embedding-model-directly-in-document-se|🔍 Update RAG Embedding Model]]
+- Earlier: 2024-04-10 · Raycast · [[Changes/Raycast/2024-04-10-more-ai-models|More AI Models]]
 - Later: 2024-04-12 · Cursor · [[Changes/Cursor/2024-04-12-new-gpt-4-model-as-of-a-couple-of-days-ago-you-can-try-out-gpt-4-turbo-2024-04-0|New GPT-4 model: As of a couple of days ago, you can try out gpt-4-turbo-2024-04-09…]]
 <!-- chronolog:end -->
 

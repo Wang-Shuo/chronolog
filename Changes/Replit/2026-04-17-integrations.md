@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 9814aa68696462fc12b814f4bb65bad343cdc763d05c04681ab5499f7d61f471
+machine_hash: 6c1c1e5ebc7b806bc01807fc8955cc83f5afe75020a6de4eaf0eb92512665dae
 product: replit
 product_name: Replit
 record:
@@ -39,12 +39,12 @@ record:
   title: Integrations
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-04-16-2-apps-and-integrations-changes-in-v0-21-0|2 Apps and
-  Integrations changes in v0.21.0]]'
-- '[[Changes/OpenCode/2026-04-16-2-apps-and-integrations-changes-in-v1-4-7|2 Apps
-  and Integrations changes in v1.4.7]]'
 - '[[Changes/OpenCode/2026-04-17-core-let-plugin-tools-return-metadata-in-execute-results|Core
   Let plugin tools return metadata in execute results]]'
+- '[[Changes/Recraft/2026-04-17-we-ve-added-recraft-plugins-for-figma-framer-and-chrome-generate-visuals-edit-im|Recraft
+  adds Recraft plugins for Figma, Framer, and Chrome]]'
+- '[[Changes/Recraft/2026-04-17-framer-plugin-https-www-framer-com-marketplace-plugins-recraft|Framer
+  plugin((source link)]]'
 source_release: '[[Releases/Replit/replit-2026-04-17-2026-04-17-97599a7a|replit-2026-04-17-2026-04-17-97599a7a]]'
 source_type: replit_changelog
 theme: apps-integrations
@@ -79,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-04-17 · OpenCode · [[Changes/OpenCode/2026-04-17-core-let-plugin-tools-return-metadata-in-execute-results|Core Let plugin tools return metadata in execute results]]
+- Earlier: 2026-04-17 · Recraft · [[Changes/Recraft/2026-04-17-framer-plugin-https-www-framer-com-marketplace-plugins-recraft|Framer plugin((source link)]]
 - Later: 2026-04-19 · OpenCode · [[Changes/OpenCode/2026-04-19-2-apps-and-integrations-changes-in-v1-14-18-1|2 Apps and Integrations changes in v1.14.18 + 1]]
 <!-- chronolog:end -->
 

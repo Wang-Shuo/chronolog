@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 273c0bc523c4f348eb78ff3df70cec005682408ca1a1e93c522e495178ec692a
+machine_hash: 96c8a88f1331b2d44e08759da8dcf5a1e2c746cd17b614e69e414b45a9285c64
 product: open-webui
 product_name: Open WebUI
 record:
@@ -44,8 +44,8 @@ record:
   title: '**⏳ RAG Query Generation Issue**'
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2024-11-19-duckduckgo-rate-limit-fix-addressed-issues-with-duckduckgo-search-integration-en|\U0001F50D
-  DuckDuckGo Rate Limit Fix]]"
+- '[[Changes/Superwhisper/2024-11-19-stability-improvements-for-silence-removal|Stability
+  improvements for silence removal]]'
 - '[[Changes/Ollama/2024-11-20-improved-performance-issues-that-occurred-in-ollama-versions-0-4-0-0-4-2|Improved
   performance issues that occurred in Ollama versions 0.4.0-0.4.2]]'
 - '[[Changes/Open WebUI/2024-11-22-faster-model-retrieval-implemented-caching-optimizations-for-faster-model-loadin|⚡

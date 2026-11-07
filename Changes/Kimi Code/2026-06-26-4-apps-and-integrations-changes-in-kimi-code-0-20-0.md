@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: abbcad4957bfc61a37897753412404101c02be002c818a4c191230b61994669e
+machine_hash: 3b19ae5e4df7b6c201f2d7306e65385f81f0581071db888239a5e0735e65daca
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -53,10 +53,10 @@ record:
   title: 4 Apps and Integrations changes in Kimi Code 0.20.0
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-06-25-docs-redesign-docs-landing-and-integrations-overview-by-hoyyeva-in-https-github|docs:
-  redesign docs landing and integrations overview]]'
 - '[[Changes/Cline/2026-06-26-13-apps-and-integrations-changes-in-v4-0-0|13 Apps and
   Integrations changes in v4.0.0]]'
+- '[[Changes/Devin/2026-06-26-mcp-installation-out-of-date-banner|MCP "Installation
+  Out of Date" Banner]]'
 - '[[Changes/Kimi Code/2026-06-26-plugins-now-support-declaring-lifecycle-hooks-in-kimi-plugin-json-to-run-scripts|Plugins
   now support declaring lifecycle hooks in kimi.plugin.json to run scripts…]]'
 source_release: '[[Releases/Kimi Code/kimi-code-2026-06-26-0-20-0-920cae87|kimi-code-2026-06-26-0-20-0-920cae87]]'

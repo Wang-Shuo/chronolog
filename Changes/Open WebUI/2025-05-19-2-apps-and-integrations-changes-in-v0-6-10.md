@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 73eb4783cc3de3bdcc868efe9bec9216d89117833ee9ab5bd1ba34469943f21b
+machine_hash: 5870a2d79ff8ecb569ae1c886f4d790e9219da5ece878960da601ff139bba313
 product: open-webui
 product_name: Open WebUI
 record:
@@ -48,8 +48,8 @@ record:
   title: 2 Apps and Integrations changes in v0.6.10
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-05-15-refreshed-inline-edit-cmd-ctrl-k-with-agent-integration|Refreshed
-  Inline Edit (Cmd/Ctrl+K) with Agent integration]]'
+- '[[Changes/Devin/2025-05-15-upgrades-to-linear-jira-integrations|Upgrades to Linear
+  & Jira Integrations]]'
 - '[[Changes/Dify/2025-05-15-5-apps-and-integrations-changes-in-1-4-0|5 Apps and Integrations
   changes in 1.4.0]]'
 - '[[Changes/Cline/2025-05-16-add-tailwind-css-intellisense-to-the-recommended-extensions-list|Add
@@ -97,7 +97,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.6.10
 ## Nearby in Apps and Integrations
 
 - Earlier: 2025-05-16 · Cline · [[Changes/Cline/2025-05-16-add-tailwind-css-intellisense-to-the-recommended-extensions-list|Add Tailwind CSS IntelliSense to the recommended extensions list]]
-- Later: 2025-05-22 · Cline · [[Changes/Cline/2025-05-22-add-integration-with-nebius-ai-studio-as-a-new-provider-thanks-aktsvigun|Add integration with Nebius AI Studio as a new provider (Thanks @Aktsvigun!)]]
+- Later: 2025-05-21 · Raycast · [[Changes/Raycast/2025-05-21-4-apps-and-integrations-changes-in-raycast-macos-v1-1-99-0|4 Apps and Integrations changes in Raycast macos-v1 1.99.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

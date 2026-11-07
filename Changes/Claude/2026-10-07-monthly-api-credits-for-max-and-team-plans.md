@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: ce96ecd3bab5e923a7ba2b4f9026105d7e6e81067f17cd788e960e8c54920ab2
+machine_hash: e82a3ae4dc8ecad290460fa3b07f5e39aa38d29d587cec692495215cb0971f41
 product: claude
 product_name: Claude
 record:
@@ -49,10 +49,9 @@ record:
   title: Monthly API credits for Max and Team plans
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-01-49130-move-content-filter-guidance-into-the-shared-responses-retry-handler-won-o|♯49130
-  Move content-filter guidance into the shared Responses retry handler @won-openai]]'
-- '[[Changes/Synthesia/2026-10-01-automatically-label-every-video-your-team-creates-as-ai-generated-so-you-can-mee|Label
-  every video with an AI content watermark]]'
+- '[[Changes/Devin/2026-10-02-microsoft-teams-access-settings-are-enforced|Microsoft
+  Teams Access Settings Are Enforced]]'
+- '[[Changes/Devin/2026-10-05-microsoft-teams-improvements|Microsoft Teams Improvements]]'
 - '[[Changes/v0/2026-10-06-personal-v0-accounts-are-now-team-workspaces-giving-everyone-access-to-v0-s-coll|Personal
   accounts are now team workspaces]]'
 source_release: '[[Releases/Claude/claude-2026-10-07-2026-10-07-b6b5dd50|claude-2026-10-07-2026-10-07-b6b5dd50]]'

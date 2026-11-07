@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 66a0791934c1eb5b1ffc4dd5278ad30a03b339cb88e920caecbd86c4d072eda2
+machine_hash: ff9da10742eb056a96da7afd98cbb3fc0b860b24bfb64704574ea7859f10ac28
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -61,7 +61,8 @@ record:
   title: Advanced Voice for ChatGPT Web
   type: change
 related_changes:
-- '[[Changes/Suno/2024-10-16-download-suno-on-ios|Download Suno on iOS]]'
+- '[[Changes/Raycast/2024-11-06-misc-addressed-the-issue-with-macos-sequoia-15-0-beta-1-to-4-and-15-1-beta-1-whe|Misc:
+  Addressed the issue with macOS Sequoia 15.0 Beta 1 to 4 and 15.1 Beta 1, where…]]'
 - '[[Changes/Suno/2024-11-07-the-wait-is-almost-over-we-re-thrilled-to-announce-that-suno-is-coming-to-androi|Suno
   on Android is finally open to pre-registration!]]'
 - '[[Changes/Gemini/2024-11-14-try-the-new-gemini-app-on-your-iphone|Try the new Gemini

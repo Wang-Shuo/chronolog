@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: ee5d78b23acd4f0db0d60f10ef7e2557d60017bd9f29f7c81e02d11d3fd101c9
+machine_hash: 647808822fdece73a960422f947c3e025ed76d86cdc9e71899999737661d1d4f
 product: gemini
 product_name: Gemini
 record:
@@ -56,10 +56,10 @@ record:
   title: '3.6 Flash: An upgraded model for your daily life'
   type: change
 related_changes:
-- '[[Changes/Kimi Code/2026-07-20-2-model-support-changes-in-kimi-code-0-28-0|2 Model
-  Support changes in Kimi Code 0.28.0]]'
 - '[[Changes/OpenCode/2026-07-20-3-model-support-changes-in-v1-18-4|3 Model Support
   changes in v1.18.4]]'
+- '[[Changes/Superwhisper/2026-07-20-experimental-s1-mini-model-and-tone-settings-for-more-control-over-your-transcri|Experimental
+  S1-mini model and Tone settings for more control over your transcriptions]]'
 - '[[Changes/Codex CLI/2026-07-21-22-model-support-changes-in-rust-v0-145-0|22 Model
   Support changes in rust-v0.145.0]]'
 source_release: '[[Releases/Gemini/gemini-2026-07-21-2026-07-21-009a4b0a|gemini-2026-07-21-2026-07-21-009a4b0a]]'

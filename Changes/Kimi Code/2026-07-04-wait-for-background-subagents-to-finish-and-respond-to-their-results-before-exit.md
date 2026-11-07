@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1dbff1a8af7adf77ddadf925cf6bafc3cf0117d0dac454c82940a37f955aef28
+machine_hash: eb96d6c512e231ec97f6aad45f149894b8c0f65a93f131b938a39f7aa6441633
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -45,8 +45,8 @@ record:
     exiting…
   type: change
 related_changes:
-- '[[Changes/Runway/2026-07-02-introducing-agent-skills-build-an-ad-campaign-create-a-commercial-localize-your|Runway
-  Agent Skills]]'
+- '[[Changes/Devin/2026-07-03-slack-agent-renamed-to-normal|Slack !agent Renamed to
+  !normal]]'
 - '[[Changes/Kimi Code/2026-07-03-2-agent-mode-changes-in-kimi-code-0-22-2|2 Agent
   Mode changes in Kimi Code 0.22.2]]'
 - '[[Changes/Replit/2026-07-03-sell-in-your-app-with-whop|Sell in your app with Whop]]'

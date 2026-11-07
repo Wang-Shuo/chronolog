@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c2e97768310b71f935c74f0b362b000f747befb7c22b9565bb835440b6ead8f7
+machine_hash: 2ef84297c0869f4ce5e2cdcfdf43ad8586dd0856dfecb7d0f42d3b06a962ba82
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2025-04-28 · Dify · [[Changes/Dify/2025-04-28-chore-disabled-struct-output-not-show-model-not-support-warning-by-iamjoel-in-ht|chore: disabled struct output not show model not support warning]]
-- Later: 2025-04-30 · Midjourney · [[Changes/Midjourney/2025-04-30-new-v7-image-model-update|New V7 image model update]]
+- Later: 2025-04-29 · Superwhisper · [[Changes/Superwhisper/2025-04-29-background-model-loading-nova-3-fixes|Background Model Loading & Nova 3 Fixes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

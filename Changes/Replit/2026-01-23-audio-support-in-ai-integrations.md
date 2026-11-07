@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: d085691c6f06d0bd5d589ff232168146295962503006681e1c8fbba15df33b44
+machine_hash: 44c335a811d30ee0d5fd08fcc4d04abee9d87a783453b0e1bed85d0a63cc8eeb
 product: replit
 product_name: Replit
 record:
@@ -64,11 +64,12 @@ record:
   title: Audio support in AI integrations
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-01-19-javascript-sdk|JavaScript SDK]]'
 - '[[Changes/ChatGPT/2026-01-20-we-re-making-an-update-to-chatgpt-voice-for-paid-users-that-improves-its-ability|Voice
   Updates]]'
 - '[[Changes/HeyGen/2026-01-20-voice-delivery-controls-access-voice-director-voice-mirroring-and-enhance-voice|Voice
   delivery controls]]'
+- '[[Changes/Raycast/2026-01-23-keyboard-make-sure-last-ai-command-used-is-remembered-dictation|Keyboard:
+  Make sure last AI Command used is remembered dictation]]'
 source_release: '[[Releases/Replit/replit-2026-01-23-2026-01-23-0f161827|replit-2026-01-23-2026-01-23-0f161827]]'
 source_type: replit_changelog
 theme: voice
@@ -104,8 +105,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-01-20 · HeyGen · [[Changes/HeyGen/2026-01-20-voice-delivery-controls-access-voice-director-voice-mirroring-and-enhance-voice|Voice delivery controls]]
-- Later: 2026-01-25 · OpenCode · [[Changes/OpenCode/2026-01-25-desktop-add-state-to-pause-existing-audio-for-demo-menus-and-add-support-for-aud|Desktop Add state to pause existing audio for demo menus and add support for audio…]]
+- Earlier: 2026-01-23 · Raycast · [[Changes/Raycast/2026-01-23-keyboard-make-sure-last-ai-command-used-is-remembered-dictation|Keyboard: Make sure last AI Command used is remembered dictation]]
+- Later: 2026-01-23 · Superwhisper · [[Changes/Superwhisper/2026-01-23-new-parakeet-realtime|New Parakeet Realtime]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

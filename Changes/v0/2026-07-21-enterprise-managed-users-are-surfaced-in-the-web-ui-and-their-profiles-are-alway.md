@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 61d5edc726ac7d7dc60e4ccd3124e9ab65a1165c3c391d6170ca1d3765c6eceb
+machine_hash: d9fc98952de42b2b62c16cb154a0c146df22c3527a0a3387e043ae74d52cf54d
 product: v0
 product_name: v0
 record:
@@ -44,8 +44,8 @@ record:
     always private
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-15-changed-usage-credits-to-ask-for-confirmation-before-sending-a-request-to-organi|Changed
-  /usage-credits to ask for confirmation before sending a request…]]'
+- '[[Changes/Devin/2026-07-15-interactive-acu-chart-legends|Interactive ACU Chart
+  Legends]]'
 - '[[Changes/Microsoft 365 Copilot/2026-07-15-admins-can-manage-access-more-precisely-with-support-for-nested-permissions-in-c|Admins
   can manage access more precisely with support for nested permissions…]]'
 - '[[Changes/Dify/2026-07-17-2-enterprise-and-administration-changes-in-1-16-0|2 Enterprise

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 34d3e38515b0ea2e8bd99e9519e6b6723fdc25c9e92f9ff821bce406a12b72b3
+machine_hash: 675493cc03bf488c89d4b0888955af31f33fe33251690206a4c6846fb079c139
 product: claude-code
 product_name: Claude Code
 record:
@@ -58,11 +58,12 @@ record:
     instead…
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-02-23-opus-4-6|Opus 4.6]]'
 - "[[Changes/Open WebUI/2026-02-23-model-access-keyerror-fix-the-api-models-endpoint-no-longer-crashes-with-a-500-e|\U0001F6AB
   Model access KeyError fix. The /api/models endpoint no longer crashes…]]"
 - '[[Changes/Open WebUI/2026-02-23-16-model-support-changes-in-v0-8-4|16 Model Support
   changes in v0.8.4]]'
+- '[[Changes/Superwhisper/2026-02-23-added-search-field-to-language-model-dropdown|Added
+  search field to language model dropdown]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-24-v2-1-51-github-289665343-b4bbdd9c|claude-code-2026-02-24-v2-1-51-github-289665343-b4bbdd9c]]'
 source_type: github_releases
 theme: model-support
@@ -94,7 +95,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-02-23 · Open WebUI · [[Changes/Open WebUI/2026-02-23-16-model-support-changes-in-v0-8-4|16 Model Support changes in v0.8.4]]
+- Earlier: 2026-02-23 · Superwhisper · [[Changes/Superwhisper/2026-02-23-added-search-field-to-language-model-dropdown|Added search field to language model dropdown]]
 - Later: 2026-02-24 · Cline · [[Changes/Cline/2026-02-24-added-codex-5-3-model-support|Added Codex 5.3 model support]]
 <!-- chronolog:end -->
 

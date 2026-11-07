@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: b8da541bba19d663b97431c2a6c019dfc40fd79ea3bbe3574af60feecb446c0b
+machine_hash: 3cc8860b6f82939c91011a54f45b13149beaa3544286cd5244d54bdf88bfed3e
 product: lovable
 product_name: Lovable
 record:
@@ -50,8 +50,8 @@ record:
   title: Edit images directly in the Files tab
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-09-3-editor-experience-changes-in-v2-1-296|3 Editor
-  Experience changes in v2.1.296]]'
+- '[[Changes/Devin/2026-10-09-transcript-diff-cards-for-large-edits|Transcript diff
+  cards for large edits]]'
 - '[[Changes/Open WebUI/2026-10-10-21-editor-experience-changes-in-v0-12-0|21 Editor
   Experience changes in v0.12.0]]'
 - '[[Changes/OpenClaw/2026-10-10-10-editor-experience-changes-in-v2026-10-1|10 Editor

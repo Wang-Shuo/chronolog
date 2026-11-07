@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8d1b1497b7d6b03ea08710bedca830ea45f13e28f92e327347c1733a875d290c
+machine_hash: 624d3f1c2dc4c9c58102380ccf626b6f27733fc867205be9c4fff99fcd1b2c68
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -51,10 +51,9 @@ record:
     you'll…
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-08-21-nicer-error-messages-in-the-chat-fewer-annoying-popups-782655|Nicer
-  error messages in the chat!]]'
 - '[[Changes/Cursor/2023-08-22-nicer-error-messages-in-the-chat-fewer-annoying-popups-7d864e|Nicer
   error messages in the chat!]]'
+- '[[Changes/Superwhisper/2023-08-25-onboarding-flow|Onboarding flow]]'
 - '[[Changes/Cursor/2023-08-30-you-can-now-switch-to-the-vs-code-sidebar-orientation|Switch
   to the VS Code sidebar orientation]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2023-09-11-chatgpt-language-support-alpha-on-web-2a9614e3|chatgpt-2023-09-11-chatgpt-language-support-alpha-on-web-2a9614e3]]'
@@ -87,7 +86,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2023-08-30 · Cursor · [[Changes/Cursor/2023-08-30-you-can-now-switch-to-the-vs-code-sidebar-orientation|Switch to the VS Code sidebar orientation]]
-- Later: 2023-09-19 · Dify · [[Changes/Dify/2023-09-19-mermaid-front-end-rendering-by-charli117-in-https-github-com-langgenius-dify-pul|Mermaid front end rendering]]
+- Later: 2023-09-14 · Superwhisper · [[Changes/Superwhisper/2023-09-14-scroll-only-follows-arrow-key-selection|Scroll only follows arrow key selection]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

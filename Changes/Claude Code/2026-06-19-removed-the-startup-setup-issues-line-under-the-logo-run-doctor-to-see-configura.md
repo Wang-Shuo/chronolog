@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 92a176faea6eaa15d9b8a4af6d30dda6f199f9dc88fc98aa0e50d2a5d52c4c3a
+machine_hash: 1dee8a34fe4b97a6a3c944b5dd2b48eef0678792b25d89391ce8e1dcbfed5e82
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,11 +44,12 @@ record:
   title: Removed the startup "setup issues" line under the logo
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-06-17-cloud-environment-setup-8a7697|Cloud environment setup]]'
 - '[[Changes/Kimi Code/2026-06-17-skip-debug-tps-when-the-output-stream-is-too-short-to-measure-reliably|Skip
   debug TPS when the output stream is too short to measure reliably]]'
 - '[[Changes/Codex CLI/2026-06-18-7-developer-workflow-changes-in-rust-v0-141-0|7
   Developer Workflow changes in rust-v0.141.0]]'
+- '[[Changes/Raycast/2026-06-18-ai-extensions-use-built-in-ai-extensions-like-file-explorer-selected-text-termin|AI
+  Extensions : Use built-in AI extensions like @file-explorer , @selected-text…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-19-v2-1-183-github-341696059-98586912|claude-code-2026-06-19-v2-1-183-github-341696059-98586912]]'
 source_type: github_releases
 theme: developer-workflow
@@ -81,7 +82,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-06-18 · Codex CLI · [[Changes/Codex CLI/2026-06-18-7-developer-workflow-changes-in-rust-v0-141-0|7 Developer Workflow changes in rust-v0.141.0]]
+- Earlier: 2026-06-18 · Raycast · [[Changes/Raycast/2026-06-18-ai-extensions-use-built-in-ai-extensions-like-file-explorer-selected-text-termin|AI Extensions : Use built-in AI extensions like @file-explorer , @selected-text…]]
 - Later: 2026-06-21 · OpenCode · [[Changes/OpenCode/2026-06-21-terminal-only-show-the-background-subagent-shortcut-when-the-server-supports-it|Terminal Only show the background subagent shortcut when the server supports it]]
 <!-- chronolog:end -->
 

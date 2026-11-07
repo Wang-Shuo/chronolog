@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8adbfdf144721bfb0d5f0c4428e72dc31932fa70105b9841b46d24e294c204d8
+machine_hash: 50986baca5da7045db6810d7753fc07bc638a9bf77878afb12fb7d9e12b500f8
 product: ollama
 product_name: Ollama
 record:
@@ -79,7 +79,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2024-02-20 · Descript · [[Changes/Descript/2024-02-20-quick-recorder-issues-when-using-screen-time-on-macos|Quick Recorder issues when using Screen Time on MacOS]]
-- Later: 2024-02-22 · Ollama · [[Changes/Ollama/2024-02-22-reduced-likelihood-of-false-positive-windows-defender-alerts-on-windows|Reduced likelihood of false positive Windows Defender alerts on Windows]]
+- Later: 2024-02-21 · Raycast · [[Changes/Raycast/2024-02-21-clipboard-history-added-a-new-action-to-share-an-item-with-the-native-macos-shar|Clipboard History : Added a new action to share an item with the native macOS Share…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

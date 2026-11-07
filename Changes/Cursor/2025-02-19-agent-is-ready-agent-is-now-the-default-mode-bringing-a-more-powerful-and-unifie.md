@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: ddf3518bd78f9cbab245b1cdc7f6fa4fb18ecca50e822fd16fdf9d3afef93ac2
+machine_hash: d751d40da403f2f84b54959cb5fca6c01253b0883cda83c7ae492b96f1b896b6
 product: cursor
 product_name: Cursor
 record:
@@ -48,9 +48,10 @@ record:
     and unified…'
   type: change
 related_changes:
-- '[[Changes/Replit/2025-02-14-agent-updates|Agent updates]]'
 - '[[Changes/ElevenLabs/2025-02-17-agents-platform|Agents Platform]]'
 - '[[Changes/ElevenLabs/2025-02-17-api|API]]'
+- '[[Changes/AnythingLLM/2025-02-18-2-agent-mode-changes-in-v1-7-4|2 Agent Mode changes
+  in v1.7.4]]'
 source_release: '[[Releases/Cursor/cursor-2025-02-19-0-46-x-https-cursor-com-changelog-0-46-x-640a0a10|cursor-2025-02-19-0-46-x-https-cursor-com-changelog-0-46-x-640a0a10]]'
 source_type: cursor_changelog
 theme: agent-mode
@@ -90,7 +91,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2025-02-17 · ElevenLabs · [[Changes/ElevenLabs/2025-02-17-api|API]]
+- Earlier: 2025-02-18 · AnythingLLM · [[Changes/AnythingLLM/2025-02-18-2-agent-mode-changes-in-v1-7-4|2 Agent Mode changes in v1.7.4]]
 - Later: 2025-02-21 · Replit · [[Changes/Replit/2025-02-21-improved-international-character-support-in-screenshots|Improved international character support in screenshots]]
 <!-- chronolog:end -->
 

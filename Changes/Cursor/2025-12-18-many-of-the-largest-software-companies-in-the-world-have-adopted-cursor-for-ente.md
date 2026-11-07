@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: c768eebe6cfa89f7040409f934b0209ee2c8bec325bd752acbcd387ed44afc3b
+machine_hash: f6d9a9bad3a684fc79e8df4e9590158891193f40ad9fbbe0892e128a28a77369
 product: cursor
 product_name: Cursor
 record:
@@ -86,7 +86,7 @@ type: change
 ## Nearby in Enterprise and Administration
 
 - Earlier: 2025-12-18 · Claude · [[Changes/Claude/2025-12-18-claude-in-chrome-updates|Claude in Chrome updates]]
-- Later: 2025-12-20 · Descript · [[Changes/Descript/2025-12-20-new-admin-controls-for-transcription-glossary-and-do-not-translate-lists|New admin controls for transcription glossary and do not translate lists]]
+- Later: 2025-12-19 · Devin · [[Changes/Devin/2025-12-19-enterprise-api-v3-metrics-endpoints|Enterprise API v3 Metrics Endpoints]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: dc94c45c7c9e9b42d6b7623ed30cc7565a3e2c41dc8caa1f4c449ade166734fa
+machine_hash: 424ead51c774d14c2fdf99df6654ae242dd42228bb8989870d1f75c985e1298e
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -47,11 +47,10 @@ record:
   title: 4 Interface Experience changes in v1.0.70
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-07-10-conversation-search-454cae|Conversation search]]'
-- '[[Changes/Cursor/2026-07-10-7-interface-experience-changes-in-side-chats-and-conversation-search|7
-  Interface Experience changes in Side Chats and Conversation Search]]'
 - '[[Changes/Cursor/2026-07-10-redesigned-project-and-repo-pickers|Redesigned project
   and repo pickers]]'
+- '[[Changes/Devin/2026-07-10-streamlined-copy-actions|Streamlined Copy Actions]]'
+- '[[Changes/Devin/2026-07-10-fullscreen-devin-desktop|Fullscreen Devin Desktop]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-07-10-v1-0-70-github-351853788-0192ae35|github-copilot-cli-2026-07-10-v1-0-70-github-351853788-0192ae35]]'
 source_type: github_releases
 theme: interface-experience
@@ -97,7 +96,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.70
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-07-10 · Cursor · [[Changes/Cursor/2026-07-10-redesigned-project-and-repo-pickers|Redesigned project and repo pickers]]
+- Earlier: 2026-07-10 · Devin · [[Changes/Devin/2026-07-10-fullscreen-devin-desktop|Fullscreen Devin Desktop]]
 - Later: 2026-07-10 · Kimi Code · [[Changes/Kimi Code/2026-07-10-2-interface-experience-changes-in-kimi-code-0-23-4|2 Interface Experience changes in Kimi Code 0.23.4]]
 <!-- chronolog:end -->
 

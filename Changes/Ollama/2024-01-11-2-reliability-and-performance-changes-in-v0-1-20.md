@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9a89e122ddcb89c6a30f9b849d45c1f8624a83b858989dc6d48ce53449e11c1b
+machine_hash: 2b12583514b1f70676328e812dd82638a2a3aa3f19a2366a9e7f3bb5b220df97
 product: ollama
 product_name: Ollama
 record:
@@ -84,7 +84,7 @@ Source: https://github.com/ollama/ollama/releases/tag/v0.1.20
 ## Nearby in Reliability and Performance
 
 - Earlier: 2024-01-11 · Dify · [[Changes/Dify/2024-01-11-web-bump-next-js-to-14-0-for-faster-local-server-startup-by-bowenliang123-in-htt|web: bump Next.js to 14.0 for faster local server startup]]
-- Later: 2024-01-20 · Ollama · [[Changes/Ollama/2024-01-20-2-reliability-and-performance-changes-in-v0-1-21|2 Reliability and Performance changes in v0.1.21]]
+- Later: 2024-01-12 · Superwhisper · [[Changes/Superwhisper/2024-01-12-5x-faster-model-download-speeds-globally|5x faster model download speeds globally]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

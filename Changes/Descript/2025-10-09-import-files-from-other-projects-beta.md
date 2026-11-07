@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 284e8064e7cbf99f4969533f97a9ee7885d77466b8bae235546cd3317814353f
+machine_hash: 58ef6608448de18fbe69fd76f2b24878a74dcaa603b05319cbf82dfd16e352fc
 product: descript
 product_name: Descript
 record:
@@ -112,7 +112,7 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2025-10-07 · Open WebUI · [[Changes/Open WebUI/2025-10-07-azure-text-to-speech-now-properly-escapes-special-characters-like-ampersands-in|🔊 Azure Text-to-Speech now properly escapes special characters like ampersands…]]
-- Later: 2025-10-23 · Descript · [[Changes/Descript/2025-10-23-welsh-transcription-now-available-in-beta|Welsh transcription now available in Beta]]
+- Later: 2025-10-14 · Raycast · [[Changes/Raycast/2025-10-14-custom-keyboard|Custom Keyboard]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

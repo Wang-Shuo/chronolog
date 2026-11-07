@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: ce383f754b4f3daf5868d6ab2889839e0c73f9775955cbf6c5978a78628fddfa
+machine_hash: 1c00acdbba6221b2157a16b08f2946f607ce87b5f0f1e772c45306de6e7b6d3c
 product: opencode
 product_name: OpenCode
 record:
@@ -42,10 +42,8 @@ record:
   title: Export AI SDK telemetry spans to OTLP trace backends
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-15-4-apps-and-integrations-changes-in-v2-1-110|4
-  Apps and Integrations changes in v2.1.110]]'
-- '[[Changes/Codex CLI/2026-04-15-9-apps-and-integrations-changes-in-rust-v0-121-0|9
-  Apps and Integrations changes in rust-v0.121.0]]'
+- '[[Changes/Devin/2026-04-15-granola-mcp-server|Granola MCP Server]]'
+- '[[Changes/Devin/2026-04-15-datadog-remote-mcp-server|Datadog Remote MCP Server]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-15-add-copilot-plugin-marketplace-update-command-to-refresh-plugin-catalogs|Add
   copilot plugin marketplace update command to refresh plugin catalogs]]'
 source_release: '[[Releases/OpenCode/opencode-2026-04-15-v1-4-5-b9d5e6e9|opencode-2026-04-15-v1-4-5-b9d5e6e9]]'

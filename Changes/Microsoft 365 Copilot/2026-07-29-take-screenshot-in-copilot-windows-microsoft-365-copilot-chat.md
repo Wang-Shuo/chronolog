@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: e1d5e124eb11bb63a62e19db86d374805db7299c9979c329143b8f2672a389b1
+machine_hash: aa4ff2072bafb978de83496c1ada539306f1e3ee37c1dffb93dca6f710a26e06
 product: microsoft-365-copilot
 product_name: Microsoft 365 Copilot
 record:
@@ -46,8 +46,8 @@ record:
   title: Take Screenshot in Copilot [Windows] (Microsoft 365 Copilot Chat)
   type: change
 related_changes:
-- '[[Changes/Dify/2026-07-28-refactor-agents-simplify-repository-context-by-lyzno1-in-https-github-com-langge|refactor(agents):
-  simplify repository context]]'
+- '[[Changes/Raycast/2026-07-28-ai-improved-context-handling-for-tools-and-large-chats-which-should-solve-a-few|AI:
+  Improved context handling for tools and large chats, which should solve a few…]]'
 - '[[Changes/Codex CLI/2026-07-29-5-context-window-changes-in-rust-v0-146-0|5 Context
   Window changes in rust-v0.146.0]]'
 - '[[Changes/Microsoft 365 Copilot/2026-07-29-lists-in-context-iq-web-microsoft-365-copilot-chat|Lists

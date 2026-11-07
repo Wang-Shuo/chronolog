@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: aa6fdb8adcd2ff95422b74c67ef65659d0d31993c3790f77322d37fc266f9344
+machine_hash: 5837da26e6cd8cdfa8baabf9a77988320479bc6df5c15dbf800aa49886660a96
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -114,7 +114,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.154.0
 ## Nearby in Collaboration
 
 - Earlier: 2026-09-09 · ChatGPT · [[Changes/ChatGPT/2026-09-09-library-sharing-lets-you-share-files-and-folders-in-chatgpt-choose-who-can-acces|Library sharing lets you share files and folders in ChatGPT, choose who can access…]]
-- Later: 2026-09-10 · Dify · [[Changes/Dify/2026-09-10-3-collaboration-changes-in-1-17-1|3 Collaboration changes in 1.17.1]]
+- Later: 2026-09-09 · Devin · [[Changes/Devin/2026-09-09-sync-to-teams-from-the-webapp|Sync to Teams from the Webapp]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

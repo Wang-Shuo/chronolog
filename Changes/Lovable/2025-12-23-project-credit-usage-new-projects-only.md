@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: pricing
-machine_hash: 1a5ef952a4c1e9bb68a06209e31903530d1556a02e121635921b087caed2d4e3
+machine_hash: 63022c198a593e41ef75052bb82feaeb83ec2a748746d9126b64f9b24129ed48
 product: lovable
 product_name: Lovable
 record:
@@ -48,7 +48,8 @@ record:
   title: Project credit usage (new projects only)
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2025-12-15-text-to-speech|Text to Speech]]'
+- '[[Changes/Recraft/2025-12-16-flux-2-max-has-been-added-to-recraft-and-is-now-available-for-all-paid-subscribe|New
+  external model: Flux 2 Max]]'
 - '[[Changes/Cursor/2025-12-18-billing-groups|Billing groups]]'
 - '[[Changes/Lovable/2025-12-23-lovable-gift-cards|Lovable gift cards]]'
 source_release: '[[Releases/Lovable/lovable-2025-12-23-2025-12-23-0131be4a|lovable-2025-12-23-2025-12-23-0131be4a]]'

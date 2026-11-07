@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6b50868f928dad75f335b87ede9d9dd17c43cc40c1027c1b18cb032381f0184e
+machine_hash: 75ce8c5132614c286af797f37a6d77874b594e620161e38fc209966adb651f18
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,8 +51,8 @@ record:
   title: 3 Apps and Integrations changes in v2.1.143
   type: change
 related_changes:
-- '[[Changes/HeyGen/2026-05-13-getting-started-is-easy-go-to-codex-click-on-plugins-type-in-heygen-and-click-ad|Getting
-  started is easy]]'
+- '[[Changes/Raycast/2026-05-13-finally-we-built-search-for-raycast-s-settings-quickly-find-extensions-commands|Finally,
+  we built search for Raycast’s settings]]'
 - '[[Changes/Claude Code/2026-05-14-3-apps-and-integrations-changes-in-v2-1-142|3
   Apps and Integrations changes in v2.1.142]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-14-auto-disable-the-built-in-github-mcp-server-in-azure-devops-only-workspaces-when|Auto-disable

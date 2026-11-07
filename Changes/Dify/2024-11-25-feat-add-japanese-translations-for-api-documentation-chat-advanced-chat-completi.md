@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 03c769309f16d856787aa7a6bc24d4f24123b8cf300beee759b426b92ba1b6ab
+machine_hash: 819759cacb5b69c4415742a6230ab526ffb2037f2ee3d66205296c6bd6d49627
 product: dify
 product_name: Dify
 record:
@@ -41,12 +41,12 @@ record:
   title: 'feat : Add Japanese translations for API documentation: chat, advanced-chat…'
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2024-11-19-auto-selected-tools-in-model-editor-tools-enabled-through-the-model-editor-are-n|\U0001F527
-  Auto-Selected Tools in Model Editor]]"
-- "[[Changes/Open WebUI/2024-11-20-usage-capability-selector-fixed-the-broken-usage-capabilities-selector-in-the-mo|\U0001F527
-  Usage Capability Selector]]"
 - '[[Changes/Aider/2024-11-21-2-editor-experience-changes-in-v0-64-0|2 Editor Experience
   changes in v0.64.0]]'
+- '[[Changes/Devin/2024-11-22-use-macros-to-easily-attach-playbooks-https-docs-devin-ai-product-guides-creatin|Use
+  macros to easily attach…]]'
+- '[[Changes/Devin/2024-11-22-talk-to-devin-from-your-ide-beta-access|Talk to Devin
+  from your IDE (Beta Access)]]'
 source_release: '[[Releases/Dify/dify-2024-11-25-0-12-0-github-187239779-b9caba2f|dify-2024-11-25-0-12-0-github-187239779-b9caba2f]]'
 source_type: github_releases
 theme: editor-experience
@@ -85,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2024-11-21 · Aider · [[Changes/Aider/2024-11-21-2-editor-experience-changes-in-v0-64-0|2 Editor Experience changes in v0.64.0]]
+- Earlier: 2024-11-22 · Devin · [[Changes/Devin/2024-11-22-talk-to-devin-from-your-ide-beta-access|Talk to Devin from your IDE (Beta Access)]]
 - Later: 2024-11-26 · Aider · [[Changes/Aider/2024-11-26-editor-returns-and-prefill-the-file-content-into-the-prompt-so-you-can-use-edito|/editor returns and prefill the file content into the prompt, so you can use…]]
 <!-- chronolog:end -->
 

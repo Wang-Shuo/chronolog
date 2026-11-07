@@ -14,12 +14,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d8143a7ddf61078547581debabf5b4163e00b9c05f89855355bbd78ee7718a7f
+machine_hash: 9865819cd6562bbc65625358f7f7ebe8b8223e14ef00f18770550e296b8cd046
 product: openclaw
 product_name: OpenClaw
 record:
@@ -58,8 +58,8 @@ record:
   title: 5 Account and Access changes in v2026.10.8
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-10-26-oauth-scope-oauth-clients-can-request-the-realtime-translation-scope|OAuth
-  scope: OAuth clients can request the realtime_translation scope]]'
+- '[[Changes/Krea/2026-10-26-try-any-tool-before-signing-up|Try any tool before signing
+  up]]'
 - '[[Changes/Windsurf/2026-10-26-a-dropped-connection-during-sign-in-no-longer-signs-you-out-devin-desktop-retrie|A
   dropped connection during sign-in no longer signs you out]]'
 - '[[Changes/Codex CLI/2026-10-27-3-account-and-access-changes-in-rust-v0-165-0|3

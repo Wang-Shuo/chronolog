@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: d20428740fa05035d8ee9c35bbe5b0394643b7acbf9e5b54b6072d9a3c82f5a0
+machine_hash: a1266fc04de509c17b03dbf0662f5429a6177b02b3360aa98e2deabb278e00c8
 product: heygen
 product_name: HeyGen
 record:
@@ -43,8 +43,8 @@ record:
   title: Record Voice Clone on your phone via QR
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-09-03-12-voice-and-audio-changes-in-v2026-9-1|12 Voice
-  and Audio changes in v2026.9.1]]'
+- '[[Changes/Superwhisper/2026-09-03-your-clipboard-contents-are-now-preserved-after-dictation-by-default|Your
+  clipboard contents are now preserved after dictation by default]]'
 - '[[Changes/HeyGen/2026-09-04-template-controls|Template controls]]'
 - '[[Changes/HeyGen/2026-09-04-voice-sharing-via-email|Voice sharing via email]]'
 source_release: '[[Releases/HeyGen/heygen-2026-09-04-https-heygen-noticeable-news-publications-september-2026-enterpr-39d060a6|heygen-2026-09-04-https-heygen-noticeable-news-publications-september-2026-enterpr-39d060a6]]'
@@ -91,7 +91,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-09-03 · OpenClaw · [[Changes/OpenClaw/2026-09-03-12-voice-and-audio-changes-in-v2026-9-1|12 Voice and Audio changes in v2026.9.1]]
+- Earlier: 2026-09-03 · Superwhisper · [[Changes/Superwhisper/2026-09-03-your-clipboard-contents-are-now-preserved-after-dictation-by-default|Your clipboard contents are now preserved after dictation by default]]
 - Later: 2026-09-05 · OpenClaw · [[Changes/OpenClaw/2026-09-05-17-voice-and-audio-changes-in-v2026-9-2|17 Voice and Audio changes in v2026.9.2]]
 <!-- chronolog:end -->
 

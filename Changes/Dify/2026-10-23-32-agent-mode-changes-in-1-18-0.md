@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f22bdc4ef3f16a32f529c4511f9b440a6b0654669bd83ec32c52a3826b5606a6
+machine_hash: a94960be731b3216effef32b79a850588f278284e37306f040758957a0e9d670
 product: dify
 product_name: Dify
 record:
@@ -175,12 +175,12 @@ record:
   title: 32 Agent Mode changes in 1.18.0
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-10-22-chore-bump-agent-server-to-1-57-0-by-all-hands-bot-in-https-github-com-openhands|chore:
-  bump agent-server to 1.57.0]]'
 - '[[Changes/Claude Code/2026-10-23-2-agent-mode-changes-in-v2-1-310|2 Agent Mode
   changes in v2.1.310]]'
 - '[[Changes/Codex CLI/2026-10-23-13-agent-mode-changes-in-rust-v0-164-0|13 Agent
   Mode changes in rust-v0.164.0]]'
+- '[[Changes/Devin/2026-10-23-choose-your-own-default-agent|Choose Your Own Default
+  Agent]]'
 source_release: '[[Releases/Dify/dify-2026-10-23-1-18-0-github-421489030-879b0613|dify-2026-10-23-1-18-0-github-421489030-879b0613]]'
 source_type: github_releases
 theme: agent-mode
@@ -287,7 +287,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.18.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-10-23 · Codex CLI · [[Changes/Codex CLI/2026-10-23-13-agent-mode-changes-in-rust-v0-164-0|13 Agent Mode changes in rust-v0.164.0]]
+- Earlier: 2026-10-23 · Devin · [[Changes/Devin/2026-10-23-choose-your-own-default-agent|Choose Your Own Default Agent]]
 - Later: 2026-10-23 · Replit · [[Changes/Replit/2026-10-23-stripe-atlas-on-replit|Stripe Atlas on Replit]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b5257eed38270a0bf0dd467f3116946a21583a27b14813d349a4ba674c7e005e
+machine_hash: 7ea6f2ac63ac7dc17dd89c9b71bc491561f6d7d6f9b859cc3a2c1e7f0948c56e
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
     key=value`
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-17-improved-streaming-of-long-paragraphs-text-now-appears-line-by-line-instead-of-w|Improved
-  streaming of long paragraphs]]'
-- '[[Changes/ChatGPT/2026-06-18-easier-pinning-and-sidebar-organization-it-s-now-easier-to-keep-important-work-c|Easier
-  pinning and sidebar organization]]'
 - '[[Changes/Kimi Code/2026-06-18-2-interface-experience-changes-in-kimi-code-0-18-0|2
   Interface Experience changes in Kimi Code 0.18.0]]'
+- '[[Changes/Raycast/2026-06-18-2-interface-experience-changes-in-raycast-macos-0-65|2
+  Interface Experience changes in Raycast macos 0.65]]'
+- '[[Changes/Raycast/2026-06-18-hud-windows-no-longer-appear-in-alt-tab-menu-selection|HUD
+  : windows no longer appear in Alt+Tab menu selection]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-19-v2-1-183-github-341696059-98586912|claude-code-2026-06-19-v2-1-183-github-341696059-98586912]]'
 source_type: github_releases
 theme: interface-experience
@@ -83,8 +83,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-06-18 · Kimi Code · [[Changes/Kimi Code/2026-06-18-2-interface-experience-changes-in-kimi-code-0-18-0|2 Interface Experience changes in Kimi Code 0.18.0]]
-- Later: 2026-06-19 · v0 · [[Changes/v0/2026-06-19-view-only-members-can-download-a-chat-s-code-as-a-zip-from-the-project-menu|View-only members can download a chat's code as a ZIP from the project menu]]
+- Earlier: 2026-06-18 · Raycast · [[Changes/Raycast/2026-06-18-hud-windows-no-longer-appear-in-alt-tab-menu-selection|HUD : windows no longer appear in Alt+Tab menu selection]]
+- Later: 2026-06-19 · Devin · [[Changes/Devin/2026-06-19-public-repos-shown-as-disabled-in-repo-picker|Public Repos Shown as Disabled in Repo Picker]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

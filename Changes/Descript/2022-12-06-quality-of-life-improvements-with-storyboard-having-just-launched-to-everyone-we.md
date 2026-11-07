@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2f9eecc6c23244c78b24537bbe98d3c1a54da2f5712f23d408e6f3b4f2e561f9
+machine_hash: 54804ae372bfb9e0c6e7247589e449c877cdb830c493d1872ae48cbb01c7b1de
 product: descript
 product_name: Descript
 record:
@@ -52,12 +52,11 @@ record:
   title: '**Quality of life improvements**'
   type: change
 related_changes:
-- "[[Changes/Notion/2021-03-10-customize-font-size-in-exported-pdfs|Customize font
-  size in exported PDFs \U0001F50D]]"
 - '[[Changes/Synthesia/2021-04-20-a-few-small-but-mighty-features-to-help-you-be-even-more-efficient-while-using-o|Rounded
   corners & line/character spacing]]'
 - "[[Changes/Notion/2021-12-23-4-files-and-data-changes-in-hack-week|4 Files and Data
   changes in Hack week \U0001F469\U0001F3FC\U0001F4BB\U0001F468\U0001F3FF\U0001F4BB\U0001F9D1\U0001F3FD\U0001F4BB]]"
+- '[[Changes/Raycast/2022-05-04-emoji-search|Emoji Search]]'
 source_release: '[[Releases/Descript/descript-2022-12-06-6390ca284a4a0d64fa565273-4848d9c2|descript-2022-12-06-6390ca284a4a0d64fa565273-4848d9c2]]'
 source_type: canny_changelog
 theme: file-data
@@ -87,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2021-12-23 · Notion · [[Changes/Notion/2021-12-23-4-files-and-data-changes-in-hack-week|4 Files and Data changes in Hack week 👩🏼💻👨🏿💻🧑🏽💻]]
+- Earlier: 2022-05-04 · Raycast · [[Changes/Raycast/2022-05-04-emoji-search|Emoji Search]]
 - Later: 2023-02-06 · Descript · [[Changes/Descript/2023-02-06-2-files-and-data-changes-in-version-57-release|2 Files and Data changes in Version 57 Release]]
 <!-- chronolog:end -->
 

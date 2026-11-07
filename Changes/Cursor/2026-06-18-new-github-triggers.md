@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: f17157b12a2cd093780c658b85ded1dbac8af6c65e5528ecaefaa550301d2862
+machine_hash: 2e8ad893bc52f36d02cecefccdf82d2636f6c7c52d6968bfb40b80ee0ea2c062
 product: cursor
 product_name: Cursor
 record:
@@ -58,7 +58,7 @@ record:
   title: New GitHub triggers
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-06-17-update-on-pulse|Update on Pulse]]'
+- '[[Changes/Devin/2026-06-17-automations-sidebar|Automations Sidebar]]'
 - '[[Changes/Kimi Code/2026-06-17-restore-the-turn-counter-from-persisted-loop-events-on-resume-so-post-resume-tur|Restore
   the turn counter from persisted loop events on resume so post-resume turns…]]'
 - '[[Changes/Cursor/2026-06-18-computer-use-tool-for-automations|Computer use tool
@@ -109,7 +109,7 @@ type: change
 ## Nearby in Automation and Scheduling
 
 - Earlier: 2026-06-17 · Kimi Code · [[Changes/Kimi Code/2026-06-17-restore-the-turn-counter-from-persisted-loop-events-on-resume-so-post-resume-tur|Restore the turn counter from persisted loop events on resume so post-resume turns…]]
-- Later: 2026-06-22 · Codex CLI · [[Changes/Codex CLI/2026-06-22-26496-make-auto-review-on-request-prompt-more-proactive-maja-openai|♯26496 Make auto-review on-request prompt more proactive @maja-openai]]
+- Later: 2026-06-19 · Devin · [[Changes/Devin/2026-06-19-incremental-generation-steps-in-automation-input|Incremental Generation Steps in Automation Input]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

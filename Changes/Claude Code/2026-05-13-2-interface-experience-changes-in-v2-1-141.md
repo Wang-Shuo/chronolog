@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: adf02e8c3a1db71d6cdd3392c53892e92e79e74761e4ceac943c704d5f749b9b
+machine_hash: 79055caec580dc263627b5771382a0c12fd83fa4ac2eaa85435fb7b602294038
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
   title: 2 Interface Experience changes in v2.1.141
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-11-added-transcript-view-navigation-for-keyboard-shortcuts-to-jump-between-user-pro|Added
-  transcript view navigation]]'
 - '[[Changes/Dify/2026-05-12-8-interface-experience-changes-in-1-14-1|8 Interface
   Experience changes in 1.14.1]]'
 - '[[Changes/Gemini CLI/2026-05-12-test-evals-add-behavioral-eval-for-file-creation-and-write-file-tool-selection-b|test(evals):
   add behavioral eval for file creation and write_file tool selection]]'
+- '[[Changes/Raycast/2026-05-12-extensions-improved-affordance-of-tag-picker-component|Extensions
+  : Improved affordance of tag picker component]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-13-v2-1-141-github-322186176-9f8e2e22|claude-code-2026-05-13-v2-1-141-github-322186176-9f8e2e22]]'
 source_type: github_releases
 theme: interface-experience
@@ -92,7 +92,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.141
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-05-12 · Gemini CLI · [[Changes/Gemini CLI/2026-05-12-test-evals-add-behavioral-eval-for-file-creation-and-write-file-tool-selection-b|test(evals): add behavioral eval for file creation and write_file tool selection]]
+- Earlier: 2026-05-12 · Raycast · [[Changes/Raycast/2026-05-12-extensions-improved-affordance-of-tag-picker-component|Extensions : Improved affordance of tag picker component]]
 - Later: 2026-05-13 · Cline · [[Changes/Cline/2026-05-13-show-a-clear-searching-state-in-the-mention-file-picker|Show a clear "Searching..." state in the @-mention file picker]]
 <!-- chronolog:end -->
 

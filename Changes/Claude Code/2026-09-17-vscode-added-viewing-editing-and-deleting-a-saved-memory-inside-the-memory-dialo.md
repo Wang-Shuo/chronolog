@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6514f3a9e2712321b142be20400f18e55c2a12c46b3de75725a932627a780008
+machine_hash: dcf1da89d366c2edc8adb43dfb7f35ec824a71fa0d937ae4b0cab87ff5e3856b
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,8 +43,7 @@ record:
     dialog'
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-09-11-14-memory-and-personalization-changes-in-v2026-9-4|14
-  Memory and Personalization changes in v2026.9.4]]'
+- '[[Changes/Raycast/2026-09-11-projects-6239fd|Projects]]'
 - '[[Changes/Google Antigravity/2026-09-15-conversations-with-very-long-histories-now-load-faster-and-use-less-memory|Conversations
   with very long histories now load faster and use less memory]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-16-3-memory-and-personalization-changes-in-v1-0-85|3

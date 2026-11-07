@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 187a38a733069e8e9b1b3d509616b2827f8fb2402f97cd698628165c57053279
+machine_hash: d26f0a9cbdb01df8062adae8ba5d54319c9dfaabac05d5d63909a29811c25096
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -41,12 +41,11 @@ record:
   title: '#19443 Add gpt-image-2 to bundled OpenAI Docs skill @kkahadze-oai'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-04-20-17153-launch-image-generation-by-default-won-openai|♯17153
-  Launch image generation by default @won-openai]]'
-- '[[Changes/ChatGPT/2026-04-21-we-re-introducing-chatgpt-images-2-0-our-new-image-generation-model-in-chatgpt-c|ChatGPT
-  Images 2.0 in ChatGPT]]'
 - '[[Changes/Open WebUI/2026-04-21-4-image-generation-changes-in-v0-9-0|4 Image Generation
   changes in v0.9.0]]'
+- '[[Changes/Recraft/2026-04-24-cost-per-generation|Cost per generation]]'
+- '[[Changes/Recraft/2026-04-24-we-ve-added-gpt-image-2-now-available-to-all-paid-subscribers|Recraft
+  adds GPT Image 2, now available to all paid subscribers]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-04-30-rust-v0-128-0-github-315916672-1708ab89|codex-cli-2026-04-30-rust-v0-128-0-github-315916672-1708ab89]]'
 source_type: github_releases
 theme: image-generation
@@ -87,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Image Generation
 
-- Earlier: 2026-04-21 · Open WebUI · [[Changes/Open WebUI/2026-04-21-4-image-generation-changes-in-v0-9-0|4 Image Generation changes in v0.9.0]]
+- Earlier: 2026-04-24 · Recraft · [[Changes/Recraft/2026-04-24-we-ve-added-gpt-image-2-now-available-to-all-paid-subscribers|Recraft adds GPT Image 2, now available to all paid subscribers]]
 - Later: 2026-05-07 · Ollama · [[Changes/Ollama/2026-05-07-cleaner-image-generation-layout-in-the-mlx-runner|Cleaner image generation layout in the MLX runner]]
 <!-- chronolog:end -->
 

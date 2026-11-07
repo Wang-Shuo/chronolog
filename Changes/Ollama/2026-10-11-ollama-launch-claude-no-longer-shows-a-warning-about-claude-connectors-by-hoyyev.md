@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 12ca7bddbf939ae290a65fd867cc782cb869fd5a3bf21df139bc9206a23655bf
+machine_hash: a8011a05ed6d01282ed1800b03c39cc3ce34504b16bb70cf3c63345fce1c9583
 product: ollama
 product_name: Ollama
 record:
@@ -42,8 +42,8 @@ record:
   title: '`ollama launch claude` no longer shows a warning about Claude connectors'
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-10-09-generate-a-secret-that-another-app-also-needs|Generate
-  a secret that another app also needs]]'
+- '[[Changes/Raycast/2026-10-09-2-apps-and-integrations-changes-in-raycast-windows-2-7|2
+  Apps and Integrations changes in Raycast windows 2.7]]'
 - '[[Changes/Open WebUI/2026-10-10-7-apps-and-integrations-changes-in-v0-12-0|7 Apps
   and Integrations changes in v0.12.0]]'
 - '[[Changes/OpenClaw/2026-10-10-96-apps-and-integrations-changes-in-v2026-10-1|96

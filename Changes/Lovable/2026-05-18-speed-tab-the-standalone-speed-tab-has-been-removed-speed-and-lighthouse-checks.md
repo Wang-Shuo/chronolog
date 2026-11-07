@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: afbba1c400c486a5e083578745dfa2aa2015536918d998b2fe817cd32dc3143b
+machine_hash: f2c33c62d6b298eccd363bf5125022248a0ccee0bbad6093fd905cbac6ad8639
 product: lovable
 product_name: Lovable
 record:
@@ -62,10 +62,9 @@ record:
   title: '**Speed tab.** The standalone Speed tab has been removed'
   type: change
 related_changes:
-- '[[Changes/Cline/2026-05-13-improve-mention-file-search-performance|Improve @-mention
-  file search performance]]'
-- '[[Changes/Ollama/2026-05-13-2-reliability-and-performance-changes-in-v0-30-0|2
-  Reliability and Performance changes in v0.30.0]]'
+- '[[Changes/Raycast/2026-05-13-2-reliability-and-performance-changes-in-raycast-windows-0-59|2
+  Reliability and Performance changes in Raycast windows 0.59]]'
+- '[[Changes/Devin/2026-05-17-improved-mention-search|Improved @-Mention Search]]'
 - '[[Changes/HeyGen/2026-05-18-face-hands-posture-gaze-energy-the-same-script-can-become-a-polished-business-up|Face,
   hands, posture, gaze, energy]]'
 source_release: '[[Releases/Lovable/lovable-2026-05-18-2026-05-18-640aaf83|lovable-2026-05-18-2026-05-18-640aaf83]]'

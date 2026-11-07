@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 4690aae4db28eef5a8bdbdbf2fa278669b5f022fe9210889875a2d236f9270c2
+machine_hash: 37d7ca19e8ac2c4d96e76a37cc23c8a870b11ed3538728453f010fd1903232cf
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,12 +43,12 @@ record:
   title: Complete usage reporting no longer shows partial status or phantom unattributed…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-10-15-the-rosalind-academic-plan-helps-eligible-academic-labs-use-chatgpt-for-life-sci|The
-  Rosalind Academic Plan helps eligible academic labs use ChatGPT for life…]]'
-- '[[Changes/Lovable/2026-10-16-review-publish-requests-and-findings-in-the-action-center|Review
-  publish requests and findings in the Action center]]'
 - '[[Changes/v0/2026-10-16-members-with-a-scheduled-ending-or-cancelled-premium-subscription-keep-their-rem|Members
   with a scheduled-ending or cancelled Premium subscription keep…]]'
+- '[[Changes/Krea/2026-10-17-see-the-cost-before-you-generate-in-agent-and-mcp|See
+  the cost before you generate in Agent and MCP]]'
+- '[[Changes/Krea/2026-10-17-corrected-api-pricing-details-see-api-keys-and-billing-https-www-krea-ai-docs-de|Corrected
+  API pricing details]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-10-19-v1-0-100-github-417622960-9e2e7578|github-copilot-cli-2026-10-19-v1-0-100-github-417622960-9e2e7578]]'
 source_type: github_releases
 theme: pricing-model
@@ -90,7 +90,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-10-16 · v0 · [[Changes/v0/2026-10-16-members-with-a-scheduled-ending-or-cancelled-premium-subscription-keep-their-rem|Members with a scheduled-ending or cancelled Premium subscription keep…]]
+- Earlier: 2026-10-17 · Krea · [[Changes/Krea/2026-10-17-corrected-api-pricing-details-see-api-keys-and-billing-https-www-krea-ai-docs-de|Corrected API pricing details]]
 - Later: 2026-10-19 · Notion · [[Changes/Notion/2026-10-19-your-credits-go-about-10-further|Your credits go about 10× further]]
 <!-- chronolog:end -->
 

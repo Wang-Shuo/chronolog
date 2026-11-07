@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: f4c54d4d470a4f34c80d3a4e933ee98c1708186bfd1086f80587d799a982d532
+machine_hash: 8cd88565ea5a76e6219bb132c3cad3f853e7aa3c57d91e59e74f7964566ca5f4
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -54,12 +54,12 @@ record:
   title: Improved the error handling in the `/model` picker when no models are available…
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2025-10-07-8-model-support-changes-in-v0-6-33|8 Model Support
-  changes in v0.6.33]]'
 - '[[Changes/Cline/2025-10-08-update-local-models-docs-remove-emojis-from-docs-by-nickbaumann98-in-https-githu|Update
   local models docs & remove emojis from Docs]]'
 - '[[Changes/Gemini CLI/2025-10-08-revert-get-around-the-initial-empty-response-from-gemini-2-5-flash-by-sandytao52|Revert
   "Get around the initial empty response from gemini-2.5-flash]]'
+- '[[Changes/AnythingLLM/2025-10-09-7-model-support-changes-in-v1-9-0|7 Model Support
+  changes in v1.9.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2025-10-10-v0-0-339-github-253741849-b9e06a2b|github-copilot-cli-2025-10-10-v0-0-339-github-253741849-b9e06a2b]]'
 source_type: github_releases
 theme: model-support
@@ -89,7 +89,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-10-08 · Gemini CLI · [[Changes/Gemini CLI/2025-10-08-revert-get-around-the-initial-empty-response-from-gemini-2-5-flash-by-sandytao52|Revert "Get around the initial empty response from gemini-2.5-flash]]
+- Earlier: 2025-10-09 · AnythingLLM · [[Changes/AnythingLLM/2025-10-09-7-model-support-changes-in-v1-9-0|7 Model Support changes in v1.9.0]]
 - Later: 2025-10-10 · Ollama · [[Changes/Ollama/2025-10-10-thinking-models-now-support-structured-outputs-when-using-the-api-chat-api|Thinking models now support structured outputs when using the /api/chat API]]
 <!-- chronolog:end -->
 

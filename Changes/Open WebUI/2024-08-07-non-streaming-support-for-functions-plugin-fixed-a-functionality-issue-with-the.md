@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 482f0cfe6817cbd38840b08f986139ea008032e886ae23c6aa858a617d6a09b8
+machine_hash: cc1d6c189566a1acef5ba90f0154e9d3bb5beb263a9be5beff7382a2013e7208
 product: open-webui
 product_name: Open WebUI
 record:
@@ -49,11 +49,11 @@ record:
   title: "**\U0001F527 Non-Streaming Support for Functions Plugin**"
   type: change
 related_changes:
-- '[[Changes/Dify/2024-07-23-3-apps-and-integrations-changes-in-0-6-15|3 Apps and
-  Integrations changes in 0.6.15]]'
 - '[[Changes/OpenHands/2024-07-27-2-apps-and-integrations-changes-in-0-8-2|2 Apps
   and Integrations changes in 0.8.2]]'
 - '[[Changes/Notion/2024-07-29-more-new-features|More new features!]]'
+- '[[Changes/Raycast/2024-07-31-auto-quit-you-can-now-choose-the-interval-after-which-apps-are-automatically-ter|Auto
+  Quit: You can now choose the interval after which apps are automatically terminated]]'
 source_release: '[[Releases/Open WebUI/open-webui-2024-08-07-v0-3-12-github-169103544-20d8661f|open-webui-2024-08-07-v0-3-12-github-169103544-20d8661f]]'
 source_type: github_releases
 theme: apps-integrations
@@ -86,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2024-07-29 · Notion · [[Changes/Notion/2024-07-29-more-new-features|More new features!]]
+- Earlier: 2024-07-31 · Raycast · [[Changes/Raycast/2024-07-31-auto-quit-you-can-now-choose-the-interval-after-which-apps-are-automatically-ter|Auto Quit: You can now choose the interval after which apps are automatically terminated]]
 - Later: 2024-08-13 · Notion · [[Changes/Notion/2024-08-13-use-multiple-charts-to-track-everything|Use multiple charts to track everything]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: e1b87c1feaee4e9977a49e9dd4724e77e6a5b172370014a265bffb12b62f4495
+machine_hash: fcef87d8cd0d6f4006e3d1ef81e1b917281d49ed054b0368345a23b8414bfed6
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -60,10 +60,9 @@ record:
   title: Use ChatGPT alongside your team
   type: change
 related_changes:
-- '[[Changes/Dify/2023-10-10-application-share-qrcode-by-charli117-in-https-github-com-langgenius-dify-pull-1|Application
-  share qrcode]]'
 - '[[Changes/Gemini/2023-10-23-your-shared-conversations-now-support-uploaded-images|Your
   shared conversations now support uploaded images]]'
+- '[[Changes/Raycast/2023-11-15-referral-program|Referral Program]]'
 - "[[Changes/Dify/2024-01-02-the-dify-team|The Dify Team \U0001F6E0️]]"
 source_release: '[[Releases/ChatGPT/chatgpt-2024-01-10-introducing-the-gpt-store-and-chatgpt-team-plan-7f1ed4cd|chatgpt-2024-01-10-introducing-the-gpt-store-and-chatgpt-team-plan-7f1ed4cd]]'
 source_type: chatgpt_changelog
@@ -94,7 +93,7 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-the-dify-team|The Dify Team 🛠️]]
-- Later: 2024-01-17 · Notion · [[Changes/Notion/2024-01-17-a-b-uilt-in-scheduling-tool|A b uilt-in scheduling tool]]
+- Later: 2024-01-10 · Raycast · [[Changes/Raycast/2024-01-10-changelog-added-an-action-to-copy-a-link-for-sharing-the-release-notes|Changelog: Added an action to copy a link for sharing the release notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: pricing
-machine_hash: 9e45c6c5712fe80f25cbb6e8ad7a4f0fdc7b022a8ebfc721703360d8c1c8a982
+machine_hash: 5de32bdf8c325f453c939230f576922d4133729010bf3c7c6f00d8c8e0b67c8c
 product: runway
 product_name: Runway
 record:
@@ -53,12 +53,12 @@ record:
   title: Runway API updates
   type: change
 related_changes:
-- '[[Changes/Gemini/2024-10-21-access-to-imagen-3-now-available-for-google-workspace-customers|Access
-  to Imagen 3 now available for Google Workspace customers]]'
 - '[[Changes/Gemini/2024-10-21-expanding-workspace-extensions-in-beta-for-google-workspace-customers-calendar-k|Expanding
   Workspace extensions in Beta for Google Workspace customers]]'
 - '[[Changes/Descript/2024-11-05-subscription-management-and-checkout-update|Subscription
   management and checkout update]]'
+- '[[Changes/Raycast/2024-11-06-financial-functions-calculate-interest-related-queries-e-g-savings-required-for|Financial
+  functions: calculate interest-related queries…]]'
 source_release: '[[Releases/Runway/runway-2024-11-14-2024-11-14-runway-api-updates-76969c7d|runway-2024-11-14-2024-11-14-runway-api-updates-76969c7d]]'
 source_type: runway_changelog
 theme: pricing-model
@@ -85,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2024-11-05 · Descript · [[Changes/Descript/2024-11-05-subscription-management-and-checkout-update|Subscription management and checkout update]]
+- Earlier: 2024-11-06 · Raycast · [[Changes/Raycast/2024-11-06-financial-functions-calculate-interest-related-queries-e-g-savings-required-for|Financial functions: calculate interest-related queries…]]
 - Later: 2024-12-03 · ElevenLabs · [[Changes/ElevenLabs/2024-12-03-api|API]]
 <!-- chronolog:end -->
 

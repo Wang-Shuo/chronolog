@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 15972208a00ef0dc1adae5ad7fffe4c1fa938e911cbfabcd17ad44376b43b720
+machine_hash: 7197a5cbdc0f84b241031b1ec03bc57589c1387805f51610fb9aa960c720f597
 product: opencode
 product_name: OpenCode
 record:
@@ -42,10 +42,10 @@ record:
   title: 2 Editor Experience changes in v1.2.21
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-06-to-commemorate-github-copilot-cli-reaching-general-availability-last-week-we-re|To
-  commemorate GitHub Copilot CLI reaching general availability last week, we''re…]]'
 - '[[Changes/OpenCode/2026-03-06-desktop-load-tab-when-opening-file|Desktop Load tab
   when opening file]]'
+- '[[Changes/Devin/2026-03-07-session-status-in-browser-tab|Session Status in Browser
+  Tab]]'
 - '[[Changes/OpenCode/2026-03-07-preserve-original-line-endings-in-edit-tool|Preserve
   original line endings in edit tool]]'
 source_release: '[[Releases/OpenCode/opencode-2026-03-07-v1-2-21-72375855|opencode-2026-03-07-v1-2-21-72375855]]'
@@ -87,7 +87,7 @@ Source: https://opencode.ai/changelog/v1.2.21
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-03-06 · OpenCode · [[Changes/OpenCode/2026-03-06-desktop-load-tab-when-opening-file|Desktop Load tab when opening file]]
+- Earlier: 2026-03-07 · Devin · [[Changes/Devin/2026-03-07-session-status-in-browser-tab|Session Status in Browser Tab]]
 - Later: 2026-03-08 · Open WebUI · [[Changes/Open WebUI/2026-03-08-open-terminal-html-editing-users-can-now-edit-html-source-files-in-open-terminal|✏️ Open Terminal HTML editing. Users can now edit HTML source files in Open…]]
 <!-- chronolog:end -->
 

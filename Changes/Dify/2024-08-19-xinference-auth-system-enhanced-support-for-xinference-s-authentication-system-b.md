@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: f10a1ac650f81a77f572afa917e3c4d5c6a9b05f6dab13c951347fca3f6b6413
+machine_hash: e85e0eb784fa2202950cb19298330a879d2cdf9f540d61c66f90878ca59c2560
 product: dify
 product_name: Dify
 record:
@@ -45,8 +45,8 @@ record:
   title: '**Xinference Auth System**'
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2024-07-09-custom-environment-for-openid-claims-allows-setting-custom-claims-for-openid-pro|\U0001F6E0️
-  Custom Environment for OpenID Claims]]"
+- '[[Changes/AnythingLLM/2024-07-26-4-account-and-access-changes-in-v1-0-0|4 Account
+  and Access changes in v1.0.0]]'
 - "[[Changes/Open WebUI/2024-08-02-enhanced-oauth-introduced-custom-redirect-uri-support-for-oauth-behind-reverse-p|\U0001F512
   Enhanced OAuth]]"
 - "[[Changes/Open WebUI/2024-08-14-oauth-email-claim-customization-introduced-an-oauth-email-claim-variable-to-allo|\U0001F300

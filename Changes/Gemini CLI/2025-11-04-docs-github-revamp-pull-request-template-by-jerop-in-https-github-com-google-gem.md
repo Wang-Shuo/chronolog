@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 79f552c8e8b5888827c83de29acfb3d6be7ac8d6368a798d7d02098703a6e10d
+machine_hash: b451fe06bd8196bb0327cf7c0e0befb3407bc29dae55c7e0e454f0ed83e82b47
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -86,7 +86,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2025-11-04 · Codex CLI · [[Changes/Codex CLI/2025-11-04-6043-chore-add-shell-serialization-tests-for-json-6043|♯6043 chore: Add shell serialization tests for json (♯6043)]]
-- Later: 2025-11-04 · Windsurf · [[Changes/Windsurf/2025-11-04-terminal-fixes|Terminal Fixes]]
+- Later: 2025-11-04 · LM Studio · [[Changes/LM Studio/2025-11-04-added-lms-runtime-get-and-lms-runtime-update-cli-commands-to-manage-runtime-exte|Added lms runtime get and lms runtime update CLI commands to manage runtime…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

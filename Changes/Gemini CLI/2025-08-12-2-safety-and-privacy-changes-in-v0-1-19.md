@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 97ea5282a426302d9baefca5a18e146d77f4b8b67e0ac956f34a80fee39bd6ff
+machine_hash: 599ca923d29e829a1a017cb199aa365be7e1a2af3381b4b782b54e3a4a42e85a
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -43,12 +43,11 @@ record:
   title: 2 Safety and Privacy changes in v0.1.19
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2025-08-09-10-safety-and-privacy-changes-in-v0-6-19|10 Safety
-  and Privacy changes in v0.6.19]]'
 - "[[Changes/Open WebUI/2025-08-10-opentelemetry-configuration-consistency-fixed-an-issue-where-opentelemetry-metri|\U0001F6E0️
   OpenTelemetry Configuration Consistency]]"
 - '[[Changes/Dify/2025-08-11-3-safety-and-privacy-changes-in-1-7-2|3 Safety and Privacy
   changes in 1.7.2]]'
+- '[[Changes/Devin/2025-08-12-vpc-repo-indexing|VPC Repo Indexing]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-08-12-v0-1-19-github-239452049-c4d9f679|gemini-cli-2025-08-12-v0-1-19-github-239452049-c4d9f679]]'
 source_type: github_releases
 theme: safety-privacy
@@ -92,7 +91,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.1.19
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2025-08-11 · Dify · [[Changes/Dify/2025-08-11-3-safety-and-privacy-changes-in-1-7-2|3 Safety and Privacy changes in 1.7.2]]
+- Earlier: 2025-08-12 · Devin · [[Changes/Devin/2025-08-12-vpc-repo-indexing|VPC Repo Indexing]]
 - Later: 2025-08-13 · Gemini CLI · [[Changes/Gemini CLI/2025-08-13-ensure-sandbox-build-script-is-cross-platform-by-wldoooon-in-https-github-com-go|ensure sandbox build script is cross-platform]]
 <!-- chronolog:end -->
 

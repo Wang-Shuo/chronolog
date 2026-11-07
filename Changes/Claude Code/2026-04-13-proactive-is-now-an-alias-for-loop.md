@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: bf163b8d34424de9c6253e23cbc9c21693d215b1e448c8b0a282135a07b0bf5c
+machine_hash: 8553a3caa4d189e989ece3414e429aaa061321f9a047e74eba9f954835b3bf0d
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,7 +42,8 @@ record:
   title: '`/proactive` is now an alias for `/loop`'
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-04-02-project-comments|Project comments]]'
+- '[[Changes/Raycast/2026-04-03-calendar-improve-auto-join-scheduler-reliability-during-sleep-wake-cycles|Calendar:
+  Improve auto-join scheduler reliability during sleep/wake cycles]]'
 - '[[Changes/Microsoft 365 Copilot/2026-04-07-edit-scheduled-prompts-for-copilot-windows-mac-web-microsoft-365-copilot-chat|Edit
   scheduled prompts for Copilot Windows, Mac, Web (Microsoft 365 Copilot chat)]]'
 - '[[Changes/Z.ai API/2026-04-07-designed-for-long-horizon-tasks-glm-5-1-can-work-independently-for-up-to-8-hours|Designed

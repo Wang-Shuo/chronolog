@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d57427cbce3387b447139660e64ff5f2a9ae72215200edfe37ecdf9737d376c6
+machine_hash: b70f56c61a1ed1104af21dfff08174124d20b68b10f7d7a5c15b5bb970025d1a
 product: claude-code
 product_name: Claude Code
 record:
@@ -123,7 +123,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.316
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-10-30 · Qoder · [[Changes/Qoder/2026-10-30-3-apps-and-integrations-changes-in-qoder-0-5-1|3 Apps and Integrations changes in Qoder 0.5.1]]
-- Later: 2026-11-02 · ElevenLabs · [[Changes/ElevenLabs/2026-11-02-channel-integrations-asynchronous-channels-such-as-slack-telegram-intercom-gmail|Channel integrations: Asynchronous channels such as Slack, Telegram, Intercom…]]
+- Later: 2026-11-02 · Devin · [[Changes/Devin/2026-11-02-multiple-files-in-one-slack-post|Multiple Files in One Slack Post]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

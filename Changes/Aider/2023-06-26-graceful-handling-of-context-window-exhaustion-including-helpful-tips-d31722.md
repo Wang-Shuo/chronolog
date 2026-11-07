@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f29d86d38b5ce103ca94b344c282d2cfe2544735c8126594afc6a4b1858d3979
+machine_hash: 33f05d849df6332a1b06d50a9566039e0569b6450f526ded473d0a0baf5fb4e0
 product: aider
 product_name: Aider
 record:
@@ -43,8 +43,7 @@ record:
   title: Graceful handling of context window exhaustion, including helpful tips
   type: change
 related_changes:
-- '[[Changes/Aider/2023-06-07-2-context-window-changes-in-v0-5-0|2 Context Window
-  changes in v0.5.0]]'
+- '[[Changes/Raycast/2023-06-07-placeholders-in-ai-commands|Placeholders in AI Commands]]'
 - '[[Changes/Aider/2023-06-25-graceful-handling-of-context-window-exhaustion-including-helpful-tips|Graceful
   handling of context window exhaustion, including helpful tips]]'
 - '[[Changes/Aider/2023-06-26-graceful-handling-of-context-window-exhaustion-including-helpful-tips|Graceful

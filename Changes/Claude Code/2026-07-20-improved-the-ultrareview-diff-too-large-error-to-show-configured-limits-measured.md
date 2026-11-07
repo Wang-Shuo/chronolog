@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8ea800b8418497bef25db32876e45f6b43636230512e8eef85d50897f05a943a
+machine_hash: 38200c5b1b618e133ff4ff4e38419d7800af31ffb694d96f88a76b8a6d6dd293
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,9 @@ record:
     measured…
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-07-15-added-mod-n-as-another-shortcut-for-opening-a-new-tab|Added
-  Mod+N as another shortcut for opening a new tab]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-16-5-editor-experience-changes-in-v1-0-71|5
   Editor Experience changes in v1.0.71]]'
+- '[[Changes/Devin/2026-07-17-tasks-tab-in-the-workspace|Tasks Tab in the Workspace]]'
 - '[[Changes/Dify/2026-07-17-4-editor-experience-changes-in-1-16-0|4 Editor Experience
   changes in 1.16.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-20-v2-1-216-github-356972381-87e422ae|claude-code-2026-07-20-v2-1-216-github-356972381-87e422ae]]'

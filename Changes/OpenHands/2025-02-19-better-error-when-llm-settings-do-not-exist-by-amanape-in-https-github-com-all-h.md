@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: bf34ca7fb4a1fd94ca0251750290c36f5aba873ed0e3c8ccc56a259037566134
+machine_hash: 08aa0e1d4e1bb4d72eff9af690dbd49a40474f9c7bed49bd111d2d125e39c2b0
 product: openhands
 product_name: OpenHands
 record:
@@ -41,12 +41,12 @@ record:
   title: Better error when LLM settings do not exist
   type: change
 related_changes:
-- '[[Changes/Ollama/2025-02-12-2-model-support-changes-in-v0-5-9|2 Model Support changes
-  in v0.5.9]]'
-- "[[Changes/Open WebUI/2025-02-13-gguf-model-upload-stability-fixed-upload-inconsistencies-for-gguf-models-ensurin|\U0001F4C2
-  GGUF Model Upload Stability]]"
-- "[[Changes/Open WebUI/2025-02-14-direct-connections-now-work-for-regular-users-fixed-a-bug-where-users-with-the-u|\U0001F517
-  Direct Connections Now Work for Regular Users]]"
+- '[[Changes/AnythingLLM/2025-02-18-3-model-support-changes-in-v1-7-4|3 Model Support
+  changes in v1.7.4]]'
+- "[[Changes/LM Studio/2025-02-18-new-speculative-decoding-for-llama-cpp-and-mlx-models|New:
+  \U0001F52E Speculative Decoding!]]"
+- '[[Changes/LM Studio/2025-02-18-6-model-support-changes-in-lm-studio-0-3-10|6 Model
+  Support changes in LM Studio 0.3.10]]'
 source_release: '[[Releases/OpenHands/openhands-2025-02-19-0-25-0-github-201270435-f90f221f|openhands-2025-02-19-0-25-0-github-201270435-f90f221f]]'
 source_type: github_releases
 theme: model-support
@@ -76,8 +76,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-02-14 · Open WebUI · [[Changes/Open WebUI/2025-02-14-direct-connections-now-work-for-regular-users-fixed-a-bug-where-users-with-the-u|🔗 Direct Connections Now Work for Regular Users]]
-- Later: 2025-02-20 · Ollama · [[Changes/Ollama/2025-02-20-2-model-support-changes-in-v0-5-12|2 Model Support changes in v0.5.12]]
+- Earlier: 2025-02-18 · LM Studio · [[Changes/LM Studio/2025-02-18-6-model-support-changes-in-lm-studio-0-3-10|6 Model Support changes in LM Studio 0.3.10]]
+- Later: 2025-02-19 · Raycast · [[Changes/Raycast/2025-02-19-raycast-ai-remembers-your-recently-used-models-and-shows-them-on-the-top-in-the|Raycast AI: Remembers your recently used models and shows them on the top…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

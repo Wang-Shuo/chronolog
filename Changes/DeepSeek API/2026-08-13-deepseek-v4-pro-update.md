@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 4d4c0c2f2fb5842db83024ab3a1ddbad7fef4555fac78e91df8363a5796f1daf
+machine_hash: 7f5bd3444c5c74ae23ef418c18f9563de96b960c8ed5adeaeaf89830b757fa14
 product: deepseek-api
 product_name: DeepSeek API
 record:
@@ -88,12 +88,12 @@ record:
   title: DeepSeek-V4-Pro Update
   type: change
 related_changes:
-- '[[Changes/Google Antigravity/2026-08-12-improved-the-model-selector-dropdown-to-choose-thinking-levels-per-model-low-med|Improved
-  the model selector dropdown to choose thinking levels per-model…]]'
 - '[[Changes/OpenCode/2026-08-12-made-session-compaction-keep-complete-recent-turns-and-produce-clearer-summaries|Made
   session compaction keep complete recent turns and produce clearer summaries…]]'
 - '[[Changes/OpenCode/2026-08-12-3-model-support-changes-in-v1-18-17|3 Model Support
   changes in v1.18.17]]'
+- '[[Changes/AnythingLLM/2026-08-13-5-model-support-changes-in-v1-16-0|5 Model Support
+  changes in v1.16.0]]'
 source_release: '[[Releases/DeepSeek API/deepseek-api-2026-08-13-2026-08-13-bf09d366|deepseek-api-2026-08-13-2026-08-13-bf09d366]]'
 source_type: deepseek_changelog
 theme: model-support
@@ -150,7 +150,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-08-12 · OpenCode · [[Changes/OpenCode/2026-08-12-3-model-support-changes-in-v1-18-17|3 Model Support changes in v1.18.17]]
+- Earlier: 2026-08-13 · AnythingLLM · [[Changes/AnythingLLM/2026-08-13-5-model-support-changes-in-v1-16-0|5 Model Support changes in v1.16.0]]
 - Later: 2026-08-13 · Kimi Code · [[Changes/Kimi Code/2026-08-13-set-kimi-code-experimental-secondary-model-1-or-the-master-flag-kimi-code-experi|Set KIMI_CODE_EXPERIMENTAL_SECONDARY_MODEL=1…]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2209d5e4e0f9046cd91475d37eb6e55cef573bded740074676438a1de0a56fd1
+machine_hash: 96d85f2a474a92ae1d695491f0ea56912e8b92359b1838dee175da37173c24b1
 product: opencode
 product_name: OpenCode
 record:
@@ -44,10 +44,10 @@ record:
   title: Core Agents can use the global temp directory without extra permission prompts
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-01-3-safety-and-privacy-changes-in-v2-1-126|3 Safety
-  and Privacy changes in v2.1.126]]'
 - '[[Changes/Cursor/2026-05-01-default-off-users-can-discover-and-opt-in|Default Off:
   users can discover and opt in]]'
+- '[[Changes/Devin/2026-05-01-snapshot-revert-for-declarative-setup|Snapshot Revert
+  for Declarative Setup]]'
 - '[[Changes/OpenHands/2026-05-01-added-sandbox-kvm-enabled-environment-variable-to-enable-passing-dev-kvm-to-sand|Added
   SANDBOX_KVM_ENABLED environment variable to enable passing /dev/kvm to sandbox…]]'
 source_release: '[[Releases/OpenCode/opencode-2026-05-02-v1-14-33-e41abc39|opencode-2026-05-02-v1-14-33-e41abc39]]'

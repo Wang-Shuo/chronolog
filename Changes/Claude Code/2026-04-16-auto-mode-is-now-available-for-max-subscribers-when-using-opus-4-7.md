@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: expansion
-machine_hash: 9d1b46c919e9b2bccaf321c259f727b9e390732949cf3bf94333942cbc0cc1a7
+machine_hash: 6342fab7a82bb92a07bc28a642c6e81ea27a35710e80be4970fae7ea530ef28d
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,8 +51,8 @@ record:
   title: Auto mode is now available for Max subscribers when using Opus 4.7
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-04-15-3-model-support-changes-in-rust-v0-121-0|3 Model
-  Support changes in rust-v0.121.0]]'
+- '[[Changes/Superwhisper/2026-04-15-tweaks-to-model-library-filtering-interface|Tweaks
+  to model library filtering interface]]'
 - '[[Changes/Claude/2026-04-16-claude-opus-4-7-launch|Claude Opus 4.7 launch]]'
 - '[[Changes/Claude Code/2026-04-16-3-model-support-changes-in-v2-1-111|3 Model Support
   changes in v2.1.111]]'

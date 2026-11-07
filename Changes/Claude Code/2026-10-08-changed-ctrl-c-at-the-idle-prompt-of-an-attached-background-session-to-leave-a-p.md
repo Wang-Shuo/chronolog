@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1dbe2322cc44ab019ea042a9cc6952dc21d704b051d5cb5895f20ccb3cdc9baa
+machine_hash: 72f32beb563a561cf6e1626045d1fb89450195b44b894c711e2867dae0cf045d
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,8 +47,8 @@ record:
   title: Changed Ctrl+C at the idle prompt of an attached background session to leave…
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-10-06-5-automation-and-scheduling-changes-in-v1-25-0|5
-  Automation and Scheduling changes in v1.25.0]]'
+- '[[Changes/Devin/2026-10-07-settings-dialogs-use-the-updated-form-styling|Settings
+  Dialogs Use the Updated Form Styling]]'
 - '[[Changes/Google Antigravity/2026-10-07-advanced-search-automations-and-grouped-agent-actions|Advanced
   Search, Automations, and grouped agent actions]]'
 - '[[Changes/Google Antigravity/2026-10-07-scheduled-tasks-are-now-called-automations-you-can-run-a-scheduled-automation-ri|Scheduled

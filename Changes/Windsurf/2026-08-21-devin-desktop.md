@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: c5e3dcbb902397511e21cad7835f8f3326d547d641271aa99b5d264174986d9e
+machine_hash: d0e854ddd3831b6c6795a570ff1b62d471b463848777033589610e4d2def4c9e
 product: windsurf
 product_name: Windsurf
 record:
@@ -126,7 +126,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-08-21 · OpenCode · [[Changes/OpenCode/2026-08-21-desktop-register-the-archive-session-command-in-both-desktop-layouts|Desktop Register the archive session command in both desktop layouts]]
-- Later: 2026-08-24 · OpenCode · [[Changes/OpenCode/2026-08-24-desktop-keep-model-provider-headers-visible-while-scrolling-the-model-picker|Desktop Keep model provider headers visible while scrolling the model picker]]
+- Later: 2026-08-21 · Wispr Flow · [[Changes/Wispr Flow/2026-08-21-quality-of-life-improvements-desktop|Quality-of-Life Improvements (Desktop)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

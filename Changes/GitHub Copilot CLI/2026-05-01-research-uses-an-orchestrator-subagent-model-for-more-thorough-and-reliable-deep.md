@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 5ad71232d271d13f60cbd1c73feb48970978b9ffd471acf81791b8a54ebb0648
+machine_hash: 6e74a0ce138d06e315fc47dde30e38b9764602f366b89796ad7badd5da420c6d
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -59,12 +59,12 @@ record:
     deep…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-04-15-17684-adjust-default-tool-search-result-caps-malone-oai|♯17684
-  Adjust default tool search result caps @malone-oai]]'
 - '[[Changes/Codex CLI/2026-04-20-plugin-workflows-now-include-tabbed-browsing-inline-enable-disable-toggles-marke|Plugin
   workflows now include tabbed browsing, inline enable/disable toggles…]]'
 - '[[Changes/Open WebUI/2026-04-21-4-search-and-browsing-changes-in-v0-9-0|4 Search
   and Browsing changes in v0.9.0]]'
+- '[[Changes/AnythingLLM/2026-04-22-x-ddg-default-web-search-in-agent-skills|x DDG
+  default web-search in agent skills]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-05-01-v1-0-40-github-316385532-9c4aec71|github-copilot-cli-2026-05-01-v1-0-40-github-316385532-9c4aec71]]'
 source_type: github_releases
 theme: search-browsing
@@ -104,7 +104,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Search and Browsing
 
-- Earlier: 2026-04-21 · Open WebUI · [[Changes/Open WebUI/2026-04-21-4-search-and-browsing-changes-in-v0-9-0|4 Search and Browsing changes in v0.9.0]]
+- Earlier: 2026-04-22 · AnythingLLM · [[Changes/AnythingLLM/2026-04-22-x-ddg-default-web-search-in-agent-skills|x DDG default web-search in agent skills]]
 - Later: 2026-05-03 · Ollama · [[Changes/Ollama/2026-05-03-web-search-coming-soon|Web Search (coming soon)]]
 <!-- chronolog:end -->
 

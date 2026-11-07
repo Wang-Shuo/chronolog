@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0d60288c1d19ea51f9975db37cd1680fe74e5854e22cedc2afe473df6e21824c
+machine_hash: 8b19fc4a891a4e334fe9ad4afd20cdbfee6cbafb6f6909ffab5d3cee288d147c
 product: open-webui
 product_name: Open WebUI
 record:
@@ -50,12 +50,10 @@ record:
   title: 2 Automation and Scheduling changes in v0.12.5
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-10-27-refactor-core-cli-emit-tool-call-groups-from-the-scheduler-and-drop-the-ui-looka|refactor(core,cli):
-  emit tool call groups from the scheduler and drop the UI lookahead]]'
-- '[[Changes/OpenClaw/2026-10-27-4-automation-and-scheduling-changes-in-v2026-10-8|4
-  Automation and Scheduling changes in v2026.10.8]]'
-- '[[Changes/OpenHands/2026-10-27-6-automation-and-scheduling-changes-in-v1-34-0|6
-  Automation and Scheduling changes in v1.34.0]]'
+- '[[Changes/Devin/2026-10-28-automations|Automations]]'
+- '[[Changes/Devin/2026-10-28-devin-oncall|Devin Oncall]]'
+- '[[Changes/Raycast/2026-10-28-my-schedule-added-missing-copy-event-attendee-actions|My
+  Schedule: Added missing Copy Event Attendee actions]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-10-29-v0-12-5-github-427647877-d6957e2e|open-webui-2026-10-29-v0-12-5-github-427647877-d6957e2e]]'
 source_type: github_releases
 theme: automation-scheduling
@@ -104,7 +102,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.12.5
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2026-10-27 · OpenHands · [[Changes/OpenHands/2026-10-27-6-automation-and-scheduling-changes-in-v1-34-0|6 Automation and Scheduling changes in v1.34.0]]
+- Earlier: 2026-10-28 · Raycast · [[Changes/Raycast/2026-10-28-my-schedule-added-missing-copy-event-attendee-actions|My Schedule: Added missing Copy Event Attendee actions]]
 - Later: 2026-10-29 · OpenCode · [[Changes/OpenCode/2026-10-29-sdk-add-client-experimental-schedule-create-list-get-pause-resume-delete-for-man|SDK Add…]]
 <!-- chronolog:end -->
 

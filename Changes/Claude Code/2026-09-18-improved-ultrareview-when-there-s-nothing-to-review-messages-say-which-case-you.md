@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 769c5b2a4abd488a7f535548e8bf0a4769aa81fb8f36b4f7b5a6f05a29eed810
+machine_hash: 0d0c72e8db8cb1a35a4455ec24ce096f8d1452f386064dd8d06fd1d2ce84fca0
 product: claude-code
 product_name: Claude Code
 record:
@@ -94,7 +94,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-09-17 · Kimi Code · [[Changes/Kimi Code/2026-09-17-render-mermaid-code-blocks-as-diagrams-in-the-terminal-turn-it-off-under-setting|Render mermaid code blocks as diagrams in the terminal]]
-- Later: 2026-09-18 · Google Antigravity · [[Changes/Google Antigravity/2026-09-18-a-command-that-is-killed-when-the-app-restarts-is-now-reported-as-canceled-inste|A command that is killed when the app restarts is now reported as canceled instead…]]
+- Later: 2026-09-18 · Devin · [[Changes/Devin/2026-09-18-perforce-workspace-follows-connection-changes|Perforce: Workspace Follows Connection Changes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

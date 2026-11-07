@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: b482dcc15b774bc0ddbf3485163aec544e2ce3e522d91a5c94fc4b5475c6267b
+machine_hash: 9c3758b707767d1b22db4ef6a502ad3af41e0a1446209fc3fe5e5411aba00fe2
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
     gateway…
   type: change
 related_changes:
-- '[[Changes/Suno/2026-09-09-introducing-the-v6-family-of-music-models|Introducing
-  the v6 family of music models]]'
 - '[[Changes/Claude Code/2026-09-10-2-model-support-changes-in-v2-1-268|2 Model Support
   changes in v2.1.268]]'
 - '[[Changes/Dify/2026-09-10-76-model-support-changes-in-1-17-1|76 Model Support changes
   in 1.17.1]]'
+- '[[Changes/Raycast/2026-09-10-ai-models-are-now-grouped-more-consistently-by-provider-including-models-from-ve|AI:
+  Models are now grouped more consistently by provider, including models…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-11-v2-1-269-github-387243742-288e9189|claude-code-2026-09-11-v2-1-269-github-387243742-288e9189]]'
 source_type: github_releases
 theme: model-support
@@ -89,7 +89,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-09-10 · Dify · [[Changes/Dify/2026-09-10-76-model-support-changes-in-1-17-1|76 Model Support changes in 1.17.1]]
+- Earlier: 2026-09-10 · Raycast · [[Changes/Raycast/2026-09-10-ai-models-are-now-grouped-more-consistently-by-provider-including-models-from-ve|AI: Models are now grouped more consistently by provider, including models…]]
 - Later: 2026-09-11 · ElevenLabs · [[Changes/ElevenLabs/2026-09-11-scribe-v2-medical|Scribe v2 Medical]]
 <!-- chronolog:end -->
 

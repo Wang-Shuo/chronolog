@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 46235f0fcd6d38ac41539ec6dd1bb8e93d8e866ebcb33d36a0fcb55ff3090cef
+machine_hash: 19a6400f8c2fc6c6363c2f7b070b3cc10c05cc4371d2a2c88721f7e06b765999
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,8 +42,8 @@ record:
   title: '#8024 docs: document enabling experimental skills'
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2025-12-02-sentencetransformers-embedding-initialization-was-fixed-by-updating-the-transfor|\U0001F40D
-  SentenceTransformers embedding initialization was fixed by updating…]]"
+- '[[Changes/AnythingLLM/2025-12-09-feat-add-base64-document-attachment-support-to-api-chat-endpoints-by-naaa760-in|feat:
+  add base64 document attachment support to API chat endpoints]]'
 - '[[Changes/Dify/2025-12-11-5-files-and-data-changes-in-1-11-0|5 Files and Data changes
   in 1.11.0]]'
 - '[[Changes/Dify/2025-12-12-perf-optimize-save-document-with-dataset-id-by-fatelei-in-https-github-com-langg|perf:

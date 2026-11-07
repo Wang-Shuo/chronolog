@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: a9d67908e9292efb6a52579f6da3af913476d43fb5ed40ad12344dd5b29d8991
+machine_hash: ecca7b525f95d22a9c2aab3bea6c7326ec4b3d8ae2c66e38d272cc2aaeaeed9b
 product: lovable
 product_name: Lovable
 record:
@@ -51,8 +51,8 @@ record:
   title: Connect your app to Bing Webmaster Tools
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-14-19-apps-and-integrations-changes-in-v2-1-299|19
-  Apps and Integrations changes in v2.1.299]]'
+- '[[Changes/Devin/2026-10-14-clearer-mcp-server-and-plugin-approval-cards|Clearer
+  MCP Server and Plugin Approval Cards]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-14-2-apps-and-integrations-changes-in-v1-0-98|2
   Apps and Integrations changes in v1.0.98]]'
 - '[[Changes/Kimi Code/2026-10-14-2-apps-and-integrations-changes-in-kimi-code-2-2-0|2

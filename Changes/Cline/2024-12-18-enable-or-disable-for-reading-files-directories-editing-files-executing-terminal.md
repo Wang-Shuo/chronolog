@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5ec19c76f9a2e1c53d419fd4b638c91edfa41729a3302baf6670866dc1cfc205
+machine_hash: ab55b35b5179676c888fe6fafe3db31df3d65429e87461b8a02856746cd7e693
 product: cline
 product_name: Cline
 record:
@@ -52,11 +52,10 @@ record:
   title: Enable or disable for
   type: change
 related_changes:
-- '[[Changes/Replit/2024-12-13-more-beautiful-apps-improved-support-for-responsive-react-apps-allows-you-to-cre|More
-  Beautiful Apps: Improved support for responsive React apps allows you…]]'
 - '[[Changes/Replit/2024-12-13-build-beautiful-apps|Build Beautiful Apps]]'
 - '[[Changes/Dify/2024-12-16-features-integration-of-apache-opendal-https-github-com-apache-opendal-storage-f|Features
   integration of Apache OpenDAL((source link) storage…]]'
+- '[[Changes/Raycast/2024-12-16-raycast-wrapped-2024|Raycast Wrapped 2024]]'
 source_release: '[[Releases/Cline/cline-2024-12-18-v3-0-0-github-191549962-04b25c94|cline-2024-12-18-v3-0-0-github-191549962-04b25c94]]'
 source_type: github_releases
 theme: apps-integrations
@@ -88,7 +87,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2024-12-16 · Dify · [[Changes/Dify/2024-12-16-features-integration-of-apache-opendal-https-github-com-apache-opendal-storage-f|Features integration of Apache OpenDAL((source link) storage…]]
+- Earlier: 2024-12-16 · Raycast · [[Changes/Raycast/2024-12-16-raycast-wrapped-2024|Raycast Wrapped 2024]]
 - Later: 2024-12-18 · Dify · [[Changes/Dify/2024-12-18-opendal-integration-introducing-apache-opendal-https-github-com-apache-opendal-t|OpenDAL Integration: Introducing Apache…]]
 <!-- chronolog:end -->
 

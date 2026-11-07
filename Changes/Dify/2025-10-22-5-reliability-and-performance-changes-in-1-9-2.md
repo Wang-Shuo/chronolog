@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 39d0aed244ad5f0faf867371ccae1dbb92327da12b127ff4a718da961e32d043
+machine_hash: 6a7acebca28ea16908bf15d2746457ed119a6efad85fc309e4996cec6da3f5cb
 product: dify
 product_name: Dify
 record:
@@ -55,10 +55,10 @@ record:
   title: 5 Reliability and Performance changes in 1.9.2
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2025-10-16-various-improvements-were-implemented-across-the-frontend-and-backend-to-enhance|\U0001F504
-  Various improvements were implemented across the frontend and backend to enhance…]]"
 - '[[Changes/Windsurf/2025-10-16-various-stability-improvements-and-minor-bug-fixes|Various
   stability improvements and minor bug fixes]]'
+- '[[Changes/Superwhisper/2025-10-17-wave-rendering-performance-improvements|Wave
+  rendering performance improvements]]'
 - '[[Changes/Gamma/2025-10-21-need-to-create-similar-content-with-a-consistent-structure-and-formatting|Need
   to create similar content with a consistent structure and formatting?]]'
 source_release: '[[Releases/Dify/dify-2025-10-22-1-9-2-github-255984243-4bd350a7|dify-2025-10-22-1-9-2-github-255984243-4bd350a7]]'

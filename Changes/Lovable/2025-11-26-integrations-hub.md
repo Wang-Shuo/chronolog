@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: cbf551d96aced3099d986cc699c19602556047fb7a9fdf142f2c6b896ca0059b
+machine_hash: 48d9d04055bdb6c1dceaa51106382fc65bd534da39c0d3c307e561eefca4e09f
 product: lovable
 product_name: Lovable
 record:
@@ -93,7 +93,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2025-11-26 · Gemini CLI · [[Changes/Gemini CLI/2025-11-26-feat-zed-integration-use-default-model-routing-for-zed-integration-by-benbrandt|feat(zed-integration): Use default model routing for Zed integration]]
-- Later: 2025-11-27 · Cline · [[Changes/Cline/2025-11-27-feat-hooks-implement-taskcomplete-hook-by-candieduniverse-in-https-github-com-cl|feat(hooks): Implement TaskComplete hook]]
+- Later: 2025-11-26 · Superwhisper · [[Changes/Superwhisper/2025-11-26-allow-override-of-mode-set-by-activation-apps|Allow override of mode set by activation apps]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

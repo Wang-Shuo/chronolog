@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1d4d8018a6c88a19def221ca256884e95b28ab6b453b228988710c175cde1b09
+machine_hash: 22f17e815b0137a0dd094c4ce48b57056440e64193d1c3d18c3c8fa5f4d0c593
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -42,10 +42,10 @@ record:
   title: 2 Editor Experience changes in v1.0.62
   type: change
 related_changes:
-- '[[Changes/Gamma/2026-06-12-a-smoother-editing-and-presenting-experience|A smoother
-  editing and presenting experience]]'
-- '[[Changes/Kimi Code/2026-06-12-find-slash-commands-by-their-aliases-in-autocomplete-typing-clear-now-suggests-n|Find
-  slash commands by their aliases in autocomplete]]'
+- '[[Changes/Raycast/2026-06-12-focus-edit-focus-session-adjusts-the-duration-or-blocked-categories-while-a-sess|Focus:
+  Edit Focus Session adjusts the duration or blocked categories while a session…]]'
+- '[[Changes/Raycast/2026-06-12-focus-edit-focus-session-adjusts-the-duration-or-blocked-categories-while-a-sess-c7e920|Focus:
+  Edit Focus Session adjusts the duration or blocked categories while a session…]]'
 - '[[Changes/Synthesia/2026-06-12-a-set-of-small-but-satisfying-editor-improvements-to-resizing-trimming-stock-sea|10
   improvements to your Editor experience]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-06-13-v1-0-62-github-339039020-f6ff7e5e|github-copilot-cli-2026-06-13-v1-0-62-github-339039020-f6ff7e5e]]'

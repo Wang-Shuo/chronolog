@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: dd23ce4dfa280277654f56f7a7e494dc8b54e8c34b65875f958d5b7e8ab45eee
+machine_hash: f87073c5f5c523683e536422d3b93f944a3a2c9e271112f303101cf1d7735c4b
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,7 +45,8 @@ record:
     now…'
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-08-17-packages|Packages]]'
+- '[[Changes/Superwhisper/2026-08-19-local-mode-is-now-suggested-automatically-when-your-keyboard-is-set-to-english-m|Local
+  Mode is now suggested automatically when your keyboard is set to English…]]'
 - '[[Changes/Codex CLI/2026-08-20-39045-add-managed-gates-for-in-app-chat-and-dictation-copyberry|♯39045
   Add managed gates for in-app chat and dictation @copyberry]]'
 - '[[Changes/Google Antigravity/2026-08-20-large-binary-attachments-returned-by-connected-mcp-tools-images-pdfs-and-audio-a|Large

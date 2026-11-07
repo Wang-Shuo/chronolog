@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 616228eb5d57f93694ab81db75e4a75d6f4a2dbac466e5f64017c62573922828
+machine_hash: 361cf26aac15920cdacb9c3359486ff13dc92188b48416a62c63d7b2eb459e78
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -46,12 +46,12 @@ record:
   title: 3 Apps and Integrations changes in rust-v0.107.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-02-27-plugin-and-marketplace-git-repos-update-correctly-after-force-pushes-and-tag-bas|Plugin
-  and marketplace git repos update correctly after force-pushes and tag-based…]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-27-3-apps-and-integrations-changes-in-v0-0-419|3
   Apps and Integrations changes in v0.0.419]]'
 - '[[Changes/Claude Code/2026-02-28-added-enable-claudeai-mcp-servers-false-env-var-to-opt-out-from-making-claude-ai|Added
   ENABLE_CLAUDEAI_MCP_SERVERS=false env var to opt out from making claude.ai…]]'
+- '[[Changes/AnythingLLM/2026-03-02-lemonade-integration-by-timothycarambat-in-https-github-com-mintplex-labs-anythi|Lemonade
+  integration]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-03-02-rust-v0-107-0-github-292187522-c29f3a8f|codex-cli-2026-03-02-rust-v0-107-0-github-292187522-c29f3a8f]]'
 source_type: github_releases
 theme: apps-integrations
@@ -97,7 +97,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.107.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-02-28 · Claude Code · [[Changes/Claude Code/2026-02-28-added-enable-claudeai-mcp-servers-false-env-var-to-opt-out-from-making-claude-ai|Added ENABLE_CLAUDEAI_MCP_SERVERS=false env var to opt out from making claude.ai…]]
+- Earlier: 2026-03-02 · AnythingLLM · [[Changes/AnythingLLM/2026-03-02-lemonade-integration-by-timothycarambat-in-https-github-com-mintplex-labs-anythi|Lemonade integration]]
 - Later: 2026-03-02 · ElevenLabs · [[Changes/ElevenLabs/2026-03-02-javascript-sdk|JavaScript SDK]]
 <!-- chronolog:end -->
 

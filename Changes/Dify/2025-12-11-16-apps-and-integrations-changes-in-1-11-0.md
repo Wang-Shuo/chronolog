@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e9b42e2e050900e6cde1e3bbc1f22e483176d752c13cfc6fcd89573dd8c8a783
+machine_hash: 90b274d4cfa277b5b16e8c0513adca998923a8191a4878f0077a2350721c0a9c
 product: dify
 product_name: Dify
 record:
@@ -163,7 +163,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.11.0
 ## Nearby in Apps and Integrations
 
 - Earlier: 2025-12-11 · Cline · [[Changes/Cline/2025-12-11-7-apps-and-integrations-changes-in-v3-41-0|7 Apps and Integrations changes in v3.41.0]]
-- Later: 2025-12-12 · Dify · [[Changes/Dify/2025-12-12-6-apps-and-integrations-changes-in-1-11-1|6 Apps and Integrations changes in 1.11.1]]
+- Later: 2025-12-12 · Devin · [[Changes/Devin/2025-12-12-the-connected-accounts-section-in-organization-settings-has-been-renamed-to-inte|The "Connected accounts" section in organization settings has been renamed…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6bc83a5837a29b5d571c227ebb49c88ec8ac01c34c05c3a541d27d11405b9046
+machine_hash: 1520b1673cb59aafd4be30e3a4902d0404d8a536bd32ab63ab3e264c99cc92b7
 product: dify
 product_name: Dify
 record:
@@ -40,10 +40,10 @@ record:
   title: add zhipuai web search
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2024-09-04-2-search-and-browsing-changes-in-v0-3-17|2 Search
-  and Browsing changes in v0.3.17]]'
 - "[[Changes/Open WebUI/2024-09-07-refined-web-search-integration-deprecated-the-search-query-generation-prompt-thr|\U0001F310
   Refined Web Search Integration]]"
+- '[[Changes/AnythingLLM/2024-09-11-feature-add-searchapi-web-browsing-by-timothycarambat-in-https-github-com-mintpl|Feature/add
+  searchapi web browsing]]'
 - "[[Changes/Open WebUI/2024-09-24-web-search-functionality-corrected-an-issue-where-the-web-search-option-was-not|\U0001F50D
   Web Search Functionality]]"
 source_release: '[[Releases/Dify/dify-2024-09-30-0-9-0-github-177564351-208577ea|dify-2024-09-30-0-9-0-github-177564351-208577ea]]'
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Search and Browsing
 
 - Earlier: 2024-09-24 · Open WebUI · [[Changes/Open WebUI/2024-09-24-web-search-functionality-corrected-an-issue-where-the-web-search-option-was-not|🔍 Web Search Functionality]]
-- Later: 2024-10-23 · Gamma · [[Changes/Gamma/2024-10-23-browse-your-entire-workspace-s-images-while-editing-any-gamma|Browse your entire workspace’s images while editing any gamma]]
+- Later: 2024-10-03 · AnythingLLM · [[Changes/AnythingLLM/2024-10-03-tavily-search-web-search-agent-support-by-shatfield4-in-https-github-com-mintple|Tavily search web search agent support]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

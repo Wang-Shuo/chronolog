@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 93508bc632be085eb0698cdf06f351882a86eef4ca89ef4abd49d2008ee5a29d
+machine_hash: 2cae1fd13c8f50222301c77a2781a995266bb3654da23d956dadde0e4960a1c3
 product: deepseek-api
 product_name: DeepSeek API
 record:
@@ -57,10 +57,10 @@ record:
   title: deepseek-chat
   type: change
 related_changes:
-- '[[Changes/Aider/2024-06-20-2-model-support-changes-in-v0-39-0|2 Model Support changes
-  in v0.39.0]]'
-- '[[Changes/Aider/2024-06-24-2-model-support-changes-in-v0-40-0|2 Model Support changes
-  in v0.40.0]]'
+- '[[Changes/Superwhisper/2024-06-24-add-anthropic-claude-3-5-sonnet-to-custom-ai-models|Add
+  Anthropic Claude 3.5 Sonnet to Custom AI models]]'
+- '[[Changes/Superwhisper/2024-06-24-add-anthropic-claude-3-5-sonnet-to-superwhisper-pro-models|Add
+  Anthropic Claude 3.5 Sonnet to Superwhisper Pro models]]'
 - '[[Changes/Ollama/2024-06-27-added-support-for-google-gemma-2-models-9b-and-27b|Added
   support for Google Gemma 2 models (9B and 27B)]]'
 source_release: '[[Releases/DeepSeek API/deepseek-api-2024-06-28-2024-06-28-b5956c4e|deepseek-api-2024-06-28-2024-06-28-b5956c4e]]'

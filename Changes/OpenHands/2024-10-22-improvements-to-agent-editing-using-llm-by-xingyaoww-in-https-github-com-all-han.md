@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: e99ac5b949a35c388252d07de15809426262ed8305d174329ff92964ae805424
+machine_hash: 7d6b8db6c6be8ecc08607f58ff013ced28dd329abc17652ddd6e59e7f7075ece
 product: openhands
 product_name: OpenHands
 record:
@@ -53,8 +53,8 @@ record:
   title: Improvements to Agent Editing using LLM
   type: change
 related_changes:
-- '[[Changes/Dify/2024-09-30-2-agent-mode-changes-in-0-9-0|2 Agent Mode changes in
-  0.9.0]]'
+- '[[Changes/AnythingLLM/2024-10-03-2-agent-mode-changes-in-v1-2-3|2 Agent Mode changes
+  in v1.2.3]]'
 - '[[Changes/ElevenLabs/2024-10-13-agents-platform-beta-agents-platform-is-now-in-beta|Agents
   Platform Beta: Agents Platform is now in beta]]'
 - '[[Changes/Dify/2024-10-14-external-knowledge-and-retrievals-addressing-issues-in-agent-retrieval-and-entry|External
@@ -88,7 +88,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2024-10-14 · Dify · [[Changes/Dify/2024-10-14-external-knowledge-and-retrievals-addressing-issues-in-agent-retrieval-and-entry|External Knowledge and Retrievals: Addressing issues in agent retrieval…]]
-- Later: 2024-11-08 · OpenHands · [[Changes/OpenHands/2024-11-08-2-agent-mode-changes-in-0-13-0|2 Agent Mode changes in 0.13.0]]
+- Later: 2024-10-25 · AnythingLLM · [[Changes/AnythingLLM/2024-10-25-3-agent-mode-changes-in-v1-2-4|3 Agent Mode changes in v1.2.4]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

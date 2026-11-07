@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: ae999e14a98b64092250b02279d963e1c733221107a501708ba0880563e54424
+machine_hash: 5d41568ebd1f297f6a7d2d6ea2aafe5731324ec507e1ed691ba140b1ad9f06cd
 product: notion
 product_name: Notion
 record:
@@ -45,7 +45,8 @@ record:
   title: mention groups
   type: change
 related_changes:
-- '[[Changes/Notion/2022-06-29-request-access-to-pages|Request access to pages]]'
+- '[[Changes/Raycast/2023-02-01-file-search-the-authorisation-prompt-should-no-longer-appear-after-denying-permi|File
+  Search: The authorisation prompt should no longer appear after denying permissions]]'
 - '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
   mode for opting out of storing any kind of data on our servers]]'
 - '[[Changes/Notion/2023-04-27-2-step-verification-a-k-a-2fa-mfa|2-step verification

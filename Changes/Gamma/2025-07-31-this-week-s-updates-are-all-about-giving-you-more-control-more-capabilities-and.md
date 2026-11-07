@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 76ca6dbdcccfd7933e303a11c4d52e114fa00c3c8648b884e91fd7b4dc5f7a1a
+machine_hash: 938724f0ccbeeeee13b67a0aeadefcb5e2938cbde84904bd7962f22418dfc111
 product: gamma
 product_name: Gamma
 record:
@@ -47,12 +47,12 @@ record:
   title: This week’s updates are all about giving you more control, more capabilities…
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2025-05-26-image-generation-with-allowed-file-extensions-now-works-reliably-ensure-seamless|\U0001F5BC️
-  Image Generation with Allowed File Extensions Now Works Reliably]]"
-- '[[Changes/Midjourney/2025-05-29-midjourney-v7-image-generation-is-now-40-faster|Midjourney
-  V7 image generation is now ~40% faster!]]'
 - "[[Changes/Open WebUI/2025-06-10-better-handling-storage-of-interpreter-generated-images-code-interpreter-generat|\U0001F3DE️
   Better Handling & Storage of Interpreter-Generated Images]]"
+- '[[Changes/Raycast/2025-06-17-ai-you-can-choose-with-image-generation-tool-to-use-in-chat-settings|AI:
+  You can choose with image generation tool to use in chat settings]]'
+- '[[Changes/Recraft/2025-07-09-recraft-now-supports-the-model-context-protocol-letting-you-generate-images-dire|Recraft
+  now supports the Model Context Protocol, letting you generate images…]]'
 source_release: '[[Releases/Gamma/gamma-2025-07-31-688bc96c0a9c28a3d3acb3b1-82b8c5ff|gamma-2025-07-31-688bc96c0a9c28a3d3acb3b1-82b8c5ff]]'
 source_type: gamma_changelog
 theme: image-generation
@@ -81,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Image Generation
 
-- Earlier: 2025-06-10 · Open WebUI · [[Changes/Open WebUI/2025-06-10-better-handling-storage-of-interpreter-generated-images-code-interpreter-generat|🏞️ Better Handling & Storage of Interpreter-Generated Images]]
+- Earlier: 2025-07-09 · Recraft · [[Changes/Recraft/2025-07-09-recraft-now-supports-the-model-context-protocol-letting-you-generate-images-dire|Recraft now supports the Model Context Protocol, letting you generate images…]]
 - Later: 2025-08-08 · ChatGPT · [[Changes/ChatGPT/2025-08-08-we-re-rolling-out-a-small-update-to-image-generation-for-chatgpt-free-tier-users|Image generation update to ChatGPT Free]]
 <!-- chronolog:end -->
 

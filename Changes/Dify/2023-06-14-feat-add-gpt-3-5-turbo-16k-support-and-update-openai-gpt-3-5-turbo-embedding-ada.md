@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: pricing
-machine_hash: aeb49348ae41919a93fe219f4c0640039f3afcef8e9238dedd7b30e311d4f926
+machine_hash: 487d8babd33fb8b2b0a9d76ff05cf371ebc19ae47b8d8458c3f5d9d828dc9505
 product: dify
 product_name: Dify
 record:
@@ -47,11 +47,10 @@ record:
     Ada…'
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-03-27-adds-an-optional-paid-plan-if-you-d-like-to-avoid-the-server-capacity-rate-limit|Adds
-  an optional paid plan if you''d like to avoid the server capacity rate limits]]'
-- '[[Changes/Cursor/2023-04-19-150k-gpt-4-tokens-included|150k GPT-4 tokens included]]'
-- '[[Changes/Notion/2023-04-27-extended-free-access-for-startups-including-unlimited-ai|Extended
-  free access for startups — including unlimited AI]]'
+- '[[Changes/Raycast/2023-05-10-unlimited-clipboard-history|Unlimited Clipboard History]]'
+- '[[Changes/Raycast/2023-05-10-cloud-sync|Cloud Sync]]'
+- '[[Changes/Raycast/2023-05-10-today-we-re-introducing-raycast-pro-a-paid-plan-that-unlocks-a-new-level-of-prod|Raycast
+  introduces Raycast Pro , a paid plan that unlocks a new level of productivity]]'
 source_release: '[[Releases/Dify/dify-2023-06-14-0-3-3-github-108514085-231595fd|dify-2023-06-14-0-3-3-github-108514085-231595fd]]'
 source_type: github_releases
 theme: pricing-model
@@ -81,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2023-04-27 · Notion · [[Changes/Notion/2023-04-27-extended-free-access-for-startups-including-unlimited-ai|Extended free access for startups — including unlimited AI]]
+- Earlier: 2023-05-10 · Raycast · [[Changes/Raycast/2023-05-10-today-we-re-introducing-raycast-pro-a-paid-plan-that-unlocks-a-new-level-of-prod|Raycast introduces Raycast Pro , a paid plan that unlocks a new level of productivity]]
 - Later: 2023-06-25 · Aider · [[Changes/Aider/2023-06-25-enables-display-of-cost-info-based-on-openai-advertised-pricing|Enables display of cost info based on OpenAI advertised pricing]]
 <!-- chronolog:end -->
 

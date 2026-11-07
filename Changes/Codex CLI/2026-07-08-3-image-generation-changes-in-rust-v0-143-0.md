@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 677cd1ce2f2125f0bb9bb9516d4b55a32bfc55b013f2dd0a18145138ec942d7e
+machine_hash: cf2dc156604decb6b5ff08ea3d02130f6557387824b4ee15da5d9db447fc1148
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -45,12 +45,12 @@ record:
   title: 3 Image Generation changes in rust-v0.143.0
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-06-22-better-standard-image-generation-while-building|Better
-  standard image generation while building]]'
 - "[[Changes/Open WebUI/2026-06-29-usable-chat-input-on-mobile-with-many-tools-when-skills-tools-terminal-web-searc|\U0001F4F1
   Usable chat input on mobile with many tools. When skills, tools, terminal, web…]]"
 - '[[Changes/OpenClaw/2026-06-30-generated-images-from-a-remote-codex-app-server-now-arrive-as-attachments-instea|Generated
   images from a remote Codex app-server now arrive as attachments instead…]]'
+- '[[Changes/Recraft/2026-07-01-we-ve-added-nano-banana-2-lite-for-image-generation-in-recraft-studio-available|Recraft
+  adds Nano Banana 2 Lite for image generation in Recraft Studio]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-07-08-rust-v0-143-0-github-350650561-9eba805c|codex-cli-2026-07-08-rust-v0-143-0-github-350650561-9eba805c]]'
 source_type: github_releases
 theme: image-generation
@@ -100,7 +100,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.143.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Image Generation
 
-- Earlier: 2026-06-30 · OpenClaw · [[Changes/OpenClaw/2026-06-30-generated-images-from-a-remote-codex-app-server-now-arrive-as-attachments-instea|Generated images from a remote Codex app-server now arrive as attachments instead…]]
+- Earlier: 2026-07-01 · Recraft · [[Changes/Recraft/2026-07-01-we-ve-added-nano-banana-2-lite-for-image-generation-in-recraft-studio-available|Recraft adds Nano Banana 2 Lite for image generation in Recraft Studio]]
 - Later: 2026-07-08 · Lovable · [[Changes/Lovable/2026-07-08-images-lovable-generates-are-labeled-as-ai-generated|Images Lovable generates are labeled as AI-generated]]
 <!-- chronolog:end -->
 

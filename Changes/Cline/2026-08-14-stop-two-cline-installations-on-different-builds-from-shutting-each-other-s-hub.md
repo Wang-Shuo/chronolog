@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5ffba023fea7b9dd2c292c01727628d1f10359bd0234a5522b67cf9eb3c88f77
+machine_hash: b8689dd4e3c134d963816c3f0d453ef43bfe7d3333100885e8be570a30f2f669
 product: cline
 product_name: Cline
 record:
@@ -88,7 +88,7 @@ type: change
 ## Nearby in Automation and Scheduling
 
 - Earlier: 2026-08-13 · Suno · [[Changes/Suno/2026-08-13-automation-change-your-effect-parameters-over-time-to-breathe-life-into-your-fin|Automation: Change your effect parameters over time to breathe life into your final mix]]
-- Later: 2026-08-17 · OpenHands · [[Changes/OpenHands/2026-08-17-feat-automations-add-a-git-sync-page-by-vascosch92-in-https-github-com-openhands|feat(automations): add a Git Sync page]]
+- Later: 2026-08-14 · Devin · [[Changes/Devin/2026-08-14-in-page-search-in-automations|In-Page Search in Automations]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e21bfdd214061c04078b4b2583366ad8b505a419290ad9a579aefdc06fd08e7b
+machine_hash: 7842854280eba5381e6158de3a59503d50cbcc7701019fbd0e6dcf9faae7b877
 product: openhands
 product_name: OpenHands
 record:
@@ -44,8 +44,8 @@ record:
   title: 2 Automation and Scheduling changes in v1.33.0
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-10-22-feat-automations-reflect-the-built-in-integration-s-connection-state-in-the-setu|feat(automations):
-  reflect the built-in integration''s connection state in the setup…]]'
+- '[[Changes/Devin/2026-10-23-github-issue-assignment-triggers-and-devin-prefix-filter|GitHub
+  Issue Assignment Triggers and @Devin-prefix Filter]]'
 - '[[Changes/Dify/2026-10-23-2-automation-and-scheduling-changes-in-1-18-0|2 Automation
   and Scheduling changes in 1.18.0]]'
 - '[[Changes/OpenHands/2026-10-23-3-automation-and-scheduling-changes-in-v1-32-0|3

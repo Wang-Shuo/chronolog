@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: a13bf986df8c6626bfa982985b0404aca7fa6b4c11acf43a7b9ac260abfb8b4e
+machine_hash: 816eda44c01592857d1a2de84b16163f6f58671b8926d2586fe0dddb1fa2cbc2
 product: descript
 product_name: Descript
 record:
@@ -51,8 +51,8 @@ record:
   title: Scene toolbar
   type: change
 related_changes:
-- '[[Changes/Dify/2025-01-22-3-files-and-data-changes-in-0-15-2|3 Files and Data changes
-  in 0.15.2]]'
+- '[[Changes/AnythingLLM/2025-01-29-2-files-and-data-changes-in-v1-4-0|2 Files and
+  Data changes in v1.4.0]]'
 - "[[Changes/Open WebUI/2025-02-05-code-interpreter-models-can-now-execute-code-in-real-time-to-refine-their-answer|\U0001F5A5️
   Code Interpreter]]"
 - '[[Changes/ChatGPT/2025-02-06-users-can-now-share-a-canvas-asset-such-as-rendered-react-html-code-document-or-2f5aff|Canvas

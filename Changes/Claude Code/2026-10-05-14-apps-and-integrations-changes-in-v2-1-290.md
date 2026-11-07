@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 743aeb25b930681c727589eb08709ab44bd68e8c2c9202b63b140e8d5227ab56
+machine_hash: 239065d8a3ddbed53e930ec557ba9a390f4867aabcd08f821bf3ee31c481f4e7
 product: claude-code
 product_name: Claude Code
 record:
@@ -84,8 +84,8 @@ record:
   title: 14 Apps and Integrations changes in v2.1.290
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-02-5-apps-and-integrations-changes-in-v2-1-288|5
-  Apps and Integrations changes in v2.1.288]]'
+- '[[Changes/Devin/2026-10-02-mcp-settings-show-only-the-controls-you-can-use|MCP
+  Settings Show Only the Controls You Can Use]]'
 - '[[Changes/Replit/2026-10-02-jev-is-now-available-through-replit-ai-integrations|Jev
   is now available through Replit AI Integrations]]'
 - '[[Changes/Claude Code/2026-10-03-2-apps-and-integrations-changes-in-v2-1-289|2

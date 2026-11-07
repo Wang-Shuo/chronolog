@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ffe888c1aad9789fe2157e3efb43a158e22dccf827534f795a09b3f25c9e4c4e
+machine_hash: 585bf7dfe9bb6108fa8871829030d0e41c63721064df00d9e4d0850603e45480
 product: dify
 product_name: Dify
 record:
@@ -44,12 +44,12 @@ record:
   title: '**Conversation Panel Optimization**'
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2025-06-10-tooltip-translation-clarity-improved-translation-and-tooltip-clarity-especially|\U0001F6E0️
-  Tooltip & Translation Clarity]]"
 - '[[Changes/Windsurf/2025-06-10-new-menu-to-open-previous-conversations-to-quickly-switch-conversations|New
   menu to open previous conversations to quickly switch conversations]]'
 - '[[Changes/Dify/2025-06-11-markdown-rendering-fixes-ensured-abbreviations-display-properly-in-react-markdow|Markdown
   Rendering Fixes]]'
+- '[[Changes/Raycast/2025-06-11-apps-can-also-be-minimised-with-the-hotkey|Apps can
+  also be minimised with the hotkey]]'
 source_release: '[[Releases/Dify/dify-2025-06-16-1-4-3-github-225472835-d7a5d7fa|dify-2025-06-16-1-4-3-github-225472835-d7a5d7fa]]'
 source_type: github_releases
 theme: interface-experience
@@ -85,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2025-06-11 · Dify · [[Changes/Dify/2025-06-11-markdown-rendering-fixes-ensured-abbreviations-display-properly-in-react-markdow|Markdown Rendering Fixes]]
+- Earlier: 2025-06-11 · Raycast · [[Changes/Raycast/2025-06-11-apps-can-also-be-minimised-with-the-hotkey|Apps can also be minimised with the hotkey]]
 - Later: 2025-06-16 · Midjourney · [[Changes/Midjourney/2025-06-16-basic-instructions|Basic Instructions]]
 <!-- chronolog:end -->
 

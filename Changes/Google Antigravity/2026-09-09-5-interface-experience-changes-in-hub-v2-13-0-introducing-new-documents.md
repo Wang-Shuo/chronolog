@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6fbe3139d61f0e5935943e96011402d0fedb6e7905cefee4a76abe5cbfd71bc8
+machine_hash: d9751237ee15c93886b3ce90b0c6e62824880582e34f0b0b48b716ac846e0562
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -56,12 +56,10 @@ record:
   title: 5 Interface Experience changes in HUB v2.13.0 — Introducing new Documents…
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-09-08-11-interface-experience-changes-in-v2026-9-3|11 Interface
-  Experience changes in v2026.9.3]]'
-- '[[Changes/Claude Code/2026-09-09-improved-the-diff-panel-it-no-longer-flashes-0-files-changed-and-a-spinner-befor|Improved
-  the /diff panel]]'
-- '[[Changes/Codex CLI/2026-09-09-4-interface-experience-changes-in-rust-v0-154-0|4
-  Interface Experience changes in rust-v0.154.0]]'
+- '[[Changes/Devin/2026-09-09-cleaner-chat-rendering|Cleaner Chat Rendering]]'
+- '[[Changes/Devin/2026-09-09-roles-and-access|Roles and Access]]'
+- '[[Changes/Devin/2026-09-09-multi-pr-dropdown-in-the-sidebar|Multi-PR Dropdown in
+  the Sidebar]]'
 source_release: '[[Releases/Google Antigravity/google-antigravity-2026-09-09-rel-hub-2-13-0-0c6af7b7|google-antigravity-2026-09-09-rel-hub-2-13-0-0c6af7b7]]'
 source_type: antigravity_changelog
 theme: interface-experience
@@ -107,7 +105,7 @@ Source: https://antigravity.google/releases?tab=hub&version=2.13.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-09-09 · Codex CLI · [[Changes/Codex CLI/2026-09-09-4-interface-experience-changes-in-rust-v0-154-0|4 Interface Experience changes in rust-v0.154.0]]
+- Earlier: 2026-09-09 · Devin · [[Changes/Devin/2026-09-09-multi-pr-dropdown-in-the-sidebar|Multi-PR Dropdown in the Sidebar]]
 - Later: 2026-09-09 · Lovable · [[Changes/Lovable/2026-09-09-redesigned-chat-actions-menu-in-projects|Redesigned Chat actions menu in projects]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 576d104ac31bbb278f11d8eddf8083e79dd3b086b477cb818b0ec8ab3df68994
+machine_hash: b42caa2989cf4e33b5eb7e12d90be0bf4ea1b68b290f58f2d562edea4a7f681e
 product: synthesia
 product_name: Synthesia
 record:

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: d1ce9ece59ffa8740a38e1295d1b27bfa5008ee7f47612fff3cbc1cf8f882ef2
+machine_hash: 9471c2550d732a0497ecc02f0cbe7bcec654815c440a6ddd0ead4c5557f13b80
 product: v0
 product_name: v0
 record:
@@ -48,9 +48,10 @@ record:
     work
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-10-19-python-sdk|Python SDK]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-19-10-apps-and-integrations-changes-in-v1-0-100|10
   Apps and Integrations changes in v1.0.100]]'
+- '[[Changes/Krea/2026-10-19-quote-a-generation-with-mcp-preflight|Quote a generation
+  with MCP preflight]]'
 - '[[Changes/Lovable/2026-10-19-connect-your-app-to-cube|Connect your app to Cube]]'
 source_release: '[[Releases/v0/v0-2026-10-19-2026-10-19-slack-mcp-d88c5c2f|v0-2026-10-19-2026-10-19-slack-mcp-d88c5c2f]]'
 source_type: v0_changelog

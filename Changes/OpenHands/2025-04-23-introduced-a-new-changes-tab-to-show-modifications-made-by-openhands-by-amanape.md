@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 86024b387088ae0e1d416ac309c618dfbf0edc0030df329f918db180db280e74
+machine_hash: f0843b8edea8ceaccdc1ece4c9e02a5aadaf19b0b35e950ca46d6ff8d9ebd92a
 product: openhands
 product_name: OpenHands
 record:
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2025-04-23 · Midjourney · [[Changes/Midjourney/2025-04-23-lots-of-editor-improvements|Lots of editor improvements]]
-- Later: 2025-04-25 · Windsurf · [[Changes/Windsurf/2025-04-25-updates-ide-marketplace-link-by-mirroring-open-vsx|Updates IDE marketplace link by mirroring Open VSX]]
+- Later: 2025-04-24 · LM Studio · [[Changes/LM Studio/2025-04-24-3-editor-experience-changes-in-lm-studio-0-3-15|3 Editor Experience changes in LM Studio 0.3.15]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

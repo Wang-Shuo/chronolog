@@ -14,12 +14,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1ff88c438d13e13a9fea7bdc965dcc21fa7327da94dcbbe50a6993bc57b685f0
+machine_hash: c306638b33562f2ab31bf5d1459652226a999ddb4b81f008bec3c682f7a931a6
 product: open-webui
 product_name: Open WebUI
 record:
@@ -99,7 +99,7 @@ type: change
 ## Nearby in Account and Access
 
 - Earlier: 2026-08-29 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-08-29-show-the-specific-authentication-failure-such-as-401-bad-credentials-instead-of|Show the specific authentication failure (such as 401 Bad credentials) instead…]]
-- Later: 2026-09-01 · Claude Code · [[Changes/Claude Code/2026-09-01-2-account-and-access-changes-in-v2-1-257|2 Account and Access changes in v2.1.257]]
+- Later: 2026-08-31 · Raycast · [[Changes/Raycast/2026-08-31-mcp-support-for-servers-that-use-https-redirects-during-oauth|MCP : Support for servers that use HTTPS redirects during OAuth]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

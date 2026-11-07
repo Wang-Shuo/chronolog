@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 12f34b2580b56a5fbaf3ac119a5e9d01dedac61cf84c217e525f039736e6c3b1
+machine_hash: b1f2e864892e059df44e7fd23f1543096e0e954d54d5016d884473c5cc9a88fa
 product: open-webui
 product_name: Open WebUI
 record:
@@ -45,10 +45,10 @@ record:
   title: "\U0001F502 **Duplicate Web Search URLs Eliminated**"
   type: change
 related_changes:
-- '[[Changes/Gamma/2025-04-16-layout-suggestions-powered-by-ai|Layout Suggestions
-  (Powered by AI)]]'
 - "[[Changes/Open WebUI/2025-05-05-optimized-faster-web-search-multi-threaded-queries-enjoy-dramatically-faster-web|\U0001F680
   Optimized Faster Web Search & Multi-Threaded Queries]]"
+- '[[Changes/AnythingLLM/2025-05-06-update-bing-search-api-azure-service-copy-unavailable-by-thejjw-in-https-github|Update
+  Bing Search API Azure Service copy - Unavailable]]'
 - '[[Changes/ChatGPT/2025-05-08-chatgpt-deep-research-with-github-is-available-globally-to-team-users-it-is-also-ad2e25|GitHub
   connector for deep research for Plus/Pro/Team]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-05-10-v0-6-8-github-217786259-d3493a31|open-webui-2025-05-10-v0-6-8-github-217786259-d3493a31]]'

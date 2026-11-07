@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ce478647ff7dfe0730fc14e99290579c584a35b71c12efd191f75fe4a6732816
+machine_hash: ed8eb31a0dfb30a196eac60bd79c25f083c1d3ab503e774bc731d80938efeee6
 product: cline
 product_name: Cline
 record:
@@ -47,8 +47,8 @@ record:
   title: 4 Model Support changes in v3.17.13
   type: change
 related_changes:
-- '[[Changes/Midjourney/2025-06-11-thank-you-so-much-for-your-help-we-can-t-wait-to-share-the-v1-video-model-with-y|Thank
-  you so much for your help!]]'
+- '[[Changes/Raycast/2025-06-11-3-model-support-changes-in-raycast-macos-v1-1-100-0|3
+  Model Support changes in Raycast macos-v1 1.100.0]]'
 - '[[Changes/ChatGPT/2025-06-12-upload-files-and-access-model-selector-on-mobile|Upload
   files and access model selector on mobile]]'
 - '[[Changes/ChatGPT/2025-06-12-creators-can-now-choose-from-the-full-set-of-chatgpt-models-gpt-4o-o3-o4-mini-an-ad1adf|Creators

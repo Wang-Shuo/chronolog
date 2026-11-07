@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 542c08c2fb3af334dd3d734ecc609ec72277d7ae2b7ab0b330b14e64f85612c2
+machine_hash: 034032ba679685261afc4af7d1efc0e7750594c2d5e1487eea8898e52b7b4d4b
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -67,10 +67,9 @@ record:
   title: 10 Apps and Integrations changes in v1.0.60
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-06-04-2-apps-and-integrations-changes-in-custom-stores-custom-tools|2
-  Apps and Integrations changes in Custom stores, custom tools…]]'
-- '[[Changes/Ollama/2026-06-04-added-cline-cli-integration-docs|Added Cline CLI integration
-  docs]]'
+- '[[Changes/Devin/2026-06-05-active-todo-in-slack-plan-header|Active Todo in Slack
+  Plan Header]]'
+- '[[Changes/Devin/2026-06-05-jira-webhook-failure-recovery|Jira Webhook Failure Recovery]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-05-mcp-tools-added-or-removed-by-a-server-mid-turn-are-now-available-immediately-in|MCP
   tools added or removed by a server mid-turn are now available immediately…]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-06-05-v1-0-60-github-335046279-6a5628d4|github-copilot-cli-2026-06-05-v1-0-60-github-335046279-6a5628d4]]'
@@ -133,7 +132,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.60
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-06-04 · Ollama · [[Changes/Ollama/2026-06-04-added-cline-cli-integration-docs|Added Cline CLI integration docs]]
+- Earlier: 2026-06-05 · Devin · [[Changes/Devin/2026-06-05-jira-webhook-failure-recovery|Jira Webhook Failure Recovery]]
 - Later: 2026-06-05 · Ollama · [[Changes/Ollama/2026-06-05-ollama-launch-omp-now-integrates-with-oh-my-pi-https-omp-sh-an-ai-coding-agent-w|ollama launch omp now integrates with Oh My Pi((source link) an AI coding…]]
 <!-- chronolog:end -->
 

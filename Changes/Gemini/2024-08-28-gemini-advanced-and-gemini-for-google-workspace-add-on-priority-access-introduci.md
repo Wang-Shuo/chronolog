@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: ad3ba668be03ae515a9fea51978eac8d8bcfbcbb2b43249e3f4a19c5b0fe6c22
+machine_hash: 6ee49bc7c1f4856af0e97f147bae8652f1c2eee3410fe4e286889acee885dcde
 product: gemini
 product_name: Gemini
 record:
@@ -59,12 +59,12 @@ record:
   title: Gemini Advanced and Gemini for Google Workspace add-on priority access
   type: change
 related_changes:
-- '[[Changes/Dify/2024-07-23-update-celery-beat-scheduler-time-to-env-by-johnjyong-in-https-github-com-langge|update
-  celery beat scheduler time to env]]'
 - '[[Changes/Notion/2024-08-13-smarter-more-flexible-automations|Smarter, more flexible
   automations]]'
 - '[[Changes/Dify/2024-08-14-docs-remove-all-meeting-schedule-links-by-guchenhe-in-https-github-com-langgeniu|Docs/remove
   all meeting schedule links]]'
+- '[[Changes/Raycast/2024-08-14-my-schedule-updated-the-logo-for-webex|My Schedule
+  : updated the logo for Webex]]'
 source_release: '[[Releases/Gemini/gemini-2024-08-28-2024-08-28-caa99c78|gemini-2024-08-28-2024-08-28-caa99c78]]'
 source_type: gemini_changelog
 theme: automation-scheduling
@@ -93,7 +93,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2024-08-14 · Dify · [[Changes/Dify/2024-08-14-docs-remove-all-meeting-schedule-links-by-guchenhe-in-https-github-com-langgeniu|Docs/remove all meeting schedule links]]
+- Earlier: 2024-08-14 · Raycast · [[Changes/Raycast/2024-08-14-my-schedule-updated-the-logo-for-webex|My Schedule : updated the logo for Webex]]
 - Later: 2024-09-04 · OpenHands · [[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better syntax error loop detection]]
 <!-- chronolog:end -->
 

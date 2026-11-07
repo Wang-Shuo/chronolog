@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: c8ecc7ba3919c51c72ee10c4a70967c29ccf33bef845f0e2f05361b5de8c45ac
+machine_hash: de8705b6169cd0f17fc48c1fae9061ca23c1a10e9bd83295270e739cc760542e
 product: opencode
 product_name: OpenCode
 record:
@@ -41,8 +41,8 @@ record:
   title: Add missing id, sessionID, and messageID to MCP tool attachments
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-02-19-terminal-add-custom-tool-and-mcp-call-responses-that-are-visible-and-collapsible|Terminal
-  Add custom tool and MCP call responses that are visible and collapsible]]'
+- '[[Changes/Raycast/2026-02-19-raycast-notes-is-here-capture-thoughts-instantly-without-switching-apps-think-it|Raycast
+  Notes is here!]]'
 - '[[Changes/Claude Code/2026-02-20-claude-code-simple-mode-now-also-disables-mcp-tools-attachments-hooks-and-claude|CLAUDE_CODE_SIMPLE
   mode now also disables MCP tools, attachments, hooks…]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-20-support-remote-plugin-sources-github-repos-and-git-urls-in-marketplace-json-plug|Support

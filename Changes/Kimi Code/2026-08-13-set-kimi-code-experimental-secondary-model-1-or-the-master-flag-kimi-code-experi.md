@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 178f3bc0f639698424f2f922459939fcb0c6e9a81fe8d4fe1b779f894283a0a3
+machine_hash: 6260879d44876c6ad6fd905cadfc6ff7508f03fb7e323af0db0b34671ff1fc3e
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -45,10 +45,10 @@ record:
   title: Set `KIMI_CODE_EXPERIMENTAL_SECONDARY_MODEL=1`…
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-08-12-made-session-compaction-keep-complete-recent-turns-and-produce-clearer-summaries|Made
-  session compaction keep complete recent turns and produce clearer summaries…]]'
 - '[[Changes/OpenCode/2026-08-12-3-model-support-changes-in-v1-18-17|3 Model Support
   changes in v1.18.17]]'
+- '[[Changes/AnythingLLM/2026-08-13-5-model-support-changes-in-v1-16-0|5 Model Support
+  changes in v1.16.0]]'
 - '[[Changes/DeepSeek API/2026-08-13-deepseek-v4-pro-update|DeepSeek-V4-Pro Update]]'
 source_release: '[[Releases/Kimi Code/kimi-code-2026-08-13-0-36-0-b841eb68|kimi-code-2026-08-13-0-36-0-b841eb68]]'
 source_type: kimi_code_changelog

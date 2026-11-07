@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7a3975795b41ca534a4d665621544f5c6625a2b4c17b665f0b8f936e07e32007
+machine_hash: e7cacacfdc57df2bd86378945fd464e76afd64a34906c0ffbd4612eeed658c91
 product: open-webui
 product_name: Open WebUI
 record:
@@ -51,12 +51,12 @@ record:
   title: 2 Context Window changes in v0.6.26
   type: change
 related_changes:
-- '[[Changes/Cline/2025-08-21-next-gen-context-management-method-switch-by-0xtoshii-in-https-github-com-cline|next
-  gen context management method switch]]'
 - '[[Changes/Cursor/2025-08-21-context-usage-is-always-shown-in-the-chat-input|Context
   usage is always shown in the chat input]]'
 - '[[Changes/Codex CLI/2025-08-27-2-context-window-changes-in-rust-v0-25-0|2 Context
   Window changes in rust-v0.25.0]]'
+- '[[Changes/LM Studio/2025-08-28-3-context-window-changes-in-lm-studio-0-3-24|3 Context
+  Window changes in LM Studio 0.3.24]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-08-28-v0-6-26-github-243127257-72de72e3|open-webui-2025-08-28-v0-6-26-github-243127257-72de72e3]]'
 source_type: github_releases
 theme: context-window
@@ -100,7 +100,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.6.26
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2025-08-27 · Codex CLI · [[Changes/Codex CLI/2025-08-27-2-context-window-changes-in-rust-v0-25-0|2 Context Window changes in rust-v0.25.0]]
+- Earlier: 2025-08-28 · LM Studio · [[Changes/LM Studio/2025-08-28-3-context-window-changes-in-lm-studio-0-3-24|3 Context Window changes in LM Studio 0.3.24]]
 - Later: 2025-08-29 · Cline · [[Changes/Cline/2025-08-29-add-200k-context-window-variant-for-claude-sonnet-4-to-openrouter-and-cline-prov|Add 200k context window variant for Claude Sonnet 4 to OpenRouter and Cline providers]]
 <!-- chronolog:end -->
 

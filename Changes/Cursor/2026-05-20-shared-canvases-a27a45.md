@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 5632d9e14dade9779da6d57bc1f7213dcfd2a4704641c444ace8795aa9c5ef53
+machine_hash: cc4a48f32802aac83ba61ea84d1d33cfd1742a4d8f340254297fca81f2adb501
 product: cursor
 product_name: Cursor
 record:
@@ -52,10 +52,9 @@ record:
   title: Shared canvases
   type: change
 related_changes:
-- '[[Changes/v0/2026-05-15-snowflake-teams-with-multiple-accounts-can-pick-which-account-a-chat-connects-to|Snowflake
-  teams with multiple accounts can pick which account a chat connects…]]'
 - '[[Changes/Windsurf/2026-05-16-restored-conversation-sharing|Restored conversation
   sharing]]'
+- '[[Changes/Devin/2026-05-17-copyable-organization-id|Copyable Organization ID]]'
 - '[[Changes/Codex CLI/2026-05-18-3-collaboration-changes-in-rust-v0-131-0|3 Collaboration
   changes in rust-v0.131.0]]'
 source_release: '[[Releases/Cursor/cursor-2026-05-20-3-5-https-cursor-com-changelog-shared-canvases-68b3b2da|cursor-2026-05-20-3-5-https-cursor-com-changelog-shared-canvases-68b3b2da]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 663d7a69d3e8f7c37bccf17c8b6071e9fab7b02639b29dc607be80b97fc31e88
+machine_hash: a774a6916dc08dde3066b0ce146e60600677d1b1334980626b621655ff0fb835
 product: ollama
 product_name: Ollama
 record:
@@ -78,7 +78,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-08-19 · Gemini · [[Changes/Gemini/2026-08-19-a-new-dedicated-student-hub-study-notebooks-on-mobile-one-year-of-google-ai-pro|A new dedicated student hub, study notebooks on mobile, one year of Google AI Pro…]]
-- Later: 2026-08-19 · Suno · [[Changes/Suno/2026-08-19-better-controls-for-you-playlist|Better controls for you playlist]]
+- Later: 2026-08-19 · Raycast · [[Changes/Raycast/2026-08-19-core-text-fields-now-expand-your-macos-text-replacements|Core: Text fields now expand your macOS Text Replacements]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

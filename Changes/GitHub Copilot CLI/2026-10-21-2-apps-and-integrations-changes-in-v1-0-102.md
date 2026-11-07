@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f6584a479d4853c5497933606ab8e2cee30016803a86a0c86cc1b1939ce585ba
+machine_hash: bf3f0eedbd8de93638fafdc45f599ff8a06bf48702240a28fd2d1991f6e17874
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,12 +43,12 @@ record:
   title: 2 Apps and Integrations changes in v1.0.102
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-10-20-app-chat-connectors-llamaparse-platform-and-n8n|App
-  + chat connectors: LlamaParse Platform and n8n]]'
-- '[[Changes/OpenHands/2026-10-20-2-apps-and-integrations-changes-in-v1-29-0|2 Apps
-  and Integrations changes in v1.29.0]]'
+- '[[Changes/Superwhisper/2026-10-20-opencode-plugin-detection-now-supports-opencode-1-3-and-2-0|OpenCode
+  plugin detection now supports OpenCode 1.3 and 2.0]]'
 - '[[Changes/Claude Code/2026-10-21-3-apps-and-integrations-changes-in-v2-1-307|3
   Apps and Integrations changes in v2.1.307]]'
+- '[[Changes/Devin/2026-10-21-gerrit-webhooks-installed-automatically|Gerrit Webhooks
+  Installed Automatically]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-10-21-v1-0-102-github-419886241-eab5a98d|github-copilot-cli-2026-10-21-v1-0-102-github-419886241-eab5a98d]]'
 source_type: github_releases
 theme: apps-integrations
@@ -84,7 +84,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.102
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-10-21 · Claude Code · [[Changes/Claude Code/2026-10-21-3-apps-and-integrations-changes-in-v2-1-307|3 Apps and Integrations changes in v2.1.307]]
+- Earlier: 2026-10-21 · Devin · [[Changes/Devin/2026-10-21-gerrit-webhooks-installed-automatically|Gerrit Webhooks Installed Automatically]]
 - Later: 2026-10-21 · Kimi Code · [[Changes/Kimi Code/2026-10-21-3-apps-and-integrations-changes-in-kimi-code-2-3-0|3 Apps and Integrations changes in Kimi Code 2.3.0]]
 <!-- chronolog:end -->
 

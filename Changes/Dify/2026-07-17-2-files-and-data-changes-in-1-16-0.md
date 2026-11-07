@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 66de364916721eb5a6cc795aee213d48f5c6a04e5edda098cab02b84cb954be7
+machine_hash: dda431b0f35104a1137c260db14bbe10d00e796ab653efee7b43c453a59ca390
 product: dify
 product_name: Dify
 record:
@@ -43,12 +43,11 @@ record:
   title: 2 Files and Data changes in 1.16.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-15-claude-in-chrome-hardened-file-upload-path-validation|Claude
-  in Chrome: hardened file-upload path validation]]'
 - '[[Changes/Microsoft 365 Copilot/2026-07-15-create-brand-kits-from-your-brand-guidelines-web-microsoft-365-copilot-app|Create
   brand kits from your brand guidelines Web (Microsoft 365 Copilot App)]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-16-add-canvas-support-in-the-cli-for-extension-driven-interactions|Add
   canvas support in the CLI for extension-driven interactions]]'
+- '[[Changes/Devin/2026-07-17-inline-link-previews|Inline Link Previews]]'
 source_release: '[[Releases/Dify/dify-2026-07-17-1-16-0-github-355594285-636849e9|dify-2026-07-17-1-16-0-github-355594285-636849e9]]'
 source_type: github_releases
 theme: file-data
@@ -99,7 +98,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.16.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2026-07-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-16-add-canvas-support-in-the-cli-for-extension-driven-interactions|Add canvas support in the CLI for extension-driven interactions]]
+- Earlier: 2026-07-17 · Devin · [[Changes/Devin/2026-07-17-inline-link-previews|Inline Link Previews]]
 - Later: 2026-07-21 · Codex CLI · [[Changes/Codex CLI/2026-07-21-33167-document-the-windows-exec-yield-time-range-copyberry|♯33167 Document the Windows exec yield time range @copyberry]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 25247daf7e2d4f9b07f86101bc9a6dd73395bd2001acfe01008f4d95080d38e0
+machine_hash: 65f3526ee9d2a5ec9c3aeaa1de3de765abadd1ffafb813fc8871f39bb53d84a6
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -46,9 +46,10 @@ record:
   title: 3 Agent Mode changes in v1.0.61
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-06-08-elevenagents|ElevenAgents]]'
 - '[[Changes/v0/2026-06-08-2-agent-mode-changes-in-changelog-update|2 Agent Mode changes
   in Changelog update]]'
+- '[[Changes/AnythingLLM/2026-06-09-improve-agent-summarizer-tool-by-shatfield4-in-https-github-com-mintplex-labs-an|Improve
+  agent summarizer tool]]'
 - '[[Changes/Codex CLI/2026-06-09-5-agent-mode-changes-in-rust-v0-139-0|5 Agent Mode
   changes in rust-v0.139.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-06-09-v1-0-61-github-336905979-4d0a69f2|github-copilot-cli-2026-06-09-v1-0-61-github-336905979-4d0a69f2]]'

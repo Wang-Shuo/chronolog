@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c55eb2e877c4fd3a5faddb5aa90dc2fddd59a724d1833c6d7c1dcfb263b05e3b
+machine_hash: fd74bbedb9419e565271692eb560b5452e0a3cca72eb0814a22aa8197c005632
 product: openhands
 product_name: OpenHands
 record:
@@ -48,12 +48,12 @@ record:
     menus…
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-06-20-git-ownership-errors-in-containers-by-llamantino-in-https-github-com-all-hands-a|Git
-  Ownership Errors in containers]]'
 - '[[Changes/OpenHands/2025-06-20-2-developer-workflow-changes-in-0-44-0|2 Developer
   Workflow changes in 0.44.0]]'
 - '[[Changes/OpenHands/2025-06-20-example-code-review-microagent-by-jpelletier1-in-https-github-com-all-hands-ai-o|Example
   code review microagent]]'
+- '[[Changes/Raycast/2025-06-20-2-developer-workflow-changes-in-raycast-windows-0-24|2
+  Developer Workflow changes in Raycast windows 0.24]]'
 source_release: '[[Releases/OpenHands/openhands-2025-06-24-0-46-0-github-227487806-26e67ef7|openhands-2025-06-24-0-46-0-github-227487806-26e67ef7]]'
 source_type: github_releases
 theme: developer-workflow
@@ -85,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2025-06-20 · OpenHands · [[Changes/OpenHands/2025-06-20-example-code-review-microagent-by-jpelletier1-in-https-github-com-all-hands-ai-o|Example code review microagent]]
+- Earlier: 2025-06-20 · Raycast · [[Changes/Raycast/2025-06-20-2-developer-workflow-changes-in-raycast-windows-0-24|2 Developer Workflow changes in Raycast windows 0.24]]
 - Later: 2025-06-25 · Dify · [[Changes/Dify/2025-06-25-2-developer-workflow-changes-in-1-5-0|2 Developer Workflow changes in 1.5.0]]
 <!-- chronolog:end -->
 

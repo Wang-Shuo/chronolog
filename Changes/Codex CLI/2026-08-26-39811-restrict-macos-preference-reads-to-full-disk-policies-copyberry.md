@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0670e2513f85e45b5547ea26d356c189ae1212803b6f1de97e784fa28b0a906a
+machine_hash: a7369da00232604cc438be30cfd8bef6bf90c2510fb1f5889309ab01bcfd7d49
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -41,12 +41,11 @@ record:
   title: '#39811 Restrict macOS preference reads to full-disk policies @copyberry'
   type: change
 related_changes:
-- '[[Changes/Microsoft 365 Copilot/2026-08-25-generate-and-edit-images-in-copilot-cowork-android-windows-ios-mac-web-microsoft|Generate
-  and edit images in Copilot Cowork Android, Windows, iOS, Mac…]]'
 - '[[Changes/Microsoft 365 Copilot/2026-08-25-teams-meetings-in-copilot-notebooks-android-windows-ios-web-onenote|Teams
   Meetings in Copilot Notebooks Android, Windows, iOS, Web (OneNote)]]'
 - "[[Changes/Open WebUI/2026-08-25-starting-up-on-windows-the-windows-start-script-now-creates-the-secret-key-it-ne|\U0001FA9F
   Starting up on Windows. The Windows start script now creates the secret key…]]"
+- '[[Changes/Raycast/2026-08-25-raycast-2-0-is-out-of-beta|Raycast 2.0 is out of Beta!]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-08-26-rust-v0-150-0-github-377374683-d950f84c|codex-cli-2026-08-26-rust-v0-150-0-github-377374683-d950f84c]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -88,8 +87,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-08-25 · Open WebUI · [[Changes/Open WebUI/2026-08-25-starting-up-on-windows-the-windows-start-script-now-creates-the-secret-key-it-ne|🪟 Starting up on Windows. The Windows start script now creates the secret key…]]
-- Later: 2026-08-27 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-08-27-sandboxed-builds-on-windows-create-their-scratch-caches-on-first-run-so-cargo-go|Sandboxed builds on Windows create their scratch caches on first run, so cargo, go…]]
+- Earlier: 2026-08-25 · Raycast · [[Changes/Raycast/2026-08-25-raycast-2-0-is-out-of-beta|Raycast 2.0 is out of Beta!]]
+- Later: 2026-08-27 · AnythingLLM · [[Changes/AnythingLLM/2026-08-27-3-mobile-and-desktop-changes-in-v1-16-1|3 Mobile and Desktop changes in v1.16.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 967fd39b1a80bff8a99d51e19888879c5b4ddca0595db4c860d8a8d923aea38e
+machine_hash: f1d6f30d00f3594f29d04181b94b6057c076d0978c7f4dbbd8e06c7512cce47c
 product: replit
 product_name: Replit
 record:
@@ -54,12 +54,12 @@ record:
   title: Agent performance improvements
   type: change
 related_changes:
-- '[[Changes/Midjourney/2026-02-26-this-should-be-both-faster-more-accurate-and-more-fun|This
-  should be both faster, more accurate, and more fun]]'
 - '[[Changes/Midjourney/2026-02-26-this-should-noticeably-increase-the-general-speed-and-performance-across-the-ent|This
   should noticeably increase the general speed and performance across the entire…]]'
 - '[[Changes/ChatGPT/2026-02-27-faster-sharing-sharing-chats-is-now-easier-and-faster-with-a-quicker-loading-sha|Faster
   sharing. Sharing chats is now easier and faster, with a quicker-loading share menu]]'
+- '[[Changes/LM Studio/2026-02-27-dgx-spark-enable-direct-i-o-to-improve-model-load-latency|DGX
+  Spark Enable Direct I/O to improve model load latency]]'
 source_release: '[[Releases/Replit/replit-2026-02-27-2026-02-27-f0dc45d2|replit-2026-02-27-2026-02-27-f0dc45d2]]'
 source_type: replit_changelog
 theme: reliability-performance
@@ -89,7 +89,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-02-27 · ChatGPT · [[Changes/ChatGPT/2026-02-27-faster-sharing-sharing-chats-is-now-easier-and-faster-with-a-quicker-loading-sha|Faster sharing. Sharing chats is now easier and faster, with a quicker-loading share menu]]
+- Earlier: 2026-02-27 · LM Studio · [[Changes/LM Studio/2026-02-27-dgx-spark-enable-direct-i-o-to-improve-model-load-latency|DGX Spark Enable Direct I/O to improve model load latency]]
 - Later: 2026-02-28 · Claude Code · [[Changes/Claude Code/2026-02-28-improved-memory-usage-in-long-sessions-with-subagents-by-stripping-heavy-progres|Improved memory usage in long sessions with subagents by stripping heavy progress…]]
 <!-- chronolog:end -->
 

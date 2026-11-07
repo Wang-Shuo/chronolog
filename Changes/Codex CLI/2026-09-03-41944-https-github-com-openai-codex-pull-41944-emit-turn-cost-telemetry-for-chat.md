@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 4db6941c94b59b590befc43f466b894bde95ef3c65724fd1eb32ad684b9fb41f
+machine_hash: 4cdfd2c3bca7f3e6d8de5d34b8595bb8e00b5b7e57c669ffffe5c2935f2086e0
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,8 +44,8 @@ record:
   title: '[#41944](https://github.com/openai/codex/pull/41944) Emit turn cost telemetry…'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-01-rate-limit-banners-offer-actions-for-checking-usage-managing-credits-resetting-l|Rate-limit
-  banners offer actions for checking usage, managing credits, resetting…]]'
+- '[[Changes/Krea/2026-09-01-minimax-h3-max-launch-pricing-ended|MiniMax H3 Max launch
+  pricing ended]]'
 - '[[Changes/OpenClaw/2026-09-01-usage-and-status-views-now-carry-cumulative-output-token-totals-through-tool-cal|Usage
   and status views now carry cumulative output-token totals through tool calls…]]'
 - '[[Changes/Cline/2026-09-02-cost-estimates-no-longer-appear-in-task-history-for-subscription-billed-tasks-cl|Cost

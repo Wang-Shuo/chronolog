@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: eeb7bd2a5cc133e400cd57230b51e7f9d5ea42fdd2c357c865cb6ceba0078cda
+machine_hash: eccddb146b3ed62eff8556254f15de6a9ebdeeef7261d4f0f91e8af9cbdbb066
 product: opencode
 product_name: OpenCode
 record:
@@ -48,12 +48,12 @@ record:
   title: 5 Mobile and Desktop changes in v1.2.0
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-02-12-3-mobile-and-desktop-changes-in-v1-1-64-1|3 Mobile
-  and Desktop changes in v1.1.64 + 1]]'
 - '[[Changes/Claude Code/2026-02-13-added-windows-arm64-win32-arm64-native-binary-support|Added
   Windows ARM64 (win32-arm64) native binary support]]'
 - '[[Changes/OpenCode/2026-02-13-7-mobile-and-desktop-changes-in-v1-1-65|7 Mobile
   and Desktop changes in v1.1.65]]'
+- '[[Changes/Raycast/2026-02-13-raycast-on-windows-now-supports-script-commands|Raycast
+  on Windows now supports Script Commands!]]'
 source_release: '[[Releases/OpenCode/opencode-2026-02-14-v1-2-0-11b2ee7c|opencode-2026-02-14-v1-2-0-11b2ee7c]]'
 source_type: opencode_changelog
 theme: mobile-desktop
@@ -95,7 +95,7 @@ Source: https://opencode.ai/changelog/v1.2.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-02-13 · OpenCode · [[Changes/OpenCode/2026-02-13-7-mobile-and-desktop-changes-in-v1-1-65|7 Mobile and Desktop changes in v1.1.65]]
+- Earlier: 2026-02-13 · Raycast · [[Changes/Raycast/2026-02-13-raycast-on-windows-now-supports-script-commands|Raycast on Windows now supports Script Commands!]]
 - Later: 2026-02-15 · OpenCode · [[Changes/OpenCode/2026-02-15-2-mobile-and-desktop-changes-in-v1-2-4|2 Mobile and Desktop changes in v1.2.4]]
 <!-- chronolog:end -->
 

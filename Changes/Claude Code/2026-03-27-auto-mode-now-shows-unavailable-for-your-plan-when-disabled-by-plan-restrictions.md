@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 23ea11024d2a0b44b0d1eb831a79dd17d2bbcca14c2712ae4564e711ab141c86
+machine_hash: 225ac1361f35758a52c0d4b1a94a3d6d2aacab1c810418bd602b625b87e2d560
 product: claude-code
 product_name: Claude Code
 record:
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-03-26 · OpenCode · [[Changes/OpenCode/2026-03-26-desktop-fix-agent-normalization-in-desktop-app|Desktop Fix agent normalization in desktop app]]
-- Later: 2026-03-27 · Dify · [[Changes/Dify/2026-03-27-4-agent-mode-changes-in-1-13-3|4 Agent Mode changes in 1.13.3]]
+- Later: 2026-03-27 · Devin · [[Changes/Devin/2026-03-27-preview-agent-toggle|Preview Agent Toggle]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

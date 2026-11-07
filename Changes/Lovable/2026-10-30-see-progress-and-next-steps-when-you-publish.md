@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 05a263b9df60f6c158252d1b2365b077b7858afc36d37199036186fe3bc82e13
+machine_hash: f538149520e2d0a00b460c166902e5d75a6341974a04e22dce83e8ee4968e490
 product: lovable
 product_name: Lovable
 record:
@@ -49,12 +49,12 @@ record:
   title: See progress and next steps when you publish
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-29-57226-allow-nfs-database-migration-with-shared-file-permissions-dkovalenko-oai|♯57226
-  Allow NFS database migration with shared file permissions @dkovalenko-oai]]'
-- "[[Changes/Open WebUI/2026-10-29-knowledge-base-api-responses-trimmed-adding-updating-or-removing-knowledge-base|\U0001F4C3
-  Knowledge base API responses trimmed. Adding, updating or removing knowledge…]]"
 - '[[Changes/OpenClaw/2026-10-29-2-collaboration-changes-in-v2026-10-9|2 Collaboration
   changes in v2026.10.9]]'
+- '[[Changes/Devin/2026-10-30-share-a-private-reply-with-the-chat|Share a Private
+  Reply with the Chat]]'
+- '[[Changes/Devin/2026-10-30-network-access-request-outcomes-in-teams|Network Access
+  Request Outcomes in Teams]]'
 source_release: '[[Releases/Lovable/lovable-2026-10-30-2026-10-30-8c94fa6c|lovable-2026-10-30-2026-10-30-8c94fa6c]]'
 source_type: lovable_changelog
 theme: collaboration
@@ -83,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-10-29 · OpenClaw · [[Changes/OpenClaw/2026-10-29-2-collaboration-changes-in-v2026-10-9|2 Collaboration changes in v2026.10.9]]
+- Earlier: 2026-10-30 · Devin · [[Changes/Devin/2026-10-30-network-access-request-outcomes-in-teams|Network Access Request Outcomes in Teams]]
 - Later: 2026-10-30 · Qoder · [[Changes/Qoder/2026-10-30-2-collaboration-changes-in-qoder-0-5-1|2 Collaboration changes in Qoder 0.5.1]]
 <!-- chronolog:end -->
 

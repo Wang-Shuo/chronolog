@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: cba6d612b9a27c10ada2a4658ccaf8ec1fc8a7938a3cc66a20d0096827304e65
+machine_hash: e9408c4215f17f8be56b2f811aa8ba3387e0c400d49943c4915300e397819cdb
 product: openclaw
 product_name: OpenClaw
 record:
@@ -48,10 +48,9 @@ record:
   title: Browser tabs after updates
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-01-vscode-changed-the-claude-in-chrome-enabled-by-default-switch-to-also-connect-th|VSCode
-  Changed the Claude in Chrome "Enabled by default" switch to also connect…]]'
-- '[[Changes/Codex CLI/2026-10-01-49082-skip-remote-git-discovery-for-guardian-diff-paths-jif-oai|♯49082
-  Skip remote Git discovery for Guardian diff paths @jif-oai]]'
+- '[[Changes/Devin/2026-10-02-outposts|Outposts]]'
+- '[[Changes/Devin/2026-10-02-find-matches-file-names-and-authors|Find Matches File
+  Names and Authors]]'
 - '[[Changes/Midjourney/2026-10-02-editing|EDITING]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-10-03-v2026-9-8-0844d8d3|openclaw-2026-10-03-v2026-9-8-0844d8d3]]'
 source_type: openclaw_changelog
@@ -89,7 +88,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-10-02 · Midjourney · [[Changes/Midjourney/2026-10-02-editing|EDITING]]
-- Later: 2026-10-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-05-2-editor-experience-changes-in-v1-0-92|2 Editor Experience changes in v1.0.92]]
+- Later: 2026-10-05 · Devin · [[Changes/Devin/2026-10-05-code-scan-findings-page|Code Scan Findings Page]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

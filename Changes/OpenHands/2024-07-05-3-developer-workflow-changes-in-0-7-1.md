@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9d57b6ab8255d65f688e34c722d9dd53ee00f9a53ed3709c51e66763b5987879
+machine_hash: 1d2cd728162925e903adf9eecdb7bb2290af5aa968bea5012842a0e0ef3068c7
 product: openhands
 product_name: OpenHands
 record:
@@ -46,12 +46,11 @@ record:
   title: 3 Developer Workflow changes in 0.7.1
   type: change
 related_changes:
-- '[[Changes/OpenHands/2024-06-29-4-developer-workflow-changes-in-0-7-0|4 Developer
-  Workflow changes in 0.7.0]]'
-- '[[Changes/Aider/2024-07-01-added-attribute-commit-message-to-prefix-aider-s-commit-messages-with-aider|Added
-  --attribute-commit-message to prefix aider''s commit messages with "aider:"]]'
 - '[[Changes/Cursor/2024-07-03-when-the-chat-suggests-a-code-block-click-apply-to-instantly-see-the-change-to-t|When
   the chat suggests a code block, click "Apply" to instantly see the change…]]'
+- '[[Changes/Raycast/2024-07-03-2-developer-workflow-changes-in-raycast-macos-v1-1-78-0|2
+  Developer Workflow changes in Raycast macos-v1 1.78.0]]'
+- '[[Changes/Raycast/2024-07-03-window-layouts|Window Layouts]]'
 source_release: '[[Releases/OpenHands/openhands-2024-07-05-0-7-1-github-164186278-78b5a72a|openhands-2024-07-05-0-7-1-github-164186278-78b5a72a]]'
 source_type: github_releases
 theme: developer-workflow
@@ -91,7 +90,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/0.7.1
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2024-07-03 · Cursor · [[Changes/Cursor/2024-07-03-when-the-chat-suggests-a-code-block-click-apply-to-instantly-see-the-change-to-t|When the chat suggests a code block, click "Apply" to instantly see the change…]]
+- Earlier: 2024-07-03 · Raycast · [[Changes/Raycast/2024-07-03-window-layouts|Window Layouts]]
 - Later: 2024-07-07 · Aider · [[Changes/Aider/2024-07-07-all-config-env-yml-json-files-now-load-from-home-git-root-cwd-and-named-command|All config/env/yml/json files now load from home, git root, cwd and named command…]]
 <!-- chronolog:end -->
 

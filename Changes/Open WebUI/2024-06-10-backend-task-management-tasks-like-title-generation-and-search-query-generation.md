@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: cd23e60c8374989f714b3104fe14318fa3f5e374b0d6dd9fb0dfa51a3d3ec500
+machine_hash: 1dafe8de56fd1b562dd85c3f36df1c47371e167e63436bab7426ff42b96e6db9
 product: open-webui
 product_name: Open WebUI
 record:
@@ -47,8 +47,7 @@ record:
   title: "**\U0001F527 Backend Task Management**"
   type: change
 related_changes:
-- '[[Changes/Dify/2024-05-27-update-docker-compose-yaml-new-debug-variable-by-theysua-in-https-github-com-lan|Update
-  docker-compose.yaml- New DEBUG variable]]'
+- '[[Changes/Devin/2024-05-29-view-shell-updates|View Shell Updates]]'
 - '[[Changes/OpenHands/2024-06-04-windows-doc-extended-with-more-wsl-hints-by-tobitege-in-https-github-com-opendev|Windows
   doc extended with more WSL hints]]'
 - '[[Changes/Cursor/2024-06-08-remote-tunnels-are-now-supported-remote-ssh-support-is-also-more-robust-now-supp|Remote

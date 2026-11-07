@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: c8da72fef4f4ac4db7497339e19ba85fcb1853c7d699c9bb6833e510bce6a692
+machine_hash: 46109446caf460c2b2da4df295af101b40edb3ab5334b62c48e6bbf9cf789a5b
 product: lovable
 product_name: Lovable
 record:
@@ -67,8 +67,7 @@ record:
   title: Trust Center for your published app
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-08-07-9-safety-and-privacy-changes-in-rust-v0-147-0|9
-  Safety and Privacy changes in rust-v0.147.0]]'
+- '[[Changes/Devin/2026-08-07-security-profiles|Security Profiles]]'
 - '[[Changes/Google Antigravity/2026-08-07-steps-waiting-on-your-input-now-show-the-icon-for-the-tool-involved-including-in|Steps
   waiting on your input now show the icon for the tool involved, including…]]'
 - '[[Changes/HeyGen/2026-08-07-why-it-matters-c18403|Why it matters]]'

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f377bf214539beab85bc71a1c74bebba43734585baec11e23f24f1eb5637a9cc
+machine_hash: 32016327ba9c2f6e8533d195903e33d04309c6f2ca0e6a3b9f73c2c3c52ef474
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -77,12 +77,12 @@ record:
   title: 18 Model Support changes in rust-v0.148.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-17-2-model-support-changes-in-v2-1-234|2 Model Support
-  changes in v2.1.234]]'
 - '[[Changes/Lovable/2026-08-17-gemini-3-7-flash-for-your-app-s-ai-features|Gemini
   3.7 Flash for your app''s AI features]]'
 - '[[Changes/OpenHands/2026-08-17-feat-add-llm-pre-flight-validation-to-prevent-saving-misconfigured-profiles-by-n|feat:
   add LLM pre-flight validation to prevent saving misconfigured profiles]]'
+- '[[Changes/Superwhisper/2026-08-17-redesigned-the-model-details-sheet-with-a-cleaner-layout-download-size-info-and|Redesigned
+  the model details sheet with a cleaner layout, download size info…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-08-18-rust-v0-148-0-github-372686337-4265c0ae|codex-cli-2026-08-18-rust-v0-148-0-github-372686337-4265c0ae]]'
 source_type: github_releases
 theme: model-support
@@ -159,8 +159,8 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.148.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-08-17 · OpenHands · [[Changes/OpenHands/2026-08-17-feat-add-llm-pre-flight-validation-to-prevent-saving-misconfigured-profiles-by-n|feat: add LLM pre-flight validation to prevent saving misconfigured profiles]]
-- Later: 2026-08-18 · Lovable · [[Changes/Lovable/2026-08-18-gemini-3-7-flash-is-now-the-default-model-for-your-app-s-ai-features|Gemini 3.7 Flash is now the default model for your app's AI features]]
+- Earlier: 2026-08-17 · Superwhisper · [[Changes/Superwhisper/2026-08-17-redesigned-the-model-details-sheet-with-a-cleaner-layout-download-size-info-and|Redesigned the model details sheet with a cleaner layout, download size info…]]
+- Later: 2026-08-18 · Krea · [[Changes/Krea/2026-08-18-report-open-source-model-usage-with-post-oss-usage|Report open-source model usage with POST /oss/usage]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

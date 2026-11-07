@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 35491a5ac77d047c4e7e84720a3de206f549b0e03a17f46a1c7c39c0b426d94b
+machine_hash: 051859794f83df603850550772b1a9cb422dcc84a856ef3321c44520bd27d1d9
 product: opencode
 product_name: OpenCode
 record:
@@ -50,8 +50,8 @@ record:
   title: 4 Apps and Integrations changes in v1.17.8
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-17-added-config-key-value-syntax-to-set-any-setting-from-the-prompt-e-g-config-thin|Added
-  /config key=value syntax to set any setting from the prompt…]]'
+- '[[Changes/Devin/2026-06-17-mcp-server-view-logs-on-error|MCP Server: View Logs
+  on Error]]'
 - '[[Changes/Lovable/2026-06-17-build-in-lovable-from-claude|Build in Lovable from
   Claude]]'
 - '[[Changes/Lovable/2026-06-17-app-connector-lightspeed|App connector: Lightspeed]]'

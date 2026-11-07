@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4587974367181db5b3a2d3427b504f677fbf7b14cab2a4c79d6be496d2927876
+machine_hash: 3d140d20be0a938c061bb02a06d8fc3abc71c6f4cee41f3caad81b6faf885101
 product: aider
 product_name: Aider
 record:
@@ -42,8 +42,8 @@ record:
   title: 2 Reliability and Performance changes in v0.48.0
   type: change
 related_changes:
-- '[[Changes/OpenHands/2024-08-01-runtime-reduce-dependency-to-speed-up-ci-and-reduce-image-size-by-xingyaoww-in-h|Runtime
-  Reduce dependency to speed up CI and reduce image size]]'
+- '[[Changes/AnythingLLM/2024-08-02-ollama-performance-mode-option-by-shatfield4-in-https-github-com-mintplex-labs-a|Ollama
+  performance mode option]]'
 - '[[Changes/Cursor/2024-08-02-faster-cursor-tab-suggestions|Faster Cursor Tab Suggestions!]]'
 - '[[Changes/Open WebUI/2024-08-02-2-reliability-and-performance-changes-in-v0-3-11|2
   Reliability and Performance changes in v0.3.11]]'

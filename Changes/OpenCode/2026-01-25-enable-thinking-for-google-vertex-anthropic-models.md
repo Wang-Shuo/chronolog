@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: d5b949e181843cf013a04af9c34ae55774707d7d28e4e6d3511080f9dc72d3c5
+machine_hash: 3298b56acdb7295ff7792aa2f03d14d9b83fa82f8fe3d6853d720ed9d630464d
 product: opencode
 product_name: OpenCode
 record:
@@ -40,8 +40,8 @@ record:
   title: Enable thinking for Google Vertex Anthropic models
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-01-23-core-added-support-for-openai-based-gitlab-duo-models|Core
-  Added support for OpenAI-based GitLab Duo models]]'
+- '[[Changes/Superwhisper/2026-01-23-added-skip-button-to-onboarding-model-download-screen|Added
+  skip button to onboarding model download screen]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-24-directory-path-uses-consistent-muted-text-color-with-git-branch-and-model-displa|Directory
   path uses consistent muted text color with git branch and model display]]'
 - '[[Changes/Codex CLI/2026-01-25-5-model-support-changes-in-rust-v0-90-0|5 Model

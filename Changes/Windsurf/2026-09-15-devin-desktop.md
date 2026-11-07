@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 1b63ba7ca0c6eaaf0be8222494c49c9f2a0143959ddfed7baa04b6cccbf52439
+machine_hash: af7a9e01c25193fe604ee9bd4e4972131cf40f7f4b98cc7fd50923eaa27ff238
 product: windsurf
 product_name: Windsurf
 record:
@@ -88,7 +88,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-09-15 · Ollama · [[Changes/Ollama/2026-09-15-added-ollama-apps-to-open-the-desktop-app-s-apps-page-directly-on-macos-and-wind|Added ollama://apps to open the desktop app’s Apps page directly on macOS and Windows]]
-- Later: 2026-09-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-16-4-mobile-and-desktop-changes-in-v1-0-85|4 Mobile and Desktop changes in v1.0.85]]
+- Later: 2026-09-15 · Wispr Flow · [[Changes/Wispr Flow/2026-09-15-wispr-flow-notetaker-is-now-live-on-windows-notetaker|Wispr Flow Notetaker is now live on Windows (Notetaker)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

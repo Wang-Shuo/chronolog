@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: ea73f3f4061096714e81da4f40040fa077c488975dbee012e54d1c0e7197c655
+machine_hash: 2837ae4a098cb05d2af3a7bbb20e1c5cd8ea02a9bb9c549919aaa1579fa2c978
 product: replit
 product_name: Replit
 record:
@@ -45,11 +45,11 @@ record:
   title: More performant Agent in Asia
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-01-23-agent-sees-recent-changes-the-agent-can-use-a-tool-to-see-your-recent-changes-it|Agent
-  sees recent changes: The agent can use a tool to see your recent changes]]'
 - '[[Changes/Cursor/2025-01-23-cursor-rules-users-can-write-several-repository-level-rules-to-disk-in-the-curso|.cursor/rules:
   Users can write several repository-level rules to disk…]]'
 - '[[Changes/ElevenLabs/2025-01-27-agents-platform|Agents Platform]]'
+- '[[Changes/AnythingLLM/2025-01-29-4-agent-mode-changes-in-v1-4-0|4 Agent Mode changes
+  in v1.4.0]]'
 source_release: '[[Releases/Replit/replit-2025-01-31-2025-01-31-879df024|replit-2025-01-31-2025-01-31-879df024]]'
 source_type: replit_changelog
 theme: agent-mode
@@ -81,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2025-01-27 · ElevenLabs · [[Changes/ElevenLabs/2025-01-27-agents-platform|Agents Platform]]
+- Earlier: 2025-01-29 · AnythingLLM · [[Changes/AnythingLLM/2025-01-29-4-agent-mode-changes-in-v1-4-0|4 Agent Mode changes in v1.4.0]]
 - Later: 2025-02-04 · ElevenLabs · [[Changes/ElevenLabs/2025-02-04-agents-platform|Agents Platform]]
 <!-- chronolog:end -->
 

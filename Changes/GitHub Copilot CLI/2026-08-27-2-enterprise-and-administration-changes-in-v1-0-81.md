@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2033258b7672f1a161ed408fe7973986c0bab8a53303cecf0587d07decf29529
+machine_hash: 211c394e6475f87ce9bead806ded4d98591b835ee6195091de39faca50dab07f
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,8 +45,8 @@ record:
   title: 2 Enterprise and Administration changes in v1.0.81
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-08-25-4-enterprise-and-administration-changes-in-v0-11-1|4
-  Enterprise and Administration changes in v0.11.1]]'
+- '[[Changes/Devin/2026-08-26-batch-remediation-via-v3-api|Batch Remediation via v3
+  API]]'
 - '[[Changes/Lovable/2026-08-26-record-who-is-behind-each-commit-lovable-pushes|Record
   who is behind each commit Lovable pushes]]'
 - '[[Changes/Lovable/2026-08-26-workspace-build-secrets-appear-in-your-project-s-secrets-list|Workspace
@@ -99,7 +99,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.81
 ## Nearby in Enterprise and Administration
 
 - Earlier: 2026-08-26 · Lovable · [[Changes/Lovable/2026-08-26-workspace-build-secrets-appear-in-your-project-s-secrets-list|Workspace build secrets appear in your project's secrets list]]
-- Later: 2026-09-01 · Lovable · [[Changes/Lovable/2026-09-01-find-buy-and-connect-a-domain-from-chat|Find, buy, and connect a domain from chat]]
+- Later: 2026-08-27 · Krea · [[Changes/Krea/2026-08-27-workspace-usage-api|Workspace usage API]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

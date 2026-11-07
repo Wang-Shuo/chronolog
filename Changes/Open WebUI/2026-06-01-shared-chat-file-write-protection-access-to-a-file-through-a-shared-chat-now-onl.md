@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 35edd0193e74c116b0ff63b5c3a13b041f509db7c241313922844079bb72c4c5
+machine_hash: a8698edc94253d42215a482e0c56f30ca920cc17f5da942a21664472c175bde0
 product: open-webui
 product_name: Open WebUI
 record:
@@ -48,11 +48,12 @@ record:
     a shared chat now…"
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-05-20-shared-canvases-a27a45|Shared canvases]]'
 - '[[Changes/Kimi Code/2026-05-29-relocate-shared-tool-service-typing-to-the-tool-support-layer|Relocate
   shared tool service typing to the tool support layer]]'
 - '[[Changes/Lovable/2026-05-29-more-consistent-project-action-buttons|More consistent
   project action buttons]]'
+- '[[Changes/Raycast/2026-05-29-team-added-support-for-moving-quicklinks-and-snippets-between-personal-and-team|Team:
+  Added support for moving Quicklinks and Snippets between personal and team spaces]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-06-01-v0-9-6-github-332798378-d8dc258e|open-webui-2026-06-01-v0-9-6-github-332798378-d8dc258e]]'
 source_type: github_releases
 theme: collaboration
@@ -101,7 +102,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-05-29 · Lovable · [[Changes/Lovable/2026-05-29-more-consistent-project-action-buttons|More consistent project action buttons]]
+- Earlier: 2026-05-29 · Raycast · [[Changes/Raycast/2026-05-29-team-added-support-for-moving-quicklinks-and-snippets-between-personal-and-team|Team: Added support for moving Quicklinks and Snippets between personal and team spaces]]
 - Later: 2026-06-02 · Claude Code · [[Changes/Claude Code/2026-06-02-otel-resource-attributes-values-are-now-included-as-labels-on-metric-datapoints|OTEL_RESOURCE_ATTRIBUTES values are now included as labels on metric datapoints…]]
 <!-- chronolog:end -->
 

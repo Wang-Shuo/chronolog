@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 3e7cf564db1c489857780f2ff852b6d2afa6e0b708ba98b356199b7cc140d296
+machine_hash: 7f68e75b301563026ce78b83d911ccc9552a9665c3adc18b68f99c61f82fbb86
 product: openhands
 product_name: OpenHands
 record:
@@ -79,7 +79,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2025-01-10 · Replit · [[Changes/Replit/2025-01-10-shell-bash-completion|Shell bash completion]]
-- Later: 2025-01-22 · OpenHands · [[Changes/OpenHands/2025-01-22-users-can-now-define-a-different-llm-as-a-custom-llm-config-named-with-a-predefi|Users can now define a different LLM as a custom LLM config named with a predefined name]]
+- Later: 2025-01-16 · Devin · [[Changes/Devin/2025-01-16-devin-is-now-more-likely-to-find-all-relevant-files-to-edit-will-notice-and-re-u|Devin is now more likely to find all relevant files to edit, will notice and re-use…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

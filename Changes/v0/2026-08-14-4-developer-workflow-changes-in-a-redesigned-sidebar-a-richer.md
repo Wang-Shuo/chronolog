@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ee1313946cfe59e9883ddfa17377c8bcec00472143966c0dca7371db3e9617fc
+machine_hash: 0a2e30e132c710167976feb4e87924b81dd013fcb6c330b60b5675dfacd986e0
 product: v0
 product_name: v0
 record:
@@ -52,11 +52,10 @@ record:
   title: 4 Developer Workflow changes in A redesigned sidebar, a richer…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-13-remote-control-the-terminal-now-says-whether-a-session-was-taken-over-by-another|Remote
-  Control: the terminal now says whether a session was taken over by another…]]'
 - '[[Changes/Cursor/2026-08-13-build-history-and-debugging|Build history and debugging]]'
 - '[[Changes/Claude Code/2026-08-14-added-gitlab-merge-request-url-support-to-the-worktree-flag-and-the-claude-agent|Added
   GitLab merge request URL support to the --worktree flag…]]'
+- '[[Changes/Devin/2026-08-14-command-palette-improvements|Command Palette Improvements]]'
 source_release: '[[Releases/v0/v0-2026-08-14-2026-08-14-e5550355|v0-2026-08-14-2026-08-14-e5550355]]'
 source_type: v0_changelog
 theme: developer-workflow
@@ -103,7 +102,7 @@ Source: https://v0.app/changelog#2026-08-14
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-08-14 · Claude Code · [[Changes/Claude Code/2026-08-14-added-gitlab-merge-request-url-support-to-the-worktree-flag-and-the-claude-agent|Added GitLab merge request URL support to the --worktree flag…]]
+- Earlier: 2026-08-14 · Devin · [[Changes/Devin/2026-08-14-command-palette-improvements|Command Palette Improvements]]
 - Later: 2026-08-17 · Claude Code · [[Changes/Claude Code/2026-08-17-remote-control-effort-picks-made-on-a-phone-or-on-claude-ai-code-now-apply-to-te|Remote Control: effort picks made on a phone or on claude.ai/code now apply…]]
 <!-- chronolog:end -->
 

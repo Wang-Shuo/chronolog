@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5e1e09ee9f03b6ab8222dda6a3be9778b3cb5326d1624d3488a1fd48d945376e
+machine_hash: cc7a5ae0f6729b67bd776a3f45e3ee8389c2146240b6a27773e810032bc04d32
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,12 +43,12 @@ record:
     @etraut-openai'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-05-20-2-memory-and-personalization-changes-in-rust-v0-132-0|2
-  Memory and Personalization changes in rust-v0.132.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-20-memory-show-displays-documentation-links-for-learning-about-and-managing-copilot|/memory
   show displays documentation links for learning about and managing Copilot Memory]]'
 - '[[Changes/Gemini CLI/2026-05-22-2-memory-and-personalization-changes-in-v0-43-0|2
   Memory and Personalization changes in v0.43.0]]'
+- '[[Changes/AnythingLLM/2026-05-26-10-memory-and-personalization-changes-in-v1-13-0|10
+  Memory and Personalization changes in v1.13.0]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-05-26-rust-v0-134-0-github-329640454-7be6059e|codex-cli-2026-05-26-rust-v0-134-0-github-329640454-7be6059e]]'
 source_type: github_releases
 theme: memory
@@ -84,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2026-05-22 · Gemini CLI · [[Changes/Gemini CLI/2026-05-22-2-memory-and-personalization-changes-in-v0-43-0|2 Memory and Personalization changes in v0.43.0]]
+- Earlier: 2026-05-26 · AnythingLLM · [[Changes/AnythingLLM/2026-05-26-10-memory-and-personalization-changes-in-v1-13-0|10 Memory and Personalization changes in v1.13.0]]
 - Later: 2026-05-27 · Gemini CLI · [[Changes/Gemini CLI/2026-05-27-chore-clean-up-launched-memory-features-by-sandytao520-in-https-github-com-googl|chore: clean up launched memory features]]
 <!-- chronolog:end -->
 

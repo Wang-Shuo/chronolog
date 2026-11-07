@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c0cd9f2e25213fe6c582a5ab99ae8db73e1a05396d7d13566215954ae1bd77af
+machine_hash: 93900aba2cc70e7e2f9ebd89052da82bc79f584e4c0971feaf3434f22f1f7cf9
 product: cursor
 product_name: Cursor
 record:
@@ -54,9 +54,10 @@ record:
   title: Polish
   type: change
 related_changes:
-- '[[Changes/Descript/2024-02-20-speaker-labeling-updates|Speaker Labeling Updates]]'
 - '[[Changes/Gemini/2024-02-20-exclusive-to-gemini-advanced-edit-and-run-python-code|Exclusive
   to Gemini Advanced: Edit and run Python code]]'
+- '[[Changes/Raycast/2024-02-21-search-menu-items-you-can-now-pin-menu-items|Search
+  Menu Items: You can now pin menu items]]'
 - '[[Changes/Descript/2024-02-23-reverts-changes-to-the-selection-toolbar|Reverts
   changes to the selection toolbar]]'
 source_release: '[[Releases/Cursor/cursor-2024-03-01-0-29-x-https-cursor-com-changelog-0-29-x-259e5626|cursor-2024-03-01-0-29-x-https-cursor-com-changelog-0-29-x-259e5626]]'
@@ -86,7 +87,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2024-02-23 · Descript · [[Changes/Descript/2024-02-23-reverts-changes-to-the-selection-toolbar|Reverts changes to the selection toolbar]]
-- Later: 2024-03-12 · Descript · [[Changes/Descript/2024-03-12-we-ve-made-backend-changes-to-how-exports-and-publishes-are-processed-these-chan|Descript makes backend changes to how Exports and Publishes are processed]]
+- Later: 2024-03-07 · Raycast · [[Changes/Raycast/2024-03-07-ai-chat-new-sidebar-to-switch-between-chats-and-search-chats-via-their-content|AI Chat: New sidebar to switch between chats, and search chats via their content]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

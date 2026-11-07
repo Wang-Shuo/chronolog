@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 37bd818ffa6c51dd6e705766c366c841669c928bbb207057cb7ac6fdd568fb9a
+machine_hash: d26da0226b802220057f87206a74734ec0b962c15167bbe6d08f64e0e460f032
 product: aider
 product_name: Aider
 record:
@@ -43,11 +43,11 @@ record:
   title: Prevent retrying API calls when the provider reports insufficient credits
   type: change
 related_changes:
-- '[[Changes/Cline/2025-03-28-add-cost-calculation-support-for-litellm-provider|Add
-  cost calculation support for LiteLLM provider]]'
-- '[[Changes/Replit/2025-03-28-invoice-threshold-update|Invoice threshold update]]'
 - '[[Changes/Aider/2025-03-31-warn-at-startup-if-stream-and-cache-prompts-are-used-together-as-cost-estimates|Warn
   at startup if --stream and --cache-prompts are used together, as cost…]]'
+- '[[Changes/Devin/2025-04-03-introducing-devin-2-0-an-agent-native-ide-experience-generally-available-today-s|Devin
+  updates — 2025-04-03]]'
+- '[[Changes/Recraft/2025-04-03-cost-per-generation|Cost per generation]]'
 source_release: '[[Releases/Aider/aider-2025-04-04-v0-81-0-github-210314163-f0912302|aider-2025-04-04-v0-81-0-github-210314163-f0912302]]'
 source_type: github_releases
 theme: pricing-model
@@ -79,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2025-03-31 · Aider · [[Changes/Aider/2025-03-31-warn-at-startup-if-stream-and-cache-prompts-are-used-together-as-cost-estimates|Warn at startup if --stream and --cache-prompts are used together, as cost…]]
+- Earlier: 2025-04-03 · Recraft · [[Changes/Recraft/2025-04-03-cost-per-generation|Cost per generation]]
 - Later: 2025-04-07 · ElevenLabs · [[Changes/ElevenLabs/2025-04-07-user-subscription|User Subscription]]
 <!-- chronolog:end -->
 

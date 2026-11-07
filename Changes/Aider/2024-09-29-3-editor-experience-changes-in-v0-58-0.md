@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4274b00184163578fca92f09930fbbf8c667101baf43552e43a89bd31ca81714
+machine_hash: abd6cb04d89b6262df1d403d248531f64c75660279ca4af34a47a0b192aa8eb0
 product: aider
 product_name: Aider
 record:
@@ -87,7 +87,7 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.58.0
 ## Nearby in Editor Experience
 
 - Earlier: 2024-09-26 · Open WebUI · [[Changes/Open WebUI/2024-09-26-chat-rename-tab-update-fixed-the-functionality-to-change-the-web-browser-s-tab-t|🏷️ Chat Rename Tab Update]]
-- Later: 2024-10-08 · Descript · [[Changes/Descript/2024-10-08-editor-updates|Editor Updates]]
+- Later: 2024-10-03 · AnythingLLM · [[Changes/AnythingLLM/2024-10-03-1417-completion-timeout-by-timothycarambat-in-https-github-com-mintplex-labs-any|1417 completion timeout]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

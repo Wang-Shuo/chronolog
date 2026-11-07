@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: caf1ef7091e24f0e6bb79202e3d68610f9c90dbda185657ef64d4ccaaad3c97b
+machine_hash: da5494da60dce222d54786f8534958cda4d151f8a116e08a88f44e24a5689c91
 product: openhands
 product_name: OpenHands
 record:
@@ -42,10 +42,10 @@ record:
   title: 2 Agent Mode changes in 0.15.1
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2024-11-19-agentic-retrieval-improve-rag-accuracy-via-smart-pre-processing-of-chat-history|\U0001F5C2️
-  Agentic Retrieval]]"
 - '[[Changes/Dify/2024-11-25-for-instance-you-can-upload-a-pdf-report-and-let-the-agent-automatically-analyze|For
   instance, you can upload a PDF report and let the Agent automatically analyze…]]'
+- '[[Changes/AnythingLLM/2024-11-26-the-anythingllm-community-hub-https-hub-anythingllm-com-is-a-platform-that-works|The
+  AnythingLLM Community Hub((source link) is a platform…]]'
 - '[[Changes/ElevenLabs/2024-11-29-api|API]]'
 source_release: '[[Releases/OpenHands/openhands-2024-12-06-0-15-1-github-189468969-ea2e2af5|openhands-2024-12-06-0-15-1-github-189468969-ea2e2af5]]'
 source_type: github_releases

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 62e717bdfa071c41dc2f31a8c2d74599d9807620b4b32b5542c26ba5a190e659
+machine_hash: 5e14040e03228d083cef45dde4b5bac968e7eb1f68313546cca4fab7482b0fda
 product: cursor
 product_name: Cursor
 record:
@@ -54,7 +54,8 @@ record:
   title: For the next 10 days, we're including usage credits so teams can try Rollouts…
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-09-21-user|User]]'
+- '[[Changes/AnythingLLM/2026-09-22-x-openrouter-service-tier-selection-for-controlling-routing-cost-and-priority|x
+  OpenRouter service tier selection for controlling routing cost and priority]]'
 - '[[Changes/Claude Code/2026-09-22-improved-cost-cache-miss-causes-to-name-thinking-mode-and-thinking-display-chang|Improved
   /cost cache-miss causes to name thinking mode and thinking display changes]]'
 - '[[Changes/Cline/2026-09-22-models-that-advertise-a-large-output-limit-now-get-a-bigger-default-output-budge|Models

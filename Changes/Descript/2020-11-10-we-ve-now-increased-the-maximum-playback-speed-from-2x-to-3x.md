@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c8f13a7d07bc53bcb424e3a41afe8c72338a0914cf73a1a04bc29140727f6762
+machine_hash: 29b20e84e17e72cb762c3d4765dc6eb83dee2206115186b7af709ff002c49e8d
 product: descript
 product_name: Descript
 record:
@@ -41,12 +41,12 @@ record:
   title: Increased playback speed
   type: change
 related_changes:
-- '[[Changes/Notion/2020-05-19-the-mobile-apps-now-start-2x-faster-more-on-that-here|The
-  mobile apps now start 2x faster!]]'
-- '[[Changes/Notion/2020-06-23-navigating-databases-is-much-faster-thanks-to-improved-caching|Navigating
-  databases is much faster, thanks to improved caching]]'
-- '[[Changes/Notion/2020-07-28-reduced-animation-speed-for-hover-states-in-the-web-and-desktop-apps-to-make-the|Reduced
-  animation speed for hover states in the web and desktop apps to make the app…]]'
+- '[[Changes/Raycast/2020-08-17-quick-actions-got-more-responsive-in-jira-lists-to-allow-faster-transitioning-of|Quick
+  actions got more responsive in Jira lists to allow faster transitioning…]]'
+- '[[Changes/Raycast/2020-09-02-improved-the-scrolling-performance-in-jira-lists|Improved
+  the scrolling performance in Jira lists]]'
+- '[[Changes/Raycast/2020-10-16-improved-performance-of-the-root-search|Improved performance
+  of the root search]]'
 source_release: '[[Releases/Descript/descript-2020-11-10-5faad0bdd7b4e802cfde2d12-4b4fff7a|descript-2020-11-10-5faad0bdd7b4e802cfde2d12-4b4fff7a]]'
 source_type: canny_changelog
 theme: reliability-performance
@@ -73,7 +73,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2020-07-28 · Notion · [[Changes/Notion/2020-07-28-reduced-animation-speed-for-hover-states-in-the-web-and-desktop-apps-to-make-the|Reduced animation speed for hover states in the web and desktop apps to make the app…]]
+- Earlier: 2020-10-16 · Raycast · [[Changes/Raycast/2020-10-16-improved-performance-of-the-root-search|Improved performance of the root search]]
 - Later: 2020-12-08 · Notion · [[Changes/Notion/2020-12-08-the-api-is-now-in-private-beta-sign-up-for-access-to-the-public-beta-in-early-20|The API is now in private beta!]]
 <!-- chronolog:end -->
 

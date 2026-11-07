@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ca7cbed07c5f0647f3ae43ebb132f1c1e9c07d82cd9bd919de6989394a079c52
+machine_hash: 42bdfd3b9ec99ca24e88d69a6f8f56f981595350b36d0f431622058b057322cc
 product: aider
 product_name: Aider
 record:
@@ -43,12 +43,12 @@ record:
     by @preynal
   type: change
 related_changes:
-- '[[Changes/Dify/2024-11-05-chore-set-file-size-limits-for-video-and-audio-uploads-from-docker-env-by-fujita|chore:
-  Set file size limits for video and audio uploads from docker env]]'
 - '[[Changes/Dify/2024-11-18-2-voice-and-audio-changes-in-0-11-2|2 Voice and Audio
   changes in 0.11.2]]'
 - '[[Changes/Dify/2024-11-25-the-new-version-extends-support-for-multi-modal-tasks-for-example-you-can-upload|The
   new version extends support for multi-modal tasks]]'
+- '[[Changes/AnythingLLM/2024-11-26-handle-openai-whisper-transcription-edge-case-by-shatfield4-in-https-github-com|Handle
+  OpenAI whisper transcription edge case]]'
 source_release: '[[Releases/Aider/aider-2024-12-01-v0-66-0-github-188357801-0e641110|aider-2024-12-01-v0-66-0-github-188357801-0e641110]]'
 source_type: github_releases
 theme: voice
@@ -81,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2024-11-25 · Dify · [[Changes/Dify/2024-11-25-the-new-version-extends-support-for-multi-modal-tasks-for-example-you-can-upload|The new version extends support for multi-modal tasks]]
+- Earlier: 2024-11-26 · AnythingLLM · [[Changes/AnythingLLM/2024-11-26-handle-openai-whisper-transcription-edge-case-by-shatfield4-in-https-github-com|Handle OpenAI whisper transcription edge case]]
 - Later: 2024-12-12 · ChatGPT · [[Changes/ChatGPT/2024-12-12-video-and-screenshare-in-our-latest-mobile-apps-we-are-starting-to-roll-out-real|Video and screenshare]]
 <!-- chronolog:end -->
 

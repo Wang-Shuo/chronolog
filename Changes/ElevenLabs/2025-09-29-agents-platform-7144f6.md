@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: d33a37799ab73fd7f32afbd447aeb1ed0d23e3cb944bff7ecbc0ac779adf7f94
+machine_hash: c822560b6e898607060201b57837fca17b3f3e5bbc42e664b5450ba1f8a22738
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -95,8 +95,8 @@ record:
   title: Agents Platform
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-09-29-image-file-support-for-agent|Image file support for
-  Agent]]'
+- '[[Changes/Devin/2025-09-29-enterprise-opt-in-for-agent-previews|Enterprise Opt-In
+  for Agent Previews]]'
 - '[[Changes/Dify/2025-09-29-2-agent-mode-changes-in-1-9-1|2 Agent Mode changes in
   1.9.1]]'
 - '[[Changes/ElevenLabs/2025-09-29-agents-platform|Agents Platform]]'

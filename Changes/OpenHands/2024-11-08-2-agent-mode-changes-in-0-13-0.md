@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f2b24522545e5568aac0071141a4b37518c3512c550431686c3d712aa3b42094
+machine_hash: ababcfd764ebf09c0338119aa0d551b65cc24927faa76abc8d6098b3f9aa1580
 product: openhands
 product_name: OpenHands
 record:
@@ -44,12 +44,12 @@ record:
   title: 2 Agent Mode changes in 0.13.0
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2024-10-13-agents-platform-beta-agents-platform-is-now-in-beta|Agents
-  Platform Beta: Agents Platform is now in beta]]'
 - '[[Changes/Dify/2024-10-14-external-knowledge-and-retrievals-addressing-issues-in-agent-retrieval-and-entry|External
   Knowledge and Retrievals: Addressing issues in agent retrieval…]]'
 - '[[Changes/OpenHands/2024-10-22-improvements-to-agent-editing-using-llm-by-xingyaoww-in-https-github-com-all-han|Improvements
   to Agent Editing using LLM]]'
+- '[[Changes/AnythingLLM/2024-10-25-3-agent-mode-changes-in-v1-2-4|3 Agent Mode changes
+  in v1.2.4]]'
 source_release: '[[Releases/OpenHands/openhands-2024-11-08-0-13-0-github-184456237-3af6f414|openhands-2024-11-08-0-13-0-github-184456237-3af6f414]]'
 source_type: github_releases
 theme: agent-mode
@@ -82,7 +82,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/0.13.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2024-10-22 · OpenHands · [[Changes/OpenHands/2024-10-22-improvements-to-agent-editing-using-llm-by-xingyaoww-in-https-github-com-all-han|Improvements to Agent Editing using LLM]]
+- Earlier: 2024-10-25 · AnythingLLM · [[Changes/AnythingLLM/2024-10-25-3-agent-mode-changes-in-v1-2-4|3 Agent Mode changes in v1.2.4]]
 - Later: 2024-11-19 · Open WebUI · [[Changes/Open WebUI/2024-11-19-agentic-retrieval-improve-rag-accuracy-via-smart-pre-processing-of-chat-history|🗂️ Agentic Retrieval]]
 <!-- chronolog:end -->
 

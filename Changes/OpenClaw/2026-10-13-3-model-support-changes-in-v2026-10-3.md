@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 006ce4432e7ff52d20255f55b10a2bb83a73446904f9b2b1ba30ac3c98c8c09d
+machine_hash: 249b0f1b0bd4d1a1edd58ea9dcdd6225fb0e954d7a291110a841c8d193f816b8
 product: openclaw
 product_name: OpenClaw
 record:
@@ -56,7 +56,8 @@ record:
   title: 3 Model Support changes in v2026.10.3
   type: change
 related_changes:
-- '[[Changes/HeyGen/2026-10-13-elevenlabs-v4-for-speech|ElevenLabs v4 for speech]]'
+- '[[Changes/LM Studio/2026-10-13-coexistence-with-bionic-run-both-apps-together-bionic-uses-lm-studio-for-local-m|Coexistence
+  with Bionic]]'
 - '[[Changes/Lovable/2026-10-13-gemini-4-argon-for-your-app-s-ai-features|Gemini 4
   Argon for your app''s AI features]]'
 - '[[Changes/Notion/2026-10-13-new-week-new-models|New week, new models]]'

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: bf1fdf4e60e1d9dbd7ea022468a79812c03a2ac1d3a7b0ed76f4cb0a5cb4d69b
+machine_hash: 59212972d85d02b4ce84027d3d0660bee835f5091234d7c15ae94d0484473f65
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -46,10 +46,10 @@ record:
   title: 3 Search and Browsing changes in rust-v0.136.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-19-the-plugin-browse-and-discover-panes-now-show-when-a-plugin-was-last-updated|The
-  /plugin browse and discover panes now show when a plugin was last updated]]'
-- '[[Changes/GitHub Copilot CLI/2026-05-20-github-mcp-web-search-tool-is-available-immediately-without-requiring-tool-searc|GitHub
-  MCP web search tool is available immediately without requiring tool search]]'
+- '[[Changes/Superwhisper/2026-05-25-models-library-view-for-browsing-downloading-and-creating-your-own-custom-models|Models
+  Library view for browsing, downloading and creating your own custom models]]'
+- '[[Changes/AnythingLLM/2026-05-26-feat-add-native-baidu-search-provider-for-agent-web-browsing-by-jimmyzhuu-in-htt|FEAT
+  Add native Baidu Search provider for Agent web browsing]]'
 - '[[Changes/ChatGPT/2026-06-01-chatgpt-can-now-help-with-more-of-the-job-search-process-from-finding-relevant-l|Find
   live jobs and format your resume in ChatGPT]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-06-01-rust-v0-136-0-github-332669350-976b06b6|codex-cli-2026-06-01-rust-v0-136-0-github-332669350-976b06b6]]'

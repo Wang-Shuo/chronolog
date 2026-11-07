@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 02bc7f470e69ef635b1daa05798dfe9db2947ebb2fe1a0ea3a4343e4537aea40
+machine_hash: 59dfb25e48898fb34323f3cbf2c0b57d810e951d13b799ca8f83e645febb63bb
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -78,11 +78,12 @@ record:
   title: 18 Interface Experience changes in rust-v0.145.0
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-07-17-devin-local|Devin Local]]'
-- '[[Changes/GitHub Copilot CLI/2026-07-20-the-sessions-sidebar-is-now-navigable-with-the-keyboard-and-mouse-arrows-open-an|The
-  Sessions sidebar is now navigable with the keyboard and mouse…]]'
 - '[[Changes/OpenCode/2026-07-20-desktop-preserve-command-drafts-in-the-command-menu|Desktop
   Preserve command drafts in the command menu]]'
+- '[[Changes/Superwhisper/2026-07-20-you-can-now-transcribe-mov-video-files-directly-from-the-file-picker|Transcribe
+  .mov video files directly from the file picker]]'
+- '[[Changes/Superwhisper/2026-07-20-2-interface-experience-changes-in-superwhisper-macos-2-16-5|2
+  Interface Experience changes in Superwhisper macOS 2.16.5]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-07-21-rust-v0-145-0-github-357545274-7be4454f|codex-cli-2026-07-21-rust-v0-145-0-github-357545274-7be4454f]]'
 source_type: github_releases
 theme: interface-experience
@@ -164,7 +165,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.145.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-07-20 · OpenCode · [[Changes/OpenCode/2026-07-20-desktop-preserve-command-drafts-in-the-command-menu|Desktop Preserve command drafts in the command menu]]
+- Earlier: 2026-07-20 · Superwhisper · [[Changes/Superwhisper/2026-07-20-2-interface-experience-changes-in-superwhisper-macos-2-16-5|2 Interface Experience changes in Superwhisper macOS 2.16.5]]
 - Later: 2026-07-21 · Lovable · [[Changes/Lovable/2026-07-21-invite-people-outside-your-workspace-to-an-internally-published-app|Invite people outside your workspace to an internally published app]]
 <!-- chronolog:end -->
 

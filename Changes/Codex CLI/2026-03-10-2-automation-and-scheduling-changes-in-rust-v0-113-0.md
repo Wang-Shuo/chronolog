@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6c3c26b5500d11d269c0fd5c25043069777a8e0107ac85a51a3f9b0cc9cadf4a
+machine_hash: 9e7fb7b7eb629ad4e7aea3bd1dd201bd05777873d5473980fde8327734a094d5
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,10 +44,10 @@ record:
   title: 2 Automation and Scheduling changes in rust-v0.113.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-07-added-loop-command-to-run-a-prompt-or-slash-command-on-a-recurring-interval-e-g|Added
-  /loop command to run a prompt or slash command on a recurring interval…]]'
 - '[[Changes/Open WebUI/2026-03-08-artifacts-reactive-loop-fix-fixed-an-infinite-reactive-loop-in-chat-when-artifac|♾️
   Artifacts reactive loop fix. Fixed an infinite reactive loop in chat…]]'
+- '[[Changes/Raycast/2026-03-09-scheduled-export-you-can-now-backup-your-raycast-settings-and-data-on-a-schedule|Scheduled
+  Export: You can now backup your Raycast settings and data on a schedule…]]'
 - '[[Changes/Claude Code/2026-03-10-added-claude-code-disable-cron-environment-variable-to-immediately-stop-schedule|Added
   CLAUDE_CODE_DISABLE_CRON environment variable to immediately stop scheduled…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-03-10-rust-v0-113-0-github-294999501-e594ccb6|codex-cli-2026-03-10-rust-v0-113-0-github-294999501-e594ccb6]]'
@@ -94,7 +94,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.113.0
 ## Nearby in Automation and Scheduling
 
 - Earlier: 2026-03-10 · Claude Code · [[Changes/Claude Code/2026-03-10-added-claude-code-disable-cron-environment-variable-to-immediately-stop-schedule|Added CLAUDE_CODE_DISABLE_CRON environment variable to immediately stop scheduled…]]
-- Later: 2026-03-17 · Claude Code · [[Changes/Claude Code/2026-03-17-show-a-notice-when-apikeyhelper-takes-longer-than-10s-preventing-it-from-blockin|Show a notice when apiKeyHelper takes longer than 10s, preventing it from blocking…]]
+- Later: 2026-03-11 · Devin · [[Changes/Devin/2026-03-11-schedule-run-as-user|Schedule: Run as User]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

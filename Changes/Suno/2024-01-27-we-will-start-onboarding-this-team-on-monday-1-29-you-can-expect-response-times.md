@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0b22a3d9a0d17c5a8198223509aee1dab122eaae3421086182d824b1af106a60
+machine_hash: 57999029e15219967b497bb22f954887fcb612ed2b00a62b37541813373e1840
 product: suno
 product_name: Suno
 record:
@@ -48,8 +48,8 @@ record:
   title: We will start onboarding this team on Monday (1/29)
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2024-01-10-we-re-launching-a-new-chatgpt-plan-for-teams-of-all-sizes-which-provides-a-secur-c68432|Use
-  ChatGPT alongside your team]]'
+- '[[Changes/Raycast/2024-01-10-changelog-added-an-action-to-copy-a-link-for-sharing-the-release-notes|Changelog:
+  Added an action to copy a link for sharing the release notes]]'
 - '[[Changes/Notion/2024-01-17-a-b-uilt-in-scheduling-tool|A b uilt-in scheduling
   tool]]'
 - '[[Changes/Runway/2024-01-26-share-custom-voices-with-a-workspace|Share Custom Voices

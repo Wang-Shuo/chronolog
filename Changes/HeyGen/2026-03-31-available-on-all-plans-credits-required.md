@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: expansion
-machine_hash: f107cd92a9fb492189db997bac7fd5aeabfde099adaa4849f17a5dcd04812ad3
+machine_hash: d90c4e866dcfdbc1e29c00c37b668a88440449da5269ea288a1088b393f5f1fd
 product: heygen
 product_name: HeyGen
 record:
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2026-03-31 · Codex CLI · [[Changes/Codex CLI/2026-03-31-15934-add-usage-based-business-plan-types-bwanner-oai|♯15934 Add usage-based business plan types @bwanner-oai]]
-- Later: 2026-04-04 · Claude Code · [[Changes/Claude Code/2026-04-04-added-per-model-and-cache-hit-breakdown-to-cost-for-subscription-users|Added per-model and cache-hit breakdown to /cost for subscription users]]
+- Later: 2026-04-03 · Recraft · [[Changes/Recraft/2026-04-03-cost-13-21-credits-per-second|Cost: 13–21 credits per second]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

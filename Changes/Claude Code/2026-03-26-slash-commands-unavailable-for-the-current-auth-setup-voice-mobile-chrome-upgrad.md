@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9b8143804d48d099d99f1d8dc99cfa3c119e47b6fdf7fa42bdb332488a19b8e9
+machine_hash: 41919fbd60037d5a3fa52fb2c2cba4f54552ca75abf894906ace2382a3b7dc39
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,11 +44,11 @@ record:
   title: Slash commands unavailable for the current auth setup…
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-03-17-feat-voice-implement-speech-friendly-response-formatter-by-ayush31010-in-https-g|feat(voice):
-  implement speech-friendly response formatter]]'
 - '[[Changes/Codex CLI/2026-03-19-2-voice-and-audio-changes-in-rust-v0-116-0|2 Voice
   and Audio changes in rust-v0.116.0]]'
 - '[[Changes/ElevenLabs/2026-03-23-speech-to-text|Speech to Text]]'
+- '[[Changes/Raycast/2026-03-23-quick-look-gives-you-a-fast-inline-preview-of-images-pdfs-videos-audio-text-file|Quick
+  Look gives you a fast, inline preview of images, PDFs, videos, audio, text…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-26-v2-1-84-github-301540101-d02104aa|claude-code-2026-03-26-v2-1-84-github-301540101-d02104aa]]'
 source_type: github_releases
 theme: voice
@@ -86,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-03-23 · ElevenLabs · [[Changes/ElevenLabs/2026-03-23-speech-to-text|Speech to Text]]
+- Earlier: 2026-03-23 · Raycast · [[Changes/Raycast/2026-03-23-quick-look-gives-you-a-fast-inline-preview-of-images-pdfs-videos-audio-text-file|Quick Look gives you a fast, inline preview of images, PDFs, videos, audio, text…]]
 - Later: 2026-03-26 · Codex CLI · [[Changes/Codex CLI/2026-03-26-15579-increase-voice-space-hold-timeout-to-1s-aibrahim-oai|♯15579 Increase voice space hold timeout to 1s @aibrahim-oai]]
 <!-- chronolog:end -->
 

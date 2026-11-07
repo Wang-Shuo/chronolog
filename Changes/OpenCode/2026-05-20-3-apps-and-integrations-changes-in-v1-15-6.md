@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 994b71d806d3708aa73cd5fece6336188c24a1d41d2f5d6034d01eb10cebace0
+machine_hash: c48a8b3bef1a433622b6e8443160e8b42d9083992d042efb0b1f9a37f7c917fe
 product: opencode
 product_name: OpenCode
 record:
@@ -44,8 +44,8 @@ record:
   title: 3 Apps and Integrations changes in v1.15.6
   type: change
 related_changes:
-- '[[Changes/Microsoft 365 Copilot/2026-05-19-graph-api-enhancements-for-custom-connector-relevance-and-ux-web-microsoft-365-c|Graph
-  API enhancements for custom connector relevance and UX…]]'
+- '[[Changes/Raycast/2026-05-19-applications-use-alternate-name-for-creator-studio-apps|Applications:
+  Use alternate name for Creator Studio apps]]'
 - '[[Changes/Codex CLI/2026-05-20-9-apps-and-integrations-changes-in-rust-v0-132-0|9
   Apps and Integrations changes in rust-v0.132.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-20-4-apps-and-integrations-changes-in-v1-0-51|4
@@ -95,7 +95,7 @@ Source: https://opencode.ai/changelog/v1.15.6
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-05-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-20-4-apps-and-integrations-changes-in-v1-0-51|4 Apps and Integrations changes in v1.0.51]]
-- Later: 2026-05-21 · Codex CLI · [[Changes/Codex CLI/2026-05-21-20-apps-and-integrations-changes-in-rust-v0-133-0|20 Apps and Integrations changes in rust-v0.133.0]]
+- Later: 2026-05-20 · Raycast · [[Changes/Raycast/2026-05-20-applications-use-alternate-name-for-creator-studio-apps|Applications: Use alternate name for Creator Studio apps]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

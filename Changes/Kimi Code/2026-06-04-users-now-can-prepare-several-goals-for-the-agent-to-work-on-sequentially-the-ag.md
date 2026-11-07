@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: d9344ec20d7f2a9140254381adc4f75ec468cb5c79bb9c8a63f10f438ea2efa6
+machine_hash: 6fb9436f7f031b6315ec9938dde3e62647ac398b6ece3ab7f4bb218953fd5ee8
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -87,7 +87,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-06-04 · Cursor · [[Changes/Cursor/2026-06-04-5-agent-mode-changes-in-custom-stores-custom-tools|5 Agent Mode changes in Custom stores, custom tools…]]
-- Later: 2026-06-05 · Cursor · [[Changes/Cursor/2026-06-05-ask-the-agent-to-make-one-match-the-other-remove-repeated-content-or-adjust-a-gr|Multi-select elements]]
+- Later: 2026-06-04 · Raycast · [[Changes/Raycast/2026-06-04-teams-share-ai-agents-across-your-organization|Teams: Share AI Agents across your organization]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

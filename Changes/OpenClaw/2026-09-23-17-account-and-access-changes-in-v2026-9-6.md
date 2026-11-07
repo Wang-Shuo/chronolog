@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 92164198cf8408e34c84faca4c040cba0c648cc94ed9c1170f005942d41b9f6b
+machine_hash: 555d48cf717d38e9b14734a4bd87a14756ce8257128adb3afb43aa834fc3b2f2
 product: openclaw
 product_name: OpenClaw
 record:
@@ -164,12 +164,12 @@ record:
   title: 17 Account and Access changes in v2026.9.6
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-22-13-account-and-access-changes-in-rust-v0-156-0|13
-  Account and Access changes in rust-v0.156.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-22-3-account-and-access-changes-in-v1-0-88|3
   Account and Access changes in v1.0.88]]'
 - '[[Changes/Claude Code/2026-09-23-2-account-and-access-changes-in-v2-1-281|2 Account
   and Access changes in v2.1.281]]'
+- '[[Changes/Devin/2026-09-23-bring-your-own-oauth-setup-guides-for-microsoft-365-and-google-workspace-mcps|Bring-Your-Own
+  OAuth Setup Guides for Microsoft 365 and Google Workspace MCPs]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-09-23-v2026-9-6-3f12c824|openclaw-2026-09-23-v2026-9-6-3f12c824]]'
 source_type: openclaw_changelog
 theme: account-access
@@ -254,7 +254,7 @@ Source: https://docs.openclaw.ai/releases/2026.9.6
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-09-23 · Claude Code · [[Changes/Claude Code/2026-09-23-2-account-and-access-changes-in-v2-1-281|2 Account and Access changes in v2.1.281]]
+- Earlier: 2026-09-23 · Devin · [[Changes/Devin/2026-09-23-bring-your-own-oauth-setup-guides-for-microsoft-365-and-google-workspace-mcps|Bring-Your-Own OAuth Setup Guides for Microsoft 365 and Google Workspace MCPs]]
 - Later: 2026-09-23 · Qoder · [[Changes/Qoder/2026-09-23-network-proxy-added-support-for-http-https-proxy-urls-containing-a-username-and|Network proxy: Added support for HTTP/HTTPS proxy URLs containing a username…]]
 <!-- chronolog:end -->
 

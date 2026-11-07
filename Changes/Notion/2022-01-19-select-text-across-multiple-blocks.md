@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 5a38e84a14ab500df64392c92fa2b81af464303db92a9ba39a34ba3f4abf7074
+machine_hash: 17fffdbb4488d216ab394c841003ec642267e5ae4bec63d3c768a21a96182049
 product: notion
 product_name: Notion
 record:
@@ -57,11 +57,12 @@ record:
   title: Select text across multiple blocks
   type: change
 related_changes:
-- '[[Changes/Descript/2021-10-07-editor-improvements|Editor improvements]]'
 - '[[Changes/Descript/2021-10-19-drive-view-filter-to-projects-or-recordings|Drive
   View: filter to projects or recordings]]'
 - '[[Changes/Notion/2021-12-23-the-pop-up-that-appears-when-hovering-your-cursor-over-hyperlinked-text-now-incl|The
   pop-up that appears when hovering your cursor over hyperlinked text now includes…]]'
+- '[[Changes/Raycast/2022-01-12-preferences-you-can-now-open-store-to-install-extensions-from-the-extensions-tab|Preferences:
+  You can now open Store to install extensions from the Extensions Tab]]'
 source_release: '[[Releases/Notion/notion-2022-01-19-https-www-notion-com-releases-2022-01-19-18740d1a|notion-2022-01-19-https-www-notion-com-releases-2022-01-19-18740d1a]]'
 source_type: notion_changelog
 theme: editor-experience
@@ -99,7 +100,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2021-12-23 · Notion · [[Changes/Notion/2021-12-23-the-pop-up-that-appears-when-hovering-your-cursor-over-hyperlinked-text-now-incl|The pop-up that appears when hovering your cursor over hyperlinked text now includes…]]
+- Earlier: 2022-01-12 · Raycast · [[Changes/Raycast/2022-01-12-preferences-you-can-now-open-store-to-install-extensions-from-the-extensions-tab|Preferences: You can now open Store to install extensions from the Extensions Tab]]
 - Later: 2022-01-26 · Descript · [[Changes/Descript/2022-01-26-you-can-now-transfer-ownership-of-a-project-to-another-editor-member-on-the-same|Transfer ownership of a project to another Editor member on the same Drive]]
 <!-- chronolog:end -->
 

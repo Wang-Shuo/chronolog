@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0d7c141ce15e14c751b424380bd1b0b1ad35cf4d8e8505dcde70a79d8dabb8d4
+machine_hash: cb8cbca9ddd443543b7c458bc80f4f1ee03b146e4aa8a644e7756597c3a6a9d8
 product: ollama
 product_name: Ollama
 record:
@@ -98,7 +98,7 @@ Source: https://github.com/ollama/ollama/releases/tag/v0.1.39
 ## Nearby in Model Support
 
 - Earlier: 2024-05-22 · Aider · [[Changes/Aider/2024-05-22-aider-automatically-lints-and-fixes-after-every-llm-edit|Aider automatically lints and fixes after every LLM edit]]
-- Later: 2024-05-26 · Cursor · [[Changes/Cursor/2024-05-26-gemini-1-5-flash-is-available-in-long-context-mode|Gemini 1.5 Flash is available in long-context mode]]
+- Later: 2024-05-22 · Superwhisper · [[Changes/Superwhisper/2024-05-22-recordings-longer-than-30-minutes-will-now-work-with-nova-2-model|Recordings longer than 30 minutes will now work with Nova 2 model]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

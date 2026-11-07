@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ffa6b04e33daf64c7bdba3733a58533892be4e8b12f21cf89dd6973ec1fefc06
+machine_hash: f990be26bda74b208e7909ba06fe3eb69383da14a69bdb585f846e06efbb6b39
 product: opencode
 product_name: OpenCode
 record:
@@ -99,7 +99,7 @@ Source: https://opencode.ai/changelog/v2.2.1
 ## Nearby in Context Window
 
 - Earlier: 2026-10-29 · Open WebUI · [[Changes/Open WebUI/2026-10-29-provider-details-for-models-administrators-editing-a-model-now-see-a-provider-de|📇 Provider details for models. Administrators editing a model now see a Provider…]]
-- Later: 2026-10-30 · OpenCode · [[Changes/OpenCode/2026-10-30-2-context-window-changes-in-v2-2-5|2 Context Window changes in v2.2.5]]
+- Later: 2026-10-30 · Devin · [[Changes/Devin/2026-10-30-personal-access-tokens-default-to-approval-required|Personal Access Tokens Default to Approval Required]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

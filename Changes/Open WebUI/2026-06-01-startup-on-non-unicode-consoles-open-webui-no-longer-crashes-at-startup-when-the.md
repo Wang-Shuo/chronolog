@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: bdb971ec560b8dbf71ac95eb92a142e1f4d57eb665210221d3397e1f581501ae
+machine_hash: b7d18977a65bcec0257bb0303a7ab4bf3d3280665844c827912ace38f66ed04e
 product: open-webui
 product_name: Open WebUI
 record:
@@ -52,12 +52,12 @@ record:
     at startup…"
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-05-28-5-mobile-and-desktop-changes-in-rust-v0-135-0|5
-  Mobile and Desktop changes in rust-v0.135.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-28-clipboard-correctly-copies-cjk-and-supplementary-plane-unicode-characters-on-win|Clipboard
   correctly copies CJK and supplementary-plane Unicode characters on Windows]]'
 - '[[Changes/OpenCode/2026-05-28-desktop-improved-the-home-empty-state-and-fixed-v2-font-usage|Desktop
   Improved the home empty state and fixed V2 font usage]]'
+- '[[Changes/Raycast/2026-05-29-snippet-expansion-finally-comes-to-ios-use-your-favorite-keyword-across-the-rayc|Snippet
+  Expansion finally comes to iOS]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-06-01-v0-9-6-github-332798378-d8dc258e|open-webui-2026-06-01-v0-9-6-github-332798378-d8dc258e]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -106,7 +106,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-05-28 · OpenCode · [[Changes/OpenCode/2026-05-28-desktop-improved-the-home-empty-state-and-fixed-v2-font-usage|Desktop Improved the home empty state and fixed V2 font usage]]
+- Earlier: 2026-05-29 · Raycast · [[Changes/Raycast/2026-05-29-snippet-expansion-finally-comes-to-ios-use-your-favorite-keyword-across-the-rayc|Snippet Expansion finally comes to iOS]]
 - Later: 2026-06-02 · Windsurf · [[Changes/Windsurf/2026-06-02-windsurf-is-now-devin-desktop-https-devin-ai-blog-windsurf-is-now-devin-desktop|Windsurf is now Devin Desktop((source link)]]
 <!-- chronolog:end -->
 

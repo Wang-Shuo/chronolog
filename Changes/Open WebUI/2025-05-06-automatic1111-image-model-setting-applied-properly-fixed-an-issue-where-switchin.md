@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 0bbd0fae368333a324050aa6f7c0c475a7e558459ccf7059607e1c18b0c1f5cb
+machine_hash: 79befdcb6a4f9e370957d9f58e26228b991a8516d77a1939b9967995c815daab
 product: open-webui
 product_name: Open WebUI
 record:
@@ -47,10 +47,10 @@ record:
   title: "\U0001F3A8 **Automatic1111 Image Model Setting Applied Properly**"
   type: change
 related_changes:
-- '[[Changes/Cline/2025-05-03-5-model-support-changes-in-v3-14-0|5 Model Support changes
-  in v3.14.0]]'
 - '[[Changes/Open WebUI/2025-05-05-2-model-support-changes-in-v0-6-6|2 Model Support
   changes in v0.6.6]]'
+- '[[Changes/AnythingLLM/2025-05-06-2-model-support-changes-in-v1-8-1|2 Model Support
+  changes in v1.8.1]]'
 - '[[Changes/Gemini/2025-05-06-2-5-pro-experimental-got-a-major-upgrade-for-coding|2.5
   Pro (experimental) got a major upgrade for coding]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-05-06-v0-6-7-github-216889065-023e7527|open-webui-2025-05-06-v0-6-7-github-216889065-023e7527]]'

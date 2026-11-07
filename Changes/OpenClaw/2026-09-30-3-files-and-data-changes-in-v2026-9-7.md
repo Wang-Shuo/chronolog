@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c9795ecce1383be41e8d35084450d10b620fbf08782cf616c3b07a5e45c5588a
+machine_hash: 393273b4fc3d3ac072030dd28c1faf0d5d03571452a9027f150fdb8e9dd60798
 product: openclaw
 product_name: OpenClaw
 record:
@@ -57,10 +57,9 @@ record:
   title: 3 Files and Data changes in v2026.9.7
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-25-improved-prompt-audit-on-claude-code-configuration-stale-paths-stale-commands-an|Improved
-  prompt-audit on Claude Code configuration]]'
-- '[[Changes/Codex CLI/2026-09-25-added-retries-for-transient-file-upload-failures-and-increased-the-upload-timeou|Added
-  retries for transient file-upload failures and increased the upload timeout…]]'
+- '[[Changes/Devin/2026-09-25-slack-canvas-and-user-group-permissions|Slack: Canvas
+  and User-Group Permissions]]'
+- '[[Changes/Devin/2026-09-25-pdf-attachments-are-versioned|PDF Attachments Are Versioned]]'
 - '[[Changes/Synthesia/2026-09-29-bring-webp-files-straight-into-the-editor-use-still-or-animated-webp-on-the-canv|Upload
   WebP images to your videos]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-09-30-v2026-9-7-3d25d2bd|openclaw-2026-09-30-v2026-9-7-3d25d2bd]]'

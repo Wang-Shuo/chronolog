@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 40a306f36b74953cb5466456f63afb79cc5a84d3ad5ffda5748ca0be745896b9
+machine_hash: 66d3b327cc0ea3088dc4cb5eea8c58a96e3a370480b9050a25f3145e46bc88c5
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -54,11 +54,11 @@ record:
   title: ChatGPT app for iOS in more countries
   type: change
 related_changes:
-- '[[Changes/Notion/2023-02-09-take-quick-notes-on-android|Take quick notes on Android]]'
 - '[[Changes/Notion/2023-02-09-made-updates-to-the-mobile-search-experience-that-improved-load-times|Made
   updates to the mobile search experience that improved load times]]'
 - "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support
   \U0001F973]]"
+- '[[Changes/Raycast/2023-03-29-history|History]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2023-05-24-ios-app-available-in-more-countries-shared-links-in-alpha-bing-p-9800ed96|chatgpt-2023-05-24-ios-app-available-in-more-countries-shared-links-in-alpha-bing-p-9800ed96]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
@@ -89,7 +89,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earlier: 2023-03-29 · Raycast · [[Changes/Raycast/2023-03-29-history|History]]
 - Later: 2023-06-22 · ChatGPT · [[Changes/ChatGPT/2023-06-22-we-ve-made-two-updates-to-the-mobile-chatgpt-app|ChatGPT makes two updates to the mobile ChatGPT app]]
 <!-- chronolog:end -->
 

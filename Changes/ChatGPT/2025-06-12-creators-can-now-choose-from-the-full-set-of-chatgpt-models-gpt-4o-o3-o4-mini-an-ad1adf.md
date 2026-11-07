@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: cc167c148c62e9d2a7232e1073a4616c660dc520bf493a78048b776d0764a08f
+machine_hash: 84f878aac7cc115e835083a4355d34a02bea2069001ed8e8a20bc5ad105665a8
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -66,9 +66,10 @@ record:
   title: Creators can now choose from the full set of ChatGPT models…
   type: change
 related_changes:
-- '[[Changes/Midjourney/2025-06-11-please-note|Please Note]]'
 - '[[Changes/Midjourney/2025-06-11-thank-you-so-much-for-your-help-we-can-t-wait-to-share-the-v1-video-model-with-y|Thank
   you so much for your help!]]'
+- '[[Changes/Raycast/2025-06-11-3-model-support-changes-in-raycast-macos-v1-1-100-0|3
+  Model Support changes in Raycast macos-v1 1.100.0]]'
 - '[[Changes/ChatGPT/2025-06-12-upload-files-and-access-model-selector-on-mobile|Upload
   files and access model selector on mobile]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-06-12-expanded-model-support-for-custom-gpts-55f4555f|chatgpt-2025-06-12-expanded-model-support-for-custom-gpts-55f4555f]]'

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 66271e797341db2f10741daa6563597cf1950793f225fe0f0f3194ae639ba43c
+machine_hash: 03724b12f97f010a885bb46ad32ac2c666d8332cda7500d1a3d81ed2c0dc36e2
 product: openclaw
 product_name: OpenClaw
 record:
@@ -140,10 +140,10 @@ record:
   title: 18 Model Support changes in v2026.10.1
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-10-08-test-e2e-launch-the-same-model-profile-test-from-the-beta-profile-by-enyst-in-ht|test(e2e):
-  launch the same-model profile test from the BETA profile]]'
-- '[[Changes/Claude Code/2026-10-09-claude-tag-changed-claude-in-slack-to-show-the-footer-with-the-session-link-mode|Claude
-  Tag Changed Claude in Slack to show the footer with the session link, model…]]'
+- '[[Changes/Raycast/2026-10-09-2-model-support-changes-in-raycast-windows-2-7|2 Model
+  Support changes in Raycast windows 2.7]]'
+- '[[Changes/Raycast/2026-10-09-2-model-support-changes-in-raycast-macos-2-7|2 Model
+  Support changes in Raycast macos 2.7]]'
 - '[[Changes/Open WebUI/2026-10-10-49-model-support-changes-in-v0-12-0|49 Model Support
   changes in v0.12.0]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-10-10-v2026-10-1-d64e4e93|openclaw-2026-10-10-v2026-10-1-d64e4e93]]'

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 16c7f3771c9f10bc8bf810c7255a6542a55826c1e362431d26b8b17ed1e7a0af
+machine_hash: edd7eedd20857ce8cbfc5d5a8b26ee1605b51fae9e3001ed85adbccfed12fcb1
 product: replit
 product_name: Replit
 record:
@@ -93,7 +93,7 @@ type: change
 ## Nearby in Account and Access
 
 - Earlier: 2025-05-15 · Dify · [[Changes/Dify/2025-05-15-chore-avoid-repeated-type-ignore-noqa-by-adding-flask-restful-and-flask-login-in|chore: avoid repeated type ignore noqa by adding flask_restful and flask_login…]]
-- Later: 2025-05-26 · Open WebUI · [[Changes/Open WebUI/2025-05-26-2-account-and-access-changes-in-v0-6-11|2 Account and Access changes in v0.6.11]]
+- Later: 2025-05-23 · LM Studio · [[Changes/LM Studio/2025-05-23-downloading-public-presets-does-not-require-a-login-publishing-liking-forking-do|Downloading public presets does NOT require a login]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

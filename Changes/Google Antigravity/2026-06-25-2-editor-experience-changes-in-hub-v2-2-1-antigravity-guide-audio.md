@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: fe7eb41f4356b2052229b456b128e5a8962d54c91744dc48996e624ae993d3bc
+machine_hash: 82d53edb23436847c8accbac23573dd9d2896b9790de0813068b50bf5358b90a
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -45,8 +45,8 @@ record:
   title: 2 Editor Experience changes in HUB v2.2.1 — Antigravity Guide, audio…
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-06-24-desktop-kept-draft-prompt-state-per-tab|Desktop Kept
-  draft prompt state per tab]]'
+- '[[Changes/AnythingLLM/2026-06-25-2-editor-experience-changes-in-v1-15-0|2 Editor
+  Experience changes in v1.15.0]]'
 - '[[Changes/Claude Code/2026-06-25-added-live-file-path-autocomplete-to-bash-mode|Added
   live file path autocomplete to bash mode (!)]]'
 - '[[Changes/Dify/2026-06-25-3-editor-experience-changes-in-1-15-0|3 Editor Experience

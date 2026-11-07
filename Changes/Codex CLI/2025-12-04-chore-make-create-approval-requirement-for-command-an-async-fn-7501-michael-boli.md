@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b3a46d644961f4a5657b754a88ac006770eeb87c2136bb58da16ecad47d0f9cd
+machine_hash: 605f0e43a7bcb8937dbb4e361dd5c0c0e33f06d99d4b7331a2a0636fca41f599
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -87,7 +87,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2025-12-04 · Cline · [[Changes/Cline/2025-12-04-docs-remove-advanced-patterns-and-testing-debugging-from-hooks-docs-by-jl-codes|docs: remove Advanced Patterns and Testing & Debugging from Hooks docs]]
-- Later: 2025-12-09 · Codex CLI · [[Changes/Codex CLI/2025-12-09-2-developer-workflow-changes-in-rust-v0-66-0|2 Developer Workflow changes in rust-v0.66.0]]
+- Later: 2025-12-05 · Raycast · [[Changes/Raycast/2025-12-05-2-developer-workflow-changes-in-raycast-ios-1-2-0|2 Developer Workflow changes in Raycast ios 1.2.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

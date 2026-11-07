@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e1119c3fc580af7ee655a70f5fc51c2aabefcf054a90dab30d764dd9431e4f37
+machine_hash: eb25383f2cd163519c76c1da48d06a05c306b19fbe0e4fa3e1a817f63a13b42b
 product: notion
 product_name: Notion
 record:
@@ -43,10 +43,9 @@ record:
   title: '**Shift + return is now supported on iPad!'
   type: change
 related_changes:
-- "[[Changes/Notion/2020-05-28-better-emoji-support-on-windows-and-android-we-used-to-rely-on-your-system-font|Better
-  emoji support on Windows and Android \U0001F648 We used to rely on your system font…]]"
 - "[[Changes/Notion/2020-06-09-2-mobile-and-desktop-changes-in-inline-math|2 Mobile
   and Desktop changes in Inline math \U0001F9EE]]"
+- '[[Changes/Raycast/2020-08-03-system-commands|System Commands]]'
 - '[[Changes/Notion/2020-09-02-reduced-vibration-intensity-for-haptic-feedback-on-android-and-disabled-vibratio|Reduced
   vibration intensity for haptic feedback on Android, and disabled vibration…]]'
 source_release: '[[Releases/Notion/notion-2020-09-17-https-www-notion-com-releases-2020-09-17-cea09a97|notion-2020-09-17-https-www-notion-com-releases-2020-09-17-cea09a97]]'
@@ -78,7 +77,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2020-09-02 · Notion · [[Changes/Notion/2020-09-02-reduced-vibration-intensity-for-haptic-feedback-on-android-and-disabled-vibratio|Reduced vibration intensity for haptic feedback on Android, and disabled vibration…]]
-- Later: 2020-09-29 · Descript · [[Changes/Descript/2020-09-29-descript-for-windows-now-supports-the-ability-to-select-from-various-microphone|(Windows) Additional Support for ASIO and DirectSound driver options]]
+- Later: 2020-09-22 · Raycast · [[Changes/Raycast/2020-09-22-asana|Asana]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

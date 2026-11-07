@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: fdb29d04a00099aa974e45e48d6998c6351a64d552c3d10c0226252f21710e44
+machine_hash: 5d9f43c062c8685091308849da4256be4af61c801e5c22b0c35d00a3412a8647
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -54,10 +54,9 @@ record:
   title: Workspaces
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2025-10-07-azure-text-to-speech-now-properly-escapes-special-characters-like-ampersands-in|\U0001F50A
-  Azure Text-to-Speech now properly escapes special characters like ampersands…]]"
-- '[[Changes/Descript/2025-10-09-import-files-from-other-projects-beta|Import files
-  from other projects (beta)]]'
+- '[[Changes/Raycast/2025-10-14-custom-keyboard|Custom Keyboard]]'
+- '[[Changes/Raycast/2025-10-17-2-voice-and-audio-changes-in-raycast-ios-1-1-1|2 Voice
+  and Audio changes in Raycast ios 1.1.1]]'
 - '[[Changes/Descript/2025-10-23-welsh-transcription-now-available-in-beta|Welsh transcription
   now available in Beta]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2025-10-27-2025-10-27-a0636583|elevenlabs-2025-10-27-2025-10-27-a0636583]]'

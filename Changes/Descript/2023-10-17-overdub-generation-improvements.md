@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 60e0ac271d601c4ec790b1b8f362bc5d7cbf771e58781e4258164738239baae3
+machine_hash: f274b6ff36a4b3cac92197ae0e9fb17207fd5cc0a48795efab6361860b4f92d8
 product: descript
 product_name: Descript
 record:
@@ -48,10 +48,10 @@ record:
   title: Overdub generation improvements
   type: change
 related_changes:
-- '[[Changes/Descript/2023-09-28-this-tool-can-be-used-to-address-problems-with-audio-drift-in-an-audio-or-video|This
-  tool can be used to address problems with audio drift in an audio or video file…]]'
 - '[[Changes/Descript/2023-09-28-repair-audio-drift-added-a-new-file-repair-tool-https-help-descript-com-hc-en-us|
   Repair audio drift: Added a new file repair…]]'
+- '[[Changes/Superwhisper/2023-10-11-realtime-audio-soundwave-visualization|Realtime
+  audio soundwave visualization]]'
 - '[[Changes/Descript/2023-10-17-instant-speaker-creation|Instant speaker creation]]'
 source_release: '[[Releases/Descript/descript-2023-10-17-6529b7089d86ac6046817e11-eb5c0e53|descript-2023-10-17-6529b7089d86ac6046817e11-eb5c0e53]]'
 source_type: canny_changelog
@@ -85,8 +85,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2023-09-28 · Descript · [[Changes/Descript/2023-09-28-repair-audio-drift-added-a-new-file-repair-tool-https-help-descript-com-hc-en-us| Repair audio drift: Added a new file repair…]]
-- Later: 2023-10-31 · Descript · [[Changes/Descript/2023-10-31-filler-words-remove-from-transcript|Filler words: Remove from transcript]]
+- Earlier: 2023-10-11 · Superwhisper · [[Changes/Superwhisper/2023-10-11-realtime-audio-soundwave-visualization|Realtime audio soundwave visualization]]
+- Later: 2023-10-25 · Superwhisper · [[Changes/Superwhisper/2023-10-25-make-size-of-audio-wave-larger|Make size of audio wave larger]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e0a1c8437af250c2e416e518a64fd2aba6303a30274fac5f64dede09f4185067
+machine_hash: 8504ffc22c0a5199e0a249024f2b82213ef33add9452d2031b33e9ef133e58b2
 product: v0
 product_name: v0
 record:
@@ -43,8 +43,7 @@ record:
   title: Added element screenshot attachment for design mode element selection
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-19-2-interface-experience-changes-in-rust-v0-116-0|2
-  Interface Experience changes in rust-v0.116.0]]'
+- '[[Changes/Devin/2026-03-19-parent-child-session-grouping|Parent/Child Session Grouping]]'
 - '[[Changes/Notion/2026-03-20-custom-skills-let-you-turn-any-repetitive-ai-task-into-an-easily-accessible-comm|Custom
   skills for Notion AI]]'
 - '[[Changes/v0/2026-03-20-improved-git-sync-workflow-with-simplified-pr-menu|Improved

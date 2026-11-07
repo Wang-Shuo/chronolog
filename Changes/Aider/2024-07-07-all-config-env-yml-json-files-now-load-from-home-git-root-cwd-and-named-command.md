@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: dde3c27e75bbe4324da26b6f3cc7c1a1788292c2ba421921b58c48a343c39036
+machine_hash: b9bc4c7fa4f7825664c8a00b1a523de3649982b4c4ceac3d4f6d69e647f9e859
 product: aider
 product_name: Aider
 record:
@@ -45,10 +45,9 @@ record:
     command…
   type: change
 related_changes:
-- '[[Changes/Aider/2024-07-01-added-attribute-commit-message-to-prefix-aider-s-commit-messages-with-aider|Added
-  --attribute-commit-message to prefix aider''s commit messages with "aider:"]]'
-- '[[Changes/Cursor/2024-07-03-when-the-chat-suggests-a-code-block-click-apply-to-instantly-see-the-change-to-t|When
-  the chat suggests a code block, click "Apply" to instantly see the change…]]'
+- '[[Changes/Raycast/2024-07-03-2-developer-workflow-changes-in-raycast-macos-v1-1-78-0|2
+  Developer Workflow changes in Raycast macos-v1 1.78.0]]'
+- '[[Changes/Raycast/2024-07-03-window-layouts|Window Layouts]]'
 - '[[Changes/OpenHands/2024-07-05-3-developer-workflow-changes-in-0-7-1|3 Developer
   Workflow changes in 0.7.1]]'
 source_release: '[[Releases/Aider/aider-2024-07-07-v0-43-0-github-164297468-f52d3cbd|aider-2024-07-07-v0-43-0-github-164297468-f52d3cbd]]'

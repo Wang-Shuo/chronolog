@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 89615695c7c6a24bc0a099e8bfa104119eae98e142db0f6f9a7be7e47e4c8172
+machine_hash: 45299f8930d0530a284c5707e3838a951411a6134f112e9cb8f829f16870fcd8
 product: aider
 product_name: Aider
 record:
@@ -42,8 +42,8 @@ record:
   title: 2 Model Support changes in v0.71.0
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2024-12-31-ollama-parameters-respected-resolved-an-issue-where-input-parameters-for-ollama|\U0001F6E0️
-  Ollama Parameters Respected]]"
+- '[[Changes/LM Studio/2025-01-06-candidate-fix-for-huggingface-model-search-download-never-reachable-from-within|Candidate
+  fix for huggingface model search, download never reachable from within…]]'
 - '[[Changes/Dify/2025-01-07-7-model-support-changes-in-0-15-0|7 Model Support changes
   in 0.15.0]]'
 - '[[Changes/Ollama/2025-01-08-5-model-support-changes-in-v0-5-5|5 Model Support changes

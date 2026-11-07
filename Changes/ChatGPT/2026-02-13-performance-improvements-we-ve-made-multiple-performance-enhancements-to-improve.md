@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e3faf5b5d91fd5a0e4bcb0e258ae05f32d3be3b4df4193c5603c469c741bea1c
+machine_hash: c9fa58fe857621efddcefa2bbf1dd2e1672fbcb214647e6e058a2ed5b92d8450
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-02-12 · Z.ai API · [[Changes/Z.ai API/2026-02-12-designed-for-complex-system-engineering-and-long-range-agent-tasks-glm-5-shifts|Designed for complex system engineering and long-range Agent tasks, GLM-5 shifts…]]
-- Later: 2026-02-14 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-14-reduce-memory-usage-from-encoding-streaming-chunks|Reduce memory usage from encoding streaming chunks]]
+- Later: 2026-02-13 · Devin · [[Changes/Devin/2026-02-13-various-bug-fixes-and-performance-improvements-across-the-platform|Various bug fixes and performance improvements across the platform]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 4e019b578926f1027680db63c472ce4bbcfc148f82c9ff52d435b97ff3e58066
+machine_hash: f6e5b98ff0e623dd6e81ae1f4ed7b79670e575f03dd9e94dc7bacd2017e15b41
 product: lovable
 product_name: Lovable
 record:
@@ -69,8 +69,8 @@ record:
   title: New ways to open project settings
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-04-42874-0-153-hotfix-show-astra-in-bundled-model-picker-rhan-oai|♯42874
-  0.153 hotfix Show Astra in bundled model picker @rhan-oai]]'
+- '[[Changes/Devin/2026-09-04-lightbox-keyboard-navigation-and-mermaid-diagrams|Lightbox
+  Keyboard Navigation and Mermaid Diagrams]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-04-add-recent-created-name-and-classic-none-sorting-to-the-split-sessions-sidebar-w|Add
   Recent, Created, Name, and classic None sorting to the split Sessions sidebar…]]'
 - '[[Changes/HeyGen/2026-09-04-a-new-home-experience|A new Home experience]]'

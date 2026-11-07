@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c57250a001bf3ceb74f043d9e9e97b4b518e9c7dca03acb9defccaf02c9473ba
+machine_hash: e01642daba575cd7790ac4d963f80e965fed4ac82ea3f30699fa2a75932ef160
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -88,7 +88,7 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2026-10-19 · v0 · [[Changes/v0/2026-10-19-open-mcps-in-the-chat-composer-choose-slack-and-connect-your-workspace-once-conn|Open + → MCPs in the chat composer, choose Slack , and connect your workspace]]
-- Later: 2026-10-21 · Ollama · [[Changes/Ollama/2026-10-21-flint-https-ollama-com-library-flint-brings-recursive-s-coding-model-to-ollama-i|Flint((source link) brings Recursive's coding model to Ollama]]
+- Later: 2026-10-20 · Krea · [[Changes/Krea/2026-10-20-agent-picks-up-context-from-your-past-sessions|Agent picks up context from your past sessions]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

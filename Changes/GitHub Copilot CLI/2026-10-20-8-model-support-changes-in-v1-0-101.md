@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6c47485a1787269433f1dbae76c4a7595083a58f9af8c58a42425018339d52ac
+machine_hash: 5dd9d5ee479bad176d618dc1ee756972a238388f47ed1cbca7def0271a57dd7d
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -121,7 +121,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.101
 ## Nearby in Model Support
 
 - Earlier: 2026-10-19 · Notion · [[Changes/Notion/2026-10-19-meet-auto-our-upgraded-model-router|Meet Auto, our upgraded model router 🔀]]
-- Later: 2026-10-20 · Lovable · [[Changes/Lovable/2026-10-20-seedream-5-pro-and-seedance-2-5-for-your-app-s-ai-features|Seedream 5 Pro and Seedance 2.5 for your app's AI features]]
+- Later: 2026-10-20 · Krea · [[Changes/Krea/2026-10-20-krea-3-in-the-chatgpt-app|Krea 3 in the ChatGPT app]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

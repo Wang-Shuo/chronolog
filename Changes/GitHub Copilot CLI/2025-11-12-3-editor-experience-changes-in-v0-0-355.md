@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b478dd3e13c2b8a41bda5cc9f297eb3d16c665bd63b19077f1cc9ff87df0a38e
+machine_hash: 532433a45107e5618c9784584bbc09e2259989a45e4006c083f706b0e4e30d48
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,10 +44,8 @@ record:
   title: 3 Editor Experience changes in v0.0.355
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2025-11-06-3-editor-experience-changes-in-v0-6-35|3 Editor
-  Experience changes in v0.6.35]]'
-- "[[Changes/Open WebUI/2025-11-06-the-comfyui-image-edit-workflow-editor-modal-now-opens-correctly-when-clicking-t|\U0001F5BC️
-  The ComfyUI image edit workflow editor modal now opens correctly when clicking…]]"
+- '[[Changes/Devin/2025-11-07-document-titles|Document Titles]]'
+- '[[Changes/Devin/2025-11-07-wiki-edit-button-improvements|Wiki Edit Button Improvements]]'
 - '[[Changes/Gemini CLI/2025-11-07-enable-codebase-investigator-by-default-for-preview-by-silviojr-in-https-github|enable
   codebase investigator by default for preview]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2025-11-12-v0-0-355-github-261915723-3452a587|github-copilot-cli-2025-11-12-v0-0-355-github-261915723-3452a587]]'

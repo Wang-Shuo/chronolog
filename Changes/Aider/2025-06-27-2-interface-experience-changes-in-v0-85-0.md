@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 15f75ae7a007597e09502828ec4c21c5b97f6d52ef94a9e863f8b98a761d42a7
+machine_hash: 8f3d1beec5f7f4246604b746151b80fc545f0f51d18f068cb37601186228aa16
 product: aider
 product_name: Aider
 record:
@@ -43,12 +43,12 @@ record:
   title: 2 Interface Experience changes in v0.85.0
   type: change
 related_changes:
-- '[[Changes/Descript/2025-06-26-panels-quick-access-for-panels-on-the-sidebar-like-project-and-elements|Panels
-  - Quick access for panels on the sidebar like Project, and Elements]]'
 - '[[Changes/Descript/2025-06-26-storyboard-view-get-a-visual-overview-of-every-scene-in-your-composition-and-qui|Storyboard
   view: Get a visual overview of every scene in your composition…]]'
 - '[[Changes/Descript/2025-06-26-improved-timeline-tools-access-tools-from-the-toolbar-by-toggling-on-advanced-ti|Improved
   timeline tools: Access tools from the toolbar by toggling on Advanced…]]'
+- '[[Changes/Raycast/2025-06-26-2-interface-experience-changes-in-raycast-windows-0-25|2
+  Interface Experience changes in Raycast windows 0.25]]'
 source_release: '[[Releases/Aider/aider-2025-06-27-v0-85-0-github-228491827-20a4ecc7|aider-2025-06-27-v0-85-0-github-228491827-20a4ecc7]]'
 source_type: github_releases
 theme: interface-experience
@@ -87,7 +87,7 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.85.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2025-06-26 · Descript · [[Changes/Descript/2025-06-26-improved-timeline-tools-access-tools-from-the-toolbar-by-toggling-on-advanced-ti|Improved timeline tools: Access tools from the toolbar by toggling on Advanced…]]
+- Earlier: 2025-06-26 · Raycast · [[Changes/Raycast/2025-06-26-2-interface-experience-changes-in-raycast-windows-0-25|2 Interface Experience changes in Raycast windows 0.25]]
 - Later: 2025-07-01 · Gemini CLI · [[Changes/Gemini CLI/2025-07-01-feat-add-markdown-table-rendering-support-by-heartyguy-in-https-github-com-googl|feat: Add markdown table rendering support]]
 <!-- chronolog:end -->
 

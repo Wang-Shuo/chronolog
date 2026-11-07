@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 128eafc9f06295c87de3d7342c1ba72c6b9e020c99504a949a23f5148e8ef3e2
+machine_hash: 9929f8d06e931e398623aabbd0a7f1823fa3f59813c9f8bedf96b5c3bf46ca9c
 product: cursor
 product_name: Cursor
 record:
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2023-06-24 · Cursor · [[Changes/Cursor/2023-06-24-chat-was-failing-on-some-non-git-folders-that-is-now-fixed|Chat was failing on some non-git folders]]
-- Later: 2023-07-08 · Aider · [[Changes/Aider/2023-07-08-ask-to-create-a-git-repo-if-none-found-to-better-track-gpt-s-code-changes|Ask to create a git repo if none found, to better track GPT's code changes]]
+- Later: 2023-07-06 · Raycast · [[Changes/Raycast/2023-07-06-highlighting-of-changes|Highlighting of Changes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

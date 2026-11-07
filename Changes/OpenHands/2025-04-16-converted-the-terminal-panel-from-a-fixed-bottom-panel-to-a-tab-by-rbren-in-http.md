@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6d8ad4b0eb0721cf3658c9c9593b5c61e1633254d6186ae3c1674dd7da22110c
+machine_hash: d50ee463b3e10a750a4f3e916645dbf356260e71bf3b3a7acb4b799612bb1368
 product: openhands
 product_name: OpenHands
 record:
@@ -90,7 +90,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2025-04-15 · Cursor · [[Changes/Cursor/2025-04-15-improved-agent-terminal-control|Improved agent terminal control]]
-- Later: 2025-04-18 · Replit · [[Changes/Replit/2025-04-18-clearer-checkpoint-titles|Clearer checkpoint titles]]
+- Later: 2025-04-16 · Raycast · [[Changes/Raycast/2025-04-16-the-send-feedback-command-now-opens-a-separate-window-and-accepts-file-uploads|The “Send Feedback” command now opens a separate window and accepts file uploads]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 730e955f798cea74b69882e7de1b6efdf417d5952a91bba3298caeab6f9df60b
+machine_hash: a75b59ebac6e5c7b643611e4c323fa8ad85a4168fbefa02526c8ec2a05de8da2
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,10 +43,11 @@ record:
   title: '#18423 chore: document intentional await-holding cases @bolinfest'
   type: change
 related_changes:
-- '[[Changes/Descript/2026-04-16-locked-layers-https-help-descript-com-hc-en-us-articles-17461277756941-lock-laye|Locked…]]'
 - '[[Changes/ElevenLabs/2026-04-20-text-to-dialogue|Text to Dialogue]]'
 - '[[Changes/Open WebUI/2026-04-21-3-files-and-data-changes-in-v0-9-0|3 Files and
   Data changes in v0.9.0]]'
+- '[[Changes/AnythingLLM/2026-04-22-4-files-and-data-changes-in-v1-12-1|4 Files and
+  Data changes in v1.12.1]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-04-23-rust-v0-123-0-github-312509536-cebe4f18|codex-cli-2026-04-23-rust-v0-123-0-github-312509536-cebe4f18]]'
 source_type: github_releases
 theme: file-data
@@ -86,7 +87,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2026-04-21 · Open WebUI · [[Changes/Open WebUI/2026-04-21-3-files-and-data-changes-in-v0-9-0|3 Files and Data changes in v0.9.0]]
+- Earlier: 2026-04-22 · AnythingLLM · [[Changes/AnythingLLM/2026-04-22-4-files-and-data-changes-in-v1-12-1|4 Files and Data changes in v1.12.1]]
 - Later: 2026-04-24 · Open WebUI · [[Changes/Open WebUI/2026-04-24-paddleocr-vl-document-extraction-administrators-can-now-use-paddleocr-vl-as-a-co|🧠 PaddleOCR-vl document extraction. Administrators can now use PaddleOCR-vl…]]
 <!-- chronolog:end -->
 

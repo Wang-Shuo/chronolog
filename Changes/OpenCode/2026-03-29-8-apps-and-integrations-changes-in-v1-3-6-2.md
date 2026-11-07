@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b935b29e7d6889351e59a58b9e2ed43e779a6e53c34e802f738d02ab249122cf
+machine_hash: 4db32a67493bede2ae0387e983dc82cb6757af4a4285106d803bc0b946561ecc
 product: opencode
 product_name: OpenCode
 record:
@@ -55,12 +55,12 @@ record:
   title: 8 Apps and Integrations changes in v1.3.6 + 2
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-03-27-we-re-rolling-out-updated-box-notion-linear-and-dropbox-apps-in-chatgpt-these-up-9f6ee9|Updated
-  Box, Notion, Linear, and Dropbox apps]]'
-- '[[Changes/Claude Code/2026-03-27-reduced-startup-event-loop-stalls-when-many-claude-ai-mcp-connectors-are-configu|Reduced
-  startup event-loop stalls when many claude.ai MCP connectors are configured…]]'
 - '[[Changes/Dify/2026-03-27-6-apps-and-integrations-changes-in-1-13-3|6 Apps and
   Integrations changes in 1.13.3]]'
+- '[[Changes/Raycast/2026-03-27-2-apps-and-integrations-changes-in-raycast-macos-0-51|2
+  Apps and Integrations changes in Raycast macos 0.51]]'
+- '[[Changes/Raycast/2026-03-27-clipboard-history-you-can-now-drag-and-drop-items-files-images-text-from-clipboa|Clipboard
+  History: You can now drag and drop items (files, images, text)…]]'
 source_release: '[[Releases/OpenCode/opencode-2026-03-29-v1-3-6-6f35969f|opencode-2026-03-29-v1-3-6-6f35969f]]'
 source_type: opencode_changelog
 theme: apps-integrations
@@ -111,7 +111,7 @@ Source: https://opencode.ai/changelog/v1.3.6
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-03-27 · Dify · [[Changes/Dify/2026-03-27-6-apps-and-integrations-changes-in-1-13-3|6 Apps and Integrations changes in 1.13.3]]
+- Earlier: 2026-03-27 · Raycast · [[Changes/Raycast/2026-03-27-clipboard-history-you-can-now-drag-and-drop-items-files-images-text-from-clipboa|Clipboard History: You can now drag and drop items (files, images, text)…]]
 - Later: 2026-03-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-30-5-apps-and-integrations-changes-in-v1-0-13|5 Apps and Integrations changes in v1.0.13]]
 <!-- chronolog:end -->
 

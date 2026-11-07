@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3a9dcca3ac4f2b86cc215caf19aeab8ae5c1af82099c95416b7320a1ff838c9e
+machine_hash: 9dacfad762dec2185120e6ce4e447192f7666372ee0ca5cdee9b014d83fc3957
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -83,12 +83,11 @@ record:
   title: 16 Safety and Privacy changes in v0.37.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-07-vscode-added-a-warning-banner-when-settings-json-files-fail-to-parse-so-users-kn|VSCode
-  Added a warning banner when settings.json files fail to parse, so users…]]'
 - '[[Changes/Microsoft 365 Copilot/2026-04-07-fewer-confirmation-prompts-for-copilot-actions-web-microsoft-365-copilot-extensi|Fewer
   confirmation prompts for Copilot actions Web (Microsoft 365 Copilot extensibility)]]'
 - '[[Changes/Claude Code/2026-04-08-3-safety-and-privacy-changes-in-v2-1-97|3 Safety
   and Privacy changes in v2.1.97]]'
+- '[[Changes/Devin/2026-04-08-us-privacy-controls|US Privacy Controls]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-04-08-v0-37-0-github-306699346-f88de07d|gemini-cli-2026-04-08-v0-37-0-github-306699346-f88de07d]]'
 source_type: github_releases
 theme: safety-privacy
@@ -159,7 +158,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.37.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-04-08 · Claude Code · [[Changes/Claude Code/2026-04-08-3-safety-and-privacy-changes-in-v2-1-97|3 Safety and Privacy changes in v2.1.97]]
+- Earlier: 2026-04-08 · Devin · [[Changes/Devin/2026-04-08-us-privacy-controls|US Privacy Controls]]
 - Later: 2026-04-08 · OpenCode · [[Changes/OpenCode/2026-04-08-terminal-added-opencode-run-dangerously-skip-permissions-to-auto-approve-non-den|Terminal Added opencode run --dangerously-skip-permissions to auto-approve…]]
 <!-- chronolog:end -->
 

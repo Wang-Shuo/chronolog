@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 710ca58606c3ba58537f4b8caa2bc32c1e940c247855847b5e1d71a309dd8468
+machine_hash: 9b4547f22b88dc5bb782e244275f4b5b8b23bbf5a404ebebfe3c8ee3f960ec43
 product: openhands
 product_name: OpenHands
 record:
@@ -94,7 +94,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-08-21 · OpenCode · [[Changes/OpenCode/2026-08-21-core-surface-resumable-subagent-failures-instead-of-returning-an-empty-result|Core Surface resumable subagent failures instead of returning an empty result]]
-- Later: 2026-08-21 · Replit · [[Changes/Replit/2026-08-21-agent|Agent]]
+- Later: 2026-08-21 · Recraft · [[Changes/Recraft/2026-08-21-chat-the-agentic-mode|Chat, the agentic mode]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

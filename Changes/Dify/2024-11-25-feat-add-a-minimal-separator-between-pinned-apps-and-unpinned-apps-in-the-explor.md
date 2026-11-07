@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9792b9d0a5aa93fa7174d22023caeabcaaea2dac2032f84d4ced44adbf80e258
+machine_hash: 8638c0e907897a21049b6b8af7d17414e8540d45e69ffbbfe1afaa31f4dc02ea
 product: dify
 product_name: Dify
 record:
@@ -43,12 +43,12 @@ record:
     explore page'
   type: change
 related_changes:
-- '[[Changes/Dify/2024-11-11-gitlab-tools-integration-amp-up-your-devops-with-the-integration-of-gitlab-tools|GitLab
-  Tools Integration]]'
 - '[[Changes/Descript/2024-11-19-you-can-add-status-page-updates-to-your-slack-workspace-using-the-the-subscribe|You
   can add status page updates to your Slack workspace using the the Subscribe to Updates]]'
 - "[[Changes/Open WebUI/2024-11-19-functions-moved-to-admin-panel-as-functions-operate-as-advanced-plugins-they-are|\U0001F6E0️
   Functions Moved to Admin Panel]]"
+- '[[Changes/Devin/2024-11-22-bring-devin-into-conversations-just-as-you-would-with-human-teammates|Bring
+  Devin into conversations just as you would with human teammates]]'
 source_release: '[[Releases/Dify/dify-2024-11-25-0-12-0-github-187239779-b9caba2f|dify-2024-11-25-0-12-0-github-187239779-b9caba2f]]'
 source_type: github_releases
 theme: apps-integrations
@@ -88,8 +88,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2024-11-19 · Open WebUI · [[Changes/Open WebUI/2024-11-19-functions-moved-to-admin-panel-as-functions-operate-as-advanced-plugins-they-are|🛠️ Functions Moved to Admin Panel]]
-- Later: 2024-12-02 · Gemini · [[Changes/Gemini/2024-12-02-expanding-workspace-extensions-to-more-languages-keep-and-tasks|Expanding Workspace extensions to more languages: Keep and Tasks]]
+- Earlier: 2024-11-22 · Devin · [[Changes/Devin/2024-11-22-bring-devin-into-conversations-just-as-you-would-with-human-teammates|Bring Devin into conversations just as you would with human teammates]]
+- Later: 2024-11-26 · AnythingLLM · [[Changes/AnythingLLM/2024-11-26-5-apps-and-integrations-changes-in-v1-3-0|5 Apps and Integrations changes in v1.3.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

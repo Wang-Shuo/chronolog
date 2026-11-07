@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 88a003243714442fa4f6565dd7c27086018205e9936188af71c60fe226f29dce
+machine_hash: 2b7387ff1fb08d3d7abaaf5eaef8ee3d0a50f8c61aecdcfe7bf462eb52add7f0
 product: suno
 product_name: Suno
 record:
@@ -44,7 +44,8 @@ record:
     creations
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-03-23-speech-to-text|Speech to Text]]'
+- '[[Changes/Raycast/2026-03-23-quick-look-gives-you-a-fast-inline-preview-of-images-pdfs-videos-audio-text-file|Quick
+  Look gives you a fast, inline preview of images, PDFs, videos, audio, text…]]'
 - '[[Changes/Claude Code/2026-03-26-slash-commands-unavailable-for-the-current-auth-setup-voice-mobile-chrome-upgrad|Slash
   commands unavailable for the current auth setup…]]'
 - '[[Changes/Codex CLI/2026-03-26-15579-increase-voice-space-hold-timeout-to-1s-aibrahim-oai|♯15579
@@ -80,7 +81,7 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2026-03-26 · Codex CLI · [[Changes/Codex CLI/2026-03-26-15579-increase-voice-space-hold-timeout-to-1s-aibrahim-oai|♯15579 Increase voice space hold timeout to 1s @aibrahim-oai]]
-- Later: 2026-03-31 · Codex CLI · [[Changes/Codex CLI/2026-03-31-16114-remove-tui-voice-transcription-feature-etraut-openai|♯16114 Remove TUI voice transcription feature @etraut-openai]]
+- Later: 2026-03-26 · Superwhisper · [[Changes/Superwhisper/2026-03-26-2-voice-and-audio-changes-in-superwhisper-windows-1-3-4|2 Voice and Audio changes in Superwhisper Windows 1.3.4]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

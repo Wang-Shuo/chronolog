@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3fecad3176e72a7b1f36bbecc68b5663133ca90770feba0613886183a8277c51
+machine_hash: ab0f1f1f09b2916d9b1803bc1fcd66144b8d3297ae646517bf3101c099a8d643
 product: cline
 product_name: Cline
 record:
@@ -42,10 +42,10 @@ record:
   title: Onboarding flow now uses dynamically fetched recommended models instead…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-20-ctrl-t-to-toggle-reasoning-display-is-now-listed-in-the-help-and-overlay|ctrl+t
-  to toggle reasoning display is now listed in the /help and ? overlay]]'
 - '[[Changes/Open WebUI/2026-04-21-28-model-support-changes-in-v0-9-0|28 Model Support
   changes in v0.9.0]]'
+- '[[Changes/AnythingLLM/2026-04-22-x-new-customization-chat-setting-for-unload-model-when-closed-to-unload-the-mode|x
+  New Customization  Chat setting for Unload model when closed to unload…]]'
 - '[[Changes/Claude Code/2026-04-22-2-model-support-changes-in-v2-1-117|2 Model Support
   changes in v2.1.117]]'
 source_release: '[[Releases/Cline/cline-2026-04-22-v3-80-0-github-312385304-eee3574e|cline-2026-04-22-v3-80-0-github-312385304-eee3574e]]'

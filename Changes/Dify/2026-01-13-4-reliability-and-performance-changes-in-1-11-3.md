@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 65b80abba950c16a30fc95807a1f325d075d308f2a556553dd04f62e4d6d5815
+machine_hash: 5529ea33dc83faf5f34a7471bd78fde27762eed3171394842fc5eb25cb3c7ba4
 product: dify
 product_name: Dify
 record:
@@ -52,12 +52,12 @@ record:
   title: 4 Reliability and Performance changes in 1.11.3
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-01-10-for-older-models-ollama-will-avoid-an-integer-underflow-on-low-vram-systems-duri|For
-  older models, Ollama will avoid an integer underflow on low VRAM systems during…]]'
 - "[[Changes/Open WebUI/2026-01-10-the-evaluations-page-now-loads-faster-by-eliminating-duplicate-api-calls-to-the|\U0001F4CA
   The Evaluations page now loads faster by eliminating duplicate API calls…]]"
 - '[[Changes/OpenCode/2026-01-10-terminal-fix-instance-disposal-to-prevent-memory-leaks-and-dangling-references|Terminal
   Fix instance disposal to prevent memory leaks and dangling references]]'
+- '[[Changes/Raycast/2026-01-12-ai-improved-streaming-performance|AI: Improved streaming
+  performance]]'
 source_release: '[[Releases/Dify/dify-2026-01-13-1-11-3-github-276298566-1fe35168|dify-2026-01-13-1-11-3-github-276298566-1fe35168]]'
 source_type: github_releases
 theme: reliability-performance
@@ -103,7 +103,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.11.3
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-01-10 · OpenCode · [[Changes/OpenCode/2026-01-10-terminal-fix-instance-disposal-to-prevent-memory-leaks-and-dangling-references|Terminal Fix instance disposal to prevent memory leaks and dangling references]]
+- Earlier: 2026-01-12 · Raycast · [[Changes/Raycast/2026-01-12-ai-improved-streaming-performance|AI: Improved streaming performance]]
 - Later: 2026-01-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-13-sessions-with-large-conversation-history-load-faster-on-startup|Sessions with large conversation history load faster on startup]]
 <!-- chronolog:end -->
 

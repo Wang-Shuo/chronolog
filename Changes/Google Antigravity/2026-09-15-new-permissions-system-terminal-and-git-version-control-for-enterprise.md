@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 811bcb1bc0404dd01fc989700f23d44f0eafdba69ed890bf2611a44783034389
+machine_hash: d91d13bc54dd5936818c579663084ef8256ca52e4225e5fd25dd8eafbc478519
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -49,10 +49,10 @@ record:
   title: New Permissions System & Terminal and Git version control for Enterprise
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-09-11-you-can-now-answer-your-claw-s-questions-and-enter-secrets-from-the-terminal-wit|Answer
-  your Claw’s questions and enter secrets from the terminal, with clearer…]]'
 - '[[Changes/Qoder/2026-09-12-file-review-reduced-cpu-usage-when-multiple-code-diffs-are-expanded-alongside-an|File
   review: Reduced CPU usage when multiple code diffs are expanded alongside…]]'
+- '[[Changes/Raycast/2026-09-14-system-new-toggle-airplane-mode-command-to-switch-airplane-mode-on-and-off-strai|System
+  : New Toggle Airplane Mode command to switch airplane mode on and off…]]'
 - '[[Changes/Claude Code/2026-09-15-3-developer-workflow-changes-in-v2-1-273|3 Developer
   Workflow changes in v2.1.273]]'
 source_release: '[[Releases/Google Antigravity/google-antigravity-2026-09-15-rel-hub-2-14-0-a79096fb|google-antigravity-2026-09-15-rel-hub-2-14-0-a79096fb]]'

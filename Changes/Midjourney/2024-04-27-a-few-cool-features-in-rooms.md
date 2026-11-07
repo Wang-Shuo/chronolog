@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 6adebe7f2b17f7e1713eba5f52c5f34ef8f01550c60ac72e02342e54f147c2cd
+machine_hash: 61f4241025daa2f9de7b0b438f57dda7be048a93406b9ab5c4158c1413f1414c
 product: midjourney
 product_name: Midjourney
 record:
@@ -51,7 +51,8 @@ record:
   title: A few cool features in rooms
   type: change
 related_changes:
-- '[[Changes/Descript/2024-03-04-white-glove-sunset-update|White Glove Sunset Update]]'
+- '[[Changes/Superwhisper/2024-03-31-add-ultra-cloud-model-to-voice-models|Add Ultra
+  Cloud model to Voice models]]'
 - '[[Changes/Runway/2024-04-16-use-lip-sync-audio-to-video-directly-from-within-the-gen-2-tool|Lip
   Sync in Gen-2]]'
 - '[[Changes/Dify/2024-04-25-2-voice-and-audio-changes-in-0-6-5|2 Voice and Audio
@@ -94,7 +95,7 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2024-04-25 · Dify · [[Changes/Dify/2024-04-25-2-voice-and-audio-changes-in-0-6-5|2 Voice and Audio changes in 0.6.5]]
-- Later: 2024-05-07 · Synthesia · [[Changes/Synthesia/2024-05-07-clone-your-voice-in-english-and-use-it-in-29-other-languages-the-recording-takes|Voice Cloning: your voice in 29 languages]]
+- Later: 2024-04-30 · Superwhisper · [[Changes/Superwhisper/2024-04-30-add-mute-while-recording-options-in-audio-settings|Add "Mute while recording" options in audio settings]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

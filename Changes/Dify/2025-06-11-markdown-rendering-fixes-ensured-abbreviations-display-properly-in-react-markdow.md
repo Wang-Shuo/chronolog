@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1873760813abbd8762775000a8a9b985860d6f5588227a64faa3a38a125a6203
+machine_hash: 12dd4909193c5f9fb83f9cfa2abd5cc5a5952162682db911a79b5856e924dd27
 product: dify
 product_name: Dify
 record:
@@ -44,7 +44,8 @@ record:
   title: '**Markdown Rendering Fixes**'
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-06-04-new-settings-and-dashboard|New Settings and Dashboard]]'
+- '[[Changes/AnythingLLM/2025-06-10-5-interface-experience-changes-in-v1-8-2|5 Interface
+  Experience changes in v1.8.2]]'
 - "[[Changes/Open WebUI/2025-06-10-tooltip-translation-clarity-improved-translation-and-tooltip-clarity-especially|\U0001F6E0️
   Tooltip & Translation Clarity]]"
 - '[[Changes/Windsurf/2025-06-10-new-menu-to-open-previous-conversations-to-quickly-switch-conversations|New
@@ -88,7 +89,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2025-06-10 · Windsurf · [[Changes/Windsurf/2025-06-10-new-menu-to-open-previous-conversations-to-quickly-switch-conversations|New menu to open previous conversations to quickly switch conversations]]
-- Later: 2025-06-16 · Dify · [[Changes/Dify/2025-06-16-conversation-panel-optimization-we-ve-fine-tuned-the-width-adjustment-logic-for|Conversation Panel Optimization]]
+- Later: 2025-06-11 · Raycast · [[Changes/Raycast/2025-06-11-apps-can-also-be-minimised-with-the-hotkey|Apps can also be minimised with the hotkey]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: policy
-machine_hash: 712a4f1451a910d63a956f861ac1d97a622ba71b0765b3ae3d34e9d8c4609615
+machine_hash: 7c8048b7e8c23e88f2c96dd89b7878e8a05246985b538bf625651e02ad5b43c5
 product: cursor
 product_name: Cursor
 record:
@@ -45,12 +45,12 @@ record:
     you now can'
   type: change
 related_changes:
-- '[[Changes/Aider/2023-06-26-enables-display-of-cost-info-based-on-openai-advertised-pricing-5f5b32|Enables
-  display of cost info based on OpenAI advertised pricing]]'
 - '[[Changes/Descript/2023-08-15-squadcast-is-now-part-of-descript-which-means-if-you-re-a-descript-subscriber-yo|Remote
   Recording now in Descript]]'
 - '[[Changes/Dify/2023-08-23-feat-record-price-unit-in-messages-by-takatost-in-https-github-com-langgenius-di|feat:
   record price unit in messages]]'
+- '[[Changes/Raycast/2023-09-06-pro-plan-added-hints-for-subscription-related-problems|Pro
+  Plan: Added hints for subscription-related problems]]'
 source_release: '[[Releases/Cursor/cursor-2023-11-03-0-14-0-https-cursor-com-changelog-0-14-0-45a47acf|cursor-2023-11-03-0-14-0-https-cursor-com-changelog-0-14-0-45a47acf]]'
 source_type: cursor_changelog
 theme: pricing-model
@@ -83,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2023-08-23 · Dify · [[Changes/Dify/2023-08-23-feat-record-price-unit-in-messages-by-takatost-in-https-github-com-langgenius-di|feat: record price unit in messages]]
+- Earlier: 2023-09-06 · Raycast · [[Changes/Raycast/2023-09-06-pro-plan-added-hints-for-subscription-related-problems|Pro Plan: Added hints for subscription-related problems]]
 - Later: 2023-12-08 · Dify · [[Changes/Dify/2023-12-08-3-pricing-model-changes-in-0-3-33|3 Pricing Model changes in 0.3.33]]
 <!-- chronolog:end -->
 

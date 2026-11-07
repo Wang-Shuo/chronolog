@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9f0d0b74c022b155d18ae277717a85c4176e821ebaa3a6c5418e28812808f56c
+machine_hash: 14bdfdd336fe5307682daf3455c00cdec7216cc41c3af0cc52598e546dcc7169
 product: open-webui
 product_name: Open WebUI
 record:
@@ -55,10 +55,9 @@ record:
     across…"
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-10-14-2-reliability-and-performance-changes-in-v0-12-1|2
-  Reliability and Performance changes in v0.12.1]]'
 - '[[Changes/ChatGPT/2026-10-16-faster-responses|Faster responses]]'
 - '[[Changes/Cursor/2026-10-16-larger-faster-environments|Larger, faster environments]]'
+- '[[Changes/Krea/2026-10-16-faster-krea-agent|Faster Krea Agent]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-10-16-v0-12-3-github-414903453-58a8a82d|open-webui-2026-10-16-v0-12-3-github-414903453-58a8a82d]]'
 source_type: github_releases
 theme: reliability-performance
@@ -100,7 +99,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-10-16 · Cursor · [[Changes/Cursor/2026-10-16-larger-faster-environments|Larger, faster environments]]
+- Earlier: 2026-10-16 · Krea · [[Changes/Krea/2026-10-16-faster-krea-agent|Faster Krea Agent]]
 - Later: 2026-10-16 · OpenClaw · [[Changes/OpenClaw/2026-10-16-node-worker-memory-limits-node-workers-can-honor-their-configured-javascript-hea|Node worker memory limits]]
 <!-- chronolog:end -->
 

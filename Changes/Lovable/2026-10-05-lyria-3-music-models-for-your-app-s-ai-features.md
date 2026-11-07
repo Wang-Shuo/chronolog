@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 25b57b5989c0875a672602c1d0f82ef650a986760618c6241539fb1a9ad47ae8
+machine_hash: c6c67a95224499051501c41ffc0eba96091cd8e58da0739dcf6b2c0f8e6675d3
 product: lovable
 product_name: Lovable
 record:
@@ -92,7 +92,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-10-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-05-2-model-support-changes-in-v1-0-92|2 Model Support changes in v1.0.92]]
-- Later: 2026-10-06 · Claude Code · [[Changes/Claude Code/2026-10-06-added-prompt-caching-to-model-complete-for-mods-prompt-and-system-take-blocks-of|Added prompt caching to $.model.complete for mods]]
+- Later: 2026-10-05 · Raycast · [[Changes/Raycast/2026-10-05-auto-model|Auto Model]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

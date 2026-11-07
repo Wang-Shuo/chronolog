@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 437e9d57a049c46ab0ee41989d77137a5112e5718397f53a37a539bea596271e
+machine_hash: e777ca6be2b0e05d1685c2f2ef7d6b4f8ba4aee44a1a932ef4328216cec0485b
 product: midjourney
 product_name: Midjourney
 record:
@@ -52,8 +52,8 @@ record:
   title: Improved lightbox editor interface
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-04-23-introduced-a-new-changes-tab-to-show-modifications-made-by-openhands-by-amanape|Introduced
-  a new Changes tab to show modifications made by OpenHands]]'
+- '[[Changes/LM Studio/2025-04-24-3-editor-experience-changes-in-lm-studio-0-3-15|3
+  Editor Experience changes in LM Studio 0.3.15]]'
 - '[[Changes/Windsurf/2025-04-25-updates-ide-marketplace-link-by-mirroring-open-vsx|Updates
   IDE marketplace link by mirroring Open VSX]]'
 - '[[Changes/OpenHands/2025-04-29-replaced-the-workspace-tab-with-a-vs-code-tab-by-rbren-in-https-github-com-all-h|Replaced

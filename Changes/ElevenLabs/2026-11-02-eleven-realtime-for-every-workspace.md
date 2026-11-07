@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 63bb531c711f89cc9ee46c2d03e6b5f7b2e374e21537f39b4efad7dd35659a8e
+machine_hash: 2d3cdb8a5c333a3a310cf50d8a05cbeee086f1e945fd3a62b62f31d4446817aa
 product: elevenlabs
 product_name: ElevenLabs
 record:

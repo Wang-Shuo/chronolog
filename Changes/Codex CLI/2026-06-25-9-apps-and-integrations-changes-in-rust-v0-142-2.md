@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 520cac96590a285c0c472834e5a104262a3159f6acb106669324cf4c42faf566
+machine_hash: d46721ad9b5931911191a2d1a364e9e1ab460d3545d900444d820bc00230300e
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -60,10 +60,9 @@ record:
   title: 9 Apps and Integrations changes in rust-v0.142.2
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-06-24-added-mcp-server-instructions-to-session-context|Added
-  MCP server instructions to session context]]'
-- '[[Changes/OpenCode/2026-06-24-9-apps-and-integrations-changes-in-v1-17-10|9 Apps
-  and Integrations changes in v1.17.10]]'
+- '[[Changes/Raycast/2026-06-24-mcp-add-support-for-cimd|MCP : Add support for CIMD]]'
+- '[[Changes/Raycast/2026-06-24-mcp-add-support-for-cimd-c00169|MCP : Add support
+  for CIMD]]'
 - '[[Changes/Claude Code/2026-06-25-2-apps-and-integrations-changes-in-v2-1-193|2
   Apps and Integrations changes in v2.1.193]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-06-25-rust-v0-142-2-github-344540546-8fdabe3c|codex-cli-2026-06-25-rust-v0-142-2-github-344540546-8fdabe3c]]'

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7e5c96f328d21306f3d30c799e7afed6353b4a50f5aebf65b35fde306a5fad4d
+machine_hash: 8c59c84ab31489c4651e3ecf9ce33dc9b0e343f64500c78818715ff7a607d0e6
 product: openclaw
 product_name: OpenClaw
 record:
@@ -60,10 +60,10 @@ record:
   title: 3 Interface Experience changes in v2026.8.2
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-01-2-interface-experience-changes-in-v2-1-257|2 Interface
-  Experience changes in v2.1.257]]'
 - '[[Changes/Codex CLI/2026-09-01-3-interface-experience-changes-in-rust-v0-152-0|3
   Interface Experience changes in rust-v0.152.0]]'
+- '[[Changes/Krea/2026-09-01-open-docs-pages-in-chatgpt-claude-or-perplexity|Open
+  docs pages in ChatGPT, Claude, or Perplexity]]'
 - '[[Changes/Lovable/2026-09-01-empty-project-groups-no-longer-show-in-the-sidebar|Empty
   project groups no longer show in the sidebar]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-09-01-v2026-8-2-cca64187|openclaw-2026-09-01-v2026-8-2-cca64187]]'
@@ -116,7 +116,7 @@ Source: https://docs.openclaw.ai/releases/2026.8.2
 ## Nearby in Interface Experience
 
 - Earlier: 2026-09-01 · Lovable · [[Changes/Lovable/2026-09-01-empty-project-groups-no-longer-show-in-the-sidebar|Empty project groups no longer show in the sidebar]]
-- Later: 2026-09-01 · v0 · [[Changes/v0/2026-09-01-if-you-prefer-the-typical-git-workflow-you-can-still-create-and-merge-pull-reque|If you prefer the typical Git workflow, you can still create and merge pull requests…]]
+- Later: 2026-09-01 · Raycast · [[Changes/Raycast/2026-09-01-3-interface-experience-changes-in-raycast-windows-2-1|3 Interface Experience changes in Raycast windows 2.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

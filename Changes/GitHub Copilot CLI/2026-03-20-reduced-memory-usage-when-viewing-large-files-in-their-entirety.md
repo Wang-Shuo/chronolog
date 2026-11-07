@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ec6908a52534ce1139a16c4989374af588062d510d31891830bf50206ac7ab5a
+machine_hash: 5775d04a6814725c17745c070b35b1977198ebd55d20c75fb8f8903b1122317d
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,8 +43,8 @@ record:
   title: Reduced memory usage when viewing large files in their entirety
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-03-19-composer-2-is-now-available-in-cursor-frontier-level-coding-performance-with-str|Composer
-  2 is now available in Cursor]]'
+- '[[Changes/Devin/2026-03-19-various-bug-fixes-and-performance-improvements-across-the-platform|Various
+  bug fixes and performance improvements across the platform]]'
 - '[[Changes/Windsurf/2026-03-19-various-bug-fixes-and-performance-improvements|Various
   bug fixes and performance improvements]]'
 - '[[Changes/Cline/2026-03-20-latency-improvements-for-remote-workspaces|Latency improvements

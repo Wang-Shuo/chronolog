@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: caba080644ee8737d762f0da00f5990984a9dce94f6c357ea10f1fc877da7390
+machine_hash: 4a9d2f072d3381c9bb95c0b84a649896e1668e7ff15341b8dc96b5ed65b074fb
 product: notion
 product_name: Notion
 record:
@@ -91,7 +91,7 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2026-08-19 · Lovable · [[Changes/Lovable/2026-08-19-design-systems-on-all-paid-plans|Design systems on all paid plans]]
-- Later: 2026-08-20 · Codex CLI · [[Changes/Codex CLI/2026-08-20-9-context-window-changes-in-rust-v0-149-0|9 Context Window changes in rust-v0.149.0]]
+- Later: 2026-08-19 · Raycast · [[Changes/Raycast/2026-08-19-3-context-window-changes-in-raycast-macos-0-71|3 Context Window changes in Raycast macos 0.71]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

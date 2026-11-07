@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: ecce6b53dc58914cf30dc9ea6bb0d675286073dc2ab3b55367d071302f2a7471
+machine_hash: 4bf1bb7464c28cf4f2a8588ceaf760afd8ae2038bda48793a88e01d06bc2b09e
 product: descript
 product_name: Descript
 record:
@@ -45,12 +45,10 @@ record:
   title: Quick Editor
   type: change
 related_changes:
-- '[[Changes/Descript/2021-02-18-descript-automatically-optimizes-the-edit-boundaries-in-your-composition-after-r|Optimized
-  Edit Boundaries with Filler Word Removal]]'
-- '[[Changes/Descript/2021-02-18-we-ve-combined-the-correct-text-and-edit-media-modes-into-a-single-editing-exper|Correct
-  Text and Edit Media modes have been combined]]'
-- '[[Changes/Descript/2021-02-18-along-with-our-editor-workflow-changes-and-various-other-keyboard-shortcuts-desc|Spacebar
-  now toggles playback / pause]]'
+- '[[Changes/Raycast/2021-03-08-new-extensions-preferences|New Extensions Preferences]]'
+- '[[Changes/Raycast/2021-04-06-adjustable-font-sizes|Adjustable Font Sizes]]'
+- '[[Changes/Raycast/2021-04-13-preferences-preview-preferences-tab-was-renamed-to-advanced|Preferences:
+  "Preview" preferences tab was renamed to "Advanced"]]'
 source_release: '[[Releases/Descript/descript-2021-05-11-6390c9994a4a0d64fa5640cc-946cc97e|descript-2021-05-11-6390c9994a4a0d64fa5640cc-946cc97e]]'
 source_type: canny_changelog
 theme: editor-experience
@@ -77,7 +75,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2021-02-18 · Descript · [[Changes/Descript/2021-02-18-along-with-our-editor-workflow-changes-and-various-other-keyboard-shortcuts-desc|Spacebar now toggles playback / pause]]
+- Earlier: 2021-04-13 · Raycast · [[Changes/Raycast/2021-04-13-preferences-preview-preferences-tab-was-renamed-to-advanced|Preferences: "Preview" preferences tab was renamed to "Advanced"]]
 - Later: 2021-05-12 · Descript · [[Changes/Descript/2021-05-12-you-can-now-edit-properties-of-multiple-clips-e-g-scale-position-volume-at-the-s|Batch clip editing]]
 <!-- chronolog:end -->
 

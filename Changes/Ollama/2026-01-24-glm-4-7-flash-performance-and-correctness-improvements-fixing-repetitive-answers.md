@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 05f0e5101ff83f55d80e27fe38f598dd4450f542b8fe387eb64679cb7bf93bad
+machine_hash: 7f8383c484cbbb30e3aba893e1115738a4d6f855596af6e449906096228494fd
 product: ollama
 product_name: Ollama
 record:
@@ -43,8 +43,8 @@ record:
     answers…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-01-22-4-reliability-and-performance-changes-in-2-4|4 Reliability
-  and Performance changes in 2.4]]'
+- '[[Changes/Devin/2026-01-22-various-bug-fixes-and-performance-improvements-across-the-platform|Various
+  bug fixes and performance improvements across the platform]]'
 - '[[Changes/Windsurf/2026-01-23-improved-overall-stability-and-reliability|Improved
   overall stability and reliability]]'
 - '[[Changes/Google Antigravity/2026-01-24-performance-improvements|Performance Improvements]]'

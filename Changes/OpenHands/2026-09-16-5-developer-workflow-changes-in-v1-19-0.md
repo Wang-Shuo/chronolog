@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 45d4adce4387378d9417f744e9139d9ae858d93a814c9e599c99691606920d15
+machine_hash: bedd9c7d7e4685acf529dddd33dc917cd6615e561c959cb1d5e5de41df89f565
 product: openhands
 product_name: OpenHands
 record:
@@ -48,10 +48,10 @@ record:
   title: 5 Developer Workflow changes in v1.19.0
   type: change
 related_changes:
-- '[[Changes/Google Antigravity/2026-09-15-the-command-palette-now-opens-over-a-dimmed-backdrop-with-enter-and-exit-animati|The
-  command palette now opens over a dimmed backdrop with enter and exit animations…]]'
 - '[[Changes/Kimi Code/2026-09-15-add-native-clipboard-support-on-linux-x11-so-copying-from-the-tui-no-longer-depe|Add
   native clipboard support on Linux X11, so copying from the TUI no longer depends…]]'
+- '[[Changes/Devin/2026-09-16-blueprint-source-in-the-v3-api|Blueprint Source in the
+  v3 API]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-16-6-developer-workflow-changes-in-v1-0-85|6
   Developer Workflow changes in v1.0.85]]'
 source_release: '[[Releases/OpenHands/openhands-2026-09-16-v1-19-0-github-390206611-a05af427|openhands-2026-09-16-v1-19-0-github-390206611-a05af427]]'

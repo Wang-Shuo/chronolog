@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 417507c74f64814655105043afd66caabede983c6e7a52d7663b0182ddb0d7ea
+machine_hash: 3879dfb5122fa50a89e5f296102a1f1e73a0d15881397165f62153d68104c388
 product: notion
 product_name: Notion
 record:
@@ -50,9 +50,10 @@ record:
   title: Suggests how it can help
   type: change
 related_changes:
-- '[[Changes/Notion/2024-08-13-create-a-chart-in-seconds|Create a chart in seconds]]'
 - '[[Changes/Cursor/2024-08-22-composer-is-now-default-on-and-available-to-all-pro-business-users-by-hitting-cm|Composer
   is now default-on and available to all Pro/Business users by hitting cmd+I]]'
+- '[[Changes/Devin/2024-09-03-let-devin-create-devins-with-multidevin|Let Devin create
+  Devins with MultiDevin]]'
 - '[[Changes/Gamma/2024-09-10-we-added-a-new-way-to-share-your-gamma-creations-you-can-now-download-any-of-you|We
   added a new way to share your Gamma creations]]'
 source_release: '[[Releases/Notion/notion-2024-09-25-https-www-notion-com-releases-2024-09-25-0d476962|notion-2024-09-25-https-www-notion-com-releases-2024-09-25-0d476962]]'
@@ -88,7 +89,7 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2024-09-10 · Gamma · [[Changes/Gamma/2024-09-10-we-added-a-new-way-to-share-your-gamma-creations-you-can-now-download-any-of-you|We added a new way to share your Gamma creations]]
-- Later: 2024-09-30 · Dify · [[Changes/Dify/2024-09-30-with-this-release-we-re-truly-showcasing-the-power-of-dify-we-appreciate-your-co|With this release, we’re truly showcasing the power of Dify!]]
+- Later: 2024-09-26 · Devin · [[Changes/Devin/2024-09-26-introducing-devin-for-teams|Introducing Devin for Teams]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

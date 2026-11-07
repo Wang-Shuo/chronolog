@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ec1e208015097b701efb607609c5b649e24fd98ffdd6cdfe5fe177a74f075f4d
+machine_hash: c075444f9da09abc3664c833f98ee3af3e3a7a39957cbc628df9e36bf21e0dcc
 product: open-webui
 product_name: Open WebUI
 record:
@@ -44,8 +44,8 @@ record:
   title: "**\U0001F527 Enhanced AUTOMATIC1111 Settings**"
   type: change
 related_changes:
-- '[[Changes/Dify/2024-08-14-docs-remove-all-meeting-schedule-links-by-guchenhe-in-https-github-com-langgeniu|Docs/remove
-  all meeting schedule links]]'
+- '[[Changes/Raycast/2024-08-14-my-schedule-updated-the-logo-for-webex|My Schedule
+  : updated the logo for Webex]]'
 - '[[Changes/Gemini/2024-08-28-gemini-advanced-and-gemini-for-google-workspace-add-on-priority-access-introduci|Gemini
   Advanced and Gemini for Google Workspace add-on priority access]]'
 - '[[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better

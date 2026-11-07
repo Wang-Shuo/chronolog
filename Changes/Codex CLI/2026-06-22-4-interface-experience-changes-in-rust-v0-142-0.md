@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6a9b14bcf4875bb6695f935130639e50d1f01b67d7294fa33d4b7a7876fa0588
+machine_hash: baa01f828d3845fdc0734a15914f30b7e5097a8f850e798a206c10665d6b8b72
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -48,10 +48,9 @@ record:
   title: 4 Interface Experience changes in rust-v0.142.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-19-added-config-help-to-list-all-available-shorthand-keys-for-config-key-value|Added
-  /config --help to list all available shorthand keys for /config key=value]]'
-- '[[Changes/Claude Code/2026-06-19-changed-config-toggle-behavior-enter-and-space-both-change-the-selected-setting|Changed
-  /config toggle behavior]]'
+- '[[Changes/Devin/2026-06-19-public-repos-shown-as-disabled-in-repo-picker|Public
+  Repos Shown as Disabled in Repo Picker]]'
+- '[[Changes/Devin/2026-06-19-devin-review-for-gitlab|Devin Review for GitLab]]'
 - '[[Changes/v0/2026-06-19-view-only-members-can-download-a-chat-s-code-as-a-zip-from-the-project-menu|View-only
   members can download a chat''s code as a ZIP from the project menu]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-06-22-rust-v0-142-0-github-343189954-a218ab4e|codex-cli-2026-06-22-rust-v0-142-0-github-343189954-a218ab4e]]'

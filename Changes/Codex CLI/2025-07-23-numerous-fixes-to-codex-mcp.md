@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: aeead72ebbba376dae01e720a107580dc807ebc9f1a832e2b423c40cf5f14823
+machine_hash: 4f1b36abeebeec813a7605fcd2b16557024477963d10a1f0c813765e5a8e6b8f
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -40,10 +40,10 @@ record:
   title: Numerous fixes to `codex mcp`
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-07-19-https-github-com-openai-codex-pull-1571-fixes-a-longstanding-issue-where-we-fail|(source
-  link) fixes a longstanding issue where we failed…]]'
 - '[[Changes/Gemini CLI/2025-07-19-12-apps-and-integrations-changes-in-v0-1-13|12
   Apps and Integrations changes in v0.1.13]]'
+- '[[Changes/LM Studio/2025-07-19-5-apps-and-integrations-changes-in-lm-studio-0-3-18|5
+  Apps and Integrations changes in LM Studio 0.3.18]]'
 - "[[Changes/Open WebUI/2025-07-19-cleaner-database-credentials-database-connection-no-longer-duplicates-in-credent|\U0001F9F9
   Cleaner Database Credentials]]"
 source_release: '[[Releases/Codex CLI/codex-cli-2025-07-23-rust-v0-9-0-github-234402892-04b1f79c|codex-cli-2025-07-23-rust-v0-9-0-github-234402892-04b1f79c]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: expansion
-machine_hash: 6624ae6b67d29d887b60a808a451a813620c76cf72e1f1ff94723e8c81225310
+machine_hash: dcb3b45ca39cb73f13b03d9152b4325cd80119169d785d9495215bb5a7c2e2c3
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -47,10 +47,9 @@ record:
   title: Gmail, Google Calendar, and Google Contacts Connectors in ChatGPT (Plus)
   type: change
 related_changes:
-- '[[Changes/Lovable/2025-08-11-real-time-analytics-on-your-lovable-apps|Real-time
-  analytics on your Lovable apps]]'
-- '[[Changes/Codex CLI/2025-08-12-https-github-com-openai-codex-pull-1975-add-json-schema-sanitization-for-mcp-too|(source
-  link) add JSON schema sanitization for MCP tools…]]'
+- '[[Changes/Devin/2025-08-12-enhanced-mcp-marketplace|Enhanced MCP Marketplace]]'
+- '[[Changes/Devin/2025-08-12-improved-integration-for-slack|Improved Integration
+  for Slack]]'
 - '[[Changes/Gemini CLI/2025-08-12-10-apps-and-integrations-changes-in-v0-1-19|10
   Apps and Integrations changes in v0.1.19]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-08-13-gmail-google-calendar-and-google-contacts-connectors-in-chatgpt-14e603bd|chatgpt-2025-08-13-gmail-google-calendar-and-google-contacts-connectors-in-chatgpt-14e603bd]]'

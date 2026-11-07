@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 37c808e4678745947d67575ede7847f8ae7cf89c6dfb89b8207d4215d0c0144c
+machine_hash: a9eada8661b27258c17aa325d6873904e37c361dc92326225872bc792a182189
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,10 @@ record:
   title: 2 Developer Workflow changes in v2.1.305
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-10-18-2-developer-workflow-changes-in-v2026-10-5|2 Developer
-  Workflow changes in v2026.10.5]]'
-- '[[Changes/Claude Code/2026-10-19-3-developer-workflow-changes-in-v2-1-304|3 Developer
-  Workflow changes in v2.1.304]]'
+- '[[Changes/Devin/2026-10-19-ci-status-for-commits-branches-and-tags|CI Status for
+  Commits, Branches and Tags]]'
+- '[[Changes/Devin/2026-10-19-clearer-notice-for-unreviewed-changes|Clearer Notice
+  for Unreviewed Changes]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-19-2-developer-workflow-changes-in-v1-0-100|2
   Developer Workflow changes in v1.0.100]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-20-v2-1-305-github-418781864-90995baa|claude-code-2026-10-20-v2-1-305-github-418781864-90995baa]]'

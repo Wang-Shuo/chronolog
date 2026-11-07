@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: music-generation
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 68905722e078683f5dd86f3f1eace6a14fda9d0e87afd3483eeec494c55a4491
+machine_hash: 1d28d3beb46b2920de7c20b050e0af5fcf31667eaf3cfe3dd4bf3dbcc4d94ca7
 product: suno
 product_name: Suno
 record:
@@ -87,7 +87,7 @@ type: change
 ## Nearby in Music Generation
 
 - Earlier: 2025-05-01 · Suno · [[Changes/Suno/2025-05-01-greater-variety-and-accuracy-in-genres-more-music-styles-with-better-genre-quali|Greater variety and accuracy in genres — More music styles with better genre quality]]
-- Later: 2025-09-22 · Suno · [[Changes/Suno/2025-09-22-introducing-hooks-a-new-way-to-bring-your-suno-songs-to-life-through-short-form|Introducing Hooks!]]
+- Later: 2025-08-20 · Superwhisper · [[Changes/Superwhisper/2025-08-20-media-pause-super-mode-improvements|Media Pause & Super Mode Improvements]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

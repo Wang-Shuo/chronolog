@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 263980779b675700ee81f778a10a89a3183fecb9988cb66e85e4d6bff33b5778
+machine_hash: f2abca711664877f4b049997d7861f5bb12b9a2a925e4541b9eff6f13407bee3
 product: openhands
 product_name: OpenHands
 record:
@@ -79,7 +79,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2025-06-05 · Cline · [[Changes/Cline/2025-06-05-add-setting-to-disable-aggressive-terminal-reuse-to-help-users-experiencing-task|Add setting to disable aggressive terminal reuse to help users experiencing task…]]
-- Later: 2025-06-10 · Windsurf · [[Changes/Windsurf/2025-06-10-theme-aware-codeblocks-with-refreshed-design|Theme-aware codeblocks with refreshed design]]
+- Later: 2025-06-10 · AnythingLLM · [[Changes/AnythingLLM/2025-06-10-warn-bad-docker-command-by-timothycarambat-in-https-github-com-mintplex-labs-any|Warn bad docker command]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

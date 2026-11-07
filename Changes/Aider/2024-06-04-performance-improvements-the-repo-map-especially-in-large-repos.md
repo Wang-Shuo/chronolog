@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e1c5b86276eab02927a9c925d3b70c5a60461056c80c85cd4f4d39d5c36e3fa4
+machine_hash: 2e2dfd0e28f33451a4efcbc6abc2bfac1493317d4b9a72b1da8c5cc58c572d66
 product: aider
 product_name: Aider
 record:
@@ -41,8 +41,8 @@ record:
   title: Performance improvements the repo map, especially in large repos
   type: change
 related_changes:
-- '[[Changes/Ollama/2024-05-22-new-experimental-ollama-flash-attention-1-flag-for-ollama-serve-that-improves-to|New
-  experimental OLLAMA_FLASH_ATTENTION=1 flag for ollama serve that improves…]]'
+- '[[Changes/Superwhisper/2024-05-22-improved-performance-for-response-rendering-in-recording-window|Improved
+  performance for response rendering in recording window]]'
 - '[[Changes/Dify/2024-05-27-general-fixes-various-bug-fixes-and-improvements-to-enhance-stability-and-perfor|General
   Fixes: Various bug fixes and improvements to enhance stability and performance]]'
 - "[[Changes/Open WebUI/2024-06-03-batch-multiple-embeddings-introduced-rag-embedding-openai-batch-size-to-process|\U0001F9E9

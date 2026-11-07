@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f919cdf915b9a9f58a3f54d2b89aee1ee4701bd26bb3c027148cd35c55cadb0d
+machine_hash: 559ffad3e9eac9c04f4f81ba26c603979f5294581dbf189a739cccd1d4d7b08b
 product: dify
 product_name: Dify
 record:
@@ -51,11 +51,11 @@ record:
   title: '**Skill packages built on Windows failed with a misleading error.** A `SKILL.md`…'
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-09-08-devin-desktop|Devin Desktop]]'
-- '[[Changes/Codex CLI/2026-09-09-6-mobile-and-desktop-changes-in-rust-v0-154-0|6
-  Mobile and Desktop changes in rust-v0.154.0]]'
+- '[[Changes/Devin/2026-09-09-git-bash-on-windows|Git Bash on Windows]]'
 - '[[Changes/Google Antigravity/2026-09-09-quote-or-add-selected-text-to-chat-using-cmd-l-or-cmd-i-on-macos-or-ctrl-l-and-c|Quote
   or add selected text to chat using Cmd+L or Cmd+I on macOS, or Ctrl+L…]]'
+- '[[Changes/Superwhisper/2026-09-09-superwhisper-is-now-available-on-android-tap-the-floating-bubble-to-dictate-into|Superwhisper
+  is now available on Android]]'
 source_release: '[[Releases/Dify/dify-2026-09-10-1-17-1-github-386157159-e472b6fe|dify-2026-09-10-1-17-1-github-386157159-e472b6fe]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -101,7 +101,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-09-09 · Google Antigravity · [[Changes/Google Antigravity/2026-09-09-quote-or-add-selected-text-to-chat-using-cmd-l-or-cmd-i-on-macos-or-ctrl-l-and-c|Quote or add selected text to chat using Cmd+L or Cmd+I on macOS, or Ctrl+L…]]
+- Earlier: 2026-09-09 · Superwhisper · [[Changes/Superwhisper/2026-09-09-superwhisper-is-now-available-on-android-tap-the-floating-bubble-to-dictate-into|Superwhisper is now available on Android]]
 - Later: 2026-09-10 · Windsurf · [[Changes/Windsurf/2026-09-10-introducing-fusion-in-devin-desktop-and-devin-cli-https-exafunction-github-io-pu|!Introducing Fusion in Devin Desktop and Devin…]]
 <!-- chronolog:end -->
 

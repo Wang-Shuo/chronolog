@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0330bffe2de433d24f66719d06e78f72dec9749fb3b87e5bd4d68681e35cd0fd
+machine_hash: 99b47a3dfece4702e6df60ba62708f32c0a7b7e788e708528f42d88acc2dfbfb
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,8 +44,8 @@ record:
   title: 2 Account and Access changes in v1.0.63
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-13-remote-mcp-oauth-servers-start-only-once-per-matching-config-instead-of-restarti|Remote
-  MCP OAuth servers start only once per matching config instead of restarting…]]'
+- '[[Changes/Krea/2026-06-13-oauth-sign-in-for-the-krea-mcp-server|OAuth sign-in for
+  the Krea MCP server]]'
 - '[[Changes/OpenCode/2026-06-13-added-external-browser-oauth-for-the-snowflake-cortex-provider|Added
   external browser OAuth for the Snowflake Cortex provider]]'
 - '[[Changes/Codex CLI/2026-06-15-5-account-and-access-changes-in-rust-v0-140-0|5

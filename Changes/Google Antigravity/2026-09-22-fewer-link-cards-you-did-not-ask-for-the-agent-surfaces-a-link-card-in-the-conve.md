@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: c4d1ed096756640f288ae65110ee6749e0ed7b5ca9e12037d7816fafc4fdf66c
+machine_hash: 8fd9d6673733bf24eceb1fa37f7a578e54c5b155cea9f25531891c30a875d97e
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -60,10 +60,10 @@ record:
   title: Fewer link cards you did not ask for
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-09-19-7-files-and-data-changes-in-v2026-9-5|7 Files and
-  Data changes in v2026.9.5]]'
 - '[[Changes/Open WebUI/2026-09-21-10-files-and-data-changes-in-v0-11-4|10 Files and
   Data changes in v0.11.4]]'
+- '[[Changes/AnythingLLM/2026-09-22-3-files-and-data-changes-in-v1-16-2|3 Files and
+  Data changes in v1.16.2]]'
 - '[[Changes/Codex CLI/2026-09-22-46027-document-and-test-wildcards-in-network-proxy-domain-patterns-viyatb-oai|♯46027
   Document and test ? wildcards in network proxy domain patterns @viyatb-oai]]'
 source_release: '[[Releases/Google Antigravity/google-antigravity-2026-09-22-rel-hub-2-17-0-0461611e|google-antigravity-2026-09-22-rel-hub-2-17-0-0461611e]]'

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 2901737cd612e6b28fb20f842575a4ca368aebbd352751fc85fba8d686794407
+machine_hash: ebb14828be7a113bd90c50e818e648bc994710e440d2e4e2cd918bd086a0bd68
 product: replit
 product_name: Replit
 record:
@@ -87,7 +87,7 @@ type: change
 ## Nearby in Enterprise and Administration
 
 - Earlier: 2026-03-05 · Codex CLI · [[Changes/Codex CLI/2026-03-05-13388-config-enforce-enterprise-feature-requirements-bolinfest|♯13388 config: enforce enterprise feature requirements @bolinfest]]
-- Later: 2026-03-14 · Claude Code · [[Changes/Claude Code/2026-03-14-added-session-quality-survey-enterprise-admins-can-configure-the-sample-rate-via|Added session quality survey]]
+- Later: 2026-03-11 · Devin · [[Changes/Devin/2026-03-11-idp-groups-in-enterprise-settings|IdP Groups in Enterprise Settings]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

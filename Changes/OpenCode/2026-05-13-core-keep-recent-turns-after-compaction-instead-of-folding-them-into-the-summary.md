@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 310e4dd21d08e07ec2b1c2708c6891f72e238711429983f172bc5995c6ce53f2
+machine_hash: eb3dddd12c52516a26b5f463f64d78643af9b98d7c1683f0644b1ae54644654d
 product: opencode
 product_name: OpenCode
 record:
@@ -45,9 +45,9 @@ record:
     summary
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-13-rewind-menu-added-summarize-up-to-here-to-compress-earlier-context-while-keeping|Rewind
-  menu: added "Summarize up to here" to compress earlier context while keeping…]]'
 - '[[Changes/Cursor/2026-05-13-compact-chat-responses|Compact chat responses]]'
+- '[[Changes/Devin/2026-05-13-rename-context-to-skills-rules|Rename Context to Skills
+  & Rules]]'
 - '[[Changes/Notion/2026-05-13-sync-any-data-source-beta|Sync any data source (Beta)]]'
 source_release: '[[Releases/OpenCode/opencode-2026-05-13-v1-14-49-e73e3778|opencode-2026-05-13-v1-14-49-e73e3778]]'
 source_type: opencode_changelog

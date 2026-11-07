@@ -14,12 +14,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 39ed2ae3da9b0a911e4f950cf9fb42712f0038b9e996776c10f3f2dcf2365549
+machine_hash: eaa55ae781dc107dfe4949a705750f46e089ef895d1639f46fe7504d0cd50b82
 product: dify
 product_name: Dify
 record:
@@ -62,8 +62,7 @@ record:
   title: 7 Account and Access changes in 1.8.0
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2025-08-21-3-account-and-access-changes-in-v0-6-23|3 Account
-  and Access changes in v0.6.23]]'
+- '[[Changes/Devin/2025-08-22-figma-mcp-oauth-support|Figma MCP OAuth Support]]'
 - "[[Changes/Open WebUI/2025-08-22-redis-user-session-reliability-fixed-a-problem-affecting-the-saving-of-user-sess|\U0001F6E1️
   Redis User Session Reliability]]"
 - '[[Changes/Codex CLI/2025-08-26-2528-fix-login-for-internal-employees|♯2528 Fix

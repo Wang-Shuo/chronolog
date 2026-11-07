@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6076ebf664d3016ac10959c5750b8bc7bc3477e027140e32f65463ba4e232432
+machine_hash: 075b6231ef6a16cc8945af9c2c8bca31aaa9031868bba855688f41f472941873
 product: cursor
 product_name: Cursor
 record:
@@ -42,10 +42,10 @@ record:
   title: GPT-4o in Interpreter Mode
   type: change
 related_changes:
-- '[[Changes/Aider/2024-05-22-aider-automatically-lints-and-fixes-after-every-llm-edit|Aider
-  automatically lints and fixes after every LLM edit]]'
-- '[[Changes/Ollama/2024-05-22-5-model-support-changes-in-v0-1-39|5 Model Support
-  changes in v0.1.39]]'
+- '[[Changes/Superwhisper/2024-05-22-recordings-longer-than-30-minutes-will-now-work-with-nova-2-model|Recordings
+  longer than 30 minutes will now work with Nova 2 model]]'
+- '[[Changes/Superwhisper/2024-05-22-pro-tier-includes-gpt-4o-and-claude-sonnet|Pro
+  tier includes GPT-4o and Claude Sonnet]]'
 - '[[Changes/Cursor/2024-05-26-gemini-1-5-flash-is-available-in-long-context-mode|Gemini
   1.5 Flash is available in long-context mode]]'
 source_release: '[[Releases/Cursor/cursor-2024-05-26-0-34-x-https-cursor-com-changelog-0-34-x-a468f0bc|cursor-2024-05-26-0-34-x-https-cursor-com-changelog-0-34-x-a468f0bc]]'
@@ -78,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2024-05-22 · Ollama · [[Changes/Ollama/2024-05-22-5-model-support-changes-in-v0-1-39|5 Model Support changes in v0.1.39]]
+- Earlier: 2024-05-22 · Superwhisper · [[Changes/Superwhisper/2024-05-22-pro-tier-includes-gpt-4o-and-claude-sonnet|Pro tier includes GPT-4o and Claude Sonnet]]
 - Later: 2024-05-27 · Dify · [[Changes/Dify/2024-05-27-13-model-support-changes-in-0-6-9|13 Model Support changes in 0.6.9]]
 <!-- chronolog:end -->
 

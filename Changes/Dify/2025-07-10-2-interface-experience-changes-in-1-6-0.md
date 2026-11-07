@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a5e1b46bd281739cc8516314f8e9a839aa6ecbf7b9fc21449a37dfedc159a416
+machine_hash: db11736091c934a977dd8d1db3d016a1fddc52785110e76a376607b3c314b31a
 product: dify
 product_name: Dify
 record:
@@ -43,12 +43,12 @@ record:
   title: 2 Interface Experience changes in 1.6.0
   type: change
 related_changes:
-- '[[Changes/Dify/2025-07-02-2-interface-experience-changes-in-1-5-1|2 Interface Experience
-  changes in 1.5.1]]'
 - '[[Changes/OpenHands/2025-07-02-added-tooltip-for-suggested-tasks-by-hieptl-in-https-github-com-all-hands-ai-ope|Added
   tooltip for suggested tasks]]'
 - '[[Changes/Cursor/2025-07-03-chat-rendering-bugs-resolved-toolcall-display-overflow-issues|Chat
   rendering bugs resolved (toolcall display, overflow issues)]]'
+- '[[Changes/AnythingLLM/2025-07-09-2-interface-experience-changes-in-v1-8-3|2 Interface
+  Experience changes in v1.8.3]]'
 source_release: '[[Releases/Dify/dify-2025-07-10-1-6-0-github-231400193-9181f945|dify-2025-07-10-1-6-0-github-231400193-9181f945]]'
 source_type: github_releases
 theme: interface-experience
@@ -88,7 +88,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.6.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2025-07-03 · Cursor · [[Changes/Cursor/2025-07-03-chat-rendering-bugs-resolved-toolcall-display-overflow-issues|Chat rendering bugs resolved (toolcall display, overflow issues)]]
+- Earlier: 2025-07-09 · AnythingLLM · [[Changes/AnythingLLM/2025-07-09-2-interface-experience-changes-in-v1-8-3|2 Interface Experience changes in v1.8.3]]
 - Later: 2025-07-10 · Notion · [[Changes/Notion/2025-07-10-databases-got-a-makeover|Databases got a makeover]]
 <!-- chronolog:end -->
 

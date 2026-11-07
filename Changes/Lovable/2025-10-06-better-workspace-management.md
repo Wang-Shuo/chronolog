@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: ac4c0b22dadf5035c77916395a681db66d6ba4986e46bd3b24ff75994340a40b
+machine_hash: 8a3650841bf11ac9aa91a9e7eeccaeb6c50902218c780cf9ff2f547fd800289e
 product: lovable
 product_name: Lovable
 record:
@@ -58,10 +58,10 @@ record:
   title: Better workspace management**
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-10-01-significantly-improved-the-security-of-the-openhands-enterprise-docker-image-by|Significantly
-  improved the security of the OpenHands enterprise Docker image…]]'
 - '[[Changes/Codex CLI/2025-10-03-3-safety-and-privacy-changes-in-rust-v0-44-0|3 Safety
   and Privacy changes in rust-v0.44.0]]'
+- '[[Changes/Devin/2025-10-03-enterprise-api-v2-git-permissions-endpoint-now-returns-permission-names-dict-map|Enterprise
+  API v2 git permissions endpoint now returns permission\names dict…]]'
 - '[[Changes/Codex CLI/2025-10-06-codex-login-api-key-was-replaced-with-codex-login-with-api-key-that-reads-the-ke|codex
   login --api-key was replaced with codex login --with-api-key that reads…]]'
 source_release: '[[Releases/Lovable/lovable-2025-10-06-2025-10-06-d7db7508|lovable-2025-10-06-2025-10-06-d7db7508]]'

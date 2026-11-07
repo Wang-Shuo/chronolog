@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5e9dbddf0411564c87f5e9e14cf5666c1a51fce14d4bde6212afbcef9b708971
+machine_hash: 1ac5fb67235b641111729cbdf536eafa6bc3e1b807d3b4b6693fb116f67b24cd
 product: ollama
 product_name: Ollama
 record:
@@ -44,8 +44,8 @@ record:
   title: 2 Reliability and Performance changes in v0.6.3
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-03-18-improve-the-stability-of-openhands-application-and-evaluation-harness-by-retry-o|Improve
-  the stability of OpenHands application and evaluation harness by retry…]]'
+- '[[Changes/Superwhisper/2025-03-20-massive-speed-improvements-new-models|Massive
+  Speed Improvements & New Models]]'
 - '[[Changes/Lovable/2025-03-21-chat-mode-is-faster-than-ever-fixing-the-bug-where-it-sometimes-just-stopped|Chat
   mode is faster than ever, fixing the bug where it sometimes just stopped]]'
 - '[[Changes/Lovable/2025-03-21-shipped-memory-leak-fixes-to-prevent-backend-crashes-during-user-requests-includ|Shipped

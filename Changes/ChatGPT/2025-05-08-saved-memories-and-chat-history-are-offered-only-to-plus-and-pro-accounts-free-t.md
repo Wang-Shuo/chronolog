@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 99c6904f3b3214cf8fb3f322b08de90b8ecd2fba04b65a70ec65d3270bc79b30
+machine_hash: e2cf083f754f6c15aac882d50a1156a99bdcc9bea7a6cf95f850b8c78373bf83
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -79,7 +79,7 @@ type: change
 ## Nearby in Memory and Personalization
 
 - Earlier: 2025-05-01 · Midjourney · [[Changes/Midjourney/2025-05-01-more-about-omni-reference|More about Omni-Reference]]
-- Later: 2025-05-26 · Open WebUI · [[Changes/Open WebUI/2025-05-26-2-memory-and-personalization-changes-in-v0-6-11|2 Memory and Personalization changes in v0.6.11]]
+- Later: 2025-05-23 · LM Studio · [[Changes/LM Studio/2025-05-23-add-offload-kv-cache-to-gpu-memory-option-to-model-load-options-and-gpu-settings|Add "Offload KV Cache to GPU Memory" option to model load options and GPU settings]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

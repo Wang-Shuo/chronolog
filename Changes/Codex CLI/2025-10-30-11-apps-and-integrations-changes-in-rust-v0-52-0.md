@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 55a5bbfd9ab33d6749558bd0d49f49a47d1295060a70a87531e7064c69da4070
+machine_hash: 86500e0825ddc856fa2184bc912bdf9be330e4ceb2b5b2229d6ddc0adb9460ad
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -62,11 +62,12 @@ record:
   title: 11 Apps and Integrations changes in rust-v0.52.0
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2025-10-27-javascript-sdk|JavaScript SDK]]'
-- '[[Changes/GitHub Copilot CLI/2025-10-27-improve-handling-of-mcp-tools-containing-slashes|Improve
-  handling of MCP tools containing slashes]]'
+- '[[Changes/Raycast/2025-10-27-store-filter-extensions-by-category|Store: Filter
+  extensions by category]]'
 - '[[Changes/Gemini CLI/2025-10-29-7-apps-and-integrations-changes-in-v0-11-0|7 Apps
   and Integrations changes in v0.11.0]]'
+- '[[Changes/Raycast/2025-10-29-2-apps-and-integrations-changes-in-raycast-windows-0-34|2
+  Apps and Integrations changes in Raycast windows 0.34]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-10-30-rust-v0-52-0-github-258584762-83f2b559|codex-cli-2025-10-30-rust-v0-52-0-github-258584762-83f2b559]]'
 source_type: github_releases
 theme: apps-integrations
@@ -127,7 +128,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.52.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-10-29 · Gemini CLI · [[Changes/Gemini CLI/2025-10-29-7-apps-and-integrations-changes-in-v0-11-0|7 Apps and Integrations changes in v0.11.0]]
+- Earlier: 2025-10-29 · Raycast · [[Changes/Raycast/2025-10-29-2-apps-and-integrations-changes-in-raycast-windows-0-34|2 Apps and Integrations changes in Raycast windows 0.34]]
 - Later: 2025-10-31 · Cline · [[Changes/Cline/2025-10-31-5-apps-and-integrations-changes-in-v3-35-0|5 Apps and Integrations changes in v3.35.0]]
 <!-- chronolog:end -->
 

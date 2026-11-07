@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 8217ee5ee90f49bdd0b5ab3fd0c826b04c183ee1ee7d54e99636aaa891411a96
+machine_hash: 405456f00a2b3dadbd3baa94de259bd89c7e8247891f4f7f27b64aab6d5063a6
 product: gamma
 product_name: Gamma
 record:
@@ -49,12 +49,10 @@ record:
   title: Build more with Gamma’s API and connectors
   type: change
 related_changes:
-- '[[Changes/Qoder/2026-08-27-improved-mcp-authorization-reconnection-and-state-synchronization|Improved
-  MCP authorization, reconnection, and state synchronization]]'
-- '[[Changes/ChatGPT/2026-08-28-you-can-now-connect-multiple-accounts-for-gmail-google-calendar-and-google-conta-b4c5da|Connect
-  multiple Google accounts to ChatGPT]]'
 - '[[Changes/Claude Code/2026-08-28-4-apps-and-integrations-changes-in-v2-1-251|4
   Apps and Integrations changes in v2.1.251]]'
+- '[[Changes/Devin/2026-08-28-new-mcp-marketplace-servers|New MCP Marketplace Servers]]'
+- '[[Changes/Devin/2026-08-28-clearer-mcp-install-approvals|Clearer MCP Install Approvals]]'
 source_release: '[[Releases/Gamma/gamma-2026-08-28-6a91d076c7db3a7f05cc7f12-5820041f|gamma-2026-08-28-6a91d076c7db3a7f05cc7f12-5820041f]]'
 source_type: gamma_changelog
 theme: apps-integrations
@@ -87,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-08-28 · Claude Code · [[Changes/Claude Code/2026-08-28-4-apps-and-integrations-changes-in-v2-1-251|4 Apps and Integrations changes in v2.1.251]]
+- Earlier: 2026-08-28 · Devin · [[Changes/Devin/2026-08-28-clearer-mcp-install-approvals|Clearer MCP Install Approvals]]
 - Later: 2026-08-28 · Lovable · [[Changes/Lovable/2026-08-28-connect-your-app-to-gitlab-api|Connect your app to GitLab API]]
 <!-- chronolog:end -->
 

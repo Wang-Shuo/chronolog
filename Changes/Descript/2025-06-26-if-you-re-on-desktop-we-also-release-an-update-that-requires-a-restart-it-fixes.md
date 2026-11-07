@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0f295f1363bb0ec590639870c942949761db917ede8a4f0ac5947cd28de16952
+machine_hash: 5c34ff6f7a8ba2e8abd90948bfb28dec880aad622d60a6e7c2112c9a8ef7c558
 product: descript
 product_name: Descript
 record:
@@ -42,8 +42,10 @@ record:
   title: If you're on Desktop, we also release an update that requires a restart
   type: change
 related_changes:
-- '[[Changes/Replit/2025-06-13-mobile-app-update|Mobile app update]]'
-- '[[Changes/Replit/2025-06-13-workspace-quality-improvements|Workspace quality improvements]]'
+- '[[Changes/Raycast/2025-06-17-2-mobile-and-desktop-changes-in-raycast-ios-1-0-5|2
+  Mobile and Desktop changes in Raycast ios 1.0.5]]'
+- '[[Changes/Raycast/2025-06-17-unleash-your-creativity-anywhere-with-this-update-you-can-now-effortlessly-creat|Unleash
+  your creativity anywhere!]]'
 - '[[Changes/Descript/2025-06-25-screen-recorder-on-windows|Screen recorder on Windows]]'
 source_release: '[[Releases/Descript/descript-2025-06-26-685dcfebdae93acd4370d711-3b49d7b8|descript-2025-06-26-685dcfebdae93acd4370d711-3b49d7b8]]'
 source_type: canny_changelog

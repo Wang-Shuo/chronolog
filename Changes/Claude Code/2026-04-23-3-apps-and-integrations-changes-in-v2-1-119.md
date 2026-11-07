@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a2f8b4a014932ff6ea779a83bd03fbcd0ff7aed57545c926e46a0a4fe23020b9
+machine_hash: 4085e648ff8d8cd7343afba408f1fc95f657879dcd594a32a7f2fe4b6f5df69a
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,12 +47,11 @@ record:
   title: 3 Apps and Integrations changes in v2.1.119
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-04-21-2-apps-and-integrations-changes-in-v1-14-20|2 Apps
-  and Integrations changes in v1.14.20]]'
-- '[[Changes/Claude Code/2026-04-22-4-apps-and-integrations-changes-in-v2-1-117|4
-  Apps and Integrations changes in v2.1.117]]'
-- '[[Changes/Cline/2026-04-22-wire-up-remote-globalskills-from-enterprise-remote-config-with-full-ui-toggle-su|Wire
-  up remote globalSkills from enterprise remote config with full UI, toggle…]]'
+- '[[Changes/Devin/2026-04-22-mcp-auth-status-feedback|MCP Auth Status Feedback]]'
+- '[[Changes/Devin/2026-04-22-repository-permissions-decoupled-from-git-integrations|Repository
+  Permissions Decoupled from Git Integrations]]'
+- '[[Changes/Devin/2026-04-22-mcp-oauth-token-expiry-warnings|MCP OAuth Token Expiry
+  Warnings]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-23-v2-1-119-github-312949780-573724e7|claude-code-2026-04-23-v2-1-119-github-312949780-573724e7]]'
 source_type: github_releases
 theme: apps-integrations
@@ -92,7 +91,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.119
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-04-22 · Cline · [[Changes/Cline/2026-04-22-wire-up-remote-globalskills-from-enterprise-remote-config-with-full-ui-toggle-su|Wire up remote globalSkills from enterprise remote config with full UI, toggle…]]
+- Earlier: 2026-04-22 · Devin · [[Changes/Devin/2026-04-22-mcp-oauth-token-expiry-warnings|MCP OAuth Token Expiry Warnings]]
 - Later: 2026-04-23 · Claude Code · [[Changes/Claude Code/2026-04-23-5-apps-and-integrations-changes-in-v2-1-118|5 Apps and Integrations changes in v2.1.118]]
 <!-- chronolog:end -->
 

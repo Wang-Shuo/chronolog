@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7ff55e6329c383997baaae0429dd204ed4794e47ba05f830ec1ab0c1218b9ae5
+machine_hash: f5047932df94af8af4d787e8963a8d5d6102f1fabdcd9403298433ab2ba72cbe
 product: open-webui
 product_name: Open WebUI
 record:
@@ -49,12 +49,12 @@ record:
   title: "\U0001F4CB **Code Block Copy Button Content Fixed**"
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-08-26-11-developer-workflow-changes-in-rust-v0-24-0|11
-  Developer Workflow changes in rust-v0.24.0]]'
 - '[[Changes/Dify/2025-08-27-3-developer-workflow-changes-in-1-8-0|3 Developer Workflow
   changes in 1.8.0]]'
 - '[[Changes/Gemini CLI/2025-08-27-feat-core-refactor-shell-execution-to-use-node-pty-by-galz10-in-https-github-com|feat(core):
   refactor shell execution to use node-pty]]'
+- '[[Changes/LM Studio/2025-08-28-improved-lms-lm-studio-cli-command-output-style|Improved
+  lms (LM Studio CLI) command output style]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-08-28-v0-6-26-github-243127257-72de72e3|open-webui-2025-08-28-v0-6-26-github-243127257-72de72e3]]'
 source_type: github_releases
 theme: developer-workflow
@@ -94,7 +94,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2025-08-27 · Gemini CLI · [[Changes/Gemini CLI/2025-08-27-feat-core-refactor-shell-execution-to-use-node-pty-by-galz10-in-https-github-com|feat(core): refactor shell execution to use node-pty]]
+- Earlier: 2025-08-28 · LM Studio · [[Changes/LM Studio/2025-08-28-improved-lms-lm-studio-cli-command-output-style|Improved lms (LM Studio CLI) command output style]]
 - Later: 2025-08-29 · Codex CLI · [[Changes/Codex CLI/2025-08-29-2852-following-up-on-2371-post-commit-feedback|♯2852 Following up on ♯2371 post commit feedback]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d61ccbe952ec15d2d8639fa01b3f171d9a7d7fa700b31bc42bdb9ea92b67d2db
+machine_hash: 477021d4168f3a8246b615adae9800e69fb470f808d59693fd4e18afd23fcf96
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -71,12 +71,12 @@ record:
   title: 16 Model Support changes in rust-v0.36.0
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2025-09-10-the-command-for-model-selection-now-supports-real-time-search-and-filtering-impr|\U0001F50D
-  The \"@\" command for model selection now supports real-time search and filtering…]]"
 - '[[Changes/Cline/2025-09-11-5-model-support-changes-in-v3-28-0|5 Model Support changes
   in v3.28.0]]'
 - '[[Changes/Cline/2025-09-12-requesty-use-base-url-to-get-models-and-api-keys|Requesty:
   use base URL to get models and API keys]]'
+- '[[Changes/Raycast/2025-09-12-ai-hide-ai-models-from-chat-accessible-from-settings|AI:
+  Hide AI models from chat, accessible from settings]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-09-15-rust-v0-36-0-github-247381260-0ebd05e2|codex-cli-2025-09-15-rust-v0-36-0-github-247381260-0ebd05e2]]'
 source_type: github_releases
 theme: model-support
@@ -144,8 +144,8 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.36.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-09-12 · Cline · [[Changes/Cline/2025-09-12-requesty-use-base-url-to-get-models-and-api-keys|Requesty: use base URL to get models and API keys]]
-- Later: 2025-09-16 · ChatGPT · [[Changes/ChatGPT/2025-09-16-factuality-fewer-hallucinations-improving-answer-quality|Factuality: Fewer hallucinations, improving answer quality]]
+- Earlier: 2025-09-12 · Raycast · [[Changes/Raycast/2025-09-12-ai-hide-ai-models-from-chat-accessible-from-settings|AI: Hide AI models from chat, accessible from settings]]
+- Later: 2025-09-15 · LM Studio · [[Changes/LM Studio/2025-09-15-2-model-support-changes-in-lm-studio-0-3-26|2 Model Support changes in LM Studio 0.3.26]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d37a314f0dff2d0c6b6eb0113b53199a95791968056f1eb66b0ec2d1559b270b
+machine_hash: 56a0bb28fa4707f42ca0e2a2f3de95fc8008ad84d41161012c006741b4aa7489
 product: dify
 product_name: Dify
 record:
@@ -49,10 +49,10 @@ record:
   title: 3 Automation and Scheduling changes in 1.17.1
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-09-05-8-automation-and-scheduling-changes-in-v2026-9-2|8
-  Automation and Scheduling changes in v2026.9.2]]'
-- '[[Changes/OpenClaw/2026-09-08-7-automation-and-scheduling-changes-in-v2026-9-3|7
-  Automation and Scheduling changes in v2026.9.3]]'
+- '[[Changes/Devin/2026-09-09-update-approvals-show-a-diff|Update Approvals Show a
+  Diff]]'
+- '[[Changes/Devin/2026-09-09-regex-matching-in-text-fields|Regex Matching in Text
+  Fields]]'
 - '[[Changes/OpenHands/2026-09-09-9-automation-and-scheduling-changes-in-v1-17-0|9
   Automation and Scheduling changes in v1.17.0]]'
 source_release: '[[Releases/Dify/dify-2026-09-10-1-17-1-github-386157159-e472b6fe|dify-2026-09-10-1-17-1-github-386157159-e472b6fe]]'
@@ -107,7 +107,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.17.1
 ## Nearby in Automation and Scheduling
 
 - Earlier: 2026-09-09 · OpenHands · [[Changes/OpenHands/2026-09-09-9-automation-and-scheduling-changes-in-v1-17-0|9 Automation and Scheduling changes in v1.17.0]]
-- Later: 2026-09-11 · OpenClaw · [[Changes/OpenClaw/2026-09-11-7-automation-and-scheduling-changes-in-v2026-9-4|7 Automation and Scheduling changes in v2026.9.4]]
+- Later: 2026-09-11 · Devin · [[Changes/Devin/2026-09-11-pagerduty-integration-for-oncall-and-automations|PagerDuty Integration for Oncall and Automations]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

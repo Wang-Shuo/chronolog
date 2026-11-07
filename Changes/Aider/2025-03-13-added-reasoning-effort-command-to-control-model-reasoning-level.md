@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 01b092db81349676a73a8866d3b0b97ed9a86444f6e90c1175a0c54a58235f51
+machine_hash: bc3f1e1bfe2d1e83a55afd4f4341560a95e0639d250d8e0bb1b6c6c1f71822a2
 product: aider
 product_name: Aider
 record:
@@ -43,10 +43,10 @@ record:
   title: Added `/reasoning-effort` command to control model reasoning level
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-03-11-3-model-support-changes-in-0-47-x|3 Model Support changes
-  in 0.47.x]]'
 - '[[Changes/Ollama/2025-03-11-gemma-3-https-ollama-com-library-gemma3-google-gemma-3-model-is-now-available-in|Gemma
   3((source link) Google Gemma 3 model is now available…]]'
+- '[[Changes/LM Studio/2025-03-12-windows-prevent-user-from-accidentally-setting-the-models-directory-inside-the-l|Windows
+  Prevent user from accidentally setting the models directory inside the LM…]]'
 - '[[Changes/Aider/2025-03-13-2-model-support-changes-in-v0-77-0|2 Model Support changes
   in v0.77.0]]'
 source_release: '[[Releases/Aider/aider-2025-03-13-v0-77-0-github-205707771-facc801d|aider-2025-03-13-v0-77-0-github-205707771-facc801d]]'
@@ -83,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-03-11 · Ollama · [[Changes/Ollama/2025-03-11-gemma-3-https-ollama-com-library-gemma3-google-gemma-3-model-is-now-available-in|Gemma 3((source link) Google Gemma 3 model is now available…]]
+- Earlier: 2025-03-12 · LM Studio · [[Changes/LM Studio/2025-03-12-windows-prevent-user-from-accidentally-setting-the-models-directory-inside-the-l|Windows Prevent user from accidentally setting the models directory inside the LM…]]
 - Later: 2025-03-13 · Gemini · [[Changes/Gemini/2025-03-13-deep-research-is-now-powered-by-gemini-2-0-flash-thinking-experimental-and-avail|Deep Research is now powered by Gemini 2.0 Flash Thinking (experimental)…]]
 <!-- chronolog:end -->
 

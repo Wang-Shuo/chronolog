@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e870fbca90891e5e05734b2ca76fb67cc77c78274cee8bd3bf5d33448cf96f0b
+machine_hash: 8d8c3fcde6e09957f746a416f6816a2503fe7beaa22a87a8d3ffe1ea5af4d3dd
 product: dify
 product_name: Dify
 record:
@@ -44,11 +44,11 @@ record:
   title: 2 Apps and Integrations changes in 1.7.1
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-07-24-2-apps-and-integrations-changes-in-0-50-0|2 Apps
-  and Integrations changes in 0.50.0]]'
-- '[[Changes/Gemini CLI/2025-07-25-18-apps-and-integrations-changes-in-v0-1-14|18
-  Apps and Integrations changes in v0.1.14]]'
-- '[[Changes/Replit/2025-07-25-domains-improvements|Domains improvements]]'
+- '[[Changes/Devin/2025-07-28-inline-secrets-management-for-mcp-configurations|Inline
+  Secrets Management for MCP Configurations]]'
+- '[[Changes/Devin/2025-07-28-mcp-model-context-protocol-marketplace|MCP (Model Context
+  Protocol) Marketplace]]'
+- '[[Changes/Devin/2025-07-28-slack-thread-mode-preference|Slack Thread Mode Preference]]'
 source_release: '[[Releases/Dify/dify-2025-07-28-1-7-1-github-235626993-47ad2206|dify-2025-07-28-1-7-1-github-235626993-47ad2206]]'
 source_type: github_releases
 theme: apps-integrations
@@ -88,7 +88,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.7.1
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-07-25 · Replit · [[Changes/Replit/2025-07-25-domains-improvements|Domains improvements]]
+- Earlier: 2025-07-28 · Devin · [[Changes/Devin/2025-07-28-slack-thread-mode-preference|Slack Thread Mode Preference]]
 - Later: 2025-07-28 · ElevenLabs · [[Changes/ElevenLabs/2025-07-28-sdks|SDKs]]
 <!-- chronolog:end -->
 

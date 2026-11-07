@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 0cd32deeefd3a3d60d21e80008b68da68ead02cfabb3658dea6dfce5b79dde6f
+machine_hash: b9d94f80b20f5d81bdd38be84ba27ddc0f3e0e4fc61b36aa5121c654f9f0ed30
 product: cline
 product_name: Cline
 record:
@@ -43,8 +43,7 @@ record:
   title: Add support for LaTeX rendering
   type: change
 related_changes:
-- '[[Changes/Dify/2025-04-23-2-interface-experience-changes-in-1-3-0|2 Interface Experience
-  changes in 1.3.0]]'
+- '[[Changes/LM Studio/2025-04-24-slimmer-app-sidebar|Slimmer app sidebar]]'
 - '[[Changes/Cline/2025-04-25-add-tooltips-to-bottom-row-menu|Add tooltips to bottom
   row menu]]'
 - '[[Changes/Midjourney/2025-05-01-how-to-use-omni-reference|How to Use Omni-Reference]]'

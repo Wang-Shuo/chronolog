@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 41d2b900d860c632462e7d1e80d546397c282feb8380c27aed25f0131dd364ef
+machine_hash: dcc8da69545720ee40f03bae55a1dd0560cff4573e9ac32f183299df2d3e12d5
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,12 +43,12 @@ record:
   title: 2 Search and Browsing changes in rust-v0.113.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-06-elicitation-enum-and-boolean-fields-now-require-enter-to-confirm-a-selection-wit|Elicitation
-  enum and boolean fields now require Enter to confirm a selection…]]'
 - '[[Changes/Open WebUI/2026-03-08-2-search-and-browsing-changes-in-v0-8-9|2 Search
   and Browsing changes in v0.8.9]]'
 - '[[Changes/Open WebUI/2026-03-09-2-search-and-browsing-changes-in-v0-8-10|2 Search
   and Browsing changes in v0.8.10]]'
+- '[[Changes/Raycast/2026-03-09-calculator-history-browse-search-and-pin-your-past-calculations-and-conversions|Calculator
+  History: Browse, search, and pin your past calculations and conversions]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-03-10-rust-v0-113-0-github-294999501-e594ccb6|codex-cli-2026-03-10-rust-v0-113-0-github-294999501-e594ccb6]]'
 source_type: github_releases
 theme: search-browsing
@@ -92,7 +92,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.113.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Search and Browsing
 
-- Earlier: 2026-03-09 · Open WebUI · [[Changes/Open WebUI/2026-03-09-2-search-and-browsing-changes-in-v0-8-10|2 Search and Browsing changes in v0.8.10]]
+- Earlier: 2026-03-09 · Raycast · [[Changes/Raycast/2026-03-09-calculator-history-browse-search-and-pin-your-past-calculations-and-conversions|Calculator History: Browse, search, and pin your past calculations and conversions]]
 - Later: 2026-03-11 · Codex CLI · [[Changes/Codex CLI/2026-03-11-14136-fix-core-use-dedicated-types-for-responsesapi-web-search-tool-config-owenl|♯14136 fix(core): use dedicated types for responsesapi web search tool config @owenlin0]]
 <!-- chronolog:end -->
 

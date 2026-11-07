@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d555941c28dbe5853ebdd82f635d57a8288c35792b664d1a8fd82d97b8ab8c07
+machine_hash: d2c7465501c38553535f0e94f90e7a7564902954bee5fe2f0851c233d14e9edb
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
   title: 2 Context Window changes in v2.1.311
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-10-23-nemotron-3-5-bolt-e4b-https-ollama-com-library-nemotron-3-5-bolt-is-nvidia-s-sma|Nemotron
-  3.5 Bolt E4B((source link) is NVIDIA’s…]]'
 - '[[Changes/OpenClaw/2026-10-24-4-context-window-changes-in-v2026-10-7|4 Context
   Window changes in v2026.10.7]]'
 - '[[Changes/Open WebUI/2026-10-25-4-context-window-changes-in-v0-12-4|4 Context Window
   changes in v0.12.4]]'
+- '[[Changes/AnythingLLM/2026-10-26-2-context-window-changes-in-v1-19-0|2 Context
+  Window changes in v1.19.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-26-v2-1-311-github-424682562-151da26b|claude-code-2026-10-26-v2-1-311-github-424682562-151da26b]]'
 source_type: github_releases
 theme: context-window
@@ -93,7 +93,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.311
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-10-25 · Open WebUI · [[Changes/Open WebUI/2026-10-25-4-context-window-changes-in-v0-12-4|4 Context Window changes in v0.12.4]]
+- Earlier: 2026-10-26 · AnythingLLM · [[Changes/AnythingLLM/2026-10-26-2-context-window-changes-in-v1-19-0|2 Context Window changes in v1.19.0]]
 - Later: 2026-10-26 · Cline · [[Changes/Cline/2026-10-26-auto-compaction-no-longer-runs-for-models-with-an-unknown-context-limit-and-it-n|Auto-compaction no longer runs for models with an unknown context limit, and it no…]]
 <!-- chronolog:end -->
 

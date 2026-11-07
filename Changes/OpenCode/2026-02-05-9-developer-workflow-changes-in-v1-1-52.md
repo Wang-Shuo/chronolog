@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: dd6c72f0778e294a1b00f7b5ac5042531d231e1a7fc1f03830b9b0ac217aa80c
+machine_hash: f52b7ae744358f14dbcf521d2ea09c717275bdaf3c55cfdce872ea501a1af473
 product: opencode
 product_name: OpenCode
 record:
@@ -116,7 +116,7 @@ Source: https://opencode.ai/changelog/v1.1.52
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-02-05 · OpenCode · [[Changes/OpenCode/2026-02-05-terminal-allow-mouse-escape-via-esc-labels-in-dialogs|Terminal Allow mouse escape via "esc" labels in dialogs]]
-- Later: 2026-02-07 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-07-add-changelog-command-to-view-release-notes|Add /changelog command to view release notes]]
+- Later: 2026-02-06 · Devin · [[Changes/Devin/2026-02-06-git-permissions-update|Git Permissions Update]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 064fcfec1a333e61ec1c3218b3d993886334921488d9ec18a2a8a7d02306b4b8
+machine_hash: e2fbca7e6a983f831baedc37af86201fee923ed49ab30772fc9f1ad5ed3b0947
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,8 +45,8 @@ record:
     spans
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-08-26-14-context-window-changes-in-rust-v0-150-0|14 Context
-  Window changes in rust-v0.150.0]]'
+- '[[Changes/AnythingLLM/2026-08-27-3-context-window-changes-in-v1-16-1|3 Context
+  Window changes in v1.16.1]]'
 - '[[Changes/Claude Code/2026-08-27-improved-the-workflow-tool-s-prompt-footprint-its-description-is-now-about-1k-to|Improved
   the Workflow tool''s prompt footprint]]'
 - '[[Changes/Codex CLI/2026-08-27-2-context-window-changes-in-rust-v0-150-1|2 Context

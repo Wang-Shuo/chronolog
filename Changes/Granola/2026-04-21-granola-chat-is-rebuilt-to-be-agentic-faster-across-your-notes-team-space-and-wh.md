@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: c6ceb043df5f311b8cf9811c5ba940519e6253c30411cdddaa5b5acd2a6cc083
+machine_hash: c88392ac856d72e99f5820d46a4d05cc72320614518efe29e99d7ce4912f870a
 product: granola
 product_name: Granola
 record:
@@ -56,8 +56,8 @@ record:
   title: Granola Chat just got smarter
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-17-improved-ultrareview-faster-launch-with-parallelized-checks-diffstat-in-the-laun|Improved
-  /ultrareview: faster launch with parallelized checks, diffstat…]]'
+- '[[Changes/LM Studio/2026-04-17-improved-qwen-3-5-performance-with-openai-compatible-v1-chat-completions-v1-resp|Improved
+  Qwen 3.5 performance with OpenAI-compatible /v1/chat/completions…]]'
 - '[[Changes/Windsurf/2026-04-17-various-bug-fixes-and-performance-improvements|Various
   bug fixes and performance improvements]]'
 - '[[Changes/Claude Code/2026-04-20-resume-on-large-sessions-is-significantly-faster-up-to-67-on-40mb-sessions-and-h|/resume

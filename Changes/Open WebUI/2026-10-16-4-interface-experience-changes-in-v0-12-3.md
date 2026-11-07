@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ff1d65d43e7c70d17e4470911dc97fde15e3437fbfba9f110394f9bf5ba72be3
+machine_hash: 8ea6fab82d1a4982b9874591246de18a66de9d8b925eb92a0e07ec5ff340c233
 product: open-webui
 product_name: Open WebUI
 record:
@@ -68,12 +68,12 @@ record:
   title: 4 Interface Experience changes in v0.12.3
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-15-2-interface-experience-changes-in-v2-1-301|2 Interface
-  Experience changes in v2.1.301]]'
-- '[[Changes/Codex CLI/2026-10-15-8-interface-experience-changes-in-rust-v0-163-0|8
-  Interface Experience changes in rust-v0.163.0]]'
 - '[[Changes/Google Antigravity/2026-10-15-in-the-full-screen-viewer-the-comma-and-period-keys-now-step-a-video-back-or-for|In
   the full-screen viewer, the comma and period keys now step a video back…]]'
+- '[[Changes/Devin/2026-10-16-explain-and-search-missing-repositories-on-github|Explain
+  and Search Missing Repositories on GitHub]]'
+- '[[Changes/Devin/2026-10-16-multiple-side-chats-from-one-message|Multiple Side Chats
+  from One Message]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-10-16-v0-12-3-github-414903453-58a8a82d|open-webui-2026-10-16-v0-12-3-github-414903453-58a8a82d]]'
 source_type: github_releases
 theme: interface-experience
@@ -123,8 +123,8 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.12.3
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-10-15 · Google Antigravity · [[Changes/Google Antigravity/2026-10-15-in-the-full-screen-viewer-the-comma-and-period-keys-now-step-a-video-back-or-for|In the full-screen viewer, the comma and period keys now step a video back…]]
-- Later: 2026-10-16 · v0 · [[Changes/v0/2026-10-16-2-interface-experience-changes-in-downloads-in-the-code-tab-new-ios|2 Interface Experience changes in Downloads in the Code tab, new iOS…]]
+- Earlier: 2026-10-16 · Devin · [[Changes/Devin/2026-10-16-multiple-side-chats-from-one-message|Multiple Side Chats from One Message]]
+- Later: 2026-10-16 · Raycast · [[Changes/Raycast/2026-10-16-3-interface-experience-changes-in-raycast-windows-2-8|3 Interface Experience changes in Raycast windows 2.8]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

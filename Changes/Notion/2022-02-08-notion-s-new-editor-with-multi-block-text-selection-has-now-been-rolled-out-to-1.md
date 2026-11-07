@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 03b0380bd754e75f48aa56acb50d3ac38037827d75bf73479da0d74c2ececeb3
+machine_hash: 452da701e017b13f5e789a7be64ac0fcbf72080b7653491a955f7ca4246dcd35
 product: notion
 product_name: Notion
 record:
@@ -44,8 +44,8 @@ record:
   title: Notion’s new editor with multi-block text selection has now been rolled out…
   type: change
 related_changes:
-- '[[Changes/Notion/2021-12-23-the-pop-up-that-appears-when-hovering-your-cursor-over-hyperlinked-text-now-incl|The
-  pop-up that appears when hovering your cursor over hyperlinked text now includes…]]'
+- '[[Changes/Raycast/2022-01-12-preferences-you-can-now-open-store-to-install-extensions-from-the-extensions-tab|Preferences:
+  You can now open Store to install extensions from the Extensions Tab]]'
 - '[[Changes/Notion/2022-01-19-select-text-across-multiple-blocks|Select text across
   multiple blocks]]'
 - '[[Changes/Descript/2022-01-26-you-can-now-transfer-ownership-of-a-project-to-another-editor-member-on-the-same|Transfer

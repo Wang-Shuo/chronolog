@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d0a9116a0943ae4ede08106079300337307d6e50c22b60a69e0023bd2d7a48a7
+machine_hash: 2118ce2b9209ea711c6c192b78cbc88e1fd2a4234fe9ba21b4e6f349a90ba258
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,10 +42,11 @@ record:
   title: '#10191 chore(app-server): document AuthMode @owenlin0'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-01-14-9020-fix-tui-document-paste-burst-state-machine-joshka-oai|♯9020
-  fix(tui): document paste-burst state machine @joshka-oai]]'
-- '[[Changes/ElevenLabs/2026-01-19-knowledge-base|Knowledge Base]]'
+- '[[Changes/AnythingLLM/2026-01-22-make-xlsx-spreadsheets-visible-in-chat-by-combining-sheets-by-shatfield4-in-http|Make
+  XLSX spreadsheets visible in chat by combining sheets]]'
 - '[[Changes/ElevenLabs/2026-01-26-knowledge-base|Knowledge Base]]'
+- '[[Changes/LM Studio/2026-01-28-improved-pdf-rendering-quality-for-tool-requests-and-responses|Improved
+  PDF rendering quality for tool requests and responses]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-01-31-rust-v0-93-0-github-281755443-684a63d8|codex-cli-2026-01-31-rust-v0-93-0-github-281755443-684a63d8]]'
 source_type: github_releases
 theme: file-data
@@ -88,7 +89,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2026-01-26 · ElevenLabs · [[Changes/ElevenLabs/2026-01-26-knowledge-base|Knowledge Base]]
+- Earlier: 2026-01-28 · LM Studio · [[Changes/LM Studio/2026-01-28-improved-pdf-rendering-quality-for-tool-requests-and-responses|Improved PDF rendering quality for tool requests and responses]]
 - Later: 2026-02-03 · Dify · [[Changes/Dify/2026-02-03-7-files-and-data-changes-in-1-12-0|7 Files and Data changes in 1.12.0]]
 <!-- chronolog:end -->
 

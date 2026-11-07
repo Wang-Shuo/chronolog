@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: cf4eeadf48bc568361e77ad3c31b98d6115dbedc8706c41cf712bc1221798e9d
+machine_hash: faf29052f4474df117aebe30d5ae7cac2f56b061fb9c6770a9375527b3743e30
 product: open-webui
 product_name: Open WebUI
 record:
@@ -45,8 +45,8 @@ record:
   title: 2 Editor Experience changes in v0.9.2
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-23-6-editor-experience-changes-in-v1-0-35|6
-  Editor Experience changes in v1.0.35]]'
+- '[[Changes/Devin/2026-04-24-merged-multi-edits-in-progress-tab|Merged Multi-Edits
+  in Progress Tab]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-24-2-editor-experience-changes-in-v1-0-36|2
   Editor Experience changes in v1.0.36]]'
 - '[[Changes/Lovable/2026-04-24-labs-tab-the-labs-tab-has-been-removed-from-settings-github-branch-switching-is|Labs

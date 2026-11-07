@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 771f1e3d92ed3ac6b5a216466ae27d5607996b2ad5c442af8d72dd8554614875
+machine_hash: cb79c4dc260f9d709ad2d3a859bdc31ecc330f4b77f1b123fef60f9d8aaa795a
 product: qoder
 product_name: Qoder
 record:
@@ -78,7 +78,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-08-31 · OpenClaw · [[Changes/OpenClaw/2026-08-31-installation-and-onboarding-a-clearer-path-from-download-to-a-first-useful-conve|Installation and Onboarding - A clearer path from download to a first useful…]]
-- Later: 2026-09-01 · Claude Code · [[Changes/Claude Code/2026-09-01-changed-add-dir-add-dir-and-additionaldirectories-to-refuse-network-paths-unc-sh|Changed --add-dir, /add-dir, and additionalDirectories to refuse network paths…]]
+- Later: 2026-08-31 · Raycast · [[Changes/Raycast/2026-08-31-2-mobile-and-desktop-changes-in-raycast-ios-1-3-6|2 Mobile and Desktop changes in Raycast ios 1.3.6]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

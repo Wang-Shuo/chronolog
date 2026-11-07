@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 9f1cd6ae8ac39cdeaad0ae47379abb01fcd1596f282883d42e965ee4f4361a5f
+machine_hash: 9399a531b60ca3f13908b82d16b026571cb335567174a76148fbc92221e90457
 product: cline
 product_name: Cline
 record:
@@ -43,10 +43,9 @@ record:
   title: Add kimi-k2 as trending model
   type: change
 related_changes:
-- '[[Changes/Dify/2025-07-10-4-model-support-changes-in-1-6-0|4 Model Support changes
-  in 1.6.0]]'
 - '[[Changes/Gemini CLI/2025-07-11-5-model-support-changes-in-v0-1-10|5 Model Support
   changes in v0.1.10]]'
+- '[[Changes/Superwhisper/2025-07-11-custom-api-model-fixes|Custom API Model Fixes]]'
 - '[[Changes/Open WebUI/2025-07-14-6-model-support-changes-in-v0-6-16|6 Model Support
   changes in v0.6.16]]'
 source_release: '[[Releases/Cline/cline-2025-07-15-v3-18-15-github-232396752-aa5b28a8|cline-2025-07-15-v3-18-15-github-232396752-aa5b28a8]]'

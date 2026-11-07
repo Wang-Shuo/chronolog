@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: ec8db6da542d842ad7605795964b03a757e632fe6b2de32304c947823a1e3fed
+machine_hash: c00135d819aada8ca678b014fb9157a312be67414ae04b53b79ac87986353232
 product: lovable
 product_name: Lovable
 record:
@@ -50,11 +50,11 @@ record:
   title: Redesigned connector pages
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-26-3-apps-and-integrations-changes-in-v2-1-311|3
-  Apps and Integrations changes in v2.1.311]]'
-- '[[Changes/ElevenLabs/2026-10-26-2-apps-and-integrations-changes-in-elevenlabs-updates-2026-10-26|2
-  Apps and Integrations changes in ElevenLabs updates — 2026-10-26]]'
 - '[[Changes/Gamma/2026-10-26-introducing-gamma-5|Introducing Gamma 5]]'
+- '[[Changes/Krea/2026-10-26-mcp-can-switch-workspaces-and-find-nodes|MCP can switch
+  workspaces and find Nodes]]'
+- '[[Changes/Krea/2026-10-26-share-nodes-apps-with-your-organization|Share Nodes Apps
+  with your organization]]'
 source_release: '[[Releases/Lovable/lovable-2026-10-26-2026-10-26-ca7c552d|lovable-2026-10-26-2026-10-26-ca7c552d]]'
 source_type: lovable_changelog
 theme: apps-integrations
@@ -84,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-10-26 · Gamma · [[Changes/Gamma/2026-10-26-introducing-gamma-5|Introducing Gamma 5]]
+- Earlier: 2026-10-26 · Krea · [[Changes/Krea/2026-10-26-share-nodes-apps-with-your-organization|Share Nodes Apps with your organization]]
 - Later: 2026-10-27 · Claude Code · [[Changes/Claude Code/2026-10-27-2-apps-and-integrations-changes-in-v2-1-312|2 Apps and Integrations changes in v2.1.312]]
 <!-- chronolog:end -->
 

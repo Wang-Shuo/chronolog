@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7f014f3ddeb6f0c0e8a6011501fb7b2a0c60c02484d2845f07c4df1a38972857
+machine_hash: 2313e901904c618874f96085614f974e57a1743adfb52ec496b1d0ab3cfcc6ca
 product: dify
 product_name: Dify
 record:
@@ -87,7 +87,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2024-03-29 · Dify · [[Changes/Dify/2024-03-29-some-optimization-for-admin-api-key-create-tenant-and-reset-encrypt-key-pair-com|some optimization for admin api key, create tenant and reset-encrypt-key-pair command]]
-- Later: 2024-05-10 · Aider · [[Changes/Aider/2024-05-10-2-developer-workflow-changes-in-v0-34-0|2 Developer Workflow changes in v0.34.0]]
+- Later: 2024-04-10 · Raycast · [[Changes/Raycast/2024-04-10-2-developer-workflow-changes-in-raycast-macos-v1-1-71-0|2 Developer Workflow changes in Raycast macos-v1 1.71.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

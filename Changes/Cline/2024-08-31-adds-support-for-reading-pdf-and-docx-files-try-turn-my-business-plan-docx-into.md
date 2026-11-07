@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: b989ef2894235bbddd1dbc5aa30f1b504208f1483bcee4eb77642bb53b735b4e
+machine_hash: ae73edd4449b446c0d34dd635ea0613b1783eb4d5fe65c0511b5c71f005dd2c5
 product: cline
 product_name: Cline
 record:
@@ -77,7 +77,7 @@ type: change
 ## Nearby in Enterprise and Administration
 
 - Earlier: 2024-08-27 · Descript · [[Changes/Descript/2024-08-27-ai-usage-dashboard-admin-view|AI Usage dashboard admin view]]
-- Later: 2024-09-25 · Descript · [[Changes/Descript/2024-09-25-new-powers-for-enterprise-drive-admins|New powers for Enterprise Drive admins]]
+- Later: 2024-09-03 · Devin · [[Changes/Devin/2024-09-03-enterprise-vpc-deployment|Enterprise VPC Deployment]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

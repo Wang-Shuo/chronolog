@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f671b20a2a9770e87c068f62207607333ec3978f35b96c7b44a5098b136398df
+machine_hash: a05b3b98cbb8ec702e3cf34a7cc13c5b675ccee841040c13b0edada625c17935
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -96,12 +96,11 @@ record:
   title: 20 Apps and Integrations changes in v1.0.85
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-09-15-feat-extensions-harden-path-resolution-and-boundary-validation-in-extension-load|feat(extensions):
-  harden path resolution and boundary validation in extension loader]]'
-- '[[Changes/Lovable/2026-09-15-connect-your-app-to-power-bi|Connect your app to Power
-  BI]]'
-- '[[Changes/Claude/2026-09-16-claude-cowork-comes-to-every-conversation|Claude Cowork
-  comes to every conversation]]'
+- '[[Changes/Devin/2026-09-16-connection-page-titles|Connection Page Titles]]'
+- '[[Changes/Devin/2026-09-16-skipped-questions-are-shown-as-skipped|Skipped Questions
+  Are Shown as Skipped]]'
+- '[[Changes/Devin/2026-09-16-install-a-personal-plugin-from-a-directory|Install a
+  Personal Plugin from a Directory]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-09-16-v1-0-85-github-389603482-889a46d9|github-copilot-cli-2026-09-16-v1-0-85-github-389603482-889a46d9]]'
 source_type: github_releases
 theme: apps-integrations
@@ -186,7 +185,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.85
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-09-16 · Claude · [[Changes/Claude/2026-09-16-claude-cowork-comes-to-every-conversation|Claude Cowork comes to every conversation]]
+- Earlier: 2026-09-16 · Devin · [[Changes/Devin/2026-09-16-install-a-personal-plugin-from-a-directory|Install a Personal Plugin from a Directory]]
 - Later: 2026-09-16 · OpenHands · [[Changes/OpenHands/2026-09-16-9-apps-and-integrations-changes-in-v1-19-0|9 Apps and Integrations changes in v1.19.0]]
 <!-- chronolog:end -->
 

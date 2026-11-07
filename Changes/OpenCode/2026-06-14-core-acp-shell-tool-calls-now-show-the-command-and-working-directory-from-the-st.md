@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a65e538eb0edf549835da118f13d02509be03d70d375cf32e0e65046b58ae349
+machine_hash: 0c539afada571d3750ca8287d130f48dd1900e7a921439b188cb42c91dd3b9ec
 product: opencode
 product_name: OpenCode
 record:
@@ -45,8 +45,8 @@ record:
     the start
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-06-12-core-snapshot-creation-now-reuses-source-git-objects-to-avoid-long-re-hashing-de|Core
-  Snapshot creation now reuses source Git objects to avoid long re-hashing delays…]]'
+- '[[Changes/Raycast/2026-06-12-2-developer-workflow-changes-in-raycast-windows-0-64|2
+  Developer Workflow changes in Raycast windows 0.64]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-13-6-developer-workflow-changes-in-v1-0-62|6
   Developer Workflow changes in v1.0.62]]'
 - '[[Changes/OpenCode/2026-06-13-2-developer-workflow-changes-in-v1-17-6-1|2 Developer

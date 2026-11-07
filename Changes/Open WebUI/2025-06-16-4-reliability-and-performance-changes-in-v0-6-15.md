@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 68c5166105053894352a4da65b51900bba654629eabec1e6d82dd5e42048e406
+machine_hash: 43356454b59ac552bb33223a9c7f9b296770520ee26e0073c5bd5a324a3d5046
 product: open-webui
 product_name: Open WebUI
 record:
@@ -110,7 +110,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.6.15
 ## Nearby in Reliability and Performance
 
 - Earlier: 2025-06-13 · Replit · [[Changes/Replit/2025-06-13-infrastructure-improvements|Infrastructure improvements]]
-- Later: 2025-06-20 · Replit · [[Changes/Replit/2025-06-20-python-run-performance-improvements|Python run performance improvements]]
+- Later: 2025-06-20 · Raycast · [[Changes/Raycast/2025-06-20-calculator-improved-speed-and-performance|Calculator: Improved speed and performance]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

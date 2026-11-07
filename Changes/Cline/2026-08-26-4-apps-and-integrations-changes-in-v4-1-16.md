@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 58beb9198d8291e035d844090bdef4a07af903d96f1687d96eb1d5c35a3b9a9a
+machine_hash: bf1440342c936f375e248a67c90b93b3b4142d11293d68b97e7f3e96e94aa5ba
 product: cline
 product_name: Cline
 record:
@@ -54,10 +54,10 @@ record:
   title: 4 Apps and Integrations changes in v4.1.16
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-08-25-ssr-agent-issue-fix-21919-fix-typescript-strict-null-errors-in-integration-tests|SSR
-  Agent Issue Fix (21919): Fix TypeScript strict-null errors in integration tests]]'
-- '[[Changes/Open WebUI/2026-08-25-4-apps-and-integrations-changes-in-v0-11-1|4 Apps
-  and Integrations changes in v0.11.1]]'
+- '[[Changes/Raycast/2026-08-25-ai-added-support-for-mentioning-ai-extensions-when-replying-to-a-question-asked|AI
+  : Added support for mentioning AI extensions when replying to a question asked…]]'
+- '[[Changes/Raycast/2026-08-25-2-apps-and-integrations-changes-in-raycast-windows-2-0|2
+  Apps and Integrations changes in Raycast windows 2.0]]'
 - '[[Changes/Claude Code/2026-08-26-2-apps-and-integrations-changes-in-v2-1-247|2
   Apps and Integrations changes in v2.1.247]]'
 source_release: '[[Releases/Cline/cline-2026-08-26-v4-1-16-github-376988707-45a7fae8|cline-2026-08-26-v4-1-16-github-376988707-45a7fae8]]'

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6e075ad7a4c3d400cfc550e597637c6b471be4890c69f6ec4129bcd0ec0275f5
+machine_hash: 05526d1b22cbb243ac8e30f64dd885a88b1bf47e6e817cfd8717409343c7b92c
 product: open-webui
 product_name: Open WebUI
 record:
@@ -50,9 +50,10 @@ record:
     use PaddleOCR-vl…"
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-04-20-text-to-dialogue|Text to Dialogue]]'
 - '[[Changes/Open WebUI/2026-04-21-3-files-and-data-changes-in-v0-9-0|3 Files and
   Data changes in v0.9.0]]'
+- '[[Changes/AnythingLLM/2026-04-22-4-files-and-data-changes-in-v1-12-1|4 Files and
+  Data changes in v1.12.1]]'
 - '[[Changes/Codex CLI/2026-04-23-18423-chore-document-intentional-await-holding-cases-bolinfest|♯18423
   chore: document intentional await-holding cases @bolinfest]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-04-24-v0-9-2-github-313142735-f0842502|open-webui-2026-04-24-v0-9-2-github-313142735-f0842502]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 76ebc6737cac7a042a5a5f9db51cf5732014be05a3ad22a7afd9a33aec47e7da
+machine_hash: b0b04699be9f2e38fd678f2b63387ea93b4a04d5919e025020d5d28f416beac7
 product: descript
 product_name: Descript
 record:
@@ -45,8 +45,7 @@ record:
   title: Re-size Tutorial Videos
   type: change
 related_changes:
-- '[[Changes/Descript/2021-06-15-we-ve-added-the-ability-to-auto-level-https-help-descript-com-hc-en-us-articles|Auto-leveling
-  for multi-clip selection]]'
+- '[[Changes/Raycast/2021-06-16-file-search|File Search]]'
 - '[[Changes/Descript/2021-06-30-2-interface-experience-changes-in-version-17-release|2
   Interface Experience changes in Version 17 Release]]'
 - '[[Changes/Descript/2021-06-30-you-can-now-increase-decrease-the-size-of-text-controls-are-in-the-view-menu|Increase/decrease
@@ -80,7 +79,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2021-06-30 · Descript · [[Changes/Descript/2021-06-30-you-can-now-increase-decrease-the-size-of-text-controls-are-in-the-view-menu|Increase/decrease the size of text]]
-- Later: 2021-07-14 · Notion · [[Changes/Notion/2021-07-14-better-quote-blocks|Better quote blocks]]
+- Later: 2021-07-13 · Raycast · [[Changes/Raycast/2021-07-13-menu-items-search|Menu Items Search]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

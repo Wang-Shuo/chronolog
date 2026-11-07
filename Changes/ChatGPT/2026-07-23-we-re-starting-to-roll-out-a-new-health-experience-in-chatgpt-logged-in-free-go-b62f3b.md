@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: caa82dee6670a92649a183a3ec64118331cf4444c7129df58756ef348ef4e5d0
+machine_hash: 5a58ee6eec37ecf3a95e345389b009e28336934c8f389fbbb857435a988a4e54
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -97,7 +97,7 @@ type: change
 ## Nearby in Files and Data
 
 - Earlier: 2026-07-22 · Kimi Code · [[Changes/Kimi Code/2026-07-22-web-show-transparent-images-over-a-checkerboard-canvas|web: Show transparent images over a checkerboard canvas]]
-- Later: 2026-07-27 · Open WebUI · [[Changes/Open WebUI/2026-07-27-9-files-and-data-changes-in-v0-11-0|9 Files and Data changes in v0.11.0]]
+- Later: 2026-07-23 · Recraft · [[Changes/Recraft/2026-07-23-refine-paths-directly-on-the-canvas|Refine paths directly on the canvas]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

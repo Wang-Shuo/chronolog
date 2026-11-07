@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 16224c5fb44343b9756d56f88d2690589cadcf6982ad1b92eef1f33f2b05ce47
+machine_hash: 587bb020b70d60343e05e83ddbc10501d5c1d84d6f43f79c342f699036b2f979
 product: dify
 product_name: Dify
 record:
@@ -86,7 +86,7 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2024-05-22 · Ollama · [[Changes/Ollama/2024-05-22-phi-3-mini-128k-https-ollama-com-library-phi3-mini-128k-and-phi-3-medium-128k-ht|Phi-3 Mini 128K((source link) and Phi-3 Medium…]]
-- Later: 2024-06-08 · Cursor · [[Changes/Cursor/2024-06-08-adds-context-pills-to-chat-messages-so-you-can-see-what-will-be-was-used-a324a3|Adds context pills to chat messages, so you can see what will be/was used]]
+- Later: 2024-05-29 · Devin · [[Changes/Devin/2024-05-29-knowledge|Knowledge]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

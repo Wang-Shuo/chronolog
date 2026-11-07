@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7bc225d542cc3a3c7c3a59faa26f934b70cb290b4ff71aca19b171fdbe0be871
+machine_hash: fdf1c07e0721d969db734835b16df869da09308e7793663eae21cdf16f980241
 product: openhands
 product_name: OpenHands
 record:
@@ -44,10 +44,10 @@ record:
   title: Addressed failure of Docker containers to start on Windows
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2025-03-24-core-app-signup-added-signup-endpoints-for-the-new-core-mobile-app|Core
-  app signup: Added signup endpoints for the new Core mobile app]]'
 - '[[Changes/Dify/2025-04-09-ui-ux-improvements-whether-it-s-fixing-layout-issues-on-mobile-thanks-leeeeeem-i|UI/UX
   Improvements: Whether it’s fixing layout issues on mobile…]]'
+- '[[Changes/Raycast/2025-04-09-macos-support-raycast-now-requires-macos-13-or-later-if-you-are-still-running-ma|macOS
+  Support: Raycast now requires macOS 13 or later]]'
 - '[[Changes/Descript/2025-04-10-updates-desktop-app-to-support-configuration-change|Updates
   desktop app to support configuration change]]'
 source_release: '[[Releases/OpenHands/openhands-2025-04-23-0-34-0-github-214259369-f2d174a1|openhands-2025-04-23-0-34-0-github-214259369-f2d174a1]]'

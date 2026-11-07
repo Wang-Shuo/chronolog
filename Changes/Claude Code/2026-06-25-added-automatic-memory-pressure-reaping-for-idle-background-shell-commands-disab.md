@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: aaded7d82e4c18bae364be8ced5d68800d8974965e68b29dfb76c994e4956d89
+machine_hash: 0eaba4d44128a66fe0a9cf71c06f74fe1c831c5f15490fd89e91d9a0521b0d18
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,12 @@ record:
   title: Added automatic memory-pressure reaping for idle background shell commands…
   type: change
 related_changes:
-- '[[Changes/Kimi Code/2026-06-22-speed-up-session-snapshot-loading-with-a-direct-disk-reader-and-a-request-timeou|Speed
-  up session snapshot loading with a direct disk reader and a request timeout…]]'
-- '[[Changes/GitHub Copilot CLI/2026-06-23-show-per-model-token-totals-in-usage-and-speed-up-large-history-scans|Show
-  per-model token totals in /usage and speed up large history scans]]'
 - '[[Changes/Claude Code/2026-06-24-reduced-long-session-memory-growth-from-terminal-output-cache|Reduced
   long-session memory growth from terminal output cache]]'
+- '[[Changes/Raycast/2026-06-24-ui-improved-performance-of-hover-state-in-list-views|UI
+  : Improved performance of hover state in list views]]'
+- '[[Changes/Raycast/2026-06-24-ui-improved-performance-of-hover-state-in-list-views-42bb61|UI
+  : Improved performance of hover state in list views]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-25-v2-1-193-github-344922230-0655000d|claude-code-2026-06-25-v2-1-193-github-344922230-0655000d]]'
 source_type: github_releases
 theme: reliability-performance
@@ -83,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-06-24 · Claude Code · [[Changes/Claude Code/2026-06-24-reduced-long-session-memory-growth-from-terminal-output-cache|Reduced long-session memory growth from terminal output cache]]
+- Earlier: 2026-06-24 · Raycast · [[Changes/Raycast/2026-06-24-ui-improved-performance-of-hover-state-in-list-views-42bb61|UI : Improved performance of hover state in list views]]
 - Later: 2026-06-25 · Codex CLI · [[Changes/Codex CLI/2026-06-25-apps-can-display-richer-safety-buffering-ui-using-server-provided-visibility-and|Apps can display richer safety-buffering UI using server-provided visibility…]]
 <!-- chronolog:end -->
 

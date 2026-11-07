@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3ca7faadf51827ebc6c58d27e804c3caf3f043a5c3fda53b6038a5eb6e9bd2b9
+machine_hash: 3cdf9eab5979aca60fd76d32188d47940371b7361a2827810d5b4740502fc68a
 product: open-webui
 product_name: Open WebUI
 record:
@@ -46,10 +46,10 @@ record:
   title: 2 Reliability and Performance changes in v0.3.11
   type: change
 related_changes:
-- '[[Changes/Aider/2024-07-31-improved-performance-of-lint-on-all-dirty-files-in-repo|Improved
-  performance of --lint on all dirty files in repo]]'
 - '[[Changes/OpenHands/2024-08-01-runtime-reduce-dependency-to-speed-up-ci-and-reduce-image-size-by-xingyaoww-in-h|Runtime
   Reduce dependency to speed up CI and reduce image size]]'
+- '[[Changes/AnythingLLM/2024-08-02-ollama-performance-mode-option-by-shatfield4-in-https-github-com-mintplex-labs-a|Ollama
+  performance mode option]]'
 - '[[Changes/Cursor/2024-08-02-faster-cursor-tab-suggestions|Faster Cursor Tab Suggestions!]]'
 source_release: '[[Releases/Open WebUI/open-webui-2024-08-02-v0-3-11-github-168514684-1f88ba87|open-webui-2024-08-02-v0-3-11-github-168514684-1f88ba87]]'
 source_type: github_releases

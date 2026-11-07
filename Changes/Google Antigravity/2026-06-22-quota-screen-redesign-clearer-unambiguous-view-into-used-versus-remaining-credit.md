@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: policy
-machine_hash: 3782ea173fe40f23da71ee91ef7ac4a6999ac554de316fe73b307d4be4e3eec6
+machine_hash: b539d97a042085fc5595d3fbd88d76f830ee7a88188bd496fdba79ea8f6e7329
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -54,10 +54,10 @@ record:
   title: Quota screen redesign
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-06-18-one-credit-balance-and-clearer-usage-insights|One
-  credit balance and clearer usage insights]]'
 - '[[Changes/Lovable/2026-06-18-ask-lovable-about-your-workspace-s-credit-usage|Ask
   Lovable about your workspace’s credit usage]]'
+- '[[Changes/Recraft/2026-06-20-we-ve-lowered-api-pricing-across-the-recraft-v4-1-model-family|Lower
+  API pricing for Recraft V4.1 models]]'
 - '[[Changes/Codex CLI/2026-06-22-usage-can-now-show-and-redeem-earned-usage-limit-reset-credits-with-confirmation|/usage
   can now show and redeem earned usage-limit reset credits…]]'
 source_release: '[[Releases/Google Antigravity/google-antigravity-2026-06-22-rel-ide-2-1-1-6777845b|google-antigravity-2026-06-22-rel-ide-2-1-1-6777845b]]'

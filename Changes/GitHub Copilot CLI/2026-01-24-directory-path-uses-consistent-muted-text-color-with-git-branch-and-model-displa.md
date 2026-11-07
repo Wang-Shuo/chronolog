@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: e3a3f307c6668f0a352c5d24895693c583d447e123f72b4d921289e3e55ddb07
+machine_hash: 7299d22b28f7ff4f78b267783ce8c71a6bebe1bd472e7f6665d9f7dd10c3f668
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,12 +45,11 @@ record:
     display
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-01-22-add-models-as-alias-for-model-command|Add
-  /models as alias for /model command]]'
-- '[[Changes/Cline/2026-01-23-removed-grok-model-from-free-tier|Removed grok model
-  from free tier]]'
-- '[[Changes/OpenCode/2026-01-23-core-added-support-for-openai-based-gitlab-duo-models|Core
-  Added support for OpenAI-based GitLab Duo models]]'
+- '[[Changes/Raycast/2026-01-23-ai-more-reliable-model-for-chat-summary-titles|AI:
+  More reliable model for chat summary titles]]'
+- '[[Changes/Superwhisper/2026-01-23-new-remote-cloud-models|New Remote Cloud Models]]'
+- '[[Changes/Superwhisper/2026-01-23-added-skip-button-to-onboarding-model-download-screen|Added
+  skip button to onboarding model download screen]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-01-24-v0-0-394-github-279572493-a58f0a39|github-copilot-cli-2026-01-24-v0-0-394-github-279572493-a58f0a39]]'
 source_type: github_releases
 theme: model-support
@@ -85,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-01-23 · OpenCode · [[Changes/OpenCode/2026-01-23-core-added-support-for-openai-based-gitlab-duo-models|Core Added support for OpenAI-based GitLab Duo models]]
+- Earlier: 2026-01-23 · Superwhisper · [[Changes/Superwhisper/2026-01-23-added-skip-button-to-onboarding-model-download-screen|Added skip button to onboarding model download screen]]
 - Later: 2026-01-25 · Codex CLI · [[Changes/Codex CLI/2026-01-25-5-model-support-changes-in-rust-v0-90-0|5 Model Support changes in rust-v0.90.0]]
 <!-- chronolog:end -->
 

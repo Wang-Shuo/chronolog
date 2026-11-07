@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d6e2c4e07f5b839ad2be193ce7c20e326e78ea96926a3ae7b806e1b84c2b489a
+machine_hash: 92a3f39fd3199b2bbc34ce799bd4ac5210472f1dea2e710a32dcc426e0f744da
 product: claude-code
 product_name: Claude Code
 record:
@@ -59,12 +59,12 @@ record:
     MCP…
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-02-12-desktop-normalize-oauth-error-messages|Desktop Normalize
-  OAuth error messages]]'
 - '[[Changes/Claude Code/2026-02-13-added-claude-auth-login-claude-auth-status-and-claude-auth-logout-cli-subcommand|Added
   claude auth login, claude auth status, and claude auth logout CLI subcommands]]'
 - "[[Changes/Open WebUI/2026-02-16-oauth-session-error-handling-corrupted-oauth-sessions-are-now-gracefully-handled|\U0001F510
   OAuth session error handling. Corrupted OAuth sessions are now gracefully…]]"
+- '[[Changes/AnythingLLM/2026-02-18-new-login-page-ui-by-shatfield4-in-https-github-com-mintplex-labs-anything-llm-p|New
+  login page UI]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-19-v2-1-49-github-288498923-7c27a140|claude-code-2026-02-19-v2-1-49-github-288498923-7c27a140]]'
 source_type: github_releases
 theme: account-access
@@ -97,7 +97,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-02-16 · Open WebUI · [[Changes/Open WebUI/2026-02-16-oauth-session-error-handling-corrupted-oauth-sessions-are-now-gracefully-handled|🔐 OAuth session error handling. Corrupted OAuth sessions are now gracefully…]]
+- Earlier: 2026-02-18 · AnythingLLM · [[Changes/AnythingLLM/2026-02-18-new-login-page-ui-by-shatfield4-in-https-github-com-mintplex-labs-anything-llm-p|New login page UI]]
 - Later: 2026-02-19 · OpenCode · [[Changes/OpenCode/2026-02-19-3-account-and-access-changes-in-v1-2-7|3 Account and Access changes in v1.2.7]]
 <!-- chronolog:end -->
 

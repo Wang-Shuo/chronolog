@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 58270d30c614a8726f4318123e930002e9b59e4acf8c6515e2cffb3cc188d6e6
+machine_hash: 33c688b06057ff782d27fa8b90d531e9a17721bbc770dd135caaa39f2eac8420
 product: dify
 product_name: Dify
 record:
@@ -43,12 +43,12 @@ record:
   title: 2 Developer Workflow changes in 0.10.1
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-10-09-using-cursor-with-wsl-should-now-be-more-stable|Using
-  cursor . with WSL should now be more stable]]'
 - '[[Changes/Dify/2024-10-14-2-developer-workflow-changes-in-0-9-2|2 Developer Workflow
   changes in 0.9.2]]'
 - '[[Changes/Dify/2024-10-21-stop-the-service-command-please-execute-in-the-docker-directory|Stop
   the service，Command, please execute in the docker directory]]'
+- '[[Changes/LM Studio/2024-10-22-2-developer-workflow-changes-in-lm-studio-0-3-5|2
+  Developer Workflow changes in LM Studio 0.3.5]]'
 source_release: '[[Releases/Dify/dify-2024-10-23-0-10-1-github-181515566-42cf5148|dify-2024-10-23-0-10-1-github-181515566-42cf5148]]'
 source_type: github_releases
 theme: developer-workflow
@@ -89,7 +89,7 @@ Source: https://github.com/langgenius/dify/releases/tag/0.10.1
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2024-10-21 · Dify · [[Changes/Dify/2024-10-21-stop-the-service-command-please-execute-in-the-docker-directory|Stop the service，Command, please execute in the docker directory]]
+- Earlier: 2024-10-22 · LM Studio · [[Changes/LM Studio/2024-10-22-2-developer-workflow-changes-in-lm-studio-0-3-5|2 Developer Workflow changes in LM Studio 0.3.5]]
 - Later: 2024-10-28 · Dify · [[Changes/Dify/2024-10-28-stop-the-service-command-please-execute-in-the-docker-directory|Stop the service，Command, please execute in the docker directory]]
 <!-- chronolog:end -->
 

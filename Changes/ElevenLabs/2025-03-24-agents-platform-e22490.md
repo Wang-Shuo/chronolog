@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 9c6434e43a4369b8f812a881a846a6f969a10d0781f3c1f283114940ad58f069
+machine_hash: 3d810688180e887f587ef68c5c0bbbc54dadc790b42475377a592d7b792f699d
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -105,7 +105,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2025-03-23 · Cursor · [[Changes/Cursor/2025-03-23-built-in-modes-custom-modes-beta|Built-in modes & custom modes (beta)]]
-- Later: 2025-03-28 · Replit · [[Changes/Replit/2025-03-28-agent-v2-is-now-available|Agent v2 is now available]]
+- Later: 2025-03-27 · AnythingLLM · [[Changes/AnythingLLM/2025-03-27-enable-use-of-agent-in-slash-commands-by-shatfield4-in-https-github-com-mintplex|Enable use of @agent in slash commands]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

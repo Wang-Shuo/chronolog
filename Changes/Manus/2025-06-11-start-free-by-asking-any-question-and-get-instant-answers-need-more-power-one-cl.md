@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: e596078a4a49a467c8984d4afb1d8717d408fc620892fc838030b8027404a95e
+machine_hash: 37f2dd2afed0b7f9b31eb793be2e5f63feb8dbf67ec44f219fa5c65669892da7
 product: manus
 product_name: Manus
 record:
@@ -48,7 +48,8 @@ record:
   title: Introducing Manus FREE Chat Mode!
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2025-06-08-agents-platform-ce4a03|Agents Platform]]'
+- '[[Changes/AnythingLLM/2025-06-10-4-agent-mode-changes-in-v1-8-2|4 Agent Mode changes
+  in v1.8.2]]'
 - '[[Changes/OpenHands/2025-06-10-ensured-prs-opened-by-agent-is-properly-tracked-in-conversation-metadata-by-malh|Ensured
   PRs opened by agent is properly tracked in conversation metadata]]'
 - '[[Changes/Dify/2025-06-11-4-agent-mode-changes-in-1-4-2|4 Agent Mode changes in

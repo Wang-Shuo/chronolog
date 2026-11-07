@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 4e00dc0ef8518c7793213d1d04866bac5cf4a1217210a1ea0cd350ba71826363
+machine_hash: 052cc53653ac0344c825c9ae43eb79a4db74e39ad86495ce83238144d05654aa
 product: microsoft-365-copilot
 product_name: Microsoft 365 Copilot
 record:
@@ -43,12 +43,12 @@ record:
   title: Admins can manage access more precisely with support for nested permissions…
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-07-14-emails-and-confirmations-for-workspace-role-and-membership-changes|Emails
-  and confirmations for workspace role and membership changes]]'
-- '[[Changes/Lovable/2026-07-14-the-lovable-badge-returns-on-your-next-publish-after-a-downgrade|The
-  Lovable badge returns on your next publish after a downgrade]]'
 - '[[Changes/Claude Code/2026-07-15-changed-usage-credits-to-ask-for-confirmation-before-sending-a-request-to-organi|Changed
   /usage-credits to ask for confirmation before sending a request…]]'
+- '[[Changes/Devin/2026-07-15-promote-playbooks-to-your-enterprise|Promote Playbooks
+  to Your Enterprise]]'
+- '[[Changes/Devin/2026-07-15-interactive-acu-chart-legends|Interactive ACU Chart
+  Legends]]'
 source_release: '[[Releases/Microsoft 365 Copilot/microsoft-365-copilot-2026-07-15-2026-07-15-41bc4811|microsoft-365-copilot-2026-07-15-2026-07-15-41bc4811]]'
 source_type: m365_copilot_changelog
 theme: enterprise-admin
@@ -82,7 +82,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-07-15 · Claude Code · [[Changes/Claude Code/2026-07-15-changed-usage-credits-to-ask-for-confirmation-before-sending-a-request-to-organi|Changed /usage-credits to ask for confirmation before sending a request…]]
+- Earlier: 2026-07-15 · Devin · [[Changes/Devin/2026-07-15-interactive-acu-chart-legends|Interactive ACU Chart Legends]]
 - Later: 2026-07-17 · Dify · [[Changes/Dify/2026-07-17-2-enterprise-and-administration-changes-in-1-16-0|2 Enterprise and Administration changes in 1.16.0]]
 <!-- chronolog:end -->
 

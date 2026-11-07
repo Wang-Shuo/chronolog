@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4439438985ba82d23ab09b6d4c546ae82ed30c1c20943bca39eb9365e831f65a
+machine_hash: 25742dcc012def661bb9999ae62177ed20fc34499c18054c7c8b957e4a85a992
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -41,10 +41,9 @@ record:
   title: '#2528 Fix login for internal employees'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-08-20-9-account-and-access-changes-in-rust-v0-23-0|9 Account
-  and Access changes in rust-v0.23.0]]'
 - '[[Changes/Open WebUI/2025-08-21-3-account-and-access-changes-in-v0-6-23|3 Account
   and Access changes in v0.6.23]]'
+- '[[Changes/Devin/2025-08-22-figma-mcp-oauth-support|Figma MCP OAuth Support]]'
 - "[[Changes/Open WebUI/2025-08-22-redis-user-session-reliability-fixed-a-problem-affecting-the-saving-of-user-sess|\U0001F6E1️
   Redis User Session Reliability]]"
 source_release: '[[Releases/Codex CLI/codex-cli-2025-08-26-rust-v0-24-0-github-242647588-70fa432e|codex-cli-2025-08-26-rust-v0-24-0-github-242647588-70fa432e]]'

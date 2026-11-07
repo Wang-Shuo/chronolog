@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: bf8a093d11da456c3be9a793a30a94f55548c667e797d7da3f57fa339e7fde9a
+machine_hash: 591e216f3b8efed591dc027da2c8104259a3a23e2ec4e61087e5cbacc9ee2b07
 product: lovable
 product_name: Lovable
 record:
@@ -54,11 +54,11 @@ record:
   title: Contact Enterprise support from your project
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-18-remote-control-claude-rc-now-applies-the-same-enterprise-gateway-availability-ch|Remote
-  Control: claude rc now applies the same enterprise-gateway availability…]]'
 - '[[Changes/Replit/2026-08-21-teams-and-enterprise|Teams and Enterprise]]'
 - '[[Changes/Replit/2026-08-21-control-agent-models-across-workspaces|Control Agent
   models across Workspaces]]'
+- '[[Changes/Wispr Flow/2026-08-21-for-teams-enterprise-desktop|For Teams & Enterprise
+  (Desktop)]]'
 source_release: '[[Releases/Lovable/lovable-2026-08-24-2026-08-24-b7c01132|lovable-2026-08-24-2026-08-24-b7c01132]]'
 source_type: lovable_changelog
 theme: enterprise-admin
@@ -89,7 +89,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-08-21 · Replit · [[Changes/Replit/2026-08-21-control-agent-models-across-workspaces|Control Agent models across Workspaces]]
+- Earlier: 2026-08-21 · Wispr Flow · [[Changes/Wispr Flow/2026-08-21-for-teams-enterprise-desktop|For Teams & Enterprise (Desktop)]]
 - Later: 2026-08-24 · Runway · [[Changes/Runway/2026-08-24-org-admins-now-see-alerts-in-org-settings-when-workspaces-are-missing-sso-enforc|Org Config Alerts]]
 <!-- chronolog:end -->
 

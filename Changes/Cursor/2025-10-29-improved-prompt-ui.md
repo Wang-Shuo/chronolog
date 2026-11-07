@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f03fa2dfe019aabce992842e1bb2d51c73cc63c9cbc1ce14fce4fc815f6e5cbf
+machine_hash: 3ffa6c98a04b1d2d86e56e0f5dc80b86d42f80919622e495ea0724dacf47088a
 product: cursor
 product_name: Cursor
 record:
@@ -47,10 +47,9 @@ record:
   title: Improved Prompt UI
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-10-23-auto-compact-at-90-by-aibrahim-oai-in-https-github-com-openai-codex-pull-5292|Auto
-  compact at ~90%]]'
 - '[[Changes/Windsurf/2025-10-23-improvements-to-fast-context-enterprises-can-opt-in-using-the-windsurf-team-sett|Improvements
   to Fast Context]]'
+- '[[Changes/Devin/2025-10-24-pre-selected-user-roles|Pre-selected User Roles]]'
 - '[[Changes/GitHub Copilot CLI/2025-10-24-to-conserve-context-window-space-we-ve-limited-the-list-of-tools-available-to-th|To
   conserve context window space, we''ve limited the list of tools available…]]'
 source_release: '[[Releases/Cursor/cursor-2025-10-29-2-0-https-cursor-com-changelog-2-0-66a8e76e|cursor-2025-10-29-2-0-https-cursor-com-changelog-2-0-66a8e76e]]'

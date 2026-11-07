@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 0a18f8046d8dd0980ce5a71681472651abc2b11ccaafa1d796ab082df2477767
+machine_hash: 8bd17f237066df5b69e2224bec985e993b868a56e725bd2e15c8315b6e2ace67
 product: opencode
 product_name: OpenCode
 record:
@@ -57,8 +57,7 @@ record:
   title: Terminal Added a keybinding option for "Switch model variant"
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-08-2-interface-experience-changes-in-v2-1-97|2 Interface
-  Experience changes in v2.1.97]]'
+- '[[Changes/Devin/2026-04-08-refreshed-settings-layout|Refreshed Settings Layout]]'
 - '[[Changes/Gemini CLI/2026-04-08-refine-onboarding-metrics-to-log-the-duration-explicitly-and-use-the-tier-name-b|Refine
   onboarding metrics to log the duration explicitly and use the tier name]]'
 - '[[Changes/Notion/2026-04-08-keep-your-notifications-clean-by-muting-replies-to-discussions-you-no-longer-fin|Mute
@@ -99,7 +98,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-04-08 · Notion · [[Changes/Notion/2026-04-08-keep-your-notifications-clean-by-muting-replies-to-discussions-you-no-longer-fin|Mute discussion replies]]
-- Later: 2026-04-09 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-09-slash-command-picker-appears-above-the-text-input-for-a-more-stable-layout|Slash command picker appears above the text input for a more stable layout]]
+- Later: 2026-04-08 · Superwhisper · [[Changes/Superwhisper/2026-04-08-added-help-menu-with-quick-links-to-documentation-and-support|Added Help menu with quick links to documentation and support]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

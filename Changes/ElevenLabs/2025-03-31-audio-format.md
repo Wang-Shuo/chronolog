@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: a5cd5c2a6d524c5ab5ded341f993b262f6992fa2739ad298bb076331edcb09b7
+machine_hash: f625f7ffbae7d327f2a8604dadba1ad5b72b74cbe8bd1986a6e78559f04f9db1
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -68,9 +68,10 @@ record:
   title: Audio Format
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2025-03-24-speech-to-text-c41742|Speech to Text]]'
 - '[[Changes/ElevenLabs/2025-03-24-voices|Voices]]'
 - '[[Changes/ElevenLabs/2025-03-24-elevencreative-studio|ElevenCreative Studio]]'
+- '[[Changes/Raycast/2025-03-27-there-are-new-system-commands-for-controlling-audio-playback|There
+  are new system commands for controlling audio playback]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2025-03-31-2025-03-31-b6761e84|elevenlabs-2025-03-31-2025-03-31-b6761e84]]'
 source_type: elevenlabs_changelog
 theme: voice
@@ -120,7 +121,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2025-03-24 · ElevenLabs · [[Changes/ElevenLabs/2025-03-24-elevencreative-studio|ElevenCreative Studio]]
+- Earlier: 2025-03-27 · Raycast · [[Changes/Raycast/2025-03-27-there-are-new-system-commands-for-controlling-audio-playback|There are new system commands for controlling audio playback]]
 - Later: 2025-04-07 · ElevenLabs · [[Changes/ElevenLabs/2025-04-07-new-endpoints|New Endpoints]]
 <!-- chronolog:end -->
 

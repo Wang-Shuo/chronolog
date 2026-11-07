@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0836fbb77e7dd0db7c528d538eae33453256b615c381a10ecc34bd6af857edc6
+machine_hash: d6fd1d2fab07eb2b6da28f728c25b26c37d04c1ef1b13d5453695aaba54327b4
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -46,10 +46,9 @@ record:
   title: 2 Interface Experience changes in HUB v2.6.0 — Faster long conversations…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-07-improved-fullscreen-mode-to-keep-the-full-pre-compaction-history-in-scrollback-a|Improved
-  fullscreen mode to keep the full pre-compaction history in scrollback…]]'
 - '[[Changes/Codex CLI/2026-08-07-6-interface-experience-changes-in-rust-v0-147-0|6
   Interface Experience changes in rust-v0.147.0]]'
+- '[[Changes/Devin/2026-08-07-command-palette-improvements|Command Palette Improvements]]'
 - '[[Changes/Google Antigravity/2026-08-07-you-can-now-copy-an-image-to-your-clipboard-from-an-artifact-or-the-file-viewer|Copy
   an image to your clipboard from an artifact or the file viewer, using the menu…]]'
 source_release: '[[Releases/Google Antigravity/google-antigravity-2026-08-07-rel-hub-2-6-0-1cc55d28|google-antigravity-2026-08-07-rel-hub-2-6-0-1cc55d28]]'
@@ -92,7 +91,7 @@ Source: https://antigravity.google/releases?tab=hub&version=2.6.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-08-07 · Codex CLI · [[Changes/Codex CLI/2026-08-07-6-interface-experience-changes-in-rust-v0-147-0|6 Interface Experience changes in rust-v0.147.0]]
+- Earlier: 2026-08-07 · Devin · [[Changes/Devin/2026-08-07-command-palette-improvements|Command Palette Improvements]]
 - Later: 2026-08-07 · HeyGen · [[Changes/HeyGen/2026-08-07-avatar-management-identity-selection-redesign|Avatar management / identity-selection redesign]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 7616edc1d5645063a3eaa7bd41ac3201fae4fae79bcd8a195a3c786cdad80f23
+machine_hash: 9302389ed6be8049cbb64b5fd9c0dcbb870c7407b451312c9f4c2633b9b12778
 product: heygen
 product_name: HeyGen
 record:
@@ -51,10 +51,10 @@ record:
   title: A new Home experience
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-04-3-interface-experience-changes-in-v2-1-261|3 Interface
-  Experience changes in v2.1.261]]'
 - '[[Changes/Codex CLI/2026-09-04-42874-0-153-hotfix-show-astra-in-bundled-model-picker-rhan-oai|♯42874
   0.153 hotfix Show Astra in bundled model picker @rhan-oai]]'
+- '[[Changes/Devin/2026-09-04-lightbox-keyboard-navigation-and-mermaid-diagrams|Lightbox
+  Keyboard Navigation and Mermaid Diagrams]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-04-add-recent-created-name-and-classic-none-sorting-to-the-split-sessions-sidebar-w|Add
   Recent, Created, Name, and classic None sorting to the split Sessions sidebar…]]'
 source_release: '[[Releases/HeyGen/heygen-2026-09-04-https-heygen-noticeable-news-publications-september-2026-enterpr-39d060a6|heygen-2026-09-04-https-heygen-noticeable-news-publications-september-2026-enterpr-39d060a6]]'

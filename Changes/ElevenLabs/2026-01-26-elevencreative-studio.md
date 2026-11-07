@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 8ef965a7591a6c56d8d0538bf7c4912e2f1d7fa7f44148e348a44aa416ec55cc
+machine_hash: c621cfe2e171d6fa4a127790b5bb6ae9569287cb1eed71c0d3c249b5339f2acd
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -97,7 +97,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-01-25 · OpenCode · [[Changes/OpenCode/2026-01-25-desktop-fixed-crash-when-no-default-model-is-set|Desktop Fixed crash when no default model is set]]
-- Later: 2026-01-27 · Cline · [[Changes/Cline/2026-01-27-3-model-support-changes-in-v3-54-0|3 Model Support changes in v3.54.0]]
+- Later: 2026-01-26 · Superwhisper · [[Changes/Superwhisper/2026-01-26-api-models-fixed-groq-byok-and-custom-model-endpoint-issues|API & Models: Fixed Groq BYOK and custom model endpoint issues]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

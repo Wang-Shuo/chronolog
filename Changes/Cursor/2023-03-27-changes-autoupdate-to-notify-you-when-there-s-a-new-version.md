@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: fd7e1e68a271a84223c34ed03a27bd562b3f78698bd4d45114bdf81f9c5b3655
+machine_hash: 24399951a1c47c83841bb82509c0dae06156ad690dd5a304ef3d7d0e4b840086
 product: cursor
 product_name: Cursor
 record:
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2023-03-23 · Cursor · [[Changes/Cursor/2023-03-23-3-interface-experience-changes-in-0-1-5|3 Interface Experience changes in 0.1.5]]
-- Later: 2023-03-30 · Cursor · [[Changes/Cursor/2023-03-30-cleaned-up-chat-styling|Cleaned up chat styling]]
+- Later: 2023-03-29 · Raycast · [[Changes/Raycast/2023-03-29-quick-paste-insert|Quick Paste/Insert]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9dc6f213ea906de21d977cc65eb83b058e2d85e809f31e1390fca46376f53581
+machine_hash: baf15de0a720495c4ec288108dc007de43e12e4bdb9e9e715df5ab888b94fb05
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -81,10 +81,10 @@ record:
   title: File Library in ChatGPT
   type: change
 related_changes:
-- '[[Changes/Dify/2026-03-17-test-add-integration-tests-for-app-card-operations-list-browsing-and-create-app|test:
-  add integration tests for app card operations, list browsing, and create app flows]]'
 - '[[Changes/Ollama/2026-03-17-3-search-and-browsing-changes-in-v0-18-1|3 Search and
   Browsing changes in v0.18.1]]'
+- '[[Changes/AnythingLLM/2026-03-18-3-search-and-browsing-changes-in-v1-11-2|3 Search
+  and Browsing changes in v1.11.2]]'
 - '[[Changes/ChatGPT/2026-03-19-the-legacy-deep-research-mode-will-be-removed-on-thursday-march-26-2026-this-cha|Legacy
   deep research mode deprecation notice]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-03-23-file-library-in-chatgpt-7107c619|chatgpt-2026-03-23-file-library-in-chatgpt-7107c619]]'

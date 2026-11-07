@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: c0242ee196396de8065cf24af02f6ab0cddc2ed7599045d90c60ce546fbb1b96
+machine_hash: 1474c374ecf8a8f3c48a599c01cc4766e64498aacf955ab60130b1c2dd6087ba
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,8 +44,7 @@ record:
   title: '#29022 [codex] Support protected resource OAuth discovery @xl-openai'
   type: change
 related_changes:
-- '[[Changes/Kimi Code/2026-06-18-redesign-the-web-oauth-login-dialog-so-the-order-of-steps-is-unambiguous|Redesign
-  the web OAuth login dialog so the order of steps is unambiguous]]'
+- '[[Changes/Devin/2026-06-19-gitlab-user-identity-linking|GitLab User Identity Linking]]'
 - '[[Changes/v0/2026-06-19-anonymous-users-opening-a-shared-or-public-chat-are-no-longer-redirected-to-sign|Anonymous
   users opening a shared or public chat are no longer redirected to sign…]]'
 - '[[Changes/Claude Code/2026-06-22-2-account-and-access-changes-in-v2-1-186|2 Account

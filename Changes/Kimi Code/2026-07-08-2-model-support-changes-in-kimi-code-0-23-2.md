@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3302f2ab35ad17196b830885efe76f705555b609c32a9b37d9940480bd6ac3e0
+machine_hash: 0260a6a06c4e52f00b87fec2746bf098861ca753783e5d9284ca0ffabbed5906
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -44,8 +44,8 @@ record:
   title: 2 Model Support changes in Kimi Code 0.23.2
   type: change
 related_changes:
-- '[[Changes/Kimi Code/2026-07-07-2-model-support-changes-in-kimi-code-0-23-1|2 Model
-  Support changes in Kimi Code 0.23.1]]'
+- '[[Changes/LM Studio/2026-07-07-add-reasoning-to-lms-chat|Add /reasoning to lms
+  chat]]'
 - '[[Changes/Lovable/2026-07-07-nano-banana-2-lite-image-model-for-ai-features-in-your-app|Nano
   Banana 2 Lite image model for AI features in your app]]'
 - '[[Changes/Codex CLI/2026-07-08-14-model-support-changes-in-rust-v0-143-0|14 Model

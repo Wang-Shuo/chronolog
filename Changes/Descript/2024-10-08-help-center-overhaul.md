@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 8a931ef4a4cfb8382a6324f7d8bb04e2c095bc9ef252747bdc19e2dfbe38dce2
+machine_hash: 549373fb4df28c7ab42a66b3f4b4635ee2e47b121824a1413431a67b186deae2
 product: descript
 product_name: Descript
 record:
@@ -60,12 +60,12 @@ record:
   title: Help center overhaul
   type: change
 related_changes:
-- '[[Changes/Notion/2024-09-25-helps-with-questions-about-notion|Helps with questions
-  about Notion]]'
 - "[[Changes/Open WebUI/2024-09-25-katex-rendering-improvement-resolved-specific-corner-cases-in-katex-rendering-to|\U0001F527
   KaTeX Rendering Improvement]]"
 - '[[Changes/Aider/2024-09-29-new-settings-for-completion-menu-colors|New settings
   for completion menu colors]]'
+- '[[Changes/AnythingLLM/2024-10-03-export-embedded-chat-history-by-shatfield4-in-https-github-com-mintplex-labs-any|Export
+  embedded chat history]]'
 source_release: '[[Releases/Descript/descript-2024-10-08-670564dc958faa93e6166a33-dd601db4|descript-2024-10-08-670564dc958faa93e6166a33-dd601db4]]'
 source_type: canny_changelog
 theme: interface-experience
@@ -111,7 +111,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2024-09-29 · Aider · [[Changes/Aider/2024-09-29-new-settings-for-completion-menu-colors|New settings for completion menu colors]]
+- Earlier: 2024-10-03 · AnythingLLM · [[Changes/AnythingLLM/2024-10-03-export-embedded-chat-history-by-shatfield4-in-https-github-com-mintplex-labs-any|Export embedded chat history]]
 - Later: 2024-10-10 · Descript · [[Changes/Descript/2024-10-10-updated-wording-on-mic-mute-tooltip-to-provide-clearer-instructions|Updated wording on Mic mute tooltip to provide clearer instructions]]
 <!-- chronolog:end -->
 

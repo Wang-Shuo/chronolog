@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 92c8b8f70752421072a831f73efc94ade4e32ab059aab9aec07a91ad838c50fc
+machine_hash: e8887affa02e07bb8ad8c95687e670b499711363d976eba1afc22351243a532e
 product: cursor
 product_name: Cursor
 record:
@@ -49,10 +49,10 @@ record:
   title: Plan mode improvements in CLI
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-02-17-3-interface-experience-changes-in-2-5|3 Interface Experience
-  changes in 2.5]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-17-4-interface-experience-changes-in-v0-0-411|4
   Interface Experience changes in v0.0.411]]'
+- '[[Changes/AnythingLLM/2026-02-18-2-interface-experience-changes-in-v1-11-0|2 Interface
+  Experience changes in v1.11.0]]'
 - '[[Changes/Claude Code/2026-02-18-3-interface-experience-changes-in-v2-1-47|3 Interface
   Experience changes in v2.1.47]]'
 source_release: '[[Releases/Cursor/cursor-2026-02-18-cli-improvements-and-mermaid-ascii-diagrams-https-cursor-com-cha-a75d36c7|cursor-2026-02-18-cli-improvements-and-mermaid-ascii-diagrams-https-cursor-com-cha-a75d36c7]]'

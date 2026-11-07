@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 60b43d898d7953f4a293666f8b726f1af5fe6bcad426516e90769234b090c6c0
+machine_hash: 1ed34036ab3f5d6f7ce390ac83e2b5ed56be6f09d6a96ea71ccdfb2f9dddbeb2
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,9 @@ record:
   title: 2 Editor Experience changes in v2.1.316
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-10-29-unified-quotes-and-annotations|Unified Quotes and
-  Annotations]]'
-- '[[Changes/Claude Code/2026-10-30-2-editor-experience-changes-in-v2-1-314|2 Editor
-  Experience changes in v2.1.314]]'
+- '[[Changes/Devin/2026-10-30-rendered-previews-for-markdown-and-patch-files-from-devin-s-machine|Rendered
+  Previews for Markdown and Patch Files from Devin''s Machine]]'
+- '[[Changes/Devin/2026-10-30-files-tab-improvements|Files Tab Improvements]]'
 - '[[Changes/OpenCode/2026-10-30-core-when-edit-can-t-find-oldstring-the-error-shows-the-file-s-closest-lines-or|Core
   When edit can''t find oldString , the error shows the file''s closest lines…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-31-v2-1-316-github-429617179-a30f32c9|claude-code-2026-10-31-v2-1-316-github-429617179-a30f32c9]]'
@@ -91,7 +90,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.316
 ## Nearby in Editor Experience
 
 - Earlier: 2026-10-30 · OpenCode · [[Changes/OpenCode/2026-10-30-core-when-edit-can-t-find-oldstring-the-error-shows-the-file-s-closest-lines-or|Core When edit can't find oldString , the error shows the file's closest lines…]]
-- Later: 2026-11-02 · ElevenLabs · [[Changes/ElevenLabs/2026-11-02-svg-assets-svg-uploads-to-assets-stay-svg-and-render-as-vectors-including-in-the|SVG assets: SVG uploads to Assets stay SVG and render as vectors, including…]]
+- Later: 2026-11-02 · Devin · [[Changes/Devin/2026-11-02-findings-improvements|Findings Improvements]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9e8a3b3fc50f0b38cdfdf1de06dd48d90c39c674f4b75c29311d3225561bbea1
+machine_hash: 970cb8e409c4bf5dae3bafa6a8b537e019323302bf0c28449c10959a871215de
 product: open-webui
 product_name: Open WebUI
 record:
@@ -50,12 +50,11 @@ record:
   title: 2 Developer Workflow changes in v0.8.1
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-02-12-2-developer-workflow-changes-in-v1-1-64-1|2 Developer
-  Workflow changes in v1.1.64 + 1]]'
-- '[[Changes/OpenCode/2026-02-12-2-developer-workflow-changes-in-v1-1-60|2 Developer
-  Workflow changes in v1.1.60]]'
+- '[[Changes/Devin/2026-02-13-devin-review-batch-comments|Devin Review: Batch Comments]]'
 - '[[Changes/OpenCode/2026-02-13-core-remove-worktree-delete-functionality|Core Remove
   worktree delete functionality]]'
+- '[[Changes/Raycast/2026-02-13-quickly-create-a-new-script-with-create-script-command-or-import-existing-script|Quickly
+  create a new script with Create Script Command or import existing scripts…]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-02-14-v0-8-1-github-286288526-aa333d77|open-webui-2026-02-14-v0-8-1-github-286288526-aa333d77]]'
 source_type: github_releases
 theme: developer-workflow
@@ -96,7 +95,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.8.1
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-02-13 · OpenCode · [[Changes/OpenCode/2026-02-13-core-remove-worktree-delete-functionality|Core Remove worktree delete functionality]]
+- Earlier: 2026-02-13 · Raycast · [[Changes/Raycast/2026-02-13-quickly-create-a-new-script-with-create-script-command-or-import-existing-script|Quickly create a new script with Create Script Command or import existing scripts…]]
 - Later: 2026-02-14 · OpenCode · [[Changes/OpenCode/2026-02-14-3-developer-workflow-changes-in-v1-2-0|3 Developer Workflow changes in v1.2.0]]
 <!-- chronolog:end -->
 

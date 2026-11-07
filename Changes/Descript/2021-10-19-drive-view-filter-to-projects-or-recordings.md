@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: a89065d72d08c9e7b4f56659a3e78b731a96583713710fc9b460ba2eeb78e9b6
+machine_hash: 0489a67312ed20422c540588f2cb30b5e929bff03dad0948aa196544744a02b8
 product: descript
 product_name: Descript
 record:
@@ -47,8 +47,8 @@ record:
   title: 'Drive View: filter to projects or recordings'
   type: change
 related_changes:
-- '[[Changes/Notion/2021-09-08-better-url-properties-in-databases|Better URL properties
-  in databases]]'
+- '[[Changes/Raycast/2021-09-10-scripts-invalid-script-encoding-is-now-detected-by-raycast-letting-the-user-re-e|Scripts
+  : Invalid script encoding is now detected by Raycast, letting the user…]]'
 - '[[Changes/Descript/2021-09-21-word-gap-toolbar-control|Word Gap toolbar control]]'
 - '[[Changes/Descript/2021-10-07-editor-improvements|Editor improvements]]'
 source_release: '[[Releases/Descript/descript-2021-10-19-6390c9d24a4a0d64fa5647bc-720144c3|descript-2021-10-19-6390c9d24a4a0d64fa5647bc-720144c3]]'

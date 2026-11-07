@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a0b26d44c1cd8557f5fbb8bf773f748f9edec3de786edeaaa9a26924f420df43
+machine_hash: 58bade82a4de069be8540bc674b645a85b4e7dfde5e490edb4135ae61ffc34fa
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -91,7 +91,7 @@ type: change
 ## Nearby in Multimodal Input
 
 - Earlier: 2026-06-18 · Runway · [[Changes/Runway/2026-06-18-trim-stitch-reorder-and-export-a-final-video-all-in-one-place|Studio]]
-- Later: 2026-06-29 · Kimi Code · [[Changes/Kimi Code/2026-06-29-support-the-anthropic-compatible-protocol-for-kimi-code-including-video-input|Support the Anthropic-compatible protocol for Kimi Code, including video input]]
+- Later: 2026-06-25 · AnythingLLM · [[Changes/AnythingLLM/2026-06-25-3-multimodal-input-changes-in-v1-15-0|3 Multimodal Input changes in v1.15.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

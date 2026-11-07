@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9e2b956e974af268c0e7bc71771ca9843efea38eecfa516f7d5f52a05fc05969
+machine_hash: 6c96039ccfb556566f664cb1a4fec5c0d2f32642dd55e7b911e161a6f97322ad
 product: cline
 product_name: Cline
 record:
@@ -44,10 +44,10 @@ record:
   title: 3 Model Support changes in v3.74.0
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-03-18-we-re-rolling-out-gpt-5-4-mini-in-chatgpt-gpt-5-4-mini-is-available-to-free-and|GPT-5.4
-  mini in ChatGPT]]'
-- '[[Changes/Dify/2026-03-18-llm-related-nodes-including-llm-and-question-classifier|LLM-related
-  nodes, including LLM and Question Classifier]]'
+- '[[Changes/LM Studio/2026-03-18-3-model-support-changes-in-lm-studio-0-4-7|3 Model
+  Support changes in LM Studio 0.4.7]]'
+- '[[Changes/LM Studio/2026-03-18-new-default-separate-reasoning-content-and-content-in-api-responses-is-now-on-by|New
+  default: "separate reasoning_content and content in API responses" is now…]]'
 - '[[Changes/Claude Code/2026-03-19-added-effort-frontmatter-support-for-skills-and-slash-commands-to-override-the-m|Added
   effort frontmatter support for skills and slash commands to override…]]'
 source_release: '[[Releases/Cline/cline-2026-03-19-v3-74-0-github-298757168-70068641|cline-2026-03-19-v3-74-0-github-298757168-70068641]]'

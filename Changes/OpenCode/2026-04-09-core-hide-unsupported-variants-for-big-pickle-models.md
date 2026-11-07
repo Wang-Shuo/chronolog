@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 806f5d5f6a1afe79cbf5d969e1d9b02d17423fe60ea9d069d151c44399314261
+machine_hash: f19168cd300744adc83a1f5bd01f6770b8f7d39bf7f3aa5dc5e493bf6e0d7d7c
 product: opencode
 product_name: OpenCode
 record:
@@ -41,8 +41,8 @@ record:
   title: Core Hide unsupported variants for Big Pickle models
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-04-08-core-kept-model-variants-scoped-to-the-selected-model|Core
-  Kept model variants scoped to the selected model]]'
+- '[[Changes/Superwhisper/2026-04-08-redesigned-model-library-with-improved-table-layout-and-chip-colors|Redesigned
+  model library with improved table layout and chip colors]]'
 - '[[Changes/Windsurf/2026-04-08-adaptive-fix|Adaptive Fix]]'
 - '[[Changes/ChatGPT/2026-04-09-today-we-re-releasing-gpt-5-3-instant-mini-in-chatgpt-it-replaces-gpt-5-instant|GPT-5.3
   Instant mini in ChatGPT]]'

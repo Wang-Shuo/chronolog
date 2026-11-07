@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: fa74e4ce54f3a79a0527c98f294289e0869eda829fdc2d514ab39e88cf2e2864
+machine_hash: 442b13d0c7bb7a6274d6692919a0318e563b080dccb19b450330ce90d1fe35b6
 product: dify
 product_name: Dify
 record:
@@ -46,12 +46,12 @@ record:
   title: 4 Files and Data changes in 0.3.15
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code
-  interpreter is now rolling out in beta on web]]'
 - '[[Changes/Dify/2023-07-17-add-document-limit-check-by-johnjyong-in-https-github-com-langgenius-dify-pull-5|add
   document limit check]]'
 - '[[Changes/Descript/2023-07-24-canvas-layer-order-hiding-layers|Canvas layer order
   & hiding layers]]'
+- '[[Changes/Superwhisper/2023-08-12-recordings-now-stored-within-superwhisper-directory-in-documents-not-synced-to-i|Recordings
+  now stored within superwhisper directory in Documents, not synced to iCloud]]'
 source_release: '[[Releases/Dify/dify-2023-08-23-0-3-15-github-118361476-4ef25097|dify-2023-08-23-0-3-15-github-118361476-4ef25097]]'
 source_type: github_releases
 theme: file-data
@@ -91,7 +91,7 @@ Source: https://github.com/langgenius/dify/releases/tag/0.3.15
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2023-07-24 · Descript · [[Changes/Descript/2023-07-24-canvas-layer-order-hiding-layers|Canvas layer order & hiding layers]]
+- Earlier: 2023-08-12 · Superwhisper · [[Changes/Superwhisper/2023-08-12-recordings-now-stored-within-superwhisper-directory-in-documents-not-synced-to-i|Recordings now stored within superwhisper directory in Documents, not synced to iCloud]]
 - Later: 2023-08-31 · Dify · [[Changes/Dify/2023-08-31-document-limit-by-johnjyong-in-https-github-com-langgenius-dify-pull-999|document limit]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 458f629b55e3da3823ebb7c51ab13406cc0a3dabc505a85ad2fe93815eab364e
+machine_hash: 59f1c42b10d916cbb9351f85704ce426b01f9b0303953c018bb74082c38f6ccc
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -62,12 +62,11 @@ record:
   title: 10 Model Support changes in rust-v0.128.0
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-04-28-2-model-support-changes-in-v1-14-29|2 Model Support
-  changes in v1.14.29]]'
-- '[[Changes/Dify/2026-04-29-27-model-support-changes-in-1-14-0|27 Model Support changes
-  in 1.14.0]]'
 - '[[Changes/OpenCode/2026-04-29-4-model-support-changes-in-v1-14-30|4 Model Support
   changes in v1.14.30]]'
+- '[[Changes/Superwhisper/2026-04-29-model-favorites-ui|Model favorites UI]]'
+- '[[Changes/Superwhisper/2026-04-29-added-support-for-byok-bring-your-own-keys-opus-4-6-and-4-7-models|Added
+  support for BYOK (bring your own keys) Opus 4.6 and 4.7 models]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-04-30-rust-v0-128-0-github-315916672-1708ab89|codex-cli-2026-04-30-rust-v0-128-0-github-315916672-1708ab89]]'
 source_type: github_releases
 theme: model-support
@@ -128,8 +127,8 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.128.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-04-29 · OpenCode · [[Changes/OpenCode/2026-04-29-4-model-support-changes-in-v1-14-30|4 Model Support changes in v1.14.30]]
-- Later: 2026-05-01 · Claude Code · [[Changes/Claude Code/2026-05-01-2-model-support-changes-in-v2-1-126|2 Model Support changes in v2.1.126]]
+- Earlier: 2026-04-29 · Superwhisper · [[Changes/Superwhisper/2026-04-29-added-support-for-byok-bring-your-own-keys-opus-4-6-and-4-7-models|Added support for BYOK (bring your own keys) Opus 4.6 and 4.7 models]]
+- Later: 2026-04-30 · Raycast · [[Changes/Raycast/2026-04-30-ai-search-models-in-model-sheet|AI: Search models in model sheet]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

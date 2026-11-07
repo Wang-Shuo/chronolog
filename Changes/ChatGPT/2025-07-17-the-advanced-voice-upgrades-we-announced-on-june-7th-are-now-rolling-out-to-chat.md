@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: expansion
-machine_hash: c24bf1f6c8bde8ab02ef9cda342de5ecc5919bec093aa2ce0b0c0584953eeb40
+machine_hash: a3e1d21e5a28e1f14f7b6a41edebdb776afd33417e0f57bcd91a669e4c2710d4
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -48,12 +48,12 @@ record:
   title: Updates to Advanced Voice Mode for Free tier users
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2025-07-14-audio-mime-type-registration-issues-with-audio-file-content-types-have-been-reso|\U0001F504
-  Audio MIME Type Registration]]"
-- '[[Changes/Descript/2025-07-15-ducking-is-now-lower-audio-of-other-layers|Ducking
-  is now “Lower audio of other layers”]]'
+- '[[Changes/AnythingLLM/2025-07-16-sanitize-youtube-transcription-file-paths-by-shatfield4-in-https-github-com-mint|Sanitize
+  youtube transcription file paths]]'
 - '[[Changes/ChatGPT/2025-07-16-record-live-conversations-like-team-meetings-or-voice-notes-and-turn-those-into|Record
   live conversations like team meetings or voice notes, and turn those…]]'
+- '[[Changes/Superwhisper/2025-07-16-new-audio-backend-device-switching|New Audio
+  Backend & Device Switching]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-07-17-updates-to-advanced-voice-mode-for-free-tier-users-eeba7562|chatgpt-2025-07-17-updates-to-advanced-voice-mode-for-free-tier-users-eeba7562]]'
 source_type: chatgpt_changelog
 theme: voice
@@ -80,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2025-07-16 · ChatGPT · [[Changes/ChatGPT/2025-07-16-record-live-conversations-like-team-meetings-or-voice-notes-and-turn-those-into|Record live conversations like team meetings or voice notes, and turn those…]]
+- Earlier: 2025-07-16 · Superwhisper · [[Changes/Superwhisper/2025-07-16-new-audio-backend-device-switching|New Audio Backend & Device Switching]]
 - Later: 2025-07-17 · Descript · [[Changes/Descript/2025-07-17-brand-studio-allows-you-to-view-your-drive-s-custom-fonts-for-use-in-layout-pack|Brand studio allows you to view your Drive's custom fonts for use in layout packs…]]
 <!-- chronolog:end -->
 

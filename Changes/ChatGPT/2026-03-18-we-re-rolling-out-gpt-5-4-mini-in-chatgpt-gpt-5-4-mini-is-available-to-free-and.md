@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: d49fde1499b2013f4207897abed272dc9f62a0609c9e31c00f223edf5f9fb351
+machine_hash: d6f833516e2739029b7103171e204555b1647017e2c229c1d354f3bfcaec07e7
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -71,11 +71,12 @@ record:
   title: GPT-5.4 mini in ChatGPT
   type: change
 related_changes:
-- '[[Changes/Midjourney/2026-03-17-v8-is-an-incredible-model|V8 is an incredible model]]'
 - '[[Changes/Midjourney/2026-03-17-today-we-re-letting-the-community-test-an-early-version-of-our-v8-model-on-alpha|Today
   we’re letting the community test an early version of our V8 model…]]'
 - '[[Changes/Ollama/2026-03-17-4-model-support-changes-in-v0-18-1|4 Model Support
   changes in v0.18.1]]'
+- '[[Changes/AnythingLLM/2026-03-18-x-ability-to-select-the-provider-and-model-for-the-workspace-without-leaving-the|x
+  Ability to select the provider and model for the workspace without leaving the page]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-03-18-gpt-5-4-mini-in-chatgpt-2d1677c3|chatgpt-2026-03-18-gpt-5-4-mini-in-chatgpt-2d1677c3]]'
 source_type: chatgpt_changelog
 theme: model-support
@@ -102,7 +103,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-03-17 · Ollama · [[Changes/Ollama/2026-03-17-4-model-support-changes-in-v0-18-1|4 Model Support changes in v0.18.1]]
+- Earlier: 2026-03-18 · AnythingLLM · [[Changes/AnythingLLM/2026-03-18-x-ability-to-select-the-provider-and-model-for-the-workspace-without-leaving-the|x Ability to select the provider and model for the workspace without leaving the page]]
 - Later: 2026-03-18 · Dify · [[Changes/Dify/2026-03-18-llm-related-nodes-including-llm-and-question-classifier|LLM-related nodes, including LLM and Question Classifier]]
 <!-- chronolog:end -->
 

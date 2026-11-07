@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4a76bd097bd96f41b146d9ce707f0d58ec74dc060a32aa085767a0033ee130d1
+machine_hash: 620d38d880a1bf8e5f0c9f76f371d9daf3d7b7c331a6694ce69ebb71fca7370a
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -49,12 +49,12 @@ record:
   title: 4 Interface Experience changes in v0.13.0
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-11-04-change-debug-drawer-keybinding-to-f12-by-scidomino-in-https-github-com-google-ge|Change
-  debug drawer keybinding to F12]]'
-- '[[Changes/Open WebUI/2025-11-06-10-interface-experience-changes-in-v0-6-35|10 Interface
-  Experience changes in v0.6.35]]'
+- '[[Changes/Raycast/2025-11-06-general-improved-main-window-background-rendering-it-no-longer-displays-stale-ui|General
+  : Improved main window background rendering]]'
 - '[[Changes/Codex CLI/2025-11-07-6249-stop-capturing-r-when-environment-selection-modal-is-open|♯6249
   stop capturing r when environment selection modal is open]]'
+- '[[Changes/Devin/2025-11-07-breadcrumb-navigation-redesign|Breadcrumb Navigation
+  Redesign]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-11-07-v0-13-0-github-260462305-15cfa0b7|gemini-cli-2025-11-07-v0-13-0-github-260462305-15cfa0b7]]'
 source_type: github_releases
 theme: interface-experience
@@ -104,7 +104,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.13.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2025-11-07 · Codex CLI · [[Changes/Codex CLI/2025-11-07-6249-stop-capturing-r-when-environment-selection-modal-is-open|♯6249 stop capturing r when environment selection modal is open]]
+- Earlier: 2025-11-07 · Devin · [[Changes/Devin/2025-11-07-breadcrumb-navigation-redesign|Breadcrumb Navigation Redesign]]
 - Later: 2025-11-09 · Codex CLI · [[Changes/Codex CLI/2025-11-09-tui-quality-of-life-ctrl-n-p-navigation-for-slash-command-lists-and-backtracking|TUI quality-of-life: ctrl-n/p navigation for slash command lists and backtracking…]]
 <!-- chronolog:end -->
 

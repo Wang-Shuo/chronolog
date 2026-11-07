@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 14af92005782f90582c806450869560a69bf8995d544ca03c8b1a1ea69deaf09
+machine_hash: 9deef8207f9b7505a2247202c7da6a07fbf749550377560a6c695402417cc91e
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -177,7 +177,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.1.16
 ## Nearby in Model Support
 
 - Earlier: 2025-08-01 · Gemini · [[Changes/Gemini/2025-08-01-solve-your-most-complex-problems-with-gemini-2-5-deep-think|Solve your most complex problems with Gemini 2.5 Deep Think]]
-- Later: 2025-08-05 · Claude · [[Changes/Claude/2025-08-05-claude-opus-4-1|Claude Opus 4.1]]
+- Later: 2025-08-04 · Recraft · [[Changes/Recraft/2025-08-04-we-ve-added-qwen-image-as-a-new-external-model-in-recraft|Recraft adds Qwen Image as a new external model]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

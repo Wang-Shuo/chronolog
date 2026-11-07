@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: b2e6654fcdac8797903328ef663d7b556a002d161d5d2471e780607e7e66d77b
+machine_hash: 6122face1017ac34487504bef39c3cb7ea64f60caf9f1dfeae6643bd72ea3ac7
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -91,7 +91,7 @@ type: change
 ## Nearby in Automation and Scheduling
 
 - Earlier: 2026-08-05 · OpenHands · [[Changes/OpenHands/2026-08-05-3-automation-and-scheduling-changes-in-v1-10-0|3 Automation and Scheduling changes in v1.10.0]]
-- Later: 2026-08-07 · Google Antigravity · [[Changes/Google Antigravity/2026-08-07-conversations-started-by-background-automations-no-longer-disappear-from-the-sid|Conversations started by background automations no longer disappear from the sidebar list]]
+- Later: 2026-08-07 · Devin · [[Changes/Devin/2026-08-07-queueing-support-for-automations|Queueing Support for Automations]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

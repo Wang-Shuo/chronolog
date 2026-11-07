@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ad84f6f5aef6ab7b3d6c353ab7c66fc6a62e6f4a1d28aa153a5d3e7d00c45001
+machine_hash: e03b0c275a21eb9a05b5b9b0ab5e6d396bceb5bb9b8151653a0d519e59a1f473
 product: windsurf
 product_name: Windsurf
 record:
@@ -40,10 +40,10 @@ record:
   title: Various bug fixes and performance improvements
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-01-25-3-reliability-and-performance-changes-in-v1-1-35|3
-  Reliability and Performance changes in v1.1.35]]'
-- '[[Changes/Cline/2026-01-27-throttle-diff-view-updates-during-streaming-to-reduce-ui-flickering-and-improve|Throttle
-  diff view updates during streaming to reduce UI flickering and improve…]]'
+- '[[Changes/Raycast/2026-01-27-we-ve-collaborated-with-monkeytype-to-bring-you-a-great-typing-experience-help-y|We’ve
+  collaborated with Monkeytype to bring you a great typing experience, help you…]]'
+- '[[Changes/LM Studio/2026-01-28-2-reliability-and-performance-changes-in-lm-studio-0-4-0|2
+  Reliability and Performance changes in LM Studio 0.4.0]]'
 - '[[Changes/OpenCode/2026-01-28-3-reliability-and-performance-changes-in-v1-1-37|3
   Reliability and Performance changes in v1.1.37]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-01-30-v1-9544-24-02c78afb|windsurf-2026-01-30-v1-9544-24-02c78afb]]'

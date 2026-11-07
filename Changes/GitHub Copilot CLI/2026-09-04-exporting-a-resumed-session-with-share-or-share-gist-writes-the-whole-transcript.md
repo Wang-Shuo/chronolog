@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 49fe51f518f0fe7376b26fb11da3132ae7577dfc661a115de994347213c6e2eb
+machine_hash: 16ba2ce943a7dc9731c9dcb54ce482c98eaefb3c486c9cf9cc4771e4f6da8c70
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -46,12 +46,11 @@ record:
     transcript…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-09-03-eligible-site-owners-can-now-share-a-live-chatgpt-site-with-named-people-outside|Share
-  Sites with people outside your workspace]]'
 - '[[Changes/Codex CLI/2026-09-03-6-collaboration-changes-in-rust-v0-153-0|6 Collaboration
   changes in rust-v0.153.0]]'
 - '[[Changes/OpenClaw/2026-09-03-7-collaboration-changes-in-v2026-9-1|7 Collaboration
   changes in v2026.9.1]]'
+- '[[Changes/Devin/2026-09-04-microsoft-teams-improvements|Microsoft Teams Improvements]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-09-04-v1-0-83-github-382838246-6f996d9c|github-copilot-cli-2026-09-04-v1-0-83-github-382838246-6f996d9c]]'
 source_type: github_releases
 theme: collaboration
@@ -90,7 +89,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-09-03 · OpenClaw · [[Changes/OpenClaw/2026-09-03-7-collaboration-changes-in-v2026-9-1|7 Collaboration changes in v2026.9.1]]
+- Earlier: 2026-09-04 · Devin · [[Changes/Devin/2026-09-04-microsoft-teams-improvements|Microsoft Teams Improvements]]
 - Later: 2026-09-04 · HeyGen · [[Changes/HeyGen/2026-09-04-brandkit-and-brand-governance|BrandKit and Brand Governance]]
 <!-- chronolog:end -->
 

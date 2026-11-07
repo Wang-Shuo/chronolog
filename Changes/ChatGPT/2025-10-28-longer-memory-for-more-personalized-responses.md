@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5e58157eeaebbff93966f59cc292cbb5e6bc223cdbdfc578728e7a1cf991d7ca
+machine_hash: 346b68b1db10d52b8c6b0cf5a2b95940e448645f96b3a099d58fe36b72f88970
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,12 +41,12 @@ record:
   title: Longer memory for more personalized responses
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-10-15-chatgpt-now-manages-saved-memories-automatically-by-keeping-the-most-relevant-de-997f64|ChatGPT
-  can now automatically manage saved memories so it’s even better…]]'
 - '[[Changes/Gemini CLI/2025-10-22-part-4-6-feat-telemetry-add-memory-monitor-with-activity-aware-recording-and-tes|Part
   4/6 feat(telemetry): add memory monitor with activity-aware recording and tests]]'
 - '[[Changes/Claude/2025-10-23-claude-s-memory-on-max-and-pro-plans|Claude’s memory
   on Max and Pro plans]]'
+- '[[Changes/Superwhisper/2025-10-24-record-from-system-audio-now-uses-less-data-memory|Record
+  from system audio now uses less data & memory]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-10-28-chatgpt-go-now-available-in-brazil-6c8c9319|chatgpt-2025-10-28-chatgpt-go-now-available-in-brazil-6c8c9319]]'
 source_type: chatgpt_changelog
 theme: memory
@@ -76,7 +76,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2025-10-23 · Claude · [[Changes/Claude/2025-10-23-claude-s-memory-on-max-and-pro-plans|Claude’s memory on Max and Pro plans]]
+- Earlier: 2025-10-24 · Superwhisper · [[Changes/Superwhisper/2025-10-24-record-from-system-audio-now-uses-less-data-memory|Record from system audio now uses less data & memory]]
 - Later: 2025-10-29 · ChatGPT · [[Changes/ChatGPT/2025-10-29-chatgpt-pulse-is-now-available-on-web-and-rolling-out-to-atlas-for-pro-users-wit|ChatGPT Pulse on Web]]
 <!-- chronolog:end -->
 

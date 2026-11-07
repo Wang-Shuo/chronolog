@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f6976a22773e94d82f8ac1094bfe39e843e79f8efa4d1a71267e75d35379b7f5
+machine_hash: 06a6c7f25d7a74744188b160a3d86e606e22dc84df15b5056f51c6929a37672f
 product: descript
 product_name: Descript
 record:
@@ -47,12 +47,12 @@ record:
     spans
   type: change
 related_changes:
-- '[[Changes/Notion/2022-08-11-align-images-and-other-embedded-content|Align images
-  and other embedded content]]'
-- '[[Changes/Descript/2022-12-06-add-scenes-by-active-speaker-out-of-beta-use-this-feature-from-the-script-action|Add
-  scenes by active speaker out of beta]]'
+- '[[Changes/Raycast/2022-12-15-proxy-and-certificates-preferences-under-raycast-advanced-preferences-you-ll-fin|Proxy
+  and Certificates Preferences]]'
 - '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
   generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+- '[[Changes/Raycast/2023-01-18-bottom-left-menu-you-can-now-click-on-the-name-of-any-command-in-the-bottom-left|Bottom-left
+  menu : You can now click on the name of any command in the bottom-left…]]'
 source_release: '[[Releases/Descript/descript-2023-01-23-63cef435b90bf20af9838137-7aa64b2a|descript-2023-01-23-63cef435b90bf20af9838137-7aa64b2a]]'
 source_type: canny_changelog
 theme: interface-experience
@@ -84,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earlier: 2023-01-18 · Raycast · [[Changes/Raycast/2023-01-18-bottom-left-menu-you-can-now-click-on-the-name-of-any-command-in-the-bottom-left|Bottom-left menu : You can now click on the name of any command in the bottom-left…]]
 - Later: 2023-02-06 · Descript · [[Changes/Descript/2023-02-06-the-jump-to-markers-menu-is-now-on-the-top-right-of-the-script-when-you-add-mark|The "Jump to markers" menu is now on the top right of the Script when you add…]]
 <!-- chronolog:end -->
 

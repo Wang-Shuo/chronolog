@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: e3d0d80c4879f7f8aea1fa0de43ee5f6f968e3a03a97dcfe610d4ff6face155f
+machine_hash: 5e5fb7c023ce9bcddbb59cd0f362f46eb8ed49e061edf4b2645967d602d33249
 product: runway
 product_name: Runway
 record:
@@ -47,11 +47,12 @@ record:
   title: Agent Brand Kits
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-09-10-a-project-runs-on-its-own-computer-in-the-cloud-so-closing-your-laptop-doesn-t-s|Powered
-  by Cloud Agents]]'
-- '[[Changes/Cursor/2026-09-10-subscriptions|Subscriptions]]'
 - '[[Changes/Dify/2026-09-10-42-agent-mode-changes-in-1-17-1|42 Agent Mode changes
   in 1.17.1]]'
+- '[[Changes/Krea/2026-09-10-krea-agent-is-open-on-every-plan|Krea Agent is open on
+  every plan]]'
+- '[[Changes/Krea/2026-09-10-free-agent-credits-through-september-15|Free Agent credits
+  through September 15]]'
 source_release: '[[Releases/Runway/runway-2026-09-10-2026-09-10-agent-brand-kits-f4b1b412|runway-2026-09-10-2026-09-10-agent-brand-kits-f4b1b412]]'
 source_type: runway_changelog
 theme: agent-mode
@@ -78,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-09-10 · Dify · [[Changes/Dify/2026-09-10-42-agent-mode-changes-in-1-17-1|42 Agent Mode changes in 1.17.1]]
+- Earlier: 2026-09-10 · Krea · [[Changes/Krea/2026-09-10-free-agent-credits-through-september-15|Free Agent credits through September 15]]
 - Later: 2026-09-11 · Claude Code · [[Changes/Claude Code/2026-09-11-2-agent-mode-changes-in-v2-1-269|2 Agent Mode changes in v2.1.269]]
 <!-- chronolog:end -->
 

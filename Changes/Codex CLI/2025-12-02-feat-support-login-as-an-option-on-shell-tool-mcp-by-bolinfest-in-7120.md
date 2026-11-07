@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 51c92e0e3f05638207ce6fd44bb1a16e72c54af9b8fada86b7dd00074fd3a8be
+machine_hash: f61dca12eab23305d20ee036658c600b079407913dd6da4827d81bc133a5e5f6
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -54,11 +54,11 @@ record:
   title: 'feat: support login as an option on shell-tool-mcp by @bolinfest in #7120'
   type: change
 related_changes:
-- '[[Changes/Dify/2025-11-26-feat-implement-rfc-compliant-oauth-discovery-with-dynamic-scope-selection-for-mc|feat:
-  implement RFC-compliant OAuth discovery with dynamic scope selection for MCP…]]'
 - '[[Changes/Google Antigravity/2025-11-26-added-better-error-states-for-onboarding-users-during-authentication-flow|Added
   better error states for onboarding users during authentication flow]]'
 - '[[Changes/Lovable/2025-11-26-temporary-education-logins|Temporary education logins]]'
+- '[[Changes/Raycast/2025-11-27-authentication-removed-the-required-login-step-before-getting-started|Authentication
+  : Removed the required login step before getting started]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-12-02-rust-v0-64-0-github-266901625-82376886|codex-cli-2025-12-02-rust-v0-64-0-github-266901625-82376886]]'
 source_type: github_releases
 theme: account-access
@@ -96,7 +96,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2025-11-26 · Lovable · [[Changes/Lovable/2025-11-26-temporary-education-logins|Temporary education logins]]
+- Earlier: 2025-11-27 · Raycast · [[Changes/Raycast/2025-11-27-authentication-removed-the-required-login-step-before-getting-started|Authentication : Removed the required login step before getting started]]
 - Later: 2025-12-02 · Open WebUI · [[Changes/Open WebUI/2025-12-02-7-account-and-access-changes-in-v0-6-41|7 Account and Access changes in v0.6.41]]
 <!-- chronolog:end -->
 

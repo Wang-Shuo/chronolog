@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d68c4c993bb3a971e35b84bddff1906d346b06443bfe09f3d84ea0b691028eb6
+machine_hash: 56d43efeae852318d3552eef558a715d65dc9daa53e7f6e2804ba5805b652ddc
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,11 @@ record:
     character…
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-01-16-adding-a-status-indicator-above-the-chat-until-the-conversation-is-ready-by-heyi|Adding
-  a status indicator above the chat until the conversation is ready]]'
 - '[[Changes/v0/2026-01-16-added-searchable-version-selector-for-easier-navigation|Added
   searchable version selector for easier navigation]]'
 - '[[Changes/OpenCode/2026-01-19-2-interface-experience-changes-in-v1-1-26|2 Interface
   Experience changes in v1.1.26]]'
+- '[[Changes/Superwhisper/2026-01-19-note|NOTE]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-20-v2-1-14-github-278458927-a7d53111|claude-code-2026-01-20-v2-1-14-github-278458927-a7d53111]]'
 source_type: github_releases
 theme: interface-experience
@@ -81,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-01-19 · OpenCode · [[Changes/OpenCode/2026-01-19-2-interface-experience-changes-in-v1-1-26|2 Interface Experience changes in v1.1.26]]
+- Earlier: 2026-01-19 · Superwhisper · [[Changes/Superwhisper/2026-01-19-note|NOTE]]
 - Later: 2026-01-20 · HeyGen · [[Changes/HeyGen/2026-01-20-pronunciation-redesign-add-and-manage-glossaries-directly-in-the-panel-preview-p|Pronunciation redesign: Add and manage glossaries directly in the panel]]
 <!-- chronolog:end -->
 

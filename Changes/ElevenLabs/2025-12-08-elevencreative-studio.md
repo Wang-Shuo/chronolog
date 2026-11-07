@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 3781dba6caee7e50de0c0c34e3a8602817206dc52aabc34a1a5e9402b1bb5ae6
+machine_hash: f5aec25ffce8d4e53d65af334ba5104b5df65d19de1f57ad6ce912fa860ff679
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -87,7 +87,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2025-12-04 · Descript · [[Changes/Descript/2025-12-04-lip-sync-for-translated-videos|Lip sync for translated videos]]
+- Earlier: 2025-12-05 · Raycast · [[Changes/Raycast/2025-12-05-2-voice-and-audio-changes-in-raycast-ios-1-2-0|2 Voice and Audio changes in Raycast ios 1.2.0]]
 - Later: 2025-12-11 · ChatGPT · [[Changes/ChatGPT/2025-12-11-we-re-retiring-the-voice-experience-in-the-chatgpt-macos-app-on-january-15-2026|We’re retiring the Voice experience in the ChatGPT macOS app on January 15, 2026]]
 <!-- chronolog:end -->
 

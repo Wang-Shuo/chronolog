@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4f2af6520eff6f2ac9b484170194fa9a8b04c26e0ce23afb1e52d0eeb2d679d1
+machine_hash: 0a511fa7f1d0463e239d07156188ba0066b64df71bd591f1b5fec28bbce4294a
 product: notion
 product_name: Notion
 record:
@@ -89,7 +89,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2021-10-19 · Descript · [[Changes/Descript/2021-10-19-drive-view-filter-to-projects-or-recordings|Drive View: filter to projects or recordings]]
-- Later: 2022-01-19 · Notion · [[Changes/Notion/2022-01-19-select-text-across-multiple-blocks|Select text across multiple blocks]]
+- Later: 2022-01-12 · Raycast · [[Changes/Raycast/2022-01-12-preferences-you-can-now-open-store-to-install-extensions-from-the-extensions-tab|Preferences: You can now open Store to install extensions from the Extensions Tab]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

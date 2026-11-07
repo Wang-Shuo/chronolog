@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 0e5894aab36c0955c41914efbae37e497b3a8cf6d53c39647b4c0ed13b519550
+machine_hash: d21837db54b1c6d191329f9118a60901bfac80aa105b83102e4b46958219f5b2
 product: replit
 product_name: Replit
 record:
@@ -93,7 +93,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-02-13 · OpenCode · [[Changes/OpenCode/2026-02-13-core-add-tool-definition-hook-for-plugins-to-modify-tool-description-and-paramet|Core Add tool.definition hook for plugins to modify tool description and parameters]]
-- Later: 2026-02-14 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-14-3-apps-and-integrations-changes-in-v0-0-410|3 Apps and Integrations changes in v0.0.410]]
+- Later: 2026-02-13 · Superwhisper · [[Changes/Superwhisper/2026-02-13-handle-paste-error-when-pasting-into-apps-with-elevated-privileges|Handle paste error when pasting into apps with elevated privileges]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 099c967ac13662b83232db4b8a9a4598f3d7b0bff95a8fce0da3db7aae08c919
+machine_hash: 69351994b7da80692a1f6c928fd1ee21f37b96dd20ea42374600c2c4a14fa96c
 product: gamma
 product_name: Gamma
 record:
@@ -43,8 +43,8 @@ record:
   title: Ever made the perfect edit to an AI image, only to lose track of it?
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-10-29-5-editor-experience-changes-in-v0-11-0|5 Editor
-  Experience changes in v0.11.0]]'
+- '[[Changes/Raycast/2025-10-29-clipboard-history-added-a-new-edit-content-action|Clipboard
+  History : Added a new Edit Content action]]'
 - '[[Changes/Codex CLI/2025-10-30-chore-config-editor-in-https-github-com-openai-codex-pull-5878|chore:
   config editor in (source link)]]'
 - '[[Changes/v0/2025-10-30-you-can-now-edit-images-using-nano-banana-in-v0-turn-on-design-mode-select-an-im|Image

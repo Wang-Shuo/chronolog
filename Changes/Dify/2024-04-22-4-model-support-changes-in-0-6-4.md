@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: bf451204eb1996871e4b19c23a35030579e15dfd1dd6c926f0c5ae19a1b5cc1b
+machine_hash: 19ea0e8af0790513fab4771dd4af8206a49066936463a3dc41109a3bb3a3b414
 product: dify
 product_name: Dify
 record:
@@ -47,8 +47,7 @@ record:
   title: 4 Model Support changes in 0.6.4
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2024-04-16-2-model-support-changes-in-v0-1-119|2 Model Support
-  changes in v0.1.119]]'
+- '[[Changes/Superwhisper/2024-04-20-add-images-for-models|Add images for models]]'
 - '[[Changes/Aider/2024-04-21-4-model-support-changes-in-v0-29-0|4 Model Support changes
   in v0.29.0]]'
 - "[[Changes/Open WebUI/2024-04-21-model-selector-resolved-issue-where-default-model-selection-was-not-saving|\U0001F527

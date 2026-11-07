@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4f5536e17316f4baaabeb34ade095b38043e6cb1ef7edd780c6d8e22414fc390
+machine_hash: 97cc5e8753edbb5e54b93834c796b32cbe56eca1cc66541592d3776ec7fc1437
 product: dify
 product_name: Dify
 record:
@@ -43,12 +43,12 @@ record:
   title: Stop the service，Command, please execute in the docker directory
   type: change
 related_changes:
-- '[[Changes/Replit/2025-01-17-assistant-inline-shell-commands|Assistant inline shell
-  commands]]'
-- '[[Changes/Dify/2025-01-22-stop-the-service-command-please-execute-in-the-docker-directory|Stop
-  the service，Command, please execute in the docker directory]]'
 - '[[Changes/Cursor/2025-01-23-update-0-45-12-13-update-infrastructure-improvements-the-f1-check-for-updates-co|UPDATE
   (0.45.12-13): Update infrastructure improvements]]'
+- '[[Changes/Devin/2025-01-30-this-information-helps-you-debug-why-devin-is-stuck-or-taking-a-long-time-use-it|This
+  information helps you debug why Devin is stuck or taking a long time]]'
+- '[[Changes/LM Studio/2025-01-30-for-command-line-use-lms-load-ttl|For command line
+  use: lms load --ttl ]]'
 source_release: '[[Releases/Dify/dify-2025-02-07-0-15-3-github-198990350-49c4f467|dify-2025-02-07-0-15-3-github-198990350-49c4f467]]'
 source_type: github_releases
 theme: developer-workflow
@@ -83,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2025-01-23 · Cursor · [[Changes/Cursor/2025-01-23-update-0-45-12-13-update-infrastructure-improvements-the-f1-check-for-updates-co|UPDATE (0.45.12-13): Update infrastructure improvements]]
+- Earlier: 2025-01-30 · LM Studio · [[Changes/LM Studio/2025-01-30-for-command-line-use-lms-load-ttl|For command line use: lms load --ttl ]]
 - Later: 2025-02-13 · OpenHands · [[Changes/OpenHands/2025-02-13-limit-resource-usage-of-command-to-avoid-oom-runtime-kill-by-xingyaoww-in-https|Limit resource usage of command to avoid OOM Runtime Kill]]
 <!-- chronolog:end -->
 

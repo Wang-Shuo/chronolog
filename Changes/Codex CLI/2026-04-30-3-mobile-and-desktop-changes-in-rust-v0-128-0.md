@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9b13e555e41b630a64fa8d4799d034d418aca6218f5a8f1f04b0c5db27f3a219
+machine_hash: 246aaa33a96bf9e4726bef05727715d5dde7b020b15df6434c95a3fda8b94094
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,8 +44,8 @@ record:
   title: 3 Mobile and Desktop changes in rust-v0.128.0
   type: change
 related_changes:
-- '[[Changes/Replit/2026-04-24-preview-on-an-ios-simulator-or-android-emulator|Preview
-  on an iOS Simulator or Android Emulator]]'
+- '[[Changes/Wispr Flow/2026-04-24-auto-cleanup-choose-how-much-flow-edits-for-you-desktop|Auto
+  Cleanup: choose how much Flow edits for you (Desktop)]]'
 - '[[Changes/OpenCode/2026-04-28-desktop-per-workspace-icon-overrides-now-stay-applied-for-subdirectories-in-the|Desktop
   Per-workspace icon overrides now stay applied for subdirectories in the same repo]]'
 - '[[Changes/Cursor/2026-04-29-the-agents-that-run-in-the-cursor-desktop-app-cli-and-web-app-are-now-accessible|The
@@ -97,7 +97,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.128.0
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-04-29 · Cursor · [[Changes/Cursor/2026-04-29-the-agents-that-run-in-the-cursor-desktop-app-cli-and-web-app-are-now-accessible|The agents that run in the Cursor desktop app, CLI, and web app are now accessible…]]
-- Later: 2026-05-03 · Ollama · [[Changes/Ollama/2026-05-03-3-mobile-and-desktop-changes-in-v0-23-0|3 Mobile and Desktop changes in v0.23.0]]
+- Later: 2026-05-01 · Wispr Flow · [[Changes/Wispr Flow/2026-05-01-scratchpad-a-notepad-that-lives-on-top-of-everything-beta-desktop|Scratchpad: A notepad that lives on top of everything (Beta) (Desktop)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

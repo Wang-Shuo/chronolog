@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: d59c3bf2f254de4b36e6fa903418d5e9ce78cc7246e0babd05342f76adb69e7f
+machine_hash: 3fd4f336714d9dbc4aad91f95988223db1694e2f193f4a379d16c0c6b7db5913
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -41,11 +41,11 @@ record:
   title: SDK Releases
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-12-04-2-apps-and-integrations-changes-in-rust-v0-65-0|2
-  Apps and Integrations changes in rust-v0.65.0]]'
-- '[[Changes/Google Antigravity/2025-12-04-google-one-integration|Google One integration]]'
 - '[[Changes/Runway/2025-12-04-turn-your-workflows-into-apps-you-can-share-with-your-workspace|Publish
   Workflows as Apps]]'
+- '[[Changes/Devin/2025-12-05-various-bug-fixes-and-performance-improvements-across-the-webapp-ui-slack-integr|Various
+  bug fixes and performance improvements across the webapp UI, Slack…]]'
+- '[[Changes/Devin/2025-12-05-data-analyst-devin-dana|Data Analyst Devin (Dana)]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2025-12-08-2025-12-08-7be8ac95|elevenlabs-2025-12-08-2025-12-08-7be8ac95]]'
 source_type: elevenlabs_changelog
 theme: apps-integrations
@@ -88,8 +88,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-12-04 · Runway · [[Changes/Runway/2025-12-04-turn-your-workflows-into-apps-you-can-share-with-your-workspace|Publish Workflows as Apps]]
-- Later: 2025-12-09 · Codex CLI · [[Changes/Codex CLI/2025-12-09-3-apps-and-integrations-changes-in-rust-v0-66-0|3 Apps and Integrations changes in rust-v0.66.0]]
+- Earlier: 2025-12-05 · Devin · [[Changes/Devin/2025-12-05-data-analyst-devin-dana|Data Analyst Devin (Dana)]]
+- Later: 2025-12-09 · AnythingLLM · [[Changes/AnythingLLM/2025-12-09-2-apps-and-integrations-changes-in-v1-9-1|2 Apps and Integrations changes in v1.9.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

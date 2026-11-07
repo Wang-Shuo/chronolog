@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3ef2d84167611281c635592d4999ed26303aecf028745baaf624917af23309c8
+machine_hash: ffeb3780e2ceb7db5085088797af8583153a4aa6869b611ebe89835d4761ff8a
 product: dify
 product_name: Dify
 record:
@@ -54,8 +54,8 @@ record:
   title: 5 Safety and Privacy changes in 1.3.0
   type: change
 related_changes:
-- '[[Changes/Dify/2025-04-09-4-safety-and-privacy-changes-in-1-2-0|4 Safety and Privacy
-  changes in 1.2.0]]'
+- '[[Changes/Raycast/2025-04-09-favicon-provider-we-added-a-new-setting-to-let-you-pick-your-favicon-provider-or|Favicon
+  Provider: We added a new setting to let you pick your favicon provider…]]'
 - '[[Changes/Open WebUI/2025-04-13-5-safety-and-privacy-changes-in-v0-6-3|5 Safety
   and Privacy changes in v0.6.3]]'
 - '[[Changes/ElevenLabs/2025-04-14-pronunciation-dictionaries|Pronunciation Dictionaries]]'

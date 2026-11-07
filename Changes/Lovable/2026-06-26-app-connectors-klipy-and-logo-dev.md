@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: d6e7ce2bdd24df5d3dbf334d093f241669efc5e6891f4ab22e93af51a476195f
+machine_hash: c06264b5b308624094dfc42b21b1d5f7bf20231a242bf98f3ce9c4615b3bcf33
 product: lovable
 product_name: Lovable
 record:
@@ -53,8 +53,8 @@ record:
   title: 'App connectors: KLIPY and Logo.dev'
   type: change
 related_changes:
-- '[[Changes/Cline/2026-06-26-13-apps-and-integrations-changes-in-v4-0-0|13 Apps and
-  Integrations changes in v4.0.0]]'
+- '[[Changes/Devin/2026-06-26-mcp-installation-out-of-date-banner|MCP "Installation
+  Out of Date" Banner]]'
 - '[[Changes/Kimi Code/2026-06-26-plugins-now-support-declaring-lifecycle-hooks-in-kimi-plugin-json-to-run-scripts|Plugins
   now support declaring lifecycle hooks in kimi.plugin.json to run scripts…]]'
 - '[[Changes/Kimi Code/2026-06-26-4-apps-and-integrations-changes-in-kimi-code-0-20-0|4

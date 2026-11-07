@@ -767,7 +767,10 @@ def collect_live(
                 from _scripts.product_feeds import FEED_TYPES, fetch_product_releases
                 from _scripts.trending_feeds import FEED_TYPES as TRENDING_FEEDS, fetch_trending_releases
                 from _scripts.extended_feeds import FEED_TYPES as EXTENDED_FEEDS, fetch_extended_releases
-                if product["feed_type"] in EXTENDED_FEEDS:
+                from _scripts.additional_feeds import FEED_TYPES as ADDITIONAL_FEEDS, fetch_additional_releases
+                if product["feed_type"] in ADDITIONAL_FEEDS:
+                    product_releases = fetch_additional_releases(product, limit)
+                elif product["feed_type"] in EXTENDED_FEEDS:
                     product_releases = fetch_extended_releases(product, limit)
                 elif product["feed_type"] in TRENDING_FEEDS:
                     product_releases = fetch_trending_releases(product, limit)

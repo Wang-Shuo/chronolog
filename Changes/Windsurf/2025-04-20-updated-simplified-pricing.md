@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 3a0dbf6dc3e67e76097b8f9acbad73126cc2456793bdaf45fe9ff1bc074d272d
+machine_hash: 35313852fe3ef283a72b82d0263f10075c9aa03f50fa182de9cb373998a08270
 product: windsurf
 product_name: Windsurf
 record:
@@ -41,9 +41,9 @@ record:
   title: Updated & Simplified Pricing
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2025-04-07-user-subscription|User Subscription]]'
-- '[[Changes/Cline/2025-04-15-eng-435-xai-provider-cost-issue-by-canvrno-in-https-github-com-cline-cline-pull|ENG-435/xAI
-  provider cost issue]]'
+- '[[Changes/Recraft/2025-04-15-with-a-teams-subscription-teams-will-receive|With
+  a Teams subscription, teams will receive]]'
+- '[[Changes/Raycast/2025-04-16-try-raycast-ai-for-free|Try Raycast AI For Free]]'
 - '[[Changes/Windsurf/2025-04-20-we-re-getting-rid-of-flow-action-credits|We''re getting
   rid of Flow Action Credits]]'
 source_release: '[[Releases/Windsurf/windsurf-2025-04-20-v1-7-0-55878bca|windsurf-2025-04-20-v1-7-0-55878bca]]'
@@ -76,7 +76,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2025-04-15 · Cline · [[Changes/Cline/2025-04-15-eng-435-xai-provider-cost-issue-by-canvrno-in-https-github-com-cline-cline-pull|ENG-435/xAI provider cost issue]]
+- Earlier: 2025-04-16 · Raycast · [[Changes/Raycast/2025-04-16-try-raycast-ai-for-free|Try Raycast AI For Free]]
 - Later: 2025-05-02 · Lovable · [[Changes/Lovable/2025-05-02-improvements|Improvements]]
 <!-- chronolog:end -->
 

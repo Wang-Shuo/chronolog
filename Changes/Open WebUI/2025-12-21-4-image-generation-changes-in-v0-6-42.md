@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c07f8c3818ba5c1bf896e1411a62cfda2233eac41891eeb15d1ada0765f6373c
+machine_hash: 1ab512971ae8722e0677111df3e721b8dda72566e94390e196e1825c480184ac
 product: open-webui
 product_name: Open WebUI
 record:
@@ -56,12 +56,11 @@ record:
   title: 4 Image Generation changes in v0.6.42
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2025-12-02-image-generation-in-temporary-chats-was-fixed-by-correctly-handling-local-chat-s|\U0001F3A8
-  Image generation in temporary chats was fixed by correctly handling local chat…]]"
-- '[[Changes/Descript/2025-12-04-flux-2-pro-now-available-for-image-generation|Flux
-  2 Pro now available for image generation]]'
 - '[[Changes/ChatGPT/2025-12-16-we-ve-introduced-a-new-and-improved-version-of-chatgpt-images-powered-by-our-bes-a63d5c|ChatGPT
   Images on Web and Mobile (iOS & Android)]]'
+- '[[Changes/Recraft/2025-12-20-cost-per-generation|Cost per generation]]'
+- '[[Changes/Recraft/2025-12-20-gpt-image-1-5-has-been-added-to-recraft-and-is-now-available-for-all-paid-subscr|GPT
+  Image 1.5 has been added to Recraft and is now available for all paid subscribers]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-12-21-v0-6-42-github-272053915-b8e46ad9|open-webui-2025-12-21-v0-6-42-github-272053915-b8e46ad9]]'
 source_type: github_releases
 theme: image-generation
@@ -114,7 +113,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.6.42
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Image Generation
 
-- Earlier: 2025-12-16 · ChatGPT · [[Changes/ChatGPT/2025-12-16-we-ve-introduced-a-new-and-improved-version-of-chatgpt-images-powered-by-our-bes-a63d5c|ChatGPT Images on Web and Mobile (iOS & Android)]]
+- Earlier: 2025-12-20 · Recraft · [[Changes/Recraft/2025-12-20-gpt-image-1-5-has-been-added-to-recraft-and-is-now-available-for-all-paid-subscr|GPT Image 1.5 has been added to Recraft and is now available for all paid subscribers]]
 - Later: 2025-12-22 · Open WebUI · [[Changes/Open WebUI/2025-12-22-image-action-button-fixed-restoring-the-ability-to-trigger-image-generation-edit|🎨 Image action button fixed, restoring the ability to trigger image generation…]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 781ab38ff990426c2111c4942a8cfe29d90988132ae933c42344e2f65061ba38
+machine_hash: a2f71e99c121d4431513d770c1c0032c375364198ef4e2c45d56e8bb0c531d56
 product: open-webui
 product_name: Open WebUI
 record:
@@ -54,9 +54,10 @@ record:
   title: 3 Files and Data changes in v0.9.0
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-04-15-cursor-can-now-respond-by-creating-interactive-canvases-c4a1d3|Cursor
-  can now respond by creating interactive canvases]]'
-- '[[Changes/Descript/2026-04-16-locked-layers-https-help-descript-com-hc-en-us-articles-17461277756941-lock-laye|Locked…]]'
+- '[[Changes/LM Studio/2026-04-17-improved-style-in-chat-pdf-exports|Improved style
+  in chat PDF exports]]'
+- '[[Changes/Recraft/2026-04-17-generate-raster-images-and-vectors-right-in-figma-then-refine-them-with-recraft|Generate
+  raster images and vectors right in Figma, then refine them with Recraft…]]'
 - '[[Changes/ElevenLabs/2026-04-20-text-to-dialogue|Text to Dialogue]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-04-21-v0-9-0-github-311589683-2ff57b5a|open-webui-2026-04-21-v0-9-0-github-311589683-2ff57b5a]]'
 source_type: github_releases
@@ -110,7 +111,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.9.0
 ## Nearby in Files and Data
 
 - Earlier: 2026-04-20 · ElevenLabs · [[Changes/ElevenLabs/2026-04-20-text-to-dialogue|Text to Dialogue]]
-- Later: 2026-04-23 · Codex CLI · [[Changes/Codex CLI/2026-04-23-18423-chore-document-intentional-await-holding-cases-bolinfest|♯18423 chore: document intentional await-holding cases @bolinfest]]
+- Later: 2026-04-22 · AnythingLLM · [[Changes/AnythingLLM/2026-04-22-4-files-and-data-changes-in-v1-12-1|4 Files and Data changes in v1.12.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

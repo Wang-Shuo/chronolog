@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a94f1c682a9c7d90650a5dacd1c49f4a3b1c4a32a3b169b85886bdf998248bc3
+machine_hash: e09bb2149f5dad1cc7036d6ebacd4a7c7b344a2fa525f295afab63429a2f6f72
 product: ollama
 product_name: Ollama
 record:
@@ -78,7 +78,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2023-07-24 · Aider · [[Changes/Aider/2023-07-24-benchmarked-https-aider-chat-docs-benchmarks-html-at-64-7-for-gpt-4-diff-no-regr|Benchmarked((source link) at 64.7% for gpt-4/diff…]]
-- Later: 2023-07-28 · Cursor · [[Changes/Cursor/2023-07-28-long-ai-completions-8c21b2|Long AI completions]]
+- Later: 2023-07-27 · Raycast · [[Changes/Raycast/2023-07-27-gpt-4-everywhere-on-your-mac|GPT-4 Everywhere on Your Mac]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

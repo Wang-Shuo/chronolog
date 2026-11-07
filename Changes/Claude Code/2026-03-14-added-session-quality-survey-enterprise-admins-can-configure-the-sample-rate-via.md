@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a04ae37bfda45b3aa9227d89158b532b6487fde4ec334684b9f39d06ab9c40ff
+machine_hash: 4b78afb99367e57ca4f53989511a93d47aaaeae6b9e5cbaa5f0df78ed1225105
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,11 +42,11 @@ record:
   title: Added session quality survey
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-05-improved-macos-startup-for-claude-ai-enterprise-team-users-by-skipping-an-unnece|Improved
-  macOS startup for Claude.ai enterprise/team users by skipping…]]'
 - '[[Changes/Codex CLI/2026-03-05-13388-config-enforce-enterprise-feature-requirements-bolinfest|♯13388
   config: enforce enterprise feature requirements @bolinfest]]'
 - '[[Changes/Replit/2026-03-06-teams-and-enterprise|Teams and Enterprise]]'
+- '[[Changes/Devin/2026-03-11-idp-groups-in-enterprise-settings|IdP Groups in Enterprise
+  Settings]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-14-v2-1-76-github-296929324-94cd2ffc|claude-code-2026-03-14-v2-1-76-github-296929324-94cd2ffc]]'
 source_type: github_releases
 theme: enterprise-admin
@@ -83,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-03-06 · Replit · [[Changes/Replit/2026-03-06-teams-and-enterprise|Teams and Enterprise]]
+- Earlier: 2026-03-11 · Devin · [[Changes/Devin/2026-03-11-idp-groups-in-enterprise-settings|IdP Groups in Enterprise Settings]]
 - Later: 2026-03-16 · Lovable · [[Changes/Lovable/2026-03-16-audit-logs|Audit logs]]
 <!-- chronolog:end -->
 

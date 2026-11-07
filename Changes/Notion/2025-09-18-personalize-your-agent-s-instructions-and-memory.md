@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: cd2115b0add350770ed436fc00a1a144865c21187764dab57e2cea3f36a7c831
+machine_hash: d42807d6013ec40315230dac60e99e5f9a90259a3e75b1d1569376f42b676f7f
 product: notion
 product_name: Notion
 record:

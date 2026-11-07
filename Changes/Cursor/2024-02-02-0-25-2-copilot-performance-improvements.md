@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: fc87dae173c595e650fa496e8d854e41b05a2f1e83b0fd874629e610a5cb3494
+machine_hash: 1f5328ee66e4f1d312304e5d8f796c39c86cf8bc338049f2e469b7c8324f2188
 product: cursor
 product_name: Cursor
 record:
@@ -40,10 +40,10 @@ record:
   title: '0.25.2: Copilot++ performance improvements'
   type: change
 related_changes:
-- '[[Changes/Ollama/2024-01-11-2-reliability-and-performance-changes-in-v0-1-20|2
-  Reliability and Performance changes in v0.1.20]]'
 - '[[Changes/Ollama/2024-01-20-2-reliability-and-performance-changes-in-v0-1-21|2
   Reliability and Performance changes in v0.1.21]]'
+- '[[Changes/Raycast/2024-01-24-application-uninstaller-uninstalling-big-applications-is-now-much-faster-and-you|Application
+  Uninstaller: Uninstalling big applications is now much faster and you…]]'
 - '[[Changes/Dify/2024-01-25-refine-faster-rsa-implement-by-yeuoly-in-https-github-com-langgenius-dify-pull-2|refine:
   faster rsa implement]]'
 source_release: '[[Releases/Cursor/cursor-2024-02-02-0-25-x-https-cursor-com-changelog-0-25-x-29976ab7|cursor-2024-02-02-0-25-x-https-cursor-com-changelog-0-25-x-29976ab7]]'

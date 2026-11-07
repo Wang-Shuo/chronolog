@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 56231eb49be6eff70b51ef4747cf74b76329e973be47114b0a3bdf2375bd0faa
+machine_hash: c500676a122172712775065b97f86a56bae1f4f93a10c059902277ca1d5d72c3
 product: cline
 product_name: Cline
 record:
@@ -41,11 +41,11 @@ record:
   title: Add CMD+' keyboard shortcut to add selected text to Cline
   type: change
 related_changes:
-- '[[Changes/Aider/2025-03-31-2-interface-experience-changes-in-v0-80-0|2 Interface
-  Experience changes in v0.80.0]]'
 - '[[Changes/Open WebUI/2025-04-01-3-interface-experience-changes-in-v0-6-0|3 Interface
   Experience changes in v0.6.0]]'
 - '[[Changes/Aider/2025-04-04-https-aider-chat-history-html|(source link)]]'
+- '[[Changes/Superwhisper/2025-04-04-full-screen-support-stability-improvements|Full-screen
+  Support & Stability Improvements]]'
 source_release: '[[Releases/Cline/cline-2025-04-09-v3-10-1-github-211238675-e7306060|cline-2025-04-09-v3-10-1-github-211238675-e7306060]]'
 source_type: github_releases
 theme: interface-experience
@@ -75,7 +75,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2025-04-04 · Aider · [[Changes/Aider/2025-04-04-https-aider-chat-history-html|(source link)]]
+- Earlier: 2025-04-04 · Superwhisper · [[Changes/Superwhisper/2025-04-04-full-screen-support-stability-improvements|Full-screen Support & Stability Improvements]]
 - Later: 2025-04-13 · Open WebUI · [[Changes/Open WebUI/2025-04-13-translation-updates-across-multiple-languages-refined-catalan-russian-chinese-si|🌍 Translation Updates Across Multiple Languages]]
 <!-- chronolog:end -->
 

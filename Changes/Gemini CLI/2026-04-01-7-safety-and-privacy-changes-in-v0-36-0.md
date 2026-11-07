@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 96dc2599dfa778726110df7c4b4a697e1dd3d9ba6d611132b10da9ad860a61ae
+machine_hash: b956aa637a01631407622d102aefb919586746b83ff7da4963a2ff6a04ddd549
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -57,8 +57,8 @@ record:
   title: 7 Safety and Privacy changes in v0.36.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-31-2-safety-and-privacy-changes-in-v1-0-14|2
-  Safety and Privacy changes in v1.0.14]]'
+- '[[Changes/Wispr Flow/2026-03-31-banking-app-privacy-protection-50-apps-globally-android|Banking
+  App Privacy Protection (50+ Apps Globally) (Android)]]'
 - '[[Changes/Claude Code/2026-04-01-2-safety-and-privacy-changes-in-v2-1-89|2 Safety
   and Privacy changes in v2.1.89]]'
 - '[[Changes/Claude Code/2026-04-01-4-safety-and-privacy-changes-in-v2-1-90|4 Safety

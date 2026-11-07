@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 37295f552f716d545e4525414f871b786165fd655ac9cfe9acd8cd9788b03178
+machine_hash: a2c1d35758420f51c02edde8dbba10de7a872ec5994b431a17b67dfc8b037337
 product: descript
 product_name: Descript
 record:
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Multimodal Input
 
 - Earlier: 2022-11-15 · Descript · [[Changes/Descript/2022-11-15-green-screen-https-help-descript-com-hc-en-us-articles-10327693275405-green-scre|Green…]]
-- Later: 2023-02-21 · Descript · [[Changes/Descript/2023-02-21-updated-the-icons-for-buttons-to-open-the-share-page-and-unpublish-the-video|Updated the icons for buttons to open the share page and unpublish the video]]
+- Later: 2023-01-18 · Raycast · [[Changes/Raycast/2023-01-18-calendar-you-can-now-join-cal-com-video-meetings-right-from-raycast|Calendar: You can now join Cal.com video meetings right from Raycast]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

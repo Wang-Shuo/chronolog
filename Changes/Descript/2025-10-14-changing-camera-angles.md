@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0e0e0ca71590b73e04106d2ec8db054d32eb1dae1381e48dde0c4a2aa6840c98
+machine_hash: 527e095013b2ea594ff7d57da03d22bc02b486db79d65b08245f4bf994d82a0a
 product: descript
 product_name: Descript
 record:
@@ -40,12 +40,11 @@ record:
   title: Changing camera angles
   type: change
 related_changes:
-- '[[Changes/Descript/2025-09-24-click-turn-into-video-button|Click "Turn into video"
-  button]]'
 - '[[Changes/Synthesia/2025-09-26-time-for-the-next-chapter-in-our-story-synthesia-3-0-on-october-1st-our-ceo-vict|Synthesia
   3.0: you''re invited]]'
 - '[[Changes/Midjourney/2025-10-06-we-bumped-up-the-number-of-styles-in-the-style-explorer-and-the-style-search-fea|10x
   more styles]]'
+- '[[Changes/AnythingLLM/2025-10-09-video-src-https-github-com-user-attachments-assets-fbbfab37-e1b0-442b-b7d4-277aa|video…]]'
 source_release: '[[Releases/Descript/descript-2025-10-14-68ee6f9dba654d8837fc6993-94d95427|descript-2025-10-14-68ee6f9dba654d8837fc6993-94d95427]]'
 source_type: canny_changelog
 theme: multimodal
@@ -76,8 +75,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Multimodal Input
 
-- Earlier: 2025-10-06 · Midjourney · [[Changes/Midjourney/2025-10-06-we-bumped-up-the-number-of-styles-in-the-style-explorer-and-the-style-search-fea|10x more styles]]
-- Later: 2025-11-06 · Open WebUI · [[Changes/Open WebUI/2025-11-06-2-multimodal-input-changes-in-v0-6-35|2 Multimodal Input changes in v0.6.35]]
+- Earlier: 2025-10-09 · AnythingLLM · [[Changes/AnythingLLM/2025-10-09-video-src-https-github-com-user-attachments-assets-fbbfab37-e1b0-442b-b7d4-277aa|video…]]
+- Later: 2025-11-04 · LM Studio · [[Changes/LM Studio/2025-11-04-2-multimodal-input-changes-in-lm-studio-0-3-31|2 Multimodal Input changes in LM Studio 0.3.31]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

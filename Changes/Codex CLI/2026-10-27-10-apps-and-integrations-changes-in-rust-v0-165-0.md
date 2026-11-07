@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b2dca4e7e3b1f99d4809dc8c1aaddedb609d9c7bc98e121c672c091067fe6399
+machine_hash: d200ca83d26abdb1e8637515fd71dea94a675a986f12c6229a45243061b9791c
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -59,7 +59,8 @@ record:
   title: 10 Apps and Integrations changes in rust-v0.165.0
   type: change
 related_changes:
-- '[[Changes/Gamma/2026-10-26-introducing-gamma-5|Introducing Gamma 5]]'
+- '[[Changes/Krea/2026-10-26-share-nodes-apps-with-your-organization|Share Nodes Apps
+  with your organization]]'
 - '[[Changes/Lovable/2026-10-26-redesigned-connector-pages|Redesigned connector pages]]'
 - '[[Changes/Claude Code/2026-10-27-2-apps-and-integrations-changes-in-v2-1-312|2
   Apps and Integrations changes in v2.1.312]]'

@@ -5,20 +5,20 @@ description: "Open WebUI · 2025-05-10 · Accessibility and Localization: 3 chan
   in v0.6.8 — \U0001F4DD **Vazirmatn Font for Persian & Arabic**: Arabic and Persian
   users will now…"
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-09-11-chatgpt-now-supports-a-limited-selection-of-languages-in-the-interface|ChatGPT
-    now supports a limited selection of languages in the interface]]'
+  first_in_tracked: '[[Changes/Raycast/2020-11-19-improved-searching-for-localized-application-and-preference-names|Improved
+    searching for localized application and preference names]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 607
+  lag_days: 1633
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: accessibility-localization
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1abc9f450a4f8c14a5a51a3ad5c4d27b93149b4e800b987960672cd86d3ddccb
+machine_hash: 8c01f52837975f678791fada4663e858d2ec6722ffd73267300bb1203d030eaa
 product: open-webui
 product_name: Open WebUI
 record:
@@ -53,10 +53,10 @@ record:
   title: 3 Accessibility and Localization changes in v0.6.8
   type: change
 related_changes:
-- '[[Changes/Aider/2025-03-13-big-upgrade-in-programming-languages-supported-https-aider-chat-docs-languages-h|Big
-  upgrade in programming languages…]]'
 - "[[Changes/Open WebUI/2025-04-01-internationalization-language-support-updates-added-estonian-and-galician-langua|\U0001F30D
   Internationalization Language Support Updates]]"
+- '[[Changes/Raycast/2025-04-09-clipboard-passwords-should-now-be-ignored-when-copied-using-the-passwords-menu-b|Clipboard
+  : Passwords should now be ignored when copied using the Passwords menu bar…]]'
 - "[[Changes/Open WebUI/2025-04-14-translation-refinements-across-multiple-languages-updated-translations-deliver-s|\U0001F30E
   Translation Refinements Across Multiple Languages]]"
 source_release: '[[Releases/Open WebUI/open-webui-2025-05-10-v0-6-8-github-217786259-d3493a31|open-webui-2025-05-10-v0-6-8-github-217786259-d3493a31]]'
@@ -107,7 +107,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.6.8
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-11 · ChatGPT · [[Changes/ChatGPT/2023-09-11-chatgpt-now-supports-a-limited-selection-of-languages-in-the-interface|ChatGPT now supports a limited selection of languages in the interface]]
+- Earliest same-theme entry in the tracked set: 2020-11-19 · Raycast · [[Changes/Raycast/2020-11-19-improved-searching-for-localized-application-and-preference-names|Improved searching for localized application and preference names]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

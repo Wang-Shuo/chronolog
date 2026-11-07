@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 02cc39274413e81ec67d763f1db21e6a4367a1c3bf1498e0de8e1450f5995057
+machine_hash: 17fdbeb4fed1232dbe3246ba6e15a575cd02f3d5daeb11279e58a19b23c32725
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -85,7 +85,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.56.0
 ## Nearby in Safety and Privacy
 
 - Earlier: 2025-11-06 · Open WebUI · [[Changes/Open WebUI/2025-11-06-4-safety-and-privacy-changes-in-v0-6-35|4 Safety and Privacy changes in v0.6.35]]
-- Later: 2025-11-07 · Gemini CLI · [[Changes/Gemini CLI/2025-11-07-migrate-console-error-to-coreevents-debugger-for-sandbox-logger-chatrecordingser|migrate console.error to coreEvents/debugger for sandbox, logger, chatRecordingService]]
+- Later: 2025-11-07 · Devin · [[Changes/Devin/2025-11-07-slack-notification-safety|Slack Notification Safety]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e03c26228c52a8727764eaa15c253d095d94ff51419326ad26357adfba4e79ca
+machine_hash: 285ccf29468db3242d994556a0d4aca7511a439eaf7abf3c0a8024545b6f9c6f
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,12 +43,11 @@ record:
   title: Running many standard bash/PowerShell commands that are known to be readonly
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2025-10-22-ensured-we-preserve-comments-in-vscode-config-files-when-using-terminal-setup-fi|Ensured
-  we preserve comments in VSCode config files when using /terminal-setup…]]'
 - '[[Changes/Cline/2025-10-23-4-developer-workflow-changes-in-v3-34-0|4 Developer
   Workflow changes in v3.34.0]]'
 - '[[Changes/Codex CLI/2025-10-23-4-developer-workflow-changes-in-rust-v0-48-0|4 Developer
   Workflow changes in rust-v0.48.0]]'
+- '[[Changes/Devin/2025-10-24-gitlab-pr-comments|GitLab PR Comments]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2025-10-24-v0-0-351-github-257144222-0cb79d81|github-copilot-cli-2025-10-24-v0-0-351-github-257144222-0cb79d81]]'
 source_type: github_releases
 theme: developer-workflow
@@ -79,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2025-10-23 · Codex CLI · [[Changes/Codex CLI/2025-10-23-4-developer-workflow-changes-in-rust-v0-48-0|4 Developer Workflow changes in rust-v0.48.0]]
+- Earlier: 2025-10-24 · Devin · [[Changes/Devin/2025-10-24-gitlab-pr-comments|GitLab PR Comments]]
 - Later: 2025-10-24 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-10-24-3-developer-workflow-changes-in-v0-0-350|3 Developer Workflow changes in v0.0.350]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: cbd42c3ecf70ab43212df20b50ef82a6a6152cc5fd806a8d43e549acad43e344
+machine_hash: 3fc77efcca14fb574298f79ea382c5452a91fc810a34940de35e1055ec85feee
 product: gemini
 product_name: Gemini
 record:
@@ -64,10 +64,10 @@ record:
   title: 'Meet your new AI browsing assistant: Gemini in Chrome'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-01-16-2-search-and-browsing-changes-in-rust-v0-86-0|2
-  Search and Browsing changes in rust-v0.86.0]]'
 - '[[Changes/Cursor/2026-01-16-added-webfetch-websearch-tools-approval-options-for-granular-controls-over-web-s|Added
   WebFetch, WebSearch tools, & approval options for granular controls over web…]]'
+- '[[Changes/Raycast/2026-01-20-new-run-command-a-modern-replacement-for-the-classic-windows-run-dialog-instead|New
+  Run command, a modern replacement for the classic Windows Run dialog]]'
 - '[[Changes/Codex CLI/2026-01-27-5-search-and-browsing-changes-in-rust-v0-92-0|5
   Search and Browsing changes in rust-v0.92.0]]'
 source_release: '[[Releases/Gemini/gemini-2026-01-28-2026-01-28-27ea870c|gemini-2026-01-28-2026-01-28-27ea870c]]'

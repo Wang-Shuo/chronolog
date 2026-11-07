@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 644014c95ca42e012ca4ab511f9e46adfc4a689bd6193ad79c77e68aab7c7a76
+machine_hash: 03ddaa7548d8ed3ff08316507f1276cd2b925c46f2f823279d78507a9f0941d5
 product: replit
 product_name: Replit
 record:
@@ -46,9 +46,10 @@ record:
   title: New Settings page
   type: change
 related_changes:
-- '[[Changes/Midjourney/2026-10-02-what-you-said|WHAT YOU SAID]]'
-- '[[Changes/Midjourney/2026-10-02-organize-drag-and-drop|ORGANIZE & DRAG AND DROP]]'
 - '[[Changes/Midjourney/2026-10-02-prompt-bar-pills|PROMPT BAR & PILLS]]'
+- '[[Changes/Raycast/2026-10-02-new-navigation|New Navigation]]'
+- '[[Changes/Raycast/2026-10-02-2-interface-experience-changes-in-raycast-ios-1-3-8|2
+  Interface Experience changes in Raycast ios 1.3.8]]'
 source_release: '[[Releases/Replit/replit-2026-10-02-2026-10-02-3eeb4015|replit-2026-10-02-2026-10-02-3eeb4015]]'
 source_type: replit_changelog
 theme: interface-experience
@@ -79,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-10-02 · Midjourney · [[Changes/Midjourney/2026-10-02-prompt-bar-pills|PROMPT BAR & PILLS]]
+- Earlier: 2026-10-02 · Raycast · [[Changes/Raycast/2026-10-02-2-interface-experience-changes-in-raycast-ios-1-3-8|2 Interface Experience changes in Raycast ios 1.3.8]]
 - Later: 2026-10-02 · Synthesia · [[Changes/Synthesia/2026-10-02-a-new-progress-tracker-keeps-long-running-tasks-visible-across-refreshes-and-nav|Track long-running tasks with Progress Tracker]]
 <!-- chronolog:end -->
 

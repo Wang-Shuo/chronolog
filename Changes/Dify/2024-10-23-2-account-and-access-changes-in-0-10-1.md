@@ -14,12 +14,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d42943fc2c85234f745384ae6662b1e52796daa8851a6a80602aa11aa27939f1
+machine_hash: 7cb4720eb500d76074ee5a7b53891d4bcc9ff9ae02d3ca69337db079e2c2f62d
 product: dify
 product_name: Dify
 record:
@@ -47,10 +47,10 @@ record:
   title: 2 Account and Access changes in 0.10.1
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2024-09-21-downgrade-authlib-reverted-authlib-to-version-1-3-1-to-address-and-resolve-issue|\U0001F513
-  Downgrade Authlib]]"
 - '[[Changes/Open WebUI/2024-09-24-update-info-notification-for-admins-ensures-administrators-receive-immediate-upd|❗
   Update Info Notification for Admins]]'
+- '[[Changes/Devin/2024-10-10-we-ve-migrated-our-authentication-system-to-auth0|We''ve
+  migrated our authentication system to Auth0]]'
 - '[[Changes/Dify/2024-10-21-2-account-and-access-changes-in-0-10-0|2 Account and
   Access changes in 0.10.0]]'
 source_release: '[[Releases/Dify/dify-2024-10-23-0-10-1-github-181515566-42cf5148|dify-2024-10-23-0-10-1-github-181515566-42cf5148]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a3222268275fed14c78ed6d197b81c7a6e6309a3d6aaf88eecf817c29a271b04
+machine_hash: 8f86f2ad59a36137b491d16e89f5fe167bf4ed370de2247f6fb2d75c3d367c77
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -88,7 +88,7 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2026-03-29 · OpenCode · [[Changes/OpenCode/2026-03-29-2-context-window-changes-in-v1-3-6-2|2 Context Window changes in v1.3.6 + 2]]
-- Later: 2026-04-01 · Claude Code · [[Changes/Claude Code/2026-04-01-changed-hook-output-over-50k-characters-to-be-saved-to-disk-with-a-file-path-pre|Changed hook output over 50K characters to be saved to disk with a file path…]]
+- Later: 2026-03-31 · Superwhisper · [[Changes/Superwhisper/2026-03-31-add-quit-option-to-recording-window-context-menu|Add quit option to recording window context menu]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

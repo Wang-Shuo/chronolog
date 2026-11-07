@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7dcca4c87652ad0c5882a30f0b6df474f2c5a78b8b50a18cff0ff4cd0494bc5a
+machine_hash: f1b0172284670fb24e103b6d34f28ca040aa69477bb5196dfd5f0e8813e3eaa0
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -42,10 +42,10 @@ record:
   title: Add /loop alias for the /every command
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-06-18-react-to-any-slack-message-with-a-designated-emoji-to-kick-off-an-automation-at|An
-  emoji trigger for Slack]]'
 - '[[Changes/Cursor/2026-06-18-2-automation-and-scheduling-changes-in-06-18-26|2 Automation
   and Scheduling changes in 06.18.26]]'
+- '[[Changes/Devin/2026-06-19-incremental-generation-steps-in-automation-input|Incremental
+  Generation Steps in Automation Input]]'
 - '[[Changes/Codex CLI/2026-06-22-26496-make-auto-review-on-request-prompt-more-proactive-maja-openai|♯26496
   Make auto-review on-request prompt more proactive @maja-openai]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-06-23-v1-0-64-github-343650012-6d4aa4bd|github-copilot-cli-2026-06-23-v1-0-64-github-343650012-6d4aa4bd]]'

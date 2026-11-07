@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 7fc17f5e48e4b19cbb889816a0ac4cada6739493eb2f9600a7add48d86b391ed
+machine_hash: 75323100034b1ce25e3c6fd7dbeda01fa1ab446d952763a6a382275d7a8f8aa1
 product: notion
 product_name: Notion
 record:
@@ -59,8 +59,8 @@ record:
   title: Still free for everyone
   type: change
 related_changes:
-- '[[Changes/Descript/2020-06-16-enjoy-more-flexibility-in-your-descript-subscription-with-the-ability-to-switch|Subscription
-  Modal]]'
+- '[[Changes/Raycast/2020-12-02-calculator-use-system-currency-as-default-to-allow-quicker-conversions-f-e-if-yo|Calculator:
+  Use system currency as default to allow quicker conversions, f.e. if you…]]'
 - "[[Changes/Notion/2021-04-21-upgrade-with-apple-pay-google-pay|Upgrade with Apple
   Pay & Google Pay \U0001F4B3]]"
 - '[[Changes/Notion/2021-12-23-invoices-for-your-notion-subscription-are-now-more-detailed-and-easier-to-read|Invoices

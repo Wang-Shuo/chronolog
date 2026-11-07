@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: f3bfd4d93ff4c44a17ae2d3e5c9418a53f86433ae2d0ef9d3aa905178f942a88
+machine_hash: 6e994476a2a3b04dded0e3884358ac7e7d3960b3d17cf5aa93fa0d33f713d07b
 product: cline
 product_name: Cline
 record:
@@ -44,10 +44,10 @@ record:
   title: Cost estimates no longer appear in task history for subscription-billed tasks…
   type: change
 related_changes:
-- '[[Changes/v0/2026-08-28-4-pricing-model-changes-in-gpt-5-6-sol-sign-in-inside-previews|4
-  Pricing Model changes in GPT-5.6 Sol, sign-in inside previews…]]'
 - '[[Changes/Codex CLI/2026-09-01-rate-limit-banners-offer-actions-for-checking-usage-managing-credits-resetting-l|Rate-limit
   banners offer actions for checking usage, managing credits, resetting…]]'
+- '[[Changes/Krea/2026-09-01-minimax-h3-max-launch-pricing-ended|MiniMax H3 Max launch
+  pricing ended]]'
 - '[[Changes/OpenClaw/2026-09-01-usage-and-status-views-now-carry-cumulative-output-token-totals-through-tool-cal|Usage
   and status views now carry cumulative output-token totals through tool calls…]]'
 source_release: '[[Releases/Cline/cline-2026-09-02-v4-1-17-github-381000681-694bbda2|cline-2026-09-02-v4-1-17-github-381000681-694bbda2]]'

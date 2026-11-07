@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 92ce6ee81698c4a99263261aeb5d1b204346fed3b61689331bb18cc536f5bfcc
+machine_hash: e64620c30c63e08df091aa37722043ccb0eef0a6136941c04726e8552ec4e259
 product: descript
 product_name: Descript
 record:
@@ -106,7 +106,7 @@ type: change
 ## Nearby in Search and Browsing
 
 - Earlier: 2026-06-09 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-09-2-search-and-browsing-changes-in-v1-0-61|2 Search and Browsing changes in v1.0.61]]
-- Later: 2026-06-15 · Codex CLI · [[Changes/Codex CLI/2026-06-15-27501-codex-expand-hosted-web-search-citation-guidance-yuning-oai|♯27501 codex Expand hosted web search citation guidance @yuning-oai]]
+- Later: 2026-06-12 · Devin · [[Changes/Devin/2026-06-12-web-search-enterprise-setting|Web Search Enterprise Setting]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

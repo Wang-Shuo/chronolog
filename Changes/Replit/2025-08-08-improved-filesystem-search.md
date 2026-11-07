@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: ef79d105f89fb66b64df49f35562ee51d0ac35a97011997ce2051fcd4c046a46
+machine_hash: 3d6cade5cd16052a3e3508f71f3b52b86f7bbad2b0598cb05dc6ae3df8c3dc65
 product: replit
 product_name: Replit
 record:
@@ -60,12 +60,11 @@ record:
   title: Improved filesystem search
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-08-05-3-context-window-changes-in-v0-1-17|3 Context Window
-  changes in v0.1.17]]'
-- '[[Changes/Cursor/2025-08-06-admin-api-for-blocklists-block-specific-files-or-directories-from-being-indexed|Admin
-  API for blocklists]]'
+- '[[Changes/Devin/2025-08-06-idp-groups-settings-page|IdP Groups Settings Page]]'
 - '[[Changes/Gemini CLI/2025-08-06-3-context-window-changes-in-v0-1-18|3 Context Window
   changes in v0.1.18]]'
+- '[[Changes/LM Studio/2025-08-06-gpt-oss-openai-compat-api-remove-structural-tokens-etc-from-v1-chat-completions|gpt-oss
+  OpenAI-compat API Remove structural tokens (, , etc...)…]]'
 source_release: '[[Releases/Replit/replit-2025-08-08-2025-08-08-cb053c3d|replit-2025-08-08-2025-08-08-cb053c3d]]'
 source_type: replit_changelog
 theme: context-window
@@ -101,7 +100,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2025-08-06 · Gemini CLI · [[Changes/Gemini CLI/2025-08-06-3-context-window-changes-in-v0-1-18|3 Context Window changes in v0.1.18]]
+- Earlier: 2025-08-06 · LM Studio · [[Changes/LM Studio/2025-08-06-gpt-oss-openai-compat-api-remove-structural-tokens-etc-from-v1-chat-completions|gpt-oss OpenAI-compat API Remove structural tokens (, , etc...)…]]
 - Later: 2025-08-09 · Open WebUI · [[Changes/Open WebUI/2025-08-09-folder-system-prompt-variables-restored-fixed-a-bug-where-prompt-variables-e-g-c|📁 Folder System Prompt Variables Restored]]
 <!-- chronolog:end -->
 

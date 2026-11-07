@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7d98e78b754b6c477128baddfa49e97c3f64e932285c5821c2a470ef2a622465
+machine_hash: 8ad09ca93da469cf6943ffd09a26272c6abbe6c7620b2edc76a45cb06d956d23
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -85,7 +85,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.25.0
 ## Nearby in Context Window
 
 - Earlier: 2025-08-21 · Cursor · [[Changes/Cursor/2025-08-21-context-usage-is-always-shown-in-the-chat-input|Context usage is always shown in the chat input]]
-- Later: 2025-08-28 · Open WebUI · [[Changes/Open WebUI/2025-08-28-2-context-window-changes-in-v0-6-26|2 Context Window changes in v0.6.26]]
+- Later: 2025-08-28 · LM Studio · [[Changes/LM Studio/2025-08-28-3-context-window-changes-in-lm-studio-0-3-24|3 Context Window changes in LM Studio 0.3.24]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e24139f5d57540229bcf89f6ea22b745a712d5973459f26e4c9fc56fe97a8fa7
+machine_hash: 80808eb26b35bc22b4798cca7d8708476650d3e85b1dd70a87b1d579ed5aca64
 product: open-webui
 product_name: Open WebUI
 record:
@@ -44,12 +44,12 @@ record:
   title: "**\U0001F511 Ollama Authentication**"
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2024-11-19-initial-setup-wizard-the-setup-process-now-explicitly-informs-users-that-they-ar|\U0001F6E0️
-  Initial Setup Wizard]]"
 - "[[Changes/Open WebUI/2024-11-23-ldap-profile-image-issue-fixed-an-ldap-integration-bug-related-to-profile-images|\U0001F4F7
   LDAP Profile Image Issue]]"
 - '[[Changes/Dify/2024-11-25-2-account-and-access-changes-in-0-12-0|2 Account and
   Access changes in 0.12.0]]'
+- '[[Changes/AnythingLLM/2024-11-26-2-account-and-access-changes-in-v1-3-0|2 Account
+  and Access changes in v1.3.0]]'
 source_release: '[[Releases/Open WebUI/open-webui-2024-11-26-v0-4-5-github-187496129-7fdc81ab|open-webui-2024-11-26-v0-4-5-github-187496129-7fdc81ab]]'
 source_type: github_releases
 theme: account-access
@@ -80,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2024-11-25 · Dify · [[Changes/Dify/2024-11-25-2-account-and-access-changes-in-0-12-0|2 Account and Access changes in 0.12.0]]
+- Earlier: 2024-11-26 · AnythingLLM · [[Changes/AnythingLLM/2024-11-26-2-account-and-access-changes-in-v1-3-0|2 Account and Access changes in v1.3.0]]
 - Later: 2024-12-06 · OpenHands · [[Changes/OpenHands/2024-12-06-updated-initial-sign-in-with-github-modal-by-amanape-in-https-github-com-all-han|Updated initial Sign in with Github modal]]
 <!-- chronolog:end -->
 

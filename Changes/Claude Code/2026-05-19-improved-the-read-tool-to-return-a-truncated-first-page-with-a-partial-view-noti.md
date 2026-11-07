@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4a235e64ad7aeda75ec2ea5c0d07958faf18b347d05ab10253e5e2c3ec7901b6
+machine_hash: e2720c6f2d5125c0d56e2d4ed5ee977fe151d45bc9988858982bd652f5a54730
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,8 +48,8 @@ record:
     notice…
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-05-16-terminal-fixed-async-commands-losing-the-active-instance-context-which-could-bre|Terminal
-  Fixed async commands losing the active instance context, which could break…]]'
+- '[[Changes/Recraft/2026-05-17-turn-a-short-prompt-into-a-richer-one-with-one-click-adds-visual-context-style-c|Prompt
+  enhancer]]'
 - '[[Changes/Codex CLI/2026-05-18-7-context-window-changes-in-rust-v0-131-0|7 Context
   Window changes in rust-v0.131.0]]'
 - '[[Changes/Lovable/2026-05-18-draw-on-images|Draw on images]]'

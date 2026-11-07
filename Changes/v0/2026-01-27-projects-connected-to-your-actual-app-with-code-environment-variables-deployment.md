@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1677f136fe4bdce500e6848b51e5f1531a8612b41bdbd80b601bb3e7adff05c3
+machine_hash: 43d580ecc9050fa456bfea0d72cc8ab039843b90e27204f36de941a8b6d3b143
 product: v0
 product_name: v0
 record:
@@ -44,12 +44,12 @@ record:
   title: 'Projects : connected to your actual app, with code, environment variables…'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-27-3-developer-workflow-changes-in-v2-1-20|3 Developer
-  Workflow changes in v2.1.20]]'
 - '[[Changes/Codex CLI/2026-01-27-2-developer-workflow-changes-in-rust-v0-92-0|2 Developer
   Workflow changes in rust-v0.92.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-27-2-developer-workflow-changes-in-v0-0-396|2
   Developer Workflow changes in v0.0.396]]'
+- '[[Changes/Raycast/2026-01-27-2-developer-workflow-changes-in-raycast-windows-0-43|2
+  Developer Workflow changes in Raycast windows 0.43]]'
 source_release: '[[Releases/v0/v0-2026-01-27-2026-01-27-folders-projects-05a6daaa|v0-2026-01-27-2026-01-27-folders-projects-05a6daaa]]'
 source_type: v0_changelog
 theme: developer-workflow
@@ -76,7 +76,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-01-27 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-27-2-developer-workflow-changes-in-v0-0-396|2 Developer Workflow changes in v0.0.396]]
+- Earlier: 2026-01-27 · Raycast · [[Changes/Raycast/2026-01-27-2-developer-workflow-changes-in-raycast-windows-0-43|2 Developer Workflow changes in Raycast windows 0.43]]
 - Later: 2026-01-28 · Claude Code · [[Changes/Claude Code/2026-01-28-vscode-added-automatic-python-virtual-environment-activation-ensuring-python-and|VSCode Added automatic Python virtual environment activation, ensuring python…]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 56fe8f5a3ee7158e2aa3f783e8617339190dfb9934531f532eec8c17f0e45913
+machine_hash: 63becb0e950562aa742c7b36a5b5dfe8da6743410f958e632d794940e07a4536
 product: opencode
 product_name: OpenCode
 record:
@@ -93,7 +93,7 @@ Source: https://opencode.ai/changelog/v1.14.20
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-04-21 · Open WebUI · [[Changes/Open WebUI/2026-04-21-2-mobile-and-desktop-changes-in-v0-9-0|2 Mobile and Desktop changes in v0.9.0]]
-- Later: 2026-04-22 · Ollama · [[Changes/Ollama/2026-04-22-fixed-model-picker-showing-stale-model-after-switching-chats-in-the-macos-app|Fixed model picker showing stale model after switching chats in the macOS app]]
+- Later: 2026-04-22 · AnythingLLM · [[Changes/AnythingLLM/2026-04-22-remove-illegal-chars-for-windows-on-files-by-timothycarambat-in-https-github-com|Remove illegal chars for Windows on files]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

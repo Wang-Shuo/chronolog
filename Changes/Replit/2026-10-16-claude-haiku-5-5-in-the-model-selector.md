@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 724bb025d559673be82ac3099078dc9e49cfe5cf55a5d60fd71457db44997473
+machine_hash: afb65b7f1ec3ca192aa667b89aa6cdd2f3ed8f9186897b82ff47675ae9fddf5b
 product: replit
 product_name: Replit
 record:
@@ -44,12 +44,12 @@ record:
   title: Claude Haiku 5.5 in the model selector
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-10-16-3-model-support-changes-in-v0-12-3|3 Model Support
-  changes in v0.12.3]]'
-- '[[Changes/OpenClaw/2026-10-16-openai-reasoning-with-tools-fixed-tool-call-failures-and-reasoning-being-switche|OpenAI
-  reasoning with tools]]'
 - '[[Changes/OpenCode/2026-10-16-core-configure-model-reasoning-options-to-generate-reasoning-variants-replacing|Core
   Configure model reasoning options to generate reasoning variants, replacing…]]'
+- '[[Changes/Raycast/2026-10-16-ai-chat-images-you-attach-when-using-local-models-now-stay-on-your-device-when-c|AI
+  Chat : Images you attach when using local models now stay on your device…]]'
+- '[[Changes/Raycast/2026-10-16-ai-chat-images-you-attach-when-using-local-models-now-stay-on-your-device-when-c-f34b5c|AI
+  Chat : Images you attach when using local models now stay on your device…]]'
 source_release: '[[Releases/Replit/replit-2026-10-16-2026-10-16-3443a38d|replit-2026-10-16-2026-10-16-3443a38d]]'
 source_type: replit_changelog
 theme: model-support
@@ -79,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-10-16 · OpenCode · [[Changes/OpenCode/2026-10-16-core-configure-model-reasoning-options-to-generate-reasoning-variants-replacing|Core Configure model reasoning options to generate reasoning variants, replacing…]]
+- Earlier: 2026-10-16 · Raycast · [[Changes/Raycast/2026-10-16-ai-chat-images-you-attach-when-using-local-models-now-stay-on-your-device-when-c-f34b5c|AI Chat : Images you attach when using local models now stay on your device…]]
 - Later: 2026-10-16 · v0 · [[Changes/v0/2026-10-16-gemini-4-requests-no-longer-fail-when-run-at-higher-effort-levels|Gemini 4 requests no longer fail when run at higher effort levels]]
 <!-- chronolog:end -->
 

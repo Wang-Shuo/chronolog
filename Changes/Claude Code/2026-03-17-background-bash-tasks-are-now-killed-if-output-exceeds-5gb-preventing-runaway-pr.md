@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0d5cd41e568cf55f28bfba3df076daef2cf462cba56640624542bdc8308de191
+machine_hash: 04027051c2b88cd412afa735905f631e1382c108b1dad48d4b4d44683e4bbd98
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,10 @@ record:
   title: Background bash tasks are now killed if output exceeds 5GB, preventing runaway…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-16-2-developer-workflow-changes-in-rust-v0-115-0|2
-  Developer Workflow changes in rust-v0.115.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-16-4-developer-workflow-changes-in-v1-0-6|4
   Developer Workflow changes in v1.0.6]]'
+- '[[Changes/Raycast/2026-03-16-2-developer-workflow-changes-in-raycast-windows-0-49|2
+  Developer Workflow changes in Raycast windows 0.49]]'
 - '[[Changes/v0/2026-03-16-added-v0-label-to-pull-requests-created-by-v0|Added "v0"
   label to pull requests created by v0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-17-v2-1-77-github-297726061-caf6c30c|claude-code-2026-03-17-v2-1-77-github-297726061-caf6c30c]]'

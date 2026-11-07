@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3195b0efaed4a7f288b3c7382a863100c1f3f9ee409bcfad7d36501949ac36f0
+machine_hash: cc623d16e3484f1678ae02ca2d09d257b403e2c7c9936a03198f06264aad918c
 product: notion
 product_name: Notion
 record:
@@ -77,7 +77,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2021-08-10 · Descript · [[Changes/Descript/2021-08-10-tab-and-shift-tab-now-work-to-cycle-through-fields-in-the-inspector|TAB and Shift-TAB now work to cycle through fields in the inspector]]
-- Later: 2021-09-08 · Notion · [[Changes/Notion/2021-09-08-better-url-properties-in-databases|Better URL properties in databases]]
+- Later: 2021-08-25 · Raycast · [[Changes/Raycast/2021-08-25-the-configure-command-action-panel-item-on-the-root-search-will-now-always-take|The Configure Command action panel item ( ⌘ ⇧ , ) on the root search will now always…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

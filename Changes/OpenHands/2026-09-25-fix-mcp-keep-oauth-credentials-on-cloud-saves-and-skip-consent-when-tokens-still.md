@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8b13d49ef285f4d5e64280d2701f28809629be32978834a9b2d4c327695e0cf4
+machine_hash: b83a7842af671a05f09c795ad0b069e0a9adfafab5c8211bd57d615f21edd1ff
 product: openhands
 product_name: OpenHands
 record:
@@ -57,10 +57,10 @@ record:
     still work'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-25-3-safety-and-privacy-changes-in-v2-1-283|3 Safety
-  and Privacy changes in v2.1.283]]'
-- '[[Changes/Codex CLI/2026-09-25-2-safety-and-privacy-changes-in-rust-v0-157-0|2
-  Safety and Privacy changes in rust-v0.157.0]]'
+- '[[Changes/Devin/2026-09-25-github-enterprise-server-role-mirroring-and-team-sync|GitHub
+  Enterprise Server: Role Mirroring and Team Sync]]'
+- '[[Changes/Devin/2026-09-25-runtime-validation-evidence-in-scan-reports|Runtime-Validation
+  Evidence in Scan Reports]]'
 - '[[Changes/Lovable/2026-09-25-account-settings-have-moved-to-their-own-dialog|Account
   settings have moved to their own dialog]]'
 source_release: '[[Releases/OpenHands/openhands-2026-09-25-v1-24-0-github-396708686-384650c4|openhands-2026-09-25-v1-24-0-github-396708686-384650c4]]'

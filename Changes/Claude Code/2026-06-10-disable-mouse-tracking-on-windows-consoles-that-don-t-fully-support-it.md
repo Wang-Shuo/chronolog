@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 6fa3907bba3a0060c2a05acfc3a258b0c9b1e754d3b5d6091aec15c068de7151
+machine_hash: 2e4ce83586ee4ec5952c7706a5e723b24fca5b5e504ba068e5bf92faaec17dcd
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,10 @@ record:
   title: Disable mouse tracking on Windows consoles that don't fully support it
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-08-auto-updater-on-windows-now-stops-retrying-within-a-session-once-claude-exe-is-h|Auto-updater
-  on Windows now stops retrying within a session once claude.exe…]]'
-- '[[Changes/Codex CLI/2026-06-08-4-mobile-and-desktop-changes-in-rust-v0-138-0|4
-  Mobile and Desktop changes in rust-v0.138.0]]'
+- '[[Changes/LM Studio/2026-06-08-introducing-locally-lm-studio-s-mobile-app-available-on-iphone-and-ipad|Introducing
+  Locally, LM Studio''s mobile app]]'
+- '[[Changes/AnythingLLM/2026-06-09-x-tray-fixes-when-app-starts-in-background-or-desktop-assistant-feature-is-toggl|x
+  Tray Fixes when app starts in background or Desktop Assistant feature is toggled]]'
 - '[[Changes/Kimi Code/2026-06-09-detect-git-bash-installed-through-scoop-and-other-git-shims-on-windows|Detect
   Git Bash installed through Scoop and other Git shims on Windows]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-10-v2-1-172-github-337412034-dc68562c|claude-code-2026-06-10-v2-1-172-github-337412034-dc68562c]]'

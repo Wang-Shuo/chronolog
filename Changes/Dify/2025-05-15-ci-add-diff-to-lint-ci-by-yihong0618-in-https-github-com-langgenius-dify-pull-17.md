@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 08767f8d6147ced598ecddc5714a0c6c21bf365c751dcb2db05990ab21f48185
+machine_hash: 3094fbe49faf0305eb944804872144f107530c33c626334a85b4201c81a82330
 product: dify
 product_name: Dify
 record:
@@ -41,11 +41,11 @@ record:
   title: 'ci: add diff to lint ci'
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-05-07-added-helpful-tips-to-changes-tab-zero-state-by-rbren-in-https-github-com-all-ha|Added
-  helpful tips to Changes tab zero state]]'
-- '[[Changes/Aider/2025-05-09-2-editor-experience-changes-in-v0-83-0|2 Editor Experience
-  changes in v0.83.0]]'
 - '[[Changes/Cursor/2025-05-15-new-tab-model|New Tab model]]'
+- "[[Changes/Devin/2025-05-15-devin-2-1-confidence-scores-and-enhanced-codebase-intelligence|Devin
+  2.1: Confidence Scores \U0001F7E2 \U0001F7E1 \U0001F534 and enhanced codebase intelligence]]"
+- '[[Changes/Devin/2025-05-15-enhanced-codebase-intelligence-deepwiki-built-in|Enhanced
+  Codebase Intelligence (DeepWiki Built-in)]]'
 source_release: '[[Releases/Dify/dify-2025-05-15-1-4-0-github-218877198-a895b1ee|dify-2025-05-15-1-4-0-github-218877198-a895b1ee]]'
 source_type: github_releases
 theme: editor-experience
@@ -84,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2025-05-15 · Cursor · [[Changes/Cursor/2025-05-15-new-tab-model|New Tab model]]
+- Earlier: 2025-05-15 · Devin · [[Changes/Devin/2025-05-15-enhanced-codebase-intelligence-deepwiki-built-in|Enhanced Codebase Intelligence (DeepWiki Built-in)]]
 - Later: 2025-05-15 · Windsurf · [[Changes/Windsurf/2025-05-15-swe-1-mini|SWE-1-mini]]
 <!-- chronolog:end -->
 

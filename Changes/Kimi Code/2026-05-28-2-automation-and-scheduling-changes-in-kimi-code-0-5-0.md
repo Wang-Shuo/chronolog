@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 18ea3a94266e23506112444db252f80d0bd82643ba1cab610a59ec25b8f9b7b9
+machine_hash: 4bc1baaa1202177dd3df1e3430e9fcb1beaba112fa5cbbb5fa1459c4ea31af45
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -43,9 +43,9 @@ record:
   title: 2 Automation and Scheduling changes in Kimi Code 0.5.0
   type: change
 related_changes:
-- '[[Changes/Replit/2026-05-22-cleaner-task-settings-dropdown|Cleaner task settings
-  dropdown]]'
 - '[[Changes/ElevenLabs/2026-05-25-music|Music]]'
+- '[[Changes/AnythingLLM/2026-05-26-3-automation-and-scheduling-changes-in-v1-13-0|3
+  Automation and Scheduling changes in v1.13.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-28-schedule-manager-hint-bar-text-no-longer-wraps-over-dialog-borders-when-entries|Schedule
   manager hint bar text no longer wraps over dialog borders when entries are added]]'
 source_release: '[[Releases/Kimi Code/kimi-code-2026-05-28-0-5-0-ecce1ca9|kimi-code-2026-05-28-0-5-0-ecce1ca9]]'
@@ -88,7 +88,7 @@ Source: https://github.com/MoonshotAI/kimi-code/blob/main/docs/en/release-notes/
 ## Nearby in Automation and Scheduling
 
 - Earlier: 2026-05-28 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-28-schedule-manager-hint-bar-text-no-longer-wraps-over-dialog-borders-when-entries|Schedule manager hint bar text no longer wraps over dialog borders when entries are added]]
-- Later: 2026-06-01 · Open WebUI · [[Changes/Open WebUI/2026-06-01-bulk-enable-or-disable-automations-automations-can-now-be-enabled-or-disabled-in|🔘 Bulk enable or disable automations. Automations can now be enabled or disabled…]]
+- Later: 2026-05-29 · Devin · [[Changes/Devin/2026-05-29-automations-files-changed-trigger|Automations: Files-Changed Trigger]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

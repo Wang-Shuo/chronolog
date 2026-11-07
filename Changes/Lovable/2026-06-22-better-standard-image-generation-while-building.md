@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 45386090af63c2d8f3635d499cdad8129d729be341b73e94ad9b1091296f2eb7
+machine_hash: 023a9507a836ff445c08a1ddfcb45959e1e117dfd74b32b6db833062804ffc8f
 product: lovable
 product_name: Lovable
 record:
@@ -45,8 +45,8 @@ record:
   title: Better standard image generation while building
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-08-2-image-generation-changes-in-rust-v0-138-0|2 Image
-  Generation changes in rust-v0.138.0]]'
+- '[[Changes/Recraft/2026-06-12-we-ve-added-three-new-image-generation-models-to-recraft-available-to-paid-subsc|Recraft
+  adds three new image generation models to Recraft]]'
 - '[[Changes/Codex CLI/2026-06-15-27920-handle-standalone-image-generation-failures-as-terminal-items-won-openai|♯27920
   Handle standalone image generation failures as terminal items @won-openai]]'
 - '[[Changes/Microsoft 365 Copilot/2026-06-16-black-forest-lab-s-flux-2-flex-model-is-available-in-powerpoint-for-microsoft-36|Black

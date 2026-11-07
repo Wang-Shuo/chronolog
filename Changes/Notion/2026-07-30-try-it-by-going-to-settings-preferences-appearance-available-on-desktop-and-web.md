@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f7ac49a8b8ef610505ca18e9e45f78f0e497ee8a30c4dafc737439bfaf75cf73
+machine_hash: 7ed0bbb2886e4b6cfc28b050cc1ac2612c98e7fc5cd40fc2b56f4d4aab9015ea
 product: notion
 product_name: Notion
 record:
@@ -42,10 +42,10 @@ record:
   title: Try it by going to Settings > Preferences > Appearance
   type: change
 related_changes:
-- '[[Changes/Microsoft 365 Copilot/2026-07-29-list-email-attachments-in-microsoft-365-copilot-android-windows-ios-mac-web-micr|List
-  email attachments in Microsoft 365 Copilot Android, Windows, iOS, Mac…]]'
 - '[[Changes/Windsurf/2026-07-29-devin-desktop|Devin Desktop]]'
 - '[[Changes/Windsurf/2026-07-29-devin-desktop-9e1a9d|Devin Desktop]]'
+- '[[Changes/Wispr Flow/2026-07-29-snippets-now-support-rich-text-formatting-desktop|Snippets
+  now support rich text formatting (Desktop)]]'
 source_release: '[[Releases/Notion/notion-2026-07-30-https-www-notion-com-releases-2026-07-30-f65bd89c|notion-2026-07-30-https-www-notion-com-releases-2026-07-30-f65bd89c]]'
 source_type: notion_changelog
 theme: mobile-desktop
@@ -74,7 +74,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-07-29 · Windsurf · [[Changes/Windsurf/2026-07-29-devin-desktop-9e1a9d|Devin Desktop]]
+- Earlier: 2026-07-29 · Wispr Flow · [[Changes/Wispr Flow/2026-07-29-snippets-now-support-rich-text-formatting-desktop|Snippets now support rich text formatting (Desktop)]]
 - Later: 2026-07-30 · OpenCode · [[Changes/OpenCode/2026-07-30-4-mobile-and-desktop-changes-in-v1-18-10|4 Mobile and Desktop changes in v1.18.10]]
 <!-- chronolog:end -->
 

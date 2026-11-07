@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 85330a2ff312be6c8756e899fc539e4bc8b39a5dafb029b81cbb1e263b9d3425
+machine_hash: ce71f297a0dfcdf30c40bf824650e87b7ab95607bb5ec9011d5077361a9e9c45
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -43,10 +43,9 @@ record:
   title: Add new enterprise instructions
   type: change
 related_changes:
-- '[[Changes/Lovable/2025-12-10-control-who-can-publish-externally|Control who can
-  publish externally]]'
 - '[[Changes/Cline/2025-12-11-enterprise-docs-by-jl-codes-in-https-github-com-cline-cline-pull-7714|Enterprise
   docs]]'
+- '[[Changes/Devin/2025-12-12-enterprise-api-v3-enhancements|Enterprise API v3 Enhancements]]'
 - '[[Changes/Replit/2025-12-12-teams-and-enterprise|Teams and Enterprise]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-12-16-v0-21-0-github-270848833-3e3b19fe|gemini-cli-2025-12-16-v0-21-0-github-270848833-3e3b19fe]]'
 source_type: github_releases

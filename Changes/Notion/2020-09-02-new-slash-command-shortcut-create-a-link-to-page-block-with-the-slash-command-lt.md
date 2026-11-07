@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: a624feaa38cab707090998d2b8a56159a7f91a0fd8544733964523bdd4c45f75
+machine_hash: 28c5bc75907ffb17f3b8c1ad49f7da76e3730e6291c76e0e24aabbf5e203fbb7
 product: notion
 product_name: Notion
 record:
@@ -47,12 +47,10 @@ record:
   title: New slash command shortcut
   type: change
 related_changes:
-- '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
-  Colors]]'
-- '[[Changes/Notion/2020-06-23-improved-keyboard-and-slash-command-support-for-inline-math|Improved
-  keyboard and slash command support for inline math]]'
-- '[[Changes/Notion/2020-07-02-added-grey-as-an-alternative-spelling-for-the-slash-command-gray|Added
-  /grey as an alternative spelling for the slash command /gray]]'
+- '[[Changes/Raycast/2020-08-03-clipboard-history|Clipboard History]]'
+- '[[Changes/Raycast/2020-08-03-new-the-update-flow-got-nicely-integrated-in-raycast-new-updates-show-up-on-the|New:
+  The update flow got nicely integrated in Raycast]]'
+- '[[Changes/Raycast/2020-08-25-fallback-search-suggestions|Fallback search suggestions]]'
 source_release: '[[Releases/Notion/notion-2020-09-02-https-www-notion-com-releases-2020-09-02-e355590b|notion-2020-09-02-https-www-notion-com-releases-2020-09-02-e355590b]]'
 source_type: notion_changelog
 theme: developer-workflow
@@ -85,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2020-07-02 · Notion · [[Changes/Notion/2020-07-02-added-grey-as-an-alternative-spelling-for-the-slash-command-gray|Added /grey as an alternative spelling for the slash command /gray]]
+- Earlier: 2020-08-25 · Raycast · [[Changes/Raycast/2020-08-25-fallback-search-suggestions|Fallback search suggestions]]
 - Later: 2020-09-08 · Descript · [[Changes/Descript/2020-09-08-descript-s-new-command-palette-conductor-allows-you-to-quickly-access-a-host-of|Speed Up Your Editing Workflow with the Conductor]]
 <!-- chronolog:end -->
 

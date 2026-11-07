@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ff3f38b4c3ea3a9e4801eb47f6d5f91c4d9cfa23c07f28bd59d234fb6c09e81d
+machine_hash: 704fb8582f966e35a736422365604fa21ed133bae0b43d44ac92cd1d828d074c
 product: openclaw
 product_name: OpenClaw
 record:
@@ -68,11 +68,11 @@ record:
   title: 4 Enterprise and Administration changes in v2026.9.2
   type: change
 related_changes:
-- '[[Changes/HeyGen/2026-09-04-projects-page-organized-for-scale|Projects page, organized
-  for scale]]'
 - '[[Changes/HeyGen/2026-09-04-governance-for-admins|Governance for admins]]'
 - '[[Changes/Lovable/2026-09-04-manage-and-protect-your-preview-links|Manage and protect
   your preview links]]'
+- '[[Changes/Wispr Flow/2026-09-04-for-teams-enterprise-desktop|For Teams & Enterprise
+  (Desktop)]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-09-05-v2026-9-2-377f6d77|openclaw-2026-09-05-v2026-9-2-377f6d77]]'
 source_type: openclaw_changelog
 theme: enterprise-admin
@@ -131,7 +131,7 @@ Source: https://docs.openclaw.ai/releases/2026.9.2
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-09-04 · Lovable · [[Changes/Lovable/2026-09-04-manage-and-protect-your-preview-links|Manage and protect your preview links]]
+- Earlier: 2026-09-04 · Wispr Flow · [[Changes/Wispr Flow/2026-09-04-for-teams-enterprise-desktop|For Teams & Enterprise (Desktop)]]
 - Later: 2026-09-08 · OpenClaw · [[Changes/OpenClaw/2026-09-08-ordinary-model-changes-now-apply-to-the-current-chat-by-default-including-admini|Ordinary model changes now apply to the current chat by default, including…]]
 <!-- chronolog:end -->
 

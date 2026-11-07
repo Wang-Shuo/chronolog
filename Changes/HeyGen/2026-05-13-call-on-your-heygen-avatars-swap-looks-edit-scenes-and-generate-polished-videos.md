@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: video-generation
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 063da057ef985c9adea1079c567bfd669d6c046e4209ac4c74d06b6d61566cf9
+machine_hash: ffe7aaa34ada37592c4159f877088cf8bf416c022865bd2f0738d179f3b4b22b
 product: heygen
 product_name: HeyGen
 record:
@@ -47,8 +47,8 @@ record:
     videos…
   type: change
 related_changes:
-- '[[Changes/Runway/2026-04-07-use-anything-text-image-video-or-audio-to-generate-or-edit-videos-with-seedance|Seedance
-  2.0]]'
+- '[[Changes/Recraft/2026-04-14-we-ve-added-new-video-generation-models-seedance-2-0-seedance-2-0-fast-pixverse|Recraft
+  adds new video generation models]]'
 - '[[Changes/Descript/2026-04-16-the-hedra-character-2-avatar-video-generation-model-https-help-descript-com-hc-e|The
   Hedra Character 2 avatar video generation…]]'
 - '[[Changes/Microsoft 365 Copilot/2026-04-21-copilot-setting-for-video-generation-microsoft-365-copilot-admin-center|Copilot
@@ -86,7 +86,7 @@ type: change
 ## Nearby in Video Generation
 
 - Earlier: 2026-04-21 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-04-21-copilot-setting-for-video-generation-microsoft-365-copilot-admin-center|Copilot setting for video generation (Microsoft 365 Copilot admin center)]]
-- Later: 2026-06-24 · HeyGen · [[Changes/HeyGen/2026-06-24-look-packs-is-now-available-inside-heygen-it-takes-a-single-face-upload-and-gene|Look Packs is now available inside HeyGen]]
+- Later: 2026-06-04 · Recraft · [[Changes/Recraft/2026-06-04-we-ve-added-alibaba-happy-horse-1-0-for-video-generation-in-recraft-studio-avail|Recraft adds Alibaba Happy Horse 1.0 for video generation in Recraft Studio]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

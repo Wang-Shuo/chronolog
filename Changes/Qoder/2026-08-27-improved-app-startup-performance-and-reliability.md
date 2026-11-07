@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1ae330053393c03d12b172291c7de714c48a7644c9fc26debbaafc0213664ea0
+machine_hash: 9907e5fabc4337e9f2451f0ad7de225e27370e12530e63e01b23d4c316585608
 product: qoder
 product_name: Qoder
 record:
@@ -40,8 +40,8 @@ record:
   title: Improved app startup performance and reliability
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-08-25-10-reliability-and-performance-changes-in-v0-11-1|10
-  Reliability and Performance changes in v0.11.1]]'
+- '[[Changes/AnythingLLM/2026-08-27-this-replaces-our-previous-snapdragon-npu-engine-any-previous-models-from-the-ol|
+  This replaces our previous Snapdragon NPU engine]]'
 - '[[Changes/GitHub Copilot CLI/2026-08-27-resume-large-sessions-faster-by-showing-recent-history-first-while-older-message|Resume
   large sessions faster by showing recent history first while older messages load]]'
 - '[[Changes/Lovable/2026-08-27-faster-command-palette|Faster command palette]]'

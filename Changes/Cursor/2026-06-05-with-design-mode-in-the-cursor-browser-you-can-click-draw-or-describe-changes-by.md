@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 24a210b7dd8c8c49d126f340665728cc03e04b8653aca34e2ef56b2293733683
+machine_hash: 073dc10048e2b3472e23d0fd2209c1d1e5f22f504bf4aff8c03e8bc730ca53b7
 product: cursor
 product_name: Cursor
 record:
@@ -54,8 +54,8 @@ record:
     changes…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-02-add-the-voice-command-to-dictate-prompts-using-local-speech-to-text-models|Add
-  the /voice command to dictate prompts using local speech-to-text models]]'
+- '[[Changes/Raycast/2026-06-04-dictation-dictate-dictate-to-note-dictation-history-and-other-dictation-commands|Dictation
+  : Dictate Dictate to Note Dictation History and other dictation commands…]]'
 - '[[Changes/Suno/2026-06-04-share-audio-from-ios-voice-memos-the-app-will-automatically-attach-as-audio-in-t|Share
   audio from iOS Voice Memos]]'
 - '[[Changes/Cursor/2026-06-05-narrate-changes-through-the-design-mode-overlay-the-mic-stays-available-while-an|Voice

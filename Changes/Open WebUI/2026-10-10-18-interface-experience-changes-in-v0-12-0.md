@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 700c2d6f1412e19fff55d32017d1aacf3e7e5867b375f3985be14dc175a3e15e
+machine_hash: e51f88fa71a5c4650c7c2cdd000abe3da29a6016520721ff86d832e07dcc9d47
 product: open-webui
 product_name: Open WebUI
 record:
@@ -136,12 +136,11 @@ record:
   title: 18 Interface Experience changes in v0.12.0
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-10-08-4-interface-experience-changes-in-v2026-9-9|4 Interface
-  Experience changes in v2026.9.9]]'
-- '[[Changes/OpenHands/2026-10-08-test-e2e-open-commits-from-the-tabs-pane-s-own-menu-by-enyst-in-https-github-com|test(e2e):
-  open Commits from the tabs pane''s own menu]]'
 - '[[Changes/Claude Code/2026-10-09-improved-fullscreen-mode-the-link-under-the-mouse-pointer-is-now-underlined-to-s|Improved
   fullscreen mode]]'
+- '[[Changes/Devin/2026-10-09-secrets-sheets|Secrets sheets]]'
+- '[[Changes/Raycast/2026-10-09-4-interface-experience-changes-in-raycast-macos-2-7|4
+  Interface Experience changes in Raycast macos 2.7]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-10-10-v0-12-0-github-409209575-f076e92b|open-webui-2026-10-10-v0-12-0-github-409209575-f076e92b]]'
 source_type: github_releases
 theme: interface-experience
@@ -224,7 +223,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.12.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-10-09 · Claude Code · [[Changes/Claude Code/2026-10-09-improved-fullscreen-mode-the-link-under-the-mouse-pointer-is-now-underlined-to-s|Improved fullscreen mode]]
+- Earlier: 2026-10-09 · Raycast · [[Changes/Raycast/2026-10-09-4-interface-experience-changes-in-raycast-macos-2-7|4 Interface Experience changes in Raycast macos 2.7]]
 - Later: 2026-10-10 · OpenClaw · [[Changes/OpenClaw/2026-10-10-20-interface-experience-changes-in-v2026-10-1|20 Interface Experience changes in v2026.10.1]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: e6b0f0224a4ebffa5075a7e935c90f2077ddaa9f44b33a5da42547afd3cd6d60
+machine_hash: 052a9b7a0db5e62ebe8c95130465b2e1986fb77c3fff03373745104bead555bf
 product: replit
 product_name: Replit
 record:
@@ -54,10 +54,10 @@ record:
   title: Per-user spend limits for Enterprise workspaces
   type: change
 related_changes:
-- '[[Changes/Dify/2026-05-12-2-enterprise-and-administration-changes-in-1-14-1|2 Enterprise
-  and Administration changes in 1.14.1]]'
 - '[[Changes/Claude Code/2026-05-13-added-anthropic-workspace-id-environment-variable-for-workload-identity-federati|Added
   ANTHROPIC_WORKSPACE_ID environment variable for workload identity federation]]'
+- '[[Changes/Devin/2026-05-13-enterprise-member-invite-acknowledgement|Enterprise
+  Member Invite Acknowledgement]]'
 - '[[Changes/Replit/2026-05-15-buy-enterprise-online-with-automated-sso-setup|Buy
   Enterprise online with automated SSO setup]]'
 source_release: '[[Releases/Replit/replit-2026-05-15-2026-05-15-d142aa2e|replit-2026-05-15-2026-05-15-d142aa2e]]'
@@ -94,8 +94,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-05-13 · Claude Code · [[Changes/Claude Code/2026-05-13-added-anthropic-workspace-id-environment-variable-for-workload-identity-federati|Added ANTHROPIC_WORKSPACE_ID environment variable for workload identity federation]]
-- Later: 2026-05-19 · Dify · [[Changes/Dify/2026-05-19-chore-enchance-copywriting-in-none-education-plan-warning-modal-by-iamjoel-in-ht|chore: enchance copywriting in none education plan warning modal]]
+- Earlier: 2026-05-13 · Devin · [[Changes/Devin/2026-05-13-enterprise-member-invite-acknowledgement|Enterprise Member Invite Acknowledgement]]
+- Later: 2026-05-17 · Devin · [[Changes/Devin/2026-05-17-default-member-roles|Default Member Roles]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

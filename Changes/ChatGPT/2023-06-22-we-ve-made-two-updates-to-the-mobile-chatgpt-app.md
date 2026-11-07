@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 50e8a4d127ff9c5310805a9bce7b382860a4b52a31e4ab71a8256719c7689034
+machine_hash: d2125f901a5b55f303b6375d505656abd9bac8ce78431ae202b4ce246cda0060
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,8 +41,7 @@ record:
   title: ChatGPT makes two updates to the mobile ChatGPT app
   type: change
 related_changes:
-- "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support
-  \U0001F973]]"
+- '[[Changes/Raycast/2023-03-29-history|History]]'
 - '[[Changes/ChatGPT/2023-05-24-good-news-we-re-expanding-availability-of-the-chatgpt-app-for-ios-to-more-countr-1a3e7f|ChatGPT
   app for iOS in more countries]]'
 - '[[Changes/ChatGPT/2023-05-24-you-can-now-disable-your-chat-history-on-ios-conversations-started-on-your-devic|Disable

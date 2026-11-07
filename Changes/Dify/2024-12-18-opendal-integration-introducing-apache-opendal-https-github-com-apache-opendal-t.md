@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: a4b2022795df559ab3d222d86f08dce436fdb7e82b402d65beb863a239803e7d
+machine_hash: afca974cb7443237d6751a35480601da2c03b4845c1e7a17d38fc737563fcd0b
 product: dify
 product_name: Dify
 record:
@@ -51,9 +51,9 @@ record:
   title: '**OpenDAL Integration**: Introducing [Apache…'
   type: change
 related_changes:
-- '[[Changes/Replit/2024-12-13-build-beautiful-apps|Build Beautiful Apps]]'
 - '[[Changes/Dify/2024-12-16-features-integration-of-apache-opendal-https-github-com-apache-opendal-storage-f|Features
   integration of Apache OpenDAL((source link) storage…]]'
+- '[[Changes/Raycast/2024-12-16-raycast-wrapped-2024|Raycast Wrapped 2024]]'
 - '[[Changes/Cline/2024-12-18-enable-or-disable-for-reading-files-directories-editing-files-executing-terminal|Enable
   or disable for]]'
 source_release: '[[Releases/Dify/dify-2024-12-18-0-14-1-github-191377353-1e563ad0|dify-2024-12-18-0-14-1-github-191377353-1e563ad0]]'

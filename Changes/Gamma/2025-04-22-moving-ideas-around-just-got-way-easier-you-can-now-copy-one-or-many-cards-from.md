@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6054934fce8198d30126809c7542d349889aefb799f492c5f802d1d6e8ad7462
+machine_hash: c5f856a7b0386f8e535ed5dc60e3f144f81f0426d7f701d5bc2012459c973df5
 product: gamma
 product_name: Gamma
 record:
@@ -45,8 +45,8 @@ record:
   title: Moving ideas around just got way easier
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-04-16-converted-the-terminal-panel-from-a-fixed-bottom-panel-to-a-tab-by-rbren-in-http|Converted
-  the Terminal panel from a fixed bottom panel to a tab]]'
+- '[[Changes/AnythingLLM/2025-04-18-apply-git-logic-handler-for-repo-urls-by-timothycarambat-in-https-github-com-min|Apply
+  .git logic handler for repo URLs]]'
 - '[[Changes/Replit/2025-04-18-clearer-checkpoint-titles|Clearer checkpoint titles]]'
 - '[[Changes/Cline/2025-04-19-2-developer-workflow-changes-in-v3-13-0|2 Developer
   Workflow changes in v3.13.0]]'

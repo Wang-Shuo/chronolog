@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: a2b5f6bf356e74935271b666210b3e1b2e666ac6297b73ea4e825a40074ce3b3
+machine_hash: 158b2979b8223615976168fdb71ad16c2081d3df709512b2aa851386ad75016c
 product: dify
 product_name: Dify
 record:
@@ -49,12 +49,12 @@ record:
   title: '**Operations:** archive storage supports configurable S3 addressing style'
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-10-22-gemini-2-5-chat-models-are-retired-for-your-app-s-ai-features|Gemini
-  2.5 chat models are retired for your app''s AI features]]'
-- '[[Changes/OpenClaw/2026-10-22-4-model-support-changes-in-v2026-10-6|4 Model Support
-  changes in v2026.10.6]]'
+- '[[Changes/Raycast/2026-10-22-ai-newly-installed-extension-provided-models-are-now-searchable-in-model-pickers-a5ceb9|AI
+  : Newly installed Extension-provided models are now searchable in model pickers]]'
 - '[[Changes/Codex CLI/2026-10-23-9-model-support-changes-in-rust-v0-164-0|9 Model
   Support changes in rust-v0.164.0]]'
+- '[[Changes/Devin/2026-10-23-llm-filter-in-the-v3-api-and-terraform-provider|LLM
+  Filter in the v3 API and Terraform Provider]]'
 source_release: '[[Releases/Dify/dify-2026-10-23-1-18-0-github-421489030-879b0613|dify-2026-10-23-1-18-0-github-421489030-879b0613]]'
 source_type: github_releases
 theme: model-support
@@ -97,7 +97,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-10-23 · Codex CLI · [[Changes/Codex CLI/2026-10-23-9-model-support-changes-in-rust-v0-164-0|9 Model Support changes in rust-v0.164.0]]
+- Earlier: 2026-10-23 · Devin · [[Changes/Devin/2026-10-23-llm-filter-in-the-v3-api-and-terraform-provider|LLM Filter in the v3 API and Terraform Provider]]
 - Later: 2026-10-23 · Ollama · [[Changes/Ollama/2026-10-23-the-model-includes-a-dflash-draft-for-speculative-decoding|The model includes a DFlash draft for speculative decoding]]
 <!-- chronolog:end -->
 

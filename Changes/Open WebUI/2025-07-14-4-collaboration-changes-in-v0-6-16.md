@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 723682ee6703d2a2de71c22cf0f4d8dae1a86fa35ebcd6911bf1326f6e4d84e6
+machine_hash: 58afdce789f2164e171a8900706616a6b76d40c562c22cf39e3e8787639f3718
 product: open-webui
 product_name: Open WebUI
 record:
@@ -110,7 +110,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.6.16
 ## Nearby in Collaboration
 
 - Earlier: 2025-07-11 · Cline · [[Changes/Cline/2025-07-11-request-validation-and-remove-credit-balance-for-cline-team-by-abeatrix-in-https|Request validation and remove credit balance for cline team]]
-- Later: 2025-07-17 · Descript · [[Changes/Descript/2025-07-17-with-brand-studio-your-team-can-now-maintain-brand-consistency-without-sacrifici|With Brand Studio, your team can now maintain brand consistency without sacrificing…]]
+- Later: 2025-07-16 · Raycast · [[Changes/Raycast/2025-07-16-ai-always-use-the-original-image-when-saving-and-sharing-a-chat-image|AI: Always use the original image when saving and sharing a chat image]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3cb58f74b1130f0cb0abcf9d54d55f902fae7d5cd968edc323bde5f03e615979
+machine_hash: d55b60121113e19323fba363d35f4c0adb68caaf813b44736e0c0c3624a7561c
 product: ollama
 product_name: Ollama
 record:
@@ -43,8 +43,8 @@ record:
   title: 2 Context Window changes in v0.40.7
   type: change
 related_changes:
-- '[[Changes/Cline/2026-10-16-auto-compact-and-its-strategy-setting-sit-together-again-in-feature-settings|Auto
-  Compact and its strategy setting sit together again in Feature settings]]'
+- '[[Changes/Devin/2026-10-16-microsoft-teams-forwarded-messages-as-context|Microsoft
+  Teams: Forwarded Messages as Context]]'
 - '[[Changes/Open WebUI/2026-10-16-2-context-window-changes-in-v0-12-3|2 Context Window
   changes in v0.12.3]]'
 - '[[Changes/OpenClaw/2026-10-16-manual-compaction-compact-gives-an-active-answer-up-to-60-seconds-to-finish-if-i|Manual

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 3a9f4940e479334053e96eadff7534822d4c53a1d6a00111ff1878acfeaaebe2
+machine_hash: 7da59cb32b3ef44fff6f701f631f8ba0fcc47aed9e9a786ae46ee68f1d38c1d4
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -60,7 +60,8 @@ record:
     cron…
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-05-25-music|Music]]'
+- '[[Changes/AnythingLLM/2026-05-26-3-automation-and-scheduling-changes-in-v1-13-0|3
+  Automation and Scheduling changes in v1.13.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-28-schedule-manager-hint-bar-text-no-longer-wraps-over-dialog-borders-when-entries|Schedule
   manager hint bar text no longer wraps over dialog borders when entries are added]]'
 - '[[Changes/Kimi Code/2026-05-28-2-automation-and-scheduling-changes-in-kimi-code-0-5-0|2
@@ -101,7 +102,7 @@ type: change
 ## Nearby in Automation and Scheduling
 
 - Earlier: 2026-05-28 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-28-schedule-manager-hint-bar-text-no-longer-wraps-over-dialog-borders-when-entries|Schedule manager hint bar text no longer wraps over dialog borders when entries are added]]
-- Later: 2026-06-01 · Open WebUI · [[Changes/Open WebUI/2026-06-01-bulk-enable-or-disable-automations-automations-can-now-be-enabled-or-disabled-in|🔘 Bulk enable or disable automations. Automations can now be enabled or disabled…]]
+- Later: 2026-05-29 · Devin · [[Changes/Devin/2026-05-29-automations-files-changed-trigger|Automations: Files-Changed Trigger]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

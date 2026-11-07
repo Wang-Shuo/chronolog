@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 24cc8984f64f9d922cbf9edc59547e86b2112c0ddaaa74a8cec09a86f8693ff4
+machine_hash: 8d6aaecb5913df33c96b00f769b48d96eaf7e8037ef289896947d93fb0523946
 product: claude-code
 product_name: Claude Code
 record:
@@ -92,7 +92,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.50
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-02-19 · Google Antigravity · [[Changes/Google Antigravity/2026-02-19-settings-artifacts-and-stability|Settings, Artifacts, and Stability]]
-- Later: 2026-02-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-20-improve-code-search-speed-in-large-repos|Improve code search speed in large repos]]
+- Later: 2026-02-20 · Devin · [[Changes/Devin/2026-02-20-various-bug-fixes-and-performance-improvements-across-the-platform|Various bug fixes and performance improvements across the platform]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

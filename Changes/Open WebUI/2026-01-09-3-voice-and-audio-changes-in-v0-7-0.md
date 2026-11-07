@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 952865b9a424b8be8732a0f2e932b696722222079228024306a12b73dfa38b35
+machine_hash: a4e97b17c5d788f5416ea220e9d5d4dd073f39e7af5e67c083a2b500a8a38002
 product: open-webui
 product_name: Open WebUI
 record:
@@ -54,8 +54,9 @@ record:
   title: 3 Voice and Audio changes in v0.7.0
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-01-05-javascript-sdk|JavaScript SDK]]'
 - '[[Changes/ElevenLabs/2026-01-05-voices|Voices]]'
+- '[[Changes/Superwhisper/2026-01-05-improved-empty-transcription-handling|Improved
+  empty transcription handling]]'
 - '[[Changes/OpenCode/2026-01-07-desktop-add-audio-input-and-camera-permissions-to-entitlements|Desktop
   Add audio input and camera permissions to entitlements]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-01-09-v0-7-0-github-275585328-a4da522c|open-webui-2026-01-09-v0-7-0-github-275585328-a4da522c]]'

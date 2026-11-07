@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f5a29f30485d4dd756d05edaa47cf41f8b9555525c528647d2b756b959b0c2f4
+machine_hash: 7583ad80beb5f37a56fb41214142028cf9cb4ef86948ec41fd0e90e14d2f3a99
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -53,12 +53,12 @@ record:
   title: 'feat(mcp): Add ODIC fallback to OAuth metadata look up'
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2025-08-28-2-account-and-access-changes-in-v0-6-26|2 Account
-  and Access changes in v0.6.26]]'
 - '[[Changes/Codex CLI/2025-08-29-2737-changed-oauth-success-screen-to-use-the-string-codex-rather-than-codex-cli|♯2737
   Changed OAuth success screen to use the string "Codex" rather than "Codex CLI"]]'
 - '[[Changes/Dify/2025-09-03-2-account-and-access-changes-in-1-8-1|2 Account and Access
   changes in 1.8.1]]'
+- '[[Changes/Raycast/2025-09-03-login-integrated-single-sign-on-authentication|Login:
+  Integrated single sign-on authentication]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-09-04-v0-3-0-github-244870431-556b0abc|gemini-cli-2025-09-04-v0-3-0-github-244870431-556b0abc]]'
 source_type: github_releases
 theme: account-access
@@ -100,7 +100,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2025-09-03 · Dify · [[Changes/Dify/2025-09-03-2-account-and-access-changes-in-1-8-1|2 Account and Access changes in 1.8.1]]
+- Earlier: 2025-09-03 · Raycast · [[Changes/Raycast/2025-09-03-login-integrated-single-sign-on-authentication|Login: Integrated single sign-on authentication]]
 - Later: 2025-09-05 · Codex CLI · [[Changes/Codex CLI/2025-09-05-3-account-and-access-changes-in-rust-v0-30-0|3 Account and Access changes in rust-v0.30.0]]
 <!-- chronolog:end -->
 

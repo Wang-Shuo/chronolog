@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ac5f3b7de97fd5c87d9245b61eb41ba2d38ae285f34094dba9947e59096d7266
+machine_hash: 56ba7d81e4bc0a62df378d31894166949b37433cc94cb3b78a3e01fb5a829412
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -129,7 +129,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.48.0
 ## Nearby in Apps and Integrations
 
 - Earlier: 2025-10-23 · Cline · [[Changes/Cline/2025-10-23-3-apps-and-integrations-changes-in-v3-34-0|3 Apps and Integrations changes in v3.34.0]]
-- Later: 2025-10-25 · Codex CLI · [[Changes/Codex CLI/2025-10-25-3-apps-and-integrations-changes-in-rust-v0-50-0|3 Apps and Integrations changes in rust-v0.50.0]]
+- Later: 2025-10-24 · Devin · [[Changes/Devin/2025-10-24-searchable-channel-dropdown|Searchable Channel Dropdown]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

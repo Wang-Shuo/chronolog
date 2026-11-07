@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 24a62e28c8bbbf255bc7f7c1ff3a662c931dafc25095872f013d2194b9dcde26
+machine_hash: 2dbd3fa38a1ae39cc3bfc4dc6664dc1717c6e1a163617e3486e5992d8caad968
 product: open-webui
 product_name: Open WebUI
 record:
@@ -44,11 +44,11 @@ record:
   title: 2 Files and Data changes in v0.3.11
   type: change
 related_changes:
-- '[[Changes/Dify/2024-07-23-update-empty-document-caused-delete-exist-collection-by-johnjyong-in-https-githu|update
-  empty document caused delete exist collection]]'
-- '[[Changes/Gamma/2024-07-23-import-pdf-to-convert-existing-documents|Import PDF
-  to convert existing documents]]'
 - '[[Changes/Ollama/2024-07-25-code-interpreter|Code interpreter]]'
+- '[[Changes/AnythingLLM/2024-07-26-23-files-and-data-changes-in-v1-0-0|23 Files and
+  Data changes in v1.0.0]]'
+- '[[Changes/AnythingLLM/2024-08-01-add-drag-and-drop-to-chat-window-for-auto-upload-embed-of-documents-by-timothyca|Add
+  drag-and-drop to chat window for auto upload & embed of documents]]'
 source_release: '[[Releases/Open WebUI/open-webui-2024-08-02-v0-3-11-github-168514684-1f88ba87|open-webui-2024-08-02-v0-3-11-github-168514684-1f88ba87]]'
 source_type: github_releases
 theme: file-data
@@ -88,7 +88,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.3.11
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2024-07-25 · Ollama · [[Changes/Ollama/2024-07-25-code-interpreter|Code interpreter]]
+- Earlier: 2024-08-01 · AnythingLLM · [[Changes/AnythingLLM/2024-08-01-add-drag-and-drop-to-chat-window-for-auto-upload-embed-of-documents-by-timothyca|Add drag-and-drop to chat window for auto upload & embed of documents]]
 - Later: 2024-08-06 · Ollama · [[Changes/Ollama/2024-08-06-batches-generate-embeddings-for-several-documents-in-one-request|Batches: generate embeddings for several documents in one request]]
 <!-- chronolog:end -->
 

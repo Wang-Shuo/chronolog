@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2766e5ec5a05a35d7300c1661e51a17757f8fb30490f52ead2030267a68554c1
+machine_hash: 85880337c829a2c046b5bb7bdda7340565f217182d9f7a6d4f708b605c331522
 product: open-webui
 product_name: Open WebUI
 record:
@@ -167,12 +167,10 @@ record:
   title: 21 Editor Experience changes in v0.11.4
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-18-2-editor-experience-changes-in-v2-1-277|2 Editor
-  Experience changes in v2.1.277]]'
-- '[[Changes/OpenClaw/2026-09-19-21-editor-experience-changes-in-v2026-9-5|21 Editor
-  Experience changes in v2026.9.5]]'
-- '[[Changes/Lovable/2026-09-20-organize-project-files-into-collections|Organize project
-  files into collections]]'
+- '[[Changes/Devin/2026-09-21-npx-devin-review-cli-retired|npx devin-review CLI Retired]]'
+- '[[Changes/Devin/2026-09-21-file-tree-smart-diffs-and-open-in-editor-in-the-pr-tab|File
+  Tree, Smart Diffs, and Open in Editor in the PR Tab]]'
+- '[[Changes/Devin/2026-09-21-checks-tab-and-faster-diffs|Checks Tab and Faster Diffs]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-09-21-v0-11-4-github-393232555-90de9130|open-webui-2026-09-21-v0-11-4-github-393232555-90de9130]]'
 source_type: github_releases
 theme: editor-experience
@@ -260,7 +258,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.11.4
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-09-20 · Lovable · [[Changes/Lovable/2026-09-20-organize-project-files-into-collections|Organize project files into collections]]
+- Earlier: 2026-09-21 · Devin · [[Changes/Devin/2026-09-21-checks-tab-and-faster-diffs|Checks Tab and Faster Diffs]]
 - Later: 2026-09-22 · Claude Code · [[Changes/Claude Code/2026-09-22-vscode-changed-open-in-new-tab-to-open-claude-beside-the-editor-group-you-are-wo|VSCode Changed "Open in New Tab" to open Claude beside the editor group you…]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: acb2d0bd93afc52340f7754560ab55d4bf273a0cf853917d06447be193aa064d
+machine_hash: 409ef7e75c60f6721033d3e81cf05e4102226e2a22fc5aae9cd67f81bc4ca754
 product: replit
 product_name: Replit
 record:
@@ -78,7 +78,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2025-02-14 · Open WebUI · [[Changes/Open WebUI/2025-02-14-landing-page-input-no-longer-lags-with-long-text-improved-input-responsiveness-o|⚡ Landing Page Input No Longer Lags with Long Text]]
-- Later: 2025-02-18 · Open WebUI · [[Changes/Open WebUI/2025-02-18-2-reliability-and-performance-changes-in-v0-5-13|2 Reliability and Performance changes in v0.5.13]]
+- Later: 2025-02-18 · LM Studio · [[Changes/LM Studio/2025-02-18-speculative-decoding-is-a-technique-that-can-speed-up-token-generation-by-up-to|Speculative Decoding is a technique that can speed up token generation by up…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: fb7578323442bbe53f7928c0163f22179276524a2609dd49f69c2e2b658da831
+machine_hash: 1a58a1e6e2c3c4b6ca6dfdb9406465bcc43dd5dda542f099799252e81573ac02
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -92,7 +92,7 @@ type: change
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-05-19 · Dify · [[Changes/Dify/2026-05-19-2-safety-and-privacy-changes-in-1-14-2|2 Safety and Privacy changes in 1.14.2]]
-- Later: 2026-05-20 · Codex CLI · [[Changes/Codex CLI/2026-05-20-5-safety-and-privacy-changes-in-rust-v0-132-0|5 Safety and Privacy changes in rust-v0.132.0]]
+- Later: 2026-05-19 · Raycast · [[Changes/Raycast/2026-05-19-permissions-fixed-an-issue-where-raycast-would-not-open-system-settings-when-req|Permissions: Fixed an issue where Raycast would not open System Settings…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

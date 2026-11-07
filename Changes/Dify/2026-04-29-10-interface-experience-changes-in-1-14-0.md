@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2a3fd29caefb03d947c9b5a44a83edab2a84ed44776a794a54153ab23a280d02
+machine_hash: 8ef9efd41ca3b697ab55c68356c25da3e1380047bc2a6a693cdf540cbcc85273
 product: dify
 product_name: Dify
 record:
@@ -66,12 +66,12 @@ record:
   title: 10 Interface Experience changes in 1.14.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-27-2-interface-experience-changes-in-v1-0-37|2
-  Interface Experience changes in v1.0.37]]'
 - '[[Changes/Claude Code/2026-04-28-4-interface-experience-changes-in-v2-1-121|4 Interface
   Experience changes in v2.1.121]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-28-2-interface-experience-changes-in-v1-0-39|2
   Interface Experience changes in v1.0.39]]'
+- '[[Changes/Devin/2026-04-29-double-click-file-attachment-picker|Double-Click File
+  Attachment Picker]]'
 source_release: '[[Releases/Dify/dify-2026-04-29-1-14-0-github-314986233-63073e86|dify-2026-04-29-1-14-0-github-314986233-63073e86]]'
 source_type: github_releases
 theme: interface-experience
@@ -135,7 +135,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.14.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-04-28 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-28-2-interface-experience-changes-in-v1-0-39|2 Interface Experience changes in v1.0.39]]
+- Earlier: 2026-04-29 · Devin · [[Changes/Devin/2026-04-29-double-click-file-attachment-picker|Double-Click File Attachment Picker]]
 - Later: 2026-04-30 · Codex CLI · [[Changes/Codex CLI/2026-04-30-2-interface-experience-changes-in-rust-v0-128-0|2 Interface Experience changes in rust-v0.128.0]]
 <!-- chronolog:end -->
 

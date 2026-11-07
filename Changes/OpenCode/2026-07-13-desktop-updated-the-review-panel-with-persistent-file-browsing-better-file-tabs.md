@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3fc9d2f8f75b066b1952d648dc46d65d093215338b6c0f22aa5d8bb66a5d7262
+machine_hash: 8d357a3c6d4f10dcba72de1c6b2eda1ff85de872ec3faf3d473307a8bc2296ba
 product: opencode
 product_name: OpenCode
 record:
@@ -43,10 +43,10 @@ record:
     tabs…
   type: change
 related_changes:
-- '[[Changes/Kimi Code/2026-07-06-web-add-an-archived-sessions-page-in-settings-to-browse-and-restore-archived-ses|web:
-  Add an Archived sessions page in Settings to browse and restore archived sessions]]'
-- '[[Changes/Codex CLI/2026-07-09-31525-core-migrate-standalone-web-search-to-extension-owned-turn-items-owenlin0|♯31525
-  core: migrate standalone web search to extension-owned turn items @owenlin0]]'
+- '[[Changes/Raycast/2026-07-09-root-search-removed-tab-to-browse-on-file-search-items-to-improve-consistency-ar|Root
+  Search : Removed Tab to browse on file search items to improve consistency…]]'
+- '[[Changes/Raycast/2026-07-09-root-search-removed-tab-to-browse-on-file-search-items-to-improve-consistency-ar-fe8486|Root
+  Search : Removed Tab to browse on file search items to improve consistency…]]'
 - '[[Changes/OpenClaw/2026-07-13-8-search-and-browsing-changes-in-v2026-7-1|8 Search
   and Browsing changes in v2026.7.1]]'
 source_release: '[[Releases/OpenCode/opencode-2026-07-13-v1-17-20-71b89dbf|opencode-2026-07-13-v1-17-20-71b89dbf]]'

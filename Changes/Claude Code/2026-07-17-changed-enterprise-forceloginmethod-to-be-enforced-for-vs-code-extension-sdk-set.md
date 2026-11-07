@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 44cbbb583beeaab7b47e18e14c0b76f6a3d484b0ca647ff9326dd26ea5757a75
+machine_hash: 27d99ef4adc8d7b1571032a020bfed23d0342a9d5c505da82fb1fb1e50ce106a
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,12 @@ record:
     SDK…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-07-16-2-developer-workflow-changes-in-rust-v0-144-5|2
-  Developer Workflow changes in rust-v0.144.5]]'
-- '[[Changes/GitHub Copilot CLI/2026-07-16-8-developer-workflow-changes-in-v1-0-71|8
-  Developer Workflow changes in v1.0.71]]'
 - '[[Changes/OpenCode/2026-07-16-desktop-fixed-startup-readiness-so-wsl-server-loading-is-included-before-the-des|Desktop
   Fixed startup readiness so WSL server loading is included before the desktop…]]'
+- '[[Changes/Raycast/2026-07-16-clipboard-history-added-new-reset-paste-sequence-command|Clipboard
+  History : Added new Reset Paste Sequence command]]'
+- '[[Changes/Raycast/2026-07-16-2-developer-workflow-changes-in-raycast-windows-0-69|2
+  Developer Workflow changes in Raycast windows 0.69]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-17-v2-1-212-github-355310036-d94b4e11|claude-code-2026-07-17-v2-1-212-github-355310036-d94b4e11]]'
 source_type: github_releases
 theme: developer-workflow
@@ -85,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-07-16 · OpenCode · [[Changes/OpenCode/2026-07-16-desktop-fixed-startup-readiness-so-wsl-server-loading-is-included-before-the-des|Desktop Fixed startup readiness so WSL server loading is included before the desktop…]]
+- Earlier: 2026-07-16 · Raycast · [[Changes/Raycast/2026-07-16-2-developer-workflow-changes-in-raycast-windows-0-69|2 Developer Workflow changes in Raycast windows 0.69]]
 - Later: 2026-07-17 · Dify · [[Changes/Dify/2026-07-17-3-developer-workflow-changes-in-1-16-0|3 Developer Workflow changes in 1.16.0]]
 <!-- chronolog:end -->
 

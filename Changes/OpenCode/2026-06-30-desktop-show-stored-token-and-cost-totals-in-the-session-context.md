@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 15086c78527dadfb2742d9a0d052dc6a3642c76cb053477adc59500acdaccfa4
+machine_hash: 849e5d28a2269547147e68d2654db374d680a59136df944cf6f265eaaaa25eeb
 product: opencode
 product_name: OpenCode
 record:

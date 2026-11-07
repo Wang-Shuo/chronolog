@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8b3fe9d8ca8dbacb2a93ab982f4809c3da4d7fafe061439a93a9d07af29ace0e
+machine_hash: 5697b2b863fb2c48cbc9aa3a0757b75a8ee12b6e2bca22d9c0de15b0778ebf21
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,10 +42,9 @@ record:
   title: Added `/claude-api managed-agents-onboard <url>` to set up the Managed Agents…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-01-6-agent-mode-changes-in-rust-v0-160-0|6 Agent Mode
-  changes in rust-v0.160.0]]'
 - '[[Changes/Claude Code/2026-10-02-4-agent-mode-changes-in-v2-1-288|4 Agent Mode
   changes in v2.1.288]]'
+- '[[Changes/Devin/2026-10-02-transcript-polish|Transcript Polish]]'
 - '[[Changes/OpenClaw/2026-10-03-4-agent-mode-changes-in-v2026-9-8|4 Agent Mode changes
   in v2026.9.8]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-05-v2-1-290-github-403993621-ae06f2b6|claude-code-2026-10-05-v2-1-290-github-403993621-ae06f2b6]]'

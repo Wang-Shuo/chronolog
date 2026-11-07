@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 86e876daf7ab63587a4ed5155a67c9fe40830d0a8f976676b287577bd62cb02a
+machine_hash: 29cd06182609fcbbb1cf1d96a34eaf211dea0468bba21cd3dd2fae8d287af22f
 product: open-webui
 product_name: Open WebUI
 record:
@@ -92,7 +92,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2024-11-19 · Descript · [[Changes/Descript/2024-11-19-you-can-add-status-page-updates-to-your-slack-workspace-using-the-the-subscribe|You can add status page updates to your Slack workspace using the the Subscribe to Updates]]
-- Later: 2024-11-25 · Dify · [[Changes/Dify/2024-11-25-feat-add-a-minimal-separator-between-pinned-apps-and-unpinned-apps-in-the-explor|feat: add a minimal separator between pinned apps and unpinned apps in the explore page]]
+- Later: 2024-11-22 · Devin · [[Changes/Devin/2024-11-22-bring-devin-into-conversations-just-as-you-would-with-human-teammates|Bring Devin into conversations just as you would with human teammates]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

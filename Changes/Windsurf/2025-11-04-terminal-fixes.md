@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 0e379dfafbdd57e8582f8eb128ce9870d1125f97d93b8a274a1cbe2c261e07a5
+machine_hash: 5a6b1537fb27b6b14d513a9eaa1c4cf6785fc53371ba03e7e6b3296f108137f6
 product: windsurf
 product_name: Windsurf
 record:
@@ -48,12 +48,12 @@ record:
   title: Terminal Fixes
   type: change
 related_changes:
-- '[[Changes/Cline/2025-11-04-enable-terminal-timeouts-by-defualt-by-arafatkatze-in-https-github-com-cline-cli|Enable
-  Terminal Timeouts by defualt]]'
 - '[[Changes/Codex CLI/2025-11-04-6043-chore-add-shell-serialization-tests-for-json-6043|♯6043
   chore: Add shell serialization tests for json (♯6043)]]'
 - '[[Changes/Gemini CLI/2025-11-04-docs-github-revamp-pull-request-template-by-jerop-in-https-github-com-google-gem|docs(github):
   revamp pull request template]]'
+- '[[Changes/LM Studio/2025-11-04-added-lms-runtime-get-and-lms-runtime-update-cli-commands-to-manage-runtime-exte|Added
+  lms runtime get and lms runtime update CLI commands to manage runtime…]]'
 source_release: '[[Releases/Windsurf/windsurf-2025-11-04-v1-12-28-55c0c8a2|windsurf-2025-11-04-v1-12-28-55c0c8a2]]'
 source_type: windsurf_changelog
 theme: developer-workflow
@@ -87,7 +87,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2025-11-04 · Gemini CLI · [[Changes/Gemini CLI/2025-11-04-docs-github-revamp-pull-request-template-by-jerop-in-https-github-com-google-gem|docs(github): revamp pull request template]]
+- Earlier: 2025-11-04 · LM Studio · [[Changes/LM Studio/2025-11-04-added-lms-runtime-get-and-lms-runtime-update-cli-commands-to-manage-runtime-exte|Added lms runtime get and lms runtime update CLI commands to manage runtime…]]
 - Later: 2025-11-05 · OpenHands · [[Changes/OpenHands/2025-11-05-made-terminal-tab-read-only-by-amanape-in-https-github-com-openhands-openhands-p|Made terminal tab read-only]]
 <!-- chronolog:end -->
 

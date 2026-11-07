@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5048db46d909f449aa02b84f4759f2843528373e304207b4f6b84e7ebb3f6355
+machine_hash: 16ce54e27c5b12b9cc162746d95bd7891f0e23148ff15c117a7b662922a0011e
 product: granola
 product_name: Granola
 record:
@@ -42,12 +42,12 @@ record:
   title: Granola for Android is here!
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-30-2-mobile-and-desktop-changes-in-v1-0-66|2
-  Mobile and Desktop changes in v1.0.66]]'
 - '[[Changes/OpenClaw/2026-06-30-15-mobile-and-desktop-changes-in-v2026-6-11|15 Mobile
   and Desktop changes in v2026.6.11]]'
 - '[[Changes/OpenCode/2026-06-30-7-mobile-and-desktop-changes-in-v1-17-12|7 Mobile
   and Desktop changes in v1.17.12]]'
+- '[[Changes/Devin/2026-07-01-cross-platform-repository-cloning|Cross-Platform Repository
+  Cloning]]'
 source_release: '[[Releases/Granola/granola-2026-07-01-https-www-granola-ai-blog-introducing-granola-for-android-373a6bd3|granola-2026-07-01-https-www-granola-ai-blog-introducing-granola-for-android-373a6bd3]]'
 source_type: granola_changelog
 theme: mobile-desktop
@@ -74,7 +74,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-06-30 · OpenCode · [[Changes/OpenCode/2026-06-30-7-mobile-and-desktop-changes-in-v1-17-12|7 Mobile and Desktop changes in v1.17.12]]
+- Earlier: 2026-07-01 · Devin · [[Changes/Devin/2026-07-01-cross-platform-repository-cloning|Cross-Platform Repository Cloning]]
 - Later: 2026-07-01 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-07-01-quickly-launch-the-microsoft-365-copilot-app-on-your-ios-device-ios-microsoft-36|Quickly launch the Microsoft 365 Copilot app on your iOS device…]]
 <!-- chronolog:end -->
 

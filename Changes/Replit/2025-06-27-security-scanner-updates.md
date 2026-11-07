@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 129876d21e8526e75a1c79e6e1d9e6ace2f9551af1561673e40c8db33dc2d842
+machine_hash: 20c671215f375f7b958121dbe5595d9b17cb28b65848c87fd7bf5181a419b6ca
 product: replit
 product_name: Replit
 record:
@@ -50,10 +50,12 @@ record:
   title: Security scanner updates
   type: change
 related_changes:
-- '[[Changes/Replit/2025-06-20-security-scanner-improvements|Security scanner improvements]]'
-- '[[Changes/ElevenLabs/2025-06-23-sip-trunking|SIP Trunking]]'
 - '[[Changes/Dify/2025-06-25-2-safety-and-privacy-changes-in-1-5-0|2 Safety and Privacy
   changes in 1.5.0]]'
+- '[[Changes/LM Studio/2025-06-25-fixed-a-bug-where-tool-permission-dialog-wouldn-t-auto-scroll-to-the-bottom-of-t|Fixed
+  a bug where tool permission dialog wouldn''t auto-scroll to the bottom of the chat]]'
+- '[[Changes/Raycast/2025-06-26-favicon-provider-we-added-a-new-setting-to-let-you-pick-your-favicon-provider-or|Favicon
+  Provider: We added a new setting to let you pick your favicon provider…]]'
 source_release: '[[Releases/Replit/replit-2025-06-27-2025-06-27-b39448c0|replit-2025-06-27-2025-06-27-b39448c0]]'
 source_type: replit_changelog
 theme: safety-privacy
@@ -87,7 +89,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2025-06-25 · Dify · [[Changes/Dify/2025-06-25-2-safety-and-privacy-changes-in-1-5-0|2 Safety and Privacy changes in 1.5.0]]
+- Earlier: 2025-06-26 · Raycast · [[Changes/Raycast/2025-06-26-favicon-provider-we-added-a-new-setting-to-let-you-pick-your-favicon-provider-or|Favicon Provider: We added a new setting to let you pick your favicon provider…]]
 - Later: 2025-06-30 · ElevenLabs · [[Changes/ElevenLabs/2025-06-30-workspaces|Workspaces]]
 <!-- chronolog:end -->
 

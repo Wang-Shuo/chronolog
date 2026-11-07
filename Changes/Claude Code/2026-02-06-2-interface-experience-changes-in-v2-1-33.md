@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 29240bbf411aa30301b3e99d6192e45dcabf502f1d37a6afa89f54ba07bddc3b
+machine_hash: 5e19249d7017e0707d4245f9a7f89a1e3e69a56f747ca0219607bdd53d2e0e6b
 product: claude-code
 product_name: Claude Code
 record:
@@ -88,7 +88,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.33
 ## Nearby in Interface Experience
 
 - Earlier: 2026-02-05 · OpenCode · [[Changes/OpenCode/2026-02-05-desktop-safety-triangle-for-sidebar-hover-to-prevent-menu-from-closing|Desktop Safety triangle for sidebar hover to prevent menu from closing]]
-- Later: 2026-02-09 · ElevenLabs · [[Changes/ElevenLabs/2026-02-09-user-interface|User Interface]]
+- Later: 2026-02-06 · Raycast · [[Changes/Raycast/2026-02-06-run-added-shell-selection-cmd-powershell-etc-when-creating-or-editing-custom-run|Run : Added shell selection (CMD, PowerShell, etc.) when creating or editing custom…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

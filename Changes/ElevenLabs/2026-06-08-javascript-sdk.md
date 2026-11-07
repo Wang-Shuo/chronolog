@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 1e95fdfbf268bb6979b693120f8ff7b9e722b6d2b081d9f089af244c223c11bf
+machine_hash: 1cffe7247afc9a6c32a5840356f482fd796ad917b36747aceb064abbf504cbf5
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -99,7 +99,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-06-08 · Codex CLI · [[Changes/Codex CLI/2026-06-08-6-model-support-changes-in-rust-v0-138-0|6 Model Support changes in rust-v0.138.0]]
-- Later: 2026-06-08 · v0 · [[Changes/v0/2026-06-08-v0-max-now-runs-on-claude-opus-4-8-and-max-fast-on-opus-4-8-fast-at-about-a-thir|v0 Max now runs on Claude Opus 4.8, and Max Fast on Opus 4.8 Fast at about a third…]]
+- Later: 2026-06-08 · LM Studio · [[Changes/LM Studio/2026-06-08-use-lm-link-in-locally-to-take-your-largest-lm-studio-models-on-the-go|Use LM Link in Locally to take your largest LM Studio models on the go]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

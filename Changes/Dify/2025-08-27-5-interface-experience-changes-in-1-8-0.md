@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1a53c0ae0f72e0251e7a9879e8adc920bcf18b227b3da802157ae538a1ba165c
+machine_hash: f5b52b741eea352522a8e8697de586880c659f2721cafbb2126822215ef4cbb7
 product: dify
 product_name: Dify
 record:
@@ -55,8 +55,8 @@ record:
   title: 5 Interface Experience changes in 1.8.0
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2025-08-21-8-interface-experience-changes-in-v0-6-23|8 Interface
-  Experience changes in v0.6.23]]'
+- '[[Changes/Raycast/2025-08-25-emoji-picker-added-a-colorful-new-selection-state-making-it-even-more-fun-to-use|Emoji
+  Picker : Added a colorful, new selection state, making it even more fun to use]]'
 - '[[Changes/Codex CLI/2025-08-26-3-interface-experience-changes-in-rust-v0-24-0|3
   Interface Experience changes in rust-v0.24.0]]'
 - '[[Changes/Codex CLI/2025-08-27-improve-emoji-rendering-proper-spacing-and-emoji-variant-2735-2728|Improve

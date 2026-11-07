@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2429b461839256f67ed0c172b64c8469680bb5abce66b395e7648283f172161f
+machine_hash: 611cacd04ddc0e03251f0f0e603b60597e70ec9df52379320c8482d33793e556
 product: openclaw
 product_name: OpenClaw
 record:
@@ -68,12 +68,11 @@ record:
   title: 5 Memory and Personalization changes in v2026.10.3
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-10-10-2-memory-and-personalization-changes-in-v0-12-0|2
-  Memory and Personalization changes in v0.12.0]]'
-- '[[Changes/OpenClaw/2026-10-10-13-memory-and-personalization-changes-in-v2026-10-1|13
-  Memory and Personalization changes in v2026.10.1]]'
 - '[[Changes/OpenClaw/2026-10-12-4-memory-and-personalization-changes-in-v2026-10-2|4
   Memory and Personalization changes in v2026.10.2]]'
+- '[[Changes/Raycast/2026-10-12-cloud-sync-v2|Cloud Sync v2]]'
+- '[[Changes/Raycast/2026-10-12-2-memory-and-personalization-changes-in-raycast-ios-1-4-0|2
+  Memory and Personalization changes in Raycast ios 1.4.0]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-10-13-v2026-10-3-54cedb60|openclaw-2026-10-13-v2026-10-3-54cedb60]]'
 source_type: openclaw_changelog
 theme: memory
@@ -121,7 +120,7 @@ Source: https://docs.openclaw.ai/releases/2026.10.3
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2026-10-12 · OpenClaw · [[Changes/OpenClaw/2026-10-12-4-memory-and-personalization-changes-in-v2026-10-2|4 Memory and Personalization changes in v2026.10.2]]
+- Earlier: 2026-10-12 · Raycast · [[Changes/Raycast/2026-10-12-2-memory-and-personalization-changes-in-raycast-ios-1-4-0|2 Memory and Personalization changes in Raycast ios 1.4.0]]
 - Later: 2026-10-14 · Open WebUI · [[Changes/Open WebUI/2026-10-14-memory-in-automations-automations-now-get-the-memory-tools-when-the-user-has-mem|🧠 Memory in automations. Automations now get the memory tools when the user has…]]
 <!-- chronolog:end -->
 

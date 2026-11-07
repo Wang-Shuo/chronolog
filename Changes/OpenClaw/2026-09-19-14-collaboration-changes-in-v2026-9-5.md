@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 738845ec18e1b957ace18f0dcb4e7dd4735f3bbed68b1fb903f599d2cdb517d4
+machine_hash: c20802ccc3b0fe6c8b98a23f756027818f44c415b4ba1dd9bfd6424a1f8485ad
 product: openclaw
 product_name: OpenClaw
 record:
@@ -102,11 +102,11 @@ record:
   title: 14 Collaboration changes in v2026.9.5
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-17-44354-extract-shared-footer-hint-wrapping-in-the-tui-copyberry|♯44354
-  Extract shared footer hint wrapping in the TUI @copyberry]]'
 - '[[Changes/Descript/2026-09-17-captions-redesigned|Captions, redesigned]]'
 - '[[Changes/Claude Code/2026-09-18-changed-ultrareview-in-non-interactive-sessions-to-refuse-when-the-repository-ha|Changed
   /ultrareview in non-interactive sessions to refuse when the repository has…]]'
+- '[[Changes/Devin/2026-09-18-mentions-and-session-links-in-microsoft-teams|Mentions
+  and Session Links in Microsoft Teams]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-09-19-v2026-9-5-506f537c|openclaw-2026-09-19-v2026-9-5-506f537c]]'
 source_type: openclaw_changelog
 theme: collaboration
@@ -189,7 +189,7 @@ Source: https://docs.openclaw.ai/releases/2026.9.5
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-09-18 · Claude Code · [[Changes/Claude Code/2026-09-18-changed-ultrareview-in-non-interactive-sessions-to-refuse-when-the-repository-ha|Changed /ultrareview in non-interactive sessions to refuse when the repository has…]]
+- Earlier: 2026-09-18 · Devin · [[Changes/Devin/2026-09-18-mentions-and-session-links-in-microsoft-teams|Mentions and Session Links in Microsoft Teams]]
 - Later: 2026-09-21 · Open WebUI · [[Changes/Open WebUI/2026-09-21-4-collaboration-changes-in-v0-11-4|4 Collaboration changes in v0.11.4]]
 <!-- chronolog:end -->
 

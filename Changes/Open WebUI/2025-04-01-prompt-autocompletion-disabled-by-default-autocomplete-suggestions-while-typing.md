@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e5c8857d9d2a735bdea5c0f973b4c71513f3cdfd3f18ed587acde212c4992bd4
+machine_hash: 200ea7765c4da29b6bf5db44e4affe9d62e8b56933a94a519cf9ed60b1573acd
 product: open-webui
 product_name: Open WebUI
 record:
@@ -44,7 +44,7 @@ record:
   title: "\U0001F9E0 **Prompt Autocompletion Disabled By Default**"
   type: change
 related_changes:
-- '[[Changes/Descript/2025-03-25-editor-updates|Editor updates]]'
+- '[[Changes/Devin/2025-03-25-devin-ide|Devin IDE]]'
 - '[[Changes/Lovable/2025-03-28-supabase-functions-now-get-deployed-when-updated-in-code-editor-also-supabase-fu|Supabase
   functions now get deployed when updated in code editor]]'
 - '[[Changes/Cline/2025-04-01-2-editor-experience-changes-in-v3-8-5|2 Editor Experience

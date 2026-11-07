@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 323a281ebf2ede9a92c381e4aa25eeff9d7c9187402ca3ed0dde1fce470f7146
+machine_hash: 942635fc101a7d67452a18d86bcace56664ee5fa7b6609d5d988ea439638db8e
 product: cursor
 product_name: Cursor
 record:
@@ -47,8 +47,8 @@ record:
   title: 'VS Code 1.93.1: Cursor is now based on VS Code 1.93.1'
   type: change
 related_changes:
-- '[[Changes/Aider/2024-09-29-3-editor-experience-changes-in-v0-58-0|3 Editor Experience
-  changes in v0.58.0]]'
+- '[[Changes/AnythingLLM/2024-10-03-1417-completion-timeout-by-timothycarambat-in-https-github-com-mintplex-labs-any|1417
+  completion timeout]]'
 - '[[Changes/Descript/2024-10-08-editor-updates|Editor Updates]]'
 - '[[Changes/Cline/2024-10-09-no-more-staring-at-loading-spinners-responses-are-now-streamed-into-the-editor-a|No
   more staring at loading spinners: Responses are now streamed into the editor…]]'
@@ -89,7 +89,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2024-10-09 · Cline · [[Changes/Cline/2024-10-09-no-more-staring-at-loading-spinners-responses-are-now-streamed-into-the-editor-a|No more staring at loading spinners: Responses are now streamed into the editor…]]
-- Later: 2024-10-10 · Suno · [[Changes/Suno/2024-10-10-2-navigate-to-replace-section-go-to-edit-replace-section|2 - Navigate to Replace Section: Go to Edit  Replace Section]]
+- Later: 2024-10-09 · Raycast · [[Changes/Raycast/2024-10-09-search-emoji-symbols-added-symbols-for-return-tab-escape-and-forward-delete-keys|Search Emoji & Symbols : Added symbols for Return, Tab, Escape, and Forward-Delete keys]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

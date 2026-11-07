@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 47fc80997edd0152fd22f2ddcf0f8dbb10a60b027288ca0ce04c3e5715ef1b0a
+machine_hash: c32875998af3c89f9c5d592f9c06993fc2135bcf06d98681385ce926b4f46c8a
 product: lovable
 product_name: Lovable
 record:
@@ -53,8 +53,8 @@ record:
   title: See how your workspace adopts Lovable
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-08-27-2-enterprise-and-administration-changes-in-v1-0-81|2
-  Enterprise and Administration changes in v1.0.81]]'
+- '[[Changes/Wispr Flow/2026-08-28-for-teams-enterprise-desktop|For Teams & Enterprise:
+  (Desktop)]]'
 - '[[Changes/Lovable/2026-09-01-find-buy-and-connect-a-domain-from-chat|Find, buy,
   and connect a domain from chat]]'
 - '[[Changes/Lovable/2026-09-01-lovable-in-slack-is-now-available-on-enterprise|Lovable
@@ -89,7 +89,7 @@ type: change
 ## Nearby in Enterprise and Administration
 
 - Earlier: 2026-09-01 · Lovable · [[Changes/Lovable/2026-09-01-lovable-in-slack-is-now-available-on-enterprise|Lovable in Slack is now available on Enterprise]]
-- Later: 2026-09-04 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-04-enterprise-admins-can-pin-sign-in-to-approved-github-organizations-with-the-forc|Enterprise admins can pin sign-in to approved GitHub organizations…]]
+- Later: 2026-09-04 · Devin · [[Changes/Devin/2026-09-04-security-profiles-can-allow-orgs-custom-mcp-installations|Security Profiles Can Allow Orgs' Custom MCP Installations]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

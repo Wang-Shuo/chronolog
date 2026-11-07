@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: df8fb76ab3c31e05f082e780d11e1cde3cc302df5d2d669d3d5c1df0c649725e
+machine_hash: 4ec80a2ba4852d5de2718ede13c243d3d463e6627cf6ec6e4d6c07d5eecde308
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -53,7 +53,7 @@ record:
   title: Send the model and CLI version with the user agent
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-12-18-service-accounts|Service accounts]]'
+- '[[Changes/Devin/2025-12-19-computer-use-setting-update|Computer Use Setting Update]]'
 - '[[Changes/Cursor/2025-12-22-2-agent-mode-changes-in-2-3|2 Agent Mode changes in
   2.3]]'
 - '[[Changes/Cursor/2025-12-22-this-includes-the-core-agent-layout-controls-viewing-code-diffs-and-more-we-will|This

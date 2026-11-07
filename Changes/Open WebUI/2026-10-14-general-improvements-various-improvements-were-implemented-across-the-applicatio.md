@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7ab9e3f0e1f47f0dde9d66133e0ed47e089092374093d41ba235015a8bede43b
+machine_hash: 0db14b0361357b102abed610e943bbc5ae232bc93ee3fe8858f01c936eee0645
 product: open-webui
 product_name: Open WebUI
 record:
@@ -55,10 +55,10 @@ record:
     across…"
   type: change
 related_changes:
-- '[[Changes/Descript/2026-10-13-faster-ai-video-on-paid-plans|Faster AI video on
-  paid plans]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-13-emergency-memory-relief-in-long-sessions-can-now-bypass-its-cooldown-before-v8-a|Emergency
   memory relief in long sessions can now bypass its cooldown before V8…]]'
+- '[[Changes/Superwhisper/2026-10-13-faster-improved-language-detection|Faster & improved
+  language detection]]'
 - '[[Changes/Claude Code/2026-10-14-improved-memory-and-disk-use-when-pdfs-are-mentioned-their-bytes-are-no-longer-k|Improved
   memory and disk use when PDFs are @-mentioned]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-10-14-v0-12-2-github-413184477-0a3afe9d|open-webui-2026-10-14-v0-12-2-github-413184477-0a3afe9d]]'

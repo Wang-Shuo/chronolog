@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2146b242926b73c701ade462dce8ab1ba0dfb0f88f4e5824d21744c076b66952
+machine_hash: 783c259f4af6d9c7979021843f58bbe004dfcce4315d92df314549ffabebf76d
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -45,12 +45,10 @@ record:
   title: 2 Editor Experience changes in HUB v2.13.0 — Introducing new Documents…
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-09-08-8-editor-experience-changes-in-v2026-9-3|8 Editor
-  Experience changes in v2026.9.3]]'
-- '[[Changes/Runway/2026-09-08-runway-is-now-available-directly-inside-premiere-pro-and-after-effects-bring-the|Runway
-  Adobe Plugins]]'
-- '[[Changes/Codex CLI/2026-09-09-42746-handle-pending-network-reviews-after-process-completion-copyberry|♯42746
-  Handle pending network reviews after process completion @copyberry]]'
+- '[[Changes/Devin/2026-09-09-open-changes-and-pr-files-as-diffs|Open Changes and
+  PR Files as Diffs]]'
+- '[[Changes/Devin/2026-09-09-faster-tab-switching|Faster Tab Switching]]'
+- '[[Changes/Devin/2026-09-09-desktop-tab-on-touch-devices|Desktop Tab on Touch Devices]]'
 source_release: '[[Releases/Google Antigravity/google-antigravity-2026-09-09-rel-hub-2-13-0-0c6af7b7|google-antigravity-2026-09-09-rel-hub-2-13-0-0c6af7b7]]'
 source_type: antigravity_changelog
 theme: editor-experience
@@ -90,7 +88,7 @@ Source: https://antigravity.google/releases?tab=hub&version=2.13.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-09-09 · Codex CLI · [[Changes/Codex CLI/2026-09-09-42746-handle-pending-network-reviews-after-process-completion-copyberry|♯42746 Handle pending network reviews after process completion @copyberry]]
+- Earlier: 2026-09-09 · Devin · [[Changes/Devin/2026-09-09-desktop-tab-on-touch-devices|Desktop Tab on Touch Devices]]
 - Later: 2026-09-09 · Lovable · [[Changes/Lovable/2026-09-09-explore-changes-with-drafts|Explore changes with drafts]]
 <!-- chronolog:end -->
 

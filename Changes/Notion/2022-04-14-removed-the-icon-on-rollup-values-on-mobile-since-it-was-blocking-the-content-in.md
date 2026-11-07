@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 228a9f7c4ff89ab40503a1ca416caee6cfa8d9db7f6ce5053668771392dfb31e
+machine_hash: 1cbe104106c4240fd0cfa0610bc4ee8402d926cc75f1e0d16367124b23968e6c
 product: notion
 product_name: Notion
 record:
@@ -43,12 +43,12 @@ record:
     content inside
   type: change
 related_changes:
-- '[[Changes/Notion/2021-12-23-create-page-columns-on-ipad-android-tablets|Create
-  page columns on iPad & Android tablets]]'
 - "[[Changes/Notion/2021-12-23-2-mobile-and-desktop-changes-in-hack-week|2 Mobile
   and Desktop changes in Hack week \U0001F469\U0001F3FC\U0001F4BB\U0001F468\U0001F3FF\U0001F4BB\U0001F9D1\U0001F3FD\U0001F4BB]]"
 - '[[Changes/Descript/2022-01-11-macos-native-apple-silicon-support|macOS: Native
   Apple Silicon Support]]'
+- '[[Changes/Raycast/2022-02-23-file-search-now-compatible-with-the-latest-onedrive-client-and-with-any-other-cl|File
+  Search: Now compatible with the latest OneDrive client and with any other cloud…]]'
 source_release: '[[Releases/Notion/notion-2022-04-14-https-www-notion-com-releases-2022-04-14-5dc68862|notion-2022-04-14-https-www-notion-com-releases-2022-04-14-5dc68862]]'
 source_type: notion_changelog
 theme: mobile-desktop
@@ -84,8 +84,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2022-01-11 · Descript · [[Changes/Descript/2022-01-11-macos-native-apple-silicon-support|macOS: Native Apple Silicon Support]]
-- Later: 2022-10-12 · Notion · [[Changes/Notion/2022-10-12-interact-with-text-in-images-on-ios|Interact with text in images on iOS]]
+- Earlier: 2022-02-23 · Raycast · [[Changes/Raycast/2022-02-23-file-search-now-compatible-with-the-latest-onedrive-client-and-with-any-other-cl|File Search: Now compatible with the latest OneDrive client and with any other cloud…]]
+- Later: 2022-06-29 · Raycast · [[Changes/Raycast/2022-06-29-macos-ventura-beta-fixed-an-issue-where-raycast-would-crash-when-opening-the-sea|macOS Ventura (Beta)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 9b06990c83cf36837764c74bcfc96d51909910a87ed26ec7b0fec1b466b03c6b
+machine_hash: 0dfb93245979ac41fa0a95c8574f55c97b4a4c3327611378d69b274198b72426
 product: lovable
 product_name: Lovable
 record:
@@ -56,10 +56,8 @@ record:
   title: Publish every app in your workspace under your own domain
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-10-08-2-enterprise-and-administration-changes-in-v2026-9-9|2
-  Enterprise and Administration changes in v2026.9.9]]'
-- '[[Changes/OpenHands/2026-10-08-feat-onboarding-show-the-super-admin-setup-guide-on-enterprise-backends-by-hiept|feat(onboarding):
-  show the Super Admin setup guide on enterprise backends]]'
+- '[[Changes/Devin/2026-10-09-attachment-links-in-prs|Attachment links in PRs]]'
+- '[[Changes/Devin/2026-10-09-devin-wiki-in-thai|Devin Wiki in Thai]]'
 - '[[Changes/Lovable/2026-10-09-enterprise-credit-balances-now-appear-as-numbers|Enterprise
   credit balances now appear as numbers]]'
 source_release: '[[Releases/Lovable/lovable-2026-10-09-2026-10-09-58884c93|lovable-2026-10-09-2026-10-09-58884c93]]'
@@ -92,7 +90,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-10-08 · OpenHands · [[Changes/OpenHands/2026-10-08-feat-onboarding-show-the-super-admin-setup-guide-on-enterprise-backends-by-hiept|feat(onboarding): show the Super Admin setup guide on enterprise backends]]
+- Earlier: 2026-10-09 · Devin · [[Changes/Devin/2026-10-09-devin-wiki-in-thai|Devin Wiki in Thai]]
 - Later: 2026-10-09 · Runway · [[Changes/Runway/2026-10-09-workspace-admins-can-now-set-a-credit-cap-on-any-project-giving-each-team-or-cli|Project Credit Caps]]
 <!-- chronolog:end -->
 

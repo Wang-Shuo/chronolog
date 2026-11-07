@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2b19c0a68936c624960b16f4294a6b8b4f80f26df05b3f3e735d59d88c11b37d
+machine_hash: 0efaf345198026d9dc10da6223cd69dda78d067a0bcf5552cbfeed57b2197659
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -42,7 +42,8 @@ record:
   title: Improved mobile UI with native pickers and no keyboard popup on load
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-07-29-devin-desktop-9e1a9d|Devin Desktop]]'
+- '[[Changes/Wispr Flow/2026-07-29-snippets-now-support-rich-text-formatting-desktop|Snippets
+  now support rich text formatting (Desktop)]]'
 - '[[Changes/Notion/2026-07-30-try-it-by-going-to-settings-preferences-appearance-available-on-desktop-and-web|Try
   it by going to Settings  Preferences  Appearance]]'
 - '[[Changes/OpenCode/2026-07-30-4-mobile-and-desktop-changes-in-v1-18-10|4 Mobile

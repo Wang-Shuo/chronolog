@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 79116d2859683c57b15d17d47b2c819a73cf37b2a962155e583f73640ef898fd
+machine_hash: 76aeaed2f896fc837506b617747c3d2bb8974b509dbd7f5f3391022ab787562f
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -47,8 +47,8 @@ record:
   title: 3 Safety and Privacy changes in v0.8.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-10-03-3-safety-and-privacy-changes-in-rust-v0-44-0|3 Safety
-  and Privacy changes in rust-v0.44.0]]'
+- '[[Changes/Devin/2025-10-03-enterprise-api-v2-git-permissions-endpoint-now-returns-permission-names-dict-map|Enterprise
+  API v2 git permissions endpoint now returns permission\names dict…]]'
 - '[[Changes/Codex CLI/2025-10-06-codex-login-api-key-was-replaced-with-codex-login-with-api-key-that-reads-the-ke|codex
   login --api-key was replaced with codex login --with-api-key that reads…]]'
 - '[[Changes/Lovable/2025-10-06-better-workspace-management|Better workspace management]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a7e9fd7104e03d127b549cff1ebe807db328b28abf57910aaebbbb57f4b535ac
+machine_hash: 0b6a09820246cf48d6d558f13d690c48da868a99b802fa8ffb1402d1aee7f902
 product: ollama
 product_name: Ollama
 record:
@@ -42,12 +42,11 @@ record:
   title: '`laguna-xs.2` is not yet supported on Windows/Linux'
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-05-10-2-mobile-and-desktop-changes-in-v1-14-45|2 Mobile
-  and Desktop changes in v1.14.45]]'
-- '[[Changes/GitHub Copilot CLI/2026-05-11-fall-back-to-windows-powershell-powershell-exe-when-powershell-7-pwsh-is-not-ava|Fall
-  back to Windows PowerShell (powershell.exe) when PowerShell 7+ (pwsh) is not…]]'
 - '[[Changes/ChatGPT/2026-05-12-free-users-in-chatgpt-will-now-see-more-inline-images-from-the-web-to-help-make|More
   images in answers for Free users]]'
+- '[[Changes/Devin/2026-05-13-devin-review-mobile-improvements|Devin Review Mobile
+  Improvements]]'
+- '[[Changes/Devin/2026-05-13-share-session-on-mobile|Share Session on Mobile]]'
 source_release: '[[Releases/Ollama/ollama-2026-05-13-v0-30-0-github-318756375-d8b4dd12|ollama-2026-05-13-v0-30-0-github-318756375-d8b4dd12]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -78,7 +77,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-05-12 · ChatGPT · [[Changes/ChatGPT/2026-05-12-free-users-in-chatgpt-will-now-see-more-inline-images-from-the-web-to-help-make|More images in answers for Free users]]
+- Earlier: 2026-05-13 · Devin · [[Changes/Devin/2026-05-13-share-session-on-mobile|Share Session on Mobile]]
 - Later: 2026-05-13 · OpenCode · [[Changes/OpenCode/2026-05-13-6-mobile-and-desktop-changes-in-v1-14-49|6 Mobile and Desktop changes in v1.14.49]]
 <!-- chronolog:end -->
 

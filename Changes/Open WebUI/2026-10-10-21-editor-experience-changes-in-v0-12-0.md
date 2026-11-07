@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1831458400649c3e0deff41c91bbe8f604e574db3b4c18f8e3bee25cf9dfa03d
+machine_hash: 9c945c63d514052d3f7cca46226a0af4f85d8496b520aadd4aff93ebbf9dd467
 product: open-webui
 product_name: Open WebUI
 record:
@@ -163,11 +163,11 @@ record:
   title: 21 Editor Experience changes in v0.12.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-08-50216-use-the-shared-text-editor-for-command-center-task-renaming-bc-openai|♯50216
-  Use the shared text editor for command-center task renaming @bc-openai]]'
 - '[[Changes/Midjourney/2026-10-08-thinking-mode|THINKING MODE]]'
 - '[[Changes/Claude Code/2026-10-09-3-editor-experience-changes-in-v2-1-296|3 Editor
   Experience changes in v2.1.296]]'
+- '[[Changes/Devin/2026-10-09-transcript-diff-cards-for-large-edits|Transcript diff
+  cards for large edits]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-10-10-v0-12-0-github-409209575-f076e92b|open-webui-2026-10-10-v0-12-0-github-409209575-f076e92b]]'
 source_type: github_releases
 theme: editor-experience
@@ -256,7 +256,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.12.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-10-09 · Claude Code · [[Changes/Claude Code/2026-10-09-3-editor-experience-changes-in-v2-1-296|3 Editor Experience changes in v2.1.296]]
+- Earlier: 2026-10-09 · Devin · [[Changes/Devin/2026-10-09-transcript-diff-cards-for-large-edits|Transcript diff cards for large edits]]
 - Later: 2026-10-10 · OpenClaw · [[Changes/OpenClaw/2026-10-10-10-editor-experience-changes-in-v2026-10-1|10 Editor Experience changes in v2026.10.1]]
 <!-- chronolog:end -->
 

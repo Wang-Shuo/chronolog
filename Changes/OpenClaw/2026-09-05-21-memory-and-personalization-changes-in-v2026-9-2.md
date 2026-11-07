@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: cbcb20510765a02ada3a12f81bd156d2d6a7d4e61fc7067f86e9ac951d5c611a
+machine_hash: 0343144af9d25e2c9e0dc3491a4c84783590aa7fb21470f25fa5f45b3a0d82e5
 product: openclaw
 product_name: OpenClaw
 record:
@@ -191,12 +191,12 @@ record:
   title: 21 Memory and Personalization changes in v2026.9.2
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-09-01-4-memory-and-personalization-changes-in-v2026-8-2|4
-  Memory and Personalization changes in v2026.8.2]]'
 - '[[Changes/OpenClaw/2026-09-03-19-memory-and-personalization-changes-in-v2026-9-1|19
   Memory and Personalization changes in v2026.9.1]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-04-long-running-sessions-on-linux-return-freed-memory-to-the-system-instead-of-hold|Long-running
   sessions on Linux return freed memory to the system instead of holding…]]'
+- '[[Changes/Superwhisper/2026-09-04-lower-memory-use-during-long-recordings|Lower
+  memory use during long recordings]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-09-05-v2026-9-2-377f6d77|openclaw-2026-09-05-v2026-9-2-377f6d77]]'
 source_type: openclaw_changelog
 theme: memory
@@ -289,7 +289,7 @@ Source: https://docs.openclaw.ai/releases/2026.9.2
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2026-09-04 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-04-long-running-sessions-on-linux-return-freed-memory-to-the-system-instead-of-hold|Long-running sessions on Linux return freed memory to the system instead of holding…]]
+- Earlier: 2026-09-04 · Superwhisper · [[Changes/Superwhisper/2026-09-04-lower-memory-use-during-long-recordings|Lower memory use during long recordings]]
 - Later: 2026-09-08 · OpenClaw · [[Changes/OpenClaw/2026-09-08-10-memory-and-personalization-changes-in-v2026-9-3|10 Memory and Personalization changes in v2026.9.3]]
 <!-- chronolog:end -->
 

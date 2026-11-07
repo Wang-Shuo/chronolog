@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 680bbf11a4f17bfc869a3424203469e97c8b46e2ab7b32cb87f0e71c79a7ff80
+machine_hash: 6f3de554fd36be8c785d41785a20349876c69881f64f5b8d40a3d4c3c54d0ce2
 product: dify
 product_name: Dify
 record:
@@ -110,12 +110,12 @@ record:
   title: 14 Apps and Integrations changes in 1.18.0
   type: change
 related_changes:
-- '[[Changes/Qoder/2026-10-22-3-apps-and-integrations-changes-in-qoder-0-4-9|3 Apps
-  and Integrations changes in Qoder 0.4.9]]'
-- '[[Changes/Claude Code/2026-10-23-2-apps-and-integrations-changes-in-v2-1-310|2
-  Apps and Integrations changes in v2.1.310]]'
-- '[[Changes/Codex CLI/2026-10-23-30-apps-and-integrations-changes-in-rust-v0-164-0|30
-  Apps and Integrations changes in rust-v0.164.0]]'
+- '[[Changes/Devin/2026-10-23-sensitivity-label-policy-unlabeled-files-and-files-mcp|Sensitivity-label
+  Policy: Unlabeled Files and Files MCP]]'
+- '[[Changes/Devin/2026-10-23-sharepoint-support-in-the-microsoft-365-files-mcp|SharePoint
+  Support in the Microsoft 365 Files MCP]]'
+- '[[Changes/Devin/2026-10-23-scan-complete-summaries-by-slack-dm-or-email|Scan-complete
+  Summaries by Slack DM or Email]]'
 source_release: '[[Releases/Dify/dify-2026-10-23-1-18-0-github-421489030-879b0613|dify-2026-10-23-1-18-0-github-421489030-879b0613]]'
 source_type: github_releases
 theme: apps-integrations
@@ -186,7 +186,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.18.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-10-23 · Codex CLI · [[Changes/Codex CLI/2026-10-23-30-apps-and-integrations-changes-in-rust-v0-164-0|30 Apps and Integrations changes in rust-v0.164.0]]
+- Earlier: 2026-10-23 · Devin · [[Changes/Devin/2026-10-23-scan-complete-summaries-by-slack-dm-or-email|Scan-complete Summaries by Slack DM or Email]]
 - Later: 2026-10-23 · OpenHands · [[Changes/OpenHands/2026-10-23-2-apps-and-integrations-changes-in-v1-32-0|2 Apps and Integrations changes in v1.32.0]]
 <!-- chronolog:end -->
 

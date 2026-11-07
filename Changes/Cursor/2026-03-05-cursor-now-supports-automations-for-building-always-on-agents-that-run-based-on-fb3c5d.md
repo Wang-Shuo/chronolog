@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4a66f2214bda8d7a83ba71fede81cd139a605f3ef85920c829e2797c07592726
+machine_hash: 0de0f8f1520ec2b4c0129205d9433558f5071acdc640552086b80d1cd265d78a
 product: cursor
 product_name: Cursor
 record:
@@ -56,7 +56,8 @@ record:
   title: Cursor now supports automations for building always-on agents that run based…
   type: change
 related_changes:
-- '[[Changes/Claude/2026-02-25-scheduled-tasks-in-cowork|Scheduled tasks in Cowork]]'
+- '[[Changes/Devin/2026-02-27-repository-selection-for-schedules|Repository Selection
+  for Schedules]]'
 - '[[Changes/Gemini CLI/2026-02-27-migrate-core-render-util-to-use-xterm-js-as-part-of-the-rendering-loop-by-jacob3|Migrate
   core render util to use xterm.js as part of the rendering loop]]'
 - '[[Changes/Cursor/2026-03-05-create-automations-at-cursor-com-automations-or-start-from-a-template-read-more|Create

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 41d1acb034943f647ea6a5da755feff35c6f66ed767de0f1debed8995985b8d0
+machine_hash: 2fc46b600b28b48f5542655bb01f133f3b2fc5023450fbf2818747fced620348
 product: openhands
 product_name: OpenHands
 record:
@@ -43,10 +43,10 @@ record:
     convention'
   type: change
 related_changes:
-- '[[Changes/Kimi Code/2026-07-02-2-context-window-changes-in-kimi-code-0-22-1|2 Context
-  Window changes in Kimi Code 0.22.1]]'
 - '[[Changes/Kimi Code/2026-07-03-have-context-compaction-notes-capture-a-forward-plan-for-the-remaining-work-upco|Have
   context-compaction notes capture a forward plan for the remaining work]]'
+- '[[Changes/Raycast/2026-07-03-hyper-key-added-secure-input-compatibility-mode-when-enabled-you-can-use-hyper-k|Hyper
+  Key : Added Secure Input Compatibility mode]]'
 - '[[Changes/Kimi Code/2026-07-06-2-context-window-changes-in-kimi-code-0-23-0|2 Context
   Window changes in Kimi Code 0.23.0]]'
 source_release: '[[Releases/OpenHands/openhands-2026-07-06-1-9-0-github-349633843-8010776a|openhands-2026-07-06-1-9-0-github-349633843-8010776a]]'

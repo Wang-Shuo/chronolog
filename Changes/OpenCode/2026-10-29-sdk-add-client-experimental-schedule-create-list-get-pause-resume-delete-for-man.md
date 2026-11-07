@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5f6a895041f2a5fde3338d5e71a7372f9af09d68b9031be8fd8e19502f7a9308
+machine_hash: 1aaad551a235c3667c565af1fcc901bce1bc2dc1e9c387390adbc0c9efcf8b0c
 product: opencode
 product_name: OpenCode
 record:
@@ -44,10 +44,9 @@ record:
   title: SDK Add…
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-10-27-4-automation-and-scheduling-changes-in-v2026-10-8|4
-  Automation and Scheduling changes in v2026.10.8]]'
-- '[[Changes/OpenHands/2026-10-27-6-automation-and-scheduling-changes-in-v1-34-0|6
-  Automation and Scheduling changes in v1.34.0]]'
+- '[[Changes/Devin/2026-10-28-devin-oncall|Devin Oncall]]'
+- '[[Changes/Raycast/2026-10-28-my-schedule-added-missing-copy-event-attendee-actions|My
+  Schedule: Added missing Copy Event Attendee actions]]'
 - '[[Changes/Open WebUI/2026-10-29-2-automation-and-scheduling-changes-in-v0-12-5|2
   Automation and Scheduling changes in v0.12.5]]'
 source_release: '[[Releases/OpenCode/opencode-2026-10-29-v2-2-1-8378da57|opencode-2026-10-29-v2-2-1-8378da57]]'

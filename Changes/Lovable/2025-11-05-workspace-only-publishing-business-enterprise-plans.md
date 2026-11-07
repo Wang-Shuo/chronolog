@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 7e89c60a21a70bb6d541d00f7c0bcf019703c3da755329f3ea625e4c77947a7f
+machine_hash: 0aca29067f37964d7ab365b18caf8f1c7fd0487eedd97d5927ba7fff286d37e0
 product: lovable
 product_name: Lovable
 record:
@@ -44,8 +44,7 @@ record:
   title: Workspace-only publishing (Business & Enterprise plans)**
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-10-29-sandboxed-terminals-admin-controls|Sandboxed Terminals:
-  Admin Controls]]'
+- '[[Changes/Devin/2025-10-31-clone-repository-via-api|Clone Repository via API]]'
 - '[[Changes/Replit/2025-10-31-bulk-delete-for-organizations|Bulk delete for organizations]]'
 - '[[Changes/Replit/2025-10-31-teams-and-enterprise|Teams and Enterprise]]'
 source_release: '[[Releases/Lovable/lovable-2025-11-05-2025-11-05-d6fd95df|lovable-2025-11-05-2025-11-05-d6fd95df]]'

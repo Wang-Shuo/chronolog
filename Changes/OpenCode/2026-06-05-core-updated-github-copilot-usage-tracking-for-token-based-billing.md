@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 1f923f489aa31c3fc122d7a51ec7235ab29ffa59942b4609e90d9e9baaccf542
+machine_hash: 634a5392ca3b86c5effee4cf4cdf05ca61bd45153750f425819df2eb0bd6586e
 product: opencode
 product_name: OpenCode
 record:
@@ -41,10 +41,10 @@ record:
   title: Core Updated GitHub Copilot usage tracking for token-based billing
   type: change
 related_changes:
-- '[[Changes/Microsoft 365 Copilot/2026-06-02-organizational-messages-usage-based-targeting-is-now-generally-available-in-the|Organizational
-  Messages Usage‑based targeting is now generally available…]]'
-- '[[Changes/Claude Code/2026-06-04-the-subscription-switch-suggestion-now-shows-in-the-startup-announcement-slot-in|The
-  subscription-switch suggestion now shows in the startup announcement slot…]]'
+- '[[Changes/Recraft/2026-06-04-credit-cost-is-20-to-33-credits-per-second-of-video-depending-on-the-selected-se|Credit
+  cost is 20 to 33 credits per second of video, depending on the selected settings]]'
+- '[[Changes/Devin/2026-06-05-configurable-auto-reload-threshold|Configurable Auto-Reload
+  Threshold]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-05-add-billing-help-topic-with-an-overview-of-ai-credit-usage-features|Add
   billing help topic with an overview of AI credit usage features]]'
 source_release: '[[Releases/OpenCode/opencode-2026-06-05-v1-16-0-b08173b2|opencode-2026-06-05-v1-16-0-b08173b2]]'

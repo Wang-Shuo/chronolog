@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 01cd179a447faaac9dca3f6a7af798b816f7e4dfda06fcc6ddeacc483f981383
+machine_hash: 6d29cc76b1765e18f2b0e82067981b3a0cd58d1605f6d3fbb3948595b0e68ced
 product: openclaw
 product_name: OpenClaw
 record:
@@ -156,8 +156,8 @@ record:
   title: 20 Model Support changes in v2026.9.4
   type: change
 related_changes:
-- '[[Changes/Dify/2026-09-10-76-model-support-changes-in-1-17-1|76 Model Support changes
-  in 1.17.1]]'
+- '[[Changes/Raycast/2026-09-10-ai-models-are-now-grouped-more-consistently-by-provider-including-models-from-ve|AI:
+  Models are now grouped more consistently by provider, including models…]]'
 - '[[Changes/Claude Code/2026-09-11-added-claude-code-gateway-model-discovery-timeout-ms-to-extend-the-llm-gateway-v|Added
   CLAUDE_CODE_GATEWAY_MODEL_DISCOVERY_TIMEOUT_MS to extend the LLM gateway…]]'
 - '[[Changes/ElevenLabs/2026-09-11-scribe-v2-medical|Scribe v2 Medical]]'
@@ -256,7 +256,7 @@ Source: https://docs.openclaw.ai/releases/2026.9.4
 ## Nearby in Model Support
 
 - Earlier: 2026-09-11 · ElevenLabs · [[Changes/ElevenLabs/2026-09-11-scribe-v2-medical|Scribe v2 Medical]]
-- Later: 2026-09-14 · ChatGPT · [[Changes/ChatGPT/2026-09-14-we-re-retiring-automatic-switching-from-instant-to-thinking-reasoning-for-chatgp|Changes to automatic switching to thinking in ChatGPT (Plus and Pro)]]
+- Later: 2026-09-11 · Raycast · [[Changes/Raycast/2026-09-11-bring-your-own-subscriptions|Bring Your Own Subscriptions]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

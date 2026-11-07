@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 1098179f47ca0bc507589b9b53e20bea7f4a1359d804a040c4b71fa13824642d
+machine_hash: 85d9f7a084c0cd1c162dbc3b0abb6b21cb6e87246011bc79d31a275538b84b62
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -58,9 +58,10 @@ record:
     within…
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-06-18-add-voice-to-your-app-with-text-to-speech-and-speech-to-text|Add
-  voice to your app with text-to-speech and speech-to-text]]'
-- '[[Changes/Replit/2026-06-19-voice-mode|Voice Mode]]'
+- '[[Changes/Superwhisper/2026-06-22-2-voice-and-audio-changes-in-superwhisper-windows-1-5-1|2
+  Voice and Audio changes in Superwhisper Windows 1.5.1]]'
+- '[[Changes/AnythingLLM/2026-06-25-3-voice-and-audio-changes-in-v1-15-0|3 Voice and
+  Audio changes in v1.15.0]]'
 - '[[Changes/Dify/2026-06-25-refactor-inject-session-into-audio-tts-by-myshkin451-in-https-github-com-langgen|refactor:
   inject session into audio TTS]]'
 source_release: '[[Releases/Google Antigravity/google-antigravity-2026-06-25-rel-hub-2-2-1-521749ad|google-antigravity-2026-06-25-rel-hub-2-2-1-521749ad]]'

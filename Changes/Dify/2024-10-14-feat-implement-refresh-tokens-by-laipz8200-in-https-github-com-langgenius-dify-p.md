@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 22c6d89a29c951b96a25e17a0f6515d365a38d15347aca5d614772d5e8587791
+machine_hash: 9fe19793e01bbba2aa95c9b69e1ebddd12f923c1b6b4f435c893e764e9add0a6
 product: dify
 product_name: Dify
 record:
@@ -40,12 +40,12 @@ record:
   title: Feat/implement-refresh-tokens
   type: change
 related_changes:
-- '[[Changes/Aider/2024-09-21-improvements-to-prompt-cache-chunking-strategy|Improvements
-  to prompt cache chunking strategy]]'
-- '[[Changes/Gemini/2024-09-30-priority-access-with-gemini-advanced-upload-your-code-files|Priority
-  access with Gemini Advanced: Upload your code files]]'
+- '[[Changes/AnythingLLM/2024-10-03-add-select-unselect-all-context-menu-to-directory-component-by-shatfield4-in-htt|Add
+  select/unselect all context menu to directory component]]'
 - '[[Changes/Cursor/2024-10-09-composer-now-only-applies-files-that-are-in-context-to-prevent-hallucinations|Composer
   now only applies files that are in context to prevent hallucinations]]'
+- '[[Changes/Devin/2024-10-10-a-new-home-page-designed-for-longer-prompts-and-smaller-screens|A
+  new home page, designed for longer prompts and smaller screens]]'
 source_release: '[[Releases/Dify/dify-2024-10-14-0-9-2-github-179747449-3e58ccc7|dify-2024-10-14-0-9-2-github-179747449-3e58ccc7]]'
 source_type: github_releases
 theme: context-window
@@ -83,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2024-10-09 · Cursor · [[Changes/Cursor/2024-10-09-composer-now-only-applies-files-that-are-in-context-to-prevent-hallucinations|Composer now only applies files that are in context to prevent hallucinations]]
+- Earlier: 2024-10-10 · Devin · [[Changes/Devin/2024-10-10-a-new-home-page-designed-for-longer-prompts-and-smaller-screens|A new home page, designed for longer prompts and smaller screens]]
 - Later: 2024-10-17 · OpenHands · [[Changes/OpenHands/2024-10-17-display-in-the-logs-the-prompt-cache-hit-or-miss-for-deepseek-chat-by-enyst-in-h|Display in the logs the prompt cache hit or miss for Deepseek Chat]]
 <!-- chronolog:end -->
 

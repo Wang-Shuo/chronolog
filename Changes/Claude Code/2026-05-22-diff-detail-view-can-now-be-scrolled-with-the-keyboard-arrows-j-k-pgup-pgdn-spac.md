@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4f52ed1d517f74fdd4435a63fb794b6ae43f334b5afd750c81390a4b56aa4324
+machine_hash: 58fa19ddcc73fb59eb7b675330237a345bc50591648c9c7e29bad9a74351e4c5
 product: claude-code
 product_name: Claude Code
 record:
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-05-20 · OpenCode · [[Changes/OpenCode/2026-05-20-added-a-diff-viewer-in-the-tui-for-reviewing-changes|Added a diff viewer in the TUI for reviewing changes]]
-- Later: 2026-05-22 · Gemini CLI · [[Changes/Gemini CLI/2026-05-22-ci-implement-codebase-aware-effort-level-triage-by-cocosheng-g-in-https-github-c|ci: implement codebase-aware effort level triage]]
+- Later: 2026-05-22 · Devin · [[Changes/Devin/2026-05-22-network-config-editor-redesign|Network Config Editor Redesign]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

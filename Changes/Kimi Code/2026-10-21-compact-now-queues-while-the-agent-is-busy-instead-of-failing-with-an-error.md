@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 1ae437535d6a62993117b256f20cf3bbbdb6c1d3e5020ee2c80a4cbad9f6ff0a
+machine_hash: 9cbdadaafbaa9de1b2503bd36dd451e7a8d27516cc922387bbab7455fb9ebf79
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -45,8 +45,8 @@ record:
     error'
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-10-20-5-agent-mode-changes-in-v1-29-0|5 Agent Mode changes
-  in v1.29.0]]'
+- '[[Changes/Superwhisper/2026-10-20-added-a-grok-bot-meetings-agent|Added a Grok
+  Bot meetings agent]]'
 - '[[Changes/Claude/2026-10-21-claude-duet-research-preview-for-pro-and-max-plans|Claude
   Duet research preview for Pro and Max plans]]'
 - '[[Changes/Claude Code/2026-10-21-improved-fork-subagents-launched-together-each-is-now-told-which-launch-is-its-o|Improved

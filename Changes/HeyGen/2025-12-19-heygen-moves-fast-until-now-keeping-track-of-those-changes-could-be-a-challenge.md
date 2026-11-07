@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 219d1b4bc74a06a590f1e3672c6987dbd49c4cd9686d8a12a06e7de21427c4e5
+machine_hash: 2a421f6c897c898d6f1407bbfde746f4654accd5317ffe333211584038aa0c12
 product: heygen
 product_name: HeyGen
 record:
@@ -62,10 +62,10 @@ record:
   title: "We're Starting a Changelog \U0001F4E3"
   type: change
 related_changes:
-- '[[Changes/Replit/2025-11-26-better-search-rankings-for-custom-domains|Better search
-  rankings for Custom Domains]]'
 - "[[Changes/Open WebUI/2025-12-02-web-search-domain-filtering-was-corrected-to-properly-block-results-when-any-res|\U0001F6E1️
   Web search domain filtering was corrected to properly block results when any…]]"
+- '[[Changes/AnythingLLM/2025-12-09-add-serpapi-web-search-by-alexbarron-in-https-github-com-mintplex-labs-anything|Add
+  SerpApi web search]]'
 - '[[Changes/Gamma/2025-12-17-want-your-site-to-show-up-in-search-results-now-you-can-enable-indexing-to-help|Want
   your site to show up in search results?]]'
 source_release: '[[Releases/HeyGen/heygen-2025-12-19-https-heygen-noticeable-news-publications-introducing-product-up-0a974e7d|heygen-2025-12-19-https-heygen-noticeable-news-publications-introducing-product-up-0a974e7d]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 39fce4dba19efd6f6b9f7996a21919e1ea2dbd4e41643096c4e2579d9cef7f59
+machine_hash: d92bca46f9eb065778ab2289061261817324b96601d3eee0e73d75813ceb6cf6
 product: dify
 product_name: Dify
 record:
@@ -44,8 +44,8 @@ record:
   title: 3 Pricing Model changes in 0.3.34
   type: change
 related_changes:
-- '[[Changes/Dify/2023-08-23-feat-record-price-unit-in-messages-by-takatost-in-https-github-com-langgenius-di|feat:
-  record price unit in messages]]'
+- '[[Changes/Raycast/2023-09-06-pro-plan-added-hints-for-subscription-related-problems|Pro
+  Plan: Added hints for subscription-related problems]]'
 - '[[Changes/Cursor/2023-11-03-pro-plan-if-you-hit-your-fast-request-limit-and-prefer-to-purchase-more-you-now|Pro++
   plan: if you hit your fast request limit and prefer to purchase more, you now can]]'
 - '[[Changes/Dify/2023-12-08-3-pricing-model-changes-in-0-3-33|3 Pricing Model changes

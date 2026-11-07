@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1077c7b58388a19392228dc192fdf664908d94eda09b71e136720d11803528af
+machine_hash: 24625c26796edac56d12bbbce83fce8861dc61e39b4b4a4f851de0d942343dcf
 product: open-webui
 product_name: Open WebUI
 record:
@@ -61,12 +61,12 @@ record:
   title: 4 Automation and Scheduling changes in v0.11.4
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-09-17-automate-your-workspace-with-the-lovable-api|Automate
-  your workspace with the Lovable API]]'
 - '[[Changes/OpenHands/2026-09-17-feat-automations-select-saved-agent-profiles-by-neubig-in-https-github-com-openh|feat(automations):
   select saved agent profiles]]'
 - '[[Changes/OpenClaw/2026-09-19-14-automation-and-scheduling-changes-in-v2026-9-5|14
   Automation and Scheduling changes in v2026.9.5]]'
+- '[[Changes/Devin/2026-09-21-simpler-create-automation-menu|Simpler Create Automation
+  Menu]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-09-21-v0-11-4-github-393232555-90de9130|open-webui-2026-09-21-v0-11-4-github-393232555-90de9130]]'
 source_type: github_releases
 theme: automation-scheduling
@@ -120,7 +120,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.11.4
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2026-09-19 · OpenClaw · [[Changes/OpenClaw/2026-09-19-14-automation-and-scheduling-changes-in-v2026-9-5|14 Automation and Scheduling changes in v2026.9.5]]
+- Earlier: 2026-09-21 · Devin · [[Changes/Devin/2026-09-21-simpler-create-automation-menu|Simpler Create Automation Menu]]
 - Later: 2026-09-22 · Codex CLI · [[Changes/Codex CLI/2026-09-22-45849-preserve-the-app-server-shutdown-signal-future-across-loop-iterations-jger|♯45849 Preserve the app-server shutdown signal future across loop iterations @jgershen-oai]]
 <!-- chronolog:end -->
 

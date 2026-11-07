@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d5f67a95b87308cfd985a313b41be894c8fba67c3f4667eccdfbd1c7166860ff
+machine_hash: 107dacef1c5a53b8d7ba507a84219537345b480c82e3d63f8145b4b726a548ed
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -52,8 +52,8 @@ record:
   title: Remove the `/sessions` slash command from the web UI
   type: change
 related_changes:
-- '[[Changes/Microsoft 365 Copilot/2026-06-16-infinite-scroll-chat-history-web-microsoft-365-copilot-chat|Infinite
-  scroll chat history Web (Microsoft 365 Copilot Chat)]]'
+- '[[Changes/AnythingLLM/2026-06-22-feat-add-fastcrw-web-search-provider-by-us-in-https-github-com-mintplex-labs-any|feat:
+  add fastCRW web search provider]]'
 - '[[Changes/Codex CLI/2026-06-22-2-search-and-browsing-changes-in-rust-v0-142-0|2
   Search and Browsing changes in rust-v0.142.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-23-add-mcp-registry-installation-for-browsing-and-installing-mcp-servers|Add

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 84484c9c94746476951e30b768c868ff216344d2d02d44e51902bd3dc2a863f7
+machine_hash: fc2565d4125dc5636bd45d1e1f4ca2d1c79549adc2a47f1c4878c10f6340d03a
 product: dify
 product_name: Dify
 record:
@@ -46,8 +46,8 @@ record:
   title: 2 Interface Experience changes in 1.18.0
   type: change
 related_changes:
-- '[[Changes/Qoder/2026-10-22-sidebar-customization-reorder-navigation-entries-move-them-between-sections-and|Sidebar
-  customization: Reorder navigation entries, move them between sections…]]'
+- '[[Changes/Raycast/2026-10-22-2-interface-experience-changes-in-raycast-macos-2-9|2
+  Interface Experience changes in Raycast macos 2.9]]'
 - '[[Changes/Claude Code/2026-10-23-improved-a-mod-s-image-to-draw-inside-tmux-with-allow-passthrough-and-focus-even|Improved
   a mod''s Image to draw inside tmux with allow-passthrough…]]'
 - '[[Changes/Codex CLI/2026-10-23-9-interface-experience-changes-in-rust-v0-164-0|9

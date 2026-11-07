@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: d965efca88dc0766af6f2d7a0f4f9123b1591c6cc3eee9c8d26220d34b5d0617
+machine_hash: d61bae25b63790b51be187359efa64b9f814b4c09585969b1c239c2198b80df2
 product: cursor
 product_name: Cursor
 record:
@@ -44,8 +44,8 @@ record:
   title: Composer 2.5 includes double usage for the first week
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-05-15-2-model-support-changes-in-v1-14-51|2 Model Support
-  changes in v1.14.51]]'
+- '[[Changes/Superwhisper/2026-05-15-2-model-support-changes-in-superwhisper-macos-2-14-0|2
+  Model Support changes in Superwhisper macOS 2.14.0]]'
 - '[[Changes/v0/2026-05-15-claude-opus-4-7-fast-is-available-as-a-new-model-option-under-more-models-with-2|Claude
   Opus 4.7 Fast is available as a new model option under…]]'
 - '[[Changes/Codex CLI/2026-05-18-4-model-support-changes-in-rust-v0-131-0|4 Model

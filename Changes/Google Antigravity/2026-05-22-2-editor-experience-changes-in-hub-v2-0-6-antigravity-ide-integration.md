@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8e3e36e95b2ffb6651d89ab026e44420acdb23efd29d6fa561ee52459b3a1d0a
+machine_hash: 677296b1a67cb6d955926bb9387004b4fc7631e6b93b279c8b5ae434f7b357f7
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -44,10 +44,10 @@ record:
   title: 2 Editor Experience changes in HUB v2.0.6 — Antigravity IDE integration
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-05-20-added-a-diff-viewer-in-the-tui-for-reviewing-changes|Added
-  a diff viewer in the TUI for reviewing changes]]'
 - '[[Changes/Claude Code/2026-05-22-diff-detail-view-can-now-be-scrolled-with-the-keyboard-arrows-j-k-pgup-pgdn-spac|/diff
   detail view can now be scrolled with the keyboard…]]'
+- '[[Changes/Devin/2026-05-22-network-config-editor-redesign|Network Config Editor
+  Redesign]]'
 - '[[Changes/Gemini CLI/2026-05-22-ci-implement-codebase-aware-effort-level-triage-by-cocosheng-g-in-https-github-c|ci:
   implement codebase-aware effort level triage]]'
 source_release: '[[Releases/Google Antigravity/google-antigravity-2026-05-22-rel-hub-2-0-6-37934609|google-antigravity-2026-05-22-rel-hub-2-0-6-37934609]]'

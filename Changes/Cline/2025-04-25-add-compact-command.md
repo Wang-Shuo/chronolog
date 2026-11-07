@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8e8f2b1257f47e839990b6443a30ee103a51e8c9b0c695154e97e85f86d83e15
+machine_hash: b96ab92109b534a1706bfa7fee0a38780c5867b44f2904e98991e6be5eb5ec62
 product: cline
 product_name: Cline
 record:
@@ -41,12 +41,12 @@ record:
   title: Add `/compact` command
   type: change
 related_changes:
-- '[[Changes/Midjourney/2025-04-23-weird-tile-remix-now-supported-for-v7|Weird, tile,
-  remix now supported for V7]]'
 - '[[Changes/OpenHands/2025-04-23-restored-interactivity-to-the-terminal-by-rbren-in-https-github-com-all-hands-ai|Restored
   interactivity to the terminal]]'
 - '[[Changes/Cline/2025-04-24-improve-slash-command-functionality|Improve slash command
   functionality]]'
+- '[[Changes/LM Studio/2025-04-24-2-developer-workflow-changes-in-lm-studio-0-3-15|2
+  Developer Workflow changes in LM Studio 0.3.15]]'
 source_release: '[[Releases/Cline/cline-2025-04-25-v3-13-3-github-214884660-e3a92d9b|cline-2025-04-25-v3-13-3-github-214884660-e3a92d9b]]'
 source_type: github_releases
 theme: developer-workflow
@@ -77,7 +77,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2025-04-24 · Cline · [[Changes/Cline/2025-04-24-improve-slash-command-functionality|Improve slash command functionality]]
+- Earlier: 2025-04-24 · LM Studio · [[Changes/LM Studio/2025-04-24-2-developer-workflow-changes-in-lm-studio-0-3-15|2 Developer Workflow changes in LM Studio 0.3.15]]
 - Later: 2025-04-29 · OpenHands · [[Changes/OpenHands/2025-04-29-allow-cmd-execution-after-running-a-background-command-by-li-boxuan-in-https-git|Allow cmd execution after running a background command]]
 <!-- chronolog:end -->
 

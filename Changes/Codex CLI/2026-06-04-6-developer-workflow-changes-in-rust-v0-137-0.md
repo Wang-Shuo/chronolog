@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5dd97828458e28ca29b05a57114d434ceb005ede6d51ecf14eda6fcc5189ce78
+machine_hash: fb8d2f0c82987b5ddf4f287594b05a7196af1e965799d50d8e64a9fa1578e573
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -53,10 +53,10 @@ record:
   title: 6 Developer Workflow changes in rust-v0.137.0
   type: change
 related_changes:
-- '[[Changes/Kimi Code/2026-06-02-3-developer-workflow-changes-in-kimi-code-0-8-0|3
-  Developer Workflow changes in Kimi Code 0.8.0]]'
-- '[[Changes/Claude Code/2026-06-03-tools-explicitly-listing-grep-glob-now-provides-the-dedicated-search-tools-on-na|--tools:
-  explicitly listing Grep/Glob now provides the dedicated search tools…]]'
+- '[[Changes/Raycast/2026-06-03-file-search-added-open-in-file-explorer-command-when-entering-a-file-path-in-the|File
+  Search : Added “Open In File Explorer” command when entering a file path…]]'
+- '[[Changes/Raycast/2026-06-03-file-search-added-open-in-finder-command-when-entering-a-file-path-in-the-root-s|File
+  Search : Added “Open In Finder” command when entering a file path in the root search]]'
 - '[[Changes/Claude Code/2026-06-04-skills-added-escape-syntax-to-include-a-literal-before-a-digit-in-command-bodies|Skills:
   added \$ escape syntax to include a literal $ before a digit in command bodies]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-06-04-rust-v0-137-0-github-334076532-fadfeece|codex-cli-2026-06-04-rust-v0-137-0-github-334076532-fadfeece]]'

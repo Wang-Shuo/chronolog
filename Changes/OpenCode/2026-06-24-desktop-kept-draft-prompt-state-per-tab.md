@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c1ee8db4962047135b5ebd3e7e8cf8822699739a2fbdcfb1273b3b2fc0f63786
+machine_hash: d05a3cd55dc198715188ce4c01da2a634f7ac38286ccf53b156a88ed5808aa98
 product: opencode
 product_name: OpenCode
 record:
@@ -82,7 +82,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-06-24 · Lovable · [[Changes/Lovable/2026-06-24-manage-scheduled-jobs-in-lovable-cloud|Manage scheduled jobs in Lovable Cloud]]
-- Later: 2026-06-25 · Claude Code · [[Changes/Claude Code/2026-06-25-added-live-file-path-autocomplete-to-bash-mode|Added live file path autocomplete to bash mode (!)]]
+- Later: 2026-06-24 · Raycast · [[Changes/Raycast/2026-06-24-ai-show-richer-error-messages-when-completion-fails-in-certain-cases|AI : Show richer error messages when completion fails in certain cases]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

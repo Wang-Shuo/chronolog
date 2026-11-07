@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 51e28ff67c2bf17f8992d9a293c80ae567d3010c9c8974ad54e3a99bec1e40ef
+machine_hash: e860f4df66b2ed1112e4cc520e13b0b6de5edfc584e7182f390a15d512fb8e73
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,10 +45,10 @@ record:
     plugin…
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-02-19-5-apps-and-integrations-changes-in-v1-2-7|5 Apps
-  and Integrations changes in v1.2.7]]'
-- '[[Changes/OpenCode/2026-02-19-terminal-add-custom-tool-and-mcp-call-responses-that-are-visible-and-collapsible|Terminal
-  Add custom tool and MCP call responses that are visible and collapsible]]'
+- '[[Changes/Raycast/2026-02-19-2-apps-and-integrations-changes-in-raycast-windows-0-46|2
+  Apps and Integrations changes in Raycast windows 0.46]]'
+- '[[Changes/Raycast/2026-02-19-raycast-notes-is-here-capture-thoughts-instantly-without-switching-apps-think-it|Raycast
+  Notes is here!]]'
 - '[[Changes/Claude Code/2026-02-20-claude-code-simple-mode-now-also-disables-mcp-tools-attachments-hooks-and-claude|CLAUDE_CODE_SIMPLE
   mode now also disables MCP tools, attachments, hooks…]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-02-20-v0-0-413-github-288918542-5fe1e9b1|github-copilot-cli-2026-02-20-v0-0-413-github-288918542-5fe1e9b1]]'

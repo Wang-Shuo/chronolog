@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 79d0dad55813c3d90b92b3109d5481dcea81f4329098dd7b8b1f52936029f921
+machine_hash: d98f1a19fa59bf05b4dbd43426ee00155834b72def20fc736e68c62eb377e72e
 product: descript
 product_name: Descript
 record:
@@ -45,10 +45,9 @@ record:
   title: Screen recorder updates
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-04-23-addressed-failure-of-docker-containers-to-start-on-windows-by-happyherp-in-https|Addressed
-  failure of Docker containers to start on Windows]]'
 - '[[Changes/Windsurf/2025-04-29-reduced-errors-for-edit-tool-calls-for-windows|Reduced
   errors for edit tool calls for Windows]]'
+- '[[Changes/Raycast/2025-04-30-raycast-for-ios-is-here|Raycast for iOS is here]]'
 - '[[Changes/OpenHands/2025-05-05-made-small-tweaks-for-mobile-styles-by-rbren-in-https-github-com-all-hands-ai-op|Made
   small tweaks for mobile styles]]'
 source_release: '[[Releases/Descript/descript-2025-05-06-68156e35817977d45976ec98-d702eeed|descript-2025-05-06-68156e35817977d45976ec98-d702eeed]]'

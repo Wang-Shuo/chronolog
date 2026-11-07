@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 06d4858a27f726608c206ed247f96fc7b3f7718d90a0c00d1fb07712a630fde9
+machine_hash: d22043d64f46c7bce3b03cb2ae22ce19129d05473ec9df35c2830b760a13ac1e
 product: dify
 product_name: Dify
 record:
@@ -60,8 +60,8 @@ record:
   title: 9 Model Support changes in 0.14.0
   type: change
 related_changes:
-- '[[Changes/Ollama/2024-12-11-exaone-3-5-https-ollama-com-library-exaone3-5-a-collection-of-instruction-tuned|EXAONE
-  3.5((source link) a collection…]]'
+- '[[Changes/Superwhisper/2024-12-12-new-super-fast-ultra-v3-turbo-local-model|New
+  super fast, ''Ultra V3 Turbo'' local model]]'
 - '[[Changes/Aider/2024-12-13-2-model-support-changes-in-v0-69-0|2 Model Support changes
   in v0.69.0]]'
 - '[[Changes/ChatGPT/2024-12-13-projects-provide-a-new-way-to-group-files-and-chats-for-personal-use-simplifying|Projects

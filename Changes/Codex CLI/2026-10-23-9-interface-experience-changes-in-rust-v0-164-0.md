@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 04992d3d06a1911aa4d68ffb688025740d189232613192ceb143f5932c15edea
+machine_hash: ee33ae4cecbc528ade17bea450d5b0f6c9e06ca6e2665fbe804e0f3749a66a06
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -60,10 +60,10 @@ record:
   title: 9 Interface Experience changes in rust-v0.164.0
   type: change
 related_changes:
-- '[[Changes/Google Antigravity/2026-10-22-you-can-now-manage-notification-preferences-toggle-completion-sounds-and-adjust|Manage
-  notification preferences, toggle completion sounds, and adjust agent sound…]]'
-- '[[Changes/Qoder/2026-10-22-sidebar-customization-reorder-navigation-entries-move-them-between-sections-and|Sidebar
-  customization: Reorder navigation entries, move them between sections…]]'
+- '[[Changes/Raycast/2026-10-22-2-interface-experience-changes-in-raycast-windows-2-9|2
+  Interface Experience changes in Raycast windows 2.9]]'
+- '[[Changes/Raycast/2026-10-22-2-interface-experience-changes-in-raycast-macos-2-9|2
+  Interface Experience changes in Raycast macos 2.9]]'
 - '[[Changes/Claude Code/2026-10-23-improved-a-mod-s-image-to-draw-inside-tmux-with-allow-passthrough-and-focus-even|Improved
   a mod''s Image to draw inside tmux with allow-passthrough…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-10-23-rust-v0-164-0-github-421457270-d867151d|codex-cli-2026-10-23-rust-v0-164-0-github-421457270-d867151d]]'

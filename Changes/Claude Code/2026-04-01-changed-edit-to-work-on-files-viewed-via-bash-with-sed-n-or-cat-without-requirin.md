@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c3adde5d11dad1af262b88e3dea7b747f5880d56a1d074e7716f07926f6b78b6
+machine_hash: bfc1ba3017d5944c093b43f5f0b95ad254ef52946ff9c20a238463def5c9eb29
 product: claude-code
 product_name: Claude Code
 record:
@@ -88,7 +88,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-03-31 · HeyGen · [[Changes/HeyGen/2026-03-31-where-to-find-it-apps-tab-upscale-video|Where to find it: Apps tab → Upscale Video]]
-- Later: 2026-04-01 · Gemini CLI · [[Changes/Gemini CLI/2026-04-01-refactor-ide-replace-dynamic-undici-import-with-static-fetch-import-by-cocosheng|refactor(ide): replace dynamic undici import with static fetch import]]
+- Later: 2026-04-01 · Devin · [[Changes/Devin/2026-04-01-tab-title-simplification|Tab Title Simplification]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

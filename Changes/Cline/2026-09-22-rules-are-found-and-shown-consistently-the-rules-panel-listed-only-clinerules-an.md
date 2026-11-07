@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 723c9ce3ee0db6556ae7ec86e487eabe892c80f9ecb5e2a316ef81c363c74ae2
+machine_hash: 62ececc1664cf5dd83ab9e9fea1db763af6db79ec9d1761aed185c76d504d321
 product: cline
 product_name: Cline
 record:
@@ -60,12 +60,12 @@ record:
   title: Rules are found and shown consistently
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-09-19-23-mobile-and-desktop-changes-in-v2026-9-5|23 Mobile
-  and Desktop changes in v2026.9.5]]'
 - '[[Changes/ChatGPT/2026-09-21-you-can-now-track-your-credit-score-in-chatgpt-securely-connect-your-experian-cr|Credit
   scores in Finances]]'
 - "[[Changes/Open WebUI/2026-09-21-apple-device-replies-an-assistant-reply-no-longer-comes-up-blank-in-a-home-scree|\U0001F4F1
   Apple device replies. An assistant reply no longer comes up blank in a home…]]"
+- '[[Changes/AnythingLLM/2026-09-22-x-removed-the-borders-around-the-main-content-area-for-a-cleaner-desktop-layout|x
+  Removed the borders around the main content area for a cleaner desktop layout]]'
 source_release: '[[Releases/Cline/cline-2026-09-22-v4-1-20-github-394105689-95df91cb|cline-2026-09-22-v4-1-20-github-394105689-95df91cb]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -99,7 +99,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-09-21 · Open WebUI · [[Changes/Open WebUI/2026-09-21-apple-device-replies-an-assistant-reply-no-longer-comes-up-blank-in-a-home-scree|📱 Apple device replies. An assistant reply no longer comes up blank in a home…]]
+- Earlier: 2026-09-22 · AnythingLLM · [[Changes/AnythingLLM/2026-09-22-x-removed-the-borders-around-the-main-content-area-for-a-cleaner-desktop-layout|x Removed the borders around the main content area for a cleaner desktop layout]]
 - Later: 2026-09-22 · Codex CLI · [[Changes/Codex CLI/2026-09-22-11-mobile-and-desktop-changes-in-rust-v0-156-0|11 Mobile and Desktop changes in rust-v0.156.0]]
 <!-- chronolog:end -->
 

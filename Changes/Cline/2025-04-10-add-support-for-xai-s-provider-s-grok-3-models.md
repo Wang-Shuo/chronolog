@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 8710ddbec6609c5fff5b097912240bdbca8b6d2fa41e58294280ad603026ca18
+machine_hash: 588b96bb2082f25110146744d0c4a400d3e387adb0036f26cb451929273a1a5c
 product: cline
 product_name: Cline
 record:
@@ -42,10 +42,10 @@ record:
   title: Add support for xAI's provider's Grok 3 models
   type: change
 related_changes:
-- '[[Changes/Runway/2025-04-07-our-fastest-and-most-efficient-video-model-now-available-to-all-users|Gen-4
-  Turbo]]'
 - '[[Changes/Dify/2025-04-09-6-model-support-changes-in-1-2-0|6 Model Support changes
   in 1.2.0]]'
+- '[[Changes/Raycast/2025-04-09-reasoning-effort-you-can-now-set-the-reasoning-level-for-openai-s-o3-mini-and-cl|Reasoning
+  Effort: You can now set the reasoning level for OpenAI’s o3-mini…]]'
 - '[[Changes/ChatGPT/2025-04-10-effective-april-30-2025-gpt-4-will-be-retired-from-chatgpt-and-fully-replaced-by-d03b3b|Sunsetting
   GPT‑4 in ChatGPT]]'
 source_release: '[[Releases/Cline/cline-2025-04-10-v3-11-0-github-211490526-e01be860|cline-2025-04-10-v3-11-0-github-211490526-e01be860]]'
@@ -78,7 +78,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2025-04-10 · ChatGPT · [[Changes/ChatGPT/2025-04-10-effective-april-30-2025-gpt-4-will-be-retired-from-chatgpt-and-fully-replaced-by-d03b3b|Sunsetting GPT‑4 in ChatGPT]]
-- Later: 2025-04-12 · Cline · [[Changes/Cline/2025-04-12-2-model-support-changes-in-v3-12-0|2 Model Support changes in v3.12.0]]
+- Later: 2025-04-11 · Recraft · [[Changes/Recraft/2025-04-11-we-ve-added-imagen-3-as-the-latest-external-model-for-recraft-available-to-all-p|Recraft adds Imagen 3 as the latest external model for Recraft, available to all…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 00337cfd2a909fdb4d4fb53cab207321b8b003aeec87e7d0575b3afdf188c756
+machine_hash: 9402c04bcadc79cd90266aaea8a7d2b50ecf6b047a8f43ac801e6ce5742d165b
 product: cursor
 product_name: Cursor
 record:

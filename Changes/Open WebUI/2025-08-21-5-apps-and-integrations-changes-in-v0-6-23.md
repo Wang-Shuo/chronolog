@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: cc971fa395f25a3253150fa28da01a3ee35d8463602641e71b76dea2a7f6221a
+machine_hash: 1fabd34ea6dd2e3be5f70d9660efd416bd43a4b489221c70a87cc6b09995937a
 product: open-webui
 product_name: Open WebUI
 record:
@@ -125,7 +125,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.6.23
 ## Nearby in Apps and Integrations
 
 - Earlier: 2025-08-21 · Cursor · [[Changes/Cursor/2025-08-21-cursor-now-supports-mcp-elicitation-a-new-feature-in-the-mcp-spec-that-allows-se|Support for MCP elicitation]]
-- Later: 2025-08-22 · Open WebUI · [[Changes/Open WebUI/2025-08-22-tool-server-loading-and-visibility-restored-resolved-an-issue-where-connected-to|🛠️ Tool Server Loading and Visibility Restored]]
+- Later: 2025-08-22 · Devin · [[Changes/Devin/2025-08-22-self-hosted-gitlab-access|Self-Hosted GitLab Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

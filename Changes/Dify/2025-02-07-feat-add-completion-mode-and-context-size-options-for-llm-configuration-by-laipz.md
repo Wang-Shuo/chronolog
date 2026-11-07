@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9aa2515e74fcba92a9b472e6503e1aaea663147e2553ac430e052a6798f77ee7
+machine_hash: eae8674cc15a9edd1966126e97c0319c65aae7df018406c1d81c6b64bff2f04a
 product: dify
 product_name: Dify
 record:
@@ -97,7 +97,7 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2025-02-06 · Aider · [[Changes/Aider/2025-02-06-dynamically-changes-the-ollama-context-window-to-hold-the-current-chat|Dynamically changes the Ollama context window to hold the current chat]]
-- Later: 2025-02-19 · Cline · [[Changes/Cline/2025-02-19-new-advanced-setting-to-disable-the-browser-tool-improved-support-for-aws-bedroc|New advanced setting to disable the browser tool, improved support for AWS Bedrock…]]
+- Later: 2025-02-18 · LM Studio · [[Changes/LM Studio/2025-02-18-use-the-new-visualize-accepted-draft-tokens-feature-to-watch-speculative-decodin|Use the new "Visualize accepted draft tokens" feature to watch speculative decoding…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

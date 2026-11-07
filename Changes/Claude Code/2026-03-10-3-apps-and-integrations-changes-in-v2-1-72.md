@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2a6f2e8d4158bec22f6b9261dfbe5cdba6cbbe57939c3bc996ca6442d62ca2e3
+machine_hash: e758d0ae0a885466ec084941c2a6a4f346b45da90177f034c3c82198e635f4d6
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,10 +47,10 @@ record:
   title: 3 Apps and Integrations changes in v2.1.72
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-09-extensions-are-now-available-as-an-experimental-feature-ask-copilot-to-write-cus|Extensions
-  are now available as an experimental feature]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-09-4-apps-and-integrations-changes-in-v1-0-3|4
   Apps and Integrations changes in v1.0.3]]'
+- '[[Changes/Raycast/2026-03-09-3-apps-and-integrations-changes-in-raycast-windows-0-48|3
+  Apps and Integrations changes in Raycast windows 0.48]]'
 - '[[Changes/Windsurf/2026-03-09-mcp|MCP]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-10-v2-1-72-github-294951528-18ee0f48|claude-code-2026-03-10-v2-1-72-github-294951528-18ee0f48]]'
 source_type: github_releases

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 018b78a8e2b8210951b5105ab432ae992c59b91f51863c068213c2d4cb9c3cef
+machine_hash: cef836606433c8546661dc6d1e4e11ba479e67fee9bd03a9c67859eec636d20a
 product: ollama
 product_name: Ollama
 record:
@@ -53,8 +53,8 @@ record:
     pull`
   type: change
 related_changes:
-- '[[Changes/Ollama/2024-07-13-ollama-will-no-longer-error-if-loading-models-larger-than-system-memory-if-disk|Ollama
-  will no longer error if loading models larger than system memory if disk…]]'
+- '[[Changes/Raycast/2024-07-17-misc-reduced-memory-footprint-added-a-cache-diagnostics-tool-to-gather-logs-abou|Misc:
+  Reduced memory footprint]]'
 - '[[Changes/Synthesia/2024-07-22-add-giphy-gifs-speed-up-scene-transitions-with-direct-cut-and-use-keyboard-short|Edit
   faster with GIFs, Direct Cut, and Shortcuts]]'
 - '[[Changes/Cursor/2024-07-23-copilot-now-has-chunked-streaming-currently-in-beta-it-will-surface-edits-faster|Copilot++

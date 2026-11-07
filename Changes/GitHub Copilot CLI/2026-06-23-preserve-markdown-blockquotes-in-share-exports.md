@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d70758f25de0568f13343b76be738625bfe20ddcd489cc6612f12157f18c75a6
+machine_hash: 454c732da1ab489c1f1696b5682d325d6ccde391d8dca8a1bb3666833e113c1b
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,11 +43,11 @@ record:
   title: Preserve Markdown blockquotes in /share exports
   type: change
 related_changes:
-- '[[Changes/v0/2026-06-19-4-collaboration-changes-in-annotations-mode-in-form-questions|4
-  Collaboration changes in Annotations mode, in-form questions…]]'
 - '[[Changes/Codex CLI/2026-06-22-26707-pac-2-add-shared-auth-system-proxy-contract-canvrno-oai|♯26707
   PAC 2 - Add shared auth system proxy contract @canvrno-oai]]'
 - '[[Changes/Cursor/2026-06-22-new-team-marketplaces|New Team Marketplaces]]'
+- '[[Changes/Raycast/2026-06-22-3-collaboration-changes-in-raycast-ios-1-3-0|3 Collaboration
+  changes in Raycast ios 1.3.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-06-23-v1-0-64-github-343650012-6d4aa4bd|github-copilot-cli-2026-06-23-v1-0-64-github-343650012-6d4aa4bd]]'
 source_type: github_releases
 theme: collaboration
@@ -92,7 +92,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-06-22 · Cursor · [[Changes/Cursor/2026-06-22-new-team-marketplaces|New Team Marketplaces]]
+- Earlier: 2026-06-22 · Raycast · [[Changes/Raycast/2026-06-22-3-collaboration-changes-in-raycast-ios-1-3-0|3 Collaboration changes in Raycast ios 1.3.0]]
 - Later: 2026-06-23 · Lovable · [[Changes/Lovable/2026-06-23-a-more-compact-show-toolbar-button|A more compact Show toolbar button]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 449f7127dce3b8a1fe8563be9430cc7b6758938cca01be203c8c6a915c072e0c
+machine_hash: 6ca0fb0505950d33c045fa9bce9d0a3ed483e91bbfaaa0eb90416781bf60cfbe
 product: descript
 product_name: Descript
 record:
@@ -58,9 +58,10 @@ record:
   title: Descript for Web (Beta) adds Video, Audio, and GIF exports
   type: change
 related_changes:
-- '[[Changes/Descript/2023-11-15-ai-turn-into-blog-post|AI Turn into Blog Post]]'
-- '[[Changes/ChatGPT/2023-11-21-chatgpt-with-voice-is-now-available-to-all-free-users-download-the-app-on-your-p|ChatGPT
-  with voice is available to all users]]'
+- '[[Changes/Superwhisper/2023-12-20-improved-downsampling-should-result-in-better-transcription|Improved
+  downsampling, should result in better transcription]]'
+- '[[Changes/Superwhisper/2023-12-20-if-language-model-enabled-dont-flash-the-transcription-result|If
+  language model enabled, dont flash the transcription result]]'
 - '[[Changes/Runway/2024-01-08-create-a-custom-voice-for-text-to-speech-or-lip-sync-videos-using-a-short-audio|Custom
   Voices]]'
 source_release: '[[Releases/Descript/descript-2024-01-10-659d7ecd3c8af3aabfb226c7-4effc43f|descript-2024-01-10-659d7ecd3c8af3aabfb226c7-4effc43f]]'
@@ -101,7 +102,7 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2024-01-08 · Runway · [[Changes/Runway/2024-01-08-create-a-custom-voice-for-text-to-speech-or-lip-sync-videos-using-a-short-audio|Custom Voices]]
-- Later: 2024-02-08 · Gemini · [[Changes/Gemini/2024-02-08-chat-to-supercharge-your-ideas-in-the-gemini-app|Chat to supercharge your ideas in the Gemini app]]
+- Later: 2024-01-25 · Superwhisper · [[Changes/Superwhisper/2024-01-25-explanations-of-difference-between-voice-and-language-models|Explanations of difference between voice and language models]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

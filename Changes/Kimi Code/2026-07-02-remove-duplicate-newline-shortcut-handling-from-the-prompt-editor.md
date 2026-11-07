@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 88428072badddb43a84544599a591865743855b74bd62ce0391a06ec479df5e3
+machine_hash: be221bdfde49a00c9be7010d56b59b1af91ad82458fec08459463f6be6c51074
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -79,7 +79,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-07-02 · Kimi Code · [[Changes/Kimi Code/2026-07-02-2-editor-experience-changes-in-kimi-code-0-22-0|2 Editor Experience changes in Kimi Code 0.22.0]]
-- Later: 2026-07-04 · Windsurf · [[Changes/Windsurf/2026-07-04-devin-local|Devin Local]]
+- Later: 2026-07-03 · Devin · [[Changes/Devin/2026-07-03-diff-line-permalinks|Diff Line Permalinks]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

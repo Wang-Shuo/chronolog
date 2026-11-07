@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 732feeb0575eec4e2ec3a7534ce891436fcf434e5823149e649a9f7343a2773c
+machine_hash: 8bcfa759aa293610b67896e084dff1780564036fddb1906e16c8fe0ae98099e6
 product: open-webui
 product_name: Open WebUI
 record:
@@ -47,12 +47,12 @@ record:
   title: "**\U0001F527 Feedback Export Enhancements**"
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2024-10-07-web-and-youtube-attachment-fix-resolved-an-issue-where-attaching-web-links-and-y|\U0001F5A5️
-  Web and YouTube Attachment Fix]]"
 - '[[Changes/Dify/2024-10-14-4-apps-and-integrations-changes-in-0-9-2|4 Apps and Integrations
   changes in 0.9.2]]'
 - '[[Changes/Dify/2024-10-23-feat-tools-refactor-the-base-table-plugin-by-hgnulb-in-https-github-com-langgeni|feat(Tools):
   Refactor the base table plugin]]'
+- '[[Changes/AnythingLLM/2024-10-25-github-data-connector-improvements-by-shatfield4-in-https-github-com-mintplex-la|Github
+  data connector improvements]]'
 source_release: '[[Releases/Open WebUI/open-webui-2024-10-26-v0-3-34-github-182069894-6839b1c4|open-webui-2024-10-26-v0-3-34-github-182069894-6839b1c4]]'
 source_type: github_releases
 theme: apps-integrations
@@ -86,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2024-10-23 · Dify · [[Changes/Dify/2024-10-23-feat-tools-refactor-the-base-table-plugin-by-hgnulb-in-https-github-com-langgeni|feat(Tools): Refactor the base table plugin]]
+- Earlier: 2024-10-25 · AnythingLLM · [[Changes/AnythingLLM/2024-10-25-github-data-connector-improvements-by-shatfield4-in-https-github-com-mintplex-la|Github data connector improvements]]
 - Later: 2024-10-28 · Dify · [[Changes/Dify/2024-10-28-text-to-image-with-stable-diffusion-3-5-bring-your-text-to-life-with-the-new-sta|Text-to-Image with Stable-Diffusion 3.5: Bring your text to life with the new…]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b69b6b960b568ecb35b84997375502068ab2b02862429ad361d996996d819f60
+machine_hash: a86e41615452b4c83910f258fab224442f9cd55a8db7b47ff526a2e6ad4e7935
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -56,12 +56,12 @@ record:
   title: 9 Context Window changes in rust-v0.149.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-08-18-13-context-window-changes-in-rust-v0-148-0|13 Context
-  Window changes in rust-v0.148.0]]'
-- '[[Changes/Lovable/2026-08-19-design-systems-on-all-paid-plans|Design systems on
-  all paid plans]]'
-- '[[Changes/Notion/2026-08-19-manage-your-workers-connections-and-personal-access-tokens-from-the-new-develope|Your
-  Developer Portal, now in the sidebar]]'
+- '[[Changes/Raycast/2026-08-19-the-best-chats-start-with-the-right-context-screen-awareness-brings-context-from|The
+  best chats start with the right context]]'
+- '[[Changes/Raycast/2026-08-19-the-best-chats-start-with-the-right-context-screen-awareness-brings-context-from-e9a115|The
+  best chats start with the right context]]'
+- '[[Changes/Raycast/2026-08-19-3-context-window-changes-in-raycast-windows-0-71|3
+  Context Window changes in Raycast windows 0.71]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-08-20-rust-v0-149-0-github-374028976-829da944|codex-cli-2026-08-20-rust-v0-149-0-github-374028976-829da944]]'
 source_type: github_releases
 theme: context-window
@@ -124,7 +124,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.149.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-08-19 · Notion · [[Changes/Notion/2026-08-19-manage-your-workers-connections-and-personal-access-tokens-from-the-new-develope|Your Developer Portal, now in the sidebar]]
+- Earlier: 2026-08-19 · Raycast · [[Changes/Raycast/2026-08-19-3-context-window-changes-in-raycast-windows-0-71|3 Context Window changes in Raycast windows 0.71]]
 - Later: 2026-08-21 · Claude Code · [[Changes/Claude Code/2026-08-21-improved-the-reminder-shown-after-compaction-so-a-skill-s-original-arguments-are|Improved the reminder shown after compaction so a skill's original arguments are not…]]
 <!-- chronolog:end -->
 

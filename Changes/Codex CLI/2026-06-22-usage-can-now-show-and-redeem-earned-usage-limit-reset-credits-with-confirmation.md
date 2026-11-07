@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 3a0f8c77a04a5a1bb23ec3fb467921736f40d4ef159dce8e5a60479e4ea4f775
+machine_hash: 313aa2bab316f1fdd47112f60da0c9da96758ede2d7300d3b4f3b572c933b7d2
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -45,12 +45,12 @@ record:
   title: '`/usage` can now show and redeem earned usage-limit reset credits…'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-18-28143-feat-app-server-expose-rate-limit-reset-credits-jayp-oai|♯28143
-  feat(app-server): expose rate-limit reset credits @jayp-oai]]'
 - '[[Changes/Lovable/2026-06-18-one-credit-balance-and-clearer-usage-insights|One
   credit balance and clearer usage insights]]'
 - '[[Changes/Lovable/2026-06-18-ask-lovable-about-your-workspace-s-credit-usage|Ask
   Lovable about your workspace’s credit usage]]'
+- '[[Changes/Recraft/2026-06-20-we-ve-lowered-api-pricing-across-the-recraft-v4-1-model-family|Lower
+  API pricing for Recraft V4.1 models]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-06-22-rust-v0-142-0-github-343189954-a218ab4e|codex-cli-2026-06-22-rust-v0-142-0-github-343189954-a218ab4e]]'
 source_type: github_releases
 theme: pricing-model
@@ -95,7 +95,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-06-18 · Lovable · [[Changes/Lovable/2026-06-18-ask-lovable-about-your-workspace-s-credit-usage|Ask Lovable about your workspace’s credit usage]]
+- Earlier: 2026-06-20 · Recraft · [[Changes/Recraft/2026-06-20-we-ve-lowered-api-pricing-across-the-recraft-v4-1-model-family|Lower API pricing for Recraft V4.1 models]]
 - Later: 2026-06-22 · Google Antigravity · [[Changes/Google Antigravity/2026-06-22-quota-screen-redesign-clearer-unambiguous-view-into-used-versus-remaining-credit|Quota screen redesign]]
 <!-- chronolog:end -->
 

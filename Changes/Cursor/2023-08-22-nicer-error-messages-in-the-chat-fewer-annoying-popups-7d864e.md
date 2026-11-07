@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2429862ba68f720e4b971edbfaf5e584136b0ae2a8310fa061d9a21072ccff04
+machine_hash: 1bf366185a7d46757f2438026d6856cea8bdf5a6f9054a39f459767913729510
 product: cursor
 product_name: Cursor
 record:
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2023-08-21 · Cursor · [[Changes/Cursor/2023-08-21-nicer-error-messages-in-the-chat-fewer-annoying-popups-782655|Nicer error messages in the chat!]]
-- Later: 2023-08-30 · Cursor · [[Changes/Cursor/2023-08-30-you-can-now-switch-to-the-vs-code-sidebar-orientation|Switch to the VS Code sidebar orientation]]
+- Later: 2023-08-25 · Superwhisper · [[Changes/Superwhisper/2023-08-25-onboarding-flow|Onboarding flow]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

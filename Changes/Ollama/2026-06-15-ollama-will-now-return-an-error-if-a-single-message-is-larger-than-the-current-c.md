@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b35d34c7566a985dc7b0c4ba03acb468a76b438d3fe156e13736141d55659d3e
+machine_hash: eb732aaefabd86023f61570621b23460cd092bbf3d519ab5b8648ff39dad2d8e
 product: ollama
 product_name: Ollama
 record:
@@ -79,7 +79,7 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2026-06-15 · Kimi Code · [[Changes/Kimi Code/2026-06-15-2-context-window-changes-in-kimi-code-0-15-0|2 Context Window changes in Kimi Code 0.15.0]]
-- Later: 2026-06-16 · Kimi Code · [[Changes/Kimi Code/2026-06-16-remove-redundant-llm-request-logging-context-plumbing|Remove redundant LLM request logging context plumbing]]
+- Later: 2026-06-16 · AnythingLLM · [[Changes/AnythingLLM/2026-06-16-x-meeting-assistant-context-window-overflow-handling-is-much-better-now-so-small|x Meeting Assistant context window overflow handling is much better now - so small…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

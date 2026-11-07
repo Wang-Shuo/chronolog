@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ccfea3e8264f6289e90d342ec118bfe7ac3a820696cea639e78e7f6991b793bd
+machine_hash: ecf575708b593bfcaf625fac8e4c6a13b58038804ed6fcdeed7ac3c5c9aafb8e
 product: openclaw
 product_name: OpenClaw
 record:
@@ -61,12 +61,12 @@ record:
   title: 7 Apps and Integrations changes in v2026.10.7
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-10-23-2-apps-and-integrations-changes-in-v1-32-0|2 Apps
-  and Integrations changes in v1.32.0]]'
-- '[[Changes/Replit/2026-10-23-keep-your-apps-running-when-credits-run-out|Keep your
-  apps running when credits run out]]'
 - '[[Changes/Windsurf/2026-10-23-5-apps-and-integrations-changes-in-v3-11-212|5 Apps
   and Integrations changes in v3.11.212]]'
+- '[[Changes/Krea/2026-10-24-more-agent-nodes-and-plugin-polish|More Agent, Nodes,
+  and plugin polish]]'
+- '[[Changes/Krea/2026-10-24-sort-filter-and-delete-nodes-apps|Sort, filter, and delete
+  Nodes Apps]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-10-24-v2026-10-7-78f358d7|openclaw-2026-10-24-v2026-10-7-78f358d7]]'
 source_type: openclaw_changelog
 theme: apps-integrations
@@ -117,7 +117,7 @@ Source: https://docs.openclaw.ai/releases/2026.10.7
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-10-23 · Windsurf · [[Changes/Windsurf/2026-10-23-5-apps-and-integrations-changes-in-v3-11-212|5 Apps and Integrations changes in v3.11.212]]
+- Earlier: 2026-10-24 · Krea · [[Changes/Krea/2026-10-24-sort-filter-and-delete-nodes-apps|Sort, filter, and delete Nodes Apps]]
 - Later: 2026-10-25 · Open WebUI · [[Changes/Open WebUI/2026-10-25-5-apps-and-integrations-changes-in-v0-12-4|5 Apps and Integrations changes in v0.12.4]]
 <!-- chronolog:end -->
 

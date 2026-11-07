@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: fix
-machine_hash: 7b9198257304ffbdbe5455823901c3948e9ea362c7ee6f421765981b5de145cd
+machine_hash: 2b0a285acffc4a9937ffc036fe7d24810f82f6a56d8867a01a33c87d79d116be
 product: claude-code
 product_name: Claude Code
 record:
@@ -55,7 +55,8 @@ record:
     when you…
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-08-19-a-simpler-publish-dialog|A simpler Publish dialog]]'
+- '[[Changes/Raycast/2026-08-19-ai-fixed-answering-a-tool-permission-prompt-doing-nothing-after-quitting-and-reo|AI
+  : Fixed answering a tool permission prompt doing nothing after quitting…]]'
 - '[[Changes/Claude Code/2026-08-20-3-safety-and-privacy-changes-in-v2-1-238|3 Safety
   and Privacy changes in v2.1.238]]'
 - '[[Changes/Codex CLI/2026-08-20-18-safety-and-privacy-changes-in-rust-v0-149-0|18
@@ -101,7 +102,7 @@ type: change
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-08-20 · Codex CLI · [[Changes/Codex CLI/2026-08-20-18-safety-and-privacy-changes-in-rust-v0-149-0|18 Safety and Privacy changes in rust-v0.149.0]]
-- Later: 2026-08-21 · OpenCode · [[Changes/OpenCode/2026-08-21-core-answer-permission-requests-triggered-by-subagents-during-opencode-run|Core Answer permission requests triggered by subagents during opencode run]]
+- Later: 2026-08-21 · Devin · [[Changes/Devin/2026-08-21-change-a-scan-s-profile|Change a Scan's Profile]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

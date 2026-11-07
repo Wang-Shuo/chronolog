@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 4150e70b58ee0fe4e7cdbd852af6379267816f0d761f8cccdbfdc4d99ce211ff
+machine_hash: 793f3c8fbc4c03f7eb0500a2aa6d8bac8a1f9362502830bc14bde7c9df6505ec
 product: ollama
 product_name: Ollama
 record:
@@ -52,8 +52,8 @@ record:
   title: picker shows Ollama's actual model names
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-10-30-desktop-added-the-missing-top-inset-to-the-search-field-in-the-recently-closed-m|Desktop
-  Added the missing top inset to the search field in the recently closed menu]]'
+- '[[Changes/Raycast/2026-10-31-onboarding-added-a-new-onboarding-experience|Onboarding:
+  Added a new onboarding experience]]'
 - '[[Changes/ElevenLabs/2026-11-02-2-interface-experience-changes-in-elevenlabs-updates-2026-11-02|2
   Interface Experience changes in ElevenLabs updates — 2026-11-02]]'
 - '[[Changes/Google Antigravity/2026-11-03-5-interface-experience-changes-in-hub-v2-29-0-voice-mode-remote|5

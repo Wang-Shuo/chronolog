@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7f66c1e8d0d03e3672be3dc357d4c7d194a89cc4cf16a89f845564b7a4121f3a
+machine_hash: b411230ed0d26716696b16c703c87e68fbd78739e80d19e27326f58f06ce2f5a
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -90,7 +90,7 @@ type: change
 ## Nearby in Enterprise and Administration
 
 - Earlier: 2026-04-10 · Claude Code · [[Changes/Claude Code/2026-04-10-added-os-ca-certificate-store-trust-by-default-so-enterprise-tls-proxies-work-wi|Added OS CA certificate store trust by default, so enterprise TLS proxies work…]]
-- Later: 2026-04-16 · ChatGPT · [[Changes/ChatGPT/2026-04-16-we-re-beginning-to-roll-out-ads-for-users-on-free-and-go-plans-in-australia-new|Rolling out ads in Australia, New Zealand, and Canada]]
+- Later: 2026-04-10 · Devin · [[Changes/Devin/2026-04-10-bulk-repository-secrets-import|Bulk Repository Secrets Import]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

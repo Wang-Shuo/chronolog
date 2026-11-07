@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: d768020d17be929c76f0bbffca9b681a92feae0a5de09e00f7ee9f225fb9c207
+machine_hash: d6266efe095514080a5dec602d5d4cb7877b6051e85b17a9d72f1191ee4585b7
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -46,12 +46,12 @@ record:
   title: Speech to Text
   type: change
 related_changes:
-- '[[Changes/Runway/2026-10-15-mirelo-sfx-2-0-is-now-available-in-runway-mcp-give-your-agent-a-clip-and-describ|Mirelo
-  SFX 2.0]]'
-- '[[Changes/Lovable/2026-10-16-gpt-transcribe-for-your-app-s-speech-to-text-features|GPT
-  Transcribe for your app''s speech-to-text features]]'
 - '[[Changes/OpenClaw/2026-10-16-discord-voice-changes-you-can-change-voices-and-continue-asking-for-agent-checks|Discord
   voice changes]]'
+- '[[Changes/Raycast/2026-10-16-2-voice-and-audio-changes-in-raycast-macos-2-8|2 Voice
+  and Audio changes in Raycast macos 2.8]]'
+- '[[Changes/Raycast/2026-10-16-dictation-settings-are-now-organised-better-making-it-easier-to-find-exactly-wha|Dictation:
+  Settings are now organised better, making it easier to find exactly what…]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-10-19-2026-10-19-dd219c14|elevenlabs-2026-10-19-2026-10-19-dd219c14]]'
 source_type: elevenlabs_changelog
 theme: voice
@@ -92,7 +92,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-10-16 · OpenClaw · [[Changes/OpenClaw/2026-10-16-discord-voice-changes-you-can-change-voices-and-continue-asking-for-agent-checks|Discord voice changes]]
+- Earlier: 2026-10-16 · Raycast · [[Changes/Raycast/2026-10-16-dictation-settings-are-now-organised-better-making-it-easier-to-find-exactly-wha|Dictation: Settings are now organised better, making it easier to find exactly what…]]
 - Later: 2026-10-19 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-19-voice-dictation-no-longer-inserts-language-markers-like-en-us-into-transcript-te|Voice dictation no longer inserts language markers like en-US into transcript text]]
 <!-- chronolog:end -->
 

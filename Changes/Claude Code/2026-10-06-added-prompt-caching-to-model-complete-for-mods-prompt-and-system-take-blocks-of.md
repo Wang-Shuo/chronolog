@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: eab6c99008fb6aa46b88b4e6ee45761e2782ccfc319bc372b818f8a01472509e
+machine_hash: 77921322aa9f9e68d9fffb572903777dbace2acdb065ca3786a1a4950bedcbf8
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,11 +45,10 @@ record:
   title: Added prompt caching to `$.model.complete` for mods
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-10-05-javascript-sdk|JavaScript SDK]]'
-- '[[Changes/GitHub Copilot CLI/2026-10-05-2-model-support-changes-in-v1-0-92|2 Model
-  Support changes in v1.0.92]]'
 - '[[Changes/Lovable/2026-10-05-lyria-3-music-models-for-your-app-s-ai-features|Lyria
   3 music models for your app''s AI features]]'
+- '[[Changes/Raycast/2026-10-05-auto-model|Auto Model]]'
+- '[[Changes/Raycast/2026-10-05-auto-model-7d9429|Auto Model]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-06-v2-1-292-github-404958910-b2fd21ab|claude-code-2026-10-06-v2-1-292-github-404958910-b2fd21ab]]'
 source_type: github_releases
 theme: model-support
@@ -86,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-10-05 · Lovable · [[Changes/Lovable/2026-10-05-lyria-3-music-models-for-your-app-s-ai-features|Lyria 3 music models for your app's AI features]]
+- Earlier: 2026-10-05 · Raycast · [[Changes/Raycast/2026-10-05-auto-model-7d9429|Auto Model]]
 - Later: 2026-10-06 · Lovable · [[Changes/Lovable/2026-10-06-gemini-3-6-flash-is-deprecated-for-your-app-s-ai-features|Gemini 3.6 Flash is deprecated for your app's AI features]]
 <!-- chronolog:end -->
 

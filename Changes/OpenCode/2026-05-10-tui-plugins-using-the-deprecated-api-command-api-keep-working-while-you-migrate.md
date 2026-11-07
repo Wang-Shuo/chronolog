@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: policy
-machine_hash: ed550117f08df620b019130c7f812fa1b3bf94db1b292d6c91002746c2e15c6d
+machine_hash: 77cb285cb2b880cf3866b6dc4f7f8ddfcab30e1d421046219e8c8a09f0138cdd
 product: opencode
 product_name: OpenCode
 record:
@@ -42,8 +42,8 @@ record:
   title: TUI plugins using the deprecated api.command API keep working while you migrate…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-05-08-8-apps-and-integrations-changes-in-rust-v0-130-0|8
-  Apps and Integrations changes in rust-v0.130.0]]'
+- '[[Changes/Raycast/2026-05-08-extensions-restored-ability-to-delete-tokens-by-clicking-in-tag-picker|Extensions
+  : Restored ability to delete tokens by clicking × in tag picker]]'
 - '[[Changes/Replit/2026-05-08-speaker-notes-and-presenter-view-in-slide-decks|Speaker
   notes and Presenter view in Slide Decks]]'
 - '[[Changes/Open WebUI/2026-05-09-3-apps-and-integrations-changes-in-v0-9-3|3 Apps

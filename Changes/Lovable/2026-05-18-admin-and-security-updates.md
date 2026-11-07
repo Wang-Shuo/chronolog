@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 739304b3bab5c0ad33d0de9d766bf1de78d0dcbf01dbab19a3d6ce4ec9acbd5b
+machine_hash: 3c8c7294cc3bc9c5d64b1c84afe511c7f7e4e8120a305fccfbb6833ad50f16b9
 product: lovable
 product_name: Lovable
 record:
@@ -77,8 +77,7 @@ record:
   title: Admin and security updates
   type: change
 related_changes:
-- '[[Changes/v0/2026-05-15-added-docs-for-the-project-sandbox-terminal-commands-and-permission-modes|Added
-  docs for the project sandbox , terminal commands , and permission modes]]'
+- '[[Changes/Devin/2026-05-17-slack-security-hardening|Slack Security Hardening]]'
 - '[[Changes/Codex CLI/2026-05-18-17-safety-and-privacy-changes-in-rust-v0-131-0|17
   Safety and Privacy changes in rust-v0.131.0]]'
 - '[[Changes/Lovable/2026-05-18-wiz-security-scanning|Wiz security scanning]]'

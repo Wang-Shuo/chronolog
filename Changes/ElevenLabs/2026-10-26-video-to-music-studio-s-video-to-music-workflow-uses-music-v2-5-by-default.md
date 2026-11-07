@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: dc73ef386cfa89823f2b72a09ce0131814df4e7797905d48b6c1c98934125f06
+machine_hash: 308f679d415e3102239b8b87dc3debcb3efa75d5ad52482d533fa3a8507115e1
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -45,11 +45,12 @@ record:
     default'
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-10-19-music|Music]]'
-- '[[Changes/Synthesia/2026-10-21-feature-synthesia-avatars-in-your-syren-videos-and-pick-preview-or-describe-your|Choose
-  Synthesia Avatars for your Syren videos]]'
-- '[[Changes/OpenClaw/2026-10-22-linux-camera-discovery-now-reports-an-unreadable-device-folder-as-an-error-inste|Linux
-  camera discovery now reports an unreadable device folder as an error instead…]]'
+- '[[Changes/Krea/2026-10-24-video-upscale-picks-up-where-you-left-off|Video upscale
+  picks up where you left off]]'
+- '[[Changes/Krea/2026-10-24-reuse-parameters-on-the-video-tool-no-longer-crashes|Reuse
+  parameters on the Video tool no longer crashes]]'
+- '[[Changes/Devin/2026-10-26-recording-viewer-opens-on-the-video|Recording Viewer
+  Opens on the Video]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-10-26-2026-10-26-ca7c552d|elevenlabs-2026-10-26-2026-10-26-ca7c552d]]'
 source_type: elevenlabs_changelog
 theme: multimodal
@@ -99,8 +100,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Multimodal Input
 
-- Earlier: 2026-10-22 · OpenClaw · [[Changes/OpenClaw/2026-10-22-linux-camera-discovery-now-reports-an-unreadable-device-folder-as-an-error-inste|Linux camera discovery now reports an unreadable device folder as an error instead…]]
-- Later: 2026-10-27 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-10-27-multimodal-capture-in-copilot-notebooks-android-onenote|Multimodal capture in Copilot Notebooks Android (OneNote)]]
+- Earlier: 2026-10-26 · Devin · [[Changes/Devin/2026-10-26-recording-viewer-opens-on-the-video|Recording Viewer Opens on the Video]]
+- Later: 2026-10-26 · Krea · [[Changes/Krea/2026-10-26-the-krea-3-home-page-no-longer-crashes-when-you-open-image-video-or-enhancer|The Krea 3 home page no longer crashes when you open Image, Video, or Enhancer]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

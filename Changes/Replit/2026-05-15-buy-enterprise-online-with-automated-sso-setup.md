@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: f9f89968ca73c01105beb8cb5c2c89041f2f7a5a59e7d34fd3aa2664f229abe8
+machine_hash: 357f6f4830c4ffc7f8be4af886b21d3252fdb5bedb5c594a7d04d17b49bc69b3
 product: replit
 product_name: Replit
 record:
@@ -52,12 +52,12 @@ record:
   title: Buy Enterprise online with automated SSO setup
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-05-11-teams-admins-and-individual-plan-users-can-now-customize-the-effort-level-bugbot|Teams
-  admins and Individual plan users can now customize the effort level Bugbot…]]'
 - '[[Changes/Dify/2026-05-12-2-enterprise-and-administration-changes-in-1-14-1|2 Enterprise
   and Administration changes in 1.14.1]]'
 - '[[Changes/Claude Code/2026-05-13-added-anthropic-workspace-id-environment-variable-for-workload-identity-federati|Added
   ANTHROPIC_WORKSPACE_ID environment variable for workload identity federation]]'
+- '[[Changes/Devin/2026-05-13-enterprise-member-invite-acknowledgement|Enterprise
+  Member Invite Acknowledgement]]'
 source_release: '[[Releases/Replit/replit-2026-05-15-2026-05-15-d142aa2e|replit-2026-05-15-2026-05-15-d142aa2e]]'
 source_type: replit_changelog
 theme: enterprise-admin
@@ -92,8 +92,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-05-13 · Claude Code · [[Changes/Claude Code/2026-05-13-added-anthropic-workspace-id-environment-variable-for-workload-identity-federati|Added ANTHROPIC_WORKSPACE_ID environment variable for workload identity federation]]
-- Later: 2026-05-19 · Dify · [[Changes/Dify/2026-05-19-chore-enchance-copywriting-in-none-education-plan-warning-modal-by-iamjoel-in-ht|chore: enchance copywriting in none education plan warning modal]]
+- Earlier: 2026-05-13 · Devin · [[Changes/Devin/2026-05-13-enterprise-member-invite-acknowledgement|Enterprise Member Invite Acknowledgement]]
+- Later: 2026-05-17 · Devin · [[Changes/Devin/2026-05-17-default-member-roles|Default Member Roles]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

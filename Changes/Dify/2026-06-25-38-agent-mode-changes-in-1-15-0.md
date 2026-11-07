@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b4ffa046b7277893e32ea5130b49eed8e061d59a506a7ae12952c38a349e8577
+machine_hash: 718058dabfb69e2e5262209ea9df8f90de7392d4b43aafb7cdbf55e6e82df76e
 product: dify
 product_name: Dify
 record:
@@ -131,10 +131,10 @@ record:
   title: 38 Agent Mode changes in 1.15.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-23-6-agent-mode-changes-in-v1-0-64|6 Agent
-  Mode changes in v1.0.64]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-24-4-agent-mode-changes-in-v1-0-65|4 Agent
   Mode changes in v1.0.65]]'
+- '[[Changes/AnythingLLM/2026-06-25-2-agent-mode-changes-in-v1-15-0|2 Agent Mode changes
+  in v1.15.0]]'
 - '[[Changes/Claude Code/2026-06-25-3-agent-mode-changes-in-v2-1-193|3 Agent Mode
   changes in v2.1.193]]'
 source_release: '[[Releases/Dify/dify-2026-06-25-1-15-0-github-344699591-4dd01045|dify-2026-06-25-1-15-0-github-344699591-4dd01045]]'

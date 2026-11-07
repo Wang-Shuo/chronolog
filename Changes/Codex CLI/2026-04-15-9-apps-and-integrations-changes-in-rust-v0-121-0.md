@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 429b54a353071e733b082c9b3f92b4f4514f8464167379a4de8aad0b2b2f8fc0
+machine_hash: 35c69fd998319adfd71e9bac84f38bd6dc7ea0d73dfb44acad06c510c8fe0310
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -122,7 +122,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.121.0
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-04-15 · Claude Code · [[Changes/Claude Code/2026-04-15-4-apps-and-integrations-changes-in-v2-1-110|4 Apps and Integrations changes in v2.1.110]]
-- Later: 2026-04-15 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-15-add-copilot-plugin-marketplace-update-command-to-refresh-plugin-catalogs|Add copilot plugin marketplace update command to refresh plugin catalogs]]
+- Later: 2026-04-15 · Devin · [[Changes/Devin/2026-04-15-granola-mcp-server|Granola MCP Server]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

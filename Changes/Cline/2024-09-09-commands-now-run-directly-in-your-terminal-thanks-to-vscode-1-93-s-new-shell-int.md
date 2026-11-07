@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 9845f1388c0a4ca71df766c2d9673e004a51908fda6015231b02b8ee93021821
+machine_hash: 32e6b38d0cb43b6a992851f02c93407bb04bba17c59e98c5be9228df06ce0f74
 product: cline
 product_name: Cline
 record:
@@ -59,12 +59,12 @@ record:
   title: Commands now run directly in your terminal thanks to VSCode 1.93's new shell…
   type: change
 related_changes:
-- '[[Changes/Dify/2024-08-19-custom-app-icons-personalize-your-apps-with-custom-icons-by-xuzuodong-in-7196-ht|Custom
-  App Icons]]'
 - '[[Changes/Dify/2024-09-03-4-apps-and-integrations-changes-in-0-7-3|4 Apps and Integrations
   changes in 0.7.3]]'
 - "[[Changes/Open WebUI/2024-09-04-automatic-rewrite-of-import-statements-in-tools-functions-tool-and-function-scri|\U0001F504
   Automatic Rewrite of Import Statements in Tools & Functions]]"
+- '[[Changes/Raycast/2024-09-04-while-this-is-a-small-release-it-includes-a-private-beta-for-the-major-feature-t|While
+  this is a small release, it includes a private beta for the major feature…]]'
 source_release: '[[Releases/Cline/cline-2024-09-09-v1-6-0-github-174213894-f9d0fda4|cline-2024-09-09-v1-6-0-github-174213894-f9d0fda4]]'
 source_type: github_releases
 theme: apps-integrations
@@ -93,8 +93,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2024-09-04 · Open WebUI · [[Changes/Open WebUI/2024-09-04-automatic-rewrite-of-import-statements-in-tools-functions-tool-and-function-scri|🔄 Automatic Rewrite of Import Statements in Tools & Functions]]
-- Later: 2024-09-12 · Dify · [[Changes/Dify/2024-09-12-2-apps-and-integrations-changes-in-0-8-1|2 Apps and Integrations changes in 0.8.1]]
+- Earlier: 2024-09-04 · Raycast · [[Changes/Raycast/2024-09-04-while-this-is-a-small-release-it-includes-a-private-beta-for-the-major-feature-t|While this is a small release, it includes a private beta for the major feature…]]
+- Later: 2024-09-11 · AnythingLLM · [[Changes/AnythingLLM/2024-09-11-add-rag-agent-plugin-to-api-agent-by-timothycarambat-in-https-github-com-mintple|Add RAG agent plugin to API agent]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

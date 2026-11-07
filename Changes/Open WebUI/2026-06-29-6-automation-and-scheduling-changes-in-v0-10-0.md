@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 95451ee2b81394facc406db5573da23b7ed025bc7bf4415ec351b3a5c642e08e
+machine_hash: 413219e7a2e1f1461f53a75057f9b5d819754e8025f436b9a8fe5d13c04ae036
 product: open-webui
 product_name: Open WebUI
 record:
@@ -63,10 +63,9 @@ record:
   title: 6 Automation and Scheduling changes in v0.10.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-24-handle-wakeup-misfires-with-a-graceful-message-when-no-self-paced-schedule-is-ac|Handle
-  wakeup misfires with a graceful message when no self-paced schedule is active]]'
 - '[[Changes/Dify/2026-06-25-2-automation-and-scheduling-changes-in-1-15-0|2 Automation
   and Scheduling changes in 1.15.0]]'
+- '[[Changes/Devin/2026-06-26-run-once-automation-schedules|Run-Once Automation Schedules]]'
 - '[[Changes/Kimi Code/2026-06-26-add-a-hint-to-the-per-turn-step-limit-error-pointing-users-to-the-loop-control-m|Add
   a hint to the per-turn step limit error pointing users…]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-06-29-v0-10-0-github-346459817-fd55ed01|open-webui-2026-06-29-v0-10-0-github-346459817-fd55ed01]]'

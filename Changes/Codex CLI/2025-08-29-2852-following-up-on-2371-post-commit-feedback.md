@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9ff8ca1fd0e3babb51600688e23833eff6940bbd8bf39f76d758eecee714f9f1
+machine_hash: 0d9018ed03cf1ce3e9379fb5bf07bb0d89d08d6f767d5eafec35b3d62af1a75c
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,10 +42,10 @@ record:
   title: '#2852 Following up on #2371 post commit feedback'
   type: change
 related_changes:
-- '[[Changes/Dify/2025-08-27-3-developer-workflow-changes-in-1-8-0|3 Developer Workflow
-  changes in 1.8.0]]'
 - '[[Changes/Gemini CLI/2025-08-27-feat-core-refactor-shell-execution-to-use-node-pty-by-galz10-in-https-github-com|feat(core):
   refactor shell execution to use node-pty]]'
+- '[[Changes/LM Studio/2025-08-28-improved-lms-lm-studio-cli-command-output-style|Improved
+  lms (LM Studio CLI) command output style]]'
 - "[[Changes/Open WebUI/2025-08-28-code-block-copy-button-content-fixed-fixed-an-issue-where-the-copy-button-in-cod|\U0001F4CB
   Code Block Copy Button Content Fixed]]"
 source_release: '[[Releases/Codex CLI/codex-cli-2025-08-29-rust-v0-26-0-github-243361170-3db0d38c|codex-cli-2025-08-29-rust-v0-26-0-github-243361170-3db0d38c]]'

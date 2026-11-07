@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 774f2cf7a251dff6f851650024630760a6b6a4f322d5e3fbce2a6856ca920ace
+machine_hash: d7fa5e9244461d071a84c6b7da86ba2702ea93cfb4292c706ad2489d7462589d
 product: notion
 product_name: Notion
 record:
@@ -49,10 +49,10 @@ record:
   title: "Pages load 50% faster \U0001F955"
   type: change
 related_changes:
-- '[[Changes/Descript/2020-12-17-we-ve-added-a-bunch-of-performance-and-playback-improvements-especially-on-longe|Descript
-  adds a bunch of performance and playback improvements, especially on longer…]]'
 - '[[Changes/Descript/2021-02-18-our-embeddable-video-player-now-has-playback-speed-controls-at-the-bottom-of-the|Playback
   Speed controls on embedded videos]]'
+- '[[Changes/Raycast/2021-04-06-file-search-finds-more-results-for-partial-search-terms-and-has-improved-perform|File
+  Search : Finds more results for partial search terms and has improved…]]'
 - '[[Changes/Notion/2021-04-21-improved-the-speed-of-displaying-page-history-versions-with-a-lot-of-content|Improved
   the speed of displaying page history versions with a lot of content]]'
 source_release: '[[Releases/Notion/notion-2021-04-21-https-www-notion-com-releases-2021-04-21-ceb95a15|notion-2021-04-21-https-www-notion-com-releases-2021-04-21-ceb95a15]]'
@@ -89,8 +89,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2021-02-18 · Descript · [[Changes/Descript/2021-02-18-our-embeddable-video-player-now-has-playback-speed-controls-at-the-bottom-of-the|Playback Speed controls on embedded videos]]
-- Later: 2021-07-16 · Synthesia · [[Changes/Synthesia/2021-07-16-automatically-speed-up-or-slow-down-the-background-video-so-that-it-s-duration-m|Match to script]]
+- Earlier: 2021-04-06 · Raycast · [[Changes/Raycast/2021-04-06-file-search-finds-more-results-for-partial-search-terms-and-has-improved-perform|File Search : Finds more results for partial search terms and has improved…]]
+- Later: 2021-06-16 · Raycast · [[Changes/Raycast/2021-06-16-my-schedule-improved-performance-by-fetching-only-events-of-the-next-month-inste|My Schedule: Improved performance by fetching only events of the next month instead…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

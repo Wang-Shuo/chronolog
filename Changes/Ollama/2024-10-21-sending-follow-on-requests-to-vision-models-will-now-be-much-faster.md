@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e8100a1784e59aeba1131daf53b020cc72e18f8f7e298caba5e1d17b9249a00a
+machine_hash: a1fb4773ecfa92690d994c00c918707e14df5319450e6f9b5d7c0008f93b558c
 product: ollama
 product_name: Ollama
 record:
@@ -91,7 +91,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2024-10-21 · Dify · [[Changes/Dify/2024-10-21-2-reliability-and-performance-changes-in-0-10-0|2 Reliability and Performance changes in 0.10.0]]
-- Later: 2024-10-23 · Dify · [[Changes/Dify/2024-10-23-2-reliability-and-performance-changes-in-0-10-1|2 Reliability and Performance changes in 0.10.1]]
+- Later: 2024-10-22 · LM Studio · [[Changes/LM Studio/2024-10-22-2-reliability-and-performance-changes-in-lm-studio-0-3-5|2 Reliability and Performance changes in LM Studio 0.3.5]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

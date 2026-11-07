@@ -4,20 +4,20 @@ date: '2026-08-25'
 description: 'Dify · 2026-08-25 · Accessibility and Localization: 3 changes in v1.17.0
   — **Accessibility (large a11y pass)**'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-09-11-chatgpt-now-supports-a-limited-selection-of-languages-in-the-interface|ChatGPT
-    now supports a limited selection of languages in the interface]]'
+  first_in_tracked: '[[Changes/Raycast/2020-11-19-improved-searching-for-localized-application-and-preference-names|Improved
+    searching for localized application and preference names]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1079
+  lag_days: 2105
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: accessibility-localization
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3f6f7a9c7cbadde907905da9f08b1cfe414c3f9811244cf113262bf0b8c1dafc
+machine_hash: 7b29907d9274512f1b40d068104d51a9f896d3ff0c652e0e29cc34d3f353e887
 product: dify
 product_name: Dify
 record:
@@ -48,12 +48,11 @@ record:
   title: 3 Accessibility and Localization changes in 1.17.0
   type: change
 related_changes:
-- '[[Changes/Google Antigravity/2026-07-28-improved-accessibility-in-the-settings-modal-with-better-heading-hierarchy-and-k|Improved
-  accessibility in the Settings modal with better heading hierarchy…]]'
-- '[[Changes/Notion/2026-07-30-accessibility-win-high-contrast-mode-is-a-new-display-option-that-makes-text-ico|Accessibility
-  win!]]'
+- '[[Changes/Devin/2026-08-07-accessibility-improvements|Accessibility Improvements]]'
 - '[[Changes/Claude Code/2026-08-14-improved-screen-reader-mode-the-effort-selector-renders-as-a-numbered-list-with|Improved
   screen reader mode]]'
+- '[[Changes/Devin/2026-08-14-high-contrast-mode-system-option|High Contrast Mode:
+  System Option]]'
 source_release: '[[Releases/Dify/dify-2026-08-25-1-17-0-github-376348099-66c16161|dify-2026-08-25-1-17-0-github-376348099-66c16161]]'
 source_type: github_releases
 theme: accessibility-localization
@@ -105,14 +104,14 @@ Source: https://github.com/langgenius/dify/releases/tag/1.17.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Accessibility and Localization
 
-- Earlier: 2026-08-14 · Claude Code · [[Changes/Claude Code/2026-08-14-improved-screen-reader-mode-the-effort-selector-renders-as-a-numbered-list-with|Improved screen reader mode]]
+- Earlier: 2026-08-14 · Devin · [[Changes/Devin/2026-08-14-high-contrast-mode-system-option|High Contrast Mode: System Option]]
 - Later: 2026-08-25 · Open WebUI · [[Changes/Open WebUI/2026-08-25-improved-ui-accessibility-a-closed-sidebar-is-no-longer-reachable-by-keyboard-or|♿ Improved UI accessibility. A closed sidebar is no longer reachable by keyboard…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-11 · ChatGPT · [[Changes/ChatGPT/2023-09-11-chatgpt-now-supports-a-limited-selection-of-languages-in-the-interface|ChatGPT now supports a limited selection of languages in the interface]]
+- Earliest same-theme entry in the tracked set: 2020-11-19 · Raycast · [[Changes/Raycast/2020-11-19-improved-searching-for-localized-application-and-preference-names|Improved searching for localized application and preference names]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b9595596c4f603531e4fab82a9d1670acb16d4a96e3d54db55b9381f0ef14a4c
+machine_hash: 4228af59874e9957d0602f479b7e136bcfe9dd73d48bcf31a6db829bc82a3a0f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -55,12 +55,12 @@ record:
   title: Turn off chat history and export your data from the ChatGPT settings
   type: change
 related_changes:
-- '[[Changes/Descript/2023-04-03-search-highlights-you-can-now-search-for-highlights-even-without-entering-a-sear|Search
-  highlights: You can now search for highlights even without entering…]]'
 - '[[Changes/Synthesia/2023-04-04-cool-updates-for-the-studio-library-one-stop-shop-for-all-assets-easy-template-p|STUDIO
   Library update]]'
 - '[[Changes/Descript/2023-04-17-duplicate-to-now-copies-over-the-layout-and-all-overlapping-layers-from-the-orig|Duplicate
   to…: Now copies over the layout and all overlapping layers…]]'
+- '[[Changes/Raycast/2023-04-28-ai-chat-opens-now-in-the-resizable-floating-window-by-default-ai-commands-open-i|AI
+  Chat : Opens now in the resizable, floating window by default]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2023-05-03-updates-to-chatgpt-0d776ee3|chatgpt-2023-05-03-updates-to-chatgpt-0d776ee3]]'
 source_type: chatgpt_changelog
 theme: interface-experience
@@ -89,7 +89,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2023-04-17 · Descript · [[Changes/Descript/2023-04-17-duplicate-to-now-copies-over-the-layout-and-all-overlapping-layers-from-the-orig|Duplicate to…: Now copies over the layout and all overlapping layers…]]
+- Earlier: 2023-04-28 · Raycast · [[Changes/Raycast/2023-04-28-ai-chat-opens-now-in-the-resizable-floating-window-by-default-ai-commands-open-i|AI Chat : Opens now in the resizable, floating window by default]]
 - Later: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-added-the-ability-to-hide-the-tooltip-cursor-config-advanced-chat-edit-tooltip|Added the ability to hide the tooltip (Cursor config  Advanced  Chat/Edit Tooltip)]]
 <!-- chronolog:end -->
 

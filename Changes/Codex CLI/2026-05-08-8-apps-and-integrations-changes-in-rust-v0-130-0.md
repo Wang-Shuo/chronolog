@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b439965ea2f9a04f1ce4eecaa0822a2e2ab2115c3afa88e26d0a70b7a0477c31
+machine_hash: 1384fd6a55bcf463b71602da57a58a5fd6dbfe42f7fc5698f48e08564b227b2d
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -117,7 +117,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.130.0
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-05-08 · Claude Code · [[Changes/Claude Code/2026-05-08-changed-plugin-marketplace-removal-key-to-d-matching-delete-elsewhere-instead-of|Changed plugin marketplace removal key to d (matching delete elsewhere) instead…]]
-- Later: 2026-05-08 · Replit · [[Changes/Replit/2026-05-08-speaker-notes-and-presenter-view-in-slide-decks|Speaker notes and Presenter view in Slide Decks]]
+- Later: 2026-05-08 · Devin · [[Changes/Devin/2026-05-08-mcp-secret-scoping|MCP Secret Scoping]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

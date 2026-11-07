@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 526726f212d41531daefab7f52c6d526ca0378fce9dbacba7f25b26e12800327
+machine_hash: 01fc7a81cb3217ede497f340e85bc6b9c9126e80db3a12ba7ab5aacf3f651ec3
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -43,9 +43,9 @@ record:
   title: 2 Agent Mode changes in Kimi Code 0.3.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-23-custom-agents-support-opt-in-deferred-tool-loading-via-deferred-tool-loading-in|Custom
-  agents support opt-in deferred tool loading via deferred-tool-loading…]]'
 - '[[Changes/ElevenLabs/2026-05-25-elevenagents|ElevenAgents]]'
+- '[[Changes/AnythingLLM/2026-05-26-10-agent-mode-changes-in-v1-13-0|10 Agent Mode
+  changes in v1.13.0]]'
 - '[[Changes/Codex CLI/2026-05-26-3-agent-mode-changes-in-rust-v0-134-0|3 Agent Mode
   changes in rust-v0.134.0]]'
 source_release: '[[Releases/Kimi Code/kimi-code-2026-05-26-0-3-0-92e16055|kimi-code-2026-05-26-0-3-0-92e16055]]'

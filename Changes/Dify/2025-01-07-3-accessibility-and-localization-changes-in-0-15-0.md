@@ -4,20 +4,20 @@ date: '2025-01-07'
 description: 'Dify · 2025-01-07 · Accessibility and Localization: 3 changes in v0.15.0
   — UI/UX adjustments for accessibility, such as replacing `div` with `button` to…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-09-11-chatgpt-now-supports-a-limited-selection-of-languages-in-the-interface|ChatGPT
-    now supports a limited selection of languages in the interface]]'
+  first_in_tracked: '[[Changes/Raycast/2020-11-19-improved-searching-for-localized-application-and-preference-names|Improved
+    searching for localized application and preference names]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 484
+  lag_days: 1510
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: accessibility-localization
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 47c11469ae507f4e2edeb38a93c78f6f916f9f525e5a952b58ad0aed02bbebb7
+machine_hash: d70177870e3cfc7c50a7d872f8cb88fb68a7147902e970b3f35e56a7aa0d54a7
 product: dify
 product_name: Dify
 record:
@@ -103,7 +103,7 @@ Source: https://github.com/langgenius/dify/releases/tag/0.15.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-11 · ChatGPT · [[Changes/ChatGPT/2023-09-11-chatgpt-now-supports-a-limited-selection-of-languages-in-the-interface|ChatGPT now supports a limited selection of languages in the interface]]
+- Earliest same-theme entry in the tracked set: 2020-11-19 · Raycast · [[Changes/Raycast/2020-11-19-improved-searching-for-localized-application-and-preference-names|Improved searching for localized application and preference names]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e613ed92acce5fac6d9e98ddf56d7da36b44287d61f9b32d6513406f1d1af09f
+machine_hash: 2c9a8d8000bae60f9e26b08b6bc5238d9d5078e8d85f422932319e15f9c2c5c6
 product: open-webui
 product_name: Open WebUI
 record:
@@ -52,9 +52,10 @@ record:
   title: 3 Interface Experience changes in v0.6.0
   type: change
 related_changes:
-- '[[Changes/Dify/2025-03-24-ui-ux-fixes-addressed-various-style-and-interaction-issues-like-sidebar-width-on|UI/UX
-  Fixes: Addressed various style and interaction issues, like sidebar width…]]'
-- '[[Changes/Descript/2025-03-25-instant-recording-playback|Instant recording playback]]'
+- '[[Changes/Raycast/2025-03-27-you-can-now-customise-the-emoji-picker-s-columns-primary-action-and-skin-tone-th|Customise
+  the Emoji Picker’s columns, primary action, and skin tone through…]]'
+- '[[Changes/Raycast/2025-03-27-you-can-now-assign-a-hotkey-to-any-command-not-just-applications|Assign
+  a hotkey to any command, not just applications]]'
 - '[[Changes/Aider/2025-03-31-2-interface-experience-changes-in-v0-80-0|2 Interface
   Experience changes in v0.80.0]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-04-01-v0-6-0-github-209478336-af8a2de0|open-webui-2025-04-01-v0-6-0-github-209478336-af8a2de0]]'

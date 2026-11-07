@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6e2c9ff7d9278dd3fa4f5b1401a6291f76e148013faecea133a981200c43bb53
+machine_hash: 041552b87bbce8aa87c3e93332ebcd1e7dca758278411f73e24aa9c665cf8b52
 product: runway
 product_name: Runway
 record:
@@ -75,7 +75,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2024-07-09 · Open WebUI · [[Changes/Open WebUI/2024-07-09-sideways-scrolling-in-settings-settings-tabs-container-now-supports-horizontal-s|↔️ Sideways Scrolling in Settings]]
-- Later: 2024-07-16 · Descript · [[Changes/Descript/2024-07-16-move-projects-to-starred-folders|Move projects to starred folders]]
+- Later: 2024-07-15 · Devin · [[Changes/Devin/2024-07-15-create-sessions-directly-from-slack-attach-playbooks-and-snapshots-using-slack-s|Create sessions directly from Slack, attach Playbooks and Snapshots using Slack's…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

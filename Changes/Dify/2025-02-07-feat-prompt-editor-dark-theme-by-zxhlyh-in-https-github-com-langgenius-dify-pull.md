@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 33d5ede8cd733516946f7e4e8618f7bebdc88b4fe578edc0cbcd3bf9204bedb8
+machine_hash: 1e6f4a011a95540f4c2ca4daac1e6a0d4822661cace67a2d872b56e4975f3495
 product: dify
 product_name: Dify
 record:
@@ -39,9 +39,10 @@ record:
   title: Feat/prompt editor dark theme
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-01-22-users-can-now-define-a-different-llm-as-a-custom-llm-config-named-with-a-predefi|Users
-  can now define a different LLM as a custom LLM config named with a predefined name]]'
-- '[[Changes/ElevenLabs/2025-01-27-api|API]]'
+- '[[Changes/Devin/2025-01-30-devin-s-thoughts-and-editor-diagnostics-are-now-visible-in-the-follow-devin-tab|Devin''s
+  thoughts and editor diagnostics are now visible]]'
+- '[[Changes/LM Studio/2025-01-30-new-experimental-api-send-reasoning-content-in-a-separate-field-in-chat-completi|New
+  Experimental API]]'
 - '[[Changes/Replit/2025-01-31-de-cluttered-diffs|De-cluttered diffs]]'
 source_release: '[[Releases/Dify/dify-2025-02-07-0-15-3-github-198990350-49c4f467|dify-2025-02-07-0-15-3-github-198990350-49c4f467]]'
 source_type: github_releases

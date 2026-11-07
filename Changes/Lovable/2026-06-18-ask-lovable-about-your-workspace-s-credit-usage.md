@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 4b88e1239f3aad55d96d8ea477f8f0a427a92780dbe73320ba01f1f9d02a90f4
+machine_hash: 9e5a5007c95f92daf43fd726a6bc7f7b60e95518334b940b217943f3fe04448e
 product: lovable
 product_name: Lovable
 record:
@@ -55,8 +55,8 @@ record:
   title: Ask Lovable about your workspace’s credit usage
   type: change
 related_changes:
-- '[[Changes/Google Antigravity/2026-06-11-quota-screen-redesign-clearer-unambiguous-view-into-used-versus-remaining-credit|Quota
-  screen redesign]]'
+- '[[Changes/Krea/2026-06-13-mcp-billing-now-follows-your-auth-method|MCP billing
+  now follows your auth method]]'
 - '[[Changes/Codex CLI/2026-06-18-28143-feat-app-server-expose-rate-limit-reset-credits-jayp-oai|♯28143
   feat(app-server): expose rate-limit reset credits @jayp-oai]]'
 - '[[Changes/Lovable/2026-06-18-one-credit-balance-and-clearer-usage-insights|One
@@ -100,7 +100,7 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2026-06-18 · Codex CLI · [[Changes/Codex CLI/2026-06-18-28143-feat-app-server-expose-rate-limit-reset-credits-jayp-oai|♯28143 feat(app-server): expose rate-limit reset credits @jayp-oai]]
-- Later: 2026-06-22 · Codex CLI · [[Changes/Codex CLI/2026-06-22-usage-can-now-show-and-redeem-earned-usage-limit-reset-credits-with-confirmation|/usage can now show and redeem earned usage-limit reset credits…]]
+- Later: 2026-06-20 · Recraft · [[Changes/Recraft/2026-06-20-we-ve-lowered-api-pricing-across-the-recraft-v4-1-model-family|Lower API pricing for Recraft V4.1 models]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

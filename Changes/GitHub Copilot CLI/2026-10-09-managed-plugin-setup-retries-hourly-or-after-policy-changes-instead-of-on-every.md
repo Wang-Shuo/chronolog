@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3f63ffe3a68960add3444feecafc1c28e07d886887510c95913ef5610fc72387
+machine_hash: 4efbdfabfc49bdb759cc3dca409c257613210fbb3b60a43f27ceab1bdb419304
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,12 +43,10 @@ record:
     every…
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-10-08-10-apps-and-integrations-changes-in-v2026-9-9|10
-  Apps and Integrations changes in v2026.9.9]]'
-- '[[Changes/OpenHands/2026-10-08-feat-apps-add-authenticated-backend-view-helper-by-neubig-in-https-github-com-op|feat(apps):
-  add authenticated backend view helper]]'
-- '[[Changes/Claude Code/2026-10-09-3-apps-and-integrations-changes-in-v2-1-296|3
-  Apps and Integrations changes in v2.1.296]]'
+- '[[Changes/Devin/2026-10-09-microsoft-365-mcp|Microsoft 365 MCP]]'
+- '[[Changes/Devin/2026-10-09-atlassian-mcp-v2-endpoint|Atlassian MCP v2 endpoint]]'
+- '[[Changes/Devin/2026-10-09-user-preferences-sync-across-apps-and-devices|User preferences
+  sync across apps and devices]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-10-09-v1-0-95-github-408085682-4bdfce3d|github-copilot-cli-2026-10-09-v1-0-95-github-408085682-4bdfce3d]]'
 source_type: github_releases
 theme: apps-integrations
@@ -79,7 +77,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-10-09 · Claude Code · [[Changes/Claude Code/2026-10-09-3-apps-and-integrations-changes-in-v2-1-296|3 Apps and Integrations changes in v2.1.296]]
+- Earlier: 2026-10-09 · Devin · [[Changes/Devin/2026-10-09-user-preferences-sync-across-apps-and-devices|User preferences sync across apps and devices]]
 - Later: 2026-10-09 · Lovable · [[Changes/Lovable/2026-10-09-generate-a-secret-that-another-app-also-needs|Generate a secret that another app also needs]]
 <!-- chronolog:end -->
 

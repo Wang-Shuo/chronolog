@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: fd9f54732ea58c76013d55d2645b594e82e194bcd15aa963c8f2c90c9b315ce2
+machine_hash: 7f1f230bec16f67daf04395d9b0a572aab62ca625ccc68c41854c9f7b38f24a3
 product: open-webui
 product_name: Open WebUI
 record:
@@ -50,8 +50,8 @@ record:
   title: 2 Reliability and Performance changes in v0.6.26
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2025-08-21-6-reliability-and-performance-changes-in-v0-6-23|6
-  Reliability and Performance changes in v0.6.23]]'
+- '[[Changes/Raycast/2025-08-25-we-are-happy-to-introduce-a-new-and-faster-file-system-indexer-for-windows-by-en|Raycast
+  introduces a new and faster file system indexer for Windows]]'
 - '[[Changes/Codex CLI/2025-08-26-2-reliability-and-performance-changes-in-rust-v0-24-0|2
   Reliability and Performance changes in rust-v0.24.0]]'
 - '[[Changes/Dify/2025-08-27-6-reliability-and-performance-changes-in-1-8-0|6 Reliability

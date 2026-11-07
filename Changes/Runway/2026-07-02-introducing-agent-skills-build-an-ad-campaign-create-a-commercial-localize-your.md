@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 36b23dc44a04ca147b6c6fdd0a54580ba64fb5239d7b44afccfa3ee7433d1e36
+machine_hash: 5cf9b6dc7aa87165bda1da628e21a6deb8c74ad8c678402adcc7d8ffec5adc11
 product: runway
 product_name: Runway
 record:
@@ -77,7 +77,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-07-01 · Notion · [[Changes/Notion/2026-07-01-your-agent-can-use-outlook-for-you|Your agent can use Outlook for you]]
-- Later: 2026-07-03 · Kimi Code · [[Changes/Kimi Code/2026-07-03-2-agent-mode-changes-in-kimi-code-0-22-2|2 Agent Mode changes in Kimi Code 0.22.2]]
+- Later: 2026-07-03 · Devin · [[Changes/Devin/2026-07-03-slack-agent-renamed-to-normal|Slack !agent Renamed to !normal]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

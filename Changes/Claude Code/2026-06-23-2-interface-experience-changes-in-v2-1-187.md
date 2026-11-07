@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 43dc8ed366b4e00e50b196ecf8ed612b855368804343255ae765cfa1fba17abd
+machine_hash: a3a02b1f61d713164a7aed9b29c3d2d0d85f3e3148c0f960d87abca59f2efd6a
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
   title: 2 Interface Experience changes in v2.1.187
   type: change
 related_changes:
-- '[[Changes/v0/2026-06-19-view-only-members-can-download-a-chat-s-code-as-a-zip-from-the-project-menu|View-only
-  members can download a chat''s code as a ZIP from the project menu]]'
 - '[[Changes/Codex CLI/2026-06-22-4-interface-experience-changes-in-rust-v0-142-0|4
   Interface Experience changes in rust-v0.142.0]]'
 - '[[Changes/Kimi Code/2026-06-22-stop-showing-unread-dots-on-cancelled-or-failed-sessions-in-the-web-sidebar|Stop
   showing unread dots on cancelled or failed sessions in the web sidebar]]'
+- '[[Changes/Superwhisper/2026-06-22-2-interface-experience-changes-in-superwhisper-windows-1-5-1|2
+  Interface Experience changes in Superwhisper Windows 1.5.1]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-23-v2-1-187-github-343665388-744f9775|claude-code-2026-06-23-v2-1-187-github-343665388-744f9775]]'
 source_type: github_releases
 theme: interface-experience
@@ -84,7 +84,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.187
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-06-22 · Kimi Code · [[Changes/Kimi Code/2026-06-22-stop-showing-unread-dots-on-cancelled-or-failed-sessions-in-the-web-sidebar|Stop showing unread dots on cancelled or failed sessions in the web sidebar]]
+- Earlier: 2026-06-22 · Superwhisper · [[Changes/Superwhisper/2026-06-22-2-interface-experience-changes-in-superwhisper-windows-1-5-1|2 Interface Experience changes in Superwhisper Windows 1.5.1]]
 - Later: 2026-06-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-23-11-interface-experience-changes-in-v1-0-64|11 Interface Experience changes in v1.0.64]]
 <!-- chronolog:end -->
 

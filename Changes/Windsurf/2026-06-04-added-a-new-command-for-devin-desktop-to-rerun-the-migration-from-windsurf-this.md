@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 23c2d1ffc4e943f3d58d38163a911a7666b17508fd81902a224625243fb97d36
+machine_hash: b54e695d4e9ad22e81a4c2aeac2d90957036010c117ff576ba5393542538b37a
 product: windsurf
 product_name: Windsurf
 record:
@@ -92,7 +92,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-06-04 · Suno · [[Changes/Suno/2026-06-04-two-new-ios-updates-for-more-streamlined-creation|Two new iOS updates for more streamlined creation]]
-- Later: 2026-06-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-05-2-mobile-and-desktop-changes-in-v1-0-60|2 Mobile and Desktop changes in v1.0.60]]
+- Later: 2026-06-04 · Wispr Flow · [[Changes/Wispr Flow/2026-06-04-an-update-on-wispr-flow-reliability-desktop|An Update on Wispr Flow Reliability (Desktop)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

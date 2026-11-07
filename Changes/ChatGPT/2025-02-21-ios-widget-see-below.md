@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 70b62162f79c016423f7720432ebf429c58a475e2960dbbcdb164275cc3ecbcc
+machine_hash: c14e5d1ef65ec700efbf7f75a8625ca2749d5af464c6604c80fa359f11bda6c8
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -39,9 +39,9 @@ record:
   title: iOS widget (see below)
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-02-14-updated-launch-animations-and-composer-design-on-android|Updated
-  launch animations and composer design on Android]]'
 - '[[Changes/Replit/2025-02-14-mobile-development|Mobile development]]'
+- '[[Changes/AnythingLLM/2025-02-18-lastly-we-skipped-a-few-docker-versions-to-make-docker-desktop-the-same-release|Lastly,
+  we skipped a few Docker versions to make Docker = Desktop the same release…]]'
 - "[[Changes/Open WebUI/2025-02-20-mobile-hover-issue-resolved-users-can-now-edit-responses-smoothly-on-mobile-with|\U0001F4F1
   Mobile Hover Issue Resolved]]"
 source_release: '[[Releases/ChatGPT/chatgpt-2025-02-21-1-6b86b273|chatgpt-2025-02-21-1-6b86b273]]'

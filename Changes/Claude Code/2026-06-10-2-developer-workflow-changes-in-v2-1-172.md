@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1ed0088901645cb281aae5749c352567b44b98f930d8eddd9e63cb4ad5b7d655
+machine_hash: 365f144800469c0b8e6dc8cdc9c9f04882e22eb6279eb73487c5e7370f464da5
 product: claude-code
 product_name: Claude Code
 record:
@@ -92,7 +92,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.172
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-06-09 · Kimi Code · [[Changes/Kimi Code/2026-06-09-wrap-long-single-line-shell-commands-in-approval-prompts-so-the-full-command-rem|Wrap long single-line shell commands in approval prompts so the full command remains…]]
-- Later: 2026-06-10 · Kimi Code · [[Changes/Kimi Code/2026-06-10-2-developer-workflow-changes-in-kimi-code-0-13-0|2 Developer Workflow changes in Kimi Code 0.13.0]]
+- Later: 2026-06-10 · Devin · [[Changes/Devin/2026-06-10-devin-review-pending-pr-reviews-canceled-on-new-commits|Devin Review: Pending PR Reviews Canceled on New Commits]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

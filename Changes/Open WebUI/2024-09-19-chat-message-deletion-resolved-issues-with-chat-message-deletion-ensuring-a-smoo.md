@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 243e1a604f95e4be9e8aafee26179a0f49e76a0b10d31158b71ef7ce113f5f1d
+machine_hash: 428bd34fe708e8407beb96009df6a5095965d69ff9a0ee38f0c7897072074b30
 product: open-webui
 product_name: Open WebUI
 record:
@@ -44,10 +44,9 @@ record:
   title: "**\U0001F6E0️ Chat Message Deletion**"
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-09-17-composer-can-now-be-added-to-the-ai-pane-this-release-also-includes-many-stabili-7b4c37|Composer
-  can now be added to the AI pane]]'
 - '[[Changes/Ollama/2024-09-17-the-ollama-ollama-container-image-will-now-start-running-almost-immediately-lead|The
   ollama/ollama container image will now start running almost immediately…]]'
+- '[[Changes/Raycast/2024-09-18-sequoia-ready|Sequoia Ready]]'
 - '[[Changes/Cline/2024-09-19-folder-adds-folder-s-files-all-at-once-to-speed-up-your-workflow-even-more|@folder:
   Adds folder''s files all at once to speed up your workflow even more]]'
 source_release: '[[Releases/Open WebUI/open-webui-2024-09-19-v0-3-22-github-175998009-91af8aae|open-webui-2024-09-19-v0-3-22-github-175998009-91af8aae]]'

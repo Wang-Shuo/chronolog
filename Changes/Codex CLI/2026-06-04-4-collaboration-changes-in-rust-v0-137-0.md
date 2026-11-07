@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e08e8f771f1d7ab4dffb1eab7a08effe43ba2603c5a92be3bf88724665f8f756
+machine_hash: c557fb90b64f2c42a4a5a5428cad8351af717f45a0acdda26da289c7aa0e9257
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -102,7 +102,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.137.0
 ## Nearby in Collaboration
 
 - Earlier: 2026-06-03 · Cursor · [[Changes/Cursor/2026-06-03-teams|Teams]]
-- Later: 2026-06-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-05-show-the-mission-control-sharing-status-of-synced-sessions-in-the-session-info-v|Show the Mission Control sharing status of synced sessions in the /session info view]]
+- Later: 2026-06-04 · Raycast · [[Changes/Raycast/2026-06-04-teams-share-ai-commands-with-your-whole-team|Teams: Share AI Commands with your whole team]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

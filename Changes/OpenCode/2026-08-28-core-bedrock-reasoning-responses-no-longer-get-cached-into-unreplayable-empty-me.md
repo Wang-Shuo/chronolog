@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b88977266dfdb526644974c264157fc975ae05e21aee894c836eb0bbb002b0b7
+machine_hash: 678ad422cc7907a64492d2b99b6f099aaac14e5bc6dac3f9ffbc7904259789b3
 product: opencode
 product_name: OpenCode
 record:
@@ -45,12 +45,11 @@ record:
     messages
   type: change
 related_changes:
-- '[[Changes/Qoder/2026-08-27-added-original-and-discounted-usage-multipliers-to-the-model-menu|Added
-  original and discounted usage multipliers to the model menu]]'
 - '[[Changes/Qoder/2026-08-27-frontier-models-smart-routing-qoder-brings-together-leading-models-without-locki|Frontier
   models, smart routing]]'
 - '[[Changes/Claude Code/2026-08-28-5-model-support-changes-in-v2-1-251|5 Model Support
   changes in v2.1.251]]'
+- '[[Changes/Krea/2026-08-28-veo-2-and-veo-3-sunset|Veo 2 and Veo 3 sunset]]'
 source_release: '[[Releases/OpenCode/opencode-2026-08-28-v1-18-25-beb5a3f2|opencode-2026-08-28-v1-18-25-beb5a3f2]]'
 source_type: opencode_changelog
 theme: model-support
@@ -81,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-08-28 · Claude Code · [[Changes/Claude Code/2026-08-28-5-model-support-changes-in-v2-1-251|5 Model Support changes in v2.1.251]]
+- Earlier: 2026-08-28 · Krea · [[Changes/Krea/2026-08-28-veo-2-and-veo-3-sunset|Veo 2 and Veo 3 sunset]]
 - Later: 2026-08-28 · Replit · [[Changes/Replit/2026-08-28-intelligent-model-routing|Intelligent model routing]]
 <!-- chronolog:end -->
 

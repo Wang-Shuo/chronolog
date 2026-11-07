@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 84579e75cacf6dfe1f7abb97c99248fb197b563883948b0e3e570bf560e18cf7
+machine_hash: 96493df9a2f9cd493217eef854ee7774b628e5e04672325e5fad62dbe0eaea93
 product: dify
 product_name: Dify
 record:
@@ -61,10 +61,10 @@ record:
     chunk…'
   type: change
 related_changes:
-- '[[Changes/Qoder/2026-09-08-multitasking-performance-lower-memory-usage-and-reduced-messaging-overhead-when|Multitasking
-  performance: Lower memory usage and reduced messaging overhead…]]'
-- '[[Changes/Claude Code/2026-09-09-improved-prompt-input-responsiveness-keystrokes-no-longer-occasionally-wait-a-fr|Improved
-  prompt input responsiveness]]'
+- '[[Changes/Krea/2026-09-09-minimax-h3-max-turbo-and-native-1080p|MiniMax H3 Max
+  Turbo and native 1080p]]'
+- '[[Changes/Superwhisper/2026-09-09-keyboard-x-local-model-speed-improvements|Keyboard
+  x Local Model speed improvements]]'
 - '[[Changes/Claude Code/2026-09-10-2-reliability-and-performance-changes-in-v2-1-268|2
   Reliability and Performance changes in v2.1.268]]'
 source_release: '[[Releases/Dify/dify-2026-09-10-1-17-1-github-386157159-e472b6fe|dify-2026-09-10-1-17-1-github-386157159-e472b6fe]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: def1c4aca551b55244c7e5aff7bc5d5c9e66c1ac50d45867c9f96d63e23b75a3
+machine_hash: f1baf812d4d6089bb4630b0f24d999d1b47ca1fae5973880f7189b7940c0250d
 product: cursor
 product_name: Cursor
 record:
@@ -43,8 +43,8 @@ record:
   title: Project level hooks are now supported
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-11-19-5-apps-and-integrations-changes-in-rust-v0-59-0|5
-  Apps and Integrations changes in rust-v0.59.0]]'
+- '[[Changes/Raycast/2025-11-19-as-we-prepare-for-our-public-beta-release-we-are-moving-into-the-microsoft-store|As
+  we prepare for our public beta release we are moving into the Microsoft Store]]'
 - '[[Changes/Codex CLI/2025-11-20-3-apps-and-integrations-changes-in-rust-v0-61-0|3
   Apps and Integrations changes in rust-v0.61.0]]'
 - '[[Changes/Gemini CLI/2025-11-20-3-apps-and-integrations-changes-in-v0-17-0|3 Apps
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2025-11-20 · Gemini CLI · [[Changes/Gemini CLI/2025-11-20-3-apps-and-integrations-changes-in-v0-17-0|3 Apps and Integrations changes in v0.17.0]]
-- Later: 2025-11-21 · ElevenLabs · [[Changes/ElevenLabs/2025-11-21-packages|Packages]]
+- Later: 2025-11-21 · Devin · [[Changes/Devin/2025-11-21-mcp-usage-tracking-for-enterprises|MCP Usage Tracking for Enterprises]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

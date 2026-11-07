@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2f974644f5e3dbb7654c1c7b13f69b2b15beaed1f2ee9ef1fe461a185fedb1b0
+machine_hash: 8b9448fb045ad9059ee108b04d49c603de9cf0e6bc569b93e5986491339de40e
 product: cline
 product_name: Cline
 record:
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-08-14 · Claude Code · [[Changes/Claude Code/2026-08-14-3-safety-and-privacy-changes-in-v2-1-233|3 Safety and Privacy changes in v2.1.233]]
-- Later: 2026-08-17 · Claude Code · [[Changes/Claude Code/2026-08-17-8-safety-and-privacy-changes-in-v2-1-234|8 Safety and Privacy changes in v2.1.234]]
+- Later: 2026-08-14 · Devin · [[Changes/Devin/2026-08-14-unified-workflow-permission-preview|Unified Workflow Permission Preview]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

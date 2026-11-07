@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 67dbb53cc22d3b817861784b8c794dae0efa071367c14a68b6874ba90c385561
+machine_hash: 6245939d56917835e08fcf62a9f2e7cf85cf8a9239f67bc14c1ad8c1d5135874
 product: suno
 product_name: Suno
 record:
@@ -43,8 +43,8 @@ record:
   title: Hype up your friends, give props where they’re due, or start a lyrical debate—the…
   type: change
 related_changes:
-- '[[Changes/Midjourney/2025-01-25-you-can-now-describe-images-on-the-web|"describe"
-  images on the web]]'
+- '[[Changes/AnythingLLM/2025-01-29-desktop-build-of-this-release-1-7-3-are-attached-as-binaries-below|
+  Desktop build of this release (1.7.3) are attached as binaries below]]'
 - '[[Changes/Ollama/2025-02-05-new-ollama-darwin-tgz-package-for-macos-that-replaces-the-previous-ollama-darwin|New
   ollama-darwin.tgz package for macOS that replaces the previous ollama-darwin…]]'
 - "[[Changes/Suno/2025-02-06-expand-your-favorite-track-moments-and-make-your-sound-hit-even-harder-covers-pe|\U0001F6A8

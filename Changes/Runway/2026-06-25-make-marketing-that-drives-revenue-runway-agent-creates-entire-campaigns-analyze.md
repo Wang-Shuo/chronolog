@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: de99f0d304c3d5d44ef6654223fa04ac7dc97a83f21b837b6472db7256e17d1c
+machine_hash: 4243c8803dd9d9f06b94c316198b7854206a2de093b2cd0fd875a23898d417f8
 product: runway
 product_name: Runway
 record:
@@ -47,8 +47,8 @@ record:
   title: Agent 2.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-24-4-agent-mode-changes-in-v1-0-65|4 Agent
-  Mode changes in v1.0.65]]'
+- '[[Changes/AnythingLLM/2026-06-25-2-agent-mode-changes-in-v1-15-0|2 Agent Mode changes
+  in v1.15.0]]'
 - '[[Changes/Claude Code/2026-06-25-3-agent-mode-changes-in-v2-1-193|3 Agent Mode
   changes in v2.1.193]]'
 - '[[Changes/Dify/2026-06-25-38-agent-mode-changes-in-1-15-0|38 Agent Mode changes

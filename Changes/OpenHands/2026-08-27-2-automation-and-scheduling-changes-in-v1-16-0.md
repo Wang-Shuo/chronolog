@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: efcc643686e0f8e29ba63e6177f126b65ddaaa437ee16f5ecec3e800f797581b
+machine_hash: 0d3edf58c8cac77826bd829bde8dcb88f121a2733e0e5b0f4ef5555f4f757f4e
 product: openhands
 product_name: OpenHands
 record:
@@ -43,8 +43,8 @@ record:
   title: 2 Automation and Scheduling changes in v1.16.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-08-26-40436-add-a-managed-gate-for-in-app-local-automation-copyberry|♯40436
-  Add a managed gate for in-app local automation @copyberry]]'
+- '[[Changes/Devin/2026-08-26-support-jira-previous-status-automation-triggers|Support
+  Jira previous\status Automation Triggers]]'
 - '[[Changes/Claude Code/2026-08-27-changed-loop-self-paced-dynamic-mode-and-the-no-prompt-autonomous-default-are-no|Changed
   /loop: self-paced dynamic mode and the no-prompt autonomous default…]]'
 - '[[Changes/GitHub Copilot CLI/2026-08-27-use-x-to-remove-scheduled-every-and-after-prompts-in-schedule-manager|Use

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 971ae3642790842e0e37b5ab47a81623fac129fa1c5509e6d10d8012c8c59ecd
+machine_hash: 334fd9f58c705103460e1e9db0fb9e8669bf1b42f492b9190fef4f9586eb214e
 product: open-webui
 product_name: Open WebUI
 record:
@@ -47,8 +47,8 @@ record:
   title: "\U0001F4C4 **OpenAPI YAML Format Support**"
   type: change
 related_changes:
-- '[[Changes/Dify/2025-04-09-6-apps-and-integrations-changes-in-1-2-0|6 Apps and Integrations
-  changes in 1.2.0]]'
+- '[[Changes/Raycast/2025-04-10-following-snippets-we-re-now-releasing-the-first-iteration-of-quicklinks-a-power|Following
+  snippets, we’re now releasing the first iteration of Quicklinks]]'
 - '[[Changes/Replit/2025-04-11-app-idea-generator-for-logged-out-visitors|App idea
   generator for logged-out visitors]]'
 - '[[Changes/Cline/2025-04-12-add-settings-button-to-mcp-popover-to-easily-modify-installed-servers|Add

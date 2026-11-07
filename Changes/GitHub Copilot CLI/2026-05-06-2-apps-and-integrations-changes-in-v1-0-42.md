@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6514bf986b8897e86db6e02505258f038fb32fe3571d5cd601bb3f4e3dc90fb1
+machine_hash: 29c94fdfe9fc7e028003e679db82f39859f40c582114ee68989aebeca9afa590
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,10 +45,9 @@ record:
   title: 2 Apps and Integrations changes in v1.0.42
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-06-added-claude-code-session-id-environment-variable-to-the-bash-tool-subprocess-en|Added
-  CLAUDE_CODE_SESSION_ID environment variable to the Bash tool subprocess…]]'
 - '[[Changes/Claude Code/2026-05-06-3-apps-and-integrations-changes-in-v2-1-129|3
   Apps and Integrations changes in v2.1.129]]'
+- '[[Changes/Devin/2026-05-06-slack-tool-use-in-worklog|Slack Tool Use in Worklog]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-06-mcp-server-child-processes-e-g-started-via-npx-or-uvx-are-now-fully-terminated-w|MCP
   server child processes (e.g. started via npx or uvx) are now fully terminated…]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-05-06-v1-0-42-github-318458746-856bb0d7|github-copilot-cli-2026-05-06-v1-0-42-github-318458746-856bb0d7]]'

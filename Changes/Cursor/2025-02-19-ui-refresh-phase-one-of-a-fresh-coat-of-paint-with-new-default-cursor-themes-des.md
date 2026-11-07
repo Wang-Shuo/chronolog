@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 89cf7e24e9befe59ed5a5a5ca8586138ed0f1d53a241a3096ab86cdd1a3fcd39
+machine_hash: b66f618966c0fd9b80d2b358af7bdfe9f2ec76077d3fe4e9381e43bebdcff050
 product: cursor
 product_name: Cursor
 record:
@@ -60,10 +60,10 @@ record:
   title: 'UI refresh: Phase one of a fresh coat of paint with new default Cursor themes…'
   type: change
 related_changes:
-- '[[Changes/Aider/2025-02-06-dynamically-changes-the-ollama-context-window-to-hold-the-current-chat|Dynamically
-  changes the Ollama context window to hold the current chat]]'
 - '[[Changes/Dify/2025-02-07-feat-add-completion-mode-and-context-size-options-for-llm-configuration-by-laipz|feat:
   add completion mode and context size options for LLM configuration]]'
+- '[[Changes/LM Studio/2025-02-18-use-the-new-visualize-accepted-draft-tokens-feature-to-watch-speculative-decodin|Use
+  the new "Visualize accepted draft tokens" feature to watch speculative decoding…]]'
 - '[[Changes/Cline/2025-02-19-new-advanced-setting-to-disable-the-browser-tool-improved-support-for-aws-bedroc|New
   advanced setting to disable the browser tool, improved support for AWS Bedrock…]]'
 source_release: '[[Releases/Cursor/cursor-2025-02-19-0-46-x-https-cursor-com-changelog-0-46-x-640a0a10|cursor-2025-02-19-0-46-x-https-cursor-com-changelog-0-46-x-640a0a10]]'

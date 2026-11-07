@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 25c456a9022602bac0479ab58642ff93a0780c17358ed2444a3ba3993767f570
+machine_hash: a6022bc2ee9b09b85410c3ebe4cbc69ca895f1c54f45c01e69e45aec9f7c4354
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -41,10 +41,10 @@ record:
   title: '#39072 Persist generated images through turn executors @copyberry'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-07-31-on-august-30-2026-we-re-retiring-the-official-dall-e-gpt-in-chatgpt-we-encourage|Retiring
-  the DALL·E GPT]]'
 - '[[Changes/Ollama/2026-08-04-experimental-image-generation-has-been-temporarily-removed-continue-using-0-32-5|Experimental
   image generation has been temporarily removed]]'
+- '[[Changes/AnythingLLM/2026-08-13-3-image-generation-changes-in-v1-16-0|3 Image
+  Generation changes in v1.16.0]]'
 - '[[Changes/Codex CLI/2026-08-18-38024-expose-image-generation-usage-limit-failures-copyberry|♯38024
   Expose image generation usage-limit failures @copyberry]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-08-20-rust-v0-149-0-github-374028976-829da944|codex-cli-2026-08-20-rust-v0-149-0-github-374028976-829da944]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 71d9cc4eaa299d136a50acd0f5f8d2a8c0adce795fe85e00fbdd5943ed6df4f3
+machine_hash: 7e873287589b95f58caa487ace73a08422014d3525a41913a7c702ba9860873a
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,8 +43,8 @@ record:
   title: Support `.agents/skills` directory for auto-loading skills
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-03-added-token-count-tool-uses-and-duration-metrics-to-task-tool-results|Added
-  token count, tool uses, and duration metrics to Task tool results]]'
+- '[[Changes/Devin/2026-02-03-per-product-consumption-analytics-api|Per-Product Consumption
+  Analytics API]]'
 - '[[Changes/Dify/2026-02-03-9-agent-mode-changes-in-1-12-0|9 Agent Mode changes in
   1.12.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-03-4-agent-mode-changes-in-v0-0-402|4 Agent

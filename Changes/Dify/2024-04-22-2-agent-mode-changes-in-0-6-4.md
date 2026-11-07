@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b4f8d2d1012ef046e90a3d2a5f48dcd0ea8be06f49ddf9db643fd2a2dd4c361e
+machine_hash: d8b5e98e5548fdcce00e8be8fe659abda8b0a9f31e9577c416bb36539fabf4ff
 product: dify
 product_name: Dify
 record:
@@ -87,7 +87,7 @@ Source: https://github.com/langgenius/dify/releases/tag/0.6.4
 ## Nearby in Agent Mode
 
 - Earlier: 2024-04-11 · Dify · [[Changes/Dify/2024-04-11-4-agent-mode-changes-in-0-6-2|4 Agent Mode changes in 0.6.2]]
-- Later: 2024-06-29 · OpenHands · [[Changes/OpenHands/2024-06-29-3-agent-mode-changes-in-0-7-0|3 Agent Mode changes in 0.7.0]]
+- Later: 2024-05-29 · Devin · [[Changes/Devin/2024-05-29-shell-command-history|Shell Command History]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

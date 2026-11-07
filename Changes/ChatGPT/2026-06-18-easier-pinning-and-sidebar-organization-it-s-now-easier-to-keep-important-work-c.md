@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 36759e8999f92c560583c856fc0a0c2ae2621abf04ece208bbed024dda1d767d
+machine_hash: 3c6b07fd76a43f8de6620bb930a9271dfa73582ccba7e76553e79c6c23f606e3
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -49,12 +49,12 @@ record:
   title: Easier pinning and sidebar organization
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-15-3-interface-experience-changes-in-rust-v0-140-0|3
-  Interface Experience changes in rust-v0.140.0]]'
-- '[[Changes/ChatGPT/2026-06-17-a-new-scheduled-page-discoverable-in-the-sidebar-gives-users-one-place-to-view-a|A
-  new Scheduled page, discoverable in the sidebar, gives users one place to view…]]'
 - '[[Changes/Claude Code/2026-06-17-improved-streaming-of-long-paragraphs-text-now-appears-line-by-line-instead-of-w|Improved
   streaming of long paragraphs]]'
+- '[[Changes/Devin/2026-06-17-sidebar-unpin-remove-from-folder-quick-actions|Sidebar:
+  Unpin & Remove-from-Folder Quick Actions]]'
+- '[[Changes/Devin/2026-06-17-ask-devin-repos-picker-scoped-to-search-repos|Ask Devin:
+  @repos Picker Scoped to Search Repos]]'
 scope: Web
 source_release: '[[Releases/ChatGPT/chatgpt-2026-06-18-chatgpt-app-experience-updates-d15f55c5|chatgpt-2026-06-18-chatgpt-app-experience-updates-d15f55c5]]'
 source_type: chatgpt_changelog
@@ -91,7 +91,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-06-17 · Claude Code · [[Changes/Claude Code/2026-06-17-improved-streaming-of-long-paragraphs-text-now-appears-line-by-line-instead-of-w|Improved streaming of long paragraphs]]
+- Earlier: 2026-06-17 · Devin · [[Changes/Devin/2026-06-17-ask-devin-repos-picker-scoped-to-search-repos|Ask Devin: @repos Picker Scoped to Search Repos]]
 - Later: 2026-06-18 · Kimi Code · [[Changes/Kimi Code/2026-06-18-2-interface-experience-changes-in-kimi-code-0-18-0|2 Interface Experience changes in Kimi Code 0.18.0]]
 <!-- chronolog:end -->
 

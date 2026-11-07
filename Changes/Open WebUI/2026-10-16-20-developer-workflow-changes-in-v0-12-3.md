@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: db58c1f6ac4cd4bcdd9e4db4257ff6449e2375ab8734aea7222d72924ee1e766
+machine_hash: 866e4905b7e681154f60c3e1a8f64e5c2cffb000be93cbaf7efdc7eb31509fb5
 product: open-webui
 product_name: Open WebUI
 record:
@@ -165,12 +165,11 @@ record:
   title: 20 Developer Workflow changes in v0.12.3
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-15-2-developer-workflow-changes-in-v2-1-301|2 Developer
-  Workflow changes in v2.1.301]]'
-- '[[Changes/Codex CLI/2026-10-15-15-developer-workflow-changes-in-rust-v0-163-0|15
-  Developer Workflow changes in rust-v0.163.0]]'
 - '[[Changes/Google Antigravity/2026-10-15-mark-all-as-read-is-now-available-from-the-command-palette-whenever-you-have-unr|Mark
   All as Read is now available from the command palette whenever you have unread…]]'
+- '[[Changes/Devin/2026-10-16-list-and-search-pull-requests|List and Search Pull Requests]]'
+- '[[Changes/Devin/2026-10-16-bitbucket-cloud-merge-readiness|Bitbucket Cloud Merge
+  Readiness]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-10-16-v0-12-3-github-414903453-58a8a82d|open-webui-2026-10-16-v0-12-3-github-414903453-58a8a82d]]'
 source_type: github_releases
 theme: developer-workflow
@@ -252,7 +251,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.12.3
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-10-15 · Google Antigravity · [[Changes/Google Antigravity/2026-10-15-mark-all-as-read-is-now-available-from-the-command-palette-whenever-you-have-unr|Mark All as Read is now available from the command palette whenever you have unread…]]
+- Earlier: 2026-10-16 · Devin · [[Changes/Devin/2026-10-16-bitbucket-cloud-merge-readiness|Bitbucket Cloud Merge Readiness]]
 - Later: 2026-10-16 · OpenClaw · [[Changes/OpenClaw/2026-10-16-3-developer-workflow-changes-in-v2026-10-4|3 Developer Workflow changes in v2026.10.4]]
 <!-- chronolog:end -->
 

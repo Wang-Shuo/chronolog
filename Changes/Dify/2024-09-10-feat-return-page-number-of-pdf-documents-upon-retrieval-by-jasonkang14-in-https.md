@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2903cb6530ea616bb897ff901a70072e15608c39a00e29502ae7039595a4105a
+machine_hash: d25b542f53931e980d2ede3924dda273f6a30e9dce1d62dddc0dfef8d86e60ec
 product: dify
 product_name: Dify
 record:
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Files and Data
 
 - Earlier: 2024-09-07 · Open WebUI · [[Changes/Open WebUI/2024-09-07-document-count-display-now-displays-the-total-number-of-documents-directly-withi|📊 Document Count Display]]
-- Later: 2024-09-24 · Open WebUI · [[Changes/Open WebUI/2024-09-24-enhanced-pdf-citations-pdf-citations-now-open-at-the-associated-page-streamlinin|📄 Enhanced PDF Citations]]
+- Later: 2024-09-11 · AnythingLLM · [[Changes/AnythingLLM/2024-09-11-feature-use-escape-key-to-close-documents-modal-by-timothycarambat-in-https-gith|Feature/use escape key to close documents modal]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

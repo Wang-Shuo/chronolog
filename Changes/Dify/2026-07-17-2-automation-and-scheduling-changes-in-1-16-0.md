@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3b499ee841409ec12f82d6070ab206c885c1d0cc3db66a9f6ec54a05c258122f
+machine_hash: 2b9ea4ed055e9c47a9b18d7c2d543181c9b451d177e0a04bc2db99928cf9c199
 product: dify
 product_name: Dify
 record:
@@ -45,11 +45,10 @@ record:
   title: 2 Automation and Scheduling changes in 1.16.0
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-07-13-79-automation-and-scheduling-changes-in-v2026-7-1|79
-  Automation and Scheduling changes in v2026.7.1]]'
-- '[[Changes/OpenClaw/2026-07-13-channel-setup-warnings-are-now-available-as-structured-doctor-lint-findings-with|Channel
-  setup warnings are now available as structured Doctor lint findings…]]'
 - '[[Changes/Notion/2026-07-16-what-s-on-my-schedule-today|What’s on my schedule today?]]'
+- '[[Changes/Devin/2026-07-17-revamped-automations-pages|Revamped Automations Pages]]'
+- '[[Changes/Devin/2026-07-17-github-enterprise-server-support-for-automations|GitHub
+  Enterprise Server Support for Automations]]'
 source_release: '[[Releases/Dify/dify-2026-07-17-1-16-0-github-355594285-636849e9|dify-2026-07-17-1-16-0-github-355594285-636849e9]]'
 source_type: github_releases
 theme: automation-scheduling
@@ -100,8 +99,8 @@ Source: https://github.com/langgenius/dify/releases/tag/1.16.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2026-07-16 · Notion · [[Changes/Notion/2026-07-16-what-s-on-my-schedule-today|What’s on my schedule today?]]
-- Later: 2026-07-22 · Gemini CLI · [[Changes/Gemini CLI/2026-07-22-feat-caretaker-triage-implement-main-worker-execution-loop-and-egress-action-pub|feat(caretaker-triage): implement main worker execution loop and egress action publisher]]
+- Earlier: 2026-07-17 · Devin · [[Changes/Devin/2026-07-17-github-enterprise-server-support-for-automations|GitHub Enterprise Server Support for Automations]]
+- Later: 2026-07-22 · Devin · [[Changes/Devin/2026-07-22-slack-channel-improvements-for-automations|Slack Channel Improvements for Automations]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

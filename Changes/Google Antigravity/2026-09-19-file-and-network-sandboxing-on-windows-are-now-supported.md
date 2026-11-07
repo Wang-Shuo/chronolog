@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 13de1495128470e933fe4661964f0b1a0a16b47babb3eab010f4a30e893469f4
+machine_hash: a9ae34ba38166ad799cf4f830a63a02626ac9cd8af87f213e2da0992c5266fb0
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -78,7 +78,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-09-18 · Qoder · [[Changes/Qoder/2026-09-18-sites-choose-a-template-and-build-a-website-through-conversation-preview-publish|Sites: Choose a template and build a website through conversation]]
-- Later: 2026-09-19 · Ollama · [[Changes/Ollama/2026-09-19-ollama-s-macos-app-will-now-no-longer-reopen-windows-you-ve-closed-when-activati|Ollama's macOS app will now no longer reopen windows you've closed when activating it]]
+- Later: 2026-09-19 · LM Studio · [[Changes/LM Studio/2026-09-19-mac-added-support-for-the-splash-engine-on-apple-silicon-m3-or-newer-running-mac|Mac Added support for the Splash engine on Apple Silicon M3 or newer running macOS…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d6d7b06fe2d4ff42849f20a7b6ec62f5426a87cac0b1d390ab1edee78f0738d7
+machine_hash: 3669456c36d752cb583573648344fc4a4bd6a7ec916427fb23aa1b1730215605
 product: notion
 product_name: Notion
 record:
@@ -44,12 +44,12 @@ record:
   title: Added a Duplicate button to the ••• menu for pages within databases
   type: change
 related_changes:
-- '[[Changes/Descript/2020-11-10-now-you-can-drag-a-file-on-to-a-selection-of-text-to-make-sure-that-the-length-o|Drag
-  file onto a selection]]'
 - '[[Changes/Descript/2020-11-10-in-addition-to-full-screen-descript-now-supports-theater-mode-on-your-published|Theater
   mode for published pages]]'
 - "[[Changes/Notion/2020-11-11-show-backlinks-in-a-popup-or-hide-them|Show backlinks
   in a popup, or hide them \U0001F5EF️]]"
+- '[[Changes/Raycast/2020-11-11-2-interface-experience-changes-in-raycast-macos-v1-1-1-0|2
+  Interface Experience changes in Raycast macos-v1 1.1.0]]'
 source_release: '[[Releases/Notion/notion-2020-11-19-https-www-notion-com-releases-2020-11-19-b4b1ddbb|notion-2020-11-19-https-www-notion-com-releases-2020-11-19-b4b1ddbb]]'
 source_type: notion_changelog
 theme: interface-experience
@@ -80,8 +80,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2020-11-11 · Notion · [[Changes/Notion/2020-11-11-show-backlinks-in-a-popup-or-hide-them|Show backlinks in a popup, or hide them 🗯️]]
-- Later: 2021-01-27 · Descript · [[Changes/Descript/2021-01-27-you-can-now-export-animated-gif-s-in-addition-to-mp4-files-from-the-video-export|Descript now supports exporting animated GIF's]]
+- Earlier: 2020-11-11 · Raycast · [[Changes/Raycast/2020-11-11-2-interface-experience-changes-in-raycast-macos-v1-1-1-0|2 Interface Experience changes in Raycast macos-v1 1.1.0]]
+- Later: 2020-12-02 · Raycast · [[Changes/Raycast/2020-12-02-navigation-typing-alias-space-expands-associated-command-now-e-g-if-you-assign-f|Navigation: Typing alias + space expands associated command now]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a2bf51848ad486fe73ddc38c1f1bbb1be0ca7eb02efaf4fcef5e997fe8bbc2be
+machine_hash: a3891a8f7c37c4a47e8c9096c9b781f8c5b8d0b622369d2c175664df57e9d489
 product: aider
 product_name: Aider
 record:
@@ -45,10 +45,10 @@ record:
   title: 3 Model Support changes in v0.18.0
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-11-10-new-models-you-can-plug-in-your-api-key-to-try-out-the-newest-gpt-4-and-gpt-3-tu|New
-  models: you can plug in your API key to try out the newest gpt-4 and gpt-3 turbo…]]'
-- '[[Changes/Ollama/2023-11-10-3-model-support-changes-in-v0-1-9|3 Model Support changes
-  in v0.1.9]]'
+- '[[Changes/Superwhisper/2023-11-11-2-model-support-changes-in-superwhisper-macos-1-16-3|2
+  Model Support changes in Superwhisper macOS 1.16.3]]'
+- '[[Changes/Superwhisper/2023-11-12-2-model-support-changes-in-superwhisper-macos-1-16-6|2
+  Model Support changes in Superwhisper macOS 1.16.6]]'
 - '[[Changes/Dify/2023-11-13-2-model-support-changes-in-0-3-30|2 Model Support changes
   in 0.3.30]]'
 source_release: '[[Releases/Aider/aider-2023-11-17-v0-18-0-github-130041531-739b78bc|aider-2023-11-17-v0-18-0-github-130041531-739b78bc]]'

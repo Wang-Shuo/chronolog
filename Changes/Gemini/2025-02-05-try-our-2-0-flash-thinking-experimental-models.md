@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 8b7df76096c0408951d90a258e1f5e69c583c02e9f6680964b95cee366c360d2
+machine_hash: 209d0da8680ab5f6e8584e1c85762aaab7b075d6e7885b682f640e30fc4cf8d1
 product: gemini
 product_name: Gemini
 record:
@@ -77,8 +77,7 @@ record:
   title: Try our 2.0 Flash Thinking Experimental models
   type: change
 related_changes:
-- '[[Changes/Gemini/2025-01-30-introducing-gemini-2-0-flash-to-gemini|Introducing
-  Gemini 2.0 Flash to Gemini]]'
+- '[[Changes/Raycast/2025-01-30-more-ai-models|More AI Models]]'
 - '[[Changes/Aider/2025-01-31-5-model-support-changes-in-v0-73-0|5 Model Support changes
   in v0.73.0]]'
 - '[[Changes/OpenHands/2025-02-04-2-model-support-changes-in-0-23-0|2 Model Support

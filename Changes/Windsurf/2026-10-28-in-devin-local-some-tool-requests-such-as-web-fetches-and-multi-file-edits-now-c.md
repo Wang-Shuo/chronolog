@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: caf1eb73d00530ddbddef114bf866f34ca7d3017f79aacb1851ea74f76116641
+machine_hash: 75e70d56f4e94f5ac95e9ae57b8c99fc0dab3054f318ddda9b6a4e220204202d
 product: windsurf
 product_name: Windsurf
 record:
@@ -45,12 +45,12 @@ record:
     now…
   type: change
 related_changes:
-- '[[Changes/Microsoft 365 Copilot/2026-10-27-rich-entity-representation-for-connectors-in-search-results-web-microsoft-365-co|Rich
-  entity representation for connectors in Search results…]]'
-- '[[Changes/OpenClaw/2026-10-27-the-control-ui-now-reconnects-when-a-visible-tab-has-lost-contact-but-still-show|The
-  Control UI now reconnects when a visible tab has lost contact but still shows…]]'
-- '[[Changes/OpenCode/2026-10-27-5-editor-experience-changes-in-v2-2-0|5 Editor Experience
-  changes in v2.2.0]]'
+- '[[Changes/Raycast/2026-10-28-2-editor-experience-changes-in-raycast-macos-2-10|2
+  Editor Experience changes in Raycast macos 2.10]]'
+- '[[Changes/Raycast/2026-10-28-ai-chat-improved-attachment-layout-and-keyboard-tab-order-in-composer|AI
+  Chat : Improved attachment layout and keyboard tab order in composer]]'
+- '[[Changes/Superwhisper/2026-10-28-modes-tab-renamed-to-transcribe|Modes tab renamed
+  to Transcribe]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-10-28-v3-11-231-6962ae84|windsurf-2026-10-28-v3-11-231-6962ae84]]'
 source_type: windsurf_changelog
 theme: editor-experience
@@ -78,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-10-27 · OpenCode · [[Changes/OpenCode/2026-10-27-5-editor-experience-changes-in-v2-2-0|5 Editor Experience changes in v2.2.0]]
+- Earlier: 2026-10-28 · Superwhisper · [[Changes/Superwhisper/2026-10-28-modes-tab-renamed-to-transcribe|Modes tab renamed to Transcribe]]
 - Later: 2026-10-29 · Codex CLI · [[Changes/Codex CLI/2026-10-29-3-editor-experience-changes-in-rust-v0-166-0|3 Editor Experience changes in rust-v0.166.0]]
 <!-- chronolog:end -->
 

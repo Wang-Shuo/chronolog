@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 49e76eb8c2ab1f2bfc867fb219a76c6a63bb617d288f72b3167e8cc0fba945df
+machine_hash: b67ce39b84f7923209470372c05afcf9cda30323555f17bd55b2b34aaea4856a
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -91,7 +91,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-08-19 · Claude Code · [[Changes/Claude Code/2026-08-19-changed-the-model-picker-to-highlight-only-the-newest-model-s-name-so-the-highli|Changed the /model picker to highlight only the newest model's name…]]
-- Later: 2026-08-20 · Claude Code · [[Changes/Claude Code/2026-08-20-changed-ctrl-l-and-cmd-k-in-fullscreen-to-always-just-repaint-the-double-press-c|Changed Ctrl+L and Cmd+K in fullscreen to always just repaint]]
+- Later: 2026-08-19 · Raycast · [[Changes/Raycast/2026-08-19-use-the-send-focused-window-to-ai-command-choose-screen-awareness-from-the-menu|Use the Send Focused Window to AI command, choose Screen Awareness from the @ menu…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

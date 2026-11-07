@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: music-generation
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c7e0c03817ce1cc368daf0875f95345a9f731ffbc386e452fbf81562afde7f36
+machine_hash: 25856cac09413ffb571204f7bee05a3b5cc38fd27d57bcea683777608ecd4d79
 product: suno
 product_name: Suno
 record:
@@ -54,10 +54,10 @@ record:
   title: Here’s what’s better
   type: change
 related_changes:
-- '[[Changes/Suno/2025-06-03-extended-uploads-lets-you-bring-in-full-songs-up-to-8-mins-and-start-building-fr|Extended
-  Uploads : lets you bring in full songs (up to 8 mins) and start building…]]'
 - '[[Changes/Suno/2025-06-03-song-editor-you-can-reorder-rewrite-and-remake-your-track-section-by-section-dir|Song
   Editor : you can reorder, rewrite, and remake your track section by section…]]'
+- '[[Changes/Superwhisper/2025-08-20-media-pause-super-mode-improvements|Media Pause
+  & Super Mode Improvements]]'
 - '[[Changes/Suno/2025-09-22-introducing-hooks-a-new-way-to-bring-your-suno-songs-to-life-through-short-form|Introducing
   Hooks!]]'
 source_release: '[[Releases/Suno/suno-2025-09-23-e-introducing-v5-the-world-s-best-music-model-abb43ae4|suno-2025-09-23-e-introducing-v5-the-world-s-best-music-model-abb43ae4]]'

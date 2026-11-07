@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 952e959b45bbbe5ef0a3c55ce6793da0b7ece75f1ec45a1876f8e49ebb825bb8
+machine_hash: fd4078820fc6233cdb5d9f20535732c448e0f7f631319186b8b40ef71c1b74f5
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -85,7 +85,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.16
 ## Nearby in Account and Access
 
 - Earlier: 2026-04-01 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-01-2-account-and-access-changes-in-v1-0-15|2 Account and Access changes in v1.0.15]]
-- Later: 2026-04-03 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-03-mcp-oauth-flows-now-support-https-redirect-uris-via-a-self-signed-certificate-fa|MCP OAuth flows now support HTTPS redirect URIs via a self-signed certificate…]]
+- Later: 2026-04-03 · Devin · [[Changes/Devin/2026-04-03-azure-devops-service-principal|Azure DevOps Service Principal]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

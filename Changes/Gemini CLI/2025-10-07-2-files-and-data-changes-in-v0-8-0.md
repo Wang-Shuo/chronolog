@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 44a67a79cdde3baa14873c53e2e0510ac0569b195ffd78030c6214f93b034b5d
+machine_hash: 0c77bf7841bdc4137a5323b0b0a6e576221e771937d90fb2ed839e34c6fc035d
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -43,10 +43,10 @@ record:
   title: 2 Files and Data changes in v0.8.0
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2025-09-17-3-files-and-data-changes-in-v0-6-29|3 Files and
-  Data changes in v0.6.29]]'
 - '[[Changes/Dify/2025-09-22-6-files-and-data-changes-in-1-9-0|6 Files and Data changes
   in 1.9.0]]'
+- '[[Changes/Recraft/2025-09-23-we-ve-opened-a-waitlist-for-chat-mode-https-www-recraft-ai-chat-beta-utm-source|Get
+  early access to Chat mode]]'
 - "[[Changes/Open WebUI/2025-09-25-file-upload-handling-was-improved-to-properly-recognize-uploaded-files-even-when|\U0001F4CE
   File upload handling was improved to properly recognize uploaded files even…]]"
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-10-07-v0-8-0-github-252858757-2ecdc728|gemini-cli-2025-10-07-v0-8-0-github-252858757-2ecdc728]]'

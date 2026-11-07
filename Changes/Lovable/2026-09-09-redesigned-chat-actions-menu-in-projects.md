@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 529ec0923392c40d5122cc3ef0647832cc05f1fca57b3992f54f5513f6411377
+machine_hash: 59c7b9d7cd9b26f9a193811e562555933343748771dfb2ec27b08f6ff02989b7
 product: lovable
 product_name: Lovable
 record:
@@ -48,10 +48,9 @@ record:
   title: Redesigned Chat actions menu in projects
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-09-improved-the-diff-panel-it-no-longer-flashes-0-files-changed-and-a-spinner-befor|Improved
-  the /diff panel]]'
-- '[[Changes/Codex CLI/2026-09-09-4-interface-experience-changes-in-rust-v0-154-0|4
-  Interface Experience changes in rust-v0.154.0]]'
+- '[[Changes/Devin/2026-09-09-roles-and-access|Roles and Access]]'
+- '[[Changes/Devin/2026-09-09-multi-pr-dropdown-in-the-sidebar|Multi-PR Dropdown in
+  the Sidebar]]'
 - '[[Changes/Google Antigravity/2026-09-09-5-interface-experience-changes-in-hub-v2-13-0-introducing-new-documents|5
   Interface Experience changes in HUB v2.13.0 — Introducing new Documents…]]'
 source_release: '[[Releases/Lovable/lovable-2026-09-09-2026-09-09-1af9b744|lovable-2026-09-09-2026-09-09-1af9b744]]'

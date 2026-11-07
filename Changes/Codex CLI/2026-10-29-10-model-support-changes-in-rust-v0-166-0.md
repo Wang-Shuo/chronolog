@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d05551db18f61749c8b6e5a74ab1f29bcbf5dc1b32f641bc6dfcbe96c43aa78e
+machine_hash: 7f4c566e93efd49d6cf58490d49747216dd66e21d8c04375ed41fdd8b3422f06
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -62,12 +62,12 @@ record:
   title: 10 Model Support changes in rust-v0.166.0
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-10-27-add-configurable-prompt-cache-ttls-per-provider-model|Add
-  configurable prompt cache TTLs per provider/model]]'
-- '[[Changes/OpenHands/2026-10-27-refactor-settings-use-existing-model-profile-theme-aliases-by-enyst-in-https-git|refactor(settings):
-  use existing model-profile theme aliases]]'
 - '[[Changes/Kimi Code/2026-10-28-add-provider-refresh-providerid-to-re-fetch-provider-model-lists-at-runtime|Add
   /provider refresh providerId to re-fetch provider model lists at runtime]]'
+- '[[Changes/Raycast/2026-10-28-ai-added-the-same-reasoning-effort-shortcut-to-model-preference|AI:
+  Added the same reasoning effort shortcut to model preference]]'
+- '[[Changes/Raycast/2026-10-28-ai-added-the-same-reasoning-effort-shortcut-to-model-preference-838a1e|AI:
+  Added the same reasoning effort shortcut to model preference]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-10-29-rust-v0-166-0-github-428320524-44f8c24a|codex-cli-2026-10-29-rust-v0-166-0-github-428320524-44f8c24a]]'
 source_type: github_releases
 theme: model-support
@@ -131,7 +131,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.166.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-10-28 · Kimi Code · [[Changes/Kimi Code/2026-10-28-add-provider-refresh-providerid-to-re-fetch-provider-model-lists-at-runtime|Add /provider refresh providerId to re-fetch provider model lists at runtime]]
+- Earlier: 2026-10-28 · Raycast · [[Changes/Raycast/2026-10-28-ai-added-the-same-reasoning-effort-shortcut-to-model-preference-838a1e|AI: Added the same reasoning effort shortcut to model preference]]
 - Later: 2026-10-29 · Open WebUI · [[Changes/Open WebUI/2026-10-29-7-model-support-changes-in-v0-12-5|7 Model Support changes in v0.12.5]]
 <!-- chronolog:end -->
 

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 568c6ad19e7480368d3b4240959d0054d05efa0ff62f3063e9ebb033fac65689
+machine_hash: 1e747f8fc4fcd5942f8c948241c43882b20a53f8e79bbd08d4a288ba54e8e9a1
 product: lovable
 product_name: Lovable
 record:
@@ -49,8 +49,8 @@ record:
   title: Workspace viewer role (Pro+)**
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-08-27-2-editor-experience-changes-in-v0-2-0|2 Editor
-  Experience changes in v0.2.0]]'
+- '[[Changes/LM Studio/2025-08-28-added-ability-to-edit-chat-name-from-chat-tab-dropdown-or-double-clicking-chat-t|Added
+  ability to edit chat name from chat tab dropdown, or double clicking chat tab]]'
 - '[[Changes/Descript/2025-08-29-what-s-new|What’s new?]]'
 - '[[Changes/Lovable/2025-09-01-track-your-edits-streaks|Track your edits + streaks]]'
 source_release: '[[Releases/Lovable/lovable-2025-09-01-2025-09-01-b1665f28|lovable-2025-09-01-2025-09-01-b1665f28]]'

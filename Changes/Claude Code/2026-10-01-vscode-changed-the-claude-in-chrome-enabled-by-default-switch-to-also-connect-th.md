@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 52b3ffc4addfa9d260d7b049e1a5cfb95203090ad513fd87a7151eaea51d5ced
+machine_hash: dd255e210824c073bf4008ff1631b7fda2f54d5a2296859111ed4598342e414c
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,12 +43,12 @@ record:
     connect…'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-29-3-editor-experience-changes-in-rust-v0-159-0|3 Editor
-  Experience changes in rust-v0.159.0]]'
-- '[[Changes/Claude Code/2026-09-30-improved-the-external-editor-ctrl-g-editors-that-take-a-line-number-now-open-on|Improved
-  the external editor (Ctrl+G)]]'
+- '[[Changes/Devin/2026-09-30-devin-mono-for-code-and-terminals|Devin Mono for Code
+  and Terminals]]'
 - '[[Changes/OpenClaw/2026-09-30-9-editor-experience-changes-in-v2026-9-7|9 Editor
   Experience changes in v2026.9.7]]'
+- '[[Changes/AnythingLLM/2026-10-01-autosave-workspace-settings-on-edit-by-shatfield4-in-https-github-com-mintplex-l|Autosave
+  workspace settings on edit]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-01-v2-1-287-github-401174143-9cfdbb87|claude-code-2026-10-01-v2-1-287-github-401174143-9cfdbb87]]'
 source_type: github_releases
 theme: editor-experience
@@ -89,7 +89,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-09-30 · OpenClaw · [[Changes/OpenClaw/2026-09-30-9-editor-experience-changes-in-v2026-9-7|9 Editor Experience changes in v2026.9.7]]
+- Earlier: 2026-10-01 · AnythingLLM · [[Changes/AnythingLLM/2026-10-01-autosave-workspace-settings-on-edit-by-shatfield4-in-https-github-com-mintplex-l|Autosave workspace settings on edit]]
 - Later: 2026-10-01 · Codex CLI · [[Changes/Codex CLI/2026-10-01-49082-skip-remote-git-discovery-for-guardian-diff-paths-jif-oai|♯49082 Skip remote Git discovery for Guardian diff paths @jif-oai]]
 <!-- chronolog:end -->
 

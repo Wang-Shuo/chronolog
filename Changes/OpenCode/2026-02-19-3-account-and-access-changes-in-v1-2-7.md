@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 30369bb07022c927548a4a5522fedb24fea8c697f40cbfbfb616e583531dd47b
+machine_hash: 7f6de9b0c7d90710b733c3460012cbfd6d2ff754d6fe89cf7032b24b3376a66c
 product: opencode
 product_name: OpenCode
 record:
@@ -46,10 +46,10 @@ record:
   title: 3 Account and Access changes in v1.2.7
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-13-added-claude-auth-login-claude-auth-status-and-claude-auth-logout-cli-subcommand|Added
-  claude auth login, claude auth status, and claude auth logout CLI subcommands]]'
 - "[[Changes/Open WebUI/2026-02-16-oauth-session-error-handling-corrupted-oauth-sessions-are-now-gracefully-handled|\U0001F510
   OAuth session error handling. Corrupted OAuth sessions are now gracefully…]]"
+- '[[Changes/AnythingLLM/2026-02-18-new-login-page-ui-by-shatfield4-in-https-github-com-mintplex-labs-anything-llm-p|New
+  login page UI]]'
 - '[[Changes/Claude Code/2026-02-19-improved-performance-by-caching-authentication-failures-for-http-and-sse-mcp-ser|Improved
   performance by caching authentication failures for HTTP and SSE MCP…]]'
 source_release: '[[Releases/OpenCode/opencode-2026-02-19-v1-2-7-da02ddd2|opencode-2026-02-19-v1-2-7-da02ddd2]]'

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 1f277116b179aff4e9a072bf60d149a8c9fe47e816e5fd73524be0f1983f340a
+machine_hash: fec03b46b96621ee95dbe27b72edd4fc0582d505e48cd89ae7441e85034764f1
 product: ollama
 product_name: Ollama
 record:
@@ -48,10 +48,9 @@ record:
     12…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-21-added-warnings-when-transcript-writes-are-failing-e-g-disk-full-or-when-session|Added
-  warnings when transcript writes are failing (e.g. disk full) or when session…]]'
 - '[[Changes/Codex CLI/2026-07-21-3-reliability-and-performance-changes-in-rust-v0-145-0|3
   Reliability and Performance changes in rust-v0.145.0]]'
+- '[[Changes/Devin/2026-07-22-performance-improvements|Performance Improvements]]'
 - '[[Changes/Kimi Code/2026-07-22-improve-tui-performance-and-resume-speed-for-long-running-sessions|Improve
   TUI performance and resume speed for long-running sessions]]'
 source_release: '[[Releases/Ollama/ollama-2026-07-23-v0-32-3-github-358396842-dbab787a|ollama-2026-07-23-v0-32-3-github-358396842-dbab787a]]'
@@ -86,7 +85,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-07-22 · Kimi Code · [[Changes/Kimi Code/2026-07-22-improve-tui-performance-and-resume-speed-for-long-running-sessions|Improve TUI performance and resume speed for long-running sessions]]
-- Later: 2026-07-27 · Open WebUI · [[Changes/Open WebUI/2026-07-27-12-reliability-and-performance-changes-in-v0-11-0|12 Reliability and Performance changes in v0.11.0]]
+- Later: 2026-07-23 · Raycast · [[Changes/Raycast/2026-07-23-2-reliability-and-performance-changes-in-raycast-windows-0-70|2 Reliability and Performance changes in Raycast windows 0.70]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

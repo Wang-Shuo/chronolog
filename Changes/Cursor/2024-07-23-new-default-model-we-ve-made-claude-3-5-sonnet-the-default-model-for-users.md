@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: fb735abd4f46a9e1cc4baeb8284bc6732fc4f7d3d555579a4bdbaae52f64eddf
+machine_hash: dcea981e3494da09de11ce6745b6be5eb4ce3181e06425e21917933728d671bb
 product: cursor
 product_name: Cursor
 record:
@@ -46,12 +46,11 @@ record:
   title: 'New Default Model: We''ve made Claude 3.5 Sonnet the default model for users'
   type: change
 related_changes:
-- '[[Changes/Ollama/2024-07-18-mathstral-https-ollama-com-library-mathstral-math-tral-is-a-7b-model-designed-fo|Mathstral((source
-  link) MathΣtral is a 7B model designed…]]'
 - '[[Changes/OpenHands/2024-07-19-4-model-support-changes-in-0-8-1|4 Model Support
   changes in 0.8.1]]'
 - '[[Changes/Ollama/2024-07-21-nuextract-https-ollama-com-library-nuextract-a-3-8b-model-fine-tuned-on-a-privat|NuExtract((source
   link) A 3.8B model fine-tuned…]]'
+- '[[Changes/Superwhisper/2024-07-22-gpt-4o-mini-now-available|GPT-4o mini now available]]'
 source_release: '[[Releases/Cursor/cursor-2024-07-23-0-38-x-https-cursor-com-changelog-0-38-x-e6d087df|cursor-2024-07-23-0-38-x-https-cursor-com-changelog-0-38-x-e6d087df]]'
 source_type: cursor_changelog
 theme: model-support
@@ -82,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2024-07-21 · Ollama · [[Changes/Ollama/2024-07-21-nuextract-https-ollama-com-library-nuextract-a-3-8b-model-fine-tuned-on-a-privat|NuExtract((source link) A 3.8B model fine-tuned…]]
+- Earlier: 2024-07-22 · Superwhisper · [[Changes/Superwhisper/2024-07-22-gpt-4o-mini-now-available|GPT-4o mini now available]]
 - Later: 2024-07-23 · Dify · [[Changes/Dify/2024-07-23-openai-gpt-4o-mini-support-now-available-by-takatost-in-6442|OpenAI GPT-4o-mini Support: Now available, by @takatost in ♯6442]]
 <!-- chronolog:end -->
 

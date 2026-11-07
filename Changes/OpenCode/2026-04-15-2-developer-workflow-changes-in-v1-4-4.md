@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: aaea4c479641ed6b7d6b905e4c78c0f55043e4a6ca22bbed56cb1c586b199a2c
+machine_hash: 4fcd1c63d7e98f7b225d5fd6de17d33b8ee44c763eca996a7892e248c0099065
 product: opencode
 product_name: OpenCode
 record:
@@ -43,10 +43,10 @@ record:
   title: 2 Developer Workflow changes in v1.4.4
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-04-15-4-developer-workflow-changes-in-rust-v0-121-0|4
-  Developer Workflow changes in rust-v0.121.0]]'
 - '[[Changes/Cursor/2026-04-15-in-the-agents-window-canvases-are-durable-artifacts-that-live-in-the-side-panel|In
   the Agents Window, canvases are durable artifacts that live in the side panel…]]'
+- '[[Changes/Devin/2026-04-15-close-pr-or-convert-to-draft-in-review-ui|Close PR or
+  Convert to Draft in Review UI]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-15-2-developer-workflow-changes-in-v1-0-27|2
   Developer Workflow changes in v1.0.27]]'
 source_release: '[[Releases/OpenCode/opencode-2026-04-15-v1-4-4-b66f2e07|opencode-2026-04-15-v1-4-4-b66f2e07]]'
@@ -87,7 +87,7 @@ Source: https://opencode.ai/changelog/v1.4.4
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-04-15 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-15-2-developer-workflow-changes-in-v1-0-27|2 Developer Workflow changes in v1.0.27]]
-- Later: 2026-04-16 · Claude Code · [[Changes/Claude Code/2026-04-16-2-developer-workflow-changes-in-v2-1-111|2 Developer Workflow changes in v2.1.111]]
+- Later: 2026-04-15 · Raycast · [[Changes/Raycast/2026-04-15-general-send-feedback-tray-command-now-opens-the-feedback-window-directly|General : "Send Feedback" tray command now opens the feedback window directly]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

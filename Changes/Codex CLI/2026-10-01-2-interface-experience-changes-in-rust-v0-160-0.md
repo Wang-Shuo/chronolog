@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d17d04820349129b770a0c5c24393aed2e1c1b608702cd3b969716b9b507c85c
+machine_hash: 3d773a2e0fcd7225cd03ee91c7ecc8b36b2ba15099fcc746546874a379ac82b6
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,12 +42,12 @@ record:
   title: 2 Interface Experience changes in rust-v0.160.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-09-30-2-interface-experience-changes-in-v1-0-90|2
-  Interface Experience changes in v1.0.90]]'
 - '[[Changes/Google Antigravity/2026-09-30-rendered-markdown-in-artifacts-and-in-files-opened-in-the-side-pane-can-now-be-e|Rendered
   Markdown in artifacts and in files opened in the side pane can now…]]'
 - '[[Changes/OpenClaw/2026-09-30-17-interface-experience-changes-in-v2026-9-7|17 Interface
   Experience changes in v2026.9.7]]'
+- '[[Changes/AnythingLLM/2026-10-01-add-keyboard-navigation-and-autofocus-to-provider-search-menus-by-shatfield4-in|Add
+  keyboard navigation and autofocus to provider search menus]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-10-01-rust-v0-160-0-github-401312540-620e0269|codex-cli-2026-10-01-rust-v0-160-0-github-401312540-620e0269]]'
 source_type: github_releases
 theme: interface-experience
@@ -94,7 +94,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.160.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-09-30 · OpenClaw · [[Changes/OpenClaw/2026-09-30-17-interface-experience-changes-in-v2026-9-7|17 Interface Experience changes in v2026.9.7]]
+- Earlier: 2026-10-01 · AnythingLLM · [[Changes/AnythingLLM/2026-10-01-add-keyboard-navigation-and-autofocus-to-provider-search-menus-by-shatfield4-in|Add keyboard navigation and autofocus to provider search menus]]
 - Later: 2026-10-01 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-01-footer-text-selection-stays-on-the-same-visible-line-when-the-footer-grows-or-sh|Footer text selection stays on the same visible line when the footer grows or shrinks]]
 <!-- chronolog:end -->
 

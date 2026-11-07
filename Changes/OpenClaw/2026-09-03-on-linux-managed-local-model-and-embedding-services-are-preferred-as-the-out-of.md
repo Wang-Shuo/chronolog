@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 47a5711842f9750f713f5ebeaad768eff37f69f6995980e3d6638cc9426eb065
+machine_hash: b2354e31a396c0172eacd43bdcbae9bae59827955b35335cd1f9f6a000ed8cee
 product: openclaw
 product_name: OpenClaw
 record:
@@ -57,9 +57,10 @@ record:
   title: On Linux, managed local model and embedding services are preferred…
   type: change
 related_changes:
-- '[[Changes/Suno/2026-09-02-overall-responsiveness|Overall responsiveness]]'
 - '[[Changes/Suno/2026-09-02-chat-improvements|Chat improvements]]'
 - '[[Changes/Suno/2026-09-02-wavetable-fidelity|Wavetable fidelity]]'
+- '[[Changes/Superwhisper/2026-09-02-other-bug-fixes-and-performance-improvements|Other
+  bug fixes and performance improvements]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-09-03-v2026-9-1-281124fc|openclaw-2026-09-03-v2026-9-1-281124fc]]'
 source_type: openclaw_changelog
 theme: reliability-performance
@@ -107,7 +108,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-09-02 · Suno · [[Changes/Suno/2026-09-02-wavetable-fidelity|Wavetable fidelity]]
+- Earlier: 2026-09-02 · Superwhisper · [[Changes/Superwhisper/2026-09-02-other-bug-fixes-and-performance-improvements|Other bug fixes and performance improvements]]
 - Later: 2026-09-03 · Qoder · [[Changes/Qoder/2026-09-03-faster-app-startup-and-smoother-streaming-in-long-sessions|Faster app startup and smoother streaming in long sessions]]
 <!-- chronolog:end -->
 

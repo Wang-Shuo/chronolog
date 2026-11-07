@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0dd8965dd0c371aa608c98bca3b77b808a53028a59658ed19cc46e2f24919aa8
+machine_hash: 4b3262facb328c045d2b6c0b5f980009fe075d79d08ff7a29b523f0be948d828
 product: openclaw
 product_name: OpenClaw
 record:
@@ -46,10 +46,9 @@ record:
   title: Session Share now shows an error when it can’t discover receivers, instead…
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-10-18-review-the-conversation-before-publishing-the-link-exposes-existing-and-future-u|Review
-  the conversation before publishing]]'
-- '[[Changes/Claude Code/2026-10-19-added-a-warning-on-pro-and-max-plans-when-resuming-an-inactive-conversation-woul|Added
-  a warning on Pro and Max plans when resuming an inactive conversation would…]]'
+- '[[Changes/Devin/2026-10-19-recover-a-crashed-session-from-teams|Recover a Crashed
+  Session from Teams]]'
+- '[[Changes/Devin/2026-10-19-clearer-group-chat-permissions|Clearer Group-chat Permissions]]'
 - '[[Changes/OpenHands/2026-10-19-feat-verify-openhands-adopt-the-shared-known-bug-contract-by-enyst-in-https-gith|feat(verify-openhands):
   adopt the shared known-bug contract]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-10-22-v2026-10-6-56379f53|openclaw-2026-10-22-v2026-10-6-56379f53]]'

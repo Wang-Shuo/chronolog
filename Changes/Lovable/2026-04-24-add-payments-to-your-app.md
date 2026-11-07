@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 8540eb2e157035b9e6490150a8890419b1e1d7e29898bc3b00ec2581e9bf0aed
+machine_hash: 69c4b033f9ba99de11cc71196c77ec49b60561708653d6d9ca4346965e40300e
 product: lovable
 product_name: Lovable
 record:
@@ -64,7 +64,7 @@ record:
   title: Add payments to your app
   type: change
 related_changes:
-- '[[Changes/Replit/2026-04-10-razorpay-payments-for-india|Razorpay payments for India]]'
+- '[[Changes/Recraft/2026-04-14-cost-per-second|Cost per second]]'
 - '[[Changes/ElevenLabs/2026-04-20-workspaces|Workspaces]]'
 - '[[Changes/Claude Code/2026-04-22-opentelemetry-user-prompt-events-now-include-command-name-and-command-source-for|OpenTelemetry:
   user_prompt events now include command_name and command_source…]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a352503885d0205f71761ccdf8ee65b902b44a580a7d42463a85cea3a7e623e3
+machine_hash: c271b1283964b40b59b3153cdba68d3949e1367b81093b2231119ae4f27c9d4f
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -49,8 +49,7 @@ record:
   title: 4 Developer Workflow changes in v0.19.0
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-11-26-feat-add-click-to-focus-support-for-interactive-shell-by-galz10-in-https-github|feat:
-  add click-to-focus support for interactive shell]]'
+- '[[Changes/Raycast/2025-11-27-confetti|Confetti]]'
 - '[[Changes/Cline/2025-12-02-2-developer-workflow-changes-in-v3-39-0|2 Developer
   Workflow changes in v3.39.0]]'
 - '[[Changes/Codex CLI/2025-12-02-4-developer-workflow-changes-in-rust-v0-64-0|4 Developer

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: bdecb19d7a41acb77f9cb9bfb1f714ecca11934751ac4a5e4783c35c86d160d4
+machine_hash: 41af00d7cfa4b57676748e134f1995edb39dd0c3f0fff1938479bc6d1b523972
 product: cline
 product_name: Cline
 record:
@@ -47,10 +47,9 @@ record:
   title: Explain when a free model promotion ends
   type: change
 related_changes:
-- '[[Changes/Kimi Code/2026-08-04-fall-back-to-the-built-in-models-dev-catalog-snapshot-when-the-public-catalog-is|Fall
-  back to the built-in models.dev catalog snapshot when the public catalog…]]'
 - '[[Changes/Ollama/2026-08-04-ollama-run-kimi-k3-now-offers-kimi-k3-cloud-for-cloud-only-models-that-publish-n|ollama
   run kimi-k3 now offers kimi-k3:cloud for cloud-only models that publish…]]'
+- '[[Changes/Superwhisper/2026-08-04-updates-to-models-library|Updates to Models Library]]'
 - '[[Changes/Cline/2026-08-05-5-model-support-changes-in-v4-1-4|5 Model Support changes
   in v4.1.4]]'
 source_release: '[[Releases/Cline/cline-2026-08-05-v4-1-5-github-365842086-760e9ead|cline-2026-08-05-v4-1-5-github-365842086-760e9ead]]'

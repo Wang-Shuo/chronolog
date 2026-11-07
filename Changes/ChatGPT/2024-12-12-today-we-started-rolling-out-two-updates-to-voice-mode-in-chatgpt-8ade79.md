@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 48bb519dec17e03caf926bfee3cfc00313519fd7fc719bf7f34fb53d5e656ae7
+machine_hash: 358aca928a67073a87bb7773647a0f4692ad20da03281e55740c48676e784028
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -51,8 +51,8 @@ record:
   title: Today we started rolling out two updates to voice mode in ChatGPT
   type: change
 related_changes:
-- '[[Changes/Dify/2024-11-25-the-new-version-extends-support-for-multi-modal-tasks-for-example-you-can-upload|The
-  new version extends support for multi-modal tasks]]'
+- '[[Changes/AnythingLLM/2024-11-26-handle-openai-whisper-transcription-edge-case-by-shatfield4-in-https-github-com|Handle
+  OpenAI whisper transcription edge case]]'
 - '[[Changes/Aider/2024-12-01-added-voice-input-device-to-select-audio-input-device-for-voice-recording-by-pre|Added
   --voice-input-device to select audio input device for voice recording, by @preynal]]'
 - '[[Changes/ChatGPT/2024-12-12-video-and-screenshare-in-our-latest-mobile-apps-we-are-starting-to-roll-out-real|Video

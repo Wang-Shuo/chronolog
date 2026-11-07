@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c4659e957accb7219e1e334cb0359c8b35db042661215440302d6e5c128cc9bd
+machine_hash: afdf28118c360f2768642ebe8806e9c9f80c0f10c61157af1568720efd0ed2ad
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,8 +42,8 @@ record:
     the prompt…
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-10-03-browser-tabs-after-updates-if-you-leave-openclaw-s-bundled-web-interface-open-du|Browser
-  tabs after updates]]'
+- '[[Changes/Devin/2026-10-05-pr-links-in-devin-review-follow-your-preference|PR Links
+  in Devin Review Follow Your Preference]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-05-2-editor-experience-changes-in-v1-0-92|2
   Editor Experience changes in v1.0.92]]'
 - '[[Changes/Lovable/2026-10-05-restore-lovable-work-after-a-push-to-your-git-repository-replaces-it|Restore

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: debd6ac37a4edbbc655f9b7bfbe9c9bfb1eff170fd1f8062273148b0cc0abd30
+machine_hash: d264880806b277d7872c069c1c3919c86ffeecbabe157ba4505a84f94748a3ed
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -63,11 +63,11 @@ record:
   title: 10 Apps and Integrations changes in v0.1.19
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2025-08-11-sdks|SDKs]]'
-- '[[Changes/Lovable/2025-08-11-real-time-analytics-on-your-lovable-apps|Real-time
-  analytics on your Lovable apps]]'
 - '[[Changes/Codex CLI/2025-08-12-https-github-com-openai-codex-pull-1975-add-json-schema-sanitization-for-mcp-too|(source
   link) add JSON schema sanitization for MCP tools…]]'
+- '[[Changes/Devin/2025-08-12-enhanced-mcp-marketplace|Enhanced MCP Marketplace]]'
+- '[[Changes/Devin/2025-08-12-improved-integration-for-slack|Improved Integration
+  for Slack]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-08-12-v0-1-19-github-239452049-c4d9f679|gemini-cli-2025-08-12-v0-1-19-github-239452049-c4d9f679]]'
 source_type: github_releases
 theme: apps-integrations
@@ -127,7 +127,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.1.19
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-08-12 · Codex CLI · [[Changes/Codex CLI/2025-08-12-https-github-com-openai-codex-pull-1975-add-json-schema-sanitization-for-mcp-too|(source link) add JSON schema sanitization for MCP tools…]]
+- Earlier: 2025-08-12 · Devin · [[Changes/Devin/2025-08-12-improved-integration-for-slack|Improved Integration for Slack]]
 - Later: 2025-08-13 · ChatGPT · [[Changes/ChatGPT/2025-08-13-gmail-google-calendar-and-google-contacts-connectors-in-chatgpt-are-now-availabl-e34de4|Gmail, Google Calendar, and Google Contacts Connectors in ChatGPT (Plus)]]
 <!-- chronolog:end -->
 

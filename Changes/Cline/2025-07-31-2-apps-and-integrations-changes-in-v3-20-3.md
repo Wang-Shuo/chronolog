@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 93a26f22a0c9be272b9295b4cae6af91725be7effc91a8c1e2f3fa87391f992b
+machine_hash: 02e9619866507400096482f755c6eec3119404f14ee905032dc67212a00932bd
 product: cline
 product_name: Cline
 record:
@@ -42,11 +42,12 @@ record:
   title: 2 Apps and Integrations changes in v3.20.3
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2025-07-28-sdks|SDKs]]'
 - '[[Changes/Cursor/2025-07-29-extension-marketplace-supports-custom-urls|Extension
   marketplace supports custom URLs]]'
 - '[[Changes/Gemini CLI/2025-07-30-19-apps-and-integrations-changes-in-v0-1-15|19
   Apps and Integrations changes in v0.1.15]]'
+- '[[Changes/Raycast/2025-07-30-2-apps-and-integrations-changes-in-raycast-macos-v1-1-102-0|2
+  Apps and Integrations changes in Raycast macos-v1 1.102.0]]'
 source_release: '[[Releases/Cline/cline-2025-07-31-v3-20-3-github-236462952-0ca11a50|cline-2025-07-31-v3-20-3-github-236462952-0ca11a50]]'
 source_type: github_releases
 theme: apps-integrations
@@ -85,8 +86,8 @@ Source: https://github.com/cline/cline/releases/tag/v3.20.3
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-07-30 · Gemini CLI · [[Changes/Gemini CLI/2025-07-30-19-apps-and-integrations-changes-in-v0-1-15|19 Apps and Integrations changes in v0.1.15]]
-- Later: 2025-07-31 · OpenHands · [[Changes/OpenHands/2025-07-31-add-mcp-support-for-cli-by-ryanhoangt-in-https-github-com-all-hands-ai-openhands|Add MCP support for CLI]]
+- Earlier: 2025-07-30 · Raycast · [[Changes/Raycast/2025-07-30-2-apps-and-integrations-changes-in-raycast-macos-v1-1-102-0|2 Apps and Integrations changes in Raycast macos-v1 1.102.0]]
+- Later: 2025-07-31 · Devin · [[Changes/Devin/2025-07-31-linear-mapping-ux-improvements|Linear Mapping UX Improvements]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

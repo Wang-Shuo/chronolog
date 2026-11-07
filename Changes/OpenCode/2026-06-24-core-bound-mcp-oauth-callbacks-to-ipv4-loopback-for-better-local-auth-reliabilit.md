@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7105c799ed1929439eda46b5c424eda6115d766f086fa0e1ba8ef34a6dabf472
+machine_hash: 790f344e1816d54bb37509ad7df4981e8b06f211739745f463c0ed57b0382ad2
 product: opencode
 product_name: OpenCode
 record:
@@ -95,7 +95,7 @@ type: change
 ## Nearby in Account and Access
 
 - Earlier: 2026-06-24 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-24-silent-mcp-oauth-refresh-reuses-the-granted-scope-so-reconnects-stay-signed-in|Silent MCP OAuth refresh reuses the granted scope so reconnects stay signed in]]
-- Later: 2026-06-25 · Claude Code · [[Changes/Claude Code/2026-06-25-added-a-startup-notice-when-mcp-servers-need-authentication-pointing-at-mcp|Added a startup notice when MCP servers need authentication, pointing at /mcp]]
+- Later: 2026-06-24 · Raycast · [[Changes/Raycast/2026-06-24-updater-added-privileged-daemon-process-to-ease-updates-for-non-admin-users-if-y|Updater : Added privileged daemon process to ease updates for non admin users]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

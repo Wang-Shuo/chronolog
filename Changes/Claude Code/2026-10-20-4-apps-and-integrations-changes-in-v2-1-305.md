@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 30abbda1911a62f7e31bc69c59408344c7d7262f6d1a79a4ec26f53397108ecd
+machine_hash: 4c13e8e09c27c7f038b99e2201a767670c3343eb651c8e3ab93be232f63f7ac4
 product: claude-code
 product_name: Claude Code
 record:
@@ -53,8 +53,8 @@ record:
   title: 4 Apps and Integrations changes in v2.1.305
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-10-19-10-apps-and-integrations-changes-in-v1-0-100|10
-  Apps and Integrations changes in v1.0.100]]'
+- '[[Changes/Krea/2026-10-19-quote-a-generation-with-mcp-preflight|Quote a generation
+  with MCP preflight]]'
 - '[[Changes/Lovable/2026-10-19-connect-your-app-to-cube|Connect your app to Cube]]'
 - '[[Changes/v0/2026-10-19-connect-your-slack-workspace-to-v0-to-bring-team-conversations-into-your-work-wi|Connect
   your Slack workspace to v0 to bring team conversations into your work]]'

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2aa8bfaccdde32fbe53b615c6376f82c18dfef13f38b264e188ae7fd48a1d140
+machine_hash: 99066c371e632c6a13d3bb4b49ea05cc62bbc2270e14182ed04d0d1cb412b9b8
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,10 +43,10 @@ record:
   title: macOS authentication clients can honor system proxy, PAC, and WPAD settings…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-24-silent-mcp-oauth-refresh-reuses-the-granted-scope-so-reconnects-stay-signed-in|Silent
-  MCP OAuth refresh reuses the granted scope so reconnects stay signed in]]'
 - '[[Changes/OpenCode/2026-06-24-core-bound-mcp-oauth-callbacks-to-ipv4-loopback-for-better-local-auth-reliabilit|Core
   Bound MCP OAuth callbacks to IPv4 loopback for better local auth reliability]]'
+- '[[Changes/Raycast/2026-06-24-updater-added-privileged-daemon-process-to-ease-updates-for-non-admin-users-if-y|Updater
+  : Added privileged daemon process to ease updates for non admin users]]'
 - '[[Changes/Claude Code/2026-06-25-added-a-startup-notice-when-mcp-servers-need-authentication-pointing-at-mcp|Added
   a startup notice when MCP servers need authentication, pointing at /mcp]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-06-25-rust-v0-142-2-github-344540546-8fdabe3c|codex-cli-2026-06-25-rust-v0-142-2-github-344540546-8fdabe3c]]'

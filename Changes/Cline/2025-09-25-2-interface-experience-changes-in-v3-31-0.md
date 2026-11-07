@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: dfd54126dea6c1e9829f06704b3c597ca1e9dfcec44f7aa7e49a85ba7f571680
+machine_hash: ee65eeebc70e0d66a07265cc5a025134e1ad80fd28b2acf7db54a2724ffca498
 product: cline
 product_name: Cline
 record:
@@ -42,11 +42,11 @@ record:
   title: 2 Interface Experience changes in v3.31.0
   type: change
 related_changes:
-- '[[Changes/Dify/2025-09-22-feat-add-circular-scrolling-to-gotoanything-command-menu-by-lyzno1-in-https-gith|feat:
-  add circular scrolling to GotoAnything command menu]]'
 - '[[Changes/Descript/2025-09-24-recovery-process-improvements|Recovery Process Improvements]]'
 - '[[Changes/Descript/2025-09-24-these-new-controls-allow-you-to-optimize-for-your-internet-connection-by-selecti|These
   new controls allow you to optimize for your internet connection by selecting…]]'
+- '[[Changes/LM Studio/2025-09-24-new-sort-chats-sidebar-by-date-updated-date-created-or-token-count|New:
+  Sort chats sidebar by date updated, date created, or token count]]'
 source_release: '[[Releases/Cline/cline-2025-09-25-v3-31-0-github-249851716-699f2598|cline-2025-09-25-v3-31-0-github-249851716-699f2598]]'
 source_type: github_releases
 theme: interface-experience
@@ -82,7 +82,7 @@ Source: https://github.com/cline/cline/releases/tag/v3.31.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2025-09-24 · Descript · [[Changes/Descript/2025-09-24-these-new-controls-allow-you-to-optimize-for-your-internet-connection-by-selecti|These new controls allow you to optimize for your internet connection by selecting…]]
+- Earlier: 2025-09-24 · LM Studio · [[Changes/LM Studio/2025-09-24-new-sort-chats-sidebar-by-date-updated-date-created-or-token-count|New: Sort chats sidebar by date updated, date created, or token count]]
 - Later: 2025-09-25 · Open WebUI · [[Changes/Open WebUI/2025-09-25-4-interface-experience-changes-in-v0-6-31|4 Interface Experience changes in v0.6.31]]
 <!-- chronolog:end -->
 

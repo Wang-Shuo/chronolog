@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 7ea8b3ab60af1e2f47aae2d36dad314e120c97ee850fe7b4ee8eb4ea073c358a
+machine_hash: 0e9a51f8485f4ed0786022ef30d39d16fdd316bb822c9f0d1ee90fbca84a353c
 product: notion
 product_name: Notion
 record:
@@ -50,12 +50,12 @@ record:
   title: Every AI skill your team needs, in one library
   type: change
 related_changes:
-- '[[Changes/v0/2026-09-10-new-chats-created-in-a-team-workspace-are-now-visible-to-the-team-by-default-mak|Team
-  chats are easier to discover and collaborate on]]'
 - '[[Changes/Lovable/2026-09-11-clearer-sharing-settings-for-connections|Clearer sharing
   settings for connections]]'
 - '[[Changes/OpenClaw/2026-09-11-3-collaboration-changes-in-v2026-9-4|3 Collaboration
   changes in v2026.9.4]]'
+- '[[Changes/Raycast/2026-09-11-2-collaboration-changes-in-raycast-macos-2-3|2 Collaboration
+  changes in Raycast macos 2.3]]'
 source_release: '[[Releases/Notion/notion-2026-09-15-https-www-notion-com-releases-2026-09-15-bb814e7c|notion-2026-09-15-https-www-notion-com-releases-2026-09-15-bb814e7c]]'
 source_type: notion_changelog
 theme: collaboration
@@ -95,8 +95,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-09-11 · OpenClaw · [[Changes/OpenClaw/2026-09-11-3-collaboration-changes-in-v2026-9-4|3 Collaboration changes in v2026.9.4]]
-- Later: 2026-09-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-16-share-notes-md-now-writes-the-exported-session-to-your-home-directory-instead-of|--share=~/notes.md now writes the exported session to your home directory instead…]]
+- Earlier: 2026-09-11 · Raycast · [[Changes/Raycast/2026-09-11-2-collaboration-changes-in-raycast-macos-2-3|2 Collaboration changes in Raycast macos 2.3]]
+- Later: 2026-09-16 · Devin · [[Changes/Devin/2026-09-16-teams-improvements|Teams Improvements]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

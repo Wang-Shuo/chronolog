@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2cd6b51b3ce1f7ec8ab4417f99d8713c8ada5deffa2776e48487a246f29dbc27
+machine_hash: 56b7c4342811a03bd904b382119360e74e1795f8932675a396acf15206661d1c
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -152,7 +152,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.129.0
 ## Nearby in Memory and Personalization
 
 - Earlier: 2026-05-05 · Gemini CLI · [[Changes/Gemini CLI/2026-05-05-feat-memory-persist-auto-memory-scratchpad-for-skill-extraction-by-sandytao520-i|feat(memory): persist auto-memory scratchpad for skill extraction]]
-- Later: 2026-05-09 · Open WebUI · [[Changes/Open WebUI/2026-05-09-faster-memory-query-performance-per-user-memory-lookups-and-deletions-now-run-mu|⚡ Faster memory query performance. Per-user memory lookups and deletions now run…]]
+- Later: 2026-05-08 · Raycast · [[Changes/Raycast/2026-05-08-import-add-support-for-importing-ai-extension-custom-instructions|Import : Add support for importing AI extension custom instructions]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

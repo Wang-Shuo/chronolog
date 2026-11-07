@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ec84571b1d2153b2c2f57f6c6a6274bd4672732f472bd62500c7ef684f46af11
+machine_hash: c8bac877097461a204ddc28ee3a19a2fbbde922b8f332f228a9ee68ffb45a725
 product: v0
 product_name: v0
 record:
@@ -43,8 +43,7 @@ record:
   title: The editor no longer shows a false start error when a preview, dev server…
   type: change
 related_changes:
-- '[[Changes/Cline/2026-06-26-add-edit-and-regenerate-support-for-previous-user-messages-with-clearer-reset-ch|Add
-  edit-and-regenerate support for previous user messages, with clearer Reset Chat…]]'
+- '[[Changes/Devin/2026-06-26-usage-analytics-improvements|Usage Analytics Improvements]]'
 - '[[Changes/Kimi Code/2026-06-26-preserve-full-tool-output-logs-when-previews-are-truncated-and-link-background-t|Preserve
   full tool output logs when previews are truncated and link background task…]]'
 - '[[Changes/Kimi Code/2026-06-26-make-the-web-chat-input-grow-with-its-content-and-add-an-expandable-editor-for-l|Make

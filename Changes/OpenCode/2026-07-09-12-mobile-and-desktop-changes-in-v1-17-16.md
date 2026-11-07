@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 62001c7adf4aed54e62ce7f30447a9b934712e72f0a1bd4d4d8a2ad3b3d71dfc
+machine_hash: 39554b5db5b7cb7944822ab5e5d1c731524969b0c709fd4215e20d8cd98022e2
 product: opencode
 product_name: OpenCode
 record:
@@ -128,7 +128,7 @@ Source: https://opencode.ai/changelog/v1.17.16
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-07-09 · OpenCode · [[Changes/OpenCode/2026-07-09-2-mobile-and-desktop-changes-in-v1-17-18-1|2 Mobile and Desktop changes in v1.17.18 + 1]]
-- Later: 2026-07-13 · OpenClaw · [[Changes/OpenClaw/2026-07-13-whatsapp-and-telegram-default-account-routing-warnings-are-now-available-through|WhatsApp and Telegram default-account routing warnings are now available through…]]
+- Later: 2026-07-09 · Wispr Flow · [[Changes/Wispr Flow/2026-07-09-canadian-english-desktop|Canadian English (Desktop)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

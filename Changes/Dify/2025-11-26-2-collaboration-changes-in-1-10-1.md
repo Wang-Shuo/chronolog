@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 59562e04eee99d26511f66322449e707c220a5d01fcfb5367c18093dce83c0b8
+machine_hash: 0c1ffc5f863e7d34a58a6205cf345af3accf0c5f48e33aa8a4438cb0d406e37c
 product: dify
 product_name: Dify
 record:
@@ -44,9 +44,9 @@ record:
   title: 2 Collaboration changes in 1.10.1
   type: change
 related_changes:
-- '[[Changes/Notion/2025-11-14-catch-up-on-comments|Catch up on comments]]'
-- '[[Changes/Codex CLI/2025-11-19-promote-shared-helpers-for-suite-tests-6460-aibrahim|Promote
-  shared helpers for suite tests (♯6460) — @aibrahim]]'
+- '[[Changes/Devin/2025-11-21-hebrew-language-support-for-deepwiki|Hebrew Language
+  Support for DeepWiki]]'
+- '[[Changes/Devin/2025-11-21-steerable-wiki-now-default|Steerable Wiki Now Default]]'
 - '[[Changes/ChatGPT/2025-11-25-share-photos-to-discuss-them-out-loud|Share photos
   to discuss them out loud]]'
 source_release: '[[Releases/Dify/dify-2025-11-26-1-10-1-github-265397441-2aafa784|dify-2025-11-26-1-10-1-github-265397441-2aafa784]]'

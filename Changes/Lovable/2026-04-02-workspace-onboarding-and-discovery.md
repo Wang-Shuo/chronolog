@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 59a3caffad2deca572f8f833c6b79b4d1714162a7895edebb12f7064fecaa562
+machine_hash: 934722554f75b9f2e30a93d1784b80afba277072aa4434f1f7f0345fac0fb0b0
 product: lovable
 product_name: Lovable
 record:
@@ -61,8 +61,8 @@ record:
   title: Workspace onboarding and discovery
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-01-4-interface-experience-changes-in-v1-0-15|4
-  Interface Experience changes in v1.0.15]]'
+- '[[Changes/AnythingLLM/2026-04-02-4-interface-experience-changes-in-v1-12-0|4 Interface
+  Experience changes in v1.12.0]]'
 - '[[Changes/Claude Code/2026-04-02-feedback-now-explains-why-it-s-unavailable-instead-of-disappearing-from-the-slas|/feedback
   now explains why it''s unavailable instead of disappearing from the slash menu]]'
 - '[[Changes/Cursor/2026-04-02-deprecated-the-previous-worktree-and-best-of-n-selection-from-the-editor|Deprecated
@@ -116,7 +116,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-04-02 · Cursor · [[Changes/Cursor/2026-04-02-deprecated-the-previous-worktree-and-best-of-n-selection-from-the-editor|Deprecated the previous worktree and best-of-n selection from the Editor]]
-- Later: 2026-04-03 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-03-resume-session-picker-loads-significantly-faster-especially-with-large-session-h|/resume session picker loads significantly faster, especially with large session histories]]
+- Later: 2026-04-03 · Devin · [[Changes/Devin/2026-04-03-pin-sessions|Pin Sessions]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

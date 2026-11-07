@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: cbe5470f2224548109fdb3e50cef8031e0a74665ae217691278a3be3bbffc5e3
+machine_hash: 9d0457bd5d513e4bade36ea5088282681dd4c7f2e280f202db518df51cc84336
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,9 +45,10 @@ record:
   title: 2 Apps and Integrations changes in v2.1.312
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-10-26-2-apps-and-integrations-changes-in-elevenlabs-updates-2026-10-26|2
-  Apps and Integrations changes in ElevenLabs updates — 2026-10-26]]'
-- '[[Changes/Gamma/2026-10-26-introducing-gamma-5|Introducing Gamma 5]]'
+- '[[Changes/Krea/2026-10-26-mcp-can-switch-workspaces-and-find-nodes|MCP can switch
+  workspaces and find Nodes]]'
+- '[[Changes/Krea/2026-10-26-share-nodes-apps-with-your-organization|Share Nodes Apps
+  with your organization]]'
 - '[[Changes/Lovable/2026-10-26-redesigned-connector-pages|Redesigned connector pages]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-27-v2-1-312-github-425846009-439d063a|claude-code-2026-10-27-v2-1-312-github-425846009-439d063a]]'
 source_type: github_releases

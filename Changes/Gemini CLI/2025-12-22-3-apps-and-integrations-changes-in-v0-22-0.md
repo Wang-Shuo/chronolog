@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c614ef17ad29b99bcac4e707b33dacbd729be9a2252fb3a39424200234077f5a
+machine_hash: 550481a942b7c5b54341da4669f2f396b2db7b1fc080eeeb6efad1f2d307df65
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -46,7 +46,8 @@ record:
   title: 3 Apps and Integrations changes in v0.22.0
   type: change
 related_changes:
-- '[[Changes/Replit/2025-12-19-custom-mcp-server-icons|Custom MCP Server Icons]]'
+- '[[Changes/Raycast/2025-12-20-6-apps-and-integrations-changes-in-raycast-windows-0-40|6
+  Apps and Integrations changes in Raycast windows 0.40]]'
 - '[[Changes/Open WebUI/2025-12-21-2-apps-and-integrations-changes-in-v0-6-42|2 Apps
   and Integrations changes in v0.6.42]]'
 - '[[Changes/Cursor/2025-12-22-2-apps-and-integrations-changes-in-2-3|2 Apps and Integrations

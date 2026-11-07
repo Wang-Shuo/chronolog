@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 70ca93e729b98d0ee7491c38e79a62b6c5bec320de47ee24516e8bac0be966eb
+machine_hash: 7c32f9e665620e070f0acd3cdd4365273df2f8cf055d7bfe35b0b8e8c3735982
 product: openhands
 product_name: OpenHands
 record:
@@ -42,10 +42,9 @@ record:
   title: 2 Automation and Scheduling changes in v1.11.0
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-08-05-3-automation-and-scheduling-changes-in-v1-10-0|3
-  Automation and Scheduling changes in v1.10.0]]'
-- '[[Changes/Codex CLI/2026-08-07-36228-support-enterprise-automation-account-plans-copyberry|♯36228
-  Support Enterprise automation account plans @copyberry]]'
+- '[[Changes/Devin/2026-08-07-gitlab-support-in-automations|GitLab Support in Automations]]'
+- '[[Changes/Devin/2026-08-07-automations-api-and-terraform-provider|Automations API
+  and Terraform Provider]]'
 - '[[Changes/Google Antigravity/2026-08-07-conversations-started-by-background-automations-no-longer-disappear-from-the-sid|Conversations
   started by background automations no longer disappear from the sidebar list]]'
 source_release: '[[Releases/OpenHands/openhands-2026-08-07-v1-11-0-github-366925866-b56d8fd7|openhands-2026-08-07-v1-11-0-github-366925866-b56d8fd7]]'

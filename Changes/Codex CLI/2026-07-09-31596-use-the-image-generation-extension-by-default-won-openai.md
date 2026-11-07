@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 67ce892937a37879d4a1948cc5839df541fe3031c14bf1d487a6cd68ff5e9c8d
+machine_hash: 340d877c5c9d424c6b0e604d0da85bc278040e321de1a0be865e2a289959d00c
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -41,8 +41,8 @@ record:
   title: '#31596 Use the image generation extension by default @won-openai'
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-06-30-generated-images-from-a-remote-codex-app-server-now-arrive-as-attachments-instea|Generated
-  images from a remote Codex app-server now arrive as attachments instead…]]'
+- '[[Changes/Recraft/2026-07-01-we-ve-added-nano-banana-2-lite-for-image-generation-in-recraft-studio-available|Recraft
+  adds Nano Banana 2 Lite for image generation in Recraft Studio]]'
 - '[[Changes/Codex CLI/2026-07-08-3-image-generation-changes-in-rust-v0-143-0|3 Image
   Generation changes in rust-v0.143.0]]'
 - '[[Changes/Lovable/2026-07-08-images-lovable-generates-are-labeled-as-ai-generated|Images

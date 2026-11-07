@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: video-generation
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 60ba0e9ee30bd2cc325621bf2af1b538dd22016315b0b70d0a94d1545d01e26b
+machine_hash: 8190fcfb110f8a2e801217b0f6b6e15d63fe030347446b0fe6a1d63579510c18
 product: openclaw
 product_name: OpenClaw
 record:
@@ -43,10 +43,10 @@ record:
     text…
   type: change
 related_changes:
-- '[[Changes/HeyGen/2026-10-13-video-plan-redesigned|Video Plan, redesigned]]'
-- '[[Changes/HeyGen/2026-10-13-heygen-video-1-0-api|HeyGen Video 1.0 API]]'
 - '[[Changes/Qoder/2026-10-22-video-generation-and-preview-generate-videos-through-conversation-check-their-st|Video
   generation and preview]]'
+- '[[Changes/Krea/2026-10-26-kling-4-0-for-video|Kling 4.0 for video]]'
+- '[[Changes/Krea/2026-10-28-seedance-in-the-krea-api|Seedance in the Krea API]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-10-29-v2026-10-9-69976f84|openclaw-2026-10-29-v2026-10-9-69976f84]]'
 source_type: openclaw_changelog
 theme: video-generation
@@ -84,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Video Generation
 
-- Earlier: 2026-10-22 · Qoder · [[Changes/Qoder/2026-10-22-video-generation-and-preview-generate-videos-through-conversation-check-their-st|Video generation and preview]]
+- Earlier: 2026-10-28 · Krea · [[Changes/Krea/2026-10-28-seedance-in-the-krea-api|Seedance in the Krea API]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

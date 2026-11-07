@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 71b2b519a773e19bfb200154c189196140022ecdf67c1104dbca04fdbe089abf
+machine_hash: 5557ca331d34b83d2e2ce50fa4543de9f31752e9568c737b35ecd7c74b0b7448
 product: dify
 product_name: Dify
 record:
@@ -76,7 +76,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2023-09-27 · Cursor · [[Changes/Cursor/2023-09-27-you-can-now-use-an-early-preview-of-edit-in-the-chat-it-s-significantly-faster-a|/edit in chat]]
-- Later: 2023-10-29 · Aider · [[Changes/Aider/2023-10-29-2-editor-experience-changes-in-v0-16-0|2 Editor Experience changes in v0.16.0]]
+- Later: 2023-10-18 · Raycast · [[Changes/Raycast/2023-10-18-misc-you-can-now-customize-the-path-environment-variable-passed-when-launching-a|Misc : You can now customize the PATH environment variable passed when launching…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

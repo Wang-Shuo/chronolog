@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 2f5938e43068fadc60c619e2ef042f7e1ffa66fe3b2d6a3e419e72cd556251cd
+machine_hash: 595877ead3a324e5e839b29e296997b3c247ffe0cde9ba33e2ef7119c63e7c1c
 product: claude
 product_name: Claude
 record:
@@ -47,12 +47,12 @@ record:
   title: Creating and editing files with Claude for Pro plans and mobile
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-09-08-3211-fixes-image-pasting-from-finder-with-ctrl-v-on-macos|♯3211
-  fixes image pasting from Finder with ctrl+v on macOS]]'
-- '[[Changes/Cline/2025-09-11-deep-planning-improvements-optimized-prompts-for-windows-powershell-environments|Deep
-  Planning Improvements]]'
 - '[[Changes/ChatGPT/2025-09-17-the-thinking-time-toggle-is-live-today-on-chatgpt-com-settings-you-choose-on-the|The
   thinking-time toggle is live today on chatgpt.com]]'
+- '[[Changes/Raycast/2025-09-18-app-icons-updated-custom-app-icons-with-a-nested-concentric-border-to-align-with|App
+  Icons : Updated custom app icons with a nested concentric border to align…]]'
+- '[[Changes/Superwhisper/2025-09-23-macos-26-design-ultra-translation-updates|macOS
+  26 Design & Ultra Translation Updates]]'
 source_release: '[[Releases/Claude/claude-2025-09-29-2025-09-29-3f5c7c91|claude-2025-09-29-2025-09-29-3f5c7c91]]'
 source_type: claude_changelog
 theme: mobile-desktop
@@ -81,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2025-09-17 · ChatGPT · [[Changes/ChatGPT/2025-09-17-the-thinking-time-toggle-is-live-today-on-chatgpt-com-settings-you-choose-on-the|The thinking-time toggle is live today on chatgpt.com]]
+- Earlier: 2025-09-23 · Superwhisper · [[Changes/Superwhisper/2025-09-23-macos-26-design-ultra-translation-updates|macOS 26 Design & Ultra Translation Updates]]
 - Later: 2025-10-01 · Cline · [[Changes/Cline/2025-10-01-2-mobile-and-desktop-changes-in-v3-32-6|2 Mobile and Desktop changes in v3.32.6]]
 <!-- chronolog:end -->
 

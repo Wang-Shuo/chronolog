@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 52b2bb5b4deec51cf3405b7944f8347104ffd9e1691d9771de99250ee5e640f0
+machine_hash: a3ec1eeee2098b3b4c52c4f2387dc107a445a58f11f4a48ac97e84f2e76a989a
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -41,12 +41,12 @@ record:
   title: '#38024 Expose image generation usage-limit failures @copyberry'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-07-29-34850-disable-image-generation-for-free-plan-accounts-copyberry|♯34850
-  Disable image generation for Free-plan accounts @copyberry]]'
 - '[[Changes/ChatGPT/2026-07-31-on-august-30-2026-we-re-retiring-the-official-dall-e-gpt-in-chatgpt-we-encourage|Retiring
   the DALL·E GPT]]'
 - '[[Changes/Ollama/2026-08-04-experimental-image-generation-has-been-temporarily-removed-continue-using-0-32-5|Experimental
   image generation has been temporarily removed]]'
+- '[[Changes/AnythingLLM/2026-08-13-3-image-generation-changes-in-v1-16-0|3 Image
+  Generation changes in v1.16.0]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-08-18-rust-v0-148-0-github-372686337-4265c0ae|codex-cli-2026-08-18-rust-v0-148-0-github-372686337-4265c0ae]]'
 source_type: github_releases
 theme: image-generation
@@ -87,7 +87,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Image Generation
 
-- Earlier: 2026-08-04 · Ollama · [[Changes/Ollama/2026-08-04-experimental-image-generation-has-been-temporarily-removed-continue-using-0-32-5|Experimental image generation has been temporarily removed]]
+- Earlier: 2026-08-13 · AnythingLLM · [[Changes/AnythingLLM/2026-08-13-3-image-generation-changes-in-v1-16-0|3 Image Generation changes in v1.16.0]]
 - Later: 2026-08-20 · Codex CLI · [[Changes/Codex CLI/2026-08-20-39072-persist-generated-images-through-turn-executors-copyberry|♯39072 Persist generated images through turn executors @copyberry]]
 <!-- chronolog:end -->
 

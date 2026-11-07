@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c742373a2a1cb3426a6e9f442c39f58eeb689f802702b97c79b1598e41742f1f
+machine_hash: a6c4e7af6be891528dd577bbdf1df766139b65117a5af62b0411405587a4ed68
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,9 +45,9 @@ record:
   title: 2 Account and Access changes in v1.0.52
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-05-21-2-account-and-access-changes-in-v1-15-7|2 Account
-  and Access changes in v1.15.7]]'
-- '[[Changes/OpenCode/2026-05-21-added-grok-oauth-sign-in|Added Grok OAuth sign-in]]'
+- '[[Changes/Devin/2026-05-22-gitlab-oauth-scope-and-token-refresh|GitLab OAuth Scope
+  and Token Refresh]]'
+- '[[Changes/Devin/2026-05-22-mcp-oauth-resource-parameter|MCP OAuth Resource Parameter]]'
 - '[[Changes/OpenCode/2026-05-22-core-let-mcp-oauth-configs-set-a-callback-port-and-include-configured-scopes-in|Core
   Let MCP OAuth configs set a callback port and include configured scopes…]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-05-23-v1-0-52-github-328402909-801444d4|github-copilot-cli-2026-05-23-v1-0-52-github-328402909-801444d4]]'

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5c350ab2db45c68aa6cd14a00922ecef90f177dda192fd6c0eead8145ac7ad89
+machine_hash: 63752d761deeb86dd074fc65e4511a9ff26a228ea67b0095fa46a0dc796ae5da
 product: open-webui
 product_name: Open WebUI
 record:
@@ -45,9 +45,10 @@ record:
   title: "**\U0001F512 Chat Controls Permissions**"
   type: change
 related_changes:
-- '[[Changes/Replit/2024-12-27-teams-and-enterprise|Teams and Enterprise]]'
 - '[[Changes/Replit/2025-01-03-teams-and-enterprise|Teams and Enterprise]]'
 - '[[Changes/Replit/2025-01-10-teams-and-enterprise|Teams and Enterprise]]'
+- '[[Changes/Devin/2025-01-16-introducing-devin-enterprise-accounts|Introducing Devin
+  enterprise accounts]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-01-22-v0-5-5-github-196189629-8d5ecf1d|open-webui-2025-01-22-v0-5-5-github-196189629-8d5ecf1d]]'
 source_type: github_releases
 theme: enterprise-admin
@@ -81,7 +82,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2025-01-10 · Replit · [[Changes/Replit/2025-01-10-teams-and-enterprise|Teams and Enterprise]]
+- Earlier: 2025-01-16 · Devin · [[Changes/Devin/2025-01-16-introducing-devin-enterprise-accounts|Introducing Devin enterprise accounts]]
 - Later: 2025-02-04 · Descript · [[Changes/Descript/2025-02-04-for-enterprise-users|For Enterprise users]]
 <!-- chronolog:end -->
 

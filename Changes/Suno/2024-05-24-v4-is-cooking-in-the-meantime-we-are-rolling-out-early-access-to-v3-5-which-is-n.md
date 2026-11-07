@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2be6ec13f9c03640878dfcc58b2404a6616df80461a87ace81907281f2fbfd81
+machine_hash: 337f25fd0bfdfd5d6ff16583adf60cc523fe650d756f5142640b15278a45e4f7
 product: suno
 product_name: Suno
 record:
@@ -50,8 +50,8 @@ record:
   title: v4 is cooking
   type: change
 related_changes:
-- '[[Changes/Midjourney/2024-04-27-room-plans-hopefully-next-week|Room plans (hopefully
-  next week)]]'
+- '[[Changes/Superwhisper/2024-04-30-make-sure-system-audio-recording-is-stopped-when-recording-is-completed|Make
+  sure system audio recording is stopped when recording is completed]]'
 - '[[Changes/Synthesia/2024-05-07-clone-your-voice-in-english-and-use-it-in-29-other-languages-the-recording-takes|Voice
   Cloning: your voice in 29 languages]]'
 - '[[Changes/Dify/2024-05-09-2-voice-and-audio-changes-in-0-6-7|2 Voice and Audio

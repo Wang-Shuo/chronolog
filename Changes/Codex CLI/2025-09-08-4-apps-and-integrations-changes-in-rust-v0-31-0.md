@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3b5d2c1cfc6b9163d544bf14afbc0e70c8df1b2c582ad160981a89aff28f28a0
+machine_hash: b1a1b3fe655efc2a5482fb1c26b6bd5c5a7ec74b6217865a62e925b115e5d53b
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -49,10 +49,9 @@ record:
   title: 4 Apps and Integrations changes in rust-v0.31.0
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-09-04-17-apps-and-integrations-changes-in-v0-3-0|17 Apps
-  and Integrations changes in v0.3.0]]'
 - '[[Changes/Codex CLI/2025-09-05-4-apps-and-integrations-changes-in-rust-v0-30-0|4
   Apps and Integrations changes in rust-v0.30.0]]'
+- '[[Changes/Devin/2025-09-05-enhanced-mcp-configuration|Enhanced MCP Configuration]]'
 - '[[Changes/Replit/2025-09-05-gcp-marketplace-integration|GCP Marketplace integration]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-09-08-rust-v0-31-0-github-245666045-ad57a22f|codex-cli-2025-09-08-rust-v0-31-0-github-245666045-ad57a22f]]'
 source_type: github_releases

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 56f6a3339cf04eedac24953f491bb1cb1dc976b73ff5d7b4df3e4197f7cf71c0
+machine_hash: b7326f765afb1b46ccee85ae8c9c9f6000321d52a2c3afbbe8e62d959c82a969
 product: gamma
 product_name: Gamma
 record:
@@ -45,11 +45,11 @@ record:
     you can…
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2025-08-04-sdk-releases|SDK Releases]]'
-- '[[Changes/Gemini CLI/2025-08-05-24-apps-and-integrations-changes-in-v0-1-17|24
-  Apps and Integrations changes in v0.1.17]]'
 - '[[Changes/Gemini CLI/2025-08-06-26-apps-and-integrations-changes-in-v0-1-18|26
   Apps and Integrations changes in v0.1.18]]'
+- '[[Changes/Devin/2025-08-08-perplexity-mcp-server|Perplexity MCP Server]]'
+- '[[Changes/Devin/2025-08-08-jira-integration-for-enterprises|Jira Integration for
+  Enterprises]]'
 source_release: '[[Releases/Gamma/gamma-2025-08-08-6896713ce0acab0ed6a73bed-f04c3299|gamma-2025-08-08-6896713ce0acab0ed6a73bed-f04c3299]]'
 source_type: gamma_changelog
 theme: apps-integrations
@@ -78,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-08-06 · Gemini CLI · [[Changes/Gemini CLI/2025-08-06-26-apps-and-integrations-changes-in-v0-1-18|26 Apps and Integrations changes in v0.1.18]]
+- Earlier: 2025-08-08 · Devin · [[Changes/Devin/2025-08-08-jira-integration-for-enterprises|Jira Integration for Enterprises]]
 - Later: 2025-08-09 · Open WebUI · [[Changes/Open WebUI/2025-08-09-7-apps-and-integrations-changes-in-v0-6-19|7 Apps and Integrations changes in v0.6.19]]
 <!-- chronolog:end -->
 

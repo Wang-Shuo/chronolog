@@ -5,20 +5,20 @@ description: 'OpenClaw · 2026-10-10 · Accessibility and Localization: 2 change
   v2026.10.1 — Integration setup and recovery. Voice Call keeps an active call''s
   recorded…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-09-11-chatgpt-now-supports-a-limited-selection-of-languages-in-the-interface|ChatGPT
-    now supports a limited selection of languages in the interface]]'
+  first_in_tracked: '[[Changes/Raycast/2020-11-19-improved-searching-for-localized-application-and-preference-names|Improved
+    searching for localized application and preference names]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1125
+  lag_days: 2151
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: accessibility-localization
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9ca35e5ebf2b0303920b10732949884cb25483285b66c4dc30c1bef2e6aaa61c
+machine_hash: e471e5490d515844e1fbcf7584a9bf14621819bfcc22305c950add4bcc30d150
 product: openclaw
 product_name: OpenClaw
 record:
@@ -52,12 +52,12 @@ record:
   title: 2 Accessibility and Localization changes in v2026.10.1
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-01-changed-screen-reader-mode-to-write-new-or-changed-lines-without-first-pausing-w|Changed
-  screen reader mode to write new or changed lines without first pausing…]]'
-- '[[Changes/Claude Code/2026-10-02-2-accessibility-and-localization-changes-in-v2-1-288|2
-  Accessibility and Localization changes in v2.1.288]]'
 - '[[Changes/Claude Code/2026-10-05-vscode-added-a-screen-reader-announcement-message-queued-when-you-send-a-message|VSCode
   Added a screen reader announcement, "Message queued.", when you send…]]'
+- '[[Changes/Raycast/2026-10-05-root-search-added-direct-search-results-for-more-settings-including-accessibilit|Root
+  Search : Added direct search results for more settings, including Accessibility…]]'
+- '[[Changes/Raycast/2026-10-09-root-search-localized-application-names-should-now-correctly-be-searchable|Root
+  Search : Localized application names should now correctly be searchable]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-10-10-v2026-10-1-d64e4e93|openclaw-2026-10-10-v2026-10-1-d64e4e93]]'
 source_type: openclaw_changelog
 theme: accessibility-localization
@@ -112,14 +112,14 @@ Source: https://docs.openclaw.ai/releases/2026.10.1
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Accessibility and Localization
 
-- Earlier: 2026-10-05 · Claude Code · [[Changes/Claude Code/2026-10-05-vscode-added-a-screen-reader-announcement-message-queued-when-you-send-a-message|VSCode Added a screen reader announcement, "Message queued.", when you send…]]
-- Later: 2026-10-20 · Claude Code · [[Changes/Claude Code/2026-10-20-vscode-added-a-running-start-up-hooks-spinner-status-with-a-screen-reader-announ|VSCode Added a "Running start-up hooks" spinner status, with a screen reader…]]
+- Earlier: 2026-10-09 · Raycast · [[Changes/Raycast/2026-10-09-root-search-localized-application-names-should-now-correctly-be-searchable|Root Search : Localized application names should now correctly be searchable]]
+- Later: 2026-10-14 · Devin · [[Changes/Devin/2026-10-14-chat-width-preference|Chat Width Preference]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-11 · ChatGPT · [[Changes/ChatGPT/2023-09-11-chatgpt-now-supports-a-limited-selection-of-languages-in-the-interface|ChatGPT now supports a limited selection of languages in the interface]]
+- Earliest same-theme entry in the tracked set: 2020-11-19 · Raycast · [[Changes/Raycast/2020-11-19-improved-searching-for-localized-application-and-preference-names|Improved searching for localized application and preference names]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

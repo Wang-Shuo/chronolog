@@ -10,12 +10,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 48ae0a05327bf00ac32e31f4ac77e2f07fc86f4c9ed334eca51a62c4d3557715
+machine_hash: 73834e41455259b7b13c225a3f66165cb0bb9185b68b69c56d5128f2bfc2969f
 product: descript
 product_name: Descript
 record:
@@ -52,11 +52,11 @@ record:
   title: '[Multitrack screen…'
   type: change
 related_changes:
-- '[[Changes/Notion/2022-08-29-you-can-now-re-order-your-favorites-section-in-the-home-tab-on-ios|Re-order
-  your "Favorites" section in the home tab on iOS]]'
 - '[[Changes/Notion/2022-09-13-editor-bug-bash|Editor bug bash]]'
 - '[[Changes/Notion/2022-10-12-choosing-dark-light-mode-from-one-tab-will-instantly-take-effect-on-all-other-op|Choosing
   Dark/Light mode from one tab will instantly take effect on all other open tabs]]'
+- '[[Changes/Raycast/2022-10-12-tag-editor-now-adjusts-height-correctly-when-loading-initial-content|Tag
+  Editor : Now adjusts height correctly when loading initial content]]'
 source_release: '[[Releases/Descript/descript-2022-11-15-6390ca244a4a0d64fa5651e3-75c38e8c|descript-2022-11-15-6390ca244a4a0d64fa5651e3-75c38e8c]]'
 source_type: canny_changelog
 theme: editor-experience
@@ -89,7 +89,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2022-10-12 · Notion · [[Changes/Notion/2022-10-12-choosing-dark-light-mode-from-one-tab-will-instantly-take-effect-on-all-other-op|Choosing Dark/Light mode from one tab will instantly take effect on all other open tabs]]
+- Earlier: 2022-10-12 · Raycast · [[Changes/Raycast/2022-10-12-tag-editor-now-adjusts-height-correctly-when-loading-initial-content|Tag Editor : Now adjusts height correctly when loading initial content]]
 - Later: 2022-11-17 · Notion · [[Changes/Notion/2022-11-17-notion-ai-in-private-alpha|Notion AI (in private alpha)]]
 <!-- chronolog:end -->
 

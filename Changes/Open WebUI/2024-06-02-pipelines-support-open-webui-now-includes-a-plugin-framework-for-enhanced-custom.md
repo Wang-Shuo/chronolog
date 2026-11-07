@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 68a391825573102f34a94056e113ff2c2247f9b4880004f281faa4b908c4184f
+machine_hash: c6da15526bdda564f5e5d18fe7a4442dc19a270761128467076a7a19c6fe6558
 product: open-webui
 product_name: Open WebUI
 record:
@@ -63,8 +63,8 @@ record:
   title: "**\U0001F527 Pipelines Support**"
   type: change
 related_changes:
-- '[[Changes/Midjourney/2024-03-13-hey-everyone-here-we-need-to-halt-our-free-gpu-rewards-for-image-ranking-until-f|Hey
-  @everyone @here we need to halt our free-gpu rewards for image-ranking until…]]'
+- '[[Changes/Raycast/2024-03-20-my-schedule-add-action-to-list-and-copy-information-about-specific-attendees|My
+  Schedule: Add action to list and copy information about specific attendees]]'
 - '[[Changes/Dify/2024-04-08-targeting-automation-and-batch-processing-this-is-ideal-for-translation-data-ana|Targeting
   Automation and Batch Processing]]'
 - '[[Changes/Notion/2024-04-30-automate-notifications-for-projects|Automate notifications

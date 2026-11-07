@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7f01a9d03d58c0744e3dfb4e43d6fc85800b99c0dac6ae26b1ca7b15a581b586
+machine_hash: b3aa7a84bdeb193877901680ccfaefad4c6e8951ce19eca9f19bcc53d79491f4
 product: dify
 product_name: Dify
 record:
@@ -43,12 +43,10 @@ record:
   title: 2 Developer Workflow changes in 1.14.0
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-04-28-3-developer-workflow-changes-in-v0-40-0|3 Developer
-  Workflow changes in v0.40.0]]'
-- '[[Changes/OpenCode/2026-04-28-4-developer-workflow-changes-in-v1-14-29|4 Developer
-  Workflow changes in v1.14.29]]'
 - '[[Changes/Cursor/2026-04-29-added-first-class-run-streaming-with-sse-events-reconnect-support-via-last-event|Added
   first-class run streaming with SSE events, reconnect support…]]'
+- '[[Changes/Devin/2026-04-29-pr-digest-list-redesign|PR Digest List Redesign]]'
+- '[[Changes/Devin/2026-04-29-pr-auto-close-removed|PR Auto-Close Removed]]'
 source_release: '[[Releases/Dify/dify-2026-04-29-1-14-0-github-314986233-63073e86|dify-2026-04-29-1-14-0-github-314986233-63073e86]]'
 source_type: github_releases
 theme: developer-workflow
@@ -96,7 +94,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.14.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-04-29 · Cursor · [[Changes/Cursor/2026-04-29-added-first-class-run-streaming-with-sse-events-reconnect-support-via-last-event|Added first-class run streaming with SSE events, reconnect support…]]
+- Earlier: 2026-04-29 · Devin · [[Changes/Devin/2026-04-29-pr-auto-close-removed|PR Auto-Close Removed]]
 - Later: 2026-04-29 · OpenCode · [[Changes/OpenCode/2026-04-29-2-developer-workflow-changes-in-v1-14-30|2 Developer Workflow changes in v1.14.30]]
 <!-- chronolog:end -->
 

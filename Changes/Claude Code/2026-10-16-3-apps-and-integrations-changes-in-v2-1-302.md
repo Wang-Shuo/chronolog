@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0cb8e26606a13341b35fac28d708066f15f88b773039273a32d3709a85d2bc87
+machine_hash: 5ca80c9cfb0326bb56125ae521d5bd1ad3ed87995fc7f9cd46b2a7b00daf2dfc
 product: claude-code
 product_name: Claude Code
 record:
@@ -95,7 +95,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.302
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-10-16 · ChatGPT · [[Changes/ChatGPT/2026-10-16-improved-use-of-plugins-and-tools-to-carry-out-tasks|Improved use of plugins and tools to carry out tasks]]
-- Later: 2026-10-16 · Lovable · [[Changes/Lovable/2026-10-16-connect-your-app-to-pledge|Connect your app to Pledge]]
+- Later: 2026-10-16 · Devin · [[Changes/Devin/2026-10-16-google-calendar-suggest-meeting-times|Google Calendar: Suggest Meeting Times]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

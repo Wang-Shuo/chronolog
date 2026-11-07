@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 11674666e6a591adcc513149213494c8d2c2fdb72b2f55297f2b68381c223e61
+machine_hash: 596287118aba88a995fc62118841f4ef5f7bfb7c325c33f076b8e2c602f5503f
 product: heygen
 product_name: HeyGen
 record:
@@ -46,9 +46,10 @@ record:
   title: Audio translation is now unlimited
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-02-02-new-schemas|New Schemas]]'
 - '[[Changes/ElevenLabs/2026-02-02-widget-packages|Widget Packages]]'
 - '[[Changes/ElevenLabs/2026-02-02-react-and-client-sdks|React and Client SDKs]]'
+- '[[Changes/Raycast/2026-02-04-voice-transcription-now-filters-out-silence|Voice
+  : Transcription now filters out silence]]'
 source_release: '[[Releases/HeyGen/heygen-2026-02-06-https-heygen-noticeable-news-publications-updates-to-premium-fea-0e6f4b88|heygen-2026-02-06-https-heygen-noticeable-news-publications-updates-to-premium-fea-0e6f4b88]]'
 source_type: heygen_changelog
 theme: voice
@@ -89,7 +90,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-02-02 · ElevenLabs · [[Changes/ElevenLabs/2026-02-02-react-and-client-sdks|React and Client SDKs]]
+- Earlier: 2026-02-04 · Raycast · [[Changes/Raycast/2026-02-04-voice-transcription-now-filters-out-silence|Voice : Transcription now filters out silence]]
 - Later: 2026-02-10 · Descript · [[Changes/Descript/2026-02-10-transcribe-into-uk-english|Transcribe into UK English]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 760561746c8de7fc2ce9ab6d12aa552e82111d0cdd021d843bd8115aaa0084f5
+machine_hash: 9f2340305f3fe35cb5c2b065e0a36be32efff3a6bfc2d97d5497f399c5dc877a
 product: cline
 product_name: Cline
 record:
@@ -43,10 +43,10 @@ record:
   title: Separate plan act model settings
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-07-19-as-of-https-github-com-openai-codex-pull-1594-we-now-stream-the-response-from-th|As
-  of (source link) we now stream the response…]]'
 - '[[Changes/Gemini CLI/2025-07-19-4-model-support-changes-in-v0-1-13|4 Model Support
   changes in v0.1.13]]'
+- '[[Changes/LM Studio/2025-07-19-added-tool-calling-support-for-mistral-v13-tokenizer-models-with-proper-chat-tem|Added
+  tool calling support for Mistral v13 tokenizer models (with proper chat templates)]]'
 - "[[Changes/Open WebUI/2025-07-19-chat-id-header-forwarding-ollama-and-openai-router-requests-now-include-the-chat|\U0001F4E1
   Chat ID Header Forwarding]]"
 source_release: '[[Releases/Cline/cline-2025-07-22-v3-19-8-github-234341731-78a40b25|cline-2025-07-22-v3-19-8-github-234341731-78a40b25]]'
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2025-07-19 · Open WebUI · [[Changes/Open WebUI/2025-07-19-chat-id-header-forwarding-ollama-and-openai-router-requests-now-include-the-chat|📡 Chat ID Header Forwarding]]
-- Later: 2025-07-23 · Cline · [[Changes/Cline/2025-07-23-adding-support-for-new-models-qwen-3-models-on-qwen-provider-by-arafatkatze-in-h|Adding support for new models Qwen 3 models on Qwen provider]]
+- Later: 2025-07-22 · LM Studio · [[Changes/LM Studio/2025-07-22-added-think-toggle-button-into-chat-input-for-models-that-support-turning-thinki|Added "Think" toggle button into chat input for models that support turning thinking…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

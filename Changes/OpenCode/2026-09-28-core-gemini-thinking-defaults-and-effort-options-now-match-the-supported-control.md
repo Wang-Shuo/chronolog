@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 95f3cd8afd6e1edaa840659862512db39e20e9fd74408dab17d94920824babd6
+machine_hash: 72fb039c17687d990c4cf4ff928dedae2e96e1796e891d78e13048662feb4353
 product: opencode
 product_name: OpenCode
 record:
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-09-28 · Ollama · [[Changes/Ollama/2026-09-28-3-model-support-changes-in-v0-35-0|3 Model Support changes in v0.35.0]]
-- Later: 2026-09-29 · ChatGPT · [[Changes/ChatGPT/2026-09-29-gpt-6-1-sol-improves-on-gpt-6-sol-in-agentic-coding-computer-use-and-professiona-815850|GPT-6.1 Sol in ChatGPT Work and Codex]]
+- Later: 2026-09-28 · Raycast · [[Changes/Raycast/2026-09-28-extensions-can-now-provide-their-own-ai-models-to-raycast-just-install-a-compati|Extensions can now provide their own AI models to Raycast]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

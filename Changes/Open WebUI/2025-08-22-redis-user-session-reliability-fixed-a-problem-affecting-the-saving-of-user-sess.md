@@ -14,12 +14,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 87b7667323d3d864c7b7ef699219e91eb45ed92c0dcef38e45b1ccfe30c61669
+machine_hash: dbc87e67b0299e8369c6f461f4939153d87556167db5aa154642c31bfa0520e7
 product: open-webui
 product_name: Open WebUI
 record:
@@ -46,12 +46,11 @@ record:
   title: "\U0001F6E1️ **Redis User Session Reliability**"
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-08-18-feat-oauth-make-oauth-client-a-singleton-to-survive-cache-failures-by-mboshernit|feat(oauth):
-  Make oauth client a singleton to survive cache failures]]'
 - '[[Changes/Codex CLI/2025-08-20-9-account-and-access-changes-in-rust-v0-23-0|9 Account
   and Access changes in rust-v0.23.0]]'
 - '[[Changes/Open WebUI/2025-08-21-3-account-and-access-changes-in-v0-6-23|3 Account
   and Access changes in v0.6.23]]'
+- '[[Changes/Devin/2025-08-22-figma-mcp-oauth-support|Figma MCP OAuth Support]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-08-22-v0-6-24-github-241778975-2cbb20a7|open-webui-2025-08-22-v0-6-24-github-241778975-2cbb20a7]]'
 source_type: github_releases
 theme: account-access
@@ -82,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2025-08-21 · Open WebUI · [[Changes/Open WebUI/2025-08-21-3-account-and-access-changes-in-v0-6-23|3 Account and Access changes in v0.6.23]]
+- Earlier: 2025-08-22 · Devin · [[Changes/Devin/2025-08-22-figma-mcp-oauth-support|Figma MCP OAuth Support]]
 - Later: 2025-08-26 · Codex CLI · [[Changes/Codex CLI/2025-08-26-2528-fix-login-for-internal-employees|♯2528 Fix login for internal employees]]
 <!-- chronolog:end -->
 

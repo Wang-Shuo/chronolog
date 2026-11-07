@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: f6fe0a7dad05b56272187b16624d8a42e990909467014ef859ca2e84d11e0ee6
+machine_hash: 966dd67a86aa205187f81bebfff02af68c454bc085e870a92261af6e75ed3d2d
 product: ollama
 product_name: Ollama
 record:
@@ -79,7 +79,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-05-12 · Gemini CLI · [[Changes/Gemini CLI/2026-05-12-5-apps-and-integrations-changes-in-v0-42-0|5 Apps and Integrations changes in v0.42.0]]
-- Later: 2026-05-12 · v0 · [[Changes/v0/2026-05-12-custom-auth-headers-for-connected-mcp-servers-no-longer-get-stripped-after-the-f|Custom auth headers for connected MCP servers no longer get stripped after the first…]]
+- Later: 2026-05-12 · Raycast · [[Changes/Raycast/2026-05-12-clipboard-history-improved-color-categorization-when-copying-unqualified-hex-cod|Clipboard History : Improved color categorization when copying unqualified hex codes…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

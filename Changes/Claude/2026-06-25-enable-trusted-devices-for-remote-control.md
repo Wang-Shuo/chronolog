@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 8a90ddcc7ab8c3b182ddebd706f29e2c8574fed3677e0a665204bc0ad0225d1c
+machine_hash: e81e9a4c5bd0029869460c7db2ac0518836d2240bb1ceecb93748f8f6da6b8d3
 product: claude
 product_name: Claude
 record:
@@ -46,12 +46,12 @@ record:
   title: Enable Trusted Devices for Remote Control
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-06-22-filter-audit-logs-by-restricted-projects|Filter audit
-  logs by restricted projects]]'
-- '[[Changes/Lovable/2026-06-22-tanstack-start-is-now-the-default-for-enterprise-apps|TanStack
-  Start is now the default for Enterprise apps]]'
 - '[[Changes/Lovable/2026-06-23-workspace-insights-for-enterprise-governance|Workspace
   insights for Enterprise governance]]'
+- '[[Changes/Devin/2026-06-24-add-enterprise-members-when-sso-is-required|Add Enterprise
+  Members When SSO Is Required]]'
+- '[[Changes/Devin/2026-06-24-enterprise-wide-snapshot-build-schedule|Enterprise Wide
+  Snapshot Build Schedule]]'
 source_release: '[[Releases/Claude/claude-2026-06-25-2026-06-25-9cc4e699|claude-2026-06-25-2026-06-25-9cc4e699]]'
 source_type: claude_changelog
 theme: enterprise-admin
@@ -78,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-06-23 · Lovable · [[Changes/Lovable/2026-06-23-workspace-insights-for-enterprise-governance|Workspace insights for Enterprise governance]]
+- Earlier: 2026-06-24 · Devin · [[Changes/Devin/2026-06-24-enterprise-wide-snapshot-build-schedule|Enterprise Wide Snapshot Build Schedule]]
 - Later: 2026-06-25 · Lovable · [[Changes/Lovable/2026-06-25-detach-a-design-system-from-a-project|Detach a design system from a project]]
 <!-- chronolog:end -->
 

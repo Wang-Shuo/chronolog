@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6ce07c48262faadb2b4bf60c4e6cbededa22989dad5e9229711756d0cf450258
+machine_hash: 8af50e8a3f17d38c6ee48ec56c74a47ffc9edd44c3ffd38e784678c9f3210bac
 product: v0
 product_name: v0
 record:
@@ -95,7 +95,7 @@ Source: https://v0.app/changelog#2026-07-07
 ## Nearby in Interface Experience
 
 - Earlier: 2026-07-07 · OpenCode · [[Changes/OpenCode/2026-07-07-restore-model-details-tooltips-in-the-model-picker|Restore model details tooltips in the model picker]]
-- Later: 2026-07-08 · HeyGen · [[Changes/HeyGen/2026-07-08-colors-primary-secondary-accent-and-tertiary-colors-are-automatically-detected-f|Colors — primary, secondary, accent, and tertiary colors are automatically detected…]]
+- Later: 2026-07-08 · Devin · [[Changes/Devin/2026-07-08-reorganized-settings-navigation|Reorganized Settings Navigation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

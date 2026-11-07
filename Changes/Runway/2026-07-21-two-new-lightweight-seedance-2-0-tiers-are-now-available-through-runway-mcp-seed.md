@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: video-generation
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: e3ce411b981db294ea6f11ddb690b8efd9f663b813e01a9c30214a16779946d4
+machine_hash: 3a08cdf1ef46391cd6e13f760d6714e4b10094bcc0640eeb3722c32518138970
 product: runway
 product_name: Runway
 record:
@@ -65,8 +65,8 @@ record:
   title: Seedance 2.0 Mini and Fast
   type: change
 related_changes:
-- '[[Changes/Synthesia/2026-06-30-generate-and-edit-video-from-text-image-and-audio-with-gemini-omni-flash-google|Early
-  access: Gemini Omni Flash live in Synthesia]]'
+- '[[Changes/Recraft/2026-07-01-we-ve-added-gemini-omni-flash-for-video-generation-in-recraft-studio-available-t|Recraft
+  adds Gemini Omni Flash for video generation in Recraft Studio]]'
 - '[[Changes/Runway/2026-07-09-studio-s-timeline-editor-now-lives-inside-agent-so-you-can-generate-assemble-ref|Timeline
   in Agent]]'
 - '[[Changes/OpenClaw/2026-07-13-after-one-generated-video-clip-is-ready-a-different-next-clip-can-start-immediat|After

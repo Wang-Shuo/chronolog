@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: fbee6daca2251f5e6625f68b011b3e00972005909506b597f92f28a94ae37e3a
+machine_hash: e010fe0b6e811ebeb1b6ca2efea916c191435105757bac5e0a4cc6070e641925
 product: opencode
 product_name: OpenCode
 record:
@@ -42,10 +42,8 @@ record:
   title: 2 Developer Workflow changes in v1.14.30
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-04-28-4-developer-workflow-changes-in-v1-14-29|4 Developer
-  Workflow changes in v1.14.29]]'
-- '[[Changes/Cursor/2026-04-29-added-first-class-run-streaming-with-sse-events-reconnect-support-via-last-event|Added
-  first-class run streaming with SSE events, reconnect support…]]'
+- '[[Changes/Devin/2026-04-29-pr-digest-list-redesign|PR Digest List Redesign]]'
+- '[[Changes/Devin/2026-04-29-pr-auto-close-removed|PR Auto-Close Removed]]'
 - '[[Changes/Dify/2026-04-29-2-developer-workflow-changes-in-1-14-0|2 Developer Workflow
   changes in 1.14.0]]'
 source_release: '[[Releases/OpenCode/opencode-2026-04-29-v1-14-30-9b0f8a44|opencode-2026-04-29-v1-14-30-9b0f8a44]]'

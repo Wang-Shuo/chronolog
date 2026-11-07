@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ee33ccc87f848e365afee2631e60433114462a269b7d9cd5faceeea13fc57202
+machine_hash: 3e044e4eb12518a93b864c4c57e277bd10895304ebcee2f9e5c45c93a3dacec8
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -52,12 +52,12 @@ record:
   title: 7 Context Window changes in rust-v0.131.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-14-context-shows-correct-token-limits-for-all-models-instead-of-always-showing-128k|/context
-  shows correct token limits for all models instead of always showing 128k]]'
 - '[[Changes/OpenCode/2026-05-15-core-fixed-repeated-auto-compaction-in-sessions-after-compaction-reordered-messa|Core
   Fixed repeated auto-compaction in sessions after compaction reordered messages]]'
 - '[[Changes/OpenCode/2026-05-16-terminal-fixed-async-commands-losing-the-active-instance-context-which-could-bre|Terminal
   Fixed async commands losing the active instance context, which could break…]]'
+- '[[Changes/Recraft/2026-05-17-turn-a-short-prompt-into-a-richer-one-with-one-click-adds-visual-context-style-c|Prompt
+  enhancer]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-05-18-rust-v0-131-0-github-324452638-5f16ff1d|codex-cli-2026-05-18-rust-v0-131-0-github-324452638-5f16ff1d]]'
 source_type: github_releases
 theme: context-window
@@ -111,7 +111,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.131.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-05-16 · OpenCode · [[Changes/OpenCode/2026-05-16-terminal-fixed-async-commands-losing-the-active-instance-context-which-could-bre|Terminal Fixed async commands losing the active instance context, which could break…]]
+- Earlier: 2026-05-17 · Recraft · [[Changes/Recraft/2026-05-17-turn-a-short-prompt-into-a-richer-one-with-one-click-adds-visual-context-style-c|Prompt enhancer]]
 - Later: 2026-05-18 · Lovable · [[Changes/Lovable/2026-05-18-draw-on-images|Draw on images]]
 <!-- chronolog:end -->
 

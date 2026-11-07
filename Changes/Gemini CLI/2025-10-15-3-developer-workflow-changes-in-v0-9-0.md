@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1cb2d25ac70240c4bab2dbf673c1dad9c9a9061faa7023619eb41a19dccd4499
+machine_hash: b7ff2df006a605122029d30ea179e243490c999a95761afd4c901c933c854188
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -46,12 +46,12 @@ record:
   title: 3 Developer Workflow changes in v0.9.0
   type: change
 related_changes:
-- '[[Changes/Cline/2025-10-08-2-developer-workflow-changes-in-v3-32-7|2 Developer
-  Workflow changes in v3.32.7]]'
 - '[[Changes/GitHub Copilot CLI/2025-10-08-added-support-for-multi-line-input-for-terminals-that-support-the-kitty-protocol|Added
   support for multi-line input for terminals that support the Kitty…]]'
 - '[[Changes/Codex CLI/2025-10-09-tui-switch-to-tree-sitter-highlight-bash-highlighting-by-nornagon-openai-in-http|TUI
   Switch to tree-sitter-highlight bash highlighting]]'
+- '[[Changes/Raycast/2025-10-10-2-developer-workflow-changes-in-raycast-windows-0-32|2
+  Developer Workflow changes in Raycast windows 0.32]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-10-15-v0-9-0-github-254729703-41b9b488|gemini-cli-2025-10-15-v0-9-0-github-254729703-41b9b488]]'
 source_type: github_releases
 theme: developer-workflow
@@ -91,7 +91,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.9.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2025-10-09 · Codex CLI · [[Changes/Codex CLI/2025-10-09-tui-switch-to-tree-sitter-highlight-bash-highlighting-by-nornagon-openai-in-http|TUI Switch to tree-sitter-highlight bash highlighting]]
+- Earlier: 2025-10-10 · Raycast · [[Changes/Raycast/2025-10-10-2-developer-workflow-changes-in-raycast-windows-0-32|2 Developer Workflow changes in Raycast windows 0.32]]
 - Later: 2025-10-15 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-10-15-added-terminal-setup-command-to-set-up-multi-line-input-on-terminals-not-impleme|Added /terminal-setup command to set up multi-line input on terminals not…]]
 <!-- chronolog:end -->
 

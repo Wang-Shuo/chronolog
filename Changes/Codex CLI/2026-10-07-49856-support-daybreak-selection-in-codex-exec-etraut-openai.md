@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 13a5571d5acc5c87578c191099d7c83932b957bd03aaaded111cadaa54c55270
+machine_hash: 9ac36db60cc22ab9597baf2272f65dc219db8408b96c1757f1dc14a28c9a4850
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -45,8 +45,8 @@ record:
   title: '#49856 Support Daybreak selection in `codex exec` @etraut-openai'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-10-05-add-a-pre-conversation-ctrl-e-environment-picker-to-switch-between-local-and-clo|Add
-  a pre-conversation Ctrl+E environment picker to switch between local and cloud runs]]'
+- '[[Changes/Raycast/2026-10-05-3-interface-experience-changes-in-raycast-macos-2-6|3
+  Interface Experience changes in Raycast macos 2.6]]'
 - '[[Changes/Claude Code/2026-10-06-improved-the-focus-tip-it-now-invites-you-to-try-focus-view-mid-turn-and-shows-h|Improved
   the /focus tip]]'
 - '[[Changes/OpenHands/2026-10-06-feat-outline-the-back-navigation-control-on-settings-sub-pages-by-errmakov-in-ht|feat:
@@ -92,7 +92,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-10-06 · OpenHands · [[Changes/OpenHands/2026-10-06-feat-outline-the-back-navigation-control-on-settings-sub-pages-by-errmakov-in-ht|feat: outline the back navigation control on settings sub-pages]]
-- Later: 2026-10-07 · Google Antigravity · [[Changes/Google Antigravity/2026-10-07-archived-conversations-in-the-sidebar-now-keep-their-status-and-last-updated-tim|Archived conversations in the sidebar now keep their status and last-updated time…]]
+- Later: 2026-10-07 · Devin · [[Changes/Devin/2026-10-07-command-palette-refinements|Command Palette Refinements]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

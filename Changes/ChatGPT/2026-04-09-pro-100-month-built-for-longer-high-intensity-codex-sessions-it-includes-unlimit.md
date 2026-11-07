@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 195d9b38de93400b2220533e4dd3bff59bcf7ec1ce5197fbe5c97f2440711b4e
+machine_hash: 8079f0d02e9f86133c1a99f23d7341e77cf2aea3e46ed01b91199d3ab87e4101
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -47,10 +47,10 @@ record:
   title: 'Pro ($100/month): Built for longer, high-intensity Codex sessions'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-04-added-per-model-and-cache-hit-breakdown-to-cost-for-subscription-users|Added
-  per-model and cache-hit breakdown to /cost for subscription users]]'
 - '[[Changes/Windsurf/2026-04-06-updated-model-picker-with-pricing-context|Updated
   Model Picker with Pricing Context]]'
+- '[[Changes/Devin/2026-04-08-numerous-smaller-fixes-and-polish-including-sidebar-collapse-state-persistence-s|Numerous
+  smaller fixes and polish, including sidebar collapse state persistence…]]'
 - '[[Changes/Gemini CLI/2026-04-08-docs-update-quotas-and-pricing-by-jkcinouye-in-https-github-com-google-gemini-ge|Docs:
   Update quotas and pricing]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-04-09-new-pro-plan-options-9eccb9c2|chatgpt-2026-04-09-new-pro-plan-options-9eccb9c2]]'
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2026-04-08 · Gemini CLI · [[Changes/Gemini CLI/2026-04-08-docs-update-quotas-and-pricing-by-jkcinouye-in-https-github-com-google-gemini-ge|Docs: Update quotas and pricing]]
-- Later: 2026-04-10 · Replit · [[Changes/Replit/2026-04-10-past-invoices-in-usage-page|Past invoices in usage page]]
+- Later: 2026-04-10 · Devin · [[Changes/Devin/2026-04-10-wiki-effort-level-descriptions|Wiki Effort Level Descriptions]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

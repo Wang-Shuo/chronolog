@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1fb65c4cf502132e26c10f0a1463ce2981019cd190a6b4bf0270cab172da5c13
+machine_hash: 0c25e01bc9911b37d4c8eaff00327c48cb9351925efe3650d2ca29cdda9add80
 product: open-webui
 product_name: Open WebUI
 record:
@@ -64,9 +64,10 @@ record:
   title: 4 Collaboration changes in v0.11.4
   type: change
 related_changes:
-- '[[Changes/Descript/2026-09-17-captions-redesigned|Captions, redesigned]]'
 - '[[Changes/Claude Code/2026-09-18-changed-ultrareview-in-non-interactive-sessions-to-refuse-when-the-repository-ha|Changed
   /ultrareview in non-interactive sessions to refuse when the repository has…]]'
+- '[[Changes/Devin/2026-09-18-mentions-and-session-links-in-microsoft-teams|Mentions
+  and Session Links in Microsoft Teams]]'
 - '[[Changes/OpenClaw/2026-09-19-14-collaboration-changes-in-v2026-9-5|14 Collaboration
   changes in v2026.9.5]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-09-21-v0-11-4-github-393232555-90de9130|open-webui-2026-09-21-v0-11-4-github-393232555-90de9130]]'

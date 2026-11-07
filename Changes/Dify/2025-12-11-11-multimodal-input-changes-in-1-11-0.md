@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2606a81359aa73c78fdd41365cbcc33ba06a57b5ea592b1fe7ccc442ce9528ac
+machine_hash: 56812a38b12f56c45fcc9252d86c6e4acf37f488dc713e59153b595b0aecd7d6
 product: dify
 product_name: Dify
 record:
@@ -65,10 +65,10 @@ record:
   title: 11 Multimodal Input changes in 1.11.0
   type: change
 related_changes:
-- '[[Changes/HeyGen/2025-11-29-we-ve-redesigned-how-video-translation-works-with-two-distinct-engines-built-for|We''ve
-  redesigned how video translation works with two distinct engines built…]]'
 - '[[Changes/HeyGen/2025-11-30-better-control|Better control]]'
 - '[[Changes/HeyGen/2025-11-30-intelligent-render-selection|Intelligent render selection]]'
+- '[[Changes/AnythingLLM/2025-12-09-2-multimodal-input-changes-in-v1-9-1|2 Multimodal
+  Input changes in v1.9.1]]'
 source_release: '[[Releases/Dify/dify-2025-12-11-1-11-0-github-269442254-945416fa|dify-2025-12-11-1-11-0-github-269442254-945416fa]]'
 source_type: github_releases
 theme: multimodal
@@ -132,7 +132,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.11.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Multimodal Input
 
-- Earlier: 2025-11-30 · HeyGen · [[Changes/HeyGen/2025-11-30-intelligent-render-selection|Intelligent render selection]]
+- Earlier: 2025-12-09 · AnythingLLM · [[Changes/AnythingLLM/2025-12-09-2-multimodal-input-changes-in-v1-9-1|2 Multimodal Input changes in v1.9.1]]
 - Later: 2025-12-12 · Synthesia · [[Changes/Synthesia/2025-12-12-view-and-edit-your-full-video-script-in-one-continuous-layout-making-it-easier-t|Review your whole script in Storyboard]]
 <!-- chronolog:end -->
 

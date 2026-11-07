@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 86535e467cce8a18b9094dd7f2dc1b55ac6b942e27c96842e782877bb31aa426
+machine_hash: 505b872eb9e1b2555802000dda4f2720f446f79de491e15e0043bb4deb5d0ea7
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,7 +42,8 @@ record:
   title: Improved streaming performance
   type: change
 related_changes:
-- '[[Changes/Suno/2026-09-02-wavetable-fidelity|Wavetable fidelity]]'
+- '[[Changes/Superwhisper/2026-09-02-other-bug-fixes-and-performance-improvements|Other
+  bug fixes and performance improvements]]'
 - '[[Changes/OpenClaw/2026-09-03-on-linux-managed-local-model-and-embedding-services-are-preferred-as-the-out-of|On
   Linux, managed local model and embedding services are preferred…]]'
 - '[[Changes/Qoder/2026-09-03-faster-app-startup-and-smoother-streaming-in-long-sessions|Faster

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: fd9867c801305126b56b14f2515182b7b4614c0f9e99f523c4db59a05d87b40d
+machine_hash: ddd6b14cb3e2ea979ac189e9cfa0d67fef18021fa16558babd0e5452f5d2da97
 product: runway
 product_name: Runway
 record:
@@ -46,8 +46,7 @@ record:
   title: Project Credit Caps
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-10-08-feat-onboarding-show-the-super-admin-setup-guide-on-enterprise-backends-by-hiept|feat(onboarding):
-  show the Super Admin setup guide on enterprise backends]]'
+- '[[Changes/Devin/2026-10-09-devin-wiki-in-thai|Devin Wiki in Thai]]'
 - '[[Changes/Lovable/2026-10-09-enterprise-credit-balances-now-appear-as-numbers|Enterprise
   credit balances now appear as numbers]]'
 - '[[Changes/Lovable/2026-10-09-publish-every-app-in-your-workspace-under-your-own-domain|Publish

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: b7ca74498ebfb6f31f022a5f5e244a4a4020d411394c675f8c5870f741c69a65
+machine_hash: 1f56b95cc124a47be00e9368907c5e00b855454e30c9999e465d7a00891f16a7
 product: lovable
 product_name: Lovable
 record:
@@ -51,12 +51,10 @@ record:
   title: Preview a remixable project without signing in
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-10-2-interface-experience-changes-in-v2-1-268|2 Interface
-  Experience changes in v2.1.268]]'
-- '[[Changes/Dify/2026-09-10-8-interface-experience-changes-in-1-17-1|8 Interface
-  Experience changes in 1.17.1]]'
-- '[[Changes/Claude Code/2026-09-11-3-interface-experience-changes-in-v2-1-269|3 Interface
-  Experience changes in v2.1.269]]'
+- '[[Changes/Devin/2026-09-11-nested-sidebar-groups-stay-expanded|Nested Sidebar Groups
+  Stay Expanded]]'
+- '[[Changes/Devin/2026-09-11-sidebar-keyboard-navigation|Sidebar Keyboard Navigation]]'
+- '[[Changes/Devin/2026-09-11-jira-site-picker|Jira Site Picker]]'
 source_release: '[[Releases/Lovable/lovable-2026-09-11-2026-09-11-fe1ab3d8|lovable-2026-09-11-2026-09-11-fe1ab3d8]]'
 source_type: lovable_changelog
 theme: interface-experience
@@ -91,7 +89,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-09-11 · Claude Code · [[Changes/Claude Code/2026-09-11-3-interface-experience-changes-in-v2-1-269|3 Interface Experience changes in v2.1.269]]
+- Earlier: 2026-09-11 · Devin · [[Changes/Devin/2026-09-11-jira-site-picker|Jira Site Picker]]
 - Later: 2026-09-11 · OpenClaw · [[Changes/OpenClaw/2026-09-11-5-interface-experience-changes-in-v2026-9-4|5 Interface Experience changes in v2026.9.4]]
 <!-- chronolog:end -->
 

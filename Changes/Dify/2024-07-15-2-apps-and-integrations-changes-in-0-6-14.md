@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 40657d03ad4e0417a03fa950fba85ff1a2ddaedf0b435330bebf38d00a7bf9e8
+machine_hash: d17c5d3dae8c1b266966c847c318cf7305752975535513d1eb10a3bec2e7e3f2
 product: dify
 product_name: Dify
 record:
@@ -44,12 +44,11 @@ record:
   title: 2 Apps and Integrations changes in 0.6.14
   type: change
 related_changes:
-- '[[Changes/Dify/2024-07-08-2-apps-and-integrations-changes-in-0-6-13|2 Apps and
-  Integrations changes in 0.6.13]]'
-- "[[Changes/Open WebUI/2024-07-09-apache-tika-integration-added-support-for-using-apache-tika-as-a-document-loader|\U0001F4C4
-  Apache Tika Integration]]"
-- '[[Changes/OpenHands/2024-07-13-2-apps-and-integrations-changes-in-0-8-0|2 Apps
-  and Integrations changes in 0.8.0]]'
+- '[[Changes/Devin/2024-07-15-integration-for-slack-2-0|Integration for Slack 2.0]]'
+- '[[Changes/Devin/2024-07-15-turn-on-slack-notifications-mid-session|Turn on Slack
+  notifications mid-session]]'
+- '[[Changes/Devin/2024-07-15-seamless-communication-across-slack-channels-and-web-app|Seamless
+  communication across Slack channels and web app]]'
 source_release: '[[Releases/Dify/dify-2024-07-15-0-6-14-github-165452649-ca4802e7|dify-2024-07-15-0-6-14-github-165452649-ca4802e7]]'
 source_type: github_releases
 theme: apps-integrations
@@ -87,8 +86,8 @@ Source: https://github.com/langgenius/dify/releases/tag/0.6.14
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2024-07-13 · OpenHands · [[Changes/OpenHands/2024-07-13-2-apps-and-integrations-changes-in-0-8-0|2 Apps and Integrations changes in 0.8.0]]
-- Later: 2024-07-19 · OpenHands · [[Changes/OpenHands/2024-07-19-5-apps-and-integrations-changes-in-0-8-1|5 Apps and Integrations changes in 0.8.1]]
+- Earlier: 2024-07-15 · Devin · [[Changes/Devin/2024-07-15-seamless-communication-across-slack-channels-and-web-app|Seamless communication across Slack channels and web app]]
+- Later: 2024-07-17 · Raycast · [[Changes/Raycast/2024-07-17-auto-quit-applications|Auto Quit Applications]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: fbeb2993bb85203cfb82ff1ee1ba3996f7f0669323af480f047d9528dcd081ca
+machine_hash: 731f2ec06c1a073ade35acbadbe91142e2e315c9c14ce975bdfd14caa795d145
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,8 +43,8 @@ record:
   title: '[Cloud sessions] Added Claude Code cloud sessions and Remote Control permissions…'
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-10-20-group-your-workspaces-into-an-organization|Group your
-  workspaces into an organization]]'
+- '[[Changes/Devin/2026-10-21-request-access-link-for-repositories-not-yet-in-devin|Request-access
+  Link for Repositories Not Yet in Devin]]'
 - '[[Changes/Lovable/2026-10-21-see-adoption-by-department-without-scim|See adoption
   by department without SCIM]]'
 - '[[Changes/OpenClaw/2026-10-22-2-enterprise-and-administration-changes-in-v2026-10-6|2
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Enterprise and Administration
 
 - Earlier: 2026-10-22 · OpenClaw · [[Changes/OpenClaw/2026-10-22-2-enterprise-and-administration-changes-in-v2026-10-6|2 Enterprise and Administration changes in v2026.10.6]]
-- Later: 2026-10-25 · Open WebUI · [[Changes/Open WebUI/2026-10-25-shared-chat-pages-load-once-chats-opened-under-s-through-a-share-link-or-by-an-a|🔗 Shared chat pages load once. Chats opened under /s/, through a share link…]]
+- Later: 2026-10-23 · Devin · [[Changes/Devin/2026-10-23-download-and-read-blueprint-files|Download and Read Blueprint Files]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

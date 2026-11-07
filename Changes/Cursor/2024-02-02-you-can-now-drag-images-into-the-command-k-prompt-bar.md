@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 623c15ff980b0abd0a42c34629b7c69b31916b303104356893a070c73a2b38ad
+machine_hash: cbb2b3eec11f46631ca2ebd795a005b76245812c3d873640674cecb06201bec7
 product: cursor
 product_name: Cursor
 record:
@@ -43,8 +43,8 @@ record:
   title: Drag images into the Command-K prompt bar!
   type: change
 related_changes:
-- '[[Changes/Dify/2024-01-12-feat-app-sidebar-support-collapse-by-zxhlyh-in-https-github-com-langgenius-dify|feat:
-  app sidebar support collapse]]'
+- '[[Changes/Superwhisper/2024-01-14-onboarding-flow-activation-bug-fix|Onboarding
+  flow activation bug fix]]'
 - '[[Changes/Descript/2024-01-22-animation-curve-presets|Animation Curve Presets]]'
 - '[[Changes/Dify/2024-01-24-for-ease-of-use-tools-has-been-relocated-to-the-main-product-menu-centralizing-c|For
   ease of use, "Tools" has been relocated to the main product menu, centralizing…]]'
@@ -79,7 +79,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2024-01-24 · Dify · [[Changes/Dify/2024-01-24-for-ease-of-use-tools-has-been-relocated-to-the-main-product-menu-centralizing-c|For ease of use, "Tools" has been relocated to the main product menu, centralizing…]]
-- Later: 2024-02-08 · Gemini · [[Changes/Gemini/2024-02-08-bard-is-now-gemini|Bard is now Gemini]]
+- Later: 2024-02-07 · Raycast · [[Changes/Raycast/2024-02-07-application-hotkey-improved-the-behavior-for-minimized-applications|Application Hotkey : improved the behavior for minimized applications]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

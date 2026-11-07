@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 044f7d47b81117f97ceac94261e06d1e52d1d995cecb12ecd52bb8bbc45f7ade
+machine_hash: 85932d3208cc4abe198c7c3ddb8c7e7e738b7cea80c7fb17442f5922206b37a2
 product: heygen
 product_name: HeyGen
 record:
@@ -44,10 +44,9 @@ record:
   title: If you're scaling content globally, you now have clear options
   type: change
 related_changes:
-- '[[Changes/Google Antigravity/2025-11-26-stability-and-bug-fixes|Stability and Bug
-  Fixes]]'
 - '[[Changes/Cline/2025-11-27-feat-update-cerebras-models-and-speed-by-sebastiand-cerebras-in-https-github-com|feat:
   update Cerebras models and speed]]'
+- '[[Changes/Raycast/2025-11-27-snippet-expansion|Snippet Expansion]]'
 - '[[Changes/HeyGen/2025-11-29-speed-mode-provides-fast-reliable-translation-in-175-languages-accents-and-diale|Speed
   Mode provides fast, reliable translation in 175+ languages, accents, and dialects]]'
 source_release: '[[Releases/HeyGen/heygen-2025-11-29-https-heygen-noticeable-news-publications-new-translation-engine-fb8ee5f9|heygen-2025-11-29-https-heygen-noticeable-news-publications-new-translation-engine-fb8ee5f9]]'
@@ -80,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-11-27 · Cline · [[Changes/Cline/2025-11-27-feat-update-cerebras-models-and-speed-by-sebastiand-cerebras-in-https-github-com|feat: update Cerebras models and speed]]
+- Earlier: 2025-11-27 · Raycast · [[Changes/Raycast/2025-11-27-snippet-expansion|Snippet Expansion]]
 - Later: 2025-12-01 · HeyGen · [[Changes/HeyGen/2025-12-01-a-faster-cleaner-editing-experience|A faster, cleaner editing experience]]
 <!-- chronolog:end -->
 

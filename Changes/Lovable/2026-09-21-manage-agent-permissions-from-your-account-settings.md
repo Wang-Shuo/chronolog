@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 03852eeef05fba3855109e7e431cab840acbc36b342d3198cd656d44b1e6a023
+machine_hash: e445e4ff265141d82446ae302b6beacb7337f2fbd7c6508c5b168e96df5d4fb5
 product: lovable
 product_name: Lovable
 record:
@@ -88,7 +88,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-09-21 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-21-show-live-elapsed-time-for-execution-subagents-in-timeline-entries|Show live elapsed time for execution subagents in timeline entries]]
-- Later: 2026-09-22 · Claude Code · [[Changes/Claude Code/2026-09-22-2-agent-mode-changes-in-v2-1-280|2 Agent Mode changes in v2.1.280]]
+- Later: 2026-09-22 · AnythingLLM · [[Changes/AnythingLLM/2026-09-22-5-agent-mode-changes-in-v1-16-2|5 Agent Mode changes in v1.16.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

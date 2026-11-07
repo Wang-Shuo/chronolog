@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 380705a8e8c06d50cad75eac8549856dd3d0db70b71c5a93d5bd9811ee7499b4
+machine_hash: 64410c57bcad8b64bbd5636deef1698e84cd249096ea3dfd7d75d9f8764b1d62
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -52,8 +52,8 @@ record:
   title: 5 Safety and Privacy changes in rust-v0.151.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-28-6-safety-and-privacy-changes-in-v2-1-251|6 Safety
-  and Privacy changes in v2.1.251]]'
+- '[[Changes/Devin/2026-08-28-new-org-permission-manage-personal-automations|New Org
+  Permission: Manage Personal Automations]]'
 - '[[Changes/Kimi Code/2026-08-28-web-fix-switching-the-permission-mode-in-one-session-changing-it-for-every-sessi|web:
   Fix switching the permission mode in one session changing it for every session]]'
 - '[[Changes/v0/2026-08-28-2-safety-and-privacy-changes-in-gpt-5-6-sol-sign-in-inside-previews|2

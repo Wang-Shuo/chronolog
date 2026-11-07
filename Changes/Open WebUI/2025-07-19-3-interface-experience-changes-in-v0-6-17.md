@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8ac12d0eea252ef2510bd31a7057a082987dbe8a40255d2d02ceb25f68cdecdd
+machine_hash: 5d9e1bbd09e801066de4e452b080d64eb59ef9665e7c4fdeefa29a92194fdc83
 product: open-webui
 product_name: Open WebUI
 record:
@@ -54,9 +54,9 @@ record:
   title: 3 Interface Experience changes in v0.6.17
   type: change
 related_changes:
-- '[[Changes/Notion/2025-07-10-databases-got-a-makeover|Databases got a makeover]]'
-- '[[Changes/Open WebUI/2025-07-14-4-interface-experience-changes-in-v0-6-16|4 Interface
-  Experience changes in v0.6.16]]'
+- '[[Changes/Raycast/2025-07-16-2-interface-experience-changes-in-raycast-macos-v1-1-101-0|2
+  Interface Experience changes in Raycast macos-v1 1.101.0]]'
+- '[[Changes/Raycast/2025-07-16-chat-branching-experimental|Chat Branching (Experimental)]]'
 - '[[Changes/Gemini CLI/2025-07-19-add-numbers-to-selection-list-by-miguelsolorio-in-https-github-com-google-gemini|Add
   numbers to selection list]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-07-19-v0-6-17-github-233695159-4b5cb15b|open-webui-2025-07-19-v0-6-17-github-233695159-4b5cb15b]]'
@@ -108,7 +108,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.6.17
 ## Nearby in Interface Experience
 
 - Earlier: 2025-07-19 · Gemini CLI · [[Changes/Gemini CLI/2025-07-19-add-numbers-to-selection-list-by-miguelsolorio-in-https-github-com-google-gemini|Add numbers to selection list]]
-- Later: 2025-07-23 · Descript · [[Changes/Descript/2025-07-23-updates-to-the-sidebar|Updates to the sidebar]]
+- Later: 2025-07-21 · Raycast · [[Changes/Raycast/2025-07-21-ai-added-ability-to-delete-chat-from-within-the-chat-via-title-menu|AI : Added ability to delete chat from within the chat via title menu]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

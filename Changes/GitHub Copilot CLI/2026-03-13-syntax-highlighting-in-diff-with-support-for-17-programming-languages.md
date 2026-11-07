@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: fdb4aa2c230499a09d83554c2c108ca5e9b2b0d543baa4e8e57dc392d0417013
+machine_hash: ecc647ee09ab4360a3e0baa7d38c3466c3dab963facd8b7f78c66edef6ff3d32
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,10 +44,10 @@ record:
   title: Syntax highlighting in /diff with support for 17 programming languages
   type: change
 related_changes:
-- '[[Changes/Microsoft 365 Copilot/2026-03-10-edit-images-in-powerpoint-with-designer-editor-windows-web-mac-powerpoint|Edit
-  images in PowerPoint with Designer Editor Windows, Web, Mac (PowerPoint)]]'
 - '[[Changes/Gemini CLI/2026-03-11-document-node-limitation-for-shift-tab-by-scidomino-in-https-github-com-google-g|document
   node limitation for shift+tab]]'
+- '[[Changes/Raycast/2026-03-11-ai-edit-highlights-are-now-supported-in-ai-commands-like-fix-spelling-and-gramma|AI
+  : Edit highlights are now supported in AI Commands (Like fix spelling and grammar)]]'
 - '[[Changes/OpenCode/2026-03-12-desktop-skip-editor-reconcile-during-ime-composition|Desktop
   Skip editor reconcile during IME composition]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-03-13-v1-0-5-github-296606026-e9b6baf6|github-copilot-cli-2026-03-13-v1-0-5-github-296606026-e9b6baf6]]'

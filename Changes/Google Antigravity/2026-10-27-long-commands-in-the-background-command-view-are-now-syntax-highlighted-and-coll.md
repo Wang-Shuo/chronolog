@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9ec011ae95386461ae40d26152ebb49bcbf7bd35242a630e439a5d0fee266e59
+machine_hash: cf3923d36d2230b0175ec9d2b01c413220bcfa9bd8b64da7cb878f5e369a98e5
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -92,7 +92,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-10-27 · Codex CLI · [[Changes/Codex CLI/2026-10-27-3-developer-workflow-changes-in-rust-v0-165-0|3 Developer Workflow changes in rust-v0.165.0]]
-- Later: 2026-10-27 · OpenClaw · [[Changes/OpenClaw/2026-10-27-2-developer-workflow-changes-in-v2026-10-8|2 Developer Workflow changes in v2026.10.8]]
+- Later: 2026-10-27 · Krea · [[Changes/Krea/2026-10-27-api-errors-and-concurrency-limits|API errors and concurrency limits]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

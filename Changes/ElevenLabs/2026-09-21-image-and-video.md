@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: a27fa6f250de07fa0f29d79969e1a60553348893204bbfa0a90cb49843564078
+machine_hash: a3131207603cae2236adba3f7b128389bb0cc13de2342f8a0a82094f7695b64a
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -58,8 +58,8 @@ record:
   title: Image and video
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-09-11-2-image-generation-changes-in-v2026-9-4|2 Image Generation
-  changes in v2026.9.4]]'
+- '[[Changes/Recraft/2026-09-11-openai-s-fastest-image-generation-and-editing-model-is-available-in-recraft-stud|New
+  Model: ChatGPT Images 2.5]]'
 - '[[Changes/Lovable/2026-09-15-gpt-image-2-5-flare-and-sunburst-for-your-app-s-ai-features|GPT
   Image 2.5 Flare and Sunburst for your app''s AI features]]'
 - '[[Changes/Codex CLI/2026-09-17-43953-preserve-per-image-generation-ids-in-image-generation-analytics-copyberry|♯43953

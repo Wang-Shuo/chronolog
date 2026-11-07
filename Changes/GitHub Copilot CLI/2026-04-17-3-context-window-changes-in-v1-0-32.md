@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a4af11488d57bd5a91fa915873c7ac341cd4ef364edd617a035f2ad397259284
+machine_hash: f648793acaef84804523d3cd35d85b7513475accfc861eb0f8e480026b5e1bf7
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -46,12 +46,12 @@ record:
   title: 3 Context Window changes in v1.0.32
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-04-15-kept-github-copilot-compaction-requests-valid|Kept
-  GitHub Copilot compaction requests valid]]'
 - '[[Changes/Descript/2026-04-16-click-here-https-web-descript-com-view-settings-account-active-api-to-get-your-a|Click
   here((source link) to get…]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-16-add-statusline-command-with-footer-alias-to-customize-which-items-appear-in-the|Add
   /statusline command (with /footer alias) to customize which items appear…]]'
+- '[[Changes/Devin/2026-04-17-this-release-also-includes-a-range-of-smaller-fixes-and-polish-sessions-now-indi|This
+  release also includes a range of smaller fixes and polish]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-04-17-v1-0-32-github-310570906-80c72acc|github-copilot-cli-2026-04-17-v1-0-32-github-310570906-80c72acc]]'
 source_type: github_releases
 theme: context-window
@@ -90,7 +90,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.32
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-04-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-16-add-statusline-command-with-footer-alias-to-customize-which-items-appear-in-the|Add /statusline command (with /footer alias) to customize which items appear…]]
+- Earlier: 2026-04-17 · Devin · [[Changes/Devin/2026-04-17-this-release-also-includes-a-range-of-smaller-fixes-and-polish-sessions-now-indi|This release also includes a range of smaller fixes and polish]]
 - Later: 2026-04-20 · Codex CLI · [[Changes/Codex CLI/2026-04-20-10-context-window-changes-in-rust-v0-122-0|10 Context Window changes in rust-v0.122.0]]
 <!-- chronolog:end -->
 

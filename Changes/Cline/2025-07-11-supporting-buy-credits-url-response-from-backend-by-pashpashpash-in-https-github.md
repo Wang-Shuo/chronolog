@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 0a2b81128a51135473ee0910699f56dc761d16fed3f5298f01a8e756bd8b47a6
+machine_hash: 80e0f071e2abb32ccae97fcf860e5164ff2ae8668836fd9e2c1b5475637a3c04
 product: cline
 product_name: Cline
 record:
@@ -43,11 +43,10 @@ record:
   title: supporting buy_credits_url response from backend
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-07-01-docs-add-a-page-detailing-quota-and-cost-information-by-ptone-in-https-github-co|Docs:
-  Add a page detailing quota and cost information]]'
 - '[[Changes/Replit/2025-07-04-effort-based-billing|Effort-based billing]]'
 - '[[Changes/Cline/2025-07-09-remove-incorrect-pricing-display-for-sap-ai-core-provider-since-it-uses-non-usd|Remove
   incorrect pricing display for SAP AI Core provider since it uses non-USD…]]'
+- '[[Changes/Recraft/2025-07-10-cost-per-generation|Cost per generation]]'
 source_release: '[[Releases/Cline/cline-2025-07-11-v3-18-12-github-231654662-57423044|cline-2025-07-11-v3-18-12-github-231654662-57423044]]'
 source_type: github_releases
 theme: pricing-model
@@ -77,7 +76,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2025-07-09 · Cline · [[Changes/Cline/2025-07-09-remove-incorrect-pricing-display-for-sap-ai-core-provider-since-it-uses-non-usd|Remove incorrect pricing display for SAP AI Core provider since it uses non-USD…]]
+- Earlier: 2025-07-10 · Recraft · [[Changes/Recraft/2025-07-10-cost-per-generation|Cost per generation]]
 - Later: 2025-07-15 · Cline · [[Changes/Cline/2025-07-15-removing-reasoning-ux-for-grok-4-models-and-correct-pricing-by-arafatkatze-in-ht|Removing reasoning UX for Grok 4 models and correct pricing]]
 <!-- chronolog:end -->
 

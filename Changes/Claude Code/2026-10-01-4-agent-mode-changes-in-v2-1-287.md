@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ded8b2948ef13877e446ead6bafed936cfe76893b13779e5d5b93a080793ab99
+machine_hash: e258e63f0a80d6c259b55d096d5a77069f734074aa4ab0f4cc45ecc709a3ef17
 product: claude-code
 product_name: Claude Code
 record:
@@ -52,12 +52,12 @@ record:
   title: 4 Agent Mode changes in v2.1.287
   type: change
 related_changes:
-- '[[Changes/Google Antigravity/2026-09-30-message-subagents-directly-export-markdown-as-pdf-and-conversation-only-undo|Message
-  subagents directly, export Markdown as PDF, and conversation-only undo]]'
 - '[[Changes/Google Antigravity/2026-09-30-you-can-now-send-a-message-directly-to-a-subagent-from-the-message-box-without-g|Send
   a message directly to a subagent from the message box, without going through…]]'
 - '[[Changes/OpenClaw/2026-09-30-33-agent-mode-changes-in-v2026-9-7|33 Agent Mode
   changes in v2026.9.7]]'
+- '[[Changes/AnythingLLM/2026-10-01-apply-workspace-temperature-to-agents-and-omit-the-parameter-when-unset-by-shatf|Apply
+  workspace temperature to agents and omit the parameter when unset]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-01-v2-1-287-github-401174143-9cfdbb87|claude-code-2026-10-01-v2-1-287-github-401174143-9cfdbb87]]'
 source_type: github_releases
 theme: agent-mode
@@ -106,7 +106,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.287
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-09-30 · OpenClaw · [[Changes/OpenClaw/2026-09-30-33-agent-mode-changes-in-v2026-9-7|33 Agent Mode changes in v2026.9.7]]
+- Earlier: 2026-10-01 · AnythingLLM · [[Changes/AnythingLLM/2026-10-01-apply-workspace-temperature-to-agents-and-omit-the-parameter-when-unset-by-shatf|Apply workspace temperature to agents and omit the parameter when unset]]
 - Later: 2026-10-01 · Codex CLI · [[Changes/Codex CLI/2026-10-01-6-agent-mode-changes-in-rust-v0-160-0|6 Agent Mode changes in rust-v0.160.0]]
 <!-- chronolog:end -->
 

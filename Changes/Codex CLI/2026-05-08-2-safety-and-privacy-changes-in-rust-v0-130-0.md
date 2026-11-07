@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c984cd8f8fc44d9e25375b5de2af9f636e3e75bf3637a6ab0aa6eec099334091
+machine_hash: 5713fed02112ea885c7cd9f9066666f2772c151db14539b776e8e680b74f675e
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -90,7 +90,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.130.0
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-05-08 · Claude Code · [[Changes/Claude Code/2026-05-08-2-safety-and-privacy-changes-in-v2-1-136|2 Safety and Privacy changes in v2.1.136]]
-- Later: 2026-05-08 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-08-pressing-ctrl-c-while-a-permission-prompt-is-pending-no-longer-causes-the-cli-to|Pressing Ctrl+C while a permission prompt is pending no longer causes the CLI to hang]]
+- Later: 2026-05-08 · Devin · [[Changes/Devin/2026-05-08-service-user-permission-management|Service User Permission Management]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

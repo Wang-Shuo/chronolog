@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0f86ef5b697ccf388333557366cc15691c25fa646e277e1ace0592a9006f58ef
+machine_hash: fbd9890f56ad1223ebcfbf76d0375c393800d5dd562b4faebbfb99ee15051e73
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -91,7 +91,7 @@ Source: https://github.com/MoonshotAI/kimi-code/blob/main/docs/en/release-notes/
 ## Nearby in Agent Mode
 
 - Earlier: 2026-06-15 · ElevenLabs · [[Changes/ElevenLabs/2026-06-15-elevenagents|ElevenAgents]]
-- Later: 2026-06-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-16-agent-mode-is-tracked-per-session-so-it-no-longer-carries-over-when-you-create-c|Agent mode is tracked per session, so it no longer carries over when you create…]]
+- Later: 2026-06-16 · AnythingLLM · [[Changes/AnythingLLM/2026-06-16-2-agent-mode-changes-in-v1-14-1|2 Agent Mode changes in v1.14.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a9d9758856cfc0d751984cfc848ae2c6ef32613fb59bcd0bd799fd980820b9e6
+machine_hash: 42191c1e20870c2bb4a9d9c98e6da24e60cce51e2fe250063c403124b85998dd
 product: dify
 product_name: Dify
 record:
@@ -44,10 +44,9 @@ record:
   title: 'ci: Add weekly schedule for pip and uv ecosystems'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-10-added-claude-code-disable-cron-environment-variable-to-immediately-stop-schedule|Added
-  CLAUDE_CODE_DISABLE_CRON environment variable to immediately stop scheduled…]]'
-- '[[Changes/Codex CLI/2026-03-10-2-automation-and-scheduling-changes-in-rust-v0-113-0|2
-  Automation and Scheduling changes in rust-v0.113.0]]'
+- '[[Changes/Devin/2026-03-11-schedule-run-as-user|Schedule: Run as User]]'
+- '[[Changes/Superwhisper/2026-03-12-new-recording-retention-setting-automatically-clean-up-old-recordings-on-a-confi|New
+  recording retention setting]]'
 - '[[Changes/Claude Code/2026-03-17-show-a-notice-when-apikeyhelper-takes-longer-than-10s-preventing-it-from-blockin|Show
   a notice when apiKeyHelper takes longer than 10s, preventing it from blocking…]]'
 source_release: '[[Releases/Dify/dify-2026-03-17-1-13-1-github-297876307-84187197|dify-2026-03-17-1-13-1-github-297876307-84187197]]'

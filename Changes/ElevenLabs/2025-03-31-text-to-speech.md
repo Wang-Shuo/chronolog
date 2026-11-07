@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 62bdc344f8991caf27377dccd9ea37e2311a056f1f23f2761cce1c159033730c
+machine_hash: 440fd225ed9f26d964e82cf13ae91b7f465f2b4529bfe030b73504c30d6060b2
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -52,8 +52,8 @@ record:
   title: Text to speech
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-03-27-gpt-4o-is-now-more-adept-at-following-detailed-instructions-especially-for-promp|Enhanced
-  instruction-following and formatting accuracy]]'
+- '[[Changes/LM Studio/2025-03-27-7-model-support-changes-in-lm-studio-0-3-14|7 Model
+  Support changes in LM Studio 0.3.14]]'
 - '[[Changes/Midjourney/2025-03-30-please-note|Please Note]]'
 - '[[Changes/Aider/2025-03-31-3-model-support-changes-in-v0-80-0|3 Model Support changes
   in v0.80.0]]'

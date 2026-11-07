@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 61cb42dde99e11bf5d79422ce9527355c7338af6401db50468c4865f512eeeb6
+machine_hash: ba12862803488a57ef1c0a2e4fbd7592d4b00df7669c09d85b3b7594a7d5d462
 product: cursor
 product_name: Cursor
 record:
@@ -40,7 +40,8 @@ record:
   title: Aux Window Fixes
   type: change
 related_changes:
-- '[[Changes/Notion/2023-12-20-upgrades-to-web-publishing|Upgrades to web publishing]]'
+- '[[Changes/Superwhisper/2023-12-26-enabled-cmd-v-paste-shortcut-into-prompt-editor|Enabled
+  cmd + v paste shortcut into prompt editor]]'
 - '[[Changes/Cursor/2023-12-29-you-can-now-run-multiple-command-k-s-in-parallel-also-it-should-now-be-easier-to|Multiple
   Command-K, Copilot++ UI]]'
 - '[[Changes/Cursor/2023-12-30-cursor-is-now-based-on-vs-code-1-85-1-which-among-other-things-includes-floating|VS

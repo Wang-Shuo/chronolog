@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 767bfc1a3f469ab7469d6bd2846fa994c9e32ae74182bf62e2d11e087545518e
+machine_hash: ab0329a274b08473f49c84ebe1e877f4bad4e43006dadb2d0396d46c163fcd62
 product: dify
 product_name: Dify
 record:
@@ -54,10 +54,9 @@ record:
   title: 5 Apps and Integrations changes in 1.9.1
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2025-09-25-4-apps-and-integrations-changes-in-v0-6-31|4 Apps
-  and Integrations changes in v0.6.31]]'
-- '[[Changes/Codex CLI/2025-09-26-4-apps-and-integrations-changes-in-rust-v0-42-0|4
-  Apps and Integrations changes in rust-v0.42.0]]'
+- '[[Changes/Devin/2025-09-26-bitbucket-integration-beta|Bitbucket Integration (Beta)]]'
+- '[[Changes/Devin/2025-09-26-mcp-observability-for-enterprises|MCP Observability
+  for Enterprises]]'
 - '[[Changes/Cursor/2025-09-29-4-apps-and-integrations-changes-in-1-7|4 Apps and Integrations
   changes in 1.7]]'
 source_release: '[[Releases/Dify/dify-2025-09-29-1-9-1-github-250763685-c4c319df|dify-2025-09-29-1-9-1-github-250763685-c4c319df]]'

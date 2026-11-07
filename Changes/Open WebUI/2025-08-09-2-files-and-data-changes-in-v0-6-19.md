@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: eca56a2560009ab768ad32d360c80b377add7c855ae0098779cbf7bf20c95315
+machine_hash: 784e41d16ac5bb2b568ae7ffa769f6f204a9c5651d652da2da76389378251450
 product: open-webui
 product_name: Open WebUI
 record:
@@ -49,10 +49,10 @@ record:
   title: 2 Files and Data changes in v0.6.19
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2025-07-19-3-files-and-data-changes-in-v0-6-17|3 Files and
-  Data changes in v0.6.17]]'
-- '[[Changes/Dify/2025-07-23-metadata-and-file-processing-smarter-document-filtering-and-error-handling-fixed|Metadata
-  and File Processing]]'
+- '[[Changes/Recraft/2025-07-25-you-can-now-drag-and-drop-images-from-your-history-or-community-tab-directly-int|Drag
+  & drop from history and community]]'
+- '[[Changes/Recraft/2025-07-26-recraft-now-autogenerates-a-bird-s-eye-preview-for-every-project-giving-you-a-qu|Automatic
+  bird’s-eye view for projects]]'
 - '[[Changes/Dify/2025-07-28-2-files-and-data-changes-in-1-7-1|2 Files and Data changes
   in 1.7.1]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-08-09-v0-6-19-github-238805134-e05b9243|open-webui-2025-08-09-v0-6-19-github-238805134-e05b9243]]'

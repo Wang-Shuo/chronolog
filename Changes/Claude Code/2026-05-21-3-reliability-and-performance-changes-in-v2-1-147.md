@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d44efdcb7cf01a98b56c5707cfc181e64883c60047abc428e93b0ff958f46219
+machine_hash: c4f412ddcabd2026f0b23d4e5be4d605e426fa9e3f2f3d2c68c3e40ae5d856dc
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,10 +49,10 @@ record:
   title: 3 Reliability and Performance changes in v2.1.147
   type: change
 related_changes:
-- '[[Changes/Dify/2026-05-19-knowledge-base-stability-fixed-knowledge-hit-testing-rendering-empty-knowledge-c|Knowledge-base
-  stability — fixed knowledge hit-testing rendering, empty…]]'
-- '[[Changes/Codex CLI/2026-05-20-windows-installs-are-more-robust-codex-doctor-now-detects-npm-managed-installs-c|Windows
-  installs are more robust]]'
+- '[[Changes/Raycast/2026-05-20-2-reliability-and-performance-changes-in-raycast-windows-0-61|2
+  Reliability and Performance changes in Raycast windows 0.61]]'
+- '[[Changes/Raycast/2026-05-20-3-reliability-and-performance-changes-in-raycast-macos-0-61|3
+  Reliability and Performance changes in Raycast macos 0.61]]'
 - '[[Changes/Claude Code/2026-05-21-2-reliability-and-performance-changes-in-v2-1-146|2
   Reliability and Performance changes in v2.1.146]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-21-v2-1-147-github-327133263-73928fcd|claude-code-2026-05-21-v2-1-147-github-327133263-73928fcd]]'

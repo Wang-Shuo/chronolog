@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7bc848f47556695bad518dc47930473992fc140dcf00aa59b717351cdcc8d342
+machine_hash: 9eb12e46fca1d7bed48c5f6c7e71e0f7f0a5797beca5b97ffd22851cea81c2ee
 product: opencode
 product_name: OpenCode
 record:
@@ -118,7 +118,7 @@ Source: https://opencode.ai/changelog/v2.2.0
 ## Nearby in Editor Experience
 
 - Earlier: 2026-10-27 · OpenClaw · [[Changes/OpenClaw/2026-10-27-the-control-ui-now-reconnects-when-a-visible-tab-has-lost-contact-but-still-show|The Control UI now reconnects when a visible tab has lost contact but still shows…]]
-- Later: 2026-10-28 · Windsurf · [[Changes/Windsurf/2026-10-28-in-devin-local-some-tool-requests-such-as-web-fetches-and-multi-file-edits-now-c|In Devin Local, some tool requests, such as web fetches and multi-file edits, now…]]
+- Later: 2026-10-28 · Devin · [[Changes/Devin/2026-10-28-progress-tab-shows-your-tasks-live|Progress Tab Shows Your Tasks Live]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 9ecd7f8dda8a695afaa226b9c62d595db3100ac419836f39971527511442571c
+machine_hash: 2e40193cdfd89154484b0908d1fe2a42b65b36a603a76dacdde3d7f0ee3386c1
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -45,10 +45,10 @@ record:
   title: 'Plugins: Try a new version of ChatGPT that knows when and how to use third-party…'
   type: change
 related_changes:
-- '[[Changes/Descript/2023-04-17-edit-in-descript-projects-created-via-edit-in-descript-integrations-https-help-d|Edit
-  in Descript]]'
 - '[[Changes/Notion/2023-04-27-slack-integration-2-0-save-messages-and-configure-notifications|Slack
   integration 2.0: save messages and configure notifications]]'
+- '[[Changes/Raycast/2023-04-28-the-default-search-scope-for-apps-from-parallels-vms-can-now-be-removed-preferen|The
+  default search scope for apps from Parallels VMs can now be removed…]]'
 - '[[Changes/Cursor/2023-05-04-one-click-extension-import-from-vs-code-beta-as-a-highly-requested-feature-we-re|One-Click
   Extension Import from VS Code (beta)]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2023-05-12-web-browsing-and-plugins-are-now-rolling-out-in-beta-5dbe86e7|chatgpt-2023-05-12-web-browsing-and-plugins-are-now-rolling-out-in-beta-5dbe86e7]]'

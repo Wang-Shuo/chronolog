@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: policy
-machine_hash: ef01738ae47f3b8104a4e732a238fcaf83ee6603cd6ffa2605ea83304b3aac3c
+machine_hash: 2d9d00e4d061af75973e32f08506e03086f241f7287695dcf2dfc03cf479d803
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -70,12 +70,12 @@ record:
   title: Sunsetting GPT‑4 in ChatGPT
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2025-04-07-accurate-tool-descriptions-from-openapi-servers-external-tools-now-use-full-endp|\U0001F6E0️
-  Accurate Tool Descriptions from OpenAPI Servers]]"
 - '[[Changes/Runway/2025-04-07-our-fastest-and-most-efficient-video-model-now-available-to-all-users|Gen-4
   Turbo]]'
 - '[[Changes/Dify/2025-04-09-6-model-support-changes-in-1-2-0|6 Model Support changes
   in 1.2.0]]'
+- '[[Changes/Raycast/2025-04-09-reasoning-effort-you-can-now-set-the-reasoning-level-for-openai-s-o3-mini-and-cl|Reasoning
+  Effort: You can now set the reasoning level for OpenAI’s o3-mini…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-04-10-sunsetting-gpt-4-in-chatgpt-fe1e4ad7|chatgpt-2025-04-10-sunsetting-gpt-4-in-chatgpt-fe1e4ad7]]'
 source_type: chatgpt_changelog
 theme: model-support
@@ -102,7 +102,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-04-09 · Dify · [[Changes/Dify/2025-04-09-6-model-support-changes-in-1-2-0|6 Model Support changes in 1.2.0]]
+- Earlier: 2025-04-09 · Raycast · [[Changes/Raycast/2025-04-09-reasoning-effort-you-can-now-set-the-reasoning-level-for-openai-s-o3-mini-and-cl|Reasoning Effort: You can now set the reasoning level for OpenAI’s o3-mini…]]
 - Later: 2025-04-10 · Cline · [[Changes/Cline/2025-04-10-add-support-for-xai-s-provider-s-grok-3-models|Add support for xAI's provider's Grok 3 models]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f62f87adc3d3a1184691e8ea74dc10d5322b5aed54ce2675f6dd7d0daa275413
+machine_hash: 2b83a5790986b4012ecbdad2358b62452dae309c3e0d64dcfdebdd1ae3c486d7
 product: open-webui
 product_name: Open WebUI
 record:
@@ -100,7 +100,7 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2025-08-07 · ChatGPT · [[Changes/ChatGPT/2025-08-07-you-can-now-choose-from-four-distinct-personalities-or-use-the-default-personali-b6826c|Personalities]]
-- Later: 2025-08-20 · ElevenLabs · [[Changes/ElevenLabs/2025-08-20-voice-management|Voice Management]]
+- Later: 2025-08-15 · AnythingLLM · [[Changes/AnythingLLM/2025-08-15-stt-append-spoken-text-by-timothycarambat-in-https-github-com-mintplex-labs-anyt|STT append spoken text]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

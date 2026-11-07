@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 43a84f04d0b5004f66c4cc3becf96ab941c22f7cca458f619452555baaac22a1
+machine_hash: 018f0b552e7b0af74a601dfe72920462d787846658aa161eb0107424abb54b94
 product: claude-code
 product_name: Claude Code
 record:
@@ -53,10 +53,10 @@ record:
   title: Improved bash command parsing by switching to a native module
   type: change
 related_changes:
-- '[[Changes/Google Antigravity/2026-03-09-stability-and-ui-improvements|Stability
-  and UI improvements]]'
 - '[[Changes/Open WebUI/2026-03-09-2-reliability-and-performance-changes-in-v0-8-10|2
   Reliability and Performance changes in v0.8.10]]'
+- '[[Changes/Raycast/2026-03-09-system-improved-app-launch-times-up-to-10-faster-on-lower-end-systems|System
+  : Improved app launch times, up to 10× faster on lower-end systems]]'
 - '[[Changes/Windsurf/2026-03-09-stability-performance|Stability & Performance]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-10-v2-1-72-github-294951528-18ee0f48|claude-code-2026-03-10-v2-1-72-github-294951528-18ee0f48]]'
 source_type: github_releases

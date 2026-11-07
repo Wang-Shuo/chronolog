@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 696026a99bf54cb3430327054b51d7ff0340458a58797b92a9b95dac2d8484ad
+machine_hash: fb947978f7f2b1ee993e955cc3af574805b461ed89e2a8c9f98dfd5ed599599c
 product: microsoft-365-copilot
 product_name: Microsoft 365 Copilot
 record:
@@ -102,7 +102,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-09-22 · Google Antigravity · [[Changes/Google Antigravity/2026-09-22-prompt-actions-in-interactive-widgets-and-html-artifacts-now-fill-in-and-focus-t|Prompt actions in interactive widgets and HTML artifacts now fill in and focus…]]
+- Earlier: 2026-09-23 · Devin · [[Changes/Devin/2026-09-23-a-findings-tab-for-every-scan|A Findings Tab for Every Scan]]
 - Later: 2026-09-23 · OpenClaw · [[Changes/OpenClaw/2026-09-23-15-editor-experience-changes-in-v2026-9-6|15 Editor Experience changes in v2026.9.6]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e2835a9c94858c621b9621732b2797e1f33cbf844114c814519f3e7f520050fa
+machine_hash: 2af930a6fc102008a1e56d434b23b616ef9d57891f259d6b7bd6216820263c88
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Search and Browsing
 
 - Earlier: 2025-02-13 · Open WebUI · [[Changes/Open WebUI/2025-02-13-2-search-and-browsing-changes-in-v0-5-11|2 Search and Browsing changes in v0.5.11]]
-- Later: 2025-02-18 · Open WebUI · [[Changes/Open WebUI/2025-02-18-2-search-and-browsing-changes-in-v0-5-13|2 Search and Browsing changes in v0.5.13]]
+- Later: 2025-02-18 · AnythingLLM · [[Changes/AnythingLLM/2025-02-18-add-improved-logging-and-introspection-to-web-browsing-by-timothycarambat-in-htt|Add improved logging and introspection to web-browsing]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

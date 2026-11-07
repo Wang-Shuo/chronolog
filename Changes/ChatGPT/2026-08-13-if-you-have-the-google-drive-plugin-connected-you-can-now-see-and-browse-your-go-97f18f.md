@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 48d188112d09e653f6e0926b3974b9b9aad5df39b9cc0862772fe3f7e2e1d6bd
+machine_hash: 97ec2a451a02f2a4075cdcfb138e14a2f3860b9e00ff2efc97c52a6b95844d03
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -64,12 +64,12 @@ record:
   title: If you have the Google Drive plugin connected, you can now see and browse…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-07-29-2-search-and-browsing-changes-in-rust-v0-146-0|2
-  Search and Browsing changes in rust-v0.146.0]]'
 - '[[Changes/Codex CLI/2026-08-07-3-search-and-browsing-changes-in-rust-v0-147-0|3
   Search and Browsing changes in rust-v0.147.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-08-10-improve-teleported-subagent-tasks-navigation-with-nested-tree-browsing-current-a|Improve
   teleported subagent /tasks navigation with nested tree browsing, current/all…]]'
+- '[[Changes/AnythingLLM/2026-08-13-feat-agents-add-you-com-as-web-search-provider-by-souravrajvi0-in-https-github-c|feat(agents):
+  add You.com as web search provider]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-13-google-drive-is-now-in-library-bbf66648|chatgpt-2026-08-13-google-drive-is-now-in-library-bbf66648]]'
 source_type: chatgpt_changelog
 theme: search-browsing
@@ -100,7 +100,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Search and Browsing
 
-- Earlier: 2026-08-10 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-08-10-improve-teleported-subagent-tasks-navigation-with-nested-tree-browsing-current-a|Improve teleported subagent /tasks navigation with nested tree browsing, current/all…]]
+- Earlier: 2026-08-13 · AnythingLLM · [[Changes/AnythingLLM/2026-08-13-feat-agents-add-you-com-as-web-search-provider-by-souravrajvi0-in-https-github-c|feat(agents): add You.com as web search provider]]
 - Later: 2026-08-14 · Ollama · [[Changes/Ollama/2026-08-14-the-openai-compatible-responses-api-now-supports-web-search|The OpenAI-compatible Responses API now supports web search]]
 <!-- chronolog:end -->
 

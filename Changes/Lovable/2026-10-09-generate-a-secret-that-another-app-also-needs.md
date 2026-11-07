@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: a23cdb420f0e384c57d9f9d3653496bbbea9bedbecb3b0b0fccdc1bf4cae5608
+machine_hash: 2f347d1c7c26ae30958e046798ae06c1b16d00ed7bbb6c65ad79d5320bfb7f53
 product: lovable
 product_name: Lovable
 record:
@@ -52,10 +52,9 @@ record:
   title: Generate a secret that another app also needs
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-10-08-feat-apps-add-authenticated-backend-view-helper-by-neubig-in-https-github-com-op|feat(apps):
-  add authenticated backend view helper]]'
-- '[[Changes/Claude Code/2026-10-09-3-apps-and-integrations-changes-in-v2-1-296|3
-  Apps and Integrations changes in v2.1.296]]'
+- '[[Changes/Devin/2026-10-09-atlassian-mcp-v2-endpoint|Atlassian MCP v2 endpoint]]'
+- '[[Changes/Devin/2026-10-09-user-preferences-sync-across-apps-and-devices|User preferences
+  sync across apps and devices]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-09-managed-plugin-setup-retries-hourly-or-after-policy-changes-instead-of-on-every|Managed
   plugin setup retries hourly or after policy changes instead of on every…]]'
 source_release: '[[Releases/Lovable/lovable-2026-10-09-2026-10-09-58884c93|lovable-2026-10-09-2026-10-09-58884c93]]'
@@ -89,7 +88,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-10-09 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-09-managed-plugin-setup-retries-hourly-or-after-policy-changes-instead-of-on-every|Managed plugin setup retries hourly or after policy changes instead of on every…]]
-- Later: 2026-10-10 · Open WebUI · [[Changes/Open WebUI/2026-10-10-7-apps-and-integrations-changes-in-v0-12-0|7 Apps and Integrations changes in v0.12.0]]
+- Later: 2026-10-09 · Raycast · [[Changes/Raycast/2026-10-09-2-apps-and-integrations-changes-in-raycast-macos-2-7|2 Apps and Integrations changes in Raycast macos 2.7]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

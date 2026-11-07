@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 3acf966cd089504800371d6588e80ec0e6ee21a08398a26b58e1f6e921c3f61e
+machine_hash: 23217abdc5c2bb06252567eebce2e15ddcee9e0eca9aba017a3ad487dee93679
 product: replit
 product_name: Replit
 record:
@@ -47,8 +47,7 @@ record:
   title: At symbol filename support in Agent
   type: change
 related_changes:
-- '[[Changes/Lovable/2025-11-05-show-the-agent-what-you-mean|Show the agent what you
-  mean]]'
+- '[[Changes/Devin/2025-11-07-agentic-knowledge-management|Agentic Knowledge Management]]'
 - '[[Changes/Gemini CLI/2025-11-07-3-agent-mode-changes-in-v0-13-0|3 Agent Mode changes
   in v0.13.0]]'
 - '[[Changes/Replit/2025-11-07-animated-agent-icon|Animated agent icon]]'

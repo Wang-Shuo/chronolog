@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 977d44e15ae9ebdbe51c1175213d2b8e76c5743ecbe21a67a69f8e32a1743fc9
+machine_hash: 879d4d8d42bee0f8e3e841792005fc7747450bbddcc7668f0e00e5145623a5a2
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -45,8 +45,8 @@ record:
     timeout…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-06-18-easier-conversation-sharing-sharing-a-conversation-is-now-faster-with-a-one-clic|Easier
-  conversation sharing]]'
+- '[[Changes/Raycast/2026-06-18-core-improve-pasting-action-reliability-and-performance|Core:
+  improve pasting action reliability and performance]]'
 - '[[Changes/Claude Code/2026-06-20-the-stream-stall-hint-now-reads-waiting-for-api-response-will-retry-in-instead-o|The
   stream-stall hint now reads "Waiting for API response · will retry in …" instead…]]'
 - '[[Changes/Codex CLI/2026-06-22-2-reliability-and-performance-changes-in-rust-v0-142-0|2
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-06-22 · Codex CLI · [[Changes/Codex CLI/2026-06-22-2-reliability-and-performance-changes-in-rust-v0-142-0|2 Reliability and Performance changes in rust-v0.142.0]]
-- Later: 2026-06-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-23-show-per-model-token-totals-in-usage-and-speed-up-large-history-scans|Show per-model token totals in /usage and speed up large history scans]]
+- Later: 2026-06-22 · Superwhisper · [[Changes/Superwhisper/2026-06-22-faster-microphone-initialization-between-recordings|Faster microphone initialization between recordings]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

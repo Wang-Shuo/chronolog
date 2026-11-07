@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c30875bfe7315439415c57f75469f84e961676e4de5bf322b7c6ce018b0b672e
+machine_hash: e38e5dfbeeeca6f2aa9e74ed9e046200d85e2a957f5143a1854b5ab4ef0ff722
 product: cline
 product_name: Cline
 record:
@@ -44,11 +44,11 @@ record:
   title: Add VS Code LM API provider to run models provided by other VS Code extensions…
   type: change
 related_changes:
-- '[[Changes/Dify/2025-01-13-2-model-support-changes-in-0-15-1|2 Model Support changes
-  in 0.15.1]]'
 - '[[Changes/Aider/2025-01-20-4-model-support-changes-in-v0-72-0|4 Model Support changes
   in v0.72.0]]'
 - '[[Changes/DeepSeek API/2025-01-20-deepseek-reasoner|deepseek-reasoner]]'
+- '[[Changes/LM Studio/2025-01-20-new-kv-cache-quantization-for-llama-cpp-models-requires-llama-cpp-1-9-0-runtime|New:
+  KV Cache quantization for llama.cpp models (requires llama.cpp/1.9.0+ runtime)]]'
 source_release: '[[Releases/Cline/cline-2025-01-21-v3-2-0-github-195907436-b610f726|cline-2025-01-21-v3-2-0-github-195907436-b610f726]]'
 source_type: github_releases
 theme: model-support
@@ -78,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-01-20 · DeepSeek API · [[Changes/DeepSeek API/2025-01-20-deepseek-reasoner|deepseek-reasoner]]
+- Earlier: 2025-01-20 · LM Studio · [[Changes/LM Studio/2025-01-20-new-kv-cache-quantization-for-llama-cpp-models-requires-llama-cpp-1-9-0-runtime|New: KV Cache quantization for llama.cpp models (requires llama.cpp/1.9.0+ runtime)]]
 - Later: 2025-01-22 · Dify · [[Changes/Dify/2025-01-22-8-model-support-changes-in-0-15-2|8 Model Support changes in 0.15.2]]
 <!-- chronolog:end -->
 

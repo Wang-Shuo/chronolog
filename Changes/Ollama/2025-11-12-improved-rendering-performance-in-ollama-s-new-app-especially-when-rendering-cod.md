@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 2aa6ecea8e77b74c214b3688dbef02d6f92740a92c90db7326c2122da6d43031
+machine_hash: a93781f790eba6d2f4acac1fb1c6c7263f914986a1bb2b24b2813d253b43de0c
 product: ollama
 product_name: Ollama
 record:
@@ -45,10 +45,9 @@ record:
     code
   type: change
 related_changes:
-- '[[Changes/Ollama/2025-11-05-add-vulkan-memory-detection-for-intel-gpu-using-dxgi-pdh|Add
-  Vulkan memory detection for Intel GPU using DXGI+PDH]]'
-- '[[Changes/Open WebUI/2025-11-06-3-reliability-and-performance-changes-in-v0-6-35|3
-  Reliability and Performance changes in v0.6.35]]'
+- '[[Changes/Devin/2025-11-07-various-bug-fixes-and-performance-improvements-across-the-platform|Various
+  bug fixes and performance improvements across the platform]]'
+- '[[Changes/Devin/2025-11-07-direct-attachment-download|Direct Attachment Download]]'
 - '[[Changes/Gemini CLI/2025-11-07-refactor-todo-improve-performance-and-readability-of-todo-component-by-miguelsol|refactor(todo):
   improve performance and readability of todo component]]'
 source_release: '[[Releases/Ollama/ollama-2025-11-12-v0-12-11-github-261869775-b0fab570|ollama-2025-11-12-v0-12-11-github-261869775-b0fab570]]'

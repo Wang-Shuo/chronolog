@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 81d48c08fa7106c151865794696b8acf11d7d18250da81370ce3e0179f7f124b
+machine_hash: d8ad70f347e0d40d1f2be7de3cbd51ffbd00edb585821112605758285843033f
 product: openhands
 product_name: OpenHands
 record:
@@ -54,10 +54,10 @@ record:
   title: 'chore: bump agent-server 1.39.1, automation 1.5.0, typescript-client 1.36.1'
   type: change
 related_changes:
-- '[[Changes/Notion/2026-07-24-notion-workers-run-custom-code-on-notion-s-infrastructure-to-sync-data-power-too|Notion
-  Workers run custom code on Notion''s infrastructure to sync data, power tools…]]'
-- '[[Changes/Open WebUI/2026-07-27-9-automation-and-scheduling-changes-in-v0-11-0|9
-  Automation and Scheduling changes in v0.11.0]]'
+- '[[Changes/Devin/2026-07-29-simpler-automation-channel-access|Simpler Automation
+  Channel Access]]'
+- '[[Changes/Devin/2026-07-29-playbooks-scoped-to-the-right-organization|Playbooks
+  Scoped to the Right Organization]]'
 - '[[Changes/OpenHands/2026-07-29-chore-bump-software-agent-sdk-to-1-38-0-and-automation-to-1-4-1-by-hieptl-in-htt|chore:
   bump software-agent-sdk to 1.38.0 and automation to 1.4.1]]'
 source_release: '[[Releases/OpenHands/openhands-2026-07-30-v1-8-0-github-362592144-c13618f5|openhands-2026-07-30-v1-8-0-github-362592144-c13618f5]]'
@@ -89,7 +89,7 @@ type: change
 ## Nearby in Automation and Scheduling
 
 - Earlier: 2026-07-29 · OpenHands · [[Changes/OpenHands/2026-07-29-chore-bump-software-agent-sdk-to-1-38-0-and-automation-to-1-4-1-by-hieptl-in-htt|chore: bump software-agent-sdk to 1.38.0 and automation to 1.4.1]]
-- Later: 2026-08-03 · OpenHands · [[Changes/OpenHands/2026-08-03-feat-drive-the-automation-ui-from-the-interface-manifest-by-hieptl-in-https-gith|feat: drive the automation UI from the interface manifest]]
+- Later: 2026-07-31 · Devin · [[Changes/Devin/2026-07-31-opt-in-public-github-repo-support-in-automations|Opt-In Public GitHub Repo Support in Automations]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

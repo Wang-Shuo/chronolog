@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d599292afdf01db4b7a0dca4ee0f8282672b371d54268494f503947d53c3396b
+machine_hash: 6e5225839aa4d5165e645e3803a365467b0fd08ba1175ab58f413c244be1924c
 product: cursor
 product_name: Cursor
 record:
@@ -41,11 +41,11 @@ record:
   title: Switch to the VS Code sidebar orientation
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-08-17-keychords-now-use-cmd-r-ctrl-r|Keychords now use Cmd+R/Ctrl+R]]'
 - '[[Changes/Cursor/2023-08-21-nicer-error-messages-in-the-chat-fewer-annoying-popups-782655|Nicer
   error messages in the chat!]]'
 - '[[Changes/Cursor/2023-08-22-nicer-error-messages-in-the-chat-fewer-annoying-popups-7d864e|Nicer
   error messages in the chat!]]'
+- '[[Changes/Superwhisper/2023-08-25-onboarding-flow|Onboarding flow]]'
 source_release: '[[Releases/Cursor/cursor-2023-08-30-0-9-0-https-cursor-com-changelog-0-9-0-1c913df4|cursor-2023-08-30-0-9-0-https-cursor-com-changelog-0-9-0-1c913df4]]'
 source_type: cursor_changelog
 theme: interface-experience
@@ -75,7 +75,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2023-08-22 · Cursor · [[Changes/Cursor/2023-08-22-nicer-error-messages-in-the-chat-fewer-annoying-popups-7d864e|Nicer error messages in the chat!]]
+- Earlier: 2023-08-25 · Superwhisper · [[Changes/Superwhisper/2023-08-25-onboarding-flow|Onboarding flow]]
 - Later: 2023-09-11 · ChatGPT · [[Changes/ChatGPT/2023-09-11-if-you-ve-configured-your-browser-to-use-one-of-these-supported-languages-you-ll-e4857e|If you've configured your browser to use one of these supported languages, you'll…]]
 <!-- chronolog:end -->
 

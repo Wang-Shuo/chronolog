@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: dc2a278dbcfde5969003e49bfa6a809f04ccf43e8d8e0ba48102275d3991f0f8
+machine_hash: b6d1f66e60b153bbb90c6e283037614d3f29168af84f4f16afd8745b73c106d7
 product: openclaw
 product_name: OpenClaw
 record:
@@ -345,10 +345,10 @@ record:
   title: 79 Automation and Scheduling changes in v2026.7.1
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-07-08-30508-revert-make-auto-review-on-request-prompt-more-proactive-dylan-hurd-oai|♯30508
-  Revert "Make auto-review on-request prompt more proactive" @dylan-hurd-oai]]'
 - '[[Changes/ChatGPT/2026-07-09-work-can-also-keep-projects-moving-through-scheduled-tasks-that-run-once-repeat-2d6910|Work
   can also keep projects moving through Scheduled Tasks that run once, repeat…]]'
+- '[[Changes/Superwhisper/2026-07-10-added-new-deep-links-to-start-and-stop-recording-making-it-easier-to-control-sup|Added
+  new deep links to start and stop recording, making it easier to control…]]'
 - '[[Changes/Kimi Code/2026-07-12-keep-kimi-p-runs-alive-after-a-turn-ends-while-a-goal-is-still-active-or-a-cron|Keep
   kimi -p runs alive after a turn ends while a goal is still active or a cron…]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-07-13-v2026-7-1-c2063718|openclaw-2026-07-13-v2026-7-1-c2063718]]'

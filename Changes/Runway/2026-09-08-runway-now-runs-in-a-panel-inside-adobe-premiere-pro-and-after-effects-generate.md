@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: video-generation
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: ea572d9415cd5346d962528034d97c100e01a3294c4a80f998ca396a5bf84884
+machine_hash: 15efac0816b93e60a680cc91836390e485d9852320391072f1193da4dd7cd91f
 product: runway
 product_name: Runway
 record:
@@ -61,12 +61,12 @@ record:
   title: Introducing Runway Plugins for Adobe
   type: change
 related_changes:
-- '[[Changes/Runway/2026-08-13-xai-s-grok-imagine-1-5-is-now-available-in-runway-mcp-as-grok-imagine-1-5-suppor|Grok
-  Imagine 1.5 Video]]'
 - '[[Changes/Runway/2026-08-24-wan-3-0-is-now-available-in-runway-in-tool-mode-and-workflows-generate-near-stat|Wan
   3.0]]'
 - '[[Changes/Synthesia/2026-09-03-reassign-create-and-rename-speakers-in-a-dubbed-video-with-one-click-available-o|Adjust
   speaker attribution for dubbed videos]]'
+- '[[Changes/Krea/2026-09-07-compute-estimates-before-you-generate|Compute estimates
+  before you generate]]'
 source_release: '[[Releases/Runway/runway-2026-09-08-2026-09-08-introducing-runway-plugins-for-adobe-76126a4a|runway-2026-09-08-2026-09-08-introducing-runway-plugins-for-adobe-76126a4a]]'
 source_type: runway_changelog
 theme: video-generation
@@ -93,7 +93,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Video Generation
 
-- Earlier: 2026-09-03 · Synthesia · [[Changes/Synthesia/2026-09-03-reassign-create-and-rename-speakers-in-a-dubbed-video-with-one-click-available-o|Adjust speaker attribution for dubbed videos]]
+- Earlier: 2026-09-07 · Krea · [[Changes/Krea/2026-09-07-compute-estimates-before-you-generate|Compute estimates before you generate]]
 - Later: 2026-09-17 · Runway · [[Changes/Runway/2026-09-17-runway-is-now-available-as-a-plugin-in-grok-bot-sign-in-with-your-runway-account|Runway MCP for Grok Bot]]
 <!-- chronolog:end -->
 

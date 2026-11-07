@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d0b06048e79936e08e41adc65f5c75e8ccf0950022357b2c8e324553bd0b59d8
+machine_hash: 4009ab0f945d5347d06b0e1cd612b425ef69fe70f010f947f8476c1e660c6982
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,9 +43,9 @@ record:
   title: 'chore: dedup unified exec "waited" rendering by @jif-oai in #7256'
   type: change
 related_changes:
-- '[[Changes/Lovable/2025-11-26-better-reverts-and-ability-to-edit-and-revert-your-messages|Better
-  reverts and ability to edit and revert your messages]]'
-- '[[Changes/Lovable/2025-11-26-navigation-update|Navigation update]]'
+- '[[Changes/Superwhisper/2025-11-26-onboarding-updates|Onboarding updates]]'
+- '[[Changes/Superwhisper/2025-11-26-recording-window-style-selection-in-configuration|Recording
+  window style selection in configuration]]'
 - '[[Changes/Cline/2025-12-02-4-interface-experience-changes-in-v3-39-0|4 Interface
   Experience changes in v3.39.0]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-12-02-rust-v0-64-0-github-266901625-82376886|codex-cli-2025-12-02-rust-v0-64-0-github-266901625-82376886]]'

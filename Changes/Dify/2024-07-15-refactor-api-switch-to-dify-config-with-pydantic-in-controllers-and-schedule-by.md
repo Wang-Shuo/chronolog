@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f83b49f4dcb2d081d5fbdd31f01359ba6d975385035fd14ec20b2ed982e6af4e
+machine_hash: 2aa8e5a5b40f64945df6977fe6df4a90c3824ab594ef4c4f54b15aebbdd7edc9
 product: dify
 product_name: Dify
 record:
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Automation and Scheduling
 
 - Earlier: 2024-06-02 · Open WebUI · [[Changes/Open WebUI/2024-06-02-pipelines-support-open-webui-now-includes-a-plugin-framework-for-enhanced-custom|🔧 Pipelines Support]]
-- Later: 2024-07-23 · Dify · [[Changes/Dify/2024-07-23-update-celery-beat-scheduler-time-to-env-by-johnjyong-in-https-github-com-langge|update celery beat scheduler time to env]]
+- Later: 2024-07-17 · Raycast · [[Changes/Raycast/2024-07-17-my-schedule-improved-link-detection-reliability-when-the-event-contains-html|My Schedule: Improved link detection reliability when the event contains HTML]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3194825e5dfd3d1682545bf07f98f3b0dcade1bdcdff51ecad93ab9f37dc8500
+machine_hash: aa10b937ef2939c2dcb99d383a22017f827e612109716d24bd05b46c850e68a2
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,12 +45,11 @@ record:
     only…
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-10-13-3-safety-and-privacy-changes-in-v2026-10-3|3 Safety
-  and Privacy changes in v2026.10.3]]'
 - '[[Changes/Claude Code/2026-10-14-2-safety-and-privacy-changes-in-v2-1-300|2 Safety
   and Privacy changes in v2.1.300]]'
 - '[[Changes/Claude Code/2026-10-14-6-safety-and-privacy-changes-in-v2-1-299|6 Safety
   and Privacy changes in v2.1.299]]'
+- '[[Changes/Devin/2026-10-14-manage-devin-review-permission|Manage Devin Review Permission]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-10-14-v1-0-98-github-413121884-eb243e64|github-copilot-cli-2026-10-14-v1-0-98-github-413121884-eb243e64]]'
 source_type: github_releases
 theme: safety-privacy
@@ -82,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-10-14 · Claude Code · [[Changes/Claude Code/2026-10-14-6-safety-and-privacy-changes-in-v2-1-299|6 Safety and Privacy changes in v2.1.299]]
+- Earlier: 2026-10-14 · Devin · [[Changes/Devin/2026-10-14-manage-devin-review-permission|Manage Devin Review Permission]]
 - Later: 2026-10-14 · Open WebUI · [[Changes/Open WebUI/2026-10-14-rich-ui-embed-console-errors-rich-ui-tool-embeds-no-longer-log-a-security-error|🧩 Rich UI embed console errors. Rich UI tool embeds no longer log a security…]]
 <!-- chronolog:end -->
 

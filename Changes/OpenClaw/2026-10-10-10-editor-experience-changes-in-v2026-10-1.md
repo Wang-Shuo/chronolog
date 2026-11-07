@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5f52d971c4940a9f15b86e7e4b1b2e3c6a0676362ba0295204a9f29aec00d9a9
+machine_hash: 51b23a0bfc043b54ed0ab650a45a07893f6d3f0a7bd1d1f4105d140ff14a2a48
 product: openclaw
 product_name: OpenClaw
 record:
@@ -92,9 +92,10 @@ record:
   title: 10 Editor Experience changes in v2026.10.1
   type: change
 related_changes:
-- '[[Changes/Midjourney/2026-10-08-thinking-mode|THINKING MODE]]'
 - '[[Changes/Claude Code/2026-10-09-3-editor-experience-changes-in-v2-1-296|3 Editor
   Experience changes in v2.1.296]]'
+- '[[Changes/Devin/2026-10-09-transcript-diff-cards-for-large-edits|Transcript diff
+  cards for large edits]]'
 - '[[Changes/Open WebUI/2026-10-10-21-editor-experience-changes-in-v0-12-0|21 Editor
   Experience changes in v0.12.0]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-10-10-v2026-10-1-d64e4e93|openclaw-2026-10-10-v2026-10-1-d64e4e93]]'

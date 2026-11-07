@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e3d93abc2a545ae91b332d139784a4dcefc3042b808b19dc74807e1aff67e7d6
+machine_hash: bc65ae9b37bbf4c359cf018d4aef0e8657da1a6d52aeb7f5b830861f6cdd4417
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -105,7 +105,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.157.0
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-09-25 · Claude Code · [[Changes/Claude Code/2026-09-25-3-developer-workflow-changes-in-v2-1-283|3 Developer Workflow changes in v2.1.283]]
-- Later: 2026-09-28 · Claude Code · [[Changes/Claude Code/2026-09-28-changed-recap-to-decline-with-a-short-notice-when-it-arrives-relayed-from-a-chat|Changed /recap to decline with a short notice when it arrives relayed from a chat…]]
+- Later: 2026-09-25 · Devin · [[Changes/Devin/2026-09-25-pr-links-respect-your-pr-link-preference-everywhere|PR Links Respect Your PR-Link Preference Everywhere]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

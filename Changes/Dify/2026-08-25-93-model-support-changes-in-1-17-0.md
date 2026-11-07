@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 665f4c36db309cc58d7b46b0306e031dd05c55772ba8388cf52dc879b7206ae1
+machine_hash: 6c25ca2082a3b69bd0872b9ea5ca8a437080d33521dd619c7ab103d4240277c9
 product: dify
 product_name: Dify
 record:
@@ -313,12 +313,12 @@ record:
   title: 93 Model Support changes in 1.17.0
   type: change
 related_changes:
-- '[[Changes/Cline/2026-08-23-refresh-the-built-in-model-catalog-new-entries-include-claude-fable-5-grok-4-6-o|Refresh
-  the built-in model catalog]]'
 - '[[Changes/Google Antigravity/2026-08-24-added-support-for-attaching-audio-files-mp3-wav-m4a-aac-ogg-flac-opus-up-to-20mb|Added
   support for attaching audio files (MP3, WAV, M4A, AAC, OGG, FLAC, OPUS) up…]]'
 - '[[Changes/Lovable/2026-08-24-chat-latest-for-your-app-s-ai-features|Chat Latest
   for your app''s AI features]]'
+- '[[Changes/Recraft/2026-08-24-take-total-control-over-your-output-before-you-hit-generate-choose-your-batch-si|Multi-Generation
+  & Model Comparison]]'
 source_release: '[[Releases/Dify/dify-2026-08-25-1-17-0-github-376348099-66c16161|dify-2026-08-25-1-17-0-github-376348099-66c16161]]'
 source_type: github_releases
 theme: model-support
@@ -550,7 +550,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.17.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-08-24 · Lovable · [[Changes/Lovable/2026-08-24-chat-latest-for-your-app-s-ai-features|Chat Latest for your app's AI features]]
+- Earlier: 2026-08-24 · Recraft · [[Changes/Recraft/2026-08-24-take-total-control-over-your-output-before-you-hit-generate-choose-your-batch-si|Multi-Generation & Model Comparison]]
 - Later: 2026-08-25 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-08-25-select-models-when-using-researcher-in-copilot-chat-windows-web-microsoft-365-co|Select models when using Researcher in Copilot Chat Windows…]]
 <!-- chronolog:end -->
 

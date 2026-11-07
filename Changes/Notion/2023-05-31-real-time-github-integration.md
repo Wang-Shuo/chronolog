@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 75b32a9cc16633f3169dae67bae0c20318e8893021d111459b367b397d93953d
+machine_hash: 260e7c9805133943dffb46fe8386d20e07ab5b64afad3c3bd5bb270998e34223
 product: notion
 product_name: Notion
 record:
@@ -43,10 +43,10 @@ record:
   title: Real-time GitHub integration
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-05-17-you-can-pin-custom-extensions-to-your-activity-bar-in-the-top-left|Activity
-  Bar pinning]]'
 - '[[Changes/ChatGPT/2023-05-24-browse-with-bing-we-ve-integrated-the-browsing-feature-currently-in-beta-for-pai|Bing
   Plugin]]'
+- '[[Changes/Raycast/2023-05-24-ai-commands-more-reliable-capturing-of-selected-text-in-apps-like-spark|AI
+  Commands: More reliable capturing of selected text in apps like Spark]]'
 - '[[Changes/Dify/2023-05-25-3-apps-and-integrations-changes-in-0-2-2|3 Apps and Integrations
   changes in 0.2.2]]'
 source_release: '[[Releases/Notion/notion-2023-05-31-https-www-notion-com-releases-2023-05-31-be6ec354|notion-2023-05-31-https-www-notion-com-releases-2023-05-31-be6ec354]]'

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a0468fcf751b6cfdefb5f01d56edccaa5f0da8e50b40d96a30ec4e2a1caac7a4
+machine_hash: 56a5787887447b7e5726d670165a44d421dec2c0aaeb2a36e8e4816fa869e385
 product: open-webui
 product_name: Open WebUI
 record:
@@ -47,8 +47,8 @@ record:
   title: "\U0001F4DD **Edit Attached Images/Files in Messages**"
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2025-05-05-2-files-and-data-changes-in-v0-6-6|2 Files and
-  Data changes in v0.6.6]]'
+- '[[Changes/AnythingLLM/2025-05-06-add-support-for-v1-document-upload-endpoints-to-support-auto-add-to-workspace-by|Add
+  support for /v1/document/upload endpoints to support auto-add to workspace]]'
 - "[[Changes/Open WebUI/2025-05-06-tika-loader-image-extraction-problem-resolved-ensured-tikaloader-now-processes-e|\U0001F5BC️
   Tika Loader Image Extraction Problem Resolved]]"
 - '[[Changes/Open WebUI/2025-05-10-4-files-and-data-changes-in-v0-6-8|4 Files and

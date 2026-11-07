@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 18f90442bd8dddfcd95be57547a2a4c3a0e43d55310f7cf2931669cd379860de
+machine_hash: e5257cafb6750f86427ce2be05056fb3f90ef07ce49976d3500b10bb3130b26d
 product: replit
 product_name: Replit
 record:
@@ -54,10 +54,10 @@ record:
   title: Faster agent stopping
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-10-07-part-3-6-feat-telemetry-enhance-metrics-with-performance-monitoring-apis-by-elyi|Part
-  3/6 feat(telemetry): enhance metrics with performance monitoring APIs]]'
-- '[[Changes/Open WebUI/2025-10-07-6-reliability-and-performance-changes-in-v0-6-33|6
-  Reliability and Performance changes in v0.6.33]]'
+- '[[Changes/Devin/2025-10-10-various-bug-fixes-including-improvements-to-steerable-deepwiki-configuration-rep|Various
+  bug fixes including improvements to steerable DeepWiki configuration…]]'
+- '[[Changes/Raycast/2025-10-10-general-improved-raycast-memory-consumption-by-not-keeping-the-settings-window-i|General:
+  Improved Raycast memory consumption by not keeping the Settings Window in memory]]'
 - '[[Changes/Replit/2025-10-10-github-import-improvements|GitHub import improvements]]'
 source_release: '[[Releases/Replit/replit-2025-10-10-2025-10-10-6e646996|replit-2025-10-10-2025-10-10-6e646996]]'
 source_type: replit_changelog
@@ -93,7 +93,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-10-07 · Open WebUI · [[Changes/Open WebUI/2025-10-07-6-reliability-and-performance-changes-in-v0-6-33|6 Reliability and Performance changes in v0.6.33]]
+- Earlier: 2025-10-10 · Raycast · [[Changes/Raycast/2025-10-10-general-improved-raycast-memory-consumption-by-not-keeping-the-settings-window-i|General: Improved Raycast memory consumption by not keeping the Settings Window in memory]]
 - Later: 2025-10-10 · Windsurf · [[Changes/Windsurf/2025-10-10-various-other-bug-fixes-and-stability-improvements|Various other bug fixes and stability improvements]]
 <!-- chronolog:end -->
 

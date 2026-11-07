@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 44ac81ecc770fb5a063474f72d0c7f7527f59639b76055060b0f23f00c40abb1
+machine_hash: 46719431d10e7c912bf3e05ba64ef25a0a962cf2011a62084be69c278ffb89cc
 product: cline
 product_name: Cline
 record:
@@ -47,12 +47,12 @@ record:
   title: 4 Model Support changes in v3.39.0
   type: change
 related_changes:
-- '[[Changes/Lovable/2025-11-26-gemini-3-pro-image-generation-support|Gemini 3 Pro
-  & image generation support]]'
-- '[[Changes/Cline/2025-11-27-12-model-support-changes-in-v3-38-3|12 Model Support
-  changes in v3.38.3]]'
 - '[[Changes/ElevenLabs/2025-11-27-4-model-support-changes-in-elevenlabs-updates-2025-11-27|4
   Model Support changes in ElevenLabs updates — 2025-11-27]]'
+- '[[Changes/Recraft/2025-11-28-we-ve-added-a-new-external-model-flux-2-available-to-paid-subscribers-only|Recraft
+  adds a new external model — Flux 2]]'
+- '[[Changes/Superwhisper/2025-12-01-enterprise-organization-models-and-feature-gating|Enterprise
+  organization models and feature gating]]'
 source_release: '[[Releases/Cline/cline-2025-12-02-v3-39-0-github-266733488-92b66311|cline-2025-12-02-v3-39-0-github-266733488-92b66311]]'
 source_type: github_releases
 theme: model-support
@@ -94,7 +94,7 @@ Source: https://github.com/cline/cline/releases/tag/v3.39.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-11-27 · ElevenLabs · [[Changes/ElevenLabs/2025-11-27-4-model-support-changes-in-elevenlabs-updates-2025-11-27|4 Model Support changes in ElevenLabs updates — 2025-11-27]]
+- Earlier: 2025-12-01 · Superwhisper · [[Changes/Superwhisper/2025-12-01-enterprise-organization-models-and-feature-gating|Enterprise organization models and feature gating]]
 - Later: 2025-12-02 · Cline · [[Changes/Cline/2025-12-02-skip-reasoning-details-on-microwave-model-by-canvrno-in-https-github-com-cline-c|Skip reasoning_details on microwave model]]
 <!-- chronolog:end -->
 

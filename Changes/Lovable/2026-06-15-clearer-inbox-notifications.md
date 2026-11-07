@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: a189446f123f7e664256d323b4058313db5b6ba9f9d32538c112439511ab7817
+machine_hash: fc6d57fca93bf3af3516b62f1f1385f6caf302879030890f2e67f647e4423c11
 product: lovable
 product_name: Lovable
 record:
@@ -64,7 +64,8 @@ record:
   title: Clearer inbox notifications
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-06-09-workspace-view-only-sharing|Workspace view-only sharing]]'
+- '[[Changes/Devin/2026-06-10-sent-from-slack-teams-linear-indicator|"Sent from Slack/Teams/Linear"
+  Indicator]]'
 - '[[Changes/Descript/2026-06-11-classic-color-theme|Classic color theme]]'
 - '[[Changes/Codex CLI/2026-06-15-27245-image-add-shared-data-url-preparation-utilities-fjord-oai|♯27245
   image: add shared data URL preparation utilities @fjord-oai]]'

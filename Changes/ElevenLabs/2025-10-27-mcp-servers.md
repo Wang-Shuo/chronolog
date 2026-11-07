@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 72d16e3455337f27c134693c23d91015ae1bd34fe50855c682d41e91e9088e5d
+machine_hash: 65a6d68084339e011c6e7238caf7f081a81ecc85869599b5bfa06b28696bedd4
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -48,10 +48,9 @@ record:
   title: MCP Servers
   type: change
 related_changes:
-- '[[Changes/Cline/2025-10-23-3-apps-and-integrations-changes-in-v3-34-0|3 Apps and
-  Integrations changes in v3.34.0]]'
 - '[[Changes/Codex CLI/2025-10-23-11-apps-and-integrations-changes-in-rust-v0-48-0|11
   Apps and Integrations changes in rust-v0.48.0]]'
+- '[[Changes/Devin/2025-10-24-searchable-channel-dropdown|Searchable Channel Dropdown]]'
 - '[[Changes/Codex CLI/2025-10-25-3-apps-and-integrations-changes-in-rust-v0-50-0|3
   Apps and Integrations changes in rust-v0.50.0]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2025-10-27-2025-10-27-a0636583|elevenlabs-2025-10-27-2025-10-27-a0636583]]'

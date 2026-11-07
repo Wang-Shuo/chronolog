@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: f065d2df5e593beb14ef4731becf30b09a6276acad7044420ca04d8e6193d44b
+machine_hash: b950a11ec748a3fe99fda7c89f2687d28f37c86ea2ee504d88441835a49ffc32
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,11 +47,11 @@ record:
     that new…'
   type: change
 related_changes:
-- '[[Changes/Qoder/2026-09-12-file-openin-choose-whether-to-open-each-file-type-in-the-desktop-app-or-its-asso|File
-  openin: Choose whether to open each file type in the desktop app…]]'
 - '[[Changes/Claude Code/2026-09-14-improved-mobile-to-show-a-single-qr-code-for-claude-ai-mobile-which-opens-the-ri|Improved
   /mobile to show a single QR code for claude.ai/mobile, which opens…]]'
 - '[[Changes/ElevenLabs/2026-09-14-ios-sdk|iOS SDK]]'
+- '[[Changes/Raycast/2026-09-14-ui-updated-all-user-interfaces-to-support-macos-golden-gate|UI
+  : Updated all user interfaces to support macOS Golden Gate]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-15-v2-1-273-github-389362239-6ea37826|claude-code-2026-09-15-v2-1-273-github-389362239-6ea37826]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -92,7 +92,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-09-14 · ElevenLabs · [[Changes/ElevenLabs/2026-09-14-ios-sdk|iOS SDK]]
+- Earlier: 2026-09-14 · Raycast · [[Changes/Raycast/2026-09-14-ui-updated-all-user-interfaces-to-support-macos-golden-gate|UI : Updated all user interfaces to support macOS Golden Gate]]
 - Later: 2026-09-15 · Lovable · [[Changes/Lovable/2026-09-15-connect-your-app-to-whatsapp-business|Connect your app to WhatsApp Business]]
 <!-- chronolog:end -->
 

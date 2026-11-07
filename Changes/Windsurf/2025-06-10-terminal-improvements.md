@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 8f7c64f14933db638348fbad4420dea88f26581bd7ec3870ba25f89d4e9de3fb
+machine_hash: 4724557c8acfe8deb23dff5a94d19d38571290499f200f463f17b47fd59f1f13
 product: windsurf
 product_name: Windsurf
 record:
@@ -42,10 +42,10 @@ record:
   title: Terminal Improvements
   type: change
 related_changes:
-- '[[Changes/Cline/2025-06-05-add-setting-to-disable-aggressive-terminal-reuse-to-help-users-experiencing-task|Add
-  setting to disable aggressive terminal reuse to help users experiencing task…]]'
 - '[[Changes/OpenHands/2025-06-05-added-support-on-windows-without-wsl-by-neubig-in-https-github-com-all-hands-ai|Added
   support on windows without WSL]]'
+- '[[Changes/AnythingLLM/2025-06-10-warn-bad-docker-command-by-timothycarambat-in-https-github-com-mintplex-labs-any|Warn
+  bad docker command]]'
 - '[[Changes/Windsurf/2025-06-10-theme-aware-codeblocks-with-refreshed-design|Theme-aware
   codeblocks with refreshed design]]'
 source_release: '[[Releases/Windsurf/windsurf-2025-06-10-v1-10-1-98f62653|windsurf-2025-06-10-v1-10-1-98f62653]]'
@@ -81,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2025-06-05 · OpenHands · [[Changes/OpenHands/2025-06-05-added-support-on-windows-without-wsl-by-neubig-in-https-github-com-all-hands-ai|Added support on windows without WSL]]
+- Earlier: 2025-06-10 · AnythingLLM · [[Changes/AnythingLLM/2025-06-10-warn-bad-docker-command-by-timothycarambat-in-https-github-com-mintplex-labs-any|Warn bad docker command]]
 - Later: 2025-06-11 · Dify · [[Changes/Dify/2025-06-11-improved-housekeeping-command-now-preserves-avatar-images-and-app-icons-correctl|Improved Housekeeping Command]]
 <!-- chronolog:end -->
 

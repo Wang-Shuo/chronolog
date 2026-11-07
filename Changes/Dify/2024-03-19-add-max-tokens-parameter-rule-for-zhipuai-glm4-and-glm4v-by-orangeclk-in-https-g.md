@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1ce5079609f623ad99cf978c4dfe49b26041ace9211f58f85c406fb81b9d272b
+machine_hash: 4fd7a88eb065da65a3db13c61572df13fec90d12aa8d7f28fd375dedf389d911
 product: dify
 product_name: Dify
 record:
@@ -42,10 +42,10 @@ record:
   title: add max_tokens parameter rule for zhipuai glm4 and glm4v
   type: change
 related_changes:
-- '[[Changes/Ollama/2024-01-08-increasing-context-size-with-num-ctx-will-now-work-up-to-a-model-s-supported-con|Increasing
-  context size with num_ctx will now work…]]'
 - '[[Changes/Notion/2024-01-17-connect-and-create-notion-docs|Connect and create Notion
   docs]]'
+- '[[Changes/Superwhisper/2024-01-30-include-clipboard-context-in-llm|Include clipboard
+  context in LLM]]'
 - '[[Changes/Dify/2024-02-01-feat-add-xinference-llm-context-size-by-yeuoly-in-https-github-com-langgenius-di|feat:
   add xinference llm context size]]'
 source_release: '[[Releases/Dify/dify-2024-03-19-0-5-10-github-147241291-79cab280|dify-2024-03-19-0-5-10-github-147241291-79cab280]]'
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2024-02-01 · Dify · [[Changes/Dify/2024-02-01-feat-add-xinference-llm-context-size-by-yeuoly-in-https-github-com-langgenius-di|feat: add xinference llm context size]]
-- Later: 2024-03-26 · Ollama · [[Changes/Ollama/2024-03-26-command-r-https-ollama-com-library-command-r-a-large-language-model-optimized-fo|Command R((source link) a Large Language Model optimized…]]
+- Later: 2024-03-20 · Raycast · [[Changes/Raycast/2024-03-20-companion-browser-extension|Companion Browser Extension]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

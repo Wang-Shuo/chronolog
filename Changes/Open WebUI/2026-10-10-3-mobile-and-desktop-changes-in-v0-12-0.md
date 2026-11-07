@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9adc9f08241a7c18c0f38babfacd032332d9492054e881e1fa8b90dc54b9e4ee
+machine_hash: 3b8ee1f6b2d331eb2ed2c15a1a07e7626c82eb7d49bf64f64d0d1573a9f6e6cf
 product: open-webui
 product_name: Open WebUI
 record:
@@ -56,12 +56,12 @@ record:
   title: 3 Mobile and Desktop changes in v0.12.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-08-50384-allow-opting-into-16-kib-arm64-code-pages-for-macos-signing-chess-oai|♯50384
-  Allow opting into 16 KiB ARM64 code pages for macOS signing @chess-oai]]'
-- '[[Changes/OpenClaw/2026-10-08-3-mobile-and-desktop-changes-in-v2026-9-9|3 Mobile
-  and Desktop changes in v2026.9.9]]'
-- '[[Changes/Replit/2026-10-09-replit-desktop-windows-preview-with-microsoft-and-nvidia|Replit
-  Desktop Windows preview with Microsoft and NVIDIA]]'
+- '[[Changes/Wispr Flow/2026-10-09-flow-warns-you-when-your-mic-picks-up-no-sound-desktop|Flow
+  warns you when your mic picks up no sound (Desktop)]]'
+- '[[Changes/Wispr Flow/2026-10-09-the-main-flow-window-reopens-after-you-update-desktop|The
+  main Flow window reopens after you update (Desktop)]]'
+- '[[Changes/Wispr Flow/2026-10-09-flow-offers-to-add-a-language-you-speak-desktop|Flow
+  offers to add a language you speak (Desktop)]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-10-10-v0-12-0-github-409209575-f076e92b|open-webui-2026-10-10-v0-12-0-github-409209575-f076e92b]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -114,7 +114,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.12.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-10-09 · Replit · [[Changes/Replit/2026-10-09-replit-desktop-windows-preview-with-microsoft-and-nvidia|Replit Desktop Windows preview with Microsoft and NVIDIA]]
+- Earlier: 2026-10-09 · Wispr Flow · [[Changes/Wispr Flow/2026-10-09-flow-offers-to-add-a-language-you-speak-desktop|Flow offers to add a language you speak (Desktop)]]
 - Later: 2026-10-10 · OpenClaw · [[Changes/OpenClaw/2026-10-10-15-mobile-and-desktop-changes-in-v2026-10-1|15 Mobile and Desktop changes in v2026.10.1]]
 <!-- chronolog:end -->
 

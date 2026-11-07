@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ea047fe18956ccd58cfb5cb89c1d5782eaf2fb8670023a4ce36f9d93868b3f0d
+machine_hash: 52f330cb4c7e917002f0fc3ab5f6a13c9892f994d6781cb7b45fb7658a4c9e4e
 product: notion
 product_name: Notion
 record:
@@ -48,12 +48,12 @@ record:
     keep…
   type: change
 related_changes:
-- '[[Changes/Notion/2021-12-23-create-flowcharts-diagrams-in-code-blocks|Create flowcharts
-  & diagrams in code blocks]]'
-- '[[Changes/Notion/2022-04-14-code-blocks-on-public-notion-pages-now-include-a-copy-button-to-copy-everything|Code
-  blocks on public Notion pages now include a Copy button to copy everything…]]'
+- '[[Changes/Raycast/2022-07-19-search-screenshots-you-can-now-opt-in-from-the-command-s-preferences-to-include|Search
+  Screenshots : You can now opt-in from the command’s preferences to include…]]'
 - '[[Changes/Notion/2022-08-25-drag-a-value-from-one-cell-to-fill-other-cells|Drag
   a value from one cell to fill other cells]]'
+- '[[Changes/Raycast/2022-09-28-lightsaber-we-have-temporarily-removed-the-lightsaber-command|Lightsaber:
+  We have temporarily removed the Lightsaber command]]'
 source_release: '[[Releases/Notion/notion-2022-10-12-https-www-notion-com-releases-2022-10-12-e6fa59c9|notion-2022-10-12-https-www-notion-com-releases-2022-10-12-e6fa59c9]]'
 source_type: notion_changelog
 theme: developer-workflow
@@ -87,8 +87,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2022-08-25 · Notion · [[Changes/Notion/2022-08-25-drag-a-value-from-one-cell-to-fill-other-cells|Drag a value from one cell to fill other cells]]
-- Later: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earlier: 2022-09-28 · Raycast · [[Changes/Raycast/2022-09-28-lightsaber-we-have-temporarily-removed-the-lightsaber-command|Lightsaber: We have temporarily removed the Lightsaber command]]
+- Later: 2022-10-12 · Raycast · [[Changes/Raycast/2022-10-12-preferences-the-error-toast-that-is-shown-when-an-alias-is-used-by-another-comma|Preferences: The error toast that is shown when an alias is used by another command…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

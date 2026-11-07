@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 04baeebcbac694541b3913a586462ec94161db037c225a78f80707c981238f97
+machine_hash: 601fec93078efbf68822e7beb7deccf9dfc45f5a450aa3fe2b0802cb89385d9e
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -48,10 +48,8 @@ record:
     file…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-08-18-37828-track-running-unified-exec-processes-at-turn-completion-copyberry|♯37828
-  Track running unified exec processes at turn completion @copyberry]]'
-- '[[Changes/Kimi Code/2026-08-18-web-the-browser-tab-title-now-shows-the-current-workspace-directory-name|web:
-  The browser tab title now shows the current workspace directory name]]'
+- '[[Changes/Devin/2026-08-19-faster-pr-tab|Faster PR Tab]]'
+- '[[Changes/Devin/2026-08-19-ci-failure-shortcuts|CI Failure Shortcuts]]'
 - '[[Changes/Codex CLI/2026-08-20-5-editor-experience-changes-in-rust-v0-149-0|5 Editor
   Experience changes in rust-v0.149.0]]'
 source_release: '[[Releases/Google Antigravity/google-antigravity-2026-08-20-rel-hub-2-9-1-30fa0814|google-antigravity-2026-08-20-rel-hub-2-9-1-30fa0814]]'

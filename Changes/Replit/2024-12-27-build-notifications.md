@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: b7b62d03b024dc27af11ffb65ad4c8c1533037a7c671b3bdb83a5678fbef974e
+machine_hash: 926d83227252df71650237e45b798179fbd4d6f66450f86a2a1a106a73208438
 product: replit
 product_name: Replit
 record:

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2f59013b73583dbf3f176e220a407f8480a2df30e921f4e137be131b6304ce53
+machine_hash: 859031db8959b8a80d2bd232192c2f82fd9651feb8416c00c23bef821c9da79b
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,12 +47,12 @@ record:
   title: 3 Developer Workflow changes in v2.1.97
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-04-04-restored-git-backed-review-modes|Restored git-backed
-  review modes]]'
 - '[[Changes/OpenCode/2026-04-04-5-developer-workflow-changes-in-v1-3-15-1|5 Developer
   Workflow changes in v1.3.15 + 1]]'
 - '[[Changes/OpenCode/2026-04-06-5-developer-workflow-changes-in-v1-3-17-1|5 Developer
   Workflow changes in v1.3.17 + 1]]'
+- '[[Changes/Raycast/2026-04-07-calculator-new-calculator-command|Calculator : New
+  Calculator command]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-08-v2-1-97-github-306811434-0f57bf33|claude-code-2026-04-08-v2-1-97-github-306811434-0f57bf33]]'
 source_type: github_releases
 theme: developer-workflow
@@ -92,7 +92,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.97
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-04-06 · OpenCode · [[Changes/OpenCode/2026-04-06-5-developer-workflow-changes-in-v1-3-17-1|5 Developer Workflow changes in v1.3.17 + 1]]
+- Earlier: 2026-04-07 · Raycast · [[Changes/Raycast/2026-04-07-calculator-new-calculator-command|Calculator : New Calculator command]]
 - Later: 2026-04-08 · Cursor · [[Changes/Cursor/2026-04-08-bugbot-learned-rules-9e5cac|Bugbot Learned Rules]]
 <!-- chronolog:end -->
 

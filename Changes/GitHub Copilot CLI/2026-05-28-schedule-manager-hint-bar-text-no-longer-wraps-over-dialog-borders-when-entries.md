@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 54b3997ed3408b473dd103046634a13d2e7aac515614e1b7deb8ae7240092f2b
+machine_hash: f004eb71f853efa90b18788881450d18afde260eb1eedbca4224cf43701bfdb9
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,11 +45,11 @@ record:
     are added
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-05-20-this-release-brings-cursor-automations-to-the-agents-window-and-introduces-the-a-cd58e1|Cursor
-  brings Cursor Automations to the Agents Window and introduces the ability…]]'
 - '[[Changes/Replit/2026-05-22-cleaner-task-settings-dropdown|Cleaner task settings
   dropdown]]'
 - '[[Changes/ElevenLabs/2026-05-25-music|Music]]'
+- '[[Changes/AnythingLLM/2026-05-26-3-automation-and-scheduling-changes-in-v1-13-0|3
+  Automation and Scheduling changes in v1.13.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-05-28-v1-0-55-github-331104258-cce42856|github-copilot-cli-2026-05-28-v1-0-55-github-331104258-cce42856]]'
 source_type: github_releases
 theme: automation-scheduling
@@ -90,7 +90,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2026-05-25 · ElevenLabs · [[Changes/ElevenLabs/2026-05-25-music|Music]]
+- Earlier: 2026-05-26 · AnythingLLM · [[Changes/AnythingLLM/2026-05-26-3-automation-and-scheduling-changes-in-v1-13-0|3 Automation and Scheduling changes in v1.13.0]]
 - Later: 2026-05-28 · Kimi Code · [[Changes/Kimi Code/2026-05-28-2-automation-and-scheduling-changes-in-kimi-code-0-5-0|2 Automation and Scheduling changes in Kimi Code 0.5.0]]
 <!-- chronolog:end -->
 

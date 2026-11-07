@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9cc553a5da3d75b4ed6307157787a0ed91bf8e27b85cea3677241d7b2a673c7a
+machine_hash: 593cbe800f3a95e1490d325393066effec9d67664e0d3dfe8c3da5493b2d3cd5
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,9 +42,9 @@ record:
   title: 2 Model Support changes in rust-v0.92.0
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-01-25-desktop-fixed-crash-when-no-default-model-is-set|Desktop
-  Fixed crash when no default model is set]]'
 - '[[Changes/ElevenLabs/2026-01-26-elevencreative-studio|ElevenCreative Studio]]'
+- '[[Changes/Superwhisper/2026-01-26-api-models-fixed-groq-byok-and-custom-model-endpoint-issues|API
+  & Models: Fixed Groq BYOK and custom model endpoint issues]]'
 - '[[Changes/Cline/2026-01-27-3-model-support-changes-in-v3-54-0|3 Model Support changes
   in v3.54.0]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-01-27-rust-v0-92-0-github-280265755-5634ff7c|codex-cli-2026-01-27-rust-v0-92-0-github-280265755-5634ff7c]]'

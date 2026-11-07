@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: eaec4e7ccaf2477945b9e9d76cef1467874576dc2c020193b7cfb1c701d32db1
+machine_hash: 6dfc24bbfc474d481426c882edb304cada01ad0261f1dc87e1b7f49c3377a012
 product: opencode
 product_name: OpenCode
 record:
@@ -43,8 +43,8 @@ record:
   title: 2 Mobile and Desktop changes in v1.14.34
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-04-30-3-mobile-and-desktop-changes-in-rust-v0-128-0|3
-  Mobile and Desktop changes in rust-v0.128.0]]'
+- '[[Changes/Wispr Flow/2026-05-01-transforms-rewrite-any-text-with-ai-beta-desktop|Transforms:
+  Rewrite any text with AI (Beta) (Desktop)]]'
 - '[[Changes/Ollama/2026-05-03-3-mobile-and-desktop-changes-in-v0-23-0|3 Mobile and
   Desktop changes in v0.23.0]]'
 - '[[Changes/ElevenLabs/2026-05-04-android-sdk|Android SDK]]'

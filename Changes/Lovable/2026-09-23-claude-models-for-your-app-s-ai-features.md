@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: efffb7ae10eace4ba5e65a4fc4c908fe0346de68239ae223e97f141c9fdcba45
+machine_hash: f99731211a02fad67553d160d559cb9fb5033282b08a8633f4ea068cb48bd5fc
 product: lovable
 product_name: Lovable
 record:
@@ -58,10 +58,10 @@ record:
   title: Claude models for your app's AI features
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-23-improved-interactive-startup-time-git-reads-startup-telemetry-and-the-bedrock-ve|Improved
-  interactive startup time]]'
 - '[[Changes/Codex CLI/2026-09-23-2-model-support-changes-in-rust-v0-156-1|2 Model
   Support changes in rust-v0.156.1]]'
+- '[[Changes/Devin/2026-09-23-capability-picker-names-the-models|Capability Picker
+  Names the Models]]'
 - '[[Changes/ElevenLabs/2026-09-23-image-video|Image & Video]]'
 source_release: '[[Releases/Lovable/lovable-2026-09-23-2026-09-23-6719e501|lovable-2026-09-23-2026-09-23-6719e501]]'
 source_type: lovable_changelog

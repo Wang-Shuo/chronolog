@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 9e56f8550438769ecc8f717458cac4fdeefd9aae2dc045dbaa0acaf76e398bd0
+machine_hash: 9c4f774c49b42c011262bcf86b1bdbaba64fc6ee41420fdbe45e04c7cbc60c77
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -66,10 +66,10 @@ record:
   title: Clone strength for v4 voices
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-10-24-ollama-can-now-generate-speech-https-docs-ollama-com-capabilities-speech-on-maco|Ollama
-  can now generate speech((source link) on macOS]]'
 - '[[Changes/Open WebUI/2026-10-25-4-voice-and-audio-changes-in-v0-12-4|4 Voice and
   Audio changes in v0.12.4]]'
+- '[[Changes/AnythingLLM/2026-10-26-support-mov-files-for-transcription-by-shatfield4-in-https-github-com-mintplex-l|Support
+  .mov files for transcription]]'
 - '[[Changes/ElevenLabs/2026-10-26-python-sdk|Python SDK]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-10-26-2026-10-26-ca7c552d|elevenlabs-2026-10-26-2026-10-26-ca7c552d]]'
 source_type: elevenlabs_changelog
@@ -120,8 +120,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-10-25 · Open WebUI · [[Changes/Open WebUI/2026-10-25-4-voice-and-audio-changes-in-v0-12-4|4 Voice and Audio changes in v0.12.4]]
-- Later: 2026-10-27 · Ollama · [[Changes/Ollama/2026-10-27-3-voice-and-audio-changes-in-v0-40-12|3 Voice and Audio changes in v0.40.12]]
+- Earlier: 2026-10-26 · AnythingLLM · [[Changes/AnythingLLM/2026-10-26-support-mov-files-for-transcription-by-shatfield4-in-https-github-com-mintplex-l|Support .mov files for transcription]]
+- Later: 2026-10-26 · Superwhisper · [[Changes/Superwhisper/2026-10-26-resolve-spoken-self-corrections-in-message-preset|Resolve spoken self-corrections in Message preset]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

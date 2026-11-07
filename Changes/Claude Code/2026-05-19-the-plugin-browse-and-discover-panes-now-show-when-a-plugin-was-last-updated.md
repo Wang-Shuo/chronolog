@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c9a5116cf14cdc2b86d573b0283317af23aedb178b5406d98c8186b61903995b
+machine_hash: 2c434f68efe72fe9b3fe0e5f48e9dcca7cebd18221a715ca9a34ac028dd885cf
 product: claude-code
 product_name: Claude Code
 record:
@@ -52,11 +52,10 @@ record:
   title: The `/plugin` browse and discover panes now show when a plugin was last updated
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-05-09-5-search-and-browsing-changes-in-v0-9-3|5 Search
-  and Browsing changes in v0.9.3]]'
-- '[[Changes/OpenCode/2026-05-09-core-limited-openai-deep-research-models-to-the-reasoning-level-they-actually-su|Core
-  Limited OpenAI deep research models to the reasoning level they actually support]]'
+- '[[Changes/Raycast/2026-05-12-root-search-simplified-file-browsing-ux-by-automatically-moving-into-file-search|Root
+  Search : Simplified file browsing UX by automatically moving into File Search]]'
 - '[[Changes/Suno/2026-05-13-browse-your-library|Browse your library]]'
+- '[[Changes/Krea/2026-05-14-a-new-gallery-feed|A new gallery feed]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-19-v2-1-144-github-324524751-1469637a|claude-code-2026-05-19-v2-1-144-github-324524751-1469637a]]'
 source_type: github_releases
 theme: search-browsing
@@ -95,7 +94,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Search and Browsing
 
-- Earlier: 2026-05-13 · Suno · [[Changes/Suno/2026-05-13-browse-your-library|Browse your library]]
+- Earlier: 2026-05-14 · Krea · [[Changes/Krea/2026-05-14-a-new-gallery-feed|A new gallery feed]]
 - Later: 2026-05-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-20-github-mcp-web-search-tool-is-available-immediately-without-requiring-tool-searc|GitHub MCP web search tool is available immediately without requiring tool search]]
 <!-- chronolog:end -->
 

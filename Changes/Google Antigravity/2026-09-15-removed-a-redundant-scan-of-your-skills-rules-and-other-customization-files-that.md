@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 61241ff7e884fc903dcdb04a57f19854bf4d34b2ed01bd04bc69091d1e4868cf
+machine_hash: 9993c38e28bd8ea25e2dd8a7e49bb5a0cc7bcdfeb4bb48f359be9a7d4108eb2f
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -45,10 +45,10 @@ record:
   title: Removed a redundant scan of your skills, rules, and other customization files…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-14-improved-terminal-rendering-performance-large-diffs-and-long-transcripts-render|Improved
-  terminal rendering performance]]'
-- '[[Changes/Ollama/2026-09-14-2-reliability-and-performance-changes-in-v0-34-1|2
-  Reliability and Performance changes in v0.34.1]]'
+- '[[Changes/Raycast/2026-09-14-2-reliability-and-performance-changes-in-raycast-macos-2-4|2
+  Reliability and Performance changes in Raycast macos 2.4]]'
+- '[[Changes/Superwhisper/2026-09-14-faster-offline-model-startup|Faster offline model
+  startup]]'
 - '[[Changes/Claude Code/2026-09-15-improved-responsiveness-in-long-sessions-hook-progress-and-sub-agent-activity-no|Improved
   responsiveness in long sessions]]'
 source_release: '[[Releases/Google Antigravity/google-antigravity-2026-09-15-rel-hub-2-14-0-a79096fb|google-antigravity-2026-09-15-rel-hub-2-14-0-a79096fb]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 24639153b736f1243236d15d3f53784ea215849ceac95f544f4b47105f27ea56
+machine_hash: ae7be16899eb764b6b6cfae70cc7e4ef4b30825439704a9a2483fa0bb3ea85b6
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -90,7 +90,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.47.0
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2025-10-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-10-13-removed-the-windows-support-is-experimental-warning-we-ve-made-some-big-strides|Removed the "Windows support is experimental" warning -- we've made some big strides…]]
-- Later: 2025-10-23 · ChatGPT · [[Changes/ChatGPT/2025-10-23-starting-today-project-sharing-is-available-to-all-chatgpt-users-including-for-f-3f946e|Starting today, project sharing is available to all ChatGPT users, including…]]
+- Later: 2025-10-17 · Raycast · [[Changes/Raycast/2025-10-17-keyboard-added-keyboard-button-switch-for-iphone-se|Keyboard : Added keyboard button switch for iPhone SE]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

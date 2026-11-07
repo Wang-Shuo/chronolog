@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 22ab00b50f514fb08e3c6be0a4eaddab9e47ec3ad7e5715034b2ce402da8b25e
+machine_hash: 04537de92da068757f75d19f8b1e65b8e658934c9c5477c354634ab46e722248
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,8 +43,7 @@ record:
   title: Add a `completion` subcommand to the CLI…
   type: change
 related_changes:
-- '[[Changes/Descript/2025-06-26-there-s-also-a-new-dropdown-view-menu-in-the-upper-lefthand-side-of-the-screen-r|There’s
-  also a new dropdown View menu in the upper lefthand side of the screen…]]'
+- '[[Changes/Devin/2025-06-26-git-permissions-ui|Git Permissions UI]]'
 - '[[Changes/Aider/2025-06-27-improved-github-copilot-token-handling-with-better-validation-and-error-messages|Improved
   GitHub Copilot token handling with better validation and error messages…]]'
 - '[[Changes/Gemini CLI/2025-07-01-2-editor-experience-changes-in-v0-1-8|2 Editor

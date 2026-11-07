@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7ae02b09841d3cc54a911ebf31b4f64f48a287afbc7d745a40b015bd1fc44897
+machine_hash: 5409d3c41c7768847dd0a515c0419bbd751d2ecda1818fb5e1b1c31e563362a6
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -47,7 +47,8 @@ record:
   title: 2 Apps and Integrations changes in Kimi Code 0.39.0
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-08-26-chat-with-lovable-in-slack|Chat with Lovable in Slack]]'
+- '[[Changes/Superwhisper/2026-08-26-agent-plugin-support-for-deepseek-harness|Agent
+  plugin support for DeepSeek Harness]]'
 - '[[Changes/Claude Code/2026-08-27-improved-managed-settings-client-side-timeout-mcp-startup-mode-and-stream-watchd|Improved
   managed settings]]'
 - '[[Changes/GitHub Copilot CLI/2026-08-27-12-apps-and-integrations-changes-in-v1-0-81|12

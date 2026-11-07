@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 78a0684499fb7cf92fdf2a111bfbf7f5e863f3616683b1e973eda83a01076018
+machine_hash: 097bd845a8167e05fa1eb8ff24f1b0fa6996352f72d15d4a87680f3842592d7a
 product: opencode
 product_name: OpenCode
 record:
@@ -62,8 +62,8 @@ record:
   title: 9 Mobile and Desktop changes in v2.2.1
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-10-27-the-app-isn-t-signed-with-an-apple-developer-id-yet-so-macos-may-call-a|The
-  app isn''t signed with an Apple Developer ID yet, so macOS may call a]]'
+- '[[Changes/Superwhisper/2026-10-28-updated-app-icon-style-to-match-macos-dark-mode|Updated
+  app icon style to match macOS dark mode]]'
 - '[[Changes/Codex CLI/2026-10-29-57503-fix-macos-standalone-release-pruning-etraut-openai|♯57503
   Fix macOS standalone release pruning @etraut-openai]]'
 - '[[Changes/OpenCode/2026-10-29-10-mobile-and-desktop-changes-in-v2-2-2|10 Mobile
@@ -131,7 +131,7 @@ Source: https://opencode.ai/changelog/v2.2.1
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-10-29 · OpenCode · [[Changes/OpenCode/2026-10-29-10-mobile-and-desktop-changes-in-v2-2-2|10 Mobile and Desktop changes in v2.2.2]]
-- Later: 2026-10-30 · Claude Code · [[Changes/Claude Code/2026-10-30-2-mobile-and-desktop-changes-in-v2-1-314|2 Mobile and Desktop changes in v2.1.314]]
+- Later: 2026-10-29 · Superwhisper · [[Changes/Superwhisper/2026-10-29-s1-mini-tone-slider-updated-to-match-macos|S1-mini tone slider updated to match macOS]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

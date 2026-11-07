@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: ed3b50005b3e526263fa7f11c787f459c9a741a8f075bf57ebd0b62a37ddb86f
+machine_hash: fb3e82394cda74d909f4a112bfcb3660f9f9649bd4a6e8f48c71b13a3e198c99
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -93,7 +93,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-07-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-30-2-developer-workflow-changes-in-v1-0-76|2 Developer Workflow changes in v1.0.76]]
-- Later: 2026-07-31 · Google Antigravity · [[Changes/Google Antigravity/2026-07-31-2-developer-workflow-changes-in-hub-v2-5-0-enterprise-sign-in-gemini|2 Developer Workflow changes in HUB v2.5.0 — Enterprise sign-in: Gemini…]]
+- Later: 2026-07-31 · Devin · [[Changes/Devin/2026-07-31-approval-progress-at-a-glance|Approval Progress at a Glance]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 282a886ed97c0d021a0a5124a403c15aef9ed56902e65ae805a9239936927890
+machine_hash: 48ec87f96d5afc35eb9589019b97b0335175480fc5b5b0fcf8ebe22a5bf9e350
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -90,7 +90,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-10-15 · Codex CLI · [[Changes/Codex CLI/2026-10-15-15-developer-workflow-changes-in-rust-v0-163-0|15 Developer Workflow changes in rust-v0.163.0]]
-- Later: 2026-10-16 · Open WebUI · [[Changes/Open WebUI/2026-10-16-20-developer-workflow-changes-in-v0-12-3|20 Developer Workflow changes in v0.12.3]]
+- Later: 2026-10-16 · Devin · [[Changes/Devin/2026-10-16-list-and-search-pull-requests|List and Search Pull Requests]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

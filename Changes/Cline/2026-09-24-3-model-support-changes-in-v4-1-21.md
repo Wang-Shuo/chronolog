@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a5c2ef317e8416a29e4b2bcf83cf8374420df118b229d8447fa26c0f80e183a5
+machine_hash: 2e5e31bf77ba784f246cb4ef25e280535d642f06c8cca815fcbf2dff43dca836
 product: cline
 product_name: Cline
 record:
@@ -49,10 +49,10 @@ record:
   title: 3 Model Support changes in v4.1.21
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-09-23-enable-extended-retention-models-in-your-enterprise-workspace|Enable
-  extended-retention models in your Enterprise workspace]]'
-- '[[Changes/OpenClaw/2026-09-23-22-model-support-changes-in-v2026-9-6|22 Model Support
-  changes in v2026.9.6]]'
+- '[[Changes/Recraft/2026-09-23-finally-zero-lag-in-your-workflow-recraft-v4-1-flash-generates-images-in-1-3-sec|V4.1
+  Flash: The Fastest Model on the Market]]'
+- '[[Changes/Superwhisper/2026-09-23-bring-your-own-key-byok-setups-now-respect-your-organization-s-cloud-model-setti|Bring-your-own-key
+  (BYOK) setups now respect your organization''s cloud model settings]]'
 - '[[Changes/Claude Code/2026-09-24-2-model-support-changes-in-v2-1-282|2 Model Support
   changes in v2.1.282]]'
 source_release: '[[Releases/Cline/cline-2026-09-24-v4-1-21-github-395862160-2e42664e|cline-2026-09-24-v4-1-21-github-395862160-2e42664e]]'

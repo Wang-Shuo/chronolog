@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 584e34a67d209d3bf15a228be989e6b494236038b70a7e91f28d7ae9770c7b7c
+machine_hash: 743e87348e4ba4ffc3385f0b5995a9e0d4093c046959df361fbbb7411e4a00ad
 product: open-webui
 product_name: Open WebUI
 record:
@@ -58,9 +58,10 @@ record:
     channels are now…"
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-10-30-persistent-desktop-terminals|Persistent Desktop Terminals]]'
 - '[[Changes/OpenCode/2026-10-30-14-mobile-and-desktop-changes-in-v2-2-3|14 Mobile
   and Desktop changes in v2.2.3]]'
+- '[[Changes/Superwhisper/2026-10-30-optimized-for-iphone-duo|Optimized for iPhone
+  Duo!]]'
 - '[[Changes/ElevenLabs/2026-11-02-android-sdk|Android SDK]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-11-03-v0-13-0-github-432661497-44290c10|open-webui-2026-11-03-v0-13-0-github-432661497-44290c10]]'
 source_type: github_releases

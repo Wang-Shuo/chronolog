@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ab0239e7d6c565c7aac15600b510bcd7a1cb49c2a30c53ed47c4efb2a595d5a0
+machine_hash: 93501e607f3a6773c678834f16ab733fd72f8b36c172404c173f92677d670539
 product: opencode
 product_name: OpenCode
 record:
@@ -46,10 +46,10 @@ record:
   title: 3 Developer Workflow changes in v1.14.44 + 2
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-05-08-added-configurable-opentelemetry-trace-metadata-and-richer-review-feedback-analy|Added
-  configurable OpenTelemetry trace metadata and richer review/feedback analytics…]]'
-- '[[Changes/GitHub Copilot CLI/2026-05-08-2-developer-workflow-changes-in-v1-0-44|2
-  Developer Workflow changes in v1.0.44]]'
+- '[[Changes/Raycast/2026-05-08-ai-commands-improved-summarize-webpage-command-giving-responses-that-were-too-sh|AI
+  Commands : Improved summarize webpage command giving responses that were too short]]'
+- '[[Changes/Raycast/2026-05-08-2-developer-workflow-changes-in-raycast-windows-0-56|2
+  Developer Workflow changes in Raycast windows 0.56]]'
 - '[[Changes/Open WebUI/2026-05-09-22-developer-workflow-changes-in-v0-9-3|22 Developer
   Workflow changes in v0.9.3]]'
 source_release: '[[Releases/OpenCode/opencode-2026-05-09-v1-14-44-6cb8a034|opencode-2026-05-09-v1-14-44-6cb8a034]]'

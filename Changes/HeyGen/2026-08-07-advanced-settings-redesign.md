@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: cce39ec18b1e561d3970a8b3357543566af3d88c3c26afb5bee05beda243b895
+machine_hash: 055a394ea375653a20ea03ccd1a1da209e486ee2e4a65a5feba070d2d8b0eca3
 product: heygen
 product_name: HeyGen
 record:

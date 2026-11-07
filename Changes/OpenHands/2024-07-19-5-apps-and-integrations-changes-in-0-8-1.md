@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0ef84ae03b9360d7eb7de1a8e691b871a1481f6efacd94678b5329ad1474273a
+machine_hash: c3c90310ac4b4cf7aea022ad94f45f93e443e525c8e33eacd6456714bd3d9ab3
 product: openhands
 product_name: OpenHands
 record:
@@ -54,12 +54,11 @@ record:
   title: 5 Apps and Integrations changes in 0.8.1
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2024-07-09-apache-tika-integration-added-support-for-using-apache-tika-as-a-document-loader|\U0001F4C4
-  Apache Tika Integration]]"
-- '[[Changes/OpenHands/2024-07-13-2-apps-and-integrations-changes-in-0-8-0|2 Apps
-  and Integrations changes in 0.8.0]]'
+- '[[Changes/Devin/2024-07-15-seamless-communication-across-slack-channels-and-web-app|Seamless
+  communication across Slack channels and web app]]'
 - '[[Changes/Dify/2024-07-15-2-apps-and-integrations-changes-in-0-6-14|2 Apps and
   Integrations changes in 0.6.14]]'
+- '[[Changes/Raycast/2024-07-17-auto-quit-applications|Auto Quit Applications]]'
 source_release: '[[Releases/OpenHands/openhands-2024-07-19-0-8-1-github-166290483-3fde9148|openhands-2024-07-19-0-8-1-github-166290483-3fde9148]]'
 source_type: github_releases
 theme: apps-integrations
@@ -102,7 +101,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/0.8.1
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2024-07-15 · Dify · [[Changes/Dify/2024-07-15-2-apps-and-integrations-changes-in-0-6-14|2 Apps and Integrations changes in 0.6.14]]
+- Earlier: 2024-07-17 · Raycast · [[Changes/Raycast/2024-07-17-auto-quit-applications|Auto Quit Applications]]
 - Later: 2024-07-23 · Dify · [[Changes/Dify/2024-07-23-3-apps-and-integrations-changes-in-0-6-15|3 Apps and Integrations changes in 0.6.15]]
 <!-- chronolog:end -->
 

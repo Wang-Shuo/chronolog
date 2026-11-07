@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6c7fdf4920df808cdac28a9c9e3e32586efce416dd462773bf1173781b9c7306
+machine_hash: 67dc31de764ae66dbc82ffaec51c28f3609c0ae52bfec31f48d08fb94c6f0d0c
 product: aider
 product_name: Aider
 record:
@@ -42,12 +42,12 @@ record:
   title: 2 Model Support changes in v0.69.0
   type: change
 related_changes:
-- '[[Changes/Gemini/2024-12-11-introducing-gemini-2-0-flash-as-an-experimental-model-in-gemini|Introducing
-  Gemini 2.0 Flash as an experimental model in Gemini]]'
-- '[[Changes/Midjourney/2024-12-11-in-the-future-we-plan-for-the-characters-worlds-and-other-materials-you-create-i|In
-  the future, we plan for the characters, worlds, and other materials you create…]]'
-- '[[Changes/Ollama/2024-12-11-exaone-3-5-https-ollama-com-library-exaone3-5-a-collection-of-instruction-tuned|EXAONE
-  3.5((source link) a collection…]]'
+- '[[Changes/Superwhisper/2024-12-12-new-medically-focused-nova-medical-cloud-model|New
+  medically focused ''Nova Medical (Cloud)'' model]]'
+- '[[Changes/Superwhisper/2024-12-12-new-super-fast-ultra-cloud-model|New super fast,
+  ''Ultra (Cloud)'' model]]'
+- '[[Changes/Superwhisper/2024-12-12-new-super-fast-ultra-v3-turbo-local-model|New
+  super fast, ''Ultra V3 Turbo'' local model]]'
 source_release: '[[Releases/Aider/aider-2024-12-13-v0-69-0-github-190706820-c74597ab|aider-2024-12-13-v0-69-0-github-190706820-c74597ab]]'
 source_type: github_releases
 theme: model-support
@@ -83,7 +83,7 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.69.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2024-12-11 · Ollama · [[Changes/Ollama/2024-12-11-exaone-3-5-https-ollama-com-library-exaone3-5-a-collection-of-instruction-tuned|EXAONE 3.5((source link) a collection…]]
+- Earlier: 2024-12-12 · Superwhisper · [[Changes/Superwhisper/2024-12-12-new-super-fast-ultra-v3-turbo-local-model|New super fast, 'Ultra V3 Turbo' local model]]
 - Later: 2024-12-13 · ChatGPT · [[Changes/ChatGPT/2024-12-13-projects-provide-a-new-way-to-group-files-and-chats-for-personal-use-simplifying|Projects provide a new way to group files and chats for personal use, simplifying…]]
 <!-- chronolog:end -->
 

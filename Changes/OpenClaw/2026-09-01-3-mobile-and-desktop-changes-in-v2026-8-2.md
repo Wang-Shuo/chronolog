@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d3977c5ea0d125143353cb5ce9b802dc0418f1fee80c990da52fc8c015937a90
+machine_hash: 5d4826389879936c7664987c6392a786631a6ea518619c7674c6f82f9c027d7d
 product: openclaw
 product_name: OpenClaw
 record:
@@ -62,10 +62,10 @@ record:
   title: 3 Mobile and Desktop changes in v2026.8.2
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-08-31-installation-and-onboarding-a-clearer-path-from-download-to-a-first-useful-conve|Installation
-  and Onboarding - A clearer path from download to a first useful…]]'
 - '[[Changes/Qoder/2026-08-31-improved-the-reliability-of-installation-and-updates-on-windows|Improved
   the reliability of installation and updates on Windows]]'
+- '[[Changes/Raycast/2026-08-31-2-mobile-and-desktop-changes-in-raycast-ios-1-3-6|2
+  Mobile and Desktop changes in Raycast ios 1.3.6]]'
 - '[[Changes/Claude Code/2026-09-01-changed-add-dir-add-dir-and-additionaldirectories-to-refuse-network-paths-unc-sh|Changed
   --add-dir, /add-dir, and additionalDirectories to refuse network paths…]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-09-01-v2026-8-2-cca64187|openclaw-2026-09-01-v2026-8-2-cca64187]]'

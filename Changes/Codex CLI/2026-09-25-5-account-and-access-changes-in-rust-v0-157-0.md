@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 03915e1f75a1e4193860b0046ab868453229a7bfe1733d09c40f60cad7981dda
+machine_hash: 89831d141e092e38383d2b704b2a50726907c464c97f85cd47f0ed7cde371880
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -50,8 +50,8 @@ record:
   title: 5 Account and Access changes in rust-v0.157.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-23-2-account-and-access-changes-in-v2-1-281|2 Account
-  and Access changes in v2.1.281]]'
+- '[[Changes/Devin/2026-09-23-bring-your-own-oauth-setup-guides-for-microsoft-365-and-google-workspace-mcps|Bring-Your-Own
+  OAuth Setup Guides for Microsoft 365 and Google Workspace MCPs]]'
 - '[[Changes/OpenClaw/2026-09-23-17-account-and-access-changes-in-v2026-9-6|17 Account
   and Access changes in v2026.9.6]]'
 - '[[Changes/Qoder/2026-09-23-network-proxy-added-support-for-http-https-proxy-urls-containing-a-username-and|Network

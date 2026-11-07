@@ -14,12 +14,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 43fafec7ae6308184ed552ba0db183df738023d4e9360c091c4d228ae590dacd
+machine_hash: 7506d649632ed296ecb418b1fbee4cf33375e57873d14581c63ed6d7552b80ea
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -91,7 +91,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.130.0
 ## Nearby in Account and Access
 
 - Earlier: 2026-05-07 · Codex CLI · [[Changes/Codex CLI/2026-05-07-2-account-and-access-changes-in-rust-v0-129-0|2 Account and Access changes in rust-v0.129.0]]
-- Later: 2026-05-08 · Replit · [[Changes/Replit/2026-05-08-private-publishing-for-everyone|Private publishing for everyone]]
+- Later: 2026-05-08 · Raycast · [[Changes/Raycast/2026-05-08-general-faster-app-startup-and-a-more-reliable-launch-at-login-experience|General : Faster app startup and a more reliable launch-at-login experience]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

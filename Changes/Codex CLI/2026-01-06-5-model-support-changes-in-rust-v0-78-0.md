@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: cabf8122f834eaad9364e10dba27a5c6ac678f1da53ca11847ee4dd2debeade5
+machine_hash: 332fd24a6a844dfb8abb3a2f756ab58a9ceedcba60057476f8f78ab88eb86deb
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -48,10 +48,10 @@ record:
   title: 5 Model Support changes in rust-v0.78.0
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-01-05-2-model-support-changes-in-v1-1-2|2 Model Support
-  changes in v1.1.2]]'
 - '[[Changes/OpenCode/2026-01-05-core-filter-out-empty-messages-and-reasoning-for-anthropic-api-compatibility|Core
   Filter out empty messages and reasoning for Anthropic API compatibility]]'
+- '[[Changes/Superwhisper/2026-01-05-new-parakeet-multi-language-model-experimental-feature|NEW
+  Parakeet Multi-language model (Experimental feature)]]'
 - '[[Changes/Cline/2026-01-06-3-model-support-changes-in-v3-47-0|3 Model Support changes
   in v3.47.0]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-01-06-rust-v0-78-0-github-274610568-c3df153a|codex-cli-2026-01-06-rust-v0-78-0-github-274610568-c3df153a]]'

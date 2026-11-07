@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8635ae55a9a7fbfa8c234946762b13103e86834a1a7032be1c70dd47519e6c39
+machine_hash: 7df475bd1ef5c3ba0a153c697afdc0154d04f82c918ff4a22a31e9c30c6973a1
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -86,9 +86,9 @@ record:
   title: 12 Apps and Integrations changes in v1.0.81
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-08-26-connect-github-api-by-signing-in-with-your-github-account|Connect
-  GitHub API by signing in with your GitHub account]]'
 - '[[Changes/Lovable/2026-08-26-chat-with-lovable-in-slack|Chat with Lovable in Slack]]'
+- '[[Changes/Superwhisper/2026-08-26-agent-plugin-support-for-deepseek-harness|Agent
+  plugin support for DeepSeek Harness]]'
 - '[[Changes/Claude Code/2026-08-27-improved-managed-settings-client-side-timeout-mcp-startup-mode-and-stream-watchd|Improved
   managed settings]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-08-27-v1-0-81-github-377993714-523d567a|github-copilot-cli-2026-08-27-v1-0-81-github-377993714-523d567a]]'

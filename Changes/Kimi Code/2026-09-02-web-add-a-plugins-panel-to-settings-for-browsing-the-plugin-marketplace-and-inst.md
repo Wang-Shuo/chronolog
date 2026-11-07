@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1855d50204a4f7d51e80d2a6003ebdc65c90dd9d5b2918a28acc955f9fb8504e
+machine_hash: a804f533a2ea08254e1b28cb7a1b2839fd950fc8966308f590c39aed2cbdc984
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -53,12 +53,11 @@ record:
   title: 'web: Add a Plugins panel to Settings for browsing the plugin marketplace…'
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-09-01-9-apps-and-integrations-changes-in-v2026-8-2|9 Apps
-  and Integrations changes in v2026.8.2]]'
 - '[[Changes/Claude Code/2026-09-02-5-apps-and-integrations-changes-in-v2-1-259|5
   Apps and Integrations changes in v2.1.259]]'
 - '[[Changes/Cline/2026-09-02-2-apps-and-integrations-changes-in-v4-1-17|2 Apps and
   Integrations changes in v4.1.17]]'
+- '[[Changes/Devin/2026-09-02-clearer-reply-delivery|Clearer Reply Delivery]]'
 source_release: '[[Releases/Kimi Code/kimi-code-2026-09-02-0-40-0-d3ae6ef8|kimi-code-2026-09-02-0-40-0-d3ae6ef8]]'
 source_type: kimi_code_changelog
 theme: apps-integrations
@@ -91,7 +90,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-09-02 · Cline · [[Changes/Cline/2026-09-02-2-apps-and-integrations-changes-in-v4-1-17|2 Apps and Integrations changes in v4.1.17]]
+- Earlier: 2026-09-02 · Devin · [[Changes/Devin/2026-09-02-clearer-reply-delivery|Clearer Reply Delivery]]
 - Later: 2026-09-02 · Suno · [[Changes/Suno/2026-09-02-copy-and-duplicate-plugins|Copy and duplicate plugins]]
 <!-- chronolog:end -->
 

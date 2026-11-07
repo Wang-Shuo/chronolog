@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: fdf7bee01953afb2670e3198aef4de74d25dc22980218de13d080f4662191420
+machine_hash: 19f61c08215282f57f25b7e77b30063afc565c55ca2fa6f0e7992df5bab0d32e
 product: midjourney
 product_name: Midjourney
 record:
@@ -48,11 +48,12 @@ record:
   title: What’s that? Basically; imagine an AI system that generates imagery in real-time
   type: change
 related_changes:
-- '[[Changes/Windsurf/2025-06-10-terminal-improvements|Terminal Improvements]]'
-- '[[Changes/Dify/2025-06-11-improved-housekeeping-command-now-preserves-avatar-images-and-app-icons-correctl|Improved
-  Housekeeping Command]]'
+- '[[Changes/Raycast/2025-06-11-spotlight-added-new-replace-spotlight-with-raycast-command-for-a-smoother-transi|Spotlight:
+  Added new “Replace Spotlight with Raycast” command for a smoother…]]'
 - '[[Changes/Dify/2025-06-16-keep-those-pull-requests-coming-as-we-aim-to-make-your-user-experience-as-seamle|Keep
   those pull requests coming as we aim to make your user experience as seamless…]]'
+- '[[Changes/Raycast/2025-06-17-misc-added-command-to-open-last-note|Misc: Added command
+  to Open Last Note]]'
 source_release: '[[Releases/Midjourney/midjourney-2025-06-18-https-updates-midjourney-com-introducing-our-v1-video-model-3b25dd23|midjourney-2025-06-18-https-updates-midjourney-com-introducing-our-v1-video-model-3b25dd23]]'
 source_type: midjourney_changelog
 theme: developer-workflow
@@ -86,7 +87,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2025-06-16 · Dify · [[Changes/Dify/2025-06-16-keep-those-pull-requests-coming-as-we-aim-to-make-your-user-experience-as-seamle|Keep those pull requests coming as we aim to make your user experience as seamless…]]
+- Earlier: 2025-06-17 · Raycast · [[Changes/Raycast/2025-06-17-misc-added-command-to-open-last-note|Misc: Added command to Open Last Note]]
 - Later: 2025-06-20 · OpenHands · [[Changes/OpenHands/2025-06-20-git-ownership-errors-in-containers-by-llamantino-in-https-github-com-all-hands-a|Git Ownership Errors in containers]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 185685da6305a02f4f44428022c38638336feefc512d4d9baaf7a1c009d1eddf
+machine_hash: b96017060b74080144d67b1fb46304a2d5d9a0d9c5df196d6a7e32ff08c31c02
 product: ollama
 product_name: Ollama
 record:
@@ -42,10 +42,9 @@ record:
   title: 2 Agent Mode changes in v0.2.0
   type: change
 related_changes:
-- '[[Changes/Dify/2024-04-11-4-agent-mode-changes-in-0-6-2|4 Agent Mode changes in
-  0.6.2]]'
 - '[[Changes/Dify/2024-04-22-2-agent-mode-changes-in-0-6-4|2 Agent Mode changes in
   0.6.4]]'
+- '[[Changes/Devin/2024-05-29-shell-command-history|Shell Command History]]'
 - '[[Changes/OpenHands/2024-06-29-3-agent-mode-changes-in-0-7-0|3 Agent Mode changes
   in 0.7.0]]'
 source_release: '[[Releases/Ollama/ollama-2024-07-02-v0-2-0-github-163643882-25f7f395|ollama-2024-07-02-v0-2-0-github-163643882-25f7f395]]'

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 152e2803005000b0534ecb955779e27bbc64b4de5163061eebb1e34ad514d108
+machine_hash: 17e467ca8788c7c3631a8bb632208f00616ddee136abe045c2b94c3ff7f95a98
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -56,10 +56,10 @@ record:
   title: 6 Apps and Integrations changes in rust-v0.46.0
   type: change
 related_changes:
-- '[[Changes/Cline/2025-10-08-move-mcp-marketplace-catalog-from-global-state-to-disk-cache-by-celestial-vault|Move
-  MCP marketplace catalog from global state to disk cache]]'
 - '[[Changes/GitHub Copilot CLI/2025-10-08-added-validation-for-mcp-server-names-fixes-https-github-com-github-copilot-cli|Added
   validation for MCP server names…]]'
+- '[[Changes/AnythingLLM/2025-10-09-2-apps-and-integrations-changes-in-v1-9-0|2 Apps
+  and Integrations changes in v1.9.0]]'
 - '[[Changes/ChatGPT/2025-10-09-we-re-adding-notion-and-linear-as-synced-connectors-for-pro-users-so-you-can-sec|Adding
   Notion & Linear synced connectors]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-10-09-rust-v0-46-0-github-253202599-fb352044|codex-cli-2025-10-09-rust-v0-46-0-github-253202599-fb352044]]'

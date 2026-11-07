@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ff3ad897ec78aa4cac07982d2dcaabd55aaccc35c265ebdbe582fc5f4b355574
+machine_hash: 6a01def2a3e86f6797fa8ca74601a5da7696f7c0d9b0065e5e0c8aa9acd93b0d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -53,10 +53,11 @@ record:
   title: Start Voice conversations faster
   type: change
 related_changes:
-- '[[Changes/Descript/2026-08-05-filler-word-removal-in-five-more-languages|Filler-word
-  removal in five more languages]]'
-- '[[Changes/Descript/2026-08-05-and-there-s-even-more|And there''s even more]]'
 - '[[Changes/Descript/2026-08-05-smoother-jump-cuts|Smoother jump cuts]]'
+- '[[Changes/Wispr Flow/2026-08-05-wispr-flow-notetaker-is-here-notetaker|Wispr Flow
+  Notetaker is here (Notetaker)]]'
+- '[[Changes/Superwhisper/2026-08-06-2-voice-and-audio-changes-in-superwhisper-macos-2-17-2|2
+  Voice and Audio changes in Superwhisper macOS 2.17.2]]'
 scope: Android
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-07-chatgpt-app-experience-updates-d15f55c5|chatgpt-2026-08-07-chatgpt-app-experience-updates-d15f55c5]]'
 source_type: chatgpt_changelog
@@ -88,7 +89,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-08-05 · Descript · [[Changes/Descript/2026-08-05-smoother-jump-cuts|Smoother jump cuts]]
+- Earlier: 2026-08-06 · Superwhisper · [[Changes/Superwhisper/2026-08-06-2-voice-and-audio-changes-in-superwhisper-macos-2-17-2|2 Voice and Audio changes in Superwhisper macOS 2.17.2]]
 - Later: 2026-08-07 · ChatGPT · [[Changes/ChatGPT/2026-08-07-gpt-live-in-chatgpt-voice-now-supports-file-uploads-and-projects-you-can-now-upl|Files and Projects in ChatGPT Voice]]
 <!-- chronolog:end -->
 

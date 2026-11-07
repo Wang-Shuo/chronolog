@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 79e982336d93951157be7ebe1035575894c24e6613483d6f4ef500f3ed476396
+machine_hash: 8e655340df25128f5dd6788dcd04898a43438cee8670d875486ebe877da5c936
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -41,10 +41,9 @@ record:
   title: 2 Editor Experience changes in rust-v0.44.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2025-10-01-2-editor-experience-changes-in-v0-0-331|2
-  Editor Experience changes in v0.0.331]]'
 - '[[Changes/GitHub Copilot CLI/2025-10-01-run-npm-install-g-github-copilot-latest-to-update|Run
   npm install -g @github/copilot@latest to update!]]'
+- '[[Changes/Superwhisper/2025-10-01-mode-edit-fix|Mode edit fix]]'
 - '[[Changes/GitHub Copilot CLI/2025-10-02-3-editor-experience-changes-in-v0-0-333|3
   Editor Experience changes in v0.0.333]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-10-03-rust-v0-44-0-github-252055554-66c49f37|codex-cli-2025-10-03-rust-v0-44-0-github-252055554-66c49f37]]'

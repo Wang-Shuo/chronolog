@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: pricing
-machine_hash: b3c04752e116058a02ab61a84b36745a28f5742fcb89a3cd77a24a0b95a65073
+machine_hash: eb228683594be05c5999a5e81ba9638340e5f9b7165f48d1aa64e8a633805f75
 product: replit
 product_name: Replit
 record:
@@ -62,10 +62,10 @@ record:
   title: Generate 3D models with the Tripo3D connector
   type: change
 related_changes:
-- '[[Changes/Midjourney/2026-05-27-search-on-the-create-and-organize-pages-now-works-for-signed-in-members-without|Search
-  on the Create and Organize pages now works for signed-in members without…]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-28-3-pricing-model-changes-in-v1-0-55|3 Pricing
   Model changes in v1.0.55]]'
+- '[[Changes/Raycast/2026-05-29-bring-your-own-key-byok-seamlessly-integrates-your-existing-ai-provider-accounts|Bring
+  Your Own Key (BYOK) seamlessly integrates your existing AI provider accounts…]]'
 - '[[Changes/Replit/2026-05-29-billing|Billing]]'
 source_release: '[[Releases/Replit/replit-2026-05-29-2026-05-29-e3cfe151|replit-2026-05-29-2026-05-29-e3cfe151]]'
 source_type: replit_changelog
@@ -101,7 +101,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-05-28 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-28-3-pricing-model-changes-in-v1-0-55|3 Pricing Model changes in v1.0.55]]
+- Earlier: 2026-05-29 · Raycast · [[Changes/Raycast/2026-05-29-bring-your-own-key-byok-seamlessly-integrates-your-existing-ai-provider-accounts|Bring Your Own Key (BYOK) seamlessly integrates your existing AI provider accounts…]]
 - Later: 2026-06-02 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-06-02-organizational-messages-usage-based-targeting-is-now-generally-available-in-the|Organizational Messages Usage‑based targeting is now generally available…]]
 <!-- chronolog:end -->
 

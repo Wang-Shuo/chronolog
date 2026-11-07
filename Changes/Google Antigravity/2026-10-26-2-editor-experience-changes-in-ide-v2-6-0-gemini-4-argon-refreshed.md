@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9570fe46b57c8227b96f08bab723ce5012b36c5de0521de3d7b0ab38d9b18d47
+machine_hash: 54250c225d5a1a4bb0b266c3551ad32397b2ee35e08967f99497ddef51618e06
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -45,8 +45,8 @@ record:
   title: 2 Editor Experience changes in IDE v2.6.0 — Gemini 4 Argon, Refreshed…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-26-vscode-changed-the-session-list-side-bar-to-load-web-sessions-when-the-web-tab-i|VSCode
-  Changed the session list side bar to load Web sessions when the Web tab…]]'
+- '[[Changes/Devin/2026-10-26-new-activity-tab-replaces-progress-and-shell|New Activity
+  Tab Replaces Progress and Shell]]'
 - '[[Changes/ElevenLabs/2026-10-26-2-editor-experience-changes-in-elevenlabs-updates-2026-10-26|2
   Editor Experience changes in ElevenLabs updates — 2026-10-26]]'
 - '[[Changes/Google Antigravity/2026-10-26-markdown-previews-and-overview-sections-in-new-side-panel-tabs|Markdown

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 1f11f9d9060ba858ccaed76fbe5c577e0f42e6b59216f4d86312a5eb2a89b07b
+machine_hash: 7fa69dcdb4ffdeaeb6c87f0cfb63969e38086905570fc80485ebbba5ab391ec4
 product: suno
 product_name: Suno
 record:
@@ -50,12 +50,12 @@ record:
   title: Introducing Speech (beta)
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-09-30-send-namespaced-session-and-parent-session-identity-headers-with-model-requests|Send
-  namespaced session and parent-session identity headers with model requests]]'
-- '[[Changes/Claude Code/2026-10-01-4-model-support-changes-in-v2-1-287|4 Model Support
-  changes in v2.1.287]]'
 - '[[Changes/Codex CLI/2026-10-01-5-model-support-changes-in-rust-v0-160-0|5 Model
   Support changes in rust-v0.160.0]]'
+- '[[Changes/Krea/2026-10-01-model-access-replaces-workspace-model-controls|Model
+  Access replaces workspace model controls]]'
+- '[[Changes/Krea/2026-10-01-changes-for-existing-model-access-rules|Changes for existing
+  model access rules]]'
 source_release: '[[Releases/Suno/suno-2026-10-01-e-introducing-speech-beta-478b87ad|suno-2026-10-01-e-introducing-speech-beta-478b87ad]]'
 source_type: suno_changelog
 theme: model-support
@@ -84,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-10-01 · Codex CLI · [[Changes/Codex CLI/2026-10-01-5-model-support-changes-in-rust-v0-160-0|5 Model Support changes in rust-v0.160.0]]
+- Earlier: 2026-10-01 · Krea · [[Changes/Krea/2026-10-01-changes-for-existing-model-access-rules|Changes for existing model access rules]]
 - Later: 2026-10-02 · Claude Code · [[Changes/Claude Code/2026-10-02-changed-the-client-side-auto-mode-classifier-to-ignore-an-anthropic-default-sonn|Changed the client-side auto mode classifier to ignore…]]
 <!-- chronolog:end -->
 

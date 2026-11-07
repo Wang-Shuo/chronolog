@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 8e850e70980e3c4bddcb838df963a9bd31d695a1f50056156653629a0df80312
+machine_hash: a3ac9c03556e9952eb906c26990b2c9a7deeec9a90d14e6588b4d821a47857ae
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -45,8 +45,8 @@ record:
     file'
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-09-04-5-model-support-changes-in-v0-3-0|5 Model Support
-  changes in v0.3.0]]'
+- '[[Changes/LM Studio/2025-09-04-when-selecting-a-chat-that-uses-a-different-model-auto-switch-to-that-model-if-i|When
+  selecting a chat that uses a different model, auto switch to that model if it''s…]]'
 - '[[Changes/Cline/2025-09-05-add-new-kimi-k2-model-to-groq-and-moonshot-providers|Add
   new Kimi K2 model to Groq and Moonshot providers]]'
 - '[[Changes/Codex CLI/2025-09-05-2-model-support-changes-in-rust-v0-30-0|2 Model

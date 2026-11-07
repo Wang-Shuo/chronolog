@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 97f95715450c3cc56a30edbdb10d53e852725561def726a04175304c183d66eb
+machine_hash: 838fc8443e5f2ad32378fd41c6b21c6356bc9441a9585526e8c5d5e688797d3f
 product: dify
 product_name: Dify
 record:
@@ -86,7 +86,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.1.1
 ## Nearby in Model Support
 
 - Earlier: 2025-03-18 · OpenHands · [[Changes/OpenHands/2025-03-18-make-microagents-available-in-the-event-stream-as-recall-observations-accessible|Make microagents available in the event stream as recall observations…]]
-- Later: 2025-03-21 · Aider · [[Changes/Aider/2025-03-21-6-model-support-changes-in-v0-78-0|6 Model Support changes in v0.78.0]]
+- Later: 2025-03-20 · Superwhisper · [[Changes/Superwhisper/2025-03-20-speed-model-improvements|Speed & Model Improvements]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

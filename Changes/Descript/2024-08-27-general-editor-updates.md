@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 8ed2188f03abfbcf1c5f39fabb9cc383f421a83d417f410e97b79e334e9648f3
+machine_hash: 04e6aaf62226342e7f7dd23416ae2adab765ffde1d04da0692ab8a403e091012
 product: descript
 product_name: Descript
 record:
@@ -54,10 +54,10 @@ record:
   title: General Editor updates
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2024-08-14-deprecated-frontend-functions-removed-frontend-functions-that-were-migrated-to-b|\U0001F5D1️
-  Deprecated Frontend Functions]]"
 - '[[Changes/Midjourney/2024-08-16-we-re-releasing-a-new-web-editor-today|We''re releasing
   a new web editor today!]]'
+- '[[Changes/AnythingLLM/2024-08-19-slash-commands-edit-bug-fix-by-shatfield4-in-https-github-com-mintplex-labs-anyt|Slash
+  commands edit bug fix]]'
 - '[[Changes/Dify/2024-08-19-3-editor-experience-changes-in-0-7-1|3 Editor Experience
   changes in 0.7.1]]'
 source_release: '[[Releases/Descript/descript-2024-08-27-66cdf5a851f2c1fb7962ec40-174db0e1|descript-2024-08-27-66cdf5a851f2c1fb7962ec40-174db0e1]]'

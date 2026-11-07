@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 63d4cb867d66507d8a842d83d30f100f4ccf8a49b717313f4b0b7ed7191030a7
+machine_hash: 543439fc63986b79ba028dcbffb760652b62a71d84aa4327126a634a20c2a8f1
 product: descript
 product_name: Descript
 record:
@@ -51,8 +51,8 @@ record:
   title: Local file storage
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2025-03-05-general-reliability-enhancements-various-stability-improvements-across-the-webui|⚙️
-  General Reliability Enhancements]]'
+- '[[Changes/LM Studio/2025-03-07-significantly-increased-the-speed-of-chunking-files-for-retrieval|Significantly
+  increased the speed of chunking files for retrieval]]'
 - '[[Changes/Cursor/2025-03-11-5-reliability-and-performance-changes-in-0-47-x|5 Reliability
   and Performance changes in 0.47.x]]'
 - '[[Changes/Cursor/2025-03-11-this-release-focuses-mainly-on-stability-and-performance-improvements-to-make-ex|This

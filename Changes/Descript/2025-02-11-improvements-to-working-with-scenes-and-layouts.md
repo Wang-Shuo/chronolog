@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e9b6fa20b05e2dba21910048da1eb43c3ff6c9fc0eb41b09cb388320dc43de31
+machine_hash: 8bed6797da07f6b4f33bb60dc1211ba0be81c53ac392f5618628024dfab5e7a0
 product: descript
 product_name: Descript
 record:
@@ -131,7 +131,7 @@ type: change
 ## Nearby in Multimodal Input
 
 - Earlier: 2024-12-16 · Dify · [[Changes/Dify/2024-12-16-feat-add-grok-2-1212-and-grok-2-vision-1212-by-hjlarry-in-https-github-com-langg|feat: add grok-2-1212 and grok-2-vision-1212]]
-- Later: 2025-02-20 · Midjourney · [[Changes/Midjourney/2025-02-20-we-ve-added-a-new-folder-and-organization-system-to-the-website-check-out-the-vi|Midjourney adds a new folder and organization system to the website]]
+- Later: 2025-02-18 · AnythingLLM · [[Changes/AnythingLLM/2025-02-18-this-is-ocr-not-vision-so-if-the-content-has-no-text-nothing-will-be-found|this is OCR, not "vision" so if the content has no text - nothing will be found!]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

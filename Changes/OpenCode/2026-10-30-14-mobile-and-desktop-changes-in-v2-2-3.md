@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 45d3f86f43393898f47d92860ffd5700dc59eced9b5add169db884e312064228
+machine_hash: ed988e736f4f816042c8253d72dbec1db5b35fe45394f92472fd01a1da137842
 product: opencode
 product_name: OpenCode
 record:
@@ -148,7 +148,7 @@ Source: https://opencode.ai/changelog/v2.2.3
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-10-30 · OpenCode · [[Changes/OpenCode/2026-10-30-persistent-desktop-terminals|Persistent Desktop Terminals]]
-- Later: 2026-11-02 · ElevenLabs · [[Changes/ElevenLabs/2026-11-02-android-sdk|Android SDK]]
+- Later: 2026-10-30 · Superwhisper · [[Changes/Superwhisper/2026-10-30-optimized-for-iphone-duo|Optimized for iPhone Duo!]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

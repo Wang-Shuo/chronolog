@@ -5,20 +5,20 @@ description: 'Synthesia · 2026-10-27 · Accessibility and Localization: Dub vid
   into up to 20 languages straight from your own systems with the new Localization
   API, built…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-09-11-chatgpt-now-supports-a-limited-selection-of-languages-in-the-interface|ChatGPT
-    now supports a limited selection of languages in the interface]]'
+  first_in_tracked: '[[Changes/Raycast/2020-11-19-improved-searching-for-localized-application-and-preference-names|Improved
+    searching for localized application and preference names]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1142
+  lag_days: 2168
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: accessibility-localization
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 7b3da4e9046198ad138a74efad36adff2917de1ad37afd2b4bdf57bffb477737
+machine_hash: 6f8bf8cbb102b5490a6871427e0c5f16bec0fc8930e817a5e6874b898f36fcd0
 product: synthesia
 product_name: Synthesia
 record:
@@ -79,13 +79,13 @@ type: change
 ## Nearby in Accessibility and Localization
 
 - Earlier: 2026-10-26 · Claude Code · [[Changes/Claude Code/2026-10-26-3-accessibility-and-localization-changes-in-v2-1-311|3 Accessibility and Localization changes in v2.1.311]]
-- Later: 2026-10-29 · Open WebUI · [[Changes/Open WebUI/2026-10-29-improved-ui-accessibility-screen-reader-and-keyboard-users-can-now-move-through|♿ Improved UI accessibility. Screen reader and keyboard users can now move…]]
+- Later: 2026-10-28 · Devin · [[Changes/Devin/2026-10-28-transcript-and-composer-refinements|Transcript and Composer Refinements]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-11 · ChatGPT · [[Changes/ChatGPT/2023-09-11-chatgpt-now-supports-a-limited-selection-of-languages-in-the-interface|ChatGPT now supports a limited selection of languages in the interface]]
+- Earliest same-theme entry in the tracked set: 2020-11-19 · Raycast · [[Changes/Raycast/2020-11-19-improved-searching-for-localized-application-and-preference-names|Improved searching for localized application and preference names]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

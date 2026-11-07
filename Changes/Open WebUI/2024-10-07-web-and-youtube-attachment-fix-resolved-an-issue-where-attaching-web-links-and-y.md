@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 7040ccdb024673becf4b5b69856af72f62dca0fb896f3af8ad39730a4b820b85
+machine_hash: 4ea0967cd44f5b854623a2342a0b4fc951276c8cc137fe3b0c6909ea57c8bdf1
 product: open-webui
 product_name: Open WebUI
 record:
@@ -47,8 +47,8 @@ record:
   title: "**\U0001F5A5️ Web and YouTube Attachment Fix**"
   type: change
 related_changes:
-- '[[Changes/Dify/2024-09-30-3-apps-and-integrations-changes-in-0-9-0|3 Apps and Integrations
-  changes in 0.9.0]]'
+- '[[Changes/AnythingLLM/2024-10-03-3-apps-and-integrations-changes-in-v1-2-3|3 Apps
+  and Integrations changes in v1.2.3]]'
 - '[[Changes/Gemini/2024-10-06-gemini-can-access-helpful-information-from-more-apps-and-services|Gemini
   can access helpful information from more apps and services]]'
 - "[[Changes/Open WebUI/2024-10-07-knowledge-feature-reimagined-documents-feature-now-more-performant-with-a-better|\U0001F4DA

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 042360bfb9c169a64bda3ca91bed4535747933e61f415bbc43c303a5e162f243
+machine_hash: ac3d2850652d684978198f398cd6b32096fe8fc34fbcaea69820cca48bc9af3a
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,8 +44,8 @@ record:
   title: 2 Automation and Scheduling changes in v2.1.316
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-10-29-sdk-added-if-and-until-inputs-for-client-experimental-schedule-create-plus-sched|SDK
-  Added if and until inputs for client.experimental.schedule.create , plus…]]'
+- '[[Changes/Devin/2026-10-30-reaction-trigger-for-teams-automations|Reaction Trigger
+  for Teams Automations]]'
 - '[[Changes/OpenCode/2026-10-30-2-automation-and-scheduling-changes-in-v2-2-3|2 Automation
   and Scheduling changes in v2.2.3]]'
 - '[[Changes/OpenCode/2026-10-30-core-made-enabled-schedules-run-under-opencode-serve-and-coordinated-multiple-se|Core
@@ -90,7 +90,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.316
 ## Nearby in Automation and Scheduling
 
 - Earlier: 2026-10-30 · OpenCode · [[Changes/OpenCode/2026-10-30-core-made-enabled-schedules-run-under-opencode-serve-and-coordinated-multiple-se|Core Made enabled schedules run under opencode serve and coordinated multiple server…]]
-- Later: 2026-11-03 · Google Antigravity · [[Changes/Google Antigravity/2026-11-03-2-automation-and-scheduling-changes-in-hub-v2-29-0-voice-mode-remote|2 Automation and Scheduling changes in HUB v2.29.0 — Voice mode, remote…]]
+- Later: 2026-11-02 · Devin · [[Changes/Devin/2026-11-02-not-in-slack-channel-conditions|"Not in" Slack Channel Conditions]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

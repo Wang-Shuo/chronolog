@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d1a25dcab316a350c134109e938688a0c32e535a11b4b00151402f40d7a95520
+machine_hash: a4010d56831d313d1cd733c0b5e9959ba9c920ba5c4e4950db6407b5ee94c910
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -42,12 +42,12 @@ record:
   title: 2 Interface Experience changes in v0.1.18
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-08-02-2-interface-experience-changes-in-v0-1-16|2 Interface
-  Experience changes in v0.1.16]]'
 - '[[Changes/Cline/2025-08-05-update-chatview-footer-background-to-use-sidebar-theme-by-abeatrix-in-https-gith|Update
   ChatView footer background to use sidebar theme]]'
 - '[[Changes/Gemini CLI/2025-08-05-2-interface-experience-changes-in-v0-1-17|2 Interface
   Experience changes in v0.1.17]]'
+- '[[Changes/LM Studio/2025-08-05-2-interface-experience-changes-in-lm-studio-0-3-21|2
+  Interface Experience changes in LM Studio 0.3.21]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-08-06-v0-1-18-github-237823435-7c1f8990|gemini-cli-2025-08-06-v0-1-18-github-237823435-7c1f8990]]'
 source_type: github_releases
 theme: interface-experience
@@ -93,7 +93,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.1.18
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2025-08-05 · Gemini CLI · [[Changes/Gemini CLI/2025-08-05-2-interface-experience-changes-in-v0-1-17|2 Interface Experience changes in v0.1.17]]
+- Earlier: 2025-08-05 · LM Studio · [[Changes/LM Studio/2025-08-05-2-interface-experience-changes-in-lm-studio-0-3-21|2 Interface Experience changes in LM Studio 0.3.21]]
 - Later: 2025-08-09 · Aider · [[Changes/Aider/2025-08-09-clear-now-prints-all-chat-history-cleared-so-you-know-it-worked-by-zexin-yuan|/clear now prints “All chat history cleared.” so you know it worked, by Zexin Yuan]]
 <!-- chronolog:end -->
 

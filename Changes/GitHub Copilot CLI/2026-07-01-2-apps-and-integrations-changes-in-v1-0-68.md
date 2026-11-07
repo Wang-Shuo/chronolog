@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6455cdafdb79f07a10020ebb33b6ef6d0f7d94a8aafe326cbc3e66cb6d7cb6ca
+machine_hash: 91e6b7fc1a41b4f69a6d35cc638016f7157bc43fe3762e884bf48149eb006cb3
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,12 +44,9 @@ record:
   title: 2 Apps and Integrations changes in v1.0.68
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-06-30-8-apps-and-integrations-changes-in-v1-17-12|8 Apps
-  and Integrations changes in v1.17.12]]'
-- '[[Changes/Claude Code/2026-07-01-claude-in-chrome-is-now-generally-available|Claude
-  in Chrome is now generally available]]'
-- '[[Changes/Claude Code/2026-07-01-added-dataviz-skill-for-chart-and-dashboard-design-guidance-with-a-runnable-colo|Added
-  /dataviz skill for chart and dashboard design guidance with a runnable…]]'
+- '[[Changes/Devin/2026-07-01-slack-commands-anywhere|Slack Commands Anywhere]]'
+- '[[Changes/Devin/2026-07-01-slack-thread-sync|Slack Thread Sync]]'
+- '[[Changes/Devin/2026-07-01-unarchive-on-mention|Unarchive on Mention]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-07-01-v1-0-68-github-347721762-7219d583|github-copilot-cli-2026-07-01-v1-0-68-github-347721762-7219d583]]'
 source_type: github_releases
 theme: apps-integrations
@@ -90,7 +87,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.68
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-07-01 · Claude Code · [[Changes/Claude Code/2026-07-01-added-dataviz-skill-for-chart-and-dashboard-design-guidance-with-a-runnable-colo|Added /dataviz skill for chart and dashboard design guidance with a runnable…]]
+- Earlier: 2026-07-01 · Devin · [[Changes/Devin/2026-07-01-unarchive-on-mention|Unarchive on Mention]]
 - Later: 2026-07-01 · Kimi Code · [[Changes/Kimi Code/2026-07-01-plugins-can-now-provide-slash-commands-via-a-commands-field-in-their-manifest-re|Plugins can now provide slash commands via a commands field in their manifest…]]
 <!-- chronolog:end -->
 

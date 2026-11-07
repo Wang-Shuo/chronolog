@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 916bbb9c6262a010a2b81e37e366c5bf690a8523cc6812c5437b6c09f39d7710
+machine_hash: bd4daf690f704e4a025cb4a2d0ab3a2e614e8b14884b225e9542353fbe398f1d
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -88,7 +88,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.7.0
 ## Nearby in Reliability and Performance
 
 - Earlier: 2025-09-30 · Z.ai API · [[Changes/Z.ai API/2025-09-30-we-ve-launched-glm-4-6-the-flagship-coding-model-showcasing-enhanced-performance|We’ve launched GLM-4.6, the flagship coding model, showcasing enhanced performance…]]
-- Later: 2025-10-06 · Lovable · [[Changes/Lovable/2025-10-06-updated-community-resources|Updated community resources]]
+- Later: 2025-10-03 · Devin · [[Changes/Devin/2025-10-03-ongoing-stability-improvements-and-bug-fixes|Ongoing stability improvements and bug fixes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

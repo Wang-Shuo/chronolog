@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e24550825fbf8e3c2a249d9d0255685778fdb583cc117a28f0cf8839fe9122ac
+machine_hash: 16ea784d62fabdede73eb89993505638fa6454d5fee206849018bb34cbef8898
 product: ollama
 product_name: Ollama
 record:
@@ -87,7 +87,7 @@ Source: https://github.com/ollama/ollama/releases/tag/v0.1.46
 ## Nearby in Reliability and Performance
 
 - Earlier: 2024-06-18 · Notion · [[Changes/Notion/2024-06-18-plus-a-few-more-of-your-top-requests|Plus a few more of your top requests.]]
-- Later: 2024-07-02 · Ollama · [[Changes/Ollama/2024-07-02-5-reliability-and-performance-changes-in-v0-2-0|5 Reliability and Performance changes in v0.2.0]]
+- Later: 2024-06-30 · Devin · [[Changes/Devin/2024-06-30-home-screen-upgrades-shortcuts|Home Screen Upgrades & Shortcuts]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

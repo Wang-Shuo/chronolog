@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2ac00fa723d14bd1c84af1d001b6d9aa638cfab44cd198e41ba0cfe75df955d0
+machine_hash: d55c002c398f5af292e679e80c737d4d034e77e30355448d3d6396c2aa802e7b
 product: cline
 product_name: Cline
 record:
@@ -48,11 +48,10 @@ record:
   title: 4 Interface Experience changes in v3.39.0
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-11-26-protect-stdout-and-stderr-so-javascript-code-can-t-accidentally-write-to-stdout|Protect
-  stdout and stderr so JavaScript code can''t accidentally write to stdout…]]'
-- '[[Changes/Lovable/2025-11-26-better-reverts-and-ability-to-edit-and-revert-your-messages|Better
-  reverts and ability to edit and revert your messages]]'
 - '[[Changes/Lovable/2025-11-26-navigation-update|Navigation update]]'
+- '[[Changes/Superwhisper/2025-11-26-onboarding-updates|Onboarding updates]]'
+- '[[Changes/Superwhisper/2025-11-26-recording-window-style-selection-in-configuration|Recording
+  window style selection in configuration]]'
 source_release: '[[Releases/Cline/cline-2025-12-02-v3-39-0-github-266733488-92b66311|cline-2025-12-02-v3-39-0-github-266733488-92b66311]]'
 source_type: github_releases
 theme: interface-experience
@@ -94,7 +93,7 @@ Source: https://github.com/cline/cline/releases/tag/v3.39.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2025-11-26 · Lovable · [[Changes/Lovable/2025-11-26-navigation-update|Navigation update]]
+- Earlier: 2025-11-26 · Superwhisper · [[Changes/Superwhisper/2025-11-26-recording-window-style-selection-in-configuration|Recording window style selection in configuration]]
 - Later: 2025-12-02 · Codex CLI · [[Changes/Codex CLI/2025-12-02-chore-dedup-unified-exec-waited-rendering-by-jif-oai-in-7256|chore: dedup unified exec "waited" rendering by @jif-oai in ♯7256]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: cc794ab01cc5e2c8911ae22321a67d6fce7a845ff99fbd8a76074b3a7d67c3d3
+machine_hash: f226e4b2c0b7c4e448065bbd01d743b692b5d1eb22263cc61e3fee342dd03cf4
 product: dify
 product_name: Dify
 record:
@@ -92,7 +92,7 @@ Source: https://github.com/langgenius/dify/releases/tag/0.12.0
 ## Nearby in Account and Access
 
 - Earlier: 2024-11-23 · Open WebUI · [[Changes/Open WebUI/2024-11-23-ldap-profile-image-issue-fixed-an-ldap-integration-bug-related-to-profile-images|📷 LDAP Profile Image Issue]]
-- Later: 2024-11-26 · Open WebUI · [[Changes/Open WebUI/2024-11-26-ollama-authentication-corrected-an-issue-with-ollama-s-authorization-headers-gua|🔑 Ollama Authentication]]
+- Later: 2024-11-26 · AnythingLLM · [[Changes/AnythingLLM/2024-11-26-2-account-and-access-changes-in-v1-3-0|2 Account and Access changes in v1.3.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

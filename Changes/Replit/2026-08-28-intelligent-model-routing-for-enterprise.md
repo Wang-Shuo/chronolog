@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: fca2bd7826132aabf2d1fe68244c6aef3a3f76c947c6ea2bc1ebbfb67c99a185
+machine_hash: 7ee3d9a0101cb0d4bca5990f7f8aa7ee49f2ac816d3849d159c2158a791633c2
 product: replit
 product_name: Replit
 record:
@@ -55,8 +55,7 @@ record:
   title: Intelligent model routing for Enterprise
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-28-5-model-support-changes-in-v2-1-251|5 Model Support
-  changes in v2.1.251]]'
+- '[[Changes/Krea/2026-08-28-veo-2-and-veo-3-sunset|Veo 2 and Veo 3 sunset]]'
 - '[[Changes/OpenCode/2026-08-28-core-bedrock-reasoning-responses-no-longer-get-cached-into-unreplayable-empty-me|Core
   Bedrock reasoning responses no longer get cached into unreplayable empty messages]]'
 - '[[Changes/Replit/2026-08-28-intelligent-model-routing|Intelligent model routing]]'
@@ -95,7 +94,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-08-28 · OpenCode · [[Changes/OpenCode/2026-08-28-core-bedrock-reasoning-responses-no-longer-get-cached-into-unreplayable-empty-me|Core Bedrock reasoning responses no longer get cached into unreplayable empty messages]]
-- Later: 2026-08-28 · v0 · [[Changes/v0/2026-08-28-gpt-5-6-sol-and-a-faster-sol-fast-tier-are-available-in-the-model-picker-routed|GPT-5.6 Sol and a faster Sol Fast tier are available in the model picker, routed…]]
+- Later: 2026-08-28 · Superwhisper · [[Changes/Superwhisper/2026-08-28-4-model-support-changes-in-superwhisper-windows-1-6-2|4 Model Support changes in Superwhisper Windows 1.6.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

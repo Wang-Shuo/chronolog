@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4eca6325757b951fb08e13683c5649a53e0b25d3dc998b00bf531cbde5caef10
+machine_hash: 24281f0d6e4fcdd5b608d3e445103a0f100b918bc0f9a2d9ad2c6ed1efc49958
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,12 +44,12 @@ record:
   title: 2 Developer Workflow changes in v1.0.27
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-15-bash-tool-now-enforces-the-documented-maximum-timeout-instead-of-accepting-arbit|Bash
-  tool now enforces the documented maximum timeout instead of accepting…]]'
 - '[[Changes/Codex CLI/2026-04-15-4-developer-workflow-changes-in-rust-v0-121-0|4
   Developer Workflow changes in rust-v0.121.0]]'
 - '[[Changes/Cursor/2026-04-15-in-the-agents-window-canvases-are-durable-artifacts-that-live-in-the-side-panel|In
   the Agents Window, canvases are durable artifacts that live in the side panel…]]'
+- '[[Changes/Devin/2026-04-15-close-pr-or-convert-to-draft-in-review-ui|Close PR or
+  Convert to Draft in Review UI]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-04-15-v1-0-27-github-309117007-13c9ef47|github-copilot-cli-2026-04-15-v1-0-27-github-309117007-13c9ef47]]'
 source_type: github_releases
 theme: developer-workflow
@@ -84,7 +84,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.27
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-04-15 · Cursor · [[Changes/Cursor/2026-04-15-in-the-agents-window-canvases-are-durable-artifacts-that-live-in-the-side-panel|In the Agents Window, canvases are durable artifacts that live in the side panel…]]
+- Earlier: 2026-04-15 · Devin · [[Changes/Devin/2026-04-15-close-pr-or-convert-to-draft-in-review-ui|Close PR or Convert to Draft in Review UI]]
 - Later: 2026-04-15 · OpenCode · [[Changes/OpenCode/2026-04-15-2-developer-workflow-changes-in-v1-4-4|2 Developer Workflow changes in v1.4.4]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 725ecd7083e720e7b4a07aec6922d4b0797a817785658a36416323d7d2bf74bf
+machine_hash: ab3b8c9d6ec565522f205fd989cbb1ad5a82bd1809ba248a104e6667fab3de99
 product: heygen
 product_name: HeyGen
 record:
@@ -44,10 +44,11 @@ record:
     market…
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-08-10-javascript-sdk|JavaScript SDK]]'
 - '[[Changes/ElevenLabs/2026-08-10-voices|Voices]]'
 - '[[Changes/Runway/2026-08-10-tool-mode-and-edit-studio-now-let-you-export-gen-4-5-and-aleph-2-generations-as|ProRes
   / PNG Sequence Export]]'
+- '[[Changes/Superwhisper/2026-08-10-elevenlabs-scribe-real-time-no-voice-found-fix|Elevenlabs
+  Scribe real-time "no voice found" fix]]'
 source_release: '[[Releases/HeyGen/heygen-2026-08-11-https-heygen-noticeable-news-publications-introducing-heygen-for-becf48a9|heygen-2026-08-11-https-heygen-noticeable-news-publications-introducing-heygen-for-becf48a9]]'
 source_type: heygen_changelog
 theme: voice
@@ -78,8 +79,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-08-10 · Runway · [[Changes/Runway/2026-08-10-tool-mode-and-edit-studio-now-let-you-export-gen-4-5-and-aleph-2-generations-as|ProRes / PNG Sequence Export]]
-- Later: 2026-08-13 · Suno · [[Changes/Suno/2026-08-13-we-have-totally-overhauled-suno-studio-our-browser-based-generative-daw-with-fea|We have totally overhauled Suno Studio, our browser-based generative DAW…]]
+- Earlier: 2026-08-10 · Superwhisper · [[Changes/Superwhisper/2026-08-10-elevenlabs-scribe-real-time-no-voice-found-fix|Elevenlabs Scribe real-time "no voice found" fix]]
+- Later: 2026-08-13 · AnythingLLM · [[Changes/AnythingLLM/2026-08-13-add-input-audio-support-for-audio-attachments-on-generic-openai-provider-by-shat|Add input_audio support for audio attachments on generic OpenAI provider]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

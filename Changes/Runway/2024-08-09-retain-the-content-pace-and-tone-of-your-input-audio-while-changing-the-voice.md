@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5e0cef0d678d5343f84329bb2cfd6dc090931b5de979facc92f5480eee8d747a
+machine_hash: 5e062a940bff08413233727eb202ee6e79fc71e63e0733f71f53da852d56d481
 product: runway
 product_name: Runway
 record:
@@ -42,12 +42,12 @@ record:
   title: Speech to Speech
   type: change
 related_changes:
-- '[[Changes/Dify/2024-07-15-tts-streaming-config-text-to-speech-support-automatic-voice-playback-and-streami|TTS
-  Streaming Config]]'
-- '[[Changes/Descript/2024-07-16-translation-w-dubbing-is-now-in-beta|Translation
-  w/ dubbing is now in Beta]]'
+- '[[Changes/Superwhisper/2024-07-30-add-new-audio-engine-option-for-multi-channel-input-devices|Add
+  new audio engine option for multi-channel input devices]]'
 - "[[Changes/Open WebUI/2024-08-02-elevenlabs-voice-adaptations-voice-enhancements-including-support-for-elevenlabs|\U0001F5E3
   ElevenLabs Voice Adaptations]]"
+- '[[Changes/AnythingLLM/2024-08-08-speech-to-text-hotkey-by-rrojaski-in-https-github-com-mintplex-labs-anything-llm|Speech
+  to text hotkey]]'
 source_release: '[[Releases/Runway/runway-2024-08-09-2024-08-09-speech-to-speech-54519b7e|runway-2024-08-09-2024-08-09-speech-to-speech-54519b7e]]'
 source_type: runway_changelog
 theme: voice
@@ -74,7 +74,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2024-08-02 · Open WebUI · [[Changes/Open WebUI/2024-08-02-elevenlabs-voice-adaptations-voice-enhancements-including-support-for-elevenlabs|🗣 ElevenLabs Voice Adaptations]]
+- Earlier: 2024-08-08 · AnythingLLM · [[Changes/AnythingLLM/2024-08-08-speech-to-text-hotkey-by-rrojaski-in-https-github-com-mintplex-labs-anything-llm|Speech to text hotkey]]
 - Later: 2024-08-14 · Descript · [[Changes/Descript/2024-08-14-welcome-to-descript-season-7-our-love-note-to-video-and-audio-podcasters-we-re-l|Welcome to Descript Season 7 — our love note to video and audio podcasters]]
 <!-- chronolog:end -->
 

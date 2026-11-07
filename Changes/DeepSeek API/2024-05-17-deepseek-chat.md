@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 124edd68ba20f5ceac46b1c06d2cff0cca49f0a27bff37742b745b684aeeb3b9
+machine_hash: e248ff6237c85104a8c3e06c18a60dcf3253cafcfa7cb8e629d2cc4000a89006
 product: deepseek-api
 product_name: DeepSeek API
 record:
@@ -60,8 +60,8 @@ record:
   title: deepseek-chat
   type: change
 related_changes:
-- '[[Changes/Dify/2024-05-13-12-model-support-changes-in-0-6-8|12 Model Support changes
-  in 0.6.8]]'
+- '[[Changes/Superwhisper/2024-05-13-include-gpt-4o-to-models-available-for-openai|Include
+  GPT-4o to models available for OpenAI]]'
 - '[[Changes/Gemini/2024-05-14-introducing-gemini-1-5-pro-to-gemini-advanced|Introducing
   Gemini 1.5 Pro to Gemini Advanced]]'
 - '[[Changes/Ollama/2024-05-15-2-model-support-changes-in-v0-1-38|2 Model Support

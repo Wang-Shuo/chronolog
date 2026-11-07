@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: fix
-machine_hash: 17ec51fb74dc40c2b5d1eb7f8261539dd0652dbc5f5562e1eec82dd1236705dc
+machine_hash: 57c9c6b9598fcb8fa6891946f9ee6b5bab251dfb4fa54de4ca86d6d61765d405
 product: claude-code
 product_name: Claude Code
 record:
@@ -53,12 +53,12 @@ record:
     mobile…
   type: change
 related_changes:
-- '[[Changes/Microsoft 365 Copilot/2026-07-01-edit-capability-for-selecting-permission-reading-option-for-existing-servicenow|Edit
-  capability for selecting permission reading option for existing ServiceNow…]]'
-- '[[Changes/Open WebUI/2026-07-01-3-safety-and-privacy-changes-in-v0-10-2|3 Safety
-  and Privacy changes in v0.10.2]]'
 - '[[Changes/Claude Code/2026-07-03-changed-the-default-permission-mode-to-manual-across-the-cli-help-vs-code-and-je|Changed
   the "default" permission mode to "Manual" across the CLI, --help, VS Code…]]'
+- '[[Changes/Devin/2026-07-03-security-scan-remediation-api|Security Scan Remediation
+  API]]'
+- '[[Changes/Devin/2026-07-03-blueprint-permission-descriptions|Blueprint Permission
+  Descriptions]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-06-v2-1-202-github-349856235-58e6d3e8|claude-code-2026-07-06-v2-1-202-github-349856235-58e6d3e8]]'
 source_type: github_releases
 theme: safety-privacy
@@ -89,7 +89,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-07-03 · Claude Code · [[Changes/Claude Code/2026-07-03-changed-the-default-permission-mode-to-manual-across-the-cli-help-vs-code-and-je|Changed the "default" permission mode to "Manual" across the CLI, --help, VS Code…]]
+- Earlier: 2026-07-03 · Devin · [[Changes/Devin/2026-07-03-blueprint-permission-descriptions|Blueprint Permission Descriptions]]
 - Later: 2026-07-06 · OpenHands · [[Changes/OpenHands/2026-07-06-4-safety-and-privacy-changes-in-1-9-0|4 Safety and Privacy changes in 1.9.0]]
 <!-- chronolog:end -->
 

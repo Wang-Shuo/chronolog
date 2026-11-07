@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: b5622691ed04e7255e87d6fee3a49dd791a07aaafb1510c71000ad128265c1f4
+machine_hash: d645a5bb5024af168f638544a417084a4a46b59da2b77e67fc9e584689a19653
 product: openhands
 product_name: OpenHands
 record:
@@ -44,12 +44,12 @@ record:
   title: 'Added a new feedback reason: "The agent didn''t finish the job"'
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-08-12-feat-agent-introduce-foundational-subagent-architecture-by-abhipatel12-in-https|feat(agent):
-  Introduce Foundational Subagent Architecture]]'
 - '[[Changes/OpenHands/2025-08-13-enhanced-the-cli-interface-by-adding-proper-markdown-rendering-for-agent-message|Enhanced
   the CLI interface by adding proper markdown rendering for agent messages…]]'
 - '[[Changes/Gemini CLI/2025-08-14-7-agent-mode-changes-in-v0-1-21|7 Agent Mode changes
   in v0.1.21]]'
+- '[[Changes/AnythingLLM/2025-08-15-2-agent-mode-changes-in-v1-8-5|2 Agent Mode changes
+  in v1.8.5]]'
 source_release: '[[Releases/OpenHands/openhands-2025-08-20-0-54-0-github-241233175-fc0cd6d3|openhands-2025-08-20-0-54-0-github-241233175-fc0cd6d3]]'
 source_type: github_releases
 theme: agent-mode
@@ -79,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2025-08-14 · Gemini CLI · [[Changes/Gemini CLI/2025-08-14-7-agent-mode-changes-in-v0-1-21|7 Agent Mode changes in v0.1.21]]
+- Earlier: 2025-08-15 · AnythingLLM · [[Changes/AnythingLLM/2025-08-15-2-agent-mode-changes-in-v1-8-5|2 Agent Mode changes in v1.8.5]]
 - Later: 2025-08-21 · Cline · [[Changes/Cline/2025-08-21-adding-task-progress-param-to-the-summarize-task-tool-call-by-0xtoshii-in-https|adding task_progress param to the summarize task tool call]]
 <!-- chronolog:end -->
 

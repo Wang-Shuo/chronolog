@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d93ed393d0072a4e34dad368e90ce5ece233eead3cb25736618c47ba09a7e7ac
+machine_hash: af31f3d571202ece4bc3186b7e423027814e2d527fc997da57923c1ade3cf322
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -43,8 +43,8 @@ record:
     instead…
   type: change
 related_changes:
-- '[[Changes/Runway/2026-07-06-agent-can-now-read-pdfs-you-upload-pulling-their-content-directly-into-generatio|PDF
-  Input for Agent]]'
+- '[[Changes/Superwhisper/2026-07-06-agent-escape-enter-shortcuts-now-respond-only-when-the-relevant-window-is-focuse|Agent
+  Escape/Enter shortcuts now respond only when the relevant window is focused]]'
 - '[[Changes/Claude Code/2026-07-07-2-agent-mode-changes-in-v2-1-203|2 Agent Mode
   changes in v2.1.203]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-07-double-press-esc-now-interrupts-the-running-main-turn-flushing-queued-messages-o|Double-press

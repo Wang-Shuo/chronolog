@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 96cbb2d5f470cb771ae7fa884cbbfdab040dc1509c8282a95ecf708b6975fda4
+machine_hash: e28e30a5e68cd55da9cd6956bb5e9f3a91993dc55b5ceaa8aea88df238c58692
 product: dify
 product_name: Dify
 record:
@@ -48,8 +48,8 @@ record:
   title: 5 Model Support changes in 0.4.8
   type: change
 related_changes:
-- '[[Changes/Dify/2024-01-12-support-for-models-integration-provided-by-the-ollama-details-https-docs-dify-ai|Support
-  for Models Integration Provided by the Ollama, details]]'
+- '[[Changes/Superwhisper/2024-01-13-3-new-experimental-language-models-v2-german-and-nano|3
+  new experimental language models (v2, German and Nano)]]'
 - '[[Changes/Cursor/2024-01-15-cursor-fast-is-a-newly-trained-model-between-gpt-3-5-and-gpt-4-coding-capabiliti-bb4c11|Cursor-Fast
   is a newly trained model between gpt-3.5 and gpt-4 coding capabilities…]]'
 - '[[Changes/Dify/2024-01-15-2-model-support-changes-in-0-4-7|2 Model Support changes

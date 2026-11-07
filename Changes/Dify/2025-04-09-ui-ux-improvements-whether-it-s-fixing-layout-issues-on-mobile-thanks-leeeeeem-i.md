@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e7b9b4ab4869c5497b4e48c27894041df9314e1af3124d2779ffe567bc171715
+machine_hash: 1cdcbea93e85b5a484a4a84abffaf5359b1021925def94667fa391042e0c1848
 product: dify
 product_name: Dify
 record:
@@ -45,12 +45,12 @@ record:
   title: '**UI/UX Improvements**: Whether it’s fixing layout issues on mobile…'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-03-18-improved-table-copying-functionality-out-of-chatgpt-responses-on-ios-and-macos|Improved
-  table-copying functionality out of ChatGPT responses on iOS and macOS]]'
 - '[[Changes/Dify/2025-03-24-inputs-on-ios-devices-squashed-bugs-causing-errors-when-passing-inputs-on-ios-by|Inputs
   on iOS Devices]]'
 - '[[Changes/ElevenLabs/2025-03-24-core-app-signup-added-signup-endpoints-for-the-new-core-mobile-app|Core
   app signup: Added signup endpoints for the new Core mobile app]]'
+- '[[Changes/AnythingLLM/2025-03-27-nvidia-nim-support-anythingllm-desktop-only-https-docs-anythingllm-com-nvidia-ni|NVIDIA
+  NIM support - AnythingLLM Desktop…]]'
 source_release: '[[Releases/Dify/dify-2025-04-09-1-2-0-github-211219994-e78c941d|dify-2025-04-09-1-2-0-github-211219994-e78c941d]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -88,8 +88,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2025-03-24 · ElevenLabs · [[Changes/ElevenLabs/2025-03-24-core-app-signup-added-signup-endpoints-for-the-new-core-mobile-app|Core app signup: Added signup endpoints for the new Core mobile app]]
-- Later: 2025-04-10 · Descript · [[Changes/Descript/2025-04-10-updates-desktop-app-to-support-configuration-change|Updates desktop app to support configuration change]]
+- Earlier: 2025-03-27 · AnythingLLM · [[Changes/AnythingLLM/2025-03-27-nvidia-nim-support-anythingllm-desktop-only-https-docs-anythingllm-com-nvidia-ni|NVIDIA NIM support - AnythingLLM Desktop…]]
+- Later: 2025-04-09 · Raycast · [[Changes/Raycast/2025-04-09-macos-support-raycast-now-requires-macos-13-or-later-if-you-are-still-running-ma|macOS Support: Raycast now requires macOS 13 or later]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 9ba2e404e9a0ed79df1dc2564b4c4272e485e0c546dbdeb6f8bad3dbb12fe2ae
+machine_hash: 9e0fe5cdc7c412cd1a992ea6ed168e879892771eedcec2c8afc8b2f58eaedbd8
 product: replit
 product_name: Replit
 record:
@@ -49,10 +49,9 @@ record:
   title: Teams and Enterprise
   type: change
 related_changes:
-- '[[Changes/Cline/2024-08-31-adds-support-for-reading-pdf-and-docx-files-try-turn-my-business-plan-docx-into|Adds
-  support for reading .pdf and .docx files…]]'
-- '[[Changes/Descript/2024-09-25-new-powers-for-enterprise-drive-admins|New powers
-  for Enterprise Drive admins]]'
+- '[[Changes/Devin/2024-10-10-beta-devin-api|Beta Devin API]]'
+- '[[Changes/Devin/2024-11-01-increased-options-for-enterprise-users|Increased options
+  for Enterprise users]]'
 - '[[Changes/Dify/2024-12-03-feat-remove-github-star-and-community-links-if-it-is-enterprise-version-by-douxc|Feat:
   remove github star and community links if it is enterprise version]]'
 source_release: '[[Releases/Replit/replit-2024-12-27-2024-12-27-e5c636ef|replit-2024-12-27-2024-12-27-e5c636ef]]'

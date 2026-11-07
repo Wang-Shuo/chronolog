@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 56bca5cf40fed6b0ed813913e32b07a89e0813028a928a1ccef4567ed0272e5f
+machine_hash: 983ae1d15380d14fa3b1a689af5d5ecd546104a73037d92a426227bbcf17046a
 product: runway
 product_name: Runway
 record:
@@ -51,11 +51,11 @@ record:
   title: Ideogram 4.5
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-25-47327-preserve-image-generation-request-ids-on-failure-chrisdong-oai|♯47327
-  Preserve image generation request IDs on failure @chrisdong-oai]]'
 - '[[Changes/Codex CLI/2026-09-28-3-image-generation-changes-in-rust-v0-158-0|3 Image
   Generation changes in rust-v0.158.0]]'
 - '[[Changes/ElevenLabs/2026-09-28-flows|Flows]]'
+- '[[Changes/AnythingLLM/2026-10-01-2-image-generation-changes-in-v1-17-0|2 Image
+  Generation changes in v1.17.0]]'
 source_release: '[[Releases/Runway/runway-2026-10-02-2026-10-02-ideogram-4-5-9a725b41|runway-2026-10-02-2026-10-02-ideogram-4-5-9a725b41]]'
 source_type: runway_changelog
 theme: image-generation
@@ -82,7 +82,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Image Generation
 
-- Earlier: 2026-09-28 · ElevenLabs · [[Changes/ElevenLabs/2026-09-28-flows|Flows]]
+- Earlier: 2026-10-01 · AnythingLLM · [[Changes/AnythingLLM/2026-10-01-2-image-generation-changes-in-v1-17-0|2 Image Generation changes in v1.17.0]]
 - Later: 2026-10-08 · Midjourney · [[Changes/Midjourney/2026-10-08-we-re-testing-a-new-thinking-mode-for-image-generation-on-our-alpha-website-alph|We're testing a new "Thinking Mode" for image generation on our Alpha website…]]
 <!-- chronolog:end -->
 

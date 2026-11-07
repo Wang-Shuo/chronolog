@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5928b352c870662711ac1772bbc7245d50a910f432e8e0742848de1d4c01e6b1
+machine_hash: 3f543732cde153716a08a48e6f92c8b10f825acc7510e97edc496cab1786f8a9
 product: open-webui
 product_name: Open WebUI
 record:
@@ -87,7 +87,7 @@ type: change
 ## Nearby in Multimodal Input
 
 - Earlier: 2024-04-22 · Dify · [[Changes/Dify/2024-04-22-2-multimodal-input-changes-in-0-6-4|2 Multimodal Input changes in 0.6.4]]
-- Later: 2024-06-04 · Descript · [[Changes/Descript/2024-06-04-import-media-from-a-youtube-and-giphy|Import media from a YouTube and GIPHY]]
+- Later: 2024-05-08 · Raycast · [[Changes/Raycast/2024-05-08-open-camera-added-a-setting-to-exclude-wallpaper-from-the-photo|Open Camera: Added a setting to exclude wallpaper from the photo]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

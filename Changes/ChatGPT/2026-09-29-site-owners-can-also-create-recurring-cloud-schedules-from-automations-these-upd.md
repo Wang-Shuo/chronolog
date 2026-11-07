@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c3f2e922817f62cd3ce76eb0e2656137a2d05f32a9a4c28a26f7651d3b1758d8
+machine_hash: 201b10c1889fbdec5f286e6236b1e4dfc386fc8fc632a13c3cd1319c869a611a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -44,8 +44,8 @@ record:
   title: Site owners can also create recurring cloud schedules from Automations
   type: change
 related_changes:
-- '[[Changes/Qoder/2026-09-23-cloud-automations-create-scheduled-tasks-through-conversation-or-manual-configur|Cloud
-  automations: Create scheduled tasks through conversation or manual…]]'
+- '[[Changes/Devin/2026-09-25-create-code-scan-automations-via-the-api|Create Code-Scan
+  Automations via the API]]'
 - '[[Changes/OpenHands/2026-09-25-3-automation-and-scheduling-changes-in-v1-24-0|3
   Automation and Scheduling changes in v1.24.0]]'
 - '[[Changes/Manus/2026-09-28-a-new-architecture-new-products-and-new-capabilities-manus-studio-with-video-edi|Introducing
@@ -79,7 +79,7 @@ type: change
 ## Nearby in Automation and Scheduling
 
 - Earlier: 2026-09-28 · Manus · [[Changes/Manus/2026-09-28-a-new-architecture-new-products-and-new-capabilities-manus-studio-with-video-edi|Introducing Manus 2.0]]
-- Later: 2026-09-30 · OpenClaw · [[Changes/OpenClaw/2026-09-30-11-automation-and-scheduling-changes-in-v2026-9-7|11 Automation and Scheduling changes in v2026.9.7]]
+- Later: 2026-09-30 · Devin · [[Changes/Devin/2026-09-30-preflight-checks-for-automations|Preflight Checks for Automations]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: meeting-notes
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: cd39d929a154a0dcb6233df12e6d116a5118f4ea6a4f15c187d57e5246616808
+machine_hash: db62f437015586326d879c86b91b5e7aab5ba3fb1f79198acd5727602f647fba
 product: notion
 product_name: Notion
 record:
@@ -101,7 +101,7 @@ type: change
 ## Nearby in Meeting Notes
 
 - Earlier: 2026-05-20 · Granola · [[Changes/Granola/2026-05-20-open-a-meeting-note-and-get-a-short-brief-who-you-re-meeting-what-you-discussed|New: Briefs prepare you for your next meeting as you join]]
-- Later: 2026-10-13 · Notion · [[Changes/Notion/2026-10-13-reintroducing-synced-databases|Reintroducing synced databases]]
+- Later: 2026-10-09 · Wispr Flow · [[Changes/Wispr Flow/2026-10-09-mention-people-in-your-meeting-notes-notetaker|Mention people in your meeting notes (Notetaker)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

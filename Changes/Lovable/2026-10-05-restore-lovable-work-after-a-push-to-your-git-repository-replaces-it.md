@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 1a664b38024e60db8882560fc897822cec2f9b3e66381cfc1a5ef324005ea129
+machine_hash: e01e98505eeddbc612d3dccb9f5016f8d28d8d14f49ace4b94581d124b220768
 product: lovable
 product_name: Lovable
 record:
@@ -60,9 +60,10 @@ record:
   title: Restore Lovable work after a push to your Git repository replaces it
   type: change
 related_changes:
-- '[[Changes/Midjourney/2026-10-02-editing|EDITING]]'
-- '[[Changes/OpenClaw/2026-10-03-browser-tabs-after-updates-if-you-leave-openclaw-s-bundled-web-interface-open-du|Browser
-  tabs after updates]]'
+- '[[Changes/Devin/2026-10-05-open-html-pdf-and-svg-attachments-in-a-new-tab|Open
+  HTML, PDF and SVG Attachments in a New Tab]]'
+- '[[Changes/Devin/2026-10-05-pr-links-in-devin-review-follow-your-preference|PR Links
+  in Devin Review Follow Your Preference]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-05-2-editor-experience-changes-in-v1-0-92|2
   Editor Experience changes in v1.0.92]]'
 source_release: '[[Releases/Lovable/lovable-2026-10-05-2026-10-05-4039c076|lovable-2026-10-05-2026-10-05-4039c076]]'

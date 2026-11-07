@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d7d21aee5c9f627dd9a4bd2674e5d4b55c373210d97fd63b471302b5068b77ca
+machine_hash: 985b295d0d34f8407167c4655e084e578c4e74e4a9e13d2d6b989baf04ace9d6
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -62,10 +62,9 @@ record:
   title: Faster long conversations, more reliable hooks and subagents
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-07-3-apps-and-integrations-changes-in-v2-1-224|3
-  Apps and Integrations changes in v2.1.224]]'
-- '[[Changes/Codex CLI/2026-08-07-65-apps-and-integrations-changes-in-rust-v0-147-0|65
-  Apps and Integrations changes in rust-v0.147.0]]'
+- '[[Changes/Devin/2026-08-07-request-channel-access-from-slack|Request Channel Access
+  from Slack]]'
+- '[[Changes/Devin/2026-08-07-mcp-connection-improvements|MCP Connection Improvements]]'
 - '[[Changes/Google Antigravity/2026-08-07-2-apps-and-integrations-changes-in-hub-v2-6-0-faster-long-conversations|2
   Apps and Integrations changes in HUB v2.6.0 — Faster long conversations…]]'
 source_release: '[[Releases/Google Antigravity/google-antigravity-2026-08-07-rel-hub-2-6-0-1cc55d28|google-antigravity-2026-08-07-rel-hub-2-6-0-1cc55d28]]'
@@ -104,7 +103,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-08-07 · Codex CLI · [[Changes/Codex CLI/2026-08-07-65-apps-and-integrations-changes-in-rust-v0-147-0|65 Apps and Integrations changes in rust-v0.147.0]]
+- Earlier: 2026-08-07 · Devin · [[Changes/Devin/2026-08-07-mcp-connection-improvements|MCP Connection Improvements]]
 - Later: 2026-08-08 · Claude Code · [[Changes/Claude Code/2026-08-08-3-apps-and-integrations-changes-in-v2-1-225|3 Apps and Integrations changes in v2.1.225]]
 <!-- chronolog:end -->
 

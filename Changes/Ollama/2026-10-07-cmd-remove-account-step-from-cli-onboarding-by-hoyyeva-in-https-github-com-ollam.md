@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 984b17189f302d8f1a3163fa8f21f73fb0a5b6fca87a2e81c4136e157bc83240
+machine_hash: 12203155e49e5e95b74dd3e6ec295801fd5cac6110ddc5d6e2fd55f256ca0f9f
 product: ollama
 product_name: Ollama
 record:
@@ -43,10 +43,8 @@ record:
   title: 'cmd: remove account step from CLI onboarding'
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-10-06-feat-outline-the-back-navigation-control-on-settings-sub-pages-by-errmakov-in-ht|feat:
-  outline the back navigation control on settings sub-pages]]'
-- '[[Changes/Codex CLI/2026-10-07-49856-support-daybreak-selection-in-codex-exec-etraut-openai|♯49856
-  Support Daybreak selection in codex exec @etraut-openai]]'
+- '[[Changes/Devin/2026-10-07-notification-inbox|Notification Inbox]]'
+- '[[Changes/Devin/2026-10-07-sidebar-polish|Sidebar Polish]]'
 - '[[Changes/Google Antigravity/2026-10-07-archived-conversations-in-the-sidebar-now-keep-their-status-and-last-updated-tim|Archived
   conversations in the sidebar now keep their status and last-updated time…]]'
 source_release: '[[Releases/Ollama/ollama-2026-10-07-v0-40-1-github-406237079-5c84232c|ollama-2026-10-07-v0-40-1-github-406237079-5c84232c]]'

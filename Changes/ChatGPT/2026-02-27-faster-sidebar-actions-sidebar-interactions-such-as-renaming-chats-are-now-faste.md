@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 90fd3705441b8fc05e0824d2dccedd610a3dea0fe8d1d0bdc3c6e8f2cc96c092
+machine_hash: bd95d33c59dbaea0d9c105d036ed3db649a4844eb09d8bd66f9f15a985aec3f7
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -54,8 +54,8 @@ record:
   title: Faster sidebar actions
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-02-26-desktop-fixed-keyboard-navigation-for-previous-next-message|Desktop
-  Fixed keyboard navigation for previous/next message]]'
+- '[[Changes/Raycast/2026-02-26-navigation-tweaked-copy-to-not-accidentally-mention-search-menu-items|Navigation
+  : Tweaked copy to not accidentally mention search menu items]]'
 - '[[Changes/ChatGPT/2026-02-27-automatic-scroll-to-latest-message-existing-conversations-now-automatically-scro|Automatic
   scroll to latest message]]'
 - '[[Changes/ChatGPT/2026-02-27-sidebar-actions-on-mobile-web-no-longer-stick-while-scrolling|Sidebar
@@ -95,7 +95,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-02-26 · OpenCode · [[Changes/OpenCode/2026-02-26-desktop-fixed-keyboard-navigation-for-previous-next-message|Desktop Fixed keyboard navigation for previous/next message]]
+- Earlier: 2026-02-26 · Raycast · [[Changes/Raycast/2026-02-26-navigation-tweaked-copy-to-not-accidentally-mention-search-menu-items|Navigation : Tweaked copy to not accidentally mention search menu items]]
 - Later: 2026-02-27 · Gemini CLI · [[Changes/Gemini CLI/2026-02-27-2-interface-experience-changes-in-v0-31-0|2 Interface Experience changes in v0.31.0]]
 <!-- chronolog:end -->
 

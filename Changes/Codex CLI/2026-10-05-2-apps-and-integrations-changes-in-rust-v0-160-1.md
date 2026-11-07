@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c0f39ce45ce3250279d44108920efd163bd7e57a6673cfeeadd05b339a878d36
+machine_hash: 658f8e85ebe141603717f6ed2e9ae2eec5e0a900cf45dee515cd80444307f9f4
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -83,7 +83,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.160.1
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-10-05 · Claude Code · [[Changes/Claude Code/2026-10-05-14-apps-and-integrations-changes-in-v2-1-290|14 Apps and Integrations changes in v2.1.290]]
-- Later: 2026-10-05 · ElevenLabs · [[Changes/ElevenLabs/2026-10-05-swift-sdk|Swift SDK]]
+- Later: 2026-10-05 · Devin · [[Changes/Devin/2026-10-05-slack-user-group-mentions|Slack User-Group Mentions]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ad8cdb64fca094d1d31ee05a339baee4620516f380c34ea6eb53ab00a3f92e54
+machine_hash: a2c579824a64904bbec72a00830571532d046eb8d5e3ced519a2ae3c4809671d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -54,8 +54,8 @@ record:
   title: Share your profile and showcase your Sites
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-25-47411-apply-shared-network-policy-throughout-embedded-codex-startup-acrognale-oa|♯47411
-  Apply shared network policy throughout embedded Codex startup @acrognale-oai]]'
+- '[[Changes/Devin/2026-09-25-microsoft-teams-approve-network-access-from-the-card|Microsoft
+  Teams: Approve Network Access from the Card]]'
 - '[[Changes/Claude Code/2026-09-28-2-collaboration-changes-in-v2-1-284|2 Collaboration
   changes in v2.1.284]]'
 - '[[Changes/Codex CLI/2026-09-28-2-collaboration-changes-in-rust-v0-158-0|2 Collaboration

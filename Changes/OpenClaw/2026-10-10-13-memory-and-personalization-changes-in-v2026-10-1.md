@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 39b49abb7df52565bee66b995f81824aed8fe7abb84923839364212b4b6abf7f
+machine_hash: 048b05140d90cce4597ce7f7eadde580da68d2faeb09ca08634a1fe6b37ccc0d
 product: openclaw
 product_name: OpenClaw
 record:
@@ -119,9 +119,10 @@ record:
   title: 13 Memory and Personalization changes in v2026.10.1
   type: change
 related_changes:
-- '[[Changes/Midjourney/2026-10-08-organization-improvements|ORGANIZATION IMPROVEMENTS]]'
-- '[[Changes/OpenClaw/2026-10-08-2-memory-and-personalization-changes-in-v2026-9-9|2
-  Memory and Personalization changes in v2026.9.9]]'
+- '[[Changes/Raycast/2026-10-09-we-made-more-memory-and-performance-improvements-ai-chat-notes-and-settings-now|We
+  made more memory and performance improvements]]'
+- '[[Changes/Raycast/2026-10-09-2-memory-and-personalization-changes-in-raycast-macos-2-7|2
+  Memory and Personalization changes in Raycast macos 2.7]]'
 - '[[Changes/Open WebUI/2026-10-10-2-memory-and-personalization-changes-in-v0-12-0|2
   Memory and Personalization changes in v0.12.0]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-10-10-v2026-10-1-d64e4e93|openclaw-2026-10-10-v2026-10-1-d64e4e93]]'

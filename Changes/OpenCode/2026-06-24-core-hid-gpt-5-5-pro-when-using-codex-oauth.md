@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b58c7ef9230591bcb6b83fff0b2f751c1d3056fb08ae4f4c8beaae82bc9456e0
+machine_hash: 9f35cad132629f06c927d40a0b675d0d4559e86775dfe074e6c8f212b135e05d
 product: opencode
 product_name: OpenCode
 record:
@@ -93,7 +93,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-06-24 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-24-2-model-support-changes-in-v1-0-65|2 Model Support changes in v1.0.65]]
-- Later: 2026-06-25 · Claude Code · [[Changes/Claude Code/2026-06-25-added-claude-code-assistant-response-opentelemetry-log-event-containing-the-mode|Added claude_code.assistant_response OpenTelemetry log event containing…]]
+- Later: 2026-06-24 · Raycast · [[Changes/Raycast/2026-06-24-ai-chat-when-switching-models-an-info-card-now-pops-up-with-a-brief-description|AI Chat : When switching models, an info card now pops up with a brief description…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

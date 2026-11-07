@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: cf16ad583d79e538e2cb165252895d53d9f22ccd93cf6ef25b282ab1a1c9f683
+machine_hash: 9dbc84d2bc1aacaf83082fa3a4ecdf2adf6b12c0dd098223dc85edbbd6ee9a9c
 product: windsurf
 product_name: Windsurf
 record:
@@ -61,10 +61,9 @@ record:
   title: Devin in Windsurf
   type: change
 related_changes:
-- '[[Changes/Notion/2026-04-14-ai-autofill-in-databases-powered-by-custom-agents|AI
-  Autofill in databases, powered by Custom Agents]]'
 - '[[Changes/Codex CLI/2026-04-15-7-agent-mode-changes-in-rust-v0-121-0|7 Agent Mode
   changes in rust-v0.121.0]]'
+- '[[Changes/Devin/2026-04-15-acp-summarizer|ACP Summarizer]]'
 - '[[Changes/Notion/2026-04-15-notion-agent-now-shows-your-calendar-to-help-you-find-available-time-with-teamma|Schedule
   meetings with Notion Agent]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-04-15-v2-0-44-3f004a0d|windsurf-2026-04-15-v2-0-44-3f004a0d]]'

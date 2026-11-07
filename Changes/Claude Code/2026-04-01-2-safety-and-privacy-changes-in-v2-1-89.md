@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0d834b1cefc27fc85faeb5c2244e55a03227a169d10391ab00826d55b9ff8868
+machine_hash: ae885f60dbe43f4bc8d08fbfa2d1f367760dc7d09ad1318df2fa31bd19f0b3e2
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,11 @@ record:
   title: 2 Safety and Privacy changes in v2.1.89
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-03-30-added-clear-command-for-v1-conversations-typing-clear-in-the-chat-creates-a-new|Added
-  /clear command for V1 conversations]]'
-- '[[Changes/Codex CLI/2026-03-31-7-safety-and-privacy-changes-in-rust-v0-118-0|7
-  Safety and Privacy changes in rust-v0.118.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-31-2-safety-and-privacy-changes-in-v1-0-14|2
   Safety and Privacy changes in v1.0.14]]'
+- '[[Changes/Wispr Flow/2026-03-31-security-privacy-desktop|Security & Privacy (Desktop)]]'
+- '[[Changes/Wispr Flow/2026-03-31-banking-app-privacy-protection-50-apps-globally-android|Banking
+  App Privacy Protection (50+ Apps Globally) (Android)]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-01-v2-1-89-github-303967782-358023f0|claude-code-2026-04-01-v2-1-89-github-303967782-358023f0]]'
 source_type: github_releases
 theme: safety-privacy
@@ -91,7 +90,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.89
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-03-31 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-31-2-safety-and-privacy-changes-in-v1-0-14|2 Safety and Privacy changes in v1.0.14]]
+- Earlier: 2026-03-31 · Wispr Flow · [[Changes/Wispr Flow/2026-03-31-banking-app-privacy-protection-50-apps-globally-android|Banking App Privacy Protection (50+ Apps Globally) (Android)]]
 - Later: 2026-04-01 · Claude Code · [[Changes/Claude Code/2026-04-01-4-safety-and-privacy-changes-in-v2-1-90|4 Safety and Privacy changes in v2.1.90]]
 <!-- chronolog:end -->
 

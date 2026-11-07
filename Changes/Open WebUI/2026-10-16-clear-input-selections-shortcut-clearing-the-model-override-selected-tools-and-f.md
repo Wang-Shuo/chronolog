@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: ad6e6a6ca31efcb124b91aa95eb94c751e42cce7882e31e25d66be07610163ef
+machine_hash: cd3b4317a55f3fc6f7bdc2b0304346404dcf4f5b6048533bcb95464ebfcad016
 product: open-webui
 product_name: Open WebUI
 record:
@@ -63,12 +63,11 @@ record:
     selected tools…"
   type: change
 related_changes:
-- '[[Changes/Midjourney/2026-10-08-we-re-testing-a-new-thinking-mode-for-image-generation-on-our-alpha-website-alph|We''re
-  testing a new "Thinking Mode" for image generation on our Alpha website…]]'
 - '[[Changes/Open WebUI/2026-10-10-5-image-generation-changes-in-v0-12-0|5 Image Generation
   changes in v0.12.0]]'
 - '[[Changes/OpenClaw/2026-10-10-image-generation-with-oauth-can-retry-using-a-supported-openai-chat-model-in-age|Image
   generation with OAuth can retry using a supported OpenAI chat model…]]'
+- '[[Changes/Krea/2026-10-15-krea-3-api-in-early-access|Krea 3 API in early access]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-10-16-v0-12-3-github-414903453-58a8a82d|open-webui-2026-10-16-v0-12-3-github-414903453-58a8a82d]]'
 source_type: github_releases
 theme: image-generation
@@ -111,7 +110,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Image Generation
 
-- Earlier: 2026-10-10 · OpenClaw · [[Changes/OpenClaw/2026-10-10-image-generation-with-oauth-can-retry-using-a-supported-openai-chat-model-in-age|Image generation with OAuth can retry using a supported OpenAI chat model…]]
+- Earlier: 2026-10-15 · Krea · [[Changes/Krea/2026-10-15-krea-3-api-in-early-access|Krea 3 API in early access]]
 - Later: 2026-10-23 · Codex CLI · [[Changes/Codex CLI/2026-10-23-2-image-generation-changes-in-rust-v0-164-0|2 Image Generation changes in rust-v0.164.0]]
 <!-- chronolog:end -->
 

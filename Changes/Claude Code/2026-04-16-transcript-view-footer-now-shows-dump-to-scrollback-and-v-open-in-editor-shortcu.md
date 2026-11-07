@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: aeb1697f469007e1e74f6a7c35b62bf684d093f7bb93d726f57030e3c0a5b448
+machine_hash: 006e9183e9c61c64aac7dfa34cfafe93396718ab6cb81cc1d2cf701494d49bb1
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,12 +42,12 @@ record:
     editor)…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-15-2-editor-experience-changes-in-v2-1-110|2 Editor
-  Experience changes in v2.1.110]]'
 - '[[Changes/Codex CLI/2026-04-15-added-realtime-and-app-server-apis-for-output-modality-transcript-completion-eve|Added
   realtime and app-server APIs for output modality, transcript completion…]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-15-show-a-clear-message-when-copilot-pro-trial-is-paused-instead-of-a-generic-polic|Show
   a clear message when Copilot Pro trial is paused instead of a generic policy error]]'
+- '[[Changes/Raycast/2026-04-15-general-improve-keyboard-handling-for-ime-input-method-editor-commonly-used-for|General
+  : Improve keyboard handling for IME (Input Method Editor) commonly used…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-16-v2-1-111-github-309911692-a3025e78|claude-code-2026-04-16-v2-1-111-github-309911692-a3025e78]]'
 source_type: github_releases
 theme: editor-experience
@@ -86,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-04-15 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-15-show-a-clear-message-when-copilot-pro-trial-is-paused-instead-of-a-generic-polic|Show a clear message when Copilot Pro trial is paused instead of a generic policy error]]
+- Earlier: 2026-04-15 · Raycast · [[Changes/Raycast/2026-04-15-general-improve-keyboard-handling-for-ime-input-method-editor-commonly-used-for|General : Improve keyboard handling for IME (Input Method Editor) commonly used…]]
 - Later: 2026-04-16 · Descript · [[Changes/Descript/2026-04-16-underlord-https-help-descript-com-hc-en-us-articles-36803785502221-underlord-bet|Underlord…]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 78f2f8d9c78ce12c4270807cf2a478b6fbad0a1156461517b4b4167fd3f67c0a
+machine_hash: 7252e82d83bcc0ad8bb649abb98a5a54b221f349b8d49fc1e55607685e9621f2
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -66,10 +66,10 @@ record:
     image…
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2026-08-25-image-generation-and-web-search-staying-switched-off-turning-either-off-now-take|\U0001F3A8
-  Image generation and web search staying switched off. Turning either off now…]]"
 - '[[Changes/Codex CLI/2026-08-26-40544-include-transparent-background-in-image-generation-analytics-copyberry|♯40544
   Include transparent background in image generation analytics @copyberry]]'
+- '[[Changes/AnythingLLM/2026-08-27-2-image-generation-changes-in-v1-16-1|2 Image
+  Generation changes in v1.16.1]]'
 - '[[Changes/v0/2026-08-28-generated-images-referenced-by-relative-paths-render-in-responses-as-do-screensh|Generated
   images referenced by relative paths render in responses, as do screenshots…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-08-chatgpt-images-2-5-new-ways-to-create-and-edit-11ada24d|chatgpt-2026-09-08-chatgpt-images-2-5-new-ways-to-create-and-edit-11ada24d]]'
@@ -110,7 +110,7 @@ type: change
 ## Nearby in Image Generation
 
 - Earlier: 2026-08-28 · v0 · [[Changes/v0/2026-08-28-generated-images-referenced-by-relative-paths-render-in-responses-as-do-screensh|Generated images referenced by relative paths render in responses, as do screenshots…]]
-- Later: 2026-09-11 · OpenClaw · [[Changes/OpenClaw/2026-09-11-2-image-generation-changes-in-v2026-9-4|2 Image Generation changes in v2026.9.4]]
+- Later: 2026-09-09 · Krea · [[Changes/Krea/2026-09-09-gpt-image-2-5-flare-and-gpt-image-2-5-sunburst|GPT Image 2.5 Flare and GPT Image 2.5 Sunburst]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

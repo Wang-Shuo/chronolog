@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 18345eb8ae818659c190babf9b05913f7da6a51a7efdb2217443fc5f793fc13d
+machine_hash: a0e1988d025a0db3932bcc572e417ed3f0ccdb0b9971a9c34718b900b9ac7341
 product: replit
 product_name: Replit
 record:
@@ -47,12 +47,12 @@ record:
   title: Mobile connectors support
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2025-09-17-2-apps-and-integrations-changes-in-v0-6-29|2 Apps
-  and Integrations changes in v0.6.29]]'
-- '[[Changes/Open WebUI/2025-09-17-onedrive-integration-was-fixed-after-recent-breakage-restoring-reliable-account|☁️
-  OneDrive integration was fixed after recent breakage, restoring reliable account…]]'
 - '[[Changes/Notion/2025-09-18-notion-s-mcp-ecosystem-just-got-bigger|Notion’s MCP
   ecosystem just got bigger]]'
+- '[[Changes/Raycast/2025-09-18-6-apps-and-integrations-changes-in-raycast-windows-0-31|6
+  Apps and Integrations changes in Raycast windows 0.31]]'
+- '[[Changes/Raycast/2025-09-18-starting-today-power-users-and-developers-can-spin-up-custom-extensions-on-windo|Starting
+  today, power users and developers can spin up custom extensions on Windows]]'
 source_release: '[[Releases/Replit/replit-2025-09-19-2025-09-19-b0d6c042|replit-2025-09-19-2025-09-19-b0d6c042]]'
 source_type: replit_changelog
 theme: apps-integrations
@@ -90,7 +90,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-09-18 · Notion · [[Changes/Notion/2025-09-18-notion-s-mcp-ecosystem-just-got-bigger|Notion’s MCP ecosystem just got bigger]]
+- Earlier: 2025-09-18 · Raycast · [[Changes/Raycast/2025-09-18-starting-today-power-users-and-developers-can-spin-up-custom-extensions-on-windo|Starting today, power users and developers can spin up custom extensions on Windows]]
 - Later: 2025-09-20 · Cline · [[Changes/Cline/2025-09-20-feat-oca-ui-add-oca-provider-with-model-picker-and-auth-integration-by-nihar-ora|feat(oca-ui): add OCA provider with model picker and auth integration]]
 <!-- chronolog:end -->
 

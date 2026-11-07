@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b544298286810fbe871a6c66b3b7f95bbadfca2f0fc571e80da023729baf3094
+machine_hash: e8f655b9206ce60df215efcc7668d15ce31415ee891f82da8b1a6764d3084514
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,9 +44,9 @@ record:
   title: 'Remote Control: effort picks made on a phone or on claude.ai/code now apply…'
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-08-13-build-history-and-debugging|Build history and debugging]]'
 - '[[Changes/Claude Code/2026-08-14-added-gitlab-merge-request-url-support-to-the-worktree-flag-and-the-claude-agent|Added
   GitLab merge request URL support to the --worktree flag…]]'
+- '[[Changes/Devin/2026-08-14-command-palette-improvements|Command Palette Improvements]]'
 - '[[Changes/v0/2026-08-14-4-developer-workflow-changes-in-a-redesigned-sidebar-a-richer|4
   Developer Workflow changes in A redesigned sidebar, a richer…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-17-v2-1-234-github-371864218-2ca32673|claude-code-2026-08-17-v2-1-234-github-371864218-2ca32673]]'

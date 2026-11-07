@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: f22cb54e8c37093800494d6569228032a8b209a345bfb2e9a5acd273b93c139b
+machine_hash: d39ee20cd9f5e0e81eecdfc0bce6f613804c4f33a6922b691f8a2430da0d8eb0
 product: ollama
 product_name: Ollama
 record:
@@ -79,7 +79,7 @@ type: change
 ## Nearby in Multimodal Input
 
 - Earlier: 2026-05-13 · Runway · [[Changes/Runway/2026-05-13-work-with-an-ai-creative-partner-to-develop-and-produce-a-finished-video-describ|Runway Agent]]
-- Later: 2026-05-18 · HeyGen · [[Changes/HeyGen/2026-05-18-the-thing-that-makes-a-video-feel-real-isn-t-just-the-camera-or-the-lighting-it|The thing that makes a video feel real isn't just the camera or the lighting]]
+- Later: 2026-05-17 · Devin · [[Changes/Devin/2026-05-17-video-recording-download|Video Recording Download]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

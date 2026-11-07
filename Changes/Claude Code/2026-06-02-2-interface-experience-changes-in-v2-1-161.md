@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0c8ab3316a876dc33b879c93048d9203ae15b2f825d5dfa0a1ed0fe0e9e922f1
+machine_hash: 6008f94f3635c3d6306eb808d526a70688431a4035ee561b2c84d02cb319a516
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,8 +46,8 @@ record:
   title: 2 Interface Experience changes in v2.1.161
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-29-reasoning-effort-picker-respects-model-capabilities-options-not-supported-by-the|Reasoning
-  effort picker respects model capabilities]]'
+- '[[Changes/Raycast/2026-05-29-2-interface-experience-changes-in-raycast-ios-1-2-13|2
+  Interface Experience changes in Raycast ios 1.2.13]]'
 - '[[Changes/Codex CLI/2026-06-01-2-interface-experience-changes-in-rust-v0-136-0|2
   Interface Experience changes in rust-v0.136.0]]'
 - '[[Changes/Open WebUI/2026-06-01-4-interface-experience-changes-in-v0-9-6|4 Interface

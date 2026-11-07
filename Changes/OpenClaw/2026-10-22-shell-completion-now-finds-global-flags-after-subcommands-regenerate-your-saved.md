@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c18d99c507a3969066af1340305f584f067865b69fb590dbe0506ac06f54097d
+machine_hash: e744e586a5080d53d84721e305b47534c3d409c44123da96851f42c1a076f630
 product: openclaw
 product_name: OpenClaw
 record:
@@ -42,8 +42,8 @@ record:
   title: Shell completion now finds global flags after subcommands
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-10-19-refactor-theme-use-status-classes-for-icons-and-diff-counts-by-enyst-in-https-gi|refactor(theme):
-  use status classes for icons and diff counts]]'
+- '[[Changes/Krea/2026-10-20-improved-stability-in-the-editor-and-3d-viewer|Improved
+  stability in the Editor and 3D viewer]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-21-fish-shell-completion-works-when-aliases-include-option-aliases-like-effort|Fish
   shell completion works when aliases include option aliases like --effort]]'
 - '[[Changes/Claude Code/2026-10-22-2-editor-experience-changes-in-v2-1-309|2 Editor

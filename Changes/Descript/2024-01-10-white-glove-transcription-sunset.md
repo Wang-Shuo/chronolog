@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: policy
-machine_hash: 7986f4e0aab4b71aa8794bc986f71480e9f6d7380fceb18a233370f66183d0ce
+machine_hash: 6c86cd19dd402291f1d41d8b9e8a6b6a87644bf50a04fdf6f8cdbeccd4085567
 product: descript
 product_name: Descript
 record:
@@ -52,8 +52,8 @@ record:
   title: White Glove Transcription Sunset
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2023-11-21-chatgpt-with-voice-is-now-available-to-all-free-users-download-the-app-on-your-p|ChatGPT
-  with voice is available to all users]]'
+- '[[Changes/Superwhisper/2023-12-20-if-language-model-enabled-dont-flash-the-transcription-result|If
+  language model enabled, dont flash the transcription result]]'
 - '[[Changes/Runway/2024-01-08-create-a-custom-voice-for-text-to-speech-or-lip-sync-videos-using-a-short-audio|Custom
   Voices]]'
 - '[[Changes/Descript/2024-01-10-descript-for-web-beta-adds-video-audio-and-gif-exports|Descript
@@ -92,7 +92,7 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2024-01-08 · Runway · [[Changes/Runway/2024-01-08-create-a-custom-voice-for-text-to-speech-or-lip-sync-videos-using-a-short-audio|Custom Voices]]
-- Later: 2024-02-08 · Gemini · [[Changes/Gemini/2024-02-08-chat-to-supercharge-your-ideas-in-the-gemini-app|Chat to supercharge your ideas in the Gemini app]]
+- Later: 2024-01-25 · Superwhisper · [[Changes/Superwhisper/2024-01-25-explanations-of-difference-between-voice-and-language-models|Explanations of difference between voice and language models]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

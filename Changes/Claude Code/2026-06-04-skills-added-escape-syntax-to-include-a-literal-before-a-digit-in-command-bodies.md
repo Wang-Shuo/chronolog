@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 92c5991944308a66c82353e307832b741a89596c8f7affb313d05170ece32ffb
+machine_hash: 8b9b201a04b3d3a6e3b45c7b3907d4789c8350967021a52e73f7f4eb88e5983d
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
     in command bodies'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-02-experimental-new-ui-with-easy-access-to-issues-pull-requests-and-gists|/experimental
-  new UI with easy access to issues, pull requests, and gists]]'
-- '[[Changes/Kimi Code/2026-06-02-3-developer-workflow-changes-in-kimi-code-0-8-0|3
-  Developer Workflow changes in Kimi Code 0.8.0]]'
 - '[[Changes/Claude Code/2026-06-03-tools-explicitly-listing-grep-glob-now-provides-the-dedicated-search-tools-on-na|--tools:
   explicitly listing Grep/Glob now provides the dedicated search tools…]]'
+- '[[Changes/Raycast/2026-06-03-file-search-added-open-in-file-explorer-command-when-entering-a-file-path-in-the|File
+  Search : Added “Open In File Explorer” command when entering a file path…]]'
+- '[[Changes/Raycast/2026-06-03-file-search-added-open-in-finder-command-when-entering-a-file-path-in-the-root-s|File
+  Search : Added “Open In Finder” command when entering a file path in the root search]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-04-v2-1-163-github-334509318-c6b9f988|claude-code-2026-06-04-v2-1-163-github-334509318-c6b9f988]]'
 source_type: github_releases
 theme: developer-workflow
@@ -86,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-06-03 · Claude Code · [[Changes/Claude Code/2026-06-03-tools-explicitly-listing-grep-glob-now-provides-the-dedicated-search-tools-on-na|--tools: explicitly listing Grep/Glob now provides the dedicated search tools…]]
+- Earlier: 2026-06-03 · Raycast · [[Changes/Raycast/2026-06-03-file-search-added-open-in-finder-command-when-entering-a-file-path-in-the-root-s|File Search : Added “Open In Finder” command when entering a file path in the root search]]
 - Later: 2026-06-04 · Codex CLI · [[Changes/Codex CLI/2026-06-04-6-developer-workflow-changes-in-rust-v0-137-0|6 Developer Workflow changes in rust-v0.137.0]]
 <!-- chronolog:end -->
 

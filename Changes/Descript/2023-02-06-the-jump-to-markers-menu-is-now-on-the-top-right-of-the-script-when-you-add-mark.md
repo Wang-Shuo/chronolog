@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: bf9c64b48a55d2b3b797f1f8d8656dd779ad8825c14c57ec2180d901f8e42639
+machine_hash: 121248246697cbd76f9b5520cc7c1730cc9d9aaeff9b623595dc151ac23429b7
 product: descript
 product_name: Descript
 record:
@@ -43,10 +43,10 @@ record:
     add…
   type: change
 related_changes:
-- '[[Changes/Descript/2022-12-06-add-scenes-by-active-speaker-out-of-beta-use-this-feature-from-the-script-action|Add
-  scenes by active speaker out of beta]]'
 - '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
   generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+- '[[Changes/Raycast/2023-01-18-bottom-left-menu-you-can-now-click-on-the-name-of-any-command-in-the-bottom-left|Bottom-left
+  menu : You can now click on the name of any command in the bottom-left…]]'
 - '[[Changes/Descript/2023-01-23-made-it-easier-to-apply-changes-from-one-scene-to-all-scenes-that-a-layer-spans|Made
   it easier to apply changes from one scene to all scenes that a layer spans]]'
 source_release: '[[Releases/Descript/descript-2023-02-06-63e191b91594c8609e9d9b1c-28d5324a|descript-2023-02-06-63e191b91594c8609e9d9b1c-28d5324a]]'

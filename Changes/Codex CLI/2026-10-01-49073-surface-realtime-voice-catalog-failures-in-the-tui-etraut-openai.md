@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 495ca6b214e839879e8d2ab1f4462c0b860f14ddfe568eddcbf3021ab04bc12f
+machine_hash: 29e108d34e00d28ff4e265600a09ff95f082497dfc396921dea425b4106ef376
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -41,12 +41,12 @@ record:
   title: '#49073 Surface realtime voice catalog failures in the TUI @etraut-openai'
   type: change
 related_changes:
-- '[[Changes/Gemini/2026-09-30-let-skills-in-gemini-tackle-your-most-repetitive-tasks|Let
-  skills in Gemini tackle your most repetitive tasks]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-30-holding-space-and-ctrl-x-v-explain-when-voice-mode-is-off-or-still-getting-ready|Holding
   Space and Ctrl+X V explain when voice mode is off or still getting ready]]'
 - '[[Changes/OpenClaw/2026-09-30-12-voice-and-audio-changes-in-v2026-9-7|12 Voice
   and Audio changes in v2026.9.7]]'
+- '[[Changes/AnythingLLM/2026-10-01-clean-up-tts-text-for-cloud-voices-and-telegram-voice-replies-by-shatfield4-in-h|Clean
+  up TTS text for cloud voices and Telegram voice replies]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-10-01-rust-v0-160-0-github-401312540-620e0269|codex-cli-2026-10-01-rust-v0-160-0-github-401312540-620e0269]]'
 source_type: github_releases
 theme: voice
@@ -89,7 +89,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-09-30 · OpenClaw · [[Changes/OpenClaw/2026-09-30-12-voice-and-audio-changes-in-v2026-9-7|12 Voice and Audio changes in v2026.9.7]]
+- Earlier: 2026-10-01 · AnythingLLM · [[Changes/AnythingLLM/2026-10-01-clean-up-tts-text-for-cloud-voices-and-telegram-voice-replies-by-shatfield4-in-h|Clean up TTS text for cloud voices and Telegram voice replies]]
 - Later: 2026-10-01 · Lovable · [[Changes/Lovable/2026-10-01-add-live-voice-conversations-to-your-app-with-gpt-live|Add live voice conversations to your app with GPT Live]]
 <!-- chronolog:end -->
 

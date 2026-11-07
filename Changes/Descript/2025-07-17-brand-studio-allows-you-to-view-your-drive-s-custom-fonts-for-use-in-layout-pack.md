@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: bb9b0777ed2346acd8bde3b62a7303f2507f33c3ef0adbeb0d60992996aa35ad
+machine_hash: 26ebb0b62745694496d0934f24a3c0ebeee5dc99ceb93c4e3fcdd0fdffd7d744
 product: descript
 product_name: Descript
 record:
@@ -50,10 +50,10 @@ record:
     packs…
   type: change
 related_changes:
-- '[[Changes/Descript/2025-07-15-ducking-is-now-lower-audio-of-other-layers|Ducking
-  is now “Lower audio of other layers”]]'
 - '[[Changes/ChatGPT/2025-07-16-record-live-conversations-like-team-meetings-or-voice-notes-and-turn-those-into|Record
   live conversations like team meetings or voice notes, and turn those…]]'
+- '[[Changes/Superwhisper/2025-07-16-new-audio-backend-device-switching|New Audio
+  Backend & Device Switching]]'
 - '[[Changes/ChatGPT/2025-07-17-the-advanced-voice-upgrades-we-announced-on-june-7th-are-now-rolling-out-to-chat|Updates
   to Advanced Voice Mode for Free tier users]]'
 source_release: '[[Releases/Descript/descript-2025-07-17-68791ed11d4d86d77022ab4c-f89d5f43|descript-2025-07-17-68791ed11d4d86d77022ab4c-f89d5f43]]'

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: fadf466ab5038daa1b5a570b4ae3d2f0eda30b10ec47f39bd681b66ff4fc48b2
+machine_hash: 6bc511cbd47a5450cf3c9cdb5ea28f3f5ee544bbff2600ddc7dd577f2d08f847
 product: openclaw
 product_name: OpenClaw
 record:
@@ -45,8 +45,8 @@ record:
   title: 2 Developer Workflow changes in v2026.10.9
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-10-27-chore-bump-shell-quote-and-dompurify-dependencies-by-devinvinson-in-https-github|chore:
-  bump shell-quote and DOMPurify dependencies]]'
+- '[[Changes/Raycast/2026-10-28-system-actions-added-an-auto-dark-mode-command-that-switches-windows-between-lig|System
+  Actions : Added an Auto Dark Mode command that switches Windows between light…]]'
 - '[[Changes/Codex CLI/2026-10-29-10-developer-workflow-changes-in-rust-v0-166-0|10
   Developer Workflow changes in rust-v0.166.0]]'
 - '[[Changes/Open WebUI/2026-10-29-35-developer-workflow-changes-in-v0-12-5|35 Developer

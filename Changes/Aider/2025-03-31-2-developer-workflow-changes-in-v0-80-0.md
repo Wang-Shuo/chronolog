@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e26c751083c477aea741c96b31a5a0f360920f67061dbb26adf411ad40fcc69f
+machine_hash: 63e7393acb314c9b9359e4b0dfcb48419e2b0920a99adb3ee2035fd17a0eb051
 product: aider
 product_name: Aider
 record:
@@ -42,12 +42,12 @@ record:
   title: 2 Developer Workflow changes in v0.80.0
   type: change
 related_changes:
-- '[[Changes/Dify/2025-03-21-stop-the-service-command-please-execute-in-the-docker-directory|Stop
-  the service, Command, please execute in the docker directory]]'
-- '[[Changes/Dify/2025-03-24-stop-the-service-command-please-execute-in-the-docker-directory|Stop
-  the service, Command, please execute in the docker directory]]'
 - '[[Changes/OpenHands/2025-03-25-reduce-bash-soft-timeout-from-30-to-10-seconds-by-xingyaoww-in-https-github-com|Reduce
   bash SOFT timeout from 30 to 10 seconds]]'
+- '[[Changes/AnythingLLM/2025-03-27-protected-slash-command-check-by-shatfield4-in-https-github-com-mintplex-labs-an|Protected
+  slash command check]]'
+- '[[Changes/Raycast/2025-03-27-there-is-now-a-new-quick-open-command-that-opens-any-url-passed-to-root-search|There
+  is now a new Quick Open command that opens any URL passed to root search]]'
 source_release: '[[Releases/Aider/aider-2025-03-31-v0-80-0-github-209238246-56764716|aider-2025-03-31-v0-80-0-github-209238246-56764716]]'
 source_type: github_releases
 theme: developer-workflow
@@ -84,7 +84,7 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.80.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2025-03-25 · OpenHands · [[Changes/OpenHands/2025-03-25-reduce-bash-soft-timeout-from-30-to-10-seconds-by-xingyaoww-in-https-github-com|Reduce bash SOFT timeout from 30 to 10 seconds]]
+- Earlier: 2025-03-27 · Raycast · [[Changes/Raycast/2025-03-27-there-is-now-a-new-quick-open-command-that-opens-any-url-passed-to-root-search|There is now a new Quick Open command that opens any URL passed to root search]]
 - Later: 2025-04-01 · Open WebUI · [[Changes/Open WebUI/2025-04-01-improved-error-handling-from-pipelines-pipelines-now-show-the-actual-returned-er|📚 Improved Error Handling from Pipelines]]
 <!-- chronolog:end -->
 

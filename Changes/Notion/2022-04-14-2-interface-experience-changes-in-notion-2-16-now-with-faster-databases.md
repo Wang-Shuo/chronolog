@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b5873bfaff1af9fa08749e8dd0d280acfc251496814d44797604261a004f412b
+machine_hash: da796a59680c14984a7038e917be6124a97892629c57175e1f81306607106b15
 product: notion
 product_name: Notion
 record:
@@ -47,12 +47,12 @@ record:
   title: 2 Interface Experience changes in Notion 2.16, now with faster databases
   type: change
 related_changes:
-- '[[Changes/Synthesia/2022-02-09-we-ve-updated-our-selection-of-shapes-and-added-smart-controls-for-additional-ed|Updated
-  Shapes]]'
-- '[[Changes/Notion/2022-02-15-now-you-can-copy-links-to-multiple-pages-or-blocks-simultaneously-just-click-the|Now
-  you can copy links to multiple pages or blocks simultaneously]]'
 - '[[Changes/Notion/2022-03-03-better-databases-with-quick-filters-the-redesigned-teams-sidebar-and-synced-data|Better
   Databases with quick filters, the redesigned Teams sidebar, and Synced…]]'
+- '[[Changes/Raycast/2022-03-24-2-interface-experience-changes-in-raycast-macos-v1-1-31-0|2
+  Interface Experience changes in Raycast macos-v1 1.31.0]]'
+- '[[Changes/Raycast/2022-04-06-upcoming-calendar-events-in-the-menu-bar|Upcoming
+  calendar events in the menu bar]]'
 source_release: '[[Releases/Notion/notion-2022-04-14-https-www-notion-com-releases-2022-04-14-5dc68862|notion-2022-04-14-https-www-notion-com-releases-2022-04-14-5dc68862]]'
 source_type: notion_changelog
 theme: interface-experience
@@ -91,7 +91,7 @@ Source: https://www.notion.com/releases/2022-04-14
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2022-03-03 · Notion · [[Changes/Notion/2022-03-03-better-databases-with-quick-filters-the-redesigned-teams-sidebar-and-synced-data|Better Databases with quick filters, the redesigned Teams sidebar, and Synced…]]
+- Earlier: 2022-04-06 · Raycast · [[Changes/Raycast/2022-04-06-upcoming-calendar-events-in-the-menu-bar|Upcoming calendar events in the menu bar]]
 - Later: 2022-05-03 · Notion · [[Changes/Notion/2022-05-03-one-property-default-add-items-from-database-b-to-database-a-without-creating-an|One property (default)]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d8de3e9dafdbc3598052f683a1e8e3958ffba9732c37e41b4b8887132328325d
+machine_hash: 5dd2cd3d7e5afcdf2fd2ddc24b8f432c2e97797818ed2d94359f72b75728f7e1
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -62,8 +62,7 @@ record:
   title: 8 Safety and Privacy changes in rust-v0.137.0
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-06-03-enterprise-customers-can-now-manage-multiple-cursor-teams-from-one-place-with-di|Enterprise
-  customers can now manage multiple Cursor teams from one place…]]'
+- '[[Changes/Devin/2026-06-03-settings-improvements|Settings Improvements]]'
 - '[[Changes/ChatGPT/2026-06-04-lockdown-mode-is-now-available-to-all-logged-in-users-across-account-types-and-w|Lockdown
   Mode is now available to all logged-in users]]'
 - '[[Changes/Claude Code/2026-06-04-fixed-org-managed-permission-rules-not-applying-for-the-entire-session-when-the|Fixed

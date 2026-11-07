@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2387f72598469222a605aec40fa16620fa3dc20c69c89b812c09ff24902dd113
+machine_hash: ce6eafa02e2b7a45b1e4fd95e3486d7ac98d2cfcfdfb202f43af8b52f0febf55
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,10 +43,10 @@ record:
   title: '[#4093] chore: enable auto-compaction for `gpt-5-codex` (#4093)'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-09-18-3857-make-esc-button-work-when-auto-compaction-3857|♯3857
-  Make ESC button work when auto-compaction (♯3857)]]'
 - '[[Changes/Gemini/2025-09-18-your-custom-gems-are-now-shareable|Your Custom Gems
   are Now Shareable]]'
+- '[[Changes/Devin/2025-09-19-session-analysis-knowledge-management|Session Analysis
+  & Knowledge Management]]'
 - '[[Changes/Dify/2025-09-22-example-of-no-unstable-context-value-by-asukaminato0721-in-https-github-com-lang|example
   of no-unstable-context-value]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-09-23-rust-v0-40-0-github-249412506-64037925|codex-cli-2025-09-23-rust-v0-40-0-github-249412506-64037925]]'

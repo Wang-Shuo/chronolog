@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 68916562621825185a998db2af43b32bf3b434385a74344560874c920a31e4ab
+machine_hash: 3e3fd2d132238e630217c1b47eb4d0c0179578d017830dfd9c124a991868e5ff
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -46,10 +46,10 @@ record:
   title: 3 Apps and Integrations changes in v0.17.0
   type: change
 related_changes:
-- '[[Changes/Manus/2025-11-18-manus-can-now-perform-tasks-directly-in-your-browser-autonomously-it-securely-wo|Introducing
-  Manus Browser Operator]]'
 - '[[Changes/Codex CLI/2025-11-19-5-apps-and-integrations-changes-in-rust-v0-59-0|5
   Apps and Integrations changes in rust-v0.59.0]]'
+- '[[Changes/Raycast/2025-11-19-as-we-prepare-for-our-public-beta-release-we-are-moving-into-the-microsoft-store|As
+  we prepare for our public beta release we are moving into the Microsoft Store]]'
 - '[[Changes/Codex CLI/2025-11-20-3-apps-and-integrations-changes-in-rust-v0-61-0|3
   Apps and Integrations changes in rust-v0.61.0]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-11-20-v0-17-0-github-264144730-908dc66b|gemini-cli-2025-11-20-v0-17-0-github-264144730-908dc66b]]'

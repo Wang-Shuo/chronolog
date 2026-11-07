@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 33227dda93bbff66d198fd87ef518114d719be9a611e81cf650b38a138d10e84
+machine_hash: d9b9672ac75d935af3faa58d338bac692ceb8d245239fa23c5f45755896cab8e
 product: cursor
 product_name: Cursor
 record:
@@ -87,7 +87,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2025-01-22 · Dify · [[Changes/Dify/2025-01-22-stop-the-service-command-please-execute-in-the-docker-directory|Stop the service，Command, please execute in the docker directory]]
-- Later: 2025-02-07 · Dify · [[Changes/Dify/2025-02-07-stop-the-service-command-please-execute-in-the-docker-directory|Stop the service，Command, please execute in the docker directory]]
+- Later: 2025-01-30 · Devin · [[Changes/Devin/2025-01-30-this-information-helps-you-debug-why-devin-is-stuck-or-taking-a-long-time-use-it|This information helps you debug why Devin is stuck or taking a long time]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

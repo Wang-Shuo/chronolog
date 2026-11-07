@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 124f98da60ed9c8dc9fef524dc7b9a937605de6b1906ce7b34da241904295566
+machine_hash: 641787dc5ff96d0f45cf69aaa3be442cbd00984541d564affc560014cd36689f
 product: ollama
 product_name: Ollama
 record:
@@ -52,8 +52,8 @@ record:
   title: Models will now be loaded immediately making even the first prompt much faster
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-09-08-following-this-update-future-updates-should-come-as-staged-rollouts-this-will-me|Staged
-  Rollouts]]'
+- '[[Changes/Superwhisper/2023-09-15-massive-performance-improvement-use-gpu-metal-for-processing|Massive
+  performance improvement, use GPU/Metal for processing]]'
 - '[[Changes/Cursor/2023-09-20-we-ship-a-new-version-of-indexing-which-should-be-significantly-more-stable-than|More
   Stable Codebase Indexing]]'
 - '[[Changes/Cursor/2023-09-22-stable-version-of-indexing-this-should-be-much-more-stable-than-previous-version|Stable

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ea5a4a31ea58e01d38566d331f4f500a58de21d2ad71ed8bd12078596ca91e6f
+machine_hash: 60fe7c6f6dd555f40437134cfa123f389a23cadd29b587d73e68eb3c94514b61
 product: manus
 product_name: Manus
 record:
@@ -45,10 +45,9 @@ record:
   title: Start testing payments instantly with Stripe
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2025-11-06-4-safety-and-privacy-changes-in-v0-6-35|4 Safety
-  and Privacy changes in v0.6.35]]'
 - '[[Changes/Codex CLI/2025-11-07-2-safety-and-privacy-changes-in-rust-v0-56-0|2 Safety
   and Privacy changes in rust-v0.56.0]]'
+- '[[Changes/Devin/2025-11-07-slack-notification-safety|Slack Notification Safety]]'
 - '[[Changes/Gemini CLI/2025-11-07-migrate-console-error-to-coreevents-debugger-for-sandbox-logger-chatrecordingser|migrate
   console.error to coreEvents/debugger for sandbox, logger, chatRecordingService]]'
 source_release: '[[Releases/Manus/manus-2025-11-12-l6r3ownve66b5b6zixbdk5-8f3ad543|manus-2025-11-12-l6r3ownve66b5b6zixbdk5-8f3ad543]]'

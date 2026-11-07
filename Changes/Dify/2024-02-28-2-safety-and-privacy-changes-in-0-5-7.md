@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b26de53d57cc200d17c9ec5f17f15a08bbbbe8d59d373e8a1f1dfadecdfbe8d1
+machine_hash: 3fdfc8d415c3230894cd98b8821519393170994687aaa945900cdf3e0cccb4e5
 product: dify
 product_name: Dify
 record:
@@ -45,12 +45,12 @@ record:
   title: 2 Safety and Privacy changes in 0.5.7
   type: change
 related_changes:
-- '[[Changes/Ollama/2023-11-17-fix-permission-denied-issues-when-running-ollama-create-on-linux|Fix
-  permission denied issues when running ollama create on Linux]]'
 - '[[Changes/Descript/2023-12-05-ai-speaker-authorization-has-been-simplified-so-you-can-upload-a-consent-stateme|AI
   Speaker authorization has been simplified, so you can Upload a consent statement…]]'
 - '[[Changes/Gemini/2023-12-18-expanding-bard-extensions-to-new-languages|Expanding
   Bard Extensions to new languages]]'
+- '[[Changes/Raycast/2024-01-10-grabbing-your-text-selection-is-now-faster-when-accessibility-permission-is-enab|Grabbing
+  your text selection is now faster when accessibility permission is enabled]]'
 source_release: '[[Releases/Dify/dify-2024-02-28-0-5-7-github-143968174-dc5f7626|dify-2024-02-28-0-5-7-github-143968174-dc5f7626]]'
 source_type: github_releases
 theme: safety-privacy
@@ -87,8 +87,8 @@ Source: https://github.com/langgenius/dify/releases/tag/0.5.7
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2023-12-18 · Gemini · [[Changes/Gemini/2023-12-18-expanding-bard-extensions-to-new-languages|Expanding Bard Extensions to new languages]]
-- Later: 2024-04-04 · Open WebUI · [[Changes/Open WebUI/2024-04-04-security-patches-applied-necessary-security-patches|🔒 Security Patches: Applied necessary security patches]]
+- Earlier: 2024-01-10 · Raycast · [[Changes/Raycast/2024-01-10-grabbing-your-text-selection-is-now-faster-when-accessibility-permission-is-enab|Grabbing your text selection is now faster when accessibility permission is enabled]]
+- Later: 2024-03-13 · Superwhisper · [[Changes/Superwhisper/2024-03-13-if-user-has-completed-onboarding-do-not-continue-prompting-for-accessiblity-perm|If user has completed onboarding, do not continue prompting for accessiblity permission]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

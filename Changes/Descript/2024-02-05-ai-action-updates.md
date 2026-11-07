@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 2c32b432427f5c6a5e13acf8bdd8352498d6e8e1d9c8d58ae537dbe377d985a0
+machine_hash: 74742e9d64c3a6dd34c53c7979c36b3f522b6a6e02218adbc31629e019500057
 product: descript
 product_name: Descript
 record:
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2024-02-02 · Ollama · [[Changes/Ollama/2024-02-02-when-making-api-requests-the-new-keep-alive-parameter-can-be-used-to-control-how|When making API requests, the new keep_alive parameter can be used to control how…]]
-- Later: 2024-02-09 · Runway · [[Changes/Runway/2024-02-09-you-with-a-large-number-of-assets-have-significantly-faster-loading-times|Assets page is ~1.5x faster]]
+- Later: 2024-02-08 · Superwhisper · [[Changes/Superwhisper/2024-02-08-stability-improvements-for-local-language-models|Stability improvements for local language models]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b58aef35629975d2188c304c9b8b5b41f8679714ea691992ede72ed2cadba141
+machine_hash: c4cb7136cf632ae6fc423c89ff52420bac3cd3a05ed2be7f44ab76e31ff8c691
 product: runway
 product_name: Runway
 record:
@@ -42,8 +42,7 @@ record:
   title: Redesigned AI Training
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2024-04-10-update-rag-embedding-model-customize-rag-embedding-model-directly-in-document-se|\U0001F50D
-  Update RAG Embedding Model]]"
+- '[[Changes/Raycast/2024-04-10-more-ai-models|More AI Models]]'
 - '[[Changes/Dify/2024-04-11-9-model-support-changes-in-0-6-2|9 Model Support changes
   in 0.6.2]]'
 - '[[Changes/Cursor/2024-04-12-new-gpt-4-model-as-of-a-couple-of-days-ago-you-can-try-out-gpt-4-turbo-2024-04-0|New

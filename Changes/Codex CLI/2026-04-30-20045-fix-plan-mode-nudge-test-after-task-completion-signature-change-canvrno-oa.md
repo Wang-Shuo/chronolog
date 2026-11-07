@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 09ff912f20e7ca05707507953d3ada99f3af45deb4aa60a29b9cddd02ab9a407
+machine_hash: 785ecbf3fcad990f339b41234a1f2e9051d839747b76449910f533151205419f
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -41,10 +41,10 @@ record:
   title: '#20045 Fix plan mode nudge test after task completion signature change @canvrno-oai'
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-04-26-terminal-fixed-editor-lock-detection-to-ignore-locks-from-unrelated-workspaces|Terminal
-  Fixed editor lock detection to ignore locks from unrelated workspaces]]'
-- '[[Changes/GitHub Copilot CLI/2026-04-27-add-copilot-completion-bash-zsh-fish-subcommand-to-generate-static-shell-complet|Add
-  copilot completion bash / zsh / fish subcommand to generate static shell…]]'
+- '[[Changes/Raycast/2026-04-27-2-editor-experience-changes-in-raycast-macos-0-55|2
+  Editor Experience changes in Raycast macos 0.55]]'
+- '[[Changes/Devin/2026-04-29-revamped-blueprint-authoring-experience|Revamped Blueprint
+  Authoring Experience]]'
 - '[[Changes/Dify/2026-04-29-6-editor-experience-changes-in-1-14-0|6 Editor Experience
   changes in 1.14.0]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-04-30-rust-v0-128-0-github-315916672-1708ab89|codex-cli-2026-04-30-rust-v0-128-0-github-315916672-1708ab89]]'

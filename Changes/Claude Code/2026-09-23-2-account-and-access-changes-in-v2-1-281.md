@@ -14,12 +14,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 77b1bb269551cf7de5152511b4be869457472aaf72704c3fabf092572702ebf5
+machine_hash: bb8d0b4a28ef0b32a42bd3bb25b17294f598c9d61509233d7267a9cf551e8b0c
 product: claude-code
 product_name: Claude Code
 record:
@@ -95,7 +95,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.281
 ## Nearby in Account and Access
 
 - Earlier: 2026-09-22 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-22-3-account-and-access-changes-in-v1-0-88|3 Account and Access changes in v1.0.88]]
-- Later: 2026-09-23 · OpenClaw · [[Changes/OpenClaw/2026-09-23-17-account-and-access-changes-in-v2026-9-6|17 Account and Access changes in v2026.9.6]]
+- Later: 2026-09-23 · Devin · [[Changes/Devin/2026-09-23-bring-your-own-oauth-setup-guides-for-microsoft-365-and-google-workspace-mcps|Bring-Your-Own OAuth Setup Guides for Microsoft 365 and Google Workspace MCPs]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

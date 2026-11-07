@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: e33a21c41128e36bf569403ba0567441446545ac46a07f0c4bc830521c0d1d0f
+machine_hash: f124362310bed03c6c76c889f0ac1b99eb21dcbedf10f2bf61fa79a29f3817e2
 product: descript
 product_name: Descript
 record:
@@ -45,10 +45,10 @@ record:
   title: How to find it
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-09-11-3-automation-and-scheduling-changes-in-v1-18-0|3
-  Automation and Scheduling changes in v1.18.0]]'
-- '[[Changes/Kimi Code/2026-09-14-add-the-loop-control-compaction-max-attempts-config-option-to-set-the-maximum-to|Add
-  the loop_control.compaction_max_attempts config option to set the maximum…]]'
+- '[[Changes/Devin/2026-09-16-admins-can-opt-into-allowing-automations-on-public-gitlab-repos|Admins
+  Can Opt into Allowing Automations on Public GitLab Repos]]'
+- '[[Changes/Devin/2026-09-16-slack-user-group-mention-triggers-for-automations-and-oncall|Slack
+  User-Group Mention Triggers for Automations and Oncall]]'
 - '[[Changes/OpenHands/2026-09-16-4-automation-and-scheduling-changes-in-v1-19-0|4
   Automation and Scheduling changes in v1.19.0]]'
 source_release: '[[Releases/Descript/descript-2026-09-17-6aac58f57c214588f9dd5e0b-e24c9e31|descript-2026-09-17-6aac58f57c214588f9dd5e0b-e24c9e31]]'

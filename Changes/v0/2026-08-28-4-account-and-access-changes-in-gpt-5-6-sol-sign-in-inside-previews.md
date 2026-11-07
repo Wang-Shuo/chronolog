@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1305b56c160cbe98eab31a524029f250a8807b44ff85e1225345581dabd5322e
+machine_hash: b75a4f79d07ea122dc04151f130fc80abaca7f5de13c86f8f5342cf352b6dc9f
 product: v0
 product_name: v0
 record:
@@ -57,8 +57,7 @@ record:
   title: 4 Account and Access changes in GPT-5.6 Sol, sign-in inside previews…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-28-changed-analytics-to-no-longer-turn-off-before-sign-in-solely-because-managed-se|Changed
-  analytics to no longer turn off before sign-in solely because managed…]]'
+- '[[Changes/Devin/2026-08-28-authentication|Authentication]]'
 - '[[Changes/OpenCode/2026-08-28-2-account-and-access-changes-in-v1-18-25-1|2 Account
   and Access changes in v1.18.25 + 1]]'
 - '[[Changes/Qoder/2026-08-28-improved-knowledge-center-authentication-synchronization|Improved

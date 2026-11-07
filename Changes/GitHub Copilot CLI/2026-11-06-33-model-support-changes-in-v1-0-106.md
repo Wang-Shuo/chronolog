@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: bcf47776e1f874d568079e7ad5e2b536800b53d8f63a47b152e29d6289175477
+machine_hash: a0603b7cf86bea1e3a4ff2fbd956a4450648813a3853201f58d96fb7d4a7a8bb
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -142,10 +142,10 @@ record:
   title: 33 Model Support changes in v1.0.106
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-11-04-feat-cli-add-models-command-and-list-models-flag-for-model-discovery-by-urielefr|feat(cli):
-  add models command and --list-models flag for model discovery]]'
 - '[[Changes/OpenClaw/2026-11-05-4-model-support-changes-in-v2026-11-1|4 Model Support
   changes in v2026.11.1]]'
+- '[[Changes/Recraft/2026-11-05-gpt-image-2-6-openai-s-newest-image-model-is-now-in-recraft-studio-in-two-versio|GPT
+  Image 2.6, OpenAI''s newest image model, is now in Recraft Studio in two versions]]'
 - '[[Changes/Codex CLI/2026-11-06-7-model-support-changes-in-rust-v0-167-0|7 Model
   Support changes in rust-v0.167.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-11-06-v1-0-106-github-435988160-ec5b15d4|github-copilot-cli-2026-11-06-v1-0-106-github-435988160-ec5b15d4]]'

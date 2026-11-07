@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7a8632c4f2757c50b98ff5c22a780f21bcc7f5c8ba0ddff2727798be37ee869c
+machine_hash: 3690192387e0255a08a5ddb016846f91abebda227b2a356a78ea75778384e9a2
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -46,12 +46,12 @@ record:
   title: 2 Account and Access changes in v1.0.81
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-08-25-13-account-and-access-changes-in-v0-11-1|13 Account
-  and Access changes in v0.11.1]]'
 - '[[Changes/Claude Code/2026-08-26-3-account-and-access-changes-in-v2-1-247|3 Account
   and Access changes in v2.1.247]]'
 - '[[Changes/Codex CLI/2026-08-26-2-account-and-access-changes-in-rust-v0-150-0|2
   Account and Access changes in rust-v0.150.0]]'
+- '[[Changes/Devin/2026-08-26-streamlined-mcp-marketplace-install-and-oauth-connect|Streamlined
+  MCP Marketplace Install and OAuth Connect]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-08-27-v1-0-81-github-377993714-523d567a|github-copilot-cli-2026-08-27-v1-0-81-github-377993714-523d567a]]'
 source_type: github_releases
 theme: account-access
@@ -99,7 +99,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.81
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-08-26 · Codex CLI · [[Changes/Codex CLI/2026-08-26-2-account-and-access-changes-in-rust-v0-150-0|2 Account and Access changes in rust-v0.150.0]]
+- Earlier: 2026-08-26 · Devin · [[Changes/Devin/2026-08-26-streamlined-mcp-marketplace-install-and-oauth-connect|Streamlined MCP Marketplace Install and OAuth Connect]]
 - Later: 2026-08-28 · Claude Code · [[Changes/Claude Code/2026-08-28-changed-analytics-to-no-longer-turn-off-before-sign-in-solely-because-managed-se|Changed analytics to no longer turn off before sign-in solely because managed…]]
 <!-- chronolog:end -->
 

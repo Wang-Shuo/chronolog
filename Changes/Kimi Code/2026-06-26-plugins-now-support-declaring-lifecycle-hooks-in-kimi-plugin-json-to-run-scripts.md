@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 45ecbf9e48496f4c0eacf7f8cb0a9e655e80c41deeac7267e7a56a99f066d636
+machine_hash: 46c0b4b6d47e092f413b114d478c5a481acb62a2c0116fd152dd3bd6f325003c
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -47,12 +47,12 @@ record:
     scripts…
   type: change
 related_changes:
-- '[[Changes/Dify/2026-06-25-27-apps-and-integrations-changes-in-1-15-0|27 Apps and
-  Integrations changes in 1.15.0]]'
 - '[[Changes/Ollama/2026-06-25-docs-redesign-docs-landing-and-integrations-overview-by-hoyyeva-in-https-github|docs:
   redesign docs landing and integrations overview]]'
 - '[[Changes/Cline/2026-06-26-13-apps-and-integrations-changes-in-v4-0-0|13 Apps and
   Integrations changes in v4.0.0]]'
+- '[[Changes/Devin/2026-06-26-mcp-installation-out-of-date-banner|MCP "Installation
+  Out of Date" Banner]]'
 source_release: '[[Releases/Kimi Code/kimi-code-2026-06-26-0-20-1-b7b3200e|kimi-code-2026-06-26-0-20-1-b7b3200e]]'
 source_type: kimi_code_changelog
 theme: apps-integrations
@@ -85,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-06-26 · Cline · [[Changes/Cline/2026-06-26-13-apps-and-integrations-changes-in-v4-0-0|13 Apps and Integrations changes in v4.0.0]]
+- Earlier: 2026-06-26 · Devin · [[Changes/Devin/2026-06-26-mcp-installation-out-of-date-banner|MCP "Installation Out of Date" Banner]]
 - Later: 2026-06-26 · Kimi Code · [[Changes/Kimi Code/2026-06-26-4-apps-and-integrations-changes-in-kimi-code-0-20-0|4 Apps and Integrations changes in Kimi Code 0.20.0]]
 <!-- chronolog:end -->
 

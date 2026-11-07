@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f9ce1ec9d62980243dec68a35bff2e6fea166287271be43031966926defb2399
+machine_hash: a5de583309c29c6b378e3978b3a02fba9ac8327bcc618b49612901c13066a27e
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -49,10 +49,9 @@ record:
   title: 3 Interface Experience changes in HUB v2.15.0 — Custom agent controls…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-17-43846-include-completed-commentary-in-the-copy-picker-copyberry|♯43846
-  Include completed commentary in the /copy picker @copyberry]]'
 - '[[Changes/Claude Code/2026-09-18-vscode-added-a-sign-out-row-to-the-panel-menu-with-logout-in-the-typed-command-m|VSCode
   Added a Sign out row to the panel menu, with /logout in the typed command menu]]'
+- '[[Changes/Devin/2026-09-18-filter-sessions-by-origin|Filter Sessions by Origin]]'
 - '[[Changes/Google Antigravity/2026-09-18-custom-agent-controls-and-keyboard-navigation|Custom
   agent controls and keyboard navigation]]'
 source_release: '[[Releases/Google Antigravity/google-antigravity-2026-09-18-rel-hub-2-15-0-48b37e09|google-antigravity-2026-09-18-rel-hub-2-15-0-48b37e09]]'
@@ -94,7 +93,7 @@ Source: https://antigravity.google/releases?tab=hub&version=2.15.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-09-18 · Claude Code · [[Changes/Claude Code/2026-09-18-vscode-added-a-sign-out-row-to-the-panel-menu-with-logout-in-the-typed-command-m|VSCode Added a Sign out row to the panel menu, with /logout in the typed command menu]]
+- Earlier: 2026-09-18 · Devin · [[Changes/Devin/2026-09-18-filter-sessions-by-origin|Filter Sessions by Origin]]
 - Later: 2026-09-18 · Lovable · [[Changes/Lovable/2026-09-18-redesigned-project-cards|Redesigned project cards]]
 <!-- chronolog:end -->
 

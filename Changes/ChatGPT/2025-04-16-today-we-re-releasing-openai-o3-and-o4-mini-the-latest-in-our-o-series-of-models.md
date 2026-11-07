@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 88127562392b004017601202ca72680656ba2a66fe349726b70a8c83adb77e38
+machine_hash: 7c1ad27e8022f8b36413fa9ddb76802a2d222dea89ee706d67c0972698cfce84
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -117,7 +117,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2025-04-15 · Cursor · [[Changes/Cursor/2025-04-15-new-models|New models]]
-- Later: 2025-04-16 · Windsurf · [[Changes/Windsurf/2025-04-16-new-o4-mini-models-available-and-free-limited-time|New o4-mini models available and Free (Limited Time)]]
+- Later: 2025-04-16 · Raycast · [[Changes/Raycast/2025-04-16-3-model-support-changes-in-raycast-macos-v1-1-96-0|3 Model Support changes in Raycast macos-v1 1.96.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

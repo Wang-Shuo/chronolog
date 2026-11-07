@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 16d85274831585e528d7cb81644ec8a9567375e7501ec2d0f9a4c3e968787508
+machine_hash: 6dfaaee568ea53eb35ad34a4d2857c20fa73d8fc312dcf0057efc10261477ea1
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,12 +44,12 @@ record:
   title: 3 Interface Experience changes in v1.0.62
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-12-added-footerlinksregexes-setting-for-regex-matched-link-badges-in-the-footer-row|Added
-  footerLinksRegexes setting for regex-matched link badges in the footer row…]]'
-- '[[Changes/Claude Code/2026-06-12-added-wheelscrollaccelerationenabled-setting-to-disable-mouse-wheel-scroll-accel|Added
-  wheelScrollAccelerationEnabled setting to disable mouse-wheel scroll…]]'
 - '[[Changes/Kimi Code/2026-06-12-wrap-long-command-and-skill-descriptions-in-the-autocomplete-menu-onto-a-second|Wrap
   long command and skill descriptions in the autocomplete menu onto a second line…]]'
+- '[[Changes/Raycast/2026-06-12-focus-toggle-focus-session-starts-or-stops-focusing-with-a-single-command-useful|Focus:
+  Toggle Focus Session starts or stops focusing with a single command, useful…]]'
+- '[[Changes/Raycast/2026-06-12-9-interface-experience-changes-in-raycast-macos-0-64|9
+  Interface Experience changes in Raycast macos 0.64]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-06-13-v1-0-62-github-339039020-f6ff7e5e|github-copilot-cli-2026-06-13-v1-0-62-github-339039020-f6ff7e5e]]'
 source_type: github_releases
 theme: interface-experience
@@ -98,7 +98,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.62
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-06-12 · Kimi Code · [[Changes/Kimi Code/2026-06-12-wrap-long-command-and-skill-descriptions-in-the-autocomplete-menu-onto-a-second|Wrap long command and skill descriptions in the autocomplete menu onto a second line…]]
+- Earlier: 2026-06-12 · Raycast · [[Changes/Raycast/2026-06-12-9-interface-experience-changes-in-raycast-macos-0-64|9 Interface Experience changes in Raycast macos 0.64]]
 - Later: 2026-06-13 · OpenCode · [[Changes/OpenCode/2026-06-13-core-fixed-duplicate-renderable-ids-that-could-break-tui-rendering|Core Fixed duplicate renderable IDs that could break TUI rendering]]
 <!-- chronolog:end -->
 

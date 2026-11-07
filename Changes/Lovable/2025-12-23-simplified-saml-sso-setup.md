@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 50caa27748af95a896ac8e59697f2d77bce3fd88d96543d4f51ad2da030060ac
+machine_hash: 6b01781f3ab586a58f2dbe5324df1ad19643513c24ff20182939ca6592d1a413
 product: lovable
 product_name: Lovable
 record:
@@ -45,8 +45,8 @@ record:
   title: Simplified SAML SSO setup
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-12-18-many-of-the-largest-software-companies-in-the-world-have-adopted-cursor-for-ente|Many
-  of the largest software companies in the world have adopted Cursor for Enterprise]]'
+- '[[Changes/Devin/2025-12-19-enterprise-api-v3-metrics-endpoints|Enterprise API v3
+  Metrics Endpoints]]'
 - '[[Changes/Descript/2025-12-20-new-admin-controls-for-transcription-glossary-and-do-not-translate-lists|New
   admin controls for transcription glossary and do not translate lists]]'
 - '[[Changes/Open WebUI/2025-12-21-looking-for-an-enterprise-plan-https-docs-openwebui-com-enterprise-speak-with-ou|

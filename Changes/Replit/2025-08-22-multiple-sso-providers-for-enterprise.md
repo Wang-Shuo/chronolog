@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: d6a830e4b3ecc174f0845c5590db79ab68e005053626d269421800e49bc0179f
+machine_hash: 0883a5da8bbe14a3562b8588a855522141d9a23cf8fc4a139362385c4c9b4142
 product: replit
 product_name: Replit
 record:
@@ -47,12 +47,11 @@ record:
   title: Multiple SSO providers for Enterprise
   type: change
 related_changes:
-- '[[Changes/Claude/2025-08-20-extra-usage-for-team-and-enterprise-plans|Extra usage
-  for Team and Enterprise plans]]'
 - '[[Changes/Claude/2025-08-21-admin-controls-for-desktop-extensions|Admin controls
   for desktop extensions]]'
 - '[[Changes/Open WebUI/2025-08-21-looking-for-an-enterprise-plan-https-docs-openwebui-com-enterprise-speak-with-ou|
   Looking for an Enterprise Plan((source link)]]'
+- '[[Changes/Devin/2025-08-22-enterprise-api-key-management|Enterprise API Key Management]]'
 source_release: '[[Releases/Replit/replit-2025-08-22-2025-08-22-b06c1525|replit-2025-08-22-2025-08-22-b06c1525]]'
 source_type: replit_changelog
 theme: enterprise-admin
@@ -82,8 +81,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2025-08-21 · Open WebUI · [[Changes/Open WebUI/2025-08-21-looking-for-an-enterprise-plan-https-docs-openwebui-com-enterprise-speak-with-ou| Looking for an Enterprise Plan((source link)]]
-- Later: 2025-09-03 · ChatGPT · [[Changes/ChatGPT/2025-09-03-projects-bring-your-chats-and-files-into-one-place-helping-you-stay-focused-and-96a40d|Projects Now Available on ChatGPT Free Tier]]
+- Earlier: 2025-08-22 · Devin · [[Changes/Devin/2025-08-22-enterprise-api-key-management|Enterprise API Key Management]]
+- Later: 2025-08-25 · Raycast · [[Changes/Raycast/2025-08-25-please-note-that-enabling-or-disabling-this-feature-requires-administrator-privi|Please note that enabling or disabling this feature requires administrator privileges]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

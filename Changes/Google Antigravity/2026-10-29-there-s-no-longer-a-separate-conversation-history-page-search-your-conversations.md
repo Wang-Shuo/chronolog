@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 26088f59505bdd4662f096ab67b02504a07ddbbc25d93521ad75445ea35cde89
+machine_hash: 86301d758b314f4547ed7566fa587b9facfb3a5af9ed19d0a0c8b3f5cc2ef990
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -46,9 +46,10 @@ record:
   title: There's no longer a separate Conversation History page
   type: change
 related_changes:
-- '[[Changes/Kimi Code/2026-10-28-2-interface-experience-changes-in-kimi-code-2-4-0|2
-  Interface Experience changes in Kimi Code 2.4.0]]'
-- '[[Changes/Lovable/2026-10-28-redesigned-share-menu|Redesigned Share menu]]'
+- '[[Changes/Raycast/2026-10-28-ai-chat-added-support-for-searching-and-mentioning-items-from-compatible-ai-exte|AI
+  Chat : Added support for searching and mentioning items from compatible AI…]]'
+- '[[Changes/Raycast/2026-10-28-ai-chat-added-support-for-searching-and-mentioning-items-from-compatible-ai-exte-d73de9|AI
+  Chat : Added support for searching and mentioning items from compatible AI…]]'
 - '[[Changes/Codex CLI/2026-10-29-12-interface-experience-changes-in-rust-v0-166-0|12
   Interface Experience changes in rust-v0.166.0]]'
 source_release: '[[Releases/Google Antigravity/google-antigravity-2026-10-29-rel-hub-2-28-2-cea25f26|google-antigravity-2026-10-29-rel-hub-2-28-2-cea25f26]]'

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: eeeefcc7e63100044b8fcbca07db332442cc78d4aea26afd1cb6b8188eff5295
+machine_hash: f4fb6553eaf4c59accc4b4d0eaeddea96da3f5b19982753e5ff6201ef8cf8665
 product: notion
 product_name: Notion
 record:
@@ -64,8 +64,8 @@ record:
   title: Had it with Confluence?
   type: change
 related_changes:
-- '[[Changes/Notion/2020-09-02-you-can-no-longer-leave-a-shared-workspace-if-you-are-the-only-remaining-admin-y|You
-  can no longer leave a shared workspace if you are the only remaining admin]]'
+- '[[Changes/Raycast/2020-10-21-github-clear-your-notifications|GitHub: Clear your
+  notifications]]'
 - '[[Changes/Notion/2020-11-11-timeline-view|Timeline View ⏳]]'
 - '[[Changes/Notion/2020-11-24-introducing-certified-notion-consultants|Introducing:
   Certified Notion Consultants ✔️]]'

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9a45209f50b67a1f88c94a9c46ed732467ac4eac058bff2ac3985bcc33fd7674
+machine_hash: f6ac9dc77ed11048177512242a1e8eb26ef89f3f15fa00ddd578eaf11177123f
 product: cline
 product_name: Cline
 record:
@@ -79,8 +79,8 @@ record:
   title: 10 Model Support changes in v4.1.26
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-10-25-16-model-support-changes-in-v0-12-4|16 Model Support
-  changes in v0.12.4]]'
+- '[[Changes/AnythingLLM/2026-10-26-6-model-support-changes-in-v1-19-0|6 Model Support
+  changes in v1.19.0]]'
 - '[[Changes/ChatGPT/2026-10-26-gpt-6-1-terra-is-rolling-out-in-chatgpt-work-and-codex-it-supports-a-range-of-ta|GPT-6.1
   Terra]]'
 - '[[Changes/Claude Code/2026-10-26-5-model-support-changes-in-v2-1-311|5 Model Support

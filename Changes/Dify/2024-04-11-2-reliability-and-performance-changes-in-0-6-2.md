@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 47f62d3219a92427bfe51c58b0874d9547f38948ae0fe54d978e0740d9dbecd6
+machine_hash: 9d367be4e2df55d37d5ce7738ed3e1ac8dc546191d7772a7a11f9f79f86e35cd
 product: dify
 product_name: Dify
 record:
@@ -45,8 +45,8 @@ record:
   title: 2 Reliability and Performance changes in 0.6.2
   type: change
 related_changes:
-- '[[Changes/Midjourney/2024-03-21-sv-4-a-new-version-of-sv2-that-with-improved-performance-this-is-default|--sv
-  4 A new version of sv2 that with improved performance (this is default)]]'
+- '[[Changes/Superwhisper/2024-03-22-realtime-view-performance-improvements|Realtime
+  view performance improvements]]'
 - '[[Changes/Dify/2024-04-09-this-update-primarily-focuses-on-enhancing-system-stability-and-improving-user-e|This
   update primarily focuses on enhancing system stability and improving user experience]]'
 - '[[Changes/Ollama/2024-04-10-3-reliability-and-performance-changes-in-v0-1-32|3

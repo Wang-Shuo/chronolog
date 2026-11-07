@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 109688603145ddab0327fdbc3c1cb1e9abd3bb32c09b5140a914d56ce2b5770c
+machine_hash: 30be1f6858c0e0645510c30d39e5d52fce5bf4e9bb356f87992f3950b3a09d18
 product: ollama
 product_name: Ollama
 record:
@@ -85,7 +85,7 @@ Source: https://github.com/ollama/ollama/releases/tag/v0.1.6
 ## Nearby in Reliability and Performance
 
 - Earlier: 2023-10-20 · Ollama · [[Changes/Ollama/2023-10-20-ollama-run-will-now-show-more-descriptive-errors-when-encountering-runtime-issue|ollama run will now show more descriptive errors when encountering runtime issues…]]
-- Later: 2023-11-03 · Cursor · [[Changes/Cursor/2023-11-03-shipped-better-error-logging-which-should-help-us-improve-stability|Shipped better error logging, which should help us improve stability]]
+- Later: 2023-11-02 · Raycast · [[Changes/Raycast/2023-11-02-clipboard-improved-performance-on-clipboard-entries-filtering|Clipboard: Improved performance on clipboard entries filtering]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

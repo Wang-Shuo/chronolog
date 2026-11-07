@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d13e5c0d7529e9aa427ec3faf8808ea9991bdabc2c29638abcf9519df69d439b
+machine_hash: 27fbf67a882e97a2c64c86762caa75728da61b6fc93734ab4f1b2668a9f25e95
 product: ollama
 product_name: Ollama
 record:
@@ -48,10 +48,11 @@ record:
   title: 3 Voice and Audio changes in v0.40.12
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-10-26-packages|Packages]]'
-- '[[Changes/ElevenLabs/2026-10-26-14-voice-and-audio-changes-in-elevenlabs-updates-2026-10-26|14
-  Voice and Audio changes in ElevenLabs updates — 2026-10-26]]'
 - '[[Changes/ElevenLabs/2026-10-26-javascript-sdk|JavaScript SDK]]'
+- '[[Changes/Superwhisper/2026-10-26-resolve-spoken-self-corrections-in-message-preset|Resolve
+  spoken self-corrections in Message preset]]'
+- '[[Changes/Superwhisper/2026-10-26-transcribe-audio-files-shared-from-other-apps|Transcribe
+  audio files shared from other apps]]'
 source_release: '[[Releases/Ollama/ollama-2026-10-27-v0-40-12-github-424898500-14e64d40|ollama-2026-10-27-v0-40-12-github-424898500-14e64d40]]'
 source_type: github_releases
 theme: voice
@@ -89,7 +90,7 @@ Source: https://github.com/ollama/ollama/releases/tag/v0.40.12
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-10-26 · ElevenLabs · [[Changes/ElevenLabs/2026-10-26-javascript-sdk|JavaScript SDK]]
+- Earlier: 2026-10-26 · Superwhisper · [[Changes/Superwhisper/2026-10-26-transcribe-audio-files-shared-from-other-apps|Transcribe audio files shared from other apps]]
 - Later: 2026-10-27 · OpenClaw · [[Changes/OpenClaw/2026-10-27-6-voice-and-audio-changes-in-v2026-10-8|6 Voice and Audio changes in v2026.10.8]]
 <!-- chronolog:end -->
 

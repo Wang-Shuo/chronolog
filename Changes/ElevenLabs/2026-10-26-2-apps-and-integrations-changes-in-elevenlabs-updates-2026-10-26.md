@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1d47aed32fd9bd388eaa0ceaeb47e457b5d136bf8f7ce03e08348ab34f12dbb8
+machine_hash: 35287fbbad57c543be4962d5386684035a5104331cd48dcecc75e7c47a22636e
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -49,12 +49,12 @@ record:
   title: 2 Apps and Integrations changes in ElevenLabs updates — 2026-10-26
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-10-24-7-apps-and-integrations-changes-in-v2026-10-7|7 Apps
-  and Integrations changes in v2026.10.7]]'
 - '[[Changes/Open WebUI/2026-10-25-5-apps-and-integrations-changes-in-v0-12-4|5 Apps
   and Integrations changes in v0.12.4]]'
 - '[[Changes/Claude Code/2026-10-26-3-apps-and-integrations-changes-in-v2-1-311|3
   Apps and Integrations changes in v2.1.311]]'
+- '[[Changes/Devin/2026-10-26-edited-slack-messages-are-marked|Edited Slack Messages
+  Are Marked]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-10-26-2026-10-26-ca7c552d|elevenlabs-2026-10-26-2026-10-26-ca7c552d]]'
 source_type: elevenlabs_changelog
 theme: apps-integrations
@@ -108,7 +108,7 @@ Source: https://elevenlabs.io/docs/changelog/2026/10/26
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-10-26 · Claude Code · [[Changes/Claude Code/2026-10-26-3-apps-and-integrations-changes-in-v2-1-311|3 Apps and Integrations changes in v2.1.311]]
+- Earlier: 2026-10-26 · Devin · [[Changes/Devin/2026-10-26-edited-slack-messages-are-marked|Edited Slack Messages Are Marked]]
 - Later: 2026-10-26 · Gamma · [[Changes/Gamma/2026-10-26-introducing-gamma-5|Introducing Gamma 5]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4b774d5da9b5e5de1f7e69a00f999463b56f881079d19dffc24ef27f490afb85
+machine_hash: a13481542feeadacc37cd254dc6da29e248a6f938612f153fbd256780fee910e
 product: cursor
 product_name: Cursor
 record:
@@ -52,12 +52,12 @@ record:
   title: 5 Reliability and Performance changes in 0.47.x
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2025-02-27-general-stability-enhancements-backend-and-frontend-refactoring-improves-perform|⚙️
-  General Stability Enhancements]]'
 - '[[Changes/Replit/2025-02-28-database-performance-improvement|Database performance
   improvement]]'
 - '[[Changes/Open WebUI/2025-03-05-general-reliability-enhancements-various-stability-improvements-across-the-webui|⚙️
   General Reliability Enhancements]]'
+- '[[Changes/LM Studio/2025-03-07-significantly-increased-the-speed-of-chunking-files-for-retrieval|Significantly
+  increased the speed of chunking files for retrieval]]'
 source_release: '[[Releases/Cursor/cursor-2025-03-11-0-47-x-https-cursor-com-changelog-0-47-x-eebf8f2e|cursor-2025-03-11-0-47-x-https-cursor-com-changelog-0-47-x-eebf8f2e]]'
 source_type: cursor_changelog
 theme: reliability-performance
@@ -103,7 +103,7 @@ Source: https://cursor.com/changelog/0-47-x
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-03-05 · Open WebUI · [[Changes/Open WebUI/2025-03-05-general-reliability-enhancements-various-stability-improvements-across-the-webui|⚙️ General Reliability Enhancements]]
+- Earlier: 2025-03-07 · LM Studio · [[Changes/LM Studio/2025-03-07-significantly-increased-the-speed-of-chunking-files-for-retrieval|Significantly increased the speed of chunking files for retrieval]]
 - Later: 2025-03-11 · Descript · [[Changes/Descript/2025-03-11-local-file-storage|Local file storage]]
 <!-- chronolog:end -->
 

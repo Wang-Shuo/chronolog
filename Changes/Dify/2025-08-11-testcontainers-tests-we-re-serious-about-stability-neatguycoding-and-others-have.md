@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7f87c6c8300aa4c324df15698c29849fd3425af8df7c05f61054c987aa56c125
+machine_hash: 5db9f19e52bcba8538369ecc0b2bd3bc83606126588c0054bbcf9b19a2503705
 product: dify
 product_name: Dify
 record:
@@ -45,10 +45,10 @@ record:
   title: '**Testcontainers Tests**: We''re serious about stability!'
   type: change
 related_changes:
-- '[[Changes/Gemini/2025-08-06-understand-complex-topics-faster-with-integrated-visuals-and-youtube-videos|Understand
-  Complex Topics Faster with Integrated Visuals and YouTube videos]]'
 - '[[Changes/Gemini CLI/2025-08-06-4-reliability-and-performance-changes-in-v0-1-18|4
   Reliability and Performance changes in v0.1.18]]'
+- '[[Changes/Devin/2025-08-08-various-reliability-performance-and-usability-improvements-across-the-app|Various
+  reliability, performance, and usability improvements across the app]]'
 - '[[Changes/Open WebUI/2025-08-09-15-reliability-and-performance-changes-in-v0-6-19|15
   Reliability and Performance changes in v0.6.19]]'
 source_release: '[[Releases/Dify/dify-2025-08-11-1-7-2-github-238903756-6cc5a2a0|dify-2025-08-11-1-7-2-github-238903756-6cc5a2a0]]'

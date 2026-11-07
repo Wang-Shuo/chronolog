@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 498eaed19fa69f06198b2544c2bd0cd9b069546a9434d4398e36b80b1f4dfb67
+machine_hash: 68151283e5c33babee69834727589ddca436c6bcb1a3a1438f9fea31d094227c
 product: windsurf
 product_name: Windsurf
 record:
@@ -43,9 +43,9 @@ record:
   title: New menu to open previous conversations to quickly switch conversations
   type: change
 related_changes:
-- '[[Changes/Windsurf/2025-06-03-improvements-to-import-behavior-during-onboarding|Improvements
-  to import behavior during onboarding]]'
 - '[[Changes/Cursor/2025-06-04-new-settings-and-dashboard|New Settings and Dashboard]]'
+- '[[Changes/AnythingLLM/2025-06-10-5-interface-experience-changes-in-v1-8-2|5 Interface
+  Experience changes in v1.8.2]]'
 - "[[Changes/Open WebUI/2025-06-10-tooltip-translation-clarity-improved-translation-and-tooltip-clarity-especially|\U0001F6E0️
   Tooltip & Translation Clarity]]"
 source_release: '[[Releases/Windsurf/windsurf-2025-06-10-v1-10-1-98f62653|windsurf-2025-06-10-v1-10-1-98f62653]]'

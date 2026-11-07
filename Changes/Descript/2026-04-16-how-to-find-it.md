@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: f438270e5b04645644f1d33704c51f4b02ccdbe067ef748c99c5c1f5d786107b
+machine_hash: 21bb8e49011775073915523625dcadc6b9963d73e8dccf0cc58f15c3ce2b9261
 product: descript
 product_name: Descript
 record:
@@ -41,8 +41,8 @@ record:
   title: How to find it
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-15-status-bar-shows-files-and-issues-hints-while-typing-and-help-hint-when-the-slas|Status
-  bar shows @files and ♯issues hints while typing, and /help hint…]]'
+- '[[Changes/Raycast/2026-04-15-introducing-hyperkey-it-turns-a-single-key-into-a-powerful-shortcut-modifier-so|Introducing
+  Hyperkey: it turns a single key into a powerful shortcut modifier…]]'
 - '[[Changes/Claude Code/2026-04-16-3-interface-experience-changes-in-v2-1-111|3 Interface
   Experience changes in v2.1.111]]'
 - '[[Changes/Descript/2026-04-16-drive-media-in-the-media-sidebar|Drive media in the

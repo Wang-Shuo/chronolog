@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 694f5ead7e9d110eedcd0bacff4e8048f712c394da941315afdbf47161a7542f
+machine_hash: 190936082903b7864ecf4357b5f9a5f033faa38194bd9742d2af86093af34be4
 product: dify
 product_name: Dify
 record:
@@ -43,10 +43,10 @@ record:
   title: Add Ruby's SDK implement code
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-07-28-more-robust-extension-handling-you-can-now-use-pre-release-extensions-again|More
-  robust extension handling]]'
 - '[[Changes/Notion/2023-08-08-new-integrations-and-integration-gallery|New integrations
   and integration gallery]]'
+- '[[Changes/Raycast/2023-08-09-root-search-improved-app-running-indicator-to-properly-differentiate-between-app|Root
+  Search : Improved app running indicator to properly differentiate between apps…]]'
 - "[[Changes/Ollama/2023-08-10-ollama-langchain-integration-https-python-langchain-com-docs-integrations-llms-o|Ollama
   \U0001F99C️\U0001F517 LangChain…]]"
 source_release: '[[Releases/Dify/dify-2023-08-14-0-3-13-github-117129126-94656171|dify-2023-08-14-0-3-13-github-117129126-94656171]]'

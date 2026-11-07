@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5bfbd27d3d411c0c212a892cdd361e8aa6af632f6a5609e2e4d16f674ea5c970
+machine_hash: a58acb618e51c3245b43ffe919bd4af0811d82e1b7a4ed197c2f8aa7d34b02ec
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -46,12 +46,11 @@ record:
   title: 3 Context Window changes in rust-v0.120.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-09-added-exclude-dynamic-system-prompt-sections-flag-to-print-mode-for-improved-cro|Added
-  --exclude-dynamic-system-prompt-sections flag to print mode for improved…]]'
 - '[[Changes/Claude Code/2026-04-10-improved-tool-not-available-errors-to-explain-why-and-how-to-proceed-when-the-mo|Improved
   tool-not-available errors to explain why and how to proceed when the model…]]'
 - '[[Changes/Codex CLI/2026-04-10-4-context-window-changes-in-rust-v0-119-0|4 Context
   Window changes in rust-v0.119.0]]'
+- '[[Changes/Devin/2026-04-10-knowledge-search-auto-expand|Knowledge Search Auto-Expand]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-04-11-rust-v0-120-0-github-307789275-437473b9|codex-cli-2026-04-11-rust-v0-120-0-github-307789275-437473b9]]'
 source_type: github_releases
 theme: context-window
@@ -92,7 +91,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.120.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-04-10 · Codex CLI · [[Changes/Codex CLI/2026-04-10-4-context-window-changes-in-rust-v0-119-0|4 Context Window changes in rust-v0.119.0]]
+- Earlier: 2026-04-10 · Devin · [[Changes/Devin/2026-04-10-knowledge-search-auto-expand|Knowledge Search Auto-Expand]]
 - Later: 2026-04-14 · Claude Code · [[Changes/Claude Code/2026-04-14-2-context-window-changes-in-v2-1-108|2 Context Window changes in v2.1.108]]
 <!-- chronolog:end -->
 

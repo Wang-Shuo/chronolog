@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 51c0a3efa2b64004582d8fb188bba32524eaf318c93b45c01324b793c539b1f9
+machine_hash: 7f6150b68c36a194a08de8f033230d5f5660a60127e1fca1436c63ed16ab324e
 product: runway
 product_name: Runway
 record:
@@ -44,9 +44,10 @@ record:
   title: Org Config Alerts
   type: change
 related_changes:
-- '[[Changes/Replit/2026-08-21-teams-and-enterprise|Teams and Enterprise]]'
 - '[[Changes/Replit/2026-08-21-control-agent-models-across-workspaces|Control Agent
   models across Workspaces]]'
+- '[[Changes/Wispr Flow/2026-08-21-for-teams-enterprise-desktop|For Teams & Enterprise
+  (Desktop)]]'
 - '[[Changes/Lovable/2026-08-24-contact-enterprise-support-from-your-project|Contact
   Enterprise support from your project]]'
 source_release: '[[Releases/Runway/runway-2026-08-24-2026-08-24-org-config-alerts-43deb7ee|runway-2026-08-24-2026-08-24-org-config-alerts-43deb7ee]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e59c5af0af1d132e3267fa6d8a99302b3ebb24a720a14ebc4f585c05c00efafe
+machine_hash: f2a738db13c880facdc152effdf16c4c42f3b925db49590eed672ddcd68e2345
 product: dify
 product_name: Dify
 record:
@@ -44,10 +44,9 @@ record:
   title: 2 Mobile and Desktop changes in 0.5.9
   type: change
 related_changes:
-- '[[Changes/Notion/2024-02-26-take-actions-from-mobile-notifications|Take actions
-  from mobile notifications]]'
 - '[[Changes/Ollama/2024-03-01-2-mobile-and-desktop-changes-in-v0-1-28|2 Mobile and
   Desktop changes in v0.1.28]]'
+- '[[Changes/Raycast/2024-03-07-new-ai-chat|New AI Chat]]'
 - '[[Changes/Ollama/2024-03-10-2-mobile-and-desktop-changes-in-v0-1-29|2 Mobile and
   Desktop changes in v0.1.29]]'
 source_release: '[[Releases/Dify/dify-2024-03-12-0-5-9-github-145969921-6a1bbd73|dify-2024-03-12-0-5-9-github-145969921-6a1bbd73]]'

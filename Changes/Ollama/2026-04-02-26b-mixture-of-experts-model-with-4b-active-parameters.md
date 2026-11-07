@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 32f651be904165e4f3897cb062c465adfd2b9a347ce42e4c06dcf1fe2f876a87
+machine_hash: 55f6016e6e34639c52ef7c1005c71ecc34a81cf693a628fa542a056cf46a5d6f
 product: ollama
 product_name: Ollama
 record:
@@ -42,12 +42,12 @@ record:
   title: '**26B (Mixture of Experts model with 4B active parameters)**'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-01-usage-now-hides-redundant-current-week-sonnet-only-bar-for-pro-and-enterprise-pl|/usage
-  now hides redundant "Current week (Sonnet only)" bar for Pro and Enterprise plans]]'
 - '[[Changes/Gemini CLI/2026-04-01-7-model-support-changes-in-v0-36-0|7 Model Support
   changes in v0.36.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-01-remove-support-for-gpt-5-1-codex-gpt-5-1-codex-mini-and-gpt-5-1-codex-max-models|Remove
   support for gpt-5.1-codex, gpt-5.1-codex-mini, and gpt-5.1-codex-max models]]'
+- '[[Changes/AnythingLLM/2026-04-02-2-model-support-changes-in-v1-12-0|2 Model Support
+  changes in v1.12.0]]'
 source_release: '[[Releases/Ollama/ollama-2026-04-02-v0-20-0-github-304730147-314a4691|ollama-2026-04-02-v0-20-0-github-304730147-314a4691]]'
 source_type: github_releases
 theme: model-support
@@ -76,8 +76,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-04-01 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-01-remove-support-for-gpt-5-1-codex-gpt-5-1-codex-mini-and-gpt-5-1-codex-max-models|Remove support for gpt-5.1-codex, gpt-5.1-codex-mini, and gpt-5.1-codex-max models]]
-- Later: 2026-04-04 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-04-new-critic-agent-automatically-reviews-plans-and-complex-implementations-using-a|New Critic agent automatically reviews plans and complex implementations using…]]
+- Earlier: 2026-04-02 · AnythingLLM · [[Changes/AnythingLLM/2026-04-02-2-model-support-changes-in-v1-12-0|2 Model Support changes in v1.12.0]]
+- Later: 2026-04-03 · Recraft · [[Changes/Recraft/2026-04-03-we-ve-added-veo-3-1-lite-a-cost-efficient-video-model-for-fast-generation-and-hi|Recraft adds Veo 3.1 Lite, a cost-efficient video model for fast generation…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

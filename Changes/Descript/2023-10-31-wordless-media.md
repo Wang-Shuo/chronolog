@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: b32c47dd2775d812a80a7ac9456d130d170bbd36763466f47e648c7793ad075a
+machine_hash: 43b59a53f3974b39ed4b44a613a41f4f2411e389a9c6495f9aa33625e7b5d7a4
 product: descript
 product_name: Descript
 record:
@@ -55,10 +55,10 @@ record:
   title: Wordless Media
   type: change
 related_changes:
-- '[[Changes/Descript/2023-10-17-overdub-generation-improvements|Overdub generation
-  improvements]]'
 - '[[Changes/Descript/2023-10-17-speaker-label-dropdown-revamp|Speaker label dropdown
   revamp]]'
+- '[[Changes/Superwhisper/2023-10-25-make-size-of-audio-wave-larger|Make size of audio
+  wave larger]]'
 - '[[Changes/Descript/2023-10-31-filler-words-remove-from-transcript|Filler words:
   Remove from transcript]]'
 source_release: '[[Releases/Descript/descript-2023-10-31-653ffa527a62af7120988567-19ddd0b4|descript-2023-10-31-653ffa527a62af7120988567-19ddd0b4]]'
@@ -94,8 +94,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2023-10-17 · Descript · [[Changes/Descript/2023-10-17-speaker-label-dropdown-revamp|Speaker label dropdown revamp]]
-- Later: 2023-11-13 · Synthesia · [[Changes/Synthesia/2023-11-13-all-creator-plan-and-enterprise-plan-users-can-now-download-the-audio-from-your|AUDIO download is here]]
+- Earlier: 2023-10-25 · Superwhisper · [[Changes/Superwhisper/2023-10-25-make-size-of-audio-wave-larger|Make size of audio wave larger]]
+- Later: 2023-10-31 · Superwhisper · [[Changes/Superwhisper/2023-10-31-improved-audio-playback-ui-ux|Improved audio playback UI/UX]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

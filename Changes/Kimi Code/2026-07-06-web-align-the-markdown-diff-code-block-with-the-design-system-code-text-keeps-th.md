@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c92f2fba3c91febeed400ff34f2dfce7ee300a10172113bda0109ccc11a8b089
+machine_hash: 0d3d77c160e5a4e6c955133245c077665965dd49c408bdb39ff11498c52dfcb7
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -48,10 +48,9 @@ record:
     keeps…'
   type: change
 related_changes:
-- '[[Changes/Kimi Code/2026-07-02-2-editor-experience-changes-in-kimi-code-0-22-0|2
-  Editor Experience changes in Kimi Code 0.22.0]]'
-- '[[Changes/Kimi Code/2026-07-02-remove-duplicate-newline-shortcut-handling-from-the-prompt-editor|Remove
-  duplicate newline-shortcut handling from the prompt editor]]'
+- '[[Changes/Devin/2026-07-03-slack-sync-toast-improvements|Slack Sync Toast Improvements]]'
+- '[[Changes/Raycast/2026-07-03-hotkeys-you-can-now-assign-copilot-key-as-hyper-key|Hotkeys
+  : You can now assign Copilot key as Hyper key]]'
 - '[[Changes/Windsurf/2026-07-04-devin-local|Devin Local]]'
 source_release: '[[Releases/Kimi Code/kimi-code-2026-07-06-0-23-0-6c09d1f0|kimi-code-2026-07-06-0-23-0-6c09d1f0]]'
 source_type: kimi_code_changelog

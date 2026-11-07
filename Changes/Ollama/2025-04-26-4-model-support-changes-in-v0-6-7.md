@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 25dfaee3c91f7e89a537a87a7446c16c4f879c6d372f283078ff42e1f1bce567
+machine_hash: 8f6868c7ac7d45a201cf2f49587ac3a5f2e5f06f81f5f3d685cfb7080a74753d
 product: ollama
 product_name: Ollama
 record:
@@ -52,8 +52,8 @@ record:
   title: 4 Model Support changes in v0.6.7
   type: change
 related_changes:
-- '[[Changes/Cline/2025-04-24-4-model-support-changes-in-v3-13-2|4 Model Support changes
-  in v3.13.2]]'
+- '[[Changes/LM Studio/2025-04-24-5-model-support-changes-in-lm-studio-0-3-15|5 Model
+  Support changes in LM Studio 0.3.15]]'
 - '[[Changes/ChatGPT/2025-04-25-we-re-making-additional-improvements-to-gpt-4o-optimizing-when-it-saves-memories|Improvements
   to GPT-4o]]'
 - '[[Changes/Cline/2025-04-25-add-prompt-caching-to-gemini-models-in-cline-openrouter-providers|Add

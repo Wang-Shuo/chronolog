@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 31650d1321066ca0092210cb758eb2804ece8d68cd928d9497e227c2ceb9dc77
+machine_hash: 0e79be5ac0dee40feed0b6235a79cdae02674fb267325f80c108f54591e1f068
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -59,10 +59,10 @@ record:
   title: 9 Context Window changes in rust-v0.161.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-01-3-context-window-changes-in-rust-v0-160-0|3 Context
-  Window changes in rust-v0.160.0]]'
 - '[[Changes/Claude Code/2026-10-02-changed-autocompact-to-save-the-auto-compact-window-per-model-so-each-model-keep|Changed
   /autocompact to save the auto-compact window per model, so each model…]]'
+- '[[Changes/Raycast/2026-10-02-ai-improved-context-handling-in-very-long-conversations|AI:
+  Improved context handling in very long conversations]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-05-2-context-window-changes-in-v1-0-92|2 Context
   Window changes in v1.0.92]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-10-07-rust-v0-161-0-github-405921402-d1f93f55|codex-cli-2026-10-07-rust-v0-161-0-github-405921402-d1f93f55]]'

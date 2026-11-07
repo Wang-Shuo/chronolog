@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 5555610cb4c7b2312f741c52ed948e1ea45d6c4baf9141c1ad0e0726a6a1e392
+machine_hash: a0b73fa73400f02ca199832c1326d7baefac693b8ace199ba471700a5fe641b7
 product: notion
 product_name: Notion
 record:
@@ -48,8 +48,8 @@ record:
   title: Create page columns on iPad & Android tablets
   type: change
 related_changes:
-- '[[Changes/Descript/2021-11-16-pause-screen-recordings-on-macos|Pause screen recordings
-  on macOS]]'
+- '[[Changes/Raycast/2021-11-30-window-management-added-previous-desktop-next-desktop-and-reasonable-size-comman|Window
+  Management: Added "Previous Desktop", "Next Desktop" and "Reasonable Size" commands]]'
 - '[[Changes/Descript/2021-12-21-webcam-recording-now-supported-on-windows-early-access-feature|Webcam
   recording now supported on Windows (early access feature)]]'
 - '[[Changes/Descript/2021-12-21-video-recordings-now-upload-while-recording-on-macos|Video

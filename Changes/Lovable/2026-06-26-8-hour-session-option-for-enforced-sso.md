@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 7e58663b1ac8efe9afc21aea7b12748230dc312fcccc75d77df5fac097675b6c
+machine_hash: 0ea2965b3bd38083a24ea9ffd3c4a72db5ad4fc3b17589a994df6b7ef8099f32
 product: lovable
 product_name: Lovable
 record:
@@ -49,8 +49,8 @@ record:
   title: 8-hour session option for enforced SSO
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-06-23-workspace-insights-for-enterprise-governance|Workspace
-  insights for Enterprise governance]]'
+- '[[Changes/Devin/2026-06-24-enterprise-wide-snapshot-build-schedule|Enterprise Wide
+  Snapshot Build Schedule]]'
 - '[[Changes/Claude/2026-06-25-enable-trusted-devices-for-remote-control|Enable Trusted
   Devices for Remote Control]]'
 - '[[Changes/Lovable/2026-06-25-detach-a-design-system-from-a-project|Detach a design

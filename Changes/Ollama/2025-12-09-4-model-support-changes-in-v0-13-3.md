@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 627e7b8cc2a0d0bd2e80e70ba10fc7ae3a5810ad50da4b4ff25b23f005100d28
+machine_hash: a97ffc45a5ada6dd5072f72652ccfbf3e9421cabb430ea9dc28341868738af26
 product: ollama
 product_name: Ollama
 record:
@@ -52,12 +52,12 @@ record:
   title: 4 Model Support changes in v0.13.3
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2025-12-05-gpt-5-1-codex-max-is-now-available-in-github-copilot-cli|GPT-5.1-Codex-Max
-  is now available in GitHub Copilot CLI]]'
 - '[[Changes/Codex CLI/2025-12-09-8-model-support-changes-in-rust-v0-66-0|8 Model
   Support changes in rust-v0.66.0]]'
 - '[[Changes/Gemini CLI/2025-12-09-7-model-support-changes-in-v0-20-0|7 Model Support
   changes in v0.20.0]]'
+- '[[Changes/LM Studio/2025-12-09-support-for-essentialai-s-rnj-1-model|Support for
+  EssentialAI''s rnj-1 model]]'
 source_release: '[[Releases/Ollama/ollama-2025-12-09-v0-13-3-github-268545199-3fa98a85|ollama-2025-12-09-v0-13-3-github-268545199-3fa98a85]]'
 source_type: github_releases
 theme: model-support
@@ -94,7 +94,7 @@ Source: https://github.com/ollama/ollama/releases/tag/v0.13.3
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-12-09 · Gemini CLI · [[Changes/Gemini CLI/2025-12-09-7-model-support-changes-in-v0-20-0|7 Model Support changes in v0.20.0]]
+- Earlier: 2025-12-09 · LM Studio · [[Changes/LM Studio/2025-12-09-support-for-essentialai-s-rnj-1-model|Support for EssentialAI's rnj-1 model]]
 - Later: 2025-12-10 · Codex CLI · [[Changes/Codex CLI/2025-12-10-3-model-support-changes-in-rust-v0-69-0|3 Model Support changes in rust-v0.69.0]]
 <!-- chronolog:end -->
 

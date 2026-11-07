@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 12bd6a00a3e0e491f094854b2124f4523a03905446c58b75bff74532d75a21e2
+machine_hash: 4a77602bfb81983363f27b9ecfd0439be72af6ddef41fce90741c2512267a3ac
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -106,7 +106,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.59.0
 ## Nearby in Apps and Integrations
 
 - Earlier: 2025-11-18 · Manus · [[Changes/Manus/2025-11-18-manus-can-now-perform-tasks-directly-in-your-browser-autonomously-it-securely-wo|Introducing Manus Browser Operator]]
-- Later: 2025-11-20 · Codex CLI · [[Changes/Codex CLI/2025-11-20-3-apps-and-integrations-changes-in-rust-v0-61-0|3 Apps and Integrations changes in rust-v0.61.0]]
+- Later: 2025-11-19 · Raycast · [[Changes/Raycast/2025-11-19-as-we-prepare-for-our-public-beta-release-we-are-moving-into-the-microsoft-store|As we prepare for our public beta release we are moving into the Microsoft Store]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

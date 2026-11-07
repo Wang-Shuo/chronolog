@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 2d9f1ef399912fe5b1fa953d045ff741884fe2d14f47f468e274cbd082936e15
+machine_hash: 94cc88064cbf7ce16e7f3bca76e4f080221ff03d4698789dc52d2ab2c6be9897
 product: notion
 product_name: Notion
 record:
@@ -70,10 +70,10 @@ record:
   title: More new features!
   type: change
 related_changes:
-- '[[Changes/OpenHands/2024-07-19-5-apps-and-integrations-changes-in-0-8-1|5 Apps
-  and Integrations changes in 0.8.1]]'
 - '[[Changes/Dify/2024-07-23-3-apps-and-integrations-changes-in-0-6-15|3 Apps and
   Integrations changes in 0.6.15]]'
+- '[[Changes/AnythingLLM/2024-07-26-11-apps-and-integrations-changes-in-v1-0-0|11
+  Apps and Integrations changes in v1.0.0]]'
 - '[[Changes/OpenHands/2024-07-27-2-apps-and-integrations-changes-in-0-8-2|2 Apps
   and Integrations changes in 0.8.2]]'
 source_release: '[[Releases/Notion/notion-2024-07-29-https-www-notion-com-releases-2024-07-29-6cd461d8|notion-2024-07-29-https-www-notion-com-releases-2024-07-29-6cd461d8]]'
@@ -117,7 +117,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2024-07-27 · OpenHands · [[Changes/OpenHands/2024-07-27-2-apps-and-integrations-changes-in-0-8-2|2 Apps and Integrations changes in 0.8.2]]
-- Later: 2024-08-07 · Open WebUI · [[Changes/Open WebUI/2024-08-07-non-streaming-support-for-functions-plugin-fixed-a-functionality-issue-with-the|🔧 Non-Streaming Support for Functions Plugin]]
+- Later: 2024-07-31 · Raycast · [[Changes/Raycast/2024-07-31-auto-quit-you-can-now-choose-the-interval-after-which-apps-are-automatically-ter|Auto Quit: You can now choose the interval after which apps are automatically terminated]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

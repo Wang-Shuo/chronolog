@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 09ac3194fa1bd50814f1167fbd10c8ae8e2afb1a19697e9556253165d71c5b9e
+machine_hash: e9a32bae9822990fd602802d7bff3804cf1f93df7bc53357054eab37e68af478
 product: dify
 product_name: Dify
 record:
@@ -44,12 +44,12 @@ record:
     user experience
   type: change
 related_changes:
-- '[[Changes/Dify/2024-04-16-this-update-primarily-focuses-on-enhancing-system-stability-and-improving-user-e|This
-  update primarily focuses on enhancing system stability and improving user experience]]'
-- "[[Changes/Open WebUI/2024-04-16-docker-optimization-updated-docker-image-build-process-to-utilize-uv-for-signifi|\U0001F433
-  Docker Optimization]]"
+- '[[Changes/Superwhisper/2024-04-20-ui-performance-improvements-for-models-tab|UI
+  performance improvements for models tab]]'
 - '[[Changes/Dify/2024-04-22-this-update-primarily-focuses-on-enhancing-system-stability-and-improving-user-e|This
   update primarily focuses on enhancing system stability and improving user experience]]'
+- '[[Changes/Raycast/2024-04-24-ai-commands-improve-text-selection-reliability-and-speed|AI
+  Commands: Improve text selection reliability and speed]]'
 source_release: '[[Releases/Dify/dify-2024-04-25-0-6-5-github-152778461-0e2655b1|dify-2024-04-25-0-6-5-github-152778461-0e2655b1]]'
 source_type: github_releases
 theme: reliability-performance
@@ -85,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2024-04-22 · Dify · [[Changes/Dify/2024-04-22-this-update-primarily-focuses-on-enhancing-system-stability-and-improving-user-e|This update primarily focuses on enhancing system stability and improving user experience]]
+- Earlier: 2024-04-24 · Raycast · [[Changes/Raycast/2024-04-24-ai-commands-improve-text-selection-reliability-and-speed|AI Commands: Improve text selection reliability and speed]]
 - Later: 2024-04-28 · Ollama · [[Changes/Ollama/2024-04-28-qwen-110b-https-ollama-com-library-qwen-110b-the-first-qwen-model-over-100b-para|Qwen 110B((source link) The first Qwen model over 100B…]]
 <!-- chronolog:end -->
 

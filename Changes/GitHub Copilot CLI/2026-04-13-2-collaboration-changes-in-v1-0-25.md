@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1d840e3e001aeb5b14cb94ff0e674fcc4e22f42ca50ac52aee7d99c9176a8a51
+machine_hash: c51f1aed9545b7c63e58d31369d306fcfe48962dbd6420847408b01f94067a56
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,12 +45,12 @@ record:
   title: 2 Collaboration changes in v1.0.25
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-04-08-default-enable-narration-for-the-team-by-gundermanc-in-https-github-com-google-g|Default
-  enable narration for the team]]'
 - '[[Changes/Claude Code/2026-04-10-added-team-onboarding-command-to-generate-a-teammate-ramp-up-guide-from-your-loc|Added
   /team-onboarding command to generate a teammate ramp-up guide…]]'
 - '[[Changes/Codex CLI/2026-04-10-17256-app-server-use-shared-receivers-for-app-server-message-processors-euroeles|♯17256
   app-server: Use shared receivers for app-server message processors @euroelessar]]'
+- '[[Changes/Raycast/2026-04-10-my-schedule-meetings-should-now-be-opened-in-the-native-application-if-available|My
+  Schedule: Meetings should now be opened in the native application if available…]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-04-13-v1-0-25-github-308357690-3753e85b|github-copilot-cli-2026-04-13-v1-0-25-github-308357690-3753e85b]]'
 source_type: github_releases
 theme: collaboration
@@ -90,7 +90,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.25
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-04-10 · Codex CLI · [[Changes/Codex CLI/2026-04-10-17256-app-server-use-shared-receivers-for-app-server-message-processors-euroeles|♯17256 app-server: Use shared receivers for app-server message processors @euroelessar]]
+- Earlier: 2026-04-10 · Raycast · [[Changes/Raycast/2026-04-10-my-schedule-meetings-should-now-be-opened-in-the-native-application-if-available|My Schedule: Meetings should now be opened in the native application if available…]]
 - Later: 2026-04-15 · Codex CLI · [[Changes/Codex CLI/2026-04-15-17717-codex-refactor-marketplace-add-into-shared-core-flow-xli-oai|♯17717 codex Refactor marketplace add into shared core flow @xli-oai]]
 <!-- chronolog:end -->
 

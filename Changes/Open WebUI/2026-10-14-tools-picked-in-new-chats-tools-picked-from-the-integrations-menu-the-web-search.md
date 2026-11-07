@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 519b897810e91e36b131bad7631bd163d0a6359984b671a09753c649f836fe33
+machine_hash: 520faa8dee72c1db813134745f9b249a653dfd29f7b530745ed2b628880188cb
 product: open-webui
 product_name: Open WebUI
 record:
@@ -70,8 +70,8 @@ record:
     menu, the Web…"
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-07-3-search-and-browsing-changes-in-rust-v0-161-0|3
-  Search and Browsing changes in rust-v0.161.0]]'
+- '[[Changes/Raycast/2026-10-09-custom-ai-providers-you-can-now-give-custom-provider-models-raycast-s-web-search-a80f41|Custom
+  AI Providers]]'
 - '[[Changes/Open WebUI/2026-10-10-4-search-and-browsing-changes-in-v0-12-0|4 Search
   and Browsing changes in v0.12.0]]'
 - '[[Changes/OpenClaw/2026-10-10-3-search-and-browsing-changes-in-v2026-10-1|3 Search

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d9aa8965863fc08f9f48d585bc9c2bfbddfb321890a1cb6b391b343f5cfacb15
+machine_hash: ffa66a38a1ef38d51ceb47a76344f908ef004274ad8510e4241036c36ff3b9e0
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -41,12 +41,12 @@ record:
   title: '**Agents Platform Beta**: Agents Platform is now in beta'
   type: change
 related_changes:
-- '[[Changes/OpenHands/2024-09-04-files-display-updated-content-after-agent-edit-by-amanape-in-https-github-com-al|Files
-  display updated content after agent edit]]'
-- '[[Changes/Dify/2024-09-10-refactor-api-core-improve-type-hints-and-apply-ruff-formatter-in-agent-runner-an|refactor(api/core):
-  Improve type hints and apply ruff formatter in agent runner…]]'
+- '[[Changes/AnythingLLM/2024-09-11-you-can-now-use-agent-to-run-skills-via-the-developer-api-nice|Use
+  @agent to run skills via the developer API]]'
 - '[[Changes/Dify/2024-09-30-2-agent-mode-changes-in-0-9-0|2 Agent Mode changes in
   0.9.0]]'
+- '[[Changes/AnythingLLM/2024-10-03-2-agent-mode-changes-in-v1-2-3|2 Agent Mode changes
+  in v1.2.3]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2024-10-13-2024-10-13-08c00d6f|elevenlabs-2024-10-13-2024-10-13-08c00d6f]]'
 source_type: elevenlabs_changelog
 theme: agent-mode
@@ -76,7 +76,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2024-09-30 · Dify · [[Changes/Dify/2024-09-30-2-agent-mode-changes-in-0-9-0|2 Agent Mode changes in 0.9.0]]
+- Earlier: 2024-10-03 · AnythingLLM · [[Changes/AnythingLLM/2024-10-03-2-agent-mode-changes-in-v1-2-3|2 Agent Mode changes in v1.2.3]]
 - Later: 2024-10-14 · Dify · [[Changes/Dify/2024-10-14-external-knowledge-and-retrievals-addressing-issues-in-agent-retrieval-and-entry|External Knowledge and Retrievals: Addressing issues in agent retrieval…]]
 <!-- chronolog:end -->
 

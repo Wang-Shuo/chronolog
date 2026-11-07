@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 32ffdae3e10b375c933d1a48d418c13a2aecf0a39181c9b8b503bfda21e03ebc
+machine_hash: 0a0650b5daf975d1411f408d5572360f7815b5dde3135e0699a80a6519937678
 product: windsurf
 product_name: Windsurf
 record:
@@ -63,12 +63,10 @@ record:
     Program…
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-10-29-move-sso-to-a-new-identity-provider|Move SSO to a
-  new identity provider]]'
-- "[[Changes/Open WebUI/2026-10-29-admins-manage-user-api-keys-administrators-can-now-rotate-or-delete-a-user-s-api|\U0001F5DD️
-  Admins manage user API keys. Administrators can now rotate or delete a user's…]]"
-- '[[Changes/Claude Code/2026-10-30-3-enterprise-and-administration-changes-in-v2-1-314|3
-  Enterprise and Administration changes in v2.1.314]]'
+- '[[Changes/Devin/2026-10-30-self-serve-sso-connections|Self-serve SSO Connections]]'
+- '[[Changes/Devin/2026-10-30-budgets|Budgets]]'
+- '[[Changes/Devin/2026-10-30-opt-out-of-access-request-dms|Opt Out of Access-Request
+  DMs]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-10-30-v3-11-238-024f2435|windsurf-2026-10-30-v3-11-238-024f2435]]'
 source_type: windsurf_changelog
 theme: enterprise-admin
@@ -95,7 +93,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-10-30 · Claude Code · [[Changes/Claude Code/2026-10-30-3-enterprise-and-administration-changes-in-v2-1-314|3 Enterprise and Administration changes in v2.1.314]]
+- Earlier: 2026-10-30 · Devin · [[Changes/Devin/2026-10-30-opt-out-of-access-request-dms|Opt Out of Access-Request DMs]]
 - Later: 2026-10-31 · Claude Code · [[Changes/Claude Code/2026-10-31-2-enterprise-and-administration-changes-in-v2-1-316|2 Enterprise and Administration changes in v2.1.316]]
 <!-- chronolog:end -->
 

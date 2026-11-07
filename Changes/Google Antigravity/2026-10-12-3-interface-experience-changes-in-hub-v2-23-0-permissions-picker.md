@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 49a169725fda86b4fdeec769572755ce82dc1314b4352ea78be86e09d1df169c
+machine_hash: 42a00418453b5740c06f5b1cd1099d92b3950d6a2c5f7dec8684b3d4a3d71844
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -51,8 +51,8 @@ record:
   title: 3 Interface Experience changes in HUB v2.23.0 — Permissions picker…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-09-improved-fullscreen-mode-the-link-under-the-mouse-pointer-is-now-underlined-to-s|Improved
-  fullscreen mode]]'
+- '[[Changes/Raycast/2026-10-09-4-interface-experience-changes-in-raycast-macos-2-7|4
+  Interface Experience changes in Raycast macos 2.7]]'
 - '[[Changes/Open WebUI/2026-10-10-18-interface-experience-changes-in-v0-12-0|18 Interface
   Experience changes in v0.12.0]]'
 - '[[Changes/OpenClaw/2026-10-10-20-interface-experience-changes-in-v2026-10-1|20

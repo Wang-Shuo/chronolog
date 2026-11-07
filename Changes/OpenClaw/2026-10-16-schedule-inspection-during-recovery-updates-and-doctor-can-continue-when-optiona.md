@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a561c39d410f64dc01508dc7adb7e42ae6910eb9b1cca28559e0af873cfb9198
+machine_hash: 7600bef78a511f4261e9cdee6a32f956a1609bdff8f7e63b545e30472a02546e
 product: openclaw
 product_name: OpenClaw
 record:
@@ -93,7 +93,7 @@ type: change
 ## Nearby in Memory and Personalization
 
 - Earlier: 2026-10-16 · Open WebUI · [[Changes/Open WebUI/2026-10-16-built-in-tools-turned-back-on-stay-on-a-built-in-tool-such-as-memory-that-is-off|🧰 Built-in tools turned back on stay on. A built-in tool such as Memory…]]
-- Later: 2026-10-18 · OpenClaw · [[Changes/OpenClaw/2026-10-18-memory-search-recognizes-more-accented-and-korean-spellings-and-keeps-keyword-se|Memory search recognizes more accented and Korean spellings and keeps keyword search…]]
+- Later: 2026-10-16 · Raycast · [[Changes/Raycast/2026-10-16-this-update-is-about-speed-file-search-returns-results-up-to-6-faster-and-handle|This update is about speed]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

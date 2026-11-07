@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5ff055dad858771ae502e5555c5f9e4e36cc6cb6f3e6e229213862fbbf94c83e
+machine_hash: 30503bda9adbe02883535f13b977ceaf38954fba982ea4d048eb93ca553392e6
 product: descript
 product_name: Descript
 record:
@@ -45,10 +45,9 @@ record:
     video…
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-10-01-support-rendering-function-calls-and-responses-when-sharing-chat-to-markdown-by|Support
-  rendering function calls and responses when sharing chat to markdown]]'
 - '[[Changes/GitHub Copilot CLI/2025-10-07-significantly-reduced-token-consumption-round-trips-per-problem-and-time-to-resu|Significantly
   reduced token consumption, round trips per problem, and time to result]]'
+- '[[Changes/Devin/2025-10-10-knowledge-sharing-by-default|Knowledge Sharing by Default]]'
 - '[[Changes/Replit/2025-10-10-support-seat-access-for-teams|Support seat access for
   teams]]'
 source_release: '[[Releases/Descript/descript-2025-10-14-68ee6f9dba654d8837fc6993-94d95427|descript-2025-10-14-68ee6f9dba654d8837fc6993-94d95427]]'
@@ -83,7 +82,7 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2025-10-10 · Replit · [[Changes/Replit/2025-10-10-support-seat-access-for-teams|Support seat access for teams]]
-- Later: 2025-10-17 · Midjourney · [[Changes/Midjourney/2025-10-17-for-the-next-three-weekends-we-re-renting-a-big-catamaran-sailboat-to-take-midjo|Midjourney sailboat trips]]
+- Later: 2025-10-17 · Devin · [[Changes/Devin/2025-10-17-steerable-wiki-for-github-and-gitlab|Steerable Wiki for GitHub and Gitlab]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b615ffd90463116f90964d979f6020aecff6c6485ec6531bdbcc762ab897b61f
+machine_hash: 5fc9d38a608c45c03ac37c859dac2a5edb0b853cd47cb3a7563321417596ea99
 product: claude-code
 product_name: Claude Code
 record:
@@ -41,12 +41,12 @@ record:
   title: Added "Show turn duration" toggle to the `/config` menu
   type: change
 related_changes:
-- '[[Changes/Descript/2026-03-17-the-redesigned-color-adjustments-settings-are-now-in-the-properties-panel-instea|The
-  redesigned Color adjustments settings are now in the Properties panel instead…]]'
 - '[[Changes/Dify/2026-03-17-7-interface-experience-changes-in-1-13-1|7 Interface
   Experience changes in 1.13.1]]'
 - '[[Changes/Gemini CLI/2026-03-17-3-interface-experience-changes-in-v0-34-0|3 Interface
   Experience changes in v0.34.0]]'
+- '[[Changes/AnythingLLM/2026-03-18-3-interface-experience-changes-in-v1-11-2|3 Interface
+  Experience changes in v1.11.2]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-18-v2-1-79-github-298704791-2ebf4bbd|claude-code-2026-03-18-v2-1-79-github-298704791-2ebf4bbd]]'
 source_type: github_releases
 theme: interface-experience
@@ -79,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-03-17 · Gemini CLI · [[Changes/Gemini CLI/2026-03-17-3-interface-experience-changes-in-v0-34-0|3 Interface Experience changes in v0.34.0]]
+- Earlier: 2026-03-18 · AnythingLLM · [[Changes/AnythingLLM/2026-03-18-3-interface-experience-changes-in-v1-11-2|3 Interface Experience changes in v1.11.2]]
 - Later: 2026-03-18 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-18-spinner-animation-no-longer-delays-visible-output-from-appearing-in-the-timeline|Spinner animation no longer delays visible output from appearing in the timeline]]
 <!-- chronolog:end -->
 

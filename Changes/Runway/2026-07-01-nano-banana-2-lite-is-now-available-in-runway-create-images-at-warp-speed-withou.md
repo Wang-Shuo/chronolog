@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 341a7946bce67b210221d0c489b21a05375241ab3866f0baceb1417ed202f9ba
+machine_hash: 7d44a35c08d0ec7256297bc68a0d66abdd170d835614e35e9745f6c86f66617f
 product: runway
 product_name: Runway
 record:
@@ -43,8 +43,7 @@ record:
   title: Nano Banana 2 Lite
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-06-30-4-reliability-and-performance-changes-in-v2026-6-11|4
-  Reliability and Performance changes in v2026.6.11]]'
+- '[[Changes/Devin/2026-07-01-skills-analytics|Skills Analytics]]'
 - '[[Changes/Microsoft 365 Copilot/2026-07-01-ai-generated-survey-insights-with-copilot-highlights-web-viva-glint|AI-generated
   survey insights with Copilot Highlights Web (Viva Glint)]]'
 - "[[Changes/Open WebUI/2026-07-01-general-improvements-various-improvements-were-implemented-across-the-applicatio|\U0001F504

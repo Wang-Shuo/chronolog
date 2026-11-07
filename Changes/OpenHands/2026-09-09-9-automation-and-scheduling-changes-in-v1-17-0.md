@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 064755e289be949ee2f91196596ddcd5e6b9681f8d116a3c263b6635c899a797
+machine_hash: 75129603e9e980abf69bc6ebe7d854474b308eb680fd6ada2288c61b16b8b28b
 product: openhands
 product_name: OpenHands
 record:
@@ -60,12 +60,11 @@ record:
   title: 9 Automation and Scheduling changes in v1.17.0
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-09-03-13-automation-and-scheduling-changes-in-v2026-9-1|13
-  Automation and Scheduling changes in v2026.9.1]]'
-- '[[Changes/OpenClaw/2026-09-05-8-automation-and-scheduling-changes-in-v2026-9-2|8
-  Automation and Scheduling changes in v2026.9.2]]'
-- '[[Changes/OpenClaw/2026-09-08-7-automation-and-scheduling-changes-in-v2026-9-3|7
-  Automation and Scheduling changes in v2026.9.3]]'
+- '[[Changes/Devin/2026-09-09-automations-page-refresh|Automations Page Refresh]]'
+- '[[Changes/Devin/2026-09-09-update-approvals-show-a-diff|Update Approvals Show a
+  Diff]]'
+- '[[Changes/Devin/2026-09-09-regex-matching-in-text-fields|Regex Matching in Text
+  Fields]]'
 source_release: '[[Releases/OpenHands/openhands-2026-09-09-v1-17-0-github-385787922-b4569793|openhands-2026-09-09-v1-17-0-github-385787922-b4569793]]'
 source_type: github_releases
 theme: automation-scheduling
@@ -116,7 +115,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/v1.17.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2026-09-08 · OpenClaw · [[Changes/OpenClaw/2026-09-08-7-automation-and-scheduling-changes-in-v2026-9-3|7 Automation and Scheduling changes in v2026.9.3]]
+- Earlier: 2026-09-09 · Devin · [[Changes/Devin/2026-09-09-regex-matching-in-text-fields|Regex Matching in Text Fields]]
 - Later: 2026-09-10 · Dify · [[Changes/Dify/2026-09-10-3-automation-and-scheduling-changes-in-1-17-1|3 Automation and Scheduling changes in 1.17.1]]
 <!-- chronolog:end -->
 

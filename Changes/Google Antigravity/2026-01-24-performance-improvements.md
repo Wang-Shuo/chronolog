@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 5efd7ee6d4c4f6be07f58473da4ad44354f0c2bb622184446460ac52a394b5f9
+machine_hash: 97e38d668968fa5bb5758368ce51a0f67db988c9ccc9b728d6bd43e33f5d49fa
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -41,10 +41,9 @@ record:
   title: Performance Improvements
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-01-21-reduced-memory-usage-for-glm-4-7-flash-models|Reduced
-  memory usage for GLM-4.7-Flash models]]'
-- '[[Changes/Cursor/2026-01-22-4-reliability-and-performance-changes-in-2-4|4 Reliability
-  and Performance changes in 2.4]]'
+- '[[Changes/Devin/2026-01-22-repo-setup-ai-suggestions|Repo Setup AI Suggestions]]'
+- '[[Changes/Devin/2026-01-22-various-bug-fixes-and-performance-improvements-across-the-platform|Various
+  bug fixes and performance improvements across the platform]]'
 - '[[Changes/Windsurf/2026-01-23-improved-overall-stability-and-reliability|Improved
   overall stability and reliability]]'
 source_release: '[[Releases/Google Antigravity/google-antigravity-2026-01-24-rel-ide-1-15-8-8da901a6|google-antigravity-2026-01-24-rel-ide-1-15-8-8da901a6]]'

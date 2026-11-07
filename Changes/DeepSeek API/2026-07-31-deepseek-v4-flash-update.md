@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 3ab67cecf559cd2f663fc7a06aa7d0e5bcd304c3b9bad34af4adfa1c8a8e9d64
+machine_hash: 23241d612d68f4f40cc6d134727bc6e52e336ae8470943a720d4ec20a1721ba2
 product: deepseek-api
 product_name: DeepSeek API
 record:
@@ -70,10 +70,10 @@ record:
   title: DeepSeek-V4-Flash Update
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-07-30-discover-available-modal-models-automatically|Discover
-  available Modal models automatically]]'
 - '[[Changes/OpenCode/2026-07-30-desktop-hide-the-model-variant-selector-until-model-data-finishes-loading|Desktop
   Hide the model variant selector until model data finishes loading]]'
+- '[[Changes/Superwhisper/2026-07-30-3-model-support-changes-in-superwhisper-windows-1-5-8|3
+  Model Support changes in Superwhisper Windows 1.5.8]]'
 - '[[Changes/Cline/2026-07-31-legacy-bundle-legacy-extension-3fdc186f1-4-0-12-free-model-button-wording|Legacy
   bundle: legacy-extension @ 3fdc186f1 (4.0.12 + free-model button wording)]]'
 source_release: '[[Releases/DeepSeek API/deepseek-api-2026-07-31-2026-07-31-9665255c|deepseek-api-2026-07-31-2026-07-31-9665255c]]'

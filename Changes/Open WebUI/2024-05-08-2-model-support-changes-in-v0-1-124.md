@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0bca37fd6dc59cdbebacfc3f75e36353d92bd2660fa30ec33259262cb56a97b1
+machine_hash: c228fe9bac8aa71dbadda12f137f012cd88e403415ba0a883e334d51a5ce9fb4
 product: open-webui
 product_name: Open WebUI
 record:
@@ -88,7 +88,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.1.124
 ## Nearby in Model Support
 
 - Earlier: 2024-05-08 · Aider · [[Changes/Aider/2024-05-08-added-native-support-for-deepseek-models-https-aider-chat-docs-llms-html-deepsee|Added native support for Deepseek…]]
-- Later: 2024-05-09 · Dify · [[Changes/Dify/2024-05-09-11-model-support-changes-in-0-6-7|11 Model Support changes in 0.6.7]]
+- Later: 2024-05-08 · Raycast · [[Changes/Raycast/2024-05-08-ai-chat-you-can-now-set-the-default-settings-to-use-when-creating-a-new-chat-hea|AI Chat : You can now set the default settings to use when creating a new chat]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 398696549d91c8012bd3548628c78ed3efd22c61135ac85ac6980d330e85e112
+machine_hash: 6ec0f388927c215514fe98f7e18f6109e9cd5694e97e1b0b663fc95aa4bc8d5d
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -43,12 +43,12 @@ record:
   title: '**Transcript downloads**: The dubbing project menu can download target language…'
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-10-24-large-batches-of-child-agent-results-now-fit-within-a-bounded-completion-message|Large
-  batches of child-agent results now fit within a bounded completion message…]]'
 - '[[Changes/Open WebUI/2026-10-25-13-interface-experience-changes-in-v0-12-4|13 Interface
   Experience changes in v0.12.4]]'
 - '[[Changes/Claude Code/2026-10-26-changed-clicks-on-scrollbar-arrows-and-bars-in-fullscreen-lists-to-act-when-the|Changed
   clicks on scrollbar arrows and bars in fullscreen lists to act…]]'
+- '[[Changes/Devin/2026-10-26-transcript-and-composer-refinements|Transcript and Composer
+  Refinements]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-10-26-2026-10-26-ca7c552d|elevenlabs-2026-10-26-2026-10-26-ca7c552d]]'
 source_type: elevenlabs_changelog
 theme: interface-experience
@@ -98,7 +98,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-10-26 · Claude Code · [[Changes/Claude Code/2026-10-26-changed-clicks-on-scrollbar-arrows-and-bars-in-fullscreen-lists-to-act-when-the|Changed clicks on scrollbar arrows and bars in fullscreen lists to act…]]
+- Earlier: 2026-10-26 · Devin · [[Changes/Devin/2026-10-26-transcript-and-composer-refinements|Transcript and Composer Refinements]]
 - Later: 2026-10-27 · Claude Code · [[Changes/Claude Code/2026-10-27-2-interface-experience-changes-in-v2-1-312|2 Interface Experience changes in v2.1.312]]
 <!-- chronolog:end -->
 

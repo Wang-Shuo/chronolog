@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f353c3de0b6cd3ff165525a1e9694d82e566211af3d07ce6cd58349a06323cfa
+machine_hash: 9784577b1756ed71ff91e9455a588e8a2dc31c6c1b167dade67833c03deed418
 product: cline
 product_name: Cline
 record:
@@ -47,8 +47,7 @@ record:
   title: 3 Apps and Integrations changes in v2.2.0
   type: change
 related_changes:
-- '[[Changes/Lovable/2024-12-03-introducing-feedback-lovable-dev-for-feature-and-integration-request|Introducing
-  feedback.lovable.dev for feature and integration request]]'
+- '[[Changes/Raycast/2024-12-04-manage-auto-quits|Manage Auto Quits]]'
 - '[[Changes/Notion/2024-12-05-get-answers-from-github-beta|Get answers from GitHub
   Beta]]'
 - '[[Changes/Dify/2024-12-09-2-apps-and-integrations-changes-in-0-13-2|2 Apps and

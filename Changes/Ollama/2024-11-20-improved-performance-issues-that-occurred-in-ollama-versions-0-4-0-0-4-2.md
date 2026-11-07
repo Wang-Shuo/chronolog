@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8773b27105ec86b5649da0d612fb3f63a4a94d842807842ded6f9288c942cf19
+machine_hash: aa542fb124f4b9aba7446591a7a5ae81742f60d8b9b0d8963291b545c47a21ba
 product: ollama
 product_name: Ollama
 record:
@@ -41,12 +41,12 @@ record:
   title: Improved performance issues that occurred in Ollama versions 0.4.0-0.4.2
   type: change
 related_changes:
-- '[[Changes/Dify/2024-11-05-3-reliability-and-performance-changes-in-0-11-0|3 Reliability
-  and Performance changes in 0.11.0]]'
 - '[[Changes/Dify/2024-11-11-chore-ci-bring-back-poetry-cache-to-speed-up-ci-jobs-by-bowenliang123-in-https-g|chore(ci):
   bring back poetry cache to speed up CI jobs]]'
 - "[[Changes/Open WebUI/2024-11-19-duckduckgo-rate-limit-fix-addressed-issues-with-duckduckgo-search-integration-en|\U0001F50D
   DuckDuckGo Rate Limit Fix]]"
+- '[[Changes/Superwhisper/2024-11-19-stability-improvements-for-silence-removal|Stability
+  improvements for silence removal]]'
 source_release: '[[Releases/Ollama/ollama-2024-11-20-v0-4-3-github-186520186-6d80ea9b|ollama-2024-11-20-v0-4-3-github-186520186-6d80ea9b]]'
 source_type: github_releases
 theme: reliability-performance
@@ -76,7 +76,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2024-11-19 · Open WebUI · [[Changes/Open WebUI/2024-11-19-duckduckgo-rate-limit-fix-addressed-issues-with-duckduckgo-search-integration-en|🔍 DuckDuckGo Rate Limit Fix]]
+- Earlier: 2024-11-19 · Superwhisper · [[Changes/Superwhisper/2024-11-19-stability-improvements-for-silence-removal|Stability improvements for silence removal]]
 - Later: 2024-11-22 · Open WebUI · [[Changes/Open WebUI/2024-11-22-faster-model-retrieval-implemented-caching-optimizations-for-faster-model-loadin|⚡ Faster Model Retrieval]]
 <!-- chronolog:end -->
 

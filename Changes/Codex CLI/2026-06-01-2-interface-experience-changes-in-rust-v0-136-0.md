@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c73746f217aab61d16e73204c6b3c6657d342fe0e1d7265408f784a2fc573a43
+machine_hash: ad19e04fa192fedceea7fb4b052427ee0438be7c2c304745fb5a961cbc47280f
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,12 +42,11 @@ record:
   title: 2 Interface Experience changes in rust-v0.136.0
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-05-28-terminal-kept-session-navigation-working-while-prompt-modes-are-open|Terminal
-  Kept session navigation working while prompt modes are open]]'
-- '[[Changes/Claude Code/2026-05-29-claude-agents-slash-command-autocomplete-in-the-dispatch-input-now-matches-subst|claude
-  agents: slash-command autocomplete in the dispatch input now matches substrings]]'
+- '[[Changes/Devin/2026-05-29-pr-review-sidebar-restructure|PR Review Sidebar Restructure]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-29-reasoning-effort-picker-respects-model-capabilities-options-not-supported-by-the|Reasoning
   effort picker respects model capabilities]]'
+- '[[Changes/Raycast/2026-05-29-2-interface-experience-changes-in-raycast-ios-1-2-13|2
+  Interface Experience changes in Raycast ios 1.2.13]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-06-01-rust-v0-136-0-github-332669350-976b06b6|codex-cli-2026-06-01-rust-v0-136-0-github-332669350-976b06b6]]'
 source_type: github_releases
 theme: interface-experience
@@ -91,7 +90,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.136.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-05-29 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-29-reasoning-effort-picker-respects-model-capabilities-options-not-supported-by-the|Reasoning effort picker respects model capabilities]]
+- Earlier: 2026-05-29 · Raycast · [[Changes/Raycast/2026-05-29-2-interface-experience-changes-in-raycast-ios-1-2-13|2 Interface Experience changes in Raycast ios 1.2.13]]
 - Later: 2026-06-01 · Open WebUI · [[Changes/Open WebUI/2026-06-01-4-interface-experience-changes-in-v0-9-6|4 Interface Experience changes in v0.9.6]]
 <!-- chronolog:end -->
 

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 5ff8926e6f62cd63fa0cd8609c333cc06eb5c53abbcdf7bc14dc9cf68ae9cc5b
+machine_hash: 58ad8018419e0a32469ad644c62ecf12d8a7aaf8e81ed858dc2991cc2106bd5f
 product: replit
 product_name: Replit
 record:
@@ -80,7 +80,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-05-15 · OpenCode · [[Changes/OpenCode/2026-05-15-2-apps-and-integrations-changes-in-v1-15-0|2 Apps and Integrations changes in v1.15.0]]
-- Later: 2026-05-15 · v0 · [[Changes/v0/2026-05-15-the-built-with-v0-badge-respects-branding-settings-on-deployed-apps-and-the-prev|The "built with v0" badge respects branding settings on deployed apps…]]
+- Later: 2026-05-15 · Superwhisper · [[Changes/Superwhisper/2026-05-15-2-apps-and-integrations-changes-in-superwhisper-macos-2-14-0|2 Apps and Integrations changes in Superwhisper macOS 2.14.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

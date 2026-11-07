@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 81155d05d6c7fbbd9858a3358cd9edff44199c25b7cd1e8f901ed3745f89ea09
+machine_hash: 229b6c49e0ba5c39a9d210313d194a0160c21f8af063d9ffd93ba3890c229e26
 product: notion
 product_name: Notion
 record:
@@ -54,10 +54,9 @@ record:
   title: Always open links in your desktop app
   type: change
 related_changes:
-- '[[Changes/Notion/2022-10-12-interact-with-text-in-images-on-ios|Interact with text
-  in images on iOS]]'
 - '[[Changes/Notion/2022-11-17-jump-to-your-recently-viewed-pages-on-mobile|Jump to
   your recently viewed pages on mobile]]'
+- '[[Changes/Raycast/2022-11-23-macos-shortcuts-improvements|macOS Shortcuts Improvements]]'
 - '[[Changes/Notion/2022-12-15-tabs-in-your-desktop-app|Tabs in your desktop app]]'
 source_release: '[[Releases/Notion/notion-2022-12-15-https-www-notion-com-releases-2022-12-15-5b2f522b|notion-2022-12-15-https-www-notion-com-releases-2022-12-15-5b2f522b]]'
 source_type: notion_changelog
@@ -96,7 +95,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2022-11-17 · Notion · [[Changes/Notion/2022-11-17-jump-to-your-recently-viewed-pages-on-mobile|Jump to your recently viewed pages on mobile]]
+- Earlier: 2022-11-23 · Raycast · [[Changes/Raycast/2022-11-23-macos-shortcuts-improvements|macOS Shortcuts Improvements]]
 - Later: 2023-02-09 · Notion · [[Changes/Notion/2023-02-09-take-quick-notes-on-android|Take quick notes on Android]]
 <!-- chronolog:end -->
 

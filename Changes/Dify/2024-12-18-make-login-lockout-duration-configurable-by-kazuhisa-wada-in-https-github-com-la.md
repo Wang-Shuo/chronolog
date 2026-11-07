@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: bec6a997c0ae4f601ed14daa1579c1758c54fa3ac65dafec4ee36991ed47368e
+machine_hash: 4bcad9502af47aef8afe9cfcb66915ee8e485810fa85b1533c189351e02c3c19
 product: dify
 product_name: Dify
 record:
@@ -42,8 +42,8 @@ record:
   title: make login lockout duration configurable
   type: change
 related_changes:
-- '[[Changes/Dify/2024-11-25-2-account-and-access-changes-in-0-12-0|2 Account and
-  Access changes in 0.12.0]]'
+- '[[Changes/AnythingLLM/2024-11-26-2-account-and-access-changes-in-v1-3-0|2 Account
+  and Access changes in v1.3.0]]'
 - "[[Changes/Open WebUI/2024-11-26-ollama-authentication-corrected-an-issue-with-ollama-s-authorization-headers-gua|\U0001F511
   Ollama Authentication]]"
 - '[[Changes/OpenHands/2024-12-06-updated-initial-sign-in-with-github-modal-by-amanape-in-https-github-com-all-han|Updated

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d72ac4ee44c9b7c90a6dd71fc00b72bf083485ea8badcef7f4b5fcef9fddd51e
+machine_hash: 39c6c08932335648f8bc300f53c5220b84f4d1751816f117884f9a4ec484f9be
 product: cline
 product_name: Cline
 record:
@@ -75,7 +75,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2025-09-11 · Cline · [[Changes/Cline/2025-09-11-5-model-support-changes-in-v3-28-0|5 Model Support changes in v3.28.0]]
-- Later: 2025-09-15 · Codex CLI · [[Changes/Codex CLI/2025-09-15-16-model-support-changes-in-rust-v0-36-0|16 Model Support changes in rust-v0.36.0]]
+- Later: 2025-09-12 · Raycast · [[Changes/Raycast/2025-09-12-ai-hide-ai-models-from-chat-accessible-from-settings|AI: Hide AI models from chat, accessible from settings]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

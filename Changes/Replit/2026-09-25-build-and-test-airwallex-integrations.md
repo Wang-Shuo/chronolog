@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 7400b8d214a0a0dacc6343d938c3799de18c820d27136d7d2229267ade636983
+machine_hash: aaa717c06273382b10a4930338eb15731fbe20d6ac25c82169912347dba45bd4
 product: replit
 product_name: Replit
 record:
@@ -51,8 +51,8 @@ record:
   title: Build and test Airwallex integrations
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-25-9-apps-and-integrations-changes-in-rust-v0-157-0|9
-  Apps and Integrations changes in rust-v0.157.0]]'
+- '[[Changes/Devin/2026-09-25-devin-can-target-a-specific-uploaded-plugin|Devin Can
+  Target a Specific Uploaded Plugin]]'
 - '[[Changes/Lovable/2026-09-25-app-chat-connectors-discord-and-google-business-profile|App
   + chat connectors: Discord and Google Business Profile]]'
 - '[[Changes/OpenHands/2026-09-25-chore-deps-bump-openhands-extensions-to-0-24-0-by-devinvinson-in-https-github-co|chore(deps):

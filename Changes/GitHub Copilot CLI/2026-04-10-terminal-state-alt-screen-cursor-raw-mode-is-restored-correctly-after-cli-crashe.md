@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b378d2ad93802983a7176f721a2855854929cc2d84ba59746b38c3efac37856a
+machine_hash: a38028ee566586b2b5b663db0823f1531e64cdb5124b587283aa4c71b621837f
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,12 +44,11 @@ record:
     CLI…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-09-6-developer-workflow-changes-in-v2-1-98|6 Developer
-  Workflow changes in v2.1.98]]'
 - '[[Changes/OpenCode/2026-04-09-4-developer-workflow-changes-in-v1-4-2-1|4 Developer
   Workflow changes in v1.4.2 + 1]]'
 - '[[Changes/Codex CLI/2026-04-10-28-developer-workflow-changes-in-rust-v0-119-0|28
   Developer Workflow changes in rust-v0.119.0]]'
+- '[[Changes/Devin/2026-04-10-devin-cli-polish|Devin CLI Polish]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-04-10-v1-0-24-github-307762816-30170266|github-copilot-cli-2026-04-10-v1-0-24-github-307762816-30170266]]'
 source_type: github_releases
 theme: developer-workflow
@@ -81,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-04-10 · Codex CLI · [[Changes/Codex CLI/2026-04-10-28-developer-workflow-changes-in-rust-v0-119-0|28 Developer Workflow changes in rust-v0.119.0]]
+- Earlier: 2026-04-10 · Devin · [[Changes/Devin/2026-04-10-devin-cli-polish|Devin CLI Polish]]
 - Later: 2026-04-10 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-10-2-developer-workflow-changes-in-v1-0-23|2 Developer Workflow changes in v1.0.23]]
 <!-- chronolog:end -->
 

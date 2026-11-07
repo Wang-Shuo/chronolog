@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 217421b4a099292b37bd472e7bcc05cf650870fb5b1628b2a1d91c3818101ffb
+machine_hash: 75cf4df46077d196cbc650b8518c3b1a866e536d00a928801decfb3d1faabc80
 product: notion
 product_name: Notion
 record:
@@ -47,10 +47,9 @@ record:
   title: Mute discussion replies
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-07-slash-command-picker-no-longer-flickers-or-shifts-the-input-while-filtering|Slash
-  command picker no longer flickers or shifts the input while filtering]]'
-- '[[Changes/Claude Code/2026-04-08-2-interface-experience-changes-in-v2-1-97|2 Interface
-  Experience changes in v2.1.97]]'
+- '[[Changes/Devin/2026-04-08-consolidated-session-header-menu|Consolidated Session
+  Header Menu]]'
+- '[[Changes/Devin/2026-04-08-refreshed-settings-layout|Refreshed Settings Layout]]'
 - '[[Changes/Gemini CLI/2026-04-08-refine-onboarding-metrics-to-log-the-duration-explicitly-and-use-the-tier-name-b|Refine
   onboarding metrics to log the duration explicitly and use the tier name]]'
 source_release: '[[Releases/Notion/notion-2026-04-08-https-www-notion-com-releases-2026-04-08-702caa04|notion-2026-04-08-https-www-notion-com-releases-2026-04-08-702caa04]]'

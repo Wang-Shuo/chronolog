@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 6543329b0d3abe33baacab13100461e9b9e696c13ddfea9d3c3650330d0a0e15
+machine_hash: 112ce3888507876229f489b49d6a766c5bbbfb66e9c086025123785684515b5d
 product: microsoft-365-copilot
 product_name: Microsoft 365 Copilot
 record:
@@ -94,7 +94,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-08-11 · Cline · [[Changes/Cline/2026-08-11-remove-the-stale-double-check-completion-feature-tip|Remove the stale "Double-Check Completion" feature tip]]
-- Later: 2026-08-13 · Cline · [[Changes/Cline/2026-08-13-use-the-editor-s-foreground-color-for-diff-block-text-so-diffs-stay-legible-in-t|Use the editor's foreground color for diff block text, so diffs stay legible…]]
+- Later: 2026-08-13 · AnythingLLM · [[Changes/AnythingLLM/2026-08-13-this-flow-also-allows-image-attachments-for-edits-followups-or-combination-promp|This flow also allows image attachments for edits, followups, or combination prompts…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

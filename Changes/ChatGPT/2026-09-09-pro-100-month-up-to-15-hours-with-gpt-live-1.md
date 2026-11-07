@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 841eda2fe203957b0d7be9f7e84bcf0fea06066450744b70ca689217acb0c443
+machine_hash: 1a908f9bd4bdc7733e71e76e966c0eb5a0e4cfbb1d1e19c02ea2a00b2a39785d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -79,7 +79,7 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2026-09-08 · OpenClaw · [[Changes/OpenClaw/2026-09-08-4-pricing-model-changes-in-v2026-9-3|4 Pricing Model changes in v2026.9.3]]
-- Later: 2026-09-09 · Synthesia · [[Changes/Synthesia/2026-09-09-purchase-credits-and-set-automatic-top-ups-so-long-running-jobs-don-t-fail-when|Buy credits and set auto top-ups]]
+- Later: 2026-09-09 · Krea · [[Changes/Krea/2026-09-09-postpaid-invoicing-for-enterprise-billing-accounts|Postpaid invoicing for enterprise billing accounts]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

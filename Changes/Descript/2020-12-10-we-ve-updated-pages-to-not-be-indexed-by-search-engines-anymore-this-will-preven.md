@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ef3a9382a9f9471d07d2d54f51024b6fa5279a2e2f3fe59676abe8d14af4ba81
+machine_hash: 7c81607fc0cd7fc9e2a6d62b6495152a6cc9282b3834a6820027e996c66e915c
 product: descript
 product_name: Descript
 record:
@@ -75,7 +75,7 @@ type: change
 ## Nearby in Search and Browsing
 
 - Earlier: 2020-05-28 · Descript · [[Changes/Descript/2020-05-28-added-ability-to-batch-delete-ignore-search-results|Added ability to batch delete/ignore search results]]
-- Later: 2020-12-17 · Descript · [[Changes/Descript/2020-12-17-spot-audition-allows-you-to-automatically-playback-your-search-results-as-you-cy|Spot Audition search results]]
+- Later: 2020-12-10 · Raycast · [[Changes/Raycast/2020-12-10-root-search-results-with-aliases-set-are-downranked-when-the-alias-is-not-matche|Root Search : Results with aliases set are downranked when the alias is not matched]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

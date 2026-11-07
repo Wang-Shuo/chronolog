@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: b77ad643bd34995ce2fcebd8778e9d70247c3a859024a30e5170a5c26c9aede5
+machine_hash: aec7c8b5d8518e0fa649b5511debc18d6cf2535a1f7bd49aa4c091983d7d502e
 product: replit
 product_name: Replit
 record:
@@ -87,7 +87,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2025-06-09 · Ollama · [[Changes/Ollama/2025-06-09-3-mobile-and-desktop-changes-in-v0-9-1|3 Mobile and Desktop changes in v0.9.1]]
-- Later: 2025-06-25 · Descript · [[Changes/Descript/2025-06-25-screen-recorder-on-windows|Screen recorder on Windows]]
+- Later: 2025-06-17 · Raycast · [[Changes/Raycast/2025-06-17-misc-content-is-now-available-in-spotlight-search-you-can-now-search-for-your-fr|Misc : Content is now available in Spotlight search]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

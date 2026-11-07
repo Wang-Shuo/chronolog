@@ -5,20 +5,20 @@ description: "Open WebUI · 2026-08-31 · Accessibility and Localization: \U0001
   **High Contrast Mode is now Accessibility Mode.** The interface setting previously
   called 'High…"
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-09-11-chatgpt-now-supports-a-limited-selection-of-languages-in-the-interface|ChatGPT
-    now supports a limited selection of languages in the interface]]'
+  first_in_tracked: '[[Changes/Raycast/2020-11-19-improved-searching-for-localized-application-and-preference-names|Improved
+    searching for localized application and preference names]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1085
+  lag_days: 2111
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: accessibility-localization
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ef606cc3b7b037a11588acab56d7bb4a1ae74d189941e23a5540b8efa7b44a11
+machine_hash: 6bd7e8b9b977c871f55c84c96946e261650229f412e81da28a4126982a94e6b7
 product: open-webui
 product_name: Open WebUI
 record:
@@ -46,10 +46,9 @@ record:
     setting…"
   type: change
 related_changes:
-- '[[Changes/Dify/2026-08-25-3-accessibility-and-localization-changes-in-1-17-0|3
-  Accessibility and Localization changes in 1.17.0]]'
 - '[[Changes/Open WebUI/2026-08-25-improved-ui-accessibility-a-closed-sidebar-is-no-longer-reachable-by-keyboard-or|♿
   Improved UI accessibility. A closed sidebar is no longer reachable by keyboard…]]'
+- '[[Changes/Devin/2026-08-26-accessibility-improvements|Accessibility Improvements]]'
 - '[[Changes/Google Antigravity/2026-08-26-several-overall-ux-improvements-for-performance-accessibility-and-project-config|Several
   overall UX improvements for performance, accessibility, and project configurations]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-08-31-v0-11-2-github-379534902-6de0950b|open-webui-2026-08-31-v0-11-2-github-379534902-6de0950b]]'
@@ -96,7 +95,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-11 · ChatGPT · [[Changes/ChatGPT/2023-09-11-chatgpt-now-supports-a-limited-selection-of-languages-in-the-interface|ChatGPT now supports a limited selection of languages in the interface]]
+- Earliest same-theme entry in the tracked set: 2020-11-19 · Raycast · [[Changes/Raycast/2020-11-19-improved-searching-for-localized-application-and-preference-names|Improved searching for localized application and preference names]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

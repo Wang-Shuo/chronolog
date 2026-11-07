@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d696d5cdeb811b7be76c832847c852a461f8f1ef1ed66f851504c0eb8baa5aea
+machine_hash: f4799356852faf0f915ffee910ed229098c2a4e6079f07bf87ac5e3e6d88b37c
 product: opencode
 product_name: OpenCode
 record:
@@ -89,7 +89,7 @@ Source: https://opencode.ai/changelog/v1.14.49
 ## Nearby in Model Support
 
 - Earlier: 2026-05-13 · Ollama · [[Changes/Ollama/2026-05-13-nomic-embed-text-now-converts-inputs-to-lowercase-per-the-model-card-where-prior|nomic-embed-text now converts inputs to lowercase per the model card where prior…]]
-- Later: 2026-05-14 · Claude Code · [[Changes/Claude Code/2026-05-14-2-model-support-changes-in-v2-1-142|2 Model Support changes in v2.1.142]]
+- Later: 2026-05-13 · Raycast · [[Changes/Raycast/2026-05-13-ai-settings-added-a-dedicated-page-for-models-with-configurable-defaults|AI Settings : Added a dedicated page for models with configurable defaults]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

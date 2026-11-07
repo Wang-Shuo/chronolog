@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a35045c6d227f32df79df7ac2006d63a09b3cfe0ced4492742022a1420530cfb
+machine_hash: 4c7cbbba7d281866189f58f6d5d729fc271c5a8932e190256021bfb63e4dedee
 product: descript
 product_name: Descript
 record:
@@ -76,7 +76,7 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2021-04-29 · Notion · [[Changes/Notion/2021-04-29-report-page-option|Report page option 🚩]]
-- Later: 2021-07-14 · Notion · [[Changes/Notion/2021-07-14-public-pages-are-now-hosted-at-yourdomain-notion-site|Public pages are now hosted at yourdomain.notion.site]]
+- Later: 2021-07-13 · Raycast · [[Changes/Raycast/2021-07-13-linear-add-support-for-the-new-issue-triage-set-the-triage-status-in-the-create|Linear: Add support for the new Issue Triage]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

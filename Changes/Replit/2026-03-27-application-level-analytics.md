@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 61cb475b229e5a0e21a0cb84c92b5f29118ada23c170df67244c8e1faa86ec63
+machine_hash: f3192244ed9b6956798ffc708f580e4d4388914d2e99b3cc3df41afc8fade203
 product: replit
 product_name: Replit
 record:
@@ -46,12 +46,12 @@ record:
   title: Application-level analytics
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-03-26-bypass-local-sse-event-streaming-in-worker-for-improved-performance|Bypass
-  local SSE event streaming in worker for improved performance]]'
 - '[[Changes/Dify/2026-03-27-2-reliability-and-performance-changes-in-1-13-3|2 Reliability
   and Performance changes in 1.13.3]]'
 - '[[Changes/Ollama/2026-03-27-ollama-on-apple-silicon-is-now-built-https-ollama-com-blog-mlx-on-top-of-apple-s|Ollama
   on Apple silicon is now built((source link) on top…]]'
+- '[[Changes/Raycast/2026-03-27-file-search-using-a-new-indexing-engine-for-faster-search-results-and-more-filte|File
+  Search: Using a new indexing engine for faster search results and more…]]'
 source_release: '[[Releases/Replit/replit-2026-03-27-2026-03-27-94673ef3|replit-2026-03-27-2026-03-27-94673ef3]]'
 source_type: replit_changelog
 theme: reliability-performance
@@ -78,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-03-27 · Ollama · [[Changes/Ollama/2026-03-27-ollama-on-apple-silicon-is-now-built-https-ollama-com-blog-mlx-on-top-of-apple-s|Ollama on Apple silicon is now built((source link) on top…]]
+- Earlier: 2026-03-27 · Raycast · [[Changes/Raycast/2026-03-27-file-search-using-a-new-indexing-engine-for-faster-search-results-and-more-filte|File Search: Using a new indexing engine for faster search results and more…]]
 - Later: 2026-03-29 · OpenCode · [[Changes/OpenCode/2026-03-29-core-improve-app-startup-performance|Core Improve app startup performance]]
 <!-- chronolog:end -->
 

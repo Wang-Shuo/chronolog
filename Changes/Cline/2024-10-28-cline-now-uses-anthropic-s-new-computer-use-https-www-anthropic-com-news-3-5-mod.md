@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 21a97377ff93608c70149089099b2a63d64de65c6e90b163f678155aea14a299
+machine_hash: cc14bed71633bc999e32f66c30c93bbb72bae00f869e296a273c3eb1d92b3cb5
 product: cline
 product_name: Cline
 record:
@@ -63,8 +63,8 @@ record:
   title: Cline now uses Anthropic's new…
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2024-10-24-2-model-support-changes-in-v0-3-33|2 Model Support
-  changes in v0.3.33]]'
+- '[[Changes/AnythingLLM/2024-10-25-3-model-support-changes-in-v1-2-4|3 Model Support
+  changes in v1.2.4]]'
 - "[[Changes/Open WebUI/2024-10-26-merged-response-loss-in-multi-model-chats-addressed-an-issue-where-responses-in|\U0001F517
   Merged Response Loss in Multi-Model Chats]]"
 - '[[Changes/Open WebUI/2024-10-26-3-model-support-changes-in-v0-3-34|3 Model Support

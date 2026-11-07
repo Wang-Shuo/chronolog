@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: policy
-machine_hash: 49a13820ccd1c171f0d1f1d1a5eb149cb9fe3522e62950f3ff5cbe9fba960f63
+machine_hash: d4f2f7eb8a5267260c4ecea8f4cf4f0ef83d557e3b256e1e93b49c2be238b496
 product: open-webui
 product_name: Open WebUI
 record:
@@ -57,10 +57,10 @@ record:
   title: "**\U0001F50D DuckDuckGo Rate Limit Fix**"
   type: change
 related_changes:
-- '[[Changes/Dify/2024-10-28-improved-file-handling-in-http-requests-your-http-requests-within-workflows-are|Improved
-  File Handling in HTTP Requests: Your HTTP requests within workflows…]]'
 - '[[Changes/Dify/2024-11-05-3-reliability-and-performance-changes-in-0-11-0|3 Reliability
   and Performance changes in 0.11.0]]'
+- '[[Changes/Superwhisper/2024-11-08-faster-event-handling-and-performance-improvements|Faster
+  event handling and performance improvements]]'
 - '[[Changes/Dify/2024-11-11-chore-ci-bring-back-poetry-cache-to-speed-up-ci-jobs-by-bowenliang123-in-https-g|chore(ci):
   bring back poetry cache to speed up CI jobs]]'
 source_release: '[[Releases/Open WebUI/open-webui-2024-11-19-v0-4-0-github-186297307-d3ef790f|open-webui-2024-11-19-v0-4-0-github-186297307-d3ef790f]]'
@@ -104,7 +104,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2024-11-11 · Dify · [[Changes/Dify/2024-11-11-chore-ci-bring-back-poetry-cache-to-speed-up-ci-jobs-by-bowenliang123-in-https-g|chore(ci): bring back poetry cache to speed up CI jobs]]
-- Later: 2024-11-20 · Ollama · [[Changes/Ollama/2024-11-20-improved-performance-issues-that-occurred-in-ollama-versions-0-4-0-0-4-2|Improved performance issues that occurred in Ollama versions 0.4.0-0.4.2]]
+- Later: 2024-11-19 · Superwhisper · [[Changes/Superwhisper/2024-11-19-stability-improvements-for-silence-removal|Stability improvements for silence removal]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

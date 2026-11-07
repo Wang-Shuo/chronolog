@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3f54a11cd32c19b003601d2a15c5bc87584f683ee9fc27f131dfab13c16d7009
+machine_hash: 91f29b5f0ec60be51d30c9e9739cc23558d2a4385d44c664eb8849c85b9dc55d
 product: cursor
 product_name: Cursor
 record:
@@ -44,11 +44,11 @@ record:
   title: Multiple Command-K, Copilot++ UI
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-12-14-we-made-copilot-faster-smarter-more-constrained-and-switched-to-a-ghost-text-hit|Copilot++
-  Improvements]]'
 - '[[Changes/Cursor/2023-12-16-update-0-20-1-0-20-2-we-added-tldrs-to-make-it-easier-to-sort-through-the-bugs-f|UPDATE
   (0.20.1-0.20.2): We added TLDRs to make it easier to sort through the bugs…]]'
 - '[[Changes/Notion/2023-12-20-upgrades-to-web-publishing|Upgrades to web publishing]]'
+- '[[Changes/Superwhisper/2023-12-26-enabled-cmd-v-paste-shortcut-into-prompt-editor|Enabled
+  cmd + v paste shortcut into prompt editor]]'
 source_release: '[[Releases/Cursor/cursor-2023-12-29-0-21-0-https-cursor-com-changelog-0-21-0-9a36334f|cursor-2023-12-29-0-21-0-https-cursor-com-changelog-0-21-0-9a36334f]]'
 source_type: cursor_changelog
 theme: editor-experience
@@ -75,7 +75,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2023-12-20 · Notion · [[Changes/Notion/2023-12-20-upgrades-to-web-publishing|Upgrades to web publishing]]
+- Earlier: 2023-12-26 · Superwhisper · [[Changes/Superwhisper/2023-12-26-enabled-cmd-v-paste-shortcut-into-prompt-editor|Enabled cmd + v paste shortcut into prompt editor]]
 - Later: 2023-12-30 · Cursor · [[Changes/Cursor/2023-12-30-cursor-is-now-based-on-vs-code-1-85-1-which-among-other-things-includes-floating|VS Code 1.85.1]]
 <!-- chronolog:end -->
 

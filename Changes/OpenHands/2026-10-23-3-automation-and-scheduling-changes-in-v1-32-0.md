@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0a24dcfa94bbee4590f2bfed423cd46e170cbaec73ca1bc358dc374bc7c6e994
+machine_hash: 36278b3d0c93265f1393ea9aa44995fb6122a2793e9777f6835ececb35ff2895
 product: openhands
 product_name: OpenHands
 record:
@@ -48,10 +48,10 @@ record:
   title: 3 Automation and Scheduling changes in v1.32.0
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-10-22-feat-automations-hide-the-github-token-secret-field-on-self-hosted-instances-whe|feat(automations):
-  hide the GitHub token secret field on self-hosted instances…]]'
-- '[[Changes/OpenHands/2026-10-22-feat-automations-reflect-the-built-in-integration-s-connection-state-in-the-setu|feat(automations):
-  reflect the built-in integration''s connection state in the setup…]]'
+- '[[Changes/Devin/2026-10-23-playbooks-are-moving-to-skills|Playbooks Are Moving
+  to Skills]]'
+- '[[Changes/Devin/2026-10-23-github-issue-assignment-triggers-and-devin-prefix-filter|GitHub
+  Issue Assignment Triggers and @Devin-prefix Filter]]'
 - '[[Changes/Dify/2026-10-23-2-automation-and-scheduling-changes-in-1-18-0|2 Automation
   and Scheduling changes in 1.18.0]]'
 source_release: '[[Releases/OpenHands/openhands-2026-10-23-v1-32-0-github-421408191-d358ba87|openhands-2026-10-23-v1-32-0-github-421408191-d358ba87]]'

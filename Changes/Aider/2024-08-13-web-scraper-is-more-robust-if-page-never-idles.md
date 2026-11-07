@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0455fd32cab99b211ff8056552dab0d5606603841e72a3d1960893d54e752ead
+machine_hash: 98f4627e093620ed4a1319084614a8034cbd036cabc0ff5be18d768966a055af
 product: aider
 product_name: Aider
 record:
@@ -42,12 +42,12 @@ record:
   title: Web scraper is more robust if page never idles
   type: change
 related_changes:
-- '[[Changes/Ollama/2024-08-06-numa-support-will-now-be-autodetected-by-ollama-to-improve-performance|NUMA
-  support will now be autodetected by Ollama to improve performance]]'
 - '[[Changes/Aider/2024-08-10-performance-improvements-for-repo-map-calculation|Performance
   improvements for repo map calculation]]'
 - '[[Changes/Ollama/2024-08-11-ollama-will-now-provide-an-error-instead-of-crashing-on-windows-when-running-mod|Ollama
   will now provide an error instead of crashing on Windows when running models…]]'
+- '[[Changes/Superwhisper/2024-08-12-faster-history-window-load-time|Faster history
+  window load time]]'
 source_release: '[[Releases/Aider/aider-2024-08-13-v0-50-0-github-170044522-4391dc3d|aider-2024-08-13-v0-50-0-github-170044522-4391dc3d]]'
 source_type: github_releases
 theme: reliability-performance
@@ -80,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2024-08-11 · Ollama · [[Changes/Ollama/2024-08-11-ollama-will-now-provide-an-error-instead-of-crashing-on-windows-when-running-mod|Ollama will now provide an error instead of crashing on Windows when running models…]]
+- Earlier: 2024-08-12 · Superwhisper · [[Changes/Superwhisper/2024-08-12-faster-history-window-load-time|Faster history window load time]]
 - Later: 2024-08-13 · Ollama · [[Changes/Ollama/2024-08-13-ollama-will-now-import-gguf-files-faster-by-minimizing-file-copies|Ollama will now import GGUF files faster by minimizing file copies]]
 <!-- chronolog:end -->
 

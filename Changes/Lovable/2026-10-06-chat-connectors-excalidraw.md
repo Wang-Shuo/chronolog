@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: b5c1f28e035000ac4964fcee5f824fa90a7ef21233c4a4f0cde067a8f0985750
+machine_hash: 2c19852620866af1be34bb9456b83d631f8cb07d25f90cd12e0690ca01bd3bd7
 product: lovable
 product_name: Lovable
 record:
@@ -47,10 +47,10 @@ record:
   title: 'Chat connectors: Excalidraw+'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-10-05-5-apps-and-integrations-changes-in-v1-0-92|5
-  Apps and Integrations changes in v1.0.92]]'
-- '[[Changes/Lovable/2026-10-05-app-chat-connectors-beehiiv-and-ramp|App + chat connectors:
-  beehiiv and Ramp]]'
+- '[[Changes/Raycast/2026-10-05-extensions-clarified-how-uninstalling-an-extension-affects-its-settings-and-data|Extensions
+  : Clarified how uninstalling an extension affects its settings and data…]]'
+- '[[Changes/Raycast/2026-10-05-extensions-clarified-how-uninstalling-an-extension-affects-its-settings-and-data-af387a|Extensions
+  : Clarified how uninstalling an extension affects its settings and data…]]'
 - '[[Changes/Claude Code/2026-10-06-9-apps-and-integrations-changes-in-v2-1-292|9
   Apps and Integrations changes in v2.1.292]]'
 source_release: '[[Releases/Lovable/lovable-2026-10-06-2026-10-06-b5a5d383|lovable-2026-10-06-2026-10-06-b5a5d383]]'

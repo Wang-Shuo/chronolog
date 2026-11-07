@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f4fb652fe20fd075cd982772067c88cdabb5c5871d12f99c34ad3c406a1eb7eb
+machine_hash: 1b83993296cb00908ebeae6b81fed51de595d4f1b129773429060dfe4c1af3d5
 product: descript
 product_name: Descript
 record:
@@ -46,10 +46,9 @@ record:
   title: The escape key no longer resets your Tool selection
   type: change
 related_changes:
-- '[[Changes/Gemini/2023-11-16-bard-is-available-for-more-age-groups|Bard is available
-  for more age groups]]'
-- '[[Changes/Cursor/2023-11-27-copilot-improvements-we-ve-spent-some-time-improving-the-latency-of-copilot-and|Copilot++
-  Improvements: We''ve spent some time improving the latency…]]'
+- '[[Changes/Superwhisper/2023-11-28-new-settings-design|New settings design]]'
+- '[[Changes/Superwhisper/2023-11-29-disable-arrow-key-navigation-when-download-or-prompt-edit-modals-are-open|Disable
+  arrow key navigation when download or prompt edit modals are open]]'
 - '[[Changes/Descript/2023-12-05-ai-action-groups|AI Action groups]]'
 source_release: '[[Releases/Descript/descript-2023-12-05-656e26a9b35bd6ff6af3afdf-ae239196|descript-2023-12-05-656e26a9b35bd6ff6af3afdf-ae239196]]'
 source_type: canny_changelog
@@ -84,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2023-11-27 · Cursor · [[Changes/Cursor/2023-11-27-copilot-improvements-we-ve-spent-some-time-improving-the-latency-of-copilot-and|Copilot++ Improvements: We've spent some time improving the latency…]]
+- Earlier: 2023-11-29 · Superwhisper · [[Changes/Superwhisper/2023-11-29-disable-arrow-key-navigation-when-download-or-prompt-edit-modals-are-open|Disable arrow key navigation when download or prompt edit modals are open]]
 - Later: 2023-12-06 · Cursor · [[Changes/Cursor/2023-12-06-minor-onboarding-changes-19f3e5|Onboarding & Feedback]]
 <!-- chronolog:end -->
 

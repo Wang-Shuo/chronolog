@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: video-generation
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 829daae5b92e4c3bc6696def23065b02c32e906442b358da682bda36ebc80218
+machine_hash: c5464ce111b95fe719b5b5ee93b86280dc7518baa0e971a4336aad95998056fb
 product: runway
 product_name: Runway
 record:
@@ -59,12 +59,12 @@ record:
   title: Timeline in Agent
   type: change
 related_changes:
-- '[[Changes/HeyGen/2026-06-24-look-packs-is-now-available-inside-heygen-it-takes-a-single-face-upload-and-gene|Look
-  Packs is now available inside HeyGen]]'
 - '[[Changes/Runway/2026-06-30-generate-and-edit-video-with-gemini-omni-flash-now-in-runway-start-with-a-prompt|Gemini
   Omni Flash]]'
 - '[[Changes/Synthesia/2026-06-30-generate-and-edit-video-from-text-image-and-audio-with-gemini-omni-flash-google|Early
   access: Gemini Omni Flash live in Synthesia]]'
+- '[[Changes/Recraft/2026-07-01-we-ve-added-gemini-omni-flash-for-video-generation-in-recraft-studio-available-t|Recraft
+  adds Gemini Omni Flash for video generation in Recraft Studio]]'
 source_release: '[[Releases/Runway/runway-2026-07-09-2026-07-09-timeline-in-agent-b24e8204|runway-2026-07-09-2026-07-09-timeline-in-agent-b24e8204]]'
 source_type: runway_changelog
 theme: video-generation
@@ -91,7 +91,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Video Generation
 
-- Earlier: 2026-06-30 · Synthesia · [[Changes/Synthesia/2026-06-30-generate-and-edit-video-from-text-image-and-audio-with-gemini-omni-flash-google|Early access: Gemini Omni Flash live in Synthesia]]
+- Earlier: 2026-07-01 · Recraft · [[Changes/Recraft/2026-07-01-we-ve-added-gemini-omni-flash-for-video-generation-in-recraft-studio-available-t|Recraft adds Gemini Omni Flash for video generation in Recraft Studio]]
 - Later: 2026-07-13 · OpenClaw · [[Changes/OpenClaw/2026-07-13-after-one-generated-video-clip-is-ready-a-different-next-clip-can-start-immediat|After one generated video clip is ready, a different next clip can start immediately…]]
 <!-- chronolog:end -->
 

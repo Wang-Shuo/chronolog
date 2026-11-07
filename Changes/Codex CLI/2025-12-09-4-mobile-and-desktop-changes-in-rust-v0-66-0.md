@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8577b912e644c1dc89ee84286af037a0bde93d3328ba10870860823be85afaa2
+machine_hash: df947a28455156d0cf0a0618f7ec0ca0763cc97a7e3c510fab92d4c0be884134
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -47,8 +47,8 @@ record:
   title: 4 Mobile and Desktop changes in rust-v0.66.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-12-02-execution-gains-an-experimental-exp-model-unified-exec-pruning-to-limit-session|Execution
-  gains an experimental “exp” model, unified exec pruning to limit session…]]'
+- '[[Changes/Raycast/2025-12-05-misc-glassified-toast-message-to-match-ios-26|Misc:
+  Glassified toast message to match iOS 26]]'
 - '[[Changes/ElevenLabs/2025-12-08-android-sdk|Android SDK]]'
 - '[[Changes/ElevenLabs/2025-12-08-ios-sdk|iOS SDK]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-12-09-rust-v0-66-0-github-268559734-698ec8f9|codex-cli-2025-12-09-rust-v0-66-0-github-268559734-698ec8f9]]'

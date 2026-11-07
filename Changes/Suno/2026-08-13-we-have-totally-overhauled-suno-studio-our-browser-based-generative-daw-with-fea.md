@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: eb11f54d2f9207ccec58f70c06eab939b90f5ed813b22397265b6ae22840f6cd
+machine_hash: f028ed04090227bbab7685251271ec2f20e2a07cb2166e425930c8a1a84b57da
 product: suno
 product_name: Suno
 record:
@@ -43,11 +43,12 @@ record:
   title: We have totally overhauled Suno Studio, our browser-based generative DAW…
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-08-10-voices|Voices]]'
-- '[[Changes/Runway/2026-08-10-tool-mode-and-edit-studio-now-let-you-export-gen-4-5-and-aleph-2-generations-as|ProRes
-  / PNG Sequence Export]]'
+- '[[Changes/Superwhisper/2026-08-10-elevenlabs-scribe-real-time-no-voice-found-fix|Elevenlabs
+  Scribe real-time "no voice found" fix]]'
 - '[[Changes/HeyGen/2026-08-11-videos-that-look-and-sound-like-you-with-your-face-your-voice-and-your-market-kn|Videos
   that look and sound like you, with your face, your voice, and your market…]]'
+- '[[Changes/AnythingLLM/2026-08-13-add-input-audio-support-for-audio-attachments-on-generic-openai-provider-by-shat|Add
+  input_audio support for audio attachments on generic OpenAI provider]]'
 source_release: '[[Releases/Suno/suno-2026-08-13-e-studio-2-36efe33d|suno-2026-08-13-e-studio-2-36efe33d]]'
 source_type: suno_changelog
 theme: voice
@@ -80,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-08-11 · HeyGen · [[Changes/HeyGen/2026-08-11-videos-that-look-and-sound-like-you-with-your-face-your-voice-and-your-market-kn|Videos that look and sound like you, with your face, your voice, and your market…]]
+- Earlier: 2026-08-13 · AnythingLLM · [[Changes/AnythingLLM/2026-08-13-add-input-audio-support-for-audio-attachments-on-generic-openai-provider-by-shat|Add input_audio support for audio attachments on generic OpenAI provider]]
 - Later: 2026-08-14 · ChatGPT · [[Changes/ChatGPT/2026-08-14-switch-between-typing-and-dictation-the-dictation-button-stays-available-after-y|Switch between typing and dictation]]
 <!-- chronolog:end -->
 

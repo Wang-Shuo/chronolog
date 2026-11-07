@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 578e93f50187326ffb90e90372c21d3d9d7ac84f0bbab7448011c04c879c5076
+machine_hash: cd1af8992919b0ab5e790b3fb1cbc702a15530dc5ce48a340c24a658f7df9e37
 product: claude-code
 product_name: Claude Code
 record:
@@ -53,8 +53,8 @@ record:
   title: 5 Developer Workflow changes in v2.1.84
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-23-2-developer-workflow-changes-in-v1-0-11|2
-  Developer Workflow changes in v1.0.11]]'
+- '[[Changes/Devin/2026-03-24-streaming-shell-output-in-worklog|Streaming Shell Output
+  in Worklog]]'
 - '[[Changes/Gemini CLI/2026-03-24-feat-skills-improve-async-pr-review-workflow-and-logging-by-mattkorwel-in-https|feat(skills):
   improve async-pr-review workflow and logging]]'
 - '[[Changes/Open WebUI/2026-03-25-34-developer-workflow-changes-in-v0-8-11|34 Developer

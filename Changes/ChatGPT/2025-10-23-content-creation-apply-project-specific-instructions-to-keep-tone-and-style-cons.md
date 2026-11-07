@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d8fce275faca8669aa4f053acf746023ecef97d9e8a8db0fd42273df9ca9c87e
+machine_hash: 91d2f1f61867cea8e6281b25569f9aa5af4ddacb7a6425316bbf7b1f7c86a9f5
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -44,10 +44,10 @@ record:
   title: 'Content creation: Apply project-specific instructions to keep tone and style…'
   type: change
 related_changes:
-- '[[Changes/Replit/2025-10-10-support-seat-access-for-teams|Support seat access for
-  teams]]'
 - '[[Changes/Descript/2025-10-14-join-ceo-laura-and-the-team-for-a-live-demonstration-of-descript-s-generative-vi|Join
   CEO Laura and the team for a live demonstration of Descript''s generative video…]]'
+- '[[Changes/Devin/2025-10-17-steerable-wiki-for-github-and-gitlab|Steerable Wiki
+  for GitHub and Gitlab]]'
 - '[[Changes/Midjourney/2025-10-17-for-the-next-three-weekends-we-re-renting-a-big-catamaran-sailboat-to-take-midjo|Midjourney
   sailboat trips]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-10-23-shared-projects-217fa07d|chatgpt-2025-10-23-shared-projects-217fa07d]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 28eae1bbbbf0aac74e21ba144ceb325d873e283f0b0b05bc6cb46faf214bae68
+machine_hash: e3806da29f7cae271d54e4962cd510750f60839a9f536dec730029bec87316be
 product: cline
 product_name: Cline
 record:
@@ -60,10 +60,10 @@ record:
     old file…
   type: change
 related_changes:
-- '[[Changes/Dify/2025-03-24-feat-add-datasets-detail-context-and-provider-for-improved-data-vali-by-wtw0313|feat:
-  add datasets detail context and provider for improved data vali…]]'
 - '[[Changes/Aider/2025-03-25-added-a-new-context-command-that-automatically-identifies-which-files-need-to-be|Added
   a new /context command that automatically identifies which files need…]]'
+- '[[Changes/LM Studio/2025-03-27-2-context-window-changes-in-lm-studio-0-3-14|2 Context
+  Window changes in LM Studio 0.3.14]]'
 - '[[Changes/Gemini/2025-03-29-our-2-5-pro-experimental-model-is-now-available-to-all-gemini-users-with-canvas|Our
   2.5 Pro (experimental) model is now available to all Gemini users, with Canvas]]'
 source_release: '[[Releases/Cline/cline-2025-04-08-v3-10-0-github-211156875-766b3847|cline-2025-04-08-v3-10-0-github-211156875-766b3847]]'

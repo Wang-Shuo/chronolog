@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: video-generation
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 9eb854739fc18c3b1bd5e2e46f231fb9416b6f63d22f2d24f5a809f0aeac304b
+machine_hash: 9c0f298d0603de00192b01388922d320472bf773eac4d86e284baed610946f8a
 product: descript
 product_name: Descript
 record:
@@ -105,7 +105,7 @@ type: change
 ## Nearby in Video Generation
 
 - Earlier: 2026-03-02 · HeyGen · [[Changes/HeyGen/2026-03-02-you-can-now-access-heygen-s-ai-video-capabilities-directly-on-fal-s-generative-m|Access HeyGen's AI video capabilities directly on fal’s generative media platform…]]
-- Later: 2026-04-02 · HeyGen · [[Changes/HeyGen/2026-04-02-cinematic-avatar-scenes|Cinematic avatar scenes]]
+- Later: 2026-03-20 · Recraft · [[Changes/Recraft/2026-03-20-we-ve-added-video-generation-to-recraft|Video generation now available]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

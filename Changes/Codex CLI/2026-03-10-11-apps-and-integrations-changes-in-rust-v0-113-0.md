@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0f4fd88c0be77e065b770391e50c416a8332d8fdc5273252bebf7c71b8585547
+machine_hash: bdc1767943d83efe74e241197cf1b22dc7bd8f0cfc72c93816adf121b0fb019b
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -64,8 +64,8 @@ record:
   title: 11 Apps and Integrations changes in rust-v0.113.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-09-4-apps-and-integrations-changes-in-v1-0-3|4
-  Apps and Integrations changes in v1.0.3]]'
+- '[[Changes/Raycast/2026-03-09-3-apps-and-integrations-changes-in-raycast-windows-0-48|3
+  Apps and Integrations changes in Raycast windows 0.48]]'
 - '[[Changes/Windsurf/2026-03-09-mcp|MCP]]'
 - '[[Changes/Claude Code/2026-03-10-3-apps-and-integrations-changes-in-v2-1-72|3 Apps
   and Integrations changes in v2.1.72]]'

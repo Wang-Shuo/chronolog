@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c4233adbecdf262734c73dc335d017f8dbcb3edd836b767c6d6a6f32ca0c936d
+machine_hash: c93c33139bc6765872155d8f5c66c095b7ff7c3bf7a75a7881d8769c4740b626
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -53,12 +53,12 @@ record:
   title: 6 Model Support changes in rust-v0.123.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-22-2-model-support-changes-in-v2-1-117|2 Model Support
-  changes in v2.1.117]]'
 - '[[Changes/Cline/2026-04-22-onboarding-flow-now-uses-dynamically-fetched-recommended-models-instead-of-a-har|Onboarding
   flow now uses dynamically fetched recommended models instead…]]'
 - '[[Changes/Ollama/2026-04-22-mlx-runner-adds-logprobs-support-for-compatible-models|MLX
   runner adds logprobs support for compatible models]]'
+- '[[Changes/Superwhisper/2026-04-22-4-model-support-changes-in-superwhisper-windows-1-3-9|4
+  Model Support changes in Superwhisper Windows 1.3.9]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-04-23-rust-v0-123-0-github-312509536-cebe4f18|codex-cli-2026-04-23-rust-v0-123-0-github-312509536-cebe4f18]]'
 source_type: github_releases
 theme: model-support
@@ -110,7 +110,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.123.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-04-22 · Ollama · [[Changes/Ollama/2026-04-22-mlx-runner-adds-logprobs-support-for-compatible-models|MLX runner adds logprobs support for compatible models]]
+- Earlier: 2026-04-22 · Superwhisper · [[Changes/Superwhisper/2026-04-22-4-model-support-changes-in-superwhisper-windows-1-3-9|4 Model Support changes in Superwhisper Windows 1.3.9]]
 - Later: 2026-04-23 · Codex CLI · [[Changes/Codex CLI/2026-04-23-4-model-support-changes-in-rust-v0-124-0|4 Model Support changes in rust-v0.124.0]]
 <!-- chronolog:end -->
 

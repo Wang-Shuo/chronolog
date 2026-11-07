@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 482a3705c4a1f1c9380dbc43b66e6691c44a1564412f6842324166a87134652b
+machine_hash: 1b01d5dcdc4c86f72402af7b5a275d8268912ed55a3cb8ae8f617b21831af146
 product: openhands
 product_name: OpenHands
 record:
@@ -56,9 +56,10 @@ record:
   title: Enabled users to provide feedback on agent performance even when the agent…
   type: change
 related_changes:
-- '[[Changes/Replit/2025-06-13-infrastructure-improvements|Infrastructure improvements]]'
 - '[[Changes/Open WebUI/2025-06-16-4-reliability-and-performance-changes-in-v0-6-15|4
   Reliability and Performance changes in v0.6.15]]'
+- '[[Changes/Raycast/2025-06-20-calculator-improved-speed-and-performance|Calculator:
+  Improved speed and performance]]'
 - '[[Changes/Replit/2025-06-20-python-run-performance-improvements|Python run performance
   improvements]]'
 source_release: '[[Releases/OpenHands/openhands-2025-06-24-0-46-0-github-227487806-26e67ef7|openhands-2025-06-24-0-46-0-github-227487806-26e67ef7]]'

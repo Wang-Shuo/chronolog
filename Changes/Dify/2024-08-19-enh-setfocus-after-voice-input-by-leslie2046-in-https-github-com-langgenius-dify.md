@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 55f86a3365076f0463b1a11bfd0e088cb3efdf2bdcb58db1e74706353a09b25e
+machine_hash: 58448773ff7801463fbd06687fc884bf65f3fc2f2b9601611a104a569f52704f
 product: dify
 product_name: Dify
 record:
@@ -82,7 +82,7 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2024-08-14 · Dify · [[Changes/Dify/2024-08-14-chore-allow-download-audio-video-through-http-node-by-hjlarry-in-https-github-co|chore: allow download audio/video through HTTP node]]
-- Later: 2024-09-04 · Aider · [[Changes/Aider/2024-09-04-catch-voice-transcription-exceptions-show-the-wav-file-so-the-user-can-recover-i|Catch /voice transcription exceptions, show the WAV file so the user can recover it]]
+- Later: 2024-08-30 · Superwhisper · [[Changes/Superwhisper/2024-08-30-make-new-audio-engine-the-default-engine|Make new audio engine the default engine]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

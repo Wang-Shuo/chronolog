@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a388db9fad9b29cc23488e0de24f7868d174436892762d8f9dbcbe26c7bd3914
+machine_hash: cd92e07a3fb14842a2f57d99b444584c25bb08d2fcc51afa824fddf5dca0cdf8
 product: openclaw
 product_name: OpenClaw
 record:
@@ -50,12 +50,12 @@ record:
   title: 2 Account and Access changes in v2026.9.8
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-01-added-url-prompts-from-mcp-servers-on-the-2025-11-25-protocol-for-example-to-sig|Added
-  URL prompts from MCP servers on the 2025-11-25 protocol, for example to sign in]]'
-- '[[Changes/Codex CLI/2026-10-01-2-account-and-access-changes-in-rust-v0-160-0|2
-  Account and Access changes in rust-v0.160.0]]'
 - '[[Changes/Claude Code/2026-10-02-added-a-re-authenticate-prompt-when-an-mcp-server-asks-for-more-oauth-scope-duri|Added
   a re-authenticate prompt when an MCP server asks for more OAuth scope during…]]'
+- '[[Changes/Devin/2026-10-02-bitbucket-data-center-oauth-apps|Bitbucket Data Center
+  OAuth Apps]]'
+- '[[Changes/Devin/2026-10-02-organization-and-enterprise-mcp-authentication-editors|Organization
+  and Enterprise MCP Authentication Editors]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-10-03-v2026-9-8-0844d8d3|openclaw-2026-10-03-v2026-9-8-0844d8d3]]'
 source_type: openclaw_changelog
 theme: account-access
@@ -95,7 +95,7 @@ Source: https://docs.openclaw.ai/releases/2026.9.8
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-10-02 · Claude Code · [[Changes/Claude Code/2026-10-02-added-a-re-authenticate-prompt-when-an-mcp-server-asks-for-more-oauth-scope-duri|Added a re-authenticate prompt when an MCP server asks for more OAuth scope during…]]
+- Earlier: 2026-10-02 · Devin · [[Changes/Devin/2026-10-02-organization-and-enterprise-mcp-authentication-editors|Organization and Enterprise MCP Authentication Editors]]
 - Later: 2026-10-05 · Claude Code · [[Changes/Claude Code/2026-10-05-3-account-and-access-changes-in-v2-1-290|3 Account and Access changes in v2.1.290]]
 <!-- chronolog:end -->
 

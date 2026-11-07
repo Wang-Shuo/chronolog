@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c87bddb582ef13604e7aeaeeb6385eb40a71a9b2ae7c17d5860e31c13e793c33
+machine_hash: 0e2ea7ed82da14e839ff1f314d635d7004c4797730d6ac7421908d32468e3cae
 product: heygen
 product_name: HeyGen
 record:
@@ -44,12 +44,11 @@ record:
   title: Face, hands, posture, gaze, energy
   type: change
 related_changes:
-- '[[Changes/v0/2026-05-12-3-reliability-and-performance-changes-in-run-terminal-commands-with-v0-faster|3
-  Reliability and Performance changes in Run terminal commands with v0, faster…]]'
-- '[[Changes/Cline/2026-05-13-improve-mention-file-search-performance|Improve @-mention
-  file search performance]]'
-- '[[Changes/Ollama/2026-05-13-2-reliability-and-performance-changes-in-v0-30-0|2
-  Reliability and Performance changes in v0.30.0]]'
+- '[[Changes/Raycast/2026-05-13-ai-chat-improved-startup-performance-of-ai-chat-window|AI
+  Chat : Improved startup performance of AI Chat window]]'
+- '[[Changes/Raycast/2026-05-13-2-reliability-and-performance-changes-in-raycast-windows-0-59|2
+  Reliability and Performance changes in Raycast windows 0.59]]'
+- '[[Changes/Devin/2026-05-17-improved-mention-search|Improved @-Mention Search]]'
 source_release: '[[Releases/HeyGen/heygen-2026-05-18-https-heygen-noticeable-news-publications-introducing-custom-mot-2f2333e6|heygen-2026-05-18-https-heygen-noticeable-news-publications-introducing-custom-mot-2f2333e6]]'
 source_type: heygen_changelog
 theme: reliability-performance
@@ -79,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-05-13 · Ollama · [[Changes/Ollama/2026-05-13-2-reliability-and-performance-changes-in-v0-30-0|2 Reliability and Performance changes in v0.30.0]]
+- Earlier: 2026-05-17 · Devin · [[Changes/Devin/2026-05-17-improved-mention-search|Improved @-Mention Search]]
 - Later: 2026-05-18 · Lovable · [[Changes/Lovable/2026-05-18-speed-tab-the-standalone-speed-tab-has-been-removed-speed-and-lighthouse-checks|Speed tab. The standalone Speed tab has been removed]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: dc353057cb6e2aeeff124176f43929c273e56e324924011eed9b5bede3c0f079
+machine_hash: 53e8fdda1f6fac75100d0aea9e4a72292b1cd1cca6c89d3775800eeb7c28ca02
 product: gamma
 product_name: Gamma
 record:
@@ -59,12 +59,11 @@ record:
   title: Generate up to 50 cards!
   type: change
 related_changes:
-- '[[Changes/Dify/2025-01-07-added-cheaper-and-long-context-models-for-qwen2-5-72b-instruct-and-a-variety-of|Added
-  cheaper and long context models for Qwen2.5-72B-Instruct, and a variety…]]'
-- '[[Changes/Ollama/2025-01-08-granite-3-1-moe-https-ollama-com-library-granite3-1-moe-1b-and-3b-long-context-m|Granite
-  3.1 MoE((source link)]]'
 - '[[Changes/Aider/2025-01-10-increased-max-chat-history-tokens-limit-from-4k-to-8k|Increased
   max chat history tokens limit from 4k to 8k]]'
+- '[[Changes/Devin/2025-01-16-improved-repo-context-we-ve-made-major-improvements-to-devin-s-ability-to-reason|Improved
+  Repo Context]]'
+- '[[Changes/Raycast/2025-01-16-raycast-focus|Raycast Focus]]'
 source_release: '[[Releases/Gamma/gamma-2025-01-22-67914a15dcb2879de9635e2f-3cefd8bc|gamma-2025-01-22-67914a15dcb2879de9635e2f-3cefd8bc]]'
 source_type: gamma_changelog
 theme: context-window
@@ -105,7 +104,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2025-01-10 · Aider · [[Changes/Aider/2025-01-10-increased-max-chat-history-tokens-limit-from-4k-to-8k|Increased max chat history tokens limit from 4k to 8k]]
+- Earlier: 2025-01-16 · Raycast · [[Changes/Raycast/2025-01-16-raycast-focus|Raycast Focus]]
 - Later: 2025-01-23 · Cursor · [[Changes/Cursor/2025-01-23-fusion-model-we-ve-trained-a-new-tab-model-that-is-substantially-better-at-jumps|Fusion Model: We've trained a new Tab Model that is substantially better at jumps…]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0fc4915942da469abb8024b33ed31df802799dc1032bbe8f6a3fac97a31c625e
+machine_hash: aa2f31df3d665a6a245c829155cf5c5db9bf0a923147baf2d2100c39ed5bbcb5
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -44,12 +44,12 @@ record:
   title: 2 Context Window changes in Kimi Code 0.23.0
   type: change
 related_changes:
-- '[[Changes/Kimi Code/2026-07-01-2-context-window-changes-in-kimi-code-0-21-0|2 Context
-  Window changes in Kimi Code 0.21.0]]'
 - '[[Changes/Kimi Code/2026-07-02-2-context-window-changes-in-kimi-code-0-22-1|2 Context
   Window changes in Kimi Code 0.22.1]]'
 - '[[Changes/Kimi Code/2026-07-03-have-context-compaction-notes-capture-a-forward-plan-for-the-remaining-work-upco|Have
   context-compaction notes capture a forward plan for the remaining work]]'
+- '[[Changes/Raycast/2026-07-03-hyper-key-added-secure-input-compatibility-mode-when-enabled-you-can-use-hyper-k|Hyper
+  Key : Added Secure Input Compatibility mode]]'
 source_release: '[[Releases/Kimi Code/kimi-code-2026-07-06-0-23-0-6c09d1f0|kimi-code-2026-07-06-0-23-0-6c09d1f0]]'
 source_type: kimi_code_changelog
 theme: context-window
@@ -87,7 +87,7 @@ Source: https://github.com/MoonshotAI/kimi-code/blob/main/docs/en/release-notes/
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-07-03 · Kimi Code · [[Changes/Kimi Code/2026-07-03-have-context-compaction-notes-capture-a-forward-plan-for-the-remaining-work-upco|Have context-compaction notes capture a forward plan for the remaining work]]
+- Earlier: 2026-07-03 · Raycast · [[Changes/Raycast/2026-07-03-hyper-key-added-secure-input-compatibility-mode-when-enabled-you-can-use-hyper-k|Hyper Key : Added Secure Input Compatibility mode]]
 - Later: 2026-07-06 · OpenHands · [[Changes/OpenHands/2026-07-06-test-pltf-1269-replace-test-should-naming-with-test-verb-noun-context-convention|test: PLTF-1269 replace test_should naming with test_verb_noun_context convention]]
 <!-- chronolog:end -->
 

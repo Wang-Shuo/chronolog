@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: bea1ce1a0e6f027ff965d28831f692c34a38c740e42add977d801b8f808700a6
+machine_hash: 4ed6d1d61ab83bc9140441a9afdfe628a336595db579572c1ba6e7093fb44576
 product: opencode
 product_name: OpenCode
 record:
@@ -43,8 +43,8 @@ record:
   title: Restored markdown rendering for session output by default
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-13-support-j-k-keys-for-up-down-navigation-in-the-diff-view|Support
-  j/k keys for up/down navigation in the /diff view]]'
+- '[[Changes/Raycast/2026-05-13-2-interface-experience-changes-in-raycast-macos-0-59|2
+  Interface Experience changes in Raycast macos 0.59]]'
 - '[[Changes/Descript/2026-05-14-chat-history|Chat history]]'
 - '[[Changes/Descript/2026-05-14-workspaces-drive-sidebar-and-settings-redesigns|Workspaces,
   Drive sidebar, and Settings redesigns]]'
@@ -79,7 +79,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-05-14 · Descript · [[Changes/Descript/2026-05-14-workspaces-drive-sidebar-and-settings-redesigns|Workspaces, Drive sidebar, and Settings redesigns]]
-- Later: 2026-05-15 · OpenCode · [[Changes/OpenCode/2026-05-15-auto-hide-the-menu-bar-on-linux-and-windows|Auto-hide the menu bar on Linux and Windows]]
+- Later: 2026-05-14 · Recraft · [[Changes/Recraft/2026-05-14-dreamier-3d-and-illustrations|Dreamier 3D and illustrations]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

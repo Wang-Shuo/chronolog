@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 9eaacde75d0c1dc9581ff20c7bbf0191ffe3e6e7e280c931f3e00356b3203567
+machine_hash: c0d95f90e099aa1d222ede4e88f96433813ff165aeceb2869b5f5d4c973357e8
 product: descript
 product_name: Descript
 record:
@@ -90,7 +90,7 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2023-09-25 · ChatGPT · [[Changes/ChatGPT/2023-09-25-we-are-beginning-to-roll-out-new-voice-and-image-capabilities-in-chatgpt-they-of|We are beginning to roll out new voice and image capabilities in ChatGPT]]
-- Later: 2023-10-17 · Descript · [[Changes/Descript/2023-10-17-instant-speaker-creation|Instant speaker creation]]
+- Later: 2023-10-11 · Superwhisper · [[Changes/Superwhisper/2023-10-11-realtime-audio-soundwave-visualization|Realtime audio soundwave visualization]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

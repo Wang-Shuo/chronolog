@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d4b659720ff802bdd59610b8f5cad953c64e22e865766b518cc9d8bd8f0a6373
+machine_hash: e38433c0eb6a80c6cb6ae1475ff549679423bd44579bb3f599e575fb81d67b7c
 product: dify
 product_name: Dify
 record:
@@ -41,8 +41,8 @@ record:
   title: 'chore: handle workspace apps scrollbar'
   type: change
 related_changes:
-- '[[Changes/Notion/2023-08-08-new-integrations-and-integration-gallery|New integrations
-  and integration gallery]]'
+- '[[Changes/Raycast/2023-08-09-root-search-improved-app-running-indicator-to-properly-differentiate-between-app|Root
+  Search : Improved app running indicator to properly differentiate between apps…]]'
 - "[[Changes/Ollama/2023-08-10-ollama-langchain-integration-https-python-langchain-com-docs-integrations-llms-o|Ollama
   \U0001F99C️\U0001F517 LangChain…]]"
 - '[[Changes/Dify/2023-08-14-add-ruby-s-sdk-implement-code-by-benjaminx-in-https-github-com-langgenius-dify-p|Add

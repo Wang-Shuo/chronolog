@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: e2d93249b8990d20a4758e8b9712f69c1d2dd7a434b8824a369a726fd111d496
+machine_hash: c81ff099997b34d257371dc31842ca17914bd11947954fdcd6fb006441b07a18
 product: descript
 product_name: Descript
 record:
@@ -48,11 +48,10 @@ record:
   title: Add scene in Script toolbar
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2025-02-05-redesigned-chat-input-ui-enjoy-a-sleeker-and-more-intuitive-message-input-with-i|\U0001F4AC
-  Redesigned Chat Input UI]]"
 - '[[Changes/Aider/2025-02-06-https-aider-chat-history-html|(source link)]]'
 - '[[Changes/Cline/2025-02-09-adds-keyboard-shortcut-cmd-shift-a-to-easily-switch-between-plan-act-mode|Adds
   keyboard shortcut (CMD + Shift + A) to easily switch between Plan/Act mode]]'
+- '[[Changes/Superwhisper/2025-02-10-onboarding-crash-fix|Onboarding Crash Fix]]'
 source_release: '[[Releases/Descript/descript-2025-02-11-67ab977b354800cdb65c181c-b474aa11|descript-2025-02-11-67ab977b354800cdb65c181c-b474aa11]]'
 source_type: canny_changelog
 theme: interface-experience
@@ -87,8 +86,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2025-02-09 · Cline · [[Changes/Cline/2025-02-09-adds-keyboard-shortcut-cmd-shift-a-to-easily-switch-between-plan-act-mode|Adds keyboard shortcut (CMD + Shift + A) to easily switch between Plan/Act mode]]
-- Later: 2025-02-18 · Notion · [[Changes/Notion/2025-02-18-see-who-has-access-to-your-doc|See who has access to your doc 👀]]
+- Earlier: 2025-02-10 · Superwhisper · [[Changes/Superwhisper/2025-02-10-onboarding-crash-fix|Onboarding Crash Fix]]
+- Later: 2025-02-18 · AnythingLLM · [[Changes/AnythingLLM/2025-02-18-chore-onboarding-language-translations-by-timothycarambat-in-https-github-com-mi|CHORE Onboarding language translations]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

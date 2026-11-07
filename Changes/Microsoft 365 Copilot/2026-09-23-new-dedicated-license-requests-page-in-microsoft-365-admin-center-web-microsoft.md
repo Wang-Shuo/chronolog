@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: f38075a666e05151e4bc197882f1d6c619b54a9e07ed879c6f1dc1076e4f4a58
+machine_hash: 77557a87b56833bad074f03f45c65174b2cd789f2dc322ad24b81299ea19a4e6
 product: microsoft-365-copilot
 product_name: Microsoft 365 Copilot
 record:
@@ -48,10 +48,10 @@ record:
   title: New dedicated License Requests page in Microsoft 365 Admin Center…
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-09-21-5-enterprise-and-administration-changes-in-v0-11-4|5
-  Enterprise and Administration changes in v0.11.4]]'
-- '[[Changes/OpenHands/2026-09-22-feat-open-git-sync-to-org-admins-on-cloud-backends-by-hieptl-in-https-github-com|feat:
-  open Git Sync to org admins on cloud backends]]'
+- '[[Changes/Devin/2026-09-23-self-hosted-git-servers-on-non-default-ports|Self-Hosted
+  Git Servers on Non-Default Ports]]'
+- '[[Changes/Devin/2026-09-23-github-app-permissions-update|GitHub App Permissions
+  Update]]'
 - '[[Changes/Microsoft 365 Copilot/2026-09-23-people-skills-removal-and-deletion-admin-control-web-microsoft-365-copilot|People
   Skills - removal and deletion admin control Web (Microsoft 365 Copilot)]]'
 source_release: '[[Releases/Microsoft 365 Copilot/microsoft-365-copilot-2026-09-23-2026-09-23-6719e501|microsoft-365-copilot-2026-09-23-2026-09-23-6719e501]]'
@@ -106,7 +106,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-09-22 · OpenHands · [[Changes/OpenHands/2026-09-22-feat-open-git-sync-to-org-admins-on-cloud-backends-by-hieptl-in-https-github-com|feat: open Git Sync to org admins on cloud backends]]
+- Earlier: 2026-09-23 · Devin · [[Changes/Devin/2026-09-23-github-app-permissions-update|GitHub App Permissions Update]]
 - Later: 2026-09-23 · OpenClaw · [[Changes/OpenClaw/2026-09-23-2-enterprise-and-administration-changes-in-v2026-9-6|2 Enterprise and Administration changes in v2026.9.6]]
 <!-- chronolog:end -->
 

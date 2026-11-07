@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c23ff1856bbcc807f2699866bacb419168c3e4faf4f9445dd520aaa22414c50e
+machine_hash: 1e4414ceaebf84affa92b1e91e766d2dd5d1bb35c0c21aa9eab606ed21f0a23f
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -50,10 +50,10 @@ record:
   title: 4 Interface Experience changes in rust-v0.159.0
   type: change
 related_changes:
-- '[[Changes/Google Antigravity/2026-09-28-you-can-now-delete-any-project-directly-from-the-overflow-menu-in-its-sidebar-he|Delete
-  any project directly from the overflow menu in its sidebar header]]'
-- '[[Changes/Google Antigravity/2026-09-28-3-interface-experience-changes-in-hub-v2-18-1-manage-install-plugins|3
-  Interface Experience changes in HUB v2.18.1 — Manage & Install plugins…]]'
+- '[[Changes/Raycast/2026-09-28-open-with-fixed-the-menu-initially-selecting-an-unrelated-app-before-recommended|Open
+  With… : Fixed the menu initially selecting an unrelated app before recommended…]]'
+- '[[Changes/Raycast/2026-09-28-open-with-fixed-the-menu-initially-selecting-an-unrelated-app-before-recommended-e7ef59|Open
+  With… : Fixed the menu initially selecting an unrelated app before recommended…]]'
 - '[[Changes/Claude Code/2026-09-29-improved-responsiveness-when-leaving-the-ctrl-o-transcript-view-in-long-sessions|Improved
   responsiveness when leaving the ctrl+o transcript view in long sessions…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-09-29-rust-v0-159-0-github-398926954-1ffcd516|codex-cli-2026-09-29-rust-v0-159-0-github-398926954-1ffcd516]]'

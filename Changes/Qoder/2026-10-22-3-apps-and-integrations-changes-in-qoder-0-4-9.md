@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 20f5fdb2524d2b52901effc6edda16893b12626f1be9fd388553d7543b395d2c
+machine_hash: ac3d5fe34e780b67c58ffd02c9a050b462bc7812d57c24180737e386a05a25d1
 product: qoder
 product_name: Qoder
 record:
@@ -97,7 +97,7 @@ Source: https://changelog.qoder.com/app#0.4.9
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-10-22 · OpenHands · [[Changes/OpenHands/2026-10-22-chore-bump-openhands-extensions-to-0-33-0-by-neubig-in-https-github-com-openhand|chore: bump @openhands/extensions to 0.33.0]]
-- Later: 2026-10-23 · Claude Code · [[Changes/Claude Code/2026-10-23-2-apps-and-integrations-changes-in-v2-1-310|2 Apps and Integrations changes in v2.1.310]]
+- Later: 2026-10-22 · Raycast · [[Changes/Raycast/2026-10-22-mcp-added-connection-error-details-to-manage-mcp-servers|MCP : Added connection error details to Manage MCP Servers]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

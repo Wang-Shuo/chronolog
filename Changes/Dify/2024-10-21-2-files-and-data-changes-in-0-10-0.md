@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d4d2c151fdb42518cfe91311a334b63b65ace2064bfe379eaec40cb781a9f7c7
+machine_hash: 6248339d893f5626fc7c44ea4930073e874aab06f0ba07e6f8776981f2474868
 product: dify
 product_name: Dify
 record:
@@ -44,9 +44,10 @@ record:
   title: 2 Files and Data changes in 0.10.0
   type: change
 related_changes:
-- '[[Changes/Notion/2024-09-25-analyze-pdfs-images|Analyze PDFs & images]]'
 - '[[Changes/Dify/2024-09-30-corrected-a-linking-error-in-help-documents-hjlarry-in-8508|Corrected
   a linking error in help documents (@hjlarry in ♯8508)]]'
+- '[[Changes/AnythingLLM/2024-10-03-improve-remove-document-ux-by-shatfield4-in-https-github-com-mintplex-labs-anyth|Improve
+  remove document UX]]'
 - '[[Changes/Open WebUI/2024-10-07-2-files-and-data-changes-in-v0-3-31|2 Files and
   Data changes in v0.3.31]]'
 source_release: '[[Releases/Dify/dify-2024-10-21-0-10-0-github-180976661-70c09171|dify-2024-10-21-0-10-0-github-180976661-70c09171]]'

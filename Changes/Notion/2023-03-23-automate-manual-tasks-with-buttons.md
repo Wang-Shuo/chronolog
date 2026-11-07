@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: ed9066b12f06e3ef3263201b693ed25c6655ba9a8f3488f70c0412a3e761cd0a
+machine_hash: aa1e34b33834a9380030e6270df563e1e1f4a525df6f24c58af90e3f68cba148
 product: notion
 product_name: Notion
 record:
@@ -59,10 +59,11 @@ record:
   title: Automate manual tasks with buttons
   type: change
 related_changes:
-- '[[Changes/Notion/2021-05-13-automate-io-integration|Automate.io integration]]'
-- '[[Changes/Notion/2021-09-08-exciting-news-we-re-acquiring-automate-io|Exciting
-  news! We''re acquiring Automate.io!]]'
 - '[[Changes/Notion/2022-03-03-the-api-is-out-of-beta|The API is out of beta]]'
+- '[[Changes/Raycast/2022-06-07-my-schedule-you-can-now-search-for-events-by-participants-or-only-organizer-if-t|My
+  Schedule: You can now search for events by participants or only organizer if…]]'
+- '[[Changes/Raycast/2022-06-29-my-schedule-searching-for-words-in-long-titles-now-works-as-expected|My
+  Schedule: Searching for words in long titles now works as expected]]'
 source_release: '[[Releases/Notion/notion-2023-03-23-https-www-notion-com-releases-2023-03-23-2385aca7|notion-2023-03-23-https-www-notion-com-releases-2023-03-23-2385aca7]]'
 source_type: notion_changelog
 theme: automation-scheduling
@@ -104,7 +105,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2022-03-03 · Notion · [[Changes/Notion/2022-03-03-the-api-is-out-of-beta|The API is out of beta]]
+- Earlier: 2022-06-29 · Raycast · [[Changes/Raycast/2022-06-29-my-schedule-searching-for-words-in-long-titles-now-works-as-expected|My Schedule: Searching for words in long titles now works as expected]]
 - Later: 2023-05-31 · Notion · [[Changes/Notion/2023-05-31-notifications-to-stay-in-the-loop|Notifications to stay in the loop]]
 <!-- chronolog:end -->
 

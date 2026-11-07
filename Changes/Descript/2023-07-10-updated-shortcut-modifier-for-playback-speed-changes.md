@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8327e0c3747948d098a4d231db8f64be24c4554055ca6df96d97e8e102ce54f7
+machine_hash: 82a70a27cd9f0f7816a12ccb2d1b1ee6ebb23170f6fbbc225e0bf70ead31d94e
 product: descript
 product_name: Descript
 record:
@@ -51,8 +51,8 @@ record:
   title: Updated shortcut modifier for playback speed changes**
   type: change
 related_changes:
-- '[[Changes/Descript/2023-05-31-quicker-default-effects-studio-sound-ducking-and-green-screen-are-default-effect|Quicker
-  default effects]]'
+- '[[Changes/Raycast/2023-07-06-ai-chat-performance-improvements-when-loading-the-chat-actions-menu|AI
+  Chat: Performance improvements when loading the chat actions menu]]'
 - '[[Changes/Aider/2023-07-08-more-robust-handling-of-filepaths-to-avoid-8-3-windows-filenames|More
   robust handling of filepaths, to avoid 8.3 windows filenames]]'
 - '[[Changes/Aider/2023-07-08-more-robust-handling-of-filepaths-to-avoid-8-3-windows-filenames-db5eb1|More

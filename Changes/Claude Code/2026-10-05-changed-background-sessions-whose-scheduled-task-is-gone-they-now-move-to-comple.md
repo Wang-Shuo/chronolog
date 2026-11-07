@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e297d64ca98ccd74ea873d4313309142def21df9d4056c823a7a43c714fe8786
+machine_hash: 425216eb4526d7deed862fa8bfb6a683a3fa626a2cdb31e799dd5a444127a627
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,12 +43,12 @@ record:
   title: Changed background sessions whose scheduled task is gone
   type: change
 related_changes:
-- '[[Changes/Manus/2026-09-28-a-new-architecture-new-products-and-new-capabilities-manus-studio-with-video-edi|Introducing
-  Manus 2.0]]'
-- '[[Changes/ChatGPT/2026-09-29-site-owners-can-also-create-recurring-cloud-schedules-from-automations-these-upd|Site
-  owners can also create recurring cloud schedules from Automations]]'
+- '[[Changes/Devin/2026-09-30-preflight-checks-for-automations|Preflight Checks for
+  Automations]]'
 - '[[Changes/OpenClaw/2026-09-30-11-automation-and-scheduling-changes-in-v2026-9-7|11
   Automation and Scheduling changes in v2026.9.7]]'
+- '[[Changes/Devin/2026-10-02-compact-automation-cards-in-chat|Compact Automation
+  Cards in Chat]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-05-v2-1-290-github-403993621-ae06f2b6|claude-code-2026-10-05-v2-1-290-github-403993621-ae06f2b6]]'
 source_type: github_releases
 theme: automation-scheduling
@@ -88,7 +88,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2026-09-30 · OpenClaw · [[Changes/OpenClaw/2026-09-30-11-automation-and-scheduling-changes-in-v2026-9-7|11 Automation and Scheduling changes in v2026.9.7]]
+- Earlier: 2026-10-02 · Devin · [[Changes/Devin/2026-10-02-compact-automation-cards-in-chat|Compact Automation Cards in Chat]]
 - Later: 2026-10-06 · OpenHands · [[Changes/OpenHands/2026-10-06-5-automation-and-scheduling-changes-in-v1-25-0|5 Automation and Scheduling changes in v1.25.0]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 87e067bd447d42269d57e437a0a9480405f20e95c7cb7534641a76382b7b9b65
+machine_hash: 8377638d775d3b9f5bbc21290059220803629b6284becbe0257f7455ff9c899d
 product: opencode
 product_name: OpenCode
 record:
@@ -84,7 +84,7 @@ Source: https://opencode.ai/changelog/v1.18.23
 ## Nearby in Model Support
 
 - Earlier: 2026-08-25 · Open WebUI · [[Changes/Open WebUI/2026-08-25-56-model-support-changes-in-v0-11-1|56 Model Support changes in v0.11.1]]
-- Later: 2026-08-26 · Claude Code · [[Changes/Claude Code/2026-08-26-added-claude-api-cost-optimize-to-profile-an-existing-project-s-claude-api-spend|Added /claude-api cost-optimize to profile an existing project's Claude API spend…]]
+- Later: 2026-08-25 · Raycast · [[Changes/Raycast/2026-08-25-2-model-support-changes-in-raycast-macos-2-0|2 Model Support changes in Raycast macos 2.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

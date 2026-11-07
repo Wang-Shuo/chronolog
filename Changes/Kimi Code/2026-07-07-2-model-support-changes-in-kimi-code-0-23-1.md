@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ad64321d2049896051a5f3744066a5f802323150fe8404989589d338e1161c27
+machine_hash: bec5107774a901293665e8ca8eabcc2aa94477d4b73778b952052474114977c1
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -87,7 +87,7 @@ Source: https://github.com/MoonshotAI/kimi-code/blob/main/docs/en/release-notes/
 ## Nearby in Model Support
 
 - Earlier: 2026-07-07 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-07-6-model-support-changes-in-v1-0-69|6 Model Support changes in v1.0.69]]
-- Later: 2026-07-07 · Lovable · [[Changes/Lovable/2026-07-07-nano-banana-2-lite-image-model-for-ai-features-in-your-app|Nano Banana 2 Lite image model for AI features in your app]]
+- Later: 2026-07-07 · LM Studio · [[Changes/LM Studio/2026-07-07-add-reasoning-to-lms-chat|Add /reasoning to lms chat]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

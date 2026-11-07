@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 738833f7cf85d8b148068681ac1c1a905f68c19ce3dd921338bf89f21c46e1f9
+machine_hash: 8b3d697b5afd652e34e090539ac45fd6f4535a9aa660ad9960eb6958dd598b90
 product: openclaw
 product_name: OpenClaw
 record:
@@ -51,12 +51,10 @@ record:
   title: 2 Enterprise and Administration changes in v2026.9.7
   type: change
 related_changes:
-- '[[Changes/Qoder/2026-09-26-improved-the-hook-mechanism-for-enterprise-usage-analytics-making-statistics-mor|Improved
-  the hook mechanism for Enterprise usage analytics, making statistics more…]]'
-- '[[Changes/Claude Code/2026-09-28-claude-tag-improved-notify-members-now-in-admin-settings-one-press-reaches-every|Claude
-  Tag Improved "Notify members now" in admin settings]]'
 - '[[Changes/ChatGPT/2026-09-29-for-the-next-month-dots-usage-won-t-count-toward-eligible-pro-business-and-enter|For
   the next month, dots usage won’t count toward eligible Pro, Business…]]'
+- '[[Changes/Devin/2026-09-30-environments-and-analytics|Environments and Analytics]]'
+- '[[Changes/Devin/2026-09-30-outposts|Outposts]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-09-30-v2026-9-7-3d25d2bd|openclaw-2026-09-30-v2026-9-7-3d25d2bd]]'
 source_type: openclaw_changelog
 theme: enterprise-admin
@@ -109,7 +107,7 @@ Source: https://docs.openclaw.ai/releases/2026.9.7
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-09-29 · ChatGPT · [[Changes/ChatGPT/2026-09-29-for-the-next-month-dots-usage-won-t-count-toward-eligible-pro-business-and-enter|For the next month, dots usage won’t count toward eligible Pro, Business…]]
+- Earlier: 2026-09-30 · Devin · [[Changes/Devin/2026-09-30-outposts|Outposts]]
 - Later: 2026-10-01 · Lovable · [[Changes/Lovable/2026-10-01-restrict-an-api-key-to-approved-ip-addresses|Restrict an API key to approved IP addresses]]
 <!-- chronolog:end -->
 

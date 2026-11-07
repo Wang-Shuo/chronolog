@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: cc3705e2f5536450cb92d1f47baa98ddebeae00d9fd0aea4265f8fbf229e0b8c
+machine_hash: 3a6aad61c833b32025b9e58f9b05a99dee5b9bf4b320e193aa020d4e928d93ce
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,10 @@ record:
   title: Improved streaming of long paragraphs
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-15-added-import-for-selectively-importing-setup-project-configuration-and-recent-ch|Added
-  /import for selectively importing setup, project configuration, and recent…]]'
 - '[[Changes/Codex CLI/2026-06-15-3-interface-experience-changes-in-rust-v0-140-0|3
   Interface Experience changes in rust-v0.140.0]]'
+- '[[Changes/Superwhisper/2026-06-16-refined-a-range-of-visual-and-interaction-details-across-the-share-card-super-pi|Refined
+  a range of visual and interaction details across the share card, Super…]]'
 - '[[Changes/ChatGPT/2026-06-17-a-new-scheduled-page-discoverable-in-the-sidebar-gives-users-one-place-to-view-a|A
   new Scheduled page, discoverable in the sidebar, gives users one place to view…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-17-v2-1-181-github-340975229-c771c493|claude-code-2026-06-17-v2-1-181-github-340975229-c771c493]]'
@@ -86,7 +86,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-06-17 · ChatGPT · [[Changes/ChatGPT/2026-06-17-a-new-scheduled-page-discoverable-in-the-sidebar-gives-users-one-place-to-view-a|A new Scheduled page, discoverable in the sidebar, gives users one place to view…]]
-- Later: 2026-06-18 · ChatGPT · [[Changes/ChatGPT/2026-06-18-easier-pinning-and-sidebar-organization-it-s-now-easier-to-keep-important-work-c|Easier pinning and sidebar organization]]
+- Later: 2026-06-17 · Devin · [[Changes/Devin/2026-06-17-sidebar-unpin-remove-from-folder-quick-actions|Sidebar: Unpin & Remove-from-Folder Quick Actions]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a4debf550e8b0767ad26703be85c629a54fee9752c88204100406d85fb4d2946
+machine_hash: d3cec16a40f7b31596c93d5f99142c5c147aa3bf91cd77416ad2ec367cee7ec3
 product: openclaw
 product_name: OpenClaw
 record:
@@ -267,7 +267,7 @@ Source: https://docs.openclaw.ai/releases/2026.9.3
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-09-08 · Claude Code · [[Changes/Claude Code/2026-09-08-4-apps-and-integrations-changes-in-v2-1-265|4 Apps and Integrations changes in v2.1.265]]
-- Later: 2026-09-09 · Claude Code · [[Changes/Claude Code/2026-09-09-claude-tag-added-a-use-a-custom-connector-link-to-the-preset-connection-forms-in|Claude Tag Added a "Use a custom connector" link to the preset connection forms…]]
+- Later: 2026-09-08 · Raycast · [[Changes/Raycast/2026-09-08-window-management-apps-launched-by-a-custom-layout-can-now-be-given-command-line|Window Management : Apps launched by a custom layout can now be given command-line…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

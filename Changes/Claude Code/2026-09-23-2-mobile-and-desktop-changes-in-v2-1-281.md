@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 92e4592b8b95738bb5942a768d5240ee73c3903f2200d7c57dc09a39681b8108
+machine_hash: 9178145d7246bd91a38e68f038b0c514a32a90b813fcd19227f444e1143c176f
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,8 +45,8 @@ record:
   title: 2 Mobile and Desktop changes in v2.1.281
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2026-09-21-apple-device-replies-an-assistant-reply-no-longer-comes-up-blank-in-a-home-scree|\U0001F4F1
-  Apple device replies. An assistant reply no longer comes up blank in a home…]]"
+- '[[Changes/AnythingLLM/2026-09-22-x-removed-the-borders-around-the-main-content-area-for-a-cleaner-desktop-layout|x
+  Removed the borders around the main content area for a cleaner desktop layout]]'
 - '[[Changes/Cline/2026-09-22-rules-are-found-and-shown-consistently-the-rules-panel-listed-only-clinerules-an|Rules
   are found and shown consistently]]'
 - '[[Changes/Codex CLI/2026-09-22-11-mobile-and-desktop-changes-in-rust-v0-156-0|11

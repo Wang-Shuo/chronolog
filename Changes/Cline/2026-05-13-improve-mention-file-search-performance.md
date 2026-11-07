@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a8a83ff0df75c813e13c7ef5d14955317324eef0c49bde61633279d3145994bd
+machine_hash: 9e46e4111ee6cb98704f3778518427e7248e91738a7eef03a8fa7ea5160337d1
 product: cline
 product_name: Cline
 record:
@@ -40,10 +40,10 @@ record:
   title: Improve @-mention file search performance
   type: change
 related_changes:
-- '[[Changes/Dify/2026-05-12-workflow-stability-restored-workflow-version-loading-through-the-backend-api-fix|Workflow
-  stability — restored workflow-version loading through the backend API…]]'
-- '[[Changes/Gemini CLI/2026-05-12-2-reliability-and-performance-changes-in-v0-42-0|2
-  Reliability and Performance changes in v0.42.0]]'
+- '[[Changes/Raycast/2026-05-12-3-reliability-and-performance-changes-in-raycast-windows-0-58|3
+  Reliability and Performance changes in Raycast windows 0.58]]'
+- '[[Changes/Raycast/2026-05-12-clipboard-history-improved-rendering-performance-of-long-unbroken-strings-in-tex|Clipboard
+  History : Improved rendering performance of long unbroken strings in text…]]'
 - '[[Changes/v0/2026-05-12-3-reliability-and-performance-changes-in-run-terminal-commands-with-v0-faster|3
   Reliability and Performance changes in Run terminal commands with v0, faster…]]'
 source_release: '[[Releases/Cline/cline-2026-05-13-v3-83-0-github-322019752-5cd466dd|cline-2026-05-13-v3-83-0-github-322019752-5cd466dd]]'
@@ -77,7 +77,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-05-12 · v0 · [[Changes/v0/2026-05-12-3-reliability-and-performance-changes-in-run-terminal-commands-with-v0-faster|3 Reliability and Performance changes in Run terminal commands with v0, faster…]]
-- Later: 2026-05-13 · Ollama · [[Changes/Ollama/2026-05-13-2-reliability-and-performance-changes-in-v0-30-0|2 Reliability and Performance changes in v0.30.0]]
+- Later: 2026-05-13 · LM Studio · [[Changes/LM Studio/2026-05-13-mlx-mlx-engine-v1-8-1-significantly-improves-performance-and-adds-parallel-predi|MLX mlx-engine v1.8.1 significantly improves performance and adds parallel…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

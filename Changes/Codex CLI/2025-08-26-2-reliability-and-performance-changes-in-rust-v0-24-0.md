@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3affce7e357f53499e345863c231515add0b39f2819e52e1a2cf1142df0a149a
+machine_hash: 86a6a867e75763d0a1028f149f70e2305e8c384d2452683952a83c3b9209b0d4
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,12 +42,12 @@ record:
   title: 2 Reliability and Performance changes in rust-v0.24.0
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-08-21-1-5-5-general-stability-improvements-and-bug-fixes-to-enhance-overall-applicatio|1.5.5:
-  General stability improvements and bug fixes to enhance overall application…]]'
-- '[[Changes/Descript/2025-08-21-introducing-templates-your-shortcut-to-professional-videos-with-underlord|Introducing
-  Templates—Your shortcut to professional videos with Underlord]]'
 - '[[Changes/Open WebUI/2025-08-21-6-reliability-and-performance-changes-in-v0-6-23|6
   Reliability and Performance changes in v0.6.23]]'
+- '[[Changes/Devin/2025-08-22-various-reliability-performance-and-usability-improvements-across-the-app|Various
+  reliability, performance, and usability improvements across the app]]'
+- '[[Changes/Raycast/2025-08-25-we-are-happy-to-introduce-a-new-and-faster-file-system-indexer-for-windows-by-en|Raycast
+  introduces a new and faster file system indexer for Windows]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-08-26-rust-v0-24-0-github-242647588-70fa432e|codex-cli-2025-08-26-rust-v0-24-0-github-242647588-70fa432e]]'
 source_type: github_releases
 theme: reliability-performance
@@ -91,7 +91,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.24.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-08-21 · Open WebUI · [[Changes/Open WebUI/2025-08-21-6-reliability-and-performance-changes-in-v0-6-23|6 Reliability and Performance changes in v0.6.23]]
+- Earlier: 2025-08-25 · Raycast · [[Changes/Raycast/2025-08-25-we-are-happy-to-introduce-a-new-and-faster-file-system-indexer-for-windows-by-en|Raycast introduces a new and faster file system indexer for Windows]]
 - Later: 2025-08-27 · Dify · [[Changes/Dify/2025-08-27-6-reliability-and-performance-changes-in-1-8-0|6 Reliability and Performance changes in 1.8.0]]
 <!-- chronolog:end -->
 

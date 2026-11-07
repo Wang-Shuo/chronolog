@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: e78459642702f4a9382ad5ba12ee29c19b01db8ed684baeed84485f26e7f2f52
+machine_hash: fb61f8826cc187fb0c413efeb65da9e98799873282d4882ff171434ff66200a0
 product: replit
 product_name: Replit
 record:
@@ -66,10 +66,10 @@ record:
   title: Control Agent models across Workspaces
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-08-17-trust-center-is-now-disabled-by-default|Trust center
-  is now disabled by default]]'
 - '[[Changes/Claude Code/2026-08-18-remote-control-claude-rc-now-applies-the-same-enterprise-gateway-availability-ch|Remote
   Control: claude rc now applies the same enterprise-gateway availability…]]'
+- '[[Changes/Devin/2026-08-21-replace-secret-values-in-place|Replace Secret Values
+  in Place]]'
 - '[[Changes/Replit/2026-08-21-teams-and-enterprise|Teams and Enterprise]]'
 source_release: '[[Releases/Replit/replit-2026-08-21-2026-08-21-07917b7e|replit-2026-08-21-2026-08-21-07917b7e]]'
 source_type: replit_changelog
@@ -107,8 +107,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-08-18 · Claude Code · [[Changes/Claude Code/2026-08-18-remote-control-claude-rc-now-applies-the-same-enterprise-gateway-availability-ch|Remote Control: claude rc now applies the same enterprise-gateway availability…]]
-- Later: 2026-08-24 · Lovable · [[Changes/Lovable/2026-08-24-contact-enterprise-support-from-your-project|Contact Enterprise support from your project]]
+- Earlier: 2026-08-21 · Devin · [[Changes/Devin/2026-08-21-replace-secret-values-in-place|Replace Secret Values in Place]]
+- Later: 2026-08-21 · Wispr Flow · [[Changes/Wispr Flow/2026-08-21-for-teams-enterprise-desktop|For Teams & Enterprise (Desktop)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

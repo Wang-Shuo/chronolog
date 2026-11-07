@@ -14,12 +14,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 21c9681378fa549f86ba9fdac16ab44a0329fd5b962b9df2c505df75c4b8380a
+machine_hash: 76e918e897c31206a4236cc9bc044a5a85a5525e55d4d7149533fe3f45207650
 product: open-webui
 product_name: Open WebUI
 record:
@@ -203,7 +203,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.11.1
 ## Nearby in Account and Access
 
 - Earlier: 2026-08-25 · Dify · [[Changes/Dify/2026-08-25-13-account-and-access-changes-in-1-17-0|13 Account and Access changes in 1.17.0]]
-- Later: 2026-08-26 · Claude Code · [[Changes/Claude Code/2026-08-26-3-account-and-access-changes-in-v2-1-247|3 Account and Access changes in v2.1.247]]
+- Later: 2026-08-25 · Raycast · [[Changes/Raycast/2026-08-25-mcp-added-loopback-oauth-redirects-so-mcp-providers-that-reject-custom-url-schem|MCP : Added loopback OAuth redirects so MCP providers that reject custom URL…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

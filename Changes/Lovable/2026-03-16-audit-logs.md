@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: expansion
-machine_hash: 74bf6de933bbb17d7ad38ba878785e78527448fdd23702fe42f8c4ddc3368aa6
+machine_hash: 9b774d54e5052fd48fb6b7334829c0236e4e84218b3831a98de032625c84a8cd
 product: lovable
 product_name: Lovable
 record:
@@ -56,9 +56,9 @@ record:
   title: Audit logs
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-05-13388-config-enforce-enterprise-feature-requirements-bolinfest|♯13388
-  config: enforce enterprise feature requirements @bolinfest]]'
 - '[[Changes/Replit/2026-03-06-teams-and-enterprise|Teams and Enterprise]]'
+- '[[Changes/Devin/2026-03-11-idp-groups-in-enterprise-settings|IdP Groups in Enterprise
+  Settings]]'
 - '[[Changes/Claude Code/2026-03-14-added-session-quality-survey-enterprise-admins-can-configure-the-sample-rate-via|Added
   session quality survey]]'
 source_release: '[[Releases/Lovable/lovable-2026-03-16-2026-03-16-c52d3abb|lovable-2026-03-16-2026-03-16-c52d3abb]]'

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: ca07819976830eb4d384ca9421c88c80e9208cf7aedc5ff3bd89db7a90a0e907
+machine_hash: 3aae927178fed4a898c275985be98edefc95a20a182188351427a3211bcbd180
 product: descript
 product_name: Descript
 record:
@@ -70,10 +70,10 @@ record:
   title: Revert, understanding thinking, and view media in Underlord
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-02-05-steer-mode-is-now-stable-and-enabled-by-default-so-enter-sends-immediately-durin|Steer
-  mode is now stable and enabled by default, so Enter sends immediately during…]]'
 - '[[Changes/v0/2026-02-05-improved-console-icons-and-titles-in-the-editor|Improved
   console icons and titles in the editor]]'
+- '[[Changes/Devin/2026-02-06-devin-review-hide-comment-highlights|Devin Review: Hide
+  Comment Highlights]]'
 - '[[Changes/v0/2026-02-09-synced-project-and-chat-names-to-editor-explorer-header|Synced
   project and chat names to editor explorer header]]'
 source_release: '[[Releases/Descript/descript-2026-02-10-698b53cfff8de99c84c132f7-0801d6da|descript-2026-02-10-698b53cfff8de99c84c132f7-0801d6da]]'

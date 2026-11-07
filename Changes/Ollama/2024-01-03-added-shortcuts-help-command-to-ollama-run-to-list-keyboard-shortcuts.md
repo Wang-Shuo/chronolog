@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c9628af27129f8d3f12e9521f02ff27ec9a906d966dccb34ee39ec018539f76a
+machine_hash: 45110fc383bd139823280270e422cb814fd24ced79fbf7f47d77e4dd36312c0e
 product: ollama
 product_name: Ollama
 record:
@@ -43,10 +43,10 @@ record:
   title: Added `/? shortcuts` help command to `ollama run` to list keyboard shortcuts
   type: change
 related_changes:
-- '[[Changes/Dify/2023-11-21-3-developer-workflow-changes-in-0-3-31|3 Developer Workflow
-  changes in 0.3.31]]'
 - '[[Changes/Ollama/2023-12-08-linewrap-now-works-when-resizing-the-terminal-with-ollama-run|Linewrap
   now works when resizing the terminal with ollama run]]'
+- '[[Changes/Raycast/2023-12-13-improved-contrast-of-highlights-in-the-fix-spelling-and-grammar-ai-command|Improved
+  contrast of highlights in the “Fix Spelling and Grammar” AI Command]]'
 - '[[Changes/Dify/2023-12-19-2-developer-workflow-changes-in-0-3-34|2 Developer Workflow
   changes in 0.3.34]]'
 source_release: '[[Releases/Ollama/ollama-2024-01-03-v0-1-18-github-134950093-b924051a|ollama-2024-01-03-v0-1-18-github-134950093-b924051a]]'

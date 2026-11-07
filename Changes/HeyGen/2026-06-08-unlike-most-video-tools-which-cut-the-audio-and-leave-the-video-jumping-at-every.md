@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 41a83e6851e3c15e3a786ff3e6ab0090a63cfcb969921206ce0d60858b9b2953
+machine_hash: 27b8025b049de02c9aa17909616c4199e4c75fdf58aea739b991af7a404ae626
 product: heygen
 product_name: HeyGen
 record:
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2026-06-08 · ElevenLabs · [[Changes/ElevenLabs/2026-06-08-packages|Packages]]
-- Later: 2026-06-11 · Descript · [[Changes/Descript/2026-06-11-transcription|Transcription]]
+- Later: 2026-06-09 · AnythingLLM · [[Changes/AnythingLLM/2026-06-09-feat-add-server-side-speech-to-text-with-openai-provider-by-shatfield4-in-https|feat: add server-side speech-to-text with OpenAI provider]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

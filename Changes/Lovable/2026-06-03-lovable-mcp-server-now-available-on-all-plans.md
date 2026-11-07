@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: f500e1045dc41f668d236b171643208fcc7321f41b614235919f25038b35972f
+machine_hash: 8ce3c852ee587f177fb649486153685d8004395f9fef8d42e040b444e87c502d
 product: lovable
 product_name: Lovable
 record:
@@ -90,7 +90,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-06-03 · Kimi Code · [[Changes/Kimi Code/2026-06-03-allow-sdk-runtime-creation-to-use-a-separate-rpc-client-while-preserving-local-c|Allow SDK runtime creation to use a separate RPC client while preserving local CLI startup]]
-- Later: 2026-06-04 · Claude Code · [[Changes/Claude Code/2026-06-04-2-apps-and-integrations-changes-in-v2-1-163|2 Apps and Integrations changes in v2.1.163]]
+- Later: 2026-06-03 · Raycast · [[Changes/Raycast/2026-06-03-store-added-support-for-filtering-by-installed-extensions|Store : Added support for filtering by “Installed” extensions]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

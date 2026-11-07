@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 255900c263eed5d052b2ccd78ba74c182549a6dc45974b37238aad2b0ad0bef5
+machine_hash: b31a45e301f268631fb938400912f3a156df9bf6c596a8e4dbbfec7660b480ad
 product: notion
 product_name: Notion
 record:
@@ -44,12 +44,13 @@ record:
   title: The slash command dropdown menu now returns more relevant results…
   type: change
 related_changes:
-- '[[Changes/Descript/2021-09-08-studio-sound-improvements|Studio Sound improvements]]'
 - '[[Changes/Notion/2021-09-08-now-it-s-much-easier-to-download-copy-share-images-from-ios-while-you-re-on-the|Now
   it''s much easier to download, copy & share images from iOS while you''re on the
   go]]'
 - '[[Changes/Descript/2021-09-21-preview-our-new-clip-inspector|Preview our new clip
   inspector]]'
+- '[[Changes/Raycast/2021-10-13-command-1-9-shortcuts-now-work-as-expected-in-the-search-menu-items-command|Command
+  + 1...9 shortcuts now work as expected in the Search Menu Items command]]'
 source_release: '[[Releases/Notion/notion-2021-11-16-https-www-notion-com-releases-2021-11-16-ca90b446|notion-2021-11-16-https-www-notion-com-releases-2021-11-16-ca90b446]]'
 source_type: notion_changelog
 theme: interface-experience
@@ -78,8 +79,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2021-09-21 · Descript · [[Changes/Descript/2021-09-21-preview-our-new-clip-inspector|Preview our new clip inspector]]
-- Later: 2021-12-14 · Synthesia · [[Changes/Synthesia/2021-12-14-you-can-now-use-color-picker-to-match-the-colors-on-your-video-slides|Color picker]]
+- Earlier: 2021-10-13 · Raycast · [[Changes/Raycast/2021-10-13-command-1-9-shortcuts-now-work-as-expected-in-the-search-menu-items-command|Command + 1...9 shortcuts now work as expected in the Search Menu Items command]]
+- Later: 2021-11-30 · Raycast · [[Changes/Raycast/2021-11-30-new-onboarding-experience|New Onboarding Experience]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

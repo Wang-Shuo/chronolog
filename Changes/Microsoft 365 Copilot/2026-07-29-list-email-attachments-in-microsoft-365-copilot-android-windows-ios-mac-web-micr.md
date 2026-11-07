@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 93126d1b153ecb7d0026b83ff6222e625dae6bf4077faa2505ec2c21de4f68db
+machine_hash: 0bb4fb25f6011081879c287bd48dd247a347a5354effadc8223f121e43a7bfd5
 product: microsoft-365-copilot
 product_name: Microsoft 365 Copilot
 record:
@@ -44,12 +44,12 @@ record:
   title: List email attachments in Microsoft 365 Copilot [Android, Windows, iOS, Mac…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-07-29-2-mobile-and-desktop-changes-in-rust-v0-146-0|2
-  Mobile and Desktop changes in rust-v0.146.0]]'
 - '[[Changes/Cursor/2026-07-29-built-for-the-bigger-screen-98bf7a|Built for the bigger
   screen]]'
 - '[[Changes/Cursor/2026-07-29-cursor-for-ipad-is-now-available-on-all-paid-plans-ce68be|Cursor
   for iPad is now available on all paid plans]]'
+- '[[Changes/Devin/2026-07-29-session-organization-improvements|Session Organization
+  Improvements]]'
 source_release: '[[Releases/Microsoft 365 Copilot/microsoft-365-copilot-2026-07-29-2026-07-29-599fab6b|microsoft-365-copilot-2026-07-29-2026-07-29-599fab6b]]'
 source_type: m365_copilot_changelog
 theme: mobile-desktop
@@ -86,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-07-29 · Cursor · [[Changes/Cursor/2026-07-29-cursor-for-ipad-is-now-available-on-all-paid-plans-ce68be|Cursor for iPad is now available on all paid plans]]
+- Earlier: 2026-07-29 · Devin · [[Changes/Devin/2026-07-29-session-organization-improvements|Session Organization Improvements]]
 - Later: 2026-07-29 · Windsurf · [[Changes/Windsurf/2026-07-29-devin-desktop|Devin Desktop]]
 <!-- chronolog:end -->
 

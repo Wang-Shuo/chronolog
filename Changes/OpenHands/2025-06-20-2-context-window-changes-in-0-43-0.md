@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0ec207716bae5a77678b7e410558c35ed5f5ddbb62bd06a947832a3fde15a1c1
+machine_hash: 5a089552a2b96909cc1eb2be76544a9a0f27664ff6af3bd2605f12a90c71dd9f
 product: openhands
 product_name: OpenHands
 record:
@@ -44,12 +44,12 @@ record:
   title: 2 Context Window changes in 0.43.0
   type: change
 related_changes:
-- '[[Changes/Aider/2025-05-30-2-context-window-changes-in-v0-84-0|2 Context Window
-  changes in v0.84.0]]'
 - '[[Changes/Cline/2025-06-10-prioritize-active-files-open-tabs-at-the-top-of-the-file-context-menu-when-using|Prioritize
   active files (open tabs) at the top of the file context menu when using…]]'
 - '[[Changes/Dify/2025-06-11-refactor-replaces-direct-db-session-usage-with-context-managers-by-laipz8200-in|refactor:
   Replaces direct DB session usage with context managers]]'
+- '[[Changes/Raycast/2025-06-11-ai-chat-added-new-send-active-window-to-ai-chat-send-selected-area-to-ai-chat-an|AI
+  Chat: Added new Send Active Window to AI Chat , Send Selected Area to AI Chat…]]'
 source_release: '[[Releases/OpenHands/openhands-2025-06-20-0-43-0-github-226787361-4fc69cba|openhands-2025-06-20-0-43-0-github-226787361-4fc69cba]]'
 source_type: github_releases
 theme: context-window
@@ -85,7 +85,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/0.43.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2025-06-11 · Dify · [[Changes/Dify/2025-06-11-refactor-replaces-direct-db-session-usage-with-context-managers-by-laipz8200-in|refactor: Replaces direct DB session usage with context managers]]
+- Earlier: 2025-06-11 · Raycast · [[Changes/Raycast/2025-06-11-ai-chat-added-new-send-active-window-to-ai-chat-send-selected-area-to-ai-chat-an|AI Chat: Added new Send Active Window to AI Chat , Send Selected Area to AI Chat…]]
 - Later: 2025-06-25 · Dify · [[Changes/Dify/2025-06-25-feat-add-a-flask-context-manager-by-laipz8200-in-https-github-com-langgenius-dif|feat: add a flask_context_manager]]
 <!-- chronolog:end -->
 

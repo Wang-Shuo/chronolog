@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9170ca0501536bd0774e69c839c12574d1d0acdaee0679d6450cfe715b7c718b
+machine_hash: 9c0e421d5f3fd86cdeb4c52b9940a3a8d89e1353b3017d415802ca58cb7af156
 product: open-webui
 product_name: Open WebUI
 record:
@@ -88,11 +88,12 @@ record:
   title: 10 Voice and Audio changes in v0.9.3
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-28-voice-mode-keybindings-bound-to-caps-lock-now-show-an-error-since-terminals-don|Voice
-  mode: keybindings bound to Caps Lock now show an error since terminals don''t…]]'
-- '[[Changes/ElevenLabs/2026-05-04-packages|Packages]]'
 - '[[Changes/Gemini CLI/2026-05-05-feat-voice-implement-real-time-voice-mode-with-cloud-and-local-backends-by-abhij|feat(voice):
   implement real-time voice mode with cloud and local backends]]'
+- '[[Changes/Raycast/2026-05-08-dictation-brings-fast-accurate-voice-to-text-to-raycast-on-mac-press-your-hotkey|Dictation
+  brings fast, accurate voice-to-text to Raycast on Mac]]'
+- '[[Changes/Raycast/2026-05-08-2-voice-and-audio-changes-in-raycast-macos-0-57|2
+  Voice and Audio changes in Raycast macos 0.57]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-05-09-v0-9-3-github-319872270-bb8aabca|open-webui-2026-05-09-v0-9-3-github-319872270-bb8aabca]]'
 source_type: github_releases
 theme: voice
@@ -154,7 +155,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.9.3
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-05-05 · Gemini CLI · [[Changes/Gemini CLI/2026-05-05-feat-voice-implement-real-time-voice-mode-with-cloud-and-local-backends-by-abhij|feat(voice): implement real-time voice mode with cloud and local backends]]
+- Earlier: 2026-05-08 · Raycast · [[Changes/Raycast/2026-05-08-2-voice-and-audio-changes-in-raycast-macos-0-57|2 Voice and Audio changes in Raycast macos 0.57]]
 - Later: 2026-05-12 · Dify · [[Changes/Dify/2026-05-12-audio-and-transcript-behavior-explicitly-resume-audiocontext-and-play-audio-on-f|Audio and transcript behavior]]
 <!-- chronolog:end -->
 

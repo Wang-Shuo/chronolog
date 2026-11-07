@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d5f696a523c366c8936f7062461587b4cd835707fa374c528cc6495f8628f178
+machine_hash: f4b0bfcbad92e349c03d1b02a3f243c86479fd724c88ff51215667a15cde7d24
 product: aider
 product_name: Aider
 record:
@@ -43,10 +43,10 @@ record:
   title: Prevents bug where subsequent git commit of those files will fail
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-02-15-linter-you-can-now-turn-on-an-ai-linter-in-the-more-tab-beside-chat-it-ll-scan-y|Linter:
-  You can now turn on an AI linter in the "More" tab beside Chat]]'
 - '[[Changes/Dify/2024-02-19-2-developer-workflow-changes-in-0-5-6|2 Developer Workflow
   changes in 0.5.6]]'
+- '[[Changes/Raycast/2024-02-21-snippets-you-can-use-search-snippets-as-a-fallback-command-now|Snippets
+  : You can use “Search Snippets” as a fallback command now]]'
 - '[[Changes/Dify/2024-02-28-2-developer-workflow-changes-in-0-5-7|2 Developer Workflow
   changes in 0.5.7]]'
 source_release: '[[Releases/Aider/aider-2024-03-04-v0-25-0-github-144719910-7de50f06|aider-2024-03-04-v0-25-0-github-144719910-7de50f06]]'

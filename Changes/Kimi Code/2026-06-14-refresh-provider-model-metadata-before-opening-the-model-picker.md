@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 49c376b22d4c5000917e1715aa01750ad64848b6978ce0060bb43b000e84d50e
+machine_hash: b6e329fbf4989f406048db982ae4ab5fef702e7879e2078c0eda88981e53c19d
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -53,8 +53,8 @@ record:
   title: Refresh provider model metadata before opening the model picker
   type: change
 related_changes:
-- '[[Changes/Kimi Code/2026-06-12-wrap-long-command-and-skill-descriptions-in-the-autocomplete-menu-onto-a-second|Wrap
-  long command and skill descriptions in the autocomplete menu onto a second line…]]'
+- '[[Changes/Raycast/2026-06-12-9-interface-experience-changes-in-raycast-macos-0-64|9
+  Interface Experience changes in Raycast macos 0.64]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-13-3-interface-experience-changes-in-v1-0-62|3
   Interface Experience changes in v1.0.62]]'
 - '[[Changes/OpenCode/2026-06-13-core-fixed-duplicate-renderable-ids-that-could-break-tui-rendering|Core

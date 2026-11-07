@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 96e934e37d37ff7b95db76cad911ccfe56d49c7675bed1bcc8652b6947da6064
+machine_hash: 09af1ed7e113a06515c52a990f926a4fe95e4b743f53190e56cd5f513f77cc30
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -47,12 +47,11 @@ record:
   title: Add sticky user message summaries in fullscreen mode
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-14-changed-exit-to-force-kill-background-commands-still-running-1-5-seconds-after-b|Changed
-  exit to force-kill background commands still running 1.5 seconds after being…]]'
-- '[[Changes/Claude Code/2026-10-14-added-effort-and-fast-in-agent-view-to-set-what-new-sessions-start-with-a-bare-m|Added
-  /effort and /fast in agent view to set what new sessions start with]]'
-- '[[Changes/Claude Code/2026-10-14-vscode-improved-startup-the-model-picker-and-slash-command-menu-now-fill-in-righ|VSCode
-  Improved startup]]'
+- '[[Changes/Devin/2026-10-14-child-sessions-show-in-the-sidebar-across-the-archive-split|Child
+  Sessions Show in the Sidebar Across the Archive Split]]'
+- '[[Changes/Devin/2026-10-14-virtual-environment-picker-uses-your-starred-default|Virtual
+  Environment Picker Uses Your Starred Default]]'
+- '[[Changes/Devin/2026-10-14-export-findings-as-sarif|Export Findings as SARIF]]'
 source_release: '[[Releases/Kimi Code/kimi-code-2026-10-14-2-2-0-c9b38331|kimi-code-2026-10-14-2-2-0-c9b38331]]'
 source_type: kimi_code_changelog
 theme: interface-experience
@@ -85,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-10-14 · Claude Code · [[Changes/Claude Code/2026-10-14-vscode-improved-startup-the-model-picker-and-slash-command-menu-now-fill-in-righ|VSCode Improved startup]]
+- Earlier: 2026-10-14 · Devin · [[Changes/Devin/2026-10-14-export-findings-as-sarif|Export Findings as SARIF]]
 - Later: 2026-10-14 · Lovable · [[Changes/Lovable/2026-10-14-restore-a-deleted-project-yourself|Restore a deleted project yourself]]
 <!-- chronolog:end -->
 

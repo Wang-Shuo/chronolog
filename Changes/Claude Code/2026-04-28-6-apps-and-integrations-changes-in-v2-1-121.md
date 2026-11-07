@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f418c954b9d52353ab5052527724443da2149fff5a32a979396d77e39f45049a
+machine_hash: 1a8868f7bbf353e0cd5980950ad7dd637bd7537b920483531c66de5438e90287
 product: claude-code
 product_name: Claude Code
 record:
@@ -56,8 +56,9 @@ record:
   title: 6 Apps and Integrations changes in v2.1.121
   type: change
 related_changes:
-- '[[Changes/Replit/2026-04-24-plaid-connector-is-live|Plaid connector is live]]'
 - '[[Changes/ElevenLabs/2026-04-27-sdk-releases|SDK Releases]]'
+- '[[Changes/Raycast/2026-04-27-extensions-restored-ability-to-delete-tokens-by-clicking-in-tag-picker|Extensions
+  : Restored ability to delete tokens by clicking × in tag picker]]'
 - '[[Changes/Claude Code/2026-04-28-2-apps-and-integrations-changes-in-v2-1-122|2
   Apps and Integrations changes in v2.1.122]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-28-v2-1-121-github-314262096-ff31d5ce|claude-code-2026-04-28-v2-1-121-github-314262096-ff31d5ce]]'

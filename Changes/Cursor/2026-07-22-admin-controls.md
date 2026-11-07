@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: bc11394598b23956745b2486f5e4eb5ca6e23dfe910136533ab2aa03b97c8bd4
+machine_hash: 016fd14afd70411a1401b867943814c75706ac8c28056c17456cbc8830893c6c
 product: cursor
 product_name: Cursor
 record:
@@ -91,7 +91,7 @@ type: change
 ## Nearby in Enterprise and Administration
 
 - Earlier: 2026-07-21 · v0 · [[Changes/v0/2026-07-21-enterprise-managed-users-are-surfaced-in-the-web-ui-and-their-profiles-are-alway|Enterprise Managed Users are surfaced in the web UI, and their profiles are always private]]
-- Later: 2026-07-24 · Lovable · [[Changes/Lovable/2026-07-24-editors-can-see-build-secret-names|Editors can see build secret names]]
+- Later: 2026-07-22 · Devin · [[Changes/Devin/2026-07-22-api-additions|API Additions]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

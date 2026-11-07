@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 83858a7c33723e43e2225a579d43617965663166a1a525c94b474d807916d93b
+machine_hash: 3218cd82c45c818e686403062b5d94fbc41d8b66d2c4a5e5774be426926df981
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,12 @@ record:
   title: MCP tool calls running longer than 2 minutes now move to the background…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-16-16-apps-and-integrations-changes-in-v1-0-71|16
-  Apps and Integrations changes in v1.0.71]]'
-- '[[Changes/Lovable/2026-07-16-reuse-your-workspace-identity-in-the-apps-you-build|Reuse
-  your workspace identity in the apps you build]]'
 - '[[Changes/Lovable/2026-07-16-connect-your-app-to-apollo-io|Connect your app to
   Apollo.io]]'
+- '[[Changes/Raycast/2026-07-16-2-apps-and-integrations-changes-in-raycast-macos-0-69|2
+  Apps and Integrations changes in Raycast macos 0.69]]'
+- '[[Changes/Raycast/2026-07-16-ai-chat-auto-loaded-extensions-now-get-persisted-into-the-ai-extensions-list-of|AI
+  Chat : Auto-loaded extensions now get persisted into the AI Extensions list…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-17-v2-1-212-github-355310036-d94b4e11|claude-code-2026-07-17-v2-1-212-github-355310036-d94b4e11]]'
 source_type: github_releases
 theme: apps-integrations
@@ -85,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-07-16 · Lovable · [[Changes/Lovable/2026-07-16-connect-your-app-to-apollo-io|Connect your app to Apollo.io]]
+- Earlier: 2026-07-16 · Raycast · [[Changes/Raycast/2026-07-16-ai-chat-auto-loaded-extensions-now-get-persisted-into-the-ai-extensions-list-of|AI Chat : Auto-loaded extensions now get persisted into the AI Extensions list…]]
 - Later: 2026-07-17 · Cursor · [[Changes/Cursor/2026-07-17-cursor-in-slack-now-shares-a-plan-before-it-starts-runs-in-multi-repo-environmen|Cursor in Slack now shares a plan before it starts, runs in multi-repo environments…]]
 <!-- chronolog:end -->
 

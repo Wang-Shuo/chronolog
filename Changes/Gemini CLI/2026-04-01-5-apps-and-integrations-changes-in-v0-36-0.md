@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0e8e179e83b9c426ab2c45dd30da4d9d0839f49b8f00dc9f7d82cdb4149d6561
+machine_hash: 2ae2b7d937b983a04ccd877b2b8f899e669f3df3ed589850b642ae3b038c0b1e
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -52,8 +52,7 @@ record:
   title: 5 Apps and Integrations changes in v0.36.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-01-2-apps-and-integrations-changes-in-v2-1-90|2 Apps
-  and Integrations changes in v2.1.90]]'
+- '[[Changes/Devin/2026-04-01-slack-thread-permissions|Slack Thread Permissions]]'
 - '[[Changes/ElevenLabs/2026-04-01-elevenagents-2b20f8|ElevenAgents]]'
 - '[[Changes/ElevenLabs/2026-04-01-sdk-releases|SDK Releases]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-04-01-v0-36-0-github-304395807-bc719eb1|gemini-cli-2026-04-01-v0-36-0-github-304395807-bc719eb1]]'

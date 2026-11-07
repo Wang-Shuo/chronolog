@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: ac9243cd01362854cbc08694c03f026c796aa5dfbdde7c9228fce8578b674c25
+machine_hash: bf793aced2cb6bd3c561f9db1af888f1fdf8ef92efdb465de4adc45a4a139e3c
 product: open-webui
 product_name: Open WebUI
 record:
@@ -46,10 +46,11 @@ record:
   title: "**\U0001F5A5️ Desktop App Preparations**"
   type: change
 related_changes:
-- '[[Changes/Replit/2025-01-10-teams-mobile-search|Teams mobile search]]'
 - '[[Changes/ChatGPT/2025-01-17-we-ve-updated-custom-instructions-to-make-it-easier-to-customize-how-chatgpt-res-e42760|More
   personalization in Custom Instructions]]'
 - '[[Changes/Replit/2025-01-17-web-view-mobile-support|Web view mobile support]]'
+- '[[Changes/LM Studio/2025-01-21-show-incompatible-status-on-windows-linux-avx-only-machines-in-cpu-section-of-ha|Show
+  "Incompatible" status on Windows/Linux AVX-only machines in CPU section…]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-01-22-v0-5-5-github-196189629-8d5ecf1d|open-webui-2025-01-22-v0-5-5-github-196189629-8d5ecf1d]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -83,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2025-01-17 · Replit · [[Changes/Replit/2025-01-17-web-view-mobile-support|Web view mobile support]]
+- Earlier: 2025-01-21 · LM Studio · [[Changes/LM Studio/2025-01-21-show-incompatible-status-on-windows-linux-avx-only-machines-in-cpu-section-of-ha|Show "Incompatible" status on Windows/Linux AVX-only machines in CPU section…]]
 - Later: 2025-01-25 · Midjourney · [[Changes/Midjourney/2025-01-25-you-can-now-describe-images-on-the-web|"describe" images on the web]]
 <!-- chronolog:end -->
 

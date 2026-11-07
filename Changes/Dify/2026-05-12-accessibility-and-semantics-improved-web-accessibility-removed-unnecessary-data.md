@@ -5,20 +5,20 @@ description: 'Dify · 2026-05-12 · Accessibility and Localization: **Accessibil
   and semantics** — improved web accessibility, removed unnecessary `data-testid`
   usage…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-09-11-chatgpt-now-supports-a-limited-selection-of-languages-in-the-interface|ChatGPT
-    now supports a limited selection of languages in the interface]]'
+  first_in_tracked: '[[Changes/Raycast/2020-11-19-improved-searching-for-localized-application-and-preference-names|Improved
+    searching for localized application and preference names]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 974
+  lag_days: 2000
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: accessibility-localization
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 15415344ccf3dcec08a947206333ffb57dc371f890662c6a7b6ce5aa93ffc07a
+machine_hash: 01d542e44eb8d039311a9e7c314a785ceeb956c79be1653f927fba147501cb09
 product: dify
 product_name: Dify
 record:
@@ -50,12 +50,12 @@ record:
   title: '**Accessibility and semantics**'
   type: change
 related_changes:
-- '[[Changes/Notion/2026-03-19-notion-academy-videos-and-certification-programs-are-now-live-in-6-new-languages|Notion
-  Academy videos and certification programs are now live in 6 new languages…]]'
 - '[[Changes/Dify/2026-04-29-2-accessibility-and-localization-changes-in-1-14-0|2
   Accessibility and Localization changes in 1.14.0]]'
 - '[[Changes/Codex CLI/2026-05-07-tui-startup-and-accessibility-were-tightened-by-bounding-terminal-probes-clearin|TUI
   startup and accessibility were tightened by bounding terminal probes, clearing…]]'
+- '[[Changes/Raycast/2026-05-08-localization-improved-system-settings-localization-they-can-now-be-found-by-both|Localization:
+  Improved System Settings localization]]'
 source_release: '[[Releases/Dify/dify-2026-05-12-1-14-1-github-321018473-9e9e1d9e|dify-2026-05-12-1-14-1-github-321018473-9e9e1d9e]]'
 source_type: github_releases
 theme: accessibility-localization
@@ -98,14 +98,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Accessibility and Localization
 
-- Earlier: 2026-05-07 · Codex CLI · [[Changes/Codex CLI/2026-05-07-tui-startup-and-accessibility-were-tightened-by-bounding-terminal-probes-clearin|TUI startup and accessibility were tightened by bounding terminal probes, clearing…]]
+- Earlier: 2026-05-08 · Raycast · [[Changes/Raycast/2026-05-08-localization-improved-system-settings-localization-they-can-now-be-found-by-both|Localization: Improved System Settings localization]]
 - Later: 2026-05-18 · Lovable · [[Changes/Lovable/2026-05-18-workspace-skills|Workspace skills]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-11 · ChatGPT · [[Changes/ChatGPT/2023-09-11-chatgpt-now-supports-a-limited-selection-of-languages-in-the-interface|ChatGPT now supports a limited selection of languages in the interface]]
+- Earliest same-theme entry in the tracked set: 2020-11-19 · Raycast · [[Changes/Raycast/2020-11-19-improved-searching-for-localized-application-and-preference-names|Improved searching for localized application and preference names]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

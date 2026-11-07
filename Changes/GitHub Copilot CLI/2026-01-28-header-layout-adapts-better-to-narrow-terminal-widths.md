@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 08f68036a1ce549f406afc2d0a8c42942124904c6bfe2fbd5c88cab52e7ef4d4
+machine_hash: ff10e227a622c68b7e114ba40bd95bfe75016a41b7e9b91728fc041bd8b0894d
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -80,7 +80,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-01-28 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-28-skills-from-parent-directories-are-now-invocable-and-work-in-non-git-directories|Skills from parent directories are now invocable and work in non-git directories]]
-- Later: 2026-01-28 · OpenCode · [[Changes/OpenCode/2026-01-28-terminal-add-streaming-prop-to-markdown-element|Terminal Add streaming prop to markdown element]]
+- Later: 2026-01-28 · LM Studio · [[Changes/LM Studio/2026-01-28-4-developer-workflow-changes-in-lm-studio-0-4-0|4 Developer Workflow changes in LM Studio 0.4.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

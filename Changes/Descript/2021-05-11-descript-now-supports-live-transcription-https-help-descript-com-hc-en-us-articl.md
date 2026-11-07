@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f159e6167f396ebd3736d4743e4c347588e06204a833482d4537d461c3c509b4
+machine_hash: e56e22f69398c48fe96fdeb6a4523c307a46cb8c6d86f7e9cc0c92d394c75754
 product: descript
 product_name: Descript
 record:
@@ -54,8 +54,8 @@ record:
   title: Live Transcription in Windows App
   type: change
 related_changes:
-- "[[Changes/Notion/2021-01-27-better-dark-mode-settings|Better dark mode settings
-  \U0001F526]]"
+- '[[Changes/Raycast/2021-02-03-calendar-added-support-for-around-to-join-meetings-in-the-desktop-app|Calendar:
+  Added support for Around to join meetings in the desktop app]]'
 - '[[Changes/Notion/2021-03-23-you-can-now-upgrade-from-a-free-personal-plan-personal-pro-plan-from-the-ios-app|Upgrade
   from a free Personal Plan → Personal Pro Plan from the iOS app]]'
 - "[[Changes/Notion/2021-03-23-widgets-shortcuts-for-android|Widgets & shortcuts for

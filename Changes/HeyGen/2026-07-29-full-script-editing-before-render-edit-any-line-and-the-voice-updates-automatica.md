@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1137e95b517b3a531bd698017060e79772ae3621aec5111af0a5644e653f0054
+machine_hash: b50dcc3f7162a8b23eccbb3f351cabcba2181cd78fbaaf59e4dd06dcc525141f
 product: heygen
 product_name: HeyGen
 record:
@@ -43,10 +43,10 @@ record:
   title: 'Full script editing before render: Edit any line and the voice updates automatically'
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-07-27-4-voice-and-audio-changes-in-v0-11-0|4 Voice and
-  Audio changes in v0.11.0]]'
 - '[[Changes/Dify/2026-07-28-returned-400-instead-of-500-when-file-field-is-missing-from-audio-to-text-endpoi|Returned
   400 instead of 500 when file field is missing from audio-to-text…]]'
+- '[[Changes/Raycast/2026-07-28-2-voice-and-audio-changes-in-raycast-ios-1-3-4|2 Voice
+  and Audio changes in Raycast ios 1.3.4]]'
 - '[[Changes/Gemini/2026-07-29-create-and-edit-with-your-voice-anywhere-on-your-desktop-with-gemini-on-macos|Create
   and edit with your voice, anywhere on your desktop with Gemini on macOS]]'
 source_release: '[[Releases/HeyGen/heygen-2026-07-29-https-heygen-noticeable-news-publications-introducing-video-podc-65edd984|heygen-2026-07-29-https-heygen-noticeable-news-publications-introducing-video-podc-65edd984]]'
@@ -82,7 +82,7 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2026-07-29 · Gemini · [[Changes/Gemini/2026-07-29-create-and-edit-with-your-voice-anywhere-on-your-desktop-with-gemini-on-macos|Create and edit with your voice, anywhere on your desktop with Gemini on macOS]]
-- Later: 2026-07-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-30-voice-mode-pauses-playing-media-before-recording-and-resumes-it-afterward-where|Voice mode pauses playing media before recording and resumes it afterward, where…]]
+- Later: 2026-07-29 · Superwhisper · [[Changes/Superwhisper/2026-07-29-mlx-voice-models-are-now-hidden-on-intel-macs-where-they-aren-t-supported|MLX voice models are now hidden on Intel Macs, where they aren't supported]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 132b8fa01ce53b306bda6d7a3052200769c19c7c755403e421e4e69bc9714888
+machine_hash: be1a178aa03c415d7a1eee13735a7f3714d0c386a9aee2ab8c58e2e4126d212e
 product: suno
 product_name: Suno
 record:
@@ -47,12 +47,12 @@ record:
   title: Better controls for you playlist
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-19-added-notify-when-idle-to-cross-session-sendmessage-ask-another-claude-code-sess|Added
-  notify_when_idle to cross-session SendMessage]]'
 - '[[Changes/Gemini/2026-08-19-a-new-dedicated-student-hub-study-notebooks-on-mobile-one-year-of-google-ai-pro|A
   new dedicated student hub, study notebooks on mobile, one year of Google AI Pro…]]'
 - '[[Changes/Ollama/2026-08-19-new-desktop-onboarding-flow-on-first-launch|New desktop
   onboarding flow on first launch]]'
+- '[[Changes/Raycast/2026-08-19-core-text-fields-now-expand-your-macos-text-replacements|Core:
+  Text fields now expand your macOS Text Replacements]]'
 source_release: '[[Releases/Suno/suno-2026-08-19-e-playlist-improvements-on-web-and-ios-9fee938f|suno-2026-08-19-e-playlist-improvements-on-web-and-ios-9fee938f]]'
 source_type: suno_changelog
 theme: mobile-desktop
@@ -87,7 +87,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-08-19 · Ollama · [[Changes/Ollama/2026-08-19-new-desktop-onboarding-flow-on-first-launch|New desktop onboarding flow on first launch]]
+- Earlier: 2026-08-19 · Raycast · [[Changes/Raycast/2026-08-19-core-text-fields-now-expand-your-macos-text-replacements|Core: Text fields now expand your macOS Text Replacements]]
 - Later: 2026-08-20 · ChatGPT · [[Changes/ChatGPT/2026-08-20-keep-pinned-chats-in-sync-pinned-chats-now-stay-in-sync-between-the-chatgpt-desk|Keep pinned chats in sync]]
 <!-- chronolog:end -->
 

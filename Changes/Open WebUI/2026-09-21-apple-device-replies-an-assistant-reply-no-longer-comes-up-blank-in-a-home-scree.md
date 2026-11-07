@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0a5defbbce2f429c7a518d6b06501f8807cc876a116a7e96d76b1a662362d107
+machine_hash: b2507b794f68a6e7d32584254d5d79e79d2a840be8cb12d8b01ed364b3be4305
 product: open-webui
 product_name: Open WebUI
 record:
@@ -103,7 +103,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-09-21 · ChatGPT · [[Changes/ChatGPT/2026-09-21-you-can-now-track-your-credit-score-in-chatgpt-securely-connect-your-experian-cr|Credit scores in Finances]]
-- Later: 2026-09-22 · Cline · [[Changes/Cline/2026-09-22-rules-are-found-and-shown-consistently-the-rules-panel-listed-only-clinerules-an|Rules are found and shown consistently]]
+- Later: 2026-09-22 · AnythingLLM · [[Changes/AnythingLLM/2026-09-22-x-removed-the-borders-around-the-main-content-area-for-a-cleaner-desktop-layout|x Removed the borders around the main content area for a cleaner desktop layout]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

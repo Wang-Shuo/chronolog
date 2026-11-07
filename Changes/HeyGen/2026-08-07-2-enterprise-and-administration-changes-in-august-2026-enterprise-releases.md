@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f2f435a6833a71058062b5318ba9129a398fbc647cb64e8d0f88b3da5abcdbf9
+machine_hash: d448f9e0ee976a79401e0cb8158eb3d37d0c64019f8f671a81a4e7ce435685e5
 product: heygen
 product_name: HeyGen
 record:
@@ -48,11 +48,12 @@ record:
   title: 2 Enterprise and Administration changes in August 2026 Enterprise Releases
   type: change
 related_changes:
-- '[[Changes/Replit/2026-07-31-stay-signed-in-longer|Stay signed in longer]]'
 - '[[Changes/ChatGPT/2026-08-04-starting-today-for-chatgpt-enterprise-and-education-users-long-pastes-are-handle|Starting
   today for ChatGPT Enterprise and Education users, long pastes are handled…]]'
 - '[[Changes/Descript/2026-08-05-claude-fable-5-is-in-the-model-picker|Claude Fable
   5 is in the model picker]]'
+- '[[Changes/Devin/2026-08-07-legacy-cascade-disabled-by-default-for-enterprises|Legacy
+  Cascade Disabled by Default for Enterprises]]'
 source_release: '[[Releases/HeyGen/heygen-2026-08-07-https-heygen-noticeable-news-publications-august-2026-enterprise-ee1eb69b|heygen-2026-08-07-https-heygen-noticeable-news-publications-august-2026-enterprise-ee1eb69b]]'
 source_type: heygen_changelog
 theme: enterprise-admin
@@ -105,7 +106,7 @@ Source: https://heygen.noticeable.news/publications/august-2026-enterprise-relea
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-08-05 · Descript · [[Changes/Descript/2026-08-05-claude-fable-5-is-in-the-model-picker|Claude Fable 5 is in the model picker]]
+- Earlier: 2026-08-07 · Devin · [[Changes/Devin/2026-08-07-legacy-cascade-disabled-by-default-for-enterprises|Legacy Cascade Disabled by Default for Enterprises]]
 - Later: 2026-08-07 · Lovable · [[Changes/Lovable/2026-08-07-unlimited-email-invites-on-paid-plans|Unlimited email invites on paid plans]]
 <!-- chronolog:end -->
 

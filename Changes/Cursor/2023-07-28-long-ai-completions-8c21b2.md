@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: d74eef2010caa281f1f506b36dd1db974f19c72b353b4e2239119f2633eda12e
+machine_hash: 8b211777b9588e9f7b13ef2d87d653dbd6cf011f6f595374f41647fa41c38aa8
 product: cursor
 product_name: Cursor
 record:
@@ -53,12 +53,12 @@ record:
   title: Long AI completions
   type: change
 related_changes:
-- '[[Changes/Aider/2023-07-24-benchmarked-https-aider-chat-docs-benchmarks-html-at-64-7-for-gpt-4-diff-no-regr|Benchmarked((source
-  link) at 64.7% for gpt-4/diff…]]'
 - '[[Changes/Ollama/2023-07-26-3-model-support-changes-in-v0-0-12|3 Model Support
   changes in v0.0.12]]'
 - '[[Changes/Ollama/2023-07-26-you-can-now-rename-models-you-ve-pulled-or-created-with-ollama-cp|Rename
   models you''ve pulled or created with ollama cp]]'
+- '[[Changes/Raycast/2023-07-27-gpt-4-everywhere-on-your-mac|GPT-4 Everywhere on Your
+  Mac]]'
 source_release: '[[Releases/Cursor/cursor-2023-07-28-0-6-0-https-cursor-com-changelog-0-6-0-ec91c991|cursor-2023-07-28-0-6-0-https-cursor-com-changelog-0-6-0-ec91c991]]'
 source_type: cursor_changelog
 theme: model-support
@@ -94,7 +94,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2023-07-26 · Ollama · [[Changes/Ollama/2023-07-26-you-can-now-rename-models-you-ve-pulled-or-created-with-ollama-cp|Rename models you've pulled or created with ollama cp]]
+- Earlier: 2023-07-27 · Raycast · [[Changes/Raycast/2023-07-27-gpt-4-everywhere-on-your-mac|GPT-4 Everywhere on Your Mac]]
 - Later: 2023-08-02 · Aider · [[Changes/Aider/2023-08-02-defend-against-gpt-3-5-or-non-openai-models-suggesting-filenames-surrounded-by-a|Defend against GPT-3.5 or non-OpenAI models suggesting filenames surrounded by asterisks]]
 <!-- chronolog:end -->
 

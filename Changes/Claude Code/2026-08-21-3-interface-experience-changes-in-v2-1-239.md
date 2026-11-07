@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1e9248f136c9307318fd573e08f8c1a9b99eb83e8c1454cc46ddd0427dcec375
+machine_hash: ac23c0ca9d4b21268f9c09441960d4f90cd8b757df6720eed8c1102ed04ae4f7
 product: claude-code
 product_name: Claude Code
 record:
@@ -99,7 +99,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.239
 ## Nearby in Interface Experience
 
 - Earlier: 2026-08-21 · ChatGPT · [[Changes/ChatGPT/2026-08-21-generated-images-are-easier-to-view-and-your-recent-conversations-are-easier-to|Generated images are easier to view, and your recent conversations are easier to browse]]
-- Later: 2026-08-21 · Lovable · [[Changes/Lovable/2026-08-21-project-details-when-you-hover-the-sidebar|Project details when you hover the sidebar]]
+- Later: 2026-08-21 · Devin · [[Changes/Devin/2026-08-21-default-org-picker-in-slack-dms|Default Org Picker in Slack DMs]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

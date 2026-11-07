@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: policy
-machine_hash: b9c47cdf67f4516b67ed36d3cf15745276d6c9d8bb1e3f4ed532280315394b41
+machine_hash: 1814a7391f7f04b52fe18e0af88c6766a9beb4c557cc0c492cf1c960c1a014c2
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,8 +44,8 @@ record:
     Free users
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-03-11-document-node-limitation-for-shift-tab-by-scidomino-in-https-github-com-google-g|document
-  node limitation for shift+tab]]'
+- '[[Changes/Raycast/2026-03-11-ai-edit-highlights-are-now-supported-in-ai-commands-like-fix-spelling-and-gramma|AI
+  : Edit highlights are now supported in AI Commands (Like fix spelling and grammar)]]'
 - '[[Changes/OpenCode/2026-03-12-desktop-skip-editor-reconcile-during-ime-composition|Desktop
   Skip editor reconcile during IME composition]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-13-syntax-highlighting-in-diff-with-support-for-17-programming-languages|Syntax

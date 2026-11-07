@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 5035ed295f4880143d37de915215ba4d20b2e0157434a324f1db46e4e376284a
+machine_hash: b7cd1ec3b685e9281e6517733e3a03fdf99858c552a0e3812b3e7bc1d9969f22
 product: replit
 product_name: Replit
 record:
@@ -49,12 +49,11 @@ record:
   title: Teams and Enterprise
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2025-12-02-2-enterprise-and-administration-changes-in-v0-6-41|2
-  Enterprise and Administration changes in v0.6.41]]'
 - '[[Changes/Lovable/2025-12-10-control-who-can-publish-externally|Control who can
   publish externally]]'
 - '[[Changes/Cline/2025-12-11-enterprise-docs-by-jl-codes-in-https-github-com-cline-cline-pull-7714|Enterprise
   docs]]'
+- '[[Changes/Devin/2025-12-12-enterprise-api-v3-enhancements|Enterprise API v3 Enhancements]]'
 source_release: '[[Releases/Replit/replit-2025-12-12-2025-12-12-ae737b71|replit-2025-12-12-2025-12-12-ae737b71]]'
 source_type: replit_changelog
 theme: enterprise-admin
@@ -84,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2025-12-11 · Cline · [[Changes/Cline/2025-12-11-enterprise-docs-by-jl-codes-in-https-github-com-cline-cline-pull-7714|Enterprise docs]]
+- Earlier: 2025-12-12 · Devin · [[Changes/Devin/2025-12-12-enterprise-api-v3-enhancements|Enterprise API v3 Enhancements]]
 - Later: 2025-12-16 · Gemini CLI · [[Changes/Gemini CLI/2025-12-16-add-new-enterprise-instructions-by-chrstnb-in-https-github-com-google-gemini-gem|Add new enterprise instructions]]
 <!-- chronolog:end -->
 

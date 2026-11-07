@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4ed529617e5940f2bec89e44b61b8cdfa73cd8fbfb00dc4c7df19c6e801c6246
+machine_hash: 862e8e9820e46a7ccebd8d7adc93a5fa0ed5912f832ec6efc0545b2833912648
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -43,10 +43,10 @@ record:
   title: 2 Memory and Personalization changes in v0.37.0
   type: change
 related_changes:
-- '[[Changes/Gemini/2026-03-26-make-the-switch-seamlessly-bring-your-ai-memories-and-chat-history-to-gemini|Make
-  the switch: Seamlessly bring your AI memories and chat history to Gemini]]'
 - '[[Changes/Claude Code/2026-03-27-memory-filenames-in-the-saved-n-memories-notice-now-highlight-on-hover-and-open|Memory
   filenames in the "Saved N memories" notice now highlight on hover and open on click]]'
+- '[[Changes/Raycast/2026-03-27-ai-chat-added-memory-to-make-chats-more-personal|AI
+  Chat: Added memory to make chats more personal]]'
 - '[[Changes/Gemini CLI/2026-04-01-3-memory-and-personalization-changes-in-v0-36-0|3
   Memory and Personalization changes in v0.36.0]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-04-08-v0-37-0-github-306699346-f88de07d|gemini-cli-2026-04-08-v0-37-0-github-306699346-f88de07d]]'

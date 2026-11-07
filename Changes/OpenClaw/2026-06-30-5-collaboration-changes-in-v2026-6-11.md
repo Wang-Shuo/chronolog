@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 35e1a4537bd99c9ad71860e8d5a058e5b25656861803b638b1126d6ce785b243
+machine_hash: a0c0781a022e254cbe153038b2c92b44fd5ed89a3562d36714999bdfbcd59cf3
 product: openclaw
 product_name: OpenClaw
 record:
@@ -126,7 +126,7 @@ Source: https://docs.openclaw.ai/releases/2026.6.11
 ## Nearby in Collaboration
 
 - Earlier: 2026-06-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-30-2-collaboration-changes-in-v1-0-66|2 Collaboration changes in v1.0.66]]
-- Later: 2026-07-01 · Notion · [[Changes/Notion/2026-07-01-your-agents-shouldn-t-be-stuck-in-one-off-chats-now-you-can-bring-multiple-agent|Your agents shouldn’t be stuck in one-off chats]]
+- Later: 2026-07-01 · Devin · [[Changes/Devin/2026-07-01-gitlab-mention-only-comments|GitLab Mention-Only Comments]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0035b8852b0d93905da81b23940ce012396bb66b3dd403477741c5d1653b9d8e
+machine_hash: 972fb573e9b666e272e27a5f3b8e486cb4b4d534fc623bec6f3f7b5299d1a2fa
 product: dify
 product_name: Dify
 record:
@@ -44,9 +44,10 @@ record:
   title: 2 Context Window changes in 0.11.0
   type: change
 related_changes:
-- '[[Changes/Dify/2024-10-14-feat-implement-refresh-tokens-by-laipz8200-in-https-github-com-langgenius-dify-p|Feat/implement-refresh-tokens]]'
-- '[[Changes/OpenHands/2024-10-17-display-in-the-logs-the-prompt-cache-hit-or-miss-for-deepseek-chat-by-enyst-in-h|Display
-  in the logs the prompt cache hit or miss for Deepseek Chat]]'
+- '[[Changes/LM Studio/2024-10-22-improved-performance-for-long-context-generation|Improved
+  performance for long context generation]]'
+- '[[Changes/Superwhisper/2024-10-28-recording-context-leak-fix|Recording context
+  leak fix]]'
 - '[[Changes/Aider/2024-11-01-save-fname-command-will-make-a-file-of-add-and-read-only-commands-that-recreate|/save
   fname command will make a file of /add and /read-only commands…]]'
 source_release: '[[Releases/Dify/dify-2024-11-05-0-11-0-github-183549613-86c3ffa3|dify-2024-11-05-0-11-0-github-183549613-86c3ffa3]]'

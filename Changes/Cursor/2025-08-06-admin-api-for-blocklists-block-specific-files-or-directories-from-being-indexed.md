@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 55b0e1f419b19c673056c9860092fdec2af6a86a8dc0cea2cb5683732ee4b601
+machine_hash: 9ded09c1cba23bb0605843cf7a1eabdadc1c5f2d319611e423571237a14e8b94
 product: cursor
 product_name: Cursor
 record:
@@ -87,7 +87,7 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2025-08-05 · Gemini CLI · [[Changes/Gemini CLI/2025-08-05-3-context-window-changes-in-v0-1-17|3 Context Window changes in v0.1.17]]
-- Later: 2025-08-06 · Gemini CLI · [[Changes/Gemini CLI/2025-08-06-3-context-window-changes-in-v0-1-18|3 Context Window changes in v0.1.18]]
+- Later: 2025-08-06 · Devin · [[Changes/Devin/2025-08-06-linear-org-auto-switch|Linear Org Auto-Switch]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

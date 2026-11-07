@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 897e420e7719b695d5980a8154e56b448affd0b272cfb484734d9a6381aac370
+machine_hash: cf3bbdec925df601c5361fb65935dde906e367bc4aad37dcc287d757313a5e35
 product: aider
 product_name: Aider
 record:
@@ -46,10 +46,10 @@ record:
   title: 4 Developer Workflow changes in v0.46.0
   type: change
 related_changes:
-- '[[Changes/OpenHands/2024-07-19-2-developer-workflow-changes-in-0-8-1|2 Developer
-  Workflow changes in 0.8.1]]'
 - '[[Changes/Dify/2024-07-23-stop-the-service-command-please-execute-in-the-docker-directory|Stop
   the service，Command, please execute in the docker directory]]'
+- '[[Changes/AnythingLLM/2024-07-26-6-developer-workflow-changes-in-v1-0-0|6 Developer
+  Workflow changes in v1.0.0]]'
 - '[[Changes/Cline/2024-07-28-provide-feedback-to-tool-use-like-terminal-commands-and-file-edits|Provide
   feedback to tool use like terminal commands and file edits]]'
 source_release: '[[Releases/Aider/aider-2024-07-29-v0-46-0-github-167657280-41bdfe9c|aider-2024-07-29-v0-46-0-github-167657280-41bdfe9c]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4ef5ebf66a907e31a4ada9884b02fd7441bab545d9f6b87b5441f1bcc71fc02e
+machine_hash: 9ed9d73bff182b7c52269d2111a02bd893325c0c36fde95ffd0aab9fcc19156a
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,11 +44,11 @@ record:
   title: 3 Apps and Integrations changes in v0.0.410
   type: change
 related_changes:
-- '[[Changes/Replit/2026-02-13-bitbucket-integration-improvements|Bitbucket integration
-  improvements]]'
 - '[[Changes/Replit/2026-02-13-open-in-replit-button-beta|Open in Replit button (Beta)]]'
 - '[[Changes/Replit/2026-02-13-connection-reliability-improvements|Connection reliability
   improvements]]'
+- '[[Changes/Superwhisper/2026-02-13-handle-paste-error-when-pasting-into-apps-with-elevated-privileges|Handle
+  paste error when pasting into apps with elevated privileges]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-02-14-v0-0-410-github-286297809-871b7096|github-copilot-cli-2026-02-14-v0-0-410-github-286297809-871b7096]]'
 source_type: github_releases
 theme: apps-integrations
@@ -88,7 +88,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v0.0.410
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-02-13 · Replit · [[Changes/Replit/2026-02-13-connection-reliability-improvements|Connection reliability improvements]]
+- Earlier: 2026-02-13 · Superwhisper · [[Changes/Superwhisper/2026-02-13-handle-paste-error-when-pasting-into-apps-with-elevated-privileges|Handle paste error when pasting into apps with elevated privileges]]
 - Later: 2026-02-14 · Open WebUI · [[Changes/Open WebUI/2026-02-14-2-apps-and-integrations-changes-in-v0-8-1|2 Apps and Integrations changes in v0.8.1]]
 <!-- chronolog:end -->
 

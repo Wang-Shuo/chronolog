@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 806220055e2eef31e0ceb8d74ffb26ac06365f82ff403c59a29e356b39f45e11
+machine_hash: 6d81f0ae86ca06a5ec7b9fc4d6088245bb9dbbd484b8a6a25a5d0efe058cbf88
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -92,7 +92,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2025-12-05 · Replit · [[Changes/Replit/2025-12-05-build-full-stack-mobile-apps-with-agent|Build full-stack mobile apps with Agent]]
-- Later: 2025-12-09 · Codex CLI · [[Changes/Codex CLI/2025-12-09-7729-feat-add-is-mutating-detection-for-shell-command-handler-jif-oai|♯7729 feat: add is-mutating detection for shell command handler @jif-oai]]
+- Later: 2025-12-09 · AnythingLLM · [[Changes/AnythingLLM/2025-12-09-5-agent-mode-changes-in-v1-9-1|5 Agent Mode changes in v1.9.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

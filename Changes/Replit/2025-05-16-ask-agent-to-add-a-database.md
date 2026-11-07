@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: b6f0cdd29496f3ca32477abcba5b1125ede7e4a6e3277d5ec711a8495f911e22
+machine_hash: 83baf13f3ff959a9f35a53581dba4de3a732fe4ba250efdb83152c0adbc13f74
 product: replit
 product_name: Replit
 record:
@@ -51,9 +51,9 @@ record:
   title: Ask Agent to add a database
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-05-15-fast-edits-for-long-files-with-agent|Fast edits for
-  long files with Agent]]'
 - '[[Changes/Cursor/2025-05-15-background-agent-preview|Background Agent (Preview)]]'
+- '[[Changes/Devin/2025-05-15-it-s-true-coding-agents-can-be-overconfident-that-s-why-devin-2-1-now-provides-c|It''s
+  true: coding agents can be overconfident]]'
 - '[[Changes/Dify/2025-05-15-imagine-if-every-idea-could-become-an-ai-agent-with-dify-if-you-can-ask-it-you-c|Imagine
   if every idea could become an AI agent]]'
 source_release: '[[Releases/Replit/replit-2025-05-16-2025-05-16-6ddbb27c|replit-2025-05-16-2025-05-16-6ddbb27c]]'

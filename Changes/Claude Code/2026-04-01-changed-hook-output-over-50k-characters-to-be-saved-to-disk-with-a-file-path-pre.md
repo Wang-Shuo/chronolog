@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b00ae57b35fe5041fc05b0e507be601fc49fa916c75117d38ef21b3d4bcbd6d6
+machine_hash: fd8cb4237896e05fbf802ad1bad065eb6b211a03ccf62567b0202d5f70b71984
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,12 +43,12 @@ record:
   title: Changed hook output over 50K characters to be saved to disk with a file path…
   type: change
 related_changes:
-- '[[Changes/Dify/2026-03-27-feat-workflow-add-selection-context-menu-helpers-and-integrate-with-context-menu|feat(workflow):
-  add selection context menu helpers and integrate with context menu…]]'
 - '[[Changes/OpenCode/2026-03-29-2-context-window-changes-in-v1-3-6-2|2 Context Window
   changes in v1.3.6 + 2]]'
 - '[[Changes/Codex CLI/2026-03-31-16286-auth-generalize-external-auth-tokens-for-bearer-only-sources-bolinfest|♯16286
   auth: generalize external auth tokens for bearer-only sources @bolinfest]]'
+- '[[Changes/Superwhisper/2026-03-31-add-quit-option-to-recording-window-context-menu|Add
+  quit option to recording window context menu]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-01-v2-1-89-github-303967782-358023f0|claude-code-2026-04-01-v2-1-89-github-303967782-358023f0]]'
 source_type: github_releases
 theme: context-window
@@ -85,8 +85,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-03-31 · Codex CLI · [[Changes/Codex CLI/2026-03-31-16286-auth-generalize-external-auth-tokens-for-bearer-only-sources-bolinfest|♯16286 auth: generalize external auth tokens for bearer-only sources @bolinfest]]
-- Later: 2026-04-01 · Gemini CLI · [[Changes/Gemini CLI/2026-04-01-feat-core-cap-jit-context-upward-traversal-at-git-root-by-sandytao520-in-https-g|feat(core): cap JIT context upward traversal at git root]]
+- Earlier: 2026-03-31 · Superwhisper · [[Changes/Superwhisper/2026-03-31-add-quit-option-to-recording-window-context-menu|Add quit option to recording window context menu]]
+- Later: 2026-04-01 · Devin · [[Changes/Devin/2026-04-01-improved-pr-comment-formatting|Improved PR Comment Formatting]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

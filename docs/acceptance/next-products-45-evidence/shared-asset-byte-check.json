@@ -1,0 +1,24 @@
+{
+  "status": "passed",
+  "assets": [
+    {
+      "file": "shared-b5bd891429325793bb6db00cbc57a1681543f3386a1380105e924a7a1fd8460f.css",
+      "bytes": 7015,
+      "sha256": "b5bd891429325793bb6db00cbc57a1681543f3386a1380105e924a7a1fd8460f",
+      "matches_previous_inline_bytes": true
+    },
+    {
+      "file": "shared-bbb5dfa8993fe0c79eb1ccc981ab412581bf0b2fccb98d1a928d4074b3da88f2.js",
+      "bytes": 638,
+      "sha256": "bbb5dfa8993fe0c79eb1ccc981ab412581bf0b2fccb98d1a928d4074b3da88f2",
+      "matches_previous_inline_bytes": true
+    },
+    {
+      "file": "shared-82d3b9ad8eea2268f5ed4e40ef0e34f859febfbc1ee27bee48a3ac51b7cd2872.js",
+      "bytes": 5509,
+      "sha256": "82d3b9ad8eea2268f5ed4e40ef0e34f859febfbc1ee27bee48a3ac51b7cd2872",
+      "matches_previous_inline_bytes": true
+    }
+  ],
+  "per_page_inline_bytes_removed": 13162
+}

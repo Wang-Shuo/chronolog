@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: e94991c796d85ea6c80aa7314985727c494c9ba132a3f4803f4c10ccc24e94fc
+machine_hash: 192e06389dc13265dfaf387cc62a2f41199d7cf87f022042d1ad5ec22a5b98dc
 product: notion
 product_name: Notion
 record:
@@ -47,12 +47,12 @@ record:
   title: Align images and other embedded content
   type: change
 related_changes:
-- '[[Changes/Notion/2022-03-03-better-databases-with-quick-filters-the-redesigned-teams-sidebar-and-synced-data|Better
-  Databases with quick filters, the redesigned Teams sidebar, and Synced…]]'
-- '[[Changes/Notion/2022-04-14-2-interface-experience-changes-in-notion-2-16-now-with-faster-databases|2
-  Interface Experience changes in Notion 2.16, now with faster databases]]'
-- '[[Changes/Notion/2022-05-03-one-property-default-add-items-from-database-b-to-database-a-without-creating-an|One
-  property (default)]]'
+- '[[Changes/Raycast/2022-05-04-2-interface-experience-changes-in-raycast-macos-v1-1-34-0|2
+  Interface Experience changes in Raycast macos-v1 1.34.0]]'
+- '[[Changes/Raycast/2022-05-18-declined-events-aren-t-displayed-in-the-menu-bar-anymore|Declined
+  events aren’t displayed in the menu bar anymore]]'
+- '[[Changes/Raycast/2022-06-07-calendar-events-longer-than-24h-should-not-be-displayed-in-the-menu-bar-anymore|Calendar
+  : Events longer than 24h should not be displayed in the menu bar anymore]]'
 source_release: '[[Releases/Notion/notion-2022-08-11-https-www-notion-com-releases-2022-08-11-ccc8ec72|notion-2022-08-11-https-www-notion-com-releases-2022-08-11-ccc8ec72]]'
 source_type: notion_changelog
 theme: interface-experience
@@ -88,8 +88,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2022-05-03 · Notion · [[Changes/Notion/2022-05-03-one-property-default-add-items-from-database-b-to-database-a-without-creating-an|One property (default)]]
-- Later: 2022-12-06 · Descript · [[Changes/Descript/2022-12-06-add-scenes-by-active-speaker-out-of-beta-use-this-feature-from-the-script-action|Add scenes by active speaker out of beta]]
+- Earlier: 2022-06-07 · Raycast · [[Changes/Raycast/2022-06-07-calendar-events-longer-than-24h-should-not-be-displayed-in-the-menu-bar-anymore|Calendar : Events longer than 24h should not be displayed in the menu bar anymore]]
+- Later: 2022-08-18 · Raycast · [[Changes/Raycast/2022-08-18-2-interface-experience-changes-in-raycast-macos-v1-1-39-0|2 Interface Experience changes in Raycast macos-v1 1.39.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

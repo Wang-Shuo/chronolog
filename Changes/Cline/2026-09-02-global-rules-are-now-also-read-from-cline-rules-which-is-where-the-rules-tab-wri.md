@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 14fa7939f389e1df1a6bc4f2b1b0e559ef2b89f34a839f567cd4bcbc16168f4e
+machine_hash: e400dab29ddd2650bbfd34c617e9bb5f425bec23bdbdba93f6bd16751d00c3e0
 product: cline
 product_name: Cline
 record:
@@ -100,7 +100,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-09-02 · Claude Code · [[Changes/Claude Code/2026-09-02-improved-terminal-resize-and-first-render-performance-for-long-responses-by-reus|Improved terminal resize and first-render performance for long responses by reusing…]]
-- Later: 2026-09-02 · Google Antigravity · [[Changes/Google Antigravity/2026-09-02-terminal-split-layouts-are-now-preserved-across-window-reloads|Terminal split layouts are now preserved across window reloads]]
+- Later: 2026-09-02 · Devin · [[Changes/Devin/2026-09-02-scan-composer-command|/scan Composer Command]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

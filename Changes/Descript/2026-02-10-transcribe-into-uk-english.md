@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 6990a7e313266cc0fedf54058beeda9c63b3da9dc63e0086c82676c179b76cb1
+machine_hash: 5ba9dd0425fd0c272629aa0eafc68198136c753a9046112b9a949351ef63148f
 product: descript
 product_name: Descript
 record:
@@ -54,8 +54,9 @@ record:
   title: Transcribe into UK English
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-02-02-widget-packages|Widget Packages]]'
 - '[[Changes/ElevenLabs/2026-02-02-react-and-client-sdks|React and Client SDKs]]'
+- '[[Changes/Raycast/2026-02-04-voice-transcription-now-filters-out-silence|Voice
+  : Transcription now filters out silence]]'
 - '[[Changes/HeyGen/2026-02-06-5-audio-translation-is-now-unlimited|Audio translation
   is now unlimited]]'
 source_release: '[[Releases/Descript/descript-2026-02-10-698b53cfff8de99c84c132f7-0801d6da|descript-2026-02-10-698b53cfff8de99c84c132f7-0801d6da]]'

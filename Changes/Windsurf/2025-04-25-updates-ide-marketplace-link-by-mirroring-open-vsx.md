@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 760571f78a65218ac7cce13b6ab4b83e3bab47010dcf93fc5e330d8a69f95ec0
+machine_hash: f922b59cac4bd5c0e518c5a7b5e2b589deb3bd95a04d15cb2985819de188a11e
 product: windsurf
 product_name: Windsurf
 record:
@@ -40,11 +40,11 @@ record:
   title: Updates IDE marketplace link by mirroring Open VSX
   type: change
 related_changes:
-- '[[Changes/Dify/2025-04-23-2-editor-experience-changes-in-1-3-0|2 Editor Experience
-  changes in 1.3.0]]'
 - '[[Changes/Midjourney/2025-04-23-lots-of-editor-improvements|Lots of editor improvements]]'
 - '[[Changes/OpenHands/2025-04-23-introduced-a-new-changes-tab-to-show-modifications-made-by-openhands-by-amanape|Introduced
   a new Changes tab to show modifications made by OpenHands]]'
+- '[[Changes/LM Studio/2025-04-24-3-editor-experience-changes-in-lm-studio-0-3-15|3
+  Editor Experience changes in LM Studio 0.3.15]]'
 source_release: '[[Releases/Windsurf/windsurf-2025-04-25-v1-7-1-2c0ffc53|windsurf-2025-04-25-v1-7-1-2c0ffc53]]'
 source_type: windsurf_changelog
 theme: editor-experience
@@ -71,7 +71,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2025-04-23 · OpenHands · [[Changes/OpenHands/2025-04-23-introduced-a-new-changes-tab-to-show-modifications-made-by-openhands-by-amanape|Introduced a new Changes tab to show modifications made by OpenHands]]
+- Earlier: 2025-04-24 · LM Studio · [[Changes/LM Studio/2025-04-24-3-editor-experience-changes-in-lm-studio-0-3-15|3 Editor Experience changes in LM Studio 0.3.15]]
 - Later: 2025-04-29 · OpenHands · [[Changes/OpenHands/2025-04-29-replaced-the-workspace-tab-with-a-vs-code-tab-by-rbren-in-https-github-com-all-h|Replaced the workspace tab with a VS Code tab]]
 <!-- chronolog:end -->
 

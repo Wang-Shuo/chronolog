@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: pricing
-machine_hash: 64cb998b96cfb15d320f178ca3927f0b86c82f8280b91cb66fe2e3ece5e71399
+machine_hash: 1bf79ae87ef645f615645f9cccffd8e90cdb7472401120aaf4e772517376258d
 product: lovable
 product_name: Lovable
 record:
@@ -63,10 +63,10 @@ record:
   title: Credit check-ins for long-running messages (beta)
   type: change
 related_changes:
-- '[[Changes/Cline/2026-08-11-report-fable-5-cost-on-vertex-as-unknown-rather-than-applying-anthropic-s-list-p|Report
-  Fable 5 cost on Vertex as unknown rather than applying Anthropic''s list…]]'
 - '[[Changes/Microsoft 365 Copilot/2026-08-11-consumption-dashboard-tracks-copilot-credit-usage-web-viva-insights|Consumption
   Dashboard tracks Copilot credit usage Web (Viva Insights)]]'
+- '[[Changes/Recraft/2026-08-13-cost-18-credits-per-generation-for-480p-and-41-credits-for-720p|Cost:
+  18 credits per generation for 480p and 41 credits for 720p]]'
 - '[[Changes/v0/2026-08-14-billing-and-checkout-show-actionable-payment-errors-scope-appropriate-upgrade-pl|Billing
   and checkout show actionable payment errors, scope-appropriate upgrade…]]'
 source_release: '[[Releases/Lovable/lovable-2026-08-17-2026-08-17-6196d42b|lovable-2026-08-17-2026-08-17-6196d42b]]'

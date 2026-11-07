@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 307d909abe0ddadfbb87321a241ba48d8696dff5b92e5df6708585bc0c2eb9d9
+machine_hash: cd502df8b04b775790eada877eb94497d7b94ac47490197cc9731d507f6029d5
 product: cursor
 product_name: Cursor
 record:
@@ -46,8 +46,8 @@ record:
   title: Share prompts with deeplinks (beta)
   type: change
 related_changes:
-- "[[Changes/Dify/2025-09-22-customize-and-share-pipelines-by-importing-exporting-via-dsl-for-easier-reusabil|\U0001F504
-  Customize and share pipelines by importing/exporting via DSL for easier…]]"
+- '[[Changes/Recraft/2025-09-22-we-ve-launched-a-substack-to-share-practical-ai-tutorials-design-best-practices|Recraft
+  is now on Substack: Follow for creative tips and inspiration]]'
 - '[[Changes/Codex CLI/2025-09-23-3878-move-responses-mocking-helpers-to-a-shared-lib-3878|♯3878
   Move responses mocking helpers to a shared lib (♯3878)]]'
 - '[[Changes/Open WebUI/2025-09-25-editor-collaboration-functionality-was-refactored-to-reduce-package-size-by-390k|⚡

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d5d475b23cc09ad5555d54250d6e7696da6fd17c0e50a1f4110c30d4b41d95d4
+machine_hash: 003a59003ba983c9dd6f8bc2a1d12e4f839c07d2fe0f13ecff682c752bf99b7a
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -48,8 +48,8 @@ record:
   title: 3 Context Window changes in v0.29.0
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2026-02-17-image-and-file-attachment-handling-fixes-uploaded-images-are-now-correctly-sent|\U0001F5BC️
-  Image and file attachment handling fixes. Uploaded images are now correctly…]]"
+- '[[Changes/AnythingLLM/2026-02-18-2-context-window-changes-in-v1-11-0|2 Context
+  Window changes in v1.11.0]]'
 - '[[Changes/Codex CLI/2026-02-18-2-context-window-changes-in-rust-v0-104-0|2 Context
   Window changes in rust-v0.104.0]]'
 - '[[Changes/Cursor/2026-02-18-cli-now-stores-conversation-transcripts-that-the-agent-can-use-as-context|CLI

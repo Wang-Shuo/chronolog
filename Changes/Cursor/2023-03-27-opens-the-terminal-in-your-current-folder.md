@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 750a52e173dc8b44961c6cbebda24b147368423f5783f041b56a7973ac08dc6a
+machine_hash: 02c78e5faeea4245f6a20807e4c7bd613651a9c07283403b8959020c52806639
 product: cursor
 product_name: Cursor
 record:
@@ -40,8 +40,7 @@ record:
   title: Opens the terminal in your current folder
   type: change
 related_changes:
-- '[[Changes/Notion/2022-10-12-every-few-months-our-engineers-participate-in-a-week-long-bug-bash-to-keep-your|Every
-  few months, our engineers participate in a week-long “bug bash” to keep…]]'
+- '[[Changes/Raycast/2023-02-01-deeplinks|Deeplinks]]'
 - '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
 - '[[Changes/Cursor/2023-03-23-terminal-no-longer-interferes-with-chat|Terminal no
   longer interferes with chat]]'
@@ -75,7 +74,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2023-03-23 · Cursor · [[Changes/Cursor/2023-03-23-terminal-no-longer-interferes-with-chat|Terminal no longer interferes with chat]]
-- Later: 2023-04-07 · Cursor · [[Changes/Cursor/2023-04-07-turns-off-the-auto-install-of-the-cursor-command-and-fixes-its-install-altogethe|Turns off the auto-install of the "cursor ." command (and fixes its install altogether)]]
+- Later: 2023-03-29 · Raycast · [[Changes/Raycast/2023-03-29-script-command-deeplinks-launch-any-script-command-from-outside-of-raycast-using|Script Command Deeplinks]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

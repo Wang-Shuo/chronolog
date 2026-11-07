@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 9aea1d503b95aa6e4037528787b33f83a47e886f15f7c0b3e7200ea0c3c44015
+machine_hash: caf9eee0181726721c368b5cf60faecde7791239d5fb10997e8db3cecae82909
 product: notion
 product_name: Notion
 record:
@@ -54,12 +54,12 @@ record:
   title: Drag a value from one cell to fill other cells
   type: change
 related_changes:
-- '[[Changes/Notion/2021-03-10-improved-slash-command-support-for-japanese-keyboards|Improved
-  slash command support for Japanese keyboards]]'
-- '[[Changes/Notion/2021-12-23-create-flowcharts-diagrams-in-code-blocks|Create flowcharts
-  & diagrams in code blocks]]'
-- '[[Changes/Notion/2022-04-14-code-blocks-on-public-notion-pages-now-include-a-copy-button-to-copy-everything|Code
-  blocks on public Notion pages now include a Copy button to copy everything…]]'
+- '[[Changes/Raycast/2022-05-18-find-screenshots-by-text-in-images|Find screenshots
+  by text in images]]'
+- '[[Changes/Raycast/2022-06-29-you-can-now-import-snippets-from-a-json-file-search-for-import-snippets-command|Import
+  snippets from a JSON file]]'
+- '[[Changes/Raycast/2022-07-19-search-screenshots-you-can-now-opt-in-from-the-command-s-preferences-to-include|Search
+  Screenshots : You can now opt-in from the command’s preferences to include…]]'
 source_release: '[[Releases/Notion/notion-2022-08-25-https-www-notion-com-releases-2022-08-25-3c4bbec4|notion-2022-08-25-https-www-notion-com-releases-2022-08-25-3c4bbec4]]'
 source_type: notion_changelog
 theme: developer-workflow
@@ -95,8 +95,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2022-04-14 · Notion · [[Changes/Notion/2022-04-14-code-blocks-on-public-notion-pages-now-include-a-copy-button-to-copy-everything|Code blocks on public Notion pages now include a Copy button to copy everything…]]
-- Later: 2022-10-12 · Notion · [[Changes/Notion/2022-10-12-every-few-months-our-engineers-participate-in-a-week-long-bug-bash-to-keep-your|Every few months, our engineers participate in a week-long “bug bash” to keep…]]
+- Earlier: 2022-07-19 · Raycast · [[Changes/Raycast/2022-07-19-search-screenshots-you-can-now-opt-in-from-the-command-s-preferences-to-include|Search Screenshots : You can now opt-in from the command’s preferences to include…]]
+- Later: 2022-09-28 · Raycast · [[Changes/Raycast/2022-09-28-lightsaber-we-have-temporarily-removed-the-lightsaber-command|Lightsaber: We have temporarily removed the Lightsaber command]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

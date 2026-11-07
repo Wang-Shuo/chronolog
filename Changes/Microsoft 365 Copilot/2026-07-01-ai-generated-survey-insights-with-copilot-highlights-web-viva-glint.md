@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: a7172338a3dafd4f1a4ffb512f1fece62a6cb357693e4e7e40e0d9c85cb1aa1d
+machine_hash: a58b334383c6c9cbae85ea0544eb84105ce20b69d70a84685df6d8fcebe5506a
 product: microsoft-365-copilot
 product_name: Microsoft 365 Copilot
 record:
@@ -57,12 +57,11 @@ record:
   title: AI-generated survey insights with Copilot Highlights [Web] (Viva Glint)
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-06-30-faster-ai-responses-in-your-app-with-openai-priority-processing|Faster
-  AI responses in your app with OpenAI priority processing]]'
 - '[[Changes/Ollama/2026-06-30-2-reliability-and-performance-changes-in-v0-31-1|2
   Reliability and Performance changes in v0.31.1]]'
 - '[[Changes/OpenClaw/2026-06-30-4-reliability-and-performance-changes-in-v2026-6-11|4
   Reliability and Performance changes in v2026.6.11]]'
+- '[[Changes/Devin/2026-07-01-skills-analytics|Skills Analytics]]'
 source_release: '[[Releases/Microsoft 365 Copilot/microsoft-365-copilot-2026-07-01-2026-07-01-070e4e1f|microsoft-365-copilot-2026-07-01-2026-07-01-070e4e1f]]'
 source_type: m365_copilot_changelog
 theme: reliability-performance
@@ -116,7 +115,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-06-30 · OpenClaw · [[Changes/OpenClaw/2026-06-30-4-reliability-and-performance-changes-in-v2026-6-11|4 Reliability and Performance changes in v2026.6.11]]
+- Earlier: 2026-07-01 · Devin · [[Changes/Devin/2026-07-01-skills-analytics|Skills Analytics]]
 - Later: 2026-07-01 · Open WebUI · [[Changes/Open WebUI/2026-07-01-general-improvements-various-improvements-were-implemented-across-the-applicatio|🔄 General improvements. Various improvements were implemented across…]]
 <!-- chronolog:end -->
 

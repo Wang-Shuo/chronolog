@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0b3e3218f3efe23e2e249301aaa8787953fc63cfa08b1b1f1f695c704045441e
+machine_hash: 6af66f8bb2640ef04f1ace8fb309b00e78b410307c24d9e77635d8380a57bcdd
 product: aider
 product_name: Aider
 record:
@@ -42,11 +42,12 @@ record:
   title: Prevent false auto-commits on Windows, by @ctoth
   type: change
 related_changes:
-- '[[Changes/Ollama/2023-10-13-ollama-for-macos-will-now-always-update-to-the-latest-version-even-if-earlier-up|Ollama
-  for macOS will now always update to the latest version, even if earlier…]]'
-- '[[Changes/Descript/2023-10-16-simplified-script-tools|Simplified Script tools]]'
 - '[[Changes/Dify/2023-12-08-feat-fe-mobile-responsive-next-by-yuhao1118-in-https-github-com-langgenius-dify|feat:
   fe mobile responsive next]]'
+- '[[Changes/Superwhisper/2023-12-10-app-icon-has-been-matched-to-macos-standards|App
+  icon has been matched to macOS standards]]'
+- '[[Changes/Superwhisper/2023-12-14-minimum-system-version-is-now-macos-13|Minimum
+  system version is now macOS 13]]'
 source_release: '[[Releases/Aider/aider-2024-01-04-v0-20-0-github-135845423-1a95dda2|aider-2024-01-04-v0-20-0-github-135845423-1a95dda2]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -76,7 +77,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2023-12-08 · Dify · [[Changes/Dify/2023-12-08-feat-fe-mobile-responsive-next-by-yuhao1118-in-https-github-com-langgenius-dify|feat: fe mobile responsive next]]
+- Earlier: 2023-12-14 · Superwhisper · [[Changes/Superwhisper/2023-12-14-minimum-system-version-is-now-macos-13|Minimum system version is now macOS 13]]
 - Later: 2024-02-05 · Descript · [[Changes/Descript/2024-02-05-quick-recorder-gets-a-major-upgrade-on-macos|Quick Recorder gets a major upgrade on MacOS]]
 <!-- chronolog:end -->
 

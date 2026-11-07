@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2b4d13fd6a9b49ae55b37cf6689b0358da3ad0afdb76c7af4b403a9fe76c8d4f
+machine_hash: b2108dcf1fc7f82c76ca613a13d0a6329242d74bb18e6e9a205cf35fd4d18fd5
 product: ollama
 product_name: Ollama
 record:
@@ -39,10 +39,10 @@ record:
   title: Web Search (coming soon)
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-04-20-plugin-workflows-now-include-tabbed-browsing-inline-enable-disable-toggles-marke|Plugin
-  workflows now include tabbed browsing, inline enable/disable toggles…]]'
 - '[[Changes/Open WebUI/2026-04-21-4-search-and-browsing-changes-in-v0-9-0|4 Search
   and Browsing changes in v0.9.0]]'
+- '[[Changes/AnythingLLM/2026-04-22-x-ddg-default-web-search-in-agent-skills|x DDG
+  default web-search in agent skills]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-01-research-uses-an-orchestrator-subagent-model-for-more-thorough-and-reliable-deep|/research
   uses an orchestrator/subagent model for more thorough and reliable deep…]]'
 source_release: '[[Releases/Ollama/ollama-2026-05-03-v0-23-0-github-316795929-a73ed73c|ollama-2026-05-03-v0-23-0-github-316795929-a73ed73c]]'

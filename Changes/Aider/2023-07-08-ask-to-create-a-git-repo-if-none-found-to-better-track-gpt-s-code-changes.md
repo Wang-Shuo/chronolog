@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2468de7a266525f226d2cb3e3631c972a1d59fa215d9bad6aec2333c323b3049
+machine_hash: a9d263f89b62fca6dbd91f1c284cce2b12f8a2fa09692f2f707884e8298f8584
 product: aider
 product_name: Aider
 record:
@@ -43,11 +43,11 @@ record:
   title: Ask to create a git repo if none found, to better track GPT's code changes
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-06-17-the-ai-linter-now-shows-diffs|Diffs in AI linter feedback]]'
-- '[[Changes/Cursor/2023-06-24-chat-was-failing-on-some-non-git-folders-that-is-now-fixed|Chat
-  was failing on some non-git folders]]'
 - '[[Changes/Cursor/2023-06-27-you-can-now-use-run-debug-in-cursor-again-the-toolbar-is-back-db8146|Use
   Run & debug in Cursor again (the toolbar is back)]]'
+- '[[Changes/Raycast/2023-07-06-highlighting-of-changes|Highlighting of Changes]]'
+- '[[Changes/Raycast/2023-07-06-ai-chat-chats-are-now-saved-correctly-after-running-an-ask-ai-command|AI
+  Chat: Chats are now saved correctly after running an Ask AI command]]'
 source_release: '[[Releases/Aider/aider-2023-07-08-v0-8-2-github-111498168-d0c535d5|aider-2023-07-08-v0-8-2-github-111498168-d0c535d5]]'
 source_type: github_releases
 theme: developer-workflow
@@ -79,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2023-06-27 · Cursor · [[Changes/Cursor/2023-06-27-you-can-now-use-run-debug-in-cursor-again-the-toolbar-is-back-db8146|Use Run & debug in Cursor again (the toolbar is back)]]
+- Earlier: 2023-07-06 · Raycast · [[Changes/Raycast/2023-07-06-ai-chat-chats-are-now-saved-correctly-after-running-an-ask-ai-command|AI Chat: Chats are now saved correctly after running an Ask AI command]]
 - Later: 2023-07-08 · Aider · [[Changes/Aider/2023-07-08-ask-to-create-a-git-repo-if-none-found-to-better-track-gpt-s-code-changes-e7e81b|Ask to create a git repo if none found, to better track GPT's code changes]]
 <!-- chronolog:end -->
 

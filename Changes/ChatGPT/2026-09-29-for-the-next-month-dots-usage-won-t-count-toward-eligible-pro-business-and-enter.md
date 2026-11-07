@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e7ebb81e8c1a37a8f644d2987e3033c26ca0f6db4bdae19639f4ac9ae38d77d7
+machine_hash: 13e8c615ff695bb4be4f263d578e05b115fb3915dac98f33592b901b6748c067
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -79,7 +79,7 @@ type: change
 ## Nearby in Enterprise and Administration
 
 - Earlier: 2026-09-28 · Claude Code · [[Changes/Claude Code/2026-09-28-claude-tag-improved-notify-members-now-in-admin-settings-one-press-reaches-every|Claude Tag Improved "Notify members now" in admin settings]]
-- Later: 2026-09-30 · OpenClaw · [[Changes/OpenClaw/2026-09-30-2-enterprise-and-administration-changes-in-v2026-9-7|2 Enterprise and Administration changes in v2026.9.7]]
+- Later: 2026-09-30 · Devin · [[Changes/Devin/2026-09-30-environments-and-analytics|Environments and Analytics]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -10,12 +10,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a919a13d74379ffb1a36bdb296cdd07b1cce6b9d4b1ae8a84da811bef8f08ad9
+machine_hash: 91a576afc970a2d9120556bf6e607655cb04c3aaf4eafcf243aa20ade782be28
 product: suno
 product_name: Suno
 record:
@@ -47,10 +47,10 @@ record:
   title: 2️⃣ Click Edit Profile
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2024-03-31-tag-autocomplete-dropdown-feature-added-for-effortless-chat-tagging|\U0001F3F7️
-  Tag Autocomplete: Dropdown feature added for effortless chat tagging]]"
 - '[[Changes/Dify/2024-04-09-2-editor-experience-changes-in-0-6-1|2 Editor Experience
   changes in 0.6.1]]'
+- '[[Changes/Raycast/2024-04-10-added-an-action-to-edit-a-siri-shortcut|Added an action
+  to edit a Siri Shortcut]]'
 - '[[Changes/Cursor/2024-04-12-copilot-ux-suggestion-previews-now-have-syntax-highlighting-which-we-find-makes|Copilot++
   UX: Suggestion previews now have syntax highlighting, which we find makes…]]'
 source_release: '[[Releases/Suno/suno-2024-04-12-e-profiles-1e03c03f|suno-2024-04-12-e-profiles-1e03c03f]]'

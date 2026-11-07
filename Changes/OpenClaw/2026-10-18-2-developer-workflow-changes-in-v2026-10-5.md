@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ee79d9629b4871f2a51825601a099588aa7d10d9b23a0fb8042aea5d7d26113c
+machine_hash: 4df27a52aa53aea70b7892ad9bad8be345913e9a5a2ba71cd2b3e1cfcf3a4d5c
 product: openclaw
 product_name: OpenClaw
 record:
@@ -45,8 +45,8 @@ record:
   title: 2 Developer Workflow changes in v2026.10.5
   type: change
 related_changes:
-- '[[Changes/Google Antigravity/2026-10-15-mark-all-as-read-is-now-available-from-the-command-palette-whenever-you-have-unr|Mark
-  All as Read is now available from the command palette whenever you have unread…]]'
+- '[[Changes/Devin/2026-10-16-bitbucket-cloud-merge-readiness|Bitbucket Cloud Merge
+  Readiness]]'
 - '[[Changes/Open WebUI/2026-10-16-20-developer-workflow-changes-in-v0-12-3|20 Developer
   Workflow changes in v0.12.3]]'
 - '[[Changes/OpenClaw/2026-10-16-3-developer-workflow-changes-in-v2026-10-4|3 Developer

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: bf3acfd325cdf1605a3a65e5a7e0d13a1c648f546848179de2b70382707b3f44
+machine_hash: 7b79a4c60e05954ec4b5865d4d266682daa0574da29c750bed53e54df1743297
 product: dify
 product_name: Dify
 record:
@@ -54,10 +54,10 @@ record:
   title: 5 Reliability and Performance changes in 1.9.0
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-09-17-2-reliability-and-performance-changes-in-toggle-thinking-time-in-the-message|2
-  Reliability and Performance changes in Toggle thinking time in the message…]]'
 - '[[Changes/Open WebUI/2025-09-17-8-reliability-and-performance-changes-in-v0-6-29|8
   Reliability and Performance changes in v0.6.29]]'
+- '[[Changes/Devin/2025-09-19-git-permissions-performance-improvements|Git permissions
+  performance improvements]]'
 - '[[Changes/Replit/2025-09-19-faster-user-deletion-in-clui|Faster user deletion in
   CLUI]]'
 source_release: '[[Releases/Dify/dify-2025-09-22-1-9-0-github-249001568-ef530801|dify-2025-09-22-1-9-0-github-249001568-ef530801]]'

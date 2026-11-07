@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: c720842f2594397efe764b2c5ac5671d06ef28f788395c864d5079ef1b143ee3
+machine_hash: 4d71678da4e20479164393c4515ffdd62057bdfd5f040f2903648db7a6bdeb35
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-06-22 · ElevenLabs · [[Changes/ElevenLabs/2026-06-22-dubbing|Dubbing]]
-- Later: 2026-06-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-23-7-model-support-changes-in-v1-0-64|7 Model Support changes in v1.0.64]]
+- Later: 2026-06-22 · Superwhisper · [[Changes/Superwhisper/2026-06-22-3-model-support-changes-in-superwhisper-windows-1-5-1|3 Model Support changes in Superwhisper Windows 1.5.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

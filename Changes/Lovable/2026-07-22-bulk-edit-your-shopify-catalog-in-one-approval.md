@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 1ce8b5595719ef395c6b82b173e49edcb445a9fdb3183a8eb940dc1e6104734b
+machine_hash: dd4fbdf78547dbe8cee96eba66f9c023aa248cf5487d54b5d40bf027439c6dae
 product: lovable
 product_name: Lovable
 record:
@@ -51,10 +51,9 @@ record:
   title: Bulk-edit your Shopify catalog in one approval
   type: change
 related_changes:
-- '[[Changes/v0/2026-07-21-3-apps-and-integrations-changes-in-slash-commands-the-shopify|3
-  Apps and Integrations changes in Slash commands, the Shopify…]]'
 - '[[Changes/Claude Code/2026-07-22-3-apps-and-integrations-changes-in-v2-1-218|3
   Apps and Integrations changes in v2.1.218]]'
+- '[[Changes/Devin/2026-07-22-safer-mcp-access-changes|Safer MCP Access Changes]]'
 - '[[Changes/Kimi Code/2026-07-22-reconnect-a-dropped-mcp-server-connection-automatically-when-one-of-its-tools-is|Reconnect
   a dropped MCP server connection automatically when one of its tools…]]'
 source_release: '[[Releases/Lovable/lovable-2026-07-22-2026-07-22-3071ca78|lovable-2026-07-22-2026-07-22-3071ca78]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c8e34fa027a8549dc291a994c7cc018b690a556e5f0e0704b4feb66e52480d4b
+machine_hash: 8c5494d4d6b33583af07e5d237edfb4caf47696add1925a6d1f30ae0eddfd299
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,10 +42,10 @@ record:
   title: 'TUI quality-of-life: ctrl-n/p navigation for slash command lists and backtracking…'
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2025-11-06-10-interface-experience-changes-in-v0-6-35|10 Interface
-  Experience changes in v0.6.35]]'
 - '[[Changes/Codex CLI/2025-11-07-6249-stop-capturing-r-when-environment-selection-modal-is-open|♯6249
   stop capturing r when environment selection modal is open]]'
+- '[[Changes/Devin/2025-11-07-breadcrumb-navigation-redesign|Breadcrumb Navigation
+  Redesign]]'
 - '[[Changes/Gemini CLI/2025-11-07-4-interface-experience-changes-in-v0-13-0|4 Interface
   Experience changes in v0.13.0]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-11-09-rust-v0-57-0-github-260963239-baa7573b|codex-cli-2025-11-09-rust-v0-57-0-github-260963239-baa7573b]]'

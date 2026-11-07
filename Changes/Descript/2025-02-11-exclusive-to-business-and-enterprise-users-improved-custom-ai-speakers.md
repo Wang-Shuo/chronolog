@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 1c3d08329118a57c047d56e6eb53ecf88058d822c7d7da11102dfcc0d309aaf8
+machine_hash: 5dcd8dc816e0b1f0e05b005c45f0c74437103fd76138a9ff4e7d81c6dc1ccd7c
 product: descript
 product_name: Descript
 record:
@@ -50,7 +50,8 @@ record:
   title: Exclusive to Business and Enterprise users — improved custom AI speakers
   type: change
 related_changes:
-- '[[Changes/Replit/2025-01-10-teams-and-enterprise|Teams and Enterprise]]'
+- '[[Changes/Devin/2025-01-16-introducing-devin-enterprise-accounts|Introducing Devin
+  enterprise accounts]]'
 - "[[Changes/Open WebUI/2025-01-22-chat-controls-permissions-admins-can-now-disable-chat-controls-access-for-users|\U0001F512
   Chat Controls Permissions]]"
 - '[[Changes/Descript/2025-02-04-for-enterprise-users|For Enterprise users]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 8f118f01cfbbaf7353471fc7bdbf0f956a6379bc234218192f927bb6fca90455
+machine_hash: 73f8ac867bbdeef4230bbe229743569a8f5bdf9d28ecbd578e2c86bc7e661899
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -47,9 +47,9 @@ record:
   title: Supported LLM Models
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2025-10-24-improved-prompting-for-sonnet-4-5-to-reduce-the-number-of-intermediate-markdown|Improved
-  prompting for Sonnet 4.5 to reduce the number of intermediate markdown…]]'
 - '[[Changes/Runway/2025-10-24-create-your-own-custom-node-based-workflows-chaining-together-multiple-models-mo|Workflows]]'
+- '[[Changes/Superwhisper/2025-10-24-3-model-support-changes-in-superwhisper-macos-2-6-3|3
+  Model Support changes in Superwhisper macOS 2.6.3]]'
 - '[[Changes/Cline/2025-10-27-3-model-support-changes-in-v3-34-1|3 Model Support changes
   in v3.34.1]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2025-10-27-2025-10-27-a0636583|elevenlabs-2025-10-27-2025-10-27-a0636583]]'

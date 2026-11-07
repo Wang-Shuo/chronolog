@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8db588288455f93a195f5e5861f9f98506b2c107e67461113b155006a48dc044
+machine_hash: 3084f69ef572c50c04c10cde6b1884264059254af276f93dc33a35b2c15b9d12
 product: ollama
 product_name: Ollama
 record:
@@ -52,10 +52,9 @@ record:
   title: 4 Reliability and Performance changes in v0.18.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-12-added-actionable-suggestions-to-context-command-identifies-context-heavy-tools-m|Added
-  actionable suggestions to /context command]]'
 - '[[Changes/OpenCode/2026-03-12-desktop-trim-session-render-work-in-app-for-improved-performance|Desktop
   Trim session render work in app for improved performance]]'
+- '[[Changes/Superwhisper/2026-03-12-performance|Performance]]'
 - '[[Changes/v0/2026-03-12-improved-code-server-loading-speed-for-fresh-vms|Improved
   code-server loading speed for fresh VMs]]'
 source_release: '[[Releases/Ollama/ollama-2026-03-14-v0-18-0-github-296861801-d01e9dff|ollama-2026-03-14-v0-18-0-github-296861801-d01e9dff]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 20dd20f2aa8a09235481f5198761b36ab8a4c78e666c1008a39bc147537c8d6c
+machine_hash: d291e74a7a39df80efcf7810a5e8d78fb9994abca184ed5f65c65ae14c78ba4e
 product: cline
 product_name: Cline
 record:
@@ -55,8 +55,8 @@ record:
   title: 8 Developer Workflow changes in v3.33.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-10-09-tui-switch-to-tree-sitter-highlight-bash-highlighting-by-nornagon-openai-in-http|TUI
-  Switch to tree-sitter-highlight bash highlighting]]'
+- '[[Changes/Raycast/2025-10-10-2-developer-workflow-changes-in-raycast-windows-0-32|2
+  Developer Workflow changes in Raycast windows 0.32]]'
 - '[[Changes/Gemini CLI/2025-10-15-3-developer-workflow-changes-in-v0-9-0|3 Developer
   Workflow changes in v0.9.0]]'
 - '[[Changes/GitHub Copilot CLI/2025-10-15-added-terminal-setup-command-to-set-up-multi-line-input-on-terminals-not-impleme|Added

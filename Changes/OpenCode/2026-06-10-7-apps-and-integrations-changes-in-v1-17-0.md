@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4ae107591140da62978de98ab4d8d8b9e05fd4a14eaf1155dd10097286e3e8ce
+machine_hash: 0ea9d0ed5049b2af8d92840c937a0da0f0a7a0c45988f512b25836de969a4684
 product: opencode
 product_name: OpenCode
 record:
@@ -55,8 +55,7 @@ record:
   title: 7 Apps and Integrations changes in v1.17.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-10-3-apps-and-integrations-changes-in-v2-1-172|3
-  Apps and Integrations changes in v2.1.172]]'
+- '[[Changes/Devin/2026-06-10-official-figma-mcp-integration|Official Figma MCP Integration]]'
 - '[[Changes/Kimi Code/2026-06-10-add-an-interrupt-hook-event-that-fires-when-the-user-interrupts-a-turn-e-g-press|Add
   an Interrupt hook event that fires when the user interrupts a turn…]]'
 - '[[Changes/Kimi Code/2026-06-10-2-apps-and-integrations-changes-in-kimi-code-0-13-0|2

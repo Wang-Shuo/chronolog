@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: projects-workspaces
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 71b4dbf546177e5dbc0b9e5ea6f2abfd94d4076e7c648a45121eec81bd9cb776
+machine_hash: acae769e2f7a67e3f022dec847de5b6606194aaca3e26b7a3c32da04cbcc5c5f
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -47,10 +47,10 @@ record:
   title: 4 Projects and Workspaces changes in v1.0.64
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-04-local-session-history-is-safer-for-compressed-rollouts-renamed-titles-pathless-s|Local
-  session history is safer for compressed rollouts, renamed titles, pathless…]]'
-- '[[Changes/Kimi Code/2026-06-10-prevent-forking-sessions-during-active-turns-and-consolidate-wire-protocol-defin|Prevent
-  forking sessions during active turns and consolidate wire protocol…]]'
+- '[[Changes/Raycast/2026-06-12-focus-use-pause-focus-session-resume-focus-session-and-complete-focus-session-to|Focus:
+  Use Pause Focus Session , Resume Focus Session and Complete Focus Session…]]'
+- '[[Changes/Raycast/2026-06-12-focus-use-pause-focus-session-resume-focus-session-and-complete-focus-session-to-8a29a1|Focus:
+  Use Pause Focus Session , Resume Focus Session and Complete Focus Session…]]'
 - '[[Changes/Gemini CLI/2026-06-18-avoid-persisting-empty-resume-sessions-by-sandytao520-in-https-github-com-google|Avoid
   persisting empty resume sessions]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-06-23-v1-0-64-github-343650012-6d4aa4bd|github-copilot-cli-2026-06-23-v1-0-64-github-343650012-6d4aa4bd]]'

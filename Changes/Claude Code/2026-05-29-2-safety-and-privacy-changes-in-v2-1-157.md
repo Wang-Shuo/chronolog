@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0c007aebfee1652db40168096bfe4f605cdb6d20434c38f313ad5c53d0208844
+machine_hash: 7779d5ff66c2fa0da11ec53eca40a2c9127949da5174bc74a14841de89b2924a
 product: claude-code
 product_name: Claude Code
 record:
@@ -90,7 +90,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.157
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-05-28 · OpenCode · [[Changes/OpenCode/2026-05-28-core-handled-acp-next-permission-prompts-correctly|Core Handled acp-next permission prompts correctly]]
-- Later: 2026-05-29 · Synthesia · [[Changes/Synthesia/2026-05-29-members-on-free-and-restricted-licenses-can-now-edit-scripts-and-add-screen-reco|Let free workspace members help you edit]]
+- Later: 2026-05-29 · LM Studio · [[Changes/LM Studio/2026-05-29-security-hardening|Security hardening]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

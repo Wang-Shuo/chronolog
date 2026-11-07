@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1932c18cfbdb4b8cd94137f488eefe54fea12107ecb1e522a047f52c5e6ab9ca
+machine_hash: 28ac9941f94895009d4c7482539e058cb0d7e35c65d1ea58022a99d92270dedc
 product: opencode
 product_name: OpenCode
 record:
@@ -40,12 +40,11 @@ record:
   title: Core Remove worktree delete functionality
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-02-12-27-developer-workflow-changes-in-v0-8-0|27 Developer
-  Workflow changes in v0.8.0]]'
 - '[[Changes/OpenCode/2026-02-12-2-developer-workflow-changes-in-v1-1-64-1|2 Developer
   Workflow changes in v1.1.64 + 1]]'
 - '[[Changes/OpenCode/2026-02-12-2-developer-workflow-changes-in-v1-1-60|2 Developer
   Workflow changes in v1.1.60]]'
+- '[[Changes/Devin/2026-02-13-devin-review-batch-comments|Devin Review: Batch Comments]]'
 source_release: '[[Releases/OpenCode/opencode-2026-02-13-v1-1-65-cd20b9cb|opencode-2026-02-13-v1-1-65-cd20b9cb]]'
 source_type: opencode_changelog
 theme: developer-workflow
@@ -77,8 +76,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-02-12 · OpenCode · [[Changes/OpenCode/2026-02-12-2-developer-workflow-changes-in-v1-1-60|2 Developer Workflow changes in v1.1.60]]
-- Later: 2026-02-14 · Open WebUI · [[Changes/Open WebUI/2026-02-14-2-developer-workflow-changes-in-v0-8-1|2 Developer Workflow changes in v0.8.1]]
+- Earlier: 2026-02-13 · Devin · [[Changes/Devin/2026-02-13-devin-review-batch-comments|Devin Review: Batch Comments]]
+- Later: 2026-02-13 · Raycast · [[Changes/Raycast/2026-02-13-quickly-create-a-new-script-with-create-script-command-or-import-existing-script|Quickly create a new script with Create Script Command or import existing scripts…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

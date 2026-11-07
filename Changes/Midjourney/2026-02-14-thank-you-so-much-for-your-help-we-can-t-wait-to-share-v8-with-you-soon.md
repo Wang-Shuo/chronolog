@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 5a87b62b80e0f08661417130a0e4c5ba28f72803d95def78c950558d5b9cafa1
+machine_hash: cc3cd2d04e29ec02a6d9171b6c5af1edb2eccc69d9875a87392ee8e632fc82d0
 product: midjourney
 product_name: Midjourney
 record:
@@ -44,11 +44,10 @@ record:
   title: Thank you so much for your help!
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-02-12-2-collaboration-changes-in-v0-8-0|2 Collaboration
-  changes in v0.8.0]]'
 - '[[Changes/Windsurf/2026-02-12-enterprise-team-improvements|Enterprise & Team Improvements]]'
 - '[[Changes/ChatGPT/2026-02-13-cleaner-select-all-behavior-cmd-a-cmd-a-now-selects-only-the-conversation-conten|Cleaner
   “Select All” behavior (Cmd+A)]]'
+- '[[Changes/Devin/2026-02-13-skills-support|Skills Support]]'
 source_release: '[[Releases/Midjourney/midjourney-2026-02-14-https-updates-midjourney-com-v8-rating-party-4b343b86|midjourney-2026-02-14-https-updates-midjourney-com-v8-rating-party-4b343b86]]'
 source_type: midjourney_changelog
 theme: collaboration
@@ -77,7 +76,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-02-13 · ChatGPT · [[Changes/ChatGPT/2026-02-13-cleaner-select-all-behavior-cmd-a-cmd-a-now-selects-only-the-conversation-conten|Cleaner “Select All” behavior (Cmd+A)]]
+- Earlier: 2026-02-13 · Devin · [[Changes/Devin/2026-02-13-skills-support|Skills Support]]
 - Later: 2026-02-14 · Open WebUI · [[Changes/Open WebUI/2026-02-14-sync-modal-unexpected-appearance-fixed-an-issue-where-the-sync-modal-would-appea|🐛 Sync modal unexpected appearance. Fixed an issue where the Sync Modal would…]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: e6434e8ce51c358df6a10a72c8fc627ff764d13abed8e3d12920fcf103f2b114
+machine_hash: 6f4d3f1b6a0b37bc3c4dafb424176a55bba819cd2c427ee3cc1dff46b474626b
 product: midjourney
 product_name: Midjourney
 record:
@@ -46,8 +46,8 @@ record:
   title: Please note
   type: change
 related_changes:
-- '[[Changes/Cline/2025-07-31-adding-redirecturl-to-credits-purchasing-experience-by-pashpashpash-in-https-git|adding
-  redirectUrl to credits purchasing experience]]'
+- '[[Changes/Recraft/2025-08-04-cost-per-generation-2-credits|Cost per generation:
+  2 credits]]'
 - '[[Changes/Cursor/2025-08-06-usage-and-pricing-visibility|Usage and pricing visibility]]'
 - '[[Changes/Midjourney/2025-08-07-about-hd-video-mode|About HD Video Mode]]'
 source_release: '[[Releases/Midjourney/midjourney-2025-08-07-https-updates-midjourney-com-hd-mode-for-video-7961c4e5|midjourney-2025-08-07-https-updates-midjourney-com-hd-mode-for-video-7961c4e5]]'

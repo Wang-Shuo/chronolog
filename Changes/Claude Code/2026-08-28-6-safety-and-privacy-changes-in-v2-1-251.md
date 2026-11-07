@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 47cc5ad25c9866bdc0ae3ce99b8ed0b9a228b9c3b6c9c51b654d474be283c9c2
+machine_hash: bbf9fb2ab843d66679830f73928da0683f8b976d73fcc27287903d61ef8d6aa5
 product: claude-code
 product_name: Claude Code
 record:
@@ -115,7 +115,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.251
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-08-27 · Qoder · [[Changes/Qoder/2026-08-27-harness-for-complex-tasks-qoder-s-harness-keeps-planning-execution-verification|Harness for complex tasks]]
-- Later: 2026-08-28 · Kimi Code · [[Changes/Kimi Code/2026-08-28-web-fix-switching-the-permission-mode-in-one-session-changing-it-for-every-sessi|web: Fix switching the permission mode in one session changing it for every session]]
+- Later: 2026-08-28 · Devin · [[Changes/Devin/2026-08-28-new-org-permission-manage-personal-automations|New Org Permission: Manage Personal Automations]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 4df873909d5ba2db5155688e5b00a17f09195ebab0d6b61e7599c97bfa083ee8
+machine_hash: 3375c936bdd8220a0abb225e4b47dea80687835a92fd5bb298c256b0c2b2f39e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -89,10 +89,10 @@ record:
   title: Introducing GPT-Live-1 in ChatGPT Voice
   type: change
 related_changes:
-- '[[Changes/Kimi Code/2026-07-02-group-consecutive-tool-calls-into-a-collapsible-stack-with-per-tool-renderers-in|Group
-  consecutive tool calls into a collapsible stack with per-tool renderers…]]'
 - '[[Changes/ElevenLabs/2026-07-06-music|Music]]'
 - '[[Changes/ElevenLabs/2026-07-06-workspaces-9376f0|Workspaces]]'
+- '[[Changes/Superwhisper/2026-07-06-improved-transcription-accuracy-with-enhanced-vocabulary-support-and-forced-alig|Improved
+  transcription accuracy with enhanced vocabulary support and forced…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-07-08-introducing-gpt-live-1-in-chatgpt-voice-9a0cfc91|chatgpt-2026-07-08-introducing-gpt-live-1-in-chatgpt-voice-9a0cfc91]]'
 source_type: chatgpt_changelog
 theme: voice
@@ -119,7 +119,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-07-06 · ElevenLabs · [[Changes/ElevenLabs/2026-07-06-workspaces-9376f0|Workspaces]]
+- Earlier: 2026-07-06 · Superwhisper · [[Changes/Superwhisper/2026-07-06-improved-transcription-accuracy-with-enhanced-vocabulary-support-and-forced-alig|Improved transcription accuracy with enhanced vocabulary support and forced…]]
 - Later: 2026-07-09 · Synthesia · [[Changes/Synthesia/2026-07-09-explore-stock-voices-by-language-preview-with-your-own-script-and-download-audio|Explore the new Voices page]]
 <!-- chronolog:end -->
 

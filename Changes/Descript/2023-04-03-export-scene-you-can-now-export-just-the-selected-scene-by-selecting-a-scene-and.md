@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0b6582bfbe2476c6c18a9be8d6a884b9d269cb83a04bb0ca05a3396679310e66
+machine_hash: 7d9a0320c32889581b2e467a286977f69a39d15250200a6e00b994750cb0be26
 product: descript
 product_name: Descript
 record:
@@ -47,10 +47,9 @@ record:
     a scene…'
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-03-23-3-interface-experience-changes-in-0-1-5|3 Interface
-  Experience changes in 0.1.5]]'
 - '[[Changes/Cursor/2023-03-27-changes-autoupdate-to-notify-you-when-there-s-a-new-version|Changes
   autoupdate to notify you when there''s a new version]]'
+- '[[Changes/Raycast/2023-03-29-quick-paste-insert|Quick Paste/Insert]]'
 - '[[Changes/Cursor/2023-03-30-cleaned-up-chat-styling|Cleaned up chat styling]]'
 source_release: '[[Releases/Descript/descript-2023-04-03-642b4b58d4e427111084d8d3-b4b64d98|descript-2023-04-03-642b4b58d4e427111084d8d3-b4b64d98]]'
 source_type: canny_changelog

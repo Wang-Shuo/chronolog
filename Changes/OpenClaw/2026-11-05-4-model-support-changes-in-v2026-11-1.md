@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e6602dfa0590d68a319a9c6b07de695e71e4a8640ffc927ec4aec1f883a0b5fe
+machine_hash: 59fe1ffced28adc4e1a3ac6d92cb7232330a8f47adc370208e91ac47cf815695
 product: openclaw
 product_name: OpenClaw
 record:
@@ -53,12 +53,12 @@ record:
   title: 4 Model Support changes in v2026.11.1
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-11-03-17-model-support-changes-in-v2026-10-10|17 Model
-  Support changes in v2026.10.10]]'
-- '[[Changes/Dify/2026-11-04-4-model-support-changes-in-1-19-0|4 Model Support changes
-  in 1.19.0]]'
-- '[[Changes/Gemini CLI/2026-11-04-feat-cli-add-models-command-and-list-models-flag-for-model-discovery-by-urielefr|feat(cli):
-  add models command and --list-models flag for model discovery]]'
+- '[[Changes/Krea/2026-11-04-model-access-is-now-access-controls|Model Access is now
+  Access Controls]]'
+- '[[Changes/Raycast/2026-11-04-ai-chat-improved-handling-of-unavailable-models|AI
+  Chat : Improved handling of unavailable models]]'
+- '[[Changes/Raycast/2026-11-04-ai-chat-improved-handling-of-unavailable-models-fd1d45|AI
+  Chat : Improved handling of unavailable models]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-11-05-v2026-11-1-7d3de823|openclaw-2026-11-05-v2026-11-1-7d3de823]]'
 source_type: openclaw_changelog
 theme: model-support
@@ -109,8 +109,8 @@ Source: https://docs.openclaw.ai/releases/2026.11.1
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-11-04 · Gemini CLI · [[Changes/Gemini CLI/2026-11-04-feat-cli-add-models-command-and-list-models-flag-for-model-discovery-by-urielefr|feat(cli): add models command and --list-models flag for model discovery]]
-- Later: 2026-11-06 · Codex CLI · [[Changes/Codex CLI/2026-11-06-7-model-support-changes-in-rust-v0-167-0|7 Model Support changes in rust-v0.167.0]]
+- Earlier: 2026-11-04 · Raycast · [[Changes/Raycast/2026-11-04-ai-chat-improved-handling-of-unavailable-models-fd1d45|AI Chat : Improved handling of unavailable models]]
+- Later: 2026-11-05 · Recraft · [[Changes/Recraft/2026-11-05-gpt-image-2-6-openai-s-newest-image-model-is-now-in-recraft-studio-in-two-versio|GPT Image 2.6, OpenAI's newest image model, is now in Recraft Studio in two versions]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

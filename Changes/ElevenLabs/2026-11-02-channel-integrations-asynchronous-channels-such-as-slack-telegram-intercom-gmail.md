@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 8172cea836c8436d2650f36298001cc71ac5984861984dec0fe365ecc1bab540
+machine_hash: d440e69ddb6421e00714064fabfe66111ae603a0080e85f5a905d513e5bb8182
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -66,12 +66,12 @@ record:
     Intercom…'
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-10-30-tui-plugins-require-opentui-0-8|TUI plugins require
-  OpenTUI 0.8]]'
 - '[[Changes/Qoder/2026-10-30-3-apps-and-integrations-changes-in-qoder-0-5-1|3 Apps
   and Integrations changes in Qoder 0.5.1]]'
 - '[[Changes/Claude Code/2026-10-31-7-apps-and-integrations-changes-in-v2-1-316|7
   Apps and Integrations changes in v2.1.316]]'
+- '[[Changes/Devin/2026-11-02-multiple-files-in-one-slack-post|Multiple Files in One
+  Slack Post]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-11-02-2026-11-02-7efe9660|elevenlabs-2026-11-02-2026-11-02-7efe9660]]'
 source_type: elevenlabs_changelog
 theme: apps-integrations
@@ -126,7 +126,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-10-31 · Claude Code · [[Changes/Claude Code/2026-10-31-7-apps-and-integrations-changes-in-v2-1-316|7 Apps and Integrations changes in v2.1.316]]
+- Earlier: 2026-11-02 · Devin · [[Changes/Devin/2026-11-02-multiple-files-in-one-slack-post|Multiple Files in One Slack Post]]
 - Later: 2026-11-02 · Lovable · [[Changes/Lovable/2026-11-02-connect-your-app-to-bamboohr|Connect your app to BambooHR]]
 <!-- chronolog:end -->
 

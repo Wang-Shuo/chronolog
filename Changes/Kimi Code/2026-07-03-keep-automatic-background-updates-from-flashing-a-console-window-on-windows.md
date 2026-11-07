@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1218f50009c24ab793aba78395dab61127cf2fd6fb4335b9901ddf2d68a21bcd
+machine_hash: 2700c14b0995aaa17788421032c75d8966f11dff2ebacb2d7e0d7da5b65aa53a
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -43,12 +43,12 @@ record:
   title: Keep automatic background updates from flashing a console window on Windows
   type: change
 related_changes:
-- '[[Changes/Microsoft 365 Copilot/2026-07-01-copilot-chat-in-outlook-expands-to-reason-over-inbox-calendar-and-enterprise-dat|Copilot
-  Chat in Outlook expands to reason over inbox, calendar, and enterprise data…]]'
 - '[[Changes/Microsoft 365 Copilot/2026-07-01-generated-files-inherit-sensitivity-labels-android-windows-ios-mac-web-microsoft|Generated
   files inherit sensitivity labels Android, Windows, iOS, Mac…]]'
 - '[[Changes/OpenCode/2026-07-01-5-mobile-and-desktop-changes-in-v1-17-13|5 Mobile
   and Desktop changes in v1.17.13]]'
+- '[[Changes/Wispr Flow/2026-07-02-flow-now-switches-back-automatically-for-more-apps-ios|Flow
+  now switches back automatically for more apps (iOS)]]'
 source_release: '[[Releases/Kimi Code/kimi-code-2026-07-03-0-22-2-40f69b2e|kimi-code-2026-07-03-0-22-2-40f69b2e]]'
 source_type: kimi_code_changelog
 theme: mobile-desktop
@@ -81,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-07-01 · OpenCode · [[Changes/OpenCode/2026-07-01-5-mobile-and-desktop-changes-in-v1-17-13|5 Mobile and Desktop changes in v1.17.13]]
+- Earlier: 2026-07-02 · Wispr Flow · [[Changes/Wispr Flow/2026-07-02-flow-now-switches-back-automatically-for-more-apps-ios|Flow now switches back automatically for more apps (iOS)]]
 - Later: 2026-07-03 · Replit · [[Changes/Replit/2026-07-03-the-redesigned-replit-desktop-app|The redesigned Replit Desktop App]]
 <!-- chronolog:end -->
 

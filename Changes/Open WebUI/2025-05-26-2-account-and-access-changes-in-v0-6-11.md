@@ -14,12 +14,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4fd841d428d350610843c409ca54e7873f9cee45ffd6d20fb2c05aa17b019a79
+machine_hash: 2bb08e92f05c8a4f8188f0be9b9daf9a6e3f9a46361d83e83cbb656a7a915446
 product: open-webui
 product_name: Open WebUI
 record:
@@ -49,12 +49,12 @@ record:
   title: 2 Account and Access changes in v0.6.11
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2025-05-10-2-account-and-access-changes-in-v0-6-8|2 Account
-  and Access changes in v0.6.8]]'
 - '[[Changes/Dify/2025-05-15-chore-avoid-repeated-type-ignore-noqa-by-adding-flask-restful-and-flask-login-in|chore:
   avoid repeated type ignore noqa by adding flask_restful and flask_login…]]'
 - '[[Changes/Replit/2025-05-16-replit-auth-matching-by-default|Replit Auth matching
   by default]]'
+- '[[Changes/LM Studio/2025-05-23-downloading-public-presets-does-not-require-a-login-publishing-liking-forking-do|Downloading
+  public presets does NOT require a login]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-05-26-v0-6-11-github-221095369-94c4d4cc|open-webui-2025-05-26-v0-6-11-github-221095369-94c4d4cc]]'
 source_type: github_releases
 theme: account-access
@@ -100,7 +100,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.6.11
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2025-05-16 · Replit · [[Changes/Replit/2025-05-16-replit-auth-matching-by-default|Replit Auth matching by default]]
+- Earlier: 2025-05-23 · LM Studio · [[Changes/LM Studio/2025-05-23-downloading-public-presets-does-not-require-a-login-publishing-liking-forking-do|Downloading public presets does NOT require a login]]
 - Later: 2025-05-27 · Dify · [[Changes/Dify/2025-05-27-refactor-consolidate-flask-login-authentication-logic-by-laipz8200-in-https-gith|refactor: Consolidate Flask-Login Authentication Logic]]
 <!-- chronolog:end -->
 

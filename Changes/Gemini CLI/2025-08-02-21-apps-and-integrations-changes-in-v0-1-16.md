@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6e11a47bbc0d7a61190d8f3b7d4d58ce242178f29855033d7cb20bac735cc616
+machine_hash: 439d4f49b42a0a1c723aa67ba32cf7d557fa1eeffe88b4689cbf3109ed498d29
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -86,10 +86,9 @@ record:
   title: 21 Apps and Integrations changes in v0.1.16
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-07-30-19-apps-and-integrations-changes-in-v0-1-15|19
-  Apps and Integrations changes in v0.1.15]]'
 - '[[Changes/Cline/2025-07-31-2-apps-and-integrations-changes-in-v3-20-3|2 Apps and
   Integrations changes in v3.20.3]]'
+- '[[Changes/Devin/2025-07-31-linear-mapping-ux-improvements|Linear Mapping UX Improvements]]'
 - '[[Changes/OpenHands/2025-07-31-add-mcp-support-for-cli-by-ryanhoangt-in-https-github-com-all-hands-ai-openhands|Add
   MCP support for CLI]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-08-02-v0-1-16-github-237037864-b4f734b7|gemini-cli-2025-08-02-v0-1-16-github-237037864-b4f734b7]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: e70245b95f64689147d42fae9d6af9117b21d64955bcd6cc20a411d97d52b70f
+machine_hash: 4a5af9da74ff8eb9b48c4ca3a71585f1c67cfed325114f3392f29d72aba33ed6
 product: windsurf
 product_name: Windsurf
 record:
@@ -40,10 +40,10 @@ record:
   title: Devin Desktop
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-06-18-chatgpt-now-has-more-ways-to-help-with-common-questions-from-pronunciation-guida|ChatGPT
-  now has more ways to help with common questions, from pronunciation guidance…]]'
 - '[[Changes/v0/2026-06-19-on-mobile-an-expired-session-while-sending-opens-the-re-authenticate-flow-instea|On
   mobile, an expired session while sending opens the re-authenticate flow instead…]]'
+- '[[Changes/AnythingLLM/2026-06-22-just-some-small-patches-for-the-upcoming-1-15-0-2-0-0-preview-initial-release-fo|Just
+  some small patches for the upcoming 1.15.0 / 2.0.0-preview initial release…]]'
 - '[[Changes/Codex CLI/2026-06-22-28791-bazel-refresh-expired-macos-sdk-pin-anp-oai|♯28791
   bazel: refresh expired macOS SDK pin @anp-oai]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-06-23-v3-3-18-b3edad75|windsurf-2026-06-23-v3-3-18-b3edad75]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 84ff012a356ed4d1ae717a111ca3c1a207a94a6d67d2cfb720b55086cb5c8ca8
+machine_hash: 2c46536091170c065fa0afaec47067d438b8fb17084e69807fb44eb73fda5e46
 product: cline
 product_name: Cline
 record:
@@ -43,8 +43,8 @@ record:
   title: Add prompt caching for Opus 4.1
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-08-05-20-model-support-changes-in-v0-1-17|20 Model Support
-  changes in v0.1.17]]'
+- '[[Changes/LM Studio/2025-08-05-by-default-filter-staff-picks-to-models-that-can-fit-on-your-device|By
+  default, filter Staff Picks to models that can fit on your device]]'
 - '[[Changes/Ollama/2025-08-05-3-model-support-changes-in-v0-11-0|3 Model Support
   changes in v0.11.0]]'
 - '[[Changes/Cline/2025-08-06-3-model-support-changes-in-v3-20-11|3 Model Support

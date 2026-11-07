@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2e665c2fcea433b3d1c5061b6993251b66d29697f1bff956af713ce9aad4906e
+machine_hash: 41788428f42e9bf7bd08e94288b752c95301dd90c871ff3761f5305bfc80d877
 product: dify
 product_name: Dify
 record:
@@ -83,7 +83,7 @@ Source: https://github.com/langgenius/dify/releases/tag/0.5.6
 ## Nearby in Developer Workflow
 
 - Earlier: 2024-02-15 · Cursor · [[Changes/Cursor/2024-02-15-linter-you-can-now-turn-on-an-ai-linter-in-the-more-tab-beside-chat-it-ll-scan-y|Linter: You can now turn on an AI linter in the "More" tab beside Chat]]
-- Later: 2024-02-28 · Dify · [[Changes/Dify/2024-02-28-2-developer-workflow-changes-in-0-5-7|2 Developer Workflow changes in 0.5.7]]
+- Later: 2024-02-21 · Raycast · [[Changes/Raycast/2024-02-21-snippets-you-can-use-search-snippets-as-a-fallback-command-now|Snippets : You can use “Search Snippets” as a fallback command now]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

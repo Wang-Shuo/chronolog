@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b5154a27fa43eaaf113477452e6d968507dc274fa24d8f897a8e7af74693c5bd
+machine_hash: 6e4ac1294b902724d6e9cad368607bb7d8fd5714f1579ce8ef18d05eab4059d5
 product: gamma
 product_name: Gamma
 record:
@@ -50,7 +50,8 @@ record:
   title: Adaptive theme logos
   type: change
 related_changes:
-- '[[Changes/Descript/2025-12-20-editor|Editor]]'
+- '[[Changes/Raycast/2025-12-20-2-editor-experience-changes-in-raycast-windows-0-40|2
+  Editor Experience changes in Raycast windows 0.40]]'
 - '[[Changes/Open WebUI/2025-12-21-3-editor-experience-changes-in-v0-6-42|3 Editor
   Experience changes in v0.6.42]]'
 - '[[Changes/Cline/2025-12-22-duplicate-error-messages-during-streaming-for-diff-edit-tool-when-parallel-tool|Duplicate

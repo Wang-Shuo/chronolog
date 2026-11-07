@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: aa29a4454abbd57fba22960217a52d113bf00bff44d85262b5eaa16de6c5a072
+machine_hash: ba5b2174efafc49557c3dd0c6576eb683497813b7b2bd2ddbadd8e5bf87cf7a2
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -84,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2025-10-03 · Codex CLI · [[Changes/Codex CLI/2025-10-03-5-agent-mode-changes-in-rust-v0-44-0|5 Agent Mode changes in rust-v0.44.0]]
+- Earlier: 2025-10-03 · Devin · [[Changes/Devin/2025-10-03-agent-dropdown-improvements|Agent Dropdown Improvements]]
 - Later: 2025-10-07 · Gemini CLI · [[Changes/Gemini CLI/2025-10-07-2-agent-mode-changes-in-v0-8-0|2 Agent Mode changes in v0.8.0]]
 <!-- chronolog:end -->
 

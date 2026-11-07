@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: bdc08e8963ec214dd7c589c7c9c707e4a3ef3e7a185d21f9ad9269495d4ed5cc
+machine_hash: 0832a6defcefaad3777126461c3cfeae603263cfcb0538a93fb6c51963de01ce
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -124,7 +124,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-05-13 · Cursor · [[Changes/Cursor/2026-05-13-improved-pr-tabs-by-adding-clearer-review-states-better-reviewer-thread-visibili|Improved PR tabs by adding clearer review states, better reviewer/thread visibility…]]
-- Later: 2026-05-13 · Notion · [[Changes/Notion/2026-05-13-manage-all-connections-from-one-tab|Manage all connections from one tab]]
+- Later: 2026-05-13 · Krea · [[Changes/Krea/2026-05-13-recipients-can-generate-using-your-moodboard-but-not-edit-it|Recipients can generate using your moodboard, but not edit it]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

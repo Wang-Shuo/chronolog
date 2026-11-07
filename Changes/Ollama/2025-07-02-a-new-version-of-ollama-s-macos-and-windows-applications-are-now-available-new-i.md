@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: e9d908ec4822bc9ef49127f4ca55034a67d818da31c7d17fa75f09aab3d12396
+machine_hash: c208daf7cf7d1aba7ce1537bc74dc1fa2898142a1649fdf31baab83bd4e42559
 product: ollama
 product_name: Ollama
 record:
@@ -94,7 +94,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2025-06-27 · Replit · [[Changes/Replit/2025-06-27-new-app-store-screenshots|New App Store screenshots]]
-- Later: 2025-07-10 · Codex CLI · [[Changes/Codex CLI/2025-07-10-thanks-to-pchuri-so-that-when-running-codex-installed-via-npm-process-platform-a|Thanks to @pchuri so that when running Codex installed via npm…]]
+- Later: 2025-07-09 · AnythingLLM · [[Changes/AnythingLLM/2025-07-09-2-mobile-and-desktop-changes-in-v1-8-3|2 Mobile and Desktop changes in v1.8.3]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

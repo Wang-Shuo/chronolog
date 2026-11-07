@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ce36178d09b7277d408478162bd10a00eb792ea7725495732b70300b05f9f7e8
+machine_hash: 3305a8387a941cc23c493da9ea820ecc0c361d0362517da7ac205e9b9dc7fa1f
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,8 +49,8 @@ record:
   title: 3 Apps and Integrations changes in v2.1.311
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-10-23-5-apps-and-integrations-changes-in-v3-11-212|5 Apps
-  and Integrations changes in v3.11.212]]'
+- '[[Changes/Krea/2026-10-24-sort-filter-and-delete-nodes-apps|Sort, filter, and delete
+  Nodes Apps]]'
 - '[[Changes/OpenClaw/2026-10-24-7-apps-and-integrations-changes-in-v2026-10-7|7 Apps
   and Integrations changes in v2026.10.7]]'
 - '[[Changes/Open WebUI/2026-10-25-5-apps-and-integrations-changes-in-v0-12-4|5 Apps
@@ -100,7 +100,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.311
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-10-25 · Open WebUI · [[Changes/Open WebUI/2026-10-25-5-apps-and-integrations-changes-in-v0-12-4|5 Apps and Integrations changes in v0.12.4]]
-- Later: 2026-10-26 · ElevenLabs · [[Changes/ElevenLabs/2026-10-26-2-apps-and-integrations-changes-in-elevenlabs-updates-2026-10-26|2 Apps and Integrations changes in ElevenLabs updates — 2026-10-26]]
+- Later: 2026-10-26 · Devin · [[Changes/Devin/2026-10-26-edited-slack-messages-are-marked|Edited Slack Messages Are Marked]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a6b9653120f00bb1055645f72fb1f9675a6891eb9243a55803fe6d68a89eb27a
+machine_hash: 1099cd5524086e436e3339a26dae7c894de96f199025f9b68c56def4df0c949d
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,12 +44,12 @@ record:
   title: 3 Developer Workflow changes in v1.0.70
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-07-08-7-developer-workflow-changes-in-rust-v0-143-0|7
-  Developer Workflow changes in rust-v0.143.0]]'
 - '[[Changes/Codex CLI/2026-07-09-6-developer-workflow-changes-in-rust-v0-144-0|6
   Developer Workflow changes in rust-v0.144.0]]'
 - '[[Changes/Claude Code/2026-07-10-4-developer-workflow-changes-in-v2-1-206|4 Developer
   Workflow changes in v2.1.206]]'
+- '[[Changes/Devin/2026-07-10-copy-commands-from-the-worklog|Copy Commands from the
+  Worklog]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-07-10-v1-0-70-github-351853788-0192ae35|github-copilot-cli-2026-07-10-v1-0-70-github-351853788-0192ae35]]'
 source_type: github_releases
 theme: developer-workflow
@@ -93,7 +93,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.70
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-07-10 · Claude Code · [[Changes/Claude Code/2026-07-10-4-developer-workflow-changes-in-v2-1-206|4 Developer Workflow changes in v2.1.206]]
+- Earlier: 2026-07-10 · Devin · [[Changes/Devin/2026-07-10-copy-commands-from-the-worklog|Copy Commands from the Worklog]]
 - Later: 2026-07-13 · Codex CLI · [[Changes/Codex CLI/2026-07-13-published-a-version-only-release-with-no-merged-pull-request-changes-since-rust|Published a version-only release with no merged pull request changes since rust-v0.144.2]]
 <!-- chronolog:end -->
 

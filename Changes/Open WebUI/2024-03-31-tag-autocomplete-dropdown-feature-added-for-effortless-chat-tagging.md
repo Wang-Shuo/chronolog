@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: cf6190ef6bcf18ae99eb7085f339080f45831ba02fb508423cc75dabe5cdef13
+machine_hash: 659c3d15dcb70fb8b090eb1df35dd90e06d4c43864312830e3eca173a2e48058
 product: open-webui
 product_name: Open WebUI
 record:
@@ -42,11 +42,11 @@ record:
     chat tagging"
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2024-03-10-misalignment-issue-corrected-misalignment-of-edit-and-delete-icons-when-chat-tit|\U0001F527
-  Misalignment Issue]]"
 - '[[Changes/Descript/2024-03-18-editor-updates|Editor Updates]]'
 - '[[Changes/Cursor/2024-03-20-team-invites-we-made-it-a-bit-easier-for-you-to-invite-your-colleagues-to-your-c|Team
   invites: We made it a bit easier for you to invite your colleagues…]]'
+- '[[Changes/Superwhisper/2024-03-28-activate-mode-based-on-active-website-focused-tab-in-frontmost-browser|Activate
+  mode based on active website (focused tab in frontmost browser)]]'
 source_release: '[[Releases/Open WebUI/open-webui-2024-03-31-v0-1-116-github-149129164-4c8e7e16|open-webui-2024-03-31-v0-1-116-github-149129164-4c8e7e16]]'
 source_type: github_releases
 theme: editor-experience
@@ -78,8 +78,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2024-03-20 · Cursor · [[Changes/Cursor/2024-03-20-team-invites-we-made-it-a-bit-easier-for-you-to-invite-your-colleagues-to-your-c|Team invites: We made it a bit easier for you to invite your colleagues…]]
-- Later: 2024-04-09 · Dify · [[Changes/Dify/2024-04-09-2-editor-experience-changes-in-0-6-1|2 Editor Experience changes in 0.6.1]]
+- Earlier: 2024-03-28 · Superwhisper · [[Changes/Superwhisper/2024-03-28-activate-mode-based-on-active-website-focused-tab-in-frontmost-browser|Activate mode based on active website (focused tab in frontmost browser)]]
+- Later: 2024-04-02 · Superwhisper · [[Changes/Superwhisper/2024-04-02-move-clipboard-feature-to-prompt-edit-view|Move clipboard feature to prompt edit view]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

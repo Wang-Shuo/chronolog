@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: a9203a4544970b6c5ece7fdd480b1cc774ff5e1b45e598dfa11aedef385df3df
+machine_hash: 805ac0837bad002eeea0ecc9efaf7095bb0dcaaf72b947fe0e4994e846b142ad
 product: cursor
 product_name: Cursor
 record:
@@ -56,12 +56,11 @@ record:
   title: Added an Enterprise Admin control for disabling "Made with Cursor" code attribution…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-26-added-allowedchannelplugins-managed-setting-for-team-enterprise-admins-to-define|Added
-  allowedChannelPlugins managed setting for team/enterprise admins to define…]]'
 - '[[Changes/Codex CLI/2026-03-26-15789-treat-chatgpt-hc-plan-as-enterprise-arnavdugar-openai|♯15789
   Treat ChatGPT hc plan as Enterprise @arnavdugar-openai]]'
 - '[[Changes/Dify/2026-03-27-refactor-workspace-optimize-workspaces-plan-resolution-for-saas-and-enterprise-w|refactor(workspace):
   optimize /workspaces plan resolution for SaaS and enterprise…]]'
+- '[[Changes/Devin/2026-04-01-ghes-improvements|GHES Improvements]]'
 source_release: '[[Releases/Cursor/cursor-2026-04-02-3-0-https-cursor-com-changelog-3-0-c58cd2ad|cursor-2026-04-02-3-0-https-cursor-com-changelog-3-0-c58cd2ad]]'
 source_type: cursor_changelog
 theme: enterprise-admin
@@ -102,8 +101,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-03-27 · Dify · [[Changes/Dify/2026-03-27-refactor-workspace-optimize-workspaces-plan-resolution-for-saas-and-enterprise-w|refactor(workspace): optimize /workspaces plan resolution for SaaS and enterprise…]]
-- Later: 2026-04-04 · Claude Code · [[Changes/Claude Code/2026-04-04-added-forceremotesettingsrefresh-policy-setting-when-set-the-cli-blocks-startup|Added forceRemoteSettingsRefresh policy setting]]
+- Earlier: 2026-04-01 · Devin · [[Changes/Devin/2026-04-01-ghes-improvements|GHES Improvements]]
+- Later: 2026-04-03 · Devin · [[Changes/Devin/2026-04-03-enterprise-scoped-secrets|Enterprise-Scoped Secrets]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

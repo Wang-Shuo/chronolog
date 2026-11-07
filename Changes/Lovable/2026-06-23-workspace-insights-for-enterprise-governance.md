@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: d4706dcf1b5aa0cf1b5909b5bbe9efedb421858bd5f0f76589867b89c4661a34
+machine_hash: 800fb257ccd49bb5f0a65ae4cb0f5f935bda87b9e5bbd2cc99a36ce558bb0df8
 product: lovable
 product_name: Lovable
 record:
@@ -90,7 +90,7 @@ type: change
 ## Nearby in Enterprise and Administration
 
 - Earlier: 2026-06-22 · Lovable · [[Changes/Lovable/2026-06-22-tanstack-start-is-now-the-default-for-enterprise-apps|TanStack Start is now the default for Enterprise apps]]
-- Later: 2026-06-25 · Claude · [[Changes/Claude/2026-06-25-enable-trusted-devices-for-remote-control|Enable Trusted Devices for Remote Control]]
+- Later: 2026-06-24 · Devin · [[Changes/Devin/2026-06-24-add-enterprise-members-when-sso-is-required|Add Enterprise Members When SSO Is Required]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

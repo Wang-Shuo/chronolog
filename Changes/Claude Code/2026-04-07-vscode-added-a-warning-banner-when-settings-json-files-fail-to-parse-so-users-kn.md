@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4570e6f2503fc21be9c9c7f280a960af458fbc46605750896b21f0d451a7a132
+machine_hash: c6b832511bafedc4ae602c786ffb7528255757233df5b57eaa8b57b2cf2a6d27
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,7 +46,8 @@ record:
     so users…'
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-04-02-app-emails|App emails]]'
+- '[[Changes/Devin/2026-04-03-gitlab-pat-rotation-fix-responsive-mobile-layouts-startup-command-display-improv|GitLab
+  PAT rotation fix, responsive mobile layouts, startup command display…]]'
 - '[[Changes/Claude Code/2026-04-04-linux-sandbox-now-ships-the-apply-seccomp-helper-in-both-npm-and-native-builds-r|Linux
   sandbox now ships the apply-seccomp helper in both npm and native builds…]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-04-add-notification-hook-event-that-fires-asynchronously-on-shell-completion-permis|Add

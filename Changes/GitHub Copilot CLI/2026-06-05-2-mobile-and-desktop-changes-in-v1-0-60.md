@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 38da13b6bad217f3894c19c91c9d170489bba30eb3787b4b9a458fd0505dd390
+machine_hash: 3c3fce1c62371d50e378be4bc46708c6f44824346ced1fd3622fc40c184d4763
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,12 +44,12 @@ record:
   title: 2 Mobile and Desktop changes in v1.0.60
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-06-04-ollama-launch-hermes-desktop-now-launches-hermes-desktop-and-can-skip-rebuilding|ollama
-  launch hermes-desktop now launches Hermes Desktop and can skip rebuilding…]]'
 - '[[Changes/Suno/2026-06-04-two-new-ios-updates-for-more-streamlined-creation|Two
   new iOS updates for more streamlined creation]]'
 - '[[Changes/Windsurf/2026-06-04-added-a-new-command-for-devin-desktop-to-rerun-the-migration-from-windsurf-this|Added
   a new command for Devin Desktop to rerun the migration from Windsurf]]'
+- '[[Changes/Wispr Flow/2026-06-04-an-update-on-wispr-flow-reliability-desktop|An
+  Update on Wispr Flow Reliability (Desktop)]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-06-05-v1-0-60-github-335046279-6a5628d4|github-copilot-cli-2026-06-05-v1-0-60-github-335046279-6a5628d4]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -94,7 +94,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.60
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-06-04 · Windsurf · [[Changes/Windsurf/2026-06-04-added-a-new-command-for-devin-desktop-to-rerun-the-migration-from-windsurf-this|Added a new command for Devin Desktop to rerun the migration from Windsurf]]
+- Earlier: 2026-06-04 · Wispr Flow · [[Changes/Wispr Flow/2026-06-04-an-update-on-wispr-flow-reliability-desktop|An Update on Wispr Flow Reliability (Desktop)]]
 - Later: 2026-06-05 · OpenCode · [[Changes/OpenCode/2026-06-05-3-mobile-and-desktop-changes-in-v1-16-2|3 Mobile and Desktop changes in v1.16.2]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 45470e1e951898e0d2b0100821301ba2d9a8eef12d0bd5706aee56ebbca9d991
+machine_hash: 82d2374eab730007838d1557f5763b244488d8600514d5d1af2af219f6332090
 product: openclaw
 product_name: OpenClaw
 record:
@@ -145,10 +145,9 @@ record:
   title: 20 Interface Experience changes in v2026.10.1
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-10-08-test-e2e-open-commits-from-the-tabs-pane-s-own-menu-by-enyst-in-https-github-com|test(e2e):
-  open Commits from the tabs pane''s own menu]]'
-- '[[Changes/Claude Code/2026-10-09-improved-fullscreen-mode-the-link-under-the-mouse-pointer-is-now-underlined-to-s|Improved
-  fullscreen mode]]'
+- '[[Changes/Devin/2026-10-09-secrets-sheets|Secrets sheets]]'
+- '[[Changes/Raycast/2026-10-09-4-interface-experience-changes-in-raycast-macos-2-7|4
+  Interface Experience changes in Raycast macos 2.7]]'
 - '[[Changes/Open WebUI/2026-10-10-18-interface-experience-changes-in-v0-12-0|18 Interface
   Experience changes in v0.12.0]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-10-10-v2026-10-1-d64e4e93|openclaw-2026-10-10-v2026-10-1-d64e4e93]]'

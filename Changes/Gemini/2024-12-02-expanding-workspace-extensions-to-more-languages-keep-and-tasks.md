@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: expansion
-machine_hash: bd04975b4a8afee1843b9cbbd42a5fd88d65b8632d6d463433916adf8a0b4d06
+machine_hash: 6af535867024983e5f1b69fa49b231885aa5759e1007988abedb549ec69ce4ab
 product: gemini
 product_name: Gemini
 record:
@@ -56,12 +56,12 @@ record:
   title: 'Expanding Workspace extensions to more languages: Keep and Tasks'
   type: change
 related_changes:
-- '[[Changes/Descript/2024-11-19-you-can-add-status-page-updates-to-your-slack-workspace-using-the-the-subscribe|You
-  can add status page updates to your Slack workspace using the the Subscribe to Updates]]'
-- "[[Changes/Open WebUI/2024-11-19-functions-moved-to-admin-panel-as-functions-operate-as-advanced-plugins-they-are|\U0001F6E0️
-  Functions Moved to Admin Panel]]"
+- '[[Changes/Devin/2024-11-22-bring-devin-into-conversations-just-as-you-would-with-human-teammates|Bring
+  Devin into conversations just as you would with human teammates]]'
 - '[[Changes/Dify/2024-11-25-feat-add-a-minimal-separator-between-pinned-apps-and-unpinned-apps-in-the-explor|feat:
   add a minimal separator between pinned apps and unpinned apps in the explore page]]'
+- '[[Changes/AnythingLLM/2024-11-26-5-apps-and-integrations-changes-in-v1-3-0|5 Apps
+  and Integrations changes in v1.3.0]]'
 source_release: '[[Releases/Gemini/gemini-2024-12-02-2024-12-02-1473255e|gemini-2024-12-02-2024-12-02-1473255e]]'
 source_type: gemini_changelog
 theme: apps-integrations
@@ -90,7 +90,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2024-11-25 · Dify · [[Changes/Dify/2024-11-25-feat-add-a-minimal-separator-between-pinned-apps-and-unpinned-apps-in-the-explor|feat: add a minimal separator between pinned apps and unpinned apps in the explore page]]
+- Earlier: 2024-11-26 · AnythingLLM · [[Changes/AnythingLLM/2024-11-26-5-apps-and-integrations-changes-in-v1-3-0|5 Apps and Integrations changes in v1.3.0]]
 - Later: 2024-12-03 · Dify · [[Changes/Dify/2024-12-03-you-can-now-use-github-com-links-directly-for-dsls-instead-of-relying-on-raw-git|Use github.com links directly for DSLs instead of relying on raw.githubusercontent.com]]
 <!-- chronolog:end -->
 

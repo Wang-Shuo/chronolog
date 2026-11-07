@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 60f9f3a2bbbc6c63d7b3c3780fc5f36155d9bcac8ddedd50369087a644e65f06
+machine_hash: 62fec9b2401883aaa373e5c8156c95b3fac4c3a51cbe1efc36848b851675837e
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -66,10 +66,9 @@ record:
   title: 11 Safety and Privacy changes in rust-v0.136.0
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-05-28-core-handled-acp-next-permission-prompts-correctly|Core
-  Handled acp-next permission prompts correctly]]'
 - '[[Changes/Claude Code/2026-05-29-2-safety-and-privacy-changes-in-v2-1-157|2 Safety
   and Privacy changes in v2.1.157]]'
+- '[[Changes/LM Studio/2026-05-29-security-hardening|Security hardening]]'
 - '[[Changes/Synthesia/2026-05-29-members-on-free-and-restricted-licenses-can-now-edit-scripts-and-add-screen-reco|Let
   free workspace members help you edit]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-06-01-rust-v0-136-0-github-332669350-976b06b6|codex-cli-2026-06-01-rust-v0-136-0-github-332669350-976b06b6]]'

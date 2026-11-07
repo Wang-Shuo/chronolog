@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: f6fd0377cc4466bea125d7a58685ad2aa4e8aaf925990bb287ba8819f49ea6d0
+machine_hash: 2499c799101b1683175fb08126f00f5a4c78051b6535d9f1720927401b2414ff
 product: cline
 product_name: Cline
 record:
@@ -44,12 +44,12 @@ record:
   title: Add new slash command menu letting you type…
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2025-04-13-translation-updates-across-multiple-languages-refined-catalan-russian-chinese-si|\U0001F30D
-  Translation Updates Across Multiple Languages]]"
 - '[[Changes/Cursor/2025-04-15-chat-history-has-moved-into-the-command-palette-you-can-access-it-from-the-show|More
   accessible history]]'
 - '[[Changes/Gamma/2025-04-16-card-numbers-for-easier-navigation-in-pdfs-or-decks|Card
   numbers for easier navigation in PDFs or decks]]'
+- '[[Changes/AnythingLLM/2025-04-18-2-interface-experience-changes-in-v1-8-0|2 Interface
+  Experience changes in v1.8.0]]'
 source_release: '[[Releases/Cline/cline-2025-04-19-v3-13-0-github-213455478-f5b1cb21|cline-2025-04-19-v3-13-0-github-213455478-f5b1cb21]]'
 source_type: github_releases
 theme: interface-experience
@@ -82,7 +82,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2025-04-16 · Gamma · [[Changes/Gamma/2025-04-16-card-numbers-for-easier-navigation-in-pdfs-or-decks|Card numbers for easier navigation in PDFs or decks]]
+- Earlier: 2025-04-18 · AnythingLLM · [[Changes/AnythingLLM/2025-04-18-2-interface-experience-changes-in-v1-8-0|2 Interface Experience changes in v1.8.0]]
 - Later: 2025-04-22 · Gamma · [[Changes/Gamma/2025-04-22-just-right-click-from-the-filmstrip-or-tap-the-menu-on-a-card-and-choose-copy-to|Just right-click from the filmstrip or tap the ... menu on a card and choose…]]
 <!-- chronolog:end -->
 

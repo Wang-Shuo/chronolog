@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: e64507eb7147ac2bc31ba653308f63585c2042f81de139c2b056ea577c6d0a27
+machine_hash: 0c6f9222ac0f43627d2889ededd6c49ba4d39b3700bcd4474c33a783c639d421
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -62,8 +62,8 @@ record:
   title: JavaScript SDK
   type: change
 related_changes:
-- '[[Changes/Replit/2026-02-13-connection-reliability-improvements|Connection reliability
-  improvements]]'
+- '[[Changes/Superwhisper/2026-02-13-handle-paste-error-when-pasting-into-apps-with-elevated-privileges|Handle
+  paste error when pasting into apps with elevated privileges]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-14-3-apps-and-integrations-changes-in-v0-0-410|3
   Apps and Integrations changes in v0.0.410]]'
 - '[[Changes/Open WebUI/2026-02-14-2-apps-and-integrations-changes-in-v0-8-1|2 Apps

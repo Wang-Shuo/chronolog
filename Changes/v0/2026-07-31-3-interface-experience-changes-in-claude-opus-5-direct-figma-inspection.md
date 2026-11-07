@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: bba99a0741d349c4f2a33fa00b29ac017922b2014732b8be411e0036b8ed0f51
+machine_hash: 16e62a416afd9209382a6abe30406905a76b11585d6861f7aaa22047e91ffb2a
 product: v0
 product_name: v0
 record:
@@ -48,8 +48,7 @@ record:
   title: 3 Interface Experience changes in Claude Opus 5, direct Figma inspection…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-30-4-interface-experience-changes-in-v1-0-76|4
-  Interface Experience changes in v1.0.76]]'
+- '[[Changes/Devin/2026-07-31-session-sidebar-improvements|Session Sidebar Improvements]]'
 - '[[Changes/Google Antigravity/2026-07-31-2-interface-experience-changes-in-hub-v2-5-0-enterprise-sign-in-gemini|2
   Interface Experience changes in HUB v2.5.0 — Enterprise sign-in: Gemini…]]'
 - '[[Changes/Kimi Code/2026-07-31-reduce-frequent-full-screen-redraws-in-the-tui|Reduce

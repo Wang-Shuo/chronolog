@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8ac2f7074aa343e247effa036bf9e463340133cfbdc5b7b3b08136d20286c139
+machine_hash: 88cb2c2489081a083e13c5b2fd91624be372e933a0fd57776080734864af2944
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,12 +45,11 @@ record:
   title: copilot config supports sandbox credential injectHosts keys, with key completion…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-10-08-2-safety-and-privacy-changes-in-v1-0-94|2
-  Safety and Privacy changes in v1.0.94]]'
-- '[[Changes/OpenClaw/2026-10-08-windows-mxc-sandbox-the-optional-mxc-sandbox-can-start-and-run-tools-on-compatib|Windows
-  MXC sandbox]]'
 - '[[Changes/Claude Code/2026-10-09-4-safety-and-privacy-changes-in-v2-1-296|4 Safety
   and Privacy changes in v2.1.296]]'
+- '[[Changes/Devin/2026-10-09-create-scan-and-create-profile-with-devin|Create scan
+  and Create profile with Devin]]'
+- '[[Changes/Devin/2026-10-09-manage-findings-permission|Manage findings permission]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-10-09-v1-0-95-github-408085682-4bdfce3d|github-copilot-cli-2026-10-09-v1-0-95-github-408085682-4bdfce3d]]'
 source_type: github_releases
 theme: safety-privacy
@@ -81,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-10-09 · Claude Code · [[Changes/Claude Code/2026-10-09-4-safety-and-privacy-changes-in-v2-1-296|4 Safety and Privacy changes in v2.1.296]]
+- Earlier: 2026-10-09 · Devin · [[Changes/Devin/2026-10-09-manage-findings-permission|Manage findings permission]]
 - Later: 2026-10-10 · Open WebUI · [[Changes/Open WebUI/2026-10-10-6-safety-and-privacy-changes-in-v0-12-0|6 Safety and Privacy changes in v0.12.0]]
 <!-- chronolog:end -->
 

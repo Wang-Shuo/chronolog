@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d447071f2cd02c41d461e5e96af26480c2ae3df2d60d32b89b1a6fca98d6fbcf
+machine_hash: e6be3d0763a9613c774009b0f65e1bb722b73cc389e8891964730db01874aa91
 product: open-webui
 product_name: Open WebUI
 record:
@@ -114,8 +114,8 @@ record:
   title: 21 Reliability and Performance changes in v0.8.6
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-02-27-faster-sharing-sharing-chats-is-now-easier-and-faster-with-a-quicker-loading-sha|Faster
-  sharing. Sharing chats is now easier and faster, with a quicker-loading share menu]]'
+- '[[Changes/LM Studio/2026-02-27-dgx-spark-enable-direct-i-o-to-improve-model-load-latency|DGX
+  Spark Enable Direct I/O to improve model load latency]]'
 - '[[Changes/Replit/2026-02-27-agent-performance-improvements|Agent performance improvements]]'
 - '[[Changes/Claude Code/2026-02-28-improved-memory-usage-in-long-sessions-with-subagents-by-stripping-heavy-progres|Improved
   memory usage in long sessions with subagents by stripping heavy progress…]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: fda8fdc43e4328f42bee6744685c17c719107d701944ffd312348e368652c265
+machine_hash: f90751621532f62741301e2b61df43a7cb8415dce0f157ed1620f66cf55562f3
 product: dify
 product_name: Dify
 record:
@@ -43,10 +43,10 @@ record:
   title: Docs/remove all meeting schedule links
   type: change
 related_changes:
-- '[[Changes/Dify/2024-07-15-refactor-api-switch-to-dify-config-with-pydantic-in-controllers-and-schedule-by|refactor(api):
-  switch to dify_config with Pydantic in controllers and schedule]]'
-- '[[Changes/Dify/2024-07-23-update-celery-beat-scheduler-time-to-env-by-johnjyong-in-https-github-com-langge|update
-  celery beat scheduler time to env]]'
+- '[[Changes/AnythingLLM/2024-07-26-refactor-convert-insert-loop-to-1-insert-stmt-by-jwaltz-in-https-github-com-mint|refactor:
+  convert insert loop to 1 insert stmt]]'
+- '[[Changes/AnythingLLM/2024-08-08-2034-automate-port-forwarding-for-github-codespaces-using-gh-cli-by-mrsimonc-in|2034
+  automate port forwarding for GitHub codespaces using gh cli]]'
 - '[[Changes/Notion/2024-08-13-smarter-more-flexible-automations|Smarter, more flexible
   automations]]'
 source_release: '[[Releases/Dify/dify-2024-08-14-0-7-0-github-170141477-acb406bb|dify-2024-08-14-0-7-0-github-170141477-acb406bb]]'
@@ -87,7 +87,7 @@ type: change
 ## Nearby in Automation and Scheduling
 
 - Earlier: 2024-08-13 · Notion · [[Changes/Notion/2024-08-13-smarter-more-flexible-automations|Smarter, more flexible automations]]
-- Later: 2024-08-28 · Gemini · [[Changes/Gemini/2024-08-28-gemini-advanced-and-gemini-for-google-workspace-add-on-priority-access-introduci|Gemini Advanced and Gemini for Google Workspace add-on priority access]]
+- Later: 2024-08-14 · Raycast · [[Changes/Raycast/2024-08-14-my-schedule-updated-the-logo-for-webex|My Schedule : updated the logo for Webex]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

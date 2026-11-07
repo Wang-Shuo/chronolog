@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: d55ba1307db32903e67826fa93dd788085aac9e5c28274f8b863edea5ed48f3d
+machine_hash: 15b132a98c51192df4aeb4dad9a7ea6ab6893711140e90fdc8783e0603c7dd46
 product: replit
 product_name: Replit
 record:
@@ -46,10 +46,10 @@ record:
   title: Generate media right on Canvas
   type: change
 related_changes:
-- '[[Changes/Replit/2026-05-15-export-canvas-frames-as-pngs|Export Canvas frames as
-  PNGs]]'
 - '[[Changes/OpenCode/2026-05-21-core-added-pdf-attachment-support-for-grok|Core Added
   PDF attachment support for Grok]]'
+- '[[Changes/AnythingLLM/2026-05-26-support-pulling-generated-documents-from-api-calls-by-timothycarambat-in-https-g|Support
+  pulling generated documents from API calls]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-28-canvas-tools-with-optional-object-input-schemas-open-correctly-without-validatio|Canvas
   tools with optional object input schemas open correctly without validation errors]]'
 source_release: '[[Releases/Replit/replit-2026-05-29-2026-05-29-e3cfe151|replit-2026-05-29-2026-05-29-e3cfe151]]'

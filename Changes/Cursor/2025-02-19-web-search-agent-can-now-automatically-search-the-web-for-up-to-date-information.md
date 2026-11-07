@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: eee68d4b11c9b870fa4331453fdfd7001077eeb36bf281e8c93f41fb7170df35
+machine_hash: c311ff2c748f4539ecdf5cbbeacce1db7e3c49e41871aac0fb3ef8a1683d01f6
 product: cursor
 product_name: Cursor
 record:
@@ -56,10 +56,10 @@ record:
   title: 'Web search: Agent can now automatically search the web for up-to-date information…'
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2025-02-13-2-search-and-browsing-changes-in-v0-5-11|2 Search
-  and Browsing changes in v0.5.11]]'
 - '[[Changes/ChatGPT/2025-02-14-set-chatgpt-as-default-search-engine-in-safari|Set
   ChatGPT as default search engine in Safari]]'
+- '[[Changes/AnythingLLM/2025-02-18-add-improved-logging-and-introspection-to-web-browsing-by-timothycarambat-in-htt|Add
+  improved logging and introspection to web-browsing]]'
 - '[[Changes/Open WebUI/2025-02-18-2-search-and-browsing-changes-in-v0-5-13|2 Search
   and Browsing changes in v0.5.13]]'
 source_release: '[[Releases/Cursor/cursor-2025-02-19-0-46-x-https-cursor-com-changelog-0-46-x-640a0a10|cursor-2025-02-19-0-46-x-https-cursor-com-changelog-0-46-x-640a0a10]]'
@@ -101,7 +101,7 @@ type: change
 ## Nearby in Search and Browsing
 
 - Earlier: 2025-02-18 · Open WebUI · [[Changes/Open WebUI/2025-02-18-2-search-and-browsing-changes-in-v0-5-13|2 Search and Browsing changes in v0.5.13]]
-- Later: 2025-02-20 · Open WebUI · [[Changes/Open WebUI/2025-02-20-smarter-web-search-with-agentic-workflows-web-searches-now-intelligently-gather|🌍 Smarter Web Search with Agentic Workflows]]
+- Later: 2025-02-19 · Raycast · [[Changes/Raycast/2025-02-19-raycast-ai-added-an-option-to-configure-web-search-for-quick-ai-to-change-go-to|Raycast AI: Added an option to configure web search for Quick AI]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

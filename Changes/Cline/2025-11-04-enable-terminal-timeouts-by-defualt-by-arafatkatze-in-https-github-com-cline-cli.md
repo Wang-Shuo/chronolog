@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 855602d75aa7d175329424c41daef77f925f6c49855735db3c4241c2b08049b5
+machine_hash: d336b34aa70d5ff95e494903d820b4bbf88fe44c2383b74b4435b65b78b50d8d
 product: cline
 product_name: Cline
 record:
@@ -41,8 +41,8 @@ record:
   title: Enable Terminal Timeouts by defualt
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-10-29-11-developer-workflow-changes-in-v0-11-0|11 Developer
-  Workflow changes in v0.11.0]]'
+- '[[Changes/Raycast/2025-10-29-clipboard-history-added-a-new-paste-sequentially-command|Clipboard
+  History : Added a new Paste Sequentially command]]'
 - '[[Changes/Codex CLI/2025-10-30-5-developer-workflow-changes-in-rust-v0-52-0|5 Developer
   Workflow changes in rust-v0.52.0]]'
 - '[[Changes/GitHub Copilot CLI/2025-11-03-2-developer-workflow-changes-in-v0-0-354|2

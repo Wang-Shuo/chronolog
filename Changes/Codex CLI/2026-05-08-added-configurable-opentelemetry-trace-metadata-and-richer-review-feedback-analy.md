@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 67cf304821f8b05643934d04a1233beee40c50879357fc73cff71fd8db048f05
+machine_hash: e45902227ac804c8eafeb85f0bdd11fe92034a6aae7e4315f5c37937adf2b875
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -87,7 +87,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-05-08 · Claude Code · [[Changes/Claude Code/2026-05-08-2-developer-workflow-changes-in-v2-1-136|2 Developer Workflow changes in v2.1.136]]
-- Later: 2026-05-08 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-08-2-developer-workflow-changes-in-v1-0-44|2 Developer Workflow changes in v1.0.44]]
+- Later: 2026-05-08 · Devin · [[Changes/Devin/2026-05-08-close-prs-on-session-archive|Close PRs on Session Archive]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

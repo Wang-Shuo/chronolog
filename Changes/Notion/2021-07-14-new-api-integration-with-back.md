@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: ddb735922e6d92a3c676fd2e91e6de0279a3e1fb3990228d7b8f7d63990910b1
+machine_hash: cbb90fcef3681f1ec14c1481cc638bc57ad55b646c43ff51ac16284071fc881a
 product: notion
 product_name: Notion
 record:
@@ -53,10 +53,12 @@ record:
   title: New API integration with Back
   type: change
 related_changes:
-- '[[Changes/Notion/2021-05-13-zapier-integration|Zapier integration]]'
-- '[[Changes/Notion/2021-05-13-typeform-integration|Typeform integration]]'
+- '[[Changes/Raycast/2021-06-03-snippets-expansion-now-works-with-non-activating-apps-e-g-spotlight|Snippets:
+  Expansion now works with non-activating apps e.g. Spotlight]]'
 - '[[Changes/Notion/2021-06-29-new-api-integrations-with-ifttt-atspoke-more|New API
   integrations with IFTTT, atSpoke & more]]'
+- '[[Changes/Raycast/2021-07-01-window-management-use-presets-to-assign-default-hotkeys-of-magnet-rectangle-or-s|Window
+  Management: Use presets to assign default hotkeys of Magnet, Rectangle…]]'
 source_release: '[[Releases/Notion/notion-2021-07-14-https-www-notion-com-releases-2021-07-14-f11936cb|notion-2021-07-14-https-www-notion-com-releases-2021-07-14-f11936cb]]'
 source_type: notion_changelog
 theme: apps-integrations
@@ -91,7 +93,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2021-06-29 · Notion · [[Changes/Notion/2021-06-29-new-api-integrations-with-ifttt-atspoke-more|New API integrations with IFTTT, atSpoke & more]]
+- Earlier: 2021-07-01 · Raycast · [[Changes/Raycast/2021-07-01-window-management-use-presets-to-assign-default-hotkeys-of-magnet-rectangle-or-s|Window Management: Use presets to assign default hotkeys of Magnet, Rectangle…]]
 - Later: 2021-07-27 · Notion · [[Changes/Notion/2021-07-27-better-access-management-for-your-api-integrations|Better access management for your API integrations]]
 <!-- chronolog:end -->
 

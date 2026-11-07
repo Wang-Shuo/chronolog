@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: c8f0f0cbd99889507126235ad8c97c0acf576f4db72bdb4e90e7c1dd17757d57
+machine_hash: 6a79e215f5f77b9ac74fc03ec89bfb144fe415a5880bd8b8b406316a58388b83
 product: lovable
 product_name: Lovable
 record:
@@ -46,10 +46,9 @@ record:
   title: Lovable in Slack is now available on Enterprise
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-08-26-workspace-build-secrets-appear-in-your-project-s-secrets-list|Workspace
-  build secrets appear in your project''s secrets list]]'
-- '[[Changes/GitHub Copilot CLI/2026-08-27-2-enterprise-and-administration-changes-in-v1-0-81|2
-  Enterprise and Administration changes in v1.0.81]]'
+- '[[Changes/Krea/2026-08-27-workspace-usage-api|Workspace usage API]]'
+- '[[Changes/Wispr Flow/2026-08-28-for-teams-enterprise-desktop|For Teams & Enterprise:
+  (Desktop)]]'
 - '[[Changes/Lovable/2026-09-01-find-buy-and-connect-a-domain-from-chat|Find, buy,
   and connect a domain from chat]]'
 source_release: '[[Releases/Lovable/lovable-2026-09-01-2026-09-01-13cb07e2|lovable-2026-09-01-2026-09-01-13cb07e2]]'
@@ -82,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-08-27 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-08-27-2-enterprise-and-administration-changes-in-v1-0-81|2 Enterprise and Administration changes in v1.0.81]]
+- Earlier: 2026-08-28 · Wispr Flow · [[Changes/Wispr Flow/2026-08-28-for-teams-enterprise-desktop|For Teams & Enterprise: (Desktop)]]
 - Later: 2026-09-03 · Lovable · [[Changes/Lovable/2026-09-03-see-how-your-workspace-adopts-lovable|See how your workspace adopts Lovable]]
 <!-- chronolog:end -->
 

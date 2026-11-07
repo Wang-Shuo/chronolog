@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: bde3c0c592626b77c3ccac3a18822c560d3f55ead1ea71b8ca8b400275eebb1d
+machine_hash: 09bb6fe5ad0b875a5141d11479305702a22a93412a15f51570c1e96a1debbb8d
 product: cursor
 product_name: Cursor
 record:
@@ -44,12 +44,11 @@ record:
   title: Experimental support for multi-file diffs
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-04-14-hover-over-an-error-to-have-the-ai-explain-it-fix-it|Hover
-  over an error to have the AI explain it/fix it]]'
 - '[[Changes/Cursor/2023-04-16-nicer-edits-now-work-with-cmd-z|Nicer edits, now work
   with cmd-Z]]'
 - '[[Changes/Descript/2023-04-17-drawer-resizing-the-media-library-and-composition-drawers-are-now-freely-resizab|Drawer
   resizing: The Media Library and Composition Drawers are now freely…]]'
+- '[[Changes/Raycast/2023-04-28-quick-ai-beta|Quick AI Beta]]'
 source_release: '[[Releases/Cursor/cursor-2023-04-29-0-2-8-https-cursor-com-changelog-0-2-8-dcee1ea7|cursor-2023-04-29-0-2-8-https-cursor-com-changelog-0-2-8-dcee1ea7]]'
 source_type: cursor_changelog
 theme: editor-experience
@@ -78,7 +77,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2023-04-17 · Descript · [[Changes/Descript/2023-04-17-drawer-resizing-the-media-library-and-composition-drawers-are-now-freely-resizab|Drawer resizing: The Media Library and Composition Drawers are now freely…]]
+- Earlier: 2023-04-28 · Raycast · [[Changes/Raycast/2023-04-28-quick-ai-beta|Quick AI Beta]]
 - Later: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-improved-prompting-for-edits-and-generates|Improved prompting for edits and generates]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7778adad46c7da9da503c0ea0548a8446376226f3ea9316ddf0f5c6de6eec9b2
+machine_hash: 1857b7d557936c9b40cf74aec743b301649cc6e62741c89995be45435b39ad0d
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -44,8 +44,8 @@ record:
   title: 2 Automation and Scheduling changes in v0.34.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-10-2-automation-and-scheduling-changes-in-rust-v0-113-0|2
-  Automation and Scheduling changes in rust-v0.113.0]]'
+- '[[Changes/Superwhisper/2026-03-12-new-recording-retention-setting-automatically-clean-up-old-recordings-on-a-confi|New
+  recording retention setting]]'
 - '[[Changes/Claude Code/2026-03-17-show-a-notice-when-apikeyhelper-takes-longer-than-10s-preventing-it-from-blockin|Show
   a notice when apiKeyHelper takes longer than 10s, preventing it from blocking…]]'
 - '[[Changes/Dify/2026-03-17-ci-add-weekly-schedule-for-pip-and-uv-ecosystems-by-asukaminato0721-in-https-git|ci:

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 9e6de4cc33ecad71e77e7ca1998b9c57277e8944d5c4ec126d7977ee4dd7678d
+machine_hash: f3648777c74365ab76042b9b715ecec007a5cbbf05a45043d9eaff0f41bcebd9
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -94,7 +94,7 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2025-11-06 · Open WebUI · [[Changes/Open WebUI/2025-11-06-3-voice-and-audio-changes-in-v0-6-35|3 Voice and Audio changes in v0.6.35]]
-- Later: 2025-11-13 · Cline · [[Changes/Cline/2025-11-13-2-voice-and-audio-changes-in-v3-37-0|2 Voice and Audio changes in v3.37.0]]
+- Later: 2025-11-12 · Raycast · [[Changes/Raycast/2025-11-12-dictation-is-now-faster-more-reliable-and-better-than-ever-powered-by-elevenlabs|Dictation is now faster, more reliable, and better than ever]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

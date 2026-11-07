@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: dd2a09769f28c5d960c343894cd96f1a7c4d2228d84e002e483e5489c934b579
+machine_hash: d9f9c26649c1cdf97f58086f85593a8b80d279959304060140ba4525d2c708dc
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -111,6 +111,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.106
 ## Nearby in Voice and Audio
 
 - Earlier: 2026-11-06 · Descript · [[Changes/Descript/2026-11-06-words-line-up-with-the-audio-more-closely|Words line up with the audio more closely]]
+- Later: 2026-11-06 · Superwhisper · [[Changes/Superwhisper/2026-11-06-message-mode-now-writes-spoken-lists-as-bulleted-or-numbered-lists|Message mode now writes spoken lists as bulleted or numbered lists]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

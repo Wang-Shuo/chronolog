@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: expansion
-machine_hash: 545813e8476b3acaef4ef969ce5ba5d07f82d9888e8b0c782402ea4bad5d18e7
+machine_hash: 8036d7619a2817e76138d32d191d09b07d4eae069d2448ed0783d047d0eee1a7
 product: suno
 product_name: Suno
 record:
@@ -47,8 +47,7 @@ record:
   title: Suno is now available on Apple CarPlay and Android Auto
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-05-12-free-users-in-chatgpt-will-now-see-more-inline-images-from-the-web-to-help-make|More
-  images in answers for Free users]]'
+- '[[Changes/Devin/2026-05-13-share-session-on-mobile|Share Session on Mobile]]'
 - '[[Changes/Ollama/2026-05-13-laguna-xs-2-is-not-yet-supported-on-windows-linux|laguna-xs.2
   is not yet supported on Windows/Linux]]'
 - '[[Changes/OpenCode/2026-05-13-6-mobile-and-desktop-changes-in-v1-14-49|6 Mobile

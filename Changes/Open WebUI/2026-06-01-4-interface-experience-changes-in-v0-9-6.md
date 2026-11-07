@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c81b736da0968c94d44d62e820b18517505195cd1bf75ec226cae9e343abe544
+machine_hash: 8f779ff68f38ccc041a6486546f770cd82f70017bf074566d14b3cf0c1c39f7f
 product: open-webui
 product_name: Open WebUI
 record:
@@ -59,10 +59,10 @@ record:
   title: 4 Interface Experience changes in v0.9.6
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-29-claude-agents-slash-command-autocomplete-in-the-dispatch-input-now-matches-subst|claude
-  agents: slash-command autocomplete in the dispatch input now matches substrings]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-29-reasoning-effort-picker-respects-model-capabilities-options-not-supported-by-the|Reasoning
   effort picker respects model capabilities]]'
+- '[[Changes/Raycast/2026-05-29-2-interface-experience-changes-in-raycast-ios-1-2-13|2
+  Interface Experience changes in Raycast ios 1.2.13]]'
 - '[[Changes/Codex CLI/2026-06-01-2-interface-experience-changes-in-rust-v0-136-0|2
   Interface Experience changes in rust-v0.136.0]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-06-01-v0-9-6-github-332798378-d8dc258e|open-webui-2026-06-01-v0-9-6-github-332798378-d8dc258e]]'

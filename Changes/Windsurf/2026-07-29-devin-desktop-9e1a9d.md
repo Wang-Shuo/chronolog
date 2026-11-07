@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 5529d400cd9426c56595e125b4bb077bbb23454f06f901781fd8511968df857c
+machine_hash: ad120904852b84b55ebf2621caae7556d08f369e9b89fd826aa9f874ff07bf1d
 product: windsurf
 product_name: Windsurf
 record:
@@ -101,8 +101,8 @@ record:
   title: Devin Desktop
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-07-29-cursor-for-ipad-is-now-available-on-all-paid-plans-ce68be|Cursor
-  for iPad is now available on all paid plans]]'
+- '[[Changes/Devin/2026-07-29-session-organization-improvements|Session Organization
+  Improvements]]'
 - '[[Changes/Microsoft 365 Copilot/2026-07-29-list-email-attachments-in-microsoft-365-copilot-android-windows-ios-mac-web-micr|List
   email attachments in Microsoft 365 Copilot Android, Windows, iOS, Mac…]]'
 - '[[Changes/Windsurf/2026-07-29-devin-desktop|Devin Desktop]]'
@@ -168,7 +168,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-07-29 · Windsurf · [[Changes/Windsurf/2026-07-29-devin-desktop|Devin Desktop]]
-- Later: 2026-07-30 · Notion · [[Changes/Notion/2026-07-30-try-it-by-going-to-settings-preferences-appearance-available-on-desktop-and-web|Try it by going to Settings  Preferences  Appearance]]
+- Later: 2026-07-29 · Wispr Flow · [[Changes/Wispr Flow/2026-07-29-snippets-now-support-rich-text-formatting-desktop|Snippets now support rich text formatting (Desktop)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

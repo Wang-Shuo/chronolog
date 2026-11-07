@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8491e1c6a5430c5f3cc794ce85b51fe942afc72cd77888127df1cfd251621e09
+machine_hash: 30c2aebcb3bbfe4834c8966b9b2f07d88fb113355059a05e161c97679c4f3dfb
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -87,7 +87,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-05-12 · Dify · [[Changes/Dify/2026-05-12-8-interface-experience-changes-in-1-14-1|8 Interface Experience changes in 1.14.1]]
-- Later: 2026-05-13 · Claude Code · [[Changes/Claude Code/2026-05-13-2-interface-experience-changes-in-v2-1-141|2 Interface Experience changes in v2.1.141]]
+- Later: 2026-05-12 · Raycast · [[Changes/Raycast/2026-05-12-extensions-improved-affordance-of-tag-picker-component|Extensions : Improved affordance of tag picker component]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

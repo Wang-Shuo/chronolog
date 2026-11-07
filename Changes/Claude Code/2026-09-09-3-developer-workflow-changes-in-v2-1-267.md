@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 905029c55adc4efb75c9e79962ef51b7f732de575f1993d1b97197c93b89e5ca
+machine_hash: 2f7f5ad1204b6682cd9dd4afe247736bc43e181e3548dcbe923803c131358f28
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,11 +49,12 @@ record:
   title: 3 Developer Workflow changes in v2.1.267
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-09-07-elevenlabs-cli|ElevenLabs CLI]]'
 - '[[Changes/Claude Code/2026-09-08-2-developer-workflow-changes-in-v2-1-265|2 Developer
   Workflow changes in v2.1.265]]'
 - '[[Changes/OpenClaw/2026-09-08-22-developer-workflow-changes-in-v2026-9-3|22 Developer
   Workflow changes in v2026.9.3]]'
+- '[[Changes/Raycast/2026-09-08-run-searching-run-commands-now-matches-the-command-text-itself-not-just-its-name|Run
+  : Searching Run Commands now matches the command text itself, not just its name…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-09-v2-1-267-github-385748811-6409148e|claude-code-2026-09-09-v2-1-267-github-385748811-6409148e]]'
 source_type: github_releases
 theme: developer-workflow
@@ -94,7 +95,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.267
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-09-08 · OpenClaw · [[Changes/OpenClaw/2026-09-08-22-developer-workflow-changes-in-v2026-9-3|22 Developer Workflow changes in v2026.9.3]]
+- Earlier: 2026-09-08 · Raycast · [[Changes/Raycast/2026-09-08-run-searching-run-commands-now-matches-the-command-text-itself-not-just-its-name|Run : Searching Run Commands now matches the command text itself, not just its name…]]
 - Later: 2026-09-09 · Codex CLI · [[Changes/Codex CLI/2026-09-09-7-developer-workflow-changes-in-rust-v0-154-0|7 Developer Workflow changes in rust-v0.154.0]]
 <!-- chronolog:end -->
 

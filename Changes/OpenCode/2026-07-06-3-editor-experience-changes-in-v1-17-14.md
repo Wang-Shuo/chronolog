@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: bc812dead54510db3189871c194e07e5e76ff824f4e56b9d94b17580fed9c990
+machine_hash: e91ec9d2eb5cf0154e5dc0358ed83346c05c15d0680e1322b125bd481447e76a
 product: opencode
 product_name: OpenCode
 record:
@@ -44,8 +44,8 @@ record:
   title: 3 Editor Experience changes in v1.17.14
   type: change
 related_changes:
-- '[[Changes/Kimi Code/2026-07-02-remove-duplicate-newline-shortcut-handling-from-the-prompt-editor|Remove
-  duplicate newline-shortcut handling from the prompt editor]]'
+- '[[Changes/Raycast/2026-07-03-hotkeys-you-can-now-assign-copilot-key-as-hyper-key|Hotkeys
+  : You can now assign Copilot key as Hyper key]]'
 - '[[Changes/Windsurf/2026-07-04-devin-local|Devin Local]]'
 - '[[Changes/Kimi Code/2026-07-06-web-align-the-markdown-diff-code-block-with-the-design-system-code-text-keeps-th|web:
   Align the markdown diff code block with the design system: code text keeps…]]'

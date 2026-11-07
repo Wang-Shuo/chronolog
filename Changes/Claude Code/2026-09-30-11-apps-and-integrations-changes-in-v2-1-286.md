@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 685fe79b1247ae3e43dcd4afbbf9bb5330f746fc03d8a35b4ea6d40b900d013c
+machine_hash: 23dd768f794e7977cfbca7ecd11bee3b1156c0b43cddadd910acb8118a0cfdc5
 product: claude-code
 product_name: Claude Code
 record:
@@ -141,7 +141,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.286
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-09-29 · Lovable · [[Changes/Lovable/2026-09-29-lovable-mcp-now-works-with-muse-by-meta|Lovable MCP now works with Muse by Meta]]
-- Later: 2026-09-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-30-3-apps-and-integrations-changes-in-v1-0-90|3 Apps and Integrations changes in v1.0.90]]
+- Later: 2026-09-30 · Devin · [[Changes/Devin/2026-09-30-skills-only-repositories-install-as-plugins|Skills-Only Repositories Install as Plugins]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

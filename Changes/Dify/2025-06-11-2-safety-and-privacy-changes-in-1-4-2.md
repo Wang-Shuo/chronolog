@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2a953f0371cecef3944d8075448c1379d8f6b8bbba67f5997ce2c49ac151d668
+machine_hash: a15162084b2df097a6828f19b432377f91440a1b1de0b4cbe9720c40346cc6e4
 product: dify
 product_name: Dify
 record:
@@ -91,7 +91,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.4.2
 ## Nearby in Safety and Privacy
 
 - Earlier: 2025-06-10 · Open WebUI · [[Changes/Open WebUI/2025-06-10-4-safety-and-privacy-changes-in-v0-6-14|4 Safety and Privacy changes in v0.6.14]]
-- Later: 2025-06-16 · Open WebUI · [[Changes/Open WebUI/2025-06-16-2-safety-and-privacy-changes-in-v0-6-15|2 Safety and Privacy changes in v0.6.15]]
+- Later: 2025-06-11 · Raycast · [[Changes/Raycast/2025-06-11-this-release-aims-to-fix-a-number-of-instability-issues-that-you-have-experience|This release aims to fix a number of instability issues that you have experienced…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

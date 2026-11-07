@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: fc80fb3713095f39be5c6cdb2ffe11a6a753fdff3651ef6fdadc21b8dd3a97f6
+machine_hash: de8a484df94e4f87e175263663a692f5f5996449c1e5b667c4795d878502cae6
 product: openhands
 product_name: OpenHands
 record:
@@ -93,7 +93,7 @@ type: change
 ## Nearby in Automation and Scheduling
 
 - Earlier: 2026-10-22 · OpenHands · [[Changes/OpenHands/2026-10-22-feat-automations-hide-the-github-token-secret-field-on-self-hosted-instances-whe|feat(automations): hide the GitHub token secret field on self-hosted instances…]]
-- Later: 2026-10-23 · Dify · [[Changes/Dify/2026-10-23-2-automation-and-scheduling-changes-in-1-18-0|2 Automation and Scheduling changes in 1.18.0]]
+- Later: 2026-10-23 · Devin · [[Changes/Devin/2026-10-23-playbooks-are-moving-to-skills|Playbooks Are Moving to Skills]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

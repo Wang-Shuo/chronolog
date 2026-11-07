@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5d7378a67e0a01419e3fa7452d621eee80378e2b93d39020630474c9ced5fa8e
+machine_hash: ca47a99cb97c8668a0185cf533827c20baa96cffee19b78a8db4a9b75b40ef9c
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,12 +43,12 @@ record:
     is disabled
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-07-code-review-improved-code-review-s-add-a-repository-dialog-to-list-each-reposito|Code
-  Review Improved Code Review''s Add a repository dialog to list each repository…]]'
-- '[[Changes/Cline/2026-10-07-generate-commit-message-now-follows-your-clinerules-so-conventions-like-language|Generate
-  Commit Message now follows your .clinerules, so conventions like…]]'
 - '[[Changes/Codex CLI/2026-10-07-10-developer-workflow-changes-in-rust-v0-161-0|10
   Developer Workflow changes in rust-v0.161.0]]'
+- '[[Changes/Devin/2026-10-07-private-key-strings-are-redacted-more-aggressively|Private
+  Key Strings Are Redacted More Aggressively]]'
+- '[[Changes/Devin/2026-10-07-merge-queue-status-across-the-app|Merge Queue Status
+  Across the App]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-10-07-v1-0-93-github-405830978-790ea062|github-copilot-cli-2026-10-07-v1-0-93-github-405830978-790ea062]]'
 source_type: github_releases
 theme: developer-workflow
@@ -86,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-10-07 · Codex CLI · [[Changes/Codex CLI/2026-10-07-10-developer-workflow-changes-in-rust-v0-161-0|10 Developer Workflow changes in rust-v0.161.0]]
+- Earlier: 2026-10-07 · Devin · [[Changes/Devin/2026-10-07-merge-queue-status-across-the-app|Merge Queue Status Across the App]]
 - Later: 2026-10-08 · Claude Code · [[Changes/Claude Code/2026-10-08-added-a-line-on-stderr-when-it-is-a-terminal-that-says-what-a-claude-p-run-is-wa|Added a line on stderr, when it is a terminal, that says what a claude -p run…]]
 <!-- chronolog:end -->
 

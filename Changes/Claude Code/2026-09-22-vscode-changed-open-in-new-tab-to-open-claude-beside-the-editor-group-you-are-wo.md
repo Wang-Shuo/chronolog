@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: de3710c7afb33891b196a2139942e35ad223409ec322cf6af3309ffe7c21e073
+machine_hash: 10e79e8f436560cbec32e22dd06a36b5c48ea3f5838c87a56d9859c2c83fddca
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,9 @@ record:
     you…'
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-09-19-21-editor-experience-changes-in-v2026-9-5|21 Editor
-  Experience changes in v2026.9.5]]'
-- '[[Changes/Lovable/2026-09-20-organize-project-files-into-collections|Organize project
-  files into collections]]'
+- '[[Changes/Devin/2026-09-21-file-tree-smart-diffs-and-open-in-editor-in-the-pr-tab|File
+  Tree, Smart Diffs, and Open in Editor in the PR Tab]]'
+- '[[Changes/Devin/2026-09-21-checks-tab-and-faster-diffs|Checks Tab and Faster Diffs]]'
 - '[[Changes/Open WebUI/2026-09-21-21-editor-experience-changes-in-v0-11-4|21 Editor
   Experience changes in v0.11.4]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-22-v2-1-280-github-393879189-1cf5db2b|claude-code-2026-09-22-v2-1-280-github-393879189-1cf5db2b]]'

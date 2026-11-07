@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c14d4f72633f095aa0c93e1ada35e6afac3ccbf6306d6b9d29e10ff52cf603db
+machine_hash: 5abaaf158a0dd9f45fbdfde9ce5bbba8fc2ba18797aa629b16d0268e132517b6
 product: openclaw
 product_name: OpenClaw
 record:
@@ -255,7 +255,7 @@ Source: https://docs.openclaw.ai/releases/2026.9.3
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-09-08 · Claude Code · [[Changes/Claude Code/2026-09-08-2-developer-workflow-changes-in-v2-1-265|2 Developer Workflow changes in v2.1.265]]
-- Later: 2026-09-09 · Claude Code · [[Changes/Claude Code/2026-09-09-3-developer-workflow-changes-in-v2-1-267|3 Developer Workflow changes in v2.1.267]]
+- Later: 2026-09-08 · Raycast · [[Changes/Raycast/2026-09-08-run-searching-run-commands-now-matches-the-command-text-itself-not-just-its-name|Run : Searching Run Commands now matches the command text itself, not just its name…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

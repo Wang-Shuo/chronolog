@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 9839a6232e13528550d6a02b4c61f84d5e45997557388702d2a08ea8fa1f0d4d
+machine_hash: 9d23c542544aecaaddae8197576b58c515af6bcc36f79baf8a2a174c3971ecb3
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -45,10 +45,10 @@ record:
   title: Pronunciation Dictionaries
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2025-04-05-3-safety-and-privacy-changes-in-v0-6-1|3 Safety
-  and Privacy changes in v0.6.1]]'
 - '[[Changes/Dify/2025-04-09-4-safety-and-privacy-changes-in-1-2-0|4 Safety and Privacy
   changes in 1.2.0]]'
+- '[[Changes/Raycast/2025-04-09-favicon-provider-we-added-a-new-setting-to-let-you-pick-your-favicon-provider-or|Favicon
+  Provider: We added a new setting to let you pick your favicon provider…]]'
 - '[[Changes/Open WebUI/2025-04-13-5-safety-and-privacy-changes-in-v0-6-3|5 Safety
   and Privacy changes in v0.6.3]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2025-04-14-2025-04-14-94a22e9b|elevenlabs-2025-04-14-2025-04-14-94a22e9b]]'

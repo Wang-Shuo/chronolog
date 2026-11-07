@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9beb9385d05236e0490d198b034f416bdd257d1ab3cc0df48833ceec2aecbb6e
+machine_hash: 02bb2a151acbb1ad07f6e1f7474f88934d8ec781c8ed7c634a9be629fd63ed52
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -96,7 +96,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.23.0
 ## Nearby in Editor Experience
 
 - Earlier: 2025-08-20 · Cline · [[Changes/Cline/2025-08-20-2-editor-experience-changes-in-v3-26-0|2 Editor Experience changes in v3.26.0]]
-- Later: 2025-08-21 · Cline · [[Changes/Cline/2025-08-21-add-an-rpc-to-the-host-bridge-to-reveal-a-directory-in-the-ide-file-explorer-by|Add an RPC to the host bridge to reveal a directory in the IDE file explorer]]
+- Later: 2025-08-20 · Recraft · [[Changes/Recraft/2025-08-20-edit-and-variate|Edit and variate]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

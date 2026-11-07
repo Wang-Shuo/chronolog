@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c42774f93fb2f275787bbb94bf2f08ce8cc63dccc4febcbd30a620e705174a8e
+machine_hash: 7155fdc61b4deccb4a0b3cb8e5f7d8053ad3cd6ff1e260d507929e913e394b40
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,12 +49,12 @@ record:
   title: 3 Model Support changes in v2.1.212
   type: change
 related_changes:
-- '[[Changes/Kimi Code/2026-07-16-2-model-support-changes-in-kimi-code-0-26-0-2026-07-16-say-hi|2
-  Model Support changes in Kimi Code 0.26.0 (2026-07-16) Say hi…]]'
-- '[[Changes/Kimi Code/2026-07-16-3-model-support-changes-in-kimi-code-0-25-0|3 Model
-  Support changes in Kimi Code 0.25.0]]'
 - '[[Changes/Ollama/2026-07-16-2-model-support-changes-in-v0-32-1|2 Model Support
   changes in v0.32.1]]'
+- '[[Changes/Raycast/2026-07-16-ai-settings-added-default-reasoning-effort-settings-to-models-view|AI
+  Settings : Added default reasoning effort settings to models view]]'
+- '[[Changes/Raycast/2026-07-16-ai-settings-added-default-reasoning-effort-settings-to-models-view-a8b1e4|AI
+  Settings : Added default reasoning effort settings to models view]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-17-v2-1-212-github-355310036-d94b4e11|claude-code-2026-07-17-v2-1-212-github-355310036-d94b4e11]]'
 source_type: github_releases
 theme: model-support
@@ -96,7 +96,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.212
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-07-16 · Ollama · [[Changes/Ollama/2026-07-16-2-model-support-changes-in-v0-32-1|2 Model Support changes in v0.32.1]]
+- Earlier: 2026-07-16 · Raycast · [[Changes/Raycast/2026-07-16-ai-settings-added-default-reasoning-effort-settings-to-models-view-a8b1e4|AI Settings : Added default reasoning effort settings to models view]]
 - Later: 2026-07-17 · Dify · [[Changes/Dify/2026-07-17-12-model-support-changes-in-1-16-0|12 Model Support changes in 1.16.0]]
 <!-- chronolog:end -->
 

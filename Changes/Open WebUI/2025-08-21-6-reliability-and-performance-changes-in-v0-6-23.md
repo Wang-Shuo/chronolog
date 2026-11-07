@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 358f40ccd91fa024dcd95cebadb56404d7d57807b42a01907edc5fc2af93097d
+machine_hash: dd83a84c755bf5203ebfb6db6e8846241857b483a1a66c164f14c0ae17b6565b
 product: open-webui
 product_name: Open WebUI
 record:
@@ -142,7 +142,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.6.23
 ## Nearby in Reliability and Performance
 
 - Earlier: 2025-08-21 · Descript · [[Changes/Descript/2025-08-21-introducing-templates-your-shortcut-to-professional-videos-with-underlord|Introducing Templates—Your shortcut to professional videos with Underlord]]
-- Later: 2025-08-26 · Codex CLI · [[Changes/Codex CLI/2025-08-26-2-reliability-and-performance-changes-in-rust-v0-24-0|2 Reliability and Performance changes in rust-v0.24.0]]
+- Later: 2025-08-22 · Devin · [[Changes/Devin/2025-08-22-various-reliability-performance-and-usability-improvements-across-the-app|Various reliability, performance, and usability improvements across the app]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

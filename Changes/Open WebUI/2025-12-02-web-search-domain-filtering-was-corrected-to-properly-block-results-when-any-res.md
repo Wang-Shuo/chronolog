@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d8e48ed6731a38735934c3e2fa8edd920bdbe3df7eafe0e20cd4d7388e6b197e
+machine_hash: e2181fbd35292b9c836afbbc8ac958c8e5c897a4102891974126aec310c53bd2
 product: open-webui
 product_name: Open WebUI
 record:
@@ -100,7 +100,7 @@ type: change
 ## Nearby in Search and Browsing
 
 - Earlier: 2025-11-26 · Replit · [[Changes/Replit/2025-11-26-better-search-rankings-for-custom-domains|Better search rankings for Custom Domains]]
-- Later: 2025-12-17 · Gamma · [[Changes/Gamma/2025-12-17-want-your-site-to-show-up-in-search-results-now-you-can-enable-indexing-to-help|Want your site to show up in search results?]]
+- Later: 2025-12-09 · AnythingLLM · [[Changes/AnythingLLM/2025-12-09-add-serpapi-web-search-by-alexbarron-in-https-github-com-mintplex-labs-anything|Add SerpApi web search]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

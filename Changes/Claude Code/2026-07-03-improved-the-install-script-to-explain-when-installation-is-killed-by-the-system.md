@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b5cbc8266f6799f309fc945e31d9dbebf7870ae320221c9a05ce6560bcf029d9
+machine_hash: c9141b5ed2434ea0fe52f6218ab41ed27fabb872b35f7ea1d8a2fb4877c71e04
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,12 +46,12 @@ record:
     system…
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2026-07-01-general-improvements-various-improvements-were-implemented-across-the-applicatio|\U0001F504
-  General improvements. Various improvements were implemented across…]]"
 - '[[Changes/Runway/2026-07-01-nano-banana-2-lite-is-now-available-in-runway-create-images-at-warp-speed-withou|Nano
   Banana 2 Lite]]'
 - '[[Changes/Claude Code/2026-07-02-2-reliability-and-performance-changes-in-v2-1-199|2
   Reliability and Performance changes in v2.1.199]]'
+- '[[Changes/Wispr Flow/2026-07-02-reliability-stability-android|Reliability & Stability
+  (Android)]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-03-v2-1-200-github-348415228-64d6d68d|claude-code-2026-07-03-v2-1-200-github-348415228-64d6d68d]]'
 source_type: github_releases
 theme: reliability-performance
@@ -82,8 +82,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-07-02 · Claude Code · [[Changes/Claude Code/2026-07-02-2-reliability-and-performance-changes-in-v2-1-199|2 Reliability and Performance changes in v2.1.199]]
-- Later: 2026-07-06 · Ollama · [[Changes/Ollama/2026-07-06-igpu-can-now-offload-vision-models-with-padding-to-fit-available-memory|iGPU can now offload vision models with padding to fit available memory]]
+- Earlier: 2026-07-02 · Wispr Flow · [[Changes/Wispr Flow/2026-07-02-reliability-stability-android|Reliability & Stability (Android)]]
+- Later: 2026-07-03 · Raycast · [[Changes/Raycast/2026-07-03-file-search-new-file-search-index-backend-which-should-improve-indexing-and-sear|File Search : New File Search index backend which should improve indexing and search…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

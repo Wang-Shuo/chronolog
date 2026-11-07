@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: febe858e63e462665377e83165a0413ea864de058ec0d1de57fa2704762e1af5
+machine_hash: 20a4c784ee8411c0eb6592b79f1d85a01901b6bf6e87adcd3504c7b2bb81cdd4
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -48,11 +48,11 @@ record:
   title: 5 Agent Mode changes in rust-v0.139.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-08-8-agent-mode-changes-in-rust-v0-138-0|8 Agent Mode
-  changes in rust-v0.138.0]]'
 - '[[Changes/ElevenLabs/2026-06-08-elevenagents|ElevenAgents]]'
 - '[[Changes/v0/2026-06-08-2-agent-mode-changes-in-changelog-update|2 Agent Mode changes
   in Changelog update]]'
+- '[[Changes/AnythingLLM/2026-06-09-improve-agent-summarizer-tool-by-shatfield4-in-https-github-com-mintplex-labs-an|Improve
+  agent summarizer tool]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-06-09-rust-v0-139-0-github-336847772-eda0ee6f|codex-cli-2026-06-09-rust-v0-139-0-github-336847772-eda0ee6f]]'
 source_type: github_releases
 theme: agent-mode
@@ -100,7 +100,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.139.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-06-08 · v0 · [[Changes/v0/2026-06-08-2-agent-mode-changes-in-changelog-update|2 Agent Mode changes in Changelog update]]
+- Earlier: 2026-06-09 · AnythingLLM · [[Changes/AnythingLLM/2026-06-09-improve-agent-summarizer-tool-by-shatfield4-in-https-github-com-mintplex-labs-an|Improve agent summarizer tool]]
 - Later: 2026-06-09 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-09-3-agent-mode-changes-in-v1-0-61|3 Agent Mode changes in v1.0.61]]
 <!-- chronolog:end -->
 

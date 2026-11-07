@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 56887846874d0602bcf8c91af66c2c0e5f75e715707fd81c95a44ed7273f7169
+machine_hash: 72916fd506ac1e55b74841791cb782948e8ac15afaee4d24721281b75e9309dd
 product: claude
 product_name: Claude
 record:
@@ -49,10 +49,10 @@ record:
   title: Self-serve Enterprise plans
   type: change
 related_changes:
-- '[[Changes/Dify/2026-02-03-2-enterprise-and-administration-changes-in-1-12-0|2 Enterprise
-  and Administration changes in 1.12.0]]'
 - '[[Changes/Lovable/2026-02-05-default-design-templates-business-and-enterprise|Default
   design templates (Business and Enterprise)]]'
+- '[[Changes/Devin/2026-02-06-enterprise-organization-selection|Enterprise Organization
+  Selection]]'
 - '[[Changes/Codex CLI/2026-02-11-enterprise-admin-requirements-can-now-restrict-web-search-modes-and-define-netwo|Enterprise/admin
   requirements can now restrict web search modes and define network…]]'
 source_release: '[[Releases/Claude/claude-2026-02-12-2026-02-12-8e8c9b39|claude-2026-02-12-2026-02-12-8e8c9b39]]'

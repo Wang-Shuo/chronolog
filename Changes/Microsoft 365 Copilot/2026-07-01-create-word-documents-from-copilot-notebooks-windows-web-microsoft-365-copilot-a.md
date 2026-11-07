@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 0c9be811238f38c65f6f49f1e7c4f2f469963e89ad3f63c66bddc3a589ad4d44
+machine_hash: 19bf31c2a6722d701dc3f9dea35469678722cde61aebf26b18bf71c7a0d65183
 product: microsoft-365-copilot
 product_name: Microsoft 365 Copilot
 record:
@@ -112,7 +112,7 @@ type: change
 ## Nearby in Files and Data
 
 - Earlier: 2026-06-30 · OpenClaw · [[Changes/OpenClaw/2026-06-30-canvas-a2ui-now-serves-only-the-current-app-assets-after-each-build-so-outdated|Canvas A2UI now serves only the current app assets after each build, so outdated…]]
-- Later: 2026-07-06 · OpenHands · [[Changes/OpenHands/2026-07-06-docs-bring-readme-md-over-from-agent-canvas-by-rbren-in-https-github-com-openhan|docs: Bring README.md over from Agent Canvas]]
+- Later: 2026-07-03 · Raycast · [[Changes/Raycast/2026-07-03-file-search-you-can-now-search-contents-of-text-documents-from-within-file-searc|File Search : You can now search contents of text documents from within File Search…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

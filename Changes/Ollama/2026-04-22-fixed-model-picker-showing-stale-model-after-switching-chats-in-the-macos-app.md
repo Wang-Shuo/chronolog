@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 9717ea6c76471440d87a70d647da107d1a9964d0e2b01467d1fc1f9ac065e62c
+machine_hash: 3ea35b46c30f432ee0db92fa73ccfb48b29ed942e61e5f7efcd4d0f42cd4d71f
 product: ollama
 product_name: Ollama
 record:
@@ -55,12 +55,12 @@ record:
     macOS app'
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-04-20-2-mobile-and-desktop-changes-in-v1-14-19|2 Mobile
-  and Desktop changes in v1.14.19]]'
 - '[[Changes/Open WebUI/2026-04-21-2-mobile-and-desktop-changes-in-v0-9-0|2 Mobile
   and Desktop changes in v0.9.0]]'
 - '[[Changes/OpenCode/2026-04-21-3-mobile-and-desktop-changes-in-v1-14-20|3 Mobile
   and Desktop changes in v1.14.20]]'
+- '[[Changes/AnythingLLM/2026-04-22-remove-illegal-chars-for-windows-on-files-by-timothycarambat-in-https-github-com|Remove
+  illegal chars for Windows on files]]'
 source_release: '[[Releases/Ollama/ollama-2026-04-22-v0-21-1-github-311489814-9e26ae27|ollama-2026-04-22-v0-21-1-github-311489814-9e26ae27]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -94,7 +94,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-04-21 · OpenCode · [[Changes/OpenCode/2026-04-21-3-mobile-and-desktop-changes-in-v1-14-20|3 Mobile and Desktop changes in v1.14.20]]
+- Earlier: 2026-04-22 · AnythingLLM · [[Changes/AnythingLLM/2026-04-22-remove-illegal-chars-for-windows-on-files-by-timothycarambat-in-https-github-com|Remove illegal chars for Windows on files]]
 - Later: 2026-04-23 · Gemini CLI · [[Changes/Gemini CLI/2026-04-23-use-macos-latest-large-runner-where-applicable-by-scidomino-in-https-github-com|use macos-latest-large runner where applicable]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: f3f2880298a740393100470b764f2b021f945677cd14128e8864a3606cdcbed2
+machine_hash: 35d6c563b4306df2a7ea6132cc9bbd1d25e1ea0b73455513cd1bd4dff6ab3276
 product: lovable
 product_name: Lovable
 record:
@@ -61,12 +61,12 @@ record:
   title: Connect GitHub API by signing in with your GitHub account
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-26-2-apps-and-integrations-changes-in-v2-1-247|2
-  Apps and Integrations changes in v2.1.247]]'
-- '[[Changes/Cline/2026-08-26-4-apps-and-integrations-changes-in-v4-1-16|4 Apps and
-  Integrations changes in v4.1.16]]'
 - '[[Changes/Codex CLI/2026-08-26-24-apps-and-integrations-changes-in-rust-v0-150-0|24
   Apps and Integrations changes in rust-v0.150.0]]'
+- '[[Changes/Devin/2026-08-26-smarter-mention-routing-in-slack-threads|Smarter @mention
+  Routing in Slack Threads]]'
+- '[[Changes/Devin/2026-08-26-default-working-org-for-slack-channel-sessions|Default
+  Working Org for Slack Channel Sessions]]'
 source_release: '[[Releases/Lovable/lovable-2026-08-26-2026-08-26-bad08262|lovable-2026-08-26-2026-08-26-bad08262]]'
 source_type: lovable_changelog
 theme: apps-integrations
@@ -102,8 +102,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-08-26 · Codex CLI · [[Changes/Codex CLI/2026-08-26-24-apps-and-integrations-changes-in-rust-v0-150-0|24 Apps and Integrations changes in rust-v0.150.0]]
-- Later: 2026-08-27 · Claude Code · [[Changes/Claude Code/2026-08-27-improved-managed-settings-client-side-timeout-mcp-startup-mode-and-stream-watchd|Improved managed settings]]
+- Earlier: 2026-08-26 · Devin · [[Changes/Devin/2026-08-26-default-working-org-for-slack-channel-sessions|Default Working Org for Slack Channel Sessions]]
+- Later: 2026-08-26 · Superwhisper · [[Changes/Superwhisper/2026-08-26-agent-plugin-support-for-deepseek-harness|Agent plugin support for DeepSeek Harness]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

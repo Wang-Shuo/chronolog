@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9b9b977f65c5f477c8048d989d4dc9ccb640f343b862dbda328ebfccbd71d057
+machine_hash: 424fdfec6b0ca94fbbb8e81e21e3ce7e7f307fea8e6d1697ba9e42372f543cc5
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,12 +43,12 @@ record:
     scheduled…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-07-added-cron-scheduling-tools-for-recurring-prompts-within-a-session|Added
-  cron scheduling tools for recurring prompts within a session]]'
 - '[[Changes/Claude Code/2026-03-07-added-loop-command-to-run-a-prompt-or-slash-command-on-a-recurring-interval-e-g|Added
   /loop command to run a prompt or slash command on a recurring interval…]]'
 - '[[Changes/Open WebUI/2026-03-08-artifacts-reactive-loop-fix-fixed-an-infinite-reactive-loop-in-chat-when-artifac|♾️
   Artifacts reactive loop fix. Fixed an infinite reactive loop in chat…]]'
+- '[[Changes/Raycast/2026-03-09-scheduled-export-you-can-now-backup-your-raycast-settings-and-data-on-a-schedule|Scheduled
+  Export: You can now backup your Raycast settings and data on a schedule…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-10-v2-1-72-github-294951528-18ee0f48|claude-code-2026-03-10-v2-1-72-github-294951528-18ee0f48]]'
 source_type: github_releases
 theme: automation-scheduling
@@ -85,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2026-03-08 · Open WebUI · [[Changes/Open WebUI/2026-03-08-artifacts-reactive-loop-fix-fixed-an-infinite-reactive-loop-in-chat-when-artifac|♾️ Artifacts reactive loop fix. Fixed an infinite reactive loop in chat…]]
+- Earlier: 2026-03-09 · Raycast · [[Changes/Raycast/2026-03-09-scheduled-export-you-can-now-backup-your-raycast-settings-and-data-on-a-schedule|Scheduled Export: You can now backup your Raycast settings and data on a schedule…]]
 - Later: 2026-03-10 · Codex CLI · [[Changes/Codex CLI/2026-03-10-2-automation-and-scheduling-changes-in-rust-v0-113-0|2 Automation and Scheduling changes in rust-v0.113.0]]
 <!-- chronolog:end -->
 

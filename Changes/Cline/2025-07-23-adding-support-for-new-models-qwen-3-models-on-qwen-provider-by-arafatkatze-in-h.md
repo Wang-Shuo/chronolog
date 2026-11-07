@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 892887d25bc3260768fd1e74b942d6c466133df357a95f312f806447e883fc15
+machine_hash: 7a931fb8c34cb6514773974ca23167e4c98e46d03bc63cefa67114718905ea83
 product: cline
 product_name: Cline
 record:
@@ -44,12 +44,12 @@ record:
   title: Adding support for new models Qwen 3 models on Qwen provider
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-07-19-4-model-support-changes-in-v0-1-13|4 Model Support
-  changes in v0.1.13]]'
 - "[[Changes/Open WebUI/2025-07-19-chat-id-header-forwarding-ollama-and-openai-router-requests-now-include-the-chat|\U0001F4E1
   Chat ID Header Forwarding]]"
 - '[[Changes/Cline/2025-07-22-separate-plan-act-model-settings-by-celestial-vault-in-https-github-com-cline-cl|Separate
   plan act model settings]]'
+- '[[Changes/LM Studio/2025-07-22-added-think-toggle-button-into-chat-input-for-models-that-support-turning-thinki|Added
+  "Think" toggle button into chat input for models that support turning thinking…]]'
 source_release: '[[Releases/Cline/cline-2025-07-23-v3-20-0-github-234416918-c781a873|cline-2025-07-23-v3-20-0-github-234416918-c781a873]]'
 source_type: github_releases
 theme: model-support
@@ -78,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-07-22 · Cline · [[Changes/Cline/2025-07-22-separate-plan-act-model-settings-by-celestial-vault-in-https-github-com-cline-cl|Separate plan act model settings]]
+- Earlier: 2025-07-22 · LM Studio · [[Changes/LM Studio/2025-07-22-added-think-toggle-button-into-chat-input-for-models-that-support-turning-thinki|Added "Think" toggle button into chat input for models that support turning thinking…]]
 - Later: 2025-07-23 · Dify · [[Changes/Dify/2025-07-23-2-model-support-changes-in-1-7-0|2 Model Support changes in 1.7.0]]
 <!-- chronolog:end -->
 

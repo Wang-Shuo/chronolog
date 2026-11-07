@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e4d3d4a6fa4ec6b320ae97640af268b913011c66a05c44c53303feeb531eadde
+machine_hash: 68f4838cdd16a8128317156432aca7c5c0faf61ec07ca1b7a87ceaff6053370d
 product: lovable
 product_name: Lovable
 record:
@@ -44,8 +44,8 @@ record:
   title: Project search has been improved with faster full-text search, better substring…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-20-3-reliability-and-performance-changes-in-v2-1-50|3
-  Reliability and Performance changes in v2.1.50]]'
+- '[[Changes/Devin/2026-02-20-various-bug-fixes-and-performance-improvements-across-the-platform|Various
+  bug fixes and performance improvements across the platform]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-20-improve-code-search-speed-in-large-repos|Improve
   code search speed in large repos]]'
 - '[[Changes/Ollama/2026-02-21-improved-tokenizer-performance|Improved tokenizer performance]]'

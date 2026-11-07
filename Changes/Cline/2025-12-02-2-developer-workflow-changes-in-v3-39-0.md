@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: bee0ceeb333c714d21843942f0bc30295fd0d7d2b1709d27c5a64b133300629a
+machine_hash: e6d323667608221dbbb307f1e4267a950e36f0e18e2ee0a89bcf981d690bceb0
 product: cline
 product_name: Cline
 record:
@@ -43,12 +43,11 @@ record:
   title: 2 Developer Workflow changes in v3.39.0
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2025-11-25-a-user-list-modal-was-added-to-channels-displaying-all-users-with-access-and-fea|\U0001F4AC
-  A user list modal was added to channels, displaying all users with access…]]"
 - '[[Changes/Dify/2025-11-26-3-developer-workflow-changes-in-1-10-1|3 Developer Workflow
   changes in 1.10.1]]'
 - '[[Changes/Gemini CLI/2025-11-26-feat-add-click-to-focus-support-for-interactive-shell-by-galz10-in-https-github|feat:
   add click-to-focus support for interactive shell]]'
+- '[[Changes/Raycast/2025-11-27-confetti|Confetti]]'
 source_release: '[[Releases/Cline/cline-2025-12-02-v3-39-0-github-266733488-92b66311|cline-2025-12-02-v3-39-0-github-266733488-92b66311]]'
 source_type: github_releases
 theme: developer-workflow
@@ -86,7 +85,7 @@ Source: https://github.com/cline/cline/releases/tag/v3.39.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2025-11-26 · Gemini CLI · [[Changes/Gemini CLI/2025-11-26-feat-add-click-to-focus-support-for-interactive-shell-by-galz10-in-https-github|feat: add click-to-focus support for interactive shell]]
+- Earlier: 2025-11-27 · Raycast · [[Changes/Raycast/2025-11-27-confetti|Confetti]]
 - Later: 2025-12-02 · Codex CLI · [[Changes/Codex CLI/2025-12-02-4-developer-workflow-changes-in-rust-v0-64-0|4 Developer Workflow changes in rust-v0.64.0]]
 <!-- chronolog:end -->
 

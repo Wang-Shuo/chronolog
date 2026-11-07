@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 67798364cbab0f4d2a096f4d956504151c84ecf42e856d903000e8c275461c21
+machine_hash: b6083cfeeb22b66ceb62cd2966fe55f65073ed86728f5d3d058f9b7e7bd90f38
 product: openhands
 product_name: OpenHands
 record:
@@ -99,7 +99,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-07-29 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-07-29-sharepoint-list-support-in-agent-builder-windows-web-microsoft-365-copilot-exten|SharePoint list support in Agent Builder Windows…]]
-- Later: 2026-07-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-30-2-agent-mode-changes-in-v1-0-76|2 Agent Mode changes in v1.0.76]]
+- Later: 2026-07-29 · Recraft · [[Changes/Recraft/2026-07-29-meet-the-design-agent-in-recraft-studio|Recraft Design Agent]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

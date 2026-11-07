@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7e8abc25bb9ae3a780ad76b7350ebbb7aafbb8a8c909f8165b2f759dddb0642f
+machine_hash: 1420f23207e5f12443e72c970f0e25bd70214f3690b06bc7fab27a8120902406
 product: openclaw
 product_name: OpenClaw
 record:
@@ -76,8 +76,8 @@ record:
   title: 7 Files and Data changes in v2026.9.5
   type: change
 related_changes:
-- '[[Changes/Claude/2026-09-16-create-designs-decks-and-docs-in-any-conversation|Create
-  designs, decks, and docs in any conversation]]'
+- '[[Changes/Devin/2026-09-16-copied-messages-keep-their-formatting|Copied Messages
+  Keep Their Formatting]]'
 - '[[Changes/OpenHands/2026-09-16-feat-track-authenticated-canvas-arrivals-by-neubig-in-https-github-com-openhands|feat:
   track authenticated Canvas arrivals]]'
 - '[[Changes/Claude Code/2026-09-17-claude-tag-removed-the-repeated-guest-attribution-note-claude-appended-to-a-slac|Claude

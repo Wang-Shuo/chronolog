@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 16c182a98a8cf46301b023fdb12c45ba8df63dad710ba630cc4456c5f418c2e3
+machine_hash: 5a2fea33787d9e7ce8cad01b472309f3cada9b3fb0716c03f9a30cefc2894c9a
 product: cline
 product_name: Cline
 record:
@@ -54,9 +54,10 @@ record:
   title: Add Advanced Settings to remove MCP prompts from requests to save tokens…
   type: change
 related_changes:
-- '[[Changes/Replit/2025-01-24-assistant-workflows|Assistant + Workflows]]'
 - '[[Changes/Lovable/2025-01-28-support-for-resend-has-improved-with-the-transition-to-the-node-sdk|Support
   for Resend has improved with the transition to the Node SDK]]'
+- '[[Changes/AnythingLLM/2025-01-29-breakout-latex-plugin-for-delims-by-timothycarambat-in-https-github-com-mintplex|breakout
+  latex plugin for delims]]'
 - '[[Changes/OpenHands/2025-01-29-improved-performance-of-github-api-integration-by-using-modern-async-http-client|Improved
   performance of GitHub API integration by using modern async HTTP client]]'
 source_release: '[[Releases/Cline/cline-2025-01-30-v3-2-6-github-197481129-124c52a1|cline-2025-01-30-v3-2-6-github-197481129-124c52a1]]'

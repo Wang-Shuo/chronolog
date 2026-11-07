@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 31649da726eb8a20aa5dca553bccd9f1213810e0c8b8391b9124df46c69db763
+machine_hash: b3ad3ff130369bb2575538437ab6f70ae75527f05b08b66df54dacde6ce4fe66
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -52,12 +52,12 @@ record:
   title: 5 Model Support changes in v0.1.10
   type: change
 related_changes:
-- '[[Changes/Cline/2025-07-10-adding-thinking-token-config-to-gemini-2-5-pro-model-and-adding-gemini-2-5-flash|Adding
-  Thinking Token Config to Gemini 2.5 pro model and adding gemini 2.5 flash preview]]'
 - '[[Changes/Codex CLI/2025-07-10-added-new-config-option-model-supports-reasoning-summaries-https-github-com-open|Added
   new config option]]'
 - '[[Changes/Dify/2025-07-10-4-model-support-changes-in-1-6-0|4 Model Support changes
   in 1.6.0]]'
+- '[[Changes/Recraft/2025-07-10-we-ve-added-ideogram-v3-as-a-new-external-model-in-recraft|Recraft
+  adds Ideogram V3 as a new external model]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-07-11-v0-1-10-github-231320517-434b29eb|gemini-cli-2025-07-11-v0-1-10-github-231320517-434b29eb]]'
 source_type: github_releases
 theme: model-support
@@ -103,8 +103,8 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.1.10
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-07-10 · Dify · [[Changes/Dify/2025-07-10-4-model-support-changes-in-1-6-0|4 Model Support changes in 1.6.0]]
-- Later: 2025-07-14 · Open WebUI · [[Changes/Open WebUI/2025-07-14-6-model-support-changes-in-v0-6-16|6 Model Support changes in v0.6.16]]
+- Earlier: 2025-07-10 · Recraft · [[Changes/Recraft/2025-07-10-we-ve-added-ideogram-v3-as-a-new-external-model-in-recraft|Recraft adds Ideogram V3 as a new external model]]
+- Later: 2025-07-11 · Superwhisper · [[Changes/Superwhisper/2025-07-11-custom-api-model-fixes|Custom API Model Fixes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

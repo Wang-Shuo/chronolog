@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9bd418e00026d3f25c757d9f6e2ef24b9d86347b65870784b9fae8bc22c901f3
+machine_hash: 3b65ed7054402708254baf891d382b67613248c657ccde5ffbe70d2b17512699
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,10 +44,10 @@ record:
   title: 2 Editor Experience changes in v2.1.116
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-17-remote-control-clients-can-now-query-file-autocomplete-suggestions|Remote
-  Control clients can now query @-file autocomplete suggestions]]'
 - '[[Changes/Notion/2026-04-17-connect-your-calendar-and-inbox-from-a-new-dedicated-tab-in-your-settings-after|Mail
   & Calendar, now in your settings]]'
+- '[[Changes/Recraft/2026-04-17-edit-images-with-ai-directly-in-your-browser-from-any-webpage-generate-visuals-r|Edit
+  images with AI directly in your browser, from any webpage]]'
 - '[[Changes/OpenCode/2026-04-19-core-fix-github-copilot-anthropic-haiku-requests-by-disabling-unsupported-tool-s|Core
   Fix GitHub Copilot Anthropic Haiku requests by disabling unsupported tool streaming]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-20-v2-1-116-github-311446114-3b24dc7e|claude-code-2026-04-20-v2-1-116-github-311446114-3b24dc7e]]'

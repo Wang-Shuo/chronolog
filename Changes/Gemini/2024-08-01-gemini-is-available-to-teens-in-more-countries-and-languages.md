@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: policy
-machine_hash: 63a567a4ca53d7aa7fda85ff26985560946bf5c0dab880c81753e0389ac35731
+machine_hash: 7be36c4ae92d766538776f38673e2a9411c72c7a0383acb469202906ca236c4b
 product: gemini
 product_name: Gemini
 record:
@@ -54,12 +54,12 @@ record:
   title: Gemini is available to teens in more countries and languages
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-07-23-we-ve-also-added-a-file-picker-arrow-key-navigation-and-a-model-toggle-to-compos|Cursor
-  adds a file picker, arrow key navigation, and a model toggle to Composer]]'
-- "[[Changes/Gamma/2024-07-23-we-ve-also-improved-our-gradient-picker|Gamma improves
-  our gradient picker \U0001F44D]]"
+- '[[Changes/AnythingLLM/2024-07-26-25-interface-experience-changes-in-v1-0-0|25 Interface
+  Experience changes in v1.0.0]]'
 - '[[Changes/Aider/2024-07-31-switching-to-code-and-ask-mode-no-longer-summarizes-the-chat-history|Switching
   to code and ask mode no longer summarizes the chat history]]'
+- '[[Changes/Raycast/2024-07-31-hotkey-global-hotkey-now-unhides-app-if-windows-are-minimized|Hotkey:
+  Global hotkey now unhides app if windows are minimized]]'
 source_release: '[[Releases/Gemini/gemini-2024-08-01-2024-08-01-4e1db6f4|gemini-2024-08-01-2024-08-01-4e1db6f4]]'
 source_type: gemini_changelog
 theme: interface-experience
@@ -88,7 +88,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2024-07-31 · Aider · [[Changes/Aider/2024-07-31-switching-to-code-and-ask-mode-no-longer-summarizes-the-chat-history|Switching to code and ask mode no longer summarizes the chat history]]
+- Earlier: 2024-07-31 · Raycast · [[Changes/Raycast/2024-07-31-hotkey-global-hotkey-now-unhides-app-if-windows-are-minimized|Hotkey: Global hotkey now unhides app if windows are minimized]]
 - Later: 2024-08-02 · Open WebUI · [[Changes/Open WebUI/2024-08-02-3-interface-experience-changes-in-v0-3-11|3 Interface Experience changes in v0.3.11]]
 <!-- chronolog:end -->
 

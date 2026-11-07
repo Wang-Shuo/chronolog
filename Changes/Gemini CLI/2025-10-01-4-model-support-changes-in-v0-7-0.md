@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 80e0a07d6d0b26c7b814e565e0112dabe775ecf5a142122bee3af52a00d57812
+machine_hash: 724dbac3c7de1fcc92abbc0441493f42cb9b8b0748ebe7d0097f9256c2e836b2
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -50,8 +50,8 @@ record:
   title: 4 Model Support changes in v0.7.0
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2025-09-29-the-set-as-default-option-is-now-reliably-clickable-in-model-and-filter-selectio|\U0001F41B
-  The \"Set as default\" option is now reliably clickable in model and filter…]]"
+- '[[Changes/Superwhisper/2025-09-29-claude-sonnet-4-5-ui-stability-improvements|Claude
+  Sonnet 4.5, UI & Stability Improvements]]'
 - '[[Changes/Windsurf/2025-09-29-claude-sonnet-4-5|Claude Sonnet 4.5]]'
 - '[[Changes/Cline/2025-09-30-docs-update-documentation-for-claude-sonnet-4-5-release-by-nickbaumann98-in-http|docs:
   update documentation for Claude Sonnet 4.5 release]]'

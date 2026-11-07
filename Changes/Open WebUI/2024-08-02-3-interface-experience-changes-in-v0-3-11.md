@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 20d65a93dea3de7027d48425e3b2970a48beb451983eee4c8c96e3f218fca2bc
+machine_hash: 5292175ec6a393457c727c25fee876c3f9b32c495a5cc4e52ff451a671894b1c
 product: open-webui
 product_name: Open WebUI
 record:
@@ -48,10 +48,10 @@ record:
   title: 3 Interface Experience changes in v0.3.11
   type: change
 related_changes:
-- "[[Changes/Gamma/2024-07-23-we-ve-also-improved-our-gradient-picker|Gamma improves
-  our gradient picker \U0001F44D]]"
 - '[[Changes/Aider/2024-07-31-switching-to-code-and-ask-mode-no-longer-summarizes-the-chat-history|Switching
   to code and ask mode no longer summarizes the chat history]]'
+- '[[Changes/Raycast/2024-07-31-hotkey-global-hotkey-now-unhides-app-if-windows-are-minimized|Hotkey:
+  Global hotkey now unhides app if windows are minimized]]'
 - '[[Changes/Gemini/2024-08-01-gemini-is-available-to-teens-in-more-countries-and-languages|Gemini
   is available to teens in more countries and languages]]'
 source_release: '[[Releases/Open WebUI/open-webui-2024-08-02-v0-3-11-github-168514684-1f88ba87|open-webui-2024-08-02-v0-3-11-github-168514684-1f88ba87]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7ffabb3ec9db91356135aa6b4801692e951decf1e56544068746a50bc5524243
+machine_hash: 31ab4b949031d5544b5d6e8d3b085798cae7b8c0dfa1acad7f9210cf699873ea
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-05-08 · Codex CLI · [[Changes/Codex CLI/2026-05-08-added-a-faster-cargo-profiling-build-profile-and-disabled-empty-doctest-targets|Added a faster Cargo profiling build profile and disabled empty doctest targets…]]
-- Later: 2026-05-09 · Open WebUI · [[Changes/Open WebUI/2026-05-09-4-reliability-and-performance-changes-in-v0-9-3|4 Reliability and Performance changes in v0.9.3]]
+- Later: 2026-05-08 · Raycast · [[Changes/Raycast/2026-05-08-performance-improved-cold-start-latency-for-the-action-panel-and-search-emoji-sy|Performance: Improved cold start latency for the Action Panel and Search Emoji & Symbols]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

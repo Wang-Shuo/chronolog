@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: music-generation
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3817e22e963ffb49a6dddc4c412ec1f36825254b61b8ca377aa08e5ec97391d8
+machine_hash: 10da95813d2f2bf719e68c835b1860da1e3f143a2aab36c120a15dc5043ec564
 product: openclaw
 product_name: OpenClaw
 record:

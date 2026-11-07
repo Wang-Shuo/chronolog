@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 34c77142cba9d7b680104eccd2a6eed51666cd594d58a135d6ce21fb3fcf436e
+machine_hash: 299434c9d9a6f14672a43dcd6c69c2cfaf7c0c540b162bcb63f826261e3d5731
 product: open-webui
 product_name: Open WebUI
 record:
@@ -97,10 +97,10 @@ record:
   title: 10 Automation and Scheduling changes in v0.12.0
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-10-08-2-automation-and-scheduling-changes-in-v2026-9-9|2
-  Automation and Scheduling changes in v2026.9.9]]'
-- '[[Changes/OpenHands/2026-10-08-2-automation-and-scheduling-changes-in-v1-26-0|2
-  Automation and Scheduling changes in v1.26.0]]'
+- '[[Changes/Raycast/2026-10-09-2-automation-and-scheduling-changes-in-raycast-windows-2-7|2
+  Automation and Scheduling changes in Raycast windows 2.7]]'
+- '[[Changes/Raycast/2026-10-09-2-automation-and-scheduling-changes-in-raycast-macos-2-7|2
+  Automation and Scheduling changes in Raycast macos 2.7]]'
 - '[[Changes/Replit/2026-10-09-create-and-manage-tiktok-ads|Create and manage TikTok
   Ads]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-10-10-v0-12-0-github-409209575-f076e92b|open-webui-2026-10-10-v0-12-0-github-409209575-f076e92b]]'

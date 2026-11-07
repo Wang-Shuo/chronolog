@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 285aebffe7f0ceca3788aacbb37978bd84f2f93a45cf4413bdb50aa26ad71e25
+machine_hash: 0f04c9f035f89be8f8b0994d2ad4f07883c90465fe9a832537e6c8734c21e3d7
 product: aider
 product_name: Aider
 record:
@@ -96,7 +96,7 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.60.0
 ## Nearby in Model Support
 
 - Earlier: 2024-10-21 · Ollama · [[Changes/Ollama/2024-10-21-2-model-support-changes-in-v0-4-0|2 Model Support changes in v0.4.0]]
-- Later: 2024-10-23 · Dify · [[Changes/Dify/2024-10-23-6-model-support-changes-in-0-10-1|6 Model Support changes in 0.10.1]]
+- Later: 2024-10-22 · LM Studio · [[Changes/LM Studio/2024-10-22-8-model-support-changes-in-lm-studio-0-3-5|8 Model Support changes in LM Studio 0.3.5]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

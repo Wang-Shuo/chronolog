@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: a0cd31acf7ed10504a52de6a32ba7ac0d1a3340ea742e6ec23fc392672dfdd1f
+machine_hash: 291d32faa6e2c31fa04c1899f288b1c14be64b1b01a0f350eab24d92c28c58fc
 product: notion
 product_name: Notion
 record:
@@ -48,10 +48,9 @@ record:
   title: Jump to your recently viewed pages on mobile
   type: change
 related_changes:
-- '[[Changes/Descript/2022-01-11-macos-native-apple-silicon-support|macOS: Native
-  Apple Silicon Support]]'
-- '[[Changes/Notion/2022-04-14-removed-the-icon-on-rollup-values-on-mobile-since-it-was-blocking-the-content-in|Removed
-  the ✏️ icon on rollup values on mobile since it was blocking the content inside]]'
+- '[[Changes/Raycast/2022-06-29-macos-ventura-beta-fixed-an-issue-where-raycast-would-crash-when-opening-the-sea|macOS
+  Ventura (Beta)]]'
+- '[[Changes/Raycast/2022-07-19-a-fresh-look-and-feel|A fresh look and feel]]'
 - '[[Changes/Notion/2022-10-12-interact-with-text-in-images-on-ios|Interact with text
   in images on iOS]]'
 source_release: '[[Releases/Notion/notion-2022-11-17-https-www-notion-com-releases-2022-11-17-23edb7c3|notion-2022-11-17-https-www-notion-com-releases-2022-11-17-23edb7c3]]'
@@ -87,7 +86,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2022-10-12 · Notion · [[Changes/Notion/2022-10-12-interact-with-text-in-images-on-ios|Interact with text in images on iOS]]
-- Later: 2022-12-15 · Notion · [[Changes/Notion/2022-12-15-tabs-in-your-desktop-app|Tabs in your desktop app]]
+- Later: 2022-11-23 · Raycast · [[Changes/Raycast/2022-11-23-macos-shortcuts-improvements|macOS Shortcuts Improvements]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

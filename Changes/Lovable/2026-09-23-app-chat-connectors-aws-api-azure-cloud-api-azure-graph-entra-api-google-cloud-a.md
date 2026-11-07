@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: a54fab401e04be216397524129255f6c01de7653416d91b2e31a997d21659b79
+machine_hash: 6ae73f680d1ee30683b0982fd35d75ea85cea6cc58e4824dc19955fac3c8d33c
 product: lovable
 product_name: Lovable
 record:
@@ -73,11 +73,12 @@ record:
   title: App + chat connectors
   type: change
 related_changes:
-- '[[Changes/Runway/2026-09-22-agents-in-runway-mcp-can-now-find-your-brand-kits-and-use-those-assets-as-refere|Brand
-  Kits in Runway MCP]]'
-- '[[Changes/Claude Code/2026-09-23-17-apps-and-integrations-changes-in-v2-1-281|17
-  Apps and Integrations changes in v2.1.281]]'
-- '[[Changes/Cursor/2026-09-23-integrations|Integrations]]'
+- '[[Changes/Devin/2026-09-23-linear-mac-windows-platform-directives|Linear: !mac
+  / !windows Platform Directives]]'
+- '[[Changes/Devin/2026-09-23-teams-mcp-can-read-channel-messages|Teams MCP Can Read
+  Channel Messages]]'
+- '[[Changes/Devin/2026-09-23-plugin-mcps-appear-in-customize-mcps|Plugin MCPs Appear
+  in Customize → MCPs]]'
 source_release: '[[Releases/Lovable/lovable-2026-09-23-2026-09-23-6719e501|lovable-2026-09-23-2026-09-23-6719e501]]'
 source_type: lovable_changelog
 theme: apps-integrations
@@ -123,7 +124,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-09-23 · Cursor · [[Changes/Cursor/2026-09-23-integrations|Integrations]]
+- Earlier: 2026-09-23 · Devin · [[Changes/Devin/2026-09-23-plugin-mcps-appear-in-customize-mcps|Plugin MCPs Appear in Customize → MCPs]]
 - Later: 2026-09-23 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-09-23-federated-copilot-connectors-web-microsoft-365-copilot-extensibility|Federated Copilot Connectors Web (Microsoft 365 Copilot extensibility)]]
 <!-- chronolog:end -->
 

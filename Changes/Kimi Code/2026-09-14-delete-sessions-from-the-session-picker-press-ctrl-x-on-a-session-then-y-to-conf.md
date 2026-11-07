@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: dd481a50c7e3232dd436ffe6e9b4ee7e5b4761b8bd3080fde4eec91c5b7fe1f6
+machine_hash: cf84fac57cc4c5e5f6a7d10fefe32f2b69d8448f4035308e72ddcaf5db0d2333
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -43,10 +43,10 @@ record:
     y to confirm'
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-09-11-preview-a-remixable-project-without-signing-in|Preview
-  a remixable project without signing in]]'
-- '[[Changes/OpenClaw/2026-09-11-5-interface-experience-changes-in-v2026-9-4|5 Interface
-  Experience changes in v2026.9.4]]'
+- '[[Changes/Raycast/2026-09-11-2-interface-experience-changes-in-raycast-windows-2-3|2
+  Interface Experience changes in Raycast windows 2.3]]'
+- '[[Changes/Raycast/2026-09-11-2-interface-experience-changes-in-raycast-macos-2-3|2
+  Interface Experience changes in Raycast macos 2.3]]'
 - '[[Changes/Claude Code/2026-09-14-3-interface-experience-changes-in-v2-1-271|3 Interface
   Experience changes in v2.1.271]]'
 source_release: '[[Releases/Kimi Code/kimi-code-2026-09-14-0-43-0-90f39217|kimi-code-2026-09-14-0-43-0-90f39217]]'
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-09-14 · Claude Code · [[Changes/Claude Code/2026-09-14-3-interface-experience-changes-in-v2-1-271|3 Interface Experience changes in v2.1.271]]
-- Later: 2026-09-15 · Claude Code · [[Changes/Claude Code/2026-09-15-claude-code-on-the-web-improved-the-routine-detail-page-menu-and-rename-in-the-b|Claude Code on the web Improved the routine detail page]]
+- Later: 2026-09-14 · Raycast · [[Changes/Raycast/2026-09-14-macos-golden-gate-is-out-bringing-many-user-interface-changes-while-there-are-no|macOS Golden Gate is out, bringing many user interface changes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

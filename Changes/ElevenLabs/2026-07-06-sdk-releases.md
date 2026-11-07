@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: d59804e92c3ca310899c335131cc1248a65ea3392b6ace9b7d22ebc6ab6dfe59
+machine_hash: 130a277c0f5e08c15709e36d82a06c2a8d8f9f0760c195ca117b0c469aeb5df3
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -41,8 +41,8 @@ record:
   title: SDK Releases
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-07-02-app-connector-wordpress-self-hosted|App connector:
-  WordPress (self-hosted)]]'
+- '[[Changes/Raycast/2026-07-03-store-added-ability-to-filter-by-extensions-which-have-ai-extensions|Store
+  : Added ability to filter by extensions which have AI extensions]]'
 - '[[Changes/Replit/2026-07-03-integrations|Integrations]]'
 - '[[Changes/Claude Code/2026-07-06-improved-mcp-error-messages-clearer-error-when-a-server-config-has-url-but-no-ty|Improved
   MCP error messages]]'

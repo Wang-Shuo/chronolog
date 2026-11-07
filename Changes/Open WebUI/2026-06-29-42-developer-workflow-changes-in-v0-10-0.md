@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b6e8e19388c0d236477017b78d3699f16aa298e9f3bb08a18c23c8b0e045be19
+machine_hash: 0cf576ac13ef067b12ffd38ef12afc5d5181142340f35a0bbe4629976a51699b
 product: open-webui
 product_name: Open WebUI
 record:
@@ -275,8 +275,8 @@ record:
   title: 42 Developer Workflow changes in v0.10.0
   type: change
 related_changes:
-- '[[Changes/Cline/2026-06-26-2-developer-workflow-changes-in-v4-0-0|2 Developer Workflow
-  changes in v4.0.0]]'
+- '[[Changes/Devin/2026-06-26-readable-pr-review-label-colors|Readable PR Review Label
+  Colors]]'
 - '[[Changes/Kimi Code/2026-06-26-2-developer-workflow-changes-in-kimi-code-0-20-1|2
   Developer Workflow changes in Kimi Code 0.20.1]]'
 - '[[Changes/Claude Code/2026-06-29-2-developer-workflow-changes-in-v2-1-196|2 Developer

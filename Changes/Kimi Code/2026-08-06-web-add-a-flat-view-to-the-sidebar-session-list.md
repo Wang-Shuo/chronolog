@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c6661ecaac1599ae9c24a5f40ebf0e361078a4ba172a57ef29122c1c807fca33
+machine_hash: 61e2da316a823342c04c74c6c2d3ff4ed95ced3310925a9038f2b9594853fda6
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -41,10 +41,9 @@ record:
   title: 'web: Add a flat view to the sidebar session list'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-04-vscode-added-focus-view-a-chat-menu-toggle-that-hides-tool-activity-behind-an-ex|VSCode
-  Added Focus view]]'
 - '[[Changes/Cline/2026-08-05-3-interface-experience-changes-in-v4-1-4|3 Interface
   Experience changes in v4.1.4]]'
+- '[[Changes/Devin/2026-08-05-linear-reconnect-action|Linear Reconnect Action]]'
 - '[[Changes/Kimi Code/2026-08-05-web-pin-sessions-to-the-top-of-the-sidebar|web:
   Pin sessions to the top of the sidebar]]'
 source_release: '[[Releases/Kimi Code/kimi-code-2026-08-06-0-34-0-c752f3e6|kimi-code-2026-08-06-0-34-0-c752f3e6]]'
@@ -79,7 +78,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-08-05 · Kimi Code · [[Changes/Kimi Code/2026-08-05-web-pin-sessions-to-the-top-of-the-sidebar|web: Pin sessions to the top of the sidebar]]
-- Later: 2026-08-07 · Claude Code · [[Changes/Claude Code/2026-08-07-improved-fullscreen-mode-to-keep-the-full-pre-compaction-history-in-scrollback-a|Improved fullscreen mode to keep the full pre-compaction history in scrollback…]]
+- Later: 2026-08-06 · Superwhisper · [[Changes/Superwhisper/2026-08-06-faster-smoother-settings-window-with-refined-picker-disclosure-and-appearance-ca|Faster, smoother settings window with refined picker, disclosure, and Appearance…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

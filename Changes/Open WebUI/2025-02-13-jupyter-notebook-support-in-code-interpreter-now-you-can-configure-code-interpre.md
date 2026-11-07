@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: a61ee70797121d9228799563b5b319edbbae7a75f0e5c183bfe6b07a38156ec9
+machine_hash: 230f7de5a8940163bba4340231287b9f0936eb90d936b3017dd4b0aad1d56d84
 product: open-webui
 product_name: Open WebUI
 record:
@@ -91,7 +91,7 @@ type: change
 ## Nearby in Files and Data
 
 - Earlier: 2025-02-11 · Descript · [[Changes/Descript/2025-02-11-scene-toolbar|Scene toolbar]]
-- Later: 2025-02-25 · Descript · [[Changes/Descript/2025-02-25-canvas-becomes-scene-editor|Canvas becomes Scene Editor]]
+- Later: 2025-02-18 · AnythingLLM · [[Changes/AnythingLLM/2025-02-18-2-files-and-data-changes-in-v1-7-4|2 Files and Data changes in v1.7.4]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

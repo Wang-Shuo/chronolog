@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 0e6b51da2bafc213a04a609891f71f467b56b829d150fb9c79b34e838fef7603
+machine_hash: 377b1801484e9b33eff137b9bd4ae055faac077a9586cab88802e8f5bfd61544
 product: windsurf
 product_name: Windsurf
 record:
@@ -73,10 +73,10 @@ record:
   title: Updated Model Picker with Pricing Context
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-31-15934-add-usage-based-business-plan-types-bwanner-oai|♯15934
-  Add usage-based business plan types @bwanner-oai]]'
 - '[[Changes/HeyGen/2026-03-31-available-on-all-plans-credits-required|Available on:
   All plans]]'
+- '[[Changes/Recraft/2026-04-03-cost-13-21-credits-per-second|Cost: 13–21 credits
+  per second]]'
 - '[[Changes/Claude Code/2026-04-04-added-per-model-and-cache-hit-breakdown-to-cost-for-subscription-users|Added
   per-model and cache-hit breakdown to /cost for subscription users]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-04-06-v1-9600-38-86c634e8|windsurf-2026-04-06-v1-9600-38-86c634e8]]'
@@ -115,7 +115,7 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2026-04-04 · Claude Code · [[Changes/Claude Code/2026-04-04-added-per-model-and-cache-hit-breakdown-to-cost-for-subscription-users|Added per-model and cache-hit breakdown to /cost for subscription users]]
-- Later: 2026-04-08 · Gemini CLI · [[Changes/Gemini CLI/2026-04-08-docs-update-quotas-and-pricing-by-jkcinouye-in-https-github-com-google-gemini-ge|Docs: Update quotas and pricing]]
+- Later: 2026-04-08 · Devin · [[Changes/Devin/2026-04-08-numerous-smaller-fixes-and-polish-including-sidebar-collapse-state-persistence-s|Numerous smaller fixes and polish, including sidebar collapse state persistence…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 78c8d1a75c724ecdf49dbf48e04c70d21d0ca57ce9b786e9d6427f7068b1f9d1
+machine_hash: 86f53faaf48e1eea506909304165dc88860bc846d24467757c02953ff33f4bdd
 product: replit
 product_name: Replit
 record:
@@ -48,11 +48,11 @@ record:
   title: Visual Editor rollout
   type: change
 related_changes:
-- '[[Changes/Dify/2025-05-15-ci-add-diff-to-lint-ci-by-yihong0618-in-https-github-com-langgenius-dify-pull-17|ci:
-  add diff to lint ci]]'
 - '[[Changes/Windsurf/2025-05-15-swe-1-mini|SWE-1-mini]]'
 - '[[Changes/Open WebUI/2025-05-19-2-editor-experience-changes-in-v0-6-10|2 Editor
   Experience changes in v0.6.10]]'
+- '[[Changes/LM Studio/2025-05-23-2-editor-experience-changes-in-lm-studio-0-3-16|2
+  Editor Experience changes in LM Studio 0.3.16]]'
 source_release: '[[Releases/Replit/replit-2025-05-23-2025-05-23-071101e9|replit-2025-05-23-2025-05-23-071101e9]]'
 source_type: replit_changelog
 theme: editor-experience
@@ -86,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2025-05-19 · Open WebUI · [[Changes/Open WebUI/2025-05-19-2-editor-experience-changes-in-v0-6-10|2 Editor Experience changes in v0.6.10]]
+- Earlier: 2025-05-23 · LM Studio · [[Changes/LM Studio/2025-05-23-2-editor-experience-changes-in-lm-studio-0-3-16|2 Editor Experience changes in LM Studio 0.3.16]]
 - Later: 2025-05-28 · Descript · [[Changes/Descript/2025-05-28-starting-today-you-can-try-out-the-new-underlord-available-in-labs-it-s-no-longe|New in Labs—the new Underlord]]
 <!-- chronolog:end -->
 

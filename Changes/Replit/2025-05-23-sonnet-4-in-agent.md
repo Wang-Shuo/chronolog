@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 4c3fb4f32b2f30fd72f1d43bc1ae2a00f31989260d5b9c4d124b7afed5303f6e
+machine_hash: bb0bc7981262947f96a3884f436398cf14d28f5f915800f703f17169d7184f29
 product: replit
 product_name: Replit
 record:
@@ -53,9 +53,10 @@ record:
   title: Sonnet 4 in Agent
   type: change
 related_changes:
-- '[[Changes/Cline/2025-05-22-2-model-support-changes-in-v3-17-1|2 Model Support changes
-  in v3.17.1]]'
-- '[[Changes/Windsurf/2025-05-22-byok-anthropic-key|BYOK (Anthropic Key)]]'
+- '[[Changes/LM Studio/2025-05-23-7-model-support-changes-in-lm-studio-0-3-16|7 Model
+  Support changes in LM Studio 0.3.16]]'
+- '[[Changes/LM Studio/2025-05-23-custom-settings-for-models-a-new-way-for-model-authors-to-define-custom-capabili|Custom
+  Settings for models]]'
 - '[[Changes/Midjourney/2025-05-23-we-re-getting-ready-to-make-our-v7-model-the-default-model-but-a-lot-of-us-still|We''re
   getting ready to make our V7 model the ''default'' model but a lot of us still…]]'
 source_release: '[[Releases/Replit/replit-2025-05-23-2025-05-23-071101e9|replit-2025-05-23-2025-05-23-071101e9]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2e9300a179b5488a9153828a7f50a3d9004335021ba6333bcad9db2ae8453f7a
+machine_hash: c6e84a1383ab194786b786a193099d4ca73d688002b855c5fecebddb48f5db3d
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -58,12 +58,12 @@ record:
   title: 9 Model Support changes in rust-v0.164.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-10-22-3-model-support-changes-in-v1-0-103|3 Model
-  Support changes in v1.0.103]]'
-- '[[Changes/Lovable/2026-10-22-gemini-2-5-chat-models-are-retired-for-your-app-s-ai-features|Gemini
-  2.5 chat models are retired for your app''s AI features]]'
 - '[[Changes/OpenClaw/2026-10-22-4-model-support-changes-in-v2026-10-6|4 Model Support
   changes in v2026.10.6]]'
+- '[[Changes/Raycast/2026-10-22-ai-newly-installed-extension-provided-models-are-now-searchable-in-model-pickers|AI
+  : Newly installed Extension-provided models are now searchable in model pickers]]'
+- '[[Changes/Raycast/2026-10-22-ai-newly-installed-extension-provided-models-are-now-searchable-in-model-pickers-a5ceb9|AI
+  : Newly installed Extension-provided models are now searchable in model pickers]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-10-23-rust-v0-164-0-github-421457270-d867151d|codex-cli-2026-10-23-rust-v0-164-0-github-421457270-d867151d]]'
 source_type: github_releases
 theme: model-support
@@ -124,8 +124,8 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.164.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-10-22 · OpenClaw · [[Changes/OpenClaw/2026-10-22-4-model-support-changes-in-v2026-10-6|4 Model Support changes in v2026.10.6]]
-- Later: 2026-10-23 · Dify · [[Changes/Dify/2026-10-23-operations-archive-storage-supports-configurable-s3-addressing-style-the-api-ima|Operations: archive storage supports configurable S3 addressing style]]
+- Earlier: 2026-10-22 · Raycast · [[Changes/Raycast/2026-10-22-ai-newly-installed-extension-provided-models-are-now-searchable-in-model-pickers-a5ceb9|AI : Newly installed Extension-provided models are now searchable in model pickers]]
+- Later: 2026-10-23 · Devin · [[Changes/Devin/2026-10-23-llm-filter-in-the-v3-api-and-terraform-provider|LLM Filter in the v3 API and Terraform Provider]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

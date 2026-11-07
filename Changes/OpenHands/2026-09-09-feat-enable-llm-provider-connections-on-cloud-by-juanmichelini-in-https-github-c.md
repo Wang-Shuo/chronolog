@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 95c94295de408aacc430ec475d04ff777fed852cebe53bf6725cabc9e7319420
+machine_hash: d5133b504d15e8a9eb25af8e7bf69a7d188bc40e77bf5107a9923713603d200b
 product: openhands
 product_name: OpenHands
 record:
@@ -41,8 +41,8 @@ record:
   title: 'feat: enable LLM provider connections on cloud'
   type: change
 related_changes:
-- '[[Changes/Kimi Code/2026-09-09-2-model-support-changes-in-kimi-code-0-42-0|2 Model
-  Support changes in Kimi Code 0.42.0]]'
+- '[[Changes/LM Studio/2026-09-09-lm-studio-engine-protocol-added-advanced-llama-cpp-argument-overrides-for-gguf-m|LM
+  Studio Engine Protocol Added advanced llama.cpp argument overrides for GGUF…]]'
 - '[[Changes/OpenCode/2026-09-09-added-the-astra-system-prompt-for-gpt-6-models|Added
   the Astra system prompt for GPT-6 models]]'
 - '[[Changes/OpenCode/2026-09-09-2-model-support-changes-in-v1-18-30|2 Model Support

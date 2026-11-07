@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9bd24efadcabe9482ef5ace823d6a1bc663dbf2548e6586905469ca601dd3327
+machine_hash: bd79526c9890fa325cf3612d3be4ce014631c81829dfd292b7a406a7062851b4
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -48,10 +48,10 @@ record:
   title: 3 Interface Experience changes in v0.25.0
   type: change
 related_changes:
-- '[[Changes/HeyGen/2026-01-20-pronunciation-redesign-add-and-manage-glossaries-directly-in-the-panel-preview-p|Pronunciation
-  redesign: Add and manage glossaries directly in the panel]]'
 - '[[Changes/OpenCode/2026-01-20-3-interface-experience-changes-in-v1-1-28|3 Interface
   Experience changes in v1.1.28]]'
+- '[[Changes/Raycast/2026-01-20-general-added-missing-about-actions-menu-in-all-extensions|General
+  : Added missing about actions menu in all extensions]]'
 - '[[Changes/Codex CLI/2026-01-21-3-interface-experience-changes-in-rust-v0-88-0|3
   Interface Experience changes in rust-v0.88.0]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-01-21-v0-25-0-github-278507155-65088397|gemini-cli-2026-01-21-v0-25-0-github-278507155-65088397]]'

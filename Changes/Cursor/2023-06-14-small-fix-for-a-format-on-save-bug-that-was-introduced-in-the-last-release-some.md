@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 863d286686adf9be508d6e20b0806e9ab3e950614fd47ccb88a853db6d472476
+machine_hash: ffeb5e1f504f552edfd1e1edd41224cb8659b1467d7f10bb349b0cfc7da8bd31
 product: cursor
 product_name: Cursor
 record:
@@ -43,9 +43,10 @@ record:
   title: Small improvements
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-05-17-in-terminal-debugging-f140b2|In-terminal Debugging]]'
 - '[[Changes/Aider/2023-06-07-added-in-chat-command-clear-to-clear-the-conversation-history|Added
   in-chat command /clear to clear the conversation history]]'
+- '[[Changes/Raycast/2023-06-07-4-developer-workflow-changes-in-raycast-macos-v1-1-53-0|4
+  Developer Workflow changes in Raycast macos-v1 1.53.0]]'
 - '[[Changes/Dify/2023-06-09-delete-segment-not-commit-by-johnjyong-in-https-github-com-langgenius-dify-pull|delete
   segment not commit]]'
 source_release: '[[Releases/Cursor/cursor-2023-06-14-0-2-32-https-cursor-com-changelog-0-2-32-fcd78291|cursor-2023-06-14-0-2-32-https-cursor-com-changelog-0-2-32-fcd78291]]'

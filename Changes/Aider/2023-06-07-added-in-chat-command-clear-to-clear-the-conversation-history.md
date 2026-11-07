@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 719e8eb453f56424cf6d812b4674475ca08a778f31ad519050f6edb590a92982
+machine_hash: d950000a3d94bac7903995b470ad44effc137b7003309fc31eaee37b19d6d5ea
 product: aider
 product_name: Aider
 record:
@@ -43,11 +43,11 @@ record:
   title: Added in-chat command `/clear` to clear the conversation history
   type: change
 related_changes:
-- "[[Changes/Cursor/2023-04-29-working-remote-ssh-support-through-the-openremote-ssh-extension|\U0001F310
-  Working remote ssh support through the \"OpenRemote - SSH\" extension]]"
 - '[[Changes/Cursor/2023-05-17-remote-ssh-is-easier-to-use|Remote SSH is easier to
   use!]]'
 - '[[Changes/Cursor/2023-05-17-in-terminal-debugging-f140b2|In-terminal Debugging]]'
+- '[[Changes/Raycast/2023-05-24-theme-studio-added-markdown-example-with-a-code-block-in-the-preview|Theme
+  Studio: Added markdown example with a code block in the preview]]'
 source_release: '[[Releases/Aider/aider-2023-06-07-v0-5-0-github-107758471-29563196|aider-2023-06-07-v0-5-0-github-107758471-29563196]]'
 source_type: github_releases
 theme: developer-workflow
@@ -77,8 +77,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2023-05-17 · Cursor · [[Changes/Cursor/2023-05-17-in-terminal-debugging-f140b2|In-terminal Debugging]]
-- Later: 2023-06-09 · Dify · [[Changes/Dify/2023-06-09-delete-segment-not-commit-by-johnjyong-in-https-github-com-langgenius-dify-pull|delete segment not commit]]
+- Earlier: 2023-05-24 · Raycast · [[Changes/Raycast/2023-05-24-theme-studio-added-markdown-example-with-a-code-block-in-the-preview|Theme Studio: Added markdown example with a code block in the preview]]
+- Later: 2023-06-07 · Raycast · [[Changes/Raycast/2023-06-07-4-developer-workflow-changes-in-raycast-macos-v1-1-53-0|4 Developer Workflow changes in Raycast macos-v1 1.53.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

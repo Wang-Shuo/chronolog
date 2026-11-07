@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 24b0fc83860068e1424223e82d0fc90d3439336ba25290b79c342fc3021213e3
+machine_hash: 4f65a360629e5d64df80dc2148c38cbc9675a91a583d9129a5adf8c2748563f1
 product: replit
 product_name: Replit
 record:
@@ -48,8 +48,8 @@ record:
   title: App type selector fully launched
   type: change
 related_changes:
-- '[[Changes/Dify/2025-04-23-chore-speed-up-git-checkout-by-removing-fetch-depth-0-to-avoid-pulling-all-tags|chore:
-  speed up git checkout by removing fetch-depth 0 to avoid pulling all tags…]]'
+- '[[Changes/LM Studio/2025-04-24-dramatically-faster-first-time-model-load-times-on-rtx-50-series-gpus|Dramatically
+  faster first-time model load times on RTX 50-series GPUs]]'
 - '[[Changes/Windsurf/2025-04-27-performance-improvements|Performance Improvements]]'
 - '[[Changes/Suno/2025-05-01-faster-creation-speed-is-substantially-improved-for-your-creative-process|Faster
   creation — Speed is substantially improved for your creative process]]'

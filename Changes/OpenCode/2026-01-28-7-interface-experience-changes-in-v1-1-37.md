@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a0d54d9f374afd8aca49e63cdb841983aa7cb22d7c36b99a6d3b4fdf080a926a
+machine_hash: 36f6bbdb83ab9df9799ae702d488016a8d403c8af1c4f00bee32a09b696b69a9
 product: opencode
 product_name: OpenCode
 record:
@@ -52,10 +52,10 @@ record:
   title: 7 Interface Experience changes in v1.1.37
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-28-improved-read-search-progress-indicators-to-show-reading-while-in-progress-and-r|Improved
-  read/search progress indicators to show "Reading…" while in progress…]]'
 - '[[Changes/Gemini CLI/2026-01-28-remove-missing-sidebar-item-by-chrstnb-in-https-github-com-google-gemini-gemini|Remove
   missing sidebar item]]'
+- '[[Changes/LM Studio/2026-01-28-7-interface-experience-changes-in-lm-studio-0-4-0|7
+  Interface Experience changes in LM Studio 0.4.0]]'
 - '[[Changes/OpenCode/2026-01-28-desktop-enable-ctrl-n-and-ctrl-p-for-popover-navigation-in-desktop-app|Desktop
   Enable ctrl+n and ctrl+p for popover navigation in desktop app]]'
 source_release: '[[Releases/OpenCode/opencode-2026-01-28-v1-1-37-997d5baa|opencode-2026-01-28-v1-1-37-997d5baa]]'

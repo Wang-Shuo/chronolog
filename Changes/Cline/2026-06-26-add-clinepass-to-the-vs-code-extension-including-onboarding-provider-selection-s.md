@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: pricing
-machine_hash: 025fe1a75486978e878bdc9f5eb87c68716fbcf80b763788ee0f0301bb05b07c
+machine_hash: 61536b5369e2a9352bb1ee1cebfaff1e14c857edbceb67ff0057d8d9860f72ff
 product: cline
 product_name: Cline
 record:
@@ -58,8 +58,7 @@ record:
   title: Add ClinePass to the VS Code extension, including onboarding, provider selection…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-23-display-cache-write-pricing-for-models-that-omit-it|Display
-  cache-write pricing for models that omit it]]'
+- '[[Changes/Devin/2026-06-24-acu-billing-schedule-warning|ACU Billing Schedule Warning]]'
 - '[[Changes/Dify/2026-06-25-6-pricing-model-changes-in-1-15-0|6 Pricing Model changes
   in 1.15.0]]'
 - '[[Changes/Lovable/2026-06-25-let-lovable-debug-and-improve-your-app-s-ai-features|Let

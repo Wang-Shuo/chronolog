@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: policy
-machine_hash: b59c1d0ccbda6f327b58ee060fc14808cefb3114870bbed5215a94484cb0e47b
+machine_hash: df813964801744d5cc9db4a93ae586c67433d20774040d2f629f799d9112530d
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -82,7 +82,7 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2026-04-16 · Descript · [[Changes/Descript/2026-04-16-click-here-https-web-descript-com-view-settings-account-active-api-to-get-your-a|Click here((source link) to get…]]
-- Later: 2026-04-17 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-17-3-context-window-changes-in-v1-0-32|3 Context Window changes in v1.0.32]]
+- Later: 2026-04-17 · Devin · [[Changes/Devin/2026-04-17-this-release-also-includes-a-range-of-smaller-fixes-and-polish-sessions-now-indi|This release also includes a range of smaller fixes and polish]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

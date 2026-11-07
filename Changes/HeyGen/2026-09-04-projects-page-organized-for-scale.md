@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 0ddb7b86b6a7bc544b2d613967215fb3c23542c3a6f4d255fb96f4a75d5c2002
+machine_hash: 68b4733e3ac8b5d478a0d22b6a085c446e0d42dd8285d36b7518791e41acf265
 product: heygen
 product_name: HeyGen
 record:
@@ -49,10 +49,10 @@ record:
   title: Projects page, organized for scale
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-09-01-lovable-in-slack-is-now-available-on-enterprise|Lovable
-  in Slack is now available on Enterprise]]'
-- '[[Changes/Lovable/2026-09-03-see-how-your-workspace-adopts-lovable|See how your
-  workspace adopts Lovable]]'
+- '[[Changes/Devin/2026-09-04-security-profiles-can-allow-orgs-custom-mcp-installations|Security
+  Profiles Can Allow Orgs'' Custom MCP Installations]]'
+- '[[Changes/Devin/2026-09-04-partial-snapshot-builds-on-clone-failures|Partial Snapshot
+  Builds on Clone Failures]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-04-enterprise-admins-can-pin-sign-in-to-approved-github-organizations-with-the-forc|Enterprise
   admins can pin sign-in to approved GitHub organizations…]]'
 source_release: '[[Releases/HeyGen/heygen-2026-09-04-https-heygen-noticeable-news-publications-september-2026-enterpr-39d060a6|heygen-2026-09-04-https-heygen-noticeable-news-publications-september-2026-enterpr-39d060a6]]'

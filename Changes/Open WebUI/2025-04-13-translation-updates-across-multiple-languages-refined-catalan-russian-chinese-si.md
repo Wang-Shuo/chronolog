@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: dc8f621d2c50222887d0d1d409688fe00f51ef75c205036e60103f3bda8ccb08
+machine_hash: c21993287d6401cba245f316b04e3e98d8a3a7886376c66fe8c59134b074ca65
 product: open-webui
 product_name: Open WebUI
 record:
@@ -45,9 +45,9 @@ record:
   title: "\U0001F30D **Translation Updates Across Multiple Languages**"
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2025-04-01-3-interface-experience-changes-in-v0-6-0|3 Interface
-  Experience changes in v0.6.0]]'
 - '[[Changes/Aider/2025-04-04-https-aider-chat-history-html|(source link)]]'
+- '[[Changes/Superwhisper/2025-04-04-full-screen-support-stability-improvements|Full-screen
+  Support & Stability Improvements]]'
 - '[[Changes/Cline/2025-04-09-add-cmd-keyboard-shortcut-to-add-selected-text-to-cline|Add
   CMD+'' keyboard shortcut to add selected text to Cline]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-04-13-v0-6-3-github-212047861-826c6203|open-webui-2025-04-13-v0-6-3-github-212047861-826c6203]]'

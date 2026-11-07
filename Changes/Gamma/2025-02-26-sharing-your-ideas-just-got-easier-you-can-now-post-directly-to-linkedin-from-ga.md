@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7eacf7d7fd17e3b70e3c9b3c3aeb965cfb291aa5a87b26da1221e7505776d3c4
+machine_hash: 5a886c76a23b4cab75a55f6c1e425a6b1ba071aba21696e38897b2467c282c40
 product: gamma
 product_name: Gamma
 record:
@@ -56,9 +56,10 @@ record:
   title: "Post directly to LinkedIn \U0001F680"
   type: change
 related_changes:
-- '[[Changes/Descript/2025-02-11-scene-toolbar|Scene toolbar]]'
 - "[[Changes/Open WebUI/2025-02-13-jupyter-notebook-support-in-code-interpreter-now-you-can-configure-code-interpre|\U0001F40D
   Jupyter Notebook Support in Code Interpreter]]"
+- '[[Changes/AnythingLLM/2025-02-18-2-files-and-data-changes-in-v1-7-4|2 Files and
+  Data changes in v1.7.4]]'
 - '[[Changes/Descript/2025-02-25-canvas-becomes-scene-editor|Canvas becomes Scene
   Editor]]'
 source_release: '[[Releases/Gamma/gamma-2025-02-26-67b7ad7b8ae64eb7517299cc-0bb3e4de|gamma-2025-02-26-67b7ad7b8ae64eb7517299cc-0bb3e4de]]'

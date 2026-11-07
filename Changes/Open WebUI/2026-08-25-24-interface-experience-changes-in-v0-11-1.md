@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ece054ee437dec34affca22990a3a3d140fe45036ec28dc3a74bbc87afb50edf
+machine_hash: bdaa1dc9228a77cbc34e4e8dab03b8710f65559ea3f78bb705e6f06cec6812c5
 product: open-webui
 product_name: Open WebUI
 record:
@@ -284,7 +284,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.11.1
 ## Nearby in Interface Experience
 
 - Earlier: 2026-08-25 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-08-25-simplified-design-for-the-microsoft-365-copilot-app-windows-mac-web-microsoft-36|Simplified design for the Microsoft 365 Copilot app Windows, Mac…]]
-- Later: 2026-08-26 · Claude Code · [[Changes/Claude Code/2026-08-26-changed-the-prompt-footer-pr-badge-to-skip-its-github-re-check-on-terminal-refoc|Changed the prompt-footer PR badge to skip its GitHub re-check on terminal refocus…]]
+- Later: 2026-08-25 · Raycast · [[Changes/Raycast/2026-08-25-window-management-center-hotkey-now-truly-centers-a-window-when-respect-stage-ma|Window Management : Center hotkey now truly centers a window…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

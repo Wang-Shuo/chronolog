@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 41a591bd980dab28b4a97df6aa8324a20769dc508eadc1d2a6c912c21da9b401
+machine_hash: 54d68113263e00605603d85c54a4cad66284ff55b4707df400056a8b4271d41a
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -51,8 +51,8 @@ record:
   title: 'web: Revamp the right sidebar as a multi-tab panel'
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-08-26-resources-removed-from-the-dashboard-sidebar|Resources
-  removed from the dashboard sidebar]]'
+- '[[Changes/AnythingLLM/2026-08-27-2-interface-experience-changes-in-v1-16-1|2 Interface
+  Experience changes in v1.16.1]]'
 - '[[Changes/Claude Code/2026-08-27-2-interface-experience-changes-in-v2-1-248|2 Interface
   Experience changes in v2.1.248]]'
 - '[[Changes/GitHub Copilot CLI/2026-08-27-3-interface-experience-changes-in-v1-0-81|3

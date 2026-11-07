@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: b1fbcc6e74e5633f13781760200efafc132c8eed3d6e65d60cbf1b6df9c86f2a
+machine_hash: a15f563fbfec7b3c831849df840c1fafae1d40fccb6d74d815a2664db2f891fa
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -46,7 +46,8 @@ record:
   title: Webhook Tools
   type: change
 related_changes:
-- '[[Changes/Lovable/2025-11-26-temporary-education-logins|Temporary education logins]]'
+- '[[Changes/Raycast/2025-11-27-authentication-removed-the-required-login-step-before-getting-started|Authentication
+  : Removed the required login step before getting started]]'
 - '[[Changes/Codex CLI/2025-12-02-feat-support-login-as-an-option-on-shell-tool-mcp-by-bolinfest-in-7120|feat:
   support login as an option on shell-tool-mcp by @bolinfest in ♯7120]]'
 - '[[Changes/Open WebUI/2025-12-02-7-account-and-access-changes-in-v0-6-41|7 Account

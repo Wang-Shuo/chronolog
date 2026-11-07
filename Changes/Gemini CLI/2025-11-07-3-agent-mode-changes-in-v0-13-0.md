@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0356120789e06d9df7c9a805485c94c866605d971589f1442c2cb3bb871305dc
+machine_hash: 8c43eaae9f674e4ba3d201d24ef609e972271dfdcfae44576e4e36dff6da704a
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -46,10 +46,10 @@ record:
   title: 3 Agent Mode changes in v0.13.0
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2025-11-05-agents-platform-acf28a|Agents Platform]]'
-- '[[Changes/ElevenLabs/2025-11-05-agents-packages|Agents Packages]]'
-- '[[Changes/Lovable/2025-11-05-show-the-agent-what-you-mean|Show the agent what you
-  mean]]'
+- '[[Changes/Devin/2025-11-07-new-devin-agent|New Devin Agent]]'
+- '[[Changes/Devin/2025-11-07-repository-setup-steering-knowledge|Repository Setup
+  Steering Knowledge]]'
+- '[[Changes/Devin/2025-11-07-agentic-knowledge-management|Agentic Knowledge Management]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-11-07-v0-13-0-github-260462305-15cfa0b7|gemini-cli-2025-11-07-v0-13-0-github-260462305-15cfa0b7]]'
 source_type: github_releases
 theme: agent-mode
@@ -97,7 +97,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.13.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2025-11-05 · Lovable · [[Changes/Lovable/2025-11-05-show-the-agent-what-you-mean|Show the agent what you mean]]
+- Earlier: 2025-11-07 · Devin · [[Changes/Devin/2025-11-07-agentic-knowledge-management|Agentic Knowledge Management]]
 - Later: 2025-11-07 · Replit · [[Changes/Replit/2025-11-07-animated-agent-icon|Animated agent icon]]
 <!-- chronolog:end -->
 

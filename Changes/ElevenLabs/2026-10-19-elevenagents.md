@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: ee06d229ea8e82871dce6397fc279ba1ba47af2f79e128fe9828b4b6a3d5d089
+machine_hash: 3726266823e3666ae84c34f16c84d498b87d994b565ea1a32d67fcc64ce5ce66
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -79,8 +79,8 @@ record:
   title: ElevenAgents
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-10-16-discord-voice-changes-you-can-change-voices-and-continue-asking-for-agent-checks|Discord
-  voice changes]]'
+- '[[Changes/Raycast/2026-10-16-dictation-settings-are-now-organised-better-making-it-easier-to-find-exactly-wha|Dictation:
+  Settings are now organised better, making it easier to find exactly what…]]'
 - '[[Changes/ElevenLabs/2026-10-19-speech-to-text|Speech to Text]]'
 - '[[Changes/ElevenLabs/2026-10-19-eleven-realtime|Eleven Realtime]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-10-19-2026-10-19-dd219c14|elevenlabs-2026-10-19-2026-10-19-dd219c14]]'
@@ -129,7 +129,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-10-16 · OpenClaw · [[Changes/OpenClaw/2026-10-16-discord-voice-changes-you-can-change-voices-and-continue-asking-for-agent-checks|Discord voice changes]]
+- Earlier: 2026-10-16 · Raycast · [[Changes/Raycast/2026-10-16-dictation-settings-are-now-organised-better-making-it-easier-to-find-exactly-wha|Dictation: Settings are now organised better, making it easier to find exactly what…]]
 - Later: 2026-10-19 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-19-voice-dictation-no-longer-inserts-language-markers-like-en-us-into-transcript-te|Voice dictation no longer inserts language markers like en-US into transcript text]]
 <!-- chronolog:end -->
 

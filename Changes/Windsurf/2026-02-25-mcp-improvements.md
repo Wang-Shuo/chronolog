@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: d05483f69874c59e2300fe3971508f525c6ad649b6e51c96c02d1adadef70c53
+machine_hash: cce8a17eb0b1e1809048addd305265c5f92d2157a16cd4ca414564f47ffae21e
 product: windsurf
 product_name: Windsurf
 record:
@@ -79,7 +79,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-02-25 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-25-3-apps-and-integrations-changes-in-v0-0-417|3 Apps and Integrations changes in v0.0.417]]
-- Later: 2026-02-27 · Gemini CLI · [[Changes/Gemini CLI/2026-02-27-10-apps-and-integrations-changes-in-v0-31-0|10 Apps and Integrations changes in v0.31.0]]
+- Later: 2026-02-26 · Raycast · [[Changes/Raycast/2026-02-26-2-apps-and-integrations-changes-in-raycast-windows-0-47|2 Apps and Integrations changes in Raycast windows 0.47]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

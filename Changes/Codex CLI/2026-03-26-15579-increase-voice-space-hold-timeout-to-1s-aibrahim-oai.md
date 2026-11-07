@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 23c5ecab74021560f525dc71c914951d4c8d6adcf63d0e70843bf9a106fbda19
+machine_hash: fd1ae542d21e1aa54f708374e425d105192c7fc820396540d2c25b3b4bafb53a
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -41,9 +41,9 @@ record:
   title: '#15579 Increase voice space hold timeout to 1s @aibrahim-oai'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-19-2-voice-and-audio-changes-in-rust-v0-116-0|2 Voice
-  and Audio changes in rust-v0.116.0]]'
 - '[[Changes/ElevenLabs/2026-03-23-speech-to-text|Speech to Text]]'
+- '[[Changes/Raycast/2026-03-23-quick-look-gives-you-a-fast-inline-preview-of-images-pdfs-videos-audio-text-file|Quick
+  Look gives you a fast, inline preview of images, PDFs, videos, audio, text…]]'
 - '[[Changes/Claude Code/2026-03-26-slash-commands-unavailable-for-the-current-auth-setup-voice-mobile-chrome-upgrad|Slash
   commands unavailable for the current auth setup…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-03-26-rust-v0-117-0-github-302123790-7cb322b6|codex-cli-2026-03-26-rust-v0-117-0-github-302123790-7cb322b6]]'

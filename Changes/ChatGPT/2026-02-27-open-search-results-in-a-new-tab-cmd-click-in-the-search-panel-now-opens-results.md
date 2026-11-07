@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: e2d8640a64655bd05cd108442afc734fb14ce122985d4979972ba693435c77b5
+machine_hash: ee24926fbc7e4957516cb4bc1adc77e9a0eb70ce93e04c24d83c44f69b710ef1
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -58,12 +58,12 @@ record:
   title: Open search results in a new tab
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-02-24-ollama-s-app-will-now-allow-models-that-support-tools-to-use-web-search-capabili|Ollama''s
-  app will now allow models that support tools to use web search capabilities]]'
 - '[[Changes/Gemini CLI/2026-02-25-introduce-limits-for-search-results-by-gundermanc-in-https-github-com-google-gem|Introduce
   limits for search results]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-25-add-research-command-for-deep-research-with-exportable-reports|Add
   /research command for deep research with exportable reports]]'
+- '[[Changes/Raycast/2026-02-26-applications-open-recent-files-directly-from-application-search-results|Applications
+  : Open recent files directly from application search results]]'
 scope: Web
 source_release: '[[Releases/ChatGPT/chatgpt-2026-02-27-chatgpt-web-and-android-updates-edit-image-prompts-share-faster-abef696c|chatgpt-2026-02-27-chatgpt-web-and-android-updates-edit-image-prompts-share-faster-abef696c]]'
 source_type: chatgpt_changelog
@@ -99,7 +99,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Search and Browsing
 
-- Earlier: 2026-02-25 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-25-add-research-command-for-deep-research-with-exportable-reports|Add /research command for deep research with exportable reports]]
+- Earlier: 2026-02-26 · Raycast · [[Changes/Raycast/2026-02-26-applications-open-recent-files-directly-from-application-search-results|Applications : Open recent files directly from application search results]]
 - Later: 2026-03-01 · Open WebUI · [[Changes/Open WebUI/2026-03-01-2-search-and-browsing-changes-in-v0-8-6|2 Search and Browsing changes in v0.8.6]]
 <!-- chronolog:end -->
 

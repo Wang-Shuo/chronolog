@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 582a7f2bb23dc56c4daa50e5619466ad82ce33d7a64fcdef954857ba12ca8626
+machine_hash: 70505b111aa19deb511e8a205030b8a7ee9d1c07bc5382dfe78caaa0ede9e896
 product: ollama
 product_name: Ollama
 record:
@@ -46,10 +46,10 @@ record:
   title: 2 Model Support changes in v0.1.14
   type: change
 related_changes:
-- '[[Changes/Ollama/2023-11-26-yi-chat-https-ollama-ai-library-yi-the-chat-variant-of-the-popular-yi-34b-model|Yi
-  Chat((source link) the chat variant of the popular Yi 34b…]]'
 - '[[Changes/Ollama/2023-11-30-3-model-support-changes-in-v0-1-13|3 Model Support
   changes in v0.1.13]]'
+- '[[Changes/Superwhisper/2023-12-04-3-model-support-changes-in-superwhisper-macos-1-18-3|3
+  Model Support changes in Superwhisper macOS 1.18.3]]'
 - '[[Changes/Gemini/2023-12-06-bard-is-getting-its-biggest-upgrade-yet-with-gemini-pro|Bard
   is getting its biggest upgrade yet with Gemini Pro]]'
 source_release: '[[Releases/Ollama/ollama-2023-12-08-v0-1-14-github-133111252-707be4af|ollama-2023-12-08-v0-1-14-github-133111252-707be4af]]'
@@ -86,7 +86,7 @@ Source: https://github.com/ollama/ollama/releases/tag/v0.1.14
 ## Nearby in Model Support
 
 - Earlier: 2023-12-06 · Gemini · [[Changes/Gemini/2023-12-06-bard-is-getting-its-biggest-upgrade-yet-with-gemini-pro|Bard is getting its biggest upgrade yet with Gemini Pro]]
-- Later: 2023-12-12 · Ollama · [[Changes/Ollama/2023-12-12-2-model-support-changes-in-v0-1-15|2 Model Support changes in v0.1.15]]
+- Later: 2023-12-10 · Superwhisper · [[Changes/Superwhisper/2023-12-10-4-model-support-changes-in-superwhisper-macos-1-19-0|4 Model Support changes in Superwhisper macOS 1.19.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

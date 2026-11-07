@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8185e0852bf82e812546dff144948fce62630c660902fe717652bbb8c66d5986
+machine_hash: 9e820e9328d4755772defa26ad05c3fa80f798897c82e4a2fb28af9ff223327b
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -57,8 +57,9 @@ record:
   title: 8 Apps and Integrations changes in v0.20.0
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2025-12-08-javascript-sdk|JavaScript SDK]]'
 - '[[Changes/ElevenLabs/2025-12-08-python-sdk|Python SDK]]'
+- '[[Changes/AnythingLLM/2025-12-09-2-apps-and-integrations-changes-in-v1-9-1|2 Apps
+  and Integrations changes in v1.9.1]]'
 - '[[Changes/Codex CLI/2025-12-09-3-apps-and-integrations-changes-in-rust-v0-66-0|3
   Apps and Integrations changes in rust-v0.66.0]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-12-09-v0-20-0-github-268880631-841db492|gemini-cli-2025-12-09-v0-20-0-github-268880631-841db492]]'

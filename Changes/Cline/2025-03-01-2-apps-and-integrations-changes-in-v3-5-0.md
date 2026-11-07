@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9b4bb3ceb81fbbb1780b4336ab7ab25c921ab734a13433648659d098f5ef21e5
+machine_hash: ace59982b131afb548dd48d69f7fb766bff2189838e87d04908686683dfe9779
 product: cline
 product_name: Cline
 record:
@@ -44,7 +44,7 @@ record:
   title: 2 Apps and Integrations changes in v3.5.0
   type: change
 related_changes:
-- "[[Changes/Replit/2025-02-21-replit-grok|Replit \U0001F91D Grok]]"
+- '[[Changes/Raycast/2025-02-26-introducing-ai-extensions|Introducing: AI Extensions]]'
 - '[[Changes/Open WebUI/2025-02-27-2-apps-and-integrations-changes-in-v0-5-17|2 Apps
   and Integrations changes in v0.5.17]]'
 - '[[Changes/Dify/2025-02-28-9-apps-and-integrations-changes-in-1-0-0|9 Apps and Integrations

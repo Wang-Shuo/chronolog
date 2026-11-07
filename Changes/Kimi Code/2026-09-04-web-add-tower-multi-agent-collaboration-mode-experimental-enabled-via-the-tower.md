@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 7ffe078a3caaffa13242131197c209338df5e52a58c048a04f55cf633cdd3600
+machine_hash: 031f2c0cfb399531f6bdb471c321fb2a71dc9e235761adc7cbb27764ad51535b
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -59,8 +59,7 @@ record:
   title: 'web: Add tower multi-agent collaboration mode (experimental), enabled…'
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-09-03-7-collaboration-changes-in-v2026-9-1|7 Collaboration
-  changes in v2026.9.1]]'
+- '[[Changes/Devin/2026-09-04-microsoft-teams-improvements|Microsoft Teams Improvements]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-04-exporting-a-resumed-session-with-share-or-share-gist-writes-the-whole-transcript|Exporting
   a resumed session with --share or --share-gist writes the whole transcript…]]'
 - '[[Changes/HeyGen/2026-09-04-brandkit-and-brand-governance|BrandKit and Brand Governance]]'

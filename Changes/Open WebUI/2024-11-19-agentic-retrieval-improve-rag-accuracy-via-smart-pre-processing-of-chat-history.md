@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6be101aff32bfca548110fb29387f7cda960cd3442f4073abccb594396883d9f
+machine_hash: cebb9beb9a7ec362d57ec305cf0e6feda7fb40e2d46aca8cd8356dd6b7e4f0c3
 product: open-webui
 product_name: Open WebUI
 record:
@@ -44,10 +44,10 @@ record:
   title: "**\U0001F5C2️ Agentic Retrieval**"
   type: change
 related_changes:
-- '[[Changes/Dify/2024-10-14-external-knowledge-and-retrievals-addressing-issues-in-agent-retrieval-and-entry|External
-  Knowledge and Retrievals: Addressing issues in agent retrieval…]]'
 - '[[Changes/OpenHands/2024-10-22-improvements-to-agent-editing-using-llm-by-xingyaoww-in-https-github-com-all-han|Improvements
   to Agent Editing using LLM]]'
+- '[[Changes/AnythingLLM/2024-10-25-3-agent-mode-changes-in-v1-2-4|3 Agent Mode changes
+  in v1.2.4]]'
 - '[[Changes/OpenHands/2024-11-08-2-agent-mode-changes-in-0-13-0|2 Agent Mode changes
   in 0.13.0]]'
 source_release: '[[Releases/Open WebUI/open-webui-2024-11-19-v0-4-0-github-186297307-d3ef790f|open-webui-2024-11-19-v0-4-0-github-186297307-d3ef790f]]'

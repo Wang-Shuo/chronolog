@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9cd1cb227ba21ea99a85d2164b0c129d4d7fafc066592e62a372c4ed31e816fb
+machine_hash: 17ecf4d34a3c463e8326883eecbc15066eccee78c764b8a2b093ae3464ccbf13
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -47,9 +47,10 @@ record:
   title: 4 Apps and Integrations changes in rust-v0.30.0
   type: change
 related_changes:
-- '[[Changes/Lovable/2025-09-01-smarter-seo-for-new-apps|Smarter SEO for new apps]]'
 - '[[Changes/Dify/2025-09-03-4-apps-and-integrations-changes-in-1-8-1|4 Apps and Integrations
   changes in 1.8.1]]'
+- '[[Changes/Raycast/2025-09-03-2-apps-and-integrations-changes-in-raycast-windows-0-30|2
+  Apps and Integrations changes in Raycast windows 0.30]]'
 - '[[Changes/Gemini CLI/2025-09-04-17-apps-and-integrations-changes-in-v0-3-0|17 Apps
   and Integrations changes in v0.3.0]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-09-05-rust-v0-30-0-github-245199079-dedb4e90|codex-cli-2025-09-05-rust-v0-30-0-github-245199079-dedb4e90]]'
@@ -97,7 +98,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.30.0
 ## Nearby in Apps and Integrations
 
 - Earlier: 2025-09-04 · Gemini CLI · [[Changes/Gemini CLI/2025-09-04-17-apps-and-integrations-changes-in-v0-3-0|17 Apps and Integrations changes in v0.3.0]]
-- Later: 2025-09-05 · Replit · [[Changes/Replit/2025-09-05-gcp-marketplace-integration|GCP Marketplace integration]]
+- Later: 2025-09-05 · Devin · [[Changes/Devin/2025-09-05-enhanced-mcp-configuration|Enhanced MCP Configuration]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

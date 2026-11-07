@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 48017bc7ffed0a5e78b3a360694205a43d4f49f31d3544faba9cd0c668430ac1
+machine_hash: 9e9cf9cac9c128110d41b722853f210eebd660d0fae65a33cf52585af759823d
 product: windsurf
 product_name: Windsurf
 record:
@@ -53,8 +53,8 @@ record:
   title: Cascade UX Improvements
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2025-05-05-2-model-support-changes-in-v0-6-6|2 Model Support
-  changes in v0.6.6]]'
+- '[[Changes/AnythingLLM/2025-05-06-2-model-support-changes-in-v1-8-1|2 Model Support
+  changes in v1.8.1]]'
 - '[[Changes/Gemini/2025-05-06-2-5-pro-experimental-got-a-major-upgrade-for-coding|2.5
   Pro (experimental) got a major upgrade for coding]]'
 - "[[Changes/Open WebUI/2025-05-06-automatic1111-image-model-setting-applied-properly-fixed-an-issue-where-switchin|\U0001F3A8

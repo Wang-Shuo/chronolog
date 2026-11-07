@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e2dd387a4c4622daeba863eeb62c45c6238d4f4ae31da1aebb021d8cf20014ec
+machine_hash: dea12fcd01c917483fd6218db67fb17975a96839c7e222c39a050021c9921bcc
 product: opencode
 product_name: OpenCode
 record:
@@ -89,12 +89,11 @@ record:
   title: 24 Mobile and Desktop changes in v1.2.11
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-02-19-2-mobile-and-desktop-changes-in-v1-2-8|2 Mobile and
-  Desktop changes in v1.2.8]]'
 - '[[Changes/OpenCode/2026-02-20-2-mobile-and-desktop-changes-in-v1-2-10-1|2 Mobile
   and Desktop changes in v1.2.10 + 1]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-23-skill-files-saved-with-a-utf-8-bom-common-on-windows-editors-now-load-correctly|Skill
   files saved with a UTF-8 BOM (common on Windows editors) now load correctly…]]'
+- '[[Changes/Devin/2026-02-24-full-desktop-testing|Full Desktop Testing]]'
 source_release: '[[Releases/OpenCode/opencode-2026-02-24-v1-2-11-50dfe84c|opencode-2026-02-24-v1-2-11-50dfe84c]]'
 source_type: opencode_changelog
 theme: mobile-desktop
@@ -178,7 +177,7 @@ Source: https://opencode.ai/changelog/v1.2.11
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-02-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-23-skill-files-saved-with-a-utf-8-bom-common-on-windows-editors-now-load-correctly|Skill files saved with a UTF-8 BOM (common on Windows editors) now load correctly…]]
+- Earlier: 2026-02-24 · Devin · [[Changes/Devin/2026-02-24-full-desktop-testing|Full Desktop Testing]]
 - Later: 2026-02-25 · Codex CLI · [[Changes/Codex CLI/2026-02-25-2-mobile-and-desktop-changes-in-rust-v0-105-0|2 Mobile and Desktop changes in rust-v0.105.0]]
 <!-- chronolog:end -->
 

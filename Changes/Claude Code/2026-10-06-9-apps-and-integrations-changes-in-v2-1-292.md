@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c26af3fa36851070d028acf8d49ec785c143484e652c6f7ecb3ceb742f94e86b
+machine_hash: 8ac6c3b83432f1235036f1e9f7be8c91d18ffc005bb172ec2c82014027b5047f
 product: claude-code
 product_name: Claude Code
 record:
@@ -72,11 +72,12 @@ record:
   title: 9 Apps and Integrations changes in v2.1.292
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-10-05-sdk-releases|SDK releases]]'
-- '[[Changes/GitHub Copilot CLI/2026-10-05-5-apps-and-integrations-changes-in-v1-0-92|5
-  Apps and Integrations changes in v1.0.92]]'
 - '[[Changes/Lovable/2026-10-05-app-chat-connectors-beehiiv-and-ramp|App + chat connectors:
   beehiiv and Ramp]]'
+- '[[Changes/Raycast/2026-10-05-extensions-clarified-how-uninstalling-an-extension-affects-its-settings-and-data|Extensions
+  : Clarified how uninstalling an extension affects its settings and data…]]'
+- '[[Changes/Raycast/2026-10-05-extensions-clarified-how-uninstalling-an-extension-affects-its-settings-and-data-af387a|Extensions
+  : Clarified how uninstalling an extension affects its settings and data…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-06-v2-1-292-github-404958910-b2fd21ab|claude-code-2026-10-06-v2-1-292-github-404958910-b2fd21ab]]'
 source_type: github_releases
 theme: apps-integrations
@@ -131,7 +132,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.292
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-10-05 · Lovable · [[Changes/Lovable/2026-10-05-app-chat-connectors-beehiiv-and-ramp|App + chat connectors: beehiiv and Ramp]]
+- Earlier: 2026-10-05 · Raycast · [[Changes/Raycast/2026-10-05-extensions-clarified-how-uninstalling-an-extension-affects-its-settings-and-data-af387a|Extensions : Clarified how uninstalling an extension affects its settings and data…]]
 - Later: 2026-10-06 · Lovable · [[Changes/Lovable/2026-10-06-chat-connectors-excalidraw|Chat connectors: Excalidraw+]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 45d507720424d37012039a5cd48dd3c9be60a0f4dde04b616d4fc2366ed45fa7
+machine_hash: b03ca60c80aab934033d60dbbf36548ea057fdbf284a0e32977626d0f686bf2f
 product: aider
 product_name: Aider
 record:
@@ -44,10 +44,10 @@ record:
   title: 3 Reliability and Performance changes in v0.42.0
   type: change
 related_changes:
-- '[[Changes/Notion/2024-06-18-plus-a-few-more-of-your-top-requests|Plus a few more
-  of your top requests.]]'
 - '[[Changes/Ollama/2024-06-22-3-reliability-and-performance-changes-in-v0-1-46|3
   Reliability and Performance changes in v0.1.46]]'
+- '[[Changes/Devin/2024-06-30-home-screen-upgrades-shortcuts|Home Screen Upgrades
+  & Shortcuts]]'
 - '[[Changes/Ollama/2024-07-02-5-reliability-and-performance-changes-in-v0-2-0|5 Reliability
   and Performance changes in v0.2.0]]'
 source_release: '[[Releases/Aider/aider-2024-07-04-v0-42-0-github-164022924-7cbc4811|aider-2024-07-04-v0-42-0-github-164022924-7cbc4811]]'

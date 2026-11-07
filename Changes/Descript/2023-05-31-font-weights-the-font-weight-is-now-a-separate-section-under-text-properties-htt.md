@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 09a4e9489d9356fd0669b20677f7940576077565d97359266f7cc27382a131f1
+machine_hash: a78615f896fe0a2293848f4302bbd52ba1b1cb59158b28ad33b9397b331e9d5c
 product: descript
 product_name: Descript
 record:
@@ -46,10 +46,9 @@ record:
   title: '**Font weights**: The font weight is now a separate section under [Text…'
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-05-17-a-better-cursor-tutor-onboarding|A better Cursor Tutor
-  onboarding!]]'
-- '[[Changes/Cursor/2023-05-20-we-ve-added-a-new-feedback-button-at-the-top-right-of-the-app-we-really-do|Cursor
-  adds a new feedback button at the top right of the app]]'
+- '[[Changes/Raycast/2023-05-24-emoji-the-inline-emoji-picker-now-uses-the-same-alias-names-as-slack-and-github|Emoji:
+  The inline emoji picker now uses the same alias names as Slack and Github…]]'
+- '[[Changes/Raycast/2023-05-24-new-emojis|New Emojis]]'
 - '[[Changes/Dify/2023-05-30-chore-input-area-highlight-and-moblie-hide-tooltip-by-iamjoel-in-https-github-co|chore:
   input area highlight and moblie hide tooltip]]'
 source_release: '[[Releases/Descript/descript-2023-05-31-647676233b52ad094d8a2d93-3440a3c3|descript-2023-05-31-647676233b52ad094d8a2d93-3440a3c3]]'

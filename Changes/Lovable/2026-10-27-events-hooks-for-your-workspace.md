@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 439bf380a8d8d2b1298c0a839f7e5f3451bbd8d7b7eef71d750a18e4f6d42f04
+machine_hash: fbc83d92bce874e8e263b88633a2130e865bbcd6be494fa270ee4a8c8f2ac0c5
 product: lovable
 product_name: Lovable
 record:
@@ -52,8 +52,8 @@ record:
   title: Events & hooks for your workspace
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-23-cloud-sessions-added-claude-code-cloud-sessions-and-remote-control-permissions-t|Cloud
-  sessions Added Claude Code cloud sessions and Remote Control permissions…]]'
+- '[[Changes/Devin/2026-10-23-download-and-read-blueprint-files|Download and Read
+  Blueprint Files]]'
 - "[[Changes/Open WebUI/2026-10-25-shared-chat-pages-load-once-chats-opened-under-s-through-a-share-link-or-by-an-a|\U0001F517
   Shared chat pages load once. Chats opened under /s/, through a share link…]]"
 - '[[Changes/Lovable/2026-10-26-manage-idp-group-mappings-in-one-place|Manage IdP

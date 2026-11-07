@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: afb1246c01b25f6bd24d9237811815ffd3d65fb070ab93ba7adca07c6e8e54a7
+machine_hash: 57c79863349ca87e2aec7d8d5c9341d4a0ff0f248effcac5a556669b65fd8deb
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -46,8 +46,8 @@ record:
     access…
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-09-08-4-collaboration-changes-in-v2026-9-3|4 Collaboration
-  changes in v2026.9.3]]'
+- '[[Changes/Raycast/2026-09-08-root-search-apps-sharing-a-name-are-now-disambiguated-in-search-and-app-pickers|Root
+  Search : Apps sharing a name are now disambiguated in search and app pickers]]'
 - '[[Changes/ChatGPT/2026-09-09-4-collaboration-changes-in-share-files-and-folders|4
   Collaboration changes in Share files and folders…]]'
 - '[[Changes/ChatGPT/2026-09-09-shared-folders-and-ownership|Shared folders and ownership]]'
@@ -81,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-09-08 · OpenClaw · [[Changes/OpenClaw/2026-09-08-4-collaboration-changes-in-v2026-9-3|4 Collaboration changes in v2026.9.3]]
+- Earlier: 2026-09-08 · Raycast · [[Changes/Raycast/2026-09-08-root-search-apps-sharing-a-name-are-now-disambiguated-in-search-and-app-pickers|Root Search : Apps sharing a name are now disambiguated in search and app pickers]]
 - Later: 2026-09-09 · Codex CLI · [[Changes/Codex CLI/2026-09-09-6-collaboration-changes-in-rust-v0-154-0|6 Collaboration changes in rust-v0.154.0]]
 <!-- chronolog:end -->
 

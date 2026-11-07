@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ee8bc4b0ec54cde585c6c6a9309e51f837edf652d456cccabe7d49753358e31f
+machine_hash: a8bb4dc8203e5d9fd5686b7ffb23894acc1534b1603282cd64a32aeafc021940
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -56,7 +56,8 @@ record:
   title: 6 Reliability and Performance changes in v0.1.21
   type: change
 related_changes:
-- '[[Changes/Lovable/2025-08-11-scales-to-large-workspaces|Scales to large workspaces]]'
+- '[[Changes/Devin/2025-08-12-various-reliability-performance-and-usability-improvements-across-the-app|Various
+  reliability, performance, and usability improvements across the app]]'
 - '[[Changes/Gemini CLI/2025-08-12-2-reliability-and-performance-changes-in-v0-1-19|2
   Reliability and Performance changes in v0.1.19]]'
 - '[[Changes/Descript/2025-08-14-drag-drop-support-simply-drag-images-directly-into-the-avatar-creation-interface|Drag

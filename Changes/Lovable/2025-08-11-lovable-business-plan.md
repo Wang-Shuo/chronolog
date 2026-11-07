@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: f2571e3c238b8e2ca0b5def490340428d77fb90d3b777b9239c62cd66bd6383b
+machine_hash: 9d8f6bbc7a9f1888965a0865ae4ade97d29b16bf53dab9130028106fcecda96d
 product: lovable
 product_name: Lovable
 record:
@@ -109,7 +109,7 @@ type: change
 ## Nearby in Enterprise and Administration
 
 - Earlier: 2025-08-09 · Open WebUI · [[Changes/Open WebUI/2025-08-09-3-enterprise-and-administration-changes-in-v0-6-19|3 Enterprise and Administration changes in v0.6.19]]
-- Later: 2025-08-19 · Notion · [[Changes/Notion/2025-08-19-download-pages-for-offline-use|Download pages for offline use]]
+- Later: 2025-08-12 · Devin · [[Changes/Devin/2025-08-12-enhanced-enterprise-consumption-dashboard|Enhanced Enterprise Consumption Dashboard]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

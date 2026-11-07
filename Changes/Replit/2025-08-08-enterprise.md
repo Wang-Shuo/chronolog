@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: de3f349391280b9ab4e8b174ad54e6970c2eba970106b33e80e80f81fee565a5
+machine_hash: 4d8db13e21e3ebd69490c4078a0fdbedf07ebb928e96ac9392124e9f18acd3e6
 product: replit
 product_name: Replit
 record:
@@ -39,12 +39,10 @@ record:
   title: '**Enterprise**'
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2025-07-19-traceability-with-log-trace-and-span-ids-each-log-entry-now-carries-detailed-tra|\U0001F3F7️
-  Traceability with Log Trace and Span IDs]]"
-- '[[Changes/Cursor/2025-07-29-allow-team-admins-to-configure-an-extension-allowlist|Allow
-  team admins to configure an extension allowlist]]'
-- '[[Changes/Descript/2025-07-31-new-viewer-role-in-descript-rooms-business-enterprise-only|New
-  Viewer role in Descript Rooms (Business & Enterprise only)]]'
+- '[[Changes/Devin/2025-08-06-enterprise-api-key-governance|Enterprise API Key Governance]]'
+- '[[Changes/Devin/2025-08-06-enterprise-members-overhaul|Enterprise Members Overhaul]]'
+- '[[Changes/Devin/2025-08-08-enhanced-enterprise-members-management|Enhanced Enterprise
+  Members Management]]'
 source_release: '[[Releases/Replit/replit-2025-08-08-2025-08-08-cb053c3d|replit-2025-08-08-2025-08-08-cb053c3d]]'
 source_type: replit_changelog
 theme: enterprise-admin
@@ -80,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2025-07-31 · Descript · [[Changes/Descript/2025-07-31-new-viewer-role-in-descript-rooms-business-enterprise-only|New Viewer role in Descript Rooms (Business & Enterprise only)]]
+- Earlier: 2025-08-08 · Devin · [[Changes/Devin/2025-08-08-enhanced-enterprise-members-management|Enhanced Enterprise Members Management]]
 - Later: 2025-08-08 · Synthesia · [[Changes/Synthesia/2025-08-08-turn-a-simple-text-prompt-into-an-8-second-1080p-video-clip-then-reuse-it-anywhe|Create video assets with Veo 3]]
 <!-- chronolog:end -->
 

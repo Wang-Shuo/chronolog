@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a08404af66fd4d49ef9986e78c7e3518394d427a9f28373e31b86728170f6709
+machine_hash: 09e4bc380f5888b8fd2b17482b92246e3dd8c00ebcbd12a6b788c214f9f8b357
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -49,12 +49,11 @@ record:
   title: 5 Safety and Privacy changes in rust-v0.139.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-06-hardened-cross-session-messaging-messages-relayed-via-sendmessage-from-other-cla|Hardened
-  cross-session messaging]]'
 - '[[Changes/Claude Code/2026-06-08-2-safety-and-privacy-changes-in-v2-1-169|2 Safety
   and Privacy changes in v2.1.169]]'
 - '[[Changes/Codex CLI/2026-06-08-6-safety-and-privacy-changes-in-rust-v0-138-0|6
   Safety and Privacy changes in rust-v0.138.0]]'
+- '[[Changes/LM Studio/2026-06-08-security-hardening|Security hardening]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-06-09-rust-v0-139-0-github-336847772-eda0ee6f|codex-cli-2026-06-09-rust-v0-139-0-github-336847772-eda0ee6f]]'
 source_type: github_releases
 theme: safety-privacy
@@ -102,7 +101,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.139.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-06-08 · Codex CLI · [[Changes/Codex CLI/2026-06-08-6-safety-and-privacy-changes-in-rust-v0-138-0|6 Safety and Privacy changes in rust-v0.138.0]]
+- Earlier: 2026-06-08 · LM Studio · [[Changes/LM Studio/2026-06-08-security-hardening|Security hardening]]
 - Later: 2026-06-09 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-09-pasted-images-no-longer-leak-into-the-main-prompt-after-a-permission-dialog-clos|Pasted images no longer leak into the main prompt after a permission dialog closes]]
 <!-- chronolog:end -->
 

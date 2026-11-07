@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5f73850a5170a6debd6dca928f322ced1c268b356a4646922e55ba9f0efae442
+machine_hash: c3c8e7c4f789e0275467d0fea195e7fe1d1c4d7ba067b0c3209dc1c2b0d79d1d
 product: opencode
 product_name: OpenCode
 record:
@@ -40,8 +40,7 @@ record:
   title: Core Fixed chunk timeout when processing LLM stream
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-03-11-added-support-for-the-following-models-claude-opus-4-6-glm-4-7-claude-sonnet-4-6|Added
-  support for the following models]]'
+- '[[Changes/Superwhisper/2026-03-11-add-gpt-5-3-instant-f75b60|Add GPT-5.3 Instant]]'
 - '[[Changes/Cline/2026-03-12-2-model-support-changes-in-v3-72-0|2 Model Support changes
   in v3.72.0]]'
 - '[[Changes/OpenCode/2026-03-12-support-non-openai-azure-models-that-use-completions-endpoints|Support
@@ -87,7 +86,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-03-12 · Cline · [[Changes/Cline/2026-03-12-2-model-support-changes-in-v3-72-0|2 Model Support changes in v3.72.0]]
-- Later: 2026-03-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-13-setting-claude-sonnet-4-6-as-the-default-model-is-now-preserved-correctly|Setting claude-sonnet-4.6 as the default model is now preserved correctly]]
+- Later: 2026-03-12 · Superwhisper · [[Changes/Superwhisper/2026-03-12-strip-stray-think-thought-prefix-lines-from-llm-output|Strip stray think/thought prefix lines from LLM output]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 81625a6fff16846639804606e1d82514628366f40974ac9bbfc7cd59327387fa
+machine_hash: 38a1ef4e8d9bc46e1a582faf1ed4404cc187427a2761238fd37b4d5a4bb1f018
 product: notion
 product_name: Notion
 record:
@@ -40,8 +40,7 @@ record:
   title: Take quick notes on Android
   type: change
 related_changes:
-- '[[Changes/Notion/2022-11-17-jump-to-your-recently-viewed-pages-on-mobile|Jump to
-  your recently viewed pages on mobile]]'
+- '[[Changes/Raycast/2022-11-23-macos-shortcuts-improvements|macOS Shortcuts Improvements]]'
 - '[[Changes/Notion/2022-12-15-tabs-in-your-desktop-app|Tabs in your desktop app]]'
 - '[[Changes/Notion/2022-12-15-always-open-links-in-your-desktop-app|Always open links
   in your desktop app]]'

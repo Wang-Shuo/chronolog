@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: pricing
-machine_hash: 2251b93136e20651874d4e1869a6eaf1b2dd332a143f8c7856cb640505219290
+machine_hash: 79666b2cbc713b1ac50dd701c910779b8d60b2116ee054343ac07182c994ef2b
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -55,11 +55,10 @@ record:
   title: Workspaces
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-04-09-you-can-upgrade-switch-or-cancel-your-plan-from-settings-my-plan-or-from-the-pri|You
-  can upgrade, switch, or cancel your plan from Settings  My Plan or…]]'
 - '[[Changes/Replit/2026-04-10-past-invoices-in-usage-page|Past invoices in usage
   page]]'
 - '[[Changes/Replit/2026-04-10-razorpay-payments-for-india|Razorpay payments for India]]'
+- '[[Changes/Recraft/2026-04-14-cost-per-second|Cost per second]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-04-20-2026-04-20-9278926e|elevenlabs-2026-04-20-2026-04-20-9278926e]]'
 source_type: elevenlabs_changelog
 theme: pricing-model
@@ -94,7 +93,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-04-10 · Replit · [[Changes/Replit/2026-04-10-razorpay-payments-for-india|Razorpay payments for India]]
+- Earlier: 2026-04-14 · Recraft · [[Changes/Recraft/2026-04-14-cost-per-second|Cost per second]]
 - Later: 2026-04-22 · Claude Code · [[Changes/Claude Code/2026-04-22-opentelemetry-user-prompt-events-now-include-command-name-and-command-source-for|OpenTelemetry: user_prompt events now include command_name and command_source…]]
 <!-- chronolog:end -->
 

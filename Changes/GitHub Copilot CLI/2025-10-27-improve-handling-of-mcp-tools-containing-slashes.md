@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f6294cb4c1b461e7bd021e02fec1917431a9039a37c3303ab53c9db67ef2ea28
+machine_hash: f1f1cf7ad465cf676f981e7ef3a513c97d599124736c40226e1540ab7fa932f6
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -73,7 +73,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2025-10-27 · ElevenLabs · [[Changes/ElevenLabs/2025-10-27-javascript-sdk|JavaScript SDK]]
-- Later: 2025-10-29 · Gemini CLI · [[Changes/Gemini CLI/2025-10-29-7-apps-and-integrations-changes-in-v0-11-0|7 Apps and Integrations changes in v0.11.0]]
+- Later: 2025-10-27 · Raycast · [[Changes/Raycast/2025-10-27-store-filter-extensions-by-category|Store: Filter extensions by category]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

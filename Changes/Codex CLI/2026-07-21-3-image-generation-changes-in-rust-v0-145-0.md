@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: bb6132e93a3c1ea68afbf7b5c2e48c5cdc3018580f876e7e20c73f37d03af9f8
+machine_hash: 47b2b05bf4e3a445b851a1532232f207af4adf99516a41db3ee891beeb9800dc
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,12 +44,12 @@ record:
   title: 3 Image Generation changes in rust-v0.145.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-07-09-31596-use-the-image-generation-extension-by-default-won-openai|♯31596
-  Use the image generation extension by default @won-openai]]'
 - '[[Changes/Runway/2026-07-10-nano-banana-2-lite-is-now-available-in-tool-mode-on-mobile-with-support-for-up-t|Nano
   Banana 2 Lite]]'
 - '[[Changes/OpenClaw/2026-07-13-7-image-generation-changes-in-v2026-7-1|7 Image Generation
   changes in v2026.7.1]]'
+- '[[Changes/Recraft/2026-07-15-we-ve-added-seedream-5-0-pro-for-image-generation-in-recraft-studio-available-to|Recraft
+  adds Seedream 5.0 Pro for image generation in Recraft Studio]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-07-21-rust-v0-145-0-github-357545274-7be4454f|codex-cli-2026-07-21-rust-v0-145-0-github-357545274-7be4454f]]'
 source_type: github_releases
 theme: image-generation
@@ -101,8 +101,8 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.145.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Image Generation
 
-- Earlier: 2026-07-13 · OpenClaw · [[Changes/OpenClaw/2026-07-13-7-image-generation-changes-in-v2026-7-1|7 Image Generation changes in v2026.7.1]]
-- Later: 2026-07-27 · Open WebUI · [[Changes/Open WebUI/2026-07-27-shared-image-checkpoint-changes-only-administrators-can-now-change-the-instance|🖌️ Shared image checkpoint changes. Only administrators can now change…]]
+- Earlier: 2026-07-15 · Recraft · [[Changes/Recraft/2026-07-15-we-ve-added-seedream-5-0-pro-for-image-generation-in-recraft-studio-available-to|Recraft adds Seedream 5.0 Pro for image generation in Recraft Studio]]
+- Later: 2026-07-23 · Raycast · [[Changes/Raycast/2026-07-23-ai-generated-images-can-be-dragged-and-dropped-into-other-apps|AI : Generated images can be dragged and dropped into other apps]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

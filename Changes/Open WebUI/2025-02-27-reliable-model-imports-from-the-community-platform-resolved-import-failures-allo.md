@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 9eff3fee2e19a65b40e20f57f7c5258d5bc5bdf79c023a3179817c0363f67c75
+machine_hash: 7fe66ef1c0886911bd9b1c4f7bc176d7cd7d24d626c1e814488e564a5c2430c1
 product: open-webui
 product_name: Open WebUI
 record:
@@ -57,10 +57,10 @@ record:
   title: "**\U0001F504 Reliable Model Imports from the Community Platform**"
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-02-19-better-error-when-llm-settings-do-not-exist-by-amanape-in-https-github-com-all-h|Better
-  error when LLM settings do not exist]]'
 - '[[Changes/Ollama/2025-02-20-2-model-support-changes-in-v0-5-12|2 Model Support
   changes in v0.5.12]]'
+- '[[Changes/Devin/2025-02-26-sonnet-3-7-in-devin-we-incorporated-sonnet-3-7-in-devin-on-2-24-with-optimizatio|Sonnet
+  3.7 in Devin]]'
 - '[[Changes/Ollama/2025-02-27-2-model-support-changes-in-v0-5-13|2 Model Support
   changes in v0.5.13]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-02-27-v0-5-17-github-202772600-cff31e12|open-webui-2025-02-27-v0-5-17-github-202772600-cff31e12]]'

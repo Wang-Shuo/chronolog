@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 5146b4f3ebffd9c9ea47ad9a9fcc5de99713ce96cbbd44bd7b68a2721fb39e63
+machine_hash: 74bf374562b872c9c91d6da6e2b2dd3ad346220478b4d43cff9a63b027e8d27f
 product: lovable
 product_name: Lovable
 record:
@@ -60,10 +60,9 @@ record:
   title: Per-user access for Amazon Redshift
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-08-18-57-apps-and-integrations-changes-in-rust-v0-148-0|57
-  Apps and Integrations changes in rust-v0.148.0]]'
-- '[[Changes/Claude Code/2026-08-19-sigterm-in-print-sdk-mode-no-longer-records-an-interrupted-turn-or-synthetic-too|SIGTERM
-  in print/SDK mode no longer records an interrupted turn or synthetic tool…]]'
+- '[[Changes/Devin/2026-08-19-new-mcp-marketplace-entry|New MCP Marketplace Entry]]'
+- '[[Changes/Devin/2026-08-19-slack-mute-moves-the-session-to-the-webapp|Slack Mute
+  Moves the Session to the Webapp]]'
 - '[[Changes/Kimi Code/2026-08-19-make-several-refinements-and-internal-improvements-see-the-changelog-on-github-h|Make
   several refinements and internal improvements]]'
 source_release: '[[Releases/Lovable/lovable-2026-08-19-2026-08-19-776e1b54|lovable-2026-08-19-2026-08-19-776e1b54]]'
@@ -98,7 +97,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-08-19 · Kimi Code · [[Changes/Kimi Code/2026-08-19-make-several-refinements-and-internal-improvements-see-the-changelog-on-github-h|Make several refinements and internal improvements]]
-- Later: 2026-08-20 · ChatGPT · [[Changes/ChatGPT/2026-08-20-use-apple-messages-from-codex-and-chatgpt-work-on-apple-silicon-macs-the-apple-m|Use Apple Messages from Codex and ChatGPT Work]]
+- Later: 2026-08-19 · Raycast · [[Changes/Raycast/2026-08-19-2-apps-and-integrations-changes-in-raycast-windows-0-71|2 Apps and Integrations changes in Raycast windows 0.71]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

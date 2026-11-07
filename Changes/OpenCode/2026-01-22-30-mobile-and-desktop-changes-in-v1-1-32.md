@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1374bc9bc4fe545656866ea87df7d3bf2f18aff827173b7016a7fefe91de58de
+machine_hash: 5158464c9933c8d36a0212388252003eed61b51f1d2465254bc6a0a92f016497
 product: opencode
 product_name: OpenCode
 record:
@@ -98,8 +98,8 @@ record:
   title: 30 Mobile and Desktop changes in v1.1.32
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-01-21-24-mobile-and-desktop-changes-in-v1-1-29|24 Mobile
-  and Desktop changes in v1.1.29]]'
+- '[[Changes/AnythingLLM/2026-01-22-3-mobile-and-desktop-changes-in-v1-10-0|3 Mobile
+  and Desktop changes in v1.10.0]]'
 - '[[Changes/Cursor/2026-01-22-windows-notifications-now-have-accept-reject-buttons-like-macos|Windows
   notifications now have accept/reject buttons like MacOS]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-22-add-msi-installer-for-windows|Add MSI installer

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: a615904f55e395758ac07fe3fa66f3c3e972eeeaaab77289addee7e4180ab1fb
+machine_hash: 750c09fa349bb3169147d98cf59e6eb909325578eb572facc193fb383e819e73
 product: lovable
 product_name: Lovable
 record:
@@ -88,7 +88,7 @@ type: change
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-07-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-16-2-safety-and-privacy-changes-in-v1-0-71|2 Safety and Privacy changes in v1.0.71]]
-- Later: 2026-07-17 · Claude Code · [[Changes/Claude Code/2026-07-17-3-safety-and-privacy-changes-in-v2-1-212|3 Safety and Privacy changes in v2.1.212]]
+- Later: 2026-07-16 · Raycast · [[Changes/Raycast/2026-07-16-apple-shortcuts-fixed-running-shortcuts-requiring-already-provided-automation-pe|Apple Shortcuts: Fixed running shortcuts requiring already provided automation permission]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

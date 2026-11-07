@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 2b8aab4d0a9f903190d2d98dc3aa89d5b65059d9d815270ca2919497baac8863
+machine_hash: a23c1052cf570f37cba8d28c4a33173fd6a9888fbb4375832f80bf2d4d0b649b
 product: claude-code
 product_name: Claude Code
 record:
@@ -59,12 +59,12 @@ record:
     screen…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-04-added-interactive-bedrock-setup-wizard-accessible-from-the-login-screen-when-sel|Added
-  interactive Bedrock setup wizard accessible from the login screen…]]'
-- '[[Changes/GitHub Copilot CLI/2026-04-07-enterprise-github-url-input-in-the-login-flow-now-accepts-keyboard-input-and-sub|Enterprise
-  GitHub URL input in the login flow now accepts keyboard input and submits…]]'
+- '[[Changes/Devin/2026-04-08-pinned-organizations-sync-across-devices|Pinned Organizations
+  Sync Across Devices]]'
 - '[[Changes/OpenCode/2026-04-08-core-improved-opencode-login-transport-error-messages|Core
   Improved opencode login transport error messages]]'
+- '[[Changes/Superwhisper/2026-04-08-added-enterprise-login-support-for-business-users|Added
+  Enterprise login support for business users]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-09-v2-1-98-github-307232194-a0774436|claude-code-2026-04-09-v2-1-98-github-307232194-a0774436]]'
 source_type: github_releases
 theme: account-access
@@ -100,7 +100,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-04-08 · OpenCode · [[Changes/OpenCode/2026-04-08-core-improved-opencode-login-transport-error-messages|Core Improved opencode login transport error messages]]
+- Earlier: 2026-04-08 · Superwhisper · [[Changes/Superwhisper/2026-04-08-added-enterprise-login-support-for-business-users|Added Enterprise login support for business users]]
 - Later: 2026-04-09 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-09-support-bearer-token-authentication-for-byok-anthropic-models|Support bearer token authentication for BYOK Anthropic models]]
 <!-- chronolog:end -->
 

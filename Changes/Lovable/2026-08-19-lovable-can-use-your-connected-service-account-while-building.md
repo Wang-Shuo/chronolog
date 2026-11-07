@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: c2e7f4e53c33d6500d1bf441792cb7af4a20de46571b1f4d2ae19435a418e77d
+machine_hash: c1c3917f6fd9a127eae056a8255b715d57f05f5e38730b47ed111a216b3aa8a0
 product: lovable
 product_name: Lovable
 record:
@@ -68,8 +68,8 @@ record:
   title: Lovable can use your connected service account while building
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-19-sigterm-in-print-sdk-mode-no-longer-records-an-interrupted-turn-or-synthetic-too|SIGTERM
-  in print/SDK mode no longer records an interrupted turn or synthetic tool…]]'
+- '[[Changes/Devin/2026-08-19-slack-mute-moves-the-session-to-the-webapp|Slack Mute
+  Moves the Session to the Webapp]]'
 - '[[Changes/Kimi Code/2026-08-19-make-several-refinements-and-internal-improvements-see-the-changelog-on-github-h|Make
   several refinements and internal improvements]]'
 - '[[Changes/Lovable/2026-08-19-per-user-access-for-amazon-redshift|Per-user access
@@ -106,7 +106,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-08-19 · Kimi Code · [[Changes/Kimi Code/2026-08-19-make-several-refinements-and-internal-improvements-see-the-changelog-on-github-h|Make several refinements and internal improvements]]
-- Later: 2026-08-20 · ChatGPT · [[Changes/ChatGPT/2026-08-20-use-apple-messages-from-codex-and-chatgpt-work-on-apple-silicon-macs-the-apple-m|Use Apple Messages from Codex and ChatGPT Work]]
+- Later: 2026-08-19 · Raycast · [[Changes/Raycast/2026-08-19-2-apps-and-integrations-changes-in-raycast-windows-0-71|2 Apps and Integrations changes in Raycast windows 0.71]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

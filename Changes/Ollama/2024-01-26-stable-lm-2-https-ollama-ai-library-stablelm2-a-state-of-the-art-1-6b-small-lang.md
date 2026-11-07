@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: c0b4e2b218c99d8dc94b2deb14f727534ec8a546d76e95d89977077224869d35
+machine_hash: 11d550ebb4fb95620eaaa86b14da93848f150b35be2252fae26da8388cb3fda8
 product: ollama
 product_name: Ollama
 record:
@@ -44,10 +44,10 @@ record:
   title: '[Stable LM 2](https://ollama.ai/library/stablelm2)'
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-01-25-both-pro-and-api-key-users-can-also-try-out-gpt-4-0125-preview-by-configuring-th|Both
-  pro and API key users can also try out gpt-4-0125-preview by configuring…]]'
-- '[[Changes/Dify/2024-01-25-3-model-support-changes-in-0-5-1|3 Model Support changes
-  in 0.5.1]]'
+- '[[Changes/Superwhisper/2024-01-25-cloud-models-shown-in-language-models-view|Cloud
+  models shown in language models view]]'
+- '[[Changes/Superwhisper/2024-01-25-experimental-models-hidden-by-default|Experimental
+  models hidden by default]]'
 - '[[Changes/Dify/2024-01-26-3-model-support-changes-in-0-5-2|3 Model Support changes
   in 0.5.2]]'
 source_release: '[[Releases/Ollama/ollama-2024-01-26-v0-1-22-github-138708044-d4707657|ollama-2024-01-26-v0-1-22-github-138708044-d4707657]]'
@@ -77,7 +77,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2024-01-26 · Dify · [[Changes/Dify/2024-01-26-3-model-support-changes-in-0-5-2|3 Model Support changes in 0.5.2]]
-- Later: 2024-02-01 · Dify · [[Changes/Dify/2024-02-01-4-model-support-changes-in-0-5-3|4 Model Support changes in 0.5.3]]
+- Later: 2024-01-30 · Superwhisper · [[Changes/Superwhisper/2024-01-30-no-longer-send-empty-results-to-llm|No longer send empty results to LLM]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

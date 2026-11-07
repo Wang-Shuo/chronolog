@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6dcb106d4c33b1e1f8793b94bcfc3aaee98372fd81de23b7037b42e02db633dc
+machine_hash: cc34c336359e45ba0d5e6c52ce768435339bb1f463a381a566ff440356003532
 product: cline
 product_name: Cline
 record:
@@ -50,10 +50,10 @@ record:
   title: 4 Model Support changes in v4.0.2
   type: change
 related_changes:
-- '[[Changes/Cline/2026-06-26-2-model-support-changes-in-v4-0-0|2 Model Support changes
-  in v4.0.0]]'
 - '[[Changes/v0/2026-06-26-a-saved-model-selection-no-longer-briefly-flips-to-a-default-while-the-page-load|A
   saved model selection no longer briefly flips to a default while the page loads]]'
+- '[[Changes/LM Studio/2026-06-27-added-guidance-in-model-settings-for-llama-cpp-options-that-move-when-lm-studio|Added
+  guidance in model settings for llama.cpp options that move when LM Studio…]]'
 - '[[Changes/Claude Code/2026-06-29-added-support-for-organization-default-models-admins-set-it-in-the-org-console-i|Added
   support for organization default models]]'
 source_release: '[[Releases/Cline/cline-2026-06-29-v4-0-2-github-346061575-5588d101|cline-2026-06-29-v4-0-2-github-346061575-5588d101]]'

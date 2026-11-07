@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: cc870245aed8864df88e7c1d6c64c1b9573310e02a1257af3e591c075501fe81
+machine_hash: a2cb83c014b218438aff642c0b35a47c0c36276215f50a3f506e0480c2c9a4ba
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,9 +43,10 @@ record:
   title: '#27245 image: add shared data URL preparation utilities @fjord-oai'
   type: change
 related_changes:
-- '[[Changes/Replit/2026-06-05-use-stripe-in-collaborative-workspaces|Use Stripe in
-  collaborative workspaces]]'
-- '[[Changes/Lovable/2026-06-09-workspace-view-only-sharing|Workspace view-only sharing]]'
+- '[[Changes/Superwhisper/2026-06-09-added-stat-share-card-feature|Added Stat share
+  card feature]]'
+- '[[Changes/Devin/2026-06-10-sent-from-slack-teams-linear-indicator|"Sent from Slack/Teams/Linear"
+  Indicator]]'
 - '[[Changes/Descript/2026-06-11-classic-color-theme|Classic color theme]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-06-15-rust-v0-140-0-github-339797498-eb64f8cb|codex-cli-2026-06-15-rust-v0-140-0-github-339797498-eb64f8cb]]'
 source_type: github_releases

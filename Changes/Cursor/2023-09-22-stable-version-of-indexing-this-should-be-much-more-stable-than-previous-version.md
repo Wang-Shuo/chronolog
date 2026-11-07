@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5026e3b693a4941b156f1ab08c63aab9040080e0403d66d51b7e3c4b417da419
+machine_hash: fd660541384fbcec85aa6fddc55dc9f3b744b1c0f6d23b3e2adc02322b1b668f
 product: cursor
 product_name: Cursor
 record:
@@ -44,10 +44,10 @@ record:
   title: Stable Indexing v0.1
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-09-08-better-state-management-prevents-crashes-from-editor-using-too-much-memory|Better
-  state management - prevents crashes from editor using too much memory]]'
-- '[[Changes/Cursor/2023-09-08-following-this-update-future-updates-should-come-as-staged-rollouts-this-will-me|Staged
-  Rollouts]]'
+- '[[Changes/Superwhisper/2023-09-15-resolve-performance-regression|Resolve performance
+  regression]]'
+- '[[Changes/Superwhisper/2023-09-15-massive-performance-improvement-use-gpu-metal-for-processing|Massive
+  performance improvement, use GPU/Metal for processing]]'
 - '[[Changes/Cursor/2023-09-20-we-ship-a-new-version-of-indexing-which-should-be-significantly-more-stable-than|More
   Stable Codebase Indexing]]'
 source_release: '[[Releases/Cursor/cursor-2023-09-22-0-11-5-nightly-https-cursor-com-changelog-0-11-5-nightly-4046a4e1|cursor-2023-09-22-0-11-5-nightly-https-cursor-com-changelog-0-11-5-nightly-4046a4e1]]'

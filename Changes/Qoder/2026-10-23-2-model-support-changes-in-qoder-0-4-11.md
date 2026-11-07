@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ee18c5759e81163ec2980fd4feb7b3e7e785605223ebc4813ed30dca30bdd5f0
+machine_hash: 4813c10668727c8071222432a49eb9e1f7fcf3e569b3eb19fa1cad82788dacb1
 product: qoder
 product_name: Qoder
 record:
@@ -45,8 +45,8 @@ record:
   title: 2 Model Support changes in Qoder 0.4.11
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-23-9-model-support-changes-in-rust-v0-164-0|9 Model
-  Support changes in rust-v0.164.0]]'
+- '[[Changes/Devin/2026-10-23-llm-filter-in-the-v3-api-and-terraform-provider|LLM
+  Filter in the v3 API and Terraform Provider]]'
 - '[[Changes/Dify/2026-10-23-operations-archive-storage-supports-configurable-s3-addressing-style-the-api-ima|Operations:
   archive storage supports configurable S3 addressing style]]'
 - '[[Changes/Ollama/2026-10-23-the-model-includes-a-dflash-draft-for-speculative-decoding|The

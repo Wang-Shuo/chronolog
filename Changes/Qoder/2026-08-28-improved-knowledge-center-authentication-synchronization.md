@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1b0f9346ed7faa5247cce02163bc1aaa28532983ce06672d6cc20cd6daf38c04
+machine_hash: 3e59de81828816d9a0e7f91104095ff8305585fcba23e2369e13f8e9684876e6
 product: qoder
 product_name: Qoder
 record:
@@ -41,10 +41,9 @@ record:
   title: Improved Knowledge Center authentication synchronization
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-08-27-2-account-and-access-changes-in-v1-0-81|2
-  Account and Access changes in v1.0.81]]'
 - '[[Changes/Claude Code/2026-08-28-changed-analytics-to-no-longer-turn-off-before-sign-in-solely-because-managed-se|Changed
   analytics to no longer turn off before sign-in solely because managed…]]'
+- '[[Changes/Devin/2026-08-28-authentication|Authentication]]'
 - '[[Changes/OpenCode/2026-08-28-2-account-and-access-changes-in-v1-18-25-1|2 Account
   and Access changes in v1.18.25 + 1]]'
 source_release: '[[Releases/Qoder/qoder-2026-08-28-0-1-2-b31087bb|qoder-2026-08-28-0-1-2-b31087bb]]'

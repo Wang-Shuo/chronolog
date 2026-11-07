@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ca1b4074dc109328ab01c5118f6f3640e8b8f66c815acfeefde1e4fe54e0ca55
+machine_hash: 2c99e4928bfa112e8bc92c0851a9482737d043419ffc5f38a40b4d521d9a1c25
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -78,7 +78,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-01-28 · Claude Code · [[Changes/Claude Code/2026-01-28-improved-claude-to-prefer-file-operation-tools-read-edit-write-over-bash-equival|Improved Claude to prefer file operation tools (Read, Edit, Write) over bash…]]
-- Later: 2026-01-28 · OpenCode · [[Changes/OpenCode/2026-01-28-3-editor-experience-changes-in-v1-1-37|3 Editor Experience changes in v1.1.37]]
+- Later: 2026-01-28 · LM Studio · [[Changes/LM Studio/2026-01-28-show-release-notes-in-a-dedicated-tab-after-app-updates|Show release notes in a dedicated tab after app updates]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

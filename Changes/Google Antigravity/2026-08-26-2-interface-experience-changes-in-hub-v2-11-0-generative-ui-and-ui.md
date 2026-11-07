@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b487d89c248055f7f8f7fd5aa7b2505c61cf15d95aa8d874e6e84115a5489724
+machine_hash: 0f5dcd2dcf0da881606f8e667675f6e35036485bbf12519ac9ad7d0e766737eb
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -47,8 +47,8 @@ record:
   title: 2 Interface Experience changes in HUB v2.11.0 — Generative UI and UI…
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-08-25-24-interface-experience-changes-in-v0-11-1|24 Interface
-  Experience changes in v0.11.1]]'
+- '[[Changes/Raycast/2026-08-25-general-added-add-to-dictionary-to-the-right-click-menu-on-text-fields|General
+  : Added Add to dictionary to the right-click menu on text fields]]'
 - '[[Changes/Claude Code/2026-08-26-changed-the-prompt-footer-pr-badge-to-skip-its-github-re-check-on-terminal-refoc|Changed
   the prompt-footer PR badge to skip its GitHub re-check on terminal refocus…]]'
 - '[[Changes/Codex CLI/2026-08-26-6-interface-experience-changes-in-rust-v0-150-0|6

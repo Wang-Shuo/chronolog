@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0dbe465fbadf2414716a26e5b1815befc2183b313abeb28bde3dbaa01426545e
+machine_hash: 3b687415638baaae25b6c58c622566a04e517dfceb998dcfc762177178e76747
 product: descript
 product_name: Descript
 record:
@@ -44,12 +44,12 @@ record:
   title: Optimized Edit Boundaries with Filler Word Removal
   type: change
 related_changes:
-- '[[Changes/Descript/2020-11-10-we-ve-made-it-so-that-you-can-now-single-click-to-edit-a-file-name-in-the-media|Single-click
-  to edit filenames]]'
 - '[[Changes/Descript/2020-12-17-previously-descript-only-corrected-capitalization-and-punctuation-while-making-e|Auto-correct
   capitalization and punctuation while editing]]'
 - '[[Changes/Descript/2020-12-17-now-you-can-edit-the-name-of-a-page-directly-on-the-page-just-open-up-the-share|Edit
   Page names on the page]]'
+- '[[Changes/Raycast/2020-12-22-auto-switch-keyboard-layout-now-you-can-enforce-raycast-to-always-switch-to-engl|Auto-switch
+  Keyboard Layout]]'
 source_release: '[[Releases/Descript/descript-2021-02-18-602b977f7022253637e53c40-ec9cde34|descript-2021-02-18-602b977f7022253637e53c40-ec9cde34]]'
 source_type: canny_changelog
 theme: editor-experience
@@ -76,7 +76,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2020-12-17 · Descript · [[Changes/Descript/2020-12-17-now-you-can-edit-the-name-of-a-page-directly-on-the-page-just-open-up-the-share|Edit Page names on the page]]
+- Earlier: 2020-12-22 · Raycast · [[Changes/Raycast/2020-12-22-auto-switch-keyboard-layout-now-you-can-enforce-raycast-to-always-switch-to-engl|Auto-switch Keyboard Layout]]
 - Later: 2021-02-18 · Descript · [[Changes/Descript/2021-02-18-we-ve-combined-the-correct-text-and-edit-media-modes-into-a-single-editing-exper|Correct Text and Edit Media modes have been combined]]
 <!-- chronolog:end -->
 

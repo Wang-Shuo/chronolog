@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f788383836bcb349e04e65c73ba0ef405f6bd1fc6e79602cc8e17f8e989dd98b
+machine_hash: 5a9ec94c74e07dbf908690634220e444fd8ce72e141e4c7003a089f010ea1228
 product: qoder
 product_name: Qoder
 record:
@@ -44,7 +44,8 @@ record:
     sections…'
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-10-20-redesigned-more-menu|Redesigned More menu]]'
+- '[[Changes/Superwhisper/2026-10-20-glass-buttons-in-the-history-selection-bar-with-select-multiple-now-working-dire|Glass
+  buttons in the History selection bar, with "Select Multiple" now working…]]'
 - '[[Changes/Google Antigravity/2026-10-22-the-more-actions-menu-on-conversations-in-the-sidebar-now-includes-pin-and-archi|The
   more-actions menu on conversations in the sidebar now includes Pin and Archive…]]'
 - '[[Changes/Google Antigravity/2026-10-22-you-can-now-manage-notification-preferences-toggle-completion-sounds-and-adjust|Manage
@@ -83,7 +84,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-10-22 · Google Antigravity · [[Changes/Google Antigravity/2026-10-22-you-can-now-manage-notification-preferences-toggle-completion-sounds-and-adjust|Manage notification preferences, toggle completion sounds, and adjust agent sound…]]
-- Later: 2026-10-23 · Claude Code · [[Changes/Claude Code/2026-10-23-improved-a-mod-s-image-to-draw-inside-tmux-with-allow-passthrough-and-focus-even|Improved a mod's Image to draw inside tmux with allow-passthrough…]]
+- Later: 2026-10-22 · Raycast · [[Changes/Raycast/2026-10-22-2-interface-experience-changes-in-raycast-windows-2-9|2 Interface Experience changes in Raycast windows 2.9]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 63a020c9c70238563dc23f0d775d9109b65d42586a105e83c7aa089a8a014c35
+machine_hash: c8b00ebba3d07022707118f7e6c3267f6f97c15a40e89094453eea9c9ad7fa83
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,10 +44,10 @@ record:
   title: 2 Safety and Privacy changes in v1.0.52
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-05-21-17-safety-and-privacy-changes-in-rust-v0-133-0|17
-  Safety and Privacy changes in rust-v0.133.0]]'
-- '[[Changes/Claude Code/2026-05-22-2-safety-and-privacy-changes-in-v2-1-149|2 Safety
-  and Privacy changes in v2.1.149]]'
+- '[[Changes/Devin/2026-05-22-inline-repo-permission-toggle|Inline Repo Permission
+  Toggle]]'
+- '[[Changes/Devin/2026-05-22-automation-sessions-now-appear-in-a-dedicated-automations-involving-you-sidebar|Automation
+  sessions now appear in a dedicated "Automations involving you" sidebar…]]'
 - '[[Changes/Gemini CLI/2026-05-22-docs-add-vi-mode-shortcuts-and-clarify-mcp-custom-sandbox-setup-by-chrisjcthomas|docs:
   add vi mode shortcuts and clarify MCP/custom sandbox setup]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-05-23-v1-0-52-github-328402909-801444d4|github-copilot-cli-2026-05-23-v1-0-52-github-328402909-801444d4]]'
@@ -92,7 +92,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.52
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-05-22 · Gemini CLI · [[Changes/Gemini CLI/2026-05-22-docs-add-vi-mode-shortcuts-and-clarify-mcp-custom-sandbox-setup-by-chrisjcthomas|docs: add vi mode shortcuts and clarify MCP/custom sandbox setup]]
-- Later: 2026-05-26 · Codex CLI · [[Changes/Codex CLI/2026-05-26-7-safety-and-privacy-changes-in-rust-v0-134-0|7 Safety and Privacy changes in rust-v0.134.0]]
+- Later: 2026-05-26 · AnythingLLM · [[Changes/AnythingLLM/2026-05-26-this-is-we-believe-a-fundamental-shift-in-how-ai-assistants-work-for-the-first-t|This is, we believe, a fundamental shift in how AI assistants work]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

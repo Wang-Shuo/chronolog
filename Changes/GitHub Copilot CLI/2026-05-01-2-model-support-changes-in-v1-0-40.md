@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 09d9aef4c5827d5aff70e36ecdaf79ad45f47efb05b8dc3fc719b989d5f957a9
+machine_hash: 7ab9eb25408c4dbb570ed64ca33c89823a26833247181fb828c7137effffca41
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,8 +45,8 @@ record:
   title: 2 Model Support changes in v1.0.40
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-04-30-10-model-support-changes-in-rust-v0-128-0|10 Model
-  Support changes in rust-v0.128.0]]'
+- '[[Changes/Raycast/2026-04-30-ai-search-models-in-model-sheet|AI: Search models
+  in model sheet]]'
 - '[[Changes/Claude Code/2026-05-01-2-model-support-changes-in-v2-1-126|2 Model Support
   changes in v2.1.126]]'
 - '[[Changes/Cline/2026-05-01-2-model-support-changes-in-v3-82-0|2 Model Support changes

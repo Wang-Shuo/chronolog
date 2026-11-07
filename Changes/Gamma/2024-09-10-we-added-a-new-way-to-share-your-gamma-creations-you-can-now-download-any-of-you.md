@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: e647fb2c5fecae9eabdae036df06d6a0342f4e072287987e76449dc9ee9c4c1e
+machine_hash: f2697fb267f5ae15f0b15296154cfdb3964bcccb58d354254124cefe363591be
 product: gamma
 product_name: Gamma
 record:
@@ -49,10 +49,11 @@ record:
   title: We added a new way to share your Gamma creations
   type: change
 related_changes:
-- '[[Changes/Notion/2024-07-29-import-from-asana|Import from Asana]]'
 - '[[Changes/Notion/2024-08-13-create-a-chart-in-seconds|Create a chart in seconds]]'
 - '[[Changes/Cursor/2024-08-22-composer-is-now-default-on-and-available-to-all-pro-business-users-by-hitting-cm|Composer
   is now default-on and available to all Pro/Business users by hitting cmd+I]]'
+- '[[Changes/Devin/2024-09-03-let-devin-create-devins-with-multidevin|Let Devin create
+  Devins with MultiDevin]]'
 source_release: '[[Releases/Gamma/gamma-2024-09-10-66df49fa1244181269884530-39be8dbb|gamma-2024-09-10-66df49fa1244181269884530-39be8dbb]]'
 source_type: gamma_changelog
 theme: collaboration
@@ -83,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2024-08-22 · Cursor · [[Changes/Cursor/2024-08-22-composer-is-now-default-on-and-available-to-all-pro-business-users-by-hitting-cm|Composer is now default-on and available to all Pro/Business users by hitting cmd+I]]
+- Earlier: 2024-09-03 · Devin · [[Changes/Devin/2024-09-03-let-devin-create-devins-with-multidevin|Let Devin create Devins with MultiDevin]]
 - Later: 2024-09-25 · Notion · [[Changes/Notion/2024-09-25-suggests-how-it-can-help|Suggests how it can help]]
 <!-- chronolog:end -->
 

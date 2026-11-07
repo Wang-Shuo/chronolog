@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 84b6a75f2ead41066c090180472c97b70f84ae971476d7b0be5d6e1dc263f8fd
+machine_hash: cc4272efd05ac729f12bffab150f4f88558d1db1bdb1273e6d9b1b53aedc2c34
 product: opencode
 product_name: OpenCode
 record:
@@ -53,11 +53,12 @@ record:
   title: Desktop Keep model provider headers visible while scrolling the model picker
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-08-21-developers-can-now-easily-configure-claude-desktop-to-seamlessly-work-with-ollam|Developers
-  can now easily configure Claude Desktop to seamlessly work with Ollama…]]'
-- '[[Changes/OpenCode/2026-08-21-desktop-register-the-archive-session-command-in-both-desktop-layouts|Desktop
-  Register the archive session command in both desktop layouts]]'
-- '[[Changes/Windsurf/2026-08-21-devin-desktop|Devin Desktop]]'
+- '[[Changes/Wispr Flow/2026-08-21-dictate-through-any-mic-including-virtual-ones-desktop|Dictate
+  Through Any Mic, Including Virtual Ones (Desktop)]]'
+- '[[Changes/Wispr Flow/2026-08-21-shortcuts-controls-desktop|Shortcuts & Controls
+  (Desktop)]]'
+- '[[Changes/Wispr Flow/2026-08-21-reports-that-never-get-lost-android|Reports That
+  Never Get Lost (Android)]]'
 source_release: '[[Releases/OpenCode/opencode-2026-08-24-v1-18-22-241bae74|opencode-2026-08-24-v1-18-22-241bae74]]'
 source_type: opencode_changelog
 theme: mobile-desktop
@@ -88,7 +89,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-08-21 · Windsurf · [[Changes/Windsurf/2026-08-21-devin-desktop|Devin Desktop]]
+- Earlier: 2026-08-21 · Wispr Flow · [[Changes/Wispr Flow/2026-08-21-reports-that-never-get-lost-android|Reports That Never Get Lost (Android)]]
 - Later: 2026-08-25 · Claude Code · [[Changes/Claude Code/2026-08-25-windows-macos-fixed-headless-sessions-not-cleaning-up-stale-entries-in-claude-se|Windows/macOS: Fixed headless sessions not cleaning up stale entries…]]
 <!-- chronolog:end -->
 

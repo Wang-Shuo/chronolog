@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 2c90a62032fff190f204ca5abc7925866733f27772c67a22582c7846e6dc2f4b
+machine_hash: 58fdba63ed9ebc04236c098b44f2e343d98d6841b9e5eb7d3542727d282d0f80
 product: runway
 product_name: Runway
 record:
@@ -43,9 +43,9 @@ record:
   title: Eleven v3
   type: change
 related_changes:
-- '[[Changes/HeyGen/2026-07-29-full-script-editing-before-render-edit-any-line-and-the-voice-updates-automatica|Full
-  script editing before render: Edit any line and the voice updates automatically]]'
 - '[[Changes/HeyGen/2026-07-29-why-it-matters|Why it matters]]'
+- '[[Changes/Superwhisper/2026-07-29-mlx-voice-models-are-now-hidden-on-intel-macs-where-they-aren-t-supported|MLX
+  voice models are now hidden on Intel Macs, where they aren''t supported]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-30-voice-mode-pauses-playing-media-before-recording-and-resumes-it-afterward-where|Voice
   mode pauses playing media before recording and resumes it afterward, where…]]'
 source_release: '[[Releases/Runway/runway-2026-07-30-2026-07-30-eleven-v3-2adc1643|runway-2026-07-30-2026-07-30-eleven-v3-2adc1643]]'

@@ -1,0 +1,12 @@
+{
+  "title": "SPA resource check",
+  "collapsed": true,
+  "mermaid": true,
+  "resourcePaths": [
+    "http://127.0.0.1:8877/chronolog/static/shared-b5bd891429325793bb6db00cbc57a1681543f3386a1380105e924a7a1fd8460f.css",
+    "http://127.0.0.1:8877/chronolog/static/shared-bbb5dfa8993fe0c79eb1ccc981ab412581bf0b2fccb98d1a928d4074b3da88f2.js",
+    "http://127.0.0.1:8877/chronolog/static/shared-82d3b9ad8eea2268f5ed4e40ef0e34f859febfbc1ee27bee48a3ac51b7cd2872.js"
+  ],
+  "stylesLoaded": true,
+  "spaSentinel": "same-document"
+}

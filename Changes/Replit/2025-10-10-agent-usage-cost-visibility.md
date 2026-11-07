@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: dceac9bf2ab72e8bf51c3bc023a83afb077627ff809765e47099d8c465c3bb53
+machine_hash: a8ed3ac8e5fd9a292259f07677d61d7faab4823b0d4c078ec88bd843f990c14f
 product: replit
 product_name: Replit
 record:
@@ -41,9 +41,10 @@ record:
   title: Agent usage cost visibility
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2025-10-07-websocket-events|WebSocket Events]]'
 - '[[Changes/Gemini CLI/2025-10-07-2-agent-mode-changes-in-v0-8-0|2 Agent Mode changes
   in v0.8.0]]'
+- '[[Changes/AnythingLLM/2025-10-09-10-agent-mode-changes-in-v1-9-0|10 Agent Mode
+  changes in v1.9.0]]'
 - '[[Changes/Replit/2025-10-10-webview-logging-experience|Webview logging experience]]'
 source_release: '[[Releases/Replit/replit-2025-10-10-2025-10-10-6e646996|replit-2025-10-10-2025-10-10-6e646996]]'
 source_type: replit_changelog
@@ -79,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2025-10-07 · Gemini CLI · [[Changes/Gemini CLI/2025-10-07-2-agent-mode-changes-in-v0-8-0|2 Agent Mode changes in v0.8.0]]
+- Earlier: 2025-10-09 · AnythingLLM · [[Changes/AnythingLLM/2025-10-09-10-agent-mode-changes-in-v1-9-0|10 Agent Mode changes in v1.9.0]]
 - Later: 2025-10-14 · ElevenLabs · [[Changes/ElevenLabs/2025-10-14-client-packages|Client Packages]]
 <!-- chronolog:end -->
 

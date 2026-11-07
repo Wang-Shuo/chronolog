@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 55e8c640c53bee594cee8e1d6736f54bb6976fdbd3c517eacc1761ab998245bc
+machine_hash: 3f6510981d6c802ef96098061b28e9ce5bd059d49f68d2f99cc11d61e2d54010
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,12 +46,12 @@ record:
   title: 2 Apps and Integrations changes in v2.1.247
   type: change
 related_changes:
-- '[[Changes/Dify/2026-08-25-28-apps-and-integrations-changes-in-1-17-0|28 Apps and
-  Integrations changes in 1.17.0]]'
-- '[[Changes/Gemini CLI/2026-08-25-ssr-agent-issue-fix-21919-fix-typescript-strict-null-errors-in-integration-tests|SSR
-  Agent Issue Fix (21919): Fix TypeScript strict-null errors in integration tests]]'
 - '[[Changes/Open WebUI/2026-08-25-4-apps-and-integrations-changes-in-v0-11-1|4 Apps
   and Integrations changes in v0.11.1]]'
+- '[[Changes/Raycast/2026-08-25-ai-added-support-for-mentioning-ai-extensions-when-replying-to-a-question-asked|AI
+  : Added support for mentioning AI extensions when replying to a question asked…]]'
+- '[[Changes/Raycast/2026-08-25-2-apps-and-integrations-changes-in-raycast-windows-2-0|2
+  Apps and Integrations changes in Raycast windows 2.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-26-v2-1-247-github-377320078-fc507178|claude-code-2026-08-26-v2-1-247-github-377320078-fc507178]]'
 source_type: github_releases
 theme: apps-integrations
@@ -90,7 +90,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.247
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-08-25 · Open WebUI · [[Changes/Open WebUI/2026-08-25-4-apps-and-integrations-changes-in-v0-11-1|4 Apps and Integrations changes in v0.11.1]]
+- Earlier: 2026-08-25 · Raycast · [[Changes/Raycast/2026-08-25-2-apps-and-integrations-changes-in-raycast-windows-2-0|2 Apps and Integrations changes in Raycast windows 2.0]]
 - Later: 2026-08-26 · Cline · [[Changes/Cline/2026-08-26-4-apps-and-integrations-changes-in-v4-1-16|4 Apps and Integrations changes in v4.1.16]]
 <!-- chronolog:end -->
 

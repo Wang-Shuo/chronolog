@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ce737699cf7457ccd3008ccfc8362fce94c26375a3c45b2982364d0c807358b0
+machine_hash: b05f8b7f115a923114078c979526e72f91d8583e904737c6d540a3b7ad8fdf0e
 product: open-webui
 product_name: Open WebUI
 record:
@@ -55,10 +55,9 @@ record:
     across…"
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-06-30-2-reliability-and-performance-changes-in-v0-31-1|2
-  Reliability and Performance changes in v0.31.1]]'
 - '[[Changes/OpenClaw/2026-06-30-4-reliability-and-performance-changes-in-v2026-6-11|4
   Reliability and Performance changes in v2026.6.11]]'
+- '[[Changes/Devin/2026-07-01-skills-analytics|Skills Analytics]]'
 - '[[Changes/Microsoft 365 Copilot/2026-07-01-ai-generated-survey-insights-with-copilot-highlights-web-viva-glint|AI-generated
   survey insights with Copilot Highlights Web (Viva Glint)]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-07-01-v0-10-2-github-347327188-9065e44f|open-webui-2026-07-01-v0-10-2-github-347327188-9065e44f]]'

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d708b8b010634e141392925cd7a3e8ea6bed73a97c5cecd3c79c0fa06270852b
+machine_hash: 758ad7c99b6e6a1050417e64a0235b362fbdab330c024718028f40bddfc04d3d
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -105,7 +105,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.145.0
 ## Nearby in Editor Experience
 
 - Earlier: 2026-07-21 · Claude Code · [[Changes/Claude Code/2026-07-21-added-emoji-shortcode-autocomplete-in-the-prompt-input-type-heart-to-insert-or-h|Added emoji shortcode autocomplete in the prompt input]]
-- Later: 2026-07-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-23-show-tab-in-settings-footer-to-switch-scope-tabs|Show Tab in /settings footer to switch scope tabs]]
+- Later: 2026-07-22 · Devin · [[Changes/Devin/2026-07-22-code-scan-profile-filters|Code Scan Profile Filters]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

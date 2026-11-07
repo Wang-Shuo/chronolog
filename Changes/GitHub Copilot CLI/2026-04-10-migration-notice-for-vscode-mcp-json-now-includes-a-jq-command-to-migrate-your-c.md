@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 71855c429b85b6e9fcf8f4a178688d6b5d4c86ecd8dce90bd62a7a5855c85dfa
+machine_hash: 55918ceab253878e7274fda2fbe472229d9efb32e24ae91f2f8160087432b378
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -42,10 +42,8 @@ record:
   title: Migration notice for .vscode/mcp.json now includes a jq command to migrate…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-10-4-apps-and-integrations-changes-in-v2-1-101|4
-  Apps and Integrations changes in v2.1.101]]'
-- '[[Changes/Codex CLI/2026-04-10-19-apps-and-integrations-changes-in-rust-v0-119-0|19
-  Apps and Integrations changes in rust-v0.119.0]]'
+- '[[Changes/Devin/2026-04-10-profile-integrations-filter|Profile Integrations Filter]]'
+- '[[Changes/Devin/2026-04-10-amplitude-mcp-server|Amplitude MCP Server]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-10-pretooluse-hooks-now-respect-modifiedargs-updatedinput-and-additionalcontext-fie|preToolUse
   hooks now respect modifiedArgs/updatedInput, and additionalContext fields]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-04-10-v1-0-23-github-307566282-7106e30b|github-copilot-cli-2026-04-10-v1-0-23-github-307566282-7106e30b]]'

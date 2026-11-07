@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e06d12d3792a8d6c138910527ccfa18a224258973e879310276a23f7761e80bd
+machine_hash: 9d333b044fad70548a3bd0c1f379967c083fb4f4a3fb3e1039530f67073eadfc
 product: opencode
 product_name: OpenCode
 record:
@@ -53,11 +53,10 @@ record:
   title: Core Let MCP OAuth configs set a callback port and include configured scopes…
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-05-20-core-opencode-login-now-defaults-to-https-console-opencode-ai|Core
-  opencode login now defaults to (source link)]]'
-- '[[Changes/OpenCode/2026-05-21-2-account-and-access-changes-in-v1-15-7|2 Account
-  and Access changes in v1.15.7]]'
 - '[[Changes/OpenCode/2026-05-21-added-grok-oauth-sign-in|Added Grok OAuth sign-in]]'
+- '[[Changes/Devin/2026-05-22-gitlab-oauth-scope-and-token-refresh|GitLab OAuth Scope
+  and Token Refresh]]'
+- '[[Changes/Devin/2026-05-22-mcp-oauth-resource-parameter|MCP OAuth Resource Parameter]]'
 source_release: '[[Releases/OpenCode/opencode-2026-05-22-v1-15-9-488e3668|opencode-2026-05-22-v1-15-9-488e3668]]'
 source_type: opencode_changelog
 theme: account-access
@@ -94,7 +93,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-05-21 · OpenCode · [[Changes/OpenCode/2026-05-21-added-grok-oauth-sign-in|Added Grok OAuth sign-in]]
+- Earlier: 2026-05-22 · Devin · [[Changes/Devin/2026-05-22-mcp-oauth-resource-parameter|MCP OAuth Resource Parameter]]
 - Later: 2026-05-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-23-2-account-and-access-changes-in-v1-0-52|2 Account and Access changes in v1.0.52]]
 <!-- chronolog:end -->
 

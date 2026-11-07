@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: cd9e28194918a6a582961a244606401514a57663cbc0c04b8570f37213281ead
+machine_hash: c2d3bba44b6fffb0fc8210e348433a0f966e580aec6b15f3f553ca2d2459bb22
 product: openhands
 product_name: OpenHands
 record:
@@ -55,10 +55,10 @@ record:
   title: 'chore: bump SDK deps…'
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-08-07-2-automation-and-scheduling-changes-in-v1-11-0|2
-  Automation and Scheduling changes in v1.11.0]]'
 - '[[Changes/Gemini CLI/2026-08-11-feat-caretaker-triage-implement-main-worker-execution-loop-and-egress-action-pub|feat(caretaker-triage):
   implement main worker execution loop and egress action publisher]]'
+- '[[Changes/Devin/2026-08-12-negated-string-operators-in-automation-conditions|Negated
+  String Operators in Automation Conditions]]'
 - '[[Changes/Claude Code/2026-08-13-pasted-and-clipboard-images-are-read-without-blocking-the-event-loop|Pasted
   and clipboard images are read without blocking the event loop]]'
 source_release: '[[Releases/OpenHands/openhands-2026-08-13-v1-13-0-github-369624211-7e45f0bf|openhands-2026-08-13-v1-13-0-github-369624211-7e45f0bf]]'

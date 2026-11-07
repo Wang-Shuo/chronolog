@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0b3a4d72a04e0e17c16adc5f57daef678d3cd64100f98d600490f9c0d6434555
+machine_hash: e1714f19d54c4c32fbdd9656ce746ce927c7a25a54ebfc7a24815bfa50ba1d95
 product: dify
 product_name: Dify
 record:
@@ -42,12 +42,11 @@ record:
   title: 'Feat: remove github star and community links if it is enterprise version'
   type: change
 related_changes:
-- '[[Changes/Descript/2024-08-27-ai-usage-dashboard-admin-view|AI Usage dashboard
-  admin view]]'
-- '[[Changes/Cline/2024-08-31-adds-support-for-reading-pdf-and-docx-files-try-turn-my-business-plan-docx-into|Adds
-  support for reading .pdf and .docx files…]]'
 - '[[Changes/Descript/2024-09-25-new-powers-for-enterprise-drive-admins|New powers
   for Enterprise Drive admins]]'
+- '[[Changes/Devin/2024-10-10-beta-devin-api|Beta Devin API]]'
+- '[[Changes/Devin/2024-11-01-increased-options-for-enterprise-users|Increased options
+  for Enterprise users]]'
 source_release: '[[Releases/Dify/dify-2024-12-03-0-13-0-github-188658250-1aa233f6|dify-2024-12-03-0-13-0-github-188658250-1aa233f6]]'
 source_type: github_releases
 theme: enterprise-admin
@@ -82,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2024-09-25 · Descript · [[Changes/Descript/2024-09-25-new-powers-for-enterprise-drive-admins|New powers for Enterprise Drive admins]]
+- Earlier: 2024-11-01 · Devin · [[Changes/Devin/2024-11-01-increased-options-for-enterprise-users|Increased options for Enterprise users]]
 - Later: 2024-12-27 · Replit · [[Changes/Replit/2024-12-27-teams-and-enterprise|Teams and Enterprise]]
 <!-- chronolog:end -->
 

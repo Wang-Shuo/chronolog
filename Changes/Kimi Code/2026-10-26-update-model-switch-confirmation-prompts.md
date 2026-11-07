@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 8685c5529b5416dbd72c4a4de2d69b9fa837f1eaaa5f99fe1835868e57037a58
+machine_hash: f6cc05214f9365e38d36e42404aa64d95e085e9e2d3056440233b71347629e35
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -80,7 +80,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-10-26 · Google Antigravity · [[Changes/Google Antigravity/2026-10-26-enabled-gemini-4-argon-in-antigravity-ide-for-eligible-tiers-bringing-google-s-n|Enabled Gemini 4 Argon in Antigravity IDE for eligible tiers, bringing Google's…]]
-- Later: 2026-10-26 · Runway · [[Changes/Runway/2026-10-26-describe-the-creative-app-you-need-in-plain-language-and-app-studio-builds-it-wi|App Studio]]
+- Later: 2026-10-26 · Krea · [[Changes/Krea/2026-10-26-workspace-and-model-updates|Workspace and model updates]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

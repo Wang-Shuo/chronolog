@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9c0904e3dcd8cdec8146b11a43c467da457481e16de1cf0072d732d51fd982c8
+machine_hash: 772cdb5dbcd0549ae3eccb4397ece38cd7aeefe2aa73b12c9f5df1612f65f799
 product: dify
 product_name: Dify
 record:
@@ -79,7 +79,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2023-11-15 · Cursor · [[Changes/Cursor/2023-11-15-cursor-is-now-based-on-vs-code-1-84-2-notably-this-fixes-a-few-notebook-bugs-and|Cursor is now based on VS Code 1.84.2]]
-- Later: 2023-12-16 · Cursor · [[Changes/Cursor/2023-12-16-copilot-we-ve-continued-to-improve-the-copilot-ghost-text-experience-surprisingl|Copilot++: We've continued to improve the Copilot++ ghost text experience]]
+- Later: 2023-11-29 · Raycast · [[Changes/Raycast/2023-11-29-preferences-extensions-that-use-space-as-an-alias-will-no-longer-appear-as-empty|Preferences: Extensions that use space as an alias will no longer appear as empty space]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

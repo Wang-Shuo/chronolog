@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ab4ac61537fef0e16469460cf4a890324cbf98ada1dc85dd58b3021514cd0a24
+machine_hash: 7cf9f771111987706bbe0bc97d83b8ad4a5a452986791c0fb0ad8dd171b35513
 product: open-webui
 product_name: Open WebUI
 record:
@@ -54,12 +54,11 @@ record:
   title: 3 Editor Experience changes in v0.7.0
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-01-08-afterfileedit-hook-now-correctly-provides-old-string-with-the-file-s-previous-co|afterFileEdit
-  hook now correctly provides old_string with the file''s previous…]]'
 - '[[Changes/v0/2026-01-08-added-an-inline-chat-in-the-new-vs-code-editor|Added an
   inline chat in the new VS Code editor]]'
 - '[[Changes/Codex CLI/2026-01-09-8939-chore-move-app-server-tests-from-chat-completion-to-responses-celia-oai|♯8939
   chore move app server tests from chat completion to responses @celia-oai]]'
+- '[[Changes/Devin/2026-01-09-git-settings-reorganization|Git Settings Reorganization]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-01-09-v0-7-0-github-275585328-a4da522c|open-webui-2026-01-09-v0-7-0-github-275585328-a4da522c]]'
 source_type: github_releases
 theme: editor-experience
@@ -109,7 +108,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.7.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-01-09 · Codex CLI · [[Changes/Codex CLI/2026-01-09-8939-chore-move-app-server-tests-from-chat-completion-to-responses-celia-oai|♯8939 chore move app server tests from chat completion to responses @celia-oai]]
+- Earlier: 2026-01-09 · Devin · [[Changes/Devin/2026-01-09-git-settings-reorganization|Git Settings Reorganization]]
 - Later: 2026-01-10 · Open WebUI · [[Changes/Open WebUI/2026-01-10-2-editor-experience-changes-in-v0-7-2|2 Editor Experience changes in v0.7.2]]
 <!-- chronolog:end -->
 

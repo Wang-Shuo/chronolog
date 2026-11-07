@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: d2a7c54e54a7bd8f507fc7fe6c9899f79343b1b9ab9bd939cfadf908cff62827
+machine_hash: 0ca85235fc17f44b07a6913a67a4891d932688a2c7e1ca7799723d610c15eded
 product: manus
 product_name: Manus
 record:
@@ -55,10 +55,10 @@ record:
   title: Introducing Manus Cloud Browser
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2025-06-10-4-safety-and-privacy-changes-in-v0-6-14|4 Safety
-  and Privacy changes in v0.6.14]]'
 - '[[Changes/Dify/2025-06-11-2-safety-and-privacy-changes-in-1-4-2|2 Safety and Privacy
   changes in 1.4.2]]'
+- '[[Changes/Raycast/2025-06-11-this-release-aims-to-fix-a-number-of-instability-issues-that-you-have-experience|This
+  release aims to fix a number of instability issues that you have experienced…]]'
 - '[[Changes/Open WebUI/2025-06-16-2-safety-and-privacy-changes-in-v0-6-15|2 Safety
   and Privacy changes in v0.6.15]]'
 source_release: '[[Releases/Manus/manus-2025-06-20-sbzep8qbtsbg2zdm2qzv6l-c22fa3c3|manus-2025-06-20-sbzep8qbtsbg2zdm2qzv6l-c22fa3c3]]'

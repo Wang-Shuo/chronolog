@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5350aac020d86da7b3935f5d672553e45a4bc182c6fe5915c56918419616f50c
+machine_hash: 15c3b0fabd5ff53211f5181270227485d1ef799335e87e88f04f5a2f8a74ddcf
 product: cursor
 product_name: Cursor
 record:
@@ -43,8 +43,9 @@ record:
   title: 2 Interface Experience changes in 0.46.x
   type: change
 related_changes:
-- '[[Changes/Descript/2025-02-11-add-scene-in-script-toolbar|Add scene in Script toolbar]]'
-- '[[Changes/Descript/2025-02-11-smart-transitions|Smart Transitions]]'
+- '[[Changes/AnythingLLM/2025-02-18-chore-onboarding-language-translations-by-timothycarambat-in-https-github-com-mi|CHORE
+  Onboarding language translations]]'
+- '[[Changes/LM Studio/2025-02-18-turn-on-in-chat-sidebar|Turn on in chat sidebar]]'
 - "[[Changes/Notion/2025-02-18-see-who-has-access-to-your-doc|See who has access to
   your doc \U0001F440]]"
 source_release: '[[Releases/Cursor/cursor-2025-02-19-0-46-x-https-cursor-com-changelog-0-46-x-640a0a10|cursor-2025-02-19-0-46-x-https-cursor-com-changelog-0-46-x-640a0a10]]'

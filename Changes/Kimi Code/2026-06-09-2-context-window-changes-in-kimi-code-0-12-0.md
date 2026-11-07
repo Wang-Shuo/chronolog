@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: beb0a622f4978a422b268d0a21747f6f6af09de265ec36a94732a57cc22b57c1
+machine_hash: b03316f1df94d899a1b81f57f7d4722cbfe010884e91e212571121a005dd138d
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -43,10 +43,10 @@ record:
   title: 2 Context Window changes in Kimi Code 0.12.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-08-4-context-window-changes-in-rust-v0-138-0|4 Context
-  Window changes in rust-v0.138.0]]'
 - '[[Changes/v0/2026-06-08-press-cmd-k-to-open-a-new-context-aware-command-palette-and-jump-to-chats-projec|Press
   Cmd+K to open a new context-aware command palette and jump to chats, projects…]]'
+- '[[Changes/AnythingLLM/2026-06-09-2-context-window-changes-in-v1-14-0|2 Context
+  Window changes in v1.14.0]]'
 - '[[Changes/Codex CLI/2026-06-09-3-context-window-changes-in-rust-v0-139-0|3 Context
   Window changes in rust-v0.139.0]]'
 source_release: '[[Releases/Kimi Code/kimi-code-2026-06-09-0-12-0-fb6901e1|kimi-code-2026-06-09-0-12-0-fb6901e1]]'

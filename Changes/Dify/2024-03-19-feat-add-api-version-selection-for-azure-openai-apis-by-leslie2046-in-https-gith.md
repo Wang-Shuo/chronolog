@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: fea3fb999e2a468c7efe850741856c4a9c8b8b2e9790d3ba368dac50380bcd95
+machine_hash: cab1cd9c88f80abab8169888cbc20aeb826aa242bce1a6f1b468646874e7e46a
 product: dify
 product_name: Dify
 record:
@@ -44,10 +44,10 @@ record:
   title: feat:add api-version selection for azure openai APIs
   type: change
 related_changes:
-- '[[Changes/Dify/2024-02-01-2-apps-and-integrations-changes-in-0-5-3|2 Apps and Integrations
-  changes in 0.5.3]]'
 - '[[Changes/Dify/2024-02-06-3-apps-and-integrations-changes-in-0-5-4|3 Apps and Integrations
   changes in 0.5.4]]'
+- '[[Changes/Raycast/2024-02-07-2-apps-and-integrations-changes-in-raycast-macos-v1-1-67-0|2
+  Apps and Integrations changes in Raycast macos-v1 1.67.0]]'
 - '[[Changes/Dify/2024-02-19-chore-add-type-files-and-unit-test-ci-for-node-js-sdk-by-tseian-in-https-github|Chore:
   Add type files and unit test ci for Node.js SDK]]'
 source_release: '[[Releases/Dify/dify-2024-03-19-0-5-10-github-147241291-79cab280|dify-2024-03-19-0-5-10-github-147241291-79cab280]]'

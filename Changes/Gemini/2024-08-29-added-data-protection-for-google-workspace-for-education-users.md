@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: df428c792184573d97f231ef2bd4752e86623d640397b54362ebdd884c9edae4
+machine_hash: 55aa3ed18eff6f5b5a645c1c8fe3fc19e0e8a5aa8a08c44353de3531ec127971
 product: gemini
 product_name: Gemini
 record:

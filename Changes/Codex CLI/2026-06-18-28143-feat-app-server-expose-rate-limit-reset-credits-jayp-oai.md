@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 4de7a69cb65f8845f4f67457a2492344a22ff2127b90f73d0057750e0389e1b0
+machine_hash: b03ece4ff534c4e4429c28288c24d93b11a2b5016ec27adeeb29a625c102bf0d
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,12 +43,10 @@ record:
   title: '#28143 feat(app-server): expose rate-limit reset credits @jayp-oai'
   type: change
 related_changes:
-- '[[Changes/Descript/2026-06-11-always-show-ai-credits-and-minutes-usage|Always show
-  AI credits and minutes usage]]'
-- '[[Changes/Descript/2026-06-11-the-customer-obsessed-telethon|The Customer-Obsessed
-  Telethon]]'
-- '[[Changes/Google Antigravity/2026-06-11-quota-screen-redesign-clearer-unambiguous-view-into-used-versus-remaining-credit|Quota
-  screen redesign]]'
+- '[[Changes/Recraft/2026-06-12-large-8-credits|Large: 8 credits]]'
+- '[[Changes/Recraft/2026-06-12-quality-10-credits|Quality: 10 credits]]'
+- '[[Changes/Krea/2026-06-13-mcp-billing-now-follows-your-auth-method|MCP billing
+  now follows your auth method]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-06-18-rust-v0-141-0-github-341160952-94bdbd75|codex-cli-2026-06-18-rust-v0-141-0-github-341160952-94bdbd75]]'
 source_type: github_releases
 theme: pricing-model
@@ -85,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-06-11 · Google Antigravity · [[Changes/Google Antigravity/2026-06-11-quota-screen-redesign-clearer-unambiguous-view-into-used-versus-remaining-credit|Quota screen redesign]]
+- Earlier: 2026-06-13 · Krea · [[Changes/Krea/2026-06-13-mcp-billing-now-follows-your-auth-method|MCP billing now follows your auth method]]
 - Later: 2026-06-18 · Lovable · [[Changes/Lovable/2026-06-18-one-credit-balance-and-clearer-usage-insights|One credit balance and clearer usage insights]]
 <!-- chronolog:end -->
 

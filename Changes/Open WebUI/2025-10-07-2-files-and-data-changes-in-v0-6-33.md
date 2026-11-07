@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d2ec90c547391bca32f2202288f44cb3dc3a9b0e7762bd3822cca1e1b2ff2406
+machine_hash: a520ff694e9e40be4f16610c1593682ef7cc64b8832309af968aa354e4e3f331
 product: open-webui
 product_name: Open WebUI
 record:
@@ -44,8 +44,8 @@ record:
   title: 2 Files and Data changes in v0.6.33
   type: change
 related_changes:
-- '[[Changes/Dify/2025-09-22-6-files-and-data-changes-in-1-9-0|6 Files and Data changes
-  in 1.9.0]]'
+- '[[Changes/Recraft/2025-09-23-we-ve-opened-a-waitlist-for-chat-mode-https-www-recraft-ai-chat-beta-utm-source|Get
+  early access to Chat mode]]'
 - "[[Changes/Open WebUI/2025-09-25-file-upload-handling-was-improved-to-properly-recognize-uploaded-files-even-when|\U0001F4CE
   File upload handling was improved to properly recognize uploaded files even…]]"
 - '[[Changes/Gemini CLI/2025-10-07-2-files-and-data-changes-in-v0-8-0|2 Files and
@@ -93,7 +93,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.6.33
 ## Nearby in Files and Data
 
 - Earlier: 2025-10-07 · Gemini CLI · [[Changes/Gemini CLI/2025-10-07-2-files-and-data-changes-in-v0-8-0|2 Files and Data changes in v0.8.0]]
-- Later: 2025-10-16 · Open WebUI · [[Changes/Open WebUI/2025-10-16-2-files-and-data-changes-in-v0-6-34|2 Files and Data changes in v0.6.34]]
+- Later: 2025-10-09 · AnythingLLM · [[Changes/AnythingLLM/2025-10-09-2-files-and-data-changes-in-v1-9-0|2 Files and Data changes in v1.9.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

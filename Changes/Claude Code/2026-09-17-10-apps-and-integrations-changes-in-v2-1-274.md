@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 86b4f8601e60d43afb3e0caeaa9bd586c837bf091a0255a15ec5cca547375b02
+machine_hash: 41200409028529033cfe2db4b43478b817a604c96fe8db4a0c43bc8485a640c1
 product: claude-code
 product_name: Claude Code
 record:
@@ -77,8 +77,8 @@ record:
   title: 10 Apps and Integrations changes in v2.1.274
   type: change
 related_changes:
-- '[[Changes/Claude/2026-09-16-claude-cowork-comes-to-every-conversation|Claude Cowork
-  comes to every conversation]]'
+- '[[Changes/Devin/2026-09-16-install-a-personal-plugin-from-a-directory|Install a
+  Personal Plugin from a Directory]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-16-20-apps-and-integrations-changes-in-v1-0-85|20
   Apps and Integrations changes in v1.0.85]]'
 - '[[Changes/OpenHands/2026-09-16-9-apps-and-integrations-changes-in-v1-19-0|9 Apps

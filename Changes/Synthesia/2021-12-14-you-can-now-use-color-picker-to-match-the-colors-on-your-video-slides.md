@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b2002c23e7f46a8c270348886a81c68b8386b507b4c9384214ad1d2937695754
+machine_hash: 610cc1d419b56f07799dac704f6384d564388f1637593f7e88dc89cb22cd4aa4
 product: synthesia
 product_name: Synthesia
 record:
@@ -41,13 +41,11 @@ record:
   title: Color picker
   type: change
 related_changes:
-- '[[Changes/Notion/2021-09-08-now-it-s-much-easier-to-download-copy-share-images-from-ios-while-you-re-on-the|Now
-  it''s much easier to download, copy & share images from iOS while you''re on the
-  go]]'
-- '[[Changes/Descript/2021-09-21-preview-our-new-clip-inspector|Preview our new clip
-  inspector]]'
+- '[[Changes/Raycast/2021-10-13-command-1-9-shortcuts-now-work-as-expected-in-the-search-menu-items-command|Command
+  + 1...9 shortcuts now work as expected in the Search Menu Items command]]'
 - '[[Changes/Notion/2021-11-16-the-slash-command-dropdown-menu-now-returns-more-relevant-results-i-e-table-disp|The
   slash command dropdown menu now returns more relevant results…]]'
+- '[[Changes/Raycast/2021-11-30-new-onboarding-experience|New Onboarding Experience]]'
 source_release: '[[Releases/Synthesia/synthesia-2021-12-14-https-www-synthesia-io-updates-color-picker-2b2ebfff|synthesia-2021-12-14-https-www-synthesia-io-updates-color-picker-2b2ebfff]]'
 source_type: synthesia_changelog
 theme: interface-experience
@@ -74,7 +72,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2021-11-16 · Notion · [[Changes/Notion/2021-11-16-the-slash-command-dropdown-menu-now-returns-more-relevant-results-i-e-table-disp|The slash command dropdown menu now returns more relevant results…]]
+- Earlier: 2021-11-30 · Raycast · [[Changes/Raycast/2021-11-30-new-onboarding-experience|New Onboarding Experience]]
 - Later: 2021-12-23 · Notion · [[Changes/Notion/2021-12-23-add-background-colors-to-simple-table-rows-columns|Add background colors to simple table rows & columns]]
 <!-- chronolog:end -->
 

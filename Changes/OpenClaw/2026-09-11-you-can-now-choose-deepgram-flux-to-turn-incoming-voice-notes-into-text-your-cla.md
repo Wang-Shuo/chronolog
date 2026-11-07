@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 25734a6998cc34bdee2cb29a337b498a3dce1cff430e7973d2ce9442c923026e
+machine_hash: 341abd56d2568304c92decd9aa33eb696f09c5fd5c4f949804d9053dc03defc6
 product: openclaw
 product_name: OpenClaw
 record:
@@ -47,11 +47,12 @@ record:
     use…
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-09-07-workspaces|Workspaces]]'
 - '[[Changes/OpenClaw/2026-09-08-8-voice-and-audio-changes-in-v2026-9-3|8 Voice and
   Audio changes in v2026.9.3]]'
 - '[[Changes/Codex CLI/2026-09-09-20-voice-and-audio-changes-in-rust-v0-154-0|20 Voice
   and Audio changes in rust-v0.154.0]]'
+- '[[Changes/Raycast/2026-09-10-dictation-improved-reliability-when-the-active-audio-device-changes|Dictation:
+  Improved reliability when the active audio device changes]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-09-11-v2026-9-4-6cdeafb2|openclaw-2026-09-11-v2026-9-4-6cdeafb2]]'
 source_type: openclaw_changelog
 theme: voice
@@ -106,7 +107,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-09-09 · Codex CLI · [[Changes/Codex CLI/2026-09-09-20-voice-and-audio-changes-in-rust-v0-154-0|20 Voice and Audio changes in rust-v0.154.0]]
+- Earlier: 2026-09-10 · Raycast · [[Changes/Raycast/2026-09-10-dictation-improved-reliability-when-the-active-audio-device-changes|Dictation: Improved reliability when the active audio device changes]]
 - Later: 2026-09-12 · Qoder · [[Changes/Qoder/2026-09-12-real-time-voice-improved-connection-stability-reducing-the-likelihood-of-unexpec|Real-time voice: Improved connection stability, reducing the likelihood…]]
 <!-- chronolog:end -->
 

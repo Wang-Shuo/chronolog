@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: a517225517f361c4f9a7c91fa0fc1982f4c8a6bcc00918036b7bf2c590ccbf5b
+machine_hash: fe3fc827aca082f211af6b3ee80d8173034d71fde062a99105a745690ef55aa8
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -55,10 +55,8 @@ record:
   title: File edits, terminal commands, and file reads between agent replies now group…
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-10-06-feat-conversation-give-the-drawer-tab-strip-real-tab-semantics-by-errmakov-in-ht|feat(conversation):
-  give the drawer tab strip real tab semantics]]'
-- '[[Changes/Claude Code/2026-10-07-improved-the-bash-edit-diff-note-to-say-the-listed-files-changed-while-the-comma|Improved
-  the Bash edit diff note to say the listed files changed while the command…]]'
+- '[[Changes/Devin/2026-10-07-analytics|Analytics]]'
+- '[[Changes/Devin/2026-10-07-preview-chips-are-links|Preview Chips Are Links]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-07-read-user-settings-only-from-copilot-settings-json-user-setting-keys-in-copilot|Read
   user settings only from ~/.copilot/settings.json]]'
 source_release: '[[Releases/Google Antigravity/google-antigravity-2026-10-07-rel-hub-2-21-1-b2504405|google-antigravity-2026-10-07-rel-hub-2-21-1-b2504405]]'

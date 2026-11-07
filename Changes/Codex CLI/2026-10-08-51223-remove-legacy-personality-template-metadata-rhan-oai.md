@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1a4e4ea05094af48e0202ebfd078845001589ae01943565a0a50e0b243b7397e
+machine_hash: e5b2408bebc298042f99d9bf65c7fdbd38876311dc95d2144567e66e29ad899e
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -41,10 +41,10 @@ record:
   title: '#51223 Remove legacy personality template metadata @rhan-oai'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-01-49000-isolate-the-memory-startup-metadata-test-from-git-enrichment-jif-oai|♯49000
-  Isolate the memory startup metadata test from Git enrichment @jif-oai]]'
-- '[[Changes/OpenClaw/2026-10-03-2-memory-and-personalization-changes-in-v2026-9-8|2
-  Memory and Personalization changes in v2026.9.8]]'
+- '[[Changes/Raycast/2026-10-05-file-search-the-file-indexer-uses-about-60-less-memory-when-it-updates-its-index|File
+  Search : The file indexer uses about 60% less memory when it updates its index]]'
+- '[[Changes/Raycast/2026-10-05-file-search-the-file-indexer-uses-about-60-less-memory-when-it-updates-its-index-ee1d12|File
+  Search : The file indexer uses about 60% less memory when it updates its index]]'
 - '[[Changes/Codex CLI/2026-10-07-49876-remove-personality-plumbing-from-the-tui-etraut-openai|♯49876
   Remove personality plumbing from the TUI @etraut-openai]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-10-08-rust-v0-162-0-github-407151970-b80d60db|codex-cli-2026-10-08-rust-v0-162-0-github-407151970-b80d60db]]'

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 69242b0a0e2e5536002a5ac884d91c7cfed61167ffa22166f9656cb6699c3cb0
+machine_hash: b2416eba62e1ea44860d34ccd03499aa2e8e5f07ed6cd1d62d438647ac2e3f6a
 product: openclaw
 product_name: OpenClaw
 record:
@@ -61,12 +61,12 @@ record:
   title: 7 Voice and Audio changes in v2026.11.1
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-11-03-4-voice-and-audio-changes-in-v0-13-0|4 Voice and
-  Audio changes in v0.13.0]]'
-- '[[Changes/OpenClaw/2026-11-03-6-voice-and-audio-changes-in-v2026-10-10|6 Voice
-  and Audio changes in v2026.10.10]]'
 - '[[Changes/Dify/2026-11-04-2-voice-and-audio-changes-in-1-19-0|2 Voice and Audio
   changes in 1.19.0]]'
+- '[[Changes/Raycast/2026-11-04-3-voice-and-audio-changes-in-raycast-macos-2-11|3
+  Voice and Audio changes in Raycast macos 2.11]]'
+- '[[Changes/Raycast/2026-11-04-3-voice-and-audio-changes-in-raycast-windows-2-11|3
+  Voice and Audio changes in Raycast windows 2.11]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-11-05-v2026-11-1-7d3de823|openclaw-2026-11-05-v2026-11-1-7d3de823]]'
 source_type: openclaw_changelog
 theme: voice
@@ -123,8 +123,8 @@ Source: https://docs.openclaw.ai/releases/2026.11.1
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-11-04 · Dify · [[Changes/Dify/2026-11-04-2-voice-and-audio-changes-in-1-19-0|2 Voice and Audio changes in 1.19.0]]
-- Later: 2026-11-06 · Codex CLI · [[Changes/Codex CLI/2026-11-06-4-voice-and-audio-changes-in-rust-v0-167-0|4 Voice and Audio changes in rust-v0.167.0]]
+- Earlier: 2026-11-04 · Raycast · [[Changes/Raycast/2026-11-04-3-voice-and-audio-changes-in-raycast-windows-2-11|3 Voice and Audio changes in Raycast windows 2.11]]
+- Later: 2026-11-05 · Superwhisper · [[Changes/Superwhisper/2026-11-05-import-vocabulary-and-dictation-history-from-wispr-flow-aqua-voice-typeless-and|Import vocabulary and dictation history from Wispr Flow, Aqua Voice, Typeless…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

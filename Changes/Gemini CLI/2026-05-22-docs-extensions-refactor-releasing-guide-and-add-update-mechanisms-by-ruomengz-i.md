@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5e4e6ceaf1fdd0562d3edc609ce3d537cdc86642ef4eb83663f33461f4f3ebd7
+machine_hash: be18aa5bf6f2612125fec4f41c9b6f6856a3666859965f840c3e0e7c185c6739
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -44,12 +44,10 @@ record:
   title: 'docs(extensions): refactor releasing guide and add update mechanisms'
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-05-21-app-connectors-google-maps-platform-semrush-and-tiktok|App
-  connectors: Google Maps Platform, Semrush, and TikTok]]'
-- '[[Changes/OpenCode/2026-05-21-sdk-v2-global-event-streams-now-include-account-add-remove-and-switch-events|SDK
-  V2 global event streams now include account add, remove, and switch events]]'
 - '[[Changes/Claude Code/2026-05-22-2-apps-and-integrations-changes-in-v2-1-149|2
   Apps and Integrations changes in v2.1.149]]'
+- '[[Changes/Devin/2026-05-22-posthog-mcp|PostHog MCP]]'
+- '[[Changes/Devin/2026-05-22-slack-channel-override|Slack Channel Override]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-05-22-v0-43-0-github-327485557-9b4df16a|gemini-cli-2026-05-22-v0-43-0-github-327485557-9b4df16a]]'
 source_type: github_releases
 theme: apps-integrations
@@ -87,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-05-22 · Claude Code · [[Changes/Claude Code/2026-05-22-2-apps-and-integrations-changes-in-v2-1-149|2 Apps and Integrations changes in v2.1.149]]
+- Earlier: 2026-05-22 · Devin · [[Changes/Devin/2026-05-22-slack-channel-override|Slack Channel Override]]
 - Later: 2026-05-22 · Google Antigravity · [[Changes/Google Antigravity/2026-05-22-antigravity-ide-integration|Antigravity IDE integration]]
 <!-- chronolog:end -->
 

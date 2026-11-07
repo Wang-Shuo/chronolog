@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 3da20889c72a98a3c2a386f94f9097f56252a0e9baac1eb77b33cd1fe9d97b4d
+machine_hash: c705a06c2a3258bf80bb953c2ba12d1def8dc771727c45d9a5a8be311f34123f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -43,10 +43,10 @@ record:
   title: More messages, larger file uploads, and expanded image generation
   type: change
 related_changes:
-- '[[Changes/Gamma/2025-07-31-this-week-s-updates-are-all-about-giving-you-more-control-more-capabilities-and|This
-  week’s updates are all about giving you more control, more capabilities…]]'
 - '[[Changes/ChatGPT/2025-08-08-we-re-rolling-out-a-small-update-to-image-generation-for-chatgpt-free-tier-users|Image
   generation update to ChatGPT Free]]'
+- '[[Changes/Recraft/2025-08-08-we-ve-added-a-new-batch-of-b200-gpus-making-image-generation-in-recraft-up-to-2|2×
+  faster image generation, 3× faster upscale]]'
 - '[[Changes/Replit/2025-08-08-image-generation-full-rollout|Image generation full
   rollout]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-08-18-introducing-chatgpt-go-fbc1ef7a|chatgpt-2025-08-18-introducing-chatgpt-go-fbc1ef7a]]'
@@ -79,7 +79,7 @@ type: change
 ## Nearby in Image Generation
 
 - Earlier: 2025-08-08 · Replit · [[Changes/Replit/2025-08-08-image-generation-full-rollout|Image generation full rollout]]
-- Later: 2025-08-21 · Open WebUI · [[Changes/Open WebUI/2025-08-21-resolved-image-generation-api-size-parameter-issue-fixed-a-bug-where-the-api-v1|🖼️ Resolved Image Generation API Size Parameter Issue]]
+- Later: 2025-08-20 · Recraft · [[Changes/Recraft/2025-08-20-ever-wanted-to-just-describe-what-you-want-instead-of-scrolling-through-a-list-o|Ever wanted to just describe what you want instead of scrolling through a list…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

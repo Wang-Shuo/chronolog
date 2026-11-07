@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 1d12956a65809dfcdd7c0ba3569d7c68e10331d75c17229ea4de5976b2b310af
+machine_hash: 8bc5421016e4f05be6824bdeb7ba7dbeb11277c8b5ad4d4336d0a8c661865b81
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -44,11 +44,12 @@ record:
   title: Android SDK
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2025-11-27-react|React]]'
 - '[[Changes/HeyGen/2025-11-30-for-course-creators-coaches-and-anyone-who-needs-to-move-fast-the-android-app-pu|For
   course creators, coaches, and anyone who needs to move fast, the Android app…]]'
 - '[[Changes/Codex CLI/2025-12-02-execution-gains-an-experimental-exp-model-unified-exec-pruning-to-limit-session|Execution
   gains an experimental “exp” model, unified exec pruning to limit session…]]'
+- '[[Changes/Raycast/2025-12-05-misc-glassified-toast-message-to-match-ios-26|Misc:
+  Glassified toast message to match iOS 26]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2025-12-08-2025-12-08-7be8ac95|elevenlabs-2025-12-08-2025-12-08-7be8ac95]]'
 source_type: elevenlabs_changelog
 theme: mobile-desktop
@@ -91,7 +92,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2025-12-02 · Codex CLI · [[Changes/Codex CLI/2025-12-02-execution-gains-an-experimental-exp-model-unified-exec-pruning-to-limit-session|Execution gains an experimental “exp” model, unified exec pruning to limit session…]]
+- Earlier: 2025-12-05 · Raycast · [[Changes/Raycast/2025-12-05-misc-glassified-toast-message-to-match-ios-26|Misc: Glassified toast message to match iOS 26]]
 - Later: 2025-12-09 · Codex CLI · [[Changes/Codex CLI/2025-12-09-4-mobile-and-desktop-changes-in-rust-v0-66-0|4 Mobile and Desktop changes in rust-v0.66.0]]
 <!-- chronolog:end -->
 

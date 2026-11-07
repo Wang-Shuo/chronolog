@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 49f66fd6a75f8e2b9a447fc0e764ce15454e290dfcd616f15598d08d9346ce0e
+machine_hash: a105c58d613deb1a516c421be81aa883b6eeae0e9e164e7b5e2e8a591199dec1
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -41,8 +41,8 @@ record:
   title: '[#3323] chore: try switching to cargo nextest to speed up CI builds'
   type: change
 related_changes:
-- '[[Changes/Ollama/2025-09-04-embeddinggemma-https-ollama-com-library-embeddinggemma-a-new-open-embedding-mode|EmbeddingGemma((source
-  link) a new open embedding…]]'
+- '[[Changes/Devin/2025-09-05-various-reliability-performance-and-usability-improvements-across-the-app|Various
+  reliability, performance, and usability improvements across the app]]'
 - '[[Changes/Gemini CLI/2025-09-09-improve-performance-of-shell-commands-with-lots-of-output-by-jakemac53-in-https|improve
   performance of shell commands with lots of output]]'
 - '[[Changes/Open WebUI/2025-09-09-5-reliability-and-performance-changes-in-v0-6-27|5

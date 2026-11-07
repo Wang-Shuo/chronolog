@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b19cc95371a62ea053bc9eb51e5f414e3773d1612289c5a8275e038baa44c5f3
+machine_hash: 3dabf1ae7bc2109e448fa3796e402d38328f333434f18bc6b002d351ced03b47
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,8 +43,8 @@ record:
     with `--resume`
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-09-14-2-reliability-and-performance-changes-in-v0-34-1|2
-  Reliability and Performance changes in v0.34.1]]'
+- '[[Changes/Superwhisper/2026-09-14-faster-offline-model-startup|Faster offline model
+  startup]]'
 - '[[Changes/Claude Code/2026-09-15-improved-responsiveness-in-long-sessions-hook-progress-and-sub-agent-activity-no|Improved
   responsiveness in long sessions]]'
 - '[[Changes/Google Antigravity/2026-09-15-removed-a-redundant-scan-of-your-skills-rules-and-other-customization-files-that|Removed

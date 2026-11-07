@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 951dc7904ea1fe2f789fd80fa2889d00da68c767082122610989aad06a260b98
+machine_hash: 65c4de4057a142d87830edef1040f93c0a017d4e7b0ae23861512eb38dcca308
 product: ollama
 product_name: Ollama
 record:
@@ -77,7 +77,7 @@ type: change
 ## Nearby in Search and Browsing
 
 - Earlier: 2024-06-29 · OpenHands · [[Changes/OpenHands/2024-06-29-5-search-and-browsing-changes-in-0-7-0|5 Search and Browsing changes in 0.7.0]]
-- Later: 2024-09-04 · Open WebUI · [[Changes/Open WebUI/2024-09-04-2-search-and-browsing-changes-in-v0-3-17|2 Search and Browsing changes in v0.3.17]]
+- Later: 2024-07-26 · AnythingLLM · [[Changes/AnythingLLM/2024-07-26-feat-bing-search-api-web-search-provider-by-shatfield4-in-https-github-com-mintp|FEAT Bing Search API web search provider]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

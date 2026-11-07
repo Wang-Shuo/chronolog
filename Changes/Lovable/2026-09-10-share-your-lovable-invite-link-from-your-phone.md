@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 920f20d8557e596548479a2de90ee3394251711c474c8e8ada1625442b6321a1
+machine_hash: 5a365ac9e8404f4a5aacd02261e04e01271c8fa3c5864f93c02fabce259c70a4
 product: lovable
 product_name: Lovable
 record:
@@ -96,7 +96,7 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2026-09-10 · Dify · [[Changes/Dify/2026-09-10-4-pricing-model-changes-in-1-17-1|4 Pricing Model changes in 1.17.1]]
-- Later: 2026-09-11 · OpenClaw · [[Changes/OpenClaw/2026-09-11-3-pricing-model-changes-in-v2026-9-4|3 Pricing Model changes in v2026.9.4]]
+- Later: 2026-09-10 · Raycast · [[Changes/Raycast/2026-09-10-ai-credits-and-new-pro-plans|AI Credits and New Pro Plans]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

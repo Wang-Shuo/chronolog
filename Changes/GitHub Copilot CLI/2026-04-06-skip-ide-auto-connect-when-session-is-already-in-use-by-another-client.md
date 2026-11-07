@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ca9d5c6c8a145e26c442306dbe52d7602100fde88aee534881d84cdd87422bca
+machine_hash: 110f906c5939307dc421ab5399e74c56cfd4befd1f4a7149b2da0cf99ca32805
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -40,9 +40,10 @@ record:
   title: Skip IDE auto-connect when session is already in use by another client
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-04-02-2-editor-experience-changes-in-3-0|2 Editor Experience
-  changes in 3.0]]'
-- '[[Changes/Cursor/2026-04-02-agent-tabs-in-the-editor|Agent Tabs in the Editor]]'
+- '[[Changes/Raycast/2026-04-03-quicklinks-added-edit-duplicate-disable-delete-actions-in-settings|Quicklinks:
+  Added Edit , Duplicate , Disable , Delete actions in settings]]'
+- '[[Changes/Raycast/2026-04-03-quicklinks-added-edit-duplicate-disable-delete-actions-in-settings-caf281|Quicklinks
+  : Added Edit, Duplicate, Disable, Delete actions in settings]]'
 - '[[Changes/Claude Code/2026-04-04-removed-vim-command-toggle-vim-mode-via-config-editor-mode|Removed
   /vim command (toggle vim mode via /config → Editor mode)]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-04-06-v1-0-19-github-305837484-a9d8ae9e|github-copilot-cli-2026-04-06-v1-0-19-github-305837484-a9d8ae9e]]'

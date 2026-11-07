@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: fb63ebc09475cf1e096a8f9a41270af6174766940d88c7a1f5af67511f530e10
+machine_hash: 4360de0572642daa9402eef6814a05d71026d56ff3ff9de4821e81c42ad05dd5
 product: descript
 product_name: Descript
 record:
@@ -43,11 +43,11 @@ record:
   title: Reverts changes to the selection toolbar
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-02-09-fine-grained-chat-replies-start-by-hovering-over-the-area-of-the-response-you-wa|Fine-grained
-  chat replies…]]'
 - '[[Changes/Descript/2024-02-20-speaker-labeling-updates|Speaker Labeling Updates]]'
 - '[[Changes/Gemini/2024-02-20-exclusive-to-gemini-advanced-edit-and-run-python-code|Exclusive
   to Gemini Advanced: Edit and run Python code]]'
+- '[[Changes/Raycast/2024-02-21-search-menu-items-you-can-now-pin-menu-items|Search
+  Menu Items: You can now pin menu items]]'
 source_release: '[[Releases/Descript/descript-2024-02-23-65d7954513157e1475dd4653-e437619d|descript-2024-02-23-65d7954513157e1475dd4653-e437619d]]'
 source_type: canny_changelog
 theme: interface-experience
@@ -74,7 +74,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2024-02-20 · Gemini · [[Changes/Gemini/2024-02-20-exclusive-to-gemini-advanced-edit-and-run-python-code|Exclusive to Gemini Advanced: Edit and run Python code]]
+- Earlier: 2024-02-21 · Raycast · [[Changes/Raycast/2024-02-21-search-menu-items-you-can-now-pin-menu-items|Search Menu Items: You can now pin menu items]]
 - Later: 2024-03-01 · Cursor · [[Changes/Cursor/2024-03-01-ai-notes-enabled-by-default-hold-shift-on-any-symbol-better-in-editor-chat-auto|Polish]]
 <!-- chronolog:end -->
 

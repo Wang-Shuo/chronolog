@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a7414d71956d56481714caaf026c0df7fbf4b548146aaf1310eb7348c50f0420
+machine_hash: da71d73e1facdc754537d5f2aa9b668dec90bfd282004505f0dbaadfe287d9f0
 product: cline
 product_name: Cline
 record:
@@ -42,10 +42,10 @@ record:
   title: Add Gemini 2.5 Pro Preview 03-25 to Google Provider
   type: change
 related_changes:
-- '[[Changes/Ollama/2025-04-02-api-show-will-now-include-model-capabilities-such-as-vision|/api/show
-  will now include model capabilities such as vision]]'
 - '[[Changes/OpenHands/2025-04-02-2-model-support-changes-in-0-31-0|2 Model Support
   changes in 0.31.0]]'
+- '[[Changes/Recraft/2025-04-03-creativity-thrives-on-options-that-s-why-we-re-expanding-recraft-to-support-exte|Creativity
+  thrives on options]]'
 - '[[Changes/Aider/2025-04-04-4-model-support-changes-in-v0-81-0|4 Model Support changes
   in v0.81.0]]'
 source_release: '[[Releases/Cline/cline-2025-04-04-v3-9-1-github-210439777-cd986695|cline-2025-04-04-v3-9-1-github-210439777-cd986695]]'

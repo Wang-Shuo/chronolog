@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: meeting-notes
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 2dec60f17405f0f34f6543eaa66a92c9c668ae70d7245dcef3099b883974a340
+machine_hash: fda2588b5b2743fd7e2c1b956478a0e8649db7d7f54af8148e11a1e67d6c120d
 product: notion
 product_name: Notion
 record:
@@ -71,12 +71,12 @@ record:
   title: Reintroducing synced databases
   type: change
 related_changes:
-- '[[Changes/Granola/2026-05-20-open-a-meeting-note-and-get-a-short-brief-who-you-re-meeting-what-you-discussed|New:
-  Briefs prepare you for your next meeting as you join]]'
 - '[[Changes/Notion/2026-07-01-and-there-s-a-lot-more-ai-meeting-notes-now-include-speaker-labels-a-top-request|And
   there’s a lot more]]'
 - '[[Changes/Notion/2026-07-01-smarter-meeting-summaries-with-speaker-labels|Smarter
   meeting summaries with speaker labels]]'
+- '[[Changes/Wispr Flow/2026-10-09-mention-people-in-your-meeting-notes-notetaker|Mention
+  people in your meeting notes (Notetaker)]]'
 source_release: '[[Releases/Notion/notion-2026-10-13-https-www-notion-com-releases-2026-10-13-a75e0ec7|notion-2026-10-13-https-www-notion-com-releases-2026-10-13-a75e0ec7]]'
 source_type: notion_changelog
 theme: meeting-notes
@@ -113,8 +113,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Meeting Notes
 
-- Earlier: 2026-07-01 · Notion · [[Changes/Notion/2026-07-01-smarter-meeting-summaries-with-speaker-labels|Smarter meeting summaries with speaker labels]]
-- Later: 2026-11-03 · OpenClaw · [[Changes/OpenClaw/2026-11-03-retrying-a-meeting-transcript-from-summary-or-transcript-now-restores-all-availa|Retrying a meeting transcript from Summary or Transcript now restores all available pages]]
+- Earlier: 2026-10-09 · Wispr Flow · [[Changes/Wispr Flow/2026-10-09-mention-people-in-your-meeting-notes-notetaker|Mention people in your meeting notes (Notetaker)]]
+- Later: 2026-10-20 · Superwhisper · [[Changes/Superwhisper/2026-10-20-meeting-summaries-now-detect-the-correct-language-even-when-speech-recognition-m|Meeting summaries now detect the correct language even when speech recognition…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

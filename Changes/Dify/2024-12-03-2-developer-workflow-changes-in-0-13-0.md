@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 65c34549dd5e7710b8a49699e3840a2b6d77e8014ce0e7181bca221c2477ea5d
+machine_hash: 66889f5eadbd4c8def1950f3dc9f1af03fb064c2223dbacddb8e6d3e214a484f
 product: dify
 product_name: Dify
 record:
@@ -87,7 +87,7 @@ Source: https://github.com/langgenius/dify/releases/tag/0.13.0
 ## Nearby in Developer Workflow
 
 - Earlier: 2024-12-01 · Aider · [[Changes/Aider/2024-12-01-2-developer-workflow-changes-in-v0-66-0|2 Developer Workflow changes in v0.66.0]]
-- Later: 2024-12-05 · Dify · [[Changes/Dify/2024-12-05-stop-the-service-command-please-execute-in-the-docker-directory|Stop the service，Command, please execute in the docker directory]]
+- Later: 2024-12-04 · Raycast · [[Changes/Raycast/2024-12-04-browser-extension-when-clicking-on-the-raycast-icon-in-your-browser-the-ask-abou|Browser Extension : When clicking on the Raycast icon in your browser…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 84a9b9a06357e68f8d2340f511f50e0a92b56f9eedee6758ce0bcdd2fd9d577b
+machine_hash: a06a94626489daac5fcd3d03b5df3b4ee66e832d23264d905ae979ecd5ae2fb0
 product: openclaw
 product_name: OpenClaw
 record:
@@ -53,12 +53,12 @@ record:
   title: 5 Apps and Integrations changes in v2026.11.1
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-11-03-3-apps-and-integrations-changes-in-v1-35-0|3 Apps
-  and Integrations changes in v1.35.0]]'
-- '[[Changes/Dify/2026-11-04-15-apps-and-integrations-changes-in-1-19-0|15 Apps and
-  Integrations changes in 1.19.0]]'
 - '[[Changes/Microsoft 365 Copilot/2026-11-04-user-can-use-hubspot-connector-in-researcher-web-microsoft-365-copilot-extensibi|User
   can use HubSpot Connector in Researcher Web (Microsoft 365 Copilot extensibility)]]'
+- '[[Changes/Raycast/2026-11-04-2-apps-and-integrations-changes-in-raycast-macos-2-11|2
+  Apps and Integrations changes in Raycast macos 2.11]]'
+- '[[Changes/Raycast/2026-11-04-2-apps-and-integrations-changes-in-raycast-windows-2-11|2
+  Apps and Integrations changes in Raycast windows 2.11]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-11-05-v2026-11-1-7d3de823|openclaw-2026-11-05-v2026-11-1-7d3de823]]'
 source_type: openclaw_changelog
 theme: apps-integrations
@@ -111,7 +111,7 @@ Source: https://docs.openclaw.ai/releases/2026.11.1
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-11-04 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-11-04-user-can-use-hubspot-connector-in-researcher-web-microsoft-365-copilot-extensibi|User can use HubSpot Connector in Researcher Web (Microsoft 365 Copilot extensibility)]]
+- Earlier: 2026-11-04 · Raycast · [[Changes/Raycast/2026-11-04-2-apps-and-integrations-changes-in-raycast-windows-2-11|2 Apps and Integrations changes in Raycast windows 2.11]]
 - Later: 2026-11-05 · OpenHands · [[Changes/OpenHands/2026-11-05-3-apps-and-integrations-changes-in-v1-36-0|3 Apps and Integrations changes in v1.36.0]]
 <!-- chronolog:end -->
 

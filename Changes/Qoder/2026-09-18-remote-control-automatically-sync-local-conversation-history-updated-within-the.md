@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b9f68c3f96c92cd5f0fc420c3720dd9ec28c74912db7c4d84dccf27b826eeac2
+machine_hash: 9152ca56ea68b7bb4a4640d49a870bbda60f118487c59f953df7caaafec339c4
 product: qoder
 product_name: Qoder
 record:
@@ -47,12 +47,12 @@ record:
     within…'
   type: change
 related_changes:
-- '[[Changes/Kimi Code/2026-09-17-the-built-in-browser-plugin-now-appears-as-kimi-browser-extension-in-the-plugins|The
-  built-in browser plugin now appears as "Kimi Browser Extension" in the plugins…]]'
-- '[[Changes/Lovable/2026-09-17-connect-your-app-to-the-lovable-api|Connect your app
-  to the Lovable API]]'
-- '[[Changes/Claude Code/2026-09-18-6-apps-and-integrations-changes-in-v2-1-277|6
-  Apps and Integrations changes in v2.1.277]]'
+- '[[Changes/Devin/2026-09-18-mcp-connection-status-and-reconnect|MCP Connection Status
+  and Reconnect]]'
+- '[[Changes/Devin/2026-09-18-grafana-oauth-plugin-support|Grafana (OAuth) Plugin
+  Support]]'
+- '[[Changes/Devin/2026-09-18-knowledge-is-moving-to-skills|Knowledge Is Moving to
+  Skills]]'
 source_release: '[[Releases/Qoder/qoder-2026-09-18-0-3-3-82ff3ac1|qoder-2026-09-18-0-3-3-82ff3ac1]]'
 source_type: qoder_changelog
 theme: apps-integrations
@@ -86,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-09-18 · Claude Code · [[Changes/Claude Code/2026-09-18-6-apps-and-integrations-changes-in-v2-1-277|6 Apps and Integrations changes in v2.1.277]]
+- Earlier: 2026-09-18 · Devin · [[Changes/Devin/2026-09-18-knowledge-is-moving-to-skills|Knowledge Is Moving to Skills]]
 - Later: 2026-09-19 · OpenClaw · [[Changes/OpenClaw/2026-09-19-you-can-now-ask-btw-side-questions-about-photos-attached-to-the-current-message|Ask /btw side questions about photos attached to the current message when using…]]
 <!-- chronolog:end -->
 

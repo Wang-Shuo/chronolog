@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: fd9aa0af16ad49a04c31531bb829ea2dd6e073e0e054f2c534df844e1aae9603
+machine_hash: de087979d89b0a453982a82d118bdc67e9a99b367aa8767c8793657d967d380a
 product: suno
 product_name: Suno
 record:
@@ -54,12 +54,12 @@ record:
   title: Real writing environment
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-07-08-resize-your-cloud-instance-from-chat|Resize your Cloud
-  instance from chat]]'
-- '[[Changes/Cline/2026-07-09-2-interface-experience-changes-in-v4-0-7|2 Interface
-  Experience changes in v4.0.7]]'
-- '[[Changes/Codex CLI/2026-07-09-3-interface-experience-changes-in-rust-v0-144-0|3
-  Interface Experience changes in rust-v0.144.0]]'
+- '[[Changes/Raycast/2026-07-09-2-interface-experience-changes-in-raycast-macos-0-68|2
+  Interface Experience changes in Raycast macos 0.68]]'
+- '[[Changes/Raycast/2026-07-09-you-can-now-edit-any-message-you-ve-sent-in-ai-chat-just-hit-the-edit-button-use-a64a2e|Edit
+  any message you''ve sent in AI Chat]]'
+- '[[Changes/Raycast/2026-07-09-ai-chat-edit-previously-sent-messages-via-the-edit-button-hotkey-or-by-pressing|AI
+  Chat : Edit previously sent messages via the edit button, hotkey, or by pressing…]]'
 source_release: '[[Releases/Suno/suno-2026-07-09-e-lyrics-improvements-on-web-46f49770|suno-2026-07-09-e-lyrics-improvements-on-web-46f49770]]'
 source_type: suno_changelog
 theme: interface-experience
@@ -92,7 +92,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-07-09 · Codex CLI · [[Changes/Codex CLI/2026-07-09-3-interface-experience-changes-in-rust-v0-144-0|3 Interface Experience changes in rust-v0.144.0]]
+- Earlier: 2026-07-09 · Raycast · [[Changes/Raycast/2026-07-09-ai-chat-edit-previously-sent-messages-via-the-edit-button-hotkey-or-by-pressing|AI Chat : Edit previously sent messages via the edit button, hotkey, or by pressing…]]
 - Later: 2026-07-10 · Cursor · [[Changes/Cursor/2026-07-10-conversation-search-454cae|Conversation search]]
 <!-- chronolog:end -->
 

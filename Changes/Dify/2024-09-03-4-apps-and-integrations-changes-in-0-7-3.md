@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 11133c673be6bf458ae160d61430e382d8ed550d9fc5c4bc7914a2490dab1ccc
+machine_hash: 4ba790944fbb01fbfc52e089dd1c819b6f04421789ea1f09594cf6bf1037b82f
 product: dify
 product_name: Dify
 record:
@@ -49,10 +49,10 @@ record:
   title: 4 Apps and Integrations changes in 0.7.3
   type: change
 related_changes:
-- '[[Changes/Notion/2024-08-13-use-multiple-charts-to-track-everything|Use multiple
-  charts to track everything]]'
 - "[[Changes/Open WebUI/2024-08-14-integration-testing-improvements-modified-how-cypress-integration-tests-detect-c|\U0001F6A7
   Integration Testing Improvements]]"
+- '[[Changes/Raycast/2024-08-14-window-management-increased-timeout-period-to-15-s-for-apps-that-take-very-long|Window
+  Management: Increased timeout period to 15 s for apps that take very long to open]]'
 - '[[Changes/Dify/2024-08-19-custom-app-icons-personalize-your-apps-with-custom-icons-by-xuzuodong-in-7196-ht|Custom
   App Icons]]'
 source_release: '[[Releases/Dify/dify-2024-09-03-0-7-3-github-173123686-c526228f|dify-2024-09-03-0-7-3-github-173123686-c526228f]]'

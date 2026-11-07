@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3eff689d0e5f7d27e99cbb2945de24b006a33393f70181b9d819da899e9fabaa
+machine_hash: 095b4c89a8f904b1207b47d832741832feaebe9d286d0c41c793c2ec768c8765
 product: cursor
 product_name: Cursor
 record:
@@ -41,8 +41,9 @@ record:
   title: Prompt buttons now stay in place while voice input is processing
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-04-07-swift-sdk|Swift SDK]]'
 - '[[Changes/ElevenLabs/2026-04-07-speech-to-text-f6e004|Speech to Text]]'
+- '[[Changes/Superwhisper/2026-04-08-2-voice-and-audio-changes-in-superwhisper-macos-2-12-0|2
+  Voice and Audio changes in Superwhisper macOS 2.12.0]]'
 - '[[Changes/Codex CLI/2026-04-10-3-voice-and-audio-changes-in-rust-v0-119-0|3 Voice
   and Audio changes in rust-v0.119.0]]'
 source_release: '[[Releases/Cursor/cursor-2026-04-13-3-1-https-cursor-com-changelog-3-1-27a51313|cursor-2026-04-13-3-1-https-cursor-com-changelog-3-1-27a51313]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9dcec7651e63a4d74837f60adc305611b682bac04a04d84a9be4784a2a972914
+machine_hash: 1c1fda313b32b03722c2ce76275306d363b076372f31a86860bab82f213521b1
 product: dify
 product_name: Dify
 record:
@@ -42,12 +42,12 @@ record:
   title: 2 Developer Workflow changes in 0.5.7
   type: change
 related_changes:
-- '[[Changes/Dify/2024-02-13-3-developer-workflow-changes-in-0-5-5|3 Developer Workflow
-  changes in 0.5.5]]'
 - '[[Changes/Cursor/2024-02-15-linter-you-can-now-turn-on-an-ai-linter-in-the-more-tab-beside-chat-it-ll-scan-y|Linter:
   You can now turn on an AI linter in the "More" tab beside Chat]]'
 - '[[Changes/Dify/2024-02-19-2-developer-workflow-changes-in-0-5-6|2 Developer Workflow
   changes in 0.5.6]]'
+- '[[Changes/Raycast/2024-02-21-snippets-you-can-use-search-snippets-as-a-fallback-command-now|Snippets
+  : You can use “Search Snippets” as a fallback command now]]'
 source_release: '[[Releases/Dify/dify-2024-02-28-0-5-7-github-143968174-dc5f7626|dify-2024-02-28-0-5-7-github-143968174-dc5f7626]]'
 source_type: github_releases
 theme: developer-workflow
@@ -84,7 +84,7 @@ Source: https://github.com/langgenius/dify/releases/tag/0.5.7
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2024-02-19 · Dify · [[Changes/Dify/2024-02-19-2-developer-workflow-changes-in-0-5-6|2 Developer Workflow changes in 0.5.6]]
+- Earlier: 2024-02-21 · Raycast · [[Changes/Raycast/2024-02-21-snippets-you-can-use-search-snippets-as-a-fallback-command-now|Snippets : You can use “Search Snippets” as a fallback command now]]
 - Later: 2024-03-04 · Aider · [[Changes/Aider/2024-03-04-prevents-bug-where-subsequent-git-commit-of-those-files-will-fail|Prevents bug where subsequent git commit of those files will fail]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 017285d367a6f30043c91f5366e197d792f33c0790507819962fbe92fd1ec54b
+machine_hash: 9403cf7a1b3595f662e1830038ca734e0ce5fb09b729bacf6c2da826478cd9a1
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -46,9 +46,10 @@ record:
   title: Text to Speech
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2025-12-08-billing-9b631f|Billing]]'
 - '[[Changes/Dify/2025-12-11-2-pricing-model-changes-in-1-11-0|2 Pricing Model changes
   in 1.11.0]]'
+- '[[Changes/Recraft/2025-12-12-credit-cost-2-credits-per-generation|Credit cost:
+  2 credits per generation]]'
 - '[[Changes/v0/2025-12-12-v0-mini-fastest-and-most-cost-efficient|v0 Mini : Fastest
   and most cost-efficient]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2025-12-15-2025-12-15-32e7dec9|elevenlabs-2025-12-15-2025-12-15-32e7dec9]]'
@@ -90,7 +91,7 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2025-12-12 · v0 · [[Changes/v0/2025-12-12-v0-mini-fastest-and-most-cost-efficient|v0 Mini : Fastest and most cost-efficient]]
-- Later: 2025-12-18 · Cursor · [[Changes/Cursor/2025-12-18-billing-groups|Billing groups]]
+- Later: 2025-12-16 · Recraft · [[Changes/Recraft/2025-12-16-flux-2-max-has-been-added-to-recraft-and-is-now-available-for-all-paid-subscribe|New external model: Flux 2 Max]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

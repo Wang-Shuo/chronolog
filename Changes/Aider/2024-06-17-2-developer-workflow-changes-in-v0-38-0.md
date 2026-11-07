@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e9577cd1dc0c81846f40b32c799270347971ff80eaaceaff5b93f38d0565cad9
+machine_hash: 2d4f4f0ae38de31f873f56309fa1321583e66859f4609f29764a68faf800d3d1
 product: aider
 product_name: Aider
 record:
@@ -82,7 +82,7 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.38.0
 ## Nearby in Developer Workflow
 
 - Earlier: 2024-06-14 · Dify · [[Changes/Dify/2024-06-14-3-developer-workflow-changes-in-0-6-11|3 Developer Workflow changes in 0.6.11]]
-- Later: 2024-06-20 · Aider · [[Changes/Aider/2024-06-20-commit-messages-are-no-longer-prefixed-with-aider-instead-the-git-author-and-com|Commit messages are no longer prefixed with "aider:"]]
+- Later: 2024-06-19 · Raycast · [[Changes/Raycast/2024-06-19-quit-all-applications-the-command-now-includes-raycast-windows-by-default-you-ca|Quit All Applications : The command now includes Raycast windows by default]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

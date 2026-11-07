@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 62c2c4d27f0af9cce35601269708708f9315156e62a5d5c994bae8060465ad7b
+machine_hash: ae47c91c50d7b7e035403866e1fa6b25fa4b8cdd823c2100b5045da36d3680c3
 product: descript
 product_name: Descript
 record:
@@ -51,11 +51,11 @@ record:
   title: Drag and drop now works from Brand Studio and Editor sidebar
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-10-22-2-interface-experience-changes-in-v0-10-0|2 Interface
-  Experience changes in v0.10.0]]'
-- '[[Changes/Codex CLI/2025-10-23-tui-drop-citation-rendering-by-nornagon-openai-in-https-github-com-openai-codex|tui:
-  drop citation rendering]]'
 - '[[Changes/GitHub Copilot CLI/2025-10-24-code-repo-navigation|Code & Repo navigation]]'
+- '[[Changes/Superwhisper/2025-10-24-main-menu-for-app-now-matches-app-menu|Main menu
+  for app now matches app menu]]'
+- '[[Changes/Raycast/2025-10-27-the-keyboard-shortcut-infrastructure-has-been-revamped-to-support-more-shortcut|The
+  Keyboard Shortcut infrastructure has been revamped to support more shortcut…]]'
 source_release: '[[Releases/Descript/descript-2025-10-28-69011cafb870a7b6c53a3ff5-5b47667d|descript-2025-10-28-69011cafb870a7b6c53a3ff5-5b47667d]]'
 source_type: canny_changelog
 theme: interface-experience
@@ -88,7 +88,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2025-10-24 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-10-24-code-repo-navigation|Code & Repo navigation]]
+- Earlier: 2025-10-27 · Raycast · [[Changes/Raycast/2025-10-27-the-keyboard-shortcut-infrastructure-has-been-revamped-to-support-more-shortcut|The Keyboard Shortcut infrastructure has been revamped to support more shortcut…]]
 - Later: 2025-10-29 · Cursor · [[Changes/Cursor/2025-10-29-optimized-text-parsing-for-chat-rendering|Optimized text parsing for chat rendering]]
 <!-- chronolog:end -->
 

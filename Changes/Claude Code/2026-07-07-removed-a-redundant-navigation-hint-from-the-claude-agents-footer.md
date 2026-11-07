@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ff83e3f8b569de55aca0cb258b0281680caf788b182e2d0188ae696b585f9375
+machine_hash: e027cd1805e5679973062dbdb5d6b6c0538bbaaeafe7bfb656064c4f8b050451
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,8 +51,8 @@ record:
   title: Removed a redundant navigation hint from the `claude agents` footer
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-03-changed-askuserquestion-dialogs-to-no-longer-auto-continue-by-default-opt-into-a|Changed
-  AskUserQuestion dialogs to no longer auto-continue by default]]'
+- '[[Changes/Raycast/2026-07-03-ui-aligned-date-picker-icon-indicator-treatment-with-other-selects-cf97f3|UI
+  : Aligned date picker icon/indicator treatment with other selects]]'
 - '[[Changes/Kimi Code/2026-07-04-revert-the-recent-tui-transcript-rendering-changes-to-the-original-upstream-beha|Revert
   the recent TUI transcript rendering changes to the original upstream behavior…]]'
 - '[[Changes/OpenHands/2026-07-06-feat-jira-dc-email-mode-auto-link-targeted-repo-lookup-and-picker-mentions-by-ak|feat(jira-dc):

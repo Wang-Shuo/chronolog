@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c7acd03b3aa242867ffc870f7cba998aacde69d105164c5a3380d61ef11ef723
+machine_hash: 90b87076e2e99263f762458db64a6d7a969d184d26412cde3602a215fc68b606
 product: cline
 product_name: Cline
 record:
@@ -46,10 +46,9 @@ record:
   title: Restore task completion telemetry for interactive sessions
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-21-claude-in-chrome-clear-now-closes-the-session-s-chrome-tab-group-and-empty-group|Claude
-  in Chrome]]'
 - '[[Changes/Cline/2026-08-21-show-the-diff-edit-view-for-multi-line-edits-in-files-with-crlf-line-endings|Show
   the diff edit view for multi-line edits in files with CRLF line endings]]'
+- '[[Changes/Devin/2026-08-21-new-v3-scan-api-endpoints|New v3 Scan API Endpoints]]'
 - '[[Changes/Midjourney/2026-08-21-editor|Editor]]'
 source_release: '[[Releases/Cline/cline-2026-08-23-v4-1-14-github-375175985-b7635cc3|cline-2026-08-23-v4-1-14-github-375175985-b7635cc3]]'
 source_type: github_releases

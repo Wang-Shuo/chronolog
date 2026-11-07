@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: fe8de13c53312777c6219d2118898a9a4352b4730adc48801f6bb4b92a0e8daa
+machine_hash: 52c7c3de82f93cf07b0863bde6759445998ca7529add774a68942a7a50cf4c43
 product: cursor
 product_name: Cursor
 record:
@@ -46,8 +46,8 @@ record:
   title: Multi-repo automations
   type: change
 related_changes:
-- '[[Changes/Dify/2026-05-12-human-input-exposed-selected-action-values-for-human-in-the-loop-flows-thanks-bl|Human
-  input — exposed selected action values for Human-in-the-loop flows]]'
+- '[[Changes/Raycast/2026-05-13-my-schedule-date-formatting-now-respects-the-current-locale|My
+  Schedule: Date formatting now respects the current locale]]'
 - '[[Changes/Codex CLI/2026-05-20-codex-exec-resume-now-accepts-output-schema-so-resumed-automations-can-keep-sess|codex
   exec resume now accepts --output-schema, so resumed automations can keep…]]'
 - '[[Changes/Cursor/2026-05-20-no-repo-automations|No-repo automations]]'
@@ -82,7 +82,7 @@ type: change
 ## Nearby in Automation and Scheduling
 
 - Earlier: 2026-05-20 · Codex CLI · [[Changes/Codex CLI/2026-05-20-codex-exec-resume-now-accepts-output-schema-so-resumed-automations-can-keep-sess|codex exec resume now accepts --output-schema, so resumed automations can keep…]]
-- Later: 2026-05-22 · Replit · [[Changes/Replit/2026-05-22-cleaner-task-settings-dropdown|Cleaner task settings dropdown]]
+- Later: 2026-05-22 · Devin · [[Changes/Devin/2026-05-22-custom-rrule-schedule-input|Custom RRULE Schedule Input]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

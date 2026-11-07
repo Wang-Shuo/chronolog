@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: fa0edfbad10833ff33cabebfb5691b7db60c83f266207d3669b4be8543e44517
+machine_hash: e95e5f505b9ee1769030ca5ea196b42b3cf2829125f014faacf0b9daee661940
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,10 +43,10 @@ record:
   title: Prompt frame no longer causes rendering issues on Windows and Ubuntu terminals
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-04-15-desktop-fixed-the-windows-desktop-backend-hanging-before-shutdown|Desktop
-  Fixed the Windows desktop backend hanging before shutdown]]'
 - '[[Changes/OpenCode/2026-04-15-2-mobile-and-desktop-changes-in-v1-4-6|2 Mobile and
   Desktop changes in v1.4.6]]'
+- '[[Changes/Raycast/2026-04-15-hyperkey-hyperkey-support-is-now-available-on-windows|Hyperkey
+  : Hyperkey support is now available on Windows]]'
 - '[[Changes/Claude Code/2026-04-16-windows-powershell-tool-is-progressively-rolling-out-opt-in-or-out-with-claude-c|Windows:
   PowerShell tool is progressively rolling out]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-04-16-v1-0-31-github-310072149-bbc5ddf4|github-copilot-cli-2026-04-16-v1-0-31-github-310072149-bbc5ddf4]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: bf4fc072e48fb5eb6b69eb781934faa02b2fa09e2237229cd97e558b80d84948
+machine_hash: 85263d1ee8b2084270c97982d8d36f98764e4b95f8e352a3b90f79cf22ffd56b
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,10 +43,10 @@ record:
   title: '#29086 Document raw response item compatibility @jif-oai'
   type: change
 related_changes:
-- '[[Changes/Google Antigravity/2026-06-11-quota-screen-redesign-and-pdf-support|Quota
-  Screen Redesign and PDF Support]]'
 - '[[Changes/Replit/2026-06-12-add-visual-references-when-you-generate-media-on-canvas|Add
   visual references when you generate media on Canvas]]'
+- '[[Changes/AnythingLLM/2026-06-16-2-files-and-data-changes-in-v1-14-1|2 Files and
+  Data changes in v1.14.1]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-16-recover-from-unreadable-native-document-attachments-by-falling-back-to-file-path|Recover
   from unreadable native document attachments by falling back to file-path uploads]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-06-22-rust-v0-142-0-github-343189954-a218ab4e|codex-cli-2026-06-22-rust-v0-142-0-github-343189954-a218ab4e]]'

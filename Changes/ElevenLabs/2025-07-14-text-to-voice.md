@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 254fbe100ba98d7860fcaacd63fe99c9da7da96137d3d56dc2b290a8a661aaf4
+machine_hash: 0a9c690125bb69b48525f07257416fe094dce202023f48a7abe7bde5b211e328
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -45,8 +45,8 @@ record:
   title: Text to Voice
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-07-01-feat-add-audio-and-video-support-to-read-file-by-santhoshkumarcodes-in-https-git|feat:
-  add audio and video support to read_file]]'
+- '[[Changes/Raycast/2025-07-02-2-voice-and-audio-changes-in-raycast-ios-1-0-7|2 Voice
+  and Audio changes in Raycast ios 1.0.7]]'
 - '[[Changes/ElevenLabs/2025-07-07-speech-to-text|Speech to Text]]'
 - '[[Changes/ElevenLabs/2025-07-07-speech-to-text-f4ffa0|Speech to Text]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2025-07-14-2025-07-14-80d77c89|elevenlabs-2025-07-14-2025-07-14-80d77c89]]'

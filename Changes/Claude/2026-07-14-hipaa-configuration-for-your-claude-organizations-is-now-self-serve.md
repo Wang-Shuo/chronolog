@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 2a481427c45c516c0090ff12f83ba78282e44458cbcf866fb5bab81757bc67e9
+machine_hash: e4687de4535f59ff0ddbc2a07c32fd8832f36a0414a7bcae6b73977a99b08ac9
 product: claude
 product_name: Claude
 record:
@@ -50,8 +50,7 @@ record:
   title: HIPAA configuration for your Claude organizations is now self-serve
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-07-09-enterprise-member-profiles-are-now-private-by-default|Enterprise
-  member profiles are now private by default]]'
+- '[[Changes/Devin/2026-07-10-redesigned-account-switcher|Redesigned Account Switcher]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-10-long-running-sessions-refresh-enterprise-managed-settings-hourly|Long-running
   sessions refresh enterprise managed settings hourly]]'
 - '[[Changes/OpenClaw/2026-07-13-4-enterprise-and-administration-changes-in-v2026-7-1|4

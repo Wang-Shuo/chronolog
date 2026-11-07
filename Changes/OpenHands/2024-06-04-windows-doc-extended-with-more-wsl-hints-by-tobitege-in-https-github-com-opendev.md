@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 66711ff8290d18d862bb70fc39623145811960641c37d6eeaea70179ddb04367
+machine_hash: d62c53a68ce312c815ae7108268eb2f1feeb3286fb185ef64ecbb2431f74f8a0
 product: openhands
 product_name: OpenHands
 record:
@@ -41,12 +41,11 @@ record:
   title: Windows doc extended with more WSL hints
   type: change
 related_changes:
-- '[[Changes/Aider/2024-05-22-4-developer-workflow-changes-in-v0-36-0|4 Developer
-  Workflow changes in v0.36.0]]'
 - '[[Changes/Ollama/2024-05-22-granite-code-https-ollama-com-library-granite-code-a-family-of-open-foundation-m|Granite
   code((source link) A family of open foundation…]]'
 - '[[Changes/Dify/2024-05-27-update-docker-compose-yaml-new-debug-variable-by-theysua-in-https-github-com-lan|Update
   docker-compose.yaml- New DEBUG variable]]'
+- '[[Changes/Devin/2024-05-29-view-shell-updates|View Shell Updates]]'
 source_release: '[[Releases/OpenHands/openhands-2024-06-04-0-6-1-github-158811079-9345253b|openhands-2024-06-04-0-6-1-github-158811079-9345253b]]'
 source_type: github_releases
 theme: developer-workflow
@@ -79,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2024-05-27 · Dify · [[Changes/Dify/2024-05-27-update-docker-compose-yaml-new-debug-variable-by-theysua-in-https-github-com-lan|Update docker-compose.yaml- New DEBUG variable]]
+- Earlier: 2024-05-29 · Devin · [[Changes/Devin/2024-05-29-view-shell-updates|View Shell Updates]]
 - Later: 2024-06-08 · Cursor · [[Changes/Cursor/2024-06-08-remote-tunnels-are-now-supported-remote-ssh-support-is-also-more-robust-now-supp|Remote tunnels are now supported!]]
 <!-- chronolog:end -->
 

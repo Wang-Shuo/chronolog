@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: ad951b2353cb6af59d909a8f103638111f537eccc7a2dd1ea3359dc09c1eff29
+machine_hash: 8344ad87ab4f84a1c97711d5204c9fbcedd313b725d31bf66db66bea34e66ba2
 product: suno
 product_name: Suno
 record:
@@ -49,10 +49,9 @@ record:
   title: Copy and duplicate plugins
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-02-5-apps-and-integrations-changes-in-v2-1-259|5
-  Apps and Integrations changes in v2.1.259]]'
 - '[[Changes/Cline/2026-09-02-2-apps-and-integrations-changes-in-v4-1-17|2 Apps and
   Integrations changes in v4.1.17]]'
+- '[[Changes/Devin/2026-09-02-clearer-reply-delivery|Clearer Reply Delivery]]'
 - '[[Changes/Kimi Code/2026-09-02-web-add-a-plugins-panel-to-settings-for-browsing-the-plugin-marketplace-and-inst|web:
   Add a Plugins panel to Settings for browsing the plugin marketplace…]]'
 source_release: '[[Releases/Suno/suno-2026-09-02-e-studio-updates-sept26-eab89043|suno-2026-09-02-e-studio-updates-sept26-eab89043]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 53976fd65edd8dbe44d7f39d1381863f04cdc6b9a2a7c16a45215fb6a1bf9cec
+machine_hash: 1d579599d16fc972ba32e630fc090223c3bb8da5002ac4d0d80e9603ff0af56e
 product: descript
 product_name: Descript
 record:
@@ -53,9 +53,10 @@ record:
   title: Workspaces, Drive sidebar, and Settings redesigns
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-05-13-full-screen-tabs-faa5d2|Full-screen tabs]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-13-support-j-k-keys-for-up-down-navigation-in-the-diff-view|Support
   j/k keys for up/down navigation in the /diff view]]'
+- '[[Changes/Raycast/2026-05-13-2-interface-experience-changes-in-raycast-macos-0-59|2
+  Interface Experience changes in Raycast macos 0.59]]'
 - '[[Changes/Descript/2026-05-14-chat-history|Chat history]]'
 source_release: '[[Releases/Descript/descript-2026-05-14-6a05e75cbbef22ce4b0633c9-b87fafc2|descript-2026-05-14-6a05e75cbbef22ce4b0633c9-b87fafc2]]'
 source_type: canny_changelog
@@ -97,7 +98,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-05-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-13-support-j-k-keys-for-up-down-navigation-in-the-diff-view|Support j/k keys for up/down navigation in the /diff view]]
+- Earlier: 2026-05-13 · Raycast · [[Changes/Raycast/2026-05-13-2-interface-experience-changes-in-raycast-macos-0-59|2 Interface Experience changes in Raycast macos 0.59]]
 - Later: 2026-05-14 · OpenCode · [[Changes/OpenCode/2026-05-14-restored-markdown-rendering-for-session-output-by-default|Restored markdown rendering for session output by default]]
 <!-- chronolog:end -->
 

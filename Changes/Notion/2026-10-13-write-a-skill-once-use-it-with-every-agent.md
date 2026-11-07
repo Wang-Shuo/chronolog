@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 7f32843824add1360791bb0c747dad4c8f6d20b6e0479aadacd502722de149b4
+machine_hash: fd3c934ec0a37fff8de3ecef47aaebdc265e26206889264df418c6d8037aa9ef
 product: notion
 product_name: Notion
 record:
@@ -97,7 +97,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-10-13 · Lovable · [[Changes/Lovable/2026-10-13-let-browser-agents-use-your-app|Let browser agents use your app]]
-- Later: 2026-10-14 · Claude Code · [[Changes/Claude Code/2026-10-14-5-agent-mode-changes-in-v2-1-299|5 Agent Mode changes in v2.1.299]]
+- Later: 2026-10-13 · Superwhisper · [[Changes/Superwhisper/2026-10-13-the-agent-chat-no-longer-pops-up-over-an-agent-session-you-re-already-in|The agent chat no longer pops up over an agent session you're already in]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

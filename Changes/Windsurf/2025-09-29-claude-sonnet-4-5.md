@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 978d0d1c5a9188a21bf8bca2ac2a1e0e41cfb29d77031f92a5ad58f37f20a389
+machine_hash: fb005c3952bfdc92a1ec58fed50d8263e8496cafbd40bf3a8b8d1aa0ba8fd530
 product: windsurf
 product_name: Windsurf
 record:
@@ -41,12 +41,12 @@ record:
   title: Claude Sonnet 4.5
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2025-09-29-added-model-slash-command-to-easily-change-the-model-fixes-https-github-com-gith|Added
-  /model slash command to easily change the model…]]'
 - '[[Changes/GitHub Copilot CLI/2025-09-29-changed-the-default-model-back-to-sonnet-4-since-sonnet-4-5-hasn-t-rolled-out-to|Changed
   the default model back to Sonnet 4 since Sonnet 4.5 hasn''t rolled out to all…]]'
 - "[[Changes/Open WebUI/2025-09-29-the-set-as-default-option-is-now-reliably-clickable-in-model-and-filter-selectio|\U0001F41B
   The \"Set as default\" option is now reliably clickable in model and filter…]]"
+- '[[Changes/Superwhisper/2025-09-29-claude-sonnet-4-5-ui-stability-improvements|Claude
+  Sonnet 4.5, UI & Stability Improvements]]'
 source_release: '[[Releases/Windsurf/windsurf-2025-09-29-v1-12-12-6d5d9152|windsurf-2025-09-29-v1-12-12-6d5d9152]]'
 source_type: windsurf_changelog
 theme: model-support
@@ -73,7 +73,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-09-29 · Open WebUI · [[Changes/Open WebUI/2025-09-29-the-set-as-default-option-is-now-reliably-clickable-in-model-and-filter-selectio|🐛 The "Set as default" option is now reliably clickable in model and filter…]]
+- Earlier: 2025-09-29 · Superwhisper · [[Changes/Superwhisper/2025-09-29-claude-sonnet-4-5-ui-stability-improvements|Claude Sonnet 4.5, UI & Stability Improvements]]
 - Later: 2025-09-30 · Cline · [[Changes/Cline/2025-09-30-docs-update-documentation-for-claude-sonnet-4-5-release-by-nickbaumann98-in-http|docs: update documentation for Claude Sonnet 4.5 release]]
 <!-- chronolog:end -->
 

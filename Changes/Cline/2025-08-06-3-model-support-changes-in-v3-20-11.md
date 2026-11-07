@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 15b008fc56e5547a87d6d5d3c6fa333fc8467cc93f58e08243c361e9c535fb62
+machine_hash: cd1b1c3047cadc43f561113117154144123fea6759a0aeb019a6a3e6e296d04d
 product: cline
 product_name: Cline
 record:
@@ -44,10 +44,10 @@ record:
   title: 3 Model Support changes in v3.20.11
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-08-05-introduces-the-oss-flag-so-codex-cli-can-be-used-with-the-new-open-weight-models|Introduces
-  the --oss flag so Codex CLI can be used with the new open-weight models…]]'
 - '[[Changes/Gemini CLI/2025-08-05-20-model-support-changes-in-v0-1-17|20 Model Support
   changes in v0.1.17]]'
+- '[[Changes/LM Studio/2025-08-05-by-default-filter-staff-picks-to-models-that-can-fit-on-your-device|By
+  default, filter Staff Picks to models that can fit on your device]]'
 - '[[Changes/Ollama/2025-08-05-3-model-support-changes-in-v0-11-0|3 Model Support
   changes in v0.11.0]]'
 source_release: '[[Releases/Cline/cline-2025-08-06-v3-20-11-github-237845536-5cab9a83|cline-2025-08-06-v3-20-11-github-237845536-5cab9a83]]'

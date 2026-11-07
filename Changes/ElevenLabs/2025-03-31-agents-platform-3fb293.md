@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: b73c7305a48c1bba29ea2b8a06c7ac97ab8c92129903bbc3c39b0f6e00bd6580
+machine_hash: dc8e6fd8408eeebbf3dfd4d1b81273c731dec03306e1879ce4c42e46e38e31ba
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -50,7 +50,8 @@ record:
   title: Agents Platform
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2025-03-24-agents-platform-e22490|Agents Platform]]'
+- '[[Changes/AnythingLLM/2025-03-27-enable-use-of-agent-in-slash-commands-by-shatfield4-in-https-github-com-mintplex|Enable
+  use of @agent in slash commands]]'
 - '[[Changes/Replit/2025-03-28-agent-v2-is-now-available|Agent v2 is now available]]'
 - '[[Changes/ElevenLabs/2025-03-31-agents-platform|Agents Platform]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2025-03-31-2025-03-31-b6761e84|elevenlabs-2025-03-31-2025-03-31-b6761e84]]'

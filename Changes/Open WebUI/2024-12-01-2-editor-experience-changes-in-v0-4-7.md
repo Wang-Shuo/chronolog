@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d0c9491a1f0d4c05a027249caf890595de4ede9acfb2f277c1612cb45170317a
+machine_hash: 7c2aeacc5c01998b90b3a9ed28a963db40e44cf50bbd5fd474f887022aaf4a69
 product: open-webui
 product_name: Open WebUI
 record:
@@ -46,8 +46,8 @@ record:
   title: 2 Editor Experience changes in v0.4.7
   type: change
 related_changes:
-- '[[Changes/Aider/2024-11-21-2-editor-experience-changes-in-v0-64-0|2 Editor Experience
-  changes in v0.64.0]]'
+- '[[Changes/Devin/2024-11-22-talk-to-devin-from-your-ide-beta-access|Talk to Devin
+  from your IDE (Beta Access)]]'
 - '[[Changes/Dify/2024-11-25-feat-add-japanese-translations-for-api-documentation-chat-advanced-chat-completi|feat
   : Add Japanese translations for API documentation: chat, advanced-chat…]]'
 - '[[Changes/Aider/2024-11-26-editor-returns-and-prefill-the-file-content-into-the-prompt-so-you-can-use-edito|/editor

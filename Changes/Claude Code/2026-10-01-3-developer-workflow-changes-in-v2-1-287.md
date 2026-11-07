@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8518426ddde7d45532d61c2a7273a529bb270ac30a96f7dad99b93aa84c2232e
+machine_hash: 407e288b082d723924afabb8bf48e59ae8d721507f9a33fc85ff33b1bfb01787
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,8 +49,8 @@ record:
   title: 3 Developer Workflow changes in v2.1.287
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-30-3-developer-workflow-changes-in-v2-1-286|3 Developer
-  Workflow changes in v2.1.286]]'
+- '[[Changes/Devin/2026-09-30-devin-fixes-its-own-prs-review-findings-before-they-are-posted|Devin
+  Fixes Its Own PRs'' Review Findings Before They Are Posted]]'
 - '[[Changes/Google Antigravity/2026-09-30-pressing-cmd-a-or-ctrl-a-now-selects-only-the-content-pane-or-terminal-you-are-f|Pressing
   Cmd+A or Ctrl+A now selects only the content pane or terminal you…]]'
 - '[[Changes/OpenClaw/2026-09-30-13-developer-workflow-changes-in-v2026-9-7|13 Developer

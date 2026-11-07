@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 21173fe651d81f9d206fb3f22c89bf056ff044747875655d243faef442971f30
+machine_hash: 8b58479a16dd0ec4d7811563b028d7bebcf2aabb8511ba5bf4050a8e497cdb2a
 product: opencode
 product_name: OpenCode
 record:
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-01-21 · OpenCode · [[Changes/OpenCode/2026-01-21-2-interface-experience-changes-in-v1-1-29|2 Interface Experience changes in v1.1.29]]
-- Later: 2026-01-22 · Codex CLI · [[Changes/Codex CLI/2026-01-22-improved-slash-command-selection-by-prioritizing-exact-and-prefix-matches-over-f|Improved slash-command selection by prioritizing exact and prefix matches over fuzzy…]]
+- Later: 2026-01-22 · AnythingLLM · [[Changes/AnythingLLM/2026-01-22-3-interface-experience-changes-in-v1-10-0|3 Interface Experience changes in v1.10.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

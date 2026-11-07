@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ca3fc3bc70aa65dfc8bafb5f067048f75c40b15334cbfbabffd3289ddc53fcdd
+machine_hash: 68e6c51a113924bb0875c1e69a3a2cd9f36da17de632245b06ba1b12b61216bf
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -46,9 +46,10 @@ record:
   title: 3 Model Support changes in rust-v0.151.0
   type: change
 related_changes:
-- '[[Changes/Replit/2026-08-28-intelligent-model-routing|Intelligent model routing]]'
 - '[[Changes/Replit/2026-08-28-intelligent-model-routing-for-enterprise|Intelligent
   model routing for Enterprise]]'
+- '[[Changes/Superwhisper/2026-08-28-4-model-support-changes-in-superwhisper-windows-1-6-2|4
+  Model Support changes in Superwhisper Windows 1.6.2]]'
 - '[[Changes/v0/2026-08-28-gpt-5-6-sol-and-a-faster-sol-fast-tier-are-available-in-the-model-picker-routed|GPT-5.6
   Sol and a faster Sol Fast tier are available in the model picker, routed…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-08-29-rust-v0-151-0-github-378941035-5571827d|codex-cli-2026-08-29-rust-v0-151-0-github-378941035-5571827d]]'

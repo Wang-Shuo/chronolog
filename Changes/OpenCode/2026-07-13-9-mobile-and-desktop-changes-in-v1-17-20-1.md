@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0e1c97e9bf4e795d03b060fc832e3f902e24470bc67fb10d04929786326dc9e0
+machine_hash: e7d77cab628d39ad933f567ae88191cc3bbcac0c39ade05af455259c2f7abf3b
 product: opencode
 product_name: OpenCode
 record:
@@ -58,8 +58,8 @@ record:
   title: 9 Mobile and Desktop changes in v1.17.20 + 1
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-07-09-12-mobile-and-desktop-changes-in-v1-17-16|12 Mobile
-  and Desktop changes in v1.17.16]]'
+- '[[Changes/Wispr Flow/2026-07-09-put-the-flow-bar-wherever-works-best-for-you-desktop|Put
+  the Flow Bar wherever works best for you (Desktop)]]'
 - '[[Changes/OpenClaw/2026-07-13-whatsapp-and-telegram-default-account-routing-warnings-are-now-available-through|WhatsApp
   and Telegram default-account routing warnings are now available through…]]'
 - '[[Changes/OpenClaw/2026-07-13-224-mobile-and-desktop-changes-in-v2026-7-1|224 Mobile

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 9458f8c9e75219d1c3dd243b25c7bf97017363e031e04b9ede1c84e4d8c13c91
+machine_hash: 864443dfce7782e03bb1d97e3b9c418297d3040d48092861d4c116ed016b56bb
 product: aider
 product_name: Aider
 record:
@@ -43,10 +43,10 @@ record:
   title: Added new `editor-diff`, `editor-whole`, and `editor-diff-fenced` edit formats
   type: change
 related_changes:
-- '[[Changes/Descript/2025-04-08-a-new-look-for-the-editor-recorder|A new look for
-  the Editor recorder]]'
 - '[[Changes/Dify/2025-04-09-chore-slider-fix-the-slider-lint-error-by-nov1c444-in-https-github-com-langgeniu|chore(slider):
   fix the slider lint error]]'
+- '[[Changes/Raycast/2025-04-09-2-editor-experience-changes-in-raycast-macos-v1-1-95-0|2
+  Editor Experience changes in Raycast macos-v1 1.95.0]]'
 - '[[Changes/Cline/2025-04-12-3-editor-experience-changes-in-v3-12-0|3 Editor Experience
   changes in v3.12.0]]'
 source_release: '[[Releases/Aider/aider-2025-04-14-v0-82-0-github-212339053-266589e6|aider-2025-04-14-v0-82-0-github-212339053-266589e6]]'
@@ -79,7 +79,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2025-04-12 · Cline · [[Changes/Cline/2025-04-12-3-editor-experience-changes-in-v3-12-0|3 Editor Experience changes in v3.12.0]]
-- Later: 2025-04-18 · Replit · [[Changes/Replit/2025-04-18-dev-preview-url-education|Dev preview URL education]]
+- Later: 2025-04-17 · Devin · [[Changes/Devin/2025-04-17-devin-knows-your-codebase-and-will-comment-on-each-ticket-in-minutes-with-a-summ|Devin knows your codebase and will comment on each ticket in minutes with a summary…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

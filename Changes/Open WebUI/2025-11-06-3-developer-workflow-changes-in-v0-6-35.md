@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 74d197630b5a6256b413bc6e12da4465bdaf2e00740826039b24601da5ba02a3
+machine_hash: 91025a304ab4a7d33738e0316b55887b7088b164a067f5b8a2f5f4a9cfbd6a36
 product: open-webui
 product_name: Open WebUI
 record:
@@ -106,7 +106,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.6.35
 ## Nearby in Developer Workflow
 
 - Earlier: 2025-11-06 · Open WebUI · [[Changes/Open WebUI/2025-11-06-socket-io-cors-warning-is-resolved-by-properly-configuring-cors-origins-for-sock|🔌 Socket.IO CORS warning is resolved by properly configuring CORS origins for Socket]]
-- Later: 2025-11-07 · Gemini CLI · [[Changes/Gemini CLI/2025-11-07-5-developer-workflow-changes-in-v0-13-0|5 Developer Workflow changes in v0.13.0]]
+- Later: 2025-11-06 · Raycast · [[Changes/Raycast/2025-11-06-preferences-added-environment-variables-preference-command|Preferences : Added Environment Variables preference command]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

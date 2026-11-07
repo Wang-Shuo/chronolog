@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: d3900b62dc4c29e69f014d47158e26ee2e33bf84d423a1bb76b466fbf635ad5f
+machine_hash: c16f58d4e5fcc94e4568f48006801776d051bd118ceb8d984a0b01d3e9133919
 product: notion
 product_name: Notion
 record:
@@ -51,11 +51,11 @@ record:
   title: Connect Notion’s “People” property in Synced Databases for GitHub and Jira
   type: change
 related_changes:
-- '[[Changes/Notion/2021-11-02-create-dynamic-previews-of-github-prs-slack-messages-jira-issues-more|Create
-  dynamic previews of GitHub PRs, Slack messages, Jira issues & more]]'
-- '[[Changes/Notion/2022-07-20-better-inline-link-previews|Better inline link previews]]'
-- '[[Changes/Notion/2022-08-25-improvements-to-synced-databases-with-jira-and-github|Improvements
-  to Synced Databases with Jira and GitHub]]'
+- '[[Changes/Raycast/2022-10-12-search-finder-aliases-are-now-followed-when-indexing-apps|Search
+  : Finder aliases are now followed when indexing apps]]'
+- '[[Changes/Raycast/2022-10-26-root-search-newly-installed-apps-and-extensions-are-up-ranked-and-get-suggested|Root
+  Search: Newly installed apps and extensions are up-ranked and get suggested]]'
+- '[[Changes/Raycast/2022-10-26-double-tap-hotkeys|Double-Tap Hotkeys]]'
 source_release: '[[Releases/Notion/notion-2022-11-08-https-www-notion-com-releases-2022-11-08-adff0769|notion-2022-11-08-https-www-notion-com-releases-2022-11-08-adff0769]]'
 source_type: notion_changelog
 theme: apps-integrations
@@ -85,8 +85,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2022-08-25 · Notion · [[Changes/Notion/2022-08-25-improvements-to-synced-databases-with-jira-and-github|Improvements to Synced Databases with Jira and GitHub]]
-- Later: 2023-03-21 · Descript · [[Changes/Descript/2023-03-21-projects-created-using-our-zapier-integration-now-create-storyboard-projects|Projects created using our Zapier integration now create Storyboard projects]]
+- Earlier: 2022-10-26 · Raycast · [[Changes/Raycast/2022-10-26-double-tap-hotkeys|Double-Tap Hotkeys]]
+- Later: 2022-12-15 · Raycast · [[Changes/Raycast/2022-12-15-meet-your-raycast-wrapped|Meet your Raycast Wrapped]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

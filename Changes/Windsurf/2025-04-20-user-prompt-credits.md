@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: f317f9eb7df01555aaa43cb0d437bd82015a9697fcd91cb8be28e70bd6b9b2d4
+machine_hash: 0885b97d40bc139c35e9fc81d9d92c493b28953829219f3fe264c4240ff0a3ed
 product: windsurf
 product_name: Windsurf
 record:
@@ -48,8 +48,7 @@ record:
   title: User Prompt Credits
   type: change
 related_changes:
-- '[[Changes/Cline/2025-04-15-eng-435-xai-provider-cost-issue-by-canvrno-in-https-github-com-cline-cline-pull|ENG-435/xAI
-  provider cost issue]]'
+- '[[Changes/Raycast/2025-04-16-try-raycast-ai-for-free|Try Raycast AI For Free]]'
 - '[[Changes/Windsurf/2025-04-20-we-re-getting-rid-of-flow-action-credits|We''re getting
   rid of Flow Action Credits]]'
 - '[[Changes/Windsurf/2025-04-20-updated-simplified-pricing|Updated & Simplified Pricing]]'
@@ -87,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2025-04-15 · Cline · [[Changes/Cline/2025-04-15-eng-435-xai-provider-cost-issue-by-canvrno-in-https-github-com-cline-cline-pull|ENG-435/xAI provider cost issue]]
+- Earlier: 2025-04-16 · Raycast · [[Changes/Raycast/2025-04-16-try-raycast-ai-for-free|Try Raycast AI For Free]]
 - Later: 2025-05-02 · Lovable · [[Changes/Lovable/2025-05-02-improvements|Improvements]]
 <!-- chronolog:end -->
 

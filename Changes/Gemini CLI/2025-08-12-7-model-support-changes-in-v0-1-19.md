@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f241a4d0094448c870d650a5a376c227bcaf01446809f00856facdc685d43497
+machine_hash: 971414b0db9df7b03ec7b7860a4b8f12e64438269cd7e3e8062d215dd359d48c
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -119,7 +119,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.1.19
 ## Nearby in Model Support
 
 - Earlier: 2025-08-12 · Codex CLI · [[Changes/Codex CLI/2025-08-12-https-github-com-openai-codex-pull-2183-include-output-truncation-message-in-too|(source link) Include output truncation message in tool…]]
-- Later: 2025-08-13 · Cline · [[Changes/Cline/2025-08-13-4-model-support-changes-in-v3-24-0|4 Model Support changes in v3.24.0]]
+- Later: 2025-08-12 · LM Studio · [[Changes/LM Studio/2025-08-12-5-model-support-changes-in-lm-studio-0-3-23|5 Model Support changes in LM Studio 0.3.23]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

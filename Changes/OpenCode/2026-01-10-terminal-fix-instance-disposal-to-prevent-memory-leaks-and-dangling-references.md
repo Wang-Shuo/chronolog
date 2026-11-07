@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: cb6b12b865c02e4676d9c5488d1fb8ef7bbaf216c3de1fa25ef5784ec0ff4576
+machine_hash: d4201e862597cbefcccb5ad10af3a2fff6c0b97d74c6f3ee71c0778232b14a46
 product: opencode
 product_name: OpenCode
 record:
@@ -51,8 +51,8 @@ record:
   title: Terminal Fix instance disposal to prevent memory leaks and dangling references
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-01-09-desktop-implement-chunked-message-loading-and-lazy-diff-loading-for-improved-per|Desktop
-  Implement chunked message loading and lazy diff loading for improved performance]]'
+- '[[Changes/Superwhisper/2026-01-09-dependency-updates-including-some-model-runtime-performance-improvements|Dependency
+  updates, including some model runtime performance improvements]]'
 - '[[Changes/Ollama/2026-01-10-for-older-models-ollama-will-avoid-an-integer-underflow-on-low-vram-systems-duri|For
   older models, Ollama will avoid an integer underflow on low VRAM systems during…]]'
 - "[[Changes/Open WebUI/2026-01-10-the-evaluations-page-now-loads-faster-by-eliminating-duplicate-api-calls-to-the|\U0001F4CA
@@ -88,7 +88,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-01-10 · Open WebUI · [[Changes/Open WebUI/2026-01-10-the-evaluations-page-now-loads-faster-by-eliminating-duplicate-api-calls-to-the|📊 The Evaluations page now loads faster by eliminating duplicate API calls…]]
-- Later: 2026-01-13 · Dify · [[Changes/Dify/2026-01-13-4-reliability-and-performance-changes-in-1-11-3|4 Reliability and Performance changes in 1.11.3]]
+- Later: 2026-01-12 · Raycast · [[Changes/Raycast/2026-01-12-ai-improved-streaming-performance|AI: Improved streaming performance]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

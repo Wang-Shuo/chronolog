@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 574486d71553560f18ffb968918ac4c5c3fddbfb818b55285ee74ca746f296f6
+machine_hash: c853ec0d751b4e96d6f3b553124f79004c162354a277e8011232ad6ff2ba4c90
 product: aider
 product_name: Aider
 record:
@@ -41,7 +41,8 @@ record:
   title: Added Ctrl-Up/Down keyboard shortcuts for per-message history navigation
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2024-11-22-sidebar-redesign-e6413a|Sidebar redesign]]'
+- '[[Changes/Superwhisper/2024-11-22-add-language-model-processing-time-to-history-sidebar|Add
+  language model processing time to history sidebar]]'
 - "[[Changes/Open WebUI/2024-11-23-mobile-controls-visibility-resolved-an-issue-where-the-controls-button-was-not-d|\U0001F4F1
   Mobile Controls Visibility]]"
 - '[[Changes/Cursor/2024-11-24-composer-ui-in-the-sidebar-with-inline-diffs|Composer

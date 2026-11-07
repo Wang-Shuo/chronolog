@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0ec6094d92d3f29cdee6bc3cfed0f24ae6fdebb239d9dedba000b5bec5c47002
+machine_hash: a6db0499ade2a1947a63bc08a6534c4a80990297e52f6115d3ab6c0e585d77f0
 product: ollama
 product_name: Ollama
 record:
@@ -41,10 +41,10 @@ record:
   title: The OpenAI-compatible Responses API now supports web search
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-08-07-3-search-and-browsing-changes-in-rust-v0-147-0|3
-  Search and Browsing changes in rust-v0.147.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-08-10-improve-teleported-subagent-tasks-navigation-with-nested-tree-browsing-current-a|Improve
   teleported subagent /tasks navigation with nested tree browsing, current/all…]]'
+- '[[Changes/AnythingLLM/2026-08-13-feat-agents-add-you-com-as-web-search-provider-by-souravrajvi0-in-https-github-c|feat(agents):
+  add You.com as web search provider]]'
 - '[[Changes/ChatGPT/2026-08-13-if-you-have-the-google-drive-plugin-connected-you-can-now-see-and-browse-your-go-97f18f|If
   you have the Google Drive plugin connected, you can now see and browse…]]'
 source_release: '[[Releases/Ollama/ollama-2026-08-14-v0-32-11-github-370267645-42ac6b6c|ollama-2026-08-14-v0-32-11-github-370267645-42ac6b6c]]'

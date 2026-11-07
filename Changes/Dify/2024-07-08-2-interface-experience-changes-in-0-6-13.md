@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2dd86ab03bc55ff0f64714c094330c61ea6274d5326fbc20a296f814ffe9f8ec
+machine_hash: 69e262656a9510cda65f7f71bd076d7872169ff6c6546dd1612adf1ca3d8642b
 product: dify
 product_name: Dify
 record:
@@ -43,10 +43,9 @@ record:
   title: 2 Interface Experience changes in 0.6.13
   type: change
 related_changes:
-- '[[Changes/Dify/2024-06-14-update-tooltip-by-guchenhe-in-https-github-com-langgenius-dify-pull-5235|update
-  tooltip]]'
 - '[[Changes/Open WebUI/2024-06-27-2-interface-experience-changes-in-v0-3-6|2 Interface
   Experience changes in v0.3.6]]'
+- '[[Changes/Devin/2024-06-30-start-duplicate-sessions|Start Duplicate Sessions]]'
 - '[[Changes/Ollama/2024-07-02-2-interface-experience-changes-in-v0-2-0|2 Interface
   Experience changes in v0.2.0]]'
 source_release: '[[Releases/Dify/dify-2024-07-08-0-6-13-github-164437936-9fca9505|dify-2024-07-08-0-6-13-github-164437936-9fca9505]]'

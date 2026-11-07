@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 60ccdbdebdd927025fac1839607682f0b76c1971c26e53304236b68d298f0bc4
+machine_hash: d4c379bb5d46c771b1fae061bbc29d37661f7dae8885a5c1e308470b7946102b
 product: dify
 product_name: Dify
 record:
@@ -51,8 +51,7 @@ record:
   title: 'refactor(agents): simplify repository context'
   type: change
 related_changes:
-- '[[Changes/Cline/2026-07-24-add-claude-opus-5-across-the-anthropic-claude-code-bedrock-vertex-cline-and-open|Add
-  Claude Opus 5 across the Anthropic, Claude Code, Bedrock, Vertex, Cline…]]'
+- '[[Changes/Devin/2026-07-24-oidc-identity-tokens|OIDC Identity Tokens]]'
 - '[[Changes/Lovable/2026-07-25-leaked-api-keys-are-revoked-automatically|Leaked API
   keys are revoked automatically]]'
 - '[[Changes/Open WebUI/2026-07-27-9-context-window-changes-in-v0-11-0|9 Context Window
@@ -103,7 +102,7 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2026-07-27 · Open WebUI · [[Changes/Open WebUI/2026-07-27-9-context-window-changes-in-v0-11-0|9 Context Window changes in v0.11.0]]
-- Later: 2026-07-29 · Codex CLI · [[Changes/Codex CLI/2026-07-29-5-context-window-changes-in-rust-v0-146-0|5 Context Window changes in rust-v0.146.0]]
+- Later: 2026-07-28 · Raycast · [[Changes/Raycast/2026-07-28-ai-improved-context-handling-for-tools-and-large-chats-which-should-solve-a-few|AI: Improved context handling for tools and large chats, which should solve a few…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

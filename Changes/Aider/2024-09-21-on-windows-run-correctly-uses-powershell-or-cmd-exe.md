@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 08509d2c07215be92e94bae8dc712f4c3d09f899668ba55a97d914fa9f2d079d
+machine_hash: b5a9f2d579559bd61cc792da34751a660b73b5f8296fb5523fcce962ac9acfb1
 product: aider
 product_name: Aider
 record:
@@ -43,12 +43,12 @@ record:
   title: On Windows, `/run` correctly uses PowerShell or cmd.exe
   type: change
 related_changes:
-- '[[Changes/Gemini/2024-08-26-contextual-and-convenient-help-from-gemini|Contextual
-  and convenient help from Gemini]]'
-- "[[Changes/Open WebUI/2024-08-27-call-mode-activation-via-url-added-a-call-true-url-search-parameter-enabling-dir|\U0001F517
-  Call Mode Activation via URL]]"
+- '[[Changes/Devin/2024-09-03-devin-responds-to-comments-on-prs|Devin responds to
+  comments on PRs]]'
 - '[[Changes/Aider/2024-09-04-only-print-the-pip-command-when-self-updating-on-windows-without-running-it|Only
   print the pip command when self updating on Windows, without running it]]'
+- '[[Changes/AnythingLLM/2024-09-11-mobile-render-fix-by-jeffscottward-in-https-github-com-mintplex-labs-anything-ll|Mobile
+  render fix]]'
 source_release: '[[Releases/Aider/aider-2024-09-21-v0-57-0-github-176248363-c44e2603|aider-2024-09-21-v0-57-0-github-176248363-c44e2603]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -80,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2024-09-04 · Aider · [[Changes/Aider/2024-09-04-only-print-the-pip-command-when-self-updating-on-windows-without-running-it|Only print the pip command when self updating on Windows, without running it]]
+- Earlier: 2024-09-11 · AnythingLLM · [[Changes/AnythingLLM/2024-09-11-mobile-render-fix-by-jeffscottward-in-https-github-com-mintplex-labs-anything-ll|Mobile render fix]]
 - Later: 2024-09-24 · Open WebUI · [[Changes/Open WebUI/2024-09-24-temporary-file-handling-on-windows-fixed-an-issue-causing-errors-when-accessing|🗑️ Temporary File Handling On Windows]]
 <!-- chronolog:end -->
 

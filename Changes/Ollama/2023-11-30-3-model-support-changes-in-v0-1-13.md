@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d1331123566845ea3709d6bacdb62a66ba148ecfeaadeb4360dc99059b4f6aeb
+machine_hash: 9cfaad976a8e552d0eeef530d3c1e6104a37949c34daadc3197d521a88ae11bd
 product: ollama
 product_name: Ollama
 record:
@@ -48,12 +48,12 @@ record:
   title: 3 Model Support changes in v0.1.13
   type: change
 related_changes:
-- '[[Changes/Dify/2023-11-21-2-model-support-changes-in-0-3-31|2 Model Support changes
-  in 0.3.31]]'
-- '[[Changes/Dify/2023-11-25-3-model-support-changes-in-0-3-32|3 Model Support changes
-  in 0.3.32]]'
-- '[[Changes/Ollama/2023-11-26-yi-chat-https-ollama-ai-library-yi-the-chat-variant-of-the-popular-yi-34b-model|Yi
-  Chat((source link) the chat variant of the popular Yi 34b…]]'
+- '[[Changes/Superwhisper/2023-11-28-set-selected-model-on-settings-appear|Set selected
+  model on settings appear]]'
+- '[[Changes/Raycast/2023-11-29-quick-ai-users-with-the-gpt-4-upgrade-can-now-use-this-model-for-quick-ai-choose|Quick
+  AI: Users with the GPT-4 upgrade can now use this model for Quick AI]]'
+- '[[Changes/Superwhisper/2023-11-29-enable-recording-window-and-disable-auto-close-when-llm-is-enabled|Enable
+  recording window and disable auto close when LLM is enabled]]'
 source_release: '[[Releases/Ollama/ollama-2023-11-30-v0-1-13-github-132016464-45c6b30c|ollama-2023-11-30-v0-1-13-github-132016464-45c6b30c]]'
 source_type: github_releases
 theme: model-support
@@ -90,8 +90,8 @@ Source: https://github.com/ollama/ollama/releases/tag/v0.1.13
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2023-11-26 · Ollama · [[Changes/Ollama/2023-11-26-yi-chat-https-ollama-ai-library-yi-the-chat-variant-of-the-popular-yi-34b-model|Yi Chat((source link) the chat variant of the popular Yi 34b…]]
-- Later: 2023-12-06 · Gemini · [[Changes/Gemini/2023-12-06-bard-is-getting-its-biggest-upgrade-yet-with-gemini-pro|Bard is getting its biggest upgrade yet with Gemini Pro]]
+- Earlier: 2023-11-29 · Superwhisper · [[Changes/Superwhisper/2023-11-29-enable-recording-window-and-disable-auto-close-when-llm-is-enabled|Enable recording window and disable auto close when LLM is enabled]]
+- Later: 2023-12-04 · Superwhisper · [[Changes/Superwhisper/2023-12-04-3-model-support-changes-in-superwhisper-macos-1-18-3|3 Model Support changes in Superwhisper macOS 1.18.3]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

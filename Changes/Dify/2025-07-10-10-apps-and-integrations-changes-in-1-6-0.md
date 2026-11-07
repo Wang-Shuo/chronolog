@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d4105aa78ffa33c792af93dd5bdb24f63b7e6edc607da8b4149ca354b39d30af
+machine_hash: d47ea035fac22d1d38869e13fe8fa178fd17667e1e5a840348bfb696fc2da373
 product: dify
 product_name: Dify
 record:
@@ -66,11 +66,12 @@ record:
   title: 10 Apps and Integrations changes in 1.6.0
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2025-07-07-conversation-enhancements|Conversation Enhancements]]'
 - '[[Changes/Cline/2025-07-08-update-the-no-vscode-postmessage-eslint-rule-to-check-for-any-of-the-vscode-sdk|Update
   the no-vscode-postmessage eslint rule to check for any of the vscode SDK…]]'
 - '[[Changes/Cline/2025-07-08-migrate-download-mcp-response-to-proto-by-celestial-vault-in-https-github-com-cl|migrate
   download MCP response to proto]]'
+- '[[Changes/Recraft/2025-07-09-with-mcp-ai-agents-like-claude-don-t-just-suggest-ideas-they-can-execute-them-di|With
+  MCP, AI agents like Claude don’t just suggest ideas]]'
 source_release: '[[Releases/Dify/dify-2025-07-10-1-6-0-github-231400193-9181f945|dify-2025-07-10-1-6-0-github-231400193-9181f945]]'
 source_type: github_releases
 theme: apps-integrations
@@ -126,7 +127,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.6.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-07-08 · Cline · [[Changes/Cline/2025-07-08-migrate-download-mcp-response-to-proto-by-celestial-vault-in-https-github-com-cl|migrate download MCP response to proto]]
+- Earlier: 2025-07-09 · Recraft · [[Changes/Recraft/2025-07-09-with-mcp-ai-agents-like-claude-don-t-just-suggest-ideas-they-can-execute-them-di|With MCP, AI agents like Claude don’t just suggest ideas]]
 - Later: 2025-07-10 · Notion · [[Changes/Notion/2025-07-10-build-with-replit-manage-with-notion|Build with Replit, manage with Notion]]
 <!-- chronolog:end -->
 

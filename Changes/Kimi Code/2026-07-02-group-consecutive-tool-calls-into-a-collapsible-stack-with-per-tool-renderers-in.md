@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5c3a5d60ac6a3971c52c639408913a698e75927daaf951ca229bc6267d8383bf
+machine_hash: 660702d1b0393393d2ddf3406a3db679b48ecb7cf13686912ff5932eb8a82e30
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -86,7 +86,7 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2026-07-01 · Open WebUI · [[Changes/Open WebUI/2026-07-01-speech-to-text-request-format-openai-compatible-speech-to-text-can-now-send-audi|🎙️ Speech-to-text request format. OpenAI-compatible speech-to-text can now send…]]
-- Later: 2026-07-06 · ElevenLabs · [[Changes/ElevenLabs/2026-07-06-music|Music]]
+- Later: 2026-07-02 · Raycast · [[Changes/Raycast/2026-07-02-ai-improved-audio-processing-for-more-accurate-dictation|AI: Improved audio processing for more accurate dictation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

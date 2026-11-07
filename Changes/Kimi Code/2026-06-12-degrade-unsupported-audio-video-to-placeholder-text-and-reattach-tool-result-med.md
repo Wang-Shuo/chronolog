@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9768f31095ed4c43891ea141453a998ffea7f1780b4aa73925117d00bf2b93cb
+machine_hash: 334e778f0e648db76adc1ae84114462e6453826f189fe6cb520a65ff359d9571
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -45,10 +45,10 @@ record:
     media…
   type: change
 related_changes:
-- '[[Changes/HeyGen/2026-06-08-unlike-most-video-tools-which-cut-the-audio-and-leave-the-video-jumping-at-every|Unlike
-  most video tools, which cut the audio and leave the video jumping at every…]]'
 - '[[Changes/Descript/2026-06-11-transcription|Transcription]]'
 - '[[Changes/Descript/2026-06-11-tone-tags-for-ai-speakers|Tone Tags for AI speakers]]'
+- '[[Changes/Superwhisper/2026-06-11-implement-smooth-scrolling-for-long-transcription-results-in-recording-window|Implement
+  smooth scrolling for long transcription results in recording window]]'
 source_release: '[[Releases/Kimi Code/kimi-code-2026-06-12-0-14-1-5e25c990|kimi-code-2026-06-12-0-14-1-5e25c990]]'
 source_type: kimi_code_changelog
 theme: voice
@@ -84,8 +84,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-06-11 · Descript · [[Changes/Descript/2026-06-11-tone-tags-for-ai-speakers|Tone Tags for AI speakers]]
-- Later: 2026-06-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-13-voice-runtime-download-dialog-no-longer-reopens-in-a-loop-after-an-install-failu|Voice runtime download dialog no longer reopens in a loop after an install failure]]
+- Earlier: 2026-06-11 · Superwhisper · [[Changes/Superwhisper/2026-06-11-implement-smooth-scrolling-for-long-transcription-results-in-recording-window|Implement smooth scrolling for long transcription results in recording window]]
+- Later: 2026-06-12 · Raycast · [[Changes/Raycast/2026-06-12-3-voice-and-audio-changes-in-raycast-windows-0-64|3 Voice and Audio changes in Raycast windows 0.64]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

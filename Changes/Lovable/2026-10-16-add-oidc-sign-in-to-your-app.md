@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 5c364c0af1bfcb54db85da6e065e2c303a0b42258f01d23fedeb3f7b2d89c417
+machine_hash: 85b46959c34da7bce65413328de4c3de863334650dd5b799746c0a493b5cece0
 product: lovable
 product_name: Lovable
 record:
@@ -53,12 +53,12 @@ record:
   title: Add OIDC sign-in to your app
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-10-15-use-lovable-from-claude-through-your-company-s-sso|Use
-  Lovable from Claude through your company''s SSO]]'
 - '[[Changes/Lovable/2026-10-15-login-pages-include-sign-in-with-lovable-by-default|Login
   pages include Sign in with Lovable by default]]'
 - '[[Changes/Claude Code/2026-10-16-added-a-notice-to-design-sync-and-design-login-that-standalone-claude-design-cla|Added
   a notice to /design-sync and /design-login that standalone Claude Design…]]'
+- '[[Changes/Devin/2026-10-16-saml-single-logout-on-sign-out|SAML Single Logout on
+  Sign-out]]'
 source_release: '[[Releases/Lovable/lovable-2026-10-16-2026-10-16-3443a38d|lovable-2026-10-16-2026-10-16-3443a38d]]'
 source_type: lovable_changelog
 theme: account-access
@@ -94,7 +94,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-10-16 · Claude Code · [[Changes/Claude Code/2026-10-16-added-a-notice-to-design-sync-and-design-login-that-standalone-claude-design-cla|Added a notice to /design-sync and /design-login that standalone Claude Design…]]
+- Earlier: 2026-10-16 · Devin · [[Changes/Devin/2026-10-16-saml-single-logout-on-sign-out|SAML Single Logout on Sign-out]]
 - Later: 2026-10-16 · Open WebUI · [[Changes/Open WebUI/2026-10-16-2-account-and-access-changes-in-v0-12-3|2 Account and Access changes in v0.12.3]]
 <!-- chronolog:end -->
 

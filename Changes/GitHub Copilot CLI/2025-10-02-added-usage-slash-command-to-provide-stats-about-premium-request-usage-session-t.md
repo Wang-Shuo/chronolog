@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 11de5b1f10479ad5f2750468ec975dd1814bb881536b484eaaefc00090418543
+machine_hash: dad8d6e7f062fff44e47162e5a41a34e0e06c9281cf70d583aeb9949050a6ed4
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -50,8 +50,8 @@ record:
     session…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2025-10-01-improved-the-model-s-list-to-ensure-that-a-user-only-sees-models-they-have-acces|Improved
-  the /models list to ensure that a user only sees models they have access…]]'
+- '[[Changes/LM Studio/2025-10-01-4-model-support-changes-in-lm-studio-0-3-28|4 Model
+  Support changes in LM Studio 0.3.28]]'
 - '[[Changes/OpenHands/2025-10-01-added-claude-sonnet-4-5-model-support|Added claude-sonnet-4-5
   model support]]'
 - '[[Changes/GitHub Copilot CLI/2025-10-02-2-model-support-changes-in-v0-0-333|2 Model

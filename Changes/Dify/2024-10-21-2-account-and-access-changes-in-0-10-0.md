@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 402658d4e0bf1c4e2bf912f181d2425040443a2ea79ad6bfae5f55dceacf80ea
+machine_hash: f42d45cfe65fd60f4dbe4514eae3bf5ddde2badc674bd25171cd49d754a2d5cc
 product: dify
 product_name: Dify
 record:
@@ -45,12 +45,12 @@ record:
   title: 2 Account and Access changes in 0.10.0
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2024-08-27-disable-signups-conditionally-implemented-conditional-logic-to-disable-sign-ups|✋
-  Disable Signups Conditionally]]'
 - "[[Changes/Open WebUI/2024-09-21-downgrade-authlib-reverted-authlib-to-version-1-3-1-to-address-and-resolve-issue|\U0001F513
   Downgrade Authlib]]"
 - '[[Changes/Open WebUI/2024-09-24-update-info-notification-for-admins-ensures-administrators-receive-immediate-upd|❗
   Update Info Notification for Admins]]'
+- '[[Changes/Devin/2024-10-10-we-ve-migrated-our-authentication-system-to-auth0|We''ve
+  migrated our authentication system to Auth0]]'
 source_release: '[[Releases/Dify/dify-2024-10-21-0-10-0-github-180976661-70c09171|dify-2024-10-21-0-10-0-github-180976661-70c09171]]'
 source_type: github_releases
 theme: account-access
@@ -89,7 +89,7 @@ Source: https://github.com/langgenius/dify/releases/tag/0.10.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2024-09-24 · Open WebUI · [[Changes/Open WebUI/2024-09-24-update-info-notification-for-admins-ensures-administrators-receive-immediate-upd|❗ Update Info Notification for Admins]]
+- Earlier: 2024-10-10 · Devin · [[Changes/Devin/2024-10-10-we-ve-migrated-our-authentication-system-to-auth0|We've migrated our authentication system to Auth0]]
 - Later: 2024-10-23 · Dify · [[Changes/Dify/2024-10-23-2-account-and-access-changes-in-0-10-1|2 Account and Access changes in 0.10.1]]
 <!-- chronolog:end -->
 

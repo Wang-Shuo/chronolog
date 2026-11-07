@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 56b19dd2505769027e19cc500e48444c5f4b0aa9e0f222527fd45ea8ab05f7b3
+machine_hash: 85d8ab8f74070153a578b2b718ba653a95a66066237472ee449b69cb415ed65e
 product: dify
 product_name: Dify
 record:
@@ -72,8 +72,7 @@ record:
   title: 11 Apps and Integrations changes in 1.8.0
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2025-08-21-5-apps-and-integrations-changes-in-v0-6-23|5 Apps
-  and Integrations changes in v0.6.23]]'
+- '[[Changes/Devin/2025-08-22-self-hosted-gitlab-access|Self-Hosted GitLab Access]]'
 - "[[Changes/Open WebUI/2025-08-22-tool-server-loading-and-visibility-restored-resolved-an-issue-where-connected-to|\U0001F6E0️
   Tool Server Loading and Visibility Restored]]"
 - '[[Changes/Codex CLI/2025-08-26-5-apps-and-integrations-changes-in-rust-v0-24-0|5

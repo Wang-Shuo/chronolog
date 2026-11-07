@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8cdd220339a8d58f63eedd9e479f916d8949d1d0b421861b29f0f72f32a6784d
+machine_hash: 9f9a9419362af09e4696efe6ceec7c0de1ac61e0bdca14ffa66e3c7701b09aaf
 product: open-webui
 product_name: Open WebUI
 record:
@@ -114,7 +114,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.12.4
 ## Nearby in Files and Data
 
 - Earlier: 2026-10-23 · OpenHands · [[Changes/OpenHands/2026-10-23-feat-canvas-quiet-backend-logs-by-default-by-neubig-in-https-github-com-openhand|feat(canvas): quiet backend logs by default]]
-- Later: 2026-10-26 · Claude Code · [[Changes/Claude Code/2026-10-26-improved-the-artifact-tool-s-choice-between-a-page-and-a-document-explainers-and|Improved the Artifact tool's choice between a page and a document]]
+- Later: 2026-10-26 · AnythingLLM · [[Changes/AnythingLLM/2026-10-26-2-files-and-data-changes-in-v1-19-0|2 Files and Data changes in v1.19.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

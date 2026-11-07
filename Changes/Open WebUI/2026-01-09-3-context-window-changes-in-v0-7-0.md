@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 34d3ca736669697f0d0fbe1516f7bf8d9fadacc15fbd1c00628b9f81ac3858e0
+machine_hash: 19b1bc44d3686dd2683ebee9c387553a625e2f0be7eddb2d77d2b760270644ea
 product: open-webui
 product_name: Open WebUI
 record:
@@ -57,12 +57,11 @@ record:
   title: 3 Context Window changes in v0.7.0
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-01-04-2-context-window-changes-in-v1-1-1|2 Context Window
-  changes in v1.1.1]]'
 - '[[Changes/Codex CLI/2026-01-06-2-context-window-changes-in-rust-v0-78-0|2 Context
   Window changes in rust-v0.78.0]]'
 - '[[Changes/Gemini CLI/2026-01-07-add-core-tool-that-adds-all-context-from-the-core-package-by-jacob314-in-https-g|Add
   core tool that adds all context from the core package]]'
+- '[[Changes/Devin/2026-01-09-copy-context-button|Copy Context Button]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-01-09-v0-7-0-github-275585328-a4da522c|open-webui-2026-01-09-v0-7-0-github-275585328-a4da522c]]'
 source_type: github_releases
 theme: context-window
@@ -112,7 +111,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.7.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-01-07 · Gemini CLI · [[Changes/Gemini CLI/2026-01-07-add-core-tool-that-adds-all-context-from-the-core-package-by-jacob314-in-https-g|Add core tool that adds all context from the core package]]
+- Earlier: 2026-01-09 · Devin · [[Changes/Devin/2026-01-09-copy-context-button|Copy Context Button]]
 - Later: 2026-01-09 · OpenCode · [[Changes/OpenCode/2026-01-09-desktop-cache-session-scoped-stores-and-add-optional-context-gating|Desktop Cache session-scoped stores and add optional context gating]]
 <!-- chronolog:end -->
 

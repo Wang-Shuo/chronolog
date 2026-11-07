@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4877dce04e9c5a4d751af11c4261937605290e208a8f78b13e78db5a3da09fbf
+machine_hash: 96cb099f2bbee807a7ce2c98cd6a06c759a17bbee148a3638bb52c56d6d71f25
 product: ollama
 product_name: Ollama
 record:
@@ -91,7 +91,7 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2025-04-15 · Cursor · [[Changes/Cursor/2025-04-15-project-structure-in-context-beta|Project structure in context (Beta)]]
-- Later: 2025-04-26 · Ollama · [[Changes/Ollama/2025-04-26-increased-default-context-window-to-4096-tokens|Increased default context window to 4096 tokens]]
+- Later: 2025-04-24 · LM Studio · [[Changes/LM Studio/2025-04-24-chat-sidebar-segments-context-and-model|Chat sidebar segments: Context and Model]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

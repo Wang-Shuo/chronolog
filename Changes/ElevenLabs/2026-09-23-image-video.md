@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: policy
-machine_hash: 4ac9600fd504ca3780a31625adf5521ab1956f6a4e8435b2c2ea00d6247363cd
+machine_hash: 90bcea61ad778fb918cc4a63c3eba6b3134d8f04383f3080b9d096c9383f19ca
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -65,12 +65,12 @@ record:
   title: Image & Video
   type: change
 related_changes:
-- '[[Changes/v0/2026-09-22-the-updated-model-picker-lets-you-browse-and-search-available-ai-gateway-models|More
-  model choices, with Enterprise owner controls]]'
 - '[[Changes/Claude Code/2026-09-23-improved-interactive-startup-time-git-reads-startup-telemetry-and-the-bedrock-ve|Improved
   interactive startup time]]'
 - '[[Changes/Codex CLI/2026-09-23-2-model-support-changes-in-rust-v0-156-1|2 Model
   Support changes in rust-v0.156.1]]'
+- '[[Changes/Devin/2026-09-23-capability-picker-names-the-models|Capability Picker
+  Names the Models]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-09-23-2026-09-23-6719e501|elevenlabs-2026-09-23-2026-09-23-6719e501]]'
 source_type: elevenlabs_changelog
 theme: model-support
@@ -97,7 +97,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-09-23 · Codex CLI · [[Changes/Codex CLI/2026-09-23-2-model-support-changes-in-rust-v0-156-1|2 Model Support changes in rust-v0.156.1]]
+- Earlier: 2026-09-23 · Devin · [[Changes/Devin/2026-09-23-capability-picker-names-the-models|Capability Picker Names the Models]]
 - Later: 2026-09-23 · Lovable · [[Changes/Lovable/2026-09-23-claude-models-for-your-app-s-ai-features|Claude models for your app's AI features]]
 <!-- chronolog:end -->
 

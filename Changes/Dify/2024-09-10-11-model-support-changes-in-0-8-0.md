@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0f2768e155c7176022a804f73d22478732f7661d8085e63bf5798a28016196ff
+machine_hash: 8216d287102a8da449c67f18f5b0e7f422875dd84f500776800059a6a83ff485
 product: dify
 product_name: Dify
 record:
@@ -133,7 +133,7 @@ Source: https://github.com/langgenius/dify/releases/tag/0.8.0
 ## Nearby in Model Support
 
 - Earlier: 2024-09-09 · Aider · [[Changes/Aider/2024-09-09-3-model-support-changes-in-v0-56-0|3 Model Support changes in v0.56.0]]
-- Later: 2024-09-12 · Cline · [[Changes/Cline/2024-09-12-adds-support-for-azure-openai-and-google-gemini-free-for-up-to-15-requests-per-m|Adds support for Azure OpenAI and Google Gemini (free for up to 15 requests per minute!)]]
+- Later: 2024-09-11 · AnythingLLM · [[Changes/AnythingLLM/2024-09-11-4-model-support-changes-in-v1-2-2|4 Model Support changes in v1.2.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

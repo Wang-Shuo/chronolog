@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 911b797a90cc60b48f78089d3145d8f1c75cb45f1a47be801a8b03b3f3588f55
+machine_hash: 462e1c538f7f667babe7ebbde8d40bf5a8a1a6a19189551968a0e6a2f35d4a48
 product: descript
 product_name: Descript
 record:
@@ -42,11 +42,10 @@ record:
   title: Rename Published Pages
   type: change
 related_changes:
-- '[[Changes/Notion/2020-07-28-streamlined-onboarding-for-users-joining-a-workspace-via-invite-link|Streamlined
-  onboarding for users joining a workspace via invite link]]'
 - "[[Changes/Notion/2020-08-18-switch-between-your-work-account-personal-account-use-notion-with-multiple-email|Switch
   between your work account & personal account \U0001F504 Use Notion with multiple
   emails?]]"
+- '[[Changes/Raycast/2020-08-25-slack-community|Slack community]]'
 - '[[Changes/Notion/2020-09-02-polished-some-rough-edges-on-the-full-template-gallery-button-at-the-bottom-righ|Polished
   some rough edges on the ↗ Full template gallery button at the bottom right…]]'
 source_release: '[[Releases/Descript/descript-2020-09-08-5f57aefefb116e70fcdc6c46-1203a0d6|descript-2020-09-08-5f57aefefb116e70fcdc6c46-1203a0d6]]'

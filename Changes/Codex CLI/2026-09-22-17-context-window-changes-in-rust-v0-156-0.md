@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c255d3c56f997f46478d4e1b2654351ac37dc1e3db787cf8ff8f41a1882a0a13
+machine_hash: 1a7aae14cf47f206c4a1b23c54df7dad7e0ca7fb943c2a05c31917570afcede9
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -77,8 +77,8 @@ record:
   title: 17 Context Window changes in rust-v0.156.0
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-09-19-20-context-window-changes-in-v2026-9-5|20 Context
-  Window changes in v2026.9.5]]'
+- '[[Changes/Devin/2026-09-21-rotate-bitbucket-data-center-tokens|Rotate Bitbucket
+  Data Center Tokens]]'
 - '[[Changes/Open WebUI/2026-09-21-3-context-window-changes-in-v0-11-4|3 Context Window
   changes in v0.11.4]]'
 - '[[Changes/Cline/2026-09-22-2-context-window-changes-in-v4-1-20|2 Context Window
@@ -164,7 +164,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.156.0
 ## Nearby in Context Window
 
 - Earlier: 2026-09-22 · Cline · [[Changes/Cline/2026-09-22-2-context-window-changes-in-v4-1-20|2 Context Window changes in v4.1.20]]
-- Later: 2026-09-23 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-09-23-new-copilot-notebooks-design-in-the-microsoft-365-copilot-app-web-microsoft-365|New Copilot Notebooks design in the Microsoft 365 Copilot App…]]
+- Later: 2026-09-23 · Devin · [[Changes/Devin/2026-09-23-microsoft-teams-commands-context-and-dm-cards|Microsoft Teams: Commands, Context and DM Cards]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

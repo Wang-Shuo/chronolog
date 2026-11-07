@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: cb0d7db333519ea533fa2d57c0ad31909656cf064d7e1e3890a15cbe704a2ede
+machine_hash: e7a0b1a50178f6a4d887969315da4fe2924348e2a8b4518208b3e129b571c75d
 product: notion
 product_name: Notion
 record:
@@ -98,7 +98,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2025-09-17 · Open WebUI · [[Changes/Open WebUI/2025-09-17-onedrive-integration-was-fixed-after-recent-breakage-restoring-reliable-account|☁️ OneDrive integration was fixed after recent breakage, restoring reliable account…]]
-- Later: 2025-09-19 · Replit · [[Changes/Replit/2025-09-19-mobile-connectors-support|Mobile connectors support]]
+- Later: 2025-09-18 · Raycast · [[Changes/Raycast/2025-09-18-6-apps-and-integrations-changes-in-raycast-windows-0-31|6 Apps and Integrations changes in Raycast windows 0.31]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

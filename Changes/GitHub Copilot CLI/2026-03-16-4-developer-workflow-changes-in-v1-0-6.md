@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: be4a885aa5fbccb0c9f8424aef4689e89d72fc7c3b062f97d86a89f8fb978052
+machine_hash: 5bd65cb24de661065dc19fa76abd780e83a626bd39b49a17d655dc9844ae2fbc
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -102,7 +102,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.6
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-03-16 · Codex CLI · [[Changes/Codex CLI/2026-03-16-2-developer-workflow-changes-in-rust-v0-115-0|2 Developer Workflow changes in rust-v0.115.0]]
-- Later: 2026-03-16 · v0 · [[Changes/v0/2026-03-16-added-v0-label-to-pull-requests-created-by-v0|Added "v0" label to pull requests created by v0]]
+- Later: 2026-03-16 · Raycast · [[Changes/Raycast/2026-03-16-2-developer-workflow-changes-in-raycast-windows-0-49|2 Developer Workflow changes in Raycast windows 0.49]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

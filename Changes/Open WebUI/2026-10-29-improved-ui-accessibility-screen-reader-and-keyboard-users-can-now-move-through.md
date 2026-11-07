@@ -5,20 +5,20 @@ description: 'Open WebUI · 2026-10-29 · Accessibility and Localization: ♿ **
   UI accessibility.** Screen reader and keyboard users can now move through a chat
   message…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-09-11-chatgpt-now-supports-a-limited-selection-of-languages-in-the-interface|ChatGPT
-    now supports a limited selection of languages in the interface]]'
+  first_in_tracked: '[[Changes/Raycast/2020-11-19-improved-searching-for-localized-application-and-preference-names|Improved
+    searching for localized application and preference names]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1144
+  lag_days: 2170
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: accessibility-localization
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 09c870fcf7fe98d27d3b4150e22640a21f0bd63dde16d76935e7aca77ed85fab
+machine_hash: 55ccc41c92c4312f2a6b3e3fd3d81791a0f41f81e7726390e9ec2bc5855e0941
 product: open-webui
 product_name: Open WebUI
 record:
@@ -80,12 +80,12 @@ record:
     move…
   type: change
 related_changes:
-- '[[Changes/Dify/2026-10-23-3-accessibility-and-localization-changes-in-1-18-0|3
-  Accessibility and Localization changes in 1.18.0]]'
 - '[[Changes/Claude Code/2026-10-26-3-accessibility-and-localization-changes-in-v2-1-311|3
   Accessibility and Localization changes in v2.1.311]]'
 - '[[Changes/Synthesia/2026-10-27-dub-videos-into-up-to-20-languages-straight-from-your-own-systems-with-the-new-l|Dub
   videos at scale with the Localization API]]'
+- '[[Changes/Devin/2026-10-28-transcript-and-composer-refinements|Transcript and Composer
+  Refinements]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-10-29-v0-12-5-github-427647877-d6957e2e|open-webui-2026-10-29-v0-12-5-github-427647877-d6957e2e]]'
 source_type: github_releases
 theme: accessibility-localization
@@ -130,14 +130,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Accessibility and Localization
 
-- Earlier: 2026-10-27 · Synthesia · [[Changes/Synthesia/2026-10-27-dub-videos-into-up-to-20-languages-straight-from-your-own-systems-with-the-new-l|Dub videos at scale with the Localization API]]
+- Earlier: 2026-10-28 · Devin · [[Changes/Devin/2026-10-28-transcript-and-composer-refinements|Transcript and Composer Refinements]]
 - Later: 2026-11-03 · Open WebUI · [[Changes/Open WebUI/2026-11-03-accessibility-improvements-screen-reader-users-now-hear-a-name-for-every-window|♿ Accessibility improvements. Screen reader users now hear a name for every…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-11 · ChatGPT · [[Changes/ChatGPT/2023-09-11-chatgpt-now-supports-a-limited-selection-of-languages-in-the-interface|ChatGPT now supports a limited selection of languages in the interface]]
+- Earliest same-theme entry in the tracked set: 2020-11-19 · Raycast · [[Changes/Raycast/2020-11-19-improved-searching-for-localized-application-and-preference-names|Improved searching for localized application and preference names]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

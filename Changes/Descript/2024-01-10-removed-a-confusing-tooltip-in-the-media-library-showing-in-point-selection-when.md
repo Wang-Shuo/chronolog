@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 880f649986bc6261bc6370767142d492b8929512a70ff92cae492dc05629c279
+machine_hash: 1638063271c8a9e9f6f2b7d81165a716896674807923a17b61e6af42cfcc773d
 product: descript
 product_name: Descript
 record:
@@ -46,11 +46,11 @@ record:
   title: Removed a confusing tooltip in the media library showing In-point selection…
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-12-06-minor-onboarding-changes-19f3e5|Onboarding & Feedback]]'
-- '[[Changes/Cursor/2023-12-16-previews-we-made-it-easier-to-see-what-codeblock-you-re-ing|@
-  previews: We made it easier to see what codeblock you''re @''ing]]'
 - '[[Changes/Descript/2023-12-18-speaker-label-and-speaker-menu-changes|Speaker Label
   and Speaker Menu changes]]'
+- '[[Changes/Superwhisper/2023-12-18-sidebar-hide-button|Sidebar hide button]]'
+- '[[Changes/Superwhisper/2023-12-19-completely-rebuilt-onboarding|Completely rebuilt
+  onboarding]]'
 source_release: '[[Releases/Descript/descript-2024-01-10-659d7ecd3c8af3aabfb226c7-4effc43f|descript-2024-01-10-659d7ecd3c8af3aabfb226c7-4effc43f]]'
 source_type: canny_changelog
 theme: interface-experience
@@ -82,8 +82,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2023-12-18 · Descript · [[Changes/Descript/2023-12-18-speaker-label-and-speaker-menu-changes|Speaker Label and Speaker Menu changes]]
-- Later: 2024-01-12 · Dify · [[Changes/Dify/2024-01-12-feat-app-sidebar-support-collapse-by-zxhlyh-in-https-github-com-langgenius-dify|feat: app sidebar support collapse]]
+- Earlier: 2023-12-19 · Superwhisper · [[Changes/Superwhisper/2023-12-19-completely-rebuilt-onboarding|Completely rebuilt onboarding]]
+- Later: 2024-01-10 · Raycast · [[Changes/Raycast/2024-01-10-ai-emoji-suggestions|AI Emoji Suggestions]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

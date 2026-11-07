@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d8cd76ce5cb609728899b30b703f30c6695358bdf6a51f8ab72ecd3cfd1a48f3
+machine_hash: 4158b12166ae947e022f7377a5ff1469550e6c59a26ae7006928bca8639c52f5
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,10 +43,10 @@ record:
   title: 2 Safety and Privacy changes in v2.1.152
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-05-22-docs-add-vi-mode-shortcuts-and-clarify-mcp-custom-sandbox-setup-by-chrisjcthomas|docs:
-  add vi mode shortcuts and clarify MCP/custom sandbox setup]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-23-2-safety-and-privacy-changes-in-v1-0-52|2
   Safety and Privacy changes in v1.0.52]]'
+- '[[Changes/AnythingLLM/2026-05-26-this-is-we-believe-a-fundamental-shift-in-how-ai-assistants-work-for-the-first-t|This
+  is, we believe, a fundamental shift in how AI assistants work]]'
 - '[[Changes/Codex CLI/2026-05-26-7-safety-and-privacy-changes-in-rust-v0-134-0|7
   Safety and Privacy changes in rust-v0.134.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-27-v2-1-152-github-329718732-e62ea850|claude-code-2026-05-27-v2-1-152-github-329718732-e62ea850]]'

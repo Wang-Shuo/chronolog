@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 8907df3d8734f05c24549aeae0009af3a943f0fadb0ff4e9d8bd736d367c2116
+machine_hash: 0a7d016d13cb9091caf5fb9c2eb2b2586915ced3e1f7ddd8e84488bf5aad06e7
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -109,7 +109,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2023-08-02 · Ollama · [[Changes/Ollama/2023-08-02-when-running-ollama-run-the-show-command-can-be-used-to-inspect-the-current-mode|When running ollama run, the /show command can be used to inspect the current model]]
-- Later: 2023-08-08 · Aider · [[Changes/Aider/2023-08-08-defend-against-gpt-3-5-or-non-openai-models-suggesting-filenames-surrounded-by-a|Defend against GPT-3.5 or non-OpenAI models suggesting filenames surrounded by asterisks]]
+- Later: 2023-08-03 · Superwhisper · [[Changes/Superwhisper/2023-08-03-added-nano-model-between-the-smallest-fast-model-and-the-standard-model|Added "Nano" model, between the smallest "Fast" model and the "Standard" model]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

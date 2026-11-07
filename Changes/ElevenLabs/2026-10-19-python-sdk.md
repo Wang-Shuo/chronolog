@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 04e088ae717fb7ebaa79aea7e573affbb71b41787a35986c45666a291162274c
+machine_hash: f02034135cd3b969dd3271f6e15a3cffa91b24f5974283d692abc49a81c7bf1b
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -65,10 +65,10 @@ record:
   title: Python SDK
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-10-18-3-apps-and-integrations-changes-in-v2026-10-5|3 Apps
-  and Integrations changes in v2026.10.5]]'
-- '[[Changes/Claude Code/2026-10-19-8-apps-and-integrations-changes-in-v2-1-304|8
-  Apps and Integrations changes in v2.1.304]]'
+- '[[Changes/Devin/2026-10-19-propose-edits-to-shared-plugins-and-skills|Propose Edits
+  to Shared Plugins and Skills]]'
+- '[[Changes/Devin/2026-10-19-devin-oncall-is-now-generally-available|Devin Oncall
+  Is Now Generally Available]]'
 - '[[Changes/ElevenLabs/2026-10-19-sdk-releases|SDK releases]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-10-19-2026-10-19-dd219c14|elevenlabs-2026-10-19-2026-10-19-dd219c14]]'
 source_type: elevenlabs_changelog
@@ -116,7 +116,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-10-19 · Claude Code · [[Changes/Claude Code/2026-10-19-8-apps-and-integrations-changes-in-v2-1-304|8 Apps and Integrations changes in v2.1.304]]
+- Earlier: 2026-10-19 · Devin · [[Changes/Devin/2026-10-19-devin-oncall-is-now-generally-available|Devin Oncall Is Now Generally Available]]
 - Later: 2026-10-19 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-19-10-apps-and-integrations-changes-in-v1-0-100|10 Apps and Integrations changes in v1.0.100]]
 <!-- chronolog:end -->
 

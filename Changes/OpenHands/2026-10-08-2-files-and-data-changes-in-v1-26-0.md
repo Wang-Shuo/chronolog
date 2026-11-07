@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f678d80e2081697d4a38b87e8db6485d6cbaa9c3439db53a21c7de80128c5fc5
+machine_hash: 2158ae12645c199494b83e6edad173cf928b5b69dd67211b29c8c48d5578c432
 product: openhands
 product_name: OpenHands
 record:
@@ -44,12 +44,11 @@ record:
   title: 2 Files and Data changes in v1.26.0
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-10-01-it-s-now-easier-to-bring-your-notes-and-documents-into-chatgpt-on-your-phone-cap|Scan
-  notes and documents more easily with ChatGPT camera]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-05-canvas-actions-can-now-return-images-to-the-model-in-invoke-canvas-action|Canvas
   actions can now return images to the model in invoke_canvas_action]]'
 - '[[Changes/OpenHands/2026-10-06-6-files-and-data-changes-in-v1-25-0|6 Files and
   Data changes in v1.25.0]]'
+- '[[Changes/Devin/2026-10-07-slack|Slack]]'
 source_release: '[[Releases/OpenHands/openhands-2026-10-08-v1-26-0-github-407241649-7e646875|openhands-2026-10-08-v1-26-0-github-407241649-7e646875]]'
 source_type: github_releases
 theme: file-data
@@ -87,7 +86,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/v1.26.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2026-10-06 · OpenHands · [[Changes/OpenHands/2026-10-06-6-files-and-data-changes-in-v1-25-0|6 Files and Data changes in v1.25.0]]
+- Earlier: 2026-10-07 · Devin · [[Changes/Devin/2026-10-07-slack|Slack]]
 - Later: 2026-10-10 · Open WebUI · [[Changes/Open WebUI/2026-10-10-6-files-and-data-changes-in-v0-12-0|6 Files and Data changes in v0.12.0]]
 <!-- chronolog:end -->
 

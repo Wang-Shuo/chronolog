@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: projects-workspaces
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3f4d07815f34feb95f60f90f2fd49f7d707b9b8608319d20f0bd2a95aafc47df
+machine_hash: a37abc16f926864148bda6dd21be68253eaf71e0cd794003ebd8e049a5146f12
 product: openclaw
 product_name: OpenClaw
 record:
@@ -51,8 +51,8 @@ record:
   title: Claude CLI session tools
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-10-05-remote-session-resume-now-uses-your-configured-github-auth-for-resume-and-connec|Remote
-  session resume now uses your configured GitHub auth for --resume and --connect]]'
+- '[[Changes/Devin/2026-10-09-session-resume-window-is-now-14-days|Session resume
+  window is now 14 days]]'
 - '[[Changes/OpenClaw/2026-10-10-plugin-authors-can-await-session-history-extension-changes-and-replay-metadata-t|Plugin
   authors can await session history, extension changes and replay metadata]]'
 - '[[Changes/OpenClaw/2026-10-12-older-session-history-doctor-can-continue-repairing-leftover-session-files-while|Older
@@ -95,7 +95,7 @@ type: change
 ## Nearby in Projects and Workspaces
 
 - Earlier: 2026-10-12 · OpenClaw · [[Changes/OpenClaw/2026-10-12-older-session-history-doctor-can-continue-repairing-leftover-session-files-while|Older session history]]
-- Later: 2026-10-27 · OpenCode · [[Changes/OpenCode/2026-10-27-3-projects-and-workspaces-changes-in-v2-2-0|3 Projects and Workspaces changes in v2.2.0]]
+- Later: 2026-10-26 · Krea · [[Changes/Krea/2026-10-26-krea-3-edit-keeps-your-session-history|Krea 3 Edit keeps your session history]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

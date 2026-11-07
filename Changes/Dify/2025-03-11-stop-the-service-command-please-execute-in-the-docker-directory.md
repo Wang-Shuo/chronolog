@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 10a4858b50ec66d3b03ab494c126c4761f03735e52d604f297fb4f0f034f085d
+machine_hash: c1d5c0a084b184a235d2d3c705e36fad6f1da078cc74df418d8ad7e9f562b739
 product: dify
 product_name: Dify
 record:
@@ -43,8 +43,8 @@ record:
   title: Stop the service，Command, please execute in the docker directory
   type: change
 related_changes:
-- '[[Changes/Cline/2025-02-19-new-git-to-reference-the-current-working-changes-or-specific-commits-thanks-mrub|New
-  @git to reference the current working changes or specific commits…]]'
+- '[[Changes/Devin/2025-02-26-2-developer-workflow-changes-in-devin-updates-2025-02-26|2
+  Developer Workflow changes in Devin updates — 2025-02-26]]'
 - "[[Changes/Open WebUI/2025-02-27-enhanced-logging-with-loguru-backend-logging-has-been-improved-with-loguru-makin|\U0001F4C8
   Enhanced Logging with Loguru]]"
 - '[[Changes/Dify/2025-02-28-2-developer-workflow-changes-in-1-0-0|2 Developer Workflow

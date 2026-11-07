@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 41961816613ea280d8542460bdcfe2fdbecbbfed691ce0eecb16efb8334bf24d
+machine_hash: 2151cefd61b36578ffbbcbbd1ff655d41ab168b6a3c88f3951bbead7c3d79119
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,11 +44,11 @@ record:
   title: 2 Apps and Integrations changes in v2.1.193
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-06-24-app-connector-calendly|App connector: Calendly]]'
-- '[[Changes/OpenCode/2026-06-24-added-mcp-server-instructions-to-session-context|Added
-  MCP server instructions to session context]]'
 - '[[Changes/OpenCode/2026-06-24-9-apps-and-integrations-changes-in-v1-17-10|9 Apps
   and Integrations changes in v1.17.10]]'
+- '[[Changes/Raycast/2026-06-24-mcp-add-support-for-cimd|MCP : Add support for CIMD]]'
+- '[[Changes/Raycast/2026-06-24-mcp-add-support-for-cimd-c00169|MCP : Add support
+  for CIMD]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-25-v2-1-193-github-344922230-0655000d|claude-code-2026-06-25-v2-1-193-github-344922230-0655000d]]'
 source_type: github_releases
 theme: apps-integrations
@@ -86,7 +86,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.193
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-06-24 · OpenCode · [[Changes/OpenCode/2026-06-24-9-apps-and-integrations-changes-in-v1-17-10|9 Apps and Integrations changes in v1.17.10]]
+- Earlier: 2026-06-24 · Raycast · [[Changes/Raycast/2026-06-24-mcp-add-support-for-cimd-c00169|MCP : Add support for CIMD]]
 - Later: 2026-06-25 · Codex CLI · [[Changes/Codex CLI/2026-06-25-9-apps-and-integrations-changes-in-rust-v0-142-2|9 Apps and Integrations changes in rust-v0.142.2]]
 <!-- chronolog:end -->
 

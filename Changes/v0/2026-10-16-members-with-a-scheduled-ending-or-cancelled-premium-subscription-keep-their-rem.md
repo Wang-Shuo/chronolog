@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: e6f8bc448b2e92ead4692e1fe5f8f4709c0f298eeb0496ec5e232c2ce972013c
+machine_hash: c0006f11dd099f44bdae635f8fd5b10e24423cd581a8a418d13b01ef913768f0
 product: v0
 product_name: v0
 record:
@@ -45,12 +45,12 @@ record:
   title: Members with a scheduled-ending or cancelled Premium subscription keep…
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-10-14-restore-a-deleted-workspace-yourself|Restore a deleted
-  workspace yourself]]'
-- '[[Changes/ChatGPT/2026-10-15-the-rosalind-academic-plan-helps-eligible-academic-labs-use-chatgpt-for-life-sci|The
-  Rosalind Academic Plan helps eligible academic labs use ChatGPT for life…]]'
 - '[[Changes/Lovable/2026-10-16-review-publish-requests-and-findings-in-the-action-center|Review
   publish requests and findings in the Action center]]'
+- '[[Changes/Raycast/2026-10-16-ai-chat-show-a-subscription-prompt-when-sending-a-message-while-signed-out-inste|AI
+  Chat : Show a subscription prompt when sending a message while signed out…]]'
+- '[[Changes/Raycast/2026-10-16-ai-chat-show-a-subscription-prompt-when-sending-a-message-while-signed-out-inste-343ff8|AI
+  Chat : Show a subscription prompt when sending a message while signed out…]]'
 source_release: '[[Releases/v0/v0-2026-10-16-2026-10-16-3443a38d|v0-2026-10-16-2026-10-16-3443a38d]]'
 source_type: v0_changelog
 theme: pricing-model
@@ -85,8 +85,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-10-16 · Lovable · [[Changes/Lovable/2026-10-16-review-publish-requests-and-findings-in-the-action-center|Review publish requests and findings in the Action center]]
-- Later: 2026-10-19 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-19-complete-usage-reporting-no-longer-shows-partial-status-or-phantom-unattributed|Complete usage reporting no longer shows partial status or phantom unattributed…]]
+- Earlier: 2026-10-16 · Raycast · [[Changes/Raycast/2026-10-16-ai-chat-show-a-subscription-prompt-when-sending-a-message-while-signed-out-inste-343ff8|AI Chat : Show a subscription prompt when sending a message while signed out…]]
+- Later: 2026-10-17 · Krea · [[Changes/Krea/2026-10-17-see-the-cost-before-you-generate-in-agent-and-mcp|See the cost before you generate in Agent and MCP]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

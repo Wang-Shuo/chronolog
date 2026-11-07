@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e98420e06c41fa1879bf88177bfcfcba57033568498760aa14b6d37b8eecf0e2
+machine_hash: 99ba16da0cbf32c811c323aec648690de1656adf85a54879b3b04f3f9b4d3d4a
 product: cursor
 product_name: Cursor
 record:
@@ -41,12 +41,11 @@ record:
   title: 'Cmd-K diffs: these now obey word-wrap!'
   type: change
 related_changes:
-- '[[Changes/Dify/2023-10-14-remove-the-suggested-api-for-completion-app-by-crazywoola-in-https-github-com-la|remove
-  the suggested api for completion app]]'
 - '[[Changes/Aider/2023-10-29-2-editor-experience-changes-in-v0-16-0|2 Editor Experience
   changes in v0.16.0]]'
 - '[[Changes/Aider/2023-10-31-2-editor-experience-changes-in-v0-16-1|2 Editor Experience
   changes in v0.16.1]]'
+- '[[Changes/Raycast/2023-11-02-smarter-quick-ai|Smarter Quick AI]]'
 source_release: '[[Releases/Cursor/cursor-2023-11-03-0-14-0-https-cursor-com-changelog-0-14-0-45a47acf|cursor-2023-11-03-0-14-0-https-cursor-com-changelog-0-14-0-45a47acf]]'
 source_type: cursor_changelog
 theme: editor-experience
@@ -78,7 +77,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2023-10-31 · Aider · [[Changes/Aider/2023-10-31-2-editor-experience-changes-in-v0-16-1|2 Editor Experience changes in v0.16.1]]
+- Earlier: 2023-11-02 · Raycast · [[Changes/Raycast/2023-11-02-smarter-quick-ai|Smarter Quick AI]]
 - Later: 2023-11-06 · Dify · [[Changes/Dify/2023-11-06-chore-deps-bump-word-wrap-from-1-2-3-to-1-2-5-in-web-by-dependabot-in-https-gith|chore(deps): bump word-wrap from 1.2.3 to 1.2.5 in /web]]
 <!-- chronolog:end -->
 

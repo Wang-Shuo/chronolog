@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: d304b7d1de74cc39c7463424799c7a8495eab91fd452a15680a4064574aba331
+machine_hash: 0fdfe6417469102511fc3dc537a32d08da874d31c4936d8cf424bd4f3d0ea185
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -97,12 +97,11 @@ record:
   title: ElevenAgents
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-03-31-4-apps-and-integrations-changes-in-v1-3-12-2|4 Apps
-  and Integrations changes in v1.3.12 + 2]]'
 - '[[Changes/Claude Code/2026-04-01-3-apps-and-integrations-changes-in-v2-1-89|3 Apps
   and Integrations changes in v2.1.89]]'
 - '[[Changes/Claude Code/2026-04-01-2-apps-and-integrations-changes-in-v2-1-90|2 Apps
   and Integrations changes in v2.1.90]]'
+- '[[Changes/Devin/2026-04-01-slack-thread-permissions|Slack Thread Permissions]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-04-01-2026-04-01-d4336c3f|elevenlabs-2026-04-01-2026-04-01-d4336c3f]]'
 source_type: elevenlabs_changelog
 theme: apps-integrations
@@ -155,7 +154,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-04-01 · Claude Code · [[Changes/Claude Code/2026-04-01-2-apps-and-integrations-changes-in-v2-1-90|2 Apps and Integrations changes in v2.1.90]]
+- Earlier: 2026-04-01 · Devin · [[Changes/Devin/2026-04-01-slack-thread-permissions|Slack Thread Permissions]]
 - Later: 2026-04-01 · Gemini CLI · [[Changes/Gemini CLI/2026-04-01-5-apps-and-integrations-changes-in-v0-36-0|5 Apps and Integrations changes in v0.36.0]]
 <!-- chronolog:end -->
 

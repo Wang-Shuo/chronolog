@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: cf15710a98554eb72fb9b37be3bbdce76a7bba51330cbca4d19bd35b4e127f8a
+machine_hash: e3a965b196e4057758b138b9a269e0fbcb84e0c3e8754fabe5bda61e5577d9aa
 product: cline
 product_name: Cline
 record:
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2025-09-08 · Codex CLI · [[Changes/Codex CLI/2025-09-08-3211-fixes-image-pasting-from-finder-with-ctrl-v-on-macos|♯3211 fixes image pasting from Finder with ctrl+v on macOS]]
-- Later: 2025-09-17 · ChatGPT · [[Changes/ChatGPT/2025-09-17-the-thinking-time-toggle-is-live-today-on-chatgpt-com-settings-you-choose-on-the|The thinking-time toggle is live today on chatgpt.com]]
+- Later: 2025-09-12 · Raycast · [[Changes/Raycast/2025-09-12-you-can-now-use-raycast-with-new-liquid-glass-design-on-ios-26|Use Raycast with new Liquid Glass design on iOS 26]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

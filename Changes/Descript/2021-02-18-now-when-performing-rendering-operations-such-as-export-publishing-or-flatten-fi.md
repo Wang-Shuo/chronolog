@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: dda440dfca157485eaa0a98ac99c9a99654676f9e18001e9f6976b99b90a297e
+machine_hash: b8c31ff2c61e7fdeba30420397a6de34d81b3d54b5b9bc739496efd76d003f74
 product: descript
 product_name: Descript
 record:
@@ -47,10 +47,10 @@ record:
   title: Use original media when rendering files (by default)
   type: change
 related_changes:
-- '[[Changes/Descript/2021-01-27-you-can-now-export-animated-gif-s-in-addition-to-mp4-files-from-the-video-export|Descript
-  now supports exporting animated GIF''s]]'
 - '[[Changes/Notion/2021-01-27-added-a-copy-link-button-to-the-menu-that-appears-when-selecting-text-with-an-in|Added
   a Copy link button to the menu that appears when selecting text with an inline…]]'
+- '[[Changes/Raycast/2021-02-03-browser-bookmarks-a-new-dropdown-menu-in-the-bookmarks-list-allows-you-to-select|Browser
+  Bookmarks : A new dropdown menu in the bookmarks list allows you to select…]]'
 - '[[Changes/Descript/2021-02-18-descript-on-mac-now-allows-you-to-switch-between-screen-capture-and-fullscreen-r|Fullscreen
   webcam recording (Mac)]]'
 source_release: '[[Releases/Descript/descript-2021-02-18-602b918fed0cbf3933d2bb8e-e1b92b06|descript-2021-02-18-602b918fed0cbf3933d2bb8e-e1b92b06]]'
@@ -80,7 +80,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2021-02-18 · Descript · [[Changes/Descript/2021-02-18-descript-on-mac-now-allows-you-to-switch-between-screen-capture-and-fullscreen-r|Fullscreen webcam recording (Mac)]]
-- Later: 2021-03-10 · Notion · [[Changes/Notion/2021-03-10-organize-your-shred-pages|Organize your shred pages 🧹]]
+- Later: 2021-02-18 · Raycast · [[Changes/Raycast/2021-02-18-2-interface-experience-changes-in-raycast-macos-v1-1-8-0|2 Interface Experience changes in Raycast macos-v1 1.8.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

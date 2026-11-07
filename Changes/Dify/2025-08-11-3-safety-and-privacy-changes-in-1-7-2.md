@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 88173ab9834dd1dc0e23dac8b37c13d4de2f7b1ba7dbabb3e0b2a81eedb19765
+machine_hash: 36b08e3933766a4d1ccad735d3c0a3447431ca9ce16ffc1f0eb75b0da017d79d
 product: dify
 product_name: Dify
 record:
@@ -98,7 +98,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.7.2
 ## Nearby in Safety and Privacy
 
 - Earlier: 2025-08-10 · Open WebUI · [[Changes/Open WebUI/2025-08-10-opentelemetry-configuration-consistency-fixed-an-issue-where-opentelemetry-metri|🛠️ OpenTelemetry Configuration Consistency]]
-- Later: 2025-08-12 · Gemini CLI · [[Changes/Gemini CLI/2025-08-12-2-safety-and-privacy-changes-in-v0-1-19|2 Safety and Privacy changes in v0.1.19]]
+- Later: 2025-08-12 · Devin · [[Changes/Devin/2025-08-12-vpc-repo-indexing|VPC Repo Indexing]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 78e5a484cde2e9cce8b59540a40259ddd340a5a5641b551e06410a206fb9894a
+machine_hash: c900cc33c55020543595cfb8661be55b8c028c782b9cd453e2b6fd1e301aee0f
 product: descript
 product_name: Descript
 record:
@@ -104,7 +104,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2025-12-19 · Claude Code · [[Changes/Claude Code/2025-12-19-vscode-added-tab-icon-badges-showing-pending-permissions-blue-and-unread-complet|VSCode Added tab icon badges showing pending permissions (blue) and unread…]]
-- Later: 2025-12-21 · Open WebUI · [[Changes/Open WebUI/2025-12-21-3-editor-experience-changes-in-v0-6-42|3 Editor Experience changes in v0.6.42]]
+- Later: 2025-12-20 · Raycast · [[Changes/Raycast/2025-12-20-2-editor-experience-changes-in-raycast-windows-0-40|2 Editor Experience changes in Raycast windows 0.40]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

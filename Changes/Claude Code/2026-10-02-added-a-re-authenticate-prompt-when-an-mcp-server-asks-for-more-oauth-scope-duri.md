@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: edb02025c8d7fcb6d1f91cbb8972af2a8e788281f850f48c3d987f955f400eb6
+machine_hash: fe9426c4a5d6a62db9cd7f6c2c56a5e505cae3291a583c459cc3e9086343047e
 product: claude-code
 product_name: Claude Code
 record:
@@ -99,7 +99,7 @@ type: change
 ## Nearby in Account and Access
 
 - Earlier: 2026-10-01 · Codex CLI · [[Changes/Codex CLI/2026-10-01-2-account-and-access-changes-in-rust-v0-160-0|2 Account and Access changes in rust-v0.160.0]]
-- Later: 2026-10-03 · OpenClaw · [[Changes/OpenClaw/2026-10-03-2-account-and-access-changes-in-v2026-9-8|2 Account and Access changes in v2026.9.8]]
+- Later: 2026-10-02 · Devin · [[Changes/Devin/2026-10-02-bitbucket-data-center-oauth-apps|Bitbucket Data Center OAuth Apps]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

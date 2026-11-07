@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3e03ba2f7cf8339c341f1171d6f16f92113db396113ddefb227dc2acdb8830b9
+machine_hash: e16e595bd118f3184f33c8ca2f07054963b4953bf8e25af942506a1bea1593bc
 product: descript
 product_name: Descript
 record:
@@ -44,12 +44,11 @@ record:
   title: Public projects are no longer indexable by search engines
   type: change
 related_changes:
-- '[[Changes/Descript/2020-05-28-added-ability-to-batch-delete-ignore-search-results|Added
-  ability to batch delete/ignore search results]]'
-- '[[Changes/Descript/2020-12-10-we-ve-updated-pages-to-not-be-indexed-by-search-engines-anymore-this-will-preven|Pages
-  are not indexable by search engines]]'
 - '[[Changes/Descript/2020-12-17-spot-audition-allows-you-to-automatically-playback-your-search-results-as-you-cy|Spot
   Audition search results]]'
+- '[[Changes/Raycast/2020-12-22-browser-bookmarks|Browser Bookmarks]]'
+- '[[Changes/Raycast/2020-12-22-file-search-calendar-events-contacts-card-data-and-contact-groups-are-not-displa|File
+  Search : Calendar events, contacts card data and contact groups are not…]]'
 source_release: '[[Releases/Descript/descript-2021-01-27-6011e2662d30210fc7d3aaa8-56338baf|descript-2021-01-27-6011e2662d30210fc7d3aaa8-56338baf]]'
 source_type: canny_changelog
 theme: search-browsing
@@ -76,8 +75,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Search and Browsing
 
-- Earlier: 2020-12-17 · Descript · [[Changes/Descript/2020-12-17-spot-audition-allows-you-to-automatically-playback-your-search-results-as-you-cy|Spot Audition search results]]
-- Later: 2022-05-10 · Notion · [[Changes/Notion/2022-05-10-integrate-your-workspace-with-census-rootly-bardeen-ai|Integrate your workspace with Census, Rootly & Bardeen.ai]]
+- Earlier: 2020-12-22 · Raycast · [[Changes/Raycast/2020-12-22-file-search-calendar-events-contacts-card-data-and-contact-groups-are-not-displa|File Search : Calendar events, contacts card data and contact groups are not…]]
+- Later: 2021-04-13 · Raycast · [[Changes/Raycast/2021-04-13-root-search-apps-that-do-not-have-a-bundle-identifier-are-now-listed-in-search-r|Root Search : Apps that do not have a "bundle identifier" are now listed in search results]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

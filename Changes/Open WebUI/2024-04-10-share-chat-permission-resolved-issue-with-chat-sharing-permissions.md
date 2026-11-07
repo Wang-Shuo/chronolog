@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: cf39406777007f83e96994eacb839d99f9c73b2415db12904481c19177202954
+machine_hash: a9666e36765ddad2cd8f5dda04687e21e688dabcaf7395c3eac75f237e90468b
 product: open-webui
 product_name: Open WebUI
 record:
@@ -44,10 +44,10 @@ record:
   title: "**\U0001F512 Share Chat Permission**: Resolved issue with chat sharing permissions"
   type: change
 related_changes:
-- '[[Changes/Gemini/2023-12-18-expanding-bard-extensions-to-new-languages|Expanding
-  Bard Extensions to new languages]]'
 - '[[Changes/Dify/2024-02-28-2-safety-and-privacy-changes-in-0-5-7|2 Safety and Privacy
   changes in 0.5.7]]'
+- '[[Changes/Superwhisper/2024-03-13-if-user-has-completed-onboarding-do-not-continue-prompting-for-accessiblity-perm|If
+  user has completed onboarding, do not continue prompting for accessiblity permission]]'
 - "[[Changes/Open WebUI/2024-04-04-security-patches-applied-necessary-security-patches|\U0001F512
   Security Patches: Applied necessary security patches]]"
 source_release: '[[Releases/Open WebUI/open-webui-2024-04-10-v0-1-118-github-150663777-838c0e7e|open-webui-2024-04-10-v0-1-118-github-150663777-838c0e7e]]'

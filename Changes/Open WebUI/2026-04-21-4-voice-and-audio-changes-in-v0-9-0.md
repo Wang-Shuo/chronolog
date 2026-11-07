@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a2d972bb597f9916375dc3d146924c3e2acd5ce5827abd5c5f32e26dee8dacbe
+machine_hash: 67c78b4fbdaaeb2c40bcda0950bff4e6374ec1ca384402d97c81964f0c620b01
 product: open-webui
 product_name: Open WebUI
 record:
@@ -117,7 +117,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.9.0
 ## Nearby in Voice and Audio
 
 - Earlier: 2026-04-20 · ElevenLabs · [[Changes/ElevenLabs/2026-04-20-other|Other]]
-- Later: 2026-04-27 · ElevenLabs · [[Changes/ElevenLabs/2026-04-27-python-sdk|Python SDK]]
+- Later: 2026-04-22 · Superwhisper · [[Changes/Superwhisper/2026-04-22-progress-indicator-for-file-decoding-and-transcription-progress-applies-to-whisp|Progress indicator for file decoding and transcription progress…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 686c6e7d8a19ad43c62b049464ba5c157574799ced7b21dc45966edc7976422d
+machine_hash: 0fd24d9b0aac2ccc644803358df70e1a88df7558b5dba58076246298ceecfada
 product: claude-code
 product_name: Claude Code
 record:
@@ -76,7 +76,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-04-15 · Claude Code · [[Changes/Claude Code/2026-04-15-2-interface-experience-changes-in-v2-1-110|2 Interface Experience changes in v2.1.110]]
-- Later: 2026-04-15 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-15-status-bar-shows-files-and-issues-hints-while-typing-and-help-hint-when-the-slas|Status bar shows @files and ♯issues hints while typing, and /help hint…]]
+- Later: 2026-04-15 · Devin · [[Changes/Devin/2026-04-15-inline-session-rename|Inline Session Rename]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

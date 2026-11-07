@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e1322384f30fe6c584b76f296be8799a434347b068e16d798d87775b8b9b5096
+machine_hash: 78f0ee2985ea552ee03bc9352366f3747fa0c31c098492d07d0f55301401c3c7
 product: descript
 product_name: Descript
 record:
@@ -42,12 +42,12 @@ record:
   title: Descript now supports exporting animated GIF's
   type: change
 related_changes:
-- '[[Changes/Descript/2020-11-10-in-addition-to-full-screen-descript-now-supports-theater-mode-on-your-published|Theater
-  mode for published pages]]'
-- "[[Changes/Notion/2020-11-11-show-backlinks-in-a-popup-or-hide-them|Show backlinks
-  in a popup, or hide them \U0001F5EF️]]"
-- '[[Changes/Notion/2020-11-19-added-a-duplicate-button-to-the-menu-for-pages-within-databases-it-s-now-possibl|Added
-  a Duplicate button to the ••• menu for pages within databases]]'
+- '[[Changes/Raycast/2020-12-02-navigation-typing-alias-space-expands-associated-command-now-e-g-if-you-assign-f|Navigation:
+  Typing alias + space expands associated command now]]'
+- '[[Changes/Raycast/2020-12-22-preferences-added-keyboard-navigation-for-the-extension-list|Preferences
+  : Added keyboard navigation ( ⌥ + ↑ / ↓ ) for the extension list]]'
+- '[[Changes/Raycast/2021-01-20-window-management-added-a-command-to-toggle-fullscreen|Window
+  Management: Added a command to toggle fullscreen]]'
 source_release: '[[Releases/Descript/descript-2021-01-27-6011d48e373c065cd543beba-5399703e|descript-2021-01-27-6011d48e373c065cd543beba-5399703e]]'
 source_type: canny_changelog
 theme: interface-experience
@@ -74,7 +74,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2020-11-19 · Notion · [[Changes/Notion/2020-11-19-added-a-duplicate-button-to-the-menu-for-pages-within-databases-it-s-now-possibl|Added a Duplicate button to the ••• menu for pages within databases]]
+- Earlier: 2021-01-20 · Raycast · [[Changes/Raycast/2021-01-20-window-management-added-a-command-to-toggle-fullscreen|Window Management: Added a command to toggle fullscreen]]
 - Later: 2021-01-27 · Notion · [[Changes/Notion/2021-01-27-added-a-copy-link-button-to-the-menu-that-appears-when-selecting-text-with-an-in|Added a Copy link button to the menu that appears when selecting text with an inline…]]
 <!-- chronolog:end -->
 

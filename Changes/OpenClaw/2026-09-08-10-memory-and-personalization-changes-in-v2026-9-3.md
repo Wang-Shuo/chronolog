@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 47600ed032fd1a4ecd7d5d77fa2968d9313d25891ef71221e5cdcde5e7f050ec
+machine_hash: 9b946f6087c7319e3d80ae24055d0eb77bfe4620a1e275a31fe184a35d4234c3
 product: openclaw
 product_name: OpenClaw
 record:
@@ -89,10 +89,10 @@ record:
   title: 10 Memory and Personalization changes in v2026.9.3
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-09-03-19-memory-and-personalization-changes-in-v2026-9-1|19
-  Memory and Personalization changes in v2026.9.1]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-04-long-running-sessions-on-linux-return-freed-memory-to-the-system-instead-of-hold|Long-running
   sessions on Linux return freed memory to the system instead of holding…]]'
+- '[[Changes/Superwhisper/2026-09-04-lower-memory-use-during-long-recordings|Lower
+  memory use during long recordings]]'
 - '[[Changes/OpenClaw/2026-09-05-21-memory-and-personalization-changes-in-v2026-9-2|21
   Memory and Personalization changes in v2026.9.2]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-09-08-v2026-9-3-dfcfef48|openclaw-2026-09-08-v2026-9-3-dfcfef48]]'

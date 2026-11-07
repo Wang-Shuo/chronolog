@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: cb6360d661d7043bdc71d1635e70ad300ad59fafc6f1cf9e832fd29364e7e5fe
+machine_hash: ddaac70c8ebae9b5f9fc8db1465630c51613327afb5f6d14aaafc8d080a00f9e
 product: opencode
 product_name: OpenCode
 record:
@@ -42,8 +42,8 @@ record:
   title: 2 Context Window changes in v1.3.6 + 2
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-26-5-context-window-changes-in-rust-v0-117-0|5 Context
-  Window changes in rust-v0.117.0]]'
+- '[[Changes/Superwhisper/2026-03-26-recording-window-right-click-context-menu-with-settings-and-resize-options|Recording
+  window right-click context menu with Settings and Resize options]]'
 - '[[Changes/Claude Code/2026-03-27-3-context-window-changes-in-v2-1-86|3 Context
   Window changes in v2.1.86]]'
 - '[[Changes/Dify/2026-03-27-feat-workflow-add-selection-context-menu-helpers-and-integrate-with-context-menu|feat(workflow):

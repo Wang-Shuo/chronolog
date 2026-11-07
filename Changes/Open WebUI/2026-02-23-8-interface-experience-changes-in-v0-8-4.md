@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e9fc3148781f9b9c8de85848eb1c7350487214da27fb90b766129286bff61c24
+machine_hash: 8220e4fc977640f6cc3947be89ab35539eb3ac7729f28fb308baafb9d835fe6b
 product: open-webui
 product_name: Open WebUI
 record:
@@ -137,7 +137,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.8.4
 ## Nearby in Interface Experience
 
 - Earlier: 2026-02-23 · Lovable · [[Changes/Lovable/2026-02-23-drag-and-drop-reordering-of-pinned-tools-in-the-project-navigation-bar-has-been|Drag and drop reordering of pinned tools in the project navigation bar has been…]]
-- Later: 2026-02-25 · Codex CLI · [[Changes/Codex CLI/2026-02-25-8-interface-experience-changes-in-rust-v0-105-0|8 Interface Experience changes in rust-v0.105.0]]
+- Later: 2026-02-23 · Superwhisper · [[Changes/Superwhisper/2026-02-23-new-input-device-auto-selection|New input device auto-selection]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

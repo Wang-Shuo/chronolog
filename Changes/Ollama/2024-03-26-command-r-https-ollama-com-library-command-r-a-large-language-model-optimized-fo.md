@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: e635cb385a98059d6b031be904a469b2764481b5fbf9a40cb21600fb4e8a7ea5
+machine_hash: 37816e198c25f9209b0fc10b251851de35520f35a420eee43b78078217b3b2c8
 product: ollama
 product_name: Ollama
 record:
@@ -57,12 +57,11 @@ record:
     optimized…'
   type: change
 related_changes:
-- '[[Changes/Notion/2024-01-17-connect-and-create-notion-docs|Connect and create Notion
-  docs]]'
 - '[[Changes/Dify/2024-02-01-feat-add-xinference-llm-context-size-by-yeuoly-in-https-github-com-langgenius-di|feat:
   add xinference llm context size]]'
 - '[[Changes/Dify/2024-03-19-add-max-tokens-parameter-rule-for-zhipuai-glm4-and-glm4v-by-orangeclk-in-https-g|add
   max_tokens parameter rule for zhipuai glm4 and glm4v]]'
+- '[[Changes/Raycast/2024-03-20-companion-browser-extension|Companion Browser Extension]]'
 source_release: '[[Releases/Ollama/ollama-2024-03-26-v0-1-30-github-148399532-ce68a454|ollama-2024-03-26-v0-1-30-github-148399532-ce68a454]]'
 source_type: github_releases
 theme: context-window
@@ -93,7 +92,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2024-03-19 · Dify · [[Changes/Dify/2024-03-19-add-max-tokens-parameter-rule-for-zhipuai-glm4-and-glm4v-by-orangeclk-in-https-g|add max_tokens parameter rule for zhipuai glm4 and glm4v]]
+- Earlier: 2024-03-20 · Raycast · [[Changes/Raycast/2024-03-20-companion-browser-extension|Companion Browser Extension]]
 - Later: 2024-04-01 · Cursor · [[Changes/Cursor/2024-04-01-long-context-chat-beta-this-is-a-new-experimental-feature-that-lets-you-talk-wit|Long Context Chat (Beta)]]
 <!-- chronolog:end -->
 

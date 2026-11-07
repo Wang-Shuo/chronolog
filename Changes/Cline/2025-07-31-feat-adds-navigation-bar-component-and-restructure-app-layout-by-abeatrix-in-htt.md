@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 44d6ac5649e623691e488d05372ce76b4cbf8cbb344832e8c8a362b0b5f95907
+machine_hash: 03312354a5c9c3c28f73cf9c2ecb39aa399331bbe719c6f97241a52721227bd8
 product: cline
 product_name: Cline
 record:
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2025-07-30 · Gemini CLI · [[Changes/Gemini CLI/2025-07-30-2-interface-experience-changes-in-v0-1-15|2 Interface Experience changes in v0.1.15]]
-- Later: 2025-07-31 · Gamma · [[Changes/Gamma/2025-07-31-style-your-visuals|Style Your Visuals 🖌️]]
+- Later: 2025-07-31 · Devin · [[Changes/Devin/2025-07-31-primary-org-session-sidebar|Primary Org Session Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

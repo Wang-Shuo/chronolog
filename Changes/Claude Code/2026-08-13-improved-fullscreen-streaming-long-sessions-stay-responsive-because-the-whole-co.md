@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: dff1ebd24cef769f5a09c235f46bbe420d3c4ed98fcfbc5a3ce6e641f35d50cc
+machine_hash: 3d69e6ac13a1ecd2110b6a6f55e4164c192d64157e86942cf5463677fae583fd
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,12 +43,12 @@ record:
   title: Improved fullscreen streaming
   type: change
 related_changes:
-- '[[Changes/Google Antigravity/2026-08-12-the-sidebar-now-remembers-which-folders-you-have-collapsed-or-expanded-including|The
-  sidebar now remembers which folders you have collapsed or expanded, including…]]'
 - '[[Changes/Google Antigravity/2026-08-12-2-interface-experience-changes-in-ide-v2-5-2-queued-messages-file|2
   Interface Experience changes in IDE v2.5.2 — Queued Messages, File…]]'
 - '[[Changes/Google Antigravity/2026-08-12-persistent-sidebar-folders-crash-fixes-and-ui-enhancements|Persistent
   Sidebar Folders, Crash Fixes, and UI Enhancements]]'
+- '[[Changes/AnythingLLM/2026-08-13-now-in-the-file-picker-you-can-drag-entire-folders-and-their-hierarchy-will-be-p|Now
+  in the file picker you can drag entire folders and their hierarchy will…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-13-v2-1-232-github-370225682-71e478db|claude-code-2026-08-13-v2-1-232-github-370225682-71e478db]]'
 source_type: github_releases
 theme: interface-experience
@@ -89,7 +89,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-08-12 · Google Antigravity · [[Changes/Google Antigravity/2026-08-12-persistent-sidebar-folders-crash-fixes-and-ui-enhancements|Persistent Sidebar Folders, Crash Fixes, and UI Enhancements]]
+- Earlier: 2026-08-13 · AnythingLLM · [[Changes/AnythingLLM/2026-08-13-now-in-the-file-picker-you-can-drag-entire-folders-and-their-hierarchy-will-be-p|Now in the file picker you can drag entire folders and their hierarchy will…]]
 - Later: 2026-08-13 · Kimi Code · [[Changes/Kimi Code/2026-08-13-2-interface-experience-changes-in-kimi-code-0-36-0|2 Interface Experience changes in Kimi Code 0.36.0]]
 <!-- chronolog:end -->
 

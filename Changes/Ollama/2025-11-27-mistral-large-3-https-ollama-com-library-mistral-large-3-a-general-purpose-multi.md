@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 92f3931206795cb7fb703e82297971c4892583533001c1d1cbe67b8f3a671afe
+machine_hash: c0831eca1e077751e455cb6504a29a4c997160426da74f3ac53f8a4b92a1512a
 product: ollama
 product_name: Ollama
 record:
@@ -55,7 +55,8 @@ record:
   title: '[Mistral-Large-3](https://ollama.com/library/mistral-large-3): A general-purpose…'
   type: change
 related_changes:
-- '[[Changes/Descript/2025-10-14-changing-camera-angles|Changing camera angles]]'
+- '[[Changes/LM Studio/2025-11-04-2-multimodal-input-changes-in-lm-studio-0-3-31|2
+  Multimodal Input changes in LM Studio 0.3.31]]'
 - '[[Changes/Open WebUI/2025-11-06-2-multimodal-input-changes-in-v0-6-35|2 Multimodal
   Input changes in v0.6.35]]'
 - '[[Changes/Descript/2025-11-21-extend-video-with-ai|Extend video with AI]]'

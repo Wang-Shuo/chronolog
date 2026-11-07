@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: e23fb89fffa43054b5788c1724135ca81b1496133eef413e89182da30e23c1ac
+machine_hash: 117898b608d5928ae468034568cd198e607bbebc7aed5582fa214905be22e0d0
 product: replit
 product_name: Replit
 record:
@@ -42,11 +42,11 @@ record:
   title: GitHub import improvements
   type: change
 related_changes:
-- '[[Changes/Lovable/2025-10-06-updated-community-resources|Updated community resources]]'
-- '[[Changes/Gemini CLI/2025-10-07-part-3-6-feat-telemetry-enhance-metrics-with-performance-monitoring-apis-by-elyi|Part
-  3/6 feat(telemetry): enhance metrics with performance monitoring APIs]]'
-- '[[Changes/Open WebUI/2025-10-07-6-reliability-and-performance-changes-in-v0-6-33|6
-  Reliability and Performance changes in v0.6.33]]'
+- '[[Changes/Superwhisper/2025-10-08-more-stability-improvements|More stability improvements]]'
+- '[[Changes/Devin/2025-10-10-various-bug-fixes-including-improvements-to-steerable-deepwiki-configuration-rep|Various
+  bug fixes including improvements to steerable DeepWiki configuration…]]'
+- '[[Changes/Raycast/2025-10-10-general-improved-raycast-memory-consumption-by-not-keeping-the-settings-window-i|General:
+  Improved Raycast memory consumption by not keeping the Settings Window in memory]]'
 source_release: '[[Releases/Replit/replit-2025-10-10-2025-10-10-6e646996|replit-2025-10-10-2025-10-10-6e646996]]'
 source_type: replit_changelog
 theme: reliability-performance
@@ -81,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-10-07 · Open WebUI · [[Changes/Open WebUI/2025-10-07-6-reliability-and-performance-changes-in-v0-6-33|6 Reliability and Performance changes in v0.6.33]]
+- Earlier: 2025-10-10 · Raycast · [[Changes/Raycast/2025-10-10-general-improved-raycast-memory-consumption-by-not-keeping-the-settings-window-i|General: Improved Raycast memory consumption by not keeping the Settings Window in memory]]
 - Later: 2025-10-10 · Windsurf · [[Changes/Windsurf/2025-10-10-various-other-bug-fixes-and-stability-improvements|Various other bug fixes and stability improvements]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d9ca74d3873cf8bdb50f70911dc77e16ca994522b6480c36b7b19fe9565efd92
+machine_hash: d5757a586b32a62d930899d84fdff3174c4336fd7dcd59c381cdab48550809d2
 product: dify
 product_name: Dify
 record:
@@ -96,7 +96,7 @@ Source: https://github.com/langgenius/dify/releases/tag/0.9.0
 ## Nearby in Apps and Integrations
 
 - Earlier: 2024-09-26 · Open WebUI · [[Changes/Open WebUI/2024-09-26-ollama-embed-form-data-adjusted-the-integration-inaccuracies-in-the-embed-form-d|📋 Ollama /embed Form Data]]
-- Later: 2024-10-06 · Gemini · [[Changes/Gemini/2024-10-06-gemini-can-access-helpful-information-from-more-apps-and-services|Gemini can access helpful information from more apps and services]]
+- Later: 2024-10-03 · AnythingLLM · [[Changes/AnythingLLM/2024-10-03-3-apps-and-integrations-changes-in-v1-2-3|3 Apps and Integrations changes in v1.2.3]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

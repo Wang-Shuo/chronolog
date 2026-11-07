@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a0f568f2285c1245a559b189b8e6307553c2ad7df1bcdf2b29b0a4b57dbbbdc9
+machine_hash: e6883f7a080d15c418330b415037628542a92632f86a6f3b1cd44deb35f51d31
 product: dify
 product_name: Dify
 record:
@@ -42,8 +42,8 @@ record:
   title: 'chore: add MULTIMODAL_SEND_VIDEO_FORMAT to docker''s env'
   type: change
 related_changes:
-- '[[Changes/Ollama/2024-10-21-3-multimodal-input-changes-in-v0-4-0|3 Multimodal Input
-  changes in v0.4.0]]'
+- '[[Changes/AnythingLLM/2024-10-25-add-groq-vision-preview-support-by-timothycarambat-in-https-github-com-mintplex|Add
+  Groq vision preview support]]'
 - '[[Changes/Runway/2024-10-25-introducing-act-one-a-new-way-to-generate-expressive-character-performances-insi|Act-One
   in Gen-3 Alpha]]'
 - '[[Changes/Dify/2024-10-28-enhanced-prompt-handling-in-workflows-added-vision-support-in-prompts-for-more-d|Enhanced

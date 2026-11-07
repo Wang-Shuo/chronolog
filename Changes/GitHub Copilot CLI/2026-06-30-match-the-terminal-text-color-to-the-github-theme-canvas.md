@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 07ea5e63b9408c0ab8cc4ffeb5676aa70c38ba27b2ec9c90ae2e360cc86138f8
+machine_hash: 8b09745a057b88cc1eb6ba0a3adba589c48da6e130e9638c48e6dd0be170b9d2
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -51,8 +51,8 @@ record:
   title: Match the terminal text color to the GitHub theme canvas
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-06-26-the-personal-finance-experience-in-chatgpt-is-rolling-out-to-plus-users-in-the-u|Personal
-  finance in ChatGPT expands to Plus users and Android]]'
+- '[[Changes/LM Studio/2026-06-26-chat-to-pdf-export-updated-to-include-styled-markdown|Chat
+  to PDF export updated to include styled markdown]]'
 - '[[Changes/Claude Code/2026-06-29-added-clickable-file-attachments-in-chat-cmd-ctrl-click-reveals-the-file-in-find|Added
   clickable file attachments in chat]]'
 - '[[Changes/Open WebUI/2026-06-29-5-files-and-data-changes-in-v0-10-0|5 Files and

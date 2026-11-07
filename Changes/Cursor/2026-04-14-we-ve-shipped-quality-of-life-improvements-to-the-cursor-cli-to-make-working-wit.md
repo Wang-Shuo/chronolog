@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9196ffbac8a2caeabb3a7336a20b5b672b03edd7183a73cc392c2a122a6bc4fd
+machine_hash: dddeec54a4be8a0e8e2b08ec1a4b568e8d7e5d5aa6c37c6f1d11fcc9d543fc20
 product: cursor
 product_name: Cursor
 record:
@@ -53,8 +53,8 @@ record:
   title: We've shipped quality-of-life improvements to the Cursor CLI to make working…
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-04-10-2-developer-workflow-changes-in-v1-4-3|2 Developer
-  Workflow changes in v1.4.3]]'
+- '[[Changes/Raycast/2026-04-10-what-s-new-added-a-setting-to-the-changelog-command-to-disable-what-s-new-items|What’s
+  New : Added a setting to the Changelog command to disable “What’s new?” items…]]'
 - '[[Changes/Claude Code/2026-04-13-2-developer-workflow-changes-in-v2-1-105|2 Developer
   Workflow changes in v2.1.105]]'
 - '[[Changes/Cursor/2026-04-14-use-debug-to-find-root-causes-and-fix-tricky-bugs-that-are-hard-to-reproduce-or|Debug

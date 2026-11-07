@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0739a8b4b6fb4d79028eba9d63df0730a23f3804f3612886f7e132b7a0b67da0
+machine_hash: d11265adafbe110ea123b99463a4de0100fc5eb0d42b80453bf9036d6473a8bd
 product: ollama
 product_name: Ollama
 record:
@@ -56,10 +56,9 @@ record:
   title: 6 Model Support changes in v0.1.33
   type: change
 related_changes:
-- '[[Changes/Dify/2024-04-22-4-model-support-changes-in-0-6-4|4 Model Support changes
-  in 0.6.4]]'
-- '[[Changes/Aider/2024-04-24-5-model-support-changes-in-v0-30-0|5 Model Support changes
-  in v0.30.0]]'
+- '[[Changes/Raycast/2024-04-24-ai-chat-new-chats-now-remember-the-model-creativity-instructions-and-tools-setti|AI
+  Chat: New chats now remember the model, creativity, instructions and tools…]]'
+- '[[Changes/Raycast/2024-04-24-ai-chat-presets|AI Chat Presets]]'
 - '[[Changes/Dify/2024-04-25-6-model-support-changes-in-0-6-5|6 Model Support changes
   in 0.6.5]]'
 source_release: '[[Releases/Ollama/ollama-2024-04-28-v0-1-33-github-153066497-45406eb5|ollama-2024-04-28-v0-1-33-github-153066497-45406eb5]]'
@@ -105,7 +104,7 @@ Source: https://github.com/ollama/ollama/releases/tag/v0.1.33
 ## Nearby in Model Support
 
 - Earlier: 2024-04-25 · Dify · [[Changes/Dify/2024-04-25-6-model-support-changes-in-0-6-5|6 Model Support changes in 0.6.5]]
-- Later: 2024-05-02 · Aider · [[Changes/Aider/2024-05-02-switch-models-during-the-chat-with-model-name-and-search-the-list-of-available-m|Switch models during the chat with /model name and search the list of available…]]
+- Later: 2024-04-30 · Superwhisper · [[Changes/Superwhisper/2024-04-30-add-support-for-ollama-unlocks-using-all-latest-offline-ai-models-llama-8b-phi-3|Add support for Ollama, unlocks using all latest offline AI models (Llama 8b, Phi-3)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

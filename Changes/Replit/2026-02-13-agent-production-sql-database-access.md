@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 5bc3d78ddd40657c08e86ba905f2f38e9e6b516d55ab036c66de0b93b2b3ce37
+machine_hash: 67a1feb1691845907fd529294e59a029bd6827a735e976fdfc3d4d8af39abcc8
 product: replit
 product_name: Replit
 record:
@@ -47,10 +47,10 @@ record:
   title: Agent production SQL database access
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-02-12-subagents-return-complete-responses|Subagents
-  return complete responses]]'
 - '[[Changes/OpenCode/2026-02-12-support-claude-agent-sdk-style-structured-outputs-in-the-opencode-sdk|Support
   Claude agent SDK-style structured outputs in the OpenCode SDK]]'
+- '[[Changes/Devin/2026-02-13-devin-review-code-changes-from-chat|Devin Review: Code
+  Changes from Chat]]'
 - '[[Changes/HeyGen/2026-02-13-describe-the-video-you-want-in-natural-language-video-agent-handles-the-rest-scr|Describe
   the video you want in natural language]]'
 source_release: '[[Releases/Replit/replit-2026-02-13-2026-02-13-6a679506|replit-2026-02-13-2026-02-13-6a679506]]'

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1e8675931db5182172d1eef932d6a4e72363af7c9d47e325e1c30ea64eba84d6
+machine_hash: 62859a1f4eb1f67efb99150c33e207d41181cd87e1a24613e578d766a8907814
 product: open-webui
 product_name: Open WebUI
 record:
@@ -50,8 +50,8 @@ record:
   title: 3 Interface Experience changes in v0.3.12
   type: change
 related_changes:
-- '[[Changes/Aider/2024-07-31-switching-to-code-and-ask-mode-no-longer-summarizes-the-chat-history|Switching
-  to code and ask mode no longer summarizes the chat history]]'
+- '[[Changes/Raycast/2024-07-31-hotkey-global-hotkey-now-unhides-app-if-windows-are-minimized|Hotkey:
+  Global hotkey now unhides app if windows are minimized]]'
 - '[[Changes/Gemini/2024-08-01-gemini-is-available-to-teens-in-more-countries-and-languages|Gemini
   is available to teens in more countries and languages]]'
 - '[[Changes/Open WebUI/2024-08-02-3-interface-experience-changes-in-v0-3-11|3 Interface

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ad50de0486c47f34802ff5c03c935e300d08c2432da63c5ed5392211ca46591b
+machine_hash: 30c5de9e6e8861f3a8632411b7c03e4a39fe99f92006bed7bbf3de5a3a9c0f0b
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -69,11 +69,10 @@ record:
   title: 11 Agent Mode changes in v0.37.0
   type: change
 related_changes:
-- '[[Changes/Google Antigravity/2026-04-07-new-agent-permissions-system-accessible-in-settings|New
-  agent permissions system accessible in settings]]'
 - '[[Changes/Google Antigravity/2026-04-07-agent-permissions|Agent Permissions]]'
 - '[[Changes/Claude Code/2026-04-08-2-agent-mode-changes-in-v2-1-97|2 Agent Mode changes
   in v2.1.97]]'
+- '[[Changes/Devin/2026-04-08-higher-quality-wiki-v2|Higher-Quality Wiki v2]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-04-08-v0-37-0-github-306699346-f88de07d|gemini-cli-2026-04-08-v0-37-0-github-306699346-f88de07d]]'
 source_type: github_releases
 theme: agent-mode
@@ -134,7 +133,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.37.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-04-08 · Claude Code · [[Changes/Claude Code/2026-04-08-2-agent-mode-changes-in-v2-1-97|2 Agent Mode changes in v2.1.97]]
+- Earlier: 2026-04-08 · Devin · [[Changes/Devin/2026-04-08-higher-quality-wiki-v2|Higher-Quality Wiki v2]]
 - Later: 2026-04-09 · Claude Code · [[Changes/Claude Code/2026-04-09-3-agent-mode-changes-in-v2-1-98|3 Agent Mode changes in v2.1.98]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: a8feacdbae79af1f2091ba42c525036a9177ef607e854028490c8dbefdef52f5
+machine_hash: 418bca084ea46abce6d56e47498b77772938290013b2649c2602b10ba7079673
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -49,11 +49,11 @@ record:
   title: Text to Dialogue
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-04-13-plan-tabs-now-get-the-same-document-behaviors-as-files-support-for-reliable-load|Plan
-  tabs now get the same document behaviors as files]]'
-- '[[Changes/Cursor/2026-04-15-cursor-can-now-respond-by-creating-interactive-canvases-c4a1d3|Cursor
-  can now respond by creating interactive canvases]]'
 - '[[Changes/Descript/2026-04-16-locked-layers-https-help-descript-com-hc-en-us-articles-17461277756941-lock-laye|Locked…]]'
+- '[[Changes/LM Studio/2026-04-17-improved-style-in-chat-pdf-exports|Improved style
+  in chat PDF exports]]'
+- '[[Changes/Recraft/2026-04-17-generate-raster-images-and-vectors-right-in-figma-then-refine-them-with-recraft|Generate
+  raster images and vectors right in Figma, then refine them with Recraft…]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-04-20-2026-04-20-9278926e|elevenlabs-2026-04-20-2026-04-20-9278926e]]'
 source_type: elevenlabs_changelog
 theme: file-data
@@ -88,7 +88,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2026-04-16 · Descript · [[Changes/Descript/2026-04-16-locked-layers-https-help-descript-com-hc-en-us-articles-17461277756941-lock-laye|Locked…]]
+- Earlier: 2026-04-17 · Recraft · [[Changes/Recraft/2026-04-17-generate-raster-images-and-vectors-right-in-figma-then-refine-them-with-recraft|Generate raster images and vectors right in Figma, then refine them with Recraft…]]
 - Later: 2026-04-21 · Open WebUI · [[Changes/Open WebUI/2026-04-21-3-files-and-data-changes-in-v0-9-0|3 Files and Data changes in v0.9.0]]
 <!-- chronolog:end -->
 

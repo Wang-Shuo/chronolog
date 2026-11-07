@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 4082d360c3d100c03d0b9a8406ee9e074ccda321d8a081d3e1a6a268b7e6303f
+machine_hash: 96c299758bee963b4762506bb0965c54e0511075f216d3cc3889f2d0b6728543
 product: replit
 product_name: Replit
 record:
@@ -47,12 +47,12 @@ record:
   title: App idea generator for logged-out visitors
   type: change
 related_changes:
-- '[[Changes/Windsurf/2025-04-07-increased-stability-around-mcp-sse-connections|Increased
-  stability around MCP SSE connections]]'
-- '[[Changes/Cline/2025-04-08-add-modal-in-the-chat-area-to-more-easily-enable-or-disable-mcp-servers|Add
-  modal in the chat area to more easily enable or disable MCP servers]]'
 - '[[Changes/Dify/2025-04-09-6-apps-and-integrations-changes-in-1-2-0|6 Apps and Integrations
   changes in 1.2.0]]'
+- '[[Changes/Raycast/2025-04-09-quit-all-apps-except-frontmost-improved-handling-when-finder-or-raycast-are-fron|Quit
+  All Apps Except Frontmost]]'
+- '[[Changes/Raycast/2025-04-10-following-snippets-we-re-now-releasing-the-first-iteration-of-quicklinks-a-power|Following
+  snippets, we’re now releasing the first iteration of Quicklinks]]'
 source_release: '[[Releases/Replit/replit-2025-04-11-2025-04-11-8b7eac10|replit-2025-04-11-2025-04-11-8b7eac10]]'
 source_type: replit_changelog
 theme: apps-integrations
@@ -79,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-04-09 · Dify · [[Changes/Dify/2025-04-09-6-apps-and-integrations-changes-in-1-2-0|6 Apps and Integrations changes in 1.2.0]]
+- Earlier: 2025-04-10 · Raycast · [[Changes/Raycast/2025-04-10-following-snippets-we-re-now-releasing-the-first-iteration-of-quicklinks-a-power|Following snippets, we’re now releasing the first iteration of Quicklinks]]
 - Later: 2025-04-12 · Cline · [[Changes/Cline/2025-04-12-add-settings-button-to-mcp-popover-to-easily-modify-installed-servers|Add settings button to MCP popover to easily modify installed servers]]
 <!-- chronolog:end -->
 

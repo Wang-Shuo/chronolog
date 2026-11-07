@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8945b81a8212aea801b14c430b863c0c0bf7c2a4c825829084685392ef943704
+machine_hash: 487d09551b485f602c0d7c1f619f359b26e3a556043e8e3ed31be7db0611c738
 product: cursor
 product_name: Cursor
 record:
@@ -45,8 +45,7 @@ record:
   title: Apply chat suggestions
   type: change
 related_changes:
-- '[[Changes/Aider/2023-10-31-2-editor-experience-changes-in-v0-16-1|2 Editor Experience
-  changes in v0.16.1]]'
+- '[[Changes/Raycast/2023-11-02-smarter-quick-ai|Smarter Quick AI]]'
 - '[[Changes/Cursor/2023-11-03-cmd-k-diffs-these-now-obey-word-wrap-you-can-also-copy-from-the-red-text|Cmd-K
   diffs: these now obey word-wrap!]]'
 - '[[Changes/Dify/2023-11-06-chore-deps-bump-word-wrap-from-1-2-3-to-1-2-5-in-web-by-dependabot-in-https-gith|chore(deps):

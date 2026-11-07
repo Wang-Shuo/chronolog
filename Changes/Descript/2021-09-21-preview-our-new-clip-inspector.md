@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 5dfb21d7514ad3c8ea214fca204c951e0779e098272e1f90c6f08e279945af75
+machine_hash: b2bd067529daaed11b017ff217af4d10095e54e9579715222085ae828b7daef8
 product: descript
 product_name: Descript
 record:
@@ -48,8 +48,8 @@ record:
   title: Preview our new clip inspector
   type: change
 related_changes:
-- '[[Changes/Notion/2021-07-14-we-now-have-hand-picked-sans-and-serif-typefaces-for-chinese-simplified-traditio|We
-  now have hand-picked sans and serif typefaces for Chinese…]]'
+- '[[Changes/Raycast/2021-08-25-3-interface-experience-changes-in-raycast-macos-v1-1-22-0|3
+  Interface Experience changes in Raycast macos-v1 1.22.0]]'
 - '[[Changes/Descript/2021-09-08-studio-sound-improvements|Studio Sound improvements]]'
 - '[[Changes/Notion/2021-09-08-now-it-s-much-easier-to-download-copy-share-images-from-ios-while-you-re-on-the|Now
   it''s much easier to download, copy & share images from iOS while you''re on the
@@ -86,7 +86,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2021-09-08 · Notion · [[Changes/Notion/2021-09-08-now-it-s-much-easier-to-download-copy-share-images-from-ios-while-you-re-on-the|Now it's much easier to download, copy & share images from iOS while you're on the go]]
-- Later: 2021-11-16 · Notion · [[Changes/Notion/2021-11-16-the-slash-command-dropdown-menu-now-returns-more-relevant-results-i-e-table-disp|The slash command dropdown menu now returns more relevant results…]]
+- Later: 2021-10-13 · Raycast · [[Changes/Raycast/2021-10-13-command-1-9-shortcuts-now-work-as-expected-in-the-search-menu-items-command|Command + 1...9 shortcuts now work as expected in the Search Menu Items command]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

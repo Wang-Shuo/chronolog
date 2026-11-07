@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2d6eafd235da61f54c7b80e5bac5239b08d773f237fb286eef2afe5551dc7723
+machine_hash: d9f52f2c3a3b06b0e40fba07ed2bea4e1103bc91bc02fd3ad685a6a22f1d5281
 product: ollama
 product_name: Ollama
 record:
@@ -100,7 +100,7 @@ Source: https://github.com/ollama/ollama/releases/tag/v0.3.0
 ## Nearby in Model Support
 
 - Earlier: 2024-07-25 · Gemini · [[Changes/Gemini/2024-07-25-introducing-gemini-1-5-flash-to-gemini|Introducing Gemini 1.5 Flash to Gemini]]
-- Later: 2024-07-29 · Aider · [[Changes/Aider/2024-07-29-fall-back-to-main-model-if-weak-model-is-unable-to-generate-a-commit-message|Fall back to main model if weak model is unable to generate a commit message]]
+- Later: 2024-07-26 · AnythingLLM · [[Changes/AnythingLLM/2024-07-26-47-model-support-changes-in-v1-0-0|47 Model Support changes in v1.0.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

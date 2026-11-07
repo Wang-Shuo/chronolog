@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ad917fa93a3001dcdbfaae618305cd3793644c423e5bfa4c0c01cd61c4ad80a5
+machine_hash: 36f10f8c746eeb00b70af74c4d9ac68a131c4691baf7eb956f3eda820707865d
 product: dify
 product_name: Dify
 record:
@@ -42,12 +42,12 @@ record:
   title: 2 Developer Workflow changes in 0.3.34
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-10-20-also-there-s-an-experimental-bash-mode-enable-it-in-the-settings-and-let-the-cha|Also,
-  there''s an experimental bash mode]]'
-- '[[Changes/Dify/2023-11-21-3-developer-workflow-changes-in-0-3-31|3 Developer Workflow
-  changes in 0.3.31]]'
+- '[[Changes/Raycast/2023-11-29-quit-all-applications-now-closes-all-finder-windows-by-default-you-can-disable-t|Quit
+  All Applications: Now closes all Finder windows by default]]'
 - '[[Changes/Ollama/2023-12-08-linewrap-now-works-when-resizing-the-terminal-with-ollama-run|Linewrap
   now works when resizing the terminal with ollama run]]'
+- '[[Changes/Raycast/2023-12-13-improved-contrast-of-highlights-in-the-fix-spelling-and-grammar-ai-command|Improved
+  contrast of highlights in the “Fix Spelling and Grammar” AI Command]]'
 source_release: '[[Releases/Dify/dify-2023-12-19-0-3-34-github-134420185-925cc49c|dify-2023-12-19-0-3-34-github-134420185-925cc49c]]'
 source_type: github_releases
 theme: developer-workflow
@@ -83,7 +83,7 @@ Source: https://github.com/langgenius/dify/releases/tag/0.3.34
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2023-12-08 · Ollama · [[Changes/Ollama/2023-12-08-linewrap-now-works-when-resizing-the-terminal-with-ollama-run|Linewrap now works when resizing the terminal with ollama run]]
+- Earlier: 2023-12-13 · Raycast · [[Changes/Raycast/2023-12-13-improved-contrast-of-highlights-in-the-fix-spelling-and-grammar-ai-command|Improved contrast of highlights in the “Fix Spelling and Grammar” AI Command]]
 - Later: 2024-01-03 · Ollama · [[Changes/Ollama/2024-01-03-added-shortcuts-help-command-to-ollama-run-to-list-keyboard-shortcuts|Added /? shortcuts help command to ollama run to list keyboard shortcuts]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 5b6dbcbf4e8bfa185a5f2c6aa46e828c0bb3355d6311c58e8d15d526d3a3e6a9
+machine_hash: a484e3ae9c4030228fa3a20a48dacf1dfbd8db09ab22c87ad5e960291e4fe1f5
 product: cursor
 product_name: Cursor
 record:
@@ -55,8 +55,8 @@ record:
   title: Multi-repo environment support
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-07-16-connect-your-app-to-apollo-io|Connect your app to
-  Apollo.io]]'
+- '[[Changes/Raycast/2026-07-16-ai-chat-auto-loaded-extensions-now-get-persisted-into-the-ai-extensions-list-of|AI
+  Chat : Auto-loaded extensions now get persisted into the AI Extensions list…]]'
 - '[[Changes/Claude Code/2026-07-17-mcp-tool-calls-running-longer-than-2-minutes-now-move-to-the-background-automati|MCP
   tool calls running longer than 2 minutes now move to the background…]]'
 - '[[Changes/Cursor/2026-07-17-cursor-in-slack-now-shares-a-plan-before-it-starts-runs-in-multi-repo-environmen|Cursor
@@ -94,7 +94,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-07-17 · Claude Code · [[Changes/Claude Code/2026-07-17-mcp-tool-calls-running-longer-than-2-minutes-now-move-to-the-background-automati|MCP tool calls running longer than 2 minutes now move to the background…]]
-- Later: 2026-07-17 · Dify · [[Changes/Dify/2026-07-17-24-apps-and-integrations-changes-in-1-16-0|24 Apps and Integrations changes in 1.16.0]]
+- Later: 2026-07-17 · Devin · [[Changes/Devin/2026-07-17-instant-slack-unsync-command|Instant Slack Unsync Command]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

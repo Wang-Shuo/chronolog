@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1f6a52af8e5e200e8340fdc110336066ebb91a4a1a10ab73ab6ddb238ad03211
+machine_hash: 1de1669e99e275369a0645c8862e2aebbeea3a850d6380555512fe85417b00e9
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -52,10 +52,10 @@ record:
   title: 6 Agent Mode changes in rust-v0.160.0
   type: change
 related_changes:
-- '[[Changes/Google Antigravity/2026-09-30-you-can-now-send-a-message-directly-to-a-subagent-from-the-message-box-without-g|Send
-  a message directly to a subagent from the message box, without going through…]]'
 - '[[Changes/OpenClaw/2026-09-30-33-agent-mode-changes-in-v2026-9-7|33 Agent Mode
   changes in v2026.9.7]]'
+- '[[Changes/AnythingLLM/2026-10-01-apply-workspace-temperature-to-agents-and-omit-the-parameter-when-unset-by-shatf|Apply
+  workspace temperature to agents and omit the parameter when unset]]'
 - '[[Changes/Claude Code/2026-10-01-4-agent-mode-changes-in-v2-1-287|4 Agent Mode
   changes in v2.1.287]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-10-01-rust-v0-160-0-github-401312540-620e0269|codex-cli-2026-10-01-rust-v0-160-0-github-401312540-620e0269]]'

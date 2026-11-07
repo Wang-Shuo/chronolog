@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1de579793ed4a89fcb2eb40badab1c56b68df016e24306a84bec0a906275a13f
+machine_hash: a2e847bd4ef4d2edf9531d4a320ab20fafa02af26496368ca46cb19a50f7735b
 product: open-webui
 product_name: Open WebUI
 record:
@@ -61,10 +61,10 @@ record:
   title: 5 Files and Data changes in v0.10.0
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-06-25-docs-document-max-think-level-by-parthsareen-in-https-github-com-ollama-ollama-p|docs:
-  document max think level]]'
 - '[[Changes/ChatGPT/2026-06-26-the-personal-finance-experience-in-chatgpt-is-rolling-out-to-plus-users-in-the-u|Personal
   finance in ChatGPT expands to Plus users and Android]]'
+- '[[Changes/LM Studio/2026-06-26-chat-to-pdf-export-updated-to-include-styled-markdown|Chat
+  to PDF export updated to include styled markdown]]'
 - '[[Changes/Claude Code/2026-06-29-added-clickable-file-attachments-in-chat-cmd-ctrl-click-reveals-the-file-in-find|Added
   clickable file attachments in chat]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-06-29-v0-10-0-github-346459817-fd55ed01|open-webui-2026-06-29-v0-10-0-github-346459817-fd55ed01]]'

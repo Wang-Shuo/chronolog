@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7f2ed40e23c143da5d8a76af540875d389883afb43372ff49f559d909bf6305d
+machine_hash: e7830b8dcc3db2fb4ef36a117d8211311c8ad7f7e7e3980cdaa30f0ced0b7c2a
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,12 +43,12 @@ record:
   title: 2 Editor Experience changes in v1.0.36
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-23-merged-cost-and-stats-into-usage-both-remain-as-typing-shortcuts-that-open-the-r|Merged
-  /cost and /stats into /usage]]'
 - '[[Changes/Gemini CLI/2026-04-23-chore-core-increase-codebase-investigator-turn-limits-to-50-by-abhipatel12-in-ht|chore(core):
   increase codebase investigator turn limits to 50]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-23-6-editor-experience-changes-in-v1-0-35|6
   Editor Experience changes in v1.0.35]]'
+- '[[Changes/Devin/2026-04-24-merged-multi-edits-in-progress-tab|Merged Multi-Edits
+  in Progress Tab]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-04-24-v1-0-36-github-313365985-f271ddd3|github-copilot-cli-2026-04-24-v1-0-36-github-313365985-f271ddd3]]'
 source_type: github_releases
 theme: editor-experience
@@ -87,7 +87,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.36
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-04-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-23-6-editor-experience-changes-in-v1-0-35|6 Editor Experience changes in v1.0.35]]
+- Earlier: 2026-04-24 · Devin · [[Changes/Devin/2026-04-24-merged-multi-edits-in-progress-tab|Merged Multi-Edits in Progress Tab]]
 - Later: 2026-04-24 · Lovable · [[Changes/Lovable/2026-04-24-labs-tab-the-labs-tab-has-been-removed-from-settings-github-branch-switching-is|Labs tab. The Labs tab has been removed from settings]]
 <!-- chronolog:end -->
 

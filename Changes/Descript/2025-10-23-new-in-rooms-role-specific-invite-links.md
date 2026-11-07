@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 123b761c266d3418b910dd7a33ce19a2400ac412d720bc2d706a1ab7d1bd8929
+machine_hash: 624b7efcc6a2dcbb03dfcd2d3b54b3081e63fe027947184d0e9f1be61a8ca5f6
 product: descript
 product_name: Descript
 record:
@@ -72,7 +72,8 @@ record:
   title: New in Rooms—Role specific invite links
   type: change
 related_changes:
-- '[[Changes/Replit/2025-10-10-teams-and-enterprise|Teams and Enterprise]]'
+- '[[Changes/Devin/2025-10-17-enterprise-playbooks-api-v2|Enterprise Playbooks API
+  v2]]'
 - '[[Changes/Replit/2025-10-17-teams-and-enterprise|Teams and Enterprise]]'
 - '[[Changes/Dify/2025-10-22-knowledge-pipeline-for-enterprise-by-garfielddai-in-https-github-com-langgenius|knowledge-pipeline-for-enterprise]]'
 source_release: '[[Releases/Descript/descript-2025-10-23-68faa249aae7b47cd5e72ea1-b70e43a4|descript-2025-10-23-68faa249aae7b47cd5e72ea1-b70e43a4]]'

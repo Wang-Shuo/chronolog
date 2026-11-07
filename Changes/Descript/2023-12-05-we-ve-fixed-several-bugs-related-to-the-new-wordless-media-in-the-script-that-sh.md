@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 027c7c75d529db9efc835b937049b15d365f454334f4c8af6dfeb50406ac24eb
+machine_hash: e449190aeacde526153cca55b78a65958eac8ca8aa7235f3477db5910c770776
 product: descript
 product_name: Descript
 record:
@@ -96,7 +96,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2023-11-30 · Ollama · [[Changes/Ollama/2023-11-30-improved-progress-bar-when-running-ollama-pull-with-a-simpler-design-that-displa|Improved progress bar when running ollama pull with a simpler design that displays…]]
-- Later: 2023-12-14 · Ollama · [[Changes/Ollama/2023-12-14-this-release-adds-support-mixtral-and-other-models-based-on-its-mixture-of-exper|Ollama adds support Mixtral and other models based on its Mixture of Experts (MoE)…]]
+- Later: 2023-12-13 · Superwhisper · [[Changes/Superwhisper/2023-12-13-performance-improvements-for-file-reading|Performance improvements for file reading]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

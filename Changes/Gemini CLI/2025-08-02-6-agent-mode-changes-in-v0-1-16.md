@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1a9e930dc0241a49aad53e27f7329566967d80614ee44fff8e6f57b31094b258
+machine_hash: 9bb4cee5382424a4c5a79812802d125b3f24770e8fae459c932e80d197fe0e57
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -53,8 +53,7 @@ record:
   title: 6 Agent Mode changes in v0.1.16
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-07-30-6-agent-mode-changes-in-v0-1-15|6 Agent Mode changes
-  in v0.1.15]]'
+- '[[Changes/Devin/2025-07-31-input-dropdown-cleanup|Input Dropdown Cleanup]]'
 - '[[Changes/OpenHands/2025-07-31-improved-the-resolver-summary-generation-by-instructing-the-agent-to-focus-only|Improved
   the resolver summary generation by instructing the agent to focus only…]]'
 - '[[Changes/Replit/2025-08-01-agent-now-has-access-to-replit-docs|Agent now has access

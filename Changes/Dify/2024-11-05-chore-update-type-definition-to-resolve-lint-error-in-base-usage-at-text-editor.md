@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a1cd4f4274102efeb8bd1f93a765b11d979d012ccc7bf1e3ee51095d2fe9783b
+machine_hash: 3d67e3611ac20e134dcc0b03eb60de73ce18acebc21e751857c7fe1d5aa4117e
 product: dify
 product_name: Dify
 record:
@@ -41,7 +41,8 @@ record:
   title: 'chore: update type definition to resolve lint error in Base usage at text-editor.tsx'
   type: change
 related_changes:
-- '[[Changes/Midjourney/2024-10-23-the-image-editor|The image editor]]'
+- '[[Changes/Devin/2024-11-01-it-s-now-easier-to-understand-what-devin-s-been-up-to-with-the-follow-devin-tab|It''s
+  now easier to understand what Devin''s been up to with the "Follow Devin" tab]]'
 - '[[Changes/Aider/2024-11-04-run-aider-apply-clipboard-edits-file-to-edit-js|Run
   aider --apply-clipboard-edits file-to-edit.js]]'
 - '[[Changes/Descript/2024-11-05-other-editor-tweaks|Other editor tweaks]]'

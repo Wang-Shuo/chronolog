@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 047f119ca35167f928f728bb812e7d4ace944a4a1397e383eea21c03cb153d51
+machine_hash: 7ab7cc6c46b276120105fe12bdf52410db28843ffe646ea151e1821b78111cc1
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,9 +46,9 @@ record:
   title: 3 Agent Mode changes in v2.1.98
   type: change
 related_changes:
-- '[[Changes/Google Antigravity/2026-04-07-agent-permissions|Agent Permissions]]'
 - '[[Changes/Claude Code/2026-04-08-2-agent-mode-changes-in-v2-1-97|2 Agent Mode changes
   in v2.1.97]]'
+- '[[Changes/Devin/2026-04-08-higher-quality-wiki-v2|Higher-Quality Wiki v2]]'
 - '[[Changes/Gemini CLI/2026-04-08-11-agent-mode-changes-in-v0-37-0|11 Agent Mode
   changes in v0.37.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-09-v2-1-98-github-307232194-a0774436|claude-code-2026-04-09-v2-1-98-github-307232194-a0774436]]'

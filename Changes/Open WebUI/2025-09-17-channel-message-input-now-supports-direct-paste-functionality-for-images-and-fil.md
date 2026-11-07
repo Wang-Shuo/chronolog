@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b14f5cc2021d1a8bd5e8dbd341524a77f84ac3d26c8db57bb82b4f09fca4355e
+machine_hash: 11f4b581b563aafcc3cd206f9652aa72367ae5eedde5a22986c8b486bb805c8a
 product: open-webui
 product_name: Open WebUI
 record:
@@ -46,8 +46,8 @@ record:
     for images and files…"
   type: change
 related_changes:
-- '[[Changes/Manus/2025-09-12-collaborate-with-your-team-in-real-time-stay-on-the-latest-version-and-keep-work|Introducing
-  Manus collaboration]]'
+- '[[Changes/Recraft/2025-09-12-we-ve-added-the-ability-to-seamlessly-switch-between-a-personal-account-and-a-te|Personal
+  & Team Workspace switcher]]'
 - '[[Changes/Gamma/2025-09-16-gamma-for-teams-effortlessly-on-brand|Gamma for teams:
   Effortlessly on-brand]]'
 - '[[Changes/Granola/2025-09-17-now-there-s-an-easier-way-to-stay-in-the-loop-with-your-team-s-conversations-whe|Shared

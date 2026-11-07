@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: pricing
-machine_hash: bf9760eed24b3f5344535d2f1c3ebfa5164fa703b17f5dcc7da94397ecbedc13
+machine_hash: 245371b2d4f3f767e50135341d195bf131fad2be17ce943bac84e46383d7925e
 product: cline
 product_name: Cline
 record:
@@ -77,7 +77,7 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2025-07-04 · Replit · [[Changes/Replit/2025-07-04-effort-based-billing|Effort-based billing]]
-- Later: 2025-07-11 · Cline · [[Changes/Cline/2025-07-11-supporting-buy-credits-url-response-from-backend-by-pashpashpash-in-https-github|supporting buy_credits_url response from backend]]
+- Later: 2025-07-10 · Recraft · [[Changes/Recraft/2025-07-10-cost-per-generation|Cost per generation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

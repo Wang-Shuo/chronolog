@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: e04b1d31452b6bfb976d114b9b113dffdddeda0b90f3412ba08e7778f6a626ff
+machine_hash: d24ac3a6193e45bb94e6d1e7e06d79fbab4729b9c52997e9ce90fe08cf014db2
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -80,8 +80,8 @@ record:
   title: ElevenAgents
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-09-3-agent-mode-changes-in-v2-1-296|3 Agent Mode
-  changes in v2.1.296]]'
+- '[[Changes/Devin/2026-10-09-repository-agents-md-loaded-on-setup|Repository AGENTS.md
+  loaded on setup]]'
 - '[[Changes/Open WebUI/2026-10-10-7-agent-mode-changes-in-v0-12-0|7 Agent Mode changes
   in v0.12.0]]'
 - '[[Changes/OpenClaw/2026-10-10-27-agent-mode-changes-in-v2026-10-1|27 Agent Mode

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 2c630fa1201e7346f00f019f53a3f6fa9ea8f42c453309591b6bc3b5a96ae8b6
+machine_hash: 6f46262ada6f802d0212cabf8dee56ea2934d2d64ddb83bf871989ff0260d84e
 product: ollama
 product_name: Ollama
 record:
@@ -66,12 +66,12 @@ record:
     to Ollama'
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-10-19-chore-lint-remove-context-color-spec-bookkeeping-by-enyst-in-https-github-com-op|chore(lint):
-  remove context color spec bookkeeping]]'
 - '[[Changes/v0/2026-10-19-open-mcps-in-the-chat-composer-choose-slack-and-connect-your-workspace-once-conn|Open
   + → MCPs in the chat composer, choose Slack , and connect your workspace]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-20-switching-only-reasoning-effort-no-longer-forces-compaction-in-over-budget-sessi|Switching
   only reasoning effort no longer forces compaction in over-budget sessions]]'
+- '[[Changes/Krea/2026-10-20-agent-picks-up-context-from-your-past-sessions|Agent
+  picks up context from your past sessions]]'
 source_release: '[[Releases/Ollama/ollama-2026-10-21-v0-40-8-github-419777982-6a81f0ff|ollama-2026-10-21-v0-40-8-github-419777982-6a81f0ff]]'
 source_type: github_releases
 theme: context-window
@@ -102,7 +102,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-10-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-20-switching-only-reasoning-effort-no-longer-forces-compaction-in-over-budget-sessi|Switching only reasoning effort no longer forces compaction in over-budget sessions]]
+- Earlier: 2026-10-20 · Krea · [[Changes/Krea/2026-10-20-agent-picks-up-context-from-your-past-sessions|Agent picks up context from your past sessions]]
 - Later: 2026-10-22 · Claude Code · [[Changes/Claude Code/2026-10-22-updated-the-claude-api-skill-service-account-keys-and-workload-identity-federati|Updated the /claude-api skill]]
 <!-- chronolog:end -->
 

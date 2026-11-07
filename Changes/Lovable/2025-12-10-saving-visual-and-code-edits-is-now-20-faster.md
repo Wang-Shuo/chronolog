@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 96e199cbc520b91a030be5ac807f932d60ddbe569a589a5681d736082479d693
+machine_hash: a123d7cfd83e4e57e5595bd0085b1bbed3bf2661359e7cc5fef056eccacf0657
 product: lovable
 product_name: Lovable
 record:
@@ -41,8 +41,8 @@ record:
   title: Saving visual and code edits is now \~20% faster
   type: change
 related_changes:
-- '[[Changes/Replit/2025-12-05-database-now-generally-available|Database now generally
-  available]]'
+- '[[Changes/Superwhisper/2025-12-08-stats-view-with-typing-speed-and-time-saved|Stats
+  view with typing speed and time saved]]'
 - '[[Changes/v0/2025-12-09-optimized-preview-loading-performance-when-using-design-mode|Optimized
   preview loading performance when using Design Mode]]'
 - '[[Changes/Cursor/2025-12-10-2-reliability-and-performance-changes-in-2-2|2 Reliability

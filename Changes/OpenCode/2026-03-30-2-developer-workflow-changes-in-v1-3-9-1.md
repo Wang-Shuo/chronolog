@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6f994f57c5bcfb4db2f2845609443e6d67f6f7e8818b4af23b521a19ad2f92d5
+machine_hash: 9db89261adf1a6735bc7512fa1d29735fb5f0a29c193330314e79d2279918794
 product: opencode
 product_name: OpenCode
 record:
@@ -42,8 +42,8 @@ record:
   title: 2 Developer Workflow changes in v1.3.9 + 1
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-03-27-5-developer-workflow-changes-in-v0-8-12|5 Developer
-  Workflow changes in v0.8.12]]'
+- '[[Changes/Raycast/2026-03-27-keep-your-workspace-tidy-with-custom-window-management-commands-to-resize-and-po|Keep
+  your workspace tidy with custom window management commands to resize…]]'
 - '[[Changes/OpenCode/2026-03-29-10-developer-workflow-changes-in-v1-3-6-2|10 Developer
   Workflow changes in v1.3.6 + 2]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-30-2-developer-workflow-changes-in-v1-0-13|2

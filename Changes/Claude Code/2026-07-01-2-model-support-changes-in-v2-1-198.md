@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: fcb834d1267706584477b63c14c0b29463b246b9f64d6569f0c3a668e874a0b4
+machine_hash: 63f03c9b5ddfbbf23df285fa1aac7c08418a57c9da8f12e7697abd82b34534cc
 product: claude-code
 product_name: Claude Code
 record:
@@ -90,7 +90,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.198
 ## Nearby in Model Support
 
 - Earlier: 2026-07-01 · Claude · [[Changes/Claude/2026-07-01-model-entitlements-for-enterprise-plans-beta|Model entitlements for Enterprise plans (beta)]]
-- Later: 2026-07-01 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-01-add-support-for-the-kimi-k2-7-code-model|Add support for the kimi-k2.7-code model]]
+- Later: 2026-07-01 · Devin · [[Changes/Devin/2026-07-01-persist-model-selection|Persist Model Selection]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

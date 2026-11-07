@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1b9417ec8126fcd76e485ea7f9eca96f3a46d1f920c7f8c8ccccae80552d72e7
+machine_hash: 66fa26c9a0ccffc072275f5ae42753ac790e232b5851942b1a7c7b7aa66849e0
 product: windsurf
 product_name: Windsurf
 record:
@@ -43,9 +43,11 @@ record:
     polish
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-15-clarified-contributor-guidance-around-keeping-crate-apis-narrow-and-supporting-l|Clarified
-  contributor guidance around keeping crate APIs narrow and supporting…]]'
-- '[[Changes/ElevenLabs/2026-06-15-ios-sdk|iOS SDK]]'
+- '[[Changes/AnythingLLM/2026-06-16-3-mobile-and-desktop-changes-in-v1-14-1|3 Mobile
+  and Desktop changes in v1.14.1]]'
+- '[[Changes/AnythingLLM/2026-06-16-x-desktop-assistant-setting-hd-screenshots-now-available-for-screenshot-capture|x
+  Desktop Assistant Setting - HD screenshots now available for screenshot capture
+  area]]'
 - '[[Changes/Microsoft 365 Copilot/2026-06-16-anthropic-s-claude-now-available-in-microsoft-365-copilot-android-windows-ios-ma|Anthropic''s
   Claude now available in Microsoft 365 Copilot Android, Windows, iOS…]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-06-16-v3-2-16-684ac1d4|windsurf-2026-06-16-v3-2-16-684ac1d4]]'

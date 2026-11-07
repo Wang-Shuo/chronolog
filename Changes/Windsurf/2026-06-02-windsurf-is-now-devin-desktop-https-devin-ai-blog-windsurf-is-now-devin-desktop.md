@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 65ce093c0d0799f2871f8583cf6735a8f17878036a9f8fd693f67de9f9dac542
+machine_hash: 4b76d527029b5d36bca127e2b32096e63932e79b013c58d16e5d590e69ca8bd4
 product: windsurf
 product_name: Windsurf
 record:
@@ -39,10 +39,10 @@ record:
   title: Windsurf is now [Devin Desktop](https://devin.ai/blog/windsurf-is-now-devin-desktop)
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-28-clipboard-correctly-copies-cjk-and-supplementary-plane-unicode-characters-on-win|Clipboard
-  correctly copies CJK and supplementary-plane Unicode characters on Windows]]'
 - '[[Changes/OpenCode/2026-05-28-desktop-improved-the-home-empty-state-and-fixed-v2-font-usage|Desktop
   Improved the home empty state and fixed V2 font usage]]'
+- '[[Changes/Raycast/2026-05-29-snippet-expansion-finally-comes-to-ios-use-your-favorite-keyword-across-the-rayc|Snippet
+  Expansion finally comes to iOS]]'
 - "[[Changes/Open WebUI/2026-06-01-startup-on-non-unicode-consoles-open-webui-no-longer-crashes-at-startup-when-the|\U0001F97E
   Startup on non-Unicode consoles. Open WebUI no longer crashes at startup…]]"
 source_release: '[[Releases/Windsurf/windsurf-2026-06-02-v3-0-12-0c521421|windsurf-2026-06-02-v3-0-12-0c521421]]'

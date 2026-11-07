@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 20fcd9b6832decf434cfbe80de2488d8a85d7d80e3a4b24fd35e69a50abbb00f
+machine_hash: 46096f359999cff676140a5914df0f26a5d2b5e4dd8228a3257b506c95995b95
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -50,8 +50,8 @@ record:
   title: Python SDK
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-28-added-enable-claudeai-mcp-servers-false-env-var-to-opt-out-from-making-claude-ai|Added
-  ENABLE_CLAUDEAI_MCP_SERVERS=false env var to opt out from making claude.ai…]]'
+- '[[Changes/AnythingLLM/2026-03-02-lemonade-integration-by-timothycarambat-in-https-github-com-mintplex-labs-anythi|Lemonade
+  integration]]'
 - '[[Changes/Codex CLI/2026-03-02-3-apps-and-integrations-changes-in-rust-v0-107-0|3
   Apps and Integrations changes in rust-v0.107.0]]'
 - '[[Changes/ElevenLabs/2026-03-02-javascript-sdk|JavaScript SDK]]'

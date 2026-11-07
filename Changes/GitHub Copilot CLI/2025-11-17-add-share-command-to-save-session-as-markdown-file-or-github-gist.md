@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 603939a4039a5023f7f18d5605dca0ac28c0475a59c13bd23aaa4f6c787b1e5c
+machine_hash: 95418daea315e617b7053e2643e9533ce43892a651c951c5b3315c77f89403ac
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,10 +43,10 @@ record:
   title: Add `/share` command to save session as markdown file or GitHub gist
   type: change
 related_changes:
-- '[[Changes/Dify/2025-11-13-chore-add-type-check-to-pre-commit-by-lyzno1-in-https-github-com-langgenius-dify|chore:
-  add type-check to pre-commit]]'
 - '[[Changes/Gemini CLI/2025-11-14-trivial-yaml-fixes-for-linter-by-joshualitt-in-https-github-com-google-gemini-ge|Trivial
   yaml fixes for linter]]'
+- '[[Changes/Raycast/2025-11-15-preferences-toggle-night-light-command|Preferences
+  : Toggle Night Light command]]'
 - '[[Changes/Replit/2025-11-16-gitlab-and-bitbucket-support|GitLab and Bitbucket support]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2025-11-17-v0-0-359-github-263127541-a6162e30|github-copilot-cli-2025-11-17-v0-0-359-github-263127541-a6162e30]]'
 source_type: github_releases

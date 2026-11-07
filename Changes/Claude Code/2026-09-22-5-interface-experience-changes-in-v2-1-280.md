@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 092834a3387cea87eca80f86d4da7e65fd2fa41bfa03ade8aa46b1dac3f42b4c
+machine_hash: 186ed69e3bbc778752e26aaf5b1cafd822a040259ed8526747b62342fc957cba
 product: claude-code
 product_name: Claude Code
 record:
@@ -56,12 +56,12 @@ record:
   title: 5 Interface Experience changes in v2.1.280
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-09-19-32-interface-experience-changes-in-v2026-9-5|32 Interface
-  Experience changes in v2026.9.5]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-21-number-key-selection-in-the-question-dialog-works-for-choices-10-and-beyond|Number-key
   selection in the question dialog works for choices 10 and beyond]]'
 - '[[Changes/Open WebUI/2026-09-21-13-interface-experience-changes-in-v0-11-4|13 Interface
   Experience changes in v0.11.4]]'
+- '[[Changes/AnythingLLM/2026-09-22-add-openrouter-service-tier-selection-by-shatfield4-in-https-github-com-mintplex|Add
+  OpenRouter service tier selection]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-22-v2-1-280-github-393879189-1cf5db2b|claude-code-2026-09-22-v2-1-280-github-393879189-1cf5db2b]]'
 source_type: github_releases
 theme: interface-experience
@@ -108,7 +108,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.280
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-09-21 · Open WebUI · [[Changes/Open WebUI/2026-09-21-13-interface-experience-changes-in-v0-11-4|13 Interface Experience changes in v0.11.4]]
+- Earlier: 2026-09-22 · AnythingLLM · [[Changes/AnythingLLM/2026-09-22-add-openrouter-service-tier-selection-by-shatfield4-in-https-github-com-mintplex|Add OpenRouter service tier selection]]
 - Later: 2026-09-22 · Codex CLI · [[Changes/Codex CLI/2026-09-22-32-interface-experience-changes-in-rust-v0-156-0|32 Interface Experience changes in rust-v0.156.0]]
 <!-- chronolog:end -->
 

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8ffd3392a536a060a18d14cabe1ddbd249faa5c7a031958ed098209ca38890ab
+machine_hash: 58a5bdc00927a66fe8cee730b9c8c776fe247f3792e7b97beccd80dc4d7ac12b
 product: descript
 product_name: Descript
 record:
@@ -41,9 +41,9 @@ record:
   title: Color rendering issues
   type: change
 related_changes:
-- '[[Changes/Descript/2024-02-23-reverts-changes-to-the-selection-toolbar|Reverts
-  changes to the selection toolbar]]'
 - '[[Changes/Cursor/2024-03-01-ai-notes-enabled-by-default-hold-shift-on-any-symbol-better-in-editor-chat-auto|Polish]]'
+- '[[Changes/Raycast/2024-03-07-ai-chat-new-sidebar-to-switch-between-chats-and-search-chats-via-their-content|AI
+  Chat: New sidebar to switch between chats, and search chats via their content]]'
 - '[[Changes/Descript/2024-03-12-we-ve-made-backend-changes-to-how-exports-and-publishes-are-processed-these-chan|Descript
   makes backend changes to how Exports and Publishes are processed]]'
 source_release: '[[Releases/Descript/descript-2024-03-12-65f0ac54061325f26b26a687-8250fa50|descript-2024-03-12-65f0ac54061325f26b26a687-8250fa50]]'
@@ -74,8 +74,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2024-03-01 · Cursor · [[Changes/Cursor/2024-03-01-ai-notes-enabled-by-default-hold-shift-on-any-symbol-better-in-editor-chat-auto|Polish]]
-- Later: 2024-03-18 · Open WebUI · [[Changes/Open WebUI/2024-03-18-sidebar-ui-update-updated-sidebar-ui-to-feature-a-chat-menu-dropdown-replacing-t|🔄 Sidebar UI Update]]
+- Earlier: 2024-03-07 · Raycast · [[Changes/Raycast/2024-03-07-ai-chat-new-sidebar-to-switch-between-chats-and-search-chats-via-their-content|AI Chat: New sidebar to switch between chats, and search chats via their content]]
+- Later: 2024-03-13 · Superwhisper · [[Changes/Superwhisper/2024-03-13-global-shortcut-and-navigation-keys-for-mode-switch|Global shortcut and navigation keys for mode switch]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

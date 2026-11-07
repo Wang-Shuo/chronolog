@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: b78c85abcf7052c6bbfa78873a73ec947194f32c3109ccef330e97442d033f1e
+machine_hash: 5acec9f6e192d54f378a6917c85d0eb5b47bc8dbec8ed646713f37520823f3b3
 product: lovable
 product_name: Lovable
 record:
@@ -88,7 +88,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2025-11-05 · ElevenLabs · [[Changes/ElevenLabs/2025-11-05-agents-packages|Agents Packages]]
-- Later: 2025-11-07 · Gemini CLI · [[Changes/Gemini CLI/2025-11-07-3-agent-mode-changes-in-v0-13-0|3 Agent Mode changes in v0.13.0]]
+- Later: 2025-11-07 · Devin · [[Changes/Devin/2025-11-07-new-devin-agent|New Devin Agent]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

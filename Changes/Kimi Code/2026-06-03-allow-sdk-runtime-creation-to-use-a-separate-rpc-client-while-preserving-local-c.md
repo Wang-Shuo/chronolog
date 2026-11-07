@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 461a7ef0770c82497218ad769f3e5fccd9dbe4bd141db5c52b76476683d2983e
+machine_hash: c7bf841432cffe75b6ea4a419298dbd0965d128a1920b983142759ed4701fb4f
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -45,12 +45,11 @@ record:
     local CLI startup
   type: change
 related_changes:
-- '[[Changes/Kimi Code/2026-06-02-show-mcp-server-summary-in-the-welcome-panel-and-add-configuration-hints-in-the|Show
-  MCP server summary in the welcome panel and add configuration hints in the /mcp…]]'
 - '[[Changes/Microsoft 365 Copilot/2026-06-02-federated-copilot-connectors-are-now-generally-available-web-microsoft-365-copil|Federated
   Copilot Connectors are now generally available…]]'
 - '[[Changes/Claude Code/2026-06-03-remote-control-now-shows-as-a-persistent-footer-pill-with-a-link-to-the-session|Remote
   Control now shows as a persistent footer pill (with a link to the session)…]]'
+- '[[Changes/Devin/2026-06-03-child-sessions-tree-connector|Child Sessions: Tree Connector]]'
 source_release: '[[Releases/Kimi Code/kimi-code-2026-06-03-0-9-0-d6b33fef|kimi-code-2026-06-03-0-9-0-d6b33fef]]'
 source_type: kimi_code_changelog
 theme: apps-integrations
@@ -82,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-06-03 · Claude Code · [[Changes/Claude Code/2026-06-03-remote-control-now-shows-as-a-persistent-footer-pill-with-a-link-to-the-session|Remote Control now shows as a persistent footer pill (with a link to the session)…]]
+- Earlier: 2026-06-03 · Devin · [[Changes/Devin/2026-06-03-child-sessions-tree-connector|Child Sessions: Tree Connector]]
 - Later: 2026-06-03 · Lovable · [[Changes/Lovable/2026-06-03-configure-who-can-create-app-connector-connections|Configure who can create app connector connections]]
 <!-- chronolog:end -->
 

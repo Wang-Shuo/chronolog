@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: pricing
-machine_hash: 7d8928e0e70204b26815cfe4d9dd2f975ccf8e3608abe0338af18d24a49369fe
+machine_hash: 9ed6be1acf5d34b300adaeb181b46055428d04eecee6ad009dd5fd722becb76d
 product: open-webui
 product_name: Open WebUI
 record:
@@ -66,12 +66,12 @@ record:
     handles…"
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-10-28-get-an-email-before-your-credits-run-out|Get an email
-  before your credits run out]]'
 - '[[Changes/Codex CLI/2026-10-29-56495-add-paginated-channel-subscription-queries-to-the-local-message-board-feli|♯56495
   Add paginated channel subscription queries to the local message board @felixxia-oai]]'
 - '[[Changes/ElevenLabs/2026-11-02-3-pricing-model-changes-in-elevenlabs-updates-2026-11-02|3
   Pricing Model changes in ElevenLabs updates — 2026-11-02]]'
+- '[[Changes/Recraft/2026-11-02-preview-it-on-packaging-apparel-and-storefronts-at-no-extra-generation-cost|Preview
+  it on packaging, apparel, and storefronts at no extra generation cost]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-11-03-v0-13-0-github-432661497-44290c10|open-webui-2026-11-03-v0-13-0-github-432661497-44290c10]]'
 source_type: github_releases
 theme: pricing-model
@@ -117,7 +117,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-11-02 · ElevenLabs · [[Changes/ElevenLabs/2026-11-02-3-pricing-model-changes-in-elevenlabs-updates-2026-11-02|3 Pricing Model changes in ElevenLabs updates — 2026-11-02]]
+- Earlier: 2026-11-02 · Recraft · [[Changes/Recraft/2026-11-02-preview-it-on-packaging-apparel-and-storefronts-at-no-extra-generation-cost|Preview it on packaging, apparel, and storefronts at no extra generation cost]]
 - Later: 2026-11-04 · Dify · [[Changes/Dify/2026-11-04-3-pricing-model-changes-in-1-19-0|3 Pricing Model changes in 1.19.0]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4284634a3969b97009e3ee21b3acd63fa50ae4a9d48d310010c82e453fa8862b
+machine_hash: de40f622abfc9f25ff2ac3087c63dfe24feae8d5c06646440d797b813100415b
 product: openhands
 product_name: OpenHands
 record:
@@ -45,12 +45,10 @@ record:
   title: 2 Automation and Scheduling changes in 1.9.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-30-pr-auto-now-starts-a-self-paced-loop-that-fixes-one-thing-per-run-and-paces-itse|/pr
-  auto now starts a self-paced loop that fixes one thing per run and paces itself…]]'
-- '[[Changes/OpenClaw/2026-06-30-15-automation-and-scheduling-changes-in-v2026-6-11|15
-  Automation and Scheduling changes in v2026.6.11]]'
 - "[[Changes/Open WebUI/2026-07-01-models-with-null-capabilities-chatting-with-a-model-whose-capabilities-are-unset|\U0001F916
   Models with null capabilities. Chatting with a model whose capabilities…]]"
+- '[[Changes/Devin/2026-07-03-service-user-automations|Service User Automations]]'
+- '[[Changes/Devin/2026-07-03-snapshot-build-trigger|Snapshot Build Trigger]]'
 source_release: '[[Releases/OpenHands/openhands-2026-07-06-1-9-0-github-349633843-8010776a|openhands-2026-07-06-1-9-0-github-349633843-8010776a]]'
 source_type: github_releases
 theme: automation-scheduling
@@ -94,7 +92,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/1.9.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2026-07-01 · Open WebUI · [[Changes/Open WebUI/2026-07-01-models-with-null-capabilities-chatting-with-a-model-whose-capabilities-are-unset|🤖 Models with null capabilities. Chatting with a model whose capabilities…]]
+- Earlier: 2026-07-03 · Devin · [[Changes/Devin/2026-07-03-snapshot-build-trigger|Snapshot Build Trigger]]
 - Later: 2026-07-08 · Codex CLI · [[Changes/Codex CLI/2026-07-08-30508-revert-make-auto-review-on-request-prompt-more-proactive-dylan-hurd-oai|♯30508 Revert "Make auto-review on-request prompt more proactive" @dylan-hurd-oai]]
 <!-- chronolog:end -->
 

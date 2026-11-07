@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 259e1e816ab61c224cca7e3c1d97f634d8168c5cbbbfd887796d977404d26e34
+machine_hash: 99a4b7253252b53637e389100eaa88c0607176efb73356fac4495438603b08ef
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -77,7 +77,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2025-10-08 · Cline · [[Changes/Cline/2025-10-08-update-local-models-docs-remove-emojis-from-docs-by-nickbaumann98-in-https-githu|Update local models docs & remove emojis from Docs]]
-- Later: 2025-10-10 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-10-10-improved-the-error-handling-in-the-model-picker-when-no-models-are-available-fix|Improved the error handling in the /model picker when no models are available…]]
+- Later: 2025-10-09 · AnythingLLM · [[Changes/AnythingLLM/2025-10-09-7-model-support-changes-in-v1-9-0|7 Model Support changes in v1.9.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

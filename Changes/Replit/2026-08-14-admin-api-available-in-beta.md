@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 43d6d07553cae5fb027e175774d70643878809af04681df6f29f4f8f86b9b6a1
+machine_hash: b81d6e1e4635f0c250909f73068f0bf454d36149e46f7106dea9cf79f0c6ff47
 product: replit
 product_name: Replit
 record:
@@ -62,10 +62,9 @@ record:
   title: Admin API available in beta
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-13-enterprise-policy-a-url-typed-blockedmarketplaces-entry-for-a-bare-repo-url-keep|Enterprise
-  policy: a url-typed blockedMarketplaces entry for a bare repo URL keeps…]]'
-- '[[Changes/Claude Code/2026-08-14-changed-the-github-app-setup-tip-to-no-longer-appear-in-repositories-whose-origi|Changed
-  the GitHub app setup tip to no longer appear in repositories whose origin…]]'
+- '[[Changes/Devin/2026-08-14-auto-scan-schedules-api|Auto-Scan Schedules API]]'
+- '[[Changes/Devin/2026-08-14-devin-local-on-by-default-for-enterprise|Devin Local
+  On by Default for Enterprise]]'
 - '[[Changes/Lovable/2026-08-14-set-up-entra-id-single-sign-on-from-the-microsoft-app-gallery|Set
   up Entra ID single sign-on from the Microsoft app gallery]]'
 source_release: '[[Releases/Replit/replit-2026-08-14-2026-08-14-e5550355|replit-2026-08-14-2026-08-14-e5550355]]'

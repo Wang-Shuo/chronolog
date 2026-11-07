@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 28a859b98543b14c7d1f6fc31f58f06ecc7c00e970517490fe7666504c1b7d45
+machine_hash: 8012bef3825ea623b64ebbacbaab7cf698c1fb16b93dd3ce68d86020a6391e09
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -39,12 +39,12 @@ record:
   title: 'chore: config editor in https://github.com/openai/codex/pull/5878'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2025-10-24-2-editor-experience-changes-in-v0-0-350|2
-  Editor Experience changes in v0.0.350]]'
 - '[[Changes/GitHub Copilot CLI/2025-10-24-3-editor-experience-changes-in-v0-0-351|3
   Editor Experience changes in v0.0.351]]'
 - '[[Changes/Gemini CLI/2025-10-29-5-editor-experience-changes-in-v0-11-0|5 Editor
   Experience changes in v0.11.0]]'
+- '[[Changes/Raycast/2025-10-29-clipboard-history-added-a-new-edit-content-action|Clipboard
+  History : Added a new Edit Content action]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-10-30-rust-v0-52-0-github-258584762-83f2b559|codex-cli-2025-10-30-rust-v0-52-0-github-258584762-83f2b559]]'
 source_type: github_releases
 theme: editor-experience
@@ -83,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2025-10-29 · Gemini CLI · [[Changes/Gemini CLI/2025-10-29-5-editor-experience-changes-in-v0-11-0|5 Editor Experience changes in v0.11.0]]
+- Earlier: 2025-10-29 · Raycast · [[Changes/Raycast/2025-10-29-clipboard-history-added-a-new-edit-content-action|Clipboard History : Added a new Edit Content action]]
 - Later: 2025-10-30 · v0 · [[Changes/v0/2025-10-30-you-can-now-edit-images-using-nano-banana-in-v0-turn-on-design-mode-select-an-im|Image Editing with Nano Banana]]
 <!-- chronolog:end -->
 

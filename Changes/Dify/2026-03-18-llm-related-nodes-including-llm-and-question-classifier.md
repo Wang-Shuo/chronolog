@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 61cd84537e3047f3db7cddee3ff1a11739fee3a44323da9b3687c95ec0706cee
+machine_hash: c7a27a4a4bafc6410258593751e0349661b8ba41fe36bffc76ba7dc2f80cc263
 product: dify
 product_name: Dify
 record:
@@ -40,10 +40,10 @@ record:
   title: LLM-related nodes, including LLM and Question Classifier
   type: change
 related_changes:
-- '[[Changes/Midjourney/2026-03-17-today-we-re-letting-the-community-test-an-early-version-of-our-v8-model-on-alpha|Today
-  we’re letting the community test an early version of our V8 model…]]'
 - '[[Changes/Ollama/2026-03-17-4-model-support-changes-in-v0-18-1|4 Model Support
   changes in v0.18.1]]'
+- '[[Changes/AnythingLLM/2026-03-18-x-ability-to-select-the-provider-and-model-for-the-workspace-without-leaving-the|x
+  Ability to select the provider and model for the workspace without leaving the page]]'
 - '[[Changes/ChatGPT/2026-03-18-we-re-rolling-out-gpt-5-4-mini-in-chatgpt-gpt-5-4-mini-is-available-to-free-and|GPT-5.4
   mini in ChatGPT]]'
 source_release: '[[Releases/Dify/dify-2026-03-18-1-13-2-github-298465611-74009894|dify-2026-03-18-1-13-2-github-298465611-74009894]]'
@@ -78,7 +78,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-03-18 · ChatGPT · [[Changes/ChatGPT/2026-03-18-we-re-rolling-out-gpt-5-4-mini-in-chatgpt-gpt-5-4-mini-is-available-to-free-and|GPT-5.4 mini in ChatGPT]]
-- Later: 2026-03-19 · Claude Code · [[Changes/Claude Code/2026-03-19-added-effort-frontmatter-support-for-skills-and-slash-commands-to-override-the-m|Added effort frontmatter support for skills and slash commands to override…]]
+- Later: 2026-03-18 · LM Studio · [[Changes/LM Studio/2026-03-18-3-model-support-changes-in-lm-studio-0-4-7|3 Model Support changes in LM Studio 0.4.7]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

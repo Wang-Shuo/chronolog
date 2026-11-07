@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4e337523bc1cd8b3baa582dc900737e9d7409b54855ee8a4144f177ada251855
+machine_hash: 2e9efbdea5d346aa979de585f1417f1b6ccbba169924ea12669a7b2086ef44b9
 product: lovable
 product_name: Lovable
 record:
@@ -50,10 +50,9 @@ record:
   title: Updated Chat actions menu in projects
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-15-claude-code-on-the-web-improved-the-routine-detail-page-menu-and-rename-in-the-b|Claude
-  Code on the web Improved the routine detail page]]'
 - '[[Changes/Google Antigravity/2026-09-15-reorganized-the-conversation-menu-so-archive-and-delete-sit-together-at-the-bott|Reorganized
   the conversation menu so Archive and Delete sit together at the bottom…]]'
+- '[[Changes/Devin/2026-09-16-reboot-vm-from-the-sidebar|Reboot VM from the Sidebar]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-16-3-interface-experience-changes-in-v1-0-85|3
   Interface Experience changes in v1.0.85]]'
 source_release: '[[Releases/Lovable/lovable-2026-09-16-2026-09-16-cc8072e1|lovable-2026-09-16-2026-09-16-cc8072e1]]'

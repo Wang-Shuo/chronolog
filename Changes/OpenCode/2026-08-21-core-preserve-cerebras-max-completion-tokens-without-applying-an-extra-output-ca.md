@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c41c8b18a5a7a6df437bee50513248ebf7352d1adb7eaeb9c968076c0fc5637c
+machine_hash: 3e1c313b0101ab7a76d1541d8f198f3bdbee8bb525eaa2590d0bb094e163dfc4
 product: opencode
 product_name: OpenCode
 record:
@@ -53,8 +53,7 @@ record:
     cap
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-21-3-interface-experience-changes-in-v2-1-239|3 Interface
-  Experience changes in v2.1.239]]'
+- '[[Changes/Devin/2026-08-21-session-subscribers|Session Subscribers]]'
 - '[[Changes/Lovable/2026-08-21-project-details-when-you-hover-the-sidebar|Project
   details when you hover the sidebar]]'
 - '[[Changes/Midjourney/2026-08-21-folders-and-organizing|Folders and organizing]]'

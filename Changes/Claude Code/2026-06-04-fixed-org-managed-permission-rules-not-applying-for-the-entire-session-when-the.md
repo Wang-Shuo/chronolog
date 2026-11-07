@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: fix
-machine_hash: 24c30c56fc758c163ab45e490c58633f8196d01f461fa94dae5280ff8f0cdcaf
+machine_hash: 5e9905de87cd42e90c417085349dee83c9f08d5c66041f206166de2a659b23d8
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,9 @@ record:
   title: Fixed org-managed permission rules not applying for the entire session…
   type: change
 related_changes:
-- '[[Changes/Cline/2026-06-03-update-vs-code-extension-dependencies-to-resolve-security-issues-in-xmldom-xmldo|Update
-  VS Code extension dependencies to resolve security issues…]]'
 - '[[Changes/Cursor/2026-06-03-enterprise-customers-can-now-manage-multiple-cursor-teams-from-one-place-with-di|Enterprise
   customers can now manage multiple Cursor teams from one place…]]'
+- '[[Changes/Devin/2026-06-03-settings-improvements|Settings Improvements]]'
 - '[[Changes/ChatGPT/2026-06-04-lockdown-mode-is-now-available-to-all-logged-in-users-across-account-types-and-w|Lockdown
   Mode is now available to all logged-in users]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-04-v2-1-163-github-334509318-c6b9f988|claude-code-2026-06-04-v2-1-163-github-334509318-c6b9f988]]'

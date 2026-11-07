@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 24458d377dffcef60a5abe3800b1ba04307757e10045e765bb0b378aec7fc078
+machine_hash: 7f00513564811a92818a491f9d22fcc4a93d65fd2e050d32c2f864b581ef570a
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,12 +48,12 @@ record:
   title: 3 Editor Experience changes in v2.1.269
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-10-added-browser-tab-icons-for-published-artifacts-chosen-by-claude-to-match-each-p|Added
-  browser-tab icons for published artifacts, chosen by Claude to match each page]]'
 - '[[Changes/Dify/2026-09-10-6-editor-experience-changes-in-1-17-1|6 Editor Experience
   changes in 1.17.1]]'
 - '[[Changes/Lovable/2026-09-10-sync-your-project-with-bitbucket-cloud|Sync your project
   with Bitbucket Cloud]]'
+- '[[Changes/Raycast/2026-09-10-home-tap-the-selected-tab-again-to-quickly-scroll-back-to-the-top|Home:
+  Tap the selected tab again to quickly scroll back to the top]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-11-v2-1-269-github-387243742-288e9189|claude-code-2026-09-11-v2-1-269-github-387243742-288e9189]]'
 source_type: github_releases
 theme: editor-experience
@@ -98,8 +98,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.269
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-09-10 · Lovable · [[Changes/Lovable/2026-09-10-sync-your-project-with-bitbucket-cloud|Sync your project with Bitbucket Cloud]]
-- Later: 2026-09-11 · OpenClaw · [[Changes/OpenClaw/2026-09-11-5-editor-experience-changes-in-v2026-9-4|5 Editor Experience changes in v2026.9.4]]
+- Earlier: 2026-09-10 · Raycast · [[Changes/Raycast/2026-09-10-home-tap-the-selected-tab-again-to-quickly-scroll-back-to-the-top|Home: Tap the selected tab again to quickly scroll back to the top]]
+- Later: 2026-09-11 · Devin · [[Changes/Devin/2026-09-11-clearer-machine-startup-in-the-computer-tab|Clearer Machine Startup in the Computer Tab]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

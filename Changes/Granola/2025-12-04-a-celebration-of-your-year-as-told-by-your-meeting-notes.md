@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: meeting-notes
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1b8fa6685b0a9d4ae9de3237101023cafbf16f54f81834ffceca385cfb52e63a
+machine_hash: 9ce82a5dbd1f9fd1f66d5f6b91f25879eaa9ce465eb5f2da01c850e06687da81
 product: granola
 product_name: Granola
 record:

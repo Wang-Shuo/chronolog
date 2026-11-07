@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4e145ea5d4f4d460dd7b4fb2c7be90a1b70031061d05141da4c8c10034a859ea
+machine_hash: d9b809c4fd67348e2e65ac925bb602a6971c21f1e498fcc867c1e36c2693a4ae
 product: claude-code
 product_name: Claude Code
 record:
@@ -95,7 +95,7 @@ type: change
 ## Nearby in Account and Access
 
 - Earlier: 2026-06-30 · OpenCode · [[Changes/OpenCode/2026-06-30-3-account-and-access-changes-in-v1-17-12|3 Account and Access changes in v1.17.12]]
-- Later: 2026-07-01 · Open WebUI · [[Changes/Open WebUI/2026-07-01-2-account-and-access-changes-in-v0-10-2|2 Account and Access changes in v0.10.2]]
+- Later: 2026-07-01 · Devin · [[Changes/Devin/2026-07-01-this-release-also-includes-numerous-bug-fixes-across-the-platform-including-fixe|This release also includes numerous bug fixes across the platform]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

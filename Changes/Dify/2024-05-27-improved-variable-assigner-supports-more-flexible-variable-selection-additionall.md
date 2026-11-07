@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 16848efe9e2b8159ad1e78d5de722935a7a5a07442c3dba1dfd0261eb5beaba9
+machine_hash: c1a264408cf3137fda16869a11cd0456a58cdaee61b5392859380ab3ba7c4f6e
 product: dify
 product_name: Dify
 record:
@@ -46,11 +46,11 @@ record:
   title: Improved Variable Assigner supports more flexible variable selection
   type: change
 related_changes:
-- '[[Changes/Ollama/2024-05-15-to-clear-the-chat-history-for-a-session-when-running-ollama-run-use-clear|To
-  clear the chat history for a session when running ollama run, use /clear]]'
 - "[[Changes/Open WebUI/2024-05-19-enhanced-sidebar-ui-model-files-documents-prompts-and-playground-merged-into-wor|\U0001F4C2
   Enhanced Sidebar UI]]"
 - '[[Changes/Descript/2024-05-22-automatic-speaker-detection|Automatic Speaker Detection]]'
+- '[[Changes/Raycast/2024-05-22-typing-practice-source-now-fits-2-lines-on-the-scorecard-and-has-a-tooltip-when|Typing
+  Practice: Source now fits 2 lines on the scorecard and has a tooltip when hovering]]'
 source_release: '[[Releases/Dify/dify-2024-05-27-0-6-9-github-157655872-c2725bb5|dify-2024-05-27-0-6-9-github-157655872-c2725bb5]]'
 source_type: github_releases
 theme: interface-experience
@@ -86,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2024-05-22 · Descript · [[Changes/Descript/2024-05-22-automatic-speaker-detection|Automatic Speaker Detection]]
+- Earlier: 2024-05-22 · Raycast · [[Changes/Raycast/2024-05-22-typing-practice-source-now-fits-2-lines-on-the-scorecard-and-has-a-tooltip-when|Typing Practice: Source now fits 2 lines on the scorecard and has a tooltip when hovering]]
 - Later: 2024-06-02 · Open WebUI · [[Changes/Open WebUI/2024-06-02-ui-enhancement-fixed-the-scrollbar-overlapping-issue-with-the-message-box-in-the|🖥️ UI Enhancement]]
 <!-- chronolog:end -->
 

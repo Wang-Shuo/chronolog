@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: aedb952401054e4186c4b35b9013d86a5d5732c9f7797e91b72273805eed1420
+machine_hash: ab873c148212a458b9da713a623ef4616724b2a1ec032818a49fb294e378d9b8
 product: ollama
 product_name: Ollama
 record:
@@ -62,12 +62,12 @@ record:
     12B…'
   type: change
 related_changes:
-- '[[Changes/Aider/2024-06-17-2-context-window-changes-in-v0-38-0|2 Context Window
-  changes in v0.38.0]]'
 - '[[Changes/Gemini/2024-06-18-gemini-advanced-features-available-in-india|Gemini
   Advanced features available in India]]'
 - '[[Changes/Aider/2024-06-24-improved-error-info-for-token-limit-errors|Improved
   error info for token limit errors]]'
+- '[[Changes/Superwhisper/2024-07-12-show-clipboard-context-update-in-realtime|Show
+  clipboard context update in realtime]]'
 source_release: '[[Releases/Ollama/ollama-2024-07-21-v0-2-8-github-166379938-ae8a63e0|ollama-2024-07-21-v0-2-8-github-166379938-ae8a63e0]]'
 source_type: github_releases
 theme: context-window
@@ -97,7 +97,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2024-06-24 · Aider · [[Changes/Aider/2024-06-24-improved-error-info-for-token-limit-errors|Improved error info for token limit errors]]
+- Earlier: 2024-07-12 · Superwhisper · [[Changes/Superwhisper/2024-07-12-show-clipboard-context-update-in-realtime|Show clipboard context update in realtime]]
 - Later: 2024-07-25 · Ollama · [[Changes/Ollama/2024-07-25-mistral-large-2-https-ollama-com-library-mistral-large-mistral-s-new-123b-flagsh|Mistral Large 2((source link)]]
 <!-- chronolog:end -->
 

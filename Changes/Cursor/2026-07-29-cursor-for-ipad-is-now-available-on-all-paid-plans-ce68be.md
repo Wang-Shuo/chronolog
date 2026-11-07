@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 3b1756a5253ca9a8abad8b8484efa7ed5d47b71d5b1f7de7ca364e2b55488d6f
+machine_hash: 3a989d69500b979ca954427e634c5355c2e1b403df6f82d0eaf8f63d74bcc50f
 product: cursor
 product_name: Cursor
 record:
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-07-29 · Codex CLI · [[Changes/Codex CLI/2026-07-29-2-mobile-and-desktop-changes-in-rust-v0-146-0|2 Mobile and Desktop changes in rust-v0.146.0]]
-- Later: 2026-07-29 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-07-29-list-email-attachments-in-microsoft-365-copilot-android-windows-ios-mac-web-micr|List email attachments in Microsoft 365 Copilot Android, Windows, iOS, Mac…]]
+- Later: 2026-07-29 · Devin · [[Changes/Devin/2026-07-29-session-organization-improvements|Session Organization Improvements]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

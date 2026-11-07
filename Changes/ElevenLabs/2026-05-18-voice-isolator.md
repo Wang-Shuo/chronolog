@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: dc0af98b8e943a4c963d360babe35ca22f7c0a2647eae3191d544a372f73387f
+machine_hash: de5b70f26abdf4131ef2144d08d9b2e00b7aff4f1ca2343659280fd04a6ce8a5
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -41,10 +41,10 @@ record:
   title: Voice Isolator
   type: change
 related_changes:
-- '[[Changes/HeyGen/2026-05-13-a-roll-b-roll-audio-captions-and-motion-graphics-are-no-longer-separate-steps-in|A-Roll,
-  B-Roll, audio, captions, and motion graphics are no longer separate steps…]]'
 - '[[Changes/Descript/2026-05-14-improved-transcription-with-elevenlabs-scribe-v2|Improved
   transcription with ElevenLabs Scribe v2]]'
+- '[[Changes/Superwhisper/2026-05-15-enhanced-audio-processing-with-improved-dynamic-normalization-and-live-waveform|Enhanced
+  audio processing with improved dynamic normalization and live waveform gating]]'
 - '[[Changes/ElevenLabs/2026-05-18-javascript-sdk|JavaScript SDK]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-05-18-2026-05-18-640aaf83|elevenlabs-2026-05-18-2026-05-18-640aaf83]]'
 source_type: elevenlabs_changelog
@@ -82,8 +82,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-05-14 · Descript · [[Changes/Descript/2026-05-14-improved-transcription-with-elevenlabs-scribe-v2|Improved transcription with ElevenLabs Scribe v2]]
-- Later: 2026-05-25 · ElevenLabs · [[Changes/ElevenLabs/2026-05-25-elevencreative-studio|ElevenCreative Studio]]
+- Earlier: 2026-05-15 · Superwhisper · [[Changes/Superwhisper/2026-05-15-enhanced-audio-processing-with-improved-dynamic-normalization-and-live-waveform|Enhanced audio processing with improved dynamic normalization and live waveform gating]]
+- Later: 2026-05-20 · Raycast · [[Changes/Raycast/2026-05-20-3-voice-and-audio-changes-in-raycast-macos-0-61|3 Voice and Audio changes in Raycast macos 0.61]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

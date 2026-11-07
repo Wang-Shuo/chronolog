@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 0c64d5d877a1083101c02db4a02e7aa97e7a2be157b3b56e92f230129ca4c079
+machine_hash: 7a800e23b062727239b3a9ec747a3ba84d0ec6e46679a8be465c8e85d4532866
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,8 +43,8 @@ record:
   title: Added `/effort` slash command to set model effort level
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-03-12-core-fixed-chunk-timeout-when-processing-llm-stream|Core
-  Fixed chunk timeout when processing LLM stream]]'
+- '[[Changes/Superwhisper/2026-03-12-strip-stray-think-thought-prefix-lines-from-llm-output|Strip
+  stray think/thought prefix lines from LLM output]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-13-setting-claude-sonnet-4-6-as-the-default-model-is-now-preserved-correctly|Setting
   claude-sonnet-4.6 as the default model is now preserved correctly]]'
 - '[[Changes/OpenCode/2026-03-13-desktop-model-selection-now-persists-by-session|Desktop

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a09e5ef9b08c90c64757dbcae94d5ffb68808f38eef0b44ca54d2c3e12cae458
+machine_hash: f0108c070a95c9d8e23482d014ccb7bca274067b41fccb22f8d2f1da14b675bc
 product: opencode
 product_name: OpenCode
 record:
@@ -51,8 +51,8 @@ record:
   title: Terminal Added pinned sessions with quick-switch slots in the session picker
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-05-14-restored-markdown-rendering-for-session-output-by-default|Restored
-  markdown rendering for session output by default]]'
+- '[[Changes/Krea/2026-05-15-style-refs-in-the-gallery-arrow-navigation|Style refs
+  in the gallery + arrow navigation]]'
 - '[[Changes/OpenCode/2026-05-15-auto-hide-the-menu-bar-on-linux-and-windows|Auto-hide
   the menu bar on Linux and Windows]]'
 - '[[Changes/v0/2026-05-15-2-interface-experience-changes-in-claude-opus-4-7-fast-agent-browser|2
@@ -87,7 +87,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-05-15 · v0 · [[Changes/v0/2026-05-15-2-interface-experience-changes-in-claude-opus-4-7-fast-agent-browser|2 Interface Experience changes in Claude Opus 4.7 Fast, agent browser…]]
-- Later: 2026-05-18 · Codex CLI · [[Changes/Codex CLI/2026-05-18-5-interface-experience-changes-in-rust-v0-131-0|5 Interface Experience changes in rust-v0.131.0]]
+- Later: 2026-05-17 · Devin · [[Changes/Devin/2026-05-17-collapsible-session-folders|Collapsible Session Folders]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

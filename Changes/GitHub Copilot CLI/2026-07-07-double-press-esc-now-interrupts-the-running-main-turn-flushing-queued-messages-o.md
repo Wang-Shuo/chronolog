@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: ba04b707387e224d54b60023d7b0096ae4f62be64ce0f4a0d1ae4234dadb8616
+machine_hash: 50c26b556215b601046abac8420fa0e99641bef2a4a9b9fe30c940554c0494b5
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,10 +45,10 @@ record:
   title: Double-press Esc now interrupts the running main turn (flushing queued messages)…
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-07-06-9-agent-mode-changes-in-1-9-0|9 Agent Mode changes
-  in 1.9.0]]'
 - '[[Changes/Runway/2026-07-06-agent-can-now-read-pdfs-you-upload-pulling-their-content-directly-into-generatio|PDF
   Input for Agent]]'
+- '[[Changes/Superwhisper/2026-07-06-agent-escape-enter-shortcuts-now-respond-only-when-the-relevant-window-is-focuse|Agent
+  Escape/Enter shortcuts now respond only when the relevant window is focused]]'
 - '[[Changes/Claude Code/2026-07-07-2-agent-mode-changes-in-v2-1-203|2 Agent Mode
   changes in v2.1.203]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-07-07-v1-0-69-github-350582031-19558357|github-copilot-cli-2026-07-07-v1-0-69-github-350582031-19558357]]'

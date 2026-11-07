@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: ec3501d06290fdfd8a8f7f399ba3c0baccf1857b45abc6742ad1ec0be3483fba
+machine_hash: 54ad80dee757df6e651bc77b0a67a352946b372d258e0edcc793aaf4f19e35b3
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,7 +45,8 @@ record:
     model
   type: change
 related_changes:
-- '[[Changes/Runway/2025-10-24-create-your-own-custom-node-based-workflows-chaining-together-multiple-models-mo|Workflows]]'
+- '[[Changes/Superwhisper/2025-10-24-3-model-support-changes-in-superwhisper-macos-2-6-3|3
+  Model Support changes in Superwhisper macOS 2.6.3]]'
 - '[[Changes/Cline/2025-10-27-3-model-support-changes-in-v3-34-1|3 Model Support changes
   in v3.34.1]]'
 - '[[Changes/ElevenLabs/2025-10-27-supported-llm-models|Supported LLM Models]]'

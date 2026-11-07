@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: fc65df4819d5c052add477d3cbc1741c9706ee6449df8acc2353c70392f558e5
+machine_hash: fc37fda4f2550eb83a87c6b94ecd02f3eb0d54a188c24c3a28e8b20a07a658e4
 product: microsoft-365-copilot
 product_name: Microsoft 365 Copilot
 record:
@@ -48,12 +48,10 @@ record:
     Web] (OneNote)
   type: change
 related_changes:
-- '[[Changes/Dify/2026-07-28-feat-web-locate-workflow-nodes-by-node-id-in-the-workflow-editor-by-ruanimal-in|feat(web):
-  locate workflow nodes by node_id in the workflow editor]]'
-- '[[Changes/Google Antigravity/2026-07-28-added-preview-temporary-tabs-to-the-auxiliary-pane-allowing-files-to-open-in-a-t|Added
-  preview (temporary) tabs to the auxiliary pane, allowing files to open…]]'
 - '[[Changes/Codex CLI/2026-07-29-3-editor-experience-changes-in-rust-v0-146-0|3 Editor
   Experience changes in rust-v0.146.0]]'
+- '[[Changes/Devin/2026-07-29-word-level-diff-highlights|Word-Level Diff Highlights]]'
+- '[[Changes/Devin/2026-07-29-idp-group-improvements|IdP Group Improvements]]'
 source_release: '[[Releases/Microsoft 365 Copilot/microsoft-365-copilot-2026-07-29-2026-07-29-599fab6b|microsoft-365-copilot-2026-07-29-2026-07-29-599fab6b]]'
 source_type: m365_copilot_changelog
 theme: editor-experience
@@ -91,7 +89,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-07-29 · Codex CLI · [[Changes/Codex CLI/2026-07-29-3-editor-experience-changes-in-rust-v0-146-0|3 Editor Experience changes in rust-v0.146.0]]
+- Earlier: 2026-07-29 · Devin · [[Changes/Devin/2026-07-29-idp-group-improvements|IdP Group Improvements]]
 - Later: 2026-07-29 · OpenHands · [[Changes/OpenHands/2026-07-29-feat-allow-overwriting-a-secret-value-from-the-edit-form-by-hieptl-in-https-gith|feat: allow overwriting a secret value from the edit form]]
 <!-- chronolog:end -->
 

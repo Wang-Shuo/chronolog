@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 18355800737d221930ef1e4b93459682a413cf03ea34e1d263efe8e5b76e45d8
+machine_hash: 60590cf709d88cd52cbcad7999206e0692e4c5f02f2fa8d2ffd0468e4f1d2738
 product: v0
 product_name: v0
 record:
@@ -48,12 +48,12 @@ record:
   title: 2 Interface Experience changes in Downloads in the Code tab, new iOS…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-15-8-interface-experience-changes-in-rust-v0-163-0|8
-  Interface Experience changes in rust-v0.163.0]]'
-- '[[Changes/Google Antigravity/2026-10-15-in-the-full-screen-viewer-the-comma-and-period-keys-now-step-a-video-back-or-for|In
-  the full-screen viewer, the comma and period keys now step a video back…]]'
 - '[[Changes/Open WebUI/2026-10-16-4-interface-experience-changes-in-v0-12-3|4 Interface
   Experience changes in v0.12.3]]'
+- '[[Changes/Raycast/2026-10-16-3-interface-experience-changes-in-raycast-windows-2-8|3
+  Interface Experience changes in Raycast windows 2.8]]'
+- '[[Changes/Raycast/2026-10-16-3-interface-experience-changes-in-raycast-macos-2-8|3
+  Interface Experience changes in Raycast macos 2.8]]'
 source_release: '[[Releases/v0/v0-2026-10-16-2026-10-16-3443a38d|v0-2026-10-16-2026-10-16-3443a38d]]'
 source_type: v0_changelog
 theme: interface-experience
@@ -92,7 +92,7 @@ Source: https://v0.app/changelog#2026-10-16
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-10-16 · Open WebUI · [[Changes/Open WebUI/2026-10-16-4-interface-experience-changes-in-v0-12-3|4 Interface Experience changes in v0.12.3]]
+- Earlier: 2026-10-16 · Raycast · [[Changes/Raycast/2026-10-16-3-interface-experience-changes-in-raycast-macos-2-8|3 Interface Experience changes in Raycast macos 2.8]]
 - Later: 2026-10-18 · OpenClaw · [[Changes/OpenClaw/2026-10-18-openclaw-2026-10-5-refreshes-the-sidebar-adds-saved-versions-and-undo-to-skill-w|OpenClaw 2026.10.5 refreshes the sidebar, adds saved versions and Undo to Skill…]]
 <!-- chronolog:end -->
 

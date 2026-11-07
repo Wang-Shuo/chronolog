@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 78addddfbc4ca7bb9181f8a6e4d46fbd469c59d6691ba3122ca2436f4eb0a893
+machine_hash: e42a7106c7c0c3f718653dd5321eaf7df9ce618c6982f81809d45ba6dbf51f7b
 product: openclaw
 product_name: OpenClaw
 record:
@@ -47,10 +47,10 @@ record:
   title: Manual compaction. /compact gives an active answer up to 60 seconds to finish
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-16-2-context-window-changes-in-v2-1-302|2 Context
-  Window changes in v2.1.302]]'
 - '[[Changes/Cline/2026-10-16-auto-compact-and-its-strategy-setting-sit-together-again-in-feature-settings|Auto
   Compact and its strategy setting sit together again in Feature settings]]'
+- '[[Changes/Devin/2026-10-16-microsoft-teams-forwarded-messages-as-context|Microsoft
+  Teams: Forwarded Messages as Context]]'
 - '[[Changes/Open WebUI/2026-10-16-2-context-window-changes-in-v0-12-3|2 Context Window
   changes in v0.12.3]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-10-16-v2026-10-4-c8c204e0|openclaw-2026-10-16-v2026-10-4-c8c204e0]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 5a37b91b235399c1a620543fb8f1995d19cb04c2f6f3b05982cc8f223b3a1537
+machine_hash: e6c950a42624ab9abac75c6d608e863a9380178e684e0a92b381538ccfd93903
 product: replit
 product_name: Replit
 record:
@@ -60,12 +60,12 @@ record:
   title: A new way to build from your phone
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-07-21-7-voice-and-audio-changes-in-rust-v0-145-0|7 Voice
-  and Audio changes in rust-v0.145.0]]'
-- '[[Changes/ChatGPT/2026-07-23-chatgpt-voice-is-now-available-in-work-and-codex-in-the-chatgpt-desktop-app-star|ChatGPT
-  Voice in Work and Codex on desktop]]'
 - '[[Changes/HeyGen/2026-07-23-your-avatar-still-delivers-the-script-in-your-face-and-voice-no-camera-required|Your
   avatar still delivers the script in your face and voice, no camera required]]'
+- '[[Changes/Raycast/2026-07-23-3-voice-and-audio-changes-in-raycast-macos-0-70|3
+  Voice and Audio changes in Raycast macos 0.70]]'
+- '[[Changes/Raycast/2026-07-23-3-voice-and-audio-changes-in-raycast-windows-0-70|3
+  Voice and Audio changes in Raycast windows 0.70]]'
 source_release: '[[Releases/Replit/replit-2026-07-24-2026-07-24-b0f18b89|replit-2026-07-24-2026-07-24-b0f18b89]]'
 source_type: replit_changelog
 theme: voice
@@ -98,7 +98,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-07-23 · HeyGen · [[Changes/HeyGen/2026-07-23-your-avatar-still-delivers-the-script-in-your-face-and-voice-no-camera-required|Your avatar still delivers the script in your face and voice, no camera required]]
+- Earlier: 2026-07-23 · Raycast · [[Changes/Raycast/2026-07-23-3-voice-and-audio-changes-in-raycast-windows-0-70|3 Voice and Audio changes in Raycast windows 0.70]]
 - Later: 2026-07-27 · ElevenLabs · [[Changes/ElevenLabs/2026-07-27-packages|Packages]]
 <!-- chronolog:end -->
 

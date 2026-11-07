@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 35a3fe82070904b3415c5744483f0e896ce5c3844990e2cd98bacf212725c483
+machine_hash: f0ca2933d382cc7f548db66c93c1f948233317c47f3b8521c1d947f5cb970929
 product: openclaw
 product_name: OpenClaw
 record:
@@ -47,10 +47,9 @@ record:
   title: Answer your Claw’s questions and enter secrets from the terminal, with clearer…
   type: change
 related_changes:
-- '[[Changes/Dify/2026-09-10-4-developer-workflow-changes-in-1-17-1|4 Developer Workflow
-  changes in 1.17.1]]'
 - '[[Changes/Claude Code/2026-09-11-added-otel-metrics-include-repository-to-tag-opentelemetry-metrics-and-events-wi|Added
   OTEL_METRICS_INCLUDE_REPOSITORY to tag OpenTelemetry metrics and events…]]'
+- '[[Changes/Devin/2026-09-11-azure-devops-citations|Azure DevOps Citations]]'
 - '[[Changes/OpenClaw/2026-09-11-18-developer-workflow-changes-in-v2026-9-4|18 Developer
   Workflow changes in v2026.9.4]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-09-11-v2026-9-4-6cdeafb2|openclaw-2026-09-11-v2026-9-4-6cdeafb2]]'
@@ -107,7 +106,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-09-11 · Claude Code · [[Changes/Claude Code/2026-09-11-added-otel-metrics-include-repository-to-tag-opentelemetry-metrics-and-events-wi|Added OTEL_METRICS_INCLUDE_REPOSITORY to tag OpenTelemetry metrics and events…]]
+- Earlier: 2026-09-11 · Devin · [[Changes/Devin/2026-09-11-azure-devops-citations|Azure DevOps Citations]]
 - Later: 2026-09-12 · Qoder · [[Changes/Qoder/2026-09-12-file-review-reduced-cpu-usage-when-multiple-code-diffs-are-expanded-alongside-an|File review: Reduced CPU usage when multiple code diffs are expanded alongside…]]
 <!-- chronolog:end -->
 

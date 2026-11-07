@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a5a90840fd0c3e392585b9a80f81deb05916eed17443158a9b494f5bdd0c0e6e
+machine_hash: 8f7e82cbf6b03c85b6dec31a61b5fcf503cc6539044bafc81944853327b49ccb
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -54,12 +54,12 @@ record:
   title: Easier conversation sharing
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-06-17-all-tasks-are-faster-and-more-reliable|All tasks are
-  faster and more reliable]]'
 - '[[Changes/Claude Code/2026-06-17-improved-auto-retry-api-connection-drops-mid-thinking-now-automatically-retry-in|Improved
   auto-retry: API connection drops mid-thinking now automatically retry…]]'
 - '[[Changes/OpenCode/2026-06-17-session-timelines-load-much-faster-and-avoid-flicker-or-scroll-jumps|Session
   timelines load much faster and avoid flicker or scroll jumps]]'
+- '[[Changes/Wispr Flow/2026-06-17-smarter-faster-backspace-ios|Smarter, Faster Backspace
+  (iOS)]]'
 scope: Web
 source_release: '[[Releases/ChatGPT/chatgpt-2026-06-18-chatgpt-app-experience-updates-d15f55c5|chatgpt-2026-06-18-chatgpt-app-experience-updates-d15f55c5]]'
 source_type: chatgpt_changelog
@@ -96,8 +96,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-06-17 · OpenCode · [[Changes/OpenCode/2026-06-17-session-timelines-load-much-faster-and-avoid-flicker-or-scroll-jumps|Session timelines load much faster and avoid flicker or scroll jumps]]
-- Later: 2026-06-20 · Claude Code · [[Changes/Claude Code/2026-06-20-the-stream-stall-hint-now-reads-waiting-for-api-response-will-retry-in-instead-o|The stream-stall hint now reads "Waiting for API response · will retry in …" instead…]]
+- Earlier: 2026-06-17 · Wispr Flow · [[Changes/Wispr Flow/2026-06-17-smarter-faster-backspace-ios|Smarter, Faster Backspace (iOS)]]
+- Later: 2026-06-18 · Raycast · [[Changes/Raycast/2026-06-18-introducing-in-place-behavior-for-custom-commands-in-raycast-choose-whether-to-o|Introducing in-place behavior for custom commands in Raycast]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

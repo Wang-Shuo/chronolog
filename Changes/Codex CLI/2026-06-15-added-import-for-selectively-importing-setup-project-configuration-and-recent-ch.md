@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d7406fe9576e9337bdf5230b13cca5e6caee4543e9c5c89efd0dbc5a3395ba54
+machine_hash: 3f11bfd67ef5732ea6fb955184726908e940b17a656505843d5d76b83cd2a6af
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -97,7 +97,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-06-14 · Kimi Code · [[Changes/Kimi Code/2026-06-14-refresh-provider-model-metadata-before-opening-the-model-picker|Refresh provider model metadata before opening the model picker]]
-- Later: 2026-06-17 · ChatGPT · [[Changes/ChatGPT/2026-06-17-a-new-scheduled-page-discoverable-in-the-sidebar-gives-users-one-place-to-view-a|A new Scheduled page, discoverable in the sidebar, gives users one place to view…]]
+- Later: 2026-06-16 · Superwhisper · [[Changes/Superwhisper/2026-06-16-refined-a-range-of-visual-and-interaction-details-across-the-share-card-super-pi|Refined a range of visual and interaction details across the share card, Super…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

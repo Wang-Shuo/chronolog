@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1f50048db95ac58973c86fe8fc01028a72f0972c440810f8df2146484fb06823
+machine_hash: e8057cbe4de796da79285a9f4e63d5aed82f5ff0f0bad8092558314e3c9c0f2f
 product: claude-code
 product_name: Claude Code
 record:
@@ -95,7 +95,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-05-28 · OpenCode · [[Changes/OpenCode/2026-05-28-terminal-kept-session-navigation-working-while-prompt-modes-are-open|Terminal Kept session navigation working while prompt modes are open]]
-- Later: 2026-05-29 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-29-reasoning-effort-picker-respects-model-capabilities-options-not-supported-by-the|Reasoning effort picker respects model capabilities]]
+- Later: 2026-05-29 · Devin · [[Changes/Devin/2026-05-29-pr-review-sidebar-restructure|PR Review Sidebar Restructure]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b99112de87adbaaaaebdcf0e552cc8bc506dcf5fb4457089c72afcb398e41d0e
+machine_hash: 3ccb6bc3be2d3c1a1030e71d18c58a95442e2eb956cff86683bda2025c971e74
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,12 +44,10 @@ record:
   title: 3 Interface Experience changes in rust-v0.24.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-08-20-2-interface-experience-changes-in-rust-v0-23-0|2
-  Interface Experience changes in rust-v0.23.0]]'
-- '[[Changes/Gemini/2025-08-21-revisit-your-conversations-you-can-now-search-your-gemini-chat-history|Revisit
-  your conversations: You can now search your Gemini chat history]]'
-- '[[Changes/Open WebUI/2025-08-21-8-interface-experience-changes-in-v0-6-23|8 Interface
-  Experience changes in v0.6.23]]'
+- '[[Changes/Devin/2025-08-22-mobile-sidebar-improvements|Mobile Sidebar Improvements]]'
+- '[[Changes/Devin/2025-08-22-wiki-sidebar-improvements|Wiki Sidebar Improvements]]'
+- '[[Changes/Raycast/2025-08-25-emoji-picker-added-a-colorful-new-selection-state-making-it-even-more-fun-to-use|Emoji
+  Picker : Added a colorful, new selection state, making it even more fun to use]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-08-26-rust-v0-24-0-github-242647588-70fa432e|codex-cli-2025-08-26-rust-v0-24-0-github-242647588-70fa432e]]'
 source_type: github_releases
 theme: interface-experience
@@ -95,7 +93,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.24.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2025-08-21 · Open WebUI · [[Changes/Open WebUI/2025-08-21-8-interface-experience-changes-in-v0-6-23|8 Interface Experience changes in v0.6.23]]
+- Earlier: 2025-08-25 · Raycast · [[Changes/Raycast/2025-08-25-emoji-picker-added-a-colorful-new-selection-state-making-it-even-more-fun-to-use|Emoji Picker : Added a colorful, new selection state, making it even more fun to use]]
 - Later: 2025-08-27 · Codex CLI · [[Changes/Codex CLI/2025-08-27-improve-emoji-rendering-proper-spacing-and-emoji-variant-2735-2728|Improve emoji rendering: proper spacing and ⌨️ emoji variant (♯2735, ♯2728)]]
 <!-- chronolog:end -->
 

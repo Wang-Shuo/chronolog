@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 25790ac74223fa5da1dc20a198932d70382f8cd0ff96e54842dd78c71521c429
+machine_hash: ac927f137b78f15655f3f794c36dae3916721a12a58a287f669499f5ede61420
 product: qoder
 product_name: Qoder
 record:
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Automation and Scheduling
 
 - Earlier: 2026-09-23 · OpenHands · [[Changes/OpenHands/2026-09-23-chore-consume-sdk-1-49-5-and-automation-1-15-0-by-juanmichelini-in-https-github|chore: consume SDK 1.49.5 and Automation 1.15.0]]
-- Later: 2026-09-25 · OpenHands · [[Changes/OpenHands/2026-09-25-3-automation-and-scheduling-changes-in-v1-24-0|3 Automation and Scheduling changes in v1.24.0]]
+- Later: 2026-09-25 · Devin · [[Changes/Devin/2026-09-25-test-the-app-offered-in-automation-and-triage-sessions|"Test the App" Offered in Automation and Triage Sessions]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

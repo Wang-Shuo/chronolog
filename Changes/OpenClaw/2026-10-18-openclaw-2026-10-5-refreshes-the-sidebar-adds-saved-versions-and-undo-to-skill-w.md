@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 307332b1455c57bcd4a4593e230e5dd7151a8f41e2dbf45efcf434cb0fdd5b33
+machine_hash: ce37da9e2dca687acd5bd7fee51fffc81b45c9582afe7f881243be08b897fd72
 product: openclaw
 product_name: OpenClaw
 record:
@@ -45,10 +45,10 @@ record:
     Skill…
   type: change
 related_changes:
-- '[[Changes/Google Antigravity/2026-10-15-in-the-full-screen-viewer-the-comma-and-period-keys-now-step-a-video-back-or-for|In
-  the full-screen viewer, the comma and period keys now step a video back…]]'
-- '[[Changes/Open WebUI/2026-10-16-4-interface-experience-changes-in-v0-12-3|4 Interface
-  Experience changes in v0.12.3]]'
+- '[[Changes/Raycast/2026-10-16-3-interface-experience-changes-in-raycast-windows-2-8|3
+  Interface Experience changes in Raycast windows 2.8]]'
+- '[[Changes/Raycast/2026-10-16-3-interface-experience-changes-in-raycast-macos-2-8|3
+  Interface Experience changes in Raycast macos 2.8]]'
 - '[[Changes/v0/2026-10-16-2-interface-experience-changes-in-downloads-in-the-code-tab-new-ios|2
   Interface Experience changes in Downloads in the Code tab, new iOS…]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-10-18-v2026-10-5-fdda4c73|openclaw-2026-10-18-v2026-10-5-fdda4c73]]'

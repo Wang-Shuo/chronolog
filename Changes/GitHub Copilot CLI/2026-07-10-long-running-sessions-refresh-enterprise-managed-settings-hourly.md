@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 877da69e99361fd7fc869b86390370e3f817ca1684a15802b87ccf2b96a1afa7
+machine_hash: 9ad44bdc6045f0f917e72c6b5f301a328c3bc1e49795d2afb352dfd40aea26fb
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -41,12 +41,11 @@ record:
   title: Long-running sessions refresh enterprise managed settings hourly
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-07-09-on-web-and-mobile-enterprise-and-edu-workspaces-have-a-two-week-preview-period-w|On
-  web and mobile, Enterprise and Edu workspaces have a two-week preview period]]'
-- '[[Changes/ChatGPT/2026-07-09-in-enterprise-workspaces-public-publishing-is-off-by-default-and-must-be-enabled|In
-  Enterprise workspaces, public publishing is off by default and must be enabled…]]'
 - '[[Changes/Lovable/2026-07-09-enterprise-member-profiles-are-now-private-by-default|Enterprise
   member profiles are now private by default]]'
+- '[[Changes/Devin/2026-07-10-this-release-also-includes-a-working-organization-filter-on-the-enterprise-sessi|This
+  release also includes a working organization filter on the enterprise sessions…]]'
+- '[[Changes/Devin/2026-07-10-redesigned-account-switcher|Redesigned Account Switcher]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-07-10-v1-0-70-github-351853788-0192ae35|github-copilot-cli-2026-07-10-v1-0-70-github-351853788-0192ae35]]'
 source_type: github_releases
 theme: enterprise-admin
@@ -84,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-07-09 · Lovable · [[Changes/Lovable/2026-07-09-enterprise-member-profiles-are-now-private-by-default|Enterprise member profiles are now private by default]]
+- Earlier: 2026-07-10 · Devin · [[Changes/Devin/2026-07-10-redesigned-account-switcher|Redesigned Account Switcher]]
 - Later: 2026-07-13 · OpenClaw · [[Changes/OpenClaw/2026-07-13-4-enterprise-and-administration-changes-in-v2026-7-1|4 Enterprise and Administration changes in v2026.7.1]]
 <!-- chronolog:end -->
 

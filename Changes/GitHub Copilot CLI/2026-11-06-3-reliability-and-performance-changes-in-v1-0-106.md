@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 77e23c633a3131081fec91c0847af51b70265b6a3ad2dad3b2c3e456eb3593b2
+machine_hash: f425ee4899c3b86b19b84b7db90286d3bd8f00ddd22f85bb97a4ddd7fd8e870e
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -47,12 +47,12 @@ record:
   title: 3 Reliability and Performance changes in v1.0.106
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-11-03-faster-top-k-sampling-on-mlx-for-large-vocabularies|Faster
-  top-k sampling on MLX for large vocabularies]]'
-- "[[Changes/Open WebUI/2026-11-03-general-improvements-various-improvements-were-implemented-across-the-applicatio|\U0001F504
-  General improvements. Various improvements were implemented across…]]"
 - '[[Changes/OpenClaw/2026-11-03-incognito-conversations-now-keep-openclaw-conversation-contents-in-memory-instea|Incognito
   conversations now keep OpenClaw conversation contents in memory instead…]]'
+- '[[Changes/Raycast/2026-11-04-2-reliability-and-performance-changes-in-raycast-windows-2-11|2
+  Reliability and Performance changes in Raycast windows 2.11]]'
+- '[[Changes/Raycast/2026-11-04-2-reliability-and-performance-changes-in-raycast-macos-2-11|2
+  Reliability and Performance changes in Raycast macos 2.11]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-11-06-v1-0-106-github-435988160-ec5b15d4|github-copilot-cli-2026-11-06-v1-0-106-github-435988160-ec5b15d4]]'
 source_type: github_releases
 theme: reliability-performance
@@ -106,7 +106,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.106
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-11-03 · OpenClaw · [[Changes/OpenClaw/2026-11-03-incognito-conversations-now-keep-openclaw-conversation-contents-in-memory-instea|Incognito conversations now keep OpenClaw conversation contents in memory instead…]]
+- Earlier: 2026-11-04 · Raycast · [[Changes/Raycast/2026-11-04-2-reliability-and-performance-changes-in-raycast-macos-2-11|2 Reliability and Performance changes in Raycast macos 2.11]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

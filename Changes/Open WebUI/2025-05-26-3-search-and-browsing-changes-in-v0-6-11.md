@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a522b51bd483244e06aa5326c10f600e122468bf4aa5722d19cf607d68e62a9d
+machine_hash: 698b31b0b9a7bc0dcf0e3c67c2466ae9753b25cfb1af15bf1830472abeb7ddc2
 product: open-webui
 product_name: Open WebUI
 record:
@@ -51,12 +51,12 @@ record:
   title: 3 Search and Browsing changes in v0.6.11
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-05-12-you-can-now-export-your-deep-research-reports-as-well-formatted-pdfs-complete-wi-87a3fa|Export
-  Deep Research as PDF for Plus/Pro/Team]]'
-- '[[Changes/ChatGPT/2025-05-12-chatgpt-deep-research-with-sharepoint-and-onedrive-is-available-globally-to-team-c5147c|Microsoft
-  SharePoint and OneDrive connector for deep research for Plus/Pro/Team]]'
 - '[[Changes/ChatGPT/2025-05-15-chatgpt-deep-research-with-dropbox-is-available-globally-to-team-users-it-is-als-eaf8af|Dropbox
   connector for deep research for Plus/Pro/Team]]'
+- '[[Changes/Raycast/2025-05-21-ai-the-ai-chat-quick-ai-web-search-setting-now-works-even-if-the-ask-web-command|AI:
+  The AI Chat/Quick AI Web Search setting now works even if the Ask Web command…]]'
+- '[[Changes/LM Studio/2025-05-23-share-links-with-others-directly-or-on-discord-reddit-x-no-way-to-browse-presets|Share
+  links with others directly, or on Discord / Reddit / X…]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-05-26-v0-6-11-github-221095369-94c4d4cc|open-webui-2025-05-26-v0-6-11-github-221095369-94c4d4cc]]'
 source_type: github_releases
 theme: search-browsing
@@ -104,7 +104,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.6.11
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Search and Browsing
 
-- Earlier: 2025-05-15 · ChatGPT · [[Changes/ChatGPT/2025-05-15-chatgpt-deep-research-with-dropbox-is-available-globally-to-team-users-it-is-als-eaf8af|Dropbox connector for deep research for Plus/Pro/Team]]
+- Earlier: 2025-05-23 · LM Studio · [[Changes/LM Studio/2025-05-23-share-links-with-others-directly-or-on-discord-reddit-x-no-way-to-browse-presets|Share links with others directly, or on Discord / Reddit / X…]]
 - Later: 2025-06-04 · ChatGPT · [[Changes/ChatGPT/2025-06-04-combines-internal-web-sources-for-synthesis|Combines internal + web sources for synthesis]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: d00c5f9462c540e0b60525147c195f18d44125a83dfdf7a37cfacbb7ff4d5eee
+machine_hash: e2192e198bc65899177f1c0479161da255ae69b65f87a3c654a66bdb95cb51f0
 product: notion
 product_name: Notion
 record:
@@ -53,11 +53,12 @@ record:
     up new…
   type: change
 related_changes:
-- '[[Changes/Notion/2021-09-21-pages-with-large-images-now-load-faster-on-mobile|Pages
-  with large images now load faster on mobile]]'
-- '[[Changes/Descript/2022-01-26-blazing-fast-publishing|Blazing fast publishing]]'
 - '[[Changes/Notion/2022-03-15-deeply-nested-sub-pages-load-50-faster|Deeply nested
   sub-pages load 50% faster]]'
+- '[[Changes/Raycast/2022-03-24-memory-set-a-lower-cache-size-for-images-this-may-reduce-the-app-s-memory-footpr|Memory:
+  Set a lower cache size for images]]'
+- '[[Changes/Raycast/2022-04-06-root-search-improved-the-performance-of-indexing-apps-and-preferences|Root
+  Search : Improved the performance of indexing apps and preferences]]'
 source_release: '[[Releases/Notion/notion-2022-04-14-https-www-notion-com-releases-2022-04-14-5dc68862|notion-2022-04-14-https-www-notion-com-releases-2022-04-14-5dc68862]]'
 source_type: notion_changelog
 theme: reliability-performance
@@ -93,8 +94,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2022-03-15 · Notion · [[Changes/Notion/2022-03-15-deeply-nested-sub-pages-load-50-faster|Deeply nested sub-pages load 50% faster]]
-- Later: 2022-08-11 · Notion · [[Changes/Notion/2022-08-11-lots-of-performance-reliability-improvements-across-the-ios-android-apps|Lots of performance & reliability improvements across the iOS & Android apps]]
+- Earlier: 2022-04-06 · Raycast · [[Changes/Raycast/2022-04-06-root-search-improved-the-performance-of-indexing-apps-and-preferences|Root Search : Improved the performance of indexing apps and preferences]]
+- Later: 2022-05-18 · Raycast · [[Changes/Raycast/2022-05-18-various-optimizations-that-should-improve-the-app-s-cold-start-time-reduce-the-a|Various optimizations that should improve the app’s cold start time, reduce…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

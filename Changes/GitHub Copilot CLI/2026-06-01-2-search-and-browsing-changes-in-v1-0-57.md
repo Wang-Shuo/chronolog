@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 866fcea935de32672c71137bcd3189198bfb2a3e4995132daf9fbf061ecef2fc
+machine_hash: bd87e3d28dd5accfbe6f9dce462dd6b87a5ba24fa179597848b228e2f95a18de
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,8 +44,8 @@ record:
   title: 2 Search and Browsing changes in v1.0.57
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-20-github-mcp-web-search-tool-is-available-immediately-without-requiring-tool-searc|GitHub
-  MCP web search tool is available immediately without requiring tool search]]'
+- '[[Changes/AnythingLLM/2026-05-26-feat-add-native-baidu-search-provider-for-agent-web-browsing-by-jimmyzhuu-in-htt|FEAT
+  Add native Baidu Search provider for Agent web browsing]]'
 - '[[Changes/ChatGPT/2026-06-01-chatgpt-can-now-help-with-more-of-the-job-search-process-from-finding-relevant-l|Find
   live jobs and format your resume in ChatGPT]]'
 - '[[Changes/Codex CLI/2026-06-01-3-search-and-browsing-changes-in-rust-v0-136-0|3

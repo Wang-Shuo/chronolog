@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: e911cf5da876dbf69a971437a7a30561d243640f766a4fba2bb2c79ce7bc3274
+machine_hash: 4a5233977e52b42f4dafa0151205e9988ea482ba60d4f76b85241c5a791c8be3
 product: notion
 product_name: Notion
 record:
@@ -48,10 +48,10 @@ record:
   title: 1-page limit for database relations
   type: change
 related_changes:
-- '[[Changes/Notion/2022-02-08-embed-content-from-hex-deepnote|Embed content from
-  Hex & Deepnote]]'
-- '[[Changes/Descript/2022-02-23-improvements-bug-fixes|Improvements & bug fixes]]'
-- '[[Changes/Notion/2022-03-15-streamlined-new-design|Streamlined new design]]'
+- '[[Changes/Raycast/2022-06-29-bonus-rayfie|Bonus: Rayfie]]'
+- '[[Changes/Raycast/2022-06-29-teams-reduced-network-activity-required-for-syncing-shared-quicklinks-and-snippe|Teams:
+  Reduced network activity required for syncing shared quicklinks and snippets]]'
+- '[[Changes/Raycast/2022-06-29-shared-snippets|Shared Snippets]]'
 source_release: '[[Releases/Notion/notion-2022-08-11-https-www-notion-com-releases-2022-08-11-ccc8ec72|notion-2022-08-11-https-www-notion-com-releases-2022-08-11-ccc8ec72]]'
 source_type: notion_changelog
 theme: collaboration
@@ -87,8 +87,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2022-03-15 · Notion · [[Changes/Notion/2022-03-15-streamlined-new-design|Streamlined new design]]
-- Later: 2022-08-29 · Notion · [[Changes/Notion/2022-08-29-see-when-pages-were-last-updated|See when pages were last updated]]
+- Earlier: 2022-06-29 · Raycast · [[Changes/Raycast/2022-06-29-shared-snippets|Shared Snippets]]
+- Later: 2022-08-18 · Raycast · [[Changes/Raycast/2022-08-18-2-collaboration-changes-in-raycast-macos-v1-1-39-0|2 Collaboration changes in Raycast macos-v1 1.39.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

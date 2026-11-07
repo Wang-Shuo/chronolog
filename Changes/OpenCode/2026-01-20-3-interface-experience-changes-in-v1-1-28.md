@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e635ea36085cb163a63e705fb4e4ce3b148652bf62ff4bbff2d6b4493ad7270c
+machine_hash: 0e1bf5d5259ec418568f213a5a37c504ca2a0bdbc3bda6638bf39e056bfd8f8b
 product: opencode
 product_name: OpenCode
 record:
@@ -44,8 +44,7 @@ record:
   title: 3 Interface Experience changes in v1.1.28
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-01-19-2-interface-experience-changes-in-v1-1-26|2 Interface
-  Experience changes in v1.1.26]]'
+- '[[Changes/Superwhisper/2026-01-19-note|NOTE]]'
 - '[[Changes/Claude Code/2026-01-20-improved-backspace-to-delete-pasted-text-as-a-single-token-instead-of-one-charac|Improved
   backspace to delete pasted text as a single token instead of one character…]]'
 - '[[Changes/HeyGen/2026-01-20-pronunciation-redesign-add-and-manage-glossaries-directly-in-the-panel-preview-p|Pronunciation
@@ -91,7 +90,7 @@ Source: https://opencode.ai/changelog/v1.1.28
 ## Nearby in Interface Experience
 
 - Earlier: 2026-01-20 · HeyGen · [[Changes/HeyGen/2026-01-20-pronunciation-redesign-add-and-manage-glossaries-directly-in-the-panel-preview-p|Pronunciation redesign: Add and manage glossaries directly in the panel]]
-- Later: 2026-01-21 · Codex CLI · [[Changes/Codex CLI/2026-01-21-3-interface-experience-changes-in-rust-v0-88-0|3 Interface Experience changes in rust-v0.88.0]]
+- Later: 2026-01-20 · Raycast · [[Changes/Raycast/2026-01-20-general-added-missing-about-actions-menu-in-all-extensions|General : Added missing about actions menu in all extensions]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 067d8e83a759f1f24270aacb900e6b6fda8b8599a6a279cb0d0f03ec81d1af43
+machine_hash: 1122d2ff323e8f33108679cbb118c854d5be55e35054a91ba328c4d348d0eac6
 product: openclaw
 product_name: OpenClaw
 record:
@@ -102,7 +102,7 @@ Source: https://docs.openclaw.ai/releases/2026.8.2
 ## Nearby in Automation and Scheduling
 
 - Earlier: 2026-09-01 · Codex CLI · [[Changes/Codex CLI/2026-09-01-41457-source-proactive-multi-agent-instructions-from-the-model-catalog-copyberry|♯41457 Source proactive multi-agent instructions from the model catalog @copyberry]]
-- Later: 2026-09-03 · OpenClaw · [[Changes/OpenClaw/2026-09-03-13-automation-and-scheduling-changes-in-v2026-9-1|13 Automation and Scheduling changes in v2026.9.1]]
+- Later: 2026-09-02 · Devin · [[Changes/Devin/2026-09-02-richer-trigger-event-details|Richer Trigger Event Details]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

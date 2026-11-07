@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9d43c174083c5f6e55e97252c23883378b7c77f40012cc4cd399df21ada6bbe2
+machine_hash: 2ea4b00ee6fa01be601f5d8485b820bd0388c70cf0ac4c549f68ead3575a42d8
 product: aider
 product_name: Aider
 record:
@@ -52,12 +52,12 @@ record:
   title: 5 Developer Workflow changes in v0.49.0
   type: change
 related_changes:
-- '[[Changes/Aider/2024-07-31-3-developer-workflow-changes-in-v0-47-0|3 Developer
-  Workflow changes in v0.47.0]]'
 - '[[Changes/OpenHands/2024-08-01-4-developer-workflow-changes-in-0-8-3|4 Developer
   Workflow changes in 0.8.3]]'
 - '[[Changes/Dify/2024-08-06-2-developer-workflow-changes-in-0-6-16|2 Developer Workflow
   changes in 0.6.16]]'
+- '[[Changes/AnythingLLM/2024-08-08-multiple-slash-command-expansion-in-prompts-by-shatfield4|Multiple
+  /slash command expansion in prompts by @shatfield4]]'
 source_release: '[[Releases/Aider/aider-2024-08-10-v0-49-0-github-169642017-dab576d9|aider-2024-08-10-v0-49-0-github-169642017-dab576d9]]'
 source_type: github_releases
 theme: developer-workflow
@@ -100,7 +100,7 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.49.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2024-08-06 · Dify · [[Changes/Dify/2024-08-06-2-developer-workflow-changes-in-0-6-16|2 Developer Workflow changes in 0.6.16]]
+- Earlier: 2024-08-08 · AnythingLLM · [[Changes/AnythingLLM/2024-08-08-multiple-slash-command-expansion-in-prompts-by-shatfield4|Multiple /slash command expansion in prompts by @shatfield4]]
 - Later: 2024-08-14 · Dify · [[Changes/Dify/2024-08-14-stop-the-service-command-please-execute-in-the-docker-directory|Stop the service，Command, please execute in the docker directory]]
 <!-- chronolog:end -->
 

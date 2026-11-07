@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0789cdb25d371bd9a279ddd59c90ab54132a7b8b7327633aebe4f63b4cbaf8d7
+machine_hash: 5cb7be8b9628674a9d6bd8d5a552d35646f50878776e98b131af7ac2bd76ca72
 product: openclaw
 product_name: OpenClaw
 record:
@@ -125,8 +125,7 @@ record:
   title: 17 Interface Experience changes in v2026.9.7
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-30-4-interface-experience-changes-in-v2-1-286|4 Interface
-  Experience changes in v2.1.286]]'
+- '[[Changes/Devin/2026-09-30-sidebar-and-command-palette|Sidebar and Command Palette]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-30-2-interface-experience-changes-in-v1-0-90|2
   Interface Experience changes in v1.0.90]]'
 - '[[Changes/Google Antigravity/2026-09-30-rendered-markdown-in-artifacts-and-in-files-opened-in-the-side-pane-can-now-be-e|Rendered
@@ -214,7 +213,7 @@ Source: https://docs.openclaw.ai/releases/2026.9.7
 ## Nearby in Interface Experience
 
 - Earlier: 2026-09-30 · Google Antigravity · [[Changes/Google Antigravity/2026-09-30-rendered-markdown-in-artifacts-and-in-files-opened-in-the-side-pane-can-now-be-e|Rendered Markdown in artifacts and in files opened in the side pane can now…]]
-- Later: 2026-10-01 · Codex CLI · [[Changes/Codex CLI/2026-10-01-2-interface-experience-changes-in-rust-v0-160-0|2 Interface Experience changes in rust-v0.160.0]]
+- Later: 2026-10-01 · AnythingLLM · [[Changes/AnythingLLM/2026-10-01-add-keyboard-navigation-and-autofocus-to-provider-search-menus-by-shatfield4-in|Add keyboard navigation and autofocus to provider search menus]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f3ef0fa918d4f24e76e024a004325d7f4da91e5eeefe6438cc6891855d7b6f96
+machine_hash: 9228c37ff54bff843c1eae0c208fce61259c3bf957063b08b450b147aeddd1c6
 product: v0
 product_name: v0
 record:
@@ -44,12 +44,12 @@ record:
     the first…
   type: change
 related_changes:
-- '[[Changes/Dify/2026-05-12-4-apps-and-integrations-changes-in-1-14-1|4 Apps and
-  Integrations changes in 1.14.1]]'
 - '[[Changes/Gemini CLI/2026-05-12-5-apps-and-integrations-changes-in-v0-42-0|5 Apps
   and Integrations changes in v0.42.0]]'
 - '[[Changes/Ollama/2026-05-12-test-integration-test-hardening-by-dhiltgen-in-https-github-com-ollama-ollama-pu|test:
   integration test hardening]]'
+- '[[Changes/Raycast/2026-05-12-clipboard-history-improved-color-categorization-when-copying-unqualified-hex-cod|Clipboard
+  History : Improved color categorization when copying unqualified hex codes…]]'
 source_release: '[[Releases/v0/v0-2026-05-12-2026-05-12-83608f42|v0-2026-05-12-2026-05-12-83608f42]]'
 source_type: v0_changelog
 theme: apps-integrations
@@ -84,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-05-12 · Ollama · [[Changes/Ollama/2026-05-12-test-integration-test-hardening-by-dhiltgen-in-https-github-com-ollama-ollama-pu|test: integration test hardening]]
+- Earlier: 2026-05-12 · Raycast · [[Changes/Raycast/2026-05-12-clipboard-history-improved-color-categorization-when-copying-unqualified-hex-cod|Clipboard History : Improved color categorization when copying unqualified hex codes…]]
 - Later: 2026-05-13 · Claude Code · [[Changes/Claude Code/2026-05-13-added-claude-code-plugin-prefer-https-to-clone-github-plugin-sources-over-https|Added CLAUDE_CODE_PLUGIN_PREFER_HTTPS to clone GitHub plugin sources over HTTPS…]]
 <!-- chronolog:end -->
 

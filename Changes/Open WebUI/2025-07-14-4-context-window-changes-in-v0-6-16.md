@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4b64660ae339f8dbe6148d4c7dab5c5339c16d01917157af3f41ed08f8652c8c
+machine_hash: ce49cef1e165c1de303872367e9b72a47e47fe3614b745b8673323753bd666e1
 product: open-webui
 product_name: Open WebUI
 record:
@@ -58,9 +58,9 @@ record:
   title: 4 Context Window changes in v0.6.16
   type: change
 related_changes:
-- '[[Changes/Aider/2025-06-27-enhanced-thinking-tokens-support-can-now-be-disabled-by-setting-to-0-and-improve|Enhanced
-  thinking tokens support]]'
 - '[[Changes/Cursor/2025-07-03-pr-indexing-search|PR indexing & search]]'
+- '[[Changes/AnythingLLM/2025-07-09-built-in-browser-tool-https-docs-anythingllm-com-features-browser-tool-you-can-n|Built
+  in Browser Tool((source link) You…]]'
 - '[[Changes/Dify/2025-07-10-style-config-var-update-styling-classes-to-use-design-system-tokens-by-minamiyam|style(config-var):
   update styling classes to use design system tokens]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-07-14-v0-6-16-github-232298341-b0885edf|open-webui-2025-07-14-v0-6-16-github-232298341-b0885edf]]'

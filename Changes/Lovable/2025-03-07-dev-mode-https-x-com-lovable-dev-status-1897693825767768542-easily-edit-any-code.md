@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: bc781cd1144b335049b43f88881a7a41358be273cf0c24df93261e4917bce76b
+machine_hash: 3f2da70e729b8b048c2e9703c4e576afb6578230b164b7541634e90b8538fc5b
 product: lovable
 product_name: Lovable
 record:
@@ -46,7 +46,8 @@ record:
     edit any…'
   type: change
 related_changes:
-- '[[Changes/Descript/2025-02-25-editor-updates|Editor updates]]'
+- '[[Changes/Devin/2025-02-26-customize-chat-vs-workspace-width-drag-to-make-the-chat-as-narrow-or-wide-as-you|Customize
+  chat vs workspace width]]'
 - '[[Changes/Lovable/2025-02-28-edit-mode-auto-close-after-editing-an-element|''Edit''
   mode auto close after editing an element]]'
 - '[[Changes/Lovable/2025-02-28-introducing-code-viewer-to-lovable-https-x-com-lovable-dev-status-18955001518897|Introducing

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a9e2ecbe3dfcf1c14a7f3a2d378ad50163b44ed715708a1dd1aba606da2482cd
+machine_hash: 25f750beb727a61c456f4b7d5f1082f0e2cde00ebe36f69d446099f8fc995915
 product: open-webui
 product_name: Open WebUI
 record:
@@ -59,10 +59,10 @@ record:
   title: 4 Files and Data changes in v0.6.8
   type: change
 related_changes:
-- '[[Changes/Dify/2025-04-28-3-files-and-data-changes-in-1-3-1|3 Files and Data changes
-  in 1.3.1]]'
 - '[[Changes/Open WebUI/2025-05-05-2-files-and-data-changes-in-v0-6-6|2 Files and
   Data changes in v0.6.6]]'
+- '[[Changes/AnythingLLM/2025-05-06-add-support-for-v1-document-upload-endpoints-to-support-auto-add-to-workspace-by|Add
+  support for /v1/document/upload endpoints to support auto-add to workspace]]'
 - "[[Changes/Open WebUI/2025-05-06-tika-loader-image-extraction-problem-resolved-ensured-tikaloader-now-processes-e|\U0001F5BC️
   Tika Loader Image Extraction Problem Resolved]]"
 source_release: '[[Releases/Open WebUI/open-webui-2025-05-10-v0-6-8-github-217786259-d3493a31|open-webui-2025-05-10-v0-6-8-github-217786259-d3493a31]]'

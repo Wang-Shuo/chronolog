@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 320086e968a2c4c6e9ef9585a473f22fa6f1fba1bff3b2b2177dc24891022731
+machine_hash: 5ed9edd5b25f1f63e1937c359ad8f3cf04a91d91af8dfecad79b91bec0589b89
 product: opencode
 product_name: OpenCode
 record:
@@ -42,12 +42,12 @@ record:
   title: 2 Search and Browsing changes in v2.2.0
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-10-22-anthropic-compatible-web-search-now-uses-the-model-s-supported-thinking-setting|Anthropic-compatible
-  web search now uses the model''s supported thinking setting…]]'
 - '[[Changes/OpenClaw/2026-10-22-web-search-timeout-errors-now-tell-you-the-request-s-actual-time-limit-see-web-t|Web
   search timeout errors now tell you the request’s actual time limit]]'
 - "[[Changes/Open WebUI/2026-10-25-web-search-settings-save-admins-can-now-save-web-search-settings-such-as-the-web|\U0001F30D
   Web Search settings save. Admins can now save Web Search settings such…]]"
+- '[[Changes/AnythingLLM/2026-10-26-chore-drop-api-key-fragments-from-web-search-error-messages-by-u00dxk2-in-https|chore:
+  drop API key fragments from web search error messages]]'
 source_release: '[[Releases/OpenCode/opencode-2026-10-27-v2-2-0-f60b51f1|opencode-2026-10-27-v2-2-0-f60b51f1]]'
 source_type: opencode_changelog
 theme: search-browsing
@@ -104,8 +104,8 @@ Source: https://opencode.ai/changelog/v2.2.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Search and Browsing
 
-- Earlier: 2026-10-25 · Open WebUI · [[Changes/Open WebUI/2026-10-25-web-search-settings-save-admins-can-now-save-web-search-settings-such-as-the-web|🌍 Web Search settings save. Admins can now save Web Search settings such…]]
-- Later: 2026-10-29 · Codex CLI · [[Changes/Codex CLI/2026-10-29-57542-add-model-gated-literature-search-to-standalone-web-search-rhan-oai|♯57542 Add model-gated literature search to standalone web search @rhan-oai]]
+- Earlier: 2026-10-26 · AnythingLLM · [[Changes/AnythingLLM/2026-10-26-chore-drop-api-key-fragments-from-web-search-error-messages-by-u00dxk2-in-https|chore: drop API key fragments from web search error messages]]
+- Later: 2026-10-28 · Raycast · [[Changes/Raycast/2026-10-28-ai-chat-improved-cmd-p-search-and-show-chat-statuses-while-browsing|AI Chat : Improved cmd+P search and show chat statuses while browsing]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

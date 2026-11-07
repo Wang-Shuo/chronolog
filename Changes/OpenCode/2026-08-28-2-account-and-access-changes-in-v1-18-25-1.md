@@ -14,12 +14,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 89d9619b32b8f36bd3cd9bf9d45323120825a2018405b750f9752241674894ca
+machine_hash: b9a8ee9d7c21bb99342caa1e13e27bdd16578e6442df2ce4755582f222acc82b
 product: opencode
 product_name: OpenCode
 record:
@@ -46,12 +46,11 @@ record:
   title: 2 Account and Access changes in v1.18.25 + 1
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-08-26-2-account-and-access-changes-in-rust-v0-150-0|2
-  Account and Access changes in rust-v0.150.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-08-27-2-account-and-access-changes-in-v1-0-81|2
   Account and Access changes in v1.0.81]]'
 - '[[Changes/Claude Code/2026-08-28-changed-analytics-to-no-longer-turn-off-before-sign-in-solely-because-managed-se|Changed
   analytics to no longer turn off before sign-in solely because managed…]]'
+- '[[Changes/Devin/2026-08-28-authentication|Authentication]]'
 source_release: '[[Releases/OpenCode/opencode-2026-08-28-v1-18-25-beb5a3f2|opencode-2026-08-28-v1-18-25-beb5a3f2]]'
 source_type: opencode_changelog
 theme: account-access
@@ -85,7 +84,7 @@ Source: https://opencode.ai/changelog/v1.18.25
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-08-28 · Claude Code · [[Changes/Claude Code/2026-08-28-changed-analytics-to-no-longer-turn-off-before-sign-in-solely-because-managed-se|Changed analytics to no longer turn off before sign-in solely because managed…]]
+- Earlier: 2026-08-28 · Devin · [[Changes/Devin/2026-08-28-authentication|Authentication]]
 - Later: 2026-08-28 · Qoder · [[Changes/Qoder/2026-08-28-improved-knowledge-center-authentication-synchronization|Improved Knowledge Center authentication synchronization]]
 <!-- chronolog:end -->
 

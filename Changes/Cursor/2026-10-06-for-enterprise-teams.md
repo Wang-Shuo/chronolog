@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 289c81645eca3aa09ab42af1fc973afc2ddfd670eb810abae74afa9d06200a4a
+machine_hash: 3955874c572813abd4b8954cfe811306b3ddc1f7509ec1c2e91b69aa853fdb92
 product: cursor
 product_name: Cursor
 record:
@@ -58,7 +58,7 @@ record:
   title: For Enterprise teams
   type: change
 related_changes:
-- '[[Changes/Replit/2026-10-02-workspace-settings|Workspace settings]]'
+- '[[Changes/Devin/2026-10-05-devin-review-effort-levels|Devin Review Effort Levels]]'
 - '[[Changes/Claude Code/2026-10-06-claude-tag-added-an-edit-button-to-the-allowed-domains-card-on-a-channel-s-confi|Claude
   Tag Added an Edit button to the Allowed domains card on a channel''s…]]'
 - '[[Changes/Cursor/2026-10-06-remote-control-is-on-by-default-for-everyone-except-enterprise-organizations|Remote

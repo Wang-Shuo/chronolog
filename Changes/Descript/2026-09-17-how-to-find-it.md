@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 3d4abe259bc6e0b934df813d3b65f399dc648383a6ef5cba5029c5bdccfd3f46
+machine_hash: 97e77b3c7ed28bdf2f2675e81fe39d2e83e233891306f94cfe5d4d5b0e239989
 product: descript
 product_name: Descript
 record:
@@ -41,7 +41,7 @@ record:
   title: How to find it
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-09-14-elevenagents-dab1d0|ElevenAgents]]'
+- '[[Changes/Devin/2026-09-16-live-voice-mode|Live Voice Mode]]'
 - '[[Changes/Synthesia/2026-09-16-create-up-to-20-seconds-of-b-roll-with-natively-synced-audio-and-drop-polished-c|Generate
   B-roll with Flux 3 from Black Forest Labs]]'
 - '[[Changes/Codex CLI/2026-09-17-20-voice-and-audio-changes-in-rust-v0-155-0|20 Voice

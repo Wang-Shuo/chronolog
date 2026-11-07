@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 2541079dca223ba7618c318b48df6d9c8eef539afbea0a48fa8f5d9113692965
+machine_hash: 0c0c4e9f636780de403aeef15c5e69b88192c3f613e8dea6dc709f901b42bcfa
 product: replit
 product_name: Replit
 record:
@@ -39,10 +39,9 @@ record:
   title: Integrations
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-07-17-cursor-in-slack-now-shares-a-plan-before-it-starts-runs-in-multi-repo-environmen|Cursor
-  in Slack now shares a plan before it starts, runs in multi-repo environments…]]'
-- '[[Changes/Cursor/2026-07-17-multi-repo-environment-support-4b706e|Multi-repo environment
-  support]]'
+- '[[Changes/Devin/2026-07-17-custom-slack-emoji-rendering|Custom Slack Emoji Rendering]]'
+- '[[Changes/Devin/2026-07-17-enterprise-grade-plugin-governance|Enterprise-Grade
+  Plugin Governance]]'
 - '[[Changes/Dify/2026-07-17-24-apps-and-integrations-changes-in-1-16-0|24 Apps and
   Integrations changes in 1.16.0]]'
 source_release: '[[Releases/Replit/replit-2026-07-17-2026-07-17-97de1494|replit-2026-07-17-2026-07-17-97de1494]]'

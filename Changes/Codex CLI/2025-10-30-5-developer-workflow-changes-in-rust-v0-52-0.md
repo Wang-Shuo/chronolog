@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 43657a071cc13226cabfd9f80bd5470ce72ce6e1ba580e8f7eecede57d3650f2
+machine_hash: 1874acfc7ffa50e989630f0a6cbd6a20b19db460ba4a63a7971966c73c0e3a34
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -48,11 +48,12 @@ record:
   title: 5 Developer Workflow changes in rust-v0.52.0
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-10-29-improved-code-review|Improved Code Review]]'
 - '[[Changes/Cursor/2025-10-29-3-developer-workflow-changes-in-2-0|3 Developer Workflow
   changes in 2.0]]'
 - '[[Changes/Gemini CLI/2025-10-29-11-developer-workflow-changes-in-v0-11-0|11 Developer
   Workflow changes in v0.11.0]]'
+- '[[Changes/Raycast/2025-10-29-clipboard-history-added-a-new-paste-sequentially-command|Clipboard
+  History : Added a new Paste Sequentially command]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-10-30-rust-v0-52-0-github-258584762-83f2b559|codex-cli-2025-10-30-rust-v0-52-0-github-258584762-83f2b559]]'
 source_type: github_releases
 theme: developer-workflow
@@ -101,7 +102,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.52.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2025-10-29 · Gemini CLI · [[Changes/Gemini CLI/2025-10-29-11-developer-workflow-changes-in-v0-11-0|11 Developer Workflow changes in v0.11.0]]
+- Earlier: 2025-10-29 · Raycast · [[Changes/Raycast/2025-10-29-clipboard-history-added-a-new-paste-sequentially-command|Clipboard History : Added a new Paste Sequentially command]]
 - Later: 2025-11-03 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-11-03-2-developer-workflow-changes-in-v0-0-354|2 Developer Workflow changes in v0.0.354]]
 <!-- chronolog:end -->
 

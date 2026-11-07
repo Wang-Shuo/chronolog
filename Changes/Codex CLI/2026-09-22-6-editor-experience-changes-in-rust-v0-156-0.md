@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b3fe74d4a8ef2dbfbb5e5bf81481cca03d78d369fdb060d417f32c830896e0b1
+machine_hash: 74e1102a5e31292e59ea1cdaab78e29ef7cc797ccbfed7ddbe8dee3b3bb65577
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -51,8 +51,7 @@ record:
   title: 6 Editor Experience changes in rust-v0.156.0
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-09-20-organize-project-files-into-collections|Organize project
-  files into collections]]'
+- '[[Changes/Devin/2026-09-21-checks-tab-and-faster-diffs|Checks Tab and Faster Diffs]]'
 - '[[Changes/Open WebUI/2026-09-21-21-editor-experience-changes-in-v0-11-4|21 Editor
   Experience changes in v0.11.4]]'
 - '[[Changes/Claude Code/2026-09-22-vscode-changed-open-in-new-tab-to-open-claude-beside-the-editor-group-you-are-wo|VSCode

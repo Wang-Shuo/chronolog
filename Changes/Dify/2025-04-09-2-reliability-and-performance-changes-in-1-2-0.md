@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c0550d629c2fd13a2d1cf041792d4b10c807d8434841c8a045d2d1f34d5cad94
+machine_hash: b2796ab42065ddf797da03a0bc3a46af2e0d73eccd633927ffb328dd71883e3f
 product: dify
 product_name: Dify
 record:
@@ -45,12 +45,12 @@ record:
   title: 2 Reliability and Performance changes in 1.2.0
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2025-04-05-2-reliability-and-performance-changes-in-v0-6-1|2
-  Reliability and Performance changes in v0.6.1]]'
 - '[[Changes/Cline/2025-04-06-add-improvements-to-file-mention-searching-for-faster-searching|Add
   improvements to file mention searching for faster searching]]'
 - "[[Changes/Open WebUI/2025-04-07-general-backend-refactoring-multiple-behind-the-scenes-improvements-streamline-b|\U0001F9F0
   General Backend Refactoring]]"
+- '[[Changes/Devin/2025-04-08-use-devin-s-analysis-to-get-up-to-speed-or-just-click-the-provided-link-to-have|Use
+  Devin''s analysis to get up to speed, or just click the provided link to have…]]'
 source_release: '[[Releases/Dify/dify-2025-04-09-1-2-0-github-211219994-e78c941d|dify-2025-04-09-1-2-0-github-211219994-e78c941d]]'
 source_type: github_releases
 theme: reliability-performance
@@ -92,8 +92,8 @@ Source: https://github.com/langgenius/dify/releases/tag/1.2.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-04-07 · Open WebUI · [[Changes/Open WebUI/2025-04-07-general-backend-refactoring-multiple-behind-the-scenes-improvements-streamline-b|🧰 General Backend Refactoring]]
-- Later: 2025-04-10 · Cline · [[Changes/Cline/2025-04-10-add-more-robust-error-tracking-for-users-opted-in-to-telemetry-thank-you-for-hel|Add more robust error tracking for users opted in to telemetry…]]
+- Earlier: 2025-04-08 · Devin · [[Changes/Devin/2025-04-08-use-devin-s-analysis-to-get-up-to-speed-or-just-click-the-provided-link-to-have|Use Devin's analysis to get up to speed, or just click the provided link to have…]]
+- Later: 2025-04-09 · Raycast · [[Changes/Raycast/2025-04-09-2-reliability-and-performance-changes-in-raycast-macos-v1-1-95-0|2 Reliability and Performance changes in Raycast macos-v1 1.95.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

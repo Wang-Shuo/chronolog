@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 471f941f12b0fb1f85c8c2d1a71e1080a46c6d41f80857e44fa8b5073fd740e4
+machine_hash: f60981818d9240cb69974eed85e5ccc1a6bf8bb6cefcb96e28661130af3b9b5b
 product: cline
 product_name: Cline
 record:
@@ -90,7 +90,7 @@ Source: https://github.com/cline/cline/releases/tag/v4.0.0
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-06-25 · Google Antigravity · [[Changes/Google Antigravity/2026-06-25-updated-the-permissions-request-dialog-to-display-a-clear-description-of-the-act|Updated the permissions request dialog to display a clear description of the action…]]
-- Later: 2026-06-26 · Kimi Code · [[Changes/Kimi Code/2026-06-26-2-developer-workflow-changes-in-kimi-code-0-20-1|2 Developer Workflow changes in Kimi Code 0.20.1]]
+- Later: 2026-06-26 · Devin · [[Changes/Devin/2026-06-26-readable-pr-review-label-colors|Readable PR Review Label Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 2f2f764722cbe088701eeb663774957e43e434dc5cc7eb8ade590556c4d36696
+machine_hash: 2dbc19fae506ef4bb6309570c4bbc798cbb2b52c04a1ad85cb161a85f35a360e
 product: notion
 product_name: Notion
 record:
@@ -63,12 +63,12 @@ record:
   title: Five new MCP connections for Custom Agents
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-01-added-dataviz-skill-for-chart-and-dashboard-design-guidance-with-a-runnable-colo|Added
-  /dataviz skill for chart and dashboard design guidance with a runnable…]]'
-- '[[Changes/GitHub Copilot CLI/2026-07-01-2-apps-and-integrations-changes-in-v1-0-68|2
-  Apps and Integrations changes in v1.0.68]]'
-- '[[Changes/Kimi Code/2026-07-01-plugins-can-now-provide-slash-commands-via-a-commands-field-in-their-manifest-re|Plugins
-  can now provide slash commands via a commands field in their manifest…]]'
+- '[[Changes/Krea/2026-07-01-upload-local-files-through-mcp-with-get-upload-url|Upload
+  local files through MCP with get_upload_url]]'
+- '[[Changes/Krea/2026-07-01-media-url-inputs-are-consistent-across-the-api|Media
+  URL inputs are consistent across the API]]'
+- '[[Changes/Krea/2026-07-01-choose-a-workspace-when-connecting-to-mcp|Choose a workspace
+  when connecting to MCP]]'
 source_release: '[[Releases/Notion/notion-2026-07-01-https-www-notion-com-releases-2026-07-01-6813fa59|notion-2026-07-01-https-www-notion-com-releases-2026-07-01-6813fa59]]'
 source_type: notion_changelog
 theme: apps-integrations
@@ -108,7 +108,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-07-01 · Kimi Code · [[Changes/Kimi Code/2026-07-01-plugins-can-now-provide-slash-commands-via-a-commands-field-in-their-manifest-re|Plugins can now provide slash commands via a commands field in their manifest…]]
+- Earlier: 2026-07-01 · Krea · [[Changes/Krea/2026-07-01-choose-a-workspace-when-connecting-to-mcp|Choose a workspace when connecting to MCP]]
 - Later: 2026-07-02 · Claude Code · [[Changes/Claude Code/2026-07-02-stacked-slash-skill-invocations-like-skill-a-skill-b-do-xyz-now-load-all-leading|Stacked slash-skill invocations like /skill-a /skill-b do XYZ now load all leading…]]
 <!-- chronolog:end -->
 

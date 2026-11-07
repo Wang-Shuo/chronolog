@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6b7c2a70831216e8109ae4e6d6edd927861780ef6691842c42e9f2976c688679
+machine_hash: 5a2b3516503277d09c80ff91c4b65f01de2b6cee37defc3b65afed965eaeec05
 product: opencode
 product_name: OpenCode
 record:
@@ -42,7 +42,8 @@ record:
   title: 2 Voice and Audio changes in v2.2.0
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-10-26-javascript-sdk|JavaScript SDK]]'
+- '[[Changes/Superwhisper/2026-10-26-transcribe-audio-files-shared-from-other-apps|Transcribe
+  audio files shared from other apps]]'
 - '[[Changes/Ollama/2026-10-27-3-voice-and-audio-changes-in-v0-40-12|3 Voice and Audio
   changes in v0.40.12]]'
 - '[[Changes/OpenClaw/2026-10-27-6-voice-and-audio-changes-in-v2026-10-8|6 Voice and

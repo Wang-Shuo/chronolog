@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: daf7190d472525743357350df38a1585f3e1ec4ce809225f3975efcb9e1ec5e4
+machine_hash: 4c0e3d64e24895e7acb48517b62696a9c06482b163fd0ca2af60180fa7d03cde
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,8 +41,8 @@ record:
   title: Longer memory for more personalized responses
   type: change
 related_changes:
-- '[[Changes/Claude/2025-10-23-claude-s-memory-on-max-and-pro-plans|Claude’s memory
-  on Max and Pro plans]]'
+- '[[Changes/Superwhisper/2025-10-24-record-from-system-audio-now-uses-less-data-memory|Record
+  from system audio now uses less data & memory]]'
 - '[[Changes/ChatGPT/2025-10-28-longer-memory-for-more-personalized-responses|Longer
   memory for more personalized responses]]'
 - '[[Changes/ChatGPT/2025-10-29-chatgpt-pulse-is-now-available-on-web-and-rolling-out-to-atlas-for-pro-users-wit|ChatGPT

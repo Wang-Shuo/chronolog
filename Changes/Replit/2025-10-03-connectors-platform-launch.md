@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: f5aba1aa7e579fc197a5251cc857a6a60ff418a82eeb3ac816cb08354c83d3e9
+machine_hash: 427aa185956c379ba63f8e6116f2dad9dbadf9be2e0a64b66293eee35526479f
 product: replit
 product_name: Replit
 record:

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: projects-workspaces
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 12664ccfabefdba5fe2523fa95254c55aa6f796b3f8e434dec6647a971c80c53
+machine_hash: 1570c0922624ff2909c5b371d4a8f700126aeb95a3eba2b6880ec8e8c252ea95
 product: opencode
 product_name: OpenCode
 record:
@@ -44,12 +44,12 @@ record:
   title: 3 Projects and Workspaces changes in v2.2.0
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-10-10-plugin-authors-can-await-session-history-extension-changes-and-replay-metadata-t|Plugin
-  authors can await session history, extension changes and replay metadata]]'
 - '[[Changes/OpenClaw/2026-10-12-older-session-history-doctor-can-continue-repairing-leftover-session-files-while|Older
   session history]]'
 - '[[Changes/OpenClaw/2026-10-13-claude-cli-session-tools-later-turns-keep-their-authorized-session-history-and-a|Claude
   CLI session tools]]'
+- '[[Changes/Krea/2026-10-26-krea-3-edit-keeps-your-session-history|Krea 3 Edit keeps
+  your session history]]'
 source_release: '[[Releases/OpenCode/opencode-2026-10-27-v2-2-0-f60b51f1|opencode-2026-10-27-v2-2-0-f60b51f1]]'
 source_type: opencode_changelog
 theme: projects-workspaces
@@ -108,7 +108,7 @@ Source: https://opencode.ai/changelog/v2.2.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Projects and Workspaces
 
-- Earlier: 2026-10-13 · OpenClaw · [[Changes/OpenClaw/2026-10-13-claude-cli-session-tools-later-turns-keep-their-authorized-session-history-and-a|Claude CLI session tools]]
+- Earlier: 2026-10-26 · Krea · [[Changes/Krea/2026-10-26-krea-3-edit-keeps-your-session-history|Krea 3 Edit keeps your session history]]
 - Later: 2026-10-29 · Codex CLI · [[Changes/Codex CLI/2026-10-29-57342-separate-tui-session-resume-preparation-from-activation-bc-openai|♯57342 Separate TUI session resume preparation from activation @bc-openai]]
 <!-- chronolog:end -->
 

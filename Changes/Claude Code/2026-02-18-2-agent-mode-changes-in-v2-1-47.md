@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3f8f710a85649d90cb69968780236fd4912b04c86ef38fe59a39b674ee0c4a7b
+machine_hash: cac963fecaff0b8a703a12eeb65de37bb7954eaa7436484d476fd506b3d3b033
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,11 +47,12 @@ record:
   title: 2 Agent Mode changes in v2.1.47
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-02-17-async-subagents|Async subagents]]'
 - '[[Changes/Cursor/2026-02-17-6-agent-mode-changes-in-2-5|6 Agent Mode changes in
   2.5]]'
 - '[[Changes/Cursor/2026-02-17-this-release-introduces-plugins-for-extending-cursor-improvements-to-core-agent|Cursor
   introduces plugins for extending Cursor, improvements to core agent…]]'
+- '[[Changes/AnythingLLM/2026-02-18-2-agent-mode-changes-in-v1-11-0|2 Agent Mode changes
+  in v1.11.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-18-v2-1-47-github-287886320-98b6e931|claude-code-2026-02-18-v2-1-47-github-287886320-98b6e931]]'
 source_type: github_releases
 theme: agent-mode
@@ -89,7 +90,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.47
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-02-17 · Cursor · [[Changes/Cursor/2026-02-17-this-release-introduces-plugins-for-extending-cursor-improvements-to-core-agent|Cursor introduces plugins for extending Cursor, improvements to core agent…]]
+- Earlier: 2026-02-18 · AnythingLLM · [[Changes/AnythingLLM/2026-02-18-2-agent-mode-changes-in-v1-11-0|2 Agent Mode changes in v1.11.0]]
 - Later: 2026-02-18 · Codex CLI · [[Changes/Codex CLI/2026-02-18-protocol-core-now-carry-distinct-approval-ids-for-command-approvals-to-support-m|Protocol/core now carry distinct approval IDs for command approvals to support…]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5a7ffa4b8ae8fec732dd3eec8e2761842481701e85233562f8a99b7e93768d93
+machine_hash: 83261749f712e937034e3f7ca9811f5f4892009eea459d25b4e6730a293f172f
 product: claude-code
 product_name: Claude Code
 record:
@@ -52,12 +52,12 @@ record:
   title: 4 Apps and Integrations changes in v2.1.232
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-12-3-apps-and-integrations-changes-in-v2-1-229|3
-  Apps and Integrations changes in v2.1.229]]'
 - '[[Changes/Kimi Code/2026-08-12-add-the-modern-web-guidance-plugin-to-the-bundled-plugin-marketplace-run-plugins|Add
   the Modern Web Guidance plugin to the bundled plugin marketplace]]'
 - '[[Changes/Lovable/2026-08-12-unpublish-several-projects-at-once|Unpublish several
   projects at once]]'
+- '[[Changes/AnythingLLM/2026-08-13-4-apps-and-integrations-changes-in-v1-16-0|4 Apps
+  and Integrations changes in v1.16.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-13-v2-1-232-github-370225682-71e478db|claude-code-2026-08-13-v2-1-232-github-370225682-71e478db]]'
 source_type: github_releases
 theme: apps-integrations
@@ -106,7 +106,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.232
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-08-12 · Lovable · [[Changes/Lovable/2026-08-12-unpublish-several-projects-at-once|Unpublish several projects at once]]
+- Earlier: 2026-08-13 · AnythingLLM · [[Changes/AnythingLLM/2026-08-13-4-apps-and-integrations-changes-in-v1-16-0|4 Apps and Integrations changes in v1.16.0]]
 - Later: 2026-08-13 · Cline · [[Changes/Cline/2026-08-13-these-land-through-sdk-v0-0-74-and-therefore-apply-to-windows-running-the-sdk-bu|These land through SDK v0.0.74 and therefore apply to windows running the SDK…]]
 <!-- chronolog:end -->
 

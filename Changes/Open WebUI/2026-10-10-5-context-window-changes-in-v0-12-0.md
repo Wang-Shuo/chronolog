@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a66aa862f9d70355fe91cab633eaa939c25b826d1c4f1ae8ec7247f4fafe3d05
+machine_hash: ead9695b0c4b4d66addaac3dce9aedab749e6242b4a224919e3cf85e3374636a
 product: open-webui
 product_name: Open WebUI
 record:
@@ -72,10 +72,9 @@ record:
   title: 5 Context Window changes in v0.12.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-09-2-context-window-changes-in-v2-1-296|2 Context
-  Window changes in v2.1.296]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-09-context-now-applies-to-new-and-resumed-acp-sessions-instead-of-silently-using-th|--context
   now applies to new and resumed ACP sessions instead of silently using…]]'
+- '[[Changes/Raycast/2026-10-09-send-context-to-ai|Send Context to AI]]'
 - '[[Changes/Replit/2026-10-09-work-across-projects-from-a-chat|Work across projects
   from a chat]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-10-10-v0-12-0-github-409209575-f076e92b|open-webui-2026-10-10-v0-12-0-github-409209575-f076e92b]]'

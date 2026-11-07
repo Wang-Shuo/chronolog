@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 789aebabd1f4e814c2a85e8789443324f4b8ce06c32f88aeb503375e238212c9
+machine_hash: 57e7d7bee0254d837da30cc6c9d41d3602325f7ee2a3bf0e1df64a299441600c
 product: replit
 product_name: Replit
 record:
@@ -46,8 +46,8 @@ record:
   title: Salesforce and ClickUp connectors
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-10-29-7-apps-and-integrations-changes-in-v0-11-0|7 Apps
-  and Integrations changes in v0.11.0]]'
+- '[[Changes/Raycast/2025-10-29-2-apps-and-integrations-changes-in-raycast-windows-0-34|2
+  Apps and Integrations changes in Raycast windows 0.34]]'
 - '[[Changes/Codex CLI/2025-10-30-11-apps-and-integrations-changes-in-rust-v0-52-0|11
   Apps and Integrations changes in rust-v0.52.0]]'
 - '[[Changes/Cline/2025-10-31-5-apps-and-integrations-changes-in-v3-35-0|5 Apps and

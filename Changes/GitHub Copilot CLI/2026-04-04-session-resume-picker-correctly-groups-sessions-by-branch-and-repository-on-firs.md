@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a222ee475c0e70109af81e0d589e452c197b825c9ead2c2a13fc58f1595fd1c3
+machine_hash: 7396cc16ad532eae8aeace359bc44e94e4a1de7743e0cc95f07de28755c6713c
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,9 +43,10 @@ record:
     on first use
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-04-02-command-palette|Command palette]]'
-- '[[Changes/GitHub Copilot CLI/2026-04-03-resume-session-picker-loads-significantly-faster-especially-with-large-session-h|/resume
-  session picker loads significantly faster, especially with large session histories]]'
+- '[[Changes/Raycast/2026-04-03-importer-avoid-mapping-hotkey-characters-to-the-number-pad|Importer:
+  Avoid mapping hotkey characters to the number pad]]'
+- '[[Changes/Raycast/2026-04-03-importer-avoid-mapping-hotkey-characters-to-the-number-pad-5bb922|Importer
+  : Avoid mapping hotkey characters to the number pad]]'
 - '[[Changes/Claude Code/2026-04-04-release-notes-is-now-an-interactive-version-picker|/release-notes
   is now an interactive version picker]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-04-04-v1-0-18-github-305219965-5e5d3492|github-copilot-cli-2026-04-04-v1-0-18-github-305219965-5e5d3492]]'

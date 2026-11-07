@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8e42e52f6090a9f55ea9f66d3006b364450aaf9a81c9c02e6d7ada56d1b7f0d8
+machine_hash: b3662074215ab91b018c7444fb890a086c9eca1ba1179128803a547da295a4e3
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -46,9 +46,10 @@ record:
   title: 3 Account and Access changes in rust-v0.165.0
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-10-26-elevenlabs-cli|ElevenLabs CLI]]'
 - '[[Changes/ElevenLabs/2026-10-26-oauth-scope-oauth-clients-can-request-the-realtime-translation-scope|OAuth
   scope: OAuth clients can request the realtime_translation scope]]'
+- '[[Changes/Krea/2026-10-26-try-any-tool-before-signing-up|Try any tool before signing
+  up]]'
 - '[[Changes/Windsurf/2026-10-26-a-dropped-connection-during-sign-in-no-longer-signs-you-out-devin-desktop-retrie|A
   dropped connection during sign-in no longer signs you out]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-10-27-rust-v0-165-0-github-425927431-1fa685eb|codex-cli-2026-10-27-rust-v0-165-0-github-425927431-1fa685eb]]'

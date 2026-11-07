@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9f50f0378f9e9f3da8fa0430835fa0debb7f8b1212edbe0b11f813ff6eef9e12
+machine_hash: bca5e5c25fcc3718820a993a2f79ab65f6e0dab70078519c353a60869e392d96
 product: dify
 product_name: Dify
 record:
@@ -43,8 +43,8 @@ record:
   title: 2 Interface Experience changes in 1.5.1
   type: change
 related_changes:
-- '[[Changes/Descript/2025-06-26-improved-timeline-tools-access-tools-from-the-toolbar-by-toggling-on-advanced-ti|Improved
-  timeline tools: Access tools from the toolbar by toggling on Advanced…]]'
+- '[[Changes/Raycast/2025-06-26-2-interface-experience-changes-in-raycast-windows-0-25|2
+  Interface Experience changes in Raycast windows 0.25]]'
 - '[[Changes/Aider/2025-06-27-2-interface-experience-changes-in-v0-85-0|2 Interface
   Experience changes in v0.85.0]]'
 - '[[Changes/Gemini CLI/2025-07-01-feat-add-markdown-table-rendering-support-by-heartyguy-in-https-github-com-googl|feat:

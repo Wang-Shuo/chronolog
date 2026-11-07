@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 22539955bf5e7889924ee2ea8371cef156a9c48ae7e905209256bdb5827d5114
+machine_hash: 055b1dcd88b146f81057ad1f2f6f191fb7d4627d7a37717cebfc90be3a314819
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,10 +42,10 @@ record:
   title: 2 Collaboration changes in rust-v0.149.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-17-removed-the-default-teammate-model-setting-from-config-agent-team-teammates-now|Removed
-  the "Default teammate model" setting from /config]]'
-- '[[Changes/Codex CLI/2026-08-18-5-collaboration-changes-in-rust-v0-148-0|5 Collaboration
-  changes in rust-v0.148.0]]'
+- '[[Changes/Raycast/2026-08-19-feedback-new-ask-feedback-ai-extension-to-contact-the-raycast-team|Feedback
+  : New Ask Feedback AI Extension to contact the Raycast team]]'
+- '[[Changes/Raycast/2026-08-19-feedback-new-ask-feedback-ai-extension-to-contact-the-raycast-team-fdcf2e|Feedback
+  : New Ask Feedback AI Extension to contact the Raycast team]]'
 - '[[Changes/ChatGPT/2026-08-20-share-a-read-only-snapshot-of-a-codex-chat-personal-share-links-can-be-opened-by|Share
   a read-only snapshot of a Codex chat]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-08-20-rust-v0-149-0-github-374028976-829da944|codex-cli-2026-08-20-rust-v0-149-0-github-374028976-829da944]]'

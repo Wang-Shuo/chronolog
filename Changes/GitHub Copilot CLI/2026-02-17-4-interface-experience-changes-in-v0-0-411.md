@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: bfe30c52cded06190c6f1912a2daf7180079adbd1e5a5234bd8b68d84e79748d
+machine_hash: 10a6f126f3f2e3e8143992aa19851b266533cb4ad3b7dcc1962f33413f5a76bc
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -96,7 +96,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v0.0.411
 ## Nearby in Interface Experience
 
 - Earlier: 2026-02-17 · Cursor · [[Changes/Cursor/2026-02-17-3-interface-experience-changes-in-2-5|3 Interface Experience changes in 2.5]]
-- Later: 2026-02-18 · Claude Code · [[Changes/Claude Code/2026-02-18-3-interface-experience-changes-in-v2-1-47|3 Interface Experience changes in v2.1.47]]
+- Later: 2026-02-18 · AnythingLLM · [[Changes/AnythingLLM/2026-02-18-2-interface-experience-changes-in-v1-11-0|2 Interface Experience changes in v1.11.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

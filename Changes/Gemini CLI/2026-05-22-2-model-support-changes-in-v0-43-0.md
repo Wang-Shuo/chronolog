@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d451aef6131ef801ed3506469a81c9fdb5a10f305a8626ba1e92b6574c304a36
+machine_hash: 45a13bf96ef353debb285bb848fbe906ae7ce14fe73d41f92b2f3f72d37f0fcd
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -92,7 +92,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.43.0
 ## Nearby in Model Support
 
 - Earlier: 2026-05-21 · OpenCode · [[Changes/OpenCode/2026-05-21-core-restored-openai-reasoning-streams|Core Restored OpenAI reasoning streams]]
-- Later: 2026-05-22 · OpenCode · [[Changes/OpenCode/2026-05-22-2-model-support-changes-in-v1-15-9|2 Model Support changes in v1.15.9]]
+- Later: 2026-05-22 · LM Studio · [[Changes/LM Studio/2026-05-22-3-model-support-changes-in-lm-studio-0-4-14|3 Model Support changes in LM Studio 0.4.14]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

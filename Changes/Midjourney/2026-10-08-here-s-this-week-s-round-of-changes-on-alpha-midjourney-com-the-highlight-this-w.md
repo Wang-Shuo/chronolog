@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 53fd6cefe22842fab34faa2c672f0ac81593b107bb0b0e0263a45fab53e5ceed
+machine_hash: 253adf5d668617d4fc066914680a6d76d93a899849e8ec6ebd1c7a5bc059e850
 product: midjourney
 product_name: Midjourney
 record:
@@ -49,8 +49,7 @@ record:
   title: here's this week's round of changes on alpha.midjourney.com
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-07-2-collaboration-changes-in-rust-v0-161-0|2 Collaboration
-  changes in rust-v0.161.0]]'
+- '[[Changes/Devin/2026-10-07-microsoft-teams|Microsoft Teams]]'
 - '[[Changes/Codex CLI/2026-10-08-2-collaboration-changes-in-rust-v0-162-0|2 Collaboration
   changes in rust-v0.162.0]]'
 - '[[Changes/Midjourney/2026-10-08-shared-folders|SHARED FOLDERS]]'

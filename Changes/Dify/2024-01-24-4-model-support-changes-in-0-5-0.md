@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2e27c4156f26ceb7b775ac270b529179c01d08ac26dbeb45b89c40136da97cb6
+machine_hash: ce7dbc963deb7e17f0113094003c59905af59b3c6e5732c88da8a300fd46cd0a
 product: dify
 product_name: Dify
 record:
@@ -49,12 +49,11 @@ record:
   title: 4 Model Support changes in 0.5.0
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-01-18-cursor-fast-this-is-a-new-model-available-in-command-k-and-chat-expect-it-to-be|"cursor-fast":
-  This is a new model available in command-k and chat]]'
-- '[[Changes/Dify/2024-01-19-add-jina-embeddings-v2-base-de-model-configuration-by-joshua20231026-in-https-gi|Add
-  jina-embeddings-v2-base-de model configuration]]'
 - '[[Changes/Ollama/2024-01-20-8-model-support-changes-in-v0-1-21|8 Model Support
   changes in v0.1.21]]'
+- '[[Changes/Superwhisper/2024-01-23-cloud-hosted-language-model-for-pro-users-only|Cloud
+  hosted language model for Pro users only]]'
+- '[[Changes/Superwhisper/2024-01-23-llm-crash-bugfix|LLM crash bugfix]]'
 source_release: '[[Releases/Dify/dify-2024-01-24-0-5-0-github-138266522-f37b973b|dify-2024-01-24-0-5-0-github-138266522-f37b973b]]'
 source_type: github_releases
 theme: model-support
@@ -96,8 +95,8 @@ Source: https://github.com/langgenius/dify/releases/tag/0.5.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2024-01-20 · Ollama · [[Changes/Ollama/2024-01-20-8-model-support-changes-in-v0-1-21|8 Model Support changes in v0.1.21]]
-- Later: 2024-01-25 · Cursor · [[Changes/Cursor/2024-01-25-both-pro-and-api-key-users-can-also-try-out-gpt-4-0125-preview-by-configuring-th|Both pro and API key users can also try out gpt-4-0125-preview by configuring…]]
+- Earlier: 2024-01-23 · Superwhisper · [[Changes/Superwhisper/2024-01-23-llm-crash-bugfix|LLM crash bugfix]]
+- Later: 2024-01-24 · Superwhisper · [[Changes/Superwhisper/2024-01-24-when-creating-new-mode-from-template-language-model-will-be-turned-on-by-default|When creating new mode from template language model will be turned on by default]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

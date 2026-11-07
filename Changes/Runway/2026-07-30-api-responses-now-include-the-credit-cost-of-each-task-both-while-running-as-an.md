@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: pricing
-machine_hash: ab9b62802610d38672807325d83e4a9f299e66faa80ab98322e56f347db08a11
+machine_hash: 5dbe9ad1d95ed1769592d09c72b85cd1cc3f5e1c7703e101b10861c5aff7321b
 product: runway
 product_name: Runway
 record:
@@ -90,7 +90,7 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2026-07-29 · ChatGPT · [[Changes/ChatGPT/2026-07-29-research-rarely-happens-alone-chatgpt-for-academic-researchers-gives-faculty-and|ChatGPT for Academic Researchers]]
-- Later: 2026-07-31 · Google Antigravity · [[Changes/Google Antigravity/2026-07-31-allocated-and-auto-assigned-license-seats-against-ge-standard-ge-plus-organizati|Allocated and auto-assigned license seats against GE-Standard & GE-Plus organization…]]
+- Later: 2026-07-31 · Devin · [[Changes/Devin/2026-07-31-primary-billing-organization-attribution|Primary Billing Organization Attribution]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

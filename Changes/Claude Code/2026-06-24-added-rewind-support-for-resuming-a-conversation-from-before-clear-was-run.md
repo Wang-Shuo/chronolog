@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: projects-workspaces
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: c29a3381f03a28cb028abc6cdc74ea2a12570a554ecbfdff82f278af0126adb0
+machine_hash: 674c33488fc368d55a1b293f9062bf56f03e5ead9c2b8c5fef56ddc81578780e
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,8 +47,8 @@ record:
     was run
   type: change
 related_changes:
-- '[[Changes/Kimi Code/2026-06-10-prevent-forking-sessions-during-active-turns-and-consolidate-wire-protocol-defin|Prevent
-  forking sessions during active turns and consolidate wire protocol…]]'
+- '[[Changes/Raycast/2026-06-12-focus-use-pause-focus-session-resume-focus-session-and-complete-focus-session-to-8a29a1|Focus:
+  Use Pause Focus Session , Resume Focus Session and Complete Focus Session…]]'
 - '[[Changes/Gemini CLI/2026-06-18-avoid-persisting-empty-resume-sessions-by-sandytao520-in-https-github-com-google|Avoid
   persisting empty resume sessions]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-23-4-projects-and-workspaces-changes-in-v1-0-64|4

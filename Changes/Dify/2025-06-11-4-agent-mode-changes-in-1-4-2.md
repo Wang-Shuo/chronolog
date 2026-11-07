@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9a0e729d27b66eb4a419c18595966da3b26c481c275147778777c3be8cf9a568
+machine_hash: 2a854a35717400c4c5088cce9cf8767a0c47660f74ef4c8cc15eb380b57d2d24
 product: dify
 product_name: Dify
 record:
@@ -47,8 +47,9 @@ record:
   title: 4 Agent Mode changes in 1.4.2
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2025-06-08-agents-platform-5c0653|Agents Platform]]'
 - '[[Changes/ElevenLabs/2025-06-08-agents-platform-ce4a03|Agents Platform]]'
+- '[[Changes/AnythingLLM/2025-06-10-4-agent-mode-changes-in-v1-8-2|4 Agent Mode changes
+  in v1.8.2]]'
 - '[[Changes/OpenHands/2025-06-10-ensured-prs-opened-by-agent-is-properly-tracked-in-conversation-metadata-by-malh|Ensured
   PRs opened by agent is properly tracked in conversation metadata]]'
 source_release: '[[Releases/Dify/dify-2025-06-11-1-4-2-github-224523610-641ce698|dify-2025-06-11-1-4-2-github-224523610-641ce698]]'

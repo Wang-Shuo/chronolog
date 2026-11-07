@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: a7ca5d5597c086d5513e5f88e333cc3dc6c5e17346de5d041f84bd76ac13f461
+machine_hash: 1be7599ee272ce6d19ffba3c4a87653b9d35292ddbf23546495e3a1a53a15a52
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-10-27 · Gemini CLI · [[Changes/Gemini CLI/2026-10-27-add-banner-about-gemini-cli-not-being-optimized-for-gemini-4-by-srithreepo-in-ht|Add Banner about Gemini CLI not being optimized for Gemini 4]]
-- Later: 2026-10-27 · Ollama · [[Changes/Ollama/2026-10-27-speculative-decoding-now-supports-dflash2-draft-models-on-mlx|Speculative decoding now supports DFlash2 draft models on MLX]]
+- Later: 2026-10-27 · Krea · [[Changes/Krea/2026-10-27-gpt-6-1-terra-in-agent|GPT-6.1 Terra in Agent]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

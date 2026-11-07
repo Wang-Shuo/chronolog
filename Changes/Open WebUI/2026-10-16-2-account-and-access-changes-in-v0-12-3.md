@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d3f5cf2cff16660fc1a2496ef7206463aa5eedd2fa04a2fa00b0e31019cab586
+machine_hash: bcbe6098fc284f8eee43ae93531a5740408d0642e684aa0750d72a2d6984849e
 product: open-webui
 product_name: Open WebUI
 record:
@@ -53,10 +53,10 @@ record:
   title: 2 Account and Access changes in v0.12.3
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-10-15-login-pages-include-sign-in-with-lovable-by-default|Login
-  pages include Sign in with Lovable by default]]'
 - '[[Changes/Claude Code/2026-10-16-added-a-notice-to-design-sync-and-design-login-that-standalone-claude-design-cla|Added
   a notice to /design-sync and /design-login that standalone Claude Design…]]'
+- '[[Changes/Devin/2026-10-16-saml-single-logout-on-sign-out|SAML Single Logout on
+  Sign-out]]'
 - '[[Changes/Lovable/2026-10-16-add-oidc-sign-in-to-your-app|Add OIDC sign-in to your
   app]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-10-16-v0-12-3-github-414903453-58a8a82d|open-webui-2026-10-16-v0-12-3-github-414903453-58a8a82d]]'

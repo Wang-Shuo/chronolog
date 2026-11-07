@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b64a81c1919d82d1049206f39ed1659317972e5347fe1461d3e2ca0c3b1d98d2
+machine_hash: 5f76ab2695665548ec91ec771ff66445455e67274b68b16ab29772501db34e7f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -43,8 +43,8 @@ record:
   title: To continue a Voice conversation outside ChatGPT, turn on Background conversations…
   type: change
 related_changes:
-- '[[Changes/Qoder/2026-08-27-improved-live-voice-usage-alerts-and-draft-handling|Improved
-  live voice usage alerts and draft handling]]'
+- '[[Changes/Superwhisper/2026-08-28-faster-launch-and-time-to-transcription-ready|Faster
+  launch and time to transcription-ready]]'
 - '[[Changes/ChatGPT/2026-08-31-content-from-a-live-voice-conversation-can-now-appear-on-your-iphone-s-lock-scre|Content
   from a Live voice conversation can now appear on your iPhone’s Lock Screen…]]'
 - '[[Changes/ChatGPT/2026-08-31-follow-along-outside-the-app-live-activities-can-show-content-from-your-voice-co|Follow
@@ -78,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-08-27 · Qoder · [[Changes/Qoder/2026-08-27-improved-live-voice-usage-alerts-and-draft-handling|Improved live voice usage alerts and draft handling]]
+- Earlier: 2026-08-28 · Superwhisper · [[Changes/Superwhisper/2026-08-28-faster-launch-and-time-to-transcription-ready|Faster launch and time to transcription-ready]]
 - Later: 2026-08-31 · OpenClaw · [[Changes/OpenClaw/2026-08-31-2-voice-and-audio-changes-in-v2026-8-1|2 Voice and Audio changes in v2026.8.1]]
 <!-- chronolog:end -->
 

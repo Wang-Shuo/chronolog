@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 17520fcc1d62c793cfa1d0067f1a40e270c6f3e0c6cbf5fb4648fa1255cbf797
+machine_hash: 3d54eafc8d796f822804c5ab8ee6d9d3749263d8e03df24a5857d973f7ad40bb
 product: v0
 product_name: v0
 record:
@@ -46,12 +46,12 @@ record:
     screenshots…
   type: change
 related_changes:
-- '[[Changes/Cline/2026-08-21-let-models-that-support-it-generate-images-during-a-task-generated-images-render|Let
-  models that support it generate images during a task]]'
 - "[[Changes/Open WebUI/2026-08-25-image-generation-and-web-search-staying-switched-off-turning-either-off-now-take|\U0001F3A8
   Image generation and web search staying switched off. Turning either off now…]]"
 - '[[Changes/Codex CLI/2026-08-26-40544-include-transparent-background-in-image-generation-analytics-copyberry|♯40544
   Include transparent background in image generation analytics @copyberry]]'
+- '[[Changes/AnythingLLM/2026-08-27-2-image-generation-changes-in-v1-16-1|2 Image
+  Generation changes in v1.16.1]]'
 source_release: '[[Releases/v0/v0-2026-08-28-2026-08-28-1fac4f32|v0-2026-08-28-2026-08-28-1fac4f32]]'
 source_type: v0_changelog
 theme: image-generation
@@ -90,7 +90,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Image Generation
 
-- Earlier: 2026-08-26 · Codex CLI · [[Changes/Codex CLI/2026-08-26-40544-include-transparent-background-in-image-generation-analytics-copyberry|♯40544 Include transparent background in image generation analytics @copyberry]]
+- Earlier: 2026-08-27 · AnythingLLM · [[Changes/AnythingLLM/2026-08-27-2-image-generation-changes-in-v1-16-1|2 Image Generation changes in v1.16.1]]
 - Later: 2026-09-08 · ChatGPT · [[Changes/ChatGPT/2026-09-08-chatgpt-images-2-5-brings-sharper-details-more-precise-editing-and-faster-image-66acb5|ChatGPT Images 2.5 brings sharper details, more precise editing, and faster image…]]
 <!-- chronolog:end -->
 

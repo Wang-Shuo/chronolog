@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c8ecef82a480efcf6d52241daff9d43b2ac8de3267ed283d14c9562d34ab1005
+machine_hash: edc7f485851c95551b140d4b7339248200fa37deef13a92b0cc8ac710c262fb3
 product: open-webui
 product_name: Open WebUI
 record:
@@ -92,7 +92,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.5.4
 ## Nearby in Interface Experience
 
 - Earlier: 2025-01-03 · Replit · [[Changes/Replit/2025-01-03-menu-search-feature|Menu search feature]]
-- Later: 2025-01-07 · Descript · [[Changes/Descript/2025-01-07-jibber-jabber-is-no-more|Jibber Jabber is no more]]
+- Later: 2025-01-06 · LM Studio · [[Changes/LM Studio/2025-01-06-ui-improvements|UI improvements]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

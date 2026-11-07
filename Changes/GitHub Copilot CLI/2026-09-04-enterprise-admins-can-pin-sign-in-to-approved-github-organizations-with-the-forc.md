@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3a2c104dcf998e9d0bf5fe4c75a5063871a00dc70d2b3ca4f279a009f4101d78
+machine_hash: d29a8df74fdc76287cc1c8e1ad5d23247d0955fd87713e5fae2f1234d7023748
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -52,12 +52,12 @@ record:
   title: Enterprise admins can pin sign-in to approved GitHub organizations…
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-09-01-find-buy-and-connect-a-domain-from-chat|Find, buy,
-  and connect a domain from chat]]'
-- '[[Changes/Lovable/2026-09-01-lovable-in-slack-is-now-available-on-enterprise|Lovable
-  in Slack is now available on Enterprise]]'
 - '[[Changes/Lovable/2026-09-03-see-how-your-workspace-adopts-lovable|See how your
   workspace adopts Lovable]]'
+- '[[Changes/Devin/2026-09-04-security-profiles-can-allow-orgs-custom-mcp-installations|Security
+  Profiles Can Allow Orgs'' Custom MCP Installations]]'
+- '[[Changes/Devin/2026-09-04-partial-snapshot-builds-on-clone-failures|Partial Snapshot
+  Builds on Clone Failures]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-09-04-v1-0-83-github-382838246-6f996d9c|github-copilot-cli-2026-09-04-v1-0-83-github-382838246-6f996d9c]]'
 source_type: github_releases
 theme: enterprise-admin
@@ -96,7 +96,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-09-03 · Lovable · [[Changes/Lovable/2026-09-03-see-how-your-workspace-adopts-lovable|See how your workspace adopts Lovable]]
+- Earlier: 2026-09-04 · Devin · [[Changes/Devin/2026-09-04-partial-snapshot-builds-on-clone-failures|Partial Snapshot Builds on Clone Failures]]
 - Later: 2026-09-04 · HeyGen · [[Changes/HeyGen/2026-09-04-projects-page-organized-for-scale|Projects page, organized for scale]]
 <!-- chronolog:end -->
 

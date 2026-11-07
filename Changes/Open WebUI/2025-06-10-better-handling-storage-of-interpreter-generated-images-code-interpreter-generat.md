@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1684339daf47d21d5ec2964b3b692efef8ddff1461fc65eebadfb72e1c00c9c6
+machine_hash: dee9e5075fcfd4f809293120086c8b431f77334645382748163008d019c65629
 product: open-webui
 product_name: Open WebUI
 record:
@@ -92,7 +92,7 @@ type: change
 ## Nearby in Image Generation
 
 - Earlier: 2025-05-29 · Midjourney · [[Changes/Midjourney/2025-05-29-midjourney-v7-image-generation-is-now-40-faster|Midjourney V7 image generation is now ~40% faster!]]
-- Later: 2025-07-31 · Gamma · [[Changes/Gamma/2025-07-31-this-week-s-updates-are-all-about-giving-you-more-control-more-capabilities-and|This week’s updates are all about giving you more control, more capabilities…]]
+- Later: 2025-06-17 · Raycast · [[Changes/Raycast/2025-06-17-ai-you-can-choose-with-image-generation-tool-to-use-in-chat-settings|AI: You can choose with image generation tool to use in chat settings]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

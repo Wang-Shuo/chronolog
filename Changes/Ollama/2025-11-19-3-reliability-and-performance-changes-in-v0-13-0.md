@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9289024d2080c40b8ec3ed483c8a2ea6a978b52db2a13709a1a56e17a81e8141
+machine_hash: 87cad01df19a3320ca7c9d679c90f07eecb69249cd2738a865868a1a97d6dc96
 product: ollama
 product_name: Ollama
 record:
@@ -89,7 +89,7 @@ Source: https://github.com/ollama/ollama/releases/tag/v0.13.0
 ## Nearby in Reliability and Performance
 
 - Earlier: 2025-11-19 · Codex CLI · [[Changes/Codex CLI/2025-11-19-native-compaction-support-added-first-class-support-for-compaction-improving-per|Native Compaction Support]]
-- Later: 2025-11-21 · Replit · [[Changes/Replit/2025-11-21-fast-mode-now-available-to-everyone|Fast Mode now available to everyone]]
+- Later: 2025-11-21 · Devin · [[Changes/Devin/2025-11-21-various-bug-fixes-and-performance-improvements-across-the-platform|Various bug fixes and performance improvements across the platform]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

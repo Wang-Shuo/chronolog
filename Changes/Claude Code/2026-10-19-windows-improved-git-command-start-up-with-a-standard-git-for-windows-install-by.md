@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 453eefd625ddeed787aa1ef73c2696ce2773626e23a7afe0cd32a6f658e06e2c
+machine_hash: 2bbc947ec44402d6098c43a860d0b78352cdd59ae690b3f0eda7b3eaaaac334f
 product: claude-code
 product_name: Claude Code
 record:
@@ -90,7 +90,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-10-17 · Lovable · [[Changes/Lovable/2026-10-17-jump-to-your-last-chat-in-the-desktop-app|Jump to your last chat in the desktop app]]
-- Later: 2026-10-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-20-macos-sandboxed-commands-can-connect-directly-to-localhost-tcp-services-when-loc|macOS sandboxed commands can connect directly to localhost TCP services when local…]]
+- Later: 2026-10-19 · Wispr Flow · [[Changes/Wispr Flow/2026-10-19-dark-mode-for-desktop-is-here-desktop|Dark Mode for Desktop Is Here (Desktop)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

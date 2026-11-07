@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 55b464fc38c101f1d3ecd76633abdb314996821a19d6ffb114fd26fd49c48037
+machine_hash: d8a7db11215dbe46c918676e340c609c3e122386fa15703d9c831cc9b5cc000e
 product: open-webui
 product_name: Open WebUI
 record:
@@ -45,10 +45,9 @@ record:
     image generation…"
   type: change
 related_changes:
-- '[[Changes/Descript/2025-12-04-flux-2-pro-now-available-for-image-generation|Flux
-  2 Pro now available for image generation]]'
-- '[[Changes/ChatGPT/2025-12-16-we-ve-introduced-a-new-and-improved-version-of-chatgpt-images-powered-by-our-bes-a63d5c|ChatGPT
-  Images on Web and Mobile (iOS & Android)]]'
+- '[[Changes/Recraft/2025-12-20-cost-per-generation|Cost per generation]]'
+- '[[Changes/Recraft/2025-12-20-gpt-image-1-5-has-been-added-to-recraft-and-is-now-available-for-all-paid-subscr|GPT
+  Image 1.5 has been added to Recraft and is now available for all paid subscribers]]'
 - '[[Changes/Open WebUI/2025-12-21-4-image-generation-changes-in-v0-6-42|4 Image Generation
   changes in v0.6.42]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-12-22-v0-6-43-github-272105254-8107703e|open-webui-2025-12-22-v0-6-43-github-272105254-8107703e]]'

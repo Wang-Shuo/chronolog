@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: ea967b2dc9c725f96822f32a79d72b8bc5a5136a90cc055d3821380c60b7cf49
+machine_hash: 55261ed6e0fb25ce31c14f1121cb4408e9e0411f285e3a142ba3400b1c7bddd1
 product: aider
 product_name: Aider
 record:
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2025-03-28 · Replit · [[Changes/Replit/2025-03-28-invoice-threshold-update|Invoice threshold update]]
-- Later: 2025-04-04 · Aider · [[Changes/Aider/2025-04-04-prevent-retrying-api-calls-when-the-provider-reports-insufficient-credits|Prevent retrying API calls when the provider reports insufficient credits]]
+- Later: 2025-04-03 · Devin · [[Changes/Devin/2025-04-03-introducing-devin-2-0-an-agent-native-ide-experience-generally-available-today-s|Devin updates — 2025-04-03]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

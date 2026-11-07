@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ba2ca916ed2b47c0d2ae5ac3cd6ed38a4cabe0809f83b5fae59df1b5607aadbe
+machine_hash: 85fa7e405abbfd2e58dfd340151074665e93157ff0a027a2ee6a7780c6984147
 product: lovable
 product_name: Lovable
 record:
@@ -45,8 +45,8 @@ record:
     are loaded…
   type: change
 related_changes:
-- '[[Changes/Dify/2025-04-09-2-reliability-and-performance-changes-in-1-2-0|2 Reliability
-  and Performance changes in 1.2.0]]'
+- '[[Changes/Raycast/2025-04-09-2-reliability-and-performance-changes-in-raycast-macos-v1-1-95-0|2
+  Reliability and Performance changes in Raycast macos-v1 1.95.0]]'
 - '[[Changes/Cline/2025-04-10-add-more-robust-error-tracking-for-users-opted-in-to-telemetry-thank-you-for-hel|Add
   more robust error tracking for users opted in to telemetry…]]'
 - '[[Changes/OpenHands/2025-04-10-improve-the-performance-of-event-retrieval-in-openhands-particularly-for-convers|Improve

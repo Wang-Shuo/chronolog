@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6738c42c5bad452ab569428e7e12085bf2f3273e13c20b19522319e81c7b67a5
+machine_hash: 4b01e007380d3f13a1800199a975538b80f5aaa2ffa37e771dc6b9d599f798d4
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,8 +44,8 @@ record:
   title: 'PowerShell tool: bare `--` (e.g. `git diff -- file`) is no longer mis-flagged…'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-27-add-copilot-completion-bash-zsh-fish-subcommand-to-generate-static-shell-complet|Add
-  copilot completion bash / zsh / fish subcommand to generate static shell…]]'
+- '[[Changes/Devin/2026-04-29-revamped-blueprint-authoring-experience|Revamped Blueprint
+  Authoring Experience]]'
 - '[[Changes/Dify/2026-04-29-6-editor-experience-changes-in-1-14-0|6 Editor Experience
   changes in 1.14.0]]'
 - '[[Changes/Codex CLI/2026-04-30-20045-fix-plan-mode-nudge-test-after-task-completion-signature-change-canvrno-oa|♯20045

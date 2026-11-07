@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: policy
-machine_hash: df704800c1b1a13232e4a2d3bdfc966eee714ae1fd19430e53d2ea333c60d4d2
+machine_hash: d6560c7cf2c469606a4c314aecb05949ef2bc7121cec8858e48c3c709462cb09
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -69,11 +69,12 @@ record:
   title: Changes to automatic switching to thinking in ChatGPT (Plus and Pro)
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-11-added-claude-code-gateway-model-discovery-timeout-ms-to-extend-the-llm-gateway-v|Added
-  CLAUDE_CODE_GATEWAY_MODEL_DISCOVERY_TIMEOUT_MS to extend the LLM gateway…]]'
-- '[[Changes/ElevenLabs/2026-09-11-scribe-v2-medical|Scribe v2 Medical]]'
-- '[[Changes/OpenClaw/2026-09-11-20-model-support-changes-in-v2026-9-4|20 Model Support
-  changes in v2026.9.4]]'
+- '[[Changes/Raycast/2026-09-11-4-model-support-changes-in-raycast-windows-2-3|4 Model
+  Support changes in Raycast windows 2.3]]'
+- '[[Changes/Raycast/2026-09-11-bring-your-own-subscriptions-85a1bb|Bring Your Own
+  Subscriptions]]'
+- '[[Changes/Raycast/2026-09-11-4-model-support-changes-in-raycast-macos-2-3|4 Model
+  Support changes in Raycast macos 2.3]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-14-changes-to-automatic-switching-to-thinking-in-chatgpt-plus-and-p-54d16c58|chatgpt-2026-09-14-changes-to-automatic-switching-to-thinking-in-chatgpt-plus-and-p-54d16c58]]'
 source_type: chatgpt_changelog
 theme: model-support
@@ -100,7 +101,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-09-11 · OpenClaw · [[Changes/OpenClaw/2026-09-11-20-model-support-changes-in-v2026-9-4|20 Model Support changes in v2026.9.4]]
+- Earlier: 2026-09-11 · Raycast · [[Changes/Raycast/2026-09-11-4-model-support-changes-in-raycast-macos-2-3|4 Model Support changes in Raycast macos 2.3]]
 - Later: 2026-09-14 · Claude Code · [[Changes/Claude Code/2026-09-14-2-model-support-changes-in-v2-1-271|2 Model Support changes in v2.1.271]]
 <!-- chronolog:end -->
 

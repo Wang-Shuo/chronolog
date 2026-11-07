@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 072640fcdfd9a9ac02180193caf7d471df88c34c53087dcb96e241955a40e716
+machine_hash: 06784f70deac16e751dd87f12549d290223b942008a27216633533528cf5e84b
 product: lovable
 product_name: Lovable
 record:
@@ -53,8 +53,8 @@ record:
   title: Set a default design system for each group
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-18-2-enterprise-and-administration-changes-in-v2-1-277|2
-  Enterprise and Administration changes in v2.1.277]]'
+- '[[Changes/Devin/2026-09-18-connect-enterprise-mcps-with-your-own-account|Connect
+  Enterprise MCPs with Your Own Account]]'
 - '[[Changes/OpenClaw/2026-09-19-2-enterprise-and-administration-changes-in-v2026-9-5|2
   Enterprise and Administration changes in v2026.9.5]]'
 - '[[Changes/OpenClaw/2026-09-19-you-can-now-install-the-cli-on-freebsd-with-install-cli-sh-using-system-node-and|Install

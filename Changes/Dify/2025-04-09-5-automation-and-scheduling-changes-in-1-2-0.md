@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b97f97a226cefa9bd112b6fcdcd45dcbb5e7c5992d154bff84ff4bf775e6acee
+machine_hash: 984c7bc9775748cbc2fe357602cd5cb0f86ecfc2908e53f2b45d97a2e7f3b5fc
 product: dify
 product_name: Dify
 record:
@@ -57,10 +57,10 @@ record:
   title: 5 Automation and Scheduling changes in 1.2.0
   type: change
 related_changes:
-- '[[Changes/Notion/2025-02-18-more-improvements-to-start-the-year|More improvements
-  to start the year!]]'
 - '[[Changes/Notion/2025-02-18-more-reasons-to-replace-your-scheduling-app|More reasons
   to replace your scheduling app]]'
+- '[[Changes/Devin/2025-02-26-misc-brain-improvements-devin-is-less-likely-to-loop-while-trying-to-fix-ci-lint|Misc
+  brain improvements]]'
 - '[[Changes/Dify/2025-03-11-feature-newnew-workflow-loop-node-by-woo0ood-in-https-github-com-langgenius-dify|Feature/newnew
   workflow loop node]]'
 source_release: '[[Releases/Dify/dify-2025-04-09-1-2-0-github-211219994-e78c941d|dify-2025-04-09-1-2-0-github-211219994-e78c941d]]'

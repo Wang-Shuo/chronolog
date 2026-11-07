@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2dfd177a01bd520aadf1330d996fadb605aba1563e478a575a9c84c418b4972a
+machine_hash: 23a8e097bf5ccb3b3ee355745e926620479afead96d28e4e430e8c7294780bbf
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -46,12 +46,10 @@ record:
   title: 4 Safety and Privacy changes in v1.0.68
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-30-3-safety-and-privacy-changes-in-v1-0-66|3
-  Safety and Privacy changes in v1.0.66]]'
-- '[[Changes/OpenClaw/2026-06-30-6-safety-and-privacy-changes-in-v2026-6-11|6 Safety
-  and Privacy changes in v2026.6.11]]'
 - '[[Changes/OpenCode/2026-06-30-sdk-add-session-permission-request-create-and-fetch-endpoints|SDK
   Add session permission request create and fetch endpoints]]'
+- '[[Changes/Devin/2026-07-01-read-only-scan-profiles|Read-Only Scan Profiles]]'
+- '[[Changes/Devin/2026-07-01-no-access-permission-popover|No-Access Permission Popover]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-07-01-v1-0-68-github-347721762-7219d583|github-copilot-cli-2026-07-01-v1-0-68-github-347721762-7219d583]]'
 source_type: github_releases
 theme: safety-privacy
@@ -96,7 +94,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.68
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-06-30 · OpenCode · [[Changes/OpenCode/2026-06-30-sdk-add-session-permission-request-create-and-fetch-endpoints|SDK Add session permission request create and fetch endpoints]]
+- Earlier: 2026-07-01 · Devin · [[Changes/Devin/2026-07-01-no-access-permission-popover|No-Access Permission Popover]]
 - Later: 2026-07-01 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-07-01-edit-capability-for-selecting-permission-reading-option-for-existing-servicenow|Edit capability for selecting permission reading option for existing ServiceNow…]]
 <!-- chronolog:end -->
 

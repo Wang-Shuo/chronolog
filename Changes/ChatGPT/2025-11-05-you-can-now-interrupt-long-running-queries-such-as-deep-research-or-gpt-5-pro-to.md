@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 3ee86387974bbaddc4e57af1559dbba4890d9fca1e5c2e5065b8da61b424129b
+machine_hash: a28991fc4f95d72adc506ed1b0b2dc2cea64302ba5b67c8f590bf32a80eca82a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -68,12 +68,12 @@ record:
   title: Interrupt ChatGPT
   type: change
 related_changes:
-- '[[Changes/Cline/2025-11-04-feat-add-support-for-claude-4-5-sonnet-in-sap-ai-core-provider-by-wahajahmedkhan|feat:
-  Add support for Claude 4.5 Sonnet in SAP AI Core provider]]'
 - '[[Changes/Codex CLI/2025-11-04-2-model-support-changes-in-rust-v0-54-0|2 Model
   Support changes in rust-v0.54.0]]'
 - '[[Changes/Gemini CLI/2025-11-04-2-model-support-changes-in-v0-12-0|2 Model Support
   changes in v0.12.0]]'
+- '[[Changes/LM Studio/2025-11-04-2-model-support-changes-in-lm-studio-0-3-31|2 Model
+  Support changes in LM Studio 0.3.31]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-11-05-interrupt-chatgpt-f1320118|chatgpt-2025-11-05-interrupt-chatgpt-f1320118]]'
 source_type: chatgpt_changelog
 theme: model-support
@@ -100,7 +100,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-11-04 · Gemini CLI · [[Changes/Gemini CLI/2025-11-04-2-model-support-changes-in-v0-12-0|2 Model Support changes in v0.12.0]]
+- Earlier: 2025-11-04 · LM Studio · [[Changes/LM Studio/2025-11-04-2-model-support-changes-in-lm-studio-0-3-31|2 Model Support changes in LM Studio 0.3.31]]
 - Later: 2025-11-05 · Ollama · [[Changes/Ollama/2025-11-05-2-model-support-changes-in-v0-12-10|2 Model Support changes in v0.12.10]]
 <!-- chronolog:end -->
 

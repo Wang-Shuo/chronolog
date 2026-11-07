@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8abcedc0005dfbbb82dc05132900cad958566d4c0ae2d0af4cc4cde2b13f6453
+machine_hash: 61417b5fca8c3203413a5c8ba4b7efbbfb85fd37fb3f430b81f128a606fc4e3f
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -45,12 +45,11 @@ record:
   title: 2 Safety and Privacy changes in HUB v2.11.0 — Generative UI and UI…
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-08-25-7-safety-and-privacy-changes-in-v0-11-1|7 Safety
-  and Privacy changes in v0.11.1]]'
 - '[[Changes/Claude Code/2026-08-26-2-safety-and-privacy-changes-in-v2-1-247|2 Safety
   and Privacy changes in v2.1.247]]'
 - '[[Changes/Codex CLI/2026-08-26-12-safety-and-privacy-changes-in-rust-v0-150-0|12
   Safety and Privacy changes in rust-v0.150.0]]'
+- '[[Changes/Devin/2026-08-26-security-section|Security Section]]'
 source_release: '[[Releases/Google Antigravity/google-antigravity-2026-08-26-rel-hub-2-11-0-9dbc2d81|google-antigravity-2026-08-26-rel-hub-2-11-0-9dbc2d81]]'
 source_type: antigravity_changelog
 theme: safety-privacy
@@ -89,7 +88,7 @@ Source: https://antigravity.google/releases?tab=hub&version=2.11.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-08-26 · Codex CLI · [[Changes/Codex CLI/2026-08-26-12-safety-and-privacy-changes-in-rust-v0-150-0|12 Safety and Privacy changes in rust-v0.150.0]]
+- Earlier: 2026-08-26 · Devin · [[Changes/Devin/2026-08-26-security-section|Security Section]]
 - Later: 2026-08-26 · Lovable · [[Changes/Lovable/2026-08-26-log-out-everywhere|Log out everywhere]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: afa11c5ba9405d2a512a1466f0d6f4a992ff8e1b66047b1ab5d07553587e17e8
+machine_hash: f844fc3f9d158a0f912c14e89dc71f490edc1d1fd39a966c06a308d39c20def0
 product: heygen
 product_name: HeyGen
 record:
@@ -59,12 +59,11 @@ record:
   title: The thing that makes a video feel real isn't just the camera or the lighting
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-05-13-llama3-2-vision-is-not-yet-supported|llama3.2-vision
-  is not yet supported]]'
 - '[[Changes/Runway/2026-05-13-work-with-an-ai-creative-partner-to-develop-and-produce-a-finished-video-describ|Runway
   Agent]]'
 - '[[Changes/Ollama/2026-05-14-kimi-k2-6-with-vision-support|kimi-k2.6 (with vision
   support)]]'
+- '[[Changes/Devin/2026-05-17-video-recording-download|Video Recording Download]]'
 source_release: '[[Releases/HeyGen/heygen-2026-05-18-https-heygen-noticeable-news-publications-introducing-custom-mot-2f2333e6|heygen-2026-05-18-https-heygen-noticeable-news-publications-introducing-custom-mot-2f2333e6]]'
 source_type: heygen_changelog
 theme: multimodal
@@ -100,7 +99,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Multimodal Input
 
-- Earlier: 2026-05-14 · Ollama · [[Changes/Ollama/2026-05-14-kimi-k2-6-with-vision-support|kimi-k2.6 (with vision support)]]
+- Earlier: 2026-05-17 · Devin · [[Changes/Devin/2026-05-17-video-recording-download|Video Recording Download]]
 - Later: 2026-05-19 · Gemini · [[Changes/Gemini/2026-05-19-gemini-omni-is-your-creative-partner-for-video-creation|Gemini Omni is your creative partner for video creation]]
 <!-- chronolog:end -->
 

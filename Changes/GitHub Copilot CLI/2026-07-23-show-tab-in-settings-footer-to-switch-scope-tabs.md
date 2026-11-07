@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: aa954a054feff07537a358f3cb1e872e6d3d0da4fae258586e01a2db51d3cec5
+machine_hash: 1d0481dfba9ec5abbb765a5c28f66b31a81436d06c346b71678a0b3ba43b7832
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -40,12 +40,11 @@ record:
   title: Show Tab in /settings footer to switch scope tabs
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-20-2-editor-experience-changes-in-v1-0-72|2
-  Editor Experience changes in v1.0.72]]'
 - '[[Changes/Claude Code/2026-07-21-added-emoji-shortcode-autocomplete-in-the-prompt-input-type-heart-to-insert-or-h|Added
   emoji shortcode autocomplete in the prompt input]]'
 - '[[Changes/Codex CLI/2026-07-21-4-editor-experience-changes-in-rust-v0-145-0|4 Editor
   Experience changes in rust-v0.145.0]]'
+- '[[Changes/Devin/2026-07-22-code-scan-profile-filters|Code Scan Profile Filters]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-07-23-v1-0-74-github-358979195-44813cc5|github-copilot-cli-2026-07-23-v1-0-74-github-358979195-44813cc5]]'
 source_type: github_releases
 theme: editor-experience
@@ -80,8 +79,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-07-21 · Codex CLI · [[Changes/Codex CLI/2026-07-21-4-editor-experience-changes-in-rust-v0-145-0|4 Editor Experience changes in rust-v0.145.0]]
-- Later: 2026-07-27 · Open WebUI · [[Changes/Open WebUI/2026-07-27-7-editor-experience-changes-in-v0-11-0|7 Editor Experience changes in v0.11.0]]
+- Earlier: 2026-07-22 · Devin · [[Changes/Devin/2026-07-22-code-scan-profile-filters|Code Scan Profile Filters]]
+- Later: 2026-07-23 · Recraft · [[Changes/Recraft/2026-07-23-you-can-now-edit-vectors-directly-in-recraft-studio-without-exporting-them-to-an|Edit vectors directly in Recraft Studio, without exporting them to another tool]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

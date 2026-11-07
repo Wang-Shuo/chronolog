@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: f888b051e83c989f8f00ebe557a40061158d15002cd98c18e468a0b1748d0f62
+machine_hash: ed2f5350269f4167408975ad61be4e7d54b25aecf49c89e8f17cbf7c318c5371
 product: opencode
 product_name: OpenCode
 record:
@@ -90,7 +90,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-10-29 · OpenCode · [[Changes/OpenCode/2026-10-29-2-model-support-changes-in-v2-2-1|2 Model Support changes in v2.2.1]]
-- Later: 2026-10-30 · Claude Code · [[Changes/Claude Code/2026-10-30-2-model-support-changes-in-v2-1-314|2 Model Support changes in v2.1.314]]
+- Later: 2026-10-29 · Superwhisper · [[Changes/Superwhisper/2026-10-29-3-model-support-changes-in-superwhisper-windows-1-6-11|3 Model Support changes in Superwhisper Windows 1.6.11]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

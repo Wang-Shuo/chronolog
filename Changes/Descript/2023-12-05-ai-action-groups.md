@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 62848d6619d657165aa3cf5ef0649e5c3a66a8d1558717123a758a270567385b
+machine_hash: 261a4d75b18654f1042ada9ea0737223dd2f34598d2e461fc49b09289add43dd
 product: descript
 product_name: Descript
 record:
@@ -56,11 +56,11 @@ record:
   title: AI Action groups
   type: change
 related_changes:
-- '[[Changes/Notion/2023-11-14-perfect-for-every-new-hire|Perfect for every new hire]]'
-- '[[Changes/Gemini/2023-11-16-bard-is-available-for-more-age-groups|Bard is available
-  for more age groups]]'
 - '[[Changes/Cursor/2023-11-27-copilot-improvements-we-ve-spent-some-time-improving-the-latency-of-copilot-and|Copilot++
   Improvements: We''ve spent some time improving the latency…]]'
+- '[[Changes/Superwhisper/2023-11-28-new-settings-design|New settings design]]'
+- '[[Changes/Superwhisper/2023-11-29-disable-arrow-key-navigation-when-download-or-prompt-edit-modals-are-open|Disable
+  arrow key navigation when download or prompt edit modals are open]]'
 source_release: '[[Releases/Descript/descript-2023-12-05-656e26a9b35bd6ff6af3afdf-ae239196|descript-2023-12-05-656e26a9b35bd6ff6af3afdf-ae239196]]'
 source_type: canny_changelog
 theme: interface-experience
@@ -102,7 +102,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2023-11-27 · Cursor · [[Changes/Cursor/2023-11-27-copilot-improvements-we-ve-spent-some-time-improving-the-latency-of-copilot-and|Copilot++ Improvements: We've spent some time improving the latency…]]
+- Earlier: 2023-11-29 · Superwhisper · [[Changes/Superwhisper/2023-11-29-disable-arrow-key-navigation-when-download-or-prompt-edit-modals-are-open|Disable arrow key navigation when download or prompt edit modals are open]]
 - Later: 2023-12-06 · Cursor · [[Changes/Cursor/2023-12-06-minor-onboarding-changes-19f3e5|Onboarding & Feedback]]
 <!-- chronolog:end -->
 

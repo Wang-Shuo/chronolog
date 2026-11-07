@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4fd1624555c125782bb43df02e7871e6bae8ed533db4e1f20739144ff0cf605f
+machine_hash: 91dabf81b2fea52d2e513382e7c227ee187fb806cbe6527ea6b2215fe8c91206
 product: aider
 product_name: Aider
 record:
@@ -45,12 +45,12 @@ record:
   title: 2 Editor Experience changes in v0.16.0
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-09-21-hacky-first-version-of-cmd-k-in-the-terminal-let-us-know-what-you-think|Cmd-K
-  in the terminal!]]'
 - '[[Changes/Cursor/2023-09-27-you-can-now-use-an-early-preview-of-edit-in-the-chat-it-s-significantly-faster-a|/edit
   in chat]]'
 - '[[Changes/Dify/2023-10-14-remove-the-suggested-api-for-completion-app-by-crazywoola-in-https-github-com-la|remove
   the suggested api for completion app]]'
+- '[[Changes/Raycast/2023-10-18-misc-you-can-now-customize-the-path-environment-variable-passed-when-launching-a|Misc
+  : You can now customize the PATH environment variable passed when launching…]]'
 source_release: '[[Releases/Aider/aider-2023-10-29-v0-16-0-github-127097099-e52ac334|aider-2023-10-29-v0-16-0-github-127097099-e52ac334]]'
 source_type: github_releases
 theme: editor-experience
@@ -83,7 +83,7 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.16.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2023-10-14 · Dify · [[Changes/Dify/2023-10-14-remove-the-suggested-api-for-completion-app-by-crazywoola-in-https-github-com-la|remove the suggested api for completion app]]
+- Earlier: 2023-10-18 · Raycast · [[Changes/Raycast/2023-10-18-misc-you-can-now-customize-the-path-environment-variable-passed-when-launching-a|Misc : You can now customize the PATH environment variable passed when launching…]]
 - Later: 2023-10-31 · Aider · [[Changes/Aider/2023-10-31-2-editor-experience-changes-in-v0-16-1|2 Editor Experience changes in v0.16.1]]
 <!-- chronolog:end -->
 

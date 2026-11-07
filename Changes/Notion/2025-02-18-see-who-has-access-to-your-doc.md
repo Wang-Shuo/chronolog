@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: e23d09e63619d2f585999c2f1777003495a88ef2c85b3293172d178d24ed6d91
+machine_hash: beaf3b253fd44c8c197f7bf97e55a1352c02df11470feea6a3ce4a0aca692d51
 product: notion
 product_name: Notion
 record:
@@ -44,10 +44,10 @@ record:
   title: "See who has access to your doc \U0001F440"
   type: change
 related_changes:
-- '[[Changes/Cline/2025-02-09-adds-keyboard-shortcut-cmd-shift-a-to-easily-switch-between-plan-act-mode|Adds
-  keyboard shortcut (CMD + Shift + A) to easily switch between Plan/Act mode]]'
-- '[[Changes/Descript/2025-02-11-add-scene-in-script-toolbar|Add scene in Script toolbar]]'
 - '[[Changes/Descript/2025-02-11-smart-transitions|Smart Transitions]]'
+- '[[Changes/AnythingLLM/2025-02-18-chore-onboarding-language-translations-by-timothycarambat-in-https-github-com-mi|CHORE
+  Onboarding language translations]]'
+- '[[Changes/LM Studio/2025-02-18-turn-on-in-chat-sidebar|Turn on in chat sidebar]]'
 source_release: '[[Releases/Notion/notion-2025-02-18-https-www-notion-com-releases-2025-02-18-f4276bfc|notion-2025-02-18-https-www-notion-com-releases-2025-02-18-f4276bfc]]'
 source_type: notion_changelog
 theme: interface-experience
@@ -79,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2025-02-11 · Descript · [[Changes/Descript/2025-02-11-smart-transitions|Smart Transitions]]
+- Earlier: 2025-02-18 · LM Studio · [[Changes/LM Studio/2025-02-18-turn-on-in-chat-sidebar|Turn on in chat sidebar]]
 - Later: 2025-02-19 · Cursor · [[Changes/Cursor/2025-02-19-2-interface-experience-changes-in-0-46-x|2 Interface Experience changes in 0.46.x]]
 <!-- chronolog:end -->
 

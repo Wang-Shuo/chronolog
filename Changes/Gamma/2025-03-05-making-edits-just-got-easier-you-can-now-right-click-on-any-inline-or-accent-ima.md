@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 881636ec7ac6cc23f0ef02d1a2a84dde3b74e0c368b8213e434bbcd482948058
+machine_hash: d054f869e64841db5237ddb0f137ba528856567cb979fb00914f0c5c9f6b3af9
 product: gamma
 product_name: Gamma
 record:
@@ -48,11 +48,12 @@ record:
   title: Making edits just got easier!
   type: change
 related_changes:
-- '[[Changes/Descript/2025-02-25-publish-becomes-export|Publish becomes Export]]'
 - '[[Changes/Descript/2025-02-25-descript-version-109-features-two-important-changes-to-terminology-that-coincide|Descript
   Version 109 features two important changes to terminology that coincide…]]'
 - '[[Changes/Descript/2025-02-26-and-tying-all-of-these-changes-together-we-ve-added-a-new-layout-picker-https-he|And
   tying all of these changes together, we’ve added a new Layout…]]'
+- '[[Changes/LM Studio/2025-03-03-new-advanced-speculative-decoding-parameters-behind-all-toggle-in-chat-sidebar|New:
+  Advanced speculative decoding parameters behind "All" toggle in chat sidebar]]'
 source_release: '[[Releases/Gamma/gamma-2025-03-05-67bcf7507957f25a122606e2-47744809|gamma-2025-03-05-67bcf7507957f25a122606e2-47744809]]'
 source_type: gamma_changelog
 theme: interface-experience
@@ -85,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2025-02-26 · Descript · [[Changes/Descript/2025-02-26-and-tying-all-of-these-changes-together-we-ve-added-a-new-layout-picker-https-he|And tying all of these changes together, we’ve added a new Layout…]]
+- Earlier: 2025-03-03 · LM Studio · [[Changes/LM Studio/2025-03-03-new-advanced-speculative-decoding-parameters-behind-all-toggle-in-chat-sidebar|New: Advanced speculative decoding parameters behind "All" toggle in chat sidebar]]
 - Later: 2025-03-10 · Aider · [[Changes/Aider/2025-03-10-https-aider-chat-history-html|(source link)]]
 <!-- chronolog:end -->
 

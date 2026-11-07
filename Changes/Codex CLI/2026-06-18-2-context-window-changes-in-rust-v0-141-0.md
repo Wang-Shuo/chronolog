@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d99cad8aafb06071a303d04779d28d77a7d89c912333ade21c0f5e3b23ddd38e
+machine_hash: 2a29e1fba48460cc36e9ffd6dc654825f8b76209e258c32fb29c7172f626c2a0
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,12 +43,12 @@ record:
   title: 2 Context Window changes in rust-v0.141.0
   type: change
 related_changes:
-- '[[Changes/Kimi Code/2026-06-16-remove-redundant-llm-request-logging-context-plumbing|Remove
-  redundant LLM request logging context plumbing]]'
 - '[[Changes/Z.ai API/2026-06-16-supports-1m-lossless-context-significantly-improving-long-horizon-task-capabilit|Supports
   1M lossless context, significantly improving long-horizon task capabilities…]]'
 - '[[Changes/Z.ai API/2026-06-16-significantly-improves-the-real-world-developer-experience-with-more-reliable-pr|Significantly
   improves the real-world developer experience, with more reliable…]]'
+- '[[Changes/Devin/2026-06-17-slack-preceding-thread-messages-as-context|Slack: Preceding
+  Thread Messages as Context]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-06-18-rust-v0-141-0-github-341160952-94bdbd75|codex-cli-2026-06-18-rust-v0-141-0-github-341160952-94bdbd75]]'
 source_type: github_releases
 theme: context-window
@@ -89,8 +89,8 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.141.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-06-16 · Z.ai API · [[Changes/Z.ai API/2026-06-16-significantly-improves-the-real-world-developer-experience-with-more-reliable-pr|Significantly improves the real-world developer experience, with more reliable…]]
-- Later: 2026-06-22 · ChatGPT · [[Changes/ChatGPT/2026-06-22-starting-today-for-chatgpt-free-and-go-users-long-pastes-are-handled-differently|Large pastes are now handled as attachments for more plans]]
+- Earlier: 2026-06-17 · Devin · [[Changes/Devin/2026-06-17-slack-preceding-thread-messages-as-context|Slack: Preceding Thread Messages as Context]]
+- Later: 2026-06-19 · Devin · [[Changes/Devin/2026-06-19-pr-context-visible-while-waiting-for-ci|PR Context Visible While Waiting for CI]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

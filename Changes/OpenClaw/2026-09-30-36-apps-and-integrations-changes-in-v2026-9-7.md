@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e0388b717c2ac89ea27a939034ec3ed55e8b4b830ee439b102506841d612362f
+machine_hash: 78ea189dbdaec363c1b60b615e77f9e018b865d2efa46462e2094c55b26e1528
 product: openclaw
 product_name: OpenClaw
 record:
@@ -238,10 +238,10 @@ record:
   title: 36 Apps and Integrations changes in v2026.9.7
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-09-29-lovable-mcp-now-works-with-muse-by-meta|Lovable MCP
-  now works with Muse by Meta]]'
-- '[[Changes/Claude Code/2026-09-30-11-apps-and-integrations-changes-in-v2-1-286|11
-  Apps and Integrations changes in v2.1.286]]'
+- '[[Changes/Devin/2026-09-30-skills-only-repositories-install-as-plugins|Skills-Only
+  Repositories Install as Plugins]]'
+- '[[Changes/Devin/2026-09-30-slack-buttons-work-across-organizations|Slack: Buttons
+  Work Across Organizations]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-30-3-apps-and-integrations-changes-in-v1-0-90|3
   Apps and Integrations changes in v1.0.90]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-09-30-v2026-9-7-3d25d2bd|openclaw-2026-09-30-v2026-9-7-3d25d2bd]]'

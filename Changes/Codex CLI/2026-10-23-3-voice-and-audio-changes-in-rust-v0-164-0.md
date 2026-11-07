@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4ae44eaf300dddcca02b205ef460341edcb326275b0382ec740369b634001bd4
+machine_hash: 4eff4453890b01ae799e15696dd06e198498f61504b3e362aa9840ca4434997d
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,12 +44,12 @@ record:
   title: 3 Voice and Audio changes in rust-v0.164.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-21-2-voice-and-audio-changes-in-v2-1-307|2 Voice
-  and Audio changes in v2.1.307]]'
-- '[[Changes/Claude Code/2026-10-22-vscode-added-a-log-warning-that-says-what-to-do-when-dictation-or-the-extension|VSCode
-  Added a log warning that says what to do when dictation or the extension''s…]]'
 - '[[Changes/OpenClaw/2026-10-22-3-voice-and-audio-changes-in-v2026-10-6|3 Voice and
   Audio changes in v2026.10.6]]'
+- '[[Changes/Raycast/2026-10-22-ai-chat-commands-sent-to-ai-chat-such-as-send-to-ai-chat-or-dictation-now-respec|AI
+  Chat : Commands sent to AI Chat (such as Send to AI Chat or Dictation) now…]]'
+- '[[Changes/Raycast/2026-10-22-ai-chat-commands-sent-to-ai-chat-such-as-send-to-ai-chat-or-dictation-now-respec-d0fe95|AI
+  Chat : Commands sent to AI Chat (such as Send to AI Chat or Dictation) now…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-10-23-rust-v0-164-0-github-421457270-d867151d|codex-cli-2026-10-23-rust-v0-164-0-github-421457270-d867151d]]'
 source_type: github_releases
 theme: voice
@@ -98,8 +98,8 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.164.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-10-22 · OpenClaw · [[Changes/OpenClaw/2026-10-22-3-voice-and-audio-changes-in-v2026-10-6|3 Voice and Audio changes in v2026.10.6]]
-- Later: 2026-10-24 · Ollama · [[Changes/Ollama/2026-10-24-ollama-can-now-generate-speech-https-docs-ollama-com-capabilities-speech-on-maco|Ollama can now generate speech((source link) on macOS]]
+- Earlier: 2026-10-22 · Raycast · [[Changes/Raycast/2026-10-22-ai-chat-commands-sent-to-ai-chat-such-as-send-to-ai-chat-or-dictation-now-respec-d0fe95|AI Chat : Commands sent to AI Chat (such as Send to AI Chat or Dictation) now…]]
+- Later: 2026-10-24 · Krea · [[Changes/Krea/2026-10-24-audio-tool-and-voice-cloning-for-everyone|Audio tool and voice cloning for everyone]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

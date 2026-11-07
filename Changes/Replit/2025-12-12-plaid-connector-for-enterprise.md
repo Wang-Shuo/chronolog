@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 01c3a692beeabada82b1de201bd062af532dafe2bfa561d186315de00a843b75
+machine_hash: 6d42faede4bd08aeeb9732a1de5a22a96b66c4d081c7c83031791a43bdd7a173
 product: replit
 product_name: Replit
 record:
@@ -60,8 +60,7 @@ record:
   title: Plaid Connector for Enterprise
   type: change
 related_changes:
-- '[[Changes/Dify/2025-12-11-16-apps-and-integrations-changes-in-1-11-0|16 Apps and
-  Integrations changes in 1.11.0]]'
+- '[[Changes/Devin/2025-12-12-microsoft-teams-integration|Microsoft Teams Integration]]'
 - '[[Changes/Dify/2025-12-12-6-apps-and-integrations-changes-in-1-11-1|6 Apps and
   Integrations changes in 1.11.1]]'
 - '[[Changes/Replit/2025-12-12-agent-now-supports-custom-mcp-servers|Agent now supports

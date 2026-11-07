@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: abbbb7f2c558b52296b1a011bdeea49e1ad62c24ae8646cb0dada82da392479c
+machine_hash: f5f19fad28aedd17970eeb04e45a9dda6d66d0afea1ea5a001a5218dc0739700
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -46,8 +46,8 @@ record:
   title: 'Web browsing: Try a new version of ChatGPT that knows when and how to browse…'
   type: change
 related_changes:
-- '[[Changes/Notion/2022-09-13-browse-through-a-page-s-images-from-one-place|Browse
-  through a page’s images from one place]]'
+- '[[Changes/Raycast/2023-02-01-flight-tracker-don-t-show-it-when-the-flight-number-matches-aliases-quicklinks-n|Flight
+  Tracker: Don’t show it when the flight number matches aliases, Quicklinks…]]'
 - '[[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing:
   An experimental model that knows when and how to browse the internet]]'
 - '[[Changes/Descript/2023-05-01-smaller-tweaks|Smaller tweaks]]'

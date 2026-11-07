@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 13ed2d71a19106580b18cde80cce9baec51f102d5ecadcc78fb57df9748c3c2b
+machine_hash: ec7c2e27bcba89b34f6ac85136f658a4a42575867ed499f9f0b345ab024d553d
 product: opencode
 product_name: OpenCode
 record:
@@ -98,7 +98,7 @@ Source: https://opencode.ai/changelog/v1.3.17
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-04-04 · OpenCode · [[Changes/OpenCode/2026-04-04-5-developer-workflow-changes-in-v1-3-15-1|5 Developer Workflow changes in v1.3.15 + 1]]
-- Later: 2026-04-08 · Claude Code · [[Changes/Claude Code/2026-04-08-3-developer-workflow-changes-in-v2-1-97|3 Developer Workflow changes in v2.1.97]]
+- Later: 2026-04-07 · Raycast · [[Changes/Raycast/2026-04-07-calculator-new-calculator-command|Calculator : New Calculator command]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

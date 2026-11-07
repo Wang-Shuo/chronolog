@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a0c2fffd47df071083c88bfb959277ce82d0306d6bfbbb7cb36084c73955cb93
+machine_hash: 08067fac6bcecb3652dce3995cab871dd8d2f2f4ddaccb343db3e52f12b35419
 product: open-webui
 product_name: Open WebUI
 record:

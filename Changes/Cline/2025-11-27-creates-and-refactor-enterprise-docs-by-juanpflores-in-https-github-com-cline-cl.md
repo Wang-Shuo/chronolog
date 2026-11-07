@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f36cfc2ca8c2af80da53625265316e45db99289f60646d023797d0e69eaf84e8
+machine_hash: 74231285034dfb8646bf18a86fc094322cbac9b62868ea0bf4a8f43464b0a1e2
 product: cline
 product_name: Cline
 record:
@@ -41,8 +41,7 @@ record:
   title: Creates and Refactor Enterprise Docs
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-11-21-3-enterprise-and-administration-changes-in-2-1|3 Enterprise
-  and Administration changes in 2.1]]'
+- '[[Changes/Devin/2025-11-21-prefix-based-git-permissions|Prefix-based Git Permissions]]'
 - '[[Changes/Replit/2025-11-21-teams-and-enterprise|Teams and Enterprise]]'
 - '[[Changes/Open WebUI/2025-11-24-looking-for-an-enterprise-plan-https-docs-openwebui-com-enterprise-speak-with-ou|
   Looking for an Enterprise Plan((source link)]]'
@@ -82,7 +81,7 @@ type: change
 ## Nearby in Enterprise and Administration
 
 - Earlier: 2025-11-24 · Open WebUI · [[Changes/Open WebUI/2025-11-24-looking-for-an-enterprise-plan-https-docs-openwebui-com-enterprise-speak-with-ou| Looking for an Enterprise Plan((source link)]]
-- Later: 2025-12-02 · Cline · [[Changes/Cline/2025-12-02-add-enterprise-to-readme-by-reneehuang1-in-https-github-com-cline-cline-pull-758|add enterprise to readme]]
+- Later: 2025-11-27 · Devin · [[Changes/Devin/2025-11-27-enterprise-api-v3-git-permissions-bulk-create-improvements|Enterprise API v3 Git Permissions Bulk Create Improvements]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b62152331de1d553b1fc5e5f8ddc88d11053d7fcbe863b170966b12833e188c2
+machine_hash: 849a7b7ed72941c8bcfeee224253f139e47bd083284b55dbcfd18f0635e158a5
 product: openclaw
 product_name: OpenClaw
 record:
@@ -119,10 +119,10 @@ record:
   title: 15 Mobile and Desktop changes in v2026.10.1
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-10-08-3-mobile-and-desktop-changes-in-v2026-9-9|3 Mobile
-  and Desktop changes in v2026.9.9]]'
-- '[[Changes/Replit/2026-10-09-replit-desktop-windows-preview-with-microsoft-and-nvidia|Replit
-  Desktop Windows preview with Microsoft and NVIDIA]]'
+- '[[Changes/Wispr Flow/2026-10-09-the-main-flow-window-reopens-after-you-update-desktop|The
+  main Flow window reopens after you update (Desktop)]]'
+- '[[Changes/Wispr Flow/2026-10-09-flow-offers-to-add-a-language-you-speak-desktop|Flow
+  offers to add a language you speak (Desktop)]]'
 - '[[Changes/Open WebUI/2026-10-10-3-mobile-and-desktop-changes-in-v0-12-0|3 Mobile
   and Desktop changes in v0.12.0]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-10-10-v2026-10-1-d64e4e93|openclaw-2026-10-10-v2026-10-1-d64e4e93]]'

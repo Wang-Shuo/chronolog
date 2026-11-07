@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 48c108f6845449c97eb8eeaa70405c30af11d34936b0dafae89b1df37cf891fc
+machine_hash: 18c43154469ce9cb32dd07b55e36c3eb56df5c2f6c2ba9c712515767a489b381
 product: opencode
 product_name: OpenCode
 record:
@@ -86,7 +86,7 @@ Source: https://opencode.ai/changelog/v1.1.60
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-02-12 · OpenCode · [[Changes/OpenCode/2026-02-12-2-developer-workflow-changes-in-v1-1-64-1|2 Developer Workflow changes in v1.1.64 + 1]]
-- Later: 2026-02-13 · OpenCode · [[Changes/OpenCode/2026-02-13-core-remove-worktree-delete-functionality|Core Remove worktree delete functionality]]
+- Later: 2026-02-13 · Devin · [[Changes/Devin/2026-02-13-devin-review-batch-comments|Devin Review: Batch Comments]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

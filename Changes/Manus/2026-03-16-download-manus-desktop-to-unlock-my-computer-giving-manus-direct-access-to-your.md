@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b4ae7127e6acc1e937ffa27a9043a868cdef69cd9105a72714685c02530246c5
+machine_hash: b88c5f6d21e6bfebbb293c1786e53365b21334e0be1c53c68ddfb44ea07d13ef
 product: manus
 product_name: Manus
 record:

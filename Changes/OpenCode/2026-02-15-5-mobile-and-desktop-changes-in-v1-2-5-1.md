@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e1d8558ea133d1587a2bfb03cadda723769df04b8047647e915ea4f70e1ce414
+machine_hash: a141c7a378bfc6f9fcf3e2042ec3a0d1cc03e15273d526c35d916645ec654021
 product: opencode
 product_name: OpenCode
 record:
@@ -48,8 +48,8 @@ record:
   title: 5 Mobile and Desktop changes in v1.2.5 + 1
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-02-13-7-mobile-and-desktop-changes-in-v1-1-65|7 Mobile
-  and Desktop changes in v1.1.65]]'
+- '[[Changes/Raycast/2026-02-13-raycast-on-windows-now-supports-script-commands|Raycast
+  on Windows now supports Script Commands!]]'
 - '[[Changes/OpenCode/2026-02-14-5-mobile-and-desktop-changes-in-v1-2-0|5 Mobile and
   Desktop changes in v1.2.0]]'
 - '[[Changes/OpenCode/2026-02-15-2-mobile-and-desktop-changes-in-v1-2-4|2 Mobile and

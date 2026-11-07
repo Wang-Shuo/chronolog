@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 01567c8f03c75c103eddeff4c8389dcd4fc3c6f95ae40285ca9be5192fa6520b
+machine_hash: 84bb34ba0fb5fc6efc11a25f00c7e4988fd3bc03550bf7bf3cb4ee583b3c0160
 product: cursor
 product_name: Cursor
 record:
@@ -98,7 +98,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2025-09-29 · ChatGPT · [[Changes/ChatGPT/2025-09-29-agentic-commerce-protocol|Agentic Commerce Protocol]]
-- Later: 2025-09-29 · Dify · [[Changes/Dify/2025-09-29-2-agent-mode-changes-in-1-9-1|2 Agent Mode changes in 1.9.1]]
+- Later: 2025-09-29 · Devin · [[Changes/Devin/2025-09-29-enterprise-opt-in-for-agent-previews|Enterprise Opt-In for Agent Previews]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

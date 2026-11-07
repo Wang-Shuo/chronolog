@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 471e10bccba05085bf51891b37f49b3ebc43c80dca5bf5f7fb26bedb2f465e7d
+machine_hash: b5bebda49e2840e122c7519fbee8d16e600651b056515bc1672aaed3179e596a
 product: suno
 product_name: Suno
 record:
@@ -42,11 +42,12 @@ record:
   title: Share audio from iOS Voice Memos
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-06-01-dubbing-fad5c5|Dubbing]]'
-- '[[Changes/Open WebUI/2026-06-01-4-voice-and-audio-changes-in-v0-9-6|4 Voice and
-  Audio changes in v0.9.6]]'
-- '[[Changes/GitHub Copilot CLI/2026-06-02-add-the-voice-command-to-dictate-prompts-using-local-speech-to-text-models|Add
-  the /voice command to dictate prompts using local speech-to-text models]]'
+- '[[Changes/Raycast/2026-06-04-dictation-is-now-in-raycast-for-windows-press-your-shortcut-speak-naturally-and|Dictation
+  is now in Raycast for Windows!]]'
+- '[[Changes/Raycast/2026-06-04-teams-can-now-share-ai-agents-ai-commands-and-dictation-styles-across-the-organi|Teams
+  can now share AI Agents, AI Commands, and Dictation Styles across…]]'
+- '[[Changes/Raycast/2026-06-04-dictation-dictate-dictate-to-note-dictation-history-and-other-dictation-commands|Dictation
+  : Dictate Dictate to Note Dictation History and other dictation commands…]]'
 source_release: '[[Releases/Suno/suno-2026-06-04-e-share-from-ios-notes-and-voice-memos-341538e7|suno-2026-06-04-e-share-from-ios-notes-and-voice-memos-341538e7]]'
 source_type: suno_changelog
 theme: voice
@@ -76,7 +77,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-06-02 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-02-add-the-voice-command-to-dictate-prompts-using-local-speech-to-text-models|Add the /voice command to dictate prompts using local speech-to-text models]]
+- Earlier: 2026-06-04 · Raycast · [[Changes/Raycast/2026-06-04-dictation-dictate-dictate-to-note-dictation-history-and-other-dictation-commands|Dictation : Dictate Dictate to Note Dictation History and other dictation commands…]]
 - Later: 2026-06-05 · Cursor · [[Changes/Cursor/2026-06-05-narrate-changes-through-the-design-mode-overlay-the-mic-stays-available-while-an|Voice input]]
 <!-- chronolog:end -->
 

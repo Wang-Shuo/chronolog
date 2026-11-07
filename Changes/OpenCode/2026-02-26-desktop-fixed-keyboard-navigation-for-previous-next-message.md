@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e21fe286102480d444fc26937b191d48b4fcf6bcfebc14368d22046c6c1cb551
+machine_hash: b2482bcd118a1d88a191cae62b19779ddb68d140d0428bd32fdb3647f0a6d6a0
 product: opencode
 product_name: OpenCode
 record:
@@ -77,7 +77,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-02-26 · Codex CLI · [[Changes/Codex CLI/2026-02-26-improved-tui-local-file-link-rendering-to-hide-absolute-paths-while-preserving-v|Improved TUI local file-link rendering to hide absolute paths while preserving…]]
-- Later: 2026-02-27 · ChatGPT · [[Changes/ChatGPT/2026-02-27-automatic-scroll-to-latest-message-existing-conversations-now-automatically-scro|Automatic scroll to latest message]]
+- Later: 2026-02-26 · Raycast · [[Changes/Raycast/2026-02-26-navigation-tweaked-copy-to-not-accidentally-mention-search-menu-items|Navigation : Tweaked copy to not accidentally mention search menu items]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

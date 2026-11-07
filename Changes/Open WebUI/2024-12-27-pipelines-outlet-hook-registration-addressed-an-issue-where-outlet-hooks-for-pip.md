@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: cf227b54066421455db7396e9878650fb458375a4c06f578ab0321ae61d42987
+machine_hash: 34871f483a803fbe1e4a3e66f07c432fa5bb1ecc246f1bf745ec0920c0080a72
 product: open-webui
 product_name: Open WebUI
 record:
@@ -47,9 +47,9 @@ record:
   title: "**\U0001F517 Pipelines Outlet Hook Registration**"
   type: change
 related_changes:
-- '[[Changes/Dify/2024-12-18-opendal-integration-introducing-apache-opendal-https-github-com-apache-opendal-t|OpenDAL
-  Integration: Introducing Apache…]]'
 - '[[Changes/Replit/2024-12-20-integration-visibility|Integration visibility]]'
+- '[[Changes/Devin/2024-12-24-if-you-ve-noticed-devin-stuck-on-the-same-action-or-unable-to-sleep-wake-up-plea|If
+  you''ve noticed Devin stuck on the same action or unable to sleep/wake up, please…]]'
 - "[[Changes/Open WebUI/2024-12-25-notification-webhook-integration-get-alerts-via-webhooks-even-when-your-tab-is-c|\U0001F310
   Notification Webhook Integration]]"
 source_release: '[[Releases/Open WebUI/open-webui-2024-12-27-v0-5-2-github-192450026-62830850|open-webui-2024-12-27-v0-5-2-github-192450026-62830850]]'

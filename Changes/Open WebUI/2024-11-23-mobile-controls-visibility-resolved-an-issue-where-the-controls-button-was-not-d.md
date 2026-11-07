@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: e949eb7dcd1fdc805ab6359bd287f032bbd9f894078f82b2c4a98eb5920253cf
+machine_hash: 3e2dc960bf5973044be575a0f637d758f1fa4eddfe0dd55983677ee761e29358
 product: open-webui
 product_name: Open WebUI
 record:
@@ -47,11 +47,11 @@ record:
   title: "**\U0001F4F1 Mobile Controls Visibility**"
   type: change
 related_changes:
-- '[[Changes/Aider/2024-11-21-improved-model-settings-configuration-https-aider-chat-docs-config-adv-model-set|Improved
-  model settings…]]'
-- '[[Changes/ChatGPT/2024-11-22-the-new-chat-button-has-been-moved-to-the-left-of-the-model-picker-to-be-easier|The
-  new chat button has been moved to the left of the Model Picker to be easier to access]]'
-- '[[Changes/ChatGPT/2024-11-22-sidebar-redesign-e6413a|Sidebar redesign]]'
+- '[[Changes/Devin/2024-11-22-bulk-import-secrets|Bulk import secrets]]'
+- '[[Changes/Devin/2024-11-22-faster-navigation-with-cmd-k|Faster navigation with
+  cmd-k]]'
+- '[[Changes/Superwhisper/2024-11-22-add-language-model-processing-time-to-history-sidebar|Add
+  language model processing time to history sidebar]]'
 source_release: '[[Releases/Open WebUI/open-webui-2024-11-23-v0-4-4-github-187089682-f7333433|open-webui-2024-11-23-v0-4-4-github-187089682-f7333433]]'
 source_type: github_releases
 theme: interface-experience
@@ -83,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2024-11-22 · ChatGPT · [[Changes/ChatGPT/2024-11-22-sidebar-redesign-e6413a|Sidebar redesign]]
+- Earlier: 2024-11-22 · Superwhisper · [[Changes/Superwhisper/2024-11-22-add-language-model-processing-time-to-history-sidebar|Add language model processing time to history sidebar]]
 - Later: 2024-11-24 · Cursor · [[Changes/Cursor/2024-11-24-composer-ui-in-the-sidebar-with-inline-diffs|Composer UI in the sidebar with inline diffs]]
 <!-- chronolog:end -->
 

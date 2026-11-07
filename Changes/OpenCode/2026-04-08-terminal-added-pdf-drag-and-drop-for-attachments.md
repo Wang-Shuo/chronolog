@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 04456c3b82734db28c9d21cd72d96a3349046c3dc408a448418b1cf95ff67546
+machine_hash: 315c51230ba3072bc8de14404fd94075bde94295c67b32a42703e28b79e6248d
 product: opencode
 product_name: OpenCode
 record:
@@ -40,9 +40,8 @@ record:
   title: Terminal Added PDF drag and drop for attachments
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-08-3-developer-workflow-changes-in-v2-1-97|3 Developer
-  Workflow changes in v2.1.97]]'
 - '[[Changes/Cursor/2026-04-08-bugbot-learned-rules-9e5cac|Bugbot Learned Rules]]'
+- '[[Changes/Devin/2026-04-08-auto-merge-from-devin-review|Auto-merge from Devin Review]]'
 - '[[Changes/Gemini CLI/2026-04-08-3-developer-workflow-changes-in-v0-37-0|3 Developer
   Workflow changes in v0.37.0]]'
 source_release: '[[Releases/OpenCode/opencode-2026-04-08-v1-4-0-d8caa806|opencode-2026-04-08-v1-4-0-d8caa806]]'

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: a88904a2a23facdccf72035ae219a4095381f1171e2bf513d9ddbe779dee5a70
+machine_hash: fcd181fdc2a5a16e811cf1f24d5c173ffeb1def7aaa9f55db7ca9b63f5e21b03
 product: notion
 product_name: Notion
 record:
@@ -49,12 +49,12 @@ record:
   title: Better URL properties in databases
   type: change
 related_changes:
-- '[[Changes/Notion/2021-07-27-write-run-code-in-notion-with-the-replit-embed|Write
-  & run code in Notion with the Replit embed]]'
 - '[[Changes/Descript/2021-08-10-tab-and-shift-tab-now-work-to-cycle-through-fields-in-the-inspector|TAB
   and Shift-TAB now work to cycle through fields in the inspector]]'
 - '[[Changes/Notion/2021-08-10-buttons-across-the-notion-interface-can-now-be-highlighted-with-the-tab-key-and|Buttons
   across the Notion interface can now be highlighted with the tab key…]]'
+- '[[Changes/Raycast/2021-08-25-the-configure-command-action-panel-item-on-the-root-search-will-now-always-take|The
+  Configure Command action panel item ( ⌘ ⇧ , ) on the root search will now always…]]'
 source_release: '[[Releases/Notion/notion-2021-09-08-https-www-notion-com-releases-2021-09-08-cd974219|notion-2021-09-08-https-www-notion-com-releases-2021-09-08-cd974219]]'
 source_type: notion_changelog
 theme: editor-experience
@@ -88,8 +88,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2021-08-10 · Notion · [[Changes/Notion/2021-08-10-buttons-across-the-notion-interface-can-now-be-highlighted-with-the-tab-key-and|Buttons across the Notion interface can now be highlighted with the tab key…]]
-- Later: 2021-09-21 · Descript · [[Changes/Descript/2021-09-21-word-gap-toolbar-control|Word Gap toolbar control]]
+- Earlier: 2021-08-25 · Raycast · [[Changes/Raycast/2021-08-25-the-configure-command-action-panel-item-on-the-root-search-will-now-always-take|The Configure Command action panel item ( ⌘ ⇧ , ) on the root search will now always…]]
+- Later: 2021-09-10 · Raycast · [[Changes/Raycast/2021-09-10-scripts-invalid-script-encoding-is-now-detected-by-raycast-letting-the-user-re-e|Scripts : Invalid script encoding is now detected by Raycast, letting the user…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

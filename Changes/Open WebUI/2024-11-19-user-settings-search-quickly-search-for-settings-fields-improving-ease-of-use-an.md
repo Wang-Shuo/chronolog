@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ca4e7af766398ddb425a5a4f608478cee7c0dcaa9bd31b6ca3dfd5ba663bfdac
+machine_hash: c28f8c145cb8e627064c00ae343c434bce63d7a200a5310a58ed91bee1044604
 product: open-webui
 product_name: Open WebUI
 record:
@@ -42,8 +42,8 @@ record:
   title: "**\U0001F50D User Settings Search**"
   type: change
 related_changes:
-- '[[Changes/Dify/2024-10-28-feat-regenerate-history-switch-navigation-by-xuzuodong-in-https-github-com-langg|feat:
-  regenerate history switch navigation]]'
+- '[[Changes/Superwhisper/2024-11-12-3-interface-experience-changes-in-superwhisper-macos-1-42-0|3
+  Interface Experience changes in Superwhisper macOS 1.42.0]]'
 - '[[Changes/Ollama/2024-11-15-athene-v2-https-ollama-com-library-athene-v2-a-72b-parameter-model-which-excels|Athene
   V2((source link) a 72B parameter model…]]'
 - '[[Changes/Dify/2024-11-18-enabled-up-down-arrow-key-navigation-for-group-questions-improving-debugging-by|Enabled
@@ -89,7 +89,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2024-11-18 · Dify · [[Changes/Dify/2024-11-18-enabled-up-down-arrow-key-navigation-for-group-questions-improving-debugging-by|Enabled up/down arrow key navigation for group questions, improving debugging…]]
-- Later: 2024-11-21 · Aider · [[Changes/Aider/2024-11-21-improved-model-settings-configuration-https-aider-chat-docs-config-adv-model-set|Improved model settings…]]
+- Later: 2024-11-20 · Raycast · [[Changes/Raycast/2024-11-20-search-menu-items-added-missing-globe-modifier-key-icon|Search Menu Items: Added missing globe modifier key icon]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

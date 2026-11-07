@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 03b782e44fd01e321b19f875fe6be51ddae8cdd9fed1295b1de2613c3bea2e92
+machine_hash: 8cf9b2ab132e08eb113de72133bc748c4e6d5a33cdf31db14f630b253470abd2
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,8 +44,8 @@ record:
   title: 2 Interface Experience changes in v2.1.80
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-03-17-3-interface-experience-changes-in-v0-34-0|3 Interface
-  Experience changes in v0.34.0]]'
+- '[[Changes/AnythingLLM/2026-03-18-3-interface-experience-changes-in-v1-11-2|3 Interface
+  Experience changes in v1.11.2]]'
 - '[[Changes/Claude Code/2026-03-18-added-show-turn-duration-toggle-to-the-config-menu|Added
   "Show turn duration" toggle to the /config menu]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-18-spinner-animation-no-longer-delays-visible-output-from-appearing-in-the-timeline|Spinner

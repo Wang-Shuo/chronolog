@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 137b9e74299ec244b2b9ab4ae2ee54c033103d469c84f530a6d8a3bdf23e258f
+machine_hash: 151a8b97babb411fe4983f4fd09b3f10f4213cde0d181ab786f235ddb03f607f
 product: aider
 product_name: Aider
 record:
@@ -47,10 +47,10 @@ record:
   title: 3 Model Support changes in v0.80.0
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-03-27-gpt-4o-has-further-improved-its-capability-to-tackle-complex-technical-and-codin|Smarter
-  problem-solving in STEM and coding]]'
 - '[[Changes/ChatGPT/2025-03-27-gpt-4o-is-now-more-adept-at-following-detailed-instructions-especially-for-promp|Enhanced
   instruction-following and formatting accuracy]]'
+- '[[Changes/LM Studio/2025-03-27-7-model-support-changes-in-lm-studio-0-3-14|7 Model
+  Support changes in LM Studio 0.3.14]]'
 - '[[Changes/Midjourney/2025-03-30-please-note|Please Note]]'
 source_release: '[[Releases/Aider/aider-2025-03-31-v0-80-0-github-209238246-56764716|aider-2025-03-31-v0-80-0-github-209238246-56764716]]'
 source_type: github_releases

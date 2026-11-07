@@ -1,0 +1,98 @@
+---
+card_id: raycast-2021-06-03-ed40db
+date: '2021-06-03'
+description: 'Raycast · 2021-06-03 · Automation and Scheduling: My Schedule: Added
+  an action to copy the conference link of an event in case you want to share it or
+  open it…'
+diffusion:
+  first_in_tracked: '[[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change
+    gain, with volume automation]]'
+  inference: No adoption, equivalence, or causation claim.
+  lag_days: 624
+  relation: same-theme-chronology
+  role: later-observed
+  scope: tracked-products-only
+  theme: automation-scheduling
+  tracked_products_count: 45
+evolves_from: []
+extractor_version: fallback-v5
+impact: incremental
+kind: change
+machine_hash: 948683a2cae1911615d872c8900bd8ed90031d0c76abae97df2e7bf3e8894281
+product: raycast
+product_name: Raycast
+record:
+  card_id: raycast-2021-06-03-ed40db
+  comparison: ''
+  date: '2021-06-03'
+  description: 'Raycast — Raycast macos-v1 1.17.0: My Schedule: Added an action to
+    copy the conference link of an event in case you want to share it or open it in
+    a different browser'
+  evidence:
+  - quote: 'My Schedule: Added an action to copy the conference link of an event in
+      case you want to share it or open it in a different browser'
+    source_release: https://www.raycast.com/changelog/macos-v1/1-17-0
+  extractor_version: fallback-v5
+  impact: incremental
+  kind: change
+  product: raycast
+  product_name: Raycast
+  slug: my-schedule-added-an-action-to-copy-the-conference-link-of-an-event-in-case-you
+  source_release: raycast-2021-06-03-macos-v1-1-17-0-425d3a4d
+  source_type: raycast_changelog
+  theme: automation-scheduling
+  theme_matches: []
+  theme_resolution: manual-semantic-rule-v1
+  title: 'My Schedule: Added an action to copy the conference link of an event in
+    case you…'
+  type: change
+related_changes:
+- '[[Changes/Raycast/2021-05-12-2-automation-and-scheduling-changes-in-raycast-macos-v1-1-14-0|2
+  Automation and Scheduling changes in Raycast macos-v1 1.14.0]]'
+- '[[Changes/Notion/2021-05-13-automate-io-integration|Automate.io integration]]'
+- '[[Changes/Raycast/2021-06-03-wwdc21|WWDC21]]'
+source_release: '[[Releases/Raycast/raycast-2021-06-03-macos-v1-1-17-0-425d3a4d|raycast-2021-06-03-macos-v1-1-17-0-425d3a4d]]'
+source_type: raycast_changelog
+theme: automation-scheduling
+title: 'My Schedule: Added an action to copy the conference link of an event in case
+  you…'
+type: change
+---
+
+<!-- chronolog:begin region="header" -->
+# My Schedule: Added an action to copy the conference link of an event in case you…
+
+**Raycast** · 2021-06-03 · [[Themes/automation-scheduling|Automation and Scheduling]] · [Official source](https://www.raycast.com/changelog/macos-v1/1-17-0) · from [[Releases/Raycast/raycast-2021-06-03-macos-v1-1-17-0-425d3a4d|Raycast macos-v1 1.17.0]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="evidence" -->
+> My Schedule: Added an action to copy the conference link of an event in case you want to share it or open it in a different browser
+>
+> Source: https://www.raycast.com/changelog/macos-v1/1-17-0
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Raycast/2021-06-03-snippets-expansion-preserves-the-delimiter-if-entered-to-trigger-completion|Snippets: Expansion preserves the delimiter, if entered to trigger completion]] · Editor Experience
+- [[Changes/Raycast/2021-06-03-wwdc21|WWDC21]] · Automation and Scheduling
+- [[Changes/Raycast/2021-06-03-snippets-expansion-now-works-with-non-activating-apps-e-g-spotlight|Snippets: Expansion now works with non-activating apps e.g. Spotlight]] · Apps and Integrations
+- [[Changes/Raycast/2021-06-03-5-other-changes-in-raycast-macos-v1-1-17-0|5 other changes in Raycast macos-v1 1.17.0]] · Other changes
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Automation and Scheduling
+
+- Earlier: 2021-05-13 · Notion · [[Changes/Notion/2021-05-13-automate-io-integration|Automate.io integration]]
+- Later: 2021-06-16 · Raycast · [[Changes/Raycast/2021-06-16-my-schedule-now-you-can-join-facebook-workplace-video-calls-straight-from-raycas|My Schedule: Now you can join Facebook Workplace video calls straight from Raycast]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change gain, with volume automation]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20raycast-2021-06-03-ed40db&body=Card%3A%20Changes%2FRaycast%2F2021-06-03-my-schedule-added-an-action-to-copy-the-conference-link-of-an-event-in-case-you.md%0ACard%20ID%3A%20raycast-2021-06-03-ed40db%0ASource%3A%20https%3A%2F%2Fwww.raycast.com%2Fchangelog%2Fmacos-v1%2F1-17-0%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

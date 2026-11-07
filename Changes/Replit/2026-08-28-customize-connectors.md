@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: f4ba10749fb7e91eadaff88099e2fcde962551ad845331a5c212d4ffaef27d86
+machine_hash: ef4fc900be4a34f0e3a6fce529d6fbee363d6c4923119bad6bbf61c0c7499fa7
 product: replit
 product_name: Replit
 record:
@@ -89,7 +89,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-08-28 · Qoder · [[Changes/Qoder/2026-08-28-added-enterprise-policy-controls-for-extensions-and-mcp-servers|Added enterprise policy controls for extensions and MCP servers]]
-- Later: 2026-08-28 · v0 · [[Changes/v0/2026-08-28-2-apps-and-integrations-changes-in-gpt-5-6-sol-sign-in-inside-previews|2 Apps and Integrations changes in GPT-5.6 Sol, sign-in inside previews…]]
+- Later: 2026-08-28 · Superwhisper · [[Changes/Superwhisper/2026-08-28-windows-context-menu-integration-open-with-and-show-more-options-transcribe-with|Windows context menu integration "Open with..." and Show more options…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

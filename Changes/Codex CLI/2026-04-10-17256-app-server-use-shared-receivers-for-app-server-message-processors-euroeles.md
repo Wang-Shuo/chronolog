@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d9c74fefbc4873ead77ff1d3b498fd19c28ac2878bfffeba6329e923b9743c46
+machine_hash: 8764f9fba7d3700734836bcf2f105dc3e8f1fe323e48fb389e36372a7903c74a
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -95,7 +95,7 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2026-04-10 · Claude Code · [[Changes/Claude Code/2026-04-10-added-team-onboarding-command-to-generate-a-teammate-ramp-up-guide-from-your-loc|Added /team-onboarding command to generate a teammate ramp-up guide…]]
-- Later: 2026-04-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-13-2-collaboration-changes-in-v1-0-25|2 Collaboration changes in v1.0.25]]
+- Later: 2026-04-10 · Raycast · [[Changes/Raycast/2026-04-10-my-schedule-meetings-should-now-be-opened-in-the-native-application-if-available|My Schedule: Meetings should now be opened in the native application if available…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

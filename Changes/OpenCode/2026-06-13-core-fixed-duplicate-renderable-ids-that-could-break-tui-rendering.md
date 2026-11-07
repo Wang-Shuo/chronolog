@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a85e53a4453e99c6d9b4dcfebe09f6cfaaa127aae362cfecb9fc96326f5eed9a
+machine_hash: 5b0a0add30e8f97d833c2437028a6727b04f81a6df85c51ba21f8f890f46232b
 product: opencode
 product_name: OpenCode
 record:
@@ -43,10 +43,10 @@ record:
   title: Core Fixed duplicate renderable IDs that could break TUI rendering
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-12-added-wheelscrollaccelerationenabled-setting-to-disable-mouse-wheel-scroll-accel|Added
-  wheelScrollAccelerationEnabled setting to disable mouse-wheel scroll…]]'
-- '[[Changes/Kimi Code/2026-06-12-wrap-long-command-and-skill-descriptions-in-the-autocomplete-menu-onto-a-second|Wrap
-  long command and skill descriptions in the autocomplete menu onto a second line…]]'
+- '[[Changes/Raycast/2026-06-12-focus-toggle-focus-session-starts-or-stops-focusing-with-a-single-command-useful|Focus:
+  Toggle Focus Session starts or stops focusing with a single command, useful…]]'
+- '[[Changes/Raycast/2026-06-12-9-interface-experience-changes-in-raycast-macos-0-64|9
+  Interface Experience changes in Raycast macos 0.64]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-13-3-interface-experience-changes-in-v1-0-62|3
   Interface Experience changes in v1.0.62]]'
 source_release: '[[Releases/OpenCode/opencode-2026-06-13-v1-17-6-50d6a123|opencode-2026-06-13-v1-17-6-50d6a123]]'

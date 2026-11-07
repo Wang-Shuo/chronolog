@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 0fcaab8b7acad1ee2d08cae35edd50ff39f955c986cb7171a49c5f80908db3ab
+machine_hash: 8aa6dd77bc0f9817f64aee459d1819575d98adc64c98674d2f29c32414bfd0d2
 product: ollama
 product_name: Ollama
 record:
@@ -43,12 +43,11 @@ record:
   title: 'mlx: refined model push behavior'
   type: change
 related_changes:
-- '[[Changes/Dify/2026-05-12-2-model-support-changes-in-1-14-1|2 Model Support changes
-  in 1.14.1]]'
 - '[[Changes/Gemini CLI/2026-05-12-5-model-support-changes-in-v0-42-0|5 Model Support
   changes in v0.42.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-12-display-a-warning-when-the-cli-version-is-deprecated-and-premium-model-access-ma|Display
   a warning when the CLI version is deprecated and premium model access may be lost]]'
+- '[[Changes/Krea/2026-05-12-krea-2-is-here|Krea 2 is here]]'
 source_release: '[[Releases/Ollama/ollama-2026-05-12-v0-23-3-github-320784974-5cc13ed3|ollama-2026-05-12-v0-23-3-github-320784974-5cc13ed3]]'
 source_type: github_releases
 theme: model-support
@@ -78,7 +77,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-05-12 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-12-display-a-warning-when-the-cli-version-is-deprecated-and-premium-model-access-ma|Display a warning when the CLI version is deprecated and premium model access may be lost]]
+- Earlier: 2026-05-12 · Krea · [[Changes/Krea/2026-05-12-krea-2-is-here|Krea 2 is here]]
 - Later: 2026-05-13 · Cline · [[Changes/Cline/2026-05-13-enable-openrouter-prompt-cache-control-for-qwen-models|Enable OpenRouter prompt cache control for Qwen models]]
 <!-- chronolog:end -->
 

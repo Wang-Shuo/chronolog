@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0e0bce69853782411865a3ecb1af9482775678e2977893d8fe67d20f772402de
+machine_hash: 91d7e2b393ce9b6b0d55482794741b6c1c1acdbb87ea3f90075b7317007b0c7d
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,11 +51,12 @@ record:
   title: Improved plugin loading performance in remote sessions
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-06-15-packages|Packages]]'
 - '[[Changes/Kimi Code/2026-06-15-3-apps-and-integrations-changes-in-kimi-code-0-15-0|3
   Apps and Integrations changes in Kimi Code 0.15.0]]'
 - '[[Changes/Lovable/2026-06-15-app-connectors-aws-athena-and-replicate|App connectors:
   AWS Athena and Replicate]]'
+- '[[Changes/AnythingLLM/2026-06-16-2-apps-and-integrations-changes-in-v1-14-1|2 Apps
+  and Integrations changes in v1.14.1]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-16-v2-1-179-github-340316177-39d47b3e|claude-code-2026-06-16-v2-1-179-github-340316177-39d47b3e]]'
 source_type: github_releases
 theme: apps-integrations
@@ -82,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-06-15 · Lovable · [[Changes/Lovable/2026-06-15-app-connectors-aws-athena-and-replicate|App connectors: AWS Athena and Replicate]]
+- Earlier: 2026-06-16 · AnythingLLM · [[Changes/AnythingLLM/2026-06-16-2-apps-and-integrations-changes-in-v1-14-1|2 Apps and Integrations changes in v1.14.1]]
 - Later: 2026-06-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-16-2-apps-and-integrations-changes-in-v1-0-63|2 Apps and Integrations changes in v1.0.63]]
 <!-- chronolog:end -->
 

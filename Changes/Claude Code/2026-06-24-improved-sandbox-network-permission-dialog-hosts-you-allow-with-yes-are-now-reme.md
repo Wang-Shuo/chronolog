@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b21ee8bfe0aacba3a0b556b97853dd0d90dbeee40bdfa7f86dfac308773ad343
+machine_hash: 8dafddc2319171c043b81f2a5c4a57a03593626d060e7c6b47ed795d141cd286
 product: claude-code
 product_name: Claude Code
 record:
@@ -86,7 +86,7 @@ type: change
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-06-23 · Lovable · [[Changes/Lovable/2026-06-23-restrict-external-collaborators-without-enforcing-sso|Restrict external collaborators without enforcing SSO]]
-- Later: 2026-06-24 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-24-commands-with-slash-prefixed-string-arguments-e-g-body-azp-run-no-longer-trigger|Commands with slash-prefixed string arguments (e.g. --body "/azp run") no longer…]]
+- Later: 2026-06-24 · Devin · [[Changes/Devin/2026-06-24-security-findings-in-ask-devin|Security Findings in Ask Devin]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

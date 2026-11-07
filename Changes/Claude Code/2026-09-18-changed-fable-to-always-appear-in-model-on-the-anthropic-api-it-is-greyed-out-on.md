@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 8762db45fe632c16be70ce6757dba93df0ca07420af0b22b57b5b0452863f93c
+machine_hash: 73f82b1c8e124a2987dee1771e861a2486b9c7fe372be07f23486ec3d412de4b
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
   title: Changed Fable to always appear in `/model` on the Anthropic API
   type: change
 related_changes:
-- '[[Changes/Descript/2026-09-17-a-better-center-active-speaker|A better center active
-  speaker]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-17-expanded-reasoning-text-in-the-compact-timeline-is-no-longer-dimmed-so-it-is-as|Expanded
   reasoning text in the compact timeline is no longer dimmed, so it…]]'
 - '[[Changes/OpenHands/2026-09-17-test-isolate-mock-llm-profiles-from-ambient-secrets-by-neubig-in-https-github-co|test:
   isolate Mock-LLM profiles from ambient secrets]]'
+- '[[Changes/Wispr Flow/2026-09-17-meet-canto-our-first-speech-model-all-platforms|Meet
+  Canto, our first speech model (All platforms)]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-18-v2-1-277-github-391616593-06a20f36|claude-code-2026-09-18-v2-1-277-github-391616593-06a20f36]]'
 source_type: github_releases
 theme: model-support
@@ -89,7 +89,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-09-17 · OpenHands · [[Changes/OpenHands/2026-09-17-test-isolate-mock-llm-profiles-from-ambient-secrets-by-neubig-in-https-github-co|test: isolate Mock-LLM profiles from ambient secrets]]
+- Earlier: 2026-09-17 · Wispr Flow · [[Changes/Wispr Flow/2026-09-17-meet-canto-our-first-speech-model-all-platforms|Meet Canto, our first speech model (All platforms)]]
 - Later: 2026-09-18 · Codex CLI · [[Changes/Codex CLI/2026-09-18-2-model-support-changes-in-rust-v0-155-1|2 Model Support changes in rust-v0.155.1]]
 <!-- chronolog:end -->
 

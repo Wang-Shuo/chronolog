@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6b307886dd570bedfc28d63c804eb561b338316380b66b7a09000926042bcc64
+machine_hash: 5b064271014f181b80fd878dae690dad90c436acf69201c14b1b734fdd8da657
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -44,8 +44,8 @@ record:
   title: 2 Model Support changes in Kimi Code 0.28.0
   type: change
 related_changes:
-- '[[Changes/Kimi Code/2026-07-17-using-an-api-key-for-kimi-coding-models-now-also-fetches-the-latest-model-list-a|Using
-  an API key for Kimi coding models now also fetches the latest model list…]]'
+- '[[Changes/Superwhisper/2026-07-17-new-model-availability-status-indicators|New
+  model availability status indicators]]'
 - '[[Changes/Codex CLI/2026-07-18-3-model-support-changes-in-rust-v0-144-6|3 Model
   Support changes in rust-v0.144.6]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-20-preserve-pasted-prompt-content-when-changing-models-through-ctrl-x-model|Preserve

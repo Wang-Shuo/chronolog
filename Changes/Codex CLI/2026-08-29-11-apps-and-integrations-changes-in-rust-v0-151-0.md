@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 35374167a5abfd5968657d2ae5ed66f25ce112583a7978452abfdce4c4f20f15
+machine_hash: a2f88df85c0c4b1f13aaa29ec2a8a6435d29166842e7d86f16ac97a9c13348ad
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -65,8 +65,9 @@ record:
   title: 11 Apps and Integrations changes in rust-v0.151.0
   type: change
 related_changes:
-- '[[Changes/Replit/2026-08-28-customize-connectors|Customize connectors]]'
 - '[[Changes/Replit/2026-08-28-integrations|Integrations]]'
+- '[[Changes/Superwhisper/2026-08-28-windows-context-menu-integration-open-with-and-show-more-options-transcribe-with|Windows
+  context menu integration "Open with..." and Show more options…]]'
 - '[[Changes/v0/2026-08-28-2-apps-and-integrations-changes-in-gpt-5-6-sol-sign-in-inside-previews|2
   Apps and Integrations changes in GPT-5.6 Sol, sign-in inside previews…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-08-29-rust-v0-151-0-github-378941035-5571827d|codex-cli-2026-08-29-rust-v0-151-0-github-378941035-5571827d]]'

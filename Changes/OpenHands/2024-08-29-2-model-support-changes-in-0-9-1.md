@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 62b3b003605d5a4188e244908444e8e4c12dba7e489c2c001cd30a434cfb305f
+machine_hash: 5ea9349379a4037cbef1eb3473fa0a7578a17e8911abc7e6231b60736b13ceae
 product: openhands
 product_name: OpenHands
 record:
@@ -83,7 +83,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/0.9.1
 ## Nearby in Model Support
 
 - Earlier: 2024-08-28 · Aider · [[Changes/Aider/2024-08-28-4-model-support-changes-in-v0-54-0|4 Model Support changes in v0.54.0]]
-- Later: 2024-08-31 · Ollama · [[Changes/Ollama/2024-08-31-ollama-will-now-show-an-improved-error-message-when-attempting-to-run-unsupporte|Ollama will now show an improved error message when attempting to run unsupported models]]
+- Later: 2024-08-30 · Superwhisper · [[Changes/Superwhisper/2024-08-30-utility-to-download-model-if-not-installed-prompt-on-recording-start|Utility to download model if not installed prompt on recording start]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

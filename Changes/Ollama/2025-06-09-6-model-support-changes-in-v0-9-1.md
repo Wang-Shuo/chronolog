@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: daa6e0deb3900048394a0ab70491de654c3fd231f7dd194ae2af27479a3a0d44
+machine_hash: 8b66fae332702175fb1731ed247bc56ea2d1fe38e1f24b3ae6a09dc0b4abec68
 product: ollama
 product_name: Ollama
 record:
@@ -102,7 +102,7 @@ Source: https://github.com/ollama/ollama/releases/tag/v0.9.1
 ## Nearby in Model Support
 
 - Earlier: 2025-06-09 · Manus · [[Changes/Manus/2025-06-09-veo3-allows-for-that-extra-visual-finesse-in-comparison-to-our-default-model-the|Veo3 allows for that extra visual finesse in comparison to our default model]]
-- Later: 2025-06-10 · ChatGPT · [[Changes/ChatGPT/2025-06-10-like-o1-pro-o3-pro-is-a-version-of-our-most-intelligent-model-o3-designed-to-thi-32668a|ChatGPT launches OpenAI o3-pro—available now for Pro users and in our API]]
+- Later: 2025-06-09 · Superwhisper · [[Changes/Superwhisper/2025-06-09-custom-model-segment-fixes|Custom Model & Segment Fixes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

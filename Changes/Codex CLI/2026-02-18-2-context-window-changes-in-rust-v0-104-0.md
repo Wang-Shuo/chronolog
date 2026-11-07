@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3a0870d47730abfe8bf32ec444f97248c4ac68eec202cb5578afa7baa6fe8e64
+machine_hash: 82edc27e56b73145ebdd05d74159d7d9114304fd7b5d528ed65c2f154145e3ed
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,12 +44,12 @@ record:
   title: 2 Context Window changes in rust-v0.104.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-02-17-4-context-window-changes-in-rust-v0-102-0|4 Context
-  Window changes in rust-v0.102.0]]'
 - '[[Changes/Cursor/2026-02-17-agents-can-now-search-past-conversations-and-use-chat-history-as-context|Agents
   can now search past conversations and use chat history as context]]'
 - "[[Changes/Open WebUI/2026-02-17-image-and-file-attachment-handling-fixes-uploaded-images-are-now-correctly-sent|\U0001F5BC️
   Image and file attachment handling fixes. Uploaded images are now correctly…]]"
+- '[[Changes/AnythingLLM/2026-02-18-2-context-window-changes-in-v1-11-0|2 Context
+  Window changes in v1.11.0]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-02-18-rust-v0-104-0-github-287549221-f2e69b34|codex-cli-2026-02-18-rust-v0-104-0-github-287549221-f2e69b34]]'
 source_type: github_releases
 theme: context-window
@@ -85,7 +85,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.104.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-02-17 · Open WebUI · [[Changes/Open WebUI/2026-02-17-image-and-file-attachment-handling-fixes-uploaded-images-are-now-correctly-sent|🖼️ Image and file attachment handling fixes. Uploaded images are now correctly…]]
+- Earlier: 2026-02-18 · AnythingLLM · [[Changes/AnythingLLM/2026-02-18-2-context-window-changes-in-v1-11-0|2 Context Window changes in v1.11.0]]
 - Later: 2026-02-18 · Cursor · [[Changes/Cursor/2026-02-18-cli-now-stores-conversation-transcripts-that-the-agent-can-use-as-context|CLI now stores conversation transcripts that the agent can use as context]]
 <!-- chronolog:end -->
 

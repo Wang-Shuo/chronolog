@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8953e4f344fce8c12906064834e1f8c5feb891cc88f9053bbcdc8dfb1728b34f
+machine_hash: e4350f1ae4af98c77b283f7baba4acb1833f04215d41cd0f644d62a45d562fb9
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -41,9 +41,9 @@ record:
   title: 2 Editor Experience changes in v0.1.8
   type: change
 related_changes:
-- '[[Changes/Descript/2025-06-25-new-in-the-editor|New in the editor]]'
 - '[[Changes/Descript/2025-06-26-there-s-also-a-new-dropdown-view-menu-in-the-upper-lefthand-side-of-the-screen-r|There’s
   also a new dropdown View menu in the upper lefthand side of the screen…]]'
+- '[[Changes/Devin/2025-06-26-git-permissions-ui|Git Permissions UI]]'
 - '[[Changes/Aider/2025-06-27-improved-github-copilot-token-handling-with-better-validation-and-error-messages|Improved
   GitHub Copilot token handling with better validation and error messages…]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-07-01-v0-1-8-github-229252035-f46324ec|gemini-cli-2025-07-01-v0-1-8-github-229252035-f46324ec]]'

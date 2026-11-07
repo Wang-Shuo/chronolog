@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0cd72cb25764e208f1c508742e7de08edcfc2fa2d77af24ca983b55eba42fef9
+machine_hash: d9e735d6309c19fe9721864586e11b3abd27ac70e52632bd521304360764eb53
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,9 +47,10 @@ record:
   title: 2 Agent Mode changes in v2.1.304
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-10-16-canvases-from-cloud-agents|Canvases from cloud agents]]'
-- '[[Changes/OpenClaw/2026-10-16-2-agent-mode-changes-in-v2026-10-4|2 Agent Mode changes
-  in v2026.10.4]]'
+- '[[Changes/Raycast/2026-10-16-ai-chat-agents-you-turn-off-in-settings-no-longer-appear-in-the-composer|AI
+  Chat : Agents you turn off in Settings no longer appear in the composer]]'
+- '[[Changes/Raycast/2026-10-16-ai-chat-agents-you-turn-off-in-settings-no-longer-appear-in-the-composer-f2436c|AI
+  Chat : Agents you turn off in Settings no longer appear in the composer]]'
 - '[[Changes/OpenClaw/2026-10-18-2-agent-mode-changes-in-v2026-10-5|2 Agent Mode changes
   in v2026.10.5]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-19-v2-1-304-github-417677344-46c4d994|claude-code-2026-10-19-v2-1-304-github-417677344-46c4d994]]'

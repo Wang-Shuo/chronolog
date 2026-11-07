@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5fd8528642228d3660c00be8c7d70edda6a14a1155137bb64f1f9575e5048749
+machine_hash: a59729432ad1f0b319aa2dbc6947ed8da963312ddfba0a049d215d46d95ee1b3
 product: descript
 product_name: Descript
 record:
@@ -43,7 +43,8 @@ record:
   title: Download your published video directly from the Editor in the Publish modal
   type: change
 related_changes:
-- '[[Changes/Notion/2022-12-15-dependencies|Dependencies]]'
+- '[[Changes/Raycast/2022-12-15-system-settings-are-now-grouped-separately-from-applications-under-the-extension|System
+  Settings are now grouped separately from Applications under the Extensions…]]'
 - '[[Changes/Synthesia/2023-01-24-we-ve-given-our-video-editor-a-complete-redesign-not-only-does-it-look-great-but|Synthesia
   STUDIO got a fresh new look!]]'
 - '[[Changes/Notion/2023-02-09-better-notifications|Better notifications]]'

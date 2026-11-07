@@ -14,12 +14,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4570e02f9ffeef1413411f186ceefca545e3f4ef7025fe06abe971779388c887
+machine_hash: 2f6916b28bf64b30cc6254b855f8a8c545d83c688a2aabeaaccbbba13e899aa4
 product: openclaw
 product_name: OpenClaw
 record:
@@ -55,8 +55,8 @@ record:
   title: 2 Account and Access changes in v2026.8.2
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2026-08-31-disconnect-oauth-only-where-there-is-oauth-the-disconnect-control-on-a-tool-serv|\U0001F50C
-  Disconnect OAuth only where there is OAuth. The disconnect control on a tool…]]"
+- '[[Changes/Raycast/2026-08-31-mcp-support-for-servers-that-use-https-redirects-during-oauth|MCP
+  : Support for servers that use HTTPS redirects during OAuth]]'
 - '[[Changes/Claude Code/2026-09-01-2-account-and-access-changes-in-v2-1-257|2 Account
   and Access changes in v2.1.257]]'
 - '[[Changes/Codex CLI/2026-09-01-2-account-and-access-changes-in-rust-v0-152-0|2

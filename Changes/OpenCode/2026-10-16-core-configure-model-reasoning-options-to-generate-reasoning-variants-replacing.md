@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 1fb06ec6007d9a82b7b6208d4fc523470bc0802a0b66088960b579c906de3f44
+machine_hash: aaadbc55d5542e8efd777d920011d1af1000d8725a6a2c21c7b3eb6e7f5a3ea8
 product: opencode
 product_name: OpenCode
 record:
@@ -46,8 +46,8 @@ record:
   title: Core Configure model reasoning options to generate reasoning variants, replacing…
   type: change
 related_changes:
-- '[[Changes/Cline/2026-10-16-4-model-support-changes-in-v4-1-25|4 Model Support changes
-  in v4.1.25]]'
+- '[[Changes/Krea/2026-10-16-krea-3-is-the-default-image-model|Krea 3 is the default
+  image model]]'
 - '[[Changes/Open WebUI/2026-10-16-3-model-support-changes-in-v0-12-3|3 Model Support
   changes in v0.12.3]]'
 - '[[Changes/OpenClaw/2026-10-16-openai-reasoning-with-tools-fixed-tool-call-failures-and-reasoning-being-switche|OpenAI
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-10-16 · OpenClaw · [[Changes/OpenClaw/2026-10-16-openai-reasoning-with-tools-fixed-tool-call-failures-and-reasoning-being-switche|OpenAI reasoning with tools]]
-- Later: 2026-10-16 · Replit · [[Changes/Replit/2026-10-16-claude-haiku-5-5-in-the-model-selector|Claude Haiku 5.5 in the model selector]]
+- Later: 2026-10-16 · Raycast · [[Changes/Raycast/2026-10-16-ai-chat-images-you-attach-when-using-local-models-now-stay-on-your-device-when-c|AI Chat : Images you attach when using local models now stay on your device…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

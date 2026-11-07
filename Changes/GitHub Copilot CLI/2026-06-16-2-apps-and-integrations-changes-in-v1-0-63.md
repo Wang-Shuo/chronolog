@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6feda85b28bc4c189fab3f9395c90f6144fddb086e5bdfc61e3e9a2d177a9d51
+machine_hash: 2e77eff9084fc0f62fb1f8acfacc7ae32fb92ab839137d14c43f9d8425060835
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,10 +43,10 @@ record:
   title: 2 Apps and Integrations changes in v1.0.63
   type: change
 related_changes:
-- '[[Changes/Kimi Code/2026-06-15-3-apps-and-integrations-changes-in-kimi-code-0-15-0|3
-  Apps and Integrations changes in Kimi Code 0.15.0]]'
 - '[[Changes/Lovable/2026-06-15-app-connectors-aws-athena-and-replicate|App connectors:
   AWS Athena and Replicate]]'
+- '[[Changes/AnythingLLM/2026-06-16-2-apps-and-integrations-changes-in-v1-14-1|2 Apps
+  and Integrations changes in v1.14.1]]'
 - '[[Changes/Claude Code/2026-06-16-improved-plugin-loading-performance-in-remote-sessions|Improved
   plugin loading performance in remote sessions]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-06-16-v1-0-63-github-339856552-a4891c49|github-copilot-cli-2026-06-16-v1-0-63-github-339856552-a4891c49]]'

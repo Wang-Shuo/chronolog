@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4db94909a5a47870134f8cba72906d85a0c49dc5feb12cf809997788646b8886
+machine_hash: 79ab3d4a640957ca3a21140e7dfc1457105def016c065acf3024a49fd66a7de4
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -118,12 +118,12 @@ record:
   title: 37 Apps and Integrations changes in rust-v0.128.0
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-04-29-we-re-introducing-the-cursor-sdk-so-you-can-build-agents-with-the-same-runtime-h|Cursor
-  introduces the Cursor SDK so you can build agents with the same runtime…]]'
-- '[[Changes/Cursor/2026-04-29-run-npm-install-cursor-sdk-to-get-started-you-can-also-use-cursor-s-native-sdk-s-76fb76|Run
-  npm install @cursor/sdk to get started]]'
+- '[[Changes/Devin/2026-04-29-slack-trigger-message-in-sessions-list|Slack Trigger
+  Message in Sessions List]]'
 - '[[Changes/Dify/2026-04-29-48-apps-and-integrations-changes-in-1-14-0|48 Apps and
   Integrations changes in 1.14.0]]'
+- '[[Changes/Superwhisper/2026-04-29-activation-apps-ui-and-indexing-overhaul|Activation
+  Apps UI and indexing overhaul]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-04-30-rust-v0-128-0-github-315916672-1708ab89|codex-cli-2026-04-30-rust-v0-128-0-github-315916672-1708ab89]]'
 source_type: github_releases
 theme: apps-integrations
@@ -238,8 +238,8 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.128.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-04-29 · Dify · [[Changes/Dify/2026-04-29-48-apps-and-integrations-changes-in-1-14-0|48 Apps and Integrations changes in 1.14.0]]
-- Later: 2026-05-01 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-01-6-apps-and-integrations-changes-in-v1-0-40|6 Apps and Integrations changes in v1.0.40]]
+- Earlier: 2026-04-29 · Superwhisper · [[Changes/Superwhisper/2026-04-29-activation-apps-ui-and-indexing-overhaul|Activation Apps UI and indexing overhaul]]
+- Later: 2026-05-01 · Devin · [[Changes/Devin/2026-05-01-session-origin-in-api|Session Origin in API]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 037f957b21295aa19cae544276e340966f8a2c17bca225bb6c702eb18972cbcb
+machine_hash: 64ce09cea6dd8e927a4cddc07220e15628bd5a7d0810e8b44f62f9374c9287c0
 product: replit
 product_name: Replit
 record:
@@ -58,10 +58,10 @@ record:
   title: 'Design Mode: Create stunning websites in under 2 minutes'
   type: change
 related_changes:
-- '[[Changes/Descript/2025-11-21-gemini-3-now-available-in-underlord|Gemini 3 now
-  available in Underlord]]'
 - '[[Changes/ElevenLabs/2025-11-21-python-sdk|Python SDK]]'
 - '[[Changes/ElevenLabs/2025-11-21-javascript-sdk|JavaScript SDK]]'
+- '[[Changes/Recraft/2025-11-21-we-ve-added-a-new-external-model-nano-banana-pro-available-to-paid-subscribers-o|Recraft
+  adds a new external model — Nano Banana Pro]]'
 source_release: '[[Releases/Replit/replit-2025-11-21-2025-11-21-d3d6b6ca|replit-2025-11-21-2025-11-21-d3d6b6ca]]'
 source_type: replit_changelog
 theme: model-support
@@ -98,7 +98,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-11-21 · ElevenLabs · [[Changes/ElevenLabs/2025-11-21-javascript-sdk|JavaScript SDK]]
+- Earlier: 2025-11-21 · Recraft · [[Changes/Recraft/2025-11-21-we-ve-added-a-new-external-model-nano-banana-pro-available-to-paid-subscribers-o|Recraft adds a new external model — Nano Banana Pro]]
 - Later: 2025-11-21 · Windsurf · [[Changes/Windsurf/2025-11-21-sonnet-4-5|Sonnet 4.5]]
 <!-- chronolog:end -->
 

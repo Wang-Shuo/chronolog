@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: d48e87c56566e2984100a968379e3c35d597a0a391c92efd36a40cbc37088f7b
+machine_hash: 2db27fe03a712e11398ae95e51bc3fbe1b5bbe3ae04d4426768824dfd048f8bb
 product: descript
 product_name: Descript
 record:
@@ -44,8 +44,8 @@ record:
   title: How to find it
   type: change
 related_changes:
-- '[[Changes/Dify/2026-11-04-2-interface-experience-changes-in-1-19-0|2 Interface
-  Experience changes in 1.19.0]]'
+- '[[Changes/Superwhisper/2026-11-05-2-interface-experience-changes-in-superwhisper-macos-3-2-0|2
+  Interface Experience changes in Superwhisper macOS 3.2.0]]'
 - '[[Changes/Codex CLI/2026-11-06-13-interface-experience-changes-in-rust-v0-167-0|13
   Interface Experience changes in rust-v0.167.0]]'
 - '[[Changes/Descript/2026-11-06-get-a-deleted-project-back|Get a deleted project

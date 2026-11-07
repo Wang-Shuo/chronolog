@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 3c0537c1954cdc9606364afca139f533bc2bf6ced128d3a3f95c8b0527fe8e7f
+machine_hash: 354f1c713a1f04bbcd5411b3af3c6bc803c01ef8e89718660ff8cff13834ee5a
 product: ollama
 product_name: Ollama
 record:
@@ -55,8 +55,8 @@ record:
   title: Ollama will now ensure context compaction occurs at the correct context length…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-11-status-line-context-window-percentage-no-longer-inflates-across-turns-by-using-t|Status
-  line context window percentage no longer inflates across turns by using…]]'
+- '[[Changes/Superwhisper/2026-03-12-added-mode-activation-to-mode-card-context-menu|Added
+  mode activation to mode card context menu]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-13-add-precompact-hook-to-run-commands-before-context-compaction-starts|Add
   preCompact hook to run commands before context compaction starts]]'
 - '[[Changes/Claude Code/2026-03-14-added-postcompact-hook-that-fires-after-compaction-completes|Added

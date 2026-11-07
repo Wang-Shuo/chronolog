@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e94e41f1502667bb00abaa6eb49909f05cb3c3cc3db4eb4bfe2657564daf3562
+machine_hash: 864476a3d219cb3b965cad138d8bb6425331005db7b074754f6fc924fe2452be
 product: dify
 product_name: Dify
 record:
@@ -86,7 +86,7 @@ Source: https://github.com/langgenius/dify/releases/tag/0.6.16
 ## Nearby in Developer Workflow
 
 - Earlier: 2024-08-01 · OpenHands · [[Changes/OpenHands/2024-08-01-4-developer-workflow-changes-in-0-8-3|4 Developer Workflow changes in 0.8.3]]
-- Later: 2024-08-10 · Aider · [[Changes/Aider/2024-08-10-5-developer-workflow-changes-in-v0-49-0|5 Developer Workflow changes in v0.49.0]]
+- Later: 2024-08-08 · AnythingLLM · [[Changes/AnythingLLM/2024-08-08-multiple-slash-command-expansion-in-prompts-by-shatfield4|Multiple /slash command expansion in prompts by @shatfield4]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

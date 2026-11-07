@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5134c14763937f8f4c4b4a386c177da8b630cfa3e7ba3d5aa0771f6d3f078f98
+machine_hash: 9fb6a5118814825dd21e06b83f1f38429fb2278eab1cddea8115fcdeeec78fc1
 product: openclaw
 product_name: OpenClaw
 record:
@@ -46,12 +46,12 @@ record:
   title: 2 Developer Workflow changes in v2026.10.8
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-10-26-2-developer-workflow-changes-in-v3-11-228|2 Developer
-  Workflow changes in v3.11.228]]'
 - '[[Changes/Codex CLI/2026-10-27-3-developer-workflow-changes-in-rust-v0-165-0|3
   Developer Workflow changes in rust-v0.165.0]]'
 - '[[Changes/Google Antigravity/2026-10-27-long-commands-in-the-background-command-view-are-now-syntax-highlighted-and-coll|Long
   commands in the background command view are now syntax highlighted…]]'
+- '[[Changes/Krea/2026-10-27-api-errors-and-concurrency-limits|API errors and concurrency
+  limits]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-10-27-v2026-10-8-9d674f40|openclaw-2026-10-27-v2026-10-8-9d674f40]]'
 source_type: openclaw_changelog
 theme: developer-workflow
@@ -97,7 +97,7 @@ Source: https://docs.openclaw.ai/releases/2026.10.8
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-10-27 · Google Antigravity · [[Changes/Google Antigravity/2026-10-27-long-commands-in-the-background-command-view-are-now-syntax-highlighted-and-coll|Long commands in the background command view are now syntax highlighted…]]
+- Earlier: 2026-10-27 · Krea · [[Changes/Krea/2026-10-27-api-errors-and-concurrency-limits|API errors and concurrency limits]]
 - Later: 2026-10-27 · OpenCode · [[Changes/OpenCode/2026-10-27-13-developer-workflow-changes-in-v2-2-0|13 Developer Workflow changes in v2.2.0]]
 <!-- chronolog:end -->
 

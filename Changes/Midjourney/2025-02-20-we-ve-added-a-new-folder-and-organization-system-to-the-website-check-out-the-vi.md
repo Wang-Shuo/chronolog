@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 888535b8a6c33c3039b8ff4f4eea67075dbfe7fb29d9ecc20cf90ced51574b5b
+machine_hash: 2f56e141af65800fbca4153fe740acdfd5563603ac2b7373b5dd42c3feb8c281
 product: midjourney
 product_name: Midjourney
 record:
@@ -62,11 +62,11 @@ record:
   title: Midjourney adds a new folder and organization system to the website
   type: change
 related_changes:
-- '[[Changes/Dify/2024-12-16-feat-add-grok-2-1212-and-grok-2-vision-1212-by-hjlarry-in-https-github-com-langg|feat:
-  add grok-2-1212 and grok-2-vision-1212]]'
 - '[[Changes/Descript/2025-02-11-eye-contact|Eye contact]]'
 - '[[Changes/Descript/2025-02-11-improvements-to-working-with-scenes-and-layouts|Improvements
   to working with Scenes and Layouts]]'
+- '[[Changes/AnythingLLM/2025-02-18-this-is-ocr-not-vision-so-if-the-content-has-no-text-nothing-will-be-found|this
+  is OCR, not "vision" so if the content has no text - nothing will be found!]]'
 source_release: '[[Releases/Midjourney/midjourney-2025-02-20-https-updates-midjourney-com-new-tools-for-organization-e18c4a31|midjourney-2025-02-20-https-updates-midjourney-com-new-tools-for-organization-e18c4a31]]'
 source_type: midjourney_changelog
 theme: multimodal
@@ -107,7 +107,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Multimodal Input
 
-- Earlier: 2025-02-11 · Descript · [[Changes/Descript/2025-02-11-improvements-to-working-with-scenes-and-layouts|Improvements to working with Scenes and Layouts]]
+- Earlier: 2025-02-18 · AnythingLLM · [[Changes/AnythingLLM/2025-02-18-this-is-ocr-not-vision-so-if-the-content-has-no-text-nothing-will-be-found|this is OCR, not "vision" so if the content has no text - nothing will be found!]]
 - Later: 2025-02-26 · Descript · [[Changes/Descript/2025-02-26-welcome-to-descript-season-8-which-is-focused-on-features-that-make-you-look-goo|Welcome to Descript Season 8 - which is focused on features that make you look good…]]
 <!-- chronolog:end -->
 

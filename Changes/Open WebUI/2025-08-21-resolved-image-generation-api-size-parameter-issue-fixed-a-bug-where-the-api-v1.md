@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0e25a61b55ae6209953540a68d3876450690e2f5664a7d8e919087e5068ae82a
+machine_hash: a6f43fd5ef54501db7fce1500cfe689771330f82da281023290eb4789ae04b3c
 product: open-webui
 product_name: Open WebUI
 record:
@@ -51,12 +51,12 @@ record:
   title: "\U0001F5BC️ **Resolved Image Generation API Size Parameter Issue**"
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-08-08-we-re-rolling-out-a-small-update-to-image-generation-for-chatgpt-free-tier-users|Image
-  generation update to ChatGPT Free]]'
 - '[[Changes/Replit/2025-08-08-image-generation-full-rollout|Image generation full
   rollout]]'
 - '[[Changes/ChatGPT/2025-08-18-more-messages-larger-file-uploads-and-expanded-image-generation|More
   messages, larger file uploads, and expanded image generation]]'
+- '[[Changes/Recraft/2025-08-20-ever-wanted-to-just-describe-what-you-want-instead-of-scrolling-through-a-list-o|Ever
+  wanted to just describe what you want instead of scrolling through a list…]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-08-21-v0-6-23-github-241603918-5e4a7f46|open-webui-2025-08-21-v0-6-23-github-241603918-5e4a7f46]]'
 source_type: github_releases
 theme: image-generation
@@ -99,7 +99,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Image Generation
 
-- Earlier: 2025-08-18 · ChatGPT · [[Changes/ChatGPT/2025-08-18-more-messages-larger-file-uploads-and-expanded-image-generation|More messages, larger file uploads, and expanded image generation]]
+- Earlier: 2025-08-20 · Recraft · [[Changes/Recraft/2025-08-20-ever-wanted-to-just-describe-what-you-want-instead-of-scrolling-through-a-list-o|Ever wanted to just describe what you want instead of scrolling through a list…]]
 - Later: 2025-08-22 · Open WebUI · [[Changes/Open WebUI/2025-08-22-comfyui-image-generation-restored-fixed-a-critical-bug-where-comfyui-based-image|🖼️ ComfyUI Image Generation Restored]]
 <!-- chronolog:end -->
 

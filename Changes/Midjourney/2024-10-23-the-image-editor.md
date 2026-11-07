@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 33b5aa7639cac7beaa0cc314840eb0d2341f44b978d31b5e0e4afbacd1b89fed
+machine_hash: 7c845a50532da909ce54786fd110bf62617a202befb2b3ef8a8584d400201010
 product: midjourney
 product_name: Midjourney
 record:
@@ -116,7 +116,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2024-10-23 · Descript · [[Changes/Descript/2024-10-23-editor-updates|Editor updates]]
-- Later: 2024-11-04 · Aider · [[Changes/Aider/2024-11-04-run-aider-apply-clipboard-edits-file-to-edit-js|Run aider --apply-clipboard-edits file-to-edit.js]]
+- Later: 2024-11-01 · Devin · [[Changes/Devin/2024-11-01-repo-knowledge|Repo knowledge]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

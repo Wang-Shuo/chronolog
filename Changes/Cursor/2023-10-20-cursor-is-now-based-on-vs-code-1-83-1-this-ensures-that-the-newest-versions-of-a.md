@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ea4824d39d8dbc5b21733b8dac285299cbde191e776899a5539915b3ed61ee25
+machine_hash: a8f5bda584037a7e4bfd8d9a7b194dfacfd29f84cfae28015f2d8653f9a5dd46
 product: cursor
 product_name: Cursor
 record:
@@ -47,12 +47,12 @@ record:
   title: Cursor is now based on VS Code 1.83.1
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-09-11-we-serve-extensions-now-using-cursor-s-extension-marketplace|Cursor
-  Marketplace]]'
 - '[[Changes/Cursor/2023-09-17-we-point-to-a-different-marketplace-for-downloading-extensions-and-use-a-fork-of|Cursor
   Python and Cursor Marketplace]]'
 - '[[Changes/Gemini/2023-09-19-bard-can-now-access-helpful-information-from-google-apps-and-services|Bard
   can now access helpful information from Google apps and services]]'
+- '[[Changes/Raycast/2023-09-21-root-search-support-searching-apps-by-english-names-when-using-a-non-english-lan|Root
+  Search: Support searching apps by English names when using a non-English language]]'
 source_release: '[[Releases/Cursor/cursor-2023-10-20-0-13-0-0-13-4-https-cursor-com-changelog-0-13-0-0-13-4-5f700e1b|cursor-2023-10-20-0-13-0-0-13-4-https-cursor-com-changelog-0-13-0-0-13-4-5f700e1b]]'
 source_type: cursor_changelog
 theme: apps-integrations
@@ -81,8 +81,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2023-09-19 · Gemini · [[Changes/Gemini/2023-09-19-bard-can-now-access-helpful-information-from-google-apps-and-services|Bard can now access helpful information from Google apps and services]]
-- Later: 2023-11-06 · ChatGPT · [[Changes/ChatGPT/2023-11-06-you-can-now-create-custom-versions-of-chatgpt-that-combine-instructions-extra-kn-5c0997|Introducing GPTs]]
+- Earlier: 2023-09-21 · Raycast · [[Changes/Raycast/2023-09-21-root-search-support-searching-apps-by-english-names-when-using-a-non-english-lan|Root Search: Support searching apps by English names when using a non-English language]]
+- Later: 2023-11-02 · Raycast · [[Changes/Raycast/2023-11-02-shortcuts-improvements|Shortcuts Improvements]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 994387deee23a821d791b51a1336e3d999ec4ef5d70e50f6c230f9ecc192faaa
+machine_hash: 41c4f9237b5cf2c7f117db81929ada74830ca3c3af8f30f8ed7ecde1e81e18cb
 product: midjourney
 product_name: Midjourney
 record:
@@ -48,12 +48,11 @@ record:
   title: What’s next?
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-13-the-config-dir-flag-is-now-respected-when-selecting-the-active-model|The
-  --config-dir flag is now respected when selecting the active model]]'
 - '[[Changes/Claude Code/2026-04-14-improved-model-to-warn-before-switching-models-mid-conversation-since-the-next-r|Improved
   /model to warn before switching models mid-conversation, since the next…]]'
 - '[[Changes/Cursor/2026-04-14-trigger-the-model-picker-from-anywhere-to-switch-models-without-clearing-your-pr|Trigger
   the model picker from anywhere to switch models without clearing your prompt first]]'
+- '[[Changes/Krea/2026-04-14-compare-models-side-by-side|Compare models side by side]]'
 source_release: '[[Releases/Midjourney/midjourney-2026-04-14-https-updates-midjourney-com-v8-1-alpha-7256cc41|midjourney-2026-04-14-https-updates-midjourney-com-v8-1-alpha-7256cc41]]'
 source_type: midjourney_changelog
 theme: model-support
@@ -85,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-04-14 · Cursor · [[Changes/Cursor/2026-04-14-trigger-the-model-picker-from-anywhere-to-switch-models-without-clearing-your-pr|Trigger the model picker from anywhere to switch models without clearing your prompt first]]
+- Earlier: 2026-04-14 · Krea · [[Changes/Krea/2026-04-14-compare-models-side-by-side|Compare models side by side]]
 - Later: 2026-04-15 · Codex CLI · [[Changes/Codex CLI/2026-04-15-3-model-support-changes-in-rust-v0-121-0|3 Model Support changes in rust-v0.121.0]]
 <!-- chronolog:end -->
 

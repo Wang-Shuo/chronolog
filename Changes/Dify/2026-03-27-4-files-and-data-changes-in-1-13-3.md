@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9366a8690380683af86aff337f2da54cb1a800f17b00fe8687cc407a18a735cc
+machine_hash: 687c6fda7c44424e2007a95eeef7d8b8869106a3cd766b0be3d8564ef489079f
 product: dify
 product_name: Dify
 record:
@@ -50,8 +50,8 @@ record:
   title: 4 Files and Data changes in 1.13.3
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-03-17-docs-document-planning-workflows-with-conductor-example-by-jerop-in-https-github|docs:
-  document planning workflows with Conductor example]]'
+- '[[Changes/Recraft/2026-03-19-we-ve-added-node-based-workflows-in-beta-each-step-is-a-node-connect-nodes-to-de|Beta:
+  Node-based workflows]]'
 - '[[Changes/Gemini CLI/2026-03-24-docs-document-npm-deprecation-warnings-as-safe-to-ignore-by-h30s-in-https-github|docs:
   document npm deprecation warnings as safe to ignore]]'
 - '[[Changes/Open WebUI/2026-03-25-2-files-and-data-changes-in-v0-8-11|2 Files and
@@ -105,7 +105,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.13.3
 ## Nearby in Files and Data
 
 - Earlier: 2026-03-25 · Open WebUI · [[Changes/Open WebUI/2026-03-25-2-files-and-data-changes-in-v0-8-11|2 Files and Data changes in v0.8.11]]
-- Later: 2026-04-02 · HeyGen · [[Changes/HeyGen/2026-04-02-supported-file-types-ppt-pptx-pdf-max-50mb|Supported file types: PPT, PPTX, PDF (max 50MB)]]
+- Later: 2026-04-02 · AnythingLLM · [[Changes/AnythingLLM/2026-04-02-feat-auto-select-newly-uploaded-docs-urls-in-my-documents-list-by-nehaaprasad-in|feat : auto-select newly uploaded docs/URLs in my documents list]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

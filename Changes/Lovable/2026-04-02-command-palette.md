@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 41c32c5c01950f8af626ddad1b28506b0a09f96d6946e32beb1439fc0cb38673
+machine_hash: be61195e8c929da7d85c6d3db76240b055cbffd5aa0b0e8858b46b4f8b44ac6a
 product: lovable
 product_name: Lovable
 record:
@@ -108,7 +108,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-04-02 · Cursor · [[Changes/Cursor/2026-04-02-deprecated-the-previous-worktree-and-best-of-n-selection-from-the-editor|Deprecated the previous worktree and best-of-n selection from the Editor]]
-- Later: 2026-04-03 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-03-resume-session-picker-loads-significantly-faster-especially-with-large-session-h|/resume session picker loads significantly faster, especially with large session histories]]
+- Later: 2026-04-03 · Devin · [[Changes/Devin/2026-04-03-pin-sessions|Pin Sessions]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

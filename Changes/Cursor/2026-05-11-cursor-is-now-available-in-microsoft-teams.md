@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 1e4fa59918e780e70dd8ae09b8becc85e71a2a571a1b8e03cf0405d84e64ba78
+machine_hash: c510034adb1d139b6892ae6f6b40d3903659ca98e0439e13dae08bf4a5d8c71c
 product: cursor
 product_name: Cursor
 record:
@@ -77,7 +77,7 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2026-05-09 · OpenCode · [[Changes/OpenCode/2026-05-09-core-fixed-http-api-auth-responses-to-match-the-previous-wire-format-for-empty-a|Core Fixed HTTP API auth responses to match the previous wire format for empty…]]
-- Later: 2026-05-14 · Descript · [[Changes/Descript/2026-05-14-the-descript-telethon-kicks-off-today-may-14-at-10-00-am-pt-https-www-youtube-co|The Descript Telethon kicks off today, May 14 at 10:00 AM…]]
+- Later: 2026-05-13 · Krea · [[Changes/Krea/2026-05-13-a-link-sharing-toggle-lets-you-enable-disable-access-at-any-time-shows-the-date|A Link sharing toggle lets you enable/disable access at any time (shows the date shared)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

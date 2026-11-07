@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1b50cb51f99f5c34d930db9a918bb8e8768185bcad1df7e5fc46a222b1927ba4
+machine_hash: c7b11648b51f0f4ff0ed473e64d32efc3f9c0102bcf94872d3cac828ee2d747b
 product: midjourney
 product_name: Midjourney
 record:

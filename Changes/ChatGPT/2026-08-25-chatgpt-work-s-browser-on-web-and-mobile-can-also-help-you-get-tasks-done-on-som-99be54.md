@@ -14,12 +14,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7c6d59a94d42a404209e3d1b630374a7a967209f94ca1db8e029a858d7a3970f
+machine_hash: 88f5637a13a71d42246a2b57bd51ecae7cde4eac494efdd0b9b5b170431867b5
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -64,10 +64,10 @@ record:
   title: ChatGPT Work can now complete tasks on signed-in websites
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-08-20-8-account-and-access-changes-in-rust-v0-149-0|8
-  Account and Access changes in rust-v0.149.0]]'
 - '[[Changes/Kimi Code/2026-08-20-support-two-oauth-login-methods-kimi-ai-and-kimi-com|Support
   two OAuth login methods — kimi.ai and kimi.com]]'
+- '[[Changes/Wispr Flow/2026-08-21-a-sign-in-flow-that-actually-works-android|A Sign-In
+  Flow That Actually Works (Android)]]'
 - '[[Changes/OpenCode/2026-08-24-core-fixed-opencode-device-login-links-when-servers-return-relative-verification|Core
   Fixed OpenCode device login links when servers return relative verification…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-25-chatgpt-work-can-now-complete-tasks-on-signed-in-websites-d2be314c|chatgpt-2026-08-25-chatgpt-work-can-now-complete-tasks-on-signed-in-websites-d2be314c]]'

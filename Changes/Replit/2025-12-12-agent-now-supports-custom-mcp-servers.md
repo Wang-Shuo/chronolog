@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 4a09a0de7395755dceac0a1ae1f7d169cc1c45763577b99d14efbdf96740ada0
+machine_hash: 8dcd86871732b073e0a290aa4e6535c87a6e6b798d6f019ce16e78fd3f4515fd
 product: replit
 product_name: Replit
 record:
@@ -84,10 +84,9 @@ record:
   title: Agent now supports custom MCP servers
   type: change
 related_changes:
-- '[[Changes/Cline/2025-12-11-7-apps-and-integrations-changes-in-v3-41-0|7 Apps and
-  Integrations changes in v3.41.0]]'
-- '[[Changes/Dify/2025-12-11-16-apps-and-integrations-changes-in-1-11-0|16 Apps and
-  Integrations changes in 1.11.0]]'
+- '[[Changes/Devin/2025-12-12-the-connected-accounts-section-in-organization-settings-has-been-renamed-to-inte|The
+  "Connected accounts" section in organization settings has been renamed…]]'
+- '[[Changes/Devin/2025-12-12-microsoft-teams-integration|Microsoft Teams Integration]]'
 - '[[Changes/Dify/2025-12-12-6-apps-and-integrations-changes-in-1-11-1|6 Apps and
   Integrations changes in 1.11.1]]'
 source_release: '[[Releases/Replit/replit-2025-12-12-2025-12-12-ae737b71|replit-2025-12-12-2025-12-12-ae737b71]]'

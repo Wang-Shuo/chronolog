@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3f70140f14aae5cfddf2bb9376356ab12f7f4bffd68fa1da14403eede3867397
+machine_hash: e76299af296fe011651de1d03593775aa05c6851e663fcfe519f475fa8c1367b
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,9 +43,9 @@ record:
     tag-based…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-02-25-3-apps-and-integrations-changes-in-v0-0-417|3
-  Apps and Integrations changes in v0.0.417]]'
 - '[[Changes/Windsurf/2026-02-25-mcp-improvements|MCP Improvements]]'
+- '[[Changes/Raycast/2026-02-26-2-apps-and-integrations-changes-in-raycast-windows-0-47|2
+  Apps and Integrations changes in Raycast windows 0.47]]'
 - '[[Changes/Gemini CLI/2026-02-27-10-apps-and-integrations-changes-in-v0-31-0|10
   Apps and Integrations changes in v0.31.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-02-27-v0-0-420-github-291473400-c25a1043|github-copilot-cli-2026-02-27-v0-0-420-github-291473400-c25a1043]]'

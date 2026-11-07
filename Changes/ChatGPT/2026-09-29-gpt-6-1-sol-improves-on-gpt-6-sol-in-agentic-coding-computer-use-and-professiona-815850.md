@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: c75cfd8d5d708294de96f63339090761a5d3eb94438b234a0a0fa93d9fb21fe9
+machine_hash: 506a88973cf84dc8585d3f30200cf2531e6c60503f0b05acfd028e5ed228e302
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -70,12 +70,12 @@ record:
   title: GPT-6.1 Sol in ChatGPT Work and Codex
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-09-28-3-model-support-changes-in-v0-35-0|3 Model Support
-  changes in v0.35.0]]'
-- '[[Changes/OpenCode/2026-09-28-core-gemini-thinking-defaults-and-effort-options-now-match-the-supported-control|Core
-  Gemini thinking defaults and effort options now match the supported controls…]]'
 - '[[Changes/OpenCode/2026-09-28-cloudflare-ai-gateway-models-now-honor-provider-response-and-stream-timeouts|Cloudflare
   AI Gateway models now honor provider response and stream timeouts]]'
+- '[[Changes/Raycast/2026-09-28-extensions-can-now-provide-their-own-ai-models-to-raycast-just-install-a-compati|Extensions
+  can now provide their own AI models to Raycast]]'
+- '[[Changes/Raycast/2026-09-28-extensions-can-now-provide-their-own-ai-models-to-raycast-just-install-a-compati-8e9a5a|Extensions
+  can now provide their own AI models to Raycast]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-29-gpt-6-1-sol-in-chatgpt-work-and-codex-a0e5fef0|chatgpt-2026-09-29-gpt-6-1-sol-in-chatgpt-work-and-codex-a0e5fef0]]'
 source_type: chatgpt_changelog
 theme: model-support
@@ -104,7 +104,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-09-28 · OpenCode · [[Changes/OpenCode/2026-09-28-cloudflare-ai-gateway-models-now-honor-provider-response-and-stream-timeouts|Cloudflare AI Gateway models now honor provider response and stream timeouts]]
+- Earlier: 2026-09-28 · Raycast · [[Changes/Raycast/2026-09-28-extensions-can-now-provide-their-own-ai-models-to-raycast-just-install-a-compati-8e9a5a|Extensions can now provide their own AI models to Raycast]]
 - Later: 2026-09-29 · ChatGPT · [[Changes/ChatGPT/2026-09-29-eligible-plus-and-pro-users-can-authorize-participating-apps-to-use-their-chatgp|Eligible Plus and Pro users can authorize participating apps to use their ChatGPT…]]
 <!-- chronolog:end -->
 

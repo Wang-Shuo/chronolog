@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 4fc31cd96ff66fee4bf3f47d055841f7e0e547bf31d8f16e4052c3fb42674f88
+machine_hash: 15559ead8953634f1bc000a45d5d1c559ad42bc1152a92a6a11d325ee151ce76
 product: replit
 product_name: Replit
 record:
@@ -49,12 +49,10 @@ record:
   title: Teams and Enterprise
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-10-added-os-ca-certificate-store-trust-by-default-so-enterprise-tls-proxies-work-wi|Added
-  OS CA certificate store trust by default, so enterprise TLS proxies work…]]'
-- '[[Changes/Codex CLI/2026-04-10-the-readme-now-uses-the-current-chatgpt-business-plan-name-16348|The
-  README now uses the current ChatGPT Business plan name (♯16348)]]'
-- '[[Changes/ChatGPT/2026-04-16-we-re-beginning-to-roll-out-ads-for-users-on-free-and-go-plans-in-australia-new|Rolling
-  out ads in Australia, New Zealand, and Canada]]'
+- '[[Changes/Devin/2026-04-17-idp-groups-management|IDP Groups Management]]'
+- '[[Changes/Devin/2026-04-17-github-enterprise-server-in-review|GitHub Enterprise
+  Server in Review]]'
+- '[[Changes/Devin/2026-04-17-secure-mode-description|Secure Mode Description]]'
 source_release: '[[Releases/Replit/replit-2026-04-17-2026-04-17-97599a7a|replit-2026-04-17-2026-04-17-97599a7a]]'
 source_type: replit_changelog
 theme: enterprise-admin
@@ -89,7 +87,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-04-16 · ChatGPT · [[Changes/ChatGPT/2026-04-16-we-re-beginning-to-roll-out-ads-for-users-on-free-and-go-plans-in-australia-new|Rolling out ads in Australia, New Zealand, and Canada]]
+- Earlier: 2026-04-17 · Devin · [[Changes/Devin/2026-04-17-secure-mode-description|Secure Mode Description]]
 - Later: 2026-04-23 · Claude Code · [[Changes/Claude Code/2026-04-23-added-disable-updates-env-var-to-completely-block-all-update-paths-including-man|Added DISABLE_UPDATES env var to completely block all update paths including…]]
 <!-- chronolog:end -->
 

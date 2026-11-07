@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9cca3bd93419ff5c70e425bca9a2a7b1e43d9fff4e980ebc233fb99aa6232d13
+machine_hash: b122ffb7927ab401d7b2759f2b7af750db36a763c1cf2d42317ac1bd4cadb93d
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -42,8 +42,8 @@ record:
   title: 'docs(extensions): clarify env var sanitization policy for MCP and ext…'
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-05-25-custom-mcp-servers-available-on-all-plans|Custom MCP
-  servers available on all plans]]'
+- '[[Changes/AnythingLLM/2026-05-26-2-apps-and-integrations-changes-in-v1-13-0|2 Apps
+  and Integrations changes in v1.13.0]]'
 - '[[Changes/Codex CLI/2026-05-26-11-apps-and-integrations-changes-in-rust-v0-134-0|11
   Apps and Integrations changes in rust-v0.134.0]]'
 - '[[Changes/Claude Code/2026-05-27-4-apps-and-integrations-changes-in-v2-1-152|4

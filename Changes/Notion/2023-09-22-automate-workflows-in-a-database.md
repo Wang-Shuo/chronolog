@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: f5113fe62974d3e1afb5deaf2e7b5bec86333037fe35556ec41aa38538220148
+machine_hash: 4fbce0505930af5627acf56739ede13fb6cad7275f22c7c26cda91bd4737e7c7
 product: notion
 product_name: Notion
 record:
@@ -41,11 +41,11 @@ record:
   title: Automate workflows in a database
   type: change
 related_changes:
-- '[[Changes/Notion/2022-03-03-the-api-is-out-of-beta|The API is out of beta]]'
-- '[[Changes/Notion/2023-03-23-automate-manual-tasks-with-buttons|Automate manual
-  tasks with buttons]]'
-- '[[Changes/Notion/2023-05-31-notifications-to-stay-in-the-loop|Notifications to
-  stay in the loop]]'
+- '[[Changes/Raycast/2023-06-22-calendar-my-schedule-now-has-pagination-allowing-you-to-load-more-than-just-next|Calendar:
+  My Schedule now has pagination, allowing you to load more than just next…]]'
+- '[[Changes/Raycast/2023-09-21-my-schedule-icon-is-now-dynamically-showing-the-current-date|My
+  Schedule: Icon is now dynamically showing the current date]]'
+- '[[Changes/Raycast/2023-09-21-scheduled-exports-pro|Scheduled Exports (Pro)]]'
 source_release: '[[Releases/Notion/notion-2023-09-22-https-www-notion-com-releases-2023-09-22-1ea28b55|notion-2023-09-22-https-www-notion-com-releases-2023-09-22-1ea28b55]]'
 source_type: notion_changelog
 theme: automation-scheduling
@@ -72,7 +72,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2023-05-31 · Notion · [[Changes/Notion/2023-05-31-notifications-to-stay-in-the-loop|Notifications to stay in the loop]]
+- Earlier: 2023-09-21 · Raycast · [[Changes/Raycast/2023-09-21-scheduled-exports-pro|Scheduled Exports (Pro)]]
 - Later: 2023-11-14 · Notion · [[Changes/Notion/2023-11-14-stay-in-the-loop-on-projects|Stay in the loop on projects]]
 <!-- chronolog:end -->
 

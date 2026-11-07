@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6d776414d836c31eb23e29c0d47aee9b95a1cea5b7514c933c7fc99fa3b7c226
+machine_hash: c0fe10da70cadabbb24382a2e18b63072f23cd7a9b95e6c7403f9839fd712861
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,12 +44,11 @@ record:
   title: 3 Collaboration changes in rust-v0.131.0
   type: change
 related_changes:
-- '[[Changes/Descript/2026-05-14-the-descript-telethon-kicks-off-today-may-14-at-10-00-am-pt-https-www-youtube-co|The
-  Descript Telethon kicks off today, May 14 at 10:00 AM…]]'
 - '[[Changes/v0/2026-05-15-snowflake-teams-with-multiple-accounts-can-pick-which-account-a-chat-connects-to|Snowflake
   teams with multiple accounts can pick which account a chat connects…]]'
 - '[[Changes/Windsurf/2026-05-16-restored-conversation-sharing|Restored conversation
   sharing]]'
+- '[[Changes/Devin/2026-05-17-copyable-organization-id|Copyable Organization ID]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-05-18-rust-v0-131-0-github-324452638-5f16ff1d|codex-cli-2026-05-18-rust-v0-131-0-github-324452638-5f16ff1d]]'
 source_type: github_releases
 theme: collaboration
@@ -95,7 +94,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.131.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-05-16 · Windsurf · [[Changes/Windsurf/2026-05-16-restored-conversation-sharing|Restored conversation sharing]]
+- Earlier: 2026-05-17 · Devin · [[Changes/Devin/2026-05-17-copyable-organization-id|Copyable Organization ID]]
 - Later: 2026-05-20 · Cursor · [[Changes/Cursor/2026-05-20-shared-canvases-a27a45|Shared canvases]]
 <!-- chronolog:end -->
 

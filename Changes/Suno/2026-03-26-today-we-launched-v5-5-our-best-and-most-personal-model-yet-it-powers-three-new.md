@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: a863115d9a8c97e1aa86ca677f08979e848b6059d947449de7087e1da73c8eb1
+machine_hash: 165513ca825a74fd9e7b4c13335327a91493588c1d945a6eb68aedf9b73f442c
 product: suno
 product_name: Suno
 record:
@@ -46,8 +46,8 @@ record:
   title: Today we launched v5.5, our best and most personal model yet
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-26-model-display-header-shows-the-active-reasoning-effort-level-e-g-high-next-to-th|Model
-  display header shows the active reasoning effort level (e.g. "(high)") next…]]'
+- '[[Changes/LM Studio/2026-03-26-adds-a-reasoning-field-to-the-api-v1-models-api-response-indicating-each-model-s|Adds
+  a reasoning field to the /api/v1/models API response, indicating each…]]'
 - '[[Changes/Suno/2026-03-26-v5-5-our-newest-model-richer-arrangements-sharper-vocals-and-more-dynamic-sound|v5.5
   Our newest model]]'
 - '[[Changes/Suno/2026-03-26-custom-models-upload-at-least-6-tracks-from-your-catalog-to-train-a-personalized|Custom
@@ -82,8 +82,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-03-26 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-26-model-display-header-shows-the-active-reasoning-effort-level-e-g-high-next-to-th|Model display header shows the active reasoning effort level (e.g. "(high)") next…]]
-- Later: 2026-03-27 · Dify · [[Changes/Dify/2026-03-27-7-model-support-changes-in-1-13-3|7 Model Support changes in 1.13.3]]
+- Earlier: 2026-03-26 · LM Studio · [[Changes/LM Studio/2026-03-26-adds-a-reasoning-field-to-the-api-v1-models-api-response-indicating-each-model-s|Adds a reasoning field to the /api/v1/models API response, indicating each…]]
+- Later: 2026-03-26 · Superwhisper · [[Changes/Superwhisper/2026-03-26-parakeet-english-only-model-with-real-time-support-added|Parakeet English only model with real-time support added]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

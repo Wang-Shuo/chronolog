@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a3eba94ff2620d815621ecb4cd31843fe18000fb9f249dd01c3b8a1feeee8a99
+machine_hash: 098d3cd65c1fdffb7cc43cbfec1e7666e25cd1e11508a2d1144011a5e95a2ea8
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -44,9 +44,9 @@ record:
   title: Show the command in running Bash tool cards and allow expanding it with Ctrl+O…
   type: change
 related_changes:
-- '[[Changes/Kimi Code/2026-06-23-consolidate-web-client-localstorage-access-and-split-the-root-state-store-and-ap|Consolidate
-  web client localStorage access and split the root state store and app…]]'
 - '[[Changes/Windsurf/2026-06-23-cli-and-devin-local|CLI and Devin Local]]'
+- '[[Changes/Devin/2026-06-24-split-view-auto-disable-on-narrow-panels|Split View
+  Auto-Disable on Narrow Panels]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-24-remove-syntax-highlighting-from-shell-commands-in-the-timeline|Remove
   syntax highlighting from shell commands in the timeline]]'
 source_release: '[[Releases/Kimi Code/kimi-code-2026-06-24-0-19-2-5e4b18ae|kimi-code-2026-06-24-0-19-2-5e4b18ae]]'

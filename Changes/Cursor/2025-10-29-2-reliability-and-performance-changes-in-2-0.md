@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 37480159fe69d73ae079c996f721683083d71a9fe1ec882507c4386fc1065a3e
+machine_hash: 261bf3deb4b226ac130775a5fc5029e8aaca273ac344ef9931d56ea00d54bb6d
 product: cursor
 product_name: Cursor
 record:
@@ -44,10 +44,11 @@ record:
   title: 2 Reliability and Performance changes in 2.0
   type: change
 related_changes:
-- '[[Changes/Replit/2025-10-24-plan-mode-improvements|Plan mode improvements]]'
 - '[[Changes/Windsurf/2025-10-26-various-performance-improvements-and-bug-fixes|Various
   performance improvements and bug fixes]]'
 - '[[Changes/Windsurf/2025-10-26-falcon-alpha|Falcon Alpha]]'
+- '[[Changes/Raycast/2025-10-27-2-reliability-and-performance-changes-in-raycast-windows-0-33|2
+  Reliability and Performance changes in Raycast windows 0.33]]'
 source_release: '[[Releases/Cursor/cursor-2025-10-29-2-0-https-cursor-com-changelog-2-0-66a8e76e|cursor-2025-10-29-2-0-https-cursor-com-changelog-2-0-66a8e76e]]'
 source_type: cursor_changelog
 theme: reliability-performance
@@ -100,7 +101,7 @@ Source: https://cursor.com/changelog/2-0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-10-26 · Windsurf · [[Changes/Windsurf/2025-10-26-falcon-alpha|Falcon Alpha]]
+- Earlier: 2025-10-27 · Raycast · [[Changes/Raycast/2025-10-27-2-reliability-and-performance-changes-in-raycast-windows-0-33|2 Reliability and Performance changes in Raycast windows 0.33]]
 - Later: 2025-10-29 · Ollama · [[Changes/Ollama/2025-10-29-increase-speed-when-scheduling-models|Increase speed when scheduling models]]
 <!-- chronolog:end -->
 

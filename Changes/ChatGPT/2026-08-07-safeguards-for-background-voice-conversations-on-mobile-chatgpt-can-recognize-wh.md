@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2561fe2257554ec472124f093ced6b08b0da82af7713a041ffa1399851969d04
+machine_hash: c2f60efe75839a9657b255cceb7db9d0ad952344861322d5f9b877e12fe580d3
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -49,8 +49,10 @@ record:
   title: Safeguards for background Voice conversations
   type: change
 related_changes:
-- '[[Changes/Descript/2026-08-05-and-there-s-even-more|And there''s even more]]'
-- '[[Changes/Descript/2026-08-05-smoother-jump-cuts|Smoother jump cuts]]'
+- '[[Changes/Wispr Flow/2026-08-05-wispr-flow-notetaker-is-here-notetaker|Wispr Flow
+  Notetaker is here (Notetaker)]]'
+- '[[Changes/Superwhisper/2026-08-06-2-voice-and-audio-changes-in-superwhisper-macos-2-17-2|2
+  Voice and Audio changes in Superwhisper macOS 2.17.2]]'
 - '[[Changes/ChatGPT/2026-08-07-start-voice-conversations-faster-improved-connection-times-make-it-quicker-to-be|Start
   Voice conversations faster]]'
 scope: iOS and Android
@@ -84,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-08-05 · Descript · [[Changes/Descript/2026-08-05-smoother-jump-cuts|Smoother jump cuts]]
+- Earlier: 2026-08-06 · Superwhisper · [[Changes/Superwhisper/2026-08-06-2-voice-and-audio-changes-in-superwhisper-macos-2-17-2|2 Voice and Audio changes in Superwhisper macOS 2.17.2]]
 - Later: 2026-08-07 · ChatGPT · [[Changes/ChatGPT/2026-08-07-gpt-live-in-chatgpt-voice-now-supports-file-uploads-and-projects-you-can-now-upl|Files and Projects in ChatGPT Voice]]
 <!-- chronolog:end -->
 

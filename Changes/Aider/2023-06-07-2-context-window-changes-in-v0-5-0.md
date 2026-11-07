@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b6b7b65d5e2a461d43f3f843f14d72d7def90e19da36863eb95c768358c079cc
+machine_hash: e661d6c02405ef42bfb20532133c1a7dd2aa0136f88dabc22fa77728738cdd18
 product: aider
 product_name: Aider
 record:
@@ -83,7 +83,7 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.5.0
 ## Nearby in Context Window
 
 - Earlier: 2023-06-06 · Cursor · [[Changes/Cursor/2023-06-06-following-this-you-ll-be-able-to-see-an-improved-version-of-codebase-context-in|Following this, you'll be able to see an improved version of codebase context…]]
-- Later: 2023-06-25 · Aider · [[Changes/Aider/2023-06-25-graceful-handling-of-context-window-exhaustion-including-helpful-tips|Graceful handling of context window exhaustion, including helpful tips]]
+- Later: 2023-06-07 · Raycast · [[Changes/Raycast/2023-06-07-ai-chat-new-action-to-submit-a-message-without-generating-a-response-it-s-useful|AI Chat: New action to submit a message without generating a response]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

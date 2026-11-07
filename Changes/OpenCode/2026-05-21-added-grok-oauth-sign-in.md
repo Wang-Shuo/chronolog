@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: efcc43d62c98078796bcebdb9298c8929d912b2d837109fc504101c54a5f5ec2
+machine_hash: 2624945ddeaea265e95e8a5170e3e34b6ad51b00a7aacb667986b68d8730674f
 product: opencode
 product_name: OpenCode
 record:
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Account and Access
 
 - Earlier: 2026-05-20 · OpenCode · [[Changes/OpenCode/2026-05-20-core-opencode-login-now-defaults-to-https-console-opencode-ai|Core opencode login now defaults to (source link)]]
-- Later: 2026-05-22 · OpenCode · [[Changes/OpenCode/2026-05-22-core-let-mcp-oauth-configs-set-a-callback-port-and-include-configured-scopes-in|Core Let MCP OAuth configs set a callback port and include configured scopes…]]
+- Later: 2026-05-22 · Devin · [[Changes/Devin/2026-05-22-gitlab-oauth-scope-and-token-refresh|GitLab OAuth Scope and Token Refresh]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

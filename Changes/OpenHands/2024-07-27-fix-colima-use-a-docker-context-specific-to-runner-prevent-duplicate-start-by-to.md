@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 94a436e443eee0001198085bfa7976b0cf154788acb278eef004917f4d16d848
+machine_hash: f4dcd060d9b35ab1f83b56775c686aa924c99367d5a6710b08891fe295fe4b43
 product: openhands
 product_name: OpenHands
 record:
@@ -43,12 +43,12 @@ record:
     start'
   type: change
 related_changes:
-- '[[Changes/Aider/2024-06-24-improved-error-info-for-token-limit-errors|Improved
-  error info for token limit errors]]'
 - '[[Changes/Ollama/2024-07-21-mistral-nemo-https-ollama-com-library-mistral-nemo-a-state-of-the-art-12b-model|Mistral
   Nemo((source link) A state-of-the-art 12B…]]'
 - '[[Changes/Ollama/2024-07-25-mistral-large-2-https-ollama-com-library-mistral-large-mistral-s-new-123b-flagsh|Mistral
   Large 2((source link)]]'
+- '[[Changes/AnythingLLM/2024-07-26-6-context-window-changes-in-v1-0-0|6 Context Window
+  changes in v1.0.0]]'
 source_release: '[[Releases/OpenHands/openhands-2024-07-27-0-8-2-github-167485944-4c47e7ce|openhands-2024-07-27-0-8-2-github-167485944-4c47e7ce]]'
 source_type: github_releases
 theme: context-window
@@ -82,7 +82,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2024-07-25 · Ollama · [[Changes/Ollama/2024-07-25-mistral-large-2-https-ollama-com-library-mistral-large-mistral-s-new-123b-flagsh|Mistral Large 2((source link)]]
+- Earlier: 2024-07-26 · AnythingLLM · [[Changes/AnythingLLM/2024-07-26-6-context-window-changes-in-v1-0-0|6 Context Window changes in v1.0.0]]
 - Later: 2024-07-28 · Cline · [[Changes/Cline/2024-07-28-updated-max-output-tokens-to-8192-so-less-lazy-coding-rest-of-code-here|Updated max output tokens to 8192 so less lazy coding (// rest of code here...)]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 82526cb4d6a14dc9841dbea71255ebc942779dfb03dc5c6a55e4eb2d5f5c1d57
+machine_hash: 9b24a9009fd1c945a92875b667de65cad4f6810d16dbe59ff83047b79cb7270d
 product: midjourney
 product_name: Midjourney
 record:
@@ -85,8 +85,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-10-02 · Claude Code · [[Changes/Claude Code/2026-10-02-added-ui-selection-for-mods-returns-the-text-you-last-selected-in-fullscreen-mod|Added $.ui.selection() for mods]]
-- Later: 2026-10-02 · Replit · [[Changes/Replit/2026-10-02-new-settings-page|New Settings page]]
+- Earlier: 2026-10-02 · Devin · [[Changes/Devin/2026-10-02-test-recording-viewer-fullscreen|Test Recording Viewer Fullscreen]]
+- Later: 2026-10-02 · Raycast · [[Changes/Raycast/2026-10-02-new-navigation|New Navigation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: dd75cd166a58d4ac1a55b13bd63cb863fb5c8b6d05b02be92dd93d02486aef40
+machine_hash: df6e615e61f99f9cb7b0b2e98fc468840c6e98fc03acbb4f62e74f714f8dbb1c
 product: descript
 product_name: Descript
 record:
@@ -45,8 +45,7 @@ record:
   title: '**Search highlights**: You can now search for highlights even without entering…'
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-03-27-changes-autoupdate-to-notify-you-when-there-s-a-new-version|Changes
-  autoupdate to notify you when there''s a new version]]'
+- '[[Changes/Raycast/2023-03-29-quick-paste-insert|Quick Paste/Insert]]'
 - '[[Changes/Cursor/2023-03-30-cleaned-up-chat-styling|Cleaned up chat styling]]'
 - '[[Changes/Descript/2023-04-03-export-scene-you-can-now-export-just-the-selected-scene-by-selecting-a-scene-and|Export
   scene: You can now export just the selected scene by selecting a scene…]]'

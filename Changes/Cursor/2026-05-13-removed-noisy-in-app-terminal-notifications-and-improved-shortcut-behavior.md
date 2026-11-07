@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: aa43947fcaeda1446d181273400d7606692a1429ba1a68ca5fc083fe7e67b016
+machine_hash: 6ce6cd3155b134f6979bede43ea1cda99316650d1d8aace89e4fa145d8dbb395
 product: cursor
 product_name: Cursor
 record:
@@ -41,8 +41,8 @@ record:
   title: Removed noisy in-app terminal notifications and improved shortcut behavior
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-12-long-lines-in-diff-view-wrap-at-terminal-width-instead-of-being-truncated|Long
-  lines in diff view wrap at terminal width instead of being truncated]]'
+- '[[Changes/Raycast/2026-05-12-core-raycast-no-longer-uses-powershell-for-startup-task-so-users-don-t-see-termi|Core
+  : Raycast no longer uses Powershell for startup task, so users don’t see…]]'
 - '[[Changes/Claude Code/2026-05-13-added-terminalsequence-field-to-hook-json-output-so-hooks-can-emit-desktop-notif|Added
   terminalSequence field to hook JSON output so hooks can emit desktop…]]'
 - '[[Changes/Cursor/2026-05-13-environment-configuration-as-code-827fd1|Environment

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f41ec082accc9bc6aa151b6ddf662ea0533fb541eb27fca6bdbbabea5f2db3bc
+machine_hash: 95fb32dde82fe1a74a825c79ed7c21ca0724bce2250f5b606c5102f3543938f3
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,12 +46,12 @@ record:
   title: 2 Mobile and Desktop changes in v2.1.314
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-10-29-9-mobile-and-desktop-changes-in-v2-2-1|9 Mobile and
-  Desktop changes in v2.2.1]]'
 - '[[Changes/OpenCode/2026-10-29-keep-working-toward-a-goal|Keep Working Toward a
   Goal]]'
 - '[[Changes/OpenCode/2026-10-29-opencode-ai-provider-removals-and-renames|opencode/ai
   provider removals and renames]]'
+- '[[Changes/Superwhisper/2026-10-29-s1-mini-tone-slider-updated-to-match-macos|S1-mini
+  tone slider updated to match macOS]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-30-v2-1-314-github-428518421-b7ac83d7|claude-code-2026-10-30-v2-1-314-github-428518421-b7ac83d7]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -93,7 +93,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.314
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-10-29 · OpenCode · [[Changes/OpenCode/2026-10-29-opencode-ai-provider-removals-and-renames|opencode/ai provider removals and renames]]
+- Earlier: 2026-10-29 · Superwhisper · [[Changes/Superwhisper/2026-10-29-s1-mini-tone-slider-updated-to-match-macos|S1-mini tone slider updated to match macOS]]
 - Later: 2026-10-30 · OpenCode · [[Changes/OpenCode/2026-10-30-4-mobile-and-desktop-changes-in-v2-2-4|4 Mobile and Desktop changes in v2.2.4]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b745e80d20dcaa69a3c93a182369551adc9643ca27da5da079700d761643630e
+machine_hash: 472d499baa8b28ae82bd1e8b019421d62cb972467732d07bb5c52f79d6fe00a2
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -94,7 +94,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.12.0
 ## Nearby in Model Support
 
 - Earlier: 2025-11-04 · Codex CLI · [[Changes/Codex CLI/2025-11-04-2-model-support-changes-in-rust-v0-54-0|2 Model Support changes in rust-v0.54.0]]
-- Later: 2025-11-05 · ChatGPT · [[Changes/ChatGPT/2025-11-05-you-can-now-interrupt-long-running-queries-such-as-deep-research-or-gpt-5-pro-to|Interrupt ChatGPT]]
+- Later: 2025-11-04 · LM Studio · [[Changes/LM Studio/2025-11-04-2-model-support-changes-in-lm-studio-0-3-31|2 Model Support changes in LM Studio 0.3.31]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

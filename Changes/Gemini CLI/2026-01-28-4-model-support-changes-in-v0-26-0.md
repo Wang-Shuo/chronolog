@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1f2ad02e03c087d428679db59392140dc0888a460a9c721bbbb500fec5da3902
+machine_hash: 08aaaf0cab70b99978667ab3d402ebe3811d9faee046504aef7010529baa25dd
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -102,7 +102,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.26.0
 ## Nearby in Model Support
 
 - Earlier: 2026-01-28 · Cline · [[Changes/Cline/2026-01-28-2-model-support-changes-in-v3-55-0|2 Model Support changes in v3.55.0]]
-- Later: 2026-01-28 · OpenCode · [[Changes/OpenCode/2026-01-28-8-model-support-changes-in-v1-1-37|8 Model Support changes in v1.1.37]]
+- Later: 2026-01-28 · LM Studio · [[Changes/LM Studio/2026-01-28-19-model-support-changes-in-lm-studio-0-4-0|19 Model Support changes in LM Studio 0.4.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

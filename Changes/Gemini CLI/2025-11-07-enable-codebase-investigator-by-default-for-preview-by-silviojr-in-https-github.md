@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: aebd89b2e0b7ada614da2c5d3bc6198680aa67614ae2a1c0bfcad5e3a8871076
+machine_hash: 726dbd06408ec2c0ac713e7f79cad3bf34460c1d5354605ae30e24022adc09fd
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -42,12 +42,10 @@ record:
   title: enable codebase investigator by default for preview
   type: change
 related_changes:
-- '[[Changes/Cline/2025-11-06-2-editor-experience-changes-in-v3-36-0|2 Editor Experience
-  changes in v3.36.0]]'
-- '[[Changes/Open WebUI/2025-11-06-3-editor-experience-changes-in-v0-6-35|3 Editor
-  Experience changes in v0.6.35]]'
 - "[[Changes/Open WebUI/2025-11-06-the-comfyui-image-edit-workflow-editor-modal-now-opens-correctly-when-clicking-t|\U0001F5BC️
   The ComfyUI image edit workflow editor modal now opens correctly when clicking…]]"
+- '[[Changes/Devin/2025-11-07-document-titles|Document Titles]]'
+- '[[Changes/Devin/2025-11-07-wiki-edit-button-improvements|Wiki Edit Button Improvements]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-11-07-v0-13-0-github-260462305-15cfa0b7|gemini-cli-2025-11-07-v0-13-0-github-260462305-15cfa0b7]]'
 source_type: github_releases
 theme: editor-experience
@@ -89,7 +87,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2025-11-06 · Open WebUI · [[Changes/Open WebUI/2025-11-06-the-comfyui-image-edit-workflow-editor-modal-now-opens-correctly-when-clicking-t|🖼️ The ComfyUI image edit workflow editor modal now opens correctly when clicking…]]
+- Earlier: 2025-11-07 · Devin · [[Changes/Devin/2025-11-07-wiki-edit-button-improvements|Wiki Edit Button Improvements]]
 - Later: 2025-11-12 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-11-12-3-editor-experience-changes-in-v0-0-355|3 Editor Experience changes in v0.0.355]]
 <!-- chronolog:end -->
 

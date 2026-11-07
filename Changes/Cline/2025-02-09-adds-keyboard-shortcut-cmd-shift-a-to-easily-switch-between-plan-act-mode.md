@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ec10461308a32707278e50490a9abd6ac56a25508af871445b40b2a5dc3821da
+machine_hash: 9df50729199dac69a27257a1c0ed993ed201cf110c2bb984f6bbcf7b414e44c0
 product: cline
 product_name: Cline
 record:
@@ -79,7 +79,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2025-02-06 · Aider · [[Changes/Aider/2025-02-06-https-aider-chat-history-html|(source link)]]
-- Later: 2025-02-11 · Descript · [[Changes/Descript/2025-02-11-add-scene-in-script-toolbar|Add scene in Script toolbar]]
+- Later: 2025-02-10 · Superwhisper · [[Changes/Superwhisper/2025-02-10-onboarding-crash-fix|Onboarding Crash Fix]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

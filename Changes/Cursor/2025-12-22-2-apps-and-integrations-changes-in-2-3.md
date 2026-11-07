@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b4fcbb779ded9c711320f557ebd837aeb7ae0cab50105f93bf51d28a5dde713d
+machine_hash: 39bcd391a0cfca01e632da94aa5d45503731593371f99eaa24256652648b875f
 product: cursor
 product_name: Cursor
 record:
@@ -44,9 +44,9 @@ record:
   title: 2 Apps and Integrations changes in 2.3
   type: change
 related_changes:
-- '[[Changes/Claude Code/2025-12-19-2-apps-and-integrations-changes-in-v2-0-73|2 Apps
-  and Integrations changes in v2.0.73]]'
 - '[[Changes/Replit/2025-12-19-custom-mcp-server-icons|Custom MCP Server Icons]]'
+- '[[Changes/Raycast/2025-12-20-6-apps-and-integrations-changes-in-raycast-windows-0-40|6
+  Apps and Integrations changes in Raycast windows 0.40]]'
 - '[[Changes/Open WebUI/2025-12-21-2-apps-and-integrations-changes-in-v0-6-42|2 Apps
   and Integrations changes in v0.6.42]]'
 source_release: '[[Releases/Cursor/cursor-2025-12-22-2-3-https-cursor-com-changelog-2-3-fe418465|cursor-2025-12-22-2-3-https-cursor-com-changelog-2-3-fe418465]]'

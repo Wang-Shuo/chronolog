@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 7feeb57fc84f4d74efcf9beb45cf49bfc59fe018ebff10e886c2d88fe79d3a2b
+machine_hash: 185dfe5457e477264e1e8bdcd975fe0357870ae48b5555442fb1a152272b7587
 product: opencode
 product_name: OpenCode
 record:
@@ -43,8 +43,8 @@ record:
   title: Desktop Fixed spacing between model provider sections in Settings
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-07-13-4-model-support-changes-in-v1-17-20-1|4 Model Support
-  changes in v1.17.20 + 1]]'
+- '[[Changes/Superwhisper/2026-07-13-smarter-vocabulary-for-offline-whisper-models|Smarter
+  vocabulary for offline whisper models]]'
 - '[[Changes/Claude Code/2026-07-14-improved-the-bash-powershell-tool-message-when-a-command-hits-its-timeout-and-is|Improved
   the Bash/PowerShell tool message when a command hits its timeout…]]'
 - '[[Changes/Kimi Code/2026-07-14-2-model-support-changes-in-kimi-code-0-24-1|2 Model

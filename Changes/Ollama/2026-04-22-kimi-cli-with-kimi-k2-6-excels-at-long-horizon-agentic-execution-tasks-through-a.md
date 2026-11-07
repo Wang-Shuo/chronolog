@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 0ced744a402e46466c9755ce384af281fa0e597fbede3e1e5f0e47913e849557
+machine_hash: 708236b49a1d32c0f71479f261b8e3513fb4c78026f816120b3e606a81357a0a
 product: ollama
 product_name: Ollama
 record:
@@ -44,10 +44,10 @@ record:
   title: Kimi CLI with Kimi K2.6 excels at long horizon agentic execution tasks through…
   type: change
 related_changes:
-- '[[Changes/Microsoft 365 Copilot/2026-04-21-share-agents-to-teams-web-microsoft-365-copilot-extensibility|Share
-  agents to Teams Web (Microsoft 365 Copilot extensibility)]]'
 - '[[Changes/OpenCode/2026-04-21-desktop-added-a-setting-to-hide-the-session-progress-bar-while-the-agent-is-work|Desktop
   Added a setting to hide the session progress bar while the agent is working]]'
+- '[[Changes/AnythingLLM/2026-04-22-10-agent-mode-changes-in-v1-12-1|10 Agent Mode
+  changes in v1.12.1]]'
 - '[[Changes/Claude Code/2026-04-22-2-agent-mode-changes-in-v2-1-117|2 Agent Mode
   changes in v2.1.117]]'
 source_release: '[[Releases/Ollama/ollama-2026-04-22-v0-21-1-github-311489814-9e26ae27|ollama-2026-04-22-v0-21-1-github-311489814-9e26ae27]]'

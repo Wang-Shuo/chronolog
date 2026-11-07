@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: video-generation
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: f18a3ea6b5d95cf78fbac8d5b283ff38ee2e18202cac32f218caae1271d94a4c
+machine_hash: 80b2afa33d1f6cde76a7acdfa893e9250696b5a22810e0b79b327da74b279dc6
 product: runway
 product_name: Runway
 record:
@@ -60,12 +60,12 @@ record:
   title: Grok Imagine 1.5 Video
   type: change
 related_changes:
-- '[[Changes/HeyGen/2026-07-23-the-agent-can-source-web-images-and-stock-or-generate-its-own-video-and-photos-a|The
-  agent can source web images and stock, or generate its own video and photos…]]'
 - '[[Changes/Runway/2026-08-05-minimax-hailuo-3-0-is-now-live-on-runway-dev-generate-video-from-text-image-or-v|MiniMax
   Hailuo 3.0]]'
 - '[[Changes/HeyGen/2026-08-07-we-ve-added-new-customization-options-to-generate-script-with-ai-in-the-ppt-pdf|HeyGen
   adds new customization options to Generate Script with AI in the PPT/PDF…]]'
+- '[[Changes/Recraft/2026-08-13-we-ve-added-seedance-2-5-for-video-generation-in-recraft-studio-generate-clips-u|Recraft
+  adds Seedance 2.5 for video generation in Recraft Studio]]'
 source_release: '[[Releases/Runway/runway-2026-08-13-2026-08-13-grok-imagine-1-5-video-696a7249|runway-2026-08-13-2026-08-13-grok-imagine-1-5-video-696a7249]]'
 source_type: runway_changelog
 theme: video-generation
@@ -92,7 +92,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Video Generation
 
-- Earlier: 2026-08-07 · HeyGen · [[Changes/HeyGen/2026-08-07-we-ve-added-new-customization-options-to-generate-script-with-ai-in-the-ppt-pdf|HeyGen adds new customization options to Generate Script with AI in the PPT/PDF…]]
+- Earlier: 2026-08-13 · Recraft · [[Changes/Recraft/2026-08-13-we-ve-added-seedance-2-5-for-video-generation-in-recraft-studio-generate-clips-u|Recraft adds Seedance 2.5 for video generation in Recraft Studio]]
 - Later: 2026-08-24 · Runway · [[Changes/Runway/2026-08-24-wan-3-0-is-now-available-in-runway-in-tool-mode-and-workflows-generate-near-stat|Wan 3.0]]
 <!-- chronolog:end -->
 

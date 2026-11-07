@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 2b3238b44f65ee4b4b80146403e93b3fa474a66ff2ef26b0e8b694e20b94bba1
+machine_hash: 6dc0fb45d6f82b277d7f09957a7fae73431f7c1d95b12425f65875e15db5bd64
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -65,12 +65,12 @@ record:
   title: Python SDK
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-23-3-voice-and-audio-changes-in-rust-v0-164-0|3 Voice
-  and Audio changes in rust-v0.164.0]]'
 - '[[Changes/Ollama/2026-10-24-ollama-can-now-generate-speech-https-docs-ollama-com-capabilities-speech-on-maco|Ollama
   can now generate speech((source link) on macOS]]'
 - '[[Changes/Open WebUI/2026-10-25-4-voice-and-audio-changes-in-v0-12-4|4 Voice and
   Audio changes in v0.12.4]]'
+- '[[Changes/AnythingLLM/2026-10-26-support-mov-files-for-transcription-by-shatfield4-in-https-github-com-mintplex-l|Support
+  .mov files for transcription]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-10-26-2026-10-26-ca7c552d|elevenlabs-2026-10-26-2026-10-26-ca7c552d]]'
 source_type: elevenlabs_changelog
 theme: voice
@@ -120,8 +120,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-10-25 · Open WebUI · [[Changes/Open WebUI/2026-10-25-4-voice-and-audio-changes-in-v0-12-4|4 Voice and Audio changes in v0.12.4]]
-- Later: 2026-10-27 · Ollama · [[Changes/Ollama/2026-10-27-3-voice-and-audio-changes-in-v0-40-12|3 Voice and Audio changes in v0.40.12]]
+- Earlier: 2026-10-26 · AnythingLLM · [[Changes/AnythingLLM/2026-10-26-support-mov-files-for-transcription-by-shatfield4-in-https-github-com-mintplex-l|Support .mov files for transcription]]
+- Later: 2026-10-26 · Superwhisper · [[Changes/Superwhisper/2026-10-26-resolve-spoken-self-corrections-in-message-preset|Resolve spoken self-corrections in Message preset]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

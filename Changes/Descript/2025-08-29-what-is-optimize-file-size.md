@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: video-generation
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: a58e352e2fa230b77915bc8a0246169c6d47e104d2efd987fa92b060fba655f6
+machine_hash: a72f8cf73717597503d030945d0d3bd2c019c33fa64016100c7bc716d94756f0
 product: descript
 product_name: Descript
 record:

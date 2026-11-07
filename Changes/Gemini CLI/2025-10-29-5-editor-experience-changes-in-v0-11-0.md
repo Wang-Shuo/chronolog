@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 082de2c0e3dd593852c07a9324296e180531d548a1be78e33a4f0ad55faa9cc7
+machine_hash: 0dd933eda05438707b81245f99a3b2dc3d8c3bd30af62d2240c91b3c37884f79
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -104,7 +104,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.11.0
 ## Nearby in Editor Experience
 
 - Earlier: 2025-10-24 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-10-24-3-editor-experience-changes-in-v0-0-351|3 Editor Experience changes in v0.0.351]]
-- Later: 2025-10-30 · Codex CLI · [[Changes/Codex CLI/2025-10-30-chore-config-editor-in-https-github-com-openai-codex-pull-5878|chore: config editor in (source link)]]
+- Later: 2025-10-29 · Raycast · [[Changes/Raycast/2025-10-29-clipboard-history-added-a-new-edit-content-action|Clipboard History : Added a new Edit Content action]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

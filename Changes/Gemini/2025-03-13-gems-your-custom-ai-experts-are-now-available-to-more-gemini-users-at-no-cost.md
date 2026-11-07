@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 42ef09f9f9a817ae88d22327b21212669ab92dfeca7e8345fdf3f3836310af84
+machine_hash: 41746b81ea87db4a159982f16770da571d5185830ab656275c876f75489145a9
 product: gemini
 product_name: Gemini
 record:
@@ -56,8 +56,7 @@ record:
     cost
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2025-02-18-download-button-for-svg-diagrams-svg-diagrams-generated-within-chat-can-now-be-d|\U0001F4E5
-  Download Button for SVG Diagrams]]"
+- '[[Changes/Recraft/2025-02-26-here-s-how-it-works|Here’s how it works]]'
 - '[[Changes/Dify/2025-02-28-we-are-glad-to-share-that-we-re-launching-dify-v1-0-0|We
   are glad to share that we''re launching Dify v1.0.0]]'
 - "[[Changes/Gamma/2025-03-05-add-a-comment-for-feedback-or-collaboration|\U0001F4AC

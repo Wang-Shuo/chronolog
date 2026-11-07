@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 16eaeeb438554b90af10ee71b62d2b53627b7f55a960afc795b3b37f4250ca0f
+machine_hash: 2ca38ada0ac108404a45bf371f46d4f6da845c65cf6aba38c08f033b60ad5e99
 product: dify
 product_name: Dify
 record:
@@ -42,11 +42,11 @@ record:
   title: 'style(config-var): update styling classes to use design system tokens'
   type: change
 related_changes:
-- '[[Changes/Ollama/2025-06-25-ollama-will-now-limit-context-length-to-what-the-model-was-trained-against-to-av|Ollama
-  will now limit context length to what the model was trained against to avoid…]]'
 - '[[Changes/Aider/2025-06-27-enhanced-thinking-tokens-support-can-now-be-disabled-by-setting-to-0-and-improve|Enhanced
   thinking tokens support]]'
 - '[[Changes/Cursor/2025-07-03-pr-indexing-search|PR indexing & search]]'
+- '[[Changes/AnythingLLM/2025-07-09-built-in-browser-tool-https-docs-anythingllm-com-features-browser-tool-you-can-n|Built
+  in Browser Tool((source link) You…]]'
 source_release: '[[Releases/Dify/dify-2025-07-10-1-6-0-github-231400193-9181f945|dify-2025-07-10-1-6-0-github-231400193-9181f945]]'
 source_type: github_releases
 theme: context-window
@@ -82,7 +82,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2025-07-03 · Cursor · [[Changes/Cursor/2025-07-03-pr-indexing-search|PR indexing & search]]
+- Earlier: 2025-07-09 · AnythingLLM · [[Changes/AnythingLLM/2025-07-09-built-in-browser-tool-https-docs-anythingllm-com-features-browser-tool-you-can-n|Built in Browser Tool((source link) You…]]
 - Later: 2025-07-14 · Open WebUI · [[Changes/Open WebUI/2025-07-14-4-context-window-changes-in-v0-6-16|4 Context Window changes in v0.6.16]]
 <!-- chronolog:end -->
 

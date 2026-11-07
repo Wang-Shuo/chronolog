@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d5da6cfa6c4259e7e91f904b9b8bb89be1f8be94e6cc9e8a7859a5079a74ba5f
+machine_hash: fd09af2213104557778d691bb73a97fc451316b50b40c0095ffb026188f5d07a
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -125,7 +125,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.30.0
 ## Nearby in Model Support
 
 - Earlier: 2026-02-25 · Codex CLI · [[Changes/Codex CLI/2026-02-25-6-model-support-changes-in-rust-v0-105-0|6 Model Support changes in rust-v0.105.0]]
-- Later: 2026-02-25 · Windsurf · [[Changes/Windsurf/2026-02-25-new-model-picker|New Model Picker]]
+- Later: 2026-02-25 · LM Studio · [[Changes/LM Studio/2026-02-25-2-model-support-changes-in-lm-studio-0-4-5|2 Model Support changes in LM Studio 0.4.5]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

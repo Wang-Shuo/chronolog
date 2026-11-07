@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 82825d1f8da0bed7dbf9262e730e11399bed2c81dabb2b2a59b6ba256a22e9d6
+machine_hash: ecbd0e57abcc746bc3b1e81b5d1d3b4b5377f585b11e15069322e0985d67b8ab
 product: openclaw
 product_name: OpenClaw
 record:
@@ -51,12 +51,12 @@ record:
   title: 2 Enterprise and Administration changes in v2026.9.5
   type: change
 related_changes:
-- '[[Changes/Google Antigravity/2026-09-15-enterprise-and-business-accounts-can-now-use-the-integrated-terminal-and-git-ver|Enterprise
-  and Business accounts can now use the integrated terminal and Git version…]]'
-- '[[Changes/Claude Code/2026-09-17-claude-tag-improved-claude-s-notices-in-enterprise-grid-channels-shared-across-w|Claude
-  Tag Improved Claude''s notices in Enterprise Grid channels shared across…]]'
-- '[[Changes/Claude Code/2026-09-18-2-enterprise-and-administration-changes-in-v2-1-277|2
-  Enterprise and Administration changes in v2.1.277]]'
+- '[[Changes/Devin/2026-09-18-require-session-access-for-pr-comments-org-setting|"Require
+  Session Access for PR Comments" Org Setting]]'
+- '[[Changes/Devin/2026-09-18-enterprise-api-audit-logs-pagination|Enterprise API:
+  Audit-Logs Pagination]]'
+- '[[Changes/Devin/2026-09-18-connect-enterprise-mcps-with-your-own-account|Connect
+  Enterprise MCPs with Your Own Account]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-09-19-v2026-9-5-506f537c|openclaw-2026-09-19-v2026-9-5-506f537c]]'
 source_type: openclaw_changelog
 theme: enterprise-admin
@@ -115,7 +115,7 @@ Source: https://docs.openclaw.ai/releases/2026.9.5
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-09-18 · Claude Code · [[Changes/Claude Code/2026-09-18-2-enterprise-and-administration-changes-in-v2-1-277|2 Enterprise and Administration changes in v2.1.277]]
+- Earlier: 2026-09-18 · Devin · [[Changes/Devin/2026-09-18-connect-enterprise-mcps-with-your-own-account|Connect Enterprise MCPs with Your Own Account]]
 - Later: 2026-09-21 · Lovable · [[Changes/Lovable/2026-09-21-set-a-default-design-system-for-each-group|Set a default design system for each group]]
 <!-- chronolog:end -->
 

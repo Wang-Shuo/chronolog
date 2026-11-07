@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 661d7be8c7422ffb806dd85f7a7b3c499f4186300cfb58ab01eece4315df7f00
+machine_hash: 405cc0cccae9448b417f10cf7bc59e2f4e5352fadc05f710154abb5e814403fe
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -86,7 +86,7 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2026-01-27 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-27-simplify-compaction-timeline-entries|Simplify compaction timeline entries]]
-- Later: 2026-01-28 · OpenCode · [[Changes/OpenCode/2026-01-28-core-handle-venice-cache-creation-tokens|Core Handle Venice cache creation tokens]]
+- Later: 2026-01-28 · LM Studio · [[Changes/LM Studio/2026-01-28-bring-back-context-fullness-indicator-and-current-input-token-counter|Bring back context fullness indicator and current input token counter]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

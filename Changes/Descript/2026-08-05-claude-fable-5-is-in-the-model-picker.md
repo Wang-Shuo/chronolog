@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 98365d73f4caa15fd1522bfad394e241871f9851c194d4c2ab3ddc83d8746a89
+machine_hash: 6f34d7f7b8e88bf79765115af71043c35e690bcd66b57ed9db8232c6699b60a3
 product: descript
 product_name: Descript
 record:
@@ -101,7 +101,7 @@ type: change
 ## Nearby in Enterprise and Administration
 
 - Earlier: 2026-08-04 · ChatGPT · [[Changes/ChatGPT/2026-08-04-starting-today-for-chatgpt-enterprise-and-education-users-long-pastes-are-handle|Starting today for ChatGPT Enterprise and Education users, long pastes are handled…]]
-- Later: 2026-08-07 · HeyGen · [[Changes/HeyGen/2026-08-07-2-enterprise-and-administration-changes-in-august-2026-enterprise-releases|2 Enterprise and Administration changes in August 2026 Enterprise Releases]]
+- Later: 2026-08-07 · Devin · [[Changes/Devin/2026-08-07-legacy-cascade-disabled-by-default-for-enterprises|Legacy Cascade Disabled by Default for Enterprises]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

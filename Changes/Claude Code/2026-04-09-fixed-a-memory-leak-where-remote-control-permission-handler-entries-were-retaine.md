@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: fix
-machine_hash: d74d4c43d2b4854cd9c6996d8b2098fe4f982a6d9454f9dad20b906eb2ea8069
+machine_hash: bae7dee49fa054f9c1befb509ebd569f07b67cf079efcaf732e4017022e310af
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,10 +46,9 @@ record:
     retained…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-07-reduce-memory-usage-by-automatically-shutting-down-shell-sessions-that-are-no-lo|Reduce
-  memory usage by automatically shutting down shell sessions that are no longer…]]'
 - '[[Changes/Ollama/2026-04-07-mlx-improve-m5-performance-with-nax|mlx: Improve M5
   performance with NAX]]'
+- '[[Changes/Devin/2026-04-08-faster-syntax-highlighting|Faster Syntax Highlighting]]'
 - '[[Changes/HeyGen/2026-04-08-long-form-stability|Long-form stability]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-09-v2-1-98-github-307232194-a0774436|claude-code-2026-04-09-v2-1-98-github-307232194-a0774436]]'
 source_type: github_releases

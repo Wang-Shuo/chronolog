@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 989b06bd2933191eeb9c91c0e2c6b45abd48ecd8cf696cbdf04e39ede7b4d950
+machine_hash: b6c331436cbec937b55091c3d0a230a8c0e7a731250419c7f405d8df3e4d6bb6
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -49,10 +49,10 @@ record:
   title: 3 Apps and Integrations changes in Kimi Code 2.3.0
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-10-20-2-apps-and-integrations-changes-in-v1-29-0|2 Apps
-  and Integrations changes in v1.29.0]]'
 - '[[Changes/Claude Code/2026-10-21-3-apps-and-integrations-changes-in-v2-1-307|3
   Apps and Integrations changes in v2.1.307]]'
+- '[[Changes/Devin/2026-10-21-gerrit-webhooks-installed-automatically|Gerrit Webhooks
+  Installed Automatically]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-21-2-apps-and-integrations-changes-in-v1-0-102|2
   Apps and Integrations changes in v1.0.102]]'
 source_release: '[[Releases/Kimi Code/kimi-code-2026-10-21-2-3-0-5e4838a5|kimi-code-2026-10-21-2-3-0-5e4838a5]]'

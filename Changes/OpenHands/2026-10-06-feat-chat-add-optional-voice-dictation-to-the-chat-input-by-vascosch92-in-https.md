@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f4cbe62bbeb9e1013478830bf5740f61034196729c99743c1ad6e10540669672
+machine_hash: f858ab52de8754220e4d5652cbe17c9a93d42f105e107fc9d1832ee7b1718494
 product: openhands
 product_name: OpenHands
 record:
@@ -42,10 +42,10 @@ record:
   title: 'feat(chat): add optional voice dictation to the chat input'
   type: change
 related_changes:
-- '[[Changes/HeyGen/2026-10-05-consistent-regenerations-redo-a-line-as-often-as-you-like-and-it-s-still-the-sam|Consistent
-  regenerations: Redo a line as often as you like and it''s still the same voice]]'
 - '[[Changes/HeyGen/2026-10-05-a-great-script-can-fall-flat-when-the-voice-doesn-t-sound-like-it-means-it-eleve|A
   great script can fall flat when the voice doesn''t sound like it means it]]'
+- '[[Changes/Raycast/2026-10-05-2-voice-and-audio-changes-in-raycast-windows-2-6|2
+  Voice and Audio changes in Raycast windows 2.6]]'
 - '[[Changes/ChatGPT/2026-10-06-upload-audio-files-to-chatgpt-to-create-transcripts-summarize-recordings-and-ask|Audio
   uploads in ChatGPT]]'
 source_release: '[[Releases/OpenHands/openhands-2026-10-06-v1-25-0-github-404205170-7fe522ed|openhands-2026-10-06-v1-25-0-github-404205170-7fe522ed]]'

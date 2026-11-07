@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 265434843c3c7acf70301933d0557644d852154ba5313f4c03b9612cdc71f44f
+machine_hash: 4df5616b168d0a877725f379b6b6b8f9e6b7e01316c8292e610921e00bf69d16
 product: v0
 product_name: v0
 record:
@@ -41,8 +41,8 @@ record:
   title: Added modals for Library and Projects navigation
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-01-28-remove-missing-sidebar-item-by-chrstnb-in-https-github-com-google-gemini-gemini|Remove
-  missing sidebar item]]'
+- '[[Changes/LM Studio/2026-01-28-7-interface-experience-changes-in-lm-studio-0-4-0|7
+  Interface Experience changes in LM Studio 0.4.0]]'
 - '[[Changes/OpenCode/2026-01-28-desktop-enable-ctrl-n-and-ctrl-p-for-popover-navigation-in-desktop-app|Desktop
   Enable ctrl+n and ctrl+p for popover navigation in desktop app]]'
 - '[[Changes/OpenCode/2026-01-28-7-interface-experience-changes-in-v1-1-37|7 Interface

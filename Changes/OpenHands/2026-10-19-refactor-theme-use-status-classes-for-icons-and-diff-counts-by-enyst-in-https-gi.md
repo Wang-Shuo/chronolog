@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 23307fca977783eb9b18d51d8e3eb433927c07d37788a05de77fbb7d1c362da7
+machine_hash: 26d05b9e0fe60f386c0520aa2151633f85bc6f526e9c224a19c037db2a2a9992
 product: openhands
 product_name: OpenHands
 record:
@@ -43,10 +43,10 @@ record:
   title: 'refactor(theme): use status classes for icons and diff counts'
   type: change
 related_changes:
-- '[[Changes/v0/2026-10-16-large-files-that-cannot-be-previewed-can-be-downloaded-from-the-code-tab-which-s|Large
-  files that cannot be previewed can be downloaded from the Code tab…]]'
 - '[[Changes/Lovable/2026-10-17-request-a-higher-workspace-role|Request a higher workspace
   role]]'
+- '[[Changes/Devin/2026-10-19-rules-editor-for-devin-review|Rules Editor for Devin
+  Review]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-19-keep-saved-diff-review-comments-when-reopening-an-unchanged-diff-in-the-same-ses|Keep
   saved /diff review comments when reopening an unchanged diff in the same…]]'
 source_release: '[[Releases/OpenHands/openhands-2026-10-19-v1-28-0-github-417391290-d3015a14|openhands-2026-10-19-v1-28-0-github-417391290-d3015a14]]'
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-10-19 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-19-keep-saved-diff-review-comments-when-reopening-an-unchanged-diff-in-the-same-ses|Keep saved /diff review comments when reopening an unchanged diff in the same…]]
-- Later: 2026-10-21 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-21-fish-shell-completion-works-when-aliases-include-option-aliases-like-effort|Fish shell completion works when aliases include option aliases like --effort]]
+- Later: 2026-10-20 · Krea · [[Changes/Krea/2026-10-20-improved-stability-in-the-editor-and-3d-viewer|Improved stability in the Editor and 3D viewer]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

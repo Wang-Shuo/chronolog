@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2ae81fb62b655b22d5cd74cf8b6092a66382fe8cdb905bc57a0845310d0ad422
+machine_hash: 258e78b6c5abb7c51cd403e2d74f876e748b857aa5f62a277d44797ce3ff6f31
 product: cursor
 product_name: Cursor
 record:
@@ -77,7 +77,7 @@ type: change
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-05-01 · Claude Code · [[Changes/Claude Code/2026-05-01-3-safety-and-privacy-changes-in-v2-1-126|3 Safety and Privacy changes in v2.1.126]]
-- Later: 2026-05-01 · OpenHands · [[Changes/OpenHands/2026-05-01-added-sandbox-kvm-enabled-environment-variable-to-enable-passing-dev-kvm-to-sand|Added SANDBOX_KVM_ENABLED environment variable to enable passing /dev/kvm to sandbox…]]
+- Later: 2026-05-01 · Devin · [[Changes/Devin/2026-05-01-snapshot-revert-for-declarative-setup|Snapshot Revert for Declarative Setup]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

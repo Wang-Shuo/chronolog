@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3108f8ba804a27e6b287d3557f88cd8a02974e458e0cbb3ae635a2f9fc4e1f90
+machine_hash: c4a967922635ee2c3875321bd0ec727cda3aaf3d14370e9eeb30272e037ff15f
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -48,8 +48,7 @@ record:
   title: 5 Collaboration changes in rust-v0.143.0
   type: change
 related_changes:
-- '[[Changes/Notion/2026-07-01-your-agents-shouldn-t-be-stuck-in-one-off-chats-now-you-can-bring-multiple-agent|Your
-  agents shouldn’t be stuck in one-off chats]]'
+- '[[Changes/Devin/2026-07-03-api-default-devin-version|API Default Devin Version]]'
 - '[[Changes/Lovable/2026-07-07-the-last-owner-cannot-leave-a-shared-folder|The last
   owner cannot leave a shared folder]]'
 - '[[Changes/v0/2026-07-07-3-collaboration-changes-in-grouped-tool-approvals-richer-mcp|3

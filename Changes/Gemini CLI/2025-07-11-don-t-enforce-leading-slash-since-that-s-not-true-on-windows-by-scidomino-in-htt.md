@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6fb4d6f8e9ebbbbf1434d05d18d872b0870869d9ac839491319a6fca0f8ff67d
+machine_hash: ea04b2c73e66e8f1fdd296a93f88525fa1a290740dd6b05ba700a4318f6a6d54
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -44,8 +44,8 @@ record:
   title: Don't enforce leading slash since that's not true on Windows
   type: change
 related_changes:
-- '[[Changes/Ollama/2025-07-02-3-mobile-and-desktop-changes-in-v0-9-5|3 Mobile and
-  Desktop changes in v0.9.5]]'
+- '[[Changes/AnythingLLM/2025-07-09-2-mobile-and-desktop-changes-in-v1-8-3|2 Mobile
+  and Desktop changes in v1.8.3]]'
 - '[[Changes/Codex CLI/2025-07-10-thanks-to-pchuri-so-that-when-running-codex-installed-via-npm-process-platform-a|Thanks
   to @pchuri so that when running Codex installed via npm…]]'
 - '[[Changes/Notion/2025-07-10-lots-of-improvements|Lots of improvements!]]'

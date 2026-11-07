@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 32f1f068300f41df72dc605d303d3a9bb7effb6818f4a4c47e3015d219c98c74
+machine_hash: c865f768c4c386eb7e42141fc4314a2a714ed489d108ef58b662f8ce051e4795
 product: cursor
 product_name: Cursor
 record:
@@ -43,10 +43,11 @@ record:
   title: '@ previews: We made it easier to see what codeblock you''re @''ing'
   type: change
 related_changes:
-- '[[Changes/Descript/2023-12-05-ai-action-groups|AI Action groups]]'
 - '[[Changes/Descript/2023-12-05-the-escape-key-no-longer-resets-your-tool-selection-in-previous-versions-pressin|The
   escape key no longer resets your Tool selection]]'
 - '[[Changes/Cursor/2023-12-06-minor-onboarding-changes-19f3e5|Onboarding & Feedback]]'
+- '[[Changes/Superwhisper/2023-12-15-show-app-icon-in-dock-when-onboarding-or-settings-is-open|Show
+  app icon in dock when onboarding or settings is open]]'
 source_release: '[[Releases/Cursor/cursor-2023-12-16-0-20-0-https-cursor-com-changelog-0-20-0-fecb080e|cursor-2023-12-16-0-20-0-https-cursor-com-changelog-0-20-0-fecb080e]]'
 source_type: cursor_changelog
 theme: interface-experience
@@ -77,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2023-12-06 · Cursor · [[Changes/Cursor/2023-12-06-minor-onboarding-changes-19f3e5|Onboarding & Feedback]]
+- Earlier: 2023-12-15 · Superwhisper · [[Changes/Superwhisper/2023-12-15-show-app-icon-in-dock-when-onboarding-or-settings-is-open|Show app icon in dock when onboarding or settings is open]]
 - Later: 2023-12-18 · Descript · [[Changes/Descript/2023-12-18-speaker-label-and-speaker-menu-changes|Speaker Label and Speaker Menu changes]]
 <!-- chronolog:end -->
 

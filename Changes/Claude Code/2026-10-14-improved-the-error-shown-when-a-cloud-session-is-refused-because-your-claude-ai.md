@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5df97a4dd439641ad8d64936451a0d849b4f8e200f0e9bfe25a59b65b64fcd2b
+machine_hash: 7acd74f4f95c827e6a00c3973c1f53c30c4c0f588b0a4f28e49929150bb6f674
 product: claude-code
 product_name: Claude Code
 record:
@@ -92,7 +92,7 @@ type: change
 ## Nearby in Account and Access
 
 - Earlier: 2026-10-13 · OpenClaw · [[Changes/OpenClaw/2026-10-13-2-account-and-access-changes-in-v2026-10-3|2 Account and Access changes in v2026.10.3]]
-- Later: 2026-10-14 · Lovable · [[Changes/Lovable/2026-10-14-let-your-app-s-users-sign-in-with-their-lovable-account|Let your app's users sign in with their Lovable account]]
+- Later: 2026-10-14 · Devin · [[Changes/Devin/2026-10-14-sso-only-enterprise-members-are-routed-to-their-enterprise-sign-in|SSO-only Enterprise Members are Routed to Their Enterprise Sign-in]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

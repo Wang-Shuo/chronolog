@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 5b088f95805d70f96899e0daef6ab497a93824dbf0b3ac9e2c383fa10c201859
+machine_hash: cd3ce512bd13be06751ca2e7d61d68306e74c39be7333488e9927fc5558d9bf3
 product: notion
 product_name: Notion
 record:
@@ -57,6 +57,8 @@ related_changes:
   offset]]'
 - '[[Changes/Notion/2020-04-07-2-files-and-data-changes-in-better-ipad-app|2 Files
   and Data changes in Better iPad app]]'
+- '[[Changes/Raycast/2020-10-07-g-suite-search-create-and-open-files|G Suite: Search,
+  create and open files]]'
 source_release: '[[Releases/Notion/notion-2021-03-10-https-www-notion-com-releases-2021-03-10-8743b25a|notion-2021-03-10-https-www-notion-com-releases-2021-03-10-8743b25a]]'
 source_type: notion_changelog
 theme: file-data
@@ -92,7 +94,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2020-04-07 · Notion · [[Changes/Notion/2020-04-07-2-files-and-data-changes-in-better-ipad-app|2 Files and Data changes in Better iPad app]]
+- Earlier: 2020-10-07 · Raycast · [[Changes/Raycast/2020-10-07-g-suite-search-create-and-open-files|G Suite: Search, create and open files]]
 - Later: 2021-04-20 · Synthesia · [[Changes/Synthesia/2021-04-20-a-few-small-but-mighty-features-to-help-you-be-even-more-efficient-while-using-o|Rounded corners & line/character spacing]]
 <!-- chronolog:end -->
 

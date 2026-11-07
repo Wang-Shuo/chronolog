@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 398f424b5f59b8bf0cbe30db7e645650d5c80255e12c7b5b8622406994483e59
+machine_hash: 290f81180eb79f32fe9b39d2ead4287d8d0a0263940fd5d3f7fe83a010d86d65
 product: descript
 product_name: Descript
 record:
@@ -69,8 +69,8 @@ record:
   title: Choose the best model for the job
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-01-05-core-filter-out-empty-messages-and-reasoning-for-anthropic-api-compatibility|Core
-  Filter out empty messages and reasoning for Anthropic API compatibility]]'
+- '[[Changes/Superwhisper/2026-01-05-new-parakeet-multi-language-model-experimental-feature|NEW
+  Parakeet Multi-language model (Experimental feature)]]'
 - '[[Changes/Cline/2026-01-06-3-model-support-changes-in-v3-47-0|3 Model Support changes
   in v3.47.0]]'
 - '[[Changes/Codex CLI/2026-01-06-5-model-support-changes-in-rust-v0-78-0|5 Model

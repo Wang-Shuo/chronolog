@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: eec9d7d16be96bfc7b21db5755c5e0cd4fc3bf4ad75f0ffaf675bc009bea842a
+machine_hash: 750aeae3e0df07cff5153ab75b76f66a375212f70b9aaaa457b4a867019f585f
 product: lovable
 product_name: Lovable
 record:
@@ -68,10 +68,9 @@ record:
   title: SEO and AI search
   type: change
 related_changes:
-- '[[Changes/Gamma/2026-05-15-dark-mode-now-extends-to-the-theme-panel|Dark mode now
-  extends to the theme panel]]'
 - '[[Changes/v0/2026-05-15-reloading-the-preview-iframe-in-safari-shows-the-open-preview-in-new-tab-message|Reloading
   the preview iframe in Safari shows the "Open preview in new tab" message…]]'
+- '[[Changes/Devin/2026-05-17-checks-tab-always-visible|Checks Tab Always Visible]]'
 - '[[Changes/Codex CLI/2026-05-18-21954-fix-goal-update-and-add-goal-edit-command-in-tui-etraut-openai|♯21954
   Fix goal update and add /goal edit command in TUI @etraut-openai]]'
 source_release: '[[Releases/Lovable/lovable-2026-05-18-2026-05-18-640aaf83|lovable-2026-05-18-2026-05-18-640aaf83]]'

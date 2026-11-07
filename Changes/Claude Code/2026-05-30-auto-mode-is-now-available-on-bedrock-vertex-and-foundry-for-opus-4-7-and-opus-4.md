@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: expansion
-machine_hash: 6f066f4b945a1aede6aa8e03e7c4ef46bfc7a87af95a04f07559fddd0650cf49
+machine_hash: adfc7f13f977ad1edb44718a51c610748cb6f5ff43739b281c3aeefcc3cfd649
 product: claude-code
 product_name: Claude Code
 record:
@@ -53,12 +53,12 @@ record:
     Opus 4.8
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-05-28-2-model-support-changes-in-v1-15-12|2 Model Support
-  changes in v1.15.12]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-29-2-model-support-changes-in-v1-0-56|2 Model
   Support changes in v1.0.56]]'
 - '[[Changes/Kimi Code/2026-05-29-4-model-support-changes-in-kimi-code-0-6-0|4 Model
   Support changes in Kimi Code 0.6.0]]'
+- '[[Changes/LM Studio/2026-05-29-cuda-added-tensor-parallelism-support-for-multi-gpu-model-loading|CUDA
+  Added tensor parallelism support for multi-GPU model loading]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-30-v2-1-158-github-331845855-ec9308fc|claude-code-2026-05-30-v2-1-158-github-331845855-ec9308fc]]'
 source_type: github_releases
 theme: model-support
@@ -86,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-05-29 · Kimi Code · [[Changes/Kimi Code/2026-05-29-4-model-support-changes-in-kimi-code-0-6-0|4 Model Support changes in Kimi Code 0.6.0]]
+- Earlier: 2026-05-29 · LM Studio · [[Changes/LM Studio/2026-05-29-cuda-added-tensor-parallelism-support-for-multi-gpu-model-loading|CUDA Added tensor parallelism support for multi-GPU model loading]]
 - Later: 2026-05-30 · OpenCode · [[Changes/OpenCode/2026-05-30-core-gateway-anthropic-opus-4-7-adaptive-reasoning-now-keeps-summarized-thinking|Core Gateway Anthropic Opus 4.7+ adaptive reasoning now keeps summarized thinking…]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d9156498e0730462ecd6267e3caf3a054ba7062f5646c57dd0f24ebb3976d83e
+machine_hash: fd941889e0b1d51ce3ca3de92bb734251b4bd3f1f45100e3ab602f8d01640d73
 product: cursor
 product_name: Cursor
 record:
@@ -40,10 +40,9 @@ record:
   title: Terminal no longer interferes with chat
   type: change
 related_changes:
-- '[[Changes/Notion/2022-08-25-drag-a-value-from-one-cell-to-fill-other-cells|Drag
-  a value from one cell to fill other cells]]'
-- '[[Changes/Notion/2022-10-12-every-few-months-our-engineers-participate-in-a-week-long-bug-bash-to-keep-your|Every
-  few months, our engineers participate in a week-long “bug bash” to keep…]]'
+- '[[Changes/Raycast/2023-01-18-2-developer-workflow-changes-in-raycast-macos-v1-1-46-0|2
+  Developer Workflow changes in Raycast macos-v1 1.46.0]]'
+- '[[Changes/Raycast/2023-02-01-deeplinks|Deeplinks]]'
 - '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
 source_release: '[[Releases/Cursor/cursor-2023-03-23-0-1-5-https-cursor-com-changelog-0-1-5-b6aefe25|cursor-2023-03-23-0-1-5-https-cursor-com-changelog-0-1-5-b6aefe25]]'
 source_type: cursor_changelog

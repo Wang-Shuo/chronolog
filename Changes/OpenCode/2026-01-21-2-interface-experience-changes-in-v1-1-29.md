@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8429ec21f1099fe7db6ed51d41f49c51a84021c709bad223dcebb6196eff834f
+machine_hash: 21e755fcb9ccc73a3addcb6552a7e570179ac4a84d8602c69560e84543f2a8b2
 product: opencode
 product_name: OpenCode
 record:
@@ -42,8 +42,8 @@ record:
   title: 2 Interface Experience changes in v1.1.29
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-01-20-3-interface-experience-changes-in-v1-1-28|3 Interface
-  Experience changes in v1.1.28]]'
+- '[[Changes/Raycast/2026-01-20-general-added-missing-about-actions-menu-in-all-extensions|General
+  : Added missing about actions menu in all extensions]]'
 - '[[Changes/Codex CLI/2026-01-21-3-interface-experience-changes-in-rust-v0-88-0|3
   Interface Experience changes in rust-v0.88.0]]'
 - '[[Changes/Gemini CLI/2026-01-21-3-interface-experience-changes-in-v0-25-0|3 Interface

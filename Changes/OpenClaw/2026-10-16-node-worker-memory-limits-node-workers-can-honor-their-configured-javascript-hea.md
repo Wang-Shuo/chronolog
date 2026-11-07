@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c365734ec4cda37c2d897099a11c2fbb2781a81bda27b2705fd74fe8e8abbe32
+machine_hash: b33d3a4d56421df2a16eb89ba609e0f7ba027e296c2ab829d1bd1953f737fed0
 product: openclaw
 product_name: OpenClaw
 record:
@@ -46,8 +46,8 @@ record:
   title: Node worker memory limits
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-10-16-faster-responses|Faster responses]]'
 - '[[Changes/Cursor/2026-10-16-larger-faster-environments|Larger, faster environments]]'
+- '[[Changes/Krea/2026-10-16-faster-krea-agent|Faster Krea Agent]]'
 - "[[Changes/Open WebUI/2026-10-16-general-improvements-various-improvements-were-implemented-across-the-applicatio|\U0001F504
   General improvements. Various improvements were implemented across…]]"
 source_release: '[[Releases/OpenClaw/openclaw-2026-10-16-v2026-10-4-c8c204e0|openclaw-2026-10-16-v2026-10-4-c8c204e0]]'
@@ -91,7 +91,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-10-16 · Open WebUI · [[Changes/Open WebUI/2026-10-16-general-improvements-various-improvements-were-implemented-across-the-applicatio|🔄 General improvements. Various improvements were implemented across…]]
-- Later: 2026-10-19 · Claude Code · [[Changes/Claude Code/2026-10-19-2-reliability-and-performance-changes-in-v2-1-304|2 Reliability and Performance changes in v2.1.304]]
+- Later: 2026-10-16 · Raycast · [[Changes/Raycast/2026-10-16-3-reliability-and-performance-changes-in-raycast-macos-2-8|3 Reliability and Performance changes in Raycast macos 2.8]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

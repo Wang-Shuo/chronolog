@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 07bd56abc3acf31c007028b4585e18cc2a2c987111c60d453017acc0957cb96b
+machine_hash: e46745d2f5cb9e0d295d0fc26513814fe39219f2af5fe2bba4acfc909f1e8844
 product: windsurf
 product_name: Windsurf
 record:
@@ -40,12 +40,12 @@ record:
   title: Various bug fixes and performance improvements
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-03-18-claude-code-will-now-be-faster-when-run-locally-due-to-preventing-cache-breakage|Claude
-  Code will now be faster when run locally, due to preventing cache breakages]]'
 - '[[Changes/Claude Code/2026-03-19-reduced-memory-usage-on-startup-in-large-repositories-80-mb-saved-on-250k-file-r|Reduced
   memory usage on startup in large repositories (~80 MB saved on 250k-file repos)]]'
 - '[[Changes/Cursor/2026-03-19-composer-2-is-now-available-in-cursor-frontier-level-coding-performance-with-str|Composer
   2 is now available in Cursor]]'
+- '[[Changes/Devin/2026-03-19-various-bug-fixes-and-performance-improvements-across-the-platform|Various
+  bug fixes and performance improvements across the platform]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-03-19-v1-9577-42-0c6883f3|windsurf-2026-03-19-v1-9577-42-0c6883f3]]'
 source_type: windsurf_changelog
 theme: reliability-performance
@@ -72,7 +72,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-03-19 · Cursor · [[Changes/Cursor/2026-03-19-composer-2-is-now-available-in-cursor-frontier-level-coding-performance-with-str|Composer 2 is now available in Cursor]]
+- Earlier: 2026-03-19 · Devin · [[Changes/Devin/2026-03-19-various-bug-fixes-and-performance-improvements-across-the-platform|Various bug fixes and performance improvements across the platform]]
 - Later: 2026-03-20 · Cline · [[Changes/Cline/2026-03-20-latency-improvements-for-remote-workspaces|Latency improvements for remote workspaces]]
 <!-- chronolog:end -->
 

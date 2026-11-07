@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 6fb2b342a6efa8aaf114fead8f4df43f0ed82237239c6f6714db1e3a4b49766d
+machine_hash: b353ad75240f244c151881d24fc6ebe66d627b190717b072e71ab8b15f5465b0
 product: suno
 product_name: Suno
 record:

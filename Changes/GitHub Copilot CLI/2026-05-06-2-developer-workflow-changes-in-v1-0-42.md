@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f0e6d0fca6887b00bfafc1d119cb6d97fffae85a7be482cb01dd5e42ef47d31c
+machine_hash: c734b050aab675e662dd35f46aaab5b3f46631ebed4a868addd7d902298cb1ac
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,12 +45,10 @@ record:
   title: 2 Developer Workflow changes in v1.0.42
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-05-04-add-pty-connection-tickets-so-authenticated-terminal-websockets-work-more-reliab|Add
-  PTY connection tickets so authenticated terminal websockets work more reliably…]]'
-- '[[Changes/Gemini CLI/2026-05-05-3-developer-workflow-changes-in-v0-41-0|3 Developer
-  Workflow changes in v0.41.0]]'
 - '[[Changes/Claude Code/2026-05-06-2-developer-workflow-changes-in-v2-1-129|2 Developer
   Workflow changes in v2.1.129]]'
+- '[[Changes/Devin/2026-05-06-review-commit-links|Review Commit Links]]'
+- '[[Changes/Devin/2026-05-06-command-palette-search|Command Palette Search]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-05-06-v1-0-42-github-318458746-856bb0d7|github-copilot-cli-2026-05-06-v1-0-42-github-318458746-856bb0d7]]'
 source_type: github_releases
 theme: developer-workflow
@@ -86,7 +84,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.42
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-05-06 · Claude Code · [[Changes/Claude Code/2026-05-06-2-developer-workflow-changes-in-v2-1-129|2 Developer Workflow changes in v2.1.129]]
+- Earlier: 2026-05-06 · Devin · [[Changes/Devin/2026-05-06-command-palette-search|Command Palette Search]]
 - Later: 2026-05-06 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-06-show-download-progress-when-running-the-update-command|Show download progress when running the update command]]
 <!-- chronolog:end -->
 

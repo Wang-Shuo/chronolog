@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 55a62af244ae8a306b7e76b86511c4dddf880259e0b64199d6a40ef17ce4e7a4
+machine_hash: c882d3c7804f50c8bc2b80b600bbdbc8d80e46dfbf24be02e5bd55839ff0f2b9
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -89,7 +89,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.14
 ## Nearby in Interface Experience
 
 - Earlier: 2026-03-31 · Codex CLI · [[Changes/Codex CLI/2026-03-31-3-interface-experience-changes-in-rust-v0-118-0|3 Interface Experience changes in rust-v0.118.0]]
-- Later: 2026-04-01 · Claude Code · [[Changes/Claude Code/2026-04-01-changed-resume-picker-to-no-longer-show-sessions-created-by-claude-p-or-sdk-invo|Changed --resume picker to no longer show sessions created by claude -p or SDK…]]
+- Later: 2026-03-31 · Wispr Flow · [[Changes/Wispr Flow/2026-03-31-language-picker-in-the-flow-bar-desktop|Language Picker in the Flow Bar (Desktop)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

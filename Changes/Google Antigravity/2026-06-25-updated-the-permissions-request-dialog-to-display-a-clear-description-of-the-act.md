@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7cb959f7996aa05e9bc3815d59e3e6f99e40fb42b19d29812216e04d8e125637
+machine_hash: 2aa85e47cd0285ac69a91545f394aab8206046cfea86f4720a417346dbe655f9
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -46,8 +46,8 @@ record:
     the action…
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-06-24-3-developer-workflow-changes-in-v1-17-10|3 Developer
-  Workflow changes in v1.17.10]]'
+- '[[Changes/Raycast/2026-06-24-raycast-focus-added-missing-import-focus-categories-command-and-export-category|Raycast
+  Focus : Added missing Import Focus Categories command and Export Category…]]'
 - '[[Changes/Dify/2026-06-25-9-developer-workflow-changes-in-1-15-0|9 Developer Workflow
   changes in 1.15.0]]'
 - '[[Changes/Gemini CLI/2026-06-25-feat-add-eval-inventory-cli-command-and-reporting-logic-by-ved015-in-https-githu|feat:

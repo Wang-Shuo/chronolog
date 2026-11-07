@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: c80e3dcd0ea2bfeaa0883337e10daba9115ca8c77cd1d8796e62896dd1f8d78c
+machine_hash: 9c46858aff2d40c5dbcb2f089c48e0d3bebf08406489e48f8c00e8f0ce7e8487
 product: notion
 product_name: Notion
 record:
@@ -49,10 +49,10 @@ record:
   title: One AI tool to chat & search
   type: change
 related_changes:
-- '[[Changes/Gemini/2024-07-25-introducing-gemini-1-5-flash-to-gemini|Introducing
-  Gemini 1.5 Flash to Gemini]]'
 - '[[Changes/Ollama/2024-07-25-4-model-support-changes-in-v0-3-0|4 Model Support changes
   in v0.3.0]]'
+- '[[Changes/AnythingLLM/2024-07-26-47-model-support-changes-in-v1-0-0|47 Model Support
+  changes in v1.0.0]]'
 - '[[Changes/Aider/2024-07-29-fall-back-to-main-model-if-weak-model-is-unable-to-generate-a-commit-message|Fall
   back to main model if weak model is unable to generate a commit message]]'
 source_release: '[[Releases/Notion/notion-2024-07-29-https-www-notion-com-releases-2024-07-29-6cd461d8|notion-2024-07-29-https-www-notion-com-releases-2024-07-29-6cd461d8]]'

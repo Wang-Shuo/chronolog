@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f99d18caf97bfc491bf901fd074b5d86709bd1679304b4d8cd5577e8beb4fffd
+machine_hash: c8217b19b4a55ead15fd0e1a7aa1fb7aa0588a58db1ecda5499d064d593b5869
 product: cursor
 product_name: Cursor
 record:
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2024-08-13 · Notion · [[Changes/Notion/2024-08-13-create-a-chart-in-seconds|Create a chart in seconds]]
-- Later: 2024-09-10 · Gamma · [[Changes/Gamma/2024-09-10-we-added-a-new-way-to-share-your-gamma-creations-you-can-now-download-any-of-you|We added a new way to share your Gamma creations]]
+- Later: 2024-09-03 · Devin · [[Changes/Devin/2024-09-03-let-devin-create-devins-with-multidevin|Let Devin create Devins with MultiDevin]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

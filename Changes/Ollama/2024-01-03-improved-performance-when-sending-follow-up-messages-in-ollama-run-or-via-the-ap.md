@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: cd23f60a1e3161e6443016354ba7a6cda4d0149b4146c149226f2c2e9865727c
+machine_hash: 1f803407c366d3a3b6240755aa7e4da07a392687a28540db7beb58eda754555c
 product: ollama
 product_name: Ollama
 record:
@@ -43,7 +43,8 @@ record:
     the API
   type: change
 related_changes:
-- '[[Changes/Descript/2023-12-05-general-updates|General Updates]]'
+- '[[Changes/Superwhisper/2023-12-13-performance-improvements-for-file-reading|Performance
+  improvements for file reading]]'
 - '[[Changes/Ollama/2023-12-14-this-release-adds-support-mixtral-and-other-models-based-on-its-mixture-of-exper|Ollama
   adds support Mixtral and other models based on its Mixture of Experts (MoE)…]]'
 - '[[Changes/Notion/2023-12-20-pages-load-15-20-faster|Pages load 15-20% faster]]'

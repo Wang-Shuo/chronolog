@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 466f5502205de1c0c82ab3ed55b38600309fa1144c8e7495accad36abdd93ec6
+machine_hash: 92376857cd6c8b3043b17b0065f166862381d0a0c7c7bec40a439612a49e3870
 product: dify
 product_name: Dify
 record:
@@ -51,10 +51,10 @@ record:
   title: 5 Pricing Model changes in 1.16.0
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-07-13-functions-usage-is-now-labeled-compute|Functions usage
-  is now labeled Compute]]'
 - '[[Changes/OpenClaw/2026-07-13-18-pricing-model-changes-in-v2026-7-1|18 Pricing
   Model changes in v2026.7.1]]'
+- '[[Changes/Recraft/2026-07-15-cost-22-credits-per-generation|Cost: 22 credits per
+  generation]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-16-3-pricing-model-changes-in-v1-0-71|3 Pricing
   Model changes in v1.0.71]]'
 source_release: '[[Releases/Dify/dify-2026-07-17-1-16-0-github-355594285-636849e9|dify-2026-07-17-1-16-0-github-355594285-636849e9]]'

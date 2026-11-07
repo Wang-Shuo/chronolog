@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4f2f81bbfd31bb2241a8317d012bfb03b8b3ce254d4b07290c77c5cf1a3627a1
+machine_hash: 8b486f929e707955f1cf3ea36bbad828da705f23b34e320453b538cb3e2ac5b4
 product: descript
 product_name: Descript
 record:
@@ -56,7 +56,8 @@ record:
   title: Improved edit reviews
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-05-13-workspaces|Workspaces]]'
+- '[[Changes/Krea/2026-05-13-recipients-can-generate-using-your-moodboard-but-not-edit-it|Recipients
+  can generate using your moodboard, but not edit it]]'
 - '[[Changes/Notion/2026-05-13-manage-all-connections-from-one-tab|Manage all connections
   from one tab]]'
 - '[[Changes/OpenCode/2026-05-13-core-autocomplete-configured-mentions-in-prompts|Core

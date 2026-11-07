@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: af619ec2485d9f6d35edfc642a222ab2cb3e2203433a5f8938077f2db5fd0e1f
+machine_hash: 6272a3433918fb1b33650c329b1d257b6e029ff575fe95ed45f1a598fcf1d8e1
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,12 @@ record:
   title: 2 Model Support changes in v2.1.142
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-05-13-nomic-embed-text-now-converts-inputs-to-lowercase-per-the-model-card-where-prior|nomic-embed-text
-  now converts inputs to lowercase per the model card where prior…]]'
-- '[[Changes/OpenCode/2026-05-13-added-the-v2-model-and-provider-listing-api|Added
-  the v2 model and provider listing API]]'
 - '[[Changes/OpenCode/2026-05-13-2-model-support-changes-in-v1-14-49|2 Model Support
   changes in v1.14.49]]'
+- '[[Changes/Raycast/2026-05-13-ai-settings-added-a-dedicated-page-for-models-with-configurable-defaults|AI
+  Settings : Added a dedicated page for models with configurable defaults]]'
+- '[[Changes/Raycast/2026-05-13-ai-settings-added-a-dedicated-page-for-models-with-configurable-defaults-fb8760|AI
+  Settings : Added a dedicated page for models with configurable defaults]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-14-v2-1-142-github-322792825-ffda4d4f|claude-code-2026-05-14-v2-1-142-github-322792825-ffda4d4f]]'
 source_type: github_releases
 theme: model-support
@@ -85,7 +85,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.142
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-05-13 · OpenCode · [[Changes/OpenCode/2026-05-13-2-model-support-changes-in-v1-14-49|2 Model Support changes in v1.14.49]]
+- Earlier: 2026-05-13 · Raycast · [[Changes/Raycast/2026-05-13-ai-settings-added-a-dedicated-page-for-models-with-configurable-defaults-fb8760|AI Settings : Added a dedicated page for models with configurable defaults]]
 - Later: 2026-05-14 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-14-2-model-support-changes-in-v1-0-48|2 Model Support changes in v1.0.48]]
 <!-- chronolog:end -->
 

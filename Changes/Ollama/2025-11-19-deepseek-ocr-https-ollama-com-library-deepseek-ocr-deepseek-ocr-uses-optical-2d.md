@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c8014327a02c15ea38f10d13cdc93af4315cf6c1b3c28a153152b25fb10bb277
+machine_hash: e7c0c7abdce56abe62d350faade6a42fbe07d82891f2bb22d6af3de498010362
 product: ollama
 product_name: Ollama
 record:
@@ -56,12 +56,12 @@ record:
     optical…'
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-10-29-feat-docs-add-initial-release-confidence-document-by-galz10-in-https-github-com|feat(docs):
-  add initial release confidence document]]'
 - '[[Changes/Gemini CLI/2025-11-04-document-todo-tool-by-scidomino-in-https-github-com-google-gemini-gemini-cli-pul|Document
   todo tool]]'
 - '[[Changes/Open WebUI/2025-11-06-3-files-and-data-changes-in-v0-6-35|3 Files and
   Data changes in v0.6.35]]'
+- '[[Changes/Recraft/2025-11-18-you-can-now-enhance-any-layer-directly-on-the-canvas-with-drop-shadow-stroke-and|Layer
+  effects: Shadows, strokes, and blurs]]'
 source_release: '[[Releases/Ollama/ollama-2025-11-19-v0-13-0-github-263513243-ba692e80|ollama-2025-11-19-v0-13-0-github-263513243-ba692e80]]'
 source_type: github_releases
 theme: file-data
@@ -92,7 +92,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2025-11-06 · Open WebUI · [[Changes/Open WebUI/2025-11-06-3-files-and-data-changes-in-v0-6-35|3 Files and Data changes in v0.6.35]]
+- Earlier: 2025-11-18 · Recraft · [[Changes/Recraft/2025-11-18-you-can-now-enhance-any-layer-directly-on-the-canvas-with-drop-shadow-stroke-and|Layer effects: Shadows, strokes, and blurs]]
 - Later: 2025-11-24 · Open WebUI · [[Changes/Open WebUI/2025-11-24-2-files-and-data-changes-in-v0-6-37|2 Files and Data changes in v0.6.37]]
 <!-- chronolog:end -->
 

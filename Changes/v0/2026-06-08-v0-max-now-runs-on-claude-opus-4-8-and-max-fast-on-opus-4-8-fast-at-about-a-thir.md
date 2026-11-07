@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 5ab3dda0e8d5425ed709ea9d5b4cd69675bf9cf8f8ac5c5a999d775b1078a617
+machine_hash: f797580faeba06c87fb1ee8edca8d57640a104abaeed26188d83b353f56b8635
 product: v0
 product_name: v0
 record:
@@ -60,9 +60,10 @@ record:
     a third…
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-06-08-python-sdk|Python SDK]]'
 - '[[Changes/ElevenLabs/2026-06-08-text-to-speech|Text to Speech]]'
 - '[[Changes/ElevenLabs/2026-06-08-javascript-sdk|JavaScript SDK]]'
+- '[[Changes/LM Studio/2026-06-08-use-lm-link-in-locally-to-take-your-largest-lm-studio-models-on-the-go|Use
+  LM Link in Locally to take your largest LM Studio models on the go]]'
 source_release: '[[Releases/v0/v0-2026-06-08-2026-06-08-4f50e6b2|v0-2026-06-08-2026-06-08-4f50e6b2]]'
 source_type: v0_changelog
 theme: model-support
@@ -100,8 +101,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-06-08 · ElevenLabs · [[Changes/ElevenLabs/2026-06-08-javascript-sdk|JavaScript SDK]]
-- Later: 2026-06-09 · Claude · [[Changes/Claude/2026-06-09-claude-fable-5-launch|Claude Fable 5 launch]]
+- Earlier: 2026-06-08 · LM Studio · [[Changes/LM Studio/2026-06-08-use-lm-link-in-locally-to-take-your-largest-lm-studio-models-on-the-go|Use LM Link in Locally to take your largest LM Studio models on the go]]
+- Later: 2026-06-09 · AnythingLLM · [[Changes/AnythingLLM/2026-06-09-4-model-support-changes-in-v1-14-0|4 Model Support changes in v1.14.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

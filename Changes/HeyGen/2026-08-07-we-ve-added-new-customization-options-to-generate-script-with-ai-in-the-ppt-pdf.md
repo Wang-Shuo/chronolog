@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: video-generation
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: cb9f7068bcd88058e2b750940a4ab4308f57b539b9cfb2c8e525839fafba37d9
+machine_hash: d0bff640896a9f843626eb0db2aebdc15d2b46b76603c66543d022f062f0e1fb
 product: heygen
 product_name: HeyGen
 record:
@@ -102,7 +102,7 @@ type: change
 ## Nearby in Video Generation
 
 - Earlier: 2026-08-05 · Runway · [[Changes/Runway/2026-08-05-minimax-hailuo-3-0-is-now-live-on-runway-dev-generate-video-from-text-image-or-v|MiniMax Hailuo 3.0]]
-- Later: 2026-08-13 · Runway · [[Changes/Runway/2026-08-13-xai-s-grok-imagine-1-5-is-now-available-in-runway-mcp-as-grok-imagine-1-5-suppor|Grok Imagine 1.5 Video]]
+- Later: 2026-08-13 · Recraft · [[Changes/Recraft/2026-08-13-we-ve-added-seedance-2-5-for-video-generation-in-recraft-studio-generate-clips-u|Recraft adds Seedance 2.5 for video generation in Recraft Studio]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

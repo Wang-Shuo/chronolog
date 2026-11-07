@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b98f00e9b482d209e7c223c9ba257f8cba5f90e70a634dff004941d084af159d
+machine_hash: 8b955c48e11bd11bd428d87744427ed642770711d5597dddc91f149fc10da861
 product: cursor
 product_name: Cursor
 record:
@@ -41,12 +41,12 @@ record:
   title: Shipped better error logging, which should help us improve stability
   type: change
 related_changes:
-- '[[Changes/Descript/2023-10-17-a-major-advancement-in-speed-quality-of-ai-speech|A
-  major advancement in speed & quality of AI speech]]'
 - '[[Changes/Ollama/2023-10-20-ollama-run-will-now-show-more-descriptive-errors-when-encountering-runtime-issue|ollama
   run will now show more descriptive errors when encountering runtime issues…]]'
 - '[[Changes/Ollama/2023-10-27-2-reliability-and-performance-changes-in-v0-1-6|2 Reliability
   and Performance changes in v0.1.6]]'
+- '[[Changes/Raycast/2023-11-02-clipboard-improved-performance-on-clipboard-entries-filtering|Clipboard:
+  Improved performance on clipboard entries filtering]]'
 source_release: '[[Releases/Cursor/cursor-2023-11-03-0-14-0-https-cursor-com-changelog-0-14-0-45a47acf|cursor-2023-11-03-0-14-0-https-cursor-com-changelog-0-14-0-45a47acf]]'
 source_type: cursor_changelog
 theme: reliability-performance
@@ -78,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2023-10-27 · Ollama · [[Changes/Ollama/2023-10-27-2-reliability-and-performance-changes-in-v0-1-6|2 Reliability and Performance changes in v0.1.6]]
+- Earlier: 2023-11-02 · Raycast · [[Changes/Raycast/2023-11-02-clipboard-improved-performance-on-clipboard-entries-filtering|Clipboard: Improved performance on clipboard entries filtering]]
 - Later: 2023-11-04 · Ollama · [[Changes/Ollama/2023-11-04-ollama-push-is-now-much-faster-7b-models-will-push-up-to-100mb-s-and-large-model|ollama push is now much faster]]
 <!-- chronolog:end -->
 

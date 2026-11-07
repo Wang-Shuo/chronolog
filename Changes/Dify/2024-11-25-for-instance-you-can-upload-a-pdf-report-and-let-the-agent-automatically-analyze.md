@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 13091649af61ae158eba43a01c6021823b8c65cadd4a4c4db93e8f6f05862125
+machine_hash: bd3fd453080418b5a17e83beee052aeb607f611972f00e2c1140343752a1eb89
 product: dify
 product_name: Dify
 record:
@@ -47,8 +47,8 @@ record:
     analyze…
   type: change
 related_changes:
-- '[[Changes/OpenHands/2024-10-22-improvements-to-agent-editing-using-llm-by-xingyaoww-in-https-github-com-all-han|Improvements
-  to Agent Editing using LLM]]'
+- '[[Changes/AnythingLLM/2024-10-25-3-agent-mode-changes-in-v1-2-4|3 Agent Mode changes
+  in v1.2.4]]'
 - '[[Changes/OpenHands/2024-11-08-2-agent-mode-changes-in-0-13-0|2 Agent Mode changes
   in 0.13.0]]'
 - "[[Changes/Open WebUI/2024-11-19-agentic-retrieval-improve-rag-accuracy-via-smart-pre-processing-of-chat-history|\U0001F5C2️
@@ -92,7 +92,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2024-11-19 · Open WebUI · [[Changes/Open WebUI/2024-11-19-agentic-retrieval-improve-rag-accuracy-via-smart-pre-processing-of-chat-history|🗂️ Agentic Retrieval]]
-- Later: 2024-11-29 · ElevenLabs · [[Changes/ElevenLabs/2024-11-29-api|API]]
+- Later: 2024-11-26 · AnythingLLM · [[Changes/AnythingLLM/2024-11-26-the-anythingllm-community-hub-https-hub-anythingllm-com-is-a-platform-that-works|The AnythingLLM Community Hub((source link) is a platform…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

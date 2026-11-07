@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: bef90b874ffd94156096fa5858315bd759f7b13f7bb5578f37b23a02727417c2
+machine_hash: c47804c9c8bd6b02738ba16e3c9549b79f1823ba6248370264ce07adbdc27ff9
 product: cursor
 product_name: Cursor
 record:
@@ -47,11 +47,11 @@ record:
   title: Billing groups
   type: change
 related_changes:
-- '[[Changes/Dify/2025-12-11-2-pricing-model-changes-in-1-11-0|2 Pricing Model changes
-  in 1.11.0]]'
 - '[[Changes/v0/2025-12-12-v0-mini-fastest-and-most-cost-efficient|v0 Mini : Fastest
   and most cost-efficient]]'
 - '[[Changes/ElevenLabs/2025-12-15-text-to-speech|Text to Speech]]'
+- '[[Changes/Recraft/2025-12-16-flux-2-max-has-been-added-to-recraft-and-is-now-available-for-all-paid-subscribe|New
+  external model: Flux 2 Max]]'
 source_release: '[[Releases/Cursor/cursor-2025-12-18-enterprise-insights-billing-groups-service-accounts-and-improved-23eccccb|cursor-2025-12-18-enterprise-insights-billing-groups-service-accounts-and-improved-23eccccb]]'
 source_type: cursor_changelog
 theme: pricing-model
@@ -86,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2025-12-15 · ElevenLabs · [[Changes/ElevenLabs/2025-12-15-text-to-speech|Text to Speech]]
+- Earlier: 2025-12-16 · Recraft · [[Changes/Recraft/2025-12-16-flux-2-max-has-been-added-to-recraft-and-is-now-available-for-all-paid-subscribe|New external model: Flux 2 Max]]
 - Later: 2025-12-23 · Lovable · [[Changes/Lovable/2025-12-23-lovable-gift-cards|Lovable gift cards]]
 <!-- chronolog:end -->
 

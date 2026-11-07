@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1679d1783fec442d7ba814d48b65e754634ea5bdc537ff906029159f1ac7b799
+machine_hash: 381bceb7e2641d420b1634e0bd5877e487522168aed5fe74b685e9cc8da5412e
 product: ollama
 product_name: Ollama
 record:
@@ -53,12 +53,12 @@ record:
     during…
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-01-09-9-reliability-and-performance-changes-in-v0-7-0|9
-  Reliability and Performance changes in v0.7.0]]'
 - '[[Changes/Open WebUI/2026-01-09-improved-reliability-for-low-spec-and-sqlite-deployments-fixed-page-timeouts-by|⚡
   Improved reliability for low-spec and SQLite deployments. Fixed page timeouts…]]'
 - '[[Changes/OpenCode/2026-01-09-desktop-implement-chunked-message-loading-and-lazy-diff-loading-for-improved-per|Desktop
   Implement chunked message loading and lazy diff loading for improved performance]]'
+- '[[Changes/Superwhisper/2026-01-09-dependency-updates-including-some-model-runtime-performance-improvements|Dependency
+  updates, including some model runtime performance improvements]]'
 source_release: '[[Releases/Ollama/ollama-2026-01-10-v0-14-0-github-275351986-b7215a01|ollama-2026-01-10-v0-14-0-github-275351986-b7215a01]]'
 source_type: github_releases
 theme: reliability-performance
@@ -91,7 +91,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-01-09 · OpenCode · [[Changes/OpenCode/2026-01-09-desktop-implement-chunked-message-loading-and-lazy-diff-loading-for-improved-per|Desktop Implement chunked message loading and lazy diff loading for improved performance]]
+- Earlier: 2026-01-09 · Superwhisper · [[Changes/Superwhisper/2026-01-09-dependency-updates-including-some-model-runtime-performance-improvements|Dependency updates, including some model runtime performance improvements]]
 - Later: 2026-01-10 · Open WebUI · [[Changes/Open WebUI/2026-01-10-the-evaluations-page-now-loads-faster-by-eliminating-duplicate-api-calls-to-the|📊 The Evaluations page now loads faster by eliminating duplicate API calls…]]
 <!-- chronolog:end -->
 

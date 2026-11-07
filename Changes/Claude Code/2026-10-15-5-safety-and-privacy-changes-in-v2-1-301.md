@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e587713f45ca91ee000884fe77a17abffc546732f7789970c3d50d9372076d9a
+machine_hash: ac6fdd4b3a232977a4ed5f263ba663631256d4ad376e105131abb2e0c4732876
 product: claude-code
 product_name: Claude Code
 record:
@@ -55,8 +55,7 @@ record:
   title: 5 Safety and Privacy changes in v2.1.301
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-14-6-safety-and-privacy-changes-in-v2-1-299|6 Safety
-  and Privacy changes in v2.1.299]]'
+- '[[Changes/Devin/2026-10-14-manage-devin-review-permission|Manage Devin Review Permission]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-14-resuming-a-session-now-respects-abandoned-pending-permission-work-and-continues|Resuming
   a session now respects abandoned pending-permission work and continues only…]]'
 - "[[Changes/Open WebUI/2026-10-14-rich-ui-embed-console-errors-rich-ui-tool-embeds-no-longer-log-a-security-error|\U0001F9E9

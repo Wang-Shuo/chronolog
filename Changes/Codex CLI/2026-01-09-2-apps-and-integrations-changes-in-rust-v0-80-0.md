@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 11a13a75486e98a05133c59793bffc5ba45258be4d82be182499d99b8061dbd4
+machine_hash: 04750e51f49a2e591624490e73160e7ffecf38ee489bb816d39b50989d60df75
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -90,7 +90,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.80.0
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-01-09 · Claude Code · [[Changes/Claude Code/2026-01-09-2-apps-and-integrations-changes-in-v2-1-2|2 Apps and Integrations changes in v2.1.2]]
-- Later: 2026-01-09 · Open WebUI · [[Changes/Open WebUI/2026-01-09-3-apps-and-integrations-changes-in-v0-7-0|3 Apps and Integrations changes in v0.7.0]]
+- Later: 2026-01-09 · Devin · [[Changes/Devin/2026-01-09-native-linear-integration|Native Linear Integration]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

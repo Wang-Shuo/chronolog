@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: bda30f58951bd5b413a0882e36dab0a799af9323b35c0312ddd310d2587a716f
+machine_hash: 4d7b64ba7e9c208e5f41f184b05e0b3a68bdcaf915521eced94734a68ed69a3e
 product: opencode
 product_name: OpenCode
 record:
@@ -88,7 +88,7 @@ Source: https://opencode.ai/changelog/v1.18.3
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-07-16 · ChatGPT · [[Changes/ChatGPT/2026-07-16-continue-work-across-devices-cloud-work-conversations-now-sync-across-web-mobile|Continue Work across devices]]
-- Later: 2026-07-17 · Windsurf · [[Changes/Windsurf/2026-07-17-devin-desktop|Devin Desktop]]
+- Later: 2026-07-16 · Raycast · [[Changes/Raycast/2026-07-16-cloud-sync-sync-your-data-across-macos-v1-macos-windows-v2-beta-and-ios|Cloud Sync: Sync your data across macOS v1, macOS/Windows v2 beta and iOS]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

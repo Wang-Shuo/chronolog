@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 89e1ecd94015e7a847969cdb0984b407ddfa3d87c8f1769b6e31db233d5a3c5a
+machine_hash: 0b4f64652ce96d5fafb38cd9f039d46053d37c4c87cabb7197ccf2f91ccbe61d
 product: dify
 product_name: Dify
 record:
@@ -70,10 +70,10 @@ record:
   title: 11 Apps and Integrations changes in 1.5.0
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-06-20-slack-integration-beta-with-cloud-openhands-malhotra5-in-https-github-com-all-ha|Slack
-  Integration (Beta) with Cloud OpenHands @malhotra5…]]'
 - '[[Changes/OpenHands/2025-06-20-2-apps-and-integrations-changes-in-0-45-0|2 Apps
   and Integrations changes in 0.45.0]]'
+- '[[Changes/Raycast/2025-06-20-extensions-we-have-added-a-load-of-new-extensions-including-linear-github-notion|Extensions:
+  We have added a load of new extensions, including Linear, Github…]]'
 - '[[Changes/ChatGPT/2025-06-24-pro-users-are-now-able-to-use-chat-search-connectors-in-addition-to-deep-researc-9d5a85|Chat
   search connectors (Pro)]]'
 source_release: '[[Releases/Dify/dify-2025-06-25-1-5-0-github-227620290-133307f4|dify-2025-06-25-1-5-0-github-227620290-133307f4]]'
@@ -134,7 +134,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.5.0
 ## Nearby in Apps and Integrations
 
 - Earlier: 2025-06-24 · ChatGPT · [[Changes/ChatGPT/2025-06-24-pro-users-are-now-able-to-use-chat-search-connectors-in-addition-to-deep-researc-9d5a85|Chat search connectors (Pro)]]
-- Later: 2025-06-27 · Replit · [[Changes/Replit/2025-06-27-new-landing-page-for-viewer-seats|New landing page for viewer seats]]
+- Later: 2025-06-25 · LM Studio · [[Changes/LM Studio/2025-06-25-lm-studio-is-now-an-mcp-host-you-can-connect-your-favorite-mcp-servers-to-the-ap|LM Studio is now an MCP host! You can connect your favorite MCP servers…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

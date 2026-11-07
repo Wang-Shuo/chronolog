@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 192bb48cbe0d98c513510d545394191eee02d2fe329b6fd055bf8a81e4f5b63b
+machine_hash: 503e374ed5b69ec49cc388f3d6dd0121536f42b5264a7454af5182f987ef475f
 product: dify
 product_name: Dify
 record:
@@ -45,10 +45,10 @@ record:
   title: 2 Model Support changes in 1.7.0
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2025-07-19-chat-id-header-forwarding-ollama-and-openai-router-requests-now-include-the-chat|\U0001F4E1
-  Chat ID Header Forwarding]]"
 - '[[Changes/Cline/2025-07-22-separate-plan-act-model-settings-by-celestial-vault-in-https-github-com-cline-cl|Separate
   plan act model settings]]'
+- '[[Changes/LM Studio/2025-07-22-added-think-toggle-button-into-chat-input-for-models-that-support-turning-thinki|Added
+  "Think" toggle button into chat input for models that support turning thinking…]]'
 - '[[Changes/Cline/2025-07-23-adding-support-for-new-models-qwen-3-models-on-qwen-provider-by-arafatkatze-in-h|Adding
   support for new models Qwen 3 models on Qwen provider]]'
 source_release: '[[Releases/Dify/dify-2025-07-23-1-7-0-github-234517527-27158f09|dify-2025-07-23-1-7-0-github-234517527-27158f09]]'

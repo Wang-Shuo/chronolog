@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9b9b74e96e4430397eed9e5995fdf944c6ea67780bb44510f3ac52a2739d11d1
+machine_hash: 8d54999c24f8e0367522a3708aa801b0d2b75f8d739fe92d5d750b208601e0bf
 product: descript
 product_name: Descript
 record:
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2020-12-02 · Notion · [[Changes/Notion/2020-12-02-had-it-with-confluence-import-your-workspace-to-notion-in-minutes|Had it with Confluence?]]
-- Later: 2021-03-10 · Notion · [[Changes/Notion/2021-03-10-introducing-tools-craft-the-notion-blog|Introducing: Tools & Craft, the Notion blog]]
+- Later: 2021-02-18 · Raycast · [[Changes/Raycast/2021-02-18-calendar-added-support-to-launch-microsoft-teams-skype-cisco-webex-jitsi-bluejea|Calendar: Added support to launch Microsoft Teams , Skype , Cisco Webex , Jitsi…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

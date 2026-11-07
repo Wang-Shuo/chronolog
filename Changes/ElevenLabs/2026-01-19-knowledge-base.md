@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: a94e1ebe9f1e3fb81a033fadf57ac541a24a27fb869dd7b6cfcea59e82cdeb27
+machine_hash: 57ac80c30c540d6ec2316c582392b06afdde00e34a213fddfc350164aa337088
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -97,7 +97,7 @@ type: change
 ## Nearby in Files and Data
 
 - Earlier: 2026-01-14 · Codex CLI · [[Changes/Codex CLI/2026-01-14-9020-fix-tui-document-paste-burst-state-machine-joshka-oai|♯9020 fix(tui): document paste-burst state machine @joshka-oai]]
-- Later: 2026-01-26 · ElevenLabs · [[Changes/ElevenLabs/2026-01-26-knowledge-base|Knowledge Base]]
+- Later: 2026-01-22 · AnythingLLM · [[Changes/AnythingLLM/2026-01-22-make-xlsx-spreadsheets-visible-in-chat-by-combining-sheets-by-shatfield4-in-http|Make XLSX spreadsheets visible in chat by combining sheets]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 71ef932f298f881499f63d386b1a93a5af72b49d43b334c3daf2e45ba8ffe8f3
+machine_hash: b0fbea72bbcf979119e98e92bfda2b38051722b96fa3e0133abe9a7619d348e4
 product: notion
 product_name: Notion
 record:
@@ -64,12 +64,11 @@ record:
   title: Integrate your workspace with Census, Rootly & Bardeen.ai
   type: change
 related_changes:
-- '[[Changes/Descript/2020-12-10-we-ve-updated-pages-to-not-be-indexed-by-search-engines-anymore-this-will-preven|Pages
-  are not indexable by search engines]]'
-- '[[Changes/Descript/2020-12-17-spot-audition-allows-you-to-automatically-playback-your-search-results-as-you-cy|Spot
-  Audition search results]]'
-- '[[Changes/Descript/2021-01-27-we-ve-updated-public-project-links-to-not-be-indexed-by-search-engines-anymore-t|Public
-  projects are no longer indexable by search engines]]'
+- '[[Changes/Raycast/2021-06-16-file-search-results-are-more-accurate-and-relevant-we-also-suppress-results-from|File
+  search: Results are more accurate and relevant]]'
+- '[[Changes/Raycast/2021-07-29-2-search-and-browsing-changes-in-raycast-macos-v1-1-21-0|2
+  Search and Browsing changes in Raycast macos-v1 1.21.0]]'
+- '[[Changes/Raycast/2022-04-20-search-screenshots|Search Screenshots]]'
 source_release: '[[Releases/Notion/notion-2022-05-10-https-www-notion-com-releases-2022-05-10-895898f5|notion-2022-05-10-https-www-notion-com-releases-2022-05-10-895898f5]]'
 source_type: notion_changelog
 theme: search-browsing
@@ -105,7 +104,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Search and Browsing
 
-- Earlier: 2021-01-27 · Descript · [[Changes/Descript/2021-01-27-we-ve-updated-public-project-links-to-not-be-indexed-by-search-engines-anymore-t|Public projects are no longer indexable by search engines]]
+- Earlier: 2022-04-20 · Raycast · [[Changes/Raycast/2022-04-20-search-screenshots|Search Screenshots]]
 - Later: 2022-09-13 · Notion · [[Changes/Notion/2022-09-13-browse-through-a-page-s-images-from-one-place|Browse through a page’s images from one place]]
 <!-- chronolog:end -->
 

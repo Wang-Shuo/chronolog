@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 61104f33e2459e85e2eda13ac15d6f9f0f95c42086820ae01388c7a86c0b4c63
+machine_hash: a92852e35a566e7c4f949ffb11431111dd2e07ababacaaded65a688bbf442819
 product: replit
 product_name: Replit
 record:
@@ -49,8 +49,8 @@ record:
   title: Teams and Enterprise
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-13-added-anthropic-workspace-id-environment-variable-for-workload-identity-federati|Added
-  ANTHROPIC_WORKSPACE_ID environment variable for workload identity federation]]'
+- '[[Changes/Devin/2026-05-13-enterprise-member-invite-acknowledgement|Enterprise
+  Member Invite Acknowledgement]]'
 - '[[Changes/Replit/2026-05-15-buy-enterprise-online-with-automated-sso-setup|Buy
   Enterprise online with automated SSO setup]]'
 - '[[Changes/Replit/2026-05-15-per-user-spend-limits-for-enterprise-workspaces|Per-user
@@ -89,8 +89,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-05-13 · Claude Code · [[Changes/Claude Code/2026-05-13-added-anthropic-workspace-id-environment-variable-for-workload-identity-federati|Added ANTHROPIC_WORKSPACE_ID environment variable for workload identity federation]]
-- Later: 2026-05-19 · Dify · [[Changes/Dify/2026-05-19-chore-enchance-copywriting-in-none-education-plan-warning-modal-by-iamjoel-in-ht|chore: enchance copywriting in none education plan warning modal]]
+- Earlier: 2026-05-13 · Devin · [[Changes/Devin/2026-05-13-enterprise-member-invite-acknowledgement|Enterprise Member Invite Acknowledgement]]
+- Later: 2026-05-17 · Devin · [[Changes/Devin/2026-05-17-default-member-roles|Default Member Roles]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

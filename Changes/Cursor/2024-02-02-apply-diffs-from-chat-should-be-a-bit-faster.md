@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 382d423cee4286429519d091208a4e0d9c610f43d37c693fb851a0b309ea5ec4
+machine_hash: d797fe1023674109a10bb29d76fbdfe5ad68de7440166a7c67ef7c2de64b6861
 product: cursor
 product_name: Cursor
 record:
@@ -41,8 +41,8 @@ record:
   title: '"Apply Diffs" from chat should be a bit faster'
   type: change
 related_changes:
-- '[[Changes/Ollama/2024-01-20-2-reliability-and-performance-changes-in-v0-1-21|2
-  Reliability and Performance changes in v0.1.21]]'
+- '[[Changes/Raycast/2024-01-24-application-uninstaller-uninstalling-big-applications-is-now-much-faster-and-you|Application
+  Uninstaller: Uninstalling big applications is now much faster and you…]]'
 - '[[Changes/Dify/2024-01-25-refine-faster-rsa-implement-by-yeuoly-in-https-github-com-langgenius-dify-pull-2|refine:
   faster rsa implement]]'
 - '[[Changes/Cursor/2024-02-02-0-25-2-copilot-performance-improvements|0.25.2: Copilot++

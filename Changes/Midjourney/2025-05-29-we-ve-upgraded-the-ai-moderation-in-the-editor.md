@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: aceca1238e646c361b98e9277e06c88803a1954339ea0919483086e644ad6f01
+machine_hash: ac62ff54cd3a72f6bc7e3fd77fa883128880dfc85bc7c8b00b9777c436e302eb
 product: midjourney
 product_name: Midjourney
 record:
@@ -44,8 +44,8 @@ record:
   title: We’ve upgraded the AI moderation in the editor
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2025-05-19-2-editor-experience-changes-in-v0-6-10|2 Editor
-  Experience changes in v0.6.10]]'
+- '[[Changes/LM Studio/2025-05-23-2-editor-experience-changes-in-lm-studio-0-3-16|2
+  Editor Experience changes in LM Studio 0.3.16]]'
 - '[[Changes/Replit/2025-05-23-visual-editor-rollout|Visual Editor rollout]]'
 - '[[Changes/Descript/2025-05-28-starting-today-you-can-try-out-the-new-underlord-available-in-labs-it-s-no-longe|New
   in Labs—the new Underlord]]'

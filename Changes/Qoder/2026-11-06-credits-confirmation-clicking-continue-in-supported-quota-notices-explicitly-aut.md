@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: policy
-machine_hash: f45d77abfa8cd7e6ca160061b80d85188b5e6eb662a0f14a9e89eca8cfe197be
+machine_hash: 425be54c0d429b8392c31ea63726a38a7695d5dcd04e6bc4919ecdd5e3592bf6
 product: qoder
 product_name: Qoder
 record:

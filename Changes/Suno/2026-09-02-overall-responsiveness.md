@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: cf930269eab1593c2ff086a453ed78e9956573d1d5406a9bcb8b6da66c06a746
+machine_hash: 8eadcc762564b889437c2e7d1aea9d96e832e238784a6c939bc60955f8630b29
 product: suno
 product_name: Suno
 record:
@@ -42,10 +42,10 @@ record:
   title: Overall responsiveness
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2026-08-31-general-improvements-various-improvements-were-implemented-across-the-applicatio|\U0001F504
-  General improvements. Various improvements were implemented across…]]"
 - '[[Changes/Qoder/2026-08-31-2-reliability-and-performance-changes-in-qoder-0-1-3|2
   Reliability and Performance changes in Qoder 0.1.3]]'
+- '[[Changes/Raycast/2026-08-31-2-reliability-and-performance-changes-in-raycast-ios-1-3-6|2
+  Reliability and Performance changes in Raycast ios 1.3.6]]'
 - '[[Changes/Claude Code/2026-09-01-improved-prompt-input-responsiveness-by-reducing-per-keystroke-rendering-work|Improved
   prompt input responsiveness by reducing per-keystroke rendering work]]'
 source_release: '[[Releases/Suno/suno-2026-09-02-e-studio-updates-sept26-eab89043|suno-2026-09-02-e-studio-updates-sept26-eab89043]]'
@@ -80,7 +80,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-09-01 · Claude Code · [[Changes/Claude Code/2026-09-01-improved-prompt-input-responsiveness-by-reducing-per-keystroke-rendering-work|Improved prompt input responsiveness by reducing per-keystroke rendering work]]
-- Later: 2026-09-03 · OpenClaw · [[Changes/OpenClaw/2026-09-03-on-linux-managed-local-model-and-embedding-services-are-preferred-as-the-out-of|On Linux, managed local model and embedding services are preferred…]]
+- Later: 2026-09-02 · Superwhisper · [[Changes/Superwhisper/2026-09-02-other-bug-fixes-and-performance-improvements|Other bug fixes and performance improvements]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

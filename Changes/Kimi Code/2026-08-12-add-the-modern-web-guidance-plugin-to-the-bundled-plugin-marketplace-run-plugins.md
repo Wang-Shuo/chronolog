@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f7c30bad0c8526642e197b7de8d72d4366277304e4ddf89397c687b183a51b0a
+machine_hash: e4763b7320914c8cfc7617bbcbdfb3adad3b311c13caf1ba5b2afc53d30125d2
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -43,12 +43,11 @@ record:
   title: Add the Modern Web Guidance plugin to the bundled plugin marketplace
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-11-2-apps-and-integrations-changes-in-v2-1-228|2
-  Apps and Integrations changes in v2.1.228]]'
-- '[[Changes/Microsoft 365 Copilot/2026-08-11-servicenow-connectors-support-role-based-permissions-web-microsoft-365-copilot-e|ServiceNow
-  connectors support role-based permissions…]]'
-- '[[Changes/Claude Code/2026-08-12-3-apps-and-integrations-changes-in-v2-1-229|3
-  Apps and Integrations changes in v2.1.229]]'
+- '[[Changes/Devin/2026-08-12-perplexity-mcp-in-the-marketplace|Perplexity MCP in
+  the Marketplace]]'
+- '[[Changes/Devin/2026-08-12-playbook-mentions-from-slack|Playbook Mentions from
+  Slack]]'
+- '[[Changes/Devin/2026-08-12-slack-connection-management|Slack Connection Management]]'
 source_release: '[[Releases/Kimi Code/kimi-code-2026-08-12-0-35-0-ad4cbfb7|kimi-code-2026-08-12-0-35-0-ad4cbfb7]]'
 source_type: kimi_code_changelog
 theme: apps-integrations
@@ -77,7 +76,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-08-12 · Claude Code · [[Changes/Claude Code/2026-08-12-3-apps-and-integrations-changes-in-v2-1-229|3 Apps and Integrations changes in v2.1.229]]
+- Earlier: 2026-08-12 · Devin · [[Changes/Devin/2026-08-12-slack-connection-management|Slack Connection Management]]
 - Later: 2026-08-12 · Lovable · [[Changes/Lovable/2026-08-12-unpublish-several-projects-at-once|Unpublish several projects at once]]
 <!-- chronolog:end -->
 

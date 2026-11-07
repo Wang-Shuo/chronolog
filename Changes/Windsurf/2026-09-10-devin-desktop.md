@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 2515f8dad5b4154997ecd03433f03744464bacb17ad9ede48d5e1b6b8eef3378
+machine_hash: 642011d424bf04aa2242a1714eac7ef5cf33cd1d03e2b757603783d193a256f8
 product: windsurf
 product_name: Windsurf
 record:
@@ -69,8 +69,8 @@ record:
   title: Devin Desktop
   type: change
 related_changes:
-- '[[Changes/Google Antigravity/2026-09-09-quote-or-add-selected-text-to-chat-using-cmd-l-or-cmd-i-on-macos-or-ctrl-l-and-c|Quote
-  or add selected text to chat using Cmd+L or Cmd+I on macOS, or Ctrl+L…]]'
+- '[[Changes/Superwhisper/2026-09-09-superwhisper-is-now-available-on-android-tap-the-floating-bubble-to-dictate-into|Superwhisper
+  is now available on Android]]'
 - '[[Changes/Dify/2026-09-10-skill-packages-built-on-windows-failed-with-a-misleading-error-a-skill-md-using|Skill
   packages built on Windows failed with a misleading error. A SKILL.md…]]'
 - '[[Changes/Windsurf/2026-09-10-introducing-fusion-in-devin-desktop-and-devin-cli-https-exafunction-github-io-pu|!Introducing

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 99cf9ca080d3e307e89181c6d277dbc4907fc6a738e6ffd3c4bae2fa3a4e7c26
+machine_hash: bb0faf85723664e18baa549a77fc1b8f72ad2f046c76f3b35ab3952667ac7139
 product: heygen
 product_name: HeyGen
 record:
@@ -46,10 +46,11 @@ record:
     app…
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-11-26-improve-pty-resize-error-handling-for-windows-by-galz10-in-https-github-com-goog|Improve
-  pty resize error handling for Windows]]'
-- '[[Changes/ElevenLabs/2025-11-27-client|Client]]'
 - '[[Changes/ElevenLabs/2025-11-27-react|React]]'
+- '[[Changes/Raycast/2025-11-27-import-settings-data-you-can-now-import-your-settings-and-data-from-macos-in-win|Import
+  Settings & Data : You can now import your settings and data from macOS in Windows]]'
+- '[[Changes/Raycast/2025-11-27-we-re-live-today-we-re-making-raycast-for-windows-available-for-everyone-while-w|We’re
+  live! Today, we’re making Raycast for Windows available for everyone]]'
 source_release: '[[Releases/HeyGen/heygen-2025-11-30-https-heygen-noticeable-news-publications-heygen-now-on-android-9c2d416b|heygen-2025-11-30-https-heygen-noticeable-news-publications-heygen-now-on-android-9c2d416b]]'
 source_type: heygen_changelog
 theme: mobile-desktop
@@ -79,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2025-11-27 · ElevenLabs · [[Changes/ElevenLabs/2025-11-27-react|React]]
+- Earlier: 2025-11-27 · Raycast · [[Changes/Raycast/2025-11-27-we-re-live-today-we-re-making-raycast-for-windows-available-for-everyone-while-w|We’re live! Today, we’re making Raycast for Windows available for everyone]]
 - Later: 2025-12-02 · Codex CLI · [[Changes/Codex CLI/2025-12-02-execution-gains-an-experimental-exp-model-unified-exec-pruning-to-limit-session|Execution gains an experimental “exp” model, unified exec pruning to limit session…]]
 <!-- chronolog:end -->
 

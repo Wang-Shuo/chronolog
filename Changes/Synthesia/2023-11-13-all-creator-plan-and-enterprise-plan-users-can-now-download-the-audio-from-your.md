@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f03c9a6fad32943b3f89ba80b0f502f201476c7b635d6ddc30962687d9972d7d
+machine_hash: af93960ef89c98180b162a7378bb432f17bfccf009801031a0b83d6e5e2af4db
 product: synthesia
 product_name: Synthesia
 record:
@@ -42,11 +42,11 @@ record:
   title: AUDIO download is here
   type: change
 related_changes:
-- '[[Changes/Descript/2023-10-17-speaker-label-dropdown-revamp|Speaker label dropdown
-  revamp]]'
 - '[[Changes/Descript/2023-10-31-filler-words-remove-from-transcript|Filler words:
   Remove from transcript]]'
 - '[[Changes/Descript/2023-10-31-wordless-media|Wordless Media]]'
+- '[[Changes/Superwhisper/2023-10-31-improved-audio-playback-ui-ux|Improved audio
+  playback UI/UX]]'
 source_release: '[[Releases/Synthesia/synthesia-2023-11-13-https-www-synthesia-io-updates-audio-download-is-here-26862081|synthesia-2023-11-13-https-www-synthesia-io-updates-audio-download-is-here-26862081]]'
 source_type: synthesia_changelog
 theme: voice
@@ -73,7 +73,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2023-10-31 · Descript · [[Changes/Descript/2023-10-31-wordless-media|Wordless Media]]
+- Earlier: 2023-10-31 · Superwhisper · [[Changes/Superwhisper/2023-10-31-improved-audio-playback-ui-ux|Improved audio playback UI/UX]]
 - Later: 2023-11-15 · Descript · [[Changes/Descript/2023-11-15-ai-turn-into-blog-post|AI Turn into Blog Post]]
 <!-- chronolog:end -->
 

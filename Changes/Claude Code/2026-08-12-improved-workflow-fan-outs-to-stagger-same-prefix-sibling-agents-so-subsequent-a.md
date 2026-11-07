@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4add23b3a1008bf57ce6fb4da8065a01c8411a7a6a2ac08e9709dd325add4eb2
+machine_hash: 06f8a84b2b41e44077c6a5e0de2a1d514e904e44df5410293ce471adc58f2fe5
 product: claude-code
 product_name: Claude Code
 record:
@@ -86,7 +86,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-08-11 · Runway · [[Changes/Runway/2026-08-11-agent-sessions-now-live-inside-projects-so-you-can-start-a-session-directly-from|Projects + Brand Kits in Agent]]
-- Later: 2026-08-12 · Google Antigravity · [[Changes/Google Antigravity/2026-08-12-reduced-typing-lag-while-the-agent-streams-responses|Reduced typing lag while the agent streams responses]]
+- Later: 2026-08-12 · Devin · [[Changes/Devin/2026-08-12-agent-mode-selector-improvements-in-automations|Agent Mode Selector Improvements in Automations]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

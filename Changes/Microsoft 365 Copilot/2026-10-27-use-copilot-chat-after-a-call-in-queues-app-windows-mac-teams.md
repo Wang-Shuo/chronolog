@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: d91c0038cdaff5d68500b2aa40a59645da0667524cd9948207a4cdaf36935e35
+machine_hash: 41db50cf49f1ceb63951afff2741b25d9d385417033c9f21c17385195e0912df
 product: microsoft-365-copilot
 product_name: Microsoft 365 Copilot
 record:
@@ -53,11 +53,12 @@ record:
   title: Use Copilot Chat after a call in Queues app [Windows, Mac] (Teams)
   type: change
 related_changes:
-- '[[Changes/Dify/2026-10-23-5-collaboration-changes-in-1-18-0|5 Collaboration changes
-  in 1.18.0]]'
-- '[[Changes/Replit/2026-10-23-chat-and-asset-sharing|Chat and asset sharing]]'
+- '[[Changes/Superwhisper/2026-10-26-switch-a-recording-between-the-original-and-ai-text-and-share-either-one|Switch
+  a recording between the original and AI text, and share either one]]'
 - '[[Changes/Windsurf/2026-10-26-ide-mode-now-offers-devin-cloud-whenever-your-account-has-cloud-access-the-same|IDE
   mode now offers Devin Cloud whenever your account has Cloud access, the same…]]'
+- '[[Changes/Krea/2026-10-27-share-nodes-projects-with-your-organization|Share Nodes
+  projects with your organization]]'
 source_release: '[[Releases/Microsoft 365 Copilot/microsoft-365-copilot-2026-10-27-2026-10-27-6c2f097b|microsoft-365-copilot-2026-10-27-2026-10-27-6c2f097b]]'
 source_type: m365_copilot_changelog
 theme: collaboration
@@ -98,7 +99,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-10-26 · Windsurf · [[Changes/Windsurf/2026-10-26-ide-mode-now-offers-devin-cloud-whenever-your-account-has-cloud-access-the-same|IDE mode now offers Devin Cloud whenever your account has Cloud access, the same…]]
+- Earlier: 2026-10-27 · Krea · [[Changes/Krea/2026-10-27-share-nodes-projects-with-your-organization|Share Nodes projects with your organization]]
 - Later: 2026-10-27 · OpenClaw · [[Changes/OpenClaw/2026-10-27-malformed-microsoft-teams-message-html-no-longer-causes-the-parsing-stalls-that|Malformed Microsoft Teams message HTML no longer causes the parsing stalls…]]
 <!-- chronolog:end -->
 

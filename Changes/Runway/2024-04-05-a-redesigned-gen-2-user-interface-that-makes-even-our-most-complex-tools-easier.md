@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0ebddc2dd9018a7a094200033cb70ee26e2e3792e4ce554b179fb5ef21acb230
+machine_hash: 5dcee5842494d3ee91cac75ac209d9eb6f80119378cd4a69cd01294120c3aa9b
 product: runway
 product_name: Runway
 record:
@@ -42,8 +42,8 @@ record:
   title: Updated Gen-2 UI
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-03-20-new-settings-we-moved-all-our-settings-to-be-accessible-by-the-gear-in-the-top-r|New
-  Settings: We moved all our settings to be accessible by the gear in the top right]]'
+- '[[Changes/Superwhisper/2024-03-25-add-menubar-items-to-main-menu-f0b981|Add menubar
+  items to main menu]]'
 - '[[Changes/Cursor/2024-04-01-update-0-31-1-0-31-3-adds-back-in-ai-review-alpha-fixes-the-cursor-settings-menu|UPDATE
   (0.31.1–0.31.3): Adds back in AI Review (alpha), fixes…]]'
 - "[[Changes/Open WebUI/2024-04-04-latex-chat-screen-overflow-fixed-screen-overflow-issue-with-latex-rendering|\U0001F4DC

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: be4886092e1d54795a9ae3498d52096887d258cf34c2e056a7a6c95ae91e7c87
+machine_hash: 1f5b86c26d015cec0a84e6b85f65dc34de7a0a3631c69d2f8333a5208a31763b
 product: cursor
 product_name: Cursor
 record:
@@ -46,8 +46,8 @@ record:
   title: 'Keyboard Shortcuts: All keyboard shortcuts are now available in the Keyboard…'
   type: change
 related_changes:
-- '[[Changes/Descript/2025-02-26-and-tying-all-of-these-changes-together-we-ve-added-a-new-layout-picker-https-he|And
-  tying all of these changes together, we’ve added a new Layout…]]'
+- '[[Changes/LM Studio/2025-03-03-new-advanced-speculative-decoding-parameters-behind-all-toggle-in-chat-sidebar|New:
+  Advanced speculative decoding parameters behind "All" toggle in chat sidebar]]'
 - '[[Changes/Gamma/2025-03-05-making-edits-just-got-easier-you-can-now-right-click-on-any-inline-or-accent-ima|Making
   edits just got easier!]]'
 - '[[Changes/Aider/2025-03-10-https-aider-chat-history-html|(source link)]]'

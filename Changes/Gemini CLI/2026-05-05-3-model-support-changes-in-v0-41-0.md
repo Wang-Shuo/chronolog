@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 640d733b4087074f16c8feddd7a08c107682240102f5bcbb7bff04ff4ef2511b
+machine_hash: a1c5fe94304b2a0df76e031461037335a21e562127dd8799d0f8086752b29060
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -92,7 +92,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.41.0
 ## Nearby in Model Support
 
 - Earlier: 2026-05-05 · ChatGPT · [[Changes/ChatGPT/2026-05-05-we-re-rolling-out-gpt-5-5-instant-as-chatgpt-s-new-default-model-it-replaces-gpt|GPT-5.5 Instant in ChatGPT]]
-- Later: 2026-05-06 · Claude Code · [[Changes/Claude Code/2026-05-06-2-model-support-changes-in-v2-1-129|2 Model Support changes in v2.1.129]]
+- Later: 2026-05-05 · Superwhisper · [[Changes/Superwhisper/2026-05-05-add-support-for-azure-foundry-custom-model-endpoints|Add support for Azure Foundry custom model endpoints]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6aa3aa9e5c933e988ce207b63ea0873aa1f5ec548d8fed2b186a5d636b3873fe
+machine_hash: 806eccb29a2331fb3c20f25c21610ae81799830e5a32435a89795faea5af84a4
 product: dify
 product_name: Dify
 record:
@@ -94,7 +94,7 @@ type: change
 ## Nearby in Automation and Scheduling
 
 - Earlier: 2026-05-09 · Open WebUI · [[Changes/Open WebUI/2026-05-09-2-automation-and-scheduling-changes-in-v0-9-3|2 Automation and Scheduling changes in v0.9.3]]
-- Later: 2026-05-20 · Codex CLI · [[Changes/Codex CLI/2026-05-20-codex-exec-resume-now-accepts-output-schema-so-resumed-automations-can-keep-sess|codex exec resume now accepts --output-schema, so resumed automations can keep…]]
+- Later: 2026-05-13 · Devin · [[Changes/Devin/2026-05-13-miscellaneous-improvements|Miscellaneous Improvements]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

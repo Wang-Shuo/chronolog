@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 92330b756954b3cf6540d152f4761a05daa0458352c047cb7ee70ce0c0300112
+machine_hash: 23a5c3c113f59ef5448cedba0266339bd75c0f9fa027bf8928a19ff35ced0306
 product: claude-code
 product_name: Claude Code
 record:
@@ -93,7 +93,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.157
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-05-28 · OpenCode · [[Changes/OpenCode/2026-05-28-4-developer-workflow-changes-in-v1-15-12|4 Developer Workflow changes in v1.15.12]]
-- Later: 2026-05-29 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-29-4-developer-workflow-changes-in-v1-0-56|4 Developer Workflow changes in v1.0.56]]
+- Later: 2026-05-29 · Devin · [[Changes/Devin/2026-05-29-disable-review-analysis-for-merged-and-closed-prs|Disable Review/Analysis for Merged and Closed PRs]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

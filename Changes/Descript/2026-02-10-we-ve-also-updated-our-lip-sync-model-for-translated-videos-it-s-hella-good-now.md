@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 1167adcdc709a9a3c16f87cefde78f47350d275cfc0c0f0952710511099d52c0
+machine_hash: 2d1f0385495dfe0c5f38ee15c08ea30abc80e0ca8cbe47bdd3b11bb7773ccbfa
 product: descript
 product_name: Descript
 record:
@@ -60,10 +60,10 @@ record:
   title: Descript updates our lip sync model for translated videos
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-02-04-prevent-memory-leaks-from-abortcontroller-closures|Prevent
-  memory leaks from AbortController closures]]'
-- '[[Changes/Windsurf/2026-02-05-various-bug-fixes-and-performance-improvements|Various
-  bug fixes and performance improvements]]'
+- '[[Changes/Devin/2026-02-06-devin-review-auto-review-settings|Devin Review: Auto-Review
+  Settings]]'
+- '[[Changes/Devin/2026-02-06-various-bug-fixes-and-performance-improvements-across-the-platform|Various
+  bug fixes and performance improvements across the platform]]'
 - '[[Changes/ElevenLabs/2026-02-09-text-to-speech|Text to Speech]]'
 source_release: '[[Releases/Descript/descript-2026-02-10-698b53cfff8de99c84c132f7-0801d6da|descript-2026-02-10-698b53cfff8de99c84c132f7-0801d6da]]'
 source_type: canny_changelog

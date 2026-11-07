@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 0ff32701cfadca04bb62c16816292997f49b4744c9774c59185b0ddf121f74d5
+machine_hash: 7d54296318c6418805ef7ddbd20cb46f95e92d5eb8a2dcc3becf61f88d18f255
 product: descript
 product_name: Descript
 record:
@@ -42,10 +42,10 @@ record:
   title: Introducing our newest AI Action, [Edit…
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-01-06-upgrades-cursor-to-vs-code-1-85-which-comes-with-support-for-dragging-out-tabs-i|Upgrades
-  Cursor to VS Code 1.85, which comes with support for dragging out tabs…]]'
 - '[[Changes/Aider/2024-01-08-improvements-to-unified-diff-editing-format|Improvements
   to unified diff editing format]]'
+- '[[Changes/Raycast/2024-01-10-clipboard-history-added-an-action-to-edit-the-content-of-a-history-item|Clipboard
+  History: Added an action to edit the content of a history item]]'
 - '[[Changes/Descript/2024-01-16-save-on-editing-costs-and-save-time-for-both-yourself-and-your-audience-by-letti|Save
   on editing costs, and save time for both yourself and your audience by letting…]]'
 source_release: '[[Releases/Descript/descript-2024-01-16-65a6d658491f6c29a0aecc79-738324e3|descript-2024-01-16-65a6d658491f6c29a0aecc79-738324e3]]'
@@ -77,7 +77,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2024-01-08 · Aider · [[Changes/Aider/2024-01-08-improvements-to-unified-diff-editing-format|Improvements to unified diff editing format]]
+- Earlier: 2024-01-10 · Raycast · [[Changes/Raycast/2024-01-10-clipboard-history-added-an-action-to-edit-the-content-of-a-history-item|Clipboard History: Added an action to edit the content of a history item]]
 - Later: 2024-01-18 · Cursor · [[Changes/Cursor/2024-01-18-more-chat-symbol-links-when-the-chat-references-a-code-symbol-you-ll-often-be-ab|More chat symbol links]]
 <!-- chronolog:end -->
 

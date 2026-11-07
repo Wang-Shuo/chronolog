@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 3bc971cf0bb32223a4e4c1f4a745025bacd9f388d0ee7cdc35409bcaada6c8f8
+machine_hash: 8cc5dd4a93c8083e3219f8ae809bbe8afa562d3b63a3fb3da8c1b5a4d62d22dc
 product: openclaw
 product_name: OpenClaw
 record:
@@ -124,7 +124,7 @@ type: change
 ## Nearby in Image Generation
 
 - Earlier: 2026-10-10 · Open WebUI · [[Changes/Open WebUI/2026-10-10-5-image-generation-changes-in-v0-12-0|5 Image Generation changes in v0.12.0]]
-- Later: 2026-10-16 · Open WebUI · [[Changes/Open WebUI/2026-10-16-clear-input-selections-shortcut-clearing-the-model-override-selected-tools-and-f|🧹 Clear Input Selections shortcut. Clearing the model override, selected tools…]]
+- Later: 2026-10-15 · Krea · [[Changes/Krea/2026-10-15-krea-3-api-in-early-access|Krea 3 API in early access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

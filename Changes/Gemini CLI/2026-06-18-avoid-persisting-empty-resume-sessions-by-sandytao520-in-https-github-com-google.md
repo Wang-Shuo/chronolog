@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: projects-workspaces
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c8ae46f350e3a9c1d8003400b205b03799278b1b4d8946495795f3fd16840d5a
+machine_hash: debfbe1eab82563be4cc4087a7d120d10223b28089222cf3331b62923886ec80
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -43,12 +43,12 @@ record:
   title: Avoid persisting empty resume sessions
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-01-session-resume-works-correctly-after-a-crash-that-left-partial-data-in-the-sessi|Session
-  resume works correctly after a crash that left partial data in the session log]]'
-- '[[Changes/Codex CLI/2026-06-04-local-session-history-is-safer-for-compressed-rollouts-renamed-titles-pathless-s|Local
-  session history is safer for compressed rollouts, renamed titles, pathless…]]'
 - '[[Changes/Kimi Code/2026-06-10-prevent-forking-sessions-during-active-turns-and-consolidate-wire-protocol-defin|Prevent
   forking sessions during active turns and consolidate wire protocol…]]'
+- '[[Changes/Raycast/2026-06-12-focus-use-pause-focus-session-resume-focus-session-and-complete-focus-session-to|Focus:
+  Use Pause Focus Session , Resume Focus Session and Complete Focus Session…]]'
+- '[[Changes/Raycast/2026-06-12-focus-use-pause-focus-session-resume-focus-session-and-complete-focus-session-to-8a29a1|Focus:
+  Use Pause Focus Session , Resume Focus Session and Complete Focus Session…]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-06-18-v0-47-0-github-341124036-8462e30e|gemini-cli-2026-06-18-v0-47-0-github-341124036-8462e30e]]'
 source_type: github_releases
 theme: projects-workspaces
@@ -79,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Projects and Workspaces
 
-- Earlier: 2026-06-10 · Kimi Code · [[Changes/Kimi Code/2026-06-10-prevent-forking-sessions-during-active-turns-and-consolidate-wire-protocol-defin|Prevent forking sessions during active turns and consolidate wire protocol…]]
+- Earlier: 2026-06-12 · Raycast · [[Changes/Raycast/2026-06-12-focus-use-pause-focus-session-resume-focus-session-and-complete-focus-session-to-8a29a1|Focus: Use Pause Focus Session , Resume Focus Session and Complete Focus Session…]]
 - Later: 2026-06-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-23-4-projects-and-workspaces-changes-in-v1-0-64|4 Projects and Workspaces changes in v1.0.64]]
 <!-- chronolog:end -->
 

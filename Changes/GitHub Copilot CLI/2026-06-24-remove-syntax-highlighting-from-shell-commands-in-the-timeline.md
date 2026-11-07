@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: cb03b64a2dd6ed844e51222d79f4996822442494492396ea6d181e3b757d3520
+machine_hash: b1a1ae1a519005da0dd61ee6004d8c8728d58c05c5579e39b5030de603aaa5b7
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,11 +43,11 @@ record:
   title: Remove syntax highlighting from shell commands in the timeline
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-23-15-developer-workflow-changes-in-v1-0-64|15
-  Developer Workflow changes in v1.0.64]]'
 - '[[Changes/Kimi Code/2026-06-23-consolidate-web-client-localstorage-access-and-split-the-root-state-store-and-ap|Consolidate
   web client localStorage access and split the root state store and app…]]'
 - '[[Changes/Windsurf/2026-06-23-cli-and-devin-local|CLI and Devin Local]]'
+- '[[Changes/Devin/2026-06-24-split-view-auto-disable-on-narrow-panels|Split View
+  Auto-Disable on Narrow Panels]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-06-24-v1-0-65-github-344381970-307a94bd|github-copilot-cli-2026-06-24-v1-0-65-github-344381970-307a94bd]]'
 source_type: github_releases
 theme: developer-workflow
@@ -84,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-06-23 · Windsurf · [[Changes/Windsurf/2026-06-23-cli-and-devin-local|CLI and Devin Local]]
+- Earlier: 2026-06-24 · Devin · [[Changes/Devin/2026-06-24-split-view-auto-disable-on-narrow-panels|Split View Auto-Disable on Narrow Panels]]
 - Later: 2026-06-24 · Kimi Code · [[Changes/Kimi Code/2026-06-24-show-the-command-in-running-bash-tool-cards-and-allow-expanding-it-with-ctrl-o-b|Show the command in running Bash tool cards and allow expanding it with Ctrl+O…]]
 <!-- chronolog:end -->
 

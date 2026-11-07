@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d52f9228c12e03b2eaf4aaf5232bfa34fb4c8b0fbc38a710d1867c4ced77a08a
+machine_hash: c642ddea7dae37c61fa3c601cd0c914710a724c3752435f3949466f07a6bafc8
 product: claude-code
 product_name: Claude Code
 record:
@@ -55,12 +55,12 @@ record:
   title: 5 Apps and Integrations changes in v2.1.219
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-07-23-let-your-app-s-users-connect-their-own-notion|Let
-  your app''s users connect their own Notion]]'
 - '[[Changes/Lovable/2026-07-23-recommended-connectors-in-search|Recommended connectors
   in search]]'
 - '[[Changes/Ollama/2026-07-23-improved-integrations-restored-claude-code-channels-fixed-anthropic-thinking-str|Improved
   integrations: restored Claude Code Channels, fixed Anthropic thinking…]]'
+- '[[Changes/Raycast/2026-07-23-quick-fix-added-an-experimental-option-to-preserve-text-formatting-in-supported|Quick
+  Fix : Added an experimental option to preserve text formatting in supported…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-24-v2-1-219-github-359412713-6c14d233|claude-code-2026-07-24-v2-1-219-github-359412713-6c14d233]]'
 source_type: github_releases
 theme: apps-integrations
@@ -103,7 +103,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.219
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-07-23 · Ollama · [[Changes/Ollama/2026-07-23-improved-integrations-restored-claude-code-channels-fixed-anthropic-thinking-str|Improved integrations: restored Claude Code Channels, fixed Anthropic thinking…]]
+- Earlier: 2026-07-23 · Raycast · [[Changes/Raycast/2026-07-23-quick-fix-added-an-experimental-option-to-preserve-text-formatting-in-supported|Quick Fix : Added an experimental option to preserve text formatting in supported…]]
 - Later: 2026-07-24 · Cline · [[Changes/Cline/2026-07-24-include-the-host-plugin-version-in-telemetry-events|Include the host plugin version in telemetry events]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: fbb77f9c1e1c4a73ed5ddd5ad723718faf8d2e75cbf623e9b9ef533e7ab2aa7a
+machine_hash: 0d8201f800c5e35fe1bf19f843c409674e86ca4ee0db25cf567e14338c50ef77
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -99,7 +99,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.48.0
 ## Nearby in Developer Workflow
 
 - Earlier: 2025-10-23 · Cline · [[Changes/Cline/2025-10-23-4-developer-workflow-changes-in-v3-34-0|4 Developer Workflow changes in v3.34.0]]
-- Later: 2025-10-24 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-10-24-running-many-standard-bash-powershell-commands-that-are-known-to-be-readonly|Running many standard bash/PowerShell commands that are known to be readonly]]
+- Later: 2025-10-24 · Devin · [[Changes/Devin/2025-10-24-gitlab-pr-comments|GitLab PR Comments]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

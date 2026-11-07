@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: eccaa08d5e088edaf6884baf4800b0f47f381248841928aa5aafed60aa9a54f9
+machine_hash: 29caa35fff604b5720053e1e66f2860cd919286fedaa7a7e5fc1314a27b923f7
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -46,12 +46,12 @@ record:
   title: 3 Interface Experience changes in v1.0.40
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-28-2-interface-experience-changes-in-v1-0-39|2
-  Interface Experience changes in v1.0.39]]'
 - '[[Changes/Dify/2026-04-29-10-interface-experience-changes-in-1-14-0|10 Interface
   Experience changes in 1.14.0]]'
 - '[[Changes/Codex CLI/2026-04-30-2-interface-experience-changes-in-rust-v0-128-0|2
   Interface Experience changes in rust-v0.128.0]]'
+- '[[Changes/Raycast/2026-04-30-snippets-quickly-create-snippets-from-ai-chat-composer-or-notes-through-the-edit|Snippets:
+  Quickly create snippets from AI chat, composer or notes through the edit menu]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-05-01-v1-0-40-github-316385532-9c4aec71|github-copilot-cli-2026-05-01-v1-0-40-github-316385532-9c4aec71]]'
 source_type: github_releases
 theme: interface-experience
@@ -96,7 +96,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.40
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-04-30 · Codex CLI · [[Changes/Codex CLI/2026-04-30-2-interface-experience-changes-in-rust-v0-128-0|2 Interface Experience changes in rust-v0.128.0]]
+- Earlier: 2026-04-30 · Raycast · [[Changes/Raycast/2026-04-30-snippets-quickly-create-snippets-from-ai-chat-composer-or-notes-through-the-edit|Snippets: Quickly create snippets from AI chat, composer or notes through the edit menu]]
 - Later: 2026-05-04 · Claude Code · [[Changes/Claude Code/2026-05-04-bare-color-no-args-now-picks-a-random-session-color|Bare /color (no args) now picks a random session color]]
 <!-- chronolog:end -->
 

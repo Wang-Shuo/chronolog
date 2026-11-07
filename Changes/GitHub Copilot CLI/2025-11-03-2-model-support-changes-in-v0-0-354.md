@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 371c41f44ef8c7cc6ce7139bc47c7abdc8c48880a65f6b0184a549a9272b5edc
+machine_hash: 61888e456c47bca8081922015743a634fab0d75945ca2297f0b0da724b7b63c9
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,12 +43,12 @@ record:
   title: 2 Model Support changes in v0.0.354
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-10-30-5-model-support-changes-in-rust-v0-52-0|5 Model
-  Support changes in rust-v0.52.0]]'
 - '[[Changes/Ollama/2025-10-30-ollama-will-now-stop-running-a-model-before-removing-it-via-ollama-rm|Ollama
   will now stop running a model before removing it via ollama rm]]'
 - '[[Changes/Cline/2025-10-31-4-model-support-changes-in-v3-35-0|4 Model Support changes
   in v3.35.0]]'
+- '[[Changes/Raycast/2025-10-31-2-model-support-changes-in-raycast-ios-1-1-2|2 Model
+  Support changes in Raycast ios 1.1.2]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2025-11-03-v0-0-354-github-259401997-a713a92b|github-copilot-cli-2025-11-03-v0-0-354-github-259401997-a713a92b]]'
 source_type: github_releases
 theme: model-support
@@ -85,7 +85,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v0.0.354
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-10-31 · Cline · [[Changes/Cline/2025-10-31-4-model-support-changes-in-v3-35-0|4 Model Support changes in v3.35.0]]
+- Earlier: 2025-10-31 · Raycast · [[Changes/Raycast/2025-10-31-2-model-support-changes-in-raycast-ios-1-1-2|2 Model Support changes in Raycast ios 1.1.2]]
 - Later: 2025-11-04 · Cline · [[Changes/Cline/2025-11-04-feat-add-support-for-claude-4-5-sonnet-in-sap-ai-core-provider-by-wahajahmedkhan|feat: Add support for Claude 4.5 Sonnet in SAP AI Core provider]]
 <!-- chronolog:end -->
 

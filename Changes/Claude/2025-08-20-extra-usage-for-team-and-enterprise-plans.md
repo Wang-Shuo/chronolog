@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: policy
-machine_hash: 2a2f5188b958ba477a4ef5961cdec5e5a4c0fc9da66b2889b3335baa0e0c365e
+machine_hash: d0d7a24bdc1891945bb92caace18e71038750d9cbf539e8b6b45c74efead1ddc
 product: claude
 product_name: Claude
 record:
@@ -57,7 +57,7 @@ record:
   title: Extra usage for Team and Enterprise plans
   type: change
 related_changes:
-- '[[Changes/Lovable/2025-08-11-lovable-business-plan|Lovable Business plan]]'
+- '[[Changes/Devin/2025-08-12-enterprise-logout-access|Enterprise Logout Access]]'
 - '[[Changes/Notion/2025-08-19-download-pages-for-offline-use|Download pages for offline
   use]]'
 - '[[Changes/Claude/2025-08-20-premium-seats-with-claude-code-for-team-and-enterprise-plans|Premium

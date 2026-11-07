@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 679f4fac237e09369bec068661d8fbcfa56e2d1953609cc12605dfc4c7b487a3
+machine_hash: 96ed9796f71044fbac00c39ccd8fa9f0a37f47e308eb69a84865bce30df5e469
 product: ollama
 product_name: Ollama
 record:
@@ -118,7 +118,7 @@ Source: https://github.com/ollama/ollama/releases/tag/v0.1.21
 ## Nearby in Model Support
 
 - Earlier: 2024-01-19 · Dify · [[Changes/Dify/2024-01-19-add-jina-embeddings-v2-base-de-model-configuration-by-joshua20231026-in-https-gi|Add jina-embeddings-v2-base-de model configuration]]
-- Later: 2024-01-24 · Dify · [[Changes/Dify/2024-01-24-4-model-support-changes-in-0-5-0|4 Model Support changes in 0.5.0]]
+- Later: 2024-01-23 · Superwhisper · [[Changes/Superwhisper/2024-01-23-cloud-hosted-language-model-for-pro-users-only|Cloud hosted language model for Pro users only]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

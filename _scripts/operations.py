@@ -58,16 +58,17 @@ def validate_base_url(value: str, production: bool = False) -> str:
 
 def command(args: list[str], root: Path, out: Path, name: str, report: dict, env: dict | None = None) -> None:
     log = out / f'{name}.log'
+    timeout_seconds = 1800 if name == 'build' else 1200
     check = report['checks'][name] = {'status': 'running', 'command': args, 'log': log.name}
     try:
         with log.open('w') as handle:
             result = subprocess.run(args, cwd=root, env=env, stdout=handle, stderr=subprocess.STDOUT,
-                                    timeout=1200, check=False)
+                                    timeout=timeout_seconds, check=False)
         check.update(status='passed' if result.returncode == 0 else 'failed', exit_code=result.returncode)
         if result.returncode:
             raise GateFailure(f'{name} failed; see {log.name}')
     except subprocess.TimeoutExpired as exc:
-        check.update(status='failed', error='timeout after 1200 seconds')
+        check.update(status='failed', error=f'timeout after {timeout_seconds} seconds')
         raise GateFailure(f'{name} timed out') from exc
 
 

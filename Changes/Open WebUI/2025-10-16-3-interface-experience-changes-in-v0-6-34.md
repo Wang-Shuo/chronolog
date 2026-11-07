@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 60398d690f591c95811ca5c6aa52d00ad930bc24f7418ebeb0850e95f1d31542
+machine_hash: ba2baa95883ec65f7c3a62cad8c0170dbf560c0f353def1d61e166dba0a4175d
 product: open-webui
 product_name: Open WebUI
 record:
@@ -50,8 +50,8 @@ record:
   title: 3 Interface Experience changes in v0.6.34
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-10-09-tui-breathing-spinner-on-true-color-terms-by-nornagon-openai-in-https-github-com|TUI
-  Breathing spinner on true-color terms]]'
+- '[[Changes/Raycast/2025-10-10-2-interface-experience-changes-in-raycast-windows-0-32|2
+  Interface Experience changes in Raycast windows 0.32]]'
 - '[[Changes/Windsurf/2025-10-10-codemaps|Codemaps]]'
 - '[[Changes/Cline/2025-10-16-4-interface-experience-changes-in-v3-33-0|4 Interface
   Experience changes in v3.33.0]]'

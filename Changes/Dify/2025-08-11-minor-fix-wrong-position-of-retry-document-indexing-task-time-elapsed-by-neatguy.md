@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2dc56130968bc8b8d5cc138528319304597ea7c1a5e49166a9dbedb307503616
+machine_hash: 4f291e5a0eae49a2e6c780a26c1f22a0452ac12052480da10fb246a34593e761
 product: dify
 product_name: Dify
 record:
@@ -44,8 +44,8 @@ record:
   title: 'minor fix: wrong position of retry_document_indexing_task time elapsed'
   type: change
 related_changes:
-- '[[Changes/Dify/2025-07-23-metadata-and-file-processing-smarter-document-filtering-and-error-handling-fixed|Metadata
-  and File Processing]]'
+- '[[Changes/Recraft/2025-07-26-recraft-now-autogenerates-a-bird-s-eye-preview-for-every-project-giving-you-a-qu|Automatic
+  bird’s-eye view for projects]]'
 - '[[Changes/Dify/2025-07-28-2-files-and-data-changes-in-1-7-1|2 Files and Data changes
   in 1.7.1]]'
 - '[[Changes/Open WebUI/2025-08-09-2-files-and-data-changes-in-v0-6-19|2 Files and

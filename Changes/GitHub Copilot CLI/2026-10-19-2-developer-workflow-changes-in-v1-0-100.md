@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d6d180413f73fab04cca70c76646067a13cf30c150708b4aaa2e11d8941bc6ca
+machine_hash: 9d5fc11b24897ac5f2b07adb4e99b1918e98176b396ed07a4f6e20a56b6a46ed
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,12 +43,12 @@ record:
   title: 2 Developer Workflow changes in v1.0.100
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-10-16-3-developer-workflow-changes-in-v2026-10-4|3 Developer
-  Workflow changes in v2026.10.4]]'
-- '[[Changes/OpenClaw/2026-10-18-2-developer-workflow-changes-in-v2026-10-5|2 Developer
-  Workflow changes in v2026.10.5]]'
 - '[[Changes/Claude Code/2026-10-19-3-developer-workflow-changes-in-v2-1-304|3 Developer
   Workflow changes in v2.1.304]]'
+- '[[Changes/Devin/2026-10-19-ci-status-for-commits-branches-and-tags|CI Status for
+  Commits, Branches and Tags]]'
+- '[[Changes/Devin/2026-10-19-clearer-notice-for-unreviewed-changes|Clearer Notice
+  for Unreviewed Changes]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-10-19-v1-0-100-github-417622960-9e2e7578|github-copilot-cli-2026-10-19-v1-0-100-github-417622960-9e2e7578]]'
 source_type: github_releases
 theme: developer-workflow
@@ -94,7 +94,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.100
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-10-19 · Claude Code · [[Changes/Claude Code/2026-10-19-3-developer-workflow-changes-in-v2-1-304|3 Developer Workflow changes in v2.1.304]]
+- Earlier: 2026-10-19 · Devin · [[Changes/Devin/2026-10-19-clearer-notice-for-unreviewed-changes|Clearer Notice for Unreviewed Changes]]
 - Later: 2026-10-20 · Claude Code · [[Changes/Claude Code/2026-10-20-2-developer-workflow-changes-in-v2-1-305|2 Developer Workflow changes in v2.1.305]]
 <!-- chronolog:end -->
 

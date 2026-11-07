@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: c8ed31f9dac083d22c8102c91e7a59dd445a2ad1acace94f6c0b73a0e996c5a8
+machine_hash: fd37c5f9149c5f8c2d06e18a7dfdfd301826535a054af5c5162b659bcdde1403
 product: deepseek-api
 product_name: DeepSeek API
 record:
@@ -137,7 +137,7 @@ type: change
 ## Nearby in Multimodal Input
 
 - Earlier: 2026-08-20 · HeyGen · [[Changes/HeyGen/2026-08-20-why-it-matters|Why it matters]]
-- Later: 2026-08-25 · Dify · [[Changes/Dify/2026-08-25-3-multimodal-input-changes-in-1-17-0|3 Multimodal Input changes in 1.17.0]]
+- Later: 2026-08-21 · Recraft · [[Changes/Recraft/2026-08-21-create-for-starting-from-scratch-or-working-with-references-including-ai-editing|Create, for starting from scratch or working with references, including AI…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

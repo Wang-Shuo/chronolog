@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 43f7c0e0b41f5aa32abb503e77eb826ccce41f020df440ecb44b55e8752005ac
+machine_hash: 54efba7227dfe77324676af0e62dc6dd065078bf7f03fb5a0edc0b107f79215c
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -43,8 +43,8 @@ record:
   title: Esc to exit privacy screen in error state
   type: change
 related_changes:
-- '[[Changes/Dify/2025-06-25-2-safety-and-privacy-changes-in-1-5-0|2 Safety and Privacy
-  changes in 1.5.0]]'
+- '[[Changes/Raycast/2025-06-26-favicon-provider-we-added-a-new-setting-to-let-you-pick-your-favicon-provider-or|Favicon
+  Provider: We added a new setting to let you pick your favicon provider…]]'
 - '[[Changes/Replit/2025-06-27-security-scanner-updates|Security scanner updates]]'
 - '[[Changes/ElevenLabs/2025-06-30-workspaces|Workspaces]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-07-01-v0-1-8-github-229252035-f46324ec|gemini-cli-2025-07-01-v0-1-8-github-229252035-f46324ec]]'

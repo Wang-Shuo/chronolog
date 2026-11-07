@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5e1f6adc6118574a049edf99f9da26841474b2fac194036b4e53fca4f0512dd1
+machine_hash: d7cb5449f9953818fb5d2f1a1dc00ba8898144b268657cd8f37f51eb82197c2a
 product: dify
 product_name: Dify
 record:
@@ -54,12 +54,12 @@ record:
   title: 6 Model Support changes in 0.10.1
   type: change
 related_changes:
-- '[[Changes/Dify/2024-10-21-9-model-support-changes-in-0-10-0|9 Model Support changes
-  in 0.10.0]]'
 - '[[Changes/Ollama/2024-10-21-2-model-support-changes-in-v0-4-0|2 Model Support changes
   in v0.4.0]]'
 - '[[Changes/Aider/2024-10-22-5-model-support-changes-in-v0-60-0|5 Model Support changes
   in v0.60.0]]'
+- '[[Changes/LM Studio/2024-10-22-8-model-support-changes-in-lm-studio-0-3-5|8 Model
+  Support changes in LM Studio 0.3.5]]'
 source_release: '[[Releases/Dify/dify-2024-10-23-0-10-1-github-181515566-42cf5148|dify-2024-10-23-0-10-1-github-181515566-42cf5148]]'
 source_type: github_releases
 theme: model-support
@@ -108,7 +108,7 @@ Source: https://github.com/langgenius/dify/releases/tag/0.10.1
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2024-10-22 · Aider · [[Changes/Aider/2024-10-22-5-model-support-changes-in-v0-60-0|5 Model Support changes in v0.60.0]]
+- Earlier: 2024-10-22 · LM Studio · [[Changes/LM Studio/2024-10-22-8-model-support-changes-in-lm-studio-0-3-5|8 Model Support changes in LM Studio 0.3.5]]
 - Later: 2024-10-24 · Open WebUI · [[Changes/Open WebUI/2024-10-24-2-model-support-changes-in-v0-3-33|2 Model Support changes in v0.3.33]]
 <!-- chronolog:end -->
 

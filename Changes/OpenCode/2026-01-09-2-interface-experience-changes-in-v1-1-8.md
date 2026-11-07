@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c20dc32422073b6176cecf50c76cc85bb47bddebc04760ee9f32d6e2379aca7f
+machine_hash: 6e26aabec9fa0e91a5c767e2cab561ddb5cd4876a66695fc94763d24f882da5e
 product: opencode
 product_name: OpenCode
 record:
@@ -42,10 +42,8 @@ record:
   title: 2 Interface Experience changes in v1.1.8
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-09-added-shift-tab-keyboard-shortcut-in-plan-mode-to-quickly-select-auto-accept-edi|Added
-  Shift+Tab keyboard shortcut in plan mode to quickly select…]]'
-- '[[Changes/Codex CLI/2026-01-09-3-interface-experience-changes-in-rust-v0-80-0|3
-  Interface Experience changes in rust-v0.80.0]]'
+- '[[Changes/Devin/2026-01-09-playbook-visual-distinction|Playbook Visual Distinction]]'
+- '[[Changes/Devin/2026-01-09-machine-setup-ux-improvements|Machine Setup UX Improvements]]'
 - '[[Changes/Open WebUI/2026-01-09-5-interface-experience-changes-in-v0-7-0|5 Interface
   Experience changes in v0.7.0]]'
 source_release: '[[Releases/OpenCode/opencode-2026-01-09-v1-1-8-f98d35e8|opencode-2026-01-09-v1-1-8-f98d35e8]]'

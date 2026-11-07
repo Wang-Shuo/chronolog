@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: ab763afdcd2f257ba94041c3c0922182ad4ec9dbf8f709cf0a717315e88c9f95
+machine_hash: cb69ccbf140d02ceb57389968e3004ac8b0c4be79eaf02392e13677cee6c00bd
 product: aider
 product_name: Aider
 record:
@@ -43,10 +43,11 @@ record:
   title: Enhanced token usage and cost reporting
   type: change
 related_changes:
-- '[[Changes/Descript/2024-07-02-plan-limits|Plan limits]]'
 - '[[Changes/Descript/2024-07-02-plans-and-pricing-update|Plans and Pricing Update]]'
 - '[[Changes/Gemini/2024-07-15-workspace-extensions-now-available-in-beta-for-gemini-for-google-workspace-add-o|Workspace
   Extensions now available in Beta for Gemini for Google Workspace add-on…]]'
+- '[[Changes/Superwhisper/2024-07-22-add-billing-link-to-license-view|Add Billing
+  link to License View]]'
 source_release: '[[Releases/Aider/aider-2024-07-29-v0-46-0-github-167657280-41bdfe9c|aider-2024-07-29-v0-46-0-github-167657280-41bdfe9c]]'
 source_type: github_releases
 theme: pricing-model
@@ -78,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2024-07-15 · Gemini · [[Changes/Gemini/2024-07-15-workspace-extensions-now-available-in-beta-for-gemini-for-google-workspace-add-o|Workspace Extensions now available in Beta for Gemini for Google Workspace add-on…]]
+- Earlier: 2024-07-22 · Superwhisper · [[Changes/Superwhisper/2024-07-22-add-billing-link-to-license-view|Add Billing link to License View]]
 - Later: 2024-07-31 · Descript · [[Changes/Descript/2024-07-31-underlord-usage-limits|Underlord usage limits]]
 <!-- chronolog:end -->
 

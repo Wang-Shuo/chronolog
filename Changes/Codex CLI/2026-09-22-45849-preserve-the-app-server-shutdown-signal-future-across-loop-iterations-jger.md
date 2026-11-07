@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 683b5bf31a9bdac0dcd628cb09051c4caf63b9a2e449cde9bc88d5afede09d70
+machine_hash: 23ed17b53ec63c9b387c0eee279c1f0c27a8b8fa79f6ae2ab2da31aaa587e154
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -45,10 +45,10 @@ record:
     @jgershen-oai'
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-09-17-feat-automations-select-saved-agent-profiles-by-neubig-in-https-github-com-openh|feat(automations):
-  select saved agent profiles]]'
 - '[[Changes/OpenClaw/2026-09-19-14-automation-and-scheduling-changes-in-v2026-9-5|14
   Automation and Scheduling changes in v2026.9.5]]'
+- '[[Changes/Devin/2026-09-21-simpler-create-automation-menu|Simpler Create Automation
+  Menu]]'
 - '[[Changes/Open WebUI/2026-09-21-4-automation-and-scheduling-changes-in-v0-11-4|4
   Automation and Scheduling changes in v0.11.4]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-09-22-rust-v0-156-0-github-394061815-b23dd5f4|codex-cli-2026-09-22-rust-v0-156-0-github-394061815-b23dd5f4]]'

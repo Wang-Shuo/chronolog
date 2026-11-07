@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3d7c74fa26052a61fb6f8a22eb36219c32f44b97740d51ac68f08cce717cfcf4
+machine_hash: 0f825ea9a32698f6151c4cbf05008a97e4a931dbf70a102302aa1c7937a35e7f
 product: open-webui
 product_name: Open WebUI
 record:
@@ -89,7 +89,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2024-08-14 · Dify · [[Changes/Dify/2024-08-14-2-interface-experience-changes-in-0-7-0|2 Interface Experience changes in 0.7.0]]
-- Later: 2024-08-21 · Open WebUI · [[Changes/Open WebUI/2024-08-21-3-interface-experience-changes-in-v0-3-14|3 Interface Experience changes in v0.3.14]]
+- Later: 2024-08-14 · Raycast · [[Changes/Raycast/2024-08-14-window-management-added-support-for-resizing-fullscreen-windows|Window Management: Added support for resizing fullscreen windows]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

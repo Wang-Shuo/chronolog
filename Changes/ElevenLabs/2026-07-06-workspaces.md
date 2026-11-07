@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 15f7768bf3c625990870ef43c7845a11eeee5cd38b84eba56b30bf2569a8834e
+machine_hash: e04e399b79709c663dfb56d1d973b4ee5634e56f6b0250d3fa2f5044b5d1efad
 product: elevenlabs
 product_name: ElevenLabs
 record:

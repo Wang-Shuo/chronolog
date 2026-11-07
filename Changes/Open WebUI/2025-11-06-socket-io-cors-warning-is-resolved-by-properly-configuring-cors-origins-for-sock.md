@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d46860b6a16469934fa482da0adf0a70bee9395077ba5a27b76853e4f1266a38
+machine_hash: b0b49bb7fb9b40854a221d3e6e5fac31567c70bf6981220f5a582fd4d5a9ab04
 product: open-webui
 product_name: Open WebUI
 record:
@@ -45,8 +45,8 @@ record:
     origins for Socket"
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-11-04-docs-github-revamp-pull-request-template-by-jerop-in-https-github-com-google-gem|docs(github):
-  revamp pull request template]]'
+- '[[Changes/LM Studio/2025-11-04-added-lms-runtime-get-and-lms-runtime-update-cli-commands-to-manage-runtime-exte|Added
+  lms runtime get and lms runtime update CLI commands to manage runtime…]]'
 - '[[Changes/Windsurf/2025-11-04-terminal-fixes|Terminal Fixes]]'
 - '[[Changes/OpenHands/2025-11-05-made-terminal-tab-read-only-by-amanape-in-https-github-com-openhands-openhands-p|Made
   terminal tab read-only]]'

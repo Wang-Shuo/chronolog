@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1aebb1c32d7a2b1ce8fa06613db142b61883971e41555c796882298114490687
+machine_hash: b44f8e428be66e065d2d817b0faa18b7a8d9ea46164dc05d90f63d4cf042ef8b
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,8 +45,8 @@ record:
   title: 2 Pricing Model changes in v2.1.268
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-09-09-pro-100-month-up-to-15-hours-with-gpt-live-1|Pro ($100/month):
-  Up to 15 hours with GPT-Live-1]]'
+- '[[Changes/Krea/2026-09-09-postpaid-invoicing-for-enterprise-billing-accounts|Postpaid
+  invoicing for enterprise billing accounts]]'
 - '[[Changes/Synthesia/2026-09-09-purchase-credits-and-set-automatic-top-ups-so-long-running-jobs-don-t-fail-when|Buy
   credits and set auto top-ups]]'
 - '[[Changes/Synthesia/2026-09-09-get-a-clear-breakdown-of-credit-usage-with-a-new-billing-api-endpoint-so-you-can|Track

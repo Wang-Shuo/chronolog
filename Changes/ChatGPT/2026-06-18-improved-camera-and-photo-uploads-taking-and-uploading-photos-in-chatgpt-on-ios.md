@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7debe299934c57d60c833f1d0de9f41c777cc1c14ff2fedc697a03db5d198ac0
+machine_hash: 0310b057511ac3974082d0fc9da573679d6c32fba6d21f28a6a82759cb7be073
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -55,10 +55,10 @@ record:
   title: Improved camera and photo uploads
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-17-2-mobile-and-desktop-changes-in-v2-1-181|2 Mobile
-  and Desktop changes in v2.1.181]]'
-- '[[Changes/OpenCode/2026-06-17-desktop-the-new-desktop-file-and-folder-picker-is-faster-and-easier-to-navigate|Desktop
-  The new desktop file and folder picker is faster and easier to navigate…]]'
+- '[[Changes/Wispr Flow/2026-06-17-a-more-reliable-wispr-flow-desktop|A more reliable
+  Wispr Flow (Desktop)]]'
+- '[[Changes/Wispr Flow/2026-06-17-one-tap-retry-for-failed-transcripts-ios|One-Tap
+  Retry for Failed Transcripts (iOS)]]'
 - '[[Changes/ChatGPT/2026-06-18-updated-composer-and-tools-menu-the-composer-in-android-now-has-inline-mentions|Updated
   composer and tools menu]]'
 scope: iOS
@@ -97,8 +97,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-06-17 · OpenCode · [[Changes/OpenCode/2026-06-17-desktop-the-new-desktop-file-and-folder-picker-is-faster-and-easier-to-navigate|Desktop The new desktop file and folder picker is faster and easier to navigate…]]
-- Later: 2026-06-19 · v0 · [[Changes/v0/2026-06-19-on-mobile-an-expired-session-while-sending-opens-the-re-authenticate-flow-instea|On mobile, an expired session while sending opens the re-authenticate flow instead…]]
+- Earlier: 2026-06-17 · Wispr Flow · [[Changes/Wispr Flow/2026-06-17-one-tap-retry-for-failed-transcripts-ios|One-Tap Retry for Failed Transcripts (iOS)]]
+- Later: 2026-06-18 · Raycast · [[Changes/Raycast/2026-06-18-ai-chat-is-now-available-on-windows|AI Chat is now available on Windows]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

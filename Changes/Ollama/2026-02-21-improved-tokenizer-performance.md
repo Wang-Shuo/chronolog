@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5beb2e060f69c785fd87228ae3cb5adf5cbbb736889c7876b849f2a1920a15cb
+machine_hash: bb638955614c24f151be9c6e4fded0a94e29f70203b10888e6c471057c24a6d9
 product: ollama
 product_name: Ollama
 record:
@@ -40,10 +40,10 @@ record:
   title: Improved tokenizer performance
   type: change
 related_changes:
-- '[[Changes/Google Antigravity/2026-02-19-settings-artifacts-and-stability|Settings,
-  Artifacts, and Stability]]'
 - '[[Changes/Claude Code/2026-02-20-3-reliability-and-performance-changes-in-v2-1-50|3
   Reliability and Performance changes in v2.1.50]]'
+- '[[Changes/Devin/2026-02-20-various-bug-fixes-and-performance-improvements-across-the-platform|Various
+  bug fixes and performance improvements across the platform]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-20-improve-code-search-speed-in-large-repos|Improve
   code search speed in large repos]]'
 source_release: '[[Releases/Ollama/ollama-2026-02-21-v0-17-0-github-288945124-1246b4e7|ollama-2026-02-21-v0-17-0-github-288945124-1246b4e7]]'

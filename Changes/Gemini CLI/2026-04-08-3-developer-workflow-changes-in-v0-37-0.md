@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 85c1587e2073418d456b08cc2b2a3e2173099fddd2b8ffbb36336a90d179f790
+machine_hash: 2358369080b17a52de1de47ae7a0206ce1c655b7fbeeaf901e26e28ab630e347
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -45,11 +45,10 @@ record:
   title: 3 Developer Workflow changes in v0.37.0
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-04-06-5-developer-workflow-changes-in-v1-3-17-1|5 Developer
-  Workflow changes in v1.3.17 + 1]]'
 - '[[Changes/Claude Code/2026-04-08-3-developer-workflow-changes-in-v2-1-97|3 Developer
   Workflow changes in v2.1.97]]'
 - '[[Changes/Cursor/2026-04-08-bugbot-learned-rules-9e5cac|Bugbot Learned Rules]]'
+- '[[Changes/Devin/2026-04-08-auto-merge-from-devin-review|Auto-merge from Devin Review]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-04-08-v0-37-0-github-306699346-f88de07d|gemini-cli-2026-04-08-v0-37-0-github-306699346-f88de07d]]'
 source_type: github_releases
 theme: developer-workflow
@@ -94,7 +93,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.37.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-04-08 · Cursor · [[Changes/Cursor/2026-04-08-bugbot-learned-rules-9e5cac|Bugbot Learned Rules]]
+- Earlier: 2026-04-08 · Devin · [[Changes/Devin/2026-04-08-auto-merge-from-devin-review|Auto-merge from Devin Review]]
 - Later: 2026-04-08 · OpenCode · [[Changes/OpenCode/2026-04-08-terminal-added-pdf-drag-and-drop-for-attachments|Terminal Added PDF drag and drop for attachments]]
 <!-- chronolog:end -->
 

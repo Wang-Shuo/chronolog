@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: pricing
-machine_hash: ea2ac0191870ba3bdc0828477913c34dcf70d9de78f401042f602310e0a27347
+machine_hash: 7e5eced2530fc61350ec189147653ef1509ed2ba41ecf68166d61aa0468e35a1
 product: claude-code
 product_name: Claude Code
 record:
@@ -53,12 +53,12 @@ record:
   title: Added per-model and cache-hit breakdown to `/cost` for subscription users
   type: change
 related_changes:
-- '[[Changes/Dify/2026-03-27-3-pricing-model-changes-in-1-13-3|3 Pricing Model changes
-  in 1.13.3]]'
 - '[[Changes/Codex CLI/2026-03-31-15934-add-usage-based-business-plan-types-bwanner-oai|♯15934
   Add usage-based business plan types @bwanner-oai]]'
 - '[[Changes/HeyGen/2026-03-31-available-on-all-plans-credits-required|Available on:
   All plans]]'
+- '[[Changes/Recraft/2026-04-03-cost-13-21-credits-per-second|Cost: 13–21 credits
+  per second]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-04-v2-1-92-github-305189904-2eb020f5|claude-code-2026-04-04-v2-1-92-github-305189904-2eb020f5]]'
 source_type: github_releases
 theme: pricing-model
@@ -95,7 +95,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-03-31 · HeyGen · [[Changes/HeyGen/2026-03-31-available-on-all-plans-credits-required|Available on: All plans]]
+- Earlier: 2026-04-03 · Recraft · [[Changes/Recraft/2026-04-03-cost-13-21-credits-per-second|Cost: 13–21 credits per second]]
 - Later: 2026-04-06 · Windsurf · [[Changes/Windsurf/2026-04-06-updated-model-picker-with-pricing-context|Updated Model Picker with Pricing Context]]
 <!-- chronolog:end -->
 

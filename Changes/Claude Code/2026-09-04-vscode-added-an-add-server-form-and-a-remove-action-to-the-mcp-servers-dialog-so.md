@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2bb753b581c85ba51dd458146a82d64b22e83f8511470e38e896640f2b6ffdc0
+machine_hash: b845ca787063e41c0b789a8dbd7e26595a32612a8e17702d5d1ebb8b1fcfb5df
 product: claude-code
 product_name: Claude Code
 record:
@@ -99,7 +99,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-09-03 · OpenClaw · [[Changes/OpenClaw/2026-09-03-26-apps-and-integrations-changes-in-v2026-9-1|26 Apps and Integrations changes in v2026.9.1]]
-- Later: 2026-09-04 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-04-7-apps-and-integrations-changes-in-v1-0-83|7 Apps and Integrations changes in v1.0.83]]
+- Later: 2026-09-04 · Devin · [[Changes/Devin/2026-09-04-google-workspace-mcp-setup-guidance|Google Workspace MCP Setup Guidance]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

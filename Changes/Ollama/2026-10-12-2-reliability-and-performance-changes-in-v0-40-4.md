@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4639b8aebab7ab2d6e4ebdc86552f61253dfe145ef7a7cd24aa62c352ae5fc92
+machine_hash: 18ee19efb379c20fa113aad9ccfd5f03836c136637ff006470285ae697431344
 product: ollama
 product_name: Ollama
 record:
@@ -88,7 +88,7 @@ Source: https://github.com/ollama/ollama/releases/tag/v0.40.4
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-10-11 · Ollama · [[Changes/Ollama/2026-10-11-paused-background-model-upgrade-for-embedding-and-other-request-performance-by-j|Paused background model upgrade for embedding and other request performance,]]
-- Later: 2026-10-13 · Descript · [[Changes/Descript/2026-10-13-faster-ai-video-on-paid-plans|Faster AI video on paid plans]]
+- Later: 2026-10-12 · Raycast · [[Changes/Raycast/2026-10-12-performance-improved-app-launch-responsiveness-especially-with-larger-collection|Performance : Improved app launch responsiveness, especially with larger collections]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4b5526a3349ebb9c2683034ce9585ec0bc9cc357031fb4274369d7cac1233444
+machine_hash: d0bd05b33a91d3cbce5417143a4031bdc2fbd434b244dad1d1803711564626f4
 product: gamma
 product_name: Gamma
 record:
@@ -43,9 +43,9 @@ record:
   title: Updated Filmstrip Experience
   type: change
 related_changes:
-- '[[Changes/Replit/2025-01-24-autoscale-deployment-optimizations|Autoscale deployment
-  optimizations]]'
 - '[[Changes/Replit/2025-01-24-better-zips|Better Zips]]'
+- '[[Changes/AnythingLLM/2025-01-29-2-reliability-and-performance-changes-in-v1-4-0|2
+  Reliability and Performance changes in v1.4.0]]'
 - '[[Changes/Descript/2025-02-04-these-upgrades-also-bring-faster-text-to-speech-generation-and-add-support-for-c|These
   upgrades also bring faster text-to-speech generation, and add support…]]'
 source_release: '[[Releases/Gamma/gamma-2025-02-04-67a28d02934c6b693068dc12-c125d2ec|gamma-2025-02-04-67a28d02934c6b693068dc12-c125d2ec]]'

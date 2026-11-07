@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: cdbe5774bb43339190dae19c1ccf186a450ce1f224565ca2f5c7483140381605
+machine_hash: 291c5a0aebbb34c9108b64c8f6d6613a3c90cd2da4647df3f10950a4783a28e8
 product: dify
 product_name: Dify
 record:
@@ -52,8 +52,8 @@ record:
   title: 5 Apps and Integrations changes in 0.5.0
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2024-01-10-the-store-features-a-diverse-range-of-gpts-developed-by-our-partners-and-the-com-71db32|Discover
-  what’s trending in the GPT Store]]'
+- '[[Changes/Raycast/2024-01-10-preferences-improved-visibility-of-the-uninstall-option-for-deprecation-extensio|Preferences:
+  Improved visibility of the uninstall option for deprecation extensions]]'
 - '[[Changes/Dify/2024-01-11-2-apps-and-integrations-changes-in-0-4-5|2 Apps and Integrations
   changes in 0.4.5]]'
 - '[[Changes/Cursor/2024-01-15-supports-newer-version-of-python-extension|Supports

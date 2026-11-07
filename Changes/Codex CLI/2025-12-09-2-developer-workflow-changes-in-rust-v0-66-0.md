@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a2c19dc4b643b03ff961781c1283ce20d501f158a18fa84aeda9f7c2cf7fdb3b
+machine_hash: fb3fb40c8ced633cdf03cf96f2e0c5e8b3bb9043caf91a35fc5f7b67524d7c12
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,12 +44,12 @@ record:
   title: 2 Developer Workflow changes in rust-v0.66.0
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2025-12-02-13-developer-workflow-changes-in-v0-6-41|13 Developer
-  Workflow changes in v0.6.41]]'
-- '[[Changes/Cline/2025-12-04-docs-remove-advanced-patterns-and-testing-debugging-from-hooks-docs-by-jl-codes|docs:
-  remove Advanced Patterns and Testing & Debugging from Hooks docs]]'
 - '[[Changes/Codex CLI/2025-12-04-chore-make-create-approval-requirement-for-command-an-async-fn-7501-michael-boli|chore:
   make create_approval_requirement_for_command an async fn ♯7501 @Michael Bolin]]'
+- '[[Changes/Raycast/2025-12-05-2-developer-workflow-changes-in-raycast-ios-1-2-0|2
+  Developer Workflow changes in Raycast ios 1.2.0]]'
+- '[[Changes/AnythingLLM/2025-12-09-disable-prisma-cli-telemetry-in-entrypoint-shell-script-by-angelplusultra-in-htt|Disable
+  Prisma CLI Telemetry in Entrypoint Shell Script]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-12-09-rust-v0-66-0-github-268559734-698ec8f9|codex-cli-2025-12-09-rust-v0-66-0-github-268559734-698ec8f9]]'
 source_type: github_releases
 theme: developer-workflow
@@ -92,7 +92,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.66.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2025-12-04 · Codex CLI · [[Changes/Codex CLI/2025-12-04-chore-make-create-approval-requirement-for-command-an-async-fn-7501-michael-boli|chore: make create_approval_requirement_for_command an async fn ♯7501 @Michael Bolin]]
+- Earlier: 2025-12-09 · AnythingLLM · [[Changes/AnythingLLM/2025-12-09-disable-prisma-cli-telemetry-in-entrypoint-shell-script-by-angelplusultra-in-htt|Disable Prisma CLI Telemetry in Entrypoint Shell Script]]
 - Later: 2025-12-09 · Gemini CLI · [[Changes/Gemini CLI/2025-12-09-feat-core-add-configurable-inactivity-timeout-for-shell-commands-by-galz10-in-ht|feat(core): Add configurable inactivity timeout for shell commands]]
 <!-- chronolog:end -->
 

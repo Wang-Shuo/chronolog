@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5fb51bb2c0600bdcc78f801dbc8db2e883152a61d518390d1156ea89a8c67479
+machine_hash: 1aca021b195405fbb217a0584859d112e155d508f41b3f29c51f2ea9556ac6df
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -64,8 +64,8 @@ record:
   title: 12 Developer Workflow changes in rust-v0.162.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-07-10-developer-workflow-changes-in-rust-v0-161-0|10
-  Developer Workflow changes in rust-v0.161.0]]'
+- '[[Changes/Devin/2026-10-07-merge-queue-status-across-the-app|Merge Queue Status
+  Across the App]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-07-warmed-language-servers-stay-running-across-lsp-requests-when-sandboxing-is-disa|Warmed
   language servers stay running across LSP requests when sandboxing is disabled]]'
 - '[[Changes/Claude Code/2026-10-08-added-a-line-on-stderr-when-it-is-a-terminal-that-says-what-a-claude-p-run-is-wa|Added

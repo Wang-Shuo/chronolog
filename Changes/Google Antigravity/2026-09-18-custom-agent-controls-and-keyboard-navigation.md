@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: ae930e6f852cd9be843c87ffb088392bafebfed7726658567210e77e20b70904
+machine_hash: bcf9e12e4afd2e8bbd2f89202191de30e4e6da4894f9dece7e7c7c8fee469b53
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -64,12 +64,11 @@ record:
   title: Custom agent controls and keyboard navigation
   type: change
 related_changes:
-- '[[Changes/Cline/2026-09-17-cline-s-logo-and-icons-have-been-refreshed-throughout-the-extension-including-th|Cline''s
-  logo and icons have been refreshed throughout the extension, including…]]'
 - '[[Changes/Codex CLI/2026-09-17-43846-include-completed-commentary-in-the-copy-picker-copyberry|♯43846
   Include completed commentary in the /copy picker @copyberry]]'
 - '[[Changes/Claude Code/2026-09-18-vscode-added-a-sign-out-row-to-the-panel-menu-with-logout-in-the-typed-command-m|VSCode
   Added a Sign out row to the panel menu, with /logout in the typed command menu]]'
+- '[[Changes/Devin/2026-09-18-filter-sessions-by-origin|Filter Sessions by Origin]]'
 source_release: '[[Releases/Google Antigravity/google-antigravity-2026-09-18-rel-hub-2-15-0-48b37e09|google-antigravity-2026-09-18-rel-hub-2-15-0-48b37e09]]'
 source_type: antigravity_changelog
 theme: interface-experience
@@ -103,7 +102,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-09-18 · Claude Code · [[Changes/Claude Code/2026-09-18-vscode-added-a-sign-out-row-to-the-panel-menu-with-logout-in-the-typed-command-m|VSCode Added a Sign out row to the panel menu, with /logout in the typed command menu]]
+- Earlier: 2026-09-18 · Devin · [[Changes/Devin/2026-09-18-filter-sessions-by-origin|Filter Sessions by Origin]]
 - Later: 2026-09-18 · Lovable · [[Changes/Lovable/2026-09-18-redesigned-project-cards|Redesigned project cards]]
 <!-- chronolog:end -->
 

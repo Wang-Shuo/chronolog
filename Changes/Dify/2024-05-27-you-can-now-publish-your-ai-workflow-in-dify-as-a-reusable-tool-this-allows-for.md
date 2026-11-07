@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: bb298f91570e00c84aaba7003612576903e1b389ce65d79a0fa733fdaa082d1b
+machine_hash: 9ac41c70dad9e0b54f15364df0e8542e1c56941331250b8de64ae656b8b31a3a
 product: dify
 product_name: Dify
 record:
@@ -56,8 +56,8 @@ record:
   title: Publish your AI workflow in Dify as a reusable tool
   type: change
 related_changes:
-- '[[Changes/Dify/2024-05-09-3-apps-and-integrations-changes-in-0-6-7|3 Apps and Integrations
-  changes in 0.6.7]]'
+- '[[Changes/Devin/2024-05-13-organizations-integration-for-slack|Organizations Integration
+  for Slack]]'
 - '[[Changes/Dify/2024-05-13-4-apps-and-integrations-changes-in-0-6-8|4 Apps and Integrations
   changes in 0.6.8]]'
 - '[[Changes/ChatGPT/2024-05-16-upload-the-latest-file-versions-directly-from-google-drive-microsoft-onedrive-pe-70f6a3|Upload

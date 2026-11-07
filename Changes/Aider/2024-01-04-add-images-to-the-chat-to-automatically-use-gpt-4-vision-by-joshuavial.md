@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: bbffb50c021e56aa16d81460d002603ffc4b62af7aacd46e4e60cf5d1bfb17d3
+machine_hash: 473386556d7604bf7bd3fd511baef2695b96608cb5fbb3febb9e7843f6ae17a8
 product: aider
 product_name: Aider
 record:
@@ -51,8 +51,8 @@ record:
   title: Add images to the chat to automatically use GPT-4 Vision, by @joshuavial
   type: change
 related_changes:
-- '[[Changes/Aider/2023-12-20-3-model-support-changes-in-v0-19-0|3 Model Support changes
-  in v0.19.0]]'
+- '[[Changes/Superwhisper/2023-12-20-show-output-from-language-model-as-it-outputs|Show
+  output from language model as it outputs]]'
 - '[[Changes/Dify/2024-01-02-11-model-support-changes-in-0-4-0|11 Model Support changes
   in 0.4.0]]'
 - '[[Changes/Ollama/2024-01-03-5-model-support-changes-in-v0-1-18|5 Model Support

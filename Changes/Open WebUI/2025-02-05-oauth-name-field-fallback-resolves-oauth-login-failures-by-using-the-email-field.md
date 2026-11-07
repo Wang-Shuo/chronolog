@@ -14,12 +14,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: fade34ca03f4160c4c68c1c2857af3373d3b3a0986a0f07b618b0a247ddefd16
+machine_hash: e1b391d6e9a93f25b2954519d9f37c4a4e5b5e212fa5d304e43d7ebbb3e68a4b
 product: open-webui
 product_name: Open WebUI
 record:
@@ -44,7 +44,8 @@ record:
   title: "**\U0001F504 OAuth Name Field Fallback**"
   type: change
 related_changes:
-- '[[Changes/Replit/2025-01-03-replit-teams-login|Replit Teams login]]'
+- '[[Changes/Devin/2025-01-08-use-devin-s-browser-when-setting-up-devin-s-workspace-i-e-machine-snapshot|Use
+  Devin''s Browser when setting up Devin''s workspace (i.e. machine snapshot)]]'
 - '[[Changes/Lovable/2025-01-28-when-creating-signup-and-login-flows-lovable-builds-custom-authentication-uis-ta|When
   creating signup and login flows, Lovable builds custom authentication UIs…]]'
 - '[[Changes/Replit/2025-01-31-x-login|X login]]'

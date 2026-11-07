@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d65cc5c36d9c2641a214e1d8e932264ad21c9c041d409aeb0ca7daeae7c011ba
+machine_hash: 6ff0282f336ca8ddeb799c0eb0402a42674fc3367aa458b08a544551df4cbf0a
 product: openclaw
 product_name: OpenClaw
 record:
@@ -186,7 +186,7 @@ Source: https://docs.openclaw.ai/releases/2026.6.11
 ## Nearby in Automation and Scheduling
 
 - Earlier: 2026-06-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-30-pr-auto-now-starts-a-self-paced-loop-that-fixes-one-thing-per-run-and-paces-itse|/pr auto now starts a self-paced loop that fixes one thing per run and paces itself…]]
-- Later: 2026-07-01 · Open WebUI · [[Changes/Open WebUI/2026-07-01-models-with-null-capabilities-chatting-with-a-model-whose-capabilities-are-unset|🤖 Models with null capabilities. Chatting with a model whose capabilities…]]
+- Later: 2026-07-01 · Devin · [[Changes/Devin/2026-07-01-improved-webhook-trigger-setup|Improved Webhook Trigger Setup]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 8a028b76054a93876a58a5520762740895ee9798735c3d0483894d1682b9b99a
+machine_hash: 9a0ab2e924d7248c0ac8eb6ec008312d8095b1e0b6f8fd52ccd072ef2d33b92d
 product: heygen
 product_name: HeyGen
 record:
@@ -91,7 +91,7 @@ type: change
 ## Nearby in Image Generation
 
 - Earlier: 2026-01-22 · Cursor · [[Changes/Cursor/2026-01-22-image-generation|Image generation]]
-- Later: 2026-02-12 · Ollama · [[Changes/Ollama/2026-02-12-image-generation-models-will-now-respect-the-ollama-load-timeout-variable|Image generation models will now respect the OLLAMA_LOAD_TIMEOUT variable]]
+- Later: 2026-01-28 · LM Studio · [[Changes/LM Studio/2026-01-28-adds-download-copy-and-reveal-in-working-directory-buttons-to-generated-images-i|Adds download, copy, and reveal in working directory buttons to generated images in chat]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

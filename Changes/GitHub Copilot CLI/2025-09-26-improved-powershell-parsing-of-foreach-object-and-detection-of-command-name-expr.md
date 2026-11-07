@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 960e33469f69261127bd9119a96f49a8d485a2ec185679ad522b706c0cada664
+machine_hash: a048d75fbe13006cdb5795fffc98bc87cd328545ecf051ff7d7b28ebf5b7c148
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,12 +45,11 @@ record:
     name…
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-09-24-10-developer-workflow-changes-in-v0-6-0|10 Developer
-  Workflow changes in v0.6.0]]'
 - '[[Changes/Open WebUI/2025-09-25-2-developer-workflow-changes-in-v0-6-31|2 Developer
   Workflow changes in v0.6.31]]'
 - '[[Changes/Codex CLI/2025-09-26-3-developer-workflow-changes-in-rust-v0-42-0|3 Developer
   Workflow changes in rust-v0.42.0]]'
+- '[[Changes/Devin/2025-09-26-github-pr-comment-improvements|GitHub PR Comment Improvements]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2025-09-26-v0-0-328-github-250426078-8d17da88|github-copilot-cli-2025-09-26-v0-0-328-github-250426078-8d17da88]]'
 source_type: github_releases
 theme: developer-workflow
@@ -81,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2025-09-26 · Codex CLI · [[Changes/Codex CLI/2025-09-26-3-developer-workflow-changes-in-rust-v0-42-0|3 Developer Workflow changes in rust-v0.42.0]]
+- Earlier: 2025-09-26 · Devin · [[Changes/Devin/2025-09-26-github-pr-comment-improvements|GitHub PR Comment Improvements]]
 - Later: 2025-09-29 · Cursor · [[Changes/Cursor/2025-09-29-7-developer-workflow-changes-in-1-7|7 Developer Workflow changes in 1.7]]
 <!-- chronolog:end -->
 

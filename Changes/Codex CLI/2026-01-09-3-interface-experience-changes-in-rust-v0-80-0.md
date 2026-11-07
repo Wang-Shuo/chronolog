@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e71a82fff5c64ae4b012f6ca1fdfeecdfb8f6256472ec3d70e5925a968507c93
+machine_hash: 30e58e7ff7769717b7851f18f2fef291ed52a3a9e7c526a49de8b462b5bd5322
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -96,7 +96,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.80.0
 ## Nearby in Interface Experience
 
 - Earlier: 2026-01-09 · Claude Code · [[Changes/Claude Code/2026-01-09-added-shift-tab-keyboard-shortcut-in-plan-mode-to-quickly-select-auto-accept-edi|Added Shift+Tab keyboard shortcut in plan mode to quickly select…]]
-- Later: 2026-01-09 · Open WebUI · [[Changes/Open WebUI/2026-01-09-5-interface-experience-changes-in-v0-7-0|5 Interface Experience changes in v0.7.0]]
+- Later: 2026-01-09 · Devin · [[Changes/Devin/2026-01-09-playbook-visual-distinction|Playbook Visual Distinction]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

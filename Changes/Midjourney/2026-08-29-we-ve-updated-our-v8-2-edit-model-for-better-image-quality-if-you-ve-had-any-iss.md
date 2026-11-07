@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 9d1cb094fda65941734a43e257943590da7938ef2888ec1e9d959c9ed660c5bf
+machine_hash: 650fac128ec0e2f11a1761a72b0dc75de1bf1ac0da7861c5ebd9e28af53cba0e
 product: midjourney
 product_name: Midjourney
 record:
@@ -47,8 +47,8 @@ record:
   title: Edit Image Quality Update
   type: change
 related_changes:
-- '[[Changes/Replit/2026-08-28-intelligent-model-routing-for-enterprise|Intelligent
-  model routing for Enterprise]]'
+- '[[Changes/Superwhisper/2026-08-28-4-model-support-changes-in-superwhisper-windows-1-6-2|4
+  Model Support changes in Superwhisper Windows 1.6.2]]'
 - '[[Changes/v0/2026-08-28-gpt-5-6-sol-and-a-faster-sol-fast-tier-are-available-in-the-model-picker-routed|GPT-5.6
   Sol and a faster Sol Fast tier are available in the model picker, routed…]]'
 - '[[Changes/Codex CLI/2026-08-29-3-model-support-changes-in-rust-v0-151-0|3 Model

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b089de087c18270ce4cff352c5bd43aa0ca0287db250548a691cb33f912abf77
+machine_hash: 6780ba50ebace75c941ee794b70b5ba69f6d721f5912a386f9835560eb2f5d00
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -47,12 +47,11 @@ record:
   title: 4 Agent Mode changes in rust-v0.118.0
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-03-26-desktop-fix-agent-normalization-in-desktop-app|Desktop
-  Fix agent normalization in desktop app]]'
-- '[[Changes/Claude Code/2026-03-27-auto-mode-now-shows-unavailable-for-your-plan-when-disabled-by-plan-restrictions|Auto
-  mode now shows "unavailable for your plan" when disabled by plan restrictions…]]'
+- '[[Changes/Devin/2026-03-27-preview-agent-toggle|Preview Agent Toggle]]'
 - '[[Changes/Dify/2026-03-27-4-agent-mode-changes-in-1-13-3|4 Agent Mode changes in
   1.13.3]]'
+- '[[Changes/Raycast/2026-03-27-ai-chat-presets-are-now-called-agents-and-are-reused-if-you-change-the-configura|AI
+  Chat: Presets are now called Agents and are reused]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-03-31-rust-v0-118-0-github-303805427-02df59b6|codex-cli-2026-03-31-rust-v0-118-0-github-303805427-02df59b6]]'
 source_type: github_releases
 theme: agent-mode
@@ -101,7 +100,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.118.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-03-27 · Dify · [[Changes/Dify/2026-03-27-4-agent-mode-changes-in-1-13-3|4 Agent Mode changes in 1.13.3]]
+- Earlier: 2026-03-27 · Raycast · [[Changes/Raycast/2026-03-27-ai-chat-presets-are-now-called-agents-and-are-reused-if-you-change-the-configura|AI Chat: Presets are now called Agents and are reused]]
 - Later: 2026-03-31 · OpenCode · [[Changes/OpenCode/2026-03-31-core-subagent-tool-calls-stay-clickable-while-they-are-pending|Core Subagent tool calls stay clickable while they are pending]]
 <!-- chronolog:end -->
 

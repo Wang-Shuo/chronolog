@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: dcae7024f5fa5777620b1e7f2af45c4582e2f5b41d5918257e7652bb517bc929
+machine_hash: e47f2ea07220a663965d941efebad65f9f7b14652657da6b7256665a455b8105
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,12 +45,12 @@ record:
     longer…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-23-6-safety-and-privacy-changes-in-v1-0-64|6
-  Safety and Privacy changes in v1.0.64]]'
 - '[[Changes/Lovable/2026-06-23-restrict-external-collaborators-without-enforcing-sso|Restrict
   external collaborators without enforcing SSO]]'
 - '[[Changes/Claude Code/2026-06-24-improved-sandbox-network-permission-dialog-hosts-you-allow-with-yes-are-now-reme|Improved
   sandbox network permission dialog]]'
+- '[[Changes/Devin/2026-06-24-security-findings-in-ask-devin|Security Findings in
+  Ask Devin]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-06-24-v1-0-65-github-344381970-307a94bd|github-copilot-cli-2026-06-24-v1-0-65-github-344381970-307a94bd]]'
 source_type: github_releases
 theme: safety-privacy
@@ -87,7 +87,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-06-24 · Claude Code · [[Changes/Claude Code/2026-06-24-improved-sandbox-network-permission-dialog-hosts-you-allow-with-yes-are-now-reme|Improved sandbox network permission dialog]]
+- Earlier: 2026-06-24 · Devin · [[Changes/Devin/2026-06-24-security-findings-in-ask-devin|Security Findings in Ask Devin]]
 - Later: 2026-06-25 · Codex CLI · [[Changes/Codex CLI/2026-06-25-2-safety-and-privacy-changes-in-rust-v0-142-2|2 Safety and Privacy changes in rust-v0.142.2]]
 <!-- chronolog:end -->
 

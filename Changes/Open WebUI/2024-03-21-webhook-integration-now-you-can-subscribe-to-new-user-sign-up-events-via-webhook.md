@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 8e4985427bb976a4cf45b40c512682fdda23bcf7d5df9f795e9b80998957f6ca
+machine_hash: 41ee027f897e99ba3a39812a0823cca6e4680e1447ee044bee5f623bcd6af22b
 product: open-webui
 product_name: Open WebUI
 record:
@@ -48,8 +48,8 @@ record:
     events via webhook"
   type: change
 related_changes:
-- '[[Changes/Dify/2024-02-06-3-apps-and-integrations-changes-in-0-5-4|3 Apps and Integrations
-  changes in 0.5.4]]'
+- '[[Changes/Raycast/2024-02-07-2-apps-and-integrations-changes-in-raycast-macos-v1-1-67-0|2
+  Apps and Integrations changes in Raycast macos-v1 1.67.0]]'
 - '[[Changes/Dify/2024-02-19-chore-add-type-files-and-unit-test-ci-for-node-js-sdk-by-tseian-in-https-github|Chore:
   Add type files and unit test ci for Node.js SDK]]'
 - '[[Changes/Dify/2024-03-19-feat-add-api-version-selection-for-azure-openai-apis-by-leslie2046-in-https-gith|feat:add

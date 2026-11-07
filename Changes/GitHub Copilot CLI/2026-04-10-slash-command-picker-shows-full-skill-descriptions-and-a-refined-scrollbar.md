@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 584d0a80e34413edca7398feb4fd5aa0377c639b944b792604dcc88980594985
+machine_hash: 3ac8c2a3572d3889211270fd661fe9116403e218171fb7be980a9faa98d20632
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -82,7 +82,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-04-10 · Codex CLI · [[Changes/Codex CLI/2026-04-10-10-interface-experience-changes-in-rust-v0-119-0|10 Interface Experience changes in rust-v0.119.0]]
-- Later: 2026-04-11 · Codex CLI · [[Changes/Codex CLI/2026-04-11-2-interface-experience-changes-in-rust-v0-120-0|2 Interface Experience changes in rust-v0.120.0]]
+- Later: 2026-04-10 · Raycast · [[Changes/Raycast/2026-04-10-raycast-notes-added-show-notes-toggle-in-menu-bar-and-escape-key-loses-focus-set|Raycast Notes: Added “Show Notes Toggle in Menu Bar” and “Escape Key Loses Focus” settings]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

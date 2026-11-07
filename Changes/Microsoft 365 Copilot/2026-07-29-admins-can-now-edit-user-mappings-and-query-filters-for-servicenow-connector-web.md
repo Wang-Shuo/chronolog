@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 821efd47b5656ae8f7a03cf7d4fa632cea46d3c657a159e3b3cd98ecdd9e55ec
+machine_hash: 401af0aa218e5e0a4e4b0439220792b62c873ec441aa76c9a8d170234d8583a6
 product: microsoft-365-copilot
 product_name: Microsoft 365 Copilot
 record:
@@ -53,8 +53,8 @@ record:
   title: Admins can now edit user mappings and query filters for ServiceNow Connector…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-07-29-47-apps-and-integrations-changes-in-rust-v0-146-0|47
-  Apps and Integrations changes in rust-v0.146.0]]'
+- '[[Changes/Devin/2026-07-29-this-release-also-includes-many-smaller-fixes-and-improvements-including-clearer|This
+  release also includes many smaller fixes and improvements, including clearer…]]'
 - '[[Changes/Kimi Code/2026-07-29-2-apps-and-integrations-changes-in-kimi-code-0-30-0|2
   Apps and Integrations changes in Kimi Code 0.30.0]]'
 - '[[Changes/Lovable/2026-07-29-app-chat-connectors-amazon-redshift-and-microsoft-fabric|App

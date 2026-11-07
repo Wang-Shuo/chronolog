@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 90437b3e14cb71b17f311581ad452388099aae6e754b43cb3285fb2fdf531aa1
+machine_hash: ecec8ec78d4de57485f1b3c0fbab06e2fef6e08c21303b2ec8544776978f849c
 product: qoder
 product_name: Qoder
 record:
@@ -52,8 +52,8 @@ record:
   title: '**Fast models**: Get faster responses with less waiting for a smoother conversation…'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-09-improved-transcript-toggle-ctrl-o-responsiveness-in-code-heavy-conversations-by|Improved
-  transcript toggle (ctrl+o) responsiveness in code-heavy conversations…]]'
+- '[[Changes/Raycast/2026-10-09-3-reliability-and-performance-changes-in-raycast-macos-2-7|3
+  Reliability and Performance changes in Raycast macos 2.7]]'
 - '[[Changes/Open WebUI/2026-10-10-5-reliability-and-performance-changes-in-v0-12-0|5
   Reliability and Performance changes in v0.12.0]]'
 - '[[Changes/OpenClaw/2026-10-10-2-reliability-and-performance-changes-in-v2026-10-1|2

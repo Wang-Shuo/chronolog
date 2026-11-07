@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8a3215b5263dc43a6385ac43e52273e0c0f4e9f756cfdce2eba77d9f9baa059d
+machine_hash: ea04ba077c4b713ae24bf4a600e2276bf52c1c462a668d456dded8e2516b59d6
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -41,10 +41,10 @@ record:
   title: '#34850 Disable image generation for Free-plan accounts @copyberry'
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-07-13-7-image-generation-changes-in-v2026-7-1|7 Image Generation
-  changes in v2026.7.1]]'
-- '[[Changes/Codex CLI/2026-07-21-3-image-generation-changes-in-rust-v0-145-0|3 Image
-  Generation changes in rust-v0.145.0]]'
+- '[[Changes/Raycast/2026-07-23-ai-generated-images-can-be-dragged-and-dropped-into-other-apps|AI
+  : Generated images can be dragged and dropped into other apps]]'
+- '[[Changes/Raycast/2026-07-23-ai-generated-images-can-be-dragged-and-dropped-into-other-apps-3f50b8|AI
+  : Generated images can be dragged and dropped into other apps]]'
 - "[[Changes/Open WebUI/2026-07-27-shared-image-checkpoint-changes-only-administrators-can-now-change-the-instance|\U0001F58C️
   Shared image checkpoint changes. Only administrators can now change…]]"
 source_release: '[[Releases/Codex CLI/codex-cli-2026-07-29-rust-v0-146-0-github-361463950-6d491983|codex-cli-2026-07-29-rust-v0-146-0-github-361463950-6d491983]]'

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9bb950cf5a7a768b1382bec336adfd5056150ed432738be905a142f4a008b205
+machine_hash: 34555174355343bafef6166538f8bbccdceaa5336d6943be664887d77a49e582
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,12 +45,11 @@ record:
   title: 2 Interface Experience changes in v1.0.90
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-29-improved-responsiveness-when-leaving-the-ctrl-o-transcript-view-in-long-sessions|Improved
-  responsiveness when leaving the ctrl+o transcript view in long sessions…]]'
-- '[[Changes/Codex CLI/2026-09-29-4-interface-experience-changes-in-rust-v0-159-0|4
-  Interface Experience changes in rust-v0.159.0]]'
-- '[[Changes/Claude Code/2026-09-30-4-interface-experience-changes-in-v2-1-286|4 Interface
-  Experience changes in v2.1.286]]'
+- '[[Changes/Devin/2026-09-30-session-preview-cards-in-the-sidebar|Session Preview
+  Cards in the Sidebar]]'
+- '[[Changes/Devin/2026-09-30-reliability-and-navigation-fixes|Reliability and Navigation
+  Fixes]]'
+- '[[Changes/Devin/2026-09-30-sidebar-and-command-palette|Sidebar and Command Palette]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-09-30-v1-0-90-github-400456416-452b5a7d|github-copilot-cli-2026-09-30-v1-0-90-github-400456416-452b5a7d]]'
 source_type: github_releases
 theme: interface-experience
@@ -91,7 +90,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.90
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-09-30 · Claude Code · [[Changes/Claude Code/2026-09-30-4-interface-experience-changes-in-v2-1-286|4 Interface Experience changes in v2.1.286]]
+- Earlier: 2026-09-30 · Devin · [[Changes/Devin/2026-09-30-sidebar-and-command-palette|Sidebar and Command Palette]]
 - Later: 2026-09-30 · Google Antigravity · [[Changes/Google Antigravity/2026-09-30-rendered-markdown-in-artifacts-and-in-files-opened-in-the-side-pane-can-now-be-e|Rendered Markdown in artifacts and in files opened in the side pane can now…]]
 <!-- chronolog:end -->
 

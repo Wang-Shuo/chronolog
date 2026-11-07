@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: a23798f62816671d44cc826e4973ff4cceb1227b2f48d954f6d7be3c3b2ee31c
+machine_hash: d86bf8efbf2dfcf9bbf5d9aa8884064c43c33afada5ef9f0a926d39ac4023604
 product: lovable
 product_name: Lovable
 record:
@@ -47,10 +47,10 @@ record:
   title: Fewer preview reloads while you edit
   type: change
 related_changes:
-- '[[Changes/Midjourney/2026-08-27-type-edit-url-on-discord|Type --edit url... on
-  Discord]]'
-- '[[Changes/Midjourney/2026-08-27-click-the-edit-tab-on-the-left-and-upload-an-image|Click
-  the ‘edit’ tab on the left and upload an image]]'
+- '[[Changes/Devin/2026-08-28-split-editor-groups-in-the-session-workspace|Split Editor
+  Groups in the Session Workspace]]'
+- '[[Changes/Devin/2026-08-28-code-scan-validation-severities|Code Scan Validation
+  Severities]]'
 - '[[Changes/Gamma/2026-08-28-keep-charts-synced-with-google-sheets|Keep charts synced
   with Google Sheets]]'
 source_release: '[[Releases/Lovable/lovable-2026-08-28-2026-08-28-1fac4f32|lovable-2026-08-28-2026-08-28-1fac4f32]]'

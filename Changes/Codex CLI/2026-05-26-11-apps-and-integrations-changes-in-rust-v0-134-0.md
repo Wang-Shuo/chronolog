@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: eaebea3b7311cf5ee9eec2e84f165bf61f00e2316e340157d86edd68ebe58988
+machine_hash: f0610a689a4451c061d0402a954087ab4e436222063fb6b3b398260f98fe4b67
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -65,10 +65,11 @@ record:
   title: 11 Apps and Integrations changes in rust-v0.134.0
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-05-25-javascript-sdk|JavaScript SDK]]'
 - '[[Changes/ElevenLabs/2026-05-25-sdk-releases|SDK Releases]]'
 - '[[Changes/Lovable/2026-05-25-custom-mcp-servers-available-on-all-plans|Custom MCP
   servers available on all plans]]'
+- '[[Changes/AnythingLLM/2026-05-26-2-apps-and-integrations-changes-in-v1-13-0|2 Apps
+  and Integrations changes in v1.13.0]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-05-26-rust-v0-134-0-github-329640454-7be6059e|codex-cli-2026-05-26-rust-v0-134-0-github-329640454-7be6059e]]'
 source_type: github_releases
 theme: apps-integrations
@@ -126,7 +127,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.134.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-05-25 · Lovable · [[Changes/Lovable/2026-05-25-custom-mcp-servers-available-on-all-plans|Custom MCP servers available on all plans]]
+- Earlier: 2026-05-26 · AnythingLLM · [[Changes/AnythingLLM/2026-05-26-2-apps-and-integrations-changes-in-v1-13-0|2 Apps and Integrations changes in v1.13.0]]
 - Later: 2026-05-27 · Claude Code · [[Changes/Claude Code/2026-05-27-4-apps-and-integrations-changes-in-v2-1-152|4 Apps and Integrations changes in v2.1.152]]
 <!-- chronolog:end -->
 

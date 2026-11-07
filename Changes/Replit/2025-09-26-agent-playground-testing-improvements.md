@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: a48ca338796a3f0dfb0a08e0256007dbd433ceb20f51431e38c5898a48805152
+machine_hash: 5cb24547fa07c34c63b9c3a1ae6ab5cb166492c65108f8f130c5588a2ecdf187
 product: replit
 product_name: Replit
 record:
@@ -50,10 +50,10 @@ record:
   title: Agent playground testing improvements
   type: change
 related_changes:
-- '[[Changes/Replit/2025-09-19-autonomy-level-control-for-agent|Autonomy level control
-  for Agent]]'
 - '[[Changes/ElevenLabs/2025-09-22-agents-platform|Agents Platform]]'
 - '[[Changes/ElevenLabs/2025-09-22-package-updates|Package Updates]]'
+- '[[Changes/Devin/2025-09-26-inline-plan-display-for-ask-devin|Inline Plan Display
+  for Ask Devin]]'
 source_release: '[[Releases/Replit/replit-2025-09-26-2025-09-26-9c91350c|replit-2025-09-26-2025-09-26-9c91350c]]'
 source_type: replit_changelog
 theme: agent-mode
@@ -84,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2025-09-22 · ElevenLabs · [[Changes/ElevenLabs/2025-09-22-package-updates|Package Updates]]
+- Earlier: 2025-09-26 · Devin · [[Changes/Devin/2025-09-26-inline-plan-display-for-ask-devin|Inline Plan Display for Ask Devin]]
 - Later: 2025-09-29 · ChatGPT · [[Changes/ChatGPT/2025-09-29-we-re-introducing-instant-checkout-in-chatgpt-and-the-agentic-commerce-protocol-8cbf19|ChatGPT introduces Instant Checkout and the Agentic Commerce Protocol that powers…]]
 <!-- chronolog:end -->
 

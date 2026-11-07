@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 28e493e0e3cfe7253b191fc8c3357db16145a65dc60d5e2bc31adb28ee08fa34
+machine_hash: 6326560137c086098dccf2ce4eeebba5f370bbd7f1857f2d17b04f614fd88b35
 product: opencode
 product_name: OpenCode
 record:
@@ -43,11 +43,12 @@ record:
     mode…
   type: change
 related_changes:
-- '[[Changes/Replit/2026-05-15-agent|Agent]]'
 - '[[Changes/v0/2026-05-15-2-agent-mode-changes-in-claude-opus-4-7-fast-agent-browser|2
   Agent Mode changes in Claude Opus 4.7 Fast, agent browser…]]'
 - '[[Changes/OpenCode/2026-05-16-terminal-fixed-opencode-run-agent-resolving-project-local-agents|Terminal
   Fixed opencode run --agent resolving project-local agents]]'
+- '[[Changes/Devin/2026-05-17-pr-actions-auto-review-settings|PR Actions & Auto-Review
+  Settings]]'
 source_release: '[[Releases/OpenCode/opencode-2026-05-17-v1-15-4-270b6986|opencode-2026-05-17-v1-15-4-270b6986]]'
 source_type: opencode_changelog
 theme: agent-mode
@@ -78,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-05-16 · OpenCode · [[Changes/OpenCode/2026-05-16-terminal-fixed-opencode-run-agent-resolving-project-local-agents|Terminal Fixed opencode run --agent resolving project-local agents]]
+- Earlier: 2026-05-17 · Devin · [[Changes/Devin/2026-05-17-pr-actions-auto-review-settings|PR Actions & Auto-Review Settings]]
 - Later: 2026-05-18 · Codex CLI · [[Changes/Codex CLI/2026-05-18-9-agent-mode-changes-in-rust-v0-131-0|9 Agent Mode changes in rust-v0.131.0]]
 <!-- chronolog:end -->
 

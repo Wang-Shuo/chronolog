@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0d8c07a974b43c25c7a6cb1aca27f01f285426c5abd073cfb71d5937a00f3f3b
+machine_hash: 29b6d6293ac92c722e5f48394447d6f266e44669e538fdeec78c92254b851ca7
 product: dify
 product_name: Dify
 record:
@@ -95,7 +95,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.11.0
 ## Nearby in Pricing Model
 
 - Earlier: 2025-12-08 · ElevenLabs · [[Changes/ElevenLabs/2025-12-08-billing-9b631f|Billing]]
-- Later: 2025-12-12 · v0 · [[Changes/v0/2025-12-12-v0-mini-fastest-and-most-cost-efficient|v0 Mini : Fastest and most cost-efficient]]
+- Later: 2025-12-12 · Recraft · [[Changes/Recraft/2025-12-12-credit-cost-2-credits-per-generation|Credit cost: 2 credits per generation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

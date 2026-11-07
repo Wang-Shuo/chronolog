@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e78d1727fbae8afe89a78bbf1c05106693930fd710bbea0f22e9464ccccdbeb5
+machine_hash: 9bb140524fc75c43aee4b7ed5b6f66019e52a86af04b3fbbe80038270b416d0a
 product: openhands
 product_name: OpenHands
 record:
@@ -41,12 +41,11 @@ record:
   title: Made small tweaks for mobile styles
   type: change
 related_changes:
-- '[[Changes/Descript/2025-04-10-updates-desktop-app-to-support-configuration-change|Updates
-  desktop app to support configuration change]]'
 - '[[Changes/OpenHands/2025-04-23-addressed-failure-of-docker-containers-to-start-on-windows-by-happyherp-in-https|Addressed
   failure of Docker containers to start on Windows]]'
 - '[[Changes/Windsurf/2025-04-29-reduced-errors-for-edit-tool-calls-for-windows|Reduced
   errors for edit tool calls for Windows]]'
+- '[[Changes/Raycast/2025-04-30-raycast-for-ios-is-here|Raycast for iOS is here]]'
 source_release: '[[Releases/OpenHands/openhands-2025-05-05-0-36-1-github-216594786-15b747e6|openhands-2025-05-05-0-36-1-github-216594786-15b747e6]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -76,7 +75,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2025-04-29 · Windsurf · [[Changes/Windsurf/2025-04-29-reduced-errors-for-edit-tool-calls-for-windows|Reduced errors for edit tool calls for Windows]]
+- Earlier: 2025-04-30 · Raycast · [[Changes/Raycast/2025-04-30-raycast-for-ios-is-here|Raycast for iOS is here]]
 - Later: 2025-05-06 · Descript · [[Changes/Descript/2025-05-06-screen-recorder-updates|Screen recorder updates]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f80d80cd859563b66a8a80ac87ae281b86a0a487cd0b019ab3e5d79ee79fc1fe
+machine_hash: f36ce32c111ca4baf8fcffb0deea1f0b56e68a1090af9b8594a25c0d01b7f9aa
 product: open-webui
 product_name: Open WebUI
 record:
@@ -106,7 +106,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.8.6
 ## Nearby in Interface Experience
 
 - Earlier: 2026-02-28 · Claude Code · [[Changes/Claude Code/2026-02-28-added-always-copy-full-response-option-to-the-copy-picker-when-selected-future-c|Added "Always copy full response" option to the /copy picker]]
-- Later: 2026-03-02 · Descript · [[Changes/Descript/2026-03-02-note-files-you-import-directly-into-a-project-won-t-appear-in-the-media-library|Note: Files you import directly into a project won't appear in the Media…]]
+- Later: 2026-03-02 · AnythingLLM · [[Changes/AnythingLLM/2026-03-02-2-interface-experience-changes-in-v1-11-1|2 Interface Experience changes in v1.11.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

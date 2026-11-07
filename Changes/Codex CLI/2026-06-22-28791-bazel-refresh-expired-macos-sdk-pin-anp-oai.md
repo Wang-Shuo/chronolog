@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1583620995b2c6b66334432253c4d560124fc6c3a51cf808789829a42cf26f05
+machine_hash: 87e27f43aa2af02db85bbdc1502dd32f6a28e55fcfda255a5319f3e12c999efa
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -40,12 +40,12 @@ record:
   title: '#28791 bazel: refresh expired macOS SDK pin @anp-oai'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-06-18-improved-camera-and-photo-uploads-taking-and-uploading-photos-in-chatgpt-on-ios|Improved
-  camera and photo uploads]]'
-- '[[Changes/ChatGPT/2026-06-18-chatgpt-now-has-more-ways-to-help-with-common-questions-from-pronunciation-guida|ChatGPT
-  now has more ways to help with common questions, from pronunciation guidance…]]'
+- '[[Changes/Raycast/2026-06-18-ai-chat-is-now-available-on-windows|AI Chat is now
+  available on Windows]]'
 - '[[Changes/v0/2026-06-19-on-mobile-an-expired-session-while-sending-opens-the-re-authenticate-flow-instea|On
   mobile, an expired session while sending opens the re-authenticate flow instead…]]'
+- '[[Changes/AnythingLLM/2026-06-22-just-some-small-patches-for-the-upcoming-1-15-0-2-0-0-preview-initial-release-fo|Just
+  some small patches for the upcoming 1.15.0 / 2.0.0-preview initial release…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-06-22-rust-v0-142-0-github-343189954-a218ab4e|codex-cli-2026-06-22-rust-v0-142-0-github-343189954-a218ab4e]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -90,7 +90,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-06-19 · v0 · [[Changes/v0/2026-06-19-on-mobile-an-expired-session-while-sending-opens-the-re-authenticate-flow-instea|On mobile, an expired session while sending opens the re-authenticate flow instead…]]
+- Earlier: 2026-06-22 · AnythingLLM · [[Changes/AnythingLLM/2026-06-22-just-some-small-patches-for-the-upcoming-1-15-0-2-0-0-preview-initial-release-fo|Just some small patches for the upcoming 1.15.0 / 2.0.0-preview initial release…]]
 - Later: 2026-06-23 · Windsurf · [[Changes/Windsurf/2026-06-23-devin-desktop|Devin Desktop]]
 <!-- chronolog:end -->
 

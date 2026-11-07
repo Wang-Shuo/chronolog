@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 41e54b465a94fd657f213ef2e7128ee2c0b4b030da9af12c2af9977f33955bcd
+machine_hash: f5641ae9c8e070dcacef24244e7a762cb01051823cf09498faf8fd530348b1e6
 product: qoder
 product_name: Qoder
 record:
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-10-22 · OpenHands · [[Changes/OpenHands/2026-10-22-the-app-isn-t-signed-with-an-apple-developer-id-yet-so-macos-may-call-a-75a2b3|The app isn't signed with an Apple Developer ID yet, so macOS may call a]]
-- Later: 2026-10-23 · Codex CLI · [[Changes/Codex CLI/2026-10-23-8-mobile-and-desktop-changes-in-rust-v0-164-0|8 Mobile and Desktop changes in rust-v0.164.0]]
+- Later: 2026-10-22 · Raycast · [[Changes/Raycast/2026-10-22-restart-shut-down-the-confirmation-now-has-a-reopen-windows-when-logging-back-in|Restart / Shut Down]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: pricing
-machine_hash: b06d165c445e82ff34d09e5d3e9f67bfff7e03e29c685e5e44941a6f047a2178
+machine_hash: 660a7e73ca9661583db0b477a6fbcfb3a9d285edd9fcc5ce48b10a7122eb49ce
 product: cline
 product_name: Cline
 record:
@@ -54,9 +54,9 @@ record:
   title: Removing reasoning UX for Grok 4 models and correct pricing
   type: change
 related_changes:
-- '[[Changes/Replit/2025-07-04-effort-based-billing|Effort-based billing]]'
 - '[[Changes/Cline/2025-07-09-remove-incorrect-pricing-display-for-sap-ai-core-provider-since-it-uses-non-usd|Remove
   incorrect pricing display for SAP AI Core provider since it uses non-USD…]]'
+- '[[Changes/Recraft/2025-07-10-cost-per-generation|Cost per generation]]'
 - '[[Changes/Cline/2025-07-11-supporting-buy-credits-url-response-from-backend-by-pashpashpash-in-https-github|supporting
   buy_credits_url response from backend]]'
 source_release: '[[Releases/Cline/cline-2025-07-15-v3-18-15-github-232396752-aa5b28a8|cline-2025-07-15-v3-18-15-github-232396752-aa5b28a8]]'

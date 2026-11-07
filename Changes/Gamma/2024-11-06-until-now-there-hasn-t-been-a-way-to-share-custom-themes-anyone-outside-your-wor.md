@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a39633e28fcf96f25cbb2612252337665934b079d322ac4c21ffeb38eafca119
+machine_hash: 6f92ded80616f1e5add0c5c84c6bf2173d6de6334a8707b94dafb812892ef58a
 product: gamma
 product_name: Gamma
 record:
@@ -48,12 +48,12 @@ record:
   title: Theme sharing link
   type: change
 related_changes:
-- '[[Changes/Gamma/2024-10-23-view-images-your-teammates-have-created-in-shared-gammas|View
-  images your teammates have created in shared gammas]]'
 - "[[Changes/Open WebUI/2024-10-24-folders-support-for-chats-organize-your-chats-better-by-grouping-them-into-folde|\U0001F4C1
   Folders Support for Chats: Organize your chats better by grouping them into folders]]"
 - '[[Changes/Aider/2024-11-01-anonymous-opt-in-analytics-https-aider-chat-docs-more-analytics-html-with-no-per|Anonymous,
   opt-in analytics((source link) with no…]]'
+- '[[Changes/Devin/2024-11-01-you-ll-receive-warnings-if-devin-is-about-to-sleep|You''ll
+  receive warnings if Devin is about to sleep]]'
 source_release: '[[Releases/Gamma/gamma-2024-11-06-672bc81a3ed62cd05bb8eb26-f9580bb6|gamma-2024-11-06-672bc81a3ed62cd05bb8eb26-f9580bb6]]'
 source_type: gamma_changelog
 theme: collaboration
@@ -82,7 +82,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2024-11-01 · Aider · [[Changes/Aider/2024-11-01-anonymous-opt-in-analytics-https-aider-chat-docs-more-analytics-html-with-no-per|Anonymous, opt-in analytics((source link) with no…]]
+- Earlier: 2024-11-01 · Devin · [[Changes/Devin/2024-11-01-you-ll-receive-warnings-if-devin-is-about-to-sleep|You'll receive warnings if Devin is about to sleep]]
 - Later: 2024-11-19 · Open WebUI · [[Changes/Open WebUI/2024-11-19-2-collaboration-changes-in-v0-4-0|2 Collaboration changes in v0.4.0]]
 <!-- chronolog:end -->
 

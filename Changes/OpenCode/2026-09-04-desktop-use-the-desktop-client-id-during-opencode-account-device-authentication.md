@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6c158eb34e571a3048baf2a35898d21344acc0eb62bfb5d858dad1890abb2d92
+machine_hash: 78f0d467cb42f18870ec44133b3b999f76cf5070191231724ee20ac43e5e2beb
 product: opencode
 product_name: OpenCode
 record:
@@ -80,7 +80,7 @@ type: change
 ## Nearby in Account and Access
 
 - Earlier: 2026-09-04 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-04-3-account-and-access-changes-in-v1-0-83|3 Account and Access changes in v1.0.83]]
-- Later: 2026-09-05 · OpenClaw · [[Changes/OpenClaw/2026-09-05-20-account-and-access-changes-in-v2026-9-2|20 Account and Access changes in v2026.9.2]]
+- Later: 2026-09-04 · Wispr Flow · [[Changes/Wispr Flow/2026-09-04-a-smoother-sign-in-handoff-android|A Smoother Sign-In Handoff (Android)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

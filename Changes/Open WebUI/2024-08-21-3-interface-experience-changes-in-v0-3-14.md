@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 562f7045b4fc866bb31d9ecf744d9218b14b8d6d7624d572ac3128ce1f6f5bf3
+machine_hash: 4efc60d0a987cf0d787af2ede029399c348110a07ae09d357b8e213758d79b15
 product: open-webui
 product_name: Open WebUI
 record:
@@ -48,12 +48,12 @@ record:
   title: 3 Interface Experience changes in v0.3.14
   type: change
 related_changes:
-- '[[Changes/Descript/2024-08-14-the-title-field-has-been-added-back-to-compositions-so-you-can-update-the-title|The
-  Title field has been added back to Compositions so you can update the title…]]'
-- '[[Changes/Dify/2024-08-14-2-interface-experience-changes-in-0-7-0|2 Interface Experience
-  changes in 0.7.0]]'
 - "[[Changes/Open WebUI/2024-08-14-enhanced-markdown-rendering-significant-improvements-in-rendering-markdown-ensur|\U0001F3A8
   Enhanced Markdown Rendering]]"
+- '[[Changes/Raycast/2024-08-14-window-management-added-support-for-resizing-fullscreen-windows|Window
+  Management: Added support for resizing fullscreen windows]]'
+- '[[Changes/AnythingLLM/2024-08-19-improve-search-of-document-picker-by-shatfield4-in-https-github-com-mintplex-lab|Improve
+  search of document picker]]'
 source_release: '[[Releases/Open WebUI/open-webui-2024-08-21-v0-3-14-github-171303135-153d327d|open-webui-2024-08-21-v0-3-14-github-171303135-153d327d]]'
 source_type: github_releases
 theme: interface-experience
@@ -93,7 +93,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.3.14
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2024-08-14 · Open WebUI · [[Changes/Open WebUI/2024-08-14-enhanced-markdown-rendering-significant-improvements-in-rendering-markdown-ensur|🎨 Enhanced Markdown Rendering]]
+- Earlier: 2024-08-19 · AnythingLLM · [[Changes/AnythingLLM/2024-08-19-improve-search-of-document-picker-by-shatfield4-in-https-github-com-mintplex-lab|Improve search of document picker]]
 - Later: 2024-08-22 · Cursor · [[Changes/Cursor/2024-08-22-we-have-a-new-chat-ux-excited-for-you-to-try-it-out-and-share-your-thoughts|We have a new chat UX!]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: eca69f79e478349ca863c0de1ebf0f5afe93e2adece1812c4c6a6b4fe362e7c4
+machine_hash: e6ab7de4d7c0b4d7b4613f362e7977716f1cdad8d5df78edd571e298c4594803
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,7 +44,8 @@ record:
   title: 2 Enterprise and Administration changes in rust-v0.137.0
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-06-03-an-organization-is-the-top-level-container-for-your-company-s-identity-administr|Organizations]]'
+- '[[Changes/Devin/2026-06-03-sso-scim-jit-provisioning-and-enterprise-redirect|SSO/SCIM:
+  JIT Provisioning and Enterprise Redirect]]'
 - '[[Changes/ChatGPT/2026-06-04-we-re-beginning-to-roll-out-ads-for-users-on-free-and-go-plans-in-the-uk-plus-pr|Rolling
   out ads in the UK]]'
 - '[[Changes/Claude Code/2026-06-04-added-requiredminimumversion-and-requiredmaximumversion-managed-settings-claude|Added

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 477e87755f44d46447478997cd2317cde9adecf5eb87c708213c219ce5757806
+machine_hash: 0c3cf04d9f2e6abdfaa0913e91222412302b18862150c0d048d3c5493d016a2b
 product: open-webui
 product_name: Open WebUI
 record:
@@ -43,11 +43,12 @@ record:
   title: "**\U0001F50D Web Search Functionality**"
   type: change
 related_changes:
-- '[[Changes/Ollama/2024-07-25-web-browsing|Web browsing]]'
 - '[[Changes/Open WebUI/2024-09-04-2-search-and-browsing-changes-in-v0-3-17|2 Search
   and Browsing changes in v0.3.17]]'
 - "[[Changes/Open WebUI/2024-09-07-refined-web-search-integration-deprecated-the-search-query-generation-prompt-thr|\U0001F310
   Refined Web Search Integration]]"
+- '[[Changes/AnythingLLM/2024-09-11-feature-add-searchapi-web-browsing-by-timothycarambat-in-https-github-com-mintpl|Feature/add
+  searchapi web browsing]]'
 source_release: '[[Releases/Open WebUI/open-webui-2024-09-24-v0-3-28-github-176672468-5e07d941|open-webui-2024-09-24-v0-3-28-github-176672468-5e07d941]]'
 source_type: github_releases
 theme: search-browsing
@@ -74,7 +75,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Search and Browsing
 
-- Earlier: 2024-09-07 · Open WebUI · [[Changes/Open WebUI/2024-09-07-refined-web-search-integration-deprecated-the-search-query-generation-prompt-thr|🌐 Refined Web Search Integration]]
+- Earlier: 2024-09-11 · AnythingLLM · [[Changes/AnythingLLM/2024-09-11-feature-add-searchapi-web-browsing-by-timothycarambat-in-https-github-com-mintpl|Feature/add searchapi web browsing]]
 - Later: 2024-09-30 · Dify · [[Changes/Dify/2024-09-30-add-zhipuai-web-search-by-aaee86-in-https-github-com-langgenius-dify-pull-8668|add zhipuai web search]]
 <!-- chronolog:end -->
 

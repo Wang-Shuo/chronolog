@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e43b894990b2e9c18407545938a8970dd96a4102a795dcc1cf4b17e78bb95d47
+machine_hash: d20011416afbc372f4d3f6a6b551834bd5f3bcdc7ed638887b77104c0f86695c
 product: cline
 product_name: Cline
 record:
@@ -41,9 +41,8 @@ record:
   title: 2 Editor Experience changes in v3.8.5
   type: change
 related_changes:
-- '[[Changes/Aider/2025-03-25-added-edit-as-an-alias-for-the-editor-command|Added
-  /edit as an alias for the /editor command]]'
-- '[[Changes/Descript/2025-03-25-editor-updates|Editor updates]]'
+- '[[Changes/Devin/2025-03-25-ask-devin|Ask Devin]]'
+- '[[Changes/Devin/2025-03-25-devin-ide|Devin IDE]]'
 - '[[Changes/Lovable/2025-03-28-supabase-functions-now-get-deployed-when-updated-in-code-editor-also-supabase-fu|Supabase
   functions now get deployed when updated in code editor]]'
 source_release: '[[Releases/Cline/cline-2025-04-01-v3-8-5-github-209483266-bf57367b|cline-2025-04-01-v3-8-5-github-209483266-bf57367b]]'

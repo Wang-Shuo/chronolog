@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 98d681d34f4ec96b8e057b9c0c2ab9d33b5e2b81d21e8ad821a74bdc747e3d8d
+machine_hash: e692a030128b5d609d559d171c7c3d068fa653a948ca034473ca196295d72fa8
 product: lovable
 product_name: Lovable
 record:
@@ -61,10 +61,10 @@ record:
   title: Chat with Lovable in Slack
   type: change
 related_changes:
-- '[[Changes/Cline/2026-08-26-4-apps-and-integrations-changes-in-v4-1-16|4 Apps and
-  Integrations changes in v4.1.16]]'
-- '[[Changes/Codex CLI/2026-08-26-24-apps-and-integrations-changes-in-rust-v0-150-0|24
-  Apps and Integrations changes in rust-v0.150.0]]'
+- '[[Changes/Devin/2026-08-26-smarter-mention-routing-in-slack-threads|Smarter @mention
+  Routing in Slack Threads]]'
+- '[[Changes/Devin/2026-08-26-default-working-org-for-slack-channel-sessions|Default
+  Working Org for Slack Channel Sessions]]'
 - '[[Changes/Lovable/2026-08-26-connect-github-api-by-signing-in-with-your-github-account|Connect
   GitHub API by signing in with your GitHub account]]'
 source_release: '[[Releases/Lovable/lovable-2026-08-26-2026-08-26-bad08262|lovable-2026-08-26-2026-08-26-bad08262]]'
@@ -106,8 +106,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-08-26 · Codex CLI · [[Changes/Codex CLI/2026-08-26-24-apps-and-integrations-changes-in-rust-v0-150-0|24 Apps and Integrations changes in rust-v0.150.0]]
-- Later: 2026-08-27 · Claude Code · [[Changes/Claude Code/2026-08-27-improved-managed-settings-client-side-timeout-mcp-startup-mode-and-stream-watchd|Improved managed settings]]
+- Earlier: 2026-08-26 · Devin · [[Changes/Devin/2026-08-26-default-working-org-for-slack-channel-sessions|Default Working Org for Slack Channel Sessions]]
+- Later: 2026-08-26 · Superwhisper · [[Changes/Superwhisper/2026-08-26-agent-plugin-support-for-deepseek-harness|Agent plugin support for DeepSeek Harness]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

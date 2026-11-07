@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 67f0f3aec23c2a14c45cef30fd734ece797aab45d790a3fe96ac7b59584a75c8
+machine_hash: 9f3f7c0e26e3422dd6dcbec290bd1c1fc026ee7795ce9a943daea5e54ca657ab
 product: deepseek-api
 product_name: DeepSeek API
 record:
@@ -95,8 +95,8 @@ record:
   title: DeepSeek-V4.1-Flash-1017 Update
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-10-16-core-configure-model-reasoning-options-to-generate-reasoning-variants-replacing|Core
-  Configure model reasoning options to generate reasoning variants, replacing…]]'
+- '[[Changes/Raycast/2026-10-16-ai-chat-images-you-attach-when-using-local-models-now-stay-on-your-device-when-c-f34b5c|AI
+  Chat : Images you attach when using local models now stay on your device…]]'
 - '[[Changes/Replit/2026-10-16-claude-haiku-5-5-in-the-model-selector|Claude Haiku
   5.5 in the model selector]]'
 - '[[Changes/v0/2026-10-16-gemini-4-requests-no-longer-fail-when-run-at-higher-effort-levels|Gemini

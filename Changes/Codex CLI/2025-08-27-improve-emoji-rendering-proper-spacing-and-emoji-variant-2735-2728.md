@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 30fb878df70695ba9e5645e8d724942377e3f7a5b79f66f5b674077bd9555c2d
+machine_hash: 51df0f4078dedea31aea9f4e0c5b689c28d5ec14b2e541233c6680c6ddefe968
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,10 +43,9 @@ record:
   title: 'Improve emoji rendering: proper spacing and ⌨️ emoji variant (#2735, #2728)'
   type: change
 related_changes:
-- '[[Changes/Gemini/2025-08-21-revisit-your-conversations-you-can-now-search-your-gemini-chat-history|Revisit
-  your conversations: You can now search your Gemini chat history]]'
-- '[[Changes/Open WebUI/2025-08-21-8-interface-experience-changes-in-v0-6-23|8 Interface
-  Experience changes in v0.6.23]]'
+- '[[Changes/Devin/2025-08-22-wiki-sidebar-improvements|Wiki Sidebar Improvements]]'
+- '[[Changes/Raycast/2025-08-25-emoji-picker-added-a-colorful-new-selection-state-making-it-even-more-fun-to-use|Emoji
+  Picker : Added a colorful, new selection state, making it even more fun to use]]'
 - '[[Changes/Codex CLI/2025-08-26-3-interface-experience-changes-in-rust-v0-24-0|3
   Interface Experience changes in rust-v0.24.0]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-08-27-rust-v0-25-0-github-242803749-ad836b6a|codex-cli-2025-08-27-rust-v0-25-0-github-242803749-ad836b6a]]'

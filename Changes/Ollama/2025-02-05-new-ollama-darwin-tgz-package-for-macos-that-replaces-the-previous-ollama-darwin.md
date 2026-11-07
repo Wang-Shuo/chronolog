@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 8533b88c6f4b5be164ad9d6fe3fba916270c8eb9b7d42e976f5eb506d3ca7ee4
+machine_hash: 0b66776bc8000c68310cbee069044655299d2c0b2ac8f8caebdb2ccdc4be6623
 product: ollama
 product_name: Ollama
 record:
@@ -44,11 +44,12 @@ record:
   title: New `ollama-darwin.tgz` package for macOS that replaces the previous `ollama-darwin`…
   type: change
 related_changes:
-- '[[Changes/Replit/2025-01-17-web-view-mobile-support|Web view mobile support]]'
 - "[[Changes/Open WebUI/2025-01-22-desktop-app-preparations-ongoing-work-to-support-the-upcoming-open-webui-desktop|\U0001F5A5️
   Desktop App Preparations]]"
 - '[[Changes/Midjourney/2025-01-25-you-can-now-describe-images-on-the-web|"describe"
   images on the web]]'
+- '[[Changes/AnythingLLM/2025-01-29-desktop-build-of-this-release-1-7-3-are-attached-as-binaries-below|
+  Desktop build of this release (1.7.3) are attached as binaries below]]'
 source_release: '[[Releases/Ollama/ollama-2025-02-05-v0-5-8-github-198400593-916a9e77|ollama-2025-02-05-v0-5-8-github-198400593-916a9e77]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -77,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2025-01-25 · Midjourney · [[Changes/Midjourney/2025-01-25-you-can-now-describe-images-on-the-web|"describe" images on the web]]
+- Earlier: 2025-01-29 · AnythingLLM · [[Changes/AnythingLLM/2025-01-29-desktop-build-of-this-release-1-7-3-are-attached-as-binaries-below| Desktop build of this release (1.7.3) are attached as binaries below]]
 - Later: 2025-02-06 · Suno · [[Changes/Suno/2025-02-06-expand-your-favorite-track-moments-and-make-your-sound-hit-even-harder-covers-pe|🚨 Extend is live on iOS!]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 56f67e36b296f0ad81ab577151445483613cb546e0b426b99b307c4ebc681cd2
+machine_hash: e9900c7fc448c682b946e80d67f807505b2077a23abf7a820cc9715fb9c12072
 product: dify
 product_name: Dify
 record:
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Account and Access
 
 - Earlier: 2024-05-08 · Open WebUI · [[Changes/Open WebUI/2024-05-08-auth-disable-option-introducing-the-ability-to-disable-authentication-set-webui|🔒 Auth Disable Option: Introducing the ability to disable authentication]]
-- Later: 2024-06-14 · Dify · [[Changes/Dify/2024-06-14-feat-support-login-by-given-mail-by-iamjoel-in-https-github-com-langgenius-dify|feat: support login by given mail]]
+- Later: 2024-05-29 · Devin · [[Changes/Devin/2024-05-29-interactive-browser|Interactive Browser]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

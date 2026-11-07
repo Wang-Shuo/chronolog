@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: fix
-machine_hash: 2a9b31daa18d45a7f64825baf367fb982aea664d085f36e709d0f8f94246d552
+machine_hash: b37d7cb4a7e61a7ac5c22740775f926c1065dbc5aebe4802a5f2b9dbbc514021
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,10 +46,9 @@ record:
   title: Fixed MCP step-up authorization silently refreshing instead of prompting…
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-04-21-11-safety-and-privacy-changes-in-v0-9-0|11 Safety
-  and Privacy changes in v0.9.0]]'
 - '[[Changes/OpenCode/2026-04-21-terminal-fixed-permission-replies-using-remote-workspaces-so-they-are-sent-to-th|Terminal
   Fixed permission replies using remote workspaces so they are sent…]]'
+- '[[Changes/Devin/2026-04-22-view-consumption-permission|View Consumption Permission]]'
 - '[[Changes/Ollama/2026-04-22-better-mlx-thread-safety-for-array-management|Better
   MLX thread safety for array management]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-23-v2-1-118-github-312487295-b3c6b04c|claude-code-2026-04-23-v2-1-118-github-312487295-b3c6b04c]]'

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: expansion
-machine_hash: 7e94bbd4f9c2988239f840ea058d9f8328ad1eb7e8d725f6a19580a7ac014758
+machine_hash: e67bc19d4f9682d701f82f617da3a3b04ebf93b5aa7d48e0eaea1a3c14d8c646
 product: claude
 product_name: Claude
 record:
@@ -56,12 +56,12 @@ record:
   title: Claude Cowork on web and mobile
   type: change
 related_changes:
-- '[[Changes/Kimi Code/2026-07-06-3-mobile-and-desktop-changes-in-kimi-code-0-23-0|3
-  Mobile and Desktop changes in Kimi Code 0.23.0]]'
 - '[[Changes/Lovable/2026-07-06-lovable-desktop-app-is-now-on-windows|Lovable Desktop
   app is now on Windows]]'
 - '[[Changes/OpenCode/2026-07-06-14-mobile-and-desktop-changes-in-v1-17-14|14 Mobile
   and Desktop changes in v1.17.14]]'
+- '[[Changes/Superwhisper/2026-07-06-now-requires-macos-14-or-later|Now requires macOS
+  14 or later]]'
 source_release: '[[Releases/Claude/claude-2026-07-07-2026-07-07-3495f67b|claude-2026-07-07-2026-07-07-3495f67b]]'
 source_type: claude_changelog
 theme: mobile-desktop
@@ -90,7 +90,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-07-06 · OpenCode · [[Changes/OpenCode/2026-07-06-14-mobile-and-desktop-changes-in-v1-17-14|14 Mobile and Desktop changes in v1.17.14]]
+- Earlier: 2026-07-06 · Superwhisper · [[Changes/Superwhisper/2026-07-06-now-requires-macos-14-or-later|Now requires macOS 14 or later]]
 - Later: 2026-07-07 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-07-3-mobile-and-desktop-changes-in-v1-0-69|3 Mobile and Desktop changes in v1.0.69]]
 <!-- chronolog:end -->
 

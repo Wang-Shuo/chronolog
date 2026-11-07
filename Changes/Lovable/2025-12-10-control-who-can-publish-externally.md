@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: f4abc5f734f2376721b418c1a3a3c8add3267e13c8f9a89f64e8a283fe3422dc
+machine_hash: 50815589e4215f933641a3c8e34dc13397ac5c1732035fa6a38cb591a5522a60
 product: lovable
 product_name: Lovable
 record:
@@ -46,12 +46,10 @@ record:
   title: Control who can publish externally**
   type: change
 related_changes:
-- '[[Changes/Cline/2025-11-27-creates-and-refactor-enterprise-docs-by-juanpflores-in-https-github-com-cline-cl|Creates
-  and Refactor Enterprise Docs]]'
-- '[[Changes/Cline/2025-12-02-add-enterprise-to-readme-by-reneehuang1-in-https-github-com-cline-cline-pull-758|add
-  enterprise to readme]]'
-- '[[Changes/Open WebUI/2025-12-02-2-enterprise-and-administration-changes-in-v0-6-41|2
-  Enterprise and Administration changes in v0.6.41]]'
+- '[[Changes/Devin/2025-12-05-enterprise-api-v3-updates|Enterprise API v3 Updates]]'
+- '[[Changes/Devin/2025-12-05-enterprise-hypervisors-capacity-utilization|Enterprise
+  Hypervisors Capacity Utilization]]'
+- '[[Changes/Devin/2025-12-05-service-users-page-improvements|Service Users Page Improvements]]'
 source_release: '[[Releases/Lovable/lovable-2025-12-10-2025-12-10-5566d63c|lovable-2025-12-10-2025-12-10-5566d63c]]'
 source_type: lovable_changelog
 theme: enterprise-admin
@@ -93,7 +91,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2025-12-02 · Open WebUI · [[Changes/Open WebUI/2025-12-02-2-enterprise-and-administration-changes-in-v0-6-41|2 Enterprise and Administration changes in v0.6.41]]
+- Earlier: 2025-12-05 · Devin · [[Changes/Devin/2025-12-05-service-users-page-improvements|Service Users Page Improvements]]
 - Later: 2025-12-11 · Cline · [[Changes/Cline/2025-12-11-enterprise-docs-by-jl-codes-in-https-github-com-cline-cline-pull-7714|Enterprise docs]]
 <!-- chronolog:end -->
 

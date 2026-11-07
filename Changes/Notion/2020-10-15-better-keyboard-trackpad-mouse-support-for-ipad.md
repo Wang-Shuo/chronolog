@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: b683949157685daa07619ef73620c05e04add20b2179a58842f2457633245d57
+machine_hash: f88c4aafdbbd80cab39633d592ad6230bdcfc872728fab3bd303ab3e0342886b
 product: notion
 product_name: Notion
 record:
@@ -53,12 +53,12 @@ record:
   title: "Better keyboard, trackpad & mouse support for iPad \U0001F42D"
   type: change
 related_changes:
-- '[[Changes/Notion/2020-09-17-shift-return-is-now-supported-on-ipad-use-this-to-create-a-line-break-within-the|Shift
-  + return is now supported on iPad!]]'
-- '[[Changes/Descript/2020-09-29-descript-for-windows-now-supports-the-ability-to-select-from-various-microphone|(Windows)
-  Additional Support for ASIO and DirectSound driver options]]'
 - '[[Changes/Notion/2020-09-29-write-your-notes-by-hand-on-ipad|Write your notes by
   hand on iPad ✍️]]'
+- "[[Changes/Raycast/2020-09-30-with-macos-big-sur-around-the-corner-with-its-new-shiny-design-we-decided-to-fol|\U0001F30AWith
+  macOS Big Sur around the corner with its new shiny design, we decided…]]"
+- '[[Changes/Raycast/2020-10-07-linear-create-search-and-complete-issues|Linear: Create,
+  search and complete issues]]'
 source_release: '[[Releases/Notion/notion-2020-10-15-https-www-notion-com-releases-2020-10-15-65e9eb9c|notion-2020-10-15-https-www-notion-com-releases-2020-10-15-65e9eb9c]]'
 source_type: notion_changelog
 theme: mobile-desktop
@@ -91,7 +91,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2020-09-29 · Notion · [[Changes/Notion/2020-09-29-write-your-notes-by-hand-on-ipad|Write your notes by hand on iPad ✍️]]
+- Earlier: 2020-10-07 · Raycast · [[Changes/Raycast/2020-10-07-linear-create-search-and-complete-issues|Linear: Create, search and complete issues]]
 - Later: 2020-10-21 · Descript · [[Changes/Descript/2020-10-21-with-descript-s-new-screen-recording-utility-you-can-now-take-screen-recordings|Screen Recorder]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: df04d966571cb7275136d3ed7faa62b9bc76a01a1d043c5dc5f83bcd8e2326c7
+machine_hash: 44b4cee230114506919c0dede85bf4a0119e34d10c7cc281930d740847cd771e
 product: openclaw
 product_name: OpenClaw
 record:
@@ -109,7 +109,7 @@ type: change
 ## Nearby in Multimodal Input
 
 - Earlier: 2026-10-06 · Synthesia · [[Changes/Synthesia/2026-10-06-say-how-long-you-want-your-video-in-your-prompt-so-the-assistant-plans-an-outlin|Match video length to your prompt]]
-- Later: 2026-10-10 · OpenClaw · [[Changes/OpenClaw/2026-10-10-video-previews-new-video-previews-can-download-media-before-play|Video previews: New video previews can download media before Play]]
+- Later: 2026-10-09 · Raycast · [[Changes/Raycast/2026-10-09-five-new-commands-put-everyday-settings-a-few-keystrokes-away-manage-networks-an|Five new commands put everyday settings a few keystrokes away]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

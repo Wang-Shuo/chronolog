@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: fa8e65017b6fdd5c85983d831dbccdedc30b6338418bc18523a64e9cbc715b87
+machine_hash: fc7df1e2201e33ab385107d791b62bd6fe3d878442eadbe6c32759a6d2e035a9
 product: suno
 product_name: Suno
 record:
@@ -44,8 +44,8 @@ record:
     a MIDI…'
   type: change
 related_changes:
-- '[[Changes/Microsoft 365 Copilot/2026-08-11-sharepoint-authoritative-sites-windows-web-microsoft-365-sharepoint|SharePoint:
-  Authoritative Sites Windows, Web (Microsoft 365 SharePoint)]]'
+- '[[Changes/AnythingLLM/2026-08-13-this-flow-also-allows-image-attachments-for-edits-followups-or-combination-promp|This
+  flow also allows image attachments for edits, followups, or combination prompts…]]'
 - '[[Changes/Cline/2026-08-13-use-the-editor-s-foreground-color-for-diff-block-text-so-diffs-stay-legible-in-t|Use
   the editor''s foreground color for diff block text, so diffs stay legible…]]'
 - '[[Changes/Lovable/2026-08-13-open-projects-from-links-in-the-command-palette|Open
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-08-13 · Lovable · [[Changes/Lovable/2026-08-13-open-projects-from-links-in-the-command-palette|Open projects from links in the command palette]]
-- Later: 2026-08-14 · Lovable · [[Changes/Lovable/2026-08-14-download-your-codebase-from-git-settings|Download your codebase from Git settings]]
+- Later: 2026-08-14 · Devin · [[Changes/Devin/2026-08-14-smarter-re-review-behavior-in-devin-review|Smarter Re-Review Behavior in Devin Review]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

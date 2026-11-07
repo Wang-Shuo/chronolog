@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 84af40f564b3f5d38f68fe0c01cc7aa982b5bbb9d970dc8790fc9f542274bf4f
+machine_hash: 29ce98db3efe175387b8fc13beeeff5d9780d0fbc8a268d6223eff2d55abaa1f
 product: aider
 product_name: Aider
 record:
@@ -41,8 +41,8 @@ record:
   title: 2 Editor Experience changes in v0.60.0
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-10-09-vs-code-1-93-1-cursor-is-now-based-on-vs-code-1-93-1-c087f6|VS
-  Code 1.93.1: Cursor is now based on VS Code 1.93.1]]'
+- '[[Changes/Raycast/2024-10-09-search-emoji-symbols-added-symbols-for-return-tab-escape-and-forward-delete-keys|Search
+  Emoji & Symbols : Added symbols for Return, Tab, Escape, and Forward-Delete keys]]'
 - '[[Changes/Suno/2024-10-10-2-navigate-to-replace-section-go-to-edit-replace-section|2
   - Navigate to Replace Section: Go to Edit  Replace Section]]'
 - '[[Changes/Dify/2024-10-14-prompt-editor-optimization-clearer-and-more-efficient-prompt-editing-with-reset|Prompt

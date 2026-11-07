@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9a0f6af7acc5243de5d51f36b2db5f54a4a13ec6663a5ae90f7a4ec9c34f95f2
+machine_hash: ca07d6a9dea102f8b49a28c75a1c647a521e5284e074bb8fbbb630b863627f04
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -56,10 +56,10 @@ record:
   title: With scheduled tasks, users can ask ChatGPT to send reminders, handle recurring…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-13-speed-up-branch-and-head-detection-in-warm-sessions|Speed
-  up branch and HEAD detection in warm sessions]]'
 - '[[Changes/Codex CLI/2026-06-15-3-reliability-and-performance-changes-in-rust-v0-140-0|3
   Reliability and Performance changes in rust-v0.140.0]]'
+- '[[Changes/AnythingLLM/2026-06-16-4-reliability-and-performance-changes-in-v1-14-1|4
+  Reliability and Performance changes in v1.14.1]]'
 - '[[Changes/Z.ai API/2026-06-16-achieves-open-source-sota-performance-on-coding-and-long-horizon-task-benchmarks|Achieves
   open-source SOTA performance on coding and long-horizon task benchmarks…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-06-17-scheduled-tasks-in-chatgpt-b8005b4a|chatgpt-2026-06-17-scheduled-tasks-in-chatgpt-b8005b4a]]'

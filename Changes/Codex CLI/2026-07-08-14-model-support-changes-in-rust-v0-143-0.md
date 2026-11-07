@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5ff55a7607d1cf33ae2a2d2e1e4726c0b492a817cd2ed7150246414c28ac1770
+machine_hash: 0a05461293d03630325ee795c577113ec912d2b690b8316ac20f6455c45b6b06
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -69,10 +69,10 @@ record:
   title: 14 Model Support changes in rust-v0.143.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-07-6-model-support-changes-in-v1-0-69|6 Model
-  Support changes in v1.0.69]]'
 - '[[Changes/Kimi Code/2026-07-07-2-model-support-changes-in-kimi-code-0-23-1|2 Model
   Support changes in Kimi Code 0.23.1]]'
+- '[[Changes/LM Studio/2026-07-07-add-reasoning-to-lms-chat|Add /reasoning to lms
+  chat]]'
 - '[[Changes/Lovable/2026-07-07-nano-banana-2-lite-image-model-for-ai-features-in-your-app|Nano
   Banana 2 Lite image model for AI features in your app]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-07-08-rust-v0-143-0-github-350650561-9eba805c|codex-cli-2026-07-08-rust-v0-143-0-github-350650561-9eba805c]]'

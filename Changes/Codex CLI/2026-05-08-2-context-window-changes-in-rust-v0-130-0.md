@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1fa0c5307519014e1f066be66ec636af5babfb3ef5a597d9683acce1c1d0e9f6
+machine_hash: a6daff0f22b60868e45bedc4e9831daaf8c1abba8a00cd2705de038ebbf4091b
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -89,7 +89,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.130.0
 ## Nearby in Context Window
 
 - Earlier: 2026-05-07 · OpenCode · [[Changes/OpenCode/2026-05-07-2-context-window-changes-in-v1-14-40|2 Context Window changes in v1.14.40]]
-- Later: 2026-05-08 · Replit · [[Changes/Replit/2026-05-08-external-access-tokens-for-private-deployments|External access tokens for Private Deployments]]
+- Later: 2026-05-08 · Raycast · [[Changes/Raycast/2026-05-08-ai-model-picker-details-the-model-picker-now-has-a-beautiful-new-detail-panel-fo|AI Model Picker Details]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

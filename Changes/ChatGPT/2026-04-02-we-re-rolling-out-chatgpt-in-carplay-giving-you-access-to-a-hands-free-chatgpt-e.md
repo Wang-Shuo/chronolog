@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 1dddf066e638ca951f8764f021849d5f37579798fb92748d60a347e6f6a8d1a3
+machine_hash: 2df7c67b2b4b95d7635fa715819e145fedd06c3018df8bf320eb84b6d5a77014
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -63,12 +63,12 @@ record:
   title: ChatGPT in Apple CarPlay
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-31-7-mobile-and-desktop-changes-in-rust-v0-118-0|7
-  Mobile and Desktop changes in rust-v0.118.0]]'
 - '[[Changes/Claude Code/2026-04-01-powershell-tool-on-windows-external-command-arguments-containing-both-a-double-q|PowerShell
   tool on Windows]]'
 - '[[Changes/Gemini CLI/2026-04-01-feat-core-implement-strict-macos-sandboxing-using-seatbelt-allowlist-by-ehedlund|feat(core):
   implement strict macOS sandboxing using Seatbelt allowlist]]'
+- '[[Changes/AnythingLLM/2026-04-02-anythingllm-docker-and-desktop-now-support-a-telegram-bot-https-docs-anythingllm|AnythingLLM
+  Docker and Desktop now support a Telegram…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-04-02-chatgpt-in-apple-carplay-3c2ba8a2|chatgpt-2026-04-02-chatgpt-in-apple-carplay-3c2ba8a2]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
@@ -95,8 +95,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-04-01 · Gemini CLI · [[Changes/Gemini CLI/2026-04-01-feat-core-implement-strict-macos-sandboxing-using-seatbelt-allowlist-by-ehedlund|feat(core): implement strict macOS sandboxing using Seatbelt allowlist]]
-- Later: 2026-04-04 · OpenCode · [[Changes/OpenCode/2026-04-04-4-mobile-and-desktop-changes-in-v1-3-15-1|4 Mobile and Desktop changes in v1.3.15 + 1]]
+- Earlier: 2026-04-02 · AnythingLLM · [[Changes/AnythingLLM/2026-04-02-anythingllm-docker-and-desktop-now-support-a-telegram-bot-https-docs-anythingllm|AnythingLLM Docker and Desktop now support a Telegram…]]
+- Later: 2026-04-03 · Raycast · [[Changes/Raycast/2026-04-03-introducing-virtual-desktop-commands-a-full-suite-of-commands-that-turns-your-de|Introducing Virtual Desktop commands a full suite of commands that turns…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

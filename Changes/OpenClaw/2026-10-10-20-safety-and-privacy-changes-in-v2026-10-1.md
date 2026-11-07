@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0c6a86025661bb4afc39701f8024d6722006eb547dfb02110de656ed8d1f18bb
+machine_hash: 99abd7a3b73877aed2f92900c34371fce76bb40356af052eb3674eeed9b560f1
 product: openclaw
 product_name: OpenClaw
 record:
@@ -156,8 +156,7 @@ record:
   title: 20 Safety and Privacy changes in v2026.10.1
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-09-4-safety-and-privacy-changes-in-v2-1-296|4 Safety
-  and Privacy changes in v2.1.296]]'
+- '[[Changes/Devin/2026-10-09-manage-findings-permission|Manage findings permission]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-09-copilot-config-supports-sandbox-credential-injecthosts-keys-with-key-completion|copilot
   config supports sandbox credential injectHosts keys, with key completion…]]'
 - '[[Changes/Open WebUI/2026-10-10-6-safety-and-privacy-changes-in-v0-12-0|6 Safety

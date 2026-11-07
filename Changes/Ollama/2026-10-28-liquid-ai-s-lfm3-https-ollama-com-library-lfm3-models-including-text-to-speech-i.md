@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5a590616a56ff35ffbb1dc8dd77a2ff069c56e2f636143965563547cedb47e84
+machine_hash: 1cc7438ef81d7359ca6feb135f5fb3e038571c77adbbfd176e475882a203e4fb
 product: ollama
 product_name: Ollama
 record:
@@ -87,7 +87,7 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2026-10-28 · HeyGen · [[Changes/HeyGen/2026-10-28-why-it-matters|Why it matters]]
-- Later: 2026-10-29 · Open WebUI · [[Changes/Open WebUI/2026-10-29-read-aloud-with-kokoro-js-read-aloud-now-speaks-with-the-chosen-kokoro-voice-whe|🔊 Read Aloud with Kokoro.js. Read Aloud now speaks with the chosen Kokoro voice…]]
+- Later: 2026-10-28 · Raycast · [[Changes/Raycast/2026-10-28-dictation-post-processing-improvements-to-reduce-unwanted-em-dashes-and-unexpect|Dictation: Post-processing improvements to reduce unwanted em dashes and unexpected…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

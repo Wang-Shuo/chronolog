@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 04469ca59f292badb44806f7f258ae8e9d1d37b4a7e9f81e4538d9b0343bb069
+machine_hash: fcfdd3a3ad3c6beb3461c0260385a43b84b060745b0e7bcb6beec7103afd1fc4
 product: descript
 product_name: Descript
 record:
@@ -44,8 +44,7 @@ record:
     ready…
   type: change
 related_changes:
-- '[[Changes/Notion/2022-08-11-lots-of-performance-reliability-improvements-across-the-ios-android-apps|Lots
-  of performance & reliability improvements across the iOS & Android apps]]'
+- '[[Changes/Raycast/2022-09-28-improved-calculator|Improved Calculator]]'
 - '[[Changes/Descript/2022-11-12-note-windows-7-reached-end-of-life-status-eol-unsupported-by-microsoft-on-januar|Note:
   Windows 7 reached "end of life" status (EOL / unsupported) by Microsoft…]]'
 - '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General

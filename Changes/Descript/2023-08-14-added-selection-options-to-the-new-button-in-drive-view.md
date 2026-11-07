@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 78b4a5271bbf797bc2db3163bd0af0a998a30707ce45e1a6a96b88105e2ae47e
+machine_hash: b7e4eca204fade73913277f9cda192dcbeda058b2d2c6f5feddcafc9e1dc9e21
 product: descript
 product_name: Descript
 record:
@@ -45,10 +45,10 @@ record:
   title: Added selection options to the New button in Drive view
   type: change
 related_changes:
-- '[[Changes/Ollama/2023-08-02-more-seamless-updates-ollama-will-now-show-a-subtle-hint-that-an-update-is-ready|More
-  seamless updates]]'
 - '[[Changes/Notion/2023-08-08-little-fixes-big-improvements|Little fixes = big improvements]]'
 - '[[Changes/Descript/2023-08-10-app-header-improvements|App header improvements]]'
+- '[[Changes/Superwhisper/2023-08-12-new-settings-layout-and-ui-improvements|New settings
+  layout and UI improvements]]'
 source_release: '[[Releases/Descript/descript-2023-08-14-64daa12066c3bf09a581dd3f-bb39e86a|descript-2023-08-14-64daa12066c3bf09a581dd3f-bb39e86a]]'
 source_type: canny_changelog
 theme: interface-experience
@@ -75,7 +75,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2023-08-10 · Descript · [[Changes/Descript/2023-08-10-app-header-improvements|App header improvements]]
+- Earlier: 2023-08-12 · Superwhisper · [[Changes/Superwhisper/2023-08-12-new-settings-layout-and-ui-improvements|New settings layout and UI improvements]]
 - Later: 2023-08-17 · Cursor · [[Changes/Cursor/2023-08-17-keychords-now-use-cmd-r-ctrl-r|Keychords now use Cmd+R/Ctrl+R]]
 <!-- chronolog:end -->
 

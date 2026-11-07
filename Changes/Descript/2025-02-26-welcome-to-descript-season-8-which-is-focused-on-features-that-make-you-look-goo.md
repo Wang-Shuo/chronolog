@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: e227e797bba87793de9e21dc9abf6ff9ad87b0acc5d5aed2d74bc15bc495a8e3
+machine_hash: 4745da6b1ba1fd753f2d84f4648e6e25ceb8ebd285acf8f1c0f0eb146130b9bf
 product: descript
 product_name: Descript
 record:
@@ -76,9 +76,10 @@ record:
     look good…
   type: change
 related_changes:
-- '[[Changes/Descript/2025-02-11-eye-contact|Eye contact]]'
 - '[[Changes/Descript/2025-02-11-improvements-to-working-with-scenes-and-layouts|Improvements
   to working with Scenes and Layouts]]'
+- '[[Changes/AnythingLLM/2025-02-18-this-is-ocr-not-vision-so-if-the-content-has-no-text-nothing-will-be-found|this
+  is OCR, not "vision" so if the content has no text - nothing will be found!]]'
 - '[[Changes/Midjourney/2025-02-20-we-ve-added-a-new-folder-and-organization-system-to-the-website-check-out-the-vi|Midjourney
   adds a new folder and organization system to the website]]'
 source_release: '[[Releases/Descript/descript-2025-02-26-67bf40cdb942379190027575-de2ca988|descript-2025-02-26-67bf40cdb942379190027575-de2ca988]]'

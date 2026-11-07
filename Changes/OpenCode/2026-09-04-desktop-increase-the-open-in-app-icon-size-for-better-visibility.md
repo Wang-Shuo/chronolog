@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a2c44480a9a485b0b69c8348101f9237dd57e32eec6352c9fd7dd97e495df6ed
+machine_hash: 3a414e0b2b119a776535e99713633a18d1effbb92120cbb9a65f3dc1f66cd239
 product: opencode
 product_name: OpenCode
 record:
@@ -41,12 +41,12 @@ record:
   title: Desktop Increase the open-in app icon size for better visibility
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-03-3-mobile-and-desktop-changes-in-v2-1-260|3 Mobile
-  and Desktop changes in v2.1.260]]'
 - '[[Changes/Codex CLI/2026-09-03-42068-https-github-com-openai-codex-pull-42068-detect-standalone-installs-from-t|♯42068((source
   link) Detect standalone installs…]]'
 - '[[Changes/OpenClaw/2026-09-03-10-mobile-and-desktop-changes-in-v2026-9-1|10 Mobile
   and Desktop changes in v2026.9.1]]'
+- '[[Changes/Superwhisper/2026-09-03-many-other-macos-27-fixes|Many other macOS 27
+  fixes]]'
 source_release: '[[Releases/OpenCode/opencode-2026-09-04-v1-18-29-830e4970|opencode-2026-09-04-v1-18-29-830e4970]]'
 source_type: opencode_changelog
 theme: mobile-desktop
@@ -78,8 +78,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-09-03 · OpenClaw · [[Changes/OpenClaw/2026-09-03-10-mobile-and-desktop-changes-in-v2026-9-1|10 Mobile and Desktop changes in v2026.9.1]]
-- Later: 2026-09-05 · OpenClaw · [[Changes/OpenClaw/2026-09-05-10-mobile-and-desktop-changes-in-v2026-9-2|10 Mobile and Desktop changes in v2026.9.2]]
+- Earlier: 2026-09-03 · Superwhisper · [[Changes/Superwhisper/2026-09-03-many-other-macos-27-fixes|Many other macOS 27 fixes]]
+- Later: 2026-09-04 · Wispr Flow · [[Changes/Wispr Flow/2026-09-04-import-your-otter-transcripts-to-notetaker-desktop|Import Your Otter Transcripts to Notetaker (Desktop)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

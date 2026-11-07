@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: cf724c9be3fd5e74b836dc93b27961f7eec36aa4eb8e4070c5e1721eeb691954
+machine_hash: 1971471050af884512d0d1a401b66bfd2a90bf8adcf65be129b6935936a1eba6
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -48,12 +48,12 @@ record:
   title: 4 Safety and Privacy changes in v1.0.92
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-10-01-keep-your-workspace-s-ai-processing-in-the-eu|Keep
-  your workspace''s AI processing in the EU]]'
-- '[[Changes/Claude Code/2026-10-02-6-safety-and-privacy-changes-in-v2-1-288|6 Safety
-  and Privacy changes in v2.1.288]]'
+- '[[Changes/Wispr Flow/2026-10-02-for-teams-enterprise-all-platforms|For Teams &
+  Enterprise: (All platforms)]]'
 - '[[Changes/Claude Code/2026-10-05-19-safety-and-privacy-changes-in-v2-1-290|19 Safety
   and Privacy changes in v2.1.290]]'
+- '[[Changes/Devin/2026-10-05-repository-access-without-devin-review-permission|Repository
+  Access Without Devin Review Permission]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-10-05-v1-0-92-github-404054639-a6ba3455|github-copilot-cli-2026-10-05-v1-0-92-github-404054639-a6ba3455]]'
 source_type: github_releases
 theme: safety-privacy
@@ -103,7 +103,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.92
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-10-05 · Claude Code · [[Changes/Claude Code/2026-10-05-19-safety-and-privacy-changes-in-v2-1-290|19 Safety and Privacy changes in v2.1.290]]
+- Earlier: 2026-10-05 · Devin · [[Changes/Devin/2026-10-05-repository-access-without-devin-review-permission|Repository Access Without Devin Review Permission]]
 - Later: 2026-10-06 · Claude Code · [[Changes/Claude Code/2026-10-06-6-safety-and-privacy-changes-in-v2-1-292|6 Safety and Privacy changes in v2.1.292]]
 <!-- chronolog:end -->
 

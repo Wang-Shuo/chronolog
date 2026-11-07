@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 2a0dd3c1110a992db64ea11e1314d8f47db90d6515ed5467f018109aa03cb3f5
+machine_hash: 6bd65b89dd878d739d79664ea14b4f7a630d66b355c4af95590e1f2821e35a33
 product: openhands
 product_name: OpenHands
 record:
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-03-11 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-11-2-model-support-changes-in-v1-0-4|2 Model Support changes in v1.0.4]]
-- Later: 2026-03-12 · Cline · [[Changes/Cline/2026-03-12-2-model-support-changes-in-v3-72-0|2 Model Support changes in v3.72.0]]
+- Later: 2026-03-11 · Raycast · [[Changes/Raycast/2026-03-11-ai-adjusted-model-list-sorting-so-newer-models-appear-first|AI : Adjusted model list sorting so newer models appear first]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

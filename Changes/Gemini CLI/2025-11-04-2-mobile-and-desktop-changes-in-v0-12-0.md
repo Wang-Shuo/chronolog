@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f97a403c630b60ec11dea8a85347d059e11da789a3950ed2ed0b8007c996edcb
+machine_hash: e308a4e75c669eb5bc1f2ae0c0dd5b0b2b5745a526fc6a45b8503b6b4cb0ffa6
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -91,7 +91,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.12.0
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2025-11-04 · Codex CLI · [[Changes/Codex CLI/2025-11-04-6124-fix-archive-conversation-on-windows-6124|♯6124 Fix "archive conversation" on Windows (♯6124)]]
-- Later: 2025-11-05 · ElevenLabs · [[Changes/ElevenLabs/2025-11-05-android-sdk|Android SDK]]
+- Later: 2025-11-04 · LM Studio · [[Changes/LM Studio/2025-11-04-update-dependencies-to-support-macos-26|Update dependencies to support macOS 26]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9e532ea9f768e74f13b3ada69f693e898dadfffbe2472e89ef78e33abab866f7
+machine_hash: 7ee0762631ce7c7e40dec5a690b002440d6de3e8d0344b521466ddd03b06a292
 product: cline
 product_name: Cline
 record:
@@ -80,7 +80,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-01-25 · OpenCode · [[Changes/OpenCode/2026-01-25-3-reliability-and-performance-changes-in-v1-1-35|3 Reliability and Performance changes in v1.1.35]]
-- Later: 2026-01-28 · OpenCode · [[Changes/OpenCode/2026-01-28-3-reliability-and-performance-changes-in-v1-1-37|3 Reliability and Performance changes in v1.1.37]]
+- Later: 2026-01-27 · Raycast · [[Changes/Raycast/2026-01-27-we-ve-collaborated-with-monkeytype-to-bring-you-a-great-typing-experience-help-y|We’ve collaborated with Monkeytype to bring you a great typing experience, help you…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

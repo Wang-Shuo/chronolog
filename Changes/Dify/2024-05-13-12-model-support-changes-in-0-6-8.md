@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: faebde3b2dc6d956959281778eca17507d90849daaa82da376907c3b49fb5d21
+machine_hash: ab7d9018699ef5c00cb03967248704429333d8f518da2c62318017f0db17a14b
 product: dify
 product_name: Dify
 record:
@@ -125,7 +125,7 @@ Source: https://github.com/langgenius/dify/releases/tag/0.6.8
 ## Nearby in Model Support
 
 - Earlier: 2024-05-13 · ChatGPT · [[Changes/ChatGPT/2024-05-13-gpt-4o-is-our-newest-flagship-model-that-provides-gpt-4-level-intelligence-that-297427|Introducing GPT-4o]]
-- Later: 2024-05-14 · Gemini · [[Changes/Gemini/2024-05-14-introducing-gemini-1-5-pro-to-gemini-advanced|Introducing Gemini 1.5 Pro to Gemini Advanced]]
+- Later: 2024-05-13 · Superwhisper · [[Changes/Superwhisper/2024-05-13-include-gpt-4o-to-models-available-for-openai|Include GPT-4o to models available for OpenAI]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

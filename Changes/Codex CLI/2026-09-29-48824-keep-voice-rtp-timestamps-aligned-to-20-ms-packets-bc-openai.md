@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a3d7cbd04a43df6f7f161387ee6077799280ca29f160ac0771459386a770a5e5
+machine_hash: 690fa1aaf4a0baa1f04308a57eb20d4a3731dac0e438af8f373d78732d220bf4
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -41,9 +41,10 @@ record:
   title: '#48824 Keep voice RTP timestamps aligned to 20 ms packets @bc-openai'
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-09-28-eleven-v4-and-eleven-v4-turbo|Eleven v4 and Eleven
-  v4 Turbo]]'
-- '[[Changes/ElevenLabs/2026-09-28-speech-to-text-d0afb0|Speech to Text]]'
+- '[[Changes/Raycast/2026-09-28-ai-chat-dictation-with-ctrl-m-in-the-ai-chat-and-quick-ai-composers-now-uses-the-d03715|AI
+  Chat : Dictation with Ctrl + M in the AI Chat and Quick AI composers now uses…]]'
+- '[[Changes/Wispr Flow/2026-09-28-scratchpad-sync-works-independently-of-dictation-storage-desktop|Scratchpad
+  sync works independently of dictation storage (Desktop)]]'
 - '[[Changes/ChatGPT/2026-09-29-audio-is-deleted-once-your-notes-are-ready-and-can-t-be-accessed-or-replayed-ava|Audio
   is deleted once your notes are ready and can’t be accessed or replayed]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-09-29-rust-v0-159-0-github-398926954-1ffcd516|codex-cli-2026-09-29-rust-v0-159-0-github-398926954-1ffcd516]]'

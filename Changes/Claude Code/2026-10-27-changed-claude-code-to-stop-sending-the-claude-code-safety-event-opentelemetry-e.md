@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9892978a356bee2b6251d7331be9a610af645d9d7bc7c0b08e7b6c5118c9b119
+machine_hash: 4b7f8c1858e3a3e6cabc6dfbde9915fa0c478e970cff68482fd317d0d6ff5af0
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,12 +43,11 @@ record:
     event
   type: change
 related_changes:
-- '[[Changes/Cline/2026-10-26-starting-or-resuming-a-cloud-sandbox-shows-a-progress-card-with-the-repo-branch|Starting
-  or resuming a cloud sandbox shows a progress card with the repo, branch…]]'
 - '[[Changes/ElevenLabs/2026-10-26-voice-cloning-permissions-members-without-the-create-instant-voice-clone-or-crea|Voice
   cloning permissions]]'
 - '[[Changes/Kimi Code/2026-10-26-merge-the-two-repeated-permission-mode-notice-lines-in-the-swarm-and-goal-start|Merge
   the two repeated permission-mode notice lines in the swarm and goal start…]]'
+- '[[Changes/Superwhisper/2026-10-26-security-fixes|Security fixes]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-27-v2-1-312-github-425846009-439d063a|claude-code-2026-10-27-v2-1-312-github-425846009-439d063a]]'
 source_type: github_releases
 theme: safety-privacy
@@ -84,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-10-26 · Kimi Code · [[Changes/Kimi Code/2026-10-26-merge-the-two-repeated-permission-mode-notice-lines-in-the-swarm-and-goal-start|Merge the two repeated permission-mode notice lines in the swarm and goal start…]]
+- Earlier: 2026-10-26 · Superwhisper · [[Changes/Superwhisper/2026-10-26-security-fixes|Security fixes]]
 - Later: 2026-10-27 · Codex CLI · [[Changes/Codex CLI/2026-10-27-3-safety-and-privacy-changes-in-rust-v0-165-0|3 Safety and Privacy changes in rust-v0.165.0]]
 <!-- chronolog:end -->
 

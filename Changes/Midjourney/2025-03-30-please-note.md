@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 30d5b8ecaae533a3a02d9330e42d35e147cd4cbcfa6bd4c022ea85bdb47ccb71
+machine_hash: b48a534691c86185e8498d4579838758091a5cf9966d0a182d1b067286c5a87d
 product: midjourney
 product_name: Midjourney
 record:
@@ -49,12 +49,12 @@ record:
   title: Please Note
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-03-27-early-testers-say-that-the-model-seems-to-better-understand-the-implied-intent-b|“Fuzzy”
-  improvements]]'
 - '[[Changes/ChatGPT/2025-03-27-gpt-4o-has-further-improved-its-capability-to-tackle-complex-technical-and-codin|Smarter
   problem-solving in STEM and coding]]'
 - '[[Changes/ChatGPT/2025-03-27-gpt-4o-is-now-more-adept-at-following-detailed-instructions-especially-for-promp|Enhanced
   instruction-following and formatting accuracy]]'
+- '[[Changes/LM Studio/2025-03-27-7-model-support-changes-in-lm-studio-0-3-14|7 Model
+  Support changes in LM Studio 0.3.14]]'
 source_release: '[[Releases/Midjourney/midjourney-2025-03-30-https-updates-midjourney-com-v7-rating-party-round-2-1511095b|midjourney-2025-03-30-https-updates-midjourney-com-v7-rating-party-round-2-1511095b]]'
 source_type: midjourney_changelog
 theme: model-support
@@ -85,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-03-27 · ChatGPT · [[Changes/ChatGPT/2025-03-27-gpt-4o-is-now-more-adept-at-following-detailed-instructions-especially-for-promp|Enhanced instruction-following and formatting accuracy]]
+- Earlier: 2025-03-27 · LM Studio · [[Changes/LM Studio/2025-03-27-7-model-support-changes-in-lm-studio-0-3-14|7 Model Support changes in LM Studio 0.3.14]]
 - Later: 2025-03-31 · Aider · [[Changes/Aider/2025-03-31-3-model-support-changes-in-v0-80-0|3 Model Support changes in v0.80.0]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8cf3758c8f40719c652c56c18c226075fd937627109c4c82d6fb3af97654eda2
+machine_hash: a0e54ffbc5043b6db61f6cc3770b18646d5d31900a713312365504392f66a716
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -165,7 +165,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.1.15
 ## Nearby in Apps and Integrations
 
 - Earlier: 2025-07-29 · Cursor · [[Changes/Cursor/2025-07-29-extension-marketplace-supports-custom-urls|Extension marketplace supports custom URLs]]
-- Later: 2025-07-31 · Cline · [[Changes/Cline/2025-07-31-2-apps-and-integrations-changes-in-v3-20-3|2 Apps and Integrations changes in v3.20.3]]
+- Later: 2025-07-30 · Raycast · [[Changes/Raycast/2025-07-30-2-apps-and-integrations-changes-in-raycast-macos-v1-1-102-0|2 Apps and Integrations changes in Raycast macos-v1 1.102.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 76fdfb0e905d97b7dbe1c748add902de45eea9fbdbf8c1e4cf1add47c06e513d
+machine_hash: a99c71aae118024069574c8d9fe91891ea387f8db548fcc667af4e74f473c572
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,8 +45,7 @@ record:
   title: 2 Apps and Integrations changes in v2.1.133
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-06-3-apps-and-integrations-changes-in-v2-1-129|3
-  Apps and Integrations changes in v2.1.129]]'
+- '[[Changes/Devin/2026-05-06-slack-tool-use-in-worklog|Slack Tool Use in Worklog]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-06-mcp-server-child-processes-e-g-started-via-npx-or-uvx-are-now-fully-terminated-w|MCP
   server child processes (e.g. started via npx or uvx) are now fully terminated…]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-06-2-apps-and-integrations-changes-in-v1-0-42|2

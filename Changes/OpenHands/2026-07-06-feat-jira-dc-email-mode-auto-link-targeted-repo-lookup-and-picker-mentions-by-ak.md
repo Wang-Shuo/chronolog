@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1656ea1e5248df899bc235d739ea7a89b85501af7f70e54662fd23511d9be624
+machine_hash: 925e17c13624198d7025f40e621282068bc7657812194d5066c119fe92d47b04
 product: openhands
 product_name: OpenHands
 record:
@@ -42,10 +42,10 @@ record:
   title: 'feat(jira-dc): email-mode auto-link, targeted repo lookup, and picker mentions'
   type: change
 related_changes:
-- '[[Changes/Kimi Code/2026-07-02-let-the-web-sidebar-collapse-an-expanded-workspace-session-list-back-to-its-firs|Let
-  the web sidebar collapse an expanded workspace session list back to its first page]]'
-- '[[Changes/Claude Code/2026-07-03-changed-askuserquestion-dialogs-to-no-longer-auto-continue-by-default-opt-into-a|Changed
-  AskUserQuestion dialogs to no longer auto-continue by default]]'
+- '[[Changes/Raycast/2026-07-03-ui-aligned-date-picker-icon-indicator-treatment-with-other-selects|UI
+  : Aligned date picker icon/indicator treatment with other selects]]'
+- '[[Changes/Raycast/2026-07-03-ui-aligned-date-picker-icon-indicator-treatment-with-other-selects-cf97f3|UI
+  : Aligned date picker icon/indicator treatment with other selects]]'
 - '[[Changes/Kimi Code/2026-07-04-revert-the-recent-tui-transcript-rendering-changes-to-the-original-upstream-beha|Revert
   the recent TUI transcript rendering changes to the original upstream behavior…]]'
 source_release: '[[Releases/OpenHands/openhands-2026-07-06-1-9-0-github-349633843-8010776a|openhands-2026-07-06-1-9-0-github-349633843-8010776a]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b044783977f8dad2ef10bf3f8c5443a12073979f0fe636ce607fe9e8c20ec53b
+machine_hash: d1044ad0f6050197df2ca6523f4fe0fb85511ec5f662741646913c1303279f0c
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
     npm…
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-01-09-2-interface-experience-changes-in-v1-1-8|2 Interface
-  Experience changes in v1.1.8]]'
 - '[[Changes/OpenCode/2026-01-12-3-interface-experience-changes-in-v1-1-14|3 Interface
   Experience changes in v1.1.14]]'
 - '[[Changes/OpenCode/2026-01-12-terminal-fix-autocomplete-reopening-after-backspace-deletes-space-in-terminal-ui|Terminal
   Fix autocomplete reopening after backspace deletes space in terminal UI]]'
+- '[[Changes/Raycast/2026-01-12-ai-quickly-jump-to-questions-in-the-chat-from-the-title-menu|AI:
+  Quickly jump to questions in the chat from the title menu]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-13-v2-1-6-github-276206295-e2719d9a|claude-code-2026-01-13-v2-1-6-github-276206295-e2719d9a]]'
 source_type: github_releases
 theme: interface-experience
@@ -86,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-01-12 · OpenCode · [[Changes/OpenCode/2026-01-12-terminal-fix-autocomplete-reopening-after-backspace-deletes-space-in-terminal-ui|Terminal Fix autocomplete reopening after backspace deletes space in terminal UI]]
+- Earlier: 2026-01-12 · Raycast · [[Changes/Raycast/2026-01-12-ai-quickly-jump-to-questions-in-the-chat-from-the-title-menu|AI: Quickly jump to questions in the chat from the title menu]]
 - Later: 2026-01-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-13-shell-mode-history-navigation-now-filters-by-prefix-typing-git-and-pressing-up-a|Shell mode history navigation now filters by prefix - typing !git and pressing up…]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c57770aeef723f2d8ea4d8f6d7ec142fec5ea8a882c26b2bac63280ccd015433
+machine_hash: f8bcad3d8ddef096711e0071a4e69ba42605c90bca5b906bd882ce355a7b7749
 product: ollama
 product_name: Ollama
 record:
@@ -45,8 +45,8 @@ record:
   title: The directory in which models are stored can now be modified!
   type: change
 related_changes:
-- '[[Changes/Dify/2025-06-25-2-model-support-changes-in-1-5-0|2 Model Support changes
-  in 1.5.0]]'
+- '[[Changes/LM Studio/2025-06-25-2-model-support-changes-in-lm-studio-0-3-17|2 Model
+  Support changes in LM Studio 0.3.17]]'
 - '[[Changes/Cline/2025-06-26-3-model-support-changes-in-v3-18-0|3 Model Support changes
   in v3.18.0]]'
 - '[[Changes/Aider/2025-06-27-5-model-support-changes-in-v0-85-0|5 Model Support changes

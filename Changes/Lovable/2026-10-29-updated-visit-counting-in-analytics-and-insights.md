@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 518e61f4d47f8cdbf748936bd1bdaf2d5c7b4ad9a5aedb59588ff074259858ca
+machine_hash: 0d67d7fddc7c0c8c33d052f6d42b8f83e45e7a380d3263f7a30c2b6982b6dde4
 product: lovable
 product_name: Lovable
 record:
@@ -55,8 +55,8 @@ record:
   title: Updated visit counting in Analytics and Insights
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-10-27-5-editor-experience-changes-in-v2-2-0|5 Editor Experience
-  changes in v2.2.0]]'
+- '[[Changes/Superwhisper/2026-10-28-modes-tab-renamed-to-transcribe|Modes tab renamed
+  to Transcribe]]'
 - '[[Changes/Windsurf/2026-10-28-in-devin-local-some-tool-requests-such-as-web-fetches-and-multi-file-edits-now-c|In
   Devin Local, some tool requests, such as web fetches and multi-file edits, now…]]'
 - '[[Changes/Codex CLI/2026-10-29-3-editor-experience-changes-in-rust-v0-166-0|3 Editor

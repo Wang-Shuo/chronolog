@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 07b9ff5cfa7706e4e90b7862a4f6251cb270190c2110bcb9b429a8ad8fa610c9
+machine_hash: e38331e4821ae117cc835010ce3a218998ec4351a9c9ce4182d9b7c8f3785ba8
 product: open-webui
 product_name: Open WebUI
 record:
@@ -339,12 +339,12 @@ record:
   title: 49 Model Support changes in v0.12.0
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-10-08-4-model-support-changes-in-v2026-9-9|4 Model Support
-  changes in v2026.9.9]]'
-- '[[Changes/OpenHands/2026-10-08-test-e2e-launch-the-same-model-profile-test-from-the-beta-profile-by-enyst-in-ht|test(e2e):
-  launch the same-model profile test from the BETA profile]]'
 - '[[Changes/Claude Code/2026-10-09-claude-tag-changed-claude-in-slack-to-show-the-footer-with-the-session-link-mode|Claude
   Tag Changed Claude in Slack to show the footer with the session link, model…]]'
+- '[[Changes/Raycast/2026-10-09-2-model-support-changes-in-raycast-windows-2-7|2 Model
+  Support changes in Raycast windows 2.7]]'
+- '[[Changes/Raycast/2026-10-09-2-model-support-changes-in-raycast-macos-2-7|2 Model
+  Support changes in Raycast macos 2.7]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-10-10-v0-12-0-github-409209575-f076e92b|open-webui-2026-10-10-v0-12-0-github-409209575-f076e92b]]'
 source_type: github_releases
 theme: model-support
@@ -489,7 +489,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.12.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-10-09 · Claude Code · [[Changes/Claude Code/2026-10-09-claude-tag-changed-claude-in-slack-to-show-the-footer-with-the-session-link-mode|Claude Tag Changed Claude in Slack to show the footer with the session link, model…]]
+- Earlier: 2026-10-09 · Raycast · [[Changes/Raycast/2026-10-09-2-model-support-changes-in-raycast-macos-2-7|2 Model Support changes in Raycast macos 2.7]]
 - Later: 2026-10-10 · OpenClaw · [[Changes/OpenClaw/2026-10-10-18-model-support-changes-in-v2026-10-1|18 Model Support changes in v2026.10.1]]
 <!-- chronolog:end -->
 

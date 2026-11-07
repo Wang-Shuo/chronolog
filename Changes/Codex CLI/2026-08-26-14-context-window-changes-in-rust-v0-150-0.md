@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 56e08964d2c54e82cce886a672a39c83c7d2a51c3dbfceff727fdc189a4a1db0
+machine_hash: 4dab0c78cf2a021cf24e095d06effc49f5bc96159b5375a47ec03aee35d5ffb6
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -66,10 +66,10 @@ record:
   title: 14 Context Window changes in rust-v0.150.0
   type: change
 related_changes:
-- '[[Changes/Microsoft 365 Copilot/2026-08-25-outlook-emails-in-copilot-notebooks-windows-web-microsoft-365-copilot|Outlook
-  Emails in Copilot Notebooks Windows, Web (Microsoft 365 Copilot)]]'
-- '[[Changes/Open WebUI/2026-08-25-4-context-window-changes-in-v0-11-1|4 Context Window
-  changes in v0.11.1]]'
+- '[[Changes/Raycast/2026-08-25-ai-improved-ocr-for-pdfs-when-retrieving-relevant-context-for-ai-conversations|AI
+  : Improved OCR for PDFs when retrieving relevant context for AI conversations]]'
+- '[[Changes/Raycast/2026-08-25-ai-improved-ocr-for-pdfs-when-retrieving-relevant-context-for-ai-conversations-c727b1|AI
+  : Improved OCR for PDFs when retrieving relevant context for AI conversations]]'
 - '[[Changes/Claude Code/2026-08-26-changed-sonnet-5-s-default-auto-compact-window-to-its-full-1m-context-so-session|Changed
   Sonnet 5''s default auto-compact window to its full 1M context, so sessions…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-08-26-rust-v0-150-0-github-377374683-d950f84c|codex-cli-2026-08-26-rust-v0-150-0-github-377374683-d950f84c]]'
@@ -142,7 +142,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.150.0
 ## Nearby in Context Window
 
 - Earlier: 2026-08-26 · Claude Code · [[Changes/Claude Code/2026-08-26-changed-sonnet-5-s-default-auto-compact-window-to-its-full-1m-context-so-session|Changed Sonnet 5's default auto-compact window to its full 1M context, so sessions…]]
-- Later: 2026-08-27 · Claude Code · [[Changes/Claude Code/2026-08-27-improved-the-workflow-tool-s-prompt-footprint-its-description-is-now-about-1k-to|Improved the Workflow tool's prompt footprint]]
+- Later: 2026-08-27 · AnythingLLM · [[Changes/AnythingLLM/2026-08-27-3-context-window-changes-in-v1-16-1|3 Context Window changes in v1.16.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

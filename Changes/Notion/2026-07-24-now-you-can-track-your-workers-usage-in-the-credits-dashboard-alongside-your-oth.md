@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: d01d5bb013b3eab13a5e42a4d8608fc3e3c616a3e7ee61e3b6944b7d50cb9cd0
+machine_hash: 04a6d27630acc162fe84c4712556291babf8b97e6ed85170e71dc62e3119668d
 product: notion
 product_name: Notion
 record:

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 610ed7f2c83e8d92c57c58bdb82547b1ba8cb1d622f40956fa908f7e700229a3
+machine_hash: 4066c3cd94fe1f60ca458bcaa9ece24700938bdf0a4f57b9d2754ba6cdf7b6a9
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,10 @@ record:
   title: Improved focus mode
   type: change
 related_changes:
-- '[[Changes/Notion/2026-04-08-keep-your-notifications-clean-by-muting-replies-to-discussions-you-no-longer-fin|Mute
-  discussion replies]]'
 - '[[Changes/OpenCode/2026-04-08-terminal-added-a-keybinding-option-for-switch-model-variant|Terminal
   Added a keybinding option for "Switch model variant"]]'
+- '[[Changes/Superwhisper/2026-04-08-added-help-menu-with-quick-links-to-documentation-and-support|Added
+  Help menu with quick links to documentation and support]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-09-slash-command-picker-appears-above-the-text-input-for-a-more-stable-layout|Slash
   command picker appears above the text input for a more stable layout]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-10-v2-1-101-github-307692858-ffcdf642|claude-code-2026-04-10-v2-1-101-github-307692858-ffcdf642]]'

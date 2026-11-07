@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 323ae91b9c8464acb9e6d3fc00595ae5ad01b14aa0e86ead29d1517c474b66b6
+machine_hash: ffaf299adcca0ebd1fbf7e7e53af5a114c7f391c2e3f926ea137af20b134981f
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -48,10 +48,10 @@ record:
   title: 3 Account and Access changes in v1.0.100
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-10-16-2-account-and-access-changes-in-v0-12-3|2 Account
-  and Access changes in v0.12.3]]'
-- '[[Changes/OpenClaw/2026-10-16-5-account-and-access-changes-in-v2026-10-4|5 Account
-  and Access changes in v2026.10.4]]'
+- '[[Changes/Raycast/2026-10-16-custom-providers-numeric-provider-api-keys-are-now-kept-exactly-as-written-and-a|Custom
+  Providers : Numeric provider API keys are now kept exactly as written…]]'
+- '[[Changes/Raycast/2026-10-16-custom-providers-numeric-provider-api-keys-are-now-kept-exactly-as-written-and-a-5895a4|Custom
+  Providers : Numeric provider API keys are now kept exactly as written…]]'
 - '[[Changes/OpenClaw/2026-10-18-the-dashboard-handles-reconnects-and-long-chat-histories-with-fewer-interruption|The
   Dashboard handles reconnects and long chat histories with fewer interruptions…]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-10-19-v1-0-100-github-417622960-9e2e7578|github-copilot-cli-2026-10-19-v1-0-100-github-417622960-9e2e7578]]'

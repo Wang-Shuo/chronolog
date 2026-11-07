@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0c98807439b6eb33ab0604ae6e157fa0644bd185b5e67f95681eff6fe34784e6
+machine_hash: 752d90f4493efa10315896391010dcb7bb382a3b52fc4036e1ec409ab7444a22
 product: dify
 product_name: Dify
 record:
@@ -44,10 +44,10 @@ record:
   title: 2 Developer Workflow changes in 1.5.0
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-06-20-2-developer-workflow-changes-in-0-44-0|2 Developer
-  Workflow changes in 0.44.0]]'
 - '[[Changes/OpenHands/2025-06-20-example-code-review-microagent-by-jpelletier1-in-https-github-com-all-hands-ai-o|Example
   code review microagent]]'
+- '[[Changes/Raycast/2025-06-20-2-developer-workflow-changes-in-raycast-windows-0-24|2
+  Developer Workflow changes in Raycast windows 0.24]]'
 - '[[Changes/OpenHands/2025-06-24-introduced-optional-vi-style-keybindings-for-confirmation-prompts-navigating-men|Introduced
   optional vi-style keybindings for confirmation prompts navigating menus…]]'
 source_release: '[[Releases/Dify/dify-2025-06-25-1-5-0-github-227620290-133307f4|dify-2025-06-25-1-5-0-github-227620290-133307f4]]'
@@ -90,7 +90,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.5.0
 ## Nearby in Developer Workflow
 
 - Earlier: 2025-06-24 · OpenHands · [[Changes/OpenHands/2025-06-24-introduced-optional-vi-style-keybindings-for-confirmation-prompts-navigating-men|Introduced optional vi-style keybindings for confirmation prompts navigating menus…]]
-- Later: 2025-06-27 · Aider · [[Changes/Aider/2025-06-27-3-developer-workflow-changes-in-v0-85-0|3 Developer Workflow changes in v0.85.0]]
+- Later: 2025-06-25 · LM Studio · [[Changes/LM Studio/2025-06-25-added-stats-command-to-lms-chat-command-to-show-prediction-statistics-thanks-yor|Added --stats command to lms chat command to show prediction statistics…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

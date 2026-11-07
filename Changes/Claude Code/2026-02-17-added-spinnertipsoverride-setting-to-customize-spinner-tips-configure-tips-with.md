@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f94317a2675417b7d1c7e4fe47ef3cba429e80c69c6b22f2cff9d2c108b659ec
+machine_hash: 58afbdd03222d16846438371e09df200fb40fadd4e4e51f354c229ebede44b56
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,8 +47,7 @@ record:
   title: Added `spinnerTipsOverride` setting to customize spinner tips
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-13-improved-narrow-terminal-layout-for-prompt-footer|Improved
-  narrow terminal layout for prompt footer]]'
+- '[[Changes/Devin/2026-02-13-settings-search|Settings Search]]'
 - '[[Changes/Open WebUI/2026-02-14-2-interface-experience-changes-in-v0-8-1|2 Interface
   Experience changes in v0.8.1]]'
 - '[[Changes/Open WebUI/2026-02-16-strikethrough-shortcut-conflict-fix-pressing-ctrl-shift-s-to-toggle-the-sidebar|⌨️

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f81445fb8f47baed3384c6974eb6b19cd75e10c18dbe1f8ad74bfc704273e45e
+machine_hash: d267654c77d0a362807c53746bd882e7e6551ae561c59ffe65cbc202f775d719
 product: cline
 product_name: Cline
 record:
@@ -40,8 +40,8 @@ record:
   title: Updated Baseten provider to fetch models from server
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-09-15-16-model-support-changes-in-rust-v0-36-0|16 Model
-  Support changes in rust-v0.36.0]]'
+- '[[Changes/LM Studio/2025-09-15-2-model-support-changes-in-lm-studio-0-3-26|2 Model
+  Support changes in LM Studio 0.3.26]]'
 - '[[Changes/ChatGPT/2025-09-16-factuality-fewer-hallucinations-improving-answer-quality|Factuality:
   Fewer hallucinations, improving answer quality]]'
 - '[[Changes/ChatGPT/2025-09-17-5-model-support-changes-in-toggle-thinking-time-in-the-message|5

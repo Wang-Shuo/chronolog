@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 55c1ab8f24f3d8f15cd05b1469a020e0434aafa86e9bcccb0d6f19ef618c9dca
+machine_hash: 1e61cc1e15969e6729ef0b4fb6006eb75f3b360e36ab720a1d53a0c8618866bc
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -46,8 +46,8 @@ record:
     call" note…
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-09-17-test-isolate-mock-llm-profiles-from-ambient-secrets-by-neubig-in-https-github-co|test:
-  isolate Mock-LLM profiles from ambient secrets]]'
+- '[[Changes/Wispr Flow/2026-09-17-meet-canto-our-first-speech-model-all-platforms|Meet
+  Canto, our first speech model (All platforms)]]'
 - '[[Changes/Claude Code/2026-09-18-changed-fable-to-always-appear-in-model-on-the-anthropic-api-it-is-greyed-out-on|Changed
   Fable to always appear in /model on the Anthropic API]]'
 - '[[Changes/Codex CLI/2026-09-18-2-model-support-changes-in-rust-v0-155-1|2 Model

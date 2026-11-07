@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 02ced62dc65137b2e0c4d6df4a739ac3f80946b6aad1f48c19588de232874c9a
+machine_hash: 23e654f0984aa93e51d676fcf27e95d53057eff5e9dadc5ce836963262121f8f
 product: microsoft-365-copilot
 product_name: Microsoft 365 Copilot
 record:
@@ -54,10 +54,9 @@ record:
     Insights)'
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-06-30-7-editor-experience-changes-in-v2026-6-11|7 Editor
-  Experience changes in v2026.6.11]]'
-- '[[Changes/OpenCode/2026-06-30-desktop-autocomplete-configured-references-in-prompts|Desktop
-  Autocomplete configured references in prompts]]'
+- '[[Changes/Devin/2026-07-01-pr-link-preference|PR-Link Preference]]'
+- '[[Changes/Devin/2026-07-01-usage-analytics-pr-ratio-chart|Usage Analytics: PR Ratio
+  Chart]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-01-2-editor-experience-changes-in-v1-0-68|2
   Editor Experience changes in v1.0.68]]'
 source_release: '[[Releases/Microsoft 365 Copilot/microsoft-365-copilot-2026-07-01-2026-07-01-070e4e1f|microsoft-365-copilot-2026-07-01-2026-07-01-070e4e1f]]'

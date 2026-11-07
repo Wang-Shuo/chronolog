@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: f8ab4d47c4bced590832416e94d503e6f3eeb4475f0338610e1b2be7d8df0c33
+machine_hash: 3be457d513990acefd33c6a82031307f65c07f72d2aa444eba2a5e438007c174
 product: gamma
 product_name: Gamma
 record:
@@ -74,10 +74,10 @@ record:
   title: Introducing Gamma 5
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-10-25-5-apps-and-integrations-changes-in-v0-12-4|5 Apps
-  and Integrations changes in v0.12.4]]'
 - '[[Changes/Claude Code/2026-10-26-3-apps-and-integrations-changes-in-v2-1-311|3
   Apps and Integrations changes in v2.1.311]]'
+- '[[Changes/Devin/2026-10-26-edited-slack-messages-are-marked|Edited Slack Messages
+  Are Marked]]'
 - '[[Changes/ElevenLabs/2026-10-26-2-apps-and-integrations-changes-in-elevenlabs-updates-2026-10-26|2
   Apps and Integrations changes in ElevenLabs updates — 2026-10-26]]'
 source_release: '[[Releases/Gamma/gamma-2026-10-26-6adfa60dfb9f73d63d1f52fd-593d6949|gamma-2026-10-26-6adfa60dfb9f73d63d1f52fd-593d6949]]'
@@ -111,7 +111,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-10-26 · ElevenLabs · [[Changes/ElevenLabs/2026-10-26-2-apps-and-integrations-changes-in-elevenlabs-updates-2026-10-26|2 Apps and Integrations changes in ElevenLabs updates — 2026-10-26]]
-- Later: 2026-10-26 · Lovable · [[Changes/Lovable/2026-10-26-redesigned-connector-pages|Redesigned connector pages]]
+- Later: 2026-10-26 · Krea · [[Changes/Krea/2026-10-26-mcp-can-switch-workspaces-and-find-nodes|MCP can switch workspaces and find Nodes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

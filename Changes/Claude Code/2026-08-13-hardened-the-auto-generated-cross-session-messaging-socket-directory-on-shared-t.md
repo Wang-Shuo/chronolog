@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6865136531a206093847d096e874f8498196108e4d2a25999d33ed81236f3d22
+machine_hash: c2a562fe49f0a479f40d1516b8815740238906e78a20b2a8a76e0643a55b7eb8
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,10 +48,10 @@ record:
     `/tmp`
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-08-07-10-collaboration-changes-in-rust-v0-147-0|10 Collaboration
-  changes in rust-v0.147.0]]'
 - '[[Changes/HeyGen/2026-08-07-admins-can-choose-whether-new-avatars-are-public-or-private-by-default-when-avat|Admins
   can choose whether new avatars are public or private by default]]'
+- '[[Changes/Superwhisper/2026-08-10-all-time-stats-view-with-x-share-card|All-time
+  stats view with X share card]]'
 - '[[Changes/ChatGPT/2026-08-13-the-initial-experience-includes-my-drive-and-files-and-folders-shared-directly-w|The
   initial experience includes My Drive and files and folders shared directly with
   you]]'

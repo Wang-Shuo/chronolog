@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 103a0ff1892ad146184165ea16455fc74095a417845fd6d25e93932a4fac81d6
+machine_hash: 1baa20f9113b85b21ac1123dc4b864f594d04a61766c8e14db289ba466a6627c
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Memory and Personalization
 
 - Earlier: 2026-10-27 · OpenCode · [[Changes/OpenCode/2026-10-27-8-memory-and-personalization-changes-in-v2-2-0|8 Memory and Personalization changes in v2.2.0]]
-- Later: 2026-10-29 · Codex CLI · [[Changes/Codex CLI/2026-10-29-2-memory-and-personalization-changes-in-rust-v0-166-0|2 Memory and Personalization changes in rust-v0.166.0]]
+- Later: 2026-10-28 · Raycast · [[Changes/Raycast/2026-10-28-ai-chat-long-chats-now-open-scroll-and-stream-replies-faster-while-using-less-me|AI Chat : Long chats now open, scroll, and stream replies faster while using less memory]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

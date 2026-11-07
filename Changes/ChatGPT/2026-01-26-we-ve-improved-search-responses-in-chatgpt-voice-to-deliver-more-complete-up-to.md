@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7ef46e8452ef2bb7b335b665df8d1c0c4a3933d05da9ad0af34d63c15158cf15
+machine_hash: a4f5519fb8de2cc11cf76c3d50f9075ec5b0d2f07a26d119045649617b4e2ef0
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -44,10 +44,9 @@ record:
   title: Improvements to search response quality in Voice
   type: change
 related_changes:
-- '[[Changes/HeyGen/2026-01-20-voice-delivery-controls-access-voice-director-voice-mirroring-and-enhance-voice|Voice
-  delivery controls]]'
-- '[[Changes/Replit/2026-01-23-audio-support-in-ai-integrations|Audio support in AI
-  integrations]]'
+- '[[Changes/Superwhisper/2026-01-23-new-parakeet-realtime|New Parakeet Realtime]]'
+- '[[Changes/Superwhisper/2026-01-23-system-audio-and-meeting-mode-can-now-be-configured-from-organization-settings|System
+  audio and meeting mode can now be configured from organization settings]]'
 - '[[Changes/OpenCode/2026-01-25-desktop-add-state-to-pause-existing-audio-for-demo-menus-and-add-support-for-aud|Desktop
   Add state to pause existing audio for demo menus and add support for audio…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-01-26-improvements-to-search-response-quality-in-voice-f8293292|chatgpt-2026-01-26-improvements-to-search-response-quality-in-voice-f8293292]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: bbd1e743be27aa078ce70c786c7b2bb276a6ddcbd09f959c2eae7c53671b8fbf
+machine_hash: d7bf8a0b698caf3b217d63e7bd209dbbfcbd5bb195dd2c0a21ddfda4e1316bc8
 product: descript
 product_name: Descript
 record:
@@ -47,12 +47,12 @@ record:
   title: Blazing fast publishing
   type: change
 related_changes:
-- '[[Changes/Descript/2021-09-03-improved-speed-of-uploaded-files-to-descript-servers|Improved
-  speed of uploaded files to Descript servers]]'
-- "[[Changes/Notion/2021-09-08-pages-load-faster-on-android|Pages load faster on Android
-  \U0001F4C8]]"
-- '[[Changes/Notion/2021-09-21-pages-with-large-images-now-load-faster-on-mobile|Pages
-  with large images now load faster on mobile]]'
+- '[[Changes/Raycast/2021-09-23-new-applications-now-appear-faster-in-the-root-search|New
+  applications now appear faster in the root search]]'
+- '[[Changes/Raycast/2021-11-30-improved-actionpanel-updating-performance|Improved
+  ActionPanel updating performance]]'
+- '[[Changes/Raycast/2022-01-12-performance-significantly-increased-startup-speed-for-those-with-links-on-the-ap|Performance:
+  Significantly increased startup speed for those with links…]]'
 source_release: '[[Releases/Descript/descript-2022-01-26-6390c9e04a4a0d64fa56499c-ee4e1bb1|descript-2022-01-26-6390c9e04a4a0d64fa56499c-ee4e1bb1]]'
 source_type: canny_changelog
 theme: reliability-performance
@@ -84,8 +84,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2021-09-21 · Notion · [[Changes/Notion/2021-09-21-pages-with-large-images-now-load-faster-on-mobile|Pages with large images now load faster on mobile]]
-- Later: 2022-03-15 · Notion · [[Changes/Notion/2022-03-15-deeply-nested-sub-pages-load-50-faster|Deeply nested sub-pages load 50% faster]]
+- Earlier: 2022-01-12 · Raycast · [[Changes/Raycast/2022-01-12-performance-significantly-increased-startup-speed-for-those-with-links-on-the-ap|Performance: Significantly increased startup speed for those with links…]]
+- Later: 2022-02-23 · Raycast · [[Changes/Raycast/2022-02-23-store-extensions-now-load-faster-when-you-scroll|Store: Extensions now load faster when you scroll]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d15a0c1c113bf86e0510645b6be3a42ae69de1d962e940e096f3581c1b7ec966
+machine_hash: 2f4a1f4d0a51a411b758ce162ec59d6d08a93857d5d11093a0cdcf20cf9c5e65
 product: ollama
 product_name: Ollama
 record:
@@ -89,7 +89,7 @@ Source: https://github.com/ollama/ollama/releases/tag/v0.1.9
 ## Nearby in Model Support
 
 - Earlier: 2023-11-10 · Cursor · [[Changes/Cursor/2023-11-10-new-models-you-can-plug-in-your-api-key-to-try-out-the-newest-gpt-4-and-gpt-3-tu|New models: you can plug in your API key to try out the newest gpt-4 and gpt-3 turbo…]]
-- Later: 2023-11-13 · Dify · [[Changes/Dify/2023-11-13-2-model-support-changes-in-0-3-30|2 Model Support changes in 0.3.30]]
+- Later: 2023-11-11 · Superwhisper · [[Changes/Superwhisper/2023-11-11-2-model-support-changes-in-superwhisper-macos-1-16-4|2 Model Support changes in Superwhisper macOS 1.16.4]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

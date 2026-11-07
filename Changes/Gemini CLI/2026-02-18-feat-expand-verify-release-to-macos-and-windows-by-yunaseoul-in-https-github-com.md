@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 590cb5f97cf2ac1e829002ff6196080f4e7f6b34e1c7b02c28159448145b2988
+machine_hash: 9f324b16ad6752c401ac0fb07bb2a85470044d001986ff9db461f5dcfc844923
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -41,10 +41,10 @@ record:
   title: 'feat: expand verify-release to macOS and Windows'
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-02-16-2-mobile-and-desktop-changes-in-v1-2-6|2 Mobile and
-  Desktop changes in v1.2.6]]'
 - '[[Changes/Codex CLI/2026-02-17-2-mobile-and-desktop-changes-in-rust-v0-102-0|2
   Mobile and Desktop changes in rust-v0.102.0]]'
+- '[[Changes/AnythingLLM/2026-02-18-this-is-a-free-desktop-specific-feature| this
+  is a free & desktop specific feature!]]'
 - '[[Changes/Cursor/2026-02-18-2-mobile-and-desktop-changes-in-cli-improvements-and-mermaid-ascii|2
   Mobile and Desktop changes in CLI Improvements and Mermaid ASCII…]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-02-18-v0-29-0-github-287470100-0bac8990|gemini-cli-2026-02-18-v0-29-0-github-287470100-0bac8990]]'

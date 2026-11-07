@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 41fc2a1f4b5469ee8163a3ba22fceb082836820ca789c46f8659dced050baff1
+machine_hash: 9283a33cbcacb13a3ee68943d969205ade7832f994354d380ca2b1e9f55aad8d
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,10 +44,10 @@ record:
   title: Added `/rate-limit-options` to `/help` and the command menu for claude.ai…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-25-2-interface-experience-changes-in-v2-1-283|2 Interface
-  Experience changes in v2.1.283]]'
-- '[[Changes/Codex CLI/2026-09-25-9-interface-experience-changes-in-rust-v0-157-0|9
-  Interface Experience changes in rust-v0.157.0]]'
+- '[[Changes/Devin/2026-09-25-sidebar-status-groups-working-ready-blocked-inactive|Sidebar
+  Status Groups: Working / Ready / Blocked / Inactive]]'
+- '[[Changes/Devin/2026-09-25-view-preferences-follow-you-across-devices|View Preferences
+  Follow You Across Devices]]'
 - '[[Changes/Claude Code/2026-09-28-added-effortslider-decreaseeffort-increaseeffort-and-toggleultracode-keybinding|Added
   effortSlider:decreaseEffort, increaseEffort and toggleUltracode…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-28-v2-1-284-github-398457074-cbb49e49|claude-code-2026-09-28-v2-1-284-github-398457074-cbb49e49]]'
@@ -92,7 +92,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-09-25 · Codex CLI · [[Changes/Codex CLI/2026-09-25-9-interface-experience-changes-in-rust-v0-157-0|9 Interface Experience changes in rust-v0.157.0]]
+- Earlier: 2026-09-25 · Devin · [[Changes/Devin/2026-09-25-view-preferences-follow-you-across-devices|View Preferences Follow You Across Devices]]
 - Later: 2026-09-28 · Codex CLI · [[Changes/Codex CLI/2026-09-28-6-interface-experience-changes-in-rust-v0-158-0|6 Interface Experience changes in rust-v0.158.0]]
 <!-- chronolog:end -->
 

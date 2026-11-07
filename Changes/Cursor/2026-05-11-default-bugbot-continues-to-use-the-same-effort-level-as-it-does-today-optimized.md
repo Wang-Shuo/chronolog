@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1a353a85d8f13c0e66c12e1405c530092b77f796eb4453b0d68dda5947a649fb
+machine_hash: bf0e333b663509717698e85ee0995d67b8d8f0e7ad3c8764538073e43f18583d
 product: cursor
 product_name: Cursor
 record:
@@ -42,8 +42,8 @@ record:
   title: 'Default: Bugbot continues to use the same effort level as it does today'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-08-faster-user-list-and-user-switch-for-multi-account-users|Faster
-  /user list and /user switch for multi-account users]]'
+- '[[Changes/Raycast/2026-05-08-core-improved-overall-stability-with-hardening-against-third-party-hooks|Core
+  : Improved overall stability with hardening against third-party hooks]]'
 - '[[Changes/Open WebUI/2026-05-09-4-reliability-and-performance-changes-in-v0-9-3|4
   Reliability and Performance changes in v0.9.3]]'
 - '[[Changes/Claude Code/2026-05-11-added-scroll-speed-command-to-tune-mouse-wheel-scroll-speed-with-a-live-preview|Added

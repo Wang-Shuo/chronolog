@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 28686d534fb3b22523cbab36403004192130524dfde6ca09b902f8f80d34ec75
+machine_hash: 0b14235db4dab48b45f3c8bfc7a8c4ea6c5b0940acb87431772d3b654bc4bd9e
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,10 +46,10 @@ record:
   title: 2 Model Support changes in v2.1.260
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-09-02-core-limit-anthropic-thinking-block-binding-to-claude-5-1-models-so-older-deploy|Core
-  Limit Anthropic thinking block binding to Claude 5.1+ models so older…]]'
 - '[[Changes/OpenCode/2026-09-02-default-provider-header-timeouts-to-five-minutes-so-slow-model-startups-fail-les|Default
   provider header timeouts to five minutes so slow model startups fail less often]]'
+- '[[Changes/Superwhisper/2026-09-02-2-model-support-changes-in-superwhisper-windows-1-6-5|2
+  Model Support changes in Superwhisper Windows 1.6.5]]'
 - '[[Changes/ChatGPT/2026-09-03-today-we-re-introducing-gpt-6-astra-with-improvements-in-coding-research-compute-069f67|Introducing
   GPT-6 Astra]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-03-v2-1-260-github-382367470-ac2ba1fc|claude-code-2026-09-03-v2-1-260-github-382367470-ac2ba1fc]]'
